@@ -61,6 +61,13 @@ def main():
     )
     print(f"Linked expressions not yet in the dictionary: {len(missing)}")
 
+    for name in ("phase1", "phase2", "phase3-chengyu"):
+        qp = DATA / "queue" / f"{name}.json"
+        if qp.exists():
+            q = json.loads(qp.read_text(encoding="utf-8"))
+            done = sum(1 for m in q if m["text"] in texts)
+            print(f"  {name}: {done}/{len(q)} written")
+
     if args.summary:
         return
     if outstanding:

@@ -75,12 +75,18 @@ fit; filtering by a broad theme also finds everything tagged with its detailed t
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 
-## Plan
+## Plan (target: 5,000 entries, no duplicates)
 
 1. ✅ App infrastructure + 20 sample entries for review.
-2. All 1,455 items from the user's two lists (`data/master_list.json`), most common first
-   (sorted by THUOCL rank; unranked items after).
-3. Linked synonyms/antonyms and the most frequent chengyu missing from the lists.
-4. Additional high-frequency chengyu (THUOCL ranking), 俗语/谚语, 歇后语 and 惯用语 — maximum
-   useful coverage, no fixed cap.
-5. 四字词语: as many useful ones as possible from the agreed categories.
+2. **Phase 1, the user's lists:** all 1,455 items in `data/queue/phase1.json`
+   (= `data/master_list.json`), most common first (THUOCL rank; unranked after).
+3. **Phase 2, the 1,000 most common chengyu:** the 739 of THUOCL's top 1,000 not already in
+   phase 1 (`data/queue/phase2.json`), most common first.
+4. **Phase 3, broad coverage to 5,000 (~2,800 entries):** popular and common first:
+   - ~1,900 more chengyu, continuing down THUOCL (only those confirmed by the Xinhua idiom
+     dictionary; `data/queue/phase3-chengyu.json`)
+   - ~350 俗语/谚语, ~250 歇后语 (common ones from the Xinhua 歇后语 list), ~150 惯用语,
+     ~100 名句 and ~50 more 四字词语 (narrative/descriptive, cultural, common news phrases)
+   - linked synonyms/antonyms that are still missing are pulled forward as they come up
+
+Entries are written in batches, each batch validated (`cargo test`) and published.
