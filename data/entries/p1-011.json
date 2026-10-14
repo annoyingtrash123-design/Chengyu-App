@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "fen-dao-yang-biao",
+    "text": "分道扬镳",
+    "pinyin": "fēn dào yáng biāo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "journeys-and-exploration"
+    ],
+    "literal": "split · road · raise · bridle",
+    "natural": "Taking separate roads and riding off",
+    "meaning": {
+      "en": "To part ways; to go separate directions because of different goals.",
+      "zh": "分路而行。比喻因目标不同而各奔各的前程。"
+    },
+    "equivalents": [
+      "part ways",
+      "go separate ways",
+      "part company",
+      "a parting of the ways"
+    ],
+    "examples": [
+      {
+        "zh": "两位创始人因理念不同分道扬镳。",
+        "en": "The two founders parted ways over their different visions."
+      },
+      {
+        "zh": "这支乐队合作十年后终于分道扬镳。",
+        "en": "After ten years together, the band finally went their separate ways."
+      }
+    ],
+    "origin": {
+      "source": "《魏书·河间公齐传》",
+      "story": {
+        "en": "Two officials argued over who should yield the road in Luoyang. Emperor Xiaowen ruled that they should \"take separate roads and raise their bridles\" (分路扬镳) — each go his own way.",
+        "zh": "元志与李彪争道，北魏孝文帝说：\"洛阳我之丰沛，自应分路扬镳。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Partners, bands, couples and allies. 镳 is biāo.",
+      "zh": "多作谓语。\"镳\"读 biāo。"
+    },
+    "synonyms": [
+      "各奔东西",
+      "背道而驰"
+    ],
+    "antonyms": [
+      "志同道合",
+      "携手并进",
+      "风雨同舟"
+    ]
+  },
+  {
+    "id": "huo-ling-huo-xian",
+    "text": "活灵活现",
+    "pinyin": "huó líng huó xiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-acting",
+      "excellent-writing"
+    ],
+    "literal": "lively · spirited · lively · appearing",
+    "natural": "Vividly alive",
+    "meaning": {
+      "en": "Vivid and lifelike, as if real.",
+      "zh": "形容神情逼真，使人感到好像亲眼看到一般。"
+    },
+    "equivalents": [
+      "vivid",
+      "lifelike",
+      "bring to life",
+      "larger than life"
+    ],
+    "examples": [
+      {
+        "zh": "他把当时的情景讲得活灵活现。",
+        "en": "He described the scene so vividly you could almost see it."
+      },
+      {
+        "zh": "画上的小猫活灵活现，好像要跳出来。",
+        "en": "The kitten in the painting is so lifelike it looks ready to jump out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement (讲得活灵活现).",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "栩栩如生",
+      "惟妙惟肖",
+      "绘声绘色"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "呆板"
+    ]
+  },
+  {
+    "id": "feng-yu-tong-zhou",
+    "text": "风雨同舟",
+    "pinyin": "fēng yǔ tóng zhōu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "danger"
+    ],
+    "literal": "wind · rain · same · boat",
+    "natural": "In the same boat through wind and rain",
+    "meaning": {
+      "en": "To stand together through hard times.",
+      "zh": "在风雨中同乘一条船。比喻共同经历患难。"
+    },
+    "equivalents": [
+      "in the same boat",
+      "through thick and thin",
+      "stand shoulder to shoulder"
+    ],
+    "examples": [
+      {
+        "zh": "他们夫妻风雨同舟走过了五十年。",
+        "en": "The couple have stood together through thick and thin for fifty years."
+      },
+      {
+        "zh": "困难时期，全体员工风雨同舟，公司挺了过来。",
+        "en": "In the hard times all the staff pulled together, and the company survived."
+      }
+    ],
+    "origin": {
+      "source": "《孙子兵法·九地》",
+      "story": {
+        "en": "Sunzi notes that the people of Wu and Yue hate each other, yet \"when crossing in the same boat and caught by wind, they help each other like left and right hands\".",
+        "zh": "《孙子·九地》：\"夫吴人与越人相恶也，当其同舟而济，遇风，其相救也如左右手。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Couples, partners, nations in crisis.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "患难与共",
+      "同甘共苦"
+    ],
+    "antonyms": [
+      "分道扬镳",
+      "同床异梦",
+      "各自为政"
+    ]
+  },
+  {
+    "id": "you-shou-hao-xian",
+    "text": "游手好闲",
+    "pinyin": "yóu shǒu hào xián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up",
+      "negative-character-flaws"
+    ],
+    "literal": "idle · hands · love · leisure",
+    "natural": "Idle hands and a love of leisure",
+    "meaning": {
+      "en": "To loaf about and avoid work.",
+      "zh": "游荡懒散，不爱劳动。"
+    },
+    "equivalents": [
+      "loaf about",
+      "a layabout",
+      "bone idle",
+      "twiddle one's thumbs"
+    ],
+    "examples": [
+      {
+        "zh": "他毕业后一直游手好闲，不找工作。",
+        "en": "Since graduating he's just been loafing about without looking for work."
+      },
+      {
+        "zh": "父母最担心孩子变得游手好闲。",
+        "en": "What parents fear most is their child becoming a layabout."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 好 is hào (to love).",
+      "zh": "多作谓语、定语。\"好\"读 hào。"
+    },
+    "synonyms": [
+      "无所事事",
+      "好逸恶劳",
+      "不务正业"
+    ],
+    "antonyms": [
+      "兢兢业业",
+      "勤勤恳恳",
+      "吃苦耐劳"
+    ]
+  },
+  {
+    "id": "dian-shan-lei-ming",
+    "text": "电闪雷鸣",
+    "pinyin": "diàn shǎn léi míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "nature"
+    ],
+    "literal": "lightning · flash · thunder · roar",
+    "natural": "Lightning flashing and thunder rumbling",
+    "meaning": {
+      "en": "A thunderstorm; lightning flashing and thunder roaring. Also very fast and forceful.",
+      "zh": "闪电划过，雷声轰鸣。也比喻快速、有力。"
+    },
+    "equivalents": [
+      "thunder and lightning",
+      "a thunderstorm",
+      "lightning-fast"
+    ],
+    "examples": [
+      {
+        "zh": "半夜里电闪雷鸣，孩子吓得哭了。",
+        "en": "There was thunder and lightning in the night, and the child cried with fright."
+      },
+      {
+        "zh": "一时间电闪雷鸣，大雨倾盆而下。",
+        "en": "Suddenly lightning flashed, thunder roared and rain poured down."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Mostly literal weather description.",
+      "zh": "多作谓语、定语，多用于描写天气。"
+    },
+    "synonyms": [
+      "雷电交加",
+      "狂风暴雨"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "san-jian-qi-kou",
+    "text": "三缄其口",
+    "pinyin": "sān jiān qí kǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poor-speech-and-silence",
+      "speech"
+    ],
+    "literal": "three · seal · its · mouth",
+    "natural": "Its mouth sealed three times",
+    "meaning": {
+      "en": "To keep one's mouth shut; to be cautious and say nothing.",
+      "zh": "在嘴上贴了三道封条。形容说话谨慎，也指不肯开口。"
+    },
+    "equivalents": [
+      "keep one's lips sealed",
+      "tight-lipped",
+      "say nothing",
+      "no comment"
+    ],
+    "examples": [
+      {
+        "zh": "记者追问内情，发言人却三缄其口。",
+        "en": "Reporters pressed for details, but the spokesperson stayed tight-lipped."
+      },
+      {
+        "zh": "在这个问题上，他一向三缄其口。",
+        "en": "He has always kept his lips sealed on this issue."
+      }
+    ],
+    "origin": {
+      "source": "《孔子家语·观周》",
+      "story": {
+        "en": "In the ancestral temple of Zhou, Confucius saw a bronze figure whose mouth was sealed three times, with an inscription warning: \"The ancients were cautious in speech.\"",
+        "zh": "《孔子家语》：孔子观周，\"入后稷之庙，堂右阶之前，有金人焉，三缄其口，而铭其背曰：古之慎言人也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often about officials refusing to comment.",
+      "zh": "多作谓语，多指不肯表态。"
+    },
+    "synonyms": [
+      "守口如瓶",
+      "缄口不言",
+      "讳莫如深"
+    ],
+    "antonyms": [
+      "口若悬河",
+      "畅所欲言",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "lin-ci-zhi-bi",
+    "text": "鳞次栉比",
+    "pinyin": "lín cì zhì bǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "successful-construction",
+      "numbers"
+    ],
+    "literal": "scale · order · comb-teeth · side by side",
+    "natural": "Lined up like fish scales and comb teeth",
+    "meaning": {
+      "en": "(Of buildings) closely packed in neat rows.",
+      "zh": "像鱼鳞和梳子齿那样有次序地排列着。多形容房屋密集。"
+    },
+    "equivalents": [
+      "row upon row",
+      "closely packed",
+      "cheek by jowl"
+    ],
+    "examples": [
+      {
+        "zh": "市中心高楼鳞次栉比。",
+        "en": "Skyscrapers stand row upon row in the city centre."
+      },
+      {
+        "zh": "古镇上鳞次栉比的老房子很有味道。",
+        "en": "The closely packed old houses of the ancient town are full of character."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Mostly about buildings and shops. 栉 is zhì.",
+      "zh": "多作谓语、定语，多形容房屋、店铺。\"栉\"读 zhì。"
+    },
+    "synonyms": [
+      "星罗棋布",
+      "密密麻麻"
+    ],
+    "antonyms": [
+      "稀稀落落",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "fu-di-chou-xin",
+    "text": "釜底抽薪",
+    "pinyin": "fǔ dǐ chōu xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "wisdom"
+    ],
+    "literal": "cauldron · bottom · pull · firewood",
+    "natural": "Pull the firewood from under the pot",
+    "meaning": {
+      "en": "To solve a problem at its root; to remove the source of trouble.",
+      "zh": "把锅底下的柴火抽掉。比喻从根本上解决问题。"
+    },
+    "equivalents": [
+      "cut off at the source",
+      "take the wind out of someone's sails",
+      "pull the rug out from under"
+    ],
+    "examples": [
+      {
+        "zh": "要治理污染，必须釜底抽薪，关停违规工厂。",
+        "en": "To tackle pollution, we must cut it off at the source and shut down illegal factories."
+      },
+      {
+        "zh": "对方釜底抽薪，挖走了我们的核心技术人员。",
+        "en": "Our rival pulled the rug out from under us by poaching our key engineers."
+      }
+    ],
+    "origin": {
+      "source": "北齐·魏收《为侯景叛移梁朝文》；《三十六计》",
+      "story": {
+        "en": "Wei Shou wrote: \"pull out the firewood to stop the boiling, cut the weeds and remove the roots\" (抽薪止沸，剪草除根). It later became one of the Thirty-Six Stratagems.",
+        "zh": "魏收：\"抽薪止沸，剪草除根。\"后为《三十六计》之一。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive (釜底抽薪的办法). 釜 is fǔ.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "正本清源",
+      "斩草除根"
+    ],
+    "antonyms": [
+      "扬汤止沸",
+      "火上浇油",
+      "治标不治本"
+    ]
+  },
+  {
+    "id": "dan-zhan-xin-jing",
+    "text": "胆战心惊",
+    "pinyin": "dǎn zhàn xīn jīng",
+    "variants": [
+      "心惊胆战"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "gallbladder · tremble · heart · alarmed",
+    "natural": "Courage trembling, heart alarmed",
+    "meaning": {
+      "en": "Terrified; trembling with fear.",
+      "zh": "形容十分害怕。"
+    },
+    "equivalents": [
+      "scared stiff",
+      "quaking in one's boots",
+      "terrified",
+      "heart in one's mouth"
+    ],
+    "examples": [
+      {
+        "zh": "走在悬崖边的小路上，我胆战心惊。",
+        "en": "Walking along the cliff-edge path, I was scared stiff."
+      },
+      {
+        "zh": "那部恐怖片看得人胆战心惊。",
+        "en": "That horror film had everyone quaking in their boots."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement. Also 心惊胆战.",
+      "zh": "多作谓语、补语。也作\"心惊胆战\"。"
+    },
+    "synonyms": [
+      "提心吊胆",
+      "魂飞魄散",
+      "毛骨悚然"
+    ],
+    "antonyms": [
+      "若无其事",
+      "泰然自若",
+      "面不改色"
+    ]
+  },
+  {
+    "id": "jian-ren-bu-ba",
+    "text": "坚韧不拔",
+    "pinyin": "jiān rèn bù bá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "positive-character-qualities"
+    ],
+    "literal": "firm · tough · not · uproot",
+    "natural": "Firm, tough and impossible to uproot",
+    "meaning": {
+      "en": "Firm and unyielding; tenacious.",
+      "zh": "形容意志坚定，不可动摇。"
+    },
+    "equivalents": [
+      "tenacious",
+      "unshakeable",
+      "dogged",
+      "true grit"
+    ],
+    "examples": [
+      {
+        "zh": "成功需要坚韧不拔的毅力。",
+        "en": "Success requires tenacious perseverance."
+      },
+      {
+        "zh": "他以坚韧不拔的精神完成了横渡海峡的壮举。",
+        "en": "With dogged determination he completed the feat of swimming the strait."
+      }
+    ],
+    "usage": {
+      "en": "Attributive (坚韧不拔的意志/精神).",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "百折不挠",
+      "坚定不移",
+      "锲而不舍"
+    ],
+    "antonyms": [
+      "半途而废",
+      "见异思迁",
+      "一曝十寒"
+    ]
+  },
+  {
+    "id": "qi-si-hui-sheng",
+    "text": "起死回生",
+    "pinyin": "qǐ sǐ huí shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing",
+      "miraculous-occurrences"
+    ],
+    "literal": "raise · dead · return · life",
+    "natural": "Raising the dead back to life",
+    "meaning": {
+      "en": "To bring back from the dead; to revive something hopeless.",
+      "zh": "使死人复活。形容医术高明，也比喻把处于绝境的事物挽救过来。"
+    },
+    "equivalents": [
+      "bring back from the dead",
+      "a miracle cure",
+      "breathe new life into",
+      "a turnaround"
+    ],
+    "examples": [
+      {
+        "zh": "新管理团队让这家濒临倒闭的公司起死回生。",
+        "en": "The new management brought the near-bankrupt company back from the dead."
+      },
+      {
+        "zh": "医生再高明，也不能起死回生。",
+        "en": "However brilliant a doctor is, they can't raise the dead."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Figurative use (businesses, teams) is very common.",
+      "zh": "多作谓语，比喻用法很常见。"
+    },
+    "synonyms": [
+      "妙手回春",
+      "枯木逢春",
+      "死灰复燃"
+    ],
+    "antonyms": [
+      "病入膏肓",
+      "无药可救",
+      "回天乏术"
+    ]
+  },
+  {
+    "id": "quan-shen-guan-zhu",
+    "text": "全神贯注",
+    "pinyin": "quán shén guàn zhù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "reading-and-study"
+    ],
+    "literal": "whole · spirit · pour · into",
+    "natural": "Pouring one's whole spirit into it",
+    "meaning": {
+      "en": "With complete concentration; totally absorbed.",
+      "zh": "全部精神集中在一点上。形容注意力高度集中。"
+    },
+    "equivalents": [
+      "totally focused",
+      "in the zone",
+      "all eyes and ears",
+      "absorbed"
+    ],
+    "examples": [
+      {
+        "zh": "他全神贯注地盯着棋盘。",
+        "en": "He stared at the chessboard in total concentration."
+      },
+      {
+        "zh": "手术时，医生全神贯注，不敢有一丝分心。",
+        "en": "During the operation, the surgeons were totally focused."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial (全神贯注地). Very common in school writing.",
+      "zh": "多作状语，作文常用。"
+    },
+    "synonyms": [
+      "聚精会神",
+      "专心致志",
+      "目不转睛"
+    ],
+    "antonyms": [
+      "心不在焉",
+      "三心二意",
+      "漫不经心"
+    ]
+  },
+  {
+    "id": "si-li-tao-sheng",
+    "text": "死里逃生",
+    "pinyin": "sǐ lǐ táo shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks",
+      "danger"
+    ],
+    "literal": "death · inside · escape · life",
+    "natural": "Escaping alive from the jaws of death",
+    "meaning": {
+      "en": "To have a narrow escape from death.",
+      "zh": "从极危险的境地中逃脱，幸免于死。"
+    },
+    "equivalents": [
+      "a narrow escape",
+      "cheat death",
+      "escape by the skin of one's teeth",
+      "a close shave"
+    ],
+    "examples": [
+      {
+        "zh": "他在地震中死里逃生。",
+        "en": "He had a narrow escape in the earthquake."
+      },
+      {
+        "zh": "经历了死里逃生，她更加珍惜生活。",
+        "en": "Having cheated death, she treasures life all the more."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Accidents, disasters, battles.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "九死一生",
+      "绝处逢生",
+      "虎口余生"
+    ],
+    "antonyms": [
+      "坐以待毙",
+      "在劫难逃"
+    ]
+  },
+  {
+    "id": "ping-an-wu-shi",
+    "text": "平安无事",
+    "pinyin": "píng ān wú shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "daily"
+    ],
+    "literal": "peaceful · safe · not have · incident",
+    "natural": "Safe and sound with nothing amiss",
+    "meaning": {
+      "en": "Safe and sound; all well, with nothing untoward happening.",
+      "zh": "平平安安，没有发生事故。"
+    },
+    "equivalents": [
+      "safe and sound",
+      "all quiet",
+      "all's well",
+      "no harm done"
+    ],
+    "examples": [
+      {
+        "zh": "一路平安无事，我们顺利到达了。",
+        "en": "The journey was uneventful and we arrived safely."
+      },
+      {
+        "zh": "只要大家平安无事就好。",
+        "en": "As long as everyone's safe, that's all that matters."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Everyday and reassuring.",
+      "zh": "多作谓语，日常用语。"
+    },
+    "synonyms": [
+      "安然无恙",
+      "太平无事",
+      "相安无事"
+    ],
+    "antonyms": [
+      "多灾多难",
+      "祸不单行",
+      "大难临头"
+    ]
+  },
+  {
+    "id": "dang-ji-li-duan",
+    "text": "当机立断",
+    "pinyin": "dāng jī lì duàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "facing · moment · immediately · decide",
+    "natural": "Decide on the spot when the moment comes",
+    "meaning": {
+      "en": "To make a prompt decision at the critical moment.",
+      "zh": "抓住时机，立即作出决断。"
+    },
+    "equivalents": [
+      "decisive",
+      "make a snap decision",
+      "seize the moment",
+      "act on the spot"
+    ],
+    "examples": [
+      {
+        "zh": "船长当机立断，下令所有人弃船。",
+        "en": "The captain made a snap decision and ordered everyone to abandon ship."
+      },
+      {
+        "zh": "面对危机，领导者必须当机立断。",
+        "en": "In a crisis, a leader must act decisively."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Praises decisiveness. 当 is dāng.",
+      "zh": "多作谓语，称赞果断。"
+    },
+    "synonyms": [
+      "斩钉截铁",
+      "毅然决然",
+      "雷厉风行"
+    ],
+    "antonyms": [
+      "犹豫不决",
+      "优柔寡断",
+      "举棋不定"
+    ]
+  },
+  {
+    "id": "men-ke-luo-que",
+    "text": "门可罗雀",
+    "pinyin": "mén kě luó què",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "business-failure",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "gate · can · net · sparrow",
+    "natural": "You could net sparrows at the gate",
+    "meaning": {
+      "en": "Deserted; very few visitors or customers.",
+      "zh": "大门前可以张网捕雀。形容门庭冷落，宾客稀少。"
+    },
+    "equivalents": [
+      "dead quiet",
+      "not a soul about",
+      "a ghost town",
+      "tumbleweed"
+    ],
+    "examples": [
+      {
+        "zh": "新商场开业不久就门可罗雀。",
+        "en": "Soon after it opened, the new mall was like a ghost town."
+      },
+      {
+        "zh": "他失势以后，家里门可罗雀。",
+        "en": "After he lost power, hardly anyone came to his door."
+      }
+    ],
+    "origin": {
+      "source": "《史记·汲郑列传》",
+      "story": {
+        "en": "When Lord Zhai was a high official, guests crowded his gate; when he lost office, \"one could set up a sparrow net outside his gate\" (门外可设雀罗). Sima Qian used it to show how fickle friendship is.",
+        "zh": "翟公为廷尉时宾客盈门，罢官后\"门外可设雀罗\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Shops, businesses, the homes of fallen officials.",
+      "zh": "多作谓语，形容店铺、门庭冷落。"
+    },
+    "synonyms": [
+      "门庭冷落",
+      "冷冷清清",
+      "无人问津"
+    ],
+    "antonyms": [
+      "门庭若市",
+      "车水马龙",
+      "络绎不绝"
+    ]
+  },
+  {
+    "id": "da-yao-da-bai",
+    "text": "大摇大摆",
+    "pinyin": "dà yáo dà bǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "appearance"
+    ],
+    "literal": "big · sway · big · swing",
+    "natural": "Swaying and swinging grandly",
+    "meaning": {
+      "en": "To swagger; to walk in a conceited or brazen way.",
+      "zh": "走路时身子摇摇摆摆。形容自以为了不起、满不在乎的样子。"
+    },
+    "equivalents": [
+      "swagger",
+      "strut",
+      "bold as brass",
+      "as if one owns the place"
+    ],
+    "examples": [
+      {
+        "zh": "他没买票，却大摇大摆地走进了电影院。",
+        "en": "He hadn't bought a ticket but strolled into the cinema bold as brass."
+      },
+      {
+        "zh": "小偷大摇大摆地离开了现场。",
+        "en": "The thief swaggered away from the scene."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial (大摇大摆地走). Implies arrogance or brazenness.",
+      "zh": "多作状语，含傲慢或明目张胆之意。"
+    },
+    "synonyms": [
+      "趾高气扬",
+      "明目张胆",
+      "旁若无人"
+    ],
+    "antonyms": [
+      "蹑手蹑脚",
+      "畏畏缩缩",
+      "偷偷摸摸"
+    ]
+  },
+  {
+    "id": "qin-qin-ken-ken",
+    "text": "勤勤恳恳",
+    "pinyin": "qín qín kěn kěn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "effort"
+    ],
+    "literal": "diligent · diligent · earnest · earnest",
+    "natural": "Diligent and earnest",
+    "meaning": {
+      "en": "Diligent and conscientious; hard-working.",
+      "zh": "形容勤劳踏实。"
+    },
+    "equivalents": [
+      "hard-working",
+      "conscientious",
+      "diligent",
+      "put in the hours"
+    ],
+    "examples": [
+      {
+        "zh": "他在这家工厂勤勤恳恳地干了一辈子。",
+        "en": "He worked conscientiously at the factory his whole life."
+      },
+      {
+        "zh": "她勤勤恳恳，深受同事尊敬。",
+        "en": "She's diligent and highly respected by her colleagues."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. An idiomatic AABB.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "兢兢业业",
+      "任劳任怨",
+      "踏踏实实"
+    ],
+    "antonyms": [
+      "游手好闲",
+      "敷衍了事",
+      "马马虎虎"
+    ]
+  },
+  {
+    "id": "xin-kuang-shen-yi",
+    "text": "心旷神怡",
+    "pinyin": "xīn kuàng shén yí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "nature"
+    ],
+    "literal": "heart · open · spirit · pleased",
+    "natural": "Heart opened up and spirit delighted",
+    "meaning": {
+      "en": "Relaxed and happy; refreshed in body and mind.",
+      "zh": "心境开阔，精神愉快。"
+    },
+    "equivalents": [
+      "refreshed",
+      "on cloud nine",
+      "at peace with the world",
+      "a breath of fresh air"
+    ],
+    "examples": [
+      {
+        "zh": "站在山顶眺望远方，让人心旷神怡。",
+        "en": "Looking out from the mountaintop leaves you feeling completely refreshed."
+      },
+      {
+        "zh": "海边的清风吹得人心旷神怡。",
+        "en": "The sea breeze makes you feel relaxed and happy."
+      }
+    ],
+    "origin": {
+      "source": "宋·范仲淹《岳阳楼记》",
+      "story": {
+        "en": "Fan Zhongyan's famous essay describes climbing Yueyang Tower on a bright spring day: \"then the heart opens and the spirit is delighted; favour and disgrace are both forgotten\" (心旷神怡，宠辱偕忘).",
+        "zh": "范仲淹《岳阳楼记》：\"登斯楼也，则有心旷神怡，宠辱偕忘，把酒临风，其喜洋洋者矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate, often 令人心旷神怡. About scenery and fresh air.",
+      "zh": "多作谓语，常用\"令人心旷神怡\"。"
+    },
+    "synonyms": [
+      "神清气爽",
+      "赏心悦目",
+      "怡然自得"
+    ],
+    "antonyms": [
+      "心烦意乱",
+      "忧心忡忡",
+      "郁郁寡欢"
+    ]
+  },
+  {
+    "id": "xin-zhao-bu-xuan",
+    "text": "心照不宣",
+    "pinyin": "xīn zhào bù xuān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "poor-speech-and-silence"
+    ],
+    "literal": "heart · understand · not · say",
+    "natural": "Understood in the heart but left unspoken",
+    "meaning": {
+      "en": "A tacit understanding; both know without saying it.",
+      "zh": "彼此心里明白，而不公开说出来。"
+    },
+    "equivalents": [
+      "a tacit understanding",
+      "an unspoken agreement",
+      "nudge nudge, wink wink",
+      "read between the lines"
+    ],
+    "examples": [
+      {
+        "zh": "两人相视一笑，心照不宣。",
+        "en": "They smiled at each other — no words needed."
+      },
+      {
+        "zh": "这是行业内心照不宣的规则。",
+        "en": "It's an unwritten rule that everyone in the industry understands."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "心领神会",
+      "默契"
+    ],
+    "antonyms": [
+      "开诚布公",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "hou-lai-ju-shang",
+    "text": "后来居上",
+    "pinyin": "hòu lái jū shàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "later · come · occupy · top",
+    "natural": "The latecomer ends up on top",
+    "meaning": {
+      "en": "A latecomer overtakes those who came earlier.",
+      "zh": "后来的超过先前的。"
+    },
+    "equivalents": [
+      "come from behind",
+      "overtake the leaders",
+      "the last shall be first",
+      "a dark horse"
+    ],
+    "examples": [
+      {
+        "zh": "这家新公司后来居上，成了行业第一。",
+        "en": "The newcomer came from behind to become the industry leader."
+      },
+      {
+        "zh": "比赛最后一圈，他后来居上夺得冠军。",
+        "en": "On the last lap he overtook the leaders to win."
+      }
+    ],
+    "origin": {
+      "source": "《史记·汲郑列传》",
+      "story": {
+        "en": "The blunt minister Ji An complained to Emperor Wu that he promoted officials \"like stacking firewood — those who come later end up on top\" (如积薪耳，后来者居上).",
+        "zh": "汲黯对汉武帝说：\"陛下用群臣，如积薪耳，后来者居上。\"原带不满。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Now positive; originally a complaint about unfair promotion.",
+      "zh": "多作谓语，现为褒义，原含不满。"
+    },
+    "synonyms": [
+      "青出于蓝",
+      "异军突起"
+    ],
+    "antonyms": [
+      "望尘莫及",
+      "瞠乎其后"
+    ]
+  },
+  {
+    "id": "bing-jia-qi-qu",
+    "text": "并驾齐驱",
+    "pinyin": "bìng jià qí qū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "side-by-side · harness · equal · gallop",
+    "natural": "Horses harnessed side by side, galloping together",
+    "meaning": {
+      "en": "To keep pace with each other; to be on a par.",
+      "zh": "几匹马并排拉着车一齐奔跑。比喻彼此不分前后，齐头并进。"
+    },
+    "equivalents": [
+      "neck and neck",
+      "keep pace with",
+      "on a par with",
+      "level pegging"
+    ],
+    "examples": [
+      {
+        "zh": "中国在这个领域已能与发达国家并驾齐驱。",
+        "en": "China can now keep pace with developed countries in this field."
+      },
+      {
+        "zh": "两家公司在市场上并驾齐驱。",
+        "en": "The two companies are neck and neck in the market."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often 与……并驾齐驱.",
+      "zh": "多作谓语，常用\"与……并驾齐驱\"。"
+    },
+    "synonyms": [
+      "齐头并进",
+      "旗鼓相当",
+      "不相上下"
+    ],
+    "antonyms": [
+      "望尘莫及",
+      "遥遥领先",
+      "相形见绌"
+    ]
+  },
+  {
+    "id": "zi-gao-fen-yong",
+    "text": "自告奋勇",
+    "pinyin": "zì gào fèn yǒng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "effort"
+    ],
+    "literal": "self · announce · rouse · courage",
+    "natural": "Stepping up of one's own accord",
+    "meaning": {
+      "en": "To volunteer for a difficult task.",
+      "zh": "主动要求承担某项艰巨的任务。"
+    },
+    "equivalents": [
+      "volunteer",
+      "step up",
+      "put one's hand up",
+      "rise to the occasion"
+    ],
+    "examples": [
+      {
+        "zh": "没人愿意去，小王自告奋勇地报了名。",
+        "en": "Nobody wanted to go, so Xiao Wang volunteered."
+      },
+      {
+        "zh": "她自告奋勇担任了晚会的主持人。",
+        "en": "She stepped up to host the party."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "挺身而出",
+      "毛遂自荐",
+      "当仁不让"
+    ],
+    "antonyms": [
+      "临阵脱逃",
+      "畏缩不前",
+      "推三阻四"
+    ]
+  },
+  {
+    "id": "dong-shan-zai-qi",
+    "text": "东山再起",
+    "pinyin": "dōng shān zài qǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "east · mountain · again · rise",
+    "natural": "Rising again from the eastern mountain",
+    "meaning": {
+      "en": "To make a comeback after a setback or retirement.",
+      "zh": "指再度出任要职，也比喻失势后重新恢复地位。"
+    },
+    "equivalents": [
+      "make a comeback",
+      "bounce back",
+      "rise from the ashes",
+      "stage a return"
+    ],
+    "examples": [
+      {
+        "zh": "创业失败后，他总结教训，三年后东山再起。",
+        "en": "After his business failed he learned his lessons and made a comeback three years later."
+      },
+      {
+        "zh": "这位老将宣布复出，准备东山再起。",
+        "en": "The veteran announced his return, ready to stage a comeback."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·谢安传》",
+      "story": {
+        "en": "The statesman Xie An lived in retirement on Dongshan (East Mountain) until his forties, then returned to office and led Jin to victory at the Battle of Fei River.",
+        "zh": "东晋谢安隐居会稽东山，四十多岁才出仕，后官至宰相，指挥了淝水之战。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Business failures, politics, sport.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "卷土重来",
+      "重整旗鼓",
+      "死灰复燃"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "yi-gu-zuo-qi",
+    "text": "一鼓作气",
+    "pinyin": "yī gǔ zuò qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "efficiency"
+    ],
+    "literal": "one · drum · rouse · spirit",
+    "natural": "At the first drumbeat, morale is roused",
+    "meaning": {
+      "en": "To do something in one go, while enthusiasm is at its height.",
+      "zh": "第一次击鼓时士气振作。比喻趁劲头大的时候一下子把事情做完。"
+    },
+    "equivalents": [
+      "in one go",
+      "strike while the iron is hot",
+      "in one fell swoop",
+      "keep the momentum"
+    ],
+    "examples": [
+      {
+        "zh": "我们一鼓作气，把剩下的工作都做完了。",
+        "en": "We kept up the momentum and finished all the remaining work in one go."
+      },
+      {
+        "zh": "他一鼓作气爬到了山顶。",
+        "en": "He climbed to the summit in one go."
+      }
+    ],
+    "origin": {
+      "source": "《左传·庄公十年》",
+      "story": {
+        "en": "At the Battle of Changshao, Cao Gui held back Lu's troops until Qi had drummed three times. He explained: \"The first drum rouses courage, the second weakens it, the third exhausts it\" (一鼓作气，再而衰，三而竭).",
+        "zh": "曹刿论战：\"夫战，勇气也。一鼓作气，再而衰，三而竭。\""
+      }
+    },
+    "usage": {
+      "en": "Adverbial or predicate. In speech 一 is yì.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "趁热打铁",
+      "一气呵成"
+    ],
+    "antonyms": [
+      "半途而废",
+      "拖泥带水",
+      "再衰三竭"
+    ]
+  }
+]
