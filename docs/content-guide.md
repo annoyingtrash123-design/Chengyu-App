@@ -81,6 +81,7 @@ fit; filtering by a broad theme also finds everything tagged with its detailed t
     with the same meaning (绿水青山/青山绿水), and full/short forms (塞翁失马/…焉知非福).
     Distinct expressions with a related form stay separate entries (翻天覆地 vs 天翻地覆, 争分夺秒 vs 分秒必争).
   - `cargo test` fails if a form belongs to two entries or an entry lists its own variant as a synonym.
+  - Run `python3 scripts/lint_variants.py` on each batch: it flags likely variant pairs for review (add confirmed-distinct pairs to its `DISTINCT` list).
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 
