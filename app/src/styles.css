@@ -127,10 +127,12 @@ button { cursor: pointer; }
 .kind-suyu { background: #e3ecf7; color: #2d5b8a; }
 .kind-xiehouyu { background: #efe4f5; color: #6b3d8a; }
 .kind-guanyongyu { background: #f6ecd6; color: #8a6420; }
+.kind-phrase { background: #e6efe9; color: #3e6b55; }
 @media (prefers-color-scheme: dark) {
   .kind-suyu { background: #1e2c3d; color: #8fb8e6; }
   .kind-xiehouyu { background: #31223d; color: #cfa3ef; }
   .kind-guanyongyu { background: #3a2f1a; color: #e6c27a; }
+  .kind-phrase { background: #1f3329; color: #9fd4b8; }
 }
 .sent-positive { color: var(--good); }
 .sent-negative { color: var(--bad); }

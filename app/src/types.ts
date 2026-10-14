@@ -1,6 +1,6 @@
 // Shapes returned by the Rust core (see core/src/app.rs).
 
-export type Kind = "chengyu" | "suyu" | "xiehouyu" | "guanyongyu";
+export type Kind = "chengyu" | "suyu" | "xiehouyu" | "guanyongyu" | "phrase";
 export type Sentiment = "positive" | "negative" | "neutral";
 export type Register = "casual" | "neutral" | "formal" | "literary";
 export type Status = "new" | "learning" | "mastered";

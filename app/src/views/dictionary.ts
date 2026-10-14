@@ -185,7 +185,7 @@ export function openFilterSheet(initial: Filters, onApply: (f: Filters) => void)
     h("div", { class: "row-between" }, h("h2", null, t("筛选", "Filters")), h("button", { class: "icon-btn", onclick: close, "aria-label": "Close" }, "×")),
     section(
       t("类型", "Type"),
-      chipGroup<Kind>(["chengyu", "suyu", "xiehouyu", "guanyongyu"], f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k]})`, (v) => (f.kinds = v)),
+      chipGroup<Kind>(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"], f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k]})`, (v) => (f.kinds = v)),
     ),
     section(
       t("主题", "Theme"),

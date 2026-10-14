@@ -1,0 +1,201 @@
+{
+ "暗号无损": {
+  "action": "correct",
+  "to": "完好无损"
+ },
+ "暗自庆幸": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "别无所有": {
+  "action": "correct",
+  "to": "一无所有"
+ },
+ "博学多识": {
+  "action": "correct",
+  "to": "博学多才"
+ },
+ "不材之木": {
+  "action": "keep"
+ },
+ "不善言辞": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "才思枯竭": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "车胤囊萤": {
+  "action": "correct",
+  "to": "囊萤映雪"
+ },
+ "催人奋进": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "从容镇定": {
+  "action": "correct",
+  "to": "从容不迫"
+ },
+ "大饱耳福": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "幡然醒悟": {
+  "action": "correct",
+  "to": "幡然悔悟"
+ },
+ "风雨同船": {
+  "action": "correct",
+  "to": "风雨同舟"
+ },
+ "刚入社会": {
+  "action": "drop"
+ },
+ "高楼林立": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "慧眼识珠": {
+  "action": "keep"
+ },
+ "互利共赢": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "火上烧油": {
+  "action": "correct",
+  "to": "火上浇油"
+ },
+ "健壮如牛": {
+  "action": "keep",
+  "kind": "phrase",
+  "note": "kept at user request"
+ },
+ "决定俗称": {
+  "action": "correct",
+  "to": "约定俗成"
+ },
+ "开辟天地": {
+  "action": "correct",
+  "to": "开天辟地"
+ },
+ "乐而不返": {
+  "action": "correct",
+  "to": "乐而忘返"
+ },
+ "乐于追随": {
+  "action": "drop"
+ },
+ "力挽危局": {
+  "action": "correct",
+  "to": "力挽狂澜"
+ },
+ "厉害关系": {
+  "action": "correct",
+  "to": "利害攸关"
+ },
+ "连夜追赶": {
+  "action": "drop"
+ },
+ "亮如白昼": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "螺蛳壳里做道场": {
+  "action": "keep"
+ },
+ "梅兰竹菊": {
+  "action": "keep",
+  "kind": "phrase",
+  "note": "kept at user request (cultural phrase)"
+ },
+ "门庭冷落": {
+  "action": "keep"
+ },
+ "名声大噪": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "新露头角": {
+  "action": "correct",
+  "to": "崭露头角"
+ },
+ "炮制后事": {
+  "action": "drop"
+ },
+ "破罐子破摔": {
+  "action": "keep"
+ },
+ "润物无声": {
+  "action": "keep"
+ },
+ "锐意进取": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "身残志坚": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "文思泉涌": {
+  "action": "keep"
+ },
+ "无所萦怀": {
+  "action": "drop"
+ },
+ "无一幸免": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "物有所值": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "西施捧心": {
+  "action": "keep"
+ },
+ "细致入微": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "向阳花木": {
+  "action": "correct",
+  "to": "近水楼台先得月，向阳花木易为春"
+ },
+ "消灭在萌芽之中": {
+  "action": "correct",
+  "to": "防微杜渐"
+ },
+ "心有灵犀": {
+  "action": "keep"
+ },
+ "星辰大海": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "一日为师": {
+  "action": "correct",
+  "to": "一日为师，终身为父"
+ },
+ "以手打手": {
+  "action": "drop"
+ },
+ "知错就改": {
+  "action": "keep",
+  "kind": "phrase"
+ },
+ "作为不安": {
+  "action": "correct",
+  "to": "坐卧不安"
+ },
+ "巧夺神工": {
+  "action": "correct",
+  "to": "巧夺天工"
+ },
+ "扭转危局": {
+  "action": "correct",
+  "to": "扭转乾坤"
+ }
+}

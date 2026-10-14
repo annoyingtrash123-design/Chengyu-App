@@ -46,7 +46,7 @@ def main():
     by_freq = collections.Counter(e["frequency"] for e in entries)
 
     print(f"Entries: {len(entries)}")
-    for kind in ("chengyu", "suyu", "xiehouyu", "guanyongyu"):
+    for kind in ("chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"):
         print(f"  {kind:<11} {by_kind.get(kind, 0)}")
     names = {1: "core", 2: "common", 3: "literary"}
     print("  by frequency: " + ", ".join(f"{names[k]} {by_freq.get(k, 0)}" for k in (1, 2, 3)))
@@ -66,7 +66,7 @@ def main():
     if outstanding:
         print(f"\nNext {min(args.todo, len(outstanding))} from the master list:")
         for m in outstanding[: args.todo]:
-            print(f"  {m['text']}  {m['pinyin']}")
+            print(f"  {m['text']}  {m.get('pinyin', '')}")
     if missing:
         print("\nReferenced as synonym/antonym but missing:")
         print("  " + "、".join(missing))

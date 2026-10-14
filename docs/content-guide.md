@@ -7,7 +7,7 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "id": "hua-she-tian-zu",          // toneless pinyin slug, unique, a-z 0-9 and dashes
   "text": "画蛇添足",
   "pinyin": "huà shé tiān zú",      // one syllable per character, tone marks on every syllable
-  "kind": "chengyu",                 // chengyu | suyu | xiehouyu | guanyongyu
+  "kind": "chengyu",                 // chengyu | suyu | xiehouyu | guanyongyu | phrase (四字词语)
   "frequency": 1,                    // 1 core (everyday), 2 common (news/writing), 3 literary
   "sentiment": "negative",           // positive (褒义) | negative (贬义) | neutral (中性)
   "register": "neutral",             // casual | neutral | formal | literary
@@ -37,6 +37,8 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
 - **Separable 惯用语** (拍马屁 → 拍老板的马屁) may appear split in examples.
 - **Frequency**: aim for ~500 entries at level 1 overall (the "Core 500" deck takes the
   most common first).
+- **四字词语 (`phrase`)**: common set phrases that aren't classic idioms (互利共赢, 细致入微)
+  and cultural terms (梅兰竹菊, 琴棋书画). Cultural phrases like these are wanted.
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 

@@ -1,5 +1,7 @@
 # Questionable items in your master list (53)
 
+**Decided:** suggestions accepted, except #19 健壮如牛 and #29 梅兰竹菊, which are kept as 四字词语 at your request. Result: 905 unique items in `data/master_list.json`.
+
 These weren't found in chinese-xinhua, THUOCL or CC-CEDICT. My suggestion for each is below — reply with the numbers you disagree with.
 
 Legend: ✏️ correct a likely typo · ✅ keep, it's real · 🟡 keep but label as a common four-character phrase (四字词语) · ❌ drop

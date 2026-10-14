@@ -14,6 +14,9 @@ pub enum Kind {
     Xiehouyu,
     /// 惯用语 — colloquial set phrases, usually three characters.
     Guanyongyu,
+    /// 四字词语 — common set phrases that are not classic idioms, including
+    /// cultural terms such as 梅兰竹菊.
+    Phrase,
 }
 
 /// 褒义 / 贬义 / 中性.

@@ -176,6 +176,7 @@ impl App {
                         "suyu": count(Kind::Suyu),
                         "xiehouyu": count(Kind::Xiehouyu),
                         "guanyongyu": count(Kind::Guanyongyu),
+                        "phrase": count(Kind::Phrase),
                     },
                 })
             }

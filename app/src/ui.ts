@@ -70,6 +70,7 @@ export const KIND_LABEL: Record<Kind, { zh: string; en: string }> = {
   suyu: { zh: "俗语", en: "Proverb" },
   xiehouyu: { zh: "歇后语", en: "Two-part saying" },
   guanyongyu: { zh: "惯用语", en: "Idiom phrase" },
+  phrase: { zh: "四字词语", en: "Set phrase" },
 };
 
 export const SENTIMENT_LABEL: Record<Sentiment, { zh: string; en: string }> = {

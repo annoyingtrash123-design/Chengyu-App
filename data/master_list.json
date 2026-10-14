@@ -32,8 +32,8 @@
   "pinyin": "àn dù chén cāng"
  },
  {
-  "text": "暗号无损",
-  "pinyin": "àn hào wú sǔn"
+  "text": "完好无损",
+  "corrected_from": "暗号无损"
  },
  {
   "text": "暗无天日",
@@ -41,7 +41,8 @@
  },
  {
   "text": "暗自庆幸",
-  "pinyin": "àn zì qìng xìng"
+  "pinyin": "àn zì qìng xìng",
+  "kind": "phrase"
  },
  {
   "text": "八仙过海",
@@ -124,8 +125,8 @@
   "pinyin": "bié jù yī gé"
  },
  {
-  "text": "别无所有",
-  "pinyin": "bié wú suǒ yǒu"
+  "text": "一无所有",
+  "corrected_from": "别无所有"
  },
  {
   "text": "别有用心",
@@ -148,8 +149,8 @@
   "pinyin": "bó cǎi zhòng cháng"
  },
  {
-  "text": "博学多识",
-  "pinyin": "bó xué duō shí"
+  "text": "博学多才",
+  "corrected_from": "博学多识"
  },
  {
   "text": "不材之木",
@@ -173,7 +174,8 @@
  },
  {
   "text": "不善言辞",
-  "pinyin": "bù shàn yán cí"
+  "pinyin": "bù shàn yán cí",
+  "kind": "phrase"
  },
  {
   "text": "不务正业",
@@ -217,7 +219,8 @@
  },
  {
   "text": "才思枯竭",
-  "pinyin": "cái sī kū jié"
+  "pinyin": "cái sī kū jié",
+  "kind": "phrase"
  },
  {
   "text": "沧海一粟",
@@ -240,8 +243,8 @@
   "pinyin": "chē shuǐ mǎ lóng"
  },
  {
-  "text": "车胤囊萤",
-  "pinyin": "chē yìn náng yíng"
+  "text": "囊萤映雪",
+  "corrected_from": "车胤囊萤"
  },
  {
   "text": "沉鱼落雁",
@@ -425,7 +428,8 @@
  },
  {
   "text": "催人奋进",
-  "pinyin": "cuī rén fèn jìn"
+  "pinyin": "cuī rén fèn jìn",
+  "kind": "phrase"
  },
  {
   "text": "存心不良",
@@ -438,10 +442,6 @@
  {
   "text": "从容不迫",
   "pinyin": "cóng róng bù pò"
- },
- {
-  "text": "从容镇定",
-  "pinyin": "cóng róng zhèn dìng"
  },
  {
   "text": "从善如流",
@@ -481,7 +481,8 @@
  },
  {
   "text": "大饱耳福",
-  "pinyin": "dà bǎo ěr fú"
+  "pinyin": "dà bǎo ěr fú",
+  "kind": "phrase"
  },
  {
   "text": "大饱口福",
@@ -676,8 +677,8 @@
   "pinyin": "fàn shàng zuò luàn"
  },
  {
-  "text": "幡然醒悟",
-  "pinyin": "fān rán xǐng wù"
+  "text": "幡然悔悟",
+  "corrected_from": "幡然醒悟"
  },
  {
   "text": "飞熊入梦",
@@ -728,8 +729,8 @@
   "pinyin": "fēng huá zhèng mào"
  },
  {
-  "text": "风雨同船",
-  "pinyin": "fēng yǔ tóng chuán"
+  "text": "风雨同舟",
+  "corrected_from": "风雨同船"
  },
  {
   "text": "风声鹤唳",
@@ -796,10 +797,6 @@
   "pinyin": "gāng bì zì yòng"
  },
  {
-  "text": "刚入社会",
-  "pinyin": "gāng rù shè huì"
- },
- {
   "text": "干将莫邪",
   "pinyin": "gàn jiāng mò yé"
  },
@@ -809,7 +806,8 @@
  },
  {
   "text": "高楼林立",
-  "pinyin": "gāo lóu lín lì"
+  "pinyin": "gāo lóu lín lì",
+  "kind": "phrase"
  },
  {
   "text": "高枕无忧",
@@ -1093,11 +1091,12 @@
  },
  {
   "text": "互利共赢",
-  "pinyin": "hù lì gòng yíng"
+  "pinyin": "hù lì gòng yíng",
+  "kind": "phrase"
  },
  {
-  "text": "火上烧油",
-  "pinyin": "huǒ shàng shāo yóu"
+  "text": "火上浇油",
+  "corrected_from": "火上烧油"
  },
  {
   "text": "饥寒交迫",
@@ -1193,7 +1192,8 @@
  },
  {
   "text": "健壮如牛",
-  "pinyin": "jiàn zhuàng rú niú"
+  "pinyin": "jiàn zhuàng rú niú",
+  "kind": "phrase"
  },
  {
   "text": "剑拔弩张",
@@ -1340,8 +1340,8 @@
   "pinyin": "jué chù féng shēng"
  },
  {
-  "text": "决定俗称",
-  "pinyin": "jué dìng sú chēng"
+  "text": "约定俗成",
+  "corrected_from": "决定俗称"
  },
  {
   "text": "君子之交",
@@ -1356,8 +1356,8 @@
   "pinyin": "kāi juàn yǒu yì"
  },
  {
-  "text": "开辟天地",
-  "pinyin": "kāi pì tiān dì"
+  "text": "开天辟地",
+  "corrected_from": "开辟天地"
  },
  {
   "text": "侃侃而谈",
@@ -1472,12 +1472,8 @@
   "pinyin": "lè bù sī shǔ"
  },
  {
-  "text": "乐而不返",
-  "pinyin": "lè ér bù fǎn"
- },
- {
-  "text": "乐于追随",
-  "pinyin": "lè yú zhuī suí"
+  "text": "乐而忘返",
+  "corrected_from": "乐而不返"
  },
  {
   "text": "雷厉风行",
@@ -1496,10 +1492,6 @@
   "pinyin": "lì wǎn kuáng lán"
  },
  {
-  "text": "力挽危局",
-  "pinyin": "lì wǎn wēi jú"
- },
- {
   "text": "力透纸背",
   "pinyin": "lì tòu zhǐ bèi"
  },
@@ -1512,8 +1504,8 @@
   "pinyin": "lì jīng tú zhì"
  },
  {
-  "text": "厉害关系",
-  "pinyin": "lì hài guān xì"
+  "text": "利害攸关",
+  "corrected_from": "厉害关系"
  },
  {
   "text": "利欲熏心",
@@ -1538,10 +1530,6 @@
  {
   "text": "炼石补天",
   "pinyin": "liàn shí bǔ tiān"
- },
- {
-  "text": "连夜追赶",
-  "pinyin": "lián yè zhuī gǎn"
  },
  {
   "text": "连篇累牍",
@@ -1585,7 +1573,8 @@
  },
  {
   "text": "亮如白昼",
-  "pinyin": "liàng rú bái zhòu"
+  "pinyin": "liàng rú bái zhòu",
+  "kind": "phrase"
  },
  {
   "text": "烈火见真金",
@@ -1765,7 +1754,8 @@
  },
  {
   "text": "梅兰竹菊",
-  "pinyin": "méi lán zhú jú"
+  "pinyin": "méi lán zhú jú",
+  "kind": "phrase"
  },
  {
   "text": "梅妻鹤子",
@@ -1881,7 +1871,8 @@
  },
  {
   "text": "名声大噪",
-  "pinyin": "míng shēng dà zào"
+  "pinyin": "míng shēng dà zào",
+  "kind": "phrase"
  },
  {
   "text": "摩肩接踵",
@@ -1936,10 +1927,6 @@
   "pinyin": "nán kē yī mèng"
  },
  {
-  "text": "囊萤映雪",
-  "pinyin": "náng yíng yìng xuě"
- },
- {
   "text": "难兄难弟",
   "pinyin": "nán xiōng nán dì"
  },
@@ -1988,8 +1975,8 @@
   "pinyin": "nǚ wā bǔ tiān"
  },
  {
-  "text": "新露头角",
-  "pinyin": "xīn lù tóu jiǎo"
+  "text": "崭露头角",
+  "corrected_from": "新露头角"
  },
  {
   "text": "噤若寒蝉",
@@ -2022,10 +2009,6 @@
  {
   "text": "抛砖引玉",
   "pinyin": "pāo zhuān yǐn yù"
- },
- {
-  "text": "炮制后事",
-  "pinyin": "pào zhì hòu shì"
  },
  {
   "text": "皮之不存",
@@ -2377,7 +2360,8 @@
  },
  {
   "text": "锐意进取",
-  "pinyin": "ruì yì jìn qǔ"
+  "pinyin": "ruì yì jìn qǔ",
+  "kind": "phrase"
  },
  {
   "text": "乳臭未干",
@@ -2457,7 +2441,8 @@
  },
  {
   "text": "身残志坚",
-  "pinyin": "shēn cán zhì jiān"
+  "pinyin": "shēn cán zhì jiān",
+  "kind": "phrase"
  },
  {
   "text": "身强力壮",
@@ -2964,16 +2949,13 @@
   "pinyin": "wú wēi bù zhì"
  },
  {
-  "text": "无所萦怀",
-  "pinyin": "wú suǒ yíng huái"
- },
- {
   "text": "无中生有",
   "pinyin": "wú zhōng shēng yǒu"
  },
  {
   "text": "无一幸免",
-  "pinyin": "wú yī xìng miǎn"
+  "pinyin": "wú yī xìng miǎn",
+  "kind": "phrase"
  },
  {
   "text": "无价之宝",
@@ -2997,7 +2979,8 @@
  },
  {
   "text": "物有所值",
-  "pinyin": "wù yǒu suǒ zhí"
+  "pinyin": "wù yǒu suǒ zhí",
+  "kind": "phrase"
  },
  {
   "text": "误人子弟",
@@ -3017,7 +3000,8 @@
  },
  {
   "text": "细致入微",
-  "pinyin": "xì zhì rù wēi"
+  "pinyin": "xì zhì rù wēi",
+  "kind": "phrase"
  },
  {
   "text": "下笔成章",
@@ -3060,12 +3044,8 @@
   "pinyin": "xiǎng è xíng yún"
  },
  {
-  "text": "向阳花木",
-  "pinyin": "xiàng yáng huā mù"
- },
- {
-  "text": "消灭在萌芽之中",
-  "pinyin": "xiāo miè zài méng yá zhī zhōng"
+  "text": "近水楼台先得月，向阳花木易为春",
+  "corrected_from": "向阳花木"
  },
  {
   "text": "小心翼翼",
@@ -3129,7 +3109,8 @@
  },
  {
   "text": "星辰大海",
-  "pinyin": "xīng chén dà hǎi"
+  "pinyin": "xīng chén dà hǎi",
+  "kind": "phrase"
  },
  {
   "text": "形单影只",
@@ -3292,8 +3273,8 @@
   "pinyin": "yī qiū zhī hé"
  },
  {
-  "text": "一日为师",
-  "pinyin": "yī rì wéi shī"
+  "text": "一日为师，终身为父",
+  "corrected_from": "一日为师"
  },
  {
   "text": "一丝不苟",
@@ -3354,10 +3335,6 @@
  {
   "text": "以偏概全",
   "pinyin": "yǐ piān gài quán"
- },
- {
-  "text": "以手打手",
-  "pinyin": "yǐ shǒu dǎ shǒu"
  },
  {
   "text": "意气相投",
@@ -3505,7 +3482,8 @@
  },
  {
   "text": "知错就改",
-  "pinyin": "zhī cuò jiù gǎi"
+  "pinyin": "zhī cuò jiù gǎi",
+  "kind": "phrase"
  },
  {
   "text": "助纣为虐",
@@ -3520,8 +3498,8 @@
   "pinyin": "zhàng shì qī rén"
  },
  {
-  "text": "作为不安",
-  "pinyin": "zuò wéi bù ān"
+  "text": "坐卧不安",
+  "corrected_from": "作为不安"
  },
  {
   "text": "惴惴不安",
@@ -3628,12 +3606,8 @@
   "pinyin": "lìng yǎn xiāng kàn"
  },
  {
-  "text": "巧夺神工",
-  "pinyin": "qiǎo duó tiān gōng"
- },
- {
-  "text": "扭转危局",
-  "pinyin": "niǔ zhuǎn wēi jú"
+  "text": "扭转乾坤",
+  "corrected_from": "扭转危局"
  },
  {
   "text": "树倒猢狲散",
