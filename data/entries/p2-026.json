@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "zuo-you-wei-nan",
+    "text": "左右为难",
+    "pinyin": "zuǒ yòu wéi nán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation",
+      "confusion-and-doubt"
+    ],
+    "literal": "left · right · find · difficult",
+    "natural": "caught between two fires",
+    "meaning": {
+      "en": "In a dilemma either way.",
+      "zh": "左也不是，右也不是，形容处境困难。"
+    },
+    "equivalents": [
+      "in a dilemma",
+      "between a rock and a hard place",
+      "torn"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈和妻子吵架，他左右为难。",
+        "en": "His mother and wife are quarrelling, and he's caught in the middle."
+      },
+      {
+        "zh": "这个决定让我左右为难。",
+        "en": "This decision leaves me torn."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "进退两难",
+      "骑虎难下"
+    ],
+    "antonyms": [
+      "左右逢源",
+      "两全其美"
+    ]
+  },
+  {
+    "id": "feng-ping-lang-jing",
+    "text": "风平浪静",
+    "pinyin": "fēng píng làng jìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "peace-and-prosperity"
+    ],
+    "literal": "wind · calm · waves · still",
+    "natural": "calm and peaceful",
+    "meaning": {
+      "en": "Calm, with no wind or waves; peaceful.",
+      "zh": "没有风浪，比喻平静无事。"
+    },
+    "equivalents": [
+      "calm",
+      "peaceful",
+      "all quiet"
+    ],
+    "examples": [
+      {
+        "zh": "今天海上风平浪静。",
+        "en": "The sea is calm today."
+      },
+      {
+        "zh": "风波过后，公司又恢复了风平浪静。",
+        "en": "After the turmoil, the company is calm again."
+      }
+    ],
+    "usage": {
+      "en": "Literal and figurative.",
+      "zh": "可用本义，也可比喻。"
+    },
+    "synonyms": [
+      "相安无事",
+      "太平无事"
+    ],
+    "antonyms": [
+      "波涛汹涌",
+      "轩然大波",
+      "风起云涌"
+    ]
+  },
+  {
+    "id": "ru-lu-bo-bing",
+    "text": "如履薄冰",
+    "pinyin": "rú lǚ bó bīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "conduct",
+      "poems-prose"
+    ],
+    "literal": "like · tread · thin · ice",
+    "natural": "walk on thin ice",
+    "meaning": {
+      "en": "Extremely cautious, as if treading on thin ice.",
+      "zh": "像走在薄冰上，比喻行事极为谨慎。"
+    },
+    "equivalents": [
+      "walk on eggshells",
+      "tread carefully"
+    ],
+    "examples": [
+      {
+        "zh": "新官上任，他做事如履薄冰。",
+        "en": "New in the job, he treads very carefully."
+      },
+      {
+        "zh": "在这种环境下工作，大家都如履薄冰。",
+        "en": "Working in this environment, everyone walks on eggshells."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·小雅·小旻》",
+      "story": {
+        "en": "'Trembling and wary, as if on the edge of an abyss, as if treading on thin ice' (战战兢兢，如临深渊，如履薄冰).",
+        "zh": "《诗经》：“战战兢兢，如临深渊，如履薄冰。”"
+      }
+    },
+    "usage": {
+      "en": "Often with 如临深渊.",
+      "zh": "常与“如临深渊”连用。"
+    },
+    "synonyms": [
+      "小心翼翼",
+      "战战兢兢",
+      "谨小慎微"
+    ],
+    "antonyms": [
+      "肆无忌惮",
+      "掉以轻心",
+      "为所欲为"
+    ]
+  },
+  {
+    "id": "xian-tian-bu-zu",
+    "text": "先天不足",
+    "pinyin": "xiān tiān bù zú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "structural-problems"
+    ],
+    "literal": "before · birth · not · enough",
+    "natural": "inherently weak",
+    "meaning": {
+      "en": "Weak from birth; with inherent deficiencies.",
+      "zh": "生来体质就差；比喻事物原有的基础差。"
+    },
+    "equivalents": [
+      "inherently weak",
+      "flawed from the start"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子先天不足，体弱多病。",
+        "en": "The child was weak from birth and often ill."
+      },
+      {
+        "zh": "这个项目先天不足，资金一直短缺。",
+        "en": "The project was flawed from the start, always short of funds."
+      }
+    ],
+    "usage": {
+      "en": "Literal and figurative.",
+      "zh": "可用本义，也可比喻。"
+    },
+    "synonyms": [
+      "体弱多病",
+      "根基不稳"
+    ],
+    "antonyms": [
+      "得天独厚"
+    ]
+  },
+  {
+    "id": "zhao-yao-zhuang-pian",
+    "text": "招摇撞骗",
+    "pinyin": "zhāo yáo zhuàng piàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "corruption-and-injustice"
+    ],
+    "literal": "show off · swindle",
+    "natural": "con people",
+    "meaning": {
+      "en": "To swindle under false pretences.",
+      "zh": "假借名义，进行诈骗。"
+    },
+    "equivalents": [
+      "con",
+      "swindle",
+      "pose as"
+    ],
+    "examples": [
+      {
+        "zh": "他冒充警察招摇撞骗。",
+        "en": "He posed as a policeman to con people."
+      },
+      {
+        "zh": "这伙人到处招摇撞骗。",
+        "en": "The gang swindled people everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坑蒙拐骗",
+      "弄虚作假"
+    ],
+    "antonyms": [
+      "光明正大",
+      "老老实实"
+    ]
+  },
+  {
+    "id": "jie-yi-shi-huo",
+    "text": "解疑释惑",
+    "pinyin": "jiě yí shì huò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "mental-clarity"
+    ],
+    "literal": "resolve · doubts · explain · confusion",
+    "natural": "clear up doubts",
+    "meaning": {
+      "en": "To resolve doubts and confusion.",
+      "zh": "解除疑问，消除困惑。"
+    },
+    "equivalents": [
+      "clear up doubts",
+      "answer questions"
+    ],
+    "examples": [
+      {
+        "zh": "专家在线为网友解疑释惑。",
+        "en": "Experts answer netizens' questions online."
+      },
+      {
+        "zh": "老师耐心地为学生解疑释惑。",
+        "en": "The teacher patiently cleared up the students' doubts."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "传道授业",
+      "答疑解惑"
+    ],
+    "antonyms": [
+      "故弄玄虚"
+    ]
+  },
+  {
+    "id": "bu-su-zhi-ke",
+    "text": "不速之客",
+    "pinyin": "bù sù zhī kè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "not · invited · 's · guest",
+    "natural": "an uninvited guest",
+    "meaning": {
+      "en": "An unexpected, uninvited guest.",
+      "zh": "没有邀请而自己来的客人。"
+    },
+    "equivalents": [
+      "an uninvited guest",
+      "gatecrasher"
+    ],
+    "examples": [
+      {
+        "zh": "晚饭时来了一位不速之客。",
+        "en": "An uninvited guest turned up at dinner."
+      },
+      {
+        "zh": "一只猫成了我们野餐的不速之客。",
+        "en": "A cat gatecrashed our picnic."
+      }
+    ],
+    "origin": {
+      "source": "《周易·需卦》",
+      "story": {
+        "en": "'Three uninvited guests arrive; treat them with respect and in the end there will be good fortune' (有不速之客三人来，敬之终吉).",
+        "zh": "《周易》：“有不速之客三人来，敬之终吉。”"
+      }
+    },
+    "usage": {
+      "en": "Neutral or humorous.",
+      "zh": "中性或幽默。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "座上宾"
+    ]
+  },
+  {
+    "id": "xin-fu-kou-fu",
+    "text": "心服口服",
+    "pinyin": "xīn fú kǒu fú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "口服心服"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "heart · convinced · mouth · convinced",
+    "natural": "totally convinced",
+    "meaning": {
+      "en": "Convinced both in heart and in words.",
+      "zh": "心里和嘴上都信服。"
+    },
+    "equivalents": [
+      "fully convinced",
+      "concede completely"
+    ],
+    "examples": [
+      {
+        "zh": "他输得心服口服。",
+        "en": "He lost fair and square and admitted it."
+      },
+      {
+        "zh": "你的解释让我心服口服。",
+        "en": "Your explanation has completely convinced me."
+      }
+    ],
+    "usage": {
+      "en": "Also 口服心服.",
+      "zh": "也作“口服心服”。"
+    },
+    "synonyms": [
+      "心悦诚服",
+      "甘拜下风"
+    ],
+    "antonyms": [
+      "口服心不服",
+      "不以为然"
+    ]
+  },
+  {
+    "id": "dong-pin-xi-cou",
+    "text": "东拼西凑",
+    "pinyin": "dōng pīn xī còu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-workmanship",
+      "poverty-and-hardship"
+    ],
+    "literal": "east · piece · west · gather",
+    "natural": "cobble together",
+    "meaning": {
+      "en": "To scrape together from here and there.",
+      "zh": "这里拼一点，那里凑一点。"
+    },
+    "equivalents": [
+      "cobble together",
+      "scrape together",
+      "patchwork"
+    ],
+    "examples": [
+      {
+        "zh": "他东拼西凑借了一笔钱。",
+        "en": "He scraped together a loan from here and there."
+      },
+      {
+        "zh": "这篇文章是东拼西凑出来的。",
+        "en": "This essay is a patchwork of borrowed bits."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "七拼八凑",
+      "拼拼凑凑"
+    ],
+    "antonyms": [
+      "浑然一体",
+      "一气呵成"
+    ]
+  },
+  {
+    "id": "yi-luo-qian-zhang",
+    "text": "一落千丈",
+    "pinyin": "yī luò qiān zhàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "one · fall · thousand · zhang",
+    "natural": "plummet",
+    "meaning": {
+      "en": "To fall sharply.",
+      "zh": "一下子落下千丈，形容地位、声誉、景况急剧下降。"
+    },
+    "equivalents": [
+      "plummet",
+      "nosedive",
+      "crash"
+    ],
+    "examples": [
+      {
+        "zh": "丑闻曝光后，他的声誉一落千丈。",
+        "en": "After the scandal broke, his reputation plummeted."
+      },
+      {
+        "zh": "公司业绩一落千丈。",
+        "en": "The company's performance nosedived."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "每况愈下",
+      "急转直下",
+      "江河日下"
+    ],
+    "antonyms": [
+      "蒸蒸日上",
+      "青云直上",
+      "扶摇直上"
+    ]
+  },
+  {
+    "id": "yuan-yuan-ben-ben",
+    "text": "原原本本",
+    "pinyin": "yuán yuán běn běn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "stories"
+    ],
+    "literal": "origin · origin · root · root",
+    "natural": "from beginning to end",
+    "meaning": {
+      "en": "In full detail from start to finish.",
+      "zh": "从头到尾，一点不漏。"
+    },
+    "equivalents": [
+      "from start to finish",
+      "in full",
+      "word for word"
+    ],
+    "examples": [
+      {
+        "zh": "他把事情原原本本地告诉了我。",
+        "en": "He told me the whole story from start to finish."
+      },
+      {
+        "zh": "请原原本本地复述一遍。",
+        "en": "Please repeat it exactly as it was."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "一五一十",
+      "从头到尾"
+    ],
+    "antonyms": [
+      "断章取义"
+    ]
+  },
+  {
+    "id": "jiu-shi-lun-shi",
+    "text": "就事论事",
+    "pinyin": "jiù shì lùn shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "fairness-and-impartiality"
+    ],
+    "literal": "on · matter · discuss · matter",
+    "natural": "stick to the point",
+    "meaning": {
+      "en": "To discuss the matter on its own merits.",
+      "zh": "根据事情本身的情况来评论是非得失。"
+    },
+    "equivalents": [
+      "stick to the facts",
+      "judge on its merits"
+    ],
+    "examples": [
+      {
+        "zh": "我们就事论事，不要扯到个人问题。",
+        "en": "Let's stick to the point and not make it personal."
+      },
+      {
+        "zh": "他评论问题总是就事论事。",
+        "en": "He always judges issues on their merits."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; sometimes 'narrowly'.",
+      "zh": "中性，有时指局限于事情本身。"
+    },
+    "synonyms": [
+      "实事求是"
+    ],
+    "antonyms": [
+      "借题发挥",
+      "上纲上线"
+    ]
+  },
+  {
+    "id": "mei-wan-mei-liao",
+    "text": "没完没了",
+    "pinyin": "méi wán méi liǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "time",
+      "verbosity"
+    ],
+    "literal": "not · finish · not · end",
+    "natural": "endless",
+    "meaning": {
+      "en": "Never-ending.",
+      "zh": "没有完结的时候。"
+    },
+    "equivalents": [
+      "endless",
+      "on and on",
+      "never-ending"
+    ],
+    "examples": [
+      {
+        "zh": "雨下得没完没了。",
+        "en": "The rain just won't stop."
+      },
+      {
+        "zh": "他没完没了地抱怨。",
+        "en": "He complains endlessly."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "喋喋不休",
+      "无休无止"
+    ],
+    "antonyms": [
+      "适可而止",
+      "戛然而止"
+    ]
+  },
+  {
+    "id": "bao-xiao-zu-guo",
+    "text": "报效祖国",
+    "pinyin": "bào xiào zǔ guó",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "high-aspirations",
+      "news-and-officialese"
+    ],
+    "literal": "repay · serve · motherland",
+    "natural": "serve one's country",
+    "meaning": {
+      "en": "To serve one's country out of gratitude.",
+      "zh": "为祖国效力，报答祖国。"
+    },
+    "equivalents": [
+      "serve one's country"
+    ],
+    "examples": [
+      {
+        "zh": "他学成归国，报效祖国。",
+        "en": "Having finished his studies, he returned to serve his country."
+      },
+      {
+        "zh": "青年要立志报效祖国。",
+        "en": "Young people should resolve to serve their country."
+      }
+    ],
+    "usage": {
+      "en": "Patriotic, formal.",
+      "zh": "书面，爱国语境。"
+    },
+    "synonyms": [
+      "精忠报国"
+    ],
+    "antonyms": [
+      "卖国求荣"
+    ]
+  },
+  {
+    "id": "lao-min-shang-cai",
+    "text": "劳民伤财",
+    "pinyin": "láo mín shāng cái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "political-corruption"
+    ],
+    "literal": "tire · people · harm · wealth",
+    "natural": "a waste of manpower and money",
+    "meaning": {
+      "en": "Wasting people's labour and money.",
+      "zh": "既使人民劳苦，又耗费钱财。"
+    },
+    "equivalents": [
+      "a waste of time and money",
+      "costly and pointless"
+    ],
+    "examples": [
+      {
+        "zh": "这种形象工程劳民伤财。",
+        "en": "This vanity project wastes labour and money."
+      },
+      {
+        "zh": "反复拆建，劳民伤财。",
+        "en": "Repeatedly tearing down and rebuilding is a huge waste."
+      }
+    ],
+    "usage": {
+      "en": "Criticism of wasteful projects.",
+      "zh": "批评浪费的工程。"
+    },
+    "synonyms": [
+      "得不偿失",
+      "铺张浪费"
+    ],
+    "antonyms": [
+      "事半功倍",
+      "利国利民"
+    ]
+  },
+  {
+    "id": "wei-yan-song-ting",
+    "text": "危言耸听",
+    "pinyin": "wēi yán sǒng tīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "alarming · words · startle · listeners",
+    "natural": "alarmist",
+    "meaning": {
+      "en": "Deliberately alarming talk.",
+      "zh": "故意说些吓人的话，使人震惊。"
+    },
+    "equivalents": [
+      "scaremongering",
+      "alarmist"
+    ],
+    "examples": [
+      {
+        "zh": "这不是危言耸听，问题确实很严重。",
+        "en": "This isn't scaremongering; the problem really is serious."
+      },
+      {
+        "zh": "有些媒体危言耸听，夸大事实。",
+        "en": "Some media are alarmist and exaggerate the facts."
+      }
+    ],
+    "usage": {
+      "en": "Often 并非危言耸听.",
+      "zh": "常说“并非危言耸听”。"
+    },
+    "synonyms": [
+      "耸人听闻",
+      "夸大其词"
+    ],
+    "antonyms": [
+      "实事求是"
+    ]
+  },
+  {
+    "id": "tian-ma-xing-kong",
+    "text": "天马行空",
+    "pinyin": "tiān mǎ xíng kōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "arts",
+      "freedom",
+      "excellent-writing"
+    ],
+    "literal": "heavenly · horse · move · sky",
+    "natural": "unrestrained imagination",
+    "meaning": {
+      "en": "Bold and unconstrained (of style or ideas); sometimes unrealistic.",
+      "zh": "比喻气势豪放，不受拘束；也指想法不切实际。"
+    },
+    "equivalents": [
+      "free-spirited",
+      "unbridled",
+      "flights of fancy"
+    ],
+    "examples": [
+      {
+        "zh": "他的想象力天马行空。",
+        "en": "His imagination knows no bounds."
+      },
+      {
+        "zh": "这个计划太天马行空了，不现实。",
+        "en": "This plan is too fanciful to be realistic."
+      }
+    ],
+    "usage": {
+      "en": "Praise for creativity or criticism for impracticality.",
+      "zh": "可褒可贬。"
+    },
+    "synonyms": [
+      "异想天开",
+      "无拘无束"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "中规中矩"
+    ]
+  },
+  {
+    "id": "sha-fei-ku-xin",
+    "text": "煞费苦心",
+    "pinyin": "shà fèi kǔ xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "effort"
+    ],
+    "literal": "extremely · spend · bitter · effort",
+    "natural": "go to great pains",
+    "meaning": {
+      "en": "To take great pains.",
+      "zh": "形容费尽心思。"
+    },
+    "equivalents": [
+      "go to great pains",
+      "take enormous trouble"
+    ],
+    "examples": [
+      {
+        "zh": "为了准备这次晚会，她煞费苦心。",
+        "en": "She went to great pains to prepare the party."
+      },
+      {
+        "zh": "他煞费苦心地编造了一个谎言。",
+        "en": "He went to a lot of trouble to make up a lie."
+      }
+    ],
+    "usage": {
+      "en": "煞 is shà.",
+      "zh": "“煞”读shà。"
+    },
+    "synonyms": [
+      "费尽心机",
+      "绞尽脑汁",
+      "挖空心思"
+    ],
+    "antonyms": [
+      "漫不经心",
+      "敷衍了事"
+    ]
+  },
+  {
+    "id": "zi-qi-qi-ren",
+    "text": "自欺欺人",
+    "pinyin": "zì qī qī rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "self · deceive · deceive · others",
+    "natural": "fool oneself and others",
+    "meaning": {
+      "en": "To deceive oneself as well as others.",
+      "zh": "既欺骗自己，也欺骗别人。"
+    },
+    "equivalents": [
+      "fool oneself",
+      "self-deception",
+      "bury one's head in the sand"
+    ],
+    "examples": [
+      {
+        "zh": "掩盖问题只是自欺欺人。",
+        "en": "Covering up problems only fools yourself."
+      },
+      {
+        "zh": "不要自欺欺人了，你根本没准备好。",
+        "en": "Stop kidding yourself; you're not ready at all."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "掩耳盗铃",
+      "自欺"
+    ],
+    "antonyms": [
+      "实事求是",
+      "正视现实"
+    ]
+  },
+  {
+    "id": "hui-mo-ru-shen",
+    "text": "讳莫如深",
+    "pinyin": "huì mò rú shēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "poor-speech-and-silence"
+    ],
+    "literal": "conceal · nothing · like · deep",
+    "natural": "keep very quiet about",
+    "meaning": {
+      "en": "To be extremely secretive about something.",
+      "zh": "把事情隐瞒得很深，唯恐别人知道。"
+    },
+    "equivalents": [
+      "keep tight-lipped",
+      "hush up",
+      "very secretive"
+    ],
+    "examples": [
+      {
+        "zh": "对于这件事，他讳莫如深。",
+        "en": "He's very tight-lipped about the matter."
+      },
+      {
+        "zh": "官方对事故原因讳莫如深。",
+        "en": "The authorities are keeping quiet about the cause of the accident."
+      }
+    ],
+    "origin": {
+      "source": "《穀梁传·庄公三十二年》",
+      "story": {
+        "en": "'For a grave matter, nothing is concealed as deeply; deep, it is hidden' (讳莫如深，深则隐).",
+        "zh": "《穀梁传》：“讳莫如深，深则隐。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "守口如瓶",
+      "秘而不宣",
+      "闭口不谈"
+    ],
+    "antonyms": [
+      "公之于众",
+      "直言不讳",
+      "和盘托出"
+    ]
+  },
+  {
+    "id": "wu-cai-bin-fen",
+    "text": "五彩缤纷",
+    "pinyin": "wǔ cǎi bīn fēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "festivals-and-celebrations"
+    ],
+    "literal": "five · colours · profuse",
+    "natural": "a riot of colour",
+    "meaning": {
+      "en": "Brilliantly colourful.",
+      "zh": "形容颜色繁多，非常好看。"
+    },
+    "equivalents": [
+      "colourful",
+      "a riot of colour",
+      "vibrant"
+    ],
+    "examples": [
+      {
+        "zh": "节日的夜空烟花五彩缤纷。",
+        "en": "The festival night sky was a riot of colourful fireworks."
+      },
+      {
+        "zh": "花园里五彩缤纷。",
+        "en": "The garden is bursting with colour."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性。"
+    },
+    "synonyms": [
+      "五颜六色",
+      "姹紫嫣红",
+      "丰富多彩"
+    ],
+    "antonyms": [
+      "单调乏味",
+      "黯然失色"
+    ]
+  },
+  {
+    "id": "yi-kou-yao-ding",
+    "text": "一口咬定",
+    "pinyin": "yī kǒu yǎo dìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "character"
+    ],
+    "literal": "one · bite · bite · fix",
+    "natural": "insist",
+    "meaning": {
+      "en": "To insist firmly on a statement.",
+      "zh": "说话肯定，不再改变。"
+    },
+    "equivalents": [
+      "insist",
+      "swear blind",
+      "stick to one's story"
+    ],
+    "examples": [
+      {
+        "zh": "他一口咬定自己没拿钱。",
+        "en": "He insists he didn't take the money."
+      },
+      {
+        "zh": "证人一口咬定看见了嫌疑人。",
+        "en": "The witness swears she saw the suspect."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "斩钉截铁",
+      "坚持己见"
+    ],
+    "antonyms": [
+      "模棱两可",
+      "含糊其辞"
+    ]
+  },
+  {
+    "id": "yan-cheng-bu-dai",
+    "text": "严惩不贷",
+    "pinyin": "yán chéng bù dài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice",
+      "news-and-officialese"
+    ],
+    "literal": "severely · punish · not · pardon",
+    "natural": "punish without mercy",
+    "meaning": {
+      "en": "To punish severely without leniency.",
+      "zh": "严厉惩罚，绝不宽恕。"
+    },
+    "equivalents": [
+      "no leniency",
+      "punish severely"
+    ],
+    "examples": [
+      {
+        "zh": "对违法行为严惩不贷。",
+        "en": "Illegal acts will be punished without leniency."
+      },
+      {
+        "zh": "凡是贪污的，一律严惩不贷。",
+        "en": "All embezzlers will be severely punished."
+      }
+    ],
+    "usage": {
+      "en": "Official warning.",
+      "zh": "官方警告用语。"
+    },
+    "synonyms": [
+      "绳之以法"
+    ],
+    "antonyms": [
+      "网开一面",
+      "姑息养奸"
+    ]
+  },
+  {
+    "id": "pi-bei-bu-kan",
+    "text": "疲惫不堪",
+    "pinyin": "pí bèi bù kān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "psychological-pressure"
+    ],
+    "literal": "tired · exhausted · unbearably",
+    "natural": "utterly exhausted",
+    "meaning": {
+      "en": "Extremely tired.",
+      "zh": "非常疲劳。"
+    },
+    "equivalents": [
+      "exhausted",
+      "worn out",
+      "dead tired"
+    ],
+    "examples": [
+      {
+        "zh": "连续加班一周，大家都疲惫不堪。",
+        "en": "After a week of overtime, everyone is worn out."
+      },
+      {
+        "zh": "爬完山，他疲惫不堪。",
+        "en": "After the climb he was dead tired."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "筋疲力尽",
+      "身心俱疲",
+      "精疲力竭"
+    ],
+    "antonyms": [
+      "精力充沛",
+      "神采奕奕",
+      "精神焕发"
+    ]
+  },
+  {
+    "id": "yi-jia-lao-xiao",
+    "text": "一家老小",
+    "pinyin": "yī jiā lǎo xiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "one · family · old · young",
+    "natural": "the whole family",
+    "meaning": {
+      "en": "The whole family, old and young.",
+      "zh": "全家老老小小。"
+    },
+    "equivalents": [
+      "the whole family",
+      "young and old alike"
+    ],
+    "examples": [
+      {
+        "zh": "一家老小都靠他养活。",
+        "en": "The whole family depends on him."
+      },
+      {
+        "zh": "过年时一家老小团聚在一起。",
+        "en": "At New Year the whole family gets together."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "全家老少"
+    ],
+    "antonyms": []
+  }
+]
