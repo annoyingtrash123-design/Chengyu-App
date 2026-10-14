@@ -1,0 +1,1299 @@
+[
+  {
+    "id": "jiu-niu-yi-mao",
+    "text": "九牛一毛",
+    "pinyin": "jiǔ niú yī máo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "small-numbers",
+      "animals"
+    ],
+    "literal": "nine · oxen · one · hair",
+    "natural": "One hair from nine oxen",
+    "meaning": {
+      "en": "A drop in the ocean; a negligible amount.",
+      "zh": "九头牛身上的一根毛。比喻极大数量中极微小的数量。"
+    },
+    "equivalents": [
+      "a drop in the ocean",
+      "a drop in the bucket",
+      "peanuts",
+      "chicken feed"
+    ],
+    "examples": [
+      {
+        "zh": "这点钱对他来说只是九牛一毛。",
+        "en": "That amount is just peanuts to him."
+      },
+      {
+        "zh": "我知道的只是这门学问的九牛一毛。",
+        "en": "What I know is just a drop in the ocean of this field."
+      }
+    ],
+    "origin": {
+      "source": "汉·司马迁《报任安书》",
+      "story": {
+        "en": "Sima Qian, explaining why he endured castration rather than die, wrote that his death would have meant no more than \"nine oxen losing one hair\" (若九牛亡一毛).",
+        "zh": "司马迁《报任安书》：\"假令仆伏法受诛，若九牛亡一毛，与蝼蚁何以异？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "沧海一粟",
+      "微不足道",
+      "微乎其微"
+    ],
+    "antonyms": [
+      "不计其数",
+      "多如牛毛",
+      "举足轻重"
+    ]
+  },
+  {
+    "id": "gui-fu-shen-gong",
+    "text": "鬼斧神工",
+    "pinyin": "guǐ fǔ shén gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "nature"
+    ],
+    "literal": "ghost · axe · god · work",
+    "natural": "The axe of ghosts and the work of gods",
+    "meaning": {
+      "en": "Superhuman craftsmanship; a natural wonder.",
+      "zh": "形容建筑、雕塑等技艺精巧，好像不是人力所能达到的。"
+    },
+    "equivalents": [
+      "a marvel of nature",
+      "exquisite craftsmanship",
+      "awe-inspiring",
+      "a work of genius"
+    ],
+    "examples": [
+      {
+        "zh": "张家界的山峰鬼斧神工，令人惊叹。",
+        "en": "Zhangjiajie's peaks are a marvel of nature."
+      },
+      {
+        "zh": "这件玉雕鬼斧神工，堪称国宝。",
+        "en": "This jade carving is superhumanly fine — a national treasure."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·达生》",
+      "story": {
+        "en": "The carpenter Qing carved a bell stand so marvellous that \"those who saw it were astonished, as if it were the work of ghosts and spirits\" (见者惊犹鬼神).",
+        "zh": "《庄子·达生》：梓庆削木为鐻，鐻成，\"见者惊犹鬼神\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Natural scenery and fine craft.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "巧夺天工",
+      "匠心独运",
+      "叹为观止"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "拙劣不堪"
+    ]
+  },
+  {
+    "id": "yong-chui-bu-xiu",
+    "text": "永垂不朽",
+    "pinyin": "yǒng chuí bù xiǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "historical-periods"
+    ],
+    "literal": "forever · hand down · not · decay",
+    "natural": "Handed down forever, never decaying",
+    "meaning": {
+      "en": "Immortal; to live forever in memory.",
+      "zh": "指姓名、事迹、精神等永远流传，不会磨灭。"
+    },
+    "equivalents": [
+      "immortal",
+      "live on forever",
+      "eternal glory",
+      "never be forgotten"
+    ],
+    "examples": [
+      {
+        "zh": "人民英雄永垂不朽！",
+        "en": "Eternal glory to the people's heroes!"
+      },
+      {
+        "zh": "他的作品将永垂不朽。",
+        "en": "His works will live on forever."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Very formal; memorials and tributes.",
+      "zh": "多作谓语，用于纪念、悼念。"
+    },
+    "synonyms": [
+      "流芳百世",
+      "万古长青",
+      "名垂青史"
+    ],
+    "antonyms": [
+      "遗臭万年",
+      "昙花一现",
+      "烟消云散"
+    ]
+  },
+  {
+    "id": "mo-shou-cheng-gui",
+    "text": "墨守成规",
+    "pinyin": "mò shǒu chéng guī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "conformity-and-imitation"
+    ],
+    "literal": "Mo · defend · established · rules",
+    "natural": "Defending established rules like Mozi defended cities",
+    "meaning": {
+      "en": "To stick rigidly to old rules; hidebound.",
+      "zh": "指思想保守，守着老规矩不肯改变。"
+    },
+    "equivalents": [
+      "stick to the rule book",
+      "stuck in one's ways",
+      "hidebound",
+      "go by the book"
+    ],
+    "examples": [
+      {
+        "zh": "做科研不能墨守成规，要敢于创新。",
+        "en": "In research you can't stick to the rule book — dare to innovate."
+      },
+      {
+        "zh": "这家老企业墨守成规，渐渐被淘汰了。",
+        "en": "The old company was hidebound and gradually fell behind."
+      }
+    ],
+    "origin": {
+      "source": "《墨子·公输》",
+      "story": {
+        "en": "The philosopher Mozi was famed for defending cities: in a model contest he repelled all nine of Gongshu Ban's siege methods. 墨守 (Mo's defence) came to mean stubborn adherence.",
+        "zh": "墨子善于守城，与公输班模拟攻防，九次击退进攻。后以\"墨守\"指固守。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "因循守旧",
+      "故步自封",
+      "循规蹈矩"
+    ],
+    "antonyms": [
+      "推陈出新",
+      "标新立异",
+      "别出心裁"
+    ]
+  },
+  {
+    "id": "jing-gong-zhi-niao",
+    "text": "惊弓之鸟",
+    "pinyin": "jīng gōng zhī niǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "frightened · bow · (of) · bird",
+    "natural": "A bird frightened by a bowstring",
+    "meaning": {
+      "en": "Someone made jumpy by past fright.",
+      "zh": "被弓箭吓怕了的鸟。比喻受过惊吓，遇到一点动静就非常害怕的人。"
+    },
+    "equivalents": [
+      "once bitten, twice shy",
+      "jumpy",
+      "a nervous wreck",
+      "gun-shy"
+    ],
+    "examples": [
+      {
+        "zh": "被骗过一次后，他成了惊弓之鸟。",
+        "en": "After being scammed once, he's become very gun-shy."
+      },
+      {
+        "zh": "股市大跌后，投资者如惊弓之鸟。",
+        "en": "After the crash, investors are jumpy."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·楚策四》",
+      "story": {
+        "en": "The archer Geng Ying brought down a goose just by twanging his bow. He explained that the bird had been wounded before: hearing the string, it panicked, flew up, and its wound reopened.",
+        "zh": "更羸虚拉弓弦，大雁应声而落。他解释说，这只雁曾受过箭伤，听到弦响惊恐高飞，伤口裂开而坠落。"
+      }
+    },
+    "usage": {
+      "en": "Object, usually 成了/如惊弓之鸟.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "草木皆兵",
+      "风声鹤唳",
+      "一朝被蛇咬，十年怕井绳"
+    ],
+    "antonyms": [
+      "临危不惧",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "gu-zhu-yi-zhi",
+    "text": "孤注一掷",
+    "pinyin": "gū zhù yī zhì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "games-and-sports"
+    ],
+    "literal": "lone · stake · one · throw",
+    "natural": "Staking everything on one throw",
+    "meaning": {
+      "en": "To stake everything on a single throw; to gamble all.",
+      "zh": "把所有的钱一次押上去，企图最后得胜。比喻在危急时用尽全力作最后一次冒险。"
+    },
+    "equivalents": [
+      "go all in",
+      "bet the farm",
+      "put all one's eggs in one basket",
+      "roll the dice"
+    ],
+    "examples": [
+      {
+        "zh": "他孤注一掷，把全部积蓄投进了股市。",
+        "en": "He went all in and put his entire savings into the stock market."
+      },
+      {
+        "zh": "球队落后时孤注一掷，全线压上。",
+        "en": "Trailing, the team gambled everything on all-out attack."
+      }
+    ],
+    "origin": {
+      "source": "《宋史·寇准传》",
+      "story": {
+        "en": "The minister Wang Qinruo slandered Kou Zhun, telling the emperor that Kou had used him at the Battle of Chanyuan \"as a gambler stakes his last coins on one throw\" (孤注).",
+        "zh": "王钦若对宋真宗说：\"博者输钱欲尽，乃罄所有出之，谓之孤注。陛下，寇准之孤注也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "破釜沉舟",
+      "背水一战",
+      "铤而走险"
+    ],
+    "antonyms": [
+      "稳扎稳打",
+      "留有余地",
+      "步步为营"
+    ]
+  },
+  {
+    "id": "mao-sui-zi-jian",
+    "text": "毛遂自荐",
+    "pinyin": "máo suì zì jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "Mao Sui · self · recommend",
+    "natural": "Mao Sui recommending himself",
+    "meaning": {
+      "en": "To volunteer one's services; to put oneself forward.",
+      "zh": "比喻自告奋勇，自己推荐自己担任某项工作。"
+    },
+    "equivalents": [
+      "put oneself forward",
+      "volunteer",
+      "throw one's hat into the ring",
+      "step up"
+    ],
+    "examples": [
+      {
+        "zh": "他毛遂自荐，当上了班长。",
+        "en": "He put himself forward and became class monitor."
+      },
+      {
+        "zh": "求职时适当毛遂自荐也很重要。",
+        "en": "When job hunting, it's important to put yourself forward."
+      }
+    ],
+    "origin": {
+      "source": "《史记·平原君虞卿列传》",
+      "story": {
+        "en": "When Lord Pingyuan of Zhao needed twenty retainers for a mission to Chu, the unknown Mao Sui volunteered. At the Chu court his bold speech won the alliance.",
+        "zh": "平原君赴楚求援，门客毛遂主动请求同行，在楚王面前慷慨陈词，促成了合纵。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Positive.",
+      "zh": "多作谓语，褒义。"
+    },
+    "synonyms": [
+      "自告奋勇",
+      "挺身而出"
+    ],
+    "antonyms": [
+      "退避三舍",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "kai-tian-pi-di",
+    "text": "开天辟地",
+    "pinyin": "kāi tiān pì dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unprecedented-situations",
+      "stories"
+    ],
+    "literal": "open · heaven · split · earth",
+    "natural": "Separating heaven from earth",
+    "meaning": {
+      "en": "The creation of the world; unprecedented, epoch-making.",
+      "zh": "古代神话说盘古氏开天辟地。后比喻前所未有，有史以来第一次。"
+    },
+    "equivalents": [
+      "since the dawn of time",
+      "epoch-making",
+      "groundbreaking",
+      "history-making"
+    ],
+    "examples": [
+      {
+        "zh": "这是开天辟地头一回。",
+        "en": "It's the first time since the dawn of time."
+      },
+      {
+        "zh": "这是一场开天辟地的变革。",
+        "en": "This is an epoch-making change."
+      }
+    ],
+    "origin": {
+      "source": "三国·徐整《三五历纪》",
+      "story": {
+        "en": "In Chinese myth, the giant Pangu was born from a cosmic egg and separated heaven from earth, growing taller each day to push them apart.",
+        "zh": "神话传说盘古生于混沌之中，开天辟地，天日高一丈，地日厚一丈。"
+      }
+    },
+    "usage": {
+      "en": "Attributive or adverbial. Often 开天辟地头一回.",
+      "zh": "多作定语、状语，常说\"开天辟地头一回\"。"
+    },
+    "synonyms": [
+      "前所未有",
+      "史无前例",
+      "破天荒"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "屡见不鲜"
+    ]
+  },
+  {
+    "id": "liu-an-hua-ming",
+    "text": "柳暗花明",
+    "pinyin": "liǔ àn huā míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks",
+      "plant-and-natural-world"
+    ],
+    "literal": "willow · dark · flower · bright",
+    "natural": "Shady willows and bright flowers",
+    "meaning": {
+      "en": "A sudden turn for the better; light at the end of the tunnel.",
+      "zh": "比喻在困难中遇到转机。"
+    },
+    "equivalents": [
+      "light at the end of the tunnel",
+      "a silver lining",
+      "a turn for the better",
+      "every cloud has a silver lining"
+    ],
+    "examples": [
+      {
+        "zh": "本以为没希望了，没想到柳暗花明，找到了新工作。",
+        "en": "I'd thought it was hopeless, but things turned around and I found a new job."
+      },
+      {
+        "zh": "山重水复疑无路，柳暗花明又一村。",
+        "en": "Just when the way seems lost among hills and streams, another village appears among willows and flowers."
+      }
+    ],
+    "origin": {
+      "source": "宋·陆游《游山西村》",
+      "story": {
+        "en": "Lu You's famous couplet: \"Mountains and rivers layer on layer — I doubt there's any path; then, shady willows and bright flowers, another village appears\".",
+        "zh": "陆游《游山西村》：\"山重水复疑无路，柳暗花明又一村。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often in the full couplet.",
+      "zh": "多作谓语，常引全句。"
+    },
+    "synonyms": [
+      "峰回路转",
+      "绝处逢生",
+      "否极泰来"
+    ],
+    "antonyms": [
+      "山穷水尽",
+      "走投无路",
+      "穷途末路"
+    ]
+  },
+  {
+    "id": "ji-chang-lu-lu",
+    "text": "饥肠辘辘",
+    "pinyin": "jī cháng lù lù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "simple-food-and-hunger",
+      "body"
+    ],
+    "literal": "hungry · intestines · rumbling · rumbling",
+    "natural": "Hungry stomach rumbling",
+    "meaning": {
+      "en": "Starving; with a rumbling stomach.",
+      "zh": "饥饿时肚子里咕咕作响。形容十分饥饿。"
+    },
+    "equivalents": [
+      "starving",
+      "my stomach is rumbling",
+      "famished",
+      "hungry as a wolf"
+    ],
+    "examples": [
+      {
+        "zh": "爬了一天山，大家都饥肠辘辘。",
+        "en": "After a day's climbing, everyone was starving."
+      },
+      {
+        "zh": "他饥肠辘辘地等着开饭。",
+        "en": "He waited for dinner with his stomach rumbling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "饥寒交迫",
+      "饥不择食"
+    ],
+    "antonyms": [
+      "酒足饭饱",
+      "饱食终日",
+      "大快朵颐"
+    ]
+  },
+  {
+    "id": "guo-you-bu-ji",
+    "text": "过犹不及",
+    "pinyin": "guò yóu bù jí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "wisdom",
+      "modest-goals"
+    ],
+    "literal": "excess · like · not · reaching",
+    "natural": "Going too far is as bad as falling short",
+    "meaning": {
+      "en": "Too much is as bad as too little.",
+      "zh": "事情做得过了头，就跟做得不够一样，都是不好的。"
+    },
+    "equivalents": [
+      "too much of a good thing",
+      "moderation in all things",
+      "overkill"
+    ],
+    "examples": [
+      {
+        "zh": "运动有益健康，但过犹不及。",
+        "en": "Exercise is good for you, but you can have too much of a good thing."
+      },
+      {
+        "zh": "批评孩子要适度，过犹不及。",
+        "en": "Criticise children in moderation — going too far is counterproductive."
+      }
+    ],
+    "origin": {
+      "source": "《论语·先进》",
+      "story": {
+        "en": "Asked whether Zizhang (who overdid things) or Zixia (who fell short) was better, Confucius said: \"Going too far is the same as not going far enough\" (过犹不及).",
+        "zh": "子贡问子张与子夏谁更贤，孔子说：\"师也过，商也不及。\"又说：\"过犹不及。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone clause.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "物极必反",
+      "适可而止"
+    ],
+    "antonyms": [
+      "恰到好处",
+      "恰如其分"
+    ]
+  },
+  {
+    "id": "mi-er-bu-xuan",
+    "text": "秘而不宣",
+    "pinyin": "mì ér bù xuān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "deception-and-false-appearances"
+    ],
+    "literal": "secret · and · not · announce",
+    "natural": "Kept secret and not announced",
+    "meaning": {
+      "en": "To keep something secret; to keep under wraps.",
+      "zh": "保守秘密，不肯宣布。"
+    },
+    "equivalents": [
+      "keep under wraps",
+      "hush-hush",
+      "keep quiet about",
+      "keep it under one's hat"
+    ],
+    "examples": [
+      {
+        "zh": "公司对新产品的细节秘而不宣。",
+        "en": "The company is keeping the new product's details under wraps."
+      },
+      {
+        "zh": "他得病的事一直秘而不宣。",
+        "en": "He kept his illness quiet."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "守口如瓶",
+      "讳莫如深",
+      "三缄其口"
+    ],
+    "antonyms": [
+      "公之于众",
+      "开诚布公",
+      "广而告之"
+    ]
+  },
+  {
+    "id": "xun-gui-dao-ju",
+    "text": "循规蹈矩",
+    "pinyin": "xún guī dǎo jǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation",
+      "conduct"
+    ],
+    "literal": "follow · compass · tread · square",
+    "natural": "Following the compass and treading the square",
+    "meaning": {
+      "en": "To follow the rules; well-behaved (sometimes overly conventional).",
+      "zh": "原指遵守规矩，现也指拘守旧准则，不敢变动。"
+    },
+    "equivalents": [
+      "toe the line",
+      "play by the rules",
+      "by the book",
+      "a stickler for rules"
+    ],
+    "examples": [
+      {
+        "zh": "他从小循规蹈矩，从不惹事。",
+        "en": "He's always toed the line and never caused trouble."
+      },
+      {
+        "zh": "创业者不能太循规蹈矩。",
+        "en": "Entrepreneurs can't play too much by the book."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Can praise good behaviour or criticise lack of initiative.",
+      "zh": "多作谓语，可褒可贬。"
+    },
+    "synonyms": [
+      "规行矩步",
+      "墨守成规",
+      "安分守己"
+    ],
+    "antonyms": [
+      "标新立异",
+      "离经叛道",
+      "胡作非为"
+    ]
+  },
+  {
+    "id": "jin-bang-ti-ming",
+    "text": "金榜题名",
+    "pinyin": "jīn bǎng tí míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "culture"
+    ],
+    "literal": "golden · list · inscribe · name",
+    "natural": "One's name inscribed on the golden list",
+    "meaning": {
+      "en": "To pass the (imperial) exam; to succeed in a major exam.",
+      "zh": "科举时代称殿试录取。现指考试被录取。"
+    },
+    "equivalents": [
+      "pass with flying colours",
+      "make the grade",
+      "get into one's dream school"
+    ],
+    "examples": [
+      {
+        "zh": "祝你高考金榜题名！",
+        "en": "Good luck in the gaokao — may you pass with flying colours!"
+      },
+      {
+        "zh": "他十年寒窗，终于金榜题名。",
+        "en": "After ten years of hard study, he finally passed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common in exam good-luck wishes. In imperial times successful candidates' names were posted on a golden list.",
+      "zh": "多作谓语，常用于考试祝福。"
+    },
+    "synonyms": [
+      "名列前茅",
+      "蟾宫折桂",
+      "独占鳌头"
+    ],
+    "antonyms": [
+      "名落孙山",
+      "榜上无名"
+    ]
+  },
+  {
+    "id": "bo-cai-zhong-chang",
+    "text": "博采众长",
+    "pinyin": "bó cǎi zhòng cháng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "learning",
+      "wisdom"
+    ],
+    "literal": "widely · gather · many · strengths",
+    "natural": "Gathering widely from everyone's strengths",
+    "meaning": {
+      "en": "To draw widely on the strengths of others.",
+      "zh": "广泛采纳众人的长处。"
+    },
+    "equivalents": [
+      "learn from the best",
+      "draw on all sources",
+      "the best of all worlds"
+    ],
+    "examples": [
+      {
+        "zh": "他的画风博采众长，自成一家。",
+        "en": "His painting draws on many masters yet has its own style."
+      },
+      {
+        "zh": "学习要博采众长，不能只听一家之言。",
+        "en": "Learn from many sources — don't listen to just one view."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "集思广益",
+      "取长补短",
+      "兼收并蓄"
+    ],
+    "antonyms": [
+      "故步自封",
+      "闭门造车",
+      "固执己见"
+    ]
+  },
+  {
+    "id": "shi-bei-gong-ban",
+    "text": "事倍功半",
+    "pinyin": "shì bèi gōng bàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "work · double · result · half",
+    "natural": "Double the work for half the result",
+    "meaning": {
+      "en": "Twice the effort for half the result; inefficient.",
+      "zh": "做事费力大，收效小。"
+    },
+    "equivalents": [
+      "more effort for less result",
+      "inefficient",
+      "spinning one's wheels"
+    ],
+    "examples": [
+      {
+        "zh": "方法不对，学习就会事倍功半。",
+        "en": "With the wrong method, studying takes twice the effort for half the result."
+      },
+      {
+        "zh": "不做计划就动手，往往事倍功半。",
+        "en": "Starting without a plan is often inefficient."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Opposite: 事半功倍.",
+      "zh": "多作谓语。反义为\"事半功倍\"。"
+    },
+    "synonyms": [
+      "劳而无功",
+      "得不偿失",
+      "徒劳无益"
+    ],
+    "antonyms": [
+      "事半功倍",
+      "一举两得",
+      "立竿见影"
+    ]
+  },
+  {
+    "id": "xin-ling-shou-qiao",
+    "text": "心灵手巧",
+    "pinyin": "xīn líng shǒu qiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "useful-tools-and-skill"
+    ],
+    "literal": "heart · clever · hand · skilful",
+    "natural": "Clever mind and skilful hands",
+    "meaning": {
+      "en": "Clever and good with one's hands.",
+      "zh": "心思灵敏，手艺巧妙。"
+    },
+    "equivalents": [
+      "good with one's hands",
+      "handy",
+      "nimble-fingered",
+      "crafty (in the good sense)"
+    ],
+    "examples": [
+      {
+        "zh": "奶奶心灵手巧，会做各种剪纸。",
+        "en": "Grandma is good with her hands and can make all kinds of paper cuts."
+      },
+      {
+        "zh": "这个女孩心灵手巧，自己做了一条裙子。",
+        "en": "The girl is so handy she made her own dress."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "巧夺天工",
+      "能工巧匠",
+      "手巧"
+    ],
+    "antonyms": [
+      "笨手笨脚",
+      "笨嘴拙舌"
+    ]
+  },
+  {
+    "id": "yu-gong-yi-shan",
+    "text": "愚公移山",
+    "pinyin": "yú gōng yí shān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "stories"
+    ],
+    "literal": "Foolish · old man · move · mountain",
+    "natural": "The Foolish Old Man moves the mountains",
+    "meaning": {
+      "en": "Unwavering perseverance can overcome any obstacle.",
+      "zh": "比喻做事有毅力，有恒心，不怕困难。"
+    },
+    "equivalents": [
+      "faith can move mountains",
+      "where there's a will, there's a way",
+      "dogged determination"
+    ],
+    "examples": [
+      {
+        "zh": "学习需要愚公移山的精神。",
+        "en": "Study requires the perseverance of the Foolish Old Man."
+      },
+      {
+        "zh": "村民们发扬愚公移山的精神，修通了山路。",
+        "en": "With dogged determination, the villagers built a road through the mountains."
+      }
+    ],
+    "origin": {
+      "source": "《列子·汤问》",
+      "story": {
+        "en": "Ninety-year-old Yugong decided to remove two mountains blocking his door, digging with his sons. When mocked, he said his descendants would carry on forever while the mountains wouldn't grow. Moved, the Emperor of Heaven had the mountains carried away.",
+        "zh": "九十岁的愚公带领子孙挖太行、王屋二山。智叟笑他，愚公说：子子孙孙无穷尽，而山不加增。天帝被感动，派神搬走了两座山。"
+      }
+    },
+    "usage": {
+      "en": "Attributive, often 愚公移山的精神. Also the title of a famous Mao speech.",
+      "zh": "多作定语，常说\"愚公移山的精神\"。"
+    },
+    "synonyms": [
+      "锲而不舍",
+      "持之以恒",
+      "精卫填海"
+    ],
+    "antonyms": [
+      "半途而废",
+      "知难而退",
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "shui-shen-huo-re",
+    "text": "水深火热",
+    "pinyin": "shuǐ shēn huǒ rè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "bad-fortune"
+    ],
+    "literal": "water · deep · fire · hot",
+    "natural": "Deep water and scorching fire",
+    "meaning": {
+      "en": "Dire suffering; in deep trouble.",
+      "zh": "比喻人民生活处境异常艰难痛苦。"
+    },
+    "equivalents": [
+      "in dire straits",
+      "living hell",
+      "in deep water",
+      "out of the frying pan into the fire"
+    ],
+    "examples": [
+      {
+        "zh": "战乱让百姓生活在水深火热之中。",
+        "en": "War left the people living in dire suffering."
+      },
+      {
+        "zh": "期末考试周，学生们处于水深火热之中。（戏）",
+        "en": "Exam week — the students are in living hell. (jokingly)"
+      }
+    ],
+    "origin": {
+      "source": "《孟子·梁惠王下》",
+      "story": {
+        "en": "Mencius said the people welcome a conqueror who rescues them from tyranny, but if the water grows deeper and the fire hotter (如水益深，如火益热), they will turn away again.",
+        "zh": "《孟子》：\"如水益深，如火益热，亦运而已矣。\""
+      }
+    },
+    "usage": {
+      "en": "Usually 在/处于水深火热之中. Serious, or jokingly for stressful times.",
+      "zh": "常用\"处于水深火热之中\"。"
+    },
+    "synonyms": [
+      "民不聊生",
+      "生灵涂炭",
+      "苦不堪言"
+    ],
+    "antonyms": [
+      "安居乐业",
+      "丰衣足食",
+      "国泰民安"
+    ]
+  },
+  {
+    "id": "yi-ya-huan-ya",
+    "text": "以牙还牙",
+    "pinyin": "yǐ yá huán yá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "modern": "borrowed",
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "conflict-and-strife"
+    ],
+    "literal": "with · tooth · repay · tooth",
+    "natural": "A tooth for a tooth",
+    "meaning": {
+      "en": "Tit for tat; to retaliate in kind.",
+      "zh": "用牙咬来对付牙咬。比喻用对方使用的手段来回击对方。"
+    },
+    "equivalents": [
+      "an eye for an eye",
+      "tit for tat",
+      "give as good as one gets"
+    ],
+    "examples": [
+      {
+        "zh": "对方提高关税，我们也以牙还牙。",
+        "en": "They raised tariffs, so we retaliated in kind."
+      },
+      {
+        "zh": "以牙还牙只会让矛盾越来越深。",
+        "en": "Tit for tat only deepens the conflict."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Borrowed from the Bible (Exodus: \"an eye for an eye, a tooth for a tooth\"); often 以眼还眼，以牙还牙.",
+      "zh": "多作谓语。源自《圣经·旧约》\"以眼还眼，以牙还牙\"。"
+    },
+    "synonyms": [
+      "以眼还眼",
+      "针锋相对",
+      "以其人之道还治其人之身"
+    ],
+    "antonyms": [
+      "以德报怨",
+      "宽宏大量",
+      "忍气吞声"
+    ]
+  },
+  {
+    "id": "bin-zhi-ru-gui",
+    "text": "宾至如归",
+    "pinyin": "bīn zhì rú guī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "daily"
+    ],
+    "literal": "guest · arrive · like · return home",
+    "natural": "Guests arriving feel they've come home",
+    "meaning": {
+      "en": "Guests feel at home; excellent hospitality.",
+      "zh": "客人来到这里就像回到自己家里一样。形容招待周到。"
+    },
+    "equivalents": [
+      "a home from home",
+      "make someone feel at home",
+      "warm hospitality"
+    ],
+    "examples": [
+      {
+        "zh": "这家民宿服务周到，让人宾至如归。",
+        "en": "The guesthouse is so welcoming it feels like a home from home."
+      },
+      {
+        "zh": "我们要让每位客人都有宾至如归的感觉。",
+        "en": "We want every guest to feel at home."
+      }
+    ],
+    "origin": {
+      "source": "《左传·襄公三十一年》",
+      "story": {
+        "en": "Zichan of Zheng recalled that in the days of Duke Wen of Jin, guest houses were so well kept that \"guests arrived as if coming home\" (宾至如归).",
+        "zh": "《左传》：子产说晋文公时宾馆修整，\"宾至如归，无宁菑患\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Hotels, hosts.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "热情好客",
+      "无微不至"
+    ],
+    "antonyms": [
+      "拒人千里",
+      "冷若冰霜",
+      "怠慢"
+    ]
+  },
+  {
+    "id": "zhi-nan-er-tui",
+    "text": "知难而退",
+    "pinyin": "zhī nán ér tuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "wisdom"
+    ],
+    "literal": "know · difficult · and · retreat",
+    "natural": "Knowing it's hard and pulling back",
+    "meaning": {
+      "en": "To back off in the face of difficulty (wise retreat or cowardice).",
+      "zh": "原指作战要见机而行，不要做实际上无法办到的事。后泛指知道困难就退缩。"
+    },
+    "equivalents": [
+      "back down",
+      "throw in the towel",
+      "know when to quit",
+      "beat a retreat"
+    ],
+    "examples": [
+      {
+        "zh": "遇到困难不能知难而退。",
+        "en": "Don't back down when things get hard."
+      },
+      {
+        "zh": "他提出苛刻条件，想让对方知难而退。",
+        "en": "He made harsh demands, hoping the other side would back off."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Now mostly negative (giving up); originally strategic.",
+      "zh": "多作谓语，现多含贬义。"
+    },
+    "synonyms": [
+      "望而却步",
+      "半途而废",
+      "打退堂鼓"
+    ],
+    "antonyms": [
+      "迎难而上",
+      "知难而进",
+      "勇往直前"
+    ]
+  },
+  {
+    "id": "xin-bu-zai-yan",
+    "text": "心不在焉",
+    "pinyin": "xīn bù zài yān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention"
+    ],
+    "literal": "heart · not · at · here",
+    "natural": "The heart is elsewhere",
+    "meaning": {
+      "en": "Absent-minded; distracted.",
+      "zh": "心思不在这里。指思想不集中。"
+    },
+    "equivalents": [
+      "absent-minded",
+      "miles away",
+      "away with the fairies",
+      "not with it"
+    ],
+    "examples": [
+      {
+        "zh": "上课时他心不在焉，一直看窗外。",
+        "en": "He was miles away in class, staring out the window."
+      },
+      {
+        "zh": "她心不在焉地答应了一声。",
+        "en": "She answered absent-mindedly."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·大学》",
+      "story": {
+        "en": "The Great Learning: \"When the heart is not present, we look but do not see, listen but do not hear, eat but do not taste\" (心不在焉，视而不见，听而不闻，食而不知其味).",
+        "zh": "《礼记·大学》：\"心不在焉，视而不见，听而不闻，食而不知其味。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "漫不经心",
+      "三心二意",
+      "魂不守舍"
+    ],
+    "antonyms": [
+      "全神贯注",
+      "聚精会神",
+      "专心致志"
+    ]
+  },
+  {
+    "id": "cong-rong-bu-po",
+    "text": "从容不迫",
+    "pinyin": "cóng róng bù pò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "positive-character-qualities"
+    ],
+    "literal": "calm · composed · not · hurried",
+    "natural": "Calm, composed and unhurried",
+    "meaning": {
+      "en": "Calm and unhurried; composed under pressure.",
+      "zh": "不慌不忙，沉着镇定。"
+    },
+    "equivalents": [
+      "cool, calm and collected",
+      "unflustered",
+      "take it in one's stride",
+      "unhurried"
+    ],
+    "examples": [
+      {
+        "zh": "面对记者的提问，她从容不迫地一一回答。",
+        "en": "She answered every reporter's question cool, calm and collected."
+      },
+      {
+        "zh": "考试时间还多，你可以从容不迫地做题。",
+        "en": "There's plenty of time — you can work through the questions without rushing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "不慌不忙",
+      "镇定自若",
+      "泰然自若"
+    ],
+    "antonyms": [
+      "手忙脚乱",
+      "惊慌失措",
+      "手足无措"
+    ]
+  },
+  {
+    "id": "tie-mian-wu-si",
+    "text": "铁面无私",
+    "pinyin": "tiě miàn wú sī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "good-governance",
+      "corruption-and-injustice"
+    ],
+    "literal": "iron · face · not have · selfishness",
+    "natural": "An iron face with no favouritism",
+    "meaning": {
+      "en": "Strictly impartial; incorruptible.",
+      "zh": "形容公正严明，不怕权势，不讲情面。"
+    },
+    "equivalents": [
+      "strictly impartial",
+      "no favours",
+      "even-handed",
+      "by the book"
+    ],
+    "examples": [
+      {
+        "zh": "包公铁面无私，是清官的代表。",
+        "en": "Judge Bao, strictly impartial, is the archetype of the upright official."
+      },
+      {
+        "zh": "这位裁判铁面无私，深受球员尊重。",
+        "en": "The referee is strictly impartial and respected by the players."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "大公无私",
+      "秉公执法",
+      "刚正不阿"
+    ],
+    "antonyms": [
+      "徇私舞弊",
+      "贪赃枉法",
+      "徇情枉法"
+    ]
+  }
+]
