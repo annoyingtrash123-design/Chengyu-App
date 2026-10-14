@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "you-yu-bu-jue",
+    "text": "犹豫不决",
+    "pinyin": "yóu yù bù jué",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "hesitate · hesitate · not · decide",
+    "natural": "Hesitating and unable to decide",
+    "meaning": {
+      "en": "Hesitant and unable to make up one's mind.",
+      "zh": "拿不定主意，下不了决心。"
+    },
+    "equivalents": [
+      "sit on the fence",
+      "in two minds",
+      "dither",
+      "shilly-shally"
+    ],
+    "examples": [
+      {
+        "zh": "买哪个手机，他犹豫不决了好几天。",
+        "en": "He dithered for days over which phone to buy."
+      },
+      {
+        "zh": "机会稍纵即逝，不能再犹豫不决了。",
+        "en": "Opportunities don't last — we can't sit on the fence any longer."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Mildly critical.",
+      "zh": "多作谓语，略带贬义。"
+    },
+    "synonyms": [
+      "优柔寡断",
+      "举棋不定",
+      "迟疑不决"
+    ],
+    "antonyms": [
+      "当机立断",
+      "斩钉截铁",
+      "毅然决然"
+    ]
+  },
+  {
+    "id": "you-ren-you-yu",
+    "text": "游刃有余",
+    "pinyin": "yóu rèn yǒu yú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "master-craftsmanship"
+    ],
+    "literal": "move · blade · have · spare",
+    "natural": "The blade moves with room to spare",
+    "meaning": {
+      "en": "To handle something with ease and skill, with capacity to spare.",
+      "zh": "比喻做事熟练，解决问题毫不费力。"
+    },
+    "equivalents": [
+      "with room to spare",
+      "take it in one's stride",
+      "with one hand tied behind one's back",
+      "a walk in the park"
+    ],
+    "examples": [
+      {
+        "zh": "她做了多年翻译，处理这种文件游刃有余。",
+        "en": "After years as a translator, she handles documents like this with ease."
+      },
+      {
+        "zh": "他在谈判中表现得游刃有余。",
+        "en": "He took the negotiations in his stride."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·养生主》",
+      "story": {
+        "en": "Cook Ding, carving an ox for a king, explains that his knife follows the natural gaps in the joints, so \"there is plenty of room for the blade to move\" (恢恢乎其于游刃必有余地矣). His knife stayed sharp for nineteen years.",
+        "zh": "《庄子》庖丁解牛：\"以无厚入有间，恢恢乎其于游刃必有余地矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement. Praises skill and composure.",
+      "zh": "多作谓语、补语，称赞熟练从容。"
+    },
+    "synonyms": [
+      "得心应手",
+      "驾轻就熟",
+      "应付自如"
+    ],
+    "antonyms": [
+      "力不从心",
+      "捉襟见肘",
+      "手足无措"
+    ]
+  },
+  {
+    "id": "jie-da-huan-xi",
+    "text": "皆大欢喜",
+    "pinyin": "jiē dà huān xǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "emotions"
+    ],
+    "literal": "all · greatly · joyful · happy",
+    "natural": "Everyone is delighted",
+    "meaning": {
+      "en": "Everyone is happy; a result that satisfies all.",
+      "zh": "人人都非常高兴、满意。"
+    },
+    "equivalents": [
+      "a happy ending",
+      "everyone's a winner",
+      "win-win",
+      "all's well that ends well"
+    ],
+    "examples": [
+      {
+        "zh": "问题解决了，双方都满意，皆大欢喜。",
+        "en": "The problem was solved and both sides were satisfied — everyone's happy."
+      },
+      {
+        "zh": "这部电影的结局皆大欢喜。",
+        "en": "The film has a happy ending for everyone."
+      }
+    ],
+    "origin": {
+      "source": "《金刚经》",
+      "story": {
+        "en": "The Diamond Sutra ends with all who heard the Buddha's teaching \"greatly rejoicing\" (皆大欢喜，信受奉行).",
+        "zh": "《金刚经》结尾：\"闻佛所说，皆大欢喜，信受奉行。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive (皆大欢喜的结局).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "两全其美",
+      "心满意足"
+    ],
+    "antonyms": [
+      "怨声载道",
+      "两败俱伤"
+    ]
+  },
+  {
+    "id": "qiu-gao-qi-shuang",
+    "text": "秋高气爽",
+    "pinyin": "qiū gāo qì shuǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "nature"
+    ],
+    "literal": "autumn · high · air · crisp",
+    "natural": "High autumn skies and crisp air",
+    "meaning": {
+      "en": "Clear skies and crisp, fresh air of autumn.",
+      "zh": "秋季天空明净，气候凉爽宜人。"
+    },
+    "equivalents": [
+      "crisp autumn weather",
+      "clear autumn days",
+      "a fine autumn day"
+    ],
+    "examples": [
+      {
+        "zh": "秋高气爽，正是登山的好时节。",
+        "en": "The crisp autumn weather is perfect for hiking."
+      },
+      {
+        "zh": "十月的北京秋高气爽，游客很多。",
+        "en": "Beijing in October has clear skies and fresh air, and lots of visitors."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common in writing about autumn.",
+      "zh": "多作谓语，常用于描写秋天。"
+    },
+    "synonyms": [
+      "天高云淡",
+      "风和日丽"
+    ],
+    "antonyms": [
+      "天寒地冻",
+      "阴雨连绵"
+    ]
+  },
+  {
+    "id": "yan-ren-er-mu",
+    "text": "掩人耳目",
+    "pinyin": "yǎn rén ěr mù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "cover · people · ears · eyes",
+    "natural": "Covering people's ears and eyes",
+    "meaning": {
+      "en": "To deceive people; to cover something up.",
+      "zh": "遮住别人的耳朵和眼睛。比喻用假象欺骗别人。"
+    },
+    "equivalents": [
+      "a smokescreen",
+      "pull the wool over people's eyes",
+      "a cover-up",
+      "window dressing"
+    ],
+    "examples": [
+      {
+        "zh": "他们开了一家小店，只是为了掩人耳目。",
+        "en": "They opened a small shop purely as a front."
+      },
+      {
+        "zh": "所谓的调查不过是掩人耳目。",
+        "en": "The so-called investigation is just a smokescreen."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often 为了掩人耳目. Derogatory.",
+      "zh": "多作谓语，常用\"为了掩人耳目\"。贬义。"
+    },
+    "synonyms": [
+      "掩耳盗铃",
+      "欺上瞒下",
+      "鱼目混珠"
+    ],
+    "antonyms": [
+      "光明正大",
+      "众目睽睽"
+    ]
+  },
+  {
+    "id": "shan-shan-lai-chi",
+    "text": "姗姗来迟",
+    "pinyin": "shān shān lái chí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "poor-timing"
+    ],
+    "literal": "leisurely · leisurely · come · late",
+    "natural": "Coming slowly and late",
+    "meaning": {
+      "en": "To arrive late, taking one's time.",
+      "zh": "形容来得很晚。"
+    },
+    "equivalents": [
+      "fashionably late",
+      "late to the party",
+      "finally turn up",
+      "better late than never"
+    ],
+    "examples": [
+      {
+        "zh": "会议开始半小时后，他才姗姗来迟。",
+        "en": "He finally turned up half an hour after the meeting started."
+      },
+      {
+        "zh": "今年的春天姗姗来迟。",
+        "en": "Spring has been slow to arrive this year."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·外戚传》",
+      "story": {
+        "en": "Emperor Wu, grieving for Lady Li, had a magician summon her spirit. Glimpsing a figure, he wrote: \"Is it her or not? I stand and gaze — why does she come so slowly?\" (偏何姗姗其来迟).",
+        "zh": "汉武帝思念李夫人，方士招魂，武帝作诗：\"是邪非邪？立而望之，偏何姗姗其来迟！\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often mildly ironic about latecomers; also for seasons, policies, rain.",
+      "zh": "多作谓语，常带调侃，也用于季节、政策等。"
+    },
+    "synonyms": [
+      "迟迟不来",
+      "千呼万唤始出来"
+    ],
+    "antonyms": [
+      "捷足先登",
+      "不期而至"
+    ]
+  },
+  {
+    "id": "feng-mao-lin-jiao",
+    "text": "凤毛麟角",
+    "pinyin": "fèng máo lín jiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "small-numbers",
+      "outstanding-character"
+    ],
+    "literal": "phoenix · feather · unicorn · horn",
+    "natural": "Phoenix feathers and qilin horns",
+    "meaning": {
+      "en": "Extremely rare and precious; rare talents.",
+      "zh": "凤凰的羽毛，麒麟的角。比喻珍贵而稀少的人或物。"
+    },
+    "equivalents": [
+      "rare as hen's teeth",
+      "few and far between",
+      "a rare breed",
+      "one in a million"
+    ],
+    "examples": [
+      {
+        "zh": "既懂技术又会管理的人才凤毛麟角。",
+        "en": "People who understand both technology and management are rare as hen's teeth."
+      },
+      {
+        "zh": "能完整保存下来的宋代书画已是凤毛麟角。",
+        "en": "Song dynasty paintings and calligraphy that survive intact are extremely rare."
+      }
+    ],
+    "origin": {
+      "source": "《南史·谢超宗传》；《北史·文苑传序》",
+      "story": {
+        "en": "Emperor Xiaowu praised Xie Chaozong as having \"phoenix feathers\" like his famous grandfather; a later history said \"scholars are as many as ox hairs, but accomplished ones as rare as qilin horns\" (学者如牛毛，成者如麟角).",
+        "zh": "宋孝武帝称谢超宗\"殊有凤毛\"；《北史》说：\"学者如牛毛，成者如麟角。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Usually about talented people or precious objects.",
+      "zh": "多作谓语，多指人才或珍贵物品。"
+    },
+    "synonyms": [
+      "寥若晨星",
+      "屈指可数",
+      "绝无仅有"
+    ],
+    "antonyms": [
+      "多如牛毛",
+      "比比皆是",
+      "不计其数"
+    ]
+  },
+  {
+    "id": "er-ru-mu-ran",
+    "text": "耳濡目染",
+    "pinyin": "ěr rú mù rǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "learning",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "ear · soak · eye · dye",
+    "natural": "Soaked in through the ears, dyed in through the eyes",
+    "meaning": {
+      "en": "To be influenced by constant exposure to what one sees and hears.",
+      "zh": "耳朵经常听到，眼睛经常看到，不知不觉地受到影响。"
+    },
+    "equivalents": [
+      "grow up with it",
+      "soak it up",
+      "rub off on someone",
+      "pick it up"
+    ],
+    "examples": [
+      {
+        "zh": "他父母都是医生，耳濡目染，他也学了医。",
+        "en": "Both his parents are doctors; growing up around it, he studied medicine too."
+      },
+      {
+        "zh": "在这样的环境里耳濡目染，孩子自然爱读书。",
+        "en": "Steeped in an environment like this, children naturally come to love reading."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Usually about upbringing and environment. 濡 is rú.",
+      "zh": "多作谓语、状语，多指成长环境的影响。"
+    },
+    "synonyms": [
+      "潜移默化",
+      "耳闻目睹",
+      "近朱者赤"
+    ],
+    "antonyms": [
+      "充耳不闻",
+      "视而不见"
+    ]
+  },
+  {
+    "id": "qian-zai-nan-feng",
+    "text": "千载难逢",
+    "pinyin": "qiān zǎi nán féng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "once-in-a-lifetime-events",
+      "fortune"
+    ],
+    "literal": "thousand · year · hard · meet",
+    "natural": "Hard to meet in a thousand years",
+    "meaning": {
+      "en": "Once in a lifetime; an extremely rare opportunity.",
+      "zh": "一千年也难遇到。形容机会极其难得。"
+    },
+    "equivalents": [
+      "once in a lifetime",
+      "once in a blue moon",
+      "the chance of a lifetime"
+    ],
+    "examples": [
+      {
+        "zh": "这是千载难逢的好机会，千万别错过。",
+        "en": "This is the chance of a lifetime — don't miss it."
+      },
+      {
+        "zh": "日全食是千载难逢的天文奇观。",
+        "en": "A total solar eclipse is a once-in-a-lifetime astronomical spectacle."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《潮州刺史谢上表》",
+      "story": {
+        "en": "Han Yu, writing from exile, called the emperor's great ceremonies \"a moment in a thousand years, a fine occasion not to be met\" (千载一时，不可逢之嘉会).",
+        "zh": "韩愈《潮州刺史谢上表》：\"千载一时，不可逢之嘉会。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive (千载难逢的机会). 载 is zǎi (year).",
+      "zh": "多作定语，如\"千载难逢的机会\"。\"载\"读 zǎi。"
+    },
+    "synonyms": [
+      "千载一时",
+      "百年不遇",
+      "机不可失"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "屡见不鲜",
+      "比比皆是"
+    ]
+  },
+  {
+    "id": "yi-wu-suo-you",
+    "text": "一无所有",
+    "pinyin": "yī wú suǒ yǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship"
+    ],
+    "literal": "one · not have · what · have",
+    "natural": "Having not a single thing",
+    "meaning": {
+      "en": "To have nothing at all; penniless.",
+      "zh": "什么也没有。"
+    },
+    "equivalents": [
+      "have nothing",
+      "penniless",
+      "not have a penny to one's name",
+      "start from scratch"
+    ],
+    "examples": [
+      {
+        "zh": "他刚来这座城市时一无所有。",
+        "en": "When he first came to the city, he had nothing."
+      },
+      {
+        "zh": "一场大火让他们一无所有。",
+        "en": "A fire left them with nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Also the title of Cui Jian's famous 1986 rock song. In speech 一 is yì.",
+      "zh": "多作谓语。崔健1986年名曲《一无所有》。"
+    },
+    "synonyms": [
+      "家徒四壁",
+      "身无分文",
+      "两手空空"
+    ],
+    "antonyms": [
+      "应有尽有",
+      "腰缠万贯",
+      "富甲一方"
+    ]
+  },
+  {
+    "id": "jing-shen-dou-sou",
+    "text": "精神抖擞",
+    "pinyin": "jīng shén dǒu sǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "emotions"
+    ],
+    "literal": "spirit · vigour · shake · rouse",
+    "natural": "Full of roused-up vigour",
+    "meaning": {
+      "en": "Full of energy and vigour; in high spirits.",
+      "zh": "形容精神振作，情绪饱满。"
+    },
+    "equivalents": [
+      "full of beans",
+      "bright-eyed and bushy-tailed",
+      "full of energy",
+      "raring to go"
+    ],
+    "examples": [
+      {
+        "zh": "睡了一个好觉，他第二天精神抖擞。",
+        "en": "After a good night's sleep, he was full of beans the next day."
+      },
+      {
+        "zh": "运动员们精神抖擞地走进体育场。",
+        "en": "The athletes marched into the stadium full of energy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. 擞 is sǒu.",
+      "zh": "多作谓语、状语。\"擞\"读 sǒu。"
+    },
+    "synonyms": [
+      "精神焕发",
+      "神采奕奕",
+      "生龙活虎"
+    ],
+    "antonyms": [
+      "无精打采",
+      "萎靡不振",
+      "垂头丧气"
+    ]
+  },
+  {
+    "id": "she-shen-chu-di",
+    "text": "设身处地",
+    "pinyin": "shè shēn chǔ dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "wisdom"
+    ],
+    "literal": "set · body · place · ground",
+    "natural": "Put yourself in their place",
+    "meaning": {
+      "en": "To put oneself in someone else's shoes.",
+      "zh": "设想自己处在别人的地位或境地。"
+    },
+    "equivalents": [
+      "put yourself in someone's shoes",
+      "walk a mile in someone's shoes",
+      "see it from their side"
+    ],
+    "examples": [
+      {
+        "zh": "设身处地地想一想，你就能理解他的难处。",
+        "en": "Put yourself in his shoes and you'll understand his difficulties."
+      },
+      {
+        "zh": "好的销售会设身处地为客户着想。",
+        "en": "A good salesperson sees things from the customer's side."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial (设身处地地想/为……着想). 处 is chǔ.",
+      "zh": "多作状语，如\"设身处地为……着想\"。\"处\"读 chǔ。"
+    },
+    "synonyms": [
+      "将心比心",
+      "推己及人",
+      "换位思考"
+    ],
+    "antonyms": [
+      "自私自利",
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "jiao-tou-lan-e",
+    "text": "焦头烂额",
+    "pinyin": "jiāo tóu làn é",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "chaos"
+    ],
+    "literal": "scorched · head · burnt · forehead",
+    "natural": "Head scorched, brow burnt",
+    "meaning": {
+      "en": "Utterly overwhelmed and harassed by problems.",
+      "zh": "原形容救火时被烧得很狼狈。现比喻非常狼狈窘迫，忙得不可开交。"
+    },
+    "equivalents": [
+      "run ragged",
+      "snowed under",
+      "at one's wits' end",
+      "up to one's neck"
+    ],
+    "examples": [
+      {
+        "zh": "年底工作太多，他忙得焦头烂额。",
+        "en": "With so much work at year-end, he's run ragged."
+      },
+      {
+        "zh": "一连串的投诉让经理焦头烂额。",
+        "en": "A string of complaints has left the manager at her wits' end."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·霍光传》",
+      "story": {
+        "en": "A guest warned a host to bend his chimney and move his firewood. When the house caught fire, neighbours who put it out with burnt heads were rewarded, but the man with the warning was forgotten: \"those who bent the chimney get no reward; the scorched heads and burnt brows are honoured guests\" (曲突徙薪无恩泽，焦头烂额为上客).",
+        "zh": "《汉书·霍光传》\"曲突徙薪\"故事：\"曲突徙薪无恩泽，焦头烂额为上客耶？\""
+      }
+    },
+    "usage": {
+      "en": "Complement (忙得焦头烂额) or predicate. Very common for being swamped.",
+      "zh": "多作补语、谓语，如\"忙得焦头烂额\"。"
+    },
+    "synonyms": [
+      "手忙脚乱",
+      "疲于奔命",
+      "狼狈不堪"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "悠然自得",
+      "游刃有余"
+    ]
+  },
+  {
+    "id": "yin-cai-shi-jiao",
+    "text": "因材施教",
+    "pinyin": "yīn cái shī jiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods",
+      "learning"
+    ],
+    "literal": "according to · talent · give · teaching",
+    "natural": "Teach according to each one's ability",
+    "meaning": {
+      "en": "To teach each student according to their ability and character.",
+      "zh": "根据学习者的不同情况进行不同的教育。"
+    },
+    "equivalents": [
+      "tailored teaching",
+      "differentiated learning",
+      "one size doesn't fit all"
+    ],
+    "examples": [
+      {
+        "zh": "好老师懂得因材施教。",
+        "en": "A good teacher knows how to tailor teaching to each student."
+      },
+      {
+        "zh": "小班教学更容易做到因材施教。",
+        "en": "Small classes make it easier to teach students according to their needs."
+      }
+    ],
+    "origin": {
+      "source": "《论语·先进》；宋·朱熹注",
+      "story": {
+        "en": "Two disciples asked Confucius the same question and got opposite answers — one was told to hold back, the other to go ahead — because their temperaments differed. Zhu Xi summed it up: \"Confucius taught each according to his ability\" (各因其材).",
+        "zh": "子路、冉有问同一问题，孔子答案相反，因二人性格不同。朱熹注：\"孔子教人，各因其材。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. A core idea in Chinese education.",
+      "zh": "多作谓语，中国教育的重要理念。"
+    },
+    "synonyms": [
+      "对症下药",
+      "量体裁衣",
+      "有的放矢"
+    ],
+    "antonyms": [
+      "一刀切",
+      "千篇一律"
+    ]
+  },
+  {
+    "id": "yi-qu-tong-gong",
+    "text": "异曲同工",
+    "pinyin": "yì qǔ tóng gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "arts",
+      "relative-measurements"
+    ],
+    "literal": "different · tune · same · skill",
+    "natural": "Different tunes, equally skilful",
+    "meaning": {
+      "en": "Different methods achieving equally good results.",
+      "zh": "不同的曲调演得同样好。比喻不同的做法收到同样好的效果。"
+    },
+    "equivalents": [
+      "different routes to the same place",
+      "there's more than one way to skin a cat",
+      "equally effective"
+    ],
+    "examples": [
+      {
+        "zh": "这两种教学方法有异曲同工之妙。",
+        "en": "These two teaching methods are different but equally effective."
+      },
+      {
+        "zh": "中西医治疗方法不同，却异曲同工。",
+        "en": "Chinese and Western medicine treat it differently but get similar results."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《进学解》",
+      "story": {
+        "en": "Han Yu said the Han writers Yang Xiong and Sima Xiangru were \"equal in skill though different in tune\" (同工异曲).",
+        "zh": "韩愈《进学解》：\"子云、相如，同工异曲。\""
+      }
+    },
+    "usage": {
+      "en": "Often 有异曲同工之妙 (are different but equally clever).",
+      "zh": "常用\"有异曲同工之妙\"。"
+    },
+    "synonyms": [
+      "殊途同归",
+      "不谋而合"
+    ],
+    "antonyms": [
+      "南辕北辙",
+      "背道而驰"
+    ]
+  },
+  {
+    "id": "hua-zhong-qu-chong",
+    "text": "哗众取宠",
+    "pinyin": "huá zhòng qǔ chǒng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "speech"
+    ],
+    "literal": "stir · crowd · win · favour",
+    "natural": "Making a stir to win favour",
+    "meaning": {
+      "en": "To show off to win popularity; grandstanding.",
+      "zh": "用言论行动迎合众人，以博得好感或拥护。"
+    },
+    "equivalents": [
+      "play to the gallery",
+      "grandstand",
+      "attention-seeking",
+      "clickbait"
+    ],
+    "examples": [
+      {
+        "zh": "有些网红为了流量哗众取宠。",
+        "en": "Some influencers play to the gallery to get clicks."
+      },
+      {
+        "zh": "他的发言实实在在，没有哗众取宠。",
+        "en": "His speech was solid, with no grandstanding."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·艺文志》",
+      "story": {
+        "en": "The Han bibliography criticises shallow scholars who \"stir up the crowd to win favour\" (苟以哗众取宠) rather than seek the truth.",
+        "zh": "《汉书·艺文志》：\"然惑者既失精微，而辟者又随时抑扬，违离道本，苟以哗众取宠。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Derogatory. 哗 is huá.",
+      "zh": "多作谓语，贬义。\"哗\"读 huá。"
+    },
+    "synonyms": [
+      "沽名钓誉",
+      "装腔作势"
+    ],
+    "antonyms": [
+      "实事求是",
+      "脚踏实地"
+    ]
+  },
+  {
+    "id": "de-gao-wang-zhong",
+    "text": "德高望重",
+    "pinyin": "dé gāo wàng zhòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "experience-and-old-age"
+    ],
+    "literal": "virtue · high · prestige · heavy",
+    "natural": "High in virtue, great in prestige",
+    "meaning": {
+      "en": "Of noble character and high prestige; highly respected (usually an elder).",
+      "zh": "品德高尚，声望很高。"
+    },
+    "equivalents": [
+      "highly respected",
+      "venerable",
+      "an elder statesman",
+      "a pillar of the community"
+    ],
+    "examples": [
+      {
+        "zh": "王老是村里德高望重的长者。",
+        "en": "Old Mr Wang is a highly respected elder in the village."
+      },
+      {
+        "zh": "这位德高望重的科学家担任了评委会主席。",
+        "en": "The venerable scientist chaired the judging panel."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate. Usually about older people.",
+      "zh": "多作定语、谓语，多指年长者。"
+    },
+    "synonyms": [
+      "众望所归",
+      "年高德劭"
+    ],
+    "antonyms": [
+      "声名狼藉",
+      "臭名昭著"
+    ]
+  },
+  {
+    "id": "you-shi-wu-kong",
+    "text": "有恃无恐",
+    "pinyin": "yǒu shì wú kǒng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "inappropriate-behavior"
+    ],
+    "literal": "have · rely on · not have · fear",
+    "natural": "Having backing and so no fear",
+    "meaning": {
+      "en": "Fearless because one has strong backing (usually used critically).",
+      "zh": "因为有所依仗而毫无顾忌。"
+    },
+    "equivalents": [
+      "emboldened",
+      "think one is untouchable",
+      "have friends in high places"
+    ],
+    "examples": [
+      {
+        "zh": "他仗着舅舅是局长，有恃无恐。",
+        "en": "His uncle being the bureau chief makes him think he's untouchable."
+      },
+      {
+        "zh": "正因为处罚太轻，违法者才有恃无恐。",
+        "en": "It's precisely because penalties are so light that offenders feel emboldened."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公二十六年》",
+      "story": {
+        "en": "When Qi invaded Lu, the duke asked a Lu envoy what Lu could rely on not to be afraid. The envoy said Lu relied on the ancient kings' covenant: \"relying on this, we are not afraid\" (恃此以不恐).",
+        "zh": "齐侯问鲁使展喜：\"室如悬罄，野无青草，何恃而不恐？\"展喜答：\"恃先王之命。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Derogatory; 恃 is shì.",
+      "zh": "多作谓语，贬义。\"恃\"读 shì。"
+    },
+    "synonyms": [
+      "肆无忌惮",
+      "胆大妄为"
+    ],
+    "antonyms": [
+      "谨小慎微",
+      "提心吊胆",
+      "战战兢兢"
+    ]
+  },
+  {
+    "id": "tan-hua-yi-xian",
+    "text": "昙花一现",
+    "pinyin": "tán huā yī xiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "abrupt-endings",
+      "plant-and-natural-world"
+    ],
+    "literal": "night-blooming cereus · flower · once · appear",
+    "natural": "Like the cereus flower, blooming just once",
+    "meaning": {
+      "en": "A flash in the pan; something that appears briefly then vanishes.",
+      "zh": "昙花开放后很快就凋谢。比喻美好的事物或人物出现不久就消失。"
+    },
+    "equivalents": [
+      "a flash in the pan",
+      "a one-hit wonder",
+      "short-lived",
+      "a nine-day wonder"
+    ],
+    "examples": [
+      {
+        "zh": "很多网红店只是昙花一现。",
+        "en": "Many trendy shops are just a flash in the pan."
+      },
+      {
+        "zh": "他的成功并非昙花一现，而是多年积累的结果。",
+        "en": "His success wasn't a one-off but the result of years of work."
+      }
+    ],
+    "origin": {
+      "source": "《妙法莲华经·方便品》",
+      "story": {
+        "en": "The Lotus Sutra says the Buddha's teaching appears as rarely as the udumbara flower, \"which appears only once in a long while\" (如优昙钵华，时一现耳).",
+        "zh": "《法华经》：\"佛告舍利弗，如是妙法，诸佛如来时乃说之，如优昙钵华，时一现耳。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Usually 只是昙花一现 or negated (并非昙花一现).",
+      "zh": "多作谓语，常用\"只是昙花一现\"。"
+    },
+    "synonyms": [
+      "过眼云烟",
+      "转瞬即逝"
+    ],
+    "antonyms": [
+      "经久不衰",
+      "万古长青",
+      "长盛不衰"
+    ]
+  },
+  {
+    "id": "jing-tian-dong-di",
+    "text": "惊天动地",
+    "pinyin": "jīng tiān dòng dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "startle · heaven · shake · earth",
+    "natural": "Startling heaven and shaking the earth",
+    "meaning": {
+      "en": "Earth-shattering; extremely loud, or of great significance.",
+      "zh": "使天地惊动。形容声音特别响亮，也形容声势浩大或事业伟大。"
+    },
+    "equivalents": [
+      "earth-shattering",
+      "world-shaking",
+      "deafening",
+      "momentous"
+    ],
+    "examples": [
+      {
+        "zh": "一声惊天动地的巨响，大楼倒塌了。",
+        "en": "With a deafening crash, the building collapsed."
+      },
+      {
+        "zh": "他们没有做出惊天动地的大事，却默默奉献了一生。",
+        "en": "They never did anything earth-shattering, but quietly devoted their whole lives."
+      }
+    ],
+    "usage": {
+      "en": "Attributive (惊天动地的大事). Literal (sound) or figurative (great deeds).",
+      "zh": "多作定语，可形容声音，也形容事业。"
+    },
+    "synonyms": [
+      "震天动地",
+      "轰轰烈烈",
+      "翻天覆地"
+    ],
+    "antonyms": [
+      "无声无息",
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "yi-jia-luan-zhen",
+    "text": "以假乱真",
+    "pinyin": "yǐ jiǎ luàn zhēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "excellent-acting"
+    ],
+    "literal": "with · fake · confuse · real",
+    "natural": "Passing the fake off as real",
+    "meaning": {
+      "en": "To pass off a fake as genuine; so realistic it's hard to tell from the real thing.",
+      "zh": "用假的东西冒充或混同真的东西。"
+    },
+    "equivalents": [
+      "pass off as genuine",
+      "a convincing fake",
+      "indistinguishable from the real thing"
+    ],
+    "examples": [
+      {
+        "zh": "这些仿冒包做得以假乱真。",
+        "en": "These knock-off bags are convincing fakes."
+      },
+      {
+        "zh": "他画的假花几乎可以以假乱真。",
+        "en": "The flowers he paints are almost indistinguishable from real ones."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Negative about fakes; can praise realistic imitation.",
+      "zh": "多作谓语。多指造假，也可赞仿制逼真。"
+    },
+    "synonyms": [
+      "鱼目混珠",
+      "滥竽充数",
+      "弄虚作假"
+    ],
+    "antonyms": [
+      "货真价实",
+      "真假分明"
+    ]
+  },
+  {
+    "id": "tian-han-di-dong",
+    "text": "天寒地冻",
+    "pinyin": "tiān hán dì dòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "seasonal-changes"
+    ],
+    "literal": "sky · cold · ground · frozen",
+    "natural": "Cold sky, frozen ground",
+    "meaning": {
+      "en": "Bitterly cold weather; freezing.",
+      "zh": "天气寒冷，地面冻结。形容非常寒冷。"
+    },
+    "equivalents": [
+      "bitterly cold",
+      "freezing",
+      "a cold snap",
+      "brass monkey weather"
+    ],
+    "examples": [
+      {
+        "zh": "天寒地冻，大家都待在家里不出门。",
+        "en": "It's freezing outside, so everyone is staying in."
+      },
+      {
+        "zh": "在天寒地冻的边疆，战士们坚守岗位。",
+        "en": "On the frozen frontier, soldiers stand at their posts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "冰天雪地",
+      "滴水成冰"
+    ],
+    "antonyms": [
+      "春暖花开",
+      "烈日炎炎",
+      "秋高气爽"
+    ]
+  },
+  {
+    "id": "chong-dao-fu-zhe",
+    "text": "重蹈覆辙",
+    "pinyin": "chóng dǎo fù zhé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "failed-ambitions"
+    ],
+    "literal": "again · tread · overturned · rut",
+    "natural": "Treading again in the rut of the overturned cart",
+    "meaning": {
+      "en": "To repeat the same mistake; to make the same error as before.",
+      "zh": "重新走上翻过车的老路。比喻不吸取教训，重犯过去的错误。"
+    },
+    "equivalents": [
+      "make the same mistake twice",
+      "history repeating itself",
+      "go down the same road"
+    ],
+    "examples": [
+      {
+        "zh": "我们要吸取教训，避免重蹈覆辙。",
+        "en": "We must learn from this and avoid making the same mistake again."
+      },
+      {
+        "zh": "这家新公司没有吸取前人的教训，最终重蹈覆辙。",
+        "en": "The new company didn't learn from those before it and ended up making the same mistakes."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·窦武传》",
+      "story": {
+        "en": "Dou Wu warned the emperor that, ignoring the failures of the past, he was \"again following the track of the overturned cart\" (复循覆车之轨).",
+        "zh": "《后汉书·窦武传》：\"今不虑前事之失，复循覆车之轨。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate, often 避免/不要重蹈覆辙. 重 is chóng (again). Can be split: 重蹈……的覆辙.",
+      "zh": "多作谓语，常用\"避免重蹈覆辙\"，可拆用\"重蹈……的覆辙\"。\"重\"读 chóng。"
+    },
+    "synonyms": [
+      "故态复萌",
+      "一错再错"
+    ],
+    "antonyms": [
+      "前车之鉴",
+      "引以为戒",
+      "痛定思痛"
+    ]
+  },
+  {
+    "id": "cheng-jia-li-ye",
+    "text": "成家立业",
+    "pinyin": "chéng jiā lì yè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "relationships"
+    ],
+    "literal": "form · family · establish · career",
+    "natural": "Start a family and build a career",
+    "meaning": {
+      "en": "To get married and establish a career; to settle down.",
+      "zh": "结婚建立家庭，有了自己的事业。"
+    },
+    "equivalents": [
+      "settle down",
+      "get married and get a career",
+      "put down roots"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们都成家立业了，老两口很放心。",
+        "en": "Their children have all settled down with families and careers, so the old couple can relax."
+      },
+      {
+        "zh": "他三十岁之前就成家立业了。",
+        "en": "He was married with a career before thirty."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Traditional life milestone.",
+      "zh": "多作谓语，传统人生大事。"
+    },
+    "synonyms": [
+      "安家落户",
+      "安居乐业"
+    ],
+    "antonyms": [
+      "一事无成",
+      "居无定所"
+    ]
+  },
+  {
+    "id": "jian-ba-nu-zhang",
+    "text": "剑拔弩张",
+    "pinyin": "jiàn bá nǔ zhāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "war"
+    ],
+    "literal": "sword · drawn · crossbow · drawn",
+    "natural": "Swords drawn and crossbows cocked",
+    "meaning": {
+      "en": "On the brink of conflict; extremely tense.",
+      "zh": "剑拔出来了，弓张开了。形容形势紧张，一触即发。"
+    },
+    "equivalents": [
+      "at daggers drawn",
+      "on a knife edge",
+      "tensions running high",
+      "a powder keg"
+    ],
+    "examples": [
+      {
+        "zh": "两国关系剑拔弩张，随时可能爆发冲突。",
+        "en": "Relations between the two countries are at daggers drawn; conflict could break out at any moment."
+      },
+      {
+        "zh": "会议室里气氛剑拔弩张。",
+        "en": "The atmosphere in the meeting room was extremely tense."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (剑拔弩张的气氛).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "一触即发",
+      "针锋相对",
+      "箭在弦上"
+    ],
+    "antonyms": [
+      "和平共处",
+      "心平气和",
+      "握手言和"
+    ]
+  }
+]
