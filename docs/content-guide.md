@@ -44,8 +44,9 @@ fit; filtering by a broad theme also finds everything tagged with its detailed t
 
 ## Conventions
 
-- **Pinyin**: citation tones, not tone sandhi (一举两得 → `yī jǔ liǎng dé`; the usage note
-  can mention that 一 is said yí). Syllables are separated by spaces; punctuation such as
+- **Pinyin**: citation tones, not tone sandhi (一举两得 → `yī jǔ liǎng dé`). The usage note
+  may mention sandhi, correctly: 一 is said **yí before a 4th tone** (一路 yílù) and **yì before
+  1st/2nd/3rd tones** (一举 yìjǔ); 不 is said **bú only before a 4th tone** (不要 búyào). Syllables are separated by spaces; punctuation such as
   `,` and `——` is allowed. Neutral-tone syllables (e.g. 外甥 `wài sheng`) may be written
   without a mark only for characters listed in `NEUTRAL_OK` in `core/src/validate.rs`.
 - **Alternative readings** in brackets (照舅（旧）) are written in pinyin in brackets too

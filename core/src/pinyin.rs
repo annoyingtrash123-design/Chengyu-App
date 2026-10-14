@@ -89,6 +89,41 @@ pub fn compact(s: &str) -> String {
         .collect()
 }
 
+/// Typed "v" stands for "ü"; after j/q/x/y the ü is written as plain "u" in pinyin,
+/// so `jv` → `ju` (举 jǔ), while `lv` stays `lü`-equivalent (`lv` matches `lǜ`'s plain form).
+pub fn normalize_v(s: &str) -> String {
+    let lower = s.to_lowercase();
+    let chars: Vec<char> = lower.chars().collect();
+    chars
+        .iter()
+        .enumerate()
+        .map(|(i, &c)| {
+            if c == 'v' && i > 0 && "jqxy".contains(chars[i - 1]) {
+                'u'
+            } else {
+                c
+            }
+        })
+        .collect()
+}
+
+/// Compare compact pinyin character by character. A plain vowel in the query matches the
+/// same vowel with any tone; a toned vowel must match exactly. `v` matches `ü`.
+pub fn tone_tolerant_eq(query: &[char], hay: &[char]) -> bool {
+    query.len() == hay.len()
+        && query.iter().zip(hay).all(|(&q, &h)| {
+            if q == h {
+                return true;
+            }
+            let base_h = decompose(h).map(|(b, _)| b).unwrap_or(h);
+            match q {
+                'v' => base_h == 'ü',
+                _ if decompose(q).is_none() => base_h == q,
+                _ => false,
+            }
+        })
+}
+
 /// Does the text contain any tone marks?
 pub fn has_tone_marks(s: &str) -> bool {
     s.chars().any(|c| decompose(c).is_some())
@@ -167,6 +202,20 @@ mod tests {
             vec!["wài", "shēng", "dǎ", "dēng", "lóng", "zhào", "jiù"]
         );
         assert_eq!(syllables("chī yī qiàn, zhǎng yī zhì").len(), 6);
+    }
+
+    #[test]
+    fn tone_tolerant_matching() {
+        let q: Vec<char> = "huàshe".chars().collect();
+        let h: Vec<char> = "huàshé".chars().collect();
+        assert!(tone_tolerant_eq(&q, &h));
+        let wrong: Vec<char> = "huāshe".chars().collect();
+        assert!(!tone_tolerant_eq(&wrong, &h));
+        assert_eq!(normalize_v("yi jv"), "yi ju");
+        assert_eq!(normalize_v("lv"), "lv");
+        let lv: Vec<char> = "lv".chars().collect();
+        let lu: Vec<char> = "lǜ".chars().collect();
+        assert!(tone_tolerant_eq(&lv, &lu));
     }
 
     #[test]

@@ -25,7 +25,7 @@ const routes: [RegExp, View, string][] = [
   [/^\/?$/, renderHome, "home"],
   [/^\/dict$/, renderDictionary, "dict"],
   [/^\/list$/, renderList, "list"],
-  [/^\/entry\/([\w-]+)$/, renderEntry, "dict"],
+  [/^\/entry\/([\w-]+)$/, renderEntry, "keep"],
   [/^\/study$/, renderStudy, "study"],
   [/^\/games$/, renderGames, "games"],
   [/^\/games\/(quiz|timed)$/, renderQuiz, "games"],
@@ -63,6 +63,7 @@ function renderTabs(active: string) {
 }
 
 let renderId = 0;
+let lastTab = "home";
 
 async function route() {
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
@@ -71,7 +72,8 @@ async function route() {
   for (const [re, render, tab] of routes) {
     const m = path.match(re);
     if (m) {
-      renderTabs(tab);
+      if (tab !== "keep") lastTab = tab;
+      renderTabs(lastTab);
       const root = h("div", { class: "page" }, loading());
       clear(view, root);
       window.scrollTo(0, 0);

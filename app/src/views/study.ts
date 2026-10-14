@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, Grade, Summary } from "../types";
-import { h, clear, en, pageHeader, englishToggle, state, themeLabel, label, KIND_LABEL, toast } from "../ui";
+import { h, clear, en, pageHeader, englishToggle, state, themeLabel, label, KIND_LABEL, toast, maskAnswer } from "../ui";
 import type { Kind } from "../types";
 
 /** Deck picker shared by study and games. */
@@ -50,7 +50,7 @@ export async function renderStudy(root: HTMLElement) {
   drawDirection();
 
   startBtn.addEventListener("click", async () => {
-    const ids = await api.studyQueue(lastDeck, 50);
+    const ids = await api.studyQueue(lastDeck, 200);
     if (!ids.length) return toast(en() ? "Nothing to study right now 🎉" : "暂时没有要学的 🎉");
     session(root, await api.summaries(ids));
   });
@@ -82,6 +82,11 @@ export async function renderStudy(root: HTMLElement) {
   await refresh();
 }
 
+let keyHandler: ((e: KeyboardEvent) => void) | null = null;
+document.addEventListener("keydown", (e) => {
+  if (location.hash.startsWith("#/study") && keyHandler) keyHandler(e);
+});
+
 function session(root: HTMLElement, cards: Summary[]) {
   const queue = [...cards];
   let reviewed = 0;
@@ -95,7 +100,7 @@ function session(root: HTMLElement, cards: Summary[]) {
     const back = h(
       "div",
       { class: "flash-back" },
-      recall ? h("div", { class: "hanzi-xl" }, card.text) : null,
+      recall || card.kind === "xiehouyu" ? h("div", { class: "hanzi-xl" }, card.text) : null,
       h("div", { class: "pinyin-lg" }, card.pinyin),
       h("p", { class: "zh" }, card.meaning.zh),
       en() ? h("p", { class: "en" }, card.meaning.en) : null,
@@ -123,22 +128,29 @@ function session(root: HTMLElement, cards: Summary[]) {
     }
     showBtn.addEventListener("click", reveal);
 
-    function gradeBtn(g: Grade, text: string) {
-      return h(
-        "button",
-        {
-          class: `btn grade grade-${g}`,
-          onclick: async () => {
-            await api.review(card!.id, g);
-            reviewed++;
-            if (g !== "again") correct++;
-            else queue.push(card!); // see it again this session
-            next();
-          },
-        },
-        text,
-      );
+    let grading = false;
+    async function grade(g: Grade) {
+      if (grading || !revealed) return; // ignore double taps
+      grading = true;
+      grades.querySelectorAll("button").forEach((b) => ((b as HTMLButtonElement).disabled = true));
+      const result = await api.review(card!.id, g);
+      reviewed++;
+      if (g !== "again") correct++;
+      if (result.interval === 0) queue.push(card!); // not learnt yet: see it again this session
+      next();
     }
+    function gradeBtn(g: Grade, text: string) {
+      return h("button", { class: `btn grade grade-${g}`, onclick: () => grade(g) }, text);
+    }
+    keyHandler = (e: KeyboardEvent) => {
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      if ((e.key === " " || e.key === "Enter") && !revealed) {
+        e.preventDefault();
+        reveal();
+      } else if (revealed && ["1", "2", "3", "4"].includes(e.key)) {
+        grade((["again", "hard", "good", "easy"] as Grade[])[Number(e.key) - 1]);
+      }
+    };
 
     clear(
       root,
@@ -148,16 +160,18 @@ function session(root: HTMLElement, cards: Summary[]) {
         "section",
         { class: "card flashcard", onclick: reveal },
         recall
-          ? h("div", { class: "flash-front" }, h("p", { class: "zh big" }, card.meaning.zh), en() ? h("p", { class: "en" }, card.meaning.en) : null)
-          : h("div", { class: "flash-front" }, h("div", { class: "hanzi-xl" }, card.text)),
+          ? h("div", { class: "flash-front" }, h("p", { class: "zh big" }, maskAnswer(card.meaning.zh, card.text)), en() ? h("p", { class: "en" }, card.meaning.en) : null)
+          : h("div", { class: "flash-front" }, h("div", { class: "hanzi-xl" }, card.kind === "xiehouyu" ? `${card.text.split("——")[0]} ——？` : card.text)),
         back,
       ),
       showBtn,
       grades,
+      h("p", { class: "muted small center kbd-hint" }, en() ? "Keyboard: Space to show · 1–4 to grade" : "键盘：空格显示答案 · 1–4 评分"),
     );
   };
 
   const finish = () => {
+    keyHandler = null;
     clear(
       root,
       pageHeader(en() ? "Session complete" : "完成"),

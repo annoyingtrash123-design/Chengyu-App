@@ -37,7 +37,7 @@ export default defineConfig({
           },
           workbox: {
             globPatterns: ["**/*.{js,css,html,wasm,png,svg,webmanifest}"],
-            maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
+            maximumFileSizeToCacheInBytes: 30 * 1024 * 1024,
             cleanupOutdatedCaches: true,
             skipWaiting: true,
             clientsClaim: true,

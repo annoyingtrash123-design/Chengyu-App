@@ -34,6 +34,8 @@ jobs:
       - name: Install wasm-pack
         if: steps.wasmpack.outputs.cache-hit != 'true'
         run: cargo install wasm-pack --locked --version 0.15.0
+      - name: Data checks and core tests (nothing is published if these fail)
+        run: cargo test -p chengyu-core
       - uses: actions/setup-node@v4
         with:
           node-version: 22

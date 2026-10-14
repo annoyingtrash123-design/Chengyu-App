@@ -10,6 +10,24 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.5",
+    date: "2026-10-14",
+    en: [
+      "Safer backups: restoring asks first, rejects empty backups and keeps a safety copy.",
+      "Flashcards: double taps no longer count twice; keyboard shortcuts (Space, 1–4).",
+      "歇后语 punchlines stay hidden until you reveal them; clues no longer give away answers.",
+      "Search understands mixed tones (hua4 she) and v for ü (yi jv).",
+      "Fixes to 成语接龙, quizzes, tap sizes and narrow screens; a tone note corrected (一 is yì before a 3rd tone).",
+    ],
+    zh: [
+      "备份更安全：恢复前先确认，拒绝空备份，并保留安全副本。",
+      "记忆卡片：连点不再重复计分；支持键盘快捷键（空格、1–4）。",
+      "歇后语后半句在点击前保持隐藏；提示不再泄露答案。",
+      "搜索支持部分带声调（hua4 she）和用 v 代替 ü（yi jv）。",
+      "修复成语接龙、测验、按钮大小和窄屏显示；更正变调说明（“一”在第三声前读 yì）。",
+    ],
+  },
+  {
     version: "0.4",
     date: "2026-10-14",
     en: ["Updates now install automatically while you use the app.", "New Updates section in Me, with a manual check and this list.", "The phone's status bar now blends in with the app instead of showing red."],

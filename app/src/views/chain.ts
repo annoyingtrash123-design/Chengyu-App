@@ -16,12 +16,15 @@ export async function renderChain(root: HTMLElement) {
   let finished = false;
 
   const list = h("div", { class: "chain-list" });
+  const hintBtn = h("button", { class: "btn" }, en() ? "Hint" : "提示");
+  const giveUp = h("button", { class: "btn" }, en() ? "Give up" : "认输");
   const input = h("input", { class: "search-input", placeholder: "", autocomplete: "off", lang: "zh-CN" });
   const message = h("div", { class: "feedback" });
   const form = h("form", { class: "chain-form" }, input, h("button", { class: "btn primary", type: "submit" }, en() ? "Go" : "接"));
 
   const homoBtn = h("button", { class: `chip ${homophones ? "on" : ""}` }, en() ? "Same sound counts (同音)" : "同音字也算");
   homoBtn.addEventListener("click", () => {
+    if (chain.length > 1 && !finished && !confirm(en() ? "Changing this rule starts a new game. Continue?" : "更改规则会重新开始游戏，继续吗？")) return;
     homophones = !homophones;
     renderChain(root);
   });
@@ -47,6 +50,8 @@ export async function renderChain(root: HTMLElement) {
   function end(text: string) {
     finished = true;
     input.disabled = true;
+    hintBtn.disabled = true;
+    giveUp.disabled = true;
     api.gamePlayed();
     clear(
       message,
@@ -66,9 +71,19 @@ export async function renderChain(root: HTMLElement) {
     }
   }
 
+  let submitting = false;
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
-    if (finished) return;
+    if (finished || submitting) return;
+    submitting = true;
+    try {
+      await handleMove();
+    } finally {
+      submitting = false;
+    }
+  });
+
+  async function handleMove() {
     const r = await api.chainCheck(last().id, input.value, used(), homophones);
     switch (r.result) {
       case "ok":
@@ -85,17 +100,17 @@ export async function renderChain(root: HTMLElement) {
         message.textContent = en() ? "Already used in this game." : "这个已经用过了。";
         break;
       case "does_not_connect":
-        message.textContent = en() ? `It must start with ${r.need}.` : `要以"${r.need}"开头。`;
+        message.textContent = homophones
+          ? en() ? `It must start with ${r.need} (or a character that sounds the same).` : `要以"${r.need}"或同音字开头。`
+          : en() ? `It must start with ${r.need}.` : `要以"${r.need}"开头。`;
         break;
     }
-  });
+  }
 
-  const hintBtn = h("button", { class: "btn" }, en() ? "Hint" : "提示");
   hintBtn.addEventListener("click", async () => {
     const n = await api.chainHint(last().id, used(), homophones);
     message.textContent = en() ? `${n} possible answer${n === 1 ? "" : "s"} in the dictionary.` : `词典里有 ${n} 个可以接的。`;
   });
-  const giveUp = h("button", { class: "btn" }, en() ? "Give up" : "认输");
   giveUp.addEventListener("click", async () => {
     const answer = await api.chainAi(last().id, used(), homophones);
     const s = answer ? (await api.summaries([answer]))[0] : null;

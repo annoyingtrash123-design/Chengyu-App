@@ -115,7 +115,7 @@ fn edit_distance(a: &str, b: &str, max: usize) -> usize {
 
 fn word_matches(query: &str, word: &str) -> bool {
     word == query
-        || (query.len() >= 3 && word.starts_with(query))
+        || (query.len() >= 4 && word.starts_with(query))
         || (query.len() >= 5 && edit_distance(query, word, 1) <= 1)
 }
 
@@ -250,25 +250,24 @@ impl Dictionary {
             return best;
         }
 
-        // Pinyin (toned, toneless or numbered).
-        let q = pinyin::compact(query);
+        // Pinyin (toned, toneless, numbered, or a mix: a syllable typed without a tone
+        // matches any tone, one typed with a tone must match it).
+        let q = pinyin::compact(&pinyin::normalize_v(query));
         if !q.is_empty() {
             let toned = pinyin::has_tone_marks(&q);
-            let (hay, needle) = if toned {
-                (&k.pinyin_toned, q.clone())
-            } else {
-                (&k.pinyin_plain, pinyin::strip_tones(&q))
-            };
-            if *hay == needle {
+            let needle: Vec<char> = q.chars().collect();
+            let hay: Vec<char> = k.pinyin_toned.chars().collect();
+            let n = needle.len();
+            if pinyin::tone_tolerant_eq(&needle, &hay) {
                 consider(95, MatchKind::Pinyin);
-            } else if hay.starts_with(&needle) && needle.chars().count() >= 2 {
+            } else if n >= 2 && hay.len() >= n && pinyin::tone_tolerant_eq(&needle, &hay[..n]) {
                 consider(85, MatchKind::Pinyin);
-            } else if hay.contains(&needle) && needle.chars().count() >= 3 {
+            } else if n >= 3 && hay.windows(n).any(|w| pinyin::tone_tolerant_eq(&needle, w)) {
                 consider(70, MatchKind::Pinyin);
-            } else if needle.chars().count() >= 6 && edit_distance(&needle, hay, 2) <= 2 {
+            } else if n >= 6 && edit_distance(&pinyin::strip_tones(&q), &k.pinyin_plain, 2) <= 2 {
                 consider(40, MatchKind::Pinyin);
             }
-            if !toned && needle.len() >= 3 && needle == k.initials {
+            if !toned && n >= 3 && pinyin::strip_tones(&q) == k.initials {
                 consider(65, MatchKind::Pinyin);
             }
         }
@@ -358,6 +357,27 @@ mod tests {
         }
         // Small typo.
         assert_eq!(top(&d, "huashetainzu"), "画蛇添足");
+    }
+
+    #[test]
+    fn partly_toned_and_v_queries_work() {
+        let d = dict();
+        assert_eq!(top(&d, "hua4 she"), "画蛇添足");
+        assert_eq!(top(&d, "huà she"), "画蛇添足");
+        assert_eq!(top(&d, "yi jv liang de"), "一举两得");
+        assert_eq!(top(&d, "yi jv"), "一举两得");
+    }
+
+    #[test]
+    fn short_english_prefixes_do_not_match() {
+        let d = dict();
+        // "man" must not match words like "many"/"manage" by prefix.
+        let hits = d.search("man", &Filters::default(), &UserData::default());
+        for h in hits {
+            let e = &d.entries()[h.index];
+            let words = english_words(&format!("{} {} {}", e.literal, e.natural, e.meaning.en));
+            assert!(words.iter().any(|w| w == "man" || edit_distance("man", w, 0) == 0) || h.matched != MatchKind::English, "{}", e.text);
+        }
     }
 
     #[test]

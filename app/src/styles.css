@@ -351,3 +351,19 @@ a.btn.block { display: block; }
 .release { border-top: 1px solid var(--line); padding-top: 8px; margin-top: 8px; }
 .release-head { display: flex; justify-content: space-between; align-items: baseline; }
 .release ul { margin: 4px 0 0; padding-left: 20px; font-size: 14px; }
+
+.kbd-hint { display: none; }
+@media (hover: hover) and (pointer: fine) { .kbd-hint { display: block; } }
+
+/* ---------- Review fixes: spoilers, tap targets, narrow screens ---------- */
+.concealed { filter: blur(7px); user-select: none; cursor: pointer; pointer-events: auto; }
+.concealed * { pointer-events: none; }
+h1.hanzi-xl { margin: 0; }
+.icon-btn { min-width: 44px; min-height: 44px; }
+.chip { min-height: 36px; }
+.chip.small { min-height: 32px; }
+.chip.toggle { min-height: 36px; min-width: 44px; justify-content: center; }
+.chip.expander { min-width: 48px; justify-content: center; }
+.tab { flex: 1; min-width: 0; }
+.tab-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+@media (max-width: 340px) { .tab-label { font-size: 10px; } .tab-icon { width: 30px; } }

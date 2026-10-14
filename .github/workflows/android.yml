@@ -37,6 +37,8 @@ jobs:
 
       - uses: Swatinem/rust-cache@v2
 
+      - name: Data checks and core tests (nothing is published if these fail)
+        run: cargo test -p chengyu-core
       - uses: actions/setup-node@v4
         with:
           node-version: 22

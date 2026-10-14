@@ -130,6 +130,9 @@ impl UserData {
     pub fn review(&mut self, id: &str, grade: Grade, today: i64) -> &Card {
         let is_new = !self.cards.contains_key(id);
         let card = srs::review(self.cards.get(id), grade, today);
+        if self.cards.get(id) == Some(&card) {
+            return &self.cards[id]; // ignored repeat (e.g. double tap): nothing to record
+        }
         let correct = grade != Grade::Again;
         let day = self.day(today);
         day.reviews += 1;

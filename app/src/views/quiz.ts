@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, Question, QuestionKind } from "../types";
-import { h, clear, en, pageHeader, englishToggle, toast } from "../ui";
+import { h, clear, en, pageHeader, toast } from "../ui";
 import { deckPicker } from "./study";
 
 const KINDS: { kind: QuestionKind; zh: string; en: string }[] = [
@@ -139,7 +139,12 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
             if (ok) score++;
             else missed.push(q);
             buttons[q.answer].classList.add("correct");
-            if (!ok) buttons[idx].classList.add("wrong");
+            buttons[q.answer].prepend("✓ ");
+            if (!ok) {
+              buttons[idx].classList.add("wrong");
+              buttons[idx].prepend("✗ ");
+            }
+            buttons.forEach((b) => b.setAttribute("aria-disabled", "true"));
             api.quizAnswer(q.entry_id, ok);
             i++;
             if (timed) {
@@ -160,7 +165,7 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
     const [instZh, instEn] = INSTRUCTION[q.kind];
     clear(
       root,
-      pageHeader(title, { back: true, right: [timed ? clock : null, englishToggle(show)] }),
+      pageHeader(title, { back: true, right: timed ? clock : null }),
       h("div", { class: "muted small center" }, timed ? `${en() ? "Score" : "得分"} ${score}` : `${i + 1} / ${questions.length}`),
       h(
         "section",

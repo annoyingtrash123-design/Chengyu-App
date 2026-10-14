@@ -18,6 +18,9 @@ import {
 } from "../ui";
 import { showTheme } from "./list";
 
+// 歇后语 whose punchline you've revealed (kept while the app is open).
+const revealedPunchlines = new Set<string>();
+
 export async function renderEntry(root: HTMLElement, [id]: string[]) {
   const d = await api.entry(id);
   draw(root, d);
@@ -28,11 +31,12 @@ function draw(root: HTMLElement, d: EntryDetail) {
   const s = d.summary;
   const showEn = en();
 
-  const favBtn = h("button", { class: `icon-btn fav ${s.favourite ? "on" : ""}`, "aria-label": "Favourite" }, s.favourite ? "♥" : "♡");
+  const favBtn = h("button", { class: `icon-btn fav ${s.favourite ? "on" : ""}`, "aria-label": en() ? "Favourite" : "收藏", "aria-pressed": String(s.favourite) }, s.favourite ? "♥" : "♡");
   favBtn.addEventListener("click", async () => {
     s.favourite = await api.toggleFavourite(e.id);
     favBtn.textContent = s.favourite ? "♥" : "♡";
     favBtn.classList.toggle("on", s.favourite);
+    favBtn.setAttribute("aria-pressed", String(s.favourite));
   });
 
   const bi = (b: { zh: string; en: string }) =>
@@ -52,23 +56,25 @@ function draw(root: HTMLElement, d: EntryDetail) {
         )
       : null;
 
-  // 歇后语: show the lead-in, tap to reveal the punchline.
+  // 歇后语: show only the lead-in; the punchline and everything that gives it away
+  // (its pinyin, translations, examples) stay hidden until you tap to reveal.
+  const concealed = !!e.parts && !revealedPunchlines.has(e.id);
+  const reveal = () => {
+    revealedPunchlines.add(e.id);
+    draw(root, d);
+  };
   const head =
     e.parts
       ? h(
           "div",
           { class: "xhy" },
-          h("div", { class: "hanzi-xl" }, e.parts[0]),
-          (() => {
-            const p = h("button", { class: "punchline hidden-punch" }, en() ? "—— tap to reveal" : "—— 点击查看");
-            p.addEventListener("click", () => {
-              p.textContent = `—— ${e.parts![1]}`;
-              p.classList.remove("hidden-punch");
-            }, { once: true });
-            return p;
-          })(),
+          h("h1", { class: "hanzi-xl" }, e.parts[0]),
+          concealed
+            ? h("button", { class: "punchline hidden-punch", onclick: reveal }, en() ? "—— tap to reveal the punchline" : "—— 点击查看后半句")
+            : h("div", { class: "punchline" }, `—— ${e.parts[1]}`),
         )
-      : h("div", { class: "hanzi-xl" }, e.text);
+      : h("h1", { class: "hanzi-xl" }, e.text);
+  const pinyinText = concealed ? `${e.pinyin.split("——")[0].trim()} —— …` : e.pinyin;
 
   const card = d.card;
   const progress = card
@@ -84,7 +90,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       "section",
       { class: "entry-head" },
       head,
-      h("div", { class: "pinyin-lg" }, e.pinyin),
+      h("div", { class: "pinyin-lg" }, pinyinText),
       h(
         "div",
         { class: "badges" },
@@ -96,6 +102,9 @@ function draw(root: HTMLElement, d: EntryDetail) {
         badge(`${s.length}字${s.structure && s.length <= 4 ? ` · ${s.structure}` : ""}`, "len"),
       ),
     ),
+    h(
+      "div",
+      { class: concealed ? "concealed" : "", "aria-hidden": concealed ? "true" : null, onclick: concealed ? reveal : null },
     showEn
       ? h(
           "section",
@@ -143,6 +152,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       { class: "card" },
       h("h3", null, en() ? "主题 Themes" : "主题"),
       h("div", { class: "chip-group" }, e.themes.map((t) => h("button", { class: "chip", onclick: () => showTheme(t) }, themeLabel(t)))),
+    ),
     ),
     h("section", { class: "card muted small" }, h("strong", null, en() ? "My progress: " : "学习进度："), progress),
   );

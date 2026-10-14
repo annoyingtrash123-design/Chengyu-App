@@ -1,5 +1,5 @@
 import { api, isTauri } from "../api";
-import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
+import { h, clear, en, pageHeader, saveSettings, state, toast, loadState } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
@@ -19,7 +19,9 @@ export async function renderMe(root: HTMLElement) {
       min: String(min),
       max: String(max),
       onchange: (e: Event) => {
-        const n = Math.max(min, Math.min(max, Number((e.target as HTMLInputElement).value) || min));
+        const input = e.target as HTMLInputElement;
+        const n = Math.max(min, Math.min(max, Math.round(Number(input.value)) || min));
+        input.value = String(n);
         onChange(n);
       },
     });
@@ -119,12 +121,33 @@ export async function renderMe(root: HTMLElement) {
         h("button", {
           class: "btn",
           onclick: async () => {
+            let data: unknown;
             try {
-              await api.importData(JSON.parse(backupBox.value));
-              toast(en() ? "Restored" : "已恢复");
+              data = JSON.parse(backupBox.value);
+            } catch {
+              return toast(en() ? "That isn't a valid backup (paste the whole text)." : "备份数据无效，请粘贴完整内容。");
+            }
+            try {
+              const p = await api.previewImport(data);
+              if (p.empty) return toast(en() ? "This backup has no progress in it." : "这份备份里没有学习进度。");
+              const ok = confirm(
+                en()
+                  ? `Replace your current progress with this backup?\n\n${p.cards} cards · ${p.favourites} favourites · ${p.days} days of history\n\nYour current progress will be kept as a safety copy on this device.`
+                  : `用这份备份替换当前进度吗？\n\n${p.cards} 张卡片 · ${p.favourites} 个收藏 · ${p.days} 天记录\n\n当前进度会在本机保留一份安全副本。`,
+              );
+              if (!ok) return;
+              try {
+                localStorage.setItem("chengyu-progress-before-restore", JSON.stringify(await api.exportData()));
+              } catch {
+                // ignore: the confirmation already warned this replaces progress
+              }
+              const r = await api.importData(data);
+              await loadState(); // pick up the restored settings
+              backupBox.value = "";
+              toast(en() ? `Restored ${r.cards} cards and ${r.favourites} favourites` : `已恢复 ${r.cards} 张卡片和 ${r.favourites} 个收藏`, 4000);
               renderMe(root);
             } catch (e) {
-              toast(`${en() ? "Invalid backup" : "备份数据无效"}: ${String(e)}`);
+              toast(`${en() ? "Couldn't restore" : "恢复失败"}: ${String(e).replace(/^Error: /, "")}`, 5000);
             }
           },
         }, en() ? "Restore" : "恢复"),
@@ -142,7 +165,7 @@ export async function renderMe(root: HTMLElement) {
             : h("button", { class: "btn primary", onclick: async () => { if (await promptInstall()) renderMe(root); } }, en() ? "Install on this device" : "安装到本机"),
         )
       : null,
-    h("p", { class: "muted small center" }, `${state.meta?.total ?? 0} ${en() ? "entries" : "条词目"} · v0.1`),
+    h("p", { class: "muted small center" }, `${state.meta?.total ?? 0} ${en() ? "entries" : "条词目"} · v${APP_VERSION}`),
   );
 }
 

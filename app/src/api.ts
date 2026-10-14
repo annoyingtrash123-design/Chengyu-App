@@ -38,14 +38,37 @@ function loadEngine(): Promise<Engine> {
     const mod = (await load()) as { default: () => Promise<unknown>; Engine: new () => Engine };
     await mod.default();
     const engine = new mod.Engine();
+    let saved: string | null = null;
     try {
-      const saved = localStorage.getItem(PROGRESS_KEY);
-      if (saved) engine.dispatch("import", JSON.stringify({ data: JSON.parse(saved) }));
+      saved = localStorage.getItem(PROGRESS_KEY);
     } catch {
-      // Corrupt or unavailable storage: start fresh rather than fail.
+      // Storage unavailable (e.g. blocked): run without saving.
+    }
+    if (saved) {
+      try {
+        engine.dispatch("import", JSON.stringify({ data: JSON.parse(saved) }));
+      } catch {
+        // Never lose saved progress we couldn't read: keep a copy before anything
+        // overwrites the main key, so it can be recovered.
+        try {
+          localStorage.setItem(`${PROGRESS_KEY}-unreadable-${Date.now()}`, saved);
+        } catch {
+          // ignore
+        }
+      }
     }
     engine.take_changed();
     navigator.storage?.persist?.().catch(() => {});
+    // Another tab/window of the app saved progress: pick it up instead of overwriting it.
+    window.addEventListener("storage", (e) => {
+      if (e.key !== PROGRESS_KEY || !e.newValue) return;
+      try {
+        engine.dispatch("import", JSON.stringify({ data: JSON.parse(e.newValue) }));
+        engine.take_changed();
+      } catch {
+        // ignore
+      }
+    });
     return engine;
   })();
   return enginePromise;
@@ -117,5 +140,8 @@ export const api = {
   settings: () => call<Settings>("settings"),
   setSettings: (settings: Settings) => call<Settings>("set_settings", { settings }),
   exportData: () => call<unknown>("export"),
-  importData: (data: unknown) => call<null>("import", { data }),
+  importData: (data: unknown) =>
+    call<{ cards: number; favourites: number; days: number; dropped: number }>("import", { data }),
+  previewImport: (data: unknown) =>
+    call<{ cards: number; favourites: number; days: number; empty: boolean }>("preview_import", { data }),
 };

@@ -27,7 +27,7 @@ export async function renderMemory(root: HTMLElement) {
       {
         class: `memory-card ${c.is_idiom ? "is-idiom" : "is-meaning"}`,
         onclick: () => flip(i),
-        "aria-label": "card",
+        "aria-label": en() ? "Face-down card" : "背面朝上的卡片",
       },
       h("span", { class: "face" }, c.face),
     ),
@@ -36,6 +36,7 @@ export async function renderMemory(root: HTMLElement) {
   function flip(i: number) {
     if (busy || matched.has(i) || open.includes(i)) return;
     buttons[i].classList.add("up");
+    buttons[i].removeAttribute("aria-label");
     open.push(i);
     if (open.length < 2) return;
     moves++;
@@ -52,6 +53,8 @@ export async function renderMemory(root: HTMLElement) {
       setTimeout(() => {
         buttons[a].classList.remove("up");
         buttons[b].classList.remove("up");
+        buttons[a].setAttribute("aria-label", en() ? "Face-down card" : "背面朝上的卡片");
+        buttons[b].setAttribute("aria-label", en() ? "Face-down card" : "背面朝上的卡片");
         open = [];
         busy = false;
       }, 1100);

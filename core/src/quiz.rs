@@ -59,6 +59,14 @@ pub struct Question {
 }
 
 const BLANK: &str = "＿";
+const MASK: char = '〇';
+
+/// Hide the expression's own characters in a Chinese prompt so the meaning doesn't
+/// give the answer away (亡羊补牢: "羊丢了再去修补羊圈" → "〇丢了再去修〇〇圈").
+pub fn mask_answer(prompt: &str, e: &Entry) -> String {
+    let chars = e.chars();
+    prompt.chars().map(|c| if chars.contains(&c) { MASK } else { c }).collect()
+}
 
 /// Other entries ranked as plausible distractors for `e` (same kind, shared
 /// themes and same length first), excluding its synonyms and antonyms.
@@ -66,7 +74,14 @@ fn distractor_entries<'a>(dict: &'a Dictionary, e: &Entry, rng: &mut Rng) -> Vec
     let mut scored: Vec<(u64, &Entry)> = dict
         .entries()
         .iter()
-        .filter(|o| o.id != e.id && !e.synonyms.contains(&o.text) && !e.antonyms.contains(&o.text))
+        .filter(|o| {
+            o.id != e.id
+                && !e.synonyms.contains(&o.text)
+                && !e.antonyms.contains(&o.text)
+                // ...and entries that list this one as their synonym/antonym.
+                && !o.synonyms.contains(&e.text)
+                && !o.antonyms.contains(&e.text)
+        })
         .map(|o| {
             let mut s = 0;
             if o.kind == e.kind {
@@ -150,7 +165,7 @@ pub fn make_question(
     match kind {
         QuestionKind::MeaningToIdiom => {
             let d = top_texts(&pool, 3, rng, |o| o.text.clone());
-            finish(kind, e, e.meaning.zh.clone(), Some(e.meaning.en.clone()), e.text.clone(), d, rng)
+            finish(kind, e, mask_answer(&e.meaning.zh, e), Some(e.meaning.en.clone()), e.text.clone(), d, rng)
         }
         QuestionKind::IdiomToMeaning => {
             let d = top_texts(&pool, 3, rng, |o| meaning(o, lang));
@@ -298,6 +313,15 @@ mod tests {
             if q.kind == QuestionKind::SentenceCloze {
                 assert!(!q.prompt.contains(&e.text));
             }
+        }
+    }
+
+    #[test]
+    fn meaning_prompts_do_not_contain_answer_characters() {
+        let d = Dictionary::embedded();
+        for q in generate(&d, &all_ids(&d), &[QuestionKind::MeaningToIdiom], 40, Lang::En, 5) {
+            let e = d.get(&q.entry_id).unwrap();
+            assert!(e.chars().iter().all(|c| !q.prompt.contains(*c)), "{} leaks into {}", e.text, q.prompt);
         }
     }
 

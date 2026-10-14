@@ -327,10 +327,35 @@ impl App {
             }
             "export" => json!(self.user),
             "import" => {
-                let data: UserData = arg(args, "data")?;
+                let mut data: UserData = arg(args, "data")?;
+                if data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty() {
+                    return Err("this backup has no progress in it (no cards, favourites or history)".into());
+                }
+                // Drop anything that refers to entries this version doesn't have.
+                let known = |id: &String| self.dict.get(id).is_some();
+                let before = data.cards.len() + data.favourites.len();
+                data.cards.retain(|id, _| known(id));
+                data.favourites.retain(known);
+                data.accuracy.retain(|id, _| known(id));
+                let dropped = before - data.cards.len() - data.favourites.len();
+                let summary = json!({
+                    "cards": data.cards.len(),
+                    "favourites": data.favourites.len(),
+                    "days": data.history.len(),
+                    "dropped": dropped,
+                });
                 self.user = data;
                 dirty = true;
-                Value::Null
+                summary
+            }
+            "preview_import" => {
+                let data: UserData = arg(args, "data")?;
+                json!({
+                    "cards": data.cards.len(),
+                    "favourites": data.favourites.len(),
+                    "days": data.history.len(),
+                    "empty": data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty(),
+                })
             }
             _ => return Err(format!("unknown command `{cmd}`")),
         };
@@ -455,6 +480,19 @@ mod tests {
         let id = app.dict.entries()[0].id.clone();
         call(&mut app, "toggle_favourite", json!({"id": id}));
         assert!(app.changed);
+    }
+
+    #[test]
+    fn import_rejects_empty_backups_and_unknown_ids() {
+        let mut app = App::new(None);
+        let id = app.dict.entries()[0].id.clone();
+        call(&mut app, "toggle_favourite", json!({"id": id}));
+        assert!(app.dispatch("import", &json!({"data": {}})).is_err());
+        assert!(app.dispatch("import", &json!({"data": []})).is_err());
+        assert_eq!(app.user.favourites.len(), 1, "failed import must not touch progress");
+        let r = call(&mut app, "import", json!({"data": {"favourites": [id, "zzz-nonexistent"]}}));
+        assert_eq!(r["favourites"], 1);
+        assert_eq!(r["dropped"], 1);
     }
 
     #[test]
