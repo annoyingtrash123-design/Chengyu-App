@@ -32,7 +32,7 @@ MYTH_TEXTS = {"女娲补天", "炼石补天", "夸父逐日", "精卫填海", "�
 # Hand-picked additions the keyword rules can't find.
 MANUAL = {
     "wedding-wishes": ["举案齐眉", "天长地久", "郎才女貌", "珠联璧合", "白头偕老", "相敬如宾"],
-    "festive-greetings": ["心想事成", "万事如意", "步步高升", "年年有余", "大吉大利"],
+    "festive-greetings": ["心想事成", "万事如意", "步步高升", "年年有余", "大吉大利", "圆满成功"],
     "polite-humble": ["洗耳恭听", "滥竽充数", "甘拜下风", "拙作", "献丑"],
     "comebacks-and-renewal": ["脱胎换骨", "东山再起", "起死回生", "卷土重来", "否极泰来", "死灰复燃"],
     "fairness-and-impartiality": ["大公无私", "一视同仁", "铁面无私", "公正无私"],
@@ -44,10 +44,12 @@ MANUAL = {
     "evenly-matched": ["棋逢对手", "势均力敌", "平分秋色", "旗鼓相当", "不相上下", "难分伯仲"],
     "competition-and-rivalry": ["争先恐后", "略胜一筹", "棋逢对手", "一决雌雄"],
     "innovation-and-progress": ["推陈出新", "标新立异", "日新月异", "革故鼎新"],
+    "peace-and-prosperity": ["国泰民安", "风调雨顺", "五谷丰登", "安居乐业"],
+    "value-of-time": ["时不我待", "机不可失"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).
-EXCLUDE = {("塞翁失马", "festive-greetings"), ("叶公好龙", "myths-legends")}
+EXCLUDE = {("塞翁失马", "festive-greetings"), ("时光飞逝", "festive-greetings"), ("锣鼓喧天", "festive-greetings"), ("叶公好龙", "myths-legends")}
 
 added = 0
 for f in sorted(glob.glob("data/entries/*.json")):

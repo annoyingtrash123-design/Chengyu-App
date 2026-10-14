@@ -688,6 +688,11 @@
     "id": "ri-chu-er-zuo",
     "text": "日出而作",
     "pinyin": "rì chū ér zuò",
+    "variants": [
+      "日出而作，日落而息",
+      "日落而息",
+      "日出而作，日入而息"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -729,7 +734,6 @@
       "zh": "常说\"日出而作，日落而息\"。"
     },
     "synonyms": [
-      "日落而息",
       "男耕女织"
     ],
     "antonyms": [

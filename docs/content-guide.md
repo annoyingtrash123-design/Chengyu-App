@@ -49,7 +49,7 @@ In the app these are called **labels** (标签), not themes. Treat them as tags:
 - **Back-fill**: when a new label is added, go back and add it to existing entries it applies to.
 - `python3 scripts/backfill_labels.py` adds origin labels (Confucian/Daoist classics, Buddhist origin,
   historical records, Three Kingdoms, Thirty-Six Stratagems, myths, famous poems & prose) from
-  `origin.source`, and usage labels (festive greetings, wedding wishes, polite & humble phrases, essay
+  `origin.source`, and usage labels (well wishes & greetings (`festive-greetings`: holidays, birthdays, exams, business — anything said as a wish, not just a description of a celebration), wedding wishes, polite & humble phrases, essay
   favourites) from usage notes. Run it after every batch; extend its rules or `MANUAL` list when adding
   a label, so old entries get it too.
 - This rule applies to phase 1, 2 and 3 alike.
