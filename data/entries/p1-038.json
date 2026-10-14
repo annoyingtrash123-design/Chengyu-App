@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "zhuang-zhi-ling-yun",
+    "text": "壮志凌云",
+    "pinyin": "zhuàng zhì líng yún",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations"
+    ],
+    "literal": "grand · ambition · soar · clouds",
+    "natural": "Ambitions soaring above the clouds",
+    "meaning": {
+      "en": "Lofty, soaring ambitions.",
+      "zh": "形容理想宏伟远大。"
+    },
+    "equivalents": [
+      "sky-high ambitions",
+      "reach for the stars",
+      "aim for the stars"
+    ],
+    "examples": [
+      {
+        "zh": "他壮志凌云，立志成为宇航员。",
+        "en": "With sky-high ambitions, he's determined to become an astronaut."
+      },
+      {
+        "zh": "年轻人应当壮志凌云。",
+        "en": "Young people should reach for the stars."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "雄心壮志",
+      "胸怀大志",
+      "鸿鹄之志"
+    ],
+    "antonyms": [
+      "胸无大志",
+      "安于现状",
+      "碌碌无为"
+    ]
+  },
+  {
+    "id": "yu-hu-mou-pi",
+    "text": "与虎谋皮",
+    "pinyin": "yǔ hǔ móu pí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "with · tiger · plan · skin",
+    "natural": "Asking a tiger for its skin",
+    "meaning": {
+      "en": "To ask someone to act against their own interests; a futile request.",
+      "zh": "跟老虎商量要它的皮。比喻所谋之事有损对方利益，绝对办不到。"
+    },
+    "equivalents": [
+      "ask turkeys to vote for Christmas",
+      "a futile request",
+      "a fool's errand"
+    ],
+    "examples": [
+      {
+        "zh": "让垄断企业主动降价，无异于与虎谋皮。",
+        "en": "Asking a monopoly to cut prices voluntarily is like asking turkeys to vote for Christmas."
+      },
+      {
+        "zh": "跟他谈让步，简直是与虎谋皮。",
+        "en": "Asking him to give ground is a fool's errand."
+      }
+    ],
+    "origin": {
+      "source": "《太平御览》引《符子》",
+      "story": {
+        "en": "A man of Zhou wanted a fox-fur coat and asked the foxes for their pelts; they all fled into the hills. The original was a fox (狐); later it became a tiger (虎).",
+        "zh": "周人想做狐皮袍子，就去跟狐狸商量要皮，狐狸全都逃进深山。原作\"与狐谋皮\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "缘木求鱼",
+      "痴心妄想"
+    ],
+    "antonyms": [
+      "顺水推舟",
+      "因势利导"
+    ]
+  },
+  {
+    "id": "an-pin-le-dao",
+    "text": "安贫乐道",
+    "pinyin": "ān pín lè dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "modest-goals"
+    ],
+    "literal": "content · poverty · enjoy · Way",
+    "natural": "Content in poverty and happy in principle",
+    "meaning": {
+      "en": "Content with a simple life devoted to one's principles.",
+      "zh": "安于贫穷，以坚持自己的信念为乐。"
+    },
+    "equivalents": [
+      "content with little",
+      "plain living and high thinking",
+      "the simple life"
+    ],
+    "examples": [
+      {
+        "zh": "这位老学者安贫乐道，一生专注于研究。",
+        "en": "Content with little, the old scholar devoted his life to research."
+      },
+      {
+        "zh": "古代很多文人安贫乐道。",
+        "en": "Many ancient literati lived simply, devoted to their principles."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·韦彪传》",
+      "story": {
+        "en": "The Eastern Han official Wei Bin was praised as one who \"was content in poverty and delighted in the Way, untroubled by ambition\" (安贫乐道，恬于进趣).",
+        "zh": "《后汉书·韦彪传》：\"安贫乐道，恬于进趣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "淡泊名利",
+      "知足常乐",
+      "清心寡欲"
+    ],
+    "antonyms": [
+      "唯利是图",
+      "贪得无厌",
+      "嫌贫爱富"
+    ]
+  },
+  {
+    "id": "yi-luan-ji-shi",
+    "text": "以卵击石",
+    "pinyin": "yǐ luǎn jī shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "conflict-and-strife"
+    ],
+    "literal": "with · egg · strike · stone",
+    "natural": "Throwing an egg at a stone",
+    "meaning": {
+      "en": "To attack a far stronger opponent; certain defeat.",
+      "zh": "拿蛋去碰石头。比喻不估计自己的力量，自取灭亡。"
+    },
+    "equivalents": [
+      "a hopeless fight",
+      "David without the sling",
+      "bang one's head against a brick wall",
+      "suicidal"
+    ],
+    "examples": [
+      {
+        "zh": "小公司跟巨头硬拼，无异于以卵击石。",
+        "en": "A small firm taking on a giant head-on is a hopeless fight."
+      },
+      {
+        "zh": "别以卵击石，要讲策略。",
+        "en": "Don't throw yourself against a brick wall — be strategic."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·议兵》",
+      "story": {
+        "en": "Xunzi: \"For a tyrant like Jie to deceive a sage like Yao would be like throwing an egg at a stone\" (以桀诈尧，譬之若以卵投石).",
+        "zh": "《荀子·议兵》：\"以桀诈尧，譬之若以卵投石。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "螳臂当车",
+      "不自量力",
+      "蚍蜉撼树"
+    ],
+    "antonyms": [
+      "以强凌弱",
+      "量力而行",
+      "泰山压顶"
+    ]
+  },
+  {
+    "id": "hui-guang-fan-zhao",
+    "text": "回光返照",
+    "pinyin": "huí guāng fǎn zhào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "abrupt-endings"
+    ],
+    "literal": "return · light · reflect · shine",
+    "natural": "The light reflected back at sunset",
+    "meaning": {
+      "en": "A last rally before death or collapse.",
+      "zh": "太阳刚落时反射的光使天空短时发亮。比喻人临死前精神突然兴奋，也比喻事物灭亡前的短暂兴旺。"
+    },
+    "equivalents": [
+      "a last rally",
+      "a final flicker",
+      "the swan song",
+      "a dead-cat bounce"
+    ],
+    "examples": [
+      {
+        "zh": "老人临终前精神突然好转，是回光返照。",
+        "en": "The old man suddenly seemed better just before he died — a last rally."
+      },
+      {
+        "zh": "这次股价上涨只是回光返照。",
+        "en": "This rise in the share price is just a dead-cat bounce."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object. Literal or figurative.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "垂死挣扎",
+      "昙花一现"
+    ],
+    "antonyms": [
+      "方兴未艾",
+      "蒸蒸日上"
+    ]
+  },
+  {
+    "id": "jun-zi-zhi-jiao",
+    "text": "君子之交",
+    "pinyin": "jūn zǐ zhī jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "outstanding-character"
+    ],
+    "literal": "gentleman · (of) · friendship",
+    "natural": "The friendship of gentlemen",
+    "meaning": {
+      "en": "A friendship between people of integrity — plain but true.",
+      "zh": "贤者之间的交情，平淡如水，不尚虚华。"
+    },
+    "equivalents": [
+      "a true friendship",
+      "a friendship built on respect",
+      "no strings attached"
+    ],
+    "examples": [
+      {
+        "zh": "君子之交淡如水。",
+        "en": "The friendship of gentlemen is as plain as water."
+      },
+      {
+        "zh": "他们是君子之交，多年来互相尊重。",
+        "en": "Theirs is a friendship built on respect over many years."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·山木》",
+      "story": {
+        "en": "Zhuangzi: \"The friendship of gentlemen is plain as water; the friendship of petty men is sweet as wine. Gentlemen's plainness brings closeness; petty men's sweetness brings estrangement.\"",
+        "zh": "《庄子·山木》：\"君子之交淡若水，小人之交甘若醴。\""
+      }
+    },
+    "usage": {
+      "en": "Usually in 君子之交淡如水.",
+      "zh": "常说\"君子之交淡如水\"。"
+    },
+    "synonyms": [
+      "莫逆之交",
+      "肝胆相照"
+    ],
+    "antonyms": [
+      "酒肉朋友",
+      "狐朋狗友",
+      "小人之交"
+    ]
+  },
+  {
+    "id": "wei-ming-shi-cong",
+    "text": "唯命是从",
+    "pinyin": "wéi mìng shì cóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation",
+      "leadership-and-authority"
+    ],
+    "literal": "only · order · (it is) · follow",
+    "natural": "Following only orders",
+    "meaning": {
+      "en": "To do whatever one is told; blindly obedient.",
+      "zh": "叫干什么就干什么，绝对服从。"
+    },
+    "equivalents": [
+      "at someone's beck and call",
+      "a yes-man",
+      "blindly obedient",
+      "do as one is told"
+    ],
+    "examples": [
+      {
+        "zh": "他对老板唯命是从。",
+        "en": "He's at his boss's beck and call."
+      },
+      {
+        "zh": "好员工不是唯命是从，而要有自己的想法。",
+        "en": "A good employee isn't a yes-man but thinks for themselves."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually critical.",
+      "zh": "多作谓语，多含贬义。"
+    },
+    "synonyms": [
+      "言听计从",
+      "俯首帖耳",
+      "马首是瞻"
+    ],
+    "antonyms": [
+      "我行我素",
+      "自作主张",
+      "独断专行"
+    ]
+  },
+  {
+    "id": "wu-jing-da-cai",
+    "text": "无精打采",
+    "pinyin": "wú jīng dǎ cǎi",
+    "variants": [
+      "没精打采"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "emotions"
+    ],
+    "literal": "no · energy · raise · spirit",
+    "natural": "Without energy or spirit",
+    "meaning": {
+      "en": "Listless and dispirited.",
+      "zh": "形容精神不振，提不起劲头。"
+    },
+    "equivalents": [
+      "listless",
+      "down in the dumps",
+      "lacklustre",
+      "mopey"
+    ],
+    "examples": [
+      {
+        "zh": "他昨晚没睡好，今天无精打采的。",
+        "en": "He slept badly and is listless today."
+      },
+      {
+        "zh": "考试没考好，她无精打采地回了家。",
+        "en": "Having done badly in the exam, she went home dejected."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Also 没精打采.",
+      "zh": "多作谓语、状语。也作\"没精打采\"。"
+    },
+    "synonyms": [
+      "垂头丧气",
+      "萎靡不振",
+      "有气无力"
+    ],
+    "antonyms": [
+      "精神抖擞",
+      "神采奕奕",
+      "生龙活虎"
+    ]
+  },
+  {
+    "id": "yuan-yuan-xiang-bao",
+    "text": "冤冤相报",
+    "pinyin": "yuān yuān xiāng bào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "conflict-and-strife"
+    ],
+    "literal": "grievance · grievance · mutually · repay",
+    "natural": "Grievance repaying grievance",
+    "meaning": {
+      "en": "A cycle of revenge.",
+      "zh": "结了仇的双方互相报复。"
+    },
+    "equivalents": [
+      "a cycle of revenge",
+      "tit for tat",
+      "a vendetta",
+      "an eye for an eye"
+    ],
+    "examples": [
+      {
+        "zh": "冤冤相报何时了。",
+        "en": "When will this cycle of revenge end?"
+      },
+      {
+        "zh": "两家冤冤相报，几代人都不来往。",
+        "en": "The two families have feuded for generations."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or subject. Often 冤冤相报何时了.",
+      "zh": "多作谓语、主语，常说\"冤冤相报何时了\"。"
+    },
+    "synonyms": [
+      "以牙还牙",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "以德报怨",
+      "化干戈为玉帛",
+      "握手言和"
+    ]
+  },
+  {
+    "id": "cheng-men-shi-huo",
+    "text": "城门失火",
+    "pinyin": "chéng mén shī huǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "bad-fortune"
+    ],
+    "literal": "city · gate · catch · fire",
+    "natural": "The city gate catches fire",
+    "meaning": {
+      "en": "A disaster that harms innocent bystanders.",
+      "zh": "比喻无辜受连累。"
+    },
+    "equivalents": [
+      "collateral damage",
+      "caught in the crossfire"
+    ],
+    "examples": [
+      {
+        "zh": "城门失火，殃及池鱼。",
+        "en": "When the city gate burns, the fish in the moat suffer."
+      },
+      {
+        "zh": "他们公司出事，我们这些供应商城门失火，殃及池鱼。",
+        "en": "When their company got into trouble, we suppliers were caught in the crossfire."
+      }
+    ],
+    "origin": {
+      "source": "北齐·杜弼《檄梁文》",
+      "story": {
+        "en": "\"When the city gate catches fire, the fish in the moat suffer\" — the moat is drained to put out the fire.",
+        "zh": "杜弼《檄梁文》：\"城门失火，殃及池鱼。\""
+      }
+    },
+    "usage": {
+      "en": "Almost always with 殃及池鱼.",
+      "zh": "多与\"殃及池鱼\"连用。"
+    },
+    "synonyms": [
+      "殃及池鱼",
+      "无辜受累"
+    ],
+    "antonyms": [
+      "置身事外"
+    ]
+  },
+  {
+    "id": "shi-dao-gua-zhu",
+    "text": "失道寡助",
+    "pinyin": "shī dào guǎ zhù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "political-corruption",
+      "wisdom"
+    ],
+    "literal": "lose · right way · few · help",
+    "natural": "Those who lose the right path get little help",
+    "meaning": {
+      "en": "An unjust cause finds few supporters.",
+      "zh": "违背道义，必然陷于孤立。"
+    },
+    "equivalents": [
+      "an unjust cause finds few friends",
+      "those in the wrong stand alone"
+    ],
+    "examples": [
+      {
+        "zh": "得道多助，失道寡助。",
+        "en": "A just cause wins wide support; an unjust one finds few friends."
+      },
+      {
+        "zh": "侵略者失道寡助，终将失败。",
+        "en": "Aggressors find few allies and will ultimately fail."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑下》",
+      "story": {
+        "en": "Mencius: \"Those who have the Way find many to help them; those who lose the Way find few\" — at the extreme, even their kin turn against them.",
+        "zh": "《孟子》：\"得道者多助，失道者寡助。寡助之至，亲戚畔之。\""
+      }
+    },
+    "usage": {
+      "en": "Usually with 得道多助.",
+      "zh": "常与\"得道多助\"连用。"
+    },
+    "synonyms": [
+      "众叛亲离",
+      "孤立无援"
+    ],
+    "antonyms": [
+      "得道多助",
+      "众望所归",
+      "人心所向"
+    ]
+  },
+  {
+    "id": "san-ren-cheng-hu",
+    "text": "三人成虎",
+    "pinyin": "sān rén chéng hǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "three · people · make · tiger",
+    "natural": "Three people make a tiger",
+    "meaning": {
+      "en": "Repeated rumours come to be believed.",
+      "zh": "三个人谎报城市里有老虎，听的人就信以为真。比喻说的人多了，就能使人们把谣言当事实。"
+    },
+    "equivalents": [
+      "a lie repeated often enough becomes the truth",
+      "no smoke without fire (misused)",
+      "rumours snowball"
+    ],
+    "examples": [
+      {
+        "zh": "三人成虎，网上的谣言要警惕。",
+        "en": "A lie repeated often enough becomes truth — be wary of online rumours."
+      },
+      {
+        "zh": "别轻信传言，三人成虎。",
+        "en": "Don't trust hearsay — rumours snowball."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·魏策二》",
+      "story": {
+        "en": "Pang Cong asked the King of Wei: if one person said there was a tiger in the market, would he believe it? No. Two? Doubtful. Three? Yes. \"There's clearly no tiger in the market, yet three people make a tiger.\"",
+        "zh": "庞葱问魏王：一人说市上有虎，信吗？不信。二人说呢？将信将疑。三人说呢？信了。庞葱说：\"夫市之无虎明矣，然而三人言而成虎。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone clause.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "众口铄金",
+      "以讹传讹",
+      "道听途说"
+    ],
+    "antonyms": [
+      "眼见为实",
+      "有凭有据"
+    ]
+  },
+  {
+    "id": "yu-bang-xiang-zheng",
+    "text": "鹬蚌相争",
+    "pinyin": "yù bàng xiāng zhēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "stories"
+    ],
+    "literal": "snipe · clam · mutually · fight",
+    "natural": "The snipe and the clam fighting",
+    "meaning": {
+      "en": "Two sides fighting and both losing to a third party.",
+      "zh": "比喻双方争执不下，两败俱伤，让第三者得利。"
+    },
+    "equivalents": [
+      "while two dogs fight, the third gets the bone",
+      "mutually destructive"
+    ],
+    "examples": [
+      {
+        "zh": "鹬蚌相争，渔翁得利。",
+        "en": "When the snipe and clam fight, the fisherman wins."
+      },
+      {
+        "zh": "两家公司鹬蚌相争，让外资占了便宜。",
+        "en": "While the two firms fought each other, foreign capital took advantage."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·燕策二》",
+      "story": {
+        "en": "A snipe pecked a clam, which clamped its beak; neither would let go, and a fisherman caught both. Su Dai used the fable to dissuade Zhao from attacking Yan.",
+        "zh": "鹬啄蚌肉，蚌夹住鹬嘴，二者相持不下，被渔夫一起捉住。苏代以此劝赵王不要攻燕。"
+      }
+    },
+    "usage": {
+      "en": "Usually with 渔翁得利.",
+      "zh": "常与\"渔翁得利\"连用。"
+    },
+    "synonyms": [
+      "两败俱伤",
+      "渔翁得利"
+    ],
+    "antonyms": [
+      "同舟共济",
+      "互利共赢"
+    ]
+  },
+  {
+    "id": "bai-bu-chuan-yang",
+    "text": "百步穿杨",
+    "pinyin": "bǎi bù chuān yáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "military-strategy-and-victory"
+    ],
+    "literal": "hundred · paces · pierce · willow",
+    "natural": "Piercing a willow leaf at a hundred paces",
+    "meaning": {
+      "en": "Superb marksmanship.",
+      "zh": "在百步以外射穿杨柳的叶子。形容箭术或枪法非常高明。"
+    },
+    "equivalents": [
+      "a crack shot",
+      "dead-eye",
+      "pinpoint accuracy",
+      "a marksman"
+    ],
+    "examples": [
+      {
+        "zh": "这位射击运动员有百步穿杨的本领。",
+        "en": "The shooter has pinpoint accuracy."
+      },
+      {
+        "zh": "他投篮百步穿杨。",
+        "en": "He's a dead-eye shooter on the basketball court."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·西周策》",
+      "story": {
+        "en": "The Chu archer Yang Youji could hit a chosen willow leaf from a hundred paces, every time.",
+        "zh": "楚国养由基善射，\"去柳叶者百步而射之，百发百中\"。"
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "百发百中",
+      "弹无虚发"
+    ],
+    "antonyms": [
+      "无的放矢"
+    ]
+  },
+  {
+    "id": "bai-si-bu-jie",
+    "text": "百思不解",
+    "pinyin": "bǎi sī bù jiě",
+    "variants": [
+      "百思不得其解"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "hundred · think · not · understand",
+    "natural": "Thinking a hundred times without understanding",
+    "meaning": {
+      "en": "Utterly baffled even after much thought.",
+      "zh": "百般思索，仍然不能理解。"
+    },
+    "equivalents": [
+      "completely baffled",
+      "can't for the life of me understand",
+      "scratch one's head"
+    ],
+    "examples": [
+      {
+        "zh": "他为什么突然离开，我百思不解。",
+        "en": "I can't for the life of me understand why he suddenly left."
+      },
+      {
+        "zh": "这道题让我百思不解。",
+        "en": "This problem has me completely baffled."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Also 百思不得其解.",
+      "zh": "多作谓语。也作\"百思不得其解\"。"
+    },
+    "synonyms": [
+      "大惑不解",
+      "迷惑不解",
+      "莫名其妙"
+    ],
+    "antonyms": [
+      "恍然大悟",
+      "豁然开朗",
+      "茅塞顿开"
+    ]
+  },
+  {
+    "id": "yi-yi-dai-lao",
+    "text": "以逸待劳",
+    "pinyin": "yǐ yì dài láo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "wisdom"
+    ],
+    "literal": "with · rested · await · tired",
+    "natural": "Rested troops awaiting a tired enemy",
+    "meaning": {
+      "en": "To rest and wait for a tired enemy.",
+      "zh": "指作战时不首先出击，养精蓄锐，以对付从远道来的疲劳的敌人。"
+    },
+    "equivalents": [
+      "let the enemy come to you",
+      "conserve energy",
+      "play the waiting game"
+    ],
+    "examples": [
+      {
+        "zh": "我们以逸待劳，等对方体力下降再进攻。",
+        "en": "We'll conserve energy and attack when they tire."
+      },
+      {
+        "zh": "主队以逸待劳，客队长途奔波。",
+        "en": "The home team was rested while the visitors had travelled far."
+      }
+    ],
+    "origin": {
+      "source": "《孙子兵法·军争》",
+      "story": {
+        "en": "Sunzi: \"Wait near for an enemy far away; wait rested for an enemy who is tired\" (以近待远，以佚待劳). Also one of the Thirty-Six Stratagems.",
+        "zh": "《孙子·军争》：\"以近待远，以佚待劳，以饱待饥。\"为三十六计之一。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "养精蓄锐",
+      "坐以待敌"
+    ],
+    "antonyms": [
+      "疲于奔命",
+      "劳师远征"
+    ]
+  },
+  {
+    "id": "hou-sheng-ke-wei",
+    "text": "后生可畏",
+    "pinyin": "hòu shēng kě wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "experience-and-old-age"
+    ],
+    "literal": "later · born · can · fear",
+    "natural": "The young are to be respected",
+    "meaning": {
+      "en": "The younger generation may well surpass their elders.",
+      "zh": "年轻人可以超过前辈，令人敬畏。"
+    },
+    "equivalents": [
+      "the young may surpass us",
+      "watch out for the youngsters",
+      "the next generation"
+    ],
+    "examples": [
+      {
+        "zh": "这个小棋手赢了老将，真是后生可畏。",
+        "en": "The young player beat the veteran — the young may well surpass us."
+      },
+      {
+        "zh": "现在的年轻人懂得真多，后生可畏啊。",
+        "en": "Young people today know so much — they'll overtake us."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子罕》",
+      "story": {
+        "en": "Confucius: \"The young are to be held in awe. How do we know the next generation won't equal the present?\"",
+        "zh": "《论语·子罕》：\"后生可畏，焉知来者之不如今也？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Said by elders, admiringly.",
+      "zh": "多作谓语，长辈赞叹语。"
+    },
+    "synonyms": [
+      "青出于蓝",
+      "长江后浪推前浪"
+    ],
+    "antonyms": [
+      "后继无人",
+      "一代不如一代"
+    ]
+  },
+  {
+    "id": "han-dan-xue-bu",
+    "text": "邯郸学步",
+    "pinyin": "hán dān xué bù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation",
+      "stories"
+    ],
+    "literal": "Handan · learn · walk",
+    "natural": "Learning to walk in Handan",
+    "meaning": {
+      "en": "To imitate others so slavishly that one loses one's own ability.",
+      "zh": "比喻模仿人不到家，反把原来自己会的东西忘了。"
+    },
+    "equivalents": [
+      "lose oneself in imitation",
+      "copying others and forgetting oneself"
+    ],
+    "examples": [
+      {
+        "zh": "一味模仿别人，只会邯郸学步。",
+        "en": "Blindly imitating others makes you lose your own way."
+      },
+      {
+        "zh": "写作要有自己的风格，不能邯郸学步。",
+        "en": "Develop your own writing style — don't lose yourself copying others."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·秋水》",
+      "story": {
+        "en": "A youth from Yan went to Handan to learn the elegant local way of walking. He failed to master it and forgot how to walk his own way, crawling home on all fours.",
+        "zh": "燕国少年到邯郸学当地人走路，没学会，反而把自己原来的走法也忘了，只好爬着回去。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "东施效颦",
+      "亦步亦趋",
+      "生搬硬套"
+    ],
+    "antonyms": [
+      "独辟蹊径",
+      "别具一格",
+      "独树一帜"
+    ]
+  },
+  {
+    "id": "neng-gong-qiao-jiang",
+    "text": "能工巧匠",
+    "pinyin": "néng gōng qiǎo jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship"
+    ],
+    "literal": "able · workman · skilled · craftsman",
+    "natural": "Able workmen and skilled craftsmen",
+    "meaning": {
+      "en": "Skilled craftsmen.",
+      "zh": "技艺高明的工匠。"
+    },
+    "equivalents": [
+      "master craftsmen",
+      "skilled artisans",
+      "craftspeople"
+    ],
+    "examples": [
+      {
+        "zh": "故宫是古代能工巧匠的杰作。",
+        "en": "The Forbidden City is the masterpiece of ancient master craftsmen."
+      },
+      {
+        "zh": "这个村子出了很多能工巧匠。",
+        "en": "The village has produced many skilled artisans."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "心灵手巧",
+      "巧夺天工"
+    ],
+    "antonyms": [
+      "笨手笨脚",
+      "粗制滥造"
+    ]
+  },
+  {
+    "id": "si-hai-wei-jia",
+    "text": "四海为家",
+    "pinyin": "sì hǎi wéi jiā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "freedom"
+    ],
+    "literal": "four · seas · as · home",
+    "natural": "Making the four seas one's home",
+    "meaning": {
+      "en": "To make one's home wherever one goes; to wander the world.",
+      "zh": "原指帝王占有全国。后指到处都可以当作自己的家。"
+    },
+    "equivalents": [
+      "at home anywhere",
+      "a citizen of the world",
+      "a rolling stone"
+    ],
+    "examples": [
+      {
+        "zh": "他是个四海为家的旅行者。",
+        "en": "He's a traveller who's at home anywhere."
+      },
+      {
+        "zh": "做工程的人常常四海为家。",
+        "en": "Engineers often make their home wherever the work is."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "浪迹天涯",
+      "走南闯北",
+      "漂泊不定"
+    ],
+    "antonyms": [
+      "安土重迁",
+      "落叶归根",
+      "安家落户"
+    ]
+  },
+  {
+    "id": "qing-chu-yu-lan",
+    "text": "青出于蓝",
+    "pinyin": "qīng chū yú lán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "outstanding-character"
+    ],
+    "literal": "blue · come out · from · indigo",
+    "natural": "Blue dye comes from the indigo plant",
+    "meaning": {
+      "en": "The student surpasses the master.",
+      "zh": "靛青是从蓼蓝中提炼出来的，但颜色比蓼蓝更深。比喻学生超过老师或后人胜过前人。"
+    },
+    "equivalents": [
+      "the pupil surpasses the master",
+      "outshine one's teacher"
+    ],
+    "examples": [
+      {
+        "zh": "青出于蓝而胜于蓝。",
+        "en": "Blue comes from indigo but is bluer still."
+      },
+      {
+        "zh": "他的学生青出于蓝，拿了世界冠军。",
+        "en": "His student surpassed him and became world champion."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·劝学》",
+      "story": {
+        "en": "Xunzi: \"Blue comes from indigo yet is bluer than indigo; ice is made from water yet is colder than water\" — learning can make one surpass one's origins.",
+        "zh": "《荀子·劝学》：\"青，取之于蓝，而青于蓝；冰，水为之，而寒于水。\""
+      }
+    },
+    "usage": {
+      "en": "Usually 青出于蓝而胜于蓝.",
+      "zh": "常说\"青出于蓝而胜于蓝\"。"
+    },
+    "synonyms": [
+      "后来居上",
+      "后生可畏"
+    ],
+    "antonyms": [
+      "一代不如一代"
+    ]
+  },
+  {
+    "id": "nan-geng-nu-zhi",
+    "text": "男耕女织",
+    "pinyin": "nán gēng nǚ zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "rural-wisdom"
+    ],
+    "literal": "man · plough · woman · weave",
+    "natural": "Men ploughing, women weaving",
+    "meaning": {
+      "en": "The traditional rural division of labour.",
+      "zh": "男的耕田，女的织布。指古代农业社会的分工。"
+    },
+    "equivalents": [
+      "the traditional division of labour",
+      "a simple farming life"
+    ],
+    "examples": [
+      {
+        "zh": "古代农村过着男耕女织的生活。",
+        "en": "Ancient rural families lived by the traditional division of labour."
+      },
+      {
+        "zh": "《天仙配》描写了男耕女织的田园生活。",
+        "en": "\"The Heavenly Match\" depicts a simple rural life of farming and weaving."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "日出而作",
+      "自给自足"
+    ],
+    "antonyms": [
+      "养尊处优"
+    ]
+  },
+  {
+    "id": "wang-mei-zhi-ke",
+    "text": "望梅止渴",
+    "pinyin": "wàng méi zhǐ kě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "stories"
+    ],
+    "literal": "look · plums · stop · thirst",
+    "natural": "Thinking of plums to quench thirst",
+    "meaning": {
+      "en": "To console oneself with illusions.",
+      "zh": "想着前面有梅林，口里生津而止渴。比喻愿望无法实现，用空想安慰自己。"
+    },
+    "equivalents": [
+      "feed on false hopes",
+      "wishful thinking",
+      "a placebo"
+    ],
+    "examples": [
+      {
+        "zh": "看看美食照片，算是望梅止渴吧。",
+        "en": "Looking at food photos is a kind of wishful thinking."
+      },
+      {
+        "zh": "空头承诺不过是望梅止渴。",
+        "en": "Empty promises are just false comfort."
+      }
+    ],
+    "origin": {
+      "source": "南朝宋·刘义庆《世说新语·假谲》",
+      "story": {
+        "en": "On a march with no water, Cao Cao told his thirsty soldiers there was a plum grove ahead. Their mouths watered at the thought of sour plums, and they pressed on to find water.",
+        "zh": "曹操行军途中缺水，士兵口渴难忍，他说前面有梅林，士兵听了流出口水，暂时止住了渴。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "画饼充饥",
+      "自欺欺人"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "名副其实"
+    ]
+  },
+  {
+    "id": "qiong-shan-e-shui",
+    "text": "穷山恶水",
+    "pinyin": "qióng shān è shuǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "poverty-and-hardship"
+    ],
+    "literal": "barren · mountains · harsh · water",
+    "natural": "Barren mountains and harsh rivers",
+    "meaning": {
+      "en": "A harsh, barren land; poor natural conditions.",
+      "zh": "形容自然条件很差的地方。"
+    },
+    "equivalents": [
+      "a harsh land",
+      "barren wilderness",
+      "godforsaken place"
+    ],
+    "examples": [
+      {
+        "zh": "经过几十年治理，这片穷山恶水变成了绿洲。",
+        "en": "After decades of work, this barren land has become an oasis."
+      },
+      {
+        "zh": "他出生在一个穷山恶水的地方。",
+        "en": "He was born in a harsh, barren place."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object. Sometimes also implies unruly locals.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "穷乡僻壤",
+      "不毛之地"
+    ],
+    "antonyms": [
+      "山清水秀",
+      "鱼米之乡",
+      "绿水青山"
+    ]
+  },
+  {
+    "id": "xue-fu-wu-che",
+    "text": "学富五车",
+    "pinyin": "xué fù wǔ chē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "academic-achievement",
+      "reading-and-study"
+    ],
+    "literal": "learning · rich · five · carts",
+    "natural": "Learning enough to fill five carts",
+    "meaning": {
+      "en": "Extremely learned.",
+      "zh": "形容读书多，学识丰富。"
+    },
+    "equivalents": [
+      "deeply learned",
+      "erudite",
+      "a walking encyclopedia"
+    ],
+    "examples": [
+      {
+        "zh": "这位老先生学富五车。",
+        "en": "The old gentleman is a walking encyclopedia."
+      },
+      {
+        "zh": "他学富五车，却从不炫耀。",
+        "en": "He's deeply learned but never shows off."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·天下》",
+      "story": {
+        "en": "Zhuangzi said of the logician Hui Shi: \"Hui Shi has many methods; his books would fill five carts\" (惠施多方，其书五车) — books then being bamboo slips.",
+        "zh": "《庄子·天下》：\"惠施多方，其书五车。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 才高八斗.",
+      "zh": "多作谓语，常与\"才高八斗\"连用。"
+    },
+    "synonyms": [
+      "博学多才",
+      "满腹经纶",
+      "才高八斗"
+    ],
+    "antonyms": [
+      "不学无术",
+      "胸无点墨",
+      "目不识丁"
+    ]
+  }
+]
