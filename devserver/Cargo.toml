@@ -3,3 +3,7 @@ name = "chengyu-devserver"
 version.workspace = true
 edition.workspace = true
 publish = false
+
+[dependencies]
+chengyu-core = { path = "../core" }
+serde_json.workspace = true

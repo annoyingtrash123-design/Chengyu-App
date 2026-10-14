@@ -168,7 +168,7 @@ pub fn make_question(
                 .text
                 .chars()
                 .map(|c| {
-                    if is_han(c) {
+                    if is_han(c) && chars.get(seen) == Some(&c) {
                         seen += 1;
                         if seen - 1 == i {
                             return BLANK.to_string();

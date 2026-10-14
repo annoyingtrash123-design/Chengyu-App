@@ -3,7 +3,7 @@
 use std::collections::HashSet;
 
 use crate::dictionary::Dictionary;
-use crate::model::{is_han, Entry, Kind};
+use crate::model::{reading_chars, Entry, Kind};
 use crate::pinyin;
 
 /// Characters that are often read in the neutral tone and may lack a tone mark.
@@ -15,25 +15,6 @@ pub struct Report {
     pub errors: Vec<String>,
     /// Synonyms / antonyms that are not in the dictionary yet (a to-do list, not an error).
     pub missing_links: Vec<String>,
-}
-
-/// Han characters with parenthesised alternative readings removed:
-/// `照舅（旧）` → `照舅`.
-fn reading_chars(text: &str) -> Vec<char> {
-    let mut depth = 0;
-    text.chars()
-        .filter(|&c| match c {
-            '(' | '（' => {
-                depth += 1;
-                false
-            }
-            ')' | '）' => {
-                depth -= 1;
-                false
-            }
-            _ => depth == 0 && is_han(c),
-        })
-        .collect()
 }
 
 /// Are all characters of `needle` in `hay`, in order? Allows for separable

@@ -1,0 +1,25 @@
+{
+  "name": "chengyu-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:browser": "concurrently -k \"cargo run -q -p chengyu-devserver\" \"vite\"",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "2.12.3",
+    "@tauri-apps/plugin-notification": "2.6.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "2.12.2",
+    "concurrently": "9.2.1",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vitest": "4.0.18"
+  }
+}

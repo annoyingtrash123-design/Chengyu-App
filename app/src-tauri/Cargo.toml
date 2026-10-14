@@ -1,0 +1,19 @@
+[package]
+name = "chengyu-app"
+version.workspace = true
+edition.workspace = true
+description = "Chengyu & 俗语 dictionary"
+publish = false
+
+[lib]
+name = "chengyu_app_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2.7", features = [] }
+
+[dependencies]
+chengyu-core = { path = "../../core" }
+tauri = { version = "2.12", features = [] }
+tauri-plugin-notification = "2.6"
+serde_json.workspace = true

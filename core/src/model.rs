@@ -99,10 +99,29 @@ pub fn is_han(c: char) -> bool {
     matches!(c as u32, 0x3400..=0x4DBF | 0x4E00..=0x9FFF | 0xF900..=0xFAFF | 0x20000..=0x2FA1F)
 }
 
+/// Han characters of `text`, ignoring punctuation and parenthesised
+/// alternative readings: `照舅（旧）` → `照舅`.
+pub fn reading_chars(text: &str) -> Vec<char> {
+    let mut depth = 0i32;
+    text.chars()
+        .filter(|&c| match c {
+            '(' | '（' => {
+                depth += 1;
+                false
+            }
+            ')' | '）' => {
+                depth -= 1;
+                false
+            }
+            _ => depth <= 0 && is_han(c),
+        })
+        .collect()
+}
+
 impl Entry {
-    /// The Han characters of the expression, ignoring punctuation.
+    /// The Han characters as read aloud, ignoring punctuation and alternates.
     pub fn chars(&self) -> Vec<char> {
-        self.text.chars().filter(|c| is_han(*c)).collect()
+        reading_chars(&self.text)
     }
 
     /// Number of Han characters.

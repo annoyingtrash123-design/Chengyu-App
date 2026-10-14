@@ -1,0 +1,77 @@
+import { api } from "../api";
+import type { Deck } from "../types";
+import { h, clear, en, pageHeader } from "../ui";
+import { deckPicker } from "./study";
+
+let deck: Deck = { type: "all" };
+
+export async function renderMemory(root: HTMLElement) {
+  const cards = await api.matchCards(deck, "meaning", 6, en());
+  const header = pageHeader(en() ? "Memory match 翻牌配对" : "翻牌配对", { back: true });
+  const picker = deckPicker((d) => { deck = d; renderMemory(root); }, deck);
+  if (cards.length < 4) {
+    clear(root, header, picker, h("div", { class: "empty" }, en() ? "Not enough entries in this deck." : "这个卡组的词条不够。"));
+    return;
+  }
+
+  let open: number[] = [];
+  const matched = new Set<number>();
+  let moves = 0;
+  let busy = false;
+  const status = h("div", { class: "muted small center" });
+  const grid = h("div", { class: "memory-grid" });
+
+  const buttons = cards.map((c, i) =>
+    h(
+      "button",
+      {
+        class: `memory-card ${c.is_idiom ? "is-idiom" : "is-meaning"}`,
+        onclick: () => flip(i),
+        "aria-label": "card",
+      },
+      h("span", { class: "face" }, c.face),
+    ),
+  );
+
+  function flip(i: number) {
+    if (busy || matched.has(i) || open.includes(i)) return;
+    buttons[i].classList.add("up");
+    open.push(i);
+    if (open.length < 2) return;
+    moves++;
+    const [a, b] = open;
+    if (cards[a].pair === cards[b].pair) {
+      matched.add(a).add(b);
+      buttons[a].classList.add("done");
+      buttons[b].classList.add("done");
+      api.quizAnswer(cards[a].entry_id, true);
+      open = [];
+      if (matched.size === cards.length) win();
+    } else {
+      busy = true;
+      setTimeout(() => {
+        buttons[a].classList.remove("up");
+        buttons[b].classList.remove("up");
+        open = [];
+        busy = false;
+      }, 1100);
+    }
+    status.textContent = en() ? `Moves: ${moves}` : `步数：${moves}`;
+  }
+
+  function win() {
+    api.gamePlayed();
+    root.appendChild(
+      h(
+        "section",
+        { class: "card center" },
+        h("p", { class: "good" }, en() ? `🎉 All matched in ${moves} moves!` : `🎉 全部配对，用了 ${moves} 步！`),
+        h("button", { class: "btn primary", onclick: () => renderMemory(root) }, en() ? "Play again" : "再来一局"),
+      ),
+    );
+  }
+
+  clear(grid, buttons);
+  status.textContent = en() ? "Find each expression's meaning" : "找出每个词语对应的释义";
+  clear(root, header, picker, status, grid);
+}
