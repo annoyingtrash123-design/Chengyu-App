@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "chong-man-sheng-ji",
+    "text": "充满生机",
+    "pinyin": "chōng mǎn shēng jī",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "seasonal-changes"
+    ],
+    "literal": "full of · vitality",
+    "natural": "full of life",
+    "meaning": {
+      "en": "Full of vitality.",
+      "zh": "充满生命力和活力。"
+    },
+    "equivalents": [
+      "full of life",
+      "vibrant",
+      "thriving"
+    ],
+    "examples": [
+      {
+        "zh": "春天的田野充满生机。",
+        "en": "The spring fields are full of life."
+      },
+      {
+        "zh": "这座古城又重新充满生机。",
+        "en": "The old town is vibrant again."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "生机勃勃",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "万木凋零"
+    ]
+  },
+  {
+    "id": "da-jing-xiao-guai",
+    "text": "大惊小怪",
+    "pinyin": "dà jīng xiǎo guài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "emotions",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "big · startle · small · strange",
+    "natural": "make a fuss",
+    "meaning": {
+      "en": "To make a fuss about nothing.",
+      "zh": "形容对没有什么了不起的事情过分惊讶。"
+    },
+    "equivalents": [
+      "make a fuss",
+      "make a mountain out of a molehill"
+    ],
+    "examples": [
+      {
+        "zh": "这点小事，别大惊小怪的。",
+        "en": "Don't make a fuss over such a little thing."
+      },
+      {
+        "zh": "他看到什么都大惊小怪。",
+        "en": "He gets excited about everything he sees."
+      }
+    ],
+    "usage": {
+      "en": "Casual, disapproving.",
+      "zh": "口语，贬义。"
+    },
+    "synonyms": [
+      "少见多怪",
+      "小题大做"
+    ],
+    "antonyms": [
+      "见怪不怪",
+      "习以为常",
+      "司空见惯"
+    ]
+  },
+  {
+    "id": "zhuan-wei-wei-an",
+    "text": "转危为安",
+    "pinyin": "zhuǎn wēi wéi ān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "danger"
+    ],
+    "literal": "turn · danger · into · safety",
+    "natural": "pull through",
+    "meaning": {
+      "en": "To turn danger into safety.",
+      "zh": "由危险转为平安。"
+    },
+    "equivalents": [
+      "pull through",
+      "out of danger"
+    ],
+    "examples": [
+      {
+        "zh": "经过抢救，病人终于转危为安。",
+        "en": "After emergency treatment, the patient pulled through."
+      },
+      {
+        "zh": "公司在他的带领下转危为安。",
+        "en": "Under his leadership the company came through the crisis."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "化险为夷",
+      "起死回生"
+    ],
+    "antonyms": [
+      "危在旦夕",
+      "急转直下"
+    ]
+  },
+  {
+    "id": "jian-feng-cha-zhen",
+    "text": "见缝插针",
+    "pinyin": "jiàn fèng chā zhēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "time-management"
+    ],
+    "literal": "see · gap · insert · needle",
+    "natural": "make use of every spare moment",
+    "meaning": {
+      "en": "To make use of every bit of time or space.",
+      "zh": "比喻尽量利用一切可以利用的时间或空间。"
+    },
+    "equivalents": [
+      "use every spare moment",
+      "squeeze in"
+    ],
+    "examples": [
+      {
+        "zh": "他见缝插针地利用课间时间背单词。",
+        "en": "He squeezes vocabulary practice into every break."
+      },
+      {
+        "zh": "城市见缝插针地建了很多小公园。",
+        "en": "The city has squeezed small parks into every gap."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "分秒必争"
+    ],
+    "antonyms": [
+      "虚度光阴"
+    ]
+  },
+  {
+    "id": "gu-jin-zhong-wai",
+    "text": "古今中外",
+    "pinyin": "gǔ jīn zhōng wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "historical-periods",
+      "culture"
+    ],
+    "literal": "ancient · modern · China · abroad",
+    "natural": "at all times and in all places",
+    "meaning": {
+      "en": "Throughout history and across the world.",
+      "zh": "从古代到现代，从国内到国外，泛指时间久远，空间广阔。"
+    },
+    "equivalents": [
+      "throughout history and the world",
+      "everywhere and always"
+    ],
+    "examples": [
+      {
+        "zh": "古今中外，这样的例子很多。",
+        "en": "There are many such examples throughout history and the world."
+      },
+      {
+        "zh": "他读遍了古今中外的名著。",
+        "en": "He has read classics from every age and land."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or sentence-initial.",
+      "zh": "多作定语或放句首。"
+    },
+    "synonyms": [
+      "自古以来"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yuan-sheng-zai-dao",
+    "text": "怨声载道",
+    "pinyin": "yuàn shēng zài dào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "political-corruption"
+    ],
+    "literal": "complaining · voices · fill · road",
+    "natural": "widespread discontent",
+    "meaning": {
+      "en": "Complaints heard everywhere.",
+      "zh": "怨恨的声音充满道路，形容人民群众普遍强烈不满。"
+    },
+    "equivalents": [
+      "widespread discontent",
+      "public outcry"
+    ],
+    "examples": [
+      {
+        "zh": "物价飞涨，百姓怨声载道。",
+        "en": "Prices soared and complaints were everywhere."
+      },
+      {
+        "zh": "新规定实行后怨声载道。",
+        "en": "The new rules led to widespread discontent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "民怨沸腾",
+      "天怒人怨"
+    ],
+    "antonyms": [
+      "交口称赞",
+      "有口皆碑"
+    ]
+  },
+  {
+    "id": "ren-sheng-ding-fei",
+    "text": "人声鼎沸",
+    "pinyin": "rén shēng dǐng fèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "society"
+    ],
+    "literal": "people's · voices · cauldron · boiling",
+    "natural": "a hubbub of voices",
+    "meaning": {
+      "en": "Noisy with voices, like a boiling cauldron.",
+      "zh": "形容人声喧闹，像煮开了锅一样。"
+    },
+    "equivalents": [
+      "a din",
+      "a hubbub",
+      "noisy and crowded"
+    ],
+    "examples": [
+      {
+        "zh": "集市上人声鼎沸。",
+        "en": "The market was a hubbub of voices."
+      },
+      {
+        "zh": "比赛开始前，体育场人声鼎沸。",
+        "en": "Before the match, the stadium was roaring."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性。"
+    },
+    "synonyms": [
+      "热闹非凡",
+      "锣鼓喧天"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "万籁俱寂"
+    ]
+  },
+  {
+    "id": "zheng-zhuang-dai-fa",
+    "text": "整装待发",
+    "pinyin": "zhěng zhuāng dài fā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "journeys-and-exploration"
+    ],
+    "literal": "neat · gear · await · set out",
+    "natural": "ready to set off",
+    "meaning": {
+      "en": "All packed and ready to go.",
+      "zh": "整理好行装，等待出发。"
+    },
+    "equivalents": [
+      "ready to go",
+      "all set"
+    ],
+    "examples": [
+      {
+        "zh": "救援队已整装待发。",
+        "en": "The rescue team is ready to set off."
+      },
+      {
+        "zh": "运动员们整装待发，准备出征。",
+        "en": "The athletes are all set for the competition."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "严阵以待",
+      "蓄势待发"
+    ],
+    "antonyms": [
+      "措手不及"
+    ]
+  },
+  {
+    "id": "shou-tu-you-ze",
+    "text": "守土有责",
+    "pinyin": "shǒu tǔ yǒu zé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "news-and-officialese"
+    ],
+    "literal": "guard · land · have · duty",
+    "natural": "duty-bound to defend",
+    "meaning": {
+      "en": "Responsible for defending one's territory or area.",
+      "zh": "守卫国土是应尽的职责；也指各负其责。"
+    },
+    "equivalents": [
+      "duty-bound to protect",
+      "responsible for one's patch"
+    ],
+    "examples": [
+      {
+        "zh": "各级官员守土有责，要做好防汛工作。",
+        "en": "Officials are responsible for flood prevention in their areas."
+      },
+      {
+        "zh": "军人守土有责。",
+        "en": "Soldiers have a duty to defend the land."
+      }
+    ],
+    "usage": {
+      "en": "Official, often 守土有责、守土尽责.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "责无旁贷"
+    ],
+    "antonyms": [
+      "玩忽职守"
+    ]
+  },
+  {
+    "id": "po-kou-da-ma",
+    "text": "破口大骂",
+    "pinyin": "pò kǒu dà mà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "conflict-and-strife"
+    ],
+    "literal": "break · mouth · loudly · curse",
+    "natural": "hurl abuse",
+    "meaning": {
+      "en": "To curse loudly and abusively.",
+      "zh": "满口恶言地大声骂人。"
+    },
+    "equivalents": [
+      "hurl abuse",
+      "swear loudly",
+      "rant"
+    ],
+    "examples": [
+      {
+        "zh": "他被惹急了，破口大骂。",
+        "en": "Provoked, he started shouting abuse."
+      },
+      {
+        "zh": "司机对行人破口大骂。",
+        "en": "The driver hurled abuse at the pedestrian."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "恶语相向",
+      "出言不逊"
+    ],
+    "antonyms": [
+      "彬彬有礼",
+      "和颜悦色"
+    ]
+  },
+  {
+    "id": "bu-ke-mo-mie",
+    "text": "不可磨灭",
+    "pinyin": "bù kě mó miè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "memory-techniques",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "not · can · erase",
+    "natural": "indelible",
+    "meaning": {
+      "en": "Indelible; unable to be erased.",
+      "zh": "不能磨掉、消灭。"
+    },
+    "equivalents": [
+      "indelible",
+      "lasting",
+      "enduring"
+    ],
+    "examples": [
+      {
+        "zh": "他为国家做出了不可磨灭的贡献。",
+        "en": "He made a lasting contribution to the country."
+      },
+      {
+        "zh": "那段经历给我留下了不可磨灭的印象。",
+        "en": "That experience left an indelible impression on me."
+      }
+    ],
+    "usage": {
+      "en": "Attributive.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "永垂不朽",
+      "刻骨铭心"
+    ],
+    "antonyms": [
+      "过眼云烟",
+      "昙花一现"
+    ]
+  },
+  {
+    "id": "yong-wu-zhi-jing",
+    "text": "永无止境",
+    "pinyin": "yǒng wú zhǐ jìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "learning"
+    ],
+    "literal": "forever · no · stop · end",
+    "natural": "endless",
+    "meaning": {
+      "en": "Without end.",
+      "zh": "永远没有尽头。"
+    },
+    "equivalents": [
+      "endless",
+      "never-ending",
+      "without limit"
+    ],
+    "examples": [
+      {
+        "zh": "学习是永无止境的。",
+        "en": "Learning never ends."
+      },
+      {
+        "zh": "对美的追求永无止境。",
+        "en": "The pursuit of beauty knows no end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "学无止境",
+      "无穷无尽"
+    ],
+    "antonyms": [
+      "适可而止"
+    ]
+  },
+  {
+    "id": "ling-ren-ze-she",
+    "text": "令人咋舌",
+    "pinyin": "lìng rén zé shé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances"
+    ],
+    "literal": "make · people · bite · tongue",
+    "natural": "jaw-dropping",
+    "meaning": {
+      "en": "So astonishing it leaves one speechless.",
+      "zh": "让人吃惊得说不出话来。"
+    },
+    "equivalents": [
+      "jaw-dropping",
+      "staggering",
+      "mind-boggling"
+    ],
+    "examples": [
+      {
+        "zh": "这件古董的价格令人咋舌。",
+        "en": "The price of the antique is staggering."
+      },
+      {
+        "zh": "他的记忆力令人咋舌。",
+        "en": "His memory is mind-boggling."
+      }
+    ],
+    "usage": {
+      "en": "咋 is zé here.",
+      "zh": "“咋”读zé。"
+    },
+    "synonyms": [
+      "瞠目结舌",
+      "目瞪口呆"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "不足为奇"
+    ]
+  },
+  {
+    "id": "yi-qu-bu-fu-fan",
+    "text": "一去不复返",
+    "pinyin": "yī qù bù fù fǎn",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "poems-prose"
+    ],
+    "literal": "once · gone · not · again · return",
+    "natural": "gone for ever",
+    "meaning": {
+      "en": "Gone, never to return.",
+      "zh": "一离开就不再回来。"
+    },
+    "equivalents": [
+      "gone forever",
+      "never to return"
+    ],
+    "examples": [
+      {
+        "zh": "美好的时光一去不复返。",
+        "en": "Those good times are gone forever."
+      },
+      {
+        "zh": "那个靠蛮干发展的时代已经一去不复返了。",
+        "en": "The era of growth by brute force is gone for good."
+      }
+    ],
+    "origin": {
+      "source": "唐·崔颢《黄鹤楼》",
+      "story": {
+        "en": "'The yellow crane, once gone, never returns; the white clouds drift for a thousand years' (黄鹤一去不复返，白云千载空悠悠).",
+        "zh": "崔颢《黄鹤楼》：“黄鹤一去不复返，白云千载空悠悠。”"
+      }
+    },
+    "usage": {
+      "en": "From Cui Hao's 'Yellow Crane Tower'.",
+      "zh": "出自崔颢《黄鹤楼》。"
+    },
+    "synonyms": [
+      "一去不返"
+    ],
+    "antonyms": [
+      "失而复得",
+      "去而复返"
+    ]
+  },
+  {
+    "id": "huo-yan-jin-jing",
+    "text": "火眼金睛",
+    "pinyin": "huǒ yǎn jīn jīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "myths-legends"
+    ],
+    "literal": "fire · eyes · golden · pupils",
+    "natural": "eagle-eyed",
+    "meaning": {
+      "en": "Sharp eyes that see through any disguise.",
+      "zh": "比喻能够识别真假善恶的眼力。"
+    },
+    "equivalents": [
+      "eagle-eyed",
+      "sharp-eyed",
+      "see through anything"
+    ],
+    "examples": [
+      {
+        "zh": "他练就了一双火眼金睛，一眼就看出了假货。",
+        "en": "He has an eagle eye and spots fakes instantly."
+      },
+      {
+        "zh": "骗子逃不过警察的火眼金睛。",
+        "en": "Fraudsters can't escape the police's sharp eyes."
+      }
+    ],
+    "origin": {
+      "source": "明·吴承恩《西游记》第七回",
+      "story": {
+        "en": "Sun Wukong was shut in Laozi's Eight Trigrams Furnace for 49 days; the smoke left him with 'fiery eyes and golden pupils' that could see through demons' disguises.",
+        "zh": "孙悟空被关进太上老君的八卦炉，烟熏四十九天，炼成了“火眼金睛”。"
+      }
+    },
+    "usage": {
+      "en": "From the Monkey King in 'Journey to the West'.",
+      "zh": "出自《西游记》孙悟空。"
+    },
+    "synonyms": [
+      "明察秋毫",
+      "独具慧眼"
+    ],
+    "antonyms": [
+      "有眼无珠",
+      "有眼不识泰山"
+    ]
+  },
+  {
+    "id": "xiu-shou-pang-guan",
+    "text": "袖手旁观",
+    "pinyin": "xiù shǒu páng guān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "negative-character-flaws",
+      "poems-prose"
+    ],
+    "literal": "sleeve · hands · side · watch",
+    "natural": "stand by and do nothing",
+    "meaning": {
+      "en": "To look on with folded arms, not helping.",
+      "zh": "把手放在袖子里在一旁观看，比喻置身事外。"
+    },
+    "equivalents": [
+      "stand idly by",
+      "sit on one's hands"
+    ],
+    "examples": [
+      {
+        "zh": "看到有人落水，他却袖手旁观。",
+        "en": "He just stood by while someone was drowning."
+      },
+      {
+        "zh": "朋友有难，我们不能袖手旁观。",
+        "en": "We can't stand idly by when a friend is in trouble."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《祭柳子厚文》",
+      "story": {
+        "en": "Han Yu: a clumsy carpenter cuts his fingers and sweats, while 'the skilled craftsman looks on from the side, hands tucked in his sleeves' (巧匠旁观，缩手袖间).",
+        "zh": "韩愈《祭柳子厚文》：“不善为斫，血指汗颜，巧匠旁观，缩手袖间。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "隔岸观火",
+      "见死不救",
+      "坐视不管"
+    ],
+    "antonyms": [
+      "拔刀相助",
+      "见义勇为",
+      "挺身而出"
+    ]
+  },
+  {
+    "id": "ku-kou-po-xin",
+    "text": "苦口婆心",
+    "pinyin": "kǔ kǒu pó xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "effective-teaching-methods"
+    ],
+    "literal": "bitter · mouth · grandmotherly · heart",
+    "natural": "earnestly and patiently",
+    "meaning": {
+      "en": "Earnestly and patiently advising.",
+      "zh": "比喻怀着善意再三恳切地劝告。"
+    },
+    "equivalents": [
+      "earnestly",
+      "patiently urging",
+      "heart-to-heart"
+    ],
+    "examples": [
+      {
+        "zh": "老师苦口婆心地劝他好好学习。",
+        "en": "The teacher patiently urged him to study hard."
+      },
+      {
+        "zh": "妈妈苦口婆心说了半天，他就是不听。",
+        "en": "Mum pleaded with him for ages, but he wouldn't listen."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "语重心长",
+      "良药苦口"
+    ],
+    "antonyms": [
+      "冷嘲热讽"
+    ]
+  },
+  {
+    "id": "shi-zhong-bu-yu",
+    "text": "始终不渝",
+    "pinyin": "shǐ zhōng bù yú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "start · end · not · change",
+    "natural": "unwavering to the end",
+    "meaning": {
+      "en": "Never wavering from beginning to end.",
+      "zh": "自始至终一直不变。"
+    },
+    "equivalents": [
+      "unwavering",
+      "steadfast"
+    ],
+    "examples": [
+      {
+        "zh": "他对理想始终不渝。",
+        "en": "He's unwavering in his ideals."
+      },
+      {
+        "zh": "两人的友谊始终不渝。",
+        "en": "Their friendship has never wavered."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "矢志不渝",
+      "始终如一",
+      "坚定不移"
+    ],
+    "antonyms": [
+      "朝三暮四",
+      "见异思迁"
+    ]
+  },
+  {
+    "id": "fa-jia-zhi-fu",
+    "text": "发家致富",
+    "pinyin": "fā jiā zhì fù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "rural-wisdom"
+    ],
+    "literal": "build up · family · achieve · wealth",
+    "natural": "get rich",
+    "meaning": {
+      "en": "To build up family wealth.",
+      "zh": "使家业兴旺发达，变得富有。"
+    },
+    "equivalents": [
+      "get rich",
+      "make a fortune"
+    ],
+    "examples": [
+      {
+        "zh": "村民们靠种茶发家致富。",
+        "en": "The villagers got rich growing tea."
+      },
+      {
+        "zh": "他带领乡亲们发家致富。",
+        "en": "He led the villagers to prosperity."
+      }
+    ],
+    "usage": {
+      "en": "Common in rural development news.",
+      "zh": "多见于农村发展报道。"
+    },
+    "synonyms": [
+      "白手起家"
+    ],
+    "antonyms": [
+      "倾家荡产",
+      "一贫如洗"
+    ]
+  },
+  {
+    "id": "geng-geng-yu-huai",
+    "text": "耿耿于怀",
+    "pinyin": "gěng gěng yú huái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "memory-techniques"
+    ],
+    "literal": "troubled · in · heart",
+    "natural": "brood over",
+    "meaning": {
+      "en": "To keep brooding over something.",
+      "zh": "心里老想着，不能忘怀。"
+    },
+    "equivalents": [
+      "brood over",
+      "can't let it go",
+      "bear a grudge"
+    ],
+    "examples": [
+      {
+        "zh": "他对那次失败一直耿耿于怀。",
+        "en": "He's still brooding over that defeat."
+      },
+      {
+        "zh": "别为这点小事耿耿于怀了。",
+        "en": "Don't brood over such a small thing."
+      }
+    ],
+    "usage": {
+      "en": "Usually 对……耿耿于怀.",
+      "zh": "常说“对……耿耿于怀”。"
+    },
+    "synonyms": [
+      "念念不忘",
+      "怀恨在心",
+      "念念于怀"
+    ],
+    "antonyms": [
+      "释然",
+      "一笑了之",
+      "不念旧恶"
+    ]
+  },
+  {
+    "id": "you-ran-er-sheng",
+    "text": "油然而生",
+    "pinyin": "yóu rán ér shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions"
+    ],
+    "literal": "spontaneously · and · arise",
+    "natural": "well up",
+    "meaning": {
+      "en": "To arise spontaneously (of feelings).",
+      "zh": "形容思想感情自然而然地产生。"
+    },
+    "equivalents": [
+      "well up",
+      "arise naturally"
+    ],
+    "examples": [
+      {
+        "zh": "看到国旗，自豪感油然而生。",
+        "en": "Seeing the flag, pride welled up in me."
+      },
+      {
+        "zh": "一种敬意油然而生。",
+        "en": "A feeling of respect arose spontaneously."
+      }
+    ],
+    "usage": {
+      "en": "Usually + feeling as subject.",
+      "zh": "多以感情作主语。"
+    },
+    "synonyms": [
+      "情不自禁"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hai-qun-zhi-ma",
+    "text": "害群之马",
+    "pinyin": "hài qún zhī mǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "animal-behavior-metaphors",
+      "daoist-classics"
+    ],
+    "literal": "harm · herd · 's · horse",
+    "natural": "a black sheep",
+    "meaning": {
+      "en": "A person who harms the group.",
+      "zh": "危害马群的劣马，比喻危害集体的人。"
+    },
+    "equivalents": [
+      "a black sheep",
+      "a bad apple"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们队里的害群之马。",
+        "en": "He's the bad apple in our team."
+      },
+      {
+        "zh": "必须清除行业中的害群之马。",
+        "en": "The industry's black sheep must be weeded out."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·徐无鬼》",
+      "story": {
+        "en": "A boy told the Yellow Emperor that governing the world is like herding horses: 'simply get rid of whatever harms the horses' (去其害马者而已矣).",
+        "zh": "《庄子》：“夫为天下者，亦奚以异乎牧马者哉？亦去其害马者而已矣。”"
+      }
+    },
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "败类"
+    ],
+    "antonyms": [
+      "中流砥柱",
+      "栋梁之材"
+    ]
+  },
+  {
+    "id": "shang-hen-lei-lei",
+    "text": "伤痕累累",
+    "pinyin": "shāng hén lěi lěi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "sadness-and-despair"
+    ],
+    "literal": "wound · marks · piled",
+    "natural": "covered in scars",
+    "meaning": {
+      "en": "Covered in wounds and scars.",
+      "zh": "满身都是伤疤，也比喻受到很多伤害。"
+    },
+    "equivalents": [
+      "covered in scars",
+      "battered"
+    ],
+    "examples": [
+      {
+        "zh": "这只流浪狗伤痕累累。",
+        "en": "The stray dog is covered in scars."
+      },
+      {
+        "zh": "那段婚姻让她伤痕累累。",
+        "en": "That marriage left her deeply scarred."
+      }
+    ],
+    "usage": {
+      "en": "累 is lěi.",
+      "zh": "“累”读lěi。"
+    },
+    "synonyms": [
+      "遍体鳞伤",
+      "千疮百孔"
+    ],
+    "antonyms": [
+      "安然无恙",
+      "毫发无损"
+    ]
+  },
+  {
+    "id": "quan-yi-zhi-ji",
+    "text": "权宜之计",
+    "pinyin": "quán yí zhī jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "wisdom",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "expedient · suitable · 's · plan",
+    "natural": "a stopgap",
+    "meaning": {
+      "en": "A temporary expedient.",
+      "zh": "为了应付某种情况而暂时采取的办法。"
+    },
+    "equivalents": [
+      "a stopgap",
+      "a temporary measure",
+      "a makeshift solution"
+    ],
+    "examples": [
+      {
+        "zh": "这只是权宜之计，不能长久。",
+        "en": "This is only a stopgap; it can't last."
+      },
+      {
+        "zh": "裁员不过是权宜之计。",
+        "en": "Layoffs are merely a temporary measure."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "缓兵之计",
+      "治标不治本"
+    ],
+    "antonyms": [
+      "长久之计",
+      "一劳永逸"
+    ]
+  },
+  {
+    "id": "bei-jing-li-xiang",
+    "text": "背井离乡",
+    "pinyin": "bèi jǐng lí xiāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "离乡背井"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "poverty-and-hardship"
+    ],
+    "literal": "leave behind · well · leave · hometown",
+    "natural": "leave one's home",
+    "meaning": {
+      "en": "To leave one's hometown, usually out of necessity.",
+      "zh": "离开家乡到外地。"
+    },
+    "equivalents": [
+      "leave home",
+      "be uprooted"
+    ],
+    "examples": [
+      {
+        "zh": "为了生计，他背井离乡去城里打工。",
+        "en": "To make a living, he left home to work in the city."
+      },
+      {
+        "zh": "战乱让很多人背井离乡。",
+        "en": "The war uprooted many people."
+      }
+    ],
+    "usage": {
+      "en": "Usually involuntary, with hardship.",
+      "zh": "多指被迫离乡。"
+    },
+    "synonyms": [
+      "流离失所",
+      "颠沛流离"
+    ],
+    "antonyms": [
+      "安家落户",
+      "落叶归根",
+      "衣锦还乡"
+    ]
+  }
+]
