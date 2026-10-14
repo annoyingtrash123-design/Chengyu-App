@@ -50,6 +50,7 @@ MANUAL = {
     "verbosity": ["拖泥带水", "言之无物", "喋喋不休", "长篇大论"],
     "public-opinion": ["众望所归", "政通人和"],
     "news-and-officialese": ["建章立制", "民主集中", "与时俱进", "开拓创新", "贪污腐败", "顺应民意", "违背民意", "政令不通", "清正廉洁", "勤政爱民", "圆满成功", "公平公正", "实事求是"],
+    "luxury-and-extravagance": ["锦衣玉食", "八珍玉食", "珠光宝气", "山珍海味", "金玉满堂", "华服美饰"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).
