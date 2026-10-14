@@ -168,7 +168,7 @@ export function filterPanel(f: Filters, onChange: () => void, onDone: () => void
       t("类型", "Type"),
       chipGroup<Kind>(KINDS, f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k] ?? 0})`, changed((v) => (f.kinds = v))),
     ),
-    section(t("主题", "Theme"), themePicker(f, onChange), h("div", { class: "sheet-note" }, themesAll)),
+    section(t("标签", "Labels"), themePicker(f, onChange), h("div", { class: "sheet-note" }, themesAll)),
     more,
     h(
       "div",
@@ -188,5 +188,5 @@ export function filterSummary(f: Filters): string {
   if (f.themes.length) parts.push(f.themes.map((x) => themeLabel(x).split(" ")[0]).join("、"));
   const others = activeFilterCount(f) - f.kinds.length - f.themes.length;
   if (others > 0) parts.push(`+${others}`);
-  return parts.length ? parts.join(" · ") : t("全部类型和主题", "All types & themes");
+  return parts.length ? parts.join(" · ") : t("全部类型和标签", "All types & labels");
 }

@@ -36,11 +36,23 @@ rendering of the image, and the **meaning**, plus **equivalents**: real English 
 the same sense, especially ones using a different metaphor (对牛弹琴 → *cast pearls before
 swine*).
 
-## Themes
+## Labels (stored as `themes` in the data)
 
-Two levels. Twenty broad themes (no `group`) each contain detailed themes (with `group`),
-mostly taken from the thematic master list. Tag entries with the most specific themes that
-fit; filtering by a broad theme also finds everything tagged with its detailed themes.
+In the app these are called **labels** (标签), not themes. Treat them as tags:
+
+- An entry can carry as many labels as fit — tag every label that genuinely applies, not just one or two.
+- Labels have two levels: broad labels (no `group`) contain detailed labels (with `group`). Filtering by a
+  broad label also finds everything tagged with its detailed labels.
+- **Add new labels freely** (in `data/themes.json`) whenever a recurring type of expression has no good label
+  yet — e.g. origin types (Three Kingdoms stories, Buddhist sayings, the Thirty-Six Stratagems), uses
+  (wedding blessings, New Year greetings, self-deprecating phrases) or subjects.
+- **Back-fill**: when a new label is added, go back and add it to existing entries it applies to.
+- This rule applies to phase 1, 2 and 3 alike.
+
+## Frequency tiers
+
+★★★ Core (核心) · ★★ Common (常用) · ★ Uncommon (少见). Tier 3 means rarely used, not "literary" —
+register (casual / neutral / formal / literary) is a separate field.
 
 ## Conventions
 

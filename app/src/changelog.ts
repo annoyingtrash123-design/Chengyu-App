@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.9",
+    date: "2026-10-14",
+    en: [
+      "\u201cThemes\u201d are now called \u201cLabels\u201d: an entry can have many, and you can filter by any of them.",
+      "The least-common tier is now \u201c★ Uncommon\u201d instead of \u201cLiterary\u201d.",
+      "Phase 1 content: over 1,200 entries now.",
+    ],
+    zh: ["\u201c主题\u201d改称\u201c标签\u201d：一个词条可有多个标签，可按任一标签筛选。", "最低常用度改为\u201c★ 少见\u201d，不再叫\u201c文学\u201d。", "第一阶段内容：现已超过一千二百条。"],
+  },
+  {
     version: "0.8",
     date: "2026-10-14",
     en: [

@@ -14,7 +14,7 @@ export function deckPicker(onChange: (d: Deck) => void, initial: Deck = { type: 
       (k) => [`kind:${k}`, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }] as [string, string, Deck],
     ),
     ...(state.meta?.themes ?? []).filter((t) => !t.group).map(
-      (t) => [`theme:${t.id}`, `${en() ? "Theme" : "主题"}: ${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }] as [string, string, Deck],
+      (t) => [`theme:${t.id}`, `${en() ? "Label" : "标签"}: ${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }] as [string, string, Deck],
     ),
   ];
   const key = (d: Deck) =>

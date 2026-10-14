@@ -153,7 +153,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
     h(
       "section",
       { class: "card" },
-      h("h3", null, en() ? "主题 Themes" : "主题"),
+      h("h3", null, en() ? "标签 Labels" : "标签"),
       h("div", { class: "chip-group" }, e.themes.map((t) => h("button", { class: "chip", onclick: () => showTheme(t) }, themeLabel(t)))),
     ),
     ),

@@ -95,7 +95,7 @@ export const REGISTER_LABEL: Record<Register, { zh: string; en: string }> = {
 export const FREQUENCY_LABEL: Record<number, { zh: string; en: string; stars: string }> = {
   1: { zh: "核心", en: "Core", stars: "★★★" },
   2: { zh: "常用", en: "Common", stars: "★★" },
-  3: { zh: "文学", en: "Literary", stars: "★" },
+  3: { zh: "少见", en: "Uncommon", stars: "★" },
 };
 
 export const STATUS_LABEL: Record<Status, { zh: string; en: string }> = {
