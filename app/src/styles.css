@@ -299,3 +299,16 @@ input[type="time"].num-input { width: 130px; }
 .hero-mark i { border-radius: 3px; }
 .hero-mark i:nth-child(1) { background: #e63b2e; } .hero-mark i:nth-child(2) { background: #f5b800; }
 .hero-mark i:nth-child(3) { background: #1e9e6a; } .hero-mark i:nth-child(4) { background: #2e6fd8; }
+
+/* ---------- Install banner (web version) ---------- */
+.install-banner {
+  position: fixed; left: 12px; right: 12px; bottom: calc(74px + env(safe-area-inset-bottom)); z-index: 60;
+  max-width: 616px; margin: 0 auto; display: flex; align-items: center; gap: 12px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 12px 10px 12px 12px;
+  box-shadow: 0 6px 24px rgb(0 0 0 / 14%); animation: up 0.25s ease-out;
+}
+.install-icon { width: 44px; height: 44px; border-radius: 10px; flex-shrink: 0; }
+.install-text { display: flex; flex-direction: column; font-size: 13px; color: var(--muted); flex: 1; min-width: 0; }
+.install-text strong { color: var(--ink); font-size: 15px; }
+.install-btn { padding: 8px 14px; white-space: nowrap; }
+.install-close { font-size: 22px; padding: 4px 8px; color: var(--muted); }

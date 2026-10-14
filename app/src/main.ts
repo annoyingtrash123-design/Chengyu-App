@@ -12,6 +12,9 @@ import { renderMemory } from "./views/memory";
 import { renderMatch } from "./views/match";
 import { renderMe } from "./views/me";
 import { scheduleReminders } from "./notifications";
+import { setupInstall } from "./install";
+
+setupInstall();
 
 type View = (root: HTMLElement, params: string[]) => void | Promise<void>;
 

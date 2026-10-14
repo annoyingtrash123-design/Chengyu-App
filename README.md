@@ -37,6 +37,7 @@ data/
 app/             Tauri app
   src/           TypeScript UI (no framework)
   src-tauri/     Tauri shell — forwards one `api` command to the Rust core
+wasm/            The Rust core compiled to WebAssembly for the web/PWA version
 devserver/       Runs the Rust core over HTTP so the UI can be developed in a browser
 scripts/         Python helpers (content backlog report)
 ```
@@ -55,9 +56,20 @@ npm run dev:browser            # then open http://localhost:1420
 npm run tauri dev
 ```
 
+### Web app (any phone, installable)
+
+Every push publishes the web version to **https://annoyingtrash123-design.github.io/Chengyu-App/**.
+Open it on your phone: Android Chrome shows an **Install** button; on iPhone tap Share →
+**Add to Home Screen**. It then opens like a normal app and works offline. The Rust core runs
+in the browser as WebAssembly (`wasm/`); progress is saved on the device.
+
+```bash
+cd app && npm run build:web     # needs wasm-pack; output in app/dist
+```
+
 ### Android
 
-**Easiest:** every push builds a debug APK on GitHub. Open the repo's **Actions** tab, then
+**Also available:** every push builds a debug APK on GitHub. Open the repo's **Actions** tab, then
 **Android APK**, then the latest run, and download `chengyu-android-debug-apk` from
 **Artifacts**. Unzip it, copy the `.apk` to your phone and open it (allow "install unknown
 apps" when asked).

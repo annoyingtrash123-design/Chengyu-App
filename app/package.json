@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "dev:browser": "concurrently -k \"cargo run -q -p chengyu-devserver\" \"vite\"",
+    "dev:browser": "concurrently -k \"cargo run -q -p chengyu-devserver\" \"VITE_BACKEND=devserver vite\"",
+    "build:core": "wasm-pack build ../wasm --target web --out-dir ../app/src/core-wasm --release --no-pack",
+    "build:web": "npm run build:core && npm run build",
     "build": "tsc --noEmit && vite build",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
@@ -20,6 +22,7 @@
     "concurrently": "9.2.1",
     "typescript": "5.9.3",
     "vite": "7.3.7",
+    "vite-plugin-pwa": "1.3.0",
     "vitest": "4.0.18"
   }
 }

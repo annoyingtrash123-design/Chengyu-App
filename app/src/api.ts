@@ -20,10 +20,58 @@ import type {
 
 const inTauri = typeof window !== "undefined" && "__TAURI_INTERNALS__" in window;
 
+// The WebAssembly build of the Rust core (web/PWA version). The glob is empty when the
+// wasm hasn't been built (Tauri builds, unit tests), in which case the dev server is used.
+const wasmModules = import.meta.glob("./core-wasm/chengyu_wasm.js");
+const PROGRESS_KEY = "chengyu-progress-v1";
+
+interface Engine {
+  dispatch(cmd: string, args: string): string;
+  take_changed(): boolean;
+}
+
+let enginePromise: Promise<Engine> | null = null;
+
+function loadEngine(): Promise<Engine> {
+  enginePromise ??= (async () => {
+    const load = Object.values(wasmModules)[0];
+    const mod = (await load()) as { default: () => Promise<unknown>; Engine: new () => Engine };
+    await mod.default();
+    const engine = new mod.Engine();
+    try {
+      const saved = localStorage.getItem(PROGRESS_KEY);
+      if (saved) engine.dispatch("import", JSON.stringify({ data: JSON.parse(saved) }));
+    } catch {
+      // Corrupt or unavailable storage: start fresh rather than fail.
+    }
+    engine.take_changed();
+    navigator.storage?.persist?.().catch(() => {});
+    return engine;
+  })();
+  return enginePromise;
+}
+
+function saveProgress(engine: Engine) {
+  if (!engine.take_changed()) return;
+  try {
+    localStorage.setItem(PROGRESS_KEY, engine.dispatch("export", "{}"));
+  } catch {
+    // Storage full or blocked: progress stays in memory for this session.
+  }
+}
+
+export const usesWasm = () => !inTauri && Object.keys(wasmModules).length > 0 && import.meta.env.VITE_BACKEND !== "devserver";
+
 export async function call<T>(cmd: string, args: Record<string, unknown> = {}): Promise<T> {
   if (inTauri) {
     const { invoke } = await import("@tauri-apps/api/core");
     return invoke<T>("api", { cmd, args });
+  }
+  if (usesWasm()) {
+    const engine = await loadEngine();
+    const out = engine.dispatch(cmd, JSON.stringify(args));
+    saveProgress(engine);
+    return JSON.parse(out) as T;
   }
   const res = await fetch(`/api/${cmd}`, { method: "POST", body: JSON.stringify(args) });
   const json = await res.json();

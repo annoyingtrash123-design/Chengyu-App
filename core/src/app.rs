@@ -22,6 +22,8 @@ pub struct App {
     pub dict: Dictionary,
     pub user: UserData,
     save_path: Option<PathBuf>,
+    /// Set whenever a command changes user data (the web build uses it to know when to persist).
+    pub changed: bool,
 }
 
 /// Compact form used in result lists.
@@ -83,7 +85,7 @@ impl App {
             .and_then(|p| fs::read_to_string(p).ok())
             .and_then(|s| serde_json::from_str(&s).ok())
             .unwrap_or_default();
-        App { dict: Dictionary::embedded(), user, save_path }
+        App { dict: Dictionary::embedded(), user, save_path, changed: false }
     }
 
     pub fn save(&self) -> Result<(), String> {
@@ -333,6 +335,7 @@ impl App {
             _ => return Err(format!("unknown command `{cmd}`")),
         };
         if dirty {
+            self.changed = true;
             self.save()?;
         }
         Ok(result)
@@ -442,6 +445,16 @@ mod tests {
         let app = App::new(Some(path.clone()));
         assert_eq!(app.user.favourites.len(), 1);
         let _ = fs::remove_dir_all(dir);
+    }
+
+    #[test]
+    fn changed_flag_tracks_user_data_edits() {
+        let mut app = App::new(None);
+        call(&mut app, "search", json!({"query": "hua"}));
+        assert!(!app.changed);
+        let id = app.dict.entries()[0].id.clone();
+        call(&mut app, "toggle_favourite", json!({"id": id}));
+        assert!(app.changed);
     }
 
     #[test]

@@ -1,6 +1,7 @@
 import { api, isTauri } from "../api";
 import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
 import { scheduleReminders } from "../notifications";
+import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 
 export async function renderMe(root: HTMLElement) {
   const stats = await api.stats();
@@ -128,6 +129,16 @@ export async function renderMe(root: HTMLElement) {
       ),
       backupBox,
     ),
+    !isTauri() && !isStandalone() && (canPromptInstall() || isIos())
+      ? h(
+          "section",
+          { class: "card" },
+          h("h3", null, en() ? "Install app" : "安装应用"),
+          isIos()
+            ? h("p", { class: "small" }, en() ? "In Safari, tap Share (square with an arrow), then “Add to Home Screen”." : "在 Safari 中点击分享（带箭头的方框），再选“添加到主屏幕”。")
+            : h("button", { class: "btn primary", onclick: async () => { if (await promptInstall()) renderMe(root); } }, en() ? "Install on this device" : "安装到本机"),
+        )
+      : null,
     h("p", { class: "muted small center" }, `${state.meta?.total ?? 0} ${en() ? "entries" : "条词目"} · v0.1`),
   );
 }
