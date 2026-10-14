@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "ti-xin-diao-dan",
+    "text": "提心吊胆",
+    "pinyin": "tí xīn diào dǎn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "fear-and-cowardice"
+    ],
+    "literal": "lift · heart · hang · gallbladder",
+    "natural": "Heart lifted up and courage hanging in the air",
+    "meaning": {
+      "en": "On tenterhooks; constantly afraid that something bad will happen.",
+      "zh": "形容十分担心或害怕，心神不安。"
+    },
+    "equivalents": [
+      "on tenterhooks",
+      "on edge",
+      "have one's heart in one's mouth",
+      "walk on eggshells"
+    ],
+    "examples": [
+      {
+        "zh": "他第一次一个人开车上高速，一路上提心吊胆。",
+        "en": "It was his first time driving alone on the motorway, and he was on edge the whole way."
+      },
+      {
+        "zh": "公司天天传裁员的消息，大家都过得提心吊胆。",
+        "en": "With rumours of lay-offs every day, everyone at the company is living on tenterhooks."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (提心吊胆地过日子). Describes ongoing fear rather than a sudden fright. 胆 (gallbladder) stands for courage.",
+      "zh": "多作谓语、状语，如\"提心吊胆地过日子\"。指持续的担心害怕，而非一时受惊。"
+    },
+    "synonyms": [
+      "惴惴不安",
+      "忐忑不安",
+      "如履薄冰"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "高枕无忧"
+    ]
+  },
+  {
+    "id": "xun-si-wu-bi",
+    "text": "徇私舞弊",
+    "pinyin": "xùn sī wǔ bì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "bend to · private · play with · fraud",
+    "natural": "Bend the rules for private gain and commit fraud",
+    "meaning": {
+      "en": "To abuse one's position for personal favours and commit fraud; malpractice.",
+      "zh": "为了私情而用欺骗的方法做违法乱纪的事。"
+    },
+    "equivalents": [
+      "abuse of office",
+      "corrupt practices",
+      "malfeasance",
+      "cook the books"
+    ],
+    "examples": [
+      {
+        "zh": "这名官员因徇私舞弊被撤职查办。",
+        "en": "The official was dismissed and investigated for abusing his office."
+      },
+      {
+        "zh": "考试中如发现徇私舞弊，成绩一律作废。",
+        "en": "Any results obtained through malpractice in the exam will be cancelled."
+      }
+    ],
+    "usage": {
+      "en": "Formal; common in news, law and official notices. Usually describes officials or people in charge, not ordinary cheating.",
+      "zh": "书面语，多用于新闻、法律和公文，多指有职权的人。"
+    },
+    "synonyms": [
+      "贪赃枉法",
+      "以权谋私"
+    ],
+    "antonyms": [
+      "秉公执法",
+      "大公无私"
+    ]
+  },
+  {
+    "id": "yi-wu-suo-zhi",
+    "text": "一无所知",
+    "pinyin": "yī wú suǒ zhī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance"
+    ],
+    "literal": "one · not have · what · know",
+    "natural": "Not knowing a single thing",
+    "meaning": {
+      "en": "To know nothing at all about something.",
+      "zh": "什么也不知道。"
+    },
+    "equivalents": [
+      "not have a clue",
+      "know nothing about",
+      "be completely in the dark"
+    ],
+    "examples": [
+      {
+        "zh": "我对股票一无所知，不敢随便投资。",
+        "en": "I know nothing about stocks, so I don't dare invest on a whim."
+      },
+      {
+        "zh": "出了这么大的事，他居然一无所知。",
+        "en": "Something this big happened and he was completely in the dark."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often with 对……一无所知. Neutral; can describe honest ignorance, not only foolishness. 一 is read yì here in speech (before 2nd tone wú).",
+      "zh": "多作谓语，常用\"对……一无所知\"。\"一\"在口语中变调读 yì。"
+    },
+    "synonyms": [
+      "一窍不通",
+      "茫然无知"
+    ],
+    "antonyms": [
+      "了如指掌",
+      "无所不知"
+    ]
+  },
+  {
+    "id": "qie-er-bu-she",
+    "text": "锲而不舍",
+    "pinyin": "qiè ér bù shě",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "effort",
+      "laziness-and-giving-up"
+    ],
+    "literal": "carve · and · not · give up",
+    "natural": "Keep carving and never stop",
+    "meaning": {
+      "en": "To persevere without giving up; to keep at something with determination.",
+      "zh": "不断地镂刻。比喻有恒心，有毅力，坚持不懈。"
+    },
+    "equivalents": [
+      "keep chipping away",
+      "stick at it",
+      "dripping water wears away the stone",
+      "never say die"
+    ],
+    "examples": [
+      {
+        "zh": "经过十年锲而不舍的研究，他终于找到了答案。",
+        "en": "After ten years of dogged research, he finally found the answer."
+      },
+      {
+        "zh": "学语言需要锲而不舍的精神。",
+        "en": "Learning a language takes a spirit of perseverance."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·劝学》",
+      "story": {
+        "en": "Xunzi's \"Encouraging Learning\": \"Carve and then stop, and even rotten wood won't break; carve without stopping, and even metal and stone can be engraved\" (锲而舍之，朽木不折；锲而不舍，金石可镂).",
+        "zh": "《荀子·劝学》：\"锲而舍之，朽木不折；锲而不舍，金石可镂。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive (锲而不舍的精神) or adverbial. Slightly literary; 锲 is qiè. Common in essays about study and work.",
+      "zh": "多作定语、状语，如\"锲而不舍的精神\"。\"锲\"读 qiè。常见于作文。"
+    },
+    "synonyms": [
+      "坚持不懈",
+      "持之以恒",
+      "水滴石穿"
+    ],
+    "antonyms": [
+      "半途而废",
+      "浅尝辄止",
+      "一曝十寒"
+    ]
+  },
+  {
+    "id": "bie-you-yong-xin",
+    "text": "别有用心",
+    "pinyin": "bié yǒu yòng xīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "black-and-white"
+    ],
+    "literal": "other · have · use · heart",
+    "natural": "Having some other purpose in mind",
+    "meaning": {
+      "en": "To have ulterior motives; to harbour a hidden, usually bad, intention.",
+      "zh": "心中另有打算，指另有不可告人的企图。"
+    },
+    "equivalents": [
+      "have an ulterior motive",
+      "have an axe to grind",
+      "up to something"
+    ],
+    "examples": [
+      {
+        "zh": "他突然对我这么热情，我怀疑他别有用心。",
+        "en": "He's suddenly so friendly to me — I suspect he has an ulterior motive."
+      },
+      {
+        "zh": "有些别有用心的人在网上散布谣言。",
+        "en": "Some people with hidden agendas are spreading rumours online."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (别有用心的人). Derogatory; common in news commentary.",
+      "zh": "多作谓语、定语，如\"别有用心的人\"。贬义，新闻评论中常见。"
+    },
+    "synonyms": [
+      "居心叵测",
+      "心怀鬼胎"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "襟怀坦白"
+    ]
+  },
+  {
+    "id": "jing-jing-ye-ye",
+    "text": "兢兢业业",
+    "pinyin": "jīng jīng yè yè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "effort"
+    ],
+    "literal": "cautious · cautious · diligent · diligent",
+    "natural": "Careful and diligent",
+    "meaning": {
+      "en": "Conscientious and hard-working; doing one's job carefully and diligently.",
+      "zh": "形容做事谨慎、勤恳、认真负责。"
+    },
+    "equivalents": [
+      "conscientious",
+      "diligent",
+      "dedicated",
+      "a safe pair of hands"
+    ],
+    "examples": [
+      {
+        "zh": "王老师在学校兢兢业业工作了三十年。",
+        "en": "Ms Wang worked conscientiously at the school for thirty years."
+      },
+      {
+        "zh": "他平时兢兢业业，从来没出过差错。",
+        "en": "He's always diligent and has never made a mistake."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·皋陶谟》",
+      "story": {
+        "en": "In the Book of Documents, the minister Gao Yao advises the ruler to be \"cautious and diligent, for each day brings ten thousand matters\" (兢兢业业，一日二日万几).",
+        "zh": "《尚书·皋陶谟》：\"兢兢业业，一日二日万几。\"劝君主谨慎勤勉。"
+      }
+    },
+    "usage": {
+      "en": "Adverbial or predicate (兢兢业业地工作). Praises long-term diligence at work; common in tributes and reports.",
+      "zh": "多作状语、谓语。称赞长期勤恳工作，常用于表彰和报道。"
+    },
+    "synonyms": [
+      "勤勤恳恳",
+      "任劳任怨",
+      "一丝不苟"
+    ],
+    "antonyms": [
+      "敷衍了事",
+      "马马虎虎",
+      "玩忽职守"
+    ]
+  },
+  {
+    "id": "tong-su-yi-dong",
+    "text": "通俗易懂",
+    "pinyin": "tōng sú yì dǒng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "speech"
+    ],
+    "literal": "common · popular · easy · understand",
+    "natural": "Plain and easy to understand",
+    "meaning": {
+      "en": "Written or said in plain language that is easy to understand.",
+      "zh": "浅显易懂，适合一般人的水平。"
+    },
+    "equivalents": [
+      "in plain English",
+      "easy to follow",
+      "accessible",
+      "user-friendly"
+    ],
+    "examples": [
+      {
+        "zh": "这本科普书写得通俗易懂，孩子也能看。",
+        "en": "This popular-science book is written so plainly that even children can read it."
+      },
+      {
+        "zh": "请用通俗易懂的话向客户解释合同条款。",
+        "en": "Please explain the contract terms to the client in plain language."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Describes explanations, books and language. A set phrase rather than a classical idiom.",
+      "zh": "多作谓语、定语，多形容文章、讲解、语言。"
+    },
+    "synonyms": [
+      "深入浅出",
+      "浅显易懂",
+      "言简意赅"
+    ],
+    "antonyms": [
+      "晦涩难懂",
+      "艰深晦涩"
+    ]
+  },
+  {
+    "id": "wu-ke-nai-he",
+    "text": "无可奈何",
+    "pinyin": "wú kě nài hé",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "complex-emotional-states"
+    ],
+    "literal": "not have · can · deal · how",
+    "natural": "Nothing can be done about it",
+    "meaning": {
+      "en": "Helpless; having no way out; to have to accept something one cannot change.",
+      "zh": "没有办法，只能如此。"
+    },
+    "equivalents": [
+      "there's nothing for it",
+      "have no choice",
+      "throw up one's hands",
+      "it is what it is"
+    ],
+    "examples": [
+      {
+        "zh": "雨一直下，比赛只好取消，大家都无可奈何。",
+        "en": "It kept raining and the match had to be cancelled — there was nothing anyone could do."
+      },
+      {
+        "zh": "他无可奈何地叹了口气。",
+        "en": "He sighed helplessly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, adverbial (无可奈何地) or attributive. Famous line: 晏殊's \"无可奈何花落去\" (helplessly the flowers fall).",
+      "zh": "多作谓语、状语、定语。晏殊名句\"无可奈何花落去\"。"
+    },
+    "synonyms": [
+      "无能为力",
+      "束手无策",
+      "万般无奈"
+    ],
+    "antonyms": [
+      "无所不能",
+      "游刃有余"
+    ]
+  },
+  {
+    "id": "pin-xue-jian-you",
+    "text": "品学兼优",
+    "pinyin": "pǐn xué jiān yōu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "academic-achievement",
+      "outstanding-character"
+    ],
+    "literal": "character · study · both · excellent",
+    "natural": "Excellent in both character and studies",
+    "meaning": {
+      "en": "Of good character and excellent at one's studies.",
+      "zh": "品德和学业都很优秀。"
+    },
+    "equivalents": [
+      "a model student",
+      "an all-round student",
+      "good in conduct and grades"
+    ],
+    "examples": [
+      {
+        "zh": "她品学兼优，连续三年获得奖学金。",
+        "en": "A model student in conduct and grades, she won a scholarship three years in a row."
+      },
+      {
+        "zh": "学校每年评选品学兼优的学生。",
+        "en": "Every year the school selects students who excel in both character and studies."
+      }
+    ],
+    "usage": {
+      "en": "Used almost only about students; common in school reports and awards.",
+      "zh": "几乎只用于学生，常见于评语和表彰。"
+    },
+    "synonyms": [
+      "德才兼备",
+      "才德兼备"
+    ],
+    "antonyms": [
+      "不学无术",
+      "品行不端"
+    ]
+  },
+  {
+    "id": "tui-bo-zhu-lan",
+    "text": "推波助澜",
+    "pinyin": "tuī bō zhù lán",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "inappropriate-behavior"
+    ],
+    "literal": "push · wave · help · billow",
+    "natural": "Push the waves and help the billows along",
+    "meaning": {
+      "en": "To add fuel to the fire; to make a bad situation or trend worse.",
+      "zh": "比喻从旁鼓动、助长事物（多指坏的事物）的声势和发展。"
+    },
+    "equivalents": [
+      "add fuel to the fire",
+      "fan the flames",
+      "stir the pot"
+    ],
+    "examples": [
+      {
+        "zh": "一些媒体推波助澜，让谣言越传越广。",
+        "en": "Some media outlets fanned the flames, and the rumour spread further and further."
+      },
+      {
+        "zh": "投机资金推波助澜，房价进一步上涨。",
+        "en": "Speculative money added fuel to the fire, pushing house prices even higher."
+      }
+    ],
+    "origin": {
+      "source": "隋·王通《中说·问易》",
+      "story": {
+        "en": "The Sui scholar Wang Tong wrote that certain historical events \"only served to push the waves and help the billows\" (适足推波助澜), making a trend worse.",
+        "zh": "隋代王通《中说·问易》：\"真君、建德之事，适足推波助澜。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Usually negative, about rumours, trends and conflicts; occasionally neutral (helping a positive trend).",
+      "zh": "多作谓语。多用于贬义，指助长谣言、风气、冲突等。"
+    },
+    "synonyms": [
+      "火上浇油",
+      "煽风点火",
+      "兴风作浪"
+    ],
+    "antonyms": [
+      "息事宁人",
+      "釜底抽薪"
+    ]
+  },
+  {
+    "id": "wei-hu-qi-wei",
+    "text": "微乎其微",
+    "pinyin": "wēi hū qí wēi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "small-numbers",
+      "relative-measurements"
+    ],
+    "literal": "tiny · (particle) · its · tiny",
+    "natural": "Tiny, very tiny",
+    "meaning": {
+      "en": "Extremely small; negligible.",
+      "zh": "形容非常少或非常小。"
+    },
+    "equivalents": [
+      "slim to none",
+      "negligible",
+      "a drop in the ocean",
+      "next to nothing"
+    ],
+    "examples": [
+      {
+        "zh": "比分落后这么多，赢的希望微乎其微。",
+        "en": "So far behind on the scoreboard, their chances of winning are slim to none."
+      },
+      {
+        "zh": "这点改动对整体效果的影响微乎其微。",
+        "en": "This small change has a negligible effect on the overall result."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often with 可能性、希望、影响 (chance, hope, effect).",
+      "zh": "多作谓语，常与\"可能性、希望、影响\"等搭配。"
+    },
+    "synonyms": [
+      "微不足道",
+      "寥寥无几",
+      "九牛一毛"
+    ],
+    "antonyms": [
+      "不计其数",
+      "举足轻重"
+    ]
+  },
+  {
+    "id": "xiang-ti-bing-lun",
+    "text": "相提并论",
+    "pinyin": "xiāng tí bìng lùn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "standards-and-benchmarks"
+    ],
+    "literal": "mutually · raise · together · discuss",
+    "natural": "Mention them together and discuss them as equals",
+    "meaning": {
+      "en": "To put two things on a par; to mention in the same breath. Usually negated.",
+      "zh": "把不同的人或事放在一起谈论或看待（多用于否定）。"
+    },
+    "equivalents": [
+      "mention in the same breath",
+      "put on a par",
+      "compare apples and oranges (negated)"
+    ],
+    "examples": [
+      {
+        "zh": "业余爱好和专业水平不能相提并论。",
+        "en": "Amateur interest and professional skill can't be mentioned in the same breath."
+      },
+      {
+        "zh": "这两部电影风格完全不同，很难相提并论。",
+        "en": "The two films are completely different in style — it's hard to compare them."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, usually after 不能、无法、难以. Often with 把……与……相提并论.",
+      "zh": "多作谓语，常用于否定\"不能/无法/难以相提并论\"。"
+    },
+    "synonyms": [
+      "等量齐观",
+      "同日而语"
+    ],
+    "antonyms": [
+      "天壤之别",
+      "不可同日而语"
+    ]
+  },
+  {
+    "id": "si-hui-fu-ran",
+    "text": "死灰复燃",
+    "pinyin": "sǐ huī fù rán",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "resistance-to-change"
+    ],
+    "literal": "dead · ash · again · burn",
+    "natural": "Dead ashes flare up again",
+    "meaning": {
+      "en": "Something thought to be finished (usually bad) revives.",
+      "zh": "冷灰重新烧了起来。比喻已经停止活动的事物又重新活动起来（多指坏事）。"
+    },
+    "equivalents": [
+      "rear its ugly head again",
+      "rise from the ashes",
+      "make a comeback"
+    ],
+    "examples": [
+      {
+        "zh": "严查之后，赌博活动又有死灰复燃的迹象。",
+        "en": "After the crackdown, there are signs that gambling is rearing its head again."
+      },
+      {
+        "zh": "要防止这种不良风气死灰复燃。",
+        "en": "We must stop this bad practice from coming back."
+      }
+    ],
+    "origin": {
+      "source": "《史记·韩长孺列传》",
+      "story": {
+        "en": "When Han Anguo was in prison, a jailer humiliated him. Han asked, \"Can't dead ashes burn again?\" The jailer replied, \"If they do, I'll piss on them.\" Han later regained high office.",
+        "zh": "韩安国坐牢时受狱吏田甲侮辱，说：\"死灰独不复然乎？\"田甲说：\"然即溺之。\"后来韩安国果然复官。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Mostly about bad things returning (crime, bad habits, epidemics); originally neutral.",
+      "zh": "多作谓语，多指坏事、坏风气重新出现。"
+    },
+    "synonyms": [
+      "卷土重来",
+      "东山再起"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "销声匿迹"
+    ]
+  },
+  {
+    "id": "zheng-fen-duo-miao",
+    "text": "争分夺秒",
+    "pinyin": "zhēng fēn duó miǎo",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "time-management",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "fight for · minute · seize · second",
+    "natural": "Fighting for every minute and second",
+    "meaning": {
+      "en": "To race against time; to make use of every moment.",
+      "zh": "一分一秒也不放过，形容充分利用时间。"
+    },
+    "equivalents": [
+      "race against the clock",
+      "every second counts",
+      "against the clock"
+    ],
+    "examples": [
+      {
+        "zh": "救援人员争分夺秒，搜寻被困群众。",
+        "en": "Rescuers raced against the clock to find people trapped in the rubble."
+      },
+      {
+        "zh": "考试前一周，大家都在争分夺秒地复习。",
+        "en": "In the week before the exam, everyone was revising against the clock."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (争分夺秒地). Common in news about rescues, construction and exams.",
+      "zh": "多作谓语、状语。新闻中常用于救援、施工、备考等。"
+    },
+    "synonyms": [
+      "分秒必争",
+      "只争朝夕"
+    ],
+    "antonyms": [
+      "虚度光阴",
+      "磨磨蹭蹭"
+    ]
+  },
+  {
+    "id": "ji-si-guang-yi",
+    "text": "集思广益",
+    "pinyin": "jí sī guǎng yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "wisdom"
+    ],
+    "literal": "gather · thoughts · widen · benefit",
+    "natural": "Gather everyone's ideas to widen the benefit",
+    "meaning": {
+      "en": "To pool ideas from many people to get the best result.",
+      "zh": "集中群众的智慧，广泛吸收有益的意见。"
+    },
+    "equivalents": [
+      "brainstorm",
+      "pool ideas",
+      "two heads are better than one"
+    ],
+    "examples": [
+      {
+        "zh": "这个方案还不成熟，我们开个会集思广益吧。",
+        "en": "The plan isn't fully formed yet — let's hold a meeting and pool our ideas."
+      },
+      {
+        "zh": "政府通过网络征求意见，集思广益。",
+        "en": "The government gathered suggestions online to draw on public wisdom."
+      }
+    ],
+    "origin": {
+      "source": "三国·诸葛亮《教与军师长史参军掾属》",
+      "story": {
+        "en": "Zhuge Liang told his officials that the purpose of council was \"to gather many minds and widen loyal benefit\" (集众思，广忠益), urging them to speak frankly.",
+        "zh": "诸葛亮说：\"夫参署者，集众思，广忠益也。\"鼓励属下直言献策。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Common in meetings, management and government contexts.",
+      "zh": "多作谓语，常用于会议、管理和政务。"
+    },
+    "synonyms": [
+      "群策群力",
+      "博采众长"
+    ],
+    "antonyms": [
+      "独断专行",
+      "刚愎自用"
+    ]
+  },
+  {
+    "id": "zi-li-geng-sheng",
+    "text": "自力更生",
+    "pinyin": "zì lì gēng shēng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effort",
+      "poverty-and-hardship"
+    ],
+    "literal": "own · strength · renew · life",
+    "natural": "Remake one's life by one's own strength",
+    "meaning": {
+      "en": "Self-reliance; to rely on one's own efforts to improve one's situation.",
+      "zh": "依靠自己的力量把事情办好，改变面貌。"
+    },
+    "equivalents": [
+      "self-reliance",
+      "stand on one's own two feet",
+      "pull oneself up by one's bootstraps"
+    ],
+    "examples": [
+      {
+        "zh": "村民们自力更生，修好了通往镇上的路。",
+        "en": "Relying on themselves, the villagers built a road to the town."
+      },
+      {
+        "zh": "大学毕业后，他决心自力更生，不再向家里要钱。",
+        "en": "After graduating, he resolved to stand on his own two feet and stop asking his family for money."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. A 20th-century political slogan (often paired with 艰苦奋斗), now also used about individuals.",
+      "zh": "多作谓语。二十世纪常见政治口号（常与\"艰苦奋斗\"连用），现也用于个人。"
+    },
+    "synonyms": [
+      "自食其力",
+      "独立自主"
+    ],
+    "antonyms": [
+      "仰人鼻息",
+      "依赖他人"
+    ]
+  },
+  {
+    "id": "you-di-fang-shi",
+    "text": "有的放矢",
+    "pinyin": "yǒu dì fàng shǐ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "wisdom"
+    ],
+    "literal": "have · target · shoot · arrow",
+    "natural": "Shoot the arrow at a target",
+    "meaning": {
+      "en": "To act or speak with a clear aim; targeted and to the point.",
+      "zh": "对准靶子射箭。比喻说话做事有明确目的，有针对性。"
+    },
+    "equivalents": [
+      "targeted",
+      "to the point",
+      "hit the mark"
+    ],
+    "examples": [
+      {
+        "zh": "了解学生的弱点后，老师的辅导就能有的放矢。",
+        "en": "Once the teacher knows the students' weak points, the tutoring can be targeted."
+      },
+      {
+        "zh": "做市场调查是为了有的放矢地制定营销策略。",
+        "en": "We do market research so that our marketing strategy can be targeted."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (有的放矢地). 的 is read dì (target), not de. Popularised in 20th-century political writing.",
+      "zh": "多作谓语、状语。\"的\"读 dì，指箭靶。"
+    },
+    "synonyms": [
+      "对症下药",
+      "量体裁衣"
+    ],
+    "antonyms": [
+      "无的放矢",
+      "漫无目的"
+    ]
+  },
+  {
+    "id": "jian-gong-li-ye",
+    "text": "建功立业",
+    "pinyin": "jiàn gōng lì yè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "high-aspirations",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "build · merit · establish · achievement",
+    "natural": "Win distinction and build a great career",
+    "meaning": {
+      "en": "To make great achievements and contributions.",
+      "zh": "建立功勋，成就事业。"
+    },
+    "equivalents": [
+      "make one's mark",
+      "make a name for oneself",
+      "achieve great things"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻时就立志要建功立业。",
+        "en": "He was determined from a young age to achieve great things."
+      },
+      {
+        "zh": "新时代为青年建功立业提供了广阔舞台。",
+        "en": "The new era offers young people a broad stage on which to make their mark."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal and aspirational; common in speeches and official writing.",
+      "zh": "多作谓语。书面语，常见于讲话和公文。"
+    },
+    "synonyms": [
+      "功成名就",
+      "丰功伟绩"
+    ],
+    "antonyms": [
+      "碌碌无为",
+      "一事无成"
+    ]
+  },
+  {
+    "id": "ren-shan-ren-hai",
+    "text": "人山人海",
+    "pinyin": "rén shān rén hǎi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "festivals-and-celebrations"
+    ],
+    "literal": "people · mountain · people · sea",
+    "natural": "A mountain of people, a sea of people",
+    "meaning": {
+      "en": "Huge crowds of people.",
+      "zh": "人群像山像海一样，形容聚集的人非常多。"
+    },
+    "equivalents": [
+      "a sea of people",
+      "packed",
+      "jam-packed",
+      "heaving"
+    ],
+    "examples": [
+      {
+        "zh": "国庆节的景区人山人海。",
+        "en": "Tourist spots are packed with people during the National Day holiday."
+      },
+      {
+        "zh": "演唱会门口人山人海，根本挤不进去。",
+        "en": "There was a sea of people outside the concert — no way to squeeze in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Everyday and vivid; very common in speech.",
+      "zh": "多作谓语。口语常用，形象生动。"
+    },
+    "synonyms": [
+      "摩肩接踵",
+      "熙熙攘攘",
+      "水泄不通"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "冷冷清清",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "kui-bu-cheng-jun",
+    "text": "溃不成军",
+    "pinyin": "kuì bù chéng jūn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "war"
+    ],
+    "literal": "collapse · not · form · army",
+    "natural": "Routed so badly it is no longer an army",
+    "meaning": {
+      "en": "Utterly routed; defeated so badly that one falls apart.",
+      "zh": "被打得七零八落，不成队伍。形容惨败。"
+    },
+    "equivalents": [
+      "routed",
+      "in full retreat",
+      "a total rout",
+      "thrashed"
+    ],
+    "examples": [
+      {
+        "zh": "敌军遭到突袭，溃不成军。",
+        "en": "Taken by surprise, the enemy army was routed."
+      },
+      {
+        "zh": "下半场主队连丢四球，溃不成军。",
+        "en": "The home team conceded four goals in the second half and fell apart completely."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Originally military; now common in sports reporting and business.",
+      "zh": "多作谓语。原指军队，现常用于体育、商业报道。"
+    },
+    "synonyms": [
+      "一败涂地",
+      "丢盔弃甲",
+      "落花流水"
+    ],
+    "antonyms": [
+      "旗开得胜",
+      "所向披靡"
+    ]
+  },
+  {
+    "id": "lu-shui-qing-shan",
+    "text": "绿水青山",
+    "pinyin": "lǜ shuǐ qīng shān",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "nature"
+    ],
+    "literal": "green · water · green · mountain",
+    "natural": "Clear waters and green mountains",
+    "meaning": {
+      "en": "Beautiful natural scenery; an unspoilt environment.",
+      "zh": "泛指美好的山水风光、良好的生态环境。"
+    },
+    "equivalents": [
+      "unspoilt countryside",
+      "green and pleasant land",
+      "natural beauty"
+    ],
+    "examples": [
+      {
+        "zh": "这里绿水青山，空气清新，是度假的好地方。",
+        "en": "With its clear rivers and green hills and fresh air, it's a great place for a holiday."
+      },
+      {
+        "zh": "\"绿水青山就是金山银山\"已成为环保的口号。",
+        "en": "\"Clear waters and green mountains are mountains of gold and silver\" has become an environmental slogan."
+      }
+    ],
+    "usage": {
+      "en": "Also 青山绿水. Today strongly associated with the slogan 绿水青山就是金山银山 (a healthy environment is wealth), common in news.",
+      "zh": "也作\"青山绿水\"。现常见于\"绿水青山就是金山银山\"的说法。"
+    },
+    "synonyms": [
+      "青山绿水",
+      "山清水秀",
+      "山明水秀"
+    ],
+    "antonyms": [
+      "穷山恶水",
+      "穷乡僻壤"
+    ]
+  },
+  {
+    "id": "qiu-tong-cun-yi",
+    "text": "求同存异",
+    "pinyin": "qiú tóng cún yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "modern-applications-of-classical-ideas",
+      "relationships"
+    ],
+    "literal": "seek · same · keep · difference",
+    "natural": "Seek common ground and set differences aside",
+    "meaning": {
+      "en": "To seek common ground while reserving differences.",
+      "zh": "找出共同点，保留不同意见。"
+    },
+    "equivalents": [
+      "seek common ground",
+      "agree to disagree",
+      "meet halfway"
+    ],
+    "examples": [
+      {
+        "zh": "双方本着求同存异的原则达成了协议。",
+        "en": "The two sides reached agreement on the principle of seeking common ground while setting aside differences."
+      },
+      {
+        "zh": "朋友之间看法不同很正常，求同存异就好。",
+        "en": "It's normal for friends to disagree — just agree to disagree."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Famous from Zhou Enlai's speech at the 1955 Bandung Conference; common in diplomacy and negotiation.",
+      "zh": "多作谓语、定语。因1955年周恩来在万隆会议上的发言而广为人知，常用于外交和谈判。"
+    },
+    "synonyms": [
+      "和而不同",
+      "求大同存小异"
+    ],
+    "antonyms": [
+      "党同伐异",
+      "针锋相对"
+    ]
+  },
+  {
+    "id": "pu-shuo-mi-li",
+    "text": "扑朔迷离",
+    "pinyin": "pū shuò mí lí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "confusion-and-doubt",
+      "confusion"
+    ],
+    "literal": "flailing · (legs) · blurry · (eyes)",
+    "natural": "Hard to tell one from the other",
+    "meaning": {
+      "en": "Confusing and complicated; hard to make sense of.",
+      "zh": "形容事物错综复杂，难以辨别清楚。"
+    },
+    "equivalents": [
+      "murky",
+      "shrouded in mystery",
+      "a tangled web",
+      "clear as mud"
+    ],
+    "examples": [
+      {
+        "zh": "这起案件扑朔迷离，警方至今没有找到线索。",
+        "en": "The case is shrouded in mystery; police still have no leads."
+      },
+      {
+        "zh": "小说情节扑朔迷离，读到最后才知道凶手是谁。",
+        "en": "The novel's plot is so tangled that you only find out who the killer is at the very end."
+      }
+    ],
+    "origin": {
+      "source": "北朝民歌《木兰诗》",
+      "story": {
+        "en": "The Ballad of Mulan ends: \"The male hare's feet kick about, the female hare's eyes are blurry; when two hares run side by side, who can tell male from female?\" (雄兔脚扑朔，雌兔眼迷离…)",
+        "zh": "《木兰诗》：\"雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Used about cases, plots, situations and markets.",
+      "zh": "多作谓语、定语，常形容案情、情节、局势。"
+    },
+    "synonyms": [
+      "错综复杂",
+      "迷雾重重",
+      "真假难辨"
+    ],
+    "antonyms": [
+      "一目了然",
+      "水落石出",
+      "显而易见"
+    ]
+  },
+  {
+    "id": "qu-zhi-ke-shu",
+    "text": "屈指可数",
+    "pinyin": "qū zhǐ kě shù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "small-numbers"
+    ],
+    "literal": "bend · finger · can · count",
+    "natural": "Can be counted on your fingers",
+    "meaning": {
+      "en": "Very few; so few you could count them on your fingers.",
+      "zh": "弯着手指就可以数清楚，形容数量很少。"
+    },
+    "equivalents": [
+      "few and far between",
+      "count on one hand",
+      "a handful"
+    ],
+    "examples": [
+      {
+        "zh": "能用中文写小说的外国作家屈指可数。",
+        "en": "Foreign writers who can write novels in Chinese can be counted on one hand."
+      },
+      {
+        "zh": "这家店开业以来，顾客屈指可数。",
+        "en": "Customers have been few and far between since the shop opened."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Can praise rarity (top experts are 屈指可数) or point to scarcity.",
+      "zh": "多作谓语。既可指稀少可贵，也可指数量少。"
+    },
+    "synonyms": [
+      "寥寥无几",
+      "凤毛麟角",
+      "寥若晨星"
+    ],
+    "antonyms": [
+      "不计其数",
+      "比比皆是",
+      "多如牛毛"
+    ]
+  },
+  {
+    "id": "yi-si-bu-gou",
+    "text": "一丝不苟",
+    "pinyin": "yī sī bù gǒu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "exact-vs-approximate",
+      "positive-character-qualities"
+    ],
+    "literal": "one · thread · not · careless",
+    "natural": "Not careless by even a thread",
+    "meaning": {
+      "en": "Meticulous; scrupulously careful about every detail.",
+      "zh": "一点儿也不马虎，形容办事认真细致。"
+    },
+    "equivalents": [
+      "meticulous",
+      "dot every i and cross every t",
+      "to a T",
+      "painstaking"
+    ],
+    "examples": [
+      {
+        "zh": "他做实验一丝不苟，每个数据都要核对三遍。",
+        "en": "He's meticulous in the lab and checks every figure three times."
+      },
+      {
+        "zh": "老师批改作文一丝不苟，连标点都不放过。",
+        "en": "The teacher marks essays with painstaking care, not even letting punctuation slip."
+      }
+    ],
+    "origin": {
+      "source": "清·吴敬梓《儒林外史》",
+      "story": {
+        "en": "In The Scholars (ch. 4), a magistrate is praised because his superiors learn he is \"not careless by even a thread\" in his duties.",
+        "zh": "《儒林外史》第四回：\"上司访知，见世叔一丝不苟，升迁就在指日。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate, adverbial or attributive. Praises carefulness at work or study. In speech 一 is read yì (before 1st-tone sī).",
+      "zh": "多作谓语、状语、定语。\"一\"在口语中读 yì。"
+    },
+    "synonyms": [
+      "精益求精",
+      "兢兢业业",
+      "严谨细致"
+    ],
+    "antonyms": [
+      "马马虎虎",
+      "粗心大意",
+      "敷衍了事"
+    ]
+  }
+]
