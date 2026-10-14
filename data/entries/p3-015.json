@@ -1,0 +1,1285 @@
+[
+  {
+    "id": "liu-you-yu-di",
+    "text": "留有余地",
+    "pinyin": "liú yǒu yú dì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "relative-measurements"
+    ],
+    "literal": "leave · have · spare · ground",
+    "natural": "leave some leeway",
+    "meaning": {
+      "en": "To leave room for manoeuvre; not to go to extremes.",
+      "zh": "说话、做事不走极端，留下可以回旋的地方。"
+    },
+    "equivalents": [
+      "leave some leeway",
+      "leave room for manoeuvre",
+      "not burn one's bridges"
+    ],
+    "examples": [
+      {
+        "zh": "说话要留有余地，别把话说死。",
+        "en": "Leave yourself some leeway — don't say anything you can't take back."
+      },
+      {
+        "zh": "制定计划时要留有余地。",
+        "en": "Build some slack into your plans."
+      },
+      {
+        "zh": "批评孩子也要留有余地。",
+        "en": "Even when you scold a child, don't go too far."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "适可而止",
+      "网开一面"
+    ],
+    "antonyms": [
+      "赶尽杀绝",
+      "不留余地"
+    ]
+  },
+  {
+    "id": "nan-nan-zi-yu",
+    "text": "喃喃自语",
+    "pinyin": "nán nán zì yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "distracted-attention"
+    ],
+    "literal": "murmur · murmur · self · speak",
+    "natural": "mutter to oneself",
+    "meaning": {
+      "en": "To mutter or murmur to oneself.",
+      "zh": "小声地自己跟自己说话。"
+    },
+    "equivalents": [
+      "mutter to oneself",
+      "talk to oneself under one's breath"
+    ],
+    "examples": [
+      {
+        "zh": "老人坐在门口喃喃自语。",
+        "en": "The old man sat in the doorway muttering to himself."
+      },
+      {
+        "zh": "她一边找钥匙一边喃喃自语。",
+        "en": "She muttered to herself as she looked for her keys."
+      },
+      {
+        "zh": "考试前他喃喃自语地背着公式。",
+        "en": "Before the exam he was reciting formulas under his breath."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "自言自语",
+      "念念有词"
+    ],
+    "antonyms": [
+      "大声疾呼"
+    ]
+  },
+  {
+    "id": "biao-mian-wen-zhang",
+    "text": "表面文章",
+    "pinyin": "biǎo miàn wén zhāng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "news-and-officialese"
+    ],
+    "literal": "surface · face · essay",
+    "natural": "window dressing",
+    "meaning": {
+      "en": "Superficial efforts made only for show.",
+      "zh": "只做在表面上、不解决实际问题的工作。"
+    },
+    "equivalents": [
+      "window dressing",
+      "lip service",
+      "box-ticking"
+    ],
+    "examples": [
+      {
+        "zh": "环保工作不能只做表面文章。",
+        "en": "Environmental protection can't just be window dressing."
+      },
+      {
+        "zh": "检查组一来就打扫卫生，这是做表面文章。",
+        "en": "Cleaning up only when the inspectors come is just for show."
+      },
+      {
+        "zh": "这些改革措施全是表面文章。",
+        "en": "These reforms are nothing but box-ticking."
+      }
+    ],
+    "usage": {
+      "en": "Object; usually 做表面文章.",
+      "zh": "多作宾语，常说“做表面文章”。"
+    },
+    "synonyms": [
+      "敷衍了事",
+      "形式主义",
+      "装点门面"
+    ],
+    "antonyms": [
+      "真抓实干",
+      "脚踏实地"
+    ]
+  },
+  {
+    "id": "shen-bu-zhi-gui-bu-jue",
+    "text": "神不知鬼不觉",
+    "pinyin": "shén bù zhī guǐ bù jué",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "variants": [
+      "人不知鬼不觉"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "gods · not · know · ghosts · not · sense",
+    "natural": "without anyone noticing",
+    "meaning": {
+      "en": "So secretly that no one at all notices.",
+      "zh": "连神鬼都不知道，形容做事极其隐秘。"
+    },
+    "equivalents": [
+      "without anyone noticing",
+      "on the quiet",
+      "without a soul knowing"
+    ],
+    "examples": [
+      {
+        "zh": "他神不知鬼不觉地把钱转走了。",
+        "en": "He moved the money out without anyone noticing."
+      },
+      {
+        "zh": "小偷神不知鬼不觉地溜进了屋子。",
+        "en": "The thief slipped into the house without a sound."
+      },
+      {
+        "zh": "我们神不知鬼不觉地给她准备了生日惊喜。",
+        "en": "We secretly prepared a birthday surprise for her, and she had no idea."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; usually 神不知鬼不觉地.",
+      "zh": "多作状语，常说“神不知鬼不觉地”。"
+    },
+    "synonyms": [
+      "悄无声息",
+      "偷偷摸摸"
+    ],
+    "antonyms": [
+      "众目睽睽",
+      "大张旗鼓"
+    ]
+  },
+  {
+    "id": "yi-zi-yi-ju",
+    "text": "一字一句",
+    "pinyin": "yī zì yī jù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "exact-vs-approximate",
+      "reading-and-study"
+    ],
+    "literal": "one · character · one · sentence",
+    "natural": "word for word",
+    "meaning": {
+      "en": "Every word and sentence; carefully, word by word.",
+      "zh": "每一个字、每一句话，形容认真仔细。"
+    },
+    "equivalents": [
+      "word for word",
+      "every single word",
+      "carefully, word by word"
+    ],
+    "examples": [
+      {
+        "zh": "老师一字一句地给我们讲解课文。",
+        "en": "The teacher went through the text with us word by word."
+      },
+      {
+        "zh": "他一字一句地说：“我不同意。”",
+        "en": "He said slowly and deliberately, 'I do not agree.'"
+      },
+      {
+        "zh": "这份合同我一字一句都看过了。",
+        "en": "I've read every single word of this contract."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or subject; often 一字一句地.",
+      "zh": "多作状语、主语。"
+    },
+    "synonyms": [
+      "字斟句酌",
+      "逐字逐句"
+    ],
+    "antonyms": [
+      "囫囵吞枣",
+      "走马观花"
+    ]
+  },
+  {
+    "id": "zi-bao-zi-qi",
+    "text": "自暴自弃",
+    "pinyin": "zì bào zì qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "laziness-and-giving-up",
+      "confucian-classics"
+    ],
+    "literal": "self · harm · self · abandon",
+    "natural": "give up on oneself",
+    "meaning": {
+      "en": "To give up on oneself and make no effort to improve.",
+      "zh": "自己甘心落后，不求上进。"
+    },
+    "equivalents": [
+      "give up on oneself",
+      "throw in the towel",
+      "let oneself go"
+    ],
+    "examples": [
+      {
+        "zh": "一次失败不算什么，千万别自暴自弃。",
+        "en": "One failure is nothing — don't give up on yourself."
+      },
+      {
+        "zh": "失业后他自暴自弃，整天喝酒。",
+        "en": "After losing his job he let himself go and drank all day."
+      },
+      {
+        "zh": "老师不放弃任何一个自暴自弃的学生。",
+        "en": "The teacher never gives up on a student who has given up on himself."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·离娄上》",
+      "story": {
+        "en": "Mencius: 'Those who do violence to themselves cannot be reasoned with; those who throw themselves away cannot be helped to act' (自暴者，不可与有言也；自弃者，不可与有为也).",
+        "zh": "《孟子·离娄上》：“自暴者，不可与有言也；自弃者，不可与有为也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "破罐破摔",
+      "心灰意冷",
+      "一蹶不振"
+    ],
+    "antonyms": [
+      "自强不息",
+      "发愤图强",
+      "奋发向上"
+    ]
+  },
+  {
+    "id": "you-xin-wu-li",
+    "text": "有心无力",
+    "pinyin": "yǒu xīn wú lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "giving-up-and-weakness"
+    ],
+    "literal": "have · heart · no · strength",
+    "natural": "willing but unable",
+    "meaning": {
+      "en": "Willing to do something but lacking the strength or means.",
+      "zh": "有想法却没有能力去做。"
+    },
+    "equivalents": [
+      "willing but unable",
+      "the spirit is willing but the flesh is weak"
+    ],
+    "examples": [
+      {
+        "zh": "我很想帮你，可是有心无力。",
+        "en": "I'd love to help, but I just can't."
+      },
+      {
+        "zh": "年纪大了，很多事有心无力。",
+        "en": "At my age there's a lot I'd like to do but can't."
+      },
+      {
+        "zh": "小公司想做研发，往往有心无力。",
+        "en": "Small firms want to invest in R&D but often lack the means."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "力不从心",
+      "心有余而力不足"
+    ],
+    "antonyms": [
+      "游刃有余",
+      "绰绰有余"
+    ]
+  },
+  {
+    "id": "bu-de-ren-xin",
+    "text": "不得人心",
+    "pinyin": "bù dé rén xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "political-corruption"
+    ],
+    "literal": "not · win · people's · hearts",
+    "natural": "unpopular",
+    "meaning": {
+      "en": "To lack public support; to be unpopular.",
+      "zh": "得不到众人的支持和拥护。"
+    },
+    "equivalents": [
+      "unpopular",
+      "lack public support",
+      "go down badly"
+    ],
+    "examples": [
+      {
+        "zh": "这项政策不得人心，很快就被取消了。",
+        "en": "The policy was unpopular and soon scrapped."
+      },
+      {
+        "zh": "他在公司里专横霸道，很不得人心。",
+        "en": "He's domineering at work and deeply unpopular."
+      },
+      {
+        "zh": "不得人心的政府终会垮台。",
+        "en": "A government without popular support will eventually fall."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "众叛亲离",
+      "天怒人怨"
+    ],
+    "antonyms": [
+      "众望所归",
+      "人心所向"
+    ]
+  },
+  {
+    "id": "tun-ji-ju-qi",
+    "text": "囤积居奇",
+    "pinyin": "tún jī jū qí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice",
+      "luxury-and-extravagance"
+    ],
+    "literal": "hoard · accumulate · store · rare",
+    "natural": "hoard and profiteer",
+    "meaning": {
+      "en": "To hoard scarce goods and sell them at inflated prices.",
+      "zh": "把紧缺的货物大量储存起来，等待高价出售。"
+    },
+    "equivalents": [
+      "hoard and profiteer",
+      "corner the market",
+      "price-gouge"
+    ],
+    "examples": [
+      {
+        "zh": "疫情期间，有商家囤积居奇，哄抬口罩价格。",
+        "en": "During the pandemic, some traders hoarded masks and pushed up prices."
+      },
+      {
+        "zh": "政府严厉打击囤积居奇的行为。",
+        "en": "The government is cracking down hard on hoarding and profiteering."
+      },
+      {
+        "zh": "开发商囤积居奇，捂盘惜售。",
+        "en": "Developers are holding back flats to drive up prices."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; formal.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "哄抬物价",
+      "奇货可居"
+    ],
+    "antonyms": [
+      "平价出售"
+    ]
+  },
+  {
+    "id": "xuan-li-duo-cai",
+    "text": "绚丽多彩",
+    "pinyin": "xuàn lì duō cǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "appearance",
+      "excellent-writing"
+    ],
+    "literal": "dazzling · beautiful · many · colours",
+    "natural": "colourful and splendid",
+    "meaning": {
+      "en": "Brilliantly colourful and splendid.",
+      "zh": "色彩鲜艳，丰富多彩。"
+    },
+    "equivalents": [
+      "colourful and splendid",
+      "dazzling",
+      "vibrant"
+    ],
+    "examples": [
+      {
+        "zh": "秋天的山林绚丽多彩。",
+        "en": "The autumn woods are a riot of colour."
+      },
+      {
+        "zh": "祝你的大学生活绚丽多彩！",
+        "en": "May your university years be colourful and rewarding!"
+      },
+      {
+        "zh": "民族服饰绚丽多彩，让游客大开眼界。",
+        "en": "The vibrant ethnic costumes were an eye-opener for the visitors."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "五彩缤纷",
+      "丰富多彩",
+      "五光十色"
+    ],
+    "antonyms": [
+      "暗淡无光",
+      "单调乏味"
+    ]
+  },
+  {
+    "id": "ming-zhi-gu-fan",
+    "text": "明知故犯",
+    "pinyin": "míng zhī gù fàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "inappropriate-behavior"
+    ],
+    "literal": "clearly · know · deliberately · offend",
+    "natural": "do wrong knowingly",
+    "meaning": {
+      "en": "To do wrong knowing full well that it is wrong.",
+      "zh": "明明知道不对，还故意去做。"
+    },
+    "equivalents": [
+      "do wrong knowingly",
+      "deliberately break the rules",
+      "wilful misconduct"
+    ],
+    "examples": [
+      {
+        "zh": "他是明知故犯，不能轻饶。",
+        "en": "He did it knowing it was wrong, so he can't be let off lightly."
+      },
+      {
+        "zh": "酒后开车是明知故犯。",
+        "en": "Drink-driving is breaking the law with your eyes open."
+      },
+      {
+        "zh": "犯错不可怕，可怕的是明知故犯。",
+        "en": "Making mistakes isn't the problem — doing wrong on purpose is."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "知法犯法",
+      "执迷不悟"
+    ],
+    "antonyms": [
+      "改过自新",
+      "痛改前非"
+    ]
+  },
+  {
+    "id": "hua-tuan-jin-cu",
+    "text": "花团锦簇",
+    "pinyin": "huā tuán jǐn cù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "plant-and-natural-world",
+      "luxury-and-extravagance"
+    ],
+    "literal": "flowers · clustered · brocade · gathered",
+    "natural": "a riot of colour",
+    "meaning": {
+      "en": "Clusters of flowers and brocade; richly colourful and splendid.",
+      "zh": "花朵聚成团，锦缎堆成簇，形容五彩缤纷、繁华艳丽。"
+    },
+    "equivalents": [
+      "a riot of colour",
+      "bedecked with flowers",
+      "resplendent"
+    ],
+    "examples": [
+      {
+        "zh": "节日的广场花团锦簇。",
+        "en": "On the holiday the square is a blaze of flowers."
+      },
+      {
+        "zh": "公园里花团锦簇，游人如织。",
+        "en": "The park is a riot of colour and packed with visitors."
+      },
+      {
+        "zh": "这篇文章写得花团锦簇，却缺乏内容。",
+        "en": "The essay is beautifully ornate but short on substance."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "姹紫嫣红",
+      "五彩缤纷",
+      "繁花似锦"
+    ],
+    "antonyms": [
+      "残花败柳",
+      "萧条冷落"
+    ]
+  },
+  {
+    "id": "qing-zhen-yi-qie",
+    "text": "情真意切",
+    "pinyin": "qíng zhēn yì qiè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "excellent-writing"
+    ],
+    "literal": "feeling · true · intent · earnest",
+    "natural": "heartfelt",
+    "meaning": {
+      "en": "Sincere and deeply felt.",
+      "zh": "情意真挚恳切。"
+    },
+    "equivalents": [
+      "heartfelt",
+      "sincere",
+      "from the heart"
+    ],
+    "examples": [
+      {
+        "zh": "他的发言情真意切，打动了在场的每一个人。",
+        "en": "His heartfelt speech moved everyone present."
+      },
+      {
+        "zh": "这封信写得情真意切。",
+        "en": "The letter is deeply sincere."
+      },
+      {
+        "zh": "毕业典礼上，校长情真意切地嘱咐我们。",
+        "en": "At graduation, the head gave us some heartfelt advice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "真心实意",
+      "推心置腹",
+      "肺腑之言"
+    ],
+    "antonyms": [
+      "虚情假意",
+      "言不由衷"
+    ]
+  },
+  {
+    "id": "ling-dan-miao-yao",
+    "text": "灵丹妙药",
+    "pinyin": "líng dān miào yào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing",
+      "daoist-classics"
+    ],
+    "literal": "magic · elixir · wonderful · medicine",
+    "natural": "a cure-all",
+    "meaning": {
+      "en": "A miracle cure; a panacea for any problem.",
+      "zh": "神奇有效的丹药，比喻能解决一切问题的好办法。"
+    },
+    "equivalents": [
+      "a cure-all",
+      "a panacea",
+      "a magic bullet"
+    ],
+    "examples": [
+      {
+        "zh": "学习外语没有什么灵丹妙药，只能多练。",
+        "en": "There's no magic bullet for learning a language — you just have to practise."
+      },
+      {
+        "zh": "降价不是解决销量问题的灵丹妙药。",
+        "en": "Price cuts aren't a cure-all for poor sales."
+      },
+      {
+        "zh": "这种保健品被吹成了灵丹妙药。",
+        "en": "This supplement has been hyped as a miracle cure."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 没有灵丹妙药 / 不是灵丹妙药.",
+      "zh": "多作宾语，常用于否定句。"
+    },
+    "synonyms": [
+      "万应灵丹",
+      "妙手回春"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "mao-gu-song-ran",
+    "text": "毛骨悚然",
+    "pinyin": "máo gǔ sǒng rán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "hair · bones · terrified · -ly",
+    "natural": "make one's flesh crawl",
+    "meaning": {
+      "en": "So frightened that one's hair stands on end.",
+      "zh": "毛发竖起，脊梁骨发冷，形容非常害怕。"
+    },
+    "equivalents": [
+      "make one's flesh crawl",
+      "send shivers down one's spine",
+      "make one's hair stand on end"
+    ],
+    "examples": [
+      {
+        "zh": "半夜听到这种声音，真让人毛骨悚然。",
+        "en": "Hearing that sound in the middle of the night made my flesh crawl."
+      },
+      {
+        "zh": "这部恐怖片看得我毛骨悚然。",
+        "en": "The horror film sent shivers down my spine."
+      },
+      {
+        "zh": "案件的细节令人毛骨悚然。",
+        "en": "The details of the case are chilling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 令人毛骨悚然.",
+      "zh": "多作谓语，常说“令人毛骨悚然”。"
+    },
+    "synonyms": [
+      "不寒而栗",
+      "心惊肉跳",
+      "胆战心惊"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "面不改色"
+    ]
+  },
+  {
+    "id": "ming-bu-fu-shi",
+    "text": "名不副实",
+    "pinyin": "míng bù fù shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "名不符实"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "standards-and-benchmarks"
+    ],
+    "literal": "name · not · match · reality",
+    "natural": "not live up to its name",
+    "meaning": {
+      "en": "Not living up to one's reputation or name.",
+      "zh": "名声或名义与实际不相符。"
+    },
+    "equivalents": [
+      "not live up to its name",
+      "overrated",
+      "a misnomer"
+    ],
+    "examples": [
+      {
+        "zh": "这家网红餐厅名不副实。",
+        "en": "This internet-famous restaurant is overrated."
+      },
+      {
+        "zh": "所谓的“专家”其实名不副实。",
+        "en": "The so-called 'expert' doesn't live up to the title."
+      },
+      {
+        "zh": "这个“五星级”酒店有点名不副实。",
+        "en": "This 'five-star' hotel doesn't quite deserve the name."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Also written 名不符实.",
+      "zh": "多作谓语。也作“名不符实”。"
+    },
+    "synonyms": [
+      "徒有虚名",
+      "言过其实"
+    ],
+    "antonyms": [
+      "名副其实",
+      "名不虚传",
+      "实至名归"
+    ]
+  },
+  {
+    "id": "hun-ran-yi-ti",
+    "text": "浑然一体",
+    "pinyin": "hún rán yī tǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "unusual-combinations"
+    ],
+    "literal": "whole · -ly · one · body",
+    "natural": "a seamless whole",
+    "meaning": {
+      "en": "Blended into a seamless, harmonious whole.",
+      "zh": "融合成一个整体，不可分割。"
+    },
+    "equivalents": [
+      "a seamless whole",
+      "blend in perfectly",
+      "perfectly integrated"
+    ],
+    "examples": [
+      {
+        "zh": "这座建筑与周围的山水浑然一体。",
+        "en": "The building blends seamlessly with the surrounding landscape."
+      },
+      {
+        "zh": "他的书法和画作浑然一体。",
+        "en": "His calligraphy and painting form a seamless whole."
+      },
+      {
+        "zh": "音乐和画面浑然一体，非常震撼。",
+        "en": "The music and visuals merge into one — stunning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "天衣无缝",
+      "融为一体",
+      "水乳交融"
+    ],
+    "antonyms": [
+      "格格不入",
+      "支离破碎"
+    ]
+  },
+  {
+    "id": "zuo-gu-you-pan",
+    "text": "左顾右盼",
+    "pinyin": "zuǒ gù yòu pàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "confusion-and-doubt"
+    ],
+    "literal": "left · look · right · gaze",
+    "natural": "look around",
+    "meaning": {
+      "en": "To look this way and that; to glance about nervously or hesitantly.",
+      "zh": "向左右两边看，形容东张西望，也形容犹豫观望。"
+    },
+    "equivalents": [
+      "look around",
+      "glance this way and that",
+      "look about nervously"
+    ],
+    "examples": [
+      {
+        "zh": "他站在路口左顾右盼，像在等人。",
+        "en": "He stood at the crossing looking this way and that, as if waiting for someone."
+      },
+      {
+        "zh": "上课时别左顾右盼。",
+        "en": "Don't keep looking around in class."
+      },
+      {
+        "zh": "投资者左顾右盼，迟迟不敢入市。",
+        "en": "Investors are hesitating on the sidelines, afraid to enter the market."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "东张西望",
+      "瞻前顾后"
+    ],
+    "antonyms": [
+      "目不斜视",
+      "全神贯注"
+    ]
+  },
+  {
+    "id": "huan-tian-xi-di",
+    "text": "欢天喜地",
+    "pinyin": "huān tiān xǐ dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "complex-emotional-states",
+      "joy-and-happiness"
+    ],
+    "literal": "joy · sky · happy · earth",
+    "natural": "overjoyed",
+    "meaning": {
+      "en": "Overjoyed; jubilant.",
+      "zh": "形容非常高兴。"
+    },
+    "equivalents": [
+      "overjoyed",
+      "jubilant",
+      "over the moon"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们欢天喜地地过新年。",
+        "en": "The children celebrated the New Year in high spirits."
+      },
+      {
+        "zh": "拿到录取通知书，他欢天喜地。",
+        "en": "He was over the moon when he got his offer letter."
+      },
+      {
+        "zh": "全村人欢天喜地迎接新娘。",
+        "en": "The whole village joyfully welcomed the bride."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "兴高采烈",
+      "喜气洋洋",
+      "手舞足蹈"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "垂头丧气",
+      "悲痛欲绝"
+    ]
+  },
+  {
+    "id": "xiang-mo-xiang-yang",
+    "text": "像模像样",
+    "pinyin": "xiàng mó xiàng yàng",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "有模有样"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "standards-and-benchmarks",
+      "appearance"
+    ],
+    "literal": "like · model · like · shape",
+    "natural": "pretty decent",
+    "meaning": {
+      "en": "Looking proper and up to standard; quite convincing.",
+      "zh": "形容达到一定标准，看起来很像样子。"
+    },
+    "equivalents": [
+      "pretty decent",
+      "the real deal",
+      "look the part"
+    ],
+    "examples": [
+      {
+        "zh": "小家伙穿上西装，还挺像模像样的。",
+        "en": "The little lad looks quite the part in a suit."
+      },
+      {
+        "zh": "她第一次做菜，就做得像模像样。",
+        "en": "It was her first time cooking, but the meal was pretty decent."
+      },
+      {
+        "zh": "这个小作坊也搞得像模像样。",
+        "en": "Even this little workshop is run quite properly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; casual. Also 有模有样.",
+      "zh": "多作谓语、补语，口语。也作“有模有样”。"
+    },
+    "synonyms": [
+      "有板有眼",
+      "中规中矩"
+    ],
+    "antonyms": [
+      "不伦不类",
+      "不三不四"
+    ]
+  },
+  {
+    "id": "hai-kuo-tian-kong",
+    "text": "海阔天空",
+    "pinyin": "hǎi kuò tiān kōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "freedom",
+      "verbosity"
+    ],
+    "literal": "sea · wide · sky · empty",
+    "natural": "boundless; rambling",
+    "meaning": {
+      "en": "Vast and boundless; (of talk) wide-ranging and unrestrained.",
+      "zh": "像大海一样辽阔，像天空一样空旷，形容大自然的广阔，也比喻想象或说话漫无边际。"
+    },
+    "equivalents": [
+      "boundless",
+      "free and open",
+      "rambling"
+    ],
+    "examples": [
+      {
+        "zh": "退一步海阔天空。",
+        "en": "Take a step back and the whole world opens up."
+      },
+      {
+        "zh": "我们几个海阔天空地聊了一晚上。",
+        "en": "We chatted about everything under the sun all evening."
+      },
+      {
+        "zh": "毕业后，他去了更海阔天空的世界。",
+        "en": "After graduating, he headed off into a wider world."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; 退一步海阔天空 is a common saying.",
+      "zh": "多作谓语、状语；常说“退一步海阔天空”。"
+    },
+    "synonyms": [
+      "天马行空",
+      "无边无际",
+      "漫无边际"
+    ],
+    "antonyms": [
+      "坐井观天"
+    ]
+  },
+  {
+    "id": "shou-zhi-yu-ren",
+    "text": "受制于人",
+    "pinyin": "shòu zhì yú rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "freedom",
+      "leadership-and-authority"
+    ],
+    "literal": "suffer · control · by · others",
+    "natural": "be at someone's mercy",
+    "meaning": {
+      "en": "To be controlled by others.",
+      "zh": "被别人控制。"
+    },
+    "equivalents": [
+      "be at someone's mercy",
+      "dance to someone else's tune",
+      "be controlled by others"
+    ],
+    "examples": [
+      {
+        "zh": "关键技术掌握在自己手里，才不会受制于人。",
+        "en": "Only by mastering key technologies yourself can you avoid being at others' mercy."
+      },
+      {
+        "zh": "他欠了一大笔钱，处处受制于人。",
+        "en": "He owes a fortune and is at his creditors' mercy."
+      },
+      {
+        "zh": "能源依赖进口就会受制于人。",
+        "en": "Relying on imported energy leaves you dependent on others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "仰人鼻息",
+      "寄人篱下"
+    ],
+    "antonyms": [
+      "自力更生",
+      "独立自主"
+    ]
+  },
+  {
+    "id": "e-wan-tan-xi",
+    "text": "扼腕叹息",
+    "pinyin": "è wàn tàn xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "扼腕长叹"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "sadness-and-despair",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "grip · wrist · sigh · breath",
+    "natural": "sigh with regret",
+    "meaning": {
+      "en": "To clasp one's wrist and sigh, in regret or frustration.",
+      "zh": "用手握住手腕叹气，形容惋惜、愤慨。"
+    },
+    "equivalents": [
+      "sigh with regret",
+      "lament",
+      "it's a crying shame"
+    ],
+    "examples": [
+      {
+        "zh": "他英年早逝，令人扼腕叹息。",
+        "en": "His early death is a matter of deep regret."
+      },
+      {
+        "zh": "球队在最后一秒失分，球迷们扼腕叹息。",
+        "en": "The team conceded in the final second and the fans groaned in dismay."
+      },
+      {
+        "zh": "这么好的机会错过了，真让人扼腕叹息。",
+        "en": "Missing such a good opportunity is a real shame."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 令人扼腕叹息. Formal.",
+      "zh": "多作谓语，常说“令人扼腕叹息”，书面语。"
+    },
+    "synonyms": [
+      "痛心疾首",
+      "惋惜不已"
+    ],
+    "antonyms": [
+      "拍手称快",
+      "额手称庆"
+    ]
+  },
+  {
+    "id": "du-dang-yi-mian",
+    "text": "独当一面",
+    "pinyin": "dú dāng yī miàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "outstanding-character",
+      "historical-records"
+    ],
+    "literal": "alone · take-on · one · side",
+    "natural": "take charge on one's own",
+    "meaning": {
+      "en": "Able to take sole charge of an area of work.",
+      "zh": "单独承担一个方面的重任。"
+    },
+    "equivalents": [
+      "take charge on one's own",
+      "stand on one's own feet",
+      "hold one's own"
+    ],
+    "examples": [
+      {
+        "zh": "经过几年锻炼，他已经能独当一面了。",
+        "en": "After a few years' experience, he can now run things on his own."
+      },
+      {
+        "zh": "她是能独当一面的项目经理。",
+        "en": "She's a project manager who can take full charge."
+      },
+      {
+        "zh": "年轻球员在这场比赛中独当一面。",
+        "en": "The young player carried the team in this match."
+      }
+    ],
+    "origin": {
+      "source": "《史记·留侯世家》",
+      "story": {
+        "en": "Zhang Liang told the King of Han that among his generals only Han Xin could be entrusted with great matters and 'take on one front alone' (独韩信可属大事，当一面).",
+        "zh": "《史记·留侯世家》：“而汉王之将独韩信可属大事，当一面。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 能独当一面.",
+      "zh": "多作谓语，常说“能独当一面”。"
+    },
+    "synonyms": [
+      "挑大梁",
+      "顶天立地"
+    ],
+    "antonyms": [
+      "依赖他人",
+      "受制于人"
+    ]
+  },
+  {
+    "id": "xin-jing-rou-tiao",
+    "text": "心惊肉跳",
+    "pinyin": "xīn jīng ròu tiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "psychological-pressure"
+    ],
+    "literal": "heart · startled · flesh · jump",
+    "natural": "be on edge with fear",
+    "meaning": {
+      "en": "Filled with dread; jumpy with fear.",
+      "zh": "心里害怕，身上的肉也在跳，形容担心灾祸临头，十分害怕。"
+    },
+    "equivalents": [
+      "be on edge",
+      "have one's heart in one's mouth",
+      "jittery with fear"
+    ],
+    "examples": [
+      {
+        "zh": "看着孩子在栏杆上爬，妈妈心惊肉跳。",
+        "en": "Watching her child climb on the railing, the mother's heart was in her mouth."
+      },
+      {
+        "zh": "电话铃一响，他就心惊肉跳。",
+        "en": "Every time the phone rings, he jumps."
+      },
+      {
+        "zh": "股市暴跌，让散户们心惊肉跳。",
+        "en": "The market crash left small investors jittery."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "胆战心惊",
+      "毛骨悚然",
+      "提心吊胆"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "若无其事"
+    ]
+  }
+]
