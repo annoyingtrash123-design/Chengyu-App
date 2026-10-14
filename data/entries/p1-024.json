@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "qi-hu-nan-xia",
+    "text": "骑虎难下",
+    "pinyin": "qí hǔ nán xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "ride · tiger · hard · dismount",
+    "natural": "Riding a tiger and unable to get off",
+    "meaning": {
+      "en": "Unable to back out once committed; in too deep.",
+      "zh": "骑在老虎背上不能下来。比喻事情迫于形势，不能中止。"
+    },
+    "equivalents": [
+      "in too deep",
+      "no turning back",
+      "have a tiger by the tail",
+      "past the point of no return"
+    ],
+    "examples": [
+      {
+        "zh": "项目投入了大笔资金，现在骑虎难下。",
+        "en": "We've sunk so much money into the project that there's no backing out now."
+      },
+      {
+        "zh": "话已经说出去了，他骑虎难下。",
+        "en": "Having said it publicly, he couldn't back down."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·温峤传》",
+      "story": {
+        "en": "Wen Jiao urged a wavering ally to fight on: \"The situation allows no retreat — once riding a fierce beast, how can one get off midway?\" (骑猛兽，安可中下哉).",
+        "zh": "温峤说：\"今之事势，义无旋踵，骑猛兽，安可中下哉！\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "进退两难",
+      "欲罢不能",
+      "进退维谷"
+    ],
+    "antonyms": [
+      "进退自如",
+      "全身而退",
+      "游刃有余"
+    ]
+  },
+  {
+    "id": "hui-jin-ru-tu",
+    "text": "挥金如土",
+    "pinyin": "huī jīn rú tǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "fine-dress-and-fashion"
+    ],
+    "literal": "scatter · gold · like · dirt",
+    "natural": "Throwing gold around like dirt",
+    "meaning": {
+      "en": "To spend money like water.",
+      "zh": "把钱财当泥土一样挥霍。形容极端挥霍浪费。"
+    },
+    "equivalents": [
+      "spend money like water",
+      "splash the cash",
+      "money burns a hole in one's pocket"
+    ],
+    "examples": [
+      {
+        "zh": "他中了彩票后挥金如土，几年就花光了。",
+        "en": "After winning the lottery he spent money like water and blew it all in a few years."
+      },
+      {
+        "zh": "这些富二代挥金如土。",
+        "en": "These rich kids splash the cash."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "挥霍无度",
+      "大手大脚",
+      "一掷千金"
+    ],
+    "antonyms": [
+      "节衣缩食",
+      "省吃俭用",
+      "一毛不拔"
+    ]
+  },
+  {
+    "id": "tou-tao-bao-li",
+    "text": "投桃报李",
+    "pinyin": "tóu táo bào lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "conduct"
+    ],
+    "literal": "throw · peach · repay · plum",
+    "natural": "Given a peach, return a plum",
+    "meaning": {
+      "en": "To return a favour; reciprocity.",
+      "zh": "他送给我桃儿，我拿李子回送他。比喻友好往来。"
+    },
+    "equivalents": [
+      "return the favour",
+      "one good turn deserves another",
+      "you scratch my back, I'll scratch yours"
+    ],
+    "examples": [
+      {
+        "zh": "他上次帮了我，这次我投桃报李。",
+        "en": "He helped me last time, so this time I'm returning the favour."
+      },
+      {
+        "zh": "两国投桃报李，关系越来越好。",
+        "en": "The two countries reciprocate each other's gestures, and relations keep improving."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·大雅·抑》",
+      "story": {
+        "en": "The Book of Songs: \"He threw me a peach; I repaid him with a plum\" (投我以桃，报之以李).",
+        "zh": "《诗经·抑》：\"投我以桃，报之以李。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "礼尚往来",
+      "知恩图报",
+      "以德报德"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报",
+      "过河拆桥"
+    ]
+  },
+  {
+    "id": "yan-gao-shou-di",
+    "text": "眼高手低",
+    "pinyin": "yǎn gāo shǒu dī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "poor-workmanship"
+    ],
+    "literal": "eye · high · hand · low",
+    "natural": "High standards in the eye, low skill in the hand",
+    "meaning": {
+      "en": "Having high standards but poor practical ability.",
+      "zh": "要求的标准很高，但实际上自己也做不到。"
+    },
+    "equivalents": [
+      "all talk and no action",
+      "high standards, low skills",
+      "can criticise but can't do"
+    ],
+    "examples": [
+      {
+        "zh": "有些毕业生眼高手低，看不上基础工作。",
+        "en": "Some graduates have high standards but poor skills, looking down on entry-level work."
+      },
+      {
+        "zh": "评论别人容易，自己做才知道眼高手低。",
+        "en": "It's easy to criticise others — try it yourself and you'll see your skills don't match your standards."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "好高骛远",
+      "志大才疏",
+      "纸上谈兵"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "真才实学",
+      "得心应手"
+    ]
+  },
+  {
+    "id": "guo-mu-bu-wang",
+    "text": "过目不忘",
+    "pinyin": "guò mù bù wàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "memory-techniques",
+      "academic-achievement"
+    ],
+    "literal": "pass · eye · not · forget",
+    "natural": "Never forgetting what passes before the eyes",
+    "meaning": {
+      "en": "A photographic memory.",
+      "zh": "看过就不忘记。形容记忆力非常强。"
+    },
+    "equivalents": [
+      "a photographic memory",
+      "a memory like an elephant",
+      "never forget a face"
+    ],
+    "examples": [
+      {
+        "zh": "他有过目不忘的本领。",
+        "en": "He has a photographic memory."
+      },
+      {
+        "zh": "她读书过目不忘，背课文特别快。",
+        "en": "She remembers everything she reads and memorises texts very fast."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "博闻强记",
+      "过目成诵"
+    ],
+    "antonyms": [
+      "丢三落四",
+      "健忘"
+    ]
+  },
+  {
+    "id": "jiu-bing-fu-fa",
+    "text": "旧病复发",
+    "pinyin": "jiù bìng fù fā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "resistance-to-change"
+    ],
+    "literal": "old · illness · again · break out",
+    "natural": "An old illness flaring up again",
+    "meaning": {
+      "en": "An old illness or bad habit returns.",
+      "zh": "旧的疾病又复发了。也比喻老毛病、旧错误又重犯。"
+    },
+    "equivalents": [
+      "relapse",
+      "fall back into old habits",
+      "old habits die hard"
+    ],
+    "examples": [
+      {
+        "zh": "天气一冷，爷爷的关节炎就旧病复发。",
+        "en": "As soon as it turns cold, Grandpa's arthritis flares up again."
+      },
+      {
+        "zh": "他戒烟半年，最近又旧病复发了。",
+        "en": "He gave up smoking for six months but has recently relapsed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "故态复萌",
+      "重蹈覆辙",
+      "死灰复燃"
+    ],
+    "antonyms": [
+      "痛改前非",
+      "改过自新",
+      "药到病除"
+    ]
+  },
+  {
+    "id": "shen-mou-yuan-lu",
+    "text": "深谋远虑",
+    "pinyin": "shēn móu yuǎn lǜ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "military-strategy-and-victory"
+    ],
+    "literal": "deep · plan · far · consider",
+    "natural": "Deep plans and far-sighted thinking",
+    "meaning": {
+      "en": "Far-sighted and carefully planned.",
+      "zh": "周密地计划，往长远里考虑。"
+    },
+    "equivalents": [
+      "far-sighted",
+      "strategic thinking",
+      "think ahead",
+      "long-term planning"
+    ],
+    "examples": [
+      {
+        "zh": "他深谋远虑，早就为退休做好了准备。",
+        "en": "Far-sighted, he prepared for retirement long ago."
+      },
+      {
+        "zh": "这一决策体现了领导者的深谋远虑。",
+        "en": "The decision shows the leader's far-sighted thinking."
+      }
+    ],
+    "origin": {
+      "source": "汉·贾谊《过秦论》",
+      "story": {
+        "en": "Jia Yi's essay on the fall of Qin says the rebels' \"deep plans and far-sighted strategy\" (深谋远虑) were no match for earlier statesmen — yet they toppled Qin, because Qin lost the people.",
+        "zh": "贾谊《过秦论》：\"深谋远虑，行军用兵之道，非及向时之士也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "高瞻远瞩",
+      "深思熟虑",
+      "运筹帷幄"
+    ],
+    "antonyms": [
+      "鼠目寸光",
+      "目光短浅",
+      "急功近利"
+    ]
+  },
+  {
+    "id": "chu-shen-ru-hua",
+    "text": "出神入化",
+    "pinyin": "chū shén rù huà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "excellent-acting"
+    ],
+    "literal": "go beyond · divine · enter · transformation",
+    "natural": "Beyond the divine, into the miraculous",
+    "meaning": {
+      "en": "Consummate; skill of supernatural perfection.",
+      "zh": "形容技艺达到了极其高超的境界。"
+    },
+    "equivalents": [
+      "consummate",
+      "sublime",
+      "out of this world",
+      "pure magic"
+    ],
+    "examples": [
+      {
+        "zh": "他的魔术表演出神入化。",
+        "en": "His magic act is pure magic."
+      },
+      {
+        "zh": "这位演员的表演已达到出神入化的境界。",
+        "en": "The actor's performance has reached sublime perfection."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "炉火纯青",
+      "登峰造极",
+      "神乎其技"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "粗制滥造",
+      "拙劣不堪"
+    ]
+  },
+  {
+    "id": "chen-ci-lan-diao",
+    "text": "陈词滥调",
+    "pinyin": "chén cí làn diào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "artistic-mediocrity",
+      "speech"
+    ],
+    "literal": "stale · words · worn · tunes",
+    "natural": "Stale words and worn-out tunes",
+    "meaning": {
+      "en": "Clichés; hackneyed talk.",
+      "zh": "陈旧而空泛的言论。"
+    },
+    "equivalents": [
+      "clichés",
+      "platitudes",
+      "the same old story",
+      "a broken record"
+    ],
+    "examples": [
+      {
+        "zh": "他的发言全是陈词滥调。",
+        "en": "His speech was nothing but clichés."
+      },
+      {
+        "zh": "写作文要避免陈词滥调。",
+        "en": "Avoid clichés in your essays."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "老生常谈",
+      "千篇一律",
+      "空话连篇"
+    ],
+    "antonyms": [
+      "真知灼见",
+      "别出心裁",
+      "耳目一新"
+    ]
+  },
+  {
+    "id": "qiong-kun-liao-dao",
+    "text": "穷困潦倒",
+    "pinyin": "qióng kùn liáo dǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "failed-ambitions"
+    ],
+    "literal": "poor · distressed · frustrated · down",
+    "natural": "Poor, distressed and down on one's luck",
+    "meaning": {
+      "en": "Destitute and down on one's luck.",
+      "zh": "生活贫困，失意颓丧。"
+    },
+    "equivalents": [
+      "down and out",
+      "penniless",
+      "down on one's luck",
+      "on one's uppers"
+    ],
+    "examples": [
+      {
+        "zh": "这位画家生前穷困潦倒，死后作品价值连城。",
+        "en": "The painter was down and out in life, but his works became priceless after his death."
+      },
+      {
+        "zh": "他晚年穷困潦倒。",
+        "en": "In his later years he was destitute."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 潦 is liáo.",
+      "zh": "多作谓语。\"潦\"读 liáo。"
+    },
+    "synonyms": [
+      "穷愁潦倒",
+      "贫困交加",
+      "一贫如洗"
+    ],
+    "antonyms": [
+      "飞黄腾达",
+      "腰缠万贯",
+      "大富大贵"
+    ]
+  },
+  {
+    "id": "liu-shen-wu-zhu",
+    "text": "六神无主",
+    "pinyin": "liù shén wú zhǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "confusion"
+    ],
+    "literal": "six · spirits · not have · master",
+    "natural": "The six spirits have lost their master",
+    "meaning": {
+      "en": "Utterly distraught; not knowing what to do.",
+      "zh": "形容惊慌失措，拿不定主意。"
+    },
+    "equivalents": [
+      "at one's wits' end",
+      "beside oneself",
+      "all at sea",
+      "in a flap"
+    ],
+    "examples": [
+      {
+        "zh": "听说儿子出了车祸，她吓得六神无主。",
+        "en": "Hearing her son had had an accident, she was beside herself."
+      },
+      {
+        "zh": "突然停电，大家六神无主。",
+        "en": "The sudden blackout left everyone at a loss."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement. The six spirits are those said to govern the heart, lungs, liver, kidneys, spleen and gallbladder.",
+      "zh": "多作谓语、补语。\"六神\"指道教所说主宰心、肺、肝、肾、脾、胆的神。"
+    },
+    "synonyms": [
+      "惊慌失措",
+      "手足无措",
+      "魂不守舍"
+    ],
+    "antonyms": [
+      "镇定自若",
+      "从容不迫",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "xian-sheng-duo-ren",
+    "text": "先声夺人",
+    "pinyin": "xiān shēng duó rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "first · sound · seize · people",
+    "natural": "Seizing the enemy's nerve with the first shout",
+    "meaning": {
+      "en": "To gain the upper hand by striking first.",
+      "zh": "先张扬自己的声势以压倒对方。也比喻做事抢先一步。"
+    },
+    "equivalents": [
+      "get off to a flying start",
+      "seize the initiative",
+      "make a strong first impression"
+    ],
+    "examples": [
+      {
+        "zh": "主队开场三分钟就进球，先声夺人。",
+        "en": "The home team scored within three minutes — a flying start."
+      },
+      {
+        "zh": "这家公司提前发布新品，先声夺人。",
+        "en": "The company seized the initiative by releasing its new product early."
+      }
+    ],
+    "origin": {
+      "source": "《左传·昭公二十一年》",
+      "story": {
+        "en": "A Song general said: \"The army of old had a saying: striking first takes the enemy's heart\" (先人有夺人之心).",
+        "zh": "《左传》：\"军志有之：'先人有夺人之心，后人有待其衰。'\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "先发制人",
+      "先下手为强",
+      "捷足先登"
+    ],
+    "antonyms": [
+      "后发制人",
+      "以逸待劳",
+      "坐失良机"
+    ]
+  },
+  {
+    "id": "xian-zhan-hou-zou",
+    "text": "先斩后奏",
+    "pinyin": "xiān zhǎn hòu zòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "inappropriate-behavior"
+    ],
+    "literal": "first · execute · later · report",
+    "natural": "Execute first, report to the emperor later",
+    "meaning": {
+      "en": "To act first and ask permission later.",
+      "zh": "原指臣子先处决犯人，再向皇帝报告。比喻先把事情处理了再报告上级。"
+    },
+    "equivalents": [
+      "act first, ask later",
+      "ask forgiveness, not permission",
+      "a fait accompli"
+    ],
+    "examples": [
+      {
+        "zh": "他先斩后奏，辞了职才告诉家里。",
+        "en": "He quit his job first and told his family afterwards."
+      },
+      {
+        "zh": "这种先斩后奏的做法让领导很不满。",
+        "en": "The boss was unhappy with this act-first-ask-later approach."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "生米煮成熟饭",
+      "木已成舟"
+    ],
+    "antonyms": [
+      "请示汇报",
+      "三思而行"
+    ]
+  },
+  {
+    "id": "qiong-tu-mo-lu",
+    "text": "穷途末路",
+    "pinyin": "qióng tú mò lù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "exhausted · road · end · path",
+    "natural": "The road runs out at the end of the path",
+    "meaning": {
+      "en": "At the end of the road; in a hopeless position.",
+      "zh": "形容处境十分困窘，已经无路可走。"
+    },
+    "equivalents": [
+      "at the end of the road",
+      "at the end of one's rope",
+      "a dead end",
+      "the game is up"
+    ],
+    "examples": [
+      {
+        "zh": "敌人已经穷途末路了。",
+        "en": "The enemy is at the end of the road."
+      },
+      {
+        "zh": "这家公司走到了穷途末路。",
+        "en": "The company has reached a dead end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "走投无路",
+      "山穷水尽",
+      "日暮途穷"
+    ],
+    "antonyms": [
+      "柳暗花明",
+      "绝处逢生",
+      "前程似锦"
+    ]
+  },
+  {
+    "id": "ji-bu-ke-shi",
+    "text": "机不可失",
+    "pinyin": "jī bù kě shī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time-management",
+      "poor-timing"
+    ],
+    "literal": "opportunity · not · can · lose",
+    "natural": "An opportunity not to be lost",
+    "meaning": {
+      "en": "An opportunity not to be missed.",
+      "zh": "好的时机不可错过。"
+    },
+    "equivalents": [
+      "now or never",
+      "don't miss the boat",
+      "strike while the iron is hot",
+      "seize the day"
+    ],
+    "examples": [
+      {
+        "zh": "机不可失，失不再来。",
+        "en": "It's now or never — the chance won't come again."
+      },
+      {
+        "zh": "这么好的价格，机不可失。",
+        "en": "A price this good — don't miss out."
+      }
+    ],
+    "origin": {
+      "source": "《旧唐书·李靖传》",
+      "story": {
+        "en": "General Li Jing urged a swift attack: \"In war, speed is prized; the opportunity must not be lost\" (兵贵神速，机不可失).",
+        "zh": "李靖说：\"兵贵神速，机不可失。\""
+      }
+    },
+    "usage": {
+      "en": "Usually 机不可失，失不再来.",
+      "zh": "常说\"机不可失，失不再来\"。"
+    },
+    "synonyms": [
+      "千载难逢",
+      "稍纵即逝",
+      "趁热打铁"
+    ],
+    "antonyms": [
+      "坐失良机"
+    ]
+  },
+  {
+    "id": "de-cun-jin-chi",
+    "text": "得寸进尺",
+    "pinyin": "dé cùn jìn chǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "measure"
+    ],
+    "literal": "get · inch · advance · foot",
+    "natural": "Given an inch, take a foot",
+    "meaning": {
+      "en": "Give them an inch and they'll take a mile.",
+      "zh": "得了一寸，还想再进一尺。比喻贪心不足。"
+    },
+    "equivalents": [
+      "give them an inch and they'll take a mile",
+      "push one's luck",
+      "never satisfied"
+    ],
+    "examples": [
+      {
+        "zh": "你让了他一次，他就得寸进尺。",
+        "en": "You gave in once and now he's taking a mile."
+      },
+      {
+        "zh": "对方得寸进尺，提出了更多要求。",
+        "en": "The other side pushed their luck with even more demands."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·秦策三》",
+      "story": {
+        "en": "Fan Ju advised the King of Qin to befriend distant states and attack near ones, so that \"every inch gained is Your Majesty's inch, every foot gained Your Majesty's foot\".",
+        "zh": "范雎说：\"得寸则王之寸，得尺亦王之尺也。\"原指稳步扩张，后指贪得无厌。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "贪得无厌",
+      "得陇望蜀",
+      "欲壑难填"
+    ],
+    "antonyms": [
+      "适可而止",
+      "知足常乐",
+      "见好就收"
+    ]
+  },
+  {
+    "id": "cao-mu-jie-bing",
+    "text": "草木皆兵",
+    "pinyin": "cǎo mù jiē bīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "defeat-and-military-failure"
+    ],
+    "literal": "grass · trees · all · soldiers",
+    "natural": "Every blade of grass and tree a soldier",
+    "meaning": {
+      "en": "So frightened that one sees enemies everywhere.",
+      "zh": "把山上的草木都当作敌兵。形容人在惊慌时疑神疑鬼。"
+    },
+    "equivalents": [
+      "jump at shadows",
+      "paranoid",
+      "see enemies everywhere",
+      "jittery"
+    ],
+    "examples": [
+      {
+        "zh": "被骗过几次后，他变得草木皆兵。",
+        "en": "After being scammed several times, he's become paranoid."
+      },
+      {
+        "zh": "谣言四起，市场上草木皆兵。",
+        "en": "With rumours flying, the market is jumping at shadows."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·苻坚载记》",
+      "story": {
+        "en": "Before the Battle of Fei River, the Former Qin ruler Fu Jian looked out at Mount Bagong and mistook the grass and trees for Jin soldiers. He was then routed.",
+        "zh": "淝水之战前，苻坚登城望见晋军严整，又望八公山上草木，以为都是晋兵，心生恐惧。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 风声鹤唳.",
+      "zh": "多作谓语，常与\"风声鹤唳\"连用。"
+    },
+    "synonyms": [
+      "风声鹤唳",
+      "惊弓之鸟",
+      "疑神疑鬼"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "若无其事",
+      "临危不惧"
+    ]
+  },
+  {
+    "id": "xu-wu-piao-miao",
+    "text": "虚无缥缈",
+    "pinyin": "xū wú piāo miǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "confusion"
+    ],
+    "literal": "empty · nothing · faint · distant",
+    "natural": "Empty, faint and far away",
+    "meaning": {
+      "en": "Illusory; vague and unreal.",
+      "zh": "形容空虚渺茫，不可捉摸。"
+    },
+    "equivalents": [
+      "illusory",
+      "pie in the sky",
+      "castles in the air",
+      "ethereal"
+    ],
+    "examples": [
+      {
+        "zh": "这种虚无缥缈的承诺不可信。",
+        "en": "Such vague promises can't be trusted."
+      },
+      {
+        "zh": "山顶云雾缭绕，宛如虚无缥缈的仙境。",
+        "en": "Wrapped in mist, the summit looks like an ethereal fairyland."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 缥缈 is piāomiǎo.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "空中楼阁",
+      "镜花水月",
+      "海市蜃楼"
+    ],
+    "antonyms": [
+      "真真切切",
+      "实实在在"
+    ]
+  },
+  {
+    "id": "guan-guan-xiang-hu",
+    "text": "官官相护",
+    "pinyin": "guān guān xiāng hù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "official · official · mutually · protect",
+    "natural": "Officials protecting one another",
+    "meaning": {
+      "en": "Officials shielding one another.",
+      "zh": "做官的人互相包庇。"
+    },
+    "equivalents": [
+      "closing ranks",
+      "the old boys' network",
+      "covering for each other"
+    ],
+    "examples": [
+      {
+        "zh": "官官相护，老百姓有冤无处申。",
+        "en": "With officials covering for each other, ordinary people have nowhere to seek justice."
+      },
+      {
+        "zh": "要打破官官相护的潜规则。",
+        "en": "The unwritten rule of officials shielding each other must be broken."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "狼狈为奸",
+      "沆瀣一气",
+      "任人唯亲"
+    ],
+    "antonyms": [
+      "秉公执法",
+      "铁面无私",
+      "大义灭亲"
+    ]
+  },
+  {
+    "id": "shan-qiong-shui-jin",
+    "text": "山穷水尽",
+    "pinyin": "shān qióng shuǐ jìn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "difficult-terrain"
+    ],
+    "literal": "mountain · end · water · exhausted",
+    "natural": "The mountains end and the waters run out",
+    "meaning": {
+      "en": "At the end of one's resources; nowhere left to turn.",
+      "zh": "山和水都到了尽头。比喻无路可走，陷入绝境。"
+    },
+    "equivalents": [
+      "at the end of one's tether",
+      "at rock bottom",
+      "run out of options"
+    ],
+    "examples": [
+      {
+        "zh": "到了山穷水尽的地步，他才向家人求助。",
+        "en": "Only when he'd hit rock bottom did he ask his family for help."
+      },
+      {
+        "zh": "公司资金山穷水尽，只能宣布破产。",
+        "en": "With its funds completely exhausted, the company had to declare bankruptcy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Opposite of 柳暗花明.",
+      "zh": "多作谓语、定语。与\"柳暗花明\"相对。"
+    },
+    "synonyms": [
+      "穷途末路",
+      "走投无路",
+      "日暮途穷"
+    ],
+    "antonyms": [
+      "柳暗花明",
+      "绝处逢生",
+      "峰回路转"
+    ]
+  },
+  {
+    "id": "feng-yi-zu-shi",
+    "text": "丰衣足食",
+    "pinyin": "fēng yī zú shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "poverty-and-hardship"
+    ],
+    "literal": "plentiful · clothes · sufficient · food",
+    "natural": "Plenty of clothes and enough food",
+    "meaning": {
+      "en": "Well-fed and well-clothed; comfortably off.",
+      "zh": "穿的吃的都很丰富充足。形容生活富裕。"
+    },
+    "equivalents": [
+      "well fed and clothed",
+      "comfortably off",
+      "living well",
+      "want for nothing"
+    ],
+    "examples": [
+      {
+        "zh": "村民们过上了丰衣足食的生活。",
+        "en": "The villagers now live comfortably, well fed and clothed."
+      },
+      {
+        "zh": "自己动手，丰衣足食。",
+        "en": "Do it yourself and you'll want for nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "安居乐业",
+      "衣食无忧",
+      "五谷丰登"
+    ],
+    "antonyms": [
+      "饥寒交迫",
+      "缺衣少食",
+      "民不聊生"
+    ]
+  },
+  {
+    "id": "zhang-ya-wu-zhao",
+    "text": "张牙舞爪",
+    "pinyin": "zhāng yá wǔ zhǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "bare · teeth · brandish · claws",
+    "natural": "Baring fangs and brandishing claws",
+    "meaning": {
+      "en": "Menacing and ferocious; making threatening gestures.",
+      "zh": "形容猛兽凶恶可怕，也比喻猖狂凶恶的样子。"
+    },
+    "equivalents": [
+      "bare one's teeth",
+      "menacing",
+      "throw one's weight around",
+      "snarling"
+    ],
+    "examples": [
+      {
+        "zh": "那只狗张牙舞爪地向我扑来。",
+        "en": "The dog lunged at me, teeth bared."
+      },
+      {
+        "zh": "别看他张牙舞爪的，其实很胆小。",
+        "en": "He may look menacing, but he's actually a coward."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. 爪 is zhǎo here.",
+      "zh": "多作状语、谓语。\"爪\"读 zhǎo。"
+    },
+    "synonyms": [
+      "耀武扬威",
+      "凶神恶煞",
+      "气势汹汹"
+    ],
+    "antonyms": [
+      "和颜悦色",
+      "温文尔雅",
+      "温顺"
+    ]
+  },
+  {
+    "id": "xia-ri-yan-yan",
+    "text": "夏日炎炎",
+    "pinyin": "xià rì yán yán",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions"
+    ],
+    "literal": "summer · sun · blazing · blazing",
+    "natural": "The blazing summer sun",
+    "meaning": {
+      "en": "The scorching heat of summer.",
+      "zh": "夏天阳光灼热，天气炎热。"
+    },
+    "equivalents": [
+      "the height of summer",
+      "scorching heat",
+      "a heatwave",
+      "dog days"
+    ],
+    "examples": [
+      {
+        "zh": "夏日炎炎，来一碗冰镇绿豆汤最舒服。",
+        "en": "In the scorching summer heat, a bowl of iced mung-bean soup is perfect."
+      },
+      {
+        "zh": "夏日炎炎，工人们仍坚持在工地上工作。",
+        "en": "Despite the blazing summer heat, the workers kept at it on site."
+      }
+    ],
+    "usage": {
+      "en": "Usually an opening phrase setting the scene. A descriptive 四字词语 rather than a classical idiom.",
+      "zh": "常用于句首描写环境。"
+    },
+    "synonyms": [
+      "烈日炎炎",
+      "骄阳似火",
+      "酷暑难耐"
+    ],
+    "antonyms": [
+      "天寒地冻",
+      "冰天雪地",
+      "秋高气爽"
+    ]
+  },
+  {
+    "id": "lian-pian-lei-du",
+    "text": "连篇累牍",
+    "pinyin": "lián piān lěi dú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "measure"
+    ],
+    "literal": "connected · pages · piled · tablets",
+    "natural": "Page after page and tablet upon tablet",
+    "meaning": {
+      "en": "Long-winded; page after page of writing.",
+      "zh": "形容篇幅过多，文辞冗长。"
+    },
+    "equivalents": [
+      "long-winded",
+      "page after page",
+      "wordy",
+      "screeds"
+    ],
+    "examples": [
+      {
+        "zh": "媒体连篇累牍地报道这起事件。",
+        "en": "The media reported the incident at enormous length."
+      },
+      {
+        "zh": "报告连篇累牍，却没说清问题。",
+        "en": "The report goes on for pages but never makes the problem clear."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. 累 is lěi; 牍 = writing tablet.",
+      "zh": "多作状语、谓语。\"累\"读 lěi。"
+    },
+    "synonyms": [
+      "长篇大论",
+      "洋洋洒洒",
+      "拖泥带水"
+    ],
+    "antonyms": [
+      "言简意赅",
+      "要言不烦",
+      "短小精悍"
+    ]
+  },
+  {
+    "id": "she-ben-zhu-mo",
+    "text": "舍本逐末",
+    "pinyin": "shě běn zhú mò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "farming-and-harvest"
+    ],
+    "literal": "abandon · root · chase · tip",
+    "natural": "Abandoning the root to chase the branches",
+    "meaning": {
+      "en": "To neglect the essentials and pursue trivia.",
+      "zh": "抛弃根本的、主要的，而去追求细枝末节。"
+    },
+    "equivalents": [
+      "put the cart before the horse",
+      "miss the wood for the trees",
+      "major on the minors"
+    ],
+    "examples": [
+      {
+        "zh": "只重包装不重质量，是舍本逐末。",
+        "en": "Caring about packaging rather than quality is putting the cart before the horse."
+      },
+      {
+        "zh": "学习不能舍本逐末，基础最重要。",
+        "en": "Don't neglect the essentials — the basics matter most."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·上农》",
+      "story": {
+        "en": "The text warns that when \"the people abandon the root (farming) and pursue the branches (trade)\" (民舍本而事末), they become disobedient — an early statement of agrarian priorities.",
+        "zh": "《吕氏春秋·上农》：\"民舍本而事末则不令。\"原指弃农经商。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "本末倒置",
+      "买椟还珠",
+      "轻重倒置"
+    ],
+    "antonyms": [
+      "正本清源",
+      "抓住根本"
+    ]
+  }
+]
