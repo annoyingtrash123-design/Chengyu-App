@@ -424,7 +424,7 @@ mod tests {
         let hits = d.search("man", &Filters::default(), &UserData::default());
         for h in hits {
             let e = &d.entries()[h.index];
-            let words = english_words(&format!("{} {} {}", e.literal, e.natural, e.meaning.en));
+            let words = english_words(&format!("{} {} {} {}", e.literal, e.natural, e.meaning.en, e.equivalents.join(" ")));
             assert!(words.iter().any(|w| w == "man" || edit_distance("man", w, 0) == 0) || h.matched != MatchKind::English, "{}", e.text);
         }
     }
