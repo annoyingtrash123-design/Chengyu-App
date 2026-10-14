@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "zhen-fen-ren-xin",
+    "text": "振奋人心",
+    "pinyin": "zhèn fèn rén xīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "emotions",
+      "news-and-officialese"
+    ],
+    "literal": "rouse · invigorate · people's · hearts",
+    "natural": "inspiring",
+    "meaning": {
+      "en": "Inspiring and uplifting.",
+      "zh": "使人精神振作，情绪高涨。"
+    },
+    "equivalents": [
+      "inspiring",
+      "uplifting",
+      "stirring"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个振奋人心的好消息。",
+        "en": "This is inspiring news."
+      },
+      {
+        "zh": "比赛的胜利振奋人心。",
+        "en": "The victory lifted everyone's spirits."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "鼓舞人心",
+      "激动人心"
+    ],
+    "antonyms": [
+      "令人沮丧",
+      "大失所望"
+    ]
+  },
+  {
+    "id": "feng-qi-yun-yong",
+    "text": "风起云涌",
+    "pinyin": "fēng qǐ yún yǒng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "change",
+      "historical-periods"
+    ],
+    "literal": "wind · rise · clouds · surge",
+    "natural": "surging forward",
+    "meaning": {
+      "en": "Rising up rapidly and powerfully (of movements).",
+      "zh": "大风刮起，乌云涌现，比喻事物迅速发展，声势浩大。"
+    },
+    "equivalents": [
+      "surging",
+      "sweeping",
+      "gathering momentum"
+    ],
+    "examples": [
+      {
+        "zh": "那个年代，革命运动风起云涌。",
+        "en": "In that era, revolutionary movements surged across the land."
+      },
+      {
+        "zh": "互联网创业风起云涌。",
+        "en": "Internet start-ups are springing up in waves."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for movements and trends.",
+      "zh": "多作谓语，指运动、潮流。"
+    },
+    "synonyms": [
+      "方兴未艾",
+      "此起彼伏"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "hun-shen-xie-shu",
+    "text": "浑身解数",
+    "pinyin": "hún shēn xiè shù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "useful-tools-and-skill"
+    ],
+    "literal": "whole · body · skills",
+    "natural": "every trick in the book",
+    "meaning": {
+      "en": "All of one's skills and tricks.",
+      "zh": "全身的本领，所有的手段。"
+    },
+    "equivalents": [
+      "every trick in the book",
+      "all one's skill"
+    ],
+    "examples": [
+      {
+        "zh": "为了拿下订单，他使出了浑身解数。",
+        "en": "He used every trick in the book to win the order."
+      },
+      {
+        "zh": "厨师使出浑身解数，做了一桌好菜。",
+        "en": "The chef put all his skill into a superb meal."
+      }
+    ],
+    "usage": {
+      "en": "Usually 使出浑身解数. 解 is xiè.",
+      "zh": "常说“使出浑身解数”，“解”读xiè。"
+    },
+    "synonyms": [
+      "全力以赴",
+      "竭尽全力"
+    ],
+    "antonyms": [
+      "无计可施",
+      "黔驴技穷"
+    ]
+  },
+  {
+    "id": "da-you-ren-zai",
+    "text": "大有人在",
+    "pinyin": "dà yǒu rén zài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers"
+    ],
+    "literal": "greatly · have · people · exist",
+    "natural": "there are plenty of them",
+    "meaning": {
+      "en": "There are many such people.",
+      "zh": "形容某种人为数不少。"
+    },
+    "equivalents": [
+      "plenty of people",
+      "no shortage of people"
+    ],
+    "examples": [
+      {
+        "zh": "想买这套房子的人大有人在。",
+        "en": "There's no shortage of people wanting to buy this house."
+      },
+      {
+        "zh": "持相同看法的人大有人在。",
+        "en": "Plenty of people share this view."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "比比皆是"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "屈指可数"
+    ]
+  },
+  {
+    "id": "nian-fu-yi-nian",
+    "text": "年复一年",
+    "pinyin": "nián fù yī nián",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time"
+    ],
+    "literal": "year · again · one · year",
+    "natural": "year after year",
+    "meaning": {
+      "en": "Year after year.",
+      "zh": "一年又一年。"
+    },
+    "equivalents": [
+      "year after year",
+      "year in, year out"
+    ],
+    "examples": [
+      {
+        "zh": "他年复一年地守护着这片森林。",
+        "en": "Year after year he has guarded this forest."
+      },
+      {
+        "zh": "年复一年，村子没什么变化。",
+        "en": "Year in, year out, the village hardly changes."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "日复一日",
+      "周而复始"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shui-tu-bu-fu",
+    "text": "水土不服",
+    "pinyin": "shuǐ tǔ bù fú",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "journeys-and-exploration"
+    ],
+    "literal": "water · soil · not · agree",
+    "natural": "not acclimatised",
+    "meaning": {
+      "en": "Unable to adapt to a new place's climate or food; figuratively, not fitting a new environment.",
+      "zh": "不适应某地的气候、饮食，引起身体不适；也比喻不适应新环境。"
+    },
+    "equivalents": [
+      "unacclimatised",
+      "not adjusting"
+    ],
+    "examples": [
+      {
+        "zh": "他刚到南方，有点水土不服。",
+        "en": "He's just arrived in the south and isn't adjusting well."
+      },
+      {
+        "zh": "外国品牌在本地市场水土不服。",
+        "en": "The foreign brand struggled to adapt to the local market."
+      }
+    ],
+    "usage": {
+      "en": "Literal and figurative.",
+      "zh": "可用本义，也可比喻。"
+    },
+    "synonyms": [
+      "格格不入"
+    ],
+    "antonyms": [
+      "入乡随俗",
+      "如鱼得水"
+    ]
+  },
+  {
+    "id": "sheng-sheng-bu-xi",
+    "text": "生生不息",
+    "pinyin": "shēng shēng bù xī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "nature",
+      "culture"
+    ],
+    "literal": "life · life · not · cease",
+    "natural": "ever-renewing life",
+    "meaning": {
+      "en": "Life continuing endlessly, generation after generation.",
+      "zh": "不断地生长、繁殖，永不停息。"
+    },
+    "equivalents": [
+      "ever-renewing",
+      "perpetual",
+      "enduring"
+    ],
+    "examples": [
+      {
+        "zh": "中华文明生生不息。",
+        "en": "Chinese civilisation endures, renewing itself through the ages."
+      },
+      {
+        "zh": "大自然生生不息。",
+        "en": "Nature renews itself endlessly."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "源远流长",
+      "绵延不绝"
+    ],
+    "antonyms": [
+      "断子绝孙"
+    ]
+  },
+  {
+    "id": "cong-tou-dao-wei",
+    "text": "从头到尾",
+    "pinyin": "cóng tóu dào wěi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time"
+    ],
+    "literal": "from · head · to · tail",
+    "natural": "from beginning to end",
+    "meaning": {
+      "en": "From start to finish.",
+      "zh": "从开头到结尾。"
+    },
+    "equivalents": [
+      "from start to finish",
+      "from beginning to end",
+      "all the way through"
+    ],
+    "examples": [
+      {
+        "zh": "他从头到尾都没说话。",
+        "en": "He didn't speak from beginning to end."
+      },
+      {
+        "zh": "请把事情从头到尾讲一遍。",
+        "en": "Please tell the story from start to finish."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "自始至终"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gong-ping-he-li",
+    "text": "公平合理",
+    "pinyin": "gōng píng hé lǐ",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality"
+    ],
+    "literal": "fair · reasonable",
+    "natural": "fair and reasonable",
+    "meaning": {
+      "en": "Fair and reasonable.",
+      "zh": "公正而合乎道理。"
+    },
+    "equivalents": [
+      "fair and reasonable",
+      "just"
+    ],
+    "examples": [
+      {
+        "zh": "分配方案公平合理。",
+        "en": "The distribution plan is fair and reasonable."
+      },
+      {
+        "zh": "我们要求公平合理的待遇。",
+        "en": "We demand fair treatment."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "公平公正",
+      "合情合理"
+    ],
+    "antonyms": [
+      "厚此薄彼",
+      "不合情理"
+    ]
+  },
+  {
+    "id": "du-shan-qi-shen",
+    "text": "独善其身",
+    "pinyin": "dú shàn qí shēn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "confucian-classics"
+    ],
+    "literal": "alone · perfect · one's · self",
+    "natural": "look after one's own integrity",
+    "meaning": {
+      "en": "To keep oneself virtuous; now often 'stay unaffected / look after oneself only'.",
+      "zh": "原指修养自身品德，现也指只顾自己，或在大环境中保持不受影响。"
+    },
+    "equivalents": [
+      "keep one's own hands clean",
+      "stay unaffected"
+    ],
+    "examples": [
+      {
+        "zh": "在全球危机中，没有哪个国家能独善其身。",
+        "en": "In a global crisis, no country can remain unaffected."
+      },
+      {
+        "zh": "他只求独善其身，不管别人。",
+        "en": "He only cares about keeping himself out of trouble."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心上》",
+      "story": {
+        "en": "Mencius: 'In poverty, perfect yourself alone; in success, make the whole world good as well' (穷则独善其身，达则兼善天下).",
+        "zh": "《孟子》：“穷则独善其身，达则兼善天下。”"
+      }
+    },
+    "usage": {
+      "en": "Common in 无法独善其身 'no one is immune'.",
+      "zh": "常说“无法独善其身”。"
+    },
+    "synonyms": [
+      "明哲保身",
+      "洁身自好"
+    ],
+    "antonyms": [
+      "兼善天下",
+      "同流合污"
+    ]
+  },
+  {
+    "id": "qia-dao-hao-chu",
+    "text": "恰到好处",
+    "pinyin": "qià dào hǎo chù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "exact-vs-approximate",
+      "measure"
+    ],
+    "literal": "exactly · reach · good · point",
+    "natural": "just right",
+    "meaning": {
+      "en": "Exactly right; perfectly judged.",
+      "zh": "说话、做事正好达到最合适的程度。"
+    },
+    "equivalents": [
+      "just right",
+      "spot on",
+      "perfectly judged"
+    ],
+    "examples": [
+      {
+        "zh": "这道菜的咸淡恰到好处。",
+        "en": "The seasoning in this dish is just right."
+      },
+      {
+        "zh": "他的发言恰到好处，不多也不少。",
+        "en": "His speech was perfectly judged — not too much, not too little."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or after 得.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "恰如其分",
+      "适可而止"
+    ],
+    "antonyms": [
+      "过犹不及",
+      "画蛇添足",
+      "不合时宜"
+    ]
+  },
+  {
+    "id": "yi-chu-ji-fa",
+    "text": "一触即发",
+    "pinyin": "yī chù jí fā",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "conflict-and-strife"
+    ],
+    "literal": "one · touch · then · fire",
+    "natural": "on a knife edge",
+    "meaning": {
+      "en": "On the verge of breaking out.",
+      "zh": "箭在弦上，一碰就会射出去，比喻事态发展到非常紧张的阶段。"
+    },
+    "equivalents": [
+      "on a knife edge",
+      "a powder keg",
+      "about to explode"
+    ],
+    "examples": [
+      {
+        "zh": "两国关系紧张，战争一触即发。",
+        "en": "Relations are so tense that war could break out at any moment."
+      },
+      {
+        "zh": "会场气氛一触即发。",
+        "en": "The atmosphere in the hall was explosive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "剑拔弩张",
+      "箭在弦上"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "相安无事"
+    ]
+  },
+  {
+    "id": "shuo-san-dao-si",
+    "text": "说三道四",
+    "pinyin": "shuō sān dào sì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "inappropriate-behavior"
+    ],
+    "literal": "say · three · speak · four",
+    "natural": "make irresponsible remarks",
+    "meaning": {
+      "en": "To gossip and make carping comments.",
+      "zh": "随意评论，乱加议论。"
+    },
+    "equivalents": [
+      "gossip",
+      "pass judgement",
+      "criticise from the sidelines"
+    ],
+    "examples": [
+      {
+        "zh": "别人的事，你别说三道四。",
+        "en": "Don't go passing judgement on other people's business."
+      },
+      {
+        "zh": "她最讨厌别人对她的穿着说三道四。",
+        "en": "She hates people commenting on what she wears."
+      }
+    ],
+    "usage": {
+      "en": "Casual, disapproving.",
+      "zh": "口语，贬义。"
+    },
+    "synonyms": [
+      "评头论足",
+      "指手画脚",
+      "飞短流长"
+    ],
+    "antonyms": [
+      "守口如瓶"
+    ]
+  },
+  {
+    "id": "bu-sheng-mei-ju",
+    "text": "不胜枚举",
+    "pinyin": "bù shèng méi jǔ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "numbers"
+    ],
+    "literal": "not · able · one by one · list",
+    "natural": "too many to list",
+    "meaning": {
+      "en": "Too numerous to mention one by one.",
+      "zh": "无法一个一个地举出来，形容数量多。"
+    },
+    "equivalents": [
+      "too many to mention",
+      "countless"
+    ],
+    "examples": [
+      {
+        "zh": "这样的例子不胜枚举。",
+        "en": "There are too many such examples to list."
+      },
+      {
+        "zh": "他获得的奖项不胜枚举。",
+        "en": "His awards are too numerous to mention."
+      }
+    ],
+    "usage": {
+      "en": "胜 is shèng (able to bear).",
+      "zh": "“胜”读shèng。"
+    },
+    "synonyms": [
+      "不计其数",
+      "数不胜数",
+      "举不胜举"
+    ],
+    "antonyms": [
+      "屈指可数",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "ge-shu-ji-jian",
+    "text": "各抒己见",
+    "pinyin": "gè shū jǐ jiàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "freedom"
+    ],
+    "literal": "each · express · own · views",
+    "natural": "everyone has their say",
+    "meaning": {
+      "en": "Each person freely expressing their own opinion.",
+      "zh": "各人充分发表自己的意见。"
+    },
+    "equivalents": [
+      "everyone airs their views",
+      "an open discussion"
+    ],
+    "examples": [
+      {
+        "zh": "会上大家各抒己见。",
+        "en": "At the meeting everyone aired their views."
+      },
+      {
+        "zh": "请同学们各抒己见。",
+        "en": "Students, please share your own opinions."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "畅所欲言",
+      "百家争鸣"
+    ],
+    "antonyms": [
+      "一言堂",
+      "众口一词"
+    ]
+  },
+  {
+    "id": "yi-wei-shen-chang",
+    "text": "意味深长",
+    "pinyin": "yì wèi shēn cháng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "wisdom"
+    ],
+    "literal": "meaning · flavour · deep · long",
+    "natural": "meaningful",
+    "meaning": {
+      "en": "Full of deep meaning.",
+      "zh": "含义深刻，耐人寻味。"
+    },
+    "equivalents": [
+      "meaningful",
+      "significant",
+      "pregnant with meaning"
+    ],
+    "examples": [
+      {
+        "zh": "他意味深长地看了我一眼。",
+        "en": "He gave me a meaningful look."
+      },
+      {
+        "zh": "这句话意味深长。",
+        "en": "That remark is full of meaning."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "耐人寻味",
+      "语重心长"
+    ],
+    "antonyms": [
+      "索然无味",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "cong-ming-cai-zhi",
+    "text": "聪明才智",
+    "pinyin": "cōng míng cái zhì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "outstanding-character"
+    ],
+    "literal": "clever · talent · wisdom",
+    "natural": "intelligence and ability",
+    "meaning": {
+      "en": "Intelligence and talent.",
+      "zh": "聪明的头脑和才能智慧。"
+    },
+    "equivalents": [
+      "intelligence and talent",
+      "ingenuity"
+    ],
+    "examples": [
+      {
+        "zh": "他把聪明才智都用在了科研上。",
+        "en": "He put all his intelligence and talent into research."
+      },
+      {
+        "zh": "要充分发挥每个人的聪明才智。",
+        "en": "Everyone's ingenuity should be given full play."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "足智多谋",
+      "才华横溢"
+    ],
+    "antonyms": [
+      "愚昧无知",
+      "笨头笨脑"
+    ]
+  },
+  {
+    "id": "sheng-si-cun-wang",
+    "text": "生死存亡",
+    "pinyin": "shēng sǐ cún wáng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "danger"
+    ],
+    "literal": "life · death · survive · perish",
+    "natural": "life or death",
+    "meaning": {
+      "en": "A matter of survival or destruction.",
+      "zh": "生存或者死亡，形容局势危急。"
+    },
+    "equivalents": [
+      "life and death",
+      "survival"
+    ],
+    "examples": [
+      {
+        "zh": "这是关系企业生死存亡的大事。",
+        "en": "This is a life-or-death matter for the company."
+      },
+      {
+        "zh": "民族到了生死存亡的关头。",
+        "en": "The nation has reached a moment of life or death."
+      }
+    ],
+    "usage": {
+      "en": "Often 生死存亡的关头.",
+      "zh": "常说“生死存亡的关头”。"
+    },
+    "synonyms": [
+      "生死攸关",
+      "危在旦夕"
+    ],
+    "antonyms": [
+      "无关紧要"
+    ]
+  },
+  {
+    "id": "chun-chun-yu-dong",
+    "text": "蠢蠢欲动",
+    "pinyin": "chǔn chǔn yù dòng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "emotions"
+    ],
+    "literal": "wriggling · about to · move",
+    "natural": "itching to act",
+    "meaning": {
+      "en": "Restless and about to make a move (often of enemies or bad people).",
+      "zh": "比喻敌人准备进攻或坏人策划捣乱；也指跃跃欲试。"
+    },
+    "equivalents": [
+      "itching to make a move",
+      "stirring"
+    ],
+    "examples": [
+      {
+        "zh": "敌人蠢蠢欲动，我们要提高警惕。",
+        "en": "The enemy is stirring; we must stay alert."
+      },
+      {
+        "zh": "看到别人赚钱，他也蠢蠢欲动。",
+        "en": "Seeing others make money, he's itching to have a go too."
+      }
+    ],
+    "usage": {
+      "en": "Usually disapproving.",
+      "zh": "多含贬义。"
+    },
+    "synonyms": [
+      "跃跃欲试",
+      "伺机而动"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "shi-wai-tao-yuan",
+    "text": "世外桃源",
+    "pinyin": "shì wài táo yuán",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "freedom",
+      "poems-prose"
+    ],
+    "literal": "world · outside · peach · source",
+    "natural": "an earthly paradise",
+    "meaning": {
+      "en": "An idyllic retreat far from the world.",
+      "zh": "指不受外界影响的美好地方。"
+    },
+    "equivalents": [
+      "paradise",
+      "a Shangri-La",
+      "an idyllic haven"
+    ],
+    "examples": [
+      {
+        "zh": "这个小山村宛如世外桃源。",
+        "en": "This little mountain village is like paradise."
+      },
+      {
+        "zh": "他想找一个世外桃源过安静的生活。",
+        "en": "He wants to find an idyllic haven to live quietly."
+      }
+    ],
+    "origin": {
+      "source": "晋·陶渊明《桃花源记》",
+      "story": {
+        "en": "A fisherman follows a stream of peach blossoms to a hidden valley whose people fled the Qin wars and have lived in peace ever since, unaware of the outside world.",
+        "zh": "渔人沿溪行，忽逢桃花林，进入一处与世隔绝的村落，村民为避秦乱而来，“不知有汉，无论魏晋”。"
+      }
+    },
+    "usage": {
+      "en": "From Tao Yuanming's 'Peach Blossom Spring'.",
+      "zh": "出自陶渊明《桃花源记》。"
+    },
+    "synonyms": [
+      "人间仙境",
+      "人间天堂"
+    ],
+    "antonyms": [
+      "人间地狱"
+    ]
+  },
+  {
+    "id": "xin-xin-xiang-rong",
+    "text": "欣欣向荣",
+    "pinyin": "xīn xīn xiàng róng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "plant-and-natural-world",
+      "essay-favourites"
+    ],
+    "literal": "joyful · towards · flourishing",
+    "natural": "flourishing",
+    "meaning": {
+      "en": "Thriving and prosperous.",
+      "zh": "形容草木茂盛，比喻事业蓬勃发展。"
+    },
+    "equivalents": [
+      "thriving",
+      "flourishing",
+      "booming"
+    ],
+    "examples": [
+      {
+        "zh": "春天来了，草木欣欣向荣。",
+        "en": "Spring has come and everything is flourishing."
+      },
+      {
+        "zh": "家乡呈现出一派欣欣向荣的景象。",
+        "en": "My hometown presents a thriving scene."
+      }
+    ],
+    "usage": {
+      "en": "Common in essays and reports.",
+      "zh": "多见于作文、报道。"
+    },
+    "synonyms": [
+      "蒸蒸日上",
+      "生机勃勃",
+      "方兴未艾"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "江河日下",
+      "日薄西山"
+    ]
+  },
+  {
+    "id": "tian-zhuan-jia-wa",
+    "text": "添砖加瓦",
+    "pinyin": "tiān zhuān jiā wǎ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "successful-construction"
+    ],
+    "literal": "add · bricks · add · tiles",
+    "natural": "do one's bit",
+    "meaning": {
+      "en": "To contribute one's bit to a larger cause.",
+      "zh": "比喻为建设事业做一点贡献。"
+    },
+    "equivalents": [
+      "do one's bit",
+      "contribute"
+    ],
+    "examples": [
+      {
+        "zh": "我们每个人都要为家乡建设添砖加瓦。",
+        "en": "We should all do our bit for our hometown."
+      },
+      {
+        "zh": "能为这个项目添砖加瓦，我很荣幸。",
+        "en": "I'm honoured to contribute to this project."
+      }
+    ],
+    "usage": {
+      "en": "Modest; official speeches.",
+      "zh": "谦虚用语，多见于讲话。"
+    },
+    "synonyms": [
+      "尽心尽力"
+    ],
+    "antonyms": [
+      "拆台",
+      "釜底抽薪"
+    ]
+  },
+  {
+    "id": "lai-shi-xiong-xiong",
+    "text": "来势汹汹",
+    "pinyin": "lái shì xiōng xiōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger"
+    ],
+    "literal": "coming · force · fierce",
+    "natural": "coming on strong",
+    "meaning": {
+      "en": "Arriving with menacing force.",
+      "zh": "来的气势很凶猛。"
+    },
+    "equivalents": [
+      "menacing",
+      "on the attack",
+      "in full force"
+    ],
+    "examples": [
+      {
+        "zh": "这次台风来势汹汹。",
+        "en": "This typhoon is coming in with great force."
+      },
+      {
+        "zh": "流感来势汹汹，要注意预防。",
+        "en": "The flu is spreading fast; take precautions."
+      }
+    ],
+    "usage": {
+      "en": "For storms, diseases, opponents.",
+      "zh": "多指风暴、疾病、对手。"
+    },
+    "synonyms": [
+      "气势汹汹",
+      "铺天盖地"
+    ],
+    "antonyms": [
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "you-zhao-yi-ri",
+    "text": "有朝一日",
+    "pinyin": "yǒu zhāo yī rì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "high-aspirations"
+    ],
+    "literal": "have · morning · one · day",
+    "natural": "one day",
+    "meaning": {
+      "en": "Some day in the future.",
+      "zh": "将来有一天。"
+    },
+    "equivalents": [
+      "one day",
+      "some day"
+    ],
+    "examples": [
+      {
+        "zh": "有朝一日，我一定要去看看大海。",
+        "en": "One day I'll definitely go and see the sea."
+      },
+      {
+        "zh": "他相信有朝一日会成功。",
+        "en": "He believes he'll succeed some day."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial.",
+      "zh": "常放句首。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "yi-nan-za-zheng",
+    "text": "疑难杂症",
+    "pinyin": "yí nán zá zhèng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "medical-skill-and-healing"
+    ],
+    "literal": "doubtful · difficult · miscellaneous · illnesses",
+    "natural": "hard-to-treat conditions",
+    "meaning": {
+      "en": "Rare and difficult illnesses; tricky problems.",
+      "zh": "难以诊断或治疗的病症；也比喻复杂难办的问题。"
+    },
+    "equivalents": [
+      "hard-to-treat conditions",
+      "thorny problems"
+    ],
+    "examples": [
+      {
+        "zh": "这位老中医擅长治疗疑难杂症。",
+        "en": "The old doctor specialises in hard-to-treat conditions."
+      },
+      {
+        "zh": "技术部门专门解决各种疑难杂症。",
+        "en": "The tech team handles all sorts of tricky problems."
+      }
+    ],
+    "usage": {
+      "en": "Medical, and figurative for tough problems.",
+      "zh": "医学用语，也比喻难题。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  }
+]
