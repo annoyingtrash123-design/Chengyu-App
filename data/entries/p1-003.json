@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "you-xin-chong-chong",
+    "text": "忧心忡忡",
+    "pinyin": "yōu xīn chōng chōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "sadness-and-despair"
+    ],
+    "literal": "worried · heart · anxious · anxious",
+    "natural": "A heart heavy with worry",
+    "meaning": {
+      "en": "Deeply worried; weighed down with anxiety.",
+      "zh": "形容心事重重，非常忧愁。"
+    },
+    "equivalents": [
+      "worried sick",
+      "sick with worry",
+      "a heavy heart"
+    ],
+    "examples": [
+      {
+        "zh": "孩子高烧不退，妈妈忧心忡忡。",
+        "en": "The child's fever won't go down, and his mother is worried sick."
+      },
+      {
+        "zh": "面对不断上涨的房价，许多年轻人忧心忡忡。",
+        "en": "Many young people are deeply anxious about ever-rising house prices."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·召南·草虫》",
+      "story": {
+        "en": "A woman in the Book of Songs waits for her husband: \"While I have not seen my lord, my heart is anxious and troubled\" (未见君子，忧心忡忡).",
+        "zh": "《诗经·草虫》中，女子思念丈夫：\"未见君子，忧心忡忡。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial (忧心忡忡地说). 忡 is chōng. Neutral, a little literary.",
+      "zh": "多作谓语、状语。\"忡\"读 chōng。略带书面色彩。"
+    },
+    "synonyms": [
+      "心事重重",
+      "愁眉苦脸"
+    ],
+    "antonyms": [
+      "无忧无虑",
+      "心旷神怡"
+    ]
+  },
+  {
+    "id": "li-gan-jian-ying",
+    "text": "立竿见影",
+    "pinyin": "lì gān jiàn yǐng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "natural-consequences"
+    ],
+    "literal": "stand · pole · see · shadow",
+    "natural": "Stand up a pole and you see its shadow",
+    "meaning": {
+      "en": "Instant results; an effect that shows immediately.",
+      "zh": "在阳光下竖起竹竿，立刻就能看到影子。比喻立刻见到成效。"
+    },
+    "equivalents": [
+      "instant results",
+      "work like a charm",
+      "see results straight away"
+    ],
+    "examples": [
+      {
+        "zh": "这种药效果立竿见影，吃完半小时就不疼了。",
+        "en": "This medicine works instantly — the pain was gone half an hour after taking it."
+      },
+      {
+        "zh": "改变学习习惯不会立竿见影，要慢慢来。",
+        "en": "Changing study habits won't bring instant results — give it time."
+      }
+    ],
+    "origin": {
+      "source": "汉·魏伯阳《周易参同契》",
+      "story": {
+        "en": "This early Daoist text says the right method brings results as surely as \"stand up a pole and see its shadow, shout into a valley and hear the echo\" (立竿见影，呼谷传响).",
+        "zh": "东汉魏伯阳的《周易参同契》说：\"立竿见影，呼谷传响。\"比喻效果立刻显现。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive (立竿见影的效果). Often negated: 不会立竿见影.",
+      "zh": "多作谓语、定语，如\"立竿见影的效果\"。也常用否定\"不会立竿见影\"。"
+    },
+    "synonyms": [
+      "药到病除",
+      "一蹴而就"
+    ],
+    "antonyms": [
+      "旷日持久",
+      "潜移默化"
+    ]
+  },
+  {
+    "id": "ji-gong-jin-li",
+    "text": "急功近利",
+    "pinyin": "jí gōng jìn lì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "rush · success · near · profit",
+    "natural": "Rushing for quick success and immediate gain",
+    "meaning": {
+      "en": "Eager for quick success and instant gain; short-sighted.",
+      "zh": "急于求成，贪图眼前的功效和利益。"
+    },
+    "equivalents": [
+      "out for a quick buck",
+      "short-termism",
+      "penny wise, pound foolish"
+    ],
+    "examples": [
+      {
+        "zh": "教育不能急功近利，要着眼于孩子的长远发展。",
+        "en": "Education can't be about quick wins; it has to focus on a child's long-term development."
+      },
+      {
+        "zh": "一些企业急功近利，忽视了产品质量。",
+        "en": "Some companies chase short-term profit at the expense of quality."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (急功近利的心态). Critical; common in commentary on business and education.",
+      "zh": "多作谓语、定语，如\"急功近利的心态\"。含贬义，多见于评论。"
+    },
+    "synonyms": [
+      "急于求成",
+      "鼠目寸光"
+    ],
+    "antonyms": [
+      "高瞻远瞩",
+      "深谋远虑"
+    ]
+  },
+  {
+    "id": "gen-shen-di-gu",
+    "text": "根深蒂固",
+    "pinyin": "gēn shēn dì gù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "plant-and-natural-world"
+    ],
+    "literal": "roots · deep · stem · firm",
+    "natural": "Roots deep and stalk firm",
+    "meaning": {
+      "en": "Deep-rooted; firmly entrenched and hard to change.",
+      "zh": "根扎得深，柄长得牢。比喻基础稳固，不容易动摇。"
+    },
+    "equivalents": [
+      "deep-rooted",
+      "deeply ingrained",
+      "entrenched"
+    ],
+    "examples": [
+      {
+        "zh": "\"重男轻女\"的观念在一些地方依然根深蒂固。",
+        "en": "The preference for sons is still deeply ingrained in some places."
+      },
+      {
+        "zh": "这种坏习惯根深蒂固，很难改掉。",
+        "en": "This bad habit is so entrenched it's hard to break."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第五十九章",
+      "story": {
+        "en": "The Laozi speaks of the way to long life as \"deep roots and a firm stem\" (深根固柢). The modern order 根深蒂固 developed later.",
+        "zh": "《老子》说\"是谓深根固柢，长生久视之道\"，后演变为\"根深蒂固\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Often about attitudes, traditions or prejudices; tends to be negative. Also 根深柢固.",
+      "zh": "多作谓语、定语，多指观念、传统、偏见，偏贬义。也作\"根深柢固\"。"
+    },
+    "synonyms": [
+      "积重难返",
+      "牢不可破"
+    ],
+    "antonyms": [
+      "根基不稳",
+      "摇摇欲坠"
+    ]
+  },
+  {
+    "id": "xiang-de-yi-zhang",
+    "text": "相得益彰",
+    "pinyin": "xiāng dé yì zhāng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "unusual-combinations",
+      "relationships"
+    ],
+    "literal": "mutual · gain · more · prominent",
+    "natural": "Each gaining and both shining brighter",
+    "meaning": {
+      "en": "To complement each other; each bringing out the best in the other.",
+      "zh": "互相配合，双方的长处和作用更能显示出来。"
+    },
+    "equivalents": [
+      "complement each other",
+      "a perfect match",
+      "go together like bread and butter"
+    ],
+    "examples": [
+      {
+        "zh": "红墙和白雪相得益彰，景色非常美。",
+        "en": "The red walls and white snow set each other off beautifully."
+      },
+      {
+        "zh": "他们俩一个擅长技术，一个擅长管理，合作起来相得益彰。",
+        "en": "One is strong technically and the other in management, so they complement each other perfectly."
+      }
+    ],
+    "origin": {
+      "source": "汉·王褒《圣主得贤臣颂》",
+      "story": {
+        "en": "Wang Bao wrote that when a wise ruler gains worthy ministers, \"each gains from the other and both become more illustrious\" (相得益章; 章 = 彰).",
+        "zh": "王褒在《圣主得贤臣颂》中说，明君与贤臣\"聚精会神，相得益章\"（\"章\"同\"彰\"）。"
+      }
+    },
+    "usage": {
+      "en": "Predicate, often A 与 B 相得益彰. Formal; used of people, colours, food, design.",
+      "zh": "多作谓语，常说\"A与B相得益彰\"。书面语，用于人、颜色、菜肴、设计等。"
+    },
+    "synonyms": [
+      "相辅相成",
+      "珠联璧合"
+    ],
+    "antonyms": [
+      "格格不入",
+      "相形见绌"
+    ]
+  },
+  {
+    "id": "bie-kai-sheng-mian",
+    "text": "别开生面",
+    "pinyin": "bié kāi shēng miàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unprecedented-situations",
+      "excellent-writing"
+    ],
+    "literal": "separately · open · new · face",
+    "natural": "Opening up a new face",
+    "meaning": {
+      "en": "To break new ground; fresh and original in style.",
+      "zh": "另外开创新的局面或形式。"
+    },
+    "equivalents": [
+      "break new ground",
+      "a breath of fresh air",
+      "novel"
+    ],
+    "examples": [
+      {
+        "zh": "这场别开生面的运动会让大家笑声不断。",
+        "en": "This unconventional sports day had everyone laughing nonstop."
+      },
+      {
+        "zh": "他的演讲方式别开生面，吸引了很多听众。",
+        "en": "His fresh approach to public speaking drew a big audience."
+      }
+    ],
+    "origin": {
+      "source": "唐·杜甫《丹青引赠曹将军霸》",
+      "story": {
+        "en": "Du Fu praised the painter Cao Ba for restoring faded portraits of meritorious officials: \"Under the general's brush they took on a new face\" (将军下笔开生面).",
+        "zh": "杜甫称赞画家曹霸重画凌烟阁功臣像：\"凌烟功臣少颜色，将军下笔开生面。\""
+      }
+    },
+    "usage": {
+      "en": "Usually attributive (别开生面的活动/表演). Positive.",
+      "zh": "多作定语，如\"别开生面的活动\"。含褒义。"
+    },
+    "synonyms": [
+      "独树一帜",
+      "标新立异"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "fei-yi-suo-si",
+    "text": "匪夷所思",
+    "pinyin": "fěi yí suǒ sī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "miraculous-occurrences"
+    ],
+    "literal": "not · ordinary · what · think",
+    "natural": "Beyond ordinary thinking",
+    "meaning": {
+      "en": "Bizarre; beyond belief; something ordinary reasoning cannot account for.",
+      "zh": "不是根据常理所能想象的。形容言行离奇古怪。"
+    },
+    "equivalents": [
+      "bizarre",
+      "beggars belief",
+      "beyond comprehension"
+    ],
+    "examples": [
+      {
+        "zh": "他的做法真是匪夷所思。",
+        "en": "What he did is simply beyond belief."
+      },
+      {
+        "zh": "这个案子有很多匪夷所思的细节。",
+        "en": "The case has many bizarre details."
+      }
+    ],
+    "origin": {
+      "source": "《周易·涣卦》",
+      "story": {
+        "en": "The Book of Changes, in the Huan hexagram, says that a gathering like a hill \"is not what ordinary people would think of\" (匪夷所思; 匪 = 非, 夷 = ordinary).",
+        "zh": "《周易·涣卦》：\"涣有丘，匪夷所思。\"\"匪\"同\"非\"，\"夷\"指平常。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. More formal and stronger than 不可思议; often about bizarre behaviour.",
+      "zh": "多作谓语、定语。比\"不可思议\"更书面，多指言行离奇。"
+    },
+    "synonyms": [
+      "不可思议",
+      "莫名其妙"
+    ],
+    "antonyms": [
+      "理所当然",
+      "合情合理"
+    ]
+  },
+  {
+    "id": "bei-dao-er-chi",
+    "text": "背道而驰",
+    "pinyin": "bèi dào ér chí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "journeys-and-exploration"
+    ],
+    "literal": "turn back on · road · and · gallop",
+    "natural": "Galloping in the opposite direction",
+    "meaning": {
+      "en": "To run counter to; to go in completely the opposite direction.",
+      "zh": "朝着相反的方向跑。比喻方向和目标完全相反。"
+    },
+    "equivalents": [
+      "run counter to",
+      "go against",
+      "poles apart"
+    ],
+    "examples": [
+      {
+        "zh": "这种做法与我们的初衷背道而驰。",
+        "en": "This approach runs directly counter to our original intention."
+      },
+      {
+        "zh": "一边说要减肥，一边天天吃夜宵，简直是背道而驰。",
+        "en": "Saying you want to lose weight while eating late-night snacks every day is completely counterproductive."
+      }
+    ],
+    "origin": {
+      "source": "唐·柳宗元《杨评事文集后序》",
+      "story": {
+        "en": "Liu Zongyuan wrote that writers who each explore only one corner \"turn their backs on one another and gallop along the road\" (相与背驰于道者), drifting further and further apart.",
+        "zh": "柳宗元说，那些只探求一个方面的作家\"相与背驰于道者，其去弥远\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate, usually A 与 B 背道而驰. Critical.",
+      "zh": "多作谓语，常说\"A与B背道而驰\"。含贬义。"
+    },
+    "synonyms": [
+      "南辕北辙",
+      "适得其反"
+    ],
+    "antonyms": [
+      "并驾齐驱",
+      "殊途同归"
+    ]
+  },
+  {
+    "id": "yi-fan-feng-shun",
+    "text": "一帆风顺",
+    "pinyin": "yī fān fēng shùn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "journeys-and-exploration"
+    ],
+    "literal": "one · sail · wind · favourable",
+    "natural": "Smooth sailing with a following wind",
+    "meaning": {
+      "en": "Plain sailing; everything going smoothly. Also a common good wish.",
+      "zh": "船挂满帆，一路顺风。比喻非常顺利，没有阻碍。常用作祝福语。"
+    },
+    "equivalents": [
+      "plain sailing",
+      "bon voyage",
+      "fair winds"
+    ],
+    "examples": [
+      {
+        "zh": "祝你新的一年工作顺利，一帆风顺！",
+        "en": "Wishing you a smooth new year in every way!"
+      },
+      {
+        "zh": "创业的路不可能一帆风顺。",
+        "en": "Starting a business is never plain sailing."
+      }
+    ],
+    "usage": {
+      "en": "Very common as a blessing (祝你一帆风顺) and in the negative (不可能一帆风顺). In speech 一 is said yì (before 1st-tone 帆).",
+      "zh": "常用作祝福语，也常用否定\"不可能一帆风顺\"。口语中\"一\"在第一声\"帆\"前读 yì。"
+    },
+    "synonyms": [
+      "顺风顺水",
+      "万事如意"
+    ],
+    "antonyms": [
+      "一波三折",
+      "困难重重"
+    ]
+  },
+  {
+    "id": "nian-jiu-shi-xiu",
+    "text": "年久失修",
+    "pinyin": "nián jiǔ shī xiū",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "structural-problems",
+      "broken-or-useless-items"
+    ],
+    "literal": "years · long · lack · repair",
+    "natural": "Many years without repair",
+    "meaning": {
+      "en": "Dilapidated from years of neglect; in disrepair.",
+      "zh": "因时间长久而失去维修，多指建筑物破旧。"
+    },
+    "equivalents": [
+      "in disrepair",
+      "run-down",
+      "falling to pieces"
+    ],
+    "examples": [
+      {
+        "zh": "这座古桥年久失修，已经禁止车辆通行。",
+        "en": "The old bridge has fallen into disrepair and is now closed to traffic."
+      },
+      {
+        "zh": "村里的老房子大多年久失修。",
+        "en": "Most of the old houses in the village are dilapidated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Used of buildings, roads and facilities.",
+      "zh": "多作谓语、定语，用于建筑、道路、设施。"
+    },
+    "synonyms": [
+      "破败不堪",
+      "摇摇欲坠"
+    ],
+    "antonyms": [
+      "焕然一新",
+      "崭新"
+    ]
+  },
+  {
+    "id": "liao-liao-wu-ji",
+    "text": "寥寥无几",
+    "pinyin": "liáo liáo wú jǐ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "small-numbers"
+    ],
+    "literal": "sparse · sparse · not · several",
+    "natural": "So few there are hardly any",
+    "meaning": {
+      "en": "Very few; hardly any.",
+      "zh": "非常稀少，没有几个。"
+    },
+    "equivalents": [
+      "few and far between",
+      "a handful",
+      "next to none"
+    ],
+    "examples": [
+      {
+        "zh": "下雨天，公园里的游客寥寥无几。",
+        "en": "On rainy days there are hardly any visitors in the park."
+      },
+      {
+        "zh": "能坚持到最后的选手寥寥无几。",
+        "en": "Only a handful of contestants made it to the end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Used of people or things that can be counted.",
+      "zh": "多作谓语，用于可数的人或物。"
+    },
+    "synonyms": [
+      "屈指可数",
+      "凤毛麟角"
+    ],
+    "antonyms": [
+      "成千上万",
+      "不计其数",
+      "络绎不绝"
+    ]
+  },
+  {
+    "id": "jie-zhong-er-zhi",
+    "text": "接踵而至",
+    "pinyin": "jiē zhǒng ér zhì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "bad-fortune"
+    ],
+    "literal": "touch · heel · and · arrive",
+    "natural": "Arriving on each other's heels",
+    "meaning": {
+      "en": "To come one after another in quick succession.",
+      "zh": "后面的人脚尖接着前面人的脚跟。形容人或事接连而来。"
+    },
+    "equivalents": [
+      "one after another",
+      "thick and fast",
+      "on the heels of"
+    ],
+    "examples": [
+      {
+        "zh": "开业以后，订单接踵而至。",
+        "en": "After opening, orders came in thick and fast."
+      },
+      {
+        "zh": "失业之后，各种麻烦接踵而至。",
+        "en": "After he lost his job, one problem followed another."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Neutral; used of visitors, events, problems or opportunities.",
+      "zh": "多作谓语。中性，用于人、事件、问题、机会。"
+    },
+    "synonyms": [
+      "接二连三",
+      "纷至沓来"
+    ],
+    "antonyms": [
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "li-bu-cong-xin",
+    "text": "力不从心",
+    "pinyin": "lì bù cóng xīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "poor-health"
+    ],
+    "literal": "strength · not · follow · heart",
+    "natural": "Strength won't follow the heart's wishes",
+    "meaning": {
+      "en": "The spirit is willing but the strength is lacking; unable to do what one wants.",
+      "zh": "心里想做，可是力量达不到。"
+    },
+    "equivalents": [
+      "the spirit is willing but the flesh is weak",
+      "out of one's depth",
+      "not up to it"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷想帮忙搬家，可是年纪大了，力不从心。",
+        "en": "Grandpa wanted to help with the move, but at his age he wasn't up to it."
+      },
+      {
+        "zh": "同时管两个项目，我有点力不从心。",
+        "en": "Running two projects at once is a bit more than I can handle."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often about age, illness or being overstretched; sympathetic, not critical.",
+      "zh": "多作谓语，多因年老、生病或事务过多，不含贬义。"
+    },
+    "synonyms": [
+      "心有余而力不足",
+      "力所不及"
+    ],
+    "antonyms": [
+      "得心应手",
+      "游刃有余"
+    ]
+  },
+  {
+    "id": "fen-zhi-ta-lai",
+    "text": "纷至沓来",
+    "pinyin": "fēn zhì tà lái",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "many · arrive · crowd · come",
+    "natural": "Arriving thick and fast",
+    "meaning": {
+      "en": "To pour in thick and fast; to come in great numbers one after another.",
+      "zh": "纷纷到来，连续不断地来。"
+    },
+    "equivalents": [
+      "pour in",
+      "flood in",
+      "come thick and fast"
+    ],
+    "examples": [
+      {
+        "zh": "节目播出后，观众的来信纷至沓来。",
+        "en": "After the programme aired, letters from viewers flooded in."
+      },
+      {
+        "zh": "夺冠以后，广告邀约纷至沓来。",
+        "en": "After winning the title, advertising offers poured in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal; stronger sense of volume than 接踵而至. 沓 is tà.",
+      "zh": "多作谓语，书面语，数量感比\"接踵而至\"更强。\"沓\"读 tà。"
+    },
+    "synonyms": [
+      "接踵而至",
+      "络绎不绝"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "cuo-shou-bu-ji",
+    "text": "措手不及",
+    "pinyin": "cuò shǒu bù jí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "danger"
+    ],
+    "literal": "place · hands · not · in time",
+    "natural": "No time even to lift a hand",
+    "meaning": {
+      "en": "Caught off guard; taken by surprise with no time to respond.",
+      "zh": "事出意外，来不及应付。"
+    },
+    "equivalents": [
+      "caught off guard",
+      "caught napping",
+      "taken by surprise"
+    ],
+    "examples": [
+      {
+        "zh": "这场暴雨来得太突然，让大家措手不及。",
+        "en": "The rainstorm came so suddenly that it caught everyone off guard."
+      },
+      {
+        "zh": "对手的突然进攻打了我们一个措手不及。",
+        "en": "The opponent's sudden attack caught us completely by surprise."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; set phrase 打/杀了个措手不及 (catch someone off guard).",
+      "zh": "多作谓语、宾语，常说\"打了个措手不及\"。"
+    },
+    "synonyms": [
+      "猝不及防",
+      "手忙脚乱"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "有备无患"
+    ]
+  },
+  {
+    "id": "xin-ji-ru-fen",
+    "text": "心急如焚",
+    "pinyin": "xīn jí rú fén",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "emotions"
+    ],
+    "literal": "heart · anxious · like · burning",
+    "natural": "A heart burning with anxiety",
+    "meaning": {
+      "en": "Burning with anxiety; extremely worried and impatient.",
+      "zh": "心里急得像着了火一样。形容非常着急。"
+    },
+    "equivalents": [
+      "on tenterhooks",
+      "beside oneself with worry",
+      "like a cat on hot bricks"
+    ],
+    "examples": [
+      {
+        "zh": "航班一再延误，赶着去面试的他心急如焚。",
+        "en": "With his flight delayed again and again, he was beside himself — he had an interview to get to."
+      },
+      {
+        "zh": "孩子走丢了，父母心急如焚。",
+        "en": "The child went missing, and the parents were frantic with worry."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Spoken and written; stronger than 着急.",
+      "zh": "多作谓语。语气比\"着急\"强烈。"
+    },
+    "synonyms": [
+      "心急火燎",
+      "忧心如焚",
+      "坐立不安"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "不慌不忙"
+    ]
+  },
+  {
+    "id": "xu-xu-ru-sheng",
+    "text": "栩栩如生",
+    "pinyin": "xǔ xǔ rú shēng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "excellent-writing"
+    ],
+    "literal": "vivid · vivid · as if · alive",
+    "natural": "So vivid it seems alive",
+    "meaning": {
+      "en": "Lifelike; so vividly portrayed it seems alive.",
+      "zh": "形容艺术形象非常逼真，像活的一样。"
+    },
+    "equivalents": [
+      "lifelike",
+      "true to life",
+      "as if it could leap off the page"
+    ],
+    "examples": [
+      {
+        "zh": "这些泥人捏得栩栩如生。",
+        "en": "These clay figures are incredibly lifelike."
+      },
+      {
+        "zh": "作者把人物写得栩栩如生。",
+        "en": "The author brings the characters vividly to life."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·齐物论》",
+      "story": {
+        "en": "Zhuangzi dreamed he was a butterfly, \"fluttering about, a butterfly to the life\" (栩栩然胡蝶也), and on waking did not know if he was Zhuangzi who had dreamed of a butterfly or a butterfly dreaming it was Zhuangzi.",
+        "zh": "庄子梦见自己变成蝴蝶，\"栩栩然胡蝶也\"，醒来后不知是庄周梦见了蝴蝶，还是蝴蝶梦见了庄周。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement (画得栩栩如生). Used of paintings, sculptures, characters in writing.",
+      "zh": "多作谓语、补语，如\"画得栩栩如生\"。用于绘画、雕塑、文学人物。"
+    },
+    "synonyms": [
+      "惟妙惟肖",
+      "活灵活现"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "呆板"
+    ]
+  },
+  {
+    "id": "yan-hua-liao-luan",
+    "text": "眼花缭乱",
+    "pinyin": "yǎn huā liáo luàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion",
+      "unusual-combinations"
+    ],
+    "literal": "eyes · blurred · tangled · messy",
+    "natural": "Eyes dazzled and confused",
+    "meaning": {
+      "en": "Dazzled; bewildered by too many things to look at.",
+      "zh": "眼睛看见复杂纷繁的东西而感到迷乱。"
+    },
+    "equivalents": [
+      "dazzling",
+      "spoilt for choice",
+      "a feast for the eyes"
+    ],
+    "examples": [
+      {
+        "zh": "超市里的商品多得让人眼花缭乱。",
+        "en": "There's such a range of goods in the supermarket it makes your head spin."
+      },
+      {
+        "zh": "杂技演员的动作快得让人眼花缭乱。",
+        "en": "The acrobats move so fast it's dazzling."
+      }
+    ],
+    "origin": {
+      "source": "元·王实甫《西厢记》",
+      "story": {
+        "en": "In The Western Chamber, the scholar Zhang first sees Yingying and says her beauty leaves him \"eyes dazzled and tongue-tied\" (眼花撩乱口难言).",
+        "zh": "《西厢记》中张生初见莺莺，说\"则著人眼花撩乱口难言\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement, often 让人眼花缭乱. Also written 眼花撩乱.",
+      "zh": "多作谓语、补语，常说\"让人眼花缭乱\"。也作\"眼花撩乱\"。"
+    },
+    "synonyms": [
+      "目不暇接",
+      "五花八门"
+    ],
+    "antonyms": [
+      "一目了然",
+      "井然有序"
+    ]
+  },
+  {
+    "id": "xue-zhong-song-tan",
+    "text": "雪中送炭",
+    "pinyin": "xuě zhōng sòng tàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "positive-character-qualities"
+    ],
+    "literal": "snow · in · send · charcoal",
+    "natural": "Bringing charcoal in the snow",
+    "meaning": {
+      "en": "To give help exactly when it's most needed.",
+      "zh": "在下雪天给人送炭取暖。比喻在别人急需时给予帮助。"
+    },
+    "equivalents": [
+      "a friend in need is a friend indeed",
+      "a lifeline",
+      "help in one's hour of need"
+    ],
+    "examples": [
+      {
+        "zh": "公司困难的时候，这笔贷款真是雪中送炭。",
+        "en": "When the company was struggling, this loan was a real lifeline."
+      },
+      {
+        "zh": "锦上添花容易，雪中送炭难。",
+        "en": "It's easy to add to someone's good fortune, hard to help them when they're down."
+      }
+    ],
+    "origin": {
+      "source": "宋·范成大《大雪送炭与芥隐》",
+      "story": {
+        "en": "Fan Chengda sent charcoal to a friend during heavy snow, writing a poem with the line \"It's not that in snow one must send charcoal\" — playing on the idea of practical help at the right moment.",
+        "zh": "范成大大雪天送炭给朋友，作诗\"不是雪中须送炭，聊装风景要诗来\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object (真是雪中送炭). Often contrasted with 锦上添花.",
+      "zh": "多作谓语、宾语。常与\"锦上添花\"对比。"
+    },
+    "synonyms": [
+      "救人于危难",
+      "解囊相助"
+    ],
+    "antonyms": [
+      "落井下石",
+      "雪上加霜",
+      "锦上添花"
+    ]
+  },
+  {
+    "id": "de-bu-chang-shi",
+    "text": "得不偿失",
+    "pinyin": "dé bù cháng shī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "unintended-results"
+    ],
+    "literal": "gain · not · make up for · loss",
+    "natural": "The gain doesn't make up for the loss",
+    "meaning": {
+      "en": "Not worth it; the losses outweigh the gains.",
+      "zh": "得到的抵不上失去的。"
+    },
+    "equivalents": [
+      "not worth it",
+      "more trouble than it's worth",
+      "a Pyrrhic victory"
+    ],
+    "examples": [
+      {
+        "zh": "为了省一点钱买质量差的东西，结果得不偿失。",
+        "en": "Buying poor-quality goods to save a little money ended up costing more than it saved."
+      },
+      {
+        "zh": "熬夜学习伤了身体，真是得不偿失。",
+        "en": "Staying up late to study damaged his health — it really wasn't worth it."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Very common in everyday reasoning and advice.",
+      "zh": "多作谓语。日常议论中很常用。"
+    },
+    "synonyms": [
+      "因小失大",
+      "赔了夫人又折兵"
+    ],
+    "antonyms": [
+      "一举两得",
+      "事半功倍"
+    ]
+  },
+  {
+    "id": "an-ran-wu-yang",
+    "text": "安然无恙",
+    "pinyin": "ān rán wú yàng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "danger"
+    ],
+    "literal": "safe · -ly · no · harm",
+    "natural": "Safe and unharmed",
+    "meaning": {
+      "en": "Safe and sound; unharmed.",
+      "zh": "平安无事，没有受到损害。"
+    },
+    "equivalents": [
+      "safe and sound",
+      "unscathed",
+      "alive and well"
+    ],
+    "examples": [
+      {
+        "zh": "地震过后，全村人都安然无恙。",
+        "en": "After the earthquake, everyone in the village was safe and sound."
+      },
+      {
+        "zh": "手机从三楼掉下去，居然安然无恙。",
+        "en": "The phone fell from the third floor and was somehow completely undamaged."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·齐策四》",
+      "story": {
+        "en": "When an envoy from Qi visited Queen Dowager Wei of Zhao, she first asked: \"Is the harvest well? Are the people well? Is the king well?\" (岁亦无恙耶？民亦无恙耶？王亦无恙耶？) — putting the people before the king. 无恙, \"without harm\", was an old greeting.",
+        "zh": "齐王派使者问候赵威后，赵威后先问\"岁亦无恙耶？民亦无恙耶？王亦无恙耶？\"把百姓放在君王之前。\"无恙\"是古时问候语。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Used of people or things after danger. 恙 is yàng.",
+      "zh": "多作谓语，用于经历危险后。\"恙\"读 yàng。"
+    },
+    "synonyms": [
+      "平安无事",
+      "完好无损"
+    ],
+    "antonyms": [
+      "遍体鳞伤",
+      "岌岌可危"
+    ]
+  },
+  {
+    "id": "shen-ru-qian-chu",
+    "text": "深入浅出",
+    "pinyin": "shēn rù qiǎn chū",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods",
+      "excellent-writing"
+    ],
+    "literal": "deep · enter · shallow · exit",
+    "natural": "Going in deep, coming out simple",
+    "meaning": {
+      "en": "Explaining profound ideas in simple, accessible terms.",
+      "zh": "内容深刻，表达却浅显易懂。"
+    },
+    "equivalents": [
+      "make complex ideas accessible",
+      "explain in plain terms"
+    ],
+    "examples": [
+      {
+        "zh": "这位教授讲课深入浅出，学生都很喜欢。",
+        "en": "The professor explains difficult ideas simply, and the students love his lectures."
+      },
+      {
+        "zh": "这是一本深入浅出的科普书。",
+        "en": "This is a popular-science book that makes complex ideas easy to understand."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Praise for teaching, writing and explanations.",
+      "zh": "多作谓语、定语，称赞讲解或文章通俗易懂。"
+    },
+    "synonyms": [
+      "通俗易懂",
+      "言简意赅"
+    ],
+    "antonyms": [
+      "晦涩难懂",
+      "故弄玄虚"
+    ]
+  },
+  {
+    "id": "mo-mo-wu-wen",
+    "text": "默默无闻",
+    "pinyin": "mò mò wú wén",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "silent · silent · not · heard",
+    "natural": "Silent and unheard of",
+    "meaning": {
+      "en": "Unknown to the public; working quietly without fame.",
+      "zh": "不出声，没人知道。形容人没有名声，不为人知。"
+    },
+    "equivalents": [
+      "unsung",
+      "out of the limelight",
+      "behind the scenes"
+    ],
+    "examples": [
+      {
+        "zh": "很多科学家一辈子默默无闻地工作。",
+        "en": "Many scientists work their whole lives without recognition."
+      },
+      {
+        "zh": "她在小山村默默无闻地教了三十年书。",
+        "en": "She quietly taught in a small mountain village for thirty years."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial (默默无闻地工作) — often admiring of quiet dedication — or predicate (obscure).",
+      "zh": "多作状语，如\"默默无闻地工作\"，常含赞扬；也作谓语表示不出名。"
+    },
+    "synonyms": [
+      "无声无息",
+      "鲜为人知"
+    ],
+    "antonyms": [
+      "家喻户晓",
+      "大名鼎鼎",
+      "脱颖而出"
+    ]
+  },
+  {
+    "id": "shun-li-cheng-zhang",
+    "text": "顺理成章",
+    "pinyin": "shùn lǐ chéng zhāng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "excellent-writing"
+    ],
+    "literal": "follow · reason · form · essay",
+    "natural": "Following reason, the writing takes shape",
+    "meaning": {
+      "en": "Logical and natural; following as a matter of course.",
+      "zh": "写文章或做事合乎情理，自然而然。"
+    },
+    "equivalents": [
+      "follow naturally",
+      "a matter of course",
+      "stand to reason"
+    ],
+    "examples": [
+      {
+        "zh": "他俩相恋多年，结婚是顺理成章的事。",
+        "en": "They've been together for years, so getting married was the natural next step."
+      },
+      {
+        "zh": "成绩一直第一，他顺理成章地被选为班长。",
+        "en": "Always top of the class, he was naturally chosen as class monitor."
+      }
+    ],
+    "origin": {
+      "source": "宋·朱熹《朱子语类》",
+      "story": {
+        "en": "Zhu Xi said that good writing is simply \"following reason so that it forms a composition\" (文者，顺理而成章之谓也).",
+        "zh": "朱熹说：\"文者，顺理而成章之谓也。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive (顺理成章的事), adverbial or predicate.",
+      "zh": "多作定语、状语、谓语，如\"顺理成章的事\"。"
+    },
+    "synonyms": [
+      "理所当然",
+      "水到渠成"
+    ],
+    "antonyms": [
+      "牵强附会",
+      "不合情理"
+    ]
+  },
+  {
+    "id": "ru-chu-yi-zhe",
+    "text": "如出一辙",
+    "pinyin": "rú chū yī zhé",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation"
+    ],
+    "literal": "as if · from · one · rut",
+    "natural": "As if from the same wheel-rut",
+    "meaning": {
+      "en": "Exactly alike; cut from the same cloth.",
+      "zh": "好像出自同一车辙。比喻两件事情非常相似。"
+    },
+    "equivalents": [
+      "cut from the same cloth",
+      "two peas in a pod",
+      "the same old story"
+    ],
+    "examples": [
+      {
+        "zh": "这两起诈骗案的手法如出一辙。",
+        "en": "The two scams used exactly the same method."
+      },
+      {
+        "zh": "他们俩说话的口气如出一辙。",
+        "en": "The two of them talk in exactly the same way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often about methods, arguments or mistakes; slightly negative.",
+      "zh": "多作谓语，多指手法、说法、错误等，略带贬义。"
+    },
+    "synonyms": [
+      "一模一样",
+      "大同小异",
+      "千篇一律"
+    ],
+    "antonyms": [
+      "截然不同",
+      "迥然不同"
+    ]
+  }
+]
