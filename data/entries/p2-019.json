@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "nao-xiu-cheng-nu",
+    "text": "恼羞成怒",
+    "pinyin": "nǎo xiū chéng nù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "老羞成怒"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "negative-character-flaws"
+    ],
+    "literal": "vexed · ashamed · become · angry",
+    "natural": "lose one's temper out of embarrassment",
+    "meaning": {
+      "en": "To fly into a rage out of shame.",
+      "zh": "由于羞愧到了极点，下不了台而发怒。"
+    },
+    "equivalents": [
+      "fly into a rage out of embarrassment",
+      "get defensive and angry"
+    ],
+    "examples": [
+      {
+        "zh": "被揭穿后，他恼羞成怒。",
+        "en": "Exposed, he flew into a rage out of embarrassment."
+      },
+      {
+        "zh": "她被问得恼羞成怒，摔门而去。",
+        "en": "Embarrassed by the questions, she lost her temper and stormed out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "气急败坏"
+    ],
+    "antonyms": [
+      "心平气和",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "tian-rang-zhi-bie",
+    "text": "天壤之别",
+    "pinyin": "tiān rǎng zhī bié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements"
+    ],
+    "literal": "heaven · earth · 's · difference",
+    "natural": "a world of difference",
+    "meaning": {
+      "en": "A difference as great as between heaven and earth.",
+      "zh": "天和地，一个在上，一个在下，比喻差别极大。"
+    },
+    "equivalents": [
+      "a world of difference",
+      "poles apart",
+      "night and day"
+    ],
+    "examples": [
+      {
+        "zh": "城乡生活有着天壤之别。",
+        "en": "There's a world of difference between city and country life."
+      },
+      {
+        "zh": "两种方法效果有天壤之别。",
+        "en": "The two methods produce results like night and day."
+      }
+    ],
+    "usage": {
+      "en": "Usually 有天壤之别.",
+      "zh": "常说“有天壤之别”。"
+    },
+    "synonyms": [
+      "天差地别",
+      "截然不同",
+      "大相径庭"
+    ],
+    "antonyms": [
+      "大同小异",
+      "一模一样",
+      "不相上下"
+    ]
+  },
+  {
+    "id": "xu-han-wen-nuan",
+    "text": "嘘寒问暖",
+    "pinyin": "xū hán wèn nuǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "positive-character-qualities"
+    ],
+    "literal": "breathe · cold · ask · warm",
+    "natural": "show caring concern",
+    "meaning": {
+      "en": "To show solicitous concern for someone's wellbeing.",
+      "zh": "形容对人的生活非常关心。"
+    },
+    "equivalents": [
+      "show concern",
+      "fuss over",
+      "look after warmly"
+    ],
+    "examples": [
+      {
+        "zh": "护士对病人嘘寒问暖。",
+        "en": "The nurses fuss over the patients."
+      },
+      {
+        "zh": "每次回家，奶奶都对我嘘寒问暖。",
+        "en": "Every time I go home, Grandma asks after me warmly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "关怀备至",
+      "体贴入微"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "不闻不问",
+      "冷若冰霜"
+    ]
+  },
+  {
+    "id": "bu-shi-shi-ji",
+    "text": "不失时机",
+    "pinyin": "bù shī shí jī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "wisdom"
+    ],
+    "literal": "not · lose · time · opportunity",
+    "natural": "seize the moment",
+    "meaning": {
+      "en": "Not letting the opportunity slip.",
+      "zh": "不放过有利时机。"
+    },
+    "equivalents": [
+      "seize the moment",
+      "at the right moment",
+      "strike while the iron is hot"
+    ],
+    "examples": [
+      {
+        "zh": "他不失时机地提出了加薪的要求。",
+        "en": "He seized the moment to ask for a raise."
+      },
+      {
+        "zh": "公司不失时机地推出了新产品。",
+        "en": "The company launched its new product at just the right time."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "机不可失",
+      "趁热打铁"
+    ],
+    "antonyms": [
+      "坐失良机",
+      "优柔寡断"
+    ]
+  },
+  {
+    "id": "zhi-jie-liao-dang",
+    "text": "直截了当",
+    "pinyin": "zhí jié liǎo dàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "efficiency"
+    ],
+    "literal": "straight · cut · clear · proper",
+    "natural": "straight to the point",
+    "meaning": {
+      "en": "Direct and to the point.",
+      "zh": "形容说话做事爽快、不绕弯子。"
+    },
+    "equivalents": [
+      "straightforward",
+      "blunt",
+      "get to the point"
+    ],
+    "examples": [
+      {
+        "zh": "他直截了当地拒绝了我。",
+        "en": "He turned me down flat."
+      },
+      {
+        "zh": "有话直截了当地说吧。",
+        "en": "If you have something to say, get to the point."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. Not 直接了当.",
+      "zh": "多作状语、谓语。不写作“直接了当”。"
+    },
+    "synonyms": [
+      "开门见山",
+      "单刀直入",
+      "直言不讳"
+    ],
+    "antonyms": [
+      "拐弯抹角",
+      "含糊其辞"
+    ]
+  },
+  {
+    "id": "bai-shou-qi-jia",
+    "text": "白手起家",
+    "pinyin": "bái shǒu qǐ jiā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "effort"
+    ],
+    "literal": "empty · hands · build · family",
+    "natural": "start from nothing",
+    "meaning": {
+      "en": "To build up wealth from scratch.",
+      "zh": "形容原来没有基础或条件很差而创立起一番事业。"
+    },
+    "equivalents": [
+      "self-made",
+      "start from scratch",
+      "rags to riches"
+    ],
+    "examples": [
+      {
+        "zh": "他白手起家，创办了一家大公司。",
+        "en": "He started from nothing and built a big company."
+      },
+      {
+        "zh": "她是白手起家的女企业家。",
+        "en": "She's a self-made businesswoman."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "艰苦创业",
+      "自力更生"
+    ],
+    "antonyms": [
+      "坐享其成",
+      "坐吃山空"
+    ]
+  },
+  {
+    "id": "ren-qu-lou-kong",
+    "text": "人去楼空",
+    "pinyin": "rén qù lóu kōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "abrupt-endings"
+    ],
+    "literal": "people · gone · building · empty",
+    "natural": "everyone has gone",
+    "meaning": {
+      "en": "The people have left and the place is empty; (of firms) the owners have absconded.",
+      "zh": "人已离去，楼中空空，指故地重游时思念故人；也指经营者逃跑。"
+    },
+    "equivalents": [
+      "deserted",
+      "the birds have flown"
+    ],
+    "examples": [
+      {
+        "zh": "等警察赶到，公司早已人去楼空。",
+        "en": "By the time the police arrived, the company had cleared out."
+      },
+      {
+        "zh": "故地重游，人去楼空，令人感慨。",
+        "en": "Revisiting the old place, everyone gone, I felt a wave of nostalgia."
+      }
+    ],
+    "usage": {
+      "en": "The 'absconded' sense is common in news.",
+      "zh": "“逃跑”义多见于新闻。"
+    },
+    "synonyms": [
+      "物是人非"
+    ],
+    "antonyms": [
+      "人来人往",
+      "门庭若市"
+    ]
+  },
+  {
+    "id": "zhi-ruo-wang-wen",
+    "text": "置若罔闻",
+    "pinyin": "zhì ruò wǎng wén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "distracted-attention",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "set aside · as if · not · heard",
+    "natural": "turn a deaf ear",
+    "meaning": {
+      "en": "To ignore as if not having heard.",
+      "zh": "放在一边，好像没有听见似的。"
+    },
+    "equivalents": [
+      "turn a deaf ear",
+      "ignore"
+    ],
+    "examples": [
+      {
+        "zh": "对群众的意见，他置若罔闻。",
+        "en": "He turned a deaf ear to public opinion."
+      },
+      {
+        "zh": "警告他多次，他都置若罔闻。",
+        "en": "He ignored repeated warnings."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "充耳不闻",
+      "视而不见",
+      "熟视无睹"
+    ],
+    "antonyms": [
+      "洗耳恭听",
+      "言听计从"
+    ]
+  },
+  {
+    "id": "chang-tu-ba-she",
+    "text": "长途跋涉",
+    "pinyin": "cháng tú bá shè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "difficult-terrain"
+    ],
+    "literal": "long · road · cross mountains · wade rivers",
+    "natural": "a long, hard journey",
+    "meaning": {
+      "en": "A long and arduous journey.",
+      "zh": "远距离地爬山涉水，形容路途遥远、行路辛苦。"
+    },
+    "equivalents": [
+      "a long trek",
+      "a long haul"
+    ],
+    "examples": [
+      {
+        "zh": "经过长途跋涉，他们终于到达目的地。",
+        "en": "After a long trek they finally reached their destination."
+      },
+      {
+        "zh": "为了看病，老人长途跋涉来到北京。",
+        "en": "The old man made the long journey to Beijing to see a doctor."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or noun.",
+      "zh": "多作谓语、主语。"
+    },
+    "synonyms": [
+      "跋山涉水",
+      "千里迢迢",
+      "风尘仆仆"
+    ],
+    "antonyms": [
+      "近在咫尺",
+      "足不出户"
+    ]
+  },
+  {
+    "id": "you-shuo-you-xiao",
+    "text": "有说有笑",
+    "pinyin": "yǒu shuō yǒu xiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "emotions",
+      "relationships"
+    ],
+    "literal": "have · talk · have · laugh",
+    "natural": "chatting and laughing",
+    "meaning": {
+      "en": "Talking and laughing happily.",
+      "zh": "又说又笑，形容心情愉快。"
+    },
+    "equivalents": [
+      "chatting and laughing",
+      "in good spirits"
+    ],
+    "examples": [
+      {
+        "zh": "一家人围坐在桌边有说有笑。",
+        "en": "The family sat round the table chatting and laughing."
+      },
+      {
+        "zh": "他们有说有笑地走进教室。",
+        "en": "They walked into the classroom laughing and talking."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "谈笑风生",
+      "欢声笑语"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "沉默不语"
+    ]
+  },
+  {
+    "id": "yan-yu-lu-ji",
+    "text": "严于律己",
+    "pinyin": "yán yú lǜ jǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "conduct"
+    ],
+    "literal": "strict · in · discipline · self",
+    "natural": "strict with oneself",
+    "meaning": {
+      "en": "Strict in disciplining oneself.",
+      "zh": "对自己要求很严格。"
+    },
+    "equivalents": [
+      "strict with oneself",
+      "self-disciplined"
+    ],
+    "examples": [
+      {
+        "zh": "他严于律己，宽以待人。",
+        "en": "He's strict with himself and lenient with others."
+      },
+      {
+        "zh": "领导干部要严于律己。",
+        "en": "Officials must be self-disciplined."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 宽以待人.",
+      "zh": "常与“宽以待人”连用。"
+    },
+    "synonyms": [
+      "克己奉公",
+      "以身作则"
+    ],
+    "antonyms": [
+      "放任自流",
+      "宽以律己"
+    ]
+  },
+  {
+    "id": "qian-che-zhi-jian",
+    "text": "前车之鉴",
+    "pinyin": "qián chē zhī jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "wisdom",
+      "historical-records"
+    ],
+    "literal": "front · cart · 's · mirror",
+    "natural": "a lesson from others' mistakes",
+    "meaning": {
+      "en": "A warning from someone else's earlier failure.",
+      "zh": "前面车子翻倒的教训，比喻可以作为后来的借鉴。"
+    },
+    "equivalents": [
+      "a cautionary tale",
+      "learn from others' mistakes"
+    ],
+    "examples": [
+      {
+        "zh": "有了前车之鉴，我们这次更加小心。",
+        "en": "Learning from what happened before, we're more careful this time."
+      },
+      {
+        "zh": "他的失败是我们的前车之鉴。",
+        "en": "His failure is a lesson for us."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·贾谊传》",
+      "story": {
+        "en": "Jia Yi quoted a proverb: 'When the cart in front overturns, the cart behind takes warning' (前车覆，后车诫).",
+        "zh": "贾谊引俗语：“前车覆，后车诫。”"
+      }
+    },
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "引以为戒",
+      "殷鉴不远"
+    ],
+    "antonyms": [
+      "重蹈覆辙"
+    ]
+  },
+  {
+    "id": "wu-yong-hui-yan",
+    "text": "毋庸讳言",
+    "pinyin": "wú yōng huì yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech"
+    ],
+    "literal": "no · need · avoid · saying",
+    "natural": "it must be admitted",
+    "meaning": {
+      "en": "There is no need to hide the fact that...",
+      "zh": "不必隐讳，可以直说。"
+    },
+    "equivalents": [
+      "admittedly",
+      "it has to be said"
+    ],
+    "examples": [
+      {
+        "zh": "毋庸讳言，我们的工作还有不少问题。",
+        "en": "It has to be said that our work still has many problems."
+      },
+      {
+        "zh": "毋庸讳言，这次失败是我的责任。",
+        "en": "Admittedly, this failure is my responsibility."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial, formal.",
+      "zh": "常放句首，书面语。"
+    },
+    "synonyms": [
+      "直言不讳"
+    ],
+    "antonyms": [
+      "讳莫如深"
+    ]
+  },
+  {
+    "id": "wei-fa-luan-ji",
+    "text": "违法乱纪",
+    "pinyin": "wéi fǎ luàn jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice",
+      "news-and-officialese"
+    ],
+    "literal": "violate · law · disrupt · discipline",
+    "natural": "break the law and rules",
+    "meaning": {
+      "en": "To break laws and disciplinary rules.",
+      "zh": "违反法令，破坏纪律。"
+    },
+    "equivalents": [
+      "break the law",
+      "misconduct"
+    ],
+    "examples": [
+      {
+        "zh": "对违法乱纪的行为要严肃处理。",
+        "en": "Breaches of law and discipline must be dealt with seriously."
+      },
+      {
+        "zh": "他因违法乱纪被开除。",
+        "en": "He was dismissed for misconduct."
+      }
+    ],
+    "usage": {
+      "en": "Official term.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "胡作非为",
+      "无法无天"
+    ],
+    "antonyms": [
+      "遵纪守法",
+      "奉公守法"
+    ]
+  },
+  {
+    "id": "da-zheng-fang-zhen",
+    "text": "大政方针",
+    "pinyin": "dà zhèng fāng zhēn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "major · policy · guideline",
+    "natural": "major policies",
+    "meaning": {
+      "en": "Fundamental state policies and principles.",
+      "zh": "国家的重大政策和指导方针。"
+    },
+    "equivalents": [
+      "major policies",
+      "policy guidelines"
+    ],
+    "examples": [
+      {
+        "zh": "会议讨论了国家的大政方针。",
+        "en": "The meeting discussed the country's major policies."
+      },
+      {
+        "zh": "要坚决贯彻中央的大政方针。",
+        "en": "Central policy guidelines must be firmly implemented."
+      }
+    ],
+    "usage": {
+      "en": "Official term.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "nan-shang-jia-nan",
+    "text": "难上加难",
+    "pinyin": "nán shàng jiā nán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation"
+    ],
+    "literal": "hard · on · add · hard",
+    "natural": "harder still",
+    "meaning": {
+      "en": "Even more difficult than before.",
+      "zh": "难上又加难，形容非常困难。"
+    },
+    "equivalents": [
+      "harder still",
+      "doubly difficult"
+    ],
+    "examples": [
+      {
+        "zh": "没有资金，这件事难上加难。",
+        "en": "Without funding, this is doubly difficult."
+      },
+      {
+        "zh": "在这种天气下救援难上加难。",
+        "en": "Rescue in this weather is harder still."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "雪上加霜",
+      "难如登天"
+    ],
+    "antonyms": [
+      "易如反掌",
+      "轻而易举"
+    ]
+  },
+  {
+    "id": "bing-jian-zuo-zhan",
+    "text": "并肩作战",
+    "pinyin": "bìng jiān zuò zhàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "war"
+    ],
+    "literal": "side by side · fight",
+    "natural": "fight side by side",
+    "meaning": {
+      "en": "To fight shoulder to shoulder.",
+      "zh": "肩并肩一起战斗，比喻共同奋斗。"
+    },
+    "equivalents": [
+      "fight side by side",
+      "shoulder to shoulder"
+    ],
+    "examples": [
+      {
+        "zh": "我们曾经并肩作战。",
+        "en": "We once fought side by side."
+      },
+      {
+        "zh": "医护人员并肩作战，抗击疫情。",
+        "en": "Medical staff worked shoulder to shoulder against the epidemic."
+      }
+    ],
+    "usage": {
+      "en": "Literal and figurative.",
+      "zh": "可用本义和比喻义。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "齐心协力"
+    ],
+    "antonyms": [
+      "孤军奋战",
+      "单枪匹马"
+    ]
+  },
+  {
+    "id": "shi-zhong-ru-yi",
+    "text": "始终如一",
+    "pinyin": "shǐ zhōng rú yī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "start · end · like · one",
+    "natural": "consistent from start to finish",
+    "meaning": {
+      "en": "Consistent from beginning to end.",
+      "zh": "从开始到最后都一样，指能坚持。"
+    },
+    "equivalents": [
+      "consistent",
+      "unwavering",
+      "constant"
+    ],
+    "examples": [
+      {
+        "zh": "他对工作始终如一地认真。",
+        "en": "He's been consistently conscientious in his work."
+      },
+      {
+        "zh": "她对朋友始终如一。",
+        "en": "She's always constant to her friends."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "一如既往",
+      "坚定不移",
+      "一以贯之"
+    ],
+    "antonyms": [
+      "反复无常",
+      "朝三暮四",
+      "半途而废"
+    ]
+  },
+  {
+    "id": "ti-xiao-jie-fei",
+    "text": "啼笑皆非",
+    "pinyin": "tí xiào jiē fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "complex-emotional-states"
+    ],
+    "literal": "cry · laugh · both · wrong",
+    "natural": "not know whether to laugh or cry",
+    "meaning": {
+      "en": "Something both annoying and absurd.",
+      "zh": "哭也不是，笑也不是，形容既令人难受又令人发笑。"
+    },
+    "equivalents": [
+      "not know whether to laugh or cry",
+      "absurd"
+    ],
+    "examples": [
+      {
+        "zh": "他的回答让人啼笑皆非。",
+        "en": "His answer left us not knowing whether to laugh or cry."
+      },
+      {
+        "zh": "这件啼笑皆非的事成了大家的笑谈。",
+        "en": "The absurd incident became a running joke."
+      }
+    ],
+    "usage": {
+      "en": "Usually 令人/让人啼笑皆非.",
+      "zh": "常说“令人啼笑皆非”。"
+    },
+    "synonyms": [
+      "哭笑不得"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bu-wen-bu-wen",
+    "text": "不闻不问",
+    "pinyin": "bù wén bù wèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "negative-character-flaws"
+    ],
+    "literal": "not · hear · not · ask",
+    "natural": "show no interest",
+    "meaning": {
+      "en": "To be completely indifferent.",
+      "zh": "既不听，也不问，形容对事情漠不关心。"
+    },
+    "equivalents": [
+      "turn a blind eye",
+      "not lift a finger",
+      "indifferent"
+    ],
+    "examples": [
+      {
+        "zh": "父母对孩子的学习不闻不问。",
+        "en": "The parents take no interest in their child's studies."
+      },
+      {
+        "zh": "对群众的困难，他不闻不问。",
+        "en": "He shows no concern for people's difficulties."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "漠不关心",
+      "置之不理",
+      "袖手旁观"
+    ],
+    "antonyms": [
+      "嘘寒问暖",
+      "关怀备至"
+    ]
+  },
+  {
+    "id": "bu-xiang-shang-xia",
+    "text": "不相上下",
+    "pinyin": "bù xiāng shàng xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "evenly-matched"
+    ],
+    "literal": "not · each other · above · below",
+    "natural": "evenly matched",
+    "meaning": {
+      "en": "About the same; equally matched.",
+      "zh": "分不出高低，形容程度相等。"
+    },
+    "equivalents": [
+      "neck and neck",
+      "on a par",
+      "much the same"
+    ],
+    "examples": [
+      {
+        "zh": "两人的成绩不相上下。",
+        "en": "Their results are on a par."
+      },
+      {
+        "zh": "这两款手机性能不相上下。",
+        "en": "The two phones perform much the same."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "旗鼓相当",
+      "势均力敌",
+      "难分伯仲"
+    ],
+    "antonyms": [
+      "天壤之别",
+      "截然不同",
+      "相差甚远"
+    ]
+  },
+  {
+    "id": "you-sheng-zhi-nian",
+    "text": "有生之年",
+    "pinyin": "yǒu shēng zhī nián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "experience-and-old-age"
+    ],
+    "literal": "have · life · 's · years",
+    "natural": "in one's lifetime",
+    "meaning": {
+      "en": "During one's remaining years.",
+      "zh": "在活着的时候。"
+    },
+    "equivalents": [
+      "in one's lifetime",
+      "for the rest of one's days"
+    ],
+    "examples": [
+      {
+        "zh": "我希望在有生之年再回故乡看看。",
+        "en": "I hope to see my hometown again in my lifetime."
+      },
+      {
+        "zh": "能在有生之年看到这一天，我很满足。",
+        "en": "I'm content to have lived to see this day."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "min-yi-shi-wei-tian",
+    "text": "民以食为天",
+    "pinyin": "mín yǐ shí wéi tiān",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "good-governance",
+      "historical-records"
+    ],
+    "literal": "people · take · food · as · heaven",
+    "natural": "food is the people's heaven",
+    "meaning": {
+      "en": "Food is the most basic need of the people.",
+      "zh": "人民以粮食为生存的根本。"
+    },
+    "equivalents": [
+      "food comes first",
+      "an army marches on its stomach"
+    ],
+    "examples": [
+      {
+        "zh": "民以食为天，食品安全最重要。",
+        "en": "Food is people's first need, so food safety matters most."
+      },
+      {
+        "zh": "民以食为天，先吃饭再说吧！",
+        "en": "Food comes first — let's eat, then talk!"
+      }
+    ],
+    "origin": {
+      "source": "《史记·郦生陆贾列传》",
+      "story": {
+        "en": "Li Yiji advised Liu Bang: 'The king takes the people as heaven, and the people take food as heaven' (王者以民为天，而民以食为天).",
+        "zh": "郦食其对刘邦说：“王者以民为天，而民以食为天。”"
+      }
+    },
+    "usage": {
+      "en": "Serious or playful.",
+      "zh": "可庄可谐。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "da-cao-jing-she",
+    "text": "打草惊蛇",
+    "pinyin": "dǎ cǎo jīng shé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "poor-planning-and-hasty-decisions",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "hit · grass · startle · snake",
+    "natural": "tip one's hand",
+    "meaning": {
+      "en": "To alert the enemy by acting rashly.",
+      "zh": "比喻做法不谨慎，反而使对方有所警觉。"
+    },
+    "equivalents": [
+      "tip someone off",
+      "show one's hand",
+      "alert the target"
+    ],
+    "examples": [
+      {
+        "zh": "先别打草惊蛇，等证据充分了再行动。",
+        "en": "Don't tip them off yet; wait until we have enough evidence."
+      },
+      {
+        "zh": "警方担心打草惊蛇，暂时没有逮捕他。",
+        "en": "Police held off arresting him for fear of alerting the others."
+      }
+    ],
+    "origin": {
+      "source": "宋·郑文宝《南唐近事》",
+      "story": {
+        "en": "When the people sued a corrupt clerk, his superior, the magistrate Wang Lu, who was even more corrupt, wrote on the complaint: 'You may beat the grass, but I, the snake, am already alarmed' (汝虽打草，吾已惊蛇).",
+        "zh": "县令王鲁贪赃，百姓告其主簿，王鲁批道：“汝虽打草，吾已惊蛇。”"
+      }
+    },
+    "usage": {
+      "en": "Also one of the Thirty-Six Stratagems.",
+      "zh": "也是三十六计之一。"
+    },
+    "synonyms": [
+      "轻举妄动"
+    ],
+    "antonyms": [
+      "不动声色"
+    ]
+  },
+  {
+    "id": "shou-wang-xiang-zhu",
+    "text": "守望相助",
+    "pinyin": "shǒu wàng xiāng zhù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "society",
+      "confucian-classics"
+    ],
+    "literal": "guard · watch · mutually · help",
+    "natural": "look out for each other",
+    "meaning": {
+      "en": "Neighbours keeping watch and helping each other.",
+      "zh": "为了防御外来侵害，邻近各村落协作，互相帮助。"
+    },
+    "equivalents": [
+      "look out for one another",
+      "neighbourly help"
+    ],
+    "examples": [
+      {
+        "zh": "邻里之间守望相助。",
+        "en": "Neighbours look out for one another."
+      },
+      {
+        "zh": "灾难面前，两国守望相助。",
+        "en": "In disaster, the two countries stood by each other."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·滕文公上》",
+      "story": {
+        "en": "Mencius' ideal village: 'Going out and coming in, they befriend each other; keeping watch, they help each other; in sickness they support each other.'",
+        "zh": "《孟子》：“出入相友，守望相助，疾病相扶持，则百姓亲睦。”"
+      }
+    },
+    "usage": {
+      "en": "Formal; also diplomatic.",
+      "zh": "书面，也用于外交。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "患难与共"
+    ],
+    "antonyms": [
+      "袖手旁观",
+      "落井下石"
+    ]
+  }
+]
