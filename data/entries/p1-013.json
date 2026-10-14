@@ -1,0 +1,1264 @@
+[
+  {
+    "id": "feng-hui-lu-zhuan",
+    "text": "峰回路转",
+    "pinyin": "fēng huí lù zhuǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "difficult-terrain",
+      "change"
+    ],
+    "literal": "peak · wind · road · turn",
+    "natural": "The peaks wind round and the path turns",
+    "meaning": {
+      "en": "A winding mountain path; also an unexpected turn for the better.",
+      "zh": "山势曲折，道路随着山势回环。也比喻事情经历曲折后出现转机。"
+    },
+    "equivalents": [
+      "a twist in the tale",
+      "an unexpected turn",
+      "the tide turns"
+    ],
+    "examples": [
+      {
+        "zh": "沿着山路走了半天，峰回路转，眼前出现一座小村庄。",
+        "en": "After hours on the winding mountain road, a small village suddenly came into view."
+      },
+      {
+        "zh": "案情峰回路转，嫌疑人竟然是无辜的。",
+        "en": "In a twist in the case, the suspect turned out to be innocent."
+      }
+    ],
+    "origin": {
+      "source": "宋·欧阳修《醉翁亭记》",
+      "story": {
+        "en": "Ouyang Xiu's \"Pavilion of the Old Drunkard\": \"the peaks wind round and the path turns, and there is a pavilion perched like wings over a spring\".",
+        "zh": "欧阳修《醉翁亭记》：\"峰回路转，有亭翼然临于泉上者，醉翁亭也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Literal (scenery) or figurative (plots, situations).",
+      "zh": "多作谓语，可写景，也比喻转机。"
+    },
+    "synonyms": [
+      "柳暗花明",
+      "山重水复",
+      "一波三折"
+    ],
+    "antonyms": [
+      "一马平川",
+      "一帆风顺"
+    ]
+  },
+  {
+    "id": "wen-suo-wei-wen",
+    "text": "闻所未闻",
+    "pinyin": "wén suǒ wèi wén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unprecedented-situations"
+    ],
+    "literal": "hear · what · never · heard",
+    "natural": "Hearing what one has never heard before",
+    "meaning": {
+      "en": "Unheard of; never heard of before.",
+      "zh": "听到了从来没有听到过的。形容事物新奇罕见。"
+    },
+    "equivalents": [
+      "unheard of",
+      "news to me",
+      "never heard of such a thing"
+    ],
+    "examples": [
+      {
+        "zh": "这种做法我真是闻所未闻。",
+        "en": "I've never heard of doing it that way."
+      },
+      {
+        "zh": "他讲了许多闻所未闻的奇闻趣事。",
+        "en": "He told lots of strange stories none of us had ever heard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Often pairs with 见所未见.",
+      "zh": "多作谓语、定语，常与\"见所未见\"连用。"
+    },
+    "synonyms": [
+      "前所未闻",
+      "见所未见"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "耳熟能详",
+      "家喻户晓"
+    ]
+  },
+  {
+    "id": "lou-wang-zhi-yu",
+    "text": "漏网之鱼",
+    "pinyin": "lòu wǎng zhī yú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "slip · net · (of) · fish",
+    "natural": "A fish that slipped through the net",
+    "meaning": {
+      "en": "Someone (usually a criminal) who has escaped capture.",
+      "zh": "从网眼里漏掉的鱼。比喻侥幸逃脱的罪犯或敌人。"
+    },
+    "equivalents": [
+      "one that got away",
+      "slipped through the net",
+      "at large"
+    ],
+    "examples": [
+      {
+        "zh": "警方加大搜捕力度，不让一个漏网之鱼逃脱。",
+        "en": "The police stepped up the search so that no one would slip through the net."
+      },
+      {
+        "zh": "他是这次行动中唯一的漏网之鱼。",
+        "en": "He was the only one who got away in the operation."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; subject or object.",
+      "zh": "作主语、宾语。"
+    },
+    "synonyms": [
+      "逍遥法外"
+    ],
+    "antonyms": [
+      "一网打尽",
+      "瓮中之鳖",
+      "束手就擒"
+    ]
+  },
+  {
+    "id": "cheng-feng-po-lang",
+    "text": "乘风破浪",
+    "pinyin": "chéng fēng pò làng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "journeys-and-exploration"
+    ],
+    "literal": "ride · wind · break · waves",
+    "natural": "Riding the wind and breaking the waves",
+    "meaning": {
+      "en": "To forge boldly ahead despite difficulties.",
+      "zh": "船只乘着风势破浪前进。比喻排除困难，勇往直前。"
+    },
+    "equivalents": [
+      "forge ahead",
+      "ride the waves",
+      "full steam ahead",
+      "brave the storm"
+    ],
+    "examples": [
+      {
+        "zh": "祝你在新的一年里乘风破浪，事业有成。",
+        "en": "May you forge ahead and succeed in the new year."
+      },
+      {
+        "zh": "这支年轻的团队乘风破浪，不断创新。",
+        "en": "The young team keeps forging ahead and innovating."
+      }
+    ],
+    "origin": {
+      "source": "《宋书·宗悫传》",
+      "story": {
+        "en": "Asked as a boy what he wanted to be, Zong Que replied: \"I wish to ride the long wind and break ten thousand li of waves\" (愿乘长风破万里浪). He became a famous general. Li Bai later echoed it: 长风破浪会有时.",
+        "zh": "宗悫少时，叔父问其志，答曰：\"愿乘长风破万里浪。\"李白亦有\"长风破浪会有时\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Common in good wishes and speeches. Also a popular TV-show title.",
+      "zh": "多作谓语，常用于祝福。"
+    },
+    "synonyms": [
+      "勇往直前",
+      "披荆斩棘",
+      "一往无前"
+    ],
+    "antonyms": [
+      "畏缩不前",
+      "知难而退",
+      "随波逐流"
+    ]
+  },
+  {
+    "id": "chu-lei-ba-cui",
+    "text": "出类拔萃",
+    "pinyin": "chū lèi bá cuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "academic-achievement"
+    ],
+    "literal": "emerge · kind · rise above · crowd",
+    "natural": "Rising above one's kind and the crowd",
+    "meaning": {
+      "en": "Outstanding; head and shoulders above the rest.",
+      "zh": "超出同类之上。多指人的品德才能。"
+    },
+    "equivalents": [
+      "outstanding",
+      "head and shoulders above the rest",
+      "a cut above",
+      "top-notch"
+    ],
+    "examples": [
+      {
+        "zh": "她在同龄人中出类拔萃。",
+        "en": "She stands head and shoulders above her peers."
+      },
+      {
+        "zh": "这所学校培养了许多出类拔萃的人才。",
+        "en": "The school has produced many outstanding people."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "Mencius says of Confucius that he \"came forth from his kind and rose above the crowd\" (出于其类，拔乎其萃) — no one since humanity began had surpassed him.",
+        "zh": "《孟子》：\"出于其类，拔乎其萃，自生民以来，未有盛于孔子也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Praises people.",
+      "zh": "多作谓语、定语，称赞人。"
+    },
+    "synonyms": [
+      "鹤立鸡群",
+      "超群绝伦",
+      "卓尔不群"
+    ],
+    "antonyms": [
+      "平庸无奇",
+      "碌碌无为",
+      "庸庸碌碌"
+    ]
+  },
+  {
+    "id": "qian-chuang-bai-kong",
+    "text": "千疮百孔",
+    "pinyin": "qiān chuāng bǎi kǒng",
+    "variants": [
+      "百孔千疮"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "broken-or-useless-items",
+      "structural-problems"
+    ],
+    "literal": "thousand · sore · hundred · hole",
+    "natural": "A thousand wounds and a hundred holes",
+    "meaning": {
+      "en": "Riddled with holes and defects; badly damaged.",
+      "zh": "形容破坏得很严重，或弊病很多。"
+    },
+    "equivalents": [
+      "riddled with holes",
+      "full of holes",
+      "battered",
+      "in tatters"
+    ],
+    "examples": [
+      {
+        "zh": "战争过后，这座城市千疮百孔。",
+        "en": "After the war, the city was in ruins."
+      },
+      {
+        "zh": "这套制度千疮百孔，必须改革。",
+        "en": "This system is riddled with flaws and must be reformed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Also 百孔千疮.",
+      "zh": "多作谓语、定语。也作\"百孔千疮\"。"
+    },
+    "synonyms": [
+      "满目疮痍",
+      "漏洞百出",
+      "破败不堪"
+    ],
+    "antonyms": [
+      "完好无损",
+      "完美无缺",
+      "天衣无缝"
+    ]
+  },
+  {
+    "id": "chi-zhi-yi-bi",
+    "text": "嗤之以鼻",
+    "pinyin": "chī zhī yǐ bí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "body"
+    ],
+    "literal": "sneer · at it · with · nose",
+    "natural": "Snorting at it through the nose",
+    "meaning": {
+      "en": "To sniff at; to treat with contempt.",
+      "zh": "用鼻子吭声冷笑。表示瞧不起。"
+    },
+    "equivalents": [
+      "turn up one's nose at",
+      "sniff at",
+      "scoff at",
+      "pooh-pooh"
+    ],
+    "examples": [
+      {
+        "zh": "专家们对这种说法嗤之以鼻。",
+        "en": "Experts scoffed at the claim."
+      },
+      {
+        "zh": "他对名牌嗤之以鼻，只买实用的东西。",
+        "en": "He turns up his nose at brands and buys only practical things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often 对……嗤之以鼻. 嗤 is chī.",
+      "zh": "多作谓语，常用\"对……嗤之以鼻\"。"
+    },
+    "synonyms": [
+      "不屑一顾",
+      "付之一笑"
+    ],
+    "antonyms": [
+      "五体投地",
+      "刮目相看",
+      "肃然起敬"
+    ]
+  },
+  {
+    "id": "chun-yi-ang-ran",
+    "text": "春意盎然",
+    "pinyin": "chūn yì àng rán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "nature"
+    ],
+    "literal": "spring · feeling · abundant · (suffix)",
+    "natural": "Brimming with the feeling of spring",
+    "meaning": {
+      "en": "Full of the life and atmosphere of spring.",
+      "zh": "形容春天的气氛很浓。"
+    },
+    "equivalents": [
+      "spring is in the air",
+      "bursting with spring",
+      "springtime in full swing"
+    ],
+    "examples": [
+      {
+        "zh": "三月的江南春意盎然。",
+        "en": "Southern China in March is bursting with spring."
+      },
+      {
+        "zh": "校园里春意盎然，到处是盛开的花。",
+        "en": "Spring is in the air on campus, with flowers blooming everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 盎 is àng.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "春暖花开",
+      "鸟语花香",
+      "生机勃勃"
+    ],
+    "antonyms": [
+      "万木凋零",
+      "天寒地冻"
+    ]
+  },
+  {
+    "id": "qi-ren-you-tian",
+    "text": "杞人忧天",
+    "pinyin": "qǐ rén yōu tiān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "stories"
+    ],
+    "literal": "Qi · person · worry · sky",
+    "natural": "The man of Qi who feared the sky would fall",
+    "meaning": {
+      "en": "Needless worry; to worry about imaginary troubles.",
+      "zh": "比喻不必要的或缺乏根据的忧虑。"
+    },
+    "equivalents": [
+      "worry over nothing",
+      "a worrywart",
+      "cross that bridge when you come to it",
+      "Chicken Little"
+    ],
+    "examples": [
+      {
+        "zh": "你担心飞机会掉下来，真是杞人忧天。",
+        "en": "Worrying the plane will fall out of the sky is needless worry."
+      },
+      {
+        "zh": "这并非杞人忧天，人口老龄化确实是个问题。",
+        "en": "This isn't needless worry — population ageing really is a problem."
+      }
+    ],
+    "origin": {
+      "source": "《列子·天瑞》",
+      "story": {
+        "en": "A man of the state of Qi was so afraid the sky would fall and the earth collapse that he could neither eat nor sleep, until a friend explained that the sky was just air and the earth just soil.",
+        "zh": "杞国有人担心天塌地陷，以致寝食难安，后经人开导才放下心来。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. Often negated: 并非杞人忧天.",
+      "zh": "多作谓语、宾语，常用\"并非杞人忧天\"。"
+    },
+    "synonyms": [
+      "庸人自扰",
+      "无病呻吟",
+      "多此一举"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "无忧无虑",
+      "居安思危"
+    ]
+  },
+  {
+    "id": "wu-gui-yuan-zhu",
+    "text": "物归原主",
+    "pinyin": "wù guī yuán zhǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "daily"
+    ],
+    "literal": "thing · return · original · owner",
+    "natural": "The thing goes back to its owner",
+    "meaning": {
+      "en": "To return something to its rightful owner.",
+      "zh": "把东西归还给原来的主人。"
+    },
+    "equivalents": [
+      "return to its rightful owner",
+      "restored to its owner"
+    ],
+    "examples": [
+      {
+        "zh": "出租车司机把乘客丢失的钱包物归原主。",
+        "en": "The taxi driver returned the passenger's lost wallet to its owner."
+      },
+      {
+        "zh": "这批流失海外的文物终于物归原主。",
+        "en": "The relics lost overseas have finally been returned to their rightful owner."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "完璧归赵",
+      "失而复得"
+    ],
+    "antonyms": [
+      "据为己有",
+      "巧取豪夺"
+    ]
+  },
+  {
+    "id": "bu-yuan-wan-li",
+    "text": "不远万里",
+    "pinyin": "bù yuǎn wàn lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "not · consider far · ten thousand · li",
+    "natural": "Not counting ten thousand li as far",
+    "meaning": {
+      "en": "To travel a great distance without regard to how far it is.",
+      "zh": "不以万里为远。形容不怕路途遥远。"
+    },
+    "equivalents": [
+      "come all this way",
+      "travel halfway round the world",
+      "go the extra mile"
+    ],
+    "examples": [
+      {
+        "zh": "他不远万里来到中国学习中医。",
+        "en": "He travelled halfway round the world to China to study Chinese medicine."
+      },
+      {
+        "zh": "感谢各位嘉宾不远万里前来参会。",
+        "en": "Thank you to all our guests who came so far to attend."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial before verbs of coming. Formal and polite; common in speeches.",
+      "zh": "多作状语，常用于致辞。"
+    },
+    "synonyms": [
+      "千里迢迢",
+      "长途跋涉"
+    ],
+    "antonyms": [
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "tong-xiao-da-dan",
+    "text": "通宵达旦",
+    "pinyin": "tōng xiāo dá dàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily-time-periods",
+      "effort"
+    ],
+    "literal": "through · night · reach · dawn",
+    "natural": "Through the night until dawn",
+    "meaning": {
+      "en": "All night long, until dawn.",
+      "zh": "整整一夜，直到天亮。"
+    },
+    "equivalents": [
+      "all night long",
+      "pull an all-nighter",
+      "until the small hours",
+      "burn the midnight oil"
+    ],
+    "examples": [
+      {
+        "zh": "为了赶项目，他们通宵达旦地加班。",
+        "en": "They pulled an all-nighter to finish the project."
+      },
+      {
+        "zh": "除夕夜，很多人通宵达旦地守岁。",
+        "en": "On New Year's Eve, many people stay up all night."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "夜以继日",
+      "彻夜不眠",
+      "废寝忘食"
+    ],
+    "antonyms": [
+      "早睡早起"
+    ]
+  },
+  {
+    "id": "ru-yu-de-shui",
+    "text": "如鱼得水",
+    "pinyin": "rú yú dé shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "freedom"
+    ],
+    "literal": "like · fish · get · water",
+    "natural": "Like a fish finding water",
+    "meaning": {
+      "en": "In one's element; finding a congenial person or environment.",
+      "zh": "好像鱼得到水一样。比喻得到跟自己很投合的人或对自己很合适的环境。"
+    },
+    "equivalents": [
+      "like a duck to water",
+      "in one's element",
+      "a match made in heaven"
+    ],
+    "examples": [
+      {
+        "zh": "他换到销售部门后如鱼得水。",
+        "en": "He's in his element since moving to the sales department."
+      },
+      {
+        "zh": "她喜欢跟人打交道，当导游如鱼得水。",
+        "en": "She loves dealing with people and has taken to being a tour guide like a duck to water."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·蜀书·诸葛亮传》",
+      "story": {
+        "en": "When Liu Bei's old companions grumbled about his closeness to Zhuge Liang, he said: \"Having Kongming is like a fish having water\" (孤之有孔明，犹鱼之有水也).",
+        "zh": "刘备说：\"孤之有孔明，犹鱼之有水也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. About people in a suitable environment or partnership.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "得心应手",
+      "游刃有余",
+      "如虎添翼"
+    ],
+    "antonyms": [
+      "格格不入",
+      "水土不服",
+      "寸步难行"
+    ]
+  },
+  {
+    "id": "ou-xin-li-xue",
+    "text": "呕心沥血",
+    "pinyin": "ǒu xīn lì xuè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "excellent-writing"
+    ],
+    "literal": "vomit · heart · drip · blood",
+    "natural": "Coughing up one's heart and dripping blood",
+    "meaning": {
+      "en": "To pour one's heart and soul into work.",
+      "zh": "比喻费尽心思。多用于文艺创作或工作。"
+    },
+    "equivalents": [
+      "pour one's heart and soul into",
+      "blood, sweat and tears",
+      "a labour of love"
+    ],
+    "examples": [
+      {
+        "zh": "这部小说是他呕心沥血十年的作品。",
+        "en": "This novel is the result of ten years of blood, sweat and tears."
+      },
+      {
+        "zh": "老师们为学生呕心沥血。",
+        "en": "The teachers pour their heart and soul into their students."
+      }
+    ],
+    "origin": {
+      "source": "唐·李商隐《李长吉小传》",
+      "story": {
+        "en": "The poet Li He rode out daily jotting lines into a bag. His mother, seeing how full it was, said: \"This boy won't stop until he coughs up his heart\" (是儿要当呕出心乃已尔).",
+        "zh": "李贺每日骑驴觅句，投入锦囊。其母见囊中诗多，说：\"是儿要当呕出心乃已尔。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. 血 is xuè here (also xiě in speech).",
+      "zh": "多作谓语、定语。\"血\"读 xuè。"
+    },
+    "synonyms": [
+      "殚精竭虑",
+      "费尽心机",
+      "绞尽脑汁"
+    ],
+    "antonyms": [
+      "敷衍了事",
+      "粗制滥造",
+      "漫不经心"
+    ]
+  },
+  {
+    "id": "shao-zong-ji-shi",
+    "text": "稍纵即逝",
+    "pinyin": "shāo zòng jí shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-timing",
+      "time-management"
+    ],
+    "literal": "slightly · let go · then · vanish",
+    "natural": "Let go for a moment and it's gone",
+    "meaning": {
+      "en": "Fleeting; gone in an instant if not seized.",
+      "zh": "稍微一放松就消失了。形容时间或机会很容易失去。"
+    },
+    "equivalents": [
+      "fleeting",
+      "now or never",
+      "here today, gone tomorrow",
+      "blink and you'll miss it"
+    ],
+    "examples": [
+      {
+        "zh": "机会稍纵即逝，一定要抓住。",
+        "en": "Opportunities are fleeting — you must seize them."
+      },
+      {
+        "zh": "灵感稍纵即逝，他随身带着笔记本。",
+        "en": "Inspiration vanishes in an instant, so he carries a notebook."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《文与可画筼筜谷偃竹记》",
+      "story": {
+        "en": "Su Shi, describing his friend's bamboo painting, said one must paint the moment the image appears, \"like a falcon swooping on a rising hare — relax a little and it's gone\" (少纵则逝矣).",
+        "zh": "苏轼论画竹：\"急起从之，振笔直遂，以追其所见，如兔起鹘落，少纵则逝矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Opportunities, inspiration, time.",
+      "zh": "多作谓语，多指机会、灵感。"
+    },
+    "synonyms": [
+      "转瞬即逝",
+      "昙花一现",
+      "机不可失"
+    ],
+    "antonyms": [
+      "经久不衰",
+      "天长地久"
+    ]
+  },
+  {
+    "id": "qian-jun-yi-fa",
+    "text": "千钧一发",
+    "pinyin": "qiān jūn yī fà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "thousand · jun-weight · one · hair",
+    "natural": "A thousand jun hanging by one hair",
+    "meaning": {
+      "en": "A critical moment; hanging by a thread.",
+      "zh": "千钧重的东西挂在一根头发上。比喻情况万分危急。"
+    },
+    "equivalents": [
+      "hanging by a thread",
+      "in the nick of time",
+      "a close call",
+      "touch and go"
+    ],
+    "examples": [
+      {
+        "zh": "在这千钧一发之际，消防员冲进火场救出了孩子。",
+        "en": "At the critical moment, a firefighter rushed in and saved the child."
+      },
+      {
+        "zh": "列车在千钧一发之时刹住了车。",
+        "en": "The train braked in the nick of time."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《与孟尚书书》",
+      "story": {
+        "en": "Han Yu wrote that Confucianism in his time was \"as perilous as a thousand jun hung from a single hair\" (其危如一发引千钧).",
+        "zh": "韩愈《与孟尚书书》：\"其危如一发引千钧。\""
+      }
+    },
+    "usage": {
+      "en": "Usually 千钧一发之际/之时 (at the critical moment). 钧 = 30 jin; 发 is fà (hair).",
+      "zh": "常用\"千钧一发之际\"。\"发\"读 fà。"
+    },
+    "synonyms": [
+      "危在旦夕",
+      "迫在眉睫",
+      "岌岌可危"
+    ],
+    "antonyms": [
+      "安然无恙",
+      "高枕无忧",
+      "稳如泰山"
+    ]
+  },
+  {
+    "id": "fen-fa-tu-qiang",
+    "text": "奋发图强",
+    "pinyin": "fèn fā tú qiáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effort",
+      "high-aspirations"
+    ],
+    "literal": "rouse · exert · strive for · strong",
+    "natural": "Rousing oneself to become strong",
+    "meaning": {
+      "en": "To work hard to make oneself (or one's country) strong.",
+      "zh": "振作精神，努力谋求强盛。"
+    },
+    "equivalents": [
+      "strive to succeed",
+      "pull oneself up",
+      "work to get ahead"
+    ],
+    "examples": [
+      {
+        "zh": "失败后，他奋发图强，最终考上了研究生。",
+        "en": "After failing, he worked doubly hard and eventually got into graduate school."
+      },
+      {
+        "zh": "这个民族奋发图强，摆脱了贫困。",
+        "en": "Through determined effort, the nation lifted itself out of poverty."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal and motivating.",
+      "zh": "多作谓语，书面、勉励色彩。"
+    },
+    "synonyms": [
+      "发愤图强",
+      "自强不息",
+      "励精图治"
+    ],
+    "antonyms": [
+      "自暴自弃",
+      "萎靡不振",
+      "不思进取"
+    ]
+  },
+  {
+    "id": "yun-chou-wei-wo",
+    "text": "运筹帷幄",
+    "pinyin": "yùn chóu wéi wò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "leadership-and-authority"
+    ],
+    "literal": "move · counting-rods · tent · curtain",
+    "natural": "Planning strategy inside the command tent",
+    "meaning": {
+      "en": "To devise strategy from headquarters; masterful planning.",
+      "zh": "指在后方决定作战策略。泛指策划机要。"
+    },
+    "equivalents": [
+      "mastermind",
+      "pull the strings",
+      "the brains behind it",
+      "strategise"
+    ],
+    "examples": [
+      {
+        "zh": "教练运筹帷幄，球队赢得了冠军。",
+        "en": "With the coach masterminding the tactics, the team won the title."
+      },
+      {
+        "zh": "她在总部运筹帷幄，指挥全国的销售。",
+        "en": "She directs sales across the country from headquarters."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》",
+      "story": {
+        "en": "Liu Bang, founder of Han, praised his adviser Zhang Liang: \"Planning in the command tent and deciding victory a thousand li away — in this I am not Zifang's equal.\"",
+        "zh": "刘邦说：\"夫运筹策帷帐之中，决胜于千里之外，吾不如子房。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often paired with 决胜千里. 帷幄 is wéiwò.",
+      "zh": "多作谓语，常与\"决胜千里\"连用。"
+    },
+    "synonyms": [
+      "决胜千里",
+      "足智多谋",
+      "深谋远虑"
+    ],
+    "antonyms": [
+      "束手无策",
+      "有勇无谋"
+    ]
+  },
+  {
+    "id": "sheng-qing-bing-mao",
+    "text": "声情并茂",
+    "pinyin": "shēng qíng bìng mào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-acting",
+      "speech"
+    ],
+    "literal": "voice · feeling · both · rich",
+    "natural": "Rich in both voice and feeling",
+    "meaning": {
+      "en": "(Of a performance) with fine voice and deep feeling.",
+      "zh": "声音和感情都很丰富动人。多形容演唱、朗诵。"
+    },
+    "equivalents": [
+      "expressive",
+      "heartfelt",
+      "moving",
+      "with feeling"
+    ],
+    "examples": [
+      {
+        "zh": "她声情并茂地朗诵了一首诗。",
+        "en": "She recited a poem with great feeling."
+      },
+      {
+        "zh": "这场演出声情并茂，感动了观众。",
+        "en": "The heartfelt performance moved the audience."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. Singing, reciting, speeches.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "绘声绘色",
+      "有声有色",
+      "情真意切"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "干巴巴"
+    ]
+  },
+  {
+    "id": "an-bing-bu-dong",
+    "text": "按兵不动",
+    "pinyin": "àn bīng bù dòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "laziness-and-giving-up"
+    ],
+    "literal": "hold · troops · not · move",
+    "natural": "Holding the troops back without moving",
+    "meaning": {
+      "en": "To hold back and wait; to take no action for now.",
+      "zh": "使军队暂不行动。现也比喻接受任务后不肯行动，或暂时观望。"
+    },
+    "equivalents": [
+      "hold fire",
+      "wait and see",
+      "sit tight",
+      "bide one's time"
+    ],
+    "examples": [
+      {
+        "zh": "在形势明朗之前，我们先按兵不动。",
+        "en": "Until the situation is clearer, we'll sit tight."
+      },
+      {
+        "zh": "多数投资者按兵不动，等待政策出台。",
+        "en": "Most investors are holding fire until the policy is announced."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Can be strategic or criticise inaction.",
+      "zh": "多作谓语，可指策略性等待，也批评不行动。"
+    },
+    "synonyms": [
+      "静观其变",
+      "伺机而动",
+      "坐观成败"
+    ],
+    "antonyms": [
+      "闻风而动",
+      "先发制人",
+      "雷厉风行"
+    ]
+  },
+  {
+    "id": "mo-jian-jie-zhong",
+    "text": "摩肩接踵",
+    "pinyin": "mó jiān jiē zhǒng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "numbers",
+      "daily"
+    ],
+    "literal": "rub · shoulder · touch · heel",
+    "natural": "Shoulders rubbing and heels touching",
+    "meaning": {
+      "en": "Shoulder to shoulder; extremely crowded.",
+      "zh": "肩碰肩，脚碰脚。形容人很多，很拥挤。"
+    },
+    "equivalents": [
+      "shoulder to shoulder",
+      "packed like sardines",
+      "jam-packed",
+      "rubbing shoulders"
+    ],
+    "examples": [
+      {
+        "zh": "节假日的步行街上游客摩肩接踵。",
+        "en": "On holidays the pedestrian street is packed shoulder to shoulder."
+      },
+      {
+        "zh": "庙会上人们摩肩接踵，热闹非凡。",
+        "en": "At the temple fair people were packed in, and it was incredibly lively."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 踵 is zhǒng (heel).",
+      "zh": "多作谓语。\"踵\"读 zhǒng。"
+    },
+    "synonyms": [
+      "人山人海",
+      "熙熙攘攘",
+      "水泄不通"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "人迹罕至",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "hu-shi-dan-dan",
+    "text": "虎视眈眈",
+    "pinyin": "hǔ shì dān dān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "danger"
+    ],
+    "literal": "tiger · look · glaring · glaring",
+    "natural": "Glaring like a tiger",
+    "meaning": {
+      "en": "To eye greedily; watching menacingly, ready to pounce.",
+      "zh": "像老虎那样凶狠地盯着。形容贪婪地注视着，伺机攫取。"
+    },
+    "equivalents": [
+      "eye greedily",
+      "waiting to pounce",
+      "circling like vultures",
+      "cast covetous eyes on"
+    ],
+    "examples": [
+      {
+        "zh": "竞争对手对这个市场虎视眈眈。",
+        "en": "Rivals are eyeing this market greedily."
+      },
+      {
+        "zh": "几个大公司都对这家初创企业虎视眈眈。",
+        "en": "Several big companies are circling the start-up, waiting to pounce."
+      }
+    ],
+    "origin": {
+      "source": "《周易·颐》",
+      "story": {
+        "en": "The Book of Changes: \"The tiger looks with a fixed glare, its desire unceasing\" (虎视眈眈，其欲逐逐).",
+        "zh": "《周易·颐》：\"虎视眈眈，其欲逐逐。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate, often 对……虎视眈眈. 眈 is dān.",
+      "zh": "多作谓语，常用\"对……虎视眈眈\"。"
+    },
+    "synonyms": [
+      "垂涎三尺",
+      "觊觎已久"
+    ],
+    "antonyms": [
+      "漠然置之",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "wei-mi-bu-zhen",
+    "text": "萎靡不振",
+    "pinyin": "wěi mǐ bù zhèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "poor-health"
+    ],
+    "literal": "wilted · drooping · not · roused",
+    "natural": "Wilting and unable to rally",
+    "meaning": {
+      "en": "Listless and dispirited; sluggish.",
+      "zh": "形容精神颓丧，不能振作。也指经济等不景气。"
+    },
+    "equivalents": [
+      "listless",
+      "in the doldrums",
+      "down in the dumps",
+      "sluggish"
+    ],
+    "examples": [
+      {
+        "zh": "他失业后整天萎靡不振。",
+        "en": "Since losing his job he's been listless all day."
+      },
+      {
+        "zh": "房地产市场萎靡不振。",
+        "en": "The property market is in the doldrums."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. People or markets. 靡 is mǐ.",
+      "zh": "多作谓语、定语，可指人或市场。\"靡\"读 mǐ。"
+    },
+    "synonyms": [
+      "无精打采",
+      "垂头丧气",
+      "一蹶不振"
+    ],
+    "antonyms": [
+      "精神抖擞",
+      "朝气蓬勃",
+      "意气风发"
+    ]
+  },
+  {
+    "id": "du-zhan-ao-tou",
+    "text": "独占鳌头",
+    "pinyin": "dú zhàn áo tóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "alone · occupy · turtle · head",
+    "natural": "Standing alone on the turtle's head",
+    "meaning": {
+      "en": "To come first; to top the list.",
+      "zh": "原指科举考试中状元及第。后比喻占首位或第一名。"
+    },
+    "equivalents": [
+      "come out on top",
+      "take first place",
+      "top the charts",
+      "number one"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影在票房榜上独占鳌头。",
+        "en": "The film is top of the box office charts."
+      },
+      {
+        "zh": "他在全市数学竞赛中独占鳌头。",
+        "en": "He took first place in the city maths competition."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. In imperial palaces, the top exam candidate stood on the carved head of the giant turtle (鳌) on the palace steps.",
+      "zh": "多作谓语。旧时皇宫石阶上刻有巨鳌，状元站在鳌头上迎榜。"
+    },
+    "synonyms": [
+      "名列前茅",
+      "首屈一指",
+      "遥遥领先"
+    ],
+    "antonyms": [
+      "名落孙山",
+      "甘拜下风",
+      "敬陪末座"
+    ]
+  },
+  {
+    "id": "gu-wang-jin-lai",
+    "text": "古往今来",
+    "pinyin": "gǔ wǎng jīn lái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "historical-periods",
+      "time"
+    ],
+    "literal": "ancient · gone · now · come",
+    "natural": "From ancient times to the present",
+    "meaning": {
+      "en": "Throughout history; from ancient times to now.",
+      "zh": "从古到今。"
+    },
+    "equivalents": [
+      "throughout history",
+      "since time immemorial",
+      "through the ages"
+    ],
+    "examples": [
+      {
+        "zh": "古往今来，多少英雄为国捐躯。",
+        "en": "Throughout history, countless heroes have died for their country."
+      },
+      {
+        "zh": "古往今来，爱情都是文学的永恒主题。",
+        "en": "Through the ages, love has been literature's eternal theme."
+      }
+    ],
+    "usage": {
+      "en": "Usually an opening adverbial. Common in essays.",
+      "zh": "多作状语，常用于句首。作文常用。"
+    },
+    "synonyms": [
+      "自古以来",
+      "从古至今"
+    ],
+    "antonyms": []
+  }
+]
