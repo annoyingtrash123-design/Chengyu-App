@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "ba-miao-zhu-zhang",
+    "text": "拔苗助长",
+    "pinyin": "bá miáo zhù zhǎng",
+    "variants": [
+      "揠苗助长"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "farming-and-harvest"
+    ],
+    "literal": "pull · seedling · help · grow",
+    "natural": "Pulling up seedlings to help them grow",
+    "meaning": {
+      "en": "To spoil things through impatience; forcing growth and doing harm.",
+      "zh": "把苗拔起来帮助它生长。比喻违反事物的发展规律，急于求成，反而坏事。"
+    },
+    "equivalents": [
+      "more haste, less speed",
+      "rush things and ruin them",
+      "force the pace",
+      "a watched pot never boils"
+    ],
+    "examples": [
+      {
+        "zh": "让三岁孩子学微积分，简直是拔苗助长。",
+        "en": "Making a three-year-old learn calculus is forcing things and doing more harm than good."
+      },
+      {
+        "zh": "教育要循序渐进，不能拔苗助长。",
+        "en": "Education must be gradual — you can't force growth."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "A farmer from Song, worried his seedlings were growing too slowly, pulled each one up a little. He came home exhausted and said he had helped them grow. His son ran to look — the seedlings had all withered.",
+        "zh": "宋国有人嫌禾苗长得慢，就一棵棵往上拔，回家说：\"今日病矣！予助苗长矣！\"其子去看，苗都枯死了。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. 长 is zhǎng. The original form is 揠苗助长.",
+      "zh": "多作谓语、宾语。\"长\"读 zhǎng。原作\"揠苗助长\"。"
+    },
+    "synonyms": [
+      "急于求成",
+      "欲速则不达",
+      "操之过急"
+    ],
+    "antonyms": [
+      "循序渐进",
+      "水到渠成",
+      "顺其自然"
+    ]
+  },
+  {
+    "id": "wang-zi-fei-bo",
+    "text": "妄自菲薄",
+    "pinyin": "wàng zì fěi bó",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "giving-up-and-weakness"
+    ],
+    "literal": "recklessly · self · belittle · slight",
+    "natural": "Recklessly belittling oneself",
+    "meaning": {
+      "en": "To underestimate or belittle oneself.",
+      "zh": "过分看轻自己，形容自卑。"
+    },
+    "equivalents": [
+      "sell oneself short",
+      "put oneself down",
+      "underestimate oneself"
+    ],
+    "examples": [
+      {
+        "zh": "你很有才华，不要妄自菲薄。",
+        "en": "You're very talented — don't sell yourself short."
+      },
+      {
+        "zh": "我们既不能妄自尊大，也不能妄自菲薄。",
+        "en": "We should neither overrate ourselves nor sell ourselves short."
+      }
+    ],
+    "origin": {
+      "source": "三国·诸葛亮《出师表》",
+      "story": {
+        "en": "In his famous memorial before marching north, Zhuge Liang urged the young emperor \"not to belittle yourself recklessly or use improper analogies\" (不宜妄自菲薄，引喻失义).",
+        "zh": "诸葛亮《出师表》：\"不宜妄自菲薄，引喻失义，以塞忠谏之路也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Usually negated as advice. 菲 is fěi.",
+      "zh": "多作谓语，常用否定劝勉。\"菲\"读 fěi。"
+    },
+    "synonyms": [
+      "自惭形秽",
+      "自轻自贱"
+    ],
+    "antonyms": [
+      "妄自尊大",
+      "自高自大",
+      "夜郎自大"
+    ]
+  },
+  {
+    "id": "nong-qiao-cheng-zhuo",
+    "text": "弄巧成拙",
+    "pinyin": "nòng qiǎo chéng zhuō",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "play · clever · become · clumsy",
+    "natural": "Trying to be clever and ending up clumsy",
+    "meaning": {
+      "en": "To try to be clever and end up making a mess of things.",
+      "zh": "本想耍弄聪明，结果做了蠢事。"
+    },
+    "equivalents": [
+      "backfire",
+      "too clever by half",
+      "shoot oneself in the foot",
+      "overreach"
+    ],
+    "examples": [
+      {
+        "zh": "他想走捷径，结果弄巧成拙。",
+        "en": "He tried to take a shortcut and it backfired."
+      },
+      {
+        "zh": "过度修图反而弄巧成拙，照片显得很假。",
+        "en": "Over-editing backfired — the photo looks fake."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "适得其反",
+      "画蛇添足",
+      "聪明反被聪明误"
+    ],
+    "antonyms": [
+      "恰到好处",
+      "锦上添花",
+      "歪打正着"
+    ]
+  },
+  {
+    "id": "ting-tai-lou-ge",
+    "text": "亭台楼阁",
+    "pinyin": "tíng tái lóu gé",
+    "variants": [
+      "楼台亭阁"
+    ],
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "culture"
+    ],
+    "literal": "pavilion · terrace · tower · pavilion",
+    "natural": "Pavilions, terraces, towers and halls",
+    "meaning": {
+      "en": "The pavilions, terraces and towers of a traditional Chinese garden or palace.",
+      "zh": "泛指供游玩、观赏的各种建筑物。"
+    },
+    "equivalents": [
+      "pavilions and towers",
+      "classical garden architecture"
+    ],
+    "examples": [
+      {
+        "zh": "苏州园林里亭台楼阁错落有致。",
+        "en": "The pavilions and towers of Suzhou's gardens are artfully arranged."
+      },
+      {
+        "zh": "湖边的亭台楼阁倒映在水中。",
+        "en": "The lakeside pavilions are reflected in the water."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; a cultural set of four building types.",
+      "zh": "名词性，常作主语、宾语。"
+    },
+    "synonyms": [
+      "雕梁画栋"
+    ],
+    "antonyms": [
+      "茅屋草舍"
+    ]
+  },
+  {
+    "id": "qin-mi-wu-jian",
+    "text": "亲密无间",
+    "pinyin": "qīn mì wú jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "close · intimate · not have · gap",
+    "natural": "So close there is no gap between them",
+    "meaning": {
+      "en": "Very close and intimate; inseparable.",
+      "zh": "关系亲密，没有隔阂。"
+    },
+    "equivalents": [
+      "inseparable",
+      "as thick as thieves",
+      "joined at the hip",
+      "close-knit"
+    ],
+    "examples": [
+      {
+        "zh": "这对双胞胎亲密无间。",
+        "en": "The twins are inseparable."
+      },
+      {
+        "zh": "两国保持着亲密无间的合作。",
+        "en": "The two countries maintain very close cooperation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 间 is jiàn (gap).",
+      "zh": "多作谓语、定语。\"间\"读 jiàn。"
+    },
+    "synonyms": [
+      "形影不离",
+      "情同手足",
+      "水乳交融"
+    ],
+    "antonyms": [
+      "貌合神离",
+      "势不两立",
+      "若即若离"
+    ]
+  },
+  {
+    "id": "jian-bu-ke-cui",
+    "text": "坚不可摧",
+    "pinyin": "jiān bù kě cuī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "war"
+    ],
+    "literal": "firm · not · can · destroy",
+    "natural": "So firm it cannot be destroyed",
+    "meaning": {
+      "en": "Indestructible; impregnable.",
+      "zh": "非常坚固，摧毁不了。"
+    },
+    "equivalents": [
+      "indestructible",
+      "impregnable",
+      "unbreakable",
+      "rock-solid"
+    ],
+    "examples": [
+      {
+        "zh": "他们的友谊坚不可摧。",
+        "en": "Their friendship is unbreakable."
+      },
+      {
+        "zh": "这座城堡号称坚不可摧。",
+        "en": "The castle was said to be impregnable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "坚如磐石",
+      "牢不可破",
+      "固若金汤"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "摇摇欲坠",
+      "一触即溃"
+    ]
+  },
+  {
+    "id": "tian-hua-luan-zhui",
+    "text": "天花乱坠",
+    "pinyin": "tiān huā luàn zhuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "heavenly · flowers · wildly · fall",
+    "natural": "Heavenly flowers raining down",
+    "meaning": {
+      "en": "To talk something up extravagantly; exaggerated and unrealistic.",
+      "zh": "形容说话动听，但多为夸张不切实际。"
+    },
+    "equivalents": [
+      "talk something up",
+      "make it sound amazing",
+      "lay it on thick",
+      "the hard sell"
+    ],
+    "examples": [
+      {
+        "zh": "推销员把产品说得天花乱坠。",
+        "en": "The salesman made the product sound incredible."
+      },
+      {
+        "zh": "不管广告说得多么天花乱坠，都要理性消费。",
+        "en": "However amazing the ads make it sound, be sensible about spending."
+      }
+    ],
+    "usage": {
+      "en": "Complement (说得天花乱坠). From a Buddhist legend that a monk preached so movingly that heavenly flowers rained down.",
+      "zh": "多作补语。源自佛教传说：法师讲经感动上天，天花纷纷落下。"
+    },
+    "synonyms": [
+      "夸大其词",
+      "花言巧语",
+      "信口开河"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "实事求是",
+      "朴实无华"
+    ]
+  },
+  {
+    "id": "yi-bu-yi-qu",
+    "text": "亦步亦趋",
+    "pinyin": "yì bù yì qū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conformity-and-imitation"
+    ],
+    "literal": "also · walk · also · hurry",
+    "natural": "Walking when he walks, hurrying when he hurries",
+    "meaning": {
+      "en": "To slavishly imitate; to follow someone's every move.",
+      "zh": "别人走也走，别人跑也跑。比喻没有主张，或为讨好而事事模仿、追随别人。"
+    },
+    "equivalents": [
+      "follow like a sheep",
+      "copycat",
+      "ape",
+      "dance to someone's tune"
+    ],
+    "examples": [
+      {
+        "zh": "做设计不能亦步亦趋地模仿别人。",
+        "en": "In design you can't just copy others slavishly."
+      },
+      {
+        "zh": "小国不必对大国亦步亦趋。",
+        "en": "Small countries needn't follow every move of the big powers."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·田子方》",
+      "story": {
+        "en": "Yan Hui said to Confucius: \"When you walk, I walk; when you hurry, I hurry; when you run, I run — but when you dash off leaving no dust, I can only stare after you.\"",
+        "zh": "颜渊问于仲尼曰：\"夫子步亦步，夫子趋亦趋，夫子驰亦驰；夫子奔逸绝尘，而回瞠若乎后矣！\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "人云亦云",
+      "随声附和",
+      "邯郸学步"
+    ],
+    "antonyms": [
+      "独辟蹊径",
+      "独树一帜",
+      "别出心裁"
+    ]
+  },
+  {
+    "id": "qing-mei-zhu-ma",
+    "text": "青梅竹马",
+    "pinyin": "qīng méi zhú mǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "culture"
+    ],
+    "literal": "green · plum · bamboo · horse",
+    "natural": "Green plums and bamboo horses",
+    "meaning": {
+      "en": "Childhood sweethearts; friends who grew up together.",
+      "zh": "形容小儿女天真无邪玩耍的样子。后指男女幼时亲密无间。"
+    },
+    "equivalents": [
+      "childhood sweethearts",
+      "grew up together",
+      "known each other since they were kids"
+    ],
+    "examples": [
+      {
+        "zh": "他们是青梅竹马，后来结了婚。",
+        "en": "They were childhood sweethearts and later married."
+      },
+      {
+        "zh": "她和青梅竹马的好友多年没见了。",
+        "en": "She hasn't seen her childhood friend in years."
+      }
+    ],
+    "origin": {
+      "source": "唐·李白《长干行》",
+      "story": {
+        "en": "Li Bai's poem in a young wife's voice recalls childhood: \"You came riding a bamboo horse, circling the well-rail, playing with green plums\" (郎骑竹马来，绕床弄青梅).",
+        "zh": "李白《长干行》：\"郎骑竹马来，绕床弄青梅。同居长干里，两小无嫌猜。\""
+      }
+    },
+    "usage": {
+      "en": "Subject, object or attributive. Often with 两小无猜.",
+      "zh": "多作主语、宾语、定语，常与\"两小无猜\"连用。"
+    },
+    "synonyms": [
+      "两小无猜",
+      "总角之交"
+    ],
+    "antonyms": [
+      "萍水相逢",
+      "素不相识"
+    ]
+  },
+  {
+    "id": "an-yu-xian-zhuang",
+    "text": "安于现状",
+    "pinyin": "ān yú xiàn zhuàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "modest-goals"
+    ],
+    "literal": "content · with · present · situation",
+    "natural": "Content with things as they are",
+    "meaning": {
+      "en": "Content with the status quo; unwilling to change or improve.",
+      "zh": "满足于目前的状况，不求进取。"
+    },
+    "equivalents": [
+      "happy with the status quo",
+      "complacent",
+      "stuck in a comfort zone"
+    ],
+    "examples": [
+      {
+        "zh": "年轻人不能安于现状，要不断学习。",
+        "en": "Young people mustn't get complacent — keep learning."
+      },
+      {
+        "zh": "公司安于现状，结果被对手超越。",
+        "en": "The company stayed in its comfort zone and was overtaken by rivals."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually critical.",
+      "zh": "多作谓语，多含贬义。"
+    },
+    "synonyms": [
+      "故步自封",
+      "不思进取",
+      "得过且过"
+    ],
+    "antonyms": [
+      "精益求精",
+      "奋发图强",
+      "与时俱进"
+    ]
+  },
+  {
+    "id": "ren-cai-ji-ji",
+    "text": "人才济济",
+    "pinyin": "rén cái jǐ jǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "outstanding-character"
+    ],
+    "literal": "talent · talent · many · many",
+    "natural": "Talent in abundance",
+    "meaning": {
+      "en": "A wealth of talent.",
+      "zh": "形容有才能的人很多。"
+    },
+    "equivalents": [
+      "a wealth of talent",
+      "full of talented people",
+      "an all-star line-up"
+    ],
+    "examples": [
+      {
+        "zh": "这所大学人才济济。",
+        "en": "The university has a wealth of talent."
+      },
+      {
+        "zh": "公司研发部人才济济，创新能力很强。",
+        "en": "The R&D department is full of talented people and very innovative."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 济济 is jǐjǐ (not jìjì).",
+      "zh": "多作谓语。\"济济\"读 jǐ jǐ。"
+    },
+    "synonyms": [
+      "群英荟萃",
+      "藏龙卧虎"
+    ],
+    "antonyms": [
+      "人才匮乏",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "jiu-you-zi-qu",
+    "text": "咎由自取",
+    "pinyin": "jiù yóu zì qǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "revenge-and-retribution"
+    ],
+    "literal": "blame · from · self · take",
+    "natural": "The blame comes from oneself",
+    "meaning": {
+      "en": "To have only oneself to blame; brought it on oneself.",
+      "zh": "灾祸或罪过是自己招来的。"
+    },
+    "equivalents": [
+      "have only oneself to blame",
+      "asked for it",
+      "made one's bed and must lie in it",
+      "brought it on oneself"
+    ],
+    "examples": [
+      {
+        "zh": "他酒后驾车被抓，完全是咎由自取。",
+        "en": "He was caught drink-driving and has only himself to blame."
+      },
+      {
+        "zh": "这家公司破产是咎由自取。",
+        "en": "The company brought its bankruptcy on itself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 咎 is jiù.",
+      "zh": "多作谓语。\"咎\"读 jiù。"
+    },
+    "synonyms": [
+      "自作自受",
+      "作茧自缚",
+      "自食其果"
+    ],
+    "antonyms": [
+      "无辜受累",
+      "飞来横祸"
+    ]
+  },
+  {
+    "id": "shang-xing-xia-xiao",
+    "text": "上行下效",
+    "pinyin": "shàng xíng xià xiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "conformity-and-imitation"
+    ],
+    "literal": "above · act · below · imitate",
+    "natural": "What those above do, those below copy",
+    "meaning": {
+      "en": "Subordinates follow the example of their superiors (usually bad).",
+      "zh": "上面的人怎么做，下面的人就跟着怎么做（多指坏的）。"
+    },
+    "equivalents": [
+      "monkey see, monkey do",
+      "the fish rots from the head",
+      "set the tone from the top"
+    ],
+    "examples": [
+      {
+        "zh": "领导带头迟到，上行下效，员工也不守时了。",
+        "en": "The boss is always late, so the staff follow suit — monkey see, monkey do."
+      },
+      {
+        "zh": "父母是孩子的榜样，上行下效。",
+        "en": "Parents are role models — children copy what they do."
+      }
+    ],
+    "origin": {
+      "source": "汉·班固《白虎通·三教》",
+      "story": {
+        "en": "The Han text explains teaching (教) as imitation (效): \"those above do it, and those below imitate it\" (上为之，下效之).",
+        "zh": "班固《白虎通》：\"教者，效也，上为之，下效之。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often about bad examples.",
+      "zh": "多作谓语，多指坏风气。"
+    },
+    "synonyms": [
+      "以身作则",
+      "言传身教"
+    ],
+    "antonyms": [
+      "各行其是"
+    ]
+  },
+  {
+    "id": "deng-hong-jiu-lu",
+    "text": "灯红酒绿",
+    "pinyin": "dēng hóng jiǔ lǜ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "daily-time-periods",
+      "fine-cuisine"
+    ],
+    "literal": "lamp · red · wine · green",
+    "natural": "Red lanterns and green wine",
+    "meaning": {
+      "en": "The glitter of nightlife; a life of decadent pleasure.",
+      "zh": "形容寻欢作乐的腐化生活，也形容都市夜生活繁华。"
+    },
+    "equivalents": [
+      "bright lights",
+      "the high life",
+      "wine, women and song",
+      "nightlife"
+    ],
+    "examples": [
+      {
+        "zh": "他迷失在城市的灯红酒绿中。",
+        "en": "He lost himself in the city's bright lights."
+      },
+      {
+        "zh": "有些官员整天出入灯红酒绿的场所。",
+        "en": "Some officials spend all their time in nightclubs and bars."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object. Usually implies decadence.",
+      "zh": "多作定语、宾语，多含贬义。"
+    },
+    "synonyms": [
+      "纸醉金迷",
+      "花天酒地",
+      "醉生梦死"
+    ],
+    "antonyms": [
+      "粗茶淡饭",
+      "清心寡欲"
+    ]
+  },
+  {
+    "id": "suo-xiang-pi-mi",
+    "text": "所向披靡",
+    "pinyin": "suǒ xiàng pī mǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "where · face · scatter · collapse",
+    "natural": "Wherever it goes, all collapse before it",
+    "meaning": {
+      "en": "Invincible; sweeping all before one.",
+      "zh": "力量所到之处，敌人纷纷溃败。比喻力量强大，所向无敌。"
+    },
+    "equivalents": [
+      "sweep all before one",
+      "invincible",
+      "unbeatable",
+      "carry all before one"
+    ],
+    "examples": [
+      {
+        "zh": "这支球队本赛季所向披靡，未尝一败。",
+        "en": "The team has swept all before it this season, unbeaten."
+      },
+      {
+        "zh": "新产品上市后所向披靡，迅速占领了市场。",
+        "en": "After launch the new product was unbeatable and quickly took over the market."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 靡 is mǐ.",
+      "zh": "多作谓语。\"靡\"读 mǐ。"
+    },
+    "synonyms": [
+      "势不可挡",
+      "锐不可当",
+      "战无不胜"
+    ],
+    "antonyms": [
+      "溃不成军",
+      "一触即溃",
+      "节节败退"
+    ]
+  },
+  {
+    "id": "shan-shuo-qi-ci",
+    "text": "闪烁其词",
+    "pinyin": "shǎn shuò qí cí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "flicker · twinkle · his · words",
+    "natural": "Words flickering and wavering",
+    "meaning": {
+      "en": "To be evasive; to speak vaguely to avoid the truth.",
+      "zh": "说话吞吞吐吐，不肯透露真相或回避要害问题。"
+    },
+    "equivalents": [
+      "evasive",
+      "beat about the bush",
+      "hedge",
+      "equivocate"
+    ],
+    "examples": [
+      {
+        "zh": "问他钱去哪儿了，他闪烁其词。",
+        "en": "When asked where the money went, he was evasive."
+      },
+      {
+        "zh": "发言人对这个问题闪烁其词。",
+        "en": "The spokesperson hedged on the question."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "含糊其辞",
+      "支支吾吾",
+      "吞吞吐吐"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开门见山",
+      "直截了当"
+    ]
+  },
+  {
+    "id": "feng-can-lu-su",
+    "text": "风餐露宿",
+    "pinyin": "fēng cān lù sù",
+    "variants": [
+      "餐风宿露"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "journeys-and-exploration"
+    ],
+    "literal": "wind · eat · dew · sleep",
+    "natural": "Eating in the wind and sleeping in the dew",
+    "meaning": {
+      "en": "To endure the hardships of travel or outdoor life.",
+      "zh": "在风里吃饭，在露天睡觉。形容旅途或野外生活的艰苦。"
+    },
+    "equivalents": [
+      "rough it",
+      "sleep under the stars",
+      "live rough",
+      "brave the elements"
+    ],
+    "examples": [
+      {
+        "zh": "勘探队员风餐露宿，在沙漠里工作了半年。",
+        "en": "The survey team roughed it in the desert for six months."
+      },
+      {
+        "zh": "他骑车环游中国，一路风餐露宿。",
+        "en": "He cycled around China, sleeping rough along the way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 宿 is sù.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "栉风沐雨",
+      "风尘仆仆"
+    ],
+    "antonyms": [
+      "养尊处优",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "guo-jie-lao-shu",
+    "text": "过街老鼠",
+    "pinyin": "guò jiē lǎo shǔ",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "animal-behavior-metaphors",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "cross · street · rat",
+    "natural": "A rat crossing the street",
+    "meaning": {
+      "en": "Someone universally hated.",
+      "zh": "比喻人人痛恨的人或事物。"
+    },
+    "equivalents": [
+      "public enemy number one",
+      "a pariah",
+      "universally loathed"
+    ],
+    "examples": [
+      {
+        "zh": "骗子成了过街老鼠，人人喊打。",
+        "en": "The con man became a pariah, hated by all."
+      },
+      {
+        "zh": "假货在这里就像过街老鼠。",
+        "en": "Fakes here are universally loathed."
+      }
+    ],
+    "usage": {
+      "en": "Usually in 过街老鼠，人人喊打 (a rat crossing the street — everyone shouts \"kill it\").",
+      "zh": "常说\"过街老鼠，人人喊打\"。"
+    },
+    "synonyms": [
+      "众矢之的",
+      "千夫所指"
+    ],
+    "antonyms": [
+      "众望所归",
+      "人见人爱"
+    ]
+  },
+  {
+    "id": "yin-zhen-zhi-ke",
+    "text": "饮鸩止渴",
+    "pinyin": "yǐn zhèn zhǐ kě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "natural-consequences"
+    ],
+    "literal": "drink · poison · stop · thirst",
+    "natural": "Drinking poison to quench thirst",
+    "meaning": {
+      "en": "A short-term fix that causes disaster later.",
+      "zh": "喝毒酒来解渴。比喻用错误的办法解决眼前困难，不顾严重后果。"
+    },
+    "equivalents": [
+      "a quick fix that backfires",
+      "rob Peter to pay Paul",
+      "a cure worse than the disease",
+      "short-termism"
+    ],
+    "examples": [
+      {
+        "zh": "借高利贷还债无异于饮鸩止渴。",
+        "en": "Borrowing from loan sharks to pay off debts is a cure worse than the disease."
+      },
+      {
+        "zh": "靠降价抢市场是饮鸩止渴。",
+        "en": "Slashing prices to win market share is a short-term fix that will backfire."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·霍谞传》",
+      "story": {
+        "en": "Huo Xu wrote that a wrong remedy is \"like curing hunger with aconite, or quenching thirst with zhen poison — before they reach the stomach, the throat is already cut off\".",
+        "zh": "《后汉书·霍谞传》：\"譬犹疗饥于附子，止渴于鸩毒，未入肠胃，已绝咽喉。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. 鸩 is zhèn (a legendary poison bird).",
+      "zh": "多作谓语、宾语。\"鸩\"读 zhèn。"
+    },
+    "synonyms": [
+      "剜肉补疮",
+      "杀鸡取卵",
+      "竭泽而渔"
+    ],
+    "antonyms": [
+      "从长计议",
+      "深谋远虑"
+    ]
+  },
+  {
+    "id": "lan-yu-chong-shu",
+    "text": "滥竽充数",
+    "pinyin": "làn yú chōng shù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "artistic-mediocrity"
+    ],
+    "literal": "incompetent · reed pipe · fill · number",
+    "natural": "An incompetent piper making up the numbers",
+    "meaning": {
+      "en": "To pass oneself off as competent; to make up the numbers without real ability.",
+      "zh": "不会吹竽的人混在吹竽的队伍里充数。比喻无本领的冒充有本领，次货冒充好货。"
+    },
+    "equivalents": [
+      "make up the numbers",
+      "a passenger",
+      "fake it",
+      "pad out"
+    ],
+    "examples": [
+      {
+        "zh": "团队里不能有人滥竽充数。",
+        "en": "No one on the team can just make up the numbers."
+      },
+      {
+        "zh": "这本书有些章节是滥竽充数的。",
+        "en": "Some chapters of this book are just padding."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·内储说上》",
+      "story": {
+        "en": "King Xuan of Qi liked to hear the yu pipe played by 300 musicians together. Mr Nanguo, who couldn't play, joined in and drew a salary. When the next king wanted solos, Mr Nanguo fled.",
+        "zh": "齐宣王喜欢听三百人合奏竽，南郭先生不会吹也混在其中。齐湣王即位后喜欢听独奏，南郭先生只好逃走。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Also used modestly of oneself (我只是滥竽充数).",
+      "zh": "多作谓语，也可用作自谦。"
+    },
+    "synonyms": [
+      "鱼目混珠",
+      "以次充好",
+      "名不副实"
+    ],
+    "antonyms": [
+      "货真价实",
+      "名副其实",
+      "出类拔萃"
+    ]
+  },
+  {
+    "id": "wu-gu-feng-deng",
+    "text": "五谷丰登",
+    "pinyin": "wǔ gǔ fēng dēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "festivals-and-celebrations"
+    ],
+    "literal": "five · grains · abundant · ripen",
+    "natural": "The five grains ripening in abundance",
+    "meaning": {
+      "en": "A bumper harvest of all crops.",
+      "zh": "指年成好，粮食丰收。"
+    },
+    "equivalents": [
+      "a bumper harvest",
+      "a bountiful harvest"
+    ],
+    "examples": [
+      {
+        "zh": "今年风调雨顺，五谷丰登。",
+        "en": "The weather was kind this year, and there was a bumper harvest."
+      },
+      {
+        "zh": "春节对联上写着\"五谷丰登\"。",
+        "en": "The Spring Festival couplet reads \"a bumper harvest\"."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common in New Year wishes, often with 六畜兴旺.",
+      "zh": "多作谓语，常与\"六畜兴旺\"连用。"
+    },
+    "synonyms": [
+      "风调雨顺",
+      "硕果累累"
+    ],
+    "antonyms": [
+      "颗粒无收",
+      "饿殍遍野"
+    ]
+  },
+  {
+    "id": "zuo-er-lun-dao",
+    "text": "坐而论道",
+    "pinyin": "zuò ér lùn dào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "laziness-and-giving-up"
+    ],
+    "literal": "sit · and · discuss · principles",
+    "natural": "Sitting and discussing principles",
+    "meaning": {
+      "en": "To talk theory without taking action.",
+      "zh": "原指坐着议论政事。后泛指空谈大道理，不付诸行动。"
+    },
+    "equivalents": [
+      "all talk and no action",
+      "armchair theorising",
+      "talk the talk but not walk the walk"
+    ],
+    "examples": [
+      {
+        "zh": "坐而论道不如起而行之。",
+        "en": "Better to get up and act than to sit and talk."
+      },
+      {
+        "zh": "解决问题不能坐而论道，要拿出办法。",
+        "en": "You can't solve problems by theorising — come up with solutions."
+      }
+    ],
+    "origin": {
+      "source": "《周礼·考工记》",
+      "story": {
+        "en": "The Rites of Zhou: \"Those who sit and discuss the Way are called kings and dukes; those who rise and carry it out are called officers\" (坐而论道，谓之王公；作而行之，谓之士大夫).",
+        "zh": "《周礼·考工记》：\"坐而论道，谓之王公；作而行之，谓之士大夫。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often contrasted with 起而行之.",
+      "zh": "多作谓语，常与\"起而行之\"对举。"
+    },
+    "synonyms": [
+      "纸上谈兵",
+      "夸夸其谈",
+      "空谈误国"
+    ],
+    "antonyms": [
+      "身体力行",
+      "脚踏实地",
+      "起而行之"
+    ]
+  },
+  {
+    "id": "wu-zu-qing-zhong",
+    "text": "无足轻重",
+    "pinyin": "wú zú qīng zhòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "common-and-worthless",
+      "relative-measurements"
+    ],
+    "literal": "not · enough · light · heavy",
+    "natural": "Not enough to tip the scales",
+    "meaning": {
+      "en": "Of no importance; insignificant.",
+      "zh": "无关紧要，不值得重视。"
+    },
+    "equivalents": [
+      "of no consequence",
+      "insignificant",
+      "neither here nor there",
+      "small fry"
+    ],
+    "examples": [
+      {
+        "zh": "这只是一个无足轻重的小错误。",
+        "en": "It's just an insignificant little mistake."
+      },
+      {
+        "zh": "在他眼里，我的意见无足轻重。",
+        "en": "In his eyes, my opinion counts for nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "微不足道",
+      "无关紧要",
+      "可有可无"
+    ],
+    "antonyms": [
+      "举足轻重",
+      "至关重要",
+      "不可或缺"
+    ]
+  },
+  {
+    "id": "yi-shan-lan-lu",
+    "text": "衣衫褴褛",
+    "pinyin": "yī shān lán lǚ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "simple-or-poor-clothing",
+      "poverty-and-hardship"
+    ],
+    "literal": "clothes · shirt · ragged · tattered",
+    "natural": "Clothes ragged and tattered",
+    "meaning": {
+      "en": "Dressed in rags.",
+      "zh": "衣服破破烂烂。"
+    },
+    "equivalents": [
+      "in rags",
+      "in tatters",
+      "down at heel",
+      "threadbare"
+    ],
+    "examples": [
+      {
+        "zh": "一个衣衫褴褛的老人坐在路边。",
+        "en": "An old man in rags sat by the roadside."
+      },
+      {
+        "zh": "难民们衣衫褴褛，饥寒交迫。",
+        "en": "The refugees were in tatters, cold and hungry."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 褴褛 is lánlǚ.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "破衣烂衫",
+      "蓬头垢面"
+    ],
+    "antonyms": [
+      "衣冠楚楚",
+      "西装革履",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "pai-shan-dao-hai",
+    "text": "排山倒海",
+    "pinyin": "pái shān dǎo hǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "nature"
+    ],
+    "literal": "push · mountain · overturn · sea",
+    "natural": "Pushing over mountains and overturning seas",
+    "meaning": {
+      "en": "Overwhelming; with irresistible force.",
+      "zh": "推开高山，翻倒大海。形容力量强盛，声势浩大。"
+    },
+    "equivalents": [
+      "overwhelming",
+      "a tidal wave",
+      "with irresistible force",
+      "earth-shaking"
+    ],
+    "examples": [
+      {
+        "zh": "观众的掌声排山倒海般响起。",
+        "en": "The audience's applause thundered like a tidal wave."
+      },
+      {
+        "zh": "改革的浪潮以排山倒海之势席卷全国。",
+        "en": "The wave of reform swept the country with overwhelming force."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or adverbial (排山倒海般/之势).",
+      "zh": "多作定语、状语。"
+    },
+    "synonyms": [
+      "势不可挡",
+      "翻江倒海",
+      "气势磅礴"
+    ],
+    "antonyms": [
+      "微不足道",
+      "风平浪静"
+    ]
+  }
+]
