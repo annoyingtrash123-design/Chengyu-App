@@ -11,7 +11,7 @@ export async function renderHome(root: HTMLElement) {
     h(
       "header",
       { class: "hero" },
-      h("div", { class: "hero-title" }, "成语词典"),
+      h("div", { class: "hero-title" }, h("span", { class: "hero-mark", "aria-hidden": "true" }, h("i"), h("i"), h("i"), h("i")), "成语词典"),
       h("div", { class: "hero-sub" }, en() ? "Chengyu & proverbs" : "成语 · 俗语 · 歇后语 · 惯用语"),
     ),
     h(

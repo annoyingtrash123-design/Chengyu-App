@@ -1,20 +1,22 @@
 :root {
-  --bg: #f7f2e8;
-  --surface: #fffdf8;
-  --surface-2: #f0e8d8;
-  --ink: #2a2420;
-  --muted: #7a6e63;
-  --line: #e4d9c6;
-  --accent: #b22222;
-  --accent-ink: #fff8ee;
-  --accent-soft: #f6dcd6;
-  --gold: #c8962e;
-  --good: #2e7d4f;
-  --good-soft: #dcefe2;
-  --bad: #b3261e;
-  --bad-soft: #f9dedc;
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --surface-2: #f0efeb;
+  --ink: #1f2328;
+  --muted: #6b7078;
+  --line: #e3e3df;
+  --accent: #e03a2e;
+  --accent-ink: #ffffff;
+  --accent-soft: #fde4e1;
+  --gold: #e0a800;
+  --good: #1e9e6a;
+  --good-soft: #dcf3e8;
+  --bad: #d63a2e;
+  --bad-soft: #fde4e1;
+  --blue: #2e6fd8;
+  --blue-soft: #e2ecfb;
   --radius: 14px;
-  --shadow: 0 1px 2px rgb(60 40 20 / 8%), 0 4px 14px rgb(60 40 20 / 6%);
+  --shadow: 0 1px 2px rgb(20 20 30 / 6%), 0 4px 14px rgb(20 20 30 / 5%);
   --hanzi: "Noto Serif SC", "Songti SC", "STSong", "SimSun", "Noto Serif CJK SC", serif;
   --sans: system-ui, -apple-system, "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
   color-scheme: light;
@@ -22,20 +24,22 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #17130f;
-    --surface: #221c17;
-    --surface-2: #2d251e;
-    --ink: #f1e9dd;
-    --muted: #a99c8d;
-    --line: #3a3028;
-    --accent: #e0574a;
-    --accent-ink: #1a0f0c;
-    --accent-soft: #4a2420;
-    --gold: #e0b45a;
-    --good: #6fcf97;
-    --good-soft: #1f3a2a;
-    --bad: #ff8a80;
-    --bad-soft: #4a2220;
+    --bg: #15171a;
+    --surface: #1e2125;
+    --surface-2: #282c31;
+    --ink: #eceef1;
+    --muted: #9aa0a8;
+    --line: #33373d;
+    --accent: #ff5a4c;
+    --accent-ink: #1a0b09;
+    --accent-soft: #46211e;
+    --gold: #ffc233;
+    --good: #3dd17b;
+    --good-soft: #17352a;
+    --bad: #ff7a6e;
+    --bad-soft: #46211e;
+    --blue: #5c9bff;
+    --blue-soft: #1c2b44;
     --shadow: none;
     color-scheme: dark;
   }
@@ -81,7 +85,7 @@ button { cursor: pointer; }
 .icon-btn.fav.on { color: var(--accent); }
 
 .hero { padding: 20px 4px 4px; }
-.hero-title { font-family: var(--hanzi); font-size: 34px; font-weight: 700; color: var(--accent); letter-spacing: 0.08em; }
+.hero-title { font-family: var(--hanzi); font-size: 34px; font-weight: 700; color: var(--ink); letter-spacing: 0.08em; }
 .hero-sub { color: var(--muted); }
 
 /* ---------- Cards ---------- */
@@ -204,7 +208,7 @@ mark { background: var(--accent-soft); color: inherit; border-radius: 3px; paddi
 .grade { padding: 12px 4px; }
 .grade-again { color: var(--bad); }
 .grade-good { color: var(--good); }
-.grade-easy { color: #2d5b8a; }
+.grade-easy { color: var(--blue); }
 .big-emoji { font-size: 48px; }
 .score { font-size: 40px; font-weight: 800; margin: 0; }
 
@@ -282,3 +286,16 @@ input[type="time"].num-input { width: 130px; }
 .theme-group-row { display: flex; gap: 6px; align-items: center; }
 .chip.expander { color: var(--muted); }
 .theme-children { padding: 6px 0 4px 14px; border-left: 2px solid var(--line); margin-left: 10px; }
+
+/* Quick-link and game icons cycle through the four logo colours. */
+.quick:nth-child(4n+1) .quick-icon, .game:nth-child(4n+1) .game-icon { background: var(--accent-soft); color: var(--accent); }
+.quick:nth-child(4n+2) .quick-icon, .game:nth-child(4n+2) .game-icon { background: #fff3cc; color: #b58500; }
+.quick:nth-child(4n+3) .quick-icon, .game:nth-child(4n+3) .game-icon { background: var(--good-soft); color: var(--good); }
+.quick:nth-child(4n+4) .quick-icon, .game:nth-child(4n+4) .game-icon { background: var(--blue-soft); color: var(--blue); }
+@media (prefers-color-scheme: dark) {
+  .quick:nth-child(4n+2) .quick-icon, .game:nth-child(4n+2) .game-icon { background: #3a3215; color: var(--gold); }
+}
+.hero-mark { display: inline-grid; grid-template-columns: 1fr 1fr; gap: 3px; width: 26px; height: 26px; margin-right: 10px; vertical-align: -3px; }
+.hero-mark i { border-radius: 3px; }
+.hero-mark i:nth-child(1) { background: #e63b2e; } .hero-mark i:nth-child(2) { background: #f5b800; }
+.hero-mark i:nth-child(3) { background: #1e9e6a; } .hero-mark i:nth-child(4) { background: #2e6fd8; }
