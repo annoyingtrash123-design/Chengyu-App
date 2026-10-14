@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "si-shi-er-fei",
+    "text": "似是而非",
+    "pinyin": "sì shì ér fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "confusion-and-doubt",
+      "confucian-classics"
+    ],
+    "literal": "seem · right · yet · wrong",
+    "natural": "plausible but wrong",
+    "meaning": {
+      "en": "Seemingly right but actually wrong.",
+      "zh": "好像是对的，实际上不对。"
+    },
+    "equivalents": [
+      "specious",
+      "plausible but wrong",
+      "superficially convincing"
+    ],
+    "examples": [
+      {
+        "zh": "网上流传着许多似是而非的健康知识。",
+        "en": "A lot of specious health advice circulates online."
+      },
+      {
+        "zh": "他的解释似是而非，经不起推敲。",
+        "en": "His explanation sounds plausible but doesn't hold up."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心下》",
+      "story": {
+        "en": "Mencius quotes Confucius: 'I hate what seems right but is not' (恶似而非者), such as weeds that look like grain.",
+        "zh": "《孟子·尽心下》：“孔子曰：恶似而非者：恶莠，恐其乱苗也……”"
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "鱼目混珠",
+      "以假乱真"
+    ],
+    "antonyms": [
+      "千真万确",
+      "确凿无疑"
+    ]
+  },
+  {
+    "id": "han-xin-ru-ku",
+    "text": "含辛茹苦",
+    "pinyin": "hán xīn rú kǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "茹苦含辛"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "filial-piety"
+    ],
+    "literal": "hold · bitter · eat · hardship",
+    "natural": "endure great hardship",
+    "meaning": {
+      "en": "To endure all kinds of hardship, typically while raising a family.",
+      "zh": "形容忍受辛苦或受尽辛苦。"
+    },
+    "equivalents": [
+      "endure great hardship",
+      "toil and suffer",
+      "make countless sacrifices"
+    ],
+    "examples": [
+      {
+        "zh": "母亲含辛茹苦把我们兄妹三人抚养成人。",
+        "en": "Mother endured every hardship to bring the three of us up."
+      },
+      {
+        "zh": "他含辛茹苦经营小店二十年。",
+        "en": "He toiled for twenty years running his little shop."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate; often with 抚养/养大.",
+      "zh": "多作状语、谓语，常与“抚养”连用。"
+    },
+    "synonyms": [
+      "千辛万苦",
+      "历尽艰辛"
+    ],
+    "antonyms": [
+      "养尊处优",
+      "饱食终日"
+    ]
+  },
+  {
+    "id": "tan-zang-wang-fa",
+    "text": "贪赃枉法",
+    "pinyin": "tān zāng wǎng fǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "covet · bribes · bend · law",
+    "natural": "take bribes and pervert the law",
+    "meaning": {
+      "en": "To take bribes and bend the law.",
+      "zh": "贪污受贿，违犯法纪。"
+    },
+    "equivalents": [
+      "take bribes and pervert justice",
+      "corrupt"
+    ],
+    "examples": [
+      {
+        "zh": "这名官员因贪赃枉法被判刑。",
+        "en": "The official was jailed for taking bribes and perverting the law."
+      },
+      {
+        "zh": "贪赃枉法的人终将受到惩罚。",
+        "en": "Those who take bribes and bend the law will be punished in the end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; legal and news register.",
+      "zh": "多作谓语、定语；常见于法律、新闻。"
+    },
+    "synonyms": [
+      "徇私枉法",
+      "以权谋私",
+      "营私舞弊"
+    ],
+    "antonyms": [
+      "廉洁奉公",
+      "秉公执法",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "zhao-bing-mai-ma",
+    "text": "招兵买马",
+    "pinyin": "zhāo bīng mǎi mǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "military-strategy-and-victory",
+      "leadership-and-authority"
+    ],
+    "literal": "recruit · soldiers · buy · horses",
+    "natural": "recruit staff",
+    "meaning": {
+      "en": "Originally to raise an army; now to recruit people or expand a team.",
+      "zh": "原指组织或扩充武装力量，现也比喻扩充人员。"
+    },
+    "equivalents": [
+      "recruit",
+      "build up a team",
+      "staff up"
+    ],
+    "examples": [
+      {
+        "zh": "公司刚拿到融资，正在招兵买马。",
+        "en": "The company has just raised funding and is busy hiring."
+      },
+      {
+        "zh": "新校长上任后招兵买马，引进了不少名师。",
+        "en": "The new head built up the team, bringing in many top teachers."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial for hiring.",
+      "zh": "多作谓语；口语中指招人。"
+    },
+    "synonyms": [
+      "广纳贤才"
+    ],
+    "antonyms": [
+      "裁员减员"
+    ]
+  },
+  {
+    "id": "feng-yu-piao-yao",
+    "text": "风雨飘摇",
+    "pinyin": "fēng yǔ piāo yáo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "dead-ends-and-desperation",
+      "poems-prose"
+    ],
+    "literal": "wind · rain · drift · sway",
+    "natural": "tottering",
+    "meaning": {
+      "en": "Buffeted by wind and rain; precarious and unstable.",
+      "zh": "在风雨中飘荡不定，比喻局势动荡不安。"
+    },
+    "equivalents": [
+      "tottering",
+      "precarious",
+      "on shaky ground"
+    ],
+    "examples": [
+      {
+        "zh": "清朝末年，国家风雨飘摇。",
+        "en": "In the last years of the Qing, the country was tottering."
+      },
+      {
+        "zh": "这家风雨飘摇的公司终于宣布破产。",
+        "en": "The struggling company finally declared bankruptcy."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·豳风·鸱鸮》",
+      "story": {
+        "en": "The owl laments: 'my nest is in danger, tossed by wind and rain' (予室翘翘，风雨所漂摇).",
+        "zh": "《诗经·鸱鸮》：“予室翘翘，风雨所漂摇。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "岌岌可危",
+      "摇摇欲坠"
+    ],
+    "antonyms": [
+      "坚如磐石",
+      "稳如泰山"
+    ]
+  },
+  {
+    "id": "dan-jing-jie-lu",
+    "text": "殚精竭虑",
+    "pinyin": "dān jīng jié lǜ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "high-aspirations"
+    ],
+    "literal": "exhaust · energy · use-up · thought",
+    "natural": "rack one's brains",
+    "meaning": {
+      "en": "To exhaust all one's energy and thought.",
+      "zh": "用尽精力，费尽心思。"
+    },
+    "equivalents": [
+      "rack one's brains",
+      "spare no effort",
+      "devote oneself heart and soul"
+    ],
+    "examples": [
+      {
+        "zh": "为了这个项目，他殚精竭虑，日夜操劳。",
+        "en": "He poured all his energy into the project, working day and night."
+      },
+      {
+        "zh": "老校长为学校的发展殚精竭虑。",
+        "en": "The old headmaster gave his all to the school's development."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语；书面语。"
+    },
+    "synonyms": [
+      "呕心沥血",
+      "竭尽全力",
+      "绞尽脑汁"
+    ],
+    "antonyms": [
+      "敷衍了事",
+      "漫不经心"
+    ]
+  },
+  {
+    "id": "jin-shan-jin-mei",
+    "text": "尽善尽美",
+    "pinyin": "jìn shàn jìn měi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "master-craftsmanship",
+      "confucian-classics"
+    ],
+    "literal": "utterly · good · utterly · beautiful",
+    "natural": "perfect",
+    "meaning": {
+      "en": "Perfect in every respect.",
+      "zh": "极其完善，极其美好。"
+    },
+    "equivalents": [
+      "perfect",
+      "flawless",
+      "the best it can be"
+    ],
+    "examples": [
+      {
+        "zh": "世上没有尽善尽美的事。",
+        "en": "Nothing in the world is perfect."
+      },
+      {
+        "zh": "她做事总追求尽善尽美。",
+        "en": "She always strives for perfection."
+      }
+    ],
+    "origin": {
+      "source": "《论语·八佾》",
+      "story": {
+        "en": "Confucius said the Shao music was 'perfectly beautiful and perfectly good' (尽美矣，又尽善也).",
+        "zh": "《论语·八佾》：“子谓《韶》：尽美矣，又尽善也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; often 追求尽善尽美.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "十全十美",
+      "完美无缺"
+    ],
+    "antonyms": [
+      "一无是处",
+      "漏洞百出"
+    ]
+  },
+  {
+    "id": "yue-ran-zhi-shang",
+    "text": "跃然纸上",
+    "pinyin": "yuè rán zhǐ shàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "leap · so · paper · on",
+    "natural": "leap off the page",
+    "meaning": {
+      "en": "Vividly portrayed, as if leaping off the page.",
+      "zh": "形容描写、刻画得十分生动逼真。"
+    },
+    "equivalents": [
+      "leap off the page",
+      "come alive",
+      "vividly portrayed"
+    ],
+    "examples": [
+      {
+        "zh": "作者寥寥几笔，人物形象就跃然纸上。",
+        "en": "With a few strokes the author makes the character leap off the page."
+      },
+      {
+        "zh": "画中的骏马跃然纸上。",
+        "en": "The horse in the painting seems to come alive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "栩栩如生",
+      "活灵活现",
+      "惟妙惟肖"
+    ],
+    "antonyms": [
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "hao-yan-zhuang-yu",
+    "text": "豪言壮语",
+    "pinyin": "háo yán zhuàng yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "speech"
+    ],
+    "literal": "heroic · words · bold · speech",
+    "natural": "bold words",
+    "meaning": {
+      "en": "Bold, inspiring words (sometimes implying empty boasting).",
+      "zh": "气魄很大的话；有时暗指空话。"
+    },
+    "equivalents": [
+      "bold words",
+      "stirring declarations",
+      "fighting talk"
+    ],
+    "examples": [
+      {
+        "zh": "赛前他发出了夺冠的豪言壮语。",
+        "en": "Before the race he boldly declared he would win."
+      },
+      {
+        "zh": "光有豪言壮语不行，还得脚踏实地。",
+        "en": "Fine words alone won't do; you have to put in the work."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject.",
+      "zh": "多作宾语、主语。"
+    },
+    "synonyms": [
+      "慷慨激昂"
+    ],
+    "antonyms": [
+      "唯唯诺诺",
+      "低声下气"
+    ]
+  },
+  {
+    "id": "chong-cao-jiu-ye",
+    "text": "重操旧业",
+    "pinyin": "chóng cāo jiù yè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal"
+    ],
+    "literal": "again · take-up · old · trade",
+    "natural": "go back to one's old line of work",
+    "meaning": {
+      "en": "To return to one's former occupation.",
+      "zh": "重新从事过去的行业。"
+    },
+    "equivalents": [
+      "go back to one's old job",
+      "return to one's former trade"
+    ],
+    "examples": [
+      {
+        "zh": "退休后，他又重操旧业，开了一家诊所。",
+        "en": "After retiring he went back to his old profession and opened a clinic."
+      },
+      {
+        "zh": "出狱后，他竟重操旧业，又干起了诈骗。",
+        "en": "Out of prison, he went straight back to running scams."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "东山再起"
+    ],
+    "antonyms": [
+      "改行换业",
+      "金盆洗手"
+    ]
+  },
+  {
+    "id": "shi-qing-hua-yi",
+    "text": "诗情画意",
+    "pinyin": "shī qíng huà yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "excellent-writing"
+    ],
+    "literal": "poetry · feeling · painting · mood",
+    "natural": "poetic charm",
+    "meaning": {
+      "en": "Poetic and picturesque beauty.",
+      "zh": "像诗画里描绘的那样美好的意境。"
+    },
+    "equivalents": [
+      "poetic",
+      "picturesque",
+      "idyllic"
+    ],
+    "examples": [
+      {
+        "zh": "江南水乡充满诗情画意。",
+        "en": "The water towns south of the Yangtze are full of poetic charm."
+      },
+      {
+        "zh": "这首歌唱出了秋天的诗情画意。",
+        "en": "The song captures the poetic beauty of autumn."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive; often 充满诗情画意.",
+      "zh": "多作宾语、定语。"
+    },
+    "synonyms": [
+      "如诗如画",
+      "风景如画"
+    ],
+    "antonyms": [
+      "穷山恶水"
+    ]
+  },
+  {
+    "id": "ge-zi-wei-zhan",
+    "text": "各自为战",
+    "pinyin": "gè zì wéi zhàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "conflict-and-strife"
+    ],
+    "literal": "each · self · as · fight",
+    "natural": "each fighting their own battle",
+    "meaning": {
+      "en": "Each fighting independently without coordination.",
+      "zh": "各自独立作战，比喻不互相配合。"
+    },
+    "equivalents": [
+      "go it alone",
+      "each doing their own thing",
+      "fight separately"
+    ],
+    "examples": [
+      {
+        "zh": "各部门各自为战，效率很低。",
+        "en": "Each department goes its own way, and efficiency is poor."
+      },
+      {
+        "zh": "队员们各自为战，缺乏配合。",
+        "en": "The players each played their own game with no teamwork."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "单打独斗",
+      "一盘散沙"
+    ],
+    "antonyms": [
+      "齐心协力",
+      "通力合作"
+    ]
+  },
+  {
+    "id": "gui-gui-sui-sui",
+    "text": "鬼鬼祟祟",
+    "pinyin": "guǐ guǐ suì suì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "ghost · ghost · haunt · haunt",
+    "natural": "sneaky",
+    "meaning": {
+      "en": "Furtive and sneaky.",
+      "zh": "形容行动偷偷摸摸，不光明正大。"
+    },
+    "equivalents": [
+      "sneaky",
+      "furtive",
+      "shifty"
+    ],
+    "examples": [
+      {
+        "zh": "有个人在门口鬼鬼祟祟的，你去看看。",
+        "en": "Someone's lurking about suspiciously by the door; go and check."
+      },
+      {
+        "zh": "他鬼鬼祟祟地翻看别人的手机。",
+        "en": "He sneakily went through someone else's phone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (鬼鬼祟祟地).",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "偷偷摸摸",
+      "贼眉鼠眼"
+    ],
+    "antonyms": [
+      "光明正大",
+      "堂堂正正"
+    ]
+  },
+  {
+    "id": "men-xin-zi-wen",
+    "text": "扪心自问",
+    "pinyin": "mén xīn zì wèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "mental-clarity"
+    ],
+    "literal": "touch · heart · self · ask",
+    "natural": "search one's conscience",
+    "meaning": {
+      "en": "To search one's conscience; to ask oneself honestly.",
+      "zh": "摸着胸口自己问自己，指自我反省。"
+    },
+    "equivalents": [
+      "search one's conscience",
+      "ask oneself honestly",
+      "hand on heart"
+    ],
+    "examples": [
+      {
+        "zh": "扪心自问，我真的尽力了吗？",
+        "en": "Hand on heart, did I really do my best?"
+      },
+      {
+        "zh": "你扪心自问，这样对他公平吗？",
+        "en": "Ask yourself honestly — is that fair to him?"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often sentence-initial.",
+      "zh": "多作谓语，常放句首。"
+    },
+    "synonyms": [
+      "反躬自省",
+      "闭门思过"
+    ],
+    "antonyms": [
+      "自以为是"
+    ]
+  },
+  {
+    "id": "yong-xin-liang-ku",
+    "text": "用心良苦",
+    "pinyin": "yòng xīn liáng kǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "良苦用心"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "use · heart · very · painstaking",
+    "natural": "well-meant",
+    "meaning": {
+      "en": "Having taken great pains with good intentions.",
+      "zh": "费尽心思，用意很深。"
+    },
+    "equivalents": [
+      "well-meant",
+      "with the best of intentions",
+      "painstakingly thought out"
+    ],
+    "examples": [
+      {
+        "zh": "父母这样安排，真是用心良苦。",
+        "en": "Your parents arranged it like this with the best of intentions."
+      },
+      {
+        "zh": "老师批评你，其实是用心良苦。",
+        "en": "The teacher's criticism was actually well-meant."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 可谓/真是用心良苦. Also as 良苦用心 (noun).",
+      "zh": "多作谓语；也说“良苦用心”。"
+    },
+    "synonyms": [
+      "煞费苦心",
+      "苦心孤诣"
+    ],
+    "antonyms": [
+      "别有用心"
+    ]
+  },
+  {
+    "id": "qia-ru-qi-fen",
+    "text": "恰如其分",
+    "pinyin": "qià rú qí fèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "exact-vs-approximate"
+    ],
+    "literal": "just · as · its · proper-share",
+    "natural": "just right",
+    "meaning": {
+      "en": "Exactly appropriate; neither too much nor too little.",
+      "zh": "办事或说话正合分寸。"
+    },
+    "equivalents": [
+      "just right",
+      "appropriate",
+      "well judged"
+    ],
+    "examples": [
+      {
+        "zh": "他的评价恰如其分。",
+        "en": "His assessment was spot on."
+      },
+      {
+        "zh": "恰如其分的赞美能鼓舞人心。",
+        "en": "Well-judged praise is encouraging."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or adverbial.",
+      "zh": "多作谓语、定语、状语。"
+    },
+    "synonyms": [
+      "恰到好处",
+      "适可而止"
+    ],
+    "antonyms": [
+      "言过其实",
+      "过犹不及"
+    ]
+  },
+  {
+    "id": "jing-jiu-bu-xi",
+    "text": "经久不息",
+    "pinyin": "jīng jiǔ bù xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "news-and-officialese"
+    ],
+    "literal": "pass · long · not · stop",
+    "natural": "prolonged",
+    "meaning": {
+      "en": "Lasting a long time without stopping (of applause, cheers).",
+      "zh": "经过很长时间也不停止，多指掌声、欢呼声。"
+    },
+    "equivalents": [
+      "prolonged",
+      "sustained",
+      "unending"
+    ],
+    "examples": [
+      {
+        "zh": "演讲结束，台下响起经久不息的掌声。",
+        "en": "When the speech ended there was prolonged applause."
+      },
+      {
+        "zh": "欢呼声经久不息。",
+        "en": "The cheering went on and on."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; almost always with 掌声/欢呼声.",
+      "zh": "多作定语、谓语，多修饰掌声。"
+    },
+    "synonyms": [
+      "连绵不断"
+    ],
+    "antonyms": [
+      "戛然而止"
+    ]
+  },
+  {
+    "id": "qian-zi-bai-tai",
+    "text": "千姿百态",
+    "pinyin": "qiān zī bǎi tài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "plant-and-natural-world"
+    ],
+    "literal": "thousand · postures · hundred · forms",
+    "natural": "in every shape and form",
+    "meaning": {
+      "en": "Of many different shapes and appearances.",
+      "zh": "形容姿态多种多样，各不相同。"
+    },
+    "equivalents": [
+      "in every shape and form",
+      "varied",
+      "a myriad of forms"
+    ],
+    "examples": [
+      {
+        "zh": "溶洞里的钟乳石千姿百态。",
+        "en": "The stalactites in the cave come in every shape imaginable."
+      },
+      {
+        "zh": "公园里的菊花千姿百态。",
+        "en": "The chrysanthemums in the park are wonderfully varied."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "形形色色",
+      "多姿多彩",
+      "五花八门"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "大同小异"
+    ]
+  },
+  {
+    "id": "bu-lu-pan-shan",
+    "text": "步履蹒跚",
+    "pinyin": "bù lǚ pán shān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "poor-health"
+    ],
+    "literal": "step · tread · totter · stagger",
+    "natural": "totter",
+    "meaning": {
+      "en": "Walking with faltering, unsteady steps.",
+      "zh": "形容走路缓慢、摇摆的样子。"
+    },
+    "equivalents": [
+      "totter",
+      "hobble",
+      "walk unsteadily"
+    ],
+    "examples": [
+      {
+        "zh": "一位步履蹒跚的老人慢慢走过马路。",
+        "en": "An old man tottered slowly across the road."
+      },
+      {
+        "zh": "受伤后，他步履蹒跚地走下场。",
+        "en": "After the injury he hobbled off the pitch."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; for the elderly, injured, or figuratively a struggling economy.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "老态龙钟",
+      "步履维艰"
+    ],
+    "antonyms": [
+      "健步如飞",
+      "大步流星"
+    ]
+  },
+  {
+    "id": "xiu-yang-sheng-xi",
+    "text": "休养生息",
+    "pinyin": "xiū yǎng shēng xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "good-governance"
+    ],
+    "literal": "rest · nourish · live · grow",
+    "natural": "recuperate",
+    "meaning": {
+      "en": "To recuperate and rebuild (of a country after war or upheaval).",
+      "zh": "指在战争或社会大变动后，减轻负担，安定生活，恢复元气。"
+    },
+    "equivalents": [
+      "recuperate",
+      "rebuild",
+      "a period of recovery"
+    ],
+    "examples": [
+      {
+        "zh": "战乱之后，朝廷实行休养生息的政策。",
+        "en": "After the wars, the court adopted policies to let the people recover."
+      },
+      {
+        "zh": "这片草原需要休养生息。",
+        "en": "The grassland needs time to recover."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; historical and policy writing.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "与民休息"
+    ],
+    "antonyms": [
+      "穷兵黩武",
+      "横征暴敛"
+    ]
+  },
+  {
+    "id": "feng-mi-yi-shi",
+    "text": "风靡一时",
+    "pinyin": "fēng mǐ yī shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "风行一时"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "fleeting-time"
+    ],
+    "literal": "wind · bend · one · time",
+    "natural": "all the rage",
+    "meaning": {
+      "en": "Hugely popular for a time.",
+      "zh": "形容事物在一个时期内非常流行。"
+    },
+    "equivalents": [
+      "all the rage",
+      "a craze",
+      "hugely popular at the time"
+    ],
+    "examples": [
+      {
+        "zh": "这款游戏曾风靡一时。",
+        "en": "The game was all the rage at one time."
+      },
+      {
+        "zh": "喇叭裤在八十年代风靡一时。",
+        "en": "Flared trousers were a craze in the eighties."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 曾风靡一时.",
+      "zh": "多作谓语，常说“曾风靡一时”。"
+    },
+    "synonyms": [
+      "红极一时",
+      "家喻户晓"
+    ],
+    "antonyms": [
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "bu-ming-bu-bai",
+    "text": "不明不白",
+    "pinyin": "bù míng bù bái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "not · clear · not · white",
+    "natural": "under a cloud",
+    "meaning": {
+      "en": "Unclear and unexplained; mysterious or murky.",
+      "zh": "不清楚，不明白；含糊或来路不正。"
+    },
+    "equivalents": [
+      "mysteriously",
+      "under murky circumstances",
+      "without explanation"
+    ],
+    "examples": [
+      {
+        "zh": "他被不明不白地开除了。",
+        "en": "He was sacked without any explanation."
+      },
+      {
+        "zh": "这笔钱来得不明不白。",
+        "en": "This money came from somewhere murky."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or complement.",
+      "zh": "多作状语、补语。"
+    },
+    "synonyms": [
+      "稀里糊涂",
+      "含糊其辞"
+    ],
+    "antonyms": [
+      "明明白白",
+      "清清楚楚"
+    ]
+  },
+  {
+    "id": "zhong-nan-qing-nu",
+    "text": "重男轻女",
+    "pinyin": "zhòng nán qīng nǚ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "fairness-and-impartiality"
+    ],
+    "literal": "value · male · slight · female",
+    "natural": "favour sons over daughters",
+    "meaning": {
+      "en": "To value boys more than girls.",
+      "zh": "重视男子，轻视女子。"
+    },
+    "equivalents": [
+      "favour sons over daughters",
+      "gender bias",
+      "son preference"
+    ],
+    "examples": [
+      {
+        "zh": "重男轻女的观念在一些地方仍然存在。",
+        "en": "The preference for sons still exists in some places."
+      },
+      {
+        "zh": "她奶奶重男轻女，总偏心哥哥。",
+        "en": "Her grandmother favoured boys and always doted on her brother."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "厚此薄彼"
+    ],
+    "antonyms": [
+      "男女平等",
+      "一视同仁"
+    ]
+  },
+  {
+    "id": "chun-qiang-she-jian",
+    "text": "唇枪舌剑",
+    "pinyin": "chún qiāng shé jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "舌剑唇枪"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "competition-and-rivalry"
+    ],
+    "literal": "lips · spear · tongue · sword",
+    "natural": "a war of words",
+    "meaning": {
+      "en": "A fierce verbal battle.",
+      "zh": "形容辩论激烈，言辞锋利。"
+    },
+    "equivalents": [
+      "a war of words",
+      "a heated debate",
+      "verbal sparring"
+    ],
+    "examples": [
+      {
+        "zh": "辩论赛上，双方唇枪舌剑，互不相让。",
+        "en": "In the debate, both sides crossed swords and neither gave way."
+      },
+      {
+        "zh": "两位候选人在电视上唇枪舌剑。",
+        "en": "The two candidates sparred fiercely on TV."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "针锋相对",
+      "舌战群儒"
+    ],
+    "antonyms": [
+      "心平气和"
+    ]
+  },
+  {
+    "id": "dong-dao-xi-wai",
+    "text": "东倒西歪",
+    "pinyin": "dōng dǎo xī wāi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "chaos",
+      "structural-problems"
+    ],
+    "literal": "east · fall · west · lean",
+    "natural": "lurching",
+    "meaning": {
+      "en": "Leaning or staggering this way and that.",
+      "zh": "形容站立不稳或物体歪斜不整。"
+    },
+    "equivalents": [
+      "lurching",
+      "staggering",
+      "leaning every which way"
+    ],
+    "examples": [
+      {
+        "zh": "他喝醉了，走路东倒西歪。",
+        "en": "He was drunk and lurching all over the place."
+      },
+      {
+        "zh": "台风过后，路边的树东倒西歪。",
+        "en": "After the typhoon, the trees along the road were leaning every which way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "摇摇晃晃",
+      "七倒八歪"
+    ],
+    "antonyms": [
+      "整整齐齐",
+      "四平八稳"
+    ]
+  }
+]
