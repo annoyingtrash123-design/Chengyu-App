@@ -2,6 +2,7 @@ import "./styles.css";
 import { h, clear, loadState, en, loading } from "./ui";
 import { renderHome } from "./views/home";
 import { renderDictionary } from "./views/dictionary";
+import { renderList } from "./views/list";
 import { renderEntry } from "./views/entry";
 import { renderStudy } from "./views/study";
 import { renderGames } from "./views/games";
@@ -21,6 +22,7 @@ type View = (root: HTMLElement, params: string[]) => void | Promise<void>;
 const routes: [RegExp, View, string][] = [
   [/^\/?$/, renderHome, "home"],
   [/^\/dict$/, renderDictionary, "dict"],
+  [/^\/list$/, renderList, "list"],
   [/^\/entry\/([\w-]+)$/, renderEntry, "dict"],
   [/^\/study$/, renderStudy, "study"],
   [/^\/games$/, renderGames, "games"],
@@ -34,7 +36,8 @@ const routes: [RegExp, View, string][] = [
 
 const TABS = [
   { id: "home", hash: "#/", icon: "首", zh: "首页", en: "Home" },
-  { id: "dict", hash: "#/dict", icon: "典", zh: "词典", en: "Dictionary" },
+  { id: "dict", hash: "#/dict", icon: "典", zh: "词典", en: "Search" },
+  { id: "list", hash: "#/list", icon: "表", zh: "列表", en: "List" },
   { id: "study", hash: "#/study", icon: "学", zh: "学习", en: "Study" },
   { id: "games", hash: "#/games", icon: "戏", zh: "游戏", en: "Games" },
   { id: "me", hash: "#/me", icon: "我", zh: "我的", en: "Me" },

@@ -16,7 +16,7 @@ import {
   MODERN_LABEL,
   themeLabel,
 } from "../ui";
-import { showTheme } from "./dictionary";
+import { showTheme } from "./list";
 
 export async function renderEntry(root: HTMLElement, [id]: string[]) {
   const d = await api.entry(id);
