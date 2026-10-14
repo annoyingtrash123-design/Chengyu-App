@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "da-xian-shen-shou",
+    "text": "大显身手",
+    "pinyin": "dà xiǎn shēn shǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "useful-tools-and-skill"
+    ],
+    "literal": "greatly · display · body · hand",
+    "natural": "show what one can do",
+    "meaning": {
+      "en": "To fully display one's abilities.",
+      "zh": "充分显示出自己的本领。"
+    },
+    "equivalents": [
+      "show one's mettle",
+      "shine",
+      "show what one is made of"
+    ],
+    "examples": [
+      {
+        "zh": "这次比赛是他大显身手的好机会。",
+        "en": "This competition is his chance to show what he can do."
+      },
+      {
+        "zh": "新人们在晚会上大显身手。",
+        "en": "The newcomers shone at the party."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "崭露头角",
+      "一显身手"
+    ],
+    "antonyms": [
+      "无所作为",
+      "黔驴技穷"
+    ]
+  },
+  {
+    "id": "xing-wang-fa-da",
+    "text": "兴旺发达",
+    "pinyin": "xīng wàng fā dá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "success",
+      "festive-greetings"
+    ],
+    "literal": "flourishing · developed",
+    "natural": "thriving",
+    "meaning": {
+      "en": "Thriving and prosperous.",
+      "zh": "兴盛发展。"
+    },
+    "equivalents": [
+      "thriving",
+      "prosperous",
+      "flourishing"
+    ],
+    "examples": [
+      {
+        "zh": "祝贵公司兴旺发达！",
+        "en": "May your company thrive!"
+      },
+      {
+        "zh": "这个家族几代兴旺发达。",
+        "en": "The family has prospered for generations."
+      }
+    ],
+    "usage": {
+      "en": "Common in good wishes.",
+      "zh": "常用作祝福语。"
+    },
+    "synonyms": [
+      "繁荣昌盛",
+      "蒸蒸日上"
+    ],
+    "antonyms": [
+      "日薄西山",
+      "江河日下"
+    ]
+  },
+  {
+    "id": "tou-po-xue-liu",
+    "text": "头破血流",
+    "pinyin": "tóu pò xuè liú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "body"
+    ],
+    "literal": "head · broken · blood · flow",
+    "natural": "badly beaten",
+    "meaning": {
+      "en": "Head broken and bleeding; badly defeated.",
+      "zh": "头被打破，血流满面，形容惨败或受到严重打击。"
+    },
+    "equivalents": [
+      "bloodied",
+      "badly beaten",
+      "a crushing defeat"
+    ],
+    "examples": [
+      {
+        "zh": "两人打得头破血流。",
+        "en": "The two fought until they were bloodied."
+      },
+      {
+        "zh": "他在商场上碰得头破血流。",
+        "en": "He took a real beating in business."
+      }
+    ],
+    "usage": {
+      "en": "Literal and figurative (撞得头破血流).",
+      "zh": "可用本义，也可比喻碰壁。"
+    },
+    "synonyms": [
+      "焦头烂额",
+      "一败涂地"
+    ],
+    "antonyms": [
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "hun-shui-mo-yu",
+    "text": "浑水摸鱼",
+    "pinyin": "hún shuǐ mō yú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "混水摸鱼"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "thirty-six-stratagems"
+    ],
+    "literal": "muddy · water · feel for · fish",
+    "natural": "fish in troubled waters",
+    "meaning": {
+      "en": "To take advantage of chaos for personal gain.",
+      "zh": "比喻趁混乱时机攫取利益。"
+    },
+    "equivalents": [
+      "fish in troubled waters",
+      "take advantage of the confusion"
+    ],
+    "examples": [
+      {
+        "zh": "有人趁乱浑水摸鱼，偷了东西。",
+        "en": "Someone took advantage of the chaos to steal."
+      },
+      {
+        "zh": "不能让不法商家浑水摸鱼。",
+        "en": "Dishonest traders mustn't be allowed to profit from the confusion."
+      }
+    ],
+    "usage": {
+      "en": "Also 混水摸鱼; one of the Thirty-Six Stratagems.",
+      "zh": "也作“混水摸鱼”，三十六计之一。"
+    },
+    "synonyms": [
+      "趁火打劫",
+      "乘人之危"
+    ],
+    "antonyms": [
+      "光明正大"
+    ]
+  },
+  {
+    "id": "bu-rong-zhi-yi",
+    "text": "不容置疑",
+    "pinyin": "bù róng zhì yí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "mental-clarity",
+      "speech"
+    ],
+    "literal": "not · allow · place · doubt",
+    "natural": "beyond doubt",
+    "meaning": {
+      "en": "Allowing no doubt.",
+      "zh": "不允许有什么怀疑，表示论证严密可靠。"
+    },
+    "equivalents": [
+      "beyond doubt",
+      "unquestionable"
+    ],
+    "examples": [
+      {
+        "zh": "他用不容置疑的口气说道。",
+        "en": "He spoke in a tone that brooked no argument."
+      },
+      {
+        "zh": "事实不容置疑。",
+        "en": "The facts are beyond doubt."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "毋庸置疑",
+      "确凿无疑",
+      "无可争辩"
+    ],
+    "antonyms": [
+      "将信将疑",
+      "模棱两可"
+    ]
+  },
+  {
+    "id": "chang-jiu-zhi-ji",
+    "text": "长久之计",
+    "pinyin": "cháng jiǔ zhī jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom"
+    ],
+    "literal": "long · lasting · 's · plan",
+    "natural": "a long-term solution",
+    "meaning": {
+      "en": "A long-term plan.",
+      "zh": "长远的打算。"
+    },
+    "equivalents": [
+      "a long-term solution",
+      "sustainable plan"
+    ],
+    "examples": [
+      {
+        "zh": "靠借钱过日子不是长久之计。",
+        "en": "Living on borrowed money is no long-term solution."
+      },
+      {
+        "zh": "发展教育才是长久之计。",
+        "en": "Developing education is the real long-term plan."
+      }
+    ],
+    "usage": {
+      "en": "Often negated: 不是长久之计.",
+      "zh": "常说“不是长久之计”。"
+    },
+    "synonyms": [
+      "百年大计",
+      "一劳永逸"
+    ],
+    "antonyms": [
+      "权宜之计",
+      "饮鸩止渴"
+    ]
+  },
+  {
+    "id": "qian-xin-wan-ku",
+    "text": "千辛万苦",
+    "pinyin": "qiān xīn wàn kǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "poverty-and-hardship"
+    ],
+    "literal": "thousand · hardships · ten-thousand · bitterness",
+    "natural": "untold hardships",
+    "meaning": {
+      "en": "Countless hardships.",
+      "zh": "形容非常多的艰难辛苦。"
+    },
+    "equivalents": [
+      "untold hardships",
+      "great difficulty"
+    ],
+    "examples": [
+      {
+        "zh": "他们历尽千辛万苦，终于到达了目的地。",
+        "en": "After untold hardships, they finally reached their destination."
+      },
+      {
+        "zh": "父母千辛万苦把我们养大。",
+        "en": "Our parents raised us through great hardship."
+      }
+    ],
+    "usage": {
+      "en": "Noun or adverbial.",
+      "zh": "可作名词或状语。"
+    },
+    "synonyms": [
+      "千难万险",
+      "艰苦卓绝"
+    ],
+    "antonyms": [
+      "轻而易举",
+      "易如反掌",
+      "举手之劳"
+    ]
+  },
+  {
+    "id": "zhi-shou-hua-jiao",
+    "text": "指手画脚",
+    "pinyin": "zhǐ shǒu huà jiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "inappropriate-behavior"
+    ],
+    "literal": "point · hands · gesture · feet",
+    "natural": "boss people about",
+    "meaning": {
+      "en": "To make offhand criticisms or give orders presumptuously.",
+      "zh": "形容说话时兼用手势示意；多指轻率地指点、批评。"
+    },
+    "equivalents": [
+      "boss people around",
+      "backseat driving",
+      "interfere"
+    ],
+    "examples": [
+      {
+        "zh": "他什么都不懂，却总爱指手画脚。",
+        "en": "He knows nothing but always wants to boss people around."
+      },
+      {
+        "zh": "别对我的工作指手画脚。",
+        "en": "Don't tell me how to do my job."
+      }
+    ],
+    "usage": {
+      "en": "Casual, disapproving.",
+      "zh": "口语，贬义。"
+    },
+    "synonyms": [
+      "说三道四",
+      "评头论足"
+    ],
+    "antonyms": [
+      "袖手旁观",
+      "洗耳恭听"
+    ]
+  },
+  {
+    "id": "he-he-you-ming",
+    "text": "赫赫有名",
+    "pinyin": "hè hè yǒu míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "illustrious · have · fame",
+    "natural": "illustrious",
+    "meaning": {
+      "en": "Very famous; illustrious.",
+      "zh": "名声非常显赫。"
+    },
+    "equivalents": [
+      "illustrious",
+      "renowned",
+      "celebrated"
+    ],
+    "examples": [
+      {
+        "zh": "他是一位赫赫有名的将军。",
+        "en": "He's an illustrious general."
+      },
+      {
+        "zh": "这家老字号在当地赫赫有名。",
+        "en": "The old brand is renowned locally."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "大名鼎鼎",
+      "举世闻名"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无名小卒"
+    ]
+  },
+  {
+    "id": "ru-ying-sui-xing",
+    "text": "如影随形",
+    "pinyin": "rú yǐng suí xíng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "like · shadow · follow · body",
+    "natural": "follow like a shadow",
+    "meaning": {
+      "en": "Inseparable, like a shadow following the body.",
+      "zh": "好像影子跟着身体一样，比喻两个人关系密切，不能分离。"
+    },
+    "equivalents": [
+      "inseparable",
+      "dog someone's steps"
+    ],
+    "examples": [
+      {
+        "zh": "压力如影随形。",
+        "en": "Stress follows you everywhere like a shadow."
+      },
+      {
+        "zh": "小狗对主人如影随形。",
+        "en": "The puppy follows its owner everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "形影不离",
+      "寸步不离"
+    ],
+    "antonyms": [
+      "若即若离"
+    ]
+  },
+  {
+    "id": "wu-suo-zuo-wei",
+    "text": "无所作为",
+    "pinyin": "wú suǒ zuò wéi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "laziness-and-giving-up",
+      "failed-ambitions"
+    ],
+    "literal": "no · what · do · accomplish",
+    "natural": "achieve nothing",
+    "meaning": {
+      "en": "Doing nothing; accomplishing nothing.",
+      "zh": "没有做出什么成绩。"
+    },
+    "equivalents": [
+      "do nothing",
+      "sit on one's hands"
+    ],
+    "examples": [
+      {
+        "zh": "面对问题，政府不能无所作为。",
+        "en": "The government can't sit on its hands in the face of problems."
+      },
+      {
+        "zh": "他一辈子无所作为。",
+        "en": "He achieved nothing all his life."
+      }
+    ],
+    "usage": {
+      "en": "Negative counterpart of 有所作为.",
+      "zh": "与“有所作为”相对。"
+    },
+    "synonyms": [
+      "碌碌无为",
+      "无所事事"
+    ],
+    "antonyms": [
+      "有所作为",
+      "大有作为",
+      "奋发有为"
+    ]
+  },
+  {
+    "id": "cha-yu-fan-hou",
+    "text": "茶余饭后",
+    "pinyin": "chá yú fàn hòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "daily"
+    ],
+    "literal": "tea · after · meal · after",
+    "natural": "in one's leisure time",
+    "meaning": {
+      "en": "Leisure time after meals.",
+      "zh": "泛指休息或空闲的时间。"
+    },
+    "equivalents": [
+      "in idle moments",
+      "over tea",
+      "in one's spare time"
+    ],
+    "examples": [
+      {
+        "zh": "这件事成了人们茶余饭后的谈资。",
+        "en": "It became the talk of everyone's idle chat."
+      },
+      {
+        "zh": "茶余饭后，他喜欢下棋。",
+        "en": "In his spare time he likes playing chess."
+      }
+    ],
+    "usage": {
+      "en": "Often 茶余饭后的谈资.",
+      "zh": "常说“茶余饭后的谈资”。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "tong-ku-liu-ti",
+    "text": "痛哭流涕",
+    "pinyin": "tòng kū liú tì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "mistakes-and-correction",
+      "historical-records"
+    ],
+    "literal": "bitterly · cry · flow · tears",
+    "natural": "weep bitterly",
+    "meaning": {
+      "en": "To cry bitterly, often in remorse.",
+      "zh": "形容伤心到极点或悔恨之极。"
+    },
+    "equivalents": [
+      "weep bitterly",
+      "sob with remorse"
+    ],
+    "examples": [
+      {
+        "zh": "他痛哭流涕地认错。",
+        "en": "He admitted his mistake, weeping bitterly."
+      },
+      {
+        "zh": "老人想起往事痛哭流涕。",
+        "en": "The old man wept bitterly remembering the past."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·贾谊传》",
+      "story": {
+        "en": "Jia Yi's memorial: 'Of current affairs, one can make me weep bitterly, two make me shed tears' (可为痛哭者一，可为流涕者二).",
+        "zh": "贾谊上疏：“臣窃惟事势，可为痛哭者一，可为流涕者二。”"
+      }
+    },
+    "usage": {
+      "en": "Often with remorse.",
+      "zh": "常带悔恨。"
+    },
+    "synonyms": [
+      "泪流满面",
+      "嚎啕大哭"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "破涕为笑"
+    ]
+  },
+  {
+    "id": "gao-wu-jian-ling",
+    "text": "高屋建瓴",
+    "pinyin": "gāo wū jiàn líng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "wisdom",
+      "leadership-and-authority",
+      "historical-records"
+    ],
+    "literal": "high · roof · pour · water jar",
+    "natural": "commanding overview",
+    "meaning": {
+      "en": "A commanding position; a strategic overview.",
+      "zh": "把瓶子里的水从高层顶上倾倒，比喻居高临下，不可阻挡。"
+    },
+    "equivalents": [
+      "a commanding view",
+      "big-picture thinking"
+    ],
+    "examples": [
+      {
+        "zh": "他的讲话高屋建瓴，指明了方向。",
+        "en": "His speech took a commanding overview and set the direction."
+      },
+      {
+        "zh": "这份规划高屋建瓴。",
+        "en": "The plan takes a strategic, big-picture view."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》",
+      "story": {
+        "en": "Guanzhong's strategic position was likened to 'pouring water from a jar on a high roof' (犹居高屋之上建瓴水也).",
+        "zh": "《史记》：“犹居高屋之上建瓴水也。”"
+      }
+    },
+    "usage": {
+      "en": "瓴 is líng.",
+      "zh": "“瓴”读líng。"
+    },
+    "synonyms": [
+      "高瞻远瞩",
+      "居高临下"
+    ],
+    "antonyms": [
+      "鼠目寸光",
+      "目光短浅"
+    ]
+  },
+  {
+    "id": "zou-ma-guan-hua",
+    "text": "走马观花",
+    "pinyin": "zǒu mǎ guān huā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "走马看花"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "journeys-and-exploration",
+      "poems-prose"
+    ],
+    "literal": "ride · horse · view · flowers",
+    "natural": "a cursory look",
+    "meaning": {
+      "en": "A superficial glance.",
+      "zh": "骑在马上看花，比喻粗略地观察事物。"
+    },
+    "equivalents": [
+      "a quick look",
+      "superficial",
+      "skim over"
+    ],
+    "examples": [
+      {
+        "zh": "旅行团行程太紧，只能走马观花。",
+        "en": "The tour was so rushed we could only take a quick look."
+      },
+      {
+        "zh": "调研不能走马观花。",
+        "en": "Research can't be superficial."
+      }
+    ],
+    "origin": {
+      "source": "唐·孟郊《登科后》",
+      "story": {
+        "en": "After passing the exams, Meng Jiao wrote: 'In the spring breeze, my horse's hooves fly; in one day I see all the flowers of Chang'an' (春风得意马蹄疾，一日看尽长安花).",
+        "zh": "孟郊《登科后》：“春风得意马蹄疾，一日看尽长安花。”"
+      }
+    },
+    "usage": {
+      "en": "Also 走马看花.",
+      "zh": "也作“走马看花”。"
+    },
+    "synonyms": [
+      "浮光掠影",
+      "蜻蜓点水"
+    ],
+    "antonyms": [
+      "深入细致",
+      "仔细观察"
+    ]
+  },
+  {
+    "id": "bu-diao-yi-zhi",
+    "text": "步调一致",
+    "pinyin": "bù diào yī zhì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "efficiency"
+    ],
+    "literal": "step · pace · uniform",
+    "natural": "in step",
+    "meaning": {
+      "en": "Acting in unison.",
+      "zh": "比喻行动、做法相一致。"
+    },
+    "equivalents": [
+      "in step",
+      "in unison",
+      "coordinated"
+    ],
+    "examples": [
+      {
+        "zh": "全队步调一致，才能取胜。",
+        "en": "Only by moving in step can the team win."
+      },
+      {
+        "zh": "各部门要步调一致。",
+        "en": "All departments must act in unison."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "齐心协力",
+      "整齐划一"
+    ],
+    "antonyms": [
+      "各自为政",
+      "各行其是"
+    ]
+  },
+  {
+    "id": "han-tai-ke-ju",
+    "text": "憨态可掬",
+    "pinyin": "hān tài kě jū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "naive · manner · can · scoop up",
+    "natural": "adorably clumsy",
+    "meaning": {
+      "en": "Charmingly naive and endearing.",
+      "zh": "形容天真可爱的样子。"
+    },
+    "equivalents": [
+      "adorable",
+      "cute and clumsy"
+    ],
+    "examples": [
+      {
+        "zh": "大熊猫憨态可掬。",
+        "en": "Pandas are adorably clumsy."
+      },
+      {
+        "zh": "小宝宝憨态可掬。",
+        "en": "The baby is so cute."
+      }
+    ],
+    "usage": {
+      "en": "For animals and children.",
+      "zh": "多形容动物、小孩。"
+    },
+    "synonyms": [
+      "天真可爱",
+      "活泼可爱"
+    ],
+    "antonyms": [
+      "面目可憎"
+    ]
+  },
+  {
+    "id": "meng-zai-gu-li",
+    "text": "蒙在鼓里",
+    "pinyin": "méng zài gǔ lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "confusion"
+    ],
+    "literal": "covered · in · drum · inside",
+    "natural": "kept in the dark",
+    "meaning": {
+      "en": "Kept in the dark.",
+      "zh": "比喻受蒙蔽，对有关的事情毫无所知。"
+    },
+    "equivalents": [
+      "kept in the dark",
+      "none the wiser"
+    ],
+    "examples": [
+      {
+        "zh": "大家都知道了，只有他还蒙在鼓里。",
+        "en": "Everyone knew except him; he was kept in the dark."
+      },
+      {
+        "zh": "我被蒙在鼓里好几年。",
+        "en": "I was kept in the dark for years."
+      }
+    ],
+    "usage": {
+      "en": "蒙 is méng; 里 lǐ.",
+      "zh": "“蒙”读méng。"
+    },
+    "synonyms": [
+      "一无所知"
+    ],
+    "antonyms": [
+      "心知肚明",
+      "了如指掌"
+    ]
+  },
+  {
+    "id": "lu-jiao-bu-gai",
+    "text": "屡教不改",
+    "pinyin": "lǚ jiào bù gǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "negative-character-flaws"
+    ],
+    "literal": "repeatedly · taught · not · change",
+    "natural": "incorrigible",
+    "meaning": {
+      "en": "Refusing to change despite repeated warnings.",
+      "zh": "多次教育，仍不改正。"
+    },
+    "equivalents": [
+      "incorrigible",
+      "a repeat offender"
+    ],
+    "examples": [
+      {
+        "zh": "对屡教不改的人要严肃处理。",
+        "en": "Repeat offenders must be dealt with severely."
+      },
+      {
+        "zh": "他屡教不改，被学校开除了。",
+        "en": "He refused to change despite warnings and was expelled."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "执迷不悟",
+      "死不悔改"
+    ],
+    "antonyms": [
+      "改过自新",
+      "痛改前非",
+      "知错就改"
+    ]
+  },
+  {
+    "id": "wai-feng-xie-qi",
+    "text": "歪风邪气",
+    "pinyin": "wāi fēng xié qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "society"
+    ],
+    "literal": "crooked · wind · evil · air",
+    "natural": "unhealthy tendencies",
+    "meaning": {
+      "en": "Corrupt practices and bad tendencies.",
+      "zh": "不正派的作风和风气。"
+    },
+    "equivalents": [
+      "unhealthy trends",
+      "bad practices"
+    ],
+    "examples": [
+      {
+        "zh": "要坚决刹住歪风邪气。",
+        "en": "Unhealthy tendencies must be firmly stamped out."
+      },
+      {
+        "zh": "铺张浪费的歪风邪气必须纠正。",
+        "en": "The bad habit of extravagance must be corrected."
+      }
+    ],
+    "usage": {
+      "en": "Official criticism.",
+      "zh": "官方批评用语。"
+    },
+    "synonyms": [
+      "不正之风"
+    ],
+    "antonyms": [
+      "蔚然成风",
+      "正气"
+    ]
+  },
+  {
+    "id": "shi-zhi-jiao-bi",
+    "text": "失之交臂",
+    "pinyin": "shī zhī jiāo bì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-timing",
+      "near-misses-and-setbacks",
+      "daoist-classics"
+    ],
+    "literal": "lose · it · cross · arms",
+    "natural": "let slip",
+    "meaning": {
+      "en": "To narrowly miss an opportunity.",
+      "zh": "形容遇到了机会而又当面错过。"
+    },
+    "equivalents": [
+      "let it slip through one's fingers",
+      "narrowly miss"
+    ],
+    "examples": [
+      {
+        "zh": "他与冠军失之交臂。",
+        "en": "He narrowly missed out on the championship."
+      },
+      {
+        "zh": "别让好机会失之交臂。",
+        "en": "Don't let a good opportunity slip."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·田子方》",
+      "story": {
+        "en": "Confucius to Yan Hui: 'All my life I've been with you, arm in arm, and yet you've missed it' (吾终身与汝交一臂而失之).",
+        "zh": "《庄子》：“吾终身与汝交一臂而失之，可不哀与！”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坐失良机",
+      "擦肩而过"
+    ],
+    "antonyms": [
+      "机不可失",
+      "不失时机"
+    ]
+  },
+  {
+    "id": "man-tian-yao-jia",
+    "text": "漫天要价",
+    "pinyin": "màn tiān yào jià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "daily",
+      "deception-and-false-appearances"
+    ],
+    "literal": "fill · sky · ask · price",
+    "natural": "charge an outrageous price",
+    "meaning": {
+      "en": "To ask an exorbitant price.",
+      "zh": "指卖主要价太高。"
+    },
+    "equivalents": [
+      "rip-off prices",
+      "overcharge"
+    ],
+    "examples": [
+      {
+        "zh": "景区商贩漫天要价。",
+        "en": "Vendors at tourist spots charge outrageous prices."
+      },
+      {
+        "zh": "对方漫天要价，谈判破裂。",
+        "en": "The other side made outrageous demands and talks broke down."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 就地还钱.",
+      "zh": "常与“就地还钱”连用。"
+    },
+    "synonyms": [
+      "狮子大开口"
+    ],
+    "antonyms": [
+      "物美价廉"
+    ]
+  },
+  {
+    "id": "ping-xin-er-lun",
+    "text": "平心而论",
+    "pinyin": "píng xīn ér lùn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality",
+      "speech"
+    ],
+    "literal": "calm · heart · and · discuss",
+    "natural": "to be fair",
+    "meaning": {
+      "en": "Speaking fairly and objectively.",
+      "zh": "平心静气地给予客观评价。"
+    },
+    "equivalents": [
+      "to be fair",
+      "in all fairness",
+      "honestly speaking"
+    ],
+    "examples": [
+      {
+        "zh": "平心而论，他的方案还是不错的。",
+        "en": "To be fair, his plan isn't bad."
+      },
+      {
+        "zh": "平心而论，这次失败不全是你的错。",
+        "en": "In all fairness, this failure isn't entirely your fault."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial.",
+      "zh": "常放句首。"
+    },
+    "synonyms": [
+      "实事求是",
+      "就事论事"
+    ],
+    "antonyms": [
+      "偏听偏信"
+    ]
+  },
+  {
+    "id": "bu-zai-hua-xia",
+    "text": "不在话下",
+    "pinyin": "bù zài huà xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "not · in · words · below",
+    "natural": "not worth mentioning",
+    "meaning": {
+      "en": "Too easy or obvious to need mentioning.",
+      "zh": "指事物轻微，不值得说，或理所当然，不在讨论范围之内。"
+    },
+    "equivalents": [
+      "easy as pie",
+      "goes without saying"
+    ],
+    "examples": [
+      {
+        "zh": "这点小事对他来说不在话下。",
+        "en": "This little thing is a piece of cake for him."
+      },
+      {
+        "zh": "跑十公里不在话下。",
+        "en": "Running ten kilometres is no problem."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "易如反掌",
+      "轻而易举"
+    ],
+    "antonyms": [
+      "难如登天"
+    ]
+  },
+  {
+    "id": "huan-ben-fu-xi",
+    "text": "还本付息",
+    "pinyin": "huán běn fù xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "business-failure",
+      "news-and-officialese"
+    ],
+    "literal": "return · principal · pay · interest",
+    "natural": "repay principal and interest",
+    "meaning": {
+      "en": "To repay the principal and interest of a loan.",
+      "zh": "归还本金，支付利息。"
+    },
+    "equivalents": [
+      "repay principal and interest"
+    ],
+    "examples": [
+      {
+        "zh": "贷款要按期还本付息。",
+        "en": "Loans must be repaid with interest on schedule."
+      },
+      {
+        "zh": "企业无力还本付息。",
+        "en": "The company can't repay its debts."
+      }
+    ],
+    "usage": {
+      "en": "Financial term.",
+      "zh": "金融用语。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  }
+]
