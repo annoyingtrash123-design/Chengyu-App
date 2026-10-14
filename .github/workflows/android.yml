@@ -6,6 +6,10 @@ on:
   push:
     paths-ignore: ["**.md", "docs/**"]
 
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   apk:
     runs-on: ubuntu-latest
@@ -17,10 +21,15 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
-
-      - name: Install Android NDK
-        run: sdkmanager "ndk;27.2.12479018"
+      # GitHub's Ubuntu runners ship with the Android SDK and NDK preinstalled.
+      - name: Locate Android NDK
+        run: |
+          if [ -n "$ANDROID_NDK_LATEST_HOME" ] && [ -d "$ANDROID_NDK_LATEST_HOME" ]; then
+            echo "NDK_HOME=$ANDROID_NDK_LATEST_HOME" >> "$GITHUB_ENV"
+          else
+            yes | "$ANDROID_HOME"/cmdline-tools/latest/bin/sdkmanager "ndk;27.2.12479018"
+            echo "NDK_HOME=$ANDROID_HOME/ndk/27.2.12479018" >> "$GITHUB_ENV"
+          fi
 
       - uses: dtolnay/rust-toolchain@stable
         with:
@@ -40,14 +49,10 @@ jobs:
 
       - name: Generate Android project
         working-directory: app
-        env:
-          NDK_HOME: ${{ env.ANDROID_HOME }}/ndk/27.2.12479018
         run: npx tauri android init --ci
 
       - name: Build APK
         working-directory: app
-        env:
-          NDK_HOME: ${{ env.ANDROID_HOME }}/ndk/27.2.12479018
         run: npx tauri android build --debug --apk --target aarch64 --ci
 
       - uses: actions/upload-artifact@v4
