@@ -1,0 +1,664 @@
+[
+  {
+    "id": "xuan-hu-ji-shi",
+    "text": "悬壶济世",
+    "pinyin": "xuán hú jì shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "medical-skill-and-healing",
+      "myths-legends",
+      "historical-records"
+    ],
+    "literal": "hang · gourd · help · world",
+    "natural": "hang up a gourd to heal the world",
+    "meaning": {
+      "en": "To practise medicine to help people.",
+      "zh": "行医救人。"
+    },
+    "equivalents": [
+      "practise medicine",
+      "heal the sick"
+    ],
+    "examples": [
+      {
+        "zh": "他悬壶济世四十年，救人无数。",
+        "en": "He practised medicine for forty years and saved countless lives."
+      },
+      {
+        "zh": "爷爷一生悬壶济世，深受乡亲尊敬。",
+        "en": "Grandfather spent his life healing the sick and was deeply respected by the villagers."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·方术列传·费长房》",
+      "story": {
+        "en": "Fei Changfang saw an old man selling medicine in the market who hung a gourd (壶) from his stall and at nightfall leapt into it. The old man, the 'Gourd Master', later taught Fei the healing arts.",
+        "zh": "费长房见市中有老翁卖药，悬一壶于肆头，日落便跳入壶中。后随这位“壶公”学道行医。"
+      }
+    },
+    "usage": {
+      "en": "Praise for doctors, especially traditional practitioners. The gourd became a symbol of medicine.",
+      "zh": "称赞医生，尤其中医。葫芦成为行医的象征。"
+    },
+    "synonyms": [
+      "医者仁心",
+      "华佗再世",
+      "妙手回春"
+    ],
+    "antonyms": [
+      "庸医误人",
+      "见死不救"
+    ]
+  },
+  {
+    "id": "yi-zhe-ren-xin",
+    "text": "医者仁心",
+    "pinyin": "yī zhě rén xīn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "medical-skill-and-healing",
+      "positive-character-qualities"
+    ],
+    "literal": "doctor · humane · heart",
+    "natural": "a doctor's compassionate heart",
+    "meaning": {
+      "en": "A good doctor has a compassionate heart.",
+      "zh": "医生要有仁爱之心。"
+    },
+    "equivalents": [
+      "a caring doctor",
+      "compassion in medicine"
+    ],
+    "examples": [
+      {
+        "zh": "医者仁心，他半夜也赶去救治病人。",
+        "en": "With a doctor's compassion, he rushed to treat the patient in the middle of the night."
+      },
+      {
+        "zh": "这位护士用行动诠释了医者仁心。",
+        "en": "The nurse's actions showed true medical compassion."
+      }
+    ],
+    "usage": {
+      "en": "Common in tributes to medical workers.",
+      "zh": "多用于赞扬医务人员。"
+    },
+    "synonyms": [
+      "悬壶济世",
+      "救死扶伤"
+    ],
+    "antonyms": [
+      "见死不救",
+      "庸医误人"
+    ]
+  },
+  {
+    "id": "ji-bing-chan-shen",
+    "text": "疾病缠身",
+    "pinyin": "jí bìng chán shēn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "illness · wrap · body",
+    "natural": "plagued by illness",
+    "meaning": {
+      "en": "Constantly troubled by illness.",
+      "zh": "长期被疾病困扰。"
+    },
+    "equivalents": [
+      "plagued by ill health",
+      "in poor health"
+    ],
+    "examples": [
+      {
+        "zh": "老人晚年疾病缠身。",
+        "en": "In his later years the old man was plagued by illness."
+      },
+      {
+        "zh": "她疾病缠身，却依然坚持工作。",
+        "en": "Despite constant ill health, she kept on working."
+      }
+    ],
+    "usage": {
+      "en": "Also 病魔缠身.",
+      "zh": "也说“病魔缠身”。"
+    },
+    "synonyms": [
+      "体弱多病",
+      "一病不起"
+    ],
+    "antonyms": [
+      "身强体壮",
+      "精力充沛"
+    ]
+  },
+  {
+    "id": "shen-xin-ju-pi",
+    "text": "身心俱疲",
+    "pinyin": "shēn xīn jù pí",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "psychological-pressure"
+    ],
+    "literal": "body · mind · both · tired",
+    "natural": "exhausted body and mind",
+    "meaning": {
+      "en": "Physically and mentally exhausted.",
+      "zh": "身体和精神都很疲惫。"
+    },
+    "equivalents": [
+      "burnt out",
+      "worn out",
+      "drained"
+    ],
+    "examples": [
+      {
+        "zh": "连续加班一个月，他身心俱疲。",
+        "en": "After a month of overtime he was completely burnt out."
+      },
+      {
+        "zh": "照顾病人让她身心俱疲。",
+        "en": "Caring for the patient left her drained in body and mind."
+      }
+    ],
+    "usage": {
+      "en": "Very common in talk of work stress.",
+      "zh": "常用于谈工作压力。"
+    },
+    "synonyms": [
+      "筋疲力尽",
+      "疲惫不堪",
+      "精疲力竭"
+    ],
+    "antonyms": [
+      "精力充沛",
+      "神清气爽",
+      "精神焕发"
+    ]
+  },
+  {
+    "id": "mian-se-cang-bai",
+    "text": "面色苍白",
+    "pinyin": "miàn sè cāng bái",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "appearance",
+      "fear-and-cowardice"
+    ],
+    "literal": "face · colour · pale",
+    "natural": "pale-faced",
+    "meaning": {
+      "en": "Pale in the face, from illness or fear.",
+      "zh": "脸色发白，多因疾病或惊恐。"
+    },
+    "equivalents": [
+      "pale",
+      "white as a sheet",
+      "ashen"
+    ],
+    "examples": [
+      {
+        "zh": "他面色苍白，好像病了。",
+        "en": "He looks pale, as if he's ill."
+      },
+      {
+        "zh": "听到消息，她吓得面色苍白。",
+        "en": "At the news she went white as a sheet."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性说法。"
+    },
+    "synonyms": [
+      "面如土色",
+      "面黄肌瘦"
+    ],
+    "antonyms": [
+      "红光满面",
+      "神采奕奕"
+    ]
+  },
+  {
+    "id": "jing-shen-wei-mi",
+    "text": "精神萎靡",
+    "pinyin": "jīng shén wěi mǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "laziness-and-giving-up"
+    ],
+    "literal": "spirit · withered",
+    "natural": "listless",
+    "meaning": {
+      "en": "Listless and low in spirits.",
+      "zh": "精神不振，没有活力。"
+    },
+    "equivalents": [
+      "listless",
+      "lethargic",
+      "out of sorts"
+    ],
+    "examples": [
+      {
+        "zh": "熬夜后第二天精神萎靡。",
+        "en": "After staying up late you feel lethargic the next day."
+      },
+      {
+        "zh": "这几天他精神萎靡，不想吃饭。",
+        "en": "He's been listless these days and doesn't want to eat."
+      }
+    ],
+    "usage": {
+      "en": "Also 萎靡不振.",
+      "zh": "也说“萎靡不振”。"
+    },
+    "synonyms": [
+      "有气无力",
+      "无精打采"
+    ],
+    "antonyms": [
+      "精神焕发",
+      "神采奕奕",
+      "精力充沛"
+    ]
+  },
+  {
+    "id": "wo-xing-niu-bu",
+    "text": "蜗行牛步",
+    "pinyin": "wō xíng niú bù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "speed-fast-vs-slow",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "snail · walk · ox · step",
+    "natural": "at a snail's pace",
+    "meaning": {
+      "en": "Moving extremely slowly.",
+      "zh": "像蜗牛爬行、老牛走路，形容极慢。"
+    },
+    "equivalents": [
+      "at a snail's pace",
+      "crawling along"
+    ],
+    "examples": [
+      {
+        "zh": "交通堵塞，车辆蜗行牛步。",
+        "en": "In the jam the traffic crawled at a snail's pace."
+      },
+      {
+        "zh": "改革若蜗行牛步，就会错失良机。",
+        "en": "If reform moves at a snail's pace, the chance will be lost."
+      }
+    ],
+    "usage": {
+      "en": "Literary; the casual equivalent is 慢得像蜗牛.",
+      "zh": "书面语，口语说“慢得像蜗牛”。"
+    },
+    "synonyms": [
+      "步履蹒跚",
+      "拖拖拉拉"
+    ],
+    "antonyms": [
+      "突飞猛进",
+      "一日千里",
+      "风驰电掣"
+    ]
+  },
+  {
+    "id": "sheng-yi-xing-long",
+    "text": "生意兴隆",
+    "pinyin": "shēng yì xīng lóng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "success"
+    ],
+    "literal": "business · flourishing",
+    "natural": "business is booming",
+    "meaning": {
+      "en": "Business flourishing; a common wish for shopkeepers.",
+      "zh": "买卖兴旺发达。"
+    },
+    "equivalents": [
+      "business is booming",
+      "may your business prosper"
+    ],
+    "examples": [
+      {
+        "zh": "祝您生意兴隆，财源广进！",
+        "en": "Wishing you a booming business and wealth pouring in!"
+      },
+      {
+        "zh": "这家饭馆生意兴隆，天天客满。",
+        "en": "The restaurant is doing a roaring trade, full every day."
+      },
+      {
+        "zh": "开业那天，朋友们送来“生意兴隆”的花篮。",
+        "en": "On opening day, friends sent flower baskets wishing prosperity."
+      }
+    ],
+    "usage": {
+      "en": "A standard wish at shop openings and New Year, often with 财源广进.",
+      "zh": "开业、新年常用祝福语，常与“财源广进”连用。"
+    },
+    "synonyms": [
+      "财源广进",
+      "日进斗金",
+      "蒸蒸日上"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "血本无归"
+    ]
+  },
+  {
+    "id": "xue-ben-wu-gui",
+    "text": "血本无归",
+    "pinyin": "xuè běn wú guī",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "business-failure"
+    ],
+    "literal": "blood · capital · not · return",
+    "natural": "lose everything one invested",
+    "meaning": {
+      "en": "To lose all of one's hard-earned capital.",
+      "zh": "辛苦积攒的本钱全部赔光。"
+    },
+    "equivalents": [
+      "lose one's shirt",
+      "lose everything",
+      "a total loss"
+    ],
+    "examples": [
+      {
+        "zh": "炒股失败，他血本无归。",
+        "en": "His stock speculation failed and he lost everything."
+      },
+      {
+        "zh": "盲目投资很可能血本无归。",
+        "en": "Blind investment may well end in total loss."
+      }
+    ],
+    "usage": {
+      "en": "血本: capital earned with sweat and blood.",
+      "zh": "“血本”指用血汗挣来的本钱。"
+    },
+    "synonyms": [
+      "人财两空",
+      "一败涂地"
+    ],
+    "antonyms": [
+      "一本万利",
+      "生意兴隆",
+      "日进斗金"
+    ]
+  },
+  {
+    "id": "jing-cai-jue-lun",
+    "text": "精彩绝伦",
+    "pinyin": "jīng cǎi jué lún",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-acting",
+      "arts"
+    ],
+    "literal": "brilliant · unmatched",
+    "natural": "absolutely brilliant",
+    "meaning": {
+      "en": "Brilliant beyond compare.",
+      "zh": "精彩到了无与伦比的程度。"
+    },
+    "equivalents": [
+      "absolutely brilliant",
+      "spectacular",
+      "breathtaking"
+    ],
+    "examples": [
+      {
+        "zh": "这场演出精彩绝伦。",
+        "en": "The performance was absolutely brilliant."
+      },
+      {
+        "zh": "决赛精彩绝伦，观众掌声不断。",
+        "en": "The final was spectacular and the applause never stopped."
+      }
+    ],
+    "usage": {
+      "en": "Praise for performances, matches and works.",
+      "zh": "称赞演出、比赛、作品。"
+    },
+    "synonyms": [
+      "叹为观止",
+      "技惊四座",
+      "精彩纷呈"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "味同嚼蜡"
+    ]
+  },
+  {
+    "id": "ji-yi-jing-zhan",
+    "text": "技艺精湛",
+    "pinyin": "jì yì jīng zhàn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship"
+    ],
+    "literal": "skill · art · consummate",
+    "natural": "consummately skilled",
+    "meaning": {
+      "en": "Highly accomplished in a craft or art.",
+      "zh": "技术和艺术造诣非常高超。"
+    },
+    "equivalents": [
+      "highly skilled",
+      "consummate skill",
+      "masterly"
+    ],
+    "examples": [
+      {
+        "zh": "这位老匠人技艺精湛。",
+        "en": "The old craftsman is consummately skilled."
+      },
+      {
+        "zh": "杂技演员技艺精湛，赢得满堂喝彩。",
+        "en": "The acrobats' masterly skill brought the house down."
+      }
+    ],
+    "usage": {
+      "en": "Common praise for craftspeople, surgeons, performers.",
+      "zh": "常用于称赞工匠、医生、演员。"
+    },
+    "synonyms": [
+      "技艺超群",
+      "炉火纯青",
+      "出神入化"
+    ],
+    "antonyms": [
+      "技不如人",
+      "笨手笨脚"
+    ]
+  },
+  {
+    "id": "yan-que-an-zhi-hong-hu-zhi-zhi",
+    "text": "燕雀安知鸿鹄之志",
+    "pinyin": "yàn què ān zhī hóng hú zhī zhì",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "燕雀安知"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "high-aspirations",
+      "historical-records",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "swallows · sparrows · how · know · swans' · ambition",
+    "natural": "how can sparrows know the swan's ambition?",
+    "meaning": {
+      "en": "Small-minded people cannot understand great ambitions.",
+      "zh": "比喻平凡的人不能理解英雄人物的远大志向。"
+    },
+    "equivalents": [
+      "small minds can't grasp big dreams"
+    ],
+    "examples": [
+      {
+        "zh": "别人笑他异想天开，他只说：“燕雀安知鸿鹄之志！”",
+        "en": "When people mocked his dreams, he just said: 'How can sparrows know the swan's ambition?'"
+      },
+      {
+        "zh": "燕雀安知，他的理想旁人是不会懂的。",
+        "en": "Sparrows can't understand; others won't get his ideals."
+      }
+    ],
+    "origin": {
+      "source": "《史记·陈涉世家》",
+      "story": {
+        "en": "As a hired farmhand, Chen She told his fellow labourers that whoever became rich should not forget the others. They laughed, and he sighed: 'Alas, how can swallows and sparrows know the ambition of a swan!' He later led the first great revolt against the Qin.",
+        "zh": "陈涉年轻时为人佣耕，对同伴说“苟富贵，无相忘”，同伴笑他。他叹道：“嗟乎！燕雀安知鸿鹄之志哉！”后领导了反秦起义。"
+      }
+    },
+    "usage": {
+      "en": "Can sound arrogant if said of oneself; often quoted half-jokingly.",
+      "zh": "用来说自己时显得自负，常带玩笑口吻。"
+    },
+    "synonyms": [
+      "鸿鹄之志"
+    ],
+    "antonyms": [
+      "胸无大志"
+    ]
+  },
+  {
+    "id": "hua-kai-hua-luo",
+    "text": "花开花落",
+    "pinyin": "huā kāi huā luò",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "seasonal-changes",
+      "fleeting-time"
+    ],
+    "literal": "flowers · bloom · flowers · fall",
+    "natural": "flowers bloom and fade",
+    "meaning": {
+      "en": "The cycle of blooming and fading; the passing of time and life.",
+      "zh": "花开了又谢，比喻时光流逝、世事变迁。"
+    },
+    "equivalents": [
+      "the seasons turn",
+      "the cycle of life"
+    ],
+    "examples": [
+      {
+        "zh": "花开花落，又是一年。",
+        "en": "Flowers bloom and fade, and another year goes by."
+      },
+      {
+        "zh": "看庭前花开花落，她心境平和。",
+        "en": "Watching the flowers bloom and fall in the courtyard, she felt at peace."
+      }
+    ],
+    "usage": {
+      "en": "Often in reflective writing, with 云卷云舒.",
+      "zh": "多用于抒情文字，常与“云卷云舒”并用。"
+    },
+    "synonyms": [
+      "春去秋来",
+      "斗转星移"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "wei-shi-yi-wan",
+    "text": "为时已晚",
+    "pinyin": "wéi shí yǐ wǎn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-timing",
+      "time"
+    ],
+    "literal": "be · time · already · late",
+    "natural": "too late",
+    "meaning": {
+      "en": "It is already too late.",
+      "zh": "已经太迟了。"
+    },
+    "equivalents": [
+      "too late",
+      "the horse has bolted"
+    ],
+    "examples": [
+      {
+        "zh": "等他意识到错误时，已经为时已晚。",
+        "en": "By the time he realised his mistake, it was too late."
+      },
+      {
+        "zh": "现在后悔为时已晚。",
+        "en": "It's too late for regrets now."
+      }
+    ],
+    "usage": {
+      "en": "Opposite 为时过早 'too early'.",
+      "zh": "反义说法“为时过早”。"
+    },
+    "synonyms": [
+      "悔之晚矣",
+      "追悔莫及"
+    ],
+    "antonyms": [
+      "为时过早",
+      "亡羊补牢"
+    ]
+  }
+]

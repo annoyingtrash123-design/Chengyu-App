@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.10",
+    date: "2026-10-14",
+    en: [
+      "Phase 1 complete: every expression on the master list is in, about 1,440 entries in all.",
+      "New labels such as Well wishes & greetings, Fleeting time, Comebacks & renewal, Fairness, Adaptability, Public opinion and Wordiness, added to older entries too.",
+      "More variant forms linked (e.g. 鼠肚鸡肠 → 小肚鸡肠, 盛世太平 → 太平盛世).",
+    ],
+    zh: ["第一阶段完成：主词表全部收录，共约一千四百四十条。", "新增“祝福吉语”“光阴飞逝”“东山再起”“公平公正”“灵活应变”“民心民意”“啰唆冗长”等标签，并补加到旧词条。", "关联更多异形写法（如 鼠肚鸡肠 → 小肚鸡肠，盛世太平 → 太平盛世）。"],
+  },
+  {
     version: "0.9",
     date: "2026-10-14",
     en: [
