@@ -51,6 +51,9 @@ MANUAL = {
     "public-opinion": ["众望所归", "政通人和"],
     "news-and-officialese": ["建章立制", "民主集中", "与时俱进", "开拓创新", "贪污腐败", "顺应民意", "违背民意", "政令不通", "清正廉洁", "勤政爱民", "圆满成功", "公平公正", "实事求是"],
     "luxury-and-extravagance": ["锦衣玉食", "八珍玉食", "珠光宝气", "山珍海味", "金玉满堂", "华服美饰"],
+    "solitude-and-isolation": ["与世隔绝", "隐姓埋名", "离群索居", "孤苦伶仃", "形单影只", "独来独往"],
+    "parenting-and-family": ["望子成龙", "望女成凤", "天伦之乐", "相依为命", "一家老小", "可怜天下父母心", "晨昏定省"],
+    "family-and-home": ["家长里短", "柴米油盐", "养家糊口", "衣食住行", "左邻右舍"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).
