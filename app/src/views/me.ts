@@ -1,5 +1,5 @@
 import { api, isTauri } from "../api";
-import { h, clear, en, pageHeader, saveSettings, state, toast, loadState } from "../ui";
+import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
@@ -40,8 +40,6 @@ export async function renderMe(root: HTMLElement) {
       await scheduleReminders();
     },
   });
-
-  const backupBox = h("textarea", { class: "backup", rows: 3, placeholder: en() ? "Paste a backup here to restore" : "粘贴备份数据以恢复" });
 
   clear(
     root,
@@ -89,70 +87,18 @@ export async function renderMe(root: HTMLElement) {
         await saveSettings({ show_english: v });
         renderMe(root);
       }),
-      h("label", { class: "setting-row" }, h("span", null, en() ? "Daily goal (reviews + answers)" : "每日目标（复习 + 答题）"), numberField(s.daily_goal, 1, 500, (n) => saveSettings({ daily_goal: n }))),
       h("label", { class: "setting-row" }, h("span", null, en() ? "New cards per day" : "每日新卡"), numberField(s.new_per_day, 0, 100, (n) => saveSettings({ new_per_day: n }))),
-      switchRow(en() ? "Daily reminder with chengyu of the day" : "每日提醒（附每日一词）", s.reminders, async (v) => {
-        await saveSettings({ reminders: v });
-        const ok = await scheduleReminders();
-        if (v && !ok) toast(isTauri() ? (en() ? "Notifications are not allowed" : "未获得通知权限") : en() ? "Reminders work in the phone app" : "提醒需在手机应用中使用");
-      }),
-      h("label", { class: "setting-row" }, h("span", null, en() ? "Reminder time" : "提醒时间"), timeInput),
-    ),
-    h(
-      "section",
-      { class: "card" },
-      h("h3", null, en() ? "Backup" : "备份"),
-      h("p", { class: "muted small" }, en() ? "Copy your progress to keep it safe, or paste a backup to restore it." : "复制学习进度以备份，或粘贴备份数据恢复。"),
-      h(
-        "div",
-        { class: "row-gap" },
-        h("button", {
-          class: "btn",
-          onclick: async () => {
-            const data = JSON.stringify(await api.exportData());
-            try {
-              await navigator.clipboard.writeText(data);
-              toast(en() ? "Copied to clipboard" : "已复制");
-            } catch {
-              backupBox.value = data;
-            }
-          },
-        }, en() ? "Copy backup" : "复制备份"),
-        h("button", {
-          class: "btn",
-          onclick: async () => {
-            let data: unknown;
-            try {
-              data = JSON.parse(backupBox.value);
-            } catch {
-              return toast(en() ? "That isn't a valid backup (paste the whole text)." : "备份数据无效，请粘贴完整内容。");
-            }
-            try {
-              const p = await api.previewImport(data);
-              if (p.empty) return toast(en() ? "This backup has no progress in it." : "这份备份里没有学习进度。");
-              const ok = confirm(
-                en()
-                  ? `Replace your current progress with this backup?\n\n${p.cards} cards · ${p.favourites} favourites · ${p.days} days of history\n\nYour current progress will be kept as a safety copy on this device.`
-                  : `用这份备份替换当前进度吗？\n\n${p.cards} 张卡片 · ${p.favourites} 个收藏 · ${p.days} 天记录\n\n当前进度会在本机保留一份安全副本。`,
-              );
-              if (!ok) return;
-              try {
-                localStorage.setItem("chengyu-progress-before-restore", JSON.stringify(await api.exportData()));
-              } catch {
-                // ignore: the confirmation already warned this replaces progress
-              }
-              const r = await api.importData(data);
-              await loadState(); // pick up the restored settings
-              backupBox.value = "";
-              toast(en() ? `Restored ${r.cards} cards and ${r.favourites} favourites` : `已恢复 ${r.cards} 张卡片和 ${r.favourites} 个收藏`, 4000);
-              renderMe(root);
-            } catch (e) {
-              toast(`${en() ? "Couldn't restore" : "恢复失败"}: ${String(e).replace(/^Error: /, "")}`, 5000);
-            }
-          },
-        }, en() ? "Restore" : "恢复"),
-      ),
-      backupBox,
+      // Reminders need native notifications, so they only exist in the Android/iOS app.
+      isTauri()
+        ? [
+            switchRow(en() ? "Daily reminder with chengyu of the day" : "每日提醒（附每日一词）", s.reminders, async (v) => {
+              await saveSettings({ reminders: v });
+              const ok = await scheduleReminders();
+              if (v && !ok) toast(en() ? "Notifications are not allowed" : "未获得通知权限");
+            }),
+            h("label", { class: "setting-row" }, h("span", null, en() ? "Reminder time" : "提醒时间"), timeInput),
+          ]
+        : null,
     ),
     updatesSection(),
     !isTauri() && !isStandalone() && (canPromptInstall() || isIos())

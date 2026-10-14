@@ -10,6 +10,12 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.6",
+    date: "2026-10-14",
+    en: ["Page headings are now red.", "Simpler Me tab: removed the daily goal, backups and (in the web app) reminders."],
+    zh: ["页面标题改为红色。", "精简\u201c我的\u201d：移除每日目标、备份，以及网页版中的提醒。"],
+  },
+  {
     version: "0.5",
     date: "2026-10-14",
     en: [

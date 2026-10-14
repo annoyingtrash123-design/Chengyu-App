@@ -367,3 +367,6 @@ h1.hanzi-xl { margin: 0; }
 .tab { flex: 1; min-width: 0; }
 .tab-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
 @media (max-width: 340px) { .tab-label { font-size: 10px; } .tab-icon { width: 30px; } }
+
+/* Page headings in the brand red */
+.page-header h1, .hero-title { color: var(--accent); }

@@ -23,8 +23,7 @@ let pendingReload = false;
 
 /** Pages where an automatic reload would lose what you're doing. */
 const busy = () =>
-  (/^#\/(study|games\/)/.test(location.hash) && document.querySelector(".flashcard, .question, .slots, .memory-grid, .match-cols, .chain-form") !== null) ||
-  !!(document.querySelector("textarea.backup") as HTMLTextAreaElement | null)?.value;
+  (/^#\/(study|games\/)/.test(location.hash) && document.querySelector(".flashcard, .question, .slots, .memory-grid, .match-cols, .chain-form") !== null);
 
 function reloadNow() {
   location.reload();
