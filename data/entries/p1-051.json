@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "zhi-cuo-jiu-gai",
+    "text": "知错就改",
+    "pinyin": "zhī cuò jiù gǎi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "mistakes-and-correction",
+      "positive-character-qualities"
+    ],
+    "literal": "know · wrong · then · correct",
+    "natural": "fix a mistake as soon as you see it",
+    "meaning": {
+      "en": "To correct a mistake as soon as one realises it.",
+      "zh": "知道自己错了就马上改正。"
+    },
+    "equivalents": [
+      "own up and put it right",
+      "learn from your mistakes"
+    ],
+    "examples": [
+      {
+        "zh": "知错就改，还是好孩子。",
+        "en": "If you correct your mistake once you know it, you're still a good kid."
+      },
+      {
+        "zh": "领导干部也要知错就改，不能文过饰非。",
+        "en": "Officials too must correct mistakes when they see them, not paper over them."
+      },
+      {
+        "zh": "这次方案出了问题，团队知错就改，第二天就拿出了新版本。",
+        "en": "The plan had problems; the team owned it and had a new version the next day."
+      }
+    ],
+    "usage": {
+      "en": "Very common in parenting and school talk; 知错能改 is the slightly more formal form.",
+      "zh": "常用于教育孩子；“知错能改”略书面。"
+    },
+    "synonyms": [
+      "改过自新",
+      "迷途知返",
+      "闻过则喜"
+    ],
+    "antonyms": [
+      "文过饰非",
+      "执迷不悟",
+      "一错再错"
+    ]
+  },
+  {
+    "id": "sui-ji-ying-bian",
+    "text": "随机应变",
+    "pinyin": "suí jī yìng biàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "adaptability"
+    ],
+    "literal": "follow · opportunity · respond · change",
+    "natural": "adapt to circumstances as they arise",
+    "meaning": {
+      "en": "To act flexibly according to how a situation develops.",
+      "zh": "根据情况的变化，灵活应付。"
+    },
+    "equivalents": [
+      "think on one's feet",
+      "play it by ear",
+      "roll with the punches"
+    ],
+    "examples": [
+      {
+        "zh": "谈判中情况千变万化，要学会随机应变。",
+        "en": "Negotiations shift constantly; you have to learn to think on your feet."
+      },
+      {
+        "zh": "导游很会随机应变，下雨了就改去博物馆。",
+        "en": "The guide adapted easily; when it rained, we went to the museum instead."
+      },
+      {
+        "zh": "主持人随机应变，化解了舞台上的尴尬。",
+        "en": "The host improvised and smoothed over the awkward moment on stage."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (随机应变的能力). Usually praise; contrast 见风使舵, which is unprincipled.",
+      "zh": "多作谓语、定语，含褒义；与贬义的“见风使舵”不同。"
+    },
+    "synonyms": [
+      "见机行事",
+      "因地制宜",
+      "灵机一动"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "刻舟求剑",
+      "一成不变"
+    ]
+  },
+  {
+    "id": "chang-chou-liang-sha",
+    "text": "唱筹量沙",
+    "pinyin": "chàng chóu liáng shā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "war",
+      "military-strategy-and-victory",
+      "deception-and-false-appearances",
+      "historical-records"
+    ],
+    "literal": "call out · tallies · measure · sand",
+    "natural": "measuring sand and calling it grain",
+    "meaning": {
+      "en": "To fake abundance to steady one's own side and fool the enemy.",
+      "zh": "比喻用假象安定军心、迷惑敌人。"
+    },
+    "equivalents": [
+      "put on a brave show",
+      "bluff about one's reserves"
+    ],
+    "examples": [
+      {
+        "zh": "檀道济唱筹量沙，使魏军不敢追击。",
+        "en": "Tan Daoji measured sand as if it were grain, and the Wei army dared not pursue."
+      },
+      {
+        "zh": "公司资金紧张，老板却唱筹量沙，稳住了投资人。",
+        "en": "Cash was tight, but the boss put on a show of plenty and kept the investors calm."
+      }
+    ],
+    "origin": {
+      "source": "《南史·檀道济传》",
+      "story": {
+        "en": "Liu Song general Tan Daoji, deep in Wei territory and out of food, had his men measure sand by night while loudly calling out the tallies, then spread the last of the rice on top. Wei spies reported ample grain, and the army withdrew safely.",
+        "zh": "南朝宋檀道济北伐，军粮将尽，夜里让士兵量沙并高声报数，再把仅剩的米盖在沙上。魏军探子以为宋军粮足，不敢追击，宋军得以全师而还。"
+      }
+    },
+    "usage": {
+      "en": "Literary; mostly in historical or strategic writing.",
+      "zh": "多用于书面，谈历史或谋略。"
+    },
+    "synonyms": [
+      "空城计",
+      "虚张声势"
+    ],
+    "antonyms": [
+      "示弱于人"
+    ]
+  },
+  {
+    "id": "niu-zhuan-qian-kun",
+    "text": "扭转乾坤",
+    "pinyin": "niǔ zhuǎn qián kūn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "change",
+      "comebacks-and-renewal",
+      "success"
+    ],
+    "literal": "twist · turn · heaven · earth",
+    "natural": "turn the whole situation around",
+    "meaning": {
+      "en": "To reverse a hopeless situation completely.",
+      "zh": "比喻从根本上改变已成定局的局面。"
+    },
+    "equivalents": [
+      "turn the tide",
+      "turn things around",
+      "pull off a comeback"
+    ],
+    "examples": [
+      {
+        "zh": "最后十分钟他连进两球，扭转乾坤。",
+        "en": "He scored twice in the last ten minutes and turned the game around."
+      },
+      {
+        "zh": "新厂长上任后大胆改革，扭转乾坤，工厂扭亏为盈。",
+        "en": "The new director's bold reforms turned the factory from loss to profit."
+      },
+      {
+        "zh": "仅靠一个人很难扭转乾坤。",
+        "en": "One person alone can hardly reverse the whole situation."
+      }
+    ],
+    "usage": {
+      "en": "Common in sports and business reporting. 乾坤 is heaven and earth, i.e. the whole state of things.",
+      "zh": "多用于体育、商业报道。“乾坤”指天地，引申为局势。"
+    },
+    "synonyms": [
+      "力挽狂澜",
+      "转败为胜",
+      "起死回生"
+    ],
+    "antonyms": [
+      "每况愈下",
+      "一败涂地",
+      "回天乏术"
+    ]
+  },
+  {
+    "id": "feng-huang-nie-pan",
+    "text": "凤凰涅槃",
+    "pinyin": "fèng huáng niè pán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "change",
+      "comebacks-and-renewal",
+      "myths-legends"
+    ],
+    "literal": "phoenix · nirvana",
+    "natural": "the phoenix's rebirth through fire",
+    "meaning": {
+      "en": "Emerging renewed and stronger after a painful ordeal.",
+      "zh": "比喻经历磨难后获得新生，变得更强大。"
+    },
+    "equivalents": [
+      "rise like a phoenix",
+      "reborn from the ashes"
+    ],
+    "examples": [
+      {
+        "zh": "这家老字号经历破产重组，终于凤凰涅槃。",
+        "en": "After bankruptcy and restructuring, the old brand rose again like a phoenix."
+      },
+      {
+        "zh": "经过那场大病，她像凤凰涅槃一样，对生活有了新的理解。",
+        "en": "After that serious illness she was reborn, with a new understanding of life."
+      },
+      {
+        "zh": "这座城市在地震后凤凰涅槃，焕发新生。",
+        "en": "The city rose from the ashes of the earthquake, full of new life."
+      }
+    ],
+    "origin": {
+      "source": "郭沫若《凤凰涅槃》（1920）",
+      "story": {
+        "en": "Guo Moruo's 1920 poem retold the legend of a phoenix that burns itself on a pyre every five hundred years and rises from the ashes, as a symbol of China's rebirth. The phrase spread from there.",
+        "zh": "郭沫若1920年作长诗《凤凰涅槃》，借凤凰每五百年集香木自焚、从死灰中更生的传说，象征民族的新生，此语由此流行。"
+      }
+    },
+    "usage": {
+      "en": "A modern coinage, popular in news and speeches about recovery and reform. Often with 浴火重生.",
+      "zh": "现代说法，多用于报道复兴、改革，常与“浴火重生”连用。"
+    },
+    "synonyms": [
+      "浴火重生",
+      "脱胎换骨",
+      "东山再起"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "江河日下"
+    ]
+  },
+  {
+    "id": "yu-huo-chong-sheng",
+    "text": "浴火重生",
+    "pinyin": "yù huǒ chóng shēng",
+    "kind": "phrase",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "change",
+      "comebacks-and-renewal"
+    ],
+    "literal": "bathe · fire · again · born",
+    "natural": "reborn through fire",
+    "meaning": {
+      "en": "To be reborn stronger after great hardship.",
+      "zh": "经历苦难和考验后获得新生。"
+    },
+    "equivalents": [
+      "rise from the ashes",
+      "come back stronger"
+    ],
+    "examples": [
+      {
+        "zh": "球队经历降级后浴火重生，第二年就重返顶级联赛。",
+        "en": "The team rose from the ashes of relegation and was back in the top league the next year."
+      },
+      {
+        "zh": "这片森林大火之后浴火重生，又长出了新绿。",
+        "en": "After the wildfire, the forest was reborn and turned green again."
+      },
+      {
+        "zh": "他把失败当作浴火重生的机会。",
+        "en": "He treated failure as a chance to come back stronger."
+      }
+    ],
+    "usage": {
+      "en": "Modern; inspired by the phoenix image. Often paired with 凤凰涅槃.",
+      "zh": "现代说法，源于凤凰意象，常与“凤凰涅槃”并用。"
+    },
+    "synonyms": [
+      "凤凰涅槃",
+      "东山再起",
+      "重整旗鼓"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "po-tian-huang",
+    "text": "破天荒",
+    "pinyin": "pò tiān huāng",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "unprecedented-situations"
+    ],
+    "literal": "break · heaven's · barrenness",
+    "natural": "for the very first time",
+    "meaning": {
+      "en": "Something that happens for the first time ever.",
+      "zh": "比喻事情第一次出现。"
+    },
+    "equivalents": [
+      "for the first time ever",
+      "unheard of",
+      "a first"
+    ],
+    "examples": [
+      {
+        "zh": "他破天荒地早起做了早饭。",
+        "en": "For once in his life, he got up early and made breakfast."
+      },
+      {
+        "zh": "我们村今年破天荒出了个博士。",
+        "en": "For the first time ever, our village produced a PhD this year."
+      },
+      {
+        "zh": "一向沉默的他今天破天荒发了言。",
+        "en": "He's always silent, but today, for the first time, he spoke up."
+      }
+    ],
+    "origin": {
+      "source": "宋·孙光宪《北梦琐言》",
+      "story": {
+        "en": "In Tang times Jingzhou sent candidates to the imperial exams year after year, but none ever passed, so it was mocked as a 'barren land' (天荒). When Liu Tui finally passed, people said he had 'broken the barrenness'.",
+        "zh": "唐代荆州每年送举人应考，却无一人考中，被称为“天荒”。后来刘蜕考中进士，人称“破天荒”。"
+      }
+    },
+    "usage": {
+      "en": "Usually adverbial with 地, or 破天荒头一回. Often humorous about someone's unusual behaviour.",
+      "zh": "多作状语（破天荒地……），也说“破天荒头一回”；常带调侃。"
+    },
+    "synonyms": [
+      "史无前例",
+      "前所未有",
+      "开天辟地"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "屡见不鲜",
+      "家常便饭"
+    ]
+  },
+  {
+    "id": "biao-zhun-da-an",
+    "text": "标准答案",
+    "pinyin": "biāo zhǔn dá àn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "learning"
+    ],
+    "literal": "standard · answer",
+    "natural": "the model answer",
+    "meaning": {
+      "en": "The officially correct answer; figuratively, a single 'right' solution.",
+      "zh": "考试规定的正确答案；也比喻唯一正确的结论。"
+    },
+    "equivalents": [
+      "the right answer",
+      "the answer key",
+      "a one-size-fits-all answer"
+    ],
+    "examples": [
+      {
+        "zh": "考完试，同学们都在对标准答案。",
+        "en": "After the exam, everyone was checking their answers against the key."
+      },
+      {
+        "zh": "人生没有标准答案，适合自己的才是最好的。",
+        "en": "There's no model answer in life; what suits you is best."
+      },
+      {
+        "zh": "这道开放题没有标准答案，言之有理即可。",
+        "en": "This open question has no set answer; any well-argued view is fine."
+      }
+    ],
+    "usage": {
+      "en": "Literal in schools; figuratively common in 没有标准答案 'there's no one right answer'.",
+      "zh": "本义用于考试；引申义多见于“没有标准答案”。"
+    },
+    "synonyms": [
+      "金科玉律"
+    ],
+    "antonyms": [
+      "众说纷纭",
+      "见仁见智"
+    ]
+  },
+  {
+    "id": "zhun-sheng-gui-ju",
+    "text": "准绳规矩",
+    "pinyin": "zhǔn shéng guī jǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks"
+    ],
+    "literal": "level · line · compass · square",
+    "natural": "rules and standards",
+    "meaning": {
+      "en": "Standards and rules by which things are judged.",
+      "zh": "衡量事物的标准和法则。"
+    },
+    "equivalents": [
+      "rules and yardsticks",
+      "standards to go by"
+    ],
+    "examples": [
+      {
+        "zh": "做事要有准绳规矩，不能随心所欲。",
+        "en": "You need rules and standards to work by, not just do as you please."
+      },
+      {
+        "zh": "这些行业准绳规矩是多年经验的总结。",
+        "en": "These industry standards are the sum of many years' experience."
+      }
+    ],
+    "usage": {
+      "en": "Combines 准绳 (plumb line) and 规矩 (compass and square); each half is more common alone.",
+      "zh": "由“准绳”和“规矩”合成，两者单用更常见。"
+    },
+    "synonyms": [
+      "清规戒律",
+      "金科玉律"
+    ],
+    "antonyms": [
+      "随心所欲",
+      "无法无天"
+    ]
+  },
+  {
+    "id": "duo-de-liang-li",
+    "text": "度德量力",
+    "pinyin": "duó dé liàng lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "standards-and-benchmarks",
+      "wisdom",
+      "confucian-classics",
+      "historical-records"
+    ],
+    "literal": "gauge · virtue · measure · strength",
+    "natural": "weigh one's own virtue and strength",
+    "meaning": {
+      "en": "To assess one's own moral standing and ability before acting.",
+      "zh": "衡量自己的德行和能力是否胜任。"
+    },
+    "equivalents": [
+      "know one's limits",
+      "size oneself up"
+    ],
+    "examples": [
+      {
+        "zh": "创业之前要度德量力，不可盲目跟风。",
+        "en": "Before starting a business, size up your abilities; don't just follow the crowd."
+      },
+      {
+        "zh": "他度德量力，主动让出了这个职位。",
+        "en": "Knowing his limits, he stepped aside from the post."
+      }
+    ],
+    "origin": {
+      "source": "《左传·隐公十一年》",
+      "story": {
+        "en": "Zuo zhuan praises Duke Zhuang of Zheng: 'He gauged his virtue and placed himself accordingly; he measured his strength and acted within it' (度德而处之，量力而行之).",
+        "zh": "《左传》称赞郑庄公：“度德而处之，量力而行之。”"
+      }
+    },
+    "usage": {
+      "en": "度 is read duó (to estimate) here, not dù. Literary.",
+      "zh": "“度”读duó，意为估量。书面语。"
+    },
+    "synonyms": [
+      "量力而行",
+      "自知之明"
+    ],
+    "antonyms": [
+      "不自量力",
+      "螳臂当车"
+    ]
+  },
+  {
+    "id": "quan-heng-li-bi",
+    "text": "权衡利弊",
+    "pinyin": "quán héng lì bì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "wisdom",
+      "standards-and-benchmarks"
+    ],
+    "literal": "weigh · balance · benefit · harm",
+    "natural": "weigh the pros and cons",
+    "meaning": {
+      "en": "To weigh up advantages and disadvantages before deciding.",
+      "zh": "比较好处和坏处，再作决定。"
+    },
+    "equivalents": [
+      "weigh the pros and cons",
+      "do a cost-benefit analysis"
+    ],
+    "examples": [
+      {
+        "zh": "权衡利弊之后，他决定留在国内工作。",
+        "en": "After weighing the pros and cons, he decided to work at home."
+      },
+      {
+        "zh": "这件事要权衡利弊，不能凭一时冲动。",
+        "en": "We must weigh up the pros and cons, not act on impulse."
+      },
+      {
+        "zh": "政府在权衡利弊后推迟了这项政策。",
+        "en": "After weighing the costs and benefits, the government postponed the policy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 权衡利弊之后 / 再三权衡利弊.",
+      "zh": "多作谓语，常说“权衡利弊之后”。"
+    },
+    "synonyms": [
+      "三思而行",
+      "深思熟虑"
+    ],
+    "antonyms": [
+      "轻举妄动",
+      "草率行事"
+    ]
+  },
+  {
+    "id": "heng-liang-biao-zhun",
+    "text": "衡量标准",
+    "pinyin": "héng liáng biāo zhǔn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "measure"
+    ],
+    "literal": "weigh · measure · standard",
+    "natural": "yardstick",
+    "meaning": {
+      "en": "The criterion by which something is judged.",
+      "zh": "用来评判事物的标准。"
+    },
+    "equivalents": [
+      "yardstick",
+      "benchmark",
+      "criterion"
+    ],
+    "examples": [
+      {
+        "zh": "分数不应该是唯一的衡量标准。",
+        "en": "Grades shouldn't be the only yardstick."
+      },
+      {
+        "zh": "成功的衡量标准因人而异。",
+        "en": "The yardstick of success differs from person to person."
+      },
+      {
+        "zh": "我们需要统一的衡量标准来评估这些项目。",
+        "en": "We need a common benchmark to evaluate these projects."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase. Note 衡量 can split from 标准 as in 衡量…的标准.",
+      "zh": "名词短语；也常拆开说“衡量……的标准”。"
+    },
+    "synonyms": [
+      "准绳规矩"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gong-ping-gong-zheng",
+    "text": "公平公正",
+    "pinyin": "gōng píng gōng zhèng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance"
+    ],
+    "literal": "fair · even · fair · upright",
+    "natural": "fair and just",
+    "meaning": {
+      "en": "Fair, impartial and just.",
+      "zh": "公平合理，不偏不倚。"
+    },
+    "equivalents": [
+      "fair and square",
+      "fair and impartial",
+      "even-handed"
+    ],
+    "examples": [
+      {
+        "zh": "比赛必须公平公正，裁判不能偏袒任何一方。",
+        "en": "The match must be fair; the referee can't favour either side."
+      },
+      {
+        "zh": "招聘过程公平公正，人人机会均等。",
+        "en": "Hiring is fair and impartial, with equal chances for all."
+      },
+      {
+        "zh": "老师处理同学之间的矛盾很公平公正。",
+        "en": "The teacher handles disputes between students very even-handedly."
+      }
+    ],
+    "usage": {
+      "en": "Common in official language; also 公开、公平、公正 'open, fair and just'.",
+      "zh": "常见于官方语言，也说“公开、公平、公正”。"
+    },
+    "synonyms": [
+      "大公无私",
+      "一视同仁",
+      "不偏不倚"
+    ],
+    "antonyms": [
+      "厚此薄彼",
+      "徇私舞弊",
+      "偏听偏信"
+    ]
+  },
+  {
+    "id": "xin-ru-ming-jing",
+    "text": "心如明镜",
+    "pinyin": "xīn rú míng jìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "mental-clarity",
+      "fairness-and-impartiality"
+    ],
+    "literal": "heart · like · bright · mirror",
+    "natural": "a mind as clear as a mirror",
+    "meaning": {
+      "en": "Seeing things clearly and judging fairly.",
+      "zh": "心里像明亮的镜子，看得清楚，判断公正。"
+    },
+    "equivalents": [
+      "clear-sighted",
+      "see right through it"
+    ],
+    "examples": [
+      {
+        "zh": "这件事谁对谁错，他心如明镜。",
+        "en": "He sees perfectly clearly who's right and who's wrong here."
+      },
+      {
+        "zh": "老法官心如明镜，一眼看穿了伪证。",
+        "en": "The old judge, clear as a mirror, saw through the false testimony at once."
+      }
+    ],
+    "usage": {
+      "en": "Often 心如明镜似的 in speech: someone knows the truth but may keep quiet.",
+      "zh": "口语常说“心里明镜似的”，指心里很清楚。"
+    },
+    "synonyms": [
+      "洞若观火",
+      "明察秋毫"
+    ],
+    "antonyms": [
+      "糊里糊涂",
+      "一头雾水"
+    ]
+  },
+  {
+    "id": "leng-jing-ke-guan",
+    "text": "冷静客观",
+    "pinyin": "lěng jìng kè guān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "fairness-and-impartiality"
+    ],
+    "literal": "calm · objective",
+    "natural": "calm and objective",
+    "meaning": {
+      "en": "Calm and objective, not swayed by emotion.",
+      "zh": "头脑冷静，看问题不带个人感情。"
+    },
+    "equivalents": [
+      "level-headed",
+      "cool and objective",
+      "dispassionate"
+    ],
+    "examples": [
+      {
+        "zh": "遇到争议时，要冷静客观地分析问题。",
+        "en": "In a dispute, analyse the problem calmly and objectively."
+      },
+      {
+        "zh": "这篇报道冷静客观，没有煽动情绪。",
+        "en": "The report is calm and objective, with no stirring up of emotions."
+      },
+      {
+        "zh": "她总能冷静客观地看待自己的缺点。",
+        "en": "She can always look at her own shortcomings level-headedly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (冷静客观地…).",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "实事求是",
+      "心平气和"
+    ],
+    "antonyms": [
+      "感情用事",
+      "意气用事"
+    ]
+  },
+  {
+    "id": "si-lu-qing-xi",
+    "text": "思路清晰",
+    "pinyin": "sī lù qīng xī",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "speech",
+      "essay-favourites"
+    ],
+    "literal": "thought · road · clear",
+    "natural": "clear-headed",
+    "meaning": {
+      "en": "Thinking or presenting ideas in a clear, logical way.",
+      "zh": "思考或表达的条理很清楚。"
+    },
+    "equivalents": [
+      "clear thinking",
+      "well-organised",
+      "lucid"
+    ],
+    "examples": [
+      {
+        "zh": "他的演讲思路清晰，重点突出。",
+        "en": "His speech was lucid and the key points stood out."
+      },
+      {
+        "zh": "写作文之前先列提纲，才能思路清晰。",
+        "en": "Make an outline before writing so your thinking is clear."
+      },
+      {
+        "zh": "面试时回答问题要思路清晰。",
+        "en": "In an interview, answer questions in a clear, organised way."
+      }
+    ],
+    "usage": {
+      "en": "Very common praise for speeches, essays and interviews.",
+      "zh": "常用于评价演讲、作文、面试。"
+    },
+    "synonyms": [
+      "条理分明",
+      "有条不紊"
+    ],
+    "antonyms": [
+      "语无伦次",
+      "一团乱麻",
+      "云里雾里"
+    ]
+  },
+  {
+    "id": "tiao-li-fen-ming",
+    "text": "条理分明",
+    "pinyin": "tiáo lǐ fēn míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "speech",
+      "excellent-writing"
+    ],
+    "literal": "order · logic · distinct · clear",
+    "natural": "well-ordered and clear",
+    "meaning": {
+      "en": "Well organised, with each point clearly distinguished.",
+      "zh": "层次清楚，有条有理。"
+    },
+    "equivalents": [
+      "well-structured",
+      "orderly",
+      "logically laid out"
+    ],
+    "examples": [
+      {
+        "zh": "这份报告条理分明，读起来很轻松。",
+        "en": "This report is well structured and easy to read."
+      },
+      {
+        "zh": "她把复杂的流程讲得条理分明。",
+        "en": "She explained the complicated process in a clear, orderly way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for writing, speech, plans.",
+      "zh": "多作谓语、定语，评价文章、讲话、计划。"
+    },
+    "synonyms": [
+      "有条不紊",
+      "井井有条",
+      "思路清晰"
+    ],
+    "antonyms": [
+      "杂乱无章",
+      "语无伦次",
+      "乱七八糟"
+    ]
+  },
+  {
+    "id": "yi-huo-chong-chong",
+    "text": "疑惑重重",
+    "pinyin": "yí huò chóng chóng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion",
+      "confusion-and-doubt"
+    ],
+    "literal": "doubt · layer upon layer",
+    "natural": "full of doubts",
+    "meaning": {
+      "en": "Having many doubts and unanswered questions.",
+      "zh": "心中有许多疑问。"
+    },
+    "equivalents": [
+      "full of doubts",
+      "riddled with questions"
+    ],
+    "examples": [
+      {
+        "zh": "听完他的解释，大家仍然疑惑重重。",
+        "en": "After his explanation, everyone still had many doubts."
+      },
+      {
+        "zh": "这起案件疑惑重重，警方还在调查。",
+        "en": "The case is full of unanswered questions; the police are still investigating."
+      }
+    ],
+    "usage": {
+      "en": "Also 疑云重重, 疑点重重 for a case with many suspicious points.",
+      "zh": "也说“疑云重重”“疑点重重”。"
+    },
+    "synonyms": [
+      "满腹狐疑",
+      "将信将疑"
+    ],
+    "antonyms": [
+      "深信不疑",
+      "恍然大悟",
+      "豁然开朗"
+    ]
+  },
+  {
+    "id": "yun-li-wu-li",
+    "text": "云里雾里",
+    "pinyin": "yún lǐ wù lǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "confusion",
+      "confusion-and-doubt"
+    ],
+    "literal": "in clouds · in fog",
+    "natural": "lost in a fog",
+    "meaning": {
+      "en": "Completely confused and unable to follow.",
+      "zh": "像在云雾中一样，弄不清楚。"
+    },
+    "equivalents": [
+      "lost",
+      "in a fog",
+      "it went over my head"
+    ],
+    "examples": [
+      {
+        "zh": "他讲得太专业，我听得云里雾里。",
+        "en": "He was so technical that I was completely lost."
+      },
+      {
+        "zh": "这份合同条款写得让人云里雾里。",
+        "en": "The contract terms leave you in a total fog."
+      }
+    ],
+    "usage": {
+      "en": "Usually after 听得/看得/说得. Casual.",
+      "zh": "多用在“听得、看得、说得”后。口语。"
+    },
+    "synonyms": [
+      "一头雾水",
+      "莫名其妙",
+      "丈二和尚——摸不着头脑"
+    ],
+    "antonyms": [
+      "一清二楚",
+      "恍然大悟",
+      "心如明镜"
+    ]
+  },
+  {
+    "id": "xi-li-hu-tu",
+    "text": "稀里糊涂",
+    "pinyin": "xī lǐ hú tú",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "confusion",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "muddled · confused",
+    "natural": "in a muddle",
+    "meaning": {
+      "en": "Muddled; doing something without understanding how or why.",
+      "zh": "糊里糊涂，不明不白。"
+    },
+    "equivalents": [
+      "muddle-headed",
+      "without knowing how",
+      "somehow or other"
+    ],
+    "examples": [
+      {
+        "zh": "我稀里糊涂地就签了字。",
+        "en": "I signed it without really knowing what I was doing."
+      },
+      {
+        "zh": "他稀里糊涂过了一年，什么也没学到。",
+        "en": "He muddled through a whole year and learned nothing."
+      },
+      {
+        "zh": "这事儿稀里糊涂就过去了。",
+        "en": "Somehow the matter just blew over."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial with 地 or predicate. Close in meaning to 糊里糊涂.",
+      "zh": "多作状语、谓语。与“糊里糊涂”意思相近。"
+    },
+    "synonyms": [
+      "糊里糊涂",
+      "浑浑噩噩"
+    ],
+    "antonyms": [
+      "一清二楚",
+      "明明白白"
+    ]
+  },
+  {
+    "id": "yi-tou-wu-shui",
+    "text": "一头雾水",
+    "pinyin": "yī tóu wù shuǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "confusion",
+      "confusion-and-doubt"
+    ],
+    "literal": "a head · of fog-water",
+    "natural": "completely baffled",
+    "meaning": {
+      "en": "Totally confused, with no idea what is going on.",
+      "zh": "摸不着头脑，完全弄不明白。"
+    },
+    "equivalents": [
+      "baffled",
+      "clueless",
+      "scratching one's head"
+    ],
+    "examples": [
+      {
+        "zh": "老板突然发火，大家都一头雾水。",
+        "en": "The boss suddenly blew up and everyone was baffled."
+      },
+      {
+        "zh": "这个说明书看得我一头雾水。",
+        "en": "These instructions left me completely clueless."
+      },
+      {
+        "zh": "他刚来公司，对流程还是一头雾水。",
+        "en": "He's new and still has no idea how things work."
+      }
+    ],
+    "usage": {
+      "en": "Originally Cantonese, now standard across China. Predicate.",
+      "zh": "源自粤语，现已通用。多作谓语。"
+    },
+    "synonyms": [
+      "丈二和尚——摸不着头脑",
+      "莫名其妙",
+      "云里雾里"
+    ],
+    "antonyms": [
+      "一清二楚",
+      "恍然大悟",
+      "心如明镜"
+    ]
+  },
+  {
+    "id": "zhang-er-he-shang-mo-bu-zhao-tou-nao",
+    "text": "丈二和尚——摸不着头脑",
+    "pinyin": "zhàng èr hé shàng —— mō bù zháo tóu nǎo",
+    "kind": "xiehouyu",
+    "frequency": 2,
+    "parts": [
+      "丈二和尚",
+      "摸不着头脑"
+    ],
+    "variants": [
+      "丈二和尚",
+      "丈二和尚摸不着头脑"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "confusion",
+      "confusion-and-doubt"
+    ],
+    "literal": "ten-foot monk — can't reach (his) head",
+    "natural": "a ten-foot monk — you can't reach his head",
+    "meaning": {
+      "en": "Utterly confused; unable to make sense of something.",
+      "zh": "比喻弄不清是怎么回事。"
+    },
+    "equivalents": [
+      "can't make head or tail of it",
+      "baffled"
+    ],
+    "examples": [
+      {
+        "zh": "他这话说得我像丈二和尚——摸不着头脑。",
+        "en": "What he said left me unable to make head or tail of it."
+      },
+      {
+        "zh": "大家被这通知弄得丈二和尚摸不着头脑。",
+        "en": "Everyone was baffled by the notice."
+      },
+      {
+        "zh": "听了半天，我还是丈二和尚。",
+        "en": "After listening for ages, I was still clueless."
+      }
+    ],
+    "usage": {
+      "en": "The first half alone is common: 我真是丈二和尚. 丈二 is twelve Chinese feet, so too tall to reach his head.",
+      "zh": "常只说前半句。“丈二”指一丈二尺，形容和尚很高，摸不到头。"
+    },
+    "synonyms": [
+      "一头雾水",
+      "莫名其妙",
+      "云里雾里"
+    ],
+    "antonyms": [
+      "一清二楚",
+      "恍然大悟"
+    ]
+  },
+  {
+    "id": "jiao-lu-bu-an",
+    "text": "焦虑不安",
+    "pinyin": "jiāo lǜ bù ān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "psychological-pressure"
+    ],
+    "literal": "anxious · not · at ease",
+    "natural": "anxious and restless",
+    "meaning": {
+      "en": "Anxious and unable to settle.",
+      "zh": "焦急忧虑，心神不安。"
+    },
+    "equivalents": [
+      "anxious",
+      "on edge",
+      "restless with worry"
+    ],
+    "examples": [
+      {
+        "zh": "等待体检结果时，他焦虑不安。",
+        "en": "Waiting for his test results, he was on edge."
+      },
+      {
+        "zh": "考试临近，很多学生焦虑不安。",
+        "en": "With exams approaching, many students are anxious and restless."
+      },
+      {
+        "zh": "长期焦虑不安会影响身体健康。",
+        "en": "Long-term anxiety can harm your health."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "忐忑不安",
+      "坐立不安",
+      "心神不宁"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "心平气和",
+      "若无其事"
+    ]
+  },
+  {
+    "id": "bai-nian-yi-yu",
+    "text": "百年一遇",
+    "pinyin": "bǎi nián yī yù",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "百年不遇"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "once-in-a-lifetime-events"
+    ],
+    "literal": "hundred · years · one · encounter",
+    "natural": "once in a century",
+    "meaning": {
+      "en": "So rare it happens about once in a hundred years.",
+      "zh": "一百年才遇到一次，形容极其罕见。"
+    },
+    "equivalents": [
+      "once in a century",
+      "a hundred-year event"
+    ],
+    "examples": [
+      {
+        "zh": "这是一场百年一遇的洪水。",
+        "en": "This is a once-in-a-century flood."
+      },
+      {
+        "zh": "今年夏天遇上百年一遇的高温。",
+        "en": "This summer brought heat of the kind seen once in a hundred years."
+      },
+      {
+        "zh": "这样的投资机会百年一遇。",
+        "en": "An investment chance like this comes once in a century."
+      }
+    ],
+    "usage": {
+      "en": "Common in weather and disaster reports (百年一遇的暴雨); also 千年一遇.",
+      "zh": "多见于气象、灾害报道，也说“千年一遇”。"
+    },
+    "synonyms": [
+      "千载难逢"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "家常便饭"
+    ]
+  },
+  {
+    "id": "qi-ji-ban",
+    "text": "奇迹般",
+    "pinyin": "qí jì bān",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "miraculous-occurrences"
+    ],
+    "literal": "miracle · -like",
+    "natural": "miraculously",
+    "meaning": {
+      "en": "Like a miracle; astonishingly.",
+      "zh": "像奇迹一样，令人惊叹。"
+    },
+    "equivalents": [
+      "miraculously",
+      "as if by a miracle"
+    ],
+    "examples": [
+      {
+        "zh": "他奇迹般地康复了。",
+        "en": "He made a miraculous recovery."
+      },
+      {
+        "zh": "那只小猫奇迹般地从废墟里被救了出来。",
+        "en": "The kitten was miraculously rescued from the rubble."
+      },
+      {
+        "zh": "球队奇迹般地逆转了比分。",
+        "en": "The team turned the score around as if by a miracle."
+      }
+    ],
+    "usage": {
+      "en": "Almost always adverbial: 奇迹般地 + verb.",
+      "zh": "几乎总作状语：奇迹般地……"
+    },
+    "synonyms": [
+      "起死回生",
+      "枯木逢春"
+    ],
+    "antonyms": [
+      "意料之中"
+    ]
+  }
+]
