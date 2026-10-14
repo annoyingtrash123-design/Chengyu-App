@@ -1,0 +1,1300 @@
+[
+  {
+    "id": "qian-hu-hou-yong",
+    "text": "前呼后拥",
+    "pinyin": "qián hū hòu yōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "appearance"
+    ],
+    "literal": "front · shout · back · crowd",
+    "natural": "Heralds in front and a crowd behind",
+    "meaning": {
+      "en": "Surrounded by a large entourage.",
+      "zh": "前面有人吆喝开路，后面有人簇拥保护。形容达官贵人出行时随从很多。"
+    },
+    "equivalents": [
+      "with a big entourage",
+      "surrounded by hangers-on",
+      "with an escort"
+    ],
+    "examples": [
+      {
+        "zh": "明星在保镖的前呼后拥下走进会场。",
+        "en": "The star entered the venue surrounded by bodyguards."
+      },
+      {
+        "zh": "他当官时前呼后拥，退休后门可罗雀。",
+        "en": "In office he had a huge entourage; retired, no one visits."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "众星捧月",
+      "簇拥而至"
+    ],
+    "antonyms": [
+      "孤家寡人",
+      "形单影只",
+      "独来独往"
+    ]
+  },
+  {
+    "id": "jin-yu-man-tang",
+    "text": "金玉满堂",
+    "pinyin": "jīn yù mǎn táng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "success"
+    ],
+    "literal": "gold · jade · fill · hall",
+    "natural": "Gold and jade filling the hall",
+    "meaning": {
+      "en": "Great wealth; a house full of treasures (a blessing). Also: full of learning.",
+      "zh": "金玉财宝满堂。形容财富极多，也形容学识丰富。常用作祝福语。"
+    },
+    "equivalents": [
+      "great wealth",
+      "prosperity",
+      "riches"
+    ],
+    "examples": [
+      {
+        "zh": "祝您新年金玉满堂，富贵吉祥！",
+        "en": "Wishing you a New Year of wealth and good fortune!"
+      },
+      {
+        "zh": "金玉满堂，莫之能守。",
+        "en": "A hall full of gold and jade cannot be guarded forever."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第九章",
+      "story": {
+        "en": "Laozi warned: \"Gold and jade fill the hall, yet none can guard them\" (金玉满堂，莫之能守) — wealth invites loss.",
+        "zh": "《老子》：\"金玉满堂，莫之能守；富贵而骄，自遗其咎。\""
+      }
+    },
+    "usage": {
+      "en": "Mostly a New Year blessing.",
+      "zh": "多用作祝福语。"
+    },
+    "synonyms": [
+      "富贵满堂",
+      "腰缠万贯",
+      "财源滚滚"
+    ],
+    "antonyms": [
+      "家徒四壁",
+      "一贫如洗"
+    ]
+  },
+  {
+    "id": "tian-chang-di-jiu",
+    "text": "天长地久",
+    "pinyin": "tiān cháng dì jiǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "地久天长"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "relationships"
+    ],
+    "literal": "heaven · long · earth · lasting",
+    "natural": "As long as heaven, as lasting as earth",
+    "meaning": {
+      "en": "Everlasting (especially of love or friendship).",
+      "zh": "跟天和地存在的时间一样长。形容时间悠久，多指爱情永恒不变。"
+    },
+    "equivalents": [
+      "forever and ever",
+      "till the end of time",
+      "everlasting",
+      "eternal"
+    ],
+    "examples": [
+      {
+        "zh": "祝你们的爱情天长地久。",
+        "en": "May your love last forever."
+      },
+      {
+        "zh": "我们的友谊地久天长。",
+        "en": "Our friendship will last forever."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第七章",
+      "story": {
+        "en": "Laozi: \"Heaven is long-lasting and earth endures. They endure because they do not live for themselves.\" Bai Juyi's Song of Everlasting Sorrow later used it for love.",
+        "zh": "《老子》：\"天长地久。天地所以能长且久者，以其不自生，故能长生。\"白居易《长恨歌》：\"天长地久有时尽。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Also 地久天长 (title of the Chinese \"Auld Lang Syne\").",
+      "zh": "多作谓语。也作\"地久天长\"。"
+    },
+    "synonyms": [
+      "海枯石烂",
+      "万古长青",
+      "永恒不变"
+    ],
+    "antonyms": [
+      "昙花一现",
+      "过眼云烟",
+      "转瞬即逝"
+    ]
+  },
+  {
+    "id": "ji-lai-zhi-ze-an-zhi",
+    "text": "既来之则安之",
+    "pinyin": "jì lái zhī zé ān zhī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "modest-goals",
+      "wisdom"
+    ],
+    "literal": "since · come · them · then · settle · them",
+    "natural": "Since you've come, settle in",
+    "meaning": {
+      "en": "Since you're here, make the best of it.",
+      "zh": "原指招抚远方的人归附，并使之安心。后指既然来了，就安下心来。"
+    },
+    "equivalents": [
+      "make the best of it",
+      "when in Rome",
+      "might as well settle in"
+    ],
+    "examples": [
+      {
+        "zh": "既来之则安之，好好适应新环境吧。",
+        "en": "Since you're here, make the best of it and settle in."
+      },
+      {
+        "zh": "飞机延误了，既来之则安之，在机场看看书。",
+        "en": "The flight's delayed — might as well make the best of it and read."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius: \"If distant people do not submit, cultivate virtue to attract them; once they have come, make them settled\" (既来之，则安之).",
+        "zh": "《论语·季氏》：\"故远人不服，则修文德以来之；既来之，则安之。\""
+      }
+    },
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多单独成句。"
+    },
+    "synonyms": [
+      "随遇而安",
+      "安之若素"
+    ],
+    "antonyms": [
+      "怨天尤人",
+      "坐立不安"
+    ]
+  },
+  {
+    "id": "jing-wei-tian-hai",
+    "text": "精卫填海",
+    "pinyin": "jīng wèi tián hǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "stories"
+    ],
+    "literal": "Jingwei · fill · sea",
+    "natural": "The Jingwei bird filling the sea",
+    "meaning": {
+      "en": "Dogged determination against impossible odds.",
+      "zh": "比喻意志坚决，不畏艰难。"
+    },
+    "equivalents": [
+      "indomitable will",
+      "never give up",
+      "against all odds"
+    ],
+    "examples": [
+      {
+        "zh": "他以精卫填海的精神坚持了二十年。",
+        "en": "With indomitable will, he persevered for twenty years."
+      },
+      {
+        "zh": "精卫填海的故事告诉我们要坚持不懈。",
+        "en": "The Jingwei story teaches us never to give up."
+      }
+    ],
+    "origin": {
+      "source": "《山海经·北山经》",
+      "story": {
+        "en": "Emperor Yan's daughter drowned in the Eastern Sea and became the Jingwei bird. She carried twigs and pebbles from the Western Hills every day to fill the sea.",
+        "zh": "炎帝的女儿在东海溺死，化为精卫鸟，常衔西山的木石填东海。"
+      }
+    },
+    "usage": {
+      "en": "Attributive or subject.",
+      "zh": "多作定语、主语。"
+    },
+    "synonyms": [
+      "愚公移山",
+      "锲而不舍",
+      "持之以恒"
+    ],
+    "antonyms": [
+      "半途而废",
+      "知难而退"
+    ]
+  },
+  {
+    "id": "er-bin-si-mo",
+    "text": "耳鬓厮磨",
+    "pinyin": "ěr bìn sī mó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "body"
+    ],
+    "literal": "ear · temple-hair · rub · touch",
+    "natural": "Ears and temples rubbing together",
+    "meaning": {
+      "en": "Very close and intimate since childhood.",
+      "zh": "耳与鬓发相摩擦。形容亲密相处，多指青梅竹马。"
+    },
+    "equivalents": [
+      "inseparable",
+      "grew up side by side",
+      "close as can be"
+    ],
+    "examples": [
+      {
+        "zh": "他们从小耳鬓厮磨，感情深厚。",
+        "en": "They grew up side by side and are deeply attached."
+      },
+      {
+        "zh": "宝玉和黛玉耳鬓厮磨，情投意合。",
+        "en": "Baoyu and Daiyu were inseparable and kindred spirits."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 厮 is sī.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "青梅竹马",
+      "两小无猜",
+      "形影不离"
+    ],
+    "antonyms": [
+      "形同陌路",
+      "素不相识"
+    ]
+  },
+  {
+    "id": "wei-ru-lei-luan",
+    "text": "危如累卵",
+    "pinyin": "wēi rú lěi luǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "danger",
+      "structural-problems"
+    ],
+    "literal": "dangerous · like · stacked · eggs",
+    "natural": "As precarious as stacked eggs",
+    "meaning": {
+      "en": "Extremely precarious.",
+      "zh": "危险得像垒起来的蛋。比喻形势非常危险。"
+    },
+    "equivalents": [
+      "hanging by a thread",
+      "a house of cards",
+      "on a knife edge",
+      "precarious"
+    ],
+    "examples": [
+      {
+        "zh": "当时形势危如累卵。",
+        "en": "The situation at the time was hanging by a thread."
+      },
+      {
+        "zh": "公司财务危如累卵。",
+        "en": "The company's finances are a house of cards."
+      }
+    ],
+    "origin": {
+      "source": "《史记·范雎蔡泽列传》",
+      "story": {
+        "en": "Fan Ju warned the King of Qin that his state was \"more dangerous than stacked eggs\" (秦王之国危于累卵).",
+        "zh": "范雎说：\"秦王之国危于累卵。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 累 is lěi.",
+      "zh": "多作谓语。\"累\"读 lěi。"
+    },
+    "synonyms": [
+      "岌岌可危",
+      "摇摇欲坠",
+      "千钧一发"
+    ],
+    "antonyms": [
+      "稳如泰山",
+      "坚如磐石",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "fu-jing-qing-zui",
+    "text": "负荆请罪",
+    "pinyin": "fù jīng qǐng zuì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "conduct"
+    ],
+    "literal": "carry · thorns · request · punishment",
+    "natural": "Carrying thorns to ask for punishment",
+    "meaning": {
+      "en": "To offer a humble, sincere apology.",
+      "zh": "背着荆条向对方请罪。表示向人认错赔罪。"
+    },
+    "equivalents": [
+      "eat humble pie",
+      "apologise on bended knee",
+      "sackcloth and ashes"
+    ],
+    "examples": [
+      {
+        "zh": "他意识到错误后，负荆请罪。",
+        "en": "Realising his mistake, he went to apologise humbly."
+      },
+      {
+        "zh": "我今天是来负荆请罪的。",
+        "en": "I've come today to apologise properly."
+      }
+    ],
+    "origin": {
+      "source": "《史记·廉颇蔺相如列传》",
+      "story": {
+        "en": "General Lian Po resented the minister Lin Xiangru's promotion, but Lin avoided conflict for the state's sake. Ashamed, Lian Po stripped to the waist, carried thorny branches on his back and went to beg forgiveness.",
+        "zh": "廉颇不满蔺相如位居其上，蔺相如以国事为重处处退让。廉颇得知后惭愧，袒露上身背着荆条到蔺相如家请罪。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "引咎自责",
+      "登门谢罪"
+    ],
+    "antonyms": [
+      "兴师问罪",
+      "文过饰非"
+    ]
+  },
+  {
+    "id": "wei-wei-jiu-zhao",
+    "text": "围魏救赵",
+    "pinyin": "wéi wèi jiù zhào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "stories"
+    ],
+    "literal": "besiege · Wei · rescue · Zhao",
+    "natural": "Besieging Wei to rescue Zhao",
+    "meaning": {
+      "en": "To relieve an ally by attacking the enemy's base.",
+      "zh": "比喻袭击敌人后方的据点以迫使进攻之敌撤退的战术。"
+    },
+    "equivalents": [
+      "attack where it hurts",
+      "an indirect approach",
+      "hit their weak spot"
+    ],
+    "examples": [
+      {
+        "zh": "这一招围魏救赵，迫使对手撤回防守。",
+        "en": "The indirect attack forced the opponent to pull back."
+      },
+      {
+        "zh": "我们用围魏救赵的办法解决了这个问题。",
+        "en": "We solved the problem with an indirect approach."
+      }
+    ],
+    "origin": {
+      "source": "《史记·孙子吴起列传》",
+      "story": {
+        "en": "When Wei besieged Zhao's capital, the Qi strategist Sun Bin attacked Wei's own capital instead. Wei's army rushed home and was ambushed at Guiling.",
+        "zh": "魏国围攻赵国都城邯郸，齐国孙膑率军直攻魏都大梁，魏军回救，在桂陵被齐军伏击大败。"
+      }
+    },
+    "usage": {
+      "en": "Subject or object. One of the Thirty-Six Stratagems.",
+      "zh": "多作主语、宾语。为三十六计之一。"
+    },
+    "synonyms": [
+      "声东击西",
+      "攻其必救"
+    ],
+    "antonyms": [
+      "硬碰硬",
+      "正面强攻"
+    ]
+  },
+  {
+    "id": "sun-bing-zhe-jiang",
+    "text": "损兵折将",
+    "pinyin": "sǔn bīng zhé jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "war"
+    ],
+    "literal": "lose · soldiers · break · generals",
+    "natural": "Losing soldiers and generals",
+    "meaning": {
+      "en": "To suffer heavy losses.",
+      "zh": "兵士和将领都有损失。指作战失利。"
+    },
+    "equivalents": [
+      "suffer heavy losses",
+      "take a beating",
+      "pay a heavy price"
+    ],
+    "examples": [
+      {
+        "zh": "敌军这次损兵折将，大败而归。",
+        "en": "The enemy suffered heavy losses and retreated in defeat."
+      },
+      {
+        "zh": "球队主力受伤，损兵折将。",
+        "en": "With key players injured, the team has taken a beating."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 折 is zhé; 将 is jiàng.",
+      "zh": "多作谓语。\"将\"读 jiàng。"
+    },
+    "synonyms": [
+      "丢盔弃甲",
+      "全军覆没",
+      "一败涂地"
+    ],
+    "antonyms": [
+      "大获全胜",
+      "凯旋而归"
+    ]
+  },
+  {
+    "id": "shou-shu-liang-duan",
+    "text": "首鼠两端",
+    "pinyin": "shǒu shǔ liǎng duān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "confusion-and-doubt",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "head · rat · two · ends",
+    "natural": "Like a rat poking its head out both ways",
+    "meaning": {
+      "en": "To waver; sit on the fence.",
+      "zh": "在洞口探头探脑、进退不定的老鼠。比喻迟疑不决或动摇不定。"
+    },
+    "equivalents": [
+      "sit on the fence",
+      "waver",
+      "shilly-shally",
+      "hedge one's bets"
+    ],
+    "examples": [
+      {
+        "zh": "在这个问题上，他首鼠两端，不肯表态。",
+        "en": "He sat on the fence and wouldn't take a stand."
+      },
+      {
+        "zh": "关键时刻不能首鼠两端。",
+        "en": "At a critical moment you can't waver."
+      }
+    ],
+    "origin": {
+      "source": "《史记·魏其武安侯列传》",
+      "story": {
+        "en": "The chancellor Tian Fen rebuked an official who wouldn't take sides: \"Why are you like a rat with its head poking both ways?\" (何为首鼠两端).",
+        "zh": "田蚡责问韩安国：\"何为首鼠两端？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "犹豫不决",
+      "举棋不定",
+      "摇摆不定"
+    ],
+    "antonyms": [
+      "当机立断",
+      "坚定不移",
+      "毅然决然"
+    ]
+  },
+  {
+    "id": "tang-bi-dang-che",
+    "text": "螳臂当车",
+    "pinyin": "táng bì dāng chē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "mantis · arm · block · cart",
+    "natural": "A mantis raising its arm to stop a cart",
+    "meaning": {
+      "en": "A hopeless attempt to resist an overwhelming force.",
+      "zh": "螳螂举起前腿想挡住车子前进。比喻做力量做不到的事情，必然失败。"
+    },
+    "equivalents": [
+      "a hopeless fight",
+      "tilting at windmills",
+      "like King Canute holding back the tide"
+    ],
+    "examples": [
+      {
+        "zh": "想阻止技术进步，无异于螳臂当车。",
+        "en": "Trying to stop technological progress is like holding back the tide."
+      },
+      {
+        "zh": "他们螳臂当车，结果一败涂地。",
+        "en": "Their hopeless resistance ended in total defeat."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·人间世》",
+      "story": {
+        "en": "Zhuangzi: \"Don't you know the praying mantis? It angrily raises its arms to block a chariot wheel, not knowing it can't succeed.\"",
+        "zh": "《庄子·人间世》：\"汝不知夫螳螂乎？怒其臂以当车辙，不知其不胜任也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "以卵击石",
+      "不自量力",
+      "蚍蜉撼树"
+    ],
+    "antonyms": [
+      "量力而行",
+      "识时务者为俊杰"
+    ]
+  },
+  {
+    "id": "wen-ji-qi-wu",
+    "text": "闻鸡起舞",
+    "pinyin": "wén jī qǐ wǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "daily-time-periods"
+    ],
+    "literal": "hear · rooster · rise · dance",
+    "natural": "Rising at cockcrow to practise swordplay",
+    "meaning": {
+      "en": "Rising early to train diligently.",
+      "zh": "听到鸡叫就起来舞剑。比喻有志报国的人及时奋起。"
+    },
+    "equivalents": [
+      "up at the crack of dawn",
+      "rise and shine",
+      "early to rise"
+    ],
+    "examples": [
+      {
+        "zh": "他闻鸡起舞，每天清晨练功。",
+        "en": "He's up at the crack of dawn every day to train."
+      },
+      {
+        "zh": "学习要有闻鸡起舞的精神。",
+        "en": "Learn with the dedication of rising at dawn to practise."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·祖逖传》",
+      "story": {
+        "en": "Zu Ti and his friend Liu Kun, determined to serve their country, would get up at the sound of the cock at midnight to practise swordplay.",
+        "zh": "祖逖与刘琨同寝，半夜听到鸡叫，就起来舞剑练武。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "枕戈待旦",
+      "奋发图强"
+    ],
+    "antonyms": [
+      "醉生梦死",
+      "好逸恶劳",
+      "游手好闲"
+    ]
+  },
+  {
+    "id": "qin-lin-qi-jing",
+    "text": "亲临其境",
+    "pinyin": "qīn lín qí jìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "personally · arrive · its · place",
+    "natural": "Personally being in the place",
+    "meaning": {
+      "en": "To be there in person; as if one were there.",
+      "zh": "亲自到了那个地方。"
+    },
+    "equivalents": [
+      "be there in person",
+      "see for oneself",
+      "firsthand"
+    ],
+    "examples": [
+      {
+        "zh": "只有亲临其境，才能感受长城的雄伟。",
+        "en": "Only by being there in person can you feel the Great Wall's grandeur."
+      },
+      {
+        "zh": "这部纪录片让观众有亲临其境的感觉。",
+        "en": "The documentary makes viewers feel as if they were there."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Close to 身临其境.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "身临其境",
+      "亲眼目睹"
+    ],
+    "antonyms": [
+      "道听途说",
+      "耳闻"
+    ]
+  },
+  {
+    "id": "shu-dao-hu-sun-san",
+    "text": "树倒猢狲散",
+    "pinyin": "shù dǎo hú sūn sàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "tree · fall · monkeys · scatter",
+    "natural": "When the tree falls, the monkeys scatter",
+    "meaning": {
+      "en": "When the leader falls, the followers scatter.",
+      "zh": "树倒了，树上的猴子就散去。比喻为首的人垮台，依附的人也随之散伙。"
+    },
+    "equivalents": [
+      "rats leaving a sinking ship",
+      "fair-weather friends scatter",
+      "when the music stops"
+    ],
+    "examples": [
+      {
+        "zh": "老板被抓后，公司树倒猢狲散。",
+        "en": "When the boss was arrested, everyone deserted the company like rats from a sinking ship."
+      },
+      {
+        "zh": "他失势后，身边的人树倒猢狲散。",
+        "en": "After his fall, his hangers-on scattered."
+      }
+    ],
+    "origin": {
+      "source": "宋·庞元英《谈薮》",
+      "story": {
+        "en": "Cao Yong rose by attaching himself to the powerful chancellor Qin Hui. When Qin died, a man Cao had snubbed sent him a poem titled \"When the tree falls, the monkeys scatter\".",
+        "zh": "曹咏依附秦桧得官，秦桧死后，曾被曹咏冷落的厉德斯寄给他一篇《树倒猢狲散赋》。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone. Derogatory.",
+      "zh": "多作谓语或单独成句，贬义。"
+    },
+    "synonyms": [
+      "众叛亲离",
+      "作鸟兽散"
+    ],
+    "antonyms": [
+      "同舟共济",
+      "生死与共"
+    ]
+  },
+  {
+    "id": "ju-an-qi-mei",
+    "text": "举案齐眉",
+    "pinyin": "jǔ àn qí méi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "conduct"
+    ],
+    "literal": "raise · tray · level · eyebrows",
+    "natural": "Raising the tray to eyebrow level",
+    "meaning": {
+      "en": "(Of a couple) mutual respect and devotion.",
+      "zh": "送饭时把托盘举得与眉毛一样高。形容夫妻相互尊敬。"
+    },
+    "equivalents": [
+      "mutual respect in marriage",
+      "a devoted couple",
+      "love and honour"
+    ],
+    "examples": [
+      {
+        "zh": "这对老夫妻举案齐眉，恩爱一生。",
+        "en": "The old couple treated each other with devoted respect all their lives."
+      },
+      {
+        "zh": "祝新人举案齐眉，白头偕老。",
+        "en": "May the newlyweds respect each other and grow old together."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·梁鸿传》",
+      "story": {
+        "en": "The scholar Liang Hong's wife Meng Guang always served his meals with the tray raised to her eyebrows, showing respect; he treated her equally.",
+        "zh": "梁鸿的妻子孟光每次给他送饭，都把托盘举到和眉毛一样高，表示尊敬。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 相敬如宾.",
+      "zh": "多作谓语，常与\"相敬如宾\"连用。"
+    },
+    "synonyms": [
+      "相敬如宾",
+      "夫唱妇随",
+      "白头偕老"
+    ],
+    "antonyms": [
+      "同床异梦",
+      "反目成仇",
+      "劳燕分飞"
+    ]
+  },
+  {
+    "id": "tang-lang-bu-chan",
+    "text": "螳螂捕蝉",
+    "pinyin": "táng láng bǔ chán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "螳螂捕蝉，黄雀在后"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "mantis · catch · cicada",
+    "natural": "The mantis stalking the cicada",
+    "meaning": {
+      "en": "Focusing on prey while unaware of danger behind.",
+      "zh": "螳螂捉蝉，不知黄雀在它后面正要吃它。比喻目光短浅，只想到算计别人，没想到别人在算计他。"
+    },
+    "equivalents": [
+      "the hunter becomes the hunted",
+      "blind to the danger behind",
+      "there's always a bigger fish"
+    ],
+    "examples": [
+      {
+        "zh": "螳螂捕蝉，黄雀在后，他算计别人，结果被人算计。",
+        "en": "The hunter became the hunted — he schemed against others and was schemed against."
+      },
+      {
+        "zh": "做事要小心，别螳螂捕蝉，黄雀在后。",
+        "en": "Be careful — while you chase your prey, someone may be stalking you."
+      }
+    ],
+    "origin": {
+      "source": "汉·刘向《说苑·正谏》",
+      "story": {
+        "en": "A young man warned the King of Wu against attacking Chu: a cicada sings, unaware of a mantis behind it; the mantis stalks the cicada, unaware of an oriole; the oriole is unaware of the boy with a slingshot below.",
+        "zh": "少孺子以\"蝉在高处饮露，不知螳螂在其后；螳螂欲取蝉，不知黄雀在其旁；黄雀欲啄螳螂，不知弹丸在其下\"劝谏吴王。"
+      }
+    },
+    "usage": {
+      "en": "Usually with 黄雀在后.",
+      "zh": "常与\"黄雀在后\"连用。"
+    },
+    "synonyms": [
+      "鹬蚌相争",
+      "顾此失彼"
+    ],
+    "antonyms": [
+      "深谋远虑",
+      "高瞻远瞩"
+    ]
+  },
+  {
+    "id": "diu-kui-qi-jia",
+    "text": "丢盔弃甲",
+    "pinyin": "diū kuī qì jiǎ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "war"
+    ],
+    "literal": "drop · helmet · abandon · armour",
+    "natural": "Dropping helmets and abandoning armour",
+    "meaning": {
+      "en": "To flee in utter defeat.",
+      "zh": "丢掉头盔，抛弃铠甲。形容吃了败仗狼狈逃跑。"
+    },
+    "equivalents": [
+      "flee in disarray",
+      "a rout",
+      "beat a hasty retreat",
+      "turn tail"
+    ],
+    "examples": [
+      {
+        "zh": "敌军丢盔弃甲，狼狈逃窜。",
+        "en": "The enemy fled in disarray."
+      },
+      {
+        "zh": "客队被打得丢盔弃甲。",
+        "en": "The visiting team was routed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "溃不成军",
+      "落荒而逃",
+      "一败涂地"
+    ],
+    "antonyms": [
+      "凯旋而归",
+      "大获全胜",
+      "所向披靡"
+    ]
+  },
+  {
+    "id": "qi-an-tou-ming",
+    "text": "弃暗投明",
+    "pinyin": "qì àn tóu míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "conduct"
+    ],
+    "literal": "abandon · dark · join · bright",
+    "natural": "Leaving the dark for the light",
+    "meaning": {
+      "en": "To leave the wrong side and join the right one.",
+      "zh": "离开黑暗，投向光明。比喻在政治上脱离反动阵营，投向进步方面。"
+    },
+    "equivalents": [
+      "switch to the right side",
+      "see the light",
+      "defect to the good side"
+    ],
+    "examples": [
+      {
+        "zh": "他终于弃暗投明，脱离了犯罪团伙。",
+        "en": "He finally switched sides and left the gang."
+      },
+      {
+        "zh": "敌军中有不少人弃暗投明。",
+        "en": "Many in the enemy ranks defected to the right side."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "改邪归正",
+      "迷途知返"
+    ],
+    "antonyms": [
+      "助纣为虐",
+      "执迷不悟",
+      "为虎作伥"
+    ]
+  },
+  {
+    "id": "mai-du-huan-zhu",
+    "text": "买椟还珠",
+    "pinyin": "mǎi dú huán zhū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "stories"
+    ],
+    "literal": "buy · box · return · pearl",
+    "natural": "Buying the box and returning the pearl",
+    "meaning": {
+      "en": "To value the packaging over the contents; poor judgement.",
+      "zh": "买下装珍珠的木匣，退还了珍珠。比喻没有眼力，取舍不当。"
+    },
+    "equivalents": [
+      "miss the point",
+      "value the wrapping over the gift",
+      "judge a book by its cover"
+    ],
+    "examples": [
+      {
+        "zh": "只看包装不看质量，是买椟还珠。",
+        "en": "Caring about packaging rather than quality is missing the point."
+      },
+      {
+        "zh": "他买椟还珠，丢了最重要的东西。",
+        "en": "He chose the trimmings and gave away what really mattered."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·外储说左上》",
+      "story": {
+        "en": "A man of Chu sold a pearl in a box of fragrant wood decorated with jewels. A man of Zheng bought the box and gave back the pearl.",
+        "zh": "楚人卖珍珠，用名贵木料做了华丽的匣子。郑人买下匣子，却把珍珠还给了他。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "舍本逐末",
+      "本末倒置"
+    ],
+    "antonyms": [
+      "去伪存真",
+      "取其精华"
+    ]
+  },
+  {
+    "id": "yi-zi-qian-jin",
+    "text": "一字千金",
+    "pinyin": "yī zì qiān jīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "measure"
+    ],
+    "literal": "one · character · thousand · gold",
+    "natural": "One character worth a thousand gold",
+    "meaning": {
+      "en": "(Of writing) every word is priceless; perfectly polished.",
+      "zh": "增删一字，赏给千金。称赞文辞精妙，价值极高。"
+    },
+    "equivalents": [
+      "every word counts",
+      "priceless prose",
+      "not a word out of place"
+    ],
+    "examples": [
+      {
+        "zh": "这篇文章一字千金，无可挑剔。",
+        "en": "Every word of this essay is priceless — flawless."
+      },
+      {
+        "zh": "大师的题词一字千金。",
+        "en": "The master's inscription is worth its weight in gold."
+      }
+    ],
+    "origin": {
+      "source": "《史记·吕不韦列传》",
+      "story": {
+        "en": "Lü Buwei displayed his compendium Lüshi Chunqiu at Xianyang's gate and offered a thousand gold to anyone who could add or remove a single character.",
+        "zh": "吕不韦把《吕氏春秋》公布在咸阳城门，悬赏能增减一字者赏千金。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. In speech 一 is yí.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "字字珠玑",
+      "一字值千金"
+    ],
+    "antonyms": [
+      "一文不值",
+      "空洞无物"
+    ]
+  },
+  {
+    "id": "yi-hui-er-jiu",
+    "text": "一挥而就",
+    "pinyin": "yī huī ér jiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "one · stroke · and · complete",
+    "natural": "Done in a single sweep of the brush",
+    "meaning": {
+      "en": "To dash off (a piece of writing or painting) effortlessly.",
+      "zh": "一动笔就写成了。形容写字、写文章、画画很快。"
+    },
+    "equivalents": [
+      "dash off",
+      "in one go",
+      "effortlessly",
+      "knock out"
+    ],
+    "examples": [
+      {
+        "zh": "他提起笔，一挥而就写下了一副对联。",
+        "en": "He picked up the brush and dashed off a couplet."
+      },
+      {
+        "zh": "这篇稿子她一挥而就。",
+        "en": "She wrote the article in one go."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. In speech 一 is yì.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一气呵成",
+      "援笔立成",
+      "倚马可待"
+    ],
+    "antonyms": [
+      "字斟句酌",
+      "冥思苦想"
+    ]
+  },
+  {
+    "id": "jin-wu-cang-jiao",
+    "text": "金屋藏娇",
+    "pinyin": "jīn wū cáng jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "stories"
+    ],
+    "literal": "golden · house · hide · beauty",
+    "natural": "Hiding a beauty in a golden house",
+    "meaning": {
+      "en": "To keep a mistress; (originally) to cherish a wife.",
+      "zh": "原指汉武帝要以金屋接纳阿娇为妻。后指纳妾或在外养情人。"
+    },
+    "equivalents": [
+      "keep a mistress",
+      "a kept woman",
+      "a love nest"
+    ],
+    "examples": [
+      {
+        "zh": "这个富商被曝金屋藏娇。",
+        "en": "The tycoon was exposed for keeping a mistress."
+      },
+      {
+        "zh": "\"金屋藏娇\"原本是一个浪漫的故事。",
+        "en": "\"A golden house for Ajiao\" was originally a romantic story."
+      }
+    ],
+    "origin": {
+      "source": "汉·班固《汉武故事》",
+      "story": {
+        "en": "As a boy, the future Emperor Wu was asked whether he would like to marry his cousin Ajiao. He said: \"If I get Ajiao, I'll build a golden house to keep her in.\"",
+        "zh": "汉武帝幼时，姑母问他想不想娶阿娇，他说：\"若得阿娇作妇，当作金屋贮之。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Today usually about affairs.",
+      "zh": "多作谓语，现多指包养情人。"
+    },
+    "synonyms": [
+      "纳妾"
+    ],
+    "antonyms": [
+      "从一而终",
+      "举案齐眉"
+    ]
+  },
+  {
+    "id": "fen-shu-keng-ru",
+    "text": "焚书坑儒",
+    "pinyin": "fén shū kēng rú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "historical-periods",
+      "political-corruption"
+    ],
+    "literal": "burn · books · bury · scholars",
+    "natural": "Burning books and burying scholars",
+    "meaning": {
+      "en": "Burning books and persecuting intellectuals; extreme censorship.",
+      "zh": "秦始皇焚烧书籍，坑杀儒生。比喻摧残文化，迫害知识分子。"
+    },
+    "equivalents": [
+      "book burning",
+      "intellectual persecution",
+      "cultural purge"
+    ],
+    "examples": [
+      {
+        "zh": "焚书坑儒是秦朝暴政的标志。",
+        "en": "The burning of books and burying of scholars symbolised Qin tyranny."
+      },
+      {
+        "zh": "历史上的焚书坑儒造成了巨大的文化损失。",
+        "en": "The historical purge of books and scholars caused huge cultural loss."
+      }
+    ],
+    "origin": {
+      "source": "《史记·秦始皇本纪》",
+      "story": {
+        "en": "In 213 BC the First Emperor ordered the burning of histories and classics except Qin's own; the next year over 460 scholars were reportedly buried alive in Xianyang.",
+        "zh": "秦始皇三十四年下令焚烧诗书百家语，次年坑杀儒生四百六十余人于咸阳。"
+      }
+    },
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "文字狱"
+    ],
+    "antonyms": [
+      "百家争鸣",
+      "百花齐放"
+    ]
+  },
+  {
+    "id": "shi-bu-gan-wei",
+    "text": "食不甘味",
+    "pinyin": "shí bù gān wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "psychological-pressure",
+      "fine-cuisine"
+    ],
+    "literal": "eat · not · sweet · taste",
+    "natural": "Eating without tasting the food",
+    "meaning": {
+      "en": "So worried one can't enjoy food.",
+      "zh": "吃东西不觉得味道香甜。形容心里有事，吃东西也不香。"
+    },
+    "equivalents": [
+      "off one's food",
+      "too worried to eat",
+      "lose one's appetite"
+    ],
+    "examples": [
+      {
+        "zh": "孩子生病了，妈妈食不甘味。",
+        "en": "With her child ill, the mother has lost her appetite."
+      },
+      {
+        "zh": "项目出了问题，他寝不安席，食不甘味。",
+        "en": "With problems in the project, he can neither sleep nor eat."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often with 寝不安席.",
+      "zh": "多作谓语，常与\"寝不安席\"连用。"
+    },
+    "synonyms": [
+      "寝食难安",
+      "茶饭不思",
+      "坐卧不安"
+    ],
+    "antonyms": [
+      "大快朵颐",
+      "津津有味",
+      "高枕无忧"
+    ]
+  }
+]
