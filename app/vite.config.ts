@@ -11,12 +11,12 @@ const base = process.env.BASE_PATH ?? "/";
 export default defineConfig({
   base,
   clearScreen: false,
-  plugins: inTauri
-    ? []
-    : [
+  plugins: [
         VitePWA({
+          // Disabled in the Tauri app (no service worker); the virtual module becomes a no-op.
+          disable: inTauri,
           registerType: "autoUpdate",
-          injectRegister: "auto",
+          injectRegister: false, // registered by src/updates.ts, which also handles reloading
           includeAssets: ["apple-touch-icon.png", "icon.png"],
           manifest: {
             name: "成语词典 Chengyu Dictionary",
@@ -28,7 +28,7 @@ export default defineConfig({
             display: "standalone",
             orientation: "portrait",
             background_color: "#f7f7f5",
-            theme_color: "#e03a2e",
+            theme_color: "#f7f7f5",
             icons: [
               { src: "icon-192.png", sizes: "192x192", type: "image/png" },
               { src: "icon-512.png", sizes: "512x512", type: "image/png" },
@@ -39,9 +39,11 @@ export default defineConfig({
             globPatterns: ["**/*.{js,css,html,wasm,png,svg,webmanifest}"],
             maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
             cleanupOutdatedCaches: true,
+            skipWaiting: true,
+            clientsClaim: true,
           },
         }),
-      ],
+  ],
   server: {
     port: 1420,
     strictPort: true,

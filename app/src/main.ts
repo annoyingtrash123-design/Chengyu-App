@@ -14,8 +14,10 @@ import { renderMatch } from "./views/match";
 import { renderMe } from "./views/me";
 import { scheduleReminders } from "./notifications";
 import { setupInstall } from "./install";
+import { setupUpdates } from "./updates";
 
 setupInstall();
+setupUpdates();
 
 type View = (root: HTMLElement, params: string[]) => void | Promise<void>;
 
@@ -65,7 +67,7 @@ let renderId = 0;
 async function route() {
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
   const id = ++renderId;
-  document.querySelectorAll(".sheet-overlay, .toast").forEach((el) => el.remove());
+  document.querySelectorAll(".sheet-overlay").forEach((el) => el.remove());
   for (const [re, render, tab] of routes) {
     const m = path.match(re);
     if (m) {

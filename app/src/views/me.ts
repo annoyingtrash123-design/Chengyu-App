@@ -2,6 +2,8 @@ import { api, isTauri } from "../api";
 import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
+import { APP_VERSION, CHANGELOG } from "../changelog";
+import { checkForUpdate, onUpdateState, updateState, type UpdateStatus } from "../updates";
 
 export async function renderMe(root: HTMLElement) {
   const stats = await api.stats();
@@ -129,6 +131,7 @@ export async function renderMe(root: HTMLElement) {
       ),
       backupBox,
     ),
+    updatesSection(),
     !isTauri() && !isStandalone() && (canPromptInstall() || isIos())
       ? h(
           "section",
@@ -145,4 +148,47 @@ export async function renderMe(root: HTMLElement) {
 
 function stat(num: string, text: string) {
   return h("div", { class: "stat" }, h("div", { class: "stat-num" }, num), h("div", { class: "stat-label" }, text));
+}
+
+const STATUS_TEXT: Record<UpdateStatus, [string, string]> = {
+  idle: ["", ""],
+  checking: ["正在检查…", "Checking…"],
+  "up-to-date": ["已是最新版本", "You're on the latest version"],
+  downloading: ["正在下载更新，稍后自动应用…", "Downloading an update; it will apply in a moment…"],
+  offline: ["离线中，联网后会自动检查", "Offline; will check when you're back online"],
+  error: ["检查失败，请稍后再试", "Couldn't check; try again later"],
+  unsupported: ["", ""],
+};
+
+/** Me → Updates: current version, manual check and what's new. */
+function updatesSection() {
+  const status = h("p", { class: "small muted update-status" });
+  const draw = () => {
+    const [zh, enText] = STATUS_TEXT[updateState.status];
+    const when = updateState.lastChecked
+      ? new Date(updateState.lastChecked).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })
+      : null;
+    status.textContent = [en() ? enText : zh, when ? (en() ? `last checked ${when}` : `上次检查 ${when}`) : ""].filter(Boolean).join(" · ");
+  };
+  draw();
+  const off = onUpdateState(() => (status.isConnected ? draw() : off()));
+  const web = !isTauri();
+  return h(
+    "section",
+    { class: "card" },
+    h("h3", null, en() ? "Updates" : "更新"),
+    h("div", { class: "row-between" }, h("strong", null, `${en() ? "Version" : "版本"} ${APP_VERSION}`), web ? h("button", { class: "btn", onclick: () => checkForUpdate() }, en() ? "Check for updates" : "检查更新") : null),
+    web
+      ? status
+      : h("p", { class: "small muted" }, en() ? "New versions of this app come as a new APK." : "此应用的新版本需安装新的 APK。"),
+    web ? h("p", { class: "small muted" }, en() ? "Updates install automatically: when you open the app, when you come back to it, and every 30 minutes." : "更新会自动安装：打开应用、返回应用时以及每 30 分钟检查一次。") : null,
+    h(
+      "details",
+      { class: "changelog", open: true },
+      h("summary", null, en() ? "What's new" : "更新内容"),
+      CHANGELOG.slice(0, 5).map((r) =>
+        h("div", { class: "release" }, h("div", { class: "release-head" }, h("strong", null, `v${r.version}`), h("span", { class: "muted small" }, r.date)), h("ul", null, (en() ? r.en : r.zh).map((line) => h("li", null, line)))),
+      ),
+    ),
+  );
 }

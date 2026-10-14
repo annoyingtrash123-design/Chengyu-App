@@ -1,0 +1,38 @@
+// "What's new", shown in Me → Updates and after an update is applied.
+// Add a new entry at the top whenever a user-visible change ships.
+
+export interface Release {
+  version: string;
+  date: string;
+  en: string[];
+  zh: string[];
+}
+
+export const CHANGELOG: Release[] = [
+  {
+    version: "0.4",
+    date: "2026-10-14",
+    en: ["Updates now install automatically while you use the app.", "New Updates section in Me, with a manual check and this list.", "The phone's status bar now blends in with the app instead of showing red."],
+    zh: ["应用使用时会自动安装更新。", "“我的”中新增“更新”栏目，可手动检查更新并查看更新内容。"],
+  },
+  {
+    version: "0.3",
+    date: "2026-10-14",
+    en: ["Home shows the chengyu of the day in full: story, examples and usage.", "Search starts empty; new List tab with a drop-down to choose types and themes."],
+    zh: ["首页完整展示每日一词：典故、例句和用法。", "搜索页默认空白；新增“列表”页，可通过下拉菜单选择类型和主题。"],
+  },
+  {
+    version: "0.2",
+    date: "2026-10-14",
+    en: ["Installable web app that works offline.", "Four-colour icon and new colours."],
+    zh: ["可安装的网页应用，支持离线使用。", "四色图标和新配色。"],
+  },
+  {
+    version: "0.1",
+    date: "2026-10-14",
+    en: ["First version: 20 sample entries, search, filters, flashcards and games."],
+    zh: ["首个版本：20 个示例词条、搜索、筛选、记忆卡片和游戏。"],
+  },
+];
+
+export const APP_VERSION = CHANGELOG[0].version;

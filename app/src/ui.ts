@@ -169,10 +169,10 @@ export function englishToggle(onChange: () => void) {
   return btn;
 }
 
-export function toast(msg: string) {
-  const t = h("div", { class: "toast" }, msg);
+export function toast(msg: string, ms = 2200) {
+  const t = h("div", { class: "toast", role: "status" }, msg);
   document.body.appendChild(t);
-  setTimeout(() => t.remove(), 2200);
+  setTimeout(() => t.remove(), ms);
 }
 
 export function loading() {
