@@ -35,6 +35,12 @@ def near(a: str, b: str) -> bool:
 
 
 files = sys.argv[1:] or sorted(glob.glob("data/entries/*.json"))
+# Every recorded form → its headword, so two forms of one entry are caught too.
+main_of = {}
+for f in glob.glob("data/entries/*.json"):
+    for e in json.load(open(f, encoding="utf-8")):
+        for form in [e["text"], *e.get("variants", [])]:
+            main_of.setdefault(form, e["text"])
 found = 0
 for f in files:
     for e in json.load(open(f, encoding="utf-8")):
@@ -45,8 +51,14 @@ for f in files:
                 if key == "synonyms" and sorted(a) == sorted(t) and near(a, t):
                     print(f"{f}: {t}: {key} {a} looks like a variant of the entry itself")
                     found += 1
+                if main_of.get(a) == t and a != t:
+                    print(f"{f}: {t}: {key} {a} is a recorded variant of the entry itself")
+                    found += 1
                 for b in items[i + 1:]:
-                    if near(a, b):
+                    if a in main_of and main_of.get(a) == main_of.get(b):
+                        print(f"{f}: {t}: {key} lists {a} and {b} — both forms of {main_of[a]}")
+                        found += 1
+                    elif near(a, b):
                         print(f"{f}: {t}: {key} lists {a} and {b} — variants of each other?")
                         found += 1
         notes = e["usage"]["zh"] + " " + e["usage"]["en"]
