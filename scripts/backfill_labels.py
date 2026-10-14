@@ -46,6 +46,8 @@ MANUAL = {
     "innovation-and-progress": ["推陈出新", "标新立异", "日新月异", "革故鼎新"],
     "peace-and-prosperity": ["国泰民安", "风调雨顺", "五谷丰登", "安居乐业"],
     "value-of-time": ["时不我待", "机不可失"],
+    "dead-ends-and-desperation": ["山穷水尽", "穷途末路", "进退两难", "走投无路"],
+    "verbosity": ["拖泥带水", "言之无物", "喋喋不休", "长篇大论"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).

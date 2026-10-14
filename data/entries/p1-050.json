@@ -105,14 +105,14 @@
     "id": "si-ma-zhao-zhi-xin-lu-ren-jie-zhi",
     "text": "司马昭之心——路人皆知",
     "pinyin": "sī mǎ zhāo zhī xīn —— lù rén jiē zhī",
+    "variants": [
+      "司马昭之心"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "司马昭之心",
       "路人皆知"
-    ],
-    "variants": [
-      "司马昭之心"
     ],
     "sentiment": "negative",
     "register": "neutral",
@@ -579,6 +579,9 @@
     "id": "wen-si-quan-yong",
     "text": "文思泉涌",
     "pinyin": "wén sī quán yǒng",
+    "variants": [
+      "文思如泉"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -871,12 +874,12 @@
     "id": "jin-shui-lou-tai-xian-de",
     "text": "近水楼台先得月，向阳花木易为春",
     "pinyin": "jìn shuǐ lóu tái xiān dé yuè, xiàng yáng huā mù yì wéi chūn",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "近水楼台先得月",
       "近水楼台"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -1122,11 +1125,11 @@
     "id": "yi-ri-wei-shi-zhong-shen-wei-fu",
     "text": "一日为师，终身为父",
     "pinyin": "yī rì wéi shī, zhōng shēn wéi fù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一日为师"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

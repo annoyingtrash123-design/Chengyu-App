@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "xiu-ji-ban-ban",
+    "text": "锈迹斑斑",
+    "pinyin": "xiù jì bān bān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "broken-or-useless-items",
+      "appearance"
+    ],
+    "literal": "rust · traces · spotted",
+    "natural": "covered in rust",
+    "meaning": {
+      "en": "Covered with patches of rust; old and neglected.",
+      "zh": "满是一块块的锈迹，形容陈旧失修。"
+    },
+    "equivalents": [
+      "rusty",
+      "rust-covered",
+      "corroded"
+    ],
+    "examples": [
+      {
+        "zh": "院子里停着一辆锈迹斑斑的自行车。",
+        "en": "A rust-covered bicycle stood in the yard."
+      },
+      {
+        "zh": "铁门早已锈迹斑斑。",
+        "en": "The iron gate had long since rusted all over."
+      },
+      {
+        "zh": "这座老桥锈迹斑斑，急需维修。",
+        "en": "The old bridge is badly corroded and urgently needs repair."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "年久失修",
+      "破铜烂铁"
+    ],
+    "antonyms": [
+      "焕然一新",
+      "崭新如初"
+    ]
+  },
+  {
+    "id": "dun-dao-kan-chai",
+    "text": "钝刀砍柴",
+    "pinyin": "dùn dāo kǎn chái",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "broken-or-useless-items",
+      "useful-tools-and-skill",
+      "efficiency"
+    ],
+    "literal": "blunt · knife · chop · firewood",
+    "natural": "chopping wood with a blunt knife",
+    "meaning": {
+      "en": "Working with poor tools, so effort is wasted.",
+      "zh": "用钝刀砍柴，比喻工具不好，费力不讨好。"
+    },
+    "equivalents": [
+      "working with blunt tools",
+      "making hard work of it"
+    ],
+    "examples": [
+      {
+        "zh": "用这台老电脑做设计，简直是钝刀砍柴。",
+        "en": "Designing on this old computer is like chopping wood with a blunt knife."
+      },
+      {
+        "zh": "方法不对，就像钝刀砍柴，越干越累。",
+        "en": "With the wrong method it's like a blunt axe: the more you work, the more tired you get."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; the moral is 磨刀不误砍柴工.",
+      "zh": "描写性说法，道理同“磨刀不误砍柴工”。"
+    },
+    "synonyms": [
+      "事倍功半"
+    ],
+    "antonyms": [
+      "事半功倍",
+      "工欲善其事，必先利其器"
+    ]
+  },
+  {
+    "id": "xiu-mu-nan-diao",
+    "text": "朽木难雕",
+    "pinyin": "xiǔ mù nán diāo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "朽木不可雕",
+      "朽木不可雕也"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "learning-difficulties",
+      "negative-character-flaws",
+      "confucian-classics"
+    ],
+    "literal": "rotten · wood · hard · carve",
+    "natural": "rotten wood can't be carved",
+    "meaning": {
+      "en": "Someone hopeless who cannot be taught or improved.",
+      "zh": "腐烂的木头无法雕刻，比喻人不可造就。"
+    },
+    "equivalents": [
+      "a lost cause",
+      "beyond help",
+      "you can't make a silk purse out of a sow's ear"
+    ],
+    "examples": [
+      {
+        "zh": "老师叹道：“真是朽木难雕！”",
+        "en": "The teacher sighed: 'He's a hopeless case!'"
+      },
+      {
+        "zh": "别说他朽木不可雕，他只是还没找到兴趣。",
+        "en": "Don't call him a lost cause; he just hasn't found his interest yet."
+      },
+      {
+        "zh": "我不相信有谁是朽木难雕的。",
+        "en": "I don't believe anyone is beyond help."
+      }
+    ],
+    "origin": {
+      "source": "《论语·公冶长》",
+      "story": {
+        "en": "Finding his disciple Zai Yu asleep in the daytime, Confucius said: 'Rotten wood cannot be carved; a wall of dung cannot be plastered' (朽木不可雕也，粪土之墙不可杇也).",
+        "zh": "宰予白天睡觉，孔子说：“朽木不可雕也，粪土之墙不可杇也。”"
+      }
+    },
+    "usage": {
+      "en": "Harsh criticism. The classical form is 朽木不可雕.",
+      "zh": "批评很重。古语作“朽木不可雕”。"
+    },
+    "synonyms": [
+      "不可救药",
+      "一无是处"
+    ],
+    "antonyms": [
+      "孺子可教",
+      "可造之材"
+    ]
+  },
+  {
+    "id": "bu-kan-zhong-fu",
+    "text": "不堪重负",
+    "pinyin": "bù kān zhòng fù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "psychological-pressure",
+      "structural-problems"
+    ],
+    "literal": "not · bear · heavy · load",
+    "natural": "unable to bear the load",
+    "meaning": {
+      "en": "Unable to bear a heavy burden.",
+      "zh": "承受不了沉重的负担。"
+    },
+    "equivalents": [
+      "overburdened",
+      "buckling under the strain",
+      "at breaking point"
+    ],
+    "examples": [
+      {
+        "zh": "医院不堪重负，病床严重不足。",
+        "en": "Hospitals are overwhelmed and beds are in short supply."
+      },
+      {
+        "zh": "繁重的作业让学生们不堪重负。",
+        "en": "Heavy homework has students buckling under the strain."
+      },
+      {
+        "zh": "老桥不堪重负，终于坍塌了。",
+        "en": "The old bridge couldn't take the load and finally collapsed."
+      }
+    ],
+    "usage": {
+      "en": "Literal (structures) and figurative (people, systems).",
+      "zh": "可指实物承重，也可比喻人或系统压力过大。"
+    },
+    "synonyms": [
+      "力不从心",
+      "难以承受"
+    ],
+    "antonyms": [
+      "游刃有余",
+      "绰绰有余"
+    ]
+  },
+  {
+    "id": "piao-yang-guo-hai",
+    "text": "漂洋过海",
+    "pinyin": "piāo yáng guò hǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "float · ocean · cross · sea",
+    "natural": "cross the oceans",
+    "meaning": {
+      "en": "To travel across the seas to a faraway land.",
+      "zh": "乘船渡过海洋，指远行海外。"
+    },
+    "equivalents": [
+      "travel overseas",
+      "cross the seas"
+    ],
+    "examples": [
+      {
+        "zh": "他漂洋过海去美国留学。",
+        "en": "He crossed the ocean to study in America."
+      },
+      {
+        "zh": "这些瓷器漂洋过海，被运到了欧洲。",
+        "en": "These porcelains crossed the seas to Europe."
+      },
+      {
+        "zh": "妈妈寄来的包裹漂洋过海，终于到了。",
+        "en": "Mum's parcel finally arrived after its long journey overseas."
+      }
+    ],
+    "usage": {
+      "en": "漂 is piāo. Often of emigrants, students and goods.",
+      "zh": "“漂”读piāo。多指出国、货物远运。"
+    },
+    "synonyms": [
+      "远涉重洋",
+      "跋山涉水"
+    ],
+    "antonyms": [
+      "足不出户"
+    ]
+  },
+  {
+    "id": "jing-ji-cong-sheng",
+    "text": "荆棘丛生",
+    "pinyin": "jīng jí cóng shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain",
+      "danger"
+    ],
+    "literal": "thorns · brambles · thickly · grow",
+    "natural": "overgrown with thorns",
+    "meaning": {
+      "en": "Overgrown with thorny bushes; figuratively, full of difficulties.",
+      "zh": "长满荆棘，比喻困难重重。"
+    },
+    "equivalents": [
+      "overgrown with brambles",
+      "beset with difficulties"
+    ],
+    "examples": [
+      {
+        "zh": "山路荆棘丛生，很难通过。",
+        "en": "The mountain path is overgrown with thorns and hard to get through."
+      },
+      {
+        "zh": "创业之路荆棘丛生，但他从未放弃。",
+        "en": "The road of entrepreneurship is thorny, but he never gave up."
+      }
+    ],
+    "usage": {
+      "en": "Literal or figurative.",
+      "zh": "可用本义，也可用比喻义。"
+    },
+    "synonyms": [
+      "困难重重",
+      "寸步难行"
+    ],
+    "antonyms": [
+      "一马平川",
+      "畅通无阻"
+    ]
+  },
+  {
+    "id": "shan-gao-lu-xian",
+    "text": "山高路险",
+    "pinyin": "shān gāo lù xiǎn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain",
+      "journeys-and-exploration"
+    ],
+    "literal": "mountain · high · road · dangerous",
+    "natural": "high mountains and treacherous roads",
+    "meaning": {
+      "en": "Steep mountains and dangerous roads; a hard journey.",
+      "zh": "山很高，路很险，形容路途艰险。"
+    },
+    "equivalents": [
+      "treacherous terrain",
+      "a perilous mountain road"
+    ],
+    "examples": [
+      {
+        "zh": "这里山高路险，救援车辆很难进来。",
+        "en": "The terrain here is so treacherous that rescue vehicles can hardly get in."
+      },
+      {
+        "zh": "尽管山高路险，邮递员还是按时把信送到了。",
+        "en": "Despite the perilous roads, the postman delivered on time."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性说法。"
+    },
+    "synonyms": [
+      "崇山峻岭",
+      "悬崖峭壁",
+      "荆棘丛生"
+    ],
+    "antonyms": [
+      "一马平川",
+      "康庄大道"
+    ]
+  },
+  {
+    "id": "gou-he-zong-heng",
+    "text": "沟壑纵横",
+    "pinyin": "gōu hè zòng héng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "difficult-terrain",
+      "nature"
+    ],
+    "literal": "gullies · ravines · criss-cross",
+    "natural": "criss-crossed with gullies",
+    "meaning": {
+      "en": "Land cut up by gullies and ravines; also a deeply lined face.",
+      "zh": "沟谷纵横交错；也形容脸上皱纹很深。"
+    },
+    "equivalents": [
+      "criss-crossed by ravines",
+      "deeply furrowed"
+    ],
+    "examples": [
+      {
+        "zh": "黄土高原沟壑纵横。",
+        "en": "The Loess Plateau is criss-crossed with gullies."
+      },
+      {
+        "zh": "老农的脸上沟壑纵横，写满了沧桑。",
+        "en": "The old farmer's face was deeply furrowed, marked by hardship."
+      }
+    ],
+    "usage": {
+      "en": "Geography writing; figuratively for wrinkles.",
+      "zh": "多用于地理描写，也比喻皱纹。"
+    },
+    "synonyms": [
+      "千沟万壑"
+    ],
+    "antonyms": [
+      "一马平川"
+    ]
+  },
+  {
+    "id": "wan-zhang-shen-yuan",
+    "text": "万丈深渊",
+    "pinyin": "wàn zhàng shēn yuān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "ten-thousand · zhang · deep · abyss",
+    "natural": "a bottomless abyss",
+    "meaning": {
+      "en": "An extremely deep abyss; figuratively, utter ruin.",
+      "zh": "极深的深渊，比喻极危险的境地。"
+    },
+    "equivalents": [
+      "a bottomless pit",
+      "the abyss",
+      "the road to ruin"
+    ],
+    "examples": [
+      {
+        "zh": "一步走错，就可能跌入万丈深渊。",
+        "en": "One wrong step and you could fall into the abyss."
+      },
+      {
+        "zh": "赌博把他推进了万丈深渊。",
+        "en": "Gambling pushed him into utter ruin."
+      },
+      {
+        "zh": "悬崖下是万丈深渊。",
+        "en": "Below the cliff was a bottomless chasm."
+      }
+    ],
+    "usage": {
+      "en": "Often 跌入/坠入万丈深渊.",
+      "zh": "常说“跌入（坠入）万丈深渊”。"
+    },
+    "synonyms": [
+      "悬崖峭壁"
+    ],
+    "antonyms": [
+      "康庄大道"
+    ]
+  },
+  {
+    "id": "wu-lu-ke-zou",
+    "text": "无路可走",
+    "pinyin": "wú lù kě zǒu",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation"
+    ],
+    "literal": "no · road · can · walk",
+    "natural": "nowhere left to go",
+    "meaning": {
+      "en": "Having no way out; at a dead end.",
+      "zh": "没有路可以走，比喻陷入绝境。"
+    },
+    "equivalents": [
+      "at a dead end",
+      "nowhere to turn",
+      "out of options"
+    ],
+    "examples": [
+      {
+        "zh": "被逼得无路可走，他只好去求亲戚。",
+        "en": "With nowhere left to turn, he had to ask relatives for help."
+      },
+      {
+        "zh": "前面是悬崖，我们已经无路可走了。",
+        "en": "There's a cliff ahead; we've nowhere left to go."
+      },
+      {
+        "zh": "别把对手逼得无路可走。",
+        "en": "Don't leave your opponent without a way out."
+      }
+    ],
+    "usage": {
+      "en": "Literal or figurative.",
+      "zh": "可用本义，也可用比喻义。"
+    },
+    "synonyms": [
+      "走投无路",
+      "山穷水尽",
+      "穷途末路"
+    ],
+    "antonyms": [
+      "柳暗花明",
+      "豁然开朗",
+      "左右逢源"
+    ]
+  },
+  {
+    "id": "wen-cai-fei-yang",
+    "text": "文采飞扬",
+    "pinyin": "wén cǎi fēi yáng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "literary · colour · soar",
+    "natural": "brilliant writing",
+    "meaning": {
+      "en": "Writing that is vivid, lively and full of flair.",
+      "zh": "文章辞采生动，富有气势。"
+    },
+    "equivalents": [
+      "brilliantly written",
+      "full of literary flair"
+    ],
+    "examples": [
+      {
+        "zh": "他的散文文采飞扬，读来令人陶醉。",
+        "en": "His essays are full of flair and a joy to read."
+      },
+      {
+        "zh": "这篇演讲稿文采飞扬，赢得了满堂喝彩。",
+        "en": "The speech was brilliantly written and drew loud applause."
+      }
+    ],
+    "usage": {
+      "en": "Praise for essays and speeches.",
+      "zh": "称赞文章、演讲。"
+    },
+    "synonyms": [
+      "文采斐然",
+      "妙笔生花",
+      "才华横溢"
+    ],
+    "antonyms": [
+      "文理不通",
+      "味同嚼蜡"
+    ]
+  },
+  {
+    "id": "xia-bi-ru-shen",
+    "text": "下笔如神",
+    "pinyin": "xià bǐ rú shén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "下笔如有神"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "poems-prose"
+    ],
+    "literal": "put down · brush · like · divine",
+    "natural": "writing as if inspired",
+    "meaning": {
+      "en": "Writing with great skill and fluency, as if divinely inspired.",
+      "zh": "写作时文思敏捷，好像有神相助。"
+    },
+    "equivalents": [
+      "write like a dream",
+      "the words just flow"
+    ],
+    "examples": [
+      {
+        "zh": "他读书破万卷，下笔如神。",
+        "en": "Having read thousands of books, he writes as if inspired."
+      },
+      {
+        "zh": "考场上她下笔如神，半小时就写完了作文。",
+        "en": "In the exam she wrote fluently and finished her essay in half an hour."
+      }
+    ],
+    "origin": {
+      "source": "唐·杜甫《奉赠韦左丞丈二十二韵》",
+      "story": {
+        "en": "Du Fu wrote of his youth: 'I read through ten thousand scrolls, and when I put brush to paper it was as if a god helped me' (读书破万卷，下笔如有神).",
+        "zh": "杜甫回忆少年时：“读书破万卷，下笔如有神。”"
+      }
+    },
+    "usage": {
+      "en": "From Du Fu's 读书破万卷，下笔如有神, often quoted to stress wide reading.",
+      "zh": "出自杜甫“读书破万卷，下笔如有神”，常用来强调多读书。"
+    },
+    "synonyms": [
+      "下笔成章",
+      "文思泉涌",
+      "妙笔生花"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "搜肠刮肚"
+    ]
+  },
+  {
+    "id": "wen-bu-dui-ti",
+    "text": "文不对题",
+    "pinyin": "wén bù duì tí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-performance",
+      "speech",
+      "essay-favourites"
+    ],
+    "literal": "writing · not · match · title",
+    "natural": "off-topic",
+    "meaning": {
+      "en": "Writing or an answer that doesn't address the topic.",
+      "zh": "文章内容与题目不相符；也指答非所问。"
+    },
+    "equivalents": [
+      "off-topic",
+      "beside the point",
+      "not answering the question"
+    ],
+    "examples": [
+      {
+        "zh": "这篇作文文不对题，所以得分很低。",
+        "en": "This essay was off-topic, so it scored low."
+      },
+      {
+        "zh": "他的回答文不对题，大家听得莫名其妙。",
+        "en": "His answer had nothing to do with the question, and everyone was puzzled."
+      }
+    ],
+    "usage": {
+      "en": "A common teacher's comment on essays.",
+      "zh": "常见的作文评语。"
+    },
+    "synonyms": [
+      "答非所问",
+      "离题万里"
+    ],
+    "antonyms": [
+      "切中要害",
+      "一针见血"
+    ]
+  },
+  {
+    "id": "li-qu-ci-qiong",
+    "text": "理屈词穷",
+    "pinyin": "lǐ qū cí qióng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "词穷理屈"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "poor-speech-and-silence"
+    ],
+    "literal": "reason · bent · words · exhausted",
+    "natural": "out of arguments",
+    "meaning": {
+      "en": "Having no justification left and nothing more to say.",
+      "zh": "理由站不住，无话可说。"
+    },
+    "equivalents": [
+      "lost for words",
+      "out of arguments",
+      "have no leg to stand on"
+    ],
+    "examples": [
+      {
+        "zh": "在事实面前，他理屈词穷。",
+        "en": "Faced with the facts, he had nothing left to say."
+      },
+      {
+        "zh": "对方被问得理屈词穷，只好认错。",
+        "en": "The other side, out of arguments, had to admit they were wrong."
+      },
+      {
+        "zh": "他被驳得词穷理屈。",
+        "en": "His arguments were demolished and he fell silent."
+      }
+    ],
+    "usage": {
+      "en": "Also 词穷理屈.",
+      "zh": "也作“词穷理屈”。"
+    },
+    "synonyms": [
+      "哑口无言",
+      "张口结舌"
+    ],
+    "antonyms": [
+      "理直气壮",
+      "振振有词",
+      "据理力争"
+    ]
+  },
+  {
+    "id": "luo-luo-suo-suo",
+    "text": "啰啰嗦嗦",
+    "pinyin": "luō luō suō suō",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "啰啰唆唆"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "verbosity"
+    ],
+    "literal": "wordy · wordy",
+    "natural": "long-winded",
+    "meaning": {
+      "en": "Wordy and repetitive.",
+      "zh": "说话、写文章重复、啰唆。"
+    },
+    "equivalents": [
+      "long-winded",
+      "rambling",
+      "going on and on"
+    ],
+    "examples": [
+      {
+        "zh": "他啰啰嗦嗦讲了一个小时。",
+        "en": "He rambled on for an hour."
+      },
+      {
+        "zh": "别啰啰嗦嗦的，说重点！",
+        "en": "Stop going on and on — get to the point!"
+      },
+      {
+        "zh": "这份说明写得啰啰嗦嗦，看不出重点。",
+        "en": "The instructions are so wordy you can't find the key point."
+      }
+    ],
+    "usage": {
+      "en": "Also written 啰啰唆唆 or 罗罗嗦嗦. Casual.",
+      "zh": "也写作“啰啰唆唆”。口语。"
+    },
+    "synonyms": [
+      "拖泥带水",
+      "喋喋不休",
+      "唠唠叨叨"
+    ],
+    "antonyms": [
+      "简明扼要",
+      "言简意赅",
+      "干脆利落"
+    ]
+  },
+  {
+    "id": "xue-er-shi-xi-zhi-bu-yi-yue-hu",
+    "text": "学而时习之，不亦说乎",
+    "pinyin": "xué ér shí xí zhī, bù yì yuè hū",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "学而时习之"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "learning",
+      "reading-and-study",
+      "confucian-classics"
+    ],
+    "literal": "learn · and · timely · practise · it · not · also · pleased · (question)",
+    "natural": "is it not a pleasure to learn and practise it?",
+    "meaning": {
+      "en": "Learning and regularly reviewing what one has learned is a joy.",
+      "zh": "学了又按时温习，不也很愉快吗？"
+    },
+    "equivalents": [
+      "practice makes perfect",
+      "the joy of learning"
+    ],
+    "examples": [
+      {
+        "zh": "“学而时习之，不亦说乎”，复习其实是一种乐趣。",
+        "en": "'Is it not a pleasure to learn and practise?' — revision can be a joy."
+      },
+      {
+        "zh": "老师把学而时习之写在黑板上，提醒大家常复习。",
+        "en": "The teacher wrote 'learn and practise often' on the board as a reminder to review."
+      },
+      {
+        "zh": "孔子说“学而时习之”，我们要养成复习的习惯。",
+        "en": "Confucius said to learn and practise; we should get into the habit of revising."
+      }
+    ],
+    "origin": {
+      "source": "《论语·学而》",
+      "story": {
+        "en": "The first saying of the Analects: 'The Master said: To learn and at due times practise it — is that not a pleasure?' (子曰：学而时习之，不亦说乎？)",
+        "zh": "《论语》首章：“子曰：学而时习之，不亦说乎？有朋自远方来，不亦乐乎？”"
+      }
+    },
+    "usage": {
+      "en": "The opening line of the Analects; 说 is read yuè (= 悦). The first half alone is common.",
+      "zh": "《论语》开篇第一句；“说”读yuè，同“悦”。常只说前半句。"
+    },
+    "synonyms": [
+      "温故知新",
+      "学以致用"
+    ],
+    "antonyms": [
+      "不学无术"
+    ]
+  },
+  {
+    "id": "mei-wei-jia-yao",
+    "text": "美味佳肴",
+    "pinyin": "měi wèi jiā yáo",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "fine-cuisine"
+    ],
+    "literal": "delicious · taste · fine · dishes",
+    "natural": "delicious dishes",
+    "meaning": {
+      "en": "Delicious food; fine dishes.",
+      "zh": "味道鲜美的好菜。"
+    },
+    "equivalents": [
+      "delicacies",
+      "a delicious spread",
+      "fine food"
+    ],
+    "examples": [
+      {
+        "zh": "年夜饭桌上摆满了美味佳肴。",
+        "en": "The New Year's Eve table was laden with delicious dishes."
+      },
+      {
+        "zh": "这里的美味佳肴吸引了很多游客。",
+        "en": "The delicacies here attract many tourists."
+      },
+      {
+        "zh": "再多的美味佳肴，也比不上妈妈做的家常菜。",
+        "en": "No delicacies can match Mum's home cooking."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "山珍海味",
+      "色香味俱全"
+    ],
+    "antonyms": [
+      "粗茶淡饭",
+      "残羹冷炙"
+    ]
+  },
+  {
+    "id": "se-xiang-wei-ju-quan",
+    "text": "色香味俱全",
+    "pinyin": "sè xiāng wèi jù quán",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "fine-cuisine"
+    ],
+    "literal": "colour · aroma · taste · all · complete",
+    "natural": "good colour, aroma and taste",
+    "meaning": {
+      "en": "Looking, smelling and tasting excellent — the ideal dish.",
+      "zh": "颜色、香气、味道都很好。"
+    },
+    "equivalents": [
+      "looks, smells and tastes great",
+      "perfect in every way"
+    ],
+    "examples": [
+      {
+        "zh": "这道菜色香味俱全，真让人流口水。",
+        "en": "This dish looks, smells and tastes wonderful — mouth-watering."
+      },
+      {
+        "zh": "他做的红烧肉色香味俱全。",
+        "en": "His braised pork is perfect in colour, aroma and flavour."
+      }
+    ],
+    "usage": {
+      "en": "The standard Chinese formula for praising a dish.",
+      "zh": "中国人称赞菜肴的标准说法。"
+    },
+    "synonyms": [
+      "美味佳肴",
+      "唇齿留香"
+    ],
+    "antonyms": [
+      "味同嚼蜡",
+      "难以下咽"
+    ]
+  },
+  {
+    "id": "chun-chi-liu-xiang",
+    "text": "唇齿留香",
+    "pinyin": "chún chǐ liú xiāng",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "口齿留香"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "fine-cuisine"
+    ],
+    "literal": "lips · teeth · retain · fragrance",
+    "natural": "the taste lingers",
+    "meaning": {
+      "en": "So delicious that the flavour lingers in the mouth.",
+      "zh": "吃完后嘴里还留有香味，形容食物美味。"
+    },
+    "equivalents": [
+      "leaves a lingering taste",
+      "moreish"
+    ],
+    "examples": [
+      {
+        "zh": "这碗汤喝完唇齿留香。",
+        "en": "After this soup the flavour lingers on."
+      },
+      {
+        "zh": "这茶入口微苦，却口齿留香。",
+        "en": "The tea is slightly bitter at first but leaves a lingering fragrance."
+      }
+    ],
+    "usage": {
+      "en": "Food and tea writing; also 口齿留香. Figuratively for memorable writing.",
+      "zh": "多写美食、茶，也作“口齿留香”；也比喻文章耐人回味。"
+    },
+    "synonyms": [
+      "回味无穷",
+      "色香味俱全"
+    ],
+    "antonyms": [
+      "味同嚼蜡",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "ba-zhen-yu-shi",
+    "text": "八珍玉食",
+    "pinyin": "bā zhēn yù shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "food",
+      "fine-cuisine"
+    ],
+    "literal": "eight · delicacies · jade · food",
+    "natural": "the eight delicacies",
+    "meaning": {
+      "en": "The finest, rarest food.",
+      "zh": "极珍贵的美食。"
+    },
+    "equivalents": [
+      "the finest delicacies",
+      "a feast fit for a king"
+    ],
+    "examples": [
+      {
+        "zh": "皇宫里八珍玉食，应有尽有。",
+        "en": "In the palace every rare delicacy could be had."
+      },
+      {
+        "zh": "他吃惯了八珍玉食，反而怀念小时候的粗茶淡饭。",
+        "en": "Used to the finest food, he missed the plain meals of his childhood."
+      }
+    ],
+    "usage": {
+      "en": "Literary. 八珍 were eight prized foods of ancient banquets.",
+      "zh": "书面语。“八珍”指古代八种珍贵食物。"
+    },
+    "synonyms": [
+      "山珍海味",
+      "锦衣玉食"
+    ],
+    "antonyms": [
+      "粗茶淡饭",
+      "箪食瓢饮"
+    ]
+  },
+  {
+    "id": "dan-si-piao-yin",
+    "text": "箪食瓢饮",
+    "pinyin": "dān sì piáo yǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "food",
+      "simple-food-and-hunger",
+      "poverty-and-hardship",
+      "confucian-classics"
+    ],
+    "literal": "basket · food · gourd · drink",
+    "natural": "a basket of rice and a gourd of water",
+    "meaning": {
+      "en": "A frugal, simple life, often lived contentedly.",
+      "zh": "一箪饭、一瓢水，形容生活清贫俭朴。"
+    },
+    "equivalents": [
+      "simple fare",
+      "living frugally",
+      "a life of plain living"
+    ],
+    "examples": [
+      {
+        "zh": "他箪食瓢饮，却潜心治学。",
+        "en": "He lived on simple fare, yet devoted himself to scholarship."
+      },
+      {
+        "zh": "古人推崇颜回箪食瓢饮而不改其乐的精神。",
+        "en": "The ancients admired Yan Hui, who stayed cheerful on a bowl of rice and a gourd of water."
+      }
+    ],
+    "origin": {
+      "source": "《论语·雍也》",
+      "story": {
+        "en": "Confucius praised his disciple Yan Hui: 'A basket of food, a gourd of drink, living in a mean lane — others could not bear the hardship, yet Hui never lost his joy.'",
+        "zh": "孔子称赞颜回：“一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤哉，回也！”"
+      }
+    },
+    "usage": {
+      "en": "食 is read sì (food for eating) here. Praise for contented frugality.",
+      "zh": "“食”读sì。多称赞安贫乐道。"
+    },
+    "synonyms": [
+      "粗茶淡饭",
+      "安贫乐道"
+    ],
+    "antonyms": [
+      "锦衣玉食",
+      "八珍玉食"
+    ]
+  },
+  {
+    "id": "ren-ji-ai-e",
+    "text": "忍饥挨饿",
+    "pinyin": "rěn jī ái è",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "simple-food-and-hunger",
+      "poverty-and-hardship"
+    ],
+    "literal": "endure · hunger · suffer · starvation",
+    "natural": "go hungry",
+    "meaning": {
+      "en": "To endure hunger.",
+      "zh": "忍受饥饿。"
+    },
+    "equivalents": [
+      "go hungry",
+      "starve",
+      "go without food"
+    ],
+    "examples": [
+      {
+        "zh": "那几年粮食短缺，很多人忍饥挨饿。",
+        "en": "In those years of shortage, many people went hungry."
+      },
+      {
+        "zh": "为了省钱，他宁可忍饥挨饿。",
+        "en": "To save money he'd rather go hungry."
+      },
+      {
+        "zh": "不能让孩子们忍饥挨饿。",
+        "en": "We can't let the children go hungry."
+      }
+    ],
+    "usage": {
+      "en": "挨 is ái (to suffer).",
+      "zh": "“挨”读ái。"
+    },
+    "synonyms": [
+      "饥肠辘辘",
+      "食不果腹",
+      "饥寒交迫"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "酒足饭饱"
+    ]
+  }
+]
