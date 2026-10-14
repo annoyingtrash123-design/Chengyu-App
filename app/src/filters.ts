@@ -13,6 +13,7 @@ export function emptyFilters(): Filters {
     statuses: [],
     favourites_only: false,
     has_origin: false,
+    modern_only: false,
   };
 }
 
@@ -27,6 +28,7 @@ export function activeFilterCount(f: Filters): number {
     f.registers.length +
     f.statuses.length +
     Number(f.favourites_only) +
-    Number(f.has_origin)
+    Number(f.has_origin) +
+    Number(f.modern_only)
   );
 }

@@ -80,6 +80,7 @@ export async function renderDictionary(root: HTMLElement) {
       ...f.statuses.map((s) => [STATUS_LABEL[s].zh, () => (f.statuses = f.statuses.filter((x) => x !== s))] as [string, () => void]),
       ...(f.favourites_only ? [["♥", () => (f.favourites_only = false)] as [string, () => void]] : []),
       ...(f.has_origin ? [[en() ? "Has story" : "有典故", () => (f.has_origin = false)] as [string, () => void]] : []),
+      ...(f.modern_only ? [[en() ? "Modern" : "现代/外来", () => (f.modern_only = false)] as [string, () => void]] : []),
     ];
     clear(
       chips,
@@ -240,7 +241,7 @@ export function openFilterSheet(initial: Filters, onApply: (f: Filters) => void)
     h("div", { class: "row-between" }, h("h2", null, t("筛选", "Filters")), h("button", { class: "icon-btn", onclick: close, "aria-label": "Close" }, "×")),
     section(
       t("类型", "Type"),
-      chipGroup<Kind>(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"], f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k]})`, (v) => (f.kinds = v)),
+      chipGroup<Kind>(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase", "mingju"], f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k]})`, (v) => (f.kinds = v)),
     ),
     section(t("主题", "Theme"), themePicker(f), h("div", { class: "sheet-note" }, themesAll)),
     section(t("字数", "Characters"), chipGroup([3, 4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), (v) => (f.lengths = v))),
@@ -259,6 +260,7 @@ export function openFilterSheet(initial: Filters, onApply: (f: Filters) => void)
         { class: "chip-group" },
         toggle(t("♥ 收藏", "Favourites"), () => f.favourites_only, (v) => (f.favourites_only = v)),
         toggle(t("有典故", "Has origin story"), () => f.has_origin, (v) => (f.has_origin = v)),
+        toggle(t("现代/外来", "Modern & borrowed"), () => f.modern_only, (v) => (f.modern_only = v)),
       ),
     ),
     h(

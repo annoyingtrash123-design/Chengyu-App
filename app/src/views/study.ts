@@ -10,7 +10,7 @@ export function deckPicker(onChange: (d: Deck) => void, initial: Deck = { type: 
     ["all", en() ? "Everything" : "全部", { type: "all" }],
     ["core", en() ? "Core 500 (most common)" : "核心 500", { type: "core" }],
     ["favourites", en() ? "♥ Favourites" : "♥ 收藏", { type: "favourites" }],
-    ...(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"] as Kind[]).map(
+    ...(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase", "mingju"] as Kind[]).map(
       (k) => [`kind:${k}`, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }] as [string, string, Deck],
     ),
     ...(state.meta?.themes ?? []).filter((t) => !t.group).map(

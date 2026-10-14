@@ -13,6 +13,7 @@ import {
   REGISTER_LABEL,
   FREQUENCY_LABEL,
   STATUS_LABEL,
+  MODERN_LABEL,
   themeLabel,
 } from "../ui";
 import { showTheme } from "./dictionary";
@@ -91,6 +92,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
         badge(`${FREQUENCY_LABEL[e.frequency].stars} ${label(FREQUENCY_LABEL[e.frequency])}`, `freq-${e.frequency}`),
         badge(label(SENTIMENT_LABEL[e.sentiment]), `sent-${e.sentiment}`),
         badge(label(REGISTER_LABEL[e.register]), "reg"),
+        e.modern ? badge(label(MODERN_LABEL[e.modern]), "modern") : null,
         badge(`${s.length}字${s.structure && s.length <= 4 ? ` · ${s.structure}` : ""}`, "len"),
       ),
     ),

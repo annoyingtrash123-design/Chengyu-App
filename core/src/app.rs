@@ -9,7 +9,7 @@ use serde_json::{json, Value};
 
 use crate::dictionary::{Dictionary, Filters, MatchKind};
 use crate::games::{self, MatchMode};
-use crate::model::{Bilingual, Entry, Kind, Register, Sentiment};
+use crate::model::{Bilingual, Entry, Kind, Modern, Register, Sentiment};
 use crate::quiz::{self, Lang, QuestionKind};
 use crate::rng::hash64;
 use crate::srs::{Card, Grade};
@@ -40,6 +40,8 @@ pub struct Summary<'a> {
     pub structure: Option<String>,
     pub status: Status,
     pub favourite: bool,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub modern: Option<Modern>,
 }
 
 #[derive(Debug, Serialize)]
@@ -104,6 +106,7 @@ impl App {
             structure: e.structure(),
             status: self.user.status(&e.id),
             favourite: self.user.favourites.contains(&e.id),
+            modern: e.modern,
         }
     }
 
@@ -177,6 +180,7 @@ impl App {
                         "xiehouyu": count(Kind::Xiehouyu),
                         "guanyongyu": count(Kind::Guanyongyu),
                         "phrase": count(Kind::Phrase),
+                        "mingju": count(Kind::Mingju),
                     },
                 })
             }

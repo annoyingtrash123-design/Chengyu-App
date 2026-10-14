@@ -17,6 +17,19 @@ pub enum Kind {
     /// 四字词语 — common set phrases that are not classic idioms, including
     /// cultural terms such as 梅兰竹菊.
     Phrase,
+    /// 名句 — famous lines from poems and classics (工欲善其事，必先利其器).
+    Mingju,
+}
+
+/// Marks expressions that are modern coinages or borrowed from other languages,
+/// so learners know they aren't traditional.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
+#[serde(rename_all = "lowercase")]
+pub enum Modern {
+    /// Coined in the 20th/21st century (豆腐渣工程).
+    Modern,
+    /// Borrowed or translated from another language (蝴蝶效应).
+    Borrowed,
 }
 
 /// 褒义 / 贬义 / 中性.
@@ -100,6 +113,8 @@ pub struct Entry {
     pub synonyms: Vec<String>,
     #[serde(default)]
     pub antonyms: Vec<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub modern: Option<Modern>,
     /// For 歇后语: the lead-in and the punchline.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub parts: Option<[String; 2]>,

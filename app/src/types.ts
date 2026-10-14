@@ -1,6 +1,6 @@
 // Shapes returned by the Rust core (see core/src/app.rs).
 
-export type Kind = "chengyu" | "suyu" | "xiehouyu" | "guanyongyu" | "phrase";
+export type Kind = "chengyu" | "suyu" | "xiehouyu" | "guanyongyu" | "phrase" | "mingju";
 export type Sentiment = "positive" | "negative" | "neutral";
 export type Register = "casual" | "neutral" | "formal" | "literary";
 export type Status = "new" | "learning" | "mastered";
@@ -25,6 +25,7 @@ export interface Summary {
   structure: string | null;
   status: Status;
   favourite: boolean;
+  modern?: "modern" | "borrowed";
   matched?: string;
 }
 
@@ -47,6 +48,7 @@ export interface Entry {
   synonyms: string[];
   antonyms: string[];
   parts?: [string, string];
+  modern?: "modern" | "borrowed";
 }
 
 export interface Card {
@@ -100,6 +102,7 @@ export interface Filters {
   statuses: Status[];
   favourites_only: boolean;
   has_origin: boolean;
+  modern_only: boolean;
 }
 
 export type Deck =

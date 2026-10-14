@@ -1,6 +1,6 @@
 # 成语词典 Chengyu App
 
-A searchable dictionary of 成语, 俗语/谚语, 歇后语, 惯用语 and common 四字词语 for advanced learners, with
+A searchable dictionary of 成语, 俗语/谚语, 歇后语, 惯用语, 名句 and common 四字词语 for advanced learners, with
 flashcards, quizzes and games. Runs as a native Android / iOS app (Tauri 2) with all
 logic in Rust.
 
@@ -32,8 +32,8 @@ core/            Rust library: data model, search, filters, SRS, quizzes, games,
 data/
   entries/*.json   the dictionary content (one JSON array per file)
   themes.json      theme list (id + English + Chinese label)
-  master_list.json your list after review: 905 unique items (typos corrected, merged, a few dropped)
-  source/          the raw 916-item list and the review decisions
+  master_list.json the writing queue: 1,455 unique items from both of your lists, most common first
+  source/          the raw lists (PDFs), review decisions, THUOCL frequency list (MIT)
 app/             Tauri app
   src/           TypeScript UI (no framework)
   src-tauri/     Tauri shell — forwards one `api` command to the Rust core

@@ -117,6 +117,9 @@ pub fn check(dict: &Dictionary) -> Report {
                 err.push(format!("{t}: example does not contain the expression: {}", ex.zh));
             }
         }
+        if e.kind == Kind::Mingju && e.origin.as_ref().is_none_or(|o| o.source.trim().is_empty()) {
+            err.push(format!("{t}: 名句 must give its source (origin.source)"));
+        }
         if let Some(o) = &e.origin {
             if o.story.en.trim().is_empty() || o.story.zh.trim().is_empty() {
                 err.push(format!("{t}: origin story needs English and Chinese"));

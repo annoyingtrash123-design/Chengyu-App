@@ -71,6 +71,12 @@ export const KIND_LABEL: Record<Kind, { zh: string; en: string }> = {
   xiehouyu: { zh: "歇后语", en: "Two-part saying" },
   guanyongyu: { zh: "惯用语", en: "Idiom phrase" },
   phrase: { zh: "四字词语", en: "Set phrase" },
+  mingju: { zh: "名句", en: "Famous line" },
+};
+
+export const MODERN_LABEL: Record<"modern" | "borrowed", { zh: string; en: string }> = {
+  modern: { zh: "现代", en: "Modern" },
+  borrowed: { zh: "外来", en: "Borrowed" },
 };
 
 export const SENTIMENT_LABEL: Record<Sentiment, { zh: string; en: string }> = {
@@ -137,6 +143,7 @@ export function entryRow(s: Summary) {
       { class: "badges" },
       badge(KIND_LABEL[s.kind].zh, `kind-${s.kind}`),
       badge(SENTIMENT_LABEL[s.sentiment].zh, `sent-${s.sentiment}`),
+      s.modern ? badge(MODERN_LABEL[s.modern].zh, "modern") : null,
       s.status !== "new" ? badge(STATUS_LABEL[s.status].zh, `status-${s.status}`) : null,
     ),
   );

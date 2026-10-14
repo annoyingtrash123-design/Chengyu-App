@@ -7,7 +7,7 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "id": "hua-she-tian-zu",          // toneless pinyin slug, unique, a-z 0-9 and dashes
   "text": "画蛇添足",
   "pinyin": "huà shé tiān zú",      // one syllable per character, tone marks on every syllable
-  "kind": "chengyu",                 // chengyu | suyu | xiehouyu | guanyongyu | phrase (四字词语)
+  "kind": "chengyu",                 // chengyu | suyu | xiehouyu | guanyongyu | phrase (四字词语) | mingju (名句)
   "frequency": 1,                    // 1 core (everyday), 2 common (news/writing), 3 literary
   "sentiment": "negative",           // positive (褒义) | negative (贬义) | neutral (中性)
   "register": "neutral",             // casual | neutral | formal | literary
@@ -24,7 +24,8 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "usage": { "en": "…", "zh": "…" }, // grammar role, tone, common pitfalls, register warnings
   "synonyms": ["多此一举"],          // by text; they link up automatically once added
   "antonyms": ["恰到好处"],
-  "parts": ["外甥打灯笼", "照舅（旧）"] // 歇后语 only: text must be parts[0] + "——" + parts[1]
+  "parts": ["外甥打灯笼", "照舅（旧）"], // 歇后语 only: text must be parts[0] + "——" + parts[1]
+  "modern": "borrowed"               // optional: "modern" (recent coinage) or "borrowed" (from another language)
 }
 ```
 
@@ -57,14 +58,28 @@ fit; filtering by a broad theme also finds everything tagged with its detailed t
   (连夜追赶, 灯火通明), cultural sets with a short cultural note, and common news/formal
   phrases (register `formal`). Out of scope: connectors (也就是说) and AABB reduplications.
   See docs/phrase-candidates.md.
+- **名句 (`mingju`)**: famous lines from poems and classics, stored as the full line or
+  couplet (工欲善其事，必先利其器). `origin.source` must name the work and author; the usage
+  note says when people quote it today.
+- **歇后语**: always store the full saying (丈二和尚——摸不着头脑). Searching either half finds
+  it; the usage note says that people often say only the first half.
+- **AABB**: only idiomatic set expressions (战战兢兢, 兢兢业业, 三三两两), not plain doubled
+  adjectives (干干净净).
+- **Modern & borrowed** (蝴蝶效应, 豆腐渣工程): set `modern` and say so in the usage note and
+  explanation (when and where it came from).
+- **Colloquial words** from the lists (差不多, 大概其, 八九不离十) go in as 惯用语.
+- **Examples**: vary the situations across entries: everyday life, work & business, school &
+  essays, news & literature.
+- **Variants** (塞翁失马焉知非福 for 塞翁失马) are one entry, never two.
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 
 ## Plan
 
 1. ✅ App infrastructure + 20 sample entries for review.
-2. Linked expressions that samples already refer to (`python3 scripts/backlog.py`).
-3. The rest of the original master list, most common first.
+2. All 1,455 items from the user's two lists (`data/master_list.json`), most common first
+   (sorted by THUOCL rank; unranked items after).
+3. Linked synonyms/antonyms and the most frequent chengyu missing from the lists.
 4. Additional high-frequency chengyu (THUOCL ranking), 俗语/谚语, 歇后语 and 惯用语 — maximum
    useful coverage, no fixed cap.
 5. 四字词语: as many useful ones as possible from the agreed categories.

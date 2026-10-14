@@ -60,6 +60,8 @@ pub struct Filters {
     pub statuses: Vec<Status>,
     pub favourites_only: bool,
     pub has_origin: bool,
+    /// Only modern coinages and borrowings.
+    pub modern_only: bool,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize)]
@@ -209,6 +211,7 @@ impl Dictionary {
             && any_or_empty(f.statuses.is_empty(), f.statuses.contains(&user.status(&e.id)))
             && (!f.favourites_only || user.favourites.contains(&e.id))
             && (!f.has_origin || e.origin.is_some())
+            && (!f.modern_only || e.modern.is_some())
     }
 
     /// Score one entry against a query. `None` means no match.
