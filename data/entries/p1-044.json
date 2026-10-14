@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "qing-feng-ming-yue",
+    "text": "清风明月",
+    "pinyin": "qīng fēng míng yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "relaxation-and-rest"
+    ],
+    "literal": "clear · breeze · bright · moon",
+    "natural": "A clear breeze and a bright moon",
+    "meaning": {
+      "en": "A serene, beautiful night; a life of leisure and purity.",
+      "zh": "清凉的风，明亮的月。形容美好的夜景，也比喻清闲无事或品格高洁。"
+    },
+    "equivalents": [
+      "a serene moonlit night",
+      "peace and tranquillity"
+    ],
+    "examples": [
+      {
+        "zh": "清风明月，正是赏月的好时候。",
+        "en": "A clear breeze and bright moon — perfect for moon-gazing."
+      },
+      {
+        "zh": "他辞官归隐，与清风明月为伴。",
+        "en": "He resigned and retired, with only the breeze and moon for company."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "风清月朗",
+      "花前月下"
+    ],
+    "antonyms": [
+      "风雨交加",
+      "月黑风高"
+    ]
+  },
+  {
+    "id": "tu-si-hu-bei",
+    "text": "兔死狐悲",
+    "pinyin": "tù sǐ hú bēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "complex-emotional-states"
+    ],
+    "literal": "rabbit · dies · fox · grieves",
+    "natural": "When the rabbit dies, the fox grieves",
+    "meaning": {
+      "en": "To grieve for a fellow sufferer (fearing the same fate); usually of bad people.",
+      "zh": "兔子死了，狐狸感到悲伤。比喻因同类的死亡而感到悲伤（多用于贬义）。"
+    },
+    "equivalents": [
+      "there but for the grace of God go I",
+      "fellow feeling",
+      "fear the same fate"
+    ],
+    "examples": [
+      {
+        "zh": "同伙被抓，他兔死狐悲，坐立不安。",
+        "en": "With his accomplice arrested, he feared the same fate and couldn't sit still."
+      },
+      {
+        "zh": "同行倒闭，大家兔死狐悲。",
+        "en": "When a competitor went bust, the others felt a chill of fellow feeling."
+      }
+    ],
+    "origin": {
+      "source": "《宋史·李全传》",
+      "story": {
+        "en": "A defector was told: \"When the fox dies, the rabbit weeps; when the Li clan is destroyed, the Xia clan won't survive either\" (狐死兔泣).",
+        "zh": "《宋史·李全传》：\"狐死兔泣，李氏灭，夏氏宁独存？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Usually derogatory.",
+      "zh": "多作谓语，多含贬义。"
+    },
+    "synonyms": [
+      "物伤其类",
+      "同病相怜"
+    ],
+    "antonyms": [
+      "幸灾乐祸",
+      "隔岸观火"
+    ]
+  },
+  {
+    "id": "chen-yu-luo-yan",
+    "text": "沉鱼落雁",
+    "pinyin": "chén yú luò yàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "animals"
+    ],
+    "literal": "sink · fish · fall · goose",
+    "natural": "Fish sinking and geese falling",
+    "meaning": {
+      "en": "Stunningly beautiful (of a woman).",
+      "zh": "鱼见了沉入水底，雁见了降落沙洲。形容女子容貌美丽。"
+    },
+    "equivalents": [
+      "stunningly beautiful",
+      "drop-dead gorgeous",
+      "a face that launched a thousand ships"
+    ],
+    "examples": [
+      {
+        "zh": "西施有沉鱼落雁之容。",
+        "en": "Xi Shi had a beauty to make fish sink and geese fall."
+      },
+      {
+        "zh": "她长得沉鱼落雁，闭月羞花。",
+        "en": "She's breathtakingly beautiful."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·齐物论》",
+      "story": {
+        "en": "Zhuangzi notes that the famous beauties Mao Qiang and Li Ji are admired by people, yet \"fish who see them dive deep, birds who see them fly high\" — originally about relative perspectives. Later legends link the phrase to Xi Shi and Wang Zhaojun.",
+        "zh": "《庄子》：\"毛嫱丽姬，人之所美也；鱼见之深入，鸟见之高飞。\"后传说西施浣纱鱼沉，昭君出塞雁落。"
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate. Often with 闭月羞花.",
+      "zh": "多作定语、谓语，常与\"闭月羞花\"连用。"
+    },
+    "synonyms": [
+      "闭月羞花",
+      "国色天香",
+      "倾国倾城"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "丑陋不堪"
+    ]
+  },
+  {
+    "id": "qi-wei-xiang-tou",
+    "text": "气味相投",
+    "pinyin": "qì wèi xiāng tóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "smell · taste · mutually · match",
+    "natural": "Tastes and smells that match",
+    "meaning": {
+      "en": "Like-minded (often of bad company).",
+      "zh": "指人的思想作风相同，彼此很合得来（多用于贬义）。"
+    },
+    "equivalents": [
+      "birds of a feather",
+      "like-minded",
+      "hit it off"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩气味相投，经常一起喝酒。",
+        "en": "They're birds of a feather and often drink together."
+      },
+      {
+        "zh": "这帮人气味相投，结成了小团伙。",
+        "en": "These like-minded people formed a little gang."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often slightly negative (compare 志同道合).",
+      "zh": "多作谓语，常含贬义。"
+    },
+    "synonyms": [
+      "臭味相投",
+      "意气相投",
+      "情投意合"
+    ],
+    "antonyms": [
+      "格格不入",
+      "水火不容",
+      "话不投机"
+    ]
+  },
+  {
+    "id": "bi-yue-xiu-hua",
+    "text": "闭月羞花",
+    "pinyin": "bì yuè xiū huā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "nature"
+    ],
+    "literal": "hide · moon · shame · flowers",
+    "natural": "Making the moon hide and flowers blush",
+    "meaning": {
+      "en": "Breathtakingly beautiful (of a woman).",
+      "zh": "使月亮躲藏，使花儿羞惭。形容女子容貌美丽。"
+    },
+    "equivalents": [
+      "breathtakingly beautiful",
+      "outshine the stars",
+      "a stunning beauty"
+    ],
+    "examples": [
+      {
+        "zh": "她有闭月羞花之貌。",
+        "en": "She has breathtaking beauty."
+      },
+      {
+        "zh": "小说中的女主角闭月羞花。",
+        "en": "The novel's heroine is stunningly beautiful."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate. Later legends link 闭月 to Diaochan and 羞花 to Yang Guifei.",
+      "zh": "多作定语、谓语。后世传说\"闭月\"指貂蝉，\"羞花\"指杨贵妃。"
+    },
+    "synonyms": [
+      "沉鱼落雁",
+      "国色天香",
+      "花容月貌"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "丑陋不堪"
+    ]
+  },
+  {
+    "id": "ning-wei-yu-sui",
+    "text": "宁为玉碎",
+    "pinyin": "nìng wéi yù suì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "宁为玉碎，不为瓦全"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "war"
+    ],
+    "literal": "rather · be · jade · shattered",
+    "natural": "Rather be shattered jade",
+    "meaning": {
+      "en": "Better to die with honour than live in disgrace.",
+      "zh": "宁愿做玉器被打碎，不愿做瓦器而保全。比喻宁愿为正义而死，不愿苟且偷生。"
+    },
+    "equivalents": [
+      "death before dishonour",
+      "better to die on your feet than live on your knees",
+      "all or nothing"
+    ],
+    "examples": [
+      {
+        "zh": "宁为玉碎，不为瓦全。",
+        "en": "Better to be shattered jade than an intact tile."
+      },
+      {
+        "zh": "他宁为玉碎，也不向恶势力低头。",
+        "en": "He'd rather die with honour than bow to the villains."
+      }
+    ],
+    "origin": {
+      "source": "《北齐书·元景安传》",
+      "story": {
+        "en": "When the Northern Qi usurper ordered the Yuan clan to change their surname, Yuan Jingan agreed, but his cousin Yuan Jinghao said: \"A great man would rather be shattered jade than an intact tile\" (大丈夫宁可玉碎，不能瓦全).",
+        "zh": "元景皓说：\"大丈夫宁可玉碎，不能瓦全。\""
+      }
+    },
+    "usage": {
+      "en": "Usually with 不为瓦全. 宁 is nìng.",
+      "zh": "常与\"不为瓦全\"连用。\"宁\"读 nìng。"
+    },
+    "synonyms": [
+      "宁死不屈",
+      "视死如归",
+      "坚贞不屈"
+    ],
+    "antonyms": [
+      "苟且偷生",
+      "委曲求全",
+      "贪生怕死"
+    ]
+  },
+  {
+    "id": "liao-shi-ru-shen",
+    "text": "料事如神",
+    "pinyin": "liào shì rú shén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "military-strategy-and-victory"
+    ],
+    "literal": "predict · affairs · like · god",
+    "natural": "Predicting events like a god",
+    "meaning": {
+      "en": "To predict events with uncanny accuracy.",
+      "zh": "预料事情像神仙一样准确。形容预见性强。"
+    },
+    "equivalents": [
+      "uncannily prescient",
+      "a crystal ball",
+      "read the future"
+    ],
+    "examples": [
+      {
+        "zh": "诸葛亮料事如神。",
+        "en": "Zhuge Liang predicted events with uncanny accuracy."
+      },
+      {
+        "zh": "他料事如神，早就猜到了结果。",
+        "en": "He saw it coming — he guessed the result long ago."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "神机妙算",
+      "未卜先知",
+      "先见之明"
+    ],
+    "antonyms": [
+      "始料不及",
+      "出乎意料"
+    ]
+  },
+  {
+    "id": "wei-xin-sao-di",
+    "text": "威信扫地",
+    "pinyin": "wēi xìn sǎo dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "prestige · trust · sweep · ground",
+    "natural": "Prestige swept off the ground",
+    "meaning": {
+      "en": "To lose all credibility and authority.",
+      "zh": "威望和信誉完全丧失。"
+    },
+    "equivalents": [
+      "lose all credibility",
+      "discredited",
+      "a loss of face",
+      "reputation in tatters"
+    ],
+    "examples": [
+      {
+        "zh": "丑闻曝光后，他在公司威信扫地。",
+        "en": "After the scandal broke, he lost all credibility at the company."
+      },
+      {
+        "zh": "言而无信会让领导威信扫地。",
+        "en": "Breaking promises destroys a leader's authority."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "声名狼藉",
+      "身败名裂",
+      "颜面扫地"
+    ],
+    "antonyms": [
+      "德高望重",
+      "威信大增",
+      "众望所归"
+    ]
+  },
+  {
+    "id": "kua-fu-zhu-ri",
+    "text": "夸父逐日",
+    "pinyin": "kuā fù zhú rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "high-aspirations"
+    ],
+    "literal": "Kuafu · chase · sun",
+    "natural": "Kuafu chasing the sun",
+    "meaning": {
+      "en": "A heroic but impossible quest; also overreaching ambition.",
+      "zh": "比喻人有大志，也比喻不自量力。"
+    },
+    "equivalents": [
+      "chasing the impossible",
+      "a quixotic quest",
+      "reach for the sun"
+    ],
+    "examples": [
+      {
+        "zh": "夸父逐日的故事表现了古人征服自然的愿望。",
+        "en": "The myth of Kuafu chasing the sun shows the ancients' wish to conquer nature."
+      },
+      {
+        "zh": "这个计划无异于夸父逐日。",
+        "en": "This plan is a quixotic quest."
+      }
+    ],
+    "origin": {
+      "source": "《山海经·海外北经》",
+      "story": {
+        "en": "The giant Kuafu raced the sun; thirsty, he drank the Yellow and Wei rivers dry and died of thirst on the way to a great lake. His staff became a peach forest.",
+        "zh": "夸父与太阳赛跑，口渴喝干了黄河、渭水，北去大泽途中渴死，手杖化为桃林。"
+      }
+    },
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "精卫填海",
+      "不自量力"
+    ],
+    "antonyms": [
+      "量力而行",
+      "安于现状"
+    ]
+  },
+  {
+    "id": "de-long-wang-shu",
+    "text": "得陇望蜀",
+    "pinyin": "dé lǒng wàng shǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "negative-character-flaws",
+      "high-aspirations"
+    ],
+    "literal": "gain · Long · look at · Shu",
+    "natural": "Having taken Long, eyeing Shu",
+    "meaning": {
+      "en": "Never satisfied; always wanting more.",
+      "zh": "已经取得陇右，还想攻取西蜀。比喻贪得无厌。"
+    },
+    "equivalents": [
+      "give them an inch and they'll take a mile",
+      "never satisfied",
+      "greedy for more"
+    ],
+    "examples": [
+      {
+        "zh": "他升了职还不满足，得陇望蜀。",
+        "en": "Even after his promotion he's not satisfied — he always wants more."
+      },
+      {
+        "zh": "做人不能得陇望蜀。",
+        "en": "Don't be insatiable."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·岑彭传》",
+      "story": {
+        "en": "Emperor Guangwu wrote to his general after taking Longxi: \"People suffer from not knowing contentment — having pacified Long, I now look towards Shu.\"",
+        "zh": "光武帝写信给岑彭：\"人苦不知足，既平陇，复望蜀。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "得寸进尺",
+      "贪得无厌",
+      "欲壑难填"
+    ],
+    "antonyms": [
+      "知足常乐",
+      "适可而止",
+      "心满意足"
+    ]
+  },
+  {
+    "id": "li-hai-you-guan",
+    "text": "利害攸关",
+    "pinyin": "lì hài yōu guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "relationships"
+    ],
+    "literal": "benefit · harm · concerned · relate",
+    "natural": "Where benefit and harm are at stake",
+    "meaning": {
+      "en": "Of vital concern; with much at stake.",
+      "zh": "利害关系密切。"
+    },
+    "equivalents": [
+      "of vital interest",
+      "much at stake",
+      "a matter of life and death",
+      "high stakes"
+    ],
+    "examples": [
+      {
+        "zh": "这个决定与每个员工利害攸关。",
+        "en": "This decision is of vital interest to every employee."
+      },
+      {
+        "zh": "这是一场利害攸关的谈判。",
+        "en": "It's a high-stakes negotiation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 攸 is yōu.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "休戚相关",
+      "息息相关",
+      "生死攸关"
+    ],
+    "antonyms": [
+      "无关痛痒",
+      "毫不相干",
+      "无足轻重"
+    ]
+  },
+  {
+    "id": "en-duan-yi-jue",
+    "text": "恩断义绝",
+    "pinyin": "ēn duàn yì jué",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "kindness · break · loyalty · sever",
+    "natural": "Kindness broken and loyalty severed",
+    "meaning": {
+      "en": "To sever all ties of affection and loyalty.",
+      "zh": "恩情和情义完全断绝。多指夫妻或朋友关系破裂。"
+    },
+    "equivalents": [
+      "cut all ties",
+      "a clean break",
+      "burn one's bridges",
+      "no love lost"
+    ],
+    "examples": [
+      {
+        "zh": "两人离婚后恩断义绝，再无来往。",
+        "en": "After the divorce they cut all ties and never spoke again."
+      },
+      {
+        "zh": "他背叛了朋友，从此恩断义绝。",
+        "en": "He betrayed his friend, and that was the end of their friendship."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一刀两断",
+      "反目成仇",
+      "分道扬镳"
+    ],
+    "antonyms": [
+      "藕断丝连",
+      "破镜重圆",
+      "重归于好"
+    ]
+  },
+  {
+    "id": "shui-zhong-lao-yue",
+    "text": "水中捞月",
+    "pinyin": "shuǐ zhōng lāo yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "failed-ambitions"
+    ],
+    "literal": "water · in · scoop · moon",
+    "natural": "Scooping the moon out of the water",
+    "meaning": {
+      "en": "A futile effort; chasing an illusion.",
+      "zh": "到水中去捞月亮。比喻去做根本做不到的事情，只能白费力气。"
+    },
+    "equivalents": [
+      "a wild-goose chase",
+      "chasing rainbows",
+      "a fool's errand",
+      "futile"
+    ],
+    "examples": [
+      {
+        "zh": "不努力就想成功，无异于水中捞月。",
+        "en": "Wanting success without effort is chasing rainbows."
+      },
+      {
+        "zh": "他的计划不切实际，到头来是水中捞月。",
+        "en": "His plan was unrealistic and came to nothing in the end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "竹篮打水",
+      "缘木求鱼",
+      "海底捞针"
+    ],
+    "antonyms": [
+      "瓮中捉鳖",
+      "探囊取物",
+      "手到擒来"
+    ]
+  },
+  {
+    "id": "chun-hua-qiu-yue",
+    "text": "春花秋月",
+    "pinyin": "chūn huā qiū yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "nature"
+    ],
+    "literal": "spring · flowers · autumn · moon",
+    "natural": "Spring flowers and the autumn moon",
+    "meaning": {
+      "en": "The beauties of the seasons; fleeting good times.",
+      "zh": "春天的花，秋天的月。泛指美好的时光或景物。"
+    },
+    "equivalents": [
+      "the beauties of the seasons",
+      "the good times",
+      "seasons of beauty"
+    ],
+    "examples": [
+      {
+        "zh": "春花秋月何时了，往事知多少。",
+        "en": "Spring flowers and autumn moons — when will they end? How much of the past remains?"
+      },
+      {
+        "zh": "春花秋月，岁岁年年。",
+        "en": "Spring flowers and autumn moons, year after year."
+      }
+    ],
+    "origin": {
+      "source": "南唐·李煜《虞美人》",
+      "story": {
+        "en": "The captive last ruler of Southern Tang, Li Yu, wrote: \"Spring flowers, autumn moon — when will they end? How much of the past do I remember?\" (春花秋月何时了，往事知多少).",
+        "zh": "李煜《虞美人》：\"春花秋月何时了，往事知多少。\""
+      }
+    },
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "良辰美景",
+      "风花雪月"
+    ],
+    "antonyms": [
+      "凄风苦雨"
+    ]
+  },
+  {
+    "id": "shen-ji-miao-suan",
+    "text": "神机妙算",
+    "pinyin": "shén jī miào suàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "military-strategy-and-victory"
+    ],
+    "literal": "divine · plan · wonderful · calculation",
+    "natural": "Divine plans and wonderful calculations",
+    "meaning": {
+      "en": "Brilliant strategy; uncanny foresight.",
+      "zh": "惊人的机智，巧妙的谋划。指高明的策略。"
+    },
+    "equivalents": [
+      "masterful strategy",
+      "a stroke of genius",
+      "foresight",
+      "mastermind"
+    ],
+    "examples": [
+      {
+        "zh": "诸葛亮神机妙算，草船借箭。",
+        "en": "With masterful strategy, Zhuge Liang 'borrowed' arrows with straw boats."
+      },
+      {
+        "zh": "多亏你神机妙算，我们才赢了。",
+        "en": "We won thanks to your brilliant planning."
+      }
+    ],
+    "usage": {
+      "en": "Subject, object or predicate.",
+      "zh": "多作主语、宾语、谓语。"
+    },
+    "synonyms": [
+      "料事如神",
+      "足智多谋",
+      "运筹帷幄"
+    ],
+    "antonyms": [
+      "束手无策",
+      "无计可施",
+      "一筹莫展"
+    ]
+  },
+  {
+    "id": "ling-luo-chou-duan",
+    "text": "绫罗绸缎",
+    "pinyin": "líng luó chóu duàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fine-dress-and-fashion",
+      "culture"
+    ],
+    "literal": "damask · gauze · silk · satin",
+    "natural": "Damask, gauze, silk and satin",
+    "meaning": {
+      "en": "Fine silks; luxurious fabrics.",
+      "zh": "泛指各种丝织品。也指华贵的衣服。"
+    },
+    "equivalents": [
+      "fine silks",
+      "silks and satins",
+      "luxurious fabrics"
+    ],
+    "examples": [
+      {
+        "zh": "店里摆满了各色绫罗绸缎。",
+        "en": "The shop is full of silks and satins of every colour."
+      },
+      {
+        "zh": "她穿着绫罗绸缎，像个贵妇人。",
+        "en": "Dressed in fine silks, she looked like a lady."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase. A cultural set of four silk types.",
+      "zh": "名词性，作主语、宾语。"
+    },
+    "synonyms": [
+      "锦衣玉食",
+      "衣着华丽"
+    ],
+    "antonyms": [
+      "粗布衣裳",
+      "衣衫褴褛"
+    ]
+  },
+  {
+    "id": "yue-xia-lao-ren",
+    "text": "月下老人",
+    "pinyin": "yuè xià lǎo rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "stories"
+    ],
+    "literal": "moon · under · old · man",
+    "natural": "The old man under the moon",
+    "meaning": {
+      "en": "The god of marriage; a matchmaker.",
+      "zh": "原指传说中主管婚姻的神仙。后泛指媒人。"
+    },
+    "equivalents": [
+      "Cupid",
+      "a matchmaker",
+      "the god of love"
+    ],
+    "examples": [
+      {
+        "zh": "他们的婚事是她当的月下老人。",
+        "en": "She played matchmaker for their marriage."
+      },
+      {
+        "zh": "感谢月下老人，让我们走到了一起。",
+        "en": "Thank Cupid for bringing us together."
+      }
+    ],
+    "origin": {
+      "source": "唐·李复言《续玄怪录·定婚店》",
+      "story": {
+        "en": "Wei Gu met an old man reading under the moon, who said he kept the book of marriages and tied the feet of destined couples with red thread.",
+        "zh": "韦固夜遇一老人在月下翻书，老人说是管天下婚姻的，用红绳系住夫妻的脚。"
+      }
+    },
+    "usage": {
+      "en": "Noun. Shortened to 月老.",
+      "zh": "名词，简称\"月老\"。"
+    },
+    "synonyms": [
+      "红娘",
+      "月老"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "peng-bi-sheng-hui",
+    "text": "蓬荜生辉",
+    "pinyin": "péng bì shēng huī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "conduct"
+    ],
+    "literal": "thatch · brushwood · produce · radiance",
+    "natural": "Making a humble hut shine",
+    "meaning": {
+      "en": "(Polite) Your visit honours my humble home.",
+      "zh": "使寒门增添光辉。多用作宾客来到家里或得到别人赠送的字画时的客套话。"
+    },
+    "equivalents": [
+      "you honour my humble home",
+      "what an honour",
+      "to what do I owe the pleasure"
+    ],
+    "examples": [
+      {
+        "zh": "您能光临寒舍，真是蓬荜生辉。",
+        "en": "Your visit truly honours my humble home."
+      },
+      {
+        "zh": "有您的字挂在墙上，我家蓬荜生辉。",
+        "en": "With your calligraphy on our wall, our home is honoured."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. A polite formula.",
+      "zh": "多作谓语，客套话。"
+    },
+    "synonyms": [
+      "蓬屋生辉",
+      "三生有幸"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ri-yue-ru-suo",
+    "text": "日月如梭",
+    "pinyin": "rì yuè rú suō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time"
+    ],
+    "literal": "sun · moon · like · shuttle",
+    "natural": "Days and months flying like a shuttle",
+    "meaning": {
+      "en": "Time flies.",
+      "zh": "太阳和月亮像织布的梭子一样来回穿梭。形容时间过得很快。"
+    },
+    "equivalents": [
+      "time flies",
+      "the years fly by",
+      "where does the time go?"
+    ],
+    "examples": [
+      {
+        "zh": "光阴似箭，日月如梭。",
+        "en": "Time flies like an arrow; the days and months like a shuttle."
+      },
+      {
+        "zh": "日月如梭，孩子转眼就长大了。",
+        "en": "The years fly by — the children have grown up in a flash."
+      }
+    ],
+    "usage": {
+      "en": "Usually with 光阴似箭.",
+      "zh": "常与\"光阴似箭\"连用。"
+    },
+    "synonyms": [
+      "光阴似箭",
+      "白驹过隙",
+      "光阴荏苒"
+    ],
+    "antonyms": [
+      "度日如年",
+      "一日三秋"
+    ]
+  },
+  {
+    "id": "chuan-zao-fu-hui",
+    "text": "穿凿附会",
+    "pinyin": "chuān záo fù huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "literary-criticism",
+      "deception-and-false-appearances"
+    ],
+    "literal": "bore · chisel · attach · join",
+    "natural": "Forcing holes and joining things together",
+    "meaning": {
+      "en": "To give far-fetched interpretations.",
+      "zh": "把讲不通的或不相干的道理、事情硬扯在一起进行解释。"
+    },
+    "equivalents": [
+      "far-fetched",
+      "read too much into it",
+      "strained interpretation",
+      "a stretch"
+    ],
+    "examples": [
+      {
+        "zh": "这种解释纯属穿凿附会。",
+        "en": "That interpretation is completely far-fetched."
+      },
+      {
+        "zh": "研究历史不能穿凿附会。",
+        "en": "In history you mustn't read too much into things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "牵强附会",
+      "生拉硬扯",
+      "断章取义"
+    ],
+    "antonyms": [
+      "实事求是",
+      "顺理成章"
+    ]
+  },
+  {
+    "id": "zhu-bao-ping-an",
+    "text": "竹报平安",
+    "pinyin": "zhú bào píng ān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festivals-and-celebrations",
+      "daily"
+    ],
+    "literal": "bamboo · report · peace · safety",
+    "natural": "Bamboo bringing news of peace",
+    "meaning": {
+      "en": "A letter home saying all is well; a New Year blessing.",
+      "zh": "比喻平安家信，也用作祝福语。"
+    },
+    "equivalents": [
+      "all is well",
+      "news of safe arrival",
+      "peace at home"
+    ],
+    "examples": [
+      {
+        "zh": "春节贴上\"竹报平安\"，祝全家平平安安。",
+        "en": "At New Year people put up \"bamboo brings peace\" for the family's safety."
+      },
+      {
+        "zh": "出门在外，他常写信竹报平安。",
+        "en": "Away from home, he often writes to say all is well."
+      }
+    ],
+    "usage": {
+      "en": "Mostly a blessing or decoration. Firecrackers (爆竹) are part of the pun.",
+      "zh": "多用作祝福语。"
+    },
+    "synonyms": [
+      "平安无事"
+    ],
+    "antonyms": [
+      "报忧"
+    ]
+  },
+  {
+    "id": "qian-ju-hou-gong",
+    "text": "前倨后恭",
+    "pinyin": "qián jù hòu gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "stories"
+    ],
+    "literal": "before · arrogant · after · respectful",
+    "natural": "Arrogant before, respectful after",
+    "meaning": {
+      "en": "Rude at first, fawning later (when one's status changes).",
+      "zh": "以前傲慢，后来恭敬。形容对人的态度改变。"
+    },
+    "equivalents": [
+      "change one's tune",
+      "fair-weather respect",
+      "fawn on the successful"
+    ],
+    "examples": [
+      {
+        "zh": "他发达后，亲戚们前倨后恭。",
+        "en": "Once he made it big, his relatives changed their tune completely."
+      },
+      {
+        "zh": "这种前倨后恭的人，真让人看不起。",
+        "en": "People who only respect you once you're successful are despicable."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·秦策一》",
+      "story": {
+        "en": "When Su Qin returned home a failure, his sister-in-law wouldn't cook for him; when he returned as minister of six states, she knelt before him. He asked: \"Why were you arrogant before and so humble now?\"",
+        "zh": "苏秦落魄时嫂子不给他做饭，后来他佩六国相印归来，嫂子跪拜。苏秦问：\"嫂何前倨而后卑也？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 倨 is jù.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "趋炎附势",
+      "见风使舵"
+    ],
+    "antonyms": [
+      "一视同仁",
+      "始终如一"
+    ]
+  },
+  {
+    "id": "bing-bu-yan-zha",
+    "text": "兵不厌诈",
+    "pinyin": "bīng bù yàn zhà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "deception-and-false-appearances"
+    ],
+    "literal": "war · not · reject · deceit",
+    "natural": "War does not shun deception",
+    "meaning": {
+      "en": "All's fair in war.",
+      "zh": "用兵作战不排斥运用欺诈的手段迷惑敌人。"
+    },
+    "equivalents": [
+      "all's fair in love and war",
+      "war is deception",
+      "no holds barred"
+    ],
+    "examples": [
+      {
+        "zh": "兵不厌诈，比赛中虚晃一招很正常。",
+        "en": "All's fair in war — feints are normal in competition."
+      },
+      {
+        "zh": "商场如战场，兵不厌诈。",
+        "en": "Business is war, and war is deception."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·难一》",
+      "story": {
+        "en": "Jiu Fan advised Duke Wen of Jin: \"A gentleman of ritual never tires of loyalty; but in battle, one never tires of deception\" (战阵之间，不厌诈伪).",
+        "zh": "《韩非子·难一》：\"繁礼君子，不厌忠信；战阵之间，不厌诈伪。\""
+      }
+    },
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多单独成句。"
+    },
+    "synonyms": [
+      "声东击西",
+      "出其不意"
+    ],
+    "antonyms": [
+      "光明正大",
+      "以诚相待"
+    ]
+  },
+  {
+    "id": "xian-yi-nu-ma",
+    "text": "鲜衣怒马",
+    "pinyin": "xiān yī nù mǎ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fine-dress-and-fashion",
+      "high-aspirations"
+    ],
+    "literal": "bright · clothes · spirited · horse",
+    "natural": "Fine clothes and a spirited horse",
+    "meaning": {
+      "en": "Dashing and lavish; the swagger of privileged youth.",
+      "zh": "穿着华丽的衣服，骑着健壮的马。形容生活豪华，也形容年少意气风发。"
+    },
+    "equivalents": [
+      "dashing",
+      "living it up",
+      "the gilded youth",
+      "young and carefree"
+    ],
+    "examples": [
+      {
+        "zh": "他年少时鲜衣怒马，意气风发。",
+        "en": "In his youth he was dashing and full of swagger."
+      },
+      {
+        "zh": "那些鲜衣怒马的富家子弟。",
+        "en": "Those lavishly dressed rich kids."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "意气风发",
+      "锦衣玉食"
+    ],
+    "antonyms": [
+      "衣衫褴褛",
+      "穷困潦倒"
+    ]
+  },
+  {
+    "id": "niao-niao-ting-ting",
+    "text": "袅袅婷婷",
+    "pinyin": "niǎo niǎo tíng tíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "graceful · graceful · elegant · elegant",
+    "natural": "Graceful and elegant",
+    "meaning": {
+      "en": "Graceful and lissom (of a woman's walk or figure).",
+      "zh": "形容女子走路体态轻盈柔美。"
+    },
+    "equivalents": [
+      "graceful",
+      "willowy",
+      "lissom",
+      "glide"
+    ],
+    "examples": [
+      {
+        "zh": "她袅袅婷婷地走了进来。",
+        "en": "She glided in gracefully."
+      },
+      {
+        "zh": "舞台上的舞者袅袅婷婷。",
+        "en": "The dancers on stage were graceful and lissom."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. An idiomatic AABB.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "亭亭玉立",
+      "婀娜多姿"
+    ],
+    "antonyms": [
+      "笨手笨脚",
+      "步履蹒跚"
+    ]
+  }
+]
