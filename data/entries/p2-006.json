@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "shi-mu-yi-dai",
+    "text": "拭目以待",
+    "pinyin": "shì mù yǐ dài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "time",
+      "news-and-officialese"
+    ],
+    "literal": "wipe · eyes · to · wait",
+    "natural": "wait and see",
+    "meaning": {
+      "en": "To wait eagerly to see what happens.",
+      "zh": "擦亮眼睛等着看，形容期望很殷切或等待某种结果。"
+    },
+    "equivalents": [
+      "wait and see",
+      "watch this space",
+      "eagerly await"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影能否成功，我们拭目以待。",
+        "en": "Whether the film succeeds — let's wait and see."
+      },
+      {
+        "zh": "新赛季他会有怎样的表现，球迷们拭目以待。",
+        "en": "Fans are eagerly waiting to see how he'll do this season."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 让我们拭目以待.",
+      "zh": "多作谓语，常说“让我们拭目以待”。"
+    },
+    "synonyms": [
+      "翘首以盼"
+    ],
+    "antonyms": [
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "wu-jia-ke-gui",
+    "text": "无家可归",
+    "pinyin": "wú jiā kě guī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "no · home · can · return",
+    "natural": "homeless",
+    "meaning": {
+      "en": "Having no home to go to.",
+      "zh": "没有家可以回，指流离失所。"
+    },
+    "equivalents": [
+      "homeless",
+      "without a roof over one's head"
+    ],
+    "examples": [
+      {
+        "zh": "地震使数千人无家可归。",
+        "en": "The earthquake left thousands homeless."
+      },
+      {
+        "zh": "收容所为无家可归的人提供食宿。",
+        "en": "The shelter provides food and beds for homeless people."
+      },
+      {
+        "zh": "这些小猫无家可归。",
+        "en": "These kittens have nowhere to live."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (无家可归的人).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "流离失所",
+      "颠沛流离",
+      "居无定所"
+    ],
+    "antonyms": [
+      "安家落户",
+      "安居乐业"
+    ]
+  },
+  {
+    "id": "pu-zhang-lang-fei",
+    "text": "铺张浪费",
+    "pinyin": "pū zhāng làng fèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance",
+      "news-and-officialese"
+    ],
+    "literal": "spread · stretch · waste",
+    "natural": "wasteful extravagance",
+    "meaning": {
+      "en": "Lavish spending and waste.",
+      "zh": "讲究排场，浪费钱财。"
+    },
+    "equivalents": [
+      "wasteful",
+      "extravagant",
+      "splashing out"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼不必铺张浪费。",
+        "en": "A wedding needn't be extravagant."
+      },
+      {
+        "zh": "要坚决反对铺张浪费。",
+        "en": "Wasteful extravagance must be firmly opposed."
+      }
+    ],
+    "usage": {
+      "en": "Common in official calls for thrift.",
+      "zh": "常见于官方倡导节约。"
+    },
+    "synonyms": [
+      "大手大脚",
+      "挥金如土",
+      "花天酒地"
+    ],
+    "antonyms": [
+      "厉行节约",
+      "勤俭节约",
+      "精打细算"
+    ]
+  },
+  {
+    "id": "zuo-wu-xu-xi",
+    "text": "座无虚席",
+    "pinyin": "zuò wú xū xí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "seats · no · empty · mat",
+    "natural": "not an empty seat",
+    "meaning": {
+      "en": "Every seat taken; a full house.",
+      "zh": "座位没有空着的。"
+    },
+    "equivalents": [
+      "a full house",
+      "packed",
+      "sold out"
+    ],
+    "examples": [
+      {
+        "zh": "演唱会座无虚席。",
+        "en": "The concert was a full house."
+      },
+      {
+        "zh": "他的讲座场场座无虚席。",
+        "en": "Every one of his lectures is packed."
+      }
+    ],
+    "usage": {
+      "en": "For theatres, lectures, restaurants.",
+      "zh": "用于剧场、讲座、饭店等。"
+    },
+    "synonyms": [
+      "人满为患",
+      "济济一堂"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "空空荡荡",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "ke-cheng-zhi-ji",
+    "text": "可乘之机",
+    "pinyin": "kě chéng zhī jī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "can · exploit · 's · chance",
+    "natural": "an opening to exploit",
+    "meaning": {
+      "en": "An opportunity that can be exploited (by an opponent).",
+      "zh": "可以被利用的机会。"
+    },
+    "equivalents": [
+      "an opening",
+      "a loophole",
+      "a chance to strike"
+    ],
+    "examples": [
+      {
+        "zh": "我们要加强防守，不给对手可乘之机。",
+        "en": "We must tighten our defence and give the opponent no opening."
+      },
+      {
+        "zh": "管理混乱给了骗子可乘之机。",
+        "en": "Poor management gave fraudsters an opening."
+      }
+    ],
+    "usage": {
+      "en": "Usually 给……可乘之机 / 有机可乘.",
+      "zh": "常说“给……可乘之机”。"
+    },
+    "synonyms": [
+      "有机可乘",
+      "乘虚而入"
+    ],
+    "antonyms": [
+      "无懈可击",
+      "天衣无缝",
+      "滴水不漏"
+    ]
+  },
+  {
+    "id": "lin-lang-man-mu",
+    "text": "琳琅满目",
+    "pinyin": "lín láng mǎn mù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "appearance"
+    ],
+    "literal": "jade · gems · fill · eyes",
+    "natural": "a feast for the eyes",
+    "meaning": {
+      "en": "A dazzling array of fine things.",
+      "zh": "各种美好的东西很多，满眼都是。"
+    },
+    "equivalents": [
+      "a dazzling array",
+      "a feast for the eyes"
+    ],
+    "examples": [
+      {
+        "zh": "商店里的商品琳琅满目。",
+        "en": "The shop has a dazzling array of goods."
+      },
+      {
+        "zh": "展厅里的艺术品琳琅满目。",
+        "en": "The hall is a feast of artworks."
+      }
+    ],
+    "usage": {
+      "en": "For goods, displays and collections.",
+      "zh": "多形容商品、展品。"
+    },
+    "synonyms": [
+      "应有尽有",
+      "目不暇接",
+      "五花八门"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "空空如也"
+    ]
+  },
+  {
+    "id": "pu-tian-gai-di",
+    "text": "铺天盖地",
+    "pinyin": "pū tiān gài dì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "nature"
+    ],
+    "literal": "cover · sky · cover · earth",
+    "natural": "overwhelming",
+    "meaning": {
+      "en": "Covering everything; on a huge scale.",
+      "zh": "遮盖了天地，形容来势猛、数量多。"
+    },
+    "equivalents": [
+      "everywhere",
+      "overwhelming",
+      "blanket coverage"
+    ],
+    "examples": [
+      {
+        "zh": "广告铺天盖地。",
+        "en": "Adverts are everywhere."
+      },
+      {
+        "zh": "暴雨铺天盖地而来。",
+        "en": "The rainstorm came down in an overwhelming deluge."
+      },
+      {
+        "zh": "网上的批评铺天盖地。",
+        "en": "Criticism online was overwhelming."
+      }
+    ],
+    "usage": {
+      "en": "Often of ads, news, storms.",
+      "zh": "多指广告、舆论、风雨。"
+    },
+    "synonyms": [
+      "排山倒海",
+      "漫天飞舞"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "零零星星"
+    ]
+  },
+  {
+    "id": "mian-mu-quan-fei",
+    "text": "面目全非",
+    "pinyin": "miàn mù quán fēi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "appearance"
+    ],
+    "literal": "face · features · completely · not",
+    "natural": "changed beyond recognition",
+    "meaning": {
+      "en": "Changed beyond recognition (usually for the worse).",
+      "zh": "样子完全变了，多含贬义。"
+    },
+    "equivalents": [
+      "unrecognisable",
+      "changed beyond recognition"
+    ],
+    "examples": [
+      {
+        "zh": "几年没回来，老街已面目全非。",
+        "en": "After years away, the old street is unrecognisable."
+      },
+      {
+        "zh": "这部小说被改编得面目全非。",
+        "en": "The novel has been adapted out of all recognition."
+      }
+    ],
+    "usage": {
+      "en": "Usually negative.",
+      "zh": "多含贬义。"
+    },
+    "synonyms": [
+      "改头换面"
+    ],
+    "antonyms": [
+      "依然如故",
+      "原封不动",
+      "一如既往"
+    ]
+  },
+  {
+    "id": "zai-suo-nan-mian",
+    "text": "在所难免",
+    "pinyin": "zài suǒ nán miǎn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences"
+    ],
+    "literal": "lies · in · hard · avoid",
+    "natural": "inevitable",
+    "meaning": {
+      "en": "Hard to avoid; bound to happen.",
+      "zh": "难以避免。"
+    },
+    "equivalents": [
+      "inevitable",
+      "bound to happen",
+      "unavoidable"
+    ],
+    "examples": [
+      {
+        "zh": "初学者犯错在所难免。",
+        "en": "Beginners are bound to make mistakes."
+      },
+      {
+        "zh": "刚开始工作，压力大在所难免。",
+        "en": "When you start a job, stress is inevitable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often reassuring.",
+      "zh": "多作谓语，常用于宽慰。"
+    },
+    "synonyms": [
+      "不可避免"
+    ],
+    "antonyms": [
+      "防患未然"
+    ]
+  },
+  {
+    "id": "ran-mei-zhi-ji",
+    "text": "燃眉之急",
+    "pinyin": "rán méi zhī jí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "danger"
+    ],
+    "literal": "burning · eyebrows · 's · urgency",
+    "natural": "a pressing need",
+    "meaning": {
+      "en": "An urgent, pressing problem.",
+      "zh": "像火烧眉毛那样的紧急情况。"
+    },
+    "equivalents": [
+      "a pressing need",
+      "an emergency",
+      "urgent problem"
+    ],
+    "examples": [
+      {
+        "zh": "这笔钱解了他的燃眉之急。",
+        "en": "The money met his pressing need."
+      },
+      {
+        "zh": "解决饮水问题是村民的燃眉之急。",
+        "en": "Solving the water supply is the villagers' most urgent problem."
+      }
+    ],
+    "usage": {
+      "en": "Often 解燃眉之急.",
+      "zh": "常说“解燃眉之急”。"
+    },
+    "synonyms": [
+      "迫在眉睫",
+      "当务之急",
+      "火烧眉毛"
+    ],
+    "antonyms": [
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "tu-wen-bing-mao",
+    "text": "图文并茂",
+    "pinyin": "tú wén bìng mào",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "reading-and-study"
+    ],
+    "literal": "pictures · text · both · rich",
+    "natural": "richly illustrated",
+    "meaning": {
+      "en": "With both rich illustrations and good text.",
+      "zh": "图画和文字都很丰富精美。"
+    },
+    "equivalents": [
+      "richly illustrated",
+      "with pictures and text"
+    ],
+    "examples": [
+      {
+        "zh": "这本童书图文并茂。",
+        "en": "The children's book is richly illustrated."
+      },
+      {
+        "zh": "他的报告图文并茂，一目了然。",
+        "en": "His report combines pictures and text and is easy to grasp."
+      }
+    ],
+    "usage": {
+      "en": "For books, reports, slides.",
+      "zh": "用于书籍、报告。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "枯燥无味"
+    ]
+  },
+  {
+    "id": "bu-jue-yu-er",
+    "text": "不绝于耳",
+    "pinyin": "bù jué yú ěr",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "festivals-and-celebrations"
+    ],
+    "literal": "not · cease · at · ears",
+    "natural": "constantly heard",
+    "meaning": {
+      "en": "Sounds that never stop.",
+      "zh": "声音在耳边不断。"
+    },
+    "equivalents": [
+      "constant",
+      "ringing in one's ears",
+      "incessant"
+    ],
+    "examples": [
+      {
+        "zh": "过年时鞭炮声不绝于耳。",
+        "en": "At New Year the firecrackers never stop."
+      },
+      {
+        "zh": "会场上掌声不绝于耳。",
+        "en": "Applause filled the hall."
+      }
+    ],
+    "usage": {
+      "en": "For sounds.",
+      "zh": "用于声音。"
+    },
+    "synonyms": [
+      "此起彼伏",
+      "络绎不绝"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "万籁俱寂"
+    ]
+  },
+  {
+    "id": "jin-jin-le-dao",
+    "text": "津津乐道",
+    "pinyin": "jīn jīn lè dào",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "emotions"
+    ],
+    "literal": "relishing · happily · talk",
+    "natural": "love to talk about",
+    "meaning": {
+      "en": "To talk about something with great relish.",
+      "zh": "很感兴趣地谈论。"
+    },
+    "equivalents": [
+      "love talking about",
+      "relish telling"
+    ],
+    "examples": [
+      {
+        "zh": "这段往事至今仍被人们津津乐道。",
+        "en": "People still love to talk about this episode."
+      },
+      {
+        "zh": "他对自己的旅行经历津津乐道。",
+        "en": "He loves telling stories about his travels."
+      }
+    ],
+    "usage": {
+      "en": "Usually 被人们津津乐道 / 对……津津乐道.",
+      "zh": "常说“被人们津津乐道”。"
+    },
+    "synonyms": [
+      "津津有味",
+      "赞不绝口"
+    ],
+    "antonyms": [
+      "闭口不谈",
+      "讳莫如深"
+    ]
+  },
+  {
+    "id": "shu-yi-wan-ji",
+    "text": "数以万计",
+    "pinyin": "shù yǐ wàn jì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "numbers"
+    ],
+    "literal": "number · by · ten-thousand · count",
+    "natural": "tens of thousands",
+    "meaning": {
+      "en": "Numbering in the tens of thousands.",
+      "zh": "以万为单位来计算，形容数量极多。"
+    },
+    "equivalents": [
+      "tens of thousands",
+      "countless"
+    ],
+    "examples": [
+      {
+        "zh": "数以万计的游客涌入古城。",
+        "en": "Tens of thousands of tourists poured into the old town."
+      },
+      {
+        "zh": "这次灾害使数以万计的人受灾。",
+        "en": "The disaster affected tens of thousands of people."
+      }
+    ],
+    "usage": {
+      "en": "Attributive. 数 is shù.",
+      "zh": "多作定语。“数”读shù。"
+    },
+    "synonyms": [
+      "成千上万",
+      "不计其数"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "屈指可数"
+    ]
+  },
+  {
+    "id": "yi-lun-fen-fen",
+    "text": "议论纷纷",
+    "pinyin": "yì lùn fēn fēn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "public-opinion"
+    ],
+    "literal": "discuss · in confusion",
+    "natural": "everyone is talking",
+    "meaning": {
+      "en": "Many people discussing something at once.",
+      "zh": "许多人纷纷谈论。"
+    },
+    "equivalents": [
+      "everyone is talking about it",
+      "the talk of the town",
+      "buzzing with gossip"
+    ],
+    "examples": [
+      {
+        "zh": "大家对这件事议论纷纷。",
+        "en": "Everyone was talking about it."
+      },
+      {
+        "zh": "消息一公布，网上议论纷纷。",
+        "en": "As soon as the news broke, the internet was buzzing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "沸沸扬扬",
+      "众说纷纭",
+      "满城风雨"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "缄口不言"
+    ]
+  },
+  {
+    "id": "yu-ri-ju-zeng",
+    "text": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "numbers",
+      "change"
+    ],
+    "literal": "with · days · together · increase",
+    "natural": "growing by the day",
+    "meaning": {
+      "en": "Increasing day by day.",
+      "zh": "随着时间一天天地增长。"
+    },
+    "equivalents": [
+      "growing by the day",
+      "ever-increasing"
+    ],
+    "examples": [
+      {
+        "zh": "他对她的思念与日俱增。",
+        "en": "His longing for her grows by the day."
+      },
+      {
+        "zh": "游客数量与日俱增。",
+        "en": "Tourist numbers are rising daily."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "日益增长",
+      "蒸蒸日上"
+    ],
+    "antonyms": [
+      "每况愈下",
+      "江河日下"
+    ]
+  },
+  {
+    "id": "yi-shi-zhu-xing",
+    "text": "衣食住行",
+    "pinyin": "yī shí zhù xíng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily",
+      "food"
+    ],
+    "literal": "clothing · food · housing · transport",
+    "natural": "the basics of daily life",
+    "meaning": {
+      "en": "Clothing, food, housing and transport; daily necessities.",
+      "zh": "穿衣、吃饭、居住、出行，泛指日常生活。"
+    },
+    "equivalents": [
+      "the necessities of life",
+      "everyday needs"
+    ],
+    "examples": [
+      {
+        "zh": "政府关心百姓的衣食住行。",
+        "en": "The government cares about people's everyday needs."
+      },
+      {
+        "zh": "互联网改变了我们的衣食住行。",
+        "en": "The internet has changed every aspect of daily life."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; plain, common.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "柴米油盐"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "jing-xin-she-ji",
+    "text": "精心设计",
+    "pinyin": "jīng xīn shè jì",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "effort"
+    ],
+    "literal": "careful · design",
+    "natural": "carefully designed",
+    "meaning": {
+      "en": "Designed with great care.",
+      "zh": "用心细致地设计。"
+    },
+    "equivalents": [
+      "carefully designed",
+      "meticulously planned"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个精心设计的骗局。",
+        "en": "This is a carefully planned scam."
+      },
+      {
+        "zh": "每一个细节都经过精心设计。",
+        "en": "Every detail was meticulously designed."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; can also mean a carefully plotted scheme.",
+      "zh": "中性，也可指精心策划的阴谋。"
+    },
+    "synonyms": [
+      "精雕细琢",
+      "独具匠心"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "草率从事"
+    ]
+  },
+  {
+    "id": "xian-wei-ren-zhi",
+    "text": "鲜为人知",
+    "pinyin": "xiǎn wéi rén zhī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "stories"
+    ],
+    "literal": "rarely · by · people · known",
+    "natural": "little known",
+    "meaning": {
+      "en": "Known to very few people.",
+      "zh": "很少被人知道。"
+    },
+    "equivalents": [
+      "little known",
+      "obscure",
+      "a well-kept secret"
+    ],
+    "examples": [
+      {
+        "zh": "这本书讲述了许多鲜为人知的历史故事。",
+        "en": "This book tells many little-known historical stories."
+      },
+      {
+        "zh": "他有一段鲜为人知的经历。",
+        "en": "He has a past that few people know about."
+      }
+    ],
+    "usage": {
+      "en": "鲜 is xiǎn (rarely) here.",
+      "zh": "“鲜”读xiǎn，意为少。"
+    },
+    "synonyms": [
+      "默默无闻",
+      "无人问津"
+    ],
+    "antonyms": [
+      "众所周知",
+      "家喻户晓",
+      "尽人皆知"
+    ]
+  },
+  {
+    "id": "bo-da-jing-shen",
+    "text": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "culture",
+      "learning",
+      "essay-favourites"
+    ],
+    "literal": "broad · great · refined · deep",
+    "natural": "broad and profound",
+    "meaning": {
+      "en": "Vast in scope and profound in depth (of knowledge, culture).",
+      "zh": "思想、学识广博高深。"
+    },
+    "equivalents": [
+      "broad and profound",
+      "rich and deep"
+    ],
+    "examples": [
+      {
+        "zh": "中华文化博大精深。",
+        "en": "Chinese culture is broad and profound."
+      },
+      {
+        "zh": "中医理论博大精深。",
+        "en": "The theory of Chinese medicine is vast and deep."
+      }
+    ],
+    "usage": {
+      "en": "Often with 源远流长.",
+      "zh": "常与“源远流长”连用。"
+    },
+    "synonyms": [
+      "源远流长",
+      "学富五车"
+    ],
+    "antonyms": [
+      "浅尝辄止",
+      "肤浅"
+    ]
+  },
+  {
+    "id": "da-you-ke-wei",
+    "text": "大有可为",
+    "pinyin": "dà yǒu kě wéi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "success",
+      "high-aspirations"
+    ],
+    "literal": "greatly · have · can · do",
+    "natural": "full of potential",
+    "meaning": {
+      "en": "Offering great scope for achievement.",
+      "zh": "事情很有发展前途，值得去做。"
+    },
+    "equivalents": [
+      "promising",
+      "great potential",
+      "plenty of scope"
+    ],
+    "examples": [
+      {
+        "zh": "新能源产业大有可为。",
+        "en": "The new-energy sector is full of potential."
+      },
+      {
+        "zh": "年轻人在农村也大有可为。",
+        "en": "Young people can achieve a lot in the countryside too."
+      }
+    ],
+    "usage": {
+      "en": "For fields, causes; compare 大有作为 for people.",
+      "zh": "多指事业、领域；指人多用“大有作为”。"
+    },
+    "synonyms": [
+      "大有作为",
+      "前途无量"
+    ],
+    "antonyms": [
+      "无所作为",
+      "前途渺茫"
+    ]
+  },
+  {
+    "id": "hong-hong-lie-lie",
+    "text": "轰轰烈烈",
+    "pinyin": "hōng hōng liè liè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "emotions"
+    ],
+    "literal": "roaring · blazing",
+    "natural": "on a grand scale",
+    "meaning": {
+      "en": "Grand, dramatic and spectacular.",
+      "zh": "形容气魄雄伟，声势浩大。"
+    },
+    "equivalents": [
+      "dramatic",
+      "on a grand scale",
+      "momentous"
+    ],
+    "examples": [
+      {
+        "zh": "他们谈了一场轰轰烈烈的恋爱。",
+        "en": "They had a passionate, dramatic love affair."
+      },
+      {
+        "zh": "那是一场轰轰烈烈的运动。",
+        "en": "It was a sweeping, momentous movement."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or adverbial.",
+      "zh": "多作定语、状语。"
+    },
+    "synonyms": [
+      "声势浩大",
+      "惊天动地"
+    ],
+    "antonyms": [
+      "无声无息",
+      "平淡无奇",
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "jing-xin-dong-po",
+    "text": "惊心动魄",
+    "pinyin": "jīng xīn dòng pò",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "danger",
+      "excellent-writing"
+    ],
+    "literal": "startle · heart · move · soul",
+    "natural": "thrilling",
+    "meaning": {
+      "en": "Thrilling, heart-stopping.",
+      "zh": "使人心惊胆战，形容感受极深，震动极大。"
+    },
+    "equivalents": [
+      "thrilling",
+      "heart-stopping",
+      "breathtaking"
+    ],
+    "examples": [
+      {
+        "zh": "那是一场惊心动魄的救援。",
+        "en": "It was a heart-stopping rescue."
+      },
+      {
+        "zh": "比赛最后几分钟惊心动魄。",
+        "en": "The last minutes of the match were nail-biting."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "扣人心弦",
+      "触目惊心"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "bu-yi-le-hu",
+    "text": "不亦乐乎",
+    "pinyin": "bù yì lè hū",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "emotions",
+      "confucian-classics"
+    ],
+    "literal": "not · also · joyful · (question)",
+    "natural": "to no end",
+    "meaning": {
+      "en": "Extremely; to an extraordinary degree (modern colloquial).",
+      "zh": "原意“不也很快乐吗”，现多表示程度极深。"
+    },
+    "equivalents": [
+      "like mad",
+      "no end",
+      "to one's heart's content"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们在雪地里玩得不亦乐乎。",
+        "en": "The kids played in the snow to their hearts' content."
+      },
+      {
+        "zh": "年底他忙得不亦乐乎。",
+        "en": "At year's end he's busy like mad."
+      },
+      {
+        "zh": "有朋自远方来，不亦乐乎？",
+        "en": "Is it not a joy to have friends come from afar?"
+      }
+    ],
+    "origin": {
+      "source": "《论语·学而》",
+      "story": {
+        "en": "'Is it not a joy to have friends come from afar?' (有朋自远方来，不亦乐乎？)",
+        "zh": "《论语·学而》：“有朋自远方来，不亦乐乎？”"
+      }
+    },
+    "usage": {
+      "en": "Modern use: V得不亦乐乎 'V to no end'.",
+      "zh": "现代用法：……得不亦乐乎。"
+    },
+    "synonyms": [
+      "忙得团团转"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "he-qu-he-cong",
+    "text": "何去何从",
+    "pinyin": "hé qù hé cóng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "poems-prose"
+    ],
+    "literal": "what · leave · what · follow",
+    "natural": "which way to turn",
+    "meaning": {
+      "en": "What course to take; a choice of direction.",
+      "zh": "离开哪里，走向哪里，指在重大问题上选择方向。"
+    },
+    "equivalents": [
+      "which way to go",
+      "at a crossroads"
+    ],
+    "examples": [
+      {
+        "zh": "毕业后何去何从，他还没想好。",
+        "en": "He still hasn't decided which way to go after graduating."
+      },
+      {
+        "zh": "面对困境，公司何去何从？",
+        "en": "Facing this crisis, where does the company go from here?"
+      }
+    ],
+    "origin": {
+      "source": "战国·屈原《卜居》",
+      "story": {
+        "en": "Qu Yuan asks the diviner a series of moral dilemmas: 'Which is auspicious, which ill-omened? What should I leave, what should I follow?' (何去何从)",
+        "zh": "屈原《卜居》：“此孰吉孰凶？何去何从？”"
+      }
+    },
+    "usage": {
+      "en": "Often as a question.",
+      "zh": "多用于疑问。"
+    },
+    "synonyms": [
+      "无所适从",
+      "进退两难"
+    ],
+    "antonyms": [
+      "胸有成竹",
+      "义无反顾"
+    ]
+  }
+]
