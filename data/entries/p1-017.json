@@ -1,0 +1,1259 @@
+[
+  {
+    "id": "gua-yang-tou-mai-gou-rou",
+    "text": "挂羊头卖狗肉",
+    "pinyin": "guà yáng tóu mài gǒu ròu",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "business-failure"
+    ],
+    "literal": "hang · sheep · head · sell · dog · meat",
+    "natural": "Hanging up a sheep's head but selling dog meat",
+    "meaning": {
+      "en": "To advertise one thing and sell another; false advertising.",
+      "zh": "比喻用好的名义做幌子，实际上名不副实或做坏事。"
+    },
+    "equivalents": [
+      "bait and switch",
+      "false advertising",
+      "a wolf in sheep's clothing",
+      "not what it says on the tin"
+    ],
+    "examples": [
+      {
+        "zh": "这家所谓的健康食品店其实是挂羊头卖狗肉。",
+        "en": "The so-called health food shop is pure bait and switch."
+      },
+      {
+        "zh": "有些培训班挂羊头卖狗肉，根本不教真本事。",
+        "en": "Some training courses are false advertising and teach nothing useful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Colloquial; very common in criticism of businesses.",
+      "zh": "多作谓语，口语常用。"
+    },
+    "synonyms": [
+      "名不副实",
+      "表里不一",
+      "鱼目混珠"
+    ],
+    "antonyms": [
+      "名副其实",
+      "货真价实",
+      "表里如一"
+    ]
+  },
+  {
+    "id": "shu-er-bu-lou",
+    "text": "疏而不漏",
+    "pinyin": "shū ér bù lòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "revenge-and-retribution",
+      "corruption-and-injustice"
+    ],
+    "literal": "sparse · yet · not · leak",
+    "natural": "Wide-meshed yet letting nothing through",
+    "meaning": {
+      "en": "Justice may seem slow but no wrongdoer escapes.",
+      "zh": "天道之网虽然稀疏，但绝不会漏掉坏人。比喻作恶的人终究逃不脱惩罚。"
+    },
+    "equivalents": [
+      "justice will be done",
+      "the mills of God grind slowly",
+      "you can run but you can't hide"
+    ],
+    "examples": [
+      {
+        "zh": "天网恢恢，疏而不漏，逃了十年的嫌犯终于落网。",
+        "en": "Justice will be done — the suspect who'd been on the run for ten years has finally been caught."
+      },
+      {
+        "zh": "法网疏而不漏，违法者终将受到惩罚。",
+        "en": "No lawbreaker escapes the net of the law in the end."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第七十三章",
+      "story": {
+        "en": "Laozi: \"Heaven's net is vast; though its mesh is wide, nothing slips through\" (天网恢恢，疏而不失). The common form today is 疏而不漏.",
+        "zh": "《老子》：\"天网恢恢，疏而不失。\"后多作\"疏而不漏\"。"
+      }
+    },
+    "usage": {
+      "en": "Almost always in the full saying 天网恢恢，疏而不漏.",
+      "zh": "多用全句\"天网恢恢，疏而不漏\"。"
+    },
+    "synonyms": [
+      "法网恢恢",
+      "恶有恶报"
+    ],
+    "antonyms": [
+      "逍遥法外",
+      "漏网之鱼"
+    ]
+  },
+  {
+    "id": "cu-xin-da-yi",
+    "text": "粗心大意",
+    "pinyin": "cū xīn dà yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "exact-vs-approximate"
+    ],
+    "literal": "rough · heart · big · mind",
+    "natural": "Careless and absent-minded",
+    "meaning": {
+      "en": "Careless; not paying attention to detail.",
+      "zh": "做事马虎，不细心。"
+    },
+    "equivalents": [
+      "careless",
+      "sloppy",
+      "slapdash",
+      "scatterbrained"
+    ],
+    "examples": [
+      {
+        "zh": "考试时粗心大意，把加号看成了减号。",
+        "en": "Being careless in the exam, I misread a plus sign as a minus."
+      },
+      {
+        "zh": "他做事粗心大意，经常丢东西。",
+        "en": "He's scatterbrained and always losing things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Very common, especially about schoolwork.",
+      "zh": "多作谓语、定语，常用于学习。"
+    },
+    "synonyms": [
+      "马马虎虎",
+      "丢三落四",
+      "粗枝大叶"
+    ],
+    "antonyms": [
+      "一丝不苟",
+      "小心翼翼",
+      "细致入微"
+    ]
+  },
+  {
+    "id": "piao-po-da-yu",
+    "text": "瓢泼大雨",
+    "pinyin": "piáo pō dà yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "nature"
+    ],
+    "literal": "ladle · pour · big · rain",
+    "natural": "Rain pouring as if from a ladle",
+    "meaning": {
+      "en": "Torrential rain; pouring down.",
+      "zh": "像用瓢泼水那样的大雨。形容雨很大。"
+    },
+    "equivalents": [
+      "pouring with rain",
+      "raining cats and dogs",
+      "a downpour",
+      "bucketing down"
+    ],
+    "examples": [
+      {
+        "zh": "刚出门就下起了瓢泼大雨。",
+        "en": "As soon as I went out, it started bucketing down."
+      },
+      {
+        "zh": "在瓢泼大雨中，救援人员仍在搜救。",
+        "en": "Rescuers kept searching in the torrential rain."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; object of 下起.",
+      "zh": "多作宾语，如\"下起了瓢泼大雨\"。"
+    },
+    "synonyms": [
+      "倾盆大雨",
+      "大雨滂沱",
+      "狂风暴雨"
+    ],
+    "antonyms": [
+      "和风细雨",
+      "毛毛细雨"
+    ]
+  },
+  {
+    "id": "ren-ren-wei-qin",
+    "text": "任人唯亲",
+    "pinyin": "rèn rén wéi qīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "leadership-and-authority"
+    ],
+    "literal": "appoint · people · only · relatives",
+    "natural": "Appointing only one's own people",
+    "meaning": {
+      "en": "Nepotism; appointing people because of personal ties rather than merit.",
+      "zh": "任用人只选跟自己关系密切的，而不管德才如何。"
+    },
+    "equivalents": [
+      "nepotism",
+      "cronyism",
+      "jobs for the boys",
+      "the old boys' network"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司任人唯亲，有能力的人都走了。",
+        "en": "The company's cronyism has driven all the able people away."
+      },
+      {
+        "zh": "选拔干部要任人唯贤，不能任人唯亲。",
+        "en": "Officials should be chosen on merit, not nepotism."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Contrasted with 任人唯贤 (appointing on merit).",
+      "zh": "多作谓语，与\"任人唯贤\"相对。"
+    },
+    "synonyms": [
+      "结党营私",
+      "拉帮结派"
+    ],
+    "antonyms": [
+      "任人唯贤",
+      "选贤任能",
+      "知人善任"
+    ]
+  },
+  {
+    "id": "zhui-zhui-bu-an",
+    "text": "惴惴不安",
+    "pinyin": "zhuì zhuì bù ān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "psychological-pressure",
+      "fear-and-cowardice"
+    ],
+    "literal": "anxious · anxious · not · at ease",
+    "natural": "Anxious and unable to settle",
+    "meaning": {
+      "en": "Anxious and apprehensive.",
+      "zh": "形容因害怕或担心而不安。"
+    },
+    "equivalents": [
+      "apprehensive",
+      "on edge",
+      "with a sense of foreboding",
+      "jittery"
+    ],
+    "examples": [
+      {
+        "zh": "他做错了事，整天惴惴不安。",
+        "en": "Having done something wrong, he was on edge all day."
+      },
+      {
+        "zh": "市场前景不明，投资者惴惴不安。",
+        "en": "With the market outlook unclear, investors are apprehensive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. More literary than 忐忑不安. 惴 is zhuì.",
+      "zh": "多作谓语。\"惴\"读 zhuì。"
+    },
+    "synonyms": [
+      "忐忑不安",
+      "提心吊胆",
+      "坐立不安"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "心安理得",
+      "若无其事"
+    ]
+  },
+  {
+    "id": "da-gong-gao-cheng",
+    "text": "大功告成",
+    "pinyin": "dà gōng gào chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion"
+    ],
+    "literal": "great · task · announce · complete",
+    "natural": "The great task is announced complete",
+    "meaning": {
+      "en": "Mission accomplished; a great task is completed.",
+      "zh": "大工程、大任务宣告完成。"
+    },
+    "equivalents": [
+      "mission accomplished",
+      "job done",
+      "all done",
+      "that's a wrap"
+    ],
+    "examples": [
+      {
+        "zh": "最后一块砖砌好，大功告成！",
+        "en": "The last brick is laid — job done!"
+      },
+      {
+        "zh": "经过三年努力，大桥终于大功告成。",
+        "en": "After three years of work, the bridge is finally complete."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or exclamation.",
+      "zh": "多作谓语，也单独作感叹。"
+    },
+    "synonyms": [
+      "功德圆满",
+      "水到渠成",
+      "马到成功"
+    ],
+    "antonyms": [
+      "功亏一篑",
+      "前功尽弃",
+      "半途而废"
+    ]
+  },
+  {
+    "id": "yang-mei-tu-qi",
+    "text": "扬眉吐气",
+    "pinyin": "yáng méi tǔ qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "raise · eyebrows · breathe out · air",
+    "natural": "Raising one's brows and breathing freely",
+    "meaning": {
+      "en": "To feel proud and elated after being held down; to hold one's head high.",
+      "zh": "形容被压抑的心情得到舒展而高兴痛快。"
+    },
+    "equivalents": [
+      "hold one's head high",
+      "have one's day",
+      "vindicated",
+      "walk tall"
+    ],
+    "examples": [
+      {
+        "zh": "球队终于夺冠，球迷们扬眉吐气。",
+        "en": "The team finally won the title, and the fans could hold their heads high."
+      },
+      {
+        "zh": "这次考试他考了第一，总算扬眉吐气了。",
+        "en": "He came top in this exam and was finally vindicated."
+      }
+    ],
+    "origin": {
+      "source": "唐·李白《与韩荆州书》",
+      "story": {
+        "en": "Li Bai, seeking patronage, asked the official Han Chaozong: \"Why begrudge a foot of space before your steps, rather than letting me raise my brows and breathe freely, rising to the blue clouds?\"",
+        "zh": "李白《与韩荆州书》：\"何惜阶前盈尺之地，不使白扬眉吐气，激昂青云耶？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "昂首挺胸",
+      "意气风发"
+    ],
+    "antonyms": [
+      "忍气吞声",
+      "垂头丧气",
+      "低三下四"
+    ]
+  },
+  {
+    "id": "de-guo-qie-guo",
+    "text": "得过且过",
+    "pinyin": "dé guò qiě guò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up",
+      "modest-goals"
+    ],
+    "literal": "can · get by · just · get by",
+    "natural": "Getting by while one can",
+    "meaning": {
+      "en": "To muddle along without ambition; to just get by.",
+      "zh": "只要能过得去就这样过下去。指没有长远打算，也指工作敷衍。"
+    },
+    "equivalents": [
+      "muddle through",
+      "just get by",
+      "coast along",
+      "go through the motions"
+    ],
+    "examples": [
+      {
+        "zh": "他对工作得过且过，从不想着进步。",
+        "en": "He just coasts along at work and never thinks about improving."
+      },
+      {
+        "zh": "年轻人不能得过且过，要有目标。",
+        "en": "Young people shouldn't just muddle along — they need goals."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "敷衍了事",
+      "苟且偷安",
+      "过一天算一天"
+    ],
+    "antonyms": [
+      "精益求精",
+      "奋发图强",
+      "积极进取"
+    ]
+  },
+  {
+    "id": "chen-huo-da-jie",
+    "text": "趁火打劫",
+    "pinyin": "chèn huǒ dǎ jié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "inappropriate-behavior"
+    ],
+    "literal": "take advantage of · fire · commit · robbery",
+    "natural": "Looting while the house is on fire",
+    "meaning": {
+      "en": "To take advantage of others' misfortune for one's own gain.",
+      "zh": "趁人家失火时去抢劫。比喻乘人之危谋取私利。"
+    },
+    "equivalents": [
+      "profiteer",
+      "kick someone when they're down",
+      "fish in troubled waters",
+      "loot"
+    ],
+    "examples": [
+      {
+        "zh": "疫情期间有人趁火打劫，高价卖口罩。",
+        "en": "During the pandemic some people profiteered by selling masks at huge prices."
+      },
+      {
+        "zh": "对手公司趁火打劫，挖走了我们的客户。",
+        "en": "A rival kicked us when we were down and poached our clients."
+      }
+    ],
+    "origin": {
+      "source": "《三十六计》",
+      "story": {
+        "en": "One of the Thirty-Six Stratagems: \"When the enemy is in trouble, take the opportunity to seize gain\" (敌之害大，就势取利).",
+        "zh": "《三十六计》第五计：\"敌之害大，就势取利。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "乘人之危",
+      "落井下石",
+      "浑水摸鱼"
+    ],
+    "antonyms": [
+      "雪中送炭",
+      "见义勇为",
+      "扶危济困"
+    ]
+  },
+  {
+    "id": "li-yu-xun-xin",
+    "text": "利欲熏心",
+    "pinyin": "lì yù xūn xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "corruption-and-injustice"
+    ],
+    "literal": "profit · desire · smoke · heart",
+    "natural": "Greed fumigating the heart",
+    "meaning": {
+      "en": "Blinded by greed.",
+      "zh": "贪图名利的欲望迷住了心窍。"
+    },
+    "equivalents": [
+      "blinded by greed",
+      "greed got the better of him",
+      "money-mad"
+    ],
+    "examples": [
+      {
+        "zh": "他利欲熏心，挪用了公司的巨款。",
+        "en": "Blinded by greed, he embezzled huge sums from the company."
+      },
+      {
+        "zh": "有些商人利欲熏心，卖假药害人。",
+        "en": "Some traders, blinded by greed, sell fake medicine."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "唯利是图",
+      "见利忘义",
+      "财迷心窍"
+    ],
+    "antonyms": [
+      "淡泊名利",
+      "廉洁奉公",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "chen-xin-ru-yi",
+    "text": "称心如意",
+    "pinyin": "chèn xīn rú yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "fortune"
+    ],
+    "literal": "suit · heart · as · wish",
+    "natural": "Suiting one's heart and matching one's wishes",
+    "meaning": {
+      "en": "Exactly as one wishes; perfectly satisfactory.",
+      "zh": "完全符合心意。"
+    },
+    "equivalents": [
+      "just what one wanted",
+      "to one's heart's content",
+      "perfect",
+      "exactly right"
+    ],
+    "examples": [
+      {
+        "zh": "她终于找到了一份称心如意的工作。",
+        "en": "She finally found a job that's just what she wanted."
+      },
+      {
+        "zh": "祝你新年称心如意！",
+        "en": "May the new year bring you everything you wish for!"
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate. 称 is chèn (to suit).",
+      "zh": "多作定语、谓语。\"称\"读 chèn。"
+    },
+    "synonyms": [
+      "心满意足",
+      "如愿以偿",
+      "心想事成"
+    ],
+    "antonyms": [
+      "大失所望",
+      "事与愿违",
+      "不尽如人意"
+    ]
+  },
+  {
+    "id": "hui-sheng-hui-se",
+    "text": "绘声绘色",
+    "pinyin": "huì shēng huì sè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "excellent-writing"
+    ],
+    "literal": "depict · sound · depict · colour",
+    "natural": "Painting the sounds and the colours",
+    "meaning": {
+      "en": "Vivid and lively (of description or storytelling).",
+      "zh": "形容叙述或描写生动逼真。"
+    },
+    "equivalents": [
+      "vividly",
+      "colourfully",
+      "bring to life",
+      "graphic"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷绘声绘色地讲着鬼故事。",
+        "en": "Grandpa told ghost stories with vivid detail."
+      },
+      {
+        "zh": "她把旅途见闻讲得绘声绘色。",
+        "en": "She brought her travels to life in the telling."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or complement (讲得绘声绘色).",
+      "zh": "多作状语、补语。"
+    },
+    "synonyms": [
+      "活灵活现",
+      "栩栩如生",
+      "有声有色"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "枯燥乏味",
+      "味同嚼蜡"
+    ]
+  },
+  {
+    "id": "shi-ke-er-zhi",
+    "text": "适可而止",
+    "pinyin": "shì kě ér zhǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "modest-goals",
+      "wisdom"
+    ],
+    "literal": "suitable · can · then · stop",
+    "natural": "Stop when it's just right",
+    "meaning": {
+      "en": "To know when to stop; not to overdo it.",
+      "zh": "到了适当的程度就停下来。"
+    },
+    "equivalents": [
+      "know when to stop",
+      "don't overdo it",
+      "everything in moderation",
+      "quit while you're ahead"
+    ],
+    "examples": [
+      {
+        "zh": "玩游戏要适可而止。",
+        "en": "Know when to stop playing games."
+      },
+      {
+        "zh": "开玩笑也要适可而止，别伤了别人。",
+        "en": "Don't take jokes too far — you'll hurt someone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common advice.",
+      "zh": "多作谓语，常用于劝诫。"
+    },
+    "synonyms": [
+      "见好就收",
+      "恰如其分"
+    ],
+    "antonyms": [
+      "得寸进尺",
+      "变本加厉",
+      "过犹不及"
+    ]
+  },
+  {
+    "id": "man-bu-jing-xin",
+    "text": "漫不经心",
+    "pinyin": "màn bù jīng xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "negative-character-flaws"
+    ],
+    "literal": "casual · not · pass through · mind",
+    "natural": "Not letting it pass through one's mind",
+    "meaning": {
+      "en": "Careless and indifferent; not paying attention.",
+      "zh": "随随便便，不放在心上。"
+    },
+    "equivalents": [
+      "offhand",
+      "nonchalant",
+      "half-hearted",
+      "couldn't care less"
+    ],
+    "examples": [
+      {
+        "zh": "他漫不经心地翻着杂志。",
+        "en": "He flicked through the magazine absent-mindedly."
+      },
+      {
+        "zh": "对待安全问题绝不能漫不经心。",
+        "en": "You can never be offhand about safety."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "心不在焉",
+      "粗心大意",
+      "满不在乎"
+    ],
+    "antonyms": [
+      "全神贯注",
+      "一丝不苟",
+      "专心致志"
+    ]
+  },
+  {
+    "id": "jin-bi-hui-huang",
+    "text": "金碧辉煌",
+    "pinyin": "jīn bì huī huáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "fine-dress-and-fashion"
+    ],
+    "literal": "gold · jade-green · brilliant · splendid",
+    "natural": "Gold and jade-green, dazzlingly splendid",
+    "meaning": {
+      "en": "Dazzlingly splendid with gold and colour (of buildings).",
+      "zh": "形容建筑物异常华丽，光彩夺目。"
+    },
+    "equivalents": [
+      "dazzling",
+      "resplendent",
+      "glittering",
+      "gilded"
+    ],
+    "examples": [
+      {
+        "zh": "故宫的宫殿金碧辉煌。",
+        "en": "The halls of the Forbidden City are resplendent."
+      },
+      {
+        "zh": "剧院大厅金碧辉煌，令人惊叹。",
+        "en": "The theatre's foyer is dazzling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "富丽堂皇",
+      "雕梁画栋"
+    ],
+    "antonyms": [
+      "破败不堪",
+      "简陋不堪"
+    ]
+  },
+  {
+    "id": "gong-cheng-ming-jiu",
+    "text": "功成名就",
+    "pinyin": "gōng chéng míng jiù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "successful-completion"
+    ],
+    "literal": "achievement · complete · fame · attained",
+    "natural": "Achievement won and fame attained",
+    "meaning": {
+      "en": "To achieve success and fame.",
+      "zh": "功业建立了，名声也有了。"
+    },
+    "equivalents": [
+      "make it big",
+      "achieve fame and fortune",
+      "reach the top"
+    ],
+    "examples": [
+      {
+        "zh": "他功成名就后回到家乡办学。",
+        "en": "After making it big, he returned home to found a school."
+      },
+      {
+        "zh": "不是每个人都能功成名就。",
+        "en": "Not everyone can achieve fame and fortune."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "名利双收",
+      "建功立业",
+      "飞黄腾达"
+    ],
+    "antonyms": [
+      "一事无成",
+      "碌碌无为",
+      "身败名裂"
+    ]
+  },
+  {
+    "id": "yan-er-dao-ling",
+    "text": "掩耳盗铃",
+    "pinyin": "yǎn ěr dào líng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "stories"
+    ],
+    "literal": "cover · ears · steal · bell",
+    "natural": "Covering one's ears to steal a bell",
+    "meaning": {
+      "en": "To fool oneself; to bury one's head in the sand.",
+      "zh": "偷铃铛怕别人听见而捂住自己的耳朵。比喻自己欺骗自己。"
+    },
+    "equivalents": [
+      "bury one's head in the sand",
+      "fool oneself",
+      "self-deception"
+    ],
+    "examples": [
+      {
+        "zh": "把问题藏起来不处理，无异于掩耳盗铃。",
+        "en": "Hiding a problem instead of dealing with it is just burying your head in the sand."
+      },
+      {
+        "zh": "删掉差评就以为没人知道，真是掩耳盗铃。",
+        "en": "Deleting bad reviews and thinking no one will know is pure self-deception."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·自知》",
+      "story": {
+        "en": "A thief tried to steal a big bell but it was too heavy, so he decided to smash it. Afraid the noise would be heard, he covered his own ears.",
+        "zh": "有人想偷一口大钟，背不动就想砸碎，怕钟声被人听见，竟捂住自己的耳朵。原为\"掩耳盗钟\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. Originally a bell (钟), later 铃.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "自欺欺人",
+      "掩人耳目"
+    ],
+    "antonyms": [
+      "实事求是",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "ru-hu-tian-yi",
+    "text": "如虎添翼",
+    "pinyin": "rú hǔ tiān yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "success"
+    ],
+    "literal": "like · tiger · add · wings",
+    "natural": "Like a tiger given wings",
+    "meaning": {
+      "en": "To become even stronger with added help.",
+      "zh": "好像老虎长上了翅膀。比喻强大的得到援助后更加强大。"
+    },
+    "equivalents": [
+      "a force multiplier",
+      "go from strength to strength",
+      "a shot in the arm"
+    ],
+    "examples": [
+      {
+        "zh": "有了这位新外援，球队如虎添翼。",
+        "en": "With the new foreign signing, the strong team is even stronger."
+      },
+      {
+        "zh": "新技术的引进让工厂如虎添翼。",
+        "en": "The new technology has given the factory a real boost."
+      }
+    ],
+    "origin": {
+      "source": "三国·诸葛亮《心书·兵权》",
+      "story": {
+        "en": "Zhuge Liang wrote that a general with authority over his troops is \"like a fierce tiger given wings\" (如猛虎加之羽翼), soaring across the land.",
+        "zh": "诸葛亮《心书·兵权》：\"将能执兵之权，操兵之势而临群下，譬如猛虎加之羽翼，而翱翔四海。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. For the already strong becoming stronger.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "锦上添花",
+      "如鱼得水"
+    ],
+    "antonyms": [
+      "雪上加霜",
+      "釜底抽薪"
+    ]
+  },
+  {
+    "id": "jia-zhi-lian-cheng",
+    "text": "价值连城",
+    "pinyin": "jià zhí lián chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "measure",
+      "stories"
+    ],
+    "literal": "value · worth · joined · cities",
+    "natural": "Worth several cities",
+    "meaning": {
+      "en": "Priceless; extremely valuable.",
+      "zh": "形容物品十分贵重。"
+    },
+    "equivalents": [
+      "priceless",
+      "worth a king's ransom",
+      "worth its weight in gold"
+    ],
+    "examples": [
+      {
+        "zh": "博物馆里珍藏着一件价值连城的青铜器。",
+        "en": "The museum holds a priceless bronze."
+      },
+      {
+        "zh": "这幅古画价值连城。",
+        "en": "This ancient painting is priceless."
+      }
+    ],
+    "origin": {
+      "source": "《史记·廉颇蔺相如列传》",
+      "story": {
+        "en": "The King of Qin offered fifteen cities in exchange for Zhao's He Shi jade disc — the origin of the idea of a treasure \"worth linked cities\".",
+        "zh": "秦王愿以十五城换赵国的和氏璧，后以\"价值连城\"形容极其贵重。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "无价之宝",
+      "稀世珍宝"
+    ],
+    "antonyms": [
+      "一文不值",
+      "不值一提"
+    ]
+  },
+  {
+    "id": "qing-che-shu-lu",
+    "text": "轻车熟路",
+    "pinyin": "qīng chē shú lù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "journeys-and-exploration"
+    ],
+    "literal": "light · cart · familiar · road",
+    "natural": "A light cart on a familiar road",
+    "meaning": {
+      "en": "Doing something familiar with ease.",
+      "zh": "驾着轻便的车子走熟悉的路。比喻对情况熟悉，做起来容易。"
+    },
+    "equivalents": [
+      "know the ropes",
+      "on familiar ground",
+      "a piece of cake",
+      "second nature"
+    ],
+    "examples": [
+      {
+        "zh": "这种活他干了十几年，轻车熟路。",
+        "en": "He's done this kind of work for over a decade — he knows the ropes."
+      },
+      {
+        "zh": "导游轻车熟路地带我们走了一条近道。",
+        "en": "The guide, on familiar ground, took us by a shortcut."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《送石处士序》",
+      "story": {
+        "en": "Han Yu praised a scholar's eloquence as being \"like a team of four horses drawing a light cart along a familiar road\" (若驷马驾轻车就熟路).",
+        "zh": "韩愈《送石处士序》：\"若驷马驾轻车就熟路，而王良、造父为之先后也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "驾轻就熟",
+      "得心应手",
+      "游刃有余"
+    ],
+    "antonyms": [
+      "人生地疏",
+      "初出茅庐",
+      "生手"
+    ]
+  },
+  {
+    "id": "jie-yi-suo-shi",
+    "text": "节衣缩食",
+    "pinyin": "jié yī suō shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-or-poor-clothing"
+    ],
+    "literal": "save · clothes · cut · food",
+    "natural": "Saving on clothes and cutting down on food",
+    "meaning": {
+      "en": "To scrimp and save; to tighten one's belt.",
+      "zh": "节省穿的，缩减吃的。形容生活节俭。"
+    },
+    "equivalents": [
+      "tighten one's belt",
+      "scrimp and save",
+      "pinch pennies"
+    ],
+    "examples": [
+      {
+        "zh": "父母节衣缩食供他上大学。",
+        "en": "His parents scrimped and saved to put him through university."
+      },
+      {
+        "zh": "为了买房，小两口节衣缩食。",
+        "en": "The young couple tightened their belts to buy a flat."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "省吃俭用",
+      "克勤克俭",
+      "勤俭节约"
+    ],
+    "antonyms": [
+      "挥金如土",
+      "铺张浪费",
+      "大手大脚"
+    ]
+  },
+  {
+    "id": "kua-da-qi-ci",
+    "text": "夸大其词",
+    "pinyin": "kuā dà qí cí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "exaggerate · big · its · words",
+    "natural": "Inflating one's words",
+    "meaning": {
+      "en": "To exaggerate; to overstate.",
+      "zh": "说话或写文章言过其实。"
+    },
+    "equivalents": [
+      "exaggerate",
+      "blow out of proportion",
+      "overstate",
+      "lay it on thick"
+    ],
+    "examples": [
+      {
+        "zh": "这则广告夸大其词，产品根本没那么神奇。",
+        "en": "The ad exaggerates — the product isn't nearly that amazing."
+      },
+      {
+        "zh": "他说自己能连跑一百公里，有点夸大其词了。",
+        "en": "His claim that he can run a hundred kilometres non-stop is a bit of an overstatement."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "言过其实",
+      "添油加醋",
+      "小题大做"
+    ],
+    "antonyms": [
+      "实事求是",
+      "恰如其分",
+      "轻描淡写"
+    ]
+  },
+  {
+    "id": "ba-shan-she-shui",
+    "text": "跋山涉水",
+    "pinyin": "bá shān shè shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "difficult-terrain"
+    ],
+    "literal": "trek · mountain · wade · water",
+    "natural": "Crossing mountains and wading rivers",
+    "meaning": {
+      "en": "To make a long, arduous journey.",
+      "zh": "翻山越岭，趟水过河。形容旅途艰苦。"
+    },
+    "equivalents": [
+      "over hill and dale",
+      "trek far and wide",
+      "a long, hard journey"
+    ],
+    "examples": [
+      {
+        "zh": "地质队员跋山涉水，寻找矿藏。",
+        "en": "The geologists trekked over hill and dale searching for minerals."
+      },
+      {
+        "zh": "山里的孩子每天跋山涉水去上学。",
+        "en": "Children in the mountains make a long, hard journey to school every day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "长途跋涉",
+      "翻山越岭",
+      "风尘仆仆"
+    ],
+    "antonyms": [
+      "一马平川",
+      "足不出户"
+    ]
+  },
+  {
+    "id": "bu-feng-zhuo-ying",
+    "text": "捕风捉影",
+    "pinyin": "bǔ fēng zhuō yǐng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "catch · wind · seize · shadow",
+    "natural": "Catching the wind and grasping at shadows",
+    "meaning": {
+      "en": "To speak or act on groundless hearsay.",
+      "zh": "比喻说话做事毫无事实根据。"
+    },
+    "equivalents": [
+      "groundless",
+      "clutch at straws",
+      "chase shadows",
+      "pure speculation"
+    ],
+    "examples": [
+      {
+        "zh": "这些传言都是捕风捉影，不可信。",
+        "en": "These rumours are groundless — don't believe them."
+      },
+      {
+        "zh": "新闻报道不能捕风捉影。",
+        "en": "News reports shouldn't be based on speculation."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·郊祀志》",
+      "story": {
+        "en": "The Han history mocks the emperor's search for immortals: \"it is like tying up the wind and catching shadows\" (如系风捕景), never to be grasped.",
+        "zh": "《汉书·郊祀志》：\"听其言，洋洋满耳，若将可遇；求之，荡荡如系风捕景，终不可得。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "道听途说",
+      "无中生有",
+      "无稽之谈"
+    ],
+    "antonyms": [
+      "有凭有据",
+      "实事求是",
+      "铁证如山"
+    ]
+  }
+]
