@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "ming-zheng-yan-shun",
+    "text": "名正言顺",
+    "pinyin": "míng zhèng yán shùn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "leadership-and-authority",
+      "confucian-classics"
+    ],
+    "literal": "name · correct · words · smooth",
+    "natural": "legitimate",
+    "meaning": {
+      "en": "Fully justified and legitimate.",
+      "zh": "名义正当，道理也讲得通。"
+    },
+    "equivalents": [
+      "legitimate",
+      "justified",
+      "above board"
+    ],
+    "examples": [
+      {
+        "zh": "有了正式任命，他就名正言顺地开展工作了。",
+        "en": "With his formal appointment, he could get on with the job legitimately."
+      },
+      {
+        "zh": "这样做名正言顺，谁也挑不出毛病。",
+        "en": "Doing it this way is fully justified; no one can fault it."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子路》",
+      "story": {
+        "en": "Confucius: 'If names are not correct, speech will not flow; if speech does not flow, affairs will not succeed' (名不正，则言不顺；言不顺，则事不成).",
+        "zh": "《论语》：“名不正，则言不顺；言不顺，则事不成。”"
+      }
+    },
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "理所当然",
+      "光明正大"
+    ],
+    "antonyms": [
+      "名不正言不顺",
+      "师出无名"
+    ]
+  },
+  {
+    "id": "zhi-shang-tan-bing",
+    "text": "纸上谈兵",
+    "pinyin": "zhǐ shàng tán bīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "military-strategy-and-victory",
+      "historical-records"
+    ],
+    "literal": "paper · on · discuss · war",
+    "natural": "armchair theorising",
+    "meaning": {
+      "en": "Theorising without practical experience.",
+      "zh": "在纸面上谈论打仗，比喻空谈理论，不能解决实际问题。"
+    },
+    "equivalents": [
+      "armchair strategy",
+      "all theory and no practice"
+    ],
+    "examples": [
+      {
+        "zh": "没有实践经验，只会纸上谈兵。",
+        "en": "Without practical experience, it's all armchair theory."
+      },
+      {
+        "zh": "这个方案纸上谈兵，根本行不通。",
+        "en": "This plan is pure theory; it won't work in practice."
+      }
+    ],
+    "origin": {
+      "source": "《史记·廉颇蔺相如列传》",
+      "story": {
+        "en": "Zhao Kuo could discuss military texts brilliantly, even besting his general father in debate, but when given command at Changping he was crushed by Qin and 400,000 Zhao soldiers were buried alive.",
+        "zh": "赵括熟读兵书，谈论兵事连父亲赵奢都难不倒他，但在长平之战中被秦军打败，四十万赵军被坑杀。"
+      }
+    },
+    "usage": {
+      "en": "From Zhao Kuo, who knew military texts but lost Changping.",
+      "zh": "源自赵括熟读兵书却在长平大败的故事。"
+    },
+    "synonyms": [
+      "空谈误国",
+      "坐而论道"
+    ],
+    "antonyms": [
+      "身体力行",
+      "学以致用",
+      "脚踏实地"
+    ]
+  },
+  {
+    "id": "chuan-liu-bu-xi",
+    "text": "川流不息",
+    "pinyin": "chuān liú bù xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "society"
+    ],
+    "literal": "river · flow · not · cease",
+    "natural": "a never-ending stream",
+    "meaning": {
+      "en": "Flowing continuously, like a river.",
+      "zh": "像河水一样流个不停，形容行人、车马等来往不断。"
+    },
+    "equivalents": [
+      "a constant stream",
+      "non-stop traffic"
+    ],
+    "examples": [
+      {
+        "zh": "大街上车辆川流不息。",
+        "en": "Traffic streams endlessly along the street."
+      },
+      {
+        "zh": "参观的人川流不息。",
+        "en": "Visitors came in a never-ending stream."
+      }
+    ],
+    "origin": {
+      "source": "《千字文》",
+      "story": {
+        "en": "'Rivers flow without ceasing; deep pools are clear and reflect' (川流不息，渊澄取映).",
+        "zh": "《千字文》：“川流不息，渊澄取映。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "络绎不绝",
+      "车水马龙",
+      "人来人往"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "人迹罕至"
+    ]
+  },
+  {
+    "id": "ye-shen-ren-jing",
+    "text": "夜深人静",
+    "pinyin": "yè shēn rén jìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily-time-periods"
+    ],
+    "literal": "night · deep · people · quiet",
+    "natural": "in the dead of night",
+    "meaning": {
+      "en": "Late at night when all is quiet.",
+      "zh": "深夜没有人声，非常寂静。"
+    },
+    "equivalents": [
+      "in the dead of night",
+      "late at night"
+    ],
+    "examples": [
+      {
+        "zh": "夜深人静时，他还在写作。",
+        "en": "In the dead of night, he was still writing."
+      },
+      {
+        "zh": "每到夜深人静，她就想家。",
+        "en": "Late at night, when all is quiet, she misses home."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial of time.",
+      "zh": "多作时间状语。"
+    },
+    "synonyms": [
+      "万籁俱寂",
+      "更深夜静"
+    ],
+    "antonyms": [
+      "人声鼎沸",
+      "熙熙攘攘"
+    ]
+  },
+  {
+    "id": "yi-tian-dao-wan",
+    "text": "一天到晚",
+    "pinyin": "yī tiān dào wǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "time",
+      "daily"
+    ],
+    "literal": "one · day · to · evening",
+    "natural": "all day long",
+    "meaning": {
+      "en": "From morning to night.",
+      "zh": "从早到晚，整天。"
+    },
+    "equivalents": [
+      "all day long",
+      "from morning to night"
+    ],
+    "examples": [
+      {
+        "zh": "他一天到晚玩手机。",
+        "en": "He's on his phone all day long."
+      },
+      {
+        "zh": "妈妈一天到晚忙个不停。",
+        "en": "Mum is busy from morning till night."
+      }
+    ],
+    "usage": {
+      "en": "Casual, often complaining.",
+      "zh": "口语，常带抱怨。"
+    },
+    "synonyms": [
+      "从早到晚",
+      "一年到头"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-liao-zhi-wai",
+    "text": "意料之外",
+    "pinyin": "yì liào zhī wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results"
+    ],
+    "literal": "expectation · 's · outside",
+    "natural": "unexpected",
+    "meaning": {
+      "en": "Beyond what was expected.",
+      "zh": "没有想到的。"
+    },
+    "equivalents": [
+      "unexpected",
+      "out of the blue"
+    ],
+    "examples": [
+      {
+        "zh": "这个结果完全在意料之外。",
+        "en": "The result was completely unexpected."
+      },
+      {
+        "zh": "意料之外的惊喜让她很开心。",
+        "en": "The unexpected surprise made her very happy."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 情理之中.",
+      "zh": "常与“情理之中”连用。"
+    },
+    "synonyms": [
+      "出乎意料",
+      "意想不到"
+    ],
+    "antonyms": [
+      "意料之中",
+      "不出所料"
+    ]
+  },
+  {
+    "id": "zhan-ding-jie-tie",
+    "text": "斩钉截铁",
+    "pinyin": "zhǎn dīng jié tiě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "character"
+    ],
+    "literal": "chop · nails · cut · iron",
+    "natural": "firmly and decisively",
+    "meaning": {
+      "en": "Resolute and decisive in speech or action.",
+      "zh": "形容说话办事坚决果断，毫不犹豫。"
+    },
+    "equivalents": [
+      "categorically",
+      "firmly",
+      "flatly"
+    ],
+    "examples": [
+      {
+        "zh": "他斩钉截铁地拒绝了。",
+        "en": "He refused flatly."
+      },
+      {
+        "zh": "她斩钉截铁地说：“我一定要去。”",
+        "en": "She said categorically: 'I'm definitely going.'"
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "当机立断",
+      "毫不犹豫"
+    ],
+    "antonyms": [
+      "犹豫不决",
+      "优柔寡断",
+      "支支吾吾"
+    ]
+  },
+  {
+    "id": "feng-yun-ren-wu",
+    "text": "风云人物",
+    "pinyin": "fēng yún rén wù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "leadership-and-authority"
+    ],
+    "literal": "wind · cloud · person",
+    "natural": "a person of the moment",
+    "meaning": {
+      "en": "An influential, high-profile figure.",
+      "zh": "指言论行动能影响大局的人物。"
+    },
+    "equivalents": [
+      "a big name",
+      "a mover and shaker",
+      "a high-profile figure"
+    ],
+    "examples": [
+      {
+        "zh": "他是商界的风云人物。",
+        "en": "He's a big name in business."
+      },
+      {
+        "zh": "当年她是学校的风云人物。",
+        "en": "She was the big name at school back then."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "大名鼎鼎"
+    ],
+    "antonyms": [
+      "无名小卒"
+    ]
+  },
+  {
+    "id": "zhuang-lie-xi-sheng",
+    "text": "壮烈牺牲",
+    "pinyin": "zhuàng liè xī shēng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "character"
+    ],
+    "literal": "heroic · sacrifice",
+    "natural": "die a hero's death",
+    "meaning": {
+      "en": "To die heroically.",
+      "zh": "英勇地献出了生命。"
+    },
+    "equivalents": [
+      "die heroically",
+      "give one's life"
+    ],
+    "examples": [
+      {
+        "zh": "他在抗洪中壮烈牺牲。",
+        "en": "He died a hero's death fighting the flood."
+      },
+      {
+        "zh": "许多战士在战斗中壮烈牺牲。",
+        "en": "Many soldiers gave their lives in battle."
+      }
+    ],
+    "usage": {
+      "en": "Formal, commemorative.",
+      "zh": "书面，多用于纪念。"
+    },
+    "synonyms": [
+      "舍生取义",
+      "以身殉职"
+    ],
+    "antonyms": [
+      "苟且偷生",
+      "贪生怕死"
+    ]
+  },
+  {
+    "id": "da-you-bi-yi",
+    "text": "大有裨益",
+    "pinyin": "dà yǒu bì yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "useful-tools-and-skill"
+    ],
+    "literal": "greatly · have · benefit",
+    "natural": "greatly beneficial",
+    "meaning": {
+      "en": "Of great benefit.",
+      "zh": "有很大的好处。"
+    },
+    "equivalents": [
+      "highly beneficial",
+      "a great help"
+    ],
+    "examples": [
+      {
+        "zh": "多读书对写作大有裨益。",
+        "en": "Reading widely is of great benefit to writing."
+      },
+      {
+        "zh": "这次交流对双方都大有裨益。",
+        "en": "The exchange was very beneficial to both sides."
+      }
+    ],
+    "usage": {
+      "en": "裨 is bì.",
+      "zh": "“裨”读bì。"
+    },
+    "synonyms": [
+      "受益匪浅",
+      "获益良多"
+    ],
+    "antonyms": [
+      "百害而无一利",
+      "无济于事"
+    ]
+  },
+  {
+    "id": "pu-ping-dao-lu",
+    "text": "铺平道路",
+    "pinyin": "pū píng dào lù",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "journeys-and-exploration"
+    ],
+    "literal": "lay · flat · road",
+    "natural": "pave the way",
+    "meaning": {
+      "en": "To prepare the way for something.",
+      "zh": "为事情的发展创造条件。"
+    },
+    "equivalents": [
+      "pave the way",
+      "clear the path"
+    ],
+    "examples": [
+      {
+        "zh": "这项协议为两国合作铺平了道路。",
+        "en": "The agreement paved the way for cooperation between the two countries."
+      },
+      {
+        "zh": "父母为他的成功铺平了道路。",
+        "en": "His parents paved the way for his success."
+      }
+    ],
+    "usage": {
+      "en": "Usually 为……铺平道路.",
+      "zh": "常说“为……铺平道路”。"
+    },
+    "synonyms": [
+      "开辟道路"
+    ],
+    "antonyms": [
+      "设置障碍"
+    ]
+  },
+  {
+    "id": "wu-ying-wu-zong",
+    "text": "无影无踪",
+    "pinyin": "wú yǐng wú zōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "no · shadow · no · trace",
+    "natural": "vanish without a trace",
+    "meaning": {
+      "en": "Completely vanished.",
+      "zh": "没有一点踪影，形容完全消失。"
+    },
+    "equivalents": [
+      "without a trace",
+      "vanished into thin air"
+    ],
+    "examples": [
+      {
+        "zh": "小偷跑得无影无踪。",
+        "en": "The thief vanished without a trace."
+      },
+      {
+        "zh": "他的烦恼消失得无影无踪。",
+        "en": "His worries vanished completely."
+      }
+    ],
+    "usage": {
+      "en": "Usually after 得.",
+      "zh": "多作补语。"
+    },
+    "synonyms": [
+      "销声匿迹",
+      "不知去向",
+      "不翼而飞"
+    ],
+    "antonyms": [
+      "蛛丝马迹",
+      "历历在目"
+    ]
+  },
+  {
+    "id": "ju-shou-zhi-lao",
+    "text": "举手之劳",
+    "pinyin": "jǔ shǒu zhī láo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "relationships",
+      "polite-humble"
+    ],
+    "literal": "raise · hand · 's · effort",
+    "natural": "no trouble at all",
+    "meaning": {
+      "en": "Something that takes no effort at all.",
+      "zh": "一抬手那样的劳累，比喻轻而易举。"
+    },
+    "equivalents": [
+      "no trouble at all",
+      "the least I could do"
+    ],
+    "examples": [
+      {
+        "zh": "不用谢，举手之劳而已。",
+        "en": "Don't mention it — it was no trouble at all."
+      },
+      {
+        "zh": "垃圾分类只是举手之劳。",
+        "en": "Sorting rubbish takes hardly any effort."
+      }
+    ],
+    "usage": {
+      "en": "Common modest reply to thanks.",
+      "zh": "常用于谦虚地回应感谢。"
+    },
+    "synonyms": [
+      "轻而易举",
+      "易如反掌"
+    ],
+    "antonyms": [
+      "千辛万苦",
+      "难如登天"
+    ]
+  },
+  {
+    "id": "zhong-xi-he-bi",
+    "text": "中西合璧",
+    "pinyin": "zhōng xī hé bì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unusual-combinations",
+      "culture"
+    ],
+    "literal": "China · West · join · jade discs",
+    "natural": "a blend of East and West",
+    "meaning": {
+      "en": "A harmonious combination of Chinese and Western elements.",
+      "zh": "中国和西方的优秀东西结合在一起。"
+    },
+    "equivalents": [
+      "East meets West",
+      "a fusion of Chinese and Western"
+    ],
+    "examples": [
+      {
+        "zh": "这座建筑中西合璧，别具特色。",
+        "en": "The building blends Chinese and Western styles beautifully."
+      },
+      {
+        "zh": "这家餐厅的菜中西合璧。",
+        "en": "The restaurant serves East-meets-West dishes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "珠联璧合",
+      "融为一体"
+    ],
+    "antonyms": [
+      "格格不入"
+    ]
+  },
+  {
+    "id": "zou-ma-shang-ren",
+    "text": "走马上任",
+    "pinyin": "zǒu mǎ shàng rèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "ride · horse · take up · post",
+    "natural": "take up a new post",
+    "meaning": {
+      "en": "To take up a new official position.",
+      "zh": "指官吏到任，现比喻接任某项工作。"
+    },
+    "equivalents": [
+      "take office",
+      "take up a new post"
+    ],
+    "examples": [
+      {
+        "zh": "新市长已经走马上任。",
+        "en": "The new mayor has taken office."
+      },
+      {
+        "zh": "他走马上任第一天就召开了会议。",
+        "en": "On his first day in the job he called a meeting."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "新官上任"
+    ],
+    "antonyms": [
+      "卸任",
+      "引咎辞职"
+    ]
+  },
+  {
+    "id": "pai-shou-cheng-kuai",
+    "text": "拍手称快",
+    "pinyin": "pāi shǒu chēng kuài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "revenge-and-retribution",
+      "public-opinion"
+    ],
+    "literal": "clap · hands · call · satisfying",
+    "natural": "applaud with satisfaction",
+    "meaning": {
+      "en": "To clap and cheer (at justice done).",
+      "zh": "拍着手喊痛快，多指仇恨得到消除。"
+    },
+    "equivalents": [
+      "cheer",
+      "applaud",
+      "rejoice"
+    ],
+    "examples": [
+      {
+        "zh": "恶霸被抓，村民们拍手称快。",
+        "en": "When the bully was arrested, the villagers cheered."
+      },
+      {
+        "zh": "这一判决让大家拍手称快。",
+        "en": "Everyone applauded the verdict."
+      }
+    ],
+    "usage": {
+      "en": "Usually about wrongdoers punished.",
+      "zh": "多指坏人受到惩罚。"
+    },
+    "synonyms": [
+      "大快人心",
+      "额手称庆"
+    ],
+    "antonyms": [
+      "怨声载道",
+      "痛心疾首"
+    ]
+  },
+  {
+    "id": "yi-nian-dao-tou",
+    "text": "一年到头",
+    "pinyin": "yī nián dào tóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "time"
+    ],
+    "literal": "one · year · to · end",
+    "natural": "all year round",
+    "meaning": {
+      "en": "Throughout the whole year.",
+      "zh": "从年初到年末，整年。"
+    },
+    "equivalents": [
+      "all year round",
+      "the whole year"
+    ],
+    "examples": [
+      {
+        "zh": "农民一年到头忙个不停。",
+        "en": "Farmers are busy all year round."
+      },
+      {
+        "zh": "这里一年到头都很暖和。",
+        "en": "It's warm here all year."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "一天到晚",
+      "年复一年"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xiao-xin-jin-shen",
+    "text": "小心谨慎",
+    "pinyin": "xiǎo xīn jǐn shèn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "wisdom"
+    ],
+    "literal": "careful · cautious",
+    "natural": "careful and cautious",
+    "meaning": {
+      "en": "Careful and prudent.",
+      "zh": "言行慎重，不冒失。"
+    },
+    "equivalents": [
+      "cautious",
+      "prudent",
+      "careful"
+    ],
+    "examples": [
+      {
+        "zh": "开车要小心谨慎。",
+        "en": "Drive carefully and cautiously."
+      },
+      {
+        "zh": "他做事一向小心谨慎。",
+        "en": "He's always prudent in what he does."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "小心翼翼",
+      "谨小慎微"
+    ],
+    "antonyms": [
+      "粗心大意",
+      "鲁莽行事",
+      "掉以轻心"
+    ]
+  },
+  {
+    "id": "hai-na-bai-chuan",
+    "text": "海纳百川",
+    "pinyin": "hǎi nà bǎi chuān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "wisdom"
+    ],
+    "literal": "sea · takes in · hundred · rivers",
+    "natural": "broad-minded",
+    "meaning": {
+      "en": "Embracing all, as the sea takes in every river.",
+      "zh": "大海能容纳成百上千条河流，比喻包容一切，胸襟宽广。"
+    },
+    "equivalents": [
+      "broad-minded",
+      "all-embracing",
+      "inclusive"
+    ],
+    "examples": [
+      {
+        "zh": "上海以海纳百川的胸怀吸引着各地人才。",
+        "en": "Shanghai's open, inclusive spirit attracts talent from everywhere."
+      },
+      {
+        "zh": "做人要有海纳百川的气度。",
+        "en": "One should be broad-minded and tolerant."
+      }
+    ],
+    "origin": {
+      "source": "清·林则徐 自题联",
+      "story": {
+        "en": "Lin Zexu's couplet: 'The sea takes in a hundred rivers — its tolerance makes it great; the cliff stands a thousand feet — without desire it is strong' (海纳百川，有容乃大；壁立千仞，无欲则刚).",
+        "zh": "林则徐自题联：“海纳百川，有容乃大；壁立千仞，无欲则刚。”"
+      }
+    },
+    "usage": {
+      "en": "Often with 有容乃大.",
+      "zh": "常接“有容乃大”。"
+    },
+    "synonyms": [
+      "兼收并蓄",
+      "宽宏大量"
+    ],
+    "antonyms": [
+      "心胸狭窄",
+      "小肚鸡肠",
+      "排斥异己"
+    ]
+  },
+  {
+    "id": "lai-li-bu-ming",
+    "text": "来历不明",
+    "pinyin": "lái lì bù míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "danger"
+    ],
+    "literal": "origin · not · clear",
+    "natural": "of unknown origin",
+    "meaning": {
+      "en": "Of unknown or dubious origin.",
+      "zh": "人或事物的来历不清楚。"
+    },
+    "equivalents": [
+      "of unknown origin",
+      "dubious",
+      "suspicious"
+    ],
+    "examples": [
+      {
+        "zh": "不要打开来历不明的邮件。",
+        "en": "Don't open emails from unknown sources."
+      },
+      {
+        "zh": "这笔来历不明的钱引起了调查。",
+        "en": "The money of unknown origin triggered an investigation."
+      }
+    ],
+    "usage": {
+      "en": "Attributive.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "形迹可疑"
+    ],
+    "antonyms": [
+      "光明正大"
+    ]
+  },
+  {
+    "id": "qi-zui-ba-she",
+    "text": "七嘴八舌",
+    "pinyin": "qī zuǐ bā shé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "numbers"
+    ],
+    "literal": "seven · mouths · eight · tongues",
+    "natural": "everyone talking at once",
+    "meaning": {
+      "en": "Many people talking at once.",
+      "zh": "形容人多口杂，你一言我一语。"
+    },
+    "equivalents": [
+      "all talking at once",
+      "a babble of voices"
+    ],
+    "examples": [
+      {
+        "zh": "大家七嘴八舌地讨论起来。",
+        "en": "Everyone started talking at once."
+      },
+      {
+        "zh": "同学们七嘴八舌地出主意。",
+        "en": "The classmates all chipped in with ideas at once."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "议论纷纷",
+      "众说纷纭"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "异口同声"
+    ]
+  },
+  {
+    "id": "hao-tao-da-ku",
+    "text": "嚎啕大哭",
+    "pinyin": "háo táo dà kū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "号啕大哭"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "emotions"
+    ],
+    "literal": "wailing · loudly · cry",
+    "natural": "wail",
+    "meaning": {
+      "en": "To cry loudly and uncontrollably.",
+      "zh": "放声大哭。"
+    },
+    "equivalents": [
+      "burst into tears",
+      "wail",
+      "sob one's heart out"
+    ],
+    "examples": [
+      {
+        "zh": "孩子摔倒后嚎啕大哭。",
+        "en": "The child fell over and wailed."
+      },
+      {
+        "zh": "听到噩耗，她嚎啕大哭。",
+        "en": "Hearing the terrible news, she sobbed her heart out."
+      }
+    ],
+    "usage": {
+      "en": "Also written 号啕大哭.",
+      "zh": "也写作“号啕大哭”。"
+    },
+    "synonyms": [
+      "痛哭流涕",
+      "泣不成声"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "哈哈大笑"
+    ]
+  },
+  {
+    "id": "bu-gu-yi-qie",
+    "text": "不顾一切",
+    "pinyin": "bù gù yī qiè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "danger"
+    ],
+    "literal": "not · consider · everything",
+    "natural": "regardless of everything",
+    "meaning": {
+      "en": "Regardless of everything; recklessly.",
+      "zh": "什么都不顾。"
+    },
+    "equivalents": [
+      "at all costs",
+      "regardless",
+      "recklessly"
+    ],
+    "examples": [
+      {
+        "zh": "他不顾一切地冲进火场救人。",
+        "en": "He rushed into the fire to save people regardless of the danger."
+      },
+      {
+        "zh": "为了爱情，她不顾一切。",
+        "en": "For love, she was willing to risk everything."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "奋不顾身",
+      "孤注一掷"
+    ],
+    "antonyms": [
+      "瞻前顾后",
+      "畏首畏尾",
+      "小心谨慎"
+    ]
+  },
+  {
+    "id": "hun-xiao-shi-ting",
+    "text": "混淆视听",
+    "pinyin": "hùn xiáo shì tīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "deception-and-false-appearances",
+      "public-opinion"
+    ],
+    "literal": "confuse · sight · hearing",
+    "natural": "muddy the waters",
+    "meaning": {
+      "en": "To mislead the public by confusing what they see and hear.",
+      "zh": "用假象或谎言迷惑人，使人分辨不清是非。"
+    },
+    "equivalents": [
+      "muddy the waters",
+      "mislead the public"
+    ],
+    "examples": [
+      {
+        "zh": "他故意散布谣言混淆视听。",
+        "en": "He deliberately spread rumours to muddy the waters."
+      },
+      {
+        "zh": "不要被混淆视听的说法迷惑。",
+        "en": "Don't be misled by confusing claims."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "颠倒黑白",
+      "混淆是非"
+    ],
+    "antonyms": [
+      "正本清源",
+      "以正视听"
+    ]
+  },
+  {
+    "id": "re-xue-fei-teng",
+    "text": "热血沸腾",
+    "pinyin": "rè xuè fèi téng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions"
+    ],
+    "literal": "hot · blood · boiling",
+    "natural": "fired up",
+    "meaning": {
+      "en": "Fired up with passion.",
+      "zh": "形容情绪高涨激昂。"
+    },
+    "equivalents": [
+      "fired up",
+      "stirred",
+      "passionate"
+    ],
+    "examples": [
+      {
+        "zh": "听了他的演讲，大家热血沸腾。",
+        "en": "Hearing his speech, everyone was fired up."
+      },
+      {
+        "zh": "这部电影让人热血沸腾。",
+        "en": "The film gets your blood pumping."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "慷慨激昂",
+      "心潮澎湃"
+    ],
+    "antonyms": [
+      "心灰意冷",
+      "无动于衷",
+      "心如止水"
+    ]
+  }
+]
