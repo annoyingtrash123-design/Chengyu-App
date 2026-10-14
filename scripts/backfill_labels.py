@@ -42,6 +42,8 @@ MANUAL = {
     "chain-reactions": ["连锁反应", "牵一发而动全身"],
     "contentment-and-simplicity": ["知足常乐", "安贫乐道", "清心寡欲", "随遇而安"],
     "evenly-matched": ["棋逢对手", "势均力敌", "平分秋色", "旗鼓相当", "不相上下", "难分伯仲"],
+    "competition-and-rivalry": ["争先恐后", "略胜一筹", "棋逢对手", "一决雌雄"],
+    "innovation-and-progress": ["推陈出新", "标新立异", "日新月异", "革故鼎新"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).
