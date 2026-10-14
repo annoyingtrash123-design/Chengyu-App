@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "shi-bu-guo-fu",
+    "text": "食不果腹",
+    "pinyin": "shí bù guǒ fù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-food-and-hunger"
+    ],
+    "literal": "food · not · fill · belly",
+    "natural": "Food not enough to fill the belly",
+    "meaning": {
+      "en": "Not having enough to eat.",
+      "zh": "吃不饱肚子。形容生活贫困。"
+    },
+    "equivalents": [
+      "go hungry",
+      "not enough to eat",
+      "live hand to mouth",
+      "on the breadline"
+    ],
+    "examples": [
+      {
+        "zh": "旧社会，很多穷人食不果腹。",
+        "en": "In the old society, many poor people went hungry."
+      },
+      {
+        "zh": "世界上仍有数亿人食不果腹。",
+        "en": "Hundreds of millions of people around the world still don't have enough to eat."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often with 衣不蔽体.",
+      "zh": "多作谓语，常与\"衣不蔽体\"连用。"
+    },
+    "synonyms": [
+      "饥寒交迫",
+      "饥肠辘辘",
+      "衣不蔽体"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "酒足饭饱",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "shu-neng-sheng-qiao",
+    "text": "熟能生巧",
+    "pinyin": "shú néng shēng qiǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "familiar · can · produce · skill",
+    "natural": "Familiarity breeds skill",
+    "meaning": {
+      "en": "Practice makes perfect.",
+      "zh": "熟练了就能产生巧办法。"
+    },
+    "equivalents": [
+      "practice makes perfect",
+      "repetition breeds mastery"
+    ],
+    "examples": [
+      {
+        "zh": "写字要多练，熟能生巧。",
+        "en": "Keep practising your handwriting — practice makes perfect."
+      },
+      {
+        "zh": "刚开始做得慢没关系，熟能生巧。",
+        "en": "It's fine to be slow at first — you'll get better with practice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or standalone saying. Same idea as the English proverb.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "得心应手",
+      "驾轻就熟",
+      "游刃有余"
+    ],
+    "antonyms": [
+      "笨手笨脚",
+      "生疏"
+    ]
+  },
+  {
+    "id": "feng-mang-bi-lu",
+    "text": "锋芒毕露",
+    "pinyin": "fēng máng bì lù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "character"
+    ],
+    "literal": "blade-edge · point · fully · exposed",
+    "natural": "Showing every edge of the blade",
+    "meaning": {
+      "en": "To show off one's talents aggressively; not hiding one's edge.",
+      "zh": "锐气和才华全都显露出来。多指爱显示自己的才干。"
+    },
+    "equivalents": [
+      "show off one's talents",
+      "flaunt one's abilities",
+      "not hide one's light under a bushel"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻气盛，锋芒毕露，得罪了不少人。",
+        "en": "Young and brash, he flaunted his talents and offended many people."
+      },
+      {
+        "zh": "在职场上不宜太锋芒毕露。",
+        "en": "At work it's unwise to show off too much."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually mildly critical (lack of modesty).",
+      "zh": "多作谓语，多含贬义。"
+    },
+    "synonyms": [
+      "崭露头角",
+      "咄咄逼人",
+      "不可一世"
+    ],
+    "antonyms": [
+      "韬光养晦",
+      "深藏不露",
+      "不露锋芒"
+    ]
+  },
+  {
+    "id": "sheng-ling-tu-tan",
+    "text": "生灵涂炭",
+    "pinyin": "shēng líng tú tàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "war",
+      "poverty-and-hardship"
+    ],
+    "literal": "living · beings · mud · charcoal",
+    "natural": "The people cast into mud and fire",
+    "meaning": {
+      "en": "The people plunged into utter misery (by war or tyranny).",
+      "zh": "人民陷在泥塘和炭火坑里。形容人民处于极端困苦的境地。"
+    },
+    "equivalents": [
+      "untold human suffering",
+      "the people in misery",
+      "devastation"
+    ],
+    "examples": [
+      {
+        "zh": "战争使无数百姓生灵涂炭。",
+        "en": "The war brought untold suffering to countless people."
+      },
+      {
+        "zh": "暴政之下，生灵涂炭。",
+        "en": "Under tyranny the people lived in misery."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal and historical.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "民不聊生",
+      "水深火热",
+      "哀鸿遍野"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "安居乐业",
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "yu-weng-de-li",
+    "text": "渔翁得利",
+    "pinyin": "yú wēng dé lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "conflict-and-strife"
+    ],
+    "literal": "fisherman · old man · gain · profit",
+    "natural": "The fisherman profits",
+    "meaning": {
+      "en": "A third party profits from others' conflict.",
+      "zh": "比喻双方相争，第三者从中得利。"
+    },
+    "equivalents": [
+      "a third party profits",
+      "while two dogs fight, the third gets the bone",
+      "play both sides"
+    ],
+    "examples": [
+      {
+        "zh": "两家大公司打价格战，小公司渔翁得利。",
+        "en": "While the two giants fought a price war, small firms profited."
+      },
+      {
+        "zh": "鹬蚌相争，渔翁得利。",
+        "en": "When the snipe and the clam fight, the fisherman wins."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·燕策二》",
+      "story": {
+        "en": "A clam caught a snipe's beak; neither would let go. A fisherman came by and caught them both. Su Dai told this to the King of Zhao to stop him attacking Yan, lest Qin profit.",
+        "zh": "鹬啄蚌肉，蚌夹住鹬嘴，相持不下，渔夫把两个都捉了。苏代以此劝赵王不要攻燕，以免强秦得利。"
+      }
+    },
+    "usage": {
+      "en": "Usually in 鹬蚌相争，渔翁得利.",
+      "zh": "常说\"鹬蚌相争，渔翁得利\"。"
+    },
+    "synonyms": [
+      "坐收渔利",
+      "鹬蚌相争",
+      "坐山观虎斗"
+    ],
+    "antonyms": [
+      "两败俱伤",
+      "同归于尽"
+    ]
+  },
+  {
+    "id": "wei-min-chu-hai",
+    "text": "为民除害",
+    "pinyin": "wèi mín chú hài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "good-governance",
+      "conduct"
+    ],
+    "literal": "for · people · remove · harm",
+    "natural": "Removing harm for the people's sake",
+    "meaning": {
+      "en": "To rid the people of a scourge.",
+      "zh": "为人民除掉祸害。"
+    },
+    "equivalents": [
+      "rid the people of a menace",
+      "clean up the streets",
+      "slay the dragon"
+    ],
+    "examples": [
+      {
+        "zh": "警察抓住了这伙歹徒，为民除害。",
+        "en": "The police caught the gang and rid the people of a menace."
+      },
+      {
+        "zh": "古代英雄为民除害的故事流传至今。",
+        "en": "Stories of ancient heroes slaying monsters for the people are still told today."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 为 is wèi (for).",
+      "zh": "多作谓语。\"为\"读 wèi。"
+    },
+    "synonyms": [
+      "除暴安良",
+      "替天行道"
+    ],
+    "antonyms": [
+      "为虎作伥",
+      "助纣为虐",
+      "祸国殃民"
+    ]
+  },
+  {
+    "id": "jian-ting-ze-ming",
+    "text": "兼听则明",
+    "pinyin": "jiān tīng zé míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "leadership-and-authority"
+    ],
+    "literal": "broadly · listen · then · clear",
+    "natural": "Listening to all sides brings clarity",
+    "meaning": {
+      "en": "Listen to all sides and you will see clearly.",
+      "zh": "同时听取各方面的意见，才能正确认识事物。"
+    },
+    "equivalents": [
+      "hear both sides",
+      "get a second opinion",
+      "there are two sides to every story"
+    ],
+    "examples": [
+      {
+        "zh": "兼听则明，偏信则暗。",
+        "en": "Listen to all sides and you'll be enlightened; heed only one and you'll be in the dark."
+      },
+      {
+        "zh": "做决定前要兼听则明，多听听不同意见。",
+        "en": "Before deciding, hear all sides and listen to different views."
+      }
+    ],
+    "origin": {
+      "source": "《资治通鉴·唐纪八》",
+      "story": {
+        "en": "Emperor Taizong of Tang asked Wei Zheng what makes a ruler wise or foolish. Wei replied: \"Listen to all and you are enlightened; trust one side and you are benighted\" (兼听则明，偏信则暗).",
+        "zh": "唐太宗问魏征何谓明君、暗君，魏征答：\"兼听则明，偏信则暗。\""
+      }
+    },
+    "usage": {
+      "en": "Usually with 偏信则暗.",
+      "zh": "常与\"偏信则暗\"连用。"
+    },
+    "synonyms": [
+      "集思广益",
+      "从善如流",
+      "博采众长"
+    ],
+    "antonyms": [
+      "偏听偏信",
+      "独断专行",
+      "刚愎自用"
+    ]
+  },
+  {
+    "id": "gu-zhi-ji-jian",
+    "text": "固执己见",
+    "pinyin": "gù zhí jǐ jiàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "negative-character-flaws"
+    ],
+    "literal": "stubbornly · hold · own · view",
+    "natural": "Stubbornly clinging to one's own view",
+    "meaning": {
+      "en": "To stubbornly stick to one's opinion.",
+      "zh": "顽固地坚持自己的意见。"
+    },
+    "equivalents": [
+      "stubborn",
+      "dig one's heels in",
+      "pig-headed",
+      "set in one's ways"
+    ],
+    "examples": [
+      {
+        "zh": "他固执己见，谁的话也听不进去。",
+        "en": "He's so stubborn he won't listen to anyone."
+      },
+      {
+        "zh": "讨论问题不要固执己见。",
+        "en": "Don't dig your heels in when discussing things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一意孤行",
+      "刚愎自用",
+      "执迷不悟"
+    ],
+    "antonyms": [
+      "从善如流",
+      "集思广益",
+      "虚怀若谷"
+    ]
+  },
+  {
+    "id": "lu-si-shui-shou",
+    "text": "鹿死谁手",
+    "pinyin": "lù sǐ shuí shǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "games-and-sports",
+      "military-strategy-and-victory"
+    ],
+    "literal": "deer · die · whose · hand",
+    "natural": "Into whose hands will the deer fall?",
+    "meaning": {
+      "en": "Who will win is still undecided.",
+      "zh": "比喻不知政权会落在谁的手里。现也指比赛中不知谁会取得最后胜利。"
+    },
+    "equivalents": [
+      "anyone's game",
+      "it's still up for grabs",
+      "too close to call"
+    ],
+    "examples": [
+      {
+        "zh": "比赛还剩五分钟，鹿死谁手还很难说。",
+        "en": "Five minutes left — it's still anyone's game."
+      },
+      {
+        "zh": "两家公司争夺市场，鹿死谁手尚未可知。",
+        "en": "The two companies are battling for the market, and it's too close to call."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·石勒载记》",
+      "story": {
+        "en": "The Later Zhao ruler Shi Le boasted that had he lived in Liu Xiu's time, \"I would have chased the deer with him in the central plains, and who knows in whose hands the deer would have died\" — the deer symbolising the empire.",
+        "zh": "石勒说：\"若遇光武，当并驱于中原，未知鹿死谁手。\"\"鹿\"比喻政权。"
+      }
+    },
+    "usage": {
+      "en": "Usually 鹿死谁手，尚未可知/还很难说.",
+      "zh": "常说\"鹿死谁手，尚未可知\"。"
+    },
+    "synonyms": [
+      "胜负难料",
+      "难分伯仲"
+    ],
+    "antonyms": [
+      "胜券在握",
+      "稳操胜券",
+      "大局已定"
+    ]
+  },
+  {
+    "id": "wang-zi-zun-da",
+    "text": "妄自尊大",
+    "pinyin": "wàng zì zūn dà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "recklessly · self · honour · great",
+    "natural": "Recklessly thinking oneself great",
+    "meaning": {
+      "en": "Grossly overestimating oneself; self-important.",
+      "zh": "狂妄地自高自大。"
+    },
+    "equivalents": [
+      "self-important",
+      "arrogant",
+      "have an inflated ego",
+      "full of oneself"
+    ],
+    "examples": [
+      {
+        "zh": "取得了一点成绩就妄自尊大，是不对的。",
+        "en": "It's wrong to get an inflated ego over a small success."
+      },
+      {
+        "zh": "我们既不能妄自菲薄，也不能妄自尊大。",
+        "en": "We should neither sell ourselves short nor overrate ourselves."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often paired with 妄自菲薄.",
+      "zh": "多作谓语，常与\"妄自菲薄\"对举。"
+    },
+    "synonyms": [
+      "夜郎自大",
+      "自高自大",
+      "唯我独尊"
+    ],
+    "antonyms": [
+      "妄自菲薄",
+      "谦虚谨慎",
+      "虚怀若谷"
+    ]
+  },
+  {
+    "id": "hu-lun-tun-zao",
+    "text": "囫囵吞枣",
+    "pinyin": "hú lún tūn zǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "fine-cuisine"
+    ],
+    "literal": "whole · whole · swallow · jujube",
+    "natural": "Swallowing a jujube whole",
+    "meaning": {
+      "en": "To swallow information without digesting it; uncritical learning.",
+      "zh": "把枣整个吞下去。比喻对事物不加分析和思考。"
+    },
+    "equivalents": [
+      "swallow whole",
+      "learn parrot-fashion",
+      "without digesting it",
+      "rote learning"
+    ],
+    "examples": [
+      {
+        "zh": "读书不能囫囵吞枣，要理解。",
+        "en": "Don't just swallow what you read whole — understand it."
+      },
+      {
+        "zh": "他囫囵吞枣地背下了答案，一问就不会了。",
+        "en": "He memorised the answers parrot-fashion and was stumped when asked."
+      }
+    ],
+    "origin": {
+      "source": "元·白珽《湛渊静语》",
+      "story": {
+        "en": "Someone said pears are good for the teeth but bad for the spleen, jujubes the opposite. A man replied he would chew pears without swallowing, and swallow jujubes without chewing — swallowing them whole.",
+        "zh": "有人说梨益齿损脾，枣益脾损齿。一人说：吃梨只嚼不咽，吃枣只咽不嚼，于是\"囫囵吞却一个枣\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "不求甚解",
+      "生吞活剥",
+      "一知半解"
+    ],
+    "antonyms": [
+      "细嚼慢咽",
+      "融会贯通",
+      "含英咀华"
+    ]
+  },
+  {
+    "id": "san-xin-er-yi",
+    "text": "三心二意",
+    "pinyin": "sān xīn èr yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "negative-character-flaws"
+    ],
+    "literal": "three · hearts · two · minds",
+    "natural": "Three hearts and two minds",
+    "meaning": {
+      "en": "Half-hearted; unable to concentrate or commit.",
+      "zh": "又想这样又想那样，形容犹豫不决或意志不专一。"
+    },
+    "equivalents": [
+      "half-hearted",
+      "in two minds",
+      "dither",
+      "not fully committed"
+    ],
+    "examples": [
+      {
+        "zh": "做事不能三心二意。",
+        "en": "Don't do things half-heartedly."
+      },
+      {
+        "zh": "小猫钓鱼三心二意，一条也没钓到。",
+        "en": "The kitten went fishing half-heartedly and caught nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Very common with children.",
+      "zh": "多作谓语、状语，常用于教育孩子。"
+    },
+    "synonyms": [
+      "心猿意马",
+      "见异思迁",
+      "心不在焉"
+    ],
+    "antonyms": [
+      "一心一意",
+      "专心致志",
+      "全神贯注"
+    ]
+  },
+  {
+    "id": "hua-zhi-zhao-zhan",
+    "text": "花枝招展",
+    "pinyin": "huā zhī zhāo zhǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fine-dress-and-fashion",
+      "appearance"
+    ],
+    "literal": "flower · branch · beckon · display",
+    "natural": "Like flowering branches swaying in the breeze",
+    "meaning": {
+      "en": "Gorgeously dressed up (of women).",
+      "zh": "形容女子打扮得非常艳丽。"
+    },
+    "equivalents": [
+      "dressed to the nines",
+      "all dolled up",
+      "in all her finery"
+    ],
+    "examples": [
+      {
+        "zh": "姑娘们打扮得花枝招展去参加舞会。",
+        "en": "The young women got all dolled up for the dance."
+      },
+      {
+        "zh": "她穿得花枝招展，引人注目。",
+        "en": "Dressed to the nines, she caught everyone's eye."
+      }
+    ],
+    "usage": {
+      "en": "Complement (打扮得花枝招展). Can be neutral or slightly mocking.",
+      "zh": "多作补语，可中性或略带讥讽。"
+    },
+    "synonyms": [
+      "浓妆艳抹",
+      "珠光宝气",
+      "衣着华丽"
+    ],
+    "antonyms": [
+      "衣衫褴褛",
+      "素面朝天",
+      "朴素无华"
+    ]
+  },
+  {
+    "id": "hun-fei-po-san",
+    "text": "魂飞魄散",
+    "pinyin": "hún fēi pò sàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "soul · fly · spirit · scatter",
+    "natural": "Soul flying off and spirit scattering",
+    "meaning": {
+      "en": "Scared out of one's wits.",
+      "zh": "形容惊恐万分，极度害怕。"
+    },
+    "equivalents": [
+      "scared out of one's wits",
+      "frightened to death",
+      "jump out of one's skin"
+    ],
+    "examples": [
+      {
+        "zh": "一声巨响吓得他魂飞魄散。",
+        "en": "A loud bang scared him out of his wits."
+      },
+      {
+        "zh": "看到蛇，她吓得魂飞魄散。",
+        "en": "Seeing the snake, she nearly jumped out of her skin."
+      }
+    ],
+    "usage": {
+      "en": "Complement (吓得魂飞魄散).",
+      "zh": "多作补语。"
+    },
+    "synonyms": [
+      "魂不附体",
+      "胆战心惊",
+      "惊慌失措"
+    ],
+    "antonyms": [
+      "镇定自若",
+      "面不改色",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "po-jing-chong-yuan",
+    "text": "破镜重圆",
+    "pinyin": "pò jìng chóng yuán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "stories"
+    ],
+    "literal": "broken · mirror · again · round",
+    "natural": "The broken mirror made whole again",
+    "meaning": {
+      "en": "A separated couple reunited.",
+      "zh": "比喻夫妻失散或决裂后重新团聚或和好。"
+    },
+    "equivalents": [
+      "get back together",
+      "reconcile",
+      "rekindle the romance"
+    ],
+    "examples": [
+      {
+        "zh": "分开三年后，他们终于破镜重圆。",
+        "en": "After three years apart, they finally got back together."
+      },
+      {
+        "zh": "感情一旦破裂，很难破镜重圆。",
+        "en": "Once a relationship breaks down, it's hard to repair."
+      }
+    ],
+    "origin": {
+      "source": "唐·孟棨《本事诗·情感》",
+      "story": {
+        "en": "As the Chen dynasty fell, Xu Deyan broke a mirror and gave half to his wife, Princess Lechang, agreeing to sell the halves in the market on the 15th of the first month. Years later the halves were matched and the couple reunited.",
+        "zh": "陈朝将亡，徐德言破镜各执一半，约定正月十五在市上卖镜相寻。后来果然以半镜相合，夫妻团聚。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "重归于好",
+      "和好如初"
+    ],
+    "antonyms": [
+      "劳燕分飞",
+      "一刀两断",
+      "分道扬镳"
+    ]
+  },
+  {
+    "id": "dong-ren-xin-xian",
+    "text": "动人心弦",
+    "pinyin": "dòng rén xīn xián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "arts"
+    ],
+    "literal": "move · person · heart · strings",
+    "natural": "Moving the strings of the heart",
+    "meaning": {
+      "en": "Deeply moving; tugging at the heartstrings.",
+      "zh": "形容事物激动人心。"
+    },
+    "equivalents": [
+      "tug at the heartstrings",
+      "deeply moving",
+      "touching",
+      "stirring"
+    ],
+    "examples": [
+      {
+        "zh": "这首歌动人心弦。",
+        "en": "The song tugs at the heartstrings."
+      },
+      {
+        "zh": "电影里有许多动人心弦的情节。",
+        "en": "The film has many deeply moving scenes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "扣人心弦",
+      "感人肺腑",
+      "荡气回肠"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "索然无味",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "an-wu-tian-ri",
+    "text": "暗无天日",
+    "pinyin": "àn wú tiān rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "poverty-and-hardship"
+    ],
+    "literal": "dark · without · sky · sun",
+    "natural": "So dark there's no sky or sun",
+    "meaning": {
+      "en": "Utterly dark; a time of oppression and injustice.",
+      "zh": "形容社会黑暗。"
+    },
+    "equivalents": [
+      "the dark ages",
+      "a living hell",
+      "no light at the end of the tunnel"
+    ],
+    "examples": [
+      {
+        "zh": "在那暗无天日的年代，百姓受尽压迫。",
+        "en": "In those dark days, ordinary people suffered terrible oppression."
+      },
+      {
+        "zh": "他在矿井下过着暗无天日的生活。",
+        "en": "He lived a life without daylight down the mine."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "不见天日",
+      "水深火热",
+      "民不聊生"
+    ],
+    "antonyms": [
+      "重见天日",
+      "光天化日",
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "xin-kou-ci-huang",
+    "text": "信口雌黄",
+    "pinyin": "xìn kǒu cí huáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "freely · mouth · orpiment",
+    "natural": "Erasing with orpiment whatever comes to mouth",
+    "meaning": {
+      "en": "To talk irresponsibly; to make baseless claims.",
+      "zh": "不顾事实，随口乱说。"
+    },
+    "equivalents": [
+      "talk nonsense",
+      "make baseless claims",
+      "talk out of one's hat"
+    ],
+    "examples": [
+      {
+        "zh": "没有证据就不要信口雌黄。",
+        "en": "Don't make baseless claims without evidence."
+      },
+      {
+        "zh": "他在网上信口雌黄，诽谤他人。",
+        "en": "He talks rubbish online and defames people."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·王衍传》",
+      "story": {
+        "en": "Wang Yan changed his arguments whenever challenged, so people called him \"orpiment in the mouth\" (口中雌黄) — orpiment being the yellow mineral used to erase mistakes on paper.",
+        "zh": "王衍谈论义理时随意更改，\"义理有所不安，随即更改，世号口中雌黄\"。雌黄是古人用来涂改错字的矿物。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "信口开河",
+      "胡说八道",
+      "血口喷人"
+    ],
+    "antonyms": [
+      "言之有据",
+      "实事求是",
+      "有凭有据"
+    ]
+  },
+  {
+    "id": "fen-shi-ji-su",
+    "text": "愤世嫉俗",
+    "pinyin": "fèn shì jí sú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "society"
+    ],
+    "literal": "resent · world · hate · customs",
+    "natural": "Resenting the world and hating its ways",
+    "meaning": {
+      "en": "Cynical; disgusted with the ways of the world.",
+      "zh": "对黑暗的社会和不合理的习俗表示愤恨。"
+    },
+    "equivalents": [
+      "cynical",
+      "jaded",
+      "disillusioned with society",
+      "misanthropic"
+    ],
+    "examples": [
+      {
+        "zh": "他经历了很多不公，变得愤世嫉俗。",
+        "en": "After much injustice, he became cynical."
+      },
+      {
+        "zh": "这位诗人的作品充满愤世嫉俗的情绪。",
+        "en": "The poet's work is full of disgust at the world's ways."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "玩世不恭",
+      "忿忿不平"
+    ],
+    "antonyms": [
+      "随波逐流",
+      "同流合污",
+      "乐观向上"
+    ]
+  },
+  {
+    "id": "li-bing-mo-ma",
+    "text": "厉兵秣马",
+    "pinyin": "lì bīng mò mǎ",
+    "variants": [
+      "秣马厉兵"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "games-and-sports"
+    ],
+    "literal": "sharpen · weapons · feed · horses",
+    "natural": "Sharpening weapons and feeding the horses",
+    "meaning": {
+      "en": "To prepare thoroughly for battle or a challenge.",
+      "zh": "磨好兵器，喂饱战马。形容准备战斗。也比喻事前做好准备。"
+    },
+    "equivalents": [
+      "gear up",
+      "prepare for battle",
+      "get ready for action"
+    ],
+    "examples": [
+      {
+        "zh": "各队都在厉兵秣马，准备迎接全国比赛。",
+        "en": "All the teams are gearing up for the national competition."
+      },
+      {
+        "zh": "考前一个月，同学们厉兵秣马。",
+        "en": "A month before the exam, the students are preparing for battle."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公三十三年》",
+      "story": {
+        "en": "The Zheng merchant Xian Gao, seeing a Qin army approaching, sent word home. Zheng found the Qin garrison had already \"bundled their gear, sharpened their weapons and fed their horses\" (束载、厉兵、秣马矣).",
+        "zh": "《左传》：郑穆公派人察看，秦军驻军\"束载、厉兵、秣马矣\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. 秣 is mò.",
+      "zh": "多作谓语。\"秣\"读 mò。"
+    },
+    "synonyms": [
+      "枕戈待旦",
+      "整装待发"
+    ],
+    "antonyms": [
+      "马放南山",
+      "刀枪入库",
+      "高枕无忧"
+    ]
+  },
+  {
+    "id": "feng-zhu-can-nian",
+    "text": "风烛残年",
+    "pinyin": "fēng zhú cán nián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "poor-health"
+    ],
+    "literal": "wind · candle · remaining · years",
+    "natural": "Remaining years like a candle in the wind",
+    "meaning": {
+      "en": "One's twilight years; the frail last years of life.",
+      "zh": "比喻人到了接近死亡的晚年。"
+    },
+    "equivalents": [
+      "twilight years",
+      "in one's dotage",
+      "a candle in the wind",
+      "living on borrowed time"
+    ],
+    "examples": [
+      {
+        "zh": "老人已是风烛残年，最大的愿望是见到孙子。",
+        "en": "In his twilight years, the old man's greatest wish is to see his grandson."
+      },
+      {
+        "zh": "在风烛残年里，她依然坚持写作。",
+        "en": "In the frail last years of her life, she kept writing."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive.",
+      "zh": "多作宾语、定语。"
+    },
+    "synonyms": [
+      "日薄西山",
+      "老态龙钟",
+      "桑榆暮景"
+    ],
+    "antonyms": [
+      "风华正茂",
+      "年富力强",
+      "青春年少"
+    ]
+  },
+  {
+    "id": "san-tou-liu-bi",
+    "text": "三头六臂",
+    "pinyin": "sān tóu liù bì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "stories"
+    ],
+    "literal": "three · heads · six · arms",
+    "natural": "Three heads and six arms",
+    "meaning": {
+      "en": "Superhuman abilities; doing many things at once.",
+      "zh": "原为佛教用语，指佛的法相。后比喻神奇的本领。"
+    },
+    "equivalents": [
+      "superhuman",
+      "have eyes in the back of one's head",
+      "can't be in two places at once (negated)"
+    ],
+    "examples": [
+      {
+        "zh": "我又没有三头六臂，怎么可能同时做这么多事？",
+        "en": "I'm not superhuman — how can I do all this at once?"
+      },
+      {
+        "zh": "他好像有三头六臂，一个人管三个部门。",
+        "en": "He seems superhuman, running three departments on his own."
+      }
+    ],
+    "usage": {
+      "en": "Object, often negated (我又没有三头六臂). From the multi-limbed forms of Buddhist and folk deities (e.g. Nezha).",
+      "zh": "多作宾语，常用于否定。源自佛教和神话（如哪吒）。"
+    },
+    "synonyms": [
+      "神通广大",
+      "八面玲珑"
+    ],
+    "antonyms": [
+      "无能为力",
+      "束手无策"
+    ]
+  },
+  {
+    "id": "lang-bei-wei-jian",
+    "text": "狼狈为奸",
+    "pinyin": "láng bèi wéi jiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-company-and-betrayal",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "wolf · bei-beast · do · evil",
+    "natural": "The wolf and the bei working evil together",
+    "meaning": {
+      "en": "To collude in wrongdoing.",
+      "zh": "狼和狈一同出外伤害牲畜。比喻互相勾结干坏事。"
+    },
+    "equivalents": [
+      "in cahoots",
+      "thick as thieves",
+      "partners in crime",
+      "collude"
+    ],
+    "examples": [
+      {
+        "zh": "他们官商勾结，狼狈为奸。",
+        "en": "Officials and businessmen were in cahoots."
+      },
+      {
+        "zh": "这两个骗子狼狈为奸，骗了很多老人。",
+        "en": "The two conmen colluded to cheat many elderly people."
+      }
+    ],
+    "origin": {
+      "source": "唐·段成式《酉阳杂俎》",
+      "story": {
+        "en": "Legend says the bei (狈) has short forelegs and must ride on a wolf's back to move; together they raid livestock.",
+        "zh": "传说狈前腿极短，须趴在狼身上才能行动，二者合伙伤害牲畜。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "同流合污",
+      "沆瀣一气",
+      "朋比为奸"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "洁身自好",
+      "大义灭亲"
+    ]
+  },
+  {
+    "id": "jin-ke-yu-lu",
+    "text": "金科玉律",
+    "pinyin": "jīn kē yù lǜ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "good-governance"
+    ],
+    "literal": "gold · rule · jade · law",
+    "natural": "Golden rules and jade laws",
+    "meaning": {
+      "en": "A golden rule; an inviolable principle.",
+      "zh": "比喻必须遵守、不能变更的信条。"
+    },
+    "equivalents": [
+      "a golden rule",
+      "gospel truth",
+      "set in stone",
+      "sacrosanct"
+    ],
+    "examples": [
+      {
+        "zh": "他把老师的话当作金科玉律。",
+        "en": "He treats his teacher's words as gospel."
+      },
+      {
+        "zh": "世上没有一成不变的金科玉律。",
+        "en": "There are no rules set in stone forever."
+      }
+    ],
+    "usage": {
+      "en": "Object. Sometimes ironic about rigid rules.",
+      "zh": "多作宾语，有时含讽刺。"
+    },
+    "synonyms": [
+      "天经地义",
+      "清规戒律"
+    ],
+    "antonyms": [
+      "一纸空文",
+      "离经叛道"
+    ]
+  },
+  {
+    "id": "hua-li-hu-shao",
+    "text": "花里胡哨",
+    "pinyin": "huā lǐ hú shào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "deception-and-false-appearances"
+    ],
+    "literal": "flowery · (filler) · (filler) · (filler)",
+    "natural": "Gaudy and showy",
+    "meaning": {
+      "en": "Gaudy and flashy; showy without substance.",
+      "zh": "形容颜色过分鲜艳繁杂，也比喻浮华不实在。"
+    },
+    "equivalents": [
+      "gaudy",
+      "flashy",
+      "over the top",
+      "all fur coat and no knickers"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服花里胡哨的，我不喜欢。",
+        "en": "This outfit is too gaudy for my taste."
+      },
+      {
+        "zh": "别搞那些花里胡哨的，实用最重要。",
+        "en": "Never mind the bells and whistles — practicality matters most."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Colloquial; 里 is often neutral in speech (huāli húshào).",
+      "zh": "多作谓语、定语，口语。"
+    },
+    "synonyms": [
+      "华而不实",
+      "五颜六色",
+      "浓妆艳抹"
+    ],
+    "antonyms": [
+      "朴实无华",
+      "简洁大方"
+    ]
+  }
+]
