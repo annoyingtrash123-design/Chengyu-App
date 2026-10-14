@@ -45,8 +45,12 @@ function chipGroup<T>(values: T[], selected: T[], text: (v: T) => string, onTogg
 /** Broad themes as chips; each selected or expanded broad theme shows its detailed themes. */
 function themePicker(f: Filters, onChange: () => void) {
   const meta = state.meta!;
-  const groups = meta.themes.filter((x) => !x.group);
-  const children = (g: string) => meta.themes.filter((x) => x.group === g);
+  // Only themes that have entries (plus any already selected), each with its count.
+  const count = (id: string) => meta.theme_counts?.[id] ?? 0;
+  const visible = (id: string) => count(id) > 0 || f.themes.includes(id);
+  const groups = meta.themes.filter((x) => !x.group && visible(x.id));
+  const children = (g: string) => meta.themes.filter((x) => x.group === g && visible(x.id));
+  const named = (id: string) => `${themeLabel(id)} (${count(id)})`;
   const open = new Set(groups.filter((g) => f.themes.includes(g.id) || children(g.id).some((c) => f.themes.includes(c.id))).map((g) => g.id));
   const wrap = h("div", { class: "theme-picker" });
   const toggle = (id: string) => {
@@ -68,7 +72,7 @@ function themePicker(f: Filters, onChange: () => void) {
             h(
               "button",
               { class: `chip ${f.themes.includes(g.id) ? "on" : ""}`, onclick: () => { toggle(g.id); draw(); } },
-              themeLabel(g.id),
+              named(g.id),
             ),
             kids.length
               ? h(
@@ -87,7 +91,7 @@ function themePicker(f: Filters, onChange: () => void) {
                 "div",
                 { class: "chip-group theme-children" },
                 kids.map((c) =>
-                  h("button", { class: `chip small ${f.themes.includes(c.id) ? "on" : ""}`, onclick: () => { toggle(c.id); draw(); } }, themeLabel(c.id)),
+                  h("button", { class: `chip small ${f.themes.includes(c.id) ? "on" : ""}`, onclick: () => { toggle(c.id); draw(); } }, named(c.id)),
                 ),
               )
             : null,

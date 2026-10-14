@@ -172,9 +172,20 @@ impl App {
                 structures.sort();
                 structures.dedup();
                 let count = |k: Kind| self.dict.entries().iter().filter(|e| e.kind == k).count();
+                // Entries per theme (a broad theme counts everything under it).
+                let theme_counts: serde_json::Map<String, Value> = self
+                    .dict
+                    .themes
+                    .iter()
+                    .map(|t| {
+                        let n = self.dict.entries().iter().filter(|e| self.dict.has_theme(e, &t.id)).count();
+                        (t.id.clone(), json!(n))
+                    })
+                    .collect();
                 json!({
                     "total": self.dict.len(),
                     "themes": self.dict.themes,
+                    "theme_counts": theme_counts,
                     "structures": structures,
                     "kinds": {
                         "chengyu": count(Kind::Chengyu),
@@ -427,6 +438,15 @@ mod tests {
         let s = call(&mut app, "stats", json!({"today": 100}));
         assert_eq!(s["learning"], 2);
         assert_eq!(s["streak"], 1);
+    }
+
+    #[test]
+    fn meta_counts_themes_including_groups() {
+        let mut app = App::new(None);
+        let m = call(&mut app, "meta", json!({}));
+        let animals = m["theme_counts"]["animals"].as_u64().unwrap();
+        let direct = app.dict.entries().iter().filter(|e| e.themes.iter().any(|t| t == "animals")).count() as u64;
+        assert!(animals >= direct && animals > 0);
     }
 
     #[test]

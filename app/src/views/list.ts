@@ -1,14 +1,33 @@
 import { api } from "../api";
 import { activeFilterCount, emptyFilters } from "../filters";
+import type { Filters } from "../types";
 import { h, clear, en, entryRow, pageHeader } from "../ui";
 import { filterPanel, filterSummary } from "./filterpanel";
 
-// Kept between visits so the list stays as you left it.
-const saved = { filters: emptyFilters() };
+// Kept between visits, and across app restarts, so the list stays as you left it.
+const LIST_KEY = "chengyu-list-filters";
+function loadSaved(): Filters {
+  try {
+    const raw = localStorage.getItem(LIST_KEY);
+    if (raw) return { ...emptyFilters(), ...JSON.parse(raw) };
+  } catch {
+    // ignore
+  }
+  return emptyFilters();
+}
+function persist() {
+  try {
+    localStorage.setItem(LIST_KEY, JSON.stringify(saved.filters));
+  } catch {
+    // ignore
+  }
+}
+const saved = { filters: loadSaved() };
 
 /** Open the List tab showing a single theme (used by theme chips on entry pages). */
 export function showTheme(theme: string) {
   saved.filters = { ...emptyFilters(), themes: [theme] };
+  persist();
   location.hash = "#/list";
 }
 
@@ -59,6 +78,7 @@ export async function renderList(root: HTMLElement) {
   }
 
   async function load(reset: boolean) {
+    persist();
     const mine = ++seq;
     if (reset) offset = 0;
     const r = await api.search("", saved.filters, offset, PAGE);

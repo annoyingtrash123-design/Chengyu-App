@@ -86,6 +86,7 @@ export interface Theme {
 export interface Meta {
   total: number;
   themes: Theme[];
+  theme_counts: Record<string, number>;
   structures: string[];
   kinds: Record<Kind, number>;
 }

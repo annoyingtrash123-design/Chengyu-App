@@ -10,6 +10,12 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.7",
+    date: "2026-10-14",
+    en: ["List: themes show how many entries they have; empty themes are hidden.", "List remembers your type and theme selection."],
+    zh: ["列表：主题显示词条数量，空主题自动隐藏。", "列表会记住你选择的类型和主题。"],
+  },
+  {
     version: "0.6",
     date: "2026-10-14",
     en: ["Page headings are now red.", "Simpler Me tab: removed the daily goal, backups and (in the web app) reminders."],
