@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "lei-liu-man-mian",
+    "text": "泪流满面",
+    "pinyin": "lèi liú mǎn miàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "emotions",
+      "body"
+    ],
+    "literal": "tears · flow · full · face",
+    "natural": "face streaming with tears",
+    "meaning": {
+      "en": "Tears streaming down one's face.",
+      "zh": "眼泪流得满脸都是。"
+    },
+    "equivalents": [
+      "in floods of tears",
+      "tears streaming down one's face"
+    ],
+    "examples": [
+      {
+        "zh": "听到噩耗，她泪流满面。",
+        "en": "Hearing the terrible news, her face was streaming with tears."
+      },
+      {
+        "zh": "看到久别的儿子，母亲激动得泪流满面。",
+        "en": "Seeing her long-lost son, the mother wept with emotion."
+      }
+    ],
+    "usage": {
+      "en": "Sadness or strong emotion (including joy).",
+      "zh": "可因悲伤，也可因激动。"
+    },
+    "synonyms": [
+      "热泪盈眶",
+      "泣不成声"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ]
+  },
+  {
+    "id": "zhi-yan-bu-hui",
+    "text": "直言不讳",
+    "pinyin": "zhí yán bù huì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech"
+    ],
+    "literal": "straight · speak · not · avoid",
+    "natural": "speak frankly",
+    "meaning": {
+      "en": "To speak frankly, without holding back.",
+      "zh": "说话坦率，毫无顾忌。"
+    },
+    "equivalents": [
+      "speak bluntly",
+      "not mince words",
+      "call a spade a spade"
+    ],
+    "examples": [
+      {
+        "zh": "他直言不讳地指出了方案的问题。",
+        "en": "He bluntly pointed out the problems with the plan."
+      },
+      {
+        "zh": "朋友之间应该直言不讳。",
+        "en": "Friends should speak frankly to each other."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "开门见山",
+      "畅所欲言",
+      "一针见血"
+    ],
+    "antonyms": [
+      "拐弯抹角",
+      "吞吞吐吐",
+      "含糊其辞"
+    ]
+  },
+  {
+    "id": "yi-wu-fan-gu",
+    "text": "义无反顾",
+    "pinyin": "yì wú fǎn gù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "righteousness · no · turn · look back",
+    "natural": "without hesitation",
+    "meaning": {
+      "en": "Going forward resolutely for a just cause, never looking back.",
+      "zh": "为了正义勇往直前，绝不退缩回顾。"
+    },
+    "equivalents": [
+      "without hesitation",
+      "unflinchingly",
+      "resolutely"
+    ],
+    "examples": [
+      {
+        "zh": "他义无反顾地投身抗洪一线。",
+        "en": "He threw himself into the flood front line without hesitation."
+      },
+      {
+        "zh": "为了梦想，她义无反顾地辞职创业。",
+        "en": "For her dream, she resolutely quit to start a business."
+      }
+    ],
+    "origin": {
+      "source": "汉·司马相如《喻巴蜀檄》",
+      "story": {
+        "en": "Sima Xiangru praised loyal subjects who 'rushed into danger without turning to look back, their duty forbidding it' (义不反顾).",
+        "zh": "司马相如《喻巴蜀檄》：“触白刃，冒流矢，义不反顾，计不旋踵。”"
+      }
+    },
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "勇往直前",
+      "奋不顾身"
+    ],
+    "antonyms": [
+      "畏首畏尾",
+      "犹豫不决",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "bian-di-kai-hua",
+    "text": "遍地开花",
+    "pinyin": "biàn dì kāi huā",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "plant-and-natural-world"
+    ],
+    "literal": "everywhere · bloom · flowers",
+    "natural": "spring up everywhere",
+    "meaning": {
+      "en": "To spring up everywhere.",
+      "zh": "比喻好的事物到处出现。"
+    },
+    "equivalents": [
+      "spring up everywhere",
+      "spread far and wide"
+    ],
+    "examples": [
+      {
+        "zh": "共享单车在各大城市遍地开花。",
+        "en": "Shared bikes sprang up in every big city."
+      },
+      {
+        "zh": "这种小店在全国遍地开花。",
+        "en": "Shops like this have spread all over the country."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral to positive.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "雨后春笋",
+      "比比皆是"
+    ],
+    "antonyms": [
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "mu-ming-er-lai",
+    "text": "慕名而来",
+    "pinyin": "mù míng ér lái",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "journeys-and-exploration"
+    ],
+    "literal": "admire · name · and · come",
+    "natural": "come because of the fame",
+    "meaning": {
+      "en": "To come because of someone's or something's reputation.",
+      "zh": "仰慕名声而来。"
+    },
+    "equivalents": [
+      "drawn by the reputation",
+      "come specially"
+    ],
+    "examples": [
+      {
+        "zh": "很多游客慕名而来。",
+        "en": "Many tourists come here drawn by its fame."
+      },
+      {
+        "zh": "学生们慕名而来，听他讲课。",
+        "en": "Students flock to his lectures because of his reputation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "闻名遐迩"
+    ],
+    "antonyms": [
+      "无人问津"
+    ]
+  },
+  {
+    "id": "xing-zhi-bo-bo",
+    "text": "兴致勃勃",
+    "pinyin": "xìng zhì bó bó",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions"
+    ],
+    "literal": "interest · vigorous",
+    "natural": "full of enthusiasm",
+    "meaning": {
+      "en": "In high spirits and full of interest.",
+      "zh": "兴头很足。"
+    },
+    "equivalents": [
+      "eagerly",
+      "with great enthusiasm",
+      "keen"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们兴致勃勃地参观了动物园。",
+        "en": "The children visited the zoo with great enthusiasm."
+      },
+      {
+        "zh": "他兴致勃勃地给我们讲他的旅行。",
+        "en": "He eagerly told us about his travels."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial. 兴 is xìng.",
+      "zh": "多作状语，“兴”读xìng。"
+    },
+    "synonyms": [
+      "兴高采烈",
+      "饶有兴趣"
+    ],
+    "antonyms": [
+      "兴味索然",
+      "无精打采",
+      "意兴阑珊"
+    ]
+  },
+  {
+    "id": "jia-chang-bian-fan",
+    "text": "家常便饭",
+    "pinyin": "jiā cháng biàn fàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "daily",
+      "food"
+    ],
+    "literal": "home · usual · simple · meal",
+    "natural": "an everyday occurrence",
+    "meaning": {
+      "en": "Ordinary home food; something that happens all the time.",
+      "zh": "家中日常的饭食，比喻常见的事。"
+    },
+    "equivalents": [
+      "par for the course",
+      "an everyday thing",
+      "home cooking"
+    ],
+    "examples": [
+      {
+        "zh": "对他来说，加班是家常便饭。",
+        "en": "For him, overtime is par for the course."
+      },
+      {
+        "zh": "今天请你吃顿家常便饭。",
+        "en": "Let me treat you to a simple home-cooked meal today."
+      }
+    ],
+    "usage": {
+      "en": "The figurative sense is more common.",
+      "zh": "比喻义更常用。"
+    },
+    "synonyms": [
+      "司空见惯",
+      "习以为常",
+      "屡见不鲜"
+    ],
+    "antonyms": [
+      "破天荒",
+      "千载难逢"
+    ]
+  },
+  {
+    "id": "yi-xi-zhi-di",
+    "text": "一席之地",
+    "pinyin": "yī xí zhī dì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "one · mat · 's · place",
+    "natural": "a place of one's own",
+    "meaning": {
+      "en": "A small place or position; a foothold.",
+      "zh": "放一张席子的地方，比喻应有的一个位置。"
+    },
+    "equivalents": [
+      "a foothold",
+      "a place",
+      "a niche"
+    ],
+    "examples": [
+      {
+        "zh": "这家小公司在市场上占有了一席之地。",
+        "en": "The small firm has carved out a niche in the market."
+      },
+      {
+        "zh": "她在文坛有一席之地。",
+        "en": "She has a place in the literary world."
+      }
+    ],
+    "usage": {
+      "en": "Usually 占有/争得一席之地.",
+      "zh": "常说“占有（争得）一席之地”。"
+    },
+    "synonyms": [
+      "立足之地"
+    ],
+    "antonyms": [
+      "无立锥之地"
+    ]
+  },
+  {
+    "id": "zi-shi-zhi-zhong",
+    "text": "自始至终",
+    "pinyin": "zì shǐ zhì zhōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time"
+    ],
+    "literal": "from · start · to · end",
+    "natural": "from beginning to end",
+    "meaning": {
+      "en": "From start to finish.",
+      "zh": "从开始到结束。"
+    },
+    "equivalents": [
+      "from start to finish",
+      "throughout",
+      "all along"
+    ],
+    "examples": [
+      {
+        "zh": "他自始至终都没说一句话。",
+        "en": "He didn't say a word from start to finish."
+      },
+      {
+        "zh": "她自始至终支持我。",
+        "en": "She supported me all along."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "始终如一",
+      "有始有终",
+      "从头到尾"
+    ],
+    "antonyms": [
+      "半途而废",
+      "虎头蛇尾"
+    ]
+  },
+  {
+    "id": "zhuo-jin-jian-zhou",
+    "text": "捉襟见肘",
+    "pinyin": "zhuō jīn jiàn zhǒu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poverty-and-hardship",
+      "business-failure",
+      "daoist-classics"
+    ],
+    "literal": "pull · lapel · expose · elbow",
+    "natural": "stretched thin",
+    "meaning": {
+      "en": "Too poor or short of resources to cope.",
+      "zh": "拉一下衣襟就露出胳膊肘，形容衣衫破烂，比喻困难重重、应付不过来。"
+    },
+    "equivalents": [
+      "stretched thin",
+      "making ends meet with difficulty",
+      "short of resources"
+    ],
+    "examples": [
+      {
+        "zh": "资金不足，公司显得捉襟见肘。",
+        "en": "Short of funds, the company is stretched thin."
+      },
+      {
+        "zh": "几个项目同时进行，人手捉襟见肘。",
+        "en": "With several projects at once, we're short-handed."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·让王》",
+      "story": {
+        "en": "Zengzi, living in Wei in great poverty, wore such a ragged robe that 'when he adjusted his collar, his elbows showed' (捉衿而肘见).",
+        "zh": "《庄子》记曾子居卫，贫困，“捉衿而肘见，纳屦而踵决”。"
+      }
+    },
+    "usage": {
+      "en": "见 is jiàn (= 现, expose). Now mostly about resources.",
+      "zh": "现多指人力、财力不足。"
+    },
+    "synonyms": [
+      "入不敷出",
+      "左支右绌",
+      "顾此失彼"
+    ],
+    "antonyms": [
+      "绰绰有余",
+      "游刃有余",
+      "应付自如"
+    ]
+  },
+  {
+    "id": "ju-zhi-men-wai",
+    "text": "拒之门外",
+    "pinyin": "jù zhī mén wài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "conflict-and-strife"
+    ],
+    "literal": "refuse · them · door · outside",
+    "natural": "shut out",
+    "meaning": {
+      "en": "To shut someone out; to refuse entry.",
+      "zh": "把人挡在门外，比喻拒绝合作或接受。"
+    },
+    "equivalents": [
+      "shut out",
+      "turn away",
+      "refuse entry"
+    ],
+    "examples": [
+      {
+        "zh": "没有门票的观众被拒之门外。",
+        "en": "Spectators without tickets were turned away."
+      },
+      {
+        "zh": "别把好的建议拒之门外。",
+        "en": "Don't shut out good suggestions."
+      }
+    ],
+    "usage": {
+      "en": "Usually passive: 被拒之门外.",
+      "zh": "多用被动：被拒之门外。"
+    },
+    "synonyms": [
+      "拒人千里"
+    ],
+    "antonyms": [
+      "热情好客",
+      "宾至如归"
+    ]
+  },
+  {
+    "id": "wang-er-que-bu",
+    "text": "望而却步",
+    "pinyin": "wàng ér què bù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "giving-up-and-weakness"
+    ],
+    "literal": "look · and · retreat · step",
+    "natural": "be put off",
+    "meaning": {
+      "en": "To shrink back at the sight of something daunting.",
+      "zh": "看到了危险或力不能及的事而往后退缩。"
+    },
+    "equivalents": [
+      "be put off",
+      "be daunted",
+      "shy away"
+    ],
+    "examples": [
+      {
+        "zh": "高昂的房价让年轻人望而却步。",
+        "en": "Sky-high house prices put young people off."
+      },
+      {
+        "zh": "这道难题让很多人望而却步。",
+        "en": "The difficult problem daunted many people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 让人望而却步.",
+      "zh": "常说“让人望而却步”。"
+    },
+    "synonyms": [
+      "畏缩不前",
+      "知难而退"
+    ],
+    "antonyms": [
+      "知难而进",
+      "勇往直前",
+      "迎难而上"
+    ]
+  },
+  {
+    "id": "nan-neng-ke-gui",
+    "text": "难能可贵",
+    "pinyin": "nán néng kě guì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character",
+      "poems-prose"
+    ],
+    "literal": "hard · achieve · worthy · valuable",
+    "natural": "commendable",
+    "meaning": {
+      "en": "Admirable because difficult to achieve.",
+      "zh": "难做到的事居然做到了，非常可贵。"
+    },
+    "equivalents": [
+      "commendable",
+      "admirable",
+      "praiseworthy"
+    ],
+    "examples": [
+      {
+        "zh": "他这么小就懂得照顾父母，真是难能可贵。",
+        "en": "It's remarkable that someone so young knows how to care for his parents."
+      },
+      {
+        "zh": "在逆境中坚持理想，难能可贵。",
+        "en": "Holding onto ideals in adversity is truly admirable."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《荀卿论》",
+      "story": {
+        "en": "Su Shi: 'These three things are what the world calls hard to achieve and therefore precious' (难能而可贵者也).",
+        "zh": "苏轼《荀卿论》：“此三者，皆天下之所谓难能而可贵者也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "可歌可泣"
+    ],
+    "antonyms": [
+      "不足为奇",
+      "司空见惯"
+    ]
+  },
+  {
+    "id": "lai-long-qu-mai",
+    "text": "来龙去脉",
+    "pinyin": "lái lóng qù mài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "mental-clarity"
+    ],
+    "literal": "coming · dragon · going · vein",
+    "natural": "the whole story",
+    "meaning": {
+      "en": "The origin and development of something; the ins and outs.",
+      "zh": "比喻人或事物的来历及前因后果。"
+    },
+    "equivalents": [
+      "the ins and outs",
+      "the whole story",
+      "background"
+    ],
+    "examples": [
+      {
+        "zh": "请把事情的来龙去脉说清楚。",
+        "en": "Please explain the whole story."
+      },
+      {
+        "zh": "记者弄清了事件的来龙去脉。",
+        "en": "The reporter got to the bottom of the ins and outs."
+      }
+    ],
+    "usage": {
+      "en": "From geomancy: a mountain ridge seen as a dragon's body and veins.",
+      "zh": "源自风水，把山势比作龙脉。"
+    },
+    "synonyms": [
+      "前因后果",
+      "始末"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bu-mou-er-he",
+    "text": "不谋而合",
+    "pinyin": "bù móu ér hé",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "wisdom"
+    ],
+    "literal": "not · plan · yet · agree",
+    "natural": "think alike",
+    "meaning": {
+      "en": "To agree without prior consultation.",
+      "zh": "事先没有商量过，意见或行动却完全一致。"
+    },
+    "equivalents": [
+      "great minds think alike",
+      "coincide",
+      "agree without conferring"
+    ],
+    "examples": [
+      {
+        "zh": "我们的想法不谋而合。",
+        "en": "Great minds think alike — we had the same idea."
+      },
+      {
+        "zh": "两家公司的方案不谋而合。",
+        "en": "The two companies' plans coincided exactly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for opinions and plans.",
+      "zh": "多作谓语，用于看法、计划。"
+    },
+    "synonyms": [
+      "不约而同",
+      "英雄所见略同"
+    ],
+    "antonyms": [
+      "各执一词",
+      "众说纷纭"
+    ]
+  },
+  {
+    "id": "qing-qing-chu-chu",
+    "text": "清清楚楚",
+    "pinyin": "qīng qīng chǔ chǔ",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "mental-clarity"
+    ],
+    "literal": "clear · clear",
+    "natural": "crystal clear",
+    "meaning": {
+      "en": "Perfectly clear.",
+      "zh": "非常清楚。"
+    },
+    "equivalents": [
+      "crystal clear",
+      "perfectly clear"
+    ],
+    "examples": [
+      {
+        "zh": "他把规则讲得清清楚楚。",
+        "en": "He explained the rules perfectly clearly."
+      },
+      {
+        "zh": "那天的事我记得清清楚楚。",
+        "en": "I remember that day crystal clearly."
+      }
+    ],
+    "usage": {
+      "en": "Reduplicated adjective; after 得.",
+      "zh": "重叠形式，多作补语。"
+    },
+    "synonyms": [
+      "一清二楚",
+      "明明白白"
+    ],
+    "antonyms": [
+      "模模糊糊",
+      "稀里糊涂",
+      "云里雾里"
+    ]
+  },
+  {
+    "id": "da-da-chu-shou",
+    "text": "大打出手",
+    "pinyin": "dà dǎ chū shǒu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "greatly · fight · throw · hands",
+    "natural": "come to blows",
+    "meaning": {
+      "en": "To start a violent fight.",
+      "zh": "逞强打人或互相殴斗。"
+    },
+    "equivalents": [
+      "come to blows",
+      "start a brawl",
+      "throw punches"
+    ],
+    "examples": [
+      {
+        "zh": "两个司机因为一点小事大打出手。",
+        "en": "Two drivers came to blows over a trifle."
+      },
+      {
+        "zh": "球迷在场外大打出手。",
+        "en": "Fans brawled outside the stadium."
+      }
+    ],
+    "usage": {
+      "en": "Originally an opera term for acrobatic fight scenes.",
+      "zh": "原为戏曲武打术语。"
+    },
+    "synonyms": [
+      "拳打脚踢",
+      "兵戎相见"
+    ],
+    "antonyms": [
+      "握手言和",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "tong-zhou-gong-ji",
+    "text": "同舟共济",
+    "pinyin": "tóng zhōu gòng jì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "danger",
+      "military-strategy-and-victory"
+    ],
+    "literal": "same · boat · together · cross",
+    "natural": "in the same boat",
+    "meaning": {
+      "en": "To pull together through difficulties.",
+      "zh": "坐一条船，共同渡河，比喻团结互助，同心协力。"
+    },
+    "equivalents": [
+      "in the same boat",
+      "pull together",
+      "weather the storm together"
+    ],
+    "examples": [
+      {
+        "zh": "面对危机，我们要同舟共济。",
+        "en": "Facing the crisis, we must pull together."
+      },
+      {
+        "zh": "一家人同舟共济，渡过了难关。",
+        "en": "The family stuck together and got through the hard times."
+      }
+    ],
+    "origin": {
+      "source": "《孙子·九地》",
+      "story": {
+        "en": "Sunzi: 'The men of Wu and Yue hate each other, but if they cross a river in the same boat and meet a storm, they help each other like left and right hands.'",
+        "zh": "《孙子》：“夫吴人与越人相恶也，当其同舟而济，遇风，其相救也如左右手。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; speeches on solidarity.",
+      "zh": "多作谓语，多用于号召团结。"
+    },
+    "synonyms": [
+      "齐心协力",
+      "风雨同舟",
+      "患难与共"
+    ],
+    "antonyms": [
+      "各自为政",
+      "同床异梦",
+      "落井下石"
+    ]
+  },
+  {
+    "id": "yu-hou-chun-sun",
+    "text": "雨后春笋",
+    "pinyin": "yǔ hòu chūn sǔn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "plant-and-natural-world",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "rain · after · spring · bamboo shoots",
+    "natural": "like mushrooms",
+    "meaning": {
+      "en": "Springing up rapidly in large numbers.",
+      "zh": "春雨后长出的竹笋，比喻新事物大量涌现。"
+    },
+    "equivalents": [
+      "spring up like mushrooms",
+      "mushroom"
+    ],
+    "examples": [
+      {
+        "zh": "新兴企业如雨后春笋般涌现。",
+        "en": "Start-ups are springing up like mushrooms."
+      },
+      {
+        "zh": "奶茶店像雨后春笋一样遍布街头。",
+        "en": "Bubble-tea shops have mushroomed on every street."
+      }
+    ],
+    "usage": {
+      "en": "Usually 如/像雨后春笋般.",
+      "zh": "常说“如雨后春笋般”。"
+    },
+    "synonyms": [
+      "遍地开花",
+      "层出不穷"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "凤毛麟角"
+    ]
+  },
+  {
+    "id": "qi-bu-cheng-sheng",
+    "text": "泣不成声",
+    "pinyin": "qì bù chéng shēng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "emotions"
+    ],
+    "literal": "weep · not · form · voice",
+    "natural": "choked with sobs",
+    "meaning": {
+      "en": "Crying so hard one cannot speak.",
+      "zh": "哭得说不出话来。"
+    },
+    "equivalents": [
+      "choked with tears",
+      "sobbing uncontrollably"
+    ],
+    "examples": [
+      {
+        "zh": "说到伤心处，她泣不成声。",
+        "en": "When she reached the sad part, she was choked with sobs."
+      },
+      {
+        "zh": "葬礼上，家属泣不成声。",
+        "en": "At the funeral the family wept uncontrollably."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "泪流满面",
+      "痛哭流涕"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "谈笑自若"
+    ]
+  },
+  {
+    "id": "wu-ren-wen-jin",
+    "text": "无人问津",
+    "pinyin": "wú rén wèn jīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "business-failure",
+      "complete-failure-and-obscurity",
+      "poems-prose"
+    ],
+    "literal": "no · one · ask · ford",
+    "natural": "no one shows any interest",
+    "meaning": {
+      "en": "Nobody shows any interest.",
+      "zh": "没有人来询问、尝试。"
+    },
+    "equivalents": [
+      "no takers",
+      "neglected",
+      "gathering dust"
+    ],
+    "examples": [
+      {
+        "zh": "这套房子挂牌一年，无人问津。",
+        "en": "The house has been on the market for a year with no takers."
+      },
+      {
+        "zh": "他的作品生前无人问津。",
+        "en": "His work was ignored during his lifetime."
+      }
+    ],
+    "origin": {
+      "source": "晋·陶渊明《桃花源记》",
+      "story": {
+        "en": "After the fisherman's visit, the scholar Liu Ziji set out to find the Peach Blossom Spring but died before he could; 'after that, no one asked the way to the ford' (后遂无问津者).",
+        "zh": "《桃花源记》结尾：刘子骥欲寻桃花源，未果而病终，“后遂无问津者”。"
+      }
+    },
+    "usage": {
+      "en": "问津: 'ask the way to the ford', from 《桃花源记》.",
+      "zh": "“问津”意为打听渡口，出自《桃花源记》。"
+    },
+    "synonyms": [
+      "门可罗雀",
+      "鲜为人知"
+    ],
+    "antonyms": [
+      "供不应求",
+      "慕名而来",
+      "趋之若鹜"
+    ]
+  },
+  {
+    "id": "ying-you-jin-you",
+    "text": "应有尽有",
+    "pinyin": "yīng yǒu jìn yǒu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "daily"
+    ],
+    "literal": "should · have · all · have",
+    "natural": "everything you could want",
+    "meaning": {
+      "en": "Everything that should be there is there.",
+      "zh": "应该有的全都有了。"
+    },
+    "equivalents": [
+      "everything you could want",
+      "has it all"
+    ],
+    "examples": [
+      {
+        "zh": "这个商场吃喝玩乐应有尽有。",
+        "en": "This mall has everything for food, drink and fun."
+      },
+      {
+        "zh": "网上的资源应有尽有。",
+        "en": "Online resources cover everything you could want."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一应俱全",
+      "琳琅满目"
+    ],
+    "antonyms": [
+      "一无所有",
+      "空空如也"
+    ]
+  },
+  {
+    "id": "yin-yi-wei-jie",
+    "text": "引以为戒",
+    "pinyin": "yǐn yǐ wéi jiè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "wisdom"
+    ],
+    "literal": "take · as · warning",
+    "natural": "take as a warning",
+    "meaning": {
+      "en": "To learn a lesson from someone else's mistake.",
+      "zh": "把过去的错误或别人的教训拿来作为警戒。"
+    },
+    "equivalents": [
+      "take as a warning",
+      "learn from it"
+    ],
+    "examples": [
+      {
+        "zh": "这起事故值得我们引以为戒。",
+        "en": "We should take this accident as a warning."
+      },
+      {
+        "zh": "对他的失败，大家要引以为戒。",
+        "en": "Everyone should learn from his failure."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "前车之鉴",
+      "吸取教训"
+    ],
+    "antonyms": [
+      "重蹈覆辙",
+      "执迷不悟"
+    ]
+  },
+  {
+    "id": "yi-jun-tu-qi",
+    "text": "异军突起",
+    "pinyin": "yì jūn tū qǐ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "success",
+      "historical-records"
+    ],
+    "literal": "different · army · suddenly · rise",
+    "natural": "burst onto the scene",
+    "meaning": {
+      "en": "A new force suddenly emerging.",
+      "zh": "一支新的队伍突然崛起，比喻新的力量突然出现。"
+    },
+    "equivalents": [
+      "burst onto the scene",
+      "a dark horse",
+      "rise suddenly"
+    ],
+    "examples": [
+      {
+        "zh": "这家新公司在手机市场异军突起。",
+        "en": "The new company burst onto the phone market."
+      },
+      {
+        "zh": "本届比赛一支新球队异军突起。",
+        "en": "A new team emerged as the dark horse of this tournament."
+      }
+    ],
+    "origin": {
+      "source": "《史记·项羽本纪》",
+      "story": {
+        "en": "When Chen She rose against the Qin, a separate army (异军) of men in black headscarves 'rose specially' in Dongyang (异军苍头特起).",
+        "zh": "《史记》记秦末东阳少年起事，“异军苍头特起”。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "崭露头角",
+      "后起之秀"
+    ],
+    "antonyms": [
+      "销声匿迹",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "bo-lan-zhuang-kuo",
+    "text": "波澜壮阔",
+    "pinyin": "bō lán zhuàng kuò",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "nature",
+      "historical-periods",
+      "excellent-writing"
+    ],
+    "literal": "waves · grand · vast",
+    "natural": "magnificent in scale",
+    "meaning": {
+      "en": "Vast and surging; grand in scale.",
+      "zh": "比喻声势雄壮或规模宏大。"
+    },
+    "equivalents": [
+      "magnificent",
+      "epic",
+      "sweeping"
+    ],
+    "examples": [
+      {
+        "zh": "这部小说再现了波澜壮阔的历史画卷。",
+        "en": "The novel recreates an epic panorama of history."
+      },
+      {
+        "zh": "大海波澜壮阔。",
+        "en": "The sea surged vast and magnificent."
+      }
+    ],
+    "usage": {
+      "en": "For history, movements, writing, the sea.",
+      "zh": "多形容历史、运动、文章、大海。"
+    },
+    "synonyms": [
+      "气势磅礴",
+      "轰轰烈烈"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "平淡无奇"
+    ]
+  }
+]
