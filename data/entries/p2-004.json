@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "e-xing-xun-huan",
+    "text": "恶性循环",
+    "pinyin": "è xìng xún huán",
+    "kind": "phrase",
+    "frequency": 1,
+    "modern": "borrowed",
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chain-reactions",
+      "circular-conclusions"
+    ],
+    "literal": "malignant · cycle",
+    "natural": "vicious circle",
+    "meaning": {
+      "en": "A cycle in which problems keep making each other worse.",
+      "zh": "坏结果与坏原因互相影响，越来越坏。"
+    },
+    "equivalents": [
+      "vicious circle",
+      "downward spiral"
+    ],
+    "examples": [
+      {
+        "zh": "熬夜、疲劳、效率低，形成了恶性循环。",
+        "en": "Staying up late, tiredness and low efficiency form a vicious circle."
+      },
+      {
+        "zh": "要打破贫困的恶性循环。",
+        "en": "We must break the vicious circle of poverty."
+      },
+      {
+        "zh": "越焦虑越睡不着，越睡不着越焦虑，真是恶性循环。",
+        "en": "The more anxious, the less sleep; the less sleep, the more anxious — a real vicious circle."
+      }
+    ],
+    "usage": {
+      "en": "Usually 形成/陷入/打破恶性循环. Opposite 良性循环.",
+      "zh": "常说“形成（陷入、打破）恶性循环”，反义“良性循环”。"
+    },
+    "synonyms": [
+      "连锁反应"
+    ],
+    "antonyms": [
+      "良性循环"
+    ]
+  },
+  {
+    "id": "ju-shi-zhu-mu",
+    "text": "举世瞩目",
+    "pinyin": "jǔ shì zhǔ mù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "news-and-officialese"
+    ],
+    "literal": "whole · world · fix · eyes",
+    "natural": "the focus of world attention",
+    "meaning": {
+      "en": "Attracting the attention of the whole world.",
+      "zh": "全世界的人都注视着。"
+    },
+    "equivalents": [
+      "world-famous",
+      "in the world spotlight",
+      "remarkable"
+    ],
+    "examples": [
+      {
+        "zh": "中国经济取得了举世瞩目的成就。",
+        "en": "China's economy has achieved remarkable results that the world has noticed."
+      },
+      {
+        "zh": "这场婚礼举世瞩目。",
+        "en": "The wedding was the focus of world attention."
+      }
+    ],
+    "usage": {
+      "en": "Usually attributive: 举世瞩目的成就.",
+      "zh": "多作定语：举世瞩目的成就。"
+    },
+    "synonyms": [
+      "引人注目",
+      "举世闻名"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "鲜为人知"
+    ]
+  },
+  {
+    "id": "zai-jie-zai-li",
+    "text": "再接再厉",
+    "pinyin": "zài jiē zài lì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "essay-favourites",
+      "poems-prose"
+    ],
+    "literal": "again · engage · again · sharpen",
+    "natural": "keep up the good work",
+    "meaning": {
+      "en": "To keep striving and do even better.",
+      "zh": "一次又一次地继续努力。"
+    },
+    "equivalents": [
+      "keep up the good work",
+      "build on one's success",
+      "keep at it"
+    ],
+    "examples": [
+      {
+        "zh": "这次考得不错，希望你再接再厉。",
+        "en": "Good result this time — keep up the good work."
+      },
+      {
+        "zh": "球队再接再厉，又赢了一场。",
+        "en": "The team kept it up and won another match."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈、孟郊《斗鸡联句》",
+      "story": {
+        "en": "In a linked verse on cockfighting, Han Yu describes a cock that, sprayed with water to revive it, 'sharpens its beak and engages again' (再接再砺乃). 砺 'whetstone' later became 厉.",
+        "zh": "韩愈、孟郊《斗鸡联句》：“一喷一醒然，再接再砺乃。”写斗鸡磨嘴再战，“砺”后写作“厉”。"
+      }
+    },
+    "usage": {
+      "en": "Often as encouragement after success. Not 再接再励.",
+      "zh": "常用于成功后的鼓励。注意不写作“再接再励”。"
+    },
+    "synonyms": [
+      "精益求精",
+      "乘胜追击"
+    ],
+    "antonyms": [
+      "半途而废",
+      "一蹶不振",
+      "前功尽弃"
+    ]
+  },
+  {
+    "id": "zu-bu-chu-hu",
+    "text": "足不出户",
+    "pinyin": "zú bù chū hù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily",
+      "relaxation-and-rest"
+    ],
+    "literal": "feet · not · leave · door",
+    "natural": "never leave the house",
+    "meaning": {
+      "en": "Staying at home; not going out.",
+      "zh": "脚不跨出家门。"
+    },
+    "equivalents": [
+      "stay indoors",
+      "never set foot outside"
+    ],
+    "examples": [
+      {
+        "zh": "有了网购，足不出户就能买到东西。",
+        "en": "With online shopping you can buy things without leaving home."
+      },
+      {
+        "zh": "疫情期间，他足不出户整整一个月。",
+        "en": "During the pandemic he didn't leave the house for a whole month."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; now common about online life.",
+      "zh": "中性，现多用于网络生活。"
+    },
+    "synonyms": [
+      "闭门不出"
+    ],
+    "antonyms": [
+      "走南闯北",
+      "东奔西走"
+    ]
+  },
+  {
+    "id": "fei-tong-xun-chang",
+    "text": "非同寻常",
+    "pinyin": "fēi tóng xún cháng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "outstanding-character"
+    ],
+    "literal": "not · same · ordinary",
+    "natural": "out of the ordinary",
+    "meaning": {
+      "en": "Unusual; extraordinary.",
+      "zh": "不同于一般，很特别。"
+    },
+    "equivalents": [
+      "extraordinary",
+      "unusual",
+      "remarkable"
+    ],
+    "examples": [
+      {
+        "zh": "这次会议意义非同寻常。",
+        "en": "This meeting is of extraordinary significance."
+      },
+      {
+        "zh": "他们俩的关系非同寻常。",
+        "en": "Their relationship is out of the ordinary."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "非同小可",
+      "不同凡响",
+      "与众不同"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "司空见惯",
+      "稀松平常"
+    ]
+  },
+  {
+    "id": "ai-jia-ai-hu",
+    "text": "挨家挨户",
+    "pinyin": "āi jiā āi hù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "society",
+      "daily"
+    ],
+    "literal": "one by one · house · one by one · door",
+    "natural": "door to door",
+    "meaning": {
+      "en": "Going from house to house.",
+      "zh": "一家一户地挨着。"
+    },
+    "equivalents": [
+      "door to door",
+      "house to house"
+    ],
+    "examples": [
+      {
+        "zh": "志愿者挨家挨户地宣传防火知识。",
+        "en": "Volunteers went door to door spreading fire-safety tips."
+      },
+      {
+        "zh": "警察挨家挨户地寻找目击者。",
+        "en": "The police searched house to house for witnesses."
+      }
+    ],
+    "usage": {
+      "en": "挨 is āi (in sequence) here.",
+      "zh": "“挨”读āi，意为依次。"
+    },
+    "synonyms": [
+      "家家户户",
+      "千家万户"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bu-yi-er-fei",
+    "text": "不翼而飞",
+    "pinyin": "bù yì ér fēi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "no · wings · yet · fly",
+    "natural": "vanish into thin air",
+    "meaning": {
+      "en": "To disappear mysteriously; (of news) to spread fast.",
+      "zh": "没有翅膀却飞走了，比喻东西突然不见；也比喻消息传得很快。"
+    },
+    "equivalents": [
+      "vanish into thin air",
+      "go missing",
+      "spread like wildfire"
+    ],
+    "examples": [
+      {
+        "zh": "我放在桌上的钱包不翼而飞了。",
+        "en": "The wallet I left on the table has vanished."
+      },
+      {
+        "zh": "这个消息不翼而飞，很快传遍全城。",
+        "en": "The news spread like wildfire across the city."
+      }
+    ],
+    "usage": {
+      "en": "The 'vanished' sense is far commoner.",
+      "zh": "“不见了”一义更常用。"
+    },
+    "synonyms": [
+      "无影无踪",
+      "不胫而走"
+    ],
+    "antonyms": [
+      "失而复得",
+      "原封不动"
+    ]
+  },
+  {
+    "id": "cen-ci-bu-qi",
+    "text": "参差不齐",
+    "pinyin": "cēn cī bù qí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "uneven · not · even",
+    "natural": "uneven",
+    "meaning": {
+      "en": "Uneven in length, height or quality.",
+      "zh": "长短、高低、好坏不一致。"
+    },
+    "equivalents": [
+      "uneven",
+      "of mixed quality",
+      "patchy"
+    ],
+    "examples": [
+      {
+        "zh": "学生的水平参差不齐。",
+        "en": "The students' levels are very uneven."
+      },
+      {
+        "zh": "市场上的产品质量参差不齐。",
+        "en": "Product quality on the market is patchy."
+      },
+      {
+        "zh": "篱笆参差不齐，该修剪了。",
+        "en": "The hedge is uneven and needs trimming."
+      }
+    ],
+    "usage": {
+      "en": "参差 is cēn cī. Very common about quality.",
+      "zh": "“参差”读cēn cī，多指质量不一。"
+    },
+    "synonyms": [
+      "良莠不齐",
+      "鱼龙混杂"
+    ],
+    "antonyms": [
+      "整齐划一",
+      "井然有序",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "shui-zhang-chuan-gao",
+    "text": "水涨船高",
+    "pinyin": "shuǐ zhǎng chuán gāo",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "relative-measurements",
+      "chain-reactions"
+    ],
+    "literal": "water · rises · boat · high",
+    "natural": "a rising tide lifts all boats",
+    "meaning": {
+      "en": "When the base rises, everything on it rises too.",
+      "zh": "水位上涨，船也随之升高，比喻事物随着基础的提高而提高。"
+    },
+    "equivalents": [
+      "a rising tide lifts all boats",
+      "go up accordingly"
+    ],
+    "examples": [
+      {
+        "zh": "房价上涨，房租也水涨船高。",
+        "en": "As house prices rise, rents go up too."
+      },
+      {
+        "zh": "他出名后，片酬水涨船高。",
+        "en": "Once he became famous, his fees rose accordingly."
+      }
+    ],
+    "usage": {
+      "en": "涨 is zhǎng. Often of prices.",
+      "zh": "“涨”读zhǎng，多指价格。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "fei-fei-yang-yang",
+    "text": "沸沸扬扬",
+    "pinyin": "fèi fèi yáng yáng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "public-opinion"
+    ],
+    "literal": "boiling · boiling · stirring · stirring",
+    "natural": "the talk of the town",
+    "meaning": {
+      "en": "Widely and noisily discussed.",
+      "zh": "像开水沸腾一样，形容议论纷纷，传得很广。"
+    },
+    "equivalents": [
+      "the talk of the town",
+      "much talked about",
+      "in an uproar"
+    ],
+    "examples": [
+      {
+        "zh": "这件事在网上闹得沸沸扬扬。",
+        "en": "The matter caused an uproar online."
+      },
+      {
+        "zh": "关于他离婚的传闻沸沸扬扬。",
+        "en": "Rumours of his divorce are everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Usually 闹得/传得沸沸扬扬.",
+      "zh": "常说“闹得（传得）沸沸扬扬”。"
+    },
+    "synonyms": [
+      "满城风雨",
+      "议论纷纷",
+      "轩然大波"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "鸦雀无声",
+      "悄无声息"
+    ]
+  },
+  {
+    "id": "xuan-ran-da-bo",
+    "text": "轩然大波",
+    "pinyin": "xuān rán dà bō",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conflict-and-strife",
+      "public-opinion",
+      "poems-prose"
+    ],
+    "literal": "high-rising · big · wave",
+    "natural": "a great uproar",
+    "meaning": {
+      "en": "A major controversy or disturbance.",
+      "zh": "高高涌起的波涛，比喻大的纠纷或风波。"
+    },
+    "equivalents": [
+      "a storm of controversy",
+      "a furore",
+      "uproar"
+    ],
+    "examples": [
+      {
+        "zh": "这番言论引起了轩然大波。",
+        "en": "The remarks caused a storm of controversy."
+      },
+      {
+        "zh": "一张照片在网上掀起了轩然大波。",
+        "en": "A single photo stirred up a furore online."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《岳阳楼别窦司直》",
+      "story": {
+        "en": "Han Yu, describing Lake Dongting: 'A great wave rises towering' (轩然大波起，宇宙隘而妨).",
+        "zh": "韩愈《岳阳楼别窦司直》：“轩然大波起，宇宙隘而妨。”"
+      }
+    },
+    "usage": {
+      "en": "Usually 引起/掀起轩然大波.",
+      "zh": "常说“引起（掀起）轩然大波”。"
+    },
+    "synonyms": [
+      "沸沸扬扬",
+      "满城风雨"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "波澜不惊"
+    ]
+  },
+  {
+    "id": "tu-sheng-tu-zhang",
+    "text": "土生土长",
+    "pinyin": "tǔ shēng tǔ zhǎng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "society",
+      "rural-wisdom"
+    ],
+    "literal": "local · born · local · raised",
+    "natural": "born and bred",
+    "meaning": {
+      "en": "Born and brought up in a particular place.",
+      "zh": "在当地出生、当地长大。"
+    },
+    "equivalents": [
+      "born and bred",
+      "home-grown",
+      "native"
+    ],
+    "examples": [
+      {
+        "zh": "我是土生土长的北京人。",
+        "en": "I'm a born-and-bred Beijinger."
+      },
+      {
+        "zh": "这是一支土生土长的本地乐队。",
+        "en": "It's a home-grown local band."
+      }
+    ],
+    "usage": {
+      "en": "Attributive: 土生土长的 + person / thing.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "背井离乡"
+    ]
+  },
+  {
+    "id": "tong-chou-jian-gu",
+    "text": "统筹兼顾",
+    "pinyin": "tǒng chóu jiān gù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "wisdom",
+      "news-and-officialese"
+    ],
+    "literal": "overall · plan · both · consider",
+    "natural": "take everything into account",
+    "meaning": {
+      "en": "To plan as a whole while taking all aspects into consideration.",
+      "zh": "统一筹划，全面照顾。"
+    },
+    "equivalents": [
+      "balance competing needs",
+      "take a holistic view"
+    ],
+    "examples": [
+      {
+        "zh": "城市建设要统筹兼顾，不能只顾眼前。",
+        "en": "Urban development must balance all needs, not just short-term ones."
+      },
+      {
+        "zh": "统筹兼顾工作和家庭不容易。",
+        "en": "Balancing work and family isn't easy."
+      }
+    ],
+    "usage": {
+      "en": "Official planning term.",
+      "zh": "官方规划用语。"
+    },
+    "synonyms": [
+      "面面俱到"
+    ],
+    "antonyms": [
+      "顾此失彼",
+      "因小失大"
+    ]
+  },
+  {
+    "id": "ming-cha-an-fang",
+    "text": "明察暗访",
+    "pinyin": "míng chá àn fǎng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "openly · inspect · secretly · visit",
+    "natural": "open and undercover inspections",
+    "meaning": {
+      "en": "Investigating both openly and in secret.",
+      "zh": "公开调查与暗中走访相结合。"
+    },
+    "equivalents": [
+      "open and undercover checks",
+      "investigate thoroughly"
+    ],
+    "examples": [
+      {
+        "zh": "记者通过明察暗访揭露了黑作坊。",
+        "en": "Through open and undercover reporting, journalists exposed the illegal workshop."
+      },
+      {
+        "zh": "检查组对食品安全进行明察暗访。",
+        "en": "The inspection team carried out open and secret checks on food safety."
+      }
+    ],
+    "usage": {
+      "en": "News and official language.",
+      "zh": "新闻、官方用语。"
+    },
+    "synonyms": [
+      "微服私访"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ke-bu-rong-huan",
+    "text": "刻不容缓",
+    "pinyin": "kè bù róng huǎn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "time",
+      "efficiency",
+      "news-and-officialese"
+    ],
+    "literal": "moment · not · allow · delay",
+    "natural": "extremely urgent",
+    "meaning": {
+      "en": "So urgent that not a moment can be lost.",
+      "zh": "片刻也不能拖延。"
+    },
+    "equivalents": [
+      "extremely urgent",
+      "there's no time to lose"
+    ],
+    "examples": [
+      {
+        "zh": "保护湿地已刻不容缓。",
+        "en": "Protecting wetlands is extremely urgent."
+      },
+      {
+        "zh": "救人刻不容缓，大家马上行动！",
+        "en": "There's no time to lose saving lives — act now!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "迫在眉睫",
+      "当务之急",
+      "迫不及待"
+    ],
+    "antonyms": [
+      "从长计议",
+      "来日方长"
+    ]
+  },
+  {
+    "id": "rong-wei-yi-ti",
+    "text": "融为一体",
+    "pinyin": "róng wéi yī tǐ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unusual-combinations",
+      "nature"
+    ],
+    "literal": "merge · into · one · body",
+    "natural": "blend into one",
+    "meaning": {
+      "en": "To merge into a single whole.",
+      "zh": "融合成一个整体。"
+    },
+    "equivalents": [
+      "blend together",
+      "become one",
+      "merge seamlessly"
+    ],
+    "examples": [
+      {
+        "zh": "这座建筑与周围的山水融为一体。",
+        "en": "The building blends seamlessly into the landscape."
+      },
+      {
+        "zh": "移民们已经和当地人融为一体。",
+        "en": "The immigrants have become one with the locals."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "浑然一体",
+      "水乳交融",
+      "三位一体"
+    ],
+    "antonyms": [
+      "格格不入",
+      "泾渭分明"
+    ]
+  },
+  {
+    "id": "huan-ran-yi-xin",
+    "text": "焕然一新",
+    "pinyin": "huàn rán yī xīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "appearance"
+    ],
+    "literal": "shining · all · new",
+    "natural": "looking brand new",
+    "meaning": {
+      "en": "Completely transformed and looking brand new.",
+      "zh": "出现了崭新的面貌。"
+    },
+    "equivalents": [
+      "brand new",
+      "transformed",
+      "given a facelift"
+    ],
+    "examples": [
+      {
+        "zh": "装修后，老房子焕然一新。",
+        "en": "After renovation the old house looks brand new."
+      },
+      {
+        "zh": "经过整治，街道面貌焕然一新。",
+        "en": "After the clean-up the streets were transformed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for places and appearances.",
+      "zh": "多作谓语，用于场所、面貌。"
+    },
+    "synonyms": [
+      "面目一新",
+      "改头换面",
+      "日新月异"
+    ],
+    "antonyms": [
+      "依然如故",
+      "破败不堪",
+      "锈迹斑斑"
+    ]
+  },
+  {
+    "id": "yi-shen-zuo-ze",
+    "text": "以身作则",
+    "pinyin": "yǐ shēn zuò zé",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "positive-character-qualities"
+    ],
+    "literal": "with · self · make · model",
+    "natural": "lead by example",
+    "meaning": {
+      "en": "To set an example by one's own conduct.",
+      "zh": "用自己的行动做榜样。"
+    },
+    "equivalents": [
+      "lead by example",
+      "set an example",
+      "practise what you preach"
+    ],
+    "examples": [
+      {
+        "zh": "父母要以身作则，孩子才会听话。",
+        "en": "Parents must lead by example if children are to listen."
+      },
+      {
+        "zh": "领导以身作则，第一个到岗。",
+        "en": "The boss leads by example and is first in every day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for leaders, teachers, parents.",
+      "zh": "多作谓语，用于领导、老师、父母。"
+    },
+    "synonyms": [
+      "身体力行",
+      "身先士卒",
+      "上行下效"
+    ],
+    "antonyms": [
+      "言行不一",
+      "说一套做一套"
+    ]
+  },
+  {
+    "id": "feng-kou-lang-jian",
+    "text": "风口浪尖",
+    "pinyin": "fēng kǒu làng jiān",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "public-opinion"
+    ],
+    "literal": "wind · mouth · wave · crest",
+    "natural": "at the centre of the storm",
+    "meaning": {
+      "en": "At the centre of controversy or the front line of struggle.",
+      "zh": "比喻激烈尖锐的斗争前沿或舆论的中心。"
+    },
+    "equivalents": [
+      "at the eye of the storm",
+      "in the spotlight",
+      "under fire"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司被推上了舆论的风口浪尖。",
+        "en": "The company has been thrust into the centre of a media storm."
+      },
+      {
+        "zh": "他总是站在改革的风口浪尖上。",
+        "en": "He's always at the forefront of reform."
+      }
+    ],
+    "usage": {
+      "en": "Usually 推上/处在风口浪尖.",
+      "zh": "常说“推上（处在）风口浪尖”。"
+    },
+    "synonyms": [
+      "众矢之的"
+    ],
+    "antonyms": [
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "you-tiao-bu-wen",
+    "text": "有条不紊",
+    "pinyin": "yǒu tiáo bù wěn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "mental-clarity"
+    ],
+    "literal": "have · order · not · tangled",
+    "natural": "orderly and methodical",
+    "meaning": {
+      "en": "Orderly and systematic.",
+      "zh": "有条理，一点不乱。"
+    },
+    "equivalents": [
+      "methodical",
+      "in an orderly way",
+      "like clockwork"
+    ],
+    "examples": [
+      {
+        "zh": "工作人员有条不紊地疏散人群。",
+        "en": "Staff evacuated the crowd in an orderly way."
+      },
+      {
+        "zh": "她做事一向有条不紊。",
+        "en": "She always works methodically."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. 紊 is wěn.",
+      "zh": "多作状语、谓语。“紊”读wěn。"
+    },
+    "synonyms": [
+      "井井有条",
+      "条理分明",
+      "井然有序"
+    ],
+    "antonyms": [
+      "杂乱无章",
+      "手忙脚乱",
+      "乱七八糟"
+    ]
+  },
+  {
+    "id": "gui-gen-jie-di",
+    "text": "归根结底",
+    "pinyin": "guī gēn jié dǐ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "variants": [
+      "归根到底"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "wisdom"
+    ],
+    "literal": "return · root · tie · bottom",
+    "natural": "in the final analysis",
+    "meaning": {
+      "en": "Ultimately; in the end.",
+      "zh": "归结到根本上。"
+    },
+    "equivalents": [
+      "ultimately",
+      "in the final analysis",
+      "at the end of the day"
+    ],
+    "examples": [
+      {
+        "zh": "归根结底，问题出在管理上。",
+        "en": "In the final analysis, the problem lies in management."
+      },
+      {
+        "zh": "成功归根到底靠的是努力。",
+        "en": "At the end of the day, success comes down to hard work."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial. Also 归根到底.",
+      "zh": "常放句首。也作“归根到底”。"
+    },
+    "synonyms": [
+      "说到底"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "fa-yang-guang-da",
+    "text": "发扬光大",
+    "pinyin": "fā yáng guāng dà",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "culture",
+      "news-and-officialese"
+    ],
+    "literal": "develop · spread · glorious · great",
+    "natural": "carry forward",
+    "meaning": {
+      "en": "To develop and spread something good.",
+      "zh": "使好的作风、传统等得到发展和提高。"
+    },
+    "equivalents": [
+      "carry forward",
+      "build on",
+      "promote"
+    ],
+    "examples": [
+      {
+        "zh": "传统文化要传承下去，发扬光大。",
+        "en": "Traditional culture must be passed on and carried forward."
+      },
+      {
+        "zh": "把这种精神发扬光大。",
+        "en": "Let's carry this spirit forward."
+      }
+    ],
+    "usage": {
+      "en": "For traditions, virtues, spirit.",
+      "zh": "用于传统、美德、精神。"
+    },
+    "synonyms": [
+      "薪火相传",
+      "继往开来"
+    ],
+    "antonyms": [
+      "丢弃",
+      "付诸东流"
+    ]
+  },
+  {
+    "id": "qi-zhi-xian-ming",
+    "text": "旗帜鲜明",
+    "pinyin": "qí zhì xiān míng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "positive-character-qualities",
+      "news-and-officialese"
+    ],
+    "literal": "flag · bright · clear",
+    "natural": "take a clear stand",
+    "meaning": {
+      "en": "Having a clear and unambiguous position.",
+      "zh": "比喻观点、立场明确。"
+    },
+    "equivalents": [
+      "unequivocal",
+      "clear-cut",
+      "take a firm stand"
+    ],
+    "examples": [
+      {
+        "zh": "我们旗帜鲜明地反对腐败。",
+        "en": "We take a clear stand against corruption."
+      },
+      {
+        "zh": "他的观点旗帜鲜明。",
+        "en": "His views are unequivocal."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate; official.",
+      "zh": "多作状语、谓语，官方用语。"
+    },
+    "synonyms": [
+      "开门见山",
+      "泾渭分明"
+    ],
+    "antonyms": [
+      "模棱两可",
+      "含糊其辞"
+    ]
+  },
+  {
+    "id": "ke-jian-yi-ban",
+    "text": "可见一斑",
+    "pinyin": "kě jiàn yī bān",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "wisdom"
+    ],
+    "literal": "can · see · one · spot",
+    "natural": "this shows something of it",
+    "meaning": {
+      "en": "From this small part one can get an idea of the whole.",
+      "zh": "从中可以看出一部分，以此推知全貌。"
+    },
+    "equivalents": [
+      "this gives a glimpse",
+      "a telling example"
+    ],
+    "examples": [
+      {
+        "zh": "从这件小事，他的为人可见一斑。",
+        "en": "This small incident tells you something about his character."
+      },
+      {
+        "zh": "学生对老师的喜爱，从这些贺卡中可见一斑。",
+        "en": "These cards give a glimpse of how much the students love their teacher."
+      }
+    ],
+    "usage": {
+      "en": "From the saying 管中窥豹，可见一斑.",
+      "zh": "出自“管中窥豹，可见一斑”。"
+    },
+    "synonyms": [
+      "管中窥豹",
+      "一叶知秋"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xiang-fu-xiang-cheng",
+    "text": "相辅相成",
+    "pinyin": "xiāng fǔ xiāng chéng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "unusual-combinations"
+    ],
+    "literal": "mutually · help · mutually · complete",
+    "natural": "complement each other",
+    "meaning": {
+      "en": "Complementing and reinforcing each other.",
+      "zh": "互相配合，互相补充。"
+    },
+    "equivalents": [
+      "complement each other",
+      "go hand in hand",
+      "mutually reinforcing"
+    ],
+    "examples": [
+      {
+        "zh": "理论与实践相辅相成。",
+        "en": "Theory and practice go hand in hand."
+      },
+      {
+        "zh": "经济发展和环境保护可以相辅相成。",
+        "en": "Economic growth and environmental protection can reinforce each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "相得益彰",
+      "珠联璧合"
+    ],
+    "antonyms": [
+      "背道而驰",
+      "水火不容"
+    ]
+  }
+]
