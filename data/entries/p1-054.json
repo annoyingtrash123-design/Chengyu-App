@@ -242,12 +242,12 @@
     "id": "shi-fu-ling-jin-men-xiu-xing-zai-ge-ren",
     "text": "师傅领进门，修行在个人",
     "pinyin": "shī fù lǐng jìn mén, xiū xíng zài gè rén",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "师傅领进门",
       "师父领进门，修行在个人"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -295,11 +295,11 @@
     "id": "chuan-dao-shou-ye",
     "text": "传道授业",
     "pinyin": "chuán dào shòu yè",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "传道授业解惑"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -652,11 +652,11 @@
     "id": "tai-ping-sheng-shi",
     "text": "太平盛世",
     "pinyin": "tài píng shèng shì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "盛世太平"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -802,11 +802,11 @@
     "id": "yi-ke-qian-jin",
     "text": "一刻千金",
     "pinyin": "yī kè qiān jīn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "春宵一刻值千金"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -861,11 +861,11 @@
     "id": "xing-shen-jian-bei",
     "text": "形神兼备",
     "pinyin": "xíng shén jiān bèi",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "神形兼备"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1110,11 +1110,12 @@
     "id": "gong-yu-shan-qi-shi-bi-xian-li-qi-qi",
     "text": "工欲善其事，必先利其器",
     "pinyin": "gōng yù shàn qí shì, bì xiān lì qí qì",
+    "variants": [
+      "工欲善其事",
+      "必先利其器"
+    ],
     "kind": "mingju",
     "frequency": 2,
-    "variants": [
-      "工欲善其事"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [

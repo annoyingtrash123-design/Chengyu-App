@@ -562,6 +562,9 @@
     "id": "bu-ke-gu-liang",
     "text": "不可估量",
     "pinyin": "bù kě gū liàng",
+    "variants": [
+      "无可估量"
+    ],
     "kind": "phrase",
     "frequency": 1,
     "sentiment": "neutral",
@@ -606,11 +609,11 @@
     "id": "xin-gan-qing-yuan",
     "text": "心甘情愿",
     "pinyin": "xīn gān qíng yuàn",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "甘心情愿"
     ],
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -934,11 +937,11 @@
     "id": "gu-se-gu-xiang",
     "text": "古色古香",
     "pinyin": "gǔ sè gǔ xiāng",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "古香古色"
     ],
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

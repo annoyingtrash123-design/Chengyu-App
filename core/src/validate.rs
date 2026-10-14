@@ -7,7 +7,7 @@ use crate::model::{reading_chars, Entry, Kind};
 use crate::pinyin;
 
 /// Characters that are often read in the neutral tone and may lack a tone mark.
-const NEUTRAL_OK: &str = "的了着过子么们吗呢吧啊甥笼";
+const NEUTRAL_OK: &str = "的了着过子么们吗呢吧啊甥笼儿卜芦狸巴虎";
 
 #[derive(Debug, Default)]
 pub struct Report {
