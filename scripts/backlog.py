@@ -8,6 +8,7 @@ which synonyms/antonyms are referenced but not yet in the dictionary.
     python3 scripts/backlog.py            # full report
     python3 scripts/backlog.py --summary  # counts only (used in CI)
     python3 scripts/backlog.py --todo 50  # next 50 master-list items to write
+    python3 scripts/backlog.py --todo 25 --queue phase2  # next 25 from data/queue/phase2.json
 
 Standard library only. The authoritative data checks live in the Rust tests
 (core/src/validate.rs); this script is a planning aid.
@@ -38,6 +39,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--summary", action="store_true", help="print counts only")
     ap.add_argument("--todo", type=int, default=20, metavar="N", help="how many outstanding master-list items to show")
+    ap.add_argument("--queue", metavar="NAME", help="list outstanding items from data/queue/NAME.json instead of the master list")
     args = ap.parse_args()
 
     entries = load_entries()
@@ -70,7 +72,13 @@ def main():
 
     if args.summary:
         return
-    if outstanding:
+    if args.queue:
+        q = json.loads((DATA / "queue" / f"{args.queue}.json").read_text(encoding="utf-8"))
+        todo = [m for m in q if m["text"] not in texts]
+        print(f"\nNext {min(args.todo, len(todo))} from {args.queue}:")
+        for m in todo[: args.todo]:
+            print(f"  {m['text']}  {m.get('pinyin', '')}  (THUOCL {m.get('thuocl_rank', '-')})")
+    elif outstanding:
         print(f"\nNext {min(args.todo, len(outstanding))} from the master list:")
         for m in outstanding[: args.todo]:
             print(f"  {m['text']}  {m.get('pinyin', '')}")
