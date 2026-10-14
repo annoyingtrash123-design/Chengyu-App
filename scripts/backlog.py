@@ -41,7 +41,7 @@ def main():
     args = ap.parse_args()
 
     entries = load_entries()
-    texts = {e["text"] for e in entries}
+    texts = {e["text"] for e in entries} | {v for e in entries for v in e.get("variants", [])}
     by_kind = collections.Counter(e["kind"] for e in entries)
     by_freq = collections.Counter(e["frequency"] for e in entries)
 

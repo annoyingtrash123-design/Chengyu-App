@@ -6,7 +6,9 @@ Fills in the boring, mechanical fields so they're always consistent:
   - frequency  from the THUOCL rank: top 600 → 1 (core), top 3000 → 2 (common), else 3,
                unless the draft sets it explicitly (needed for 俗语/歇后语/惯用语 etc.)
   - kind       defaults to "chengyu"
-Refuses duplicates of existing entries or their variants.
+  - variants   merged with any listed for it in data/master_list.json
+Refuses duplicates: a draft whose text or variant is already a headword or
+variant of another entry is skipped. Variants never go in synonyms/antonyms.
 
     python3 scripts/add_batch.py drafts.json data/entries/p1-001.json
 """
@@ -37,16 +39,25 @@ def main():
     for f in sorted((ROOT / "data/entries").glob("*.json")):
         if f.resolve() != out_path.resolve():
             existing += json.loads(f.read_text(encoding="utf-8"))
-    texts = {e["text"] for e in existing}
+    master = json.loads((ROOT / "data/master_list.json").read_text(encoding="utf-8"))
+    master = master if isinstance(master, list) else master["items"]
+    master_variants = {m["text"]: m.get("variants", []) for m in master}
+    texts = {e["text"] for e in existing} | {v for e in existing for v in e.get("variants", [])}
     ids = {e["id"] for e in existing}
     out = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else []
-    texts |= {e["text"] for e in out}
+    texts |= {e["text"] for e in out} | {v for e in out for v in e.get("variants", [])}
     ids |= {e["id"] for e in out}
     added = 0
     for d in drafts:
-        if d["text"] in texts:
-            print(f"skip duplicate: {d['text']}")
+        variants = list(dict.fromkeys(d.get("variants", []) + master_variants.get(d["text"], [])))
+        clash = [f for f in [d["text"], *variants] if f in texts]
+        if clash:
+            print(f"skip duplicate: {d['text']} (already in the dictionary: {'、'.join(clash)})")
             continue
+        if variants:
+            d["variants"] = variants
+            for key in ("synonyms", "antonyms"):
+                d[key] = [x for x in d.get(key, []) if x not in variants]
         e = {"id": "", "text": d["text"], "pinyin": d["pinyin"], "kind": d.get("kind", "chengyu")}
         base = slug(d["text"] if False else d["pinyin"])
         if e["kind"] in ("xiehouyu", "suyu", "mingju") and len(base) > 40:
@@ -63,6 +74,7 @@ def main():
                 e[k] = v
         out.append(e)
         texts.add(e["text"])
+        texts.update(e.get("variants", []))
         ids.add(e["id"])
         added += 1
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

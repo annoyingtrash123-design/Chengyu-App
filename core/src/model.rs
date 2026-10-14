@@ -115,6 +115,10 @@ pub struct Entry {
     pub antonyms: Vec<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub modern: Option<Modern>,
+    /// Other accepted forms of the same expression (青山绿水 for 绿水青山).
+    /// They are merged into this entry: searching or linking to a variant opens it.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub variants: Vec<String>,
     /// For 歇后语: the lead-in and the punchline.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub parts: Option<[String; 2]>,

@@ -112,10 +112,23 @@ impl App {
         }
     }
 
-    fn links(&self, texts: &[String]) -> Vec<Link> {
+    /// Resolve synonyms / antonyms. A variant form links to (and is shown as) its
+    /// main entry; links back to `from` itself and repeats are dropped.
+    fn links(&self, from: &Entry, texts: &[String]) -> Vec<Link> {
+        let mut seen = std::collections::HashSet::new();
         texts
             .iter()
-            .map(|t| Link { text: t.clone(), id: self.dict.by_text(t).map(|e| e.id.clone()) })
+            .filter_map(|t| {
+                let target = self.dict.by_text(t);
+                if target.is_some_and(|e| e.id == from.id) {
+                    return None;
+                }
+                let link = match target {
+                    Some(e) => Link { text: e.text.clone(), id: Some(e.id.clone()) },
+                    None => Link { text: t.clone(), id: None },
+                };
+                seen.insert(link.text.clone()).then_some(link)
+            })
             .collect()
     }
 
@@ -225,8 +238,8 @@ impl App {
                     "summary": self.summary(e),
                     "card": self.user.cards.get(&id),
                     "accuracy": self.user.accuracy.get(&id),
-                    "synonyms": self.links(&e.synonyms),
-                    "antonyms": self.links(&e.antonyms),
+                    "synonyms": self.links(e, &e.synonyms),
+                    "antonyms": self.links(e, &e.antonyms),
                     "chars": e.chars().iter().map(|c| c.to_string()).collect::<Vec<_>>(),
                 })
             }
@@ -411,6 +424,23 @@ mod tests {
             let t = l["text"].as_str().unwrap();
             assert_eq!(l["id"].is_null(), app.dict.by_text(t).is_none());
         }
+    }
+
+    #[test]
+    fn variant_links_open_the_main_entry() {
+        let mut entries = Dictionary::embedded().entries().to_vec();
+        let i = entries.iter().position(|e| e.text == "画蛇添足").unwrap();
+        // A synonym written in a variant form, plus the entry's own variant.
+        entries[i].synonyms = vec!["莫明其妙".into(), "莫名其妙".into(), "未知词语".into()];
+        let mut app = App::new(None);
+        app.dict = Dictionary::new(entries, Dictionary::embedded().themes.clone());
+        let id = app.dict.by_text("画蛇添足").unwrap().id.clone();
+        let e = call(&mut app, "entry", json!({"id": id}));
+        let syns = e["synonyms"].as_array().unwrap();
+        assert_eq!(syns.len(), 2, "{syns:?}");
+        assert_eq!(syns[0]["text"], "莫名其妙");
+        assert!(syns[0]["id"].is_string());
+        assert!(syns[1]["id"].is_null());
     }
 
     #[test]

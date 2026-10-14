@@ -71,7 +71,16 @@ fit; filtering by a broad theme also finds everything tagged with its detailed t
 - **Colloquial words** from the lists (差不多, 大概其, 八九不离十) go in as 惯用语.
 - **Examples**: vary the situations across entries: everyday life, work & business, school &
   essays, news & literature.
-- **Variants** (塞翁失马焉知非福 for 塞翁失马) are one entry, never two.
+- **Variants** (塞翁失马焉知非福 for 塞翁失马, 青山绿水 for 绿水青山, 名符其实 for 名副其实) are one entry, never two.
+  The headword is the most common, standard form; the others go in `variants`.
+  - Searching a variant (characters, or pinyin when it reuses the main form's characters) finds the entry,
+    and a synonym/antonym written in a variant form links to the main entry.
+  - Never list an entry's own variant as its synonym or antonym, and never list two variant forms of
+    the same expression in one synonym/antonym list — pick the main form.
+  - Count as variants: other characters for the same word (蒂/柢, 缭/撩), recognised word-order swaps
+    with the same meaning (绿水青山/青山绿水), and full/short forms (塞翁失马/…焉知非福).
+    Distinct expressions with a related form stay separate entries (翻天覆地 vs 天翻地覆, 争分夺秒 vs 分秒必争).
+  - `cargo test` fails if a form belongs to two entries or an entry lists its own variant as a synonym.
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 

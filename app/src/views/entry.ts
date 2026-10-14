@@ -91,6 +91,9 @@ function draw(root: HTMLElement, d: EntryDetail) {
       { class: "entry-head" },
       head,
       h("div", { class: "pinyin-lg" }, pinyinText),
+      e.variants?.length
+        ? h("div", { class: "variants" }, `${en() ? "Also written 也作" : "也作"} ${e.variants.join("、")}`)
+        : null,
       h(
         "div",
         { class: "badges" },
@@ -132,7 +135,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       "section",
       { class: "card" },
       h("h3", null, en() ? "例句 Examples" : "例句"),
-      e.examples.map((x) => h("div", { class: "example" }, h("p", { class: "zh" }, highlight(x.zh, e.parts ? e.parts[0] : e.text)), showEn ? h("p", { class: "en" }, x.en) : null)),
+      e.examples.map((x) => h("div", { class: "example" }, h("p", { class: "zh" }, highlight(x.zh, e.parts ? [e.parts[0]] : [e.text, ...(e.variants ?? [])])), showEn ? h("p", { class: "en" }, x.en) : null)),
     ),
     e.origin
       ? h(
@@ -158,12 +161,12 @@ function draw(root: HTMLElement, d: EntryDetail) {
   );
 }
 
-/** Wrap occurrences of the expression in a highlight span. */
-function highlight(sentence: string, phrase: string) {
-  const parts = sentence.split(phrase);
-  if (parts.length === 1) return sentence;
+/** Wrap occurrences of the expression (or one of its variants) in a highlight span. */
+function highlight(sentence: string, phrases: string[]) {
+  const phrase = phrases.find((p) => sentence.includes(p));
+  if (!phrase) return sentence;
   const out: (string | Node)[] = [];
-  parts.forEach((p, i) => {
+  sentence.split(phrase).forEach((p, i) => {
     if (i) out.push(h("mark", null, phrase));
     out.push(p);
   });

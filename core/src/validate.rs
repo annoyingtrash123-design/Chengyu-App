@@ -64,6 +64,21 @@ pub fn check(dict: &Dictionary) -> Report {
     }
     let mut ids = HashSet::new();
     let mut texts = HashSet::new();
+    // Every headword and variant must be unique across the whole dictionary,
+    // so one form never belongs to two entries.
+    let mut forms: std::collections::HashMap<&str, &str> = std::collections::HashMap::new();
+    for e in dict.entries() {
+        for f in std::iter::once(&e.text).chain(&e.variants) {
+            if let Some(other) = forms.insert(f, &e.text) {
+                if other != e.text || f != &e.text {
+                    r.errors.push(format!(
+                        "{}: form `{f}` also belongs to {other} (merge variants into one entry)",
+                        e.text
+                    ));
+                }
+            }
+        }
+    }
 
     for e in dict.entries() {
         let err = &mut r.errors;
@@ -112,6 +127,7 @@ pub fn check(dict: &Dictionary) -> Report {
             if ex.zh.trim().is_empty() || ex.en.trim().is_empty() {
                 err.push(format!("{t}: example missing Chinese or English"));
             } else if !ex.zh.contains(core.as_str())
+                && !e.variants.iter().any(|v| ex.zh.contains(v.as_str()))
                 && !(e.kind == Kind::Guanyongyu && is_subsequence(&core, &ex.zh))
             {
                 err.push(format!("{t}: example does not contain the expression: {}", ex.zh));
@@ -132,6 +148,14 @@ pub fn check(dict: &Dictionary) -> Report {
             }
             (k, Some(_)) if *k != Kind::Xiehouyu => err.push(format!("{t}: only 歇后语 have `parts`")),
             _ => {}
+        }
+        for v in &e.variants {
+            if v == t || v.trim().is_empty() {
+                err.push(format!("{t}: bad variant `{v}`"));
+            }
+            if e.synonyms.contains(v) || e.antonyms.contains(v) {
+                err.push(format!("{t}: lists its own variant {v} as a synonym/antonym (keep it in `variants` only)"));
+            }
         }
         if e.synonyms.contains(t) || e.antonyms.contains(t) {
             err.push(format!("{t}: lists itself as a synonym/antonym"));
@@ -158,6 +182,19 @@ mod tests {
     fn embedded_data_is_valid() {
         let r = check(&Dictionary::embedded());
         assert!(r.errors.is_empty(), "data errors:\n{}", r.errors.join("\n"));
+    }
+
+    #[test]
+    fn variants_must_be_unique_and_not_synonyms() {
+        let mut entries = Dictionary::embedded().entries().to_vec();
+        let a = entries.iter().position(|e| e.text == "绿水青山").unwrap();
+        let b = entries.iter().position(|e| e.text == "莫名其妙").unwrap();
+        entries[a].synonyms.push("青山绿水".into());
+        entries[b].variants.push("青山绿水".into());
+        let themes = Dictionary::embedded().themes.clone();
+        let r = check(&Dictionary::new(entries, themes));
+        assert!(r.errors.iter().any(|e| e.contains("own variant")), "{:?}", r.errors);
+        assert!(r.errors.iter().any(|e| e.contains("also belongs to")), "{:?}", r.errors);
     }
 
     #[test]

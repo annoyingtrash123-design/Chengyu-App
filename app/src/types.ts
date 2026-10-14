@@ -49,6 +49,8 @@ export interface Entry {
   antonyms: string[];
   parts?: [string, string];
   modern?: "modern" | "borrowed";
+  /** Other accepted forms, merged into this entry. */
+  variants?: string[];
 }
 
 export interface Card {

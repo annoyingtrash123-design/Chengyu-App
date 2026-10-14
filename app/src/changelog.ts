@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.8",
+    date: "2026-10-14",
+    en: [
+      "Variant forms are merged into one entry (e.g. 青山绿水 → 绿水青山), shown as \u201cAlso written\u201d.",
+      "Searching a variant, or tapping a synonym written in a variant form, opens the main entry.",
+      "75 new entries (phase 1 batches 3–5).",
+    ],
+    zh: ["异体/异序写法并入同一词条（如 青山绿水 → 绿水青山），显示为\u201c也作\u201d。", "搜索异形词或点击异形写法的近反义词，会打开主词条。", "新增 75 条词目（第一阶段第 3–5 批）。"],
+  },
+  {
     version: "0.7",
     date: "2026-10-14",
     en: ["List: themes show how many entries they have; empty themes are hidden.", "List remembers your type and theme selection."],

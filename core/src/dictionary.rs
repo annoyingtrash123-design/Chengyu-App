@@ -4,7 +4,7 @@ use std::collections::HashMap;
 
 use serde::{Deserialize, Serialize};
 
-use crate::model::{is_han, Entry, Kind, Register, Sentiment};
+use crate::model::{is_han, reading_chars, Entry, Kind, Register, Sentiment};
 use crate::pinyin;
 use crate::user::{Status, UserData};
 
@@ -28,6 +28,9 @@ struct Keys {
     pinyin_toned: String,
     pinyin_plain: String,
     initials: String,
+    /// Variant forms: their characters, and their pinyin when it can be worked out
+    /// from the main form (same characters in another order, or a shortening).
+    variants: Vec<(Vec<char>, Option<String>)>,
     english_words: Vec<String>,
     english_text: String,
 }
@@ -141,7 +144,20 @@ impl Dictionary {
                     e.equivalents.join(" ")
                 )
                 .to_lowercase();
+                let syllables = pinyin::syllables(&e.pinyin);
+                let reading: HashMap<char, &str> =
+                    e.chars().into_iter().zip(syllables.iter().map(|s| s.as_str())).rev().collect();
+                let variants = e
+                    .variants
+                    .iter()
+                    .map(|v| {
+                        let chars = reading_chars(v);
+                        let py: Option<Vec<&str>> = chars.iter().map(|c| reading.get(c).copied()).collect();
+                        (chars, py.map(|p| pinyin::compact(&p.join(" "))))
+                    })
+                    .collect();
                 Keys {
+                    variants,
                     chars: e.chars(),
                     pinyin_toned: pinyin::compact(&e.pinyin),
                     pinyin_plain: pinyin::strip_tones(&pinyin::compact(&e.pinyin)),
@@ -152,7 +168,16 @@ impl Dictionary {
             })
             .collect();
         let by_id = entries.iter().enumerate().map(|(i, e)| (e.id.clone(), i)).collect();
-        let by_text = entries.iter().enumerate().map(|(i, e)| (e.text.clone(), i)).collect();
+        // Variants resolve to their entry too; a main form always wins over a variant.
+        let mut by_text: HashMap<String, usize> = HashMap::new();
+        for (i, e) in entries.iter().enumerate() {
+            for v in &e.variants {
+                by_text.entry(v.clone()).or_insert(i);
+            }
+        }
+        for (i, e) in entries.iter().enumerate() {
+            by_text.insert(e.text.clone(), i);
+        }
         let theme_group = themes
             .iter()
             .filter_map(|t| t.group.clone().map(|g| (t.id.clone(), g)))
@@ -228,20 +253,24 @@ impl Dictionary {
         let han: Vec<char> = query.chars().filter(|c| is_han(*c)).collect();
         if !han.is_empty() {
             let q: String = han.iter().collect();
-            let text: String = k.chars.iter().collect();
-            if text == q {
-                consider(100, MatchKind::Text);
-            } else if text.starts_with(&q) {
-                consider(90, MatchKind::Text);
-            } else if text.contains(&q) {
-                consider(80, MatchKind::Text);
-            } else {
-                // Fuzzy: characters in any position / order.
-                let present = han.iter().filter(|c| k.chars.contains(c)).count();
-                if present == han.len() {
-                    consider(60, MatchKind::Text);
-                } else if han.len() >= 2 && present * 2 >= han.len() {
-                    consider((30 * present / han.len()) as u32, MatchKind::Text);
+            // The main form, then variants (scored a little lower).
+            let forms = std::iter::once((&k.chars, 0)).chain(k.variants.iter().map(|(c, _)| (c, 2)));
+            for (chars, penalty) in forms {
+                let text: String = chars.iter().collect();
+                if text == q {
+                    consider(100 - penalty, MatchKind::Text);
+                } else if text.starts_with(&q) {
+                    consider(90 - penalty, MatchKind::Text);
+                } else if text.contains(&q) {
+                    consider(80 - penalty, MatchKind::Text);
+                } else {
+                    // Fuzzy: characters in any position / order.
+                    let present = han.iter().filter(|c| chars.contains(c)).count();
+                    if present == han.len() {
+                        consider(60 - penalty, MatchKind::Text);
+                    } else if han.len() >= 2 && present * 2 >= han.len() {
+                        consider((30 * present / han.len()) as u32, MatchKind::Text);
+                    }
                 }
             }
             if e.meaning.zh.contains(&q) {
@@ -269,6 +298,14 @@ impl Dictionary {
             }
             if !toned && n >= 3 && pinyin::strip_tones(&q) == k.initials {
                 consider(65, MatchKind::Pinyin);
+            }
+            for v in k.variants.iter().filter_map(|(_, p)| p.as_ref()) {
+                let hay: Vec<char> = v.chars().collect();
+                if pinyin::tone_tolerant_eq(&needle, &hay) {
+                    consider(93, MatchKind::Pinyin);
+                } else if n >= 2 && hay.len() >= n && pinyin::tone_tolerant_eq(&needle, &hay[..n]) {
+                    consider(83, MatchKind::Pinyin);
+                }
             }
         }
 
@@ -331,6 +368,18 @@ mod tests {
     fn top(d: &Dictionary, q: &str) -> String {
         let hits = d.search(q, &Filters::default(), &UserData::default());
         d.entries()[hits.first().expect("no hits").index].text.clone()
+    }
+
+    #[test]
+    fn variants_resolve_to_their_entry() {
+        let d = dict();
+        assert_eq!(d.by_text("青山绿水").unwrap().text, "绿水青山");
+        assert_eq!(d.by_text("莫明其妙").unwrap().text, "莫名其妙");
+        assert_eq!(top(&d, "青山绿水"), "绿水青山");
+        assert_eq!(top(&d, "名符其实"), "名副其实");
+        // Pinyin of a reordered variant is worked out from the main form.
+        assert_eq!(top(&d, "qingshanlvshui"), "绿水青山");
+        assert_eq!(top(&d, "绿水青山"), "绿水青山");
     }
 
     #[test]

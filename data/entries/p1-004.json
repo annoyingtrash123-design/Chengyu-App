@@ -431,8 +431,7 @@
       "zh": "几乎只用于学生，常见于评语和表彰。"
     },
     "synonyms": [
-      "德才兼备",
-      "才德兼备"
+      "德才兼备"
     ],
     "antonyms": [
       "不学无术",
@@ -978,6 +977,9 @@
     "id": "lu-shui-qing-shan",
     "text": "绿水青山",
     "pinyin": "lǜ shuǐ qīng shān",
+    "variants": [
+      "青山绿水"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -1012,9 +1014,7 @@
       "zh": "也作\"青山绿水\"。现常见于\"绿水青山就是金山银山\"的说法。"
     },
     "synonyms": [
-      "青山绿水",
-      "山清水秀",
-      "山明水秀"
+      "山清水秀"
     ],
     "antonyms": [
       "穷山恶水",
