@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "mei-bu-sheng-shou",
+    "text": "美不胜收",
+    "pinyin": "měi bù shèng shōu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "arts"
+    ],
+    "literal": "beautiful · not · able to · take in",
+    "natural": "Too many beautiful things to take in",
+    "meaning": {
+      "en": "So many beautiful things that one cannot take them all in.",
+      "zh": "美好的东西太多，一时接受不完（欣赏不过来）。"
+    },
+    "equivalents": [
+      "a feast for the eyes",
+      "breathtaking",
+      "spoilt for beauty"
+    ],
+    "examples": [
+      {
+        "zh": "秋天的九寨沟五彩斑斓，美不胜收。",
+        "en": "Jiuzhaigou in autumn is a riot of colour — breathtaking at every turn."
+      },
+      {
+        "zh": "展览上的瓷器件件精美，令人美不胜收。",
+        "en": "Every piece of porcelain at the exhibition is exquisite — almost too much beauty to take in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. About scenery and artworks. 胜 is shèng (can bear).",
+      "zh": "多作谓语，多形容风景、艺术品。"
+    },
+    "synonyms": [
+      "琳琅满目",
+      "目不暇接",
+      "赏心悦目"
+    ],
+    "antonyms": [
+      "不堪入目",
+      "惨不忍睹"
+    ]
+  },
+  {
+    "id": "shan-shi-shan-zhong",
+    "text": "善始善终",
+    "pinyin": "shàn shǐ shàn zhōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "conduct"
+    ],
+    "literal": "good · beginning · good · end",
+    "natural": "Good at the start and good at the end",
+    "meaning": {
+      "en": "To do something well from beginning to end; to see things through.",
+      "zh": "做事有好的开头，也有好的结尾。"
+    },
+    "equivalents": [
+      "see it through",
+      "finish what you start",
+      "start well and end well"
+    ],
+    "examples": [
+      {
+        "zh": "做事要善始善终，不能虎头蛇尾。",
+        "en": "Finish what you start — don't let things fizzle out."
+      },
+      {
+        "zh": "离职前，她把手头工作都交接清楚，善始善终。",
+        "en": "Before leaving, she handed over all her work properly, seeing things through to the end."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·大宗师》",
+      "story": {
+        "en": "Zhuangzi speaks of the sage who \"is good with youth and good with age, good with the beginning and good with the end\" (善夭善老，善始善终).",
+        "zh": "《庄子·大宗师》：\"善夭善老，善始善终。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often advice about work and duties.",
+      "zh": "多作谓语，常用于劝勉。"
+    },
+    "synonyms": [
+      "有始有终",
+      "持之以恒"
+    ],
+    "antonyms": [
+      "虎头蛇尾",
+      "有始无终",
+      "半途而废"
+    ]
+  },
+  {
+    "id": "zhi-fan-ye-mao",
+    "text": "枝繁叶茂",
+    "pinyin": "zhī fán yè mào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "success"
+    ],
+    "literal": "branch · many · leaf · lush",
+    "natural": "Branches thick and leaves lush",
+    "meaning": {
+      "en": "Luxuriant and flourishing; also a thriving family or organisation.",
+      "zh": "枝叶繁密茂盛。也比喻家族兴旺或事业发展。"
+    },
+    "equivalents": [
+      "flourishing",
+      "thriving",
+      "in full leaf"
+    ],
+    "examples": [
+      {
+        "zh": "院子里的老槐树枝繁叶茂。",
+        "en": "The old locust tree in the courtyard is in full leaf."
+      },
+      {
+        "zh": "经过几十年发展，这家企业已枝繁叶茂。",
+        "en": "After decades of growth, the company is thriving."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Literal (trees) or figurative (families, businesses).",
+      "zh": "多作谓语、定语，可实指树木，也比喻家族、事业。"
+    },
+    "synonyms": [
+      "郁郁葱葱",
+      "根深叶茂",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "枯枝败叶",
+      "凋零败落"
+    ]
+  },
+  {
+    "id": "fang-wei-du-jian",
+    "text": "防微杜渐",
+    "pinyin": "fáng wēi dù jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "wisdom",
+      "corruption-and-injustice"
+    ],
+    "literal": "guard · tiny · block · gradual",
+    "natural": "Guard against small beginnings, block gradual growth",
+    "meaning": {
+      "en": "To nip something in the bud; to stop bad things while they are still small.",
+      "zh": "在错误或坏事刚冒头时就加以制止，不让它发展。"
+    },
+    "equivalents": [
+      "nip it in the bud",
+      "a stitch in time saves nine",
+      "stop the rot early"
+    ],
+    "examples": [
+      {
+        "zh": "对孩子的坏习惯要防微杜渐。",
+        "en": "Nip children's bad habits in the bud."
+      },
+      {
+        "zh": "反腐败必须防微杜渐，从小事抓起。",
+        "en": "Fighting corruption means stopping it early, starting with small things."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·丁鸿传》",
+      "story": {
+        "en": "The minister Ding Hong warned the emperor about a powerful family: \"if you correct government and take responsibility, block the gradual and guard against the sprouts\" (杜渐防萌), disaster can be avoided.",
+        "zh": "丁鸿上书：\"若敕政责躬，杜渐防萌，则凶妖销灭，害除福凑矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Formal; common in discipline, safety and anti-corruption contexts.",
+      "zh": "多作谓语，常用于纪律、安全、反腐。"
+    },
+    "synonyms": [
+      "防患未然",
+      "未雨绸缪",
+      "曲突徙薪"
+    ],
+    "antonyms": [
+      "养痈遗患",
+      "亡羊补牢"
+    ]
+  },
+  {
+    "id": "han-liu-jia-bei",
+    "text": "汗流浃背",
+    "pinyin": "hàn liú jiā bèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "fear-and-cowardice"
+    ],
+    "literal": "sweat · flow · soak · back",
+    "natural": "Sweat streaming down and soaking the back",
+    "meaning": {
+      "en": "Drenched in sweat (from heat, hard work or fear).",
+      "zh": "汗水流得满背都是。形容出汗很多，也形容极度惶恐或惭愧。"
+    },
+    "equivalents": [
+      "dripping with sweat",
+      "sweating buckets",
+      "in a cold sweat"
+    ],
+    "examples": [
+      {
+        "zh": "大热天搬家，大家都汗流浃背。",
+        "en": "Moving house on a hot day, everyone was sweating buckets."
+      },
+      {
+        "zh": "想到差点酿成大祸，他吓得汗流浃背。",
+        "en": "Realising he'd nearly caused a disaster, he broke out in a cold sweat."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·伏皇后纪》",
+      "story": {
+        "en": "When the powerful Cao Cao came before Emperor Xian, the emperor rebuked him; Cao left terrified, and \"looking about, his sweat streamed down and soaked his back\" (顾左右，汗流浃背).",
+        "zh": "曹操见汉献帝，献帝出言责备，\"操出，顾左右，汗流浃背，自后不敢复朝请\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement. Today mostly heat and exertion; originally fear. Internet slang uses it jokingly for being stunned.",
+      "zh": "多作谓语、补语。现多指热、累，原指惶恐。网络上也戏用。"
+    },
+    "synonyms": [
+      "挥汗如雨",
+      "大汗淋漓"
+    ],
+    "antonyms": [
+      "神清气爽"
+    ]
+  },
+  {
+    "id": "ben-mo-dao-zhi",
+    "text": "本末倒置",
+    "pinyin": "běn mò dào zhì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "plant-and-natural-world"
+    ],
+    "literal": "root · tip · upside-down · place",
+    "natural": "Putting the roots and branches upside down",
+    "meaning": {
+      "en": "To put the unimportant before the important; to get one's priorities backwards.",
+      "zh": "把根本的和枝节的位置颠倒了。比喻把主次、轻重弄颠倒了。"
+    },
+    "equivalents": [
+      "put the cart before the horse",
+      "get one's priorities wrong",
+      "miss the forest for the trees"
+    ],
+    "examples": [
+      {
+        "zh": "为了买名牌而不吃饭，这是本末倒置。",
+        "en": "Skipping meals to buy designer labels is putting the cart before the horse."
+      },
+      {
+        "zh": "学校只抓考试不抓品德，有本末倒置之嫌。",
+        "en": "A school that focuses only on exams and not on character risks getting its priorities backwards."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common criticism in essays and commentary.",
+      "zh": "多作谓语，常用于批评。"
+    },
+    "synonyms": [
+      "舍本逐末",
+      "轻重倒置",
+      "喧宾夺主"
+    ],
+    "antonyms": [
+      "轻重分明",
+      "主次分明"
+    ]
+  },
+  {
+    "id": "huo-shang-jiao-you",
+    "text": "火上浇油",
+    "pinyin": "huǒ shàng jiāo yóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "inappropriate-behavior"
+    ],
+    "literal": "fire · on · pour · oil",
+    "natural": "Pouring oil on the fire",
+    "meaning": {
+      "en": "To make things worse; to add fuel to the fire.",
+      "zh": "往火上倒油。比喻使人更加愤怒或使事态更加严重。"
+    },
+    "equivalents": [
+      "add fuel to the fire",
+      "pour oil on the flames",
+      "rub salt in the wound"
+    ],
+    "examples": [
+      {
+        "zh": "他正在气头上，你别再火上浇油了。",
+        "en": "He's already furious — don't add fuel to the fire."
+      },
+      {
+        "zh": "一些不实报道对紧张局势火上浇油。",
+        "en": "Some false reports poured oil on an already tense situation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Very common in speech.",
+      "zh": "多作谓语，口语常用。"
+    },
+    "synonyms": [
+      "推波助澜",
+      "雪上加霜",
+      "煽风点火"
+    ],
+    "antonyms": [
+      "雪中送炭",
+      "釜底抽薪",
+      "息事宁人"
+    ]
+  },
+  {
+    "id": "duan-zhang-qu-yi",
+    "text": "断章取义",
+    "pinyin": "duàn zhāng qǔ yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "literary-criticism",
+      "deception-and-false-appearances"
+    ],
+    "literal": "cut · passage · take · meaning",
+    "natural": "Cut out a passage and take the meaning you want",
+    "meaning": {
+      "en": "To quote out of context; to distort meaning by selective quoting.",
+      "zh": "不顾全篇文章或谈话的内容，孤立地取其中一段或一句的意思。"
+    },
+    "equivalents": [
+      "quote out of context",
+      "cherry-pick",
+      "twist someone's words"
+    ],
+    "examples": [
+      {
+        "zh": "媒体断章取义，歪曲了他的本意。",
+        "en": "The media quoted him out of context and twisted his meaning."
+      },
+      {
+        "zh": "读书要读完整，不能断章取义。",
+        "en": "Read the whole text — don't take bits out of context."
+      }
+    ],
+    "origin": {
+      "source": "《左传·襄公二十八年》",
+      "story": {
+        "en": "In ancient diplomacy, envoys recited lines from the Book of Songs to make points. One official admitted: \"when reciting poems I cut out stanzas and take what I need\" (赋诗断章，余取所求焉).",
+        "zh": "《左传》：\"赋诗断章，余取所求焉。\"春秋时外交场合常截取《诗经》片段表达己意。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Criticises misquoting, especially in media and online.",
+      "zh": "多作谓语、定语，批评歪曲引用。"
+    },
+    "synonyms": [
+      "以偏概全",
+      "歪曲事实"
+    ],
+    "antonyms": [
+      "融会贯通",
+      "全面理解"
+    ]
+  },
+  {
+    "id": "jin-tui-liang-nan",
+    "text": "进退两难",
+    "pinyin": "jìn tuì liǎng nán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "difficult-terrain"
+    ],
+    "literal": "advance · retreat · both · hard",
+    "natural": "Hard to go forward, hard to go back",
+    "meaning": {
+      "en": "In a dilemma; stuck with no good way forward or back.",
+      "zh": "前进和后退都很困难。比喻处境困难。"
+    },
+    "equivalents": [
+      "between a rock and a hard place",
+      "caught in a dilemma",
+      "in a catch-22"
+    ],
+    "examples": [
+      {
+        "zh": "工作做到一半发现方向错了，真是进退两难。",
+        "en": "Realising halfway through that we'd gone the wrong way left us between a rock and a hard place."
+      },
+      {
+        "zh": "房价太高，买也不是，不买也不是，他陷入了进退两难的境地。",
+        "en": "House prices are so high he can't decide whether to buy — he's in a real dilemma."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (进退两难的境地).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "左右为难",
+      "骑虎难下",
+      "进退维谷"
+    ],
+    "antonyms": [
+      "进退自如",
+      "游刃有余"
+    ]
+  },
+  {
+    "id": "gai-guo-zi-xin",
+    "text": "改过自新",
+    "pinyin": "gǎi guò zì xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "conduct"
+    ],
+    "literal": "correct · fault · self · renew",
+    "natural": "Correct one's faults and start anew",
+    "meaning": {
+      "en": "To mend one's ways and make a fresh start.",
+      "zh": "改正错误，重新做人。"
+    },
+    "equivalents": [
+      "turn over a new leaf",
+      "mend one's ways",
+      "make a fresh start"
+    ],
+    "examples": [
+      {
+        "zh": "法律给了他改过自新的机会。",
+        "en": "The law gave him a chance to turn over a new leaf."
+      },
+      {
+        "zh": "他出狱后改过自新，开了一家小饭馆。",
+        "en": "After leaving prison he mended his ways and opened a small restaurant."
+      }
+    ],
+    "origin": {
+      "source": "《史记·孝文本纪》",
+      "story": {
+        "en": "The girl Tiying pleaded with Emperor Wen to spare her father from mutilating punishment, since a mutilated man \"may wish to correct his faults and renew himself, but has no way\" (欲改过自新，其道无由也). The emperor abolished such punishments.",
+        "zh": "缇萦上书救父：\"虽欲改过自新，其道无由也。\"汉文帝因此废除肉刑。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive (改过自新的机会).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "洗心革面",
+      "痛改前非",
+      "浪子回头"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "死不悔改",
+      "屡教不改"
+    ]
+  },
+  {
+    "id": "ji-yu-qiu-cheng",
+    "text": "急于求成",
+    "pinyin": "jí yú qiú chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "anxious · to · seek · success",
+    "natural": "Too anxious to succeed",
+    "meaning": {
+      "en": "Impatient for quick success.",
+      "zh": "急于取得成功。"
+    },
+    "equivalents": [
+      "want it all now",
+      "rush things",
+      "run before you can walk"
+    ],
+    "examples": [
+      {
+        "zh": "学外语不能急于求成，要循序渐进。",
+        "en": "You can't rush learning a language — take it step by step."
+      },
+      {
+        "zh": "急于求成往往欲速则不达。",
+        "en": "Being too eager for quick success often backfires."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually advice against haste.",
+      "zh": "多作谓语，常用于劝诫。"
+    },
+    "synonyms": [
+      "急功近利",
+      "拔苗助长",
+      "操之过急"
+    ],
+    "antonyms": [
+      "循序渐进",
+      "稳扎稳打",
+      "水到渠成"
+    ]
+  },
+  {
+    "id": "bai-zhe-bu-nao",
+    "text": "百折不挠",
+    "pinyin": "bǎi zhé bù náo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "laziness-and-giving-up"
+    ],
+    "literal": "hundred · setback · not · bend",
+    "natural": "A hundred setbacks without bending",
+    "meaning": {
+      "en": "Indomitable; unbowed by repeated setbacks.",
+      "zh": "无论受到多少次挫折都不退缩。形容意志坚强。"
+    },
+    "equivalents": [
+      "indomitable",
+      "never say die",
+      "keep bouncing back",
+      "unbowed"
+    ],
+    "examples": [
+      {
+        "zh": "他百折不挠，失败了十几次终于创业成功。",
+        "en": "He never gave up — after a dozen failures, his business finally took off."
+      },
+      {
+        "zh": "这部电影讲述了一个百折不挠的运动员的故事。",
+        "en": "The film tells the story of an indomitable athlete."
+      }
+    ],
+    "origin": {
+      "source": "汉·蔡邕《太尉乔玄碑》",
+      "story": {
+        "en": "Cai Yong praised the minister Qiao Xuan for \"bending under a hundred setbacks without yielding, a spirit that cannot be robbed of its principles\" (有百折不挠，临大节而不可夺之风).",
+        "zh": "蔡邕《太尉乔玄碑》：\"有百折不挠，临大节而不可夺之风。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate (百折不挠的精神). 挠 is náo.",
+      "zh": "多作定语、谓语。\"挠\"读 náo。"
+    },
+    "synonyms": [
+      "坚韧不拔",
+      "不屈不挠",
+      "锲而不舍"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "半途而废",
+      "知难而退"
+    ]
+  },
+  {
+    "id": "zi-zi-bu-juan",
+    "text": "孜孜不倦",
+    "pinyin": "zī zī bù juàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "reading-and-study"
+    ],
+    "literal": "diligent · diligent · not · tire",
+    "natural": "Diligent and never weary",
+    "meaning": {
+      "en": "Tirelessly diligent, especially in study or work.",
+      "zh": "勤奋努力，不知疲倦。"
+    },
+    "equivalents": [
+      "tireless",
+      "indefatigable",
+      "burn the midnight oil"
+    ],
+    "examples": [
+      {
+        "zh": "这位老教授至今仍孜孜不倦地做研究。",
+        "en": "The old professor still does research tirelessly."
+      },
+      {
+        "zh": "他孜孜不倦地学习，终于考上了理想的大学。",
+        "en": "He studied tirelessly and finally got into his dream university."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial (孜孜不倦地学习/工作).",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "废寝忘食",
+      "锲而不舍",
+      "勤勤恳恳"
+    ],
+    "antonyms": [
+      "无所用心",
+      "游手好闲",
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "wen-ming-xia-er",
+    "text": "闻名遐迩",
+    "pinyin": "wén míng xiá ěr",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "heard · name · far · near",
+    "natural": "Its name heard far and near",
+    "meaning": {
+      "en": "Famous far and wide.",
+      "zh": "远近都知道它的名声，形容名声很大。"
+    },
+    "equivalents": [
+      "famous far and wide",
+      "renowned",
+      "known the world over"
+    ],
+    "examples": [
+      {
+        "zh": "景德镇的瓷器闻名遐迩。",
+        "en": "Jingdezhen porcelain is famous far and wide."
+      },
+      {
+        "zh": "这家百年老店闻名遐迩，每天都排长队。",
+        "en": "This century-old shop is renowned, with long queues every day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. About places, products and people. 遐 = far, 迩 = near.",
+      "zh": "多作谓语。\"遐\"远，\"迩\"近。"
+    },
+    "synonyms": [
+      "远近闻名",
+      "举世闻名",
+      "家喻户晓"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "鲜为人知",
+      "无人问津"
+    ]
+  },
+  {
+    "id": "mie-ding-zhi-zai",
+    "text": "灭顶之灾",
+    "pinyin": "miè dǐng zhī zāi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "submerge · head-top · (of) · disaster",
+    "natural": "A disaster that goes over one's head",
+    "meaning": {
+      "en": "A catastrophe; total ruin.",
+      "zh": "水漫过头顶的灾难。比喻毁灭性的灾祸。"
+    },
+    "equivalents": [
+      "catastrophe",
+      "total disaster",
+      "the end of the road",
+      "doom"
+    ],
+    "examples": [
+      {
+        "zh": "这场金融危机给很多企业带来了灭顶之灾。",
+        "en": "The financial crisis was a catastrophe for many businesses."
+      },
+      {
+        "zh": "如果堤坝决口，下游村庄将遭受灭顶之灾。",
+        "en": "If the dam bursts, the villages downstream will be wiped out."
+      }
+    ],
+    "usage": {
+      "en": "Object of 遭受/带来/招致.",
+      "zh": "常作\"遭受、带来、招致\"的宾语。"
+    },
+    "synonyms": [
+      "弥天大祸",
+      "大难临头"
+    ],
+    "antonyms": [
+      "安然无恙",
+      "平安无事"
+    ]
+  },
+  {
+    "id": "feng-tiao-yu-shun",
+    "text": "风调雨顺",
+    "pinyin": "fēng tiáo yǔ shùn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "fortune"
+    ],
+    "literal": "wind · harmonious · rain · smooth",
+    "natural": "Winds in season and rains on time",
+    "meaning": {
+      "en": "Favourable weather for crops; good fortune.",
+      "zh": "风雨适时适量，适合农作物生长。也比喻太平。"
+    },
+    "equivalents": [
+      "good growing weather",
+      "a bumper year",
+      "fair weather"
+    ],
+    "examples": [
+      {
+        "zh": "今年风调雨顺，粮食大丰收。",
+        "en": "The weather was kind this year, and there was a bumper harvest."
+      },
+      {
+        "zh": "春节时人们祈求新年风调雨顺、国泰民安。",
+        "en": "At Spring Festival people pray for good weather and peace in the new year."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often paired with 国泰民安 in New Year wishes.",
+      "zh": "多作谓语，常与\"国泰民安\"连用。"
+    },
+    "synonyms": [
+      "五谷丰登",
+      "国泰民安"
+    ],
+    "antonyms": [
+      "天灾人祸",
+      "颗粒无收"
+    ]
+  },
+  {
+    "id": "yue-ding-su-cheng",
+    "text": "约定俗成",
+    "pinyin": "yuē dìng sú chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "standards-and-benchmarks"
+    ],
+    "literal": "agree · settle · custom · form",
+    "natural": "Settled by agreement, formed by custom",
+    "meaning": {
+      "en": "Established by common usage; accepted through long custom.",
+      "zh": "指事物的名称或社会习惯是由人们共同认定、长期实行而形成的。"
+    },
+    "equivalents": [
+      "by convention",
+      "established by custom",
+      "an unwritten rule"
+    ],
+    "examples": [
+      {
+        "zh": "很多语言规则都是约定俗成的。",
+        "en": "Many language rules are simply established by usage."
+      },
+      {
+        "zh": "在这里，见面握手是约定俗成的礼节。",
+        "en": "Here, shaking hands when you meet is the accepted custom."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·正名》",
+      "story": {
+        "en": "Xunzi argued that names have no inherent rightness: \"they are fixed by agreement; once agreed and customary, they are called right\" (约定俗成谓之宜).",
+        "zh": "《荀子·正名》：\"名无固宜，约之以命，约定俗成谓之宜。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate. Common in discussions of language and customs.",
+      "zh": "多作定语、谓语，常用于语言和习俗。"
+    },
+    "synonyms": [
+      "相沿成习",
+      "习以为常"
+    ],
+    "antonyms": [
+      "标新立异",
+      "别出心裁"
+    ]
+  },
+  {
+    "id": "lian-jie-feng-gong",
+    "text": "廉洁奉公",
+    "pinyin": "lián jié fèng gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "honest · clean · serve · public",
+    "natural": "Honest and clean in public service",
+    "meaning": {
+      "en": "Honest and incorruptible in public service.",
+      "zh": "廉洁不贪，奉行公事。"
+    },
+    "equivalents": [
+      "incorruptible",
+      "clean-handed",
+      "a dedicated public servant"
+    ],
+    "examples": [
+      {
+        "zh": "干部应当廉洁奉公，不谋私利。",
+        "en": "Officials should serve with integrity and never seek personal gain."
+      },
+      {
+        "zh": "他当了三十年官，一直廉洁奉公。",
+        "en": "In thirty years in office, he was always incorruptible."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Formal; official and news language.",
+      "zh": "多作谓语、定语，用于公文、新闻。"
+    },
+    "synonyms": [
+      "两袖清风",
+      "秉公办事",
+      "大公无私"
+    ],
+    "antonyms": [
+      "贪赃枉法",
+      "以权谋私",
+      "徇私舞弊"
+    ]
+  },
+  {
+    "id": "zheng-ben-qing-yuan",
+    "text": "正本清源",
+    "pinyin": "zhèng běn qīng yuán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "change"
+    ],
+    "literal": "correct · root · clear · source",
+    "natural": "Correct the root and clear the source",
+    "meaning": {
+      "en": "To tackle a problem at its root; a fundamental reform.",
+      "zh": "从根本上整顿，从源头上清理。"
+    },
+    "equivalents": [
+      "get to the root of the problem",
+      "clean house",
+      "root-and-branch reform"
+    ],
+    "examples": [
+      {
+        "zh": "解决食品安全问题，必须正本清源。",
+        "en": "Solving food safety problems means tackling them at the source."
+      },
+      {
+        "zh": "这篇文章对流行的误解进行了正本清源。",
+        "en": "The article sets the record straight on common misconceptions."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal; about reform or correcting misunderstandings.",
+      "zh": "多作谓语，用于整顿改革或澄清误解。"
+    },
+    "synonyms": [
+      "拨乱反正",
+      "釜底抽薪"
+    ],
+    "antonyms": [
+      "治标不治本",
+      "舍本逐末"
+    ]
+  },
+  {
+    "id": "kao-tian-chi-fan",
+    "text": "靠天吃饭",
+    "pinyin": "kào tiān chī fàn",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "farming-and-harvest",
+      "rural-wisdom"
+    ],
+    "literal": "rely on · heaven · eat · rice",
+    "natural": "Relying on the sky for one's food",
+    "meaning": {
+      "en": "To depend on the weather (or luck) for one's livelihood.",
+      "zh": "依靠自然条件维持生活，多指农业生产受天气左右。也指听天由命。"
+    },
+    "equivalents": [
+      "at the mercy of the weather",
+      "depend on luck",
+      "rely on Mother Nature"
+    ],
+    "examples": [
+      {
+        "zh": "过去农民靠天吃饭，遇上旱灾就没收成。",
+        "en": "Farmers used to be at the mercy of the weather — a drought meant no harvest."
+      },
+      {
+        "zh": "有了灌溉系统，这里不再靠天吃饭了。",
+        "en": "With an irrigation system, people here no longer depend on the weather."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Colloquial; also used about businesses that depend on luck or seasons.",
+      "zh": "多作谓语，口语。也用于受季节、运气影响的行业。"
+    },
+    "synonyms": [
+      "听天由命"
+    ],
+    "antonyms": [
+      "人定胜天",
+      "自力更生"
+    ]
+  },
+  {
+    "id": "ge-xian-shen-tong",
+    "text": "各显神通",
+    "pinyin": "gè xiǎn shén tōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "stories"
+    ],
+    "literal": "each · show · divine · powers",
+    "natural": "Each displays their magic powers",
+    "meaning": {
+      "en": "Each shows off their own special skills.",
+      "zh": "各自施展自己的本领。"
+    },
+    "equivalents": [
+      "everyone pulls out their best tricks",
+      "each plays to their strengths",
+      "show what you've got"
+    ],
+    "examples": [
+      {
+        "zh": "比赛中，各队各显神通，竞争激烈。",
+        "en": "In the contest each team showed what it could do, and the competition was fierce."
+      },
+      {
+        "zh": "为了吸引顾客，商家们各显神通。",
+        "en": "Shops are each pulling out their best tricks to attract customers."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. From the image of the Eight Immortals crossing the sea (八仙过海，各显神通).",
+      "zh": "多作谓语。常与\"八仙过海\"连用。"
+    },
+    "synonyms": [
+      "八仙过海",
+      "大显身手"
+    ],
+    "antonyms": [
+      "无计可施",
+      "束手无策"
+    ]
+  },
+  {
+    "id": "tan-te-bu-an",
+    "text": "忐忑不安",
+    "pinyin": "tǎn tè bù ān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "fear-and-cowardice"
+    ],
+    "literal": "(uneasy) · (uneasy) · not · calm",
+    "natural": "Heart thumping, unable to settle",
+    "meaning": {
+      "en": "Nervous and uneasy; on edge.",
+      "zh": "心神极为不安。"
+    },
+    "equivalents": [
+      "butterflies in one's stomach",
+      "on edge",
+      "jittery",
+      "nervous as a cat"
+    ],
+    "examples": [
+      {
+        "zh": "等待面试结果时，她忐忑不安。",
+        "en": "She had butterflies in her stomach while waiting for the interview results."
+      },
+      {
+        "zh": "第一次见女朋友的父母，他心里忐忑不安。",
+        "en": "Meeting his girlfriend's parents for the first time, he was on edge."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 忐忑 is tǎntè. Often 心里忐忑不安.",
+      "zh": "多作谓语，常用\"心里忐忑不安\"。"
+    },
+    "synonyms": [
+      "惴惴不安",
+      "提心吊胆",
+      "坐立不安"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "心安理得",
+      "若无其事"
+    ]
+  },
+  {
+    "id": "bu-ju-yi-ge",
+    "text": "不拘一格",
+    "pinyin": "bù jū yī gé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "freedom",
+      "arts"
+    ],
+    "literal": "not · confine · one · pattern",
+    "natural": "Not confined to one pattern",
+    "meaning": {
+      "en": "Not bound by convention; flexible and diverse.",
+      "zh": "不局限于一种规格或方式。"
+    },
+    "equivalents": [
+      "unconventional",
+      "think outside the box",
+      "break the mould"
+    ],
+    "examples": [
+      {
+        "zh": "公司不拘一格选人才，看能力不看学历。",
+        "en": "The company recruits unconventionally, looking at ability rather than degrees."
+      },
+      {
+        "zh": "他的写作风格不拘一格。",
+        "en": "His writing style is unconventional."
+      }
+    ],
+    "origin": {
+      "source": "清·龚自珍《己亥杂诗》",
+      "story": {
+        "en": "Gong Zizhen's poem calls on heaven: \"I urge the Lord of Heaven to rouse himself again, and send down talent not confined to one pattern\" (我劝天公重抖擞，不拘一格降人才).",
+        "zh": "龚自珍《己亥杂诗》：\"我劝天公重抖擞，不拘一格降人才。\""
+      }
+    },
+    "usage": {
+      "en": "Adverbial or predicate. Famous in the phrase 不拘一格降人才.",
+      "zh": "多作状语、谓语，常引\"不拘一格降人才\"。"
+    },
+    "synonyms": [
+      "别具一格",
+      "标新立异",
+      "打破常规"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "千篇一律",
+      "循规蹈矩"
+    ]
+  },
+  {
+    "id": "ling-ji-yi-dong",
+    "text": "灵机一动",
+    "pinyin": "líng jī yī dòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "mental-clarity"
+    ],
+    "literal": "clever · mechanism · once · move",
+    "natural": "A clever thought suddenly stirs",
+    "meaning": {
+      "en": "To have a sudden brainwave.",
+      "zh": "急忙中转了一下念头，想出了一个办法。"
+    },
+    "equivalents": [
+      "have a brainwave",
+      "a light-bulb moment",
+      "it suddenly came to me"
+    ],
+    "examples": [
+      {
+        "zh": "他灵机一动，用手机当镜子照了照后面。",
+        "en": "He had a brainwave and used his phone as a mirror to look behind him."
+      },
+      {
+        "zh": "小明灵机一动，想出了一个好主意。",
+        "en": "Xiao Ming suddenly came up with a great idea."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often opening a clause. Very common in stories and school writing. In speech 一 is yí.",
+      "zh": "多作谓语，常用于叙述。作文常用。"
+    },
+    "synonyms": [
+      "急中生智",
+      "计上心来"
+    ],
+    "antonyms": [
+      "束手无策",
+      "一筹莫展"
+    ]
+  },
+  {
+    "id": "ruo-wu-qi-shi",
+    "text": "若无其事",
+    "pinyin": "ruò wú qí shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "as if · not have · that · matter",
+    "natural": "As if nothing had happened",
+    "meaning": {
+      "en": "As if nothing had happened; calm and unconcerned.",
+      "zh": "像没有那回事一样。形容遇事沉着镇静或不把事情放在心上。"
+    },
+    "equivalents": [
+      "as if nothing had happened",
+      "cool as a cucumber",
+      "act casual"
+    ],
+    "examples": [
+      {
+        "zh": "他打碎了花瓶，却若无其事地走开了。",
+        "en": "He broke the vase and walked off as if nothing had happened."
+      },
+      {
+        "zh": "心里很紧张，她却装作若无其事的样子。",
+        "en": "She was nervous inside but acted as if nothing was wrong."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or attributive. Can praise composure or criticise indifference.",
+      "zh": "多作状语、定语，可褒可贬。"
+    },
+    "synonyms": [
+      "泰然自若",
+      "不动声色",
+      "满不在乎"
+    ],
+    "antonyms": [
+      "惊慌失措",
+      "大惊小怪",
+      "忐忑不安"
+    ]
+  }
+]
