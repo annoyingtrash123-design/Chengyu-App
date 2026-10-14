@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "shi-you-ba-jiu",
+    "text": "十有八九",
+    "pinyin": "shí yǒu bā jiǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "exact-vs-approximate"
+    ],
+    "literal": "ten · have · eight · nine",
+    "natural": "Eight or nine out of ten",
+    "meaning": {
+      "en": "Most likely; in all probability.",
+      "zh": "指绝大多数，或指可能性很大。"
+    },
+    "equivalents": [
+      "most likely",
+      "ten to one",
+      "nine times out of ten",
+      "in all likelihood"
+    ],
+    "examples": [
+      {
+        "zh": "他这么晚还没来，十有八九是堵车了。",
+        "en": "He's still not here this late — ten to one he's stuck in traffic."
+      },
+      {
+        "zh": "这种广告十有八九是骗人的。",
+        "en": "Ads like this are a scam nine times out of ten."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial. Colloquial and very common.",
+      "zh": "多作状语，口语常用。"
+    },
+    "synonyms": [
+      "八九不离十",
+      "十之八九"
+    ],
+    "antonyms": [
+      "微乎其微",
+      "百无一失"
+    ]
+  },
+  {
+    "id": "xin-shou-nian-lai",
+    "text": "信手拈来",
+    "pinyin": "xìn shǒu niān lái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "useful-tools-and-skill"
+    ],
+    "literal": "freely · hand · pick · come",
+    "natural": "Picked up with a casual hand",
+    "meaning": {
+      "en": "To produce effortlessly; to have at one's fingertips.",
+      "zh": "随手拿来。形容写文章时能自如地运用词汇或材料。"
+    },
+    "equivalents": [
+      "at one's fingertips",
+      "effortlessly",
+      "off the top of one's head"
+    ],
+    "examples": [
+      {
+        "zh": "他学识渊博，引经据典信手拈来。",
+        "en": "He's so learned that he quotes the classics off the top of his head."
+      },
+      {
+        "zh": "这些例子对她来说信手拈来。",
+        "en": "She has these examples at her fingertips."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 拈 is niān.",
+      "zh": "多作谓语。\"拈\"读 niān。"
+    },
+    "synonyms": [
+      "得心应手",
+      "随手拈来",
+      "驾轻就熟"
+    ],
+    "antonyms": [
+      "绞尽脑汁",
+      "搜肠刮肚"
+    ]
+  },
+  {
+    "id": "quan-jun-fu-mo",
+    "text": "全军覆没",
+    "pinyin": "quán jūn fù mò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "whole · army · overturn · sink",
+    "natural": "The whole army wiped out",
+    "meaning": {
+      "en": "Wiped out to the last man; a total defeat.",
+      "zh": "整个军队全部被消灭。比喻彻底失败。"
+    },
+    "equivalents": [
+      "wiped out",
+      "annihilated",
+      "a total wipeout",
+      "lose everything"
+    ],
+    "examples": [
+      {
+        "zh": "这一仗敌军全军覆没。",
+        "en": "The enemy was annihilated in this battle."
+      },
+      {
+        "zh": "我们班参加比赛的五个人全军覆没，一个都没获奖。",
+        "en": "All five from our class were knocked out — not one won a prize."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Military or humorous everyday use.",
+      "zh": "多作谓语，可用于战争或幽默地用于日常。"
+    },
+    "synonyms": [
+      "一败涂地",
+      "溃不成军",
+      "片甲不留"
+    ],
+    "antonyms": [
+      "大获全胜",
+      "凯旋而归",
+      "旗开得胜"
+    ]
+  },
+  {
+    "id": "bei-shui-yi-zhan",
+    "text": "背水一战",
+    "pinyin": "bèi shuǐ yī zhàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "back to · water · one · battle",
+    "natural": "A battle with a river at one's back",
+    "meaning": {
+      "en": "A last-ditch fight with no way to retreat.",
+      "zh": "背靠江河作战，没有退路。比喻在不利情况下和敌人决一死战，也比喻做最后一次努力。"
+    },
+    "equivalents": [
+      "a last stand",
+      "a do-or-die battle",
+      "burn one's bridges",
+      "make-or-break"
+    ],
+    "examples": [
+      {
+        "zh": "这是决赛前最后一场，球队只能背水一战。",
+        "en": "It's the last match before the final — the team must win or go home."
+      },
+      {
+        "zh": "公司资金快用完了，这次融资是背水一战。",
+        "en": "The company is almost out of money; this funding round is make-or-break."
+      }
+    ],
+    "origin": {
+      "source": "《史记·淮阴侯列传》",
+      "story": {
+        "en": "General Han Xin deliberately camped his troops with a river at their backs. With nowhere to flee, they fought desperately and defeated a much larger Zhao army.",
+        "zh": "韩信攻赵，背水列阵，士兵无路可退，拼死作战，大破赵军。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. In speech 一 is yí.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "破釜沉舟",
+      "孤注一掷",
+      "决一死战"
+    ],
+    "antonyms": [
+      "临阵脱逃",
+      "知难而退",
+      "留有余地"
+    ]
+  },
+  {
+    "id": "chen-re-da-tie",
+    "text": "趁热打铁",
+    "pinyin": "chèn rè dǎ tiě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "time-management",
+      "efficiency"
+    ],
+    "literal": "while · hot · strike · iron",
+    "natural": "Strike the iron while it's hot",
+    "meaning": {
+      "en": "To strike while the iron is hot; to seize the moment.",
+      "zh": "趁着铁烧红的时候锤打。比喻抓紧有利时机，加速进行。"
+    },
+    "equivalents": [
+      "strike while the iron is hot",
+      "make hay while the sun shines",
+      "seize the moment"
+    ],
+    "examples": [
+      {
+        "zh": "刚学完的内容要趁热打铁，马上复习。",
+        "en": "Strike while the iron is hot and revise what you've just learned straight away."
+      },
+      {
+        "zh": "新产品反响很好，公司趁热打铁推出了第二款。",
+        "en": "The new product was well received, so the company struck while the iron was hot and launched a second."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Same image as the English idiom.",
+      "zh": "多作谓语。与英语习语意象相同。"
+    },
+    "synonyms": [
+      "一鼓作气",
+      "机不可失"
+    ],
+    "antonyms": [
+      "坐失良机",
+      "错失良机"
+    ]
+  },
+  {
+    "id": "tong-bu-yu-sheng",
+    "text": "痛不欲生",
+    "pinyin": "tòng bù yù shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "pain · not · want · live",
+    "natural": "In such pain one doesn't want to live",
+    "meaning": {
+      "en": "Grief-stricken; in such pain that one wishes to die.",
+      "zh": "悲痛得不想活下去。形容悲痛到极点。"
+    },
+    "equivalents": [
+      "heartbroken",
+      "devastated",
+      "wish one were dead",
+      "inconsolable"
+    ],
+    "examples": [
+      {
+        "zh": "失去孩子后，她痛不欲生。",
+        "en": "After losing her child, she was inconsolable."
+      },
+      {
+        "zh": "牙疼起来真是痛不欲生。",
+        "en": "Toothache can be absolute agony."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Grief or (hyperbolically) physical pain.",
+      "zh": "多作谓语，可指悲痛或夸张地指疼痛。"
+    },
+    "synonyms": [
+      "悲痛欲绝",
+      "肝肠寸断",
+      "心如刀割"
+    ],
+    "antonyms": [
+      "欣喜若狂",
+      "兴高采烈",
+      "心花怒放"
+    ]
+  },
+  {
+    "id": "feng-he-ri-li",
+    "text": "风和日丽",
+    "pinyin": "fēng hé rì lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "nature"
+    ],
+    "literal": "wind · gentle · sun · beautiful",
+    "natural": "A gentle breeze and beautiful sunshine",
+    "meaning": {
+      "en": "Fine, sunny weather with a gentle breeze.",
+      "zh": "微风和煦，阳光明丽。形容晴朗暖和的天气。"
+    },
+    "equivalents": [
+      "a beautiful day",
+      "sunny and mild",
+      "fair weather"
+    ],
+    "examples": [
+      {
+        "zh": "周末风和日丽，我们去公园野餐吧。",
+        "en": "It's beautiful weather this weekend — let's have a picnic in the park."
+      },
+      {
+        "zh": "在一个风和日丽的早晨，他们出发了。",
+        "en": "They set off on a fine, sunny morning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Very common in school writing.",
+      "zh": "多作谓语、定语，作文常用。"
+    },
+    "synonyms": [
+      "春光明媚",
+      "秋高气爽",
+      "天朗气清"
+    ],
+    "antonyms": [
+      "狂风暴雨",
+      "风雨交加",
+      "阴云密布"
+    ]
+  },
+  {
+    "id": "zhou-er-fu-shi",
+    "text": "周而复始",
+    "pinyin": "zhōu ér fù shǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "circular-conclusions"
+    ],
+    "literal": "circle · and · again · begin",
+    "natural": "Going round and starting again",
+    "meaning": {
+      "en": "To go round in cycles; to repeat over and over.",
+      "zh": "转了一圈又一圈，不断循环。"
+    },
+    "equivalents": [
+      "round and round",
+      "in an endless cycle",
+      "over and over again"
+    ],
+    "examples": [
+      {
+        "zh": "春夏秋冬，周而复始。",
+        "en": "Spring, summer, autumn, winter — round and round they go."
+      },
+      {
+        "zh": "每天上班下班，周而复始，他觉得很无聊。",
+        "en": "Going to work and coming home in an endless cycle, he felt bored."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "循环往复",
+      "日复一日"
+    ],
+    "antonyms": [
+      "一去不返",
+      "一成不变"
+    ]
+  },
+  {
+    "id": "yi-wang-wu-qian",
+    "text": "一往无前",
+    "pinyin": "yī wǎng wú qián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "high-aspirations"
+    ],
+    "literal": "once · go · nothing · ahead",
+    "natural": "Going forward with nothing able to stop it",
+    "meaning": {
+      "en": "To press forward fearlessly; indomitable.",
+      "zh": "一直向前，无可阻挡。形容不怕困难，勇往直前。"
+    },
+    "equivalents": [
+      "press on regardless",
+      "unstoppable",
+      "undaunted",
+      "forge ahead"
+    ],
+    "examples": [
+      {
+        "zh": "他们以一往无前的精神完成了任务。",
+        "en": "They completed the task with undaunted spirit."
+      },
+      {
+        "zh": "认准了目标，就要一往无前。",
+        "en": "Once you're sure of your goal, press on regardless."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "勇往直前",
+      "义无反顾",
+      "所向披靡"
+    ],
+    "antonyms": [
+      "畏缩不前",
+      "裹足不前",
+      "瞻前顾后"
+    ]
+  },
+  {
+    "id": "cheng-sheng-zhui-ji",
+    "text": "乘胜追击",
+    "pinyin": "chéng shèng zhuī jī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "efficiency"
+    ],
+    "literal": "ride · victory · pursue · attack",
+    "natural": "Riding on victory to pursue the enemy",
+    "meaning": {
+      "en": "To press home an advantage; to follow up a success.",
+      "zh": "趁着胜利的形势继续追击敌人。也比喻趁有利形势扩大成果。"
+    },
+    "equivalents": [
+      "press home the advantage",
+      "capitalise on success",
+      "follow through"
+    ],
+    "examples": [
+      {
+        "zh": "上半场领先后，主队乘胜追击，又进两球。",
+        "en": "Leading at half time, the home team pressed home their advantage with two more goals."
+      },
+      {
+        "zh": "新店开张大获成功，公司乘胜追击，又开了三家。",
+        "en": "After the first shop's success, the company followed up by opening three more."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "趁热打铁",
+      "一鼓作气"
+    ],
+    "antonyms": [
+      "坐失良机",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "wen-wen-er-ya",
+    "text": "温文尔雅",
+    "pinyin": "wēn wén ěr yǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "appearance"
+    ],
+    "literal": "gentle · cultured · (so) · refined",
+    "natural": "Gentle, cultured and refined",
+    "meaning": {
+      "en": "Gentle, cultured and refined in manner.",
+      "zh": "态度温和，举止文雅。"
+    },
+    "equivalents": [
+      "refined",
+      "genteel",
+      "a perfect gentleman",
+      "well-mannered"
+    ],
+    "examples": [
+      {
+        "zh": "王教授温文尔雅，从不对学生发脾气。",
+        "en": "Professor Wang is refined and gentle and never loses his temper with students."
+      },
+      {
+        "zh": "她说话温文尔雅，很有修养。",
+        "en": "She speaks with grace and is very cultivated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "文质彬彬",
+      "彬彬有礼",
+      "落落大方"
+    ],
+    "antonyms": [
+      "粗鲁无礼",
+      "蛮横无理",
+      "粗俗不堪"
+    ]
+  },
+  {
+    "id": "nei-you-wai-huan",
+    "text": "内忧外患",
+    "pinyin": "nèi yōu wài huàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "political-corruption"
+    ],
+    "literal": "inner · worry · outer · trouble",
+    "natural": "Troubles at home and threats abroad",
+    "meaning": {
+      "en": "Troubles at home and threats from abroad.",
+      "zh": "国内的动乱和外来的祸患。也泛指内部和外部的困难。"
+    },
+    "equivalents": [
+      "beset on all sides",
+      "trouble at home and abroad",
+      "a perfect storm"
+    ],
+    "examples": [
+      {
+        "zh": "清朝末年，中国内忧外患。",
+        "en": "In the late Qing, China was beset by trouble at home and abroad."
+      },
+      {
+        "zh": "公司内忧外患，既有内部矛盾，又有激烈竞争。",
+        "en": "The company is beset on all sides — internal conflict and fierce competition."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or subject.",
+      "zh": "多作谓语、主语。"
+    },
+    "synonyms": [
+      "四面楚歌",
+      "多事之秋"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "xin-chao-peng-pai",
+    "text": "心潮澎湃",
+    "pinyin": "xīn cháo péng pài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "complex-emotional-states"
+    ],
+    "literal": "heart · tide · surge · surge",
+    "natural": "Feelings surging like a tide",
+    "meaning": {
+      "en": "Deeply stirred; emotions surging.",
+      "zh": "心里像浪潮翻腾。形容心情十分激动。"
+    },
+    "equivalents": [
+      "stirred to the core",
+      "heart racing",
+      "thrilled",
+      "choked with emotion"
+    ],
+    "examples": [
+      {
+        "zh": "看到国旗升起，我心潮澎湃。",
+        "en": "Watching the flag rise, I was stirred to the core."
+      },
+      {
+        "zh": "站在长城上，他心潮澎湃。",
+        "en": "Standing on the Great Wall, he was overcome with emotion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 澎湃 is péngpài.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "激动不已",
+      "热血沸腾",
+      "心潮起伏"
+    ],
+    "antonyms": [
+      "心如止水",
+      "无动于衷",
+      "平心静气"
+    ]
+  },
+  {
+    "id": "jin-jin-ji-jiao",
+    "text": "斤斤计较",
+    "pinyin": "jīn jīn jì jiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "measure"
+    ],
+    "literal": "catty · catty · calculate · compare",
+    "natural": "Weighing every catty",
+    "meaning": {
+      "en": "To haggle over every little thing; petty and calculating.",
+      "zh": "形容过分计较微小的利益或无关紧要的事情。"
+    },
+    "equivalents": [
+      "nickel-and-dime",
+      "penny-pinching",
+      "petty",
+      "split hairs"
+    ],
+    "examples": [
+      {
+        "zh": "朋友之间不要斤斤计较。",
+        "en": "Don't be petty between friends."
+      },
+      {
+        "zh": "他连一块钱都斤斤计较。",
+        "en": "He haggles over every single yuan."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often negated as advice.",
+      "zh": "多作谓语，常用否定劝诫。"
+    },
+    "synonyms": [
+      "锱铢必较",
+      "小肚鸡肠"
+    ],
+    "antonyms": [
+      "宽宏大量",
+      "慷慨大方",
+      "豁达大度"
+    ]
+  },
+  {
+    "id": "ji-xiang-ru-yi",
+    "text": "吉祥如意",
+    "pinyin": "jí xiáng rú yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "fortune"
+    ],
+    "literal": "lucky · auspicious · as · wished",
+    "natural": "Good fortune and everything as you wish",
+    "meaning": {
+      "en": "Good luck and every wish fulfilled (a greeting).",
+      "zh": "吉利顺心，事事如意。常用作祝福语。"
+    },
+    "equivalents": [
+      "good luck and happiness",
+      "all the best",
+      "best wishes"
+    ],
+    "examples": [
+      {
+        "zh": "祝您新年吉祥如意！",
+        "en": "Wishing you good fortune in the New Year!"
+      },
+      {
+        "zh": "窗上贴着写有\"吉祥如意\"的剪纸。",
+        "en": "Paper cuts with \"good fortune\" on them decorate the window."
+      }
+    ],
+    "usage": {
+      "en": "Greeting; predicate after 祝……. Common at New Year.",
+      "zh": "多用于祝福语。"
+    },
+    "synonyms": [
+      "万事如意",
+      "心想事成",
+      "大吉大利"
+    ],
+    "antonyms": [
+      "祸不单行",
+      "诸事不顺"
+    ]
+  },
+  {
+    "id": "lin-wei-bu-ju",
+    "text": "临危不惧",
+    "pinyin": "lín wēi bù jù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "danger"
+    ],
+    "literal": "facing · danger · not · fear",
+    "natural": "Facing danger without fear",
+    "meaning": {
+      "en": "Fearless in the face of danger.",
+      "zh": "遇到危险一点也不害怕。"
+    },
+    "equivalents": [
+      "cool under fire",
+      "brave in the face of danger",
+      "nerves of steel"
+    ],
+    "examples": [
+      {
+        "zh": "面对持刀歹徒，保安临危不惧。",
+        "en": "Faced with a knife-wielding attacker, the guard was cool under fire."
+      },
+      {
+        "zh": "他临危不惧，指挥大家有序撤离。",
+        "en": "Fearless in the face of danger, he directed an orderly evacuation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often with 沉着冷静.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "面不改色",
+      "镇定自若",
+      "视死如归"
+    ],
+    "antonyms": [
+      "惊慌失措",
+      "贪生怕死",
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "yi-ming-jing-ren",
+    "text": "一鸣惊人",
+    "pinyin": "yī míng jīng rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "one · cry · startle · people",
+    "natural": "One cry that startles everyone",
+    "meaning": {
+      "en": "To achieve sudden, striking success after obscurity.",
+      "zh": "比喻平时没有突出表现，一下子做出惊人的成绩。"
+    },
+    "equivalents": [
+      "burst onto the scene",
+      "an overnight success",
+      "make a splash",
+      "come out of nowhere"
+    ],
+    "examples": [
+      {
+        "zh": "这位新人导演的处女作一鸣惊人。",
+        "en": "The new director burst onto the scene with a stunning debut."
+      },
+      {
+        "zh": "他平时默默无闻，没想到一鸣惊人。",
+        "en": "He'd always kept a low profile — no one expected such a dramatic success."
+      }
+    ],
+    "origin": {
+      "source": "《史记·滑稽列传》",
+      "story": {
+        "en": "King Wei of Qi spent three years in idle pleasure. Chunyu Kun asked him about a bird that neither flew nor sang. The king replied: \"Once it flies it will soar to the sky; once it sings it will startle everyone\" — and he set about reforming the state.",
+        "zh": "齐威王沉湎享乐，淳于髡以\"大鸟三年不飞不鸣\"相问。齐威王说：\"此鸟不飞则已，一飞冲天；不鸣则已，一鸣惊人。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 不鸣则已. In speech 一 is yì.",
+      "zh": "多作谓语，常与\"不鸣则已\"连用。"
+    },
+    "synonyms": [
+      "一举成名",
+      "一飞冲天",
+      "崭露头角"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无声无息",
+      "碌碌无为"
+    ]
+  },
+  {
+    "id": "dao-ting-tu-shuo",
+    "text": "道听途说",
+    "pinyin": "dào tīng tú shuō",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "superficial-learning"
+    ],
+    "literal": "road · hear · way · say",
+    "natural": "Heard on the road, repeated on the way",
+    "meaning": {
+      "en": "Hearsay; rumours picked up and passed on.",
+      "zh": "路上听来的又在路上传播。泛指没有根据的传闻。"
+    },
+    "equivalents": [
+      "hearsay",
+      "rumour",
+      "second-hand gossip",
+      "I heard it on the grapevine"
+    ],
+    "examples": [
+      {
+        "zh": "这些都是道听途说，不能当真。",
+        "en": "This is all hearsay — don't take it seriously."
+      },
+      {
+        "zh": "写新闻不能根据道听途说的消息。",
+        "en": "News shouldn't be based on hearsay."
+      }
+    ],
+    "origin": {
+      "source": "《论语·阳货》",
+      "story": {
+        "en": "Confucius: \"To hear something on the road and repeat it on the way is to abandon virtue\" (道听而涂说，德之弃也).",
+        "zh": "《论语·阳货》：\"道听而涂说，德之弃也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate, attributive or object.",
+      "zh": "多作谓语、定语、宾语。"
+    },
+    "synonyms": [
+      "捕风捉影",
+      "以讹传讹",
+      "无稽之谈"
+    ],
+    "antonyms": [
+      "眼见为实",
+      "有凭有据",
+      "亲眼所见"
+    ]
+  },
+  {
+    "id": "yan-xing-yi-zhi",
+    "text": "言行一致",
+    "pinyin": "yán xíng yī zhì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "conduct"
+    ],
+    "literal": "word · deed · one · consistent",
+    "natural": "Words and deeds the same",
+    "meaning": {
+      "en": "To practise what one preaches; one's actions match one's words.",
+      "zh": "说的和做的一样。"
+    },
+    "equivalents": [
+      "practise what you preach",
+      "walk the talk",
+      "as good as one's word"
+    ],
+    "examples": [
+      {
+        "zh": "父母要言行一致，才能教育好孩子。",
+        "en": "Parents must practise what they preach to bring up children well."
+      },
+      {
+        "zh": "他是一个言行一致的人。",
+        "en": "He's someone who walks the talk."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "表里如一",
+      "说到做到",
+      "心口如一"
+    ],
+    "antonyms": [
+      "言行不一",
+      "口是心非",
+      "阳奉阴违"
+    ]
+  },
+  {
+    "id": "liang-quan-qi-mei",
+    "text": "两全其美",
+    "pinyin": "liǎng quán qí měi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "wisdom"
+    ],
+    "literal": "both · complete · their · good",
+    "natural": "Both sides perfectly satisfied",
+    "meaning": {
+      "en": "To satisfy both sides; the best of both worlds.",
+      "zh": "做一件事顾全到双方，使两方面都得到好处。"
+    },
+    "equivalents": [
+      "the best of both worlds",
+      "a win-win",
+      "have one's cake and eat it"
+    ],
+    "examples": [
+      {
+        "zh": "在家办公既能照顾孩子又能工作，真是两全其美。",
+        "en": "Working from home lets me look after the kids and work — the best of both worlds."
+      },
+      {
+        "zh": "我们想出了一个两全其美的办法。",
+        "en": "We came up with a win-win solution."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (两全其美的办法).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "一举两得",
+      "皆大欢喜",
+      "两得其便"
+    ],
+    "antonyms": [
+      "两败俱伤",
+      "顾此失彼",
+      "得不偿失"
+    ]
+  },
+  {
+    "id": "gong-kui-yi-kui",
+    "text": "功亏一篑",
+    "pinyin": "gōng kuī yī kuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks",
+      "failed-ambitions"
+    ],
+    "literal": "effort · lack · one · basket",
+    "natural": "The work falls short by one basket of earth",
+    "meaning": {
+      "en": "To fail just short of success; to fall at the last hurdle.",
+      "zh": "堆九仞高的山，只差一筐土而没能完成。比喻事情只差最后一点而没能成功。"
+    },
+    "equivalents": [
+      "fall at the last hurdle",
+      "so near and yet so far",
+      "snatch defeat from the jaws of victory"
+    ],
+    "examples": [
+      {
+        "zh": "最后一题没做完，结果功亏一篑。",
+        "en": "He didn't finish the last question and fell at the last hurdle."
+      },
+      {
+        "zh": "坚持到最后，不要功亏一篑。",
+        "en": "Hang on to the end — don't fail just short of the finish."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·旅獒》",
+      "story": {
+        "en": "The Book of Documents warns: \"Building a mountain nine ren high, the work falls short for want of one basket of earth\" (为山九仞，功亏一篑).",
+        "zh": "《尚书·旅獒》：\"为山九仞，功亏一篑。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 篑 is kuì (a basket).",
+      "zh": "多作谓语。\"篑\"读 kuì。"
+    },
+    "synonyms": [
+      "前功尽弃",
+      "半途而废",
+      "功败垂成"
+    ],
+    "antonyms": [
+      "大功告成",
+      "善始善终",
+      "功德圆满"
+    ]
+  },
+  {
+    "id": "fu-li-tang-huang",
+    "text": "富丽堂皇",
+    "pinyin": "fù lì táng huáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "appearance"
+    ],
+    "literal": "rich · beautiful · grand · magnificent",
+    "natural": "Rich, beautiful and magnificent",
+    "meaning": {
+      "en": "Splendid and magnificent (of buildings).",
+      "zh": "形容房屋宏伟豪华。"
+    },
+    "equivalents": [
+      "magnificent",
+      "sumptuous",
+      "palatial",
+      "opulent"
+    ],
+    "examples": [
+      {
+        "zh": "这座宫殿富丽堂皇。",
+        "en": "The palace is magnificent."
+      },
+      {
+        "zh": "酒店大堂装修得富丽堂皇。",
+        "en": "The hotel lobby is opulently decorated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Buildings, interiors.",
+      "zh": "多作谓语、定语，形容建筑、装修。"
+    },
+    "synonyms": [
+      "金碧辉煌",
+      "雕梁画栋"
+    ],
+    "antonyms": [
+      "简陋不堪",
+      "破败不堪",
+      "家徒四壁"
+    ]
+  },
+  {
+    "id": "zhuan-xin-zhi-zhi",
+    "text": "专心致志",
+    "pinyin": "zhuān xīn zhì zhì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "reading-and-study"
+    ],
+    "literal": "focused · heart · devote · will",
+    "natural": "Heart focused and will devoted",
+    "meaning": {
+      "en": "Wholly absorbed; with complete concentration.",
+      "zh": "把心思全放在上面。形容一心一意，聚精会神。"
+    },
+    "equivalents": [
+      "single-minded",
+      "totally absorbed",
+      "with undivided attention"
+    ],
+    "examples": [
+      {
+        "zh": "他专心致志地做作业，连饭都忘了吃。",
+        "en": "He was so absorbed in his homework that he forgot to eat."
+      },
+      {
+        "zh": "学习要专心致志，不能三心二意。",
+        "en": "Study with complete concentration — don't be half-hearted."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·告子上》",
+      "story": {
+        "en": "Mencius tells of the master Go player Yi Qiu teaching two pupils: one \"concentrated his mind and devoted his will\" (专心致志); the other daydreamed about shooting swans. The second learned far less — not for lack of brains.",
+        "zh": "弈秋教二人下棋，\"其一人专心致志，惟弈秋之为听\"，另一人想着射天鹅，结果学得不如前者。"
+      }
+    },
+    "usage": {
+      "en": "Usually adverbial. Very common in school writing.",
+      "zh": "多作状语，作文常用。"
+    },
+    "synonyms": [
+      "全神贯注",
+      "聚精会神",
+      "一心一意"
+    ],
+    "antonyms": [
+      "三心二意",
+      "心不在焉",
+      "心猿意马"
+    ]
+  },
+  {
+    "id": "qing-ju-wang-dong",
+    "text": "轻举妄动",
+    "pinyin": "qīng jǔ wàng dòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "lightly · act · rashly · move",
+    "natural": "Acting lightly and moving rashly",
+    "meaning": {
+      "en": "To act rashly without careful thought.",
+      "zh": "不经慎重考虑，盲目行动。"
+    },
+    "equivalents": [
+      "act rashly",
+      "jump the gun",
+      "go off half-cocked",
+      "rush in"
+    ],
+    "examples": [
+      {
+        "zh": "情况不明，大家不要轻举妄动。",
+        "en": "The situation is unclear — nobody act rashly."
+      },
+      {
+        "zh": "股市波动大，新手不宜轻举妄动。",
+        "en": "The stock market is volatile — beginners shouldn't rush in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually in warnings: 不要/不敢轻举妄动.",
+      "zh": "多作谓语，常用于警告。"
+    },
+    "synonyms": [
+      "鲁莽行事",
+      "草率从事",
+      "贸然行事"
+    ],
+    "antonyms": [
+      "深思熟虑",
+      "三思而行",
+      "谨小慎微"
+    ]
+  },
+  {
+    "id": "zuo-li-bu-an",
+    "text": "坐立不安",
+    "pinyin": "zuò lì bù ān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "emotions"
+    ],
+    "literal": "sit · stand · not · at ease",
+    "natural": "Unable to sit or stand at ease",
+    "meaning": {
+      "en": "Restless and on edge; unable to settle.",
+      "zh": "坐着站着都不安宁。形容心情紧张，情绪不安。"
+    },
+    "equivalents": [
+      "on pins and needles",
+      "like a cat on hot bricks",
+      "fidgety",
+      "on edge"
+    ],
+    "examples": [
+      {
+        "zh": "等待手术结果时，家属坐立不安。",
+        "en": "Waiting for the results of the operation, the family were on pins and needles."
+      },
+      {
+        "zh": "孩子这么晚还没回家，妈妈坐立不安。",
+        "en": "The child still isn't home this late, and Mum can't settle."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "忐忑不安",
+      "心神不宁",
+      "如坐针毡"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "若无其事",
+      "心安理得"
+    ]
+  }
+]
