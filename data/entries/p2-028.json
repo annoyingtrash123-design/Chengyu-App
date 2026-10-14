@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "dan-jing-shou-pa",
+    "text": "担惊受怕",
+    "pinyin": "dān jīng shòu pà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "psychological-pressure"
+    ],
+    "literal": "bear · fright · suffer · fear",
+    "natural": "live in fear",
+    "meaning": {
+      "en": "To be constantly worried and afraid.",
+      "zh": "形容提心吊胆，时刻处于恐惧之中。"
+    },
+    "equivalents": [
+      "on tenterhooks",
+      "live in fear",
+      "worry sick"
+    ],
+    "examples": [
+      {
+        "zh": "孩子出远门，父母整天担惊受怕。",
+        "en": "With the child travelling far away, the parents worry all day."
+      },
+      {
+        "zh": "那几年他一直担惊受怕。",
+        "en": "For those years he lived in constant fear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "提心吊胆",
+      "忐忑不安"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "guo-bu-qi-ran",
+    "text": "果不其然",
+    "pinyin": "guǒ bù qí rán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "natural-consequences"
+    ],
+    "literal": "indeed · not · its · so",
+    "natural": "sure enough",
+    "meaning": {
+      "en": "Just as expected.",
+      "zh": "果然如此。"
+    },
+    "equivalents": [
+      "sure enough",
+      "as expected",
+      "lo and behold"
+    ],
+    "examples": [
+      {
+        "zh": "我说他会迟到，果不其然。",
+        "en": "I said he'd be late, and sure enough he was."
+      },
+      {
+        "zh": "果不其然，天下起了雨。",
+        "en": "Sure enough, it started to rain."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial or predicate.",
+      "zh": "常放句首。"
+    },
+    "synonyms": [
+      "不出所料",
+      "意料之中"
+    ],
+    "antonyms": [
+      "出乎意料",
+      "意想不到"
+    ]
+  },
+  {
+    "id": "li-yu-bu-bai-zhi-di",
+    "text": "立于不败之地",
+    "pinyin": "lì yú bù bài zhī dì",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "success"
+    ],
+    "literal": "stand · at · not · defeated · 's · ground",
+    "natural": "be invincible",
+    "meaning": {
+      "en": "To be in an unbeatable position.",
+      "zh": "处在不会失败的地位。"
+    },
+    "equivalents": [
+      "unbeatable",
+      "in an invincible position"
+    ],
+    "examples": [
+      {
+        "zh": "只有不断创新，企业才能立于不败之地。",
+        "en": "Only by constant innovation can a company stay unbeatable."
+      },
+      {
+        "zh": "做好准备，才能立于不败之地。",
+        "en": "Only with good preparation can you be secure from defeat."
+      }
+    ],
+    "origin": {
+      "source": "《孙子·形篇》",
+      "story": {
+        "en": "Sunzi: 'The skilled fighter puts himself in a position where he cannot be defeated' (故善战者，立于不败之地).",
+        "zh": "《孙子》：“故善战者，立于不败之地，而不失敌之败也。”"
+      }
+    },
+    "usage": {
+      "en": "Usually 才能立于不败之地.",
+      "zh": "常说“才能立于不败之地”。"
+    },
+    "synonyms": [
+      "稳操胜券"
+    ],
+    "antonyms": [
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "qing-tian-pi-li",
+    "text": "晴天霹雳",
+    "pinyin": "qíng tiān pī lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "bad-fortune"
+    ],
+    "literal": "clear · sky · thunderbolt",
+    "natural": "a bolt from the blue",
+    "meaning": {
+      "en": "Sudden shocking news.",
+      "zh": "晴天里打响雷，比喻突然发生的意外事件。"
+    },
+    "equivalents": [
+      "a bolt from the blue",
+      "a bombshell"
+    ],
+    "examples": [
+      {
+        "zh": "这个消息对她来说如同晴天霹雳。",
+        "en": "The news came like a bolt from the blue."
+      },
+      {
+        "zh": "公司倒闭的消息犹如晴天霹雳。",
+        "en": "The company's collapse was a bombshell."
+      }
+    ],
+    "usage": {
+      "en": "Often 如同/犹如晴天霹雳.",
+      "zh": "常说“如同晴天霹雳”。"
+    },
+    "synonyms": [
+      "飞来横祸",
+      "祸从天降"
+    ],
+    "antonyms": [
+      "喜从天降"
+    ]
+  },
+  {
+    "id": "bu-fu-zhong-wang",
+    "text": "不负众望",
+    "pinyin": "bù fù zhòng wàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "not · fail · many · hopes",
+    "natural": "live up to expectations",
+    "meaning": {
+      "en": "To live up to everyone's expectations.",
+      "zh": "不辜负大家的期望。"
+    },
+    "equivalents": [
+      "live up to expectations",
+      "deliver"
+    ],
+    "examples": [
+      {
+        "zh": "他不负众望，夺得了冠军。",
+        "en": "He lived up to expectations and won the title."
+      },
+      {
+        "zh": "新产品不负众望，销量大增。",
+        "en": "The new product delivered, and sales soared."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "不辱使命",
+      "众望所归"
+    ],
+    "antonyms": [
+      "辜负众望",
+      "大失所望"
+    ]
+  },
+  {
+    "id": "shun-xi-wan-bian",
+    "text": "瞬息万变",
+    "pinyin": "shùn xī wàn biàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "blink · breath · ten-thousand · changes",
+    "natural": "fast-changing",
+    "meaning": {
+      "en": "Changing rapidly from moment to moment.",
+      "zh": "在极短的时间内就有很多变化。"
+    },
+    "equivalents": [
+      "fast-changing",
+      "volatile"
+    ],
+    "examples": [
+      {
+        "zh": "市场行情瞬息万变。",
+        "en": "Market conditions change from moment to moment."
+      },
+      {
+        "zh": "山里的天气瞬息万变。",
+        "en": "Mountain weather is very changeable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "风云变幻",
+      "千变万化",
+      "变幻莫测"
+    ],
+    "antonyms": [
+      "一成不变",
+      "亘古不变"
+    ]
+  },
+  {
+    "id": "bu-ke-yu-yue",
+    "text": "不可逾越",
+    "pinyin": "bù kě yú yuè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "difficult-terrain"
+    ],
+    "literal": "not · can · cross",
+    "natural": "insurmountable",
+    "meaning": {
+      "en": "Impossible to cross or overcome.",
+      "zh": "不能超越。"
+    },
+    "equivalents": [
+      "insurmountable",
+      "impassable"
+    ],
+    "examples": [
+      {
+        "zh": "两人之间有一道不可逾越的鸿沟。",
+        "en": "There's an unbridgeable gulf between them."
+      },
+      {
+        "zh": "法律是不可逾越的红线。",
+        "en": "The law is a red line that can't be crossed."
+      }
+    ],
+    "usage": {
+      "en": "Attributive.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "难以逾越"
+    ],
+    "antonyms": [
+      "畅通无阻"
+    ]
+  },
+  {
+    "id": "yu-yan-bu-xiang",
+    "text": "语焉不详",
+    "pinyin": "yǔ yān bù xiáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "confusion-and-doubt"
+    ],
+    "literal": "speak · about it · not · detailed",
+    "natural": "vague",
+    "meaning": {
+      "en": "Mentioned without detail; vague.",
+      "zh": "虽然提到了，但说得不详细。"
+    },
+    "equivalents": [
+      "vague",
+      "sketchy",
+      "short on detail"
+    ],
+    "examples": [
+      {
+        "zh": "报告对事故原因语焉不详。",
+        "en": "The report is vague about the cause of the accident."
+      },
+      {
+        "zh": "史书对此事语焉不详。",
+        "en": "The histories are sketchy on this."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "含糊其辞",
+      "模棱两可"
+    ],
+    "antonyms": [
+      "原原本本",
+      "详尽无遗"
+    ]
+  },
+  {
+    "id": "bei-tong-yu-jue",
+    "text": "悲痛欲绝",
+    "pinyin": "bēi tòng yù jué",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "grief · pain · about to · break",
+    "natural": "heartbroken",
+    "meaning": {
+      "en": "Overwhelmed with grief.",
+      "zh": "悲哀伤心到了极点。"
+    },
+    "equivalents": [
+      "heartbroken",
+      "grief-stricken",
+      "devastated"
+    ],
+    "examples": [
+      {
+        "zh": "得知儿子遇难，她悲痛欲绝。",
+        "en": "Learning her son had died, she was grief-stricken."
+      },
+      {
+        "zh": "家属们悲痛欲绝。",
+        "en": "The families were devastated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "痛不欲生",
+      "肝肠寸断"
+    ],
+    "antonyms": [
+      "欣喜若狂",
+      "喜出望外"
+    ]
+  },
+  {
+    "id": "qian-fu-hou-ji",
+    "text": "前赴后继",
+    "pinyin": "qián fù hòu jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "war",
+      "effort"
+    ],
+    "literal": "front · rush · behind · follow",
+    "natural": "one after another, undeterred",
+    "meaning": {
+      "en": "Advancing wave after wave, undeterred by losses.",
+      "zh": "前面的人冲上去了，后面的人紧跟上来，形容不断投入战斗。"
+    },
+    "equivalents": [
+      "wave after wave",
+      "undaunted"
+    ],
+    "examples": [
+      {
+        "zh": "革命先烈前赴后继，英勇奋斗。",
+        "en": "Revolutionary martyrs fought heroically, one after another."
+      },
+      {
+        "zh": "一代代科学家前赴后继。",
+        "en": "Generation after generation of scientists carry on the work."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "奋不顾身",
+      "继往开来"
+    ],
+    "antonyms": [
+      "临阵脱逃",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "fan-shan-yue-ling",
+    "text": "翻山越岭",
+    "pinyin": "fān shān yuè lǐng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "difficult-terrain"
+    ],
+    "literal": "cross · mountains · cross · ridges",
+    "natural": "cross mountains",
+    "meaning": {
+      "en": "To travel over mountains and ridges.",
+      "zh": "翻过很多山头，越过很多山岭。"
+    },
+    "equivalents": [
+      "over hill and dale",
+      "trek across mountains"
+    ],
+    "examples": [
+      {
+        "zh": "邮递员每天翻山越岭送信。",
+        "en": "The postman crosses mountains every day to deliver letters."
+      },
+      {
+        "zh": "他们翻山越岭来到这个小村庄。",
+        "en": "They trekked over the mountains to the little village."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "跋山涉水",
+      "长途跋涉"
+    ],
+    "antonyms": [
+      "一马平川"
+    ]
+  },
+  {
+    "id": "lin-wei-shou-ming",
+    "text": "临危受命",
+    "pinyin": "lín wēi shòu mìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "danger"
+    ],
+    "literal": "face · danger · receive · mission",
+    "natural": "take charge in a crisis",
+    "meaning": {
+      "en": "To take on a mission at a moment of crisis.",
+      "zh": "在危难之际接受任命。"
+    },
+    "equivalents": [
+      "step in at a crisis",
+      "take the helm in troubled times"
+    ],
+    "examples": [
+      {
+        "zh": "他临危受命，担任了球队主教练。",
+        "en": "He stepped in as head coach at a time of crisis."
+      },
+      {
+        "zh": "新总裁临危受命，挽救了公司。",
+        "en": "The new CEO took charge in the crisis and saved the company."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "挺身而出",
+      "力挽狂澜"
+    ],
+    "antonyms": [
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "bu-ke-tong-ri-er-yu",
+    "text": "不可同日而语",
+    "pinyin": "bù kě tóng rì ér yǔ",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "historical-records"
+    ],
+    "literal": "not · can · same · day · and · speak",
+    "natural": "not in the same league",
+    "meaning": {
+      "en": "Not comparable.",
+      "zh": "不能放在同一时间谈论，形容不能相提并论。"
+    },
+    "equivalents": [
+      "not in the same league",
+      "no comparison"
+    ],
+    "examples": [
+      {
+        "zh": "现在的生活和过去不可同日而语。",
+        "en": "Life now is no comparison with the past."
+      },
+      {
+        "zh": "两者的水平不可同日而语。",
+        "en": "The two aren't in the same league."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·赵策二》",
+      "story": {
+        "en": "Su Qin: 'Defeating others and being defeated, making others your subjects and being made a subject — how can they be spoken of on the same day?' (岂可同日而言之哉).",
+        "zh": "苏秦：“夫破人之与破于人也，臣人之与臣于人也，岂可同日而言之哉！”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "天壤之别",
+      "相提并论"
+    ],
+    "antonyms": [
+      "不相上下",
+      "半斤八两"
+    ]
+  },
+  {
+    "id": "you-ji-ke-cheng",
+    "text": "有机可乘",
+    "pinyin": "yǒu jī kě chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "military-strategy-and-victory"
+    ],
+    "literal": "have · chance · can · exploit",
+    "natural": "an opening to exploit",
+    "meaning": {
+      "en": "There is an opportunity to take advantage of.",
+      "zh": "有机会可以利用。"
+    },
+    "equivalents": [
+      "an opening",
+      "a chance to exploit"
+    ],
+    "examples": [
+      {
+        "zh": "管理漏洞让骗子有机可乘。",
+        "en": "Loopholes in management give fraudsters an opening."
+      },
+      {
+        "zh": "不能让敌人有机可乘。",
+        "en": "We mustn't give the enemy an opening."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Compare 可乘之机 (noun).",
+      "zh": "多作谓语；名词形式为“可乘之机”。"
+    },
+    "synonyms": [
+      "可乘之机",
+      "乘虚而入"
+    ],
+    "antonyms": [
+      "无懈可击",
+      "滴水不漏"
+    ]
+  },
+  {
+    "id": "man-shan-bian-ye",
+    "text": "漫山遍野",
+    "pinyin": "màn shān biàn yě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "numbers"
+    ],
+    "literal": "fill · mountains · cover · fields",
+    "natural": "all over the hills",
+    "meaning": {
+      "en": "Covering the mountains and fields.",
+      "zh": "山上田野里到处都是，形容很多。"
+    },
+    "equivalents": [
+      "all over the hills",
+      "everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "春天，漫山遍野都是野花。",
+        "en": "In spring, wild flowers cover the hills."
+      },
+      {
+        "zh": "羊群漫山遍野。",
+        "en": "Sheep are all over the hillsides."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性。"
+    },
+    "synonyms": [
+      "铺天盖地"
+    ],
+    "antonyms": [
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "zan-tan-bu-yi",
+    "text": "赞叹不已",
+    "pinyin": "zàn tàn bù yǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "praise · sigh · not · stop",
+    "natural": "be full of admiration",
+    "meaning": {
+      "en": "To keep praising with admiration.",
+      "zh": "不停地称赞。"
+    },
+    "equivalents": [
+      "full of admiration",
+      "marvel at"
+    ],
+    "examples": [
+      {
+        "zh": "游客们对美景赞叹不已。",
+        "en": "Tourists marvelled at the beautiful scenery."
+      },
+      {
+        "zh": "他的演奏让观众赞叹不已。",
+        "en": "His playing left the audience full of admiration."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "赞不绝口",
+      "叹为观止"
+    ],
+    "antonyms": [
+      "嗤之以鼻"
+    ]
+  },
+  {
+    "id": "er-li-zhi-nian",
+    "text": "而立之年",
+    "pinyin": "ér lì zhī nián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "experience-and-old-age",
+      "confucian-classics"
+    ],
+    "literal": "and · stand · 's · year",
+    "natural": "the age of thirty",
+    "meaning": {
+      "en": "Age thirty.",
+      "zh": "三十岁的代称。"
+    },
+    "equivalents": [
+      "thirty years old",
+      "one's thirties"
+    ],
+    "examples": [
+      {
+        "zh": "他已到了而立之年。",
+        "en": "He's now thirty."
+      },
+      {
+        "zh": "年过而立之年，她终于找到了方向。",
+        "en": "Past thirty, she finally found her path."
+      }
+    ],
+    "origin": {
+      "source": "《论语·为政》",
+      "story": {
+        "en": "Confucius: 'At fifteen I set my heart on learning; at thirty I stood firm' (三十而立).",
+        "zh": "孔子：“吾十有五而志于学，三十而立。”"
+      }
+    },
+    "usage": {
+      "en": "From 三十而立.",
+      "zh": "出自“三十而立”。"
+    },
+    "synonyms": [
+      "三十而立"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bu-jia-si-suo",
+    "text": "不假思索",
+    "pinyin": "bù jiǎ sī suǒ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow"
+    ],
+    "literal": "not · borrow · think",
+    "natural": "without thinking",
+    "meaning": {
+      "en": "Without a moment's thought.",
+      "zh": "用不着想，形容说话做事迅速。"
+    },
+    "equivalents": [
+      "without thinking",
+      "off the top of one's head"
+    ],
+    "examples": [
+      {
+        "zh": "他不假思索地回答了问题。",
+        "en": "He answered without a moment's hesitation."
+      },
+      {
+        "zh": "她不假思索就答应了。",
+        "en": "She agreed without thinking."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "脱口而出",
+      "毫不犹豫"
+    ],
+    "antonyms": [
+      "深思熟虑",
+      "三思而行",
+      "绞尽脑汁"
+    ]
+  },
+  {
+    "id": "bu-qu-bu-nao",
+    "text": "不屈不挠",
+    "pinyin": "bù qū bù náo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "not · bend · not · yield",
+    "natural": "indomitable",
+    "meaning": {
+      "en": "Unyielding in the face of difficulty.",
+      "zh": "在压力和困难面前不屈服。"
+    },
+    "equivalents": [
+      "indomitable",
+      "unyielding",
+      "dogged"
+    ],
+    "examples": [
+      {
+        "zh": "他不屈不挠地与病魔斗争。",
+        "en": "He fought his illness with indomitable spirit."
+      },
+      {
+        "zh": "人民不屈不挠地反抗侵略。",
+        "en": "The people resisted the invasion unyieldingly."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or attributive.",
+      "zh": "多作状语、定语。"
+    },
+    "synonyms": [
+      "坚强不屈",
+      "百折不挠",
+      "宁死不屈"
+    ],
+    "antonyms": [
+      "卑躬屈膝",
+      "屈膝投降",
+      "逆来顺受"
+    ]
+  },
+  {
+    "id": "shan-ran-lei-xia",
+    "text": "潸然泪下",
+    "pinyin": "shān rán lèi xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "emotions"
+    ],
+    "literal": "tearfully · tears · fall",
+    "natural": "tears roll down",
+    "meaning": {
+      "en": "Tears streaming down.",
+      "zh": "形容流泪的样子。"
+    },
+    "equivalents": [
+      "tears roll down",
+      "moved to tears"
+    ],
+    "examples": [
+      {
+        "zh": "读到这里，我不禁潸然泪下。",
+        "en": "Reading this, I couldn't help shedding tears."
+      },
+      {
+        "zh": "老人潸然泪下，久久说不出话。",
+        "en": "Tears streamed down the old man's face; he couldn't speak."
+      }
+    ],
+    "usage": {
+      "en": "Literary.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "泪流满面",
+      "热泪盈眶"
+    ],
+    "antonyms": [
+      "破涕为笑",
+      "喜笑颜开"
+    ]
+  },
+  {
+    "id": "li-shang-wang-lai",
+    "text": "礼尚往来",
+    "pinyin": "lǐ shàng wǎng lái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "culture",
+      "confucian-classics"
+    ],
+    "literal": "courtesy · values · going · coming",
+    "natural": "courtesy demands reciprocity",
+    "meaning": {
+      "en": "Courtesy calls for reciprocity.",
+      "zh": "在礼节上讲究有来有往。"
+    },
+    "equivalents": [
+      "one good turn deserves another",
+      "tit for tat"
+    ],
+    "examples": [
+      {
+        "zh": "他送了我礼物，礼尚往来，我也要回礼。",
+        "en": "He gave me a gift; courtesy demands I give one back."
+      },
+      {
+        "zh": "中国人讲究礼尚往来。",
+        "en": "Chinese people value reciprocity in courtesy."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·曲礼上》",
+      "story": {
+        "en": "'Courtesy values reciprocity. To go and not receive in return is not courteous; to receive and not go in return is also not courteous.'",
+        "zh": "《礼记》：“礼尚往来。往而不来，非礼也；来而不往，亦非礼也。”"
+      }
+    },
+    "usage": {
+      "en": "Also ironically for retaliation.",
+      "zh": "也可反讽为“以其人之道还治其人之身”。"
+    },
+    "synonyms": [
+      "投桃报李",
+      "有来有往"
+    ],
+    "antonyms": [
+      "以怨报德"
+    ]
+  },
+  {
+    "id": "tiao-tiao-kuang-kuang",
+    "text": "条条框框",
+    "pinyin": "tiáo tiáo kuàng kuàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "resistance-to-change",
+      "standards-and-benchmarks"
+    ],
+    "literal": "rules · rules · frames · frames",
+    "natural": "red tape",
+    "meaning": {
+      "en": "Rigid rules and restrictions.",
+      "zh": "比喻各种约束、限制。"
+    },
+    "equivalents": [
+      "red tape",
+      "rules and regulations",
+      "constraints"
+    ],
+    "examples": [
+      {
+        "zh": "要打破条条框框，大胆创新。",
+        "en": "We must break free of rigid rules and innovate boldly."
+      },
+      {
+        "zh": "这里的条条框框太多了。",
+        "en": "There's far too much red tape here."
+      }
+    ],
+    "usage": {
+      "en": "Usually disapproving.",
+      "zh": "多含贬义。"
+    },
+    "synonyms": [
+      "清规戒律",
+      "繁文缛节"
+    ],
+    "antonyms": [
+      "不拘一格",
+      "无拘无束"
+    ]
+  },
+  {
+    "id": "yin-ren-ru-sheng",
+    "text": "引人入胜",
+    "pinyin": "yǐn rén rù shèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "stories"
+    ],
+    "literal": "lead · people · into · wonderland",
+    "natural": "captivating",
+    "meaning": {
+      "en": "Absorbing and fascinating.",
+      "zh": "引人进入美妙的境地，现多指风景或文艺作品特别吸引人。"
+    },
+    "equivalents": [
+      "captivating",
+      "gripping",
+      "absorbing"
+    ],
+    "examples": [
+      {
+        "zh": "这部小说情节引人入胜。",
+        "en": "The novel's plot is gripping."
+      },
+      {
+        "zh": "这里的风景引人入胜。",
+        "en": "The scenery here is captivating."
+      }
+    ],
+    "origin": {
+      "source": "《世说新语·任诞》",
+      "story": {
+        "en": "Wang Hui said: 'Wine truly leads one to a wonderful realm' (酒正自引人著胜地).",
+        "zh": "《世说新语》：王卫军云：“酒正自引人著胜地。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "扣人心弦",
+      "耐人寻味"
+    ],
+    "antonyms": [
+      "枯燥乏味",
+      "索然无味",
+      "味同嚼蜡"
+    ]
+  },
+  {
+    "id": "shu-shi-wu-du",
+    "text": "熟视无睹",
+    "pinyin": "shú shì wú dǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention"
+    ],
+    "literal": "familiar · look · not · see",
+    "natural": "turn a blind eye",
+    "meaning": {
+      "en": "To be so used to something that one no longer notices it.",
+      "zh": "经常看见，却跟没看见一样，指对事物漠不关心。"
+    },
+    "equivalents": [
+      "turn a blind eye",
+      "ignore",
+      "take for granted"
+    ],
+    "examples": [
+      {
+        "zh": "对身边的浪费现象，很多人熟视无睹。",
+        "en": "Many people turn a blind eye to the waste around them."
+      },
+      {
+        "zh": "他对问题熟视无睹。",
+        "en": "He ignores the problem completely."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "视而不见",
+      "视若无睹",
+      "置若罔闻"
+    ],
+    "antonyms": [
+      "明察秋毫"
+    ]
+  },
+  {
+    "id": "hai-ren-ting-wen",
+    "text": "骇人听闻",
+    "pinyin": "hài rén tīng wén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "corruption-and-injustice"
+    ],
+    "literal": "shock · people · hear",
+    "natural": "shocking",
+    "meaning": {
+      "en": "Shocking to hear.",
+      "zh": "使人听了非常吃惊。"
+    },
+    "equivalents": [
+      "shocking",
+      "appalling",
+      "horrifying"
+    ],
+    "examples": [
+      {
+        "zh": "这是一起骇人听闻的案件。",
+        "en": "This is a shocking case."
+      },
+      {
+        "zh": "工厂的劳动条件骇人听闻。",
+        "en": "Working conditions at the factory were appalling."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "耸人听闻",
+      "触目惊心",
+      "令人发指"
+    ],
+    "antonyms": [
+      "平淡无奇"
+    ]
+  }
+]
