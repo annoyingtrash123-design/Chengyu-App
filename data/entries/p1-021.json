@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "shan-zhen-hai-wei",
+    "text": "山珍海味",
+    "pinyin": "shān zhēn hǎi wèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fine-cuisine"
+    ],
+    "literal": "mountain · delicacy · sea · flavour",
+    "natural": "Delicacies from mountain and sea",
+    "meaning": {
+      "en": "Rare delicacies; a lavish feast.",
+      "zh": "山野和海里出产的各种珍贵食品。泛指丰盛的菜肴。"
+    },
+    "equivalents": [
+      "delicacies",
+      "a lavish spread",
+      "a feast fit for a king",
+      "gourmet fare"
+    ],
+    "examples": [
+      {
+        "zh": "宴会上摆满了山珍海味。",
+        "en": "The banquet table was laden with delicacies."
+      },
+      {
+        "zh": "吃惯了山珍海味，他反而想念家常菜。",
+        "en": "Tired of gourmet food, he missed home cooking."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "美味佳肴",
+      "珍馐美味",
+      "丰盛"
+    ],
+    "antonyms": [
+      "粗茶淡饭",
+      "家常便饭",
+      "残羹冷炙"
+    ]
+  },
+  {
+    "id": "lang-tun-hu-yan",
+    "text": "狼吞虎咽",
+    "pinyin": "láng tūn hǔ yàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "simple-food-and-hunger",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "wolf · swallow · tiger · gulp",
+    "natural": "Gulping like a wolf and a tiger",
+    "meaning": {
+      "en": "To wolf down food.",
+      "zh": "形容吃东西又猛又急。"
+    },
+    "equivalents": [
+      "wolf down",
+      "gobble up",
+      "eat like a horse",
+      "bolt one's food"
+    ],
+    "examples": [
+      {
+        "zh": "他饿坏了，狼吞虎咽地吃了三碗饭。",
+        "en": "He was starving and wolfed down three bowls of rice."
+      },
+      {
+        "zh": "吃饭别狼吞虎咽，对胃不好。",
+        "en": "Don't gobble your food — it's bad for your stomach."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "大快朵颐",
+      "风卷残云",
+      "饥不择食"
+    ],
+    "antonyms": [
+      "细嚼慢咽",
+      "食不下咽",
+      "慢条斯理"
+    ]
+  },
+  {
+    "id": "yan-guo-qi-shi",
+    "text": "言过其实",
+    "pinyin": "yán guò qí shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "words · exceed · its · reality",
+    "natural": "Words going beyond the facts",
+    "meaning": {
+      "en": "To exaggerate; claims that exceed reality.",
+      "zh": "原指言语浮夸，超过实际才能。后也指话说得过分，不符合实际。"
+    },
+    "equivalents": [
+      "overstate",
+      "exaggerate",
+      "all talk",
+      "oversell"
+    ],
+    "examples": [
+      {
+        "zh": "说他是天才，有点言过其实。",
+        "en": "Calling him a genius is a bit of an overstatement."
+      },
+      {
+        "zh": "这则广告言过其实。",
+        "en": "This advert oversells the product."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·蜀书·马良传》",
+      "story": {
+        "en": "On his deathbed, Liu Bei warned Zhuge Liang about Ma Su: \"his words exceed his reality; he must not be given major responsibility\" (马谡言过其实，不可大用). Ma Su later lost the crucial Battle of Jieting.",
+        "zh": "刘备临终嘱咐诸葛亮：\"马谡言过其实，不可大用，君其察之！\"后马谡失街亭。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "夸大其词",
+      "名不副实",
+      "华而不实"
+    ],
+    "antonyms": [
+      "恰如其分",
+      "实事求是",
+      "名副其实"
+    ]
+  },
+  {
+    "id": "shi-ru-po-zhu",
+    "text": "势如破竹",
+    "pinyin": "shì rú pò zhú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "momentum · like · split · bamboo",
+    "natural": "With the force of splitting bamboo",
+    "meaning": {
+      "en": "Advancing irresistibly; sweeping victory after victory.",
+      "zh": "形势像劈竹子，头上几节破开以后，下面各节顺着刀势就分开了。比喻节节胜利，毫无阻碍。"
+    },
+    "equivalents": [
+      "carry all before one",
+      "sweep through",
+      "on a winning streak",
+      "like a hot knife through butter"
+    ],
+    "examples": [
+      {
+        "zh": "这支球队势如破竹，连赢十场。",
+        "en": "The team is on a roll, winning ten in a row."
+      },
+      {
+        "zh": "大军势如破竹，直逼京城。",
+        "en": "The army swept forward irresistibly towards the capital."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·杜预传》",
+      "story": {
+        "en": "When others urged waiting before attacking Wu, General Du Yu said: \"Our army's might is roused, like splitting bamboo — after the first few joints, the rest open at the touch of the blade.\"",
+        "zh": "杜预说：\"今兵威已振，譬如破竹，数节之后，皆迎刃而解。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "所向披靡",
+      "势不可挡",
+      "长驱直入"
+    ],
+    "antonyms": [
+      "节节败退",
+      "溃不成军",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "fan-mu-cheng-chou",
+    "text": "反目成仇",
+    "pinyin": "fǎn mù chéng chóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "conflict-and-strife"
+    ],
+    "literal": "turn · eyes · become · enemies",
+    "natural": "Turning away and becoming enemies",
+    "meaning": {
+      "en": "To fall out and become enemies.",
+      "zh": "由和好变为仇敌。"
+    },
+    "equivalents": [
+      "fall out",
+      "become bitter enemies",
+      "turn on each other"
+    ],
+    "examples": [
+      {
+        "zh": "兄弟俩为了遗产反目成仇。",
+        "en": "The brothers fell out bitterly over the inheritance."
+      },
+      {
+        "zh": "合伙人因利益冲突反目成仇。",
+        "en": "The partners turned on each other over a conflict of interest."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "翻脸不认人",
+      "势不两立",
+      "分道扬镳"
+    ],
+    "antonyms": [
+      "和好如初",
+      "重归于好",
+      "化敌为友"
+    ]
+  },
+  {
+    "id": "fei-qin-wang-shi",
+    "text": "废寝忘食",
+    "pinyin": "fèi qǐn wàng shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "reading-and-study"
+    ],
+    "literal": "abandon · sleep · forget · food",
+    "natural": "Forgoing sleep and forgetting to eat",
+    "meaning": {
+      "en": "So absorbed in work that one forgets to eat and sleep.",
+      "zh": "顾不得睡觉，忘记了吃饭。形容专心努力。"
+    },
+    "equivalents": [
+      "burn the midnight oil",
+      "work round the clock",
+      "totally absorbed"
+    ],
+    "examples": [
+      {
+        "zh": "为了研究这个课题，他废寝忘食。",
+        "en": "He worked night and day on the research, forgetting to eat and sleep."
+      },
+      {
+        "zh": "她废寝忘食地准备考试。",
+        "en": "She studied for the exam round the clock."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "夜以继日",
+      "孜孜不倦",
+      "通宵达旦"
+    ],
+    "antonyms": [
+      "无所事事",
+      "饱食终日",
+      "游手好闲"
+    ]
+  },
+  {
+    "id": "feng-sheng-he-li",
+    "text": "风声鹤唳",
+    "pinyin": "fēng shēng hè lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "fear-and-cowardice",
+      "defeat-and-military-failure"
+    ],
+    "literal": "wind · sound · crane · cry",
+    "natural": "The sound of wind and the cry of cranes",
+    "meaning": {
+      "en": "So frightened that every sound seems a threat.",
+      "zh": "形容惊慌失措，或自相惊扰。"
+    },
+    "equivalents": [
+      "jumping at shadows",
+      "in a state of panic",
+      "see danger everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "传言四起，全城风声鹤唳。",
+        "en": "With rumours everywhere, the whole city was jumping at shadows."
+      },
+      {
+        "zh": "股市暴跌后，投资者风声鹤唳。",
+        "en": "After the crash, investors saw danger in every move."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·谢玄传》",
+      "story": {
+        "en": "After Former Qin's huge army was routed at the Battle of Fei River (383), the fleeing soldiers \"heard the wind and the cries of cranes and all thought the Jin army had arrived\".",
+        "zh": "淝水之战前秦大败，溃兵\"闻风声鹤唳，皆以为王师已至\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 草木皆兵. 唳 is lì.",
+      "zh": "多作谓语，常与\"草木皆兵\"连用。"
+    },
+    "synonyms": [
+      "草木皆兵",
+      "惊弓之鸟",
+      "人心惶惶"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "若无其事",
+      "处变不惊"
+    ]
+  },
+  {
+    "id": "bing-ru-gao-huang",
+    "text": "病入膏肓",
+    "pinyin": "bìng rù gāo huāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "structural-problems"
+    ],
+    "literal": "illness · enter · heart-fat · diaphragm",
+    "natural": "The illness has entered the vitals",
+    "meaning": {
+      "en": "Beyond cure; past saving.",
+      "zh": "形容病情严重，无法医治。也比喻事态严重到不可挽救。"
+    },
+    "equivalents": [
+      "beyond cure",
+      "terminal",
+      "past saving",
+      "beyond help"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司已经病入膏肓，谁也救不了。",
+        "en": "The company is past saving — no one can rescue it."
+      },
+      {
+        "zh": "等到病入膏肓才去医院，就太晚了。",
+        "en": "If you wait until the illness is terminal, it's too late."
+      }
+    ],
+    "origin": {
+      "source": "《左传·成公十年》",
+      "story": {
+        "en": "Duke Jing of Jin dreamt his illness became two boys hiding between the heart and diaphragm (膏肓), where no medicine could reach. The doctor then said exactly that, and the duke died.",
+        "zh": "晋景公梦见疾病化为两个小孩，藏在\"肓之上，膏之下\"。医生来后也说病在膏肓，药力不及。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. 肓 is huāng (not máng).",
+      "zh": "多作谓语。\"肓\"读 huāng。"
+    },
+    "synonyms": [
+      "不可救药",
+      "无药可救",
+      "积重难返"
+    ],
+    "antonyms": [
+      "药到病除",
+      "妙手回春",
+      "起死回生"
+    ]
+  },
+  {
+    "id": "chou-mei-ku-lian",
+    "text": "愁眉苦脸",
+    "pinyin": "chóu méi kǔ liǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "body"
+    ],
+    "literal": "worried · brows · bitter · face",
+    "natural": "Knitted brows and a bitter face",
+    "meaning": {
+      "en": "A long face; looking miserable and worried.",
+      "zh": "皱着眉头，哭丧着脸。形容愁苦的神色。"
+    },
+    "equivalents": [
+      "a long face",
+      "down in the mouth",
+      "glum",
+      "a face like a wet weekend"
+    ],
+    "examples": [
+      {
+        "zh": "考试没考好，他整天愁眉苦脸。",
+        "en": "He did badly in the exam and has had a long face all day."
+      },
+      {
+        "zh": "别愁眉苦脸的，办法总会有的。",
+        "en": "Don't look so glum — there's always a way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "垂头丧气",
+      "闷闷不乐",
+      "忧心忡忡"
+    ],
+    "antonyms": [
+      "眉开眼笑",
+      "喜笑颜开",
+      "兴高采烈"
+    ]
+  },
+  {
+    "id": "duo-duo-yi-shan",
+    "text": "多多益善",
+    "pinyin": "duō duō yì shàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "military-strategy-and-victory"
+    ],
+    "literal": "many · many · more · good",
+    "natural": "The more the better",
+    "meaning": {
+      "en": "The more the better.",
+      "zh": "越多越好。"
+    },
+    "equivalents": [
+      "the more the merrier",
+      "the more the better",
+      "can't have too many"
+    ],
+    "examples": [
+      {
+        "zh": "志愿者多多益善。",
+        "en": "The more volunteers, the better."
+      },
+      {
+        "zh": "好书多多益善。",
+        "en": "You can't have too many good books."
+      }
+    ],
+    "origin": {
+      "source": "《史记·淮阴侯列传》",
+      "story": {
+        "en": "Liu Bang asked Han Xin how many troops each could command. Han Xin said Liu could lead 100,000 at most, while he himself \"the more the better\" (臣多多而益善耳).",
+        "zh": "刘邦问韩信能带多少兵，韩信说：\"臣多多而益善耳。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "韩信点兵",
+      "越多越好"
+    ],
+    "antonyms": [
+      "宁缺毋滥",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "qiao-duo-tian-gong",
+    "text": "巧夺天工",
+    "pinyin": "qiǎo duó tiān gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "arts"
+    ],
+    "literal": "skill · surpass · heaven's · work",
+    "natural": "Skill surpassing nature's own work",
+    "meaning": {
+      "en": "Workmanship so fine it surpasses nature.",
+      "zh": "人工的精巧胜过天然。形容技艺极其精巧。"
+    },
+    "equivalents": [
+      "exquisite craftsmanship",
+      "a masterpiece",
+      "better than nature itself"
+    ],
+    "examples": [
+      {
+        "zh": "这件象牙雕刻巧夺天工。",
+        "en": "The ivory carving is exquisitely crafted."
+      },
+      {
+        "zh": "苏绣巧夺天工，享誉世界。",
+        "en": "Suzhou embroidery's exquisite craftsmanship is world-renowned."
+      }
+    ],
+    "origin": {
+      "source": "元·赵孟頫《赠放烟火者》",
+      "story": {
+        "en": "The painter Zhao Mengfu wrote of fireworks: \"Human craft surpasses heaven's work\" (人间巧艺夺天工).",
+        "zh": "赵孟頫：\"人间巧艺夺天工，炼药燃灯清昼同。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Crafts and art.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "鬼斧神工",
+      "匠心独运",
+      "精雕细琢"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "拙劣不堪"
+    ]
+  },
+  {
+    "id": "shou-kou-ru-ping",
+    "text": "守口如瓶",
+    "pinyin": "shǒu kǒu rú píng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "positive-character-qualities"
+    ],
+    "literal": "guard · mouth · like · bottle",
+    "natural": "Keeping one's mouth sealed like a bottle",
+    "meaning": {
+      "en": "To keep one's lips sealed; to keep a secret.",
+      "zh": "闭口不谈，像瓶口塞紧一般。形容说话谨慎，严守秘密。"
+    },
+    "equivalents": [
+      "my lips are sealed",
+      "keep mum",
+      "tight-lipped",
+      "silent as the grave"
+    ],
+    "examples": [
+      {
+        "zh": "不管别人怎么问，他都守口如瓶。",
+        "en": "However much people asked, his lips were sealed."
+      },
+      {
+        "zh": "这件事你一定要守口如瓶。",
+        "en": "You must keep this absolutely secret."
+      }
+    ],
+    "origin": {
+      "source": "宋·周密《癸辛杂识》",
+      "story": {
+        "en": "Zhou Mi records the maxim: \"Guard your mouth like a bottle, guard your thoughts like a city\" (守口如瓶，防意如城).",
+        "zh": "周密《癸辛杂识》引语：\"守口如瓶，防意如城。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "三缄其口",
+      "缄口不言",
+      "秘而不宣"
+    ],
+    "antonyms": [
+      "口若悬河",
+      "信口开河",
+      "和盘托出"
+    ]
+  },
+  {
+    "id": "ru-zuo-zhen-zhan",
+    "text": "如坐针毡",
+    "pinyin": "rú zuò zhēn zhān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure"
+    ],
+    "literal": "like · sit · needle · felt",
+    "natural": "Like sitting on a felt full of needles",
+    "meaning": {
+      "en": "On pins and needles; extremely uneasy.",
+      "zh": "像坐在插着针的毡子上。形容心神不定，坐立不安。"
+    },
+    "equivalents": [
+      "on pins and needles",
+      "on tenterhooks",
+      "like a cat on hot bricks",
+      "squirm"
+    ],
+    "examples": [
+      {
+        "zh": "等待面试结果的那几天，我如坐针毡。",
+        "en": "Waiting for the interview result, I was on pins and needles."
+      },
+      {
+        "zh": "被老师当众批评，他如坐针毡。",
+        "en": "Criticised in front of the class, he squirmed in his seat."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·杜锡传》",
+      "story": {
+        "en": "Du Xi often admonished the crown prince, who in resentment hid needles in Du's felt cushion. Du sat on them and bled.",
+        "zh": "杜锡屡次劝谏太子，太子怀恨，在他常坐的毡子里放了针，杜锡坐下被刺出血。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坐立不安",
+      "忐忑不安",
+      "芒刺在背"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "安之若素",
+      "心安理得"
+    ]
+  },
+  {
+    "id": "xun-xun-shan-you",
+    "text": "循循善诱",
+    "pinyin": "xún xún shàn yòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods"
+    ],
+    "literal": "orderly · orderly · good at · guide",
+    "natural": "Guiding step by step, skilfully",
+    "meaning": {
+      "en": "To guide patiently and skilfully, step by step.",
+      "zh": "有步骤地善于引导别人学习。"
+    },
+    "equivalents": [
+      "patient guidance",
+      "lead by the hand",
+      "a gifted teacher"
+    ],
+    "examples": [
+      {
+        "zh": "王老师循循善诱，同学们都爱上他的课。",
+        "en": "Mr Wang guides students patiently, and everyone loves his classes."
+      },
+      {
+        "zh": "对待孩子要循循善诱，不要打骂。",
+        "en": "Guide children patiently — don't scold or hit them."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子罕》",
+      "story": {
+        "en": "Yan Hui praised Confucius: \"The Master guides people skilfully, step by step\" (夫子循循然善诱人).",
+        "zh": "颜渊赞孔子：\"夫子循循然善诱人，博我以文，约我以礼。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. About teachers and parents.",
+      "zh": "多作谓语、定语，用于老师、家长。"
+    },
+    "synonyms": [
+      "诲人不倦",
+      "因材施教",
+      "言传身教"
+    ],
+    "antonyms": [
+      "误人子弟",
+      "不教而诛"
+    ]
+  },
+  {
+    "id": "you-ran-zi-de",
+    "text": "悠然自得",
+    "pinyin": "yōu rán zì dé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "freedom"
+    ],
+    "literal": "leisurely · (suffix) · self · content",
+    "natural": "Leisurely and content",
+    "meaning": {
+      "en": "Carefree and contented; at ease.",
+      "zh": "形容悠闲而心情舒适。"
+    },
+    "equivalents": [
+      "without a care in the world",
+      "at ease",
+      "laid-back",
+      "happy as a clam"
+    ],
+    "examples": [
+      {
+        "zh": "老人在公园里悠然自得地下棋。",
+        "en": "The old men played chess in the park without a care in the world."
+      },
+      {
+        "zh": "退休后，他过着悠然自得的生活。",
+        "en": "Since retiring, he's led a laid-back life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, adverbial or attributive.",
+      "zh": "多作谓语、状语、定语。"
+    },
+    "synonyms": [
+      "怡然自得",
+      "逍遥自在",
+      "无忧无虑"
+    ],
+    "antonyms": [
+      "忧心忡忡",
+      "坐立不安",
+      "疲于奔命"
+    ]
+  },
+  {
+    "id": "lin-shi-bao-fo-jiao",
+    "text": "临时抱佛脚",
+    "pinyin": "lín shí bào fó jiǎo",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "reading-and-study"
+    ],
+    "literal": "at · time · hug · Buddha's · feet",
+    "natural": "Clutching the Buddha's feet at the last minute",
+    "meaning": {
+      "en": "To cram at the last minute; to make a last-ditch effort without preparation.",
+      "zh": "平时不烧香，事到临头才去抱佛脚求助。比喻平时没有准备，事到临头才慌忙应付。"
+    },
+    "equivalents": [
+      "cram",
+      "leave it to the last minute",
+      "pull an all-nighter",
+      "a last-ditch effort"
+    ],
+    "examples": [
+      {
+        "zh": "平时不复习，考前临时抱佛脚可不行。",
+        "en": "If you don't revise all term, cramming the night before won't cut it."
+      },
+      {
+        "zh": "面试前一天才准备，纯属临时抱佛脚。",
+        "en": "Preparing the day before the interview is pure last-minute cramming."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often 平时不烧香，临时抱佛脚.",
+      "zh": "多作谓语，常说\"平时不烧香，临时抱佛脚\"。"
+    },
+    "synonyms": [
+      "临渴掘井",
+      "临阵磨枪"
+    ],
+    "antonyms": [
+      "未雨绸缪",
+      "有备无患",
+      "防患未然"
+    ]
+  },
+  {
+    "id": "chun-chi-xiang-yi",
+    "text": "唇齿相依",
+    "pinyin": "chún chǐ xiāng yī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "body"
+    ],
+    "literal": "lips · teeth · mutually · depend",
+    "natural": "Lips and teeth depending on each other",
+    "meaning": {
+      "en": "Closely interdependent.",
+      "zh": "嘴唇和牙齿互相依存。比喻关系密切，相互依存。"
+    },
+    "equivalents": [
+      "interdependent",
+      "inextricably linked",
+      "in the same boat",
+      "joined at the hip"
+    ],
+    "examples": [
+      {
+        "zh": "两国唇齿相依，休戚与共。",
+        "en": "The two countries are closely interdependent and share each other's fortunes."
+      },
+      {
+        "zh": "上下游企业唇齿相依。",
+        "en": "Upstream and downstream companies are inextricably linked."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公五年》",
+      "story": {
+        "en": "Jin asked to pass through Yu to attack Guo. A Yu minister warned: \"If the lips are gone, the teeth will be cold\" (唇亡齿寒). Yu ignored him; Jin conquered Guo, then Yu on the way back.",
+        "zh": "晋国向虞国借道伐虢，宫之奇劝谏：\"唇亡齿寒。\"虞君不听，晋灭虢后回师灭了虞。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "唇亡齿寒",
+      "休戚相关",
+      "息息相关"
+    ],
+    "antonyms": [
+      "毫不相干",
+      "风马牛不相及"
+    ]
+  },
+  {
+    "id": "jiao-sheng-guan-yang",
+    "text": "娇生惯养",
+    "pinyin": "jiāo shēng guàn yǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "relationships"
+    ],
+    "literal": "pampered · born · spoilt · raised",
+    "natural": "Born pampered, raised spoilt",
+    "meaning": {
+      "en": "Pampered and spoilt from childhood.",
+      "zh": "从小就被宠爱、娇养惯了。"
+    },
+    "equivalents": [
+      "spoilt rotten",
+      "pampered",
+      "born with a silver spoon",
+      "mollycoddled"
+    ],
+    "examples": [
+      {
+        "zh": "他从小娇生惯养，什么家务都不会做。",
+        "en": "He was spoilt rotten as a child and can't do any housework."
+      },
+      {
+        "zh": "娇生惯养的孩子往往缺乏独立性。",
+        "en": "Pampered children often lack independence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "养尊处优",
+      "饭来张口"
+    ],
+    "antonyms": [
+      "艰苦朴素",
+      "自食其力",
+      "吃苦耐劳"
+    ]
+  },
+  {
+    "id": "ping-dan-wu-qi",
+    "text": "平淡无奇",
+    "pinyin": "píng dàn wú qí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "artistic-mediocrity"
+    ],
+    "literal": "plain · bland · not have · remarkable",
+    "natural": "Plain and unremarkable",
+    "meaning": {
+      "en": "Ordinary and unremarkable; dull.",
+      "zh": "平平常常，没有什么特别的地方。"
+    },
+    "equivalents": [
+      "run of the mill",
+      "nothing special",
+      "bland",
+      "humdrum"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影情节平淡无奇。",
+        "en": "The film's plot is nothing special."
+      },
+      {
+        "zh": "看似平淡无奇的生活中也有乐趣。",
+        "en": "There's joy even in a seemingly humdrum life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "平平常常",
+      "索然无味",
+      "千篇一律"
+    ],
+    "antonyms": [
+      "与众不同",
+      "别具一格",
+      "引人入胜"
+    ]
+  },
+  {
+    "id": "ba-xian-guo-hai",
+    "text": "八仙过海",
+    "pinyin": "bā xiān guò hǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "useful-tools-and-skill"
+    ],
+    "literal": "eight · immortals · cross · sea",
+    "natural": "The Eight Immortals crossing the sea",
+    "meaning": {
+      "en": "Each using their own special skills to achieve the goal.",
+      "zh": "比喻各自拿出本领，互相竞赛。"
+    },
+    "equivalents": [
+      "everyone pulls out their best tricks",
+      "each in their own way",
+      "different strokes for different folks"
+    ],
+    "examples": [
+      {
+        "zh": "八仙过海，各显神通，大家都拿出了自己的绝活。",
+        "en": "Like the Eight Immortals crossing the sea, everyone showed off their special skill."
+      },
+      {
+        "zh": "在比赛中，各队八仙过海，各有妙招。",
+        "en": "In the contest each team had its own clever tactics."
+      }
+    ],
+    "usage": {
+      "en": "Usually in 八仙过海，各显神通. From the legend of eight Daoist immortals each crossing the sea by their own magic.",
+      "zh": "常说\"八仙过海，各显神通\"。"
+    },
+    "synonyms": [
+      "各显神通",
+      "各显其能"
+    ],
+    "antonyms": [
+      "一筹莫展",
+      "束手无策"
+    ]
+  },
+  {
+    "id": "wu-guang-shi-se",
+    "text": "五光十色",
+    "pinyin": "wǔ guāng shí sè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "arts"
+    ],
+    "literal": "five · light · ten · colour",
+    "natural": "Five lights and ten colours",
+    "meaning": {
+      "en": "Multicoloured and dazzling; colourful and varied.",
+      "zh": "形容色彩鲜艳，花样繁多。"
+    },
+    "equivalents": [
+      "kaleidoscopic",
+      "a riot of colour",
+      "dazzling",
+      "multicoloured"
+    ],
+    "examples": [
+      {
+        "zh": "夜晚的外滩五光十色。",
+        "en": "The Bund at night is a dazzling riot of colour."
+      },
+      {
+        "zh": "商场里五光十色的商品让人眼花缭乱。",
+        "en": "The colourful goods in the mall are dizzying."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "五颜六色",
+      "绚丽多彩",
+      "姹紫嫣红"
+    ],
+    "antonyms": [
+      "黯然失色",
+      "单调乏味"
+    ]
+  },
+  {
+    "id": "an-du-chen-cang",
+    "text": "暗度陈仓",
+    "pinyin": "àn dù chén cāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "deception-and-false-appearances"
+    ],
+    "literal": "secretly · cross · Chencang",
+    "natural": "Secretly marching via Chencang",
+    "meaning": {
+      "en": "To make a feint while pursuing one's real aim covertly; also a secret affair.",
+      "zh": "比喻用明显的行动迷惑对方，暗中进行另外的活动。也指男女私通。"
+    },
+    "equivalents": [
+      "a feint",
+      "a diversion",
+      "a smokescreen",
+      "behind the scenes"
+    ],
+    "examples": [
+      {
+        "zh": "他表面上和对方谈判，实际上暗度陈仓，联系了别的买家。",
+        "en": "Outwardly negotiating, he secretly approached other buyers."
+      },
+      {
+        "zh": "这次突袭是一次成功的暗度陈仓。",
+        "en": "The surprise attack was a successful feint."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》；元杂剧",
+      "story": {
+        "en": "Liu Bang's general Han Xin openly repaired the plank roads through the mountains while secretly leading the army via Chencang to attack Xiang Yu's allies. The saying is 明修栈道，暗度陈仓.",
+        "zh": "韩信明里修复栈道，暗中从陈仓出兵，攻取关中。后称\"明修栈道，暗度陈仓\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 明修栈道. One of the Thirty-Six Stratagems.",
+      "zh": "多作谓语，常与\"明修栈道\"连用。为三十六计之一。"
+    },
+    "synonyms": [
+      "声东击西",
+      "明修栈道"
+    ],
+    "antonyms": [
+      "光明正大",
+      "明火执仗"
+    ]
+  },
+  {
+    "id": "ke-ji-feng-gong",
+    "text": "克己奉公",
+    "pinyin": "kè jǐ fèng gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "restrain · self · serve · public",
+    "natural": "Restraining oneself to serve the public",
+    "meaning": {
+      "en": "To put the public interest above one's own.",
+      "zh": "克制自己的私心，一心为公。"
+    },
+    "equivalents": [
+      "selfless public service",
+      "put the public good first",
+      "duty before self"
+    ],
+    "examples": [
+      {
+        "zh": "他克己奉公，从不利用职权谋私。",
+        "en": "He put public service first and never abused his position."
+      },
+      {
+        "zh": "干部要克己奉公，廉洁自律。",
+        "en": "Officials should serve selflessly and with integrity."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Formal; official praise.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "廉洁奉公",
+      "大公无私",
+      "公而忘私"
+    ],
+    "antonyms": [
+      "假公济私",
+      "损公肥私",
+      "以权谋私"
+    ]
+  },
+  {
+    "id": "yin-xun-shou-jiu",
+    "text": "因循守旧",
+    "pinyin": "yīn xún shǒu jiù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change"
+    ],
+    "literal": "follow · continue · keep · old",
+    "natural": "Following old ways and keeping to the past",
+    "meaning": {
+      "en": "To stick to old ways and resist change.",
+      "zh": "沿袭老规矩，不求改革。"
+    },
+    "equivalents": [
+      "stuck in the past",
+      "set in one's ways",
+      "old-fashioned",
+      "resistant to change"
+    ],
+    "examples": [
+      {
+        "zh": "因循守旧只会让企业落后。",
+        "en": "Sticking to old ways will only leave the company behind."
+      },
+      {
+        "zh": "这个部门因循守旧，效率很低。",
+        "en": "The department is set in its ways and very inefficient."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "墨守成规",
+      "故步自封",
+      "一成不变"
+    ],
+    "antonyms": [
+      "推陈出新",
+      "革故鼎新",
+      "与时俱进"
+    ]
+  },
+  {
+    "id": "zhan-qian-gu-hou",
+    "text": "瞻前顾后",
+    "pinyin": "zhān qián gù hòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "confusion-and-doubt"
+    ],
+    "literal": "look · forward · look · back",
+    "natural": "Looking forward and glancing back",
+    "meaning": {
+      "en": "To weigh things up carefully; or to be overcautious and indecisive.",
+      "zh": "看看前面，又看看后面。形容做事谨慎，考虑周密；也形容顾虑太多，犹豫不决。"
+    },
+    "equivalents": [
+      "look before you leap",
+      "weigh up the pros and cons",
+      "dither",
+      "overcautious"
+    ],
+    "examples": [
+      {
+        "zh": "做大事不能太瞻前顾后，要果断。",
+        "en": "For big decisions you can't dither too much — be decisive."
+      },
+      {
+        "zh": "他瞻前顾后，考虑得很周全。",
+        "en": "He weighed everything up carefully and thought it through."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Can praise prudence or criticise indecision.",
+      "zh": "多作谓语，可褒可贬。"
+    },
+    "synonyms": [
+      "犹豫不决",
+      "前怕狼后怕虎",
+      "深思熟虑"
+    ],
+    "antonyms": [
+      "当机立断",
+      "勇往直前",
+      "一往无前"
+    ]
+  }
+]
