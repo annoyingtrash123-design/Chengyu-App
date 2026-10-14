@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "wu-mei-jia-lian",
+    "text": "物美价廉",
+    "pinyin": "wù měi jià lián",
+    "kind": "chengyu",
+    "frequency": 1,
+    "variants": [
+      "价廉物美"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "daily",
+      "measure"
+    ],
+    "literal": "goods · fine · price · low",
+    "natural": "good and cheap",
+    "meaning": {
+      "en": "Good quality at a low price.",
+      "zh": "东西好，价钱便宜。"
+    },
+    "equivalents": [
+      "good value for money",
+      "cheap and cheerful",
+      "a bargain"
+    ],
+    "examples": [
+      {
+        "zh": "这家小店的东西物美价廉。",
+        "en": "This little shop's goods are good value for money."
+      },
+      {
+        "zh": "学生们都喜欢物美价廉的食堂。",
+        "en": "Students love the cheap, good canteen."
+      }
+    ],
+    "usage": {
+      "en": "Also 价廉物美.",
+      "zh": "也作“价廉物美”。"
+    },
+    "synonyms": [
+      "物超所值",
+      "经济实惠"
+    ],
+    "antonyms": [
+      "华而不实",
+      "以次充好"
+    ]
+  },
+  {
+    "id": "zhong-shuo-fen-yun",
+    "text": "众说纷纭",
+    "pinyin": "zhòng shuō fēn yún",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "confusion-and-doubt"
+    ],
+    "literal": "many · views · numerous · confused",
+    "natural": "opinions differ widely",
+    "meaning": {
+      "en": "Many different opinions.",
+      "zh": "人多嘴杂，议论纷纷。"
+    },
+    "equivalents": [
+      "opinions vary",
+      "there are many theories"
+    ],
+    "examples": [
+      {
+        "zh": "关于恐龙灭绝的原因众说纷纭。",
+        "en": "There are many theories about why the dinosaurs died out."
+      },
+      {
+        "zh": "对这件事，网上众说纷纭。",
+        "en": "Opinions online differ widely about this."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "各执一词",
+      "议论纷纷",
+      "见仁见智"
+    ],
+    "antonyms": [
+      "众口一词",
+      "异口同声"
+    ]
+  },
+  {
+    "id": "ge-zi-wei-zheng",
+    "text": "各自为政",
+    "pinyin": "gè zì wéi zhèng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "conflict-and-strife"
+    ],
+    "literal": "each · self · conduct · governance",
+    "natural": "everyone doing their own thing",
+    "meaning": {
+      "en": "Each acting independently without coordination.",
+      "zh": "各自按自己的主张办事，不互相配合。"
+    },
+    "equivalents": [
+      "going it alone",
+      "working in silos",
+      "uncoordinated"
+    ],
+    "examples": [
+      {
+        "zh": "部门之间各自为政，效率很低。",
+        "en": "The departments work in silos and efficiency is low."
+      },
+      {
+        "zh": "如果各自为政，就无法形成合力。",
+        "en": "If everyone goes their own way, we can't pull together."
+      }
+    ],
+    "usage": {
+      "en": "Criticism of lack of coordination.",
+      "zh": "批评缺乏协作。"
+    },
+    "synonyms": [
+      "一盘散沙",
+      "各行其是"
+    ],
+    "antonyms": [
+      "齐心协力",
+      "同舟共济",
+      "统筹兼顾"
+    ]
+  },
+  {
+    "id": "yu-zhong-xin-chang",
+    "text": "语重心长",
+    "pinyin": "yǔ zhòng xīn cháng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "effective-teaching-methods"
+    ],
+    "literal": "words · weighty · heart · long",
+    "natural": "earnest and heartfelt",
+    "meaning": {
+      "en": "Earnest words spoken with deep concern.",
+      "zh": "话语恳切有分量，情意深长。"
+    },
+    "equivalents": [
+      "earnest",
+      "heartfelt",
+      "from the heart"
+    ],
+    "examples": [
+      {
+        "zh": "老师语重心长地对我说：“要珍惜时间。”",
+        "en": "The teacher said to me earnestly: 'Treasure your time.'"
+      },
+      {
+        "zh": "父亲语重心长的一番话让他很受触动。",
+        "en": "His father's heartfelt words moved him deeply."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; for advice from elders.",
+      "zh": "多作状语，多指长辈劝告。"
+    },
+    "synonyms": [
+      "苦口婆心",
+      "推心置腹"
+    ],
+    "antonyms": [
+      "冷嘲热讽",
+      "轻描淡写"
+    ]
+  },
+  {
+    "id": "de-cai-jian-bei",
+    "text": "德才兼备",
+    "pinyin": "dé cái jiān bèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "variants": [
+      "才德兼备"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "virtue · talent · both · complete",
+    "natural": "both virtuous and able",
+    "meaning": {
+      "en": "Having both moral integrity and ability.",
+      "zh": "既有好的品德，又有才能。"
+    },
+    "equivalents": [
+      "of both integrity and talent"
+    ],
+    "examples": [
+      {
+        "zh": "要选拔德才兼备的干部。",
+        "en": "We must choose officials of both integrity and talent."
+      },
+      {
+        "zh": "他德才兼备，深受同事敬重。",
+        "en": "He's both capable and principled, and widely respected."
+      }
+    ],
+    "usage": {
+      "en": "Official and HR language.",
+      "zh": "多用于选拔人才。"
+    },
+    "synonyms": [
+      "文武双全"
+    ],
+    "antonyms": [
+      "德薄才疏",
+      "无德无能"
+    ]
+  },
+  {
+    "id": "le-ci-bu-pi",
+    "text": "乐此不疲",
+    "pinyin": "lè cǐ bù pí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "effort",
+      "historical-records"
+    ],
+    "literal": "enjoy · this · not · tire",
+    "natural": "never tire of it",
+    "meaning": {
+      "en": "Enjoying something so much one never tires of it.",
+      "zh": "因酷爱做某事而不感觉疲倦。"
+    },
+    "equivalents": [
+      "never tire of",
+      "love doing"
+    ],
+    "examples": [
+      {
+        "zh": "他每天写书法，乐此不疲。",
+        "en": "He practises calligraphy every day and never tires of it."
+      },
+      {
+        "zh": "孩子们对这个游戏乐此不疲。",
+        "en": "The children never get tired of this game."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·光武帝纪》",
+      "story": {
+        "en": "When the crown prince urged Emperor Guangwu to rest from his constant work, the emperor replied: 'I enjoy this; it does not tire me' (我自乐此，不为疲也).",
+        "zh": "太子劝光武帝休息，帝说：“我自乐此，不为疲也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "孜孜不倦",
+      "津津有味"
+    ],
+    "antonyms": [
+      "兴味索然",
+      "厌倦"
+    ]
+  },
+  {
+    "id": "fang-xing-wei-ai",
+    "text": "方兴未艾",
+    "pinyin": "fāng xīng wèi ài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "change",
+      "innovation-and-progress"
+    ],
+    "literal": "just · rising · not yet · ending",
+    "natural": "in the ascendant",
+    "meaning": {
+      "en": "Just beginning to flourish and still growing.",
+      "zh": "事物正在兴起、发展，尚未停止。"
+    },
+    "equivalents": [
+      "on the rise",
+      "booming",
+      "in the ascendant"
+    ],
+    "examples": [
+      {
+        "zh": "电子商务方兴未艾。",
+        "en": "E-commerce is still on the rise."
+      },
+      {
+        "zh": "新能源产业方兴未艾。",
+        "en": "The new-energy industry is booming."
+      }
+    ],
+    "usage": {
+      "en": "艾 means 'end' here. Predicate.",
+      "zh": "“艾”意为停止。多作谓语。"
+    },
+    "synonyms": [
+      "蒸蒸日上",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "日薄西山",
+      "江河日下",
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "wu-yan-liu-se",
+    "text": "五颜六色",
+    "pinyin": "wǔ yán liù sè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "arts"
+    ],
+    "literal": "five · colours · six · hues",
+    "natural": "multicoloured",
+    "meaning": {
+      "en": "Of many bright colours.",
+      "zh": "形容色彩复杂或花样繁多。"
+    },
+    "equivalents": [
+      "colourful",
+      "multicoloured",
+      "all the colours of the rainbow"
+    ],
+    "examples": [
+      {
+        "zh": "花园里开满了五颜六色的花。",
+        "en": "The garden is full of colourful flowers."
+      },
+      {
+        "zh": "孩子们穿着五颜六色的衣服。",
+        "en": "The children are dressed in all colours."
+      }
+    ],
+    "usage": {
+      "en": "Very common, everyday.",
+      "zh": "极常用。"
+    },
+    "synonyms": [
+      "五彩缤纷",
+      "姹紫嫣红",
+      "丰富多彩"
+    ],
+    "antonyms": [
+      "单调乏味",
+      "黑白分明"
+    ]
+  },
+  {
+    "id": "wu-dong-yu-zhong",
+    "text": "无动于衷",
+    "pinyin": "wú dòng yú zhōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "negative-character-flaws"
+    ],
+    "literal": "not · move · in · heart",
+    "natural": "unmoved",
+    "meaning": {
+      "en": "Completely unmoved; indifferent.",
+      "zh": "内心毫无触动。"
+    },
+    "equivalents": [
+      "unmoved",
+      "indifferent",
+      "stony"
+    ],
+    "examples": [
+      {
+        "zh": "看到别人受苦，他竟无动于衷。",
+        "en": "He was unmoved at the sight of others suffering."
+      },
+      {
+        "zh": "不管怎么劝，她都无动于衷。",
+        "en": "No matter how we pleaded, she remained indifferent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "漠不关心",
+      "麻木不仁",
+      "熟视无睹"
+    ],
+    "antonyms": [
+      "感同身受",
+      "热泪盈眶",
+      "感人肺腑"
+    ]
+  },
+  {
+    "id": "huang-yin-wu-du",
+    "text": "荒淫无度",
+    "pinyin": "huāng yín wú dù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "luxury-and-extravagance",
+      "political-corruption"
+    ],
+    "literal": "dissolute · licentious · no · limit",
+    "natural": "utterly debauched",
+    "meaning": {
+      "en": "Indulging in pleasure without restraint.",
+      "zh": "沉湎于酒色，没有节制。"
+    },
+    "equivalents": [
+      "debauched",
+      "dissolute"
+    ],
+    "examples": [
+      {
+        "zh": "这位昏君荒淫无度，最终亡国。",
+        "en": "The debauched ruler indulged himself without limit and lost his kingdom."
+      },
+      {
+        "zh": "贪官生活荒淫无度。",
+        "en": "The corrupt official lived a life of utter debauchery."
+      }
+    ],
+    "usage": {
+      "en": "Historical and news criticism.",
+      "zh": "多用于批评昏君、贪官。"
+    },
+    "synonyms": [
+      "花天酒地",
+      "纸醉金迷",
+      "醉生梦死"
+    ],
+    "antonyms": [
+      "克勤克俭",
+      "勤政爱民"
+    ]
+  },
+  {
+    "id": "chang-tong-wu-zu",
+    "text": "畅通无阻",
+    "pinyin": "chàng tōng wú zǔ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "efficiency"
+    ],
+    "literal": "smooth · through · no · obstacle",
+    "natural": "unimpeded",
+    "meaning": {
+      "en": "Passing through without any obstruction.",
+      "zh": "顺利通行，没有阻碍。"
+    },
+    "equivalents": [
+      "clear",
+      "unobstructed",
+      "smooth sailing"
+    ],
+    "examples": [
+      {
+        "zh": "新路修好后，交通畅通无阻。",
+        "en": "Since the new road was built, traffic flows freely."
+      },
+      {
+        "zh": "这张卡在全国各地畅通无阻。",
+        "en": "The card works everywhere in the country."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一路顺风",
+      "四通八达"
+    ],
+    "antonyms": [
+      "水泄不通",
+      "寸步难行",
+      "举步维艰"
+    ]
+  },
+  {
+    "id": "du-shu-yi-zhi",
+    "text": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "arts",
+      "innovation-and-progress"
+    ],
+    "literal": "alone · raise · one · banner",
+    "natural": "in a class of one's own",
+    "meaning": {
+      "en": "Distinctive; establishing one's own style.",
+      "zh": "单独树起一面旗帜，比喻自成一家。"
+    },
+    "equivalents": [
+      "one of a kind",
+      "unique",
+      "stand out"
+    ],
+    "examples": [
+      {
+        "zh": "他的画风独树一帜。",
+        "en": "His painting style is one of a kind."
+      },
+      {
+        "zh": "这家餐厅在本地独树一帜。",
+        "en": "The restaurant stands out in the local scene."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "别具一格",
+      "与众不同",
+      "标新立异"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "人云亦云",
+      "随波逐流"
+    ]
+  },
+  {
+    "id": "sheng-chi-jian-yong",
+    "text": "省吃俭用",
+    "pinyin": "shěng chī jiǎn yòng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "contentment-and-simplicity",
+      "poverty-and-hardship"
+    ],
+    "literal": "save · eating · frugal · using",
+    "natural": "scrimp and save",
+    "meaning": {
+      "en": "To live frugally.",
+      "zh": "节约吃用。"
+    },
+    "equivalents": [
+      "scrimp and save",
+      "tighten one's belt",
+      "live frugally"
+    ],
+    "examples": [
+      {
+        "zh": "父母省吃俭用供我上学。",
+        "en": "My parents scrimped and saved to put me through school."
+      },
+      {
+        "zh": "奶奶一辈子省吃俭用。",
+        "en": "Grandma lived frugally all her life."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "节衣缩食",
+      "勤俭节约",
+      "精打细算"
+    ],
+    "antonyms": [
+      "铺张浪费",
+      "大手大脚",
+      "挥金如土"
+    ]
+  },
+  {
+    "id": "bu-zu-wei-qi",
+    "text": "不足为奇",
+    "pinyin": "bù zú wéi qí",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily"
+    ],
+    "literal": "not · enough · be · strange",
+    "natural": "nothing surprising",
+    "meaning": {
+      "en": "Not at all surprising.",
+      "zh": "不值得奇怪。"
+    },
+    "equivalents": [
+      "not surprising",
+      "nothing unusual"
+    ],
+    "examples": [
+      {
+        "zh": "他这么努力，考第一也不足为奇。",
+        "en": "Given how hard he works, coming first is no surprise."
+      },
+      {
+        "zh": "这种情况在夏天不足为奇。",
+        "en": "This is nothing unusual in summer."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "司空见惯",
+      "习以为常",
+      "屡见不鲜"
+    ],
+    "antonyms": [
+      "大吃一惊",
+      "难以置信",
+      "难能可贵"
+    ]
+  },
+  {
+    "id": "ren-wu-ke-ren",
+    "text": "忍无可忍",
+    "pinyin": "rěn wú kě rěn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "conflict-and-strife"
+    ],
+    "literal": "endure · not · can · endure",
+    "natural": "can't take it any more",
+    "meaning": {
+      "en": "Pushed beyond the limits of endurance.",
+      "zh": "再也无法忍受了。"
+    },
+    "equivalents": [
+      "the last straw",
+      "fed up",
+      "at the end of one's tether"
+    ],
+    "examples": [
+      {
+        "zh": "邻居天天吵闹，他终于忍无可忍。",
+        "en": "With the neighbours making noise every day, he finally snapped."
+      },
+      {
+        "zh": "忍无可忍，她当场辞职了。",
+        "en": "She'd had enough and quit on the spot."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "是可忍，孰不可忍"
+    ],
+    "antonyms": [
+      "忍气吞声",
+      "逆来顺受",
+      "息事宁人"
+    ]
+  },
+  {
+    "id": "mai-tou-ku-gan",
+    "text": "埋头苦干",
+    "pinyin": "mái tóu kǔ gàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort"
+    ],
+    "literal": "bury · head · hard · work",
+    "natural": "keep one's head down and work",
+    "meaning": {
+      "en": "To work hard with total concentration.",
+      "zh": "专心致志地刻苦工作。"
+    },
+    "equivalents": [
+      "keep one's nose to the grindstone",
+      "work flat out"
+    ],
+    "examples": [
+      {
+        "zh": "他埋头苦干了十年，终于成功。",
+        "en": "He kept his nose to the grindstone for ten years and finally succeeded."
+      },
+      {
+        "zh": "大家都在埋头苦干，没人说话。",
+        "en": "Everyone was working flat out in silence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 埋 is mái.",
+      "zh": "多作谓语，“埋”读mái。"
+    },
+    "synonyms": [
+      "兢兢业业",
+      "任劳任怨",
+      "勤勤恳恳"
+    ],
+    "antonyms": [
+      "游手好闲",
+      "好逸恶劳",
+      "偷懒"
+    ]
+  },
+  {
+    "id": "yu-yu-cong-cong",
+    "text": "郁郁葱葱",
+    "pinyin": "yù yù cōng cōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "plant-and-natural-world"
+    ],
+    "literal": "lush · lush · green · green",
+    "natural": "lush and green",
+    "meaning": {
+      "en": "Thick with lush green vegetation.",
+      "zh": "形容草木苍翠茂盛。"
+    },
+    "equivalents": [
+      "lush",
+      "verdant",
+      "green and leafy"
+    ],
+    "examples": [
+      {
+        "zh": "山上树木郁郁葱葱。",
+        "en": "The hills are lush with trees."
+      },
+      {
+        "zh": "经过治理，荒山变得郁郁葱葱。",
+        "en": "After restoration, the barren hills became green and leafy."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive, nature writing.",
+      "zh": "描写自然景色。"
+    },
+    "synonyms": [
+      "枝繁叶茂",
+      "绿树成荫"
+    ],
+    "antonyms": [
+      "寸草不生",
+      "万木凋零",
+      "一片荒芜"
+    ]
+  },
+  {
+    "id": "shi-ban-gong-bei",
+    "text": "事半功倍",
+    "pinyin": "shì bàn gōng bèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "useful-tools-and-skill",
+      "confucian-classics"
+    ],
+    "literal": "work · half · result · double",
+    "natural": "half the effort, twice the result",
+    "meaning": {
+      "en": "Achieving more with less effort.",
+      "zh": "用一半的工夫，得到加倍的效果。"
+    },
+    "equivalents": [
+      "work smarter, not harder",
+      "get more for less"
+    ],
+    "examples": [
+      {
+        "zh": "方法对了，学习就能事半功倍。",
+        "en": "With the right method, you get twice the result for half the effort."
+      },
+      {
+        "zh": "用好工具，工作会事半功倍。",
+        "en": "Good tools make work far more efficient."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "Mencius: in such favourable times, 'with half the effort of the ancients, the result would surely be double' (故事半古之人，功必倍之).",
+        "zh": "《孟子》：“故事半古之人，功必倍之，惟此时为然。”"
+      }
+    },
+    "usage": {
+      "en": "Opposite 事倍功半.",
+      "zh": "反义“事倍功半”。"
+    },
+    "synonyms": [
+      "行之有效",
+      "一举两得"
+    ],
+    "antonyms": [
+      "事倍功半",
+      "劳而无功",
+      "徒劳无功"
+    ]
+  },
+  {
+    "id": "bu-xing-ren-shi",
+    "text": "不省人事",
+    "pinyin": "bù xǐng rén shì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "not · aware · human · affairs",
+    "natural": "unconscious",
+    "meaning": {
+      "en": "Unconscious; out cold.",
+      "zh": "昏迷过去，失去知觉。"
+    },
+    "equivalents": [
+      "unconscious",
+      "out cold"
+    ],
+    "examples": [
+      {
+        "zh": "他被救上来时已经不省人事。",
+        "en": "He was unconscious when he was pulled out."
+      },
+      {
+        "zh": "她喝得不省人事。",
+        "en": "She drank herself unconscious."
+      }
+    ],
+    "usage": {
+      "en": "省 is xǐng (aware) here.",
+      "zh": "“省”读xǐng。"
+    },
+    "synonyms": [
+      "昏迷不醒"
+    ],
+    "antonyms": [
+      "神志清醒"
+    ]
+  },
+  {
+    "id": "fen-men-bie-lei",
+    "text": "分门别类",
+    "pinyin": "fēn mén bié lèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "divide · category · distinguish · type",
+    "natural": "sort into categories",
+    "meaning": {
+      "en": "To classify by category.",
+      "zh": "把事物按照特性分成各种门类。"
+    },
+    "equivalents": [
+      "classify",
+      "sort into groups"
+    ],
+    "examples": [
+      {
+        "zh": "图书馆把书分门别类地摆放。",
+        "en": "The library shelves books by category."
+      },
+      {
+        "zh": "他把资料分门别类整理好。",
+        "en": "He sorted the materials into categories."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "井然有序",
+      "有条不紊"
+    ],
+    "antonyms": [
+      "杂乱无章",
+      "混为一谈"
+    ]
+  },
+  {
+    "id": "ming-ming-bai-bai",
+    "text": "明明白白",
+    "pinyin": "míng míng bái bái",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "mental-clarity"
+    ],
+    "literal": "clear · clear",
+    "natural": "perfectly clear",
+    "meaning": {
+      "en": "Clear and obvious; clearly.",
+      "zh": "非常清楚、明白。"
+    },
+    "equivalents": [
+      "crystal clear",
+      "in black and white"
+    ],
+    "examples": [
+      {
+        "zh": "合同上写得明明白白。",
+        "en": "It's in black and white in the contract."
+      },
+      {
+        "zh": "我明明白白地告诉过你。",
+        "en": "I told you perfectly clearly."
+      }
+    ],
+    "usage": {
+      "en": "Reduplicated adjective.",
+      "zh": "重叠形式。"
+    },
+    "synonyms": [
+      "清清楚楚",
+      "一清二楚"
+    ],
+    "antonyms": [
+      "稀里糊涂",
+      "不明不白"
+    ]
+  },
+  {
+    "id": "re-qing-yang-yi",
+    "text": "热情洋溢",
+    "pinyin": "rè qíng yáng yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "positive-character-qualities"
+    ],
+    "literal": "warm · feeling · overflowing",
+    "natural": "brimming with warmth",
+    "meaning": {
+      "en": "Full of warmth and enthusiasm.",
+      "zh": "热烈的感情充分地流露出来。"
+    },
+    "equivalents": [
+      "warm and enthusiastic",
+      "effusive"
+    ],
+    "examples": [
+      {
+        "zh": "校长发表了热情洋溢的讲话。",
+        "en": "The principal gave a warm, enthusiastic speech."
+      },
+      {
+        "zh": "她热情洋溢地欢迎我们。",
+        "en": "She welcomed us warmly."
+      }
+    ],
+    "usage": {
+      "en": "For speeches, letters, welcomes.",
+      "zh": "多用于讲话、信件、欢迎。"
+    },
+    "synonyms": [
+      "热情好客",
+      "满腔热忱"
+    ],
+    "antonyms": [
+      "冷若冰霜",
+      "冷酷无情",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "da-zhang-qi-gu",
+    "text": "大张旗鼓",
+    "pinyin": "dà zhāng qí gǔ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "war"
+    ],
+    "literal": "greatly · spread · flags · drums",
+    "natural": "with great fanfare",
+    "meaning": {
+      "en": "On a grand scale with lots of publicity.",
+      "zh": "大规模地摆开旗帜和鼓，形容声势和规模很大。"
+    },
+    "equivalents": [
+      "with great fanfare",
+      "high-profile"
+    ],
+    "examples": [
+      {
+        "zh": "公司大张旗鼓地推出新产品。",
+        "en": "The company launched its new product with great fanfare."
+      },
+      {
+        "zh": "这种事不宜大张旗鼓。",
+        "en": "This sort of thing shouldn't be made a big fuss of."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "声势浩大",
+      "轰轰烈烈"
+    ],
+    "antonyms": [
+      "偃旗息鼓",
+      "悄无声息",
+      "无声无息"
+    ]
+  },
+  {
+    "id": "fang-bu-sheng-fang",
+    "text": "防不胜防",
+    "pinyin": "fáng bù shèng fáng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "deception-and-false-appearances"
+    ],
+    "literal": "guard · not · fully · guard",
+    "natural": "impossible to guard against",
+    "meaning": {
+      "en": "Impossible to guard against fully.",
+      "zh": "要防备的太多，防备不过来。"
+    },
+    "equivalents": [
+      "impossible to prevent",
+      "hard to guard against"
+    ],
+    "examples": [
+      {
+        "zh": "网络诈骗手段多样，让人防不胜防。",
+        "en": "Online scams are so varied they're impossible to guard against."
+      },
+      {
+        "zh": "小偷的手法防不胜防。",
+        "en": "The pickpockets' tricks are hard to guard against."
+      }
+    ],
+    "usage": {
+      "en": "胜 is shèng (fully).",
+      "zh": "“胜”读shèng。"
+    },
+    "synonyms": [
+      "猝不及防"
+    ],
+    "antonyms": [
+      "有备无患"
+    ]
+  },
+  {
+    "id": "jing-hun-wei-ding",
+    "text": "惊魂未定",
+    "pinyin": "jīng hún wèi dìng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "emotions"
+    ],
+    "literal": "startled · soul · not yet · settled",
+    "natural": "still shaken",
+    "meaning": {
+      "en": "Still in shock after a fright.",
+      "zh": "受惊后心神还没有安定下来。"
+    },
+    "equivalents": [
+      "still in shock",
+      "shaken"
+    ],
+    "examples": [
+      {
+        "zh": "地震过后，居民们惊魂未定。",
+        "en": "After the earthquake, residents were still in shock."
+      },
+      {
+        "zh": "她惊魂未定地讲述了经过。",
+        "en": "Still shaken, she described what happened."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "心有余悸",
+      "魂不附体"
+    ],
+    "antonyms": [
+      "若无其事",
+      "泰然自若",
+      "镇定自若"
+    ]
+  }
+]
