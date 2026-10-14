@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "hua-yan-qiao-yu",
+    "text": "花言巧语",
+    "pinyin": "huā yán qiǎo yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "flowery · words · clever · speech",
+    "natural": "Flowery words and clever talk",
+    "meaning": {
+      "en": "Sweet talk; fine-sounding but deceptive words.",
+      "zh": "原指铺张修饰而无实际内容的言语或文辞，后多指用来骗人的虚伪动听的话。"
+    },
+    "equivalents": [
+      "sweet talk",
+      "smooth talk",
+      "honeyed words",
+      "sweet nothings"
+    ],
+    "examples": [
+      {
+        "zh": "别被他的花言巧语骗了。",
+        "en": "Don't be taken in by his sweet talk."
+      },
+      {
+        "zh": "推销员花言巧语，老人买了一堆没用的保健品。",
+        "en": "The salesman smooth-talked the old man into buying a pile of useless supplements."
+      }
+    ],
+    "usage": {
+      "en": "Usually subject or object (他的花言巧语). Derogatory.",
+      "zh": "多作主语、宾语，贬义。"
+    },
+    "synonyms": [
+      "甜言蜜语",
+      "油嘴滑舌",
+      "巧舌如簧"
+    ],
+    "antonyms": [
+      "肺腑之言",
+      "真心实意",
+      "良药苦口"
+    ]
+  },
+  {
+    "id": "shi-jun-li-di",
+    "text": "势均力敌",
+    "pinyin": "shì jūn lì dí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "games-and-sports"
+    ],
+    "literal": "power · equal · strength · match",
+    "natural": "Equal in power, matched in strength",
+    "meaning": {
+      "en": "Evenly matched.",
+      "zh": "双方势力相当，不分高低。"
+    },
+    "equivalents": [
+      "evenly matched",
+      "neck and neck",
+      "a close contest",
+      "fifty-fifty"
+    ],
+    "examples": [
+      {
+        "zh": "两支球队势均力敌，比赛十分精彩。",
+        "en": "The two teams were evenly matched, and it was a thrilling game."
+      },
+      {
+        "zh": "这次选举两位候选人势均力敌。",
+        "en": "The two candidates are neck and neck in this election."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "旗鼓相当",
+      "不相上下",
+      "平分秋色"
+    ],
+    "antonyms": [
+      "寡不敌众",
+      "众寡悬殊",
+      "天壤之别"
+    ]
+  },
+  {
+    "id": "biao-xin-li-yi",
+    "text": "标新立异",
+    "pinyin": "biāo xīn lì yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "arts",
+      "resistance-to-change"
+    ],
+    "literal": "display · new · establish · different",
+    "natural": "Displaying the new and setting up the different",
+    "meaning": {
+      "en": "To be deliberately different or original (sometimes just to stand out).",
+      "zh": "提出新奇的主张，表示与众不同。"
+    },
+    "equivalents": [
+      "be different for the sake of it",
+      "break the mould",
+      "stand out from the crowd",
+      "unconventional"
+    ],
+    "examples": [
+      {
+        "zh": "他的设计标新立异，引起了很大争议。",
+        "en": "His unconventional design caused a lot of controversy."
+      },
+      {
+        "zh": "写作文不必为了标新立异而故意偏题。",
+        "en": "Don't go off-topic in an essay just to be different."
+      }
+    ],
+    "origin": {
+      "source": "南朝宋·刘义庆《世说新语·文学》",
+      "story": {
+        "en": "The monk Zhi Dun's commentary on Zhuangzi was said to \"display new principles beyond the two schools and set up different meanings beyond all the sages\" (标新理于二家之表，立异义于众贤之外).",
+        "zh": "《世说新语》称支道林注《逍遥游》：\"标新理于二家之表，立异义于众贤之外。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Can praise originality or criticise attention-seeking.",
+      "zh": "多作谓语，可褒可贬。"
+    },
+    "synonyms": [
+      "别出心裁",
+      "独树一帜",
+      "别具一格"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "循规蹈矩",
+      "千篇一律"
+    ]
+  },
+  {
+    "id": "bu-bu-wei-ying",
+    "text": "步步为营",
+    "pinyin": "bù bù wéi yíng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "wisdom"
+    ],
+    "literal": "step · step · make · camp",
+    "natural": "Making camp at every step",
+    "meaning": {
+      "en": "To advance step by step, securing each gain.",
+      "zh": "军队每推进一步就设下一道营垒。比喻行动谨慎，防备严密。"
+    },
+    "equivalents": [
+      "step by step",
+      "consolidate gains",
+      "play it safe",
+      "inch forward"
+    ],
+    "examples": [
+      {
+        "zh": "谈判时我们要步步为营，不能急于求成。",
+        "en": "In the negotiations we must proceed step by step and not rush."
+      },
+      {
+        "zh": "他步步为营，最终拿下了整个市场。",
+        "en": "Securing each gain as he went, he eventually took the whole market."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "稳扎稳打",
+      "循序渐进"
+    ],
+    "antonyms": [
+      "轻举妄动",
+      "孤军深入",
+      "急于求成"
+    ]
+  },
+  {
+    "id": "ji-zhong-nan-fan",
+    "text": "积重难返",
+    "pinyin": "jī zhòng nán fǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "resistance-to-change",
+      "structural-problems"
+    ],
+    "literal": "accumulate · heavy · hard · reverse",
+    "natural": "So much has built up it's hard to reverse",
+    "meaning": {
+      "en": "Long-standing problems that are hard to fix.",
+      "zh": "长期形成的问题不易解决，也指长期形成的坏习惯不易改变。"
+    },
+    "equivalents": [
+      "too far gone",
+      "deeply entrenched",
+      "past the point of no return"
+    ],
+    "examples": [
+      {
+        "zh": "这些问题积重难返，改革需要时间。",
+        "en": "These problems are deeply entrenched; reform will take time."
+      },
+      {
+        "zh": "坏习惯要早改，否则积重难返。",
+        "en": "Break bad habits early, or they'll become impossible to shake."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal; institutions, habits.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "根深蒂固",
+      "病入膏肓",
+      "尾大不掉"
+    ],
+    "antonyms": [
+      "防微杜渐",
+      "焕然一新"
+    ]
+  },
+  {
+    "id": "you-shan-wan-shui",
+    "text": "游山玩水",
+    "pinyin": "yóu shān wán shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "relaxation-and-rest"
+    ],
+    "literal": "roam · mountain · play · water",
+    "natural": "Roaming the hills and enjoying the rivers",
+    "meaning": {
+      "en": "To go sightseeing; to enjoy travelling around.",
+      "zh": "游览、玩赏山水景色。"
+    },
+    "equivalents": [
+      "go sightseeing",
+      "see the sights",
+      "travel around"
+    ],
+    "examples": [
+      {
+        "zh": "退休后，他们到处游山玩水。",
+        "en": "Since retiring, they've been travelling around seeing the sights."
+      },
+      {
+        "zh": "出差不是游山玩水，要把工作做好。",
+        "en": "A business trip isn't for sightseeing — get the work done."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Neutral; can hint at idleness.",
+      "zh": "多作谓语，有时略含不务正业之意。"
+    },
+    "synonyms": [
+      "游山逛景",
+      "观光旅游"
+    ],
+    "antonyms": [
+      "足不出户",
+      "闭门不出"
+    ]
+  },
+  {
+    "id": "kao-shan-chi-shan",
+    "text": "靠山吃山",
+    "pinyin": "kào shān chī shān",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "rural-wisdom",
+      "farming-and-harvest"
+    ],
+    "literal": "rely on · mountain · eat · mountain",
+    "natural": "Living by the mountains, you live off the mountains",
+    "meaning": {
+      "en": "To make a living from local resources; to use what's at hand.",
+      "zh": "住在山区就靠山上的资源生活。比喻利用当地的条件谋生。"
+    },
+    "equivalents": [
+      "live off the land",
+      "make the most of local resources",
+      "use what you've got"
+    ],
+    "examples": [
+      {
+        "zh": "靠山吃山，靠水吃水，这里的人世代以采茶为生。",
+        "en": "People live off what's around them — here they've picked tea for generations."
+      },
+      {
+        "zh": "村里靠山吃山，发展起了乡村旅游。",
+        "en": "Making use of its mountains, the village has developed rural tourism."
+      }
+    ],
+    "usage": {
+      "en": "Usually in the full saying 靠山吃山，靠水吃水. Can also hint at exploiting one's position.",
+      "zh": "常说\"靠山吃山，靠水吃水\"。也可比喻利用职务之便。"
+    },
+    "synonyms": [
+      "靠水吃水",
+      "因地制宜"
+    ],
+    "antonyms": [
+      "舍近求远"
+    ]
+  },
+  {
+    "id": "yi-zhi-ban-jie",
+    "text": "一知半解",
+    "pinyin": "yī zhī bàn jiě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "one · know · half · understand",
+    "natural": "Knowing one thing and half-understanding it",
+    "meaning": {
+      "en": "A superficial, half-baked understanding.",
+      "zh": "知道得不全面，理解得也不透彻。"
+    },
+    "equivalents": [
+      "a little knowledge is a dangerous thing",
+      "half-baked",
+      "only scratch the surface"
+    ],
+    "examples": [
+      {
+        "zh": "他对法律一知半解，却到处给人出主意。",
+        "en": "He has only a superficial grasp of the law but gives everyone advice."
+      },
+      {
+        "zh": "学习不能满足于一知半解。",
+        "en": "Don't be content with half-understanding things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or object. In speech 一 is yì.",
+      "zh": "多作谓语、定语、宾语。"
+    },
+    "synonyms": [
+      "浅尝辄止",
+      "不求甚解",
+      "囫囵吞枣"
+    ],
+    "antonyms": [
+      "融会贯通",
+      "了如指掌",
+      "真知灼见"
+    ]
+  },
+  {
+    "id": "bin-bin-you-li",
+    "text": "彬彬有礼",
+    "pinyin": "bīn bīn yǒu lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "conduct"
+    ],
+    "literal": "refined · refined · have · courtesy",
+    "natural": "Refined and courteous",
+    "meaning": {
+      "en": "Courteous and well-mannered.",
+      "zh": "形容文雅而有礼貌。"
+    },
+    "equivalents": [
+      "courteous",
+      "polite",
+      "well-mannered",
+      "a perfect gentleman"
+    ],
+    "examples": [
+      {
+        "zh": "服务员彬彬有礼，让客人感到很舒服。",
+        "en": "The staff were courteous and made the guests feel at ease."
+      },
+      {
+        "zh": "他对谁都彬彬有礼。",
+        "en": "He's polite to everyone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "温文尔雅",
+      "文质彬彬",
+      "以礼相待"
+    ],
+    "antonyms": [
+      "粗鲁无礼",
+      "蛮横无理",
+      "出言不逊"
+    ]
+  },
+  {
+    "id": "yi-xiang-tian-kai",
+    "text": "异想天开",
+    "pinyin": "yì xiǎng tiān kāi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "high-aspirations"
+    ],
+    "literal": "strange · think · sky · open",
+    "natural": "A strange idea, as if the sky would open",
+    "meaning": {
+      "en": "Wildly fanciful; pie in the sky.",
+      "zh": "形容想法很不切实际，非常离奇。"
+    },
+    "equivalents": [
+      "pie in the sky",
+      "a pipe dream",
+      "fanciful",
+      "wishful thinking"
+    ],
+    "examples": [
+      {
+        "zh": "不学习就想考满分，真是异想天开。",
+        "en": "Expecting full marks without studying is pure wishful thinking."
+      },
+      {
+        "zh": "当年人们觉得登月是异想天开。",
+        "en": "People once thought landing on the moon was a pipe dream."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Usually critical, sometimes admiring of bold imagination.",
+      "zh": "多作谓语，多含贬义，有时指大胆想象。"
+    },
+    "synonyms": [
+      "想入非非",
+      "痴心妄想",
+      "白日做梦"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "实事求是"
+    ]
+  },
+  {
+    "id": "gu-bu-zi-feng",
+    "text": "故步自封",
+    "pinyin": "gù bù zì fēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "固步自封"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "old · step · self · confine",
+    "natural": "Confining oneself to the old way of walking",
+    "meaning": {
+      "en": "To stand still and refuse to progress; complacent.",
+      "zh": "比喻安于现状，不求进步。"
+    },
+    "equivalents": [
+      "stuck in one's ways",
+      "rest on one's laurels",
+      "stand still",
+      "complacent"
+    ],
+    "examples": [
+      {
+        "zh": "企业如果故步自封，迟早会被淘汰。",
+        "en": "A company that rests on its laurels will sooner or later be left behind."
+      },
+      {
+        "zh": "取得成绩后不能故步自封。",
+        "en": "Don't become complacent after success."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 故 = old. 固步自封 is a common but less standard variant.",
+      "zh": "多作谓语。规范写法为\"故步自封\"。"
+    },
+    "synonyms": [
+      "墨守成规",
+      "因循守旧",
+      "安于现状"
+    ],
+    "antonyms": [
+      "与时俱进",
+      "推陈出新",
+      "精益求精"
+    ]
+  },
+  {
+    "id": "wu-jin-qi-yong",
+    "text": "物尽其用",
+    "pinyin": "wù jìn qí yòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "useful-tools-and-skill"
+    ],
+    "literal": "thing · fully · its · use",
+    "natural": "Every thing used to the full",
+    "meaning": {
+      "en": "To make full use of everything; nothing goes to waste.",
+      "zh": "各种东西凡有可用之处，都要尽量利用。"
+    },
+    "equivalents": [
+      "make full use of",
+      "waste not, want not",
+      "get the most out of"
+    ],
+    "examples": [
+      {
+        "zh": "旧衣服可以改成抹布，物尽其用。",
+        "en": "Old clothes can become cleaning rags — waste not, want not."
+      },
+      {
+        "zh": "要做到人尽其才，物尽其用。",
+        "en": "Make the most of every person's talent and every resource."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often with 人尽其才.",
+      "zh": "多作谓语，常与\"人尽其才\"连用。"
+    },
+    "synonyms": [
+      "人尽其才",
+      "废物利用"
+    ],
+    "antonyms": [
+      "暴殄天物",
+      "大材小用",
+      "束之高阁"
+    ]
+  },
+  {
+    "id": "lu-shi-bu-shuang",
+    "text": "屡试不爽",
+    "pinyin": "lǚ shì bù shuǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "standards-and-benchmarks"
+    ],
+    "literal": "repeatedly · try · not · fail",
+    "natural": "Tried again and again without fail",
+    "meaning": {
+      "en": "Tried and tested; works every time.",
+      "zh": "屡次试验都没有差错。"
+    },
+    "equivalents": [
+      "tried and tested",
+      "works every time",
+      "never fails",
+      "foolproof"
+    ],
+    "examples": [
+      {
+        "zh": "这个治打嗝的方法屡试不爽。",
+        "en": "This hiccup cure works every time."
+      },
+      {
+        "zh": "他用这招对付对手，屡试不爽。",
+        "en": "He uses this trick against opponents and it never fails."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 爽 here means \"err\", not \"pleasant\" — so it means \"never fails\", not \"never satisfying\".",
+      "zh": "多作谓语。\"爽\"意为\"差错\"。"
+    },
+    "synonyms": [
+      "行之有效",
+      "百发百中",
+      "万无一失"
+    ],
+    "antonyms": [
+      "屡试屡败",
+      "徒劳无功"
+    ]
+  },
+  {
+    "id": "mian-hong-er-chi",
+    "text": "面红耳赤",
+    "pinyin": "miàn hóng ěr chì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "conflict-and-strife"
+    ],
+    "literal": "face · red · ears · crimson",
+    "natural": "Face red and ears crimson",
+    "meaning": {
+      "en": "Red in the face (from anger, embarrassment or exertion).",
+      "zh": "脸和耳朵都红了。形容因急躁、害羞或发怒等而脸色发红的样子。"
+    },
+    "equivalents": [
+      "red in the face",
+      "flushed",
+      "hot under the collar",
+      "blush to the roots of one's hair"
+    ],
+    "examples": [
+      {
+        "zh": "两人为一点小事争得面红耳赤。",
+        "en": "The two argued till they were red in the face over a trifle."
+      },
+      {
+        "zh": "被老师当众表扬，她羞得面红耳赤。",
+        "en": "Praised in front of the class, she blushed bright red."
+      }
+    ],
+    "usage": {
+      "en": "Complement (争得面红耳赤) or predicate.",
+      "zh": "多作补语、谓语。"
+    },
+    "synonyms": [
+      "脸红脖子粗",
+      "满脸通红"
+    ],
+    "antonyms": [
+      "面不改色",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "jing-wei-fen-ming",
+    "text": "泾渭分明",
+    "pinyin": "jīng wèi fēn míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "black-and-white",
+      "nature"
+    ],
+    "literal": "Jing river · Wei river · distinct · clear",
+    "natural": "As distinct as the Jing and Wei rivers",
+    "meaning": {
+      "en": "Clearly distinct; a clear line between two things.",
+      "zh": "泾水清，渭水浊，两水相汇处清浊分明。比喻界限清楚或是非分明。"
+    },
+    "equivalents": [
+      "as different as chalk and cheese",
+      "clear-cut",
+      "black and white",
+      "a clear dividing line"
+    ],
+    "examples": [
+      {
+        "zh": "公私要泾渭分明。",
+        "en": "Keep a clear line between public and private."
+      },
+      {
+        "zh": "两种观点泾渭分明，没有妥协余地。",
+        "en": "The two views are clear-cut opposites with no room for compromise."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·邶风·谷风》",
+      "story": {
+        "en": "The Book of Songs: \"The Jing is muddied by the Wei\" (泾以渭浊). Where the two rivers meet near Xi'an, their clear and muddy waters run side by side without mixing.",
+        "zh": "《诗经·谷风》：\"泾以渭浊。\"泾河与渭河在西安附近交汇，清浊分明。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "黑白分明",
+      "是非分明",
+      "截然不同"
+    ],
+    "antonyms": [
+      "混为一谈",
+      "鱼龙混杂",
+      "泥沙俱下"
+    ]
+  },
+  {
+    "id": "xin-ling-shen-hui",
+    "text": "心领神会",
+    "pinyin": "xīn lǐng shén huì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "relationships"
+    ],
+    "literal": "heart · receive · spirit · understand",
+    "natural": "Grasped by the heart and understood by the spirit",
+    "meaning": {
+      "en": "To understand without being told; to take the hint.",
+      "zh": "不用明说，心里已经领会。"
+    },
+    "equivalents": [
+      "take the hint",
+      "get the message",
+      "read between the lines",
+      "on the same wavelength"
+    ],
+    "examples": [
+      {
+        "zh": "老师使了个眼色，他立刻心领神会。",
+        "en": "The teacher gave him a look, and he got the message straight away."
+      },
+      {
+        "zh": "两人合作多年，一个眼神就能心领神会。",
+        "en": "After years together, they understand each other with a glance."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "心照不宣",
+      "心有灵犀",
+      "不言而喻"
+    ],
+    "antonyms": [
+      "莫名其妙",
+      "百思不解",
+      "一头雾水"
+    ]
+  },
+  {
+    "id": "qie-zhong-yao-hai",
+    "text": "切中要害",
+    "pinyin": "qiè zhòng yào hài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "mental-clarity"
+    ],
+    "literal": "exactly · hit · vital · point",
+    "natural": "Hitting the vital point exactly",
+    "meaning": {
+      "en": "To hit the nail on the head; to address the crux.",
+      "zh": "正好击中要害部位。指批评或说话正好说到关键地方。"
+    },
+    "equivalents": [
+      "hit the nail on the head",
+      "get to the heart of the matter",
+      "spot on"
+    ],
+    "examples": [
+      {
+        "zh": "他的分析切中要害，大家都很佩服。",
+        "en": "His analysis hit the nail on the head, and everyone was impressed."
+      },
+      {
+        "zh": "这篇评论切中要害，指出了政策的问题。",
+        "en": "The commentary got to the heart of the policy's problems."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 切 is qiè (exactly); 中 is zhòng (hit).",
+      "zh": "多作谓语。\"切\"读 qiè，\"中\"读 zhòng。"
+    },
+    "synonyms": [
+      "一针见血",
+      "一语中的",
+      "入木三分"
+    ],
+    "antonyms": [
+      "隔靴搔痒",
+      "不着边际",
+      "无关痛痒"
+    ]
+  },
+  {
+    "id": "qian-xu-jin-shen",
+    "text": "谦虚谨慎",
+    "pinyin": "qiān xū jǐn shèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "positive-character-qualities"
+    ],
+    "literal": "modest · humble · careful · cautious",
+    "natural": "Modest and prudent",
+    "meaning": {
+      "en": "Modest and prudent.",
+      "zh": "虚心，不自满，言行慎重。"
+    },
+    "equivalents": [
+      "modest and prudent",
+      "humble",
+      "keep one's feet on the ground"
+    ],
+    "examples": [
+      {
+        "zh": "取得成绩后，仍要谦虚谨慎。",
+        "en": "Even after success, stay modest and prudent."
+      },
+      {
+        "zh": "他为人谦虚谨慎，深受大家尊重。",
+        "en": "He's modest and careful, and widely respected."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. A set phrase in official praise (often 戒骄戒躁).",
+      "zh": "多作谓语，常与\"戒骄戒躁\"连用。"
+    },
+    "synonyms": [
+      "虚怀若谷",
+      "戒骄戒躁"
+    ],
+    "antonyms": [
+      "骄傲自满",
+      "目中无人",
+      "妄自尊大"
+    ]
+  },
+  {
+    "id": "hu-tou-she-wei",
+    "text": "虎头蛇尾",
+    "pinyin": "hǔ tóu shé wěi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "abrupt-endings",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "tiger · head · snake · tail",
+    "natural": "A tiger's head with a snake's tail",
+    "meaning": {
+      "en": "A strong start but a weak finish.",
+      "zh": "头大如虎，尾细如蛇。比喻开始时声势很大，到后来劲头很小，有始无终。"
+    },
+    "equivalents": [
+      "start with a bang and end with a whimper",
+      "fizzle out",
+      "run out of steam"
+    ],
+    "examples": [
+      {
+        "zh": "做事要有始有终，不能虎头蛇尾。",
+        "en": "Finish what you start — don't let it fizzle out."
+      },
+      {
+        "zh": "这部剧开头精彩，结尾却虎头蛇尾。",
+        "en": "The series started brilliantly but ended with a whimper."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "有始无终",
+      "半途而废",
+      "龙头蛇尾"
+    ],
+    "antonyms": [
+      "善始善终",
+      "有始有终",
+      "持之以恒"
+    ]
+  },
+  {
+    "id": "qing-ting-dian-shui",
+    "text": "蜻蜓点水",
+    "pinyin": "qīng tíng diǎn shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "dragonfly · dragonfly · dip · water",
+    "natural": "A dragonfly dipping the water's surface",
+    "meaning": {
+      "en": "Superficial; only skimming the surface.",
+      "zh": "蜻蜓在水面飞行时用尾部轻触水面。比喻做事肤浅不深入。"
+    },
+    "equivalents": [
+      "skim the surface",
+      "scratch the surface",
+      "a lick and a promise",
+      "superficial"
+    ],
+    "examples": [
+      {
+        "zh": "他复习只是蜻蜓点水，没有深入。",
+        "en": "His revision only skimmed the surface."
+      },
+      {
+        "zh": "检查工作不能蜻蜓点水，要发现真问题。",
+        "en": "Inspections can't just scratch the surface — they need to find real problems."
+      }
+    ],
+    "origin": {
+      "source": "唐·杜甫《曲江二首》",
+      "story": {
+        "en": "Du Fu's poem: \"Butterflies flit deep among the flowers; dragonflies dip the water as they slowly fly\" (点水蜻蜓款款飞).",
+        "zh": "杜甫《曲江》：\"穿花蛱蝶深深见，点水蜻蜓款款飞。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Critical of superficial work.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "浅尝辄止",
+      "走马观花",
+      "浮光掠影"
+    ],
+    "antonyms": [
+      "深入细致",
+      "入木三分",
+      "刨根问底"
+    ]
+  },
+  {
+    "id": "fen-beng-li-xi",
+    "text": "分崩离析",
+    "pinyin": "fēn bēng lí xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "structural-problems",
+      "conflict-and-strife"
+    ],
+    "literal": "divide · collapse · separate · split",
+    "natural": "Splitting, crumbling and falling apart",
+    "meaning": {
+      "en": "To fall apart; to disintegrate.",
+      "zh": "形容国家或集团分裂瓦解。"
+    },
+    "equivalents": [
+      "fall apart",
+      "disintegrate",
+      "collapse",
+      "come apart at the seams"
+    ],
+    "examples": [
+      {
+        "zh": "王朝末期，国家分崩离析。",
+        "en": "At the end of the dynasty, the country fell apart."
+      },
+      {
+        "zh": "领导人去世后，这个组织很快分崩离析。",
+        "en": "After the leader died, the organisation quickly disintegrated."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius criticised the Ji family for planning a war abroad while their own state was \"divided, crumbling and falling apart, unable to hold together\" (邦分崩离析而不能守也).",
+        "zh": "《论语·季氏》：\"邦分崩离析而不能守也，而谋动干戈于邦内。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. States, organisations, families.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "土崩瓦解",
+      "四分五裂",
+      "支离破碎"
+    ],
+    "antonyms": [
+      "团结一致",
+      "坚如磐石",
+      "众志成城"
+    ]
+  },
+  {
+    "id": "xin-you-yu-er-li-bu-zu",
+    "text": "心有余而力不足",
+    "pinyin": "xīn yǒu yú ér lì bù zú",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "心有余力不足"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "effort"
+    ],
+    "literal": "heart · have · surplus · but · strength · not · enough",
+    "natural": "The heart is willing but the strength isn't there",
+    "meaning": {
+      "en": "Willing but unable; wanting to help but lacking the means.",
+      "zh": "心里很想做，但是力量不够。"
+    },
+    "equivalents": [
+      "the spirit is willing but the flesh is weak",
+      "I'd love to, but I can't",
+      "more willing than able"
+    ],
+    "examples": [
+      {
+        "zh": "我很想帮你，可是心有余而力不足。",
+        "en": "I'd love to help you, but I just can't."
+      },
+      {
+        "zh": "爷爷想陪孙子踢球，却心有余而力不足。",
+        "en": "Grandpa wants to play football with his grandson, but his body won't let him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or standalone clause. Often an apologetic refusal.",
+      "zh": "多作谓语或单独成句，常用于婉拒。"
+    },
+    "synonyms": [
+      "力不从心",
+      "爱莫能助"
+    ],
+    "antonyms": [
+      "游刃有余",
+      "绰绰有余",
+      "得心应手"
+    ]
+  },
+  {
+    "id": "tie-zheng-ru-shan",
+    "text": "铁证如山",
+    "pinyin": "tiě zhèng rú shān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "standards-and-benchmarks"
+    ],
+    "literal": "iron · proof · like · mountain",
+    "natural": "Iron-clad evidence, solid as a mountain",
+    "meaning": {
+      "en": "Irrefutable evidence.",
+      "zh": "确凿的证据像山一样不可动摇。"
+    },
+    "equivalents": [
+      "cast-iron evidence",
+      "an open-and-shut case",
+      "irrefutable proof",
+      "a smoking gun"
+    ],
+    "examples": [
+      {
+        "zh": "铁证如山，他不得不认罪。",
+        "en": "Faced with irrefutable evidence, he had to confess."
+      },
+      {
+        "zh": "历史铁证如山，不容否认。",
+        "en": "The historical evidence is irrefutable and cannot be denied."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or standalone clause.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "证据确凿",
+      "确凿无疑",
+      "千真万确"
+    ],
+    "antonyms": [
+      "查无实据",
+      "捕风捉影",
+      "无凭无据"
+    ]
+  },
+  {
+    "id": "liang-ti-cai-yi",
+    "text": "量体裁衣",
+    "pinyin": "liàng tǐ cái yī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fine-dress-and-fashion",
+      "wisdom"
+    ],
+    "literal": "measure · body · cut · clothes",
+    "natural": "Measure the body before cutting the cloth",
+    "meaning": {
+      "en": "To tailor one's approach to the actual situation.",
+      "zh": "按照身材裁剪衣服。比喻按照实际情况办事。"
+    },
+    "equivalents": [
+      "tailor-made",
+      "cut one's coat according to one's cloth",
+      "fit for purpose",
+      "bespoke"
+    ],
+    "examples": [
+      {
+        "zh": "制定计划要量体裁衣，不能好高骛远。",
+        "en": "Plans must be tailored to reality — don't overreach."
+      },
+      {
+        "zh": "老师根据每个学生的情况量体裁衣。",
+        "en": "The teacher tailors the approach to each student."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 量 is liàng.",
+      "zh": "多作谓语。\"量\"读 liàng。"
+    },
+    "synonyms": [
+      "因材施教",
+      "对症下药",
+      "因地制宜"
+    ],
+    "antonyms": [
+      "一刀切",
+      "削足适履",
+      "生搬硬套"
+    ]
+  },
+  {
+    "id": "wan-bi-gui-zhao",
+    "text": "完璧归赵",
+    "pinyin": "wán bì guī zhào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "conduct"
+    ],
+    "literal": "intact · jade disc · return · Zhao",
+    "natural": "Returning the jade disc intact to Zhao",
+    "meaning": {
+      "en": "To return something intact to its owner.",
+      "zh": "把和氏璧完好地送回赵国。比喻把原物完好地归还本人。"
+    },
+    "equivalents": [
+      "return in perfect condition",
+      "give back safe and sound"
+    ],
+    "examples": [
+      {
+        "zh": "借你的书已经看完了，现在完璧归赵。",
+        "en": "I've finished the book you lent me — here it is back in perfect condition."
+      },
+      {
+        "zh": "这件国宝终于完璧归赵。",
+        "en": "The national treasure has finally been returned intact."
+      }
+    ],
+    "origin": {
+      "source": "《史记·廉颇蔺相如列传》",
+      "story": {
+        "en": "The King of Qin offered fifteen cities for Zhao's famous He Shi jade disc. The envoy Lin Xiangru saw Qin had no intention of paying and cleverly sent the disc back to Zhao intact.",
+        "zh": "秦王假意以十五城换赵国和氏璧，蔺相如识破其诈，设法派人将璧完好送回赵国。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often humorous when returning borrowed things.",
+      "zh": "多作谓语，归还借物时常诙谐使用。"
+    },
+    "synonyms": [
+      "物归原主",
+      "原封不动"
+    ],
+    "antonyms": [
+      "据为己有",
+      "有借无还"
+    ]
+  }
+]
