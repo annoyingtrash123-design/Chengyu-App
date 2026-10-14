@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "ri-bo-xi-shan",
+    "text": "日薄西山",
+    "pinyin": "rì bó xī shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "experience-and-old-age",
+      "abrupt-endings"
+    ],
+    "literal": "sun · near · west · mountain",
+    "natural": "The sun nearing the western hills",
+    "meaning": {
+      "en": "Declining; nearing the end (of life or an era).",
+      "zh": "太阳快落山了。比喻人已经衰老或事物衰败腐朽，临近死亡。"
+    },
+    "equivalents": [
+      "in decline",
+      "on its last legs",
+      "in the twilight",
+      "past its prime"
+    ],
+    "examples": [
+      {
+        "zh": "这家老牌企业已经日薄西山。",
+        "en": "The once-great company is on its last legs."
+      },
+      {
+        "zh": "王朝末年，国运日薄西山。",
+        "en": "In the dynasty's last years, the state was in terminal decline."
+      }
+    ],
+    "origin": {
+      "source": "晋·李密《陈情表》",
+      "story": {
+        "en": "Li Mi explained he couldn't take office because his grandmother \"is like the sun nearing the western hills, her breath faint\" (日薄西山，气息奄奄).",
+        "zh": "李密《陈情表》：\"但以刘日薄西山，气息奄奄，人命危浅，朝不虑夕。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 薄 is bó (approach).",
+      "zh": "多作谓语。\"薄\"读 bó，意为\"迫近\"。"
+    },
+    "synonyms": [
+      "风烛残年",
+      "气息奄奄",
+      "江河日下"
+    ],
+    "antonyms": [
+      "如日中天",
+      "蒸蒸日上",
+      "旭日东升"
+    ]
+  },
+  {
+    "id": "mu-kong-yi-qie",
+    "text": "目空一切",
+    "pinyin": "mù kōng yī qiè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "eyes · empty · all · things",
+    "natural": "Eyes seeing nothing worthy",
+    "meaning": {
+      "en": "Supremely arrogant; looking down on everything.",
+      "zh": "什么都不放在眼里。形容极端骄傲自大。"
+    },
+    "equivalents": [
+      "supremely arrogant",
+      "look down on everyone",
+      "think one is above it all"
+    ],
+    "examples": [
+      {
+        "zh": "他得了几个奖就目空一切了。",
+        "en": "A few awards and he thinks he's above everyone."
+      },
+      {
+        "zh": "目空一切的人最终会吃亏。",
+        "en": "Arrogant people eventually come a cropper."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "目中无人",
+      "唯我独尊",
+      "不可一世"
+    ],
+    "antonyms": [
+      "虚怀若谷",
+      "谦虚谨慎",
+      "平易近人"
+    ]
+  },
+  {
+    "id": "chun-wang-chi-han",
+    "text": "唇亡齿寒",
+    "pinyin": "chún wáng chǐ hán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "natural-consequences"
+    ],
+    "literal": "lips · gone · teeth · cold",
+    "natural": "Without lips, the teeth get cold",
+    "meaning": {
+      "en": "Interdependent; if one falls, the other is endangered.",
+      "zh": "嘴唇没有了，牙齿就会感到寒冷。比喻双方关系密切，利害相关。"
+    },
+    "equivalents": [
+      "united we stand, divided we fall",
+      "sink or swim together",
+      "interdependent"
+    ],
+    "examples": [
+      {
+        "zh": "两家企业唇亡齿寒，必须互相支持。",
+        "en": "The two firms sink or swim together and must support each other."
+      },
+      {
+        "zh": "邻国之间唇亡齿寒。",
+        "en": "Neighbouring countries depend on each other's survival."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公五年》",
+      "story": {
+        "en": "Jin asked to pass through Yu to attack Guo. Gong Zhiqi warned: \"If the lips are gone the teeth are cold\" — Yu ignored him; Jin took Guo, then Yu on the way back.",
+        "zh": "晋向虞借道伐虢，宫之奇说：\"辅车相依，唇亡齿寒。\"虞君不听，后被晋所灭。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "唇齿相依",
+      "休戚相关",
+      "皮之不存"
+    ],
+    "antonyms": [
+      "毫不相干",
+      "隔岸观火"
+    ]
+  },
+  {
+    "id": "bu-qiu-shen-jie",
+    "text": "不求甚解",
+    "pinyin": "bù qiú shèn jiě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "reading-and-study"
+    ],
+    "literal": "not · seek · deep · understanding",
+    "natural": "Not seeking deep understanding",
+    "meaning": {
+      "en": "To be content with a superficial understanding.",
+      "zh": "原指读书只求领会精神实质，不咬文嚼字。现多指学习不认真，不求深入理解。"
+    },
+    "equivalents": [
+      "skim the surface",
+      "a superficial reader",
+      "not dig deeper"
+    ],
+    "examples": [
+      {
+        "zh": "他读书不求甚解，只记得一些皮毛。",
+        "en": "He reads superficially and only remembers bits."
+      },
+      {
+        "zh": "学习专业知识不能不求甚解。",
+        "en": "You can't be superficial when learning your specialism."
+      }
+    ],
+    "origin": {
+      "source": "晋·陶渊明《五柳先生传》",
+      "story": {
+        "en": "Tao Yuanming described himself: \"He loves reading but doesn't seek over-detailed explanation; whenever something strikes him, he's so delighted he forgets to eat\" — originally a positive trait.",
+        "zh": "陶渊明《五柳先生传》：\"好读书，不求甚解；每有会意，便欣然忘食。\"原为褒义。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Negative today, though originally praise.",
+      "zh": "多作谓语，现为贬义。"
+    },
+    "synonyms": [
+      "囫囵吞枣",
+      "浅尝辄止",
+      "一知半解"
+    ],
+    "antonyms": [
+      "刨根问底",
+      "精益求精",
+      "融会贯通"
+    ]
+  },
+  {
+    "id": "ren-wei-yan-qing",
+    "text": "人微言轻",
+    "pinyin": "rén wēi yán qīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "speech"
+    ],
+    "literal": "person · humble · words · light",
+    "natural": "A humble person's words carry little weight",
+    "meaning": {
+      "en": "A person of low status has little say.",
+      "zh": "地位低，言论主张不受人重视。"
+    },
+    "equivalents": [
+      "have no clout",
+      "a voice in the wilderness",
+      "small fry"
+    ],
+    "examples": [
+      {
+        "zh": "我人微言轻，说了也没人听。",
+        "en": "I have no clout — no one listens when I speak."
+      },
+      {
+        "zh": "他虽然人微言轻，但敢于说真话。",
+        "en": "Though he has little say, he dares to speak the truth."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《上执政乞度牒赈济及因修廨宇书》",
+      "story": {
+        "en": "Su Shi, appealing for disaster relief, wrote modestly: \"My position is humble and my words light\" (人微言轻), so he hoped officials would heed others too.",
+        "zh": "苏轼：\"轼人微言轻，恐不能尽达其事。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often self-deprecating.",
+      "zh": "多作谓语，常用作自谦。"
+    },
+    "synonyms": [
+      "位卑言轻"
+    ],
+    "antonyms": [
+      "一言九鼎",
+      "举足轻重",
+      "德高望重"
+    ]
+  },
+  {
+    "id": "shao-bu-geng-shi",
+    "text": "少不更事",
+    "pinyin": "shào bù gēng shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "young · not · experienced · affairs",
+    "natural": "Young and inexperienced in the world",
+    "meaning": {
+      "en": "Young and inexperienced.",
+      "zh": "年纪轻，没有经历过什么事情。"
+    },
+    "equivalents": [
+      "young and naive",
+      "wet behind the ears",
+      "green",
+      "inexperienced"
+    ],
+    "examples": [
+      {
+        "zh": "那时我少不更事，做了很多傻事。",
+        "en": "I was young and naive then and did lots of silly things."
+      },
+      {
+        "zh": "别怪他，他还少不更事。",
+        "en": "Don't blame him — he's still green."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 少 is shào; 更 is gēng (experience).",
+      "zh": "多作谓语。\"少\"读 shào，\"更\"读 gēng。"
+    },
+    "synonyms": [
+      "乳臭未干",
+      "初出茅庐",
+      "涉世未深"
+    ],
+    "antonyms": [
+      "老成持重",
+      "饱经沧桑",
+      "见多识广"
+    ]
+  },
+  {
+    "id": "tong-shi-cao-ge",
+    "text": "同室操戈",
+    "pinyin": "tóng shì cāo gē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conflict-and-strife",
+      "relationships"
+    ],
+    "literal": "same · house · take up · spear",
+    "natural": "Taking up spears in the same house",
+    "meaning": {
+      "en": "Infighting; family members or allies fighting each other.",
+      "zh": "自家人动刀枪。泛指兄弟相争或内部斗争。"
+    },
+    "equivalents": [
+      "infighting",
+      "civil war",
+      "a house divided",
+      "in-fighting"
+    ],
+    "examples": [
+      {
+        "zh": "兄弟同室操戈，让父母伤心。",
+        "en": "The brothers' fighting broke their parents' hearts."
+      },
+      {
+        "zh": "公司高层同室操戈，股价大跌。",
+        "en": "Infighting among senior management sent the share price tumbling."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·郑玄传》",
+      "story": {
+        "en": "When the scholar Zheng Xuan refuted He Xiu's works using He's own arguments, He Xiu sighed: \"Kangcheng (Zheng) has entered my house and taken up my spear to attack me!\"",
+        "zh": "郑玄用何休的论点反驳何休，何休叹道：\"康成入吾室，操吾矛以伐我乎！\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自相残杀",
+      "兄弟阋墙",
+      "手足相残"
+    ],
+    "antonyms": [
+      "同舟共济",
+      "同心协力",
+      "和衷共济"
+    ]
+  },
+  {
+    "id": "li-tou-zhi-bei",
+    "text": "力透纸背",
+    "pinyin": "lì tòu zhǐ bèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "strength · penetrate · paper · back",
+    "natural": "Strength coming through the back of the paper",
+    "meaning": {
+      "en": "Forceful (of calligraphy or writing).",
+      "zh": "形容书法刚劲有力，笔锋简直要透到纸张背面。也形容诗文立意深刻，词语精练。"
+    },
+    "equivalents": [
+      "powerful brushwork",
+      "forceful writing",
+      "incisive",
+      "striking"
+    ],
+    "examples": [
+      {
+        "zh": "他的书法力透纸背。",
+        "en": "His calligraphy has powerful brushwork."
+      },
+      {
+        "zh": "这篇杂文力透纸背，针砭时弊。",
+        "en": "The essay is incisive, a forceful critique of current ills."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "入木三分",
+      "铁画银钩",
+      "笔力千钧"
+    ],
+    "antonyms": [
+      "软弱无力",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "kai-juan-you-yi",
+    "text": "开卷有益",
+    "pinyin": "kāi juàn yǒu yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study"
+    ],
+    "literal": "open · scroll · have · benefit",
+    "natural": "Opening a book always brings benefit",
+    "meaning": {
+      "en": "Reading is always beneficial.",
+      "zh": "打开书本读书，总有好处。"
+    },
+    "equivalents": [
+      "reading is always worthwhile",
+      "books are good for you",
+      "you learn something from every book"
+    ],
+    "examples": [
+      {
+        "zh": "开卷有益，多读书总没坏处。",
+        "en": "Reading is always worthwhile — it never does any harm."
+      },
+      {
+        "zh": "开卷有益，但也要选好书。",
+        "en": "Reading is beneficial, but choose good books."
+      }
+    ],
+    "origin": {
+      "source": "宋·王辟之《渑水燕谈录》",
+      "story": {
+        "en": "Emperor Taizong of Song read three volumes of the vast encyclopedia Taiping Yulan daily. When officials worried he'd tire, he said: \"Opening a book brings benefit\" (开卷有益).",
+        "zh": "宋太宗每天读《太平御览》三卷，有人劝他休息，他说：\"开卷有益，朕不以为劳也。\""
+      }
+    },
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多单独成句。"
+    },
+    "synonyms": [
+      "读书破万卷",
+      "学而不厌"
+    ],
+    "antonyms": [
+      "不学无术",
+      "读书无用"
+    ]
+  },
+  {
+    "id": "fu-shui-nan-shou",
+    "text": "覆水难收",
+    "pinyin": "fù shuǐ nán shōu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "relationships"
+    ],
+    "literal": "spilt · water · hard · gather",
+    "natural": "Spilt water is hard to gather back",
+    "meaning": {
+      "en": "What's done cannot be undone; no use crying over spilt milk.",
+      "zh": "泼出去的水难以收回。比喻事成定局，无法挽回。"
+    },
+    "equivalents": [
+      "no use crying over spilt milk",
+      "what's done is done",
+      "you can't unring a bell"
+    ],
+    "examples": [
+      {
+        "zh": "话已出口，覆水难收。",
+        "en": "The words are out — they can't be taken back."
+      },
+      {
+        "zh": "他们已经离婚了，覆水难收。",
+        "en": "They've divorced — there's no going back."
+      }
+    ],
+    "origin": {
+      "source": "晋·王嘉《拾遗记》",
+      "story": {
+        "en": "Jiang Ziya's wife left him when he was poor. When he became a great minister she asked to return; he poured water on the ground and told her to gather it up — it was impossible, and so was their reunion.",
+        "zh": "姜太公贫困时妻子马氏离去，后来他富贵了，马氏要求复合。姜太公把一盆水泼在地上，让她收回，以示不可能。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone clause.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "木已成舟",
+      "无可挽回",
+      "一失足成千古恨"
+    ],
+    "antonyms": [
+      "破镜重圆",
+      "失而复得"
+    ]
+  },
+  {
+    "id": "ming-huo-zhi-zhang",
+    "text": "明火执仗",
+    "pinyin": "míng huǒ zhí zhàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "inappropriate-behavior"
+    ],
+    "literal": "bright · torch · hold · weapon",
+    "natural": "With lit torches and weapons in hand",
+    "meaning": {
+      "en": "Openly and brazenly doing wrong.",
+      "zh": "点着火把，拿着武器。指公开抢劫或公开干坏事。"
+    },
+    "equivalents": [
+      "brazenly",
+      "in broad daylight",
+      "openly",
+      "barefaced"
+    ],
+    "examples": [
+      {
+        "zh": "歹徒明火执仗地抢劫银行。",
+        "en": "The robbers raided the bank in broad daylight."
+      },
+      {
+        "zh": "这种明火执仗的侵权行为必须制止。",
+        "en": "Such brazen infringement must be stopped."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or attributive.",
+      "zh": "多作状语、定语。"
+    },
+    "synonyms": [
+      "明目张胆",
+      "肆无忌惮",
+      "光天化日"
+    ],
+    "antonyms": [
+      "偷偷摸摸",
+      "鬼鬼祟祟",
+      "暗度陈仓"
+    ]
+  },
+  {
+    "id": "bu-zi-liang-li",
+    "text": "不自量力",
+    "pinyin": "bù zì liàng lì",
+    "variants": [
+      "自不量力"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "high-aspirations"
+    ],
+    "literal": "not · self · measure · strength",
+    "natural": "Not measuring one's own strength",
+    "meaning": {
+      "en": "To overrate one's abilities; to bite off more than one can chew.",
+      "zh": "不能正确估计自己的力量，去做力所不能及的事情。"
+    },
+    "equivalents": [
+      "bite off more than one can chew",
+      "punch above one's weight",
+      "overreach",
+      "too big for one's boots"
+    ],
+    "examples": [
+      {
+        "zh": "他一个新手就想挑战冠军，太不自量力了。",
+        "en": "A beginner challenging the champion — he's biting off more than he can chew."
+      },
+      {
+        "zh": "螳臂当车，不自量力。",
+        "en": "A mantis trying to stop a chariot — overrating itself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Also 自不量力.",
+      "zh": "多作谓语。也作\"自不量力\"。"
+    },
+    "synonyms": [
+      "螳臂当车",
+      "以卵击石",
+      "蚍蜉撼树"
+    ],
+    "antonyms": [
+      "量力而行",
+      "自知之明",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "ci-bu-da-yi",
+    "text": "词不达意",
+    "pinyin": "cí bù dá yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "excellent-writing"
+    ],
+    "literal": "words · not · convey · meaning",
+    "natural": "Words failing to convey meaning",
+    "meaning": {
+      "en": "Unable to express oneself clearly.",
+      "zh": "指词句不能确切地表达出意思。"
+    },
+    "equivalents": [
+      "lost for words",
+      "can't put it into words",
+      "inarticulate"
+    ],
+    "examples": [
+      {
+        "zh": "我一紧张就词不达意。",
+        "en": "When I'm nervous I can't express myself properly."
+      },
+      {
+        "zh": "这篇翻译词不达意，读起来很别扭。",
+        "en": "The translation doesn't convey the meaning and reads awkwardly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "言不尽意",
+      "语无伦次"
+    ],
+    "antonyms": [
+      "言简意赅",
+      "出口成章",
+      "妙笔生花"
+    ]
+  },
+  {
+    "id": "yin-guo-bao-ying",
+    "text": "因果报应",
+    "pinyin": "yīn guǒ bào yìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "culture"
+    ],
+    "literal": "cause · result · retribution · response",
+    "natural": "Cause and effect, deed and retribution",
+    "meaning": {
+      "en": "Karma; one's deeds are repaid in kind.",
+      "zh": "佛教用语，指种什么因，结什么果。"
+    },
+    "equivalents": [
+      "karma",
+      "what goes around comes around",
+      "you reap what you sow"
+    ],
+    "examples": [
+      {
+        "zh": "他相信因果报应，从不做亏心事。",
+        "en": "He believes in karma and never does anything shameful."
+      },
+      {
+        "zh": "有人说他今天的下场是因果报应。",
+        "en": "Some say his fate today is karma."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object. Buddhist concept.",
+      "zh": "多作主语、宾语。佛教概念。"
+    },
+    "synonyms": [
+      "善有善报",
+      "恶有恶报",
+      "种瓜得瓜"
+    ],
+    "antonyms": [
+      "逍遥法外"
+    ]
+  },
+  {
+    "id": "miao-bi-sheng-hua",
+    "text": "妙笔生花",
+    "pinyin": "miào bǐ shēng huā",
+    "variants": [
+      "生花妙笔"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "wonderful · brush · grow · flowers",
+    "natural": "A brilliant brush that blossoms",
+    "meaning": {
+      "en": "Brilliant writing; a gifted pen.",
+      "zh": "比喻杰出的写作才能。"
+    },
+    "equivalents": [
+      "a gifted pen",
+      "beautifully written",
+      "a way with words"
+    ],
+    "examples": [
+      {
+        "zh": "作家妙笔生花，把小镇写得栩栩如生。",
+        "en": "The writer's gifted pen brings the little town vividly to life."
+      },
+      {
+        "zh": "她妙笔生花，文章获了大奖。",
+        "en": "Her beautiful writing won a major prize."
+      }
+    ],
+    "origin": {
+      "source": "五代·王仁裕《开元天宝遗事》",
+      "story": {
+        "en": "Legend says that as a youth Li Bai dreamt flowers grew from the tip of his brush; afterwards his talent blossomed and he became famous everywhere.",
+        "zh": "相传李白少时梦见所用之笔头上生花，后来天才横溢，名闻天下。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "字字珠玑",
+      "出口成章"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "词不达意",
+      "味同嚼蜡"
+    ]
+  },
+  {
+    "id": "lu-bu-shi-yi",
+    "text": "路不拾遗",
+    "pinyin": "lù bù shí yí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "good-governance",
+      "conduct"
+    ],
+    "literal": "road · not · pick up · lost things",
+    "natural": "No one picks up things lost on the road",
+    "meaning": {
+      "en": "So honest a society that no one pockets lost property.",
+      "zh": "东西掉在路上没有人捡走据为己有。形容社会风气好。"
+    },
+    "equivalents": [
+      "a law-abiding society",
+      "crime-free",
+      "honest to a fault"
+    ],
+    "examples": [
+      {
+        "zh": "那时社会治安良好，路不拾遗，夜不闭户。",
+        "en": "Society was so safe then that no one pocketed lost items and doors were left unlocked at night."
+      },
+      {
+        "zh": "这个小镇民风淳朴，路不拾遗。",
+        "en": "The town is so honest that lost things are always returned."
+      }
+    ],
+    "origin": {
+      "source": "《史记·商君列传》",
+      "story": {
+        "en": "After Shang Yang's reforms in Qin, \"nothing lost on the road was picked up, the mountains had no bandits\" (道不拾遗，山无盗贼).",
+        "zh": "商鞅变法后，秦国\"道不拾遗，山无盗贼，家给人足\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 夜不闭户.",
+      "zh": "多作谓语，常与\"夜不闭户\"连用。"
+    },
+    "synonyms": [
+      "夜不闭户",
+      "拾金不昧",
+      "太平盛世"
+    ],
+    "antonyms": [
+      "盗贼横行",
+      "世风日下"
+    ]
+  },
+  {
+    "id": "pi-ji-tai-lai",
+    "text": "否极泰来",
+    "pinyin": "pǐ jí tài lái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "fortune",
+      "change"
+    ],
+    "literal": "adversity · extreme · peace · come",
+    "natural": "At the extreme of adversity, good fortune comes",
+    "meaning": {
+      "en": "When things are at their worst, they start to get better.",
+      "zh": "坏运到了尽头，好运就来了。"
+    },
+    "equivalents": [
+      "it's darkest before the dawn",
+      "things can only get better",
+      "the tide will turn"
+    ],
+    "examples": [
+      {
+        "zh": "别灰心，否极泰来，好日子就要来了。",
+        "en": "Don't lose heart — it's darkest before the dawn."
+      },
+      {
+        "zh": "经历了最困难的一年，公司终于否极泰来。",
+        "en": "After the hardest year, the company's fortunes finally turned."
+      }
+    ],
+    "origin": {
+      "source": "《周易》否卦、泰卦",
+      "story": {
+        "en": "In the Book of Changes, Pi (否, stagnation) and Tai (泰, peace) are opposite hexagrams; when stagnation reaches its limit, peace follows.",
+        "zh": "\"否\"和\"泰\"是《周易》中两个卦名，否卦代表闭塞不通，泰卦代表通达顺利。否到极点就转为泰。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. 否 is pǐ here.",
+      "zh": "多作谓语。\"否\"读 pǐ。"
+    },
+    "synonyms": [
+      "苦尽甘来",
+      "时来运转",
+      "柳暗花明"
+    ],
+    "antonyms": [
+      "乐极生悲",
+      "祸不单行",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "gong-zheng-wu-si",
+    "text": "公正无私",
+    "pinyin": "gōng zhèng wú sī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "fair · upright · not have · selfishness",
+    "natural": "Fair, upright and unselfish",
+    "meaning": {
+      "en": "Fair and impartial.",
+      "zh": "办事公道，没有私心。"
+    },
+    "equivalents": [
+      "fair and impartial",
+      "even-handed",
+      "just",
+      "unbiased"
+    ],
+    "examples": [
+      {
+        "zh": "法官必须公正无私。",
+        "en": "A judge must be fair and impartial."
+      },
+      {
+        "zh": "他公正无私，深受大家信任。",
+        "en": "He's fair and unbiased, and everyone trusts him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "大公无私",
+      "铁面无私",
+      "秉公办事"
+    ],
+    "antonyms": [
+      "徇私舞弊",
+      "假公济私",
+      "偏听偏信"
+    ]
+  },
+  {
+    "id": "e-you-e-bao",
+    "text": "恶有恶报",
+    "pinyin": "è yǒu è bào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "natural-consequences"
+    ],
+    "literal": "evil · have · evil · retribution",
+    "natural": "Evil brings evil in return",
+    "meaning": {
+      "en": "Evil deeds are punished.",
+      "zh": "做坏事会得到坏的报应。"
+    },
+    "equivalents": [
+      "what goes around comes around",
+      "evil will be punished",
+      "you'll get what's coming to you"
+    ],
+    "examples": [
+      {
+        "zh": "善有善报，恶有恶报。",
+        "en": "Good is rewarded with good, evil with evil."
+      },
+      {
+        "zh": "这个骗子终于被抓了，真是恶有恶报。",
+        "en": "The con man was finally caught — he got what was coming to him."
+      }
+    ],
+    "usage": {
+      "en": "Usually with 善有善报.",
+      "zh": "常与\"善有善报\"连用。"
+    },
+    "synonyms": [
+      "多行不义必自毙",
+      "自食其果",
+      "咎由自取"
+    ],
+    "antonyms": [
+      "善有善报",
+      "逍遥法外"
+    ]
+  },
+  {
+    "id": "dai-ruo-mu-ji",
+    "text": "呆若木鸡",
+    "pinyin": "dāi ruò mù jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "dull · like · wooden · rooster",
+    "natural": "Dull as a wooden rooster",
+    "meaning": {
+      "en": "Dumbstruck; frozen with shock.",
+      "zh": "呆得像木头鸡一样。形容因恐惧或惊异而发愣的样子。"
+    },
+    "equivalents": [
+      "dumbstruck",
+      "rooted to the spot",
+      "frozen",
+      "like a deer in headlights"
+    ],
+    "examples": [
+      {
+        "zh": "听到这个消息，他呆若木鸡。",
+        "en": "Hearing the news, he was dumbstruck."
+      },
+      {
+        "zh": "她吓得呆若木鸡，一动不动。",
+        "en": "She was frozen with fright, rooted to the spot."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·达生》",
+      "story": {
+        "en": "Ji Shengzi trained a fighting cock for a king. After forty days it stood \"like a wooden cock\" — so composed that other cocks fled at the sight of it. Originally praise; now it means dumbstruck.",
+        "zh": "纪渻子为王养斗鸡，四十天后，鸡\"望之似木鸡矣，其德全矣\"，别的鸡见了都逃走。原为褒义。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Negative/neutral today, though originally praise.",
+      "zh": "多作谓语，现多含贬义。"
+    },
+    "synonyms": [
+      "目瞪口呆",
+      "瞠目结舌",
+      "呆头呆脑"
+    ],
+    "antonyms": [
+      "神色自若",
+      "灵机一动",
+      "眉飞色舞"
+    ]
+  },
+  {
+    "id": "bo-xue-duo-cai",
+    "text": "博学多才",
+    "pinyin": "bó xué duō cái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "outstanding-character"
+    ],
+    "literal": "broad · learning · many · talents",
+    "natural": "Widely learned and multi-talented",
+    "meaning": {
+      "en": "Learned and versatile.",
+      "zh": "学识广博，有多方面的才能。"
+    },
+    "equivalents": [
+      "learned and versatile",
+      "a polymath",
+      "a Renaissance man",
+      "well-rounded"
+    ],
+    "examples": [
+      {
+        "zh": "苏轼博学多才，诗词书画样样精通。",
+        "en": "Su Shi was a polymath, master of poetry, calligraphy and painting."
+      },
+      {
+        "zh": "这位教授博学多才，深受学生喜爱。",
+        "en": "The professor is learned and versatile, and much loved by students."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "学富五车",
+      "多才多艺",
+      "博古通今"
+    ],
+    "antonyms": [
+      "不学无术",
+      "才疏学浅",
+      "目不识丁"
+    ]
+  },
+  {
+    "id": "jin-xiu-qian-cheng",
+    "text": "锦绣前程",
+    "pinyin": "jǐn xiù qián chéng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "fortune"
+    ],
+    "literal": "brocade · embroidery · future · road",
+    "natural": "A future as bright as brocade",
+    "meaning": {
+      "en": "A bright future.",
+      "zh": "比喻十分美好的前途。"
+    },
+    "equivalents": [
+      "a bright future",
+      "the world is your oyster",
+      "a promising career"
+    ],
+    "examples": [
+      {
+        "zh": "祝你毕业后有锦绣前程！",
+        "en": "Wishing you a bright future after graduation!"
+      },
+      {
+        "zh": "他为了爱情放弃了锦绣前程。",
+        "en": "He gave up a promising career for love."
+      }
+    ],
+    "usage": {
+      "en": "Object. Common in good wishes.",
+      "zh": "多作宾语，常用于祝福。"
+    },
+    "synonyms": [
+      "前程似锦",
+      "鹏程万里",
+      "前途无量"
+    ],
+    "antonyms": [
+      "穷途末路",
+      "前途渺茫",
+      "走投无路"
+    ]
+  },
+  {
+    "id": "jian-ji-xing-shi",
+    "text": "见机行事",
+    "pinyin": "jiàn jī xíng shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "time-management"
+    ],
+    "literal": "see · opportunity · do · thing",
+    "natural": "Act as the opportunity arises",
+    "meaning": {
+      "en": "To act according to circumstances; to play it by ear.",
+      "zh": "看情况灵活办事。"
+    },
+    "equivalents": [
+      "play it by ear",
+      "use one's judgement",
+      "act as the situation demands",
+      "wing it"
+    ],
+    "examples": [
+      {
+        "zh": "到了那里你见机行事。",
+        "en": "When you get there, play it by ear."
+      },
+      {
+        "zh": "计划赶不上变化，要见机行事。",
+        "en": "Plans change — act as the situation demands."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "随机应变",
+      "相机行事",
+      "因势利导"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "刻舟求剑",
+      "按图索骥"
+    ]
+  },
+  {
+    "id": "zhang-shi-qi-ren",
+    "text": "仗势欺人",
+    "pinyin": "zhàng shì qī rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "rely on · power · bully · people",
+    "natural": "Relying on power to bully people",
+    "meaning": {
+      "en": "To bully others on the strength of one's connections or power.",
+      "zh": "倚仗某种势力欺侮人。"
+    },
+    "equivalents": [
+      "throw one's weight around",
+      "bully",
+      "abuse one's position"
+    ],
+    "examples": [
+      {
+        "zh": "他仗着父亲是领导，仗势欺人。",
+        "en": "He throws his weight around because his father's a senior official."
+      },
+      {
+        "zh": "仗势欺人的行为要受到谴责。",
+        "en": "Bullying on the strength of power deserves condemnation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "狐假虎威",
+      "狗仗人势",
+      "恃强凌弱"
+    ],
+    "antonyms": [
+      "扶弱济贫",
+      "平易近人",
+      "见义勇为"
+    ]
+  },
+  {
+    "id": "you-yan-zai-xian",
+    "text": "有言在先",
+    "pinyin": "yǒu yán zài xiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech"
+    ],
+    "literal": "have · words · at · first",
+    "natural": "Words said beforehand",
+    "meaning": {
+      "en": "To have said (warned) in advance; as agreed beforehand.",
+      "zh": "事先已经说明过了。"
+    },
+    "equivalents": [
+      "I did warn you",
+      "as agreed",
+      "let me say up front",
+      "fair warning"
+    ],
+    "examples": [
+      {
+        "zh": "我们有言在先，迟到就不等了。",
+        "en": "We agreed in advance — if you're late, we won't wait."
+      },
+      {
+        "zh": "我有言在先，出了问题自己负责。",
+        "en": "Let me say up front — if anything goes wrong, it's on you."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "丑话说在前头",
+      "先小人后君子"
+    ],
+    "antonyms": [
+      "出尔反尔",
+      "事后诸葛亮"
+    ]
+  }
+]
