@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "gu-wu-ren-xin",
+    "text": "鼓舞人心",
+    "pinyin": "gǔ wǔ rén xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "emotions",
+      "news-and-officialese"
+    ],
+    "literal": "drum · dance · people's · hearts",
+    "natural": "inspiring",
+    "meaning": {
+      "en": "Encouraging and inspiring.",
+      "zh": "使人们的信心增强，情绪高涨。"
+    },
+    "equivalents": [
+      "inspiring",
+      "heartening",
+      "encouraging"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个鼓舞人心的消息。",
+        "en": "This is heartening news."
+      },
+      {
+        "zh": "他的演讲鼓舞人心。",
+        "en": "His speech was inspiring."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "振奋人心",
+      "激动人心"
+    ],
+    "antonyms": [
+      "令人沮丧",
+      "大失所望"
+    ]
+  },
+  {
+    "id": "san-wu-cheng-qun",
+    "text": "三五成群",
+    "pinyin": "sān wǔ chéng qún",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "small-numbers"
+    ],
+    "literal": "three · five · form · groups",
+    "natural": "in small groups",
+    "meaning": {
+      "en": "In small groups of three or five.",
+      "zh": "三个一群，五个一伙。"
+    },
+    "equivalents": [
+      "in twos and threes",
+      "in small groups"
+    ],
+    "examples": [
+      {
+        "zh": "下课后，学生们三五成群地聊天。",
+        "en": "After class, students chatted in small groups."
+      },
+      {
+        "zh": "公园里老人们三五成群地下棋。",
+        "en": "Old people play chess in small groups in the park."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "成群结队"
+    ],
+    "antonyms": [
+      "独来独往",
+      "形单影只"
+    ]
+  },
+  {
+    "id": "keng-qiang-you-li",
+    "text": "铿锵有力",
+    "pinyin": "kēng qiāng yǒu lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech"
+    ],
+    "literal": "clanging · have · force",
+    "natural": "sonorous and forceful",
+    "meaning": {
+      "en": "Ringing and powerful (of voice or words).",
+      "zh": "形容声音响亮有节奏，有力量。"
+    },
+    "equivalents": [
+      "resounding",
+      "forceful",
+      "ringing"
+    ],
+    "examples": [
+      {
+        "zh": "他的讲话铿锵有力。",
+        "en": "His speech was forceful and resounding."
+      },
+      {
+        "zh": "战士们喊出铿锵有力的口号。",
+        "en": "The soldiers shouted ringing slogans."
+      }
+    ],
+    "usage": {
+      "en": "For voices, speeches, writing.",
+      "zh": "多形容声音、讲话、文章。"
+    },
+    "synonyms": [
+      "掷地有声",
+      "慷慨激昂"
+    ],
+    "antonyms": [
+      "软弱无力",
+      "有气无力"
+    ]
+  },
+  {
+    "id": "qin-gong-jian-xue",
+    "text": "勤工俭学",
+    "pinyin": "qín gōng jiǎn xué",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "learning",
+      "effort",
+      "poverty-and-hardship"
+    ],
+    "literal": "diligent · work · frugal · study",
+    "natural": "work one's way through school",
+    "meaning": {
+      "en": "To work part-time to pay for one's studies.",
+      "zh": "利用课余时间参加劳动，以劳动收入作为学习、生活费用。"
+    },
+    "equivalents": [
+      "work one's way through college",
+      "part-time work while studying"
+    ],
+    "examples": [
+      {
+        "zh": "他靠勤工俭学读完了大学。",
+        "en": "He worked his way through university."
+      },
+      {
+        "zh": "学校为贫困生提供勤工俭学岗位。",
+        "en": "The school offers work-study jobs for poor students."
+      }
+    ],
+    "usage": {
+      "en": "Also historical: the 1920s work-study movement in France.",
+      "zh": "也指20世纪20年代赴法勤工俭学运动。"
+    },
+    "synonyms": [
+      "半工半读"
+    ],
+    "antonyms": [
+      "饱食终日"
+    ]
+  },
+  {
+    "id": "qi-zao-tan-hei",
+    "text": "起早贪黑",
+    "pinyin": "qǐ zǎo tān hēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "effort",
+      "daily-time-periods"
+    ],
+    "literal": "rise · early · crave · dark",
+    "natural": "work from dawn till dusk",
+    "meaning": {
+      "en": "To work from early morning till late at night.",
+      "zh": "起得早，睡得晚，形容辛勤劳动。"
+    },
+    "equivalents": [
+      "work from dawn to dusk",
+      "burn the candle at both ends"
+    ],
+    "examples": [
+      {
+        "zh": "父母起早贪黑地经营小店。",
+        "en": "My parents run the shop from dawn till dusk."
+      },
+      {
+        "zh": "为了考研，他起早贪黑地复习。",
+        "en": "He studied from morning till night for the postgrad exam."
+      }
+    ],
+    "usage": {
+      "en": "Casual.",
+      "zh": "口语。"
+    },
+    "synonyms": [
+      "披星戴月",
+      "早出晚归",
+      "夜以继日"
+    ],
+    "antonyms": [
+      "游手好闲",
+      "好逸恶劳",
+      "无所事事"
+    ]
+  },
+  {
+    "id": "ai-bu-shi-shou",
+    "text": "爱不释手",
+    "pinyin": "ài bù shì shǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions"
+    ],
+    "literal": "love · not · release · hand",
+    "natural": "can't put it down",
+    "meaning": {
+      "en": "Loving something so much one can't put it down.",
+      "zh": "喜爱得舍不得放手。"
+    },
+    "equivalents": [
+      "can't put it down",
+      "treasure"
+    ],
+    "examples": [
+      {
+        "zh": "这本书让我爱不释手。",
+        "en": "I couldn't put this book down."
+      },
+      {
+        "zh": "她对新手机爱不释手。",
+        "en": "She can't stop playing with her new phone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "如获至宝",
+      "爱不忍释"
+    ],
+    "antonyms": [
+      "不屑一顾",
+      "弃如敝屣"
+    ]
+  },
+  {
+    "id": "yi-fen-wei-er",
+    "text": "一分为二",
+    "pinyin": "yī fēn wéi èr",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "numbers"
+    ],
+    "literal": "one · divide · into · two",
+    "natural": "see both sides",
+    "meaning": {
+      "en": "To split into two; to see both good and bad sides.",
+      "zh": "把一个事物分为两部分；比喻全面看问题，既看到好的也看到坏的。"
+    },
+    "equivalents": [
+      "split in two",
+      "see both sides"
+    ],
+    "examples": [
+      {
+        "zh": "看问题要一分为二。",
+        "en": "You should see both sides of an issue."
+      },
+      {
+        "zh": "他把蛋糕一分为二。",
+        "en": "He cut the cake in two."
+      }
+    ],
+    "usage": {
+      "en": "Philosophical sense common in political writing.",
+      "zh": "哲学意义多见于政论。"
+    },
+    "synonyms": [
+      "辩证看待"
+    ],
+    "antonyms": [
+      "以偏概全",
+      "一概而论"
+    ]
+  },
+  {
+    "id": "bu-ke-duo-de",
+    "text": "不可多得",
+    "pinyin": "bù kě duō dé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "small-numbers"
+    ],
+    "literal": "not · can · many · get",
+    "natural": "rare",
+    "meaning": {
+      "en": "Rare and precious.",
+      "zh": "很少有，很难得。"
+    },
+    "equivalents": [
+      "rare",
+      "exceptional",
+      "one in a million"
+    ],
+    "examples": [
+      {
+        "zh": "他是一位不可多得的人才。",
+        "en": "He's a rare talent."
+      },
+      {
+        "zh": "这是一个不可多得的机会。",
+        "en": "This is an exceptional opportunity."
+      }
+    ],
+    "usage": {
+      "en": "Attributive.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "凤毛麟角",
+      "难能可贵",
+      "千载难逢"
+    ],
+    "antonyms": [
+      "比比皆是",
+      "俯拾皆是"
+    ]
+  },
+  {
+    "id": "he-le-er-bu-wei",
+    "text": "何乐而不为",
+    "pinyin": "hé lè ér bù wéi",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "wisdom"
+    ],
+    "literal": "why · happy · and · not · do",
+    "natural": "why not?",
+    "meaning": {
+      "en": "Why not do it gladly?",
+      "zh": "有什么不乐意做的呢？表示愿意去做。"
+    },
+    "equivalents": [
+      "why not?",
+      "what's not to like?"
+    ],
+    "examples": [
+      {
+        "zh": "既能锻炼身体又能省钱，何乐而不为？",
+        "en": "It keeps you fit and saves money — why not?"
+      },
+      {
+        "zh": "帮助别人也快乐自己，何乐而不为呢？",
+        "en": "Helping others makes you happy too, so why not?"
+      }
+    ],
+    "usage": {
+      "en": "Rhetorical question, often sentence-final.",
+      "zh": "反问，多放句末。"
+    },
+    "synonyms": [
+      "一举两得"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "kou-kou-xiang-chuan",
+    "text": "口口相传",
+    "pinyin": "kǒu kǒu xiāng chuán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "speech"
+    ],
+    "literal": "mouth · mouth · pass on",
+    "natural": "passed by word of mouth",
+    "meaning": {
+      "en": "Passed down by word of mouth.",
+      "zh": "一个人传一个人，口头流传下来。"
+    },
+    "equivalents": [
+      "by word of mouth",
+      "oral tradition"
+    ],
+    "examples": [
+      {
+        "zh": "这些民歌靠口口相传保存下来。",
+        "en": "These folk songs survived by word of mouth."
+      },
+      {
+        "zh": "好口碑在顾客中口口相传。",
+        "en": "A good reputation spreads by word of mouth."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "代代相传",
+      "口耳相传"
+    ],
+    "antonyms": [
+      "失传"
+    ]
+  },
+  {
+    "id": "qi-chuan-xu-xu",
+    "text": "气喘吁吁",
+    "pinyin": "qì chuǎn xū xū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "poor-health"
+    ],
+    "literal": "breath · pant · puffing",
+    "natural": "out of breath",
+    "meaning": {
+      "en": "Panting and out of breath.",
+      "zh": "形容大声喘气。"
+    },
+    "equivalents": [
+      "out of breath",
+      "panting",
+      "puffing and panting"
+    ],
+    "examples": [
+      {
+        "zh": "他气喘吁吁地跑进教室。",
+        "en": "He ran into the classroom out of breath."
+      },
+      {
+        "zh": "爬到山顶，大家都气喘吁吁。",
+        "en": "At the top of the mountain everyone was panting."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "上气不接下气"
+    ],
+    "antonyms": [
+      "气定神闲",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "bu-gan-shi-ruo",
+    "text": "不甘示弱",
+    "pinyin": "bù gān shì ruò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "character"
+    ],
+    "literal": "not · willing · show · weakness",
+    "natural": "not to be outdone",
+    "meaning": {
+      "en": "Unwilling to be outdone.",
+      "zh": "不甘心表现得比别人差。"
+    },
+    "equivalents": [
+      "not to be outdone",
+      "refuse to back down"
+    ],
+    "examples": [
+      {
+        "zh": "对方进了一球，我们也不甘示弱。",
+        "en": "They scored, but we weren't to be outdone."
+      },
+      {
+        "zh": "弟弟不甘示弱，也报名参加了比赛。",
+        "en": "Not to be outdone, his younger brother signed up too."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "不甘落后",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "甘拜下风",
+      "示弱于人",
+      "自愧不如"
+    ]
+  },
+  {
+    "id": "yi-qi-feng-fa",
+    "text": "意气风发",
+    "pinyin": "yì qì fēng fā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "high-aspirations"
+    ],
+    "literal": "spirit · energy · wind · rise",
+    "natural": "full of drive",
+    "meaning": {
+      "en": "High-spirited and full of enthusiasm.",
+      "zh": "形容精神振奋，气概昂扬。"
+    },
+    "equivalents": [
+      "full of vigour",
+      "in high spirits",
+      "brimming with confidence"
+    ],
+    "examples": [
+      {
+        "zh": "毕业生们意气风发地走向社会。",
+        "en": "The graduates set out into the world brimming with confidence."
+      },
+      {
+        "zh": "当年他意气风发，如今却很低调。",
+        "en": "He was full of drive back then; now he keeps a low profile."
+      }
+    ],
+    "usage": {
+      "en": "Common for youth.",
+      "zh": "多形容年轻人。"
+    },
+    "synonyms": [
+      "朝气蓬勃",
+      "雄心勃勃",
+      "踌躇满志"
+    ],
+    "antonyms": [
+      "垂头丧气",
+      "心灰意冷",
+      "萎靡不振"
+    ]
+  },
+  {
+    "id": "mo-quan-ca-zhang",
+    "text": "摩拳擦掌",
+    "pinyin": "mó quán cā zhǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "competition-and-rivalry"
+    ],
+    "literal": "rub · fists · wipe · palms",
+    "natural": "gearing up",
+    "meaning": {
+      "en": "Eagerly preparing for action.",
+      "zh": "形容战斗或劳动前精神振奋、跃跃欲试的样子。"
+    },
+    "equivalents": [
+      "raring to go",
+      "gearing up for action"
+    ],
+    "examples": [
+      {
+        "zh": "比赛还没开始，队员们已经摩拳擦掌。",
+        "en": "Before the match, the players were raring to go."
+      },
+      {
+        "zh": "新学期开始，同学们摩拳擦掌，准备大干一场。",
+        "en": "The new term has begun and students are gearing up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "跃跃欲试",
+      "严阵以待"
+    ],
+    "antonyms": [
+      "无精打采",
+      "垂头丧气"
+    ]
+  },
+  {
+    "id": "xi-nu-ai-le",
+    "text": "喜怒哀乐",
+    "pinyin": "xǐ nù āi lè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "complex-emotional-states",
+      "confucian-classics"
+    ],
+    "literal": "joy · anger · sorrow · happiness",
+    "natural": "all the emotions",
+    "meaning": {
+      "en": "The whole range of human emotions.",
+      "zh": "欢喜、愤怒、悲哀、快乐，泛指人的各种情感。"
+    },
+    "equivalents": [
+      "the full range of emotions",
+      "joys and sorrows"
+    ],
+    "examples": [
+      {
+        "zh": "他从不把喜怒哀乐表现在脸上。",
+        "en": "He never shows his emotions on his face."
+      },
+      {
+        "zh": "音乐能表达人的喜怒哀乐。",
+        "en": "Music can express every human emotion."
+      }
+    ],
+    "usage": {
+      "en": "From the Doctrine of the Mean (中庸).",
+      "zh": "语出《中庸》。"
+    },
+    "synonyms": [
+      "悲欢离合",
+      "酸甜苦辣"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qian-cha-wan-bie",
+    "text": "千差万别",
+    "pinyin": "qiān chā wàn bié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements"
+    ],
+    "literal": "thousand · differences · ten-thousand · distinctions",
+    "natural": "vary enormously",
+    "meaning": {
+      "en": "Varying greatly.",
+      "zh": "形容差别很大很多。"
+    },
+    "equivalents": [
+      "vary widely",
+      "differ enormously"
+    ],
+    "examples": [
+      {
+        "zh": "每个人的情况千差万别。",
+        "en": "Everyone's situation is very different."
+      },
+      {
+        "zh": "各地的风俗千差万别。",
+        "en": "Customs vary enormously from place to place."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "截然不同",
+      "天差地别"
+    ],
+    "antonyms": [
+      "大同小异",
+      "一模一样",
+      "千篇一律"
+    ]
+  },
+  {
+    "id": "suan-tian-ku-la",
+    "text": "酸甜苦辣",
+    "pinyin": "suān tián kǔ là",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "food"
+    ],
+    "literal": "sour · sweet · bitter · spicy",
+    "natural": "life's ups and downs",
+    "meaning": {
+      "en": "All the flavours; the joys and sorrows of life.",
+      "zh": "各种味道，比喻生活中的种种经历和感受。"
+    },
+    "equivalents": [
+      "ups and downs",
+      "the bitter and the sweet"
+    ],
+    "examples": [
+      {
+        "zh": "创业的酸甜苦辣只有自己知道。",
+        "en": "Only you know the ups and downs of starting a business."
+      },
+      {
+        "zh": "他尝尽了人生的酸甜苦辣。",
+        "en": "He has tasted all of life's joys and sorrows."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "五味杂陈",
+      "喜怒哀乐",
+      "悲欢离合"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhong-liu-di-zhu",
+    "text": "中流砥柱",
+    "pinyin": "zhōng liú dǐ zhù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "outstanding-character"
+    ],
+    "literal": "mid · stream · whetstone · pillar",
+    "natural": "a pillar of strength",
+    "meaning": {
+      "en": "A mainstay standing firm in turbulent times.",
+      "zh": "像屹立在黄河激流中的砥柱山一样，比喻坚强独立、能起支柱作用的人或集体。"
+    },
+    "equivalents": [
+      "a pillar of strength",
+      "the backbone",
+      "a mainstay"
+    ],
+    "examples": [
+      {
+        "zh": "他是球队的中流砥柱。",
+        "en": "He's the backbone of the team."
+      },
+      {
+        "zh": "青年是建设国家的中流砥柱。",
+        "en": "Young people are the mainstay of national construction."
+      }
+    ],
+    "usage": {
+      "en": "Dizhu is a rock in the Yellow River at Sanmenxia.",
+      "zh": "砥柱山在黄河三门峡。"
+    },
+    "synonyms": [
+      "栋梁之材",
+      "顶梁柱"
+    ],
+    "antonyms": [
+      "乌合之众",
+      "害群之马"
+    ]
+  },
+  {
+    "id": "zhen-xiang-da-bai",
+    "text": "真相大白",
+    "pinyin": "zhēn xiàng dà bái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "stories"
+    ],
+    "literal": "true · face · greatly · clear",
+    "natural": "the truth comes out",
+    "meaning": {
+      "en": "The truth comes to light.",
+      "zh": "真实情况完全弄清楚了。"
+    },
+    "equivalents": [
+      "the truth comes out",
+      "all is revealed"
+    ],
+    "examples": [
+      {
+        "zh": "经过调查，事情终于真相大白。",
+        "en": "After investigation, the truth finally came out."
+      },
+      {
+        "zh": "真相大白后，大家都向他道歉。",
+        "en": "Once the truth came out, everyone apologised to him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "水落石出",
+      "昭然若揭"
+    ],
+    "antonyms": [
+      "扑朔迷离",
+      "悬而未决",
+      "迷雾重重"
+    ]
+  },
+  {
+    "id": "zao-chu-wan-gui",
+    "text": "早出晚归",
+    "pinyin": "zǎo chū wǎn guī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "daily-time-periods"
+    ],
+    "literal": "early · out · late · return",
+    "natural": "leave early and come back late",
+    "meaning": {
+      "en": "To go out early and return late.",
+      "zh": "早上很早出去，晚上很晚回来。"
+    },
+    "equivalents": [
+      "out from dawn to dusk",
+      "long hours"
+    ],
+    "examples": [
+      {
+        "zh": "爸爸每天早出晚归。",
+        "en": "Dad leaves early and gets home late every day."
+      },
+      {
+        "zh": "农忙时，农民早出晚归。",
+        "en": "In the busy season, farmers work from dawn to dusk."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "起早贪黑",
+      "披星戴月"
+    ],
+    "antonyms": [
+      "足不出户",
+      "无所事事"
+    ]
+  },
+  {
+    "id": "fan-rong-chang-sheng",
+    "text": "繁荣昌盛",
+    "pinyin": "fán róng chāng shèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "festive-greetings",
+      "news-and-officialese"
+    ],
+    "literal": "flourishing · prosperous",
+    "natural": "prosperous and thriving",
+    "meaning": {
+      "en": "Flourishing and prosperous (of a country).",
+      "zh": "形容国家兴旺发达。"
+    },
+    "equivalents": [
+      "prosperous",
+      "thriving"
+    ],
+    "examples": [
+      {
+        "zh": "祝祖国繁荣昌盛！",
+        "en": "May the motherland flourish!"
+      },
+      {
+        "zh": "国家日益繁荣昌盛。",
+        "en": "The country grows more prosperous by the day."
+      }
+    ],
+    "usage": {
+      "en": "Common in national-day wishes.",
+      "zh": "多用于国庆祝福。"
+    },
+    "synonyms": [
+      "国泰民安",
+      "欣欣向荣",
+      "兴旺发达"
+    ],
+    "antonyms": [
+      "民不聊生",
+      "日薄西山"
+    ]
+  },
+  {
+    "id": "yi-kou-tong-sheng",
+    "text": "异口同声",
+    "pinyin": "yì kǒu tóng shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "relationships"
+    ],
+    "literal": "different · mouths · same · voice",
+    "natural": "with one voice",
+    "meaning": {
+      "en": "Many people saying the same thing at once.",
+      "zh": "不同的嘴说出相同的话，指大家说得都一样。"
+    },
+    "equivalents": [
+      "with one voice",
+      "in unison",
+      "all at once"
+    ],
+    "examples": [
+      {
+        "zh": "同学们异口同声地回答：“是！”",
+        "en": "The students answered in unison: 'Yes!'"
+      },
+      {
+        "zh": "大家异口同声地称赞他。",
+        "en": "Everyone praised him with one voice."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "众口一词",
+      "不约而同"
+    ],
+    "antonyms": [
+      "众说纷纭",
+      "各执一词",
+      "各抒己见"
+    ]
+  },
+  {
+    "id": "da-shi-da-fei",
+    "text": "大是大非",
+    "pinyin": "dà shì dà fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "wisdom",
+      "news-and-officialese"
+    ],
+    "literal": "big · right · big · wrong",
+    "natural": "matters of principle",
+    "meaning": {
+      "en": "Major questions of right and wrong.",
+      "zh": "原则性的是非问题。"
+    },
+    "equivalents": [
+      "matters of principle",
+      "fundamental issues"
+    ],
+    "examples": [
+      {
+        "zh": "在大是大非面前，必须立场坚定。",
+        "en": "On matters of principle, one must stand firm."
+      },
+      {
+        "zh": "他在大是大非问题上从不含糊。",
+        "en": "He's never vague on questions of fundamental right and wrong."
+      }
+    ],
+    "usage": {
+      "en": "Official register.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "是非分明"
+    ],
+    "antonyms": [
+      "鸡毛蒜皮"
+    ]
+  },
+  {
+    "id": "yu-xue-fen-zhan",
+    "text": "浴血奋战",
+    "pinyin": "yù xuè fèn zhàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "character"
+    ],
+    "literal": "bathe · blood · fight hard",
+    "natural": "fight heroically",
+    "meaning": {
+      "en": "To fight a bloody, heroic battle.",
+      "zh": "全身沾满了鲜血，奋勇战斗。"
+    },
+    "equivalents": [
+      "fight to the death",
+      "fight heroically"
+    ],
+    "examples": [
+      {
+        "zh": "战士们浴血奋战，守住了阵地。",
+        "en": "The soldiers fought heroically and held their ground."
+      },
+      {
+        "zh": "经过八年浴血奋战，终于赢得了胜利。",
+        "en": "After eight years of bloody struggle, victory was won."
+      }
+    ],
+    "usage": {
+      "en": "Formal; history and war.",
+      "zh": "书面，多用于战争。"
+    },
+    "synonyms": [
+      "英勇善战",
+      "奋不顾身"
+    ],
+    "antonyms": [
+      "临阵脱逃",
+      "不战而降"
+    ]
+  }
+]
