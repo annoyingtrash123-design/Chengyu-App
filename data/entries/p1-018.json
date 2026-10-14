@@ -598,8 +598,11 @@
   },
   {
     "id": "du-pi-xi-jing",
-    "text": "独辟蹊径",
-    "pinyin": "dú pì xī jìng",
+    "text": "另辟蹊径",
+    "pinyin": "lìng pì xī jìng",
+    "variants": [
+      "独辟蹊径"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -636,8 +639,7 @@
     },
     "synonyms": [
       "别出心裁",
-      "独树一帜",
-      "另辟蹊径"
+      "独树一帜"
     ],
     "antonyms": [
       "墨守成规",
