@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "da-bao-kou-fu",
+    "text": "大饱口福",
+    "pinyin": "dà bǎo kǒu fú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fine-cuisine"
+    ],
+    "literal": "greatly · satisfy · mouth · fortune",
+    "natural": "Greatly satisfying the mouth",
+    "meaning": {
+      "en": "To enjoy a delicious feast.",
+      "zh": "指吃到了好吃的东西，满足了口腹之欲。"
+    },
+    "equivalents": [
+      "a treat for the taste buds",
+      "eat like a king",
+      "a culinary feast"
+    ],
+    "examples": [
+      {
+        "zh": "这次去成都，我大饱口福。",
+        "en": "On this trip to Chengdu, I ate like a king."
+      },
+      {
+        "zh": "妈妈做了一桌好菜，让我们大饱口福。",
+        "en": "Mum cooked a feast, a real treat for our taste buds."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Modelled on 大饱眼福.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "大快朵颐",
+      "饱餐一顿"
+    ],
+    "antonyms": [
+      "食不甘味",
+      "饥肠辘辘"
+    ]
+  },
+  {
+    "id": "duan-ji-hua-zhou",
+    "text": "断齑画粥",
+    "pinyin": "duàn jī huà zhōu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "reading-and-study"
+    ],
+    "literal": "cut · pickles · divide · porridge",
+    "natural": "Chopping pickles and dividing porridge",
+    "meaning": {
+      "en": "To study diligently in great poverty.",
+      "zh": "形容生活清苦，刻苦读书。"
+    },
+    "equivalents": [
+      "study through hardship",
+      "live frugally to learn",
+      "a struggling scholar"
+    ],
+    "examples": [
+      {
+        "zh": "范仲淹少时断齑画粥，刻苦攻读。",
+        "en": "As a youth Fan Zhongyan lived on divided porridge and chopped pickles while studying hard."
+      },
+      {
+        "zh": "他断齑画粥，终于学有所成。",
+        "en": "Studying in poverty, he eventually succeeded."
+      }
+    ],
+    "origin": {
+      "source": "宋人笔记（范仲淹故事）",
+      "story": {
+        "en": "The young Fan Zhongyan, studying in a temple, cooked a pot of porridge each evening, let it set, cut it into four pieces, and ate two pieces morning and evening with a few chopped pickles.",
+        "zh": "范仲淹少年时在寺中读书，每天煮一锅粥，凝固后划成四块，早晚各吃两块，再切些咸菜佐食。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. 齑 is jī (pickled vegetables).",
+      "zh": "多作谓语。\"齑\"读 jī。"
+    },
+    "synonyms": [
+      "囊萤映雪",
+      "凿壁偷光",
+      "悬梁刺股"
+    ],
+    "antonyms": [
+      "锦衣玉食",
+      "饱食终日"
+    ]
+  },
+  {
+    "id": "er-tao-sha-san-shi",
+    "text": "二桃杀三士",
+    "pinyin": "èr táo shā sān shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "stories"
+    ],
+    "literal": "two · peaches · kill · three · warriors",
+    "natural": "Two peaches killing three warriors",
+    "meaning": {
+      "en": "To destroy rivals by setting them against each other.",
+      "zh": "比喻借刀杀人，用计谋使人相互残杀。"
+    },
+    "equivalents": [
+      "divide and rule",
+      "set them at each other's throats",
+      "a poisoned chalice"
+    ],
+    "examples": [
+      {
+        "zh": "他用了二桃杀三士的计谋，让对手互相争斗。",
+        "en": "He set his rivals against each other, divide and rule."
+      },
+      {
+        "zh": "二桃杀三士的故事说明了计谋的厉害。",
+        "en": "The story of two peaches and three warriors shows the power of cunning."
+      }
+    ],
+    "origin": {
+      "source": "《晏子春秋·内篇谏下》",
+      "story": {
+        "en": "The minister Yanzi had the Duke of Qi offer two peaches to three arrogant warriors, to be shared by merit. Each argued, then in shame killed himself.",
+        "zh": "晏子让齐景公赐给三位骄横的勇士两个桃子，让他们论功取桃。三人争功后又羞愧自杀。"
+      }
+    },
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "借刀杀人",
+      "挑拨离间"
+    ],
+    "antonyms": [
+      "团结一致",
+      "和衷共济"
+    ]
+  },
+  {
+    "id": "fang-mou-du-duan",
+    "text": "房谋杜断",
+    "pinyin": "fáng móu dù duàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority",
+      "wisdom"
+    ],
+    "literal": "Fang · plans · Du · decides",
+    "natural": "Fang plans and Du decides",
+    "meaning": {
+      "en": "A perfect partnership of planner and decision-maker.",
+      "zh": "房玄龄善于谋划，杜如晦善于决断。比喻同心协力，各有所长。"
+    },
+    "equivalents": [
+      "a dream team",
+      "complementary partners",
+      "the planner and the decider"
+    ],
+    "examples": [
+      {
+        "zh": "两位创始人房谋杜断，配合默契。",
+        "en": "The two founders are a dream team — one plans, the other decides."
+      },
+      {
+        "zh": "他们俩一个出主意一个拍板，堪称房谋杜断。",
+        "en": "One comes up with ideas, the other makes the call — perfect partners."
+      }
+    ],
+    "origin": {
+      "source": "《旧唐书·房玄龄传》",
+      "story": {
+        "en": "Emperor Taizong's ministers Fang Xuanling and Du Ruhui were famous partners: \"Xuanling was good at planning, Ruhui at deciding.\"",
+        "zh": "唐太宗时房玄龄、杜如晦同心辅政，\"玄龄善谋，如晦能断\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "珠联璧合",
+      "相辅相成"
+    ],
+    "antonyms": [
+      "各自为政",
+      "同床异梦"
+    ]
+  },
+  {
+    "id": "fei-xiong-ru-meng",
+    "text": "飞熊入梦",
+    "pinyin": "fēi xióng rù mèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority",
+      "stories"
+    ],
+    "literal": "flying · bear · enter · dream",
+    "natural": "A flying bear entering the dream",
+    "meaning": {
+      "en": "An omen of finding a great talent to help one rule.",
+      "zh": "比喻圣主得贤臣的征兆。"
+    },
+    "equivalents": [
+      "an omen of good fortune",
+      "finding the right person"
+    ],
+    "examples": [
+      {
+        "zh": "周文王飞熊入梦，访得姜太公。",
+        "en": "King Wen dreamt of a flying bear and found Jiang Ziya."
+      },
+      {
+        "zh": "老板说遇到他就像飞熊入梦。",
+        "en": "The boss said finding him was like a dream come true."
+      }
+    ],
+    "origin": {
+      "source": "《史记·齐太公世家》",
+      "story": {
+        "en": "Before hunting, King Wen of Zhou divined that he would catch \"not a dragon, not a tiger, not a bear\" but a helper of kings — and met Jiang Ziya fishing by the Wei River. Later tellings made it a dream of a flying bear.",
+        "zh": "周文王出猎前占卜，得\"所获非龙非彲，非虎非罴，所获霸王之辅\"，果然在渭水边遇到姜太公。后世演化为\"飞熊入梦\"。"
+      }
+    },
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "求贤若渴",
+      "三顾茅庐"
+    ],
+    "antonyms": [
+      "怀才不遇"
+    ]
+  },
+  {
+    "id": "feng-sheng-shui-qi",
+    "text": "风生水起",
+    "pinyin": "fēng shēng shuǐ qǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "change"
+    ],
+    "literal": "wind · arise · water · rise",
+    "natural": "Wind rising and water surging",
+    "meaning": {
+      "en": "Thriving and flourishing (of a business or career).",
+      "zh": "形容事情做得特别好，蓬勃兴旺。"
+    },
+    "equivalents": [
+      "thriving",
+      "booming",
+      "going great guns",
+      "on a roll"
+    ],
+    "examples": [
+      {
+        "zh": "他的生意越做越风生水起。",
+        "en": "His business is booming."
+      },
+      {
+        "zh": "这家公司在新领域做得风生水起。",
+        "en": "The company is going great guns in the new field."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement (做得风生水起). Modern popular usage.",
+      "zh": "多作谓语、补语，现代常用。"
+    },
+    "synonyms": [
+      "蒸蒸日上",
+      "如火如荼",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "每况愈下",
+      "一蹶不振",
+      "门可罗雀"
+    ]
+  },
+  {
+    "id": "fo-kou-she-xin",
+    "text": "佛口蛇心",
+    "pinyin": "fó kǒu shé xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws"
+    ],
+    "literal": "Buddha · mouth · snake · heart",
+    "natural": "A Buddha's mouth and a snake's heart",
+    "meaning": {
+      "en": "Sweet words hiding a vicious heart.",
+      "zh": "佛的嘴巴，蛇的心肠。比喻嘴上说得好听，心肠却很狠毒。"
+    },
+    "equivalents": [
+      "a wolf in sheep's clothing",
+      "honey-tongued but heartless",
+      "two-faced"
+    ],
+    "examples": [
+      {
+        "zh": "他佛口蛇心，别被他的好话骗了。",
+        "en": "He's a wolf in sheep's clothing — don't be fooled by his sweet talk."
+      },
+      {
+        "zh": "这个人佛口蛇心，害了不少人。",
+        "en": "This honey-tongued villain has harmed many."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "口蜜腹剑",
+      "笑里藏刀",
+      "人面兽心"
+    ],
+    "antonyms": [
+      "心口如一",
+      "菩萨心肠",
+      "表里如一"
+    ]
+  },
+  {
+    "id": "gan-jiang-mo-ye",
+    "text": "干将莫邪",
+    "pinyin": "gān jiāng mò yé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "useful-tools-and-skill",
+      "stories"
+    ],
+    "literal": "Ganjiang · Moye",
+    "natural": "The swords Ganjiang and Moye",
+    "meaning": {
+      "en": "Legendary swords; a peerless blade.",
+      "zh": "古代传说中的两把宝剑名，也是铸剑夫妇的名字。泛指宝剑。"
+    },
+    "equivalents": [
+      "Excalibur",
+      "a legendary sword",
+      "a peerless blade"
+    ],
+    "examples": [
+      {
+        "zh": "干将莫邪是传说中最锋利的宝剑。",
+        "en": "Ganjiang and Moye are the sharpest swords of legend."
+      },
+      {
+        "zh": "这把刀可谓干将莫邪。",
+        "en": "This blade is a peerless one."
+      }
+    ],
+    "origin": {
+      "source": "东汉·赵晔《吴越春秋》",
+      "story": {
+        "en": "The swordsmith Ganjiang and his wife Moye forged a pair of swords for the King of Wu; when the metal wouldn't fuse, Moye cut her hair and nails into the furnace. The swords were named after them.",
+        "zh": "干将与妻子莫邪为吴王铸剑，金铁不熔，莫邪剪下头发指甲投入炉中，铸成雌雄二剑，以二人名字命名。"
+      }
+    },
+    "usage": {
+      "en": "Noun. 干 is gān.",
+      "zh": "名词。\"干\"读 gān。"
+    },
+    "synonyms": [
+      "削铁如泥"
+    ],
+    "antonyms": [
+      "破铜烂铁"
+    ]
+  },
+  {
+    "id": "gao-lou-lin-li",
+    "text": "高楼林立",
+    "pinyin": "gāo lóu lín lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "successful-construction"
+    ],
+    "literal": "tall · buildings · forest · stand",
+    "natural": "Tall buildings standing like a forest",
+    "meaning": {
+      "en": "A forest of skyscrapers.",
+      "zh": "高楼像树林一样密集地矗立着。"
+    },
+    "equivalents": [
+      "a forest of skyscrapers",
+      "a concrete jungle",
+      "a skyline of towers"
+    ],
+    "examples": [
+      {
+        "zh": "如今这里高楼林立，十年前还是农田。",
+        "en": "It's a forest of skyscrapers now; ten years ago it was farmland."
+      },
+      {
+        "zh": "高楼林立的城市让人感到压抑。",
+        "en": "A concrete jungle can feel oppressive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. A descriptive 四字词语 common in news.",
+      "zh": "多作谓语、定语，新闻常用。"
+    },
+    "synonyms": [
+      "鳞次栉比"
+    ],
+    "antonyms": [
+      "荒无人烟",
+      "一片荒芜"
+    ]
+  },
+  {
+    "id": "gu-qu-zhou-lang",
+    "text": "顾曲周郎",
+    "pinyin": "gù qǔ zhōu láng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "arts",
+      "stories"
+    ],
+    "literal": "attend · tune · Zhou · gentleman",
+    "natural": "Master Zhou who turns at a wrong note",
+    "meaning": {
+      "en": "A connoisseur of music.",
+      "zh": "指精通音乐、戏曲的人。"
+    },
+    "equivalents": [
+      "a music connoisseur",
+      "a discerning ear",
+      "perfect pitch"
+    ],
+    "examples": [
+      {
+        "zh": "他是戏曲界的顾曲周郎。",
+        "en": "He's a true connoisseur of opera."
+      },
+      {
+        "zh": "在座都是顾曲周郎，我就献丑了。",
+        "en": "Everyone here has a discerning ear, but I'll do my best."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·吴书·周瑜传》",
+      "story": {
+        "en": "The general Zhou Yu was so musical that even after drinks, if a player made a mistake he would turn to look — people said: \"If the tune is wrong, Master Zhou turns his head\" (曲有误，周郎顾).",
+        "zh": "周瑜精通音乐，酒过三巡后仍能听出错误，必回头看，时人谣曰：\"曲有误，周郎顾。\""
+      }
+    },
+    "usage": {
+      "en": "Object.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "知音"
+    ],
+    "antonyms": [
+      "对牛弹琴"
+    ]
+  },
+  {
+    "id": "hou-men-si-hai",
+    "text": "侯门似海",
+    "pinyin": "hóu mén sì hǎi",
+    "variants": [
+      "侯门深似海"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "leadership-and-authority"
+    ],
+    "literal": "noble · gate · like · sea",
+    "natural": "A noble house as deep as the sea",
+    "meaning": {
+      "en": "The gulf between the powerful and ordinary people; lost to the world of the rich.",
+      "zh": "王公贵族的门庭像大海一样深。比喻旧时相识的人，因地位悬殊而疏远隔绝。"
+    },
+    "equivalents": [
+      "worlds apart",
+      "a gulf between rich and poor",
+      "lost to high society"
+    ],
+    "examples": [
+      {
+        "zh": "侯门似海，她嫁入豪门后就再没见过老朋友。",
+        "en": "After marrying into wealth, she was lost to her old friends."
+      },
+      {
+        "zh": "一入侯门深似海。",
+        "en": "Once through the noble gate, it's as deep as the sea."
+      }
+    ],
+    "origin": {
+      "source": "唐·崔郊《赠婢》",
+      "story": {
+        "en": "Cui Jiao's beloved maid was sold to a powerful official. He wrote: \"Once through the noble's gate it is deep as the sea; from now on Master Xiao is a stranger on the road.\"",
+        "zh": "崔郊心爱的婢女被卖给权贵，他写诗：\"侯门一入深如海，从此萧郎是路人。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone.",
+      "zh": "多作谓语或单独成句。"
+    },
+    "synonyms": [
+      "门第悬殊",
+      "天壤之别"
+    ],
+    "antonyms": [
+      "门当户对",
+      "平易近人"
+    ]
+  },
+  {
+    "id": "hua-hu-lei-quan",
+    "text": "画虎类犬",
+    "pinyin": "huà hǔ lèi quǎn",
+    "variants": [
+      "画虎不成反类犬"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conformity-and-imitation",
+      "artistic-mediocrity"
+    ],
+    "literal": "draw · tiger · resemble · dog",
+    "natural": "Drawing a tiger that looks like a dog",
+    "meaning": {
+      "en": "An overambitious imitation that fails ridiculously.",
+      "zh": "画老虎不成，反倒像狗。比喻模仿得不到家，反而弄得不伦不类。"
+    },
+    "equivalents": [
+      "a botched imitation",
+      "overreach and fail",
+      "mutton dressed as lamb"
+    ],
+    "examples": [
+      {
+        "zh": "模仿大师的风格要谨慎，否则画虎类犬。",
+        "en": "Be careful imitating a master, or you'll end up with a botched copy."
+      },
+      {
+        "zh": "他学人家的演讲风格，结果画虎类犬。",
+        "en": "He copied someone's speaking style and it came out ridiculous."
+      }
+    ],
+    "origin": {
+      "source": "东汉·马援《诫兄子严敦书》",
+      "story": {
+        "en": "General Ma Yuan warned his nephews not to imitate the flamboyant Du Ji: \"If you try to draw a tiger and fail, it ends up looking like a dog.\"",
+        "zh": "马援写信告诫侄子不要学杜季良：\"效季良不得，陷为天下轻薄子，所谓画虎不成反类狗者也。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Also 画虎不成反类犬.",
+      "zh": "多作谓语。也作\"画虎不成反类犬\"。"
+    },
+    "synonyms": [
+      "东施效颦",
+      "邯郸学步",
+      "弄巧成拙"
+    ],
+    "antonyms": [
+      "惟妙惟肖",
+      "栩栩如生"
+    ]
+  },
+  {
+    "id": "hun-shen-shang-xia",
+    "text": "浑身上下",
+    "pinyin": "hún shēn shàng xià",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body"
+    ],
+    "literal": "whole · body · top · bottom",
+    "natural": "All over the body, top to bottom",
+    "meaning": {
+      "en": "From head to toe; all over.",
+      "zh": "整个身体，全身。"
+    },
+    "equivalents": [
+      "from head to toe",
+      "all over",
+      "from top to bottom"
+    ],
+    "examples": [
+      {
+        "zh": "他淋了雨，浑身上下都湿透了。",
+        "en": "Caught in the rain, he was soaked from head to toe."
+      },
+      {
+        "zh": "她浑身上下都是名牌。",
+        "en": "She's in designer labels from top to bottom."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or subject.",
+      "zh": "多作状语、主语。"
+    },
+    "synonyms": [
+      "从头到脚",
+      "遍体"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hui-ge-fan-ri",
+    "text": "挥戈反日",
+    "pinyin": "huī gē fǎn rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "miraculous-occurrences",
+      "stories"
+    ],
+    "literal": "wave · halberd · return · sun",
+    "natural": "Waving a halberd to turn back the sun",
+    "meaning": {
+      "en": "To turn back the tide; to reverse a hopeless situation.",
+      "zh": "挥动长戈使太阳退回。比喻排除困难，扭转危局。"
+    },
+    "equivalents": [
+      "turn back the clock",
+      "reverse the tide",
+      "perform a miracle"
+    ],
+    "examples": [
+      {
+        "zh": "他力图挥戈反日，挽救公司。",
+        "en": "He tried to turn back the tide and save the company."
+      },
+      {
+        "zh": "在最后时刻，球队挥戈反日，逆转获胜。",
+        "en": "At the last moment the team turned the tide and won."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·览冥训》",
+      "story": {
+        "en": "Lord Luyang was fighting at dusk; he waved his halberd at the setting sun and it moved back three lunar mansions.",
+        "zh": "鲁阳公与韩国交战，天色将晚，他挥戈指向太阳，太阳竟退回了三个星宿的距离。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "力挽狂澜",
+      "扭转乾坤",
+      "起死回生"
+    ],
+    "antonyms": [
+      "无力回天",
+      "回天乏术"
+    ]
+  },
+  {
+    "id": "hui-yan-shi-zhu",
+    "text": "慧眼识珠",
+    "pinyin": "huì yǎn shí zhū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "leadership-and-authority"
+    ],
+    "literal": "discerning · eye · recognise · pearl",
+    "natural": "A discerning eye that spots the pearl",
+    "meaning": {
+      "en": "To have an eye for talent or value.",
+      "zh": "比喻能够识别人才或好东西。"
+    },
+    "equivalents": [
+      "an eye for talent",
+      "a good judge of character",
+      "spot a diamond in the rough"
+    ],
+    "examples": [
+      {
+        "zh": "多亏老板慧眼识珠，他才有了发挥的机会。",
+        "en": "Thanks to the boss's eye for talent, he got his chance."
+      },
+      {
+        "zh": "这位收藏家慧眼识珠，发现了一件国宝。",
+        "en": "The collector's discerning eye spotted a national treasure."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "独具慧眼",
+      "知人善任",
+      "伯乐相马"
+    ],
+    "antonyms": [
+      "有眼无珠",
+      "有眼不识泰山",
+      "明珠暗投"
+    ]
+  },
+  {
+    "id": "hu-li-gong-ying",
+    "text": "互利共赢",
+    "pinyin": "hù lì gòng yíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "modern-applications-of-classical-ideas",
+      "relationships"
+    ],
+    "literal": "mutual · benefit · shared · win",
+    "natural": "Mutual benefit and shared victory",
+    "meaning": {
+      "en": "Win-win; mutually beneficial.",
+      "zh": "互相带来利益，共同取得成功。"
+    },
+    "equivalents": [
+      "win-win",
+      "mutually beneficial",
+      "a two-way street"
+    ],
+    "examples": [
+      {
+        "zh": "两国合作实现了互利共赢。",
+        "en": "The two countries' cooperation produced a win-win outcome."
+      },
+      {
+        "zh": "我们追求互利共赢的伙伴关系。",
+        "en": "We seek mutually beneficial partnerships."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. A modern diplomatic and business set phrase.",
+      "zh": "多作谓语、定语。现代外交、商务常用语。"
+    },
+    "synonyms": [
+      "两全其美",
+      "皆大欢喜",
+      "互惠互利"
+    ],
+    "antonyms": [
+      "两败俱伤",
+      "你死我活",
+      "损人利己"
+    ]
+  },
+  {
+    "id": "ji-ri-cheng-gong",
+    "text": "计日程功",
+    "pinyin": "jì rì chéng gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "time-management",
+      "successful-completion"
+    ],
+    "literal": "count · days · measure · progress",
+    "natural": "Counting the days to measure progress",
+    "meaning": {
+      "en": "Success is just around the corner; steady, measurable progress.",
+      "zh": "工作进度或成功日期可以按日计算。形容进展快，成功在望。"
+    },
+    "equivalents": [
+      "success is within sight",
+      "on track",
+      "just a matter of time"
+    ],
+    "examples": [
+      {
+        "zh": "工程进展顺利，竣工计日程功。",
+        "en": "The project is going smoothly; completion is within sight."
+      },
+      {
+        "zh": "只要坚持下去，成功可以计日程功。",
+        "en": "If we keep going, success is just a matter of time."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "指日可待",
+      "胜利在望"
+    ],
+    "antonyms": [
+      "遥遥无期",
+      "旷日持久"
+    ]
+  },
+  {
+    "id": "jian-zhuang-ru-niu",
+    "text": "健壮如牛",
+    "pinyin": "jiàn zhuàng rú niú",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "animals"
+    ],
+    "literal": "healthy · strong · like · ox",
+    "natural": "Strong as an ox",
+    "meaning": {
+      "en": "As strong as an ox.",
+      "zh": "身体像牛一样健壮。"
+    },
+    "equivalents": [
+      "strong as an ox",
+      "fit as a fiddle",
+      "built like a tank"
+    ],
+    "examples": [
+      {
+        "zh": "他每天锻炼，健壮如牛。",
+        "en": "He works out every day and is as strong as an ox."
+      },
+      {
+        "zh": "别看爷爷七十了，还健壮如牛。",
+        "en": "Grandpa may be seventy, but he's still as strong as an ox."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Same image as the English idiom.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "身强力壮",
+      "虎背熊腰",
+      "生龙活虎"
+    ],
+    "antonyms": [
+      "弱不禁风",
+      "骨瘦如柴",
+      "体弱多病"
+    ]
+  },
+  {
+    "id": "jiao-qian-yan-shen",
+    "text": "交浅言深",
+    "pinyin": "jiāo qiǎn yán shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "speech"
+    ],
+    "literal": "friendship · shallow · words · deep",
+    "natural": "Shallow acquaintance, deep words",
+    "meaning": {
+      "en": "To speak too frankly to a slight acquaintance.",
+      "zh": "跟交情浅的人说心里话。"
+    },
+    "equivalents": [
+      "overshare",
+      "too much, too soon",
+      "speak out of turn"
+    ],
+    "examples": [
+      {
+        "zh": "我们刚认识，交浅言深，请别见怪。",
+        "en": "We've only just met, so forgive me if I'm too frank."
+      },
+      {
+        "zh": "职场上要避免交浅言深。",
+        "en": "At work, avoid oversharing with people you barely know."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often as a polite disclaimer before speaking frankly.",
+      "zh": "多作谓语，常作直言前的谦辞。"
+    },
+    "synonyms": [
+      "推心置腹"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "讳莫如深"
+    ]
+  },
+  {
+    "id": "jie-cao-xian-huan",
+    "text": "结草衔环",
+    "pinyin": "jié cǎo xián huán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "stories"
+    ],
+    "literal": "tie · grass · hold in mouth · ring",
+    "natural": "Tying grass and carrying jade rings",
+    "meaning": {
+      "en": "To repay a kindness even after death.",
+      "zh": "比喻感恩图报，至死不忘。"
+    },
+    "equivalents": [
+      "eternally grateful",
+      "repay a debt even in death",
+      "forever in your debt"
+    ],
+    "examples": [
+      {
+        "zh": "您的大恩大德，我结草衔环也难以报答。",
+        "en": "I could never repay your great kindness even beyond the grave."
+      },
+      {
+        "zh": "他发誓要结草衔环，报答恩人。",
+        "en": "He vowed to repay his benefactor forever."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十五年》；《后汉书·杨震传》注引《续齐谐记》",
+      "story": {
+        "en": "An old man's ghost tied grass to trip the enemy of Wei Ke, who had spared his daughter. A yellow bird healed by young Yang Bao returned as a boy bearing four white jade rings in thanks.",
+        "zh": "魏颗未让父妾殉葬，后来作战时，妾父的鬼魂结草绊倒敌将以报恩。杨宝救了一只黄雀，黄雀化为童子衔白环四枚相报。"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "知恩图报",
+      "饮水思源"
+    ],
+    "antonyms": [
+      "恩将仇报",
+      "忘恩负义",
+      "过河拆桥"
+    ]
+  },
+  {
+    "id": "jin-diao-huan-jiu",
+    "text": "金貂换酒",
+    "pinyin": "jīn diāo huàn jiǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "freedom",
+      "fine-cuisine"
+    ],
+    "literal": "gold · sable · exchange · wine",
+    "natural": "Trading golden sable for wine",
+    "meaning": {
+      "en": "Carefree, extravagant indulgence in drink.",
+      "zh": "拿官帽上的金貂换酒喝。形容不拘礼法、纵情饮酒。"
+    },
+    "equivalents": [
+      "drink without a care",
+      "live it up",
+      "devil-may-care"
+    ],
+    "examples": [
+      {
+        "zh": "他效仿古人金貂换酒，纵情山水。",
+        "en": "He drank and roamed without a care, like the ancients."
+      },
+      {
+        "zh": "金貂换酒的故事表现了魏晋名士的洒脱。",
+        "en": "The story shows the free spirit of the Wei-Jin literati."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·阮孚传》",
+      "story": {
+        "en": "The official Ruan Fu once traded the golden sable ornament from his official cap for wine; he was impeached but pardoned.",
+        "zh": "阮孚曾以官帽上的金貂换酒，被人弹劾，皇帝宽宥了他。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "放浪形骸",
+      "纵情山水"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "谨小慎微"
+    ]
+  },
+  {
+    "id": "ju-mi-wei-shan",
+    "text": "聚米为山",
+    "pinyin": "jù mǐ wéi shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "wisdom"
+    ],
+    "literal": "gather · rice · make · mountains",
+    "natural": "Piling rice into mountains",
+    "meaning": {
+      "en": "To make a terrain model to plan strategy; a clear analysis of the situation.",
+      "zh": "用米堆成山川地形。比喻指画形势，运筹决策。"
+    },
+    "equivalents": [
+      "a war-room model",
+      "map out the strategy",
+      "a clear picture of the battlefield"
+    ],
+    "examples": [
+      {
+        "zh": "他聚米为山，向将军们讲解作战计划。",
+        "en": "He built a model of the terrain to explain the battle plan."
+      },
+      {
+        "zh": "规划师聚米为山，展示了新城区的蓝图。",
+        "en": "The planner laid out a model to show the new district's blueprint."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·马援传》",
+      "story": {
+        "en": "General Ma Yuan piled up rice before Emperor Guangwu to model the mountains and valleys of the enemy's territory, explaining the campaign so clearly the emperor said: \"The enemy is in my sight.\"",
+        "zh": "马援在光武帝面前\"聚米为山谷，指画形势\"，光武帝说：\"虏在吾目中矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "运筹帷幄",
+      "了如指掌"
+    ],
+    "antonyms": [
+      "盲人摸象",
+      "纸上谈兵"
+    ]
+  },
+  {
+    "id": "ke-zheng-meng-yu-hu",
+    "text": "苛政猛于虎",
+    "pinyin": "kē zhèng měng yú hǔ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "harsh · government · fierce · than · tiger",
+    "natural": "Harsh government is fiercer than a tiger",
+    "meaning": {
+      "en": "Oppressive government is worse than a man-eating tiger.",
+      "zh": "残酷压迫人民的政治比吃人的老虎还要凶猛。"
+    },
+    "equivalents": [
+      "tyranny is worse than any beast",
+      "oppression is the cruellest predator"
+    ],
+    "examples": [
+      {
+        "zh": "苛政猛于虎，百姓宁可住在深山。",
+        "en": "Oppression is fiercer than tigers — people would rather live in the wild mountains."
+      },
+      {
+        "zh": "这个故事告诉我们苛政猛于虎。",
+        "en": "The story teaches that tyranny is worse than any beast."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·檀弓下》",
+      "story": {
+        "en": "Confucius met a woman weeping at a grave: tigers had killed her father-in-law, husband and son. Asked why she didn't leave, she said: \"There is no harsh government here.\" Confucius said: \"Remember — harsh government is fiercer than a tiger.\"",
+        "zh": "孔子遇到一妇人哭墓，她的公公、丈夫、儿子都被老虎咬死，问她为何不离开，答：\"无苛政。\"孔子说：\"小子识之，苛政猛于虎也。\""
+      }
+    },
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多单独成句。"
+    },
+    "synonyms": [
+      "横征暴敛",
+      "民不聊生"
+    ],
+    "antonyms": [
+      "政通人和",
+      "仁政爱民"
+    ]
+  },
+  {
+    "id": "lian-ye-zhui-gan",
+    "text": "连夜追赶",
+    "pinyin": "lián yè zhuī gǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "effort"
+    ],
+    "literal": "through · night · chase · catch up",
+    "natural": "Chasing through the night",
+    "meaning": {
+      "en": "To pursue (or hurry) through the night without stopping.",
+      "zh": "当夜就连续不停地追赶。"
+    },
+    "equivalents": [
+      "chase through the night",
+      "race through the night",
+      "in hot pursuit"
+    ],
+    "examples": [
+      {
+        "zh": "警察连夜追赶逃犯。",
+        "en": "The police pursued the fugitive through the night."
+      },
+      {
+        "zh": "为了完成订单，工人们连夜追赶进度。",
+        "en": "To fill the order, the workers raced through the night to catch up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. A narrative 四字词语 common in stories and news.",
+      "zh": "多作谓语，常见于叙事和新闻。"
+    },
+    "synonyms": [
+      "日夜兼程",
+      "马不停蹄"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "慢条斯理"
+    ]
+  },
+  {
+    "id": "liang-ru-bai-zhou",
+    "text": "亮如白昼",
+    "pinyin": "liàng rú bái zhòu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily-time-periods"
+    ],
+    "literal": "bright · like · white · day",
+    "natural": "As bright as daytime",
+    "meaning": {
+      "en": "As bright as day (of lighting at night).",
+      "zh": "明亮得像白天一样。"
+    },
+    "equivalents": [
+      "bright as day",
+      "lit up like daytime",
+      "floodlit"
+    ],
+    "examples": [
+      {
+        "zh": "晚会现场灯火通明，亮如白昼。",
+        "en": "The gala venue was lit up as bright as day."
+      },
+      {
+        "zh": "满月之夜，院子里亮如白昼。",
+        "en": "On the night of the full moon, the courtyard was as bright as day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. A descriptive 四字词语.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "灯火通明",
+      "灯火辉煌"
+    ],
+    "antonyms": [
+      "伸手不见五指",
+      "漆黑一片"
+    ]
+  }
+]
