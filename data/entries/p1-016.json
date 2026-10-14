@@ -300,6 +300,9 @@
     "id": "kao-shan-chi-shan",
     "text": "靠山吃山",
     "pinyin": "kào shān chī shān",
+    "variants": [
+      "靠山吃山，靠水吃水"
+    ],
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -490,11 +493,11 @@
     "id": "gu-bu-zi-feng",
     "text": "故步自封",
     "pinyin": "gù bù zì fēng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "固步自封"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1047,11 +1050,11 @@
     "id": "xin-you-yu-er-li-bu-zu",
     "text": "心有余而力不足",
     "pinyin": "xīn yǒu yú ér lì bù zú",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "心有余力不足"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

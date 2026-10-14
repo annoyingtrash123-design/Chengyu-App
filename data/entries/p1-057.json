@@ -1,0 +1,999 @@
+[
+  {
+    "id": "chu-he-ri-dang-wu-han-di-he-xia-tu",
+    "text": "锄禾日当午，汗滴禾下土",
+    "pinyin": "chú hé rì dāng wǔ, hàn dī hé xià tǔ",
+    "kind": "mingju",
+    "frequency": 1,
+    "variants": [
+      "锄禾日当午"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "poems-prose",
+      "poverty-and-hardship"
+    ],
+    "literal": "hoe · grain · sun · at · noon · sweat · drips · grain · below · soil",
+    "natural": "hoeing at noon, sweat drips into the soil",
+    "meaning": {
+      "en": "The hard toil of farmers; a reminder to value food.",
+      "zh": "农民在烈日下辛苦劳作，提醒人们珍惜粮食。"
+    },
+    "equivalents": [
+      "toiling under the midday sun"
+    ],
+    "examples": [
+      {
+        "zh": "“锄禾日当午，汗滴禾下土”，农民种地太不容易了。",
+        "en": "'Hoeing at noon, sweat drips to the soil' — farming is so hard."
+      },
+      {
+        "zh": "看到烈日下干活的农民，我想起了“锄禾日当午”。",
+        "en": "Seeing farmers working in the blazing sun, I thought of 'hoeing at noon'."
+      },
+      {
+        "zh": "孩子们背诵锄禾日当午，学会了节约粮食。",
+        "en": "Reciting 'hoeing at noon', the children learned not to waste food."
+      }
+    ],
+    "origin": {
+      "source": "唐·李绅《悯农》",
+      "story": {
+        "en": "Li Shen's poem 'Pity the Peasants': 'Hoeing grain at noon, sweat drips to the soil below. Who knows that of the meal on the plate, every grain is bitter toil?'",
+        "zh": "李绅《悯农》：“锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。”"
+      }
+    },
+    "usage": {
+      "en": "The first two lines of 《悯农》; the last two are 谁知盘中餐，粒粒皆辛苦.",
+      "zh": "《悯农》前两句，后两句是“谁知盘中餐，粒粒皆辛苦”。"
+    },
+    "synonyms": [
+      "谁知盘中餐，粒粒皆辛苦",
+      "面朝黄土背朝天"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gao-lou-da-sha",
+    "text": "高楼大厦",
+    "pinyin": "gāo lóu dà shà",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "society"
+    ],
+    "literal": "tall · buildings · big · mansions",
+    "natural": "high-rise buildings",
+    "meaning": {
+      "en": "Tall buildings; a modern city skyline.",
+      "zh": "高大的楼房。"
+    },
+    "equivalents": [
+      "skyscrapers",
+      "high-rises",
+      "tower blocks"
+    ],
+    "examples": [
+      {
+        "zh": "城市里高楼大厦越来越多。",
+        "en": "There are more and more high-rises in the city."
+      },
+      {
+        "zh": "昔日的农田变成了高楼大厦。",
+        "en": "Former farmland has become tower blocks."
+      },
+      {
+        "zh": "高楼大厦平地起，靠的是坚实的地基。",
+        "en": "Tall buildings rise from the ground on solid foundations."
+      }
+    ],
+    "usage": {
+      "en": "Often in descriptions of urban change.",
+      "zh": "多用于描写城市变化。"
+    },
+    "synonyms": [
+      "高楼林立",
+      "鳞次栉比"
+    ],
+    "antonyms": [
+      "残垣断壁",
+      "茅屋草舍"
+    ]
+  },
+  {
+    "id": "ba-di-er-qi",
+    "text": "拔地而起",
+    "pinyin": "bá dì ér qǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "successful-construction",
+      "nature"
+    ],
+    "literal": "pull up · ground · and · rise",
+    "natural": "rise from the ground",
+    "meaning": {
+      "en": "Rising tall and abrupt from the ground (buildings, peaks).",
+      "zh": "形容建筑物、山峰等突兀地高高耸立。"
+    },
+    "equivalents": [
+      "soar up",
+      "spring up",
+      "rise sheer"
+    ],
+    "examples": [
+      {
+        "zh": "一座座新楼拔地而起。",
+        "en": "New buildings are springing up one after another."
+      },
+      {
+        "zh": "桂林的山峰拔地而起，形态各异。",
+        "en": "Guilin's peaks rise sheer from the ground in every shape."
+      },
+      {
+        "zh": "几年时间，一座新城拔地而起。",
+        "en": "In a few years a whole new city rose from the ground."
+      }
+    ],
+    "usage": {
+      "en": "Common in news about construction and in landscape writing.",
+      "zh": "多见于建设报道、风景描写。"
+    },
+    "synonyms": [
+      "高楼林立",
+      "平地起高楼"
+    ],
+    "antonyms": [
+      "夷为平地",
+      "土崩瓦解"
+    ]
+  },
+  {
+    "id": "jian-zhang-li-zhi",
+    "text": "建章立制",
+    "pinyin": "jiàn zhāng lì zhì",
+    "kind": "phrase",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "good-governance"
+    ],
+    "literal": "build · rules · set up · systems",
+    "natural": "establish rules and systems",
+    "meaning": {
+      "en": "To set up rules and institutional systems.",
+      "zh": "建立规章，确立制度。"
+    },
+    "equivalents": [
+      "put rules in place",
+      "institutionalise"
+    ],
+    "examples": [
+      {
+        "zh": "公司成立之初就注重建章立制。",
+        "en": "From its founding the company focused on putting rules in place."
+      },
+      {
+        "zh": "要通过建章立制，堵住管理漏洞。",
+        "en": "Loopholes must be closed by establishing proper rules and systems."
+      }
+    ],
+    "usage": {
+      "en": "Official and management jargon.",
+      "zh": "官方、管理用语。"
+    },
+    "synonyms": [
+      "有章可循",
+      "准绳规矩"
+    ],
+    "antonyms": [
+      "无章可循",
+      "各行其是"
+    ]
+  },
+  {
+    "id": "jing-diao-xi-zhuo",
+    "text": "精雕细琢",
+    "pinyin": "jīng diāo xì zhuó",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "精雕细刻"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "excellent-writing"
+    ],
+    "literal": "fine · carve · careful · polish",
+    "natural": "carefully carved and polished",
+    "meaning": {
+      "en": "Crafted with meticulous care.",
+      "zh": "精心细致地雕刻琢磨，形容做事认真细致。"
+    },
+    "equivalents": [
+      "meticulously crafted",
+      "polished to perfection"
+    ],
+    "examples": [
+      {
+        "zh": "这件玉器经过精雕细琢，十分精美。",
+        "en": "The jade piece was meticulously carved and is exquisite."
+      },
+      {
+        "zh": "他对每一句台词都精雕细琢。",
+        "en": "He polishes every line of dialogue to perfection."
+      },
+      {
+        "zh": "好文章需要精雕细琢。",
+        "en": "Good writing needs careful polishing."
+      }
+    ],
+    "usage": {
+      "en": "Literal (carving) and figurative (writing, design).",
+      "zh": "可指雕刻，也比喻写作、设计。琢读zhuó。"
+    },
+    "synonyms": [
+      "精工细作",
+      "精益求精",
+      "字斟句酌"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "偷工减料",
+      "马马虎虎"
+    ]
+  },
+  {
+    "id": "po-bai-bu-kan",
+    "text": "破败不堪",
+    "pinyin": "pò bài bù kān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "structural-problems",
+      "broken-or-useless-items"
+    ],
+    "literal": "broken · decayed · unbearably",
+    "natural": "dilapidated",
+    "meaning": {
+      "en": "Badly run-down and dilapidated.",
+      "zh": "破旧衰败得很厉害。"
+    },
+    "equivalents": [
+      "dilapidated",
+      "falling apart",
+      "run-down"
+    ],
+    "examples": [
+      {
+        "zh": "老宅已经破败不堪。",
+        "en": "The old house is falling apart."
+      },
+      {
+        "zh": "战后的城市破败不堪。",
+        "en": "After the war the city was in ruins."
+      }
+    ],
+    "usage": {
+      "en": "For buildings, towns, also institutions.",
+      "zh": "多指建筑、城镇，也可指机构。"
+    },
+    "synonyms": [
+      "年久失修",
+      "残垣断壁",
+      "摇摇欲坠"
+    ],
+    "antonyms": [
+      "焕然一新",
+      "富丽堂皇"
+    ]
+  },
+  {
+    "id": "qing-xie-yu-dao",
+    "text": "倾斜欲倒",
+    "pinyin": "qīng xié yù dǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "structural-problems",
+      "danger"
+    ],
+    "literal": "lean · about to · fall",
+    "natural": "leaning and about to topple",
+    "meaning": {
+      "en": "Leaning so much it looks about to fall.",
+      "zh": "歪斜得快要倒下。"
+    },
+    "equivalents": [
+      "about to topple",
+      "leaning precariously"
+    ],
+    "examples": [
+      {
+        "zh": "那根电线杆倾斜欲倒，十分危险。",
+        "en": "The utility pole is leaning precariously and very dangerous."
+      },
+      {
+        "zh": "台风过后，许多树木倾斜欲倒。",
+        "en": "After the typhoon, many trees were leaning, about to fall."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; the set phrase is 摇摇欲坠.",
+      "zh": "描写性说法，常用“摇摇欲坠”。"
+    },
+    "synonyms": [
+      "摇摇欲坠",
+      "岌岌可危"
+    ],
+    "antonyms": [
+      "坚如磐石",
+      "稳如泰山"
+    ]
+  },
+  {
+    "id": "dou-fu-zha-gong-cheng",
+    "text": "豆腐渣工程",
+    "pinyin": "dòu fǔ zhā gōng chéng",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "structural-problems",
+      "poor-workmanship",
+      "political-corruption"
+    ],
+    "literal": "tofu · dregs · project",
+    "natural": "a tofu-dregs project",
+    "meaning": {
+      "en": "Shoddily built construction, usually due to corruption.",
+      "zh": "质量低劣的工程。"
+    },
+    "equivalents": [
+      "jerry-built",
+      "shoddy construction"
+    ],
+    "examples": [
+      {
+        "zh": "这座桥刚建好就出现裂缝，简直是豆腐渣工程。",
+        "en": "The bridge cracked just after completion — total jerry-building."
+      },
+      {
+        "zh": "要严查豆腐渣工程背后的腐败。",
+        "en": "The corruption behind shoddy construction must be investigated."
+      },
+      {
+        "zh": "这批校舍决不能成为豆腐渣工程。",
+        "en": "These school buildings must never be shoddy work."
+      }
+    ],
+    "usage": {
+      "en": "Coined by Premier Zhu Rongji in 1998 after the Jiujiang flood-dyke collapse.",
+      "zh": "1998年九江大堤决口后由朱镕基总理提出，广为流传。"
+    },
+    "synonyms": [
+      "偷工减料",
+      "粗制滥造"
+    ],
+    "antonyms": [
+      "固若金汤",
+      "精雕细琢"
+    ]
+  },
+  {
+    "id": "min-zhu-ji-zhong",
+    "text": "民主集中",
+    "pinyin": "mín zhǔ jí zhōng",
+    "kind": "phrase",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "good-governance"
+    ],
+    "literal": "democracy · centralism",
+    "natural": "democratic centralism",
+    "meaning": {
+      "en": "Democratic centralism: discussion first, then unified decision.",
+      "zh": "民主基础上的集中和集中指导下的民主相结合。"
+    },
+    "equivalents": [
+      "democratic centralism"
+    ],
+    "examples": [
+      {
+        "zh": "会议坚持民主集中的原则，先充分讨论再作决定。",
+        "en": "The meeting followed democratic centralism: full discussion, then a decision."
+      },
+      {
+        "zh": "民主集中制是党的根本组织原则。",
+        "en": "Democratic centralism is the Party's basic organisational principle."
+      }
+    ],
+    "usage": {
+      "en": "Political term, usually 民主集中制.",
+      "zh": "政治术语，多说“民主集中制”。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "独断专行"
+    ]
+  },
+  {
+    "id": "qin-zheng-ai-min",
+    "text": "勤政爱民",
+    "pinyin": "qín zhèng ài mín",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "leadership-and-authority"
+    ],
+    "literal": "diligent · governing · love · people",
+    "natural": "diligent and caring for the people",
+    "meaning": {
+      "en": "Governing diligently and caring for the people.",
+      "zh": "勤于政事，爱护百姓。"
+    },
+    "equivalents": [
+      "a dedicated public servant",
+      "serving the people"
+    ],
+    "examples": [
+      {
+        "zh": "这位县长勤政爱民，深受百姓爱戴。",
+        "en": "The county head governed diligently and was loved by the people."
+      },
+      {
+        "zh": "古代勤政爱民的清官被后人传颂。",
+        "en": "Upright ancient officials who served the people are still praised today."
+      }
+    ],
+    "usage": {
+      "en": "Praise for officials.",
+      "zh": "称赞官员。"
+    },
+    "synonyms": [
+      "爱民如子",
+      "清正廉洁"
+    ],
+    "antonyms": [
+      "贪污腐败",
+      "鱼肉百姓"
+    ]
+  },
+  {
+    "id": "qing-zheng-lian-jie",
+    "text": "清正廉洁",
+    "pinyin": "qīng zhèng lián jié",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "clean · upright · incorruptible",
+    "natural": "honest and incorruptible",
+    "meaning": {
+      "en": "Clean, upright and incorruptible in office.",
+      "zh": "清白正直，不贪污。"
+    },
+    "equivalents": [
+      "incorruptible",
+      "clean-handed"
+    ],
+    "examples": [
+      {
+        "zh": "他为官清正廉洁，从不收礼。",
+        "en": "As an official he was incorruptible and never accepted gifts."
+      },
+      {
+        "zh": "干部要清正廉洁，做群众的表率。",
+        "en": "Officials must be clean and upright, an example to the public."
+      }
+    ],
+    "usage": {
+      "en": "Official praise.",
+      "zh": "官方褒扬用语。"
+    },
+    "synonyms": [
+      "两袖清风",
+      "廉洁奉公"
+    ],
+    "antonyms": [
+      "贪污腐败",
+      "贪赃枉法",
+      "以权谋私"
+    ]
+  },
+  {
+    "id": "tan-wu-fu-bai",
+    "text": "贪污腐败",
+    "pinyin": "tān wū fǔ bài",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "embezzle · corrupt",
+    "natural": "graft and corruption",
+    "meaning": {
+      "en": "Embezzlement and corruption.",
+      "zh": "贪污受贿，腐化堕落。"
+    },
+    "equivalents": [
+      "graft",
+      "corruption"
+    ],
+    "examples": [
+      {
+        "zh": "政府严厉打击贪污腐败。",
+        "en": "The government is cracking down hard on corruption."
+      },
+      {
+        "zh": "贪污腐败严重损害了百姓的利益。",
+        "en": "Graft has seriously harmed the people's interests."
+      }
+    ],
+    "usage": {
+      "en": "Standard term in news and policy.",
+      "zh": "新闻、政策常用。"
+    },
+    "synonyms": [
+      "贪赃枉法",
+      "以权谋私"
+    ],
+    "antonyms": [
+      "清正廉洁",
+      "两袖清风",
+      "廉洁奉公"
+    ]
+  },
+  {
+    "id": "shen-ru-min-xin",
+    "text": "深入民心",
+    "pinyin": "shēn rù mín xīn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "good-governance"
+    ],
+    "literal": "deep · enter · people's · hearts",
+    "natural": "take root among the people",
+    "meaning": {
+      "en": "Deeply accepted and supported by the people.",
+      "zh": "深深地进入人民心中，得到广泛认同。"
+    },
+    "equivalents": [
+      "win hearts and minds",
+      "widely embraced"
+    ],
+    "examples": [
+      {
+        "zh": "垃圾分类的观念已经深入民心。",
+        "en": "The idea of sorting rubbish has taken root among the people."
+      },
+      {
+        "zh": "这项惠民政策深入民心。",
+        "en": "This welfare policy has won the people's hearts."
+      }
+    ],
+    "usage": {
+      "en": "Close to 深入人心, which is more general.",
+      "zh": "与“深入人心”相近，后者更通用。"
+    },
+    "synonyms": [
+      "深入人心",
+      "深得民心",
+      "人心所向"
+    ],
+    "antonyms": [
+      "违背民意",
+      "天怒人怨"
+    ]
+  },
+  {
+    "id": "zheng-ling-bu-tong",
+    "text": "政令不通",
+    "pinyin": "zhèng lìng bù tōng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "leadership-and-authority"
+    ],
+    "literal": "government · orders · not · get through",
+    "natural": "orders aren't carried out",
+    "meaning": {
+      "en": "Government orders fail to be carried out.",
+      "zh": "政府的命令得不到贯彻执行。"
+    },
+    "equivalents": [
+      "orders ignored",
+      "a breakdown in governance"
+    ],
+    "examples": [
+      {
+        "zh": "地方保护主义导致政令不通。",
+        "en": "Local protectionism means central orders aren't carried out."
+      },
+      {
+        "zh": "政令不通，改革就无法推进。",
+        "en": "If orders don't get through, reform can't move forward."
+      }
+    ],
+    "usage": {
+      "en": "Opposite of 令行禁止 / 政令畅通.",
+      "zh": "反义说法“令行禁止”“政令畅通”。"
+    },
+    "synonyms": [
+      "阳奉阴违"
+    ],
+    "antonyms": [
+      "令行禁止",
+      "政通人和"
+    ]
+  },
+  {
+    "id": "wan-min-yong-dai",
+    "text": "万民拥戴",
+    "pinyin": "wàn mín yōng dài",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "leadership-and-authority"
+    ],
+    "literal": "ten-thousand · people · support · honour",
+    "natural": "beloved by all the people",
+    "meaning": {
+      "en": "Supported and honoured by the whole populace.",
+      "zh": "受到广大百姓的拥护和爱戴。"
+    },
+    "equivalents": [
+      "universally beloved",
+      "enjoy popular support"
+    ],
+    "examples": [
+      {
+        "zh": "这位开国皇帝深得万民拥戴。",
+        "en": "The founding emperor was beloved by all the people."
+      },
+      {
+        "zh": "他治水有功，受到万民拥戴。",
+        "en": "His flood control earned him the love of the whole populace."
+      }
+    ],
+    "usage": {
+      "en": "Mostly historical writing.",
+      "zh": "多用于历史叙述。"
+    },
+    "synonyms": [
+      "众望所归",
+      "深得民心"
+    ],
+    "antonyms": [
+      "众叛亲离",
+      "天怒人怨"
+    ]
+  },
+  {
+    "id": "shun-ying-min-yi",
+    "text": "顺应民意",
+    "pinyin": "shùn yìng mín yì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "good-governance"
+    ],
+    "literal": "follow · comply · people's · will",
+    "natural": "in line with public opinion",
+    "meaning": {
+      "en": "To act in accordance with the people's wishes.",
+      "zh": "顺从人民的意愿。"
+    },
+    "equivalents": [
+      "heed public opinion",
+      "in tune with the popular will"
+    ],
+    "examples": [
+      {
+        "zh": "这项改革顺应民意，得到广泛支持。",
+        "en": "The reform follows the popular will and has wide support."
+      },
+      {
+        "zh": "政府应当顺应民意，解决群众关心的问题。",
+        "en": "The government should heed public opinion and solve people's concerns."
+      }
+    ],
+    "usage": {
+      "en": "Official language.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "人心所向",
+      "深入民心"
+    ],
+    "antonyms": [
+      "违背民意",
+      "倒行逆施"
+    ]
+  },
+  {
+    "id": "wei-bei-min-yi",
+    "text": "违背民意",
+    "pinyin": "wéi bèi mín yì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "political-corruption"
+    ],
+    "literal": "go against · people's · will",
+    "natural": "against the will of the people",
+    "meaning": {
+      "en": "To go against the people's wishes.",
+      "zh": "违反人民的意愿。"
+    },
+    "equivalents": [
+      "defy public opinion",
+      "against the popular will"
+    ],
+    "examples": [
+      {
+        "zh": "违背民意的政策注定失败。",
+        "en": "Policies that defy the popular will are doomed."
+      },
+      {
+        "zh": "这个决定违背民意，引发了抗议。",
+        "en": "The decision went against public opinion and sparked protests."
+      }
+    ],
+    "usage": {
+      "en": "Formal; political commentary.",
+      "zh": "书面，多用于政治评论。"
+    },
+    "synonyms": [
+      "倒行逆施",
+      "天怒人怨"
+    ],
+    "antonyms": [
+      "顺应民意",
+      "深入民心"
+    ]
+  },
+  {
+    "id": "yu-jiao-yu-le",
+    "text": "寓教于乐",
+    "pinyin": "yù jiào yú lè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "learning"
+    ],
+    "literal": "lodge · teaching · in · pleasure",
+    "natural": "learning through fun",
+    "meaning": {
+      "en": "To teach through entertainment.",
+      "zh": "把教育寓于娱乐之中。"
+    },
+    "equivalents": [
+      "edutainment",
+      "learning through play"
+    ],
+    "examples": [
+      {
+        "zh": "这款游戏寓教于乐，孩子们很喜欢。",
+        "en": "This game makes learning fun, and children love it."
+      },
+      {
+        "zh": "博物馆推出寓教于乐的亲子活动。",
+        "en": "The museum launched family activities that teach through play."
+      }
+    ],
+    "usage": {
+      "en": "Common in education and children's media.",
+      "zh": "多用于教育、儿童节目。"
+    },
+    "synonyms": [
+      "循循善诱",
+      "因势利导"
+    ],
+    "antonyms": [
+      "填鸭式教学"
+    ]
+  },
+  {
+    "id": "qi-fa-si-wei",
+    "text": "启发思维",
+    "pinyin": "qǐ fā sī wéi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "wisdom"
+    ],
+    "literal": "inspire · thinking",
+    "natural": "stimulate thinking",
+    "meaning": {
+      "en": "To stimulate thought and reasoning.",
+      "zh": "引导人开动脑筋，开拓思路。"
+    },
+    "equivalents": [
+      "get people thinking",
+      "thought-provoking"
+    ],
+    "examples": [
+      {
+        "zh": "好的问题能启发思维。",
+        "en": "Good questions get people thinking."
+      },
+      {
+        "zh": "老师用实验启发思维，引导学生自己找答案。",
+        "en": "The teacher uses experiments to stimulate thinking and lead students to find answers themselves."
+      }
+    ],
+    "usage": {
+      "en": "Education jargon.",
+      "zh": "教育用语。"
+    },
+    "synonyms": [
+      "举一反三",
+      "循循善诱"
+    ],
+    "antonyms": [
+      "死记硬背"
+    ]
+  },
+  {
+    "id": "san-tian-da-yu-liang-tian-shai-wang",
+    "text": "三天打鱼两天晒网",
+    "pinyin": "sān tiān dǎ yú liǎng tiān shài wǎng",
+    "kind": "suyu",
+    "frequency": 1,
+    "variants": [
+      "三天打鱼，两天晒网"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "giving-up-and-weakness"
+    ],
+    "literal": "three · days · catch · fish · two · days · dry · nets",
+    "natural": "fish for three days, dry nets for two",
+    "meaning": {
+      "en": "Doing something by fits and starts, without perseverance.",
+      "zh": "比喻学习、工作时断时续，没有恒心。"
+    },
+    "equivalents": [
+      "by fits and starts",
+      "on and off",
+      "lacking staying power"
+    ],
+    "examples": [
+      {
+        "zh": "学英语不能三天打鱼两天晒网。",
+        "en": "You can't learn English by fits and starts."
+      },
+      {
+        "zh": "他健身总是三天打鱼，两天晒网，所以没效果。",
+        "en": "He exercises on and off, so it never works."
+      },
+      {
+        "zh": "三天打鱼两天晒网，怎么能学好钢琴？",
+        "en": "How can you learn piano if you only practise now and then?"
+      }
+    ],
+    "origin": {
+      "source": "清·曹雪芹《红楼梦》第九回",
+      "story": {
+        "en": "Of Xue Pan's half-hearted schooling, the novel says he went to the clan school only 'three days fishing, two days drying nets' (三日打鱼，两日晒网).",
+        "zh": "《红楼梦》写薛蟠上学：“不过是三日打鱼，两日晒网。”"
+      }
+    },
+    "usage": {
+      "en": "Very common, especially to scold inconsistent students.",
+      "zh": "极常用，多批评学习没恒心。"
+    },
+    "synonyms": [
+      "一曝十寒",
+      "半途而废"
+    ],
+    "antonyms": [
+      "持之以恒",
+      "锲而不舍",
+      "坚持不懈"
+    ]
+  },
+  {
+    "id": "hua-tuo-zai-shi",
+    "text": "华佗再世",
+    "pinyin": "huá tuó zài shì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing",
+      "outstanding-character",
+      "three-kingdoms"
+    ],
+    "literal": "Hua Tuo · again · in the world",
+    "natural": "Hua Tuo reborn",
+    "meaning": {
+      "en": "A doctor of miraculous skill.",
+      "zh": "华佗又来到人间，称赞医生医术高明。"
+    },
+    "equivalents": [
+      "a miracle doctor",
+      "a healer of genius"
+    ],
+    "examples": [
+      {
+        "zh": "您真是华佗再世，治好了我多年的老毛病。",
+        "en": "You're a miracle worker — you cured my chronic complaint."
+      },
+      {
+        "zh": "病人家属送来锦旗，上写“华佗再世”。",
+        "en": "The patient's family presented a banner reading 'Hua Tuo Reborn'."
+      }
+    ],
+    "usage": {
+      "en": "Praise for doctors, often on thank-you banners. Hua Tuo was the legendary Han physician.",
+      "zh": "称赞医生，常写在锦旗上。华佗是东汉末年名医。"
+    },
+    "synonyms": [
+      "妙手回春",
+      "药到病除",
+      "悬壶济世"
+    ],
+    "antonyms": [
+      "庸医误人"
+    ]
+  }
+]
