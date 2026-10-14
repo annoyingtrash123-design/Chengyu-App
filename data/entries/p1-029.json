@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "yi-shen-yi-gui",
+    "text": "疑神疑鬼",
+    "pinyin": "yí shén yí guǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "confusion-and-doubt"
+    ],
+    "literal": "suspect · gods · suspect · ghosts",
+    "natural": "Suspecting gods and ghosts everywhere",
+    "meaning": {
+      "en": "Paranoid; suspicious of everything.",
+      "zh": "形容疑心重，无中生有地乱猜疑。"
+    },
+    "equivalents": [
+      "paranoid",
+      "jump at shadows",
+      "see ghosts everywhere",
+      "suspicious"
+    ],
+    "examples": [
+      {
+        "zh": "他总是疑神疑鬼，觉得别人在议论他。",
+        "en": "He's always paranoid that people are talking about him."
+      },
+      {
+        "zh": "别疑神疑鬼的，没有人跟踪你。",
+        "en": "Stop being paranoid — nobody's following you."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "草木皆兵",
+      "杯弓蛇影",
+      "疑心生暗鬼"
+    ],
+    "antonyms": [
+      "深信不疑",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "ri-li-wan-ji",
+    "text": "日理万机",
+    "pinyin": "rì lǐ wàn jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "time-management"
+    ],
+    "literal": "day · manage · ten thousand · affairs",
+    "natural": "Handling ten thousand affairs a day",
+    "meaning": {
+      "en": "Extremely busy with important affairs (of leaders).",
+      "zh": "每天处理成千上万的事务。形容政务繁忙。"
+    },
+    "equivalents": [
+      "incredibly busy",
+      "run off one's feet",
+      "have a thousand things to do"
+    ],
+    "examples": [
+      {
+        "zh": "总理日理万机，还抽空来看望大家。",
+        "en": "The premier is incredibly busy but still found time to visit everyone."
+      },
+      {
+        "zh": "你日理万机，怎么有空来找我？（戏）",
+        "en": "A busy person like you — how did you find time to come and see me? (jokingly)"
+      }
+    ],
+    "origin": {
+      "source": "《尚书·皋陶谟》",
+      "story": {
+        "en": "The minister Gao Yao urged the ruler to be diligent, since \"in one day, in two days, there are ten thousand matters\" (一日二日万几).",
+        "zh": "《尚书·皋陶谟》：\"兢兢业业，一日二日万几。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. Respectful of leaders; also used jokingly.",
+      "zh": "多作谓语，用于领导，也可戏用。"
+    },
+    "synonyms": [
+      "日不暇给",
+      "废寝忘食"
+    ],
+    "antonyms": [
+      "无所事事",
+      "游手好闲",
+      "饱食终日"
+    ]
+  },
+  {
+    "id": "fan-lao-huan-tong",
+    "text": "返老还童",
+    "pinyin": "fǎn lǎo huán tóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "miraculous-occurrences"
+    ],
+    "literal": "reverse · old · return · child",
+    "natural": "Turning old age back to childhood",
+    "meaning": {
+      "en": "To regain one's youth; to be rejuvenated.",
+      "zh": "由衰老恢复青春。形容老年人充满活力。"
+    },
+    "equivalents": [
+      "turn back the clock",
+      "rejuvenated",
+      "young at heart",
+      "the elixir of youth"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷和孙子一起玩，好像返老还童了。",
+        "en": "Playing with his grandson, Grandpa seems to have turned back the clock."
+      },
+      {
+        "zh": "世上没有让人返老还童的药。",
+        "en": "There's no elixir of youth."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. From Daoist pursuits of immortality.",
+      "zh": "多作谓语。源自道家长生之说。"
+    },
+    "synonyms": [
+      "老当益壮",
+      "鹤发童颜",
+      "青春焕发"
+    ],
+    "antonyms": [
+      "老态龙钟",
+      "未老先衰",
+      "风烛残年"
+    ]
+  },
+  {
+    "id": "fei-yang-ba-hu",
+    "text": "飞扬跋扈",
+    "pinyin": "fēi yáng bá hù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "fly · soar · trample · domineering",
+    "natural": "Soaring and trampling over others",
+    "meaning": {
+      "en": "Arrogant and domineering; riding roughshod over others.",
+      "zh": "原指意气举动超越常规，不受约束。现多形容骄横放肆。"
+    },
+    "equivalents": [
+      "ride roughshod over",
+      "domineering",
+      "throw one's weight around",
+      "a law unto oneself"
+    ],
+    "examples": [
+      {
+        "zh": "他仗着有钱飞扬跋扈。",
+        "en": "He rides roughshod over everyone because he's rich."
+      },
+      {
+        "zh": "这个恶霸在村里飞扬跋扈。",
+        "en": "The bully lords it over the village."
+      }
+    ],
+    "origin": {
+      "source": "唐·杜甫《赠李白》",
+      "story": {
+        "en": "Du Fu wrote of his friend Li Bai's untamed spirit: \"Soaring and unbridled — for whom is this heroism?\" (飞扬跋扈为谁雄). The modern sense is negative.",
+        "zh": "杜甫《赠李白》：\"痛饮狂歌空度日，飞扬跋扈为谁雄？\"原指豪放不羁，现多为贬义。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Derogatory today.",
+      "zh": "多作谓语，现为贬义。"
+    },
+    "synonyms": [
+      "横行霸道",
+      "盛气凌人",
+      "不可一世"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "谦虚谨慎",
+      "平易近人"
+    ]
+  },
+  {
+    "id": "ri-jin-dou-jin",
+    "text": "日进斗金",
+    "pinyin": "rì jìn dǒu jīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "measure"
+    ],
+    "literal": "day · bring in · dou-measure · gold",
+    "natural": "Bringing in a bushel of gold a day",
+    "meaning": {
+      "en": "To rake in money; very lucrative.",
+      "zh": "一天就能收入一斗金子。形容收入多，赚钱快。"
+    },
+    "equivalents": [
+      "rake it in",
+      "a gold mine",
+      "make money hand over fist",
+      "a cash cow"
+    ],
+    "examples": [
+      {
+        "zh": "这家网红餐厅日进斗金。",
+        "en": "The trendy restaurant is raking it in."
+      },
+      {
+        "zh": "祝您生意兴隆，日进斗金！",
+        "en": "May your business boom and the money pour in!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Common in business good wishes.",
+      "zh": "多作谓语，常用于生意祝福。"
+    },
+    "synonyms": [
+      "财源滚滚",
+      "日进千金",
+      "生意兴隆"
+    ],
+    "antonyms": [
+      "入不敷出",
+      "门可罗雀",
+      "血本无归"
+    ]
+  },
+  {
+    "id": "nan-xiong-nan-di",
+    "text": "难兄难弟",
+    "pinyin": "nàn xiōng nàn dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "bad-fortune"
+    ],
+    "literal": "hardship · brother · hardship · brother",
+    "natural": "Brothers in misfortune",
+    "meaning": {
+      "en": "Fellow sufferers; two people in the same boat. (Originally nán: two brothers equally excellent.)",
+      "zh": "现指彼此曾共患难的人，或同处困境的人。原读 nán，指兄弟都好，难分高下。"
+    },
+    "equivalents": [
+      "fellow sufferers",
+      "in the same boat",
+      "partners in crime (jokingly)",
+      "companions in misfortune"
+    ],
+    "examples": [
+      {
+        "zh": "我们俩都被裁员了，真是一对难兄难弟。",
+        "en": "We were both laid off — real fellow sufferers."
+      },
+      {
+        "zh": "这两支球队成了联赛中的难兄难弟。",
+        "en": "The two teams are companions in misery at the bottom of the league."
+      }
+    ],
+    "origin": {
+      "source": "南朝宋·刘义庆《世说新语·德行》",
+      "story": {
+        "en": "Asked whose father was better, Chen Ji said: \"Yuanfang is hard to rank above as an elder brother, Jifang hard to rank below as a younger brother\" (元方难为兄，季方难为弟) — they were equally good.",
+        "zh": "陈寔说：\"元方难为兄，季方难为弟。\"原指兄弟才德相当。"
+      }
+    },
+    "usage": {
+      "en": "Object. Modern sense (nàn, fellow sufferers) is far more common, often humorous.",
+      "zh": "多作宾语。现多用\"共患难\"义，读 nàn，常带诙谐。"
+    },
+    "synonyms": [
+      "同病相怜",
+      "患难之交"
+    ],
+    "antonyms": [
+      "冤家对头"
+    ]
+  },
+  {
+    "id": "lve-sheng-yi-chou",
+    "text": "略胜一筹",
+    "pinyin": "lüè shèng yī chóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "games-and-sports"
+    ],
+    "literal": "slightly · surpass · one · counting-rod",
+    "natural": "Ahead by one counting stick",
+    "meaning": {
+      "en": "Slightly better; a cut above.",
+      "zh": "比较起来稍微好一些。"
+    },
+    "equivalents": [
+      "a cut above",
+      "have the edge",
+      "slightly better",
+      "edge out"
+    ],
+    "examples": [
+      {
+        "zh": "两人水平相当，他略胜一筹。",
+        "en": "They're evenly matched, but he has the edge."
+      },
+      {
+        "zh": "论设计，这款手机略胜一筹。",
+        "en": "In design, this phone is a cut above."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 筹 = counting stick used in scoring.",
+      "zh": "多作谓语。\"筹\"为计数用的竹签。"
+    },
+    "synonyms": [
+      "技高一筹",
+      "稍胜一筹"
+    ],
+    "antonyms": [
+      "略逊一筹",
+      "甘拜下风",
+      "望尘莫及"
+    ]
+  },
+  {
+    "id": "lao-dang-yi-zhuang",
+    "text": "老当益壮",
+    "pinyin": "lǎo dāng yì zhuàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "health"
+    ],
+    "literal": "old · should · more · vigorous",
+    "natural": "In old age one should be all the more vigorous",
+    "meaning": {
+      "en": "Old but still vigorous; age has not diminished one's spirit.",
+      "zh": "年纪虽老，志向更大，劲头更足。"
+    },
+    "equivalents": [
+      "still going strong",
+      "young at heart",
+      "no spring chicken but still kicking",
+      "age is just a number"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷八十岁了，还天天爬山，真是老当益壮。",
+        "en": "Grandpa is eighty and still climbs hills daily — going strong."
+      },
+      {
+        "zh": "这位老教授老当益壮，还在指导研究生。",
+        "en": "The elderly professor is still going strong, supervising graduate students."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·马援传》",
+      "story": {
+        "en": "General Ma Yuan said: \"A man's ambition should grow firmer in poverty and stronger in old age\" (穷当益坚，老当益壮). He led campaigns into his sixties.",
+        "zh": "马援说：\"丈夫为志，穷当益坚，老当益壮。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "老骥伏枥",
+      "宝刀不老",
+      "返老还童"
+    ],
+    "antonyms": [
+      "老态龙钟",
+      "未老先衰",
+      "暮气沉沉"
+    ]
+  },
+  {
+    "id": "zhong-pan-qin-li",
+    "text": "众叛亲离",
+    "pinyin": "zhòng pàn qīn lí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-company-and-betrayal",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "many · rebel · close ones · leave",
+    "natural": "The masses rebel and loved ones leave",
+    "meaning": {
+      "en": "Deserted by everyone, even one's closest allies.",
+      "zh": "众人反对，亲信背离。形容完全孤立。"
+    },
+    "equivalents": [
+      "deserted by all",
+      "isolated",
+      "everyone turned against him",
+      "abandoned"
+    ],
+    "examples": [
+      {
+        "zh": "他独断专行，最后众叛亲离。",
+        "en": "He ruled by decree and ended up deserted by everyone."
+      },
+      {
+        "zh": "暴君终将众叛亲离。",
+        "en": "Tyrants will eventually be abandoned by all."
+      }
+    ],
+    "origin": {
+      "source": "《左传·隐公四年》",
+      "story": {
+        "en": "When Zhouxu usurped the throne of Wey, a minister predicted: \"The masses rebel and his kin desert him — he cannot succeed\" (众叛亲离，难以济矣).",
+        "zh": "《左传》：\"夫州吁阻兵而安忍……众叛亲离，难以济矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "孤家寡人",
+      "四面楚歌",
+      "孤立无援"
+    ],
+    "antonyms": [
+      "众望所归",
+      "一呼百应",
+      "人心所向"
+    ]
+  },
+  {
+    "id": "cang-hai-yi-su",
+    "text": "沧海一粟",
+    "pinyin": "cāng hǎi yī sù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "small-numbers",
+      "nature"
+    ],
+    "literal": "vast · sea · one · grain",
+    "natural": "A grain of millet in the vast sea",
+    "meaning": {
+      "en": "A drop in the ocean; utterly insignificant in comparison.",
+      "zh": "大海里的一粒谷子。比喻非常渺小。"
+    },
+    "equivalents": [
+      "a drop in the ocean",
+      "a speck in the universe",
+      "insignificant"
+    ],
+    "examples": [
+      {
+        "zh": "个人的力量在宇宙中不过是沧海一粟。",
+        "en": "An individual's strength is but a speck in the universe."
+      },
+      {
+        "zh": "我知道的只是沧海一粟。",
+        "en": "What I know is a drop in the ocean."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《赤壁赋》",
+      "story": {
+        "en": "Su Shi's Red Cliff Ode: \"We lodge like mayflies between heaven and earth, tiny as a grain of millet in the vast sea\" (渺沧海之一粟).",
+        "zh": "苏轼《赤壁赋》：\"寄蜉蝣于天地，渺沧海之一粟。\""
+      }
+    },
+    "usage": {
+      "en": "Object.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "九牛一毛",
+      "微不足道",
+      "微乎其微"
+    ],
+    "antonyms": [
+      "不计其数",
+      "举足轻重"
+    ]
+  },
+  {
+    "id": "ming-luo-sun-shan",
+    "text": "名落孙山",
+    "pinyin": "míng luò sūn shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "failed-ambitions"
+    ],
+    "literal": "name · fall · Sun Shan",
+    "natural": "One's name falls below Sun Shan's",
+    "meaning": {
+      "en": "To fail an exam.",
+      "zh": "名字落在榜末孙山的后面。指考试或选拔没有被录取。"
+    },
+    "equivalents": [
+      "fail the exam",
+      "not make the cut",
+      "miss out"
+    ],
+    "examples": [
+      {
+        "zh": "他第一次高考名落孙山，第二年考上了。",
+        "en": "He failed the gaokao the first time but passed the next year."
+      },
+      {
+        "zh": "这次选拔她名落孙山。",
+        "en": "She didn't make the cut this time."
+      }
+    ],
+    "origin": {
+      "source": "宋·范公偁《过庭录》",
+      "story": {
+        "en": "Sun Shan passed the provincial exam in last place. A neighbour asked whether his son had passed. Sun replied: \"At the bottom of the list is Sun Shan; your son is beyond Sun Shan.\"",
+        "zh": "孙山考中最后一名，同乡问其子是否考中，孙山说：\"解名尽处是孙山，贤郎更在孙山外。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. A tactful way to say someone failed.",
+      "zh": "多作谓语，委婉说法。"
+    },
+    "synonyms": [
+      "榜上无名",
+      "落第"
+    ],
+    "antonyms": [
+      "金榜题名",
+      "名列前茅",
+      "独占鳌头"
+    ]
+  },
+  {
+    "id": "guai-wan-mo-jiao",
+    "text": "拐弯抹角",
+    "pinyin": "guǎi wān mò jiǎo",
+    "variants": [
+      "转弯抹角"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "speech"
+    ],
+    "literal": "turn · bend · skirt · corner",
+    "natural": "Turning bends and skirting corners",
+    "meaning": {
+      "en": "To beat about the bush; roundabout.",
+      "zh": "沿着弯弯曲曲的路走。比喻说话不直截了当。"
+    },
+    "equivalents": [
+      "beat about the bush",
+      "roundabout",
+      "in a roundabout way",
+      "go round the houses"
+    ],
+    "examples": [
+      {
+        "zh": "有话直说，别拐弯抹角的。",
+        "en": "Say what you mean — stop beating about the bush."
+      },
+      {
+        "zh": "他拐弯抹角地问我借钱。",
+        "en": "He asked to borrow money in a roundabout way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Also 转弯抹角.",
+      "zh": "多作谓语、状语。也作\"转弯抹角\"。"
+    },
+    "synonyms": [
+      "旁敲侧击",
+      "含糊其辞"
+    ],
+    "antonyms": [
+      "开门见山",
+      "直截了当",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "le-ji-sheng-bei",
+    "text": "乐极生悲",
+    "pinyin": "lè jí shēng bēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "bad-fortune"
+    ],
+    "literal": "joy · extreme · produce · sorrow",
+    "natural": "Extreme joy gives rise to sorrow",
+    "meaning": {
+      "en": "Extreme joy turns to sorrow.",
+      "zh": "快乐到了极点，就会转而发生悲哀的事情。"
+    },
+    "equivalents": [
+      "joy turns to sorrow",
+      "pride comes before a fall",
+      "what goes up must come down"
+    ],
+    "examples": [
+      {
+        "zh": "他高兴得跳起来，结果扭了脚，真是乐极生悲。",
+        "en": "He jumped for joy and twisted his ankle — joy turned to sorrow."
+      },
+      {
+        "zh": "庆祝时也要注意安全，以免乐极生悲。",
+        "en": "Stay safe while celebrating, lest joy turn to grief."
+      }
+    ],
+    "origin": {
+      "source": "《史记·滑稽列传》",
+      "story": {
+        "en": "Chunyu Kun warned King Wei of Qi against all-night drinking: \"When wine is at its peak there is disorder; when joy is at its peak there is sorrow\" (酒极则乱，乐极则悲).",
+        "zh": "淳于髡劝齐威王：\"酒极则乱，乐极则悲，万事尽然。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "物极必反",
+      "福兮祸所伏"
+    ],
+    "antonyms": [
+      "苦尽甘来",
+      "否极泰来"
+    ]
+  },
+  {
+    "id": "jie-ling-hai-xu-xi-ling-ren",
+    "text": "解铃还须系铃人",
+    "pinyin": "jiě líng hái xū xì líng rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "natural-consequences"
+    ],
+    "literal": "untie · bell · still · must · tie · bell · person",
+    "natural": "The one who tied the bell must untie it",
+    "meaning": {
+      "en": "Whoever created a problem must solve it.",
+      "zh": "比喻谁惹出来的麻烦，还得由谁去解决。"
+    },
+    "equivalents": [
+      "you made this mess, you clean it up",
+      "whoever started it has to fix it"
+    ],
+    "examples": [
+      {
+        "zh": "这个矛盾是你引起的，解铃还须系铃人。",
+        "en": "You caused this conflict, so you'll have to sort it out."
+      },
+      {
+        "zh": "解铃还须系铃人，你去跟她道个歉吧。",
+        "en": "You started it — go and apologise to her."
+      }
+    ],
+    "origin": {
+      "source": "明·瞿汝稷《指月录》",
+      "story": {
+        "en": "The Chan master Fayan asked: \"Who can untie the golden bell from the tiger's neck?\" No one answered, until Taiqin said: \"The one who tied it on.\"",
+        "zh": "法眼禅师问：\"虎项金铃，是谁解得？\"众人无对，泰钦说：\"系者解得。\""
+      }
+    },
+    "usage": {
+      "en": "Standalone saying. 系 is xì (to tie).",
+      "zh": "多单独成句。\"系\"读 xì。"
+    },
+    "synonyms": [
+      "自作自受",
+      "谁种的苦果谁吃"
+    ],
+    "antonyms": [
+      "嫁祸于人",
+      "推卸责任"
+    ]
+  },
+  {
+    "id": "qing-tong-shou-zu",
+    "text": "情同手足",
+    "pinyin": "qíng tóng shǒu zú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "body"
+    ],
+    "literal": "feeling · same · hand · foot",
+    "natural": "As close as hands and feet",
+    "meaning": {
+      "en": "As close as brothers.",
+      "zh": "交情深厚，如同兄弟一样。"
+    },
+    "equivalents": [
+      "like brothers",
+      "as thick as thieves",
+      "close as family",
+      "bosom buddies"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩从小一起长大，情同手足。",
+        "en": "They grew up together and are like brothers."
+      },
+      {
+        "zh": "战友之间情同手足。",
+        "en": "Comrades-in-arms are as close as family."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 手足 = brothers.",
+      "zh": "多作谓语。\"手足\"比喻兄弟。"
+    },
+    "synonyms": [
+      "亲如兄弟",
+      "亲密无间",
+      "情深似海"
+    ],
+    "antonyms": [
+      "反目成仇",
+      "势不两立",
+      "形同陌路"
+    ]
+  },
+  {
+    "id": "san-geng-ban-ye",
+    "text": "三更半夜",
+    "pinyin": "sān gēng bàn yè",
+    "variants": [
+      "半夜三更"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "daily-time-periods"
+    ],
+    "literal": "third · watch · half · night",
+    "natural": "In the third watch, in the middle of the night",
+    "meaning": {
+      "en": "In the middle of the night.",
+      "zh": "指深夜。"
+    },
+    "equivalents": [
+      "in the middle of the night",
+      "in the dead of night",
+      "at some ungodly hour",
+      "the small hours"
+    ],
+    "examples": [
+      {
+        "zh": "三更半夜的，谁在敲门？",
+        "en": "Who's knocking in the middle of the night?"
+      },
+      {
+        "zh": "他经常工作到三更半夜。",
+        "en": "He often works into the small hours."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial of time. 三更 is the third night-watch, around 11 pm–1 am.",
+      "zh": "多作时间状语。\"三更\"约为晚上十一点至一点。"
+    },
+    "synonyms": [
+      "深更半夜"
+    ],
+    "antonyms": [
+      "光天化日",
+      "大白天"
+    ]
+  },
+  {
+    "id": "long-teng-hu-yue",
+    "text": "龙腾虎跃",
+    "pinyin": "lóng téng hǔ yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "dragon · soar · tiger · leap",
+    "natural": "Dragons soaring and tigers leaping",
+    "meaning": {
+      "en": "A scene of great vigour and activity.",
+      "zh": "像龙在飞腾，虎在跳跃。形容动作矫健，或场面热烈。"
+    },
+    "equivalents": [
+      "bursting with energy",
+      "a hive of activity",
+      "full of vim and vigour"
+    ],
+    "examples": [
+      {
+        "zh": "运动会上一派龙腾虎跃的景象。",
+        "en": "The sports day was a scene of tremendous energy."
+      },
+      {
+        "zh": "新年到，全国上下龙腾虎跃。",
+        "en": "The New Year has arrived, and the whole country is bursting with energy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "生龙活虎",
+      "欢腾雀跃",
+      "热火朝天"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "有气无力"
+    ]
+  },
+  {
+    "id": "qi-huo-ke-ju",
+    "text": "奇货可居",
+    "pinyin": "qí huò kě jū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "business-failure",
+      "stories"
+    ],
+    "literal": "rare · goods · can · hoard",
+    "natural": "Rare goods worth hoarding",
+    "meaning": {
+      "en": "A rare asset to hoard for profit; to exploit something scarce.",
+      "zh": "把少有的货物囤积起来，等待高价出售。比喻凭借某种独特的技能或东西谋取名利。"
+    },
+    "equivalents": [
+      "corner the market",
+      "a hot commodity",
+      "sit on a gold mine"
+    ],
+    "examples": [
+      {
+        "zh": "他把这项技术当作奇货可居，不肯分享。",
+        "en": "He treats the technology as a gold mine to sit on and won't share it."
+      },
+      {
+        "zh": "有人囤积口罩，以为奇货可居。",
+        "en": "Some hoarded masks, thinking they'd cornered the market."
+      }
+    ],
+    "origin": {
+      "source": "《史记·吕不韦列传》",
+      "story": {
+        "en": "The merchant Lü Buwei met the Qin prince Zichu, a neglected hostage in Zhao, and said: \"This is a rare commodity worth hoarding.\" He backed Zichu, who became king, and Lü became chancellor.",
+        "zh": "吕不韦见到在赵国做人质的秦公子子楚，说\"此奇货可居\"，后助其登上王位，自己成为丞相。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "囤积居奇",
+      "待价而沽"
+    ],
+    "antonyms": [
+      "无人问津",
+      "一文不值"
+    ]
+  },
+  {
+    "id": "yan-er-wu-xin",
+    "text": "言而无信",
+    "pinyin": "yán ér wú xìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "speech"
+    ],
+    "literal": "speak · but · not have · trust",
+    "natural": "Speaking without keeping faith",
+    "meaning": {
+      "en": "To break one's promises; not keep one's word.",
+      "zh": "说话不讲信用。"
+    },
+    "equivalents": [
+      "go back on one's word",
+      "break one's promise",
+      "untrustworthy"
+    ],
+    "examples": [
+      {
+        "zh": "他言而无信，答应的事从来不做。",
+        "en": "He never keeps his word — he never does what he promises."
+      },
+      {
+        "zh": "做生意最怕言而无信。",
+        "en": "In business, breaking promises is the worst thing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "出尔反尔",
+      "背信弃义",
+      "食言而肥"
+    ],
+    "antonyms": [
+      "言而有信",
+      "一诺千金",
+      "一言九鼎"
+    ]
+  },
+  {
+    "id": "long-ma-jing-shen",
+    "text": "龙马精神",
+    "pinyin": "lóng mǎ jīng shén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "festivals-and-celebrations"
+    ],
+    "literal": "dragon · horse · spirit",
+    "natural": "The spirit of the dragon-horse",
+    "meaning": {
+      "en": "Vigour and vitality (a greeting, especially for elders).",
+      "zh": "像龙马一样的精神。比喻旺盛的精神。常用作祝福语。"
+    },
+    "equivalents": [
+      "full of vim and vigour",
+      "hale and hearty",
+      "in fine fettle"
+    ],
+    "examples": [
+      {
+        "zh": "祝您新年龙马精神，身体健康！",
+        "en": "Wishing you vigour and good health in the New Year!"
+      },
+      {
+        "zh": "爷爷八十多了，依然龙马精神。",
+        "en": "Grandpa is over eighty and still hale and hearty."
+      }
+    ],
+    "usage": {
+      "en": "Mostly as a greeting, especially in the Year of the Horse.",
+      "zh": "多用作祝福语，马年尤为常用。"
+    },
+    "synonyms": [
+      "精神抖擞",
+      "老当益壮",
+      "生龙活虎"
+    ],
+    "antonyms": [
+      "萎靡不振",
+      "老态龙钟",
+      "无精打采"
+    ]
+  },
+  {
+    "id": "jie-dang-ying-si",
+    "text": "结党营私",
+    "pinyin": "jié dǎng yíng sī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption"
+    ],
+    "literal": "form · faction · seek · private",
+    "natural": "Forming factions for private gain",
+    "meaning": {
+      "en": "To form a clique for selfish ends.",
+      "zh": "结成小集团，谋求私利。"
+    },
+    "equivalents": [
+      "form a clique",
+      "cronyism",
+      "factionalism",
+      "jobs for the boys"
+    ],
+    "examples": [
+      {
+        "zh": "这些官员结党营私，损害国家利益。",
+        "en": "These officials formed cliques for their own gain, harming the national interest."
+      },
+      {
+        "zh": "公司内部严禁结党营私。",
+        "en": "Factionalism is strictly prohibited in the company."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Formal; politics and organisations.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "拉帮结派",
+      "任人唯亲",
+      "朋比为奸"
+    ],
+    "antonyms": [
+      "大公无私",
+      "廉洁奉公",
+      "任人唯贤"
+    ]
+  },
+  {
+    "id": "mang-ren-mo-xiang",
+    "text": "盲人摸象",
+    "pinyin": "máng rén mō xiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "stories"
+    ],
+    "literal": "blind · people · touch · elephant",
+    "natural": "The blind men and the elephant",
+    "meaning": {
+      "en": "To judge the whole from a part; a partial view.",
+      "zh": "比喻对事物只凭片面的了解或局部的经验，就乱加猜测，想作出全面的判断。"
+    },
+    "equivalents": [
+      "the blind men and the elephant",
+      "can't see the wood for the trees",
+      "a partial view"
+    ],
+    "examples": [
+      {
+        "zh": "只看一份报告就下结论，无异于盲人摸象。",
+        "en": "Drawing conclusions from one report is like the blind men and the elephant."
+      },
+      {
+        "zh": "了解一个国家不能盲人摸象。",
+        "en": "You can't understand a country from just one angle."
+      }
+    ],
+    "origin": {
+      "source": "《大般涅槃经》",
+      "story": {
+        "en": "A king had blind men touch an elephant. The one who felt its tusk said it was like a radish, the ear like a winnowing basket, the leg like a pillar, the tail like a rope — each partly right, all wrong.",
+        "zh": "国王让盲人摸象，摸到牙的说象像萝卜，摸到耳朵的说像簸箕，摸到腿的说像柱子，摸到尾巴的说像绳子。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. The same parable is well known in English.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "以偏概全",
+      "一叶障目",
+      "管中窥豹"
+    ],
+    "antonyms": [
+      "融会贯通",
+      "全面客观",
+      "洞若观火"
+    ]
+  },
+  {
+    "id": "shi-qiang-ling-ruo",
+    "text": "恃强凌弱",
+    "pinyin": "shì qiáng líng ruò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "conflict-and-strife"
+    ],
+    "literal": "rely on · strength · bully · weak",
+    "natural": "Relying on strength to bully the weak",
+    "meaning": {
+      "en": "To use one's strength to bully the weak.",
+      "zh": "仗着自己强大，欺负弱小。"
+    },
+    "equivalents": [
+      "bully the weak",
+      "pick on someone smaller",
+      "might makes right"
+    ],
+    "examples": [
+      {
+        "zh": "大国不应恃强凌弱。",
+        "en": "Big countries shouldn't bully weaker ones."
+      },
+      {
+        "zh": "校园里不能有恃强凌弱的现象。",
+        "en": "There must be no bullying of the weak at school."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 恃 is shì.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "以强凌弱",
+      "仗势欺人",
+      "欺软怕硬"
+    ],
+    "antonyms": [
+      "扶弱济贫",
+      "锄强扶弱",
+      "见义勇为"
+    ]
+  },
+  {
+    "id": "wei-fu-bu-ren",
+    "text": "为富不仁",
+    "pinyin": "wéi fù bù rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "corruption-and-injustice"
+    ],
+    "literal": "be · rich · not · benevolent",
+    "natural": "Rich and heartless",
+    "meaning": {
+      "en": "Rich and heartless; getting rich by unscrupulous means.",
+      "zh": "靠不正当手段发财致富的人，不会有好心肠。"
+    },
+    "equivalents": [
+      "filthy rich and heartless",
+      "money over morals",
+      "greedy fat cats"
+    ],
+    "examples": [
+      {
+        "zh": "这个老板为富不仁，常常克扣工人工资。",
+        "en": "The heartless rich boss often docks his workers' wages."
+      },
+      {
+        "zh": "企业家不能为富不仁。",
+        "en": "Entrepreneurs mustn't be rich and heartless."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·滕文公上》",
+      "story": {
+        "en": "Mencius quotes Yang Hu: \"Those who seek wealth will not be benevolent; those who are benevolent will not be rich\" (为富不仁矣，为仁不富矣).",
+        "zh": "《孟子》引阳虎语：\"为富不仁矣，为仁不富矣。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 为 is wéi.",
+      "zh": "多作谓语。\"为\"读 wéi。"
+    },
+    "synonyms": [
+      "唯利是图",
+      "见利忘义"
+    ],
+    "antonyms": [
+      "乐善好施",
+      "仗义疏财",
+      "扶贫济困"
+    ]
+  }
+]
