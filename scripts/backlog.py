@@ -50,7 +50,7 @@ def main():
     print(f"Entries: {len(entries)}")
     for kind in ("chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase", "mingju"):
         print(f"  {kind:<11} {by_kind.get(kind, 0)}")
-    names = {1: "core", 2: "common", 3: "literary"}
+    names = {1: "core", 2: "common", 3: "uncommon"}
     print("  by frequency: " + ", ".join(f"{names[k]} {by_freq.get(k, 0)}" for k in (1, 2, 3)))
 
     master_path = DATA / "master_list.json"

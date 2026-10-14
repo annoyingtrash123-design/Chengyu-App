@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.11",
+    date: "2026-10-14",
+    en: [
+      "Phase 2 complete: the 1,000 most frequent chengyu (THUOCL) are all in — about 2,170 entries in total.",
+      "Frequency stars now follow corpus rank for every chengyu that has one.",
+      "New labels: News & officialese, Luxury & extravagance; more variant forms merged (e.g. 独辟蹊径 → 另辟蹊径, 深入民心 → 深入人心).",
+    ],
+    zh: ["第二阶段完成：一千条最常用成语（THUOCL）全部收录，共约两千一百七十条。", "有语料排名的成语，常用度星级均按排名确定。", "新增“新闻政务用语”“奢华铺张”标签；合并更多异形写法（如 独辟蹊径 → 另辟蹊径，深入民心 → 深入人心）。"],
+  },
+  {
     version: "0.10",
     date: "2026-10-14",
     en: [
