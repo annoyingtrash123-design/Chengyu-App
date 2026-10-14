@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "tu-si-gou-peng",
+    "text": "兔死狗烹",
+    "pinyin": "tù sǐ gǒu pēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-company-and-betrayal",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "hare · dies · dog · boiled",
+    "natural": "When the hare is dead, the hound is boiled",
+    "meaning": {
+      "en": "To discard (or destroy) loyal helpers once they are no longer needed.",
+      "zh": "兔子死了，猎狗就被煮来吃。比喻事成之后，有功之人被抛弃或杀害。"
+    },
+    "equivalents": [
+      "discarded once used",
+      "thrown under the bus",
+      "the Moor has done his work, the Moor can go"
+    ],
+    "examples": [
+      {
+        "zh": "公司上市后就辞退了创始团队，真是兔死狗烹。",
+        "en": "After the IPO they fired the founding team — discarded once they'd served their purpose."
+      },
+      {
+        "zh": "历史上兔死狗烹的故事屡见不鲜。",
+        "en": "History is full of loyal servants discarded once victory was won."
+      }
+    ],
+    "origin": {
+      "source": "《史记·越王勾践世家》",
+      "story": {
+        "en": "After helping King Goujian destroy Wu, Fan Li fled and warned his colleague Wen Zhong: \"When the birds are gone the good bow is put away; when the cunning hare is dead the hound is cooked.\" Wen Zhong stayed and was forced to suicide.",
+        "zh": "范蠡助越王灭吴后离去，写信给文种：\"蜚鸟尽，良弓藏；狡兔死，走狗烹。\"文种未听，后被勾践赐死。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often with 鸟尽弓藏.",
+      "zh": "多作谓语，常与\"鸟尽弓藏\"连用。"
+    },
+    "synonyms": [
+      "鸟尽弓藏",
+      "过河拆桥",
+      "卸磨杀驴"
+    ],
+    "antonyms": [
+      "论功行赏",
+      "知恩图报"
+    ]
+  },
+  {
+    "id": "lin-ke-jue-jing",
+    "text": "临渴掘井",
+    "pinyin": "lín kě jué jǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "time-management"
+    ],
+    "literal": "when · thirsty · dig · well",
+    "natural": "Digging a well only when thirsty",
+    "meaning": {
+      "en": "To leave preparations until it is too late.",
+      "zh": "到口渴时才掘井。比喻平时没有准备，事到临头才想办法。"
+    },
+    "equivalents": [
+      "too little, too late",
+      "shut the stable door after the horse has bolted",
+      "last-minute scramble"
+    ],
+    "examples": [
+      {
+        "zh": "考试前一天才复习，无异于临渴掘井。",
+        "en": "Revising the day before the exam is too little, too late."
+      },
+      {
+        "zh": "防灾要未雨绸缪，不能临渴掘井。",
+        "en": "Disaster prevention needs forward planning, not a last-minute scramble."
+      }
+    ],
+    "origin": {
+      "source": "《黄帝内经·素问》",
+      "story": {
+        "en": "The Yellow Emperor's Classic says treating illness after it develops \"is like digging a well when thirsty, or forging weapons when the battle has begun — is it not too late?\"",
+        "zh": "《素问》：\"夫病已成而后药之，乱已成而后治之，譬犹渴而穿井，斗而铸锥，不亦晚乎？\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "临时抱佛脚",
+      "亡羊补牢",
+      "临阵磨枪"
+    ],
+    "antonyms": [
+      "未雨绸缪",
+      "有备无患",
+      "防患未然"
+    ]
+  },
+  {
+    "id": "zhi-da-cai-shu",
+    "text": "志大才疏",
+    "pinyin": "zhì dà cái shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "high-aspirations"
+    ],
+    "literal": "ambition · big · talent · sparse",
+    "natural": "Big ambitions but little talent",
+    "meaning": {
+      "en": "Ambition outstripping ability.",
+      "zh": "志向很大而才能不足。"
+    },
+    "equivalents": [
+      "ambition outstripping ability",
+      "all ambition and no talent",
+      "punch above one's weight"
+    ],
+    "examples": [
+      {
+        "zh": "他志大才疏，屡次创业都失败了。",
+        "en": "His ambition outstripped his ability, and every venture failed."
+      },
+      {
+        "zh": "年轻人要防止志大才疏。",
+        "en": "Young people should beware of ambition outrunning talent."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·孔融传》",
+      "story": {
+        "en": "Of the scholar Kong Rong, the history says: \"His ambition was great but his talent sparse\" (志大才疏), so he never achieved his goals.",
+        "zh": "《后汉书·孔融传》：\"融负其高气，志在靖难，而才疏意广，迄无成功。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "眼高手低",
+      "好高骛远",
+      "才疏学浅"
+    ],
+    "antonyms": [
+      "德才兼备",
+      "才高八斗",
+      "大器晚成"
+    ]
+  },
+  {
+    "id": "nang-ying-ying-xue",
+    "text": "囊萤映雪",
+    "pinyin": "náng yíng yìng xuě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "poverty-and-hardship"
+    ],
+    "literal": "bag · fireflies · reflect · snow",
+    "natural": "Reading by fireflies in a bag and moonlight on snow",
+    "meaning": {
+      "en": "To study diligently despite poverty.",
+      "zh": "用口袋装萤火虫照明，借雪的反光读书。形容家境贫寒，刻苦读书。"
+    },
+    "equivalents": [
+      "study against all odds",
+      "burn the midnight oil",
+      "self-taught through hardship"
+    ],
+    "examples": [
+      {
+        "zh": "古人囊萤映雪，刻苦求学。",
+        "en": "Ancient scholars studied by firefly light and snow-glow, against all odds."
+      },
+      {
+        "zh": "他从小家贫，有囊萤映雪的精神。",
+        "en": "Raised in poverty, he studied with fierce determination."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·车胤传》；《初学记》引《宋齐语》",
+      "story": {
+        "en": "Che Yin, too poor for lamp oil, caught fireflies in a silk bag to read by; Sun Kang read by the light reflected off snow.",
+        "zh": "车胤家贫无油点灯，夏夜用练囊装萤火虫照明读书；孙康冬夜借雪的反光读书。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "悬梁刺股",
+      "凿壁偷光",
+      "孜孜不倦"
+    ],
+    "antonyms": [
+      "不学无术",
+      "饱食终日",
+      "游手好闲"
+    ]
+  },
+  {
+    "id": "lian-shi-bu-tian",
+    "text": "炼石补天",
+    "pinyin": "liàn shí bǔ tiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "stories",
+      "effort"
+    ],
+    "literal": "smelt · stones · mend · sky",
+    "natural": "Smelting stones to mend the sky",
+    "meaning": {
+      "en": "A heroic effort to repair great damage.",
+      "zh": "神话传说女娲炼五色石补天。比喻施展才能和手段，弥补国家政治上的缺陷。"
+    },
+    "equivalents": [
+      "a Herculean effort",
+      "repair the damage",
+      "save the day"
+    ],
+    "examples": [
+      {
+        "zh": "改革者肩负炼石补天的重任。",
+        "en": "The reformers bear the heroic task of repairing the damage."
+      },
+      {
+        "zh": "他立志炼石补天，振兴家乡。",
+        "en": "He's determined to revive his hometown against all odds."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·览冥训》",
+      "story": {
+        "en": "When the pillars of heaven broke, Nüwa smelted five-coloured stones to mend the sky (炼五色石以补苍天).",
+        "zh": "《淮南子》：\"女娲炼五色石以补苍天。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Close to 女娲补天.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "女娲补天",
+      "力挽狂澜",
+      "扭转乾坤"
+    ],
+    "antonyms": [
+      "无能为力",
+      "束手无策"
+    ]
+  },
+  {
+    "id": "cheng-men-li-xue",
+    "text": "程门立雪",
+    "pinyin": "chéng mén lì xuě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "apprenticeship-and-learning",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "Cheng · gate · stand · snow",
+    "natural": "Standing in the snow at Cheng's gate",
+    "meaning": {
+      "en": "Deep respect for one's teacher; eagerness to learn.",
+      "zh": "比喻尊敬师长和恭敬求教。"
+    },
+    "equivalents": [
+      "deep respect for a teacher",
+      "sit at the feet of a master",
+      "eager disciple"
+    ],
+    "examples": [
+      {
+        "zh": "程门立雪的故事体现了尊师重道。",
+        "en": "The story of standing in the snow at Cheng's gate shows respect for teachers."
+      },
+      {
+        "zh": "他以程门立雪的诚意拜师学艺。",
+        "en": "He sought out the master with the humble dedication of a true disciple."
+      }
+    ],
+    "origin": {
+      "source": "《宋史·杨时传》",
+      "story": {
+        "en": "Yang Shi and You Zuo visited the philosopher Cheng Yi, who was dozing. They waited respectfully outside; when Cheng woke, the snow at the door was a foot deep.",
+        "zh": "杨时、游酢去拜见程颐，程颐正在打盹，二人恭敬地站在门外等候。程颐醒来时，门外积雪已有一尺深。"
+      }
+    },
+    "usage": {
+      "en": "Subject or attributive.",
+      "zh": "多作主语、定语。"
+    },
+    "synonyms": [
+      "尊师重道",
+      "不耻下问"
+    ],
+    "antonyms": [
+      "欺师灭祖",
+      "好为人师"
+    ]
+  },
+  {
+    "id": "xiong-wu-dian-mo",
+    "text": "胸无点墨",
+    "pinyin": "xiōng wú diǎn mò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "learning-difficulties"
+    ],
+    "literal": "chest · no · drop · ink",
+    "natural": "Not a drop of ink in one's chest",
+    "meaning": {
+      "en": "Uneducated; utterly unlettered.",
+      "zh": "肚子里没有一点墨水。形容人没有文化或学问。"
+    },
+    "equivalents": [
+      "uneducated",
+      "unlettered",
+      "an ignoramus",
+      "doesn't know the first thing"
+    ],
+    "examples": [
+      {
+        "zh": "他胸无点墨，却爱装文化人。",
+        "en": "He's uneducated but loves posing as an intellectual."
+      },
+      {
+        "zh": "胸无点墨的人写不出好文章。",
+        "en": "Someone with no learning can't write good essays."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "目不识丁",
+      "不学无术",
+      "才疏学浅"
+    ],
+    "antonyms": [
+      "满腹经纶",
+      "学富五车",
+      "博学多才"
+    ]
+  },
+  {
+    "id": "gong-gao-zhen-zhu",
+    "text": "功高震主",
+    "pinyin": "gōng gāo zhèn zhǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "political-corruption",
+      "danger"
+    ],
+    "literal": "merit · high · shake · ruler",
+    "natural": "Merit so great it unnerves the ruler",
+    "meaning": {
+      "en": "So successful that one threatens one's superior (and endangers oneself).",
+      "zh": "功劳太大，使君主感到威胁。"
+    },
+    "equivalents": [
+      "too successful for one's own good",
+      "outshine the boss",
+      "a threat to the throne"
+    ],
+    "examples": [
+      {
+        "zh": "韩信功高震主，最终被杀。",
+        "en": "Han Xin's achievements threatened the emperor, and he was eventually killed."
+      },
+      {
+        "zh": "在职场上要注意别功高震主。",
+        "en": "At work, be careful not to outshine your boss."
+      }
+    ],
+    "origin": {
+      "source": "《史记·淮阴侯列传》",
+      "story": {
+        "en": "The adviser Kuai Tong warned Han Xin: \"One whose courage and strategy shake his lord is in danger; one whose merit covers the realm goes unrewarded.\"",
+        "zh": "蒯通劝韩信：\"臣闻勇略震主者身危，而功盖天下者不赏。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "树大招风",
+      "功成身退"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "韬光养晦"
+    ]
+  },
+  {
+    "id": "mei-qi-he-zi",
+    "text": "梅妻鹤子",
+    "pinyin": "méi qī hè zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "freedom",
+      "plant-and-natural-world"
+    ],
+    "literal": "plum · wife · crane · son",
+    "natural": "Plum blossoms as wife and cranes as sons",
+    "meaning": {
+      "en": "A hermit's pure, detached life.",
+      "zh": "以梅为妻，以鹤为子。比喻清高或隐居。"
+    },
+    "equivalents": [
+      "a hermit's life",
+      "a recluse",
+      "living apart from the world"
+    ],
+    "examples": [
+      {
+        "zh": "他退休后梅妻鹤子，隐居山林。",
+        "en": "In retirement he lives like a hermit in the mountains."
+      },
+      {
+        "zh": "林逋梅妻鹤子，终身不娶。",
+        "en": "Lin Bu lived with plums and cranes and never married."
+      }
+    ],
+    "origin": {
+      "source": "宋·沈括《梦溪笔谈》",
+      "story": {
+        "en": "The Song poet Lin Bu lived as a hermit on West Lake, never married, and planted plum trees and kept cranes — people said he took plums as his wife and cranes as his sons.",
+        "zh": "北宋林逋隐居西湖孤山，终身不娶，植梅养鹤，人称\"梅妻鹤子\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "闲云野鹤",
+      "与世无争",
+      "清心寡欲"
+    ],
+    "antonyms": [
+      "儿孙满堂",
+      "争名夺利"
+    ]
+  },
+  {
+    "id": "ji-ren-tian-xiang",
+    "text": "吉人天相",
+    "pinyin": "jí rén tiān xiàng",
+    "variants": [
+      "吉人自有天相"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fortune"
+    ],
+    "literal": "good · person · heaven · help",
+    "natural": "Heaven helps good people",
+    "meaning": {
+      "en": "Good people are protected by heaven (said to comfort someone in trouble).",
+      "zh": "善人自有上天帮助。多用作对别人遭遇危险或困难时的安慰语。"
+    },
+    "equivalents": [
+      "heaven helps the good",
+      "fortune favours the good",
+      "you'll be fine"
+    ],
+    "examples": [
+      {
+        "zh": "您老人家吉人天相，病一定会好的。",
+        "en": "Good people are protected — you'll surely recover."
+      },
+      {
+        "zh": "吉人自有天相，别太担心。",
+        "en": "Heaven looks after the good — don't worry too much."
+      }
+    ],
+    "usage": {
+      "en": "Mostly a comforting phrase, often 吉人自有天相. 相 is xiàng (help).",
+      "zh": "多用作安慰语，常说\"吉人自有天相\"。\"相\"读 xiàng。"
+    },
+    "synonyms": [
+      "福大命大",
+      "逢凶化吉"
+    ],
+    "antonyms": [
+      "祸不单行",
+      "在劫难逃"
+    ]
+  },
+  {
+    "id": "qi-bu-cheng-shi",
+    "text": "七步成诗",
+    "pinyin": "qī bù chéng shī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "stories"
+    ],
+    "literal": "seven · steps · complete · poem",
+    "natural": "Composing a poem in seven steps",
+    "meaning": {
+      "en": "Brilliant quick wit in writing.",
+      "zh": "比喻才思敏捷。"
+    },
+    "equivalents": [
+      "quick-witted",
+      "a brilliant improviser",
+      "dash off a masterpiece"
+    ],
+    "examples": [
+      {
+        "zh": "他才思敏捷，有七步成诗之才。",
+        "en": "He's so quick-witted he could compose a poem in seven steps."
+      },
+      {
+        "zh": "七步成诗的故事流传千古。",
+        "en": "The story of the seven-step poem has been told for millennia."
+      }
+    ],
+    "origin": {
+      "source": "南朝宋·刘义庆《世说新语·文学》",
+      "story": {
+        "en": "Emperor Cao Pi ordered his brother Cao Zhi to compose a poem in seven steps or die. Cao Zhi produced: \"Beans boiled over a fire of their own stalks… we grew from the same root — why so eager to cook each other?\"",
+        "zh": "曹丕命曹植七步内作诗，否则处死。曹植作：\"煮豆燃豆萁，豆在釜中泣。本是同根生，相煎何太急？\""
+      }
+    },
+    "usage": {
+      "en": "Attributive or subject.",
+      "zh": "多作定语、主语。"
+    },
+    "synonyms": [
+      "出口成章",
+      "才思敏捷",
+      "倚马可待"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "冥思苦想"
+    ]
+  },
+  {
+    "id": "tian-li-zhao-zhao",
+    "text": "天理昭昭",
+    "pinyin": "tiān lǐ zhāo zhāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "revenge-and-retribution",
+      "corruption-and-injustice"
+    ],
+    "literal": "heaven's · reason · clear · clear",
+    "natural": "Heaven's justice is clear",
+    "meaning": {
+      "en": "Heaven's justice is plain to see; evil will be punished.",
+      "zh": "天理是很明白的。指正义一定会得到伸张。"
+    },
+    "equivalents": [
+      "justice will prevail",
+      "heaven sees all",
+      "the truth will out"
+    ],
+    "examples": [
+      {
+        "zh": "天理昭昭，恶人终将受到惩罚。",
+        "en": "Heaven's justice is plain — evildoers will be punished."
+      },
+      {
+        "zh": "天理昭昭，冤案终于平反了。",
+        "en": "Justice prevailed — the wrongful conviction was finally overturned."
+      }
+    ],
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多单独成句。"
+    },
+    "synonyms": [
+      "天网恢恢",
+      "善恶有报"
+    ],
+    "antonyms": [
+      "天理难容",
+      "逍遥法外"
+    ]
+  },
+  {
+    "id": "li-guang-nan-feng",
+    "text": "李广难封",
+    "pinyin": "lǐ guǎng nán fēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "failed-ambitions",
+      "poor-timing"
+    ],
+    "literal": "Li Guang · hard · ennoble",
+    "natural": "Li Guang never ennobled",
+    "meaning": {
+      "en": "Merit goes unrewarded; ill-fated despite talent.",
+      "zh": "李广难以封侯。比喻功高不得封赏，命运不好。"
+    },
+    "equivalents": [
+      "unrecognised merit",
+      "born unlucky",
+      "talent unrewarded"
+    ],
+    "examples": [
+      {
+        "zh": "冯唐易老，李广难封。",
+        "en": "Feng Tang aged quickly; Li Guang was never ennobled."
+      },
+      {
+        "zh": "他屡立战功却不得升迁，可谓李广难封。",
+        "en": "Despite repeated achievements he was never promoted — merit unrewarded."
+      }
+    ],
+    "origin": {
+      "source": "《史记·李将军列传》；唐·王勃《滕王阁序》",
+      "story": {
+        "en": "The great Han general Li Guang fought the Xiongnu over seventy times yet was never made a marquis. Wang Teng's Pavilion Preface laments: \"Feng Tang aged easily; Li Guang was hard to ennoble.\"",
+        "zh": "李广与匈奴大小七十余战，终未封侯。王勃《滕王阁序》：\"冯唐易老，李广难封。\""
+      }
+    },
+    "usage": {
+      "en": "Usually with 冯唐易老.",
+      "zh": "常与\"冯唐易老\"连用。"
+    },
+    "synonyms": [
+      "怀才不遇",
+      "生不逢时",
+      "命途多舛"
+    ],
+    "antonyms": [
+      "平步青云",
+      "飞黄腾达",
+      "加官进爵"
+    ]
+  },
+  {
+    "id": "niao-jin-gong-cang",
+    "text": "鸟尽弓藏",
+    "pinyin": "niǎo jìn gōng cáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "bad-company-and-betrayal",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "birds · gone · bow · stored",
+    "natural": "When the birds are gone, the bow is put away",
+    "meaning": {
+      "en": "Loyal helpers are discarded once their usefulness ends.",
+      "zh": "鸟打完了，弓就收起来。比喻事成之后，把有功之人抛弃或杀害。"
+    },
+    "equivalents": [
+      "used and discarded",
+      "thrown on the scrap heap",
+      "the Moor has done his work"
+    ],
+    "examples": [
+      {
+        "zh": "鸟尽弓藏，兔死狗烹。",
+        "en": "When the birds are gone the bow is stored; when the hare dies the hound is cooked."
+      },
+      {
+        "zh": "项目结束他就被解雇了，真是鸟尽弓藏。",
+        "en": "He was fired as soon as the project ended — used and discarded."
+      }
+    ],
+    "origin": {
+      "source": "《史记·越王勾践世家》",
+      "story": {
+        "en": "Fan Li's warning to Wen Zhong: \"When the flying birds are gone, the good bow is put away\" (蜚鸟尽，良弓藏).",
+        "zh": "范蠡：\"蜚鸟尽，良弓藏；狡兔死，走狗烹。\""
+      }
+    },
+    "usage": {
+      "en": "Usually with 兔死狗烹.",
+      "zh": "常与\"兔死狗烹\"连用。"
+    },
+    "synonyms": [
+      "兔死狗烹",
+      "过河拆桥",
+      "卸磨杀驴"
+    ],
+    "antonyms": [
+      "论功行赏"
+    ]
+  },
+  {
+    "id": "tu-qiong-bi-xian",
+    "text": "图穷匕见",
+    "pinyin": "tú qióng bǐ xiàn",
+    "variants": [
+      "图穷匕首见"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "deception-and-false-appearances",
+      "stories"
+    ],
+    "literal": "map · end · dagger · appear",
+    "natural": "When the map is unrolled, the dagger appears",
+    "meaning": {
+      "en": "The real intention is finally revealed.",
+      "zh": "比喻事情发展到最后，真相或本意显露出来。"
+    },
+    "equivalents": [
+      "show one's true colours",
+      "the gloves come off",
+      "the cat is out of the bag",
+      "the mask slips"
+    ],
+    "examples": [
+      {
+        "zh": "谈判到最后，对方图穷匕见，提出了无理要求。",
+        "en": "At the end of the talks the other side showed their true colours with outrageous demands."
+      },
+      {
+        "zh": "他前面说了那么多好话，最后图穷匕见，原来是要借钱。",
+        "en": "After all the flattery, the real purpose emerged — he wanted to borrow money."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·燕策三》",
+      "story": {
+        "en": "The assassin Jing Ke presented the King of Qin with a map of Yan territory. As the map was unrolled to its end, the dagger hidden inside was revealed, and Jing Ke lunged — but failed.",
+        "zh": "荆轲献燕国督亢地图给秦王，地图展开到尽头，露出藏在里面的匕首，荆轲刺秦王未成。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. 见 is xiàn (= 现, appear).",
+      "zh": "多作谓语。\"见\"读 xiàn，同\"现\"。"
+    },
+    "synonyms": [
+      "原形毕露",
+      "水落石出",
+      "真相大白"
+    ],
+    "antonyms": [
+      "深藏不露",
+      "不露声色"
+    ]
+  },
+  {
+    "id": "ti-ji-hao-han",
+    "text": "啼饥号寒",
+    "pinyin": "tí jī háo hán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-food-and-hunger"
+    ],
+    "literal": "cry · hunger · wail · cold",
+    "natural": "Crying from hunger and wailing from cold",
+    "meaning": {
+      "en": "Destitute; crying out from hunger and cold.",
+      "zh": "因为饥饿寒冷而啼哭。形容生活极端贫困。"
+    },
+    "equivalents": [
+      "destitute",
+      "starving and freezing",
+      "in dire poverty"
+    ],
+    "examples": [
+      {
+        "zh": "灾区百姓啼饥号寒，急需救援。",
+        "en": "People in the disaster zone are starving and freezing and urgently need help."
+      },
+      {
+        "zh": "旧社会，多少穷人啼饥号寒。",
+        "en": "In the old society so many poor people cried out from hunger and cold."
+      }
+    ],
+    "origin": {
+      "source": "唐·韩愈《进学解》",
+      "story": {
+        "en": "Han Yu's \"Explanation of Progress in Learning\" imagines students mocking their teacher: \"In a warm winter your children cry from cold; in a good year your wife wails from hunger.\"",
+        "zh": "韩愈《进学解》：\"冬暖而儿号寒，年丰而妻啼饥。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate. 号 is háo (wail).",
+      "zh": "多作谓语。\"号\"读 háo。"
+    },
+    "synonyms": [
+      "饥寒交迫",
+      "衣不蔽体",
+      "食不果腹"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "ming-zhu-an-tou",
+    "text": "明珠暗投",
+    "pinyin": "míng zhū àn tóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "failed-ambitions",
+      "poor-timing"
+    ],
+    "literal": "bright · pearl · darkly · thrown",
+    "natural": "A bright pearl thrown in the dark",
+    "meaning": {
+      "en": "Talent wasted by being unrecognised; a good person in bad company.",
+      "zh": "比喻有才能的人得不到赏识，或好人误入歧途。"
+    },
+    "equivalents": [
+      "pearls before swine",
+      "talent wasted",
+      "in the wrong place"
+    ],
+    "examples": [
+      {
+        "zh": "他这样的人才在那家公司真是明珠暗投。",
+        "en": "Someone of his talent is wasted at that company."
+      },
+      {
+        "zh": "她跟错了人，明珠暗投。",
+        "en": "She fell in with the wrong people — a jewel in the wrong setting."
+      }
+    ],
+    "origin": {
+      "source": "《史记·鲁仲连邹阳列传》",
+      "story": {
+        "en": "Zou Yang wrote: \"If a bright pearl or jade disc is thrown in someone's path in the dark, everyone grips their sword and glares\" — even treasures are suspected when they come the wrong way.",
+        "zh": "邹阳：\"明月之珠，夜光之璧，以暗投人于道路，人无不按剑相眄者。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "怀才不遇",
+      "大材小用",
+      "明珠蒙尘"
+    ],
+    "antonyms": [
+      "人尽其才",
+      "知人善任"
+    ]
+  },
+  {
+    "id": "luan-shi-ying-xiong",
+    "text": "乱世英雄",
+    "pinyin": "luàn shì yīng xióng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "historical-periods",
+      "outstanding-character"
+    ],
+    "literal": "chaotic · times · heroes",
+    "natural": "Heroes of chaotic times",
+    "meaning": {
+      "en": "Heroes who rise in turbulent times.",
+      "zh": "指在动乱年代出现的杰出人物。"
+    },
+    "equivalents": [
+      "heroes of a turbulent age",
+      "times of trouble breed heroes",
+      "cometh the hour, cometh the man"
+    ],
+    "examples": [
+      {
+        "zh": "三国时期涌现出许多乱世英雄。",
+        "en": "The Three Kingdoms period produced many heroes of a turbulent age."
+      },
+      {
+        "zh": "他是那个年代的乱世英雄，至今为人传颂。",
+        "en": "He was a hero of that turbulent age and is still celebrated today."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "时势造英雄",
+      "枭雄"
+    ],
+    "antonyms": [
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "cun-xin-bu-liang",
+    "text": "存心不良",
+    "pinyin": "cún xīn bù liáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws"
+    ],
+    "literal": "harbour · heart · not · good",
+    "natural": "Harbouring bad intentions",
+    "meaning": {
+      "en": "To harbour evil intentions.",
+      "zh": "心里怀着坏主意。"
+    },
+    "equivalents": [
+      "up to no good",
+      "have ill intentions",
+      "sinister"
+    ],
+    "examples": [
+      {
+        "zh": "那个陌生人存心不良，你要小心。",
+        "en": "That stranger is up to no good — be careful."
+      },
+      {
+        "zh": "他接近你是存心不良。",
+        "en": "He's getting close to you with bad intentions."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "居心叵测",
+      "心怀叵测",
+      "别有用心"
+    ],
+    "antonyms": [
+      "心地善良",
+      "光明磊落",
+      "与人为善"
+    ]
+  },
+  {
+    "id": "wo-chuang-bu-qi",
+    "text": "卧床不起",
+    "pinyin": "wò chuáng bù qǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "lie · bed · not · rise",
+    "natural": "Lying in bed unable to get up",
+    "meaning": {
+      "en": "Bedridden.",
+      "zh": "躺在床上起不来。形容病得很重。"
+    },
+    "equivalents": [
+      "bedridden",
+      "laid up",
+      "confined to bed",
+      "flat on one's back"
+    ],
+    "examples": [
+      {
+        "zh": "奶奶生病了，卧床不起。",
+        "en": "Grandma is ill and bedridden."
+      },
+      {
+        "zh": "他发高烧，卧床不起好几天。",
+        "en": "He had a high fever and was laid up for days."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一病不起",
+      "病入膏肓"
+    ],
+    "antonyms": [
+      "生龙活虎",
+      "身强力壮",
+      "药到病除"
+    ]
+  },
+  {
+    "id": "chai-lang-dang-dao",
+    "text": "豺狼当道",
+    "pinyin": "chái láng dāng dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "political-corruption",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "jackals · wolves · block · road",
+    "natural": "Jackals and wolves blocking the road",
+    "meaning": {
+      "en": "Villains hold power.",
+      "zh": "豺狼横在道路中间。比喻坏人当权。"
+    },
+    "equivalents": [
+      "villains in power",
+      "the wolves are in charge",
+      "tyranny reigns"
+    ],
+    "examples": [
+      {
+        "zh": "那个时代豺狼当道，民不聊生。",
+        "en": "In that era villains held power and the people suffered."
+      },
+      {
+        "zh": "豺狼当道，安问狐狸。",
+        "en": "When wolves block the road, why bother with foxes?"
+      }
+    ],
+    "origin": {
+      "source": "《汉书·孙宝传》",
+      "story": {
+        "en": "An official asked to investigate petty crimes replied: \"When jackals and wolves block the road, one shouldn't bother asking about foxes\" — the real villains were in power.",
+        "zh": "《汉书·孙宝传》：\"豺狼横道，不宜复问狐狸。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "奸臣当道",
+      "群魔乱舞"
+    ],
+    "antonyms": [
+      "政通人和",
+      "国泰民安"
+    ]
+  },
+  {
+    "id": "quan-ma-zhi-lao",
+    "text": "犬马之劳",
+    "pinyin": "quǎn mǎ zhī láo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "conduct"
+    ],
+    "literal": "dog · horse · (of) · labour",
+    "natural": "The labour of a dog or horse",
+    "meaning": {
+      "en": "(Humble) one's loyal service.",
+      "zh": "古代臣子对君上自比为犬马，表示愿意供人驱使，为人效劳。"
+    },
+    "equivalents": [
+      "at your service",
+      "my humble efforts",
+      "loyal service"
+    ],
+    "examples": [
+      {
+        "zh": "愿效犬马之劳。",
+        "en": "I am at your service."
+      },
+      {
+        "zh": "只要用得着我，我愿效犬马之劳。",
+        "en": "If I can be of any use, I'm at your service."
+      }
+    ],
+    "usage": {
+      "en": "Usually 愿效犬马之劳. Humble.",
+      "zh": "常说\"愿效犬马之劳\"，谦辞。"
+    },
+    "synonyms": [
+      "鞍前马后",
+      "效犬马之力"
+    ],
+    "antonyms": [
+      "袖手旁观"
+    ]
+  },
+  {
+    "id": "qing-guo-qing-cheng",
+    "text": "倾国倾城",
+    "pinyin": "qīng guó qīng chéng",
+    "variants": [
+      "倾城倾国"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "topple · state · topple · city",
+    "natural": "Beauty that topples cities and states",
+    "meaning": {
+      "en": "A woman of devastating beauty.",
+      "zh": "形容女子极其美丽。"
+    },
+    "equivalents": [
+      "a face that launched a thousand ships",
+      "devastatingly beautiful",
+      "a femme fatale"
+    ],
+    "examples": [
+      {
+        "zh": "杨贵妃有倾国倾城之貌。",
+        "en": "Yang Guifei had devastating beauty."
+      },
+      {
+        "zh": "电影里的女主角倾国倾城。",
+        "en": "The film's heroine is stunningly beautiful."
+      }
+    ],
+    "origin": {
+      "source": "汉·李延年《佳人歌》",
+      "story": {
+        "en": "Li Yannian sang to Emperor Wu: \"In the north there is a beauty… one glance and a city falls, a second and a state falls\" (一顾倾人城，再顾倾人国). The singer was his sister, who became Lady Li.",
+        "zh": "李延年《佳人歌》：\"北方有佳人，绝世而独立。一顾倾人城，再顾倾人国。\""
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "国色天香",
+      "沉鱼落雁",
+      "闭月羞花"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "丑陋不堪"
+    ]
+  },
+  {
+    "id": "bu-bei-bu-kang",
+    "text": "不卑不亢",
+    "pinyin": "bù bēi bù kàng",
+    "variants": [
+      "不亢不卑"
+    ],
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "positive-character-qualities"
+    ],
+    "literal": "not · humble · not · haughty",
+    "natural": "Neither servile nor haughty",
+    "meaning": {
+      "en": "Neither servile nor arrogant; dignified.",
+      "zh": "既不自卑，也不高傲。形容待人态度得体。"
+    },
+    "equivalents": [
+      "dignified",
+      "self-possessed",
+      "poised",
+      "stand one's ground politely"
+    ],
+    "examples": [
+      {
+        "zh": "面对外宾，他不卑不亢，彬彬有礼。",
+        "en": "With foreign guests he was dignified and courteous."
+      },
+      {
+        "zh": "面试时要不卑不亢。",
+        "en": "Be poised and self-assured in interviews."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Also 不亢不卑.",
+      "zh": "多作谓语、状语。也作\"不亢不卑\"。"
+    },
+    "synonyms": [
+      "落落大方",
+      "从容不迫",
+      "大方得体"
+    ],
+    "antonyms": [
+      "卑躬屈膝",
+      "趾高气扬",
+      "奴颜婢膝"
+    ]
+  }
+]
