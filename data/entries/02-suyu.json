@@ -7,12 +7,21 @@
     "frequency": 1,
     "sentiment": "positive",
     "register": "casual",
-    "themes": ["relationships", "wisdom", "numbers"],
-    "literal": "Three smelly cobblers equal one Zhuge Liang",
+    "themes": [
+      "relationships",
+      "wisdom",
+      "numbers"
+    ],
+    "literal": "three · (measure word) · smelly · cobbler, equal · (measure word) · Zhuge Liang",
+    "natural": "Three smelly cobblers are a match for one Zhuge Liang",
     "meaning": {
-      "en": "Two heads are better than one: ordinary people pooling their ideas can match a genius.",
+      "en": "Ordinary people pooling their ideas can match a genius.",
       "zh": "比喻人多智慧多，几个普通人的智慧合起来，能顶一个聪明人。"
     },
+    "equivalents": [
+      "two heads are better than one",
+      "many hands make light work"
+    ],
     "examples": [
       {
         "zh": "这个问题我们一起讨论吧，三个臭皮匠，顶个诸葛亮。",
@@ -30,7 +39,10 @@
       "en": "Said to encourage teamwork and brainstorming. Humorous and modest (you call your own group \"smelly cobblers\"). Also 三个臭皮匠，赛过诸葛亮.",
       "zh": "多用于鼓励集思广益，带有自谦和幽默色彩。也说\"三个臭皮匠，赛过诸葛亮\"。"
     },
-    "synonyms": ["集思广益", "众人拾柴火焰高"],
+    "synonyms": [
+      "集思广益",
+      "众人拾柴火焰高"
+    ],
     "antonyms": []
   },
   {
@@ -41,12 +53,21 @@
     "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
-    "themes": ["learning", "wisdom", "success"],
-    "literal": "Fall into a pit once, gain a bit of wisdom",
+    "themes": [
+      "learning",
+      "experience-and-old-age",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "eat · one · pit, grow · one · wisdom",
+    "natural": "Fall into a pit once and you grow a little wiser",
     "meaning": {
       "en": "Every setback makes you wiser; you learn from your mistakes.",
       "zh": "受一次挫折，便长一分见识。"
     },
+    "equivalents": [
+      "once bitten, twice shy",
+      "live and learn"
+    ],
     "examples": [
       {
         "zh": "上次因为没备份丢了论文，吃一堑，长一智，现在我每天都备份文件。",
@@ -64,8 +85,12 @@
       "en": "Used after a mistake, to sum up the lesson or to comfort someone. 堑 qiàn (\"moat, pit\") is rare outside this saying; 长 is read zhǎng (\"grow\"), not cháng.",
       "zh": "多用于犯错之后总结教训或安慰别人。\"堑\"读 qiàn，\"长\"读 zhǎng。"
     },
-    "synonyms": ["失败是成功之母"],
-    "antonyms": ["重蹈覆辙"]
+    "synonyms": [
+      "失败是成功之母"
+    ],
+    "antonyms": [
+      "重蹈覆辙"
+    ]
   },
   {
     "id": "bai-wen-bu-ru-yi-jian",
@@ -75,12 +100,20 @@
     "frequency": 1,
     "sentiment": "neutral",
     "register": "neutral",
-    "themes": ["numbers", "learning", "wisdom"],
-    "literal": "Hearing a hundred times is not as good as seeing once",
+    "themes": [
+      "numbers",
+      "learning",
+      "journeys-and-exploration"
+    ],
+    "literal": "hundred · hear · not · as good as · one · see",
+    "natural": "Hearing something a hundred times is not as good as seeing it once",
     "meaning": {
-      "en": "Seeing is believing; seeing something for yourself beats hearing about it many times.",
+      "en": "Seeing something for yourself beats hearing about it many times.",
       "zh": "听别人说一百次，不如亲眼看一次。指亲眼看到的比听来的更可靠。"
     },
+    "equivalents": [
+      "seeing is believing"
+    ],
     "examples": [
       {
         "zh": "大家都说桂林山水美，这次亲自去了才知道，真是百闻不如一见。",
@@ -98,7 +131,11 @@
       "en": "Said when something seen in person turns out better than (or different from) what you'd heard. Common in travel talk. Sometimes extended: 百闻不如一见，百见不如一干 (\"seeing beats hearing; doing beats seeing\").",
       "zh": "常用于亲眼见到之后发出感叹，谈旅游时尤其常用。有人扩展为\"百闻不如一见，百见不如一干\"。"
     },
-    "synonyms": ["眼见为实"],
-    "antonyms": ["道听途说"]
+    "synonyms": [
+      "眼见为实"
+    ],
+    "antonyms": [
+      "道听途说"
+    ]
   }
 ]

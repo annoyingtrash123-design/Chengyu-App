@@ -11,9 +11,11 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "frequency": 1,                    // 1 core (everyday), 2 common (news/writing), 3 literary
   "sentiment": "negative",           // positive (褒义) | negative (贬义) | neutral (中性)
   "register": "neutral",             // casual | neutral | formal | literary
-  "themes": ["animals", "stories"],  // ids from data/themes.json, any number
-  "literal": "Draw a snake and add feet",
-  "meaning": { "en": "…", "zh": "…" },
+  "themes": ["animals", "unintended-results"], // broad or detailed ids from data/themes.json
+  "literal": "draw · snake · add · foot",       // word-by-word gloss
+  "natural": "Drawing a snake and adding feet to it", // the image in natural English
+  "meaning": { "en": "…", "zh": "…" },          // what it means
+  "equivalents": ["gild the lily"],             // English idioms, ideally with a different image
   "examples": [{ "zh": "…画蛇添足…", "en": "…" }],   // at least one; must contain the expression
   "origin": {                        // optional
     "source": "《战国策·齐策二》",
@@ -25,6 +27,19 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "parts": ["外甥打灯笼", "照舅（旧）"] // 歇后语 only: text must be parts[0] + "——" + parts[1]
 }
 ```
+
+## Translations
+
+Every entry has three layers of English: a **literal** word-by-word gloss, a **natural**
+rendering of the image, and the **meaning**, plus **equivalents**: real English idioms with
+the same sense, especially ones using a different metaphor (对牛弹琴 → *cast pearls before
+swine*).
+
+## Themes
+
+Two levels. Twenty broad themes (no `group`) each contain detailed themes (with `group`),
+mostly taken from the thematic master list. Tag entries with the most specific themes that
+fit; filtering by a broad theme also finds everything tagged with its detailed themes.
 
 ## Conventions
 

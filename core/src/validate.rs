@@ -54,6 +54,14 @@ fn check_pinyin(e: &Entry, errors: &mut Vec<String>) {
 pub fn check(dict: &Dictionary) -> Report {
     let mut r = Report::default();
     let themes: HashSet<&str> = dict.themes.iter().map(|t| t.id.as_str()).collect();
+    for t in &dict.themes {
+        match &t.group {
+            Some(g) if !dict.themes.iter().any(|x| &x.id == g && x.group.is_none()) => {
+                r.errors.push(format!("theme `{}`: group `{g}` is not a broad theme", t.id))
+            }
+            _ => {}
+        }
+    }
     let mut ids = HashSet::new();
     let mut texts = HashSet::new();
 
@@ -83,6 +91,7 @@ pub fn check(dict: &Dictionary) -> Report {
         }
         for (name, value) in [
             ("literal", &e.literal),
+            ("natural", &e.natural),
             ("meaning.en", &e.meaning.en),
             ("meaning.zh", &e.meaning.zh),
             ("usage.en", &e.usage.en),

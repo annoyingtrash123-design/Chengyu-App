@@ -7,12 +7,22 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
-    "themes": ["animals", "efficiency", "stories"],
-    "literal": "Draw a snake and add feet",
+    "themes": [
+      "animals",
+      "efficiency",
+      "unintended-results",
+      "stories"
+    ],
+    "literal": "draw · snake · add · foot",
+    "natural": "Drawing a snake and adding feet to it",
     "meaning": {
-      "en": "To ruin something by adding what is unnecessary; to overdo it; to gild the lily.",
+      "en": "To spoil something by adding what isn't needed; to overdo it.",
       "zh": "比喻做了多余的事，非但无益，反而弄巧成拙。"
     },
+    "equivalents": [
+      "gild the lily",
+      "over-egg the pudding"
+    ],
     "examples": [
       {
         "zh": "这篇文章已经写得很好了，结尾再加一段总结反而是画蛇添足。",
@@ -34,8 +44,14 @@
       "en": "Predicate or object, e.g. 未免画蛇添足 / 是画蛇添足. Critical. Common when giving feedback on writing, design or speeches.",
       "zh": "多作谓语、宾语，如\"未免画蛇添足\"；含贬义。常用于评价文章、设计、讲话等多此一举。"
     },
-    "synonyms": ["多此一举", "弄巧成拙"],
-    "antonyms": ["恰到好处", "画龙点睛"]
+    "synonyms": [
+      "多此一举",
+      "弄巧成拙"
+    ],
+    "antonyms": [
+      "恰到好处",
+      "画龙点睛"
+    ]
   },
   {
     "id": "shou-zhu-dai-tu",
@@ -45,12 +61,22 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
-    "themes": ["animals", "conduct", "stories"],
-    "literal": "Guard a tree stump, waiting for rabbits",
+    "themes": [
+      "animals",
+      "laziness-and-giving-up",
+      "resistance-to-change",
+      "stories"
+    ],
+    "literal": "guard · tree stump · wait for · rabbit",
+    "natural": "Keeping watch by a tree stump, waiting for a rabbit",
     "meaning": {
-      "en": "To wait idly for a stroke of luck instead of working for it; to cling rigidly to past experience.",
+      "en": "To wait idly for good luck instead of working for it; to cling rigidly to past experience.",
       "zh": "比喻死守狭隘经验，不知变通；也比喻妄想不劳而获。"
     },
+    "equivalents": [
+      "wait for something to fall into your lap",
+      "wait for pennies from heaven"
+    ],
     "examples": [
       {
         "zh": "找工作要主动出击，光在家守株待兔是不行的。",
@@ -68,8 +94,13 @@
       "en": "Predicate or adverbial. Critical. Often contrasted with 主动出击 (taking the initiative).",
       "zh": "多作谓语、状语；含贬义。常与\"主动出击\"对比使用。"
     },
-    "synonyms": ["刻舟求剑", "墨守成规"],
-    "antonyms": ["随机应变"]
+    "synonyms": [
+      "刻舟求剑",
+      "墨守成规"
+    ],
+    "antonyms": [
+      "随机应变"
+    ]
   },
   {
     "id": "ban-tu-er-fei",
@@ -79,12 +110,21 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
-    "themes": ["effort", "success"],
-    "literal": "Give up halfway along the road",
+    "themes": [
+      "effort",
+      "laziness-and-giving-up",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "half · road · and · abandon",
+    "natural": "Giving up halfway along the road",
     "meaning": {
-      "en": "To give up halfway; to leave something unfinished.",
+      "en": "To give up partway through; to leave something unfinished.",
       "zh": "路走到一半就停下来。比喻做事有始无终，不能坚持到底。"
     },
+    "equivalents": [
+      "give up halfway",
+      "fall at the last hurdle"
+    ],
     "examples": [
       {
         "zh": "学语言最怕半途而废，每天坚持一点点就会有进步。",
@@ -106,8 +146,15 @@
       "en": "Predicate. Critical. Very common, especially in advice: 不要半途而废 / 千万别半途而废.",
       "zh": "多作谓语；含贬义。常用于劝诫，如\"不要半途而废\"。"
     },
-    "synonyms": ["有始无终", "前功尽弃"],
-    "antonyms": ["持之以恒", "有始有终", "锲而不舍"]
+    "synonyms": [
+      "有始无终",
+      "前功尽弃"
+    ],
+    "antonyms": [
+      "持之以恒",
+      "有始有终",
+      "锲而不舍"
+    ]
   },
   {
     "id": "ma-dao-cheng-gong",
@@ -117,12 +164,22 @@
     "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
-    "themes": ["animals", "success", "war"],
-    "literal": "Success as soon as the horses arrive",
+    "themes": [
+      "animals",
+      "successful-completion",
+      "military-strategy-and-victory",
+      "festivals-and-celebrations"
+    ],
+    "literal": "horse · arrive · achieve · success",
+    "natural": "Victory as soon as the horses arrive",
     "meaning": {
-      "en": "To achieve immediate success; (as a wish) \"may you succeed straight away\".",
+      "en": "To succeed immediately; as a wish, \"may you succeed straight away\".",
       "zh": "战马一到就取得胜利。形容事情顺利，一开始就取得成功。多用作祝福语。"
     },
+    "equivalents": [
+      "hit the ground running",
+      "break a leg (as a wish)"
+    ],
     "examples": [
       {
         "zh": "祝你这次比赛马到成功！",
@@ -144,8 +201,13 @@
       "en": "Mostly a blessing: 祝你……马到成功. Also a predicate. Popular before exams, interviews, matches and business openings, and especially in the Year of the Horse.",
       "zh": "多用作祝福语，如\"祝你马到成功\"；也可作谓语。常用于考试、面试、比赛、开业等场合，马年尤其常用。"
     },
-    "synonyms": ["旗开得胜", "一帆风顺"],
-    "antonyms": ["一败涂地"]
+    "synonyms": [
+      "旗开得胜",
+      "一帆风顺"
+    ],
+    "antonyms": [
+      "一败涂地"
+    ]
   },
   {
     "id": "luan-qi-ba-zao",
@@ -155,12 +217,21 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "casual",
-    "themes": ["numbers", "chaos"],
-    "literal": "Chaotic sevens and messy eights",
+    "themes": [
+      "numbers",
+      "chaos"
+    ],
+    "literal": "messy · seven · eight · bad",
+    "natural": "All sevens and eights, in a mess",
     "meaning": {
-      "en": "In a complete mess; chaotic; at sixes and sevens.",
+      "en": "In a complete mess; chaotic and disorganised.",
       "zh": "形容杂乱无章，乱得不成样子。"
     },
+    "equivalents": [
+      "at sixes and sevens",
+      "higgledy-piggledy",
+      "a complete shambles"
+    ],
     "examples": [
       {
         "zh": "他的房间乱七八糟的，书和衣服扔得到处都是。",
@@ -182,8 +253,14 @@
       "en": "Very colloquial. Works as a predicate, a complement (搞得乱七八糟, 写得乱七八糟) or an attributive (乱七八糟的东西, \"all sorts of junk\"). Describes thoughts and situations as well as physical mess.",
       "zh": "口语常用。可作谓语、补语、定语，如\"搞得乱七八糟\"\"乱七八糟的东西\"。既可形容东西杂乱，也可形容思绪、局面混乱。"
     },
-    "synonyms": ["杂乱无章", "一塌糊涂"],
-    "antonyms": ["井井有条", "有条不紊"]
+    "synonyms": [
+      "杂乱无章",
+      "一塌糊涂"
+    ],
+    "antonyms": [
+      "井井有条",
+      "有条不紊"
+    ]
   },
   {
     "id": "mo-ming-qi-miao",
@@ -193,12 +270,20 @@
     "frequency": 1,
     "sentiment": "neutral",
     "register": "casual",
-    "themes": ["confusion", "emotions"],
-    "literal": "No one can name its secret",
+    "themes": [
+      "confusion-and-doubt",
+      "emotions"
+    ],
+    "literal": "no one · can name · its · mystery",
+    "natural": "No one can explain the secret of it",
     "meaning": {
       "en": "Baffling; inexplicable; for no apparent reason.",
       "zh": "没有人能说出其中的奥妙。指事情很奇怪，说不出道理，使人不明白。"
     },
+    "equivalents": [
+      "out of the blue",
+      "for no rhyme or reason"
+    ],
     "examples": [
       {
         "zh": "他莫名其妙地发了一顿脾气，大家都不知道为什么。",
@@ -213,8 +298,14 @@
       "en": "Very common in speech. Predicate (真莫名其妙), adverbial (莫名其妙地……) or attributive. Often carries mild annoyance. The older variant 莫明其妙 is also seen.",
       "zh": "口语常用，可作谓语、状语、定语，常带不满或不解的语气。也写作\"莫明其妙\"。"
     },
-    "synonyms": ["不可思议", "匪夷所思"],
-    "antonyms": ["恍然大悟", "一目了然"]
+    "synonyms": [
+      "不可思议",
+      "匪夷所思"
+    ],
+    "antonyms": [
+      "恍然大悟",
+      "一目了然"
+    ]
   },
   {
     "id": "yi-ju-liang-de",
@@ -224,12 +315,20 @@
     "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
-    "themes": ["numbers", "efficiency"],
-    "literal": "One action, two gains",
+    "themes": [
+      "numbers",
+      "efficiency",
+      "wisdom"
+    ],
+    "literal": "one · move · two · gains",
+    "natural": "One action, two gains",
     "meaning": {
-      "en": "To kill two birds with one stone; to gain two things with one action.",
+      "en": "To gain two benefits from one action.",
       "zh": "做一件事，同时得到两方面的好处。"
     },
+    "equivalents": [
+      "kill two birds with one stone"
+    ],
     "examples": [
       {
         "zh": "骑自行车上班既能锻炼身体又能省钱，真是一举两得。",
@@ -247,8 +346,13 @@
       "en": "Predicate or attributive (一举两得的办法). Positive; often describes a clever plan. In speech 一 changes to yí here (tone sandhi), but it is written yī.",
       "zh": "多作谓语、定语，如\"一举两得的办法\"；含褒义。口语中\"一\"变调读 yí。"
     },
-    "synonyms": ["一箭双雕", "一石二鸟"],
-    "antonyms": ["得不偿失"]
+    "synonyms": [
+      "一箭双雕",
+      "一石二鸟"
+    ],
+    "antonyms": [
+      "得不偿失"
+    ]
   },
   {
     "id": "zi-xiang-mao-dun",
@@ -258,12 +362,21 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
-    "themes": ["speech", "stories"],
-    "literal": "One's own spear and shield contradict each other",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances",
+      "stories"
+    ],
+    "literal": "self · mutually · spear · shield",
+    "natural": "One's own spear and shield contradicting each other",
     "meaning": {
       "en": "To contradict oneself; self-contradictory.",
       "zh": "比喻自己的言行前后抵触，不能自圆其说。"
     },
+    "equivalents": [
+      "contradict yourself",
+      "blow hot and cold"
+    ],
     "examples": [
       {
         "zh": "他一会儿说没去过那里，一会儿又说在那里见过朋友，说法自相矛盾。",
@@ -281,8 +394,12 @@
       "en": "Predicate or attributive. Critical. Common in arguments, debates and essays. The everyday word 矛盾 \"contradiction, conflict\" comes from this story.",
       "zh": "多作谓语、定语；含贬义。常用于辩论、议论文。常用词\"矛盾\"即源于这个故事。"
     },
-    "synonyms": ["前后矛盾"],
-    "antonyms": ["自圆其说"]
+    "synonyms": [
+      "前后矛盾"
+    ],
+    "antonyms": [
+      "自圆其说"
+    ]
   },
   {
     "id": "wang-yang-bu-lao",
@@ -292,12 +409,22 @@
     "frequency": 1,
     "sentiment": "neutral",
     "register": "neutral",
-    "themes": ["animals", "stories", "wisdom"],
-    "literal": "Mend the pen after a sheep is lost",
+    "themes": [
+      "animals",
+      "wisdom",
+      "stories",
+      "poor-timing"
+    ],
+    "literal": "lose · sheep · mend · pen",
+    "natural": "Mending the pen after losing a sheep",
     "meaning": {
-      "en": "To fix a problem after suffering a loss so it doesn't happen again; better late than never.",
+      "en": "To fix a problem after a loss so it doesn't happen again; it's not too late to put things right.",
       "zh": "羊丢了再去修补羊圈。比喻出了问题以后想办法补救，可以防止继续受损失。"
     },
+    "equivalents": [
+      "better late than never",
+      "shut the stable door after the horse has bolted (but here it's worth doing)"
+    ],
     "examples": [
       {
         "zh": "这次没考好没关系，亡羊补牢，为时未晚，现在开始努力还来得及。",
@@ -315,8 +442,13 @@
       "en": "Often in the fixed phrase 亡羊补牢，为时未晚 \"it's not too late to fix things\". Encouraging, though it implies the loss has already happened. Contrast 未雨绸缪 (preparing before trouble comes).",
       "zh": "常说\"亡羊补牢，为时未晚\"，带有鼓励意味。与\"未雨绸缪\"（事先防备）相对。"
     },
-    "synonyms": ["知错就改"],
-    "antonyms": ["未雨绸缪", "防患未然"]
+    "synonyms": [
+      "知错就改"
+    ],
+    "antonyms": [
+      "未雨绸缪",
+      "防患未然"
+    ]
   },
   {
     "id": "dui-niu-tan-qin",
@@ -326,12 +458,22 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
-    "themes": ["animals", "speech", "stories"],
-    "literal": "Play the zither to a cow",
+    "themes": [
+      "animals",
+      "speech",
+      "animal-behavior-metaphors",
+      "stories"
+    ],
+    "literal": "to · ox · play · zither",
+    "natural": "Playing the zither to an ox",
     "meaning": {
-      "en": "To cast pearls before swine; to talk to someone who can't understand or appreciate it; to misjudge one's audience.",
+      "en": "To talk to someone who can't understand or appreciate it; to misjudge one's audience.",
       "zh": "比喻对不懂道理的人讲道理，对外行人说内行话；也讥讽说话不看对象。"
     },
+    "equivalents": [
+      "cast pearls before swine",
+      "like talking to a brick wall"
+    ],
     "examples": [
       {
         "zh": "跟他讲古典音乐简直是对牛弹琴，他只喜欢流行歌。",
@@ -349,8 +491,12 @@
       "en": "Predicate or object. Can criticise the listener (too ignorant to understand) or the speaker (for not considering the audience). It compares someone to a cow, so it's rude to say to their face.",
       "zh": "多作谓语、宾语；含贬义。既可讥讽听者不懂，也可批评说话人不看对象。当面使用不礼貌。"
     },
-    "synonyms": ["白费口舌"],
-    "antonyms": ["有的放矢"]
+    "synonyms": [
+      "白费口舌"
+    ],
+    "antonyms": [
+      "有的放矢"
+    ]
   },
   {
     "id": "xiong-you-cheng-zhu",
@@ -360,12 +506,21 @@
     "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
-    "themes": ["nature", "success", "character"],
-    "literal": "Have a complete bamboo in one's chest",
+    "themes": [
+      "plant-and-natural-world",
+      "wisdom",
+      "excellent-writing"
+    ],
+    "literal": "chest · have · complete · bamboo",
+    "natural": "Having the whole bamboo already in one's mind",
     "meaning": {
-      "en": "To have a well-thought-out plan in mind; to be confident of success.",
+      "en": "To have a well-thought-out plan; to be confident of success.",
       "zh": "画竹子之前，心里已经有了竹子的完整形象。比喻做事之前已有通盘考虑，很有把握。"
     },
+    "equivalents": [
+      "have it all mapped out",
+      "have it in the bag"
+    ],
     "examples": [
       {
         "zh": "考试前她复习得很充分，所以走进考场时胸有成竹。",
@@ -383,8 +538,13 @@
       "en": "Predicate or adverbial (胸有成竹地说). Positive; calm confidence that comes from preparation. Also 成竹在胸.",
       "zh": "多作谓语、状语，如\"胸有成竹地说\"；含褒义。也说\"成竹在胸\"。"
     },
-    "synonyms": ["成竹在胸", "稳操胜券"],
-    "antonyms": ["束手无策"]
+    "synonyms": [
+      "成竹在胸",
+      "稳操胜券"
+    ],
+    "antonyms": [
+      "束手无策"
+    ]
   },
   {
     "id": "sai-weng-shi-ma",
@@ -394,12 +554,23 @@
     "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
-    "themes": ["animals", "fortune", "stories", "wisdom"],
-    "literal": "The old man at the frontier loses his horse",
+    "themes": [
+      "animals",
+      "fortune",
+      "bad-fortune",
+      "stories",
+      "wisdom"
+    ],
+    "literal": "frontier · old man · lose · horse",
+    "natural": "The old man at the frontier loses his horse",
     "meaning": {
-      "en": "A blessing in disguise; a misfortune may turn out to be good fortune, and vice versa.",
+      "en": "A misfortune may turn out to be a blessing, and vice versa.",
       "zh": "比喻一时虽然受到损失，也许反而因此得到好处；也指坏事在一定条件下可以变成好事，反之亦然。"
     },
+    "equivalents": [
+      "a blessing in disguise",
+      "every cloud has a silver lining"
+    ],
     "examples": [
       {
         "zh": "虽然没被那所大学录取，但他在现在的学校遇到了最好的导师，真是塞翁失马，焉知非福。",
@@ -417,7 +588,9 @@
       "en": "Usually in the full saying 塞翁失马，焉知非福 \"how do you know it isn't a blessing?\". Used to comfort someone after a setback. 塞 is read sài here, not sāi or sè.",
       "zh": "常说\"塞翁失马，焉知非福\"，多用于安慰遭遇挫折的人。\"塞\"在这里读 sài。"
     },
-    "synonyms": ["因祸得福"],
+    "synonyms": [
+      "因祸得福"
+    ],
     "antonyms": []
   },
   {
@@ -428,12 +601,20 @@
     "frequency": 1,
     "sentiment": "positive",
     "register": "casual",
-    "themes": ["freedom", "emotions"],
-    "literal": "Free and at ease by oneself",
+    "themes": [
+      "freedom",
+      "relaxation-and-rest"
+    ],
+    "literal": "self · follow · self · at ease",
+    "natural": "Free and at ease, following one's own will",
     "meaning": {
       "en": "Free and unrestrained; carefree; doing as one pleases.",
       "zh": "形容没有约束，十分安闲随意。"
     },
+    "equivalents": [
+      "free as a bird",
+      "footloose and fancy-free"
+    ],
     "examples": [
       {
         "zh": "退休以后，爷爷每天种花钓鱼，过得自由自在。",
@@ -448,7 +629,12 @@
       "en": "Very common in speech and writing. Predicate, complement (过得自由自在) or adverbial (自由自在地……). Pattern ABAC — note the repeated 自.",
       "zh": "口语、书面语都常用，可作谓语、补语、状语，如\"过得自由自在\"。ABAC 式结构。"
     },
-    "synonyms": ["无拘无束", "逍遥自在"],
-    "antonyms": ["身不由己"]
+    "synonyms": [
+      "无拘无束",
+      "逍遥自在"
+    ],
+    "antonyms": [
+      "身不由己"
+    ]
   }
 ]

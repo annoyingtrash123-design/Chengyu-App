@@ -145,6 +145,61 @@ function chipGroup<T>(values: T[], selected: T[], text: (v: T) => string, onTogg
   return wrap;
 }
 
+/** Broad themes as chips; each selected or expanded broad theme shows its detailed themes. */
+function themePicker(f: Filters) {
+  const meta = state.meta!;
+  const groups = meta.themes.filter((x) => !x.group);
+  const children = (g: string) => meta.themes.filter((x) => x.group === g);
+  const open = new Set(groups.filter((g) => f.themes.includes(g.id) || children(g.id).some((c) => f.themes.includes(c.id))).map((g) => g.id));
+  const wrap = h("div", { class: "theme-picker" });
+  const toggle = (id: string) => {
+    f.themes = f.themes.includes(id) ? f.themes.filter((x) => x !== id) : [...f.themes, id];
+  };
+  const draw = () =>
+    clear(
+      wrap,
+      groups.map((g) => {
+        const kids = children(g.id);
+        const selectedKids = kids.filter((c) => f.themes.includes(c.id)).length;
+        return h(
+          "div",
+          { class: "theme-group" },
+          h(
+            "div",
+            { class: "theme-group-row" },
+            h(
+              "button",
+              { class: `chip ${f.themes.includes(g.id) ? "on" : ""}`, onclick: () => { toggle(g.id); draw(); } },
+              themeLabel(g.id),
+            ),
+            kids.length
+              ? h(
+                  "button",
+                  {
+                    class: "chip small expander",
+                    "aria-expanded": String(open.has(g.id)),
+                    onclick: () => { open.has(g.id) ? open.delete(g.id) : open.add(g.id); draw(); },
+                  },
+                  `${open.has(g.id) ? "▾" : "▸"} ${kids.length}${selectedKids ? ` · ${selectedKids}✓` : ""}`,
+                )
+              : null,
+          ),
+          open.has(g.id)
+            ? h(
+                "div",
+                { class: "chip-group theme-children" },
+                kids.map((c) =>
+                  h("button", { class: `chip small ${f.themes.includes(c.id) ? "on" : ""}`, onclick: () => { toggle(c.id); draw(); } }, themeLabel(c.id)),
+                ),
+              )
+            : null,
+        );
+      }),
+    );
+  draw();
+  return wrap;
+}
+
 function section(title: string, ...body: (Node | null)[]) {
   return h("section", { class: "sheet-section" }, h("h3", null, title), ...body);
 }
@@ -187,11 +242,7 @@ export function openFilterSheet(initial: Filters, onApply: (f: Filters) => void)
       t("类型", "Type"),
       chipGroup<Kind>(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"], f.kinds, (k) => `${label(KIND_LABEL[k])} (${meta.kinds[k]})`, (v) => (f.kinds = v)),
     ),
-    section(
-      t("主题", "Theme"),
-      chipGroup(meta.themes.map((x) => x.id), f.themes, themeLabel, (v) => (f.themes = v)),
-      h("div", { class: "sheet-note" }, themesAll),
-    ),
+    section(t("主题", "Theme"), themePicker(f), h("div", { class: "sheet-note" }, themesAll)),
     section(t("字数", "Characters"), chipGroup([3, 4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), (v) => (f.lengths = v))),
     section(t("结构", "Pattern"), chipGroup(meta.structures, f.structures, (s) => s, (v) => (f.structures = v))),
     section(

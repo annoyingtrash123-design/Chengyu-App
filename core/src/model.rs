@@ -78,9 +78,17 @@ pub struct Entry {
     pub register: Register,
     #[serde(default)]
     pub themes: Vec<String>,
-    /// Word-for-word meaning in English.
+    /// Word-by-word gloss, e.g. "draw · snake · add · foot".
     pub literal: String,
+    /// The literal image in natural English, e.g. "Drawing a snake and adding feet to it".
+    #[serde(default)]
+    pub natural: String,
+    /// Explanation of what it means, in English and Chinese.
     pub meaning: Bilingual,
+    /// English idioms with the same meaning, often using a different image
+    /// (画蛇添足 → "gild the lily").
+    #[serde(default)]
+    pub equivalents: Vec<String>,
     #[serde(default)]
     pub examples: Vec<Example>,
     #[serde(default)]

@@ -7,12 +7,22 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "casual",
-    "themes": ["animals", "conduct", "relationships"],
-    "literal": "Pat the horse's backside",
+    "themes": [
+      "animals",
+      "negative-character-flaws",
+      "leadership-and-authority"
+    ],
+    "literal": "pat · horse · backside",
+    "natural": "Patting the horse's backside",
     "meaning": {
-      "en": "To suck up to someone; to flatter shamelessly; to brown-nose.",
+      "en": "To flatter someone shamelessly to win favour.",
       "zh": "比喻谄媚奉承，讨好别人。"
     },
+    "equivalents": [
+      "suck up to",
+      "butter someone up",
+      "brown-nose"
+    ],
     "examples": [
       {
         "zh": "他整天拍老板的马屁，同事们都看不惯。",
@@ -34,8 +44,13 @@
       "en": "A separable verb-object phrase: 拍某人的马屁, 拍了半天马屁. Very colloquial and derogatory. A 马屁精 is a suck-up; 拍马屁拍到马腿上 is flattery that backfires.",
       "zh": "离合用法：\"拍某人的马屁\"\"拍了半天马屁\"。口语，含贬义。相关说法：\"马屁精\"\"拍马屁拍到马腿上\"。"
     },
-    "synonyms": ["阿谀奉承", "溜须拍马"],
-    "antonyms": ["直言不讳"]
+    "synonyms": [
+      "阿谀奉承",
+      "溜须拍马"
+    ],
+    "antonyms": [
+      "直言不讳"
+    ]
   },
   {
     "id": "zou-hou-men",
@@ -45,12 +60,20 @@
     "frequency": 1,
     "sentiment": "negative",
     "register": "casual",
-    "themes": ["society", "conduct"],
-    "literal": "Go through the back door",
+    "themes": [
+      "society",
+      "corruption-and-injustice"
+    ],
+    "literal": "walk · back · door",
+    "natural": "Going in through the back door",
     "meaning": {
-      "en": "To get something done through connections or influence rather than proper channels; to pull strings.",
+      "en": "To get something through connections or influence rather than proper channels.",
       "zh": "比喻通过托人情、拉关系等不正当途径达到目的。"
     },
+    "equivalents": [
+      "pull strings",
+      "it's not what you know, it's who you know"
+    ],
     "examples": [
       {
         "zh": "他靠走后门进了这家公司，大家都不服气。",
@@ -65,7 +88,12 @@
       "en": "Separable: 走了后门, 走他的后门. Used of jobs, school places, permits and so on obtained through 关系 (connections). Critical. The person granting the favour 开后门 (\"opens the back door\").",
       "zh": "离合用法：\"走了后门\"\"走他的后门\"。含贬义。给人方便的一方叫\"开后门\"。"
     },
-    "synonyms": ["拉关系", "托关系"],
-    "antonyms": ["公事公办"]
+    "synonyms": [
+      "拉关系",
+      "托关系"
+    ],
+    "antonyms": [
+      "公事公办"
+    ]
   }
 ]

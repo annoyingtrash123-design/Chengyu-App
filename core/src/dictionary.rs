@@ -16,6 +16,9 @@ pub struct Theme {
     pub id: String,
     pub en: String,
     pub zh: String,
+    /// Broad theme this detailed theme belongs to. `None` for the broad themes themselves.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub group: Option<String>,
 }
 
 /// Pre-computed search keys for one entry.
@@ -35,6 +38,8 @@ pub struct Dictionary {
     by_id: HashMap<String, usize>,
     by_text: HashMap<String, usize>,
     pub themes: Vec<Theme>,
+    /// Detailed theme id → its broad theme id.
+    theme_group: HashMap<String, String>,
 }
 
 /// Overlapping filters. An empty list means "no restriction".
@@ -126,8 +131,14 @@ impl Dictionary {
         let keys = entries
             .iter()
             .map(|e| {
-                let english_text =
-                    format!("{} {}", e.literal, e.meaning.en).to_lowercase();
+                let english_text = format!(
+                    "{} {} {} {}",
+                    e.literal.replace('·', " "),
+                    e.natural,
+                    e.meaning.en,
+                    e.equivalents.join(" ")
+                )
+                .to_lowercase();
                 Keys {
                     chars: e.chars(),
                     pinyin_toned: pinyin::compact(&e.pinyin),
@@ -140,7 +151,11 @@ impl Dictionary {
             .collect();
         let by_id = entries.iter().enumerate().map(|(i, e)| (e.id.clone(), i)).collect();
         let by_text = entries.iter().enumerate().map(|(i, e)| (e.text.clone(), i)).collect();
-        Dictionary { entries, keys, by_id, by_text, themes }
+        let theme_group = themes
+            .iter()
+            .filter_map(|t| t.group.clone().map(|g| (t.id.clone(), g)))
+            .collect();
+        Dictionary { entries, keys, by_id, by_text, themes, theme_group }
     }
 
     pub fn entries(&self) -> &[Entry] {
@@ -163,6 +178,12 @@ impl Dictionary {
         self.by_text.get(text).map(|&i| &self.entries[i])
     }
 
+    /// Is the entry tagged with `theme`, either directly or through one of
+    /// that broad theme's detailed themes?
+    pub fn has_theme(&self, e: &Entry, theme: &str) -> bool {
+        e.themes.iter().any(|t| t == theme || self.theme_group.get(t).is_some_and(|g| g == theme))
+    }
+
     /// Does the entry pass every filter?
     pub fn matches(&self, e: &Entry, f: &Filters, user: &UserData) -> bool {
         let any_or_empty = |list_empty: bool, hit: bool| list_empty || hit;
@@ -170,9 +191,9 @@ impl Dictionary {
         any_or_empty(f.kinds.is_empty(), f.kinds.contains(&e.kind))
             && (f.themes.is_empty()
                 || if f.themes_all {
-                    f.themes.iter().all(|t| e.themes.contains(t))
+                    f.themes.iter().all(|t| self.has_theme(e, t))
                 } else {
-                    f.themes.iter().any(|t| e.themes.contains(t))
+                    f.themes.iter().any(|t| self.has_theme(e, t))
                 })
             && any_or_empty(
                 f.lengths.is_empty(),
@@ -347,9 +368,11 @@ mod tests {
     fn searches_by_english() {
         let d = dict();
         assert_eq!(top(&d, "snake feet"), "画蛇添足");
-        assert_eq!(top(&d, "unnecessary"), "画蛇添足");
+        // English equivalents are searchable too.
+        assert_eq!(top(&d, "gild the lily"), "画蛇添足");
+        assert_eq!(top(&d, "blessing in disguise"), "塞翁失马");
         // Typo tolerance.
-        assert_eq!(top(&d, "unecessary"), "画蛇添足");
+        assert_eq!(top(&d, "blesing disguise"), "塞翁失马");
     }
 
     #[test]
@@ -362,12 +385,28 @@ mod tests {
         for h in &hits {
             let e = &d.entries()[h.index];
             assert_eq!(e.kind, Kind::Chengyu);
-            assert!(e.themes.contains(&"animals".to_string()));
+            assert!(d.has_theme(e, "animals"));
         }
         let f = Filters { lengths: vec![3], ..Default::default() };
         assert!(d.search("", &f, &u).iter().all(|h| d.entries()[h.index].length() == 3));
         let f = Filters { structures: vec!["ABAC".into()], ..Default::default() };
         assert!(d.search("", &f, &u).iter().any(|h| d.entries()[h.index].text == "自由自在"));
+    }
+
+    #[test]
+    fn broad_theme_includes_detailed_themes() {
+        let themes = vec![
+            Theme { id: "animals".into(), en: "Animals".into(), zh: "动物".into(), group: None },
+            Theme { id: "fables".into(), en: "Fables".into(), zh: "寓言".into(), group: Some("animals".into()) },
+        ];
+        let mut e = Dictionary::embedded().entries()[0].clone();
+        e.themes = vec!["fables".into()];
+        let d = Dictionary::new(vec![e], themes);
+        let u = UserData::default();
+        let by = |t: &str| d.search("", &Filters { themes: vec![t.into()], ..Default::default() }, &u).len();
+        assert_eq!(by("animals"), 1);
+        assert_eq!(by("fables"), 1);
+        assert_eq!(by("other"), 0);
     }
 
     #[test]

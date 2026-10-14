@@ -94,8 +94,29 @@ function draw(root: HTMLElement, d: EntryDetail) {
         badge(`${s.length}字${s.structure && s.length <= 4 ? ` · ${s.structure}` : ""}`, "len"),
       ),
     ),
-    showEn ? h("section", { class: "card" }, h("h3", null, "字面 Literal"), h("p", { class: "en" }, e.literal)) : null,
-    h("section", { class: "card" }, h("h3", null, en() ? "释义 Meaning" : "释义"), bi(e.meaning)),
+    showEn
+      ? h(
+          "section",
+          { class: "card" },
+          h("h3", null, "字面 Literally"),
+          h("p", { class: "gloss" }, e.literal),
+          h("p", null, e.natural),
+        )
+      : null,
+    h(
+      "section",
+      { class: "card" },
+      h("h3", null, en() ? "释义 Meaning" : "释义"),
+      bi(e.meaning),
+      showEn && e.equivalents.length
+        ? h(
+            "div",
+            { class: "equivalents" },
+            h("span", { class: "links-title" }, "English equivalents"),
+            e.equivalents.map((q) => h("span", { class: "chip equiv" }, q)),
+          )
+        : null,
+    ),
     h(
       "section",
       { class: "card" },

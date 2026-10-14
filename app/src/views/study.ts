@@ -13,7 +13,7 @@ export function deckPicker(onChange: (d: Deck) => void, initial: Deck = { type: 
     ...(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase"] as Kind[]).map(
       (k) => [`kind:${k}`, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }] as [string, string, Deck],
     ),
-    ...(state.meta?.themes ?? []).map(
+    ...(state.meta?.themes ?? []).filter((t) => !t.group).map(
       (t) => [`theme:${t.id}`, `${en() ? "Theme" : "主题"}: ${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }] as [string, string, Deck],
     ),
   ];

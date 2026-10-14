@@ -38,7 +38,9 @@ export interface Entry {
   register: Register;
   themes: string[];
   literal: string;
+  natural: string;
   meaning: Bilingual;
+  equivalents: string[];
   examples: { zh: string; en: string }[];
   origin: { source: string; story: Bilingual } | null;
   usage: Bilingual;
@@ -75,6 +77,8 @@ export interface Theme {
   id: string;
   en: string;
   zh: string;
+  /** Broad theme this detailed theme belongs to; absent for broad themes. */
+  group?: string;
 }
 
 export interface Meta {
