@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "tou-ji-qu-qiao",
+    "text": "投机取巧",
+    "pinyin": "tóu jī qǔ qiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "seize · chance · take · trick",
+    "natural": "look for shortcuts",
+    "meaning": {
+      "en": "To use tricks and opportunism instead of honest hard work.",
+      "zh": "利用时机和不正当的手段谋取私利，也指不肯下苦功，靠小聪明办事。"
+    },
+    "equivalents": [
+      "take shortcuts",
+      "game the system",
+      "cut corners"
+    ],
+    "examples": [
+      {
+        "zh": "学习没有捷径，不能投机取巧。",
+        "en": "There are no shortcuts in learning — you can't game it."
+      },
+      {
+        "zh": "他靠投机取巧发了财，但好景不长。",
+        "en": "He got rich by playing the angles, but it didn't last."
+      },
+      {
+        "zh": "做实验要严谨，不能投机取巧。",
+        "en": "Experiments demand rigour, not shortcuts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "偷奸耍滑",
+      "走捷径"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "实事求是"
+    ]
+  },
+  {
+    "id": "xiao-ti-da-zuo",
+    "text": "小题大做",
+    "pinyin": "xiǎo tí dà zuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "small · topic · big · treat",
+    "natural": "make a mountain out of a molehill",
+    "meaning": {
+      "en": "To make a big fuss over a trivial matter.",
+      "zh": "拿小题目做大文章，比喻把小事当作大事来处理，有故意夸张的意思。"
+    },
+    "equivalents": [
+      "make a mountain out of a molehill",
+      "make a big deal of",
+      "a storm in a teacup"
+    ],
+    "examples": [
+      {
+        "zh": "不就是打碎一个杯子吗，何必小题大做？",
+        "en": "It's only a broken cup — why make such a fuss?"
+      },
+      {
+        "zh": "媒体对这件事有点小题大做了。",
+        "en": "The media made a bit of a mountain out of a molehill."
+      },
+      {
+        "zh": "别小题大做，孩子只是发烧了一点。",
+        "en": "Don't overreact — the child just has a slight temperature."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "大惊小怪",
+      "借题发挥"
+    ],
+    "antonyms": [
+      "轻描淡写"
+    ]
+  },
+  {
+    "id": "yue-fa-san-zhang",
+    "text": "约法三章",
+    "pinyin": "yuē fǎ sān zhāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "historical-records"
+    ],
+    "literal": "agree · law · three · articles",
+    "natural": "lay down a few simple rules",
+    "meaning": {
+      "en": "To agree on a few simple rules in advance.",
+      "zh": "原指订立三条法律，后泛指事先订立简单的条款，共同遵守。"
+    },
+    "equivalents": [
+      "lay down the ground rules",
+      "set a few rules",
+      "agree terms up front"
+    ],
+    "examples": [
+      {
+        "zh": "给孩子买手机前，我和他约法三章。",
+        "en": "Before buying my son a phone, I laid down a few ground rules."
+      },
+      {
+        "zh": "合租之前大家约法三章，避免日后闹矛盾。",
+        "en": "Before sharing the flat we agreed some rules to avoid rows later."
+      },
+      {
+        "zh": "新领导上任，先与班子成员约法三章。",
+        "en": "The new head began by setting ground rules with the leadership team."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》",
+      "story": {
+        "en": "On entering Xianyang, Liu Bang abolished Qin's harsh laws and made a pact with the elders on just three laws: murderers die; those who injure or steal are punished accordingly.",
+        "zh": "《史记·高祖本纪》：“与父老约，法三章耳：杀人者死，伤人及盗抵罪。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 与/和某人约法三章.",
+      "zh": "多作谓语，常说“和……约法三章”。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "bu-xie-yi-gu",
+    "text": "不屑一顾",
+    "pinyin": "bù xiè yī gù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "not · deign · one · glance",
+    "natural": "not deign to look at",
+    "meaning": {
+      "en": "To consider something not worth a glance.",
+      "zh": "认为不值得一看，形容极端轻视。"
+    },
+    "equivalents": [
+      "turn one's nose up at",
+      "not give the time of day",
+      "dismiss out of hand"
+    ],
+    "examples": [
+      {
+        "zh": "他对这些小生意不屑一顾。",
+        "en": "He turns his nose up at small-scale business."
+      },
+      {
+        "zh": "对于别人的批评，她总是不屑一顾。",
+        "en": "She always dismisses criticism out of hand."
+      },
+      {
+        "zh": "专家们曾对这项发明不屑一顾。",
+        "en": "The experts once wouldn't give the invention a second look."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 对……不屑一顾.",
+      "zh": "多作谓语，常说“对……不屑一顾”。"
+    },
+    "synonyms": [
+      "嗤之以鼻",
+      "不以为然",
+      "视若无睹"
+    ],
+    "antonyms": [
+      "刮目相看",
+      "爱不释手"
+    ]
+  },
+  {
+    "id": "zi-yuan-qi-shuo",
+    "text": "自圆其说",
+    "pinyin": "zì yuán qí shuō",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "self · round-off · one's · story",
+    "natural": "make one's story hang together",
+    "meaning": {
+      "en": "To make one's argument or story consistent; often negated: 无法自圆其说.",
+      "zh": "使自己的说法或论点圆满而没有漏洞。"
+    },
+    "equivalents": [
+      "make one's story hold water",
+      "justify one's claims",
+      "make it add up"
+    ],
+    "examples": [
+      {
+        "zh": "他的解释漏洞太多，根本无法自圆其说。",
+        "en": "His explanation was full of holes and simply didn't hold water."
+      },
+      {
+        "zh": "论文的观点要能自圆其说。",
+        "en": "A thesis's argument must be internally consistent."
+      },
+      {
+        "zh": "嫌疑人编了很多理由，却始终不能自圆其说。",
+        "en": "The suspect came up with all kinds of excuses but couldn't make his story add up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 无法/难以/不能自圆其说.",
+      "zh": "多作谓语，常说“无法自圆其说”。"
+    },
+    "synonyms": [
+      "无懈可击"
+    ],
+    "antonyms": [
+      "自相矛盾",
+      "漏洞百出",
+      "前后矛盾"
+    ]
+  },
+  {
+    "id": "ren-jin-qi-cai",
+    "text": "人尽其才",
+    "pinyin": "rén jìn qí cái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "leadership-and-authority"
+    ],
+    "literal": "people · use-fully · their · talent",
+    "natural": "every talent put to use",
+    "meaning": {
+      "en": "Everyone's abilities are fully used.",
+      "zh": "每个人都能充分发挥自己的才能。"
+    },
+    "equivalents": [
+      "make the most of everyone's talents",
+      "the right person in the right job"
+    ],
+    "examples": [
+      {
+        "zh": "好的管理就是要让人尽其才。",
+        "en": "Good management means putting every talent to full use."
+      },
+      {
+        "zh": "要营造人尽其才的环境，留住年轻人。",
+        "en": "We must create an environment where everyone's talents are used, so young people stay."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often with 物尽其用.",
+      "zh": "多作谓语、定语，常与“物尽其用”连用。"
+    },
+    "synonyms": [
+      "知人善任",
+      "物尽其用"
+    ],
+    "antonyms": [
+      "大材小用",
+      "怀才不遇"
+    ]
+  },
+  {
+    "id": "ying-lai-song-wang",
+    "text": "迎来送往",
+    "pinyin": "yíng lái sòng wǎng",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "送往迎来"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "news-and-officialese",
+      "polite-humble"
+    ],
+    "literal": "welcome · coming · see-off · going",
+    "natural": "receiving and seeing off guests",
+    "meaning": {
+      "en": "Welcoming arrivals and seeing off departures; official hospitality (often criticised as wasteful).",
+      "zh": "迎接来的，送走去的，泛指接待应酬，常指官场的接待应酬。"
+    },
+    "equivalents": [
+      "wining and dining",
+      "official receptions",
+      "meeting and greeting"
+    ],
+    "examples": [
+      {
+        "zh": "酒店前台每天迎来送往，十分忙碌。",
+        "en": "The hotel front desk is busy meeting and greeting guests all day."
+      },
+      {
+        "zh": "要减少不必要的迎来送往。",
+        "en": "Unnecessary official receptions must be cut back."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; in official discourse often negative.",
+      "zh": "多作谓语、宾语，在公文中多含贬义。"
+    },
+    "synonyms": [
+      "礼尚往来"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "cai-da-qi-cu",
+    "text": "财大气粗",
+    "pinyin": "cái dà qì cū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "luxury-and-extravagance",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "wealth · big · manner · coarse",
+    "natural": "flaunting one's money",
+    "meaning": {
+      "en": "Rich and therefore arrogant and overbearing.",
+      "zh": "钱财多，气派大，形容仗着钱财多而气势凌人。"
+    },
+    "equivalents": [
+      "throw one's money around",
+      "flash with cash",
+      "deep-pocketed"
+    ],
+    "examples": [
+      {
+        "zh": "那家公司财大气粗，一出手就是几个亿。",
+        "en": "That company has deep pockets — it splashes out hundreds of millions at a time."
+      },
+      {
+        "zh": "他仗着自己财大气粗，看不起别人。",
+        "en": "He looks down on others because he's rolling in money."
+      },
+      {
+        "zh": "这支球队财大气粗，引进了好几位球星。",
+        "en": "The club threw its money around and signed several stars."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "腰缠万贯",
+      "仗势欺人"
+    ],
+    "antonyms": [
+      "一贫如洗",
+      "囊中羞涩"
+    ]
+  },
+  {
+    "id": "cong-rong-ying-dui",
+    "text": "从容应对",
+    "pinyin": "cóng róng yìng duì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "adaptability"
+    ],
+    "literal": "calm · composed · respond · handle",
+    "natural": "handle calmly",
+    "meaning": {
+      "en": "To deal with something calmly and composedly.",
+      "zh": "不慌不忙地应付和处理。"
+    },
+    "equivalents": [
+      "take in one's stride",
+      "handle with composure",
+      "keep a cool head"
+    ],
+    "examples": [
+      {
+        "zh": "面对记者的提问，他从容应对。",
+        "en": "He handled the reporters' questions with composure."
+      },
+      {
+        "zh": "只要准备充分，就能从容应对考试。",
+        "en": "If you prepare well, you can take the exam in your stride."
+      },
+      {
+        "zh": "政府从容应对了这场危机。",
+        "en": "The government dealt calmly with the crisis."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "从容不迫",
+      "泰然处之",
+      "游刃有余"
+    ],
+    "antonyms": [
+      "手忙脚乱",
+      "惊慌失措",
+      "措手不及"
+    ]
+  },
+  {
+    "id": "sui-bo-zhu-liu",
+    "text": "随波逐流",
+    "pinyin": "suí bō zhú liú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation"
+    ],
+    "literal": "follow · waves · chase · current",
+    "natural": "go with the flow",
+    "meaning": {
+      "en": "To drift with the tide; to follow the crowd without a mind of one's own.",
+      "zh": "随着波浪起伏，跟着流水漂荡，比喻没有主见，跟着别人走。"
+    },
+    "equivalents": [
+      "go with the flow",
+      "follow the herd",
+      "drift along"
+    ],
+    "examples": [
+      {
+        "zh": "年轻人要有自己的主见，不能随波逐流。",
+        "en": "Young people should think for themselves, not just follow the herd."
+      },
+      {
+        "zh": "他这辈子一直随波逐流，没什么追求。",
+        "en": "He's drifted through life without any real ambition."
+      },
+      {
+        "zh": "在投资上随波逐流，往往会吃亏。",
+        "en": "Following the crowd in investing usually costs you."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "人云亦云",
+      "随声附和"
+    ],
+    "antonyms": [
+      "特立独行",
+      "力争上游",
+      "中流砥柱"
+    ]
+  },
+  {
+    "id": "wang-zi-cheng-long",
+    "text": "望子成龙",
+    "pinyin": "wàng zǐ chéng lóng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "parenting-and-family"
+    ],
+    "literal": "hope · son · become · dragon",
+    "natural": "hope one's child will go far",
+    "meaning": {
+      "en": "Of parents, to hope one's child will become a great success.",
+      "zh": "盼望儿子成为杰出的人才。"
+    },
+    "equivalents": [
+      "have high hopes for one's child",
+      "tiger parenting",
+      "pushy parents"
+    ],
+    "examples": [
+      {
+        "zh": "天下父母都望子成龙。",
+        "en": "All parents hope their children will do great things."
+      },
+      {
+        "zh": "望子成龙的心情可以理解，但不能给孩子太大压力。",
+        "en": "It's natural to have high hopes for your child, but don't pile on the pressure."
+      },
+      {
+        "zh": "他父亲望子成龙，从小就让他学钢琴。",
+        "en": "His father had big plans for him and started him on piano as a toddler."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often paired with 望女成凤.",
+      "zh": "多作谓语、定语，常与“望女成凤”连用。"
+    },
+    "synonyms": [
+      "望女成凤"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ji-mao-suan-pi",
+    "text": "鸡毛蒜皮",
+    "pinyin": "jī máo suàn pí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "common-and-worthless"
+    ],
+    "literal": "chicken · feathers · garlic · skin",
+    "natural": "trivial matters",
+    "meaning": {
+      "en": "Trivial, petty matters.",
+      "zh": "比喻无关紧要的琐碎小事。"
+    },
+    "equivalents": [
+      "trivialities",
+      "petty stuff",
+      "small potatoes"
+    ],
+    "examples": [
+      {
+        "zh": "夫妻俩常为鸡毛蒜皮的小事吵架。",
+        "en": "The couple often quarrel over trivial things."
+      },
+      {
+        "zh": "别为这点鸡毛蒜皮的事生气。",
+        "en": "Don't get upset over such petty stuff."
+      },
+      {
+        "zh": "经理不该管这些鸡毛蒜皮的事。",
+        "en": "A manager shouldn't bother with trivia like this."
+      }
+    ],
+    "usage": {
+      "en": "Attributive (鸡毛蒜皮的小事) or object.",
+      "zh": "多作定语，常说“鸡毛蒜皮的小事”。"
+    },
+    "synonyms": [
+      "芝麻绿豆",
+      "微不足道"
+    ],
+    "antonyms": [
+      "头等大事",
+      "举足轻重"
+    ]
+  },
+  {
+    "id": "su-ran-qi-jing",
+    "text": "肃然起敬",
+    "pinyin": "sù rán qǐ jìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "complex-emotional-states"
+    ],
+    "literal": "solemnly · so · rise · respect",
+    "natural": "be filled with respect",
+    "meaning": {
+      "en": "To be filled with deep respect.",
+      "zh": "形容产生严肃敬仰的感情。"
+    },
+    "equivalents": [
+      "be filled with admiration",
+      "feel deep respect",
+      "be awed"
+    ],
+    "examples": [
+      {
+        "zh": "听了老兵的故事，大家肃然起敬。",
+        "en": "Hearing the veteran's story, everyone was filled with respect."
+      },
+      {
+        "zh": "她几十年如一日照顾病人，令人肃然起敬。",
+        "en": "Her decades of caring for patients command deep respect."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 令人/让人肃然起敬.",
+      "zh": "多作谓语，常说“令人肃然起敬”。"
+    },
+    "synonyms": [
+      "五体投地",
+      "毕恭毕敬"
+    ],
+    "antonyms": [
+      "嗤之以鼻",
+      "不屑一顾"
+    ]
+  },
+  {
+    "id": "gong-ping-jiao-yi",
+    "text": "公平交易",
+    "pinyin": "gōng píng jiāo yì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality"
+    ],
+    "literal": "fair · even · trade · exchange",
+    "natural": "fair trade",
+    "meaning": {
+      "en": "Fair dealing; trade on equal terms.",
+      "zh": "买卖双方公平地进行交易。"
+    },
+    "equivalents": [
+      "fair trade",
+      "a fair deal",
+      "fair dealing"
+    ],
+    "examples": [
+      {
+        "zh": "我们一贯坚持公平交易、诚信经营。",
+        "en": "We have always stood for fair trading and honest business."
+      },
+      {
+        "zh": "这是公平交易，谁也不吃亏。",
+        "en": "It's a fair deal — no one loses out."
+      },
+      {
+        "zh": "监管部门要维护公平交易秩序。",
+        "en": "Regulators must uphold fair market practice."
+      }
+    ],
+    "usage": {
+      "en": "Subject, object or predicate.",
+      "zh": "多作主语、宾语、谓语。"
+    },
+    "synonyms": [
+      "买卖公平",
+      "童叟无欺"
+    ],
+    "antonyms": [
+      "欺行霸市",
+      "强买强卖"
+    ]
+  },
+  {
+    "id": "yin-ye-fei-shi",
+    "text": "因噎废食",
+    "pinyin": "yīn yē fèi shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "natural-consequences"
+    ],
+    "literal": "because-of · choking · abandon · eating",
+    "natural": "throw the baby out with the bathwater",
+    "meaning": {
+      "en": "To give something up entirely because of a minor setback or risk.",
+      "zh": "因为吃饭噎住，就不再吃饭，比喻因怕出问题而索性不干。"
+    },
+    "equivalents": [
+      "throw the baby out with the bathwater",
+      "give up because of one setback"
+    ],
+    "examples": [
+      {
+        "zh": "不能因为怕孩子摔跤就不让他学走路，那是因噎废食。",
+        "en": "Not letting a child learn to walk in case he falls is throwing out the baby with the bathwater."
+      },
+      {
+        "zh": "网络有风险，但因此不上网就是因噎废食。",
+        "en": "The internet has risks, but staying offline because of them is an overreaction."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·荡兵》",
+      "story": {
+        "en": "Arguing against abolishing armies, the text says: 'Because someone choked to death, to forbid all the world from eating — that is absurd' (夫有以噎死者，欲禁天下之食，悖).",
+        "zh": "《吕氏春秋·荡兵》：“夫有以噎死者，欲禁天下之食，悖。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object; usually 不能因噎废食.",
+      "zh": "多作谓语、宾语，常说“不能因噎废食”。"
+    },
+    "synonyms": [
+      "削足适履"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ling-qi-lu-zao",
+    "text": "另起炉灶",
+    "pinyin": "lìng qǐ lú zào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "重起炉灶"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "innovation-and-progress",
+      "change"
+    ],
+    "literal": "separately · set-up · stove · hearth",
+    "natural": "start from scratch",
+    "meaning": {
+      "en": "To start afresh on one's own; to set up separately.",
+      "zh": "另外再支起炉灶，比喻重新做起或另立门户。"
+    },
+    "equivalents": [
+      "start from scratch",
+      "go it alone",
+      "set up on one's own"
+    ],
+    "examples": [
+      {
+        "zh": "和合伙人闹翻后，他另起炉灶开了新公司。",
+        "en": "After falling out with his partner, he went off and set up a new firm."
+      },
+      {
+        "zh": "原方案行不通，我们只能另起炉灶。",
+        "en": "The original plan won't work, so we'll have to start over."
+      },
+      {
+        "zh": "这位导演离开大公司，另起炉灶。",
+        "en": "The director left the big studio to go it alone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "另辟蹊径",
+      "推倒重来"
+    ],
+    "antonyms": [
+      "萧规曹随"
+    ]
+  },
+  {
+    "id": "da-po-chang-gui",
+    "text": "打破常规",
+    "pinyin": "dǎ pò cháng guī",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "innovation-and-progress"
+    ],
+    "literal": "break · smash · usual · rules",
+    "natural": "break the mould",
+    "meaning": {
+      "en": "To break with convention.",
+      "zh": "不按照通常的做法或规矩。"
+    },
+    "equivalents": [
+      "break the mould",
+      "think outside the box",
+      "break with convention"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司打破常规，取消了打卡制度。",
+        "en": "The company broke with convention and scrapped clocking in."
+      },
+      {
+        "zh": "打破常规，才能有所创新。",
+        "en": "Innovation means thinking outside the box."
+      },
+      {
+        "zh": "她打破常规，用游戏教数学。",
+        "en": "She broke the mould by teaching maths through games."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "不拘一格",
+      "别出心裁",
+      "标新立异"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "循规蹈矩",
+      "因循守旧"
+    ]
+  },
+  {
+    "id": "yin-shi-qi-ju",
+    "text": "饮食起居",
+    "pinyin": "yǐn shí qǐ jū",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "food",
+      "relaxation-and-rest"
+    ],
+    "literal": "drink · eat · rise · dwell",
+    "natural": "daily routine",
+    "meaning": {
+      "en": "Eating, drinking and daily living; one's daily routine.",
+      "zh": "泛指日常生活。"
+    },
+    "equivalents": [
+      "daily routine",
+      "day-to-day living",
+      "diet and lifestyle"
+    ],
+    "examples": [
+      {
+        "zh": "护工负责照顾老人的饮食起居。",
+        "en": "The carer looks after the elderly man's daily needs."
+      },
+      {
+        "zh": "他饮食起居很有规律。",
+        "en": "He keeps a very regular routine."
+      },
+      {
+        "zh": "医生说要注意饮食起居。",
+        "en": "The doctor said to watch my diet and lifestyle."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "衣食住行"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qing-huang-bu-jie",
+    "text": "青黄不接",
+    "pinyin": "qīng huáng bù jiē",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "farming-and-harvest"
+    ],
+    "literal": "green · yellow · not · meet",
+    "natural": "a lean gap",
+    "meaning": {
+      "en": "The gap before the new crop ripens when the old one is used up; by extension, a gap in succession.",
+      "zh": "旧粮已经吃完，新粮尚未成熟，比喻人才、物力等暂时中断，接续不上。"
+    },
+    "equivalents": [
+      "a lean spell",
+      "a gap in succession",
+      "between harvests"
+    ],
+    "examples": [
+      {
+        "zh": "过去每到春天青黄不接，农民就要借粮。",
+        "en": "In the old days, villagers had to borrow grain in the lean spring months."
+      },
+      {
+        "zh": "球队老将退役，新人还没成长，出现了青黄不接的局面。",
+        "en": "With the veterans retired and new players not ready, the team faces a gap in talent."
+      },
+      {
+        "zh": "这个行业人才青黄不接。",
+        "en": "The industry has no one coming through to replace the old guard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "后继无人",
+      "捉襟见肘"
+    ],
+    "antonyms": [
+      "后继有人",
+      "丰衣足食"
+    ]
+  },
+  {
+    "id": "tian-ya-hai-jiao",
+    "text": "天涯海角",
+    "pinyin": "tiān yá hǎi jiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "海角天涯"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "sky · edge · sea · corner",
+    "natural": "the ends of the earth",
+    "meaning": {
+      "en": "The remotest corners of the earth.",
+      "zh": "形容极远的地方或彼此相隔极远。"
+    },
+    "equivalents": [
+      "the ends of the earth",
+      "the four corners of the world",
+      "far and wide"
+    ],
+    "examples": [
+      {
+        "zh": "无论你走到天涯海角，我都会找到你。",
+        "en": "Wherever you go, to the ends of the earth, I'll find you."
+      },
+      {
+        "zh": "毕业后，同学们各奔天涯海角。",
+        "en": "After graduation, classmates scattered to the four corners of the world."
+      },
+      {
+        "zh": "海南三亚有个景点就叫“天涯海角”。",
+        "en": "There's a sight in Sanya, Hainan, actually called 'The Ends of the Earth'."
+      }
+    ],
+    "usage": {
+      "en": "Object or adverbial.",
+      "zh": "多作宾语、状语。"
+    },
+    "synonyms": [
+      "五湖四海",
+      "天南海北"
+    ],
+    "antonyms": [
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "yu-wu-lun-ci",
+    "text": "语无伦次",
+    "pinyin": "yǔ wú lún cì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "confusion"
+    ],
+    "literal": "words · without · order · sequence",
+    "natural": "incoherent",
+    "meaning": {
+      "en": "Speaking incoherently, without order or logic.",
+      "zh": "话说得很乱，没有条理。"
+    },
+    "equivalents": [
+      "incoherent",
+      "babble",
+      "not make sense"
+    ],
+    "examples": [
+      {
+        "zh": "他紧张得语无伦次。",
+        "en": "He was so nervous he couldn't string a sentence together."
+      },
+      {
+        "zh": "老人受了惊吓，说话语无伦次。",
+        "en": "Shaken, the old man spoke incoherently."
+      },
+      {
+        "zh": "喝醉以后，他开始语无伦次。",
+        "en": "Once drunk, he started babbling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "前言不搭后语",
+      "颠三倒四"
+    ],
+    "antonyms": [
+      "条理分明",
+      "有条不紊",
+      "头头是道"
+    ]
+  },
+  {
+    "id": "jian-zai-xian-shang",
+    "text": "箭在弦上",
+    "pinyin": "jiàn zài xián shàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "箭在弦上，不得不发"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger"
+    ],
+    "literal": "arrow · on · string · above",
+    "natural": "past the point of no return",
+    "meaning": {
+      "en": "Like an arrow on the drawn bowstring: the action is bound to happen and can't be stopped.",
+      "zh": "箭已搭在弦上，比喻事情已到了不得不做的时候。"
+    },
+    "equivalents": [
+      "past the point of no return",
+      "the die is cast",
+      "no turning back"
+    ],
+    "examples": [
+      {
+        "zh": "比赛箭在弦上，现在说放弃已经太晚了。",
+        "en": "The match is about to start; it's too late to pull out now."
+      },
+      {
+        "zh": "项目箭在弦上，不得不发。",
+        "en": "The project has passed the point of no return."
+      },
+      {
+        "zh": "谈判破裂，战争已是箭在弦上。",
+        "en": "With talks collapsed, war was imminent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 箭在弦上，不得不发.",
+      "zh": "多作谓语，常说“箭在弦上，不得不发”。"
+    },
+    "synonyms": [
+      "势在必行",
+      "一触即发",
+      "骑虎难下"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "she-jin-qiu-yuan",
+    "text": "舍近求远",
+    "pinyin": "shě jìn qiú yuǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "abandon · near · seek · far",
+    "natural": "look far for what is close at hand",
+    "meaning": {
+      "en": "To ignore what is at hand and seek something far away.",
+      "zh": "舍弃近的，追求远的，形容做事走弯路或不切实际。"
+    },
+    "equivalents": [
+      "look too far afield",
+      "overlook what's under one's nose",
+      "go the long way round"
+    ],
+    "examples": [
+      {
+        "zh": "家门口就有好学校，何必舍近求远？",
+        "en": "There's a good school on our doorstep — why look further afield?"
+      },
+      {
+        "zh": "公司内部就有人才，不必舍近求远去外面招。",
+        "en": "There's talent in-house; no need to recruit from outside."
+      },
+      {
+        "zh": "别舍近求远，答案就在课本里。",
+        "en": "Don't overlook what's in front of you — the answer is in the textbook."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "舍本逐末"
+    ],
+    "antonyms": [
+      "近水楼台"
+    ]
+  },
+  {
+    "id": "zhi-shen-shi-wai",
+    "text": "置身事外",
+    "pinyin": "zhì shēn shì wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "place · oneself · matter · outside",
+    "natural": "stay out of it",
+    "meaning": {
+      "en": "To keep oneself out of a matter.",
+      "zh": "把自己放在事情之外，毫不关心。"
+    },
+    "equivalents": [
+      "stay out of it",
+      "keep one's distance",
+      "stand aloof"
+    ],
+    "examples": [
+      {
+        "zh": "这件事关系到每个人，谁也不能置身事外。",
+        "en": "This affects everyone; no one can stay out of it."
+      },
+      {
+        "zh": "面对争吵，他选择置身事外。",
+        "en": "When the quarrel broke out, he kept out of it."
+      },
+      {
+        "zh": "在气候问题上，没有哪个国家能置身事外。",
+        "en": "No country can stand aloof from the climate issue."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 不能置身事外.",
+      "zh": "多作谓语，常说“不能置身事外”。"
+    },
+    "synonyms": [
+      "袖手旁观",
+      "隔岸观火",
+      "作壁上观"
+    ],
+    "antonyms": [
+      "挺身而出",
+      "身临其境"
+    ]
+  },
+  {
+    "id": "ju-gong-jin-cui",
+    "text": "鞠躬尽瘁",
+    "pinyin": "jū gōng jìn cuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "鞠躬尽瘁，死而后已"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "three-kingdoms",
+      "essay-favourites"
+    ],
+    "literal": "bow · body · exhaust · strength",
+    "natural": "give one's all",
+    "meaning": {
+      "en": "To devote oneself wholeheartedly, to the point of exhaustion.",
+      "zh": "恭敬谨慎，竭尽全力，贡献出一切。"
+    },
+    "equivalents": [
+      "give one's all",
+      "devote one's life to",
+      "work oneself to the bone"
+    ],
+    "examples": [
+      {
+        "zh": "老校长为教育事业鞠躬尽瘁。",
+        "en": "The old headmaster devoted his whole life to education."
+      },
+      {
+        "zh": "他鞠躬尽瘁，死而后已，深受人民爱戴。",
+        "en": "He gave his all until his dying day and was loved by the people."
+      }
+    ],
+    "origin": {
+      "source": "诸葛亮《后出师表》",
+      "story": {
+        "en": "In the Second Memorial on Sending Out the Troops, traditionally attributed to Zhuge Liang, he vows to serve the Shu state 'bowing in devotion and spending all my strength until death' (鞠躬尽瘁，死而后已; some texts read 尽力).",
+        "zh": "诸葛亮《后出师表》：“臣鞠躬尽瘁，死而后已。”（一作“鞠躬尽力”）"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 鞠躬尽瘁，死而后已.",
+      "zh": "多作谓语，常说“鞠躬尽瘁，死而后已”。"
+    },
+    "synonyms": [
+      "呕心沥血",
+      "兢兢业业",
+      "克己奉公"
+    ],
+    "antonyms": [
+      "敷衍塞责",
+      "敷衍了事"
+    ]
+  }
+]
