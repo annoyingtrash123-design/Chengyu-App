@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "liao-ru-zhi-zhang",
+    "text": "了如指掌",
+    "pinyin": "liǎo rú zhǐ zhǎng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "wisdom"
+    ],
+    "literal": "clear · as · pointing at · palm",
+    "natural": "know like the back of one's hand",
+    "meaning": {
+      "en": "To know something thoroughly.",
+      "zh": "对情况非常清楚，像指着手掌给人看一样。"
+    },
+    "equivalents": [
+      "know like the back of one's hand",
+      "know inside out"
+    ],
+    "examples": [
+      {
+        "zh": "他对这一带的地形了如指掌。",
+        "en": "He knows the terrain here like the back of his hand."
+      },
+      {
+        "zh": "老师对每个学生的情况了如指掌。",
+        "en": "The teacher knows every student inside out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually 对……了如指掌.",
+      "zh": "常说“对……了如指掌”。"
+    },
+    "synonyms": [
+      "如数家珍",
+      "一清二楚"
+    ],
+    "antonyms": [
+      "一无所知",
+      "一窍不通",
+      "茫然无知"
+    ]
+  },
+  {
+    "id": "li-li-zai-mu",
+    "text": "历历在目",
+    "pinyin": "lì lì zài mù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "memory-techniques",
+      "emotions"
+    ],
+    "literal": "distinct · distinct · before · eyes",
+    "natural": "as vivid as if it were yesterday",
+    "meaning": {
+      "en": "Vividly remembered, as if before one's eyes.",
+      "zh": "过去的事情清清楚楚地出现在眼前。"
+    },
+    "equivalents": [
+      "vivid in one's memory",
+      "as if it were yesterday"
+    ],
+    "examples": [
+      {
+        "zh": "童年的往事历历在目。",
+        "en": "Childhood memories are vivid before my eyes."
+      },
+      {
+        "zh": "那场比赛至今历历在目。",
+        "en": "That match is as vivid as if it were yesterday."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "记忆犹新",
+      "刻骨铭心"
+    ],
+    "antonyms": [
+      "过眼云烟",
+      "模模糊糊"
+    ]
+  },
+  {
+    "id": "xun-si-wang-fa",
+    "text": "徇私枉法",
+    "pinyin": "xùn sī wǎng fǎ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice",
+      "news-and-officialese"
+    ],
+    "literal": "favour · private · bend · law",
+    "natural": "bend the law for personal gain",
+    "meaning": {
+      "en": "To pervert justice for personal favour.",
+      "zh": "为了私情而歪曲和破坏法律。"
+    },
+    "equivalents": [
+      "pervert the course of justice",
+      "bend the law"
+    ],
+    "examples": [
+      {
+        "zh": "这名法官因徇私枉法被判刑。",
+        "en": "The judge was jailed for perverting the course of justice."
+      },
+      {
+        "zh": "执法人员决不能徇私枉法。",
+        "en": "Law enforcers must never bend the law for favours."
+      }
+    ],
+    "usage": {
+      "en": "Legal term.",
+      "zh": "法律用语。"
+    },
+    "synonyms": [
+      "贪赃枉法",
+      "徇情枉法",
+      "以权谋私"
+    ],
+    "antonyms": [
+      "秉公执法",
+      "铁面无私",
+      "公正廉洁"
+    ]
+  },
+  {
+    "id": "feng-yun-bian-huan",
+    "text": "风云变幻",
+    "pinyin": "fēng yún biàn huàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "change",
+      "danger"
+    ],
+    "literal": "wind · clouds · change · transform",
+    "natural": "rapidly changing",
+    "meaning": {
+      "en": "Rapidly and unpredictably changing (of situations).",
+      "zh": "像风云那样变化不定，比喻局势变化迅速。"
+    },
+    "equivalents": [
+      "volatile",
+      "ever-changing",
+      "turbulent"
+    ],
+    "examples": [
+      {
+        "zh": "国际局势风云变幻。",
+        "en": "The international situation is volatile."
+      },
+      {
+        "zh": "在风云变幻的市场中，企业要灵活应变。",
+        "en": "In a fast-changing market, firms must adapt."
+      }
+    ],
+    "usage": {
+      "en": "For politics, markets.",
+      "zh": "多指政治、市场形势。"
+    },
+    "synonyms": [
+      "瞬息万变",
+      "变幻莫测",
+      "千变万化"
+    ],
+    "antonyms": [
+      "一成不变",
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "gong-zheng-lian-jie",
+    "text": "公正廉洁",
+    "pinyin": "gōng zhèng lián jié",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "fair · upright · incorruptible",
+    "natural": "fair and incorruptible",
+    "meaning": {
+      "en": "Fair-minded and incorruptible.",
+      "zh": "公平正直，廉洁不贪。"
+    },
+    "equivalents": [
+      "fair and incorruptible",
+      "clean and impartial"
+    ],
+    "examples": [
+      {
+        "zh": "公务员应当公正廉洁。",
+        "en": "Civil servants should be fair and incorruptible."
+      },
+      {
+        "zh": "他办案公正廉洁，深受群众信任。",
+        "en": "He handles cases fairly and cleanly and is trusted by the public."
+      }
+    ],
+    "usage": {
+      "en": "Official language. Compare 清正廉洁.",
+      "zh": "官方用语，与“清正廉洁”相近。"
+    },
+    "synonyms": [
+      "秉公执法",
+      "两袖清风"
+    ],
+    "antonyms": [
+      "徇私枉法",
+      "贪污腐败"
+    ]
+  },
+  {
+    "id": "zhuo-zhuang-cheng-zhang",
+    "text": "茁壮成长",
+    "pinyin": "zhuó zhuàng chéng zhǎng",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "success",
+      "essay-favourites",
+      "festive-greetings"
+    ],
+    "literal": "sturdy · strong · grow up",
+    "natural": "thrive",
+    "meaning": {
+      "en": "To grow up strong and healthy.",
+      "zh": "强壮旺盛地成长。"
+    },
+    "equivalents": [
+      "thrive",
+      "grow up healthy and strong",
+      "flourish"
+    ],
+    "examples": [
+      {
+        "zh": "祝孩子们茁壮成长！",
+        "en": "May the children grow up healthy and strong!"
+      },
+      {
+        "zh": "小树苗在阳光下茁壮成长。",
+        "en": "The saplings are thriving in the sunshine."
+      }
+    ],
+    "usage": {
+      "en": "For children, plants, young enterprises. A common wish.",
+      "zh": "多用于儿童、植物、新生事物，也是祝福语。"
+    },
+    "synonyms": [
+      "欣欣向荣",
+      "蒸蒸日上"
+    ],
+    "antonyms": [
+      "奄奄一息",
+      "枯萎凋零"
+    ]
+  },
+  {
+    "id": "qian-si-wan-lu",
+    "text": "千丝万缕",
+    "pinyin": "qiān sī wàn lǚ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "chain-reactions"
+    ],
+    "literal": "thousand · threads · ten-thousand · strands",
+    "natural": "countless ties",
+    "meaning": {
+      "en": "Innumerable close connections.",
+      "zh": "千条丝，万条线，比喻相互之间种种密切的联系。"
+    },
+    "equivalents": [
+      "countless ties",
+      "intricately linked"
+    ],
+    "examples": [
+      {
+        "zh": "两家公司有着千丝万缕的联系。",
+        "en": "The two companies are intricately linked."
+      },
+      {
+        "zh": "他和家乡有千丝万缕的感情。",
+        "en": "He has countless emotional ties to his hometown."
+      }
+    ],
+    "usage": {
+      "en": "Usually 千丝万缕的联系.",
+      "zh": "常说“千丝万缕的联系”。"
+    },
+    "synonyms": [
+      "盘根错节",
+      "藕断丝连"
+    ],
+    "antonyms": [
+      "毫不相干",
+      "风马牛不相及"
+    ]
+  },
+  {
+    "id": "yi-bu-yi-ge-jiao-yin",
+    "text": "一步一个脚印",
+    "pinyin": "yī bù yī gè jiǎo yìn",
+    "kind": "guanyongyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "journeys-and-exploration"
+    ],
+    "literal": "one · step · one · footprint",
+    "natural": "step by solid step",
+    "meaning": {
+      "en": "Steady and solid, making real progress with each step.",
+      "zh": "比喻做事踏实。"
+    },
+    "equivalents": [
+      "step by step",
+      "steadily and surely"
+    ],
+    "examples": [
+      {
+        "zh": "学习要一步一个脚印，不能急于求成。",
+        "en": "Learning must go step by solid step, not in a rush."
+      },
+      {
+        "zh": "他一步一个脚印地走到了今天。",
+        "en": "He got where he is today one solid step at a time."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; praise for steady work.",
+      "zh": "作状语，称赞踏实。"
+    },
+    "synonyms": [
+      "脚踏实地",
+      "循序渐进",
+      "稳扎稳打"
+    ],
+    "antonyms": [
+      "好高骛远",
+      "一步登天",
+      "急于求成"
+    ]
+  },
+  {
+    "id": "fen-bu-gu-shen",
+    "text": "奋不顾身",
+    "pinyin": "fèn bù gù shēn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "positive-character-qualities",
+      "danger"
+    ],
+    "literal": "rush · not · care for · self",
+    "natural": "with no thought for one's own safety",
+    "meaning": {
+      "en": "Rushing forward heedless of personal danger.",
+      "zh": "奋勇向前，不顾生命危险。"
+    },
+    "equivalents": [
+      "selflessly",
+      "heroically",
+      "without hesitation"
+    ],
+    "examples": [
+      {
+        "zh": "他奋不顾身跳进河里救人。",
+        "en": "He leapt into the river without a thought for his own safety."
+      },
+      {
+        "zh": "消防员奋不顾身冲进火海。",
+        "en": "Firefighters charged heroically into the blaze."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; praise for heroism.",
+      "zh": "多作状语，称赞英勇。"
+    },
+    "synonyms": [
+      "舍生忘死",
+      "义无反顾",
+      "见义勇为"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "临阵脱逃",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "qing-miao-dan-xie",
+    "text": "轻描淡写",
+    "pinyin": "qīng miáo dàn xiě",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "arts"
+    ],
+    "literal": "light · trace · pale · write",
+    "natural": "play down",
+    "meaning": {
+      "en": "To touch on lightly; to downplay.",
+      "zh": "原指绘画时用浅淡的颜色轻轻描绘，现多指说话、写文章把重要问题轻轻带过。"
+    },
+    "equivalents": [
+      "play down",
+      "gloss over",
+      "make light of"
+    ],
+    "examples": [
+      {
+        "zh": "他轻描淡写地说起那次车祸。",
+        "en": "He spoke lightly about the car crash."
+      },
+      {
+        "zh": "报告对问题轻描淡写。",
+        "en": "The report glosses over the problems."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "一笔带过",
+      "避重就轻"
+    ],
+    "antonyms": [
+      "浓墨重彩",
+      "淋漓尽致",
+      "大书特书"
+    ]
+  },
+  {
+    "id": "bu-jie-zhi-yuan",
+    "text": "不解之缘",
+    "pinyin": "bù jiě zhī yuán",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "fortune"
+    ],
+    "literal": "not · untie · 's · bond",
+    "natural": "an unbreakable bond",
+    "meaning": {
+      "en": "An inseparable bond.",
+      "zh": "不能分开的缘分，比喻密切的关系。"
+    },
+    "equivalents": [
+      "an inseparable bond",
+      "a lifelong connection"
+    ],
+    "examples": [
+      {
+        "zh": "他从小就和音乐结下了不解之缘。",
+        "en": "He formed a lifelong bond with music as a child."
+      },
+      {
+        "zh": "我与这座城市有不解之缘。",
+        "en": "I have an unbreakable bond with this city."
+      }
+    ],
+    "usage": {
+      "en": "Usually 结下不解之缘.",
+      "zh": "常说“结下不解之缘”。"
+    },
+    "synonyms": [
+      "千丝万缕"
+    ],
+    "antonyms": [
+      "形同陌路"
+    ]
+  },
+  {
+    "id": "you-yi-wu-yi",
+    "text": "有意无意",
+    "pinyin": "yǒu yì wú yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conduct"
+    ],
+    "literal": "have · intent · no · intent",
+    "natural": "half deliberately",
+    "meaning": {
+      "en": "Whether intentionally or not; half deliberately.",
+      "zh": "好像有意，又好像无意。"
+    },
+    "equivalents": [
+      "half on purpose",
+      "casually",
+      "as if by chance"
+    ],
+    "examples": [
+      {
+        "zh": "她有意无意地提起了那件事。",
+        "en": "She casually brought up the matter, half on purpose."
+      },
+      {
+        "zh": "他有意无意地看了我一眼。",
+        "en": "He glanced at me as if by chance."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "若无其事"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gu-ming-si-yi",
+    "text": "顾名思义",
+    "pinyin": "gù míng sī yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "learning",
+      "three-kingdoms",
+      "historical-records"
+    ],
+    "literal": "look at · name · think · meaning",
+    "natural": "as the name suggests",
+    "meaning": {
+      "en": "As the name implies.",
+      "zh": "看到名称，就想到它的含义。"
+    },
+    "equivalents": [
+      "as the name suggests",
+      "as the name implies"
+    ],
+    "examples": [
+      {
+        "zh": "顾名思义，熊猫是一种像熊又像猫的动物。",
+        "en": "As the name suggests, a panda (bear-cat) looks a bit like a bear and a cat."
+      },
+      {
+        "zh": "“快餐”顾名思义就是快速供应的饭菜。",
+        "en": "'Fast food', as the name implies, is food served quickly."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·魏书·王昶传》",
+      "story": {
+        "en": "Wang Chang named his sons and nephews with words of modesty so that they would 'look at the name and think of its meaning' (顾名思义) and not overstep.",
+        "zh": "王昶为子侄取名，“欲使汝曹顾名思义，不敢违越也”。"
+      }
+    },
+    "usage": {
+      "en": "Sentence-initial.",
+      "zh": "常放句首。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "you-sheng-you-se",
+    "text": "有声有色",
+    "pinyin": "yǒu shēng yǒu sè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "excellent-acting",
+      "success"
+    ],
+    "literal": "have · sound · have · colour",
+    "natural": "vivid and lively",
+    "meaning": {
+      "en": "Vivid and dramatic; done with great flair.",
+      "zh": "形容表现得十分精彩生动。"
+    },
+    "equivalents": [
+      "vivid",
+      "with great flair",
+      "lively"
+    ],
+    "examples": [
+      {
+        "zh": "他把故事讲得有声有色。",
+        "en": "He told the story vividly."
+      },
+      {
+        "zh": "这个社团办得有声有色。",
+        "en": "The club is run with great flair."
+      }
+    ],
+    "usage": {
+      "en": "Usually after 得.",
+      "zh": "多作补语。"
+    },
+    "synonyms": [
+      "绘声绘色",
+      "栩栩如生",
+      "活灵活现"
+    ],
+    "antonyms": [
+      "枯燥乏味",
+      "平淡无奇",
+      "死气沉沉"
+    ]
+  },
+  {
+    "id": "zhu-ru-ci-lei",
+    "text": "诸如此类",
+    "pinyin": "zhū rú cǐ lèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech"
+    ],
+    "literal": "various · like · this · kind",
+    "natural": "and so on",
+    "meaning": {
+      "en": "Things of this kind; and so forth.",
+      "zh": "许多像这一类的事物。"
+    },
+    "equivalents": [
+      "and so on",
+      "things like that",
+      "the like"
+    ],
+    "examples": [
+      {
+        "zh": "吸烟、熬夜，诸如此类的坏习惯都要改。",
+        "en": "Smoking, late nights and bad habits like that must change."
+      },
+      {
+        "zh": "诸如此类的问题还有很多。",
+        "en": "There are many more problems of this kind."
+      }
+    ],
+    "usage": {
+      "en": "Usually attributive or sentence-final.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "不一而足"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-qing-er-chu",
+    "text": "一清二楚",
+    "pinyin": "yī qīng èr chǔ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "mental-clarity"
+    ],
+    "literal": "one · clear · two · distinct",
+    "natural": "crystal clear",
+    "meaning": {
+      "en": "Perfectly clear.",
+      "zh": "非常清楚。"
+    },
+    "equivalents": [
+      "crystal clear",
+      "perfectly clear"
+    ],
+    "examples": [
+      {
+        "zh": "事情的经过我记得一清二楚。",
+        "en": "I remember exactly what happened."
+      },
+      {
+        "zh": "账目算得一清二楚。",
+        "en": "The accounts are perfectly clear."
+      }
+    ],
+    "usage": {
+      "en": "Usually after 得.",
+      "zh": "多作补语。"
+    },
+    "synonyms": [
+      "清清楚楚",
+      "明明白白",
+      "了如指掌"
+    ],
+    "antonyms": [
+      "稀里糊涂",
+      "糊里糊涂",
+      "一头雾水"
+    ]
+  },
+  {
+    "id": "zhong-zhi-cheng-cheng",
+    "text": "众志成城",
+    "pinyin": "zhòng zhì chéng chéng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "war",
+      "news-and-officialese",
+      "historical-records"
+    ],
+    "literal": "many · wills · make · wall",
+    "natural": "unity is strength",
+    "meaning": {
+      "en": "United will is an unbreakable fortress.",
+      "zh": "大家团结一致，就像坚固的城墙一样。"
+    },
+    "equivalents": [
+      "united we stand",
+      "unity is strength"
+    ],
+    "examples": [
+      {
+        "zh": "全国上下众志成城，抗击疫情。",
+        "en": "The whole nation stood united against the epidemic."
+      },
+      {
+        "zh": "只要众志成城，没有战胜不了的困难。",
+        "en": "United, we can overcome any difficulty."
+      }
+    ],
+    "origin": {
+      "source": "《国语·周语下》",
+      "story": {
+        "en": "'The hearts of the many form a wall; the mouths of the many can melt metal' (众心成城，众口铄金).",
+        "zh": "《国语》：“众心成城，众口铄金。”"
+      }
+    },
+    "usage": {
+      "en": "Official and rallying language.",
+      "zh": "多用于号召团结。"
+    },
+    "synonyms": [
+      "齐心协力",
+      "同心同德",
+      "同舟共济"
+    ],
+    "antonyms": [
+      "一盘散沙",
+      "各自为政",
+      "离心离德"
+    ]
+  },
+  {
+    "id": "meng-mei-yi-qiu",
+    "text": "梦寐以求",
+    "pinyin": "mèng mèi yǐ qiú",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations"
+    ],
+    "literal": "dream · sleep · to · seek",
+    "natural": "dream of",
+    "meaning": {
+      "en": "To long for something even in one's dreams.",
+      "zh": "睡梦中都在追求，形容愿望十分迫切。"
+    },
+    "equivalents": [
+      "one's dream",
+      "long for",
+      "yearn for"
+    ],
+    "examples": [
+      {
+        "zh": "考上北大是他梦寐以求的愿望。",
+        "en": "Getting into Peking University is his dream."
+      },
+      {
+        "zh": "她终于得到了梦寐以求的工作。",
+        "en": "She finally got the job she'd dreamed of."
+      }
+    ],
+    "usage": {
+      "en": "Usually attributive: 梦寐以求的 + noun.",
+      "zh": "多作定语。"
+    },
+    "synonyms": [
+      "朝思暮想",
+      "求之不得"
+    ],
+    "antonyms": [
+      "避之不及",
+      "弃如敝屣"
+    ]
+  },
+  {
+    "id": "an-na-bu-zhu",
+    "text": "按捺不住",
+    "pinyin": "àn nà bù zhù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions"
+    ],
+    "literal": "press · restrain · not · hold",
+    "natural": "can't contain",
+    "meaning": {
+      "en": "Unable to hold back one's feelings.",
+      "zh": "控制不住。"
+    },
+    "equivalents": [
+      "can't contain oneself",
+      "can't hold back"
+    ],
+    "examples": [
+      {
+        "zh": "他按捺不住心中的激动。",
+        "en": "He couldn't contain his excitement."
+      },
+      {
+        "zh": "看到这一幕，我按捺不住怒火。",
+        "en": "Seeing this, I couldn't hold back my anger."
+      }
+    ],
+    "usage": {
+      "en": "Usually + emotion noun.",
+      "zh": "多接情绪名词。"
+    },
+    "synonyms": [
+      "迫不及待",
+      "情不自禁"
+    ],
+    "antonyms": [
+      "不动声色",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "xin-shi-dan-dan",
+    "text": "信誓旦旦",
+    "pinyin": "xìn shì dàn dàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances",
+      "poems-prose"
+    ],
+    "literal": "sincere · vows · earnest",
+    "natural": "swear solemnly",
+    "meaning": {
+      "en": "Solemnly swearing (often with doubt implied).",
+      "zh": "誓言真挚可信。"
+    },
+    "equivalents": [
+      "swear blind",
+      "promise faithfully",
+      "solemnly vow"
+    ],
+    "examples": [
+      {
+        "zh": "他信誓旦旦地保证不再犯。",
+        "en": "He solemnly swore he'd never do it again."
+      },
+      {
+        "zh": "当初信誓旦旦，如今却变了卦。",
+        "en": "He made solemn promises, but now he's gone back on them."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·卫风·氓》",
+      "story": {
+        "en": "A wronged wife recalls her husband's youthful vows: 'Our sworn oaths were earnest; I never thought he'd turn' (信誓旦旦，不思其反).",
+        "zh": "《诗经·氓》：“信誓旦旦，不思其反。”"
+      }
+    },
+    "usage": {
+      "en": "Often hints the promise was broken.",
+      "zh": "常暗示誓言没有兑现。"
+    },
+    "synonyms": [
+      "海誓山盟",
+      "言之凿凿"
+    ],
+    "antonyms": [
+      "食言而肥",
+      "出尔反尔"
+    ]
+  },
+  {
+    "id": "bu-ji-qi-shu",
+    "text": "不计其数",
+    "pinyin": "bù jì qí shù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers"
+    ],
+    "literal": "not · count · its · number",
+    "natural": "countless",
+    "meaning": {
+      "en": "Too many to count.",
+      "zh": "无法计算数目，形容极多。"
+    },
+    "equivalents": [
+      "countless",
+      "innumerable",
+      "too many to count"
+    ],
+    "examples": [
+      {
+        "zh": "他帮助过的人不计其数。",
+        "en": "He's helped countless people."
+      },
+      {
+        "zh": "夜空中的星星不计其数。",
+        "en": "The stars in the night sky are innumerable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "数以万计",
+      "成千上万",
+      "千千万万"
+    ],
+    "antonyms": [
+      "屈指可数",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "que-yi-bu-ke",
+    "text": "缺一不可",
+    "pinyin": "quē yī bù kě",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "unusual-combinations"
+    ],
+    "literal": "lack · one · not · allowed",
+    "natural": "each one essential",
+    "meaning": {
+      "en": "Every one is indispensable.",
+      "zh": "缺少任何一个都不行。"
+    },
+    "equivalents": [
+      "all essential",
+      "indispensable"
+    ],
+    "examples": [
+      {
+        "zh": "天时、地利、人和，缺一不可。",
+        "en": "Timing, place and harmony are all essential."
+      },
+      {
+        "zh": "这些条件缺一不可。",
+        "en": "None of these conditions can be missing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "不可或缺",
+      "相辅相成"
+    ],
+    "antonyms": [
+      "可有可无"
+    ]
+  },
+  {
+    "id": "zhen-xin-shi-yi",
+    "text": "真心实意",
+    "pinyin": "zhēn xīn shí yì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "relationships"
+    ],
+    "literal": "true · heart · real · intent",
+    "natural": "sincerely",
+    "meaning": {
+      "en": "Genuinely and sincerely.",
+      "zh": "心意真实诚恳。"
+    },
+    "equivalents": [
+      "sincerely",
+      "wholeheartedly",
+      "from the heart"
+    ],
+    "examples": [
+      {
+        "zh": "他真心实意地想帮你。",
+        "en": "He sincerely wants to help you."
+      },
+      {
+        "zh": "要真心实意为群众办事。",
+        "en": "We must serve the people wholeheartedly."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "诚心诚意",
+      "推心置腹"
+    ],
+    "antonyms": [
+      "虚情假意",
+      "虚伪做作",
+      "口是心非"
+    ]
+  },
+  {
+    "id": "dui-bu-gong-tang",
+    "text": "对簿公堂",
+    "pinyin": "duì bù gōng táng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "conflict-and-strife",
+      "news-and-officialese"
+    ],
+    "literal": "face · record · public · hall",
+    "natural": "take to court",
+    "meaning": {
+      "en": "To face each other in court.",
+      "zh": "在法庭上受审问，指打官司。"
+    },
+    "equivalents": [
+      "go to court",
+      "face off in court"
+    ],
+    "examples": [
+      {
+        "zh": "两家公司因专利纠纷对簿公堂。",
+        "en": "The two companies went to court over a patent dispute."
+      },
+      {
+        "zh": "夫妻俩最终对簿公堂。",
+        "en": "The couple ended up facing each other in court."
+      }
+    ],
+    "usage": {
+      "en": "簿 is bù.",
+      "zh": "“簿”读bù。"
+    },
+    "synonyms": [
+      "诉诸法律"
+    ],
+    "antonyms": [
+      "握手言和",
+      "私了"
+    ]
+  },
+  {
+    "id": "bu-ru-shi-ming",
+    "text": "不辱使命",
+    "pinyin": "bù rǔ shǐ mìng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "successful-completion",
+      "conduct"
+    ],
+    "literal": "not · disgrace · mission",
+    "natural": "accomplish the mission",
+    "meaning": {
+      "en": "To fulfil one's mission honourably.",
+      "zh": "没有辜负使命，完成了任务。"
+    },
+    "equivalents": [
+      "mission accomplished",
+      "live up to expectations"
+    ],
+    "examples": [
+      {
+        "zh": "代表团不辱使命，圆满完成了任务。",
+        "en": "The delegation lived up to its mission."
+      },
+      {
+        "zh": "他不辱使命，带回了冠军奖杯。",
+        "en": "He did his duty and brought back the trophy."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "圆满成功",
+      "大功告成"
+    ],
+    "antonyms": [
+      "有辱使命",
+      "功亏一篑"
+    ]
+  }
+]
