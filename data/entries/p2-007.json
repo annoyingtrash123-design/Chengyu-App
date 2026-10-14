@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "du-li-zi-zhu",
+    "text": "独立自主",
+    "pinyin": "dú lì zì zhǔ",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "freedom",
+      "leadership-and-authority",
+      "news-and-officialese"
+    ],
+    "literal": "independent · self · master",
+    "natural": "independent and self-reliant",
+    "meaning": {
+      "en": "Independent; making one's own decisions.",
+      "zh": "不依赖别人，自己做主。"
+    },
+    "equivalents": [
+      "independent",
+      "self-determining",
+      "standing on one's own feet"
+    ],
+    "examples": [
+      {
+        "zh": "我国奉行独立自主的和平外交政策。",
+        "en": "Our country pursues an independent foreign policy of peace."
+      },
+      {
+        "zh": "孩子长大了要学会独立自主。",
+        "en": "As children grow up they must learn to be independent."
+      }
+    ],
+    "usage": {
+      "en": "Official (foreign policy) and everyday.",
+      "zh": "官方（外交）和日常都用。"
+    },
+    "synonyms": [
+      "自力更生",
+      "自食其力"
+    ],
+    "antonyms": [
+      "依赖他人",
+      "仰人鼻息",
+      "寄人篱下"
+    ]
+  },
+  {
+    "id": "shuai-xian-chui-fan",
+    "text": "率先垂范",
+    "pinyin": "shuài xiān chuí fàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "news-and-officialese"
+    ],
+    "literal": "lead · first · hand down · example",
+    "natural": "set an example by going first",
+    "meaning": {
+      "en": "To take the lead and set an example.",
+      "zh": "带头做，给别人做出榜样。"
+    },
+    "equivalents": [
+      "lead by example",
+      "set the pace"
+    ],
+    "examples": [
+      {
+        "zh": "领导干部要率先垂范。",
+        "en": "Leaders must set an example by going first."
+      },
+      {
+        "zh": "他在抗洪中率先垂范，冲在最前面。",
+        "en": "In the flood relief he led from the front."
+      }
+    ],
+    "usage": {
+      "en": "Official praise for leaders. 率 is shuài.",
+      "zh": "官方用语，“率”读shuài。"
+    },
+    "synonyms": [
+      "以身作则",
+      "身先士卒",
+      "身体力行"
+    ],
+    "antonyms": [
+      "言行不一"
+    ]
+  },
+  {
+    "id": "qu-xin-yu-min",
+    "text": "取信于民",
+    "pinyin": "qǔ xìn yú mín",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "win · trust · from · people",
+    "natural": "win the people's trust",
+    "meaning": {
+      "en": "To win the trust of the public.",
+      "zh": "得到人民的信任。"
+    },
+    "equivalents": [
+      "win public trust",
+      "earn people's confidence"
+    ],
+    "examples": [
+      {
+        "zh": "政府要言出必行，才能取信于民。",
+        "en": "The government must keep its word to win public trust."
+      },
+      {
+        "zh": "公开透明是取信于民的关键。",
+        "en": "Transparency is key to winning people's confidence."
+      }
+    ],
+    "usage": {
+      "en": "Official language.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "深入人心",
+      "众望所归"
+    ],
+    "antonyms": [
+      "失信于民",
+      "违背民意"
+    ]
+  },
+  {
+    "id": "nai-ren-xun-wei",
+    "text": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "excellent-writing"
+    ],
+    "literal": "endure · people · seek · flavour",
+    "natural": "food for thought",
+    "meaning": {
+      "en": "Thought-provoking; worth pondering.",
+      "zh": "意味深长，值得人仔细体会。"
+    },
+    "equivalents": [
+      "thought-provoking",
+      "intriguing",
+      "food for thought"
+    ],
+    "examples": [
+      {
+        "zh": "这句话耐人寻味。",
+        "en": "That remark gives food for thought."
+      },
+      {
+        "zh": "电影的结尾耐人寻味。",
+        "en": "The film's ending is intriguing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "意味深长",
+      "回味无穷",
+      "发人深省"
+    ],
+    "antonyms": [
+      "索然无味",
+      "味同嚼蜡",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "shui-xie-bu-tong",
+    "text": "水泄不通",
+    "pinyin": "shuǐ xiè bù tōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "difficult-terrain"
+    ],
+    "literal": "water · leak · not · through",
+    "natural": "packed solid",
+    "meaning": {
+      "en": "So crowded or tightly sealed that not even water could get through.",
+      "zh": "连水都流不出去，形容拥挤或包围得非常严密。"
+    },
+    "equivalents": [
+      "jam-packed",
+      "sealed off",
+      "packed solid"
+    ],
+    "examples": [
+      {
+        "zh": "车站被挤得水泄不通。",
+        "en": "The station was jam-packed."
+      },
+      {
+        "zh": "警察把现场围得水泄不通。",
+        "en": "The police sealed off the scene completely."
+      }
+    ],
+    "usage": {
+      "en": "Usually after 挤得/围得/堵得.",
+      "zh": "常说“挤得（围得、堵得）水泄不通”。"
+    },
+    "synonyms": [
+      "人满为患",
+      "人山人海"
+    ],
+    "antonyms": [
+      "畅通无阻",
+      "空无一人"
+    ]
+  },
+  {
+    "id": "jie-er-lian-san",
+    "text": "接二连三",
+    "pinyin": "jiē èr lián sān",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "time"
+    ],
+    "literal": "join · two · link · three",
+    "natural": "one after another",
+    "meaning": {
+      "en": "In quick succession.",
+      "zh": "一个接着一个，接连不断。"
+    },
+    "equivalents": [
+      "one after another",
+      "in quick succession",
+      "back to back"
+    ],
+    "examples": [
+      {
+        "zh": "最近接二连三地发生交通事故。",
+        "en": "There have been road accidents one after another recently."
+      },
+      {
+        "zh": "好消息接二连三地传来。",
+        "en": "Good news kept coming in."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "接连不断",
+      "层出不穷",
+      "此起彼伏"
+    ],
+    "antonyms": [
+      "断断续续",
+      "时断时续"
+    ]
+  },
+  {
+    "id": "wu-neng-wei-li",
+    "text": "无能为力",
+    "pinyin": "wú néng wéi lì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "no · ability · to make · effort",
+    "natural": "powerless",
+    "meaning": {
+      "en": "Unable to do anything about it.",
+      "zh": "用不上力量，没有能力去做。"
+    },
+    "equivalents": [
+      "powerless",
+      "helpless",
+      "there's nothing one can do"
+    ],
+    "examples": [
+      {
+        "zh": "对于他的病，医生也无能为力。",
+        "en": "Even the doctors are powerless against his illness."
+      },
+      {
+        "zh": "这件事我实在无能为力。",
+        "en": "There's really nothing I can do about this."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "爱莫能助",
+      "力不从心",
+      "束手无策"
+    ],
+    "antonyms": [
+      "力所能及",
+      "游刃有余",
+      "绰绰有余"
+    ]
+  },
+  {
+    "id": "nan-yi-wei-ji",
+    "text": "难以为继",
+    "pinyin": "nán yǐ wéi jì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "business-failure",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "hard · to · make · continue",
+    "natural": "unsustainable",
+    "meaning": {
+      "en": "Hard to keep going; unsustainable.",
+      "zh": "很难继续下去。"
+    },
+    "equivalents": [
+      "unsustainable",
+      "can't carry on"
+    ],
+    "examples": [
+      {
+        "zh": "资金短缺，项目难以为继。",
+        "en": "With funds short, the project can't carry on."
+      },
+      {
+        "zh": "这种发展模式难以为继。",
+        "en": "This development model is unsustainable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "无以为继"
+    ],
+    "antonyms": [
+      "源源不断"
+    ]
+  },
+  {
+    "id": "xian-ru-jiang-ju",
+    "text": "陷入僵局",
+    "pinyin": "xiàn rù jiāng jú",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conflict-and-strife",
+      "dead-ends-and-desperation",
+      "news-and-officialese"
+    ],
+    "literal": "fall · into · deadlock",
+    "natural": "reach a deadlock",
+    "meaning": {
+      "en": "To reach a stalemate.",
+      "zh": "落入相持不下的局面。"
+    },
+    "equivalents": [
+      "reach a stalemate",
+      "be deadlocked",
+      "grind to a halt"
+    ],
+    "examples": [
+      {
+        "zh": "谈判陷入僵局。",
+        "en": "The negotiations have reached a deadlock."
+      },
+      {
+        "zh": "双方互不让步，局面陷入僵局。",
+        "en": "Neither side would give way, and things came to a stalemate."
+      }
+    ],
+    "usage": {
+      "en": "News register.",
+      "zh": "新闻用语。"
+    },
+    "synonyms": [
+      "进退两难",
+      "僵持不下"
+    ],
+    "antonyms": [
+      "迎刃而解",
+      "柳暗花明"
+    ]
+  },
+  {
+    "id": "gan-tong-shen-shou",
+    "text": "感同身受",
+    "pinyin": "gǎn tóng shēn shòu",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "relationships"
+    ],
+    "literal": "feel · as if · personally · experience",
+    "natural": "feel it as one's own",
+    "meaning": {
+      "en": "To feel someone else's experience as if it were one's own.",
+      "zh": "虽未亲身经历，却像亲身感受到一样。"
+    },
+    "equivalents": [
+      "empathise",
+      "feel someone's pain"
+    ],
+    "examples": [
+      {
+        "zh": "你的难处，我感同身受。",
+        "en": "I really feel for you in your difficulty."
+      },
+      {
+        "zh": "经历过失业的人，对他的处境感同身受。",
+        "en": "Those who've been unemployed can empathise with his situation."
+      }
+    ],
+    "usage": {
+      "en": "Originally 'grateful as if I received it myself'; now 'empathise'.",
+      "zh": "原指代人感谢如同自己受惠，现多指同情理解。"
+    },
+    "synonyms": [
+      "设身处地",
+      "将心比心",
+      "同病相怜"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "bu-zhi-qu-xiang",
+    "text": "不知去向",
+    "pinyin": "bù zhī qù xiàng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger"
+    ],
+    "literal": "not · know · go · direction",
+    "natural": "whereabouts unknown",
+    "meaning": {
+      "en": "Gone, no one knows where.",
+      "zh": "不知道到哪里去了。"
+    },
+    "equivalents": [
+      "vanished",
+      "gone missing",
+      "nowhere to be found"
+    ],
+    "examples": [
+      {
+        "zh": "嫌疑人已不知去向。",
+        "en": "The suspect has vanished."
+      },
+      {
+        "zh": "那只猫跑出去后就不知去向了。",
+        "en": "The cat ran out and is nowhere to be found."
+      }
+    ],
+    "usage": {
+      "en": "Plain narrative; close to 下落不明.",
+      "zh": "与“下落不明”相近。"
+    },
+    "synonyms": [
+      "下落不明",
+      "无影无踪"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "nan-yi-zhi-xin",
+    "text": "难以置信",
+    "pinyin": "nán yǐ zhì xìn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "extraordinary-circumstances",
+      "confusion-and-doubt"
+    ],
+    "literal": "hard · to · put · belief",
+    "natural": "unbelievable",
+    "meaning": {
+      "en": "Hard to believe.",
+      "zh": "很难相信。"
+    },
+    "equivalents": [
+      "unbelievable",
+      "incredible",
+      "hard to believe"
+    ],
+    "examples": [
+      {
+        "zh": "这个消息让人难以置信。",
+        "en": "The news is hard to believe."
+      },
+      {
+        "zh": "他以难以置信的速度完成了任务。",
+        "en": "He finished the job at incredible speed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "匪夷所思"
+    ],
+    "antonyms": [
+      "深信不疑",
+      "确凿无疑"
+    ]
+  },
+  {
+    "id": "quan-da-jiao-ti",
+    "text": "拳打脚踢",
+    "pinyin": "quán dǎ jiǎo tī",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "body"
+    ],
+    "literal": "fist · hit · foot · kick",
+    "natural": "punch and kick",
+    "meaning": {
+      "en": "To beat someone with fists and feet.",
+      "zh": "用拳头打，用脚踢，形容凶狠地殴打。"
+    },
+    "equivalents": [
+      "punch and kick",
+      "beat up"
+    ],
+    "examples": [
+      {
+        "zh": "几个人对他拳打脚踢。",
+        "en": "Several men punched and kicked him."
+      },
+      {
+        "zh": "视频里有人对店员拳打脚踢。",
+        "en": "The video shows someone beating up a shop assistant."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive, often in news of assaults.",
+      "zh": "描写性，多见于伤人新闻。"
+    },
+    "synonyms": [
+      "大打出手"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "diao-yi-qing-xin",
+    "text": "掉以轻心",
+    "pinyin": "diào yǐ qīng xīn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "distracted-attention",
+      "poems-prose"
+    ],
+    "literal": "treat · with · light · heart",
+    "natural": "let one's guard down",
+    "meaning": {
+      "en": "To treat lightly; to be careless.",
+      "zh": "对事情采取轻率的态度。"
+    },
+    "equivalents": [
+      "let one's guard down",
+      "be complacent",
+      "take lightly"
+    ],
+    "examples": [
+      {
+        "zh": "疫情虽有好转，但不能掉以轻心。",
+        "en": "The epidemic is easing, but we mustn't let our guard down."
+      },
+      {
+        "zh": "对手很弱，也不可掉以轻心。",
+        "en": "Even against a weak opponent, don't be complacent."
+      }
+    ],
+    "origin": {
+      "source": "唐·柳宗元《答韦中立论师道书》",
+      "story": {
+        "en": "Liu Zongyuan on writing: 'Whenever I write, I have never dared treat it with a light heart' (未尝敢以轻心掉之).",
+        "zh": "柳宗元：“故吾每为文章，未尝敢以轻心掉之。”"
+      }
+    },
+    "usage": {
+      "en": "Usually negated: 不能/不可掉以轻心.",
+      "zh": "多用于否定。"
+    },
+    "synonyms": [
+      "麻痹大意",
+      "粗心大意"
+    ],
+    "antonyms": [
+      "小心翼翼",
+      "谨小慎微",
+      "如履薄冰"
+    ]
+  },
+  {
+    "id": "chang-suo-yu-yan",
+    "text": "畅所欲言",
+    "pinyin": "chàng suǒ yù yán",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "freedom"
+    ],
+    "literal": "freely · what · want · say",
+    "natural": "speak one's mind",
+    "meaning": {
+      "en": "To say freely all one wants to say.",
+      "zh": "痛快地把想说的话都说出来。"
+    },
+    "equivalents": [
+      "speak freely",
+      "speak one's mind",
+      "get it off one's chest"
+    ],
+    "examples": [
+      {
+        "zh": "会上大家畅所欲言。",
+        "en": "At the meeting everyone spoke freely."
+      },
+      {
+        "zh": "这里没有外人，你可以畅所欲言。",
+        "en": "No outsiders here; you can speak your mind."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "知无不言",
+      "直言不讳"
+    ],
+    "antonyms": [
+      "缄口不言",
+      "吞吞吐吐",
+      "噤若寒蝉"
+    ]
+  },
+  {
+    "id": "xi-yi-wei-chang",
+    "text": "习以为常",
+    "pinyin": "xí yǐ wéi cháng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily",
+      "conformity-and-imitation"
+    ],
+    "literal": "accustomed · take · as · normal",
+    "natural": "be used to it",
+    "meaning": {
+      "en": "To be so used to something that it seems normal.",
+      "zh": "常常做某事或见某现象，就觉得很平常了。"
+    },
+    "equivalents": [
+      "be used to",
+      "take for granted",
+      "second nature"
+    ],
+    "examples": [
+      {
+        "zh": "加班对他来说已习以为常。",
+        "en": "Working overtime is second nature to him."
+      },
+      {
+        "zh": "我们对手机的依赖已经习以为常。",
+        "en": "We've come to take our dependence on phones for granted."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "司空见惯",
+      "屡见不鲜"
+    ],
+    "antonyms": [
+      "大吃一惊",
+      "少见多怪"
+    ]
+  },
+  {
+    "id": "lou-dong-bai-chu",
+    "text": "漏洞百出",
+    "pinyin": "lòu dòng bǎi chū",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "deception-and-false-appearances"
+    ],
+    "literal": "holes · hundred · appear",
+    "natural": "full of holes",
+    "meaning": {
+      "en": "Full of flaws and loopholes.",
+      "zh": "破绽很多。"
+    },
+    "equivalents": [
+      "full of holes",
+      "riddled with flaws"
+    ],
+    "examples": [
+      {
+        "zh": "他的解释漏洞百出。",
+        "en": "His explanation is full of holes."
+      },
+      {
+        "zh": "这份合同漏洞百出。",
+        "en": "The contract is riddled with loopholes."
+      }
+    ],
+    "usage": {
+      "en": "For arguments, plans, systems.",
+      "zh": "多指言论、计划、制度。"
+    },
+    "synonyms": [
+      "破绽百出",
+      "自相矛盾",
+      "露出马脚"
+    ],
+    "antonyms": [
+      "天衣无缝",
+      "无懈可击",
+      "滴水不漏"
+    ]
+  },
+  {
+    "id": "yi-mai-xiang-cheng",
+    "text": "一脉相承",
+    "pinyin": "yī mài xiāng chéng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "culture",
+      "relationships"
+    ],
+    "literal": "one · vein · mutually · inherit",
+    "natural": "in the same tradition",
+    "meaning": {
+      "en": "Descended from the same line; part of the same tradition.",
+      "zh": "从同一血统、派别世代相传下来。"
+    },
+    "equivalents": [
+      "in the same tradition",
+      "share the same roots"
+    ],
+    "examples": [
+      {
+        "zh": "两种艺术风格一脉相承。",
+        "en": "The two artistic styles share the same roots."
+      },
+      {
+        "zh": "这项政策与以往的方针一脉相承。",
+        "en": "The policy is consistent with earlier principles."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "薪火相传"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hao-bu-dong-yao",
+    "text": "毫不动摇",
+    "pinyin": "háo bù dòng yáo",
+    "kind": "phrase",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "news-and-officialese"
+    ],
+    "literal": "not at all · shake",
+    "natural": "unswerving",
+    "meaning": {
+      "en": "Not wavering in the slightest.",
+      "zh": "一点也不动摇。"
+    },
+    "equivalents": [
+      "unswerving",
+      "unwavering",
+      "rock-solid"
+    ],
+    "examples": [
+      {
+        "zh": "我们毫不动摇地坚持改革开放。",
+        "en": "We are unswerving in upholding reform and opening up."
+      },
+      {
+        "zh": "她的决心毫不动摇。",
+        "en": "Her resolve is unshakeable."
+      }
+    ],
+    "usage": {
+      "en": "Official register.",
+      "zh": "官方用语。"
+    },
+    "synonyms": [
+      "坚定不移",
+      "矢志不渝"
+    ],
+    "antonyms": [
+      "摇摆不定",
+      "动摇不定"
+    ]
+  },
+  {
+    "id": "dang-zhi-wu-kui",
+    "text": "当之无愧",
+    "pinyin": "dāng zhī wú kuì",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "deserve · it · without · shame",
+    "natural": "fully deserving",
+    "meaning": {
+      "en": "Fully deserving of an honour.",
+      "zh": "承受某种荣誉或称号，毫无愧色。"
+    },
+    "equivalents": [
+      "well deserved",
+      "fully worthy of"
+    ],
+    "examples": [
+      {
+        "zh": "他是当之无愧的冠军。",
+        "en": "He's a well-deserved champion."
+      },
+      {
+        "zh": "这个奖她当之无愧。",
+        "en": "She fully deserves the award."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "实至名归",
+      "名副其实"
+    ],
+    "antonyms": [
+      "受之有愧",
+      "名不副实"
+    ]
+  },
+  {
+    "id": "si-wu-ji-dan",
+    "text": "肆无忌惮",
+    "pinyin": "sì wú jì dàn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "corruption-and-injustice"
+    ],
+    "literal": "reckless · without · fear · dread",
+    "natural": "brazenly",
+    "meaning": {
+      "en": "Acting recklessly without any restraint.",
+      "zh": "任意妄为，毫无顾忌。"
+    },
+    "equivalents": [
+      "brazenly",
+      "unscrupulously",
+      "with impunity"
+    ],
+    "examples": [
+      {
+        "zh": "他们肆无忌惮地破坏森林。",
+        "en": "They destroyed the forest with impunity."
+      },
+      {
+        "zh": "他在会上肆无忌惮地攻击同事。",
+        "en": "He brazenly attacked colleagues in the meeting."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; strongly negative.",
+      "zh": "多作状语，贬义。"
+    },
+    "synonyms": [
+      "无法无天",
+      "胆大妄为",
+      "为所欲为"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "谨小慎微",
+      "小心翼翼"
+    ]
+  },
+  {
+    "id": "shun-teng-mo-gua",
+    "text": "顺藤摸瓜",
+    "pinyin": "shùn téng mō guā",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "plant-and-natural-world"
+    ],
+    "literal": "follow · vine · feel for · melon",
+    "natural": "follow the trail",
+    "meaning": {
+      "en": "To follow clues to the source.",
+      "zh": "顺着瓜藤摸到瓜，比喻按线索追查。"
+    },
+    "equivalents": [
+      "follow the leads",
+      "follow the trail"
+    ],
+    "examples": [
+      {
+        "zh": "警方顺藤摸瓜，抓获了整个团伙。",
+        "en": "Following the leads, police caught the whole gang."
+      },
+      {
+        "zh": "记者顺藤摸瓜，查出了幕后老板。",
+        "en": "The reporter followed the trail to the real boss."
+      }
+    ],
+    "usage": {
+      "en": "Common in crime reporting.",
+      "zh": "多见于破案报道。"
+    },
+    "synonyms": [
+      "追根究底"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhu-ren-wei-le",
+    "text": "助人为乐",
+    "pinyin": "zhù rén wéi lè",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "relationships",
+      "essay-favourites"
+    ],
+    "literal": "help · people · as · joy",
+    "natural": "find joy in helping others",
+    "meaning": {
+      "en": "To take pleasure in helping others.",
+      "zh": "把帮助别人当作快乐。"
+    },
+    "equivalents": [
+      "find joy in helping others",
+      "always ready to help"
+    ],
+    "examples": [
+      {
+        "zh": "雷锋助人为乐的精神值得学习。",
+        "en": "Lei Feng's joy in helping others is worth emulating."
+      },
+      {
+        "zh": "他助人为乐，邻居们都很喜欢他。",
+        "en": "He loves helping people, and all the neighbours like him."
+      }
+    ],
+    "usage": {
+      "en": "School and moral-education staple.",
+      "zh": "多见于品德教育。"
+    },
+    "synonyms": [
+      "乐于助人",
+      "见义勇为",
+      "乐善好施"
+    ],
+    "antonyms": [
+      "见死不救",
+      "袖手旁观",
+      "损人利己"
+    ]
+  },
+  {
+    "id": "huan-ju-yi-tang",
+    "text": "欢聚一堂",
+    "pinyin": "huān jù yī táng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "relationships",
+      "festive-greetings"
+    ],
+    "literal": "joyfully · gather · one · hall",
+    "natural": "gathered happily together",
+    "meaning": {
+      "en": "Gathering happily in one place.",
+      "zh": "欢乐地聚集在一起。"
+    },
+    "equivalents": [
+      "gathered together",
+      "come together to celebrate"
+    ],
+    "examples": [
+      {
+        "zh": "新年之际，全体员工欢聚一堂。",
+        "en": "At New Year all the staff gathered together to celebrate."
+      },
+      {
+        "zh": "老同学们欢聚一堂，回忆往事。",
+        "en": "Old classmates gathered happily and reminisced."
+      }
+    ],
+    "usage": {
+      "en": "Common in speeches at gatherings.",
+      "zh": "多见于聚会致辞。"
+    },
+    "synonyms": [
+      "济济一堂",
+      "团团圆圆"
+    ],
+    "antonyms": [
+      "各奔东西",
+      "天各一方"
+    ]
+  }
+]
