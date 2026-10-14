@@ -38,6 +38,10 @@ MANUAL = {
     "fairness-and-impartiality": ["大公无私", "一视同仁", "铁面无私", "公正无私"],
     "adaptability": ["见机行事", "因地制宜", "见风使舵", "灵机一动", "随遇而安", "对症下药"],
     "mistakes-and-correction": ["改过自新", "迷途知返", "亡羊补牢", "负荆请罪", "引咎自责", "文过饰非"],
+    "fleeting-time": ["光阴似箭", "白驹过隙", "日月如梭", "光阴荏苒", "稍纵即逝", "昙花一现"],
+    "chain-reactions": ["连锁反应", "牵一发而动全身"],
+    "contentment-and-simplicity": ["知足常乐", "安贫乐道", "清心寡欲", "随遇而安"],
+    "evenly-matched": ["棋逢对手", "势均力敌", "平分秋色", "旗鼓相当", "不相上下", "难分伯仲"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Never auto-add these (checked by hand: the keyword match is misleading).
