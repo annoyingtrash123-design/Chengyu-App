@@ -1,131 +1,838 @@
 [
-  {"id": "emotions", "en": "Emotions & mind", "zh": "情感心理"},
-  {"id": "character", "en": "Character & looks", "zh": "品德性格"},
-  {"id": "conduct", "en": "Behaviour & conduct", "zh": "处世行为"},
-  {"id": "success", "en": "Success & failure", "zh": "成败得失"},
-  {"id": "effort", "en": "Ambition & effort", "zh": "志向努力"},
-  {"id": "fortune", "en": "Fortune & circumstances", "zh": "祸福境遇"},
-  {"id": "learning", "en": "Learning & teaching", "zh": "学习教育"},
-  {"id": "arts", "en": "Arts & craft", "zh": "文艺技艺"},
-  {"id": "society", "en": "Society & power", "zh": "社会政治"},
-  {"id": "relationships", "en": "Relationships", "zh": "人际关系"},
-  {"id": "war", "en": "War & strategy", "zh": "军事谋略"},
-  {"id": "nature", "en": "Nature & land", "zh": "自然地理"},
-  {"id": "animals", "en": "Animals & plants", "zh": "动物植物"},
-  {"id": "time", "en": "Time", "zh": "时间"},
-  {"id": "measure", "en": "Numbers & degree", "zh": "数量程度"},
-  {"id": "daily", "en": "Daily life", "zh": "衣食住行"},
-  {"id": "health", "en": "Health & body", "zh": "健康身体"},
-  {"id": "speech", "en": "Speech & truth", "zh": "言语真伪"},
-  {"id": "wisdom", "en": "Wisdom & planning", "zh": "智慧谋略"},
-  {"id": "culture", "en": "Culture & stories", "zh": "文化典故"},
-  {"id": "miraculous-occurrences", "en": "Miraculous Occurrences", "zh": "奇迹", "group": "fortune"},
-  {"id": "unprecedented-situations", "en": "Unprecedented Situations", "zh": "史无前例", "group": "fortune"},
-  {"id": "standards-and-benchmarks", "en": "Standards and Benchmarks", "zh": "标准典范", "group": "measure"},
-  {"id": "relative-measurements", "en": "Relative Measurements", "zh": "相对程度", "group": "measure"},
-  {"id": "confusion-and-doubt", "en": "Confusion and Doubt", "zh": "困惑怀疑", "group": "emotions"},
-  {"id": "psychological-pressure", "en": "Psychological Pressure", "zh": "心理压力", "group": "emotions"},
-  {"id": "extraordinary-circumstances", "en": "Extraordinary Circumstances", "zh": "非常情况", "group": "fortune"},
-  {"id": "once-in-a-lifetime-events", "en": "Once-in-a-Lifetime Events", "zh": "千载难逢", "group": "fortune"},
-  {"id": "revenge-and-retribution", "en": "Revenge and Retribution", "zh": "报复报应", "group": "society"},
-  {"id": "complex-emotional-states", "en": "Complex Emotional States", "zh": "复杂心情", "group": "emotions"},
-  {"id": "mental-clarity", "en": "Mental Clarity", "zh": "头脑清醒", "group": "emotions"},
-  {"id": "high-aspirations", "en": "High Aspirations", "zh": "远大志向", "group": "effort"},
-  {"id": "modest-goals", "en": "Modest Goals", "zh": "目标朴实", "group": "effort"},
-  {"id": "failed-ambitions", "en": "Failed Ambitions", "zh": "壮志未酬", "group": "effort"},
-  {"id": "games-and-sports", "en": "Games and Sports", "zh": "游戏体育", "group": "daily"},
-  {"id": "festivals-and-celebrations", "en": "Festivals and Celebrations", "zh": "节庆", "group": "culture"},
-  {"id": "relaxation-and-rest", "en": "Relaxation and Rest", "zh": "休闲", "group": "daily"},
-  {"id": "natural-consequences", "en": "Natural Consequences", "zh": "自然结果", "group": "success"},
-  {"id": "unintended-results", "en": "Unintended Results", "zh": "事与愿违", "group": "success"},
-  {"id": "exact-vs-approximate", "en": "Exact vs. Approximate", "zh": "精确与大概", "group": "measure"},
-  {"id": "successful-completion", "en": "Successful Completion", "zh": "圆满完成", "group": "success"},
-  {"id": "abrupt-endings", "en": "Abrupt Endings", "zh": "戛然而止", "group": "success"},
-  {"id": "circular-conclusions", "en": "Circular Conclusions", "zh": "循环往复", "group": "wisdom"},
-  {"id": "unusual-combinations", "en": "Unusual Combinations", "zh": "奇特组合", "group": "measure"},
-  {"id": "modern-applications-of-classical-ideas", "en": "Modern Applications of Classical Ideas", "zh": "古为今用", "group": "culture"},
-  {"id": "master-craftsmanship", "en": "Master Craftsmanship", "zh": "技艺精湛", "group": "arts"},
-  {"id": "apprenticeship-and-learning", "en": "Apprenticeship and Learning", "zh": "拜师学艺", "group": "learning"},
-  {"id": "daily-time-periods", "en": "Daily Time Periods", "zh": "一日时辰", "group": "time"},
-  {"id": "seasonal-changes", "en": "Seasonal Changes", "zh": "四季变化", "group": "nature"},
-  {"id": "historical-periods", "en": "Historical Periods", "zh": "历史时期", "group": "time"},
-  {"id": "time-management", "en": "Time Management", "zh": "珍惜时间", "group": "time"},
-  {"id": "excellent-acting", "en": "Excellent Acting", "zh": "表演出色", "group": "arts"},
-  {"id": "poor-performance", "en": "Poor Performance", "zh": "表现欠佳", "group": "arts"},
-  {"id": "useful-tools-and-skill", "en": "Useful Tools and Skill", "zh": "工具本领", "group": "daily"},
-  {"id": "broken-or-useless-items", "en": "Broken or Useless Items", "zh": "破旧无用", "group": "daily"},
-  {"id": "journeys-and-exploration", "en": "Journeys and Exploration", "zh": "旅途探索", "group": "daily"},
-  {"id": "difficult-terrain", "en": "Difficult Terrain", "zh": "险要地势", "group": "nature"},
-  {"id": "excellent-writing", "en": "Excellent Writing", "zh": "文笔出众", "group": "arts"},
-  {"id": "literary-criticism", "en": "Literary Criticism", "zh": "文学评论", "group": "arts"},
-  {"id": "reading-and-study", "en": "Reading and Study", "zh": "读书学习", "group": "learning"},
-  {"id": "fine-cuisine", "en": "Fine Cuisine", "zh": "美食", "group": "daily"},
-  {"id": "simple-food-and-hunger", "en": "Simple Food and Hunger", "zh": "粗茶淡饭", "group": "daily"},
-  {"id": "fine-dress-and-fashion", "en": "Fine Dress and Fashion", "zh": "锦衣华服", "group": "daily"},
-  {"id": "simple-or-poor-clothing", "en": "Simple or Poor Clothing", "zh": "衣着简朴", "group": "daily"},
-  {"id": "positive-character-qualities", "en": "Positive Character Qualities", "zh": "美德", "group": "character"},
-  {"id": "negative-character-flaws", "en": "Negative Character Flaws", "zh": "缺点恶习", "group": "character"},
-  {"id": "farming-and-harvest", "en": "Farming and Harvest", "zh": "农耕收获", "group": "nature"},
-  {"id": "rural-wisdom", "en": "Rural Wisdom", "zh": "田园智慧", "group": "wisdom"},
-  {"id": "successful-construction", "en": "Successful Construction", "zh": "建设有成", "group": "daily"},
-  {"id": "structural-problems", "en": "Structural Problems", "zh": "根基不稳", "group": "daily"},
-  {"id": "good-governance", "en": "Good Governance", "zh": "治理有方", "group": "society"},
-  {"id": "political-corruption", "en": "Political Corruption", "zh": "政治腐败", "group": "society"},
-  {"id": "leadership-and-authority", "en": "Leadership and Authority", "zh": "领导权威", "group": "society"},
-  {"id": "effective-teaching-methods", "en": "Effective Teaching Methods", "zh": "教学有方", "group": "learning"},
-  {"id": "learning-difficulties", "en": "Learning Difficulties", "zh": "学习困难", "group": "learning"},
-  {"id": "academic-achievement", "en": "Academic Achievement", "zh": "学业有成", "group": "learning"},
-  {"id": "medical-skill-and-healing", "en": "Medical Skill and Healing", "zh": "医术", "group": "health"},
-  {"id": "illness-and-disease", "en": "Illness and Disease", "zh": "疾病", "group": "health"},
-  {"id": "outstanding-character", "en": "Outstanding Character", "zh": "品格出众", "group": "character"},
-  {"id": "mediocrity-and-poor-appearance", "en": "Mediocrity and Poor Appearance", "zh": "平庸丑陋", "group": "character"},
-  {"id": "speed-fast-vs-slow", "en": "Speed: Fast vs. Slow", "zh": "快慢", "group": "measure"},
-  {"id": "attitude-humble-vs-arrogant", "en": "Attitude: Humble vs. Arrogant", "zh": "谦虚与骄傲", "group": "character"},
-  {"id": "giving-up-and-weakness", "en": "Giving Up and Weakness", "zh": "放弃软弱", "group": "effort"},
-  {"id": "inappropriate-behavior", "en": "Inappropriate Behavior", "zh": "举止失当", "group": "conduct"},
-  {"id": "harsh-natural-conditions", "en": "Harsh Natural Conditions", "zh": "恶劣环境", "group": "nature"},
-  {"id": "business-failure", "en": "Business Failure", "zh": "经营失败", "group": "success"},
-  {"id": "artistic-mediocrity", "en": "Artistic Mediocrity", "zh": "艺术平庸", "group": "arts"},
-  {"id": "poor-health", "en": "Poor Health", "zh": "体弱多病", "group": "health"},
-  {"id": "small-numbers", "en": "Small Numbers", "zh": "数量稀少", "group": "measure"},
-  {"id": "black-and-white", "en": "Black and White", "zh": "黑白对比", "group": "measure"},
-  {"id": "military-strategy-and-victory", "en": "Military Strategy and Victory", "zh": "兵法制胜", "group": "war"},
-  {"id": "defeat-and-military-failure", "en": "Defeat and Military Failure", "zh": "兵败", "group": "war"},
-  {"id": "animal-behavior-metaphors", "en": "Animal Behavior Metaphors", "zh": "动物比喻", "group": "animals"},
-  {"id": "plant-and-natural-world", "en": "Plant and Natural World", "zh": "植物自然", "group": "animals"},
-  {"id": "memory-techniques", "en": "Memory Techniques", "zh": "记忆", "group": "learning"},
-  {"id": "poverty-and-hardship", "en": "Poverty and Hardship", "zh": "贫困艰难", "group": "fortune"},
-  {"id": "poor-workmanship", "en": "Poor Workmanship", "zh": "粗制滥造", "group": "arts"},
-  {"id": "common-and-worthless", "en": "Common and Worthless", "zh": "平凡无价值", "group": "measure"},
-  {"id": "conflict-and-strife", "en": "Conflict and Strife", "zh": "冲突纷争", "group": "relationships"},
-  {"id": "sadness-and-despair", "en": "Sadness and Despair", "zh": "悲伤绝望", "group": "emotions"},
-  {"id": "experience-and-old-age", "en": "Experience and Old Age", "zh": "经验阅历", "group": "wisdom"},
-  {"id": "distracted-attention", "en": "Distracted Attention", "zh": "心不在焉", "group": "emotions"},
-  {"id": "bad-fortune", "en": "Bad Fortune", "zh": "厄运", "group": "fortune"},
-  {"id": "conformity-and-imitation", "en": "Conformity and Imitation", "zh": "随波逐流", "group": "conduct"},
-  {"id": "poor-timing", "en": "Poor Timing", "zh": "时机不对", "group": "time"},
-  {"id": "outstanding-success-and-fame", "en": "Outstanding Success and Fame", "zh": "功成名就", "group": "success"},
-  {"id": "near-misses-and-setbacks", "en": "Near Misses and Setbacks", "zh": "功亏一篑", "group": "success"},
-  {"id": "complete-failure-and-obscurity", "en": "Complete Failure and Obscurity", "zh": "一败涂地", "group": "success"},
-  {"id": "foolishness-and-ignorance", "en": "Foolishness and Ignorance", "zh": "愚昧无知", "group": "character"},
-  {"id": "poor-speech-and-silence", "en": "Poor Speech and Silence", "zh": "拙于言辞", "group": "speech"},
-  {"id": "laziness-and-giving-up", "en": "Laziness and Giving Up", "zh": "懒惰", "group": "effort"},
-  {"id": "bad-company-and-betrayal", "en": "Bad Company and Betrayal", "zh": "交友不慎与背叛", "group": "relationships"},
-  {"id": "fear-and-cowardice", "en": "Fear and Cowardice", "zh": "恐惧胆怯", "group": "emotions"},
-  {"id": "poor-planning-and-hasty-decisions", "en": "Poor Planning and Hasty Decisions", "zh": "草率冒进", "group": "wisdom"},
-  {"id": "resistance-to-change", "en": "Resistance to Change", "zh": "墨守成规", "group": "conduct"},
-  {"id": "corruption-and-injustice", "en": "Corruption and Injustice", "zh": "贪腐不公", "group": "society"},
-  {"id": "superficial-learning", "en": "Superficial Learning", "zh": "浅尝辄止", "group": "learning"},
-  {"id": "deception-and-false-appearances", "en": "Deception and False Appearances", "zh": "欺骗假象", "group": "speech"},
-  {"id": "numbers", "en": "Numbers", "zh": "数字", "group": "measure"},
-  {"id": "body", "en": "Body", "zh": "人体", "group": "health"},
-  {"id": "food", "en": "Food & drink", "zh": "饮食", "group": "daily"},
-  {"id": "appearance", "en": "Appearance & beauty", "zh": "外貌", "group": "character"},
-  {"id": "change", "en": "Change", "zh": "变化", "group": "fortune"},
-  {"id": "danger", "en": "Danger & difficulty", "zh": "困境", "group": "fortune"},
-  {"id": "freedom", "en": "Freedom & ease", "zh": "自在", "group": "emotions"},
-  {"id": "chaos", "en": "Order & chaos", "zh": "秩序", "group": "conduct"},
-  {"id": "efficiency", "en": "Efficiency & waste", "zh": "得失", "group": "success"},
-  {"id": "stories", "en": "Classic stories & fables", "zh": "寓言典故", "group": "culture"},
-  {"id": "confusion", "en": "Understanding & confusion", "zh": "理解", "group": "emotions"}
+  {
+    "id": "emotions",
+    "en": "Emotions & mind",
+    "zh": "情感心理"
+  },
+  {
+    "id": "character",
+    "en": "Character & looks",
+    "zh": "品德性格"
+  },
+  {
+    "id": "conduct",
+    "en": "Behaviour & conduct",
+    "zh": "处世行为"
+  },
+  {
+    "id": "success",
+    "en": "Success & failure",
+    "zh": "成败得失"
+  },
+  {
+    "id": "effort",
+    "en": "Ambition & effort",
+    "zh": "志向努力"
+  },
+  {
+    "id": "fortune",
+    "en": "Fortune & circumstances",
+    "zh": "祸福境遇"
+  },
+  {
+    "id": "learning",
+    "en": "Learning & teaching",
+    "zh": "学习教育"
+  },
+  {
+    "id": "arts",
+    "en": "Arts & craft",
+    "zh": "文艺技艺"
+  },
+  {
+    "id": "society",
+    "en": "Society & power",
+    "zh": "社会政治"
+  },
+  {
+    "id": "relationships",
+    "en": "Relationships",
+    "zh": "人际关系"
+  },
+  {
+    "id": "war",
+    "en": "War & strategy",
+    "zh": "军事谋略"
+  },
+  {
+    "id": "nature",
+    "en": "Nature & land",
+    "zh": "自然地理"
+  },
+  {
+    "id": "animals",
+    "en": "Animals & plants",
+    "zh": "动物植物"
+  },
+  {
+    "id": "time",
+    "en": "Time",
+    "zh": "时间"
+  },
+  {
+    "id": "measure",
+    "en": "Numbers & degree",
+    "zh": "数量程度"
+  },
+  {
+    "id": "daily",
+    "en": "Daily life",
+    "zh": "衣食住行"
+  },
+  {
+    "id": "health",
+    "en": "Health & body",
+    "zh": "健康身体"
+  },
+  {
+    "id": "speech",
+    "en": "Speech & truth",
+    "zh": "言语真伪"
+  },
+  {
+    "id": "wisdom",
+    "en": "Wisdom & planning",
+    "zh": "智慧谋略"
+  },
+  {
+    "id": "culture",
+    "en": "Culture & stories",
+    "zh": "文化典故"
+  },
+  {
+    "id": "miraculous-occurrences",
+    "en": "Miraculous Occurrences",
+    "zh": "奇迹",
+    "group": "fortune"
+  },
+  {
+    "id": "unprecedented-situations",
+    "en": "Unprecedented Situations",
+    "zh": "史无前例",
+    "group": "fortune"
+  },
+  {
+    "id": "standards-and-benchmarks",
+    "en": "Standards and Benchmarks",
+    "zh": "标准典范",
+    "group": "measure"
+  },
+  {
+    "id": "relative-measurements",
+    "en": "Relative Measurements",
+    "zh": "相对程度",
+    "group": "measure"
+  },
+  {
+    "id": "confusion-and-doubt",
+    "en": "Confusion and Doubt",
+    "zh": "困惑怀疑",
+    "group": "emotions"
+  },
+  {
+    "id": "psychological-pressure",
+    "en": "Psychological Pressure",
+    "zh": "心理压力",
+    "group": "emotions"
+  },
+  {
+    "id": "extraordinary-circumstances",
+    "en": "Extraordinary Circumstances",
+    "zh": "非常情况",
+    "group": "fortune"
+  },
+  {
+    "id": "once-in-a-lifetime-events",
+    "en": "Once-in-a-Lifetime Events",
+    "zh": "千载难逢",
+    "group": "fortune"
+  },
+  {
+    "id": "revenge-and-retribution",
+    "en": "Revenge and Retribution",
+    "zh": "报复报应",
+    "group": "society"
+  },
+  {
+    "id": "complex-emotional-states",
+    "en": "Complex Emotional States",
+    "zh": "复杂心情",
+    "group": "emotions"
+  },
+  {
+    "id": "mental-clarity",
+    "en": "Mental Clarity",
+    "zh": "头脑清醒",
+    "group": "emotions"
+  },
+  {
+    "id": "high-aspirations",
+    "en": "High Aspirations",
+    "zh": "远大志向",
+    "group": "effort"
+  },
+  {
+    "id": "modest-goals",
+    "en": "Modest Goals",
+    "zh": "目标朴实",
+    "group": "effort"
+  },
+  {
+    "id": "failed-ambitions",
+    "en": "Failed Ambitions",
+    "zh": "壮志未酬",
+    "group": "effort"
+  },
+  {
+    "id": "games-and-sports",
+    "en": "Games and Sports",
+    "zh": "游戏体育",
+    "group": "daily"
+  },
+  {
+    "id": "festivals-and-celebrations",
+    "en": "Festivals and Celebrations",
+    "zh": "节庆",
+    "group": "culture"
+  },
+  {
+    "id": "relaxation-and-rest",
+    "en": "Relaxation and Rest",
+    "zh": "休闲",
+    "group": "daily"
+  },
+  {
+    "id": "natural-consequences",
+    "en": "Natural Consequences",
+    "zh": "自然结果",
+    "group": "success"
+  },
+  {
+    "id": "unintended-results",
+    "en": "Unintended Results",
+    "zh": "事与愿违",
+    "group": "success"
+  },
+  {
+    "id": "exact-vs-approximate",
+    "en": "Exact vs. Approximate",
+    "zh": "精确与大概",
+    "group": "measure"
+  },
+  {
+    "id": "successful-completion",
+    "en": "Successful Completion",
+    "zh": "圆满完成",
+    "group": "success"
+  },
+  {
+    "id": "abrupt-endings",
+    "en": "Abrupt Endings",
+    "zh": "戛然而止",
+    "group": "success"
+  },
+  {
+    "id": "circular-conclusions",
+    "en": "Circular Conclusions",
+    "zh": "循环往复",
+    "group": "wisdom"
+  },
+  {
+    "id": "unusual-combinations",
+    "en": "Unusual Combinations",
+    "zh": "奇特组合",
+    "group": "measure"
+  },
+  {
+    "id": "modern-applications-of-classical-ideas",
+    "en": "Modern Applications of Classical Ideas",
+    "zh": "古为今用",
+    "group": "culture"
+  },
+  {
+    "id": "master-craftsmanship",
+    "en": "Master Craftsmanship",
+    "zh": "技艺精湛",
+    "group": "arts"
+  },
+  {
+    "id": "apprenticeship-and-learning",
+    "en": "Apprenticeship and Learning",
+    "zh": "拜师学艺",
+    "group": "learning"
+  },
+  {
+    "id": "daily-time-periods",
+    "en": "Daily Time Periods",
+    "zh": "一日时辰",
+    "group": "time"
+  },
+  {
+    "id": "seasonal-changes",
+    "en": "Seasonal Changes",
+    "zh": "四季变化",
+    "group": "nature"
+  },
+  {
+    "id": "historical-periods",
+    "en": "Historical Periods",
+    "zh": "历史时期",
+    "group": "time"
+  },
+  {
+    "id": "time-management",
+    "en": "Time Management",
+    "zh": "珍惜时间",
+    "group": "time"
+  },
+  {
+    "id": "excellent-acting",
+    "en": "Excellent Acting",
+    "zh": "表演出色",
+    "group": "arts"
+  },
+  {
+    "id": "poor-performance",
+    "en": "Poor Performance",
+    "zh": "表现欠佳",
+    "group": "arts"
+  },
+  {
+    "id": "useful-tools-and-skill",
+    "en": "Useful Tools and Skill",
+    "zh": "工具本领",
+    "group": "daily"
+  },
+  {
+    "id": "broken-or-useless-items",
+    "en": "Broken or Useless Items",
+    "zh": "破旧无用",
+    "group": "daily"
+  },
+  {
+    "id": "journeys-and-exploration",
+    "en": "Journeys and Exploration",
+    "zh": "旅途探索",
+    "group": "daily"
+  },
+  {
+    "id": "difficult-terrain",
+    "en": "Difficult Terrain",
+    "zh": "险要地势",
+    "group": "nature"
+  },
+  {
+    "id": "excellent-writing",
+    "en": "Excellent Writing",
+    "zh": "文笔出众",
+    "group": "arts"
+  },
+  {
+    "id": "literary-criticism",
+    "en": "Literary Criticism",
+    "zh": "文学评论",
+    "group": "arts"
+  },
+  {
+    "id": "reading-and-study",
+    "en": "Reading and Study",
+    "zh": "读书学习",
+    "group": "learning"
+  },
+  {
+    "id": "fine-cuisine",
+    "en": "Fine Cuisine",
+    "zh": "美食",
+    "group": "daily"
+  },
+  {
+    "id": "simple-food-and-hunger",
+    "en": "Simple Food and Hunger",
+    "zh": "粗茶淡饭",
+    "group": "daily"
+  },
+  {
+    "id": "fine-dress-and-fashion",
+    "en": "Fine Dress and Fashion",
+    "zh": "锦衣华服",
+    "group": "daily"
+  },
+  {
+    "id": "simple-or-poor-clothing",
+    "en": "Simple or Poor Clothing",
+    "zh": "衣着简朴",
+    "group": "daily"
+  },
+  {
+    "id": "positive-character-qualities",
+    "en": "Positive Character Qualities",
+    "zh": "美德",
+    "group": "character"
+  },
+  {
+    "id": "negative-character-flaws",
+    "en": "Negative Character Flaws",
+    "zh": "缺点恶习",
+    "group": "character"
+  },
+  {
+    "id": "farming-and-harvest",
+    "en": "Farming and Harvest",
+    "zh": "农耕收获",
+    "group": "nature"
+  },
+  {
+    "id": "rural-wisdom",
+    "en": "Rural Wisdom",
+    "zh": "田园智慧",
+    "group": "wisdom"
+  },
+  {
+    "id": "successful-construction",
+    "en": "Successful Construction",
+    "zh": "建设有成",
+    "group": "daily"
+  },
+  {
+    "id": "structural-problems",
+    "en": "Structural Problems",
+    "zh": "根基不稳",
+    "group": "daily"
+  },
+  {
+    "id": "good-governance",
+    "en": "Good Governance",
+    "zh": "治理有方",
+    "group": "society"
+  },
+  {
+    "id": "political-corruption",
+    "en": "Political Corruption",
+    "zh": "政治腐败",
+    "group": "society"
+  },
+  {
+    "id": "leadership-and-authority",
+    "en": "Leadership and Authority",
+    "zh": "领导权威",
+    "group": "society"
+  },
+  {
+    "id": "effective-teaching-methods",
+    "en": "Effective Teaching Methods",
+    "zh": "教学有方",
+    "group": "learning"
+  },
+  {
+    "id": "learning-difficulties",
+    "en": "Learning Difficulties",
+    "zh": "学习困难",
+    "group": "learning"
+  },
+  {
+    "id": "academic-achievement",
+    "en": "Academic Achievement",
+    "zh": "学业有成",
+    "group": "learning"
+  },
+  {
+    "id": "medical-skill-and-healing",
+    "en": "Medical Skill and Healing",
+    "zh": "医术",
+    "group": "health"
+  },
+  {
+    "id": "illness-and-disease",
+    "en": "Illness and Disease",
+    "zh": "疾病",
+    "group": "health"
+  },
+  {
+    "id": "outstanding-character",
+    "en": "Outstanding Character",
+    "zh": "品格出众",
+    "group": "character"
+  },
+  {
+    "id": "mediocrity-and-poor-appearance",
+    "en": "Mediocrity and Poor Appearance",
+    "zh": "平庸丑陋",
+    "group": "character"
+  },
+  {
+    "id": "speed-fast-vs-slow",
+    "en": "Speed: Fast vs. Slow",
+    "zh": "快慢",
+    "group": "measure"
+  },
+  {
+    "id": "attitude-humble-vs-arrogant",
+    "en": "Attitude: Humble vs. Arrogant",
+    "zh": "谦虚与骄傲",
+    "group": "character"
+  },
+  {
+    "id": "giving-up-and-weakness",
+    "en": "Giving Up and Weakness",
+    "zh": "放弃软弱",
+    "group": "effort"
+  },
+  {
+    "id": "inappropriate-behavior",
+    "en": "Inappropriate Behavior",
+    "zh": "举止失当",
+    "group": "conduct"
+  },
+  {
+    "id": "harsh-natural-conditions",
+    "en": "Harsh Natural Conditions",
+    "zh": "恶劣环境",
+    "group": "nature"
+  },
+  {
+    "id": "business-failure",
+    "en": "Business Failure",
+    "zh": "经营失败",
+    "group": "success"
+  },
+  {
+    "id": "artistic-mediocrity",
+    "en": "Artistic Mediocrity",
+    "zh": "艺术平庸",
+    "group": "arts"
+  },
+  {
+    "id": "poor-health",
+    "en": "Poor Health",
+    "zh": "体弱多病",
+    "group": "health"
+  },
+  {
+    "id": "small-numbers",
+    "en": "Small Numbers",
+    "zh": "数量稀少",
+    "group": "measure"
+  },
+  {
+    "id": "black-and-white",
+    "en": "Black and White",
+    "zh": "黑白对比",
+    "group": "measure"
+  },
+  {
+    "id": "military-strategy-and-victory",
+    "en": "Military Strategy and Victory",
+    "zh": "兵法制胜",
+    "group": "war"
+  },
+  {
+    "id": "defeat-and-military-failure",
+    "en": "Defeat and Military Failure",
+    "zh": "兵败",
+    "group": "war"
+  },
+  {
+    "id": "animal-behavior-metaphors",
+    "en": "Animal Behavior Metaphors",
+    "zh": "动物比喻",
+    "group": "animals"
+  },
+  {
+    "id": "plant-and-natural-world",
+    "en": "Plant and Natural World",
+    "zh": "植物自然",
+    "group": "animals"
+  },
+  {
+    "id": "memory-techniques",
+    "en": "Memory Techniques",
+    "zh": "记忆",
+    "group": "learning"
+  },
+  {
+    "id": "poverty-and-hardship",
+    "en": "Poverty and Hardship",
+    "zh": "贫困艰难",
+    "group": "fortune"
+  },
+  {
+    "id": "poor-workmanship",
+    "en": "Poor Workmanship",
+    "zh": "粗制滥造",
+    "group": "arts"
+  },
+  {
+    "id": "common-and-worthless",
+    "en": "Common and Worthless",
+    "zh": "平凡无价值",
+    "group": "measure"
+  },
+  {
+    "id": "conflict-and-strife",
+    "en": "Conflict and Strife",
+    "zh": "冲突纷争",
+    "group": "relationships"
+  },
+  {
+    "id": "sadness-and-despair",
+    "en": "Sadness and Despair",
+    "zh": "悲伤绝望",
+    "group": "emotions"
+  },
+  {
+    "id": "experience-and-old-age",
+    "en": "Experience and Old Age",
+    "zh": "经验阅历",
+    "group": "wisdom"
+  },
+  {
+    "id": "distracted-attention",
+    "en": "Distracted Attention",
+    "zh": "心不在焉",
+    "group": "emotions"
+  },
+  {
+    "id": "bad-fortune",
+    "en": "Bad Fortune",
+    "zh": "厄运",
+    "group": "fortune"
+  },
+  {
+    "id": "conformity-and-imitation",
+    "en": "Conformity and Imitation",
+    "zh": "随波逐流",
+    "group": "conduct"
+  },
+  {
+    "id": "poor-timing",
+    "en": "Poor Timing",
+    "zh": "时机不对",
+    "group": "time"
+  },
+  {
+    "id": "outstanding-success-and-fame",
+    "en": "Outstanding Success and Fame",
+    "zh": "功成名就",
+    "group": "success"
+  },
+  {
+    "id": "near-misses-and-setbacks",
+    "en": "Near Misses and Setbacks",
+    "zh": "功亏一篑",
+    "group": "success"
+  },
+  {
+    "id": "complete-failure-and-obscurity",
+    "en": "Complete Failure and Obscurity",
+    "zh": "一败涂地",
+    "group": "success"
+  },
+  {
+    "id": "foolishness-and-ignorance",
+    "en": "Foolishness and Ignorance",
+    "zh": "愚昧无知",
+    "group": "character"
+  },
+  {
+    "id": "poor-speech-and-silence",
+    "en": "Poor Speech and Silence",
+    "zh": "拙于言辞",
+    "group": "speech"
+  },
+  {
+    "id": "laziness-and-giving-up",
+    "en": "Laziness and Giving Up",
+    "zh": "懒惰",
+    "group": "effort"
+  },
+  {
+    "id": "bad-company-and-betrayal",
+    "en": "Bad Company and Betrayal",
+    "zh": "交友不慎与背叛",
+    "group": "relationships"
+  },
+  {
+    "id": "fear-and-cowardice",
+    "en": "Fear and Cowardice",
+    "zh": "恐惧胆怯",
+    "group": "emotions"
+  },
+  {
+    "id": "poor-planning-and-hasty-decisions",
+    "en": "Poor Planning and Hasty Decisions",
+    "zh": "草率冒进",
+    "group": "wisdom"
+  },
+  {
+    "id": "resistance-to-change",
+    "en": "Resistance to Change",
+    "zh": "墨守成规",
+    "group": "conduct"
+  },
+  {
+    "id": "corruption-and-injustice",
+    "en": "Corruption and Injustice",
+    "zh": "贪腐不公",
+    "group": "society"
+  },
+  {
+    "id": "superficial-learning",
+    "en": "Superficial Learning",
+    "zh": "浅尝辄止",
+    "group": "learning"
+  },
+  {
+    "id": "deception-and-false-appearances",
+    "en": "Deception and False Appearances",
+    "zh": "欺骗假象",
+    "group": "speech"
+  },
+  {
+    "id": "numbers",
+    "en": "Numbers",
+    "zh": "数字",
+    "group": "measure"
+  },
+  {
+    "id": "body",
+    "en": "Body",
+    "zh": "人体",
+    "group": "health"
+  },
+  {
+    "id": "food",
+    "en": "Food & drink",
+    "zh": "饮食",
+    "group": "daily"
+  },
+  {
+    "id": "appearance",
+    "en": "Appearance & beauty",
+    "zh": "外貌",
+    "group": "character"
+  },
+  {
+    "id": "change",
+    "en": "Change",
+    "zh": "变化",
+    "group": "fortune"
+  },
+  {
+    "id": "danger",
+    "en": "Danger & difficulty",
+    "zh": "困境",
+    "group": "fortune"
+  },
+  {
+    "id": "freedom",
+    "en": "Freedom & ease",
+    "zh": "自在",
+    "group": "emotions"
+  },
+  {
+    "id": "chaos",
+    "en": "Order & chaos",
+    "zh": "秩序",
+    "group": "conduct"
+  },
+  {
+    "id": "efficiency",
+    "en": "Efficiency & waste",
+    "zh": "得失",
+    "group": "success"
+  },
+  {
+    "id": "stories",
+    "en": "Classic stories & fables",
+    "zh": "寓言典故",
+    "group": "culture"
+  },
+  {
+    "id": "confusion",
+    "en": "Understanding & confusion",
+    "zh": "理解",
+    "group": "emotions"
+  },
+  {
+    "id": "origins",
+    "en": "Origins & sources",
+    "zh": "出处来源"
+  },
+  {
+    "id": "confucian-classics",
+    "en": "Confucian classics",
+    "zh": "儒家经典",
+    "group": "origins"
+  },
+  {
+    "id": "daoist-classics",
+    "en": "Daoist classics",
+    "zh": "道家经典",
+    "group": "origins"
+  },
+  {
+    "id": "buddhist-origin",
+    "en": "Buddhist origin",
+    "zh": "佛教来源",
+    "group": "origins"
+  },
+  {
+    "id": "historical-records",
+    "en": "Historical records",
+    "zh": "史书典故",
+    "group": "origins"
+  },
+  {
+    "id": "three-kingdoms",
+    "en": "Three Kingdoms",
+    "zh": "三国故事",
+    "group": "origins"
+  },
+  {
+    "id": "thirty-six-stratagems",
+    "en": "Thirty-Six Stratagems",
+    "zh": "三十六计",
+    "group": "origins"
+  },
+  {
+    "id": "myths-legends",
+    "en": "Myths & legends",
+    "zh": "神话传说",
+    "group": "origins"
+  },
+  {
+    "id": "poems-prose",
+    "en": "Famous poems & prose",
+    "zh": "诗文名篇",
+    "group": "origins"
+  },
+  {
+    "id": "uses",
+    "en": "Uses & occasions",
+    "zh": "用途场合"
+  },
+  {
+    "id": "festive-greetings",
+    "en": "Festive greetings",
+    "zh": "节日祝福",
+    "group": "uses"
+  },
+  {
+    "id": "wedding-wishes",
+    "en": "Wedding wishes",
+    "zh": "婚礼祝福",
+    "group": "uses"
+  },
+  {
+    "id": "polite-humble",
+    "en": "Polite & humble phrases",
+    "zh": "谦辞敬语",
+    "group": "uses"
+  },
+  {
+    "id": "essay-favourites",
+    "en": "Essay favourites",
+    "zh": "作文常用",
+    "group": "uses"
+  }
 ]

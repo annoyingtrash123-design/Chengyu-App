@@ -4,7 +4,8 @@ Read `docs/content-guide.md` before writing entries. Key standing rules from the
 
 - **Labels, not themes.** The `themes` field is shown as "Labels" (标签). Tag every label that applies;
   add new labels to `data/themes.json` when a recurring type of expression needs one, and back-fill
-  them onto existing entries. Applies to all three content phases.
+  them onto existing entries (`python3 scripts/backfill_labels.py` after every batch). Applies to all
+  three content phases.
 - **Frequency tiers:** ★★★ Core · ★★ Common · ★ Uncommon (not "Literary").
 - **Variants** are one entry: headword = most common form, others in `variants`; never list a variant
   as a synonym/antonym, and never list two forms of one expression in the same list.

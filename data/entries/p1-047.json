@@ -9,7 +9,8 @@
     "register": "literary",
     "themes": [
       "wisdom",
-      "danger"
+      "danger",
+      "historical-records"
     ],
     "literal": "bend · chimney · move · firewood",
     "natural": "Bending the chimney and moving the firewood",
@@ -64,7 +65,8 @@
     "register": "literary",
     "themes": [
       "reading-and-study",
-      "effort"
+      "effort",
+      "historical-records"
     ],
     "literal": "leather · binding · three times · break",
     "natural": "The leather bindings breaking three times",
@@ -264,7 +266,9 @@
     "register": "neutral",
     "themes": [
       "military-strategy-and-victory",
-      "stories"
+      "stories",
+      "historical-records",
+      "three-kingdoms"
     ],
     "literal": "seven · capture · seven · release",
     "natural": "Capturing seven times and releasing seven times",
@@ -515,7 +519,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "poor-speech-and-silence"
+      "poor-speech-and-silence",
+      "polite-humble"
     ],
     "literal": "clumsy · mouth · awkward · tongue",
     "natural": "A clumsy mouth and awkward tongue",
@@ -614,7 +619,9 @@
     "register": "literary",
     "themes": [
       "broken-or-useless-items",
-      "wisdom"
+      "wisdom",
+      "daoist-classics",
+      "polite-humble"
     ],
     "literal": "not · timber · (of) · tree",
     "natural": "A tree of no use as timber",

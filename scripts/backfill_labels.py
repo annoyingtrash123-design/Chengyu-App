@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""Add origin/usage labels to entries from their recorded source and usage notes.
+
+Run after every batch (and after adding a new rule here) so new labels are
+back-filled onto old entries too. Only ever adds labels; never removes.
+
+    python3 scripts/backfill_labels.py            # all entries
+"""
+import glob
+import json
+import re
+
+# label → regex on origin.source (+ story for myths)
+SOURCE_RULES = {
+    "confucian-classics": r"《(论语|孟子|荀子|礼记|大学|中庸|孔子家语)",
+    "daoist-classics": r"《(老子|庄子|列子|淮南子)",
+    "buddhist-origin": r"《(金刚经|长阿含经|维摩诘经|妙法莲华经|法华经|大般涅槃经|涅槃经|心地观经|六祖坛经|景德传灯录|指月录|五灯会元)",
+    "historical-records": r"《(史记|汉书|后汉书|三国志|晋书|宋书|南史|北史|魏书|北齐书|旧唐书|新唐书|宋史|左传|国语|战国策|资治通鉴)",
+    "three-kingdoms": r"三国志|三国演义",
+    "thirty-six-stratagems": r"三十六计",
+    "myths-legends": r"山海经|拾遗记|续玄怪录|搜神记|神话|淮南子·览冥",
+    "poems-prose": r"(李白|杜甫|苏轼|陆游|白居易|孟郊|陈子昂|曹操《|龚自珍|朱熹《春日|王安石|秦观|李煜|崔郊|王勃|《诗经|屈原|赵孟頫|于谦|陶渊明|韩愈|范仲淹|欧阳修|王羲之|李密|柳宗元|丘迟|刘勰|钟嵘|宋玉|李正封|李延年|庾信|毛泽东《|李商隐|王褒|贾谊《过秦论|蔡邕|嵇康|罗大经)",
+}
+# label → regex on usage (zh + en)
+USAGE_RULES = {
+    "festive-greetings": r"祝福|New Year|blessing|greeting|春联",
+    "wedding-wishes": r"婚礼|wedding|newlywed",
+    "polite-humble": r"谦辞|self-deprecat|客套|polite formula",
+    "essay-favourites": r"作文常用|school writing|作文",
+}
+MYTH_TEXTS = {"女娲补天", "炼石补天", "夸父逐日", "精卫填海", "开天辟地", "愚公移山", "天女散花", "月下老人", "八仙过海", "南柯一梦", "干将莫邪", "嫦娥奔月"}
+# Hand-picked additions the keyword rules can't find.
+MANUAL = {
+    "wedding-wishes": ["举案齐眉", "天长地久", "郎才女貌", "珠联璧合", "白头偕老", "相敬如宾"],
+    "festive-greetings": ["心想事成", "万事如意", "步步高升", "年年有余", "大吉大利"],
+    "polite-humble": ["洗耳恭听", "滥竽充数", "甘拜下风", "拙作", "献丑"],
+    "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
+}
+# Never auto-add these (checked by hand: the keyword match is misleading).
+EXCLUDE = {("塞翁失马", "festive-greetings"), ("叶公好龙", "myths-legends")}
+
+added = 0
+for f in sorted(glob.glob("data/entries/*.json")):
+    data = json.load(open(f, encoding="utf-8"))
+    changed = False
+    for e in data:
+        o = e.get("origin") or {}
+        src = o.get("source", "") if o else ""
+        use = e["usage"]["zh"] + " " + e["usage"]["en"]
+        want = [lab for lab, rx in SOURCE_RULES.items() if src and re.search(rx, src)]
+        want += [lab for lab, rx in USAGE_RULES.items() if re.search(rx, use)]
+        want += [lab for lab, texts in MANUAL.items() if e["text"] in texts]
+        if e["text"] in MYTH_TEXTS:
+            want.append("myths-legends")
+        for lab in want:
+            if (e["text"], lab) in EXCLUDE:
+                continue
+            if lab not in e["themes"]:
+                e["themes"].append(lab)
+                added += 1
+                changed = True
+    if changed:
+        open(f, "w", encoding="utf-8").write(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+print(f"added {added} labels")
