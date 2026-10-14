@@ -1,0 +1,104 @@
+[
+  {
+    "id": "san-ge-chou-pi-jiang",
+    "text": "三个臭皮匠，顶个诸葛亮",
+    "pinyin": "sān gè chòu pí jiàng, dǐng gè zhū gě liàng",
+    "kind": "suyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": ["relationships", "wisdom", "numbers"],
+    "literal": "Three smelly cobblers equal one Zhuge Liang",
+    "meaning": {
+      "en": "Two heads are better than one: ordinary people pooling their ideas can match a genius.",
+      "zh": "比喻人多智慧多，几个普通人的智慧合起来，能顶一个聪明人。"
+    },
+    "examples": [
+      {
+        "zh": "这个问题我们一起讨论吧，三个臭皮匠，顶个诸葛亮。",
+        "en": "Let's work through this problem together — two heads are better than one."
+      }
+    ],
+    "origin": {
+      "source": "民间俗语",
+      "story": {
+        "en": "Zhuge Liang (181–234), chancellor of Shu Han in the Three Kingdoms period, is the archetype of wisdom in Chinese culture. A popular theory holds that 皮匠 \"cobbler\" was originally 裨将 pí jiàng \"deputy general\" — three deputy generals together could match Zhuge Liang — and the words merged in speech because they sound alike.",
+        "zh": "诸葛亮是三国时期蜀汉丞相，在中国文化中是智慧的化身。有一种说法认为\"皮匠\"原是\"裨将\"（副将），意思是三个副将的智慧合起来能比得上诸葛亮，后来因为读音相近而讹传为\"皮匠\"。"
+      }
+    },
+    "usage": {
+      "en": "Said to encourage teamwork and brainstorming. Humorous and modest (you call your own group \"smelly cobblers\"). Also 三个臭皮匠，赛过诸葛亮.",
+      "zh": "多用于鼓励集思广益，带有自谦和幽默色彩。也说\"三个臭皮匠，赛过诸葛亮\"。"
+    },
+    "synonyms": ["集思广益", "众人拾柴火焰高"],
+    "antonyms": []
+  },
+  {
+    "id": "chi-yi-qian-zhang-yi-zhi",
+    "text": "吃一堑，长一智",
+    "pinyin": "chī yī qiàn, zhǎng yī zhì",
+    "kind": "suyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": ["learning", "wisdom", "success"],
+    "literal": "Fall into a pit once, gain a bit of wisdom",
+    "meaning": {
+      "en": "Every setback makes you wiser; you learn from your mistakes.",
+      "zh": "受一次挫折，便长一分见识。"
+    },
+    "examples": [
+      {
+        "zh": "上次因为没备份丢了论文，吃一堑，长一智，现在我每天都备份文件。",
+        "en": "Last time I lost my essay because I hadn't backed it up. Lesson learned — now I back up my files every day."
+      }
+    ],
+    "origin": {
+      "source": "明·王守仁《与薛尚谦书》",
+      "story": {
+        "en": "The idea goes back to a letter by the Ming philosopher Wang Shouren (Wang Yangming): \"Whoever stumbles once gains a bit of wisdom; today's loss may well become tomorrow's gain.\" The rhyming spoken form 吃一堑，长一智 later became the usual version.",
+        "zh": "明代思想家王守仁（王阳明）在给薛尚谦的信中写道：\"经一蹶者长一智，今日之失，未必不为后日之得。\"后来民间说成\"吃一堑，长一智\"。"
+      }
+    },
+    "usage": {
+      "en": "Used after a mistake, to sum up the lesson or to comfort someone. 堑 qiàn (\"moat, pit\") is rare outside this saying; 长 is read zhǎng (\"grow\"), not cháng.",
+      "zh": "多用于犯错之后总结教训或安慰别人。\"堑\"读 qiàn，\"长\"读 zhǎng。"
+    },
+    "synonyms": ["失败是成功之母"],
+    "antonyms": ["重蹈覆辙"]
+  },
+  {
+    "id": "bai-wen-bu-ru-yi-jian",
+    "text": "百闻不如一见",
+    "pinyin": "bǎi wén bù rú yī jiàn",
+    "kind": "suyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": ["numbers", "learning", "wisdom"],
+    "literal": "Hearing a hundred times is not as good as seeing once",
+    "meaning": {
+      "en": "Seeing is believing; seeing something for yourself beats hearing about it many times.",
+      "zh": "听别人说一百次，不如亲眼看一次。指亲眼看到的比听来的更可靠。"
+    },
+    "examples": [
+      {
+        "zh": "大家都说桂林山水美，这次亲自去了才知道，真是百闻不如一见。",
+        "en": "Everyone says Guilin's scenery is beautiful, but only after going myself did I really understand — seeing is believing."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·赵充国传》",
+      "story": {
+        "en": "When the Qiang people rose up in the northwest, Emperor Xuan of Han asked the general Zhao Chongguo, then over seventy, how many troops would be needed. Zhao replied: \"Hearing a hundred times is not as good as seeing once. It is hard to plan a campaign from afar — let me ride to Jincheng and draw up a plan there.\" He studied the terrain in person and proposed stationing soldiers to farm the frontier, which eventually brought peace to the region.",
+        "zh": "汉宣帝时，西北羌人叛乱。汉宣帝问七十多岁的老将赵充国需要派多少兵马，赵充国说：\"百闻不如一见。兵难遥度，臣愿驰至金城，图上方略。\"他亲自到前线察看地形，提出屯田戍边的策略，最终平定了叛乱。"
+      }
+    },
+    "usage": {
+      "en": "Said when something seen in person turns out better than (or different from) what you'd heard. Common in travel talk. Sometimes extended: 百闻不如一见，百见不如一干 (\"seeing beats hearing; doing beats seeing\").",
+      "zh": "常用于亲眼见到之后发出感叹，谈旅游时尤其常用。有人扩展为\"百闻不如一见，百见不如一干\"。"
+    },
+    "synonyms": ["眼见为实"],
+    "antonyms": ["道听途说"]
+  }
+]

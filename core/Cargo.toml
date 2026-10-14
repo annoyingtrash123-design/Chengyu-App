@@ -1,0 +1,12 @@
+[package]
+name = "chengyu-core"
+version.workspace = true
+edition.workspace = true
+description = "Dictionary, search, spaced repetition and game logic for the Chengyu app"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+
+[build-dependencies]
+serde_json.workspace = true

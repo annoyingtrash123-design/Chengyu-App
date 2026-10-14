@@ -1,0 +1,71 @@
+[
+  {
+    "id": "pai-ma-pi",
+    "text": "拍马屁",
+    "pinyin": "pāi mǎ pì",
+    "kind": "guanyongyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": ["animals", "conduct", "relationships"],
+    "literal": "Pat the horse's backside",
+    "meaning": {
+      "en": "To suck up to someone; to flatter shamelessly; to brown-nose.",
+      "zh": "比喻谄媚奉承，讨好别人。"
+    },
+    "examples": [
+      {
+        "zh": "他整天拍老板的马屁，同事们都看不惯。",
+        "en": "He's always sucking up to the boss, and his colleagues can't stand it."
+      },
+      {
+        "zh": "别拍马屁了，有什么事直说吧。",
+        "en": "Stop buttering me up — just tell me what you want."
+      }
+    ],
+    "origin": {
+      "source": "相传源于元代蒙古族习俗",
+      "story": {
+        "en": "Tradition says that in the Yuan dynasty, when Mongols leading horses met, they would pat the other's horse on the rump and praise it as a fine horse, as a courtesy to its owner. Some people praised every horse regardless of quality to curry favour, and \"patting the horse's backside\" came to mean flattery.",
+        "zh": "相传元代蒙古人牵马相遇时，常拍拍对方马的屁股，夸一句\"好马\"，以示对马主人的尊重。后来有人不管马好坏都一味夸赞讨好，\"拍马屁\"就成了奉承的代称。"
+      }
+    },
+    "usage": {
+      "en": "A separable verb-object phrase: 拍某人的马屁, 拍了半天马屁. Very colloquial and derogatory. A 马屁精 is a suck-up; 拍马屁拍到马腿上 is flattery that backfires.",
+      "zh": "离合用法：\"拍某人的马屁\"\"拍了半天马屁\"。口语，含贬义。相关说法：\"马屁精\"\"拍马屁拍到马腿上\"。"
+    },
+    "synonyms": ["阿谀奉承", "溜须拍马"],
+    "antonyms": ["直言不讳"]
+  },
+  {
+    "id": "zou-hou-men",
+    "text": "走后门",
+    "pinyin": "zǒu hòu mén",
+    "kind": "guanyongyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": ["society", "conduct"],
+    "literal": "Go through the back door",
+    "meaning": {
+      "en": "To get something done through connections or influence rather than proper channels; to pull strings.",
+      "zh": "比喻通过托人情、拉关系等不正当途径达到目的。"
+    },
+    "examples": [
+      {
+        "zh": "他靠走后门进了这家公司，大家都不服气。",
+        "en": "He got into the company through connections, and nobody thinks it's fair."
+      },
+      {
+        "zh": "现在招生很透明，想走后门可没那么容易。",
+        "en": "Admissions are very transparent now; it's not easy to pull strings."
+      }
+    ],
+    "usage": {
+      "en": "Separable: 走了后门, 走他的后门. Used of jobs, school places, permits and so on obtained through 关系 (connections). Critical. The person granting the favour 开后门 (\"opens the back door\").",
+      "zh": "离合用法：\"走了后门\"\"走他的后门\"。含贬义。给人方便的一方叫\"开后门\"。"
+    },
+    "synonyms": ["拉关系", "托关系"],
+    "antonyms": ["公事公办"]
+  }
+]

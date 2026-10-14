@@ -1,0 +1,454 @@
+[
+  {
+    "id": "hua-she-tian-zu",
+    "text": "画蛇添足",
+    "pinyin": "huà shé tiān zú",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": ["animals", "efficiency", "stories"],
+    "literal": "Draw a snake and add feet",
+    "meaning": {
+      "en": "To ruin something by adding what is unnecessary; to overdo it; to gild the lily.",
+      "zh": "比喻做了多余的事，非但无益，反而弄巧成拙。"
+    },
+    "examples": [
+      {
+        "zh": "这篇文章已经写得很好了，结尾再加一段总结反而是画蛇添足。",
+        "en": "The essay was already excellent; adding a summary paragraph at the end just spoiled it."
+      },
+      {
+        "zh": "这个设计简洁大方，再加装饰就画蛇添足了。",
+        "en": "The design is clean and elegant — adding decoration would be overdoing it."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·齐策二》",
+      "story": {
+        "en": "In the state of Chu, a man gave his attendants a jug of wine. It was too little for everyone, so they agreed that whoever first drew a snake on the ground would drink it. One man finished first and, jug in hand, boasted that he had time to add feet. Before he had finished the feet, another man completed his snake, snatched the jug and said, \"Snakes have no feet — how can you give it feet?\" and drank the wine.",
+        "zh": "楚国有人祭祀后，把一壶酒赏给门客。门客们商量：大家在地上画蛇，先画成的人喝酒。一个人最先画好，左手拿着酒壶，右手又给蛇画起脚来，说：\"我还能给它添上脚呢！\"脚还没画完，另一个人已经画好了蛇，夺过酒壶说：\"蛇本来就没有脚，你怎么能给它添脚呢？\"说完便把酒喝了。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object, e.g. 未免画蛇添足 / 是画蛇添足. Critical. Common when giving feedback on writing, design or speeches.",
+      "zh": "多作谓语、宾语，如\"未免画蛇添足\"；含贬义。常用于评价文章、设计、讲话等多此一举。"
+    },
+    "synonyms": ["多此一举", "弄巧成拙"],
+    "antonyms": ["恰到好处", "画龙点睛"]
+  },
+  {
+    "id": "shou-zhu-dai-tu",
+    "text": "守株待兔",
+    "pinyin": "shǒu zhū dài tù",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": ["animals", "conduct", "stories"],
+    "literal": "Guard a tree stump, waiting for rabbits",
+    "meaning": {
+      "en": "To wait idly for a stroke of luck instead of working for it; to cling rigidly to past experience.",
+      "zh": "比喻死守狭隘经验，不知变通；也比喻妄想不劳而获。"
+    },
+    "examples": [
+      {
+        "zh": "找工作要主动出击，光在家守株待兔是不行的。",
+        "en": "When job hunting you have to take the initiative — just sitting at home waiting for luck won't work."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·五蠹》",
+      "story": {
+        "en": "A farmer in the state of Song saw a rabbit dash into a tree stump in his field, break its neck and die. From then on he put down his plough and waited beside the stump, hoping to catch another rabbit. No rabbit ever came, his fields went to ruin, and he became the laughing stock of Song.",
+        "zh": "宋国有个农夫，看见一只兔子撞在田里的树桩上，折断脖子死了。从此他放下农具，天天守在树桩旁边，希望再捡到撞死的兔子。兔子再也没有来，他的田却荒了，他也成了宋国人的笑柄。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial. Critical. Often contrasted with 主动出击 (taking the initiative).",
+      "zh": "多作谓语、状语；含贬义。常与\"主动出击\"对比使用。"
+    },
+    "synonyms": ["刻舟求剑", "墨守成规"],
+    "antonyms": ["随机应变"]
+  },
+  {
+    "id": "ban-tu-er-fei",
+    "text": "半途而废",
+    "pinyin": "bàn tú ér fèi",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": ["effort", "success"],
+    "literal": "Give up halfway along the road",
+    "meaning": {
+      "en": "To give up halfway; to leave something unfinished.",
+      "zh": "路走到一半就停下来。比喻做事有始无终，不能坚持到底。"
+    },
+    "examples": [
+      {
+        "zh": "学语言最怕半途而废，每天坚持一点点就会有进步。",
+        "en": "The worst thing when learning a language is giving up halfway — a little every day adds up."
+      },
+      {
+        "zh": "既然开始了，就不要半途而废。",
+        "en": "Now that you've started, don't give up halfway."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·中庸》；故事见《后汉书·列女传》",
+      "story": {
+        "en": "The Doctrine of the Mean says: \"The gentleman follows the Way; to give up halfway — that I cannot do.\" A well-known story illustrates it: Yue Yangzi left home to study but came back after a year because he missed home. His wife took a knife to her loom and cut through the cloth she was weaving, saying: \"This cloth is woven thread by thread. Cut it now and all the work is wasted. Abandoning your studies halfway is no different.\" Moved, he went back and finished his studies.",
+        "zh": "《礼记·中庸》说：\"君子遵道而行，半涂而废，吾弗能已矣。\"《后汉书》记载：乐羊子外出求学，一年后因为想家就回来了。妻子拿起刀走到织布机前，说：\"这布是一丝一线织成的，现在割断，以前的功夫就全白费了。你求学半途而归，和割断这布有什么不同？\"乐羊子深受感动，回去完成了学业。"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Critical. Very common, especially in advice: 不要半途而废 / 千万别半途而废.",
+      "zh": "多作谓语；含贬义。常用于劝诫，如\"不要半途而废\"。"
+    },
+    "synonyms": ["有始无终", "前功尽弃"],
+    "antonyms": ["持之以恒", "有始有终", "锲而不舍"]
+  },
+  {
+    "id": "ma-dao-cheng-gong",
+    "text": "马到成功",
+    "pinyin": "mǎ dào chéng gōng",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": ["animals", "success", "war"],
+    "literal": "Success as soon as the horses arrive",
+    "meaning": {
+      "en": "To achieve immediate success; (as a wish) \"may you succeed straight away\".",
+      "zh": "战马一到就取得胜利。形容事情顺利，一开始就取得成功。多用作祝福语。"
+    },
+    "examples": [
+      {
+        "zh": "祝你这次比赛马到成功！",
+        "en": "Good luck in the competition — may you win straight away!"
+      },
+      {
+        "zh": "新产品一上市就马到成功，销量远超预期。",
+        "en": "The new product was an instant success, selling far more than expected."
+      }
+    ],
+    "origin": {
+      "source": "元·无名氏《小尉迟》第二折",
+      "story": {
+        "en": "In ancient warfare cavalry often decided the battle, so the phrase praised a general so capable that victory came the moment his warhorses reached the field. It already appears in Yuan-dynasty zaju plays and later became one of the most popular good-luck wishes.",
+        "zh": "古代作战多依靠战马，\"马到成功\"形容将领英勇善战，战马一到阵前就能获胜。元代杂剧中已经常见，后来成为最常用的祝福语之一。"
+      }
+    },
+    "usage": {
+      "en": "Mostly a blessing: 祝你……马到成功. Also a predicate. Popular before exams, interviews, matches and business openings, and especially in the Year of the Horse.",
+      "zh": "多用作祝福语，如\"祝你马到成功\"；也可作谓语。常用于考试、面试、比赛、开业等场合，马年尤其常用。"
+    },
+    "synonyms": ["旗开得胜", "一帆风顺"],
+    "antonyms": ["一败涂地"]
+  },
+  {
+    "id": "luan-qi-ba-zao",
+    "text": "乱七八糟",
+    "pinyin": "luàn qī bā zāo",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": ["numbers", "chaos"],
+    "literal": "Chaotic sevens and messy eights",
+    "meaning": {
+      "en": "In a complete mess; chaotic; at sixes and sevens.",
+      "zh": "形容杂乱无章，乱得不成样子。"
+    },
+    "examples": [
+      {
+        "zh": "他的房间乱七八糟的，书和衣服扔得到处都是。",
+        "en": "His room is a complete mess, with books and clothes thrown everywhere."
+      },
+      {
+        "zh": "别整天想那些乱七八糟的事，早点睡吧。",
+        "en": "Stop worrying about all that random stuff and get some sleep."
+      }
+    ],
+    "origin": {
+      "source": "民间说法（无确切出处）",
+      "story": {
+        "en": "A popular explanation links 七 and 八 to two periods of turmoil: the Rebellion of the Seven States (七国之乱) in the Western Han and the War of the Eight Princes (八王之乱) in the Western Jin. This is folk etymology; in practice 七…八… is simply a common pattern meaning \"all kinds of, jumbled\", as in 七上八下 and 七嘴八舌.",
+        "zh": "民间说法认为\"七\"指西汉的七国之乱，\"八\"指西晋的八王之乱。这只是一种通俗解释；实际上\"七……八……\"是汉语中表示杂乱、繁多的常见格式，如\"七上八下\"\"七嘴八舌\"。"
+      }
+    },
+    "usage": {
+      "en": "Very colloquial. Works as a predicate, a complement (搞得乱七八糟, 写得乱七八糟) or an attributive (乱七八糟的东西, \"all sorts of junk\"). Describes thoughts and situations as well as physical mess.",
+      "zh": "口语常用。可作谓语、补语、定语，如\"搞得乱七八糟\"\"乱七八糟的东西\"。既可形容东西杂乱，也可形容思绪、局面混乱。"
+    },
+    "synonyms": ["杂乱无章", "一塌糊涂"],
+    "antonyms": ["井井有条", "有条不紊"]
+  },
+  {
+    "id": "mo-ming-qi-miao",
+    "text": "莫名其妙",
+    "pinyin": "mò míng qí miào",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": ["confusion", "emotions"],
+    "literal": "No one can name its secret",
+    "meaning": {
+      "en": "Baffling; inexplicable; for no apparent reason.",
+      "zh": "没有人能说出其中的奥妙。指事情很奇怪，说不出道理，使人不明白。"
+    },
+    "examples": [
+      {
+        "zh": "他莫名其妙地发了一顿脾气，大家都不知道为什么。",
+        "en": "He lost his temper for no apparent reason, and nobody knew why."
+      },
+      {
+        "zh": "这部电影的结局真让人莫名其妙。",
+        "en": "The ending of this film was totally baffling."
+      }
+    ],
+    "usage": {
+      "en": "Very common in speech. Predicate (真莫名其妙), adverbial (莫名其妙地……) or attributive. Often carries mild annoyance. The older variant 莫明其妙 is also seen.",
+      "zh": "口语常用，可作谓语、状语、定语，常带不满或不解的语气。也写作\"莫明其妙\"。"
+    },
+    "synonyms": ["不可思议", "匪夷所思"],
+    "antonyms": ["恍然大悟", "一目了然"]
+  },
+  {
+    "id": "yi-ju-liang-de",
+    "text": "一举两得",
+    "pinyin": "yī jǔ liǎng dé",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": ["numbers", "efficiency"],
+    "literal": "One action, two gains",
+    "meaning": {
+      "en": "To kill two birds with one stone; to gain two things with one action.",
+      "zh": "做一件事，同时得到两方面的好处。"
+    },
+    "examples": [
+      {
+        "zh": "骑自行车上班既能锻炼身体又能省钱，真是一举两得。",
+        "en": "Cycling to work keeps you fit and saves money — it kills two birds with one stone."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·束皙传》；故事见《史记·张仪列传》",
+      "story": {
+        "en": "Bian Zhuangzi wanted to kill two tigers that were fighting over an ox. Someone advised him to wait: when two tigers fight, the smaller will die and the larger will be wounded. If he then killed the wounded one, he would earn the fame of killing two tigers in a single stroke. He followed the advice and won the name of a double tiger-slayer.",
+        "zh": "卞庄子想刺杀两只正在争吃一头牛的老虎。旁人劝他：两虎相争，小的必死，大的必伤，等大虎受伤后再去刺它，一下子就能得到刺杀两只老虎的名声。卞庄子照着做了，果然\"一举而有双虎之名\"。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive (一举两得的办法). Positive; often describes a clever plan. In speech 一 changes to yí here (tone sandhi), but it is written yī.",
+      "zh": "多作谓语、定语，如\"一举两得的办法\"；含褒义。口语中\"一\"变调读 yí。"
+    },
+    "synonyms": ["一箭双雕", "一石二鸟"],
+    "antonyms": ["得不偿失"]
+  },
+  {
+    "id": "zi-xiang-mao-dun",
+    "text": "自相矛盾",
+    "pinyin": "zì xiāng máo dùn",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": ["speech", "stories"],
+    "literal": "One's own spear and shield contradict each other",
+    "meaning": {
+      "en": "To contradict oneself; self-contradictory.",
+      "zh": "比喻自己的言行前后抵触，不能自圆其说。"
+    },
+    "examples": [
+      {
+        "zh": "他一会儿说没去过那里，一会儿又说在那里见过朋友，说法自相矛盾。",
+        "en": "First he said he'd never been there, then that he'd met a friend there — his story contradicts itself."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·难一》",
+      "story": {
+        "en": "A man of Chu was selling spears and shields. He boasted that his shields were so strong that nothing could pierce them, then that his spears were so sharp they could pierce anything. Someone asked, \"What happens if I strike your shield with your spear?\" The man had no answer.",
+        "zh": "楚国有个卖矛和盾的人，先夸他的盾坚固得什么东西都刺不穿，又夸他的矛锋利得什么东西都能刺穿。有人问：\"用你的矛去刺你的盾，结果会怎么样呢？\"那人答不上来。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. Critical. Common in arguments, debates and essays. The everyday word 矛盾 \"contradiction, conflict\" comes from this story.",
+      "zh": "多作谓语、定语；含贬义。常用于辩论、议论文。常用词\"矛盾\"即源于这个故事。"
+    },
+    "synonyms": ["前后矛盾"],
+    "antonyms": ["自圆其说"]
+  },
+  {
+    "id": "wang-yang-bu-lao",
+    "text": "亡羊补牢",
+    "pinyin": "wáng yáng bǔ láo",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": ["animals", "stories", "wisdom"],
+    "literal": "Mend the pen after a sheep is lost",
+    "meaning": {
+      "en": "To fix a problem after suffering a loss so it doesn't happen again; better late than never.",
+      "zh": "羊丢了再去修补羊圈。比喻出了问题以后想办法补救，可以防止继续受损失。"
+    },
+    "examples": [
+      {
+        "zh": "这次没考好没关系，亡羊补牢，为时未晚，现在开始努力还来得及。",
+        "en": "Don't worry about this test — it's not too late to put things right if you start working hard now."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·楚策四》",
+      "story": {
+        "en": "The minister Zhuang Xin warned King Xiang of Chu against luxury and flatterers, but the king ignored him. Later Qin attacked, and the king had to flee. Full of regret, he called Zhuang Xin back for advice. Zhuang Xin replied: \"It is not too late to call the hound after seeing the hare, nor too late to mend the pen after losing a sheep.\"",
+        "zh": "庄辛劝楚襄王不要奢侈享乐、宠信小人，楚王不听。后来秦国攻打楚国，楚襄王被迫逃亡，这才后悔，派人请回庄辛。庄辛说：\"见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。\""
+      }
+    },
+    "usage": {
+      "en": "Often in the fixed phrase 亡羊补牢，为时未晚 \"it's not too late to fix things\". Encouraging, though it implies the loss has already happened. Contrast 未雨绸缪 (preparing before trouble comes).",
+      "zh": "常说\"亡羊补牢，为时未晚\"，带有鼓励意味。与\"未雨绸缪\"（事先防备）相对。"
+    },
+    "synonyms": ["知错就改"],
+    "antonyms": ["未雨绸缪", "防患未然"]
+  },
+  {
+    "id": "dui-niu-tan-qin",
+    "text": "对牛弹琴",
+    "pinyin": "duì niú tán qín",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": ["animals", "speech", "stories"],
+    "literal": "Play the zither to a cow",
+    "meaning": {
+      "en": "To cast pearls before swine; to talk to someone who can't understand or appreciate it; to misjudge one's audience.",
+      "zh": "比喻对不懂道理的人讲道理，对外行人说内行话；也讥讽说话不看对象。"
+    },
+    "examples": [
+      {
+        "zh": "跟他讲古典音乐简直是对牛弹琴，他只喜欢流行歌。",
+        "en": "Talking to him about classical music is pointless — he only likes pop songs."
+      }
+    ],
+    "origin": {
+      "source": "汉·牟融《理惑论》",
+      "story": {
+        "en": "The musician Gongming Yi played an elegant piece for an ox, which went on grazing, unmoved. It was not that the ox couldn't hear — the music simply didn't suit its ears. He then played sounds like buzzing gadflies and a lowing calf, and the ox at once flicked its tail, pricked up its ears and paced about, listening.",
+        "zh": "公明仪为牛弹奏高雅的《清角》之曲，牛照样低头吃草。不是牛听不见，而是曲子不合它的耳朵。公明仪改弹像蚊虻嗡嗡和小牛哞哞的声音，牛立刻摇着尾巴、竖起耳朵，来回走动着听起来。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or object. Can criticise the listener (too ignorant to understand) or the speaker (for not considering the audience). It compares someone to a cow, so it's rude to say to their face.",
+      "zh": "多作谓语、宾语；含贬义。既可讥讽听者不懂，也可批评说话人不看对象。当面使用不礼貌。"
+    },
+    "synonyms": ["白费口舌"],
+    "antonyms": ["有的放矢"]
+  },
+  {
+    "id": "xiong-you-cheng-zhu",
+    "text": "胸有成竹",
+    "pinyin": "xiōng yǒu chéng zhú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": ["nature", "success", "character"],
+    "literal": "Have a complete bamboo in one's chest",
+    "meaning": {
+      "en": "To have a well-thought-out plan in mind; to be confident of success.",
+      "zh": "画竹子之前，心里已经有了竹子的完整形象。比喻做事之前已有通盘考虑，很有把握。"
+    },
+    "examples": [
+      {
+        "zh": "考试前她复习得很充分，所以走进考场时胸有成竹。",
+        "en": "She had revised thoroughly, so she walked into the exam hall full of confidence."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《文与可画筼筜谷偃竹记》",
+      "story": {
+        "en": "Wen Tong (style name Yuke), a Northern Song painter famous for bamboo, planted bamboo around his house and studied it closely through every season. His friend Su Shi wrote: \"To paint bamboo, you must first have the complete bamboo in your mind.\"",
+        "zh": "北宋画家文同（字与可）擅长画竹，他在房前屋后种满竹子，一年四季仔细观察。他的朋友苏轼写道：\"故画竹，必先得成竹于胸中。\""
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial (胸有成竹地说). Positive; calm confidence that comes from preparation. Also 成竹在胸.",
+      "zh": "多作谓语、状语，如\"胸有成竹地说\"；含褒义。也说\"成竹在胸\"。"
+    },
+    "synonyms": ["成竹在胸", "稳操胜券"],
+    "antonyms": ["束手无策"]
+  },
+  {
+    "id": "sai-weng-shi-ma",
+    "text": "塞翁失马",
+    "pinyin": "sài wēng shī mǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": ["animals", "fortune", "stories", "wisdom"],
+    "literal": "The old man at the frontier loses his horse",
+    "meaning": {
+      "en": "A blessing in disguise; a misfortune may turn out to be good fortune, and vice versa.",
+      "zh": "比喻一时虽然受到损失，也许反而因此得到好处；也指坏事在一定条件下可以变成好事，反之亦然。"
+    },
+    "examples": [
+      {
+        "zh": "虽然没被那所大学录取，但他在现在的学校遇到了最好的导师，真是塞翁失马，焉知非福。",
+        "en": "He didn't get into that university, but at his current one he met the best supervisor — a real blessing in disguise."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·人间训》",
+      "story": {
+        "en": "An old man living by the frontier lost his horse, which ran off into nomad territory. When the neighbours consoled him, he said, \"How do you know this isn't a blessing?\" Months later the horse came back with a fine nomad horse. When they congratulated him, he said, \"How do you know this isn't a misfortune?\" His son, riding the new horse, fell and broke his leg. When they consoled him again, he again asked how they knew it wasn't a blessing. A year later the nomads invaded; the young men were sent to fight and most died, but the son was spared because of his lame leg.",
+        "zh": "边塞有位老人，他的马跑到了胡人那边。邻居来安慰他，他说：\"这怎么知道不是福呢？\"几个月后，马带着一匹胡人的骏马回来了。邻居来祝贺，他说：\"这怎么知道不是祸呢？\"后来他的儿子骑这匹马摔断了腿，邻居又来安慰，他还是说：\"这怎么知道不是福呢？\"一年后胡人入侵，青壮年都被征去打仗，大多战死，他的儿子因为腿瘸而保全了性命。"
+      }
+    },
+    "usage": {
+      "en": "Usually in the full saying 塞翁失马，焉知非福 \"how do you know it isn't a blessing?\". Used to comfort someone after a setback. 塞 is read sài here, not sāi or sè.",
+      "zh": "常说\"塞翁失马，焉知非福\"，多用于安慰遭遇挫折的人。\"塞\"在这里读 sài。"
+    },
+    "synonyms": ["因祸得福"],
+    "antonyms": []
+  },
+  {
+    "id": "zi-you-zi-zai",
+    "text": "自由自在",
+    "pinyin": "zì yóu zì zài",
+    "kind": "chengyu",
+    "frequency": 1,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": ["freedom", "emotions"],
+    "literal": "Free and at ease by oneself",
+    "meaning": {
+      "en": "Free and unrestrained; carefree; doing as one pleases.",
+      "zh": "形容没有约束，十分安闲随意。"
+    },
+    "examples": [
+      {
+        "zh": "退休以后，爷爷每天种花钓鱼，过得自由自在。",
+        "en": "Since retiring, Grandpa grows flowers and goes fishing every day, living a carefree life."
+      },
+      {
+        "zh": "小鸟在天空中自由自在地飞翔。",
+        "en": "Birds fly freely across the sky."
+      }
+    ],
+    "usage": {
+      "en": "Very common in speech and writing. Predicate, complement (过得自由自在) or adverbial (自由自在地……). Pattern ABAC — note the repeated 自.",
+      "zh": "口语、书面语都常用，可作谓语、补语、状语，如\"过得自由自在\"。ABAC 式结构。"
+    },
+    "synonyms": ["无拘无束", "逍遥自在"],
+    "antonyms": ["身不由己"]
+  }
+]

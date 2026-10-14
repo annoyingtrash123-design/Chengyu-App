@@ -1,0 +1,58 @@
+[
+  {
+    "id": "wai-sheng-da-deng-long",
+    "text": "外甥打灯笼——照舅（旧）",
+    "pinyin": "wài sheng dǎ dēng long —— zhào jiù (jiù)",
+    "kind": "xiehouyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": ["change", "relationships", "speech"],
+    "literal": "A nephew carrying a lantern — lights the way for his uncle",
+    "meaning": {
+      "en": "Same as before; nothing has changed. A pun: 照舅 \"light up (his) uncle\" sounds like 照旧 \"as before\".",
+      "zh": "谐音\"照旧\"，意思是和原来一样，没有变化。"
+    },
+    "examples": [
+      {
+        "zh": "他说要改掉晚睡的习惯，结果一个月过去了，还是外甥打灯笼——照旧。",
+        "en": "He said he'd break his late-night habit, but a month later it's \"a nephew with a lantern\" — same as ever."
+      }
+    ],
+    "usage": {
+      "en": "A homophone 歇后语: the punchline 照舅 zhào jiù (\"shine for uncle\") sounds identical to 照旧 zhào jiù (\"as before\"). People often say only the first half and let the listener fill in the rest. Humorous and colloquial.",
+      "zh": "谐音类歇后语，\"照舅\"谐\"照旧\"。常常只说前半句，让听者自己领会后半句。口语，幽默。"
+    },
+    "synonyms": ["一如既往", "依然如故"],
+    "antonyms": ["焕然一新"],
+    "parts": ["外甥打灯笼", "照舅（旧）"]
+  },
+  {
+    "id": "zhu-lan-da-shui",
+    "text": "竹篮打水——一场空",
+    "pinyin": "zhú lán dǎ shuǐ —— yī chǎng kōng",
+    "kind": "xiehouyu",
+    "frequency": 1,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": ["efficiency", "success"],
+    "literal": "Fetching water with a bamboo basket — it all comes to nothing",
+    "meaning": {
+      "en": "All that effort wasted; ending up with nothing.",
+      "zh": "比喻白费力气，毫无收获。"
+    },
+    "examples": [
+      {
+        "zh": "他炒股赔光了所有积蓄，到头来竹篮打水——一场空。",
+        "en": "He lost all his savings on the stock market — in the end it was fetching water with a bamboo basket: nothing left."
+      }
+    ],
+    "usage": {
+      "en": "A logic-based 歇后语 (no pun): water runs straight through a bamboo basket. Very common; often only the first half is said. 场 is read chǎng here.",
+      "zh": "喻意类歇后语，水从竹篮的缝隙中漏光。非常常用，常只说前半句。\"场\"读 chǎng。"
+    },
+    "synonyms": ["白费力气", "前功尽弃"],
+    "antonyms": ["满载而归"],
+    "parts": ["竹篮打水", "一场空"]
+  }
+]
