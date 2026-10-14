@@ -38,7 +38,10 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
 - **Frequency**: aim for ~500 entries at level 1 overall (the "Core 500" deck takes the
   most common first).
 - **四字词语 (`phrase`)**: common set phrases that aren't classic idioms (互利共赢, 细致入微)
-  and cultural terms (梅兰竹菊, 琴棋书画). Cultural phrases like these are wanted.
+  and cultural terms (梅兰竹菊, 笔墨纸砚). In scope: narrative & descriptive phrases
+  (连夜追赶, 灯火通明), cultural sets with a short cultural note, and common news/formal
+  phrases (register `formal`). Out of scope: connectors (也就是说) and AABB reduplications.
+  See docs/phrase-candidates.md.
 - **Origin**: only include a story when the source is well attested. Mark folk
   explanations as such (see 乱七八糟).
 
@@ -47,4 +50,6 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
 1. ✅ App infrastructure + 20 sample entries for review.
 2. Linked expressions that samples already refer to (`python3 scripts/backlog.py`).
 3. The rest of the original master list, most common first.
-4. Additional high-frequency chengyu, 俗语/谚语, 歇后语 and 惯用语 up to ~2,500 entries.
+4. Additional high-frequency chengyu (THUOCL ranking), 俗语/谚语, 歇后语 and 惯用语 — maximum
+   useful coverage, no fixed cap.
+5. 四字词语: as many useful ones as possible from the agreed categories.
