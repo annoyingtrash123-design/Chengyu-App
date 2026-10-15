@@ -332,11 +332,11 @@
     "id": "xin-fu-kou-fu",
     "text": "心服口服",
     "pinyin": "xīn fú kǒu fú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "口服心服"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -379,6 +379,9 @@
     "id": "dong-pin-xi-cou",
     "text": "东拼西凑",
     "pinyin": "dōng pīn xī còu",
+    "variants": [
+      "东挪西凑"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

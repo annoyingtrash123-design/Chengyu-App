@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "guo-jiang-zhi-ji",
+    "text": "过江之鲫",
+    "pinyin": "guò jiāng zhī jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "numbers"
+    ],
+    "literal": "cross · river · 's · crucian carp",
+    "natural": "like carp crossing a river",
+    "meaning": {
+      "en": "Present in huge numbers, all rushing in the same direction.",
+      "zh": "比喻来的人或事物很多，也多指追逐某一目标的人很多。"
+    },
+    "equivalents": [
+      "swarms of",
+      "a flood of",
+      "hordes of"
+    ],
+    "examples": [
+      {
+        "zh": "每年考公务员的人多如过江之鲫。",
+        "en": "Every year the applicants for the civil service are as numerous as carp crossing a river."
+      },
+      {
+        "zh": "这几年创业者如过江之鲫。",
+        "en": "In recent years start-up founders have been swarming in."
+      }
+    ],
+    "usage": {
+      "en": "Usually 多如过江之鲫.",
+      "zh": "常说“多如过江之鲫”。"
+    },
+    "synonyms": [
+      "数不胜数",
+      "比比皆是"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "屈指可数"
+    ]
+  },
+  {
+    "id": "biao-fei-ti-zhuang",
+    "text": "膘肥体壮",
+    "pinyin": "biāo féi tǐ zhuàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "body"
+    ],
+    "literal": "fat · plump · body · strong",
+    "natural": "fat and sturdy",
+    "meaning": {
+      "en": "Fat and strong, said of livestock.",
+      "zh": "形容牲畜长得肥壮，也用来形容人身体壮实。"
+    },
+    "equivalents": [
+      "fat and sturdy",
+      "well-fed and strong"
+    ],
+    "examples": [
+      {
+        "zh": "草原上的牛羊个个膘肥体壮。",
+        "en": "The cattle and sheep on the grassland are all fat and sturdy."
+      },
+      {
+        "zh": "这匹马膘肥体壮，跑起来很有力。",
+        "en": "This horse is sleek and strong and runs powerfully."
+      }
+    ],
+    "usage": {
+      "en": "Mostly of animals; of people it is humorous.",
+      "zh": "多形容牲畜，形容人时带戏谑。"
+    },
+    "synonyms": [
+      "身强体壮",
+      "五大三粗"
+    ],
+    "antonyms": [
+      "骨瘦如柴",
+      "面黄肌瘦"
+    ]
+  },
+  {
+    "id": "shou-hui-cheng-ming",
+    "text": "收回成命",
+    "pinyin": "shōu huí chéng mìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "mistakes-and-correction"
+    ],
+    "literal": "take · back · already-made · order",
+    "natural": "withdraw an order",
+    "meaning": {
+      "en": "To withdraw a decision or order already issued.",
+      "zh": "撤销已经发出的决定或命令。"
+    },
+    "equivalents": [
+      "rescind a decision",
+      "go back on an order"
+    ],
+    "examples": [
+      {
+        "zh": "请领导收回成命，重新考虑这个方案。",
+        "en": "We ask the leadership to rescind the decision and reconsider the plan."
+      },
+      {
+        "zh": "公司最终收回成命，没有裁员。",
+        "en": "The company finally withdrew its order and made no redundancies."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 请求/恳请收回成命.",
+      "zh": "多作谓语，常说“恳请收回成命”。"
+    },
+    "synonyms": [
+      "改弦更张",
+      "朝令夕改"
+    ],
+    "antonyms": [
+      "一意孤行",
+      "说一不二"
+    ]
+  },
+  {
+    "id": "you-leng-you-jiao",
+    "text": "有棱有角",
+    "pinyin": "yǒu léng yǒu jiǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "appearance"
+    ],
+    "literal": "have · edges · have · corners",
+    "natural": "angular",
+    "meaning": {
+      "en": "Having sharp edges and corners; also, distinctly outspoken in character.",
+      "zh": "有棱角，形容物体的形状分明；也比喻人性格鲜明、不圆滑。"
+    },
+    "equivalents": [
+      "angular",
+      "sharp-edged",
+      "strong-minded"
+    ],
+    "examples": [
+      {
+        "zh": "这块石头有棱有角，不好拿。",
+        "en": "This stone is angular and awkward to hold."
+      },
+      {
+        "zh": "他说话有棱有角，从不绕弯子。",
+        "en": "He speaks bluntly and never beats about the bush."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "棱角分明"
+    ],
+    "antonyms": [
+      "圆滑世故",
+      "圆润光滑"
+    ]
+  },
+  {
+    "id": "kong-kou-wu-ping",
+    "text": "空口无凭",
+    "pinyin": "kōng kǒu wú píng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "frankness-and-candour"
+    ],
+    "literal": "empty · mouth · no · proof",
+    "natural": "mere words prove nothing",
+    "meaning": {
+      "en": "Words alone are no proof.",
+      "zh": "光说不能作为凭证，要有证据。"
+    },
+    "equivalents": [
+      "mere words prove nothing",
+      "talk is cheap",
+      "put it in writing"
+    ],
+    "examples": [
+      {
+        "zh": "空口无凭，立字为据。",
+        "en": "Words prove nothing; let's put it in writing."
+      },
+      {
+        "zh": "你说你交了钱，可空口无凭啊。",
+        "en": "You say you paid, but without proof that means nothing."
+      }
+    ],
+    "usage": {
+      "en": "Often 空口无凭，立字为据.",
+      "zh": "常与“立字为据”连用。"
+    },
+    "synonyms": [
+      "口说无凭",
+      "无凭无据"
+    ],
+    "antonyms": [
+      "有凭有据",
+      "铁证如山"
+    ]
+  },
+  {
+    "id": "ku-zhi-bai-ye",
+    "text": "枯枝败叶",
+    "pinyin": "kū zhī bài yè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes"
+    ],
+    "literal": "withered · twigs · rotten · leaves",
+    "natural": "dead twigs and leaves",
+    "meaning": {
+      "en": "Dead twigs and rotting leaves.",
+      "zh": "干枯的树枝和腐烂的叶子，也比喻腐朽无用的东西。"
+    },
+    "equivalents": [
+      "dead twigs and fallen leaves",
+      "dead wood"
+    ],
+    "examples": [
+      {
+        "zh": "秋风一吹，地上满是枯枝败叶。",
+        "en": "After the autumn wind, the ground is covered with dead twigs and leaves."
+      },
+      {
+        "zh": "要清除这些枯枝败叶，才能让新芽生长。",
+        "en": "These dead leaves must be cleared away for new shoots to grow."
+      }
+    ],
+    "usage": {
+      "en": "Literal or figurative.",
+      "zh": "可指实物，也可作比喻。"
+    },
+    "synonyms": [
+      "落叶满地"
+    ],
+    "antonyms": [
+      "枝繁叶茂",
+      "绿树成荫"
+    ]
+  },
+  {
+    "id": "ri-jiu-jian-ren-xin",
+    "text": "日久见人心",
+    "pinyin": "rì jiǔ jiàn rén xīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "experience-and-old-age"
+    ],
+    "literal": "days · long · see · people's · hearts",
+    "natural": "time reveals true character",
+    "meaning": {
+      "en": "Over time you see what a person is really like.",
+      "zh": "相处时间长了，才能看清一个人的真心。"
+    },
+    "equivalents": [
+      "time will tell who is true",
+      "you only know people over time"
+    ],
+    "examples": [
+      {
+        "zh": "路遥知马力，日久见人心。",
+        "en": "A long road tests a horse; long years reveal a heart."
+      },
+      {
+        "zh": "别急着下结论，日久见人心。",
+        "en": "Don't judge too soon; time reveals true character."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 路遥知马力.",
+      "zh": "常与“路遥知马力”连用。"
+    },
+    "synonyms": [
+      "路遥知马力",
+      "患难见真情"
+    ],
+    "antonyms": [
+      "人心难测"
+    ]
+  },
+  {
+    "id": "heng-xing-wu-ji",
+    "text": "横行无忌",
+    "pinyin": "héng xíng wú jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "run wild · act · no · scruple",
+    "natural": "run rampant",
+    "meaning": {
+      "en": "To act wildly with no fear or restraint.",
+      "zh": "蛮横放肆，毫无顾忌。"
+    },
+    "equivalents": [
+      "run rampant",
+      "ride roughshod"
+    ],
+    "examples": [
+      {
+        "zh": "这伙歹徒在街上横行无忌。",
+        "en": "The gang ran rampant in the streets."
+      },
+      {
+        "zh": "不能让造假者横行无忌。",
+        "en": "We cannot let counterfeiters run rampant."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "肆无忌惮",
+      "横行霸道",
+      "为所欲为"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "谨小慎微"
+    ]
+  },
+  {
+    "id": "gu-jian-shang-nong",
+    "text": "谷贱伤农",
+    "pinyin": "gǔ jiàn shāng nóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "farming-and-harvest",
+      "business-failure"
+    ],
+    "literal": "grain · cheap · harm · farmers",
+    "natural": "low grain prices hurt farmers",
+    "meaning": {
+      "en": "When grain prices fall too low, farmers suffer.",
+      "zh": "粮食价格过低，会损害农民的利益。"
+    },
+    "equivalents": [
+      "low grain prices hurt farmers",
+      "a glut that ruins farmers"
+    ],
+    "examples": [
+      {
+        "zh": "丰收之年要防止谷贱伤农。",
+        "en": "In bumper years we must guard against low prices hurting farmers."
+      },
+      {
+        "zh": "政府设立最低收购价，避免谷贱伤农。",
+        "en": "The government set a minimum purchase price to avoid hurting farmers."
+      }
+    ],
+    "usage": {
+      "en": "Economics and news.",
+      "zh": "多用于经济、新闻。"
+    },
+    "synonyms": [
+      "丰收成灾"
+    ],
+    "antonyms": [
+      "谷贵伤民"
+    ]
+  },
+  {
+    "id": "wo-shou-yan-huan",
+    "text": "握手言欢",
+    "pinyin": "wò shǒu yán huān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "joy-and-happiness"
+    ],
+    "literal": "shake · hands · speak · joy",
+    "natural": "shake hands and make up",
+    "meaning": {
+      "en": "To shake hands and talk happily, reconciled.",
+      "zh": "握着手高兴地交谈，指和好或友好相处。"
+    },
+    "equivalents": [
+      "shake hands and make up",
+      "bury the hatchet"
+    ],
+    "examples": [
+      {
+        "zh": "两人经调解后握手言欢。",
+        "en": "After mediation the two shook hands and made up."
+      },
+      {
+        "zh": "多年的对手终于握手言欢。",
+        "en": "The long-time rivals finally buried the hatchet."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "言归于好",
+      "化干戈为玉帛",
+      "冰释前嫌"
+    ],
+    "antonyms": [
+      "反目成仇",
+      "势不两立"
+    ]
+  },
+  {
+    "id": "zi-qiu-duo-fu",
+    "text": "自求多福",
+    "pinyin": "zì qiú duō fú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "wisdom",
+      "poems-prose"
+    ],
+    "literal": "oneself · seek · many · blessings",
+    "natural": "fend for yourself",
+    "meaning": {
+      "en": "To seek one's own good fortune; to fend for oneself.",
+      "zh": "自己去找求幸福的办法，常用来表示无法帮助、只能靠自己。"
+    },
+    "equivalents": [
+      "fend for yourself",
+      "you're on your own",
+      "good luck to you"
+    ],
+    "examples": [
+      {
+        "zh": "事已至此，你只能自求多福了。",
+        "en": "It's come to this; you'll have to fend for yourself."
+      },
+      {
+        "zh": "公司不管了，大家自求多福吧。",
+        "en": "The company is washing its hands of it, so everyone is on their own."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·大雅·文王》",
+      "story": {
+        "en": "Book of Songs: 'Always be mindful of fitting Heaven's mandate, and seek many blessings for yourself' (永言配命，自求多福).",
+        "zh": "《诗经》：“永言配命，自求多福。”"
+      }
+    },
+    "usage": {
+      "en": "Often 只好/请你自求多福, sometimes wry.",
+      "zh": "常说“你自求多福吧”，有时带无奈或调侃。"
+    },
+    "synonyms": [
+      "听天由命"
+    ],
+    "antonyms": [
+      "同舟共济"
+    ]
+  },
+  {
+    "id": "wu-suo-bu-zhi",
+    "text": "无所不知",
+    "pinyin": "wú suǒ bù zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "无所不晓"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "academic-achievement"
+    ],
+    "literal": "no · place · not · know",
+    "natural": "know everything",
+    "meaning": {
+      "en": "Knowing everything.",
+      "zh": "没有什么不知道的，形容知识非常广博。"
+    },
+    "equivalents": [
+      "know everything",
+      "omniscient"
+    ],
+    "examples": [
+      {
+        "zh": "他博览群书，几乎无所不知。",
+        "en": "He reads widely and knows almost everything."
+      },
+      {
+        "zh": "没有人是无所不知的。",
+        "en": "No one knows everything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; sometimes teasing.",
+      "zh": "多作谓语，有时带调侃。"
+    },
+    "synonyms": [
+      "博古通今",
+      "博学多才"
+    ],
+    "antonyms": [
+      "一无所知",
+      "孤陋寡闻"
+    ]
+  },
+  {
+    "id": "shi-shang-wu-nan-shi",
+    "text": "世上无难事",
+    "pinyin": "shì shàng wú nán shì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "positive-character-qualities"
+    ],
+    "literal": "world · on · no · hard · thing",
+    "natural": "nothing is impossible",
+    "meaning": {
+      "en": "Nothing in the world is truly difficult for the determined.",
+      "zh": "世上没有真正困难的事，只怕不肯下功夫。"
+    },
+    "equivalents": [
+      "nothing is impossible to a willing heart",
+      "where there's a will there's a way"
+    ],
+    "examples": [
+      {
+        "zh": "世上无难事，只怕有心人。",
+        "en": "Nothing is hard in this world; one need only fear the person who sets their mind to it."
+      },
+      {
+        "zh": "别泄气，世上无难事。",
+        "en": "Don't lose heart; nothing is impossible."
+      }
+    ],
+    "usage": {
+      "en": "Usually 世上无难事，只怕有心人.",
+      "zh": "常说“世上无难事，只怕有心人”。"
+    },
+    "synonyms": [
+      "功夫不负有心人",
+      "有志者事竟成"
+    ],
+    "antonyms": [
+      "知难而退"
+    ]
+  },
+  {
+    "id": "bu-ke-zhuo-mo",
+    "text": "不可捉摸",
+    "pinyin": "bù kě zhuō mō",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "not · can · grasp · feel",
+    "natural": "unpredictable",
+    "meaning": {
+      "en": "Impossible to grasp or predict.",
+      "zh": "没法猜测或把握。"
+    },
+    "equivalents": [
+      "elusive",
+      "unpredictable",
+      "inscrutable"
+    ],
+    "examples": [
+      {
+        "zh": "他的性格不可捉摸。",
+        "en": "His character is inscrutable."
+      },
+      {
+        "zh": "市场走势变幻不可捉摸。",
+        "en": "The market's movements are unpredictable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 难以捉摸 is a common alternative.",
+      "zh": "多作谓语、定语；常见近义说法“难以捉摸”。"
+    },
+    "synonyms": [
+      "变幻莫测",
+      "难以捉摸"
+    ],
+    "antonyms": [
+      "一目了然",
+      "显而易见"
+    ]
+  },
+  {
+    "id": "guan-men-bi-hu",
+    "text": "关门闭户",
+    "pinyin": "guān mén bì hù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "solitude-and-isolation",
+      "resistance-to-change"
+    ],
+    "literal": "shut · door · close · household",
+    "natural": "shut oneself in",
+    "meaning": {
+      "en": "To shut doors and windows; to shut oneself away.",
+      "zh": "关上门，闭上窗，指不与外界往来。"
+    },
+    "equivalents": [
+      "shut oneself away",
+      "lock the door"
+    ],
+    "examples": [
+      {
+        "zh": "他整天关门闭户，不见任何人。",
+        "en": "He shuts himself away all day and sees nobody."
+      },
+      {
+        "zh": "天黑了，各家各户都关门闭户。",
+        "en": "As night fell, every household shut its doors."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "闭门谢客",
+      "闭门不出",
+      "足不出户"
+    ],
+    "antonyms": [
+      "门庭若市",
+      "敞开大门"
+    ]
+  },
+  {
+    "id": "jue-sheng-qian-li",
+    "text": "决胜千里",
+    "pinyin": "jué shèng qiān lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "historical-records"
+    ],
+    "literal": "decide · victory · thousand · li",
+    "natural": "win victory from afar",
+    "meaning": {
+      "en": "To decide victory in battles a thousand li away.",
+      "zh": "在远离战场的地方谋划，就能取得千里之外战争的胜利。"
+    },
+    "equivalents": [
+      "win victory from afar",
+      "plan a victory from the command tent"
+    ],
+    "examples": [
+      {
+        "zh": "他运筹帷幄，决胜千里。",
+        "en": "He planned from the command tent and decided the battle from afar."
+      },
+      {
+        "zh": "好的指挥员能决胜千里。",
+        "en": "A good commander can win battles from far away."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》",
+      "story": {
+        "en": "Liu Bang on Zhang Liang: 'Planning strategies within the command tent, deciding victory a thousand li away' (运筹策帷帐之中，决胜于千里之外).",
+        "zh": "刘邦：“夫运筹策帷帐之中，决胜于千里之外，吾不如子房。”"
+      }
+    },
+    "usage": {
+      "en": "Usually 运筹帷幄，决胜千里.",
+      "zh": "常与“运筹帷幄”连用。"
+    },
+    "synonyms": [
+      "运筹帷幄",
+      "料事如神"
+    ],
+    "antonyms": [
+      "纸上谈兵"
+    ]
+  },
+  {
+    "id": "li-qun-suo-ju",
+    "text": "离群索居",
+    "pinyin": "lí qún suǒ jū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "solitude-and-isolation",
+      "confucian-classics"
+    ],
+    "literal": "leave · group · alone · dwell",
+    "natural": "live in seclusion",
+    "meaning": {
+      "en": "To live apart from others.",
+      "zh": "离开朋友或群体，独自生活。"
+    },
+    "equivalents": [
+      "live in seclusion",
+      "live as a recluse"
+    ],
+    "examples": [
+      {
+        "zh": "他退休后离群索居，很少见人。",
+        "en": "After retiring he lived in seclusion and saw few people."
+      },
+      {
+        "zh": "离群索居的日子让他格外孤独。",
+        "en": "Living apart from others left him especially lonely."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·檀弓上》",
+      "story": {
+        "en": "Zixia: 'I have left my companions and lived alone for a long time now' (吾离群而索居，亦已久矣).",
+        "zh": "子夏：“吾离群而索居，亦已久矣。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; written style.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "隐居山林",
+      "孤独寂寞",
+      "孑然一身"
+    ],
+    "antonyms": [
+      "群居",
+      "合群"
+    ]
+  },
+  {
+    "id": "jiang-hu-pian-zi",
+    "text": "江湖骗子",
+    "pinyin": "jiāng hú piàn zi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "rivers · lakes · cheat · -er",
+    "natural": "charlatan",
+    "meaning": {
+      "en": "A swindler who roams about cheating people.",
+      "zh": "走江湖靠欺骗手段骗人钱财的人。"
+    },
+    "equivalents": [
+      "charlatan",
+      "con man",
+      "quack"
+    ],
+    "examples": [
+      {
+        "zh": "他是个江湖骗子，别信他的话。",
+        "en": "He's a charlatan; don't believe him."
+      },
+      {
+        "zh": "江湖骗子专骗老年人。",
+        "en": "Swindlers target the elderly."
+      }
+    ],
+    "usage": {
+      "en": "Noun.",
+      "zh": "名词。"
+    },
+    "synonyms": [
+      "骗子",
+      "招摇撞骗"
+    ],
+    "antonyms": [
+      "正人君子"
+    ]
+  },
+  {
+    "id": "bu-yan-bu-yu",
+    "text": "不言不语",
+    "pinyin": "bù yán bù yǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "not · speak · not · talk",
+    "natural": "silent",
+    "meaning": {
+      "en": "Saying nothing at all.",
+      "zh": "不说话。"
+    },
+    "equivalents": [
+      "say nothing",
+      "stay silent"
+    ],
+    "examples": [
+      {
+        "zh": "他坐在角落里，不言不语。",
+        "en": "He sat in the corner without a word."
+      },
+      {
+        "zh": "她一路上不言不语，不知在想什么。",
+        "en": "She said nothing all the way, lost in thought."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "默不作声",
+      "沉默寡言"
+    ],
+    "antonyms": [
+      "滔滔不绝",
+      "喋喋不休"
+    ]
+  },
+  {
+    "id": "bi-jue-feng-qing",
+    "text": "弊绝风清",
+    "pinyin": "bì jué fēng qīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "风清弊绝"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "abuses · end · ethos · clean",
+    "natural": "no corruption, a clean climate",
+    "meaning": {
+      "en": "Abuses eliminated and the public climate clean.",
+      "zh": "弊端杜绝，风气清正。"
+    },
+    "equivalents": [
+      "clean and corruption-free",
+      "an untainted climate"
+    ],
+    "examples": [
+      {
+        "zh": "要做到选举弊绝风清。",
+        "en": "Elections must be kept clean and free of abuse."
+      },
+      {
+        "zh": "整顿之后，行业里弊绝风清。",
+        "en": "After the clean-up, the industry is free of malpractice."
+      }
+    ],
+    "usage": {
+      "en": "Formal; officialese.",
+      "zh": "书面语，多用于公文。"
+    },
+    "synonyms": [
+      "清正廉洁",
+      "廉洁奉公"
+    ],
+    "antonyms": [
+      "乌烟瘴气",
+      "贪污腐败"
+    ]
+  },
+  {
+    "id": "da-zhi-da-yong",
+    "text": "大智大勇",
+    "pinyin": "dà zhì dà yǒng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "great · wisdom · great · courage",
+    "natural": "great wisdom and courage",
+    "meaning": {
+      "en": "Both very wise and very brave.",
+      "zh": "既有高超的智慧，又有非凡的勇气。"
+    },
+    "equivalents": [
+      "wise and brave",
+      "great wisdom and courage"
+    ],
+    "examples": [
+      {
+        "zh": "面对危局，他表现出大智大勇。",
+        "en": "Facing the crisis, he showed great wisdom and courage."
+      },
+      {
+        "zh": "这位将军大智大勇，深受士兵爱戴。",
+        "en": "The general, wise and brave, was loved by his soldiers."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "有勇有谋",
+      "智勇双全"
+    ],
+    "antonyms": [
+      "有勇无谋",
+      "胆小如鼠"
+    ]
+  },
+  {
+    "id": "di-san-xia-si",
+    "text": "低三下四",
+    "pinyin": "dī sān xià sì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "low · three · lowly · four",
+    "natural": "grovelling",
+    "meaning": {
+      "en": "Servile and humble in a degrading way.",
+      "zh": "形容地位卑下，也形容说话做事卑躬屈膝。"
+    },
+    "equivalents": [
+      "grovelling",
+      "servile"
+    ],
+    "examples": [
+      {
+        "zh": "他为了求人办事，低三下四地讨好。",
+        "en": "To get a favour done, he grovelled."
+      },
+      {
+        "zh": "我不想再低三下四地求他。",
+        "en": "I don't want to beg him in such a servile way any more."
+      }
+    ],
+    "usage": {
+      "en": "Mostly adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "卑躬屈膝",
+      "奴颜婢膝"
+    ],
+    "antonyms": [
+      "不卑不亢",
+      "趾高气扬"
+    ]
+  },
+  {
+    "id": "zi-cheng-yi-jia",
+    "text": "自成一家",
+    "pinyin": "zì chéng yī jiā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "master-craftsmanship",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "self · form · one · school",
+    "natural": "form one's own school",
+    "meaning": {
+      "en": "To develop a distinctive style of one's own.",
+      "zh": "在学术或艺术上独创一种风格或体系。"
+    },
+    "equivalents": [
+      "form a school of one's own",
+      "develop a distinctive style"
+    ],
+    "examples": [
+      {
+        "zh": "他的书法融合百家，自成一家。",
+        "en": "His calligraphy fuses many schools into one of his own."
+      },
+      {
+        "zh": "这位学者在研究上自成一家。",
+        "en": "The scholar has established his own school in his field."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; compare 自成一格.",
+      "zh": "多作谓语；与“自成一格”相近。"
+    },
+    "synonyms": [
+      "独树一帜",
+      "别具一格"
+    ],
+    "antonyms": [
+      "人云亦云",
+      "墨守成规"
+    ]
+  }
+]

@@ -196,6 +196,9 @@
     "id": "fei-tong-xun-chang",
     "text": "非同寻常",
     "pinyin": "fēi tóng xún cháng",
+    "variants": [
+      "非比寻常"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -934,11 +937,11 @@
     "id": "gui-gen-jie-di",
     "text": "归根结底",
     "pinyin": "guī gēn jié dǐ",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "归根到底"
     ],
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

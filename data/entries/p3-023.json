@@ -231,12 +231,12 @@
     "id": "gu-ji-chong-yan",
     "text": "故伎重演",
     "pinyin": "gù jì chóng yǎn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "故技重演",
       "故技重施"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -990,6 +990,9 @@
     "id": "he-pan-tuo-chu",
     "text": "和盘托出",
     "pinyin": "hé pán tuō chū",
+    "variants": [
+      "全盘托出"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

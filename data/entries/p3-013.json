@@ -149,11 +149,11 @@
     "id": "zhen-zhen-you-ci",
     "text": "振振有词",
     "pinyin": "zhèn zhèn yǒu cí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "振振有辞"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -697,11 +697,11 @@
     "id": "sha-you-jie-shi",
     "text": "煞有介事",
     "pinyin": "shà yǒu jiè shì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "像煞有介事"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1149,6 +1149,9 @@
     "id": "za-luan-wu-zhang",
     "text": "杂乱无章",
     "pinyin": "zá luàn wú zhāng",
+    "variants": [
+      "杂乱无序"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1207,11 +1210,11 @@
     "id": "fen-qi-zhi-zhui",
     "text": "奋起直追",
     "pinyin": "fèn qǐ zhí zhuī",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "急起直追"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

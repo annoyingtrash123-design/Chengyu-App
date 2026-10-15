@@ -317,11 +317,12 @@
     "id": "bao-feng-zhou-yu",
     "text": "暴风骤雨",
     "pinyin": "bào fēng zhòu yǔ",
+    "variants": [
+      "疾风骤雨",
+      "疾风暴雨"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "疾风骤雨"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -457,11 +458,11 @@
     "id": "xue-yu-xing-feng",
     "text": "血雨腥风",
     "pinyin": "xuè yǔ xīng fēng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "腥风血雨"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -875,6 +876,9 @@
     "id": "xin-shen-bu-ning",
     "text": "心神不宁",
     "pinyin": "xīn shén bù níng",
+    "variants": [
+      "心神不定"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1011,11 +1015,12 @@
     "id": "ri-ye-jian-cheng",
     "text": "日夜兼程",
     "pinyin": "rì yè jiān chéng",
+    "variants": [
+      "星夜兼程",
+      "昼夜兼程"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "星夜兼程"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

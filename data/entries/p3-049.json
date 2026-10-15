@@ -138,11 +138,11 @@
     "id": "sha-yi-jing-bai",
     "text": "杀一儆百",
     "pinyin": "shā yī jǐng bǎi",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "惩一儆百"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -457,11 +457,12 @@
     "id": "ping-tou-lun-zu",
     "text": "评头论足",
     "pinyin": "píng tóu lùn zú",
+    "variants": [
+      "品头论足",
+      "评头品足"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "品头论足"
-    ],
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -505,6 +506,9 @@
     "id": "chong-zheng-qi-gu",
     "text": "重整旗鼓",
     "pinyin": "chóng zhěng qí gǔ",
+    "variants": [
+      "重振旗鼓"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -730,11 +734,11 @@
     "id": "gang-rou-xiang-ji",
     "text": "刚柔相济",
     "pinyin": "gāng róu xiāng jì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "刚柔并济"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1048,11 +1052,11 @@
     "id": "shen-de-ren-xin",
     "text": "深得人心",
     "pinyin": "shēn dé rén xīn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "深得民心"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

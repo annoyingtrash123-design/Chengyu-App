@@ -509,11 +509,11 @@
     "id": "gu-ku-ling-ding",
     "text": "孤苦伶仃",
     "pinyin": "gū kǔ líng dīng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "孤苦零丁"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -602,6 +602,9 @@
     "id": "xue-rou-xiang-lian",
     "text": "血肉相连",
     "pinyin": "xuè ròu xiāng lián",
+    "variants": [
+      "骨肉相连"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

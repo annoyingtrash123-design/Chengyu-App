@@ -181,11 +181,11 @@
     "id": "shou-wei-xiang-lian",
     "text": "首尾相连",
     "pinyin": "shǒu wěi xiāng lián",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "首尾相接"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -325,11 +325,11 @@
     "id": "yu-min-tong-le",
     "text": "与民同乐",
     "pinyin": "yǔ mín tóng lè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "与民偕乐"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -642,11 +642,11 @@
     "id": "yu-yu-xiong-zhang",
     "text": "鱼与熊掌",
     "pinyin": "yú yǔ xióng zhǎng",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "鱼和熊掌"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -936,6 +936,9 @@
     "id": "da-quan-du-lan",
     "text": "大权独揽",
     "pinyin": "dà quán dú lǎn",
+    "variants": [
+      "独揽大权"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

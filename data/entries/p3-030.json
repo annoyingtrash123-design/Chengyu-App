@@ -52,6 +52,9 @@
     "id": "gang-zheng-bu-e",
     "text": "刚正不阿",
     "pinyin": "gāng zhèng bù ē",
+    "variants": [
+      "刚直不阿"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -779,6 +782,9 @@
     "id": "gu-jun-fen-zhan",
     "text": "孤军奋战",
     "pinyin": "gū jūn fèn zhàn",
+    "variants": [
+      "孤军作战"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -825,6 +831,9 @@
     "id": "shen-shan-lao-lin",
     "text": "深山老林",
     "pinyin": "shēn shān lǎo lín",
+    "variants": [
+      "深山密林"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "neutral",
@@ -867,11 +876,11 @@
     "id": "dong-ben-xi-zou",
     "text": "东奔西走",
     "pinyin": "dōng bēn xī zǒu",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "东奔西跑"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1012,6 +1021,9 @@
     "id": "tou-teng-nao-re",
     "text": "头疼脑热",
     "pinyin": "tóu téng nǎo rè",
+    "variants": [
+      "头痛脑热"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "neutral",

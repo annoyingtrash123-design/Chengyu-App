@@ -1,0 +1,961 @@
+[
+  {
+    "id": "wu-zhou-si-hai",
+    "text": "五洲四海",
+    "pinyin": "wǔ zhōu sì hǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "journeys-and-exploration"
+    ],
+    "literal": "five · continents · four · seas",
+    "natural": "all over the world",
+    "meaning": {
+      "en": "Every corner of the world.",
+      "zh": "泛指世界各地。"
+    },
+    "equivalents": [
+      "the whole world",
+      "all over the globe"
+    ],
+    "examples": [
+      {
+        "zh": "各位来宾来自五洲四海。",
+        "en": "The guests come from all over the world."
+      },
+      {
+        "zh": "他的足迹遍布五洲四海。",
+        "en": "His footprints span the globe."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; compare 五湖四海, which stresses 'every quarter of the country'.",
+      "zh": "名词性短语。与“五湖四海”略有不同。"
+    },
+    "synonyms": [
+      "四面八方",
+      "天涯海角",
+      "世界各地"
+    ],
+    "antonyms": [
+      "一隅之地"
+    ]
+  },
+  {
+    "id": "nei-cha-wai-diao",
+    "text": "内查外调",
+    "pinyin": "nèi chá wài diào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "efficiency",
+      "news-and-officialese"
+    ],
+    "literal": "inside · investigate · outside · inquire",
+    "natural": "investigate inside and out",
+    "meaning": {
+      "en": "To investigate thoroughly, both within an organisation and outside it.",
+      "zh": "对内部进行审查，对外面进行调查，指全面调查。"
+    },
+    "equivalents": [
+      "investigate inside and out",
+      "carry out a thorough inquiry"
+    ],
+    "examples": [
+      {
+        "zh": "案件经过内查外调，终于水落石出。",
+        "en": "After a thorough inquiry inside and out, the case finally came to light."
+      },
+      {
+        "zh": "组织对他的情况进行了内查外调。",
+        "en": "The organisation investigated his background at length."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; official register. 调 is read diào.",
+      "zh": "多作谓语，公文用语。"
+    },
+    "synonyms": [
+      "明察暗访",
+      "追根溯源"
+    ],
+    "antonyms": [
+      "不闻不问",
+      "敷衍了事"
+    ]
+  },
+  {
+    "id": "tian-xia-wu-shuang",
+    "text": "天下无双",
+    "pinyin": "tiān xià wú shuāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "outstanding-character"
+    ],
+    "literal": "under · heaven · no · pair",
+    "natural": "without equal in the world",
+    "meaning": {
+      "en": "Without a match anywhere.",
+      "zh": "世界上没有第二个，形容极其出色。"
+    },
+    "equivalents": [
+      "peerless",
+      "second to none"
+    ],
+    "examples": [
+      {
+        "zh": "他的剑术天下无双。",
+        "en": "His swordsmanship is peerless."
+      },
+      {
+        "zh": "这位大厨的手艺可说是天下无双。",
+        "en": "This chef's skill is second to none."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "举世无双",
+      "独一无二"
+    ],
+    "antonyms": [
+      "比比皆是",
+      "平平无奇"
+    ]
+  },
+  {
+    "id": "lao-qi-heng-qiu",
+    "text": "老气横秋",
+    "pinyin": "lǎo qì héng qiū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "experience-and-old-age"
+    ],
+    "literal": "old · air · filling · autumn",
+    "natural": "acting old and self-important",
+    "meaning": {
+      "en": "Behaving with the airs of an elder, or lacking youthful vigour.",
+      "zh": "形容自负老练而摆老资格，也形容缺少朝气。"
+    },
+    "equivalents": [
+      "act high and mighty with age",
+      "stuffy and lifeless"
+    ],
+    "examples": [
+      {
+        "zh": "他才二十岁，说话却老气横秋。",
+        "en": "He's only twenty but talks like an old man."
+      },
+      {
+        "zh": "这件外套的颜色老气横秋。",
+        "en": "The colour of this coat is dowdy and old-fashioned."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 横 is read héng.",
+      "zh": "多作谓语、定语。“横”读 héng。"
+    },
+    "synonyms": [
+      "少年老成",
+      "暮气沉沉"
+    ],
+    "antonyms": [
+      "朝气蓬勃",
+      "生机勃勃"
+    ]
+  },
+  {
+    "id": "wen-ruo-shu-sheng",
+    "text": "文弱书生",
+    "pinyin": "wén ruò shū shēng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "appearance"
+    ],
+    "literal": "gentle · frail · book · scholar",
+    "natural": "a frail bookworm",
+    "meaning": {
+      "en": "A gentle, physically weak scholar.",
+      "zh": "形容体质瘦弱、斯文的读书人。"
+    },
+    "equivalents": [
+      "a frail scholar",
+      "a delicate bookworm"
+    ],
+    "examples": [
+      {
+        "zh": "别看他是文弱书生，却坚持跑了全程马拉松。",
+        "en": "He may look like a frail bookworm, but he ran the whole marathon."
+      },
+      {
+        "zh": "她笔下的男主角是个文弱书生。",
+        "en": "The hero in her novel is a gentle, weak-bodied scholar."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "手无缚鸡之力",
+      "弱不禁风"
+    ],
+    "antonyms": [
+      "五大三粗",
+      "身强力壮"
+    ]
+  },
+  {
+    "id": "nu-zhong-hao-jie",
+    "text": "女中豪杰",
+    "pinyin": "nǚ zhōng háo jié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "women · among · heroic · hero",
+    "natural": "a heroine among women",
+    "meaning": {
+      "en": "A woman of outstanding courage and ability.",
+      "zh": "女性中才能、胆识出众的人。"
+    },
+    "equivalents": [
+      "a heroine",
+      "a remarkable woman"
+    ],
+    "examples": [
+      {
+        "zh": "她创业有成，是公认的女中豪杰。",
+        "en": "She built a successful business and is recognised as a remarkable woman."
+      },
+      {
+        "zh": "花木兰是古代著名的女中豪杰。",
+        "en": "Hua Mulan is a famous heroine of ancient times."
+      }
+    ],
+    "usage": {
+      "en": "Noun.",
+      "zh": "作名词。"
+    },
+    "synonyms": [
+      "巾帼英雄",
+      "女强人"
+    ],
+    "antonyms": [
+      "弱女子"
+    ]
+  },
+  {
+    "id": "pao-huo-lian-tian",
+    "text": "炮火连天",
+    "pinyin": "pào huǒ lián tiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "danger"
+    ],
+    "literal": "artillery · fire · link · sky",
+    "natural": "shell-fire fills the sky",
+    "meaning": {
+      "en": "Gunfire blazing across the sky; fierce fighting.",
+      "zh": "炮火的光焰连接着天空，形容战争激烈。"
+    },
+    "equivalents": [
+      "a sky ablaze with gunfire",
+      "fierce bombardment"
+    ],
+    "examples": [
+      {
+        "zh": "炮火连天的岁月里，一家人四处逃难。",
+        "en": "In the years of blazing gunfire, the family fled from place to place."
+      },
+      {
+        "zh": "炮火连天，战士们仍坚守阵地。",
+        "en": "With shells filling the sky, the soldiers still held their position."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "枪林弹雨",
+      "硝烟弥漫"
+    ],
+    "antonyms": [
+      "和平安宁",
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "yu-ren-bu-shu",
+    "text": "遇人不淑",
+    "pinyin": "yù rén bù shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "bad-fortune"
+    ],
+    "literal": "meet · person · not · good",
+    "natural": "marry the wrong person",
+    "meaning": {
+      "en": "To be unlucky in one's spouse (or in the people one trusts).",
+      "zh": "嫁给品行不好的人，也泛指所托非人。"
+    },
+    "equivalents": [
+      "be unlucky in marriage",
+      "marry a bad lot"
+    ],
+    "examples": [
+      {
+        "zh": "她遇人不淑，婚后受尽委屈。",
+        "en": "She was unlucky in her husband and suffered after marriage."
+      },
+      {
+        "zh": "遇人不淑，让她吃了不少苦头。",
+        "en": "Falling in with the wrong person cost her dearly."
+      }
+    ],
+    "usage": {
+      "en": "Mostly of women's marriage; literary. 淑 is read shū.",
+      "zh": "多指女子婚姻，书面语。"
+    },
+    "synonyms": [
+      "所托非人",
+      "红颜薄命"
+    ],
+    "antonyms": [
+      "天作之合",
+      "佳偶天成"
+    ]
+  },
+  {
+    "id": "dai-ren-shou-guo",
+    "text": "代人受过",
+    "pinyin": "dài rén shòu guò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "mistakes-and-correction"
+    ],
+    "literal": "on behalf of · others · bear · blame",
+    "natural": "take the blame for someone else",
+    "meaning": {
+      "en": "To take the blame for another person's mistake.",
+      "zh": "替别人承担过错或责任。"
+    },
+    "equivalents": [
+      "take the fall for someone",
+      "be someone's scapegoat"
+    ],
+    "examples": [
+      {
+        "zh": "明明是同事的失误，却让他代人受过。",
+        "en": "It was plainly a colleague's mistake, yet he took the fall."
+      },
+      {
+        "zh": "我不愿代人受过。",
+        "en": "I'm not willing to take the blame for others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "替罪羔羊",
+      "背黑锅"
+    ],
+    "antonyms": [
+      "自作自受",
+      "嫁祸于人"
+    ]
+  },
+  {
+    "id": "ci-yi-shi-bi-yi-shi",
+    "text": "此一时彼一时",
+    "pinyin": "cǐ yī shí bǐ yī shí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "adaptability",
+      "confucian-classics"
+    ],
+    "literal": "this · one · time · that · one · time",
+    "natural": "times have changed",
+    "meaning": {
+      "en": "That was then, this is now: circumstances differ.",
+      "zh": "那时是一种情况，现在又是一种情况，不能一概而论。"
+    },
+    "equivalents": [
+      "that was then, this is now",
+      "times change"
+    ],
+    "examples": [
+      {
+        "zh": "此一时彼一时，过去的办法现在行不通了。",
+        "en": "Times have changed; the old methods don't work now."
+      },
+      {
+        "zh": "你别拿以前比，此一时彼一时。",
+        "en": "Don't compare with the past; things are different now."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑下》",
+      "story": {
+        "en": "Mencius: 'That was one time, and this is another time' (彼一时，此一时也).",
+        "zh": "《孟子》：“彼一时，此一时也。”"
+      }
+    },
+    "usage": {
+      "en": "Often used to rebut an argument from precedent.",
+      "zh": "常用来反驳“以前如何如何”。"
+    },
+    "synonyms": [
+      "时过境迁",
+      "今非昔比"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "weng-zhong-zhi-bie",
+    "text": "瓮中之鳖",
+    "pinyin": "wèng zhōng zhī biē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "jar · inside · 's · turtle",
+    "natural": "a turtle in a jar",
+    "meaning": {
+      "en": "Someone trapped with no way to escape.",
+      "zh": "被关在坛子里的甲鱼，比喻已在掌握之中、无法逃脱。"
+    },
+    "equivalents": [
+      "a sitting duck",
+      "trapped like a rat"
+    ],
+    "examples": [
+      {
+        "zh": "警方布下天罗地网，嫌犯已是瓮中之鳖。",
+        "en": "The police set a tight net and the suspect was trapped like a rat."
+      },
+      {
+        "zh": "对手已成瓮中之鳖，只等收网。",
+        "en": "The rival is a sitting duck; all that's left is to close the net."
+      }
+    ],
+    "usage": {
+      "en": "Usually 成了/是瓮中之鳖.",
+      "zh": "常说“成了瓮中之鳖”。"
+    },
+    "synonyms": [
+      "插翅难逃",
+      "无路可逃"
+    ],
+    "antonyms": [
+      "漏网之鱼",
+      "脱身而去"
+    ]
+  },
+  {
+    "id": "chun-can-dao-si-si-fang-jin",
+    "text": "春蚕到死丝方尽",
+    "pinyin": "chūn cán dào sǐ sī fāng jìn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "positive-character-qualities"
+    ],
+    "literal": "spring · silkworm · until · death · silk · only · ends",
+    "natural": "silk ends only with death",
+    "meaning": {
+      "en": "The silkworm spins until it dies: devotion to the very end.",
+      "zh": "春蚕直到死去才吐完丝，比喻至死不渝的爱，也比喻奉献精神。"
+    },
+    "equivalents": [
+      "devoted until death",
+      "give everything to the end"
+    ],
+    "examples": [
+      {
+        "zh": "老师像春蚕到死丝方尽，把一生献给了学生。",
+        "en": "The teacher, like a silkworm spinning till death, gave a lifetime to students."
+      },
+      {
+        "zh": "春蚕到死丝方尽，他对事业的热爱始终不变。",
+        "en": "Like the silkworm to its last thread, his love for his work never wavered."
+      }
+    ],
+    "origin": {
+      "source": "李商隐《无题》",
+      "story": {
+        "en": "Li Shangyin: 'The spring silkworm's silk ends only at death; the candle's tears dry only when it is ash.'",
+        "zh": "李商隐《无题》：“春蚕到死丝方尽，蜡炬成灰泪始干。”"
+      }
+    },
+    "usage": {
+      "en": "Often followed by 蜡炬成灰泪始干; praises selfless dedication.",
+      "zh": "常接“蜡炬成灰泪始干”，赞美无私奉献。"
+    },
+    "synonyms": [
+      "鞠躬尽瘁",
+      "死而后已"
+    ],
+    "antonyms": [
+      "半途而废",
+      "始乱终弃"
+    ]
+  },
+  {
+    "id": "ping-pu-zhi-xu",
+    "text": "平铺直叙",
+    "pinyin": "píng pū zhí xù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "literary-criticism",
+      "artistic-mediocrity"
+    ],
+    "literal": "plain · lay out · straight · narrate",
+    "natural": "flat narration",
+    "meaning": {
+      "en": "To narrate plainly and directly, without flourish.",
+      "zh": "说话或写文章不加修饰，直接叙述，缺少波澜。"
+    },
+    "equivalents": [
+      "tell it in a flat way",
+      "narrate without flourish"
+    ],
+    "examples": [
+      {
+        "zh": "这篇文章平铺直叙，缺少起伏。",
+        "en": "The essay is told flatly and lacks any ups and downs."
+      },
+      {
+        "zh": "他平铺直叙地把经过说了一遍。",
+        "en": "He narrated the events plainly, from start to finish."
+      }
+    ],
+    "usage": {
+      "en": "Can be critical or neutral.",
+      "zh": "可贬可中性。"
+    },
+    "synonyms": [
+      "直截了当",
+      "按部就班"
+    ],
+    "antonyms": [
+      "跌宕起伏",
+      "一波三折"
+    ]
+  },
+  {
+    "id": "ying-wu-xue-she",
+    "text": "鹦鹉学舌",
+    "pinyin": "yīng wǔ xué shé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation",
+      "superficial-learning"
+    ],
+    "literal": "parrot · imitate · tongue",
+    "natural": "parrot others",
+    "meaning": {
+      "en": "To repeat others' words without understanding.",
+      "zh": "像鹦鹉一样模仿别人说话，比喻没有主见，人云亦云。"
+    },
+    "equivalents": [
+      "parrot someone",
+      "repeat like a parrot"
+    ],
+    "examples": [
+      {
+        "zh": "他只会鹦鹉学舌，从不发表自己的看法。",
+        "en": "He only parrots others and never gives his own view."
+      },
+      {
+        "zh": "读书不能鹦鹉学舌。",
+        "en": "Study shouldn't mean parroting the book."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "人云亦云",
+      "随声附和"
+    ],
+    "antonyms": [
+      "独树一帜",
+      "真知灼见"
+    ]
+  },
+  {
+    "id": "sheng-si-zhi-jiao",
+    "text": "生死之交",
+    "pinyin": "shēng sǐ zhī jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "love-and-marriage",
+      "positive-character-qualities"
+    ],
+    "literal": "life · death · 's · friendship",
+    "natural": "friends through life and death",
+    "meaning": {
+      "en": "A friend one would stand by even at the risk of life.",
+      "zh": "可以同生共死的朋友。"
+    },
+    "equivalents": [
+      "friends to the death",
+      "a friend through thick and thin"
+    ],
+    "examples": [
+      {
+        "zh": "他们是患难与共的生死之交。",
+        "en": "They are friends to the death who shared hardships."
+      },
+      {
+        "zh": "战场上结下的生死之交，一辈子都不会忘。",
+        "en": "Friendships forged in battle last a lifetime."
+      }
+    ],
+    "usage": {
+      "en": "Noun.",
+      "zh": "作名词。"
+    },
+    "synonyms": [
+      "患难之交",
+      "刎颈之交",
+      "莫逆之交"
+    ],
+    "antonyms": [
+      "酒肉朋友",
+      "势利之交"
+    ]
+  },
+  {
+    "id": "shui-lai-tu-yan",
+    "text": "水来土掩",
+    "pinyin": "shuǐ lái tǔ yǎn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "adaptability",
+      "wisdom"
+    ],
+    "literal": "water · comes · earth · blocks",
+    "natural": "deal with problems as they come",
+    "meaning": {
+      "en": "Meet each problem with the fitting response.",
+      "zh": "水来了用土去堵，比喻随机应变，有什么情况就用什么办法对付。"
+    },
+    "equivalents": [
+      "cross that bridge when we come to it",
+      "take things as they come"
+    ],
+    "examples": [
+      {
+        "zh": "别太担心，兵来将挡，水来土掩。",
+        "en": "Don't worry too much; we'll deal with each thing as it comes."
+      },
+      {
+        "zh": "水来土掩，到时候再想办法。",
+        "en": "We'll cross that bridge when we come to it."
+      }
+    ],
+    "usage": {
+      "en": "Usually paired with 兵来将挡.",
+      "zh": "常与“兵来将挡”并用。"
+    },
+    "synonyms": [
+      "兵来将挡",
+      "随机应变"
+    ],
+    "antonyms": [
+      "坐以待毙",
+      "未雨绸缪"
+    ]
+  },
+  {
+    "id": "jin-yu-liang-yan",
+    "text": "金玉良言",
+    "pinyin": "jīn yù liáng yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "polite-humble"
+    ],
+    "literal": "gold · jade · good · words",
+    "natural": "words of wisdom",
+    "meaning": {
+      "en": "Valuable, precious advice.",
+      "zh": "比喻珍贵的劝告或教导。"
+    },
+    "equivalents": [
+      "pearls of wisdom",
+      "valuable advice"
+    ],
+    "examples": [
+      {
+        "zh": "老师的金玉良言，我一直记在心里。",
+        "en": "I've always kept my teacher's words of wisdom in mind."
+      },
+      {
+        "zh": "他的这番金玉良言，让我受益匪浅。",
+        "en": "His words of wisdom have been a great help to me."
+      }
+    ],
+    "usage": {
+      "en": "Noun; usually praising another's advice.",
+      "zh": "作名词，多称赞他人的劝告。"
+    },
+    "synonyms": [
+      "良言善语",
+      "至理名言"
+    ],
+    "antonyms": [
+      "胡说八道",
+      "谗言"
+    ]
+  },
+  {
+    "id": "kong-meng-zhi-dao",
+    "text": "孔孟之道",
+    "pinyin": "kǒng mèng zhī dào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "culture"
+    ],
+    "literal": "Confucius · Mencius · 's · way",
+    "natural": "the teachings of Confucius and Mencius",
+    "meaning": {
+      "en": "Confucian thought as developed by Confucius and Mencius.",
+      "zh": "孔子和孟子所代表的儒家学说。"
+    },
+    "equivalents": [
+      "Confucian thought",
+      "the teachings of Confucius and Mencius"
+    ],
+    "examples": [
+      {
+        "zh": "孔孟之道影响了中国两千多年。",
+        "en": "The way of Confucius and Mencius has shaped China for over two thousand years."
+      },
+      {
+        "zh": "他自幼研读孔孟之道。",
+        "en": "He studied Confucian thought from childhood."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "儒家学说",
+      "圣贤之道"
+    ],
+    "antonyms": [
+      "旁门左道"
+    ]
+  },
+  {
+    "id": "shou-bi-nan-shan",
+    "text": "寿比南山",
+    "pinyin": "shòu bǐ nán shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "experience-and-old-age"
+    ],
+    "literal": "longevity · rival · Southern · Mountain",
+    "natural": "long life like the Southern Mountains",
+    "meaning": {
+      "en": "A birthday wish for a very long life.",
+      "zh": "祝人长寿，寿命像终南山一样长久。"
+    },
+    "equivalents": [
+      "live as long as the mountains",
+      "many happy returns"
+    ],
+    "examples": [
+      {
+        "zh": "祝老爷子福如东海，寿比南山！",
+        "en": "Wishing the old gentleman fortune like the eastern sea and a life as long as the mountains!"
+      },
+      {
+        "zh": "寿比南山，是祝寿时的常用语。",
+        "en": "'Live as long as the mountains' is a stock phrase for birthday wishes."
+      }
+    ],
+    "usage": {
+      "en": "Said as a blessing, often with 福如东海.",
+      "zh": "多作祝福语，常与“福如东海”对举。"
+    },
+    "synonyms": [
+      "福寿双全",
+      "万寿无疆",
+      "松鹤延年"
+    ],
+    "antonyms": [
+      "英年早逝"
+    ]
+  },
+  {
+    "id": "jun-zi-xie-ding",
+    "text": "君子协定",
+    "pinyin": "jūn zǐ xié dìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "news-and-officialese"
+    ],
+    "literal": "gentleman · agreement",
+    "natural": "gentlemen's agreement",
+    "meaning": {
+      "en": "An agreement based on honour rather than on a formal contract.",
+      "zh": "双方凭信用而不是书面条约达成的协议。"
+    },
+    "equivalents": [
+      "a gentlemen's agreement",
+      "an informal pact"
+    ],
+    "examples": [
+      {
+        "zh": "两国之间有一个互不攻击的君子协定。",
+        "en": "The two countries hold a gentlemen's agreement not to attack each other."
+      },
+      {
+        "zh": "这只是君子协定，没有法律约束力。",
+        "en": "It's only a gentlemen's agreement with no legal force."
+      }
+    ],
+    "usage": {
+      "en": "Noun; commonly used in diplomacy and business.",
+      "zh": "作名词，常用于外交、商业。"
+    },
+    "synonyms": [
+      "口头约定",
+      "一诺千金"
+    ],
+    "antonyms": [
+      "背信弃义",
+      "出尔反尔"
+    ]
+  },
+  {
+    "id": "bai-ri-zuo-meng",
+    "text": "白日做梦",
+    "pinyin": "bái rì zuò mèng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "failed-ambitions",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "broad · daylight · have · dream",
+    "natural": "daydream",
+    "meaning": {
+      "en": "To indulge in a fantasy that cannot come true.",
+      "zh": "大白天做梦，比喻幻想不能实现的事。"
+    },
+    "equivalents": [
+      "pie in the sky",
+      "dream on"
+    ],
+    "examples": [
+      {
+        "zh": "不努力就想赚大钱，那是白日做梦。",
+        "en": "Hoping to earn big money without effort is a pipe dream."
+      },
+      {
+        "zh": "你想不花钱就成名？别白日做梦了。",
+        "en": "You want fame without spending anything? Dream on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 别白日做梦了.",
+      "zh": "多作谓语，常说“别白日做梦了”。"
+    },
+    "synonyms": [
+      "痴人说梦",
+      "异想天开",
+      "黄粱一梦"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "务实求真"
+    ]
+  }
+]

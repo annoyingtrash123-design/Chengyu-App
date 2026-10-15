@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "jin-xiu-he-shan",
+    "text": "锦绣河山",
+    "pinyin": "jǐn xiù hé shān",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "锦绣山河"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "plant-and-natural-world",
+      "essay-favourites"
+    ],
+    "literal": "brocade · embroidery · rivers · mountains",
+    "natural": "splendid landscape of the motherland",
+    "meaning": {
+      "en": "The beautiful rivers and mountains of one's country.",
+      "zh": "形容国家壮丽美好的山河。"
+    },
+    "equivalents": [
+      "the glorious landscape of the homeland",
+      "a land of splendid scenery"
+    ],
+    "examples": [
+      {
+        "zh": "祖国的锦绣河山令人赞叹。",
+        "en": "The splendid landscape of our homeland is awe-inspiring."
+      },
+      {
+        "zh": "他用镜头记录下祖国的锦绣河山。",
+        "en": "He recorded the beauty of the homeland through his lens."
+      }
+    ],
+    "usage": {
+      "en": "Usually about one's own country; formal or rhetorical.",
+      "zh": "多指祖国的山河，书面语。"
+    },
+    "synonyms": [
+      "大好河山",
+      "万里江山"
+    ],
+    "antonyms": [
+      "满目疮痍"
+    ]
+  },
+  {
+    "id": "dong-xi-nan-bei",
+    "text": "东西南北",
+    "pinyin": "dōng xī nán běi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "journeys-and-exploration"
+    ],
+    "literal": "east · west · south · north",
+    "natural": "the four directions",
+    "meaning": {
+      "en": "The four compass points; everywhere, or one's bearings.",
+      "zh": "四个方向，泛指各个方向或方位。"
+    },
+    "equivalents": [
+      "north, south, east and west",
+      "all directions",
+      "one's bearings"
+    ],
+    "examples": [
+      {
+        "zh": "他转了向，分不清东西南北。",
+        "en": "He got turned around and lost all sense of direction."
+      },
+      {
+        "zh": "走遍东西南北，还是家乡最好。",
+        "en": "Having travelled in every direction, home is still the best."
+      }
+    ],
+    "usage": {
+      "en": "Often 分不清东西南北 (lose one's bearings).",
+      "zh": "常说“分不清东西南北”。"
+    },
+    "synonyms": [
+      "四面八方",
+      "天南地北"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bang-da-yuan-yang",
+    "text": "棒打鸳鸯",
+    "pinyin": "bàng dǎ yuān yāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "conflict-and-strife"
+    ],
+    "literal": "cudgel · strike · mandarin ducks",
+    "natural": "break up a loving couple",
+    "meaning": {
+      "en": "To force a loving couple apart.",
+      "zh": "比喻强行拆散恩爱的情侣或夫妻。"
+    },
+    "equivalents": [
+      "tear lovers apart",
+      "part a devoted couple"
+    ],
+    "examples": [
+      {
+        "zh": "父母棒打鸳鸯，拆散了这对恋人。",
+        "en": "Her parents tore the lovers apart."
+      },
+      {
+        "zh": "他们不愿棒打鸳鸯，最终同意了婚事。",
+        "en": "They didn't want to part the couple and finally agreed to the marriage."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; mildly literary.",
+      "zh": "多作谓语，略带书面色彩。"
+    },
+    "synonyms": [
+      "拆散姻缘",
+      "生离死别"
+    ],
+    "antonyms": [
+      "成人之美",
+      "天作之合"
+    ]
+  },
+  {
+    "id": "liang-xiao-wu-cai",
+    "text": "两小无猜",
+    "pinyin": "liǎng xiǎo wú cāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "appearance"
+    ],
+    "literal": "two · young · no · suspicion",
+    "natural": "innocent childhood companions",
+    "meaning": {
+      "en": "Boy and girl who grew up together in innocent friendship.",
+      "zh": "男孩女孩一起玩耍，天真无邪，没有嫌疑猜忌。"
+    },
+    "equivalents": [
+      "childhood sweethearts",
+      "innocent playmates"
+    ],
+    "examples": [
+      {
+        "zh": "他们两小无猜，一起长大。",
+        "en": "They grew up together as innocent playmates."
+      },
+      {
+        "zh": "两小无猜的情谊，一直保持到今天。",
+        "en": "That innocent childhood bond has lasted to this day."
+      }
+    ],
+    "usage": {
+      "en": "Often with 青梅竹马.",
+      "zh": "常与“青梅竹马”连用。"
+    },
+    "synonyms": [
+      "青梅竹马",
+      "天真无邪"
+    ],
+    "antonyms": [
+      "反目成仇"
+    ]
+  },
+  {
+    "id": "bu-shi-lu-shan-zhen-mian-mu",
+    "text": "不识庐山真面目",
+    "pinyin": "bù shí lú shān zhēn miàn mù",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "experience-and-old-age"
+    ],
+    "literal": "not · know · Mount Lu · true · face",
+    "natural": "can't see the whole picture",
+    "meaning": {
+      "en": "One cannot see the true shape of a thing when too close to it.",
+      "zh": "因为身在其中，看不清事物的全貌。"
+    },
+    "equivalents": [
+      "can't see the wood for the trees",
+      "too close to see clearly"
+    ],
+    "examples": [
+      {
+        "zh": "当局者迷，我真是不识庐山真面目。",
+        "en": "Being in the middle of it, I really can't see the whole picture."
+      },
+      {
+        "zh": "他对自己的缺点不识庐山真面目。",
+        "en": "He's too close to his own faults to see them."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《题西林壁》",
+      "story": {
+        "en": "Su Shi, on Mount Lu: 'I cannot know Lu Mountain's true face, because I am within the mountain itself.'",
+        "zh": "苏轼《题西林壁》：“不识庐山真面目，只缘身在此山中。”"
+      }
+    },
+    "usage": {
+      "en": "Usually followed by 只缘身在此山中.",
+      "zh": "后面常接“只缘身在此山中”。"
+    },
+    "synonyms": [
+      "当局者迷",
+      "一叶障目"
+    ],
+    "antonyms": [
+      "旁观者清",
+      "洞若观火"
+    ]
+  },
+  {
+    "id": "jin-feng-song-shuang",
+    "text": "金风送爽",
+    "pinyin": "jīn fēng sòng shuǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes"
+    ],
+    "literal": "golden · wind · bring · coolness",
+    "natural": "autumn breeze brings freshness",
+    "meaning": {
+      "en": "The cool autumn wind brings fresh air.",
+      "zh": "秋风送来凉爽，指秋天到来。"
+    },
+    "equivalents": [
+      "a cool autumn breeze",
+      "autumn freshness arrives"
+    ],
+    "examples": [
+      {
+        "zh": "金风送爽，正是登高的好时节。",
+        "en": "With the cool autumn breeze, it's the perfect time for a hike."
+      },
+      {
+        "zh": "金风送爽的九月，丰收在望。",
+        "en": "In September, as the autumn breeze cools the air, the harvest is near."
+      }
+    ],
+    "usage": {
+      "en": "Literary; describes early autumn.",
+      "zh": "书面语，多写初秋。"
+    },
+    "synonyms": [
+      "秋高气爽",
+      "秋风习习"
+    ],
+    "antonyms": [
+      "烈日炎炎"
+    ]
+  },
+  {
+    "id": "yuan-jia-lu-zhai",
+    "text": "冤家路窄",
+    "pinyin": "yuān jiā lù zhǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "bad-fortune"
+    ],
+    "literal": "enemies · road · narrow",
+    "natural": "enemies are bound to meet",
+    "meaning": {
+      "en": "Foes unexpectedly run into each other.",
+      "zh": "仇人或不愿见面的人偏偏碰到一起。"
+    },
+    "equivalents": [
+      "what a small world",
+      "bump into one's nemesis"
+    ],
+    "examples": [
+      {
+        "zh": "真是冤家路窄，竟在这里碰上了他。",
+        "en": "Talk about bad luck, I ran into him here of all places."
+      },
+      {
+        "zh": "冤家路窄，两个对手在决赛相遇了。",
+        "en": "As fate would have it, the two rivals met in the final."
+      }
+    ],
+    "usage": {
+      "en": "Often an exclamation; fairly casual.",
+      "zh": "常作感叹，较口语。"
+    },
+    "synonyms": [
+      "狭路相逢",
+      "不期而遇"
+    ],
+    "antonyms": [
+      "化敌为友"
+    ]
+  },
+  {
+    "id": "qing-jing-jiao-rong",
+    "text": "情景交融",
+    "pinyin": "qíng jǐng jiāo róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "excellent-writing",
+      "literary-criticism"
+    ],
+    "literal": "feeling · scene · mingle · blend",
+    "natural": "feeling and scene blended",
+    "meaning": {
+      "en": "Emotion and scenery blending seamlessly, as in good writing.",
+      "zh": "感情和景物融合在一起，多指诗文意境。"
+    },
+    "equivalents": [
+      "emotion and setting in harmony",
+      "evocative"
+    ],
+    "examples": [
+      {
+        "zh": "这首诗情景交融，意境深远。",
+        "en": "This poem blends feeling and scene into a profound atmosphere."
+      },
+      {
+        "zh": "文章写得情景交融，十分动人。",
+        "en": "The essay fuses emotion and setting, and is very moving."
+      }
+    ],
+    "usage": {
+      "en": "Used of literature, art and film.",
+      "zh": "多用于评论诗文、艺术作品。"
+    },
+    "synonyms": [
+      "寓情于景",
+      "触景生情"
+    ],
+    "antonyms": [
+      "平铺直叙",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "shua-zui-pi-zi",
+    "text": "耍嘴皮子",
+    "pinyin": "shuǎ zuǐ pí zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "deception-and-false-appearances"
+    ],
+    "literal": "play · lips · skin",
+    "natural": "all talk",
+    "meaning": {
+      "en": "To talk glibly without doing anything.",
+      "zh": "光靠说话逞能，不干实事。"
+    },
+    "equivalents": [
+      "be all talk",
+      "talk a good game"
+    ],
+    "examples": [
+      {
+        "zh": "光耍嘴皮子没用，得拿出行动来。",
+        "en": "Being all talk is useless; show some action."
+      },
+      {
+        "zh": "他就会耍嘴皮子，真干活就不见人了。",
+        "en": "He can only talk; when real work starts he vanishes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving, casual.",
+      "zh": "多作谓语，含贬义，口语。"
+    },
+    "synonyms": [
+      "夸夸其谈",
+      "空口说白话"
+    ],
+    "antonyms": [
+      "埋头苦干",
+      "脚踏实地"
+    ]
+  },
+  {
+    "id": "ge-sha-wu-lun",
+    "text": "格杀勿论",
+    "pinyin": "gé shā wù lùn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "corruption-and-injustice"
+    ],
+    "literal": "strike down · kill · do not · prosecute",
+    "natural": "to be killed on the spot",
+    "meaning": {
+      "en": "To be killed on the spot without penalty to the killer.",
+      "zh": "把行凶、拒捕的人当场打死，不以犯法论处。"
+    },
+    "equivalents": [
+      "shoot on sight",
+      "kill without trial"
+    ],
+    "examples": [
+      {
+        "zh": "古代戏文里常有“违令者，格杀勿论”。",
+        "en": "Ancient dramas often say 'those who disobey are to be killed on the spot'."
+      },
+      {
+        "zh": "通缉令上写着：负隅顽抗者，格杀勿论。",
+        "en": "The wanted notice read: resisters may be shot on sight."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in orders and historical settings.",
+      "zh": "多见于命令或历史题材。"
+    },
+    "synonyms": [
+      "杀无赦",
+      "就地正法"
+    ],
+    "antonyms": [
+      "从轻发落"
+    ]
+  },
+  {
+    "id": "mo-ni-zhi-jiao",
+    "text": "莫逆之交",
+    "pinyin": "mò nì zhī jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "莫逆之友"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "love-and-marriage",
+      "positive-character-qualities",
+      "daoist-classics"
+    ],
+    "literal": "no · disagreement · 's · friendship",
+    "natural": "bosom friend",
+    "meaning": {
+      "en": "A very close friend with whom one is in full accord.",
+      "zh": "彼此心意相投、非常要好的朋友。"
+    },
+    "equivalents": [
+      "bosom friend",
+      "soulmate"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩是多年的莫逆之交。",
+        "en": "The two have been bosom friends for many years."
+      },
+      {
+        "zh": "与他结为莫逆之交，是我的荣幸。",
+        "en": "It's an honour to be bosom friends with him."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·大宗师》",
+      "story": {
+        "en": "Zhuangzi: four men 'looked at one another and smiled, with no disagreement in their hearts, and so became friends' (莫逆于心，遂相与为友).",
+        "zh": "《庄子》：“四人相视而笑，莫逆于心，遂相与为友。”"
+      }
+    },
+    "usage": {
+      "en": "Noun.",
+      "zh": "作名词。"
+    },
+    "synonyms": [
+      "知心朋友",
+      "肝胆相照",
+      "志同道合"
+    ],
+    "antonyms": [
+      "酒肉朋友",
+      "反目成仇"
+    ]
+  },
+  {
+    "id": "deng-mi-xia-guo",
+    "text": "等米下锅",
+    "pinyin": "děng mǐ xià guō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-food-and-hunger"
+    ],
+    "literal": "wait for · rice · put into · pot",
+    "natural": "waiting for rice to cook with",
+    "meaning": {
+      "en": "Waiting for rice before one can start cooking: hand-to-mouth poverty or urgent need.",
+      "zh": "等着米来煮饭，形容生活贫困或情况紧急。"
+    },
+    "equivalents": [
+      "live from hand to mouth",
+      "cash-strapped and waiting"
+    ],
+    "examples": [
+      {
+        "zh": "他家穷得等米下锅。",
+        "en": "His family is so poor they live hand to mouth."
+      },
+      {
+        "zh": "工人等米下锅，工资一天也拖不得。",
+        "en": "The workers need their pay now; wages can't wait a single day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "饔飧不继",
+      "捉襟见肘"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "衣食无忧"
+    ]
+  },
+  {
+    "id": "bian-hua-wu-qiong",
+    "text": "变化无穷",
+    "pinyin": "biàn huà wú qióng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change"
+    ],
+    "literal": "change · transform · no · end",
+    "natural": "endlessly varied",
+    "meaning": {
+      "en": "Changing in endless ways.",
+      "zh": "变化多种多样，没有穷尽。"
+    },
+    "equivalents": [
+      "endlessly changing",
+      "infinitely varied"
+    ],
+    "examples": [
+      {
+        "zh": "万花筒里的图案变化无穷。",
+        "en": "The patterns in a kaleidoscope change endlessly."
+      },
+      {
+        "zh": "棋局变化无穷，令人着迷。",
+        "en": "The endless variations of chess are fascinating."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often positive, unlike 变化无常.",
+      "zh": "多作谓语，多含褒义，区别于“变化无常”。"
+    },
+    "synonyms": [
+      "千变万化",
+      "变化多端"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "bao-dao-wei-lao",
+    "text": "宝刀未老",
+    "pinyin": "bǎo dāo wèi lǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "宝刀不老"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "useful-tools-and-skill"
+    ],
+    "literal": "precious · sword · not yet · old",
+    "natural": "still as sharp as ever",
+    "meaning": {
+      "en": "Still highly capable despite age.",
+      "zh": "比喻人虽然年纪大了，本领仍然不减当年。"
+    },
+    "equivalents": [
+      "still got it",
+      "still going strong"
+    ],
+    "examples": [
+      {
+        "zh": "老将宝刀未老，又攻入一球。",
+        "en": "The veteran still has it and scored again."
+      },
+      {
+        "zh": "七十岁的他宝刀未老，依然站在讲台上。",
+        "en": "At seventy he's still going strong, standing at the lectern."
+      }
+    ],
+    "usage": {
+      "en": "Often of veterans in sport and work.",
+      "zh": "多用于运动员、老专家。"
+    },
+    "synonyms": [
+      "老当益壮",
+      "廉颇未老"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "老态龙钟"
+    ]
+  },
+  {
+    "id": "bie-wu-ta-wu",
+    "text": "别无他物",
+    "pinyin": "bié wú tā wù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "simple-or-poor-clothing",
+      "contentment-and-simplicity"
+    ],
+    "literal": "otherwise · have no · other · things",
+    "natural": "nothing else",
+    "meaning": {
+      "en": "Having nothing else at all.",
+      "zh": "除此之外没有别的东西。"
+    },
+    "equivalents": [
+      "nothing else",
+      "not another thing"
+    ],
+    "examples": [
+      {
+        "zh": "他孑然一身，别无他物。",
+        "en": "He's alone in the world with nothing else."
+      },
+      {
+        "zh": "屋里除了一张床，别无他物。",
+        "en": "Apart from a bed, the room held nothing else."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal. Compare 别无他法.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "一无所有",
+      "家徒四壁"
+    ],
+    "antonyms": [
+      "应有尽有"
+    ]
+  },
+  {
+    "id": "sha-shen-zhi-huo",
+    "text": "杀身之祸",
+    "pinyin": "shā shēn zhī huò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "bad-fortune"
+    ],
+    "literal": "kill · body · 's · calamity",
+    "natural": "mortal danger",
+    "meaning": {
+      "en": "A disaster that costs one's life.",
+      "zh": "招致被杀的灾祸。"
+    },
+    "equivalents": [
+      "mortal danger",
+      "a fatal disaster"
+    ],
+    "examples": [
+      {
+        "zh": "说错一句话，竟招来杀身之祸。",
+        "en": "One wrong word brought mortal danger."
+      },
+      {
+        "zh": "他因泄露机密而惹上杀身之祸。",
+        "en": "Leaking secrets put his life at risk."
+      }
+    ],
+    "usage": {
+      "en": "Often 招来/惹上杀身之祸.",
+      "zh": "常说“招来杀身之祸”。"
+    },
+    "synonyms": [
+      "灭顶之灾",
+      "飞来横祸"
+    ],
+    "antonyms": [
+      "逢凶化吉",
+      "平安无事"
+    ]
+  },
+  {
+    "id": "liao-ruo-chen-xing",
+    "text": "寥若晨星",
+    "pinyin": "liáo ruò chén xīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "small-numbers",
+      "common-and-worthless"
+    ],
+    "literal": "sparse · like · morning · stars",
+    "natural": "as few as morning stars",
+    "meaning": {
+      "en": "Very few, like stars at dawn.",
+      "zh": "稀少得像早晨的星星。"
+    },
+    "equivalents": [
+      "few and far between",
+      "as rare as hen's teeth"
+    ],
+    "examples": [
+      {
+        "zh": "真正懂行的人寥若晨星。",
+        "en": "True experts are few and far between."
+      },
+      {
+        "zh": "留在老街的店铺已寥若晨星。",
+        "en": "The shops left on the old street are few and far between."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "寥寥无几",
+      "屈指可数",
+      "凤毛麟角"
+    ],
+    "antonyms": [
+      "比比皆是",
+      "不计其数"
+    ]
+  },
+  {
+    "id": "yong-yong-lu-lu",
+    "text": "庸庸碌碌",
+    "pinyin": "yōng yōng lù lù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "laziness-and-giving-up"
+    ],
+    "literal": "mediocre · mediocre · busy · busy",
+    "natural": "mediocre and aimless",
+    "meaning": {
+      "en": "Living a mediocre, unambitious life.",
+      "zh": "形容平庸，没有作为。"
+    },
+    "equivalents": [
+      "mediocre",
+      "nothing to show for one's life"
+    ],
+    "examples": [
+      {
+        "zh": "我不想庸庸碌碌过一辈子。",
+        "en": "I don't want to live a mediocre life."
+      },
+      {
+        "zh": "他庸庸碌碌，一事无成。",
+        "en": "He drifted along and achieved nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "碌碌无为",
+      "平平庸庸"
+    ],
+    "antonyms": [
+      "大有作为",
+      "出类拔萃"
+    ]
+  },
+  {
+    "id": "da-hu-xiao-jiao",
+    "text": "大呼小叫",
+    "pinyin": "dà hū xiǎo jiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "big · shout · small · yell",
+    "natural": "shout and yell",
+    "meaning": {
+      "en": "To shout noisily without restraint.",
+      "zh": "大声喊叫，吵吵嚷嚷。"
+    },
+    "equivalents": [
+      "yell and scream",
+      "make a racket"
+    ],
+    "examples": [
+      {
+        "zh": "图书馆里不要大呼小叫。",
+        "en": "Don't shout and yell in the library."
+      },
+      {
+        "zh": "孩子们在院子里大呼小叫地玩耍。",
+        "en": "The children played noisily in the yard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "大喊大叫",
+      "吵吵嚷嚷"
+    ],
+    "antonyms": [
+      "悄无声息",
+      "鸦雀无声"
+    ]
+  },
+  {
+    "id": "da-mu-da-yang",
+    "text": "大模大样",
+    "pinyin": "dà mú dà yàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "big · pattern · big · appearance",
+    "natural": "brazenly",
+    "meaning": {
+      "en": "Acting in an unabashedly nonchalant or arrogant way.",
+      "zh": "形容满不在乎或傲慢的神态。"
+    },
+    "equivalents": [
+      "swaggering",
+      "brazenly nonchalant"
+    ],
+    "examples": [
+      {
+        "zh": "他大模大样地走进了会场。",
+        "en": "He strode into the hall with brazen nonchalance."
+      },
+      {
+        "zh": "她大模大样地坐在了主位上。",
+        "en": "She plonked herself down in the seat of honour without a care."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial. 模 is read mú.",
+      "zh": "多作状语。“模”读 mú。"
+    },
+    "synonyms": [
+      "大摇大摆",
+      "旁若无人"
+    ],
+    "antonyms": [
+      "小心翼翼",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "zhuan-heng-ba-hu",
+    "text": "专横跋扈",
+    "pinyin": "zhuān hèng bá hù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "leadership-and-authority"
+    ],
+    "literal": "wilful · overbearing · trample · dominate",
+    "natural": "domineering",
+    "meaning": {
+      "en": "Arbitrary and overbearing in the use of power.",
+      "zh": "任意妄为，蛮横霸道，不讲道理。"
+    },
+    "equivalents": [
+      "domineering",
+      "high-handed",
+      "tyrannical"
+    ],
+    "examples": [
+      {
+        "zh": "这位经理专横跋扈，没人敢提意见。",
+        "en": "The manager is domineering and no one dares object."
+      },
+      {
+        "zh": "他在家里专横跋扈，说一不二。",
+        "en": "At home he's high-handed and his word is law."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 横 is read hèng.",
+      "zh": "多作谓语、定语。“横”读 hèng。"
+    },
+    "synonyms": [
+      "飞扬跋扈",
+      "横行霸道",
+      "独断专行"
+    ],
+    "antonyms": [
+      "谦虚谨慎",
+      "平易近人"
+    ]
+  },
+  {
+    "id": "dan-bo-ming-zhi",
+    "text": "淡泊明志",
+    "pinyin": "dàn bó míng zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "contentment-and-simplicity",
+      "confucian-classics"
+    ],
+    "literal": "plain · indifferent · clarify · aspiration",
+    "natural": "simple living clarifies purpose",
+    "meaning": {
+      "en": "Indifference to fame and wealth keeps one's goals clear.",
+      "zh": "不追求名利，才能表明自己的志向。"
+    },
+    "equivalents": [
+      "live simply to keep one's purpose clear",
+      "unworldly and focused"
+    ],
+    "examples": [
+      {
+        "zh": "他淡泊明志，一生潜心研究。",
+        "en": "Content with simplicity, he devoted his life to research."
+      },
+      {
+        "zh": "淡泊明志，宁静致远，是她的座右铭。",
+        "en": "'Simplicity clarifies purpose, serenity takes one far' is her motto."
+      }
+    ],
+    "origin": {
+      "source": "诸葛亮《诫子书》",
+      "story": {
+        "en": "Zhuge Liang's letter to his son: 'Without indifference to fame and gain, one cannot make one's aims clear; without serenity, one cannot reach far' (非淡泊无以明志，非宁静无以致远).",
+        "zh": "诸葛亮《诫子书》：“非淡泊无以明志，非宁静无以致远。”"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 宁静致远. 泊 here is read bó.",
+      "zh": "常与“宁静致远”并用。“泊”读 bó。"
+    },
+    "synonyms": [
+      "清心寡欲",
+      "恬淡寡欲"
+    ],
+    "antonyms": [
+      "利欲熏心",
+      "追名逐利"
+    ]
+  },
+  {
+    "id": "ren-ge-you-zhi",
+    "text": "人各有志",
+    "pinyin": "rén gè yǒu zhì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "modest-goals",
+      "high-aspirations"
+    ],
+    "literal": "people · each · have · aspirations",
+    "natural": "to each their own ambitions",
+    "meaning": {
+      "en": "Everyone has their own ambitions, and should not be forced.",
+      "zh": "每个人都有自己的志向和选择，不能勉强。"
+    },
+    "equivalents": [
+      "each to their own",
+      "different strokes for different folks"
+    ],
+    "examples": [
+      {
+        "zh": "他想创业，我想读博，人各有志。",
+        "en": "He wants to start a business and I want a doctorate; each has their own path."
+      },
+      {
+        "zh": "人各有志，不必强求。",
+        "en": "People have their own goals; there's no need to force them."
+      }
+    ],
+    "usage": {
+      "en": "Often used to end a discussion politely.",
+      "zh": "常用来礼貌地结束劝说。"
+    },
+    "synonyms": [
+      "各有千秋",
+      "志趣不同"
+    ],
+    "antonyms": [
+      "志同道合"
+    ]
+  }
+]

@@ -48,11 +48,11 @@
     "id": "guo-yan-yun-yan",
     "text": "过眼云烟",
     "pinyin": "guò yǎn yún yān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "过眼烟云"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -647,6 +647,9 @@
     "id": "bie-wu-er-zhi",
     "text": "别无二致",
     "pinyin": "bié wú èr zhì",
+    "variants": [
+      "毫无二致"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

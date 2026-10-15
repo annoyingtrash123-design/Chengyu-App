@@ -48,11 +48,11 @@
     "id": "ming-tu-duo-chuan",
     "text": "命途多舛",
     "pinyin": "mìng tú duō chuǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "命运多舛"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -378,11 +378,12 @@
     "id": "ming-yang-si-hai",
     "text": "名扬四海",
     "pinyin": "míng yáng sì hǎi",
+    "variants": [
+      "名扬天下",
+      "名闻天下"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "名扬天下"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -774,11 +775,11 @@
     "id": "xia-gan-yi-dan",
     "text": "侠肝义胆",
     "pinyin": "xiá gān yì dǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "义胆侠肝"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -822,11 +823,11 @@
     "id": "zong-heng-chi-cheng",
     "text": "纵横驰骋",
     "pinyin": "zòng héng chí chěng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "驰骋纵横"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

@@ -3,11 +3,11 @@
     "id": "mei-mao-hu-zi-yi-ba-zhua",
     "text": "眉毛胡子一把抓",
     "pinyin": "méi máo hú zi yī bǎ zhuā",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "胡子眉毛一把抓"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -96,11 +96,11 @@
     "id": "ku-zao-wu-wei",
     "text": "枯燥无味",
     "pinyin": "kū zào wú wèi",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "枯燥乏味"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -510,6 +510,9 @@
     "id": "zhong-xing-peng-yue",
     "text": "众星捧月",
     "pinyin": "zhòng xīng pěng yuè",
+    "variants": [
+      "众星拱月"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -779,11 +782,11 @@
     "id": "min-fu-guo-qiang",
     "text": "民富国强",
     "pinyin": "mín fù guó qiáng",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "国富民强"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -917,11 +920,11 @@
     "id": "ge-bu-xiang-rang",
     "text": "各不相让",
     "pinyin": "gè bù xiāng ràng",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "互不相让"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -965,6 +968,9 @@
     "id": "fu-shi-jie-shi",
     "text": "俯拾皆是",
     "pinyin": "fǔ shí jiē shì",
+    "variants": [
+      "俯拾即是"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

@@ -313,6 +313,9 @@
     "id": "mian-mu-zheng-ning",
     "text": "面目狰狞",
     "pinyin": "miàn mù zhēng níng",
+    "variants": [
+      "狰狞面目"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -760,11 +763,11 @@
     "id": "ming-ri-huang-hua",
     "text": "明日黄花",
     "pinyin": "míng rì huáng huā",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "昨日黄花"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [

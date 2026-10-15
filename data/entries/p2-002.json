@@ -200,7 +200,8 @@
     "pinyin": "qí xīn xié lì",
     "variants": [
       "同心协力",
-      "齐心合力"
+      "齐心合力",
+      "同心合力"
     ],
     "kind": "chengyu",
     "frequency": 1,
@@ -453,6 +454,9 @@
     "id": "jin-luo-mi-gu",
     "text": "紧锣密鼓",
     "pinyin": "jǐn luó mì gǔ",
+    "variants": [
+      "密锣紧鼓"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -597,6 +601,9 @@
     "id": "chu-mu-jing-xin",
     "text": "触目惊心",
     "pinyin": "chù mù jīng xīn",
+    "variants": [
+      "怵目惊心"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",
@@ -1068,6 +1075,9 @@
     "id": "ci-qi-bi-fu",
     "text": "此起彼伏",
     "pinyin": "cǐ qǐ bǐ fú",
+    "variants": [
+      "此起彼落"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

@@ -421,11 +421,11 @@
     "id": "chu-sheng-niu-du-bu-pa-hu",
     "text": "初生牛犊不怕虎",
     "pinyin": "chū shēng niú dú bù pà hǔ",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "初生之犊不畏虎"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -932,6 +932,9 @@
     "id": "bai-tou-xie-lao",
     "text": "白头偕老",
     "pinyin": "bái tóu xié lǎo",
+    "variants": [
+      "白头到老"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

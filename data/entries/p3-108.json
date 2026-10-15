@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "wan-lai-ju-ji",
+    "text": "万籁俱寂",
+    "pinyin": "wàn lài jù jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relaxation-and-rest",
+      "daily-time-periods"
+    ],
+    "literal": "ten-thousand · sounds · all · silent",
+    "natural": "utterly silent",
+    "meaning": {
+      "en": "Not a sound to be heard.",
+      "zh": "各种声音都消失了，形容非常安静。"
+    },
+    "equivalents": [
+      "dead silent",
+      "not a sound to be heard"
+    ],
+    "examples": [
+      {
+        "zh": "夜深了，四周万籁俱寂。",
+        "en": "Deep in the night, all around was silent."
+      },
+      {
+        "zh": "万籁俱寂中，只听见钟摆的滴答声。",
+        "en": "In the total silence only the tick of the pendulum could be heard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; written style.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "鸦雀无声",
+      "寂静无声",
+      "悄然无声"
+    ],
+    "antonyms": [
+      "人声鼎沸",
+      "喧嚣一时"
+    ]
+  },
+  {
+    "id": "yu-xin-he-ren",
+    "text": "于心何忍",
+    "pinyin": "yú xīn hé rěn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "in · heart · how · bear",
+    "natural": "how could one bear it",
+    "meaning": {
+      "en": "How could one have the heart to do it?",
+      "zh": "在良心上怎么忍心。"
+    },
+    "equivalents": [
+      "how could one have the heart",
+      "it would be heartless"
+    ],
+    "examples": [
+      {
+        "zh": "他这么可怜，你于心何忍？",
+        "en": "He is so pitiful; how could you have the heart?"
+      },
+      {
+        "zh": "让孩子独自承受，我于心何忍。",
+        "en": "How could I bear to let the child face it alone?"
+      }
+    ],
+    "usage": {
+      "en": "Rhetorical question.",
+      "zh": "多用于反问。"
+    },
+    "synonyms": [
+      "良心何安",
+      "不忍心"
+    ],
+    "antonyms": [
+      "心安理得",
+      "铁石心肠"
+    ]
+  },
+  {
+    "id": "tu-lao-wu-yi",
+    "text": "徒劳无益",
+    "pinyin": "tú láo wú yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "in vain · toil · no · benefit",
+    "natural": "futile",
+    "meaning": {
+      "en": "Wasting effort with nothing gained.",
+      "zh": "白白费力，没有任何好处。"
+    },
+    "equivalents": [
+      "futile",
+      "a waste of effort"
+    ],
+    "examples": [
+      {
+        "zh": "这样做只是徒劳无益。",
+        "en": "Doing this is simply futile."
+      },
+      {
+        "zh": "他明知徒劳无益，还是坚持去试。",
+        "en": "Knowing it was pointless, he still insisted on trying."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "白费力气",
+      "枉费心机"
+    ],
+    "antonyms": [
+      "事半功倍",
+      "卓有成效"
+    ]
+  },
+  {
+    "id": "da-che-da-wu",
+    "text": "大彻大悟",
+    "pinyin": "dà chè dà wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "buddhist-origin"
+    ],
+    "literal": "great · thorough · great · awakening",
+    "natural": "attain complete enlightenment",
+    "meaning": {
+      "en": "To gain a complete and deep understanding.",
+      "zh": "彻底醒悟，完全明白了道理。"
+    },
+    "equivalents": [
+      "have a complete awakening",
+      "see the light"
+    ],
+    "examples": [
+      {
+        "zh": "经历这场变故后，他大彻大悟。",
+        "en": "After this upheaval he came to a complete realisation."
+      },
+      {
+        "zh": "她对人生已大彻大悟，不再计较得失。",
+        "en": "She has fully understood life and no longer counts gains and losses."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "恍然大悟",
+      "豁然开朗",
+      "茅塞顿开"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "冥顽不灵"
+    ]
+  },
+  {
+    "id": "xiang-sheng-xiang-ke",
+    "text": "相生相克",
+    "pinyin": "xiāng shēng xiāng kè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "daoist-classics"
+    ],
+    "literal": "mutually · generate · mutually · overcome",
+    "natural": "mutually generating and restraining",
+    "meaning": {
+      "en": "Each generating and checking the other, as in the Five Elements.",
+      "zh": "五行之间互相促进又互相制约，泛指事物相互依存又相互制约。"
+    },
+    "equivalents": [
+      "mutually generating and restraining",
+      "interdependent yet checking each other"
+    ],
+    "examples": [
+      {
+        "zh": "五行相生相克，循环不已。",
+        "en": "The Five Elements generate and restrain each other in an endless cycle."
+      },
+      {
+        "zh": "食物之间也有相生相克的说法。",
+        "en": "There is also a belief that foods can complement or counteract each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "相辅相成",
+      "互相制约"
+    ],
+    "antonyms": [
+      "各不相干"
+    ]
+  },
+  {
+    "id": "ju-gong-zi-ao",
+    "text": "居功自傲",
+    "pinyin": "jū gōng zì ào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "rest on · merit · self · proud",
+    "natural": "get arrogant over one's achievements",
+    "meaning": {
+      "en": "To become arrogant because of past achievements.",
+      "zh": "仗着自己有功劳而骄傲自大。"
+    },
+    "equivalents": [
+      "rest on one's laurels and grow arrogant",
+      "get a swelled head over past merit"
+    ],
+    "examples": [
+      {
+        "zh": "他立了几次功，就居功自傲起来。",
+        "en": "After a few successes he became puffed up with pride."
+      },
+      {
+        "zh": "功臣居功自傲，往往招来祸患。",
+        "en": "Meritorious officials who grow arrogant often bring disaster on themselves."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "恃功而骄",
+      "功高自傲",
+      "目空一切"
+    ],
+    "antonyms": [
+      "谦虚谨慎",
+      "功成不居"
+    ]
+  },
+  {
+    "id": "jin-bu-ru-xi",
+    "text": "今不如昔",
+    "pinyin": "jīn bù rú xī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "sadness-and-despair"
+    ],
+    "literal": "now · not · as good as · past",
+    "natural": "not what it used to be",
+    "meaning": {
+      "en": "The present is worse than the past.",
+      "zh": "现在比不上过去。"
+    },
+    "equivalents": [
+      "not what it used to be",
+      "a shadow of former days"
+    ],
+    "examples": [
+      {
+        "zh": "这家老字号今不如昔，味道差远了。",
+        "en": "This old brand is not what it used to be; the taste is far worse."
+      },
+      {
+        "zh": "看着荒废的村子，老人感叹今不如昔。",
+        "en": "Looking at the abandoned village, the old man sighed that things aren't what they were."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "每况愈下",
+      "今非昔比"
+    ],
+    "antonyms": [
+      "今胜于昔",
+      "蒸蒸日上"
+    ]
+  },
+  {
+    "id": "you-kou-nan-bian",
+    "text": "有口难辩",
+    "pinyin": "yǒu kǒu nán biàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "poor-speech-and-silence"
+    ],
+    "literal": "have · mouth · hard · to argue",
+    "natural": "unable to clear one's name",
+    "meaning": {
+      "en": "Unable to defend oneself however one tries.",
+      "zh": "有嘴也难以辩白清楚。"
+    },
+    "equivalents": [
+      "unable to clear one's name",
+      "have no way of defending oneself"
+    ],
+    "examples": [
+      {
+        "zh": "证据对他不利，他有口难辩。",
+        "en": "The evidence went against him and he couldn't defend himself."
+      },
+      {
+        "zh": "她被误会了，却有口难辩。",
+        "en": "She was misunderstood and could not explain herself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; compare 百口莫辩.",
+      "zh": "多作谓语；与“百口莫辩”相近。"
+    },
+    "synonyms": [
+      "无从申辩",
+      "哑口无言"
+    ],
+    "antonyms": [
+      "据理力争",
+      "辩白清楚"
+    ]
+  },
+  {
+    "id": "zhi-sang-ma-huai",
+    "text": "指桑骂槐",
+    "pinyin": "zhǐ sāng mà huái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "thirty-six-stratagems"
+    ],
+    "literal": "point at · mulberry · scold · locust tree",
+    "natural": "scold one person by pointing at another",
+    "meaning": {
+      "en": "To criticise one person indirectly by scolding another.",
+      "zh": "表面骂这个人，实际骂那个人，比喻拐弯抹角地攻击人。"
+    },
+    "equivalents": [
+      "make a veiled attack",
+      "hit out indirectly"
+    ],
+    "examples": [
+      {
+        "zh": "他指桑骂槐，明显是在说我。",
+        "en": "He is making a veiled attack; he's clearly talking about me."
+      },
+      {
+        "zh": "有话直说，别指桑骂槐的。",
+        "en": "Say it straight out and don't snipe indirectly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "旁敲侧击",
+      "含沙射影",
+      "杀鸡骇猴"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开门见山"
+    ]
+  },
+  {
+    "id": "yan-gui-zheng-zhuan",
+    "text": "言归正传",
+    "pinyin": "yán guī zhèng zhuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "书归正传"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech"
+    ],
+    "literal": "speech · return · main · story",
+    "natural": "to return to the subject",
+    "meaning": {
+      "en": "To get back to the main topic.",
+      "zh": "话题回到正题上来，多用于说话或写作中途。"
+    },
+    "equivalents": [
+      "to get back to the point",
+      "anyway, as I was saying"
+    ],
+    "examples": [
+      {
+        "zh": "闲话少说，言归正传。",
+        "en": "Enough chit-chat; let's get back to the point."
+      },
+      {
+        "zh": "好了，言归正传，说说今天的议题。",
+        "en": "Right, back to business: today's agenda."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial linker.",
+      "zh": "常放句首作转折。"
+    },
+    "synonyms": [
+      "话归正题",
+      "回到正题"
+    ],
+    "antonyms": [
+      "离题万里",
+      "节外生枝"
+    ]
+  },
+  {
+    "id": "dong-fang-bu-liang-xi-fang-liang",
+    "text": "东方不亮西方亮",
+    "pinyin": "dōng fāng bù liàng xī fāng liàng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "adaptability",
+      "comebacks-and-renewal"
+    ],
+    "literal": "east · side · not · bright · west · side · bright",
+    "natural": "if one door closes another opens",
+    "meaning": {
+      "en": "If it doesn't work out here, there are chances elsewhere.",
+      "zh": "这里行不通，别处还有出路，比喻不必拘泥于一处。"
+    },
+    "equivalents": [
+      "if one door closes, another opens",
+      "there are other fish in the sea"
+    ],
+    "examples": [
+      {
+        "zh": "东方不亮西方亮，换个城市也许有机会。",
+        "en": "If one door closes another opens; maybe a different city has chances."
+      },
+      {
+        "zh": "别灰心，东方不亮西方亮。",
+        "en": "Don't lose heart; there are other options."
+      }
+    ],
+    "usage": {
+      "en": "Often 黑了东方有西方.",
+      "zh": "也说“黑了东方有西方”。"
+    },
+    "synonyms": [
+      "天无绝人之路",
+      "柳暗花明"
+    ],
+    "antonyms": [
+      "走投无路",
+      "山穷水尽"
+    ]
+  },
+  {
+    "id": "ge-wu-zhi-zhi",
+    "text": "格物致知",
+    "pinyin": "gé wù zhì zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "confucian-classics"
+    ],
+    "literal": "investigate · things · reach · knowledge",
+    "natural": "investigate things to gain knowledge",
+    "meaning": {
+      "en": "To investigate things in order to gain understanding.",
+      "zh": "探究事物的道理，从而获得知识。"
+    },
+    "equivalents": [
+      "investigate things to extend knowledge",
+      "pursue knowledge through inquiry"
+    ],
+    "examples": [
+      {
+        "zh": "宋明理学强调格物致知。",
+        "en": "Song-Ming Neo-Confucianism stressed investigating things to attain knowledge."
+      },
+      {
+        "zh": "科学研究正是格物致知的过程。",
+        "en": "Scientific research is precisely the process of investigating things to gain knowledge."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·大学》",
+      "story": {
+        "en": "Great Learning: 'Investigating things leads to the extension of knowledge' (致知在格物，物格而后知至).",
+        "zh": "《礼记·大学》：“致知在格物，物格而后知至。”"
+      }
+    },
+    "usage": {
+      "en": "Philosophical term.",
+      "zh": "哲学用语。"
+    },
+    "synonyms": [
+      "穷理尽性",
+      "实事求是"
+    ],
+    "antonyms": [
+      "不学无术",
+      "闭门造车"
+    ]
+  },
+  {
+    "id": "shi-yun-bu-ji",
+    "text": "时运不济",
+    "pinyin": "shí yùn bù jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "poor-timing"
+    ],
+    "literal": "times · fortune · not · favourable",
+    "natural": "down on one's luck",
+    "meaning": {
+      "en": "Fortune not being on one's side.",
+      "zh": "时机和运气不好。"
+    },
+    "equivalents": [
+      "down on one's luck",
+      "out of luck"
+    ],
+    "examples": [
+      {
+        "zh": "他才华横溢，却时运不济。",
+        "en": "Full of talent, but luck was not on his side."
+      },
+      {
+        "zh": "时运不济，生意一再失败。",
+        "en": "With fortune against him, his business failed again and again."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "命途多舛",
+      "生不逢时",
+      "时乖运蹇"
+    ],
+    "antonyms": [
+      "时来运转",
+      "红运当头"
+    ]
+  },
+  {
+    "id": "shui-huo-wu-qing",
+    "text": "水火无情",
+    "pinyin": "shuǐ huǒ wú qíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "harsh-natural-conditions"
+    ],
+    "literal": "water · fire · no · mercy",
+    "natural": "flood and fire show no mercy",
+    "meaning": {
+      "en": "Floods and fires are merciless.",
+      "zh": "水灾和火灾来临，不分对象，毫不留情。"
+    },
+    "equivalents": [
+      "fire and flood show no mercy",
+      "water and fire are pitiless"
+    ],
+    "examples": [
+      {
+        "zh": "水火无情，大家要注意防火防汛。",
+        "en": "Flood and fire are merciless, so be careful about fire and flood prevention."
+      },
+      {
+        "zh": "这场大火告诉我们水火无情。",
+        "en": "This blaze showed us that fire and water spare no one."
+      }
+    ],
+    "usage": {
+      "en": "Often as a warning.",
+      "zh": "常作警示语。"
+    },
+    "synonyms": [
+      "天灾无情",
+      "祸从天降"
+    ],
+    "antonyms": [
+      "风调雨顺"
+    ]
+  },
+  {
+    "id": "si-shui-liu-nian",
+    "text": "似水流年",
+    "pinyin": "sì shuǐ liú nián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fleeting-time",
+      "value-of-time"
+    ],
+    "literal": "like · water · flowing · years",
+    "natural": "years flowing like water",
+    "meaning": {
+      "en": "Years passing by like flowing water.",
+      "zh": "形容时光像流水一样逝去。"
+    },
+    "equivalents": [
+      "years flowing by like water",
+      "the fleeting years"
+    ],
+    "examples": [
+      {
+        "zh": "似水流年，转眼已是二十载。",
+        "en": "The years flow like water, and twenty have passed in a blink."
+      },
+      {
+        "zh": "她怀念那段似水流年的青春。",
+        "en": "She misses that youth that slipped away like water."
+      }
+    ],
+    "usage": {
+      "en": "Literary; often in titles.",
+      "zh": "书面语，常用于书名、歌名。"
+    },
+    "synonyms": [
+      "岁月如梭",
+      "光阴似箭",
+      "白驹过隙"
+    ],
+    "antonyms": [
+      "度日如年"
+    ]
+  },
+  {
+    "id": "yang-chang-xiao-dao",
+    "text": "羊肠小道",
+    "pinyin": "yáng cháng xiǎo dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain",
+      "journeys-and-exploration"
+    ],
+    "literal": "sheep · intestine · small · path",
+    "natural": "a winding narrow path",
+    "meaning": {
+      "en": "A narrow, winding path.",
+      "zh": "像羊肠一样狭窄曲折的小路。"
+    },
+    "equivalents": [
+      "a narrow winding path",
+      "a mountain track"
+    ],
+    "examples": [
+      {
+        "zh": "山间有一条羊肠小道通向村庄。",
+        "en": "A narrow winding path leads through the hills to the village."
+      },
+      {
+        "zh": "我们沿着羊肠小道慢慢往上走。",
+        "en": "We walked slowly up the narrow track."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or noun.",
+      "zh": "多作定语或名词。"
+    },
+    "synonyms": [
+      "崎岖小路",
+      "曲径通幽"
+    ],
+    "antonyms": [
+      "康庄大道",
+      "阳关大道"
+    ]
+  },
+  {
+    "id": "zi-xun-fan-nao",
+    "text": "自寻烦恼",
+    "pinyin": "zì xún fán nǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "negative-character-flaws"
+    ],
+    "literal": "self · seek · trouble · worry",
+    "natural": "borrow trouble",
+    "meaning": {
+      "en": "To make trouble or worry for oneself needlessly.",
+      "zh": "自己给自己找麻烦、添忧愁。"
+    },
+    "equivalents": [
+      "borrow trouble",
+      "make trouble for oneself"
+    ],
+    "examples": [
+      {
+        "zh": "事情还没发生，别自寻烦恼。",
+        "en": "It hasn't happened yet; don't borrow trouble."
+      },
+      {
+        "zh": "想太多只会自寻烦恼。",
+        "en": "Overthinking only brings you worry."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "杞人忧天",
+      "庸人自扰",
+      "自讨苦吃"
+    ],
+    "antonyms": [
+      "无忧无虑",
+      "随遇而安"
+    ]
+  },
+  {
+    "id": "tui-hua-bian-zhi",
+    "text": "蜕化变质",
+    "pinyin": "tuì huà biàn zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "political-corruption"
+    ],
+    "literal": "moult · change · alter · nature",
+    "natural": "degenerate",
+    "meaning": {
+      "en": "To degenerate morally or ideologically.",
+      "zh": "比喻人在思想、品质上由好变坏。"
+    },
+    "equivalents": [
+      "degenerate",
+      "become corrupted"
+    ],
+    "examples": [
+      {
+        "zh": "个别干部蜕化变质，走上了犯罪道路。",
+        "en": "A few officials degenerated and turned to crime."
+      },
+      {
+        "zh": "要警惕理想信念动摇，蜕化变质。",
+        "en": "We must guard against wavering ideals and moral decay."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; news and officialese.",
+      "zh": "多作谓语，多见于新闻、公文。"
+    },
+    "synonyms": [
+      "腐化堕落",
+      "堕落变质"
+    ],
+    "antonyms": [
+      "洁身自好",
+      "初心不改"
+    ]
+  },
+  {
+    "id": "bing-bai-ru-shan-dao",
+    "text": "兵败如山倒",
+    "pinyin": "bīng bài rú shān dǎo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "chain-reactions"
+    ],
+    "literal": "troops · defeated · like · mountain · collapse",
+    "natural": "a rout is like a collapsing mountain",
+    "meaning": {
+      "en": "Once an army begins to lose, its collapse is unstoppable.",
+      "zh": "军队一旦失败，就像山倒塌一样，一发不可收拾。"
+    },
+    "equivalents": [
+      "a rout is unstoppable",
+      "defeat snowballs"
+    ],
+    "examples": [
+      {
+        "zh": "兵败如山倒，大军很快溃散了。",
+        "en": "A rout is like a falling mountain; the army soon scattered."
+      },
+      {
+        "zh": "球队一球落后后兵败如山倒，连丢五球。",
+        "en": "Once behind, the team collapsed and conceded five goals."
+      }
+    ],
+    "usage": {
+      "en": "Also used in sport and business.",
+      "zh": "也用于体育、商界。"
+    },
+    "synonyms": [
+      "一败涂地",
+      "溃不成军",
+      "土崩瓦解"
+    ],
+    "antonyms": [
+      "兵强马壮",
+      "势如破竹"
+    ]
+  },
+  {
+    "id": "jie-feng-xi-chen",
+    "text": "接风洗尘",
+    "pinyin": "jiē fēng xǐ chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "food"
+    ],
+    "literal": "meet · wind · wash · dust",
+    "natural": "hold a welcome dinner",
+    "meaning": {
+      "en": "To welcome a guest from afar with a meal.",
+      "zh": "设宴欢迎远道来的客人，为客人解除旅途疲劳。"
+    },
+    "equivalents": [
+      "hold a welcome dinner",
+      "welcome a guest from afar"
+    ],
+    "examples": [
+      {
+        "zh": "我们为远道而来的朋友接风洗尘。",
+        "en": "We gave our friends from afar a welcome dinner."
+      },
+      {
+        "zh": "今晚摆一桌，给你接风洗尘。",
+        "en": "Tonight we'll lay on a feast to welcome you."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; polite hospitality.",
+      "zh": "多作谓语，表示待客热情。"
+    },
+    "synonyms": [
+      "设宴款待",
+      "洗尘"
+    ],
+    "antonyms": [
+      "拒之门外"
+    ]
+  },
+  {
+    "id": "nian-qing-pa-zhong",
+    "text": "拈轻怕重",
+    "pinyin": "niān qīng pà zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "negative-character-flaws"
+    ],
+    "literal": "pick · light · fear · heavy",
+    "natural": "pick the easy jobs",
+    "meaning": {
+      "en": "To pick light jobs and avoid heavy ones.",
+      "zh": "工作中挑轻的做，怕做重活。"
+    },
+    "equivalents": [
+      "pick the easy jobs",
+      "shirk the hard work"
+    ],
+    "examples": [
+      {
+        "zh": "他总是拈轻怕重，难做的事推给别人。",
+        "en": "He always picks the easy tasks and pushes the hard ones on others."
+      },
+      {
+        "zh": "做事不能拈轻怕重。",
+        "en": "One must not dodge the heavy work."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "避重就轻",
+      "挑肥拣瘦"
+    ],
+    "antonyms": [
+      "任劳任怨",
+      "吃苦耐劳"
+    ]
+  },
+  {
+    "id": "xiu-wai-hui-zhong",
+    "text": "秀外慧中",
+    "pinyin": "xiù wài huì zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "elegant · outside · intelligent · inside",
+    "natural": "beautiful and clever",
+    "meaning": {
+      "en": "Attractive outside and intelligent within.",
+      "zh": "外表秀丽，内心聪明，多形容女子。"
+    },
+    "equivalents": [
+      "beautiful and intelligent",
+      "fair of face and sharp of mind"
+    ],
+    "examples": [
+      {
+        "zh": "这位姑娘秀外慧中，人人称赞。",
+        "en": "The girl is beautiful and clever, praised by all."
+      },
+      {
+        "zh": "她秀外慧中，是班里的才女。",
+        "en": "She is lovely and bright, the talented girl of the class."
+      }
+    ],
+    "usage": {
+      "en": "Of women; written style.",
+      "zh": "多形容女子，书面语。"
+    },
+    "synonyms": [
+      "才貌双全",
+      "冰雪聪明",
+      "兰质蕙心"
+    ],
+    "antonyms": [
+      "金玉其外败絮其中",
+      "愚昧无知"
+    ]
+  }
+]

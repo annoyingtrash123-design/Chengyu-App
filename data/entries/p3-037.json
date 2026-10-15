@@ -47,6 +47,9 @@
     "id": "bu-sheng-bu-xiang",
     "text": "不声不响",
     "pinyin": "bù shēng bù xiǎng",
+    "variants": [
+      "一声不响"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -319,11 +322,11 @@
     "id": "wai-men-xie-dao",
     "text": "歪门邪道",
     "pinyin": "wāi mén xié dào",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "邪门歪道"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -367,11 +370,11 @@
     "id": "yin-huo-shao-shen",
     "text": "引火烧身",
     "pinyin": "yǐn huǒ shāo shēn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "惹火烧身"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -415,11 +418,11 @@
     "id": "jie-ze-er-yu",
     "text": "竭泽而渔",
     "pinyin": "jié zé ér yú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "涸泽而渔"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

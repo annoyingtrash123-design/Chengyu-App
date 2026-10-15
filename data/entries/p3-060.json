@@ -420,6 +420,9 @@
     "id": "jiu-shi-chong-ti",
     "text": "旧事重提",
     "pinyin": "jiù shì chóng tí",
+    "variants": [
+      "旧话重提"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -740,11 +743,11 @@
     "id": "dan-jin-liang-jue",
     "text": "弹尽粮绝",
     "pinyin": "dàn jìn liáng jué",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "弹尽援绝"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -841,11 +844,11 @@
     "id": "kuai-dao-zhan-luan-ma",
     "text": "快刀斩乱麻",
     "pinyin": "kuài dāo zhǎn luàn má",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "快刀斩麻"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

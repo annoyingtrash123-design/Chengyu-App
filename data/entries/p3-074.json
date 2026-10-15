@@ -150,11 +150,11 @@
     "id": "qi-hua-yi-cao",
     "text": "奇花异草",
     "pinyin": "qí huā yì cǎo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "异草奇花"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -446,11 +446,11 @@
     "id": "nan-she-nan-fen",
     "text": "难舍难分",
     "pinyin": "nán shě nán fēn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "难分难舍"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -547,6 +547,9 @@
     "id": "shan-beng-di-lie",
     "text": "山崩地裂",
     "pinyin": "shān bēng dì liè",
+    "variants": [
+      "天崩地裂"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -596,11 +599,11 @@
     "id": "wo-hu-cang-long",
     "text": "卧虎藏龙",
     "pinyin": "wò hǔ cáng lóng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "藏龙卧虎"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1137,11 +1140,11 @@
     "id": "qian-yang-hou-he",
     "text": "前仰后合",
     "pinyin": "qián yǎng hòu hé",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "前俯后仰"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

@@ -1,0 +1,991 @@
+[
+  {
+    "id": "ying-fu-zi-ru",
+    "text": "应付自如",
+    "pinyin": "yìng fù zì rú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "adaptability"
+    ],
+    "literal": "deal with · cope · naturally · ease",
+    "natural": "handle with ease",
+    "meaning": {
+      "en": "To deal with things easily and skilfully.",
+      "zh": "处理事情轻松熟练，毫不费力。"
+    },
+    "equivalents": [
+      "handle with ease",
+      "cope effortlessly"
+    ],
+    "examples": [
+      {
+        "zh": "面对突发状况，她应付自如。",
+        "en": "She handled the emergency with ease."
+      },
+      {
+        "zh": "老师傅对各种故障都应付自如。",
+        "en": "The old master copes easily with all kinds of faults."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "游刃有余",
+      "得心应手"
+    ],
+    "antonyms": [
+      "手足无措",
+      "应接不暇"
+    ]
+  },
+  {
+    "id": "bu-xian-bu-dan",
+    "text": "不咸不淡",
+    "pinyin": "bù xián bù dàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "not · salty · not · bland",
+    "natural": "neither here nor there",
+    "meaning": {
+      "en": "Neither salty nor bland; lukewarm or noncommittal, especially of talk.",
+      "zh": "不咸也不淡，比喻说话不痛不痒，态度不冷不热。"
+    },
+    "equivalents": [
+      "lukewarm",
+      "noncommittal",
+      "bland"
+    ],
+    "examples": [
+      {
+        "zh": "他说了几句不咸不淡的话就走了。",
+        "en": "He said a few noncommittal words and left."
+      },
+      {
+        "zh": "这汤不咸不淡，刚好。",
+        "en": "The soup is neither too salty nor too bland, just right."
+      }
+    ],
+    "usage": {
+      "en": "Often 不咸不淡的话.",
+      "zh": "常说“不咸不淡的话”。"
+    },
+    "synonyms": [
+      "不痛不痒",
+      "不冷不热"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "一针见血"
+    ]
+  },
+  {
+    "id": "zhi-shang-zhi-xia",
+    "text": "直上直下",
+    "pinyin": "zhí shàng zhí xià",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain"
+    ],
+    "literal": "straight · up · straight · down",
+    "natural": "straight up and down",
+    "meaning": {
+      "en": "Going straight up or straight down; vertical.",
+      "zh": "笔直向上或向下，形容很陡。"
+    },
+    "equivalents": [
+      "sheer",
+      "straight up and down",
+      "vertical"
+    ],
+    "examples": [
+      {
+        "zh": "悬崖直上直下，没法攀登。",
+        "en": "The cliff is sheer and cannot be climbed."
+      },
+      {
+        "zh": "电梯直上直下，非常方便。",
+        "en": "The lift goes straight up and down, which is very convenient."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive.",
+      "zh": "描写性。"
+    },
+    "synonyms": [
+      "陡峭",
+      "笔直"
+    ],
+    "antonyms": [
+      "蜿蜒曲折",
+      "弯弯曲曲"
+    ]
+  },
+  {
+    "id": "bu-da-bu-xiang-shi",
+    "text": "不打不相识",
+    "pinyin": "bù dǎ bù xiāng shí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "evenly-matched"
+    ],
+    "literal": "not · fight · not · know each other",
+    "natural": "fight and become friends",
+    "meaning": {
+      "en": "Fighting leads to knowing and respecting each other.",
+      "zh": "经过较量或争吵之后，反而互相了解，成为朋友。"
+    },
+    "equivalents": [
+      "fight and become friends",
+      "friends after a fight"
+    ],
+    "examples": [
+      {
+        "zh": "两人不打不相识，后来成了好朋友。",
+        "en": "They became good friends after a scrap."
+      },
+      {
+        "zh": "俗话说不打不相识，别放在心上。",
+        "en": "As they say, a fight makes friends; don't take it to heart."
+      }
+    ],
+    "usage": {
+      "en": "Often 俗话说不打不相识.",
+      "zh": "常说“俗话说不打不相识”。"
+    },
+    "synonyms": [
+      "不打不成交",
+      "化敌为友"
+    ],
+    "antonyms": [
+      "老死不相往来"
+    ]
+  },
+  {
+    "id": "yi-wen-hui-you",
+    "text": "以文会友",
+    "pinyin": "yǐ wén huì yǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "confucian-classics"
+    ],
+    "literal": "by · letters · meet · friends",
+    "natural": "make friends through writing",
+    "meaning": {
+      "en": "To make friends through literature or learning.",
+      "zh": "通过诗文、学问结交朋友。"
+    },
+    "equivalents": [
+      "make friends through literature",
+      "bond over writing"
+    ],
+    "examples": [
+      {
+        "zh": "他们以文会友，常在网上交流写作心得。",
+        "en": "They bond over writing and often swap tips online."
+      },
+      {
+        "zh": "书会以文会友，吸引了不少爱好者。",
+        "en": "The book club brings enthusiasts together through writing."
+      }
+    ],
+    "origin": {
+      "source": "《论语·颜渊》",
+      "story": {
+        "en": "Zengzi: 'The gentleman makes friends through culture, and through friends supports humaneness' (君子以文会友，以友辅仁).",
+        "zh": "曾子：“君子以文会友，以友辅仁。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; written style.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "文友相聚",
+      "以友辅仁"
+    ],
+    "antonyms": [
+      "酒肉朋友"
+    ]
+  },
+  {
+    "id": "li-beng-yue-huai",
+    "text": "礼崩乐坏",
+    "pinyin": "lǐ bēng yuè huài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "chaos",
+      "historical-periods"
+    ],
+    "literal": "rites · collapse · music · ruin",
+    "natural": "rites and music in ruins",
+    "meaning": {
+      "en": "Social order and moral norms in collapse.",
+      "zh": "礼乐制度遭到破坏，指社会秩序混乱、传统规范崩溃。"
+    },
+    "equivalents": [
+      "social order collapsing",
+      "a breakdown of norms"
+    ],
+    "examples": [
+      {
+        "zh": "春秋时期，礼崩乐坏，诸侯争霸。",
+        "en": "In the Spring and Autumn period, ritual order collapsed and the lords fought for hegemony."
+      },
+      {
+        "zh": "有人感叹世风日下，礼崩乐坏。",
+        "en": "Some lament that morals are in decline and norms have collapsed."
+      }
+    ],
+    "usage": {
+      "en": "Historical or rhetorical.",
+      "zh": "多用于历史或感叹。"
+    },
+    "synonyms": [
+      "世风日下",
+      "纲纪废弛"
+    ],
+    "antonyms": [
+      "天下太平",
+      "国泰民安"
+    ]
+  },
+  {
+    "id": "qin-shi-bu-an",
+    "text": "寝食不安",
+    "pinyin": "qǐn shí bù ān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "寝食难安"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "complex-emotional-states"
+    ],
+    "literal": "sleep · eat · not · at ease",
+    "natural": "unable to sleep or eat",
+    "meaning": {
+      "en": "Too anxious to sleep or eat.",
+      "zh": "睡觉吃饭都不安稳，形容心里非常焦虑。"
+    },
+    "equivalents": [
+      "lose sleep over",
+      "be sick with worry"
+    ],
+    "examples": [
+      {
+        "zh": "儿子还没回家，母亲寝食不安。",
+        "en": "With her son not yet home, the mother couldn't eat or sleep."
+      },
+      {
+        "zh": "这件事让他寝食不安。",
+        "en": "The matter has cost him his sleep and appetite."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坐立不安",
+      "忧心忡忡"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "安然自若"
+    ]
+  },
+  {
+    "id": "jiu-wu-zhi-zun",
+    "text": "九五之尊",
+    "pinyin": "jiǔ wǔ zhī zūn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority",
+      "daoist-classics"
+    ],
+    "literal": "nine · five · 's · honoured",
+    "natural": "the emperor",
+    "meaning": {
+      "en": "The emperor; the supreme ruler.",
+      "zh": "指帝王的尊位，也指皇帝。"
+    },
+    "equivalents": [
+      "the emperor",
+      "the throne"
+    ],
+    "examples": [
+      {
+        "zh": "他一心想登上九五之尊的宝座。",
+        "en": "He longed to ascend the throne."
+      },
+      {
+        "zh": "即使是九五之尊，也要遵守天命。",
+        "en": "Even the emperor must obey Heaven's will."
+      }
+    ],
+    "origin": {
+      "source": "《周易·乾卦》",
+      "story": {
+        "en": "The fifth line of Qian: 'Flying dragon in the sky; it is fruitful to see the great man' (九五：飞龙在天，利见大人). The fifth line came to stand for the ruler.",
+        "zh": "《周易》乾卦：“九五：飞龙在天，利见大人。”"
+      }
+    },
+    "usage": {
+      "en": "Noun; historical.",
+      "zh": "名词，多用于历史题材。"
+    },
+    "synonyms": [
+      "万乘之尊",
+      "天子"
+    ],
+    "antonyms": [
+      "平民百姓",
+      "布衣"
+    ]
+  },
+  {
+    "id": "zi-cheng-yi-ge",
+    "text": "自成一格",
+    "pinyin": "zì chéng yī gé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "master-craftsmanship",
+      "excellent-writing"
+    ],
+    "literal": "self · form · one · style",
+    "natural": "have a style of one's own",
+    "meaning": {
+      "en": "To have a distinctive style of one's own.",
+      "zh": "形成独特的风格。"
+    },
+    "equivalents": [
+      "have a style of one's own",
+      "be in a class of one's own"
+    ],
+    "examples": [
+      {
+        "zh": "他的画风自成一格。",
+        "en": "His painting style is entirely his own."
+      },
+      {
+        "zh": "这家餐厅的菜式自成一格。",
+        "en": "The restaurant's cuisine has a character of its own."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; compare 自成一家.",
+      "zh": "多作谓语；与“自成一家”相近。"
+    },
+    "synonyms": [
+      "别具一格",
+      "独树一帜"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "如出一辙"
+    ]
+  },
+  {
+    "id": "chu-jiu-bu-xin",
+    "text": "除旧布新",
+    "pinyin": "chú jiù bù xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "innovation-and-progress",
+      "festivals-and-celebrations",
+      "historical-records"
+    ],
+    "literal": "remove · old · lay out · new",
+    "natural": "out with the old, in with the new",
+    "meaning": {
+      "en": "To get rid of the old and bring in the new.",
+      "zh": "去掉旧的，建立新的，也指春节前后清扫更新。"
+    },
+    "equivalents": [
+      "out with the old, in with the new",
+      "clear out the old"
+    ],
+    "examples": [
+      {
+        "zh": "春节前，家家户户除旧布新。",
+        "en": "Before the Spring Festival, every home clears out the old for the new."
+      },
+      {
+        "zh": "改革要敢于除旧布新。",
+        "en": "Reform must dare to discard the old and set up the new."
+      }
+    ],
+    "origin": {
+      "source": "《左传·昭公十七年》",
+      "story": {
+        "en": "Zuo Zhuan: 'The comet sweeps away the old and lays out the new; this is the Way of Heaven' (彗所以除旧布新也，天事恒象).",
+        "zh": "《左传》：“彗，所以除旧布新也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "推陈出新",
+      "革故鼎新",
+      "吐故纳新"
+    ],
+    "antonyms": [
+      "因循守旧",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "lian-xiang-xi-yu",
+    "text": "怜香惜玉",
+    "pinyin": "lián xiāng xī yù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "positive-character-qualities"
+    ],
+    "literal": "pity · fragrance · cherish · jade",
+    "natural": "be tender towards women",
+    "meaning": {
+      "en": "To treat women with tenderness and care.",
+      "zh": "比喻对女子体贴爱护。"
+    },
+    "equivalents": [
+      "be tender towards women",
+      "be gallant"
+    ],
+    "examples": [
+      {
+        "zh": "他是个怜香惜玉的人，总是照顾女同事。",
+        "en": "He is a gallant man who always looks after his female colleagues."
+      },
+      {
+        "zh": "你怎么一点也不怜香惜玉？",
+        "en": "How can you have no tenderness at all?"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often used lightly or teasingly.",
+      "zh": "多作谓语，常带调侃。"
+    },
+    "synonyms": [
+      "温柔体贴",
+      "体贴入微"
+    ],
+    "antonyms": [
+      "焚琴煮鹤",
+      "粗暴无礼"
+    ]
+  },
+  {
+    "id": "tou-tian-huan-ri",
+    "text": "偷天换日",
+    "pinyin": "tōu tiān huàn rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "thirty-six-stratagems"
+    ],
+    "literal": "steal · sky · swap · sun",
+    "natural": "pull off a swindle",
+    "meaning": {
+      "en": "To swap things secretly so as to deceive on a grand scale.",
+      "zh": "比喻暗中玩弄手法，改变事物的真相。"
+    },
+    "equivalents": [
+      "pull a switch",
+      "swap in secret",
+      "cook up a grand deception"
+    ],
+    "examples": [
+      {
+        "zh": "他们偷天换日，用假货换走了真品。",
+        "en": "They secretly swapped the genuine item for a fake."
+      },
+      {
+        "zh": "别想偷天换日，蒙骗大家。",
+        "en": "Don't think you can fool everyone with such a switch."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "瞒天过海",
+      "移花接木",
+      "李代桃僵"
+    ],
+    "antonyms": [
+      "光明正大",
+      "坦诚相待"
+    ]
+  },
+  {
+    "id": "bu-gong-dai-tian",
+    "text": "不共戴天",
+    "pinyin": "bù gòng dài tiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "revenge-and-retribution",
+      "confucian-classics"
+    ],
+    "literal": "not · share · bear · sky",
+    "natural": "sworn enemies",
+    "meaning": {
+      "en": "Of a hatred so deep that one cannot live under the same sky as the foe.",
+      "zh": "不愿与仇敌在同一个天下生活，形容仇恨极深。"
+    },
+    "equivalents": [
+      "sworn enemies",
+      "deadly foes"
+    ],
+    "examples": [
+      {
+        "zh": "两家结下了不共戴天之仇。",
+        "en": "The two families became sworn enemies."
+      },
+      {
+        "zh": "他们之间并非不共戴天，何必如此？",
+        "en": "They are not mortal enemies; why take it so far?"
+      }
+    ],
+    "origin": {
+      "source": "《礼记·曲礼上》",
+      "story": {
+        "en": "Book of Rites: 'Do not live under the same sky as the killer of your father' (父之仇，弗与共戴天).",
+        "zh": "《礼记》：“父之仇，弗与共戴天。”"
+      }
+    },
+    "usage": {
+      "en": "Usually 不共戴天之仇.",
+      "zh": "常说“不共戴天之仇”。"
+    },
+    "synonyms": [
+      "势不两立",
+      "深仇大恨"
+    ],
+    "antonyms": [
+      "化敌为友",
+      "握手言和"
+    ]
+  },
+  {
+    "id": "mu-guang-jiong-jiong",
+    "text": "目光炯炯",
+    "pinyin": "mù guāng jiǒng jiǒng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "outstanding-character"
+    ],
+    "literal": "eyes · light · bright · bright",
+    "natural": "with bright, piercing eyes",
+    "meaning": {
+      "en": "Eyes bright and full of spirit.",
+      "zh": "眼睛明亮有神。"
+    },
+    "equivalents": [
+      "bright-eyed",
+      "with piercing eyes"
+    ],
+    "examples": [
+      {
+        "zh": "老人虽已年迈，却目光炯炯。",
+        "en": "Though the old man is aged, his eyes are still bright."
+      },
+      {
+        "zh": "他目光炯炯地盯着前方。",
+        "en": "He fixed his piercing eyes on what lay ahead."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "炯炯有神",
+      "目光如炬"
+    ],
+    "antonyms": [
+      "目光呆滞",
+      "双目无神"
+    ]
+  },
+  {
+    "id": "yan-wei-xin-sheng",
+    "text": "言为心声",
+    "pinyin": "yán wéi xīn shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "frankness-and-candour"
+    ],
+    "literal": "words · are · heart · voice",
+    "natural": "words reveal the heart",
+    "meaning": {
+      "en": "What one says expresses what one thinks.",
+      "zh": "语言是思想感情的表达。"
+    },
+    "equivalents": [
+      "words reveal the heart",
+      "one speaks one's mind"
+    ],
+    "examples": [
+      {
+        "zh": "言为心声，从他的话里能看出他的想法。",
+        "en": "Words reveal the heart; you can see his thoughts in what he says."
+      },
+      {
+        "zh": "言为心声，写文章要说真心话。",
+        "en": "Speech voices the heart, so write what you truly think."
+      }
+    ],
+    "usage": {
+      "en": "Often in aphoristic statements.",
+      "zh": "多用于说理。"
+    },
+    "synonyms": [
+      "心口如一",
+      "言由心生"
+    ],
+    "antonyms": [
+      "口是心非",
+      "言不由衷"
+    ]
+  },
+  {
+    "id": "ming-luo-kai-dao",
+    "text": "鸣锣开道",
+    "pinyin": "míng luó kāi dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "sound · gong · clear · way",
+    "natural": "clear the way with gongs",
+    "meaning": {
+      "en": "To clear the road by beating gongs; also, to prepare the ground publicly.",
+      "zh": "旧时官员出行，前面敲锣让行人避开；比喻为某事制造声势。"
+    },
+    "equivalents": [
+      "clear the way with gongs",
+      "herald loudly",
+      "pave the way"
+    ],
+    "examples": [
+      {
+        "zh": "古时官员出巡，前面总有人鸣锣开道。",
+        "en": "In old times when an official toured, men beat gongs to clear the way."
+      },
+      {
+        "zh": "新产品上市前，先要广告鸣锣开道。",
+        "en": "Before a new product launches, advertising must go ahead to herald it."
+      }
+    ],
+    "usage": {
+      "en": "Literal or figurative.",
+      "zh": "可指实际行为，也可作比喻。"
+    },
+    "synonyms": [
+      "前呼后拥",
+      "大张旗鼓"
+    ],
+    "antonyms": [
+      "悄无声息",
+      "微服私访"
+    ]
+  },
+  {
+    "id": "xiong-cai-da-lve",
+    "text": "雄才大略",
+    "pinyin": "xióng cái dà lüè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "leadership-and-authority",
+      "historical-records"
+    ],
+    "literal": "great · talent · grand · strategy",
+    "natural": "outstanding talent and vision",
+    "meaning": {
+      "en": "Exceptional talent and grand strategic vision.",
+      "zh": "杰出的才能和远大的谋略。"
+    },
+    "equivalents": [
+      "outstanding ability and vision",
+      "great talent and strategy"
+    ],
+    "examples": [
+      {
+        "zh": "汉武帝雄才大略，开拓了疆土。",
+        "en": "Emperor Wu of Han had great talent and vision and expanded the realm."
+      },
+      {
+        "zh": "他是个雄才大略的企业家。",
+        "en": "He is an entrepreneur of great talent and vision."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·武帝纪赞》",
+      "story": {
+        "en": "Ban Gu's appraisal of Emperor Wu: 'Without deviating from the frugality of Wen and Jing, he had great talent and strategy' (如武帝之雄才大略，不改文景之恭俭).",
+        "zh": "班固《汉书·武帝纪赞》：“如武帝之雄材大略，不改文景之恭俭，以济斯民，虽《诗》《书》所称，何有加焉！”"
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "足智多谋",
+      "运筹帷幄",
+      "英明神武"
+    ],
+    "antonyms": [
+      "平庸无能",
+      "胸无大志"
+    ]
+  },
+  {
+    "id": "bu-gan-bu-jing",
+    "text": "不干不净",
+    "pinyin": "bù gān bù jìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "not · dry · not · clean",
+    "natural": "dirty",
+    "meaning": {
+      "en": "Dirty; also, foul-mouthed or dishonest.",
+      "zh": "不干净；也指说话下流或行为不正当。"
+    },
+    "equivalents": [
+      "dirty",
+      "foul",
+      "dodgy"
+    ],
+    "examples": [
+      {
+        "zh": "嘴里不干不净的，像什么话！",
+        "en": "Such foul language, what a way to behave!"
+      },
+      {
+        "zh": "这钱来路不干不净。",
+        "en": "The money came from dodgy sources."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial.",
+      "zh": "多作谓语，口语。"
+    },
+    "synonyms": [
+      "污言秽语",
+      "不清不白"
+    ],
+    "antonyms": [
+      "干干净净",
+      "清清白白"
+    ]
+  },
+  {
+    "id": "wu-feng-bu-qi-lang",
+    "text": "无风不起浪",
+    "pinyin": "wú fēng bù qǐ làng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "natural-consequences",
+      "public-opinion"
+    ],
+    "literal": "no · wind · not · raise · waves",
+    "natural": "there's no smoke without fire",
+    "meaning": {
+      "en": "Waves do not rise without wind; rumours usually have a cause.",
+      "zh": "没有风就不会起浪，比喻事情的发生总有原因。"
+    },
+    "equivalents": [
+      "no smoke without fire",
+      "there must be something in it"
+    ],
+    "examples": [
+      {
+        "zh": "无风不起浪，这事恐怕不是空穴来风。",
+        "en": "No smoke without fire; this is probably not groundless."
+      },
+      {
+        "zh": "无风不起浪，他们之间肯定有矛盾。",
+        "en": "There's no smoke without fire; there must be friction between them."
+      }
+    ],
+    "usage": {
+      "en": "Used when judging rumours.",
+      "zh": "多用于评判传闻。"
+    },
+    "synonyms": [
+      "空穴来风",
+      "事出有因"
+    ],
+    "antonyms": [
+      "无中生有",
+      "捕风捉影"
+    ]
+  },
+  {
+    "id": "chen-zhong-mu-gu",
+    "text": "晨钟暮鼓",
+    "pinyin": "chén zhōng mù gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "暮鼓晨钟"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daily-time-periods",
+      "buddhist-origin"
+    ],
+    "literal": "morning · bell · evening · drum",
+    "natural": "morning bells and evening drums",
+    "meaning": {
+      "en": "Morning bells and evening drums in a temple; also a call to wake up.",
+      "zh": "寺院早晨敲钟、晚上击鼓报时，比喻使人醒悟的话。"
+    },
+    "equivalents": [
+      "morning bells and evening drums",
+      "a wake-up call"
+    ],
+    "examples": [
+      {
+        "zh": "古寺里晨钟暮鼓，日子平静。",
+        "en": "In the old temple, bells and drums mark the quiet days."
+      },
+      {
+        "zh": "他的话如晨钟暮鼓，让人警醒。",
+        "en": "His words were like a temple bell waking everyone up."
+      }
+    ],
+    "usage": {
+      "en": "Literary; set scenes of temple life.",
+      "zh": "书面语，多写寺院生活。"
+    },
+    "synonyms": [
+      "发人深省",
+      "警钟长鸣"
+    ],
+    "antonyms": [
+      "醉生梦死"
+    ]
+  },
+  {
+    "id": "shi-bu-zai-lai",
+    "text": "时不再来",
+    "pinyin": "shí bù zài lái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "value-of-time",
+      "fleeting-time"
+    ],
+    "literal": "time · not · again · come",
+    "natural": "time does not return",
+    "meaning": {
+      "en": "An opportunity once gone will not come again.",
+      "zh": "时机一旦过去，就不会再来。"
+    },
+    "equivalents": [
+      "time waits for no one",
+      "seize the moment"
+    ],
+    "examples": [
+      {
+        "zh": "时不再来，我们要抓紧行动。",
+        "en": "Time doesn't return; we must act quickly."
+      },
+      {
+        "zh": "机会难得，时不再来。",
+        "en": "Chances are rare and will not come again."
+      }
+    ],
+    "usage": {
+      "en": "Often 时不再来，机不可失.",
+      "zh": "常说“时不再来，机不可失”。"
+    },
+    "synonyms": [
+      "机不可失",
+      "稍纵即逝"
+    ],
+    "antonyms": [
+      "来日方长",
+      "机会多多"
+    ]
+  }
+]

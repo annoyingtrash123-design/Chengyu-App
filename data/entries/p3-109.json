@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "shuo-lai-hua-chang",
+    "text": "说来话长",
+    "pinyin": "shuō lái huà cháng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "verbosity"
+    ],
+    "literal": "say · come · story · long",
+    "natural": "it's a long story",
+    "meaning": {
+      "en": "Used when a matter is too complicated to explain briefly.",
+      "zh": "事情复杂，要说清楚得费很多话。"
+    },
+    "equivalents": [
+      "it's a long story",
+      "where do I begin"
+    ],
+    "examples": [
+      {
+        "zh": "你怎么会来这儿？——说来话长。",
+        "en": "How did you end up here? — It's a long story."
+      },
+      {
+        "zh": "这件事说来话长，咱们边吃边聊。",
+        "en": "It's a long story; let's talk over a meal."
+      },
+      {
+        "zh": "他们俩的恩怨说来话长。",
+        "en": "The feud between those two is a long story."
+      }
+    ],
+    "usage": {
+      "en": "Often a stand-alone reply.",
+      "zh": "常单独作答语。"
+    },
+    "synonyms": [
+      "一言难尽"
+    ],
+    "antonyms": [
+      "长话短说"
+    ]
+  },
+  {
+    "id": "feng-juan-can-yun",
+    "text": "风卷残云",
+    "pinyin": "fēng juǎn cán yún",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "efficiency"
+    ],
+    "literal": "wind · sweep · remnant · clouds",
+    "natural": "like a gale sweeping away clouds",
+    "meaning": {
+      "en": "To clear something away swiftly and completely.",
+      "zh": "大风卷走残余的云片，比喻一下子把残余的东西一扫而光。"
+    },
+    "equivalents": [
+      "make short work of",
+      "clear away in no time"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们风卷残云般吃光了桌上的饭菜。",
+        "en": "The children made short work of the food on the table."
+      },
+      {
+        "zh": "大军风卷残云，很快攻下了城池。",
+        "en": "The army swept through and took the city in no time."
+      },
+      {
+        "zh": "一顿饭的工夫，盘子里的菜就被风卷残云般扫光了。",
+        "en": "In the space of a meal, the dishes were wiped clean."
+      }
+    ],
+    "usage": {
+      "en": "Often 风卷残云般 as an adverbial.",
+      "zh": "常说“风卷残云般”，作状语。"
+    },
+    "synonyms": [
+      "席卷一空",
+      "狼吞虎咽"
+    ],
+    "antonyms": [
+      "细嚼慢咽",
+      "慢条斯理"
+    ]
+  },
+  {
+    "id": "gan-zuo-gan-dang",
+    "text": "敢作敢当",
+    "pinyin": "gǎn zuò gǎn dāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "character"
+    ],
+    "literal": "dare · do · dare · bear",
+    "natural": "own up to what one does",
+    "meaning": {
+      "en": "To dare to act and to take responsibility for one's actions.",
+      "zh": "做了事就敢于承担责任。"
+    },
+    "equivalents": [
+      "own up to one's deeds",
+      "take responsibility"
+    ],
+    "examples": [
+      {
+        "zh": "他是个敢作敢当的人，出了问题从不推给别人。",
+        "en": "He owns up to what he does and never shifts blame."
+      },
+      {
+        "zh": "男子汉要敢作敢当。",
+        "en": "A real man takes responsibility for his actions."
+      },
+      {
+        "zh": "队长敢作敢当，赢得了大家的尊重。",
+        "en": "The captain's willingness to take responsibility won everyone's respect."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "勇于担当",
+      "一人做事一人当"
+    ],
+    "antonyms": [
+      "推卸责任",
+      "敢做不敢当",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "long-zheng-hu-dou",
+    "text": "龙争虎斗",
+    "pinyin": "lóng zhēng hǔ dòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "war"
+    ],
+    "literal": "dragons · contend · tigers · fight",
+    "natural": "a clash of titans",
+    "meaning": {
+      "en": "A fierce contest between strong rivals.",
+      "zh": "形容双方势均力敌，斗争或竞赛十分激烈。"
+    },
+    "equivalents": [
+      "a clash of titans",
+      "a fierce tussle",
+      "a battle royal"
+    ],
+    "examples": [
+      {
+        "zh": "决赛是一场龙争虎斗，比分交替上升。",
+        "en": "The final was a clash of titans, with the lead changing hands."
+      },
+      {
+        "zh": "几家巨头在这个市场上龙争虎斗。",
+        "en": "Several giants are locked in a fierce struggle for this market."
+      },
+      {
+        "zh": "乱世之中，群雄龙争虎斗。",
+        "en": "In the age of chaos, rival warlords fought it out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "龙虎相争",
+      "势均力敌",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一边倒"
+    ]
+  },
+  {
+    "id": "pin-si-pin-huo",
+    "text": "拼死拼活",
+    "pinyin": "pīn sǐ pīn huó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "effort"
+    ],
+    "literal": "risk · death · risk · life",
+    "natural": "work oneself to death",
+    "meaning": {
+      "en": "To exert oneself desperately, with all one's strength.",
+      "zh": "形容拼命地干，不顾一切。"
+    },
+    "equivalents": [
+      "work oneself to the bone",
+      "go all out",
+      "slog away"
+    ],
+    "examples": [
+      {
+        "zh": "他拼死拼活干了一年，才还清了债。",
+        "en": "He slogged away for a year before clearing his debts."
+      },
+      {
+        "zh": "别拼死拼活地工作，身体要紧。",
+        "en": "Don't work yourself to death; your health matters."
+      },
+      {
+        "zh": "为了这个项目，大家拼死拼活地赶工。",
+        "en": "Everyone worked flat out to rush the project."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; usually adverbial.",
+      "zh": "口语，多作状语。"
+    },
+    "synonyms": [
+      "拼命",
+      "废寝忘食",
+      "呕心沥血"
+    ],
+    "antonyms": [
+      "偷懒耍滑",
+      "敷衍了事"
+    ]
+  },
+  {
+    "id": "ao-ran-ting-li",
+    "text": "傲然挺立",
+    "pinyin": "ào rán tǐng lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "plant-and-natural-world"
+    ],
+    "literal": "proudly · upright · stand",
+    "natural": "stand tall and proud",
+    "meaning": {
+      "en": "To stand proud and upright, unbowed.",
+      "zh": "高傲而挺拔地站立着，多形容不屈不畏。"
+    },
+    "equivalents": [
+      "stand tall",
+      "stand proud and unbowed"
+    ],
+    "examples": [
+      {
+        "zh": "寒风中，梅花傲然挺立。",
+        "en": "In the cold wind, the plum blossom stands proud."
+      },
+      {
+        "zh": "松树在悬崖上傲然挺立。",
+        "en": "The pine stands tall on the cliff edge."
+      },
+      {
+        "zh": "面对压力，他依然傲然挺立。",
+        "en": "Under pressure, he still stood unbowed."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "描写性，书面语。"
+    },
+    "synonyms": [
+      "昂首挺立",
+      "巍然屹立",
+      "岿然不动"
+    ],
+    "antonyms": [
+      "卑躬屈膝",
+      "俯首帖耳"
+    ]
+  },
+  {
+    "id": "su-bu-ke-nai",
+    "text": "俗不可耐",
+    "pinyin": "sú bù kě nài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "vulgar · not · can · endure",
+    "natural": "unbearably vulgar",
+    "meaning": {
+      "en": "So vulgar as to be unbearable.",
+      "zh": "庸俗得让人受不了。"
+    },
+    "equivalents": [
+      "unbearably vulgar",
+      "tacky beyond belief"
+    ],
+    "examples": [
+      {
+        "zh": "这套装修俗不可耐，满眼都是金色。",
+        "en": "The decor is unbearably tacky, all gold."
+      },
+      {
+        "zh": "那首歌的歌词俗不可耐。",
+        "en": "The lyrics of that song are painfully vulgar."
+      },
+      {
+        "zh": "他说话俗不可耐，大家都躲着他。",
+        "en": "His talk is so crude that people avoid him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "庸俗不堪"
+    ],
+    "antonyms": [
+      "高雅脱俗",
+      "超凡脱俗"
+    ]
+  },
+  {
+    "id": "min-sheng-diao-bi",
+    "text": "民生凋敝",
+    "pinyin": "mín shēng diāo bì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poverty-and-hardship",
+      "society"
+    ],
+    "literal": "people · livelihood · withered · worn out",
+    "natural": "the people's livelihood in ruins",
+    "meaning": {
+      "en": "The people's livelihood is impoverished and run-down.",
+      "zh": "人民生活困苦，经济衰败。"
+    },
+    "equivalents": [
+      "economic devastation",
+      "the people's livelihood in ruin"
+    ],
+    "examples": [
+      {
+        "zh": "战乱过后，民生凋敝。",
+        "en": "After the war, people's livelihoods lay in ruins."
+      },
+      {
+        "zh": "连年灾荒使得当地民生凋敝。",
+        "en": "Years of famine left the region devastated."
+      },
+      {
+        "zh": "史书记载，那时国力衰弱，民生凋敝。",
+        "en": "The histories record a weak state and an impoverished people."
+      }
+    ],
+    "usage": {
+      "en": "Formal, often historical.",
+      "zh": "书面语，多用于历史叙述。"
+    },
+    "synonyms": [
+      "民不聊生",
+      "哀鸿遍野",
+      "满目疮痍"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "安居乐业"
+    ]
+  },
+  {
+    "id": "si-xu-wan-qian",
+    "text": "思绪万千",
+    "pinyin": "sī xù wàn qiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complex-emotional-states",
+      "emotions"
+    ],
+    "literal": "thoughts · threads · ten-thousand · thousand",
+    "natural": "a flood of thoughts",
+    "meaning": {
+      "en": "Having countless thoughts and feelings in one's mind.",
+      "zh": "心里思绪很多，想了很多事。"
+    },
+    "equivalents": [
+      "a mind full of thoughts",
+      "a flood of memories"
+    ],
+    "examples": [
+      {
+        "zh": "站在老屋前，他思绪万千。",
+        "en": "Standing before the old house, his mind was full of memories."
+      },
+      {
+        "zh": "夜深人静，她思绪万千，难以入睡。",
+        "en": "In the quiet of night, her thoughts raced and she couldn't sleep."
+      },
+      {
+        "zh": "毕业那天，同学们思绪万千。",
+        "en": "On graduation day, the students were lost in a tangle of feelings."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "感慨万千",
+      "百感交集",
+      "心潮起伏"
+    ],
+    "antonyms": [
+      "心如止水",
+      "毫无波澜"
+    ]
+  },
+  {
+    "id": "suo-xiang-wu-di",
+    "text": "所向无敌",
+    "pinyin": "suǒ xiàng wú dí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "where · facing · no · enemy",
+    "natural": "invincible",
+    "meaning": {
+      "en": "Unbeatable wherever one turns.",
+      "zh": "无论冲向哪里都没有对手，形容力量强大。"
+    },
+    "equivalents": [
+      "invincible",
+      "carry all before one"
+    ],
+    "examples": [
+      {
+        "zh": "这支球队曾经所向无敌。",
+        "en": "This team was once invincible."
+      },
+      {
+        "zh": "他们的骑兵所向无敌。",
+        "en": "Their cavalry swept all before them."
+      },
+      {
+        "zh": "在棋坛，他一度所向无敌。",
+        "en": "For a time he was unbeatable in the chess world."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "所向披靡",
+      "战无不胜",
+      "势不可当"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "yin-ren-zhi-yi",
+    "text": "因人制宜",
+    "pinyin": "yīn rén zhì yí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "adaptability",
+      "wisdom"
+    ],
+    "literal": "according to · person · devise · suitable",
+    "natural": "tailor to the person",
+    "meaning": {
+      "en": "To adopt methods suited to the particular person.",
+      "zh": "根据不同的人采取适当的办法。"
+    },
+    "equivalents": [
+      "tailor to the individual",
+      "adapt to each person"
+    ],
+    "examples": [
+      {
+        "zh": "教学要因人制宜，不能一刀切。",
+        "en": "Teaching should be tailored to each pupil, not one-size-fits-all."
+      },
+      {
+        "zh": "健身计划应当因人制宜。",
+        "en": "A fitness plan should suit the individual."
+      },
+      {
+        "zh": "医生根据体质因人制宜地开药。",
+        "en": "The doctor prescribes according to each patient's constitution."
+      }
+    ],
+    "usage": {
+      "en": "Often with 因时、因地: 因时制宜、因地制宜、因人制宜.",
+      "zh": "常与“因时制宜”“因地制宜”并用。"
+    },
+    "synonyms": [
+      "因材施教",
+      "量体裁衣"
+    ],
+    "antonyms": [
+      "一刀切",
+      "千篇一律"
+    ]
+  },
+  {
+    "id": "fang-cun-zhi-di",
+    "text": "方寸之地",
+    "pinyin": "fāng cùn zhī dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relative-measurements",
+      "small-numbers"
+    ],
+    "literal": "square · inch · 's · ground",
+    "natural": "a tiny patch of ground",
+    "meaning": {
+      "en": "A tiny space; also, figuratively, the heart.",
+      "zh": "指很小的地方，也比喻内心。"
+    },
+    "equivalents": [
+      "a tiny patch of land",
+      "a mere inch of space"
+    ],
+    "examples": [
+      {
+        "zh": "他在这方寸之地种出了一小片菜园。",
+        "en": "He grew a little vegetable garden on this tiny patch."
+      },
+      {
+        "zh": "小小的舞台，方寸之地也能演出精彩。",
+        "en": "Even a tiny stage can host a great show."
+      },
+      {
+        "zh": "方寸之地，容不下太多的烦恼。",
+        "en": "The heart has little room for so many worries."
+      }
+    ],
+    "usage": {
+      "en": "Literary; the heart sense is classical.",
+      "zh": "书面语；指“心”是古义。"
+    },
+    "synonyms": [
+      "弹丸之地",
+      "一隅之地"
+    ],
+    "antonyms": [
+      "广袤无垠",
+      "辽阔无边"
+    ]
+  },
+  {
+    "id": "qun-mo-luan-wu",
+    "text": "群魔乱舞",
+    "pinyin": "qún mó luàn wǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos",
+      "corruption-and-injustice"
+    ],
+    "literal": "crowd · demons · wildly · dance",
+    "natural": "demons running riot",
+    "meaning": {
+      "en": "Evil forces running rampant.",
+      "zh": "一群坏人猖獗活动，到处作恶。"
+    },
+    "equivalents": [
+      "a riot of evil forces",
+      "villains running amok"
+    ],
+    "examples": [
+      {
+        "zh": "那几年社会失序，群魔乱舞。",
+        "en": "In those years society fell into disorder and villains ran amok."
+      },
+      {
+        "zh": "网络上谣言四起，群魔乱舞。",
+        "en": "Rumours are everywhere online; all the trolls have come out."
+      },
+      {
+        "zh": "影片结尾，妖怪们群魔乱舞。",
+        "en": "At the end of the film, the demons run riot."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "牛鬼蛇神",
+      "魑魅魍魉",
+      "乌烟瘴气"
+    ],
+    "antonyms": [
+      "天下太平",
+      "海晏河清"
+    ]
+  },
+  {
+    "id": "bi-lei-sen-yan",
+    "text": "壁垒森严",
+    "pinyin": "bì lěi sēn yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "standards-and-benchmarks"
+    ],
+    "literal": "rampart · fort · dense · stern",
+    "natural": "heavily fortified",
+    "meaning": {
+      "en": "Heavily fortified; or, figuratively, with sharply drawn barriers.",
+      "zh": "防守严密，也比喻界限分明、互不相通。"
+    },
+    "equivalents": [
+      "heavily fortified",
+      "with rigid barriers"
+    ],
+    "examples": [
+      {
+        "zh": "敌军营地壁垒森严，难以接近。",
+        "en": "The enemy camp was heavily fortified and hard to approach."
+      },
+      {
+        "zh": "两派之间壁垒森严，互不往来。",
+        "en": "The two camps are sharply divided and have no contact."
+      },
+      {
+        "zh": "行业之间壁垒森严，新人很难进入。",
+        "en": "Barriers between industries are high, and newcomers struggle to enter."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "戒备森严",
+      "固若金汤",
+      "严阵以待"
+    ],
+    "antonyms": [
+      "不设防",
+      "畅通无阻"
+    ]
+  },
+  {
+    "id": "xia-hui-fen-jie",
+    "text": "下回分解",
+    "pinyin": "xià huí fēn jiě",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "culture",
+      "stories"
+    ],
+    "literal": "next · chapter · explain · resolve",
+    "natural": "tune in next time",
+    "meaning": {
+      "en": "Formula ending a chapter in old novels: the answer comes in the next one.",
+      "zh": "章回小说每回结尾的套话，意思是要知道后事如何，请看下一回。"
+    },
+    "equivalents": [
+      "to be continued",
+      "find out in the next chapter"
+    ],
+    "examples": [
+      {
+        "zh": "正是：山重水复疑无路，柳暗花明又一村。欲知后事如何，且听下回分解。",
+        "en": "— To find out what happens next, read the next chapter."
+      },
+      {
+        "zh": "他卖了个关子，说：“结果如何，下回分解。”",
+        "en": "He kept us in suspense: \"What happened? Tune in next time.\""
+      },
+      {
+        "zh": "故事讲到这儿，下回分解。",
+        "en": "The story stops here; the rest comes next time."
+      }
+    ],
+    "usage": {
+      "en": "Often joking, when ending a story.",
+      "zh": "现多用于开玩笑地结束话题。"
+    },
+    "synonyms": [
+      "欲知后事如何"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xian-feng-dao-gu",
+    "text": "仙风道骨",
+    "pinyin": "xiān fēng dào gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "道骨仙风"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "outstanding-character"
+    ],
+    "literal": "immortal · air · Daoist · bones",
+    "natural": "ethereal and sage-like",
+    "meaning": {
+      "en": "Having the look of an immortal; an ethereal, sage-like bearing.",
+      "zh": "形容人的气质不俗，像神仙一样飘逸脱俗。"
+    },
+    "equivalents": [
+      "otherworldly bearing",
+      "a sage-like air"
+    ],
+    "examples": [
+      {
+        "zh": "老先生白须飘飘，仙风道骨。",
+        "en": "The old gentleman, with his flowing white beard, had an ethereal air."
+      },
+      {
+        "zh": "他一身仙风道骨，不像尘世中人。",
+        "en": "He had the bearing of an immortal, as if not of this world."
+      },
+      {
+        "zh": "画中的老者仙风道骨。",
+        "en": "The old man in the painting looks like a sage."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "超凡脱俗",
+      "飘然若仙"
+    ],
+    "antonyms": [
+      "俗不可耐",
+      "庸俗不堪"
+    ]
+  },
+  {
+    "id": "yi-shen-xun-guo",
+    "text": "以身殉国",
+    "pinyin": "yǐ shēn xùn guó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "positive-character-qualities"
+    ],
+    "literal": "with · body · die for · country",
+    "natural": "lay down one's life for the country",
+    "meaning": {
+      "en": "To sacrifice one's life for one's country.",
+      "zh": "为国家的利益而献出生命。"
+    },
+    "equivalents": [
+      "die for one's country",
+      "give one's life for the nation"
+    ],
+    "examples": [
+      {
+        "zh": "将军战败后，以身殉国。",
+        "en": "After the defeat, the general gave his life for his country."
+      },
+      {
+        "zh": "无数烈士以身殉国。",
+        "en": "Countless martyrs died for their country."
+      },
+      {
+        "zh": "他立志以身殉国，保家卫国。",
+        "en": "He was determined to give his life defending the homeland."
+      }
+    ],
+    "usage": {
+      "en": "Formal.",
+      "zh": "书面语。"
+    },
+    "synonyms": [
+      "舍身报国",
+      "为国捐躯",
+      "视死如归"
+    ],
+    "antonyms": [
+      "卖国求荣",
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "bi-liang-wei-chang",
+    "text": "逼良为娼",
+    "pinyin": "bī liáng wéi chāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "inappropriate-behavior"
+    ],
+    "literal": "force · decent · become · prostitute",
+    "natural": "force the innocent into vice",
+    "meaning": {
+      "en": "To force decent people into wrongdoing.",
+      "zh": "逼迫良家女子当娼妓，泛指迫使好人做坏事。"
+    },
+    "equivalents": [
+      "force the innocent into vice",
+      "drive honest people to the bad"
+    ],
+    "examples": [
+      {
+        "zh": "债主逼良为娼，令人愤恨。",
+        "en": "The creditor's forcing a decent girl into prostitution outraged everyone."
+      },
+      {
+        "zh": "官府逼良为娼，百姓怨声载道。",
+        "en": "The authorities drove honest people to ruin and the people grumbled."
+      },
+      {
+        "zh": "这种逼良为娼的行径必须严惩。",
+        "en": "Such coercion of the innocent must be severely punished."
+      }
+    ],
+    "usage": {
+      "en": "Often used figuratively of coercing someone into wrongdoing.",
+      "zh": "也泛指逼迫好人作恶。"
+    },
+    "synonyms": [
+      "为非作歹",
+      "欺压良善"
+    ],
+    "antonyms": [
+      "劝人向善",
+      "扶危济困"
+    ]
+  },
+  {
+    "id": "qian-hui-bai-zhuan",
+    "text": "千回百转",
+    "pinyin": "qiān huí bǎi zhuǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "百转千回"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complex-emotional-states",
+      "journeys-and-exploration"
+    ],
+    "literal": "thousand · turns · hundred · twists",
+    "natural": "winding and tortuous",
+    "meaning": {
+      "en": "Winding with many twists; also, of feelings or a tune, turning over and over.",
+      "zh": "形容道路、河流曲折，也形容心思、曲调委婉多变。"
+    },
+    "equivalents": [
+      "winding and twisting",
+      "full of twists and turns"
+    ],
+    "examples": [
+      {
+        "zh": "山路千回百转，走了一整天。",
+        "en": "The mountain road twists and turns; it took all day."
+      },
+      {
+        "zh": "她的心事千回百转，却说不出口。",
+        "en": "Her feelings turned over and over, yet she couldn't voice them."
+      },
+      {
+        "zh": "歌声千回百转，余音绕梁。",
+        "en": "The song twisted and soared, its notes lingering."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "描写性，书面语。"
+    },
+    "synonyms": [
+      "曲折迂回",
+      "九曲回肠"
+    ],
+    "antonyms": [
+      "一目了然",
+      "笔直"
+    ]
+  },
+  {
+    "id": "qi-feng-leng-yu",
+    "text": "凄风冷雨",
+    "pinyin": "qī fēng lěng yǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "凄风苦雨"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "harsh-natural-conditions",
+      "sadness-and-despair"
+    ],
+    "literal": "bleak · wind · cold · rain",
+    "natural": "bleak wind and cold rain",
+    "meaning": {
+      "en": "Bleak, cold weather; also a miserable, hard situation.",
+      "zh": "寒冷凄凉的风雨，也比喻悲惨困苦的境遇。"
+    },
+    "equivalents": [
+      "bleak wind and cold rain",
+      "a bitter and dreary time"
+    ],
+    "examples": [
+      {
+        "zh": "凄风冷雨中，他一个人走回家。",
+        "en": "In the bleak wind and rain, he walked home alone."
+      },
+      {
+        "zh": "她在凄风冷雨中度过了童年。",
+        "en": "She spent her childhood amid hardship and gloom."
+      },
+      {
+        "zh": "那个秋天，凄风冷雨，满街落叶。",
+        "en": "That autumn, cold rain and wind left the streets strewn with leaves."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "描写性，书面语。"
+    },
+    "synonyms": [
+      "风雨飘摇",
+      "饥寒交迫"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "春风和煦"
+    ]
+  },
+  {
+    "id": "you-hong-you-zhuan",
+    "text": "又红又专",
+    "pinyin": "yòu hóng yòu zhuān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "historical-periods"
+    ],
+    "literal": "both · red · and · expert",
+    "natural": "politically sound and professionally expert",
+    "meaning": {
+      "en": "Both politically sound and professionally expert (a mid-century slogan).",
+      "zh": "既政治觉悟高，又有专业本领，是上世纪中期的流行口号。"
+    },
+    "equivalents": [
+      "both red and expert",
+      "politically committed and highly skilled"
+    ],
+    "examples": [
+      {
+        "zh": "他们要求青年干部又红又专。",
+        "en": "Young cadres were told to be both red and expert."
+      },
+      {
+        "zh": "“又红又专”是那个年代的口号。",
+        "en": "\"Both red and expert\" was a slogan of that era."
+      },
+      {
+        "zh": "她既有觉悟又有技术，称得上又红又专。",
+        "en": "With both conviction and skill, she could be called red and expert."
+      }
+    ],
+    "usage": {
+      "en": "Historical slogan; now mostly in retrospective contexts.",
+      "zh": "历史口号，现多用于回顾。"
+    },
+    "synonyms": [
+      "德才兼备"
+    ],
+    "antonyms": [
+      "外行领导内行"
+    ]
+  }
+]

@@ -296,11 +296,11 @@
     "id": "zai-jie-nan-tao",
     "text": "在劫难逃",
     "pinyin": "zài jié nán táo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "劫数难逃"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -740,6 +740,9 @@
     "id": "huang-ru-ge-shi",
     "text": "恍如隔世",
     "pinyin": "huǎng rú gé shì",
+    "variants": [
+      "恍若隔世"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

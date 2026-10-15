@@ -406,11 +406,11 @@
     "id": "bu-xu-ci-xing",
     "text": "不虚此行",
     "pinyin": "bù xū cǐ xíng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "不枉此行"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -629,11 +629,11 @@
     "id": "yuan-feng-bu-dong",
     "text": "原封不动",
     "pinyin": "yuán fēng bù dòng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "原封未动"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -725,6 +725,9 @@
     "id": "san-fan-wu-ci",
     "text": "三番五次",
     "pinyin": "sān fān wǔ cì",
+    "variants": [
+      "三番两次"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -814,11 +817,11 @@
     "id": "ban-shang-ding-ding",
     "text": "板上钉钉",
     "pinyin": "bǎn shàng dìng dīng",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "铁板钉钉"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -904,11 +907,11 @@
     "id": "wu-chu-bu-zai",
     "text": "无处不在",
     "pinyin": "wú chù bù zài",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "无所不在"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1043,6 +1046,9 @@
     "id": "dong-dang-bu-an",
     "text": "动荡不安",
     "pinyin": "dòng dàng bù ān",
+    "variants": [
+      "动荡不定"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

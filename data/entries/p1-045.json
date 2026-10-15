@@ -478,6 +478,9 @@
     "id": "yun-xiao-wu-san",
     "text": "云消雾散",
     "pinyin": "yún xiāo wù sàn",
+    "variants": [
+      "云开雾散"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -582,8 +585,11 @@
   },
   {
     "id": "xiang-ji-er-dong",
-    "text": "相机而动",
-    "pinyin": "xiàng jī ér dòng",
+    "text": "伺机而动",
+    "pinyin": "sì jī ér dòng",
+    "variants": [
+      "相机而动"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -619,7 +625,6 @@
     },
     "synonyms": [
       "见机行事",
-      "伺机而动",
       "随机应变"
     ],
     "antonyms": [
@@ -631,6 +636,9 @@
     "id": "yang-hu-yi-huan",
     "text": "养虎遗患",
     "pinyin": "yǎng hǔ yí huàn",
+    "variants": [
+      "养虎为患"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -744,7 +752,8 @@
     "pinyin": "páo gēn wèn dǐ",
     "variants": [
       "寻根问底",
-      "寻根究底"
+      "寻根究底",
+      "追根究底"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -779,9 +788,7 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "追根究底"
-    ],
+    "synonyms": [],
     "antonyms": [
       "浅尝辄止",
       "不求甚解",

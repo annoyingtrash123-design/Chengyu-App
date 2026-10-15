@@ -117,11 +117,11 @@
     "id": "luo-ye-gui-gen",
     "text": "落叶归根",
     "pinyin": "luò yè guī gēn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "叶落归根"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -366,6 +366,9 @@
     "id": "xing-shi-dong-zhong",
     "text": "兴师动众",
     "pinyin": "xīng shī dòng zhòng",
+    "variants": [
+      "劳师动众"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -400,8 +403,7 @@
       "zh": "多作谓语，多含贬义。\"兴\"读 xīng。"
     },
     "synonyms": [
-      "大张旗鼓",
-      "劳师动众"
+      "大张旗鼓"
     ],
     "antonyms": [
       "轻而易举",
