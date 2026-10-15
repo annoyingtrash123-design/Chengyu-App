@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "xin-shu-bu-zheng",
+    "text": "心术不正",
+    "pinyin": "xīn shù bù zhèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "heart · intent · not · upright",
+    "natural": "of crooked character",
+    "meaning": {
+      "en": "Having a warped mind and bad intentions.",
+      "zh": "居心不良，思想品德不端正。"
+    },
+    "equivalents": [
+      "of crooked character",
+      "ill-intentioned"
+    ],
+    "examples": [
+      {
+        "zh": "心术不正的人不能委以重任。",
+        "en": "Someone of crooked character cannot be given major responsibility."
+      },
+      {
+        "zh": "他心术不正，总想占别人便宜。",
+        "en": "He is ill-intentioned and always tries to take advantage of others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; derogatory.",
+      "zh": "作谓语、定语，贬义。"
+    },
+    "synonyms": [
+      "居心不良",
+      "心怀鬼胎"
+    ],
+    "antonyms": [
+      "光明正大",
+      "心地善良"
+    ]
+  },
+  {
+    "id": "yi-lao-mai-lao",
+    "text": "倚老卖老",
+    "pinyin": "yǐ lǎo mài lǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "以老卖老"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "rely-on · age · flaunt · age",
+    "natural": "pull rank by age",
+    "meaning": {
+      "en": "To take advantage of one's seniority or age to lord it over others.",
+      "zh": "仗着年纪大、资格老而自傲，看不起别人。"
+    },
+    "equivalents": [
+      "pull rank on account of age",
+      "act the elder"
+    ],
+    "examples": [
+      {
+        "zh": "他总爱倚老卖老，指责年轻人。",
+        "en": "He likes to lecture young people just because he's older."
+      },
+      {
+        "zh": "别在这儿倚老卖老，大家都是平等的。",
+        "en": "Don't play the elder here; we're all equals."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "自恃资深",
+      "摆老资格"
+    ],
+    "antonyms": [
+      "虚怀若谷",
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "bang-shang-wu-ming",
+    "text": "榜上无名",
+    "pinyin": "bǎng shàng wú míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "list · on · no · name",
+    "natural": "not on the list",
+    "meaning": {
+      "en": "To fail to appear on the list of successful candidates.",
+      "zh": "榜单上没有自己的名字，指考试落榜。"
+    },
+    "equivalents": [
+      "fail to make the list",
+      "miss the cut"
+    ],
+    "examples": [
+      {
+        "zh": "看到榜上无名，他沉默了很久。",
+        "en": "Seeing his name missing from the list, he fell silent for a long time."
+      },
+      {
+        "zh": "这次评选，他榜上无名。",
+        "en": "He didn't make the list in this selection."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "名落孙山",
+      "金榜落第"
+    ],
+    "antonyms": [
+      "金榜题名",
+      "名列前茅"
+    ]
+  },
+  {
+    "id": "qiu-zhi-ruo-ke",
+    "text": "求知若渴",
+    "pinyin": "qiú zhī ruò kě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "positive-character-qualities"
+    ],
+    "literal": "seek · knowledge · like · thirst",
+    "natural": "thirsty for knowledge",
+    "meaning": {
+      "en": "To crave knowledge as a thirsty person craves water.",
+      "zh": "像口渴思饮一样渴望获得知识。"
+    },
+    "equivalents": [
+      "thirst for knowledge",
+      "hungry to learn"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们对科学求知若渴。",
+        "en": "The children thirst for science."
+      },
+      {
+        "zh": "他求知若渴，每天泡在图书馆。",
+        "en": "Hungry to learn, he spent every day in the library."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praise.",
+      "zh": "作谓语、定语，褒义。"
+    },
+    "synonyms": [
+      "如饥似渴",
+      "好学不倦"
+    ],
+    "antonyms": [
+      "不学无术",
+      "不求甚解"
+    ]
+  },
+  {
+    "id": "zhuang-feng-mai-sha",
+    "text": "装疯卖傻",
+    "pinyin": "zhuāng fēng mài shǎ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "feign · mad · peddle · silly",
+    "natural": "play the fool",
+    "meaning": {
+      "en": "To act mad or stupid, either to dodge something or to be silly.",
+      "zh": "假装疯癫痴傻，借以逃避或蒙混。"
+    },
+    "equivalents": [
+      "play the fool",
+      "act dumb"
+    ],
+    "examples": [
+      {
+        "zh": "别装疯卖傻了，我知道你什么都懂。",
+        "en": "Stop playing the fool; I know you understand everything."
+      },
+      {
+        "zh": "他装疯卖傻，躲过了盘问。",
+        "en": "He feigned madness and evaded the questioning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial.",
+      "zh": "多作谓语，口语。"
+    },
+    "synonyms": [
+      "装聋作哑",
+      "装模作样"
+    ],
+    "antonyms": [
+      "实话实说",
+      "开诚布公"
+    ]
+  },
+  {
+    "id": "mei-lai-yan-qu",
+    "text": "眉来眼去",
+    "pinyin": "méi lái yǎn qù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "inappropriate-behavior"
+    ],
+    "literal": "brows · come · eyes · go",
+    "natural": "exchange flirtatious glances",
+    "meaning": {
+      "en": "To exchange meaningful or flirtatious glances.",
+      "zh": "用眉眼传情，也指暗中勾结。"
+    },
+    "equivalents": [
+      "make eyes at each other",
+      "exchange knowing looks"
+    ],
+    "examples": [
+      {
+        "zh": "两人在会上眉来眼去，被同事看在眼里。",
+        "en": "The two exchanged glances in the meeting, and colleagues noticed."
+      },
+      {
+        "zh": "他们俩眉来眼去，早就有了默契。",
+        "en": "They had long been making eyes at each other and had an understanding."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; mildly derogatory, jocular.",
+      "zh": "多作谓语，略含贬义或戏谑。"
+    },
+    "synonyms": [
+      "眉目传情",
+      "暗送秋波"
+    ],
+    "antonyms": [
+      "目不斜视",
+      "正襟危坐"
+    ]
+  },
+  {
+    "id": "bai-shan-hei-shui",
+    "text": "白山黑水",
+    "pinyin": "bái shān hēi shuǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "culture"
+    ],
+    "literal": "white · mountains · black · waters",
+    "natural": "the Northeast",
+    "meaning": {
+      "en": "A poetic name for northeast China: the Changbai mountains and the Heilong (Amur) river.",
+      "zh": "指中国东北地区：长白山和黑龙江。"
+    },
+    "equivalents": [
+      "China's Northeast",
+      "the White Mountains and Black River"
+    ],
+    "examples": [
+      {
+        "zh": "白山黑水孕育了勤劳的东北人。",
+        "en": "The White Mountains and Black River nurtured the hardy people of the Northeast."
+      },
+      {
+        "zh": "他从白山黑水走来，操着一口东北腔。",
+        "en": "He came from the far Northeast with a strong regional accent."
+      }
+    ],
+    "usage": {
+      "en": "Proper-name-like; literary.",
+      "zh": "类似专名，书面语。"
+    },
+    "synonyms": [
+      "关东",
+      "东北大地"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "huo-shao-mei-mao",
+    "text": "火烧眉毛",
+    "pinyin": "huǒ shāo méi máo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "danger",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "fire · burn · eyebrows",
+    "natural": "extremely urgent",
+    "meaning": {
+      "en": "So urgent that fire is practically scorching one's eyebrows.",
+      "zh": "火烧到眉毛，比喻事情非常紧迫。"
+    },
+    "equivalents": [
+      "pressing and urgent",
+      "the heat is on"
+    ],
+    "examples": [
+      {
+        "zh": "火烧眉毛了，你还在慢吞吞！",
+        "en": "The deadline is upon us and you're still dawdling!"
+      },
+      {
+        "zh": "现在是火烧眉毛的时候，必须马上行动。",
+        "en": "It's now extremely urgent and we must act immediately."
+      }
+    ],
+    "usage": {
+      "en": "Often 火烧眉毛了 / 火烧眉毛的事.",
+      "zh": "常说“火烧眉毛了”。"
+    },
+    "synonyms": [
+      "迫在眉睫",
+      "十万火急"
+    ],
+    "antonyms": [
+      "不慌不忙",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "nong-jia-cheng-zhen",
+    "text": "弄假成真",
+    "pinyin": "nòng jiǎ chéng zhēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "love-and-marriage"
+    ],
+    "literal": "play · fake · become · real",
+    "natural": "what was pretend becomes real",
+    "meaning": {
+      "en": "What began as pretence turns into reality.",
+      "zh": "本来是假装的，结果变成了真的。"
+    },
+    "equivalents": [
+      "a pretence that became real",
+      "fake it till it's real"
+    ],
+    "examples": [
+      {
+        "zh": "他们假扮情侣，结果弄假成真。",
+        "en": "They posed as a couple and it became the real thing."
+      },
+      {
+        "zh": "玩笑开过了头，弄假成真。",
+        "en": "The joke went too far and came true."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "假戏真做",
+      "以假乱真"
+    ],
+    "antonyms": [
+      "真相大白",
+      "弄巧成拙"
+    ]
+  },
+  {
+    "id": "chi-xin-wang-xiang",
+    "text": "痴心妄想",
+    "pinyin": "chī xīn wàng xiǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "failed-ambitions",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "foolish · heart · rash · thinking",
+    "natural": "wishful thinking",
+    "meaning": {
+      "en": "Wishful thinking about something that can never come true.",
+      "zh": "一心想着根本不可能实现的事。"
+    },
+    "equivalents": [
+      "pipe dream",
+      "wishful thinking"
+    ],
+    "examples": [
+      {
+        "zh": "不劳而获，那是痴心妄想。",
+        "en": "Getting something for nothing is a pipe dream."
+      },
+      {
+        "zh": "想一夜暴富，纯属痴心妄想。",
+        "en": "Hoping to get rich overnight is sheer fantasy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or noun; derogatory.",
+      "zh": "作谓语或名词，贬义。"
+    },
+    "synonyms": [
+      "异想天开",
+      "白日做梦"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "实事求是"
+    ]
+  },
+  {
+    "id": "man-yuan-chun-se",
+    "text": "满园春色",
+    "pinyin": "mǎn yuán chūn sè",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "春色满园"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "plant-and-natural-world"
+    ],
+    "literal": "full · garden · spring · colour",
+    "natural": "a garden full of spring",
+    "meaning": {
+      "en": "A garden bursting with spring scenery.",
+      "zh": "整个园子都是春天的景色。"
+    },
+    "equivalents": [
+      "a garden full of spring",
+      "spring in full bloom"
+    ],
+    "examples": [
+      {
+        "zh": "公园里满园春色，游人如织。",
+        "en": "The park is full of spring colour and crowded with visitors."
+      },
+      {
+        "zh": "满园春色关不住，一枝红杏出墙来。",
+        "en": "Spring cannot be shut in the garden; a spray of red apricot reaches over the wall."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often with 关不住.",
+      "zh": "常与“关不住”连用。"
+    },
+    "synonyms": [
+      "春意盎然",
+      "春光明媚"
+    ],
+    "antonyms": [
+      "萧瑟秋风",
+      "满目凄凉"
+    ]
+  },
+  {
+    "id": "zhen-ming-tian-zi",
+    "text": "真命天子",
+    "pinyin": "zhēn mìng tiān zǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "leadership-and-authority",
+      "love-and-marriage"
+    ],
+    "literal": "true · destined · heaven · son",
+    "natural": "the destined one",
+    "meaning": {
+      "en": "The true emperor destined by heaven; now often jokingly 'Mr Right'.",
+      "zh": "原指受天命的真正皇帝；现多戏指命中注定的理想对象。"
+    },
+    "equivalents": [
+      "the destined emperor",
+      "Mr Right"
+    ],
+    "examples": [
+      {
+        "zh": "她终于等到了自己的真命天子。",
+        "en": "She has at last met her Mr Right."
+      },
+      {
+        "zh": "他自以为是这家公司的真命天子。",
+        "en": "He fancies himself the chosen one of this company."
+      }
+    ],
+    "usage": {
+      "en": "Modern use is jocular.",
+      "zh": "现代多为戏谑用法。"
+    },
+    "synonyms": [
+      "天选之子"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bing-bu-xue-ren",
+    "text": "兵不血刃",
+    "pinyin": "bīng bù xuè rèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "efficiency",
+      "confucian-classics"
+    ],
+    "literal": "weapons · not · blood · blade",
+    "natural": "win without bloodshed",
+    "meaning": {
+      "en": "To win without staining the blade with blood; victory without fighting.",
+      "zh": "武器上没沾血，指不经战斗就取得胜利。"
+    },
+    "equivalents": [
+      "win without a fight",
+      "bloodless victory"
+    ],
+    "examples": [
+      {
+        "zh": "大军压境，守军兵不血刃地投降了。",
+        "en": "With the army at the gates, the garrison surrendered without a fight."
+      },
+      {
+        "zh": "他们兵不血刃地拿下了这家公司。",
+        "en": "They took over the company without a fight."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·议兵》",
+      "story": {
+        "en": "Xunzi on the army of a true king: 'Not a blade bloodied, and far and near all submitted' (兵不血刃，远迩来服).",
+        "zh": "《荀子·议兵》：“兵不血刃，远迩来服。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "不战而胜",
+      "不战而屈人之兵"
+    ],
+    "antonyms": [
+      "血流成河",
+      "血战到底"
+    ]
+  },
+  {
+    "id": "wu-mi-zhi-chui",
+    "text": "无米之炊",
+    "pinyin": "wú mǐ zhī chuī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "no · rice · 's · cooking",
+    "natural": "cooking without rice",
+    "meaning": {
+      "en": "Cooking without rice; trying to do something without the necessary resources.",
+      "zh": "没有米却要做饭，比喻缺少必要条件，事情很难办成。"
+    },
+    "equivalents": [
+      "make bricks without straw",
+      "do the impossible with nothing"
+    ],
+    "examples": [
+      {
+        "zh": "没有经费，再好的老师也做不了无米之炊。",
+        "en": "Without funds even the best teacher cannot make bricks without straw."
+      },
+      {
+        "zh": "巧妇难为无米之炊。",
+        "en": "Even a clever housewife cannot cook without rice."
+      }
+    ],
+    "usage": {
+      "en": "Often within 巧妇难为无米之炊.",
+      "zh": "常见于“巧妇难为无米之炊”。"
+    },
+    "synonyms": [
+      "无从下手",
+      "巧妇难为"
+    ],
+    "antonyms": [
+      "得天独厚",
+      "应有尽有"
+    ]
+  },
+  {
+    "id": "cha-wu-shi-ju",
+    "text": "查无实据",
+    "pinyin": "chá wú shí jù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "fairness-and-impartiality"
+    ],
+    "literal": "investigate · no · solid · evidence",
+    "natural": "no evidence found",
+    "meaning": {
+      "en": "Investigation turns up no solid evidence.",
+      "zh": "经过调查，没有确凿的证据。"
+    },
+    "equivalents": [
+      "no evidence found",
+      "unsubstantiated"
+    ],
+    "examples": [
+      {
+        "zh": "举报内容查无实据。",
+        "en": "The accusations were found to be unsubstantiated."
+      },
+      {
+        "zh": "此事虽有传闻，但查无实据。",
+        "en": "There are rumours, but no hard evidence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; official tone.",
+      "zh": "多作谓语，官方用语。"
+    },
+    "synonyms": [
+      "子虚乌有",
+      "无凭无据"
+    ],
+    "antonyms": [
+      "证据确凿",
+      "铁证如山"
+    ]
+  },
+  {
+    "id": "shang-feng-bai-su",
+    "text": "伤风败俗",
+    "pinyin": "shāng fēng bài sú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "harm · morals · ruin · custom",
+    "natural": "offend public decency",
+    "meaning": {
+      "en": "Harming public morals and decency.",
+      "zh": "败坏社会风气和道德。"
+    },
+    "equivalents": [
+      "offend public decency",
+      "corrupt public morals"
+    ],
+    "examples": [
+      {
+        "zh": "这种行为伤风败俗，必须制止。",
+        "en": "Such conduct offends public decency and must be stopped."
+      },
+      {
+        "zh": "他被指责写了伤风败俗的小说。",
+        "en": "He was accused of writing a novel that corrupts public morals."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "有伤风化",
+      "败坏风气"
+    ],
+    "antonyms": [
+      "移风易俗",
+      "良风美俗"
+    ]
+  },
+  {
+    "id": "jin-nang-miao-ji",
+    "text": "锦囊妙计",
+    "pinyin": "jǐn náng miào jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "three-kingdoms"
+    ],
+    "literal": "brocade · bag · clever · plan",
+    "natural": "a clever plan in reserve",
+    "meaning": {
+      "en": "A secret clever plan, as if sealed in a silk bag, to be opened in need.",
+      "zh": "装在锦囊里、关键时刻拆看的巧妙计策，泛指巧妙的办法。"
+    },
+    "equivalents": [
+      "a trump card",
+      "a masterstroke in reserve"
+    ],
+    "examples": [
+      {
+        "zh": "他给我出了个锦囊妙计，问题迎刃而解。",
+        "en": "He gave me a clever tip and the problem was solved."
+      },
+      {
+        "zh": "教练的锦囊妙计帮球队逆转取胜。",
+        "en": "The coach's secret plan helped the team turn the game around."
+      }
+    ],
+    "usage": {
+      "en": "Noun; often 献/出锦囊妙计.",
+      "zh": "名词，常说“出锦囊妙计”。"
+    },
+    "synonyms": [
+      "妙计安天下",
+      "奇谋妙策"
+    ],
+    "antonyms": [
+      "束手无策",
+      "一筹莫展"
+    ]
+  },
+  {
+    "id": "hu-li-wei-ba",
+    "text": "狐狸尾巴",
+    "pinyin": "hú li wěi ba",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "fox · tail",
+    "natural": "the telltale sign of guilt",
+    "meaning": {
+      "en": "The fox's tail: the evidence that gives away a hidden bad intention.",
+      "zh": "狐狸精变人，尾巴总藏不住，比喻坏人终会露出破绽。"
+    },
+    "equivalents": [
+      "the cloven hoof",
+      "show one's true colours"
+    ],
+    "examples": [
+      {
+        "zh": "骗子迟早会露出狐狸尾巴。",
+        "en": "A con man will sooner or later show his true colours."
+      },
+      {
+        "zh": "他装得很好，可最后还是露出了狐狸尾巴。",
+        "en": "He played the part well, but in the end gave himself away."
+      }
+    ],
+    "usage": {
+      "en": "Often 露出/藏不住狐狸尾巴.",
+      "zh": "常说“露出狐狸尾巴”。"
+    },
+    "synonyms": [
+      "露出马脚",
+      "原形毕露"
+    ],
+    "antonyms": [
+      "天衣无缝",
+      "滴水不漏"
+    ]
+  },
+  {
+    "id": "yi-shi-er-niao",
+    "text": "一石二鸟",
+    "pinyin": "yī shí èr niǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "success"
+    ],
+    "literal": "one · stone · two · birds",
+    "natural": "kill two birds with one stone",
+    "meaning": {
+      "en": "To achieve two goals with a single action.",
+      "zh": "做一件事，同时达到两个目的。"
+    },
+    "equivalents": [
+      "kill two birds with one stone",
+      "two for the price of one"
+    ],
+    "examples": [
+      {
+        "zh": "出差顺便看望老友，真是一石二鸟。",
+        "en": "Visiting an old friend on the business trip kills two birds with one stone."
+      },
+      {
+        "zh": "这个方案一石二鸟，既省钱又环保。",
+        "en": "This plan kills two birds with one stone: cheaper and greener."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; a modern, borrowed-sounding equivalent of 一举两得.",
+      "zh": "作谓语，近代常用，同“一举两得”。"
+    },
+    "synonyms": [
+      "一举两得",
+      "一箭双雕"
+    ],
+    "antonyms": [
+      "得不偿失",
+      "顾此失彼"
+    ]
+  },
+  {
+    "id": "zi-wo-jie-chao",
+    "text": "自我解嘲",
+    "pinyin": "zì wǒ jiě cháo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "complex-emotional-states"
+    ],
+    "literal": "self · own · dispel · ridicule",
+    "natural": "laugh at oneself",
+    "meaning": {
+      "en": "To make light of one's own awkwardness or failure with a joke.",
+      "zh": "用自己的话来为自己的窘境、缺点作解释，缓解尴尬。"
+    },
+    "equivalents": [
+      "laugh it off",
+      "poke fun at oneself"
+    ],
+    "examples": [
+      {
+        "zh": "他摸着秃头自我解嘲：“这叫聪明绝顶。”",
+        "en": "Rubbing his bald head he joked, 'It's called being clever to the top.'"
+      },
+      {
+        "zh": "输了比赛，她笑着自我解嘲。",
+        "en": "After losing the match, she laughed it off."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自嘲",
+      "一笑置之"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "恼羞成怒"
+    ]
+  },
+  {
+    "id": "he-xi-bei-feng",
+    "text": "喝西北风",
+    "pinyin": "hē xī běi fēng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-food-and-hunger"
+    ],
+    "literal": "drink · northwest · wind",
+    "natural": "go hungry",
+    "meaning": {
+      "en": "To have nothing to eat; to go hungry for lack of income.",
+      "zh": "没有东西吃，喻指失去生活来源而挨饿。"
+    },
+    "equivalents": [
+      "go hungry",
+      "live on air"
+    ],
+    "examples": [
+      {
+        "zh": "不好好工作，难道全家都去喝西北风？",
+        "en": "If you don't work properly, shall the whole family live on air?"
+      },
+      {
+        "zh": "生意不景气，伙计们都要喝西北风了。",
+        "en": "With business slack, the staff are about to go hungry."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; often 去喝西北风.",
+      "zh": "口语，常说“去喝西北风”。"
+    },
+    "synonyms": [
+      "饿肚子",
+      "啃老本"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "吃香喝辣"
+    ]
+  },
+  {
+    "id": "sao-shou-nong-zi",
+    "text": "搔首弄姿",
+    "pinyin": "sāo shǒu nòng zī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "appearance"
+    ],
+    "literal": "scratch · head · flaunt · pose",
+    "natural": "preen and pose",
+    "meaning": {
+      "en": "To pose coquettishly to show off one's looks.",
+      "zh": "故意摆出各种姿态，卖弄风情，供人欣赏。"
+    },
+    "equivalents": [
+      "preen and pose",
+      "strike coquettish poses"
+    ],
+    "examples": [
+      {
+        "zh": "她对着镜头搔首弄姿，只为吸引点击量。",
+        "en": "She posed coquettishly for the camera, just to attract clicks."
+      },
+      {
+        "zh": "这种搔首弄姿的表演让观众反感。",
+        "en": "This posturing performance put the audience off."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "矫揉造作",
+      "卖弄风情"
+    ],
+    "antonyms": [
+      "落落大方",
+      "朴素自然"
+    ]
+  },
+  {
+    "id": "yi-tian-xia-wei-ji-ren",
+    "text": "以天下为己任",
+    "pinyin": "yǐ tiān xià wéi jǐ rèn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "leadership-and-authority"
+    ],
+    "literal": "take · the world · as · own · duty",
+    "natural": "take the world's welfare as one's mission",
+    "meaning": {
+      "en": "To regard the welfare of all under heaven as one's own responsibility.",
+      "zh": "把国家、天下大事当作自己的责任。"
+    },
+    "equivalents": [
+      "make the nation's cause one's own",
+      "feel responsible for the whole world"
+    ],
+    "examples": [
+      {
+        "zh": "青年应以天下为己任，勇于担当。",
+        "en": "Young people should take the nation's cause as their own and shoulder responsibility."
+      },
+      {
+        "zh": "他以天下为己任，投身公益事业。",
+        "en": "He made the world's welfare his duty and devoted himself to public good."
+      }
+    ],
+    "usage": {
+      "en": "Formal; used in praise and exhortation.",
+      "zh": "书面语，多用于赞扬、勉励。"
+    },
+    "synonyms": [
+      "忧国忧民",
+      "天下兴亡匹夫有责"
+    ],
+    "antonyms": [
+      "独善其身",
+      "自私自利"
+    ]
+  }
+]

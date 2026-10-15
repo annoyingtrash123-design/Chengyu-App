@@ -109,6 +109,9 @@
     "id": "feng-guang-yi-ni",
     "text": "风光旖旎",
     "pinyin": "fēng guāng yǐ nǐ",
+    "variants": [
+      "旖旎风光"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",
@@ -418,11 +421,11 @@
     "id": "fan-pu-gui-zhen",
     "text": "返璞归真",
     "pinyin": "fǎn pú guī zhēn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "返朴归真"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

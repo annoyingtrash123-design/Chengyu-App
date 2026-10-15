@@ -3,11 +3,11 @@
     "id": "huo-beng-luan-tiao",
     "text": "活蹦乱跳",
     "pinyin": "huó bèng luàn tiào",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "欢蹦乱跳"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -402,12 +402,12 @@
     "id": "jin-pi-li-jin",
     "text": "筋疲力尽",
     "pinyin": "jīn pí lì jìn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "精疲力尽",
       "精疲力竭"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -499,6 +499,9 @@
     "id": "yi-hong-er-shang",
     "text": "一哄而上",
     "pinyin": "yī hòng ér shàng",
+    "variants": [
+      "一哄而起"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -549,11 +552,11 @@
     "id": "bu-you-fen-shuo",
     "text": "不由分说",
     "pinyin": "bù yóu fēn shuō",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "不容分说"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

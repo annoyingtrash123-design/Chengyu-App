@@ -479,6 +479,9 @@
     "id": "si-yi-wang-wei",
     "text": "肆意妄为",
     "pinyin": "sì yì wàng wéi",
+    "variants": [
+      "恣意妄为"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -804,11 +807,11 @@
     "id": "zheng-zhong-qi-shi",
     "text": "郑重其事",
     "pinyin": "zhèng zhòng qí shì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "慎重其事"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [

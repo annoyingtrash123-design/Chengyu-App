@@ -3,11 +3,11 @@
     "id": "guang-ming-zheng-da",
     "text": "光明正大",
     "pinyin": "guāng míng zhèng dà",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "正大光明"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -727,11 +727,12 @@
     "id": "yi-wang-wu-ji",
     "text": "一望无际",
     "pinyin": "yī wàng wú jì",
+    "variants": [
+      "一望无边",
+      "一望无垠"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "一望无边"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

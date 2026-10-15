@@ -583,7 +583,8 @@
     "register": "casual",
     "themes": [
       "contentment-and-simplicity",
-      "poverty-and-hardship"
+      "poverty-and-hardship",
+      "frugality-and-thrift"
     ],
     "literal": "save · eating · frugal · using",
     "natural": "scrimp and save",
@@ -865,6 +866,9 @@
     "id": "bu-xing-ren-shi",
     "text": "不省人事",
     "pinyin": "bù xǐng rén shì",
+    "variants": [
+      "人事不省"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",

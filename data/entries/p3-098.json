@@ -1,0 +1,948 @@
+[
+  {
+    "id": "yi-ye-zhi-qiu",
+    "text": "一叶知秋",
+    "pinyin": "yī yè zhī qiū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "seasonal-changes",
+      "daoist-classics"
+    ],
+    "literal": "one · leaf · know · autumn",
+    "natural": "a small sign reveals the big picture",
+    "meaning": {
+      "en": "From one falling leaf, know that autumn has come: spotting a trend from a small sign.",
+      "zh": "看到一片叶子落下，就知道秋天到了，比喻从细微的迹象预见事物的发展趋势。"
+    },
+    "equivalents": [
+      "a straw in the wind",
+      "read the signs",
+      "spot the trend early"
+    ],
+    "examples": [
+      {
+        "zh": "一叶知秋，从这几个订单就能看出市场的变化。",
+        "en": "A small sign tells the story: these few orders show how the market is shifting."
+      },
+      {
+        "zh": "有经验的农民能一叶知秋，预判天气。",
+        "en": "Experienced farmers read the signs and foresee the weather."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·说山训》",
+      "story": {
+        "en": "Huainanzi: 'See one leaf fall and know the year is drawing to an end' (见一叶落而知岁之将暮).",
+        "zh": "《淮南子·说山训》：“见一叶落，而知岁之将暮。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone.",
+      "zh": "可作谓语或独立使用。"
+    },
+    "synonyms": [
+      "见微知著",
+      "以小见大"
+    ],
+    "antonyms": [
+      "一叶障目",
+      "视而不见"
+    ]
+  },
+  {
+    "id": "hu-wei-biao-li",
+    "text": "互为表里",
+    "pinyin": "hù wéi biǎo lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "standards-and-benchmarks"
+    ],
+    "literal": "each other · be · outside · inside",
+    "natural": "two sides of one coin",
+    "meaning": {
+      "en": "Two things that depend on and complement each other, as outside and inside.",
+      "zh": "两者相互依存、相互联系。"
+    },
+    "equivalents": [
+      "two sides of the same coin",
+      "inseparable and mutually dependent"
+    ],
+    "examples": [
+      {
+        "zh": "理论与实践互为表里，缺一不可。",
+        "en": "Theory and practice are two sides of a coin; neither can do without the other."
+      },
+      {
+        "zh": "经济发展与环境保护互为表里。",
+        "en": "Economic development and environmental protection depend on each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal and academic.",
+      "zh": "多作谓语，书面、学术语体。"
+    },
+    "synonyms": [
+      "相辅相成",
+      "唇齿相依"
+    ],
+    "antonyms": [
+      "背道而驰",
+      "南辕北辙"
+    ]
+  },
+  {
+    "id": "zhuang-shen-nong-gui",
+    "text": "装神弄鬼",
+    "pinyin": "zhuāng shén nòng guǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "pretend · god · play with · ghost",
+    "natural": "play tricks with spooky show",
+    "meaning": {
+      "en": "To put on a mysterious act to deceive or scare people.",
+      "zh": "假扮神鬼来吓人或骗人，比喻故意玩弄花招。"
+    },
+    "equivalents": [
+      "act mysterious to deceive",
+      "play spooky tricks"
+    ],
+    "examples": [
+      {
+        "zh": "别装神弄鬼了，有话直说。",
+        "en": "Stop the cloak-and-dagger act and say what you mean."
+      },
+      {
+        "zh": "那个骗子靠装神弄鬼骗了不少钱。",
+        "en": "The con man made a lot of money by pretending to supernatural powers."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial, derogatory.",
+      "zh": "多作谓语，口语，贬义。"
+    },
+    "synonyms": [
+      "故弄玄虚",
+      "装腔作势"
+    ],
+    "antonyms": [
+      "开诚布公",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "wu-yi-lei-ju",
+    "text": "物以类聚",
+    "pinyin": "wù yǐ lèi jù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "conformity-and-imitation"
+    ],
+    "literal": "things · by · kind · gather",
+    "natural": "like attracts like",
+    "meaning": {
+      "en": "Things of a kind come together; people with similar traits stick together.",
+      "zh": "同类的东西常聚在一起，比喻志趣相同的人相聚。"
+    },
+    "equivalents": [
+      "birds of a feather flock together",
+      "like attracts like"
+    ],
+    "examples": [
+      {
+        "zh": "物以类聚，他们几个都爱打篮球。",
+        "en": "Birds of a feather: all of them love basketball."
+      },
+      {
+        "zh": "物以类聚，人以群分，你的朋友什么样，你就什么样。",
+        "en": "Like attracts like; you're known by the company you keep."
+      }
+    ],
+    "origin": {
+      "source": "《周易·系辞上》",
+      "story": {
+        "en": "The Book of Changes: 'Things are gathered by kind' (方以类聚).",
+        "zh": "《周易·系辞上》：“方以类聚，物以群分。”"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 人以群分.",
+      "zh": "常与“人以群分”连用。"
+    },
+    "synonyms": [
+      "人以群分",
+      "志同道合",
+      "臭味相投"
+    ],
+    "antonyms": [
+      "格格不入",
+      "志不同道不合"
+    ]
+  },
+  {
+    "id": "wu-wang-bu-sheng",
+    "text": "无往不胜",
+    "pinyin": "wú wǎng bù shèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "无往不利"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "no · going · not · win",
+    "natural": "win wherever one goes",
+    "meaning": {
+      "en": "Victorious everywhere; never defeated.",
+      "zh": "到哪里都能获胜，没有不胜利的。"
+    },
+    "equivalents": [
+      "invincible",
+      "unbeaten everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "这支球队在主场无往不胜。",
+        "en": "This team is unbeatable at home."
+      },
+      {
+        "zh": "团结一致，我们就无往不胜。",
+        "en": "United, we can't be beaten."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "战无不胜",
+      "所向披靡",
+      "百战百胜"
+    ],
+    "antonyms": [
+      "一败涂地",
+      "屡战屡败"
+    ]
+  },
+  {
+    "id": "yin-lou-jiu-jian",
+    "text": "因陋就简",
+    "pinyin": "yīn lòu jiù jiǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "modest-goals",
+      "contentment-and-simplicity"
+    ],
+    "literal": "follow · crude · accept · simple",
+    "natural": "make do with what's at hand",
+    "meaning": {
+      "en": "To make do with crude, simple facilities rather than ideal ones.",
+      "zh": "就着原来的简陋条件，不求完备地办事。"
+    },
+    "equivalents": [
+      "make do with what you have",
+      "improvise on a shoestring"
+    ],
+    "examples": [
+      {
+        "zh": "创业初期，他们因陋就简，在车库里办公。",
+        "en": "In the early days they made do, working out of a garage."
+      },
+      {
+        "zh": "学校条件有限，只能因陋就简。",
+        "en": "The school's resources are limited, so we have to make do."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "可作谓语、状语。"
+    },
+    "synonyms": [
+      "白手起家",
+      "勤俭节约"
+    ],
+    "antonyms": [
+      "精益求精",
+      "铺张浪费"
+    ]
+  },
+  {
+    "id": "bai-xing-er-gui",
+    "text": "败兴而归",
+    "pinyin": "bài xìng ér guī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "扫兴而归"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks",
+      "journeys-and-exploration"
+    ],
+    "literal": "ruin · mood · and · return",
+    "natural": "return disappointed",
+    "meaning": {
+      "en": "To come home disappointed, mood spoiled.",
+      "zh": "兴致被扫，失望地回来。"
+    },
+    "equivalents": [
+      "come home disappointed",
+      "return with one's enthusiasm dampened"
+    ],
+    "examples": [
+      {
+        "zh": "下雨了，大家败兴而归。",
+        "en": "It rained, and everyone went home disappointed."
+      },
+      {
+        "zh": "他们满怀期待出门，结果败兴而归。",
+        "en": "They set out full of hope but came back let down."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; contrasts with 乘兴而来.",
+      "zh": "多作谓语，常与“乘兴而来”对举。"
+    },
+    "synonyms": [
+      "空手而归",
+      "大失所望"
+    ],
+    "antonyms": [
+      "满载而归",
+      "乘兴而来"
+    ]
+  },
+  {
+    "id": "hun-bu-shou-she",
+    "text": "魂不守舍",
+    "pinyin": "hún bù shǒu shè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "psychological-pressure"
+    ],
+    "literal": "soul · not · keep · lodging",
+    "natural": "absent-minded with worry",
+    "meaning": {
+      "en": "So preoccupied or shaken that one cannot concentrate.",
+      "zh": "精神恍惚，心神不定，像灵魂离开了身体。"
+    },
+    "equivalents": [
+      "distracted",
+      "unable to concentrate",
+      "not oneself"
+    ],
+    "examples": [
+      {
+        "zh": "自从那件事之后，他一直魂不守舍。",
+        "en": "Ever since that incident he's been distracted."
+      },
+      {
+        "zh": "考试前她魂不守舍，什么也看不进去。",
+        "en": "Before the exam she was so on edge she couldn't take anything in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "心神不宁",
+      "失魂落魄",
+      "六神无主"
+    ],
+    "antonyms": [
+      "全神贯注",
+      "聚精会神"
+    ]
+  },
+  {
+    "id": "mei-shuo-zhi-yan",
+    "text": "媒妁之言",
+    "pinyin": "méi shuò zhī yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "love-and-marriage",
+      "confucian-classics"
+    ],
+    "literal": "matchmaker · matchmaker · 's · words",
+    "natural": "arranged by matchmakers",
+    "meaning": {
+      "en": "The words of the matchmaker: traditional arranged marriage.",
+      "zh": "旧时婚姻要经过媒人说合，泛指包办婚姻。"
+    },
+    "equivalents": [
+      "arranged marriage",
+      "traditional matchmaking"
+    ],
+    "examples": [
+      {
+        "zh": "旧社会的婚姻讲究父母之命，媒妁之言。",
+        "en": "In the old society marriage depended on parents' orders and the matchmaker's word."
+      },
+      {
+        "zh": "他们的婚事是媒妁之言，婚后感情却很好。",
+        "en": "Theirs was a matchmaker's arrangement, yet they grew very close."
+      }
+    ],
+    "usage": {
+      "en": "Usually paired with 父母之命.",
+      "zh": "常与“父母之命”连用。"
+    },
+    "synonyms": [
+      "父母之命"
+    ],
+    "antonyms": [
+      "自由恋爱",
+      "自主婚姻"
+    ]
+  },
+  {
+    "id": "cheng-qi-bu-bei",
+    "text": "乘其不备",
+    "pinyin": "chéng qí bù bèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "攻其不备"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "take advantage · their · not · prepared",
+    "natural": "catch them off guard",
+    "meaning": {
+      "en": "To strike while the other side is unprepared.",
+      "zh": "趁对方没有防备的时候行动。"
+    },
+    "equivalents": [
+      "catch off guard",
+      "take by surprise"
+    ],
+    "examples": [
+      {
+        "zh": "小偷乘其不备，偷走了钱包。",
+        "en": "The thief took the wallet while no one was looking."
+      },
+      {
+        "zh": "部队乘其不备，发起了突袭。",
+        "en": "The troops launched a surprise attack while the enemy was off guard."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; verb phrase.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "出其不意",
+      "乘虚而入"
+    ],
+    "antonyms": [
+      "严阵以待",
+      "有备无患"
+    ]
+  },
+  {
+    "id": "liang-chen-mei-jing",
+    "text": "良辰美景",
+    "pinyin": "liáng chén měi jǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festivals-and-celebrations",
+      "poems-prose"
+    ],
+    "literal": "good · time · beautiful · scenery",
+    "natural": "a fine day and fair scenery",
+    "meaning": {
+      "en": "A fine time and beautiful scenery.",
+      "zh": "美好的时光和景色。"
+    },
+    "equivalents": [
+      "a lovely time and scene",
+      "fine days and fair views"
+    ],
+    "examples": [
+      {
+        "zh": "良辰美景，不应辜负。",
+        "en": "Such fine days and lovely scenes should not be wasted."
+      },
+      {
+        "zh": "春日良辰美景，他们相约踏青。",
+        "en": "On a fine spring day they arranged a country outing."
+      }
+    ],
+    "origin": {
+      "source": "谢灵运《拟魏太子邺中集诗序》",
+      "story": {
+        "en": "Xie Lingyun's preface: 'Fine times, beautiful scenes, delight of the heart, pleasures of the day' (良辰、美景、赏心、乐事).",
+        "zh": "谢灵运：“天下良辰、美景、赏心、乐事，四者难并。”"
+      }
+    },
+    "usage": {
+      "en": "Often in literary writing; may continue 赏心乐事.",
+      "zh": "多用于书面，常接“赏心乐事”。"
+    },
+    "synonyms": [
+      "风和日丽",
+      "赏心乐事"
+    ],
+    "antonyms": [
+      "凄风苦雨"
+    ]
+  },
+  {
+    "id": "bu-fa-xian-li",
+    "text": "不乏先例",
+    "pinyin": "bù fá xiān lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "experience-and-old-age"
+    ],
+    "literal": "not · lack · earlier · example",
+    "natural": "there is no shortage of precedents",
+    "meaning": {
+      "en": "There are plenty of precedents.",
+      "zh": "以前有不少这样的例子。"
+    },
+    "equivalents": [
+      "there are plenty of precedents",
+      "it's far from unprecedented"
+    ],
+    "examples": [
+      {
+        "zh": "这种做法在历史上不乏先例。",
+        "en": "There is no shortage of precedents for this in history."
+      },
+      {
+        "zh": "企业转型成功的案例不乏先例。",
+        "en": "Successful corporate transformations are not unheard of."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "屡见不鲜",
+      "不乏其人"
+    ],
+    "antonyms": [
+      "史无前例",
+      "前所未有"
+    ]
+  },
+  {
+    "id": "sheng-mi-zhu-cheng-shu-fan",
+    "text": "生米煮成熟饭",
+    "pinyin": "shēng mǐ zhǔ chéng shú fàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "natural-consequences",
+      "unintended-results"
+    ],
+    "literal": "raw · rice · cooked · into · ripe · rice",
+    "natural": "what's done is done",
+    "meaning": {
+      "en": "Raw rice has been cooked: the matter is settled and cannot be reversed.",
+      "zh": "比喻事情已经做成，不能再改变。"
+    },
+    "equivalents": [
+      "what's done is done",
+      "a done deal",
+      "it's too late to undo"
+    ],
+    "examples": [
+      {
+        "zh": "现在生米煮成熟饭，反对也没用了。",
+        "en": "It's a done deal now; objecting is pointless."
+      },
+      {
+        "zh": "他们瞒着家人结了婚，生米煮成熟饭，家人只好接受。",
+        "en": "They married behind their family's back; it was a fait accompli, and the family had to accept it."
+      }
+    ],
+    "usage": {
+      "en": "Usually 已经/既然 + sentence; colloquial.",
+      "zh": "常说“已经生米煮成熟饭”，口语。"
+    },
+    "synonyms": [
+      "木已成舟",
+      "既成事实",
+      "覆水难收"
+    ],
+    "antonyms": [
+      "悬而未决",
+      "尚有转机"
+    ]
+  },
+  {
+    "id": "zi-qi-dong-lai",
+    "text": "紫气东来",
+    "pinyin": "zǐ qì dōng lái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "daoist-classics"
+    ],
+    "literal": "purple · vapour · east · come",
+    "natural": "auspicious omens from the east",
+    "meaning": {
+      "en": "Purple vapour comes from the east: a lucky omen of good fortune.",
+      "zh": "紫色的祥云从东方来，比喻吉祥的征兆。"
+    },
+    "equivalents": [
+      "good omens are on the way",
+      "auspicious signs from the east"
+    ],
+    "examples": [
+      {
+        "zh": "新年开门，愿您紫气东来，财源广进。",
+        "en": "As the new year begins, may good fortune come to you."
+      },
+      {
+        "zh": "公司选了“紫气东来”作为新楼的名字。",
+        "en": "The company named its new building 'Purple Energy from the East'."
+      }
+    ],
+    "origin": {
+      "source": "刘向《列仙传》",
+      "story": {
+        "en": "Liu Xiang's Lives of the Immortals: purple vapour appeared in the east before Laozi passed through Hangu Pass.",
+        "zh": "《列仙传》载：老子西游，关令尹喜见紫气东来，知有圣人过关。"
+      }
+    },
+    "usage": {
+      "en": "Often in greetings and names.",
+      "zh": "多用于祝福语、命名。"
+    },
+    "synonyms": [
+      "吉星高照",
+      "祥云瑞气"
+    ],
+    "antonyms": [
+      "祸从天降"
+    ]
+  },
+  {
+    "id": "feng-hua-jue-dai",
+    "text": "风华绝代",
+    "pinyin": "fēng huá jué dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "appearance"
+    ],
+    "literal": "style · splendour · surpass · generation",
+    "natural": "peerless in grace and talent",
+    "meaning": {
+      "en": "Unmatched in grace and talent in one's era.",
+      "zh": "风采才华超出当代所有人。"
+    },
+    "equivalents": [
+      "peerless beauty",
+      "unrivalled in an age"
+    ],
+    "examples": [
+      {
+        "zh": "她风华绝代，一代人为之倾倒。",
+        "en": "Peerless in grace, she captivated a whole generation."
+      },
+      {
+        "zh": "那位女演员当年风华绝代。",
+        "en": "That actress was in her day without equal."
+      }
+    ],
+    "usage": {
+      "en": "Of a person; literary.",
+      "zh": "多形容人，书面语。"
+    },
+    "synonyms": [
+      "倾国倾城",
+      "才貌双全"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "相貌平平"
+    ]
+  },
+  {
+    "id": "kou-chuan-xin-shou",
+    "text": "口传心授",
+    "pinyin": "kǒu chuán xīn shòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "mouth · pass on · heart · impart",
+    "natural": "pass on by word and example",
+    "meaning": {
+      "en": "To teach a skill by oral instruction and personal guidance.",
+      "zh": "用口头讲授和心领神会的方式传授技艺。"
+    },
+    "equivalents": [
+      "passed on by word of mouth and example",
+      "handed down by direct teaching"
+    ],
+    "examples": [
+      {
+        "zh": "这门手艺全靠师傅口传心授。",
+        "en": "This craft is passed on entirely by the master's personal teaching."
+      },
+      {
+        "zh": "传统戏曲多是口传心授。",
+        "en": "Traditional opera is mostly handed down master to pupil."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "可作谓语、状语。"
+    },
+    "synonyms": [
+      "言传身教",
+      "口耳相传"
+    ],
+    "antonyms": [
+      "自学成才",
+      "无师自通"
+    ]
+  },
+  {
+    "id": "e-yu-xiang-jia",
+    "text": "恶语相加",
+    "pinyin": "è yǔ xiāng jiā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "inappropriate-behavior"
+    ],
+    "literal": "evil · words · toward each other · add",
+    "natural": "heap abuse on",
+    "meaning": {
+      "en": "To hurl abusive words at someone.",
+      "zh": "用恶毒的话骂人、攻击人。"
+    },
+    "equivalents": [
+      "hurl abuse",
+      "say nasty things to"
+    ],
+    "examples": [
+      {
+        "zh": "两人争吵起来，恶语相加。",
+        "en": "The two quarrelled and hurled insults at each other."
+      },
+      {
+        "zh": "对待孩子不应恶语相加。",
+        "en": "One shouldn't hurl harsh words at children."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 对…恶语相加.",
+      "zh": "多作谓语，常说“对…恶语相加”。"
+    },
+    "synonyms": [
+      "恶语伤人",
+      "出言不逊",
+      "口出恶言"
+    ],
+    "antonyms": [
+      "和颜悦色",
+      "好言相劝"
+    ]
+  },
+  {
+    "id": "shi-feng-qi-shi",
+    "text": "适逢其时",
+    "pinyin": "shì féng qí shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "恰逢其时"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fleeting-time",
+      "news-and-officialese"
+    ],
+    "literal": "just · meet · that · time",
+    "natural": "at just the right moment",
+    "meaning": {
+      "en": "To arrive at exactly the right moment.",
+      "zh": "正赶上那个时候。"
+    },
+    "equivalents": [
+      "come at just the right time",
+      "perfectly timed"
+    ],
+    "examples": [
+      {
+        "zh": "这本书适逢其时，出版后广受欢迎。",
+        "en": "The book came out at the right moment and was widely welcomed."
+      },
+      {
+        "zh": "他适逢其时，赶上了互联网热潮。",
+        "en": "He arrived at just the right time to catch the internet boom."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，较正式。"
+    },
+    "synonyms": [
+      "恰到好处",
+      "正当其时"
+    ],
+    "antonyms": [
+      "生不逢时",
+      "时不我与"
+    ]
+  },
+  {
+    "id": "bu-shang-bu-xia",
+    "text": "不上不下",
+    "pinyin": "bù shàng bù xià",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "not · up · not · down",
+    "natural": "stuck in the middle",
+    "meaning": {
+      "en": "Neither up nor down; in an awkward in-between position.",
+      "zh": "上不去也下不来，处境尴尬。"
+    },
+    "equivalents": [
+      "stuck in the middle",
+      "in limbo"
+    ],
+    "examples": [
+      {
+        "zh": "他在公司不上不下，升职没希望。",
+        "en": "He's stuck in the middle at the company with no hope of promotion."
+      },
+      {
+        "zh": "这个价位不上不下，不好卖。",
+        "en": "The price is neither high nor low, so it's hard to sell."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; colloquial.",
+      "zh": "可作谓语、定语，口语。"
+    },
+    "synonyms": [
+      "进退两难",
+      "尴尬"
+    ],
+    "antonyms": [
+      "游刃有余",
+      "上下自如"
+    ]
+  },
+  {
+    "id": "di-sheng-xia-qi",
+    "text": "低声下气",
+    "pinyin": "dī shēng xià qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "fear-and-cowardice"
+    ],
+    "literal": "low · voice · down · breath",
+    "natural": "speak meekly and submissively",
+    "meaning": {
+      "en": "To speak and behave in a humble, grovelling way.",
+      "zh": "形容说话小心恭顺，态度卑屈。"
+    },
+    "equivalents": [
+      "be servile",
+      "grovel",
+      "speak meekly"
+    ],
+    "examples": [
+      {
+        "zh": "为了拿到订单，他对客户低声下气。",
+        "en": "To win the order he grovelled to the client."
+      },
+      {
+        "zh": "不用对他低声下气，我们没做错。",
+        "en": "No need to be meek with him; we've done nothing wrong."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "可作谓语、状语。"
+    },
+    "synonyms": [
+      "卑躬屈膝",
+      "忍气吞声",
+      "低三下四"
+    ],
+    "antonyms": [
+      "趾高气扬",
+      "盛气凌人"
+    ]
+  }
+]

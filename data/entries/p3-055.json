@@ -3,6 +3,9 @@
     "id": "xin-ru-dao-jiao",
     "text": "心如刀绞",
     "pinyin": "xīn rú dāo jiǎo",
+    "variants": [
+      "心如刀割"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -360,11 +363,11 @@
     "id": "wu-ke-zhi-yi",
     "text": "无可置疑",
     "pinyin": "wú kě zhì yí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "毋庸置疑"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [

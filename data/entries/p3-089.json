@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "bai-mi-yi-shu",
+    "text": "百密一疏",
+    "pinyin": "bǎi mì yī shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "hundred · tight · one · lapse",
+    "natural": "one slip in a hundred",
+    "meaning": {
+      "en": "A single oversight in an otherwise careful plan.",
+      "zh": "考虑再周密，也难免有一处疏漏。"
+    },
+    "equivalents": [
+      "a slip despite great care",
+      "the one flaw in a careful plan"
+    ],
+    "examples": [
+      {
+        "zh": "检查了三遍，还是百密一疏，漏掉了一个数据。",
+        "en": "I checked three times, yet one slip remained: a figure was left out."
+      },
+      {
+        "zh": "安保措施很严，可惜百密一疏。",
+        "en": "Security was tight, but there was one oversight."
+      },
+      {
+        "zh": "考试时百密一疏，忘了写名字。",
+        "en": "Despite my care in the exam, I forgot to write my name."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 百密一疏 after a description of careful preparation.",
+      "zh": "多作谓语，常用于说明准备周全却仍有疏漏。"
+    },
+    "synonyms": [
+      "千虑一失",
+      "智者千虑"
+    ],
+    "antonyms": [
+      "万无一失",
+      "滴水不漏"
+    ]
+  },
+  {
+    "id": "da-dong-gan-huo",
+    "text": "大动肝火",
+    "pinyin": "dà dòng gān huǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "anger"
+    ],
+    "literal": "greatly · stir · liver · fire",
+    "natural": "fly into a rage",
+    "meaning": {
+      "en": "To lose one's temper and become very angry.",
+      "zh": "形容大发脾气，非常生气。"
+    },
+    "equivalents": [
+      "fly off the handle",
+      "hit the roof",
+      "lose one's temper"
+    ],
+    "examples": [
+      {
+        "zh": "为这点小事，何必大动肝火？",
+        "en": "Why lose your temper over such a small matter?"
+      },
+      {
+        "zh": "老板看到报表后大动肝火。",
+        "en": "The boss flew into a rage on seeing the report."
+      },
+      {
+        "zh": "医生劝他别大动肝火，对身体不好。",
+        "en": "The doctor told him not to get so worked up, for his health's sake."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; in Chinese medicine the liver is linked to anger.",
+      "zh": "多作谓语。中医认为肝与怒相关。"
+    },
+    "synonyms": [
+      "怒不可遏",
+      "火冒三丈",
+      "勃然大怒"
+    ],
+    "antonyms": [
+      "心平气和",
+      "息怒"
+    ]
+  },
+  {
+    "id": "hao-ran-zhi-qi",
+    "text": "浩然之气",
+    "pinyin": "hào rán zhī qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "vast · so · 's · spirit",
+    "natural": "noble moral spirit",
+    "meaning": {
+      "en": "A great upright spirit, born of moral courage.",
+      "zh": "指正大刚直的精神、气概。"
+    },
+    "equivalents": [
+      "lofty righteous spirit",
+      "moral fortitude"
+    ],
+    "examples": [
+      {
+        "zh": "他身上有一股浩然之气，让人肃然起敬。",
+        "en": "He had a noble moral spirit that commanded respect."
+      },
+      {
+        "zh": "文天祥的诗篇充满浩然之气。",
+        "en": "Wen Tianxiang's poems are full of righteous spirit."
+      },
+      {
+        "zh": "读书养浩然之气。",
+        "en": "Reading nurtures a noble spirit."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "Mencius says: 'I am good at nurturing my vast, flowing qi' (我善养吾浩然之气).",
+        "zh": "《孟子》：“我知言，我善养吾浩然之气。”"
+      }
+    },
+    "usage": {
+      "en": "Object or subject; formal, often 正气 context.",
+      "zh": "多作宾语、主语，较为庄重。"
+    },
+    "synonyms": [
+      "正气凛然",
+      "刚正不阿"
+    ],
+    "antonyms": [
+      "萎靡不振",
+      "奴颜婢膝"
+    ]
+  },
+  {
+    "id": "si-wu-dui-zheng",
+    "text": "死无对证",
+    "pinyin": "sǐ wú duì zhèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "dead · no · to cross-check · evidence",
+    "natural": "no witness left to confirm",
+    "meaning": {
+      "en": "With the key person dead, there is nobody left to verify a claim.",
+      "zh": "当事人或证人已死，无从核对证实。"
+    },
+    "equivalents": [
+      "dead men tell no tales",
+      "no one left to corroborate"
+    ],
+    "examples": [
+      {
+        "zh": "人都不在了，这事就死无对证。",
+        "en": "With the person gone, nobody can confirm it."
+      },
+      {
+        "zh": "他把责任推给死去的同事，想让这件事死无对证。",
+        "en": "He blamed a dead colleague, so that no one could check the story."
+      },
+      {
+        "zh": "案子成了死无对证的悬案。",
+        "en": "The case became an unsolved one with no witness to verify it."
+      }
+    ],
+    "usage": {
+      "en": "Usually predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "无从查证",
+      "查无实据"
+    ],
+    "antonyms": [
+      "铁证如山",
+      "人证物证俱在"
+    ]
+  },
+  {
+    "id": "jing-cheng-suo-zhi",
+    "text": "精诚所至",
+    "pinyin": "jīng chéng suǒ zhì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "daoist-classics",
+      "historical-records"
+    ],
+    "literal": "utmost · sincerity · where · reaches",
+    "natural": "sincerity moves even stone",
+    "meaning": {
+      "en": "Where there is utmost sincerity, even the hardest hearts are moved.",
+      "zh": "真心诚意所到之处，能感动一切。"
+    },
+    "equivalents": [
+      "sincerity can move mountains",
+      "where there's a will there's a way"
+    ],
+    "examples": [
+      {
+        "zh": "精诚所至，金石为开，他终于打动了对方。",
+        "en": "Utmost sincerity moves even stone, and he finally won the other side over."
+      },
+      {
+        "zh": "她每天坚持探望，精诚所至，老人终于开口说话了。",
+        "en": "She visited every day, and in the end the old man spoke."
+      },
+      {
+        "zh": "相信精诚所至，一定会有回报。",
+        "en": "Believe that sincerity will be rewarded."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·渔父》；《后汉书·广陵思王荆传》",
+      "story": {
+        "en": "Zhuangzi: 'Without utmost sincerity one cannot move others' (不精不诚，不能动人); the Hou Han Shu has 精诚所加，金石为开.",
+        "zh": "《庄子·渔父》：“不精不诚，不能动人。”《后汉书》：“精诚所加，金石为开。”"
+      }
+    },
+    "usage": {
+      "en": "Usually followed by 金石为开.",
+      "zh": "常与“金石为开”连用。"
+    },
+    "synonyms": [
+      "诚心诚意",
+      "金石为开"
+    ],
+    "antonyms": [
+      "虚情假意",
+      "敷衍了事"
+    ]
+  },
+  {
+    "id": "chu-lu-feng-mang",
+    "text": "初露锋芒",
+    "pinyin": "chū lù fēng máng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "first · show · blade · point",
+    "natural": "first show one's talent",
+    "meaning": {
+      "en": "To begin to show one's talent or ability.",
+      "zh": "刚开始显露出才能。"
+    },
+    "equivalents": [
+      "show one's mettle for the first time",
+      "make one's first mark"
+    ],
+    "examples": [
+      {
+        "zh": "这位新人在比赛中初露锋芒。",
+        "en": "The newcomer first showed his mettle in the contest."
+      },
+      {
+        "zh": "她在大学时就已初露锋芒。",
+        "en": "She was already showing promise at university."
+      },
+      {
+        "zh": "小说家早年初露锋芒，赢得了好评。",
+        "en": "The novelist made his first mark early on and won praise."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "崭露头角",
+      "小试牛刀"
+    ],
+    "antonyms": [
+      "锋芒毕露",
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "xue-ji-ban-ban",
+    "text": "血迹斑斑",
+    "pinyin": "xuè jì bān bān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger"
+    ],
+    "literal": "blood · traces · mottled · mottled",
+    "natural": "blood-stained",
+    "meaning": {
+      "en": "Covered with bloodstains.",
+      "zh": "到处是血的痕迹，形容情景惨烈。"
+    },
+    "equivalents": [
+      "blood-spattered",
+      "stained with blood"
+    ],
+    "examples": [
+      {
+        "zh": "衣服上血迹斑斑，让人触目惊心。",
+        "en": "The clothes were blood-stained, a shocking sight."
+      },
+      {
+        "zh": "现场血迹斑斑。",
+        "en": "The scene was spattered with blood."
+      },
+      {
+        "zh": "他血迹斑斑的手还在微微发抖。",
+        "en": "His blood-stained hands were still trembling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "鲜血淋漓",
+      "血肉模糊"
+    ],
+    "antonyms": [
+      "一尘不染",
+      "干干净净"
+    ]
+  },
+  {
+    "id": "min-zhi-min-gao",
+    "text": "民脂民膏",
+    "pinyin": "mín zhī mín gāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "society"
+    ],
+    "literal": "people's · fat · people's · grease",
+    "natural": "the people's hard-earned wealth",
+    "meaning": {
+      "en": "The wealth squeezed from the people, usually taken by corrupt officials.",
+      "zh": "指人民用血汗创造的财富，多指被剥削、搜刮之物。"
+    },
+    "equivalents": [
+      "the people's hard-earned wealth",
+      "the public purse"
+    ],
+    "examples": [
+      {
+        "zh": "贪官搜刮民脂民膏，中饱私囊。",
+        "en": "The corrupt official fleeced the people and lined his pockets."
+      },
+      {
+        "zh": "每一分钱都是民脂民膏，不能乱花。",
+        "en": "Every penny is the people's hard-earned money and mustn't be wasted."
+      },
+      {
+        "zh": "这座宫殿耗尽了民脂民膏。",
+        "en": "The palace drained the people's wealth."
+      }
+    ],
+    "usage": {
+      "en": "Object, often of 搜刮, 榨取, 挥霍.",
+      "zh": "多作宾语，常搭配“搜刮”“榨取”。"
+    },
+    "synonyms": [
+      "血汗钱",
+      "民财"
+    ],
+    "antonyms": [
+      "为民造福"
+    ]
+  },
+  {
+    "id": "dai-zi-gui-zhong",
+    "text": "待字闺中",
+    "pinyin": "dài zì guī zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "confucian-classics"
+    ],
+    "literal": "await · name-bestowing · boudoir · in",
+    "natural": "still unmarried",
+    "meaning": {
+      "en": "Of a young woman: not yet engaged or married.",
+      "zh": "指女子已成年但尚未订婚、出嫁。"
+    },
+    "equivalents": [
+      "still single",
+      "of marriageable age but unwed"
+    ],
+    "examples": [
+      {
+        "zh": "她二十五岁了，仍待字闺中。",
+        "en": "At twenty-five she is still unmarried."
+      },
+      {
+        "zh": "这位待字闺中的才女，求亲者络绎不绝。",
+        "en": "Suitors kept calling on this unmarried, talented young woman."
+      },
+      {
+        "zh": "姑娘待字闺中，父母着急。",
+        "en": "The girl is unwed, and her parents are anxious."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·曲礼上》",
+      "story": {
+        "en": "Liji: 'A girl at betrothal is given a courtesy name' (女子许嫁，笄而字). A girl not yet betrothed was thus 'not yet named'.",
+        "zh": "《礼记》：“女子许嫁，笄而字。”后以“待字”指尚未许配。"
+      }
+    },
+    "usage": {
+      "en": "Predicate; old-fashioned or jocular, used of women only.",
+      "zh": "多作谓语，带书面、戏谑色彩，只用于女子。"
+    },
+    "synonyms": [
+      "尚未出嫁",
+      "未嫁"
+    ],
+    "antonyms": [
+      "名花有主",
+      "成家立业"
+    ]
+  },
+  {
+    "id": "fan-ge-yi-ji",
+    "text": "反戈一击",
+    "pinyin": "fǎn gē yī jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "bad-company-and-betrayal",
+      "conflict-and-strife"
+    ],
+    "literal": "turn · halberd · one · strike",
+    "natural": "turn on one's own side",
+    "meaning": {
+      "en": "To turn one's weapon against one's former side and strike it.",
+      "zh": "掉转武器向原来所属的一方攻击。"
+    },
+    "equivalents": [
+      "turn the tables on one's own side",
+      "strike back from within"
+    ],
+    "examples": [
+      {
+        "zh": "他突然反戈一击，揭发了团伙的内幕。",
+        "en": "He suddenly turned on his gang and exposed its secrets."
+      },
+      {
+        "zh": "对手阵营里有人反戈一击，局面逆转。",
+        "en": "Someone in the rival camp turned coat and the situation reversed."
+      },
+      {
+        "zh": "球员反戈一击，攻入旧主球门。",
+        "en": "The player struck against his old club and scored in their goal."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; can be positive when exposing wrongdoing.",
+      "zh": "多作谓语，揭露错误时也可含褒义。"
+    },
+    "synonyms": [
+      "倒戈相向",
+      "临阵倒戈"
+    ],
+    "antonyms": [
+      "忠心耿耿",
+      "同仇敌忾"
+    ]
+  },
+  {
+    "id": "ke-ran-chang-shi",
+    "text": "溘然长逝",
+    "pinyin": "kè rán cháng shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "suddenly · so · for ever · depart",
+    "natural": "pass away suddenly",
+    "meaning": {
+      "en": "To die suddenly (a formal, solemn phrase).",
+      "zh": "忽然去世，多用于书面悼念。"
+    },
+    "equivalents": [
+      "pass away suddenly",
+      "depart this life"
+    ],
+    "examples": [
+      {
+        "zh": "老先生溘然长逝，享年九十岁。",
+        "en": "The old gentleman passed away suddenly at ninety."
+      },
+      {
+        "zh": "噩耗传来，恩师溘然长逝。",
+        "en": "The sad news came that my teacher had died suddenly."
+      },
+      {
+        "zh": "这位作家在睡梦中溘然长逝。",
+        "en": "The writer passed away in his sleep."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; obituaries and tributes.",
+      "zh": "多作谓语，用于讣告、悼词。"
+    },
+    "synonyms": [
+      "与世长辞",
+      "驾鹤西去"
+    ],
+    "antonyms": [
+      "健在",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "xie-bu-ya-zheng",
+    "text": "邪不压正",
+    "pinyin": "xié bù yā zhèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "邪不胜正"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality"
+    ],
+    "literal": "evil · not · overpower · right",
+    "natural": "good prevails over evil",
+    "meaning": {
+      "en": "Evil can never overcome what is right.",
+      "zh": "邪恶压不倒正义。"
+    },
+    "equivalents": [
+      "good will triumph over evil",
+      "right will prevail"
+    ],
+    "examples": [
+      {
+        "zh": "相信邪不压正，坏人总会受到惩罚。",
+        "en": "I believe good prevails over evil, and wrongdoers will be punished."
+      },
+      {
+        "zh": "这个案子证明了邪不压正。",
+        "en": "This case proved that right overcomes wrong."
+      },
+      {
+        "zh": "邪不压正，真相终会大白。",
+        "en": "Evil cannot overpower right, and the truth will come out."
+      }
+    ],
+    "usage": {
+      "en": "Usually a statement.",
+      "zh": "多独立成句。"
+    },
+    "synonyms": [
+      "正义必胜",
+      "天网恢恢"
+    ],
+    "antonyms": [
+      "邪恶当道",
+      "为非作歹"
+    ]
+  },
+  {
+    "id": "chang-dui-tai-xi",
+    "text": "唱对台戏",
+    "pinyin": "chàng duì tái xì",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "competition-and-rivalry"
+    ],
+    "literal": "sing · opposite · stage · opera",
+    "natural": "stage a rival show",
+    "meaning": {
+      "en": "To deliberately oppose someone by running a rival show or acting against them.",
+      "zh": "指与人针对着干，公开作对。"
+    },
+    "equivalents": [
+      "set up a rival show",
+      "deliberately oppose",
+      "go head to head"
+    ],
+    "examples": [
+      {
+        "zh": "两个部门总是唱对台戏，工作没法开展。",
+        "en": "The two departments always work against each other, so nothing gets done."
+      },
+      {
+        "zh": "他故意跟领导唱对台戏。",
+        "en": "He deliberately opposes the manager."
+      },
+      {
+        "zh": "隔壁商场也推出打折活动，跟我们唱对台戏。",
+        "en": "The mall next door launched a sale to rival ours."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; often 跟/与……唱对台戏.",
+      "zh": "常作谓语，多说“跟……唱对台戏”。"
+    },
+    "synonyms": [
+      "唱反调",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "同心协力",
+      "配合默契"
+    ]
+  },
+  {
+    "id": "xun-huan-zuo-le",
+    "text": "寻欢作乐",
+    "pinyin": "xún huān zuò lè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance",
+      "inappropriate-behavior"
+    ],
+    "literal": "seek · merriment · make · pleasure",
+    "natural": "seek pleasure",
+    "meaning": {
+      "en": "To pursue pleasure and indulgence.",
+      "zh": "寻求欢乐，纵情享乐。"
+    },
+    "equivalents": [
+      "indulge in pleasures",
+      "eat, drink and be merry",
+      "paint the town red"
+    ],
+    "examples": [
+      {
+        "zh": "他整天寻欢作乐，不务正业。",
+        "en": "He seeks pleasure all day and neglects his work."
+      },
+      {
+        "zh": "有钱的公子哥常常寻欢作乐。",
+        "en": "Rich young men often revel in pleasure."
+      },
+      {
+        "zh": "不要只想着寻欢作乐，该努力了。",
+        "en": "Stop thinking only of fun; it's time to work hard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually critical.",
+      "zh": "多作谓语，多含贬义。"
+    },
+    "synonyms": [
+      "吃喝玩乐",
+      "纸醉金迷"
+    ],
+    "antonyms": [
+      "勤勤恳恳",
+      "埋头苦干"
+    ]
+  },
+  {
+    "id": "zhi-yu-zhi-shan",
+    "text": "止于至善",
+    "pinyin": "zhǐ yú zhì shàn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "high-aspirations",
+      "confucian-classics"
+    ],
+    "literal": "rest · at · utmost · goodness",
+    "natural": "strive for perfection",
+    "meaning": {
+      "en": "To aim for the highest ideal of goodness and perfection.",
+      "zh": "达到最完美的境界并保持不变。"
+    },
+    "equivalents": [
+      "strive for perfection",
+      "aim at the highest good"
+    ],
+    "examples": [
+      {
+        "zh": "学校的校训是“止于至善”。",
+        "en": "The school motto is 'Rest in the highest good'."
+      },
+      {
+        "zh": "做学问要追求止于至善的境界。",
+        "en": "In scholarship one should aim at the highest perfection."
+      },
+      {
+        "zh": "工匠们对产品精益求精，止于至善。",
+        "en": "The craftsmen refine the products and aim for perfection."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·大学》",
+      "story": {
+        "en": "Daxue: 'The way of great learning lies in illuminating virtue, loving the people, and resting in the highest good' (在止于至善).",
+        "zh": "《大学》：“大学之道，在明明德，在亲民，在止于至善。”"
+      }
+    },
+    "usage": {
+      "en": "Motto-like; formal.",
+      "zh": "常用作格言、校训，较庄重。"
+    },
+    "synonyms": [
+      "精益求精",
+      "尽善尽美"
+    ],
+    "antonyms": [
+      "得过且过",
+      "粗制滥造"
+    ]
+  },
+  {
+    "id": "you-yi-da-mei-yi-da",
+    "text": "有一搭没一搭",
+    "pinyin": "yǒu yī dā méi yī dā",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relaxation-and-rest"
+    ],
+    "literal": "have · one · bit · not · one · bit",
+    "natural": "in a desultory way",
+    "meaning": {
+      "en": "Of talk or action: in a casual, desultory way, with no real focus.",
+      "zh": "漫不经心地；随便说说、做做，没有明确目的。"
+    },
+    "equivalents": [
+      "desultorily",
+      "in a half-hearted way",
+      "idly"
+    ],
+    "examples": [
+      {
+        "zh": "他们坐在门口，有一搭没一搭地聊着。",
+        "en": "They sat at the door chatting idly."
+      },
+      {
+        "zh": "她有一搭没一搭地翻着杂志。",
+        "en": "She flipped through the magazine in a desultory way."
+      },
+      {
+        "zh": "两人有一搭没一搭地说话，谁也没提正事。",
+        "en": "They talked without purpose, and neither mentioned the real matter."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial: 有一搭没一搭地 + verb.",
+      "zh": "多作状语：“有一搭没一搭地……”。"
+    },
+    "synonyms": [
+      "漫不经心",
+      "心不在焉"
+    ],
+    "antonyms": [
+      "滔滔不绝",
+      "全神贯注"
+    ]
+  },
+  {
+    "id": "yong-wu-ning-ri",
+    "text": "永无宁日",
+    "pinyin": "yǒng wú níng rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "bad-fortune"
+    ],
+    "literal": "forever · no · peaceful · day",
+    "natural": "never a peaceful day",
+    "meaning": {
+      "en": "Never to enjoy a day of peace.",
+      "zh": "永远没有安宁的日子。"
+    },
+    "equivalents": [
+      "no peace ever",
+      "never a moment's peace"
+    ],
+    "examples": [
+      {
+        "zh": "邻居天天吵架，让我家永无宁日。",
+        "en": "The neighbours quarrel every day, so we never have a peaceful day."
+      },
+      {
+        "zh": "战乱使这片土地永无宁日。",
+        "en": "War left this land never at peace."
+      },
+      {
+        "zh": "再这样下去，公司将永无宁日。",
+        "en": "If this goes on, the company will never know peace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "鸡犬不宁",
+      "不得安宁"
+    ],
+    "antonyms": [
+      "太平无事",
+      "安居乐业"
+    ]
+  },
+  {
+    "id": "shu-bei-li-zhuan",
+    "text": "树碑立传",
+    "pinyin": "shù bēi lì zhuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "erect · stele · compose · biography",
+    "natural": "build a monument to oneself",
+    "meaning": {
+      "en": "To glorify someone (often oneself) with monuments and biographies; to praise oneself or one's clique.",
+      "zh": "为人（多指自己或某人）歌功颂德，树立声誉。"
+    },
+    "equivalents": [
+      "build a monument to oneself",
+      "sing one's own praises",
+      "glorify"
+    ],
+    "examples": [
+      {
+        "zh": "他热衷于给自己树碑立传。",
+        "en": "He's keen to glorify himself."
+      },
+      {
+        "zh": "这本书不是为谁树碑立传，而是还原历史。",
+        "en": "This book glorifies no one but restores history."
+      },
+      {
+        "zh": "不要为个人树碑立传。",
+        "en": "Do not build personality cults."
+      }
+    ],
+    "usage": {
+      "en": "Usually 为/给……树碑立传; derogatory.",
+      "zh": "多说“为/给……树碑立传”，含贬义。"
+    },
+    "synonyms": [
+      "歌功颂德",
+      "自吹自擂"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "qi-you-ci-li",
+    "text": "岂有此理",
+    "pinyin": "qǐ yǒu cǐ lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "anger"
+    ],
+    "literal": "how · have · such · reason",
+    "natural": "outrageous",
+    "meaning": {
+      "en": "An exclamation of indignation: that is absurd and unjust.",
+      "zh": "哪有这样的道理，表示强烈不满。"
+    },
+    "equivalents": [
+      "how outrageous",
+      "this is absurd",
+      "preposterous"
+    ],
+    "examples": [
+      {
+        "zh": "迟到的明明是他，还怪我？岂有此理！",
+        "en": "He's the one who was late, and he blames me? Outrageous!"
+      },
+      {
+        "zh": "这么贵还不能退货，岂有此理！",
+        "en": "So expensive and no returns? That's ridiculous!"
+      },
+      {
+        "zh": "岂有此理，居然有人敢这样做。",
+        "en": "How outrageous that anyone dares do this."
+      }
+    ],
+    "usage": {
+      "en": "Exclamation; also predicate.",
+      "zh": "多作感叹语。"
+    },
+    "synonyms": [
+      "荒唐透顶",
+      "无理取闹"
+    ],
+    "antonyms": [
+      "天经地义",
+      "理所当然"
+    ]
+  },
+  {
+    "id": "chu-bao-an-liang",
+    "text": "除暴安良",
+    "pinyin": "chú bào ān liáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance"
+    ],
+    "literal": "remove · tyrants · pacify · the good",
+    "natural": "root out thugs and protect the innocent",
+    "meaning": {
+      "en": "To eliminate the violent and protect honest people.",
+      "zh": "铲除强暴凶恶的人，安抚善良的百姓。"
+    },
+    "equivalents": [
+      "root out evil and protect the innocent",
+      "crack down on thugs"
+    ],
+    "examples": [
+      {
+        "zh": "警方开展专项行动，除暴安良。",
+        "en": "The police launched a campaign to crack down on thugs and protect citizens."
+      },
+      {
+        "zh": "侠客们行走江湖，除暴安良。",
+        "en": "The knights-errant roamed the land, defeating bullies and helping the good."
+      },
+      {
+        "zh": "他从小立志除暴安良。",
+        "en": "From a young age he vowed to fight evil and protect the weak."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "惩恶扬善",
+      "替天行道"
+    ],
+    "antonyms": [
+      "为非作歹",
+      "助纣为虐"
+    ]
+  },
+  {
+    "id": "zi-ming-de-yi",
+    "text": "自鸣得意",
+    "pinyin": "zì míng dé yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "oneself · proclaim · satisfied · pleased",
+    "natural": "be smugly pleased with oneself",
+    "meaning": {
+      "en": "To be smugly pleased with oneself.",
+      "zh": "自己夸耀自己，非常得意。"
+    },
+    "equivalents": [
+      "be smug",
+      "pat oneself on the back",
+      "preen"
+    ],
+    "examples": [
+      {
+        "zh": "他拿了一次奖就自鸣得意。",
+        "en": "He became smug after winning a single prize."
+      },
+      {
+        "zh": "别自鸣得意，后面还有更难的任务。",
+        "en": "Don't be so pleased with yourself; harder tasks are coming."
+      },
+      {
+        "zh": "她自鸣得意地向大家展示新手机。",
+        "en": "She smugly showed everyone her new phone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial 自鸣得意地.",
+      "zh": "作谓语或状语。"
+    },
+    "synonyms": [
+      "沾沾自喜",
+      "扬扬得意",
+      "洋洋自得"
+    ],
+    "antonyms": [
+      "自惭形秽",
+      "虚怀若谷"
+    ]
+  },
+  {
+    "id": "luo-ying-bin-fen",
+    "text": "落英缤纷",
+    "pinyin": "luò yīng bīn fēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "falling · petals · profuse · many",
+    "natural": "petals falling in profusion",
+    "meaning": {
+      "en": "Fallen petals scattering in great numbers.",
+      "zh": "落下的花瓣纷纷飘散，景色美丽。"
+    },
+    "equivalents": [
+      "a shower of fallen petals",
+      "petals falling in a riot of colour"
+    ],
+    "examples": [
+      {
+        "zh": "春风一吹，园中落英缤纷。",
+        "en": "When the spring wind blows, petals scatter across the garden."
+      },
+      {
+        "zh": "小径上落英缤纷，美不胜收。",
+        "en": "Fallen petals cover the path, a breathtaking sight."
+      },
+      {
+        "zh": "树下落英缤纷，像铺了一层花毯。",
+        "en": "Beneath the tree the petals lie like a carpet of flowers."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《桃花源记》",
+      "story": {
+        "en": "Tao Yuanming's Peach Blossom Spring: 'The fragrant grass was fresh and lovely, fallen petals in profusion' (芳草鲜美，落英缤纷).",
+        "zh": "陶渊明《桃花源记》：“芳草鲜美，落英缤纷。”"
+      }
+    },
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "多用于描写，带书面色彩。"
+    },
+    "synonyms": [
+      "花团锦簇",
+      "落红满地"
+    ],
+    "antonyms": [
+      "满目萧然",
+      "万木凋零"
+    ]
+  },
+  {
+    "id": "bai-wu-jin-ji",
+    "text": "百无禁忌",
+    "pinyin": "bǎi wú jìn jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "freedom",
+      "festive-greetings"
+    ],
+    "literal": "hundred · no · taboo · avoid",
+    "natural": "anything goes",
+    "meaning": {
+      "en": "Nothing is taboo; one need not avoid anything.",
+      "zh": "什么都不用忌讳。"
+    },
+    "equivalents": [
+      "anything goes",
+      "no taboos",
+      "nothing off-limits"
+    ],
+    "examples": [
+      {
+        "zh": "小孩子说话百无禁忌，大人不必介意。",
+        "en": "Children speak without taboos; adults needn't mind."
+      },
+      {
+        "zh": "搬家那天老人说：今天百无禁忌，放心搬。",
+        "en": "On moving day the old man said: nothing is taboo today, so go ahead."
+      },
+      {
+        "zh": "朋友间聊天百无禁忌。",
+        "en": "Among friends, no topic is off-limits."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in the saying 童言无忌，百无禁忌.",
+      "zh": "多作谓语，常与“童言无忌”连用。"
+    },
+    "synonyms": [
+      "无所顾忌",
+      "百无忌讳"
+    ],
+    "antonyms": [
+      "忌讳颇多",
+      "谨小慎微"
+    ]
+  }
+]

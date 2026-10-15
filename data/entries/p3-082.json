@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "lei-ru-quan-yong",
+    "text": "泪如泉涌",
+    "pinyin": "lèi rú quán yǒng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "tears · like · spring · gushing",
+    "natural": "tears welling up",
+    "meaning": {
+      "en": "Tears flowing copiously, like a spring.",
+      "zh": "眼泪像泉水一样涌出来，形容极度悲伤或激动。"
+    },
+    "equivalents": [
+      "tears streaming down",
+      "weep floods of tears"
+    ],
+    "examples": [
+      {
+        "zh": "听到噩耗，她泪如泉涌。",
+        "en": "On hearing the terrible news she wept uncontrollably."
+      },
+      {
+        "zh": "他读着母亲的信，泪如泉涌。",
+        "en": "Reading his mother's letter, he was in floods of tears."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "泪如雨下",
+      "热泪盈眶"
+    ],
+    "antonyms": [
+      "破涕为笑",
+      "笑逐颜开"
+    ]
+  },
+  {
+    "id": "yu-yi-shen-yuan",
+    "text": "寓意深远",
+    "pinyin": "yù yì shēn yuǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "implied · meaning · deep · far-reaching",
+    "natural": "profound in implication",
+    "meaning": {
+      "en": "Carrying a deep, far-reaching hidden meaning.",
+      "zh": "蕴含的意思深刻而长远。"
+    },
+    "equivalents": [
+      "rich in meaning",
+      "profoundly meaningful"
+    ],
+    "examples": [
+      {
+        "zh": "这则寓言寓意深远，值得反复回味。",
+        "en": "This fable is rich in meaning and worth reflecting on again and again."
+      },
+      {
+        "zh": "名字虽短，却寓意深远。",
+        "en": "The name is short but deeply meaningful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for stories, names, gifts.",
+      "zh": "作谓语、定语，多评价故事、名字等。"
+    },
+    "synonyms": [
+      "意味深长",
+      "发人深省"
+    ],
+    "antonyms": [
+      "浅显易懂",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "xian-qing-yi-zhi",
+    "text": "闲情逸致",
+    "pinyin": "xián qíng yì zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "contentment-and-simplicity"
+    ],
+    "literal": "leisurely · mood · carefree · interest",
+    "natural": "leisurely mood",
+    "meaning": {
+      "en": "A relaxed, carefree frame of mind, or the leisure to enjoy oneself.",
+      "zh": "悠闲安适的心情和兴致。"
+    },
+    "equivalents": [
+      "leisurely mood",
+      "the leisure and inclination to relax"
+    ],
+    "examples": [
+      {
+        "zh": "忙得团团转，哪有闲情逸致去赏花？",
+        "en": "Run off my feet, how could I have the leisure to look at flowers?"
+      },
+      {
+        "zh": "退休后，他有了养花品茶的闲情逸致。",
+        "en": "In retirement he has the leisure to grow flowers and sip tea."
+      }
+    ],
+    "usage": {
+      "en": "Object; often with 有/没有.",
+      "zh": "多作宾语，常与“有”“没有”搭配。"
+    },
+    "synonyms": [
+      "悠闲自得",
+      "雅兴"
+    ],
+    "antonyms": [
+      "焦头烂额",
+      "忙忙碌碌"
+    ]
+  },
+  {
+    "id": "qi-zhi-ke-xi",
+    "text": "弃之可惜",
+    "pinyin": "qì zhī kě xī",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "useful-tools-and-skill",
+      "complex-emotional-states"
+    ],
+    "literal": "discard · it · can · pity",
+    "natural": "a pity to throw away",
+    "meaning": {
+      "en": "Not worth much, yet a pity to throw away; usually paired with 食之无味.",
+      "zh": "留着没多大用处，扔掉又觉得可惜。"
+    },
+    "equivalents": [
+      "too good to throw away",
+      "hard to part with"
+    ],
+    "examples": [
+      {
+        "zh": "这些旧书占地方，但弃之可惜。",
+        "en": "These old books take up space, but it would be a pity to throw them away."
+      },
+      {
+        "zh": "这份工作食之无味，弃之可惜。",
+        "en": "This job is bland, yet too good to give up."
+      }
+    ],
+    "usage": {
+      "en": "Usually 食之无味，弃之可惜.",
+      "zh": "常说“食之无味，弃之可惜”。"
+    },
+    "synonyms": [
+      "鸡肋",
+      "舍不得"
+    ],
+    "antonyms": [
+      "弃如敝屣"
+    ]
+  },
+  {
+    "id": "ruo-you-ruo-wu",
+    "text": "若有若无",
+    "pinyin": "ruò yǒu ruò wú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion"
+    ],
+    "literal": "as if · exist · as if · not exist",
+    "natural": "barely there",
+    "meaning": {
+      "en": "Faint and hard to detect; scarcely perceptible.",
+      "zh": "好像有，又好像没有，形容隐约、不明显。"
+    },
+    "equivalents": [
+      "barely perceptible",
+      "faint",
+      "hardly there"
+    ],
+    "examples": [
+      {
+        "zh": "空气中飘着若有若无的花香。",
+        "en": "A faint scent of flowers drifted in the air."
+      },
+      {
+        "zh": "两人之间保持着若有若无的联系。",
+        "en": "The two kept a tenuous connection."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or adverbial.",
+      "zh": "多作定语、状语。"
+    },
+    "synonyms": [
+      "隐隐约约",
+      "似有似无"
+    ],
+    "antonyms": [
+      "清清楚楚",
+      "一目了然"
+    ]
+  },
+  {
+    "id": "yi-yu-shuang-guan",
+    "text": "一语双关",
+    "pinyin": "yī yǔ shuāng guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "deception-and-false-appearances"
+    ],
+    "literal": "one · sentence · two · meanings",
+    "natural": "a double entendre",
+    "meaning": {
+      "en": "One remark carrying two meanings at once; a pun or double entendre.",
+      "zh": "一句话同时含有两层意思。"
+    },
+    "equivalents": [
+      "a double meaning",
+      "a pun",
+      "a double entendre"
+    ],
+    "examples": [
+      {
+        "zh": "他那句“我很欣赏你的直率”其实是一语双关。",
+        "en": "His line, 'I admire your frankness,' was in fact a double entendre."
+      },
+      {
+        "zh": "广告词常用一语双关的手法。",
+        "en": "Advertising slogans often use puns."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "双关",
+      "话中有话"
+    ],
+    "antonyms": [
+      "直截了当",
+      "开门见山"
+    ]
+  },
+  {
+    "id": "fei-qin-zou-shou",
+    "text": "飞禽走兽",
+    "pinyin": "fēi qín zǒu shòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "plant-and-natural-world"
+    ],
+    "literal": "flying · birds · running · beasts",
+    "natural": "birds and beasts",
+    "meaning": {
+      "en": "Birds and land animals; wildlife in general.",
+      "zh": "鸟类和兽类，泛指各种动物。"
+    },
+    "equivalents": [
+      "birds and beasts",
+      "wildlife",
+      "creatures of the air and land"
+    ],
+    "examples": [
+      {
+        "zh": "这片森林里栖息着各种飞禽走兽。",
+        "en": "All kinds of birds and beasts live in this forest."
+      },
+      {
+        "zh": "动物园里飞禽走兽应有尽有。",
+        "en": "The zoo has every kind of bird and beast."
+      }
+    ],
+    "usage": {
+      "en": "Noun.",
+      "zh": "作名词。"
+    },
+    "synonyms": [
+      "鸟兽"
+    ],
+    "antonyms": [
+      "花草树木"
+    ]
+  },
+  {
+    "id": "niu-lang-zhi-nu",
+    "text": "牛郎织女",
+    "pinyin": "niú láng zhī nǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "myths-legends",
+      "stories"
+    ],
+    "literal": "cowherd · weaver · girl",
+    "natural": "the Cowherd and the Weaver Girl",
+    "meaning": {
+      "en": "The legendary lovers parted by the Milky Way who meet once a year; figuratively, a couple forced to live apart.",
+      "zh": "神话中被银河隔开、每年七夕相会一次的一对恋人，比喻长期分居两地的夫妻。"
+    },
+    "equivalents": [
+      "star-crossed lovers",
+      "a couple kept apart",
+      "the Cowherd and the Weaver Girl"
+    ],
+    "examples": [
+      {
+        "zh": "七夕是牛郎织女相会的日子。",
+        "en": "Qixi is the day the Cowherd and the Weaver Girl meet."
+      },
+      {
+        "zh": "他们像牛郎织女，一年只能见几次面。",
+        "en": "Like the Cowherd and the Weaver Girl, they only see each other a few times a year."
+      }
+    ],
+    "usage": {
+      "en": "Noun; allusion tied to Qixi.",
+      "zh": "作名词，与七夕相关的典故。"
+    },
+    "synonyms": [
+      "天各一方",
+      "两地分居"
+    ],
+    "antonyms": [
+      "朝夕相伴",
+      "形影不离"
+    ]
+  },
+  {
+    "id": "ying-ge-yan-wu",
+    "text": "莺歌燕舞",
+    "pinyin": "yīng gē yàn wǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "peace-and-prosperity"
+    ],
+    "literal": "orioles · sing · swallows · dance",
+    "natural": "orioles singing, swallows dancing",
+    "meaning": {
+      "en": "Orioles sing and swallows dart: a lively spring scene; also a thriving, happy time.",
+      "zh": "黄莺歌唱，燕子飞舞，形容春天的景象，也比喻形势大好。"
+    },
+    "equivalents": [
+      "a lively spring scene",
+      "a scene of thriving prosperity"
+    ],
+    "examples": [
+      {
+        "zh": "春天到了，江南莺歌燕舞。",
+        "en": "Spring has arrived and Jiangnan is alive with birdsong."
+      },
+      {
+        "zh": "到处一派莺歌燕舞的景象。",
+        "en": "Everywhere was a picture of joyful prosperity."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "春意盎然",
+      "歌舞升平"
+    ],
+    "antonyms": [
+      "万马齐喑",
+      "满目萧条"
+    ]
+  },
+  {
+    "id": "ji-ye-cheng-qiu",
+    "text": "集腋成裘",
+    "pinyin": "jí yè chéng qiú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "small-numbers"
+    ],
+    "literal": "gather · armpit-fur · make · fur coat",
+    "natural": "many small pieces make a coat",
+    "meaning": {
+      "en": "By gathering many small things, one can achieve something big.",
+      "zh": "聚集许多狐腋下的小块皮毛能缝成皮袍，比喻积少成多。"
+    },
+    "equivalents": [
+      "many a mickle makes a muckle",
+      "little by little adds up",
+      "every little helps"
+    ],
+    "examples": [
+      {
+        "zh": "每月存一点，集腋成裘，三年后他买了房。",
+        "en": "Saving a little each month, it added up, and three years later he bought a flat."
+      },
+      {
+        "zh": "志愿者们集腋成裘，筹到了善款。",
+        "en": "The volunteers' small contributions added up to a sizeable charity fund."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; encouraging.",
+      "zh": "多作谓语，含鼓励。"
+    },
+    "synonyms": [
+      "积少成多",
+      "聚沙成塔"
+    ],
+    "antonyms": [
+      "杯水车薪"
+    ]
+  },
+  {
+    "id": "ban-sheng-bu-shu",
+    "text": "半生不熟",
+    "pinyin": "bàn shēng bù shú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-workmanship",
+      "superficial-learning"
+    ],
+    "literal": "half · raw · not · cooked",
+    "natural": "half-cooked",
+    "meaning": {
+      "en": "Half-cooked; figuratively, not skilled or fluent.",
+      "zh": "食物没有煮熟，也比喻技术不熟练、不精通。"
+    },
+    "equivalents": [
+      "half-baked",
+      "undercooked",
+      "half-fluent"
+    ],
+    "examples": [
+      {
+        "zh": "这碗饭半生不熟，没法吃。",
+        "en": "This rice is undercooked and inedible."
+      },
+      {
+        "zh": "他一口半生不熟的英语，勉强能沟通。",
+        "en": "With his halting English he could just about communicate."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "作定语、谓语。"
+    },
+    "synonyms": [
+      "一知半解",
+      "夹生"
+    ],
+    "antonyms": [
+      "炉火纯青",
+      "滚瓜烂熟"
+    ]
+  },
+  {
+    "id": "cai-mi-xin-qiao",
+    "text": "财迷心窍",
+    "pinyin": "cái mí xīn qiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "luxury-and-extravagance"
+    ],
+    "literal": "wealth · bewilders · heart · mind",
+    "natural": "blinded by money",
+    "meaning": {
+      "en": "So obsessed with money that one loses all judgement.",
+      "zh": "被钱财迷住了心，失去理智。"
+    },
+    "equivalents": [
+      "blinded by greed",
+      "money-mad"
+    ],
+    "examples": [
+      {
+        "zh": "他财迷心窍，竟然偷了公司的钱。",
+        "en": "Blinded by greed, he actually stole from the company."
+      },
+      {
+        "zh": "别财迷心窍，被骗子骗了。",
+        "en": "Don't let greed blind you and fall for fraudsters."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "作谓语，含贬义。"
+    },
+    "synonyms": [
+      "利令智昏",
+      "见钱眼开"
+    ],
+    "antonyms": [
+      "视金钱如粪土",
+      "廉洁奉公"
+    ]
+  },
+  {
+    "id": "feng-shuang-yu-xue",
+    "text": "风霜雨雪",
+    "pinyin": "fēng shuāng yǔ xuě",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "poverty-and-hardship"
+    ],
+    "literal": "wind · frost · rain · snow",
+    "natural": "wind, frost, rain and snow",
+    "meaning": {
+      "en": "All kinds of harsh weather; figuratively, life's hardships.",
+      "zh": "各种恶劣天气，也比喻艰难困苦。"
+    },
+    "equivalents": [
+      "the elements",
+      "wind and weather",
+      "life's hardships"
+    ],
+    "examples": [
+      {
+        "zh": "守边的战士不惧风霜雨雪。",
+        "en": "The border guards are unafraid of wind, frost, rain or snow."
+      },
+      {
+        "zh": "经过风霜雨雪，他变得成熟了。",
+        "en": "Having weathered life's storms, he has matured."
+      }
+    ],
+    "usage": {
+      "en": "Noun, literal or figurative.",
+      "zh": "作名词，可实指也可比喻。"
+    },
+    "synonyms": [
+      "风吹雨打",
+      "餐风饮露"
+    ],
+    "antonyms": [
+      "风和日丽"
+    ]
+  },
+  {
+    "id": "pi-tou-san-fa",
+    "text": "披头散发",
+    "pinyin": "pī tóu sàn fà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "spread · head · loose · hair",
+    "natural": "with hair dishevelled",
+    "meaning": {
+      "en": "With hair loose and untidy.",
+      "zh": "头发散乱，没有梳理。"
+    },
+    "equivalents": [
+      "dishevelled",
+      "with hair all over the place"
+    ],
+    "examples": [
+      {
+        "zh": "她披头散发地冲了出来。",
+        "en": "She rushed out with her hair flying everywhere."
+      },
+      {
+        "zh": "早上起来披头散发，没法见人。",
+        "en": "Just up with unbrushed hair, I'm not fit to be seen."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "作状语、谓语。"
+    },
+    "synonyms": [
+      "蓬头垢面",
+      "衣冠不整"
+    ],
+    "antonyms": [
+      "衣冠楚楚",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "qing-chao-er-chu",
+    "text": "倾巢而出",
+    "pinyin": "qīng cháo ér chū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors"
+    ],
+    "literal": "empty · nest · and · go out",
+    "natural": "turn out in full force",
+    "meaning": {
+      "en": "To go out in full force, leaving nothing behind.",
+      "zh": "出动全部力量，如同鸟巢里全部出动。"
+    },
+    "equivalents": [
+      "turn out in full force",
+      "everyone comes out",
+      "go out en masse"
+    ],
+    "examples": [
+      {
+        "zh": "节日里，全城居民倾巢而出。",
+        "en": "On the festival day the whole town turned out."
+      },
+      {
+        "zh": "敌军倾巢而出，我们严阵以待。",
+        "en": "The enemy came out in full strength and we stood ready."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral to mildly critical.",
+      "zh": "作谓语，中性或略带贬义。"
+    },
+    "synonyms": [
+      "全体出动"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "闭门不出"
+    ]
+  },
+  {
+    "id": "yao-jin-ya-guan",
+    "text": "咬紧牙关",
+    "pinyin": "yǎo jǐn yá guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "poverty-and-hardship"
+    ],
+    "literal": "bite · tight · teeth · jaw",
+    "natural": "grit one's teeth",
+    "meaning": {
+      "en": "To clench one's teeth and endure pain or hardship.",
+      "zh": "咬紧牙齿，形容忍受痛苦、坚持下去。"
+    },
+    "equivalents": [
+      "grit one's teeth",
+      "bite the bullet",
+      "tough it out"
+    ],
+    "examples": [
+      {
+        "zh": "他咬紧牙关，跑完了全程。",
+        "en": "He gritted his teeth and finished the whole race."
+      },
+      {
+        "zh": "日子再苦，也要咬紧牙关挺过去。",
+        "en": "However hard times are, we must tough it out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often followed by 挺过去/坚持.",
+      "zh": "作谓语，常接“挺过去”“坚持”。"
+    },
+    "synonyms": [
+      "忍辱负重",
+      "硬着头皮"
+    ],
+    "antonyms": [
+      "半途而废",
+      "临阵退缩"
+    ]
+  },
+  {
+    "id": "han-ru-yu-xia",
+    "text": "汗如雨下",
+    "pinyin": "hàn rú yǔ xià",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "harsh-natural-conditions"
+    ],
+    "literal": "sweat · like · rain · falling",
+    "natural": "sweating buckets",
+    "meaning": {
+      "en": "Sweating profusely.",
+      "zh": "汗水像下雨一样流下来，形容出汗很多。"
+    },
+    "equivalents": [
+      "sweating buckets",
+      "drenched in sweat"
+    ],
+    "examples": [
+      {
+        "zh": "烈日下训练，战士们汗如雨下。",
+        "en": "Training under the blazing sun, the soldiers sweated buckets."
+      },
+      {
+        "zh": "紧张得他汗如雨下。",
+        "en": "He was so nervous that he was sweating buckets."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "大汗淋漓",
+      "挥汗如雨"
+    ],
+    "antonyms": [
+      "滴汗不出"
+    ]
+  },
+  {
+    "id": "shu-shou-shu-jiao",
+    "text": "束手束脚",
+    "pinyin": "shù shǒu shù jiǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "psychological-pressure"
+    ],
+    "literal": "bind · hands · bind · feet",
+    "natural": "with hands and feet tied",
+    "meaning": {
+      "en": "Hampered by too many worries or restrictions to act freely.",
+      "zh": "形容顾虑太多、受到限制，不敢放手去做。"
+    },
+    "equivalents": [
+      "with one's hands tied",
+      "hamstrung",
+      "overly cautious"
+    ],
+    "examples": [
+      {
+        "zh": "规定太多，让员工束手束脚。",
+        "en": "Too many rules leave the staff hamstrung."
+      },
+      {
+        "zh": "别束手束脚的，大胆去试。",
+        "en": "Don't hold yourself back; give it a bold try."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "畏首畏尾",
+      "缩手缩脚"
+    ],
+    "antonyms": [
+      "大刀阔斧",
+      "放手大干"
+    ]
+  },
+  {
+    "id": "jie-gan-er-qi",
+    "text": "揭竿而起",
+    "pinyin": "jiē gān ér qǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "conflict-and-strife",
+      "historical-records",
+      "poems-prose"
+    ],
+    "literal": "raise · pole · and · rise",
+    "natural": "rise up in revolt",
+    "meaning": {
+      "en": "To raise a flag on a pole and rise in revolt.",
+      "zh": "举起竹竿作旗帜，起来造反，泛指起义。"
+    },
+    "equivalents": [
+      "rise up in revolt",
+      "take up arms"
+    ],
+    "examples": [
+      {
+        "zh": "陈胜、吴广在大泽乡揭竿而起。",
+        "en": "Chen Sheng and Wu Guang rose in revolt at Daze Township."
+      },
+      {
+        "zh": "百姓不堪压迫，纷纷揭竿而起。",
+        "en": "Unable to bear the oppression, the people rose up one after another."
+      }
+    ],
+    "origin": {
+      "source": "贾谊《过秦论》",
+      "story": {
+        "en": "Jia Yi describes Chen Sheng's revolt: they cut down trees for weapons and raised poles as banners (斩木为兵，揭竿为旗).",
+        "zh": "《过秦论》：“斩木为兵，揭竿为旗，天下云集而响应。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; for uprisings.",
+      "zh": "作谓语，指起义。"
+    },
+    "synonyms": [
+      "起兵造反",
+      "举旗起义"
+    ],
+    "antonyms": [
+      "俯首帖耳",
+      "逆来顺受"
+    ]
+  },
+  {
+    "id": "pai-an-jing-qi",
+    "text": "拍案惊奇",
+    "pinyin": "pāi àn jīng qí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "slap · table · amazed · wondrous",
+    "natural": "slap the table in amazement",
+    "meaning": {
+      "en": "So amazed or impressed that one slaps the table.",
+      "zh": "形容对事物感到非常惊讶、赞叹。"
+    },
+    "equivalents": [
+      "be amazed",
+      "marvel at",
+      "gasp in wonder"
+    ],
+    "examples": [
+      {
+        "zh": "这个结局让观众拍案惊奇。",
+        "en": "The ending left the audience astounded."
+      },
+      {
+        "zh": "他的表演精彩得令人拍案惊奇。",
+        "en": "His performance was so brilliant it left people marvelling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also a book title (《拍案惊奇》).",
+      "zh": "作谓语，也是小说名。"
+    },
+    "synonyms": [
+      "拍案叫绝",
+      "叹为观止"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "不以为然"
+    ]
+  },
+  {
+    "id": "da-jia-feng-fan",
+    "text": "大家风范",
+    "pinyin": "dà jiā fēng fàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "master · school · demeanour · style",
+    "natural": "the bearing of a master",
+    "meaning": {
+      "en": "The poise and manner of a true master or person of standing.",
+      "zh": "名家、大师所具有的风度和气派。"
+    },
+    "equivalents": [
+      "the bearing of a master",
+      "great stature",
+      "distinguished manner"
+    ],
+    "examples": [
+      {
+        "zh": "这位老教授尽显大家风范。",
+        "en": "The old professor showed the bearing of a true master."
+      },
+      {
+        "zh": "面对批评，她表现出大家风范。",
+        "en": "Faced with criticism she displayed real stature."
+      }
+    ],
+    "usage": {
+      "en": "Object; praise.",
+      "zh": "多作宾语，含赞美。"
+    },
+    "synonyms": [
+      "大师风度"
+    ],
+    "antonyms": [
+      "小家子气",
+      "小里小气"
+    ]
+  },
+  {
+    "id": "shi-hou-zhu-ge-liang",
+    "text": "事后诸葛亮",
+    "pinyin": "shì hòu zhū gé liàng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "three-kingdoms"
+    ],
+    "literal": "after · event · Zhuge · Liang",
+    "natural": "Monday-morning quarterback",
+    "meaning": {
+      "en": "Someone who claims to have foreseen things only after they have happened; hindsight expert.",
+      "zh": "指事情发生之后才说自己早有预见的人。"
+    },
+    "equivalents": [
+      "a backseat driver",
+      "a Monday-morning quarterback",
+      "wise after the event"
+    ],
+    "examples": [
+      {
+        "zh": "别当事后诸葛亮，当时你怎么不说？",
+        "en": "Don't be wise after the event. Why didn't you speak up then?"
+      },
+      {
+        "zh": "输了球，一堆事后诸葛亮出来评论。",
+        "en": "After the defeat a crowd of armchair experts came out to comment."
+      }
+    ],
+    "usage": {
+      "en": "Noun; derogatory, colloquial.",
+      "zh": "作名词，口语，含贬义。"
+    },
+    "synonyms": [
+      "马后炮",
+      "放马后炮"
+    ],
+    "antonyms": [
+      "未卜先知",
+      "料事如神"
+    ]
+  },
+  {
+    "id": "qing-fei-de-yi",
+    "text": "情非得已",
+    "pinyin": "qíng fēi dé yǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "situation · not · able · stop",
+    "natural": "have no choice",
+    "meaning": {
+      "en": "To be forced by circumstances to do something against one's wish.",
+      "zh": "情况所迫，不得不这样做。"
+    },
+    "equivalents": [
+      "have no choice",
+      "out of necessity",
+      "act under compulsion"
+    ],
+    "examples": [
+      {
+        "zh": "我也是情非得已才辞职的。",
+        "en": "I resigned only because I had no choice."
+      },
+      {
+        "zh": "她情非得已，只好向亲戚借钱。",
+        "en": "She had no choice but to borrow from relatives."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; often 实在是情非得已.",
+      "zh": "作谓语、状语，常说“实在是情非得已”。"
+    },
+    "synonyms": [
+      "迫不得已",
+      "万不得已"
+    ],
+    "antonyms": [
+      "心甘情愿",
+      "自觉自愿"
+    ]
+  }
+]

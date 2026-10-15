@@ -294,6 +294,9 @@
     "id": "yi-zheng-ci-yan",
     "text": "义正词严",
     "pinyin": "yì zhèng cí yán",
+    "variants": [
+      "义正辞严"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -703,11 +706,11 @@
     "id": "gui-shi-shen-chai",
     "text": "鬼使神差",
     "pinyin": "guǐ shǐ shén chāi",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "神差鬼使"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1069,11 +1072,11 @@
     "id": "xuan-xian-ren-neng",
     "text": "选贤任能",
     "pinyin": "xuǎn xián rèn néng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "举贤任能"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

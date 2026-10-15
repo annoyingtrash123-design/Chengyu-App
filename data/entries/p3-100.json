@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "you-se-yan-jing",
+    "text": "有色眼镜",
+    "pinyin": "yǒu sè yǎn jìng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "have · colour · glasses",
+    "natural": "view through tinted glasses",
+    "meaning": {
+      "en": "Biased views: judging people through prejudice, as if wearing tinted glasses.",
+      "zh": "比喻对人对事的偏见。"
+    },
+    "equivalents": [
+      "rose-tinted or jaundiced view",
+      "look through coloured glasses",
+      "prejudice"
+    ],
+    "examples": [
+      {
+        "zh": "别戴着有色眼镜看外地人。",
+        "en": "Don't view out-of-towners through tinted glasses."
+      },
+      {
+        "zh": "我们不能用有色眼镜看待残疾人。",
+        "en": "We mustn't look at disabled people with prejudice."
+      }
+    ],
+    "usage": {
+      "en": "Often 戴(着)有色眼镜看人.",
+      "zh": "常说“戴着有色眼镜看人”。"
+    },
+    "synonyms": [
+      "先入为主",
+      "偏见"
+    ],
+    "antonyms": [
+      "一视同仁",
+      "客观公正"
+    ]
+  },
+  {
+    "id": "wai-qiang-zhong-gan",
+    "text": "外强中干",
+    "pinyin": "wài qiáng zhōng gān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "poor-health",
+      "historical-records"
+    ],
+    "literal": "outside · strong · inside · dry",
+    "natural": "strong outside, weak inside",
+    "meaning": {
+      "en": "Looking strong on the outside but weak within.",
+      "zh": "表面强大，实际空虚。"
+    },
+    "equivalents": [
+      "a paper tiger",
+      "all show, no strength"
+    ],
+    "examples": [
+      {
+        "zh": "别看他嗓门大，其实外强中干。",
+        "en": "Don't be fooled by his loud voice; he's a paper tiger."
+      },
+      {
+        "zh": "这家公司外强中干，资金链已经紧张。",
+        "en": "The company looks strong but is hollow, with its cash flow already strained."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公十五年》",
+      "story": {
+        "en": "Zuozhuan: 'Outwardly strong, inwardly dried up' (外强中干), of a warhorse.",
+        "zh": "《左传》：“外强中干，进退不可，周旋不能。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "可作谓语、定语。"
+    },
+    "synonyms": [
+      "色厉内荏",
+      "纸老虎",
+      "虚有其表"
+    ],
+    "antonyms": [
+      "表里如一",
+      "名副其实"
+    ]
+  },
+  {
+    "id": "shen-shou-yi-chu",
+    "text": "身首异处",
+    "pinyin": "shēn shǒu yì chù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "revenge-and-retribution"
+    ],
+    "literal": "body · head · different · place",
+    "natural": "beheaded",
+    "meaning": {
+      "en": "Body and head in different places: beheaded or killed.",
+      "zh": "身体和头分在两处，指被杀头。"
+    },
+    "equivalents": [
+      "be beheaded",
+      "have one's head severed from the body"
+    ],
+    "examples": [
+      {
+        "zh": "叛将兵败后身首异处。",
+        "en": "The rebel general was beheaded after his defeat."
+      },
+      {
+        "zh": "古代许多忠臣身首异处。",
+        "en": "In ancient times many loyal ministers were beheaded."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; grim, formal.",
+      "zh": "多作谓语，语气沉重。"
+    },
+    "synonyms": [
+      "人头落地",
+      "身败名裂"
+    ],
+    "antonyms": [
+      "寿终正寝",
+      "全身而退"
+    ]
+  },
+  {
+    "id": "leng-ruo-bing-shuang",
+    "text": "冷若冰霜",
+    "pinyin": "lěng ruò bīng shuāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "complex-emotional-states"
+    ],
+    "literal": "cold · like · ice · frost",
+    "natural": "icy and aloof",
+    "meaning": {
+      "en": "Cold and unapproachable in manner.",
+      "zh": "形容人态度冷淡，不易接近。"
+    },
+    "equivalents": [
+      "icy",
+      "cold as ice",
+      "frosty"
+    ],
+    "examples": [
+      {
+        "zh": "她对谁都冷若冰霜。",
+        "en": "She's icy towards everyone."
+      },
+      {
+        "zh": "他冷若冰霜的表情让大家不敢接近。",
+        "en": "His icy expression kept everyone away."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; also of austere dignity.",
+      "zh": "可作谓语、定语，有时指端庄严肃。"
+    },
+    "synonyms": [
+      "冷漠无情",
+      "不苟言笑",
+      "拒人千里"
+    ],
+    "antonyms": [
+      "热情洋溢",
+      "和蔼可亲",
+      "满面春风"
+    ]
+  },
+  {
+    "id": "du-mu-nan-zhi",
+    "text": "独木难支",
+    "pinyin": "dú mù nán zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "giving-up-and-weakness"
+    ],
+    "literal": "single · timber · hard · support",
+    "natural": "one man can't hold up the building",
+    "meaning": {
+      "en": "A single timber cannot hold up a great building: one person can't bear a heavy burden alone.",
+      "zh": "一根木头难以支撑大厦，比喻一个人的力量难以支撑艰难的局面。"
+    },
+    "equivalents": [
+      "one person can't prop it up alone",
+      "can't carry it single-handed"
+    ],
+    "examples": [
+      {
+        "zh": "公司危机重重，他一人独木难支。",
+        "en": "With the company in deep crisis, he can't hold it up alone."
+      },
+      {
+        "zh": "独木难支，我们需要更多帮手。",
+        "en": "One can't bear it alone; we need more help."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; can stand alone as a remark.",
+      "zh": "作谓语，也可独立成句。"
+    },
+    "synonyms": [
+      "孤掌难鸣",
+      "势单力薄",
+      "独木不成林"
+    ],
+    "antonyms": [
+      "众志成城",
+      "人多力量大"
+    ]
+  },
+  {
+    "id": "wang-zhan-bi-wei",
+    "text": "忘战必危",
+    "pinyin": "wàng zhàn bì wēi",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "wisdom"
+    ],
+    "literal": "forget · war · must · perilous",
+    "natural": "forget war and you court danger",
+    "meaning": {
+      "en": "Forgetting about war preparedness makes a country vulnerable.",
+      "zh": "忘记备战，国家一定陷入危险。"
+    },
+    "equivalents": [
+      "forget defence and you invite disaster",
+      "never neglect preparedness"
+    ],
+    "examples": [
+      {
+        "zh": "居安思危，忘战必危。",
+        "en": "Think of danger in times of peace; neglecting defence invites disaster."
+      },
+      {
+        "zh": "历史告诉我们，忘战必危。",
+        "en": "History teaches that those who forget war put themselves in danger."
+      }
+    ],
+    "origin": {
+      "source": "《司马法·仁本》",
+      "story": {
+        "en": "Sima Fa: 'A state, however big, perishes if fond of war; the world, however calm, is in peril if it forgets war' (国虽大，好战必亡；天下虽安，忘战必危).",
+        "zh": "《司马法》：“国虽大，好战必亡；天下虽安，忘战必危。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted in discussions of defence; paired with 好战必亡.",
+      "zh": "多用于谈国防，常与“好战必亡”连用。"
+    },
+    "synonyms": [
+      "居安思危",
+      "有备无患"
+    ],
+    "antonyms": [
+      "麻痹大意",
+      "马放南山"
+    ]
+  },
+  {
+    "id": "pang-men-zuo-dao",
+    "text": "旁门左道",
+    "pinyin": "páng mén zuǒ dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "deception-and-false-appearances"
+    ],
+    "literal": "side · door · left · way",
+    "natural": "shady methods",
+    "meaning": {
+      "en": "Unorthodox, improper methods or heterodox teachings.",
+      "zh": "不正派的方法或学说，多指不正当的门路。"
+    },
+    "equivalents": [
+      "unorthodox and improper methods",
+      "shady practices"
+    ],
+    "examples": [
+      {
+        "zh": "做生意要靠真本事，不能走旁门左道。",
+        "en": "In business rely on real ability, not shady shortcuts."
+      },
+      {
+        "zh": "他喜欢研究旁门左道，不务正业。",
+        "en": "He likes dabbling in dubious arts and neglects his proper work."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive; derogatory.",
+      "zh": "多作宾语、定语，贬义。"
+    },
+    "synonyms": [
+      "歪门邪道",
+      "邪魔外道"
+    ],
+    "antonyms": [
+      "正道",
+      "光明正大"
+    ]
+  },
+  {
+    "id": "fan-fu-zou-zu",
+    "text": "贩夫走卒",
+    "pinyin": "fàn fū zǒu zú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "common-and-worthless",
+      "society"
+    ],
+    "literal": "peddle · man · run · servant",
+    "natural": "street vendors and common labourers",
+    "meaning": {
+      "en": "Pedlars and footmen: ordinary working people.",
+      "zh": "小商贩和奔走服役的人，泛指社会下层的普通劳动者。"
+    },
+    "equivalents": [
+      "ordinary working folk",
+      "pedlars and porters"
+    ],
+    "examples": [
+      {
+        "zh": "这家小店的顾客有白领，也有贩夫走卒。",
+        "en": "The shop's customers include office workers and ordinary labourers."
+      },
+      {
+        "zh": "从王公贵族到贩夫走卒，没有人不爱听戏。",
+        "en": "From nobles to common folk, everyone loved opera."
+      }
+    ],
+    "usage": {
+      "en": "Often contrasted with 达官贵人.",
+      "zh": "常与“达官贵人”对举。"
+    },
+    "synonyms": [
+      "引车卖浆",
+      "平民百姓",
+      "市井小民"
+    ],
+    "antonyms": [
+      "达官贵人",
+      "王公贵族"
+    ]
+  },
+  {
+    "id": "xue-wu-zhi-jing",
+    "text": "学无止境",
+    "pinyin": "xué wú zhǐ jìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "learning · has no · end · bound",
+    "natural": "there's no end to learning",
+    "meaning": {
+      "en": "There is no limit to learning.",
+      "zh": "学习没有尽头，永远不会到头。"
+    },
+    "equivalents": [
+      "there's always more to learn",
+      "learning never ends"
+    ],
+    "examples": [
+      {
+        "zh": "学无止境，我们要活到老学到老。",
+        "en": "Learning has no limit; we should learn all our lives."
+      },
+      {
+        "zh": "他取得博士学位后仍然相信学无止境。",
+        "en": "Even with his doctorate he believes there is always more to learn."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; slogan-like.",
+      "zh": "作谓语，多像格言。"
+    },
+    "synonyms": [
+      "活到老学到老",
+      "精益求精"
+    ],
+    "antonyms": [
+      "故步自封",
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "kou-chi-ling-li",
+    "text": "口齿伶俐",
+    "pinyin": "kǒu chǐ líng lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "mouth · teeth · clever · sharp",
+    "natural": "articulate",
+    "meaning": {
+      "en": "Speaking fluently, clearly and quickly.",
+      "zh": "说话流利，清楚敏捷。"
+    },
+    "equivalents": [
+      "articulate",
+      "quick-tongued",
+      "fluent"
+    ],
+    "examples": [
+      {
+        "zh": "这个小姑娘口齿伶俐，很讨人喜欢。",
+        "en": "The little girl is articulate and very likeable."
+      },
+      {
+        "zh": "主持人口齿伶俐，现场气氛很活跃。",
+        "en": "The host is eloquent and kept the atmosphere lively."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "可作谓语、定语。"
+    },
+    "synonyms": [
+      "伶牙俐齿",
+      "能言善辩",
+      "能说会道"
+    ],
+    "antonyms": [
+      "笨嘴拙舌",
+      "口齿不清"
+    ]
+  },
+  {
+    "id": "er-long-xi-zhu",
+    "text": "二龙戏珠",
+    "pinyin": "èr lóng xì zhū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "myths-legends"
+    ],
+    "literal": "two · dragons · play with · pearl",
+    "natural": "two dragons playing with a pearl",
+    "meaning": {
+      "en": "Two dragons playing with a pearl: an auspicious motif in art and dragon dances.",
+      "zh": "两条龙戏弄一颗宝珠，是中国传统吉祥图案，也是舞龙的表演形式。"
+    },
+    "equivalents": [
+      "two dragons chasing a pearl",
+      "an auspicious dragon motif"
+    ],
+    "examples": [
+      {
+        "zh": "屋檐下雕着二龙戏珠的图案。",
+        "en": "Under the eaves is a carving of two dragons playing with a pearl."
+      },
+      {
+        "zh": "春节庙会上表演了二龙戏珠。",
+        "en": "The temple fair at New Year featured a two-dragons-and-pearl dance."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase for a motif or performance.",
+      "zh": "作名词性短语，指图案或表演。"
+    },
+    "synonyms": [
+      "龙凤呈祥"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zuo-jing-guan-tian",
+    "text": "坐井观天",
+    "pinyin": "zuò jǐng guān tiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "attitude-humble-vs-arrogant",
+      "poems-prose"
+    ],
+    "literal": "sit · well · look at · sky",
+    "natural": "narrow-minded",
+    "meaning": {
+      "en": "To view the sky from the bottom of a well: to have a narrow outlook.",
+      "zh": "坐在井里看天，比喻眼界狭小，见识有限。"
+    },
+    "equivalents": [
+      "have a narrow outlook",
+      "see the world through a keyhole"
+    ],
+    "examples": [
+      {
+        "zh": "不出去看看，就会坐井观天。",
+        "en": "Without going out to see the world you'll have a narrow view."
+      },
+      {
+        "zh": "他坐井观天，以为自己最厉害。",
+        "en": "With his narrow horizon he thinks himself the best."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《原道》",
+      "story": {
+        "en": "Han Yu, 'Yuan Dao': 'The one who sits in a well and looks at the sky says the sky is small' (坐井而观天，曰天小者).",
+        "zh": "韩愈《原道》：“坐井而观天，曰天小者，非天小也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "井底之蛙",
+      "目光如豆",
+      "管中窥豹"
+    ],
+    "antonyms": [
+      "见多识广",
+      "高瞻远瞩"
+    ]
+  },
+  {
+    "id": "xi-cong-tian-jiang",
+    "text": "喜从天降",
+    "pinyin": "xǐ cóng tiān jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "福从天降"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "miraculous-occurrences"
+    ],
+    "literal": "joy · from · heaven · fall",
+    "natural": "a windfall of joy",
+    "meaning": {
+      "en": "Good fortune dropping out of the blue.",
+      "zh": "喜事从天上掉下来，形容突然遇到意外的喜事。"
+    },
+    "equivalents": [
+      "a joyous surprise",
+      "happiness from the blue",
+      "a stroke of luck"
+    ],
+    "examples": [
+      {
+        "zh": "中了大奖，他简直喜从天降。",
+        "en": "Winning the jackpot felt like a gift from heaven."
+      },
+      {
+        "zh": "这个消息让全家喜从天降。",
+        "en": "The news was a delightful surprise to the whole family."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "喜出望外",
+      "天降洪福"
+    ],
+    "antonyms": [
+      "晴天霹雳",
+      "飞来横祸"
+    ]
+  },
+  {
+    "id": "yu-yue-long-men",
+    "text": "鱼跃龙门",
+    "pinyin": "yú yuè lóng mén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "myths-legends",
+      "historical-records"
+    ],
+    "literal": "fish · leap · dragon · gate",
+    "natural": "leap over the Dragon Gate",
+    "meaning": {
+      "en": "A carp leaping the Dragon Gate: a sudden rise to success, as in passing the imperial exams.",
+      "zh": "鲤鱼跳过龙门就变成龙，比喻科举高中或地位突然升高。"
+    },
+    "equivalents": [
+      "leap up the ladder of success",
+      "rise from humble origins",
+      "strike it big"
+    ],
+    "examples": [
+      {
+        "zh": "他考上名牌大学，算是鱼跃龙门。",
+        "en": "Getting into a top university was his leap to success."
+      },
+      {
+        "zh": "很多人梦想着鱼跃龙门，改变命运。",
+        "en": "Many dream of a big leap to change their fate."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·李膺传》",
+      "story": {
+        "en": "Book of the Later Han: those received by Li Ying were said to have 'passed the Dragon Gate' (登龙门).",
+        "zh": "《后汉书》载：士有被其容接者，名为登龙门。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or noun; hopeful tone.",
+      "zh": "作谓语或名词，带希望色彩。"
+    },
+    "synonyms": [
+      "一步登天",
+      "飞黄腾达",
+      "平步青云"
+    ],
+    "antonyms": [
+      "名落孙山",
+      "一落千丈"
+    ]
+  },
+  {
+    "id": "hua-li-you-hua",
+    "text": "话里有话",
+    "pinyin": "huà lǐ yǒu huà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "words · inside · have · words",
+    "natural": "words with a hidden meaning",
+    "meaning": {
+      "en": "Speaking with a hidden meaning behind the words.",
+      "zh": "话中另有含义，别有所指。"
+    },
+    "equivalents": [
+      "read between the lines",
+      "there's more than meets the ear"
+    ],
+    "examples": [
+      {
+        "zh": "她这话话里有话，大家都听出来了。",
+        "en": "There was more to what she said, and everyone caught it."
+      },
+      {
+        "zh": "他话里有话，是在暗示我早点走。",
+        "en": "He's hinting something; he's telling me to leave early."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial.",
+      "zh": "多作谓语，口语。"
+    },
+    "synonyms": [
+      "弦外之音",
+      "含沙射影",
+      "言外之意"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开门见山"
+    ]
+  },
+  {
+    "id": "bu-shen-liao-liao",
+    "text": "不甚了了",
+    "pinyin": "bù shèn liǎo liǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "superficial-learning"
+    ],
+    "literal": "not · very · clear · clear",
+    "natural": "not very clear on",
+    "meaning": {
+      "en": "Not understanding clearly or thoroughly.",
+      "zh": "了解得不太清楚。"
+    },
+    "equivalents": [
+      "only vaguely understood",
+      "hazy about"
+    ],
+    "examples": [
+      {
+        "zh": "他对这方面的规定不甚了了。",
+        "en": "He is hazy about the rules in this area."
+      },
+      {
+        "zh": "对于这件事的内情，我不甚了了。",
+        "en": "I'm not very clear on the inside story of this affair."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal. Note 了 is liǎo.",
+      "zh": "多作谓语，书面语。“了”读 liǎo。"
+    },
+    "synonyms": [
+      "一知半解",
+      "似懂非懂"
+    ],
+    "antonyms": [
+      "了如指掌",
+      "一清二楚"
+    ]
+  },
+  {
+    "id": "qiu-feng-sao-luo-ye",
+    "text": "秋风扫落叶",
+    "pinyin": "qiū fēng sǎo luò yè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "seasonal-changes"
+    ],
+    "literal": "autumn · wind · sweep · fallen · leaves",
+    "natural": "like autumn wind sweeping leaves",
+    "meaning": {
+      "en": "Like the autumn wind sweeping away dead leaves: a force that clears all before it.",
+      "zh": "像秋风扫落叶一样，比喻强大的力量迅速扫除衰败的事物。"
+    },
+    "equivalents": [
+      "sweep away like autumn leaves",
+      "a clean sweep"
+    ],
+    "examples": [
+      {
+        "zh": "大军如秋风扫落叶，一路攻下数城。",
+        "en": "The army swept through, taking city after city like autumn wind sweeping leaves."
+      },
+      {
+        "zh": "他把盘子里的菜吃得秋风扫落叶一样干净。",
+        "en": "He cleared the dishes as swiftly as an autumn wind clears leaves."
+      }
+    ],
+    "usage": {
+      "en": "Often 如/像秋风扫落叶.",
+      "zh": "常说“如秋风扫落叶”。"
+    },
+    "synonyms": [
+      "风卷残云",
+      "势如破竹"
+    ],
+    "antonyms": [
+      "节节败退",
+      "难以为继"
+    ]
+  },
+  {
+    "id": "liao-yi-zi-wei",
+    "text": "聊以自慰",
+    "pinyin": "liáo yǐ zì wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "complex-emotional-states",
+      "contentment-and-simplicity"
+    ],
+    "literal": "somewhat · to · self · console",
+    "natural": "take some comfort",
+    "meaning": {
+      "en": "To find a little comfort for oneself.",
+      "zh": "姑且用来安慰自己。"
+    },
+    "equivalents": [
+      "console oneself",
+      "take small comfort"
+    ],
+    "examples": [
+      {
+        "zh": "虽然没拿到名次，但学到了不少，聊以自慰。",
+        "en": "I didn't place, but I learned a lot, which is some comfort."
+      },
+      {
+        "zh": "他写诗聊以自慰。",
+        "en": "He wrote poetry as a consolation to himself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal; often 聊以自慰 after 虽然….",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "自我安慰",
+      "自我解嘲"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "忧心忡忡"
+    ]
+  },
+  {
+    "id": "fan-qiu-zhu-ji",
+    "text": "反求诸己",
+    "pinyin": "fǎn qiú zhū jǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "mistakes-and-correction"
+    ],
+    "literal": "turn back · seek · in · oneself",
+    "natural": "look inward for the fault",
+    "meaning": {
+      "en": "When things go wrong, look for the cause in oneself.",
+      "zh": "遇到问题，首先从自己身上找原因。"
+    },
+    "equivalents": [
+      "look to oneself first",
+      "examine one's own faults"
+    ],
+    "examples": [
+      {
+        "zh": "事情没做成，要先反求诸己。",
+        "en": "When things fail, first look to yourself."
+      },
+      {
+        "zh": "君子反求诸己，小人反求诸人。",
+        "en": "The gentleman seeks the cause in himself, the petty man in others."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·离娄上》",
+      "story": {
+        "en": "Mencius: 'If you act and do not succeed, look within yourself for the cause' (行有不得者，皆反求诸己).",
+        "zh": "《孟子》：“行有不得者，皆反求诸己，其身正而天下归之。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，较书面。"
+    },
+    "synonyms": [
+      "闭门思过",
+      "严于律己",
+      "自我反省"
+    ],
+    "antonyms": [
+      "推卸责任",
+      "怨天尤人"
+    ]
+  },
+  {
+    "id": "diao-hu-li-shan",
+    "text": "调虎离山",
+    "pinyin": "diào hǔ lí shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "thirty-six-stratagems",
+      "military-strategy-and-victory"
+    ],
+    "literal": "lure · tiger · leave · mountain",
+    "natural": "lure the tiger from its mountain",
+    "meaning": {
+      "en": "To lure an opponent away from his stronghold, then strike.",
+      "zh": "设法引诱对方离开原来的地方，以便乘机行动。"
+    },
+    "equivalents": [
+      "lure away from the stronghold",
+      "draw the enemy out"
+    ],
+    "examples": [
+      {
+        "zh": "他们用调虎离山之计，把守卫引开了。",
+        "en": "They used the lure-the-tiger trick and drew the guards away."
+      },
+      {
+        "zh": "这是调虎离山，别上当。",
+        "en": "It's a decoy; don't fall for it."
+      }
+    ],
+    "origin": {
+      "source": "《三十六计》（第十五计）",
+      "story": {
+        "en": "The fifteenth of the Thirty-Six Stratagems, 'Lure the tiger down from the mountain'.",
+        "zh": "《三十六计》第十五计：“待天以困之，用人以诱之，往蹇来连。”"
+      }
+    },
+    "usage": {
+      "en": "Often 使/用调虎离山之计.",
+      "zh": "常说“用调虎离山之计”。"
+    },
+    "synonyms": [
+      "声东击西",
+      "引蛇出洞"
+    ],
+    "antonyms": [
+      "打草惊蛇",
+      "瓮中捉鳖"
+    ]
+  },
+  {
+    "id": "xue-rou-heng-fei",
+    "text": "血肉横飞",
+    "pinyin": "xuè ròu héng fēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "defeat-and-military-failure"
+    ],
+    "literal": "blood · flesh · crosswise · fly",
+    "natural": "gore flying everywhere",
+    "meaning": {
+      "en": "Blood and flesh flying in all directions: a scene of bloody carnage.",
+      "zh": "形容战斗或爆炸场面十分惨烈。"
+    },
+    "equivalents": [
+      "bloody carnage",
+      "blood and gore everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "爆炸现场血肉横飞，惨不忍睹。",
+        "en": "The explosion scene was a bloody horror to behold."
+      },
+      {
+        "zh": "这部电影里战争场面血肉横飞。",
+        "en": "The war scenes in the film are full of gore."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "血流成河",
+      "尸横遍野",
+      "惨不忍睹"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "zheng-qi-lin-ran",
+    "text": "正气凛然",
+    "pinyin": "zhèng qì lǐn rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "righteous · spirit · awe-inspiring · -ly",
+    "natural": "radiating righteous dignity",
+    "meaning": {
+      "en": "Full of awe-inspiring righteousness.",
+      "zh": "形容人有浩然正气，令人敬畏。"
+    },
+    "equivalents": [
+      "awe-inspiringly upright",
+      "radiating righteousness"
+    ],
+    "examples": [
+      {
+        "zh": "他面对威胁，依然正气凛然。",
+        "en": "Faced with threats he remained upright and commanding."
+      },
+      {
+        "zh": "法官正气凛然地宣读了判决。",
+        "en": "The judge read the verdict with stern righteousness."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; formal.",
+      "zh": "可作谓语、状语，书面语。"
+    },
+    "synonyms": [
+      "大义凛然",
+      "刚正不阿",
+      "浩然正气"
+    ],
+    "antonyms": [
+      "邪气十足",
+      "心虚胆怯"
+    ]
+  },
+  {
+    "id": "jie-jia-gui-tian",
+    "text": "解甲归田",
+    "pinyin": "jiě jiǎ guī tián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "historical-periods"
+    ],
+    "literal": "take off · armour · return to · fields",
+    "natural": "retire from the army to farm",
+    "meaning": {
+      "en": "To lay down arms and return to farming; to retire from military service.",
+      "zh": "脱下铠甲回乡种田，指军人退伍还乡。"
+    },
+    "equivalents": [
+      "hang up one's armour",
+      "retire from service",
+      "return to civilian life"
+    ],
+    "examples": [
+      {
+        "zh": "战争结束后，许多老兵解甲归田。",
+        "en": "After the war many veterans returned to civilian life."
+      },
+      {
+        "zh": "他解甲归田，在家乡种起了果树。",
+        "en": "He hung up his uniform and took up orchard farming back home."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also of leaving a career.",
+      "zh": "多作谓语，也比喻退出职场。"
+    },
+    "synonyms": [
+      "告老还乡",
+      "退伍还乡"
+    ],
+    "antonyms": [
+      "披挂上阵",
+      "东山再起"
+    ]
+  }
+]

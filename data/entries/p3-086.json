@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "da-ma-hu-yan",
+    "text": "打马虎眼",
+    "pinyin": "dǎ mǎ hu yǎn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "poor-speech-and-silence"
+    ],
+    "literal": "play · careless · eye",
+    "natural": "pretend not to know",
+    "meaning": {
+      "en": "To feign ignorance or be deliberately vague to dodge the point.",
+      "zh": "装糊涂、含糊其辞来蒙混过去。"
+    },
+    "equivalents": [
+      "play dumb",
+      "dodge the question"
+    ],
+    "examples": [
+      {
+        "zh": "别跟我打马虎眼，你到底去不去？",
+        "en": "Don't dodge the question: are you going or not?"
+      },
+      {
+        "zh": "他对账目的问题一直打马虎眼。",
+        "en": "He kept being evasive about the accounts."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; often 跟某人打马虎眼.",
+      "zh": "口语，常说“跟…打马虎眼”。"
+    },
+    "synonyms": [
+      "装糊涂",
+      "含糊其辞"
+    ],
+    "antonyms": [
+      "开诚布公",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "lao-yan-fen-fei",
+    "text": "劳燕分飞",
+    "pinyin": "láo yàn fēn fēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "sadness-and-despair"
+    ],
+    "literal": "shrike · swallow · part · fly",
+    "natural": "lovers parted",
+    "meaning": {
+      "en": "Lovers or spouses forced to part, like a shrike and a swallow flying off in different directions.",
+      "zh": "伯劳和燕子各飞一方，比喻夫妻、情侣别离。"
+    },
+    "equivalents": [
+      "parted lovers",
+      "go separate ways"
+    ],
+    "examples": [
+      {
+        "zh": "战乱使这对恋人劳燕分飞。",
+        "en": "The war tore the lovers apart."
+      },
+      {
+        "zh": "多年相伴，终究还是劳燕分飞。",
+        "en": "After years together, they ended up going their separate ways."
+      }
+    ],
+    "origin": {
+      "source": "乐府《东飞伯劳歌》",
+      "story": {
+        "en": "The Yuefu poem 'Song of the Shrike Flying East' has the line 'Eastward fly the shrikes, westward the swallows' (东飞伯劳西飞燕), an image of parted lovers.",
+        "zh": "乐府《东飞伯劳歌》：“东飞伯劳西飞燕，黄姑织女时相见。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "分道扬镳",
+      "天各一方"
+    ],
+    "antonyms": [
+      "白头偕老",
+      "破镜重圆"
+    ]
+  },
+  {
+    "id": "gang-jin-tie-gu",
+    "text": "钢筋铁骨",
+    "pinyin": "gāng jīn tiě gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "body"
+    ],
+    "literal": "steel · sinew · iron · bones",
+    "natural": "iron constitution",
+    "meaning": {
+      "en": "A body of extraordinary toughness and strength.",
+      "zh": "形容身体极其强壮、坚韧。"
+    },
+    "equivalents": [
+      "iron constitution",
+      "built like a tank"
+    ],
+    "examples": [
+      {
+        "zh": "他钢筋铁骨，连续加班一周也不喊累。",
+        "en": "He has an iron constitution and never complained after a week of overtime."
+      },
+      {
+        "zh": "没有钢筋铁骨，干不了这行。",
+        "en": "You need to be built like a tank to do this job."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; jocular.",
+      "zh": "作谓语、定语，略带夸张。"
+    },
+    "synonyms": [
+      "铜皮铁骨",
+      "身强体壮"
+    ],
+    "antonyms": [
+      "弱不禁风",
+      "手无缚鸡之力"
+    ]
+  },
+  {
+    "id": "zi-yuan-zi-yi",
+    "text": "自怨自艾",
+    "pinyin": "zì yuàn zì yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "attitude-humble-vs-arrogant",
+      "confucian-classics"
+    ],
+    "literal": "self · resent · self · cut-back",
+    "natural": "wallow in self-reproach",
+    "meaning": {
+      "en": "To dwell on one's own misfortunes or mistakes with regret and self-pity.",
+      "zh": "自己埋怨自己，懊悔不已；后多指一味叹息自己的不幸。"
+    },
+    "equivalents": [
+      "wallow in self-pity",
+      "beat oneself up"
+    ],
+    "examples": [
+      {
+        "zh": "失败了就自怨自艾，不如赶紧找原因。",
+        "en": "Rather than wallowing after failure, find out what went wrong."
+      },
+      {
+        "zh": "别整天自怨自艾，生活还要继续。",
+        "en": "Stop moping all day; life goes on."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·万章上》",
+      "story": {
+        "en": "Mencius says Tai Jia, repenting of his misrule, 'resented his own faults and corrected himself' (自怨自艾); 艾 here means to cut away, to mend.",
+        "zh": "《孟子》：“太甲悔过，自怨自艾，于桐处仁迁义。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; usually advice against it.",
+      "zh": "多作谓语，常用于劝告。"
+    },
+    "synonyms": [
+      "顾影自怜",
+      "长吁短叹"
+    ],
+    "antonyms": [
+      "奋发图强",
+      "豁达乐观"
+    ]
+  },
+  {
+    "id": "fen-shi-tai-ping",
+    "text": "粉饰太平",
+    "pinyin": "fěn shì tài píng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "deception-and-false-appearances",
+      "political-corruption"
+    ],
+    "literal": "whitewash · adorn · peace",
+    "natural": "gloss over real problems",
+    "meaning": {
+      "en": "To paint a false picture of peace and prosperity while hiding real problems.",
+      "zh": "用虚假的现象掩盖问题，装出天下太平的样子。"
+    },
+    "equivalents": [
+      "whitewash reality",
+      "paint a rosy picture"
+    ],
+    "examples": [
+      {
+        "zh": "官员只想粉饰太平，不愿面对民怨。",
+        "en": "The officials wanted only to gloss over things and ignore public anger."
+      },
+      {
+        "zh": "报告粉饰太平，掩盖了严重的隐患。",
+        "en": "The report whitewashed the situation and concealed grave risks."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory, political.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "文过饰非",
+      "弄虚作假"
+    ],
+    "antonyms": [
+      "实事求是",
+      "揭露真相"
+    ]
+  },
+  {
+    "id": "bu-luo-su-tao",
+    "text": "不落俗套",
+    "pinyin": "bù luò sú tào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "innovation-and-progress",
+      "outstanding-character"
+    ],
+    "literal": "not · fall-into · common · mould",
+    "natural": "avoid clichés",
+    "meaning": {
+      "en": "Original and free from conventional formulas.",
+      "zh": "不落入平凡、陈旧的格式，有新意。"
+    },
+    "equivalents": [
+      "avoid the clichés",
+      "break the mould"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影的结尾不落俗套。",
+        "en": "The film's ending steers clear of cliché."
+      },
+      {
+        "zh": "他的设计风格不落俗套，很有个性。",
+        "en": "His design style is original and distinctive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; praise.",
+      "zh": "多作谓语，含褒义。"
+    },
+    "synonyms": [
+      "别出心裁",
+      "独树一帜"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "老生常谈"
+    ]
+  },
+  {
+    "id": "xin-hun-yan-er",
+    "text": "新婚燕尔",
+    "pinyin": "xīn hūn yàn ěr",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "新婚宴尔"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "joy-and-happiness",
+      "poems-prose"
+    ],
+    "literal": "new · wed · swallow · so",
+    "natural": "newlyweds",
+    "meaning": {
+      "en": "Newly married and delighted in each other.",
+      "zh": "形容新婚时的欢乐。"
+    },
+    "equivalents": [
+      "newly wed",
+      "in the honeymoon period"
+    ],
+    "examples": [
+      {
+        "zh": "他们新婚燕尔，整天形影不离。",
+        "en": "The newlyweds are inseparable all day."
+      },
+      {
+        "zh": "新婚燕尔，他舍不得出差。",
+        "en": "Newly married, he hated to leave on a business trip."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·邶风·谷风》",
+      "story": {
+        "en": "The Odes: 'You were joyful at the new wedding, like elder and younger brother' (宴尔新昏，如兄如弟).",
+        "zh": "《诗经》：“宴尔新昏，如兄如弟。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; 燕尔 is 宴尔, 'joyful'.",
+      "zh": "作谓语、定语；“燕尔”即“宴尔”，欢乐貌。"
+    },
+    "synonyms": [
+      "如胶似漆",
+      "新婚之喜"
+    ],
+    "antonyms": [
+      "劳燕分飞",
+      "同床异梦"
+    ]
+  },
+  {
+    "id": "ming-jin-shou-bing",
+    "text": "鸣金收兵",
+    "pinyin": "míng jīn shōu bīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "abrupt-endings"
+    ],
+    "literal": "sound · gong · withdraw · troops",
+    "natural": "sound the retreat",
+    "meaning": {
+      "en": "To sound the gong and call troops back; to call off an operation.",
+      "zh": "敲锣收兵，比喻结束行动或停止比赛、争斗。"
+    },
+    "equivalents": [
+      "sound the retreat",
+      "call it a day"
+    ],
+    "examples": [
+      {
+        "zh": "天色已晚，双方鸣金收兵。",
+        "en": "As night fell, both sides called a halt."
+      },
+      {
+        "zh": "谈判谈到半夜才鸣金收兵。",
+        "en": "The talks went on until midnight before being called off."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "偃旗息鼓",
+      "收兵回营"
+    ],
+    "antonyms": [
+      "擂鼓进军",
+      "乘胜追击"
+    ]
+  },
+  {
+    "id": "wei-wei-da-guan",
+    "text": "蔚为大观",
+    "pinyin": "wèi wéi dà guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "relative-measurements"
+    ],
+    "literal": "flourishing · become · grand · sight",
+    "natural": "a magnificent sight",
+    "meaning": {
+      "en": "To form a magnificent spectacle through sheer abundance and variety.",
+      "zh": "事物丰富多彩，汇集成盛大的景象。"
+    },
+    "equivalents": [
+      "a grand spectacle",
+      "a magnificent display"
+    ],
+    "examples": [
+      {
+        "zh": "展览汇集了上千件珍品，蔚为大观。",
+        "en": "The exhibition gathers a thousand treasures into a magnificent display."
+      },
+      {
+        "zh": "春天的花海蔚为大观。",
+        "en": "The sea of spring flowers is a magnificent sight."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal praise.",
+      "zh": "多作谓语，书面赞语。"
+    },
+    "synonyms": [
+      "洋洋大观",
+      "琳琅满目"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "乏善可陈"
+    ]
+  },
+  {
+    "id": "cang-huang-chu-tao",
+    "text": "仓皇出逃",
+    "pinyin": "cāng huáng chū táo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "defeat-and-military-failure"
+    ],
+    "literal": "hurried · flustered · out · flee",
+    "natural": "flee in panic",
+    "meaning": {
+      "en": "To flee in a hurry and panic.",
+      "zh": "慌慌张张地逃走。"
+    },
+    "equivalents": [
+      "flee in panic",
+      "bolt in a hurry"
+    ],
+    "examples": [
+      {
+        "zh": "听到警报，大家仓皇出逃。",
+        "en": "At the alarm everyone fled in panic."
+      },
+      {
+        "zh": "敌军仓皇出逃，丢下了大批辎重。",
+        "en": "The enemy fled in disorder, leaving behind heavy supplies."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; news and narrative.",
+      "zh": "多作谓语，新闻、叙事用语。"
+    },
+    "synonyms": [
+      "落荒而逃",
+      "仓皇逃窜"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "镇定自若"
+    ]
+  },
+  {
+    "id": "bu-yi-wei-chi",
+    "text": "不以为耻",
+    "pinyin": "bù yǐ wéi chǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · regard · as · shame",
+    "natural": "not ashamed",
+    "meaning": {
+      "en": "To feel no shame about something that should be shameful.",
+      "zh": "不认为是耻辱，指对不光彩的事没有羞耻感。"
+    },
+    "equivalents": [
+      "feel no shame",
+      "not consider it disgraceful"
+    ],
+    "examples": [
+      {
+        "zh": "他撒谎被揭穿，竟还不以为耻。",
+        "en": "Caught lying, he felt no shame at all."
+      },
+      {
+        "zh": "迟到成习惯，他居然不以为耻，反以为荣。",
+        "en": "He made lateness a habit and was not ashamed, even proud of it."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 不以为耻，反以为荣.",
+      "zh": "多作谓语，常说“不以为耻，反以为荣”。"
+    },
+    "synonyms": [
+      "恬不知耻",
+      "厚颜无耻"
+    ],
+    "antonyms": [
+      "羞愧难当",
+      "无地自容"
+    ]
+  },
+  {
+    "id": "zi-you-gong-lun",
+    "text": "自有公论",
+    "pinyin": "zì yǒu gōng lùn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "fairness-and-impartiality"
+    ],
+    "literal": "naturally · have · fair · verdict",
+    "natural": "the public will judge",
+    "meaning": {
+      "en": "The public will reach a fair judgement in due course.",
+      "zh": "大家自然会有公正的评价。"
+    },
+    "equivalents": [
+      "the public will be the judge",
+      "history will judge"
+    ],
+    "examples": [
+      {
+        "zh": "功过是非，后人自有公论。",
+        "en": "As for merits and faults, posterity will judge."
+      },
+      {
+        "zh": "对这件事，群众自有公论。",
+        "en": "The public will form its own fair verdict on this."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 后人/历史自有公论.",
+      "zh": "作谓语，常说“后人自有公论”。"
+    },
+    "synonyms": [
+      "盖棺论定",
+      "公道自在人心"
+    ],
+    "antonyms": [
+      "一面之词"
+    ]
+  },
+  {
+    "id": "wu-yuan-fu-jie",
+    "text": "无远弗届",
+    "pinyin": "wú yuǎn fú jiè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "无远勿届"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "no · far · not · reach",
+    "natural": "reaching everywhere",
+    "meaning": {
+      "en": "Reaching even the farthest places; having no limit of distance.",
+      "zh": "没有什么遥远的地方不能到达，形容影响或力量广泛。"
+    },
+    "equivalents": [
+      "reaching every corner",
+      "no place too far"
+    ],
+    "examples": [
+      {
+        "zh": "互联网的力量无远弗届。",
+        "en": "The reach of the internet knows no distance."
+      },
+      {
+        "zh": "他的声名无远弗届。",
+        "en": "His fame has travelled to the farthest places."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·大禹谟》",
+      "story": {
+        "en": "The Book of Documents: 'Virtue moves heaven; none is too far to be reached' (惟德动天，无远弗届).",
+        "zh": "《尚书·大禹谟》：“惟德动天，无远弗届。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; formal.",
+      "zh": "作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "遍及四方",
+      "无所不至"
+    ],
+    "antonyms": [
+      "鞭长莫及",
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "kou-shuo-wu-ping",
+    "text": "口说无凭",
+    "pinyin": "kǒu shuō wú píng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "standards-and-benchmarks"
+    ],
+    "literal": "mouth · say · no · proof",
+    "natural": "words are no proof",
+    "meaning": {
+      "en": "Mere words are no proof; put it in writing.",
+      "zh": "光是嘴上说说没有凭据，不能作数。"
+    },
+    "equivalents": [
+      "talk is cheap",
+      "a verbal promise proves nothing"
+    ],
+    "examples": [
+      {
+        "zh": "口说无凭，立字为据。",
+        "en": "Words prove nothing, so put it in writing."
+      },
+      {
+        "zh": "口说无凭，你拿出证据来。",
+        "en": "Saying it proves nothing; show me the evidence."
+      }
+    ],
+    "usage": {
+      "en": "Often 口说无凭，立字为据.",
+      "zh": "常说“口说无凭，立字为据”。"
+    },
+    "synonyms": [
+      "空口无凭",
+      "空口白话"
+    ],
+    "antonyms": [
+      "有据可查",
+      "凭证确凿"
+    ]
+  },
+  {
+    "id": "bu-she-zhou-ye",
+    "text": "不舍昼夜",
+    "pinyin": "bù shě zhòu yè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fleeting-time",
+      "value-of-time",
+      "confucian-classics"
+    ],
+    "literal": "not · give-up · day · night",
+    "natural": "day and night without rest",
+    "meaning": {
+      "en": "Continuing day and night without stopping.",
+      "zh": "日夜不停，不分昼夜。"
+    },
+    "equivalents": [
+      "day and night",
+      "ceaselessly"
+    ],
+    "examples": [
+      {
+        "zh": "江水奔流，不舍昼夜。",
+        "en": "The river rushes on day and night."
+      },
+      {
+        "zh": "他们不舍昼夜地赶制抗灾物资。",
+        "en": "They worked round the clock to make relief supplies."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子罕》",
+      "story": {
+        "en": "Confucius by a river: 'What passes is like this, never stopping day or night' (逝者如斯夫！不舍昼夜).",
+        "zh": "《论语》：“子在川上曰：‘逝者如斯夫！不舍昼夜。’”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial; literary.",
+      "zh": "作谓语、状语，书面语。"
+    },
+    "synonyms": [
+      "夜以继日",
+      "日夜兼程"
+    ],
+    "antonyms": [
+      "半途而废",
+      "时断时续"
+    ]
+  },
+  {
+    "id": "shu-sheng-lang-lang",
+    "text": "书声琅琅",
+    "pinyin": "shū shēng láng láng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "academic-achievement"
+    ],
+    "literal": "book · sound · ringing · ringing",
+    "natural": "sound of reading aloud",
+    "meaning": {
+      "en": "The clear sound of students reading aloud.",
+      "zh": "形容读书声清脆响亮。"
+    },
+    "equivalents": [
+      "the sound of pupils reciting",
+      "reading aloud in chorus"
+    ],
+    "examples": [
+      {
+        "zh": "清晨的校园里书声琅琅。",
+        "en": "In the early morning the campus rings with pupils reading aloud."
+      },
+      {
+        "zh": "村里的小学书声琅琅，充满生机。",
+        "en": "The village school echoed with recitation, full of life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; scenic description.",
+      "zh": "作谓语，描写场景。"
+    },
+    "synonyms": [
+      "读书声声",
+      "朗朗书声"
+    ],
+    "antonyms": [
+      "万籁俱寂",
+      "鸦雀无声"
+    ]
+  },
+  {
+    "id": "zi-gan-duo-luo",
+    "text": "自甘堕落",
+    "pinyin": "zì gān duò luò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "giving-up-and-weakness"
+    ],
+    "literal": "self · willing · sink · fall",
+    "natural": "willingly go to the bad",
+    "meaning": {
+      "en": "To let oneself sink into bad ways willingly.",
+      "zh": "自己甘心沉沦，不求上进。"
+    },
+    "equivalents": [
+      "willingly go to the dogs",
+      "sink into degeneracy"
+    ],
+    "examples": [
+      {
+        "zh": "别因一次失败就自甘堕落。",
+        "en": "Don't give up on yourself over a single failure."
+      },
+      {
+        "zh": "他自甘堕落，整日泡在赌场。",
+        "en": "He went to the bad, spending his days in casinos."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，贬义。"
+    },
+    "synonyms": [
+      "自暴自弃",
+      "破罐破摔"
+    ],
+    "antonyms": [
+      "自强不息",
+      "奋发向上"
+    ]
+  },
+  {
+    "id": "xi-nu-wu-chang",
+    "text": "喜怒无常",
+    "pinyin": "xǐ nù wú cháng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "complex-emotional-states"
+    ],
+    "literal": "joy · anger · no · constancy",
+    "natural": "moody",
+    "meaning": {
+      "en": "Given to sudden changes of mood and temper.",
+      "zh": "一会儿高兴一会儿发怒，情绪变化没有规律。"
+    },
+    "equivalents": [
+      "moody and unpredictable",
+      "blow hot and cold"
+    ],
+    "examples": [
+      {
+        "zh": "他喜怒无常，同事们都小心应对。",
+        "en": "He is so moody that colleagues tread carefully around him."
+      },
+      {
+        "zh": "喜怒无常的老板让大家很难适应。",
+        "en": "The temperamental boss is hard to get used to."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "反复无常",
+      "阴晴不定"
+    ],
+    "antonyms": [
+      "性情温和",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "zi-can-xing-hui",
+    "text": "自惭形秽",
+    "pinyin": "zì cán xíng huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "psychological-pressure"
+    ],
+    "literal": "self · ashamed · form · foul",
+    "natural": "feel inferior",
+    "meaning": {
+      "en": "To feel inferior and ashamed when comparing oneself with someone better.",
+      "zh": "因为自己不如别人而感到惭愧、自卑。"
+    },
+    "equivalents": [
+      "feel inferior",
+      "feel small by comparison"
+    ],
+    "examples": [
+      {
+        "zh": "站在他身边，我不禁自惭形秽。",
+        "en": "Standing next to him, I couldn't help feeling inferior."
+      },
+      {
+        "zh": "看到同学的成绩，他自惭形秽。",
+        "en": "Seeing his classmates' marks, he felt ashamed of himself."
+      }
+    ],
+    "origin": {
+      "source": "《世说新语·容止》",
+      "story": {
+        "en": "Pei Shu's remark on seeing the handsome Wei Jie: 'Beside a jade-like man, I feel my own unseemliness' (珠玉在侧，觉我形秽).",
+        "zh": "《世说新语》：“珠玉在侧，觉我形秽。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "相形见绌",
+      "妄自菲薄"
+    ],
+    "antonyms": [
+      "自命不凡",
+      "自视甚高"
+    ]
+  },
+  {
+    "id": "wu-qiao-bu-cheng-shu",
+    "text": "无巧不成书",
+    "pinyin": "wú qiǎo bù chéng shū",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "stories"
+    ],
+    "literal": "no · coincidence · not · make · book",
+    "natural": "truth is stranger than fiction",
+    "meaning": {
+      "en": "Without coincidences there would be no story; real life is full of striking coincidences.",
+      "zh": "没有巧合就编不成故事，指事情凑巧得像小说一样。"
+    },
+    "equivalents": [
+      "truth is stranger than fiction",
+      "what a coincidence"
+    ],
+    "examples": [
+      {
+        "zh": "无巧不成书，我们居然在机场碰上了。",
+        "en": "What a coincidence: we bumped into each other at the airport."
+      },
+      {
+        "zh": "无巧不成书，他们竟是失散多年的兄妹。",
+        "en": "Truth is stranger than fiction: they turned out to be long-lost siblings."
+      }
+    ],
+    "usage": {
+      "en": "A set saying; often sentence-initial.",
+      "zh": "谚语，常放句首。"
+    },
+    "synonyms": [
+      "无独有偶"
+    ],
+    "antonyms": [
+      "事与愿违"
+    ]
+  },
+  {
+    "id": "jiu-quan-zhi-xia",
+    "text": "九泉之下",
+    "pinyin": "jiǔ quán zhī xià",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "myths-legends",
+      "sadness-and-despair"
+    ],
+    "literal": "ninth · spring · 's · below",
+    "natural": "in the grave",
+    "meaning": {
+      "en": "The underworld; beyond the grave.",
+      "zh": "指人死后的地下世界。"
+    },
+    "equivalents": [
+      "beyond the grave",
+      "in the netherworld"
+    ],
+    "examples": [
+      {
+        "zh": "你这样做，怎对得起九泉之下的父亲？",
+        "en": "How can you do this to your father, who lies beneath the ground?"
+      },
+      {
+        "zh": "先烈们在九泉之下也会欣慰。",
+        "en": "The martyrs would rest content even in their graves."
+      }
+    ],
+    "usage": {
+      "en": "Often 九泉之下的…; solemn.",
+      "zh": "庄重用语。"
+    },
+    "synonyms": [
+      "黄泉",
+      "地下"
+    ],
+    "antonyms": [
+      "人世间"
+    ]
+  },
+  {
+    "id": "nu-fa-chong-guan",
+    "text": "怒发冲冠",
+    "pinyin": "nù fà chōng guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger",
+      "historical-records"
+    ],
+    "literal": "angry · hair · push-up · cap",
+    "natural": "hair standing on end with rage",
+    "meaning": {
+      "en": "So furious that one's hair seems to lift the cap.",
+      "zh": "头发竖起，顶起帽子，形容极其愤怒。"
+    },
+    "equivalents": [
+      "bristling with rage",
+      "hopping mad"
+    ],
+    "examples": [
+      {
+        "zh": "听到这个消息，他怒发冲冠。",
+        "en": "On hearing the news he bristled with rage."
+      },
+      {
+        "zh": "面对不公，她怒发冲冠地拍案而起。",
+        "en": "Faced with injustice, she slammed the table in fury."
+      }
+    ],
+    "origin": {
+      "source": "《史记·廉颇蔺相如列传》",
+      "story": {
+        "en": "Lin Xiangru, furious at the king of Qin's deceit, stood by a pillar 'with hair upright, pushing up his cap' (怒发上冲冠).",
+        "zh": "《史记》：“相如因持璧却立，倚柱，怒发上冲冠。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "义愤填膺",
+      "暴跳如雷"
+    ],
+    "antonyms": [
+      "喜形于色",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "dong-nuo-xi-jie",
+    "text": "东挪西借",
+    "pinyin": "dōng nuó xī jiè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "east · shift · west · borrow",
+    "natural": "borrow from all sides",
+    "meaning": {
+      "en": "To borrow money here and there to scrape by.",
+      "zh": "到处借钱、挪用来应急。"
+    },
+    "equivalents": [
+      "borrow here and there",
+      "scrape the money together"
+    ],
+    "examples": [
+      {
+        "zh": "为了凑够学费，他东挪西借。",
+        "en": "To raise the tuition he borrowed from everyone he could."
+      },
+      {
+        "zh": "东挪西借，才勉强还上了贷款。",
+        "en": "Only by borrowing left and right did they just manage to repay the loan."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "东拼西凑",
+      "拆东墙补西墙"
+    ],
+    "antonyms": [
+      "绰绰有余",
+      "财源广进"
+    ]
+  }
+]

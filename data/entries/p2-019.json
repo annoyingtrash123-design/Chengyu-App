@@ -3,11 +3,11 @@
     "id": "nao-xiu-cheng-nu",
     "text": "恼羞成怒",
     "pinyin": "nǎo xiū chéng nù",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "老羞成怒"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -98,6 +98,9 @@
     "id": "xu-han-wen-nuan",
     "text": "嘘寒问暖",
     "pinyin": "xū hán wèn nuǎn",
+    "variants": [
+      "问寒问暖"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -739,7 +742,8 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "war"
+      "war",
+      "unity-and-cooperation"
     ],
     "literal": "side by side · fight",
     "natural": "fight side by side",
@@ -1107,7 +1111,8 @@
     "themes": [
       "relationships",
       "society",
-      "confucian-classics"
+      "confucian-classics",
+      "unity-and-cooperation"
     ],
     "literal": "guard · watch · mutually · help",
     "natural": "look out for each other",

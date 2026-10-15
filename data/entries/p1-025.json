@@ -942,13 +942,17 @@
     "id": "da-yu-pang-tuo",
     "text": "大雨滂沱",
     "pinyin": "dà yǔ pāng tuó",
+    "variants": [
+      "滂沱大雨"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "harsh-natural-conditions",
-      "nature"
+      "nature",
+      "weather-and-sky"
     ],
     "literal": "big · rain · torrential · torrential",
     "natural": "Rain falling in torrents",

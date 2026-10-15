@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "qi-pin-ba-cou",
+    "text": "七拼八凑",
+    "pinyin": "qī pīn bā còu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-workmanship",
+      "numbers"
+    ],
+    "literal": "seven · piece together · eight · patch up",
+    "natural": "cobbled together",
+    "meaning": {
+      "en": "Put together haphazardly from bits and pieces.",
+      "zh": "把零碎的东西胡乱拼合在一起。"
+    },
+    "equivalents": [
+      "cobbled together",
+      "patched together"
+    ],
+    "examples": [
+      {
+        "zh": "这篇论文是七拼八凑出来的。",
+        "en": "This paper was cobbled together from bits and pieces."
+      },
+      {
+        "zh": "他七拼八凑，总算凑够了学费。",
+        "en": "He scraped together enough for the tuition by hook or by crook."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "东拼西凑",
+      "拼拼凑凑"
+    ],
+    "antonyms": [
+      "浑然一体",
+      "天衣无缝"
+    ]
+  },
+  {
+    "id": "xu-jiu-zi-shi",
+    "text": "酗酒滋事",
+    "pinyin": "xù jiǔ zī shì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "news-and-officialese"
+    ],
+    "literal": "drink wildly · wine · stir up · trouble",
+    "natural": "drunken disorder",
+    "meaning": {
+      "en": "To get drunk and cause trouble.",
+      "zh": "喝醉了酒，闹事惹祸。"
+    },
+    "equivalents": [
+      "drunken brawling",
+      "drunk and disorderly"
+    ],
+    "examples": [
+      {
+        "zh": "他因酗酒滋事被拘留了三天。",
+        "en": "He was detained for three days for drunk and disorderly behaviour."
+      },
+      {
+        "zh": "严禁酗酒滋事，违者报警处理。",
+        "en": "Drunken disturbances are strictly forbidden; offenders will be reported to the police."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in news and notices.",
+      "zh": "多作谓语，常见于新闻、公告。"
+    },
+    "synonyms": [
+      "寻衅滋事",
+      "借酒装疯"
+    ],
+    "antonyms": [
+      "安分守己"
+    ]
+  },
+  {
+    "id": "nian-hua-re-cao",
+    "text": "拈花惹草",
+    "pinyin": "niān huā rě cǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "love-and-marriage"
+    ],
+    "literal": "pluck · flowers · provoke · grass",
+    "natural": "play around",
+    "meaning": {
+      "en": "To flirt or have casual affairs with many people.",
+      "zh": "比喻到处挑逗异性，行为不检点。"
+    },
+    "equivalents": [
+      "play the field",
+      "be a womaniser (or flirt around)"
+    ],
+    "examples": [
+      {
+        "zh": "他结了婚还到处拈花惹草。",
+        "en": "Even married, he flirts with anyone who comes along."
+      },
+      {
+        "zh": "别以为出差就可以拈花惹草。",
+        "en": "Don't think a business trip is a licence to fool around."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving, usually of men.",
+      "zh": "多作谓语，含贬义，多指男子。"
+    },
+    "synonyms": [
+      "寻花问柳",
+      "朝三暮四",
+      "水性杨花"
+    ],
+    "antonyms": [
+      "洁身自好",
+      "从一而终"
+    ]
+  },
+  {
+    "id": "chi-li-pa-wai",
+    "text": "吃里扒外",
+    "pinyin": "chī lǐ pá wài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "吃里爬外"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal"
+    ],
+    "literal": "eat · inside · claw · outside",
+    "natural": "bite the hand that feeds",
+    "meaning": {
+      "en": "To take benefits from one side while working for another.",
+      "zh": "受着这一方的好处，却为另一方办事。"
+    },
+    "equivalents": [
+      "bite the hand that feeds one",
+      "be a traitor within"
+    ],
+    "examples": [
+      {
+        "zh": "公司里有人吃里扒外，把客户名单卖给了对手。",
+        "en": "Someone in the company has betrayed it by selling the client list to a rival."
+      },
+      {
+        "zh": "你这个吃里扒外的东西！",
+        "en": "You traitor, biting the hand that feeds you!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; strongly disapproving.",
+      "zh": "多作谓语、定语，贬义很强。"
+    },
+    "synonyms": [
+      "里通外国",
+      "忘恩负义"
+    ],
+    "antonyms": [
+      "忠心耿耿",
+      "赤胆忠心"
+    ]
+  },
+  {
+    "id": "tian-xia-yi-jia",
+    "text": "天下一家",
+    "pinyin": "tiān xià yī jiā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "relationships"
+    ],
+    "literal": "under heaven · one · family",
+    "natural": "the world is one family",
+    "meaning": {
+      "en": "All the world as one family.",
+      "zh": "全天下的人像一家人一样。"
+    },
+    "equivalents": [
+      "the world as one family",
+      "all under heaven are one family"
+    ],
+    "examples": [
+      {
+        "zh": "奥运会的精神就是天下一家。",
+        "en": "The Olympic spirit is that the world is one family."
+      },
+      {
+        "zh": "他主张天下一家，反对战争。",
+        "en": "He believes the world is one family and opposes war."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or slogan.",
+      "zh": "多作谓语或口号。"
+    },
+    "synonyms": [
+      "四海一家",
+      "四海之内皆兄弟",
+      "世界大同"
+    ],
+    "antonyms": [
+      "天各一方",
+      "分崩离析"
+    ]
+  },
+  {
+    "id": "huang-qin-guo-qi",
+    "text": "皇亲国戚",
+    "pinyin": "huáng qīn guó qī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "society",
+      "family-and-home"
+    ],
+    "literal": "emperor · kin · state · relatives",
+    "natural": "royal relatives",
+    "meaning": {
+      "en": "The relatives of the emperor; the well-connected elite.",
+      "zh": "皇帝的亲族和外戚，泛指有权势的贵族。"
+    },
+    "equivalents": [
+      "royal relatives",
+      "the well-connected elite"
+    ],
+    "examples": [
+      {
+        "zh": "他说自己不是皇亲国戚，没有什么特权。",
+        "en": "He says he's no royal relative and enjoys no privileges."
+      },
+      {
+        "zh": "朝中皇亲国戚很多，谁也不敢得罪。",
+        "en": "The court was full of royal relatives, and no one dared offend them."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; also humorous for the well-connected.",
+      "zh": "作主语、宾语，也可戏称有背景的人。"
+    },
+    "synonyms": [
+      "达官贵人",
+      "王公贵族"
+    ],
+    "antonyms": [
+      "平民百姓",
+      "草民"
+    ]
+  },
+  {
+    "id": "guang-zhong-bo-shou",
+    "text": "广种薄收",
+    "pinyin": "guǎng zhòng bó shōu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "efficiency"
+    ],
+    "literal": "widely · sow · thin · harvest",
+    "natural": "sow widely, reap little",
+    "meaning": {
+      "en": "To sow a large area but harvest little; large effort, low yield.",
+      "zh": "种的面积大，但收成少，比喻投入多而收获少。"
+    },
+    "equivalents": [
+      "sow widely and reap little",
+      "spread thin for little return"
+    ],
+    "examples": [
+      {
+        "zh": "过去的农业是广种薄收，如今讲究精耕细作。",
+        "en": "Farming used to be sow widely and reap little; today it stresses intensive cultivation."
+      },
+      {
+        "zh": "广种薄收的经营方式已经行不通了。",
+        "en": "The scattergun approach with little return no longer works."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; literal and figurative.",
+      "zh": "多作谓语、定语，可指农业也可比喻。"
+    },
+    "synonyms": [
+      "事倍功半",
+      "徒劳无功"
+    ],
+    "antonyms": [
+      "精耕细作",
+      "事半功倍"
+    ]
+  },
+  {
+    "id": "gao-lao-huan-xiang",
+    "text": "告老还乡",
+    "pinyin": "gào lǎo huán xiāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "experience-and-old-age"
+    ],
+    "literal": "request · old age · return · home village",
+    "natural": "retire to one's hometown",
+    "meaning": {
+      "en": "To retire from office and return to one's hometown.",
+      "zh": "官员年老辞职，回到家乡。"
+    },
+    "equivalents": [
+      "retire to one's hometown",
+      "hang up one's official hat"
+    ],
+    "examples": [
+      {
+        "zh": "他做了几十年官，终于告老还乡。",
+        "en": "After decades in office, he finally retired to his hometown."
+      },
+      {
+        "zh": "爷爷告老还乡后，在村里种起了菜。",
+        "en": "After retiring to his home village, Grandpa took up growing vegetables."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; historical or humorous.",
+      "zh": "多作谓语，多用于古代或幽默语境。"
+    },
+    "synonyms": [
+      "解甲归田",
+      "衣锦还乡",
+      "辞官归隐"
+    ],
+    "antonyms": [
+      "恋栈不去"
+    ]
+  },
+  {
+    "id": "sheng-ru-hong-zhong",
+    "text": "声如洪钟",
+    "pinyin": "shēng rú hóng zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "body"
+    ],
+    "literal": "voice · like · great · bell",
+    "natural": "a booming voice",
+    "meaning": {
+      "en": "Having a loud, resonant voice.",
+      "zh": "说话声音洪亮，像大钟发出的声响。"
+    },
+    "equivalents": [
+      "booming voice",
+      "a voice like a bell"
+    ],
+    "examples": [
+      {
+        "zh": "老爷子八十多岁了，依然声如洪钟。",
+        "en": "The old man is over eighty but still has a booming voice."
+      },
+      {
+        "zh": "教练声如洪钟，全场都听得见。",
+        "en": "The coach's voice boomed so everyone could hear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "洪亮清脆",
+      "中气十足"
+    ],
+    "antonyms": [
+      "细声细气",
+      "蚊声细语"
+    ]
+  },
+  {
+    "id": "ting-er-bu-wen",
+    "text": "听而不闻",
+    "pinyin": "tīng ér bù wén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "hear · yet · not · hear",
+    "natural": "turn a deaf ear",
+    "meaning": {
+      "en": "To hear but pay no attention.",
+      "zh": "听了跟没听见一样，指不重视、不理睬。"
+    },
+    "equivalents": [
+      "turn a deaf ear",
+      "pay no heed"
+    ],
+    "examples": [
+      {
+        "zh": "别人再三劝他，他却听而不闻。",
+        "en": "He turned a deaf ear to everyone's repeated advice."
+      },
+      {
+        "zh": "对群众的意见不能听而不闻。",
+        "en": "We must not ignore what the public says."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; see also 视而不见.",
+      "zh": "多作谓语，常与“视而不见”连用。"
+    },
+    "synonyms": [
+      "充耳不闻",
+      "置若罔闻",
+      "视而不见"
+    ],
+    "antonyms": [
+      "洗耳恭听",
+      "虚心听取"
+    ]
+  },
+  {
+    "id": "yu-qu-yu-qiu",
+    "text": "予取予求",
+    "pinyin": "yú qǔ yú qiú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "I · take · I · demand",
+    "natural": "take whatever one likes",
+    "meaning": {
+      "en": "To take and demand freely, as one pleases.",
+      "zh": "本指随我索取，现多指任意索取、毫无顾忌。"
+    },
+    "equivalents": [
+      "help oneself to whatever one wants",
+      "take without restraint"
+    ],
+    "examples": [
+      {
+        "zh": "他把父母当成提款机，予取予求。",
+        "en": "He treats his parents like a cash machine and takes whatever he wants."
+      },
+      {
+        "zh": "她以为我会对她予取予求，那就错了。",
+        "en": "She thinks I'll give her whatever she asks; she's wrong."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 任其予取予求.",
+      "zh": "多作谓语，常说“任其予取予求”。"
+    },
+    "synonyms": [
+      "任意索取",
+      "肆意妄为"
+    ],
+    "antonyms": [
+      "克己奉公",
+      "分文不取"
+    ]
+  },
+  {
+    "id": "dou-kou-nian-hua",
+    "text": "豆蔻年华",
+    "pinyin": "dòu kòu nián huá",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "fleeting-time"
+    ],
+    "literal": "cardamom · bud · years · bloom",
+    "natural": "a girl's early teens",
+    "meaning": {
+      "en": "The age of about thirteen or fourteen, said of a girl.",
+      "zh": "指女子十三四岁的美好年纪。"
+    },
+    "equivalents": [
+      "a girl in her early teens",
+      "the tender age of youth"
+    ],
+    "examples": [
+      {
+        "zh": "她正值豆蔻年华，对世界充满好奇。",
+        "en": "She is in the bloom of early girlhood, full of curiosity about the world."
+      },
+      {
+        "zh": "豆蔻年华的少女最爱做梦。",
+        "en": "Girls in their early teens love to dream."
+      }
+    ],
+    "origin": {
+      "source": "杜牧《赠别》",
+      "story": {
+        "en": "Du Mu's poem describes a girl of thirteen or so: 'Slender and graceful, a little over thirteen, like a cardamom bud in early spring' (娉娉袅袅十三余，豆蔻梢头二月初).",
+        "zh": "杜牧《赠别》：“娉娉袅袅十三余，豆蔻梢头二月初。”"
+      }
+    },
+    "usage": {
+      "en": "Refers only to young girls.",
+      "zh": "专指少女。"
+    },
+    "synonyms": [
+      "二八年华",
+      "花样年华"
+    ],
+    "antonyms": [
+      "年迈体衰"
+    ]
+  },
+  {
+    "id": "tong-kuai-lin-li",
+    "text": "痛快淋漓",
+    "pinyin": "tòng kuài lín lí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "keen · joyful · dripping · soaked",
+    "natural": "thoroughly satisfying",
+    "meaning": {
+      "en": "Utterly satisfying, with every bit of feeling released.",
+      "zh": "形容非常痛快，尽情尽兴。"
+    },
+    "equivalents": [
+      "thoroughly satisfying",
+      "utterly cathartic"
+    ],
+    "examples": [
+      {
+        "zh": "这场球赢得痛快淋漓。",
+        "en": "It was a thoroughly satisfying win."
+      },
+      {
+        "zh": "他把心里话痛快淋漓地说了出来。",
+        "en": "He said everything on his mind, and it felt wonderful."
+      }
+    ],
+    "usage": {
+      "en": "Complement or adverbial.",
+      "zh": "多作补语、状语。"
+    },
+    "synonyms": [
+      "酣畅淋漓",
+      "大快人心",
+      "淋漓尽致"
+    ],
+    "antonyms": [
+      "憋屈",
+      "郁郁寡欢"
+    ]
+  },
+  {
+    "id": "fang-hu-gui-shan",
+    "text": "放虎归山",
+    "pinyin": "fàng hǔ guī shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "纵虎归山"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "danger"
+    ],
+    "literal": "release · tiger · return · mountain",
+    "natural": "let the tiger go back to the mountain",
+    "meaning": {
+      "en": "To release a dangerous enemy and leave a future threat.",
+      "zh": "把敌人放走，留下后患。"
+    },
+    "equivalents": [
+      "let a dangerous enemy go",
+      "sow the seeds of future trouble"
+    ],
+    "examples": [
+      {
+        "zh": "现在放了他，等于放虎归山。",
+        "en": "Letting him go now would be releasing a tiger back into the mountains."
+      },
+      {
+        "zh": "斩草要除根，不可放虎归山。",
+        "en": "Root out the weeds completely; don't leave a threat behind."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "养虎遗患",
+      "后患无穷"
+    ],
+    "antonyms": [
+      "斩草除根",
+      "除恶务尽"
+    ]
+  },
+  {
+    "id": "you-fu-tong-xiang",
+    "text": "有福同享",
+    "pinyin": "yǒu fú tóng xiǎng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "positive-character-qualities"
+    ],
+    "literal": "have · fortune · together · enjoy",
+    "natural": "share the good times",
+    "meaning": {
+      "en": "To share good fortune with others.",
+      "zh": "有了好处大家一起享受。"
+    },
+    "equivalents": [
+      "share the good times",
+      "share one's good fortune"
+    ],
+    "examples": [
+      {
+        "zh": "好朋友就该有福同享，有难同当。",
+        "en": "Good friends share both good fortune and hardship."
+      },
+      {
+        "zh": "他有福同享，从不独占好处。",
+        "en": "He shares his luck and never keeps the benefits to himself."
+      }
+    ],
+    "usage": {
+      "en": "Usually paired with 有难同当.",
+      "zh": "常与“有难同当”连用。"
+    },
+    "synonyms": [
+      "同甘共苦",
+      "福祸与共"
+    ],
+    "antonyms": [
+      "独吞",
+      "有难不顾"
+    ]
+  },
+  {
+    "id": "feng-su-ren-qing",
+    "text": "风俗人情",
+    "pinyin": "fēng sú rén qíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture"
+    ],
+    "literal": "custom · habit · human · feeling",
+    "natural": "local customs and mores",
+    "meaning": {
+      "en": "Local customs and social etiquette.",
+      "zh": "一个地方的风俗习惯和人情世故。"
+    },
+    "equivalents": [
+      "local customs",
+      "manners and customs"
+    ],
+    "examples": [
+      {
+        "zh": "出国前先了解当地的风俗人情。",
+        "en": "Before going abroad, learn about the local customs."
+      },
+      {
+        "zh": "这本书介绍了各地的风俗人情。",
+        "en": "This book describes the customs of different regions."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject.",
+      "zh": "多作宾语、主语。"
+    },
+    "synonyms": [
+      "民俗风情",
+      "世情民风"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "te-li-du-xing",
+    "text": "特立独行",
+    "pinyin": "tè lì dú xíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "conformity-and-imitation",
+      "confucian-classics"
+    ],
+    "literal": "unique · stand · alone · act",
+    "natural": "independent-minded",
+    "meaning": {
+      "en": "To hold one's own principles and act independently of the crowd.",
+      "zh": "有操守有见解，不随波逐流。"
+    },
+    "equivalents": [
+      "march to one's own drum",
+      "fiercely independent"
+    ],
+    "examples": [
+      {
+        "zh": "他是个特立独行的艺术家。",
+        "en": "He is an artist who marches to his own drum."
+      },
+      {
+        "zh": "她特立独行，从不在意别人怎么看。",
+        "en": "She's fiercely independent and doesn't care what others think."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·儒行》",
+      "story": {
+        "en": "The Liji describes the scholar who 'stands apart and acts alone' (其特立独行有如此者).",
+        "zh": "《礼记·儒行》：“其特立独行有如此者。”"
+      }
+    },
+    "usage": {
+      "en": "Attributive or predicate; mostly positive, sometimes neutral.",
+      "zh": "多作定语、谓语，多含褒义。"
+    },
+    "synonyms": [
+      "独树一帜",
+      "标新立异",
+      "卓尔不群"
+    ],
+    "antonyms": [
+      "随波逐流",
+      "人云亦云"
+    ]
+  },
+  {
+    "id": "tong-chuang-gong-zhen",
+    "text": "同床共枕",
+    "pinyin": "tóng chuáng gòng zhěn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage"
+    ],
+    "literal": "same · bed · share · pillow",
+    "natural": "share a bed",
+    "meaning": {
+      "en": "To share a bed; to be husband and wife.",
+      "zh": "同睡一张床，指夫妻生活在一起。"
+    },
+    "equivalents": [
+      "share a bed",
+      "be husband and wife"
+    ],
+    "examples": [
+      {
+        "zh": "他们同床共枕二十年，从没吵过架。",
+        "en": "They shared a bed for twenty years and never quarrelled."
+      },
+      {
+        "zh": "同床共枕的人，竟是最陌生的人。",
+        "en": "The one who shares your pillow turns out to be the biggest stranger."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "举案齐眉",
+      "相濡以沫"
+    ],
+    "antonyms": [
+      "同床异梦",
+      "分道扬镳"
+    ]
+  },
+  {
+    "id": "yi-yong-er-ru",
+    "text": "一拥而入",
+    "pinyin": "yī yōng ér rù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "chaos",
+      "numbers"
+    ],
+    "literal": "one · crowd · and · enter",
+    "natural": "pile in",
+    "meaning": {
+      "en": "To crowd in all at once.",
+      "zh": "一下子成群地涌进去。"
+    },
+    "equivalents": [
+      "pile in",
+      "pour in all at once"
+    ],
+    "examples": [
+      {
+        "zh": "门一开，乘客们一拥而入。",
+        "en": "The moment the door opened, passengers piled in."
+      },
+      {
+        "zh": "记者们一拥而入，把会议室挤满了。",
+        "en": "The reporters poured in and packed the meeting room."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "蜂拥而至",
+      "涌入"
+    ],
+    "antonyms": [
+      "鱼贯而入",
+      "井然有序"
+    ]
+  },
+  {
+    "id": "li-qing-qing-yi-zhong",
+    "text": "礼轻情意重",
+    "pinyin": "lǐ qīng qíng yì zhòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "polite-humble",
+      "relationships"
+    ],
+    "literal": "gift · light · feeling · meaning · heavy",
+    "natural": "it's the thought that counts",
+    "meaning": {
+      "en": "The gift may be small, but the feeling behind it is deep.",
+      "zh": "礼物虽然微薄，情意却很深厚。"
+    },
+    "equivalents": [
+      "it's the thought that counts",
+      "small gift, big heart"
+    ],
+    "examples": [
+      {
+        "zh": "礼轻情意重，这点心意请收下。",
+        "en": "It's not much, but it's the thought that counts; please accept it."
+      },
+      {
+        "zh": "千里送鹅毛，礼轻情意重。",
+        "en": "A goose feather sent from a thousand miles away: the gift is slight, but the feeling is great."
+      }
+    ],
+    "usage": {
+      "en": "Said when giving or receiving a gift.",
+      "zh": "送礼或收礼时的客套话。"
+    },
+    "synonyms": [
+      "千里送鹅毛",
+      "心意最重要"
+    ],
+    "antonyms": [
+      "礼重情轻"
+    ]
+  },
+  {
+    "id": "ku-da-chou-shen",
+    "text": "苦大仇深",
+    "pinyin": "kǔ dà chóu shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "revenge-and-retribution"
+    ],
+    "literal": "bitterness · great · hatred · deep",
+    "natural": "steeped in bitterness and grievance",
+    "meaning": {
+      "en": "Having suffered much and nursing a deep grudge; today often jokingly, of a gloomy face.",
+      "zh": "受的苦大，仇恨深；现常戏指一脸愁苦的样子。"
+    },
+    "equivalents": [
+      "steeped in suffering and grievance",
+      "wearing a long face"
+    ],
+    "examples": [
+      {
+        "zh": "他整天一副苦大仇深的样子。",
+        "en": "He walks around all day with a face full of woe."
+      },
+      {
+        "zh": "别苦大仇深的，今天是好日子。",
+        "en": "Don't look so grim; it's a happy day."
+      }
+    ],
+    "usage": {
+      "en": "Often 一脸/一副苦大仇深.",
+      "zh": "常说“一脸苦大仇深”。"
+    },
+    "synonyms": [
+      "愁眉苦脸",
+      "忧心忡忡"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ]
+  },
+  {
+    "id": "shui-huo-bu-xiang-rong",
+    "text": "水火不相容",
+    "pinyin": "shuǐ huǒ bù xiāng róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "water · fire · not · mutually · tolerate",
+    "natural": "like fire and water",
+    "meaning": {
+      "en": "Totally incompatible, like water and fire.",
+      "zh": "像水和火一样不能相容，形容两者对立。"
+    },
+    "equivalents": [
+      "like oil and water",
+      "mutually exclusive"
+    ],
+    "examples": [
+      {
+        "zh": "这两个人的性格水火不相容。",
+        "en": "The two have temperaments like oil and water."
+      },
+      {
+        "zh": "他们是水火不相容的死对头。",
+        "en": "They are sworn enemies who can't stand each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "势不两立",
+      "针锋相对",
+      "冰炭不容"
+    ],
+    "antonyms": [
+      "水乳交融",
+      "情投意合"
+    ]
+  },
+  {
+    "id": "chu-yi-gong-xin",
+    "text": "出以公心",
+    "pinyin": "chū yǐ gōng xīn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "news-and-officialese"
+    ],
+    "literal": "act · with · public · heart",
+    "natural": "act in the public interest",
+    "meaning": {
+      "en": "To act from impartial, public-spirited motives.",
+      "zh": "处理事情从公正、公共利益出发。"
+    },
+    "equivalents": [
+      "act impartially",
+      "act in the public interest"
+    ],
+    "examples": [
+      {
+        "zh": "评审应当出以公心，不徇私情。",
+        "en": "The judges should act impartially and show no favouritism."
+      },
+      {
+        "zh": "他处理问题始终出以公心。",
+        "en": "He always handles matters with the public interest at heart."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "大公无私",
+      "秉公办事",
+      "公正无私"
+    ],
+    "antonyms": [
+      "假公济私",
+      "徇私舞弊"
+    ]
+  }
+]

@@ -96,13 +96,17 @@
     "id": "shang-xia-yi-xin",
     "text": "上下一心",
     "pinyin": "shàng xià yī xīn",
+    "variants": [
+      "上下同心"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "leadership-and-authority",
-      "successful-completion"
+      "successful-completion",
+      "unity-and-cooperation"
     ],
     "literal": "above · below · one · heart",
     "natural": "united from top to bottom",
@@ -235,11 +239,11 @@
     "id": "yan-ji-shou-kuai",
     "text": "眼疾手快",
     "pinyin": "yǎn jí shǒu kuài",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "手疾眼快"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -330,11 +334,11 @@
     "id": "yi-xiao-liao-zhi",
     "text": "一笑了之",
     "pinyin": "yī xiào liǎo zhī",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "一笑置之"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -659,11 +663,11 @@
     "id": "zhi-yi-xing-nan",
     "text": "知易行难",
     "pinyin": "zhī yì xíng nán",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "说易行难"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -900,11 +904,11 @@
     "id": "pi-tou-gai-lian",
     "text": "劈头盖脸",
     "pinyin": "pī tóu gài liǎn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "兜头盖脸"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -995,11 +999,11 @@
     "id": "tuo-shou-ke-de",
     "text": "唾手可得",
     "pinyin": "tuò shǒu kě dé",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "垂手可得"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

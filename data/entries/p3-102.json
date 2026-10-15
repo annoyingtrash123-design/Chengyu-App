@@ -1,0 +1,1062 @@
+[
+  {
+    "id": "shou-zu-zhi-qing",
+    "text": "手足之情",
+    "pinyin": "shǒu zú zhī qíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "family-and-home"
+    ],
+    "literal": "hands · feet · 's · feeling",
+    "natural": "brotherly love",
+    "meaning": {
+      "en": "The bond between brothers (or close friends).",
+      "zh": "兄弟之间像手和脚一样密切的感情。"
+    },
+    "equivalents": [
+      "brotherly love",
+      "fraternal bond"
+    ],
+    "examples": [
+      {
+        "zh": "兄弟俩手足之情深厚，从不争吵。",
+        "en": "The brothers share a deep bond and never quarrel."
+      },
+      {
+        "zh": "他们虽无血缘，却有手足之情。",
+        "en": "Though not related by blood, they share a brotherly bond."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject; see 情同手足.",
+      "zh": "多作宾语、主语，参见“情同手足”。"
+    },
+    "synonyms": [
+      "骨肉亲情",
+      "兄弟情谊"
+    ],
+    "antonyms": [
+      "手足相残",
+      "骨肉相残"
+    ]
+  },
+  {
+    "id": "man-fu-hu-yi",
+    "text": "满腹狐疑",
+    "pinyin": "mǎn fù hú yí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "full · belly · fox · suspicion",
+    "natural": "full of suspicion",
+    "meaning": {
+      "en": "Full of doubts and suspicions.",
+      "zh": "一肚子的怀疑。"
+    },
+    "equivalents": [
+      "full of suspicion",
+      "deeply doubtful"
+    ],
+    "examples": [
+      {
+        "zh": "听了他的解释，大家仍然满腹狐疑。",
+        "en": "After hearing his explanation, everyone was still full of doubt."
+      },
+      {
+        "zh": "她满腹狐疑地打开了信封。",
+        "en": "She opened the envelope full of suspicion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "疑神疑鬼",
+      "半信半疑"
+    ],
+    "antonyms": [
+      "深信不疑",
+      "坚信不移"
+    ]
+  },
+  {
+    "id": "ben-xiang-ben-tu",
+    "text": "本乡本土",
+    "pinyin": "běn xiāng běn tǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "family-and-home"
+    ],
+    "literal": "own · village · own · soil",
+    "natural": "one's native place",
+    "meaning": {
+      "en": "One's own home area.",
+      "zh": "自己出生、成长的地方。"
+    },
+    "equivalents": [
+      "one's native soil",
+      "one's home turf"
+    ],
+    "examples": [
+      {
+        "zh": "他从没离开过本乡本土。",
+        "en": "He has never left his native place."
+      },
+      {
+        "zh": "本乡本土的人，办事方便些。",
+        "en": "Locals find it easier to get things done."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive.",
+      "zh": "多作宾语、定语。"
+    },
+    "synonyms": [
+      "故土",
+      "家乡"
+    ],
+    "antonyms": [
+      "异国他乡",
+      "背井离乡"
+    ]
+  },
+  {
+    "id": "sheng-se-ju-li",
+    "text": "声色俱厉",
+    "pinyin": "shēng sè jù lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger",
+      "negative-character-flaws"
+    ],
+    "literal": "voice · expression · both · stern",
+    "natural": "stern in voice and face",
+    "meaning": {
+      "en": "Speaking harshly with a severe expression.",
+      "zh": "说话的声音和脸色都很严厉。"
+    },
+    "equivalents": [
+      "stern in voice and look",
+      "speak sharply"
+    ],
+    "examples": [
+      {
+        "zh": "老师声色俱厉地批评了他。",
+        "en": "The teacher rebuked him with a stern voice and face."
+      },
+      {
+        "zh": "他声色俱厉，吓得孩子们不敢出声。",
+        "en": "His harsh voice and glare frightened the children into silence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "疾言厉色",
+      "厉声厉色"
+    ],
+    "antonyms": [
+      "和颜悦色",
+      "轻言细语"
+    ]
+  },
+  {
+    "id": "jia-dao-zhong-luo",
+    "text": "家道中落",
+    "pinyin": "jiā dào zhōng luò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "bad-fortune",
+      "poverty-and-hardship"
+    ],
+    "literal": "family · fortunes · midway · decline",
+    "natural": "the family fortunes decline",
+    "meaning": {
+      "en": "For a family's fortunes to decline.",
+      "zh": "家庭的经济状况由盛转衰。"
+    },
+    "equivalents": [
+      "the family fell on hard times",
+      "the family fortunes declined"
+    ],
+    "examples": [
+      {
+        "zh": "他年少时家道中落，不得不辍学。",
+        "en": "His family fell on hard times when he was young, and he had to leave school."
+      },
+      {
+        "zh": "这位作家出身名门，后来家道中落。",
+        "en": "The writer came from a distinguished family that later declined."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "家境衰落",
+      "门庭冷落"
+    ],
+    "antonyms": [
+      "家道殷实",
+      "飞黄腾达"
+    ]
+  },
+  {
+    "id": "mian-shou-ji-yi",
+    "text": "面授机宜",
+    "pinyin": "miàn shòu jī yí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "military-strategy-and-victory"
+    ],
+    "literal": "face to face · give · opportunity · suitable",
+    "natural": "give instructions in person",
+    "meaning": {
+      "en": "To give detailed confidential instructions in person.",
+      "zh": "当面传授应付事情的方法和策略。"
+    },
+    "equivalents": [
+      "give private instructions",
+      "brief someone in person"
+    ],
+    "examples": [
+      {
+        "zh": "出发前，老板面授机宜，交代了注意事项。",
+        "en": "Before departure, the boss briefed him in person on what to watch for."
+      },
+      {
+        "zh": "经理对新人面授机宜。",
+        "en": "The manager coached the newcomers face to face."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "耳提面命",
+      "当面指点"
+    ],
+    "antonyms": [
+      "自生自灭"
+    ]
+  },
+  {
+    "id": "hou-lai-zhe-ju-shang",
+    "text": "后来者居上",
+    "pinyin": "hòu lái zhě jū shàng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "innovation-and-progress",
+      "historical-records"
+    ],
+    "literal": "later · come · ones · occupy · top",
+    "natural": "latecomers overtake",
+    "meaning": {
+      "en": "Those who come later overtake those who came before.",
+      "zh": "后来的人超过先来的人。"
+    },
+    "equivalents": [
+      "latecomers overtake",
+      "the new generation surpasses the old"
+    ],
+    "examples": [
+      {
+        "zh": "新品牌后来者居上，市场份额超过了老牌子。",
+        "en": "The new brand has overtaken the old, taking a larger market share."
+      },
+      {
+        "zh": "后来者居上，年轻选手打破了纪录。",
+        "en": "The newcomers took the lead, and a young athlete broke the record."
+      }
+    ],
+    "origin": {
+      "source": "《史记·汲郑列传》",
+      "story": {
+        "en": "Ji An complained to Emperor Wu: 'Your Majesty employs ministers like stacking firewood; those who come later end up on top' (后来者居上).",
+        "zh": "汲黯对汉武帝说：“陛下用群臣如积薪耳，后来者居上。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or standalone saying.",
+      "zh": "多作谓语或独立成句。"
+    },
+    "synonyms": [
+      "青出于蓝",
+      "长江后浪推前浪",
+      "后来居上"
+    ],
+    "antonyms": [
+      "先入为主",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "wu-jing-tian-ze",
+    "text": "物竞天择",
+    "pinyin": "wù jìng tiān zé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "natural-consequences",
+      "competition-and-rivalry"
+    ],
+    "literal": "creatures · compete · nature · selects",
+    "natural": "survival of the fittest",
+    "meaning": {
+      "en": "Living things compete and nature selects the fittest.",
+      "zh": "生物互相竞争，适应环境的被自然保留下来。"
+    },
+    "equivalents": [
+      "survival of the fittest",
+      "natural selection"
+    ],
+    "examples": [
+      {
+        "zh": "物竞天择，适者生存。",
+        "en": "Creatures compete and nature selects: the fittest survive."
+      },
+      {
+        "zh": "市场中也存在物竞天择的规律。",
+        "en": "The law of natural selection operates in the market too."
+      }
+    ],
+    "origin": {
+      "source": "严复译《天演论》",
+      "story": {
+        "en": "Yan Fu's translation of Huxley's Evolution and Ethics popularised the phrase for natural selection.",
+        "zh": "严复翻译赫胥黎《天演论》时提出，用来概括生物进化的规律。"
+      }
+    },
+    "usage": {
+      "en": "Usually 物竞天择，适者生存.",
+      "zh": "常说“物竞天择，适者生存”。"
+    },
+    "synonyms": [
+      "适者生存",
+      "优胜劣汰"
+    ],
+    "antonyms": [
+      "听天由命"
+    ]
+  },
+  {
+    "id": "mo-dao-bu-wu-kan-chai-gong",
+    "text": "磨刀不误砍柴工",
+    "pinyin": "mó dāo bù wù kǎn chái gōng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "wisdom",
+      "time-management",
+      "rural-wisdom"
+    ],
+    "literal": "sharpen · knife · not · delay · chop · firewood · work",
+    "natural": "sharpen the axe first",
+    "meaning": {
+      "en": "Taking time to prepare does not slow the real work.",
+      "zh": "磨刀花的时间不会耽误砍柴，比喻准备工作做好了，做事更快。"
+    },
+    "equivalents": [
+      "sharpening the axe saves time",
+      "a stitch in time"
+    ],
+    "examples": [
+      {
+        "zh": "先把资料整理好，磨刀不误砍柴工。",
+        "en": "Organise the materials first; sharpening the axe won't delay the chopping."
+      },
+      {
+        "zh": "磨刀不误砍柴工，多花点时间备课是值得的。",
+        "en": "Preparation pays off; time spent planning lessons is well spent."
+      }
+    ],
+    "usage": {
+      "en": "Standalone saying.",
+      "zh": "多独立成句。"
+    },
+    "synonyms": [
+      "未雨绸缪",
+      "工欲善其事必先利其器"
+    ],
+    "antonyms": [
+      "临时抱佛脚",
+      "草率行事"
+    ]
+  },
+  {
+    "id": "tan-nang-qu-wu",
+    "text": "探囊取物",
+    "pinyin": "tàn náng qǔ wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "reach into · bag · take · object",
+    "natural": "as easy as taking something from a pocket",
+    "meaning": {
+      "en": "As easy as taking an object from one's bag.",
+      "zh": "伸手到口袋里拿东西，比喻事情很容易办到。"
+    },
+    "equivalents": [
+      "a piece of cake",
+      "as easy as pie"
+    ],
+    "examples": [
+      {
+        "zh": "对他来说，赢这场比赛如探囊取物。",
+        "en": "For him, winning this match is a piece of cake."
+      },
+      {
+        "zh": "这种小题目，他探囊取物般就解决了。",
+        "en": "He solved this minor problem as easily as reaching into a pocket."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 如探囊取物.",
+      "zh": "多作谓语，常说“如探囊取物”。"
+    },
+    "synonyms": [
+      "易如反掌",
+      "唾手可得",
+      "手到擒来"
+    ],
+    "antonyms": [
+      "难如登天",
+      "谈何容易"
+    ]
+  },
+  {
+    "id": "bing-mo-chan-shen",
+    "text": "病魔缠身",
+    "pinyin": "bìng mó chán shēn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "illness · demon · entangle · body",
+    "natural": "plagued by illness",
+    "meaning": {
+      "en": "Dogged by serious illness.",
+      "zh": "被疾病长期折磨。"
+    },
+    "equivalents": [
+      "plagued by illness",
+      "racked with disease"
+    ],
+    "examples": [
+      {
+        "zh": "他长年病魔缠身，却依然乐观。",
+        "en": "Plagued by illness for years, he is still optimistic."
+      },
+      {
+        "zh": "老人病魔缠身，生活不能自理。",
+        "en": "The old man, racked by illness, cannot look after himself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "疾病缠身",
+      "体弱多病"
+    ],
+    "antonyms": [
+      "身强体壮",
+      "健步如飞"
+    ]
+  },
+  {
+    "id": "qiang-yan-huan-xiao",
+    "text": "强颜欢笑",
+    "pinyin": "qiǎng yán huān xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "complex-emotional-states"
+    ],
+    "literal": "force · face · happy · laugh",
+    "natural": "force a smile",
+    "meaning": {
+      "en": "To put on a smile despite sorrow.",
+      "zh": "心里不痛快，却勉强装出笑脸。"
+    },
+    "equivalents": [
+      "force a smile",
+      "put on a brave face"
+    ],
+    "examples": [
+      {
+        "zh": "她强颜欢笑，不想让父母担心。",
+        "en": "She forced a smile so as not to worry her parents."
+      },
+      {
+        "zh": "他在宴会上强颜欢笑，心里却很苦。",
+        "en": "At the banquet he put on a brave face, though he was miserable inside."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "强作欢颜",
+      "故作镇定"
+    ],
+    "antonyms": [
+      "开怀大笑",
+      "喜笑颜开"
+    ]
+  },
+  {
+    "id": "zheng-ren-jun-zi",
+    "text": "正人君子",
+    "pinyin": "zhèng rén jūn zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "upright · person · gentleman",
+    "natural": "an honourable man",
+    "meaning": {
+      "en": "A person of upright character; often used ironically.",
+      "zh": "品行端正的人，有时用于讽刺假装正派的人。"
+    },
+    "equivalents": [
+      "a man of integrity",
+      "a paragon of virtue (ironic)"
+    ],
+    "examples": [
+      {
+        "zh": "他是个正人君子，从不占别人便宜。",
+        "en": "He is an honourable man who never takes advantage of others."
+      },
+      {
+        "zh": "别装什么正人君子了，大家都知道你干了什么。",
+        "en": "Stop playing the saint; everyone knows what you did."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; may be ironic.",
+      "zh": "作主语、宾语，也可用于反讽。"
+    },
+    "synonyms": [
+      "谦谦君子",
+      "坦荡君子"
+    ],
+    "antonyms": [
+      "伪君子",
+      "卑鄙小人"
+    ]
+  },
+  {
+    "id": "ren-shen-gong-fen",
+    "text": "人神共愤",
+    "pinyin": "rén shén gòng fèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "anger",
+      "corruption-and-injustice"
+    ],
+    "literal": "men · gods · together · outraged",
+    "natural": "outrageous to all",
+    "meaning": {
+      "en": "Enraging both people and gods.",
+      "zh": "人和神都愤怒，形容罪恶极大，引起公愤。"
+    },
+    "equivalents": [
+      "an outrage to all",
+      "universally condemned"
+    ],
+    "examples": [
+      {
+        "zh": "这起虐待动物的事件令人神共愤。",
+        "en": "The animal cruelty case outraged everyone."
+      },
+      {
+        "zh": "他的罪行人神共愤。",
+        "en": "His crimes are an outrage to man and god alike."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 令人神共愤.",
+      "zh": "多作谓语，常说“令人神共愤”。"
+    },
+    "synonyms": [
+      "天怒人怨",
+      "天人共愤",
+      "令人发指"
+    ],
+    "antonyms": [
+      "大快人心",
+      "人人称道"
+    ]
+  },
+  {
+    "id": "hui-feng-he-chang",
+    "text": "惠风和畅",
+    "pinyin": "huì fēng hé chàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "gentle · breeze · mild · pleasant",
+    "natural": "a mild, gentle breeze",
+    "meaning": {
+      "en": "A soft, gentle breeze that feels pleasant.",
+      "zh": "柔和的风让人感到舒适。"
+    },
+    "equivalents": [
+      "a gentle breeze",
+      "balmy air"
+    ],
+    "examples": [
+      {
+        "zh": "三月里惠风和畅，正适合踏青。",
+        "en": "In March the breeze is mild, just right for an outing."
+      },
+      {
+        "zh": "天朗气清，惠风和畅。",
+        "en": "The sky is clear and the air fresh, with a gentle breeze."
+      }
+    ],
+    "origin": {
+      "source": "王羲之《兰亭集序》",
+      "story": {
+        "en": "Wang Xizhi: 'The day was clear and fresh, the breeze gentle and mild' (天朗气清，惠风和畅).",
+        "zh": "王羲之《兰亭集序》：“是日也，天朗气清，惠风和畅。”"
+      }
+    },
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "描写性，书面语。"
+    },
+    "synonyms": [
+      "和风细雨",
+      "风和日丽"
+    ],
+    "antonyms": [
+      "狂风怒号",
+      "疾风暴雨"
+    ]
+  },
+  {
+    "id": "mu-qi-chen-chen",
+    "text": "暮气沉沉",
+    "pinyin": "mù qì chén chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "experience-and-old-age"
+    ],
+    "literal": "evening · air · heavy · heavy",
+    "natural": "listless and lifeless",
+    "meaning": {
+      "en": "Lacking vitality, as if aged and weary.",
+      "zh": "精神消沉，缺乏朝气。"
+    },
+    "equivalents": [
+      "listless",
+      "lifeless and stagnant"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司暮气沉沉，缺乏创新。",
+        "en": "The company is stagnant and lacks innovation."
+      },
+      {
+        "zh": "年纪轻轻，别这么暮气沉沉的。",
+        "en": "You're young; don't be so lifeless."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "萎靡不振",
+      "老气横秋"
+    ],
+    "antonyms": [
+      "朝气蓬勃",
+      "生机勃勃"
+    ]
+  },
+  {
+    "id": "qing-yan-xi-yu",
+    "text": "轻言细语",
+    "pinyin": "qīng yán xì yǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "轻声细语"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "soft · words · fine · speech",
+    "natural": "speak softly",
+    "meaning": {
+      "en": "Speaking in a soft, gentle voice.",
+      "zh": "说话声音轻柔。"
+    },
+    "equivalents": [
+      "speak softly",
+      "in a gentle voice"
+    ],
+    "examples": [
+      {
+        "zh": "她总是轻言细语，从不发脾气。",
+        "en": "She always speaks softly and never loses her temper."
+      },
+      {
+        "zh": "护士轻言细语地安慰病人。",
+        "en": "The nurse comforted the patient in a gentle voice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "细声细气",
+      "柔声细语"
+    ],
+    "antonyms": [
+      "大声疾呼",
+      "声色俱厉"
+    ]
+  },
+  {
+    "id": "jue-yi-si-zhan",
+    "text": "决一死战",
+    "pinyin": "jué yī sǐ zhàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "decide · one · death · battle",
+    "natural": "fight to the death",
+    "meaning": {
+      "en": "To fight a decisive battle to the death.",
+      "zh": "拼死一战，分个胜负。"
+    },
+    "equivalents": [
+      "fight to the death",
+      "fight a final showdown"
+    ],
+    "examples": [
+      {
+        "zh": "两军在城下决一死战。",
+        "en": "The two armies fought to the death beneath the city walls."
+      },
+      {
+        "zh": "他们决定与对手决一死战。",
+        "en": "They decided to have a final showdown with their rival."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal or dramatic.",
+      "zh": "多作谓语，书面或夸张语气。"
+    },
+    "synonyms": [
+      "背水一战",
+      "破釜沉舟",
+      "殊死搏斗"
+    ],
+    "antonyms": [
+      "望风而逃",
+      "缴械投降"
+    ]
+  },
+  {
+    "id": "hao-bu-jie-yi",
+    "text": "毫不介意",
+    "pinyin": "háo bù jiè yì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "contentment-and-simplicity"
+    ],
+    "literal": "not at all · not · mind · meaning",
+    "natural": "not mind at all",
+    "meaning": {
+      "en": "Not caring in the slightest.",
+      "zh": "一点也不放在心上。"
+    },
+    "equivalents": [
+      "not mind at all",
+      "completely unbothered"
+    ],
+    "examples": [
+      {
+        "zh": "她对别人的议论毫不介意。",
+        "en": "She doesn't mind what others say in the slightest."
+      },
+      {
+        "zh": "他毫不介意地接受了批评。",
+        "en": "He took the criticism without minding in the least."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 对…毫不介意.",
+      "zh": "多作谓语，常说“对……毫不介意”。"
+    },
+    "synonyms": [
+      "满不在乎",
+      "不以为然"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "斤斤计较"
+    ]
+  },
+  {
+    "id": "shu-zhuang-da-ban",
+    "text": "梳妆打扮",
+    "pinyin": "shū zhuāng dǎ bàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fine-dress-and-fashion",
+      "appearance"
+    ],
+    "literal": "comb · make up · dress · adorn",
+    "natural": "get dressed up",
+    "meaning": {
+      "en": "To do one's hair and make-up and dress up.",
+      "zh": "梳头、化妆、穿戴整齐。"
+    },
+    "equivalents": [
+      "do one's hair and make-up",
+      "get dolled up"
+    ],
+    "examples": [
+      {
+        "zh": "她花了一小时梳妆打扮。",
+        "en": "She spent an hour getting made up."
+      },
+      {
+        "zh": "新娘一早就起来梳妆打扮。",
+        "en": "The bride rose early to do her hair and make-up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "精心打扮",
+      "描眉画眼"
+    ],
+    "antonyms": [
+      "不修边幅",
+      "蓬头垢面"
+    ]
+  },
+  {
+    "id": "an-ran-wu-shi",
+    "text": "安然无事",
+    "pinyin": "ān rán wú shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "safely · without · incident",
+    "natural": "come through unharmed",
+    "meaning": {
+      "en": "Safe and sound; free from trouble.",
+      "zh": "平安，没有发生意外。"
+    },
+    "equivalents": [
+      "safe and sound",
+      "come through unscathed"
+    ],
+    "examples": [
+      {
+        "zh": "车翻了，幸好人都安然无事。",
+        "en": "The car overturned, but luckily everyone was safe and sound."
+      },
+      {
+        "zh": "风波过后，公司安然无事。",
+        "en": "After the storm blew over, the company was unscathed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "平安无事",
+      "毫发无损"
+    ],
+    "antonyms": [
+      "大难临头",
+      "危在旦夕"
+    ]
+  },
+  {
+    "id": "shi-heng-bian-ye",
+    "text": "尸横遍野",
+    "pinyin": "shī héng biàn yě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "横尸遍野"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "war",
+      "danger"
+    ],
+    "literal": "corpses · lie sprawled · everywhere · fields",
+    "natural": "corpses strewn across the fields",
+    "meaning": {
+      "en": "Corpses lying everywhere; extreme carnage.",
+      "zh": "到处都是尸体，形容死伤惨重。"
+    },
+    "equivalents": [
+      "corpses strewn everywhere",
+      "scenes of carnage"
+    ],
+    "examples": [
+      {
+        "zh": "战争过后，战场上尸横遍野。",
+        "en": "After the battle, corpses lay strewn across the field."
+      },
+      {
+        "zh": "地震后的村庄尸横遍野，惨不忍睹。",
+        "en": "After the earthquake the village was a horrific scene of bodies."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "血流成河",
+      "哀鸿遍野"
+    ],
+    "antonyms": [
+      "太平盛世",
+      "国泰民安"
+    ]
+  },
+  {
+    "id": "chu-chu-ke-lian",
+    "text": "楚楚可怜",
+    "pinyin": "chǔ chǔ kě lián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "delicate · delicate · can · pity",
+    "natural": "delicately pitiable",
+    "meaning": {
+      "en": "Delicate and appealing in a way that draws sympathy.",
+      "zh": "形容女子娇弱、让人怜爱的样子。"
+    },
+    "equivalents": [
+      "touchingly fragile",
+      "looking so forlorn and appealing"
+    ],
+    "examples": [
+      {
+        "zh": "小姑娘眼里含着泪，楚楚可怜。",
+        "en": "The little girl, tears in her eyes, looked so forlorn."
+      },
+      {
+        "zh": "她装出一副楚楚可怜的样子。",
+        "en": "She put on a pitiful, vulnerable look."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "我见犹怜",
+      "梨花带雨"
+    ],
+    "antonyms": [
+      "泼辣",
+      "凶神恶煞"
+    ]
+  }
+]

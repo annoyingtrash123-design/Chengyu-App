@@ -44,11 +44,11 @@
     "id": "gong-guo-yu-qiu",
     "text": "供过于求",
     "pinyin": "gōng guò yú qiú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "供大于求"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1064,6 +1064,9 @@
     "id": "bu-dong-sheng-se",
     "text": "不动声色",
     "pinyin": "bù dòng shēng sè",
+    "variants": [
+      "不露声色"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

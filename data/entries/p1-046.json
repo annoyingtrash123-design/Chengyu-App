@@ -964,8 +964,11 @@
   },
   {
     "id": "cun-xin-bu-liang",
-    "text": "存心不良",
-    "pinyin": "cún xīn bù liáng",
+    "text": "居心不良",
+    "pinyin": "jū xīn bù liáng",
+    "variants": [
+      "存心不良"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
