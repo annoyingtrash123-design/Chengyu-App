@@ -960,10 +960,13 @@
   },
   {
     "id": "yi-ran-zi-le",
-    "text": "怡然自乐",
-    "pinyin": "yí rán zì lè",
+    "text": "怡然自得",
+    "pinyin": "yí rán zì dé",
+    "variants": [
+      "怡然自乐"
+    ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
