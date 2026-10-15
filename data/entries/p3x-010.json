@@ -1,0 +1,791 @@
+[
+  {
+    "id": "mo-mo-wu-yu",
+    "text": "默默无语",
+    "pinyin": "mò mò wú yǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "sadness-and-despair"
+    ],
+    "literal": "silently · silently · without · words",
+    "natural": "silent",
+    "meaning": {
+      "en": "Saying nothing, quietly.",
+      "zh": "不说话，静静地。"
+    },
+    "equivalents": [
+      "in silence",
+      "wordlessly"
+    ],
+    "examples": [
+      {
+        "zh": "听完这个消息，他默默无语。",
+        "en": "Hearing the news, he said nothing."
+      },
+      {
+        "zh": "两人默默无语地坐了一下午。",
+        "en": "The two sat in silence all afternoon."
+      },
+      {
+        "zh": "面对批评，她只是默默无语。",
+        "en": "Faced with criticism she simply stayed silent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; quiet, often sad.",
+      "zh": "多作谓语、状语，气氛安静，常带伤感。"
+    },
+    "synonyms": [
+      "沉默不语",
+      "哑口无言"
+    ],
+    "antonyms": [
+      "滔滔不绝",
+      "侃侃而谈"
+    ]
+  },
+  {
+    "id": "jie-bai-wu-xia",
+    "text": "洁白无瑕",
+    "pinyin": "jié bái wú xiá",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "pure · white · without · flaw",
+    "natural": "spotlessly white",
+    "meaning": {
+      "en": "Pure white and without a blemish.",
+      "zh": "纯白干净，没有一点瑕疵。"
+    },
+    "equivalents": [
+      "spotless",
+      "pure white"
+    ],
+    "examples": [
+      {
+        "zh": "新娘穿着洁白无瑕的婚纱。",
+        "en": "The bride wore a spotless white wedding dress."
+      },
+      {
+        "zh": "雪后的大地洁白无瑕。",
+        "en": "After the snow the land was pure and unblemished."
+      },
+      {
+        "zh": "她有一颗洁白无瑕的心。",
+        "en": "She has a pure and flawless heart."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; literal and figurative (purity).",
+      "zh": "多作定语、谓语，可指颜色，也喻品德纯洁。"
+    },
+    "synonyms": [
+      "纯洁无瑕",
+      "一尘不染"
+    ],
+    "antonyms": [
+      "污浊不堪",
+      "瑕疵斑斑"
+    ]
+  },
+  {
+    "id": "qing-nang-xiang-zhu",
+    "text": "倾囊相助",
+    "pinyin": "qīng náng xiāng zhù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "empty · purse · mutually · help",
+    "natural": "give all one has to help",
+    "meaning": {
+      "en": "To give all one has to help someone.",
+      "zh": "拿出所有的钱财帮助别人。"
+    },
+    "equivalents": [
+      "give generously to help",
+      "empty one's pockets to help"
+    ],
+    "examples": [
+      {
+        "zh": "朋友遇到困难，他倾囊相助。",
+        "en": "When his friend was in trouble, he gave everything he had."
+      },
+      {
+        "zh": "多亏邻居倾囊相助，我们才渡过难关。",
+        "en": "Thanks to our neighbour's generosity, we got through the crisis."
+      },
+      {
+        "zh": "老人把全部积蓄都拿出来，倾囊相助灾区。",
+        "en": "The old man gave his entire savings to the disaster area."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; implies giving everything one has.",
+      "zh": "多作谓语，含拿出全部财物之意。"
+    },
+    "synonyms": [
+      "慷慨解囊",
+      "仗义疏财"
+    ],
+    "antonyms": [
+      "一毛不拔",
+      "袖手旁观"
+    ]
+  },
+  {
+    "id": "cai-hua-chu-zhong",
+    "text": "才华出众",
+    "pinyin": "cái huá chū zhòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "excellent-writing"
+    ],
+    "literal": "talent · brilliance · surpass · the crowd",
+    "natural": "outstandingly talented",
+    "meaning": {
+      "en": "Having talent that stands out from others.",
+      "zh": "才能突出，超过一般人。"
+    },
+    "equivalents": [
+      "outstandingly talented",
+      "brilliantly gifted"
+    ],
+    "examples": [
+      {
+        "zh": "这位年轻作曲家才华出众。",
+        "en": "The young composer is outstandingly talented."
+      },
+      {
+        "zh": "她才华出众，毕业后很快被名企录用。",
+        "en": "Outstandingly gifted, she was soon hired by a top firm after graduating."
+      },
+      {
+        "zh": "他是一位才华出众的设计师。",
+        "en": "He is a brilliantly talented designer."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "才华横溢",
+      "出类拔萃"
+    ],
+    "antonyms": [
+      "才疏学浅",
+      "平庸无能"
+    ]
+  },
+  {
+    "id": "ben-bo-lao-lu",
+    "text": "奔波劳碌",
+    "pinyin": "bēn bō láo lù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "poverty-and-hardship"
+    ],
+    "literal": "rush · bustle · toil · busy",
+    "natural": "run around exhausted",
+    "meaning": {
+      "en": "To be constantly on the move and worn out with work.",
+      "zh": "为生活或工作四处奔走，辛苦劳累。"
+    },
+    "equivalents": [
+      "toil and run around",
+      "be rushed off one's feet"
+    ],
+    "examples": [
+      {
+        "zh": "为了养家，他整年奔波劳碌。",
+        "en": "To feed his family he is on the road and working hard all year."
+      },
+      {
+        "zh": "奔波劳碌了一天，大家都累坏了。",
+        "en": "After a day of running around, everyone was exhausted."
+      },
+      {
+        "zh": "父母一辈子奔波劳碌，才供我读完大学。",
+        "en": "My parents toiled all their lives to put me through university."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often about making a living.",
+      "zh": "多作谓语，常指为生计奔忙。"
+    },
+    "synonyms": [
+      "东奔西走",
+      "风尘仆仆"
+    ],
+    "antonyms": [
+      "安闲自在",
+      "游手好闲"
+    ]
+  },
+  {
+    "id": "fu-gui-ji-xiang",
+    "text": "富贵吉祥",
+    "pinyin": "fù guì jí xiáng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "wealthy · honoured · lucky · auspicious",
+    "natural": "wealth and good fortune",
+    "meaning": {
+      "en": "A wish for wealth, status and good luck.",
+      "zh": "祝愿财富、地位和吉利都有。"
+    },
+    "equivalents": [
+      "wealth and good fortune",
+      "prosperity and luck"
+    ],
+    "examples": [
+      {
+        "zh": "祝您新春快乐，富贵吉祥！",
+        "en": "Happy New Year; may you have wealth and good fortune!"
+      },
+      {
+        "zh": "红包上写着“富贵吉祥”四个字。",
+        "en": "The red packet bore the four characters for wealth and good fortune."
+      },
+      {
+        "zh": "愿你一家富贵吉祥，平安喜乐。",
+        "en": "May your family enjoy prosperity, luck, peace and joy."
+      }
+    ],
+    "usage": {
+      "en": "Greeting; seen on couplets and cards.",
+      "zh": "祝福语，常见于对联、贺卡。"
+    },
+    "synonyms": [
+      "吉祥如意",
+      "大吉大利"
+    ],
+    "antonyms": [
+      "家道中落",
+      "厄运连连"
+    ]
+  },
+  {
+    "id": "guang-mao-wu-yin",
+    "text": "广袤无垠",
+    "pinyin": "guǎng mào wú yín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "poems-prose"
+    ],
+    "literal": "vast · expansive · no · boundary",
+    "natural": "boundlessly vast",
+    "meaning": {
+      "en": "Vast and without limit.",
+      "zh": "广阔辽远，没有边际。"
+    },
+    "equivalents": [
+      "boundless",
+      "vast and limitless"
+    ],
+    "examples": [
+      {
+        "zh": "广袤无垠的草原一直延伸到天边。",
+        "en": "The boundless grassland stretches to the horizon."
+      },
+      {
+        "zh": "站在山顶，眼前是广袤无垠的大地。",
+        "en": "On the summit, a vast land spreads before you."
+      },
+      {
+        "zh": "广袤无垠的宇宙至今充满未知。",
+        "en": "The limitless universe is still full of unknowns."
+      }
+    ],
+    "usage": {
+      "en": "Mainly attributive; for land, sky and space.",
+      "zh": "多作定语，形容土地、天空、宇宙。"
+    },
+    "synonyms": [
+      "一望无际",
+      "无边无际"
+    ],
+    "antonyms": [
+      "弹丸之地",
+      "方寸之地"
+    ]
+  },
+  {
+    "id": "ruan-ruo-wu-neng",
+    "text": "软弱无能",
+    "pinyin": "ruǎn ruò wú néng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "giving-up-and-weakness"
+    ],
+    "literal": "soft · weak · no · ability",
+    "natural": "weak and incompetent",
+    "meaning": {
+      "en": "Weak in will and unable to get things done.",
+      "zh": "意志软弱，没有办事能力。"
+    },
+    "equivalents": [
+      "weak and incompetent",
+      "spineless"
+    ],
+    "examples": [
+      {
+        "zh": "他被批评为软弱无能的领导。",
+        "en": "He was criticised as a weak, ineffectual leader."
+      },
+      {
+        "zh": "面对欺负，他软弱无能，只会忍让。",
+        "en": "Faced with bullying, he was spineless and merely gave way."
+      },
+      {
+        "zh": "软弱无能的政府难以赢得民心。",
+        "en": "A weak and incompetent government can hardly win people's hearts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; strongly critical.",
+      "zh": "多作谓语、定语，批评意味强。"
+    },
+    "synonyms": [
+      "庸碌无能",
+      "孱弱无力"
+    ],
+    "antonyms": [
+      "坚强有力",
+      "精明强干"
+    ]
+  },
+  {
+    "id": "ren-tong-ci-xin",
+    "text": "人同此心",
+    "pinyin": "rén tóng cǐ xīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "人同此心，心同此理"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "people · share · this · heart",
+    "natural": "we all feel the same",
+    "meaning": {
+      "en": "Everyone feels the same way about this.",
+      "zh": "大家的心情、想法都一样。"
+    },
+    "equivalents": [
+      "we all feel the same",
+      "everyone shares that sentiment"
+    ],
+    "examples": [
+      {
+        "zh": "盼望和平，人同此心，心同此理。",
+        "en": "Everyone longs for peace; we all share the same heart and reason."
+      },
+      {
+        "zh": "人同此心，谁都希望孩子平安成长。",
+        "en": "We all feel alike: everyone wants children to grow up safe."
+      },
+      {
+        "zh": "想家是人同此心的事。",
+        "en": "Missing home is something everybody feels."
+      }
+    ],
+    "usage": {
+      "en": "Often paired as 人同此心，心同此理.",
+      "zh": "常与“心同此理”连用。"
+    },
+    "synonyms": [
+      "英雄所见略同",
+      "同心同德"
+    ],
+    "antonyms": [
+      "各抒己见",
+      "众说纷纭"
+    ]
+  },
+  {
+    "id": "yi-shi-yi-ke",
+    "text": "一时一刻",
+    "pinyin": "yī shí yī kè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "value-of-time"
+    ],
+    "literal": "one · hour · one · quarter-hour",
+    "natural": "even for a moment",
+    "meaning": {
+      "en": "A moment; usually in negatives, 'not even for a moment'.",
+      "zh": "一会儿，片刻；多用于否定，如“一时一刻也不”。"
+    },
+    "equivalents": [
+      "even for a moment",
+      "a single moment"
+    ],
+    "examples": [
+      {
+        "zh": "我一时一刻也不能离开孩子。",
+        "en": "I can't leave the child for a single moment."
+      },
+      {
+        "zh": "这件事不是一时一刻能解决的。",
+        "en": "This can't be solved in a moment."
+      },
+      {
+        "zh": "他一时一刻都没有忘记承诺。",
+        "en": "Not for one moment did he forget his promise."
+      }
+    ],
+    "usage": {
+      "en": "Mostly with 不/没/也, as an adverbial.",
+      "zh": "多与“不”“没”“也”连用，作状语。"
+    },
+    "synonyms": [
+      "分分秒秒",
+      "一分一秒"
+    ],
+    "antonyms": [
+      "长年累月",
+      "旷日持久"
+    ]
+  },
+  {
+    "id": "lin-zhen-tui-suo",
+    "text": "临阵退缩",
+    "pinyin": "lín zhèn tuì suō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "giving-up-and-weakness"
+    ],
+    "literal": "face · battle line · retreat · shrink",
+    "natural": "shrink back at the crucial moment",
+    "meaning": {
+      "en": "To lose nerve and back out at the decisive moment.",
+      "zh": "到了关键时刻畏惧后退。"
+    },
+    "equivalents": [
+      "lose one's nerve",
+      "back out at the crucial moment"
+    ],
+    "examples": [
+      {
+        "zh": "决赛当天，他竟然临阵退缩了。",
+        "en": "On the day of the final he lost his nerve."
+      },
+      {
+        "zh": "既然答应了，就不能临阵退缩。",
+        "en": "Having agreed, you can't back out now."
+      },
+      {
+        "zh": "她从不在困难面前临阵退缩。",
+        "en": "She never shrinks back in the face of difficulty."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; slightly different from 临阵脱逃, which means deserting.",
+      "zh": "多作谓语；与“临阵脱逃”相比，侧重畏缩后退。"
+    },
+    "synonyms": [
+      "畏缩不前",
+      "打退堂鼓"
+    ],
+    "antonyms": [
+      "勇往直前",
+      "冲锋陷阵"
+    ]
+  },
+  {
+    "id": "duan-jue-wang-lai",
+    "text": "断绝往来",
+    "pinyin": "duàn jué wǎng lái",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "solitude-and-isolation"
+    ],
+    "literal": "cut off · sever · go · come",
+    "natural": "cut off contact",
+    "meaning": {
+      "en": "To cut off all dealings with someone.",
+      "zh": "彻底中断来往。"
+    },
+    "equivalents": [
+      "cut off contact",
+      "sever ties"
+    ],
+    "examples": [
+      {
+        "zh": "两家因为遗产纠纷断绝往来。",
+        "en": "The two families cut off contact over an inheritance dispute."
+      },
+      {
+        "zh": "他和老朋友断绝往来已有十年。",
+        "en": "He has had no contact with his old friend for ten years."
+      },
+      {
+        "zh": "两国一度断绝往来。",
+        "en": "The two countries once severed all relations."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for people, families, states.",
+      "zh": "多作谓语，可指人、家族、国家。"
+    },
+    "synonyms": [
+      "老死不相往来",
+      "一刀两断"
+    ],
+    "antonyms": [
+      "保持联系",
+      "来往密切"
+    ]
+  },
+  {
+    "id": "peng-peng-bo-bo",
+    "text": "蓬蓬勃勃",
+    "pinyin": "péng péng bó bó",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "innovation-and-progress"
+    ],
+    "literal": "thriving · thriving · flourishing · flourishing",
+    "natural": "flourishing",
+    "meaning": {
+      "en": "Full of vigour and growth.",
+      "zh": "旺盛、有生气的样子。"
+    },
+    "equivalents": [
+      "thriving",
+      "full of vigour"
+    ],
+    "examples": [
+      {
+        "zh": "春天来了，野草蓬蓬勃勃地长出来。",
+        "en": "Spring has come and wild grass is shooting up."
+      },
+      {
+        "zh": "新兴产业发展得蓬蓬勃勃。",
+        "en": "Emerging industries are booming."
+      },
+      {
+        "zh": "孩子们蓬蓬勃勃的朝气感染了大家。",
+        "en": "The children's vigour infected everyone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, adverbial or attributive; usually with 地/的.",
+      "zh": "多作谓语、状语、定语，常带“地”“的”。"
+    },
+    "synonyms": [
+      "生机勃勃",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "萎靡不振"
+    ]
+  },
+  {
+    "id": "shi-ye-you-cheng",
+    "text": "事业有成",
+    "pinyin": "shì yè yǒu chéng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "successful-completion"
+    ],
+    "literal": "career · enterprise · have · success",
+    "natural": "successful in one's career",
+    "meaning": {
+      "en": "To be successful in one's career; also a wish.",
+      "zh": "事业取得成功；也用作祝愿。"
+    },
+    "equivalents": [
+      "successful in one's career",
+      "career success"
+    ],
+    "examples": [
+      {
+        "zh": "祝你学业进步，事业有成！",
+        "en": "Wishing you success in your studies and career!"
+      },
+      {
+        "zh": "他年纪轻轻就事业有成。",
+        "en": "He was successful in his career at a young age."
+      },
+      {
+        "zh": "事业有成之后，他回馈家乡。",
+        "en": "Once successful in business, he gave back to his hometown."
+      }
+    ],
+    "usage": {
+      "en": "Description or greeting.",
+      "zh": "可用于描述，也可用于祝福。"
+    },
+    "synonyms": [
+      "功成名就",
+      "飞黄腾达"
+    ],
+    "antonyms": [
+      "一事无成",
+      "半途而废"
+    ]
+  },
+  {
+    "id": "can-geng-sheng-fan",
+    "text": "残羹剩饭",
+    "pinyin": "cán gēng shèng fàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "残羹冷炙"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "simple-food-and-hunger",
+      "poverty-and-hardship"
+    ],
+    "literal": "leftover · soup · remaining · rice",
+    "natural": "scraps of food",
+    "meaning": {
+      "en": "Leftover food; also figuratively crumbs of charity.",
+      "zh": "吃剩下的饭菜，也比喻别人施舍的一点点东西。"
+    },
+    "equivalents": [
+      "leftovers",
+      "scraps"
+    ],
+    "examples": [
+      {
+        "zh": "他靠捡拾别人的残羹剩饭度日。",
+        "en": "He survived on other people's leftovers."
+      },
+      {
+        "zh": "别把残羹剩饭都倒掉，可以喂小动物。",
+        "en": "Don't throw all the scraps away; they can feed small animals."
+      },
+      {
+        "zh": "我不稀罕你施舍的残羹剩饭。",
+        "en": "I don't want the scraps you toss me."
+      }
+    ],
+    "usage": {
+      "en": "Object; also 残羹冷炙, which is more literary.",
+      "zh": "多作宾语；也作“残羹冷炙”，更书面。"
+    },
+    "synonyms": [
+      "剩菜剩饭",
+      "粗茶淡饭"
+    ],
+    "antonyms": [
+      "山珍海味",
+      "美味佳肴"
+    ]
+  },
+  {
+    "id": "fu-lu-shou-xi",
+    "text": "福禄寿喜",
+    "pinyin": "fú lù shòu xǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "fortune · prosperity · longevity · joy",
+    "natural": "fortune, status, long life and joy",
+    "meaning": {
+      "en": "The four blessings: fortune, rank and salary, long life, and joy.",
+      "zh": "福气、官禄、长寿、喜庆，四种吉祥。"
+    },
+    "equivalents": [
+      "the four blessings",
+      "fortune, rank, longevity and joy"
+    ],
+    "examples": [
+      {
+        "zh": "春联上写着“福禄寿喜”。",
+        "en": "The spring couplet reads 'Fortune, Rank, Longevity, Joy'."
+      },
+      {
+        "zh": "这幅画寓意福禄寿喜，送给老人最合适。",
+        "en": "The painting stands for the four blessings, ideal for an elder."
+      },
+      {
+        "zh": "祝您福禄寿喜，样样齐全。",
+        "en": "May you have fortune, rank, long life and joy, the full set."
+      }
+    ],
+    "usage": {
+      "en": "Auspicious motif; seen on couplets, ornaments and greetings.",
+      "zh": "吉祥语，常见于春联、饰物和祝福语。"
+    },
+    "synonyms": [
+      "福寿双全",
+      "五福临门"
+    ],
+    "antonyms": [
+      "祸不单行",
+      "时运不济"
+    ]
+  }
+]

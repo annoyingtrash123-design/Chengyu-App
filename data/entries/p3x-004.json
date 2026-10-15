@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "bai-fa-ren-song-hei-fa-ren",
+    "text": "白发人送黑发人",
+    "pinyin": "bái fà rén sòng hēi fà rén",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "parenting-and-family"
+    ],
+    "literal": "white · haired · person · see off · black · haired · person",
+    "natural": "an elder burying a child",
+    "meaning": {
+      "en": "An old person burying a younger one: parents outliving their child.",
+      "zh": "年老的人为年轻人送葬，指父母在子女之后去世的悲痛。"
+    },
+    "equivalents": [
+      "a parent burying their child",
+      "the tragedy of outliving one's child"
+    ],
+    "examples": [
+      {
+        "zh": "白发人送黑发人，是人生最大的悲哀。",
+        "en": "For the white-haired to send off the black-haired is life's greatest sorrow."
+      },
+      {
+        "zh": "老两口经历了白发人送黑发人的打击。",
+        "en": "The old couple suffered the blow of burying their own child."
+      },
+      {
+        "zh": "看到白发人送黑发人的场面，围观者都落泪了。",
+        "en": "The onlookers wept at the sight of an old man burying his son."
+      }
+    ],
+    "usage": {
+      "en": "A set phrase in news about accidents and disasters; solemn.",
+      "zh": "常见于事故、灾难报道，语气沉痛。"
+    },
+    "synonyms": [
+      "痛不欲生",
+      "老来丧子",
+      "锥心泣血"
+    ],
+    "antonyms": [
+      "子孙满堂",
+      "天伦之乐",
+      "含饴弄孙"
+    ]
+  },
+  {
+    "id": "yi-er-zai-zai-er-san",
+    "text": "一而再，再而三",
+    "pinyin": "yī ér zài, zài ér sān",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "一而再再而三"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chain-reactions",
+      "inappropriate-behavior"
+    ],
+    "literal": "once · and · again, again · and · three-times",
+    "natural": "again and again",
+    "meaning": {
+      "en": "Once, then again, then a third time: repeatedly, often used of something that should not recur.",
+      "zh": "一次又一次，指多次重复。多含不满，指不应重复的事一再发生。"
+    },
+    "equivalents": [
+      "time and time again",
+      "over and over"
+    ],
+    "examples": [
+      {
+        "zh": "他一而再，再而三地违反规定。",
+        "en": "He broke the rules again and again."
+      },
+      {
+        "zh": "我一而再再而三地提醒过你。",
+        "en": "I've reminded you again and again."
+      },
+      {
+        "zh": "对方一而再，再而三地拖延付款。",
+        "en": "The other side has delayed payment time after time."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; usually with disapproval; the idiom 事不过三 is related.",
+      "zh": "作状语，多含不满。"
+    },
+    "synonyms": [
+      "屡次三番",
+      "接二连三",
+      "再三再四"
+    ],
+    "antonyms": [
+      "偶一为之",
+      "绝无仅有"
+    ]
+  },
+  {
+    "id": "yi-fen-geng-yun-yi-fen-shou-huo",
+    "text": "一分耕耘，一分收获",
+    "pinyin": "yī fēn gēng yún, yī fēn shōu huò",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "一分耕耘一分收获"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "efficiency"
+    ],
+    "literal": "one · portion · ploughing · weeding, one · portion · harvest",
+    "natural": "you reap what you sow",
+    "meaning": {
+      "en": "For every bit of effort there is a bit of reward.",
+      "zh": "付出多少努力，就有多少收获。"
+    },
+    "equivalents": [
+      "you reap what you sow",
+      "no pain, no gain"
+    ],
+    "examples": [
+      {
+        "zh": "一分耕耘，一分收获，努力总会有回报。",
+        "en": "As you sow so shall you reap; effort always pays off."
+      },
+      {
+        "zh": "一分耕耘一分收获，学习没有捷径。",
+        "en": "There are no shortcuts in study; what you reap equals what you sow."
+      },
+      {
+        "zh": "他坚信一分耕耘，一分收获。",
+        "en": "He firmly believes that each measure of effort brings a measure of reward."
+      }
+    ],
+    "usage": {
+      "en": "Encouraging; common in school and work settings.",
+      "zh": "勉励语，常见于学习和工作场合。"
+    },
+    "synonyms": [
+      "付出就有回报",
+      "天道酬勤",
+      "功夫不负有心人"
+    ],
+    "antonyms": [
+      "不劳而获",
+      "守株待兔",
+      "坐享其成"
+    ]
+  },
+  {
+    "id": "xin-dong-bu-ru-xing-dong",
+    "text": "心动不如行动",
+    "pinyin": "xīn dòng bù rú xíng dòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "efficiency",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "heart · stirs · not · as good as · action",
+    "natural": "stop dreaming and start doing",
+    "meaning": {
+      "en": "Being tempted is not as good as acting: don't just think about it, do it.",
+      "zh": "光想不如去做。鼓励人立刻行动。"
+    },
+    "equivalents": [
+      "just do it",
+      "action beats wishing"
+    ],
+    "examples": [
+      {
+        "zh": "想减肥就开始吧，心动不如行动。",
+        "en": "If you want to lose weight, start now; doing beats dreaming."
+      },
+      {
+        "zh": "心动不如行动，这个周末就去旅行吧。",
+        "en": "Don't just think about it: go travelling this weekend."
+      },
+      {
+        "zh": "心动不如行动，赶紧报名吧！",
+        "en": "Don't hesitate, sign up now!"
+      }
+    ],
+    "usage": {
+      "en": "Common in advertising and social media; casual.",
+      "zh": "常见于广告和网络用语，口语。"
+    },
+    "synonyms": [
+      "说干就干",
+      "雷厉风行",
+      "坐而言不如起而行"
+    ],
+    "antonyms": [
+      "纸上谈兵",
+      "犹豫不决",
+      "光说不练"
+    ]
+  },
+  {
+    "id": "yi-gao-ren-dan-da",
+    "text": "艺高人胆大",
+    "pinyin": "yì gāo rén dǎn dà",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "useful-tools-and-skill",
+      "fear-and-cowardice"
+    ],
+    "literal": "skill · high · person · gall · big",
+    "natural": "skill breeds boldness",
+    "meaning": {
+      "en": "Those with great skill are daring.",
+      "zh": "本领高强的人胆子大。"
+    },
+    "equivalents": [
+      "skill gives you courage",
+      "great skill makes for boldness"
+    ],
+    "examples": [
+      {
+        "zh": "艺高人胆大，他敢单独攀登那座山峰。",
+        "en": "A highly skilled person is bold; he dared to climb that peak alone."
+      },
+      {
+        "zh": "老师傅艺高人胆大，不用保护就修好了电线。",
+        "en": "The old master, bold with his skill, fixed the wiring without protection."
+      },
+      {
+        "zh": "艺高人胆大，但也不能掉以轻心。",
+        "en": "Skill gives boldness, but one must not be careless."
+      }
+    ],
+    "usage": {
+      "en": "Usually praising; sometimes a warning against recklessness.",
+      "zh": "多含称赞，有时也提醒勿轻率。"
+    },
+    "synonyms": [
+      "初生牛犊不怕虎",
+      "胆大心细",
+      "艺高胆大"
+    ],
+    "antonyms": [
+      "胆小如鼠",
+      "缩手缩脚",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "yi-tiao-dao-zou-dao-hei",
+    "text": "一条道走到黑",
+    "pinyin": "yī tiáo dào zǒu dào hēi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "resistance-to-change",
+      "negative-character-flaws"
+    ],
+    "literal": "one · road · walk · to · dark",
+    "natural": "stick to one road until dark",
+    "meaning": {
+      "en": "To stick to one path no matter what, however wrong it proves.",
+      "zh": "认定一条路就走到底，不肯回头改变。多含贬义，指固执不知变通。"
+    },
+    "equivalents": [
+      "stubbornly stick to a doomed course",
+      "dig in one's heels"
+    ],
+    "examples": [
+      {
+        "zh": "别一条道走到黑，撞了南墙就该回头。",
+        "en": "Don't stick to one road to the dark; turn back when you hit a wall."
+      },
+      {
+        "zh": "他这人认死理，一条道走到黑。",
+        "en": "He's stubborn and never changes course."
+      },
+      {
+        "zh": "投资不能一条道走到黑，要分散风险。",
+        "en": "In investing, don't stick to one road regardless; spread your risk."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often advice or criticism.",
+      "zh": "作谓语，多用于劝告或批评。"
+    },
+    "synonyms": [
+      "一意孤行",
+      "固执己见",
+      "死心眼"
+    ],
+    "antonyms": [
+      "随机应变",
+      "见机行事",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "yi-fa-bu-ke-shou-shi",
+    "text": "一发不可收拾",
+    "pinyin": "yī fā bù kě shōu shí",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [
+      "一发而不可收拾"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chain-reactions",
+      "chaos"
+    ],
+    "literal": "once · start · not · can · gather · up",
+    "natural": "once started, can't be stopped",
+    "meaning": {
+      "en": "Once something starts, it gets out of hand and cannot be stopped.",
+      "zh": "事情一旦发生就无法控制和收拾。"
+    },
+    "equivalents": [
+      "spiral out of control",
+      "snowball beyond control"
+    ],
+    "examples": [
+      {
+        "zh": "矛盾一旦激化，就会一发不可收拾。",
+        "en": "Once the conflict escalates, it will spiral out of control."
+      },
+      {
+        "zh": "他玩起游戏来一发不可收拾，一玩就是一整天。",
+        "en": "Once he starts a game he can't stop and plays all day."
+      },
+      {
+        "zh": "这场风波一发不可收拾。",
+        "en": "This storm got completely out of hand."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; also of enjoyable habits that get out of hand.",
+      "zh": "作谓语或状语，也可用于难以停下来的爱好。"
+    },
+    "synonyms": [
+      "不可收拾",
+      "不可遏止",
+      "一泻千里"
+    ],
+    "antonyms": [
+      "迎刃而解",
+      "风平浪静",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "shi-nian-shu-mu-bai-nian-shu-ren",
+    "text": "十年树木，百年树人",
+    "pinyin": "shí nián shù mù, bǎi nián shù rén",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "十年树木",
+      "百年树人"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "learning",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "ten · years · plant · trees, hundred · years · nurture · people",
+    "natural": "education is a long-term undertaking",
+    "meaning": {
+      "en": "It takes ten years to grow a tree but a hundred to rear a person: education is a long-term task.",
+      "zh": "培养树木需要十年，培养人才需要百年。比喻培养人才不是一朝一夕的事。"
+    },
+    "equivalents": [
+      "education is the work of generations",
+      "rearing talent takes a lifetime"
+    ],
+    "examples": [
+      {
+        "zh": "十年树木，百年树人，教育来不得急功近利。",
+        "en": "Ten years to grow a tree, a hundred to rear people; education can't be rushed for quick results."
+      },
+      {
+        "zh": "十年树木，百年树人，人才培养要有长远规划。",
+        "en": "Cultivating talent requires long-term planning."
+      },
+      {
+        "zh": "老师常说十年树木，百年树人。",
+        "en": "The teacher often says that growing people takes a century."
+      }
+    ],
+    "origin": {
+      "source": "《管子·权修》",
+      "story": {
+        "en": "Guanzi: 'For a year's plan, nothing like planting grain; for a ten-year plan, nothing like planting trees; for a lifetime plan, nothing like nurturing people' (一年之计，莫如树谷；十年之计，莫如树木；终身之计，莫如树人).",
+        "zh": "《管子·权修》：“一年之计，莫如树谷；十年之计，莫如树木；终身之计，莫如树人。一树一获者，谷也；一树十获者，木也；一树百获者，人也。”"
+      }
+    },
+    "usage": {
+      "en": "Used in talk of education and talent; formal.",
+      "zh": "谈论教育与人才培养时使用，书面语。"
+    },
+    "synonyms": [
+      "百年大计",
+      "循序渐进",
+      "育人为本"
+    ],
+    "antonyms": [
+      "急功近利",
+      "揠苗助长",
+      "一蹴而就"
+    ]
+  },
+  {
+    "id": "wu-yi-e-xiao-er-wei",
+    "text": "勿以恶小而为之，勿以善小而不为",
+    "pinyin": "wù yǐ è xiǎo ér wéi zhī, wù yǐ shàn xiǎo ér bù wéi",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "勿以善小而不为",
+      "勿以恶小而为之"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "three-kingdoms",
+      "positive-character-qualities",
+      "historical-records"
+    ],
+    "literal": "do not · because · evil · small · do · it, do not · because · good · small · not · do",
+    "natural": "no act is too small, good or bad",
+    "meaning": {
+      "en": "Do not commit a wrong because it is small, and do not neglect a good deed because it is small.",
+      "zh": "不要因为坏事小就去做，也不要因为好事小就不做。"
+    },
+    "equivalents": [
+      "no good deed is too small, no evil is trivial",
+      "never do wrong, however small"
+    ],
+    "examples": [
+      {
+        "zh": "勿以恶小而为之，勿以善小而不为，做人要从小事做起。",
+        "en": "Do not do wrong because it's small, nor skip good because it's small; start with the small things."
+      },
+      {
+        "zh": "勿以善小而不为，捐一块钱也是爱心。",
+        "en": "Don't neglect good because it's small; even one yuan shows kindness."
+      },
+      {
+        "zh": "家长教育孩子，勿以恶小而为之。",
+        "en": "Parents teach children never to do wrong, however minor."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·蜀书·先主传》裴松之注",
+      "story": {
+        "en": "Liu Bei's deathbed edict to his son, as quoted in Pei Songzhi's commentary on the Records of the Three Kingdoms: 'Do not do evil because it is small; do not neglect good because it is small' (勿以恶小而为之，勿以善小而不为).",
+        "zh": "《三国志·蜀书·先主传》裴松之注引《诸葛亮集》载刘备遗诏：“勿以恶小而为之，勿以善小而不为。惟贤惟德，能服于人。”"
+      }
+    },
+    "usage": {
+      "en": "Maxim for moral cultivation; frequently on posters and in schools.",
+      "zh": "修身格言，常见于标语和学校。"
+    },
+    "synonyms": [
+      "防微杜渐",
+      "积善成德",
+      "从小事做起"
+    ],
+    "antonyms": [
+      "作恶多端",
+      "为非作歹",
+      "积恶成祸"
+    ]
+  },
+  {
+    "id": "tian-xia-xing-wang-pi-fu-you-ze",
+    "text": "天下兴亡，匹夫有责",
+    "pinyin": "tiān xià xīng wáng, pǐ fū yǒu zé",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "天下兴亡"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "high-aspirations"
+    ],
+    "literal": "world · rise · fall, common · man · has · responsibility",
+    "natural": "everyone is responsible for the nation's fate",
+    "meaning": {
+      "en": "Every ordinary person bears responsibility for the rise and fall of the nation.",
+      "zh": "国家的兴盛和衰亡，每个普通人都有责任。"
+    },
+    "equivalents": [
+      "everyone is responsible for the fate of the nation",
+      "patriotism is everyone's duty"
+    ],
+    "examples": [
+      {
+        "zh": "天下兴亡，匹夫有责，青年要有家国情怀。",
+        "en": "Everyone is responsible for the nation's rise and fall; young people should care for their country."
+      },
+      {
+        "zh": "他常说天下兴亡，匹夫有责。",
+        "en": "He often says every common person is responsible for the nation's fate."
+      },
+      {
+        "zh": "天下兴亡匹夫有责，每个人都要尽一份力。",
+        "en": "The fate of the nation rests on everyone, so everyone should do their part."
+      }
+    ],
+    "origin": {
+      "source": "顾炎武《日知录·正始》",
+      "story": {
+        "en": "Gu Yanwu's Rizhilu (Zhengshi) holds that 'the common man, however lowly, shares responsibility for protecting the world' (保天下者，匹夫之贱与有责焉耳矣); the four-character wording in this form was popularised later, notably by Liang Qichao.",
+        "zh": "顾炎武《日知录·正始》有“保天下者，匹夫之贱与有责焉耳矣”之意，后经梁启超等人概括，才广为流传为“天下兴亡，匹夫有责”。"
+      }
+    },
+    "usage": {
+      "en": "Patriotic slogan; formal.",
+      "zh": "爱国口号，书面语。"
+    },
+    "synonyms": [
+      "国家兴亡",
+      "舍我其谁",
+      "匹夫有责"
+    ],
+    "antonyms": [
+      "事不关己",
+      "袖手旁观",
+      "置身事外"
+    ]
+  },
+  {
+    "id": "gong-shuo-gong-you-li-po-shuo-po-you-li",
+    "text": "公说公有理，婆说婆有理",
+    "pinyin": "gōng shuō gōng yǒu lǐ, pó shuō pó yǒu lǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "公说公有理"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "confusion-and-doubt"
+    ],
+    "literal": "father-in-law · says · father-in-law · has · reason, mother-in-law · says · mother-in-law · has · reason",
+    "natural": "each side claims to be right",
+    "meaning": {
+      "en": "Each side thinks it is right and has its own reasons.",
+      "zh": "双方各自坚持自己有理，难以分出是非。"
+    },
+    "equivalents": [
+      "there are two sides to every story",
+      "each party argues it's in the right"
+    ],
+    "examples": [
+      {
+        "zh": "两人争吵不休，公说公有理，婆说婆有理，我也不知道听谁的。",
+        "en": "They argue endlessly, each claiming to be right, and I don't know whom to believe."
+      },
+      {
+        "zh": "公说公有理，婆说婆有理，裁判很难判。",
+        "en": "Each side has its reasons, which makes the referee's job hard."
+      },
+      {
+        "zh": "这个案子公说公有理，让人难以决断。",
+        "en": "In this case each side has its own argument, making it hard to decide."
+      }
+    ],
+    "usage": {
+      "en": "Describes a dispute with no clear right or wrong.",
+      "zh": "形容双方各执一词的争执。"
+    },
+    "synonyms": [
+      "各执一词",
+      "莫衷一是",
+      "各说各话"
+    ],
+    "antonyms": [
+      "不言而喻",
+      "是非分明",
+      "黑白分明"
+    ]
+  },
+  {
+    "id": "chun-wu-qiu-dong",
+    "text": "春捂秋冻",
+    "pinyin": "chūn wǔ qiū dòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "seasonal-changes",
+      "poor-health"
+    ],
+    "literal": "spring · keep warm · autumn · be chilly",
+    "natural": "dress warmly in spring, lightly in autumn",
+    "meaning": {
+      "en": "In spring keep wrapped up; in autumn do not bundle up too soon: a folk health maxim.",
+      "zh": "春天不要急于减衣服，秋天不要急于添衣服，这样有利于健康。"
+    },
+    "equivalents": [
+      "don't shed layers too soon in spring",
+      "a folk health tip about dressing for the seasons"
+    ],
+    "examples": [
+      {
+        "zh": "春捂秋冻，天气刚暖和先别脱厚衣服。",
+        "en": "Wrap up in spring and be a little chilly in autumn; don't take off thick clothes just because it's warm."
+      },
+      {
+        "zh": "奶奶常说春捂秋冻，不会生病。",
+        "en": "Grandma says 'keep warm in spring, a little cold in autumn' and you won't fall ill."
+      },
+      {
+        "zh": "春捂秋冻是老祖宗的养生经验。",
+        "en": "Keeping warm in spring and cool in autumn is our ancestors' health wisdom."
+      }
+    ],
+    "usage": {
+      "en": "Folk saying of health care; casual.",
+      "zh": "民间养生谚语，口语。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "jiu-ren-yi-ming-sheng-zao-qi-ji-fu-tu",
+    "text": "救人一命，胜造七级浮屠",
+    "pinyin": "jiù rén yī mìng, shèng zào qī jí fú tú",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "救人一命"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "buddhist-origin",
+      "positive-character-qualities"
+    ],
+    "literal": "save · person · one · life, surpass · build · seven · storey · pagoda",
+    "natural": "saving a life beats building a pagoda",
+    "meaning": {
+      "en": "Saving one life is better than building a seven-tiered pagoda.",
+      "zh": "救一个人的性命，功德胜过建造七层宝塔。形容救人性命的功德极大。"
+    },
+    "equivalents": [
+      "saving a life is the greatest good deed",
+      "saving a life earns more merit than building a pagoda"
+    ],
+    "examples": [
+      {
+        "zh": "救人一命，胜造七级浮屠，这位医生救过无数人。",
+        "en": "Saving a life is worth more than building a seven-tiered pagoda; this doctor has saved countless people."
+      },
+      {
+        "zh": "救人一命，胜造七级浮屠，他毫不犹豫地跳下水。",
+        "en": "Saving a life beats building a pagoda, so he jumped in without a second thought."
+      },
+      {
+        "zh": "她常说救人一命就是最大的功德。",
+        "en": "She often says saving a life is the greatest merit."
+      }
+    ],
+    "usage": {
+      "en": "Used in praise of rescue and medical work; Buddhist flavour.",
+      "zh": "用于赞扬救人和医务工作，带佛教色彩。"
+    },
+    "synonyms": [
+      "功德无量",
+      "悬壶济世",
+      "见义勇为"
+    ],
+    "antonyms": [
+      "见死不救",
+      "草菅人命",
+      "谋财害命"
+    ]
+  },
+  {
+    "id": "san-shi-liu-ji-zou-wei-shang-ji",
+    "text": "三十六计，走为上计",
+    "pinyin": "sān shí liù jì, zǒu wéi shàng jì",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "三十六计走为上计",
+      "走为上计",
+      "三十六计"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "thirty-six-stratagems",
+      "military-strategy-and-victory"
+    ],
+    "literal": "thirty-six · stratagems, flee · is · best · stratagem",
+    "natural": "when in doubt, run",
+    "meaning": {
+      "en": "Of the thirty-six stratagems, retreat is best: when the situation is hopeless, withdrawing is the wise choice.",
+      "zh": "三十六种计谋中，逃走是最好的办法。形容形势不利时，退避是最好的选择。"
+    },
+    "equivalents": [
+      "discretion is the better part of valour",
+      "when in doubt, retreat"
+    ],
+    "examples": [
+      {
+        "zh": "敌众我寡，三十六计，走为上计。",
+        "en": "The enemy outnumbers us; of the thirty-six stratagems, retreat is best."
+      },
+      {
+        "zh": "三十六计走为上计，他见势不妙溜走了。",
+        "en": "He saw it was going badly and slipped away: of the thirty-six stratagems, retreat is best."
+      },
+      {
+        "zh": "三十六计，我们还是走为上计吧。",
+        "en": "Of all the stratagems, retreat is the best; let's get out of here."
+      }
+    ],
+    "origin": {
+      "source": "《南齐书·王敬则传》",
+      "story": {
+        "en": "Book of Southern Qi: Wang Jingze's rebellion was dismissed with the remark 'Of Lord Tan's thirty-six stratagems, flight is the best' (檀公三十六策，走是上计).",
+        "zh": "《南齐书·王敬则传》：“檀公三十六策，走是上计，汝父子唯应急走耳。”"
+      }
+    },
+    "usage": {
+      "en": "Often humorous when someone slips away.",
+      "zh": "常用于幽默地表示溜走。"
+    },
+    "synonyms": [
+      "溜之大吉",
+      "逃之夭夭"
+    ],
+    "antonyms": [
+      "背水一战",
+      "破釜沉舟",
+      "死战到底"
+    ]
+  },
+  {
+    "id": "cha-zhi-hao-li-miu-yi-qian-li",
+    "text": "差之毫厘，谬以千里",
+    "pinyin": "chā zhī háo lí, miù yǐ qiān lǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "差之毫厘",
+      "失之毫厘，谬以千里"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confucian-classics",
+      "mistakes-and-correction"
+    ],
+    "literal": "differ · by · hair · fraction, error · reaches · thousand · li",
+    "natural": "a hair's breadth off at the start, a thousand li wrong at the end",
+    "meaning": {
+      "en": "A tiny error at the start leads to a huge one in the end.",
+      "zh": "开始时只差一点点，结果会错得很远。"
+    },
+    "equivalents": [
+      "a miss is as good as a mile",
+      "a small error can lead to a big mistake"
+    ],
+    "examples": [
+      {
+        "zh": "科学实验差之毫厘，谬以千里，一定要严谨。",
+        "en": "In science a hair's breadth of error can mean a thousand li of difference; be rigorous."
+      },
+      {
+        "zh": "差之毫厘，谬以千里，这个小数点一定要核对。",
+        "en": "A fraction off now becomes a mile off later; check this decimal point."
+      },
+      {
+        "zh": "方向偏了一点，失之毫厘，谬以千里。",
+        "en": "The direction is slightly off; a tiny miss at the start becomes a huge mistake."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·经解》引《易》",
+      "story": {
+        "en": "The Book of Rites, citing the Yi, says the gentleman is careful at the start: 'A hair's breadth of difference leads to a thousand-li error' (差若毫厘，缪以千里).",
+        "zh": "《礼记·经解》：“《易》曰：‘君子慎始，差若毫厘，缪以千里。’”"
+      }
+    },
+    "usage": {
+      "en": "Warning about carelessness in details; also in the form 失之毫厘，谬以千里.",
+      "zh": "提醒细节不可马虎，也说“失之毫厘，谬以千里”。"
+    },
+    "synonyms": [
+      "失之毫厘",
+      "一失足成千古恨",
+      "千里之堤，溃于蚁穴"
+    ],
+    "antonyms": [
+      "分毫不差",
+      "万无一失"
+    ]
+  },
+  {
+    "id": "sheng-ming-zhi-xia-qi-shi-nan-fu",
+    "text": "盛名之下，其实难副",
+    "pinyin": "shèng míng zhī xià, qí shí nán fù",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "盛名之下"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "historical-records",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "great · fame · 's · under, its · reality · hard · to match",
+    "natural": "reputation outruns reality",
+    "meaning": {
+      "en": "Under a great reputation, the reality is hard to live up to.",
+      "zh": "名气很大的人，实际才能往往难以与名声相称。"
+    },
+    "equivalents": [
+      "hard to live up to one's reputation",
+      "the reality can't match the hype"
+    ],
+    "examples": [
+      {
+        "zh": "盛名之下，其实难副，他的第二部作品令人失望。",
+        "en": "Beneath great fame the reality is hard to match: his second work was disappointing."
+      },
+      {
+        "zh": "盛名之下，其实难副，这家餐厅名气太大了。",
+        "en": "This restaurant's reputation is bigger than its substance."
+      },
+      {
+        "zh": "盛名之下其实难副，他一直感到压力。",
+        "en": "Under great fame it's hard to live up to expectations, and he's always under pressure."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·黄琼传》",
+      "story": {
+        "en": "Book of the Later Han, biography of Huang Qiong: Li Gu warned him that 'under a great name, the reality is hard to match' (盛名之下，其实难副).",
+        "zh": "《后汉书·黄琼传》载李固遗书黄琼：“盛名之下，其实难副。”"
+      }
+    },
+    "usage": {
+      "en": "Can criticise inflated fame or express modest awareness; formal.",
+      "zh": "可批评名不副实，也可用作自谦。"
+    },
+    "synonyms": [
+      "名不副实",
+      "徒有虚名",
+      "名过其实"
+    ],
+    "antonyms": [
+      "名副其实",
+      "实至名归",
+      "名不虚传"
+    ]
+  },
+  {
+    "id": "zheng-yi-zhi-yan-bi-yi-zhi-yan",
+    "text": "睁一只眼闭一只眼",
+    "pinyin": "zhēng yī zhī yǎn bì yī zhī yǎn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [
+      "睁一眼闭一眼"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "adaptability"
+    ],
+    "literal": "open · one · eye · close · one · eye",
+    "natural": "turn a blind eye",
+    "meaning": {
+      "en": "To pretend not to notice something, to be deliberately lenient.",
+      "zh": "对不合规矩的事装作没看见，不去计较。"
+    },
+    "equivalents": [
+      "turn a blind eye",
+      "look the other way"
+    ],
+    "examples": [
+      {
+        "zh": "老师对这点小错误睁一只眼闭一只眼。",
+        "en": "The teacher turned a blind eye to this small mistake."
+      },
+      {
+        "zh": "管理员睁一眼闭一眼，违规停车越来越多。",
+        "en": "The warden looked the other way, and illegal parking grew."
+      },
+      {
+        "zh": "邻里之间，有些事睁一只眼闭一只眼就过去了。",
+        "en": "Among neighbours, some things can be let pass by turning a blind eye."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral to mildly critical.",
+      "zh": "作谓语，中性略带批评。"
+    },
+    "synonyms": [
+      "视而不见",
+      "听之任之",
+      "装聋作哑"
+    ],
+    "antonyms": [
+      "明察秋毫",
+      "一丝不苟",
+      "吹毛求疵"
+    ]
+  },
+  {
+    "id": "chi-da-guo-fan",
+    "text": "吃大锅饭",
+    "pinyin": "chī dà guō fàn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "fairness-and-impartiality",
+      "laziness-and-giving-up"
+    ],
+    "literal": "eat · big · pot · rice",
+    "natural": "equal shares regardless of effort",
+    "meaning": {
+      "en": "To share rewards equally regardless of how much each person contributes.",
+      "zh": "不论贡献大小，大家得到同样的报酬。比喻平均主义。"
+    },
+    "equivalents": [
+      "share equally regardless of effort",
+      "a free ride for all"
+    ],
+    "examples": [
+      {
+        "zh": "企业不能再吃大锅饭，要多劳多得。",
+        "en": "Firms can't go on with equal pay for all; reward must match work."
+      },
+      {
+        "zh": "吃大锅饭的日子让人缺乏积极性。",
+        "en": "The days of eating from one big pot left people with no motivation."
+      },
+      {
+        "zh": "团队吃大锅饭，干得好的人也没动力。",
+        "en": "When the team eats from one pot, even good workers lose their drive."
+      }
+    ],
+    "usage": {
+      "en": "Mainly about economic systems and pay.",
+      "zh": "多用于经济制度和薪酬。"
+    },
+    "synonyms": [
+      "平均主义",
+      "铁饭碗"
+    ],
+    "antonyms": [
+      "多劳多得",
+      "论功行赏",
+      "按劳分配"
+    ]
+  },
+  {
+    "id": "zuo-xiao-dong-zuo",
+    "text": "做小动作",
+    "pinyin": "zuò xiǎo dòng zuò",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "do · small · movements",
+    "natural": "play dirty tricks behind the scenes",
+    "meaning": {
+      "en": "To make petty, underhand moves behind someone's back.",
+      "zh": "在背后搞不正当的小花招。也指考试等场合的小动作。"
+    },
+    "equivalents": [
+      "play tricks behind the scenes",
+      "make petty underhand moves"
+    ],
+    "examples": [
+      {
+        "zh": "他表面上很客气，背地里却做小动作。",
+        "en": "He's polite to your face but plays tricks behind your back."
+      },
+      {
+        "zh": "考试的时候不要做小动作。",
+        "en": "Don't try any tricks during the exam."
+      },
+      {
+        "zh": "有人在会上做小动作。",
+        "en": "Someone was playing tricks at the meeting."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; the idiom may take 搞/耍 ('play tricks').",
+      "zh": "动宾结构，也可说“搞小动作”。"
+    },
+    "synonyms": [
+      "耍花招",
+      "暗中使坏",
+      "背后捣鬼"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "堂堂正正",
+      "开诚布公"
+    ]
+  },
+  {
+    "id": "shuo-feng-liang-hua",
+    "text": "说风凉话",
+    "pinyin": "shuō fēng liáng huà",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "say · cool · breeze · words",
+    "natural": "make snide, unhelpful remarks",
+    "meaning": {
+      "en": "To make sarcastic or unsympathetic comments from the sidelines.",
+      "zh": "站在一旁说讽刺、不负责任的话。"
+    },
+    "equivalents": [
+      "make snide remarks from the sidelines",
+      "play the armchair critic"
+    ],
+    "examples": [
+      {
+        "zh": "别在旁边说风凉话，过来帮帮忙。",
+        "en": "Stop making snide remarks from the sidelines and come and help."
+      },
+      {
+        "zh": "大家正忙着，他却在一边说风凉话。",
+        "en": "Everyone was busy, while he stood aside passing sarcastic comments."
+      },
+      {
+        "zh": "遇到困难，有人帮忙，有人说风凉话。",
+        "en": "Faced with difficulties, some help and some sneer."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; spoken, critical.",
+      "zh": "动宾结构，口语，带批评。"
+    },
+    "synonyms": [
+      "冷嘲热讽",
+      "隔岸观火",
+      "站着说话不腰疼"
+    ],
+    "antonyms": [
+      "雪中送炭",
+      "出手相助",
+      "鼎力相助"
+    ]
+  },
+  {
+    "id": "fan-yao-yi-kou",
+    "text": "反咬一口",
+    "pinyin": "fǎn yǎo yī kǒu",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "deception-and-false-appearances"
+    ],
+    "literal": "turn · bite · one · mouthful",
+    "natural": "turn on someone and accuse them",
+    "meaning": {
+      "en": "To accuse your accuser, or turn on the person who helped you.",
+      "zh": "自己做错了事，反而诬陷指责对方。也指忘恩负义，转而攻击恩人。"
+    },
+    "equivalents": [
+      "turn on one's accuser",
+      "bite the hand that feeds"
+    ],
+    "examples": [
+      {
+        "zh": "他犯了错还反咬一口，说是我害了他。",
+        "en": "He made the mistake and then turned on me, claiming I'd harmed him."
+      },
+      {
+        "zh": "你帮了他，他反咬一口，真是白眼狼。",
+        "en": "You helped him and he turned and bit you: a real ingrate."
+      },
+      {
+        "zh": "小心坏人被抓后反咬一口。",
+        "en": "Beware that a crook may counter-accuse once caught."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; often with 倒打一耙-type contexts.",
+      "zh": "动宾结构，语义与“倒打一耙”相近。"
+    },
+    "synonyms": [
+      "恩将仇报",
+      "忘恩负义",
+      "颠倒黑白"
+    ],
+    "antonyms": [
+      "感恩图报",
+      "以德报怨"
+    ]
+  },
+  {
+    "id": "fang-xia-bao-fu",
+    "text": "放下包袱",
+    "pinyin": "fàng xià bāo fú",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "comebacks-and-renewal"
+    ],
+    "literal": "put · down · bundle",
+    "natural": "drop the burden",
+    "meaning": {
+      "en": "To drop a mental burden and stop worrying.",
+      "zh": "把思想上的负担去掉，轻装前进。"
+    },
+    "equivalents": [
+      "let go of the burden",
+      "travel light mentally"
+    ],
+    "examples": [
+      {
+        "zh": "放下包袱，轻装上阵，你一定能发挥好。",
+        "en": "Drop the baggage and go in light; you'll perform well."
+      },
+      {
+        "zh": "他终于放下包袱，重新开始。",
+        "en": "He finally dropped the burden and started afresh."
+      },
+      {
+        "zh": "别总想着过去的失败，要放下包袱。",
+        "en": "Don't dwell on past failures; let go of the burden."
+      }
+    ],
+    "usage": {
+      "en": "Often used of mental pressure; the idiom may include 思想, 心理 before 包袱.",
+      "zh": "常指心理负担，中间可插入“思想、心理”等词。"
+    },
+    "synonyms": [
+      "轻装上阵",
+      "卸下重担",
+      "释怀"
+    ],
+    "antonyms": [
+      "背上包袱",
+      "心事重重",
+      "负重前行"
+    ]
+  },
+  {
+    "id": "guo-yi-bu-qu",
+    "text": "过意不去",
+    "pinyin": "guò yì bù qù",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "polite-humble",
+      "complex-emotional-states"
+    ],
+    "literal": "pass · mind · not · go",
+    "natural": "feel bad about it",
+    "meaning": {
+      "en": "To feel apologetic or uneasy, e.g. for causing trouble or accepting too much kindness.",
+      "zh": "心里感到不安，觉得对不起人。"
+    },
+    "equivalents": [
+      "feel bad about",
+      "feel awkward about it"
+    ],
+    "examples": [
+      {
+        "zh": "让你白跑一趟，我真过意不去。",
+        "en": "I feel bad that you made a wasted trip."
+      },
+      {
+        "zh": "你这么客气，我实在过意不去。",
+        "en": "You're so kind that I feel quite uncomfortable."
+      },
+      {
+        "zh": "麻烦了你这么久，心里很过意不去。",
+        "en": "I feel bad about troubling you for so long."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; polite expression of apology or thanks.",
+      "zh": "作谓语，礼貌地表示歉意或感谢。"
+    },
+    "synonyms": [
+      "于心不安",
+      "不好意思",
+      "抱歉"
+    ],
+    "antonyms": [
+      "心安理得",
+      "理直气壮",
+      "问心无愧"
+    ]
+  },
+  {
+    "id": "tang-shou-shan-yu",
+    "text": "烫手山芋",
+    "pinyin": "tàng shǒu shān yù",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "danger",
+      "inappropriate-behavior"
+    ],
+    "literal": "scalding · hand · sweet potato",
+    "natural": "a hot potato",
+    "meaning": {
+      "en": "A problem that is difficult and risky to handle and which nobody wants to take on.",
+      "zh": "比喻棘手而又不愿意接手的难题。"
+    },
+    "equivalents": [
+      "a hot potato",
+      "a poisoned chalice"
+    ],
+    "examples": [
+      {
+        "zh": "这个烂摊子是个烫手山芋，谁也不想接。",
+        "en": "This mess is a hot potato nobody wants to take over."
+      },
+      {
+        "zh": "他把这个烫手山芋扔给了新同事。",
+        "en": "He tossed the hot potato to his new colleague."
+      },
+      {
+        "zh": "接手那个亏损的项目，无异于接了个烫手山芋。",
+        "en": "Taking over the loss-making project is like picking up a hot potato."
+      }
+    ],
+    "usage": {
+      "en": "Noun; often with 接手, 扔, 甩.",
+      "zh": "名词，常与“接手、扔、甩”搭配。"
+    },
+    "synonyms": [
+      "棘手",
+      "烂摊子",
+      "难题"
+    ],
+    "antonyms": [
+      "香饽饽",
+      "唾手可得",
+      "轻而易举"
+    ]
+  },
+  {
+    "id": "hua-quan-xiu-tui",
+    "text": "花拳绣腿",
+    "pinyin": "huā quán xiù tuǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "poor-performance"
+    ],
+    "literal": "flowery · fists · embroidered · legs",
+    "natural": "showy but useless",
+    "meaning": {
+      "en": "Showy martial moves with no real fighting power; style over substance.",
+      "zh": "看起来好看却不实用的拳脚功夫。比喻只有好看的架势，没有真本领。"
+    },
+    "equivalents": [
+      "all show and no substance",
+      "fancy but useless"
+    ],
+    "examples": [
+      {
+        "zh": "他的武术只是花拳绣腿，真打起来不堪一击。",
+        "en": "His martial arts are all show and fall apart in a real fight."
+      },
+      {
+        "zh": "这个方案看似漂亮，其实是花拳绣腿。",
+        "en": "The plan looks good but is all show."
+      },
+      {
+        "zh": "真功夫要靠苦练，不能只练花拳绣腿。",
+        "en": "Real skill needs hard practice, not just showy moves."
+      }
+    ],
+    "usage": {
+      "en": "Noun or predicate; criticism of showy but weak skill.",
+      "zh": "作名词或谓语，批评中看不中用。"
+    },
+    "synonyms": [
+      "华而不实",
+      "徒有其表",
+      "绣花枕头"
+    ],
+    "antonyms": [
+      "真才实学",
+      "真功夫",
+      "货真价实"
+    ]
+  }
+]

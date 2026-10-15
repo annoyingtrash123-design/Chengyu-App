@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "ci-dao-jian-hong",
+    "text": "刺刀见红",
+    "pinyin": "cì dāo jiàn hóng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "bayonet · meet · red",
+    "natural": "fight at close quarters",
+    "meaning": {
+      "en": "To fight hand to hand; by extension, a head-on, no-holds-barred confrontation.",
+      "zh": "原指白刃战，比喻面对面的激烈较量。"
+    },
+    "equivalents": [
+      "close combat",
+      "a fight to the finish"
+    ],
+    "examples": [
+      {
+        "zh": "两支球队在决赛中刺刀见红，打得难解难分。",
+        "en": "The two teams went at each other hammer and tongs in the final."
+      },
+      {
+        "zh": "谈判进入刺刀见红的阶段，双方都不肯让步。",
+        "en": "The talks reached the stage of open confrontation, with neither side giving way."
+      },
+      {
+        "zh": "战士们与敌人刺刀见红，守住了阵地。",
+        "en": "The soldiers fought the enemy hand to hand and held the position."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; military in origin, now used figuratively for fierce rivalry.",
+      "zh": "多作谓语、定语，本为军事用语，现多比喻激烈对抗。"
+    },
+    "synonyms": [
+      "短兵相接",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "隔岸观火",
+      "握手言和"
+    ]
+  },
+  {
+    "id": "pai-ban-ding-an",
+    "text": "拍板定案",
+    "pinyin": "pāi bǎn dìng àn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "successful-completion"
+    ],
+    "literal": "clap · board · settle · case",
+    "natural": "make the final call",
+    "meaning": {
+      "en": "To make the final decision on a matter.",
+      "zh": "对事情作出最后决定。"
+    },
+    "equivalents": [
+      "make the final call",
+      "settle the matter"
+    ],
+    "examples": [
+      {
+        "zh": "这个方案要由总经理拍板定案。",
+        "en": "The general manager will have to make the final call on this plan."
+      },
+      {
+        "zh": "会议讨论了三个小时，终于拍板定案。",
+        "en": "After three hours of discussion, the meeting finally settled the matter."
+      },
+      {
+        "zh": "装修的事，最后由妈妈拍板定案。",
+        "en": "As for the renovation, Mum had the final say."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; business and everyday use. 拍板 alone is also common.",
+      "zh": "多作谓语，职场和日常都常用，也可单说“拍板”。"
+    },
+    "synonyms": [
+      "一锤定音",
+      "最终定夺"
+    ],
+    "antonyms": [
+      "悬而未决",
+      "犹豫不决"
+    ]
+  },
+  {
+    "id": "da-bi-yi-hui",
+    "text": "大笔一挥",
+    "pinyin": "dà bǐ yī huī",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "efficiency"
+    ],
+    "literal": "big · brush · one · wave",
+    "natural": "with a stroke of the pen",
+    "meaning": {
+      "en": "To sign off or write something with a bold, sweeping stroke; to decide something easily by one's authority.",
+      "zh": "形容毫不费力地写下批示或作出决定，也指文笔洒脱。"
+    },
+    "equivalents": [
+      "with a stroke of the pen",
+      "sign off with a flourish"
+    ],
+    "examples": [
+      {
+        "zh": "老板大笔一挥，批下了这笔经费。",
+        "en": "The boss signed off on the funding with a stroke of the pen."
+      },
+      {
+        "zh": "书法家大笔一挥，写下“和”字。",
+        "en": "The calligrapher wrote the character 和 in one bold sweep."
+      },
+      {
+        "zh": "他不是大笔一挥就能决定的人，每次都要反复调研。",
+        "en": "He is not the sort to decide things with a flick of the pen; he always researches thoroughly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, usually followed by the outcome. Can be mildly ironic about casual decisions.",
+      "zh": "多作谓语，后接结果；有时略带讽刺，指决定随意。"
+    },
+    "synonyms": [
+      "挥毫泼墨",
+      "一挥而就"
+    ],
+    "antonyms": [
+      "字斟句酌",
+      "三思而行"
+    ]
+  },
+  {
+    "id": "chu-he-han-jie",
+    "text": "楚河汉界",
+    "pinyin": "chǔ hé hàn jiè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "historical-periods",
+      "historical-records",
+      "competition-and-rivalry"
+    ],
+    "literal": "Chu · river · Han · boundary",
+    "natural": "a sharply drawn dividing line",
+    "meaning": {
+      "en": "A clear dividing line between two opposed sides, as on a Chinese chess board.",
+      "zh": "本指象棋盘中间的界线，比喻双方界限分明、互相对立。"
+    },
+    "equivalents": [
+      "a clear dividing line",
+      "the line in the sand"
+    ],
+    "examples": [
+      {
+        "zh": "两个部门之间楚河汉界，谁也不愿越雷池一步。",
+        "en": "The two departments are strictly divided and neither will step over the line."
+      },
+      {
+        "zh": "他们下棋时，棋盘中央的楚河汉界摆得整整齐齐。",
+        "en": "When they play, the Chu–Han boundary in the middle of the board is neatly kept."
+      },
+      {
+        "zh": "夫妻之间不应该搞得楚河汉界。",
+        "en": "A married couple shouldn't keep everything strictly separate."
+      }
+    ],
+    "usage": {
+      "en": "Usually predicate or object; often describes cold, rigid separation.",
+      "zh": "多作谓语、宾语，多形容界限分明、互不往来。"
+    },
+    "synonyms": [
+      "泾渭分明",
+      "界限分明"
+    ],
+    "antonyms": [
+      "融为一体",
+      "水乳交融"
+    ]
+  },
+  {
+    "id": "feng-jiang-da-li",
+    "text": "封疆大吏",
+    "pinyin": "fēng jiāng dà lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "historical-periods"
+    ],
+    "literal": "enfeoff · border · great · official",
+    "natural": "a provincial governor",
+    "meaning": {
+      "en": "A high official in charge of a province or region (Ming and Qing dynasties: governor or governor-general).",
+      "zh": "指总管一省或数省军政大权的高级官员，如总督、巡抚。"
+    },
+    "equivalents": [
+      "a provincial governor",
+      "a regional viceroy"
+    ],
+    "examples": [
+      {
+        "zh": "他官至封疆大吏，却始终清廉自守。",
+        "en": "He rose to be a provincial governor yet remained incorruptible."
+      },
+      {
+        "zh": "清代的封疆大吏权力极大。",
+        "en": "Qing-dynasty provincial governors wielded enormous power."
+      },
+      {
+        "zh": "这位封疆大吏上书朝廷，请求减免赋税。",
+        "en": "The governor petitioned the court to reduce taxes."
+      }
+    ],
+    "usage": {
+      "en": "Noun; historical or literary register.",
+      "zh": "名词，多用于历史或书面语境。"
+    },
+    "synonyms": [
+      "地方大员",
+      "一方诸侯"
+    ],
+    "antonyms": [
+      "平头百姓",
+      "无名小卒"
+    ]
+  },
+  {
+    "id": "ru-shi-di-zi",
+    "text": "入室弟子",
+    "pinyin": "rù shì dì zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "apprenticeship-and-learning",
+      "confucian-classics"
+    ],
+    "literal": "enter · inner room · disciple · child",
+    "natural": "a personal disciple",
+    "meaning": {
+      "en": "A pupil who has been personally taught by a master and has learned his best skills.",
+      "zh": "指亲自受业、得到老师真传的学生。"
+    },
+    "equivalents": [
+      "a personal disciple",
+      "inner-circle student"
+    ],
+    "examples": [
+      {
+        "zh": "他是这位国画大师的入室弟子。",
+        "en": "He is a personal disciple of this master of Chinese painting."
+      },
+      {
+        "zh": "京剧名家只收了三位入室弟子。",
+        "en": "The opera star accepted only three personal disciples."
+      },
+      {
+        "zh": "能成为他的入室弟子，是很多人的梦想。",
+        "en": "Becoming his personal disciple is many people's dream."
+      }
+    ],
+    "origin": {
+      "source": "《论语·先进》",
+      "story": {
+        "en": "Confucius said of Zilu: 'You has ascended the hall, but has not yet entered the inner room' (升堂矣，未入于室也). Entering the inner room came to mean reaching the deepest level of a master's teaching.",
+        "zh": "《论语》：“由也升堂矣，未入于室也。”后以“入室”比喻学问技艺达到精深的境界。"
+      }
+    },
+    "usage": {
+      "en": "Noun; used for arts, crafts and scholarship.",
+      "zh": "名词，多用于艺术、技艺、学术领域。"
+    },
+    "synonyms": [
+      "关门弟子",
+      "亲传弟子"
+    ],
+    "antonyms": [
+      "门外汉",
+      "泛泛之交"
+    ]
+  },
+  {
+    "id": "nu-ban-nan-zhuang",
+    "text": "女扮男装",
+    "pinyin": "nǚ bàn nán zhuāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "stories",
+      "deception-and-false-appearances"
+    ],
+    "literal": "woman · disguise · man · dress",
+    "natural": "a woman dressed as a man",
+    "meaning": {
+      "en": "For a woman to disguise herself as a man.",
+      "zh": "女子打扮成男子的模样。"
+    },
+    "equivalents": [
+      "dress as a man",
+      "pass as a man"
+    ],
+    "examples": [
+      {
+        "zh": "花木兰女扮男装，替父从军。",
+        "en": "Hua Mulan disguised herself as a man and joined the army in her father's place."
+      },
+      {
+        "zh": "戏里她女扮男装，闯荡江湖。",
+        "en": "In the play she dresses as a man and roams the martial world."
+      },
+      {
+        "zh": "为了进学堂读书，她只好女扮男装。",
+        "en": "To attend school she had to dress as a man."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in opera and fiction.",
+      "zh": "多作谓语，常见于戏曲、小说。"
+    },
+    "synonyms": [
+      "改头换面",
+      "乔装打扮"
+    ],
+    "antonyms": [
+      "原形毕露"
+    ]
+  },
+  {
+    "id": "zuan-mu-qu-huo",
+    "text": "钻木取火",
+    "pinyin": "zuān mù qǔ huǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "myths-legends",
+      "useful-tools-and-skill"
+    ],
+    "literal": "drill · wood · get · fire",
+    "natural": "make fire by friction",
+    "meaning": {
+      "en": "To make fire by drilling one piece of wood against another; the primitive way of making fire.",
+      "zh": "用木头摩擦生火，是远古人取火的方法。"
+    },
+    "equivalents": [
+      "make fire by friction",
+      "rub sticks together for fire"
+    ],
+    "examples": [
+      {
+        "zh": "野外生存训练课上，我们学习钻木取火。",
+        "en": "In the wilderness survival course we learned to make fire by friction."
+      },
+      {
+        "zh": "传说燧人氏发明了钻木取火。",
+        "en": "Legend says Suirenshi invented the making of fire by drilling wood."
+      },
+      {
+        "zh": "他花了半个小时才钻木取火成功。",
+        "en": "It took him half an hour to get a fire going by friction."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·五蠹》",
+      "story": {
+        "en": "Han Feizi records that in remote antiquity a sage, later identified with Suirenshi, 'drilled wood to make fire' (钻燧取火) so that people could cook food.",
+        "zh": "《韩非子·五蠹》载：“有圣人作，钻燧取火，以化腥臊。”传说这位圣人就是燧人氏。"
+      }
+    },
+    "usage": {
+      "en": "Verb-object phrase; literal in most uses.",
+      "zh": "动宾结构，多取字面义。"
+    },
+    "synonyms": [
+      "刀耕火种"
+    ],
+    "antonyms": [
+      "火中取栗"
+    ]
+  },
+  {
+    "id": "he-zong-lian-heng",
+    "text": "合纵连横",
+    "pinyin": "hé zòng lián héng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "historical-records",
+      "military-strategy-and-victory"
+    ],
+    "literal": "ally vertically · link · horizontally",
+    "natural": "shifting alliances",
+    "meaning": {
+      "en": "Forming alliances and counter-alliances; skilful diplomatic or political manoeuvring.",
+      "zh": "战国时的外交策略，现指运用手段联合或对抗，进行政治、外交上的纵横捭阖。"
+    },
+    "equivalents": [
+      "shifting alliances",
+      "diplomatic manoeuvring"
+    ],
+    "examples": [
+      {
+        "zh": "战国时期，各国合纵连横，局势瞬息万变。",
+        "en": "In the Warring States period the states shifted alliances and the situation changed by the moment."
+      },
+      {
+        "zh": "这家公司靠合纵连横，在行业里站稳了脚跟。",
+        "en": "The company gained its footing in the industry by clever alliance-building."
+      },
+      {
+        "zh": "国际舞台上的合纵连横从未停止。",
+        "en": "Alliance-building on the world stage never stops."
+      }
+    ],
+    "origin": {
+      "source": "《史记·苏秦列传》《史记·张仪列传》",
+      "story": {
+        "en": "In the Warring States period Su Qin urged the six states to ally north–south against Qin (合纵), while Zhang Yi persuaded them to ally east–west with Qin separately (连横).",
+        "zh": "战国时苏秦游说六国联合抗秦，称为“合纵”；张仪游说六国分别事秦，称为“连横”。"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; historical and political contexts.",
+      "zh": "多作谓语、定语，用于历史、政治语境。"
+    },
+    "synonyms": [
+      "纵横捭阖",
+      "远交近攻"
+    ],
+    "antonyms": [
+      "孤军奋战",
+      "各自为政"
+    ]
+  },
+  {
+    "id": "shi-zhe-sheng-cun",
+    "text": "适者生存",
+    "pinyin": "shì zhě shēng cún",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "物竞天择，适者生存"
+    ],
+    "modern": "borrowed",
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "fit · those · survive · remain",
+    "natural": "survival of the fittest",
+    "meaning": {
+      "en": "Only those that adapt to their environment survive.",
+      "zh": "能适应环境的生存下来，不能适应的被淘汰。"
+    },
+    "equivalents": [
+      "survival of the fittest",
+      "adapt or die"
+    ],
+    "examples": [
+      {
+        "zh": "商场如战场，适者生存。",
+        "en": "The marketplace is a battlefield: survival of the fittest."
+      },
+      {
+        "zh": "达尔文提出了物竞天择，适者生存的理论。",
+        "en": "Darwin put forward the theory of natural selection and survival of the fittest."
+      },
+      {
+        "zh": "在这个行业，适者生存，不学新技术就会被淘汰。",
+        "en": "In this industry it is survival of the fittest; those who don't learn new technology get weeded out."
+      }
+    ],
+    "origin": {
+      "source": "严复《天演论》",
+      "story": {
+        "en": "Yan Fu's translation of Huxley's 'Evolution and Ethics' (1898) rendered the idea of natural selection as 'struggle for existence, natural selection, survival of the fittest'.",
+        "zh": "严复译述赫胥黎《天演论》，以“物竞天择，适者生存”概括进化论的思想。"
+      }
+    },
+    "usage": {
+      "en": "Usually a standalone slogan or a clause.",
+      "zh": "常单独成句或作分句。"
+    },
+    "synonyms": [
+      "优胜劣汰",
+      "弱肉强食"
+    ],
+    "antonyms": [
+      "不思进取",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "cang-hai-heng-liu",
+    "text": "沧海横流",
+    "pinyin": "cāng hǎi héng liú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "chaos",
+      "extraordinary-circumstances"
+    ],
+    "literal": "vast sea · flows across · flow",
+    "natural": "turbulent times",
+    "meaning": {
+      "en": "A great flood sweeping across the land; a time of great social turmoil.",
+      "zh": "大海中波涛四处奔流，比喻社会动荡不安、局势混乱。"
+    },
+    "equivalents": [
+      "turbulent times",
+      "a world in turmoil"
+    ],
+    "examples": [
+      {
+        "zh": "沧海横流，方显英雄本色。",
+        "en": "In times of great upheaval, true heroes show their mettle."
+      },
+      {
+        "zh": "乱世沧海横流，百姓流离失所。",
+        "en": "In those turbulent years the people were uprooted and left homeless."
+      },
+      {
+        "zh": "面对沧海横流的局势，他始终坚守原则。",
+        "en": "Faced with a world in turmoil, he held fast to his principles."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; literary.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "天下大乱",
+      "兵荒马乱"
+    ],
+    "antonyms": [
+      "太平盛世",
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "fu-jia-yi-fang",
+    "text": "富甲一方",
+    "pinyin": "fù jiǎ yī fāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "wealth · first · one · region",
+    "natural": "the richest in the region",
+    "meaning": {
+      "en": "To be the wealthiest person in a region.",
+      "zh": "财富居一个地区之首。"
+    },
+    "equivalents": [
+      "the richest in the area",
+      "a local tycoon"
+    ],
+    "examples": [
+      {
+        "zh": "他靠做茶叶生意，富甲一方。",
+        "en": "He became the richest man in the area through the tea trade."
+      },
+      {
+        "zh": "这位富甲一方的商人乐善好施。",
+        "en": "This merchant, the wealthiest in the region, was generous to the needy."
+      },
+      {
+        "zh": "昔日的小山村出了一位富甲一方的企业家。",
+        "en": "The little mountain village once produced a local business tycoon."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "富可敌国",
+      "家财万贯"
+    ],
+    "antonyms": [
+      "一贫如洗",
+      "家徒四壁"
+    ]
+  },
+  {
+    "id": "jia-cai-wan-guan",
+    "text": "家财万贯",
+    "pinyin": "jiā cái wàn guàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance"
+    ],
+    "literal": "family · wealth · ten-thousand · strings of cash",
+    "natural": "enormously rich",
+    "meaning": {
+      "en": "To own an enormous fortune.",
+      "zh": "家里财产极多，十分富有。"
+    },
+    "equivalents": [
+      "rolling in money",
+      "enormously wealthy"
+    ],
+    "examples": [
+      {
+        "zh": "他家财万贯，却过着十分节俭的生活。",
+        "en": "He is enormously wealthy, yet he lives very frugally."
+      },
+      {
+        "zh": "即使家财万贯，也买不来健康。",
+        "en": "Even a vast fortune cannot buy health."
+      },
+      {
+        "zh": "传说这座老宅的主人当年家财万贯。",
+        "en": "The owner of this old mansion is said to have been enormously rich."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "腰缠万贯",
+      "富甲一方"
+    ],
+    "antonyms": [
+      "一贫如洗",
+      "囊空如洗"
+    ]
+  },
+  {
+    "id": "rao-you-xing-qu",
+    "text": "饶有兴趣",
+    "pinyin": "ráo yǒu xìng qù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "abundantly · have · interest · taste",
+    "natural": "with great interest",
+    "meaning": {
+      "en": "To be very interested in something.",
+      "zh": "很有兴趣，兴致很浓。"
+    },
+    "equivalents": [
+      "with great interest",
+      "keenly interested"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们饶有兴趣地看着魔术师表演。",
+        "en": "The children watched the magician with great interest."
+      },
+      {
+        "zh": "他对考古饶有兴趣。",
+        "en": "He is keenly interested in archaeology."
+      },
+      {
+        "zh": "老师饶有兴趣地听完了他的想法。",
+        "en": "The teacher listened to his idea with real interest."
+      }
+    ],
+    "usage": {
+      "en": "Usually 饶有兴趣地 + verb, or predicate with 对.",
+      "zh": "常作状语“饶有兴趣地……”，或作谓语。"
+    },
+    "synonyms": [
+      "兴致勃勃",
+      "津津有味"
+    ],
+    "antonyms": [
+      "兴味索然",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "fen-fa-xiang-shang",
+    "text": "奋发向上",
+    "pinyin": "fèn fā xiàng shàng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "high-aspirations"
+    ],
+    "literal": "rouse · exert · towards · up",
+    "natural": "striving to improve",
+    "meaning": {
+      "en": "To work hard with high spirits and aim for improvement.",
+      "zh": "精神振作，努力上进。"
+    },
+    "equivalents": [
+      "striving upwards",
+      "full of drive"
+    ],
+    "examples": [
+      {
+        "zh": "同学们奋发向上，学习风气很好。",
+        "en": "The pupils are full of drive and the study atmosphere is excellent."
+      },
+      {
+        "zh": "这是一首催人奋发向上的歌。",
+        "en": "This is a song that spurs people on to improve."
+      },
+      {
+        "zh": "他一直保持着奋发向上的精神。",
+        "en": "He has always kept up a spirit of striving."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often in slogans and school contexts.",
+      "zh": "多作谓语、定语，常见于口号和校园语境。"
+    },
+    "synonyms": [
+      "发奋图强",
+      "积极进取"
+    ],
+    "antonyms": [
+      "自甘堕落",
+      "不思进取"
+    ]
+  },
+  {
+    "id": "huo-guang-chong-tian",
+    "text": "火光冲天",
+    "pinyin": "huǒ guāng chōng tiān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "extraordinary-circumstances"
+    ],
+    "literal": "fire · light · surge into · sky",
+    "natural": "flames shooting into the sky",
+    "meaning": {
+      "en": "Flames leaping high into the sky.",
+      "zh": "火焰很高，照亮天空。"
+    },
+    "equivalents": [
+      "flames shooting skyward",
+      "a blaze lighting up the sky"
+    ],
+    "examples": [
+      {
+        "zh": "仓库起火，顿时火光冲天。",
+        "en": "The warehouse caught fire and flames shot up into the sky."
+      },
+      {
+        "zh": "远处火光冲天，消防车呼啸而去。",
+        "en": "A blaze lit up the distant sky as fire engines raced off."
+      },
+      {
+        "zh": "夜里山林火光冲天，村民连忙撤离。",
+        "en": "The forest blazed against the night sky and villagers hurried to evacuate."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "烈火熊熊",
+      "烈焰腾空"
+    ],
+    "antonyms": [
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "ren-yan-xi-shao",
+    "text": "人烟稀少",
+    "pinyin": "rén yān xī shǎo",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "difficult-terrain"
+    ],
+    "literal": "people · smoke · sparse · few",
+    "natural": "sparsely populated",
+    "meaning": {
+      "en": "Few people live there.",
+      "zh": "居住的人很少，地方荒凉。"
+    },
+    "equivalents": [
+      "sparsely populated",
+      "deserted"
+    ],
+    "examples": [
+      {
+        "zh": "这一带人烟稀少，晚上最好不要独自出行。",
+        "en": "This area is sparsely populated; it is best not to go out alone at night."
+      },
+      {
+        "zh": "西北的戈壁滩人烟稀少。",
+        "en": "The Gobi in the north-west is thinly populated."
+      },
+      {
+        "zh": "他们在人烟稀少的山区开办了学校。",
+        "en": "They set up a school in a thinly populated mountain area."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "荒无人烟",
+      "地广人稀"
+    ],
+    "antonyms": [
+      "人烟稠密",
+      "人山人海"
+    ]
+  },
+  {
+    "id": "hua-yang-bai-chu",
+    "text": "花样百出",
+    "pinyin": "huā yàng bǎi chū",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "innovation-and-progress"
+    ],
+    "literal": "pattern · style · hundred · emerge",
+    "natural": "full of new tricks",
+    "meaning": {
+      "en": "To produce endless new varieties or tricks.",
+      "zh": "形容方式、样式多种多样，层出不穷。"
+    },
+    "equivalents": [
+      "full of tricks",
+      "endlessly inventive"
+    ],
+    "examples": [
+      {
+        "zh": "商家的促销手段花样百出。",
+        "en": "Shops come up with an endless variety of promotional tricks."
+      },
+      {
+        "zh": "小孩子玩起游戏来花样百出。",
+        "en": "Children invent all sorts of ways to play a game."
+      },
+      {
+        "zh": "这家店的甜品花样百出，每个月都有新品。",
+        "en": "The desserts here come in endless varieties, with something new every month."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; can be neutral or mildly critical depending on context.",
+      "zh": "多作谓语，可褒可贬。"
+    },
+    "synonyms": [
+      "层出不穷",
+      "花样翻新"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "一成不变"
+    ]
+  },
+  {
+    "id": "que-you-qi-shi",
+    "text": "确有其事",
+    "pinyin": "què yǒu qí shì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity"
+    ],
+    "literal": "truly · have · its · matter",
+    "natural": "it did happen",
+    "meaning": {
+      "en": "The thing really did happen.",
+      "zh": "事情确实发生过，不是编造的。"
+    },
+    "equivalents": [
+      "it really happened",
+      "it is true"
+    ],
+    "examples": [
+      {
+        "zh": "经调查，网上所说确有其事。",
+        "en": "Investigation showed that what was said online was true."
+      },
+      {
+        "zh": "这件事确有其事，并非谣言。",
+        "en": "It really did happen; it is no rumour."
+      },
+      {
+        "zh": "记者核实后，证明此事确有其事。",
+        "en": "After checking, the reporter confirmed the matter was genuine."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; used for confirming facts.",
+      "zh": "多作谓语，用于证实事实。"
+    },
+    "synonyms": [
+      "确凿无疑",
+      "千真万确"
+    ],
+    "antonyms": [
+      "子虚乌有",
+      "查无此事"
+    ]
+  },
+  {
+    "id": "guo-guan-zhan-jiang",
+    "text": "过关斩将",
+    "pinyin": "guò guān zhǎn jiàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "three-kingdoms",
+      "competition-and-rivalry"
+    ],
+    "literal": "pass · gate · behead · general",
+    "natural": "fight one's way through",
+    "meaning": {
+      "en": "To overcome one obstacle after another on the way to success.",
+      "zh": "形容一路克服重重困难，取得胜利。"
+    },
+    "equivalents": [
+      "fight one's way through",
+      "win through round after round"
+    ],
+    "examples": [
+      {
+        "zh": "他过关斩将，一路杀进决赛。",
+        "en": "He fought his way through every round and into the final."
+      },
+      {
+        "zh": "这位新人过关斩将，终于拿到了录用通知。",
+        "en": "The newcomer cleared one interview after another and finally got the offer."
+      },
+      {
+        "zh": "游戏玩家要过关斩将才能见到最后的首领。",
+        "en": "Players must beat every level and boss before facing the final one."
+      }
+    ],
+    "origin": {
+      "source": "《三国演义》第二十七回",
+      "story": {
+        "en": "In Romance of the Three Kingdoms, Guan Yu leaves Cao Cao to rejoin Liu Bei and slays six generals while passing five fortified passes (过五关斩六将).",
+        "zh": "《三国演义》中，关羽辞别曹操，千里寻兄，“过五关斩六将”。"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often for contests, interviews and games.",
+      "zh": "多作谓语，常用于比赛、面试、游戏。"
+    },
+    "synonyms": [
+      "所向披靡",
+      "一路过关"
+    ],
+    "antonyms": [
+      "败下阵来",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "man-xin-huan-xi",
+    "text": "满心欢喜",
+    "pinyin": "mǎn xīn huān xǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "full · heart · joy · delight",
+    "natural": "overjoyed",
+    "meaning": {
+      "en": "To be filled with joy.",
+      "zh": "心里非常高兴。"
+    },
+    "equivalents": [
+      "overjoyed",
+      "with a joyful heart"
+    ],
+    "examples": [
+      {
+        "zh": "收到录取通知书，她满心欢喜。",
+        "en": "She was overjoyed to receive the admission letter."
+      },
+      {
+        "zh": "孩子满心欢喜地拆开礼物。",
+        "en": "The child opened the present with delight."
+      },
+      {
+        "zh": "他满心欢喜地回到了家乡。",
+        "en": "He returned home with a joyful heart."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial with 地.",
+      "zh": "多作谓语，或带“地”作状语。"
+    },
+    "synonyms": [
+      "喜出望外",
+      "心花怒放"
+    ],
+    "antonyms": [
+      "满心忧愁",
+      "闷闷不乐"
+    ]
+  },
+  {
+    "id": "ze-ze-cheng-qi",
+    "text": "啧啧称奇",
+    "pinyin": "zé zé chēng qí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "tut-tut · tut-tut · praise · marvel",
+    "natural": "click one's tongue in wonder",
+    "meaning": {
+      "en": "To exclaim in admiration or amazement.",
+      "zh": "不断发出赞叹声，表示惊奇。"
+    },
+    "equivalents": [
+      "marvel with a click of the tongue",
+      "exclaim in wonder"
+    ],
+    "examples": [
+      {
+        "zh": "他的画技让在场的人啧啧称奇。",
+        "en": "His painting skill made everyone present exclaim in wonder."
+      },
+      {
+        "zh": "游客们对这座古桥的建造工艺啧啧称奇。",
+        "en": "Visitors marvelled at the old bridge's construction."
+      },
+      {
+        "zh": "这个小镇的变化令老同学们啧啧称奇。",
+        "en": "The town's transformation amazed his old classmates."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 啧啧 imitates the clicking sound of admiration.",
+      "zh": "多作谓语；“啧啧”是赞叹时发出的声音。"
+    },
+    "synonyms": [
+      "惊叹不已",
+      "叹为观止"
+    ],
+    "antonyms": [
+      "不以为然",
+      "见怪不怪"
+    ]
+  },
+  {
+    "id": "mei-qi-ming-yue",
+    "text": "美其名曰",
+    "pinyin": "měi qí míng yuē",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "beautify · its · name · call",
+    "natural": "call it (euphemistically)",
+    "meaning": {
+      "en": "To give something a fine-sounding name that disguises what it really is.",
+      "zh": "给不太好的事物取一个好听的名称，含讽刺意味。"
+    },
+    "equivalents": [
+      "euphemistically called",
+      "under the fancy name of"
+    ],
+    "examples": [
+      {
+        "zh": "他把偷懒美其名曰“劳逸结合”。",
+        "en": "He fancily calls his laziness 'balancing work and rest'."
+      },
+      {
+        "zh": "加班被美其名曰“奋斗精神”。",
+        "en": "Overtime is dressed up as 'a spirit of striving'."
+      },
+      {
+        "zh": "美其名曰为你好，其实是想控制你。",
+        "en": "Under the fine name of 'for your own good', he really wants to control you."
+      }
+    ],
+    "usage": {
+      "en": "Introduces the fine-sounding label; sarcastic.",
+      "zh": "后接美名，带讽刺意味。"
+    },
+    "synonyms": [
+      "冠冕堂皇",
+      "名不副实"
+    ],
+    "antonyms": [
+      "名副其实",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "jing-shen-jue-shuo",
+    "text": "精神矍铄",
+    "pinyin": "jīng shén jué shuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "health",
+      "positive-character-qualities",
+      "historical-records"
+    ],
+    "literal": "spirit · energy · vigorous · bright",
+    "natural": "hale and hearty",
+    "meaning": {
+      "en": "Full of vigour and energy despite old age.",
+      "zh": "形容老年人精神健旺、有活力。"
+    },
+    "equivalents": [
+      "hale and hearty",
+      "spry for one's age"
+    ],
+    "examples": [
+      {
+        "zh": "八十岁的老教授依然精神矍铄。",
+        "en": "The eighty-year-old professor is still hale and hearty."
+      },
+      {
+        "zh": "爷爷退休后天天打太极，精神矍铄。",
+        "en": "Grandpa does tai chi every day since retiring and is full of vim."
+      },
+      {
+        "zh": "老人精神矍铄，丝毫看不出已过九旬。",
+        "en": "The old man is so spry that you'd never guess he is over ninety."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·马援传》",
+      "story": {
+        "en": "The aged general Ma Yuan asked to lead a campaign, mounting his horse to show his strength; Emperor Guangwu laughed and said 'How vigorous this old man is!' (矍铄哉是翁也).",
+        "zh": "马援年老请战，据鞍顾盼以示可用，光武帝笑曰：“矍铄哉是翁也！”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; only for the elderly.",
+      "zh": "多作谓语，只用于老年人。"
+    },
+    "synonyms": [
+      "老当益壮",
+      "鹤发童颜"
+    ],
+    "antonyms": [
+      "老态龙钟",
+      "暮气沉沉"
+    ]
+  },
+  {
+    "id": "xiao-rong-man-mian",
+    "text": "笑容满面",
+    "pinyin": "xiào róng mǎn miàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "满面笑容"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "appearance"
+    ],
+    "literal": "smile · look · full · face",
+    "natural": "beaming",
+    "meaning": {
+      "en": "To have a face full of smiles.",
+      "zh": "脸上充满笑容。"
+    },
+    "equivalents": [
+      "beaming",
+      "all smiles"
+    ],
+    "examples": [
+      {
+        "zh": "他笑容满面地迎接客人。",
+        "en": "He greeted the guests, beaming."
+      },
+      {
+        "zh": "听到好消息，她笑容满面。",
+        "en": "On hearing the good news she was all smiles."
+      },
+      {
+        "zh": "服务员笑容满面，让人如沐春风。",
+        "en": "The waiter's friendly smile put everyone at ease."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial with 地.",
+      "zh": "多作谓语，或带“地”作状语。"
+    },
+    "synonyms": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "哭丧着脸"
+    ]
+  }
+]
