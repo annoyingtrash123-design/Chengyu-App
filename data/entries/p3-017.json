@@ -3,11 +3,11 @@
     "id": "fan-xiang-dao-gui",
     "text": "翻箱倒柜",
     "pinyin": "fān xiāng dǎo guì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "翻箱倒箧"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -159,11 +159,11 @@
     "id": "du-duan-zhuan-xing",
     "text": "独断专行",
     "pinyin": "dú duàn zhuān xíng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "独断独行"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -270,11 +270,11 @@
     "id": "pu-shi-wu-hua",
     "text": "朴实无华",
     "pinyin": "pǔ shí wú huá",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "朴素无华"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -422,6 +422,9 @@
     "id": "cheng-xu-er-ru",
     "text": "乘虚而入",
     "pinyin": "chéng xū ér rù",
+    "variants": [
+      "趁虚而入"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -643,11 +646,11 @@
     "id": "yin-cha-yang-cuo",
     "text": "阴差阳错",
     "pinyin": "yīn chā yáng cuò",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "阴错阳差"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -797,11 +800,11 @@
     "id": "qian-shan-wan-shui",
     "text": "千山万水",
     "pinyin": "qiān shān wàn shuǐ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "万水千山"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

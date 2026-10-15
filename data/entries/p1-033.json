@@ -1247,10 +1247,13 @@
   },
   {
     "id": "huang-huang-bu-an",
-    "text": "惶惶不安",
-    "pinyin": "huáng huáng bù ān",
+    "text": "惶恐不安",
+    "pinyin": "huáng kǒng bù ān",
+    "variants": [
+      "惶惶不安"
+    ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

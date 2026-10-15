@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "yu-yu-gua-huan",
+    "text": "郁郁寡欢",
+    "pinyin": "yù yù guǎ huān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "solitude-and-isolation"
+    ],
+    "literal": "gloomy · gloomy · few · joy",
+    "natural": "gloomy and cheerless",
+    "meaning": {
+      "en": "Depressed and rarely happy.",
+      "zh": "心情不舒畅，很少有高兴的时候。"
+    },
+    "equivalents": [
+      "gloomy",
+      "joyless",
+      "down in the dumps"
+    ],
+    "examples": [
+      {
+        "zh": "自从失业后，他一直郁郁寡欢。",
+        "en": "Since losing his job he has been gloomy."
+      },
+      {
+        "zh": "她终日郁郁寡欢，不爱说话。",
+        "en": "She was joyless all day and hardly spoke."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "闷闷不乐",
+      "愁眉不展",
+      "忧心忡忡"
+    ],
+    "antonyms": [
+      "兴高采烈",
+      "喜笑颜开",
+      "心花怒放"
+    ]
+  },
+  {
+    "id": "tun-yun-tu-wu",
+    "text": "吞云吐雾",
+    "pinyin": "tūn yún tǔ wù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relaxation-and-rest",
+      "inappropriate-behavior"
+    ],
+    "literal": "swallow · clouds · spit · mist",
+    "natural": "puff away",
+    "meaning": {
+      "en": "To smoke heavily, as if swallowing clouds and exhaling mist.",
+      "zh": "原指道家修炼的方法，现多形容人抽烟或吸毒时烟雾缭绕的样子。"
+    },
+    "equivalents": [
+      "puff away at a cigarette",
+      "smoke like a chimney"
+    ],
+    "examples": [
+      {
+        "zh": "几个老头坐在门口吞云吐雾。",
+        "en": "A few old men sat at the door puffing away."
+      },
+      {
+        "zh": "会议室里吞云吐雾，呛得人直咳嗽。",
+        "en": "The meeting room was thick with smoke and made people cough."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; jocular or mildly disapproving.",
+      "zh": "多作谓语，带戏谑或贬义。"
+    },
+    "synonyms": [
+      "烟雾缭绕"
+    ],
+    "antonyms": [
+      "戒烟",
+      "清心寡欲"
+    ]
+  },
+  {
+    "id": "ming-zhe-bao-shen",
+    "text": "明哲保身",
+    "pinyin": "míng zhé bǎo shēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "fear-and-cowardice",
+      "poems-prose"
+    ],
+    "literal": "wise · sagacious · protect · self",
+    "natural": "play safe to protect oneself",
+    "meaning": {
+      "en": "To avoid trouble by staying out of principle disputes; now often self-serving caution.",
+      "zh": "原指聪明人善于保全自己，现多指为了个人得失而回避原则斗争。"
+    },
+    "equivalents": [
+      "play it safe",
+      "keep one's head down"
+    ],
+    "examples": [
+      {
+        "zh": "遇到不公平的事，他选择明哲保身。",
+        "en": "Faced with injustice, he chose to keep his head down."
+      },
+      {
+        "zh": "明哲保身的态度只会让问题恶化。",
+        "en": "A play-safe attitude only makes the problem worse."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·大雅·烝民》",
+      "story": {
+        "en": "Ode on Zhongshan Fu: 'Both clear-sighted and wise, he thereby protects his person' (既明且哲，以保其身).",
+        "zh": "《诗经》：“既明且哲，以保其身。”"
+      }
+    },
+    "usage": {
+      "en": "Today mostly disapproving.",
+      "zh": "现多含贬义。"
+    },
+    "synonyms": [
+      "洁身自好",
+      "自扫门前雪",
+      "独善其身"
+    ],
+    "antonyms": [
+      "挺身而出",
+      "见义勇为",
+      "舍生取义"
+    ]
+  },
+  {
+    "id": "shuang-xi-lin-men",
+    "text": "双喜临门",
+    "pinyin": "shuāng xǐ lín mén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "festive-greetings"
+    ],
+    "literal": "double · joy · arrive at · door",
+    "natural": "two pieces of good news at once",
+    "meaning": {
+      "en": "Two happy events arriving together.",
+      "zh": "两件喜事同时到来。"
+    },
+    "equivalents": [
+      "double happiness",
+      "two joys at once"
+    ],
+    "examples": [
+      {
+        "zh": "他升职又得千金，真是双喜临门。",
+        "en": "He got a promotion and a baby daughter, a double blessing."
+      },
+      {
+        "zh": "祝你们新年双喜临门！",
+        "en": "May good fortune come twice over in the new year!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; said as a wish at New Year.",
+      "zh": "多作谓语，新年时用作祝福语。"
+    },
+    "synonyms": [
+      "喜上加喜",
+      "喜事连连",
+      "好事成双"
+    ],
+    "antonyms": [
+      "祸不单行",
+      "雪上加霜"
+    ]
+  },
+  {
+    "id": "da-hong-da-zi",
+    "text": "大红大紫",
+    "pinyin": "dà hóng dà zǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "very · red · very · purple",
+    "natural": "become hugely famous",
+    "meaning": {
+      "en": "Hugely popular and successful.",
+      "zh": "形容非常走红，名声很大。"
+    },
+    "equivalents": [
+      "rise to stardom",
+      "become a household name"
+    ],
+    "examples": [
+      {
+        "zh": "这部电视剧让他一夜之间大红大紫。",
+        "en": "The TV series made him hugely famous overnight."
+      },
+      {
+        "zh": "她没想过要大红大紫，只想做好演员。",
+        "en": "She never wanted to be a big star, only a good actor."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; entertainment-world flavour.",
+      "zh": "多作谓语，常用于娱乐圈。"
+    },
+    "synonyms": [
+      "红极一时",
+      "声名鹊起",
+      "炙手可热"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无人问津",
+      "名落孙山"
+    ]
+  },
+  {
+    "id": "li-jiu-mi-jian",
+    "text": "历久弥坚",
+    "pinyin": "lì jiǔ mí jiān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "value-of-time"
+    ],
+    "literal": "pass through · long · ever more · firm",
+    "natural": "grow stronger with time",
+    "meaning": {
+      "en": "To grow ever firmer as time passes.",
+      "zh": "经历的时间越长越坚定、牢固。"
+    },
+    "equivalents": [
+      "stand the test of time",
+      "grow stronger over time"
+    ],
+    "examples": [
+      {
+        "zh": "他们的友谊历久弥坚。",
+        "en": "Their friendship has grown stronger with the years."
+      },
+      {
+        "zh": "这份信念历久弥坚。",
+        "en": "The conviction only deepens with time."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "老当益壮",
+      "经久不衰"
+    ],
+    "antonyms": [
+      "昙花一现",
+      "日久生厌"
+    ]
+  },
+  {
+    "id": "wang-yan-yu-chuan",
+    "text": "望眼欲穿",
+    "pinyin": "wàng yǎn yù chuān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "love-and-marriage"
+    ],
+    "literal": "gaze · eyes · about to · pierce",
+    "natural": "wait with straining eyes",
+    "meaning": {
+      "en": "To gaze into the distance so long and eagerly that one's eyes seem to wear through.",
+      "zh": "形容盼望得非常急切。"
+    },
+    "equivalents": [
+      "watch and wait anxiously",
+      "long with straining eyes"
+    ],
+    "examples": [
+      {
+        "zh": "母亲望眼欲穿，盼着儿子回家。",
+        "en": "The mother waited with straining eyes for her son to come home."
+      },
+      {
+        "zh": "大家望眼欲穿，等着录取通知书。",
+        "en": "Everyone is anxiously waiting for the admission letters."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "翘首以盼",
+      "朝思暮想",
+      "引颈而望"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "不屑一顾"
+    ]
+  },
+  {
+    "id": "jie-zu-xian-deng",
+    "text": "捷足先登",
+    "pinyin": "jié zú xiān dēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "nimble · feet · first · ascend",
+    "natural": "the early bird gets there first",
+    "meaning": {
+      "en": "The swift-footed gets there first.",
+      "zh": "行动快的人先达到目的或先得到所求。"
+    },
+    "equivalents": [
+      "beat others to it",
+      "get there first"
+    ],
+    "examples": [
+      {
+        "zh": "那套房子被别人捷足先登了。",
+        "en": "Someone else beat us to that flat."
+      },
+      {
+        "zh": "他想报名，却被同事捷足先登。",
+        "en": "He wanted to sign up, but a colleague got there first."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often passive-flavoured with 被.",
+      "zh": "多作谓语，常说“被……捷足先登”。"
+    },
+    "synonyms": [
+      "先下手为强",
+      "先发制人",
+      "抢占先机"
+    ],
+    "antonyms": [
+      "后来居上",
+      "姗姗来迟",
+      "慢人一步"
+    ]
+  },
+  {
+    "id": "chu-yu-wu-nai",
+    "text": "出于无奈",
+    "pinyin": "chū yú wú nài",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation"
+    ],
+    "literal": "come from · helplessness",
+    "natural": "out of necessity",
+    "meaning": {
+      "en": "Because there is no alternative.",
+      "zh": "因为没有别的办法。"
+    },
+    "equivalents": [
+      "out of necessity",
+      "having no choice"
+    ],
+    "examples": [
+      {
+        "zh": "他出于无奈才卖掉了老房子。",
+        "en": "He sold the old house only because he had no choice."
+      },
+      {
+        "zh": "这样做完全是出于无奈。",
+        "en": "I did this purely out of necessity."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "迫不得已",
+      "情非得已",
+      "万般无奈"
+    ],
+    "antonyms": [
+      "心甘情愿",
+      "自愿"
+    ]
+  },
+  {
+    "id": "bian-chang-mo-ji",
+    "text": "鞭长莫及",
+    "pinyin": "biān cháng mò jí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation",
+      "difficult-terrain",
+      "historical-records"
+    ],
+    "literal": "whip · long · cannot · reach",
+    "natural": "beyond one's reach",
+    "meaning": {
+      "en": "Out of reach however long the whip.",
+      "zh": "鞭子虽长，打不到马腹，比喻力量达不到。"
+    },
+    "equivalents": [
+      "beyond one's reach",
+      "unable to help from afar"
+    ],
+    "examples": [
+      {
+        "zh": "孩子在国外，父母鞭长莫及。",
+        "en": "With the child abroad, the parents are powerless to help."
+      },
+      {
+        "zh": "总部对海外分公司鞭长莫及。",
+        "en": "Head office can hardly reach its overseas branches."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十五年》",
+      "story": {
+        "en": "Chu was besieging Song, which asked Jin for help; the Jin minister said: 'Though the whip is long, it cannot reach the horse's belly' (虽鞭之长，不及马腹).",
+        "zh": "《左传》：“古人有言曰：‘虽鞭之长，不及马腹。’”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "力不从心",
+      "爱莫能助",
+      "望尘莫及"
+    ],
+    "antonyms": [
+      "触手可及",
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "ping-xin-jing-qi",
+    "text": "平心静气",
+    "pinyin": "píng xīn jìng qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "anger"
+    ],
+    "literal": "level · heart · calm · breath",
+    "natural": "calm and composed",
+    "meaning": {
+      "en": "Calm and unruffled; not angry.",
+      "zh": "心情平和，态度冷静。"
+    },
+    "equivalents": [
+      "calmly",
+      "with a level head"
+    ],
+    "examples": [
+      {
+        "zh": "咱们平心静气地谈谈。",
+        "en": "Let's talk it over calmly."
+      },
+      {
+        "zh": "遇事要平心静气，不要急躁。",
+        "en": "Face things with a calm mind and don't be hasty."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "心平气和",
+      "冷静沉着"
+    ],
+    "antonyms": [
+      "怒气冲冲",
+      "暴跳如雷",
+      "火冒三丈"
+    ]
+  },
+  {
+    "id": "han-bao-dai-fang",
+    "text": "含苞待放",
+    "pinyin": "hán bāo dài fàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes"
+    ],
+    "literal": "hold · bud · await · bloom",
+    "natural": "about to bloom",
+    "meaning": {
+      "en": "In bud, ready to bloom.",
+      "zh": "花朵含着花苞，将要开放；也比喻少女或新事物即将成长。"
+    },
+    "equivalents": [
+      "in bud",
+      "about to blossom"
+    ],
+    "examples": [
+      {
+        "zh": "院子里的玉兰含苞待放。",
+        "en": "The magnolias in the yard are about to bloom."
+      },
+      {
+        "zh": "她正值含苞待放的年纪。",
+        "en": "She is at the budding age."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "花蕾初绽",
+      "蓄势待发"
+    ],
+    "antonyms": [
+      "盛开",
+      "花开花落",
+      "凋零"
+    ]
+  },
+  {
+    "id": "ru-meng-chu-xing",
+    "text": "如梦初醒",
+    "pinyin": "rú mèng chū xǐng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "mistakes-and-correction"
+    ],
+    "literal": "like · dream · just · wake",
+    "natural": "as if waking from a dream",
+    "meaning": {
+      "en": "To suddenly realise the truth, as if just waking from a dream.",
+      "zh": "好像刚从梦中醒来，比喻过去一直糊涂，现在才明白过来。"
+    },
+    "equivalents": [
+      "as if waking from a dream",
+      "have one's eyes opened"
+    ],
+    "examples": [
+      {
+        "zh": "听了他的话，我如梦初醒。",
+        "en": "After hearing him out, I felt as if I'd woken from a dream."
+      },
+      {
+        "zh": "他这才如梦初醒，发现上当了。",
+        "en": "Only then did it dawn on him that he had been cheated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 醒 is xǐng.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "恍然大悟",
+      "茅塞顿开",
+      "幡然醒悟"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "冥顽不灵",
+      "梦中说梦"
+    ]
+  },
+  {
+    "id": "xie-tian-xie-di",
+    "text": "谢天谢地",
+    "pinyin": "xiè tiān xiè dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "joy-and-happiness",
+      "relaxation-and-rest"
+    ],
+    "literal": "thank · heaven · thank · earth",
+    "natural": "thank goodness",
+    "meaning": {
+      "en": "An exclamation of relief.",
+      "zh": "表示庆幸、如释重负。"
+    },
+    "equivalents": [
+      "thank goodness",
+      "thank heavens"
+    ],
+    "examples": [
+      {
+        "zh": "谢天谢地，你平安回来了！",
+        "en": "Thank goodness you're back safe!"
+      },
+      {
+        "zh": "谢天谢地，考试终于结束了。",
+        "en": "Thank heavens, the exams are finally over."
+      }
+    ],
+    "usage": {
+      "en": "Exclamation, sentence-initial.",
+      "zh": "常作感叹语，放句首。"
+    },
+    "synonyms": [
+      "万幸",
+      "幸好",
+      "阿弥陀佛"
+    ],
+    "antonyms": [
+      "天哪",
+      "倒霉透顶"
+    ]
+  },
+  {
+    "id": "cheng-xiong-dao-di",
+    "text": "称兄道弟",
+    "pinyin": "chēng xiōng dào dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "call · brother · say · younger brother",
+    "natural": "be on brotherly terms",
+    "meaning": {
+      "en": "To address one another as brothers; to be very chummy.",
+      "zh": "互相以兄弟相称，形容关系亲密（有时含虚情假意）。"
+    },
+    "equivalents": [
+      "be on brotherly terms",
+      "be bosom buddies"
+    ],
+    "examples": [
+      {
+        "zh": "酒桌上他们称兄道弟，散了席就翻脸。",
+        "en": "At the table they were bosom buddies; after the meal they fell out."
+      },
+      {
+        "zh": "他和领导称兄道弟，很吃得开。",
+        "en": "He's chummy with the boss and gets along well."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; sometimes sarcastic.",
+      "zh": "多作谓语，有时带讽刺。"
+    },
+    "synonyms": [
+      "亲如手足",
+      "勾肩搭背",
+      "情同手足"
+    ],
+    "antonyms": [
+      "形同陌路",
+      "反目成仇"
+    ]
+  },
+  {
+    "id": "zhan-zhuan-fan-ce",
+    "text": "辗转反侧",
+    "pinyin": "zhǎn zhuǎn fǎn cè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "psychological-pressure",
+      "love-and-marriage",
+      "poems-prose"
+    ],
+    "literal": "toss · turn · reverse · sideways",
+    "natural": "toss and turn",
+    "meaning": {
+      "en": "To toss and turn in bed, unable to sleep.",
+      "zh": "翻来覆去睡不着觉，形容心事重重或思念。"
+    },
+    "equivalents": [
+      "toss and turn",
+      "lie awake"
+    ],
+    "examples": [
+      {
+        "zh": "想到明天的面试，他辗转反侧，一夜未眠。",
+        "en": "Thinking of tomorrow's interview, he tossed and turned all night."
+      },
+      {
+        "zh": "她辗转反侧，思念着远方的亲人。",
+        "en": "She lay awake, missing her far-off family."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·周南·关雎》",
+      "story": {
+        "en": "In 'Guan Ju', a man longing for a beloved: 'Seeking her and not getting her, waking and sleeping he thinks of her; endlessly he tosses and turns' (悠哉悠哉，辗转反侧).",
+        "zh": "《诗经》：“求之不得，寤寐思服。悠哉悠哉，辗转反侧。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "彻夜难眠",
+      "夜不能寐",
+      "翻来覆去"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "酣然入梦",
+      "倒头便睡"
+    ]
+  },
+  {
+    "id": "qian-chui-bai-lian",
+    "text": "千锤百炼",
+    "pinyin": "qiān chuí bǎi liàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "high-aspirations"
+    ],
+    "literal": "thousand · hammerings · hundred · temperings",
+    "natural": "tempered through countless trials",
+    "meaning": {
+      "en": "Refined through repeated forging; tested by many hardships.",
+      "zh": "多次锤打锻炼，比喻经过多次艰苦的磨炼或反复修改。"
+    },
+    "equivalents": [
+      "thoroughly tempered",
+      "honed to perfection"
+    ],
+    "examples": [
+      {
+        "zh": "这支队伍是千锤百炼出来的。",
+        "en": "This team was forged through countless trials."
+      },
+      {
+        "zh": "这首诗经过千锤百炼才定稿。",
+        "en": "The poem was finalised only after endless polishing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, complement or attributive.",
+      "zh": "多作谓语、补语、定语。"
+    },
+    "synonyms": [
+      "百炼成钢",
+      "精雕细琢",
+      "身经百战"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "未经磨炼"
+    ]
+  },
+  {
+    "id": "chun-han-liao-qiao",
+    "text": "春寒料峭",
+    "pinyin": "chūn hán liào qiào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions"
+    ],
+    "literal": "spring · cold · sharp · piercing",
+    "natural": "the chill of early spring",
+    "meaning": {
+      "en": "The sharp chill of early spring.",
+      "zh": "形容初春的寒意仍然很重。"
+    },
+    "equivalents": [
+      "the chill of early spring",
+      "a bitter early spring wind"
+    ],
+    "examples": [
+      {
+        "zh": "虽然已是三月，却仍春寒料峭。",
+        "en": "Although it's March, the early spring is still bitterly cold."
+      },
+      {
+        "zh": "春寒料峭，出门记得加件外套。",
+        "en": "The early spring is chilly, so take a coat."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; literary.",
+      "zh": "描写性，书面语。"
+    },
+    "synonyms": [
+      "乍暖还寒",
+      "天寒地冻"
+    ],
+    "antonyms": [
+      "春暖花开",
+      "酷暑难当"
+    ]
+  },
+  {
+    "id": "gui-xin-si-jian",
+    "text": "归心似箭",
+    "pinyin": "guī xīn sì jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "family-and-home"
+    ],
+    "literal": "return · heart · like · arrow",
+    "natural": "itching to get home",
+    "meaning": {
+      "en": "Longing to go home as fast as an arrow.",
+      "zh": "想回家的心情像射出的箭一样急切。"
+    },
+    "equivalents": [
+      "be itching to get home",
+      "long to be home"
+    ],
+    "examples": [
+      {
+        "zh": "临近春节，在外打工的人归心似箭。",
+        "en": "With the Spring Festival near, migrant workers are longing to be home."
+      },
+      {
+        "zh": "出差一个月，他早已归心似箭。",
+        "en": "After a month away on business he was dying to go home."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "思乡心切",
+      "迫不及待"
+    ],
+    "antonyms": [
+      "乐不思蜀",
+      "流连忘返"
+    ]
+  },
+  {
+    "id": "tong-gai-qian-fei",
+    "text": "痛改前非",
+    "pinyin": "tòng gǎi qián fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction"
+    ],
+    "literal": "sincerely · correct · former · wrong",
+    "natural": "turn over a new leaf",
+    "meaning": {
+      "en": "To sincerely mend one's former ways.",
+      "zh": "彻底改正以前的错误。"
+    },
+    "equivalents": [
+      "turn over a new leaf",
+      "mend one's ways"
+    ],
+    "examples": [
+      {
+        "zh": "他出狱后痛改前非，重新做人。",
+        "en": "After prison he mended his ways and started afresh."
+      },
+      {
+        "zh": "这次教训让他痛改前非。",
+        "en": "This lesson made him turn over a new leaf."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "洗心革面",
+      "改过自新",
+      "弃恶从善"
+    ],
+    "antonyms": [
+      "死不悔改",
+      "执迷不悟",
+      "一错再错"
+    ]
+  },
+  {
+    "id": "sheng-li-si-bie",
+    "text": "生离死别",
+    "pinyin": "shēng lí sǐ bié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "love-and-marriage"
+    ],
+    "literal": "living · part · dead · farewell",
+    "natural": "partings in life and death",
+    "meaning": {
+      "en": "Parting while alive or by death; the deepest sorrows of separation.",
+      "zh": "活着时分离，或死后永别，指痛苦的离别。"
+    },
+    "equivalents": [
+      "partings of life and death",
+      "a heartbreaking farewell"
+    ],
+    "examples": [
+      {
+        "zh": "战争让许多家庭经历了生离死别。",
+        "en": "War put many families through heartbreaking partings."
+      },
+      {
+        "zh": "她见过太多的生离死别。",
+        "en": "She has seen too many farewells and bereavements."
+      }
+    ],
+    "usage": {
+      "en": "Often object of 经历.",
+      "zh": "多作宾语，常说“经历生离死别”。"
+    },
+    "synonyms": [
+      "骨肉分离",
+      "天各一方",
+      "阴阳两隔"
+    ],
+    "antonyms": [
+      "团圆",
+      "破镜重圆",
+      "久别重逢"
+    ]
+  },
+  {
+    "id": "liang-shi-yi-you",
+    "text": "良师益友",
+    "pinyin": "liáng shī yì yǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "positive-character-qualities"
+    ],
+    "literal": "good · teacher · helpful · friend",
+    "natural": "teacher and friend in one",
+    "meaning": {
+      "en": "A good teacher and a helpful friend.",
+      "zh": "能给人教导和帮助的好老师、好朋友。"
+    },
+    "equivalents": [
+      "mentor and friend",
+      "a guiding light and friend"
+    ],
+    "examples": [
+      {
+        "zh": "王老师是我们的良师益友。",
+        "en": "Mr Wang is both our teacher and our friend."
+      },
+      {
+        "zh": "书籍是人生的良师益友。",
+        "en": "Books are life's good teachers and friends."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; often 是……的良师益友.",
+      "zh": "名词性词组，常说“是……的良师益友”。"
+    },
+    "synonyms": [
+      "亦师亦友",
+      "知心朋友"
+    ],
+    "antonyms": [
+      "酒肉朋友",
+      "狐朋狗友"
+    ]
+  },
+  {
+    "id": "hou-ji-wu-ren",
+    "text": "后继无人",
+    "pinyin": "hòu jì wú rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "after · succeed · no · one",
+    "natural": "no one to carry on",
+    "meaning": {
+      "en": "Having no successor to carry on the work.",
+      "zh": "没有人接替前人的事业。"
+    },
+    "equivalents": [
+      "no successor",
+      "with no one to carry on"
+    ],
+    "examples": [
+      {
+        "zh": "这门手艺眼看就要后继无人了。",
+        "en": "This craft is about to have no one to carry it on."
+      },
+      {
+        "zh": "企业最怕后继无人。",
+        "en": "A company's greatest fear is having no successor."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "青黄不接",
+      "断了香火"
+    ],
+    "antonyms": [
+      "薪火相传",
+      "人才辈出"
+    ]
+  },
+  {
+    "id": "peng-tou-gou-mian",
+    "text": "蓬头垢面",
+    "pinyin": "péng tóu gòu miàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "poor-health"
+    ],
+    "literal": "unkempt · head · dirty · face",
+    "natural": "dishevelled and dirty",
+    "meaning": {
+      "en": "With tousled hair and a dirty face.",
+      "zh": "头发散乱，脸上很脏，形容不修边幅或境况狼狈。"
+    },
+    "equivalents": [
+      "dishevelled and grimy",
+      "unkempt"
+    ],
+    "examples": [
+      {
+        "zh": "连熬几夜，他蓬头垢面，没了精神。",
+        "en": "After several sleepless nights he was dishevelled and listless."
+      },
+      {
+        "zh": "她蓬头垢面地跑出来。",
+        "en": "She ran out with her hair a mess and her face dirty."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "衣衫褴褛",
+      "不修边幅",
+      "灰头土脸"
+    ],
+    "antonyms": [
+      "衣冠楚楚",
+      "容光焕发",
+      "整洁干净"
+    ]
+  },
+  {
+    "id": "tu-beng-wa-jie",
+    "text": "土崩瓦解",
+    "pinyin": "tǔ bēng wǎ jiě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "chaos"
+    ],
+    "literal": "earth · collapse · tile · break up",
+    "natural": "collapse completely",
+    "meaning": {
+      "en": "To fall apart entirely, like a crumbling bank of earth and shattering tiles.",
+      "zh": "像土塌陷、瓦破碎一样，比喻彻底崩溃。"
+    },
+    "equivalents": [
+      "collapse completely",
+      "fall apart"
+    ],
+    "examples": [
+      {
+        "zh": "敌军的防线土崩瓦解。",
+        "en": "The enemy's defence line collapsed utterly."
+      },
+      {
+        "zh": "这家老牌企业转眼间土崩瓦解。",
+        "en": "The long-established company fell apart in no time."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "分崩离析",
+      "四分五裂",
+      "溃不成军"
+    ],
+    "antonyms": [
+      "坚如磐石",
+      "固若金汤",
+      "安然无恙"
+    ]
+  }
+]

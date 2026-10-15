@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "huang-wu-ren-yan",
+    "text": "荒无人烟",
+    "pinyin": "huāng wú rén yān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain",
+      "solitude-and-isolation"
+    ],
+    "literal": "desolate · without · people · smoke",
+    "natural": "desolate and uninhabited",
+    "meaning": {
+      "en": "Desolate, with no sign of human habitation.",
+      "zh": "荒凉偏僻，没有人家。"
+    },
+    "equivalents": [
+      "uninhabited",
+      "desolate",
+      "in the middle of nowhere"
+    ],
+    "examples": [
+      {
+        "zh": "这里荒无人烟，连手机信号都没有。",
+        "en": "It's uninhabited here; there's not even a phone signal."
+      },
+      {
+        "zh": "他们穿过荒无人烟的戈壁滩。",
+        "en": "They crossed the deserted Gobi."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "人迹罕至",
+      "荒凉偏僻"
+    ],
+    "antonyms": [
+      "人山人海",
+      "人来人往"
+    ]
+  },
+  {
+    "id": "gai-mo-neng-wai",
+    "text": "概莫能外",
+    "pinyin": "gài mò néng wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "essay-favourites"
+    ],
+    "literal": "generally · none · can · be-excepted",
+    "natural": "none can be excepted",
+    "meaning": {
+      "en": "Without exception; no one or nothing can be left out.",
+      "zh": "一概不能例外，没有谁或什么可以除外。"
+    },
+    "equivalents": [
+      "without exception",
+      "no one is exempt"
+    ],
+    "examples": [
+      {
+        "zh": "在法律面前人人平等，任何人概莫能外。",
+        "en": "Everyone is equal before the law; no one is exempt."
+      },
+      {
+        "zh": "经济下行时，各行各业概莫能外。",
+        "en": "In an economic downturn, no industry is spared."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal writing, often at the end of a clause.",
+      "zh": "多作谓语，多用于书面，常放句末。"
+    },
+    "synonyms": [
+      "无一例外",
+      "在所难免"
+    ],
+    "antonyms": [
+      "例外",
+      "独善其身"
+    ]
+  },
+  {
+    "id": "ai-mo-neng-zhu",
+    "text": "爱莫能助",
+    "pinyin": "ài mò néng zhù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness"
+    ],
+    "literal": "willing · none · able · help",
+    "natural": "willing but unable to help",
+    "meaning": {
+      "en": "To want to help but be unable to.",
+      "zh": "心里想帮忙，但力量不够，无法帮助。"
+    },
+    "equivalents": [
+      "want to help but can't",
+      "my hands are tied"
+    ],
+    "examples": [
+      {
+        "zh": "这件事超出我的权限，我爱莫能助。",
+        "en": "This is beyond my authority, so I'm afraid I can't help."
+      },
+      {
+        "zh": "看到他陷入困境，我却爱莫能助。",
+        "en": "I watched him in trouble and could do nothing to help."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; polite refusal.",
+      "zh": "多作谓语，常用作委婉的拒绝。"
+    },
+    "synonyms": [
+      "无能为力",
+      "力不从心"
+    ],
+    "antonyms": [
+      "鼎力相助",
+      "仗义相助"
+    ]
+  },
+  {
+    "id": "you-guo-you-min",
+    "text": "忧国忧民",
+    "pinyin": "yōu guó yōu mín",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "good-governance"
+    ],
+    "literal": "worry · country · worry · people",
+    "natural": "worried for country and people",
+    "meaning": {
+      "en": "To be deeply concerned about the nation and its people.",
+      "zh": "为国家的前途和人民的命运担忧。"
+    },
+    "equivalents": [
+      "be concerned for the nation and its people",
+      "patriotic and caring"
+    ],
+    "examples": [
+      {
+        "zh": "杜甫一生忧国忧民，写下许多诗篇。",
+        "en": "Du Fu worried about the nation and its people all his life, and wrote many poems."
+      },
+      {
+        "zh": "他是一位忧国忧民的学者。",
+        "en": "He is a scholar who cares deeply for his country and its people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "心系天下",
+      "先天下之忧而忧"
+    ],
+    "antonyms": [
+      "祸国殃民",
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "duo-duo-guai-shi",
+    "text": "咄咄怪事",
+    "pinyin": "duō duō guài shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "unusual-combinations",
+      "confusion-and-doubt"
+    ],
+    "literal": "tut-tut · strange · matter",
+    "natural": "a very strange affair",
+    "meaning": {
+      "en": "A thoroughly baffling or outrageous affair.",
+      "zh": "使人惊诧、不可理解的怪事。"
+    },
+    "equivalents": [
+      "a most peculiar thing",
+      "an outrageous oddity"
+    ],
+    "examples": [
+      {
+        "zh": "明明是他的错，反倒怪别人，真是咄咄怪事。",
+        "en": "It's clearly his fault, yet he blames others: truly bizarre."
+      },
+      {
+        "zh": "这么大的工程竟没人负责，咄咄怪事！",
+        "en": "Such a huge project and nobody in charge: how very strange!"
+      }
+    ],
+    "usage": {
+      "en": "Object or exclamation; often sarcastic.",
+      "zh": "多作宾语或感叹，常带讽刺。"
+    },
+    "synonyms": [
+      "不可思议",
+      "匪夷所思"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "见怪不怪"
+    ]
+  },
+  {
+    "id": "yi-wan-shui-duan-ping",
+    "text": "一碗水端平",
+    "pinyin": "yī wǎn shuǐ duān píng",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "fairness-and-impartiality"
+    ],
+    "literal": "one · bowl · water · carry · level",
+    "natural": "carry a bowl of water level",
+    "meaning": {
+      "en": "To treat everyone fairly without favouritism.",
+      "zh": "像端一碗水不洒一样，比喻处事公平，不偏心。"
+    },
+    "equivalents": [
+      "be even-handed",
+      "treat everyone equally"
+    ],
+    "examples": [
+      {
+        "zh": "当领导要一碗水端平，不能偏心。",
+        "en": "A leader must be even-handed and not play favourites."
+      },
+      {
+        "zh": "妈妈对两个孩子一碗水端平。",
+        "en": "Mum treats both children equally."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial, often 要把一碗水端平.",
+      "zh": "多作谓语，口语，常说“要把一碗水端平”。"
+    },
+    "synonyms": [
+      "公平公正",
+      "一视同仁"
+    ],
+    "antonyms": [
+      "厚此薄彼",
+      "偏心眼"
+    ]
+  },
+  {
+    "id": "cui-can-duo-mu",
+    "text": "璀璨夺目",
+    "pinyin": "cuǐ càn duó mù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "dazzling · bright · seize · eyes",
+    "natural": "dazzlingly bright",
+    "meaning": {
+      "en": "Brilliant and eye-catching.",
+      "zh": "光彩鲜明耀眼，非常吸引人。"
+    },
+    "equivalents": [
+      "dazzling",
+      "resplendent"
+    ],
+    "examples": [
+      {
+        "zh": "夜空中的烟花璀璨夺目。",
+        "en": "The fireworks in the night sky were dazzling."
+      },
+      {
+        "zh": "她是娱乐圈一颗璀璨夺目的明星。",
+        "en": "She is a dazzling star of the entertainment world."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; written register.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "光彩夺目",
+      "熠熠生辉"
+    ],
+    "antonyms": [
+      "黯淡无光",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "bao-feng-zhou-yu",
+    "text": "暴风骤雨",
+    "pinyin": "bào fēng zhòu yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "疾风骤雨"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "chaos"
+    ],
+    "literal": "violent · wind · sudden · rain",
+    "natural": "violent wind and sudden rain",
+    "meaning": {
+      "en": "A violent storm; also a fierce, rapid revolutionary change.",
+      "zh": "来势急猛的大风雨，也比喻声势浩大的变革或斗争。"
+    },
+    "equivalents": [
+      "raging storm",
+      "a tempest"
+    ],
+    "examples": [
+      {
+        "zh": "暴风骤雨过后，天空放晴。",
+        "en": "After the violent storm the sky cleared."
+      },
+      {
+        "zh": "这场变革如暴风骤雨，席卷整个行业。",
+        "en": "The change swept through the industry like a tempest."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, subject or object; literal and figurative.",
+      "zh": "可作主语、谓语、宾语，有本义与比喻义。"
+    },
+    "synonyms": [
+      "电闪雷鸣",
+      "狂风暴雨"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "和风细雨"
+    ]
+  },
+  {
+    "id": "shuo-lai-shuo-qu",
+    "text": "说来说去",
+    "pinyin": "shuō lái shuō qù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "circular-conclusions",
+      "verbosity"
+    ],
+    "literal": "say · come · say · go",
+    "natural": "when all is said and done",
+    "meaning": {
+      "en": "After all the talk; in the end.",
+      "zh": "反复地说，归根到底。"
+    },
+    "equivalents": [
+      "when all is said and done",
+      "at the end of the day",
+      "going round and round"
+    ],
+    "examples": [
+      {
+        "zh": "说来说去，还是钱的问题。",
+        "en": "When all is said and done, it comes down to money."
+      },
+      {
+        "zh": "我们说来说去也没个结果。",
+        "en": "We kept going back and forth with no result."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial or predicate. Colloquial.",
+      "zh": "多放句首或作谓语，口语。"
+    },
+    "synonyms": [
+      "归根结底",
+      "总而言之"
+    ],
+    "antonyms": [
+      "一言不发",
+      "点到为止"
+    ]
+  },
+  {
+    "id": "gan-ji-bu-jin",
+    "text": "感激不尽",
+    "pinyin": "gǎn jī bù jìn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "polite-humble",
+      "complex-emotional-states"
+    ],
+    "literal": "grateful · stirred · not · exhausted",
+    "natural": "endlessly grateful",
+    "meaning": {
+      "en": "To be extremely grateful.",
+      "zh": "非常感谢，感激的心情没有止境。"
+    },
+    "equivalents": [
+      "be endlessly grateful",
+      "I can't thank you enough"
+    ],
+    "examples": [
+      {
+        "zh": "你肯帮忙，我感激不尽。",
+        "en": "I can't thank you enough for helping."
+      },
+      {
+        "zh": "他对恩师感激不尽。",
+        "en": "He is deeply grateful to his teacher."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; polite formula in speech and letters.",
+      "zh": "多作谓语，常用作客套话。"
+    },
+    "synonyms": [
+      "感恩戴德",
+      "没齿难忘"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报"
+    ]
+  },
+  {
+    "id": "xue-yu-xing-feng",
+    "text": "血雨腥风",
+    "pinyin": "xuè yǔ xīng fēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "腥风血雨"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "war",
+      "danger"
+    ],
+    "literal": "blood · rain · fishy · wind",
+    "natural": "blood in the rain and gore in the wind",
+    "meaning": {
+      "en": "A scene of bloody slaughter and fierce struggle.",
+      "zh": "血像雨一样洒落，风里带着腥味，形容残酷的屠杀和斗争。"
+    },
+    "equivalents": [
+      "bloodbath",
+      "a storm of blood and violence"
+    ],
+    "examples": [
+      {
+        "zh": "那段历史充满了血雨腥风。",
+        "en": "That period of history was full of bloodshed."
+      },
+      {
+        "zh": "他经历过战争年代的血雨腥风。",
+        "en": "He lived through the bloody years of war."
+      }
+    ],
+    "usage": {
+      "en": "Usually object or attributive; literary.",
+      "zh": "多作宾语、定语，书面色彩。"
+    },
+    "synonyms": [
+      "尸横遍野",
+      "生灵涂炭"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "太平盛世"
+    ]
+  },
+  {
+    "id": "shi-zuo-yong-zhe",
+    "text": "始作俑者",
+    "pinyin": "shǐ zuò yǒng zhě",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "unintended-results",
+      "confucian-classics"
+    ],
+    "literal": "first · make · burial-figurine · person",
+    "natural": "the one who first made burial figures",
+    "meaning": {
+      "en": "The originator of a bad practice.",
+      "zh": "最先做出某种恶劣事例的人。"
+    },
+    "equivalents": [
+      "the one who started it",
+      "the originator of a bad trend"
+    ],
+    "examples": [
+      {
+        "zh": "这种歪风的始作俑者是谁？",
+        "en": "Who started this bad habit?"
+      },
+      {
+        "zh": "他是这场骗局的始作俑者。",
+        "en": "He is the originator of this scam."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·梁惠王上》",
+      "story": {
+        "en": "Mencius: 'The one who first made burial figures — would he not have no descendants?' (始作俑者，其无后乎).",
+        "zh": "《孟子·梁惠王上》：“仲尼曰：‘始作俑者，其无后乎！’”"
+      }
+    },
+    "usage": {
+      "en": "Noun; almost always negative.",
+      "zh": "作名词，几乎总含贬义。"
+    },
+    "synonyms": [
+      "罪魁祸首",
+      "肇事者"
+    ],
+    "antonyms": [
+      "后继有人"
+    ]
+  },
+  {
+    "id": "zui-weng-zhi-yi-bu-zai-jiu",
+    "text": "醉翁之意不在酒",
+    "pinyin": "zuì wēng zhī yì bù zài jiǔ",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "essay-favourites",
+      "poems-prose"
+    ],
+    "literal": "drunken · old-man · 's · intent · not · in · wine",
+    "natural": "the drunkard's heart is not in the wine",
+    "meaning": {
+      "en": "The real aim lies elsewhere than the stated one.",
+      "zh": "本意不在喝酒，而在别的方面，比喻别有用心。"
+    },
+    "equivalents": [
+      "have an ulterior motive",
+      "the real aim lies elsewhere"
+    ],
+    "examples": [
+      {
+        "zh": "他天天来店里，醉翁之意不在酒，是想见老板娘。",
+        "en": "He comes to the shop every day, but it's not the goods he's after: he wants to see the owner."
+      },
+      {
+        "zh": "这次考察醉翁之意不在酒，而是为了谈合作。",
+        "en": "This inspection trip is a pretext; the real aim is to discuss cooperation."
+      }
+    ],
+    "origin": {
+      "source": "北宋·欧阳修《醉翁亭记》",
+      "story": {
+        "en": "Ouyang Xiu in 'Pavilion of the Drunken Old Man': 'The drunkard's heart is not in the wine but in the mountains and waters' (醉翁之意不在酒，在乎山水之间也).",
+        "zh": "欧阳修《醉翁亭记》：“醉翁之意不在酒，在乎山水之间也。”"
+      }
+    },
+    "usage": {
+      "en": "Standalone clause; often continued with 在乎山水之间也.",
+      "zh": "多作独立分句，常接“在乎山水之间也”。"
+    },
+    "synonyms": [
+      "别有用心",
+      "项庄舞剑"
+    ],
+    "antonyms": [
+      "直截了当",
+      "开诚布公"
+    ]
+  },
+  {
+    "id": "sang-jin-tian-liang",
+    "text": "丧尽天良",
+    "pinyin": "sàng jìn tiān liáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "lose · utterly · heaven's · conscience",
+    "natural": "utterly without conscience",
+    "meaning": {
+      "en": "Completely devoid of conscience.",
+      "zh": "完全丧失良心，形容极其残忍恶毒。"
+    },
+    "equivalents": [
+      "utterly heartless",
+      "have no conscience at all"
+    ],
+    "examples": [
+      {
+        "zh": "骗老人养老钱的人，简直丧尽天良。",
+        "en": "Anyone who cheats old people of their pensions has no conscience at all."
+      },
+      {
+        "zh": "这种丧尽天良的行为，必须严惩。",
+        "en": "Such heartless conduct must be severely punished."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; strongly condemnatory.",
+      "zh": "多作谓语、定语，谴责意味强烈。"
+    },
+    "synonyms": [
+      "丧心病狂",
+      "泯灭人性"
+    ],
+    "antonyms": [
+      "良心未泯",
+      "宅心仁厚"
+    ]
+  },
+  {
+    "id": "wang-wen-wen-qie",
+    "text": "望闻问切",
+    "pinyin": "wàng wén wèn qiè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing"
+    ],
+    "literal": "look · listen/smell · ask · feel-pulse",
+    "natural": "the four diagnostic methods",
+    "meaning": {
+      "en": "The four methods of diagnosis in traditional Chinese medicine: looking, listening/smelling, questioning and pulse-taking.",
+      "zh": "中医诊病的四种方法：看、听嗅、问、切脉。"
+    },
+    "equivalents": [
+      "the four diagnostic methods",
+      "look, listen, ask and feel the pulse"
+    ],
+    "examples": [
+      {
+        "zh": "中医讲究望闻问切。",
+        "en": "Chinese medicine stresses looking, listening, questioning and pulse-taking."
+      },
+      {
+        "zh": "老中医通过望闻问切，很快找出了病因。",
+        "en": "Through the four examinations the old doctor soon found the cause."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; technical term.",
+      "zh": "名词性短语，专业术语。"
+    },
+    "synonyms": [
+      "四诊合参",
+      "对症下药"
+    ],
+    "antonyms": [
+      "庸医误人"
+    ]
+  },
+  {
+    "id": "zi-bu-dai-yan",
+    "text": "自不待言",
+    "pinyin": "zì bù dài yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "essay-favourites"
+    ],
+    "literal": "naturally · not · need · say",
+    "natural": "goes without saying",
+    "meaning": {
+      "en": "Needless to say; self-evident.",
+      "zh": "本来就不用多说，很明显。"
+    },
+    "equivalents": [
+      "it goes without saying",
+      "needless to say"
+    ],
+    "examples": [
+      {
+        "zh": "健康的重要性自不待言。",
+        "en": "The importance of health goes without saying."
+      },
+      {
+        "zh": "他的才华自不待言，人品也很好。",
+        "en": "His talent goes without saying; his character is fine too."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal and written.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "不言而喻",
+      "毋庸置疑"
+    ],
+    "antonyms": [
+      "有待商榷",
+      "未可知也"
+    ]
+  },
+  {
+    "id": "chong-yang-mei-wai",
+    "text": "崇洋媚外",
+    "pinyin": "chóng yáng mèi wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "worship · foreign · fawn · abroad",
+    "natural": "worship and fawn on the foreign",
+    "meaning": {
+      "en": "To blindly admire foreign things and fawn on foreigners.",
+      "zh": "盲目崇拜外国的东西，向外国人谄媚。"
+    },
+    "equivalents": [
+      "blindly worship all things foreign",
+      "be slavishly pro-foreign"
+    ],
+    "examples": [
+      {
+        "zh": "买东西不能崇洋媚外，国货也有好产品。",
+        "en": "Don't be slavishly pro-foreign when shopping; domestic goods can be good."
+      },
+      {
+        "zh": "他留学回来后非常反感崇洋媚外的风气。",
+        "en": "After studying abroad he disliked the fashion of foreign worship."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "数典忘祖",
+      "奴颜婢膝"
+    ],
+    "antonyms": [
+      "民族自尊",
+      "自强不息"
+    ]
+  },
+  {
+    "id": "sheng-guan-fa-cai",
+    "text": "升官发财",
+    "pinyin": "shēng guān fā cái",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "political-corruption",
+      "luxury-and-extravagance"
+    ],
+    "literal": "rise · office · get · wealth",
+    "natural": "get promoted and get rich",
+    "meaning": {
+      "en": "To climb the ranks and amass wealth; the classic corrupt-career ambition.",
+      "zh": "官职上升，财富增加，常指以做官谋利为目的。"
+    },
+    "equivalents": [
+      "get promoted and get rich",
+      "climb the greasy pole and line one's pockets"
+    ],
+    "examples": [
+      {
+        "zh": "他当公务员，不是为了升官发财。",
+        "en": "He didn't become a civil servant to get promoted and grow rich."
+      },
+      {
+        "zh": "升官发财是他唯一的梦想。",
+        "en": "Rising in office and getting rich is his only dream."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; sometimes jocular.",
+      "zh": "多作谓语、宾语，有时用于调侃。"
+    },
+    "synonyms": [
+      "飞黄腾达",
+      "官运亨通"
+    ],
+    "antonyms": [
+      "两袖清风",
+      "清正廉洁"
+    ]
+  },
+  {
+    "id": "ping-bai-wu-gu",
+    "text": "平白无故",
+    "pinyin": "píng bái wú gù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results"
+    ],
+    "literal": "plain · blank · without · reason",
+    "natural": "for no reason at all",
+    "meaning": {
+      "en": "Without any reason or cause.",
+      "zh": "没有任何原因。"
+    },
+    "equivalents": [
+      "for no reason at all",
+      "out of the blue"
+    ],
+    "examples": [
+      {
+        "zh": "他平白无故地发了一顿脾气。",
+        "en": "He lost his temper for no reason at all."
+      },
+      {
+        "zh": "天下没有平白无故的好事。",
+        "en": "There is no such thing as a free lunch."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or attributive.",
+      "zh": "多作状语、定语。"
+    },
+    "synonyms": [
+      "无缘无故",
+      "莫名其妙"
+    ],
+    "antonyms": [
+      "事出有因",
+      "有理有据"
+    ]
+  },
+  {
+    "id": "xin-shen-bu-ning",
+    "text": "心神不宁",
+    "pinyin": "xīn shén bù níng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "distracted-attention"
+    ],
+    "literal": "heart · spirit · not · calm",
+    "natural": "restless and uneasy",
+    "meaning": {
+      "en": "To feel restless and unable to settle.",
+      "zh": "心里不安定，坐立不安。"
+    },
+    "equivalents": [
+      "feel uneasy",
+      "be restless and distracted"
+    ],
+    "examples": [
+      {
+        "zh": "明天就要考试了，他心神不宁。",
+        "en": "The exam is tomorrow and he can't settle."
+      },
+      {
+        "zh": "她一整天都心神不宁，总觉得要出事。",
+        "en": "She was uneasy all day, feeling something would go wrong."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "惴惴不安",
+      "心烦意乱"
+    ],
+    "antonyms": [
+      "心安理得",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "bu-leng-bu-re",
+    "text": "不冷不热",
+    "pinyin": "bù lěng bù rè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "standards-and-benchmarks"
+    ],
+    "literal": "not · cold · not · hot",
+    "natural": "neither hot nor cold",
+    "meaning": {
+      "en": "Neither hot nor cold; also, lukewarm in attitude.",
+      "zh": "温度适中；也指态度不热情不冷淡。"
+    },
+    "equivalents": [
+      "neither hot nor cold",
+      "lukewarm",
+      "mild"
+    ],
+    "examples": [
+      {
+        "zh": "这个季节不冷不热，最适合出游。",
+        "en": "This season is neither hot nor cold, ideal for trips."
+      },
+      {
+        "zh": "他对我的态度不冷不热。",
+        "en": "His attitude to me was lukewarm."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; literal for weather, figurative for attitude.",
+      "zh": "多作定语、谓语，可指天气或态度。"
+    },
+    "synonyms": [
+      "温和适中",
+      "不咸不淡"
+    ],
+    "antonyms": [
+      "热情似火",
+      "冷若冰霜"
+    ]
+  },
+  {
+    "id": "mian-wei-qi-nan",
+    "text": "勉为其难",
+    "pinyin": "miǎn wéi qí nán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "polite-humble"
+    ],
+    "literal": "force-oneself · do · it · difficult",
+    "natural": "do something difficult reluctantly",
+    "meaning": {
+      "en": "To do something difficult reluctantly or beyond one's ability.",
+      "zh": "勉强去做自己不乐意或力量不够的事。"
+    },
+    "equivalents": [
+      "reluctantly agree",
+      "grudgingly take it on"
+    ],
+    "examples": [
+      {
+        "zh": "既然大家推荐，我就勉为其难了。",
+        "en": "Since you all recommend me, I'll reluctantly take it on."
+      },
+      {
+        "zh": "他勉为其难地答应了。",
+        "en": "He agreed against his better judgement."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; also a polite-modest formula.",
+      "zh": "多作谓语、状语，也可作谦辞。"
+    },
+    "synonyms": [
+      "硬着头皮",
+      "强人所难"
+    ],
+    "antonyms": [
+      "乐此不疲",
+      "得心应手"
+    ]
+  },
+  {
+    "id": "ri-ye-jian-cheng",
+    "text": "日夜兼程",
+    "pinyin": "rì yè jiān chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "星夜兼程"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "day · night · double · journey",
+    "natural": "travel day and night",
+    "meaning": {
+      "en": "To travel without stopping day and night.",
+      "zh": "白天黑夜都在赶路，形容加紧赶路。"
+    },
+    "equivalents": [
+      "travel day and night",
+      "race against time"
+    ],
+    "examples": [
+      {
+        "zh": "救援队日夜兼程赶往灾区。",
+        "en": "The rescue team raced to the disaster area day and night."
+      },
+      {
+        "zh": "他日夜兼程，终于赶上了航班。",
+        "en": "Travelling day and night, he finally caught the flight."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "马不停蹄",
+      "披星戴月"
+    ],
+    "antonyms": [
+      "慢条斯理",
+      "走走停停"
+    ]
+  },
+  {
+    "id": "zong-heng-bai-he",
+    "text": "纵横捭阖",
+    "pinyin": "zòng héng bǎi hé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "adaptability"
+    ],
+    "literal": "vertical · horizontal · open · close",
+    "natural": "manoeuvre skilfully on all fronts",
+    "meaning": {
+      "en": "To manoeuvre skilfully in diplomacy or negotiation, opening and closing alliances.",
+      "zh": "在政治、外交或谈判中运用策略，手腕灵活，进退自如。"
+    },
+    "equivalents": [
+      "manoeuvre skilfully",
+      "wheel and deal"
+    ],
+    "examples": [
+      {
+        "zh": "他在谈判桌上纵横捭阖，游刃有余。",
+        "en": "He manoeuvred with ease at the negotiating table."
+      },
+      {
+        "zh": "这位企业家纵横捭阖，几年间建起商业帝国。",
+        "en": "The entrepreneur wheeled and dealed his way to an empire in a few years."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; written register.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "左右逢源",
+      "运筹帷幄"
+    ],
+    "antonyms": [
+      "笨手笨脚",
+      "束手无策"
+    ]
+  }
+]

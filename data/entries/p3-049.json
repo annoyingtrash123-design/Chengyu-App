@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "cu-xi-tan-xin",
+    "text": "促膝谈心",
+    "pinyin": "cù xī tán xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "joy-and-happiness"
+    ],
+    "literal": "knees · close · talk · heart",
+    "natural": "have a heart-to-heart",
+    "meaning": {
+      "en": "To sit close together and talk intimately.",
+      "zh": "彼此坐得很近，亲切地谈心里话。"
+    },
+    "equivalents": [
+      "have a heart-to-heart",
+      "talk intimately"
+    ],
+    "examples": [
+      {
+        "zh": "周末我和老同学促膝谈心，聊了一整夜。",
+        "en": "At the weekend I had a heart-to-heart with an old classmate and we talked all night."
+      },
+      {
+        "zh": "老师常和学生促膝谈心。",
+        "en": "The teacher often sits down for a heart-to-heart with students."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "推心置腹",
+      "披肝沥胆"
+    ],
+    "antonyms": [
+      "话不投机",
+      "针锋相对"
+    ]
+  },
+  {
+    "id": "hua-tian-jiu-di",
+    "text": "花天酒地",
+    "pinyin": "huā tiān jiǔ dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance",
+      "negative-character-flaws"
+    ],
+    "literal": "flowers · heaven · wine · earth",
+    "natural": "wallow in dissipation",
+    "meaning": {
+      "en": "To lead a dissolute life of indulgence and drink.",
+      "zh": "形容沉迷在吃喝玩乐的放纵生活里。"
+    },
+    "equivalents": [
+      "lead a life of debauchery",
+      "wine and revelry"
+    ],
+    "examples": [
+      {
+        "zh": "他继承遗产后整天花天酒地。",
+        "en": "After inheriting the money he spent his days in dissipation."
+      },
+      {
+        "zh": "花天酒地的日子很快就把积蓄花光了。",
+        "en": "A life of revelry soon burned through his savings."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "纸醉金迷",
+      "灯红酒绿"
+    ],
+    "antonyms": [
+      "勤俭节约",
+      "洁身自好"
+    ]
+  },
+  {
+    "id": "gua-bu-di-zhong",
+    "text": "寡不敌众",
+    "pinyin": "guǎ bù dí zhòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "relative-measurements"
+    ],
+    "literal": "few · cannot · match · many",
+    "natural": "outnumbered",
+    "meaning": {
+      "en": "The few cannot withstand the many.",
+      "zh": "人少的一方抵挡不住人多的一方。"
+    },
+    "equivalents": [
+      "outnumbered",
+      "overwhelmed by numbers"
+    ],
+    "examples": [
+      {
+        "zh": "我方寡不敌众，只好撤退。",
+        "en": "We were outnumbered and had to retreat."
+      },
+      {
+        "zh": "他一个人寡不敌众，被对方围住了。",
+        "en": "Alone and outnumbered, he was surrounded."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "以少敌多",
+      "众寡悬殊"
+    ],
+    "antonyms": [
+      "以一当十",
+      "人多势众"
+    ]
+  },
+  {
+    "id": "sha-yi-jing-bai",
+    "text": "杀一儆百",
+    "pinyin": "shā yī jǐng bǎi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "惩一儆百"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "natural-consequences"
+    ],
+    "literal": "kill · one · warn · hundred",
+    "natural": "make an example of one",
+    "meaning": {
+      "en": "To punish one person as a warning to many.",
+      "zh": "惩罚一个人来警告其他许多人。"
+    },
+    "equivalents": [
+      "make an example of someone",
+      "punish one to warn the rest"
+    ],
+    "examples": [
+      {
+        "zh": "公司决定杀一儆百，严肃处理迟到的主管。",
+        "en": "The company decided to make an example of the late manager."
+      },
+      {
+        "zh": "法院重判此案，意在杀一儆百。",
+        "en": "The court gave a heavy sentence to deter others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 意在/以便杀一儆百.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "杀鸡儆猴",
+      "以儆效尤"
+    ],
+    "antonyms": [
+      "姑息养奸",
+      "法外开恩"
+    ]
+  },
+  {
+    "id": "shen-ru-gu-sui",
+    "text": "深入骨髓",
+    "pinyin": "shēn rù gǔ suǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "complex-emotional-states"
+    ],
+    "literal": "deep · enter · bone · marrow",
+    "natural": "to the marrow",
+    "meaning": {
+      "en": "Penetrating to the very core; deeply ingrained.",
+      "zh": "深到骨头里，形容程度极深。"
+    },
+    "equivalents": [
+      "to the bone",
+      "deeply ingrained"
+    ],
+    "examples": [
+      {
+        "zh": "她对这种虚伪的厌恶深入骨髓。",
+        "en": "Her loathing of such hypocrisy goes to the marrow."
+      },
+      {
+        "zh": "寒意深入骨髓。",
+        "en": "The cold penetrated to the bone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "作谓语、补语。"
+    },
+    "synonyms": [
+      "刻骨铭心",
+      "根深蒂固"
+    ],
+    "antonyms": [
+      "浮光掠影",
+      "隔靴搔痒"
+    ]
+  },
+  {
+    "id": "yi-ban-yi-yan",
+    "text": "一板一眼",
+    "pinyin": "yī bǎn yī yǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "one · beat · one · beat",
+    "natural": "by the book",
+    "meaning": {
+      "en": "Orderly and precise; also rigidly by the rules.",
+      "zh": "原指戏曲节拍，比喻说话做事有条理、合规矩，也指过于死板。"
+    },
+    "equivalents": [
+      "by the book",
+      "methodical",
+      "strictly step by step"
+    ],
+    "examples": [
+      {
+        "zh": "他做事一板一眼，从不出错。",
+        "en": "He does everything methodically and never slips up."
+      },
+      {
+        "zh": "会计工作要一板一眼，不能马虎。",
+        "en": "Accounting has to be done by the book, with no sloppiness."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Can be praise or mild criticism.",
+      "zh": "作谓语、状语，可褒可贬。"
+    },
+    "synonyms": [
+      "循规蹈矩",
+      "有条不紊"
+    ],
+    "antonyms": [
+      "随心所欲",
+      "马马虎虎"
+    ]
+  },
+  {
+    "id": "mu-wu-fa-ji",
+    "text": "目无法纪",
+    "pinyin": "mù wú fǎ jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "eyes · no · law · discipline",
+    "natural": "flout the law",
+    "meaning": {
+      "en": "To show no regard for law and discipline.",
+      "zh": "眼里没有法律和纪律，形容胡作非为。"
+    },
+    "equivalents": [
+      "flout the law",
+      "a law unto oneself"
+    ],
+    "examples": [
+      {
+        "zh": "这伙人目无法纪，横行乡里。",
+        "en": "The gang flouted the law and terrorised the village."
+      },
+      {
+        "zh": "目无法纪的官员必须严惩。",
+        "en": "Officials who disregard discipline must be severely punished."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "无法无天",
+      "肆无忌惮"
+    ],
+    "antonyms": [
+      "奉公守法",
+      "循规蹈矩"
+    ]
+  },
+  {
+    "id": "wang-qi-xiang-bei",
+    "text": "望其项背",
+    "pinyin": "wàng qí xiàng bèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "competition-and-rivalry"
+    ],
+    "literal": "see · his · neck · back",
+    "natural": "come close to matching",
+    "meaning": {
+      "en": "To be able to catch up with someone; usually negated: far behind.",
+      "zh": "能看见别人的颈和背，指赶得上；常用于否定，表示远远赶不上。"
+    },
+    "equivalents": [
+      "hold a candle to",
+      "come anywhere near"
+    ],
+    "examples": [
+      {
+        "zh": "他的技术高超，同行难以望其项背。",
+        "en": "His skill is so high that peers can't come near him."
+      },
+      {
+        "zh": "这家店的服务，别家望其项背。",
+        "en": "Other shops can't hold a candle to this one's service."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in negative form 难以/不能望其项背.",
+      "zh": "多用否定式“难以望其项背”。"
+    },
+    "synonyms": [
+      "相形见绌",
+      "不可企及"
+    ],
+    "antonyms": [
+      "并驾齐驱",
+      "不相上下"
+    ]
+  },
+  {
+    "id": "wei-fei-zuo-e",
+    "text": "为非作恶",
+    "pinyin": "wéi fēi zuò è",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "do · wrong · commit · evil",
+    "natural": "do evil",
+    "meaning": {
+      "en": "To commit wrongful and wicked acts.",
+      "zh": "做各种坏事。"
+    },
+    "equivalents": [
+      "do evil",
+      "commit wicked deeds"
+    ],
+    "examples": [
+      {
+        "zh": "这伙人长期为非作恶，终于被抓获。",
+        "en": "The gang did evil for years and were finally caught."
+      },
+      {
+        "zh": "他仗着权势为非作恶。",
+        "en": "He abused his power to do wicked things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "胡作非为",
+      "无恶不作"
+    ],
+    "antonyms": [
+      "行善积德",
+      "奉公守法"
+    ]
+  },
+  {
+    "id": "fan-gong-zi-xing",
+    "text": "反躬自省",
+    "pinyin": "fǎn gōng zì xǐng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "positive-character-qualities"
+    ],
+    "literal": "turn back · self · self · examine",
+    "natural": "look inward and reflect",
+    "meaning": {
+      "en": "To examine oneself critically.",
+      "zh": "回过头来检查自己的言行。"
+    },
+    "equivalents": [
+      "search one's own conscience",
+      "reflect on oneself"
+    ],
+    "examples": [
+      {
+        "zh": "遇到失败，首先要反躬自省。",
+        "en": "When you fail, first look at yourself."
+      },
+      {
+        "zh": "他从不反躬自省，总是怪别人。",
+        "en": "He never reflects on himself and always blames others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "扪心自问",
+      "闭门思过"
+    ],
+    "antonyms": [
+      "怨天尤人",
+      "文过饰非"
+    ]
+  },
+  {
+    "id": "ping-tou-lun-zu",
+    "text": "评头论足",
+    "pinyin": "píng tóu lùn zú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "品头论足"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "appearance"
+    ],
+    "literal": "judge · head · discuss · feet",
+    "natural": "pick someone apart",
+    "meaning": {
+      "en": "To make petty remarks about someone's appearance or faults.",
+      "zh": "原指随意议论妇女容貌，后指对人或事随意挑剔、议论。"
+    },
+    "equivalents": [
+      "pick apart",
+      "pass petty judgements"
+    ],
+    "examples": [
+      {
+        "zh": "别在背后对人家评头论足。",
+        "en": "Don't pass petty judgements on people behind their backs."
+      },
+      {
+        "zh": "大家围着新来的同事评头论足。",
+        "en": "They gathered round the newcomer, sizing her up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "说长道短",
+      "吹毛求疵"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "赞不绝口"
+    ]
+  },
+  {
+    "id": "chong-zheng-qi-gu",
+    "text": "重整旗鼓",
+    "pinyin": "chóng zhěng qí gǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "military-strategy-and-victory"
+    ],
+    "literal": "again · reorganise · flags · drums",
+    "natural": "regroup",
+    "meaning": {
+      "en": "To regroup and start again after a setback.",
+      "zh": "失败后重新整顿力量，准备再干。"
+    },
+    "equivalents": [
+      "regroup",
+      "pick oneself up and start again"
+    ],
+    "examples": [
+      {
+        "zh": "球队输球后重整旗鼓，准备下一场。",
+        "en": "After the defeat the team regrouped for the next match."
+      },
+      {
+        "zh": "公司破产后，他重整旗鼓，重新创业。",
+        "en": "After the firm went bust he picked himself up and started over."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "东山再起",
+      "卷土重来"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "wu-shi-ren-fei",
+    "text": "物是人非",
+    "pinyin": "wù shì rén fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "change"
+    ],
+    "literal": "things · are the same · people · are not",
+    "natural": "the place remains, the people are gone",
+    "meaning": {
+      "en": "Things look the same, but the people have changed or gone.",
+      "zh": "景物依旧，人事已变，多含感伤。"
+    },
+    "equivalents": [
+      "the scenery remains but the people are gone",
+      "everything changed but the setting"
+    ],
+    "examples": [
+      {
+        "zh": "回到老家，物是人非，让人感慨。",
+        "en": "Back in my home town, the place was the same but the people were gone."
+      },
+      {
+        "zh": "十年后重游母校，物是人非。",
+        "en": "Ten years on I revisited my school: same buildings, different faces."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; nostalgic tone.",
+      "zh": "多作谓语，带感伤。"
+    },
+    "synonyms": [
+      "人去楼空",
+      "时过境迁"
+    ],
+    "antonyms": [
+      "依然如故",
+      "一如既往"
+    ]
+  },
+  {
+    "id": "fen-bi-ji-shu",
+    "text": "奋笔疾书",
+    "pinyin": "fèn bǐ jí shū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "efficiency"
+    ],
+    "literal": "exert · pen · swift · write",
+    "natural": "write furiously",
+    "meaning": {
+      "en": "To write quickly and energetically.",
+      "zh": "振作精神，很快地写。"
+    },
+    "equivalents": [
+      "scribble away",
+      "write furiously"
+    ],
+    "examples": [
+      {
+        "zh": "考试铃一响，同学们都奋笔疾书。",
+        "en": "When the exam began, everyone wrote furiously."
+      },
+      {
+        "zh": "他灵感来了，奋笔疾书。",
+        "en": "Inspiration struck and he scribbled away."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "挥毫泼墨",
+      "一挥而就"
+    ],
+    "antonyms": [
+      "搁笔",
+      "无从下笔"
+    ]
+  },
+  {
+    "id": "ti-wu-wan-fu",
+    "text": "体无完肤",
+    "pinyin": "tǐ wú wán fū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "bad-fortune"
+    ],
+    "literal": "body · no · whole · skin",
+    "natural": "torn to shreds",
+    "meaning": {
+      "en": "Covered in wounds; also thoroughly refuted or criticised.",
+      "zh": "全身没有一块完整的皮肤，比喻被驳斥或批评得一无是处。"
+    },
+    "equivalents": [
+      "torn to shreds",
+      "battered all over"
+    ],
+    "examples": [
+      {
+        "zh": "他的论文被评委批得体无完肤。",
+        "en": "His paper was torn to shreds by the judges."
+      },
+      {
+        "zh": "被打得体无完肤。",
+        "en": "He was beaten black and blue."
+      }
+    ],
+    "usage": {
+      "en": "Usually 被…批驳得体无完肤.",
+      "zh": "常作补语。"
+    },
+    "synonyms": [
+      "遍体鳞伤",
+      "一无是处"
+    ],
+    "antonyms": [
+      "完好无损",
+      "毫发无伤"
+    ]
+  },
+  {
+    "id": "da-fang-jue-ci",
+    "text": "大放厥词",
+    "pinyin": "dà fàng jué cí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "verbosity",
+      "inappropriate-behavior"
+    ],
+    "literal": "greatly · release · his · words",
+    "natural": "spout nonsense",
+    "meaning": {
+      "en": "To hold forth pompously and talk nonsense.",
+      "zh": "大发议论，多指说些空洞或不负责任的话。"
+    },
+    "equivalents": [
+      "spout nonsense",
+      "hold forth"
+    ],
+    "examples": [
+      {
+        "zh": "他没做过研究，却在会上大放厥词。",
+        "en": "He has done no research, yet he held forth at the meeting."
+      },
+      {
+        "zh": "网上有人大放厥词，毫无根据。",
+        "en": "Some online are spouting groundless claims."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "信口开河",
+      "夸夸其谈"
+    ],
+    "antonyms": [
+      "默不作声",
+      "三缄其口"
+    ]
+  },
+  {
+    "id": "gang-rou-xiang-ji",
+    "text": "刚柔相济",
+    "pinyin": "gāng róu xiāng jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "刚柔并济"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "adaptability",
+      "good-governance"
+    ],
+    "literal": "hard · soft · mutually · complement",
+    "natural": "combine firmness with gentleness",
+    "meaning": {
+      "en": "To balance firmness with gentleness.",
+      "zh": "强硬和温和的手段互相补充，配合得当。"
+    },
+    "equivalents": [
+      "combine firmness with flexibility",
+      "iron fist in a velvet glove"
+    ],
+    "examples": [
+      {
+        "zh": "好的教育要刚柔相济。",
+        "en": "Good education combines firmness and gentleness."
+      },
+      {
+        "zh": "她管理团队刚柔相济。",
+        "en": "She manages her team with a balance of firmness and warmth."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "恩威并施",
+      "软硬兼施"
+    ],
+    "antonyms": [
+      "一味强硬",
+      "软弱可欺"
+    ]
+  },
+  {
+    "id": "dan-wan-zhi-di",
+    "text": "弹丸之地",
+    "pinyin": "dàn wán zhī dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "modest-goals",
+      "relative-measurements"
+    ],
+    "literal": "pellet · 's · land",
+    "natural": "a tiny patch of land",
+    "meaning": {
+      "en": "A tiny territory.",
+      "zh": "像弹丸那样小的地方，形容地方极小。"
+    },
+    "equivalents": [
+      "a tiny patch of land",
+      "pocket-sized territory"
+    ],
+    "examples": [
+      {
+        "zh": "这个国家只是弹丸之地，却很富裕。",
+        "en": "The country is just a speck of land, yet it is wealthy."
+      },
+      {
+        "zh": "他在弹丸之地建起了一家工厂。",
+        "en": "He built a factory on a tiny plot."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object.",
+      "zh": "作定语、宾语。"
+    },
+    "synonyms": [
+      "蕞尔小邦",
+      "方寸之地"
+    ],
+    "antonyms": [
+      "广袤无垠",
+      "地大物博"
+    ]
+  },
+  {
+    "id": "xin-chi-shen-wang",
+    "text": "心驰神往",
+    "pinyin": "xīn chí shén wǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "joy-and-happiness"
+    ],
+    "literal": "heart · gallop · spirit · yearn",
+    "natural": "long for",
+    "meaning": {
+      "en": "To be captivated by and yearn for something.",
+      "zh": "心神向往，形容一心想着某人或某地。"
+    },
+    "equivalents": [
+      "be enchanted by",
+      "yearn for"
+    ],
+    "examples": [
+      {
+        "zh": "提起云南，我就心驰神往。",
+        "en": "Whenever Yunnan is mentioned, I long to go."
+      },
+      {
+        "zh": "听了他的描述，大家都心驰神往。",
+        "en": "His account left everyone yearning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "魂牵梦萦",
+      "心向往之"
+    ],
+    "antonyms": [
+      "无动于衷",
+      "兴味索然"
+    ]
+  },
+  {
+    "id": "ti-tie-ru-wei",
+    "text": "体贴入微",
+    "pinyin": "tǐ tiē rù wēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "love-and-marriage"
+    ],
+    "literal": "consider · attentive · enter · fine detail",
+    "natural": "considerate to the last detail",
+    "meaning": {
+      "en": "Caring and attentive to every little need.",
+      "zh": "对人关心照顾得非常细致周到。"
+    },
+    "equivalents": [
+      "considerate to a fault",
+      "attentive to every detail"
+    ],
+    "examples": [
+      {
+        "zh": "护士对病人体贴入微。",
+        "en": "The nurse is attentive to every need of her patients."
+      },
+      {
+        "zh": "他对妻子体贴入微。",
+        "en": "He is thoughtful towards his wife in every way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "无微不至",
+      "关怀备至"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "冷若冰霜"
+    ]
+  },
+  {
+    "id": "hui-yu-can-ban",
+    "text": "毁誉参半",
+    "pinyin": "huǐ yù cān bàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "relative-measurements"
+    ],
+    "literal": "blame · praise · mixed · half",
+    "natural": "draw mixed reviews",
+    "meaning": {
+      "en": "Half criticism, half praise.",
+      "zh": "批评和赞誉各占一半，评价不一。"
+    },
+    "equivalents": [
+      "receive mixed reviews",
+      "divide opinion"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影上映后毁誉参半。",
+        "en": "The film got mixed reviews on release."
+      },
+      {
+        "zh": "他的改革毁誉参半。",
+        "en": "His reforms have divided opinion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "褒贬不一",
+      "众说纷纭"
+    ],
+    "antonyms": [
+      "众口一词",
+      "有口皆碑"
+    ]
+  },
+  {
+    "id": "xin-fu-qi-zao",
+    "text": "心浮气躁",
+    "pinyin": "xīn fú qì zào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "distracted-attention"
+    ],
+    "literal": "heart · floating · temper · restless",
+    "natural": "restless and impatient",
+    "meaning": {
+      "en": "Restless, impatient and unable to settle.",
+      "zh": "心情浮躁，不能安静踏实。"
+    },
+    "equivalents": [
+      "restless and impatient",
+      "fidgety"
+    ],
+    "examples": [
+      {
+        "zh": "做学问不能心浮气躁。",
+        "en": "You can't do scholarship while restless and impatient."
+      },
+      {
+        "zh": "他最近心浮气躁，什么都做不好。",
+        "en": "He's been on edge lately and can't get anything right."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "浮躁不安",
+      "急功近利"
+    ],
+    "antonyms": [
+      "心平气和",
+      "沉着冷静"
+    ]
+  },
+  {
+    "id": "hao-shuo-dai-shuo",
+    "text": "好说歹说",
+    "pinyin": "hǎo shuō dǎi shuō",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "verbosity",
+      "adaptability"
+    ],
+    "literal": "good · say · bad · say",
+    "natural": "coax and plead",
+    "meaning": {
+      "en": "To argue and plead in every way.",
+      "zh": "用各种话反复劝说。"
+    },
+    "equivalents": [
+      "talk until one is blue in the face",
+      "coax and plead"
+    ],
+    "examples": [
+      {
+        "zh": "我好说歹说，他才同意去。",
+        "en": "I coaxed and pleaded before he agreed to go."
+      },
+      {
+        "zh": "妈妈好说歹说，孩子还是不肯吃药。",
+        "en": "Mum tried every argument, but the child still wouldn't take the medicine."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; casual.",
+      "zh": "作状语，口语。"
+    },
+    "synonyms": [
+      "苦口婆心",
+      "费尽口舌"
+    ],
+    "antonyms": [
+      "一言不发",
+      "置之不理"
+    ]
+  },
+  {
+    "id": "shen-de-ren-xin",
+    "text": "深得人心",
+    "pinyin": "shēn dé rén xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "深得民心"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "good-governance"
+    ],
+    "literal": "deeply · win · people's · hearts",
+    "natural": "win people's hearts",
+    "meaning": {
+      "en": "To be warmly supported by the people.",
+      "zh": "很受大家拥护和喜爱。"
+    },
+    "equivalents": [
+      "win hearts and minds",
+      "hugely popular"
+    ],
+    "examples": [
+      {
+        "zh": "这项政策深得人心。",
+        "en": "This policy is hugely popular."
+      },
+      {
+        "zh": "他为人正直，深得人心。",
+        "en": "He is upright and well loved."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "广受欢迎",
+      "众望所归"
+    ],
+    "antonyms": [
+      "怨声载道",
+      "众叛亲离"
+    ]
+  },
+  {
+    "id": "yi-bi-gou-xiao",
+    "text": "一笔勾销",
+    "pinyin": "yī bǐ gōu xiāo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "complex-emotional-states"
+    ],
+    "literal": "one · stroke · strike out · cancel",
+    "natural": "write off in one stroke",
+    "meaning": {
+      "en": "To cancel or write off entirely.",
+      "zh": "一下子全部取消或抹掉。"
+    },
+    "equivalents": [
+      "wipe the slate clean",
+      "write off"
+    ],
+    "examples": [
+      {
+        "zh": "这笔债务一笔勾销了。",
+        "en": "The debt was written off in one go."
+      },
+      {
+        "zh": "过去的恩怨就一笔勾销吧。",
+        "en": "Let's wipe out the old grudges."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一笔抹杀",
+      "烟消云散"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "旧事重提"
+    ]
+  }
+]

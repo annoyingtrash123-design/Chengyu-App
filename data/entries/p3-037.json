@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "yan-ting-ji-cong",
+    "text": "言听计从",
+    "pinyin": "yán tīng jì cóng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation"
+    ],
+    "literal": "words · heeded · plans · followed",
+    "natural": "do whatever one is told",
+    "meaning": {
+      "en": "To heed someone's every word and follow every suggestion.",
+      "zh": "对某人的话和主意都听从，形容十分信任或顺从。"
+    },
+    "equivalents": [
+      "follow someone's advice to the letter",
+      "be completely obedient"
+    ],
+    "examples": [
+      {
+        "zh": "他对老板言听计从。",
+        "en": "He does whatever the boss says."
+      },
+      {
+        "zh": "她对丈夫言听计从，从不反驳。",
+        "en": "She follows her husband's every word and never argues."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; can be positive (trust) or negative (servility).",
+      "zh": "多作谓语，可褒可贬。"
+    },
+    "synonyms": [
+      "百依百顺",
+      "唯命是从"
+    ],
+    "antonyms": [
+      "我行我素",
+      "阳奉阴违"
+    ]
+  },
+  {
+    "id": "bu-sheng-bu-xiang",
+    "text": "不声不响",
+    "pinyin": "bù shēng bù xiǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "not · sound · not · echo",
+    "natural": "without a word",
+    "meaning": {
+      "en": "Quietly, without saying anything or making a fuss.",
+      "zh": "不说话，不出声；形容悄悄地。"
+    },
+    "equivalents": [
+      "without a word",
+      "quietly",
+      "without any fuss"
+    ],
+    "examples": [
+      {
+        "zh": "他不声不响地走了。",
+        "en": "He left without a word."
+      },
+      {
+        "zh": "她不声不响地把事情办好了。",
+        "en": "She quietly got the job done."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial, usually before 地 and a verb.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "悄无声息",
+      "默不作声"
+    ],
+    "antonyms": [
+      "大张旗鼓",
+      "大吵大闹"
+    ]
+  },
+  {
+    "id": "chun-guang-ming-mei",
+    "text": "春光明媚",
+    "pinyin": "chūn guāng míng mèi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes"
+    ],
+    "literal": "spring · light · bright · charming",
+    "natural": "bright spring day",
+    "meaning": {
+      "en": "Spring scenery that is bright and lovely.",
+      "zh": "春天的景色明亮美好。"
+    },
+    "equivalents": [
+      "bright and lovely spring",
+      "glorious spring weather"
+    ],
+    "examples": [
+      {
+        "zh": "四月，春光明媚，我们去公园野餐。",
+        "en": "In April, with glorious spring weather, we went for a picnic in the park."
+      },
+      {
+        "zh": "窗外春光明媚，让人心情大好。",
+        "en": "The bright spring outside lifted everyone's mood."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; descriptive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "风和日丽",
+      "鸟语花香"
+    ],
+    "antonyms": [
+      "寒风刺骨",
+      "天寒地冻"
+    ]
+  },
+  {
+    "id": "fu-zhu-dong-liu",
+    "text": "付诸东流",
+    "pinyin": "fù zhū dōng liú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "success"
+    ],
+    "literal": "hand over · to · east · flow",
+    "natural": "go down the drain",
+    "meaning": {
+      "en": "To be wasted, like water flowing away east to the sea.",
+      "zh": "随着流水东去，比喻希望、努力等完全落空。"
+    },
+    "equivalents": [
+      "go down the drain",
+      "come to nothing",
+      "be in vain"
+    ],
+    "examples": [
+      {
+        "zh": "多年的努力付诸东流。",
+        "en": "Years of effort went down the drain."
+      },
+      {
+        "zh": "一场大火让他的心血付诸东流。",
+        "en": "A fire wiped out the fruits of his hard work."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 使…付诸东流.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "前功尽弃",
+      "化为泡影"
+    ],
+    "antonyms": [
+      "功成名就",
+      "水到渠成"
+    ]
+  },
+  {
+    "id": "xin-fan-yi-luan",
+    "text": "心烦意乱",
+    "pinyin": "xīn fán yì luàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "confusion"
+    ],
+    "literal": "heart · vexed · mind · disordered",
+    "natural": "agitated and upset",
+    "meaning": {
+      "en": "Feeling troubled and unable to calm down.",
+      "zh": "心里烦躁，思绪纷乱，无法平静。"
+    },
+    "equivalents": [
+      "upset and restless",
+      "all worked up",
+      "unable to settle"
+    ],
+    "examples": [
+      {
+        "zh": "考试前一晚，她心烦意乱，睡不着。",
+        "en": "The night before the exam she was too agitated to sleep."
+      },
+      {
+        "zh": "听到这个消息，他心烦意乱。",
+        "en": "The news left him in a state of agitation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "心神不宁",
+      "坐立不安"
+    ],
+    "antonyms": [
+      "心平气和",
+      "心旷神怡"
+    ]
+  },
+  {
+    "id": "kuai-ren-kuai-yu",
+    "text": "快人快语",
+    "pinyin": "kuài rén kuài yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "frankness-and-candour",
+      "positive-character-qualities"
+    ],
+    "literal": "quick · person · quick · speech",
+    "natural": "a straight talker",
+    "meaning": {
+      "en": "A forthright person who speaks plainly and without delay.",
+      "zh": "性格爽快的人说话也直截了当。"
+    },
+    "equivalents": [
+      "a straight talker",
+      "blunt and to the point"
+    ],
+    "examples": [
+      {
+        "zh": "她是个快人快语的人，有话直说。",
+        "en": "She's a straight talker who says what she thinks."
+      },
+      {
+        "zh": "快人快语，他当场就拒绝了。",
+        "en": "Plain-spoken as ever, he refused on the spot."
+      }
+    ],
+    "usage": {
+      "en": "Describes a person or style of speech.",
+      "zh": "形容人或说话风格。"
+    },
+    "synonyms": [
+      "直言不讳",
+      "心直口快"
+    ],
+    "antonyms": [
+      "吞吞吐吐",
+      "拐弯抹角"
+    ]
+  },
+  {
+    "id": "hu-si-luan-xiang",
+    "text": "胡思乱想",
+    "pinyin": "hú sī luàn xiǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "confusion",
+      "distracted-attention"
+    ],
+    "literal": "recklessly · think · chaotically · imagine",
+    "natural": "let one's imagination run wild",
+    "meaning": {
+      "en": "To think aimlessly and let one's mind wander to groundless ideas.",
+      "zh": "没有根据地瞎想。"
+    },
+    "equivalents": [
+      "let one's mind run wild",
+      "overthink",
+      "daydream"
+    ],
+    "examples": [
+      {
+        "zh": "别胡思乱想了，早点休息吧。",
+        "en": "Stop imagining things and get some rest."
+      },
+      {
+        "zh": "他一个人在家，难免胡思乱想。",
+        "en": "Alone at home, he couldn't help his thoughts running wild."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in advice or reassurance.",
+      "zh": "多作谓语，常用于劝慰。"
+    },
+    "synonyms": [
+      "异想天开",
+      "想入非非"
+    ],
+    "antonyms": [
+      "专心致志",
+      "全神贯注"
+    ]
+  },
+  {
+    "id": "wai-men-xie-dao",
+    "text": "歪门邪道",
+    "pinyin": "wāi mén xié dào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "邪门歪道"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "crooked · door · evil · way",
+    "natural": "underhand methods",
+    "meaning": {
+      "en": "Dishonest or improper ways of getting things done.",
+      "zh": "不正当的门路和手段。"
+    },
+    "equivalents": [
+      "underhand methods",
+      "dodgy tricks",
+      "crooked ways"
+    ],
+    "examples": [
+      {
+        "zh": "做生意要靠本事，不能走歪门邪道。",
+        "en": "In business you must rely on skill, not underhand methods."
+      },
+      {
+        "zh": "他总想着歪门邪道，不愿踏实工作。",
+        "en": "He's always after shortcuts and won't work honestly."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject; often after 走/搞.",
+      "zh": "常作宾语，多与“走、搞”搭配。"
+    },
+    "synonyms": [
+      "旁门左道"
+    ],
+    "antonyms": [
+      "光明正大",
+      "堂堂正正"
+    ]
+  },
+  {
+    "id": "yin-huo-shao-shen",
+    "text": "引火烧身",
+    "pinyin": "yǐn huǒ shāo shēn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "惹火烧身"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "danger"
+    ],
+    "literal": "draw · fire · burn · body",
+    "natural": "bring trouble on oneself",
+    "meaning": {
+      "en": "To bring harm upon oneself, usually by meddling or provoking trouble.",
+      "zh": "比喻自己招来灾祸，或主动惹上麻烦。"
+    },
+    "equivalents": [
+      "bring trouble on oneself",
+      "get one's fingers burnt"
+    ],
+    "examples": [
+      {
+        "zh": "你去招惹他们，只会引火烧身。",
+        "en": "If you provoke them you'll only bring trouble on yourself."
+      },
+      {
+        "zh": "他批评上司，结果引火烧身。",
+        "en": "He criticised his boss and got burnt for it."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自食其果",
+      "自作自受"
+    ],
+    "antonyms": [
+      "置身事外",
+      "明哲保身"
+    ]
+  },
+  {
+    "id": "jie-ze-er-yu",
+    "text": "竭泽而渔",
+    "pinyin": "jié zé ér yú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "涸泽而渔"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "natural-consequences",
+      "historical-records"
+    ],
+    "literal": "drain · pond · and · fish",
+    "natural": "kill the goose that lays the golden eggs",
+    "meaning": {
+      "en": "To drain the pond to catch every fish: to exploit something so fully that its future is destroyed.",
+      "zh": "把池水抽干来捉鱼，比喻只顾眼前利益，不留余地。"
+    },
+    "equivalents": [
+      "kill the goose that lays the golden eggs",
+      "short-sighted overexploitation"
+    ],
+    "examples": [
+      {
+        "zh": "过度捕捞无异于竭泽而渔。",
+        "en": "Overfishing is no different from draining the pond for its fish."
+      },
+      {
+        "zh": "发展经济不能竭泽而渔。",
+        "en": "Economic growth must not come at the cost of draining resources dry."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·义赏》",
+      "story": {
+        "en": "Lüshi Chunqiu: draining the pond may catch fish now, but next year there will be none (竭泽而渔，岂不获得，而明年无鱼).",
+        "zh": "《吕氏春秋》：“竭泽而渔，岂不获得，而明年无鱼。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 不能/不可竭泽而渔.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "杀鸡取卵",
+      "焚林而猎"
+    ],
+    "antonyms": [
+      "细水长流",
+      "放长线钓大鱼"
+    ]
+  },
+  {
+    "id": "ruo-rou-qiang-shi",
+    "text": "弱肉强食",
+    "pinyin": "ruò ròu qiáng shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "competition-and-rivalry",
+      "poems-prose"
+    ],
+    "literal": "weak · flesh · strong · eat",
+    "natural": "law of the jungle",
+    "meaning": {
+      "en": "The weak are prey for the strong; survival of the fittest.",
+      "zh": "弱者被强者欺凌吞并。"
+    },
+    "equivalents": [
+      "law of the jungle",
+      "survival of the fittest",
+      "dog-eat-dog"
+    ],
+    "examples": [
+      {
+        "zh": "商场如战场，弱肉强食。",
+        "en": "Business is a battlefield: dog eat dog."
+      },
+      {
+        "zh": "动物世界里弱肉强食是常态。",
+        "en": "In the animal world, the strong preying on the weak is the norm."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《送浮屠文畅师序》",
+      "story": {
+        "en": "Han Yu describes the animal world: 'the weak are the meat, the strong eat them' (弱之肉，强之食).",
+        "zh": "韩愈：“鸟俯而啄，仰而四顾；兽深居而简出，惧物之为己害也，犹且不脱焉。弱之肉，强之食。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "适者生存",
+      "优胜劣汰"
+    ],
+    "antonyms": [
+      "互助互爱",
+      "扶危济困"
+    ]
+  },
+  {
+    "id": "cun-cao-bu-sheng",
+    "text": "寸草不生",
+    "pinyin": "cùn cǎo bù shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "plant-and-natural-world"
+    ],
+    "literal": "inch · grass · not · grow",
+    "natural": "barren",
+    "meaning": {
+      "en": "So barren that not even a blade of grass grows.",
+      "zh": "连一寸高的草都不长，形容土地极其荒凉。"
+    },
+    "equivalents": [
+      "completely barren",
+      "not a blade of grass"
+    ],
+    "examples": [
+      {
+        "zh": "戈壁滩上寸草不生。",
+        "en": "Not a blade of grass grows on the Gobi."
+      },
+      {
+        "zh": "战后，这片土地寸草不生。",
+        "en": "After the war, the land lay completely barren."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "荒无人烟",
+      "不毛之地"
+    ],
+    "antonyms": [
+      "郁郁葱葱",
+      "草木繁盛"
+    ]
+  },
+  {
+    "id": "ming-zheng-an-dou",
+    "text": "明争暗斗",
+    "pinyin": "míng zhēng àn dòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "competition-and-rivalry"
+    ],
+    "literal": "open · contend · hidden · fight",
+    "natural": "rivalry both open and covert",
+    "meaning": {
+      "en": "Fighting each other both openly and behind the scenes.",
+      "zh": "公开和暗地里都在争斗。"
+    },
+    "equivalents": [
+      "open and covert rivalry",
+      "bitter infighting"
+    ],
+    "examples": [
+      {
+        "zh": "公司高层之间明争暗斗。",
+        "en": "There was infighting among the senior managers."
+      },
+      {
+        "zh": "他厌倦了职场里的明争暗斗。",
+        "en": "He was tired of the open and secret fighting in the workplace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "勾心斗角",
+      "尔虞我诈"
+    ],
+    "antonyms": [
+      "同舟共济",
+      "和衷共济"
+    ]
+  },
+  {
+    "id": "si-xiang-shou-shou",
+    "text": "私相授受",
+    "pinyin": "sī xiāng shòu shòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "private · mutually · give · receive",
+    "natural": "pass on in secret",
+    "meaning": {
+      "en": "To hand over something privately without proper authorisation.",
+      "zh": "私下里互相给予和接受，指不经正当手续暗中转让。"
+    },
+    "equivalents": [
+      "secretly hand over",
+      "pass under the counter"
+    ],
+    "examples": [
+      {
+        "zh": "官职不得私相授受。",
+        "en": "Official posts must not be handed over privately."
+      },
+      {
+        "zh": "禁止私相授受公司财物。",
+        "en": "Passing company property to each other in secret is forbidden."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in rules and reports.",
+      "zh": "多作谓语，常见于规章和报道。"
+    },
+    "synonyms": [
+      "暗中交易",
+      "暗度陈仓"
+    ],
+    "antonyms": [
+      "公开透明",
+      "光明正大"
+    ]
+  },
+  {
+    "id": "tang-tang-zheng-zheng",
+    "text": "堂堂正正",
+    "pinyin": "táng táng zhèng zhèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "fairness-and-impartiality"
+    ],
+    "literal": "imposing · imposing · upright · upright",
+    "natural": "upright and aboveboard",
+    "meaning": {
+      "en": "Honourable and aboveboard in manner and conduct.",
+      "zh": "光明正大，形容人品端正，行为磊落。"
+    },
+    "equivalents": [
+      "upright and aboveboard",
+      "fair and square"
+    ],
+    "examples": [
+      {
+        "zh": "做人要堂堂正正。",
+        "en": "One should live honestly and openly."
+      },
+      {
+        "zh": "我们要堂堂正正地赢下比赛。",
+        "en": "We'll win the match fair and square."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "光明磊落",
+      "正大光明"
+    ],
+    "antonyms": [
+      "偷偷摸摸",
+      "鬼鬼祟祟"
+    ]
+  },
+  {
+    "id": "zhi-guo-an-bang",
+    "text": "治国安邦",
+    "pinyin": "zhì guó ān bāng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "peace-and-prosperity"
+    ],
+    "literal": "govern · country · pacify · state",
+    "natural": "govern the country and keep it secure",
+    "meaning": {
+      "en": "To govern a country well and keep it safe and stable.",
+      "zh": "治理国家，使国家安定。"
+    },
+    "equivalents": [
+      "govern the nation and keep it secure",
+      "statecraft"
+    ],
+    "examples": [
+      {
+        "zh": "他一心想要治国安邦。",
+        "en": "He aspired to govern well and keep the nation secure."
+      },
+      {
+        "zh": "这本书总结了古人治国安邦的智慧。",
+        "en": "The book sums up the ancients' wisdom of statecraft."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; formal.",
+      "zh": "多作谓语、定语，较正式。"
+    },
+    "synonyms": [
+      "经邦济世",
+      "安邦定国"
+    ],
+    "antonyms": [
+      "祸国殃民",
+      "误国害民"
+    ]
+  },
+  {
+    "id": "li-zu-zhi-di",
+    "text": "立足之地",
+    "pinyin": "lì zú zhī dì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "poverty-and-hardship"
+    ],
+    "literal": "stand · foot · 's · ground",
+    "natural": "a place to stand",
+    "meaning": {
+      "en": "A place to stand: somewhere to settle or make a living.",
+      "zh": "站稳脚跟的地方，指安身的地方或发展的空间。"
+    },
+    "equivalents": [
+      "foothold",
+      "a place to stand",
+      "a niche"
+    ],
+    "examples": [
+      {
+        "zh": "他在这座城市终于有了立足之地。",
+        "en": "He finally had a foothold in this city."
+      },
+      {
+        "zh": "没有核心技术，企业就没有立足之地。",
+        "en": "Without core technology a company has no footing."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 无立足之地/有立足之地.",
+      "zh": "常作宾语。"
+    },
+    "synonyms": [
+      "容身之所",
+      "安身之地"
+    ],
+    "antonyms": [
+      "无处容身",
+      "走投无路"
+    ]
+  },
+  {
+    "id": "xiong-duo-ji-shao",
+    "text": "凶多吉少",
+    "pinyin": "xiōng duō jí shǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "ill · many · lucky · few",
+    "natural": "the outlook is grim",
+    "meaning": {
+      "en": "More likely to end badly than well.",
+      "zh": "坏的可能性大，好的可能性小。"
+    },
+    "equivalents": [
+      "things look grim",
+      "likely to end badly",
+      "the odds are bad"
+    ],
+    "examples": [
+      {
+        "zh": "他失踪三天了，恐怕凶多吉少。",
+        "en": "He has been missing for three days and the outlook is grim."
+      },
+      {
+        "zh": "这次手术风险大，凶多吉少。",
+        "en": "The operation is risky and may well go badly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "九死一生",
+      "危在旦夕"
+    ],
+    "antonyms": [
+      "吉星高照",
+      "逢凶化吉"
+    ]
+  },
+  {
+    "id": "zhu-zi-zhu-ju",
+    "text": "逐字逐句",
+    "pinyin": "zhú zì zhú jù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study"
+    ],
+    "literal": "one by one · word · one by one · sentence",
+    "natural": "word by word",
+    "meaning": {
+      "en": "Going through a text word by word and sentence by sentence.",
+      "zh": "一个字一个字、一句一句地。"
+    },
+    "equivalents": [
+      "word for word",
+      "line by line"
+    ],
+    "examples": [
+      {
+        "zh": "老师逐字逐句地讲解课文。",
+        "en": "The teacher explained the text word by word."
+      },
+      {
+        "zh": "合同要逐字逐句地读，别漏掉细节。",
+        "en": "Read the contract line by line so no detail slips by."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial, usually with 地.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "字斟句酌",
+      "一字一句"
+    ],
+    "antonyms": [
+      "走马观花",
+      "一目十行"
+    ]
+  },
+  {
+    "id": "wan-xiang-geng-xin",
+    "text": "万象更新",
+    "pinyin": "wàn xiàng gēng xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "seasonal-changes",
+      "comebacks-and-renewal",
+      "festive-greetings"
+    ],
+    "literal": "myriad · phenomena · renewed · new",
+    "natural": "a fresh start for everything",
+    "meaning": {
+      "en": "Everything takes on a new look, as in spring or a new era.",
+      "zh": "一切事物都出现了新面貌。"
+    },
+    "equivalents": [
+      "everything takes on a new look",
+      "a fresh start for all"
+    ],
+    "examples": [
+      {
+        "zh": "新年伊始，万象更新。",
+        "en": "At the start of the new year, everything feels fresh."
+      },
+      {
+        "zh": "春回大地，万象更新。",
+        "en": "Spring returns and all things are renewed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in new-year greetings.",
+      "zh": "多作谓语，常用于新年祝词。"
+    },
+    "synonyms": [
+      "焕然一新",
+      "除旧布新"
+    ],
+    "antonyms": [
+      "陈陈相因",
+      "一成不变"
+    ]
+  },
+  {
+    "id": "fei-jin-xin-ji",
+    "text": "费尽心机",
+    "pinyin": "fèi jìn xīn jī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction"
+    ],
+    "literal": "spend · exhaust · heart · scheming",
+    "natural": "rack one's brains",
+    "meaning": {
+      "en": "To use up all one's wits and scheming trying to achieve something.",
+      "zh": "用尽心思，想尽办法。"
+    },
+    "equivalents": [
+      "rack one's brains",
+      "go to great lengths",
+      "scheme tirelessly"
+    ],
+    "examples": [
+      {
+        "zh": "他费尽心机想讨好领导。",
+        "en": "He went to great lengths to curry favour with his superiors."
+      },
+      {
+        "zh": "为了这份礼物，她费尽心机。",
+        "en": "She racked her brains over this gift."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often neutral-to-negative.",
+      "zh": "多作谓语，常含贬义。"
+    },
+    "synonyms": [
+      "煞费苦心",
+      "绞尽脑汁"
+    ],
+    "antonyms": [
+      "漫不经心",
+      "毫不费力"
+    ]
+  },
+  {
+    "id": "sha-yu-er-gui",
+    "text": "铩羽而归",
+    "pinyin": "shā yǔ ér guī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "defeat-and-military-failure",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "wing-clipped · feathers · and · return",
+    "natural": "return defeated",
+    "meaning": {
+      "en": "To return home defeated, like a bird with broken wings.",
+      "zh": "鸟的翅膀受伤而归，比喻受挫、失败而回。"
+    },
+    "equivalents": [
+      "return empty-handed and defeated",
+      "come home with one's tail between one's legs"
+    ],
+    "examples": [
+      {
+        "zh": "球队铩羽而归，无缘决赛。",
+        "en": "The team returned defeated, missing out on the final."
+      },
+      {
+        "zh": "他在大城市闯荡几年，最后铩羽而归。",
+        "en": "After a few years in the big city he came home beaten."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; written style.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "败兴而归",
+      "无功而返"
+    ],
+    "antonyms": [
+      "凯旋而归",
+      "满载而归"
+    ]
+  },
+  {
+    "id": "cong-zhong-yu-li",
+    "text": "从中渔利",
+    "pinyin": "cóng zhōng yú lì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "corruption-and-injustice"
+    ],
+    "literal": "from · within · fish · profit",
+    "natural": "profit from the situation",
+    "meaning": {
+      "en": "To take advantage of a situation to profit for oneself.",
+      "zh": "利用机会从中谋取私利。"
+    },
+    "equivalents": [
+      "profit from the situation",
+      "take a cut",
+      "fish in troubled waters"
+    ],
+    "examples": [
+      {
+        "zh": "中间商想从中渔利。",
+        "en": "The middlemen wanted to profit from the deal."
+      },
+      {
+        "zh": "有人在两家的纠纷中从中渔利。",
+        "en": "Someone profited from the dispute between the two families."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; set phrase with 想/企图.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坐收渔利",
+      "浑水摸鱼"
+    ],
+    "antonyms": [
+      "公正无私",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "wei-yan-da-yi",
+    "text": "微言大义",
+    "pinyin": "wēi yán dà yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "reading-and-study",
+      "excellent-writing"
+    ],
+    "literal": "subtle · words · great · meaning",
+    "natural": "profound meaning in few words",
+    "meaning": {
+      "en": "Subtle words that carry profound meaning.",
+      "zh": "精深微妙的语言中包含深刻的道理。"
+    },
+    "equivalents": [
+      "profound meaning in subtle words",
+      "deep meaning behind brief words"
+    ],
+    "examples": [
+      {
+        "zh": "这本书文字简短，却微言大义。",
+        "en": "The book is short but carries deep meaning."
+      },
+      {
+        "zh": "古人的微言大义需要细细品读。",
+        "en": "The profound hints of the ancients call for close reading."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; written style.",
+      "zh": "多作谓语、宾语，书面语。"
+    },
+    "synonyms": [
+      "言简意赅",
+      "意味深长"
+    ],
+    "antonyms": [
+      "空洞无物",
+      "言之无物"
+    ]
+  }
+]

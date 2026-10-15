@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "qing-shui-ya-men",
+    "text": "清水衙门",
+    "pinyin": "qīng shuǐ yá mén",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "political-corruption"
+    ],
+    "literal": "clear · water · government office · gate",
+    "natural": "a poorly paid office",
+    "meaning": {
+      "en": "A government office with no perks or graft opportunities.",
+      "zh": "指没有油水可捞、收入清淡的机关或部门。"
+    },
+    "equivalents": [
+      "a dead-end department",
+      "an office with no perks"
+    ],
+    "examples": [
+      {
+        "zh": "他被调到清水衙门，再没有额外收入。",
+        "en": "He was transferred to a no-perks office with no extra income."
+      },
+      {
+        "zh": "这个清水衙门，大家只拿死工资。",
+        "en": "In this bare-bones department everyone lives on basic pay."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive; colloquial.",
+      "zh": "作宾语、定语，口语。"
+    },
+    "synonyms": [
+      "冷衙门"
+    ],
+    "antonyms": [
+      "肥缺",
+      "热门岗位"
+    ]
+  },
+  {
+    "id": "shi-wei-su-can",
+    "text": "尸位素餐",
+    "pinyin": "shī wèi sù cān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "negative-character-flaws"
+    ],
+    "literal": "corpse-like · post · idle · eat",
+    "natural": "hold a post and do nothing",
+    "meaning": {
+      "en": "To draw a salary without doing one's job.",
+      "zh": "占着职位而不做事，白吃饭。"
+    },
+    "equivalents": [
+      "draw a salary for nothing",
+      "be a sinecure-holder"
+    ],
+    "examples": [
+      {
+        "zh": "这样的官员只会尸位素餐。",
+        "en": "Officials like that only occupy posts and do nothing."
+      },
+      {
+        "zh": "不能让尸位素餐的人占着岗位。",
+        "en": "We mustn't let idlers hold posts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; strongly critical.",
+      "zh": "多作谓语，批评意味重。"
+    },
+    "synonyms": [
+      "饱食终日",
+      "无所事事"
+    ],
+    "antonyms": [
+      "尽职尽责",
+      "鞠躬尽瘁"
+    ]
+  },
+  {
+    "id": "qi-shou-ba-jiao",
+    "text": "七手八脚",
+    "pinyin": "qī shǒu bā jiǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "chaos",
+      "efficiency"
+    ],
+    "literal": "seven · hands · eight · feet",
+    "natural": "many hands in a flurry",
+    "meaning": {
+      "en": "Many people acting at once in a busy, disorderly way.",
+      "zh": "形容人多手杂，动作忙乱。"
+    },
+    "equivalents": [
+      "all hands in a flurry",
+      "everyone pitching in at once"
+    ],
+    "examples": [
+      {
+        "zh": "大家七手八脚地把箱子搬上了车。",
+        "en": "Everyone pitched in and hauled the boxes onto the truck."
+      },
+      {
+        "zh": "七手八脚，一会儿就把火扑灭了。",
+        "en": "With everyone grabbing at once, the fire was soon out."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "手忙脚乱",
+      "众人拾柴"
+    ],
+    "antonyms": [
+      "有条不紊",
+      "井然有序"
+    ]
+  },
+  {
+    "id": "tian-you-jia-cu",
+    "text": "添油加醋",
+    "pinyin": "tiān yóu jiā cù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "verbosity"
+    ],
+    "literal": "add · oil · add · vinegar",
+    "natural": "embellish a story",
+    "meaning": {
+      "en": "To exaggerate when retelling.",
+      "zh": "讲述时随意夸大，加上原来没有的内容。"
+    },
+    "equivalents": [
+      "embellish",
+      "pile it on"
+    ],
+    "examples": [
+      {
+        "zh": "他传话时总爱添油加醋。",
+        "en": "He always embellishes when passing on messages."
+      },
+      {
+        "zh": "记者添油加醋，把小事写成了大新闻。",
+        "en": "The reporter embellished and made a small thing into big news."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "添枝加叶",
+      "夸大其词"
+    ],
+    "antonyms": [
+      "实事求是",
+      "如实相告"
+    ]
+  },
+  {
+    "id": "kai-lu-xian-feng",
+    "text": "开路先锋",
+    "pinyin": "kāi lù xiān fēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "innovation-and-progress"
+    ],
+    "literal": "open · road · van · vanguard",
+    "natural": "trailblazer",
+    "meaning": {
+      "en": "A pioneer who clears the way.",
+      "zh": "在前面开辟道路的人，比喻带头冲锋的人。"
+    },
+    "equivalents": [
+      "trailblazer",
+      "pathfinder"
+    ],
+    "examples": [
+      {
+        "zh": "他们是这个行业的开路先锋。",
+        "en": "They are the trailblazers of this industry."
+      },
+      {
+        "zh": "青年志愿者当好脱贫的开路先锋。",
+        "en": "Young volunteers are the pioneers in the fight against poverty."
+      }
+    ],
+    "usage": {
+      "en": "Object or predicate.",
+      "zh": "作宾语、谓语。"
+    },
+    "synonyms": [
+      "先行者",
+      "拓荒者"
+    ],
+    "antonyms": [
+      "尾随其后",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "lei-dian-jiao-jia",
+    "text": "雷电交加",
+    "pinyin": "léi diàn jiāo jiā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "seasonal-changes"
+    ],
+    "literal": "thunder · lightning · together · add",
+    "natural": "thunder and lightning together",
+    "meaning": {
+      "en": "Thunder and lightning striking together.",
+      "zh": "打雷和闪电同时发生。"
+    },
+    "equivalents": [
+      "thunder and lightning raging",
+      "a stormy night"
+    ],
+    "examples": [
+      {
+        "zh": "那晚雷电交加，大雨倾盆。",
+        "en": "That night thunder and lightning raged and the rain poured."
+      },
+      {
+        "zh": "雷电交加的夜里，孩子吓得直哭。",
+        "en": "On the night of thunder and lightning the child cried in fear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "电闪雷鸣",
+      "风雨交加"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "万里无云"
+    ]
+  },
+  {
+    "id": "zhu-lian-bi-he",
+    "text": "珠联璧合",
+    "pinyin": "zhū lián bì hé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "love-and-marriage",
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "pearls · string · jade discs · join",
+    "natural": "a perfect match",
+    "meaning": {
+      "en": "A perfect pairing of excellent people or things.",
+      "zh": "珍珠串在一起，美玉合在一起，比喻杰出的人或事物结合在一起。"
+    },
+    "equivalents": [
+      "a perfect pairing",
+      "a match made in heaven"
+    ],
+    "examples": [
+      {
+        "zh": "这对搭档珠联璧合，配合默契。",
+        "en": "The pair are a perfect match and work in tune."
+      },
+      {
+        "zh": "祝你们珠联璧合，白头偕老。",
+        "en": "May you be a perfect pair and grow old together."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also a wedding blessing.",
+      "zh": "多作谓语，也用于祝婚。"
+    },
+    "synonyms": [
+      "天作之合",
+      "相得益彰"
+    ],
+    "antonyms": [
+      "貌合神离",
+      "格格不入"
+    ]
+  },
+  {
+    "id": "zuo-chi-shan-kong",
+    "text": "坐吃山空",
+    "pinyin": "zuò chī shān kōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "坐吃山崩"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "sit · eat · mountain · empty",
+    "natural": "live off savings until they run out",
+    "meaning": {
+      "en": "Even a mountain of wealth runs out if you only consume.",
+      "zh": "光吃不做，即使有堆成山的财富也会耗尽。"
+    },
+    "equivalents": [
+      "eat into one's capital",
+      "spend without earning"
+    ],
+    "examples": [
+      {
+        "zh": "不能坐吃山空，得找份工作。",
+        "en": "We can't just live off savings; I must find a job."
+      },
+      {
+        "zh": "再多的家产也经不起坐吃山空。",
+        "en": "No fortune can survive being spent without earning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; cautionary.",
+      "zh": "多作谓语，带警示。"
+    },
+    "synonyms": [
+      "坐享其成",
+      "挥霍无度"
+    ],
+    "antonyms": [
+      "自食其力",
+      "开源节流"
+    ]
+  },
+  {
+    "id": "feng-du-pian-pian",
+    "text": "风度翩翩",
+    "pinyin": "fēng dù piān piān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "outstanding-character"
+    ],
+    "literal": "bearing · manner · lightly · lightly",
+    "natural": "dashing and elegant",
+    "meaning": {
+      "en": "Graceful and elegant in manner.",
+      "zh": "举止优雅潇洒，多形容男子。"
+    },
+    "equivalents": [
+      "debonair",
+      "suave and elegant"
+    ],
+    "examples": [
+      {
+        "zh": "他风度翩翩，引人注目。",
+        "en": "He is debonair and draws attention."
+      },
+      {
+        "zh": "一位风度翩翩的绅士走了进来。",
+        "en": "A suave gentleman walked in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; usually of men.",
+      "zh": "作谓语、定语，多形容男子。"
+    },
+    "synonyms": [
+      "潇洒自如",
+      "仪表堂堂"
+    ],
+    "antonyms": [
+      "粗俗不堪",
+      "邋里邋遢"
+    ]
+  },
+  {
+    "id": "yi-hong-er-san",
+    "text": "一哄而散",
+    "pinyin": "yī hòng ér sàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "chaos",
+      "abrupt-endings"
+    ],
+    "literal": "one · hubbub · and · disperse",
+    "natural": "scatter in a rush",
+    "meaning": {
+      "en": "To scatter all at once in a noisy crowd.",
+      "zh": "许多人一下子吵吵嚷嚷地散开。"
+    },
+    "equivalents": [
+      "scatter in a rush",
+      "disperse noisily"
+    ],
+    "examples": [
+      {
+        "zh": "老师一进来，同学们一哄而散。",
+        "en": "The moment the teacher walked in, the students scattered."
+      },
+      {
+        "zh": "警察赶到，人群一哄而散。",
+        "en": "When the police arrived, the crowd dispersed in a rush."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "作鸟兽散",
+      "四散奔逃"
+    ],
+    "antonyms": [
+      "聚精会神",
+      "群起而攻之"
+    ]
+  },
+  {
+    "id": "ru-geng-zai-hou",
+    "text": "如鲠在喉",
+    "pinyin": "rú gěng zài hóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "complex-emotional-states"
+    ],
+    "literal": "like · fishbone · in · throat",
+    "natural": "like a fishbone in the throat",
+    "meaning": {
+      "en": "Feeling that something must be said, uncomfortably.",
+      "zh": "像鱼骨头卡在喉咙里，比喻有话憋着不说，不吐不快。"
+    },
+    "equivalents": [
+      "have it stuck in one's throat",
+      "ache to speak out"
+    ],
+    "examples": [
+      {
+        "zh": "这件事让我如鲠在喉，不说不行。",
+        "en": "This matter sticks in my throat; I must speak."
+      },
+      {
+        "zh": "心中的疑问如鲠在喉。",
+        "en": "The doubt stuck in my throat like a bone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 感到如鲠在喉.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "不吐不快",
+      "欲言又止"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "无话可说"
+    ]
+  },
+  {
+    "id": "da-yi-lin-ran",
+    "text": "大义凛然",
+    "pinyin": "dà yì lǐn rán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "great · righteousness · awe-inspiring · so",
+    "natural": "with awe-inspiring righteousness",
+    "meaning": {
+      "en": "Dignified and fearless in the name of justice.",
+      "zh": "为正义而无所畏惧，态度庄严。"
+    },
+    "equivalents": [
+      "with stern righteousness",
+      "in noble defiance"
+    ],
+    "examples": [
+      {
+        "zh": "面对敌人，他大义凛然。",
+        "en": "Facing the enemy, he was resolutely righteous."
+      },
+      {
+        "zh": "她大义凛然地揭发了真相。",
+        "en": "She exposed the truth with righteous courage."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "正气凛然",
+      "视死如归"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "卑躬屈膝"
+    ]
+  },
+  {
+    "id": "yi-chang-yi-he",
+    "text": "一唱一和",
+    "pinyin": "yī chàng yī hè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "conformity-and-imitation"
+    ],
+    "literal": "one · sings · one · harmonises",
+    "natural": "echo each other",
+    "meaning": {
+      "en": "One speaks and the other echoes; acting in tandem.",
+      "zh": "一个唱，一个应和，比喻互相呼应配合。"
+    },
+    "equivalents": [
+      "play along with each other",
+      "tag-team"
+    ],
+    "examples": [
+      {
+        "zh": "两人一唱一和，把顾客说动了。",
+        "en": "The two played off each other and won the customer round."
+      },
+      {
+        "zh": "他们俩在会上一唱一和。",
+        "en": "The two of them backed each other up in the meeting."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; mildly derogatory.",
+      "zh": "作谓语、状语，略含贬义。"
+    },
+    "synonyms": [
+      "一搭一档",
+      "里应外合"
+    ],
+    "antonyms": [
+      "各执一词",
+      "唱反调"
+    ]
+  },
+  {
+    "id": "ni-lai-shun-shou",
+    "text": "逆来顺受",
+    "pinyin": "nì lái shùn shòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "giving-up-and-weakness",
+      "negative-character-flaws"
+    ],
+    "literal": "adverse · come · submissive · accept",
+    "natural": "take it lying down",
+    "meaning": {
+      "en": "To passively put up with mistreatment.",
+      "zh": "对恶劣的待遇或环境忍受顺从，不反抗。"
+    },
+    "equivalents": [
+      "take it lying down",
+      "meekly put up with"
+    ],
+    "examples": [
+      {
+        "zh": "她总是逆来顺受，不敢反抗。",
+        "en": "She always meekly puts up with it and doesn't dare to resist."
+      },
+      {
+        "zh": "不要对不公逆来顺受。",
+        "en": "Don't passively accept injustice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "忍气吞声",
+      "委曲求全"
+    ],
+    "antonyms": [
+      "奋起反抗",
+      "针锋相对"
+    ]
+  },
+  {
+    "id": "xiao-qiao-ling-long",
+    "text": "小巧玲珑",
+    "pinyin": "xiǎo qiǎo líng lóng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "fine-dress-and-fashion"
+    ],
+    "literal": "small · neat · delicate · exquisite",
+    "natural": "small and exquisite",
+    "meaning": {
+      "en": "Small, dainty and finely made.",
+      "zh": "形容物体小而精致，也形容人小巧可爱。"
+    },
+    "equivalents": [
+      "petite and exquisite",
+      "dainty"
+    ],
+    "examples": [
+      {
+        "zh": "这只茶壶小巧玲珑。",
+        "en": "This teapot is small and exquisite."
+      },
+      {
+        "zh": "她身材小巧玲珑。",
+        "en": "She has a petite, dainty figure."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "精致小巧",
+      "娇小可爱"
+    ],
+    "antonyms": [
+      "庞然大物",
+      "粗枝大叶"
+    ]
+  },
+  {
+    "id": "bao-tiao-ru-lei",
+    "text": "暴跳如雷",
+    "pinyin": "bào tiào rú léi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger"
+    ],
+    "literal": "violent · leap · like · thunder",
+    "natural": "hit the roof",
+    "meaning": {
+      "en": "To fly into a violent rage.",
+      "zh": "急躁愤怒得跳脚大叫，像打雷一样。"
+    },
+    "equivalents": [
+      "hit the roof",
+      "blow one's top"
+    ],
+    "examples": [
+      {
+        "zh": "听到这个消息，他暴跳如雷。",
+        "en": "On hearing the news, he hit the roof."
+      },
+      {
+        "zh": "老板暴跳如雷，把文件摔在桌上。",
+        "en": "The boss blew his top and slammed the papers down."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "怒不可遏",
+      "火冒三丈"
+    ],
+    "antonyms": [
+      "心平气和",
+      "泰然自若"
+    ]
+  },
+  {
+    "id": "yun-dan-feng-qing",
+    "text": "云淡风轻",
+    "pinyin": "yún dàn fēng qīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "风轻云淡"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "mental-clarity"
+    ],
+    "literal": "clouds · light · wind · gentle",
+    "natural": "calm and carefree",
+    "meaning": {
+      "en": "Light clouds and a gentle breeze; serene and unbothered.",
+      "zh": "云很淡，风很轻，形容天气晴和，也形容心境平静从容。"
+    },
+    "equivalents": [
+      "serene",
+      "calm and unbothered"
+    ],
+    "examples": [
+      {
+        "zh": "今天云淡风轻，适合出游。",
+        "en": "Today is mild and clear: a good day for an outing."
+      },
+      {
+        "zh": "经历了这些，他已能云淡风轻地面对。",
+        "en": "After all this, he can face it with serene calm."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "心如止水",
+      "波澜不惊"
+    ],
+    "antonyms": [
+      "风雨交加",
+      "惊涛骇浪"
+    ]
+  },
+  {
+    "id": "qu-gao-he-gua",
+    "text": "曲高和寡",
+    "pinyin": "qǔ gāo hè guǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "artistic-mediocrity",
+      "attitude-humble-vs-arrogant",
+      "poems-prose"
+    ],
+    "literal": "tune · high · join in · few",
+    "natural": "too highbrow for the crowd",
+    "meaning": {
+      "en": "Too refined to be appreciated by many.",
+      "zh": "曲调高雅，能跟着唱的人很少，比喻作品或言论高深，知音难得。"
+    },
+    "equivalents": [
+      "too highbrow for the masses",
+      "caviar to the general"
+    ],
+    "examples": [
+      {
+        "zh": "他的音乐曲高和寡，听众不多。",
+        "en": "His music is too highbrow and has few listeners."
+      },
+      {
+        "zh": "这类实验电影往往曲高和寡。",
+        "en": "Experimental films like this tend to have a niche audience."
+      }
+    ],
+    "origin": {
+      "source": "宋玉《对楚王问》",
+      "story": {
+        "en": "Song Yu told the King of Chu that when a singer performed the refined 'Yang Chun Bai Xue', only a few dozen could join in (其曲弥高，其和弥寡).",
+        "zh": "宋玉《对楚王问》：“其曲弥高，其和弥寡。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "阳春白雪",
+      "知音难觅"
+    ],
+    "antonyms": [
+      "雅俗共赏",
+      "下里巴人"
+    ]
+  },
+  {
+    "id": "chuan-jing-song-bao",
+    "text": "传经送宝",
+    "pinyin": "chuán jīng sòng bǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "effective-teaching-methods"
+    ],
+    "literal": "pass on · scripture · deliver · treasure",
+    "natural": "pass on experience",
+    "meaning": {
+      "en": "To share valuable experience and skills with others.",
+      "zh": "把先进经验和技术传授给别人。"
+    },
+    "equivalents": [
+      "pass on know-how",
+      "share hard-won experience"
+    ],
+    "examples": [
+      {
+        "zh": "老专家到乡村传经送宝。",
+        "en": "The veteran expert went to villages to pass on know-how."
+      },
+      {
+        "zh": "退休教师义务为年轻人传经送宝。",
+        "en": "Retired teachers volunteered to pass their experience on to the young."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal-leaning.",
+      "zh": "多作谓语，偏书面。"
+    },
+    "synonyms": [
+      "言传身教",
+      "传帮带"
+    ],
+    "antonyms": [
+      "敝帚自珍",
+      "秘而不宣"
+    ]
+  },
+  {
+    "id": "gai-xian-yi-zhe",
+    "text": "改弦易辙",
+    "pinyin": "gǎi xián yì zhé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "change",
+      "adaptability"
+    ],
+    "literal": "change · strings · alter · track",
+    "natural": "change course",
+    "meaning": {
+      "en": "To change one's approach or direction.",
+      "zh": "改换琴弦，改走另一条路，比喻改变方法或态度。"
+    },
+    "equivalents": [
+      "change tack",
+      "take a new course"
+    ],
+    "examples": [
+      {
+        "zh": "原方案行不通，只好改弦易辙。",
+        "en": "The original plan didn't work, so we had to change tack."
+      },
+      {
+        "zh": "他决定改弦易辙，转行做教育。",
+        "en": "He decided to change course and move into education."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "另起炉灶",
+      "幡然醒悟"
+    ],
+    "antonyms": [
+      "一成不变",
+      "故步自封"
+    ]
+  },
+  {
+    "id": "qian-qiang-fu-hui",
+    "text": "牵强附会",
+    "pinyin": "qiān qiǎng fù huì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "superficial-learning"
+    ],
+    "literal": "force · strained · attach · connect",
+    "natural": "far-fetched",
+    "meaning": {
+      "en": "To force a connection between unrelated things.",
+      "zh": "把没有关系的事物勉强联系在一起来解释。"
+    },
+    "equivalents": [
+      "far-fetched",
+      "a forced interpretation"
+    ],
+    "examples": [
+      {
+        "zh": "这种解释太牵强附会了。",
+        "en": "That interpretation is far too contrived."
+      },
+      {
+        "zh": "别牵强附会地把两件事扯在一起。",
+        "en": "Don't force a link between the two things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "生拉硬扯",
+      "穿凿附会"
+    ],
+    "antonyms": [
+      "顺理成章",
+      "合情合理"
+    ]
+  },
+  {
+    "id": "cong-qing-fa-luo",
+    "text": "从轻发落",
+    "pinyin": "cóng qīng fā luò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "fairness-and-impartiality"
+    ],
+    "literal": "follow · light · deal with · settle",
+    "natural": "let someone off lightly",
+    "meaning": {
+      "en": "To impose a lenient punishment.",
+      "zh": "处理时采取较轻的处分。"
+    },
+    "equivalents": [
+      "go easy on",
+      "let off lightly"
+    ],
+    "examples": [
+      {
+        "zh": "考虑到他主动认错，法官决定从轻发落。",
+        "en": "Given his voluntary admission, the judge went easy on him."
+      },
+      {
+        "zh": "初犯者可以从轻发落。",
+        "en": "First offenders may be treated leniently."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; legal register.",
+      "zh": "多作谓语，常用于司法。"
+    },
+    "synonyms": [
+      "网开一面",
+      "宽大处理"
+    ],
+    "antonyms": [
+      "从重处罚",
+      "严惩不贷"
+    ]
+  },
+  {
+    "id": "man-qiang-re-chen",
+    "text": "满腔热忱",
+    "pinyin": "mǎn qiāng rè chén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "满腔热情"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "joy-and-happiness"
+    ],
+    "literal": "full · chest · warm · sincerity",
+    "natural": "full of enthusiasm",
+    "meaning": {
+      "en": "Full of warm-hearted enthusiasm.",
+      "zh": "心里充满热情。"
+    },
+    "equivalents": [
+      "wholehearted enthusiasm",
+      "brimming with zeal"
+    ],
+    "examples": [
+      {
+        "zh": "他满腔热忱地投入教育事业。",
+        "en": "He threw himself into education with enthusiasm."
+      },
+      {
+        "zh": "志愿者们满腔热忱，不计报酬。",
+        "en": "The volunteers were full of zeal and wanted no pay."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "热情洋溢",
+      "一腔热血"
+    ],
+    "antonyms": [
+      "冷若冰霜",
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "xiao-ji-dai-gong",
+    "text": "消极怠工",
+    "pinyin": "xiāo jí dài gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up",
+      "conflict-and-strife"
+    ],
+    "literal": "passive · slack · work",
+    "natural": "work-to-rule",
+    "meaning": {
+      "en": "To work slackly as a form of protest.",
+      "zh": "因不满而不积极工作，故意拖延。"
+    },
+    "equivalents": [
+      "go slow",
+      "slack off in protest"
+    ],
+    "examples": [
+      {
+        "zh": "工人因欠薪而消极怠工。",
+        "en": "The workers went slow over unpaid wages."
+      },
+      {
+        "zh": "消极怠工只会拖累整个团队。",
+        "en": "Slacking off only drags down the whole team."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "磨洋工",
+      "敷衍塞责"
+    ],
+    "antonyms": [
+      "积极进取",
+      "全力以赴"
+    ]
+  },
+  {
+    "id": "qi-yan-xiao-zhang",
+    "text": "气焰嚣张",
+    "pinyin": "qì yàn xiāo zhāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "flame · arrogance · rampant · unbridled",
+    "natural": "arrogant and overbearing",
+    "meaning": {
+      "en": "Domineering and insolent.",
+      "zh": "形容态度傲慢、盛气凌人。"
+    },
+    "equivalents": [
+      "arrogant and overbearing",
+      "insolent"
+    ],
+    "examples": [
+      {
+        "zh": "对方气焰嚣张，丝毫不肯让步。",
+        "en": "The other side was overbearing and wouldn't yield an inch."
+      },
+      {
+        "zh": "他赢了几场就气焰嚣张起来。",
+        "en": "A few wins and he turned arrogant."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "盛气凌人",
+      "趾高气扬"
+    ],
+    "antonyms": [
+      "谦虚谨慎",
+      "低声下气"
+    ]
+  }
+]

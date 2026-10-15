@@ -1,0 +1,956 @@
+[
+  {
+    "id": "fu-zheng-qu-xie",
+    "text": "扶正祛邪",
+    "pinyin": "fú zhèng qū xié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "medical-skill-and-healing",
+      "fairness-and-impartiality"
+    ],
+    "literal": "support · right · expel · evil",
+    "natural": "bolster the good and expel the bad",
+    "meaning": {
+      "en": "To strengthen what is right and drive out what is harmful; originally a principle of Chinese medicine.",
+      "zh": "扶助正气，祛除邪气；原为中医治疗原则，也比喻弘扬正义、清除邪恶。"
+    },
+    "equivalents": [
+      "support the good and root out the bad",
+      "strengthen vitality and expel pathogens"
+    ],
+    "examples": [
+      {
+        "zh": "中医治病讲究扶正祛邪。",
+        "en": "Chinese medicine treats illness by strengthening the body and expelling pathogens."
+      },
+      {
+        "zh": "要扶正祛邪，营造清朗的网络空间。",
+        "en": "We must uphold what is right and root out what is harmful to keep the internet clean."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; both medical and figurative.",
+      "zh": "多作谓语，兼有医学义和比喻义。"
+    },
+    "synonyms": [
+      "惩恶扬善",
+      "除暴安良"
+    ],
+    "antonyms": [
+      "助纣为虐",
+      "姑息养奸"
+    ]
+  },
+  {
+    "id": "shen-ju-jian-chu",
+    "text": "深居简出",
+    "pinyin": "shēn jū jiǎn chū",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "solitude-and-isolation",
+      "relaxation-and-rest"
+    ],
+    "literal": "deep · dwell · few · go-out",
+    "natural": "stay secluded and rarely go out",
+    "meaning": {
+      "en": "To live in seclusion and seldom go out.",
+      "zh": "常住家里，很少出门。"
+    },
+    "equivalents": [
+      "lead a secluded life",
+      "keep to oneself"
+    ],
+    "examples": [
+      {
+        "zh": "老人退休后深居简出。",
+        "en": "The old man leads a secluded life after retirement."
+      },
+      {
+        "zh": "这位作家深居简出，很少接受采访。",
+        "en": "The writer keeps a low profile and rarely gives interviews."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "足不出户",
+      "闭门谢客"
+    ],
+    "antonyms": [
+      "抛头露面",
+      "东奔西走"
+    ]
+  },
+  {
+    "id": "hun-hun-e-e",
+    "text": "浑浑噩噩",
+    "pinyin": "hún hún è è",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "muddled · muddled · stupefied · stupefied",
+    "natural": "muddled and aimless",
+    "meaning": {
+      "en": "Ignorant and aimless; living in a daze.",
+      "zh": "糊涂无知，生活没有目标，过得浑浑噩噩。"
+    },
+    "equivalents": [
+      "live in a daze",
+      "drift aimlessly through life"
+    ],
+    "examples": [
+      {
+        "zh": "他毕业后浑浑噩噩地过了好几年。",
+        "en": "After graduating he drifted aimlessly for several years."
+      },
+      {
+        "zh": "不能一辈子浑浑噩噩，该有个目标了。",
+        "en": "You can't muddle through life; it's time you had a goal."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; often 浑浑噩噩过日子.",
+      "zh": "多作谓语、状语，常说“浑浑噩噩过日子”。"
+    },
+    "synonyms": [
+      "糊里糊涂",
+      "昏昏沉沉"
+    ],
+    "antonyms": [
+      "清醒明白",
+      "发愤图强"
+    ]
+  },
+  {
+    "id": "ming-ding-da-zui",
+    "text": "酩酊大醉",
+    "pinyin": "mǐng dǐng dà zuì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "inappropriate-behavior"
+    ],
+    "literal": "drunk · drunk · greatly · intoxicated",
+    "natural": "dead drunk",
+    "meaning": {
+      "en": "To be very drunk.",
+      "zh": "醉得非常厉害，神志不清。"
+    },
+    "equivalents": [
+      "blind drunk",
+      "dead drunk"
+    ],
+    "examples": [
+      {
+        "zh": "他在聚会上喝得酩酊大醉。",
+        "en": "He got blind drunk at the party."
+      },
+      {
+        "zh": "昨晚酩酊大醉，今天头痛欲裂。",
+        "en": "Dead drunk last night; I've a splitting headache today."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "烂醉如泥",
+      "喝得大醉"
+    ],
+    "antonyms": [
+      "清醒",
+      "滴酒不沾"
+    ]
+  },
+  {
+    "id": "gu-ming-diao-yu",
+    "text": "沽名钓誉",
+    "pinyin": "gū míng diào yù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "buy · name · fish · reputation",
+    "natural": "angle for fame and praise",
+    "meaning": {
+      "en": "To seek fame and praise by underhand or showy means.",
+      "zh": "用某种手段骗取名誉。"
+    },
+    "equivalents": [
+      "fish for compliments",
+      "seek fame by dubious means",
+      "grandstand"
+    ],
+    "examples": [
+      {
+        "zh": "他捐款只是沽名钓誉，并不真心。",
+        "en": "His donation is just to fish for praise; he isn't sincere."
+      },
+      {
+        "zh": "有些人做公益是为了沽名钓誉。",
+        "en": "Some people do charity merely to gain a good name."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; clearly derogatory.",
+      "zh": "多作谓语，贬义明显。"
+    },
+    "synonyms": [
+      "欺世盗名",
+      "哗众取宠"
+    ],
+    "antonyms": [
+      "淡泊名利",
+      "实至名归"
+    ]
+  },
+  {
+    "id": "qiu-zhi-bu-de",
+    "text": "求之不得",
+    "pinyin": "qiú zhī bù dé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "successful-completion",
+      "poems-prose"
+    ],
+    "literal": "seek · it · not · obtain",
+    "natural": "what one could hardly have hoped for",
+    "meaning": {
+      "en": "Just what one has long wanted, and could hardly have hoped for.",
+      "zh": "想要寻求却得不到，形容正合心意、十分希望得到。"
+    },
+    "equivalents": [
+      "a dream come true",
+      "just what one wished for",
+      "jump at the chance"
+    ],
+    "examples": [
+      {
+        "zh": "能去名校深造，我求之不得。",
+        "en": "To study at a top university is just what I'd hoped for."
+      },
+      {
+        "zh": "你肯来帮忙，那真是求之不得的事。",
+        "en": "If you'll help, that's more than I could have asked for."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·周南·关雎》",
+      "story": {
+        "en": "The Guanju poem: 'Seeking her, he cannot get her' (求之不得，寤寐思服); the line originally means longing for what one cannot have.",
+        "zh": "《诗经·关雎》：“求之不得，寤寐思服。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate, often 求之不得的事 or 那正是我求之不得.",
+      "zh": "多作谓语，常说“求之不得的事”。"
+    },
+    "synonyms": [
+      "梦寐以求",
+      "正中下怀"
+    ],
+    "antonyms": [
+      "避之不及",
+      "敬谢不敏"
+    ]
+  },
+  {
+    "id": "dang-tou-bang-he",
+    "text": "当头棒喝",
+    "pinyin": "dāng tóu bàng hè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "buddhist-origin",
+      "mistakes-and-correction"
+    ],
+    "literal": "right-on · head · staff · shout",
+    "natural": "a blow on the head and a shout",
+    "meaning": {
+      "en": "A sharp warning that makes someone suddenly realise the truth.",
+      "zh": "佛教禅宗接引学人时，用棒打或大喝使其醒悟；比喻促人猛醒的警告。"
+    },
+    "equivalents": [
+      "a wake-up call",
+      "a sharp reality check"
+    ],
+    "examples": [
+      {
+        "zh": "这次失败对他是当头棒喝。",
+        "en": "This failure was a wake-up call for him."
+      },
+      {
+        "zh": "老师的批评给了我当头棒喝。",
+        "en": "The teacher's criticism hit me like a bolt of reality."
+      }
+    ],
+    "usage": {
+      "en": "Object or predicate, often 给……当头棒喝.",
+      "zh": "多作宾语、谓语，常说“给……当头棒喝”。"
+    },
+    "synonyms": [
+      "警钟长鸣",
+      "醍醐灌顶"
+    ],
+    "antonyms": [
+      "听之任之",
+      "姑息迁就"
+    ]
+  },
+  {
+    "id": "bi-yi-qi-fei",
+    "text": "比翼齐飞",
+    "pinyin": "bǐ yì qí fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "side-by-side · wings · together · fly",
+    "natural": "fly wing to wing",
+    "meaning": {
+      "en": "To fly side by side; to advance together as a loving couple or as partners.",
+      "zh": "翅膀挨着翅膀一起飞，比喻夫妻恩爱或共同进步。"
+    },
+    "equivalents": [
+      "fly side by side",
+      "advance hand in hand"
+    ],
+    "examples": [
+      {
+        "zh": "愿你们比翼齐飞，白头偕老。",
+        "en": "May you fly side by side and grow old together."
+      },
+      {
+        "zh": "两国携手，比翼齐飞，共创繁荣。",
+        "en": "The two countries advance hand in hand to build prosperity."
+      }
+    ],
+    "usage": {
+      "en": "Blessing or figurative; literary.",
+      "zh": "多作祝福语或比喻，书面语。"
+    },
+    "synonyms": [
+      "双宿双飞",
+      "携手并进"
+    ],
+    "antonyms": [
+      "劳燕分飞",
+      "分道扬镳"
+    ]
+  },
+  {
+    "id": "fei-huang-teng-da",
+    "text": "飞黄腾达",
+    "pinyin": "fēi huáng téng dá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "success"
+    ],
+    "literal": "flying · steed · soaring · reach",
+    "natural": "rise to high position",
+    "meaning": {
+      "en": "To rise rapidly to power or fortune.",
+      "zh": "比喻官职、地位上升很快。"
+    },
+    "equivalents": [
+      "rise to prominence",
+      "get on in the world",
+      "shoot to the top"
+    ],
+    "examples": [
+      {
+        "zh": "他当年一心想飞黄腾达。",
+        "en": "In his youth he was bent on rising in the world."
+      },
+      {
+        "zh": "他后来飞黄腾达，却没有忘记老朋友。",
+        "en": "He later became very successful but did not forget old friends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often implies status and wealth.",
+      "zh": "多作谓语，多指地位和财富上升。"
+    },
+    "synonyms": [
+      "平步青云",
+      "青云直上"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "穷困潦倒"
+    ]
+  },
+  {
+    "id": "bai-chi-gan-tou",
+    "text": "百尺竿头",
+    "pinyin": "bǎi chǐ gān tóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "innovation-and-progress"
+    ],
+    "literal": "hundred · foot · pole · top",
+    "natural": "the top of a hundred-foot pole",
+    "meaning": {
+      "en": "A very high level already reached; usually in 百尺竿头，更进一步 (go still further).",
+      "zh": "已经达到很高的成就；常说“百尺竿头，更进一步”，勉励继续进取。"
+    },
+    "equivalents": [
+      "reach even greater heights",
+      "always strive for more"
+    ],
+    "examples": [
+      {
+        "zh": "取得成绩后，仍要百尺竿头，更进一步。",
+        "en": "Even after succeeding, one must strive to go further."
+      },
+      {
+        "zh": "他已是百尺竿头，却从不松懈。",
+        "en": "He has reached a great height, yet he never slackens."
+      }
+    ],
+    "usage": {
+      "en": "Usually in the saying 百尺竿头，更进一步.",
+      "zh": "常用“百尺竿头，更进一步”。"
+    },
+    "synonyms": [
+      "精益求精",
+      "更上一层楼"
+    ],
+    "antonyms": [
+      "故步自封",
+      "停滞不前"
+    ]
+  },
+  {
+    "id": "zhi-nan-er-jin",
+    "text": "知难而进",
+    "pinyin": "zhī nán ér jìn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "high-aspirations"
+    ],
+    "literal": "know · difficult · yet · advance",
+    "natural": "advance despite the difficulty",
+    "meaning": {
+      "en": "To press ahead knowing it will be hard.",
+      "zh": "明知困难，仍然迎着困难前进。"
+    },
+    "equivalents": [
+      "press on despite the odds",
+      "rise to the challenge"
+    ],
+    "examples": [
+      {
+        "zh": "面对挑战，他选择知难而进。",
+        "en": "Faced with the challenge, he chose to press on."
+      },
+      {
+        "zh": "科研工作需要知难而进的精神。",
+        "en": "Research needs a spirit of pressing on in the face of difficulty."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "迎难而上",
+      "勇往直前"
+    ],
+    "antonyms": [
+      "望而却步",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "kou-chu-kuang-yan",
+    "text": "口出狂言",
+    "pinyin": "kǒu chū kuáng yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "verbosity"
+    ],
+    "literal": "mouth · utter · wild · words",
+    "natural": "utter wild boasts",
+    "meaning": {
+      "en": "To make arrogant, outrageous remarks.",
+      "zh": "说出狂妄自大的话。"
+    },
+    "equivalents": [
+      "talk big",
+      "make outrageous claims"
+    ],
+    "examples": [
+      {
+        "zh": "他还没通过考试就口出狂言，说要拿满分。",
+        "en": "He talked big before the exam, saying he'd get full marks."
+      },
+      {
+        "zh": "别在这里口出狂言，先拿出成绩来。",
+        "en": "Don't talk big here; show your results first."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "大言不惭",
+      "出言不逊"
+    ],
+    "antonyms": [
+      "谨言慎行",
+      "出言谨慎"
+    ]
+  },
+  {
+    "id": "shen-shou-bu-jian-wu-zhi",
+    "text": "伸手不见五指",
+    "pinyin": "shēn shǒu bù jiàn wǔ zhǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "danger"
+    ],
+    "literal": "stretch · hand · not · see · five · fingers",
+    "natural": "can't see one's hand before one's face",
+    "meaning": {
+      "en": "Pitch dark.",
+      "zh": "形容黑暗到了极点。"
+    },
+    "equivalents": [
+      "pitch dark",
+      "so dark you can't see your hand"
+    ],
+    "examples": [
+      {
+        "zh": "山洞里伸手不见五指。",
+        "en": "It was pitch dark inside the cave."
+      },
+      {
+        "zh": "停电后，屋里伸手不见五指。",
+        "en": "After the power cut it was pitch dark in the house."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement, often about night or caves.",
+      "zh": "多作谓语、补语，常用于夜晚、山洞。"
+    },
+    "synonyms": [
+      "漆黑一团",
+      "黑灯瞎火"
+    ],
+    "antonyms": [
+      "灯火通明",
+      "明亮如昼"
+    ]
+  },
+  {
+    "id": "ku-ku-ti-ti",
+    "text": "哭哭啼啼",
+    "pinyin": "kū kū tí tí",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "sadness-and-despair",
+      "negative-character-flaws"
+    ],
+    "literal": "cry · cry · wail · wail",
+    "natural": "weeping and whimpering",
+    "meaning": {
+      "en": "Crying and snivelling; being tearful and whiny.",
+      "zh": "不停地哭泣，形容爱哭、说话做事不爽快。"
+    },
+    "equivalents": [
+      "sniffling and crying",
+      "tearful and whiny"
+    ],
+    "examples": [
+      {
+        "zh": "别哭哭啼啼的，有话慢慢说。",
+        "en": "Stop snivelling and tell me slowly."
+      },
+      {
+        "zh": "她哭哭啼啼地回了家。",
+        "en": "She went home in tears."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Colloquial.",
+      "zh": "多作谓语、状语，口语。"
+    },
+    "synonyms": [
+      "啼哭不止",
+      "抽抽搭搭"
+    ],
+    "antonyms": [
+      "欢声笑语",
+      "谈笑风生"
+    ]
+  },
+  {
+    "id": "sheng-ji-yi-shi",
+    "text": "盛极一时",
+    "pinyin": "shèng jí yī shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "flourishing · reach · one · time",
+    "natural": "at its height for a while",
+    "meaning": {
+      "en": "To be extremely popular or flourishing for a period.",
+      "zh": "在某一时期内极其兴盛。"
+    },
+    "equivalents": [
+      "all the rage for a time",
+      "enjoy a heyday"
+    ],
+    "examples": [
+      {
+        "zh": "这种款式曾盛极一时。",
+        "en": "This style was once all the rage."
+      },
+      {
+        "zh": "他的小说盛极一时，如今却少人问津。",
+        "en": "His novels were once hugely popular but now few ask for them."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often implies the fad later fades.",
+      "zh": "多作谓语，常暗含后来衰落。"
+    },
+    "synonyms": [
+      "风靡一时",
+      "轰动一时"
+    ],
+    "antonyms": [
+      "无人问津",
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "wu-da-wu-zhuang",
+    "text": "误打误撞",
+    "pinyin": "wù dǎ wù zhuàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "miraculous-occurrences"
+    ],
+    "literal": "mistaken · hit · mistaken · bump",
+    "natural": "by sheer luck",
+    "meaning": {
+      "en": "To achieve something by pure chance rather than design.",
+      "zh": "没有预想到而偶然碰上，凭运气得到结果。"
+    },
+    "equivalents": [
+      "by a fluke",
+      "stumble upon by luck"
+    ],
+    "examples": [
+      {
+        "zh": "我们误打误撞，找到了这家好餐厅。",
+        "en": "We stumbled upon this good restaurant by chance."
+      },
+      {
+        "zh": "他误打误撞，居然解开了难题。",
+        "en": "By sheer luck he solved the puzzle."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. Colloquial.",
+      "zh": "多作状语、谓语，口语。"
+    },
+    "synonyms": [
+      "阴差阳错",
+      "碰巧"
+    ],
+    "antonyms": [
+      "有的放矢",
+      "胸有成竹"
+    ]
+  },
+  {
+    "id": "e-nuo-duo-zi",
+    "text": "婀娜多姿",
+    "pinyin": "ē nuó duō zī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "graceful · supple · much · posture",
+    "natural": "graceful in form",
+    "meaning": {
+      "en": "Elegant and graceful in bearing.",
+      "zh": "形容姿态柔软优美。"
+    },
+    "equivalents": [
+      "graceful",
+      "willowy and elegant"
+    ],
+    "examples": [
+      {
+        "zh": "舞者的身姿婀娜多姿。",
+        "en": "The dancer moved gracefully."
+      },
+      {
+        "zh": "江边的垂柳婀娜多姿。",
+        "en": "The willows by the river sway gracefully."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; used of women or willows and flowers.",
+      "zh": "多作定语、谓语，形容女子或杨柳花草。"
+    },
+    "synonyms": [
+      "袅袅婷婷",
+      "亭亭玉立"
+    ],
+    "antonyms": [
+      "笨拙粗壮"
+    ]
+  },
+  {
+    "id": "huang-huang-bu-ke-zhong-ri",
+    "text": "惶惶不可终日",
+    "pinyin": "huáng huáng bù kě zhōng rì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "psychological-pressure"
+    ],
+    "literal": "panicked · panicked · not · can · finish · day",
+    "natural": "too panicked to get through the day",
+    "meaning": {
+      "en": "To be so frightened that one can hardly get through the day.",
+      "zh": "惊慌害怕，一天也过不下去。"
+    },
+    "equivalents": [
+      "live in constant terror",
+      "on edge all day"
+    ],
+    "examples": [
+      {
+        "zh": "案发后，他惶惶不可终日。",
+        "en": "After the crime he was in a state of constant terror."
+      },
+      {
+        "zh": "战乱中，百姓惶惶不可终日。",
+        "en": "In the chaos of war the people lived in constant fear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "提心吊胆",
+      "担惊受怕"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "安之若素"
+    ]
+  },
+  {
+    "id": "si-qu-huo-lai",
+    "text": "死去活来",
+    "pinyin": "sǐ qù huó lái",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "psychological-pressure"
+    ],
+    "literal": "die · go · live · return",
+    "natural": "almost dying and reviving",
+    "meaning": {
+      "en": "To an extreme degree, as of pain, grief or exhaustion.",
+      "zh": "昏死过去又醒过来，形容极度痛苦、悲伤或疲累。"
+    },
+    "equivalents": [
+      "to within an inch of one's life",
+      "unbearably"
+    ],
+    "examples": [
+      {
+        "zh": "他疼得死去活来。",
+        "en": "He was in agony."
+      },
+      {
+        "zh": "她哭得死去活来。",
+        "en": "She cried herself almost sick with grief."
+      }
+    ],
+    "usage": {
+      "en": "Complement, usually after 得.",
+      "zh": "多作补语，常用“……得死去活来”。"
+    },
+    "synonyms": [
+      "痛不欲生",
+      "撕心裂肺"
+    ],
+    "antonyms": [
+      "安然无恙",
+      "心如止水"
+    ]
+  },
+  {
+    "id": "er-wen-mu-du",
+    "text": "耳闻目睹",
+    "pinyin": "ěr wén mù dǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "journeys-and-exploration"
+    ],
+    "literal": "ear · hear · eye · see",
+    "natural": "hear and see for oneself",
+    "meaning": {
+      "en": "To have personally heard and seen something.",
+      "zh": "亲耳听到，亲眼看到。"
+    },
+    "equivalents": [
+      "see and hear with one's own senses",
+      "witness first-hand"
+    ],
+    "examples": [
+      {
+        "zh": "这些都是我耳闻目睹的事实。",
+        "en": "These are facts that I saw and heard myself."
+      },
+      {
+        "zh": "他在旅途中耳闻目睹了许多新鲜事。",
+        "en": "On his travels he saw and heard of many new things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "亲眼所见",
+      "亲耳所闻"
+    ],
+    "antonyms": [
+      "道听途说",
+      "捕风捉影"
+    ]
+  },
+  {
+    "id": "chi-ming-zhong-wai",
+    "text": "驰名中外",
+    "pinyin": "chí míng zhōng wài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "spread · fame · China · abroad",
+    "natural": "famous at home and abroad",
+    "meaning": {
+      "en": "Famous both in China and abroad.",
+      "zh": "在国内外都很有名。"
+    },
+    "equivalents": [
+      "world-famous",
+      "renowned at home and abroad"
+    ],
+    "examples": [
+      {
+        "zh": "景德镇的瓷器驰名中外。",
+        "en": "Jingdezhen porcelain is famous both in China and abroad."
+      },
+      {
+        "zh": "这是一家驰名中外的老字号。",
+        "en": "This is a time-honoured brand famous at home and abroad."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often in ads and introductions.",
+      "zh": "多作谓语、定语，常见于介绍、广告。"
+    },
+    "synonyms": [
+      "闻名遐迩",
+      "举世闻名"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无人知晓"
+    ]
+  }
+]

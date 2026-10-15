@@ -790,13 +790,14 @@
   },
   {
     "id": "san-geng-ban-ye",
-    "text": "三更半夜",
-    "pinyin": "sān gēng bàn yè",
+    "text": "深更半夜",
+    "pinyin": "shēn gēng bàn yè",
     "variants": [
+      "三更半夜",
       "半夜三更"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -828,9 +829,7 @@
       "en": "Adverbial of time. 三更 is the third night-watch, around 11 pm–1 am.",
       "zh": "多作时间状语。\"三更\"约为晚上十一点至一点。"
     },
-    "synonyms": [
-      "深更半夜"
-    ],
+    "synonyms": [],
     "antonyms": [
       "光天化日",
       "大白天"

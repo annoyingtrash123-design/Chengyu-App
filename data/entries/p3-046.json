@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "dao-guang-jian-ying",
+    "text": "刀光剑影",
+    "pinyin": "dāo guāng jiàn yǐng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "blade · glint · sword · shadow",
+    "natural": "clash of swords",
+    "meaning": {
+      "en": "Glinting blades and shadows of swords; fierce fighting or a tense struggle.",
+      "zh": "形容激烈的战斗或杀气腾腾的气氛。"
+    },
+    "equivalents": [
+      "clash of arms",
+      "cut and thrust"
+    ],
+    "examples": [
+      {
+        "zh": "这部武侠片处处是刀光剑影。",
+        "en": "The martial-arts film is full of flashing blades."
+      },
+      {
+        "zh": "商场如战场，处处刀光剑影。",
+        "en": "Business is a battlefield of cut and thrust."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or figurative.",
+      "zh": "多作谓语、定语，也可比喻。"
+    },
+    "synonyms": [
+      "腥风血雨",
+      "剑拔弩张"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "太平无事"
+    ]
+  },
+  {
+    "id": "si-yu-fei-ming",
+    "text": "死于非命",
+    "pinyin": "sǐ yú fēi mìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "die · in · not · fate",
+    "natural": "die a violent death",
+    "meaning": {
+      "en": "To die by accident or violence rather than a natural death.",
+      "zh": "因意外灾祸或被害而死亡。"
+    },
+    "equivalents": [
+      "die an unnatural death",
+      "meet a violent end"
+    ],
+    "examples": [
+      {
+        "zh": "他在那场车祸中死于非命。",
+        "en": "He died a sudden death in that car crash."
+      },
+      {
+        "zh": "许多无辜者死于非命。",
+        "en": "Many innocent people met violent ends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "惨遭不幸",
+      "命丧黄泉"
+    ],
+    "antonyms": [
+      "寿终正寝",
+      "颐养天年"
+    ]
+  },
+  {
+    "id": "wu-yi-fu-jia",
+    "text": "无以复加",
+    "pinyin": "wú yǐ fù jiā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "extraordinary-circumstances"
+    ],
+    "literal": "no · way · again · add",
+    "natural": "reach the extreme",
+    "meaning": {
+      "en": "So extreme that nothing can be added.",
+      "zh": "达到了极点，不能再增加。"
+    },
+    "equivalents": [
+      "beyond all measure",
+      "as bad as it can be"
+    ],
+    "examples": [
+      {
+        "zh": "他的愤怒已经到了无以复加的地步。",
+        "en": "His anger had reached its limit."
+      },
+      {
+        "zh": "她对此事的失望无以复加。",
+        "en": "Her disappointment was utter."
+      }
+    ],
+    "usage": {
+      "en": "Usually 到了无以复加的地步.",
+      "zh": "常说“到了无以复加的地步”。"
+    },
+    "synonyms": [
+      "登峰造极",
+      "极致",
+      "至高无上"
+    ],
+    "antonyms": [
+      "微不足道",
+      "聊胜于无"
+    ]
+  },
+  {
+    "id": "bai-wu-liao-lai",
+    "text": "百无聊赖",
+    "pinyin": "bǎi wú liáo lài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "complex-emotional-states"
+    ],
+    "literal": "all · no · rely · rely",
+    "natural": "bored stiff",
+    "meaning": {
+      "en": "Bored because nothing holds one's interest.",
+      "zh": "精神空虚，什么都觉得无聊。"
+    },
+    "equivalents": [
+      "bored stiff",
+      "at a loose end"
+    ],
+    "examples": [
+      {
+        "zh": "暑假里，他百无聊赖地翻着杂志。",
+        "en": "In the summer holidays he flicked through a magazine, bored stiff."
+      },
+      {
+        "zh": "一个人在家，她感到百无聊赖。",
+        "en": "Alone at home, she felt at a loose end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "无所事事",
+      "索然无味"
+    ],
+    "antonyms": [
+      "兴致勃勃",
+      "津津有味"
+    ]
+  },
+  {
+    "id": "gai-ming-huan-xing",
+    "text": "改名换姓",
+    "pinyin": "gǎi míng huàn xìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "change · given name · change · surname",
+    "natural": "assume a false identity",
+    "meaning": {
+      "en": "To use a false name to hide one's identity.",
+      "zh": "隐瞒真实身份，换用别的姓名。"
+    },
+    "equivalents": [
+      "use an alias",
+      "go under a false name"
+    ],
+    "examples": [
+      {
+        "zh": "逃犯改名换姓，躲到了外地。",
+        "en": "The fugitive changed his name and hid in another city."
+      },
+      {
+        "zh": "她改名换姓，开始了新生活。",
+        "en": "She took a new name and began a new life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "隐姓埋名",
+      "更名改姓"
+    ],
+    "antonyms": [
+      "堂堂正正",
+      "行不更名"
+    ]
+  },
+  {
+    "id": "kua-kua-qi-tan",
+    "text": "夸夸其谈",
+    "pinyin": "kuā kuā qí tán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity",
+      "deception-and-false-appearances"
+    ],
+    "literal": "boast · boast · his · talk",
+    "natural": "talk big",
+    "meaning": {
+      "en": "To talk in an exaggerated, empty way.",
+      "zh": "说话浮夸，不切实际。"
+    },
+    "equivalents": [
+      "talk big",
+      "shoot one's mouth off"
+    ],
+    "examples": [
+      {
+        "zh": "他只会夸夸其谈，从不做实事。",
+        "en": "He only talks big and never does anything real."
+      },
+      {
+        "zh": "会上有人夸夸其谈，没有一句干货。",
+        "en": "Someone waffled on at the meeting without saying anything useful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; disapproving.",
+      "zh": "多作谓语、定语，含贬义。"
+    },
+    "synonyms": [
+      "大放厥词",
+      "高谈阔论",
+      "纸上谈兵"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "言简意赅"
+    ]
+  },
+  {
+    "id": "da-quan-zai-wo",
+    "text": "大权在握",
+    "pinyin": "dà quán zài wò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "great · power · in · grip",
+    "natural": "hold the reins of power",
+    "meaning": {
+      "en": "To hold supreme power.",
+      "zh": "掌握着重大的权力。"
+    },
+    "equivalents": [
+      "hold the reins of power",
+      "be firmly in charge"
+    ],
+    "examples": [
+      {
+        "zh": "他大权在握，没人敢反对。",
+        "en": "With all the power in his hands, nobody dared object."
+      },
+      {
+        "zh": "新董事长大权在握，开始整顿公司。",
+        "en": "The new chairman, firmly in charge, began reorganising the firm."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "独揽大权",
+      "手握重权"
+    ],
+    "antonyms": [
+      "大权旁落",
+      "手无寸权"
+    ]
+  },
+  {
+    "id": "yi-xian-sheng-ji",
+    "text": "一线生机",
+    "pinyin": "yī xiàn shēng jī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "one · thread · life · vitality",
+    "natural": "a slim chance of survival",
+    "meaning": {
+      "en": "A faint chance of survival or recovery.",
+      "zh": "一丝微小的生存或转机的希望。"
+    },
+    "equivalents": [
+      "a ray of hope",
+      "a slim chance"
+    ],
+    "examples": [
+      {
+        "zh": "医生说还有一线生机。",
+        "en": "The doctor said there was still a slim chance."
+      },
+      {
+        "zh": "只要有一线生机，我们就不放弃。",
+        "en": "As long as there's a glimmer of hope, we won't give up."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 还有/留下一线生机.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "一线希望",
+      "绝处逢生"
+    ],
+    "antonyms": [
+      "山穷水尽",
+      "走投无路"
+    ]
+  },
+  {
+    "id": "li-ling-zhi-hun",
+    "text": "利令智昏",
+    "pinyin": "lì lìng zhì hūn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "foolishness-and-ignorance",
+      "historical-records"
+    ],
+    "literal": "profit · makes · wisdom · dim",
+    "natural": "blinded by greed",
+    "meaning": {
+      "en": "Greed for gain clouds one's judgement.",
+      "zh": "贪图私利，使头脑发昏，失去理智。"
+    },
+    "equivalents": [
+      "blinded by greed",
+      "greed clouds judgement"
+    ],
+    "examples": [
+      {
+        "zh": "他利令智昏，最后触犯了法律。",
+        "en": "Blinded by greed, he ended up breaking the law."
+      },
+      {
+        "zh": "投资骗局专骗利令智昏的人。",
+        "en": "Investment scams prey on those blinded by greed."
+      }
+    ],
+    "origin": {
+      "source": "《史记·平原君虞卿列传》",
+      "story": {
+        "en": "Sima Qian: 'As the proverb says, profit makes wisdom go dim' (鄙语曰：利令智昏).",
+        "zh": "《史记》：“鄙语曰：‘利令智昏。’”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "财迷心窍",
+      "见利忘义"
+    ],
+    "antonyms": [
+      "见利思义",
+      "清醒冷静"
+    ]
+  },
+  {
+    "id": "chui-xian-san-chi",
+    "text": "垂涎三尺",
+    "pinyin": "chuí xián sān chǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "food"
+    ],
+    "literal": "hang · saliva · three · foot",
+    "natural": "drool with desire",
+    "meaning": {
+      "en": "Drooling with desire for food or something coveted.",
+      "zh": "形容极其贪馋，非常想得到。"
+    },
+    "equivalents": [
+      "drool over",
+      "covet greedily"
+    ],
+    "examples": [
+      {
+        "zh": "看到那桌美食，孩子们垂涎三尺。",
+        "en": "Seeing the table of delicacies, the children were drooling."
+      },
+      {
+        "zh": "许多人对这块地垂涎三尺。",
+        "en": "Many people covet this plot of land."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "馋涎欲滴",
+      "贪得无厌"
+    ],
+    "antonyms": [
+      "不屑一顾",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "qing-tou-yi-he",
+    "text": "情投意合",
+    "pinyin": "qíng tóu yì hé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "evenly-matched"
+    ],
+    "literal": "feelings · fit · minds · agree",
+    "natural": "be of one mind",
+    "meaning": {
+      "en": "Getting along perfectly, with matching feelings and thoughts.",
+      "zh": "彼此感情融洽，心意相合。"
+    },
+    "equivalents": [
+      "hit it off",
+      "be congenial"
+    ],
+    "examples": [
+      {
+        "zh": "他们两人情投意合，很快结了婚。",
+        "en": "The two clicked and were soon married."
+      },
+      {
+        "zh": "合伙人必须情投意合。",
+        "en": "Business partners must be on the same wavelength."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "志同道合",
+      "意气相投",
+      "一见如故"
+    ],
+    "antonyms": [
+      "貌合神离",
+      "话不投机"
+    ]
+  },
+  {
+    "id": "an-ran-shen-shang",
+    "text": "黯然神伤",
+    "pinyin": "àn rán shén shāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "gloomy · -ly · spirit · hurt",
+    "natural": "sad at heart",
+    "meaning": {
+      "en": "Gloomy and heartsick.",
+      "zh": "心情沮丧，情绪低落。"
+    },
+    "equivalents": [
+      "heavy-hearted",
+      "sink into gloom"
+    ],
+    "examples": [
+      {
+        "zh": "想起往事，她黯然神伤。",
+        "en": "Remembering the past, she felt heavy-hearted."
+      },
+      {
+        "zh": "离别的时刻，大家都黯然神伤。",
+        "en": "At the moment of parting, everyone was dejected."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "悲从中来",
+      "郁郁寡欢"
+    ],
+    "antonyms": [
+      "喜出望外",
+      "欢天喜地"
+    ]
+  },
+  {
+    "id": "xian-shan-lu-shui",
+    "text": "显山露水",
+    "pinyin": "xiǎn shān lù shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "show · mountain · reveal · water",
+    "natural": "show off one's talents",
+    "meaning": {
+      "en": "To show one's abilities; mostly used in the negative for someone who keeps a low profile.",
+      "zh": "显露自己的本事、地位；多用否定形式。"
+    },
+    "equivalents": [
+      "show one's hand",
+      "stand out"
+    ],
+    "examples": [
+      {
+        "zh": "他从不显山露水，大家都不知道他是专家。",
+        "en": "He never shows off, so nobody knew he was an expert."
+      },
+      {
+        "zh": "这家店不显山露水，却是百年老店。",
+        "en": "The shop is unassuming but a century old."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in the negative: 不显山不露水.",
+      "zh": "多用于否定，如“不显山不露水”。"
+    },
+    "synonyms": [
+      "崭露头角",
+      "锋芒毕露"
+    ],
+    "antonyms": [
+      "深藏不露",
+      "韬光养晦"
+    ]
+  },
+  {
+    "id": "long-feng-cheng-xiang",
+    "text": "龙凤呈祥",
+    "pinyin": "lóng fèng chéng xiáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "dragon · phoenix · present · auspice",
+    "natural": "dragon and phoenix bring good fortune",
+    "meaning": {
+      "en": "A dragon and phoenix bring good fortune; a blessing, especially for weddings.",
+      "zh": "龙和凤都是吉祥之物，用于祝贺喜庆，尤指婚礼。"
+    },
+    "equivalents": [
+      "a match made in heaven",
+      "dragon and phoenix bring luck"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼现场挂着“龙凤呈祥”的喜字。",
+        "en": "A sign reading 'dragon and phoenix bring luck' hung at the wedding."
+      },
+      {
+        "zh": "祝你们新婚快乐，龙凤呈祥！",
+        "en": "Happy wedding, and may good fortune follow you!"
+      }
+    ],
+    "usage": {
+      "en": "Blessing; also a common design motif.",
+      "zh": "祝福语，也是常见的吉祥图案。"
+    },
+    "synonyms": [
+      "珠联璧合",
+      "百年好合",
+      "天作之合"
+    ],
+    "antonyms": [
+      "同床异梦"
+    ]
+  },
+  {
+    "id": "bing-rong-xiang-jian",
+    "text": "兵戎相见",
+    "pinyin": "bīng róng xiāng jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conflict-and-strife",
+      "military-strategy-and-victory"
+    ],
+    "literal": "weapons · arms · each other · meet",
+    "natural": "resort to arms",
+    "meaning": {
+      "en": "To meet in armed conflict.",
+      "zh": "指双方用武力解决问题，发生战争。"
+    },
+    "equivalents": [
+      "take up arms against each other",
+      "come to blows"
+    ],
+    "examples": [
+      {
+        "zh": "两国最终兵戎相见。",
+        "en": "The two countries finally resorted to arms."
+      },
+      {
+        "zh": "谈判失败，双方不得不兵戎相见。",
+        "en": "The talks failed and both sides had to fight."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "刀兵相见",
+      "诉诸武力"
+    ],
+    "antonyms": [
+      "握手言和",
+      "化干戈为玉帛"
+    ]
+  },
+  {
+    "id": "shen-chou-da-hen",
+    "text": "深仇大恨",
+    "pinyin": "shēn chóu dà hèn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "anger"
+    ],
+    "literal": "deep · enmity · great · hatred",
+    "natural": "bitter hatred",
+    "meaning": {
+      "en": "Deep-seated enmity and hatred.",
+      "zh": "极深的仇恨。"
+    },
+    "equivalents": [
+      "bitter enmity",
+      "deep-seated grudge"
+    ],
+    "examples": [
+      {
+        "zh": "我们之间并没有什么深仇大恨。",
+        "en": "There's no deep grudge between us."
+      },
+      {
+        "zh": "他与那家人有深仇大恨。",
+        "en": "He has a bitter feud with that family."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive.",
+      "zh": "多作宾语、定语。"
+    },
+    "synonyms": [
+      "血海深仇",
+      "不共戴天"
+    ],
+    "antonyms": [
+      "无冤无仇",
+      "化敌为友"
+    ]
+  },
+  {
+    "id": "yan-si-he-feng",
+    "text": "严丝合缝",
+    "pinyin": "yán sī hé fèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "successful-construction",
+      "standards-and-benchmarks"
+    ],
+    "literal": "tight · thread · close · seam",
+    "natural": "a perfect fit",
+    "meaning": {
+      "en": "Fitting together tightly with no gap.",
+      "zh": "形容器物吻合得严密，毫无缝隙；也比喻说得周密。"
+    },
+    "equivalents": [
+      "fit perfectly",
+      "watertight"
+    ],
+    "examples": [
+      {
+        "zh": "木匠把门框装得严丝合缝。",
+        "en": "The carpenter fitted the doorframe perfectly."
+      },
+      {
+        "zh": "他的计划严丝合缝，没有漏洞。",
+        "en": "His plan is watertight, with no loopholes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "天衣无缝",
+      "滴水不漏"
+    ],
+    "antonyms": [
+      "漏洞百出",
+      "破绽百出"
+    ]
+  },
+  {
+    "id": "zhang-yi-zhi-yan",
+    "text": "仗义执言",
+    "pinyin": "zhàng yì zhí yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "frankness-and-candour",
+      "positive-character-qualities"
+    ],
+    "literal": "uphold · justice · hold · words",
+    "natural": "speak up for justice",
+    "meaning": {
+      "en": "To speak out in support of justice.",
+      "zh": "主持公道，说公正话。"
+    },
+    "equivalents": [
+      "speak up for justice",
+      "stand up and speak out"
+    ],
+    "examples": [
+      {
+        "zh": "在大家沉默时，他仗义执言。",
+        "en": "While everyone else was silent, he spoke up for justice."
+      },
+      {
+        "zh": "这位律师多次为弱者仗义执言。",
+        "en": "The lawyer has often spoken out for the weak."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "打抱不平",
+      "直言不讳",
+      "主持公道"
+    ],
+    "antonyms": [
+      "随声附和",
+      "缄口不言"
+    ]
+  },
+  {
+    "id": "yi-ran-ru-gu",
+    "text": "依然如故",
+    "pinyin": "yī rán rú gù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "resistance-to-change"
+    ],
+    "literal": "still · so · as · before",
+    "natural": "as ever",
+    "meaning": {
+      "en": "Still just as before.",
+      "zh": "仍然跟过去一样，没有变化。"
+    },
+    "equivalents": [
+      "still the same",
+      "as ever"
+    ],
+    "examples": [
+      {
+        "zh": "十年过去了，小镇依然如故。",
+        "en": "Ten years on, the town is just as it was."
+      },
+      {
+        "zh": "他的坏习惯依然如故。",
+        "en": "His bad habits are unchanged."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一如既往",
+      "原封不动",
+      "一成不变"
+    ],
+    "antonyms": [
+      "面目全非",
+      "焕然一新"
+    ]
+  },
+  {
+    "id": "xue-qi-fang-gang",
+    "text": "血气方刚",
+    "pinyin": "xuè qì fāng gāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "blood · vigour · just · strong",
+    "natural": "full of youthful vigour",
+    "meaning": {
+      "en": "Full of youthful energy and fire.",
+      "zh": "精力旺盛，充满热情。"
+    },
+    "equivalents": [
+      "full of youthful vigour",
+      "hot-blooded"
+    ],
+    "examples": [
+      {
+        "zh": "他还是个血气方刚的年轻人。",
+        "en": "He's still a hot-blooded young man."
+      },
+      {
+        "zh": "血气方刚的小伙子最容易冲动。",
+        "en": "Young men full of vigour are the quickest to act on impulse."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius: 'When young, the blood and vital energy are not yet settled' (少之时，血气未定).",
+        "zh": "《论语》：“少之时，血气未定，戒之在色；及其壮也，血气方刚，戒之在斗。”"
+      }
+    },
+    "usage": {
+      "en": "Attributive; mostly of young men.",
+      "zh": "多作定语，多指青年男子。"
+    },
+    "synonyms": [
+      "年轻气盛",
+      "朝气蓬勃"
+    ],
+    "antonyms": [
+      "老态龙钟",
+      "暮气沉沉"
+    ]
+  },
+  {
+    "id": "dui-da-ru-liu",
+    "text": "对答如流",
+    "pinyin": "duì dá rú liú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "应答如流"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "outstanding-character"
+    ],
+    "literal": "reply · answer · like · flowing",
+    "natural": "answer fluently",
+    "meaning": {
+      "en": "To answer questions fluently and without hesitation.",
+      "zh": "回答问题像流水一样流畅。"
+    },
+    "equivalents": [
+      "answer fluently",
+      "have an answer for everything"
+    ],
+    "examples": [
+      {
+        "zh": "面试时，他对答如流。",
+        "en": "At the interview he answered every question fluently."
+      },
+      {
+        "zh": "她对答如流，让考官十分满意。",
+        "en": "She answered without a hitch, to the examiner's satisfaction."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "侃侃而谈",
+      "口若悬河"
+    ],
+    "antonyms": [
+      "哑口无言",
+      "支支吾吾"
+    ]
+  },
+  {
+    "id": "qin-xue-ku-lian",
+    "text": "勤学苦练",
+    "pinyin": "qín xué kǔ liàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "positive-character-qualities"
+    ],
+    "literal": "diligent · study · hard · practise",
+    "natural": "study and practise hard",
+    "meaning": {
+      "en": "To study diligently and train hard.",
+      "zh": "刻苦学习，努力练习。"
+    },
+    "equivalents": [
+      "study and practise diligently",
+      "work hard at one's craft"
+    ],
+    "examples": [
+      {
+        "zh": "运动员靠勤学苦练才取得好成绩。",
+        "en": "Athletes get good results through hard training."
+      },
+      {
+        "zh": "他勤学苦练，终于掌握了这门技术。",
+        "en": "He studied and practised hard until he mastered the skill."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "刻苦钻研",
+      "闻鸡起舞",
+      "废寝忘食"
+    ],
+    "antonyms": [
+      "不学无术",
+      "好逸恶劳"
+    ]
+  }
+]

@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "ju-xin-po-ce",
+    "text": "居心叵测",
+    "pinyin": "jū xīn pǒ cè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "harbour · intent · cannot · fathom",
+    "natural": "with sinister intent",
+    "meaning": {
+      "en": "Harbouring hidden and malicious intentions.",
+      "zh": "存心险恶，无法揣测。"
+    },
+    "equivalents": [
+      "harbour sinister motives",
+      "have an ulterior motive"
+    ],
+    "examples": [
+      {
+        "zh": "他居心叵测，大家要提防。",
+        "en": "He has sinister motives, so we should be on guard."
+      },
+      {
+        "zh": "居心叵测的人散布了这则谣言。",
+        "en": "Someone with malicious intent spread this rumour."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "别有用心",
+      "心怀鬼胎",
+      "包藏祸心"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "心地善良"
+    ]
+  },
+  {
+    "id": "you-zhi-zhi-shi",
+    "text": "有志之士",
+    "pinyin": "yǒu zhì zhī shì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "high-aspirations",
+      "positive-character-qualities"
+    ],
+    "literal": "have · ambition · 's · person",
+    "natural": "people of ideals",
+    "meaning": {
+      "en": "People with high ideals and ambitions.",
+      "zh": "有理想、有抱负的人。"
+    },
+    "equivalents": [
+      "people of ideals",
+      "ambitious and public-spirited people"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎各地有志之士加入我们。",
+        "en": "People of ideals from everywhere are welcome to join us."
+      },
+      {
+        "zh": "许多有志之士投身教育事业。",
+        "en": "Many dedicated people devote themselves to education."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "仁人志士",
+      "热血青年"
+    ],
+    "antonyms": [
+      "胸无大志",
+      "庸庸碌碌"
+    ]
+  },
+  {
+    "id": "xiao-en-xiao-hui",
+    "text": "小恩小惠",
+    "pinyin": "xiǎo ēn xiǎo huì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "modest-goals"
+    ],
+    "literal": "small · favour · small · kindness",
+    "natural": "petty favours",
+    "meaning": {
+      "en": "Petty favours used to win people over.",
+      "zh": "为了笼络人而给的微小好处。"
+    },
+    "equivalents": [
+      "petty favours",
+      "small bribes"
+    ],
+    "examples": [
+      {
+        "zh": "不要被几件小恩小惠收买了。",
+        "en": "Don't be bought off by a few small favours."
+      },
+      {
+        "zh": "他靠小恩小惠拉拢人心。",
+        "en": "He wins people over with petty favours."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 贪图小恩小惠.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "蝇头小利",
+      "一点甜头"
+    ],
+    "antonyms": [
+      "大恩大德",
+      "恩重如山"
+    ]
+  },
+  {
+    "id": "tiao-bo-li-jian",
+    "text": "挑拨离间",
+    "pinyin": "tiǎo bō lí jiàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "stir · provoke · separate · sow discord",
+    "natural": "sow discord",
+    "meaning": {
+      "en": "To stir up trouble and drive people apart.",
+      "zh": "搬弄是非，使别人不团结或不和睦。"
+    },
+    "equivalents": [
+      "sow discord",
+      "drive a wedge between"
+    ],
+    "examples": [
+      {
+        "zh": "有人在同事之间挑拨离间。",
+        "en": "Someone is sowing discord among colleagues."
+      },
+      {
+        "zh": "别听他挑拨离间，我们是好朋友。",
+        "en": "Don't listen to his mischief; we're good friends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "煽风点火",
+      "搬弄是非",
+      "兴风作浪"
+    ],
+    "antonyms": [
+      "调解",
+      "劝和",
+      "和事佬"
+    ]
+  },
+  {
+    "id": "man-tiao-si-li",
+    "text": "慢条斯理",
+    "pinyin": "màn tiáo sī lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "appearance"
+    ],
+    "literal": "slow · orderly · so · reason",
+    "natural": "in a leisurely manner",
+    "meaning": {
+      "en": "Unhurried in speech or action.",
+      "zh": "说话做事不慌不忙。"
+    },
+    "equivalents": [
+      "unhurried",
+      "leisurely",
+      "in a measured way"
+    ],
+    "examples": [
+      {
+        "zh": "他慢条斯理地喝了口茶，才开始讲话。",
+        "en": "He took a leisurely sip of tea before speaking."
+      },
+      {
+        "zh": "她做事总是慢条斯理的。",
+        "en": "She always does things at a leisurely pace."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "不慌不忙",
+      "从容不迫",
+      "悠哉游哉"
+    ],
+    "antonyms": [
+      "急急忙忙",
+      "风风火火",
+      "火烧眉毛"
+    ]
+  },
+  {
+    "id": "ge-gu-ding-xin",
+    "text": "革故鼎新",
+    "pinyin": "gé gù dǐng xīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "innovation-and-progress",
+      "change",
+      "confucian-classics"
+    ],
+    "literal": "remove · old · establish · new",
+    "natural": "do away with the old and bring in the new",
+    "meaning": {
+      "en": "To get rid of the old and set up the new.",
+      "zh": "去掉旧的，建立新的。"
+    },
+    "equivalents": [
+      "out with the old and in with the new",
+      "reform root and branch"
+    ],
+    "examples": [
+      {
+        "zh": "企业必须革故鼎新，才能生存。",
+        "en": "A company must reform to survive."
+      },
+      {
+        "zh": "这场革故鼎新的运动影响深远。",
+        "en": "This reform movement had far-reaching influence."
+      }
+    ],
+    "origin": {
+      "source": "《周易·杂卦传》",
+      "story": {
+        "en": "Book of Changes: 'Ge (Revolution) means removing the old; Ding (the Cauldron) means taking on the new' (革，去故也；鼎，取新也).",
+        "zh": "《周易·杂卦传》：“革，去故也；鼎，取新也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; formal.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "除旧布新",
+      "推陈出新",
+      "破旧立新"
+    ],
+    "antonyms": [
+      "因循守旧",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "zhun-zhun-jiao-dao",
+    "text": "谆谆教导",
+    "pinyin": "zhūn zhūn jiào dǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "谆谆教诲"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "earnest · earnest · teach · guide",
+    "natural": "earnest guidance",
+    "meaning": {
+      "en": "Patient, earnest teaching and guidance.",
+      "zh": "恳切耐心地教诲。"
+    },
+    "equivalents": [
+      "earnest guidance",
+      "patient instruction"
+    ],
+    "examples": [
+      {
+        "zh": "我永远不会忘记老师的谆谆教导。",
+        "en": "I'll never forget my teacher's earnest guidance."
+      },
+      {
+        "zh": "在长辈的谆谆教导下，他懂事了许多。",
+        "en": "Under his elders' patient teaching, he matured a lot."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive.",
+      "zh": "多作宾语、定语。"
+    },
+    "synonyms": [
+      "循循善诱",
+      "耳提面命"
+    ],
+    "antonyms": [
+      "置若罔闻",
+      "充耳不闻"
+    ]
+  },
+  {
+    "id": "zui-da-e-ji",
+    "text": "罪大恶极",
+    "pinyin": "zuì dà è jí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "revenge-and-retribution"
+    ],
+    "literal": "crimes · great · evil · extreme",
+    "natural": "guilty of monstrous crimes",
+    "meaning": {
+      "en": "Guilty of enormous crimes and utterly wicked.",
+      "zh": "罪行极大，坏到极点。"
+    },
+    "equivalents": [
+      "guilty of heinous crimes",
+      "utterly wicked"
+    ],
+    "examples": [
+      {
+        "zh": "这个罪大恶极的罪犯终于落网了。",
+        "en": "The heinous criminal was finally caught."
+      },
+      {
+        "zh": "他罪大恶极，难逃法律的制裁。",
+        "en": "His crimes are monstrous and he can't escape the law."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "十恶不赦",
+      "恶贯满盈",
+      "罪恶滔天"
+    ],
+    "antonyms": [
+      "功德无量",
+      "清白无辜"
+    ]
+  },
+  {
+    "id": "wan-nian-ju-hui",
+    "text": "万念俱灰",
+    "pinyin": "wàn niàn jù huī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "ten-thousand · thoughts · all · ashes",
+    "natural": "utterly disheartened",
+    "meaning": {
+      "en": "All hopes and thoughts turned to ashes; utterly despondent.",
+      "zh": "所有的想法和希望都破灭了，形容极度失望。"
+    },
+    "equivalents": [
+      "utterly crushed",
+      "give up all hope"
+    ],
+    "examples": [
+      {
+        "zh": "事业失败后，他万念俱灰。",
+        "en": "After his business failed, he lost all hope."
+      },
+      {
+        "zh": "听到噩耗，她万念俱灰。",
+        "en": "Hearing the terrible news, she was utterly crushed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "心灰意冷",
+      "心如死灰",
+      "灰心丧气"
+    ],
+    "antonyms": [
+      "信心百倍",
+      "雄心勃勃"
+    ]
+  },
+  {
+    "id": "zhuang-dian-men-mian",
+    "text": "装点门面",
+    "pinyin": "zhuāng diǎn mén miàn",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "dress up · decorate · door · face",
+    "natural": "dress up the facade",
+    "meaning": {
+      "en": "To make something look better than it is.",
+      "zh": "把外表打扮得好看，借以炫耀。"
+    },
+    "equivalents": [
+      "window-dressing",
+      "keep up appearances"
+    ],
+    "examples": [
+      {
+        "zh": "买这些书只是为了装点门面。",
+        "en": "He bought these books just for show."
+      },
+      {
+        "zh": "这些举措不过是装点门面。",
+        "en": "These measures are just window-dressing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "粉饰太平",
+      "表面文章",
+      "门面功夫"
+    ],
+    "antonyms": [
+      "名副其实",
+      "货真价实"
+    ]
+  },
+  {
+    "id": "zuo-xiang-qi-cheng",
+    "text": "坐享其成",
+    "pinyin": "zuò xiǎng qí chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up",
+      "inappropriate-behavior"
+    ],
+    "literal": "sit · enjoy · its · result",
+    "natural": "reap what others have sown",
+    "meaning": {
+      "en": "To enjoy the results without doing the work.",
+      "zh": "自己不出力，却享受别人劳动的成果。"
+    },
+    "equivalents": [
+      "reap where others have sown",
+      "sit back and enjoy the fruits"
+    ],
+    "examples": [
+      {
+        "zh": "你们辛苦干活，他却坐享其成。",
+        "en": "You work hard while he reaps the benefits."
+      },
+      {
+        "zh": "成功不会让人坐享其成。",
+        "en": "Success doesn't let you sit back and enjoy the fruits."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "不劳而获",
+      "坐收渔利"
+    ],
+    "antonyms": [
+      "自食其力",
+      "亲力亲为",
+      "自力更生"
+    ]
+  },
+  {
+    "id": "fang-zhi-si-hai-er-jie-zhun",
+    "text": "放之四海而皆准",
+    "pinyin": "fàng zhī sì hǎi ér jiē zhǔn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "standards-and-benchmarks",
+      "experience-and-old-age"
+    ],
+    "literal": "put · it · four · seas · and · all · valid",
+    "natural": "universally valid",
+    "meaning": {
+      "en": "True and applicable everywhere.",
+      "zh": "放到哪里都适用，形容真理具有普遍性。"
+    },
+    "equivalents": [
+      "universally valid",
+      "true everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "没有哪种管理方法是放之四海而皆准的。",
+        "en": "No management method is valid everywhere."
+      },
+      {
+        "zh": "这个道理放之四海而皆准。",
+        "en": "This principle holds true the world over."
+      }
+    ],
+    "usage": {
+      "en": "Attributive; often 放之四海而皆准的真理.",
+      "zh": "多作定语，常说“放之四海而皆准的真理”。"
+    },
+    "synonyms": [
+      "颠扑不破",
+      "普遍适用"
+    ],
+    "antonyms": [
+      "因地制宜"
+    ]
+  },
+  {
+    "id": "yin-rong-xiao-mao",
+    "text": "音容笑貌",
+    "pinyin": "yīn róng xiào mào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "appearance",
+      "sadness-and-despair"
+    ],
+    "literal": "voice · face · smile · looks",
+    "natural": "a person's voice and smile",
+    "meaning": {
+      "en": "A person's voice, face, smile and bearing, often recalled after parting or death.",
+      "zh": "人的声音、容貌和笑貌，多用于怀念。"
+    },
+    "equivalents": [
+      "the voice and smile of someone dear",
+      "a person's familiar look and voice"
+    ],
+    "examples": [
+      {
+        "zh": "他的音容笑貌至今还在我眼前。",
+        "en": "His voice and smile are still vivid before my eyes."
+      },
+      {
+        "zh": "她的音容笑貌深深印在大家心里。",
+        "en": "Her voice and smile are imprinted on everyone's heart."
+      }
+    ],
+    "usage": {
+      "en": "Object; usually in remembrance.",
+      "zh": "多作宾语，多用于怀念。"
+    },
+    "synonyms": [
+      "一颦一笑",
+      "言谈举止"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "da-guan-gui-ren",
+    "text": "达官贵人",
+    "pinyin": "dá guān guì rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "luxury-and-extravagance"
+    ],
+    "literal": "eminent · officials · noble · people",
+    "natural": "bigwigs and aristocrats",
+    "meaning": {
+      "en": "High officials and noble persons.",
+      "zh": "地位高的官员和有权势的人。"
+    },
+    "equivalents": [
+      "bigwigs",
+      "high officials and the well-born"
+    ],
+    "examples": [
+      {
+        "zh": "这家餐厅专门招待达官贵人。",
+        "en": "The restaurant caters to bigwigs."
+      },
+      {
+        "zh": "他不是达官贵人，只是个普通教师。",
+        "en": "He's no bigwig, only an ordinary teacher."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; sometimes sarcastic.",
+      "zh": "名词性短语，有时含讽刺。"
+    },
+    "synonyms": [
+      "权贵",
+      "王公贵族",
+      "高官显贵"
+    ],
+    "antonyms": [
+      "平民百姓",
+      "布衣",
+      "寻常百姓"
+    ]
+  },
+  {
+    "id": "hei-deng-xia-huo",
+    "text": "黑灯瞎火",
+    "pinyin": "hēi dēng xiā huǒ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "daily-time-periods",
+      "danger"
+    ],
+    "literal": "black · lamp · blind · fire",
+    "natural": "pitch dark",
+    "meaning": {
+      "en": "Dark with no light.",
+      "zh": "形容没有灯光，一片漆黑。"
+    },
+    "equivalents": [
+      "pitch dark",
+      "in the dark"
+    ],
+    "examples": [
+      {
+        "zh": "黑灯瞎火的，你怎么一个人出门？",
+        "en": "It's pitch dark; why are you out alone?"
+      },
+      {
+        "zh": "停电了，屋里黑灯瞎火。",
+        "en": "The power's out and the house is in darkness."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; predicate or attributive.",
+      "zh": "口语，多作谓语、定语。"
+    },
+    "synonyms": [
+      "漆黑一团",
+      "伸手不见五指"
+    ],
+    "antonyms": [
+      "灯火通明",
+      "灯火辉煌"
+    ]
+  },
+  {
+    "id": "da-de-huo-re",
+    "text": "打得火热",
+    "pinyin": "dǎ de huǒ rè",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "love-and-marriage"
+    ],
+    "literal": "get · -ly · fire · hot",
+    "natural": "be very close",
+    "meaning": {
+      "en": "To be on very intimate terms.",
+      "zh": "关系亲密到了极点。"
+    },
+    "equivalents": [
+      "be thick as thieves",
+      "be all over each other"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩最近打得火热。",
+        "en": "The two of them are thick as thieves lately."
+      },
+      {
+        "zh": "新同事和老板打得火热。",
+        "en": "The new colleague has become very cosy with the boss."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial predicate; sometimes mocking.",
+      "zh": "口语，多作谓语，有时含调侃。"
+    },
+    "synonyms": [
+      "如胶似漆",
+      "亲密无间",
+      "形影不离"
+    ],
+    "antonyms": [
+      "势不两立",
+      "形同陌路"
+    ]
+  },
+  {
+    "id": "qiu-hou-suan-zhang",
+    "text": "秋后算账",
+    "pinyin": "qiū hòu suàn zhàng",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "revenge-and-retribution",
+      "poor-timing"
+    ],
+    "literal": "autumn · after · settle · accounts",
+    "natural": "settle scores later",
+    "meaning": {
+      "en": "To settle scores after the event, once things have calmed down.",
+      "zh": "等到事情过后再清算旧账、追究责任。"
+    },
+    "equivalents": [
+      "settle scores later",
+      "bide one's time and then punish"
+    ],
+    "examples": [
+      {
+        "zh": "别以为他不吭声，他会秋后算账的。",
+        "en": "Don't think he's silent for good; he'll settle scores later."
+      },
+      {
+        "zh": "领导说过这事不会秋后算账。",
+        "en": "The boss said nobody would be called to account afterwards."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often a threat.",
+      "zh": "多作谓语，常含威胁。"
+    },
+    "synonyms": [
+      "新账旧账一起算",
+      "记仇",
+      "算旧账"
+    ],
+    "antonyms": [
+      "既往不咎",
+      "一笔勾销"
+    ]
+  },
+  {
+    "id": "lang-bei-bu-kan",
+    "text": "狼狈不堪",
+    "pinyin": "láng bèi bù kān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "bad-fortune"
+    ],
+    "literal": "wolf · bei · not · bear",
+    "natural": "in a sorry state",
+    "meaning": {
+      "en": "In an utterly sorry and awkward state.",
+      "zh": "窘迫难堪到了极点。"
+    },
+    "equivalents": [
+      "in a sorry state",
+      "utterly bedraggled"
+    ],
+    "examples": [
+      {
+        "zh": "他被雨淋得狼狈不堪。",
+        "en": "He was drenched by the rain and looked a sorry sight."
+      },
+      {
+        "zh": "输掉比赛，他们狼狈不堪地离开。",
+        "en": "Having lost the match, they left in disarray."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "狼狈万状",
+      "落花流水",
+      "灰头土脸"
+    ],
+    "antonyms": [
+      "神采奕奕",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "pi-xing-dai-yue",
+    "text": "披星戴月",
+    "pinyin": "pī xīng dài yuè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "daily-time-periods"
+    ],
+    "literal": "wear · stars · wear · moon",
+    "natural": "by starlight and moonlight",
+    "meaning": {
+      "en": "Travelling or working from before dawn until after dark.",
+      "zh": "早出晚归，形容旅途或工作辛劳。"
+    },
+    "equivalents": [
+      "from dawn to dusk",
+      "work day and night"
+    ],
+    "examples": [
+      {
+        "zh": "农民披星戴月，辛勤劳作。",
+        "en": "Farmers toil from before dawn to after dark."
+      },
+      {
+        "zh": "他披星戴月赶回了家。",
+        "en": "He hurried home under the stars."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "风尘仆仆",
+      "早出晚归",
+      "废寝忘食"
+    ],
+    "antonyms": [
+      "游手好闲",
+      "无所事事"
+    ]
+  },
+  {
+    "id": "jie-fang-lin-li",
+    "text": "街坊邻里",
+    "pinyin": "jiē fāng lín lǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "family-and-home",
+      "relationships"
+    ],
+    "literal": "street · neighbourhood · neighbour · lane",
+    "natural": "the neighbours",
+    "meaning": {
+      "en": "The people living around one's neighbourhood.",
+      "zh": "住在附近的邻居们。"
+    },
+    "equivalents": [
+      "the neighbours",
+      "the neighbourhood"
+    ],
+    "examples": [
+      {
+        "zh": "街坊邻里互相帮忙，感情很深。",
+        "en": "The neighbours help one another and are close."
+      },
+      {
+        "zh": "搬家那天，街坊邻里都来送行。",
+        "en": "On moving day all the neighbours came to see us off."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性短语。"
+    },
+    "synonyms": [
+      "左邻右舍",
+      "四邻八舍"
+    ],
+    "antonyms": [
+      "素不相识"
+    ]
+  },
+  {
+    "id": "yi-yi-xi-bie",
+    "text": "依依惜别",
+    "pinyin": "yī yī xī bié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "journeys-and-exploration"
+    ],
+    "literal": "reluctant · reluctant · cherish · part",
+    "natural": "part with reluctance",
+    "meaning": {
+      "en": "To part with deep reluctance.",
+      "zh": "舍不得分开，形容深情留恋。"
+    },
+    "equivalents": [
+      "part with reluctance",
+      "bid a tearful farewell"
+    ],
+    "examples": [
+      {
+        "zh": "毕业时，同学们依依惜别。",
+        "en": "At graduation the classmates parted reluctantly."
+      },
+      {
+        "zh": "他们在车站依依惜别。",
+        "en": "They said a fond farewell at the station."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "难舍难分",
+      "恋恋不舍",
+      "依依不舍"
+    ],
+    "antonyms": [
+      "一走了之",
+      "毫不留恋"
+    ]
+  },
+  {
+    "id": "xiang-jian-hen-wan",
+    "text": "相见恨晚",
+    "pinyin": "xiāng jiàn hèn wǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "joy-and-happiness"
+    ],
+    "literal": "meet · regret · late",
+    "natural": "wish we had met sooner",
+    "meaning": {
+      "en": "To regret not having met sooner, since one gets along so well.",
+      "zh": "遗憾没有早点认识，形容一见如故。"
+    },
+    "equivalents": [
+      "wish we'd met sooner",
+      "hit it off instantly"
+    ],
+    "examples": [
+      {
+        "zh": "我们一聊就相见恨晚。",
+        "en": "We hit it off right away and wished we'd met sooner."
+      },
+      {
+        "zh": "两位学者相见恨晚，谈了一整夜。",
+        "en": "The two scholars wished they'd met sooner and talked all night."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一见如故",
+      "惺惺相惜",
+      "志同道合"
+    ],
+    "antonyms": [
+      "话不投机",
+      "不欢而散"
+    ]
+  },
+  {
+    "id": "zei-han-zhuo-zei",
+    "text": "贼喊捉贼",
+    "pinyin": "zéi hǎn zhuō zéi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "做贼喊捉贼"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "thief · shout · catch · thief",
+    "natural": "the thief crying 'stop thief'",
+    "meaning": {
+      "en": "A culprit who shouts about catching the culprit to divert suspicion.",
+      "zh": "做了坏事的人反而大喊抓坏人，以转移视线。"
+    },
+    "equivalents": [
+      "the thief crying 'stop thief'",
+      "shift the blame"
+    ],
+    "examples": [
+      {
+        "zh": "他自己偷了钱，还指责别人，简直是贼喊捉贼。",
+        "en": "He stole the money and now blames others, a case of the thief crying 'stop thief'."
+      },
+      {
+        "zh": "别贼喊捉贼了，我们早知道是你。",
+        "en": "Stop playing the innocent; we knew it was you."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "恶人先告状",
+      "倒打一耙"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "自首认罪"
+    ]
+  },
+  {
+    "id": "yi-ri-qian-li",
+    "text": "一日千里",
+    "pinyin": "yī rì qiān lǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "innovation-and-progress"
+    ],
+    "literal": "one · day · thousand · li",
+    "natural": "advance by leaps and bounds",
+    "meaning": {
+      "en": "To progress or develop at tremendous speed.",
+      "zh": "一天前进一千里，形容发展极快。"
+    },
+    "equivalents": [
+      "by leaps and bounds",
+      "at lightning speed"
+    ],
+    "examples": [
+      {
+        "zh": "科技发展一日千里。",
+        "en": "Technology advances by leaps and bounds."
+      },
+      {
+        "zh": "他的英语水平进步一日千里。",
+        "en": "His English has improved at lightning speed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "突飞猛进",
+      "日新月异",
+      "飞速发展"
+    ],
+    "antonyms": [
+      "原地踏步",
+      "停滞不前",
+      "蜗行牛步"
+    ]
+  }
+]

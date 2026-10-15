@@ -810,11 +810,12 @@
     "id": "jian-rong-bing-xu",
     "text": "兼容并蓄",
     "pinyin": "jiān róng bìng xù",
+    "variants": [
+      "兼收并蓄",
+      "兼容并包"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "兼收并蓄"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -962,11 +963,11 @@
     "id": "yan-nian-yi-shou",
     "text": "延年益寿",
     "pinyin": "yán nián yì shòu",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "益寿延年"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1111,11 +1112,11 @@
     "id": "gong-cheng-lve-di",
     "text": "攻城略地",
     "pinyin": "gōng chéng lüè dì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "攻城掠地"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -1163,11 +1164,11 @@
     "id": "fu-yu-wan-kang",
     "text": "负隅顽抗",
     "pinyin": "fù yú wán kàng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "负嵎顽抗"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "formal",
     "themes": [

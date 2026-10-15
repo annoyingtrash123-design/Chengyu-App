@@ -3,11 +3,11 @@
     "id": "wu-mei-jia-lian",
     "text": "物美价廉",
     "pinyin": "wù měi jià lián",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "价廉物美"
     ],
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -191,11 +191,11 @@
     "id": "de-cai-jian-bei",
     "text": "德才兼备",
     "pinyin": "dé cái jiān bèi",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "才德兼备"
     ],
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -478,6 +478,9 @@
     "id": "chang-tong-wu-zu",
     "text": "畅通无阻",
     "pinyin": "chàng tōng wú zǔ",
+    "variants": [
+      "畅行无阻"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",

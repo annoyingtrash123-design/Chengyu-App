@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "xian-pin-ai-fu",
+    "text": "嫌贫爱富",
+    "pinyin": "xián pín ài fù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "dislike · poor · love · rich",
+    "natural": "snobbish about wealth",
+    "meaning": {
+      "en": "To look down on the poor and fawn on the rich.",
+      "zh": "看不起穷人，巴结富人。"
+    },
+    "equivalents": [
+      "look down on the poor and fawn on the rich",
+      "be a snob about money"
+    ],
+    "examples": [
+      {
+        "zh": "她从不嫌贫爱富，对谁都一样热情。",
+        "en": "She never fawns on the rich; she's warm to everyone."
+      },
+      {
+        "zh": "嫌贫爱富的人很难交到真朋友。",
+        "en": "People who look down on the poor find it hard to make real friends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; disapproving.",
+      "zh": "多作谓语、定语，含贬义。"
+    },
+    "synonyms": [
+      "趋炎附势",
+      "见钱眼开"
+    ],
+    "antonyms": [
+      "一视同仁",
+      "安贫乐道"
+    ]
+  },
+  {
+    "id": "xin-xiang-wang-zhi",
+    "text": "心向往之",
+    "pinyin": "xīn xiàng wǎng zhī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "high-aspirations",
+      "historical-records"
+    ],
+    "literal": "heart · towards · yearn · it",
+    "natural": "long to be there",
+    "meaning": {
+      "en": "To yearn for something in one's heart.",
+      "zh": "心里非常向往。"
+    },
+    "equivalents": [
+      "yearn for it",
+      "long to follow"
+    ],
+    "examples": [
+      {
+        "zh": "对那片草原，我一直心向往之。",
+        "en": "I have always longed to visit that grassland."
+      },
+      {
+        "zh": "她对科研工作心向往之。",
+        "en": "She yearns for a career in research."
+      }
+    ],
+    "origin": {
+      "source": "《史记·孔子世家》",
+      "story": {
+        "en": "Sima Qian on Confucius: 'Though I cannot reach it, my heart yearns towards it' (虽不能至，然心向往之).",
+        "zh": "司马迁：“《诗》有之：‘高山仰止，景行行止。’虽不能至，然心向往之。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; slightly literary.",
+      "zh": "多作谓语，带书面色彩。"
+    },
+    "synonyms": [
+      "心驰神往",
+      "神往"
+    ],
+    "antonyms": [
+      "退避三舍",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "fu-zhi-dong-liu",
+    "text": "付之东流",
+    "pinyin": "fù zhī dōng liú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "hand over · it · east · flow",
+    "natural": "go down the drain",
+    "meaning": {
+      "en": "To be lost for good, like water flowing east.",
+      "zh": "随水东流而去，比喻希望落空或成果全部丧失。"
+    },
+    "equivalents": [
+      "go down the drain",
+      "come to nothing",
+      "all for nothing"
+    ],
+    "examples": [
+      {
+        "zh": "多年的心血付之东流。",
+        "en": "Years of effort went down the drain."
+      },
+      {
+        "zh": "一场大火让全部积蓄付之东流。",
+        "en": "A fire wiped out all his savings."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 全部/一切付之东流.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "化为乌有",
+      "前功尽弃",
+      "功亏一篑"
+    ],
+    "antonyms": [
+      "功成名就",
+      "硕果累累"
+    ]
+  },
+  {
+    "id": "hen-zhi-ru-gu",
+    "text": "恨之入骨",
+    "pinyin": "hèn zhī rù gǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger",
+      "revenge-and-retribution"
+    ],
+    "literal": "hate · him · enter · bone",
+    "natural": "hate with a passion",
+    "meaning": {
+      "en": "To hate someone to the core.",
+      "zh": "恨到了极点。"
+    },
+    "equivalents": [
+      "hate with a passion",
+      "loathe to the bone"
+    ],
+    "examples": [
+      {
+        "zh": "村民对这个恶霸恨之入骨。",
+        "en": "The villagers loathe the local bully to the bone."
+      },
+      {
+        "zh": "她对背叛者恨之入骨。",
+        "en": "She hates the traitor with a passion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "深恶痛绝",
+      "咬牙切齿"
+    ],
+    "antonyms": [
+      "爱不释手",
+      "感恩戴德"
+    ]
+  },
+  {
+    "id": "gao-peng-man-zuo",
+    "text": "高朋满座",
+    "pinyin": "gāo péng mǎn zuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "poems-prose"
+    ],
+    "literal": "distinguished · friends · fill · seats",
+    "natural": "a house full of guests",
+    "meaning": {
+      "en": "The seats are filled with distinguished friends.",
+      "zh": "尊贵的客人坐满了席位，形容宾客很多。"
+    },
+    "equivalents": [
+      "a room full of distinguished guests",
+      "a full house of friends"
+    ],
+    "examples": [
+      {
+        "zh": "婚宴上高朋满座，热闹非凡。",
+        "en": "The wedding banquet was packed with guests and lively."
+      },
+      {
+        "zh": "新店开业，高朋满座。",
+        "en": "The new shop opened to a crowd of well-wishers."
+      }
+    ],
+    "origin": {
+      "source": "王勃《滕王阁序》",
+      "story": {
+        "en": "Wang Bo's Preface to the Pavilion of Prince Teng: 'Welcomed from a thousand miles, the seats are full of distinguished friends' (千里逢迎，高朋满座).",
+        "zh": "王勃《滕王阁序》：“千里逢迎，高朋满座。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often paired with 宾客盈门.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "宾客盈门",
+      "胜友如云"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "shen-huai-liu-jia",
+    "text": "身怀六甲",
+    "pinyin": "shēn huái liù jiǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "parenting-and-family",
+      "body"
+    ],
+    "literal": "body · carry · six · jia",
+    "natural": "be expecting",
+    "meaning": {
+      "en": "To be pregnant (a polite, formal expression).",
+      "zh": "指妇女怀孕。"
+    },
+    "equivalents": [
+      "be expecting",
+      "be with child"
+    ],
+    "examples": [
+      {
+        "zh": "她身怀六甲，仍坚持上班。",
+        "en": "Though heavily pregnant, she kept working."
+      },
+      {
+        "zh": "身怀六甲的乘客可以优先上车。",
+        "en": "Expectant mothers may board first."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; polite and formal.",
+      "zh": "多作谓语，较文雅。"
+    },
+    "synonyms": [
+      "身怀有孕",
+      "怀胎十月"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "san-bai-liu-shi-hang",
+    "text": "三百六十行",
+    "pinyin": "sān bǎi liù shí háng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "numbers",
+      "common-and-worthless"
+    ],
+    "literal": "three · hundred · sixty · trades",
+    "natural": "every trade under the sun",
+    "meaning": {
+      "en": "All the various trades and professions.",
+      "zh": "泛指各行各业。"
+    },
+    "equivalents": [
+      "every trade under the sun",
+      "all walks of life"
+    ],
+    "examples": [
+      {
+        "zh": "三百六十行，行行出状元。",
+        "en": "Of the three hundred and sixty trades, each produces its champion."
+      },
+      {
+        "zh": "三百六十行，他都做过一点。",
+        "en": "He has dabbled in just about every trade."
+      }
+    ],
+    "usage": {
+      "en": "Often in the saying 三百六十行，行行出状元.",
+      "zh": "常见于“三百六十行，行行出状元”。"
+    },
+    "synonyms": [
+      "各行各业",
+      "五行八作"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "sun-ren-bu-li-ji",
+    "text": "损人不利己",
+    "pinyin": "sǔn rén bù lì jǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "harm · others · not · benefit · self",
+    "natural": "spite that profits no one",
+    "meaning": {
+      "en": "Harming others without benefiting oneself.",
+      "zh": "对别人有害，对自己也没有好处。"
+    },
+    "equivalents": [
+      "harm others for no gain",
+      "cut off one's nose to spite one's face"
+    ],
+    "examples": [
+      {
+        "zh": "造谣是损人不利己的事。",
+        "en": "Spreading rumours harms others and helps no one."
+      },
+      {
+        "zh": "这种损人不利己的做法太愚蠢。",
+        "en": "Such pointless spite is foolish."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "两败俱伤",
+      "害人害己"
+    ],
+    "antonyms": [
+      "利人利己",
+      "舍己为人"
+    ]
+  },
+  {
+    "id": "shui-yan-xing-song",
+    "text": "睡眼惺忪",
+    "pinyin": "shuì yǎn xīng sōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "relaxation-and-rest"
+    ],
+    "literal": "sleep · eyes · drowsy · drowsy",
+    "natural": "bleary-eyed",
+    "meaning": {
+      "en": "Eyes still heavy with sleep.",
+      "zh": "刚睡醒，眼睛还模糊不清的样子。"
+    },
+    "equivalents": [
+      "bleary-eyed",
+      "sleepy-eyed"
+    ],
+    "examples": [
+      {
+        "zh": "他睡眼惺忪地打开了门。",
+        "en": "He opened the door, bleary-eyed."
+      },
+      {
+        "zh": "早上六点，孩子们睡眼惺忪地起了床。",
+        "en": "At six, the children got up with sleepy eyes."
+      }
+    ],
+    "usage": {
+      "en": "Mostly adverbial or attributive.",
+      "zh": "多作状语、定语。"
+    },
+    "synonyms": [
+      "睡意朦胧",
+      "昏昏欲睡"
+    ],
+    "antonyms": [
+      "精神抖擞",
+      "炯炯有神"
+    ]
+  },
+  {
+    "id": "gu-wei-jin-yong",
+    "text": "古为今用",
+    "pinyin": "gǔ wéi jīn yòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "modern-applications-of-classical-ideas",
+      "useful-tools-and-skill"
+    ],
+    "literal": "ancient · serve · present · use",
+    "natural": "make the past serve the present",
+    "meaning": {
+      "en": "To use the legacy of the past to serve the present.",
+      "zh": "批判地继承古代的东西，使它为现代服务。"
+    },
+    "equivalents": [
+      "make the past serve the present",
+      "adapt tradition for today"
+    ],
+    "examples": [
+      {
+        "zh": "这座博物馆展示了古为今用的成果。",
+        "en": "The museum shows the fruits of adapting the past to the present."
+      },
+      {
+        "zh": "传统工艺古为今用，焕发新生。",
+        "en": "Traditional crafts are given new life by modern use."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "推陈出新",
+      "温故知新"
+    ],
+    "antonyms": [
+      "厚古薄今",
+      "食古不化"
+    ]
+  },
+  {
+    "id": "bi-qing-lian-zhong",
+    "text": "鼻青脸肿",
+    "pinyin": "bí qīng liǎn zhǒng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "poor-health"
+    ],
+    "literal": "nose · bruised · face · swollen",
+    "natural": "black and blue",
+    "meaning": {
+      "en": "Face bruised and swollen, as after a beating.",
+      "zh": "脸上又青又肿，形容被打得很惨。"
+    },
+    "equivalents": [
+      "black and blue",
+      "battered and bruised"
+    ],
+    "examples": [
+      {
+        "zh": "他被人打得鼻青脸肿。",
+        "en": "He was beaten black and blue."
+      },
+      {
+        "zh": "两个孩子打架，都弄得鼻青脸肿。",
+        "en": "The two boys fought and both ended up battered."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "遍体鳞伤",
+      "头破血流"
+    ],
+    "antonyms": [
+      "完好无损",
+      "毫发无损"
+    ]
+  },
+  {
+    "id": "yan-xing-bu-yi",
+    "text": "言行不一",
+    "pinyin": "yán xíng bù yī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "words · deeds · not · consistent",
+    "natural": "say one thing and do another",
+    "meaning": {
+      "en": "Not acting in line with what one says.",
+      "zh": "说的和做的不一致。"
+    },
+    "equivalents": [
+      "say one thing and do another",
+      "not practise what one preaches"
+    ],
+    "examples": [
+      {
+        "zh": "领导要以身作则，不能言行不一。",
+        "en": "Leaders must set an example, not say one thing and do another."
+      },
+      {
+        "zh": "他言行不一，大家都不信任他。",
+        "en": "His words don't match his deeds, so nobody trusts him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "表里不一",
+      "口是心非",
+      "言不由衷"
+    ],
+    "antonyms": [
+      "言行一致",
+      "表里如一",
+      "言出必行"
+    ]
+  },
+  {
+    "id": "lu-cao-ru-yin",
+    "text": "绿草如茵",
+    "pinyin": "lǜ cǎo rú yīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes"
+    ],
+    "literal": "green · grass · like · mat",
+    "natural": "grass like a green carpet",
+    "meaning": {
+      "en": "Grass lush and thick like a green mat.",
+      "zh": "绿色的草像垫子一样又厚又软。"
+    },
+    "equivalents": [
+      "a carpet of green grass",
+      "lush green lawn"
+    ],
+    "examples": [
+      {
+        "zh": "公园里绿草如茵，孩子们在上面打滚。",
+        "en": "The park's grass was a green carpet, and the children rolled on it."
+      },
+      {
+        "zh": "春天的草原绿草如茵。",
+        "en": "In spring the steppe is a sea of lush grass."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive; attributive or predicate.",
+      "zh": "描写性，多作定语、谓语。"
+    },
+    "synonyms": [
+      "芳草萋萋",
+      "草长莺飞"
+    ],
+    "antonyms": [
+      "寸草不生",
+      "草木枯黄"
+    ]
+  },
+  {
+    "id": "yao-tou-huang-nao",
+    "text": "摇头晃脑",
+    "pinyin": "yáo tóu huàng nǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "poor-performance"
+    ],
+    "literal": "shake · head · sway · head",
+    "natural": "swaying one's head",
+    "meaning": {
+      "en": "Swaying one's head, whether in self-satisfaction or while reciting.",
+      "zh": "头不停摆动，形容自得其乐或得意的样子。"
+    },
+    "equivalents": [
+      "nod and sway one's head",
+      "swing one's head about"
+    ],
+    "examples": [
+      {
+        "zh": "老先生摇头晃脑地吟诵着诗句。",
+        "en": "The old gentleman recited the poem, swaying his head."
+      },
+      {
+        "zh": "他听着音乐摇头晃脑。",
+        "en": "He swayed his head in time with the music."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "洋洋得意",
+      "自鸣得意"
+    ],
+    "antonyms": [
+      "正襟危坐",
+      "一本正经"
+    ]
+  },
+  {
+    "id": "ge-ge-ji-po",
+    "text": "各个击破",
+    "pinyin": "gè gè jī pò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "逐个击破"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "each · each · strike · break",
+    "natural": "defeat them one by one",
+    "meaning": {
+      "en": "To defeat opponents one at a time.",
+      "zh": "把敌人分开，一个一个地消灭。"
+    },
+    "equivalents": [
+      "defeat piecemeal",
+      "divide and conquer",
+      "take them on one by one"
+    ],
+    "examples": [
+      {
+        "zh": "我们要集中兵力，各个击破。",
+        "en": "We must concentrate our forces and defeat them one by one."
+      },
+      {
+        "zh": "工作中的难题可以各个击破。",
+        "en": "The difficulties at work can be tackled one at a time."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "分而治之",
+      "各个歼灭"
+    ],
+    "antonyms": [
+      "一网打尽",
+      "孤军奋战"
+    ]
+  },
+  {
+    "id": "chang-pian-da-lun",
+    "text": "长篇大论",
+    "pinyin": "cháng piān dà lùn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity"
+    ],
+    "literal": "long · piece · big · discourse",
+    "natural": "a long-winded speech",
+    "meaning": {
+      "en": "A long and wordy speech or article.",
+      "zh": "又长又啰嗦的发言或文章。"
+    },
+    "equivalents": [
+      "long-winded talk",
+      "a lengthy harangue"
+    ],
+    "examples": [
+      {
+        "zh": "会上他发表了一通长篇大论。",
+        "en": "At the meeting he delivered a long-winded speech."
+      },
+      {
+        "zh": "请别再长篇大论了，说重点。",
+        "en": "Stop rambling and get to the point."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive; usually disapproving.",
+      "zh": "多作宾语、定语，含贬义。"
+    },
+    "synonyms": [
+      "滔滔不绝",
+      "啰里啰嗦"
+    ],
+    "antonyms": [
+      "言简意赅",
+      "三言两语",
+      "要言不烦"
+    ]
+  },
+  {
+    "id": "bu-bu-gao-sheng",
+    "text": "步步高升",
+    "pinyin": "bù bù gāo shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "step · step · high · rise",
+    "natural": "rise steadily through the ranks",
+    "meaning": {
+      "en": "To rise higher with each step in one's career.",
+      "zh": "职位或地位一步一步地提高。"
+    },
+    "equivalents": [
+      "rise steadily",
+      "go from strength to strength"
+    ],
+    "examples": [
+      {
+        "zh": "祝你事业有成，步步高升！",
+        "en": "I wish you every success and steady promotion!"
+      },
+      {
+        "zh": "他在公司一路步步高升。",
+        "en": "He has risen steadily at the company."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often a wish.",
+      "zh": "多作谓语，常用于祝愿。"
+    },
+    "synonyms": [
+      "平步青云",
+      "节节高升",
+      "青云直上"
+    ],
+    "antonyms": [
+      "一落千丈",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "luan-zuo-yi-tuan",
+    "text": "乱作一团",
+    "pinyin": "luàn zuò yī tuán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "乱成一团"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos"
+    ],
+    "literal": "chaos · become · one · lump",
+    "natural": "in a total mess",
+    "meaning": {
+      "en": "In utter confusion.",
+      "zh": "乱成一堆，形容十分混乱。"
+    },
+    "equivalents": [
+      "in complete chaos",
+      "in a total muddle"
+    ],
+    "examples": [
+      {
+        "zh": "突然停电，会场乱作一团。",
+        "en": "The power cut left the hall in chaos."
+      },
+      {
+        "zh": "他的房间乱作一团。",
+        "en": "His room is in a total mess."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "一团混乱",
+      "乱七八糟"
+    ],
+    "antonyms": [
+      "井然有序",
+      "有条不紊"
+    ]
+  },
+  {
+    "id": "zuo-si-you-xiang",
+    "text": "左思右想",
+    "pinyin": "zuǒ sī yòu xiǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "confusion-and-doubt"
+    ],
+    "literal": "left · think · right · think",
+    "natural": "turn it over in one's mind",
+    "meaning": {
+      "en": "To think over and over from every angle.",
+      "zh": "反复思考，想了又想。"
+    },
+    "equivalents": [
+      "rack one's brains",
+      "turn it over and over in one's mind"
+    ],
+    "examples": [
+      {
+        "zh": "我左思右想，还是拿不定主意。",
+        "en": "I've thought it over and over, but still can't decide."
+      },
+      {
+        "zh": "他左思右想，终于想起了她的名字。",
+        "en": "After racking his brains he finally remembered her name."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "翻来覆去",
+      "冥思苦想",
+      "千思万想"
+    ],
+    "antonyms": [
+      "不假思索",
+      "漫不经心"
+    ]
+  },
+  {
+    "id": "re-guo-shang-de-ma-yi",
+    "text": "热锅上的蚂蚁",
+    "pinyin": "rè guō shàng de mǎ yǐ",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "hot · wok · on · 's · ant",
+    "natural": "like an ant on a hot pan",
+    "meaning": {
+      "en": "Extremely anxious and restless.",
+      "zh": "比喻焦急万分、坐立不安的样子。"
+    },
+    "equivalents": [
+      "like a cat on a hot tin roof",
+      "like a cat on hot bricks"
+    ],
+    "examples": [
+      {
+        "zh": "考试前一天，他像热锅上的蚂蚁一样坐立不安。",
+        "en": "The day before the exam he was like a cat on a hot tin roof."
+      },
+      {
+        "zh": "孩子还没回家，她急得像热锅上的蚂蚁。",
+        "en": "The child wasn't home yet, and she was frantic."
+      }
+    ],
+    "usage": {
+      "en": "Usually 像/如同热锅上的蚂蚁.",
+      "zh": "常说“像热锅上的蚂蚁”。"
+    },
+    "synonyms": [
+      "坐立不安",
+      "心急如焚",
+      "惶惶不可终日"
+    ],
+    "antonyms": [
+      "稳如泰山",
+      "镇定自若"
+    ]
+  },
+  {
+    "id": "jin-qin-fan-zhi",
+    "text": "近亲繁殖",
+    "pinyin": "jìn qīn fán zhí",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "resistance-to-change"
+    ],
+    "literal": "close · kin · breed · multiply",
+    "natural": "inbreeding",
+    "meaning": {
+      "en": "Breeding between close relatives; figuratively, a closed circle that lacks fresh blood.",
+      "zh": "亲缘关系很近的个体之间繁殖；比喻封闭、缺少新鲜力量。"
+    },
+    "equivalents": [
+      "inbreeding",
+      "a closed circle"
+    ],
+    "examples": [
+      {
+        "zh": "近亲繁殖会导致后代体质变弱。",
+        "en": "Inbreeding weakens the offspring."
+      },
+      {
+        "zh": "学术界要避免近亲繁殖，多引进外来人才。",
+        "en": "Academia should avoid inbreeding and bring in outside talent."
+      }
+    ],
+    "usage": {
+      "en": "Literal in biology, figurative for institutions.",
+      "zh": "生物学上为本义，比喻机构人事封闭。"
+    },
+    "synonyms": [
+      "闭门造车"
+    ],
+    "antonyms": [
+      "引进新血",
+      "兼收并蓄"
+    ]
+  },
+  {
+    "id": "ming-zhong-zhu-ding",
+    "text": "命中注定",
+    "pinyin": "mìng zhōng zhù dìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "love-and-marriage"
+    ],
+    "literal": "fate · in · ordained · fixed",
+    "natural": "destined",
+    "meaning": {
+      "en": "Fixed in advance by fate.",
+      "zh": "命运早已安排好了。"
+    },
+    "equivalents": [
+      "destined",
+      "fated",
+      "meant to be"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩好像命中注定要相遇。",
+        "en": "The two seem destined to meet."
+      },
+      {
+        "zh": "有人相信一切都是命中注定的。",
+        "en": "Some people believe everything is fated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "在劫难逃",
+      "天注定"
+    ],
+    "antonyms": [
+      "事在人为",
+      "人定胜天"
+    ]
+  },
+  {
+    "id": "hun-xiao-shi-fei",
+    "text": "混淆是非",
+    "pinyin": "hùn xiáo shì fēi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "corruption-and-injustice"
+    ],
+    "literal": "mix up · right · wrong",
+    "natural": "confuse right and wrong",
+    "meaning": {
+      "en": "To muddle right and wrong.",
+      "zh": "故意把对的说成错的，错的说成对的。"
+    },
+    "equivalents": [
+      "confuse right and wrong",
+      "blur the truth"
+    ],
+    "examples": [
+      {
+        "zh": "造谣者混淆是非，误导公众。",
+        "en": "Rumour-mongers confuse right and wrong and mislead the public."
+      },
+      {
+        "zh": "不要混淆是非，事实不是这样的。",
+        "en": "Don't muddy the issue; that's not what happened."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "颠倒黑白",
+      "指鹿为马",
+      "混淆黑白"
+    ],
+    "antonyms": [
+      "明辨是非",
+      "是非分明"
+    ]
+  },
+  {
+    "id": "yong-rong-hua-gui",
+    "text": "雍容华贵",
+    "pinyin": "yōng róng huá guì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "appearance",
+      "fine-dress-and-fashion"
+    ],
+    "literal": "graceful · bearing · splendid · noble",
+    "natural": "elegant and stately",
+    "meaning": {
+      "en": "Graceful, dignified and richly refined.",
+      "zh": "仪态大方，气质高贵。"
+    },
+    "equivalents": [
+      "elegant and stately",
+      "regal"
+    ],
+    "examples": [
+      {
+        "zh": "她身穿旗袍，显得雍容华贵。",
+        "en": "In her qipao she looked elegant and stately."
+      },
+      {
+        "zh": "牡丹花雍容华贵，被称为花中之王。",
+        "en": "The peony is stately and opulent, called the king of flowers."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "端庄典雅",
+      "华贵大方"
+    ],
+    "antonyms": [
+      "寒酸",
+      "粗俗不堪"
+    ]
+  }
+]
