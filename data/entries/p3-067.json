@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "zhan-cao-chu-gen",
+    "text": "斩草除根",
+    "pinyin": "zhǎn cǎo chú gēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "danger"
+    ],
+    "literal": "cut · grass · remove · root",
+    "natural": "root out completely",
+    "meaning": {
+      "en": "To eradicate something entirely, root and all, so it cannot return.",
+      "zh": "除草时连根拔掉，比喻彻底消灭，不留后患。"
+    },
+    "equivalents": [
+      "root out completely",
+      "stamp out for good"
+    ],
+    "examples": [
+      {
+        "zh": "要解决这个问题，必须斩草除根。",
+        "en": "To solve this problem we must root it out completely."
+      },
+      {
+        "zh": "政府决心对走私斩草除根。",
+        "en": "The government is determined to stamp out smuggling for good."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral when about pests or evils, harsh when about people.",
+      "zh": "作谓语；用于害虫、弊端时为中性，用于人时语气狠毒。"
+    },
+    "synonyms": [
+      "除恶务尽",
+      "赶尽杀绝"
+    ],
+    "antonyms": [
+      "养虎遗患",
+      "手下留情"
+    ]
+  },
+  {
+    "id": "guo-yan-yun-yan",
+    "text": "过眼云烟",
+    "pinyin": "guò yǎn yún yān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "过眼烟云"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "contentment-and-simplicity"
+    ],
+    "literal": "pass · eyes · cloud · smoke",
+    "natural": "fleeting as passing clouds",
+    "meaning": {
+      "en": "Something that passes quickly and leaves no lasting trace.",
+      "zh": "从眼前飘过的云烟，比喻很快消失、不值得留恋的事物。"
+    },
+    "equivalents": [
+      "fleeting and forgotten",
+      "here today, gone tomorrow"
+    ],
+    "examples": [
+      {
+        "zh": "名利不过是过眼云烟。",
+        "en": "Fame and fortune are only passing clouds."
+      },
+      {
+        "zh": "往事如过眼云烟，不必再提。",
+        "en": "The past has drifted away like smoke; there's no need to raise it again."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; often 如过眼云烟.",
+      "zh": "作谓语、宾语，常说“如过眼云烟”。"
+    },
+    "synonyms": [
+      "转瞬即逝",
+      "身外之物"
+    ],
+    "antonyms": [
+      "刻骨铭心",
+      "永世不忘"
+    ]
+  },
+  {
+    "id": "jie-nang-xiang-zhu",
+    "text": "解囊相助",
+    "pinyin": "jiě náng xiāng zhù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "untie · purse · mutually · help",
+    "natural": "open one's purse to help",
+    "meaning": {
+      "en": "To give money to help someone in need.",
+      "zh": "拿出钱来帮助别人。"
+    },
+    "equivalents": [
+      "dig deep to help",
+      "give generously"
+    ],
+    "examples": [
+      {
+        "zh": "灾情发生后，许多市民解囊相助。",
+        "en": "After the disaster, many citizens gave generously."
+      },
+      {
+        "zh": "同学们纷纷解囊相助，帮他渡过难关。",
+        "en": "His classmates chipped in to help him through the crisis."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "慷慨解囊",
+      "仗义疏财"
+    ],
+    "antonyms": [
+      "一毛不拔",
+      "袖手旁观"
+    ]
+  },
+  {
+    "id": "jia-xi-zhen-zuo",
+    "text": "假戏真做",
+    "pinyin": "jiǎ xì zhēn zuò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "unintended-results"
+    ],
+    "literal": "fake · play · real · do",
+    "natural": "play-acting turned real",
+    "meaning": {
+      "en": "To act a part so well, or for so long, that it becomes real.",
+      "zh": "本是演戏，却当作真事来做，也指表演时动了真感情。"
+    },
+    "equivalents": [
+      "play-acting that becomes real",
+      "the act turns into the real thing"
+    ],
+    "examples": [
+      {
+        "zh": "两位演员拍戏时假戏真做，真的结婚了。",
+        "en": "The two actors fell for each other while filming and actually married."
+      },
+      {
+        "zh": "本来只是做做样子，结果假戏真做。",
+        "en": "It was meant to be for show but turned into the real thing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "弄假成真",
+      "情不自禁"
+    ],
+    "antonyms": [
+      "逢场作戏",
+      "装模作样"
+    ]
+  },
+  {
+    "id": "she-sheng-qu-yi",
+    "text": "舍生取义",
+    "pinyin": "shě shēng qǔ yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "confucian-classics"
+    ],
+    "literal": "give up · life · take · righteousness",
+    "natural": "sacrifice life for righteousness",
+    "meaning": {
+      "en": "To give up one's life for a just cause.",
+      "zh": "为了正义的事业而不惜牺牲生命。"
+    },
+    "equivalents": [
+      "lay down one's life for a cause",
+      "die for righteousness"
+    ],
+    "examples": [
+      {
+        "zh": "烈士们舍生取义，令人敬仰。",
+        "en": "The martyrs gave their lives for righteousness and are deeply revered."
+      },
+      {
+        "zh": "面对歹徒，他舍生取义，挺身而出。",
+        "en": "Facing the thugs, he stepped forward, risking his life for what was right."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·告子上》",
+      "story": {
+        "en": "Mencius: 'I want life and I want righteousness; if I cannot have both, I give up life and choose righteousness' (舍生而取义者也).",
+        "zh": "《孟子》：“生亦我所欲也，义亦我所欲也，二者不可得兼，舍生而取义者也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; solemn.",
+      "zh": "作谓语、定语，语气庄重。"
+    },
+    "synonyms": [
+      "杀身成仁",
+      "舍己为人"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "苟且偷生"
+    ]
+  },
+  {
+    "id": "yang-tang-zhi-fei",
+    "text": "扬汤止沸",
+    "pinyin": "yáng tāng zhǐ fèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "scoop up · hot water · stop · boiling",
+    "natural": "ladle the boiling water to stop it boiling",
+    "meaning": {
+      "en": "To treat only the symptom, not the cause.",
+      "zh": "把锅里的开水舀起来再倒回去想让它不沸，比喻不从根本上解决问题。"
+    },
+    "equivalents": [
+      "treat the symptom, not the cause",
+      "a stopgap that doesn't help"
+    ],
+    "examples": [
+      {
+        "zh": "单靠补贴稳价，无异于扬汤止沸。",
+        "en": "Propping up prices with subsidies alone is merely treating the symptom."
+      },
+      {
+        "zh": "这种临时措施只是扬汤止沸。",
+        "en": "Such temporary measures are only a stopgap."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often paired with 釜底抽薪.",
+      "zh": "作谓语，常与“釜底抽薪”对举。"
+    },
+    "synonyms": [
+      "治标不治本",
+      "饮鸩止渴"
+    ],
+    "antonyms": [
+      "釜底抽薪",
+      "标本兼治"
+    ]
+  },
+  {
+    "id": "gou-yan-can-chuan",
+    "text": "苟延残喘",
+    "pinyin": "gǒu yán cán chuǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation",
+      "poor-health"
+    ],
+    "literal": "barely · prolong · remaining · breath",
+    "natural": "cling to a last gasp of life",
+    "meaning": {
+      "en": "To hang on with a last bit of life or strength.",
+      "zh": "勉强拖延一口没有断的气，比喻勉强维持生存。"
+    },
+    "equivalents": [
+      "cling on by a thread",
+      "limp on"
+    ],
+    "examples": [
+      {
+        "zh": "这家老店在连年亏损中苟延残喘。",
+        "en": "The old shop limped on through years of losses."
+      },
+      {
+        "zh": "敌军只能苟延残喘，不久就会覆灭。",
+        "en": "The enemy can only cling on and will soon be finished."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "奄奄一息",
+      "垂死挣扎"
+    ],
+    "antonyms": [
+      "生龙活虎",
+      "蒸蒸日上"
+    ]
+  },
+  {
+    "id": "xian-yan-duo-mu",
+    "text": "鲜艳夺目",
+    "pinyin": "xiān yàn duó mù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "fine-dress-and-fashion"
+    ],
+    "literal": "bright · gorgeous · dazzle · eyes",
+    "natural": "dazzlingly bright",
+    "meaning": {
+      "en": "Brightly coloured and eye-catching.",
+      "zh": "色彩鲜明艳丽，非常引人注目。"
+    },
+    "equivalents": [
+      "dazzlingly bright",
+      "eye-catching"
+    ],
+    "examples": [
+      {
+        "zh": "花园里的玫瑰鲜艳夺目。",
+        "en": "The roses in the garden are dazzlingly bright."
+      },
+      {
+        "zh": "她穿着一件鲜艳夺目的红裙。",
+        "en": "She wore an eye-catching red dress."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "光彩夺目",
+      "五彩缤纷"
+    ],
+    "antonyms": [
+      "黯然失色",
+      "暗淡无光"
+    ]
+  },
+  {
+    "id": "suo-ran-wu-wei",
+    "text": "索然无味",
+    "pinyin": "suǒ rán wú wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "artistic-mediocrity"
+    ],
+    "literal": "dull · so · without · flavour",
+    "natural": "utterly dull",
+    "meaning": {
+      "en": "Devoid of interest or flavour.",
+      "zh": "毫无兴味，枯燥乏味。"
+    },
+    "equivalents": [
+      "utterly dull",
+      "completely tasteless"
+    ],
+    "examples": [
+      {
+        "zh": "这场比赛节奏拖沓，看得人索然无味。",
+        "en": "The match dragged and left viewers bored."
+      },
+      {
+        "zh": "没有朋友一起吃饭，再好的菜也索然无味。",
+        "en": "Without friends to share it, even the best food is tasteless."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "作谓语、补语。"
+    },
+    "synonyms": [
+      "枯燥乏味",
+      "兴味索然"
+    ],
+    "antonyms": [
+      "津津有味",
+      "趣味盎然"
+    ]
+  },
+  {
+    "id": "yan-mian-sao-di",
+    "text": "颜面扫地",
+    "pinyin": "yán miàn sǎo dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "inappropriate-behavior"
+    ],
+    "literal": "face · face · sweep · ground",
+    "natural": "lose all face",
+    "meaning": {
+      "en": "To lose all dignity or reputation.",
+      "zh": "脸面丢尽，名誉全无。"
+    },
+    "equivalents": [
+      "lose all face",
+      "be thoroughly humiliated"
+    ],
+    "examples": [
+      {
+        "zh": "丑闻曝光后，他颜面扫地。",
+        "en": "After the scandal broke, he lost all face."
+      },
+      {
+        "zh": "输给了一支业余队，球队颜面扫地。",
+        "en": "Losing to an amateur side left the team deeply embarrassed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "威信扫地",
+      "丢人现眼"
+    ],
+    "antonyms": [
+      "荣誉加身",
+      "脸上有光"
+    ]
+  },
+  {
+    "id": "zuo-bi-shang-guan",
+    "text": "作壁上观",
+    "pinyin": "zuò bì shàng guān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "historical-records"
+    ],
+    "literal": "sit · rampart · on · watch",
+    "natural": "watch from the sidelines",
+    "meaning": {
+      "en": "To stand by and watch others fight without helping.",
+      "zh": "在营垒上看别人作战，比喻置身事外，不予援助。"
+    },
+    "equivalents": [
+      "stand idly by",
+      "watch from the sidelines"
+    ],
+    "examples": [
+      {
+        "zh": "邻国遭难，我们不能作壁上观。",
+        "en": "We can't stand idly by while a neighbour is in trouble."
+      },
+      {
+        "zh": "同事之间争吵时，他总是作壁上观。",
+        "en": "When colleagues quarrel, he always watches from the sidelines."
+      }
+    ],
+    "origin": {
+      "source": "《史记·项羽本纪》",
+      "story": {
+        "en": "At Julu, the other lords' armies watched from their ramparts as Chu fought Qin (诸侯军皆从壁上观).",
+        "zh": "《史记》：“及楚击秦，诸侯军救巨鹿下者十余壁，莫敢纵兵。……诸侯军皆从壁上观。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often negated.",
+      "zh": "作谓语，常用于否定句。"
+    },
+    "synonyms": [
+      "袖手旁观",
+      "隔岸观火"
+    ],
+    "antonyms": [
+      "挺身而出",
+      "拔刀相助"
+    ]
+  },
+  {
+    "id": "ge-an-guan-huo",
+    "text": "隔岸观火",
+    "pinyin": "gé àn guān huǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "thirty-six-stratagems",
+      "military-strategy-and-victory"
+    ],
+    "literal": "across · bank · watch · fire",
+    "natural": "watch the fire from across the river",
+    "meaning": {
+      "en": "To watch others' troubles from a safe distance, without helping.",
+      "zh": "隔着河看对岸起火，比喻对别人的危难袖手旁观，也指坐等对方内乱。"
+    },
+    "equivalents": [
+      "watch the fire from afar",
+      "stand by and let others fight"
+    ],
+    "examples": [
+      {
+        "zh": "两家公司打价格战，他们却隔岸观火。",
+        "en": "The two firms are in a price war while they watch from a safe distance."
+      },
+      {
+        "zh": "遇到朋友有难，不能隔岸观火。",
+        "en": "When a friend is in trouble you can't just look on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also the ninth of the Thirty-Six Stratagems.",
+      "zh": "作谓语；也是三十六计第九计。"
+    },
+    "synonyms": [
+      "袖手旁观",
+      "坐山观虎斗"
+    ],
+    "antonyms": [
+      "雪中送炭",
+      "出手相救"
+    ]
+  },
+  {
+    "id": "jin-tui-shi-ju",
+    "text": "进退失据",
+    "pinyin": "jìn tuì shī jù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "dead-ends-and-desperation"
+    ],
+    "literal": "advance · retreat · lose · footing",
+    "natural": "at a loss whether to advance or retreat",
+    "meaning": {
+      "en": "Left with no firm ground whether one advances or retreats.",
+      "zh": "前进后退都失去依据，形容处境尴尬，不知如何是好。"
+    },
+    "equivalents": [
+      "wrong-footed either way",
+      "at a loss what to do"
+    ],
+    "examples": [
+      {
+        "zh": "政策反复调整，企业进退失据。",
+        "en": "With policy changing repeatedly, firms are wrong-footed either way."
+      },
+      {
+        "zh": "他两头得罪，一时进退失据。",
+        "en": "Having offended both sides, he was left with nowhere to turn."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "进退两难",
+      "进退维谷"
+    ],
+    "antonyms": [
+      "游刃有余",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "zhan-qin-dai-gu",
+    "text": "沾亲带故",
+    "pinyin": "zhān qīn dài gù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "parenting-and-family"
+    ],
+    "literal": "touch · kin · bring · old friends",
+    "natural": "related in some way",
+    "meaning": {
+      "en": "To have some family or personal tie, however distant.",
+      "zh": "有亲戚或老关系，多指关系不算近。"
+    },
+    "equivalents": [
+      "distantly related",
+      "have some connection"
+    ],
+    "examples": [
+      {
+        "zh": "村里人大多沾亲带故。",
+        "en": "Most people in the village are related in some way."
+      },
+      {
+        "zh": "沾亲带故也不能搞特殊。",
+        "en": "Being related is no excuse for special treatment."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; negated form 不沾亲不带故 is common.",
+      "zh": "作谓语，常说“不沾亲不带故”。"
+    },
+    "synonyms": [
+      "亲朋故旧",
+      "七大姑八大姨"
+    ],
+    "antonyms": [
+      "非亲非故",
+      "素不相识"
+    ]
+  },
+  {
+    "id": "bie-wu-er-zhi",
+    "text": "别无二致",
+    "pinyin": "bié wú èr zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements"
+    ],
+    "literal": "otherwise · no · two · difference",
+    "natural": "no different",
+    "meaning": {
+      "en": "No different; exactly alike.",
+      "zh": "没有两样，完全一样。"
+    },
+    "equivalents": [
+      "no different",
+      "indistinguishable"
+    ],
+    "examples": [
+      {
+        "zh": "这款新机型与旧款别无二致。",
+        "en": "The new model is no different from the old one."
+      },
+      {
+        "zh": "他的做法与骗子别无二致。",
+        "en": "His methods are no different from a fraudster's."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually with 与/和.",
+      "zh": "作谓语，常与“与、和”连用。"
+    },
+    "synonyms": [
+      "如出一辙",
+      "一模一样"
+    ],
+    "antonyms": [
+      "大相径庭",
+      "天壤之别"
+    ]
+  },
+  {
+    "id": "ren-zu-gui-zong",
+    "text": "认祖归宗",
+    "pinyin": "rèn zǔ guī zōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "family-and-home"
+    ],
+    "literal": "recognise · ancestors · return to · clan",
+    "natural": "return to one's ancestral roots",
+    "meaning": {
+      "en": "To acknowledge one's ancestors and rejoin the family line.",
+      "zh": "承认祖先，回归本家。"
+    },
+    "equivalents": [
+      "return to one's roots",
+      "rejoin the ancestral clan"
+    ],
+    "examples": [
+      {
+        "zh": "多年后，他回到老家认祖归宗。",
+        "en": "Years later he returned to his home village to reclaim his roots."
+      },
+      {
+        "zh": "海外华人常回乡寻根，认祖归宗。",
+        "en": "Overseas Chinese often come home to trace their ancestry."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "寻根问祖",
+      "落叶归根"
+    ],
+    "antonyms": [
+      "数典忘祖",
+      "背井离乡"
+    ]
+  },
+  {
+    "id": "xing-qu-ang-ran",
+    "text": "兴趣盎然",
+    "pinyin": "xìng qù àng rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "interest · interest · overflowing · so",
+    "natural": "brimming with interest",
+    "meaning": {
+      "en": "Full of interest and enthusiasm.",
+      "zh": "兴趣十分浓厚。"
+    },
+    "equivalents": [
+      "brimming with interest",
+      "keenly absorbed"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们对实验兴趣盎然。",
+        "en": "The children are keenly interested in the experiment."
+      },
+      {
+        "zh": "他兴趣盎然地翻看着旧照片。",
+        "en": "He leafed through the old photos with great interest."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "作谓语、状语。"
+    },
+    "synonyms": [
+      "兴致勃勃",
+      "津津有味"
+    ],
+    "antonyms": [
+      "兴味索然",
+      "索然无味"
+    ]
+  },
+  {
+    "id": "kai-huai-chang-yin",
+    "text": "开怀畅饮",
+    "pinyin": "kāi huái chàng yǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "festivals-and-celebrations"
+    ],
+    "literal": "open · heart · freely · drink",
+    "natural": "drink to one's heart's content",
+    "meaning": {
+      "en": "To drink freely and happily.",
+      "zh": "敞开心怀，痛痛快快地喝酒。"
+    },
+    "equivalents": [
+      "drink to one's heart's content",
+      "raise glasses merrily"
+    ],
+    "examples": [
+      {
+        "zh": "老友重逢，大家开怀畅饮。",
+        "en": "The old friends reunited and drank to their hearts' content."
+      },
+      {
+        "zh": "今晚不醉不归，让我们开怀畅饮！",
+        "en": "Tonight we drink till we drop, so let's drink freely!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually at celebrations.",
+      "zh": "作谓语，多用于欢庆场合。"
+    },
+    "synonyms": [
+      "把酒言欢",
+      "举杯痛饮"
+    ],
+    "antonyms": [
+      "滴酒不沾",
+      "借酒浇愁"
+    ]
+  },
+  {
+    "id": "ren-yang-ma-fan",
+    "text": "人仰马翻",
+    "pinyin": "rén yǎng mǎ fān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos",
+      "defeat-and-military-failure"
+    ],
+    "literal": "men · tumble · horses · overturn",
+    "natural": "in utter chaos",
+    "meaning": {
+      "en": "In complete disarray, as if men and horses were tumbling over.",
+      "zh": "人和马都被打得东倒西歪，形容混乱不堪或惨败。"
+    },
+    "equivalents": [
+      "in total disarray",
+      "all in an uproar"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们一闹，家里被弄得人仰马翻。",
+        "en": "The children's antics turned the house upside down."
+      },
+      {
+        "zh": "双十一大促让客服忙得人仰马翻。",
+        "en": "The shopping festival has the customer service team run off their feet."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; often 闹得/忙得人仰马翻.",
+      "zh": "作谓语、补语，常说“闹得、忙得人仰马翻”。"
+    },
+    "synonyms": [
+      "兵荒马乱",
+      "乱作一团"
+    ],
+    "antonyms": [
+      "井然有序",
+      "有条不紊"
+    ]
+  },
+  {
+    "id": "bu-xun-si-qing",
+    "text": "不徇私情",
+    "pinyin": "bù xún sī qíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "positive-character-qualities"
+    ],
+    "literal": "not · yield to · private · feelings",
+    "natural": "not swayed by personal ties",
+    "meaning": {
+      "en": "Not letting personal relationships bend one's judgment.",
+      "zh": "不因私人感情而偏袒、违反原则。"
+    },
+    "equivalents": [
+      "show no favouritism",
+      "act without partiality"
+    ],
+    "examples": [
+      {
+        "zh": "法官不徇私情，依法判决。",
+        "en": "The judge ruled by law without favouritism."
+      },
+      {
+        "zh": "老师批改作业不徇私情，一视同仁。",
+        "en": "The teacher marks without bias and treats everyone alike."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal praise.",
+      "zh": "作谓语，书面语，含赞扬。"
+    },
+    "synonyms": [
+      "铁面无私",
+      "公正无私"
+    ],
+    "antonyms": [
+      "徇私舞弊",
+      "循私枉法"
+    ]
+  },
+  {
+    "id": "tu-zhi-mo-fen",
+    "text": "涂脂抹粉",
+    "pinyin": "tú zhī mǒ fěn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "deception-and-false-appearances"
+    ],
+    "literal": "smear · rouge · daub · powder",
+    "natural": "put on make-up; whitewash",
+    "meaning": {
+      "en": "To apply make-up, or to gloss over something ugly with a pleasant surface.",
+      "zh": "往脸上涂胭脂抹粉，也比喻粉饰、掩盖丑恶的本质。"
+    },
+    "equivalents": [
+      "gloss over",
+      "whitewash"
+    ],
+    "examples": [
+      {
+        "zh": "她每天早上都要涂脂抹粉一番。",
+        "en": "She spends time putting on her make-up every morning."
+      },
+      {
+        "zh": "再怎么涂脂抹粉，也掩盖不了事实。",
+        "en": "However much you gloss over it, you can't hide the truth."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literal or figurative.",
+      "zh": "作谓语，可指化妆，也可作比喻。"
+    },
+    "synonyms": [
+      "浓妆艳抹",
+      "粉饰太平"
+    ],
+    "antonyms": [
+      "素面朝天",
+      "暴露无遗"
+    ]
+  },
+  {
+    "id": "tong-qing-da-li",
+    "text": "通情达理",
+    "pinyin": "tōng qíng dá lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "understand · feelings · grasp · reason",
+    "natural": "reasonable and understanding",
+    "meaning": {
+      "en": "Sensible and considerate of others' feelings.",
+      "zh": "说话做事讲道理，体谅别人。"
+    },
+    "equivalents": [
+      "reasonable",
+      "understanding and sensible"
+    ],
+    "examples": [
+      {
+        "zh": "他妈妈很通情达理，从不勉强孩子。",
+        "en": "His mother is very reasonable and never forces the children."
+      },
+      {
+        "zh": "请各位通情达理，多多包涵。",
+        "en": "Please be understanding and bear with us."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "作谓语、定语。"
+    },
+    "synonyms": [
+      "明白事理",
+      "知书达理"
+    ],
+    "antonyms": [
+      "蛮不讲理",
+      "不可理喻"
+    ]
+  }
+]

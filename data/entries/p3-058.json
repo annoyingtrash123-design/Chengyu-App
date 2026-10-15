@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "mou-cai-hai-ming",
+    "text": "谋财害命",
+    "pinyin": "móu cái hài mìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "plot · wealth · harm · life",
+    "natural": "murder for money",
+    "meaning": {
+      "en": "To kill someone in order to take their property.",
+      "zh": "为了夺取财物而杀人。"
+    },
+    "equivalents": [
+      "murder for gain",
+      "kill for money"
+    ],
+    "examples": [
+      {
+        "zh": "警方认定这是一起谋财害命的案件。",
+        "en": "The police ruled it a case of murder for money."
+      },
+      {
+        "zh": "他竟为了遗产谋财害命。",
+        "en": "He actually committed murder for the inheritance."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; criminal context.",
+      "zh": "多作谓语、定语，用于刑事案件。"
+    },
+    "synonyms": [
+      "杀人越货",
+      "害人性命"
+    ],
+    "antonyms": [
+      "仗义疏财",
+      "舍己为人"
+    ]
+  },
+  {
+    "id": "yi-liao-bai-liao",
+    "text": "一了百了",
+    "pinyin": "yī liǎo bǎi liǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "exact-vs-approximate",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "one · settle · hundred · settle",
+    "natural": "settle one thing and all is settled",
+    "meaning": {
+      "en": "Once the key matter is settled, everything else is settled too; or, said fatalistically, to end it all.",
+      "zh": "主要的事情解决了，其余的问题也就都解决了；也指一死了之。"
+    },
+    "equivalents": [
+      "that settles everything",
+      "draw a line under it all",
+      "end it all"
+    ],
+    "examples": [
+      {
+        "zh": "把欠款还清，一了百了。",
+        "en": "Pay off the debt and the whole matter is closed."
+      },
+      {
+        "zh": "你别想着一了百了，活着才有办法。",
+        "en": "Don't think of ending it all; while you live there is a way out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; context decides which sense.",
+      "zh": "多作谓语，依语境区分两种意思。"
+    },
+    "synonyms": [
+      "一劳永逸",
+      "了结"
+    ],
+    "antonyms": [
+      "后患无穷",
+      "没完没了"
+    ]
+  },
+  {
+    "id": "biao-xing-da-han",
+    "text": "彪形大汉",
+    "pinyin": "biāo xíng dà hàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "tiger-striped · build · big · fellow",
+    "natural": "a burly fellow",
+    "meaning": {
+      "en": "A big, powerfully built man.",
+      "zh": "身材高大魁梧的男子。"
+    },
+    "equivalents": [
+      "a burly man",
+      "a hulking fellow"
+    ],
+    "examples": [
+      {
+        "zh": "门口站着两个彪形大汉。",
+        "en": "Two burly men stood at the door."
+      },
+      {
+        "zh": "别看他是彪形大汉，心思却很细。",
+        "en": "He may be a big bruiser, but he is very thoughtful."
+      }
+    ],
+    "usage": {
+      "en": "Noun; describes men only.",
+      "zh": "名词，只用于男性。"
+    },
+    "synonyms": [
+      "五大三粗",
+      "魁梧大汉"
+    ],
+    "antonyms": [
+      "弱不禁风",
+      "身单力薄"
+    ]
+  },
+  {
+    "id": "dan-da-bao-tian",
+    "text": "胆大包天",
+    "pinyin": "dǎn dà bāo tiān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "negative-character-flaws"
+    ],
+    "literal": "gall · big · wrap · sky",
+    "natural": "outrageously bold",
+    "meaning": {
+      "en": "Extremely audacious, daring to do anything.",
+      "zh": "形容胆子极大，什么都敢干。"
+    },
+    "equivalents": [
+      "have the nerve of the devil",
+      "outrageously daring"
+    ],
+    "examples": [
+      {
+        "zh": "竟敢造假账，真是胆大包天。",
+        "en": "To falsify the accounts takes a shocking nerve."
+      },
+      {
+        "zh": "这个胆大包天的骗子骗了上百人。",
+        "en": "The audacious swindler cheated over a hundred people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; usually critical.",
+      "zh": "多作谓语、定语，多含贬义。"
+    },
+    "synonyms": [
+      "肆无忌惮",
+      "无法无天"
+    ],
+    "antonyms": [
+      "胆小如鼠",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "shi-shi-sheng-yu-xiong-bian",
+    "text": "事实胜于雄辩",
+    "pinyin": "shì shí shèng yú xióng biàn",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "essay-favourites",
+      "frankness-and-candour"
+    ],
+    "literal": "facts · beat · than · eloquent argument",
+    "natural": "facts speak louder than words",
+    "meaning": {
+      "en": "Facts are more convincing than any eloquent argument.",
+      "zh": "确凿的事实比任何有力的辩论更有说服力。"
+    },
+    "equivalents": [
+      "facts speak louder than words",
+      "the facts speak for themselves"
+    ],
+    "examples": [
+      {
+        "zh": "销量数据摆在这儿，事实胜于雄辩。",
+        "en": "The sales figures are right here: the facts speak for themselves."
+      },
+      {
+        "zh": "与其争论，不如拿成绩说话，事实胜于雄辩。",
+        "en": "Rather than argue, let results talk; facts beat rhetoric."
+      }
+    ],
+    "usage": {
+      "en": "Often a stand-alone assertion or closing line.",
+      "zh": "常单独成句，作结论。"
+    },
+    "synonyms": [
+      "铁证如山",
+      "有目共睹"
+    ],
+    "antonyms": [
+      "空口无凭",
+      "巧言令色"
+    ]
+  },
+  {
+    "id": "zhi-feng-mu-yu",
+    "text": "栉风沐雨",
+    "pinyin": "zhì fēng mù yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "daoist-classics",
+      "harsh-natural-conditions"
+    ],
+    "literal": "comb · wind · wash · rain",
+    "natural": "brave wind and rain",
+    "meaning": {
+      "en": "To endure wind and rain; to work tirelessly through hardship.",
+      "zh": "风梳头，雨洗发，形容不避风雨、长年在外辛苦奔波。"
+    },
+    "equivalents": [
+      "weather every storm",
+      "toil through wind and rain"
+    ],
+    "examples": [
+      {
+        "zh": "老一辈地质队员栉风沐雨，踏遍了荒山。",
+        "en": "The older generation of geologists braved the elements across barren hills."
+      },
+      {
+        "zh": "几十年栉风沐雨，他终于建成了这座桥。",
+        "en": "After decades of toil in all weathers, he finally built this bridge."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·天下》",
+      "story": {
+        "en": "Describing the legendary Yu who tamed the floods: 'He bathed in heavy rain and combed his hair in fierce winds' (沐甚雨，栉疾风).",
+        "zh": "《庄子》：“沐甚雨，栉疾风，置万国。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary and respectful.",
+      "zh": "多作谓语，书面语，含赞扬。"
+    },
+    "synonyms": [
+      "风餐露宿",
+      "披星戴月"
+    ],
+    "antonyms": [
+      "养尊处优",
+      "饱食终日"
+    ]
+  },
+  {
+    "id": "mo-dao-huo-huo",
+    "text": "磨刀霍霍",
+    "pinyin": "mó dāo huò huò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "poems-prose"
+    ],
+    "literal": "whet · knife · swish swish",
+    "natural": "sharpen one's knives",
+    "meaning": {
+      "en": "To sharpen knives noisily; figuratively, to prepare vigorously for action, often aggressive.",
+      "zh": "形容紧张地做好准备，准备大干或动手；多含威胁意味。"
+    },
+    "equivalents": [
+      "sharpen one's knives",
+      "gear up for a fight"
+    ],
+    "examples": [
+      {
+        "zh": "两支球队都在磨刀霍霍，准备决赛。",
+        "en": "Both teams are sharpening their knives for the final."
+      },
+      {
+        "zh": "对手磨刀霍霍，我们不得不防。",
+        "en": "The rivals are gearing up to strike; we must be on guard."
+      }
+    ],
+    "origin": {
+      "source": "《木兰诗》",
+      "story": {
+        "en": "In the Ballad of Mulan the family prepare a feast on her return: 'Whetting knives swish-swish towards the pigs and sheep' (磨刀霍霍向猪羊).",
+        "zh": "《木兰诗》：“小弟闻姊来，磨刀霍霍向猪羊。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 向…磨刀霍霍.",
+      "zh": "多作谓语，常说“向……磨刀霍霍”。"
+    },
+    "synonyms": [
+      "摩拳擦掌",
+      "严阵以待"
+    ],
+    "antonyms": [
+      "偃旗息鼓",
+      "按兵不动"
+    ]
+  },
+  {
+    "id": "za-qi-za-ba",
+    "text": "杂七杂八",
+    "pinyin": "zá qī zá bā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "common-and-worthless",
+      "numbers"
+    ],
+    "literal": "mixed · seven · mixed · eight",
+    "natural": "all sorts of odds and ends",
+    "meaning": {
+      "en": "A miscellaneous, disorderly jumble of things.",
+      "zh": "形容种类多而杂乱。"
+    },
+    "equivalents": [
+      "odds and ends",
+      "all sorts of this and that"
+    ],
+    "examples": [
+      {
+        "zh": "他的包里装着杂七杂八的东西。",
+        "en": "His bag was full of odds and ends."
+      },
+      {
+        "zh": "下班前还有些杂七杂八的事要处理。",
+        "en": "There are some miscellaneous chores to clear before I leave."
+      }
+    ],
+    "usage": {
+      "en": "Attributive; colloquial.",
+      "zh": "多作定语，口语。"
+    },
+    "synonyms": [
+      "乱七八糟",
+      "五花八门"
+    ],
+    "antonyms": [
+      "井井有条",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "yi-shou-zhe-tian",
+    "text": "一手遮天",
+    "pinyin": "yī shǒu zhē tiān",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "只手遮天"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "corruption-and-injustice"
+    ],
+    "literal": "one · hand · cover · sky",
+    "natural": "hide the sky with one hand",
+    "meaning": {
+      "en": "To use one's power to control everything and hide the truth from the public.",
+      "zh": "用一只手遮住天空，比喻依仗权势，欺上瞒下，玩弄手段。"
+    },
+    "equivalents": [
+      "wield absolute power",
+      "have everything in one's grip"
+    ],
+    "examples": [
+      {
+        "zh": "他在这个地方一手遮天，没人敢告他。",
+        "en": "He held this place in his fist, and nobody dared sue him."
+      },
+      {
+        "zh": "真相不是一手遮天就能掩盖的。",
+        "en": "The truth cannot be hidden just because someone has power."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; critical of abuse of power.",
+      "zh": "多作谓语，批评滥用权力。"
+    },
+    "synonyms": [
+      "颠倒黑白",
+      "独断专行"
+    ],
+    "antonyms": [
+      "光明正大",
+      "秉公办事"
+    ]
+  },
+  {
+    "id": "yi-yan-nan-jin",
+    "text": "一言难尽",
+    "pinyin": "yī yán nán jìn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "verbosity"
+    ],
+    "literal": "one · word · hard · exhaust",
+    "natural": "a long story",
+    "meaning": {
+      "en": "Too complicated to explain in a few words.",
+      "zh": "事情复杂，很难用一两句话说清楚。"
+    },
+    "equivalents": [
+      "it's a long story",
+      "hard to explain in a word"
+    ],
+    "examples": [
+      {
+        "zh": "你怎么辞职了？唉，一言难尽。",
+        "en": "Why did you quit? Ah, it's a long story."
+      },
+      {
+        "zh": "这些年的经历，真是一言难尽。",
+        "en": "These years of experience are hard to sum up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often a stand-alone reply.",
+      "zh": "多作谓语，常单独作答。"
+    },
+    "synonyms": [
+      "说来话长",
+      "难以言表"
+    ],
+    "antonyms": [
+      "一目了然",
+      "一语道破"
+    ]
+  },
+  {
+    "id": "feng-yan-feng-yu",
+    "text": "风言风语",
+    "pinyin": "fēng yán fēng yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "deception-and-false-appearances"
+    ],
+    "literal": "wind · words · wind · talk",
+    "natural": "whispered gossip",
+    "meaning": {
+      "en": "Malicious gossip or rumours spread without evidence.",
+      "zh": "没有根据的传言，多指背后的议论。"
+    },
+    "equivalents": [
+      "gossip and rumours",
+      "malicious whispers"
+    ],
+    "examples": [
+      {
+        "zh": "办公室里有不少风言风语。",
+        "en": "There was plenty of gossip around the office."
+      },
+      {
+        "zh": "别理会那些风言风语。",
+        "en": "Ignore those malicious rumours."
+      }
+    ],
+    "usage": {
+      "en": "Noun; object or subject.",
+      "zh": "名词，多作主语、宾语。"
+    },
+    "synonyms": [
+      "流言蜚语",
+      "闲言碎语"
+    ],
+    "antonyms": [
+      "有口皆碑",
+      "实话实说"
+    ]
+  },
+  {
+    "id": "shi-nian-han-chuang",
+    "text": "十年寒窗",
+    "pinyin": "shí nián hán chuāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "academic-achievement"
+    ],
+    "literal": "ten · years · cold · window",
+    "natural": "years of hard study",
+    "meaning": {
+      "en": "Many years of diligent study in hard conditions.",
+      "zh": "形容多年刻苦读书。"
+    },
+    "equivalents": [
+      "years of hard study",
+      "burn the midnight oil for years"
+    ],
+    "examples": [
+      {
+        "zh": "十年寒窗，他终于考上了理想的大学。",
+        "en": "After years of hard study he finally got into his dream university."
+      },
+      {
+        "zh": "十年寒窗无人问，一举成名天下知。",
+        "en": "Ten years of study unnoticed, then one success and the world knows your name."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; the number is figurative.",
+      "zh": "可作定语、谓语，“十年”是概数。"
+    },
+    "synonyms": [
+      "悬梁刺股",
+      "埋头苦读"
+    ],
+    "antonyms": [
+      "不学无术",
+      "荒废学业"
+    ]
+  },
+  {
+    "id": "bu-fa-qi-ren",
+    "text": "不乏其人",
+    "pinyin": "bù fá qí rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "common-and-worthless"
+    ],
+    "literal": "not · lack · such · people",
+    "natural": "there are quite a few such people",
+    "meaning": {
+      "en": "There are quite a few people of that kind.",
+      "zh": "不缺少这样的人，指这样的人有不少。"
+    },
+    "equivalents": [
+      "not a few",
+      "there is no shortage of such people"
+    ],
+    "examples": [
+      {
+        "zh": "这个行业里，白手起家的人不乏其人。",
+        "en": "In this trade, self-made people are not rare."
+      },
+      {
+        "zh": "为理想辞职创业者不乏其人。",
+        "en": "Those who quit to pursue a dream are far from few."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal; follows a topic phrase.",
+      "zh": "多作谓语，较正式，前面常有话题。"
+    },
+    "synonyms": [
+      "大有人在",
+      "比比皆是"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "屈指可数"
+    ]
+  },
+  {
+    "id": "zi-zi-sun-sun",
+    "text": "子子孙孙",
+    "pinyin": "zǐ zǐ sūn sūn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "family-and-home"
+    ],
+    "literal": "sons · sons · grandsons · grandsons",
+    "natural": "generation after generation",
+    "meaning": {
+      "en": "All descendants, generation after generation.",
+      "zh": "一代又一代的后代。"
+    },
+    "equivalents": [
+      "posterity",
+      "generation after generation",
+      "all one's descendants"
+    ],
+    "examples": [
+      {
+        "zh": "这片林子要留给子子孙孙。",
+        "en": "This forest is to be left to our descendants."
+      },
+      {
+        "zh": "子子孙孙都要记住这段历史。",
+        "en": "Every generation to come must remember this history."
+      }
+    ],
+    "usage": {
+      "en": "Noun; often with 世世代代 or 永远.",
+      "zh": "名词，常与“世世代代”“永远”连用。"
+    },
+    "synonyms": [
+      "世世代代",
+      "后代子孙"
+    ],
+    "antonyms": [
+      "断子绝孙"
+    ]
+  },
+  {
+    "id": "xue-zhan-dao-di",
+    "text": "血战到底",
+    "pinyin": "xuè zhàn dào dǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "high-aspirations"
+    ],
+    "literal": "blood · fight · to · the end",
+    "natural": "fight to the finish",
+    "meaning": {
+      "en": "To fight fiercely until the very end without giving up.",
+      "zh": "拼死战斗，直到最后，决不退缩。"
+    },
+    "equivalents": [
+      "fight to the finish",
+      "fight to the last"
+    ],
+    "examples": [
+      {
+        "zh": "全体战士决心血战到底。",
+        "en": "All the soldiers resolved to fight to the last."
+      },
+      {
+        "zh": "面对强敌，他们血战到底，毫不退缩。",
+        "en": "Facing a strong enemy, they fought to the end without flinching."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; strong and heroic.",
+      "zh": "多作谓语，语气坚决悲壮。"
+    },
+    "synonyms": [
+      "背水一战",
+      "拼死一搏"
+    ],
+    "antonyms": [
+      "落荒而逃",
+      "望风而逃"
+    ]
+  },
+  {
+    "id": "weng-zhong-zhuo-bie",
+    "text": "瓮中捉鳖",
+    "pinyin": "wèng zhōng zhuō biē",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "jar · inside · catch · turtle",
+    "natural": "catch a turtle in a jar",
+    "meaning": {
+      "en": "To catch someone with no way to escape; a sure catch.",
+      "zh": "在坛子里抓甲鱼，比喻手到擒来，对象无法逃脱。"
+    },
+    "equivalents": [
+      "like shooting fish in a barrel",
+      "have someone cornered"
+    ],
+    "examples": [
+      {
+        "zh": "警方布下天罗地网，要来个瓮中捉鳖。",
+        "en": "The police laid a net to trap the suspect with no way out."
+      },
+      {
+        "zh": "对手已被围死，瓮中捉鳖只是时间问题。",
+        "en": "The opponent is encircled; catching them is only a matter of time."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 来个/要来个瓮中捉鳖.",
+      "zh": "多作谓语，常说“来个瓮中捉鳖”。"
+    },
+    "synonyms": [
+      "手到擒来",
+      "请君入瓮"
+    ],
+    "antonyms": [
+      "漏网之鱼",
+      "插翅难飞"
+    ]
+  },
+  {
+    "id": "shao-yan-gua-yu",
+    "text": "少言寡语",
+    "pinyin": "shǎo yán guǎ yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "solitude-and-isolation"
+    ],
+    "literal": "few · words · scant · speech",
+    "natural": "of few words",
+    "meaning": {
+      "en": "Speaking very little; taciturn.",
+      "zh": "话说得很少，不爱说话。"
+    },
+    "equivalents": [
+      "of few words",
+      "reticent"
+    ],
+    "examples": [
+      {
+        "zh": "他是个少言寡语的人。",
+        "en": "He is a man of few words."
+      },
+      {
+        "zh": "性格内向的她在人前总是少言寡语。",
+        "en": "Being introverted, she says little in front of others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "沉默寡言",
+      "惜字如金"
+    ],
+    "antonyms": [
+      "滔滔不绝",
+      "喋喋不休"
+    ]
+  },
+  {
+    "id": "zhan-wu-bu-sheng",
+    "text": "战无不胜",
+    "pinyin": "zhàn wú bù shèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "fight · none · not · win",
+    "natural": "invincible in battle",
+    "meaning": {
+      "en": "Victorious in every battle.",
+      "zh": "每战必胜，形容力量强大，所向无敌。"
+    },
+    "equivalents": [
+      "invincible",
+      "never defeated"
+    ],
+    "examples": [
+      {
+        "zh": "这支球队号称战无不胜。",
+        "en": "The team is said to be unbeatable."
+      },
+      {
+        "zh": "没有人是战无不胜的。",
+        "en": "Nobody is invincible."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often with 攻无不克.",
+      "zh": "多作谓语、定语，常与“攻无不克”连用。"
+    },
+    "synonyms": [
+      "所向披靡",
+      "攻无不克"
+    ],
+    "antonyms": [
+      "一败涂地",
+      "屡战屡败"
+    ]
+  },
+  {
+    "id": "bo-yun-jian-ri",
+    "text": "拨云见日",
+    "pinyin": "bō yún jiàn rì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "mental-clarity"
+    ],
+    "literal": "part · clouds · see · sun",
+    "natural": "clear the clouds and see the sun",
+    "meaning": {
+      "en": "To remove obstacles and see clearly; confusion gives way to clarity.",
+      "zh": "拨开乌云，看见太阳，比喻消除障碍，看清真相或重现光明。"
+    },
+    "equivalents": [
+      "the clouds part",
+      "see light at last",
+      "things become clear"
+    ],
+    "examples": [
+      {
+        "zh": "听了他的解释，我顿时有拨云见日之感。",
+        "en": "After his explanation I suddenly felt the clouds part."
+      },
+      {
+        "zh": "案件终于拨云见日，真相大白。",
+        "en": "The case finally cleared up and the truth came out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 有拨云见日之感.",
+      "zh": "多作谓语，常说“有拨云见日之感”。"
+    },
+    "synonyms": [
+      "云开见日",
+      "豁然开朗"
+    ],
+    "antonyms": [
+      "云山雾罩",
+      "迷离扑朔"
+    ]
+  },
+  {
+    "id": "xu-huang-yi-qiang",
+    "text": "虚晃一枪",
+    "pinyin": "xū huǎng yī qiāng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "military-strategy-and-victory"
+    ],
+    "literal": "feint · flash · one · spear",
+    "natural": "make a feint",
+    "meaning": {
+      "en": "To make a feint then slip away; to make a show of doing something without real commitment.",
+      "zh": "假装刺出一枪，然后撤退；比喻做个样子，不真干或趁机溜走。"
+    },
+    "equivalents": [
+      "make a feint",
+      "go through the motions"
+    ],
+    "examples": [
+      {
+        "zh": "他只是虚晃一枪，并没有真正反驳。",
+        "en": "He merely made a feint and did not truly rebut it."
+      },
+      {
+        "zh": "对方虚晃一枪就撤了，大家都被骗了。",
+        "en": "The other side feinted and withdrew, fooling everyone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial; often followed by 然后溜了.",
+      "zh": "多作谓语，口语。"
+    },
+    "synonyms": [
+      "声东击西",
+      "虚张声势"
+    ],
+    "antonyms": [
+      "全力以赴",
+      "真刀真枪"
+    ]
+  },
+  {
+    "id": "jing-shen-huan-fa",
+    "text": "精神焕发",
+    "pinyin": "jīng shén huàn fā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "joy-and-happiness"
+    ],
+    "literal": "spirit · radiate · glow · burst forth",
+    "natural": "full of vigour",
+    "meaning": {
+      "en": "Looking energetic and in high spirits.",
+      "zh": "精神饱满，神采奕奕。"
+    },
+    "equivalents": [
+      "bursting with energy",
+      "looking refreshed"
+    ],
+    "examples": [
+      {
+        "zh": "休假回来，他整个人精神焕发。",
+        "en": "Back from holiday, he looked full of energy."
+      },
+      {
+        "zh": "晨跑后，大家都精神焕发。",
+        "en": "After the morning run everyone was bright and lively."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also 容光焕发 for the face.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "神采奕奕",
+      "精神抖擞"
+    ],
+    "antonyms": [
+      "萎靡不振",
+      "无精打采"
+    ]
+  },
+  {
+    "id": "ru-lin-shen-yuan",
+    "text": "如临深渊",
+    "pinyin": "rú lín shēn yuān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "fear-and-cowardice",
+      "poems-prose"
+    ],
+    "literal": "as if · face · deep · abyss",
+    "natural": "as if on the edge of an abyss",
+    "meaning": {
+      "en": "To be extremely cautious and afraid, as if standing at the edge of a deep abyss.",
+      "zh": "好像站在深渊的边上，形容十分小心谨慎或处境危险。"
+    },
+    "equivalents": [
+      "as if on the brink of an abyss",
+      "tread with extreme caution"
+    ],
+    "examples": [
+      {
+        "zh": "在这样的高压下做决定，如临深渊。",
+        "en": "Deciding under such pressure feels like standing at the edge of an abyss."
+      },
+      {
+        "zh": "他对待这份合同如临深渊，反复检查。",
+        "en": "He treated the contract as if it were an abyss, checking it again and again."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·小雅·小旻》",
+      "story": {
+        "en": "The poem ends: 'Trembling, wary, as if facing a deep abyss, as if treading on thin ice' (战战兢兢，如临深渊，如履薄冰).",
+        "zh": "《诗经》：“战战兢兢，如临深渊，如履薄冰。”"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 如履薄冰.",
+      "zh": "常与“如履薄冰”连用。"
+    },
+    "synonyms": [
+      "如履薄冰",
+      "战战兢兢"
+    ],
+    "antonyms": [
+      "若无其事",
+      "满不在乎"
+    ]
+  },
+  {
+    "id": "huan-bing-zhi-ji",
+    "text": "缓兵之计",
+    "pinyin": "huǎn bīng zhī jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "time-management"
+    ],
+    "literal": "delay · troops · 's · plan",
+    "natural": "a stalling tactic",
+    "meaning": {
+      "en": "A tactic to delay the enemy or the other party and gain time.",
+      "zh": "设法拖延对方行动，以争取时间的计策。"
+    },
+    "equivalents": [
+      "a delaying tactic",
+      "a stalling ploy"
+    ],
+    "examples": [
+      {
+        "zh": "他答应下周再谈，不过是缓兵之计。",
+        "en": "His promise to talk next week is just a stalling tactic."
+      },
+      {
+        "zh": "对方使出缓兵之计，想等援军到来。",
+        "en": "The other side used a delaying tactic to await reinforcements."
+      }
+    ],
+    "usage": {
+      "en": "Noun; often 使出/用缓兵之计.",
+      "zh": "名词，常说“使出缓兵之计”。"
+    },
+    "synonyms": [
+      "权宜之计",
+      "拖延战术"
+    ],
+    "antonyms": [
+      "速战速决",
+      "一鼓作气"
+    ]
+  }
+]

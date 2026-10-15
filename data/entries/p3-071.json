@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "tou-ji-mo-gou",
+    "text": "偷鸡摸狗",
+    "pinyin": "tōu jī mō gǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "steal · chickens · filch · dogs",
+    "natural": "petty thieving and shady dealings",
+    "meaning": {
+      "en": "Petty theft; also sneaky, disreputable behaviour (including illicit affairs).",
+      "zh": "指偷东西的小偷小摸行为，也指不正当的男女关系或见不得人的勾当。"
+    },
+    "equivalents": [
+      "petty thieving",
+      "sneaky goings-on",
+      "shady dealings"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻时不学好，整天偷鸡摸狗。",
+        "en": "In his youth he went to the bad and spent his days pilfering."
+      },
+      {
+        "zh": "别跟那帮偷鸡摸狗的人来往。",
+        "en": "Don't mix with that crowd of petty crooks."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory, colloquial.",
+      "zh": "多作谓语，含贬义，口语。"
+    },
+    "synonyms": [
+      "鸡鸣狗盗",
+      "小偷小摸"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "堂堂正正"
+    ]
+  },
+  {
+    "id": "da-zhong-lian-chong-pang-zi",
+    "text": "打肿脸充胖子",
+    "pinyin": "dǎ zhǒng liǎn chōng pàng zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws"
+    ],
+    "literal": "slap · swollen · face · pass for · fat man",
+    "natural": "put on a show beyond one's means",
+    "meaning": {
+      "en": "To slap one's own face until it swells to pass for a plump man; to keep up appearances beyond one's means.",
+      "zh": "把脸打肿，冒充胖子；比喻为了面子硬撑，装出自己做不到的样子。"
+    },
+    "equivalents": [
+      "keep up appearances beyond one's means",
+      "put on a false show of wealth"
+    ],
+    "examples": [
+      {
+        "zh": "他没多少钱，还打肿脸充胖子请大家吃大餐。",
+        "en": "He hasn't much money, yet put on a show by treating everyone to a banquet."
+      },
+      {
+        "zh": "量力而行，别打肿脸充胖子。",
+        "en": "Live within your means; don't put on a show."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; colloquial, often as advice.",
+      "zh": "多作谓语，口语，常用于劝告。"
+    },
+    "synonyms": [
+      "死要面子",
+      "装腔作势"
+    ],
+    "antonyms": [
+      "实事求是",
+      "量力而行"
+    ]
+  },
+  {
+    "id": "yi-ye-zhang-mu",
+    "text": "一叶障目",
+    "pinyin": "yī yè zhàng mù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "confusion-and-doubt"
+    ],
+    "literal": "one · leaf · block · eye",
+    "natural": "fail to see the wood for the trees",
+    "meaning": {
+      "en": "Blocked from seeing the big picture by a trivial thing in front of one.",
+      "zh": "一片树叶挡住了眼睛，就看不见泰山；比喻被局部或暂时的现象所蒙蔽，看不到全局。"
+    },
+    "equivalents": [
+      "can't see the wood for the trees",
+      "blinded by a small detail"
+    ],
+    "examples": [
+      {
+        "zh": "不要因为一次失败就一叶障目，否定全部努力。",
+        "en": "Don't be blinded by one failure into dismissing all your effort."
+      },
+      {
+        "zh": "看问题要全面，免得一叶障目。",
+        "en": "Look at problems from all angles, so as not to miss the bigger picture."
+      }
+    ],
+    "origin": {
+      "source": "《鹖冠子·天则》",
+      "story": {
+        "en": "From the Heguanzi: 'A leaf before the eyes hides Mount Tai' (一叶蔽目，不见泰山).",
+        "zh": "《鹖冠子》：“一叶蔽目，不见泰山。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 一叶障目，不见泰山.",
+      "zh": "多作谓语，常说“一叶障目，不见泰山”。"
+    },
+    "synonyms": [
+      "管中窥豹",
+      "坐井观天"
+    ],
+    "antonyms": [
+      "高瞻远瞩",
+      "洞察全局"
+    ]
+  },
+  {
+    "id": "yu-ru-yu-cheng",
+    "text": "玉汝于成",
+    "pinyin": "yù rǔ yú chéng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "success",
+      "poverty-and-hardship"
+    ],
+    "literal": "polish like jade · you · into · success",
+    "natural": "hardship shapes you for success",
+    "meaning": {
+      "en": "Hardship polishes a person as jade is polished, helping them succeed.",
+      "zh": "像琢磨玉石一样，使你成材；指通过艰难困苦的磨炼而获得成功。"
+    },
+    "equivalents": [
+      "adversity makes the person",
+      "hardship is the whetstone of success"
+    ],
+    "examples": [
+      {
+        "zh": "人生的磨难，正是玉汝于成的过程。",
+        "en": "The trials of life are precisely the process by which one is made."
+      },
+      {
+        "zh": "他相信艰苦的环境会玉汝于成。",
+        "en": "He believed that a hard environment would shape him for success."
+      }
+    ],
+    "origin": {
+      "source": "张载《西铭》",
+      "story": {
+        "en": "Zhang Zai's 'Western Inscription': 'Poverty and sorrow are what will polish you into success' (贫贱忧戚，庸玉汝于成也).",
+        "zh": "张载《西铭》：“富贵福泽，将厚吾之生也；贫贱忧戚，庸玉汝于成也。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; often in encouragement.",
+      "zh": "书面语，常用于勉励。"
+    },
+    "synonyms": [
+      "百炼成钢",
+      "艰难玉成"
+    ],
+    "antonyms": [
+      "半途而废",
+      "一蹶不振"
+    ]
+  },
+  {
+    "id": "jie-ran-yi-shen",
+    "text": "孑然一身",
+    "pinyin": "jié rán yī shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "solitude-and-isolation"
+    ],
+    "literal": "solitary · -ly · one · body",
+    "natural": "all alone in the world",
+    "meaning": {
+      "en": "Completely alone, with no family or companions.",
+      "zh": "孤单一个人，没有亲人伴侣。"
+    },
+    "equivalents": [
+      "all alone in the world",
+      "alone and friendless"
+    ],
+    "examples": [
+      {
+        "zh": "他孑然一身，漂泊异乡多年。",
+        "en": "Alone in the world, he drifted in a foreign land for years."
+      },
+      {
+        "zh": "老人孑然一身，靠邻居照顾。",
+        "en": "The old man is on his own and relies on neighbours."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "孤身一人",
+      "形单影只"
+    ],
+    "antonyms": [
+      "儿孙满堂",
+      "前呼后拥"
+    ]
+  },
+  {
+    "id": "yi-pin-yi-xiao",
+    "text": "一颦一笑",
+    "pinyin": "yī pín yī xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "love-and-marriage"
+    ],
+    "literal": "one · frown · one · smile",
+    "natural": "every frown and smile",
+    "meaning": {
+      "en": "Every frown and smile; every little expression.",
+      "zh": "一皱眉，一微笑，指人的每一个细微的表情。"
+    },
+    "equivalents": [
+      "every little expression",
+      "each smile and frown"
+    ],
+    "examples": [
+      {
+        "zh": "她的一颦一笑都牵动着他的心。",
+        "en": "Her every smile and frown tugged at his heart."
+      },
+      {
+        "zh": "演员的一颦一笑都十分传神。",
+        "en": "Every expression of the actor was vivid and expressive."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; literary.",
+      "zh": "多作主语、宾语，书面语。"
+    },
+    "synonyms": [
+      "一言一行",
+      "举手投足"
+    ],
+    "antonyms": [
+      "面无表情"
+    ]
+  },
+  {
+    "id": "zhi-zhi-du-wai",
+    "text": "置之度外",
+    "pinyin": "zhì zhī dù wài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "danger"
+    ],
+    "literal": "put · it · beyond · consideration",
+    "natural": "disregard completely",
+    "meaning": {
+      "en": "To disregard something entirely, especially one's own safety or interests.",
+      "zh": "不把它放在考虑之中，多指不顾个人生死利害。"
+    },
+    "equivalents": [
+      "disregard completely",
+      "think nothing of it"
+    ],
+    "examples": [
+      {
+        "zh": "消防员把个人安危置之度外，冲进火场。",
+        "en": "The firefighters disregarded their own safety and rushed into the fire."
+      },
+      {
+        "zh": "他把得失置之度外，一心做研究。",
+        "en": "Putting gain and loss aside, he devoted himself to research."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 把……置之度外.",
+      "zh": "多作谓语，常说“把……置之度外”。"
+    },
+    "synonyms": [
+      "不顾一切",
+      "视死如归"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "斤斤计较"
+    ]
+  },
+  {
+    "id": "bu-bai-zhi-yuan",
+    "text": "不白之冤",
+    "pinyin": "bù bái zhī yuān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice"
+    ],
+    "literal": "not · cleared · 's · injustice",
+    "natural": "an injustice that remains uncleared",
+    "meaning": {
+      "en": "A grievance or false charge that has not been cleared.",
+      "zh": "没有得到洗清的冤屈。"
+    },
+    "equivalents": [
+      "an uncleared false accusation",
+      "a wrong left unrighted"
+    ],
+    "examples": [
+      {
+        "zh": "经过多年申诉，他终于洗清了不白之冤。",
+        "en": "After years of appeals he finally cleared his name."
+      },
+      {
+        "zh": "她含着不白之冤离开了公司。",
+        "en": "She left the company under an unjust cloud."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 蒙受/洗清不白之冤.",
+      "zh": "多作宾语，常说“蒙受/洗清不白之冤”。"
+    },
+    "synonyms": [
+      "沉冤莫白",
+      "蒙冤受屈"
+    ],
+    "antonyms": [
+      "沉冤昭雪",
+      "水落石出"
+    ]
+  },
+  {
+    "id": "dan-xiao-pa-shi",
+    "text": "胆小怕事",
+    "pinyin": "dǎn xiǎo pà shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "gall · small · fear · trouble",
+    "natural": "timid and afraid of trouble",
+    "meaning": {
+      "en": "Timid and afraid of getting into trouble.",
+      "zh": "胆子小，遇事害怕，不敢担当。"
+    },
+    "equivalents": [
+      "timid and risk-averse",
+      "afraid of one's own shadow"
+    ],
+    "examples": [
+      {
+        "zh": "他胆小怕事，从不敢提意见。",
+        "en": "He's timid and never dares to voice an opinion."
+      },
+      {
+        "zh": "遇到这种事不能胆小怕事。",
+        "en": "Don't be a coward when something like this happens."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "胆小如鼠",
+      "畏首畏尾"
+    ],
+    "antonyms": [
+      "胆大包天",
+      "勇敢无畏"
+    ]
+  },
+  {
+    "id": "tu-gu-na-xin",
+    "text": "吐故纳新",
+    "pinyin": "tǔ gù nà xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "innovation-and-progress",
+      "change",
+      "daoist-classics"
+    ],
+    "literal": "expel · the old · take in · the new",
+    "natural": "shed the old and take in the new",
+    "meaning": {
+      "en": "To get rid of the stale and absorb the fresh.",
+      "zh": "吐出浊气，吸进新鲜空气；比喻扬弃旧的、吸收新的。"
+    },
+    "equivalents": [
+      "shed the old, take in the new",
+      "renew oneself"
+    ],
+    "examples": [
+      {
+        "zh": "一个健康的组织需要不断吐故纳新。",
+        "en": "A healthy organisation needs to keep renewing itself."
+      },
+      {
+        "zh": "人体新陈代谢，吐故纳新。",
+        "en": "The body metabolises, expelling the old and taking in the new."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·刻意》",
+      "story": {
+        "en": "Zhuangzi: breathing exercises of 'exhaling the old and inhaling the new' (吹呴呼吸，吐故纳新) as practised by those who nurture the body.",
+        "zh": "《庄子》：“吹呴呼吸，吐故纳新，熊经鸟申，为寿而已矣。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "推陈出新",
+      "除旧布新"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "因循守旧"
+    ]
+  },
+  {
+    "id": "jin-tong-yu-nu",
+    "text": "金童玉女",
+    "pinyin": "jīn tóng yù nǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "myths-legends"
+    ],
+    "literal": "golden · boy · jade · girl",
+    "natural": "a golden couple",
+    "meaning": {
+      "en": "Attendants of the immortals in legend; now an attractive young pair.",
+      "zh": "原指道教中侍奉仙人的童男童女，现多比喻天真可爱的青年男女。"
+    },
+    "equivalents": [
+      "a golden couple",
+      "an attractive young pair"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼上这对新人如同金童玉女。",
+        "en": "The couple at the wedding looked like a perfect pair."
+      },
+      {
+        "zh": "画上的金童玉女栩栩如生。",
+        "en": "The golden boy and jade girl in the painting looked lifelike."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "天生一对",
+      "郎才女貌"
+    ],
+    "antonyms": [
+      "怨偶"
+    ]
+  },
+  {
+    "id": "zhao-xian-na-shi",
+    "text": "招贤纳士",
+    "pinyin": "zhāo xián nà shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "leadership-and-authority"
+    ],
+    "literal": "summon · the worthy · receive · scholars",
+    "natural": "recruit talent",
+    "meaning": {
+      "en": "To seek out and welcome able and virtuous people.",
+      "zh": "招揽、接纳有才能的人。"
+    },
+    "equivalents": [
+      "recruit talented people",
+      "seek out talent"
+    ],
+    "examples": [
+      {
+        "zh": "公司正在大力招贤纳士。",
+        "en": "The company is recruiting talent in earnest."
+      },
+      {
+        "zh": "历代明君都重视招贤纳士。",
+        "en": "Wise rulers through the ages valued attracting talented people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "礼贤下士",
+      "求贤若渴"
+    ],
+    "antonyms": [
+      "排斥贤才",
+      "嫉贤妒能"
+    ]
+  },
+  {
+    "id": "chu-yu-ni-er-bu-ran",
+    "text": "出淤泥而不染",
+    "pinyin": "chū yū ní ér bù rǎn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "poems-prose"
+    ],
+    "literal": "emerge from · mud · yet · not · stained",
+    "natural": "rise from the mud unstained",
+    "meaning": {
+      "en": "To stay unspoiled even when surrounded by corruption.",
+      "zh": "从污泥中长出却不被污染；比喻身处污浊环境而保持清白。"
+    },
+    "equivalents": [
+      "rise unstained from the mud",
+      "remain pure in a corrupt environment"
+    ],
+    "examples": [
+      {
+        "zh": "他在复杂的环境中出淤泥而不染，始终清廉。",
+        "en": "In a complicated environment he stayed pure, always incorruptible."
+      },
+      {
+        "zh": "莲花出淤泥而不染，是君子的象征。",
+        "en": "The lotus rises from the mud unstained, a symbol of the gentleman."
+      }
+    ],
+    "origin": {
+      "source": "周敦颐《爱莲说》",
+      "story": {
+        "en": "Zhou Dunyi's essay 'On Loving the Lotus' praises the lotus: 'It grows from the mud yet is unstained, and is washed by clear ripples yet not showy.'",
+        "zh": "周敦颐《爱莲说》：“予独爱莲之出淤泥而不染，濯清涟而不妖。”"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 濯清涟而不妖.",
+      "zh": "常与“濯清涟而不妖”连用。"
+    },
+    "synonyms": [
+      "洁身自好",
+      "一尘不染"
+    ],
+    "antonyms": [
+      "同流合污",
+      "近墨者黑"
+    ]
+  },
+  {
+    "id": "sang-quan-ru-guo",
+    "text": "丧权辱国",
+    "pinyin": "sàng quán rǔ guó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "defeat-and-military-failure",
+      "corruption-and-injustice"
+    ],
+    "literal": "lose · sovereignty · disgrace · nation",
+    "natural": "sell out the nation's sovereignty",
+    "meaning": {
+      "en": "To surrender national rights and bring disgrace on the country.",
+      "zh": "丧失国家的主权，使国家蒙受耻辱。"
+    },
+    "equivalents": [
+      "sacrifice national sovereignty",
+      "bring shame on the nation"
+    ],
+    "examples": [
+      {
+        "zh": "清政府签订了许多丧权辱国的条约。",
+        "en": "The Qing government signed many treaties that sacrificed the country's sovereignty."
+      },
+      {
+        "zh": "他们反对任何丧权辱国的协议。",
+        "en": "They oppose any agreement that humiliates the nation."
+      }
+    ],
+    "usage": {
+      "en": "Usually attributive: 丧权辱国的条约.",
+      "zh": "多作定语，如“丧权辱国的条约”。"
+    },
+    "synonyms": [
+      "卖国求荣",
+      "割地求和"
+    ],
+    "antonyms": [
+      "扬眉吐气",
+      "保家卫国"
+    ]
+  },
+  {
+    "id": "yan-bu-you-zhong",
+    "text": "言不由衷",
+    "pinyin": "yán bù yóu zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "words · not · from · heart",
+    "natural": "not mean what one says",
+    "meaning": {
+      "en": "Saying something that does not come from the heart.",
+      "zh": "说的话不是发自内心的。"
+    },
+    "equivalents": [
+      "not meaning what one says",
+      "insincere"
+    ],
+    "examples": [
+      {
+        "zh": "他嘴上道歉，却显得言不由衷。",
+        "en": "He apologised but seemed insincere."
+      },
+      {
+        "zh": "这些客套话听起来言不由衷。",
+        "en": "Those polite phrases sounded hollow."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "口是心非",
+      "违心之论"
+    ],
+    "antonyms": [
+      "言由衷发",
+      "肺腑之言"
+    ]
+  },
+  {
+    "id": "po-ti-wei-xiao",
+    "text": "破涕为笑",
+    "pinyin": "pò tì wéi xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "break · tears · become · laughter",
+    "natural": "stop crying and smile",
+    "meaning": {
+      "en": "To stop crying and break into a smile.",
+      "zh": "止住眼泪，露出笑容，形容转悲为喜。"
+    },
+    "equivalents": [
+      "break into a smile through one's tears",
+      "go from tears to smiles"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈给她买了新玩具，她立刻破涕为笑。",
+        "en": "Mum bought her a new toy and she smiled through her tears at once."
+      },
+      {
+        "zh": "听到好消息，他破涕为笑。",
+        "en": "On hearing the good news, he stopped crying and smiled."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "转悲为喜",
+      "喜出望外"
+    ],
+    "antonyms": [
+      "喜极而泣",
+      "泪流满面"
+    ]
+  },
+  {
+    "id": "dao-mao-an-ran",
+    "text": "道貌岸然",
+    "pinyin": "dào mào àn rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "dignified · appearance · solemn · -ly",
+    "natural": "sanctimonious",
+    "meaning": {
+      "en": "Looking solemn and righteous, but usually hypocritical.",
+      "zh": "神态庄严的样子，现多讽刺假装正经的人。"
+    },
+    "equivalents": [
+      "sanctimonious",
+      "pious-looking but hypocritical"
+    ],
+    "examples": [
+      {
+        "zh": "那个道貌岸然的官员，背地里却贪污受贿。",
+        "en": "That sanctimonious official was secretly taking bribes."
+      },
+      {
+        "zh": "他表面道貌岸然，私下里却不是这样。",
+        "en": "He looks dignified, but in private he's quite different."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; derogatory.",
+      "zh": "多作定语、谓语，含贬义。"
+    },
+    "synonyms": [
+      "假正经",
+      "伪君子"
+    ],
+    "antonyms": [
+      "表里如一",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "bi-kong-ru-xi",
+    "text": "碧空如洗",
+    "pinyin": "bì kōng rú xǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "seasonal-changes"
+    ],
+    "literal": "blue · sky · as if · washed",
+    "natural": "a sky washed clean",
+    "meaning": {
+      "en": "A deep blue sky as clean as if it had been washed.",
+      "zh": "碧蓝的天空像洗过一样干净。"
+    },
+    "equivalents": [
+      "a sky washed clean",
+      "cloudless blue sky"
+    ],
+    "examples": [
+      {
+        "zh": "雨后初晴，碧空如洗。",
+        "en": "After the rain it cleared, and the sky was washed clean."
+      },
+      {
+        "zh": "秋日的天空碧空如洗，一朵云也没有。",
+        "en": "The autumn sky was washed clean, without a single cloud."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; descriptive.",
+      "zh": "多作谓语，用于写景。"
+    },
+    "synonyms": [
+      "万里无云",
+      "晴空万里"
+    ],
+    "antonyms": [
+      "阴云密布",
+      "乌云压顶"
+    ]
+  },
+  {
+    "id": "liu-an-hua-ming-you-yi-cun",
+    "text": "柳暗花明又一村",
+    "pinyin": "liǔ àn huā míng yòu yī cūn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "comebacks-and-renewal",
+      "poems-prose"
+    ],
+    "literal": "willows · dark · flowers · bright · another · village",
+    "natural": "hope after the dead end",
+    "meaning": {
+      "en": "Just when the way seems blocked, a new prospect opens up.",
+      "zh": "在柳树浓密、花朵明艳处又出现一个村庄；比喻在困境中突然出现转机。"
+    },
+    "equivalents": [
+      "when one door closes another opens",
+      "a way out appears at the darkest hour"
+    ],
+    "examples": [
+      {
+        "zh": "山重水复疑无路，柳暗花明又一村，转机终于出现了。",
+        "en": "Just when it seemed there was no way out, a new path opened up."
+      },
+      {
+        "zh": "别灰心，说不定柳暗花明又一村。",
+        "en": "Don't lose heart; perhaps another opening lies ahead."
+      }
+    ],
+    "origin": {
+      "source": "陆游《游山西村》",
+      "story": {
+        "en": "Lu You's poem 'Visiting a Village West of the Mountain': 'Mountains and rivers wind until the way seems lost; amid dark willows and bright flowers, another village appears.'",
+        "zh": "陆游《游山西村》：“山重水复疑无路，柳暗花明又一村。”"
+      }
+    },
+    "usage": {
+      "en": "Often with 山重水复疑无路.",
+      "zh": "常与“山重水复疑无路”连用。"
+    },
+    "synonyms": [
+      "绝处逢生",
+      "峰回路转"
+    ],
+    "antonyms": [
+      "走投无路",
+      "山穷水尽"
+    ]
+  },
+  {
+    "id": "jiao-she-yin-yi",
+    "text": "骄奢淫逸",
+    "pinyin": "jiāo shē yín yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "luxury-and-extravagance",
+      "negative-character-flaws"
+    ],
+    "literal": "arrogant · extravagant · licentious · idle",
+    "natural": "arrogant, extravagant and dissolute",
+    "meaning": {
+      "en": "Arrogant, extravagant and dissolute in lifestyle.",
+      "zh": "骄横奢侈，荒淫放纵。"
+    },
+    "equivalents": [
+      "arrogant and dissolute",
+      "lead a life of decadence"
+    ],
+    "examples": [
+      {
+        "zh": "那些骄奢淫逸的贵族终于被推翻了。",
+        "en": "The decadent aristocrats were finally overthrown."
+      },
+      {
+        "zh": "骄奢淫逸是亡国的先兆。",
+        "en": "Extravagance and dissipation presage a nation's fall."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "穷奢极欲",
+      "醉生梦死"
+    ],
+    "antonyms": [
+      "勤俭节约",
+      "艰苦朴素"
+    ]
+  },
+  {
+    "id": "zhong-zhen-bu-yu",
+    "text": "忠贞不渝",
+    "pinyin": "zhōng zhēn bù yú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "love-and-marriage"
+    ],
+    "literal": "loyal · steadfast · not · change",
+    "natural": "unswervingly faithful",
+    "meaning": {
+      "en": "Loyal and steadfast, never changing.",
+      "zh": "忠诚坚定，始终不变。"
+    },
+    "equivalents": [
+      "unswervingly faithful",
+      "steadfast in loyalty"
+    ],
+    "examples": [
+      {
+        "zh": "他们的爱情忠贞不渝。",
+        "en": "Their love is unswervingly faithful."
+      },
+      {
+        "zh": "战士对祖国忠贞不渝。",
+        "en": "The soldier is steadfastly loyal to the motherland."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "矢志不渝",
+      "始终如一"
+    ],
+    "antonyms": [
+      "见异思迁",
+      "朝三暮四"
+    ]
+  },
+  {
+    "id": "xin-ci-shou-ruan",
+    "text": "心慈手软",
+    "pinyin": "xīn cí shǒu ruǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "心慈面软"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "heart · kind · hands · soft",
+    "natural": "too soft-hearted to act firmly",
+    "meaning": {
+      "en": "Kind-hearted and therefore unable to be firm or harsh.",
+      "zh": "心肠慈善，下不了狠手；多指对该严厉处理的事不忍心。"
+    },
+    "equivalents": [
+      "too soft-hearted",
+      "unable to be tough"
+    ],
+    "examples": [
+      {
+        "zh": "对违纪的人不能心慈手软。",
+        "en": "One mustn't go soft on those who break discipline."
+      },
+      {
+        "zh": "她心慈手软，不忍心责骂孩子。",
+        "en": "She's too soft-hearted to scold the child."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often negated 不能心慈手软.",
+      "zh": "多作谓语，常说“不能心慈手软”。"
+    },
+    "synonyms": [
+      "于心不忍",
+      "妇人之仁"
+    ],
+    "antonyms": [
+      "心狠手辣",
+      "铁面无私"
+    ]
+  },
+  {
+    "id": "ming-man-tian-xia",
+    "text": "名满天下",
+    "pinyin": "míng mǎn tiān xià",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "name · fill · the world · below",
+    "natural": "known throughout the world",
+    "meaning": {
+      "en": "Famous everywhere.",
+      "zh": "名声传遍天下，非常有名。"
+    },
+    "equivalents": [
+      "world-famous",
+      "a household name"
+    ],
+    "examples": [
+      {
+        "zh": "这位大师名满天下，弟子遍及各地。",
+        "en": "The master is famous everywhere, with pupils across the land."
+      },
+      {
+        "zh": "他靠一部小说名满天下。",
+        "en": "One novel made his name known everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "闻名天下",
+      "举世闻名"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "籍籍无名"
+    ]
+  },
+  {
+    "id": "ju-ti-er-wei",
+    "text": "具体而微",
+    "pinyin": "jù tǐ ér wēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements"
+    ],
+    "literal": "complete · body · yet · tiny",
+    "natural": "a miniature version",
+    "meaning": {
+      "en": "Having all the main features, but on a small scale.",
+      "zh": "内容大体具备，只是规模或形状较小。"
+    },
+    "equivalents": [
+      "a miniature version",
+      "complete in miniature"
+    ],
+    "examples": [
+      {
+        "zh": "这个园林具体而微，湖山亭阁一应俱全。",
+        "en": "The garden is a miniature version with lake, hill and pavilions all present."
+      },
+      {
+        "zh": "沙盘上的城市具体而微。",
+        "en": "The city on the sand table is a complete model in miniature."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; formal.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "麻雀虽小五脏俱全",
+      "小巧玲珑"
+    ],
+    "antonyms": [
+      "规模宏大",
+      "庞然大物"
+    ]
+  }
+]

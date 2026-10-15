@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "qian-ren-yi-mian",
+    "text": "千人一面",
+    "pinyin": "qiān rén yī miàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "artistic-mediocrity",
+      "conformity-and-imitation"
+    ],
+    "literal": "thousand · people · one · face",
+    "natural": "all alike",
+    "meaning": {
+      "en": "Everything looking the same, with no individuality.",
+      "zh": "一千个人只有一副面孔，比喻千篇一律，缺乏个性。"
+    },
+    "equivalents": [
+      "all cut from the same cloth",
+      "cookie-cutter"
+    ],
+    "examples": [
+      {
+        "zh": "这些影视剧人物千人一面，毫无新意。",
+        "en": "The characters in these dramas are all alike, with nothing new."
+      },
+      {
+        "zh": "新建的小区千人一面，缺少特色。",
+        "en": "The new housing estates all look the same, lacking character."
+      }
+    ],
+    "usage": {
+      "en": "Usually of art, design or cities.",
+      "zh": "多用于文艺作品、设计、城市等。"
+    },
+    "synonyms": [
+      "千篇一律",
+      "如出一辙"
+    ],
+    "antonyms": [
+      "别具一格",
+      "独具匠心"
+    ]
+  },
+  {
+    "id": "diao-bing-qian-jiang",
+    "text": "调兵遣将",
+    "pinyin": "diào bīng qiǎn jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "leadership-and-authority"
+    ],
+    "literal": "deploy · troops · dispatch · generals",
+    "natural": "deploy forces",
+    "meaning": {
+      "en": "To deploy troops and assign commanders; also to marshal people for a task.",
+      "zh": "调动、派遣军队；也比喻调配人力。"
+    },
+    "equivalents": [
+      "deploy forces",
+      "marshal one's people"
+    ],
+    "examples": [
+      {
+        "zh": "总指挥正在调兵遣将，准备迎战。",
+        "en": "The commander is deploying his forces for battle."
+      },
+      {
+        "zh": "公司为这个项目调兵遣将，集中了最强的团队。",
+        "en": "The company marshalled its strongest team for the project."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "排兵布阵",
+      "调遣人马"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "偃旗息鼓"
+    ]
+  },
+  {
+    "id": "qian-yan-bu-da-hou-yu",
+    "text": "前言不搭后语",
+    "pinyin": "qián yán bù dā hòu yǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "前言不对后语"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "confusion"
+    ],
+    "literal": "front · words · not · join · back · speech",
+    "natural": "incoherent",
+    "meaning": {
+      "en": "Speaking incoherently, with no link between one part and the next.",
+      "zh": "说话前后不连贯，缺乏条理。"
+    },
+    "equivalents": [
+      "talk incoherently",
+      "ramble"
+    ],
+    "examples": [
+      {
+        "zh": "他喝醉了，说话前言不搭后语。",
+        "en": "He was drunk and spoke incoherently."
+      },
+      {
+        "zh": "她紧张得前言不搭后语。",
+        "en": "She was so nervous that her words made no sense together."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also written 前言不对后语.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "语无伦次",
+      "颠三倒四"
+    ],
+    "antonyms": [
+      "条理清晰",
+      "有条不紊"
+    ]
+  },
+  {
+    "id": "shu-yu-jing-er-feng-bu-zhi",
+    "text": "树欲静而风不止",
+    "pinyin": "shù yù jìng ér fēng bù zhǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "parenting-and-family",
+      "confucian-classics"
+    ],
+    "literal": "tree · wants · calm · but · wind · not · stop",
+    "natural": "the tree wants calm but the wind won't stop",
+    "meaning": {
+      "en": "Often followed by 'but children's wish to care for parents cannot wait'; one's wish for peace is thwarted by forces beyond control, and filial duty should not be delayed.",
+      "zh": "常与“子欲养而亲不待”连用，比喻事情不以人的意志为转移，也劝人及时尽孝。"
+    },
+    "equivalents": [
+      "the tree would be still but the wind will not stop",
+      "do not delay filial duty"
+    ],
+    "examples": [
+      {
+        "zh": "树欲静而风不止，子欲养而亲不待，我们要趁早孝敬父母。",
+        "en": "The tree longs for calm but the wind won't stop; show your parents devotion while you can."
+      },
+      {
+        "zh": "他想平静地生活，可树欲静而风不止。",
+        "en": "He wanted a quiet life, but the winds of trouble wouldn't stop."
+      }
+    ],
+    "origin": {
+      "source": "《韩诗外传》",
+      "story": {
+        "en": "Gao Yu the Tall lamented: 'The tree wants to be still but the wind will not stop; the son wants to care for his parents but they are no longer there' (树欲静而风不止，子欲养而亲不待).",
+        "zh": "《韩诗外传》：“树欲静而风不止，子欲养而亲不待也。”"
+      }
+    },
+    "usage": {
+      "en": "Often cited with 子欲养而亲不待.",
+      "zh": "常与“子欲养而亲不待”连用。"
+    },
+    "synonyms": [
+      "子欲养而亲不待",
+      "身不由己"
+    ],
+    "antonyms": [
+      "随心所欲"
+    ]
+  },
+  {
+    "id": "da-ji-da-li",
+    "text": "大吉大利",
+    "pinyin": "dà jí dà lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "very · lucky · very · profitable",
+    "natural": "good luck and fortune",
+    "meaning": {
+      "en": "Very lucky and profitable.",
+      "zh": "非常吉祥顺利。"
+    },
+    "equivalents": [
+      "good luck and prosperity",
+      "all the best"
+    ],
+    "examples": [
+      {
+        "zh": "新店开张，大吉大利！",
+        "en": "The new shop opens: may it prosper!"
+      },
+      {
+        "zh": "祝你今年事事大吉大利。",
+        "en": "Wishing you good fortune in everything this year."
+      }
+    ],
+    "usage": {
+      "en": "Auspicious wish.",
+      "zh": "吉祥语。"
+    },
+    "synonyms": [
+      "吉星高照",
+      "万事大吉"
+    ],
+    "antonyms": [
+      "诸事不顺",
+      "凶多吉少"
+    ]
+  },
+  {
+    "id": "zhun-zhun-gao-jie",
+    "text": "谆谆告诫",
+    "pinyin": "zhūn zhūn gào jiè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods",
+      "parenting-and-family"
+    ],
+    "literal": "earnestly · earnestly · tell · warn",
+    "natural": "earnestly warn",
+    "meaning": {
+      "en": "To advise and warn with earnest, patient sincerity.",
+      "zh": "恳切耐心地劝告、告诫。"
+    },
+    "equivalents": [
+      "earnestly warn",
+      "patiently counsel"
+    ],
+    "examples": [
+      {
+        "zh": "老师对学生谆谆告诫，要诚实做人。",
+        "en": "The teacher earnestly urged the students to be honest."
+      },
+      {
+        "zh": "父亲的谆谆告诫，他一直记在心里。",
+        "en": "He has always remembered his father's earnest warnings."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or noun.",
+      "zh": "多作谓语或名词。"
+    },
+    "synonyms": [
+      "苦口婆心",
+      "谆谆教诲"
+    ],
+    "antonyms": [
+      "置若罔闻",
+      "耳旁风"
+    ]
+  },
+  {
+    "id": "chang-sheng-bu-lao",
+    "text": "长生不老",
+    "pinyin": "cháng shēng bù lǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "myths-legends",
+      "daoist-classics"
+    ],
+    "literal": "long · live · not · age",
+    "natural": "eternal youth",
+    "meaning": {
+      "en": "To live forever without growing old.",
+      "zh": "永远活着，不会衰老。"
+    },
+    "equivalents": [
+      "eternal life",
+      "immortality"
+    ],
+    "examples": [
+      {
+        "zh": "秦始皇一心想要长生不老。",
+        "en": "The First Emperor of Qin longed for immortality."
+      },
+      {
+        "zh": "世上没有长生不老的药。",
+        "en": "There is no elixir of eternal life in this world."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object.",
+      "zh": "多作定语、宾语。"
+    },
+    "synonyms": [
+      "万寿无疆",
+      "长命百岁"
+    ],
+    "antonyms": [
+      "朝生暮死",
+      "寿终正寝"
+    ]
+  },
+  {
+    "id": "wu-jian-bu-cui",
+    "text": "无坚不摧",
+    "pinyin": "wú jiān bù cuī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "military-strategy-and-victory"
+    ],
+    "literal": "no · firm thing · not · smashed",
+    "natural": "able to smash anything",
+    "meaning": {
+      "en": "Strong enough to crush any obstacle.",
+      "zh": "没有攻不破的坚固事物，形容力量强大。"
+    },
+    "equivalents": [
+      "invincible",
+      "able to crush any obstacle"
+    ],
+    "examples": [
+      {
+        "zh": "这支军队被誉为无坚不摧。",
+        "en": "The army was known as invincible."
+      },
+      {
+        "zh": "团结起来，就有无坚不摧的力量。",
+        "en": "United, we have a force that can smash any obstacle."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "所向披靡",
+      "攻无不克"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "弱不禁风"
+    ]
+  },
+  {
+    "id": "mei-kai-yan-xiao",
+    "text": "眉开眼笑",
+    "pinyin": "méi kāi yǎn xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "eyebrows · open · eyes · smile",
+    "natural": "beaming with joy",
+    "meaning": {
+      "en": "Face lit up with delight.",
+      "zh": "眉头舒展，眼含笑意，形容非常高兴。"
+    },
+    "equivalents": [
+      "beaming with joy",
+      "all smiles"
+    ],
+    "examples": [
+      {
+        "zh": "拿到奖状，孩子笑得眉开眼笑。",
+        "en": "Getting the certificate, the child was beaming."
+      },
+      {
+        "zh": "听到好消息，他眉开眼笑。",
+        "en": "He was all smiles at the good news."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "喜笑颜开",
+      "笑逐颜开"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "眉头紧锁"
+    ]
+  },
+  {
+    "id": "huo-shu-yin-hua",
+    "text": "火树银花",
+    "pinyin": "huǒ shù yín huā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festivals-and-celebrations",
+      "poems-prose"
+    ],
+    "literal": "fire · trees · silver · flowers",
+    "natural": "dazzling lights",
+    "meaning": {
+      "en": "Trees of fire and flowers of silver: dazzling festival lights or fireworks.",
+      "zh": "树上挂满灯火，花朵银白，形容灿烂的灯火或焰火。"
+    },
+    "equivalents": [
+      "dazzling festival lights",
+      "a blaze of fireworks"
+    ],
+    "examples": [
+      {
+        "zh": "元宵节夜晚，街头火树银花。",
+        "en": "On the night of the Lantern Festival, the streets blazed with lights."
+      },
+      {
+        "zh": "烟花绽放，天空火树银花。",
+        "en": "Fireworks burst, turning the sky into a blaze of light."
+      }
+    ],
+    "origin": {
+      "source": "苏味道《正月十五夜》",
+      "story": {
+        "en": "Su Weidao's poem on the fifteenth night of the first month: 'Fire trees and silver flowers join, the star-bridge's gates are open' (火树银花合，星桥铁锁开).",
+        "zh": "苏味道：“火树银花合，星桥铁锁开。”"
+      }
+    },
+    "usage": {
+      "en": "Literary, for lights or fireworks.",
+      "zh": "书面语，形容灯火、烟花。"
+    },
+    "synonyms": [
+      "灯火辉煌",
+      "五彩缤纷"
+    ],
+    "antonyms": [
+      "黯淡无光",
+      "漆黑一片"
+    ]
+  },
+  {
+    "id": "yi-shou-bao-ban",
+    "text": "一手包办",
+    "pinyin": "yī shǒu bāo bàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "leadership-and-authority"
+    ],
+    "literal": "one · hand · take over · manage",
+    "natural": "do everything oneself",
+    "meaning": {
+      "en": "To take charge of everything alone, leaving no room for others.",
+      "zh": "独自包揽所有事情，不让别人参与。"
+    },
+    "equivalents": [
+      "run the whole show",
+      "do everything single-handedly"
+    ],
+    "examples": [
+      {
+        "zh": "这次活动是他一手包办的。",
+        "en": "He ran the whole event single-handedly."
+      },
+      {
+        "zh": "父母不应一手包办孩子的一切。",
+        "en": "Parents shouldn't take over everything for their children."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; can be mildly disapproving.",
+      "zh": "多作谓语，略含贬义。"
+    },
+    "synonyms": [
+      "独断专行",
+      "包揽一切"
+    ],
+    "antonyms": [
+      "分工合作",
+      "集思广益"
+    ]
+  },
+  {
+    "id": "si-shu-wu-jing",
+    "text": "四书五经",
+    "pinyin": "sì shū wǔ jīng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "reading-and-study"
+    ],
+    "literal": "four · books · five · classics",
+    "natural": "the Confucian canon",
+    "meaning": {
+      "en": "The Four Books and Five Classics, the core texts of Confucianism.",
+      "zh": "儒家的经典著作：《大学》《中庸》《论语》《孟子》和《诗》《书》《礼》《易》《春秋》。"
+    },
+    "equivalents": [
+      "the Four Books and Five Classics",
+      "the Confucian canon"
+    ],
+    "examples": [
+      {
+        "zh": "古代读书人必须熟读四书五经。",
+        "en": "Scholars in ancient times had to know the Four Books and Five Classics by heart."
+      },
+      {
+        "zh": "他从小背诵四书五经。",
+        "en": "He learnt the Four Books and Five Classics from childhood."
+      }
+    ],
+    "usage": {
+      "en": "Noun; also humorously for traditional learning.",
+      "zh": "名词；也可戏指传统学问。"
+    },
+    "synonyms": [
+      "诗书礼易",
+      "经史子集"
+    ],
+    "antonyms": [
+      "目不识丁"
+    ]
+  },
+  {
+    "id": "gu-ruo-jin-tang",
+    "text": "固若金汤",
+    "pinyin": "gù ruò jīn tāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "standards-and-benchmarks",
+      "historical-records"
+    ],
+    "literal": "firm · like · metal · boiling water",
+    "natural": "impregnable",
+    "meaning": {
+      "en": "As solid as a city of metal walls with boiling moats.",
+      "zh": "像金属造的城墙和滚水的护城河那样牢固，比喻防守十分稳固。"
+    },
+    "equivalents": [
+      "impregnable",
+      "rock-solid"
+    ],
+    "examples": [
+      {
+        "zh": "这座城堡固若金汤。",
+        "en": "The fortress is impregnable."
+      },
+      {
+        "zh": "他们的防线固若金汤，对手无从下手。",
+        "en": "Their defence is rock-solid, giving opponents no way through."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·蒯通传》",
+      "story": {
+        "en": "Kuai Tong said that the cities were 'all walls of metal and moats of boiling water' (皆为金城汤池，不可攻也).",
+        "zh": "《汉书》：“皆为金城汤池，不可攻也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "坚不可摧",
+      "铜墙铁壁"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一触即溃"
+    ]
+  },
+  {
+    "id": "wu-shi-zi-tong",
+    "text": "无师自通",
+    "pinyin": "wú shī zì tōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "academic-achievement"
+    ],
+    "literal": "no · teacher · self · master",
+    "natural": "self-taught",
+    "meaning": {
+      "en": "To master a skill without a teacher.",
+      "zh": "没有老师教，自己就学会了。"
+    },
+    "equivalents": [
+      "self-taught",
+      "learn without a teacher"
+    ],
+    "examples": [
+      {
+        "zh": "他的吉他是无师自通的。",
+        "en": "He taught himself the guitar."
+      },
+      {
+        "zh": "她无师自通，学会了编程。",
+        "en": "She learnt to code by herself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自学成才",
+      "天资聪颖"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "师出名门"
+    ]
+  },
+  {
+    "id": "san-gu-mao-lu",
+    "text": "三顾茅庐",
+    "pinyin": "sān gù máo lú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "three-kingdoms",
+      "stories"
+    ],
+    "literal": "three · visit · thatched · hut",
+    "natural": "make repeated, sincere visits",
+    "meaning": {
+      "en": "To visit someone repeatedly and sincerely to recruit them.",
+      "zh": "三次拜访茅庐，比喻诚心诚意地一再邀请或拜访。"
+    },
+    "equivalents": [
+      "court someone persistently",
+      "make repeated sincere calls"
+    ],
+    "examples": [
+      {
+        "zh": "公司三顾茅庐，才请到这位专家。",
+        "en": "The company only landed the expert after repeatedly courting him."
+      },
+      {
+        "zh": "他三顾茅庐，终于说服了老教授出山。",
+        "en": "After many visits, he persuaded the old professor to join."
+      }
+    ],
+    "origin": {
+      "source": "诸葛亮《出师表》",
+      "story": {
+        "en": "Zhuge Liang recalled that Liu Bei 'visited me three times in my thatched hut' (三顾臣于草庐之中).",
+        "zh": "诸葛亮：“先帝不以臣卑鄙，猥自枉屈，三顾臣于草庐之中。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; from Liu Bei seeking Zhuge Liang.",
+      "zh": "多作谓语；源于刘备请诸葛亮出山。"
+    },
+    "synonyms": [
+      "礼贤下士",
+      "求贤若渴"
+    ],
+    "antonyms": [
+      "拒人于千里之外"
+    ]
+  },
+  {
+    "id": "da-fu-pian-pian",
+    "text": "大腹便便",
+    "pinyin": "dà fù pián pián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "big · belly · plump · plump",
+    "natural": "pot-bellied",
+    "meaning": {
+      "en": "Having a big, protruding belly.",
+      "zh": "形容肚子肥大的样子。"
+    },
+    "equivalents": [
+      "pot-bellied",
+      "big-bellied"
+    ],
+    "examples": [
+      {
+        "zh": "这位大腹便便的老板走进了餐厅。",
+        "en": "The pot-bellied boss walked into the restaurant."
+      },
+      {
+        "zh": "他应酬太多，渐渐大腹便便。",
+        "en": "He socialised so much that he grew pot-bellied."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate.",
+      "zh": "多作定语、谓语。"
+    },
+    "synonyms": [
+      "脑满肠肥",
+      "肥头大耳"
+    ],
+    "antonyms": [
+      "骨瘦如柴",
+      "瘦骨嶙峋"
+    ]
+  },
+  {
+    "id": "ge-wu-sheng-ping",
+    "text": "歌舞升平",
+    "pinyin": "gē wǔ shēng píng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "luxury-and-extravagance"
+    ],
+    "literal": "sing · dance · celebrate · peace",
+    "natural": "revel in peace",
+    "meaning": {
+      "en": "Singing and dancing to celebrate peace; now often implying complacency.",
+      "zh": "唱歌跳舞，庆祝太平，现多用来讽刺粉饰太平。"
+    },
+    "equivalents": [
+      "revel in an age of peace",
+      "fiddle while Rome burns"
+    ],
+    "examples": [
+      {
+        "zh": "外患未除，岂能歌舞升平？",
+        "en": "With enemies at the gates, how can we revel in peace?"
+      },
+      {
+        "zh": "城里一片歌舞升平的景象。",
+        "en": "The city was a scene of peaceful revelry."
+      }
+    ],
+    "usage": {
+      "en": "Neutral or ironic.",
+      "zh": "中性或带讽刺。"
+    },
+    "synonyms": [
+      "太平盛世",
+      "粉饰太平"
+    ],
+    "antonyms": [
+      "民不聊生",
+      "兵荒马乱"
+    ]
+  },
+  {
+    "id": "shi-bu-liang-li",
+    "text": "势不两立",
+    "pinyin": "shì bù liǎng lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "situation · not · two · stand",
+    "natural": "mutually irreconcilable",
+    "meaning": {
+      "en": "Two sides so opposed that they cannot co-exist.",
+      "zh": "双方矛盾尖锐，不能同时存在。"
+    },
+    "equivalents": [
+      "irreconcilable",
+      "at daggers drawn"
+    ],
+    "examples": [
+      {
+        "zh": "这两家公司势不两立。",
+        "en": "The two companies are irreconcilable rivals."
+      },
+      {
+        "zh": "他们为一点小事闹得势不两立。",
+        "en": "They fell out irreconcilably over something trivial."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "水火不容",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "握手言和",
+      "和睦相处"
+    ]
+  },
+  {
+    "id": "yi-wang-qing-shen",
+    "text": "一往情深",
+    "pinyin": "yī wǎng qíng shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "complex-emotional-states"
+    ],
+    "literal": "one · go · feeling · deep",
+    "natural": "deeply devoted",
+    "meaning": {
+      "en": "Having deep, constant feeling for a person or thing.",
+      "zh": "对人或事物怀有深厚而专一的感情。"
+    },
+    "equivalents": [
+      "deeply devoted",
+      "head over heels"
+    ],
+    "examples": [
+      {
+        "zh": "他对她一往情深，多年不变。",
+        "en": "He is deeply devoted to her, unchanged over the years."
+      },
+      {
+        "zh": "她对京剧一往情深。",
+        "en": "She has a deep and abiding love for Peking opera."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 对…一往情深.",
+      "zh": "多作谓语，常说“对…一往情深”。"
+    },
+    "synonyms": [
+      "情深意重",
+      "痴心一片"
+    ],
+    "antonyms": [
+      "薄情寡义",
+      "见异思迁"
+    ]
+  },
+  {
+    "id": "you-rou-gua-duan",
+    "text": "优柔寡断",
+    "pinyin": "yōu róu guǎ duàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "hesitant · soft · lacking · decision",
+    "natural": "indecisive",
+    "meaning": {
+      "en": "Hesitant and unable to make decisions.",
+      "zh": "做事犹豫，缺乏决断。"
+    },
+    "equivalents": [
+      "indecisive",
+      "dithering"
+    ],
+    "examples": [
+      {
+        "zh": "他性格优柔寡断，错失了许多机会。",
+        "en": "He's indecisive by nature and has missed many opportunities."
+      },
+      {
+        "zh": "领导不能优柔寡断。",
+        "en": "A leader can't afford to be indecisive."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "犹豫不决",
+      "举棋不定"
+    ],
+    "antonyms": [
+      "当机立断",
+      "果断干脆"
+    ]
+  },
+  {
+    "id": "wen-feng-er-tao",
+    "text": "闻风而逃",
+    "pinyin": "wén fēng ér táo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "望风而逃"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "defeat-and-military-failure"
+    ],
+    "literal": "hear · wind · and · flee",
+    "natural": "flee at the first whiff",
+    "meaning": {
+      "en": "To run away at the mere news of someone's approach.",
+      "zh": "一听到风声就逃走，形容十分害怕。"
+    },
+    "equivalents": [
+      "flee at the first whiff",
+      "run for it"
+    ],
+    "examples": [
+      {
+        "zh": "敌军闻风而逃。",
+        "en": "The enemy fled at the first rumour of attack."
+      },
+      {
+        "zh": "听说检查组要来，他们闻风而逃。",
+        "en": "Hearing inspectors were coming, they fled at once."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; compare 闻风丧胆.",
+      "zh": "多作谓语，可参看“闻风丧胆”。"
+    },
+    "synonyms": [
+      "落荒而逃",
+      "抱头鼠窜"
+    ],
+    "antonyms": [
+      "迎难而上",
+      "坚守阵地"
+    ]
+  },
+  {
+    "id": "jie-jie-ba-ba",
+    "text": "结结巴巴",
+    "pinyin": "jiē jiē bā bā",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "stammer · stammer",
+    "natural": "stammering",
+    "meaning": {
+      "en": "Speaking haltingly and stuttering.",
+      "zh": "说话不流利，断断续续。"
+    },
+    "equivalents": [
+      "stammering",
+      "haltingly"
+    ],
+    "examples": [
+      {
+        "zh": "他紧张得结结巴巴，说不出完整的话。",
+        "en": "He was so nervous he stammered and couldn't finish a sentence."
+      },
+      {
+        "zh": "她结结巴巴地解释了半天。",
+        "en": "She stammered through a long explanation."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial before 地.",
+      "zh": "多作状语。"
+    },
+    "synonyms": [
+      "吞吞吐吐",
+      "支支吾吾"
+    ],
+    "antonyms": [
+      "口若悬河",
+      "对答如流"
+    ]
+  },
+  {
+    "id": "sha-ren-fang-huo",
+    "text": "杀人放火",
+    "pinyin": "shā rén fàng huǒ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "inappropriate-behavior"
+    ],
+    "literal": "kill · people · set · fire",
+    "natural": "murder and arson",
+    "meaning": {
+      "en": "Murder and arson; any violent wickedness.",
+      "zh": "指凶恶的犯罪行为。"
+    },
+    "equivalents": [
+      "murder and arson",
+      "commit atrocities"
+    ],
+    "examples": [
+      {
+        "zh": "他从没干过杀人放火的事。",
+        "en": "He has never committed murder or arson."
+      },
+      {
+        "zh": "那帮人杀人放火，无恶不作。",
+        "en": "That gang committed murder and arson, doing every evil."
+      }
+    ],
+    "usage": {
+      "en": "Often with 无恶不作.",
+      "zh": "常与“无恶不作”连用。"
+    },
+    "synonyms": [
+      "无恶不作",
+      "伤天害理"
+    ],
+    "antonyms": [
+      "行善积德",
+      "安分守己"
+    ]
+  }
+]

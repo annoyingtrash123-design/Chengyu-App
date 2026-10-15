@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "yin-shi-zhi-yi",
+    "text": "因时制宜",
+    "pinyin": "yīn shí zhì yí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "adaptability"
+    ],
+    "literal": "according to · time · devise · what is suitable",
+    "natural": "adapt to the times",
+    "meaning": {
+      "en": "To adopt measures suited to the time and circumstances.",
+      "zh": "根据不同时期的情况，采取适当的措施。"
+    },
+    "equivalents": [
+      "adapt to the times",
+      "act as the moment demands"
+    ],
+    "examples": [
+      {
+        "zh": "政策要因时制宜，不能一成不变。",
+        "en": "Policy must adapt to the times and cannot stay fixed."
+      },
+      {
+        "zh": "防疫措施需要因时制宜地调整。",
+        "en": "Epidemic measures must be adjusted as the situation changes."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 因地制宜.",
+      "zh": "常与“因地制宜”连用。"
+    },
+    "synonyms": [
+      "随机应变",
+      "审时度势"
+    ],
+    "antonyms": [
+      "一成不变",
+      "墨守成规"
+    ]
+  },
+  {
+    "id": "yan-er-you-xin",
+    "text": "言而有信",
+    "pinyin": "yán ér yǒu xìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "words · and · have · trust",
+    "natural": "true to one's word",
+    "meaning": {
+      "en": "To keep one's promises.",
+      "zh": "说话算数，讲信用。"
+    },
+    "equivalents": [
+      "true to one's word",
+      "as good as one's word"
+    ],
+    "examples": [
+      {
+        "zh": "他言而有信，答应的事一定做到。",
+        "en": "He is true to his word and always does what he promised."
+      },
+      {
+        "zh": "做生意要言而有信。",
+        "en": "In business you must keep your promises."
+      }
+    ],
+    "origin": {
+      "source": "《论语·学而》",
+      "story": {
+        "en": "Zixia in the Analects: 'In dealing with friends, his words are trustworthy' (与朋友交，言而有信).",
+        "zh": "《论语》：“与朋友交，言而有信。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "一言九鼎",
+      "一诺千金"
+    ],
+    "antonyms": [
+      "出尔反尔",
+      "背信弃义"
+    ]
+  },
+  {
+    "id": "liao-sheng-yu-wu",
+    "text": "聊胜于无",
+    "pinyin": "liáo shèng yú wú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "modest-goals"
+    ],
+    "literal": "somewhat · better than · nothing",
+    "natural": "better than nothing",
+    "meaning": {
+      "en": "Not much, but better than having nothing at all.",
+      "zh": "虽然不太好，但比没有强一点。"
+    },
+    "equivalents": [
+      "better than nothing",
+      "better than none"
+    ],
+    "examples": [
+      {
+        "zh": "这点补助虽少，也聊胜于无。",
+        "en": "The subsidy is small, but better than nothing."
+      },
+      {
+        "zh": "他的安慰聊胜于无。",
+        "en": "His comfort was better than nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "差强人意",
+      "总比没有好"
+    ],
+    "antonyms": [
+      "多多益善",
+      "绰绰有余"
+    ]
+  },
+  {
+    "id": "jing-ming-neng-gan",
+    "text": "精明能干",
+    "pinyin": "jīng míng néng gàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "精明强干"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "shrewd · clever · able · capable",
+    "natural": "shrewd and capable",
+    "meaning": {
+      "en": "Sharp-minded and competent.",
+      "zh": "聪明机灵，有办事能力。"
+    },
+    "equivalents": [
+      "sharp and capable",
+      "shrewd and efficient"
+    ],
+    "examples": [
+      {
+        "zh": "这位女经理精明能干。",
+        "en": "The manager is sharp and capable."
+      },
+      {
+        "zh": "他是个精明能干的生意人。",
+        "en": "He is a shrewd and capable businessman."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "足智多谋",
+      "雷厉风行"
+    ],
+    "antonyms": [
+      "愚蠢无能",
+      "笨手笨脚"
+    ]
+  },
+  {
+    "id": "dian-dao-shi-fei",
+    "text": "颠倒是非",
+    "pinyin": "diān dǎo shì fēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "corruption-and-injustice"
+    ],
+    "literal": "invert · right · wrong",
+    "natural": "turn right and wrong upside down",
+    "meaning": {
+      "en": "To deliberately twist right and wrong.",
+      "zh": "故意把对的说成错的，错的说成对的。"
+    },
+    "equivalents": [
+      "twist the truth",
+      "turn right into wrong"
+    ],
+    "examples": [
+      {
+        "zh": "他当众颠倒是非，污蔑同事。",
+        "en": "He twisted the facts in public to slander his colleague."
+      },
+      {
+        "zh": "不要听信颠倒是非的谣言。",
+        "en": "Don't believe rumours that distort right and wrong."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving. Stronger than 混淆是非 in suggesting intent.",
+      "zh": "多作谓语，含贬义，比“混淆是非”更强调故意。"
+    },
+    "synonyms": [
+      "指鹿为马",
+      "混淆是非",
+      "混淆黑白"
+    ],
+    "antonyms": [
+      "明辨是非",
+      "实事求是"
+    ]
+  },
+  {
+    "id": "yi-yuan-fu-shi",
+    "text": "一元复始",
+    "pinyin": "yī yuán fù shǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "seasonal-changes",
+      "festive-greetings"
+    ],
+    "literal": "one · beginning · again · start",
+    "natural": "a new year begins",
+    "meaning": {
+      "en": "A new cycle begins; the start of a new year.",
+      "zh": "旧的一年结束，新的一年开始。"
+    },
+    "equivalents": [
+      "a new year begins",
+      "a fresh start"
+    ],
+    "examples": [
+      {
+        "zh": "一元复始，万象更新，祝大家新年快乐。",
+        "en": "A new year begins and all things are renewed; happy New Year, everyone."
+      },
+      {
+        "zh": "一元复始，我们又踏上新的征程。",
+        "en": "As the year begins anew, we set out on a new journey."
+      }
+    ],
+    "usage": {
+      "en": "Common in New Year greetings.",
+      "zh": "多用于新年祝词。"
+    },
+    "synonyms": [
+      "万象更新",
+      "辞旧迎新"
+    ],
+    "antonyms": [
+      "周而复始"
+    ]
+  },
+  {
+    "id": "ze-you-fan-yan",
+    "text": "啧有烦言",
+    "pinyin": "zé yǒu fán yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "conflict-and-strife",
+      "historical-records"
+    ],
+    "literal": "clicking-tongues · have · complaints · words",
+    "natural": "grumble widely",
+    "meaning": {
+      "en": "Many people complain and grumble.",
+      "zh": "很多人七嘴八舌地抱怨、不满。"
+    },
+    "equivalents": [
+      "be full of complaints",
+      "grumble loudly"
+    ],
+    "examples": [
+      {
+        "zh": "员工对新制度啧有烦言。",
+        "en": "Staff are grumbling loudly about the new system."
+      },
+      {
+        "zh": "此事让邻居们啧有烦言。",
+        "en": "This has left the neighbours full of complaints."
+      }
+    ],
+    "origin": {
+      "source": "《左传·定公四年》",
+      "story": {
+        "en": "Zuo Commentary: 'The various states have complaints' (啧有烦言), spoken as people clicked their tongues in discontent.",
+        "zh": "《左传》：“会同难，啧有烦言，莫之治也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; usually 对…啧有烦言.",
+      "zh": "多作谓语，常说“对…啧有烦言”。"
+    },
+    "synonyms": [
+      "怨声载道",
+      "牢骚满腹"
+    ],
+    "antonyms": [
+      "有口皆碑",
+      "交口称赞"
+    ]
+  },
+  {
+    "id": "ya-ran-shi-xiao",
+    "text": "哑然失笑",
+    "pinyin": "yǎ rán shī xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "silent · so · lose · laugh",
+    "natural": "can't help laughing",
+    "meaning": {
+      "en": "To burst out laughing involuntarily.",
+      "zh": "不由自主地笑出声来。"
+    },
+    "equivalents": [
+      "can't help laughing",
+      "burst out laughing"
+    ],
+    "examples": [
+      {
+        "zh": "听了他的解释，我不禁哑然失笑。",
+        "en": "Hearing his explanation, I couldn't help laughing."
+      },
+      {
+        "zh": "看到孩子的怪模样，她哑然失笑。",
+        "en": "Seeing the child's funny look, she burst out laughing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "忍俊不禁",
+      "啼笑皆非"
+    ],
+    "antonyms": [
+      "痛哭流涕",
+      "不苟言笑"
+    ]
+  },
+  {
+    "id": "li-yi-lian-chi",
+    "text": "礼义廉耻",
+    "pinyin": "lǐ yì lián chǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "propriety · righteousness · integrity · shame",
+    "natural": "propriety, righteousness, integrity and shame",
+    "meaning": {
+      "en": "The four cardinal virtues of traditional morality.",
+      "zh": "传统道德的四个基本准则：礼节、道义、廉洁、知耻。"
+    },
+    "equivalents": [
+      "the four cardinal virtues",
+      "a sense of propriety and shame"
+    ],
+    "examples": [
+      {
+        "zh": "不讲礼义廉耻的人，难以立足于社会。",
+        "en": "Someone with no sense of propriety and shame can hardly hold a place in society."
+      },
+      {
+        "zh": "传统教育强调礼义廉耻。",
+        "en": "Traditional education stresses propriety, righteousness, integrity and shame."
+      }
+    ],
+    "origin": {
+      "source": "《管子·牧民》",
+      "story": {
+        "en": "Guanzi: 'Propriety, righteousness, integrity and a sense of shame are the four cords of the state' (礼义廉耻，国之四维).",
+        "zh": "《管子》：“礼义廉耻，国之四维；四维不张，国乃灭亡。”"
+      }
+    },
+    "usage": {
+      "en": "Noun phrase.",
+      "zh": "名词性。"
+    },
+    "synonyms": [
+      "仁义道德",
+      "道德品质"
+    ],
+    "antonyms": [
+      "寡廉鲜耻",
+      "厚颜无耻"
+    ]
+  },
+  {
+    "id": "man-wu-bian-ji",
+    "text": "漫无边际",
+    "pinyin": "màn wú biān jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity",
+      "relative-measurements"
+    ],
+    "literal": "boundless · no · edge · limit",
+    "natural": "rambling and boundless",
+    "meaning": {
+      "en": "Boundless and unfocused; going on without limit.",
+      "zh": "没有边界，形容说话、想象等没有中心或限度。"
+    },
+    "equivalents": [
+      "rambling",
+      "aimless and endless"
+    ],
+    "examples": [
+      {
+        "zh": "他们漫无边际地聊了一晚上。",
+        "en": "They chatted aimlessly all night."
+      },
+      {
+        "zh": "会议讨论漫无边际，毫无结果。",
+        "en": "The discussion rambled on and came to nothing."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "海阔天空",
+      "漫无目的"
+    ],
+    "antonyms": [
+      "言简意赅",
+      "直截了当"
+    ]
+  },
+  {
+    "id": "nan-nu-you-bie",
+    "text": "男女有别",
+    "pinyin": "nán nǚ yǒu bié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture"
+    ],
+    "literal": "man · woman · have · distinction",
+    "natural": "men and women differ",
+    "meaning": {
+      "en": "Men and women should observe proper distinctions.",
+      "zh": "男女之间在礼节、行为等方面应有区别。"
+    },
+    "equivalents": [
+      "the sexes keep proper distance",
+      "gender distinctions apply"
+    ],
+    "examples": [
+      {
+        "zh": "古人讲究男女有别。",
+        "en": "The ancients stressed the proper distinction between men and women."
+      },
+      {
+        "zh": "宿舍管理规定男女有别，不得串门。",
+        "en": "Dormitory rules separate men and women; no visiting each other's rooms."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; traditional etiquette, increasingly dated.",
+      "zh": "多作谓语，传统礼教用语。"
+    },
+    "synonyms": [
+      "授受不亲"
+    ],
+    "antonyms": [
+      "男女平等"
+    ]
+  },
+  {
+    "id": "zuo-shou-yu-li",
+    "text": "坐收渔利",
+    "pinyin": "zuò shōu yú lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "competition-and-rivalry"
+    ],
+    "literal": "sit · gather · fisherman's · profit",
+    "natural": "reap the benefit without effort",
+    "meaning": {
+      "en": "To profit from other people's quarrel without lifting a finger.",
+      "zh": "利用别人的矛盾，自己从中得到好处。"
+    },
+    "equivalents": [
+      "reap the rewards",
+      "profit from others' quarrels"
+    ],
+    "examples": [
+      {
+        "zh": "两家争执不下，让第三方坐收渔利。",
+        "en": "The two sides wrangled and a third party picked up the profit."
+      },
+      {
+        "zh": "我们不能让对手坐收渔利。",
+        "en": "We can't let our rival reap the benefit."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; from the 鹬蚌相争 story.",
+      "zh": "多作谓语，出自“鹬蚌相争”的故事。"
+    },
+    "synonyms": [
+      "渔翁得利",
+      "坐享其成"
+    ],
+    "antonyms": [
+      "两败俱伤",
+      "得不偿失"
+    ]
+  },
+  {
+    "id": "gan-ji-ti-ling",
+    "text": "感激涕零",
+    "pinyin": "gǎn jī tì líng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "joy-and-happiness",
+      "complex-emotional-states"
+    ],
+    "literal": "grateful · stirred · tears · fall",
+    "natural": "moved to tears with gratitude",
+    "meaning": {
+      "en": "So grateful as to shed tears.",
+      "zh": "感激得流下眼泪。"
+    },
+    "equivalents": [
+      "moved to tears with gratitude",
+      "overwhelmingly grateful"
+    ],
+    "examples": [
+      {
+        "zh": "老人对救命恩人感激涕零。",
+        "en": "The old man was moved to tears by gratitude to his saviour."
+      },
+      {
+        "zh": "收到捐款，灾民感激涕零。",
+        "en": "On receiving the donations, the disaster victims wept with gratitude."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "感激不尽",
+      "感恩戴德"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报"
+    ]
+  },
+  {
+    "id": "tong-xin-wei-min",
+    "text": "童心未泯",
+    "pinyin": "tóng xīn wèi mǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "experience-and-old-age"
+    ],
+    "literal": "child's · heart · not yet · lost",
+    "natural": "still young at heart",
+    "meaning": {
+      "en": "Still having a childlike heart despite age.",
+      "zh": "成年后仍保持孩子般的纯真。"
+    },
+    "equivalents": [
+      "young at heart",
+      "still childlike"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷年过七十，依然童心未泯。",
+        "en": "Grandpa is over seventy yet still young at heart."
+      },
+      {
+        "zh": "这位画家童心未泯，作品充满趣味。",
+        "en": "The painter has kept a childlike heart and his works are full of fun."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "赤子之心",
+      "返老还童"
+    ],
+    "antonyms": [
+      "老气横秋",
+      "老成持重"
+    ]
+  },
+  {
+    "id": "gan-en-dai-de",
+    "text": "感恩戴德",
+    "pinyin": "gǎn ēn dài dé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "feel · kindness · bear on head · virtue",
+    "natural": "be deeply grateful",
+    "meaning": {
+      "en": "To be deeply grateful for kindness received.",
+      "zh": "感激别人给予的恩惠，表示谢意。"
+    },
+    "equivalents": [
+      "be deeply grateful",
+      "be profoundly thankful"
+    ],
+    "examples": [
+      {
+        "zh": "他对资助他读书的人感恩戴德。",
+        "en": "He is deeply grateful to those who funded his schooling."
+      },
+      {
+        "zh": "别指望他会感恩戴德。",
+        "en": "Don't expect him to be grateful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; sometimes ironic.",
+      "zh": "多作谓语，有时带讽刺。"
+    },
+    "synonyms": [
+      "感激不尽",
+      "知恩图报"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报"
+    ]
+  },
+  {
+    "id": "chong-hun-tou-nao",
+    "text": "冲昏头脑",
+    "pinyin": "chōng hūn tóu nǎo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "negative-character-flaws"
+    ],
+    "literal": "overwhelm · dizzy · head · brain",
+    "natural": "go to one's head",
+    "meaning": {
+      "en": "To be so carried away by success or emotion that one loses judgement.",
+      "zh": "因胜利或激动而失去理智，不清醒。"
+    },
+    "equivalents": [
+      "go to one's head",
+      "lose one's head"
+    ],
+    "examples": [
+      {
+        "zh": "别让一时的成功冲昏头脑。",
+        "en": "Don't let a moment's success go to your head."
+      },
+      {
+        "zh": "他被胜利冲昏头脑，忘了防守。",
+        "en": "Carried away by victory, he forgot to defend."
+      }
+    ],
+    "usage": {
+      "en": "Usually 被…冲昏头脑 or 冲昏了头脑.",
+      "zh": "常说“被…冲昏了头脑”。"
+    },
+    "synonyms": [
+      "得意忘形",
+      "昏头昏脑"
+    ],
+    "antonyms": [
+      "保持清醒",
+      "冷静沉着"
+    ]
+  },
+  {
+    "id": "zhuo-mo-bu-ding",
+    "text": "捉摸不定",
+    "pinyin": "zhuō mō bù dìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "change"
+    ],
+    "literal": "grasp · feel · not · settled",
+    "natural": "unpredictable",
+    "meaning": {
+      "en": "Hard to pin down or predict.",
+      "zh": "难以确定，不能预料。"
+    },
+    "equivalents": [
+      "unpredictable",
+      "hard to pin down"
+    ],
+    "examples": [
+      {
+        "zh": "他的态度捉摸不定。",
+        "en": "His attitude is hard to pin down."
+      },
+      {
+        "zh": "春天的天气捉摸不定。",
+        "en": "Spring weather is unpredictable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "变幻莫测",
+      "飘忽不定"
+    ],
+    "antonyms": [
+      "一目了然",
+      "一成不变"
+    ]
+  },
+  {
+    "id": "ji-mu-yuan-tiao",
+    "text": "极目远眺",
+    "pinyin": "jí mù yuǎn tiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "exhaust · eyes · far · gaze",
+    "natural": "gaze into the far distance",
+    "meaning": {
+      "en": "To look as far as the eye can see.",
+      "zh": "用尽目力向远处看。"
+    },
+    "equivalents": [
+      "gaze into the distance",
+      "look as far as the eye can see"
+    ],
+    "examples": [
+      {
+        "zh": "登上山顶，极目远眺，景色壮美。",
+        "en": "From the summit you gaze into the distance at a magnificent view."
+      },
+      {
+        "zh": "他站在海边，极目远眺。",
+        "en": "He stood by the sea looking out to the horizon."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary.",
+      "zh": "多作谓语，书面语。"
+    },
+    "synonyms": [
+      "举目远望",
+      "一览无余"
+    ],
+    "antonyms": [
+      "鼠目寸光",
+      "目光短浅"
+    ]
+  },
+  {
+    "id": "gao-shen-mo-ce",
+    "text": "高深莫测",
+    "pinyin": "gāo shēn mò cè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "lofty · deep · cannot · fathom",
+    "natural": "unfathomable",
+    "meaning": {
+      "en": "So profound or mysterious that it can't be fathomed.",
+      "zh": "深奥或神秘得无法揣测。"
+    },
+    "equivalents": [
+      "unfathomable",
+      "enigmatic"
+    ],
+    "examples": [
+      {
+        "zh": "他总是一副高深莫测的样子。",
+        "en": "He always puts on an enigmatic air."
+      },
+      {
+        "zh": "这门理论让人觉得高深莫测。",
+        "en": "This theory seems unfathomable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "深不可测",
+      "神秘莫测"
+    ],
+    "antonyms": [
+      "浅显易懂",
+      "一目了然"
+    ]
+  },
+  {
+    "id": "niu-niu-nie-nie",
+    "text": "扭扭捏捏",
+    "pinyin": "niǔ niǔ niē niē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "fear-and-cowardice"
+    ],
+    "literal": "twist · twist · pinch · pinch",
+    "natural": "coy and awkward",
+    "meaning": {
+      "en": "Bashful and affected; hesitant instead of straightforward.",
+      "zh": "形容举止不自然、不大方，不爽快。"
+    },
+    "equivalents": [
+      "coy",
+      "awkward and bashful"
+    ],
+    "examples": [
+      {
+        "zh": "想去就去，别扭扭捏捏的。",
+        "en": "If you want to go, go; don't be coy about it."
+      },
+      {
+        "zh": "她扭扭捏捏地接过了红包。",
+        "en": "She took the red envelope bashfully."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; colloquial.",
+      "zh": "多作谓语、状语，口语。"
+    },
+    "synonyms": [
+      "忸怩作态",
+      "羞羞答答"
+    ],
+    "antonyms": [
+      "落落大方",
+      "干脆利落"
+    ]
+  },
+  {
+    "id": "jian-qian-yan-kai",
+    "text": "见钱眼开",
+    "pinyin": "jiàn qián yǎn kāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "see · money · eyes · open",
+    "natural": "eyes light up at money",
+    "meaning": {
+      "en": "To be greedy and lose one's scruples at the sight of money.",
+      "zh": "一见到钱就眼睛发亮，形容贪财。"
+    },
+    "equivalents": [
+      "money-grabbing",
+      "eyes light up at money"
+    ],
+    "examples": [
+      {
+        "zh": "他见钱眼开，什么事都肯干。",
+        "en": "He is greedy for money and will do anything."
+      },
+      {
+        "zh": "别信那个见钱眼开的中介。",
+        "en": "Don't trust that money-grubbing agent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; derogatory.",
+      "zh": "多作谓语、定语，含贬义。"
+    },
+    "synonyms": [
+      "唯利是图",
+      "见利忘义"
+    ],
+    "antonyms": [
+      "淡泊名利",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "zuo-you-kai-gong",
+    "text": "左右开弓",
+    "pinyin": "zuǒ yòu kāi gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "useful-tools-and-skill",
+      "efficiency"
+    ],
+    "literal": "left · right · draw · bow",
+    "natural": "fire with both hands",
+    "meaning": {
+      "en": "To use both hands in turn, or to do several things at once.",
+      "zh": "两手轮流或同时做事，也比喻同时做几件事。"
+    },
+    "equivalents": [
+      "use both hands",
+      "work on two fronts at once"
+    ],
+    "examples": [
+      {
+        "zh": "他左右开弓，连扇了两个耳光。",
+        "en": "He swung with both hands, slapping twice."
+      },
+      {
+        "zh": "两条线路左右开弓，同时推进。",
+        "en": "The two lines were pushed forward on both fronts at once."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literal or figurative.",
+      "zh": "多作谓语，可指动作，也可比喻。"
+    },
+    "synonyms": [
+      "双管齐下",
+      "双手并用"
+    ],
+    "antonyms": [
+      "顾此失彼"
+    ]
+  }
+]
