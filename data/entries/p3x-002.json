@@ -3,13 +3,13 @@
     "id": "fu-gui-bu-neng-yin-pin",
     "text": "富贵不能淫，贫贱不能移，威武不能屈",
     "pinyin": "fù guì bù néng yín, pín jiàn bù néng yí, wēi wǔ bù néng qū",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "威武不能屈",
       "贫贱不能移",
       "富贵不能淫"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -66,12 +66,12 @@
     "id": "bing-ma-wei-dong-liang-cao-xian-xing",
     "text": "兵马未动，粮草先行",
     "pinyin": "bīng mǎ wèi dòng, liáng cǎo xiān xíng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "兵马未动",
       "粮草先行"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -171,11 +171,11 @@
     "id": "shen-zheng-bu-pa-ying-zi-xie",
     "text": "身正不怕影子斜",
     "pinyin": "shēn zhèng bù pà yǐng zi xié",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "身正不怕影斜"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -224,11 +224,12 @@
     "id": "ren-fei-sheng-xian-shu-neng-wu-guo",
     "text": "人非圣贤，孰能无过",
     "pinyin": "rén fēi shèng xián, shú néng wú guò",
+    "variants": [
+      "人非圣贤",
+      "孰能无过"
+    ],
     "kind": "suyu",
     "frequency": 3,
-    "variants": [
-      "人非圣贤"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -277,11 +278,11 @@
     "id": "yi-ren-de-dao-ji-quan-sheng-tian",
     "text": "一人得道，鸡犬升天",
     "pinyin": "yī rén dé dào, jī quǎn shēng tiān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一人得道"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -338,11 +339,11 @@
     "id": "yu-jia-zhi-zui-he-huan-wu-ci",
     "text": "欲加之罪，何患无辞",
     "pinyin": "yù jiā zhī zuì, hé huàn wú cí",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "欲加之罪"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -400,11 +401,11 @@
     "id": "shui-neng-zai-zhou-yi-neng-fu-zhou",
     "text": "水能载舟，亦能覆舟",
     "pinyin": "shuǐ néng zài zhōu, yì néng fù zhōu",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "水能载舟"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -460,13 +461,13 @@
     "id": "qiong-ze-du-shan-qi-shen",
     "text": "穷则独善其身，达则兼济天下",
     "pinyin": "qióng zé dú shàn qí shēn, dá zé jiān jì tiān xià",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "达则兼济天下",
       "穷则独善其身",
       "兼济天下"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -521,11 +522,11 @@
     "id": "qian-bu-zhao-cun-hou-bu-zhao-dian",
     "text": "前不着村，后不着店",
     "pinyin": "qián bù zháo cūn, hòu bù zháo diàn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "前不着村后不着店"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -574,11 +575,11 @@
     "id": "san-shi-nian-he-dong-san-shi-nian-he-xi",
     "text": "三十年河东，三十年河西",
     "pinyin": "sān shí nián hé dōng, sān shí nián hé xī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "三十年河东"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -627,11 +628,11 @@
     "id": "yang-bing-qian-ri-yong-bing-yi-shi",
     "text": "养兵千日，用兵一时",
     "pinyin": "yǎng bīng qiān rì, yòng bīng yī shí",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "养兵千日"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -680,11 +681,11 @@
     "id": "lu-yao-zhi-ma-li-ri-jiu-jian-ren-xin",
     "text": "路遥知马力，日久见人心",
     "pinyin": "lù yáo zhī mǎ lì, rì jiǔ jiàn rén xīn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "路遥知马力"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -733,11 +734,11 @@
     "id": "bing-lai-jiang-dang-shui-lai-tu-yan",
     "text": "兵来将挡，水来土掩",
     "pinyin": "bīng lái jiàng dǎng, shuǐ lái tǔ yǎn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "兵来将挡"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -786,11 +787,11 @@
     "id": "zhi-shang-de-lai-zhong-jue",
     "text": "纸上得来终觉浅，绝知此事要躬行",
     "pinyin": "zhǐ shàng dé lái zhōng jué qiǎn, jué zhī cǐ shì yào gōng xíng",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "纸上得来终觉浅"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -899,11 +900,11 @@
     "id": "shi-ke-ren-shu-bu-ke-ren",
     "text": "是可忍，孰不可忍",
     "pinyin": "shì kě rěn, shú bù kě rěn",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "是可忍孰不可忍"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -960,11 +961,11 @@
     "id": "ji-quan-zhi-sheng-xiang-wen",
     "text": "鸡犬之声相闻，民至老死不相往来",
     "pinyin": "jī quǎn zhī shēng xiāng wén, mín zhì lǎo sǐ bù xiāng wǎng lái",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "鸡犬之声相闻"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -1021,11 +1022,11 @@
     "id": "liu-shui-bu-fu-hu-shu-bu-du",
     "text": "流水不腐，户枢不蠹",
     "pinyin": "liú shuǐ bù fǔ, hù shū bù dù",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "流水不腐"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1082,13 +1083,13 @@
     "id": "qu-zhi-bu-jin-yong-zhi-bu-jie",
     "text": "取之不尽，用之不竭",
     "pinyin": "qǔ zhī bù jìn, yòng zhī bù jié",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "取之不尽用之不竭",
       "取之不尽",
       "取之不竭"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1146,11 +1147,11 @@
     "id": "yi-chuan-shi-shi-chuan-bai",
     "text": "一传十，十传百",
     "pinyin": "yī chuán shí, shí chuán bǎi",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一传十十传百"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1199,13 +1200,13 @@
     "id": "mei-you-gui-ju-bu-cheng-fang-yuan",
     "text": "没有规矩，不成方圆",
     "pinyin": "méi yǒu guī jǔ, bù chéng fāng yuán",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "不成方圆",
       "不以规矩，不能成方圆",
       "不以规矩"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1312,11 +1313,11 @@
     "id": "zao-zhi-jin-ri-he-bi-dang-chu",
     "text": "早知今日，何必当初",
     "pinyin": "zǎo zhī jīn rì, hé bì dāng chū",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "早知今日"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -1364,12 +1365,12 @@
     "id": "zhi-xu-zhou-guan-fang-huo",
     "text": "只许州官放火，不许百姓点灯",
     "pinyin": "zhǐ xǔ zhōu guān fàng huǒ, bù xǔ bǎi xìng diǎn dēng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "只许州官放火",
       "州官放火"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

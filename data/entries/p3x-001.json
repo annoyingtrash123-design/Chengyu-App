@@ -3,12 +3,12 @@
     "id": "bing-dong-san-chi-fei-yi-ri-zhi-han",
     "text": "冰冻三尺，非一日之寒",
     "pinyin": "bīng dòng sān chǐ, fēi yī rì zhī hán",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "冰冻三尺非一日之寒",
       "冰冻三尺"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -56,12 +56,13 @@
     "id": "ji-suo-bu-yu-wu-shi-yu-ren",
     "text": "己所不欲，勿施于人",
     "pinyin": "jǐ suǒ bù yù, wù shī yú rén",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "己所不欲勿施于人",
-      "己所不欲"
+      "己所不欲",
+      "勿施于人"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -117,12 +118,12 @@
     "id": "yi-bo-wei-ping-yi-bo-you-qi",
     "text": "一波未平，一波又起",
     "pinyin": "yī bō wèi píng, yī bō yòu qǐ",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "一波未平一波又起",
       "一波未平"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -171,12 +172,13 @@
     "id": "ren-zhe-jian-ren-zhi-zhe-jian-zhi",
     "text": "仁者见仁，智者见智",
     "pinyin": "rén zhě jiàn rén, zhì zhě jiàn zhì",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "仁者见仁智者见智",
-      "仁者见仁"
+      "仁者见仁",
+      "智者见智"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -226,12 +228,12 @@
     "id": "xian-tian-xia-zhi-you-er",
     "text": "先天下之忧而忧，后天下之乐而乐",
     "pinyin": "xiān tiān xià zhī yōu ér yōu, hòu tiān xià zhī lè ér lè",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "先天下之忧而忧",
       "后天下之乐而乐"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -287,13 +289,13 @@
     "id": "dao-gao-yi-chi-mo-gao-yi-zhang",
     "text": "道高一尺，魔高一丈",
     "pinyin": "dào gāo yī chǐ, mó gāo yī zhàng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "道高一尺魔高一丈",
       "魔高一丈",
       "道高一尺"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -340,12 +342,12 @@
     "id": "tou-tong-yi-tou-jiao-tong-yi-jiao",
     "text": "头痛医头，脚痛医脚",
     "pinyin": "tóu tòng yī tóu, jiǎo tòng yī jiǎo",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "头痛医头脚痛医脚",
       "头痛医头"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -395,12 +397,12 @@
     "id": "ma-que-sui-xiao-wu-zang-ju-quan",
     "text": "麻雀虽小，五脏俱全",
     "pinyin": "má què suī xiǎo, wǔ zàng jù quán",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "麻雀虽小五脏俱全",
       "麻雀虽小"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -449,11 +451,11 @@
     "id": "bai-chi-gan-tou-geng-jin-yi-bu",
     "text": "百尺竿头，更进一步",
     "pinyin": "bǎi chǐ gān tóu, gèng jìn yī bù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "百尺竿头更进一步"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -511,11 +513,11 @@
     "id": "qian-li-zhi-xing-shi-yu-zu-xia",
     "text": "千里之行，始于足下",
     "pinyin": "qiān lǐ zhī xíng, shǐ yú zú xià",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "千里之行"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -571,12 +573,12 @@
     "id": "qian-li-zhi-di-kui-yu-yi-xue",
     "text": "千里之堤，溃于蚁穴",
     "pinyin": "qiān lǐ zhī dī, kuì yú yǐ xué",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "千里之堤",
       "溃于蚁穴"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -632,12 +634,12 @@
     "id": "ye-huo-shao-bu-jin-chun",
     "text": "野火烧不尽，春风吹又生",
     "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "野火烧不尽",
       "春风吹又生"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -693,12 +695,12 @@
     "id": "shi-bu-guan-ji-gao-gao-gua-qi",
     "text": "事不关己，高高挂起",
     "pinyin": "shì bù guān jǐ, gāo gāo guà qǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "事不关己高高挂起",
       "高高挂起"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -748,11 +750,11 @@
     "id": "hai-nei-cun-zhi-ji-tian-ya-ruo-bi-lin",
     "text": "海内存知己，天涯若比邻",
     "pinyin": "hǎi nèi cún zhī jǐ, tiān yá ruò bǐ lín",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "天涯若比邻"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -808,11 +810,11 @@
     "id": "bu-zai-qi-wei-bu-mou-qi-zheng",
     "text": "不在其位，不谋其政",
     "pinyin": "bù zài qí wèi, bù móu qí zhèng",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "不谋其政"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -868,11 +870,11 @@
     "id": "huo-dao-lao-xue-dao-lao",
     "text": "活到老，学到老",
     "pinyin": "huó dào lǎo, xué dào lǎo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "活到老学到老"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -921,11 +923,11 @@
     "id": "ming-bu-zheng-yan-bu-shun",
     "text": "名不正，言不顺",
     "pinyin": "míng bù zhèng, yán bù shùn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "名不正言不顺"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -980,12 +982,12 @@
     "id": "fan-shi-yu-ze-li-bu-yu-ze-fei",
     "text": "凡事预则立，不预则废",
     "pinyin": "fán shì yù zé lì, bù yù zé fèi",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "不预则废",
       "预则立"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1042,12 +1044,12 @@
     "id": "you-ze-gai-zhi-wu-ze-jia-mian",
     "text": "有则改之，无则加勉",
     "pinyin": "yǒu zé gǎi zhī, wú zé jiā miǎn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "有则改之",
       "无则加勉"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1096,12 +1098,12 @@
     "id": "qian-shi-bu-wang-hou-shi-zhi-shi",
     "text": "前事不忘，后事之师",
     "pinyin": "qián shì bù wàng, hòu shì zhī shī",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "前事不忘",
       "后事之师"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1158,12 +1160,12 @@
     "id": "tao-li-bu-yan-xia-zi-cheng-xi",
     "text": "桃李不言，下自成蹊",
     "pinyin": "táo lǐ bù yán, xià zì chéng xī",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "桃李不言",
       "下自成蹊"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1219,11 +1221,11 @@
     "id": "qian-ren-zai-shu-hou-ren-cheng-liang",
     "text": "前人栽树，后人乘凉",
     "pinyin": "qián rén zāi shù, hòu rén chéng liáng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "前人栽树"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -1272,11 +1274,11 @@
     "id": "yi-lai-shen-shou-fan-lai-zhang-kou",
     "text": "衣来伸手，饭来张口",
     "pinyin": "yī lái shēn shǒu, fàn lái zhāng kǒu",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "衣来伸手"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
