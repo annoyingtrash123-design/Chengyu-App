@@ -49,10 +49,13 @@
   },
   {
     "id": "bian-hua-mo-ce",
-    "text": "变化莫测",
-    "pinyin": "biàn huà mò cè",
+    "text": "变幻莫测",
+    "pinyin": "biàn huàn mò cè",
+    "variants": [
+      "变化莫测"
+    ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -86,7 +89,6 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "变幻莫测",
       "瞬息万变",
       "千变万化"
     ],

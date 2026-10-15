@@ -114,6 +114,9 @@
     "id": "qing-pen-da-yu",
     "text": "倾盆大雨",
     "pinyin": "qīng pén dà yǔ",
+    "variants": [
+      "大雨倾盆"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -950,10 +953,13 @@
   },
   {
     "id": "cun-si-bu-gua",
-    "text": "寸丝不挂",
-    "pinyin": "cùn sī bù guà",
+    "text": "一丝不挂",
+    "pinyin": "yī sī bù guà",
+    "variants": [
+      "寸丝不挂"
+    ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -986,7 +992,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "一丝不挂",
       "赤身裸体"
     ],
     "antonyms": [

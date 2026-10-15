@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "can-que-bu-quan",
+    "text": "残缺不全",
+    "pinyin": "cán quē bù quán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "broken-or-useless-items"
+    ],
+    "literal": "damaged · missing · not · complete",
+    "natural": "incomplete",
+    "meaning": {
+      "en": "Damaged and incomplete; with parts missing.",
+      "zh": "残破缺损，不完整。"
+    },
+    "equivalents": [
+      "incomplete",
+      "fragmentary",
+      "with parts missing"
+    ],
+    "examples": [
+      {
+        "zh": "这本古书已经残缺不全了。",
+        "en": "This old book is now incomplete, with pages missing."
+      },
+      {
+        "zh": "现场留下的资料残缺不全，调查难度很大。",
+        "en": "The records left at the scene were fragmentary, making the investigation hard."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "支离破碎",
+      "七零八落"
+    ],
+    "antonyms": [
+      "完好无损",
+      "完美无缺"
+    ]
+  },
+  {
+    "id": "yin-jing-ju-dian",
+    "text": "引经据典",
+    "pinyin": "yǐn jīng jù diǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "reading-and-study",
+      "excellent-writing"
+    ],
+    "literal": "cite · classics · base-on · canon",
+    "natural": "quote chapter and verse",
+    "meaning": {
+      "en": "To quote the classics and cite authoritative sources to support one's argument.",
+      "zh": "引用经书典籍作为论证的依据。"
+    },
+    "equivalents": [
+      "quote chapter and verse",
+      "cite the classics",
+      "back up with references"
+    ],
+    "examples": [
+      {
+        "zh": "他演讲时喜欢引经据典。",
+        "en": "He likes to quote the classics in his speeches."
+      },
+      {
+        "zh": "这篇论文引经据典，论证充分。",
+        "en": "The paper cites its sources thoroughly and argues convincingly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "旁征博引",
+      "援古证今"
+    ],
+    "antonyms": [
+      "信口开河",
+      "空口无凭"
+    ]
+  },
+  {
+    "id": "hua-hua-gong-zi",
+    "text": "花花公子",
+    "pinyin": "huā huā gōng zǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "luxury-and-extravagance"
+    ],
+    "literal": "flowery · flowery · noble · son",
+    "natural": "playboy",
+    "meaning": {
+      "en": "A rich young man who idles away his time in pleasure-seeking; a playboy.",
+      "zh": "衣着华丽、只知吃喝玩乐的富家子弟。"
+    },
+    "equivalents": [
+      "playboy",
+      "a rich wastrel",
+      "a man about town"
+    ],
+    "examples": [
+      {
+        "zh": "他是个整天游手好闲的花花公子。",
+        "en": "He's a playboy who idles about all day."
+      },
+      {
+        "zh": "别被那个花花公子的甜言蜜语骗了。",
+        "en": "Don't be taken in by that playboy's sweet talk."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; derogatory.",
+      "zh": "多作主语、宾语，含贬义。"
+    },
+    "synonyms": [
+      "纨绔子弟",
+      "公子哥儿"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "you-ming-wu-shi",
+    "text": "有名无实",
+    "pinyin": "yǒu míng wú shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "have · name · lack · substance",
+    "natural": "in name only",
+    "meaning": {
+      "en": "Having the name but not the substance; nominal only.",
+      "zh": "只有空名，没有实际。"
+    },
+    "equivalents": [
+      "in name only",
+      "nominal",
+      "an empty title"
+    ],
+    "examples": [
+      {
+        "zh": "这个委员会早已有名无实。",
+        "en": "The committee has long existed in name only."
+      },
+      {
+        "zh": "他这个经理有名无实，什么都决定不了。",
+        "en": "He's a manager in name only and can't decide anything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "名不副实",
+      "徒有虚名"
+    ],
+    "antonyms": [
+      "名副其实",
+      "货真价实"
+    ]
+  },
+  {
+    "id": "ruo-you-suo-si",
+    "text": "若有所思",
+    "pinyin": "ruò yǒu suǒ sī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "distracted-attention"
+    ],
+    "literal": "as-if · have · what · think",
+    "natural": "lost in thought",
+    "meaning": {
+      "en": "Looking as if one is pondering something.",
+      "zh": "好像在思考着什么。"
+    },
+    "equivalents": [
+      "lost in thought",
+      "pensive",
+      "thoughtful"
+    ],
+    "examples": [
+      {
+        "zh": "她望着窗外，若有所思。",
+        "en": "She gazed out of the window, lost in thought."
+      },
+      {
+        "zh": "听完我的话，他若有所思地点了点头。",
+        "en": "After hearing me out, he nodded thoughtfully."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (若有所思地).",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "沉思默想",
+      "陷入沉思"
+    ],
+    "antonyms": [
+      "心不在焉",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "zhen-cai-shi-xue",
+    "text": "真才实学",
+    "pinyin": "zhēn cái shí xué",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "useful-tools-and-skill"
+    ],
+    "literal": "true · talent · real · learning",
+    "natural": "genuine ability",
+    "meaning": {
+      "en": "Real talent and solid learning.",
+      "zh": "真正的才能和学识。"
+    },
+    "equivalents": [
+      "genuine ability",
+      "real expertise",
+      "the real deal"
+    ],
+    "examples": [
+      {
+        "zh": "找工作，最终靠的是真才实学。",
+        "en": "In the end, getting a job comes down to genuine ability."
+      },
+      {
+        "zh": "他靠真才实学赢得了大家的尊重。",
+        "en": "He earned everyone's respect through real expertise."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 靠/凭真才实学.",
+      "zh": "多作宾语，常说“凭真才实学”。"
+    },
+    "synonyms": [
+      "博学多才",
+      "学富五车"
+    ],
+    "antonyms": [
+      "不学无术",
+      "徒有虚名"
+    ]
+  },
+  {
+    "id": "ya-su-gong-shang",
+    "text": "雅俗共赏",
+    "pinyin": "yǎ sú gòng shǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "excellent-acting"
+    ],
+    "literal": "refined · popular · together · enjoy",
+    "natural": "appeal to all tastes",
+    "meaning": {
+      "en": "Enjoyed by both the refined and ordinary people; appealing to all tastes.",
+      "zh": "文化程度高的人和一般人都能欣赏。"
+    },
+    "equivalents": [
+      "appeal to all tastes",
+      "have broad appeal",
+      "for highbrow and lowbrow alike"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影雅俗共赏，票房很好。",
+        "en": "The film has broad appeal and did well at the box office."
+      },
+      {
+        "zh": "他的小说雅俗共赏，老少皆宜。",
+        "en": "His novels appeal to every taste and every age."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "老少皆宜",
+      "脍炙人口"
+    ],
+    "antonyms": [
+      "曲高和寡",
+      "阳春白雪"
+    ]
+  },
+  {
+    "id": "yong-zheng-ai-min",
+    "text": "拥政爱民",
+    "pinyin": "yōng zhèng ài mín",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "good-governance"
+    ],
+    "literal": "support · government · love · people",
+    "natural": "support the government and cherish the people",
+    "meaning": {
+      "en": "Slogan for the army: support the government and love the people (paired with 拥军优属 for civilians).",
+      "zh": "军队拥护政府、爱护人民（与“拥军优属”相对应）。"
+    },
+    "equivalents": [
+      "support the government and cherish the people"
+    ],
+    "examples": [
+      {
+        "zh": "部队开展拥政爱民活动，帮助村民抢收庄稼。",
+        "en": "The army ran a 'support the government, love the people' campaign, helping villagers bring in the harvest."
+      },
+      {
+        "zh": "拥政爱民是人民军队的优良传统。",
+        "en": "Supporting the government and loving the people is a fine tradition of the army."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object; official/military register.",
+      "zh": "多作定语、宾语，多用于官方、军队宣传。"
+    },
+    "synonyms": [
+      "军民鱼水"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "lei-ru-yu-xia",
+    "text": "泪如雨下",
+    "pinyin": "lèi rú yǔ xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "tears · like · rain · fall",
+    "natural": "burst into floods of tears",
+    "meaning": {
+      "en": "Tears falling like rain; weeping bitterly.",
+      "zh": "眼泪像下雨一样流下来，形容非常伤心。"
+    },
+    "equivalents": [
+      "in floods of tears",
+      "cry one's eyes out",
+      "weep buckets"
+    ],
+    "examples": [
+      {
+        "zh": "听到噩耗，她泪如雨下。",
+        "en": "Hearing the terrible news, she burst into floods of tears."
+      },
+      {
+        "zh": "颁奖时，老运动员激动得泪如雨下。",
+        "en": "At the ceremony the veteran athlete wept with emotion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "泪流满面",
+      "痛哭流涕",
+      "潸然泪下"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ]
+  },
+  {
+    "id": "nu-qi-chong-chong",
+    "text": "怒气冲冲",
+    "pinyin": "nù qì chōng chōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "anger"
+    ],
+    "literal": "angry · air · surging · surging",
+    "natural": "in a fury",
+    "meaning": {
+      "en": "Visibly furious; in a towering rage.",
+      "zh": "形容非常生气的样子。"
+    },
+    "equivalents": [
+      "in a fury",
+      "fuming",
+      "storming off/in"
+    ],
+    "examples": [
+      {
+        "zh": "他怒气冲冲地摔门而去。",
+        "en": "He stormed out, slamming the door."
+      },
+      {
+        "zh": "一位顾客怒气冲冲地来找经理。",
+        "en": "A customer came looking for the manager, fuming."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate; often 怒气冲冲地.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "怒不可遏",
+      "气势汹汹",
+      "火冒三丈"
+    ],
+    "antonyms": [
+      "心平气和",
+      "和颜悦色"
+    ]
+  },
+  {
+    "id": "du-dao-zhi-chu",
+    "text": "独到之处",
+    "pinyin": "dú dào zhī chù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "innovation-and-progress"
+    ],
+    "literal": "unique · reaching · 's · point",
+    "natural": "what sets it apart",
+    "meaning": {
+      "en": "A distinctive merit or original feature that others lack.",
+      "zh": "与众不同的、别人没有达到的地方。"
+    },
+    "equivalents": [
+      "what sets it apart",
+      "unique strength",
+      "distinctive merit"
+    ],
+    "examples": [
+      {
+        "zh": "这家店的牛肉面有它的独到之处。",
+        "en": "This shop's beef noodles have something special about them."
+      },
+      {
+        "zh": "他的教学方法确有独到之处。",
+        "en": "His teaching method is genuinely distinctive."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 有……独到之处.",
+      "zh": "多作宾语，常说“有其独到之处”。"
+    },
+    "synonyms": [
+      "与众不同",
+      "别具一格"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "xia-bu-wei-li",
+    "text": "下不为例",
+    "pinyin": "xià bù wéi lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "standards-and-benchmarks"
+    ],
+    "literal": "next-time · not · make · precedent",
+    "natural": "just this once",
+    "meaning": {
+      "en": "This time is an exception and must not become a precedent.",
+      "zh": "下次不可以再这样做，表示只通融这一次。"
+    },
+    "equivalents": [
+      "just this once",
+      "don't let it happen again",
+      "not to be repeated"
+    ],
+    "examples": [
+      {
+        "zh": "这次就原谅你，下不为例。",
+        "en": "I'll let you off this time, but don't let it happen again."
+      },
+      {
+        "zh": "迟交作业可以，但下不为例。",
+        "en": "You can hand in your homework late, just this once."
+      }
+    ],
+    "usage": {
+      "en": "Clause; spoken by someone granting leniency.",
+      "zh": "多单独成句，用于表示通融。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "屡教不改"
+    ]
+  },
+  {
+    "id": "ren-ren-wei-xian",
+    "text": "任人唯贤",
+    "pinyin": "rèn rén wéi xián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "fairness-and-impartiality",
+      "leadership-and-authority"
+    ],
+    "literal": "appoint · people · only · worthy",
+    "natural": "appoint on merit",
+    "meaning": {
+      "en": "To appoint people solely on their ability and integrity.",
+      "zh": "只任用德才兼备的人。"
+    },
+    "equivalents": [
+      "appoint on merit",
+      "promote by ability",
+      "meritocracy"
+    ],
+    "examples": [
+      {
+        "zh": "选拔干部要任人唯贤，不能任人唯亲。",
+        "en": "Officials must be selected on merit, not through cronyism."
+      },
+      {
+        "zh": "公司坚持任人唯贤，年轻人也有机会当主管。",
+        "en": "The company promotes on merit, so young people can become managers too."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often contrasted with 任人唯亲.",
+      "zh": "多作谓语，常与“任人唯亲”对举。"
+    },
+    "synonyms": [
+      "选贤任能",
+      "知人善任"
+    ],
+    "antonyms": [
+      "论资排辈",
+      "结党营私"
+    ]
+  },
+  {
+    "id": "zuo-you-feng-yuan",
+    "text": "左右逢源",
+    "pinyin": "zuǒ yòu féng yuán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "confucian-classics"
+    ],
+    "literal": "left · right · meet · source",
+    "natural": "have it both ways",
+    "meaning": {
+      "en": "Originally, finding the source of learning wherever one turns; now, getting on well with all sides or succeeding at every turn (often implying slickness).",
+      "zh": "原指学问功夫到家，取用不尽；后比喻做事顺利，或为人圆滑，各方面都应付得很好。"
+    },
+    "equivalents": [
+      "play both sides",
+      "have it both ways",
+      "get on with everyone"
+    ],
+    "examples": [
+      {
+        "zh": "他在两派之间左右逢源，谁也不得罪。",
+        "en": "He plays both factions and offends no one."
+      },
+      {
+        "zh": "懂两门外语，求职时就能左右逢源。",
+        "en": "Knowing two foreign languages opens doors wherever you look for work."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·离娄下》",
+      "story": {
+        "en": "Mencius: learning truly made one's own can be drawn on deeply, so that 'one finds its source on the left and on the right' (取之左右逢其原).",
+        "zh": "《孟子·离娄下》：“资之深，则取之左右逢其原。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; neutral or mildly derogatory (slickness).",
+      "zh": "多作谓语，有时含圆滑之意。"
+    },
+    "synonyms": [
+      "八面玲珑",
+      "得心应手"
+    ],
+    "antonyms": [
+      "左右为难",
+      "进退两难"
+    ]
+  },
+  {
+    "id": "ru-huo-zhi-bao",
+    "text": "如获至宝",
+    "pinyin": "rú huò zhì bǎo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "joy-and-happiness"
+    ],
+    "literal": "as-if · obtain · supreme · treasure",
+    "natural": "as if one had found a treasure",
+    "meaning": {
+      "en": "As delighted as if one had found a priceless treasure.",
+      "zh": "好像得到了极珍贵的宝物，形容对所得到的东西非常珍爱。"
+    },
+    "equivalents": [
+      "as if one had struck gold",
+      "treasure it",
+      "overjoyed"
+    ],
+    "examples": [
+      {
+        "zh": "他买到那本绝版书，如获至宝。",
+        "en": "He found that out-of-print book and was as pleased as if he'd struck gold."
+      },
+      {
+        "zh": "孩子拿到新玩具，如获至宝。",
+        "en": "The child treasured the new toy."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "爱不释手",
+      "视如珍宝"
+    ],
+    "antonyms": [
+      "弃如敝屣",
+      "视如草芥"
+    ]
+  },
+  {
+    "id": "yi-wen-san-bu-zhi",
+    "text": "一问三不知",
+    "pinyin": "yī wèn sān bù zhī",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "foolishness-and-ignorance"
+    ],
+    "literal": "one · ask · three · not · know",
+    "natural": "not have a clue",
+    "meaning": {
+      "en": "To know nothing whatever one is asked; utterly ignorant (or feigning ignorance).",
+      "zh": "不管问什么都说不知道，形容什么都不知道，也指故意推说不知。"
+    },
+    "equivalents": [
+      "not have a clue",
+      "know nothing about anything",
+      "plead ignorance"
+    ],
+    "examples": [
+      {
+        "zh": "问他公司的情况，他一问三不知。",
+        "en": "Ask him anything about the company and he hasn't a clue."
+      },
+      {
+        "zh": "警察询问时，那人装得一问三不知。",
+        "en": "When the police questioned him, he pretended to know nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一无所知",
+      "茫然不知"
+    ],
+    "antonyms": [
+      "了如指掌",
+      "无所不知"
+    ]
+  },
+  {
+    "id": "lun-zi-pai-bei",
+    "text": "论资排辈",
+    "pinyin": "lùn zī pái bèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "leadership-and-authority"
+    ],
+    "literal": "judge · seniority · rank · generation",
+    "natural": "promotion by seniority",
+    "meaning": {
+      "en": "To rank and promote people by seniority rather than ability.",
+      "zh": "按资历、辈分决定级别和待遇。"
+    },
+    "equivalents": [
+      "seniority over merit",
+      "wait one's turn",
+      "promotion by length of service"
+    ],
+    "examples": [
+      {
+        "zh": "要打破论资排辈，让年轻人有机会。",
+        "en": "We must break with promotion by seniority and give young people a chance."
+      },
+      {
+        "zh": "在那家老单位，什么事都得论资排辈。",
+        "en": "At that old-fashioned workplace everything goes by seniority."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object; usually criticised.",
+      "zh": "多作谓语、宾语，多含批评意味。"
+    },
+    "synonyms": [
+      "按部就班"
+    ],
+    "antonyms": [
+      "任人唯贤",
+      "破格提拔"
+    ]
+  },
+  {
+    "id": "wu-shang-da-ya",
+    "text": "无伤大雅",
+    "pinyin": "wú shāng dà yǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "common-and-worthless",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · harm · great · elegance",
+    "natural": "no harm done",
+    "meaning": {
+      "en": "Not harming the essentials; a minor flaw that does not matter.",
+      "zh": "对主要方面没有妨碍，指小毛病无关紧要。"
+    },
+    "equivalents": [
+      "harmless",
+      "no big deal",
+      "doesn't really matter"
+    ],
+    "examples": [
+      {
+        "zh": "开个小玩笑无伤大雅。",
+        "en": "A little joke does no harm."
+      },
+      {
+        "zh": "文章有几个错别字，但无伤大雅。",
+        "en": "The essay has a few typos, but nothing serious."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "无关紧要",
+      "无足轻重"
+    ],
+    "antonyms": [
+      "伤风败俗"
+    ]
+  },
+  {
+    "id": "ni-sha-ju-xia",
+    "text": "泥沙俱下",
+    "pinyin": "ní shā jù xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "chaos",
+      "natural-consequences"
+    ],
+    "literal": "mud · sand · together · go-down",
+    "natural": "good and bad swept along together",
+    "meaning": {
+      "en": "Mud and sand washed down together; good and bad mixed indiscriminately.",
+      "zh": "泥土和沙子随水一起冲下来，比喻好坏不同的人或事物混在一起。"
+    },
+    "equivalents": [
+      "the good mixed with the bad",
+      "the wheat with the chaff",
+      "indiscriminate"
+    ],
+    "examples": [
+      {
+        "zh": "网络信息泥沙俱下，需要仔细辨别。",
+        "en": "Online information is a mix of good and bad, and needs careful sifting."
+      },
+      {
+        "zh": "市场一热，各种公司泥沙俱下地涌了进来。",
+        "en": "Once the market heated up, all kinds of companies, good and bad, piled in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "鱼龙混杂",
+      "良莠不齐"
+    ],
+    "antonyms": [
+      "泾渭分明"
+    ]
+  },
+  {
+    "id": "gan-tian-dong-di",
+    "text": "感天动地",
+    "pinyin": "gǎn tiān dòng dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "complex-emotional-states"
+    ],
+    "literal": "move · heaven · stir · earth",
+    "natural": "deeply moving",
+    "meaning": {
+      "en": "So moving that it touches heaven and earth.",
+      "zh": "使天地都受感动，形容感人至深。"
+    },
+    "equivalents": [
+      "deeply moving",
+      "heart-rending",
+      "heroic"
+    ],
+    "examples": [
+      {
+        "zh": "他们的爱情故事感天动地。",
+        "en": "Their love story is deeply moving."
+      },
+      {
+        "zh": "救灾英雄的事迹感天动地。",
+        "en": "The deeds of the rescue heroes touched everyone's hearts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "可歌可泣",
+      "惊天地泣鬼神"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yu-yan-you-zhi",
+    "text": "欲言又止",
+    "pinyin": "yù yán yòu zhǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "complex-emotional-states"
+    ],
+    "literal": "wish · speak · again · stop",
+    "natural": "on the verge of speaking but holding back",
+    "meaning": {
+      "en": "About to say something but stopping; hesitant to speak.",
+      "zh": "想说又停住不说，形容有难言的苦衷。"
+    },
+    "equivalents": [
+      "hesitate to speak",
+      "bite one's tongue",
+      "hold back"
+    ],
+    "examples": [
+      {
+        "zh": "她几次欲言又止，好像有什么心事。",
+        "en": "Several times she seemed about to speak and then held back, as if something was on her mind."
+      },
+      {
+        "zh": "看他欲言又止的样子，我知道出事了。",
+        "en": "From the way he hesitated, I knew something was wrong."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "吞吞吐吐",
+      "支支吾吾"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "畅所欲言"
+    ]
+  },
+  {
+    "id": "shi-bu-guan-ji",
+    "text": "事不关己",
+    "pinyin": "shì bù guān jǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "matter · not · concern · oneself",
+    "natural": "none of one's business",
+    "meaning": {
+      "en": "A matter of no concern to oneself; often 事不关己，高高挂起 (stay aloof from what doesn't affect you).",
+      "zh": "事情跟自己没有关系，常说“事不关己，高高挂起”。"
+    },
+    "equivalents": [
+      "none of my business",
+      "not my problem"
+    ],
+    "examples": [
+      {
+        "zh": "很多人抱着事不关己的态度，看见了也不管。",
+        "en": "Many people take a not-my-problem attitude and do nothing even when they see it."
+      },
+      {
+        "zh": "不能事不关己，高高挂起。",
+        "en": "We can't just stand aloof because it doesn't affect us."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; often followed by 高高挂起.",
+      "zh": "多作定语、谓语，常接“高高挂起”。"
+    },
+    "synonyms": [
+      "袖手旁观",
+      "漠不关心"
+    ],
+    "antonyms": [
+      "休戚相关",
+      "感同身受"
+    ]
+  },
+  {
+    "id": "jing-mei-jue-lun",
+    "text": "精美绝伦",
+    "pinyin": "jīng měi jué lún",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "master-craftsmanship"
+    ],
+    "literal": "exquisite · beautiful · peerless · kind",
+    "natural": "exquisite",
+    "meaning": {
+      "en": "Exquisitely beautiful beyond compare.",
+      "zh": "精致美好到了无与伦比的程度。"
+    },
+    "equivalents": [
+      "exquisite",
+      "breathtakingly beautiful",
+      "unrivalled craftsmanship"
+    ],
+    "examples": [
+      {
+        "zh": "博物馆里展出了一批精美绝伦的瓷器。",
+        "en": "The museum is showing a collection of exquisite porcelain."
+      },
+      {
+        "zh": "这件刺绣作品精美绝伦。",
+        "en": "This embroidery is breathtakingly beautiful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "巧夺天工",
+      "美轮美奂"
+    ],
+    "antonyms": [
+      "粗制滥造"
+    ]
+  },
+  {
+    "id": "yi-sao-er-kong",
+    "text": "一扫而空",
+    "pinyin": "yī sǎo ér kōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "one · sweep · and · empty",
+    "natural": "cleared out",
+    "meaning": {
+      "en": "Swept clean in one go; completely cleared away (food, goods, worries).",
+      "zh": "一下子就扫除干净。"
+    },
+    "equivalents": [
+      "cleared out",
+      "snapped up",
+      "wiped out"
+    ],
+    "examples": [
+      {
+        "zh": "新品一上架就被一扫而空。",
+        "en": "The new products were snapped up as soon as they hit the shelves."
+      },
+      {
+        "zh": "听到好消息，心里的烦恼一扫而空。",
+        "en": "When I heard the good news my worries vanished."
+      },
+      {
+        "zh": "一桌菜被孩子们一扫而空。",
+        "en": "The kids polished off the whole table of food."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 被……一扫而空.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一干二净",
+      "荡然无存"
+    ],
+    "antonyms": [
+      "原封不动"
+    ]
+  },
+  {
+    "id": "hui-fei-yan-mie",
+    "text": "灰飞烟灭",
+    "pinyin": "huī fēi yān miè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "poems-prose"
+    ],
+    "literal": "ash · fly · smoke · vanish",
+    "natural": "go up in smoke",
+    "meaning": {
+      "en": "Scattered like ash and vanishing like smoke; utterly destroyed.",
+      "zh": "像灰和烟一样消失，比喻彻底毁灭。"
+    },
+    "equivalents": [
+      "go up in smoke",
+      "vanish without trace",
+      "be wiped out"
+    ],
+    "examples": [
+      {
+        "zh": "一场大火，多年的心血灰飞烟灭。",
+        "en": "In one fire, years of hard work went up in smoke."
+      },
+      {
+        "zh": "昔日的帝国早已灰飞烟灭。",
+        "en": "The empire of old has long since vanished without trace."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《念奴娇·赤壁怀古》",
+      "story": {
+        "en": "Su Shi, recalling the Battle of Red Cliffs: as Zhou Yu laughed and talked, the enemy fleet 'was reduced to flying ash and vanishing smoke'.",
+        "zh": "苏轼《念奴娇·赤壁怀古》：“谈笑间，樯橹灰飞烟灭。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "烟消云散",
+      "化为乌有"
+    ],
+    "antonyms": [
+      "安然无恙"
+    ]
+  }
+]

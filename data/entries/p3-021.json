@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "wen-ren-mo-ke",
+    "text": "文人墨客",
+    "pinyin": "wén rén mò kè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "骚人墨客"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "reading-and-study",
+      "excellent-writing"
+    ],
+    "literal": "literary · men · ink · guests",
+    "natural": "men of letters",
+    "meaning": {
+      "en": "Writers, poets and other literary people.",
+      "zh": "泛指文人、诗人、书画家等风雅之士。"
+    },
+    "equivalents": [
+      "men of letters",
+      "literati",
+      "writers and poets"
+    ],
+    "examples": [
+      {
+        "zh": "西湖自古吸引了无数文人墨客。",
+        "en": "West Lake has drawn countless writers and poets since ancient times."
+      },
+      {
+        "zh": "这家茶馆曾是文人墨客聚会的地方。",
+        "en": "This teahouse was once a gathering place for the literati."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; often with 吸引/留下.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "文人雅士"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hao-chi-lan-zuo",
+    "text": "好吃懒做",
+    "pinyin": "hào chī lǎn zuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "negative-character-flaws"
+    ],
+    "literal": "love · eating · lazy · work",
+    "natural": "greedy and lazy",
+    "meaning": {
+      "en": "Fond of eating but too lazy to work.",
+      "zh": "贪图吃喝，懒于做事。"
+    },
+    "equivalents": [
+      "bone idle",
+      "a lazy glutton",
+      "all take and no work"
+    ],
+    "examples": [
+      {
+        "zh": "他好吃懒做，三十岁了还靠父母养着。",
+        "en": "He's greedy and bone idle — thirty and still living off his parents."
+      },
+      {
+        "zh": "老人常拿好吃懒做的人做反面例子教育孩子。",
+        "en": "Old people often hold up lazy gluttons as a warning to children."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; critical.",
+      "zh": "多作谓语、定语，含贬义。"
+    },
+    "synonyms": [
+      "游手好闲",
+      "好逸恶劳"
+    ],
+    "antonyms": [
+      "勤勤恳恳",
+      "吃苦耐劳"
+    ]
+  },
+  {
+    "id": "mo-zhong-yi-shi",
+    "text": "莫衷一是",
+    "pinyin": "mò zhōng yī shì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "public-opinion"
+    ],
+    "literal": "none · settle · one · right",
+    "natural": "no agreement",
+    "meaning": {
+      "en": "Opinions differ and no one can say which is right.",
+      "zh": "意见分歧，不能得出一致的结论。"
+    },
+    "equivalents": [
+      "opinions differ",
+      "no consensus",
+      "there is no agreed answer"
+    ],
+    "examples": [
+      {
+        "zh": "关于这个问题，专家们众说纷纭，莫衷一是。",
+        "en": "Experts are divided on this question and there's no consensus."
+      },
+      {
+        "zh": "网上的说法莫衷一是，还是看官方通知吧。",
+        "en": "The claims online are all over the place — better to check the official notice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often after 众说纷纭.",
+      "zh": "多作谓语，常与“众说纷纭”连用。"
+    },
+    "synonyms": [
+      "众说纷纭"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "lao-bu-ke-po",
+    "text": "牢不可破",
+    "pinyin": "láo bù kě pò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "positive-character-qualities"
+    ],
+    "literal": "firm · not · can · break",
+    "natural": "unbreakable",
+    "meaning": {
+      "en": "So firm that it cannot be broken.",
+      "zh": "坚固得不能摧毁。多形容关系、信念等十分牢固。"
+    },
+    "equivalents": [
+      "unbreakable",
+      "rock-solid",
+      "unshakeable"
+    ],
+    "examples": [
+      {
+        "zh": "两国之间建立了牢不可破的友谊。",
+        "en": "The two countries have forged an unbreakable friendship."
+      },
+      {
+        "zh": "这种偏见在他心里已经牢不可破。",
+        "en": "This prejudice has become deeply entrenched in his mind."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; often of friendship, alliances, beliefs.",
+      "zh": "多作定语、谓语，常修饰友谊、联盟等。"
+    },
+    "synonyms": [
+      "坚不可摧",
+      "坚如磐石"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一触即溃"
+    ]
+  },
+  {
+    "id": "zhi-ming-dao-xing",
+    "text": "指名道姓",
+    "pinyin": "zhǐ míng dào xìng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "点名道姓"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "frankness-and-candour"
+    ],
+    "literal": "point · name · say · surname",
+    "natural": "name names",
+    "meaning": {
+      "en": "To mention someone explicitly by name.",
+      "zh": "直接说出对方的姓名。"
+    },
+    "equivalents": [
+      "name names",
+      "call someone out by name",
+      "single someone out"
+    ],
+    "examples": [
+      {
+        "zh": "他在会上指名道姓地批评了两个部门。",
+        "en": "At the meeting he criticised two departments by name."
+      },
+      {
+        "zh": "她没有指名道姓，但大家都知道她说的是谁。",
+        "en": "She didn't name names, but everyone knew who she meant."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial (指名道姓地…) or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "含沙射影",
+      "旁敲侧击"
+    ]
+  },
+  {
+    "id": "jian-nan-qu-zhe",
+    "text": "艰难曲折",
+    "pinyin": "jiān nán qū zhé",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poverty-and-hardship",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "hard · difficult · winding · turning",
+    "natural": "full of twists and hardships",
+    "meaning": {
+      "en": "Hard and full of twists and turns.",
+      "zh": "形容经历的过程困难而不顺利。"
+    },
+    "equivalents": [
+      "tortuous",
+      "full of ups and downs",
+      "a long hard road"
+    ],
+    "examples": [
+      {
+        "zh": "这项研究经历了艰难曲折的过程。",
+        "en": "This research went through a long and tortuous process."
+      },
+      {
+        "zh": "回顾创业初期，道路十分艰难曲折。",
+        "en": "Looking back on the early days of the business, the road was full of hardships."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; common in formal writing.",
+      "zh": "多作定语、谓语，多用于书面语。"
+    },
+    "synonyms": [
+      "坎坎坷坷",
+      "历经坎坷"
+    ],
+    "antonyms": [
+      "一帆风顺"
+    ]
+  },
+  {
+    "id": "ren-yun-yi-yun",
+    "text": "人云亦云",
+    "pinyin": "rén yún yì yún",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation"
+    ],
+    "literal": "others · say · also · say",
+    "natural": "parrot what others say",
+    "meaning": {
+      "en": "To repeat what others say without thinking for oneself.",
+      "zh": "别人怎么说，自己也跟着怎么说，没有主见。"
+    },
+    "equivalents": [
+      "parrot others",
+      "follow the herd",
+      "echo other people's views"
+    ],
+    "examples": [
+      {
+        "zh": "看问题要有自己的判断，不能人云亦云。",
+        "en": "You need your own judgement, not just parrot what others say."
+      },
+      {
+        "zh": "网上很多评论都是人云亦云。",
+        "en": "Many comments online just follow the herd."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 不能/不要人云亦云.",
+      "zh": "多作谓语，常说“不能人云亦云”。"
+    },
+    "synonyms": [
+      "随声附和",
+      "鹦鹉学舌"
+    ],
+    "antonyms": [
+      "独树一帜"
+    ]
+  },
+  {
+    "id": "xuan-ya-le-ma",
+    "text": "悬崖勒马",
+    "pinyin": "xuán yá lè mǎ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "danger"
+    ],
+    "literal": "cliff · edge · rein in · horse",
+    "natural": "pull back from the brink",
+    "meaning": {
+      "en": "To stop just in time before disaster.",
+      "zh": "在悬崖边上勒住马。比喻到了危险边缘及时醒悟回头。"
+    },
+    "equivalents": [
+      "pull back from the brink",
+      "stop before it's too late",
+      "rein yourself in"
+    ],
+    "examples": [
+      {
+        "zh": "你现在悬崖勒马还来得及。",
+        "en": "It's not too late to pull back from the brink."
+      },
+      {
+        "zh": "幸好他悬崖勒马，没有签那份合同。",
+        "en": "Luckily he stopped himself in time and didn't sign that contract."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "迷途知返",
+      "回头是岸"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "一意孤行"
+    ]
+  },
+  {
+    "id": "duo-yi-shi-bu-ru-shao-yi-shi",
+    "text": "多一事不如少一事",
+    "pinyin": "duō yī shì bù rú shǎo yī shì",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "rural-wisdom",
+      "laziness-and-giving-up"
+    ],
+    "literal": "more · one · matter · not · as good as · less · one · matter",
+    "natural": "better to stay out of it",
+    "meaning": {
+      "en": "It is better to avoid extra trouble than to get involved.",
+      "zh": "与其多管一件事，不如少管一件事。指怕惹麻烦，不愿多管闲事。"
+    },
+    "equivalents": [
+      "let sleeping dogs lie",
+      "don't go looking for trouble",
+      "the less fuss the better"
+    ],
+    "examples": [
+      {
+        "zh": "他抱着多一事不如少一事的态度，对问题视而不见。",
+        "en": "With a 'don't go looking for trouble' attitude, he turned a blind eye to the problem."
+      },
+      {
+        "zh": "算了，多一事不如少一事，别去管人家的闲事了。",
+        "en": "Forget it — the less fuss the better. Don't meddle in their business."
+      }
+    ],
+    "usage": {
+      "en": "Often as advice or in 抱着…的态度; can sound passive.",
+      "zh": "常作劝说语，或说“抱着多一事不如少一事的态度”。"
+    },
+    "synonyms": [
+      "息事宁人"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yu-guo-tian-qing",
+    "text": "雨过天晴",
+    "pinyin": "yǔ guò tiān qíng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "雨过天青"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "seasonal-changes"
+    ],
+    "literal": "rain · pass · sky · clear",
+    "natural": "after rain comes sunshine",
+    "meaning": {
+      "en": "The sky clears after rain; things improve after a bad spell.",
+      "zh": "雨后转晴。比喻黑暗过去，光明到来，或困境过去。"
+    },
+    "equivalents": [
+      "after the storm comes the calm",
+      "every cloud has a silver lining",
+      "the worst is over"
+    ],
+    "examples": [
+      {
+        "zh": "一场大雨后，雨过天晴，空气格外清新。",
+        "en": "After the downpour the sky cleared and the air was wonderfully fresh."
+      },
+      {
+        "zh": "经过几个月的风波，公司终于雨过天晴。",
+        "en": "After months of turmoil, the company finally came through the storm."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or independent clause.",
+      "zh": "多作谓语或独立成句。"
+    },
+    "synonyms": [
+      "拨云见日"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yu-ren-wei-shan",
+    "text": "与人为善",
+    "pinyin": "yǔ rén wéi shàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "with · others · do · good",
+    "natural": "be kind to others",
+    "meaning": {
+      "en": "To treat others with goodwill and help them do well.",
+      "zh": "原指赞同别人做好事，现指善意地对待和帮助别人。"
+    },
+    "equivalents": [
+      "be kind to others",
+      "treat people with goodwill",
+      "give people the benefit of the doubt"
+    ],
+    "examples": [
+      {
+        "zh": "她一向与人为善，人缘特别好。",
+        "en": "She's always kind to others, so everyone likes her."
+      },
+      {
+        "zh": "批评同事要本着与人为善的态度。",
+        "en": "Criticism of colleagues should be offered in a spirit of goodwill."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "Mencius praised the sage Shun for learning from others' goodness: 'to take from others in order to do good is to do good together with others' (与人为善).",
+        "zh": "《孟子》：“取诸人以为善，是与人为善者也。故君子莫大乎与人为善。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "乐于助人",
+      "助人为乐"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ji-zhuo-yang-qing",
+    "text": "激浊扬清",
+    "pinyin": "jī zhuó yáng qīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "扬清激浊"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "fairness-and-impartiality"
+    ],
+    "literal": "flush away · muddy · raise · clear",
+    "natural": "drive out evil and promote good",
+    "meaning": {
+      "en": "To get rid of the bad and promote the good.",
+      "zh": "冲去污水，让清水上来。比喻清除坏的，发扬好的。"
+    },
+    "equivalents": [
+      "root out evil and promote good",
+      "clean house",
+      "champion integrity"
+    ],
+    "examples": [
+      {
+        "zh": "舆论监督能起到激浊扬清的作用。",
+        "en": "Media oversight can help root out the bad and promote the good."
+      },
+      {
+        "zh": "新任局长决心激浊扬清，整顿作风。",
+        "en": "The new director is determined to clean house and restore integrity."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; formal.",
+      "zh": "多作谓语、定语，书面语。"
+    },
+    "synonyms": [
+      "惩恶扬善"
+    ],
+    "antonyms": [
+      "同流合污"
+    ]
+  },
+  {
+    "id": "deng-huo-hui-huang",
+    "text": "灯火辉煌",
+    "pinyin": "dēng huǒ huī huáng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "daily-time-periods"
+    ],
+    "literal": "lamps · fire · brilliant · bright",
+    "natural": "ablaze with lights",
+    "meaning": {
+      "en": "Brilliantly lit up.",
+      "zh": "形容灯光明亮，景象繁华。"
+    },
+    "equivalents": [
+      "ablaze with lights",
+      "brightly lit",
+      "a blaze of lights"
+    ],
+    "examples": [
+      {
+        "zh": "夜晚的外滩灯火辉煌。",
+        "en": "At night the Bund is ablaze with lights."
+      },
+      {
+        "zh": "除夕之夜，家家户户灯火辉煌。",
+        "en": "On New Year's Eve every home is brightly lit."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "张灯结彩",
+      "万家灯火"
+    ],
+    "antonyms": [
+      "漆黑一团"
+    ]
+  },
+  {
+    "id": "guang-tian-hua-ri",
+    "text": "光天化日",
+    "pinyin": "guāng tiān huà rì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily-time-periods",
+      "corruption-and-injustice"
+    ],
+    "literal": "bright · sky · transforming · sun",
+    "natural": "broad daylight",
+    "meaning": {
+      "en": "Broad daylight; in full public view.",
+      "zh": "比喻大家看得很清楚的场合，多用于“光天化日之下”。"
+    },
+    "equivalents": [
+      "in broad daylight",
+      "in full view of everyone",
+      "brazenly"
+    ],
+    "examples": [
+      {
+        "zh": "光天化日之下竟然有人抢劫！",
+        "en": "Someone committed a robbery in broad daylight!"
+      },
+      {
+        "zh": "他们光天化日之下公然造假。",
+        "en": "They faked the figures brazenly, in full view of everyone."
+      }
+    ],
+    "usage": {
+      "en": "Almost always 光天化日之下, stressing a brazen act.",
+      "zh": "多用“光天化日之下”，强调公然作恶。"
+    },
+    "synonyms": [
+      "众目睽睽",
+      "大庭广众"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ren-xin-suo-xiang",
+    "text": "人心所向",
+    "pinyin": "rén xīn suǒ xiàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "民心所向"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "public-opinion",
+      "news-and-officialese"
+    ],
+    "literal": "people's · hearts · what · turn to",
+    "natural": "what the people want",
+    "meaning": {
+      "en": "What the people support and long for.",
+      "zh": "人们心里所向往、拥护的。"
+    },
+    "equivalents": [
+      "the popular will",
+      "what the people want",
+      "the tide of public opinion"
+    ],
+    "examples": [
+      {
+        "zh": "和平发展是人心所向。",
+        "en": "Peaceful development is what the people want."
+      },
+      {
+        "zh": "改革是大势所趋，人心所向。",
+        "en": "Reform is the trend of the times and the will of the people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate (是人心所向); often with 大势所趋.",
+      "zh": "多作谓语，常与“大势所趋”连用。"
+    },
+    "synonyms": [
+      "众望所归"
+    ],
+    "antonyms": [
+      "众叛亲离"
+    ]
+  },
+  {
+    "id": "qi-ling-ba-luo",
+    "text": "七零八落",
+    "pinyin": "qī líng bā luò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "chaos",
+      "numbers"
+    ],
+    "literal": "seven · scattered · eight · fallen",
+    "natural": "in a mess",
+    "meaning": {
+      "en": "Scattered about in disorder.",
+      "zh": "形容零散稀落或杂乱不整齐的样子。"
+    },
+    "equivalents": [
+      "scattered all over",
+      "in disarray",
+      "higgledy-piggledy"
+    ],
+    "examples": [
+      {
+        "zh": "一场大风过后，院子里的花盆倒得七零八落。",
+        "en": "After the gale the flowerpots in the yard were knocked over everywhere."
+      },
+      {
+        "zh": "我们队被对手打得七零八落。",
+        "en": "Our team was torn to pieces by the opposition."
+      }
+    ],
+    "usage": {
+      "en": "Complement (…得七零八落) or predicate.",
+      "zh": "多作补语、谓语。"
+    },
+    "synonyms": [
+      "支离破碎",
+      "东零西散"
+    ],
+    "antonyms": [
+      "井井有条",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "cang-hai-sang-tian",
+    "text": "沧海桑田",
+    "pinyin": "cāng hǎi sāng tián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "change",
+      "fleeting-time",
+      "myths-legends"
+    ],
+    "literal": "blue · sea · mulberry · fields",
+    "natural": "the world has changed beyond recognition",
+    "meaning": {
+      "en": "Seas turn into fields — great changes over time.",
+      "zh": "大海变成桑田，桑田变成大海。比喻世事变化巨大。"
+    },
+    "equivalents": [
+      "changed beyond recognition",
+      "the passage of the ages",
+      "time changes everything"
+    ],
+    "examples": [
+      {
+        "zh": "几十年过去，故乡已是沧海桑田。",
+        "en": "Decades on, my hometown has changed beyond recognition."
+      },
+      {
+        "zh": "老人感慨地说起了这些年的沧海桑田。",
+        "en": "The old man spoke wistfully of all the upheavals over the years."
+      }
+    ],
+    "origin": {
+      "source": "葛洪《神仙传·麻姑》",
+      "story": {
+        "en": "The immortal Magu told Wang Fangping that since they last met she had seen the Eastern Sea turn into mulberry fields three times.",
+        "zh": "《神仙传》麻姑自说：“接待以来，已见东海三为桑田。”"
+      }
+    },
+    "usage": {
+      "en": "Subject, object or predicate; literary.",
+      "zh": "多作主语、宾语、谓语，书面语。"
+    },
+    "synonyms": [
+      "白云苍狗",
+      "物是人非"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "ling-ren-zuo-ou",
+    "text": "令人作呕",
+    "pinyin": "lìng rén zuò ǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "deception-and-false-appearances"
+    ],
+    "literal": "make · people · want to · vomit",
+    "natural": "sickening",
+    "meaning": {
+      "en": "Disgusting; making one feel sick.",
+      "zh": "让人恶心想吐。比喻使人极端厌恶。"
+    },
+    "equivalents": [
+      "sickening",
+      "nauseating",
+      "it makes you sick"
+    ],
+    "examples": [
+      {
+        "zh": "垃圾堆散发出令人作呕的气味。",
+        "en": "The rubbish heap gave off a nauseating smell."
+      },
+      {
+        "zh": "他那副阿谀奉承的样子真令人作呕。",
+        "en": "His fawning manner is truly sickening."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "令人发指"
+    ],
+    "antonyms": [
+      "赏心悦目"
+    ]
+  },
+  {
+    "id": "feng-yu-jiao-jia",
+    "text": "风雨交加",
+    "pinyin": "fēng yǔ jiāo jiā",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "bad-fortune"
+    ],
+    "literal": "wind · rain · together · come",
+    "natural": "wind and rain together",
+    "meaning": {
+      "en": "Wind and rain lashing down at once; trouble on all sides.",
+      "zh": "又刮风又下雨。也比喻几种灾难同时袭来。"
+    },
+    "equivalents": [
+      "a stormy night",
+      "wind and rain lashing down",
+      "troubles coming thick and fast"
+    ],
+    "examples": [
+      {
+        "zh": "那是一个风雨交加的夜晚。",
+        "en": "It was a dark and stormy night."
+      },
+      {
+        "zh": "尽管风雨交加，救援队仍连夜赶到。",
+        "en": "Despite the lashing wind and rain, the rescue team arrived overnight."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (风雨交加的夜晚).",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "狂风暴雨"
+    ],
+    "antonyms": [
+      "风和日丽"
+    ]
+  },
+  {
+    "id": "xin-li-shuai-jie",
+    "text": "心力衰竭",
+    "pinyin": "xīn lì shuāi jié",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "heart · strength · decline · exhausted",
+    "natural": "heart failure",
+    "meaning": {
+      "en": "Heart failure; also, utter mental and physical exhaustion.",
+      "zh": "医学上指心脏功能衰竭；也形容精神和体力极度疲惫。"
+    },
+    "equivalents": [
+      "heart failure",
+      "cardiac failure",
+      "utterly drained"
+    ],
+    "examples": [
+      {
+        "zh": "老人因心力衰竭住进了医院。",
+        "en": "The old man was admitted to hospital with heart failure."
+      },
+      {
+        "zh": "连续加班一个月，他感到心力衰竭。",
+        "en": "After a month of overtime he felt utterly drained."
+      }
+    ],
+    "usage": {
+      "en": "Mainly a medical term; figurative use is less common (心力交瘁 is the usual idiom).",
+      "zh": "主要是医学术语；比喻疲惫时多用“心力交瘁”。"
+    },
+    "synonyms": [
+      "心力交瘁"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hui-xin-zhuan-yi",
+    "text": "回心转意",
+    "pinyin": "huí xīn zhuǎn yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "change",
+      "mistakes-and-correction"
+    ],
+    "literal": "turn · heart · change · mind",
+    "natural": "change one's mind",
+    "meaning": {
+      "en": "To change one's mind and come round, especially to drop a grudge.",
+      "zh": "改变原来的想法和态度，多指不再坚持原来的成见或决定。"
+    },
+    "equivalents": [
+      "change one's mind",
+      "come round",
+      "have a change of heart"
+    ],
+    "examples": [
+      {
+        "zh": "她终于回心转意，答应回家了。",
+        "en": "She finally came round and agreed to come home."
+      },
+      {
+        "zh": "我们再劝劝他，说不定他会回心转意。",
+        "en": "Let's try talking to him again — he might change his mind."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "改弦易辙"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "死心塌地"
+    ]
+  },
+  {
+    "id": "wang-er-sheng-wei",
+    "text": "望而生畏",
+    "pinyin": "wàng ér shēng wèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "look · and · produce · fear",
+    "natural": "daunting at first sight",
+    "meaning": {
+      "en": "To be daunted or intimidated just by the sight of something.",
+      "zh": "看到了就害怕。"
+    },
+    "equivalents": [
+      "daunting",
+      "intimidating",
+      "be overawed"
+    ],
+    "examples": [
+      {
+        "zh": "这本厚厚的教材让很多学生望而生畏。",
+        "en": "Many students find this thick textbook daunting."
+      },
+      {
+        "zh": "他表情严肃，让人望而生畏。",
+        "en": "His stern expression makes people wary of approaching him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 令人/让人望而生畏.",
+      "zh": "多作谓语，常说“令人望而生畏”。"
+    },
+    "synonyms": [
+      "望而却步"
+    ],
+    "antonyms": [
+      "平易近人",
+      "和蔼可亲"
+    ]
+  },
+  {
+    "id": "yi-wu-shi-chu",
+    "text": "一无是处",
+    "pinyin": "yī wú shì chù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "common-and-worthless"
+    ],
+    "literal": "one · not · right · place",
+    "natural": "good for nothing",
+    "meaning": {
+      "en": "Having nothing good about it at all.",
+      "zh": "没有一点对的或好的地方。"
+    },
+    "equivalents": [
+      "good for nothing",
+      "without a single redeeming feature",
+      "utterly worthless"
+    ],
+    "examples": [
+      {
+        "zh": "别把自己说得一无是处。",
+        "en": "Don't talk about yourself as if you're good for nothing."
+      },
+      {
+        "zh": "这个方案并非一无是处，只是需要改进。",
+        "en": "The plan isn't entirely without merit; it just needs work."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement (说得一无是处).",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "一文不值",
+      "一无可取"
+    ],
+    "antonyms": [
+      "十全十美",
+      "完美无缺"
+    ]
+  },
+  {
+    "id": "yang-er-fang-lao",
+    "text": "养儿防老",
+    "pinyin": "yǎng ér fáng lǎo",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "filial-piety",
+      "parenting-and-family",
+      "rural-wisdom"
+    ],
+    "literal": "raise · son · guard against · old age",
+    "natural": "raise children to care for you in old age",
+    "meaning": {
+      "en": "To bring up children so that they will look after you when you are old.",
+      "zh": "养育儿女，以备年老时有人奉养。"
+    },
+    "equivalents": [
+      "children as a pension",
+      "raise kids to look after you in old age"
+    ],
+    "examples": [
+      {
+        "zh": "“养儿防老”的观念在农村仍然很普遍。",
+        "en": "The idea of raising children to support you in old age is still common in rural areas."
+      },
+      {
+        "zh": "随着养老保险的普及，养儿防老的想法正在改变。",
+        "en": "With the spread of pension insurance, the notion of children as a pension is changing."
+      }
+    ],
+    "usage": {
+      "en": "Often quoted as a traditional idea; full saying 养儿防老，积谷防饥.",
+      "zh": "常作为传统观念被引用，全句为“养儿防老，积谷防饥”。"
+    },
+    "synonyms": [
+      "积谷防饥"
+    ],
+    "antonyms": []
+  }
+]

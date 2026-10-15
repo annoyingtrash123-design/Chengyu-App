@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "fen-nei-zhi-shi",
+    "text": "分内之事",
+    "pinyin": "fèn nèi zhī shì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "polite-humble"
+    ],
+    "literal": "duty · within · 's · matter",
+    "natural": "all in a day's work",
+    "meaning": {
+      "en": "Something that falls within one's own duty.",
+      "zh": "本分以内应该做的事。"
+    },
+    "equivalents": [
+      "all in a day's work",
+      "part of the job",
+      "just doing my duty"
+    ],
+    "examples": [
+      {
+        "zh": "帮助病人是医生的分内之事。",
+        "en": "Helping patients is simply part of a doctor's job."
+      },
+      {
+        "zh": "别客气，这是我的分内之事。",
+        "en": "Don't mention it — it's all in a day's work."
+      }
+    ],
+    "usage": {
+      "en": "Object; often a modest reply to thanks. 分 is read fèn.",
+      "zh": "多作宾语，常用作受谢时的谦辞。“分”读fèn。"
+    },
+    "synonyms": [
+      "义不容辞",
+      "责无旁贷"
+    ],
+    "antonyms": [
+      "多管闲事"
+    ]
+  },
+  {
+    "id": "dian-jing-zhi-bi",
+    "text": "点睛之笔",
+    "pinyin": "diǎn jīng zhī bǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "dot · eye · 's · stroke",
+    "natural": "the finishing touch",
+    "meaning": {
+      "en": "The crucial stroke that brings a work to life (from the story of painting in a dragon's eyes).",
+      "zh": "比喻文章或作品中最精彩、最关键的部分（源自“画龙点睛”）。"
+    },
+    "equivalents": [
+      "the finishing touch",
+      "the crowning touch",
+      "the highlight"
+    ],
+    "examples": [
+      {
+        "zh": "文章的结尾是全篇的点睛之笔。",
+        "en": "The ending is the crowning touch of the whole essay."
+      },
+      {
+        "zh": "这盏吊灯是整个客厅设计的点睛之笔。",
+        "en": "The chandelier is the finishing touch to the living room."
+      }
+    ],
+    "usage": {
+      "en": "Object, often 是……的点睛之笔.",
+      "zh": "多作宾语，常说“是……的点睛之笔”。"
+    },
+    "synonyms": [
+      "画龙点睛"
+    ],
+    "antonyms": [
+      "画蛇添足"
+    ]
+  },
+  {
+    "id": "nu-huo-zhong-shao",
+    "text": "怒火中烧",
+    "pinyin": "nù huǒ zhōng shāo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "anger · fire · inside · burn",
+    "natural": "burn with rage",
+    "meaning": {
+      "en": "Burning with anger inside.",
+      "zh": "怒火在心中燃烧，形容非常愤怒。"
+    },
+    "equivalents": [
+      "burn with rage",
+      "seethe",
+      "see red"
+    ],
+    "examples": [
+      {
+        "zh": "看到孩子被欺负，他怒火中烧。",
+        "en": "Seeing his child bullied, he was seething with rage."
+      },
+      {
+        "zh": "她强压着怒火中烧的情绪，保持微笑。",
+        "en": "Burning with anger, she forced herself to keep smiling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "怒不可遏",
+      "火冒三丈"
+    ],
+    "antonyms": [
+      "心平气和"
+    ]
+  },
+  {
+    "id": "su-wei-mou-mian",
+    "text": "素未谋面",
+    "pinyin": "sù wèi móu miàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "always · not yet · seek · face",
+    "natural": "have never met",
+    "meaning": {
+      "en": "Never to have met before.",
+      "zh": "从来没有见过面。"
+    },
+    "equivalents": [
+      "have never met",
+      "total strangers"
+    ],
+    "examples": [
+      {
+        "zh": "我们虽然素未谋面，但通信多年。",
+        "en": "Although we've never met, we've corresponded for years."
+      },
+      {
+        "zh": "一位素未谋面的网友帮了他大忙。",
+        "en": "An online friend he had never met helped him enormously."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "素不相识",
+      "萍水相逢"
+    ],
+    "antonyms": [
+      "一见如故",
+      "似曾相识"
+    ]
+  },
+  {
+    "id": "zi-li-men-hu",
+    "text": "自立门户",
+    "pinyin": "zì lì mén hù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "freedom",
+      "innovation-and-progress"
+    ],
+    "literal": "self · set up · gate · household",
+    "natural": "strike out on one's own",
+    "meaning": {
+      "en": "To set up on one's own, independent of the group one belonged to.",
+      "zh": "脱离原来的集体，自己另外成立门户。"
+    },
+    "equivalents": [
+      "strike out on one's own",
+      "go it alone",
+      "set up one's own business"
+    ],
+    "examples": [
+      {
+        "zh": "他在大公司干了十年，后来自立门户。",
+        "en": "After ten years at a big firm, he struck out on his own."
+      },
+      {
+        "zh": "这位厨师离开名店，自立门户开了餐馆。",
+        "en": "The chef left the famous restaurant and opened his own place."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "另起炉灶",
+      "自成一家"
+    ],
+    "antonyms": [
+      "寄人篱下"
+    ]
+  },
+  {
+    "id": "guang-cai-duo-mu",
+    "text": "光彩夺目",
+    "pinyin": "guāng cǎi duó mù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "light · colour · seize · eye",
+    "natural": "dazzling",
+    "meaning": {
+      "en": "Dazzlingly bright and beautiful.",
+      "zh": "光泽和色彩非常鲜艳耀眼。"
+    },
+    "equivalents": [
+      "dazzling",
+      "eye-catching",
+      "brilliant"
+    ],
+    "examples": [
+      {
+        "zh": "橱窗里的珠宝光彩夺目。",
+        "en": "The jewellery in the window is dazzling."
+      },
+      {
+        "zh": "她在颁奖典礼上光彩夺目。",
+        "en": "She looked stunning at the awards ceremony."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "光彩照人",
+      "璀璨夺目"
+    ],
+    "antonyms": [
+      "黯然失色"
+    ]
+  },
+  {
+    "id": "man-bu-zai-hu",
+    "text": "满不在乎",
+    "pinyin": "mǎn bù zài hū",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "fully · not · care · about",
+    "natural": "couldn't care less",
+    "meaning": {
+      "en": "Completely indifferent.",
+      "zh": "完全不放在心上。"
+    },
+    "equivalents": [
+      "couldn't care less",
+      "not give a hoot",
+      "nonchalant"
+    ],
+    "examples": [
+      {
+        "zh": "被老师批评后，他还是一副满不在乎的样子。",
+        "en": "Even after being told off, he looked as if he couldn't care less."
+      },
+      {
+        "zh": "她对别人的议论满不在乎。",
+        "en": "She's completely unbothered by what others say."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often 一副满不在乎的样子.",
+      "zh": "多作谓语、定语，常说“一副满不在乎的样子”。"
+    },
+    "synonyms": [
+      "漫不经心",
+      "无所谓"
+    ],
+    "antonyms": [
+      "斤斤计较",
+      "耿耿于怀"
+    ]
+  },
+  {
+    "id": "bai-li-tiao-yi",
+    "text": "百里挑一",
+    "pinyin": "bǎi lǐ tiāo yī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "numbers"
+    ],
+    "literal": "hundred · among · pick · one",
+    "natural": "one in a hundred",
+    "meaning": {
+      "en": "One chosen from a hundred; outstanding.",
+      "zh": "从一百个里挑出一个，形容极为出众。"
+    },
+    "equivalents": [
+      "one in a hundred",
+      "one in a million",
+      "the cream of the crop"
+    ],
+    "examples": [
+      {
+        "zh": "她是百里挑一的好姑娘。",
+        "en": "She's one in a million."
+      },
+      {
+        "zh": "能进这所学校的学生都是百里挑一。",
+        "en": "Students who get into this school are the cream of the crop."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "出类拔萃",
+      "凤毛麟角"
+    ],
+    "antonyms": [
+      "平淡无奇",
+      "比比皆是"
+    ]
+  },
+  {
+    "id": "you-li-you-bi",
+    "text": "有利有弊",
+    "pinyin": "yǒu lì yǒu bì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements",
+      "essay-favourites"
+    ],
+    "literal": "have · benefit · have · drawback",
+    "natural": "pros and cons",
+    "meaning": {
+      "en": "Having both advantages and disadvantages.",
+      "zh": "既有好处也有坏处。"
+    },
+    "equivalents": [
+      "has pros and cons",
+      "a double-edged sword",
+      "cuts both ways"
+    ],
+    "examples": [
+      {
+        "zh": "使用手机学习有利有弊。",
+        "en": "Using phones to study has pros and cons."
+      },
+      {
+        "zh": "任何政策都有利有弊，关键是权衡。",
+        "en": "Every policy cuts both ways — the key is weighing them up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; essay staple.",
+      "zh": "多作谓语，议论文常用。"
+    },
+    "synonyms": [
+      "利弊参半"
+    ],
+    "antonyms": [
+      "有百利而无一害"
+    ]
+  },
+  {
+    "id": "hun-hun-chen-chen",
+    "text": "昏昏沉沉",
+    "pinyin": "hūn hūn chén chén",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "distracted-attention"
+    ],
+    "literal": "dim · dim · heavy · heavy",
+    "natural": "groggy",
+    "meaning": {
+      "en": "Drowsy and muddle-headed.",
+      "zh": "头脑昏沉，神志不清。"
+    },
+    "equivalents": [
+      "groggy",
+      "drowsy",
+      "woozy"
+    ],
+    "examples": [
+      {
+        "zh": "吃了感冒药，他整天昏昏沉沉的。",
+        "en": "After the cold medicine he was groggy all day."
+      },
+      {
+        "zh": "熬夜之后，第二天上课昏昏沉沉。",
+        "en": "After staying up late, I was drowsy in class the next day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "迷迷糊糊",
+      "昏头昏脑"
+    ],
+    "antonyms": [
+      "神清气爽",
+      "精神抖擞"
+    ]
+  },
+  {
+    "id": "hao-da-xi-gong",
+    "text": "好大喜功",
+    "pinyin": "hào dà xǐ gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "high-aspirations"
+    ],
+    "literal": "love · grand · enjoy · achievement",
+    "natural": "chase glory",
+    "meaning": {
+      "en": "Fond of grandiose projects and quick glory.",
+      "zh": "一心想做大事，立大功，多指浮夸冒进。"
+    },
+    "equivalents": [
+      "chase glory",
+      "grandiose",
+      "vainglorious"
+    ],
+    "examples": [
+      {
+        "zh": "这位官员好大喜功，搞了很多形象工程。",
+        "en": "The official was a glory-seeker who built endless vanity projects."
+      },
+      {
+        "zh": "创业不能好大喜功，要稳扎稳打。",
+        "en": "In a start-up, don't chase glory — build steadily."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; critical. 好 is read hào.",
+      "zh": "多作谓语、定语，含贬义。“好”读hào。"
+    },
+    "synonyms": [
+      "急功近利",
+      "贪大求全"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "稳扎稳打"
+    ]
+  },
+  {
+    "id": "qi-li-zi-san",
+    "text": "妻离子散",
+    "pinyin": "qī lí zǐ sàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "poverty-and-hardship"
+    ],
+    "literal": "wife · leave · children · scatter",
+    "natural": "a family torn apart",
+    "meaning": {
+      "en": "A family broken up and scattered.",
+      "zh": "妻子儿女分散，形容家庭破散。"
+    },
+    "equivalents": [
+      "a family torn apart",
+      "broken home"
+    ],
+    "examples": [
+      {
+        "zh": "战争让无数家庭妻离子散。",
+        "en": "War tore countless families apart."
+      },
+      {
+        "zh": "他赌博欠债，最后落得妻离子散。",
+        "en": "His gambling debts left him with his family scattered."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "家破人亡",
+      "骨肉分离"
+    ],
+    "antonyms": [
+      "阖家团圆",
+      "合家欢乐"
+    ]
+  },
+  {
+    "id": "zhang-guan-li-dai",
+    "text": "张冠李戴",
+    "pinyin": "zhāng guān lǐ dài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "confusion"
+    ],
+    "literal": "Zhang's · hat · Li · wear",
+    "natural": "mix things up",
+    "meaning": {
+      "en": "To put Zhang's hat on Li; to attribute something to the wrong person or confuse two things.",
+      "zh": "把姓张的帽子戴到姓李的头上，比喻弄错了对象或事实。"
+    },
+    "equivalents": [
+      "mix things up",
+      "get the wrong end of the stick",
+      "misattribute"
+    ],
+    "examples": [
+      {
+        "zh": "这句名言你张冠李戴了，不是鲁迅说的。",
+        "en": "You've misattributed that quote — it wasn't Lu Xun who said it."
+      },
+      {
+        "zh": "写论文时引文不能张冠李戴。",
+        "en": "In a dissertation, never mix up your citations."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "指鹿为马",
+      "颠倒黑白"
+    ],
+    "antonyms": [
+      "名副其实"
+    ]
+  },
+  {
+    "id": "wu-sheng-wu-xi",
+    "text": "无声无息",
+    "pinyin": "wú shēng wú xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "no · sound · no · breath",
+    "natural": "without a sound",
+    "meaning": {
+      "en": "Without a sound; also unknown, with no impact.",
+      "zh": "没有声音，没有气息；也比喻默默无闻，没有影响。"
+    },
+    "equivalents": [
+      "without a sound",
+      "quietly",
+      "unnoticed"
+    ],
+    "examples": [
+      {
+        "zh": "猫无声无息地溜进了厨房。",
+        "en": "The cat slipped into the kitchen without a sound."
+      },
+      {
+        "zh": "那个项目就这样无声无息地结束了。",
+        "en": "The project just quietly fizzled out."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "悄无声息",
+      "默默无闻"
+    ],
+    "antonyms": [
+      "大张旗鼓",
+      "轰轰烈烈"
+    ]
+  },
+  {
+    "id": "huan-de-huan-shi",
+    "text": "患得患失",
+    "pinyin": "huàn dé huàn shī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "negative-character-flaws",
+      "confucian-classics"
+    ],
+    "literal": "worry · gain · worry · lose",
+    "natural": "worry about gains and losses",
+    "meaning": {
+      "en": "To worry endlessly about personal gain and loss.",
+      "zh": "担心得不到，得到了又担心失去，形容过分计较个人得失。"
+    },
+    "equivalents": [
+      "fret over gains and losses",
+      "be anxious about everything"
+    ],
+    "examples": [
+      {
+        "zh": "他做事总是患得患失，错过了很多机会。",
+        "en": "He's always fretting over what he might lose, and has missed many chances."
+      },
+      {
+        "zh": "考试时别患得患失，放松心态。",
+        "en": "Don't agonise during the exam — just relax."
+      }
+    ],
+    "origin": {
+      "source": "《论语·阳货》",
+      "story": {
+        "en": "Confucius on the petty man: before he has a post, he worries about getting it; once he has it, he worries about losing it.",
+        "zh": "《论语·阳货》：“其未得之也，患得之；既得之，患失之。苟患失之，无所不至矣。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "斤斤计较",
+      "瞻前顾后"
+    ],
+    "antonyms": [
+      "置之度外",
+      "豁达大度"
+    ]
+  },
+  {
+    "id": "zheng-chu-duo-men",
+    "text": "政出多门",
+    "pinyin": "zhèng chū duō mén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "chaos"
+    ],
+    "literal": "policy · issue · many · gates",
+    "natural": "too many cooks",
+    "meaning": {
+      "en": "Orders coming from many different authorities, causing confusion.",
+      "zh": "政令出自许多部门，令人无所适从。"
+    },
+    "equivalents": [
+      "too many cooks",
+      "overlapping authorities",
+      "fragmented governance"
+    ],
+    "examples": [
+      {
+        "zh": "政出多门导致企业审批流程繁琐。",
+        "en": "With so many bodies issuing rules, approvals for businesses are a nightmare."
+      },
+      {
+        "zh": "要改变政出多门、各自为政的局面。",
+        "en": "We must end the situation of overlapping authorities each going its own way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or subject; news and policy writing.",
+      "zh": "多作谓语、主语，多用于新闻、政论。"
+    },
+    "synonyms": [
+      "各自为政",
+      "多头管理"
+    ],
+    "antonyms": [
+      "令行禁止"
+    ]
+  },
+  {
+    "id": "zi-zuo-cong-ming",
+    "text": "自作聪明",
+    "pinyin": "zì zuò cōng míng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "self · make · clever · bright",
+    "natural": "too clever by half",
+    "meaning": {
+      "en": "To think oneself clever and act rashly.",
+      "zh": "自以为聪明而乱出主意或乱做事。"
+    },
+    "equivalents": [
+      "too clever by half",
+      "a smart alec"
+    ],
+    "examples": [
+      {
+        "zh": "他自作聪明改了程序，结果系统崩溃了。",
+        "en": "Being too clever by half, he changed the code and crashed the system."
+      },
+      {
+        "zh": "别自作聪明，按规定办事。",
+        "en": "Don't try to be clever — follow the rules."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自以为是",
+      "聪明反被聪明误"
+    ],
+    "antonyms": [
+      "虚怀若谷",
+      "大智若愚"
+    ]
+  },
+  {
+    "id": "shou-chong-ruo-jing",
+    "text": "受宠若惊",
+    "pinyin": "shòu chǒng ruò jīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "polite-humble",
+      "complex-emotional-states"
+    ],
+    "literal": "receive · favour · as if · startled",
+    "natural": "flattered and surprised",
+    "meaning": {
+      "en": "Overwhelmed and surprised at unexpected kindness or favour.",
+      "zh": "受到意外的宠爱而感到又惊又喜。"
+    },
+    "equivalents": [
+      "flattered",
+      "overwhelmed",
+      "pleasantly surprised"
+    ],
+    "examples": [
+      {
+        "zh": "总经理亲自打电话来，他受宠若惊。",
+        "en": "When the managing director phoned him personally, he was quite overwhelmed."
+      },
+      {
+        "zh": "您这么夸我，我真是受宠若惊。",
+        "en": "Such praise — I'm truly flattered."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also a modest reply to praise.",
+      "zh": "多作谓语，也用作谦辞。"
+    },
+    "synonyms": [
+      "喜出望外"
+    ],
+    "antonyms": [
+      "宠辱不惊"
+    ]
+  },
+  {
+    "id": "yu-shi-chang-ci",
+    "text": "与世长辞",
+    "pinyin": "yǔ shì cháng cí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "abrupt-endings",
+      "polite-humble"
+    ],
+    "literal": "with · world · forever · take leave",
+    "natural": "pass away",
+    "meaning": {
+      "en": "To depart from this world forever; to die (euphemistic).",
+      "zh": "永远离开人世，指去世（婉辞）。"
+    },
+    "equivalents": [
+      "pass away",
+      "depart this life"
+    ],
+    "examples": [
+      {
+        "zh": "这位著名作家昨日与世长辞，享年九十岁。",
+        "en": "The renowned author passed away yesterday at the age of ninety."
+      },
+      {
+        "zh": "老人在睡梦中安详地与世长辞。",
+        "en": "The old man passed away peacefully in his sleep."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; respectful euphemism, used in obituaries and news.",
+      "zh": "多作谓语；婉辞，多用于讣告、新闻。"
+    },
+    "synonyms": [
+      "溘然长逝",
+      "寿终正寝"
+    ],
+    "antonyms": [
+      "呱呱坠地"
+    ]
+  },
+  {
+    "id": "zheng-jin-wei-zuo",
+    "text": "正襟危坐",
+    "pinyin": "zhèng jīn wēi zuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "appearance",
+      "attitude-humble-vs-arrogant",
+      "historical-records"
+    ],
+    "literal": "straighten · lapel · upright · sit",
+    "natural": "sit up straight",
+    "meaning": {
+      "en": "To straighten one's clothes and sit upright, solemn and respectful.",
+      "zh": "整理好衣襟，端正地坐着，形容严肃或拘谨。"
+    },
+    "equivalents": [
+      "sit up straight",
+      "sit bolt upright",
+      "be on one's best behaviour"
+    ],
+    "examples": [
+      {
+        "zh": "面试时，他正襟危坐，十分紧张。",
+        "en": "At the interview he sat bolt upright, very nervous."
+      },
+      {
+        "zh": "学生们正襟危坐，等待校长讲话。",
+        "en": "The pupils sat up straight, waiting for the head teacher to speak."
+      }
+    ],
+    "origin": {
+      "source": "《史记·日者列传》",
+      "story": {
+        "en": "Song Zhong and Jia Yi, struck by the diviner Sima Ji's words, adjusted their caps and 'straightened their robes and sat upright'.",
+        "zh": "《史记·日者列传》：“宋忠、贾谊瞿然而悟，猎缨正襟危坐。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "一本正经",
+      "端端正正"
+    ],
+    "antonyms": [
+      "东倒西歪",
+      "放浪形骸"
+    ]
+  },
+  {
+    "id": "fan-wen-ru-jie",
+    "text": "繁文缛节",
+    "pinyin": "fán wén rù jié",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "efficiency"
+    ],
+    "literal": "elaborate · forms · cumbersome · rites",
+    "natural": "red tape",
+    "meaning": {
+      "en": "Excessive formalities and rituals.",
+      "zh": "过多的礼节和仪式，比喻繁琐多余的事项。"
+    },
+    "equivalents": [
+      "red tape",
+      "excessive formalities",
+      "pomp and ceremony"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼办得简单点，免去那些繁文缛节。",
+        "en": "Keep the wedding simple and skip all the fuss and ceremony."
+      },
+      {
+        "zh": "政府部门应减少繁文缛节，提高效率。",
+        "en": "Government departments should cut red tape and become more efficient."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject; critical.",
+      "zh": "多作宾语、主语，含贬义。"
+    },
+    "synonyms": [
+      "清规戒律"
+    ],
+    "antonyms": [
+      "简单明了"
+    ]
+  },
+  {
+    "id": "chui-mao-qiu-ci",
+    "text": "吹毛求疵",
+    "pinyin": "chuī máo qiú cī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "blow · fur · seek · flaw",
+    "natural": "nitpicking",
+    "meaning": {
+      "en": "To blow apart the fur looking for blemishes; to nitpick.",
+      "zh": "吹开皮上的毛寻找毛病，比喻故意挑剔别人的缺点。"
+    },
+    "equivalents": [
+      "nitpick",
+      "split hairs",
+      "find fault"
+    ],
+    "examples": [
+      {
+        "zh": "他对下属的报告总是吹毛求疵。",
+        "en": "He always nitpicks his staff's reports."
+      },
+      {
+        "zh": "这是吹毛求疵，根本不是问题。",
+        "en": "That's just splitting hairs — it isn't a problem at all."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·大体》",
+      "story": {
+        "en": "Hanfeizi: the wise ruler 'does not blow apart the hair to look for small flaws' (不吹毛而求小疵).",
+        "zh": "《韩非子·大体》：“不吹毛而求小疵，不洗垢而察难知。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive. 疵 is read cī.",
+      "zh": "多作谓语、定语。“疵”读cī。"
+    },
+    "synonyms": [
+      "鸡蛋里挑骨头",
+      "求全责备"
+    ],
+    "antonyms": [
+      "宽宏大量"
+    ]
+  },
+  {
+    "id": "zhe-tian-bi-ri",
+    "text": "遮天蔽日",
+    "pinyin": "zhē tiān bì rì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "遮天盖日"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "plant-and-natural-world"
+    ],
+    "literal": "cover · sky · hide · sun",
+    "natural": "blot out the sun",
+    "meaning": {
+      "en": "Blotting out the sky and the sun; dense or vast.",
+      "zh": "遮住天空和太阳，形容数量多、面积大或枝叶茂密。"
+    },
+    "equivalents": [
+      "blot out the sun",
+      "thick and dense"
+    ],
+    "examples": [
+      {
+        "zh": "沙尘暴来时，黄沙遮天蔽日。",
+        "en": "When the sandstorm hit, the dust blotted out the sun."
+      },
+      {
+        "zh": "林中古树参天，遮天蔽日。",
+        "en": "The towering old trees blotted out the sky."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "铺天盖地"
+    ],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "liang-shou-kong-kong",
+    "text": "两手空空",
+    "pinyin": "liǎng shǒu kōng kōng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "two · hands · empty · empty",
+    "natural": "empty-handed",
+    "meaning": {
+      "en": "With nothing in one's hands; having nothing at all, or gaining nothing.",
+      "zh": "两只手里什么也没有，形容一无所有或毫无收获。"
+    },
+    "equivalents": [
+      "empty-handed",
+      "with nothing to show for it",
+      "penniless"
+    ],
+    "examples": [
+      {
+        "zh": "他两手空空来到这座城市打拼。",
+        "en": "He came to the city to make his way with nothing to his name."
+      },
+      {
+        "zh": "忙了一整年，最后却两手空空。",
+        "en": "After a whole year's work, he ended up with nothing to show for it."
+      },
+      {
+        "zh": "去亲戚家拜年，不能两手空空。",
+        "en": "You can't visit relatives at New Year empty-handed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "一无所有",
+      "身无分文"
+    ],
+    "antonyms": [
+      "满载而归"
+    ]
+  },
+  {
+    "id": "gang-zheng-bu-e",
+    "text": "刚正不阿",
+    "pinyin": "gāng zhèng bù ē",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "fairness-and-impartiality"
+    ],
+    "literal": "firm · upright · not · flatter",
+    "natural": "incorruptible",
+    "meaning": {
+      "en": "Upright and principled, refusing to curry favour.",
+      "zh": "刚强正直，不逢迎、不偏私。"
+    },
+    "equivalents": [
+      "upright and incorruptible",
+      "unbending",
+      "a person of integrity"
+    ],
+    "examples": [
+      {
+        "zh": "这位法官刚正不阿，深受百姓敬重。",
+        "en": "The judge is upright and incorruptible, and greatly respected."
+      },
+      {
+        "zh": "他一生刚正不阿，从不向权贵低头。",
+        "en": "All his life he was unbending and never bowed to the powerful."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. 阿 is read ē.",
+      "zh": "多作谓语、定语。“阿”读ē。"
+    },
+    "synonyms": [
+      "铁面无私",
+      "正直无私"
+    ],
+    "antonyms": [
+      "阿谀奉承",
+      "趋炎附势"
+    ]
+  },
+  {
+    "id": "feng-ma-niu-bu-xiang-ji",
+    "text": "风马牛不相及",
+    "pinyin": "fēng mǎ niú bù xiāng jí",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "historical-records"
+    ],
+    "literal": "stray · horse · ox · not · each other · reach",
+    "natural": "completely unrelated",
+    "meaning": {
+      "en": "Things that have nothing whatsoever to do with each other.",
+      "zh": "比喻事物之间毫不相干。"
+    },
+    "equivalents": [
+      "have nothing to do with each other",
+      "apples and oranges",
+      "completely unrelated"
+    ],
+    "examples": [
+      {
+        "zh": "这两件事风马牛不相及，不要扯在一起。",
+        "en": "These two things have nothing to do with each other — don't lump them together."
+      },
+      {
+        "zh": "他的回答和问题风马牛不相及。",
+        "en": "His answer was completely unrelated to the question."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公四年》",
+      "story": {
+        "en": "When Qi invaded Chu, the Chu envoy protested that their lands were so far apart that 'even stray horses and oxen would not reach each other'.",
+        "zh": "《左传·僖公四年》：“君处北海，寡人处南海，唯是风马牛不相及也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; 风 here means animals straying in heat.",
+      "zh": "多作谓语。“风”指牲畜走失。"
+    },
+    "synonyms": [
+      "毫不相干",
+      "八竿子打不着"
+    ],
+    "antonyms": [
+      "息息相关",
+      "密不可分"
+    ]
+  },
+  {
+    "id": "ya-kou-wu-yan",
+    "text": "哑口无言",
+    "pinyin": "yǎ kǒu wú yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "mute · mouth · no · words",
+    "natural": "speechless",
+    "meaning": {
+      "en": "Left without a word to say, usually because one has been out-argued.",
+      "zh": "像哑巴一样说不出话来，多指被驳得无话可说。"
+    },
+    "equivalents": [
+      "speechless",
+      "lost for words",
+      "dumbstruck"
+    ],
+    "examples": [
+      {
+        "zh": "她一番话驳得对方哑口无言。",
+        "en": "Her retort left him speechless."
+      },
+      {
+        "zh": "面对确凿的证据，他哑口无言。",
+        "en": "Faced with hard evidence, he had nothing to say."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; often 驳得/问得……哑口无言.",
+      "zh": "多作谓语、补语，常说“驳得……哑口无言”。"
+    },
+    "synonyms": [
+      "张口结舌",
+      "无言以对"
+    ],
+    "antonyms": [
+      "对答如流",
+      "能言善辩"
+    ]
+  },
+  {
+    "id": "mang-li-tou-xian",
+    "text": "忙里偷闲",
+    "pinyin": "máng lǐ tōu xián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "time-management"
+    ],
+    "literal": "busy · in · steal · leisure",
+    "natural": "snatch a moment's rest",
+    "meaning": {
+      "en": "To snatch a little leisure in the middle of a busy schedule.",
+      "zh": "在忙碌中抽出一点空闲时间。"
+    },
+    "equivalents": [
+      "snatch a moment's rest",
+      "take a breather"
+    ],
+    "examples": [
+      {
+        "zh": "周末他忙里偷闲，带孩子去了公园。",
+        "en": "At the weekend he snatched some time to take the kids to the park."
+      },
+      {
+        "zh": "工作再忙，也要学会忙里偷闲。",
+        "en": "However busy work gets, you need to learn to take a breather."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "劳逸结合"
+    ],
+    "antonyms": [
+      "马不停蹄"
+    ]
+  },
+  {
+    "id": "wu-suo-bu-bao",
+    "text": "无所不包",
+    "pinyin": "wú suǒ bù bāo",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relative-measurements"
+    ],
+    "literal": "nothing · that · not · include",
+    "natural": "all-encompassing",
+    "meaning": {
+      "en": "Including everything; all-embracing.",
+      "zh": "没有什么不包括在内，形容内容极其丰富。"
+    },
+    "equivalents": [
+      "all-encompassing",
+      "covering everything",
+      "comprehensive"
+    ],
+    "examples": [
+      {
+        "zh": "这本百科全书内容无所不包。",
+        "en": "This encyclopaedia covers just about everything."
+      },
+      {
+        "zh": "他的知识可谓无所不包。",
+        "en": "His knowledge is truly encyclopaedic."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "包罗万象",
+      "应有尽有"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-bi-zhi-li",
+    "text": "一臂之力",
+    "pinyin": "yī bì zhī lì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "one · arm · 's · strength",
+    "natural": "a helping hand",
+    "meaning": {
+      "en": "A helping hand; some assistance.",
+      "zh": "一只胳膊的力量，指一部分力量或帮助。"
+    },
+    "equivalents": [
+      "a helping hand",
+      "lend a hand"
+    ],
+    "examples": [
+      {
+        "zh": "如果你需要，我愿助你一臂之力。",
+        "en": "If you need it, I'm happy to lend a hand."
+      },
+      {
+        "zh": "多亏朋友助我一臂之力，问题才得以解决。",
+        "en": "Thanks to a friend's help, the problem was solved."
+      }
+    ],
+    "usage": {
+      "en": "Object; usually 助……一臂之力.",
+      "zh": "多作宾语，常说“助……一臂之力”。"
+    },
+    "synonyms": [
+      "拔刀相助",
+      "鼎力相助"
+    ],
+    "antonyms": [
+      "袖手旁观"
+    ]
+  },
+  {
+    "id": "quan-guo-yi-pan-qi",
+    "text": "全国一盘棋",
+    "pinyin": "quán guó yī pán qí",
+    "kind": "suyu",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "leadership-and-authority"
+    ],
+    "literal": "whole · country · one · board · chess",
+    "natural": "the whole country as one",
+    "meaning": {
+      "en": "The whole country acting as one coordinated whole, like pieces on a single chessboard.",
+      "zh": "把全国看作一盘棋，统一规划、协调行动。"
+    },
+    "equivalents": [
+      "nationwide coordination",
+      "the whole country pulling together"
+    ],
+    "examples": [
+      {
+        "zh": "抗击疫情要坚持全国一盘棋。",
+        "en": "Fighting the epidemic requires the whole country to act in concert."
+      },
+      {
+        "zh": "要树立全国一盘棋的思想。",
+        "en": "We must think of the whole country as one coordinated whole."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in official and news language.",
+      "zh": "多用于官方、新闻语言。"
+    },
+    "synonyms": [
+      "统筹兼顾"
+    ],
+    "antonyms": [
+      "各自为政"
+    ]
+  },
+  {
+    "id": "guo-zu-bu-qian",
+    "text": "裹足不前",
+    "pinyin": "guǒ zú bù qián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "fear-and-cowardice",
+      "resistance-to-change"
+    ],
+    "literal": "bind · feet · not · advance",
+    "natural": "hold back",
+    "meaning": {
+      "en": "To hold back and not dare to advance, out of fear or hesitation.",
+      "zh": "停步不敢前进，形容有顾虑而止步。"
+    },
+    "equivalents": [
+      "hold back",
+      "hang back",
+      "drag one's feet"
+    ],
+    "examples": [
+      {
+        "zh": "面对风险，不少投资者裹足不前。",
+        "en": "Faced with risk, many investors held back."
+      },
+      {
+        "zh": "不能因为怕失败就裹足不前。",
+        "en": "You mustn't hang back for fear of failure."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "畏缩不前",
+      "停滞不前"
+    ],
+    "antonyms": [
+      "勇往直前",
+      "一往无前"
+    ]
+  },
+  {
+    "id": "yi-nian-zhi-ji-zai-yu-chun",
+    "text": "一年之计在于春",
+    "pinyin": "yī nián zhī jì zài yú chūn",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "value-of-time"
+    ],
+    "literal": "one · year · 's · plan · lies · in · spring",
+    "natural": "spring sets the year",
+    "meaning": {
+      "en": "The whole year's work depends on a good start in spring; make the most of beginnings.",
+      "zh": "一年的计划要在春天安排好，比喻凡事要在开始时抓紧。"
+    },
+    "equivalents": [
+      "a good beginning is half the battle",
+      "make hay while the sun shines"
+    ],
+    "examples": [
+      {
+        "zh": "一年之计在于春，新学期要制定好学习计划。",
+        "en": "A good start is everything — make a study plan for the new term."
+      },
+      {
+        "zh": "一年之计在于春，农民们已经开始春耕。",
+        "en": "Spring sets up the whole year, and farmers have already begun ploughing."
+      }
+    ],
+    "usage": {
+      "en": "Often followed by 一日之计在于晨.",
+      "zh": "常与“一日之计在于晨”连用。"
+    },
+    "synonyms": [
+      "一日之计在于晨"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shen-qing-huang-hu",
+    "text": "神情恍惚",
+    "pinyin": "shén qíng huǎng hū",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "confusion"
+    ],
+    "literal": "expression · mood · dazed · vague",
+    "natural": "in a daze",
+    "meaning": {
+      "en": "Looking dazed and absent-minded.",
+      "zh": "精神不集中，神志不清的样子。"
+    },
+    "equivalents": [
+      "in a daze",
+      "dazed",
+      "absent-minded"
+    ],
+    "examples": [
+      {
+        "zh": "他整夜没睡，第二天神情恍惚。",
+        "en": "He didn't sleep all night and was in a daze the next day."
+      },
+      {
+        "zh": "听到噩耗后，她一直神情恍惚。",
+        "en": "Since hearing the terrible news, she has been in a daze."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "心不在焉",
+      "魂不守舍"
+    ],
+    "antonyms": [
+      "全神贯注",
+      "聚精会神"
+    ]
+  },
+  {
+    "id": "san-yan-liang-yu",
+    "text": "三言两语",
+    "pinyin": "sān yán liǎng yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "small-numbers",
+      "numbers"
+    ],
+    "literal": "three · words · two · phrases",
+    "natural": "a few words",
+    "meaning": {
+      "en": "Just a few words.",
+      "zh": "几句话，形容话很少。"
+    },
+    "equivalents": [
+      "in a few words",
+      "in a nutshell"
+    ],
+    "examples": [
+      {
+        "zh": "这件事三言两语说不清楚。",
+        "en": "This can't be explained in a few words."
+      },
+      {
+        "zh": "他三言两语就把问题讲明白了。",
+        "en": "He explained the problem in just a few words."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or object.",
+      "zh": "多作状语、宾语。"
+    },
+    "synonyms": [
+      "只言片语"
+    ],
+    "antonyms": [
+      "长篇大论",
+      "千言万语"
+    ]
+  },
+  {
+    "id": "ge-xue-sao-yang",
+    "text": "隔靴搔痒",
+    "pinyin": "gé xuē sāo yǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "superficial-learning"
+    ],
+    "literal": "through · boot · scratch · itch",
+    "natural": "miss the point",
+    "meaning": {
+      "en": "Scratching an itch through one's boot; ineffective, failing to get to the heart of the matter.",
+      "zh": "隔着靴子挠痒痒，比喻说话、做事不中肯，没有抓住要害。"
+    },
+    "equivalents": [
+      "miss the point",
+      "not get to the heart of the matter",
+      "beat about the bush"
+    ],
+    "examples": [
+      {
+        "zh": "这份报告只谈表面现象，简直是隔靴搔痒。",
+        "en": "The report only deals with surface issues — it completely misses the point."
+      },
+      {
+        "zh": "这样的批评隔靴搔痒，解决不了问题。",
+        "en": "Criticism like this skirts the real issue and solves nothing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "不得要领"
+    ],
+    "antonyms": [
+      "一针见血",
+      "切中要害"
+    ]
+  },
+  {
+    "id": "zhao-ran-ruo-jie",
+    "text": "昭然若揭",
+    "pinyin": "zhāo rán ruò jiē",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "deception-and-false-appearances",
+      "daoist-classics"
+    ],
+    "literal": "clear · -ly · as if · lifted up",
+    "natural": "plain for all to see",
+    "meaning": {
+      "en": "As plain as if held up for all to see (usually of hidden motives).",
+      "zh": "形容真相完全暴露，多指阴谋、用心。"
+    },
+    "equivalents": [
+      "plain for all to see",
+      "laid bare",
+      "obvious"
+    ],
+    "examples": [
+      {
+        "zh": "他的野心已昭然若揭。",
+        "en": "His ambition is now plain for all to see."
+      },
+      {
+        "zh": "对方的真实意图昭然若揭。",
+        "en": "Their real intentions have been laid bare."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·达生》",
+      "story": {
+        "en": "Zhuangzi describes someone who parades his virtues 'as brightly as if carrying the sun and moon aloft' (昭昭乎若揭日月而行).",
+        "zh": "《庄子·达生》：“昭昭乎若揭日月而行也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; usually of bad intentions.",
+      "zh": "多作谓语，多指坏的用心。"
+    },
+    "synonyms": [
+      "一目了然",
+      "显而易见"
+    ],
+    "antonyms": [
+      "讳莫如深"
+    ]
+  },
+  {
+    "id": "fei-fu-zhi-yan",
+    "text": "肺腑之言",
+    "pinyin": "fèi fǔ zhī yán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "body"
+    ],
+    "literal": "lungs · viscera · 's · words",
+    "natural": "words from the heart",
+    "meaning": {
+      "en": "Words spoken from the bottom of one's heart.",
+      "zh": "发自内心的真诚话。"
+    },
+    "equivalents": [
+      "words from the heart",
+      "heartfelt words"
+    ],
+    "examples": [
+      {
+        "zh": "这些都是我的肺腑之言，希望你能听进去。",
+        "en": "I mean every word of this — I hope you'll listen."
+      },
+      {
+        "zh": "老师的肺腑之言让学生们深受感动。",
+        "en": "The teacher's heartfelt words moved the students deeply."
+      }
+    ],
+    "usage": {
+      "en": "Object or subject.",
+      "zh": "多作宾语、主语。"
+    },
+    "synonyms": [
+      "由衷之言",
+      "金玉良言"
+    ],
+    "antonyms": [
+      "花言巧语",
+      "违心之论"
+    ]
+  },
+  {
+    "id": "xing-xing-xiang-xi",
+    "text": "惺惺相惜",
+    "pinyin": "xīng xīng xiāng xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "evenly-matched",
+      "competition-and-rivalry"
+    ],
+    "literal": "clever · clever · each other · cherish",
+    "natural": "mutual admiration",
+    "meaning": {
+      "en": "Talented people appreciating and valuing one another.",
+      "zh": "比喻性格、才能相近的人互相爱惜、敬重。"
+    },
+    "equivalents": [
+      "mutual admiration",
+      "kindred spirits"
+    ],
+    "examples": [
+      {
+        "zh": "两位棋手虽是对手，却惺惺相惜。",
+        "en": "Though rivals, the two players have great mutual respect."
+      },
+      {
+        "zh": "他们惺惺相惜，成了一生的好友。",
+        "en": "Kindred spirits, they became lifelong friends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "英雄所见略同"
+    ],
+    "antonyms": [
+      "文人相轻",
+      "同行相忌"
+    ]
+  },
+  {
+    "id": "bei-huan-li-he",
+    "text": "悲欢离合",
+    "pinyin": "bēi huān lí hé",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complex-emotional-states",
+      "poems-prose"
+    ],
+    "literal": "sorrow · joy · parting · reunion",
+    "natural": "life's ups and downs",
+    "meaning": {
+      "en": "Sorrow and joy, partings and reunions — the vicissitudes of life.",
+      "zh": "悲伤、欢乐、离别、团聚，泛指人生的种种遭遇。"
+    },
+    "equivalents": [
+      "life's ups and downs",
+      "joys and sorrows",
+      "partings and reunions"
+    ],
+    "examples": [
+      {
+        "zh": "这部小说讲述了一个家庭的悲欢离合。",
+        "en": "The novel tells of a family's joys and sorrows."
+      },
+      {
+        "zh": "人有悲欢离合，月有阴晴圆缺。",
+        "en": "People have their sorrows and joys, partings and reunions; the moon waxes and wanes."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《水调歌头·明月几时有》",
+      "story": {
+        "en": "Su Shi: 'People have their sorrows and joys, partings and reunions; the moon has dim and bright, full and waning phases.'",
+        "zh": "苏轼《水调歌头》：“人有悲欢离合，月有阴晴圆缺，此事古难全。”"
+      }
+    },
+    "usage": {
+      "en": "Object or subject. Famous in Su Shi's 水调歌头.",
+      "zh": "多作宾语、主语。苏轼《水调歌头》有“人有悲欢离合”。"
+    },
+    "synonyms": [
+      "酸甜苦辣"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gu-jun-fen-zhan",
+    "text": "孤军奋战",
+    "pinyin": "gū jūn fèn zhàn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "solitude-and-isolation"
+    ],
+    "literal": "lone · army · fiercely · fight",
+    "natural": "fight a lone battle",
+    "meaning": {
+      "en": "An isolated army fighting on alone; to struggle single-handed.",
+      "zh": "孤立无援的军队奋勇作战，比喻一个人或一个集体独自奋斗。"
+    },
+    "equivalents": [
+      "fight a lone battle",
+      "go it alone",
+      "single-handedly"
+    ],
+    "examples": [
+      {
+        "zh": "这个项目全靠他孤军奋战。",
+        "en": "He's fighting a lone battle on this project."
+      },
+      {
+        "zh": "队友受伤后，她只能孤军奋战。",
+        "en": "After her teammate was injured, she had to go it alone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "单枪匹马",
+      "孤立无援"
+    ],
+    "antonyms": [
+      "齐心协力",
+      "众志成城"
+    ]
+  },
+  {
+    "id": "shen-shan-lao-lin",
+    "text": "深山老林",
+    "pinyin": "shēn shān lǎo lín",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "difficult-terrain"
+    ],
+    "literal": "deep · mountain · old · forest",
+    "natural": "the depths of the wilderness",
+    "meaning": {
+      "en": "Remote mountains and dense old forests.",
+      "zh": "偏远的大山和古老的森林。"
+    },
+    "equivalents": [
+      "deep in the mountains",
+      "the middle of nowhere",
+      "the backwoods"
+    ],
+    "examples": [
+      {
+        "zh": "他们在深山老林里迷了路。",
+        "en": "They got lost deep in the mountains."
+      },
+      {
+        "zh": "这种珍稀植物只生长在深山老林中。",
+        "en": "This rare plant only grows in remote forests."
+      }
+    ],
+    "usage": {
+      "en": "Object, often after 在/到.",
+      "zh": "多作宾语，常用在“在”“到”后。"
+    },
+    "synonyms": [
+      "崇山峻岭",
+      "穷乡僻壤"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "dong-ben-xi-zou",
+    "text": "东奔西走",
+    "pinyin": "dōng bēn xī zǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "东奔西跑"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "east · rush · west · go",
+    "natural": "rush around",
+    "meaning": {
+      "en": "To rush about here and there, busy with some task.",
+      "zh": "到处奔走，多指为某事忙碌。"
+    },
+    "equivalents": [
+      "rush around",
+      "run from pillar to post",
+      "be on the go"
+    ],
+    "examples": [
+      {
+        "zh": "为了筹款，他整天东奔西走。",
+        "en": "He spends all day rushing around trying to raise money."
+      },
+      {
+        "zh": "她东奔西跑，终于给孩子找到了学校。",
+        "en": "After running from pillar to post, she finally found a school for her child."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "四处奔波",
+      "奔走呼号"
+    ],
+    "antonyms": [
+      "足不出户"
+    ]
+  },
+  {
+    "id": "wen-zhi-bin-bin",
+    "text": "文质彬彬",
+    "pinyin": "wén zhì bīn bīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "appearance",
+      "confucian-classics"
+    ],
+    "literal": "refinement · substance · well · balanced",
+    "natural": "refined and gentlemanly",
+    "meaning": {
+      "en": "Originally refinement and substance in balance; now gentle, cultured and courteous in manner.",
+      "zh": "原指文采和实质配合得当，现形容人举止文雅有礼。"
+    },
+    "equivalents": [
+      "refined",
+      "gentlemanly",
+      "cultured"
+    ],
+    "examples": [
+      {
+        "zh": "他戴着眼镜，看上去文质彬彬的。",
+        "en": "With his glasses, he looks every inch the gentleman."
+      },
+      {
+        "zh": "这位文质彬彬的教授讲课十分风趣。",
+        "en": "The refined professor is very witty in class."
+      }
+    ],
+    "origin": {
+      "source": "《论语·雍也》",
+      "story": {
+        "en": "Confucius: 'When refinement and substance are in balance, then you have a gentleman' (文质彬彬，然后君子).",
+        "zh": "《论语·雍也》：“质胜文则野，文胜质则史。文质彬彬，然后君子。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "温文尔雅",
+      "彬彬有礼"
+    ],
+    "antonyms": [
+      "粗鲁无礼"
+    ]
+  },
+  {
+    "id": "ding-li-mo-bai",
+    "text": "顶礼膜拜",
+    "pinyin": "dǐng lǐ mó bài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conformity-and-imitation",
+      "buddhist-origin"
+    ],
+    "literal": "crown · salute · prostrate · worship",
+    "natural": "worship blindly",
+    "meaning": {
+      "en": "To prostrate oneself in worship; to idolise blindly.",
+      "zh": "佛教最高的敬礼，比喻对人或事物极端崇拜。"
+    },
+    "equivalents": [
+      "worship",
+      "idolise",
+      "bow down before"
+    ],
+    "examples": [
+      {
+        "zh": "他对名牌顶礼膜拜。",
+        "en": "He worships designer brands."
+      },
+      {
+        "zh": "不能对权威顶礼膜拜。",
+        "en": "We mustn't bow down blindly before authority."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; now usually critical.",
+      "zh": "多作谓语，今多含贬义。"
+    },
+    "synonyms": [
+      "五体投地",
+      "奉若神明"
+    ],
+    "antonyms": [
+      "嗤之以鼻"
+    ]
+  },
+  {
+    "id": "tou-teng-nao-re",
+    "text": "头疼脑热",
+    "pinyin": "tóu téng nǎo rè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "illness-and-disease"
+    ],
+    "literal": "head · ache · head · hot",
+    "natural": "minor ailments",
+    "meaning": {
+      "en": "Headaches and fevers; minor ailments.",
+      "zh": "泛指一般的小病。"
+    },
+    "equivalents": [
+      "minor ailments",
+      "a touch of something",
+      "aches and sniffles"
+    ],
+    "examples": [
+      {
+        "zh": "有个头疼脑热的，去社区医院就行。",
+        "en": "For minor ailments, just go to the community clinic."
+      },
+      {
+        "zh": "孩子一有头疼脑热，妈妈就着急。",
+        "en": "Whenever the child has a sniffle, Mum gets anxious."
+      }
+    ],
+    "usage": {
+      "en": "Object or attributive; often 有个头疼脑热.",
+      "zh": "多作宾语、定语，常说“有个头疼脑热”。"
+    },
+    "synonyms": [
+      "伤风感冒"
+    ],
+    "antonyms": []
+  }
+]

@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "jian-ku-pu-su",
+    "text": "艰苦朴素",
+    "pinyin": "jiān kǔ pǔ sù",
+    "kind": "phrase",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "contentment-and-simplicity",
+      "positive-character-qualities",
+      "news-and-officialese"
+    ],
+    "literal": "hard · bitter · plain · simple",
+    "natural": "plain living",
+    "meaning": {
+      "en": "Living simply and frugally, able to endure hardship.",
+      "zh": "能吃苦耐劳，生活俭朴。"
+    },
+    "equivalents": [
+      "plain living",
+      "frugal",
+      "live simply"
+    ],
+    "examples": [
+      {
+        "zh": "老一辈人艰苦朴素的作风值得我们学习。",
+        "en": "We should learn from our elders' frugal, hard-working ways."
+      },
+      {
+        "zh": "他当了老板，生活依然艰苦朴素。",
+        "en": "Even as a boss he still lives very simply."
+      },
+      {
+        "zh": "学校提倡艰苦朴素，反对攀比。",
+        "en": "The school encourages plain living and discourages showing off."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; often 艰苦朴素的作风.",
+      "zh": "多作定语、谓语，常说“艰苦朴素的作风”。"
+    },
+    "synonyms": [
+      "勤俭节约",
+      "艰苦奋斗"
+    ],
+    "antonyms": [
+      "铺张浪费",
+      "骄奢淫逸"
+    ]
+  },
+  {
+    "id": "yin-yin-yue-yue",
+    "text": "隐隐约约",
+    "pinyin": "yǐn yǐn yuē yuē",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "exact-vs-approximate"
+    ],
+    "literal": "hidden · hidden · faint · faint",
+    "natural": "faintly",
+    "meaning": {
+      "en": "Faint and indistinct; barely seen, heard or felt.",
+      "zh": "模糊不清，不明显。"
+    },
+    "equivalents": [
+      "faintly",
+      "dimly",
+      "vaguely"
+    ],
+    "examples": [
+      {
+        "zh": "远处隐隐约约传来歌声。",
+        "en": "Singing drifted faintly from the distance."
+      },
+      {
+        "zh": "雾里隐隐约约能看见几座山。",
+        "en": "A few hills were dimly visible through the mist."
+      },
+      {
+        "zh": "我隐隐约约觉得事情不对劲。",
+        "en": "I had a vague feeling something was wrong."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "若隐若现",
+      "模模糊糊"
+    ],
+    "antonyms": [
+      "清清楚楚",
+      "一清二楚"
+    ]
+  },
+  {
+    "id": "xian-du-wei-kuai",
+    "text": "先睹为快",
+    "pinyin": "xiān dǔ wéi kuài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "excellent-writing",
+      "poems-prose"
+    ],
+    "literal": "first · see · as · delight",
+    "natural": "be among the first to see",
+    "meaning": {
+      "en": "To delight in being among the first to see or read something.",
+      "zh": "以能尽先看到为快乐。"
+    },
+    "equivalents": [
+      "be among the first to see",
+      "get a sneak peek",
+      "can't wait to see"
+    ],
+    "examples": [
+      {
+        "zh": "新书一出版，读者们就争相先睹为快。",
+        "en": "As soon as the book came out, readers rushed to get their hands on it."
+      },
+      {
+        "zh": "这部电影今晚首映，影迷们都想先睹为快。",
+        "en": "The film premieres tonight, and fans are dying to see it first."
+      },
+      {
+        "zh": "新手机发布会上，大家都想先睹为快。",
+        "en": "At the phone launch, everyone wanted an early look."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《与少室李拾遗书》",
+      "story": {
+        "en": "Han Yu wrote that officials at court 'craned their necks to the east, vying to be the first to see' the hermit Li Bo, as if he were an auspicious star.",
+        "zh": "韩愈《与少室李拾遗书》：“朝廷之士，引颈东望，若景星凤凰之始见也，争先睹之为快。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 争相/一睹……先睹为快.",
+      "zh": "多作谓语，常说“争相先睹为快”。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "yan-tan-ju-zhi",
+    "text": "言谈举止",
+    "pinyin": "yán tán jǔ zhǐ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "speech · talk · movement · bearing",
+    "natural": "manner and bearing",
+    "meaning": {
+      "en": "The way one speaks and behaves.",
+      "zh": "说话的内容、态度和行为举动。"
+    },
+    "equivalents": [
+      "manner and bearing",
+      "the way one talks and acts",
+      "demeanour"
+    ],
+    "examples": [
+      {
+        "zh": "从他的言谈举止可以看出，他受过良好的教育。",
+        "en": "You can tell from the way he talks and behaves that he's well educated."
+      },
+      {
+        "zh": "面试时要注意言谈举止。",
+        "en": "Watch your manner and bearing in an interview."
+      },
+      {
+        "zh": "她言谈举止大方得体。",
+        "en": "Her demeanour is poised and gracious."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object.",
+      "zh": "多作主语、宾语。"
+    },
+    "synonyms": [
+      "一举一动",
+      "行为举止"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "wen-feng-er-dong",
+    "text": "闻风而动",
+    "pinyin": "wén fēng ér dòng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speed-fast-vs-slow",
+      "efficiency"
+    ],
+    "literal": "hear · wind · and · move",
+    "natural": "spring into action",
+    "meaning": {
+      "en": "To spring into action as soon as one hears the news.",
+      "zh": "一听到消息就立即行动。"
+    },
+    "equivalents": [
+      "spring into action",
+      "respond at once",
+      "jump to it"
+    ],
+    "examples": [
+      {
+        "zh": "接到报警后，警察闻风而动。",
+        "en": "The police sprang into action as soon as the call came in."
+      },
+      {
+        "zh": "政策一出台，各地闻风而动。",
+        "en": "As soon as the policy was announced, every region moved to implement it."
+      },
+      {
+        "zh": "听说商场打折，大妈们闻风而动。",
+        "en": "Word of the sale got out and the shoppers descended at once."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "雷厉风行",
+      "说干就干"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "jia-tu-si-bi",
+    "text": "家徒四壁",
+    "pinyin": "jiā tú sì bì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "historical-records"
+    ],
+    "literal": "home · only · four · walls",
+    "natural": "dirt-poor",
+    "meaning": {
+      "en": "So poor that one's home has nothing but four bare walls.",
+      "zh": "家里只有四面墙壁，形容极其贫困。"
+    },
+    "equivalents": [
+      "dirt-poor",
+      "not a penny to one's name",
+      "as poor as a church mouse"
+    ],
+    "examples": [
+      {
+        "zh": "他小时候家徒四壁，靠奖学金读完了大学。",
+        "en": "He grew up dirt-poor and got through university on scholarships."
+      },
+      {
+        "zh": "那场大火之后，他们家徒四壁。",
+        "en": "After the fire they were left with nothing but bare walls."
+      },
+      {
+        "zh": "虽然家徒四壁，父母还是坚持让孩子上学。",
+        "en": "Although they had nothing, the parents insisted on sending their children to school."
+      }
+    ],
+    "origin": {
+      "source": "《史记·司马相如列传》",
+      "story": {
+        "en": "When Zhuo Wenjun eloped with the poet Sima Xiangru, his home in Chengdu had 'nothing but four walls standing' (家居徒四壁立).",
+        "zh": "《史记·司马相如列传》：“文君夜亡奔相如，相如乃与驰归成都，家居徒四壁立。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一贫如洗",
+      "一穷二白"
+    ],
+    "antonyms": [
+      "腰缠万贯",
+      "富甲一方"
+    ]
+  },
+  {
+    "id": "qiang-lin-dan-yu",
+    "text": "枪林弹雨",
+    "pinyin": "qiāng lín dàn yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "danger"
+    ],
+    "literal": "spears · forest · bullets · rain",
+    "natural": "a hail of bullets",
+    "meaning": {
+      "en": "A forest of guns and a rain of bullets: fierce fighting.",
+      "zh": "枪支如林，子弹如雨，形容战斗激烈。"
+    },
+    "equivalents": [
+      "a hail of bullets",
+      "under heavy fire",
+      "in the thick of battle"
+    ],
+    "examples": [
+      {
+        "zh": "战地记者冒着枪林弹雨采访。",
+        "en": "The war correspondent reported under heavy fire."
+      },
+      {
+        "zh": "爷爷在枪林弹雨中救出了战友。",
+        "en": "Grandpa rescued his comrade in a hail of bullets."
+      },
+      {
+        "zh": "他们是从枪林弹雨中走过来的老兵。",
+        "en": "They are veterans who have been through the thick of battle."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 冒着枪林弹雨.",
+      "zh": "多作宾语，常说“冒着枪林弹雨”。"
+    },
+    "synonyms": [
+      "硝烟弥漫",
+      "出生入死"
+    ],
+    "antonyms": [
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "jian-shi-bu-miao",
+    "text": "见势不妙",
+    "pinyin": "jiàn shì bù miào",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "adaptability"
+    ],
+    "literal": "see · situation · not · good",
+    "natural": "see which way the wind is blowing",
+    "meaning": {
+      "en": "Seeing that things are going badly (and acting accordingly, usually by escaping).",
+      "zh": "看到形势不好。"
+    },
+    "equivalents": [
+      "see things going wrong",
+      "sense trouble",
+      "see which way the wind is blowing"
+    ],
+    "examples": [
+      {
+        "zh": "小偷见势不妙，转身就跑。",
+        "en": "Sensing trouble, the thief turned and ran."
+      },
+      {
+        "zh": "他见势不妙，赶紧把股票卖了。",
+        "en": "Seeing things go south, he quickly sold his shares."
+      },
+      {
+        "zh": "敌军见势不妙，纷纷撤退。",
+        "en": "Seeing the battle turning against them, the enemy troops pulled back."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually followed by the reaction.",
+      "zh": "多作谓语，后面常接采取的行动。"
+    },
+    "synonyms": [
+      "情况不妙"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-jing-xiao-you",
+    "text": "以儆效尤",
+    "pinyin": "yǐ jǐng xiào yóu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "revenge-and-retribution",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "to · warn · imitate · wrongdoing",
+    "natural": "as a warning to others",
+    "meaning": {
+      "en": "To punish someone as a warning to others not to follow their example.",
+      "zh": "用对一个坏人或一件坏事的严肃处理来警告其他人不要学着做坏事。"
+    },
+    "equivalents": [
+      "as a warning to others",
+      "make an example of",
+      "pour encourager les autres"
+    ],
+    "examples": [
+      {
+        "zh": "学校开除了作弊的学生，以儆效尤。",
+        "en": "The school expelled the cheats as a warning to others."
+      },
+      {
+        "zh": "对这种违规行为必须严惩，以儆效尤。",
+        "en": "Violations like this must be punished severely, to deter others."
+      },
+      {
+        "zh": "球队重罚了迟到的球员，以儆效尤。",
+        "en": "The club fined the late player heavily to make an example of him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually the second half of a sentence.",
+      "zh": "多作谓语，常放在句子后半部分。"
+    },
+    "synonyms": [
+      "杀一儆百",
+      "惩前毖后"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bu-lun-bu-lei",
+    "text": "不伦不类",
+    "pinyin": "bù lún bù lèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "unusual-combinations",
+      "artistic-mediocrity"
+    ],
+    "literal": "not · kind · not · category",
+    "natural": "neither one thing nor the other",
+    "meaning": {
+      "en": "Neither one thing nor the other; incongruous.",
+      "zh": "既不像这一类，也不像那一类，形容不像样或不规范。"
+    },
+    "equivalents": [
+      "neither one thing nor the other",
+      "neither fish nor fowl",
+      "a hodgepodge"
+    ],
+    "examples": [
+      {
+        "zh": "这座建筑中西混搭，显得不伦不类。",
+        "en": "The building mixes Chinese and Western styles and ends up looking incongruous."
+      },
+      {
+        "zh": "他穿西装配拖鞋，不伦不类。",
+        "en": "A suit with flip-flops just looks wrong."
+      },
+      {
+        "zh": "把古诗改成网络语言，有点不伦不类。",
+        "en": "Rewriting classical poems in internet slang is a bit of a mismatch."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "非驴非马",
+      "不三不四"
+    ],
+    "antonyms": [
+      "恰如其分"
+    ]
+  },
+  {
+    "id": "shen-bai-ming-lie",
+    "text": "身败名裂",
+    "pinyin": "shēn bài míng liè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "business-failure"
+    ],
+    "literal": "self · ruined · name · torn",
+    "natural": "in disgrace",
+    "meaning": {
+      "en": "Ruined and disgraced.",
+      "zh": "地位丧失，名誉扫地。"
+    },
+    "equivalents": [
+      "in disgrace",
+      "ruined",
+      "a fall from grace"
+    ],
+    "examples": [
+      {
+        "zh": "他因受贿而身败名裂。",
+        "en": "He was disgraced for taking bribes."
+      },
+      {
+        "zh": "一次丑闻就让这位明星身败名裂。",
+        "en": "A single scandal ruined the star."
+      },
+      {
+        "zh": "贪图小利，最后落得身败名裂。",
+        "en": "His petty greed ended in total disgrace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; often 落得身败名裂.",
+      "zh": "多作谓语、补语，常说“落得身败名裂”。"
+    },
+    "synonyms": [
+      "声名狼藉",
+      "名誉扫地"
+    ],
+    "antonyms": [
+      "功成名就",
+      "名垂青史"
+    ]
+  },
+  {
+    "id": "bo-guang-lin-lin",
+    "text": "波光粼粼",
+    "pinyin": "bō guāng lín lín",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world"
+    ],
+    "literal": "wave · light · glinting · glinting",
+    "natural": "shimmering",
+    "meaning": {
+      "en": "Glittering waves on water.",
+      "zh": "水面在阳光或月光下闪闪发光。"
+    },
+    "equivalents": [
+      "shimmering",
+      "glittering water",
+      "sparkling"
+    ],
+    "examples": [
+      {
+        "zh": "夕阳下，湖面波光粼粼。",
+        "en": "In the setting sun the lake shimmered."
+      },
+      {
+        "zh": "月光洒在波光粼粼的海面上。",
+        "en": "Moonlight fell on the glittering sea."
+      },
+      {
+        "zh": "小河波光粼粼，孩子们在岸边玩耍。",
+        "en": "The stream sparkled as children played on the bank."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "碧波荡漾"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "pang-ruo-wu-ren",
+    "text": "旁若无人",
+    "pinyin": "páng ruò wú rén",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "attitude-humble-vs-arrogant",
+      "historical-records"
+    ],
+    "literal": "beside · as-if · no · one",
+    "natural": "as if no one else were there",
+    "meaning": {
+      "en": "Behaving as if nobody else were around; self-absorbed or arrogant.",
+      "zh": "好像旁边没有人，形容态度自然或高傲。"
+    },
+    "equivalents": [
+      "as if no one else were there",
+      "oblivious to others",
+      "without a care for anyone"
+    ],
+    "examples": [
+      {
+        "zh": "他在地铁上旁若无人地大声打电话。",
+        "en": "He talked loudly on the phone on the Tube as if no one else were there."
+      },
+      {
+        "zh": "那对情侣在餐厅里旁若无人地吵起来。",
+        "en": "The couple started rowing in the restaurant, oblivious to everyone."
+      },
+      {
+        "zh": "她旁若无人地专心练琴。",
+        "en": "She practised the piano, completely absorbed."
+      }
+    ],
+    "origin": {
+      "source": "《史记·刺客列传》",
+      "story": {
+        "en": "Jing Ke and his friend Gao Jianli would drink in the Yan market, singing and weeping together 'as if there were no one around them' (旁若无人).",
+        "zh": "《史记·刺客列传》：“已而相泣，旁若无人者。”"
+      }
+    },
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "目中无人",
+      "目空一切"
+    ],
+    "antonyms": [
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "mo-bu-zuo-sheng",
+    "text": "默不作声",
+    "pinyin": "mò bù zuò shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "silent · not · make · sound",
+    "natural": "keep quiet",
+    "meaning": {
+      "en": "To keep silent and say nothing.",
+      "zh": "不说话，不出声。"
+    },
+    "equivalents": [
+      "keep quiet",
+      "say nothing",
+      "hold one's tongue"
+    ],
+    "examples": [
+      {
+        "zh": "大家都在讨论，只有他默不作声。",
+        "en": "Everyone was talking except him; he said nothing."
+      },
+      {
+        "zh": "被批评后，她默不作声地离开了。",
+        "en": "After being told off, she left without a word."
+      },
+      {
+        "zh": "面对不公，我们不能默不作声。",
+        "en": "We can't stay silent in the face of injustice."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "一声不吭",
+      "鸦雀无声"
+    ],
+    "antonyms": [
+      "滔滔不绝"
+    ]
+  },
+  {
+    "id": "gan-dan-xiang-zhao",
+    "text": "肝胆相照",
+    "pinyin": "gān dǎn xiāng zhào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "relationships"
+    ],
+    "literal": "liver · gall · mutually · shine",
+    "natural": "utterly loyal to each other",
+    "meaning": {
+      "en": "Showing one's liver and gall to each other: complete sincerity and loyalty between friends.",
+      "zh": "比喻以真心相待。"
+    },
+    "equivalents": [
+      "utterly loyal to each other",
+      "bosom friends",
+      "open-hearted"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩是肝胆相照的好朋友。",
+        "en": "The two of them are true, loyal friends."
+      },
+      {
+        "zh": "合作伙伴之间要肝胆相照。",
+        "en": "Partners should be completely open with each other."
+      },
+      {
+        "zh": "多年来，他们肝胆相照，共渡难关。",
+        "en": "For years they've stood by each other through thick and thin."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "推心置腹",
+      "披肝沥胆"
+    ],
+    "antonyms": [
+      "尔虞我诈",
+      "勾心斗角"
+    ]
+  },
+  {
+    "id": "san-si-er-hou-xing",
+    "text": "三思而后行",
+    "pinyin": "sān sī ér hòu xíng",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "confucian-classics"
+    ],
+    "literal": "three · think · and · after · act",
+    "natural": "think before you act",
+    "meaning": {
+      "en": "Think it over carefully before acting.",
+      "zh": "反复考虑后再去做。"
+    },
+    "equivalents": [
+      "think before you act",
+      "look before you leap",
+      "think twice"
+    ],
+    "examples": [
+      {
+        "zh": "辞职是大事，你要三思而后行。",
+        "en": "Quitting is a big step; think it through first."
+      },
+      {
+        "zh": "投资有风险，三思而后行。",
+        "en": "Investing is risky, so look before you leap."
+      },
+      {
+        "zh": "说话之前最好三思而后行。",
+        "en": "It's best to think twice before you speak."
+      }
+    ],
+    "origin": {
+      "source": "《论语·公冶长》",
+      "story": {
+        "en": "The Analects: 'Ji Wenzi thought three times before acting.' Confucius, hearing this, said 'Twice is enough' (季文子三思而后行).",
+        "zh": "《论语·公冶长》：“季文子三思而后行。子闻之，曰：‘再，斯可矣。’”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often advice.",
+      "zh": "多作谓语，常用于劝告。"
+    },
+    "synonyms": [
+      "深思熟虑",
+      "谨言慎行"
+    ],
+    "antonyms": [
+      "轻举妄动",
+      "草率行事"
+    ]
+  },
+  {
+    "id": "jian-rong-bing-xu",
+    "text": "兼容并蓄",
+    "pinyin": "jiān róng bìng xù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "兼收并蓄"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "adaptability",
+      "fairness-and-impartiality"
+    ],
+    "literal": "together · contain · side-by-side · store",
+    "natural": "all-embracing",
+    "meaning": {
+      "en": "To take in and accommodate many different things or views.",
+      "zh": "把不同内容、不同性质的东西收罗起来，保存下来。"
+    },
+    "equivalents": [
+      "all-embracing",
+      "inclusive",
+      "eclectic"
+    ],
+    "examples": [
+      {
+        "zh": "这所大学学风自由，兼容并蓄。",
+        "en": "The university has a free and inclusive academic culture."
+      },
+      {
+        "zh": "中华文化兼容并蓄，吸收了很多外来元素。",
+        "en": "Chinese culture is all-embracing and has absorbed many foreign elements."
+      },
+      {
+        "zh": "他的音乐风格兼容并蓄。",
+        "en": "His musical style is eclectic."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "海纳百川",
+      "博采众长"
+    ],
+    "antonyms": [
+      "党同伐异",
+      "故步自封"
+    ]
+  },
+  {
+    "id": "wu-xie-ke-ji",
+    "text": "无懈可击",
+    "pinyin": "wú xiè kě jī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "military-strategy-and-victory"
+    ],
+    "literal": "no · gap · can · attack",
+    "natural": "flawless",
+    "meaning": {
+      "en": "So well guarded or argued that there is no weak point to attack.",
+      "zh": "没有可以被攻击的弱点，形容十分严密。"
+    },
+    "equivalents": [
+      "flawless",
+      "watertight",
+      "impeccable"
+    ],
+    "examples": [
+      {
+        "zh": "他的论证无懈可击。",
+        "en": "His argument is watertight."
+      },
+      {
+        "zh": "这场比赛她的表现无懈可击。",
+        "en": "Her performance in the match was flawless."
+      },
+      {
+        "zh": "这份合同写得无懈可击。",
+        "en": "The contract is impeccably drafted."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "天衣无缝",
+      "完美无缺"
+    ],
+    "antonyms": [
+      "破绽百出",
+      "漏洞百出"
+    ]
+  },
+  {
+    "id": "hang-jia-li-shou",
+    "text": "行家里手",
+    "pinyin": "háng jiā lǐ shǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "useful-tools-and-skill"
+    ],
+    "literal": "trade · expert · inside · hand",
+    "natural": "an old hand",
+    "meaning": {
+      "en": "An expert; a skilled practitioner.",
+      "zh": "精通某种业务的人。"
+    },
+    "equivalents": [
+      "an old hand",
+      "an expert",
+      "a pro"
+    ],
+    "examples": [
+      {
+        "zh": "修车他可是行家里手。",
+        "en": "He's an old hand at fixing cars."
+      },
+      {
+        "zh": "她是做电商的行家里手。",
+        "en": "She's an e-commerce pro."
+      },
+      {
+        "zh": "请行家里手来看看，就知道真假了。",
+        "en": "Get an expert to look and you'll know if it's genuine."
+      }
+    ],
+    "usage": {
+      "en": "Object.",
+      "zh": "多作宾语。"
+    },
+    "synonyms": [
+      "驾轻就熟",
+      "老马识途"
+    ],
+    "antonyms": [
+      "门外汉"
+    ]
+  },
+  {
+    "id": "yan-nian-yi-shou",
+    "text": "延年益寿",
+    "pinyin": "yán nián yì shòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "益寿延年"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "health",
+      "experience-and-old-age"
+    ],
+    "literal": "extend · years · increase · lifespan",
+    "natural": "prolong life",
+    "meaning": {
+      "en": "To prolong one's life.",
+      "zh": "延长寿命，增加岁数。"
+    },
+    "equivalents": [
+      "prolong life",
+      "add years to one's life",
+      "good for longevity"
+    ],
+    "examples": [
+      {
+        "zh": "经常锻炼可以延年益寿。",
+        "en": "Regular exercise can add years to your life."
+      },
+      {
+        "zh": "这种茶据说有延年益寿的功效。",
+        "en": "This tea is said to promote longevity."
+      },
+      {
+        "zh": "祝您身体健康，延年益寿！",
+        "en": "Wishing you good health and a long life!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "长生不老",
+      "健康长寿"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shang-jin-dong-gu",
+    "text": "伤筋动骨",
+    "pinyin": "shāng jīn dòng gǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "illness-and-disease"
+    ],
+    "literal": "injure · sinew · move · bone",
+    "natural": "seriously injured",
+    "meaning": {
+      "en": "To injure sinews and bones; figuratively, to suffer serious damage at the core.",
+      "zh": "指筋骨受伤，也比喻受到严重损害。"
+    },
+    "equivalents": [
+      "seriously injured",
+      "a major blow",
+      "structural damage"
+    ],
+    "examples": [
+      {
+        "zh": "俗话说，伤筋动骨一百天。",
+        "en": "As the saying goes, broken bones take a hundred days to heal."
+      },
+      {
+        "zh": "这次改革不伤筋动骨，就难见成效。",
+        "en": "Reform won't work unless it goes to the core."
+      },
+      {
+        "zh": "这场危机让公司伤筋动骨。",
+        "en": "The crisis dealt the company a serious blow."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "元气大伤"
+    ],
+    "antonyms": [
+      "毫发无损"
+    ]
+  },
+  {
+    "id": "qian-pu-hou-ji",
+    "text": "前仆后继",
+    "pinyin": "qián pū hòu jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "high-aspirations"
+    ],
+    "literal": "front · fall · behind · follow",
+    "natural": "as one falls, another takes his place",
+    "meaning": {
+      "en": "As those in front fall, those behind press on: heroic, unending sacrifice.",
+      "zh": "前面的倒下了，后面的紧跟上去，形容英勇奋斗，不怕牺牲。"
+    },
+    "equivalents": [
+      "as one falls, another takes his place",
+      "wave after wave",
+      "undaunted by sacrifice"
+    ],
+    "examples": [
+      {
+        "zh": "革命先烈前仆后继，换来了今天的和平。",
+        "en": "Wave after wave of martyrs gave their lives for today's peace."
+      },
+      {
+        "zh": "科学家们前仆后继，终于攻克了这种疾病。",
+        "en": "Generation after generation of scientists pressed on until the disease was beaten."
+      },
+      {
+        "zh": "为了自由，人们前仆后继地斗争。",
+        "en": "People fought for freedom, one stepping in as another fell."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "视死如归",
+      "奋不顾身"
+    ],
+    "antonyms": [
+      "临阵脱逃",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "gong-cheng-lve-di",
+    "text": "攻城略地",
+    "pinyin": "gōng chéng lüè dì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "攻城掠地"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "competition-and-rivalry"
+    ],
+    "literal": "attack · city · seize · territory",
+    "natural": "conquer territory",
+    "meaning": {
+      "en": "To attack cities and seize land; figuratively, to aggressively capture markets.",
+      "zh": "攻打城池，夺取土地；也比喻在市场等方面大举扩张。"
+    },
+    "equivalents": [
+      "conquer territory",
+      "sweep all before one",
+      "grab market share"
+    ],
+    "examples": [
+      {
+        "zh": "这支军队一路攻城略地。",
+        "en": "The army conquered city after city."
+      },
+      {
+        "zh": "国产手机在海外市场攻城略地。",
+        "en": "Chinese phone makers are grabbing market share abroad."
+      },
+      {
+        "zh": "新品牌攻城略地，老牌企业压力很大。",
+        "en": "New brands are sweeping in and putting the old names under pressure."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "开疆拓土",
+      "所向披靡"
+    ],
+    "antonyms": [
+      "节节败退"
+    ]
+  },
+  {
+    "id": "fu-yu-wan-kang",
+    "text": "负隅顽抗",
+    "pinyin": "fù yú wán kàng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "负嵎顽抗"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "war",
+      "resistance-to-change",
+      "confucian-classics"
+    ],
+    "literal": "back-against · corner · stubbornly · resist",
+    "natural": "make a last stand",
+    "meaning": {
+      "en": "To put up stubborn resistance from a cornered position.",
+      "zh": "依靠险要的地势顽固抵抗。"
+    },
+    "equivalents": [
+      "make a last stand",
+      "fight with one's back to the wall",
+      "hold out stubbornly"
+    ],
+    "examples": [
+      {
+        "zh": "残敌负隅顽抗，最终被全部歼灭。",
+        "en": "The remaining enemy made a last stand but were wiped out."
+      },
+      {
+        "zh": "嫌犯躲在屋里负隅顽抗，被警察制服。",
+        "en": "The suspect held out in the house but was overpowered by police."
+      },
+      {
+        "zh": "证据确凿，你就别再负隅顽抗了。",
+        "en": "The evidence is conclusive — stop fighting it."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心下》",
+      "story": {
+        "en": "Mencius describes a tiger 'with its back to a corner of the mountain' (虎负嵎), which no one dares approach — the image behind the idiom.",
+        "zh": "《孟子·尽心下》：“有众逐虎，虎负嵎，莫之敢撄。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "困兽犹斗",
+      "垂死挣扎"
+    ],
+    "antonyms": [
+      "束手就擒",
+      "缴械投降"
+    ]
+  }
+]

@@ -1,0 +1,1063 @@
+[
+  {
+    "id": "chu-yan-bu-xun",
+    "text": "出言不逊",
+    "pinyin": "chū yán bù xùn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "utter · words · not · humble",
+    "natural": "speak rudely",
+    "meaning": {
+      "en": "To speak rudely or insolently.",
+      "zh": "说话粗鲁无礼，不客气。"
+    },
+    "equivalents": [
+      "speak rudely",
+      "be insolent",
+      "mouth off"
+    ],
+    "examples": [
+      {
+        "zh": "他在会上出言不逊，顶撞了领导。",
+        "en": "He spoke insolently at the meeting and talked back to his boss."
+      },
+      {
+        "zh": "球员因对裁判出言不逊被罚下场。",
+        "en": "The player was sent off for verbally abusing the referee."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "口出狂言",
+      "恶语伤人"
+    ],
+    "antonyms": [
+      "彬彬有礼"
+    ]
+  },
+  {
+    "id": "can-jue-ren-huan",
+    "text": "惨绝人寰",
+    "pinyin": "cǎn jué rén huán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice",
+      "conflict-and-strife"
+    ],
+    "literal": "cruel · unmatched · human · world",
+    "natural": "unspeakably cruel",
+    "meaning": {
+      "en": "So cruel or tragic that nothing in the world compares.",
+      "zh": "世上再没有比这更惨的了。形容极其悲惨或残酷。"
+    },
+    "equivalents": [
+      "unspeakably cruel",
+      "an atrocity",
+      "horrific beyond words"
+    ],
+    "examples": [
+      {
+        "zh": "侵略者犯下了惨绝人寰的罪行。",
+        "en": "The invaders committed unspeakable atrocities."
+      },
+      {
+        "zh": "这是一场惨绝人寰的灾难。",
+        "en": "It was a catastrophe of unimaginable horror."
+      }
+    ],
+    "usage": {
+      "en": "Attributive; of atrocities, massacres, disasters.",
+      "zh": "多作定语，修饰罪行、屠杀等。"
+    },
+    "synonyms": [
+      "骇人听闻",
+      "灭绝人性"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hua-wei-wu-you",
+    "text": "化为乌有",
+    "pinyin": "huà wéi wū yǒu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "poems-prose"
+    ],
+    "literal": "turn · into · non- · existent",
+    "natural": "go up in smoke",
+    "meaning": {
+      "en": "To vanish completely; come to nothing.",
+      "zh": "变得什么都没有了。指全部丧失或完全落空。"
+    },
+    "equivalents": [
+      "go up in smoke",
+      "come to nothing",
+      "vanish into thin air"
+    ],
+    "examples": [
+      {
+        "zh": "一场大火，多年的积蓄化为乌有。",
+        "en": "In one fire, years of savings went up in smoke."
+      },
+      {
+        "zh": "股市暴跌让他的财富瞬间化为乌有。",
+        "en": "The market crash wiped out his fortune overnight."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《章质夫送酒六壶书至而酒不达戏作小诗问之》",
+      "story": {
+        "en": "Su Shi joked that six jars of wine promised by a friend never arrived and had 'turned into Mr Nonexistent' — 乌有先生, a fictional character from Sima Xiangru's 'Zixu Rhapsody'.",
+        "zh": "苏轼诗：“岂意青州六从事，化为乌有一先生。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "付之东流",
+      "化为泡影"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shan-feng-dian-huo",
+    "text": "煽风点火",
+    "pinyin": "shān fēng diǎn huǒ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "fan · wind · light · fire",
+    "natural": "stir up trouble",
+    "meaning": {
+      "en": "To stir up trouble and incite others.",
+      "zh": "比喻煽动别人闹事或制造事端。"
+    },
+    "equivalents": [
+      "stir up trouble",
+      "fan the flames",
+      "stoke tensions"
+    ],
+    "examples": [
+      {
+        "zh": "有人在网上煽风点火，故意制造对立。",
+        "en": "Someone online is fanning the flames and deliberately stirring up division."
+      },
+      {
+        "zh": "他们吵架，你就别在旁边煽风点火了。",
+        "en": "They're arguing — don't stand there stirring things up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; critical.",
+      "zh": "多作谓语，含贬义。"
+    },
+    "synonyms": [
+      "推波助澜",
+      "火上浇油",
+      "挑拨离间"
+    ],
+    "antonyms": [
+      "息事宁人"
+    ]
+  },
+  {
+    "id": "chi-li-bu-tao-hao",
+    "text": "吃力不讨好",
+    "pinyin": "chī lì bù tǎo hǎo",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "variants": [
+      "费力不讨好"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "efficiency"
+    ],
+    "literal": "spend · effort · not · win · favour",
+    "natural": "a thankless task",
+    "meaning": {
+      "en": "To work hard and get no thanks or results for it.",
+      "zh": "花了很大力气，结果却得不到好处或别人的好评。"
+    },
+    "equivalents": [
+      "a thankless task",
+      "more trouble than it's worth",
+      "all pain, no gain"
+    ],
+    "examples": [
+      {
+        "zh": "当中间人往往吃力不讨好。",
+        "en": "Being the go-between is often a thankless task."
+      },
+      {
+        "zh": "这种吃力不讨好的事，没人愿意干。",
+        "en": "Nobody wants to do a thankless job like that."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often 吃力不讨好的事/活儿.",
+      "zh": "多作谓语、定语，常说“吃力不讨好的事”。"
+    },
+    "synonyms": [
+      "事倍功半",
+      "徒劳无功"
+    ],
+    "antonyms": [
+      "事半功倍"
+    ]
+  },
+  {
+    "id": "dang-qi-hui-chang",
+    "text": "荡气回肠",
+    "pinyin": "dàng qì huí cháng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "回肠荡气"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "complex-emotional-states",
+      "poems-prose"
+    ],
+    "literal": "stir · breath · turn · intestines",
+    "natural": "deeply moving",
+    "meaning": {
+      "en": "So moving that it stirs one to the depths.",
+      "zh": "使肝肠回旋，使心气激荡。形容文章、乐曲等十分婉转动人。"
+    },
+    "equivalents": [
+      "deeply moving",
+      "soul-stirring",
+      "haunting"
+    ],
+    "examples": [
+      {
+        "zh": "这首歌旋律优美，荡气回肠。",
+        "en": "The song's melody is beautiful and deeply moving."
+      },
+      {
+        "zh": "影片讲述了一个荡气回肠的爱情故事。",
+        "en": "The film tells a soul-stirring love story."
+      }
+    ],
+    "origin": {
+      "source": "曹丕《大墙上蒿行》",
+      "story": {
+        "en": "Cao Pi described singing that 'moves the heart and pleases the ear, stirs the breath and turns the bowels'.",
+        "zh": "曹丕《大墙上蒿行》：“女娥长歌，声协宫商，感心动耳，荡气回肠。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; of music, writing, stories.",
+      "zh": "多作谓语、定语，形容乐曲、文章、故事。"
+    },
+    "synonyms": [
+      "扣人心弦",
+      "感人肺腑"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "cheng-xin-cheng-yi",
+    "text": "诚心诚意",
+    "pinyin": "chéng xīn chéng yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "sincere · heart · sincere · intention",
+    "natural": "in all sincerity",
+    "meaning": {
+      "en": "With complete sincerity.",
+      "zh": "形容心意真诚。"
+    },
+    "equivalents": [
+      "in all sincerity",
+      "wholeheartedly",
+      "from the bottom of one's heart"
+    ],
+    "examples": [
+      {
+        "zh": "我是诚心诚意来向你道歉的。",
+        "en": "I've come to apologise to you in all sincerity."
+      },
+      {
+        "zh": "他诚心诚意地帮助每一位新同事。",
+        "en": "He wholeheartedly helps every new colleague."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "真心实意",
+      "全心全意"
+    ],
+    "antonyms": [
+      "虚情假意"
+    ]
+  },
+  {
+    "id": "jiao-wang-guo-zheng",
+    "text": "矫枉过正",
+    "pinyin": "jiǎo wǎng guò zhèng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "historical-records"
+    ],
+    "literal": "straighten · crooked · past · straight",
+    "natural": "overcorrect",
+    "meaning": {
+      "en": "To overcorrect a mistake and go too far the other way.",
+      "zh": "纠正偏差而超过了应有的限度。"
+    },
+    "equivalents": [
+      "overcorrect",
+      "go too far the other way",
+      "swing to the opposite extreme"
+    ],
+    "examples": [
+      {
+        "zh": "整顿要适度，不要矫枉过正。",
+        "en": "The clean-up should be measured — don't overcorrect."
+      },
+      {
+        "zh": "为了减肥完全不吃饭，这是矫枉过正。",
+        "en": "Going without food altogether to lose weight is going too far the other way."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·诸侯王表》",
+      "story": {
+        "en": "The Han History says Han policy, in correcting the Qin's mistakes, 'can be said to have straightened the crooked beyond straight'.",
+        "zh": "《汉书·诸侯王表》：“可谓矫枉过其正矣。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often 不要/不能矫枉过正.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "过犹不及"
+    ],
+    "antonyms": [
+      "恰如其分"
+    ]
+  },
+  {
+    "id": "da-qi-pang-bo",
+    "text": "大气磅礴",
+    "pinyin": "dà qì páng bó",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "great · spirit · majestic · boundless",
+    "natural": "majestic",
+    "meaning": {
+      "en": "Majestic and full of grandeur.",
+      "zh": "形容气势盛大，雄伟壮观。"
+    },
+    "equivalents": [
+      "majestic",
+      "grand and sweeping",
+      "awe-inspiring"
+    ],
+    "examples": [
+      {
+        "zh": "这幅山水画大气磅礴。",
+        "en": "This landscape painting is majestic."
+      },
+      {
+        "zh": "开幕式的表演大气磅礴，令人震撼。",
+        "en": "The opening ceremony was grand and awe-inspiring."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; of art, writing, scenery, performances.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "气势磅礴",
+      "波澜壮阔"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ming-zao-yi-shi",
+    "text": "名噪一时",
+    "pinyin": "míng zào yī shí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "fleeting-time"
+    ],
+    "literal": "name · resound · one · time",
+    "natural": "famous for a time",
+    "meaning": {
+      "en": "To be famous for a while.",
+      "zh": "名声在一个时期内传扬得很广。"
+    },
+    "equivalents": [
+      "famous in one's day",
+      "all the rage at the time",
+      "the talk of the town"
+    ],
+    "examples": [
+      {
+        "zh": "这位作家曾经名噪一时，如今却很少有人提起。",
+        "en": "The writer was famous in his day, but few mention him now."
+      },
+      {
+        "zh": "那款游戏名噪一时，后来渐渐没人玩了。",
+        "en": "That game was all the rage for a while, then gradually faded."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "名扬四海"
+    ],
+    "antonyms": [
+      "默默无闻"
+    ]
+  },
+  {
+    "id": "cang-bai-wu-li",
+    "text": "苍白无力",
+    "pinyin": "cāng bái wú lì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "giving-up-and-weakness"
+    ],
+    "literal": "pale · white · no · strength",
+    "natural": "feeble",
+    "meaning": {
+      "en": "Weak and unconvincing; lacking force.",
+      "zh": "形容文章、言辞等缺乏说服力或感染力；也指面色苍白、身体虚弱。"
+    },
+    "equivalents": [
+      "feeble",
+      "weak and unconvincing",
+      "lame"
+    ],
+    "examples": [
+      {
+        "zh": "在事实面前，他的辩解显得苍白无力。",
+        "en": "In the face of the facts his excuses sounded feeble."
+      },
+      {
+        "zh": "这篇文章语言苍白无力，缺乏感染力。",
+        "en": "The writing in this essay is lifeless and fails to move the reader."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often 显得苍白无力.",
+      "zh": "多作谓语，常说“显得苍白无力”。"
+    },
+    "synonyms": [
+      "软弱无力"
+    ],
+    "antonyms": [
+      "铿锵有力"
+    ]
+  },
+  {
+    "id": "xiang-qin-xiang-ai",
+    "text": "相亲相爱",
+    "pinyin": "xiāng qīn xiāng ài",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "family-and-home",
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "mutually · close · mutually · love",
+    "natural": "love each other dearly",
+    "meaning": {
+      "en": "To be close to and love one another.",
+      "zh": "形容彼此关系密切，感情深厚。"
+    },
+    "equivalents": [
+      "love each other dearly",
+      "close and loving",
+      "devoted to each other"
+    ],
+    "examples": [
+      {
+        "zh": "祝你们相亲相爱，白头偕老。",
+        "en": "May you love each other dearly and grow old together."
+      },
+      {
+        "zh": "我们是相亲相爱的一家人。",
+        "en": "We're a close and loving family."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; also used as a wedding wish.",
+      "zh": "多作谓语、定语，也用作婚礼祝福。"
+    },
+    "synonyms": [
+      "情同手足",
+      "相濡以沫"
+    ],
+    "antonyms": [
+      "反目成仇"
+    ]
+  },
+  {
+    "id": "shen-qing-qi-shuang",
+    "text": "神清气爽",
+    "pinyin": "shén qīng qì shuǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "relaxation-and-rest"
+    ],
+    "literal": "spirit · clear · breath · fresh",
+    "natural": "refreshed",
+    "meaning": {
+      "en": "Clear-headed and refreshed.",
+      "zh": "神志清爽，心情舒畅。"
+    },
+    "equivalents": [
+      "refreshed",
+      "clear-headed",
+      "feel like a new person"
+    ],
+    "examples": [
+      {
+        "zh": "睡了个好觉，早上起来神清气爽。",
+        "en": "After a good night's sleep I woke up feeling refreshed."
+      },
+      {
+        "zh": "爬到山顶，呼吸着新鲜空气，让人神清气爽。",
+        "en": "Breathing the fresh air at the summit leaves you clear-headed and invigorated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "心旷神怡",
+      "精神焕发"
+    ],
+    "antonyms": [
+      "无精打采",
+      "垂头丧气"
+    ]
+  },
+  {
+    "id": "huang-huang-zhang-zhang",
+    "text": "慌慌张张",
+    "pinyin": "huāng huāng zhāng zhāng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "fear-and-cowardice",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "flustered · flustered · hurried · hurried",
+    "natural": "in a fluster",
+    "meaning": {
+      "en": "Flustered and in a hurry.",
+      "zh": "形容做事急忙，不沉着。"
+    },
+    "equivalents": [
+      "in a fluster",
+      "flustered",
+      "in a mad rush"
+    ],
+    "examples": [
+      {
+        "zh": "他慌慌张张地跑进教室，连书包都忘了带。",
+        "en": "He rushed into the classroom in a fluster and even forgot his schoolbag."
+      },
+      {
+        "zh": "别慌慌张张的，慢慢说。",
+        "en": "Don't get so flustered — tell me slowly."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial (慌慌张张地) or predicate.",
+      "zh": "多作状语、谓语。"
+    },
+    "synonyms": [
+      "手忙脚乱",
+      "惊慌失措"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "不慌不忙"
+    ]
+  },
+  {
+    "id": "cha-zi-yan-hong",
+    "text": "姹紫嫣红",
+    "pinyin": "chà zǐ yān hóng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "beautiful · purple · charming · red",
+    "natural": "a riot of colour",
+    "meaning": {
+      "en": "Flowers of brilliant, varied colours.",
+      "zh": "形容各种颜色的花朵娇艳美丽。"
+    },
+    "equivalents": [
+      "a riot of colour",
+      "a blaze of blossom",
+      "in full bloom"
+    ],
+    "examples": [
+      {
+        "zh": "春天的公园里姹紫嫣红，游人如织。",
+        "en": "In spring the park is a riot of colour, crowded with visitors."
+      },
+      {
+        "zh": "花展上姹紫嫣红的郁金香吸引了很多人。",
+        "en": "The tulips in every colour drew big crowds at the flower show."
+      }
+    ],
+    "origin": {
+      "source": "汤显祖《牡丹亭·惊梦》",
+      "story": {
+        "en": "Du Liniang, seeing the spring garden, sings that flowers of every bright hue are blooming all around.",
+        "zh": "《牡丹亭》：“原来姹紫嫣红开遍，似这般都付与断井颓垣。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; often of spring flowers.",
+      "zh": "多作谓语、定语，多写春花。"
+    },
+    "synonyms": [
+      "万紫千红",
+      "百花齐放"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "tun-tun-tu-tu",
+    "text": "吞吞吐吐",
+    "pinyin": "tūn tūn tǔ tǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "swallow · swallow · spit · spit",
+    "natural": "hem and haw",
+    "meaning": {
+      "en": "To speak hesitantly, as if hiding something.",
+      "zh": "想说又不敢说或说话含混。"
+    },
+    "equivalents": [
+      "hem and haw",
+      "beat about the bush",
+      "stammer evasively"
+    ],
+    "examples": [
+      {
+        "zh": "他吞吞吐吐了半天，才说出实情。",
+        "en": "He hemmed and hawed for ages before telling the truth."
+      },
+      {
+        "zh": "有话直说，别吞吞吐吐的。",
+        "en": "Spit it out — stop beating about the bush."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "支支吾吾",
+      "含糊其辞"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开门见山"
+    ]
+  },
+  {
+    "id": "ru-lin-da-di",
+    "text": "如临大敌",
+    "pinyin": "rú lín dà dí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "fear-and-cowardice"
+    ],
+    "literal": "as if · facing · great · enemy",
+    "natural": "as if facing a mighty foe",
+    "meaning": {
+      "en": "To be extremely tense and on guard, as if facing a powerful enemy.",
+      "zh": "好像面临强大的敌人。形容戒备森严或把局势看得非常严重。"
+    },
+    "equivalents": [
+      "on high alert",
+      "as tense as if facing a mighty foe",
+      "braced for battle"
+    ],
+    "examples": [
+      {
+        "zh": "考试前，全班同学如临大敌。",
+        "en": "Before the exam the whole class was as tense as if facing an enemy."
+      },
+      {
+        "zh": "峰会期间，警方如临大敌，严密布控。",
+        "en": "During the summit the police were on high alert with tight security."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; sometimes ironic about overreaction.",
+      "zh": "多作谓语，有时带讽刺意味。"
+    },
+    "synonyms": [
+      "严阵以待",
+      "如临深渊"
+    ],
+    "antonyms": [
+      "掉以轻心",
+      "若无其事"
+    ]
+  },
+  {
+    "id": "bai-fei-dai-xing",
+    "text": "百废待兴",
+    "pinyin": "bǎi fèi dài xīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "comebacks-and-renewal",
+      "news-and-officialese"
+    ],
+    "literal": "hundred · neglected · await · revival",
+    "natural": "everything needs rebuilding",
+    "meaning": {
+      "en": "Many neglected things are waiting to be restored.",
+      "zh": "许多被废置的事情等待兴办。"
+    },
+    "equivalents": [
+      "everything waiting to be rebuilt",
+      "a country in need of reconstruction",
+      "starting from scratch"
+    ],
+    "examples": [
+      {
+        "zh": "战后初期，百废待兴。",
+        "en": "In the early post-war years, everything needed rebuilding."
+      },
+      {
+        "zh": "新校长上任时，学校百废待兴。",
+        "en": "When the new head took over, the school had to be rebuilt from the ground up."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often of post-war or post-disaster periods.",
+      "zh": "多作谓语，多指战后或灾后。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "欣欣向荣"
+    ]
+  },
+  {
+    "id": "hu-yan-luan-yu",
+    "text": "胡言乱语",
+    "pinyin": "hú yán luàn yǔ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "verbosity",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "wild · words · random · speech",
+    "natural": "talk nonsense",
+    "meaning": {
+      "en": "To talk nonsense.",
+      "zh": "没有根据地瞎说。"
+    },
+    "equivalents": [
+      "talk nonsense",
+      "talk rubbish",
+      "babble"
+    ],
+    "examples": [
+      {
+        "zh": "他喝醉了，开始胡言乱语。",
+        "en": "He got drunk and started talking nonsense."
+      },
+      {
+        "zh": "别听他胡言乱语，根本没有这回事。",
+        "en": "Don't listen to his rubbish — nothing of the sort happened."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [
+      "胡说八道",
+      "信口开河",
+      "语无伦次"
+    ],
+    "antonyms": [
+      "言之有理"
+    ]
+  },
+  {
+    "id": "cui-ren-lei-xia",
+    "text": "催人泪下",
+    "pinyin": "cuī rén lèi xià",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "excellent-acting"
+    ],
+    "literal": "urge · people · tears · fall",
+    "natural": "moving to tears",
+    "meaning": {
+      "en": "So moving that it brings people to tears.",
+      "zh": "使人感动得流泪。"
+    },
+    "equivalents": [
+      "moving to tears",
+      "heart-rending",
+      "a tear-jerker"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影的结尾催人泪下。",
+        "en": "The ending of the film moves you to tears."
+      },
+      {
+        "zh": "她讲述了一个催人泪下的真实故事。",
+        "en": "She told a heart-rending true story."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "感人至深",
+      "感人肺腑"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-ji-zhi-si",
+    "text": "一己之私",
+    "pinyin": "yī jǐ zhī sī",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "political-corruption"
+    ],
+    "literal": "one · self · 's · private gain",
+    "natural": "personal gain",
+    "meaning": {
+      "en": "One's own selfish interests.",
+      "zh": "个人的私利。"
+    },
+    "equivalents": [
+      "personal gain",
+      "selfish interests",
+      "one's own ends"
+    ],
+    "examples": [
+      {
+        "zh": "官员绝不能为了一己之私损害公众利益。",
+        "en": "Officials must never harm the public interest for personal gain."
+      },
+      {
+        "zh": "他出于一己之私，隐瞒了事实。",
+        "en": "He concealed the truth for his own selfish ends."
+      }
+    ],
+    "usage": {
+      "en": "Object; usually 为了/出于一己之私.",
+      "zh": "多作宾语，常说“为了一己之私”。"
+    },
+    "synonyms": [
+      "一己私利",
+      "损人利己"
+    ],
+    "antonyms": [
+      "大公无私",
+      "公而忘私"
+    ]
+  },
+  {
+    "id": "da-da-lie-lie",
+    "text": "大大咧咧",
+    "pinyin": "dà dà liē liē",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "negative-character-flaws"
+    ],
+    "literal": "big · big · careless · careless",
+    "natural": "happy-go-lucky",
+    "meaning": {
+      "en": "Casual and careless in manner; not fussed about details.",
+      "zh": "形容随随便便、满不在乎的样子。"
+    },
+    "equivalents": [
+      "happy-go-lucky",
+      "easy-going and careless",
+      "laid-back"
+    ],
+    "examples": [
+      {
+        "zh": "她性格大大咧咧，从不计较小事。",
+        "en": "She's happy-go-lucky and never fusses over little things."
+      },
+      {
+        "zh": "他大大咧咧的，经常丢三落四。",
+        "en": "He's so laid-back that he's always losing things."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; can be affectionate or mildly critical.",
+      "zh": "多作谓语、定语，可褒可贬。"
+    },
+    "synonyms": [
+      "粗心大意"
+    ],
+    "antonyms": [
+      "小心翼翼",
+      "谨小慎微"
+    ]
+  },
+  {
+    "id": "hun-ran-tian-cheng",
+    "text": "浑然天成",
+    "pinyin": "hún rán tiān chéng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "master-craftsmanship",
+      "excellent-writing"
+    ],
+    "literal": "whole · -ly · nature · made",
+    "natural": "seamless and natural",
+    "meaning": {
+      "en": "Seamless and natural, as if made by nature.",
+      "zh": "形容诗文、艺术品等结构严密自然，毫无雕琢痕迹；也形容人的才德完美自然。"
+    },
+    "equivalents": [
+      "seamless",
+      "effortlessly natural",
+      "as if made by nature"
+    ],
+    "examples": [
+      {
+        "zh": "这首诗浑然天成，没有雕琢的痕迹。",
+        "en": "This poem is seamless, with no trace of artifice."
+      },
+      {
+        "zh": "建筑与山水浑然天成，融为一体。",
+        "en": "The buildings blend seamlessly into the landscape."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "天衣无缝",
+      "巧夺天工",
+      "鬼斧神工"
+    ],
+    "antonyms": [
+      "矫揉造作"
+    ]
+  }
+]

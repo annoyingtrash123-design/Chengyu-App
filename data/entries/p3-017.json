@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "fan-xiang-dao-gui",
+    "text": "翻箱倒柜",
+    "pinyin": "fān xiāng dǎo guì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "翻箱倒箧"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "family-and-home",
+      "chaos"
+    ],
+    "literal": "turn-over · chest · upend · cupboard",
+    "natural": "turn the place upside down",
+    "meaning": {
+      "en": "To rummage through every box and cupboard in search of something.",
+      "zh": "把箱子柜子都翻遍了，形容彻底地翻找。"
+    },
+    "equivalents": [
+      "turn the place upside down",
+      "rummage through everything",
+      "search high and low"
+    ],
+    "examples": [
+      {
+        "zh": "为了找护照，他翻箱倒柜折腾了一晚上。",
+        "en": "He turned the flat upside down all night looking for his passport."
+      },
+      {
+        "zh": "小偷翻箱倒柜，却没找到什么值钱的东西。",
+        "en": "The burglars ransacked every drawer but found nothing of value."
+      },
+      {
+        "zh": "妈妈翻箱倒柜，终于找出了我小时候的照片。",
+        "en": "Mum rummaged through every cupboard and finally dug out my childhood photos."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "翻天覆地",
+      "东翻西找"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "tian-shi-di-li-ren-he",
+    "text": "天时地利人和",
+    "pinyin": "tiān shí dì lì rén hé",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "military-strategy-and-victory",
+      "confucian-classics"
+    ],
+    "literal": "heaven · timing · earth · advantage · people · harmony",
+    "natural": "all the stars aligned",
+    "meaning": {
+      "en": "Favourable timing, favourable position and popular support: all the conditions for success.",
+      "zh": "有利的时机、有利的地理条件和人心所向，指成功所需的各种条件都具备。"
+    },
+    "equivalents": [
+      "all the stars aligned",
+      "everything in one's favour",
+      "the right time, the right place and the right people"
+    ],
+    "examples": [
+      {
+        "zh": "这次比赛我们占尽天时地利人和，一定要拿下。",
+        "en": "We have everything in our favour this time, so we must win."
+      },
+      {
+        "zh": "项目能成功，靠的是天时地利人和。",
+        "en": "The project succeeded because the time, the place and the people were all right."
+      },
+      {
+        "zh": "创业要讲天时地利人和，缺一不可。",
+        "en": "A start-up needs the right timing, location and team; you can't do without any of them."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑下》",
+      "story": {
+        "en": "Mencius: 'Favourable timing is not as good as favourable terrain, and favourable terrain is not as good as harmony among the people' (天时不如地利，地利不如人和).",
+        "zh": "《孟子·公孙丑下》：“天时不如地利，地利不如人和。”"
+      }
+    },
+    "usage": {
+      "en": "Object; often 占尽天时地利人和.",
+      "zh": "多作宾语，常说“占尽天时地利人和”。"
+    },
+    "synonyms": [
+      "万事俱备"
+    ],
+    "antonyms": [
+      "生不逢时"
+    ]
+  },
+  {
+    "id": "gan-jing-li-luo",
+    "text": "干净利落",
+    "pinyin": "gān jìng lì luò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "clean · tidy · sharp · neat",
+    "natural": "neat and efficient",
+    "meaning": {
+      "en": "Neat, swift and efficient, with nothing left untidy.",
+      "zh": "形容做事、动作或言语灵活敏捷，不拖泥带水；也指整洁有条理。"
+    },
+    "equivalents": [
+      "neat and efficient",
+      "clean and crisp",
+      "slick"
+    ],
+    "examples": [
+      {
+        "zh": "他办事干净利落，从不拖拉。",
+        "en": "He gets things done cleanly and quickly, never dragging his feet."
+      },
+      {
+        "zh": "这个进球打得干净利落。",
+        "en": "That goal was a clinical finish."
+      },
+      {
+        "zh": "她把屋子收拾得干净利落。",
+        "en": "She left the room spick and span."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, complement or adverbial.",
+      "zh": "多作谓语、补语、状语。"
+    },
+    "synonyms": [
+      "雷厉风行",
+      "当机立断"
+    ],
+    "antonyms": [
+      "拖泥带水",
+      "拖拖拉拉"
+    ]
+  },
+  {
+    "id": "du-duan-zhuan-xing",
+    "text": "独断专行",
+    "pinyin": "dú duàn zhuān xíng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "独断独行"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "negative-character-flaws"
+    ],
+    "literal": "alone · decide · arbitrarily · act",
+    "natural": "act arbitrarily",
+    "meaning": {
+      "en": "To make decisions alone and act without consulting anyone.",
+      "zh": "行事专断，不考虑别人的意见。"
+    },
+    "equivalents": [
+      "act arbitrarily",
+      "a one-man show",
+      "high-handed"
+    ],
+    "examples": [
+      {
+        "zh": "老板独断专行，员工的意见他从来不听。",
+        "en": "The boss is high-handed and never listens to his staff."
+      },
+      {
+        "zh": "这样的大事，你不能独断专行。",
+        "en": "You can't decide something this big on your own."
+      },
+      {
+        "zh": "他因为独断专行，在董事会失去了支持。",
+        "en": "His arbitrary style cost him the support of the board."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "一意孤行",
+      "刚愎自用"
+    ],
+    "antonyms": [
+      "集思广益",
+      "从善如流"
+    ]
+  },
+  {
+    "id": "chu-xin-ji-lu",
+    "text": "处心积虑",
+    "pinyin": "chǔ xīn jī lǜ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws",
+      "confucian-classics"
+    ],
+    "literal": "harbour · mind · accumulate · scheming",
+    "natural": "scheme long and hard",
+    "meaning": {
+      "en": "To scheme deliberately and for a long time (usually to do harm).",
+      "zh": "蓄谋已久，费尽心机地盘算（多指坏事）。"
+    },
+    "equivalents": [
+      "scheme long and hard",
+      "premeditated",
+      "calculating"
+    ],
+    "examples": [
+      {
+        "zh": "他处心积虑地想把对手挤出公司。",
+        "en": "He has been scheming for ages to push his rival out of the company."
+      },
+      {
+        "zh": "这是一场处心积虑的骗局。",
+        "en": "This was a carefully premeditated fraud."
+      },
+      {
+        "zh": "对方处心积虑，就是想抢走我们的客户。",
+        "en": "They've plotted at length just to steal our clients."
+      }
+    ],
+    "origin": {
+      "source": "《穀梁传·隐公元年》",
+      "story": {
+        "en": "Commenting on Duke Zhuang of Zheng's treatment of his brother, the Guliang commentary says he had 'set his mind and laid his plans to kill' (处心积虑成于杀也).",
+        "zh": "《穀梁传·隐公元年》：“何甚乎郑伯？甚郑伯之处心积虑成于杀也。”"
+      }
+    },
+    "usage": {
+      "en": "Adverbial or attributive.",
+      "zh": "多作状语、定语。"
+    },
+    "synonyms": [
+      "蓄谋已久",
+      "费尽心机",
+      "千方百计"
+    ],
+    "antonyms": [
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "pu-shi-wu-hua",
+    "text": "朴实无华",
+    "pinyin": "pǔ shí wú huá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "朴素无华"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "contentment-and-simplicity",
+      "positive-character-qualities",
+      "excellent-writing"
+    ],
+    "literal": "plain · solid · without · flourish",
+    "natural": "plain and unadorned",
+    "meaning": {
+      "en": "Simple and genuine, without showiness.",
+      "zh": "朴素实在，不浮华。"
+    },
+    "equivalents": [
+      "plain and unadorned",
+      "down-to-earth",
+      "simple and honest"
+    ],
+    "examples": [
+      {
+        "zh": "他的文字朴实无华，却很打动人。",
+        "en": "His writing is plain and unadorned, yet very moving."
+      },
+      {
+        "zh": "这些老乡朴实无华，待人真诚。",
+        "en": "The villagers are down-to-earth and sincere."
+      },
+      {
+        "zh": "房间布置得朴实无华。",
+        "en": "The room is simply furnished."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "返璞归真"
+    ],
+    "antonyms": [
+      "华而不实",
+      "矫揉造作"
+    ]
+  },
+  {
+    "id": "he-ai-ke-qin",
+    "text": "和蔼可亲",
+    "pinyin": "hé ǎi kě qīn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "gentle · kindly · can · be-close",
+    "natural": "kind and approachable",
+    "meaning": {
+      "en": "Gentle, kindly and easy to approach.",
+      "zh": "态度温和，容易接近。"
+    },
+    "equivalents": [
+      "kind and approachable",
+      "genial",
+      "warm and friendly"
+    ],
+    "examples": [
+      {
+        "zh": "新来的校长和蔼可亲，学生们都喜欢他。",
+        "en": "The new head teacher is warm and approachable, and the pupils love him."
+      },
+      {
+        "zh": "奶奶总是一副和蔼可亲的样子。",
+        "en": "Grandma always looks so kindly."
+      },
+      {
+        "zh": "那位医生和蔼可亲，病人一点也不紧张。",
+        "en": "The doctor was so genial that the patients didn't feel nervous at all."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "平易近人",
+      "和颜悦色"
+    ],
+    "antonyms": [
+      "盛气凌人",
+      "拒人千里"
+    ]
+  },
+  {
+    "id": "di-guang-ren-xi",
+    "text": "地广人稀",
+    "pinyin": "dì guǎng rén xī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "harsh-natural-conditions",
+      "relative-measurements"
+    ],
+    "literal": "land · vast · people · sparse",
+    "natural": "sparsely populated",
+    "meaning": {
+      "en": "A vast territory with few inhabitants.",
+      "zh": "地域广阔，人烟稀少。"
+    },
+    "equivalents": [
+      "sparsely populated",
+      "wide open spaces",
+      "few and far between"
+    ],
+    "examples": [
+      {
+        "zh": "澳大利亚地广人稀。",
+        "en": "Australia is vast and sparsely populated."
+      },
+      {
+        "zh": "这里地广人稀，开车一小时也看不到一个村子。",
+        "en": "It's so empty here you can drive an hour without seeing a village."
+      },
+      {
+        "zh": "西部地广人稀，发展潜力很大。",
+        "en": "The sparsely populated west has huge potential."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "人烟稀少"
+    ],
+    "antonyms": [
+      "人山人海",
+      "人口稠密"
+    ]
+  },
+  {
+    "id": "cheng-xu-er-ru",
+    "text": "乘虚而入",
+    "pinyin": "chéng xū ér rù",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "competition-and-rivalry"
+    ],
+    "literal": "take-advantage-of · weakness · and · enter",
+    "natural": "exploit a weakness",
+    "meaning": {
+      "en": "To take advantage of a weak point to get in.",
+      "zh": "趁着对方空虚或薄弱时侵入。"
+    },
+    "equivalents": [
+      "exploit a weakness",
+      "slip in through a gap",
+      "take advantage"
+    ],
+    "examples": [
+      {
+        "zh": "对方后防出现漏洞，我们的前锋乘虚而入。",
+        "en": "Their defence left a gap, and our striker slipped through."
+      },
+      {
+        "zh": "身体虚弱时，病毒很容易乘虚而入。",
+        "en": "When you're run down, viruses can easily take hold."
+      },
+      {
+        "zh": "大公司退出后，小品牌乘虚而入。",
+        "en": "When the big firms pulled out, smaller brands moved into the gap."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "趁火打劫",
+      "有机可乘"
+    ],
+    "antonyms": [
+      "无懈可击"
+    ]
+  },
+  {
+    "id": "si-fen-wu-lie",
+    "text": "四分五裂",
+    "pinyin": "sì fēn wǔ liè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "chaos",
+      "historical-records"
+    ],
+    "literal": "four · divide · five · split",
+    "natural": "fall apart",
+    "meaning": {
+      "en": "Split into many pieces; disunited.",
+      "zh": "形容分散、不完整、不团结。"
+    },
+    "equivalents": [
+      "fall apart",
+      "fragmented",
+      "torn apart"
+    ],
+    "examples": [
+      {
+        "zh": "内战让这个国家四分五裂。",
+        "en": "The civil war tore the country apart."
+      },
+      {
+        "zh": "公司高层意见不合，团队已经四分五裂。",
+        "en": "The management is divided and the team has fallen apart."
+      },
+      {
+        "zh": "杯子摔在地上，四分五裂。",
+        "en": "The cup hit the floor and smashed to pieces."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·魏策一》",
+      "story": {
+        "en": "Zhang Yi warned the King of Wei that his land, open on all sides, was 'the way of being split four ways and torn five ways' (四分五裂之道).",
+        "zh": "《战国策·魏策一》：“此所谓四分五裂之道也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement.",
+      "zh": "多作谓语、补语。"
+    },
+    "synonyms": [
+      "分崩离析",
+      "支离破碎"
+    ],
+    "antonyms": [
+      "团结一致",
+      "齐心协力"
+    ]
+  },
+  {
+    "id": "ying-zi-sa-shuang",
+    "text": "英姿飒爽",
+    "pinyin": "yīng zī sà shuǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "outstanding-character",
+      "poems-prose"
+    ],
+    "literal": "heroic · bearing · brisk · bright",
+    "natural": "dashing",
+    "meaning": {
+      "en": "Heroic in bearing and full of vigour.",
+      "zh": "形容英俊威武、精神焕发的样子。"
+    },
+    "equivalents": [
+      "dashing",
+      "gallant",
+      "full of martial spirit"
+    ],
+    "examples": [
+      {
+        "zh": "阅兵式上，女兵们英姿飒爽。",
+        "en": "At the parade the women soldiers looked magnificent."
+      },
+      {
+        "zh": "照片里的爷爷穿着军装，英姿飒爽。",
+        "en": "In the photo, Grandpa looks dashing in his uniform."
+      },
+      {
+        "zh": "她骑在马上，一副英姿飒爽的样子。",
+        "en": "On horseback she cut a gallant figure."
+      }
+    ],
+    "origin": {
+      "source": "杜甫《丹青引》",
+      "story": {
+        "en": "Du Fu describes the painted portraits of Tang generals: 'Their heroic bearing, brisk and bright, as if coming to fight' (英姿飒爽来酣战).",
+        "zh": "杜甫《丹青引赠曹将军霸》：“褒公鄂公毛发动，英姿飒爽来酣战。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "精神抖擞",
+      "意气风发"
+    ],
+    "antonyms": [
+      "无精打采"
+    ]
+  },
+  {
+    "id": "wang-chen-mo-ji",
+    "text": "望尘莫及",
+    "pinyin": "wàng chén mò jí",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "outstanding-character",
+      "historical-records"
+    ],
+    "literal": "watch · dust · cannot · reach",
+    "natural": "can't hold a candle to",
+    "meaning": {
+      "en": "So far behind that one can only see the dust of the one ahead; far inferior.",
+      "zh": "只能望见前面人马扬起的尘土而追赶不上，比喻远远落后。"
+    },
+    "equivalents": [
+      "can't hold a candle to",
+      "be streets behind",
+      "eat someone's dust"
+    ],
+    "examples": [
+      {
+        "zh": "论数学，我对他望尘莫及。",
+        "en": "When it comes to maths, I can't hold a candle to him."
+      },
+      {
+        "zh": "这家公司的技术让同行望尘莫及。",
+        "en": "The company's technology leaves its rivals far behind."
+      },
+      {
+        "zh": "她的毅力是我们望尘莫及的。",
+        "en": "Her determination is way beyond anything we could manage."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·赵咨传》",
+      "story": {
+        "en": "When Zhao Zi passed through without stopping, the official Cao Hao rode after him but could only 'gaze at the dust, unable to catch up' (望尘不及).",
+        "zh": "《后汉书·赵咨传》：“暠送至亭次，望尘不及。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "自愧不如"
+    ],
+    "antonyms": [
+      "后来居上",
+      "遥遥领先"
+    ]
+  },
+  {
+    "id": "yin-cha-yang-cuo",
+    "text": "阴差阳错",
+    "pinyin": "yīn chā yáng cuò",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "阴错阳差"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "bad-fortune"
+    ],
+    "literal": "yin · amiss · yang · wrong",
+    "natural": "by a twist of fate",
+    "meaning": {
+      "en": "Through an odd combination of chance mistakes.",
+      "zh": "比喻由于偶然的因素而造成了差错或意外的结果。"
+    },
+    "equivalents": [
+      "by a twist of fate",
+      "as luck would have it",
+      "a series of mix-ups"
+    ],
+    "examples": [
+      {
+        "zh": "阴差阳错，我们俩竟然坐上了同一班飞机。",
+        "en": "By a twist of fate, we ended up on the same flight."
+      },
+      {
+        "zh": "由于一连串阴差阳错，这封信晚了一个月才寄到。",
+        "en": "Thanks to a string of mix-ups, the letter arrived a month late."
+      },
+      {
+        "zh": "他阴差阳错地读了医学，后来却爱上了这一行。",
+        "en": "He ended up in medicine almost by accident, but came to love it."
+      }
+    ],
+    "usage": {
+      "en": "Sentence-initial, adverbial or attributive.",
+      "zh": "多放句首或作状语、定语。"
+    },
+    "synonyms": [
+      "鬼使神差",
+      "歪打正着"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "chu-qi-bu-yi",
+    "text": "出其不意",
+    "pinyin": "chū qí bù yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "strike · their · not · expecting",
+    "natural": "catch off guard",
+    "meaning": {
+      "en": "To act when the other side least expects it.",
+      "zh": "趁对方没有意料到的时候采取行动。"
+    },
+    "equivalents": [
+      "catch off guard",
+      "take by surprise",
+      "out of the blue"
+    ],
+    "examples": [
+      {
+        "zh": "我们要出其不意，打对手一个措手不及。",
+        "en": "We need to catch our opponents off guard."
+      },
+      {
+        "zh": "这记任意球出其不意，守门员根本没反应过来。",
+        "en": "The free kick took the keeper completely by surprise."
+      },
+      {
+        "zh": "他出其不意地向她求婚了。",
+        "en": "He proposed to her out of the blue."
+      }
+    ],
+    "origin": {
+      "source": "《孙子·计篇》",
+      "story": {
+        "en": "Sunzi: 'Attack where they are unprepared; appear where they do not expect you' (攻其无备，出其不意).",
+        "zh": "《孙子·计篇》：“攻其无备，出其不意。此兵家之胜，不可先传也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial; often 出其不意，攻其不备.",
+      "zh": "多作谓语、状语，常与“攻其不备”连用。"
+    },
+    "synonyms": [
+      "攻其不备"
+    ],
+    "antonyms": [
+      "意料之中"
+    ]
+  },
+  {
+    "id": "chou-si-bo-jian",
+    "text": "抽丝剥茧",
+    "pinyin": "chōu sī bō jiǎn",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mental-clarity",
+      "efficiency"
+    ],
+    "literal": "draw · silk · peel · cocoon",
+    "natural": "unravel step by step",
+    "meaning": {
+      "en": "To get to the heart of a matter by careful, step-by-step analysis.",
+      "zh": "像抽丝、剥茧一样，比喻层层深入地分析事物，找出真相。"
+    },
+    "equivalents": [
+      "unravel step by step",
+      "peel back the layers",
+      "piece it together"
+    ],
+    "examples": [
+      {
+        "zh": "警方抽丝剥茧，终于找出了真凶。",
+        "en": "Detectives peeled back layer after layer and finally found the killer."
+      },
+      {
+        "zh": "老师抽丝剥茧地讲解这道难题。",
+        "en": "The teacher took the hard problem apart step by step."
+      },
+      {
+        "zh": "经过抽丝剥茧的分析，问题的根源找到了。",
+        "en": "Careful, methodical analysis revealed the root of the problem."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, adverbial or attributive.",
+      "zh": "多作谓语、状语、定语。"
+    },
+    "synonyms": [
+      "追根溯源",
+      "层层深入"
+    ],
+    "antonyms": [
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "qian-shan-wan-shui",
+    "text": "千山万水",
+    "pinyin": "qiān shān wàn shuǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "万水千山"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "difficult-terrain"
+    ],
+    "literal": "thousand · mountains · ten-thousand · rivers",
+    "natural": "a long, hard journey",
+    "meaning": {
+      "en": "Countless mountains and rivers; a long and arduous journey.",
+      "zh": "形容路途遥远而艰险。"
+    },
+    "equivalents": [
+      "a long, hard journey",
+      "over hill and dale",
+      "far and wide"
+    ],
+    "examples": [
+      {
+        "zh": "他跨越千山万水来看望我。",
+        "en": "He came all that long way to see me."
+      },
+      {
+        "zh": "虽然隔着千山万水，我们的心是相连的。",
+        "en": "Though we're worlds apart, our hearts are linked."
+      },
+      {
+        "zh": "红军走过了千山万水。",
+        "en": "The Red Army crossed countless mountains and rivers."
+      }
+    ],
+    "usage": {
+      "en": "Object; often 跨越/隔着千山万水.",
+      "zh": "多作宾语，常说“跨越千山万水”。"
+    },
+    "synonyms": [
+      "跋山涉水",
+      "长途跋涉"
+    ],
+    "antonyms": [
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "bing-xing-bu-bei",
+    "text": "并行不悖",
+    "pinyin": "bìng xíng bù bèi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "confucian-classics"
+    ],
+    "literal": "side-by-side · go · not · conflict",
+    "natural": "go hand in hand",
+    "meaning": {
+      "en": "Two things can be carried out at the same time without conflicting.",
+      "zh": "同时进行，互不冲突。"
+    },
+    "equivalents": [
+      "go hand in hand",
+      "not mutually exclusive",
+      "compatible"
+    ],
+    "examples": [
+      {
+        "zh": "经济发展和环境保护可以并行不悖。",
+        "en": "Economic growth and environmental protection can go hand in hand."
+      },
+      {
+        "zh": "工作与学习并行不悖。",
+        "en": "Work and study need not get in each other's way."
+      },
+      {
+        "zh": "这两种做法并行不悖，可以同时采用。",
+        "en": "The two approaches are compatible and can be used together."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·中庸》",
+      "story": {
+        "en": "The Doctrine of the Mean: 'All things are nourished together without harming one another; the ways run side by side without conflict' (道并行而不相悖).",
+        "zh": "《礼记·中庸》：“万物并育而不相害，道并行而不相悖。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "相辅相成"
+    ],
+    "antonyms": [
+      "背道而驰",
+      "水火不容"
+    ]
+  },
+  {
+    "id": "ben-zou-xiang-gao",
+    "text": "奔走相告",
+    "pinyin": "bēn zǒu xiāng gào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "run · walk · each-other · tell",
+    "natural": "spread the word",
+    "meaning": {
+      "en": "To rush about telling one another the news.",
+      "zh": "奔跑着互相转告，形容消息传得快、人们很关心。"
+    },
+    "equivalents": [
+      "spread the word",
+      "the news spreads like wildfire"
+    ],
+    "examples": [
+      {
+        "zh": "听说要修地铁，居民们奔走相告。",
+        "en": "When they heard a metro line was coming, residents rushed to tell each other."
+      },
+      {
+        "zh": "胜利的消息传来，人们奔走相告。",
+        "en": "When news of the victory arrived, it spread like wildfire."
+      },
+      {
+        "zh": "村里通了网，大家奔走相告。",
+        "en": "When the village got internet, everyone was telling everyone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "口口相传"
+    ],
+    "antonyms": [
+      "守口如瓶"
+    ]
+  },
+  {
+    "id": "you-wen-bi-da",
+    "text": "有问必答",
+    "pinyin": "yǒu wèn bì dá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods",
+      "positive-character-qualities"
+    ],
+    "literal": "have · question · must · answer",
+    "natural": "answer every question",
+    "meaning": {
+      "en": "To answer every question that is asked.",
+      "zh": "只要有人问，就一定回答。"
+    },
+    "equivalents": [
+      "answer every question",
+      "always ready to help",
+      "patient with questions"
+    ],
+    "examples": [
+      {
+        "zh": "王老师对学生有问必答。",
+        "en": "Mr Wang answers every question his students ask."
+      },
+      {
+        "zh": "客服人员有问必答，态度很好。",
+        "en": "The customer service staff answer every query, and they're very friendly."
+      },
+      {
+        "zh": "发布会上，他有问必答，毫不回避。",
+        "en": "At the press conference he answered every question without dodging any."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "对答如流"
+    ],
+    "antonyms": [
+      "无可奉告",
+      "守口如瓶"
+    ]
+  },
+  {
+    "id": "kuang-hong-lan-zha",
+    "text": "狂轰滥炸",
+    "pinyin": "kuáng hōng làn zhà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "defeat-and-military-failure"
+    ],
+    "literal": "wild · bomb · indiscriminate · blast",
+    "natural": "carpet-bombing",
+    "meaning": {
+      "en": "Intensive, indiscriminate bombing; figuratively, a relentless barrage.",
+      "zh": "猛烈而无节制地轰炸，也比喻连续不断的攻击或宣传。"
+    },
+    "equivalents": [
+      "carpet-bombing",
+      "a relentless barrage",
+      "bombard"
+    ],
+    "examples": [
+      {
+        "zh": "这座城市遭到敌机的狂轰滥炸。",
+        "en": "The city was carpet-bombed by enemy aircraft."
+      },
+      {
+        "zh": "我们每天都被广告狂轰滥炸。",
+        "en": "We're bombarded with adverts every day."
+      },
+      {
+        "zh": "下半场对方狂轰滥炸，我们只能死守。",
+        "en": "In the second half they threw everything at us and we just had to hang on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or object.",
+      "zh": "多作谓语、宾语。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "wu-ke-feng-gao",
+    "text": "无可奉告",
+    "pinyin": "wú kě fèng gào",
+    "kind": "phrase",
+    "frequency": 2,
+    "modern": "modern",
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "poor-speech-and-silence",
+      "news-and-officialese"
+    ],
+    "literal": "nothing · can · respectfully · tell",
+    "natural": "no comment",
+    "meaning": {
+      "en": "'No comment': there is nothing to tell you.",
+      "zh": "没有什么可以告诉的，常用作拒绝回答的外交辞令。"
+    },
+    "equivalents": [
+      "no comment",
+      "I have nothing to say"
+    ],
+    "examples": [
+      {
+        "zh": "记者追问细节，发言人只说：“无可奉告。”",
+        "en": "When pressed for details, the spokesman simply said, 'No comment.'"
+      },
+      {
+        "zh": "对于这件事，公司表示无可奉告。",
+        "en": "The company declined to comment on the matter."
+      },
+      {
+        "zh": "你问我他的工资？无可奉告。",
+        "en": "You want to know his salary? No comment."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; a stock reply.",
+      "zh": "多作谓语，是常用的推辞语。"
+    },
+    "synonyms": [
+      "讳莫如深",
+      "守口如瓶"
+    ],
+    "antonyms": [
+      "有问必答"
+    ]
+  },
+  {
+    "id": "bu-ke-dong-yao",
+    "text": "不可动摇",
+    "pinyin": "bù kě dòng yáo",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "resistance-to-change",
+      "news-and-officialese"
+    ],
+    "literal": "not · can · move · shake",
+    "natural": "unshakeable",
+    "meaning": {
+      "en": "Firm and impossible to shake.",
+      "zh": "不能改变或撼动。"
+    },
+    "equivalents": [
+      "unshakeable",
+      "rock-solid",
+      "unwavering"
+    ],
+    "examples": [
+      {
+        "zh": "他对理想的信念不可动摇。",
+        "en": "His belief in his ideals is unshakeable."
+      },
+      {
+        "zh": "这家公司在行业中的地位不可动摇。",
+        "en": "The company's position in the industry is rock-solid."
+      },
+      {
+        "zh": "这是我们不可动摇的原则。",
+        "en": "This is a principle we will never compromise on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive.",
+      "zh": "多作谓语、定语。"
+    },
+    "synonyms": [
+      "坚定不移",
+      "坚如磐石"
+    ],
+    "antonyms": [
+      "动摇不定",
+      "摇摆不定"
+    ]
+  },
+  {
+    "id": "ruan-ying-jian-shi",
+    "text": "软硬兼施",
+    "pinyin": "ruǎn yìng jiān shī",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "military-strategy-and-victory"
+    ],
+    "literal": "soft · hard · both · apply",
+    "natural": "carrot and stick",
+    "meaning": {
+      "en": "To use both soft and hard tactics: persuasion and pressure together.",
+      "zh": "软的硬的手段都用上。"
+    },
+    "equivalents": [
+      "carrot and stick",
+      "by fair means or foul"
+    ],
+    "examples": [
+      {
+        "zh": "为了让他签字，对方软硬兼施。",
+        "en": "They tried everything, carrot and stick, to get him to sign."
+      },
+      {
+        "zh": "家长软硬兼施，孩子终于答应去补习了。",
+        "en": "After a mix of coaxing and threats, the child agreed to go to tutoring."
+      },
+      {
+        "zh": "老板软硬兼施，想让员工加班。",
+        "en": "The boss used both bribes and threats to make staff work overtime."
+      }
+    ],
+    "usage": {
+      "en": "Predicate.",
+      "zh": "多作谓语。"
+    },
+    "synonyms": [
+      "恩威并施",
+      "先礼后兵"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "men-men-bu-le",
+    "text": "闷闷不乐",
+    "pinyin": "mèn mèn bù lè",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "complex-emotional-states"
+    ],
+    "literal": "glum · glum · not · happy",
+    "natural": "down in the dumps",
+    "meaning": {
+      "en": "Depressed and unhappy because something is weighing on one's mind.",
+      "zh": "心里有事，不痛快。"
+    },
+    "equivalents": [
+      "down in the dumps",
+      "glum",
+      "moping"
+    ],
+    "examples": [
+      {
+        "zh": "考试没考好，他一整天闷闷不乐。",
+        "en": "He moped all day after doing badly in the exam."
+      },
+      {
+        "zh": "她最近闷闷不乐，不知道出了什么事。",
+        "en": "She's been down lately; I wonder what's wrong."
+      },
+      {
+        "zh": "别闷闷不乐的了，出去走走吧。",
+        "en": "Stop moping and go out for a walk."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial.",
+      "zh": "多作谓语、状语。"
+    },
+    "synonyms": [
+      "郁郁寡欢",
+      "愁眉苦脸"
+    ],
+    "antonyms": [
+      "兴高采烈",
+      "喜气洋洋",
+      "心花怒放"
+    ]
+  }
+]

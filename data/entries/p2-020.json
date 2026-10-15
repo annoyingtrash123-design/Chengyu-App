@@ -405,6 +405,9 @@
     "id": "kou-kou-xiang-chuan",
     "text": "口口相传",
     "pinyin": "kǒu kǒu xiāng chuán",
+    "variants": [
+      "口耳相传"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -438,8 +441,7 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "代代相传",
-      "口耳相传"
+      "代代相传"
     ],
     "antonyms": [
       "失传"
