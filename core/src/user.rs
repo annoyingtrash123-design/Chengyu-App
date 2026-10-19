@@ -73,7 +73,12 @@ pub struct UserData {
     pub accuracy: BTreeMap<String, Accuracy>,
     pub settings: Settings,
     pub best_streak: u32,
+    /// Recently opened entries, newest first.
+    pub viewed: Vec<String>,
 }
+
+/// How many recently viewed entries to remember.
+pub const VIEWED_CAP: usize = 100;
 
 impl Default for UserData {
     fn default() -> Self {
@@ -85,6 +90,7 @@ impl Default for UserData {
             accuracy: BTreeMap::new(),
             settings: Settings::default(),
             best_streak: 0,
+            viewed: Vec::new(),
         }
     }
 }
@@ -165,6 +171,20 @@ impl UserData {
 
     fn update_best_streak(&mut self, today: i64) {
         self.best_streak = self.best_streak.max(self.streak(today));
+    }
+
+    /// Put `id` at the front of the recently viewed list.
+    pub fn view(&mut self, id: &str) {
+        self.viewed.retain(|v| v != id);
+        self.viewed.insert(0, id.to_string());
+        self.viewed.truncate(VIEWED_CAP);
+    }
+
+    /// Entries that have been studied, most recently reviewed first.
+    pub fn studied(&self) -> Vec<&str> {
+        let mut ids: Vec<(&String, &Card)> = self.cards.iter().collect();
+        ids.sort_by(|a, b| b.1.last_review.cmp(&a.1.last_review).then(a.0.cmp(b.0)));
+        ids.into_iter().map(|(id, _)| id.as_str()).collect()
     }
 
     pub fn toggle_favourite(&mut self, id: &str) -> bool {

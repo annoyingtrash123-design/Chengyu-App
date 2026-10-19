@@ -205,6 +205,40 @@ impl Dictionary {
         self.by_text.get(text).map(|&i| &self.entries[i])
     }
 
+    /// Split `text` into plain runs and runs that are (forms of) dictionary
+    /// entries, longest match first. Entries in `exclude` are left as plain text.
+    pub fn link_text(&self, text: &str, exclude: &[String]) -> Vec<(String, Option<&Entry>)> {
+        const MIN: usize = 3;
+        const MAX: usize = 12;
+        let chars: Vec<char> = text.chars().collect();
+        let mut out: Vec<(String, Option<&Entry>)> = Vec::new();
+        let mut plain = String::new();
+        let mut i = 0;
+        while i < chars.len() {
+            let found = (MIN..=MAX.min(chars.len() - i)).rev().find_map(|n| {
+                let cand: String = chars[i..i + n].iter().collect();
+                self.by_text(&cand).filter(|e| !exclude.contains(&e.id)).map(|e| (n, cand, e))
+            });
+            match found {
+                Some((n, cand, e)) => {
+                    if !plain.is_empty() {
+                        out.push((std::mem::take(&mut plain), None));
+                    }
+                    out.push((cand, Some(e)));
+                    i += n;
+                }
+                None => {
+                    plain.push(chars[i]);
+                    i += 1;
+                }
+            }
+        }
+        if !plain.is_empty() {
+            out.push((plain, None));
+        }
+        out
+    }
+
     /// Is the entry tagged with `theme`, either directly or through one of
     /// that broad theme's detailed themes?
     pub fn has_theme(&self, e: &Entry, theme: &str) -> bool {

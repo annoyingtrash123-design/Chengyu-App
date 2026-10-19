@@ -1,5 +1,6 @@
 import { api, isTauri } from "../api";
-import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
+import { h, clear, en, label, pageHeader, saveSettings, state, toast, STATUS_LABEL } from "../ui";
+import type { Summary } from "../types";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
@@ -7,6 +8,7 @@ import { checkForUpdate, onUpdateState, updateState, type UpdateStatus } from ".
 
 export async function renderMe(root: HTMLElement) {
   const stats = await api.stats();
+  const hist = await api.history(200);
   const weak = stats.weak_spots.length ? await api.summaries(stats.weak_spots.map((w) => w.id)) : [];
   const max = Math.max(1, ...stats.last_30_days);
   const s = state.settings;
@@ -70,6 +72,12 @@ export async function renderMe(root: HTMLElement) {
         ),
       ),
       h("div", { class: "row-between muted small" }, h("span", null, en() ? "30 days ago" : "30 天前"), h("span", null, en() ? "today" : "今天")),
+    ),
+    historySection(en() ? "Recently viewed 最近查看" : "最近查看", hist.viewed, en() ? "Entries you open show up here." : "打开过的词条会显示在这里。"),
+    historySection(
+      `${en() ? "Studied 学过的" : "学过的"} (${hist.studied_total})`,
+      hist.studied,
+      en() ? "Entries you study in 学 show up here." : "在“学”里学习过的词条会显示在这里。",
     ),
     weak.length
       ? h(
@@ -160,4 +168,23 @@ function updatesSection() {
       ),
     ),
   );
+}
+
+/** Chips for a list of entries, a couple of rows at first with a button for the rest. */
+function historySection(title: string, items: Summary[], emptyText: string) {
+  const SHOW = 24;
+  const group = h("div", { class: "chip-group" });
+  const more = h("button", { class: "btn small" }, en() ? "Show all 显示全部" : "显示全部");
+  const draw = (all: boolean) => {
+    clear(
+      group,
+      (all ? items : items.slice(0, SHOW)).map((w) =>
+        h("a", { class: `chip link ${w.status !== "new" ? `status-${w.status}` : ""}`, href: `#/entry/${w.id}`, title: label(STATUS_LABEL[w.status]) }, w.text),
+      ),
+    );
+    more.hidden = all || items.length <= SHOW;
+  };
+  more.addEventListener("click", () => draw(true));
+  draw(false);
+  return h("section", { class: "card" }, h("h3", null, title), items.length ? [group, more] : h("p", { class: "muted small" }, emptyText));
 }

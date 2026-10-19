@@ -10,6 +10,24 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.12",
+    date: "2026-10-19",
+    en: [
+      "New game: Crossword. Fill the blanks in a grid of crossing chengyu, with their meanings as clues.",
+      "Tap any other expression in an example sentence, or any quiz option or matched card after answering, to see its meaning and open its entry.",
+      "The app remembers what you've studied. List rows show 学习中, 已掌握 or 看过 (opened), and Me has Recently viewed and Studied lists.",
+      "List rows preview the entry's labels. The bottom tab names are always red.",
+      "Over 5,100 entries, covering nearly all of the THUOCL top 5,000 chengyu.",
+    ],
+    zh: [
+      "新游戏“填字游戏”：成语交叉成格，按释义填空。",
+      "例句里的其他词语，以及答题后的选项和已配对的卡片，点一下就能看释义并打开词条。",
+      "应用会记住你学过的内容：列表显示“学习中”“已掌握”“看过”，“我的”页新增“最近查看”和“学过的”。",
+      "列表中直接预览词条标签；底部标签栏文字一直显示为红色。",
+      "词条超过五千一百条，几乎涵盖 THUOCL 前五千条成语。",
+    ],
+  },
+  {
     version: "0.11",
     date: "2026-10-14",
     en: [

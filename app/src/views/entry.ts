@@ -15,6 +15,7 @@ import {
   STATUS_LABEL,
   MODERN_LABEL,
   themeLabel,
+  linked,
 } from "../ui";
 import { showTheme } from "./list";
 
@@ -23,6 +24,7 @@ const revealedPunchlines = new Set<string>();
 
 export async function renderEntry(root: HTMLElement, [id]: string[]) {
   const d = await api.entry(id);
+  api.view(id).catch(() => {});
   draw(root, d);
 }
 
@@ -135,7 +137,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       "section",
       { class: "card" },
       h("h3", null, en() ? "例句 Examples" : "例句"),
-      e.examples.map((x) => h("div", { class: "example" }, h("p", { class: "zh" }, highlight(x.zh, e.parts ? [e.parts[0]] : [e.text, ...(e.variants ?? [])])), showEn ? h("p", { class: "en" }, x.en) : null)),
+      e.examples.map((x) => h("div", { class: "example" }, h("p", { class: "zh" }, highlight(x.zh, e.parts ? [e.parts[0]] : [e.text, ...(e.variants ?? [])], e.id)), showEn ? h("p", { class: "en" }, x.en) : null)),
     ),
     e.origin
       ? h(
@@ -161,14 +163,17 @@ function draw(root: HTMLElement, d: EntryDetail) {
   );
 }
 
-/** Wrap occurrences of the expression (or one of its variants) in a highlight span. */
-function highlight(sentence: string, phrases: string[]) {
+/**
+ * Wrap occurrences of the expression (or one of its variants) in a highlight span;
+ * other expressions in the sentence become tappable.
+ */
+function highlight(sentence: string, phrases: string[], self: string) {
   const phrase = phrases.find((p) => sentence.includes(p));
-  if (!phrase) return sentence;
+  if (!phrase) return linked(sentence, [self]);
   const out: (string | Node)[] = [];
   sentence.split(phrase).forEach((p, i) => {
     if (i) out.push(h("mark", null, phrase));
-    out.push(p);
+    if (p) out.push(linked(p, [self]));
   });
   return h("span", null, out);
 }

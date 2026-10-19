@@ -150,9 +150,15 @@ export function entryRow(s: Summary) {
       badge(KIND_LABEL[s.kind].zh, `kind-${s.kind}`),
       badge(SENTIMENT_LABEL[s.sentiment].zh, `sent-${s.sentiment}`),
       s.modern ? badge(MODERN_LABEL[s.modern].zh, "modern") : null,
-      s.status !== "new" ? badge(STATUS_LABEL[s.status].zh, `status-${s.status}`) : null,
+      s.status !== "new" ? badge(STATUS_LABEL[s.status].zh, `status-${s.status}`) : s.seen ? badge("看过", "seen") : null,
+      // Labels fill the rest of the line; the row is clipped to one line so extra ones drop out of view.
+      ...(s.themes ?? []).map((t) => badge(themeZh(t), "tag")),
     ),
   );
+}
+
+function themeZh(id: string): string {
+  return state.meta?.themes.find((t) => t.id === id)?.zh ?? id;
 }
 
 export function pageHeader(title: string, opts: { back?: boolean; right?: Child } = {}) {
@@ -183,4 +189,59 @@ export function toast(msg: string, ms = 2200) {
 
 export function loading() {
   return h("div", { class: "loading" }, "加载中…");
+}
+
+// ---------- Tap-to-peek links ----------
+
+/** Bottom sheet with a quick look at an entry and a link to open it. */
+export function peek(s: Summary) {
+  const overlay = h("div", { class: "sheet-overlay", onclick: (ev: Event) => ev.target === overlay && overlay.remove() });
+  overlay.appendChild(
+    h(
+      "div",
+      { class: "sheet peek", role: "dialog" },
+      h("div", { class: "sheet-handle" }),
+      h("div", { class: "peek-head" }, h("span", { class: "hanzi" }, s.text), h("span", { class: `freq freq-${s.frequency}` }, FREQUENCY_LABEL[s.frequency]?.stars)),
+      h("div", { class: "pinyin" }, s.pinyin),
+      h("p", null, s.meaning.zh),
+      en() ? h("p", { class: "muted" }, s.meaning.en) : null,
+      h(
+        "div",
+        { class: "badges" },
+        badge(KIND_LABEL[s.kind].zh, `kind-${s.kind}`),
+        s.status !== "new" ? badge(STATUS_LABEL[s.status].zh, `status-${s.status}`) : null,
+      ),
+      h("a", { class: "btn primary block", href: `#/entry/${s.id}`, onclick: () => overlay.remove() }, en() ? "Open entry 查看词条 ›" : "查看词条 ›"),
+    ),
+  );
+  document.body.appendChild(overlay);
+}
+
+/**
+ * Text in which every dictionary expression (other than those in `exclude`)
+ * becomes tappable. Shows the plain text first and fills in links once the
+ * core has scanned it.
+ */
+export function linked(text: string, exclude: string[] = []): HTMLElement {
+  const span = h("span", null, text);
+  api.linkText(text, exclude).then((parts) => {
+    if (!parts.some((p) => p.summary)) return;
+    clear(
+      span,
+      parts.map((p) =>
+        p.summary
+          ? h("button", { class: "xlink", onclick: (ev: Event) => { ev.preventDefault(); ev.stopPropagation(); peek(p.summary!); } }, p.text)
+          : p.text,
+      ),
+    );
+  }).catch(() => {});
+  return span;
+}
+
+/** Peek at the entry `text` is a form of, if any. Resolves to whether one was found. */
+export async function peekText(text: string): Promise<boolean> {
+  const parts = await api.linkText(text.trim());
+  const hit = parts.length === 1 ? parts[0].summary : undefined;
+  if (hit) peek(hit);
+  return !!hit;
 }

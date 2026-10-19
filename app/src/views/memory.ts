@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck } from "../types";
-import { h, clear, en, pageHeader } from "../ui";
+import { h, clear, en, pageHeader, peekText } from "../ui";
 import { deckPicker } from "./study";
 
 let deck: Deck = { type: "all" };
@@ -34,6 +34,8 @@ export async function renderMemory(root: HTMLElement) {
   );
 
   function flip(i: number) {
+    // Matched expressions: tap to see what they mean.
+    if (matched.has(i) && cards[i].is_idiom) return void peekText(cards[i].face);
     if (busy || matched.has(i) || open.includes(i)) return;
     buttons[i].classList.add("up");
     buttons[i].removeAttribute("aria-label");
@@ -69,6 +71,7 @@ export async function renderMemory(root: HTMLElement) {
         "section",
         { class: "card center" },
         h("p", { class: "good" }, en() ? `🎉 All matched in ${moves} moves!` : `🎉 全部配对，用了 ${moves} 步！`),
+        h("p", { class: "muted small" }, en() ? "Tap a matched expression to see its meaning." : "点已配对的词语可查看释义。"),
         h("button", { class: "btn primary", onclick: () => renderMemory(root) }, en() ? "Play again" : "再来一局"),
       ),
     );

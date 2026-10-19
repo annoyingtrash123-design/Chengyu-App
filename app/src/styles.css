@@ -74,6 +74,8 @@ button { cursor: pointer; }
 .tab { display: flex; flex-direction: column; align-items: center; gap: 2px; color: var(--muted); font-size: 11px; min-width: 56px; padding: 2px 0; }
 .tab-icon { font-family: var(--hanzi); font-size: 20px; line-height: 1.2; width: 34px; height: 30px; display: grid; place-items: center; border-radius: 10px; }
 .tab.active { color: var(--accent); }
+.tab .tab-label { color: var(--accent); }
+.tab:not(.active) .tab-label { opacity: .85; }
 .tab.active .tab-icon { background: var(--accent-soft); }
 
 /* ---------- Headers ---------- */
@@ -133,6 +135,8 @@ button { cursor: pointer; }
 .kind-guanyongyu { background: #f6ecd6; color: #8a6420; }
 .kind-phrase { background: #e6efe9; color: #3e6b55; }
 .kind-mingju { background: #f3e6d8; color: #7a4a1e; }
+.entry-row .badges { max-height: 21px; overflow: hidden; }
+.badge.tag { background: transparent; border: 1px solid var(--line); padding: 1px 7px; }
 .badge.modern { background: #e4ecf7; color: #2d4f86; }
 @media (prefers-color-scheme: dark) {
   .kind-suyu { background: #1e2c3d; color: #8fb8e6; }
@@ -142,6 +146,7 @@ button { cursor: pointer; }
 }
 .sent-positive { color: var(--good); }
 .sent-negative { color: var(--bad); }
+.badge.seen { background: var(--blue-soft); color: var(--blue); }
 .status-mastered { background: var(--good-soft); color: var(--good); }
 .status-learning { background: #fff1c7; color: #8a6400; }
 @media (prefers-color-scheme: dark) { .status-learning { background: #3a3215; color: #f0cf6a; } }
@@ -371,3 +376,26 @@ h1.hanzi-xl { margin: 0; }
 
 /* Page headings in the brand red */
 .page-header h1, .hero-title { color: var(--accent); }
+
+/* ---------- Tap-to-peek links ---------- */
+.xlink { all: unset; cursor: pointer; color: inherit; border-bottom: 1px dashed var(--accent); }
+.xlink:active { background: var(--accent-soft); }
+.peek-head { display: flex; align-items: baseline; gap: 10px; }
+.peek-head .hanzi { font-family: var(--hanzi); font-size: 28px; }
+.peek .btn { margin-top: 14px; text-align: center; }
+
+/* ---------- Crossword ---------- */
+.xw-grid { display: grid; gap: 3px; margin: 8px auto 14px; width: 100%; }
+.xw-cell { position: relative; aspect-ratio: 1; border-radius: 6px; display: grid; place-items: center; font-family: var(--hanzi); font-size: clamp(16px, 5vw, 24px); font-weight: 700; padding: 0; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.xw-cell.void { border: none; background: transparent; }
+.xw-cell.given { background: var(--surface-2); }
+.xw-cell.blank { border: 2px dashed var(--line); }
+.xw-cell.active { border-color: var(--accent); border-style: solid; }
+.xw-cell.sel { background: var(--accent-soft); box-shadow: inset 0 0 0 2px var(--accent); }
+.xw-cell.wrong { color: var(--bad); background: var(--bad-soft); }
+.xw-cell.solved { color: var(--good); border-color: var(--good); border-style: solid; }
+.xw-num { position: absolute; top: 1px; left: 3px; font-family: var(--sans); font-size: 9px; font-weight: 600; color: var(--muted); }
+.xw-tiles .tile { width: 46px; height: 46px; font-size: 24px; }
+.xw-clues h3 { margin: 6px 0; font-size: 13px; color: var(--muted); }
+.xw-clue { all: unset; display: block; cursor: pointer; padding: 6px 8px; border-radius: 8px; font-size: 14px; line-height: 1.4; }
+.xw-clue.on { background: var(--accent-soft); }

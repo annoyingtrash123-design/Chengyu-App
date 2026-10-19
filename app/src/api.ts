@@ -16,6 +16,9 @@ import type {
   Stats,
   Summary,
   Card,
+  Crossword,
+  History,
+  LinkPart,
 } from "./types";
 
 const inTauri = typeof window !== "undefined" && "__TAURI_INTERNALS__" in window;
@@ -136,6 +139,10 @@ export const api = {
   scramble: (deck: Deck, decoys: number) => call<Scramble | null>("scramble", { deck, decoys, seed: randomSeed() }),
   matchCards: (deck: Deck, mode: "meaning" | "synonym" | "antonym", pairs: number, english: boolean) =>
     call<MatchCard[]>("match_cards", { deck, mode, pairs, english, seed: randomSeed() }),
+  crossword: (deck: Deck, words = 6) => call<Crossword | null>("crossword", { deck, words, seed: randomSeed() }),
+  linkText: (text: string, exclude: string[] = []) => call<LinkPart[]>("link_text", { text, exclude }),
+  view: (id: string) => call<null>("view", { id }),
+  history: (limit = 50) => call<History>("history", { limit }),
   stats: () => call<Stats>("stats", { today: today() }),
   settings: () => call<Settings>("settings"),
   setSettings: (settings: Settings) => call<Settings>("set_settings", { settings }),

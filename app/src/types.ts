@@ -25,6 +25,7 @@ export interface Summary {
   structure: string | null;
   status: Status;
   favourite: boolean;
+  seen: boolean;
   modern?: "modern" | "borrowed";
   matched?: string;
 }
@@ -174,6 +175,35 @@ export interface MatchCard {
   face: string;
   is_idiom: boolean;
   entry_id: string;
+}
+
+export interface LinkPart {
+  text: string;
+  id?: string;
+  summary?: Summary;
+}
+
+export interface History {
+  viewed: Summary[];
+  studied: Summary[];
+  studied_total: number;
+}
+
+export interface CrosswordWord {
+  entry_id: string;
+  number: number;
+  row: number;
+  col: number;
+  across: boolean;
+  length: number;
+}
+
+export interface Crossword {
+  width: number;
+  height: number;
+  cells: { row: number; col: number; ch: string; given: boolean }[];
+  words: CrosswordWord[];
+  tiles: string[];
 }
 
 export interface Scramble {

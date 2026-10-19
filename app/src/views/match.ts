@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, MatchCard } from "../types";
-import { h, clear, en, pageHeader } from "../ui";
+import { h, clear, en, pageHeader, peekText } from "../ui";
 import { deckPicker } from "./study";
 
 let deck: Deck = { type: "all" };
@@ -27,7 +27,8 @@ export async function renderMatch(root: HTMLElement, [mode]: string[]) {
   const mk = (c: MatchCard) => {
     const b = h("button", { class: "match-btn" }, c.face);
     b.addEventListener("click", () => {
-      if (b.classList.contains("done")) return;
+      // Matched cards: tap to see what the expression means.
+      if (b.classList.contains("done")) return void peekText(c.face);
       if (!selected || selected.is_idiom === c.is_idiom) {
         selectedBtn?.classList.remove("sel");
         selected = c;
@@ -43,7 +44,7 @@ export async function renderMatch(root: HTMLElement, [mode]: string[]) {
         done++;
         if (done === left.length) {
           api.gamePlayed();
-          clear(status, en() ? `🎉 Done! ${mistakes} mistake${mistakes === 1 ? "" : "s"}.` : `🎉 完成！错了 ${mistakes} 次。`, " ", h("button", { class: "btn primary", onclick: () => renderMatch(root, [mode]) }, en() ? "Again" : "再来"));
+          clear(status, en() ? `🎉 Done! ${mistakes} mistake${mistakes === 1 ? "" : "s"}.` : `🎉 完成！错了 ${mistakes} 次。`, " ", h("div", null, en() ? "Tap any matched card to see its meaning." : "点已配对的卡片可查看释义。"), h("button", { class: "btn primary", onclick: () => renderMatch(root, [mode]) }, en() ? "Again" : "再来"));
         }
       } else {
         mistakes++;

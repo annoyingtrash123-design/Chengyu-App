@@ -42,6 +42,8 @@ pub struct Summary<'a> {
     pub structure: Option<String>,
     pub status: Status,
     pub favourite: bool,
+    /// Opened recently (in the viewed history).
+    pub seen: bool,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub modern: Option<Modern>,
 }
@@ -108,6 +110,7 @@ impl App {
             structure: e.structure(),
             status: self.user.status(&e.id),
             favourite: self.user.favourites.contains(&e.id),
+            seen: self.user.viewed.contains(&e.id),
             modern: e.modern,
         }
     }
@@ -338,6 +341,45 @@ impl App {
                 let pool = self.deck_ids(&deck);
                 json!(games::match_cards(&self.dict, &pool, pairs, mode, english, seed))
             }
+            "crossword" => {
+                let deck: Deck = opt(args, "deck")?;
+                let words: usize = match opt::<usize>(args, "words")? { 0 => 6, n => n };
+                let seed: u64 = opt(args, "seed")?;
+                let pool = self.deck_ids(&deck);
+                json!(games::crossword(&self.dict, &pool, words, seed))
+            }
+            "link_text" => {
+                let text: String = arg(args, "text")?;
+                let exclude: Vec<String> = opt(args, "exclude")?;
+                let parts: Vec<Value> = self
+                    .dict
+                    .link_text(&text, &exclude)
+                    .into_iter()
+                    .map(|(t, e)| match e {
+                        Some(e) => json!({ "text": t, "id": e.id, "summary": self.summary(e) }),
+                        None => json!({ "text": t }),
+                    })
+                    .collect();
+                json!(parts)
+            }
+            "view" => {
+                let id: String = arg(args, "id")?;
+                self.entry_or_err(&id)?;
+                dirty = true;
+                self.user.view(&id);
+                Value::Null
+            }
+            "history" => {
+                let limit: usize = match opt::<usize>(args, "limit")? { 0 => 50, n => n };
+                let summaries = |ids: Vec<&str>| -> Vec<Value> {
+                    ids.into_iter().filter_map(|id| self.dict.get(id)).take(limit).map(|e| json!(self.summary(e))).collect()
+                };
+                json!({
+                    "viewed": summaries(self.user.viewed.iter().map(String::as_str).collect()),
+                    "studied": summaries(self.user.studied()),
+                    "studied_total": self.user.cards.len(),
+                })
+            }
             "stats" => {
                 let ids: Vec<&str> = self.dict.entries().iter().map(|e| e.id.as_str()).collect();
                 json!(self.user.stats(&ids, today()?))
@@ -361,6 +403,7 @@ impl App {
                 data.cards.retain(|id, _| known(id));
                 data.favourites.retain(known);
                 data.accuracy.retain(|id, _| known(id));
+                data.viewed.retain(known);
                 let dropped = before - data.cards.len() - data.favourites.len();
                 let summary = json!({
                     "cards": data.cards.len(),
@@ -543,6 +586,27 @@ mod tests {
         let r = call(&mut app, "import", json!({"data": {"favourites": [id, "zzz-nonexistent"]}}));
         assert_eq!(r["favourites"], 1);
         assert_eq!(r["dropped"], 1);
+    }
+
+    #[test]
+    fn history_and_links() {
+        let mut app = App::new(None);
+        let a = app.dict.by_text("画蛇添足").unwrap().id.clone();
+        let b = app.dict.by_text("马到成功").unwrap().id.clone();
+        call(&mut app, "view", json!({"id": a}));
+        call(&mut app, "view", json!({"id": b}));
+        call(&mut app, "view", json!({"id": a}));
+        let h = call(&mut app, "history", json!({}));
+        let viewed: Vec<&str> = h["viewed"].as_array().unwrap().iter().map(|s| s["id"].as_str().unwrap()).collect();
+        assert_eq!(viewed, [a.as_str(), b.as_str()]);
+        assert_eq!(h["studied_total"], 0);
+
+        let parts = call(&mut app, "link_text", json!({"text": "他这样做真是画蛇添足。", "exclude": [b]}));
+        let parts = parts.as_array().unwrap();
+        assert_eq!(parts.len(), 3, "{parts:?}");
+        assert_eq!(parts[1]["id"], json!(a));
+        let excluded = call(&mut app, "link_text", json!({"text": "画蛇添足", "exclude": [a]}));
+        assert!(excluded[0]["id"].is_null());
     }
 
     #[test]

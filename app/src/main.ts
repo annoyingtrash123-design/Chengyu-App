@@ -9,6 +9,7 @@ import { renderGames } from "./views/games";
 import { renderQuiz } from "./views/quiz";
 import { renderChain } from "./views/chain";
 import { renderScramble } from "./views/scramble";
+import { renderCrossword } from "./views/crossword";
 import { renderMemory } from "./views/memory";
 import { renderMatch } from "./views/match";
 import { renderMe } from "./views/me";
@@ -31,6 +32,7 @@ const routes: [RegExp, View, string][] = [
   [/^\/games\/(quiz|timed)$/, renderQuiz, "games"],
   [/^\/games\/chain$/, renderChain, "games"],
   [/^\/games\/scramble$/, renderScramble, "games"],
+  [/^\/games\/crossword$/, renderCrossword, "games"],
   [/^\/games\/memory$/, renderMemory, "games"],
   [/^\/games\/match\/(synonym|antonym)$/, renderMatch, "games"],
   [/^\/me$/, renderMe, "me"],

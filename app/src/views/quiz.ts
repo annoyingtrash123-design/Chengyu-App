@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, Question, QuestionKind } from "../types";
-import { h, clear, en, pageHeader, toast } from "../ui";
+import { h, clear, en, pageHeader, toast, peekText } from "../ui";
 import { deckPicker } from "./study";
 
 const KINDS: { kind: QuestionKind; zh: string; en: string }[] = [
@@ -127,13 +127,18 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
     if (!q) return finish();
     let answered = false;
     const feedback = h("div", { class: "feedback" });
+    const hanziOptions = ["meaning_to_idiom", "sentence_cloze", "synonym", "antonym"].includes(q.kind);
     const buttons = q.options.map((opt, idx) =>
       h(
         "button",
         {
           class: `option ${q.kind === "idiom_to_meaning" ? "option-text" : "option-hanzi"}`,
           onclick: async () => {
-            if (answered) return;
+            if (answered) {
+              // After answering, tap any option to see what it means.
+              if (hanziOptions) peekText(opt);
+              return;
+            }
             answered = true;
             const ok = idx === q.answer;
             if (ok) score++;
@@ -144,7 +149,7 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
               buttons[idx].classList.add("wrong");
               buttons[idx].prepend("✗ ");
             }
-            buttons.forEach((b) => b.setAttribute("aria-disabled", "true"));
+            if (!hanziOptions) buttons.forEach((b) => b.setAttribute("aria-disabled", "true"));
             api.quizAnswer(q.entry_id, ok);
             i++;
             if (timed) {
@@ -154,6 +159,7 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
                 feedback,
                 h("span", { class: ok ? "good" : "bad" }, ok ? (en() ? "Correct!" : "答对了！") : en() ? "Not quite." : "答错了。"),
                 h("a", { href: `#/entry/${q.entry_id}`, class: "small" }, en() ? " See entry ›" : " 查看词条 ›"),
+                hanziOptions ? h("div", { class: "muted small" }, en() ? "Tap any option to see what it means. 点选项可查看释义" : "点任一选项可查看释义") : null,
                 h("button", { class: "btn primary block", onclick: show }, i < questions.length ? (en() ? "Next" : "下一题") : en() ? "Finish" : "完成"),
               );
             }
