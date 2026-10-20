@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "qian-ke-tong-shen",
+    "text": "钱可通神",
+    "pinyin": "qián kě tōng shén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "luxury-and-extravagance",
+      "exam-favourites"
+    ],
+    "literal": "money · can · reach · gods",
+    "natural": "money talks",
+    "meaning": {
+      "en": "Money is so powerful that it can get anything done, even things that seem impossible.",
+      "zh": "形容金钱的力量极大，什么事都能办成。"
+    },
+    "equivalents": [
+      "money talks",
+      "money can buy anything"
+    ],
+    "examples": [
+      {
+        "zh": "有人迷信钱可通神，结果栽在了行贿案上。",
+        "en": "Some people believe money can buy anything, and he ended up caught in a bribery case."
+      },
+      {
+        "zh": "钱可通神的想法，在这里行不通。",
+        "en": "The idea that money can open any door won't work here."
+      }
+    ],
+    "usage": {
+      "en": "Usually critical, describing a cynical worldview or corrupt practice. Often follows 相信/迷信.",
+      "zh": "多含贬义，批评金钱万能的观念或贿赂风气。常与“相信”“迷信”连用。"
+    },
+    "synonyms": [
+      "有钱能使鬼推磨",
+      "金钱万能"
+    ],
+    "antonyms": [
+      "两袖清风",
+      "清正廉洁"
+    ]
+  },
+  {
+    "id": "qian-zi-an-zhang",
+    "text": "潜滋暗长",
+    "pinyin": "qián zī àn zhǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "change",
+      "natural-consequences",
+      "exam-favourites"
+    ],
+    "literal": "secretly · grow · unseen · grow",
+    "natural": "quietly taking root",
+    "meaning": {
+      "en": "To grow and spread quietly without being noticed.",
+      "zh": "在暗中不知不觉地滋生、增长。"
+    },
+    "equivalents": [
+      "creep in unnoticed",
+      "take root quietly"
+    ],
+    "examples": [
+      {
+        "zh": "不良风气在校园里潜滋暗长，必须及早纠正。",
+        "en": "A bad atmosphere was taking root on campus unnoticed and had to be corrected early."
+      },
+      {
+        "zh": "他心里的怨气一直在潜滋暗长。",
+        "en": "The resentment in his heart had been quietly growing."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used of undesirable things (bad habits, doubts, resentment). Predicate; written style.",
+      "zh": "多用于不好的事物，如不良习气、怨气等。作谓语，书面语。"
+    },
+    "synonyms": [
+      "滋生蔓延",
+      "暗中滋长"
+    ],
+    "antonyms": [
+      "销声匿迹",
+      "彻底根除"
+    ]
+  },
+  {
+    "id": "qian-long-wu-yong",
+    "text": "潜龙勿用",
+    "pinyin": "qián lóng wù yòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "high-aspirations",
+      "exam-favourites"
+    ],
+    "literal": "hidden · dragon · do not · act",
+    "natural": "a dragon lying low; bide your time",
+    "meaning": {
+      "en": "A talented person in a lowly or early position should keep a low profile and wait for the right moment.",
+      "zh": "比喻有才能的人处在低微或时机未到的时候，应隐藏锋芒，不要有所作为。"
+    },
+    "equivalents": [
+      "bide one's time",
+      "lie low until the time is ripe"
+    ],
+    "examples": [
+      {
+        "zh": "潜龙勿用，现在还不是亮出底牌的时候。",
+        "en": "Lie low like the hidden dragon; it is not yet time to show your hand."
+      },
+      {
+        "zh": "他懂得潜龙勿用的道理，默默积累了十年。",
+        "en": "He understood the wisdom of biding his time and quietly built up for ten years."
+      }
+    ],
+    "origin": {
+      "source": "《周易·乾卦》",
+      "story": {
+        "en": "The first line of the Qian hexagram reads 'The hidden dragon: do not act'; the dragon is still in the deep and must wait.",
+        "zh": "《周易·乾卦》初九：“潜龙勿用。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; often followed by 见龙在田 / 飞龙在天 from the same hexagram. Advice to wait, not a criticism.",
+      "zh": "文言色彩较浓，常与同一卦中的“见龙在田”“飞龙在天”相承。是劝人等待时机，没有贬义。"
+    },
+    "synonyms": [
+      "韬光养晦",
+      "养精蓄锐"
+    ],
+    "antonyms": [
+      "急功近利",
+      "锋芒毕露"
+    ]
+  },
+  {
+    "id": "qian-zhen-di-chang",
+    "text": "浅斟低唱",
+    "pinyin": "qiǎn zhēn dī chàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relaxation-and-rest",
+      "luxury-and-extravagance",
+      "exam-favourites"
+    ],
+    "literal": "lightly · sip wine · softly · sing",
+    "natural": "sip wine and hum a tune",
+    "meaning": {
+      "en": "To sip wine slowly while softly listening to or singing songs, a leisurely, somewhat self-indulgent pastime.",
+      "zh": "一边慢慢地喝酒，一边低声听唱或吟唱，形容悠闲的享乐生活。"
+    },
+    "equivalents": [
+      "sip and sing softly",
+      "a leisurely evening of wine and song"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢在雨夜里浅斟低唱，消磨时光。",
+        "en": "He likes to while away rainy nights sipping wine and humming songs."
+      },
+      {
+        "zh": "词人晚年过着浅斟低唱的闲散日子。",
+        "en": "In his old age the poet lived an idle life of wine and song."
+      }
+    ],
+    "usage": {
+      "en": "Literary; often hints at the carefree life of scholars and song-writers, sometimes slightly mocking.",
+      "zh": "文雅，常指文人的闲适生活，有时略带讥讽。"
+    },
+    "synonyms": [
+      "把酒吟诗",
+      "吟风弄月"
+    ],
+    "antonyms": [
+      "废寝忘食",
+      "奋发图强"
+    ]
+  },
+  {
+    "id": "qiang-bin-ya-zhu",
+    "text": "强宾压主",
+    "pinyin": "qiáng bīn yā zhǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "leadership-and-authority",
+      "exam-favourites"
+    ],
+    "literal": "strong · guest · overpower · host",
+    "natural": "guest outshining the host",
+    "meaning": {
+      "en": "A guest who overshadows the host; more generally, a secondary party that takes over the leading role.",
+      "zh": "客人的势头压过主人。比喻外来的或次要的事物压倒了主要的。"
+    },
+    "equivalents": [
+      "the tail wagging the dog",
+      "the guest upstaging the host"
+    ],
+    "examples": [
+      {
+        "zh": "伴舞抢尽风头，难免有强宾压主之嫌。",
+        "en": "The backing dancers stole all the attention, which looks like the guest upstaging the host."
+      },
+      {
+        "zh": "装饰太华丽，反而强宾压主，看不到产品本身了。",
+        "en": "The decoration is so flashy that it overwhelms the product itself."
+      }
+    ],
+    "usage": {
+      "en": "Describes imbalance between primary and secondary. Mildly critical.",
+      "zh": "形容主次颠倒，略含贬义。"
+    },
+    "synonyms": [
+      "喧宾夺主",
+      "主次倒置"
+    ],
+    "antonyms": [
+      "相得益彰",
+      "主次分明"
+    ]
+  },
+  {
+    "id": "qie-guo-da-dao",
+    "text": "窃国大盗",
+    "pinyin": "qiè guó dà dào",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "negative-character-flaws",
+      "exam-favourites"
+    ],
+    "literal": "steal · state · great · thief",
+    "natural": "usurper of the nation",
+    "meaning": {
+      "en": "A person who seizes political power by illegitimate means.",
+      "zh": "指用不正当手段窃取国家政权的人。"
+    },
+    "equivalents": [
+      "usurper",
+      "one who steals the state"
+    ],
+    "examples": [
+      {
+        "zh": "历史课上，老师把袁世凯称为窃国大盗。",
+        "en": "In history class the teacher called Yuan Shikai a usurper."
+      },
+      {
+        "zh": "他野心膨胀，终于成了窃国大盗。",
+        "en": "His ambition swelled until he became a usurper of power."
+      }
+    ],
+    "usage": {
+      "en": "Strongly derogatory; refers to a person, used in political and historical contexts.",
+      "zh": "贬义强烈，指人，多用于政治、历史语境。"
+    },
+    "synonyms": [
+      "乱臣贼子",
+      "篡权夺位者"
+    ],
+    "antonyms": [
+      "开国元勋",
+      "民族英雄"
+    ]
+  },
+  {
+    "id": "qing-nuo-gua-xin",
+    "text": "轻诺寡信",
+    "pinyin": "qīng nuò guǎ xìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior",
+      "exam-favourites",
+      "daoist-classics"
+    ],
+    "literal": "lightly · promise · few · trust",
+    "natural": "promise easily, keep rarely",
+    "meaning": {
+      "en": "One who makes promises lightly seldom keeps them, so such people are not trustworthy.",
+      "zh": "轻易许下诺言的人，很少能守信用。"
+    },
+    "equivalents": [
+      "quick to promise, slow to deliver",
+      "promise lightly and keep seldom"
+    ],
+    "examples": [
+      {
+        "zh": "他总是满口答应，轻诺寡信，没人再相信他了。",
+        "en": "He agrees to everything but never delivers, and no one trusts him any more."
+      },
+      {
+        "zh": "做人不可轻诺寡信。",
+        "en": "One should not make promises lightly and then break them."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第六十三章",
+      "story": {
+        "en": "Laozi: 'One who promises lightly must rarely be trusted' (夫轻诺必寡信).",
+        "zh": "《老子》：“夫轻诺必寡信，多易必多难。”"
+      }
+    },
+    "usage": {
+      "en": "Describes a person; also used as a warning. Predicate or adage.",
+      "zh": "多指人，也用作告诫，可作谓语或格言。"
+    },
+    "synonyms": [
+      "言而无信",
+      "食言而肥"
+    ],
+    "antonyms": [
+      "一诺千金",
+      "言出必行"
+    ]
+  },
+  {
+    "id": "qing-xin-tu-dan",
+    "text": "倾心吐胆",
+    "pinyin": "qīng xīn tǔ dǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "frankness-and-candour",
+      "relationships",
+      "exam-favourites"
+    ],
+    "literal": "pour out · heart · spit out · gall",
+    "natural": "open one's heart completely",
+    "meaning": {
+      "en": "To speak with total sincerity, holding nothing back.",
+      "zh": "把心里话全部说出来，形容十分真诚坦率。"
+    },
+    "equivalents": [
+      "pour out one's heart",
+      "speak from the heart"
+    ],
+    "examples": [
+      {
+        "zh": "两个老朋友深夜倾心吐胆，聊了很多心事。",
+        "en": "The two old friends poured out their hearts late into the night."
+      },
+      {
+        "zh": "她对导师倾心吐胆，说出了自己的困惑。",
+        "en": "She opened her heart to her tutor and told him her doubts."
+      }
+    ],
+    "usage": {
+      "en": "Warm and sincere; used of talking to a trusted person.",
+      "zh": "感情真挚，多指对信任的人说心里话。"
+    },
+    "synonyms": [
+      "推心置腹",
+      "披肝沥胆"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "口是心非"
+    ]
+  },
+  {
+    "id": "qing-tian-hen-hai",
+    "text": "情天恨海",
+    "pinyin": "qíng tiān hèn hǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "sadness-and-despair",
+      "exam-favourites"
+    ],
+    "literal": "love · sky · regret · sea",
+    "natural": "vast sea of love's sorrow",
+    "meaning": {
+      "en": "The boundless sorrows and regrets of love; a love story full of pain.",
+      "zh": "形容爱情中无边无际的痛苦和遗憾。"
+    },
+    "equivalents": [
+      "love's endless sorrows",
+      "a tragic love"
+    ],
+    "examples": [
+      {
+        "zh": "这部小说写尽了情天恨海。",
+        "en": "This novel captures all the heartbreak of love."
+      },
+      {
+        "zh": "他们之间是一场情天恨海的纠缠。",
+        "en": "What lay between them was a tangle of love and heartbreak."
+      }
+    ],
+    "usage": {
+      "en": "Literary, used in fiction and drama reviews; not for everyday romance.",
+      "zh": "文学色彩浓，常见于小说、影视评论。"
+    },
+    "synonyms": [
+      "痴男怨女",
+      "爱恨情仇"
+    ],
+    "antonyms": [
+      "百年好合",
+      "琴瑟和鸣"
+    ]
+  },
+  {
+    "id": "qiong-xing-jin-xiang",
+    "text": "穷形尽相",
+    "pinyin": "qióng xíng jìn xiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship",
+      "exam-favourites"
+    ],
+    "literal": "exhaust · form · exhaust · appearance",
+    "natural": "depicted down to every detail",
+    "meaning": {
+      "en": "To describe or portray something in vivid, exhaustive detail; (in a negative sense) to show ugly behaviour fully.",
+      "zh": "原指把形象描绘得极其细致逼真。后也指丑态毕露。"
+    },
+    "equivalents": [
+      "vivid down to the last detail",
+      "depict in full detail"
+    ],
+    "examples": [
+      {
+        "zh": "这篇散文把市井生活写得穷形尽相。",
+        "en": "This essay depicts street life in full, vivid detail."
+      },
+      {
+        "zh": "他把贪官的丑态刻画得穷形尽相。",
+        "en": "He portrayed the corrupt official's ugliness down to the last detail."
+      }
+    ],
+    "usage": {
+      "en": "The modern use is mostly about writing or acting; the older sense is a derogatory 'showing one's ugly side'. ",
+      "zh": "现代多形容描写、表演细致逼真；旧时也有“丑态毕露”的贬义。"
+    },
+    "synonyms": [
+      "惟妙惟肖",
+      "栩栩如生"
+    ],
+    "antonyms": [
+      "粗枝大叶",
+      "寥寥数笔"
+    ]
+  },
+  {
+    "id": "qiu-hao-zhi-mo",
+    "text": "秋毫之末",
+    "pinyin": "qiū háo zhī mò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relative-measurements",
+      "small-numbers",
+      "exam-favourites",
+      "daoist-classics"
+    ],
+    "literal": "autumn · fine hair · of · tip",
+    "natural": "the tip of an autumn hair",
+    "meaning": {
+      "en": "The tip of the fine hair of an animal in autumn: something extremely tiny.",
+      "zh": "秋天鸟兽新长的细毛的尖端，比喻极其细微的事物。"
+    },
+    "equivalents": [
+      "the tiniest detail",
+      "the very tip of a hair"
+    ],
+    "examples": [
+      {
+        "zh": "他连秋毫之末的差别都能分辨出来。",
+        "en": "He can tell apart even the tiniest difference."
+      },
+      {
+        "zh": "一个好的质检员要明察秋毫之末。",
+        "en": "A good inspector must notice even the minutest detail."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·齐物论》",
+      "story": {
+        "en": "Zhuangzi: 'Nothing under heaven is bigger than the tip of an autumn hair, and Mount Tai is small' (天下莫大于秋毫之末，而大山为小).",
+        "zh": "《庄子·齐物论》：“天下莫大于秋毫之末，而大山为小。”"
+      }
+    },
+    "usage": {
+      "en": "Used for tiny things; often paired with 明察 (see clearly).",
+      "zh": "形容极细小的事物，常与“明察”连用。"
+    },
+    "synonyms": [
+      "毫厘之差",
+      "纤毫"
+    ],
+    "antonyms": [
+      "庞然大物",
+      "硕大无朋"
+    ]
+  },
+  {
+    "id": "qu-ji-dai-ren",
+    "text": "屈己待人",
+    "pinyin": "qū jǐ dài rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "attitude-humble-vs-arrogant",
+      "exam-favourites"
+    ],
+    "literal": "bend · oneself · treat · others",
+    "natural": "put oneself below others",
+    "meaning": {
+      "en": "To humble oneself and treat others with respect and generosity.",
+      "zh": "委屈自己，以谦让、宽厚的态度对待别人。"
+    },
+    "equivalents": [
+      "humble oneself for others",
+      "put others first"
+    ],
+    "examples": [
+      {
+        "zh": "他屈己待人，团队里人缘很好。",
+        "en": "He puts others first and is very popular in the team."
+      },
+      {
+        "zh": "屈己待人不是软弱，而是一种修养。",
+        "en": "Humbling yourself for others isn't weakness but good character."
+      }
+    ],
+    "usage": {
+      "en": "Praise of a person's modesty and generosity.",
+      "zh": "称赞人谦逊宽厚。"
+    },
+    "synonyms": [
+      "礼贤下士",
+      "谦和待人"
+    ],
+    "antonyms": [
+      "盛气凌人",
+      "趾高气扬"
+    ]
+  },
+  {
+    "id": "qu-hu-tun-lang",
+    "text": "驱虎吞狼",
+    "pinyin": "qū hǔ tūn láng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "three-kingdoms",
+      "exam-favourites"
+    ],
+    "literal": "drive · tiger · swallow · wolf",
+    "natural": "set a tiger on a wolf",
+    "meaning": {
+      "en": "To set one rival against another so that your enemies destroy each other.",
+      "zh": "比喻利用矛盾，让对手互相残杀，自己从中得利。"
+    },
+    "equivalents": [
+      "set one enemy against another",
+      "let them fight it out"
+    ],
+    "examples": [
+      {
+        "zh": "他想用驱虎吞狼之计，让两家公司互相拖垮。",
+        "en": "He wanted to play the two companies off against each other until both were worn out."
+      },
+      {
+        "zh": "对方在使驱虎吞狼的手段，我们不能上当。",
+        "en": "They are playing one side against the other, and we mustn't fall for it."
+      }
+    ],
+    "origin": {
+      "source": "《三国演义》第十四回",
+      "story": {
+        "en": "In the novel, Xun Yu proposes the 'drive the tiger to swallow the wolf' scheme: set Liu Bei against Lü Bu.",
+        "zh": "《三国演义》：荀彧向曹操献“驱虎吞狼之计”，使刘备与吕布相争。"
+      }
+    },
+    "usage": {
+      "en": "Scheming strategy; sounds like 借刀杀人 but stresses making two enemies fight.",
+      "zh": "指谋略，与“借刀杀人”相近，但强调让两个对手互相争斗。"
+    },
+    "synonyms": [
+      "借刀杀人",
+      "二虎竞食"
+    ],
+    "antonyms": [
+      "同舟共济",
+      "团结一心"
+    ]
+  },
+  {
+    "id": "qu-wu-cun-jing",
+    "text": "去芜存菁",
+    "pinyin": "qù wú cún jīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "efficiency",
+      "excellent-writing",
+      "exam-favourites"
+    ],
+    "literal": "remove · weeds · keep · essence",
+    "natural": "weed out and keep the best",
+    "meaning": {
+      "en": "To get rid of what is worthless and keep the best.",
+      "zh": "去掉杂乱无用的部分，留下精华。"
+    },
+    "equivalents": [
+      "separate the wheat from the chaff",
+      "keep only the best"
+    ],
+    "examples": [
+      {
+        "zh": "编辑对稿件去芜存菁，只保留了最精彩的部分。",
+        "en": "The editor weeded out the weak parts and kept only the finest."
+      },
+      {
+        "zh": "整理旧资料时要去芜存菁。",
+        "en": "When sorting old material, discard the dross and keep the essence."
+      }
+    ],
+    "usage": {
+      "en": "Used of editing, culture, information.",
+      "zh": "多用于编辑、文化、资料整理等。"
+    },
+    "synonyms": [
+      "去粗取精",
+      "取其精华"
+    ],
+    "antonyms": [
+      "良莠不分",
+      "鱼龙混杂"
+    ]
+  },
+  {
+    "id": "quan-shen-er-tui",
+    "text": "全身而退",
+    "pinyin": "quán shēn ér tuì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "adaptability",
+      "exam-favourites"
+    ],
+    "literal": "whole · body · and · retreat",
+    "natural": "leave unscathed",
+    "meaning": {
+      "en": "To withdraw from a risky situation without harm or loss.",
+      "zh": "在危险或复杂的局面中，平安无损地撤出。"
+    },
+    "equivalents": [
+      "get out unscathed",
+      "walk away unharmed"
+    ],
+    "examples": [
+      {
+        "zh": "他及时抽身，从那场投资风波中全身而退。",
+        "en": "He pulled out in time and left that investment storm unscathed."
+      },
+      {
+        "zh": "战局不利，将军设法让部队全身而退。",
+        "en": "With the battle going badly, the general managed to withdraw his troops intact."
+      }
+    ],
+    "usage": {
+      "en": "A common modern phrase; positive or neutral. Do not confuse with 全身心 (wholeheartedly).",
+      "zh": "现代常用词语，含褒义或中性。"
+    },
+    "synonyms": [
+      "安然脱身",
+      "毫发无损"
+    ],
+    "antonyms": [
+      "身陷囹圄",
+      "损兵折将"
+    ]
+  },
+  {
+    "id": "quan-shan-cheng-e",
+    "text": "劝善惩恶",
+    "pinyin": "quàn shàn chéng è",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "惩恶劝善"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance",
+      "exam-favourites"
+    ],
+    "literal": "encourage · good · punish · evil",
+    "natural": "reward good, punish evil",
+    "meaning": {
+      "en": "To encourage good deeds and punish bad ones.",
+      "zh": "鼓励善行，惩罚恶行。"
+    },
+    "equivalents": [
+      "encourage virtue and punish vice",
+      "reward good and punish evil"
+    ],
+    "examples": [
+      {
+        "zh": "这类故事的目的在于劝善惩恶。",
+        "en": "The aim of this kind of story is to encourage virtue and punish vice."
+      },
+      {
+        "zh": "法律必须劝善惩恶，才能引导社会风气。",
+        "en": "The law must reward good and punish evil to guide social customs."
+      }
+    ],
+    "usage": {
+      "en": "Often describes the moral purpose of laws, stories, or education. Also written 惩恶劝善.",
+      "zh": "常用来说明法律、故事、教育的道德作用，也作“惩恶劝善”。"
+    },
+    "synonyms": [
+      "赏善罚恶",
+      "惩恶扬善"
+    ],
+    "antonyms": [
+      "赏罚不明",
+      "是非不分"
+    ]
+  },
+  {
+    "id": "qun-xian-bi-zhi",
+    "text": "群贤毕至",
+    "pinyin": "qún xián bì zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festivals-and-celebrations",
+      "poems-prose",
+      "exam-favourites"
+    ],
+    "literal": "many · worthies · all · arrive",
+    "natural": "all the worthies gather",
+    "meaning": {
+      "en": "All the distinguished people have gathered.",
+      "zh": "贤能的人都到齐了，形容名流聚会。"
+    },
+    "equivalents": [
+      "a gathering of the great and good",
+      "everyone who matters is here"
+    ],
+    "examples": [
+      {
+        "zh": "论坛开幕，群贤毕至，气氛十分热烈。",
+        "en": "As the forum opened, all the notable guests had arrived and the mood was lively."
+      },
+      {
+        "zh": "今日雅集，群贤毕至，诚为盛事。",
+        "en": "Today's gathering, with all the worthies present, is truly a grand occasion."
+      }
+    ],
+    "origin": {
+      "source": "王羲之《兰亭集序》",
+      "story": {
+        "en": "Wang Xizhi's preface describes the Orchid Pavilion gathering: 'All the worthies arrived, young and old together' (群贤毕至，少长咸集).",
+        "zh": "王羲之《兰亭集序》：“群贤毕至，少长咸集。”"
+      }
+    },
+    "usage": {
+      "en": "Elegant, used for invitations and event reports; often with 少长咸集.",
+      "zh": "文雅，常用于邀请和活动报道，常接“少长咸集”。"
+    },
+    "synonyms": [
+      "人才济济",
+      "高朋满座"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "ren-mo-yu-du",
+    "text": "人莫予毒",
+    "pinyin": "rén mò yú dú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws",
+      "exam-favourites"
+    ],
+    "literal": "no one · me · harm",
+    "natural": "fear no one; nobody can hurt me",
+    "meaning": {
+      "en": "To believe that no one can harm you; arrogantly fearless.",
+      "zh": "没有人能伤害我，形容目空一切、骄横自大。"
+    },
+    "equivalents": [
+      "think oneself invincible",
+      "nobody can touch me"
+    ],
+    "examples": [
+      {
+        "zh": "他自以为人莫予毒，结果被对手一举击败。",
+        "en": "He thought he was untouchable and was beaten by his rival in one blow."
+      },
+      {
+        "zh": "骄兵必败，切不可有人莫予毒的心态。",
+        "en": "Arrogant armies lose; never feel that nobody can touch you."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; the unusual word order is classical (予 = 我, the object comes first).",
+      "zh": "贬义。“予”即“我”，宾语前置，是文言句式。"
+    },
+    "synonyms": [
+      "目空一切",
+      "不可一世"
+    ],
+    "antonyms": [
+      "如履薄冰",
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "ru-yi-fu-shan",
+    "text": "如蚁附膻",
+    "pinyin": "rú yǐ fù shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior",
+      "exam-favourites",
+      "daoist-classics"
+    ],
+    "literal": "like · ants · cling to · rank smell",
+    "natural": "like ants swarming a mutton scent",
+    "meaning": {
+      "en": "Like ants clustering around smelly meat: people flocking to someone or something for gain.",
+      "zh": "像蚂蚁聚在腥膻的东西上，比喻许多人追逐名利或趋附权势。"
+    },
+    "equivalents": [
+      "flock like flies to honey",
+      "swarm after profit"
+    ],
+    "examples": [
+      {
+        "zh": "新楼盘一开盘，投机客如蚁附膻地涌了过来。",
+        "en": "As soon as the new development opened, speculators swarmed in."
+      },
+      {
+        "zh": "权贵门前，向来是如蚁附膻的人群。",
+        "en": "There are always crowds clustering at the doors of the powerful."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·徐无鬼》",
+      "story": {
+        "en": "Zhuangzi: 'Mutton does not long for ants; ants long for mutton, because mutton is rank' (羊肉不慕蚁，蚁慕于羊肉，羊肉羶也).",
+        "zh": "《庄子·徐无鬼》：“羊肉不慕蚁，蚁慕于羊肉，羊肉羶也。”"
+      }
+    },
+    "usage": {
+      "en": "Derogatory; describes a crowd's greed or flattery. 膻 is read shān.",
+      "zh": "贬义，形容人群追名逐利、趋炎附势。“膻”读 shān。"
+    },
+    "synonyms": [
+      "趋炎附势",
+      "蝇附骥尾"
+    ],
+    "antonyms": [
+      "不为所动",
+      "洁身自好"
+    ]
+  },
+  {
+    "id": "ru-niao-shou-san",
+    "text": "如鸟兽散",
+    "pinyin": "rú niǎo shòu sàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos",
+      "defeat-and-military-failure",
+      "exam-favourites"
+    ],
+    "literal": "like · birds · beasts · scatter",
+    "natural": "scatter like startled birds and beasts",
+    "meaning": {
+      "en": "To scatter in all directions, like frightened birds and animals.",
+      "zh": "像受惊的鸟兽一样四处逃散。"
+    },
+    "equivalents": [
+      "scatter in all directions",
+      "flee in disarray"
+    ],
+    "examples": [
+      {
+        "zh": "警察一到，围观的人如鸟兽散。",
+        "en": "As soon as the police arrived, the onlookers scattered."
+      },
+      {
+        "zh": "败军听见喊杀声，顿时如鸟兽散。",
+        "en": "Hearing the war cries, the defeated troops scattered at once."
+      }
+    ],
+    "usage": {
+      "en": "Often used of a crowd or gang dispersing in panic; slightly derogatory.",
+      "zh": "常指人群或团伙惊慌四散，略含贬义。"
+    },
+    "synonyms": [
+      "一哄而散",
+      "四散奔逃"
+    ],
+    "antonyms": [
+      "团结一心",
+      "众志成城"
+    ]
+  },
+  {
+    "id": "ru-duo-yan-hai",
+    "text": "如堕烟海",
+    "pinyin": "rú duò yān hǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion-and-doubt",
+      "learning-difficulties",
+      "exam-favourites"
+    ],
+    "literal": "as if · fall into · mist · sea",
+    "natural": "as if lost in a sea of mist",
+    "meaning": {
+      "en": "Utterly confused, as if fallen into a vast sea of mist.",
+      "zh": "像掉进烟雾弥漫的大海里，形容茫然不解，摸不着头绪。"
+    },
+    "equivalents": [
+      "completely at sea",
+      "all at sea"
+    ],
+    "examples": [
+      {
+        "zh": "这份财务报表我看了半天，如堕烟海。",
+        "en": "I stared at this financial statement for ages and felt utterly lost."
+      },
+      {
+        "zh": "初学编程时，面对一堆术语，他如堕烟海。",
+        "en": "When he first learned programming, the pile of jargon left him all at sea."
+      }
+    ],
+    "usage": {
+      "en": "Describes confusion over complicated material. 堕 is read duò. Predicate, often after 感到/觉得.",
+      "zh": "形容对复杂事物茫然不解。“堕”读 duò，多作谓语。"
+    },
+    "synonyms": [
+      "一头雾水",
+      "如坠五里雾中"
+    ],
+    "antonyms": [
+      "一目了然",
+      "豁然开朗"
+    ]
+  },
+  {
+    "id": "ru-zhu-chu-nu",
+    "text": "入主出奴",
+    "pinyin": "rù zhǔ chū nú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "superficial-learning",
+      "attitude-humble-vs-arrogant",
+      "exam-favourites",
+      "poems-prose"
+    ],
+    "literal": "enter · master · exit · slave",
+    "natural": "what's in is master, what's out is slave",
+    "meaning": {
+      "en": "To hold one's own school as right and reject everything else; narrow-minded partisanship.",
+      "zh": "对自己信奉的学说奉若主人，对别的学说视为奴仆，形容门户之见很深。"
+    },
+    "equivalents": [
+      "be blindly partisan",
+      "sectarian bias"
+    ],
+    "examples": [
+      {
+        "zh": "做学问不能入主出奴，要兼听各家之言。",
+        "en": "In scholarship you can't be partisan; hear every school."
+      },
+      {
+        "zh": "他对新旧两派入主出奴，缺乏公正的判断。",
+        "en": "He is biased towards one of the two camps and lacks fair judgement."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《原道》",
+      "story": {
+        "en": "Han Yu criticises the attitude: 'What enters is made master, what leaves is made slave' (入者主之，出者奴之).",
+        "zh": "韩愈《原道》：“入于彼，必出于此。入者主之，出者奴之。”"
+      }
+    },
+    "usage": {
+      "en": "Derogatory; used in academic and cultural contexts. Don't use for ordinary 'favouritism'.",
+      "zh": "贬义，多用于学术、文化场合，不用于一般的偏心。"
+    },
+    "synonyms": [
+      "党同伐异",
+      "门户之见"
+    ],
+    "antonyms": [
+      "兼容并包",
+      "博采众长"
+    ]
+  },
+  {
+    "id": "san-gu-pin-fan",
+    "text": "三顾频烦",
+    "pinyin": "sān gù pín fán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "historical-periods",
+      "three-kingdoms",
+      "exam-favourites",
+      "poems-prose"
+    ],
+    "literal": "three · visit · repeatedly · trouble",
+    "natural": "visiting repeatedly to seek advice",
+    "meaning": {
+      "en": "To pay repeated visits to invite a worthy person; also the earnestness of the host.",
+      "zh": "多次登门拜访，诚恳地邀请贤才。"
+    },
+    "equivalents": [
+      "call repeatedly to recruit a talent"
+    ],
+    "examples": [
+      {
+        "zh": "他三顾频烦，终于请出了那位退休专家。",
+        "en": "After repeated visits, he finally persuaded the retired expert to come."
+      },
+      {
+        "zh": "公司三顾频烦，足见求才之诚。",
+        "en": "The firm's repeated visits show how sincerely it seeks talent."
+      }
+    ],
+    "origin": {
+      "source": "杜甫《蜀相》",
+      "story": {
+        "en": "Du Fu's poem on Zhuge Liang: 'He was visited three times, again and again, for plans for the realm' (三顾频烦天下计).",
+        "zh": "杜甫《蜀相》：“三顾频烦天下计，两朝开济老臣心。”"
+      }
+    },
+    "usage": {
+      "en": "Literary variant of 三顾茅庐. 频烦 means 'repeatedly and troublesomely'.",
+      "zh": "文言色彩较浓，与“三顾茅庐”意思相近。“频烦”指一再麻烦。"
+    },
+    "synonyms": [
+      "三顾茅庐",
+      "礼贤下士"
+    ],
+    "antonyms": [
+      "拒人千里",
+      "怠慢贤才"
+    ]
+  },
+  {
+    "id": "sao-ta-yi-dai",
+    "text": "扫榻以待",
+    "pinyin": "sǎo tà yǐ dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "family-and-home",
+      "exam-favourites"
+    ],
+    "literal": "sweep · couch · to · await",
+    "natural": "sweep the bed and wait",
+    "meaning": {
+      "en": "To tidy the guest bed in advance: to welcome a guest warmly.",
+      "zh": "打扫好床榻等待客人，形容热情欢迎宾客。"
+    },
+    "equivalents": [
+      "prepare a bed and wait for you",
+      "welcome with open arms"
+    ],
+    "examples": [
+      {
+        "zh": "您何时到，我必扫榻以待。",
+        "en": "Whenever you come, I'll have everything ready for you."
+      },
+      {
+        "zh": "朋友来京，他早已扫榻以待。",
+        "en": "When his friend came to the capital, he was already prepared to host him."
+      }
+    ],
+    "usage": {
+      "en": "Polite, used in letters and invitations.",
+      "zh": "客气话，多用于书信、邀请。"
+    },
+    "synonyms": [
+      "扫径迎宾",
+      "倒屣相迎"
+    ],
+    "antonyms": [
+      "拒之门外",
+      "闭门谢客"
+    ]
+  },
+  {
+    "id": "sha-li-tao-jin",
+    "text": "沙里淘金",
+    "pinyin": "shā lǐ táo jīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "useful-tools-and-skill",
+      "exam-favourites"
+    ],
+    "literal": "sand · in · pan · gold",
+    "natural": "panning gold from sand",
+    "meaning": {
+      "en": "To pick out valuable things from a large amount of rubbish; hard work with a small return.",
+      "zh": "从沙子里淘取金子，比喻从大量材料中选取精华，也形容费力大而收获小。"
+    },
+    "equivalents": [
+      "panning for gold",
+      "sift out the gems"
+    ],
+    "examples": [
+      {
+        "zh": "研究者在海量数据中沙里淘金。",
+        "en": "Researchers sift through huge amounts of data for the valuable bits."
+      },
+      {
+        "zh": "看似容易的古籍整理，其实是沙里淘金。",
+        "en": "Sorting old books looks easy, but it's like panning for gold."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; stresses either careful selection or great effort for small result.",
+      "zh": "中性，强调精心挑选或费力而所得有限。"
+    },
+    "synonyms": [
+      "披沙拣金",
+      "去粗取精"
+    ],
+    "antonyms": [
+      "滥竽充数",
+      "鱼目混珠"
+    ]
+  }
+]

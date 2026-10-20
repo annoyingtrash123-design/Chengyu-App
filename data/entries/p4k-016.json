@@ -1,0 +1,1213 @@
+[
+  {
+    "id": "yang-shou-shen-mei",
+    "text": "仰首伸眉",
+    "pinyin": "yǎng shǒu shēn méi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "joy-and-happiness",
+      "exam-favourites"
+    ],
+    "literal": "raise · head · stretch · brows",
+    "natural": "head high, brows relaxed",
+    "meaning": {
+      "en": "To hold one's head high with brows unknit; to feel proud and free of worry or humiliation.",
+      "zh": "抬起头，舒展眉头，形容扬眉吐气、神态得意舒畅。"
+    },
+    "equivalents": [
+      "hold one's head high",
+      "feel proud and relieved"
+    ],
+    "examples": [
+      {
+        "zh": "比赛夺冠后，球员们仰首伸眉，终于一吐多年的怨气。",
+        "en": "After winning the title the players held their heads high, shedding years of frustration."
+      },
+      {
+        "zh": "还清债务后，他终于能仰首伸眉地做人了。",
+        "en": "Having paid off his debts, he could finally face the world with his head held high."
+      },
+      {
+        "zh": "受尽冷落的小镇，如今仰首伸眉，成了旅游热点。",
+        "en": "The long-neglected town now holds its head high as a tourist hotspot."
+      }
+    ],
+    "usage": {
+      "en": "Literary; describes pride and relief after hardship, close to 扬眉吐气. Rare in speech.",
+      "zh": "书面语，形容摆脱压抑后得意舒畅，近于“扬眉吐气”，口语少用。"
+    },
+    "synonyms": [
+      "扬眉吐气",
+      "昂首挺胸"
+    ],
+    "antonyms": [
+      "垂头丧气",
+      "低三下四"
+    ]
+  },
+  {
+    "id": "yao-gong-qing-shang",
+    "text": "邀功请赏",
+    "pinyin": "yāo gōng qǐng shǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "negative-character-flaws",
+      "exam-favourites"
+    ],
+    "literal": "seek · merit · ask for · reward",
+    "natural": "claim credit and demand a reward",
+    "meaning": {
+      "en": "To claim credit for oneself, especially undeserved credit, and ask for a reward.",
+      "zh": "把别人的功劳或不大的功劳说成自己的，向上级要求奖赏。"
+    },
+    "equivalents": [
+      "take the credit and ask for a reward",
+      "angle for recognition"
+    ],
+    "examples": [
+      {
+        "zh": "他总是在老板面前邀功请赏，实际干活的却是同事。",
+        "en": "He always seeks credit in front of the boss, though colleagues do the real work."
+      },
+      {
+        "zh": "真正做事的人不会四处邀功请赏。",
+        "en": "People who truly get things done don't go around fishing for rewards."
+      },
+      {
+        "zh": "项目刚有点起色，就有人跑来邀功请赏。",
+        "en": "The project had barely improved when someone rushed in to claim the credit."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; predicate. Suggests exaggeration or stealing credit.",
+      "zh": "贬义，多作谓语，含夸大或抢功之意。"
+    },
+    "synonyms": [
+      "居功自傲",
+      "争功诿过"
+    ],
+    "antonyms": [
+      "功成不居",
+      "默默奉献"
+    ]
+  },
+  {
+    "id": "yao-shi-wang-xiao",
+    "text": "药石罔效",
+    "pinyin": "yào shí wǎng xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "health",
+      "illness-and-disease",
+      "exam-favourites"
+    ],
+    "literal": "medicine · stone needles · no · effect",
+    "natural": "no medicine works",
+    "meaning": {
+      "en": "Medicines and treatments have no effect; the illness is beyond cure.",
+      "zh": "各种药物和治疗都没有效果，形容病情严重，无法医治。"
+    },
+    "equivalents": [
+      "beyond medical help",
+      "no treatment works"
+    ],
+    "examples": [
+      {
+        "zh": "老人病情恶化，药石罔效，终告不治。",
+        "en": "The old man's condition worsened, no treatment helped and he passed away."
+      },
+      {
+        "zh": "他积劳成疾，最后药石罔效。",
+        "en": "He worked himself ill and in the end no medicine could save him."
+      },
+      {
+        "zh": "这种顽疾几乎药石罔效。",
+        "en": "This chronic illness is almost impervious to treatment."
+      }
+    ],
+    "usage": {
+      "en": "Formal, sombre; used in obituaries and news about serious illness. 罔 means 'no', read wǎng. Also used figuratively of hopeless problems.",
+      "zh": "正式、沉重，多见于讣告和重病报道，“罔”意为“无”，读 wǎng，也可比喻无法挽救的问题。"
+    },
+    "synonyms": [
+      "无药可救",
+      "回天乏术"
+    ],
+    "antonyms": [
+      "妙手回春",
+      "药到病除"
+    ]
+  },
+  {
+    "id": "ye-wu-yi-xian",
+    "text": "野无遗贤",
+    "pinyin": "yě wú yí xián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "野无遗才"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "society",
+      "good-governance",
+      "confucian-classics",
+      "exam-favourites"
+    ],
+    "literal": "countryside · no · left behind · worthy people",
+    "natural": "no talent left unused",
+    "meaning": {
+      "en": "No worthy person is left in obscurity; all the capable have been brought into office.",
+      "zh": "民间没有被遗漏的贤才，形容朝廷选拔人才周全，政治清明。"
+    },
+    "equivalents": [
+      "no talent goes unrecognised",
+      "all able people are employed"
+    ],
+    "examples": [
+      {
+        "zh": "古人称赞盛世，常说朝廷之上野无遗贤。",
+        "en": "In praising golden ages, the ancients often said no worthy person was left out of office."
+      },
+      {
+        "zh": "公司做到野无遗贤，人人都能得到施展才华的机会。",
+        "en": "The company leaves no talent untapped; everyone gets a chance to shine."
+      },
+      {
+        "zh": "要想野无遗贤，选拔制度必须公正透明。",
+        "en": "To leave no talent overlooked, the selection system must be fair and transparent."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·大禹谟》",
+      "story": {
+        "en": "The Counsels of Yu describe a well-ruled age: 'no worthy person left in the wilds, and the myriad states all at peace' (野无遗贤，万邦咸宁).",
+        "zh": "《尚书·大禹谟》：“野无遗贤，万邦咸宁。”"
+      }
+    },
+    "usage": {
+      "en": "Formal and slightly idealised; used in praise of good government or hiring. Often with 朝无废事.",
+      "zh": "正式，略带理想化，多用于称颂政治清明或用人得当。"
+    },
+    "synonyms": [
+      "人尽其才",
+      "选贤与能"
+    ],
+    "antonyms": [
+      "怀才不遇",
+      "埋没人才"
+    ]
+  },
+  {
+    "id": "yi-hu-bai-nuo",
+    "text": "一呼百诺",
+    "pinyin": "yī hū bǎi nuò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "society",
+      "leadership-and-authority",
+      "exam-favourites"
+    ],
+    "literal": "one · call · hundred · answer yes",
+    "natural": "one call, a hundred answers",
+    "meaning": {
+      "en": "One shout brings a hundred replies of 'yes': describes great power or status with many followers ready to obey.",
+      "zh": "一声呼唤，百人应答，形容权势极大，前呼后拥，随从众多。"
+    },
+    "equivalents": [
+      "command instant obedience",
+      "have a following of yes-men"
+    ],
+    "examples": [
+      {
+        "zh": "昔日他在公司一呼百诺，如今却无人理睬。",
+        "en": "He once commanded instant obedience at the firm; now nobody listens."
+      },
+      {
+        "zh": "这位帮主一呼百诺，手下数千人听令。",
+        "en": "The gang boss's one call brings a hundred answers; thousands follow his orders."
+      },
+      {
+        "zh": "当了领导，他享受着一呼百诺的感觉。",
+        "en": "Once in charge, he enjoyed the feeling of everyone jumping at his word."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used of influence, with a slight edge of sarcasm if used of a boss. Compare 一呼百应 (many respond to a call, positive and about popular support).",
+      "zh": "多指权势，对领导用时略带讽意。与“一呼百应”不同，后者多指号召力强、响应者多。"
+    },
+    "synonyms": [
+      "前呼后拥",
+      "一言九鼎"
+    ],
+    "antonyms": [
+      "孤立无援",
+      "应者寥寥"
+    ]
+  },
+  {
+    "id": "yi-wei-ping-di",
+    "text": "夷为平地",
+    "pinyin": "yí wéi píng dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "defeat-and-military-failure",
+      "exam-favourites"
+    ],
+    "literal": "raze · to become · flat · ground",
+    "natural": "raze to the ground",
+    "meaning": {
+      "en": "To level completely, so that nothing is left standing.",
+      "zh": "把建筑物等彻底铲平或摧毁，变成平地。"
+    },
+    "equivalents": [
+      "raze to the ground",
+      "flatten completely"
+    ],
+    "examples": [
+      {
+        "zh": "地震将整个村庄夷为平地。",
+        "en": "The earthquake flattened the entire village."
+      },
+      {
+        "zh": "战火把古城夷为平地。",
+        "en": "War razed the ancient city to the ground."
+      },
+      {
+        "zh": "老旧厂房被夷为平地，准备建成公园。",
+        "en": "The old factory was levelled to make way for a park."
+      }
+    ],
+    "usage": {
+      "en": "Usually passive (被夷为平地) or with 把. 夷 means 'to level', read yí.",
+      "zh": "常用“被夷为平地”或“把……夷为平地”。“夷”意为铲平，读 yí。"
+    },
+    "synonyms": [
+      "荡然无存",
+      "化为废墟"
+    ],
+    "antonyms": [
+      "拔地而起",
+      "平地起高楼"
+    ]
+  },
+  {
+    "id": "yi-wu-zhan-ji",
+    "text": "贻误战机",
+    "pinyin": "yí wù zhàn jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "war",
+      "defeat-and-military-failure",
+      "exam-favourites"
+    ],
+    "literal": "delay · mistake · battle · opportunity",
+    "natural": "miss the decisive moment",
+    "meaning": {
+      "en": "To lose a critical opportunity through delay or error, originally in battle.",
+      "zh": "因拖延或失误而错过作战的有利时机，也泛指耽误关键时机。"
+    },
+    "equivalents": [
+      "miss the crucial opportunity",
+      "squander the decisive moment"
+    ],
+    "examples": [
+      {
+        "zh": "指挥官犹豫不决，贻误战机。",
+        "en": "The commander hesitated and missed the decisive moment."
+      },
+      {
+        "zh": "审批拖拖拉拉，贻误战机，项目被对手抢走。",
+        "en": "Approval dragged on, the chance was lost and a rival took the project."
+      },
+      {
+        "zh": "防汛关键时刻不能贻误战机。",
+        "en": "One must not waste the critical moment during flood control."
+      }
+    ],
+    "usage": {
+      "en": "Formal; predicate. Also used figuratively in business and emergency response. 贻 is read yí.",
+      "zh": "正式，多作谓语，也比喻商业、救灾等关键时机。“贻”读 yí。"
+    },
+    "synonyms": [
+      "坐失良机",
+      "延误时机"
+    ],
+    "antonyms": [
+      "抓住战机",
+      "把握时机"
+    ]
+  },
+  {
+    "id": "yi-dou-cong-sheng",
+    "text": "疑窦丛生",
+    "pinyin": "yí dòu cóng shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "疑窦顿生"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "emotions",
+      "confusion-and-doubt",
+      "exam-favourites"
+    ],
+    "literal": "doubt · hole · crowd · arise",
+    "natural": "doubts arise everywhere",
+    "meaning": {
+      "en": "Many doubts and suspicions arise at once.",
+      "zh": "疑点很多，一个接一个地冒出来。"
+    },
+    "equivalents": [
+      "doubts multiply",
+      "suspicions mount"
+    ],
+    "examples": [
+      {
+        "zh": "这份财务报告前后矛盾，让人疑窦丛生。",
+        "en": "The financial report contradicts itself and doubts keep arising."
+      },
+      {
+        "zh": "听了他的解释，大家反而疑窦丛生。",
+        "en": "His explanation only raised more doubts."
+      },
+      {
+        "zh": "案情疑窦丛生，警方决定重新调查。",
+        "en": "The case was full of doubts, so the police decided to reinvestigate."
+      }
+    ],
+    "usage": {
+      "en": "Formal; predicate. 窦 originally means 'hole', so 疑窦 = 'point of doubt'. Compare 疑云重重.",
+      "zh": "正式，多作谓语。“窦”本指孔洞，“疑窦”即疑点。"
+    },
+    "synonyms": [
+      "疑云重重",
+      "疑神疑鬼"
+    ],
+    "antonyms": [
+      "深信不疑",
+      "毫无疑义"
+    ]
+  },
+  {
+    "id": "yi-shen-xu-guo",
+    "text": "以身许国",
+    "pinyin": "yǐ shēn xǔ guó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "character",
+      "outstanding-character",
+      "exam-favourites"
+    ],
+    "literal": "with · body · pledge · country",
+    "natural": "pledge oneself to the country",
+    "meaning": {
+      "en": "To dedicate one's life to one's country.",
+      "zh": "把自己的一生献给国家。"
+    },
+    "equivalents": [
+      "devote one's life to one's country",
+      "pledge one's life to the nation"
+    ],
+    "examples": [
+      {
+        "zh": "他立志以身许国，毅然投笔从戎。",
+        "en": "He vowed to give his life to the country and resolutely joined the army."
+      },
+      {
+        "zh": "这位科学家以身许国，隐姓埋名数十年。",
+        "en": "The scientist devoted himself to the nation, living under a false name for decades."
+      },
+      {
+        "zh": "烈士以身许国，青春永远定格在战场。",
+        "en": "The martyr gave his life for the country and his youth remains forever on the battlefield."
+      }
+    ],
+    "usage": {
+      "en": "Solemn; praise. Note 身 reads shēn (the chunk's pinyin was wrong).",
+      "zh": "庄重，褒义。“身”读 shēn。"
+    },
+    "synonyms": [
+      "精忠报国",
+      "舍身报国"
+    ],
+    "antonyms": [
+      "卖国求荣",
+      "背信弃义"
+    ]
+  },
+  {
+    "id": "yi-guan-kui-tian",
+    "text": "以管窥天",
+    "pinyin": "yǐ guǎn kuī tiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "用管窥天"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "wisdom",
+      "poor-planning-and-hasty-decisions",
+      "daoist-classics",
+      "exam-favourites"
+    ],
+    "literal": "with · tube · peek · sky",
+    "natural": "look at the sky through a tube",
+    "meaning": {
+      "en": "To look at the sky through a tube: to see only a tiny part and so judge narrowly.",
+      "zh": "从竹管里看天，比喻见识狭窄、片面。"
+    },
+    "equivalents": [
+      "have a narrow view",
+      "see only a sliver of the whole"
+    ],
+    "examples": [
+      {
+        "zh": "仅凭一两个例子下结论，不过是以管窥天。",
+        "en": "Drawing conclusions from just one or two examples is looking at the sky through a tube."
+      },
+      {
+        "zh": "读书太少，难免以管窥天。",
+        "en": "With so little reading, one is bound to see too little."
+      },
+      {
+        "zh": "不要以管窥天，看问题要全面。",
+        "en": "Don't take such a narrow view; look at the whole picture."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·秋水》",
+      "story": {
+        "en": "Zhuangzi mocks those who 'peek at the sky through a tube and point at the earth with an awl — is that not small?' (用管窥天，用锥指地，不亦小乎).",
+        "zh": "《庄子·秋水》：“用管窥天，用锥指地，不亦小乎？”"
+      }
+    },
+    "usage": {
+      "en": "Derogatory, often used humbly of one's own view (以管窥天，见笑了). Similar to 管中窥豹 and 坐井观天.",
+      "zh": "贬义，也常自谦用，如“以管窥天，见笑了”。近于“管中窥豹”“坐井观天”。"
+    },
+    "synonyms": [
+      "坐井观天",
+      "管窥蠡测"
+    ],
+    "antonyms": [
+      "高瞻远瞩",
+      "洞察全局"
+    ]
+  },
+  {
+    "id": "yi-xue-kui-di",
+    "text": "蚁穴溃堤",
+    "pinyin": "yǐ xué kuì dī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "蝼蚁溃堤"
+    ],
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "success",
+      "chain-reactions",
+      "exam-favourites"
+    ],
+    "literal": "ant · nest · burst · dyke",
+    "natural": "ant hole, broken dyke",
+    "meaning": {
+      "en": "An ant's nest can collapse a dyke: a small flaw, if ignored, can lead to disaster.",
+      "zh": "小小的蚂蚁洞可以使堤坝崩溃，比喻小隐患不及时处理会酿成大祸。"
+    },
+    "equivalents": [
+      "a small leak sinks a great ship",
+      "a minor flaw leads to disaster"
+    ],
+    "examples": [
+      {
+        "zh": "质量隐患若不处理，终将蚁穴溃堤。",
+        "en": "If quality problems aren't handled they will eventually bring disaster."
+      },
+      {
+        "zh": "一次小违规看似无害，但蚁穴溃堤的教训不能忘。",
+        "en": "One small violation looks harmless, but we must not forget how ant holes break dykes."
+      },
+      {
+        "zh": "管理上的小漏洞，足以蚁穴溃堤。",
+        "en": "A small management loophole is enough to bring everything down."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·喻老》",
+      "story": {
+        "en": "Han Fei: 'A dyke a thousand zhang long may collapse through an ant hole' (千丈之堤，以蝼蚁之穴溃).",
+        "zh": "《韩非子·喻老》：“千丈之堤，以蝼蚁之穴溃。”"
+      }
+    },
+    "usage": {
+      "en": "Warning; formal. Often cited in anti-corruption and safety talks. Compare 千里之堤，溃于蚁穴 and 防微杜渐.",
+      "zh": "警示性，正式，常用于反腐、安全教育。可比“千里之堤，溃于蚁穴”“防微杜渐”。"
+    },
+    "synonyms": [
+      "防微杜渐",
+      "千里之堤溃于蚁穴"
+    ],
+    "antonyms": [
+      "防患未然",
+      "未雨绸缪"
+    ]
+  },
+  {
+    "id": "yi-zai-yan-wai",
+    "text": "意在言外",
+    "pinyin": "yì zài yán wài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances",
+      "exam-favourites"
+    ],
+    "literal": "meaning · lies · words · outside",
+    "natural": "meaning beyond the words",
+    "meaning": {
+      "en": "The real meaning lies beyond what is said; the words imply more than they state.",
+      "zh": "真正的意思不在话语表面，而在话语之外，让人自己体会。"
+    },
+    "equivalents": [
+      "read between the lines",
+      "imply more than is said"
+    ],
+    "examples": [
+      {
+        "zh": "他这番话意在言外，大家都听出了弦外之音。",
+        "en": "His remark meant more than it said, and everybody heard the hint."
+      },
+      {
+        "zh": "这首诗意在言外，需要细细品味。",
+        "en": "This poem means more than its words; it needs careful savouring."
+      },
+      {
+        "zh": "领导只说“再看看”，其实意在言外。",
+        "en": "The boss merely said 'let's see', but he meant more than that."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; predicate. Compare 言外之意 (noun, 'implication') and 弦外之音.",
+      "zh": "中性，多作谓语。可与“言外之意”“弦外之音”比较。"
+    },
+    "synonyms": [
+      "弦外之音",
+      "话里有话"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开门见山"
+    ]
+  },
+  {
+    "id": "yin-ren-cheng-shi",
+    "text": "因人成事",
+    "pinyin": "yīn rén chéng shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "negative-character-flaws",
+      "historical-records",
+      "exam-favourites"
+    ],
+    "literal": "depend on · others · achieve · things",
+    "natural": "succeed by riding on others",
+    "meaning": {
+      "en": "To get something done thanks to other people's efforts rather than one's own.",
+      "zh": "依靠别人的力量才把事情办成，自己没有真本事。"
+    },
+    "equivalents": [
+      "ride on others' coat-tails",
+      "succeed thanks to others"
+    ],
+    "examples": [
+      {
+        "zh": "他的成绩全靠组员，不过是因人成事。",
+        "en": "His results all came from the team; he merely succeeded through others."
+      },
+      {
+        "zh": "要想有真本事，就不能总想着因人成事。",
+        "en": "If you want real skill, don't always rely on others to get things done."
+      },
+      {
+        "zh": "别人说我因人成事，我无话可说。",
+        "en": "They say I only succeeded through others and I can't argue."
+      }
+    ],
+    "origin": {
+      "source": "《史记·平原君虞卿列传》",
+      "story": {
+        "en": "When Mao Sui shamed the other retainers, he said they were 'ordinary people who get things done by relying on others' (公等录录，所谓因人成事者也).",
+        "zh": "毛遂对同行门客说：“公等录录，所谓因人成事者也。”"
+      }
+    },
+    "usage": {
+      "en": "Mildly derogatory; often a mocking verdict. Not 'making use of people skilfully', which would be 知人善任.",
+      "zh": "略带贬义，多用于讥评，不是善于用人。"
+    },
+    "synonyms": [
+      "坐享其成",
+      "依赖他人"
+    ],
+    "antonyms": [
+      "自力更生",
+      "白手起家"
+    ]
+  },
+  {
+    "id": "yin-she-chu-dong",
+    "text": "引蛇出洞",
+    "pinyin": "yǐn shé chū dòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "military-strategy-and-victory",
+      "exam-favourites"
+    ],
+    "literal": "lure · snake · out of · hole",
+    "natural": "lure the snake from its hole",
+    "meaning": {
+      "en": "To lure a hidden enemy or wrongdoer into the open so as to catch or deal with them.",
+      "zh": "设法诱使隐藏的对手或坏人暴露出来，以便抓获或处置。"
+    },
+    "equivalents": [
+      "lure into the open",
+      "flush out"
+    ],
+    "examples": [
+      {
+        "zh": "警方设下圈套，引蛇出洞，抓获了诈骗团伙。",
+        "en": "The police set a trap to flush the gang out and caught the fraudsters."
+      },
+      {
+        "zh": "他们故意放出假消息，想引蛇出洞。",
+        "en": "They leaked false news on purpose to flush the culprit out."
+      },
+      {
+        "zh": "这场测试只是引蛇出洞，真正的审查还在后面。",
+        "en": "This test is merely bait; the real inspection is yet to come."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; common in crime reporting and politics. Can also be sinister when used of luring dissenters.",
+      "zh": "中性，常见于案件报道和政治语境，用于诱使异见者暴露时则带阴险色彩。"
+    },
+    "synonyms": [
+      "诱敌深入",
+      "欲擒故纵"
+    ],
+    "antonyms": [
+      "打草惊蛇",
+      "按兵不动"
+    ]
+  },
+  {
+    "id": "yin-ling-er-wang",
+    "text": "引领而望",
+    "pinyin": "yǐn lǐng ér wàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "引颈而望"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "complex-emotional-states",
+      "exam-favourites"
+    ],
+    "literal": "stretch · neck · and · gaze",
+    "natural": "crane one's neck and gaze",
+    "meaning": {
+      "en": "To crane the neck and gaze into the distance, expressing eager expectation or longing.",
+      "zh": "伸长脖子远望，形容殷切盼望。"
+    },
+    "equivalents": [
+      "crane one's neck in expectation",
+      "look forward eagerly"
+    ],
+    "examples": [
+      {
+        "zh": "村民们引领而望，期待亲人早日归来。",
+        "en": "The villagers craned their necks in the hope their loved ones would return soon."
+      },
+      {
+        "zh": "全国球迷引领而望，等待决赛开始。",
+        "en": "Fans across the country eagerly awaited the final."
+      },
+      {
+        "zh": "老母亲每天在村口引领而望。",
+        "en": "The old mother gazes down the road from the village entrance every day."
+      }
+    ],
+    "usage": {
+      "en": "Literary; 领 here means 'neck'. Also appears as 引颈而望.",
+      "zh": "书面，“领”指脖子。也作“引颈而望”。"
+    },
+    "synonyms": [
+      "翘首以盼",
+      "望眼欲穿"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "不屑一顾"
+    ]
+  },
+  {
+    "id": "yong-lu-wu-wei",
+    "text": "庸碌无为",
+    "pinyin": "yōng lù wú wéi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "giving-up-and-weakness",
+      "exam-favourites"
+    ],
+    "literal": "mediocre · busy · no · accomplishment",
+    "natural": "live mediocrely, achieve nothing",
+    "meaning": {
+      "en": "Mediocre and busy with trivialities, achieving nothing worthwhile.",
+      "zh": "平庸忙碌，没有什么作为。"
+    },
+    "equivalents": [
+      "lead a mediocre, fruitless life",
+      "achieve nothing of note"
+    ],
+    "examples": [
+      {
+        "zh": "他不甘庸碌无为地度过一生。",
+        "en": "He refuses to spend his life achieving nothing."
+      },
+      {
+        "zh": "整天混日子，只会庸碌无为。",
+        "en": "Drifting through the days leads only to a pointless life."
+      },
+      {
+        "zh": "庸碌无为的官员必须被淘汰。",
+        "en": "Mediocre officials who accomplish nothing must be removed."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; predicate or attributive. 碌 reads lù.",
+      "zh": "贬义，多作谓语、定语，“碌”读 lù。"
+    },
+    "synonyms": [
+      "庸庸碌碌",
+      "无所作为"
+    ],
+    "antonyms": [
+      "大有作为",
+      "出类拔萃"
+    ]
+  },
+  {
+    "id": "yong-meng-jing-jin",
+    "text": "勇猛精进",
+    "pinyin": "yǒng měng jīng jìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "effort",
+      "high-aspirations",
+      "buddhist-origin",
+      "exam-favourites"
+    ],
+    "literal": "brave · fierce · diligent · advance",
+    "natural": "press forward bravely",
+    "meaning": {
+      "en": "To advance with courage and diligence, never slackening in one's pursuit.",
+      "zh": "勇敢无畏、不懈努力地前进。"
+    },
+    "equivalents": [
+      "forge ahead fearlessly",
+      "advance with courage and diligence"
+    ],
+    "examples": [
+      {
+        "zh": "他练功勇猛精进，几年便成了行家。",
+        "en": "He trained with such determination that within a few years he was an expert."
+      },
+      {
+        "zh": "创业者需要勇猛精进的精神。",
+        "en": "Entrepreneurs need the spirit of fearless advance."
+      },
+      {
+        "zh": "面对新技术，团队勇猛精进，很快赶了上来。",
+        "en": "Faced with new technology, the team pressed on and quickly caught up."
+      }
+    ],
+    "usage": {
+      "en": "Formal; praise. Of Buddhist origin: 精进 is the virtue of diligence (vīrya). Often used of study, practice and careers.",
+      "zh": "正式，褒义。源自佛教，“精进”指勤奋不懈，常用于修行、学习和事业。"
+    },
+    "synonyms": [
+      "奋发图强",
+      "勇往直前"
+    ],
+    "antonyms": [
+      "懈怠懒惰",
+      "故步自封"
+    ]
+  },
+  {
+    "id": "you-ran-shen-wang",
+    "text": "悠然神往",
+    "pinyin": "yōu rán shén wǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "joy-and-happiness",
+      "exam-favourites"
+    ],
+    "literal": "leisurely · so · spirit · go to",
+    "natural": "mind drifting away in longing",
+    "meaning": {
+      "en": "To be so charmed that one's mind drifts off in longing and admiration.",
+      "zh": "神情悠闲，内心被深深吸引，非常向往。"
+    },
+    "equivalents": [
+      "be lost in dreamy longing",
+      "be transported"
+    ],
+    "examples": [
+      {
+        "zh": "听着老人讲草原的故事，我悠然神往。",
+        "en": "Listening to the old man's tales of the grasslands, I was lost in longing."
+      },
+      {
+        "zh": "看到山水画，他不禁悠然神往。",
+        "en": "Seeing the landscape painting, he could not help dreaming of such places."
+      },
+      {
+        "zh": "她望着海报上的雪山，悠然神往。",
+        "en": "She gazed at the snow mountains on the poster, entranced."
+      }
+    ],
+    "usage": {
+      "en": "Literary; predicate or adverbial. Often followed by 的 clause on the thing admired.",
+      "zh": "书面，多作谓语、状语。"
+    },
+    "synonyms": [
+      "心驰神往",
+      "神往不已"
+    ],
+    "antonyms": [
+      "不屑一顾",
+      "兴味索然"
+    ]
+  },
+  {
+    "id": "you-mu-cheng-huai",
+    "text": "游目骋怀",
+    "pinyin": "yóu mù chěng huái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "joy-and-happiness",
+      "poems-prose",
+      "exam-favourites"
+    ],
+    "literal": "roam · eyes · gallop · feelings",
+    "natural": "let eyes and heart roam free",
+    "meaning": {
+      "en": "To look freely over the scenery and let one's feelings range widely.",
+      "zh": "放眼纵览，舒展心怀，形容尽情欣赏景色、抒发情怀。"
+    },
+    "equivalents": [
+      "gaze out and let the mind roam",
+      "drink in the view"
+    ],
+    "examples": [
+      {
+        "zh": "登上山顶，游目骋怀，心胸顿觉开阔。",
+        "en": "On the summit one surveys the view and feels the spirit widen."
+      },
+      {
+        "zh": "假日里，他喜欢在湖边游目骋怀。",
+        "en": "On holidays he likes to gaze over the lake and let his thoughts wander."
+      },
+      {
+        "zh": "站在海边游目骋怀，烦恼一扫而空。",
+        "en": "Standing by the sea, taking in the view, his worries vanished."
+      }
+    ],
+    "origin": {
+      "source": "王羲之《兰亭集序》",
+      "story": {
+        "en": "Wang Xizhi: 'To let the eyes roam and the heart gallop is enough to exhaust the pleasures of sight and sound' (所以游目骋怀，足以极视听之娱).",
+        "zh": "王羲之《兰亭集序》：“所以游目骋怀，足以极视听之娱。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; often used of enjoying nature. 骋 means 'gallop', read chěng.",
+      "zh": "书面，多形容欣赏自然风光。“骋”读 chěng。"
+    },
+    "synonyms": [
+      "心旷神怡",
+      "纵目远眺"
+    ],
+    "antonyms": [
+      "闭目塞听",
+      "郁郁寡欢"
+    ]
+  },
+  {
+    "id": "you-yi-bu-ding",
+    "text": "游移不定",
+    "pinyin": "yóu yí bù dìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "confusion-and-doubt",
+      "exam-favourites"
+    ],
+    "literal": "wander · shift · not · settled",
+    "natural": "wavering",
+    "meaning": {
+      "en": "Wavering and unable to settle on a position or decision.",
+      "zh": "摇摆不定，拿不定主意或立场不稳定。"
+    },
+    "equivalents": [
+      "waver",
+      "vacillate"
+    ],
+    "examples": [
+      {
+        "zh": "他对去留问题游移不定。",
+        "en": "He wavers over whether to stay or go."
+      },
+      {
+        "zh": "投资者态度游移不定，股市随之震荡。",
+        "en": "Investors are wavering and the market swings with them."
+      },
+      {
+        "zh": "她的眼神游移不定，显然心里有事。",
+        "en": "Her gaze kept shifting; clearly something was on her mind."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also used of eyes or attitudes. Close to 摇摆不定 but a bit more written.",
+      "zh": "多作谓语，也可形容目光、态度，比“摇摆不定”略书面。"
+    },
+    "synonyms": [
+      "摇摆不定",
+      "犹豫不决"
+    ],
+    "antonyms": [
+      "坚定不移",
+      "毫不动摇"
+    ]
+  },
+  {
+    "id": "you-yuan-wu-fen",
+    "text": "有缘无分",
+    "pinyin": "yǒu yuán wú fèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "有缘无份"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "love-and-marriage",
+      "exam-favourites"
+    ],
+    "literal": "have · fate · lack · portion",
+    "natural": "fated to meet but not to be together",
+    "meaning": {
+      "en": "To be fated to meet but not to be together; used of relationships that cannot work out.",
+      "zh": "有相遇的缘，却没有相守的福分，多指恋人或朋友终究不能在一起。"
+    },
+    "equivalents": [
+      "meant to meet but not to be",
+      "star-crossed"
+    ],
+    "examples": [
+      {
+        "zh": "他们彼此倾心，却有缘无分。",
+        "en": "They loved each other but were not destined to be together."
+      },
+      {
+        "zh": "和那所大学有缘无分，我最终去了另一所。",
+        "en": "It wasn't meant to be with that university, and I ended up at another."
+      },
+      {
+        "zh": "可惜我们有缘无分，只能各奔东西。",
+        "en": "Sadly it was not to be; we each had to go our own way."
+      }
+    ],
+    "usage": {
+      "en": "Mostly romantic regret, but can be used lightly of jobs or chances. 分 is read fèn ('lot').",
+      "zh": "多用于感情遗憾，也可轻松用于工作、机会。“分”读 fèn。"
+    },
+    "synonyms": [
+      "缘悭一面",
+      "擦肩而过"
+    ],
+    "antonyms": [
+      "缘定三生",
+      "天作之合"
+    ]
+  },
+  {
+    "id": "you-shi-ti-tong",
+    "text": "有失体统",
+    "pinyin": "yǒu shī tǐ tǒng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior",
+      "exam-favourites"
+    ],
+    "literal": "have · lose · decorum · propriety",
+    "natural": "improper and undignified",
+    "meaning": {
+      "en": "To be improper and undignified, especially for one's status.",
+      "zh": "不合乎规矩或身份，行为不得体。"
+    },
+    "equivalents": [
+      "be improper",
+      "be unbecoming"
+    ],
+    "examples": [
+      {
+        "zh": "在正式场合穿拖鞋，未免有失体统。",
+        "en": "Wearing slippers on a formal occasion is rather improper."
+      },
+      {
+        "zh": "身为教师，在课堂上大发脾气有失体统。",
+        "en": "For a teacher to lose his temper in class is unbecoming."
+      },
+      {
+        "zh": "两位代表当众争吵，有失体统。",
+        "en": "The two delegates quarrelled in public, which was undignified."
+      }
+    ],
+    "usage": {
+      "en": "Formal; used as a criticism of behaviour that is unbecoming to one's role. Compare 有伤大雅.",
+      "zh": "正式，批评行为与身份不符。可比“有伤大雅”。"
+    },
+    "synonyms": [
+      "有伤大雅",
+      "成何体统"
+    ],
+    "antonyms": [
+      "端庄得体",
+      "彬彬有礼"
+    ]
+  },
+  {
+    "id": "yu-mao-wei-feng",
+    "text": "羽毛未丰",
+    "pinyin": "yǔ máo wèi fēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "羽翼未丰"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "experience-and-old-age",
+      "exam-favourites"
+    ],
+    "literal": "feathers · not yet · full",
+    "natural": "not yet fully fledged",
+    "meaning": {
+      "en": "Not yet fully fledged: still young, immature or not strong enough to act independently.",
+      "zh": "鸟的羽毛还没有长齐，比喻年纪轻、力量弱，还不成熟。"
+    },
+    "equivalents": [
+      "not yet fledged",
+      "still wet behind the ears"
+    ],
+    "examples": [
+      {
+        "zh": "这家创业公司羽毛未丰，还经不起大风浪。",
+        "en": "The start-up is not yet fledged and cannot weather big storms."
+      },
+      {
+        "zh": "他羽毛未丰，却想挑战行业巨头。",
+        "en": "He is still green but wants to challenge the industry giants."
+      },
+      {
+        "zh": "孩子羽毛未丰，还需要父母多指点。",
+        "en": "The child is not yet fully fledged and needs more guidance from his parents."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; used of people, firms or forces. Often in 羽毛未丰，不宜…. The form 羽翼未丰 is more common in some usage.",
+      "zh": "中性，可用于人、企业或势力。“羽翼未丰”也很常用。"
+    },
+    "synonyms": [
+      "乳臭未干",
+      "初出茅庐"
+    ],
+    "antonyms": [
+      "羽翼丰满",
+      "老成持重"
+    ]
+  }
+]
