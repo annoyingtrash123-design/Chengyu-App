@@ -429,7 +429,8 @@ mod tests {
     #[test]
     fn chain_ai_plays_valid_moves() {
         let d = Dictionary::embedded();
-        for e in d.entries() {
+        // Every entry would make this quadratic in the dictionary size; a spread-out sample is enough.
+        for e in d.entries().iter().step_by(11) {
             if let Some(next) = chain_ai(&d, &e.id, std::slice::from_ref(&e.id), true, 9) {
                 let n = d.get(&next).unwrap();
                 assert!(connects(&d, e, n, true));

@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "zhuo-dao-dai-bi",
+    "text": "捉刀代笔",
+    "pinyin": "zhuō dāo dài bǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "hold · knife · substitute · pen",
+    "natural": "ghostwrite",
+    "meaning": {
+      "en": "To write something on someone else's behalf, usually a speech or article that is passed off as theirs.",
+      "zh": "替别人写文章或讲话稿，由别人署名。"
+    },
+    "equivalents": [
+      "ghostwrite",
+      "write on someone's behalf"
+    ],
+    "examples": [
+      {
+        "zh": "这本回忆录是他请人捉刀代笔的。",
+        "en": "This memoir was ghostwritten for him."
+      },
+      {
+        "zh": "领导的发言稿一向由秘书捉刀代笔。",
+        "en": "The boss's speeches are always drafted by his secretary."
+      },
+      {
+        "zh": "论文不能找人捉刀代笔，否则算作弊。",
+        "en": "You can't have someone write your thesis for you; that counts as cheating."
+      }
+    ],
+    "origin": {
+      "source": "《世说新语·容止》",
+      "story": {
+        "en": "Cao Cao, feeling unimpressive in appearance, had a handsome officer receive an envoy while he stood by holding a sword as a guard; the envoy still saw through it. 'Holding the sword' came to mean standing in for someone, then writing for them.",
+        "zh": "魏武帝自以为形貌丑陋，让崔季珪代为接见匈奴使者，自己握刀立于床头。后来“捉刀”指代人做事，尤指代人写作。"
+      }
+    },
+    "usage": {
+      "en": "Verb phrase, neutral to slightly critical. The 'knife' is a sword, not a pen: the 捉刀 part comes from a story about a stand-in guard.",
+      "zh": "作谓语，中性略带贬义。“刀”指佩刀，“捉刀”源自替人站岗的故事。"
+    },
+    "synonyms": [
+      "代人执笔",
+      "枪手"
+    ],
+    "antonyms": [
+      "亲笔",
+      "亲自动笔"
+    ]
+  },
+  {
+    "id": "zhi-si-yi-fen",
+    "text": "治丝益棼",
+    "pinyin": "zhì sī yì fén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "mistakes-and-correction",
+      "chaos",
+      "historical-records"
+    ],
+    "literal": "manage · silk threads · more · tangled",
+    "natural": "make things worse by meddling",
+    "meaning": {
+      "en": "To make a tangle worse by trying to sort it out the wrong way, so that a problem grows more confused.",
+      "zh": "整理乱丝反而越理越乱，比喻做事方法不对，使问题更加复杂。"
+    },
+    "equivalents": [
+      "make matters worse",
+      "untangle in the wrong way"
+    ],
+    "examples": [
+      {
+        "zh": "他想用谎话掩盖错误，结果治丝益棼。",
+        "en": "He tried to cover up his mistake with lies and only made the mess worse."
+      },
+      {
+        "zh": "方案改来改去，反而治丝益棼，团队更糊涂了。",
+        "en": "The plan was revised again and again, only deepening the confusion."
+      },
+      {
+        "zh": "对旧制度的零敲碎打，只会治丝益棼。",
+        "en": "Piecemeal tinkering with the old system will only add to the muddle."
+      }
+    ],
+    "origin": {
+      "source": "《左传·隐公四年》",
+      "story": {
+        "en": "Zhongzhong said Zhouxu's rebellion was like 'sorting silk threads yet tangling them further' (犹治丝而棼之也).",
+        "zh": "《左传》：“犹治丝而棼之也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; derogatory, formal or written. 棼 is read fén (tangled), not fēn.",
+      "zh": "作谓语，含贬义，多用于书面。“棼”读fén，意为纷乱。"
+    },
+    "synonyms": [
+      "越描越黑",
+      "火上浇油"
+    ],
+    "antonyms": [
+      "迎刃而解",
+      "拨乱反正"
+    ]
+  },
+  {
+    "id": "shan-zhen-wen-qin",
+    "text": "扇枕温衾",
+    "pinyin": "shàn zhěn wēn qīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety"
+    ],
+    "literal": "fan · pillow · warm · quilt",
+    "natural": "look after one's parents devotedly",
+    "meaning": {
+      "en": "To fan your parents' pillow in summer and warm their quilt in winter; to care for them attentively.",
+      "zh": "夏天为父母扇凉枕席，冬天为父母暖被，形容子女孝顺、照顾周到。"
+    },
+    "equivalents": [
+      "care for one's parents attentively",
+      "devoted filial service"
+    ],
+    "examples": [
+      {
+        "zh": "他远离家乡，无法扇枕温衾，心中常感愧疚。",
+        "en": "Far from home, he cannot look after his parents day to day and often feels guilty."
+      },
+      {
+        "zh": "古人讲究晨昏定省、扇枕温衾，以尽孝道。",
+        "en": "The ancients stressed daily greetings and tending to parents' comfort as filial duty."
+      },
+      {
+        "zh": "她辞去工作回乡，只为在父母身边扇枕温衾。",
+        "en": "She quit her job and went home just to look after her parents."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; literary, praising filial piety. Used with 黄香 as the classic exemplar.",
+      "zh": "作谓语、定语，书面语，多赞孝行；典型人物是东汉黄香。"
+    },
+    "synonyms": [
+      "晨昏定省",
+      "孝养父母"
+    ],
+    "antonyms": [
+      "忤逆不孝",
+      "不孝"
+    ]
+  },
+  {
+    "id": "meng-mu-ze-lin",
+    "text": "孟母择邻",
+    "pinyin": "mèng mǔ zé lín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "confucian-classics"
+    ],
+    "literal": "Mencius' · mother · choose · neighbours",
+    "natural": "choosing a good environment for one's children",
+    "meaning": {
+      "en": "To choose a good neighbourhood for a child's upbringing, as Mencius' mother did; stressing the effect of environment on children.",
+      "zh": "孟子的母亲为了给孩子好的成长环境而搬家，比喻为子女选择良好的环境。"
+    },
+    "equivalents": [
+      "move to a better neighbourhood for the kids",
+      "a good environment shapes a child"
+    ],
+    "examples": [
+      {
+        "zh": "为了孩子上学，他们像孟母择邻一样搬到了学区房。",
+        "en": "For their child's schooling they moved into a good school district, like Mencius' mother."
+      },
+      {
+        "zh": "孟母择邻的故事提醒家长重视孩子的成长环境。",
+        "en": "The story of Mencius' mother reminds parents to care about their children's surroundings."
+      },
+      {
+        "zh": "她孟母择邻，把孩子送进书香氛围浓厚的社区。",
+        "en": "Like Mencius' mother, she put her child in a bookish neighbourhood."
+      }
+    ],
+    "origin": {
+      "source": "《列女传·母仪》",
+      "story": {
+        "en": "Mencius' mother moved three times, from near a graveyard to near a market to near a school, until the surroundings suited her son's learning.",
+        "zh": "《列女传》载孟母为教子，先后迁居墓旁、市旁，最后迁到学宫旁。"
+      }
+    },
+    "usage": {
+      "en": "Usually describes parents' choices; commendatory. Often written 孟母三迁 too.",
+      "zh": "多指父母为孩子选环境，含褒义；也常作“孟母三迁”。"
+    },
+    "synonyms": [
+      "孟母三迁",
+      "近朱者赤"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "wei-ren-zuo-jia",
+    "text": "为人作嫁",
+    "pinyin": "wèi rén zuò jià",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "unintended-results",
+      "wedding-wishes"
+    ],
+    "literal": "for · others · make · wedding clothes",
+    "natural": "work only for someone else's benefit",
+    "meaning": {
+      "en": "To do hard work only for the benefit of others, getting nothing for yourself.",
+      "zh": "为别人做嫁衣，比喻白白辛苦，让别人得到好处。"
+    },
+    "equivalents": [
+      "do all the work for someone else's gain",
+      "slave away for nothing"
+    ],
+    "examples": [
+      {
+        "zh": "我们辛苦研发，结果只是为人作嫁。",
+        "en": "We worked hard on development and ended up doing it for someone else."
+      },
+      {
+        "zh": "代工厂利润微薄，常有为人作嫁的感叹。",
+        "en": "Contract manufacturers earn little and often feel they are working for others."
+      },
+      {
+        "zh": "别总为人作嫁，也要为自己打算。",
+        "en": "Don't keep working for others' benefit; think of yourself too."
+      }
+    ],
+    "origin": {
+      "source": "秦韬玉《贫女》",
+      "story": {
+        "en": "A poor girl who can embroider fine gold thread laments: 'Year after year I press gold thread, making wedding clothes for others' (苦恨年年压金线，为他人作嫁衣裳).",
+        "zh": "唐诗：“苦恨年年压金线，为他人作嫁衣裳。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; slightly rueful. The original 'wedding dress' image is of a poor seamstress.",
+      "zh": "作谓语，带无奈、惋惜的语气。原诗写贫女为别人做嫁衣。"
+    },
+    "synonyms": [
+      "徒劳无功",
+      "替人做嫁衣裳"
+    ],
+    "antonyms": [
+      "自食其力",
+      "为己谋利"
+    ]
+  },
+  {
+    "id": "shan-hu-hai-xiao",
+    "text": "山呼海啸",
+    "pinyin": "shān hū hǎi xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "harsh-natural-conditions",
+      "public-opinion"
+    ],
+    "literal": "mountains · shout · sea · roar",
+    "natural": "thunderous roar",
+    "meaning": {
+      "en": "Mountains calling and the sea roaring: describes a huge, thundering noise, or a great force or crowd in motion.",
+      "zh": "像山在呼喊、海在咆哮，形容声势浩大，场面壮观。"
+    },
+    "equivalents": [
+      "a deafening roar",
+      "thunderous acclaim"
+    ],
+    "examples": [
+      {
+        "zh": "球进了，体育场里顿时山呼海啸。",
+        "en": "When the ball went in, the stadium erupted in a thunderous roar."
+      },
+      {
+        "zh": "台风登陆时山呼海啸，令人胆寒。",
+        "en": "As the typhoon landed, it roared like mountains and sea, chilling to hear."
+      },
+      {
+        "zh": "改革的浪潮山呼海啸般涌来。",
+        "en": "The tide of reform came surging in with tremendous force."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; vivid, written. Not necessarily bad: it can be awe-inspiring or exciting.",
+      "zh": "作定语、谓语，形象生动，多用于书面；不一定贬义，可表壮观。"
+    },
+    "synonyms": [
+      "排山倒海",
+      "惊天动地"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "tou-mei-er-qi",
+    "text": "投袂而起",
+    "pinyin": "tóu mèi ér qǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "historical-records"
+    ],
+    "literal": "fling · sleeve · and · rise",
+    "natural": "leap up in resolve",
+    "meaning": {
+      "en": "To fling out one's sleeve and spring up, resolved to act; to take decisive action in anger or determination.",
+      "zh": "甩袖而起，形容下定决心，立刻行动。"
+    },
+    "equivalents": [
+      "spring to action",
+      "rise resolutely"
+    ],
+    "examples": [
+      {
+        "zh": "听说同胞受难，他投袂而起，立即赶赴灾区。",
+        "en": "Hearing of his compatriots' suffering, he sprang into action and rushed to the disaster zone."
+      },
+      {
+        "zh": "面对不公，她投袂而起，为村民讨说法。",
+        "en": "Faced with injustice, she rose up to seek redress for the villagers."
+      },
+      {
+        "zh": "全队投袂而起，誓要夺回冠军。",
+        "en": "The whole team rose resolutely, determined to win back the title."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十四年》",
+      "story": {
+        "en": "On hearing that his envoy had been killed in Song, King Zhuang of Chu flung out his sleeve and rose up (楚子闻之，投袂而起).",
+        "zh": "《左传》：“楚子闻之，投袂而起。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary, positive. 袂 (mèi) means sleeve.",
+      "zh": "作谓语，书面语，含褒义。“袂”读mèi，指衣袖。"
+    },
+    "synonyms": [
+      "挺身而出",
+      "奋起直追"
+    ],
+    "antonyms": [
+      "袖手旁观",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "yi-ran-gu-wo",
+    "text": "依然故我",
+    "pinyin": "yī rán gù wǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change"
+    ],
+    "literal": "still · as · before · me",
+    "natural": "still the same old me",
+    "meaning": {
+      "en": "Remaining the same as before, unchanged despite circumstances or advice; often implies stubbornness.",
+      "zh": "仍然是老样子，没有改变。"
+    },
+    "equivalents": [
+      "still the same old me",
+      "unchanged"
+    ],
+    "examples": [
+      {
+        "zh": "批评了多次，他依然故我。",
+        "en": "He has been criticised many times but carries on just as before."
+      },
+      {
+        "zh": "名满天下后，她依然故我，生活简朴。",
+        "en": "Even after becoming famous, she remained her old self and lived simply."
+      },
+      {
+        "zh": "城市日新月异，这家老店却依然故我。",
+        "en": "The city changes daily, yet this old shop stays just as it was."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral, but with critical tone when about faults and praise when about staying humble. Always refers to a person's manner.",
+      "zh": "作谓语，中性；用于缺点时含贬义，用于保持本色时含褒义。"
+    },
+    "synonyms": [
+      "一如既往",
+      "我行我素"
+    ],
+    "antonyms": [
+      "脱胎换骨",
+      "改头换面"
+    ]
+  },
+  {
+    "id": "gan-dan-zhao-ren",
+    "text": "肝胆照人",
+    "pinyin": "gān dǎn zhào rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "frankness-and-candour"
+    ],
+    "literal": "liver · gall bladder · illuminate · people",
+    "natural": "sincere and open-hearted",
+    "meaning": {
+      "en": "To treat others with complete sincerity and loyalty, as if one's liver and gall were laid open to view.",
+      "zh": "以真心诚意待人，坦诚忠诚。"
+    },
+    "equivalents": [
+      "wholehearted sincerity",
+      "open and loyal"
+    ],
+    "examples": [
+      {
+        "zh": "他为人肝胆照人，朋友遍天下。",
+        "en": "He is utterly sincere with others and has friends everywhere."
+      },
+      {
+        "zh": "两位老友肝胆照人，从不猜疑。",
+        "en": "The two old friends are completely open with each other and never doubt."
+      },
+      {
+        "zh": "她对待同事肝胆照人，赢得大家信任。",
+        "en": "She is wholeheartedly sincere towards colleagues and has won everyone's trust."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; commendatory. Liver and gall stand for courage and true feeling.",
+      "zh": "作谓语、定语，含褒义。肝胆比喻勇气和真情。"
+    },
+    "synonyms": [
+      "推心置腹",
+      "披肝沥胆"
+    ],
+    "antonyms": [
+      "口蜜腹剑",
+      "虚情假意"
+    ]
+  },
+  {
+    "id": "ji-bu-xia-ze",
+    "text": "急不暇择",
+    "pinyin": "jí bù xiá zé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "urgent · no · leisure · choose",
+    "natural": "too pressed to be choosy",
+    "meaning": {
+      "en": "So pressed by urgency that there is no time to choose carefully; taking whatever is at hand.",
+      "zh": "情况紧急，来不及选择。"
+    },
+    "equivalents": [
+      "no time to be choosy",
+      "beggars can't be choosers"
+    ],
+    "examples": [
+      {
+        "zh": "要赶火车，他急不暇择，随手抓了件外套就跑。",
+        "en": "Rushing for the train, he grabbed whatever coat was at hand and ran."
+      },
+      {
+        "zh": "资金链断裂，公司急不暇择，接受了苛刻条件。",
+        "en": "With funding drying up, the firm had no choice but to accept harsh terms."
+      },
+      {
+        "zh": "急不暇择之下，她选了第一家租房中介。",
+        "en": "In a rush, she chose the first rental agent she found."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; written. Often used for hurried, unsatisfactory choices.",
+      "zh": "作谓语，多用于书面，常指仓促而不理想的选择。"
+    },
+    "synonyms": [
+      "饥不择食",
+      "慌不择路"
+    ],
+    "antonyms": [
+      "精挑细选",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "zhi-shu-da-li",
+    "text": "知书达理",
+    "pinyin": "zhī shū dá lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "知书达礼"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "reading-and-study"
+    ],
+    "literal": "know · books · understand · propriety",
+    "natural": "well-read and well-mannered",
+    "meaning": {
+      "en": "Educated and understanding of proper conduct; cultured and reasonable.",
+      "zh": "有文化修养，懂得道理，通情达理。"
+    },
+    "equivalents": [
+      "cultured and courteous",
+      "well-read and sensible"
+    ],
+    "examples": [
+      {
+        "zh": "她知书达理，待人接物很有分寸。",
+        "en": "She is cultured and courteous, and handles people with tact."
+      },
+      {
+        "zh": "这位知书达理的老师深受学生爱戴。",
+        "en": "This well-bred, well-read teacher is much loved by her students."
+      },
+      {
+        "zh": "他出身书香门第，从小知书达理。",
+        "en": "Born into a scholarly family, he has been well-read and mannered since childhood."
+      }
+    ],
+    "usage": {
+      "en": "Mostly attributive or predicate, often used for women or the young; commendatory. Also written 知书达礼.",
+      "zh": "多作定语、谓语，常用于称赞女子或晚辈，含褒义；也作“知书达礼”。"
+    },
+    "synonyms": [
+      "通情达理",
+      "彬彬有礼"
+    ],
+    "antonyms": [
+      "粗鲁无礼",
+      "不学无术"
+    ]
+  },
+  {
+    "id": "nu-mu-yuan-zheng",
+    "text": "怒目圆睁",
+    "pinyin": "nù mù yuán zhēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger"
+    ],
+    "literal": "angry · eyes · round · open wide",
+    "natural": "glaring in anger",
+    "meaning": {
+      "en": "Eyes wide open and glaring in fury.",
+      "zh": "愤怒地瞪大眼睛。"
+    },
+    "equivalents": [
+      "glare angrily",
+      "eyes blazing with anger"
+    ],
+    "examples": [
+      {
+        "zh": "他怒目圆睁，指着对方大喝一声。",
+        "en": "He glared furiously and shouted at the other man, pointing."
+      },
+      {
+        "zh": "门神怒目圆睁，威风凛凛。",
+        "en": "The door god glares with wide eyes, fearsome and majestic."
+      },
+      {
+        "zh": "听到这个消息，老板怒目圆睁，拍案而起。",
+        "en": "On hearing the news, the boss glared in rage and slammed the table."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; descriptive. Common in fiction and narrative.",
+      "zh": "作谓语、状语，多用于叙事描写。"
+    },
+    "synonyms": [
+      "怒目而视",
+      "横眉怒目"
+    ],
+    "antonyms": [
+      "笑逐颜开",
+      "心平气和"
+    ]
+  },
+  {
+    "id": "wen-cong-zi-shun",
+    "text": "文从字顺",
+    "pinyin": "wén cóng zì shùn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "excellent-writing",
+      "poems-prose"
+    ],
+    "literal": "writing · follows · characters · smooth",
+    "natural": "fluent and well-phrased",
+    "meaning": {
+      "en": "Writing that reads smoothly, with fitting words and clear structure.",
+      "zh": "文章通顺，用词妥帖。"
+    },
+    "equivalents": [
+      "fluent and coherent",
+      "well phrased"
+    ],
+    "examples": [
+      {
+        "zh": "这篇作文文从字顺，条理清楚。",
+        "en": "This essay is fluent and clearly organised."
+      },
+      {
+        "zh": "修改后的稿子文从字顺，读起来舒服多了。",
+        "en": "The revised draft reads smoothly and is far more pleasant."
+      },
+      {
+        "zh": "翻译要做到文从字顺，不能生硬。",
+        "en": "A translation should be fluent, not stilted."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《南阳樊绍述墓志铭》",
+      "story": {
+        "en": "Han Yu praises Fan Shaoshu's prose: 'each word in its proper place, the writing flowing' (文从字顺各识职).",
+        "zh": "韩愈称赞樊绍述的文章：“文从字顺各识职。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; praise of writing quality. Commonly used in school and editing contexts.",
+      "zh": "作谓语、定语，称赞文章通顺，常见于教学与编辑场合。"
+    },
+    "synonyms": [
+      "通顺流畅",
+      "条理分明"
+    ],
+    "antonyms": [
+      "词不达意",
+      "语无伦次"
+    ]
+  },
+  {
+    "id": "ji-ren-zhi-nan",
+    "text": "急人之难",
+    "pinyin": "jí rén zhī nán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "hurry · others · 's · trouble",
+    "natural": "rush to help others in trouble",
+    "meaning": {
+      "en": "To be eager to help others in their difficulties.",
+      "zh": "热心帮助别人解决困难。"
+    },
+    "equivalents": [
+      "come quickly to others' aid",
+      "help in time of need"
+    ],
+    "examples": [
+      {
+        "zh": "他急人之难，邻居有事总找他。",
+        "en": "He rushes to help in trouble, so neighbours always turn to him."
+      },
+      {
+        "zh": "这位企业家急人之难，捐款无数。",
+        "en": "This entrepreneur has donated generously, always ready to help those in need."
+      },
+      {
+        "zh": "朋友遇到麻烦，她总是急人之难。",
+        "en": "When friends are in trouble, she is always first to help."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; commendatory. Often paired with 乐善好施.",
+      "zh": "作谓语，含褒义，常与“乐善好施”连用。"
+    },
+    "synonyms": [
+      "雪中送炭",
+      "仗义疏财"
+    ],
+    "antonyms": [
+      "见死不救",
+      "袖手旁观"
+    ]
+  },
+  {
+    "id": "men-sheng-gu-jiu",
+    "text": "门生故旧",
+    "pinyin": "mén shēng gù jiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "disciples · students · old · friends",
+    "natural": "pupils and old acquaintances",
+    "meaning": {
+      "en": "A person's former students and old friends; the network of connections built up over a career.",
+      "zh": "门下的学生和旧友，泛指关系网。"
+    },
+    "equivalents": [
+      "protégés and old friends",
+      "one's network of old connections"
+    ],
+    "examples": [
+      {
+        "zh": "他的门生故旧遍布政界和学界。",
+        "en": "His former students and old friends are everywhere in politics and academia."
+      },
+      {
+        "zh": "寿宴上，门生故旧齐聚一堂。",
+        "en": "At the birthday banquet, his protégés and old friends all gathered."
+      },
+      {
+        "zh": "门生故旧的举荐帮了他不少忙。",
+        "en": "Recommendations from his protégés and old acquaintances helped him a lot."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; neutral, but can imply cronyism in discussions of patronage.",
+      "zh": "名词性，中性；谈论人情关系时可带结党的意味。"
+    },
+    "synonyms": [
+      "桃李满天下",
+      "亲朋故旧"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ma-shi-qian-ti",
+    "text": "马失前蹄",
+    "pinyin": "mǎ shī qián tí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "near-misses-and-setbacks"
+    ],
+    "literal": "horse · loses · front · hoof",
+    "natural": "suffer an unexpected stumble",
+    "meaning": {
+      "en": "Even a skilled person or favourite can suffer an unexpected failure through carelessness.",
+      "zh": "比喻有经验的人或强者因疏忽而遭遇意外失败。"
+    },
+    "equivalents": [
+      "come a cropper",
+      "stumble at the final hurdle"
+    ],
+    "examples": [
+      {
+        "zh": "夺冠热门在半决赛马失前蹄，让人意外。",
+        "en": "The title favourite came a cropper in the semi-final, a big surprise."
+      },
+      {
+        "zh": "他做事一向稳妥，这次竟然马失前蹄。",
+        "en": "He is normally careful, yet this time he slipped up."
+      },
+      {
+        "zh": "再有经验也要小心，免得马失前蹄。",
+        "en": "Even the experienced must be careful lest they stumble."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often used of sports or business upsets. Neutral to sympathetic, often as a warning.",
+      "zh": "作谓语，多用于比赛、事业中的意外失利，常带警示意味。"
+    },
+    "synonyms": [
+      "阴沟里翻船",
+      "百密一疏"
+    ],
+    "antonyms": [
+      "稳操胜券",
+      "万无一失"
+    ]
+  },
+  {
+    "id": "mie-men-zhi-huo",
+    "text": "灭门之祸",
+    "pinyin": "miè mén zhī huò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "wipe out · household · 's · disaster",
+    "natural": "calamity that wipes out a whole family",
+    "meaning": {
+      "en": "A disaster in which an entire family is killed or destroyed.",
+      "zh": "全家被杀害或毁灭的灾祸。"
+    },
+    "equivalents": [
+      "the destruction of a whole family",
+      "family annihilation"
+    ],
+    "examples": [
+      {
+        "zh": "一场仇杀，给这个家族带来了灭门之祸。",
+        "en": "A vendetta brought the whole family to destruction."
+      },
+      {
+        "zh": "他得罪了权贵，招来灭门之祸。",
+        "en": "He offended the powerful and brought disaster on his entire family."
+      },
+      {
+        "zh": "影片讲述一家人遭遇灭门之祸后的复仇。",
+        "en": "The film tells of a family's revenge after its near-annihilation."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; used of history and crime stories. Also 灭门惨案 in news.",
+      "zh": "名词性，多用于历史和案件叙事；新闻中也说“灭门惨案”。"
+    },
+    "synonyms": [
+      "杀身之祸",
+      "飞来横祸"
+    ],
+    "antonyms": [
+      "平安无事",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "wang-sun-gong-zi",
+    "text": "王孙公子",
+    "pinyin": "wáng sūn gōng zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "luxury-and-extravagance"
+    ],
+    "literal": "prince · grandson · duke's · son",
+    "natural": "sons of the nobility",
+    "meaning": {
+      "en": "Young men from noble or wealthy families, usually pampered.",
+      "zh": "旧时指贵族或富家子弟。"
+    },
+    "equivalents": [
+      "scions of noble families",
+      "pampered rich young men"
+    ],
+    "examples": [
+      {
+        "zh": "宴席上坐满了王孙公子。",
+        "en": "The banquet was filled with noble scions."
+      },
+      {
+        "zh": "他虽是王孙公子，却不爱奢华。",
+        "en": "Though a nobleman's son, he disliked extravagance."
+      },
+      {
+        "zh": "小说描写了王孙公子的浮华生活。",
+        "en": "The novel depicts the showy life of aristocratic young men."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; literary, can be slightly mocking. Mainly historical.",
+      "zh": "名词性，书面语，略带讽刺，多指旧时。"
+    },
+    "synonyms": [
+      "纨绔子弟",
+      "贵公子"
+    ],
+    "antonyms": [
+      "平民百姓",
+      "寒门子弟"
+    ]
+  },
+  {
+    "id": "ming-xia-wu-xu",
+    "text": "名下无虚",
+    "pinyin": "míng xià wú xū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "name · under · no · empty",
+    "natural": "living up to one's reputation",
+    "meaning": {
+      "en": "A famous reputation is fully earned; the real thing lives up to its name.",
+      "zh": "名声与实际相符，没有虚假。"
+    },
+    "equivalents": [
+      "live up to one's reputation",
+      "deserve one's name"
+    ],
+    "examples": [
+      {
+        "zh": "亲眼见他演奏，才知道名下无虚。",
+        "en": "Seeing him play in person, I knew his fame was well deserved."
+      },
+      {
+        "zh": "这家老字号果然名下无虚。",
+        "en": "This old brand really lives up to its name."
+      },
+      {
+        "zh": "大师的作品名下无虚，令人折服。",
+        "en": "The master's works justify his fame and are truly convincing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, praise. Often follows 果然.",
+      "zh": "作谓语，褒义，较书面，常与“果然”连用。"
+    },
+    "synonyms": [
+      "名不虚传",
+      "实至名归"
+    ],
+    "antonyms": [
+      "名不副实",
+      "徒有虚名"
+    ]
+  },
+  {
+    "id": "ming-men-wang-zu",
+    "text": "名门望族",
+    "pinyin": "míng mén wàng zú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "family-and-home"
+    ],
+    "literal": "famous · family · renowned · clan",
+    "natural": "distinguished family",
+    "meaning": {
+      "en": "A family of high social standing and prestige.",
+      "zh": "有名望、有地位的家族。"
+    },
+    "equivalents": [
+      "a distinguished family",
+      "prominent clan"
+    ],
+    "examples": [
+      {
+        "zh": "她出身名门望族，家教极好。",
+        "en": "She comes from a distinguished family and was brought up well."
+      },
+      {
+        "zh": "这座古宅曾属一户名门望族。",
+        "en": "This old house once belonged to a prominent family."
+      },
+      {
+        "zh": "小说主人公是江南的名门望族之后。",
+        "en": "The protagonist descends from a prominent family of the Jiangnan region."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; mostly commendatory.",
+      "zh": "名词性，多含褒义。"
+    },
+    "synonyms": [
+      "书香门第",
+      "世家大族"
+    ],
+    "antonyms": [
+      "寒门小户",
+      "平民百姓"
+    ]
+  },
+  {
+    "id": "mei-mu-ru-hua",
+    "text": "眉目如画",
+    "pinyin": "méi mù rú huà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "brows · eyes · like · painting",
+    "natural": "delicately beautiful features",
+    "meaning": {
+      "en": "Features as fine as a painting; elegantly handsome or beautiful.",
+      "zh": "眉眼清秀，像画出来的一样。"
+    },
+    "equivalents": [
+      "picture-perfect features",
+      "striking looks"
+    ],
+    "examples": [
+      {
+        "zh": "画中少女眉目如画，令人难忘。",
+        "en": "The girl in the painting has picture-perfect features and is unforgettable."
+      },
+      {
+        "zh": "他眉目如画，是学校里的美男子。",
+        "en": "With his fine features, he is the handsome boy of the school."
+      },
+      {
+        "zh": "这位女演员眉目如画，气质出众。",
+        "en": "The actress has finely drawn features and exceptional poise."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praise of looks. Used for both genders.",
+      "zh": "作谓语、定语，称赞容貌，男女皆可用。"
+    },
+    "synonyms": [
+      "清秀俊美",
+      "明眸皓齿"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "面目可憎"
+    ]
+  },
+  {
+    "id": "bu-cheng-zhi-tu",
+    "text": "不逞之徒",
+    "pinyin": "bù chěng zhī tú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · satisfied · 's · people",
+    "natural": "lawless troublemakers",
+    "meaning": {
+      "en": "People who, frustrated, make trouble and break the law; ruffians.",
+      "zh": "因不得志而为非作歹的人。"
+    },
+    "equivalents": [
+      "lawless thugs",
+      "troublemakers"
+    ],
+    "examples": [
+      {
+        "zh": "几个不逞之徒在街上寻衅滋事。",
+        "en": "A few thugs were picking fights on the street."
+      },
+      {
+        "zh": "警方抓获了一批不逞之徒。",
+        "en": "The police arrested a group of ruffians."
+      },
+      {
+        "zh": "别和这些不逞之徒来往。",
+        "en": "Don't hang about with these louts."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; derogatory. 逞 here means 'be satisfied/have one's way'.",
+      "zh": "名词性，含贬义。“逞”意为称心、得志。"
+    },
+    "synonyms": [
+      "亡命之徒",
+      "无赖之徒"
+    ],
+    "antonyms": [
+      "正人君子",
+      "良善之辈"
+    ]
+  },
+  {
+    "id": "hui-zhi-wu-ji",
+    "text": "悔之无及",
+    "pinyin": "huǐ zhī wú jí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "悔之不及"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction"
+    ],
+    "literal": "regret · it · no · reach",
+    "natural": "too late to regret",
+    "meaning": {
+      "en": "Regret that comes too late to change anything.",
+      "zh": "后悔也来不及了。"
+    },
+    "equivalents": [
+      "too late for regrets",
+      "rue it when it's too late"
+    ],
+    "examples": [
+      {
+        "zh": "早不努力，现在悔之无及。",
+        "en": "He didn't work hard earlier and now it is too late for regrets."
+      },
+      {
+        "zh": "轻信骗子，等到被骗光积蓄才悔之无及。",
+        "en": "He trusted the swindler and regretted it only after losing his savings."
+      },
+      {
+        "zh": "现在不保护环境，将来必然悔之无及。",
+        "en": "If we don't protect the environment now, we will surely regret it too late."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in warnings. Also 悔之不及.",
+      "zh": "作谓语，常用于警示；也作“悔之不及”。"
+    },
+    "synonyms": [
+      "追悔莫及",
+      "悔不当初"
+    ],
+    "antonyms": [
+      "防患未然",
+      "未雨绸缪"
+    ]
+  },
+  {
+    "id": "zhi-ren-zhi-ming",
+    "text": "知人之明",
+    "pinyin": "zhī rén zhī míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "mental-clarity",
+      "leadership-and-authority"
+    ],
+    "literal": "know · people · 's · insight",
+    "natural": "good judgement of character",
+    "meaning": {
+      "en": "The insight to judge people's character and ability correctly.",
+      "zh": "能识别人才、了解人的见识。"
+    },
+    "equivalents": [
+      "an eye for talent",
+      "good judge of character"
+    ],
+    "examples": [
+      {
+        "zh": "老板很有知人之明，选的人都很合适。",
+        "en": "The boss has a good eye for talent; everyone he picks is a good fit."
+      },
+      {
+        "zh": "没有知人之明，就难以选好接班人。",
+        "en": "Without good judgement of people, it's hard to choose a successor."
+      },
+      {
+        "zh": "她缺乏知人之明，屡次被朋友欺骗。",
+        "en": "She lacks judgement of character and is repeatedly cheated by friends."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase, often 有/缺乏知人之明; typically used about leaders. Often paired with 自知之明.",
+      "zh": "名词性，常作“有/缺乏知人之明”，多指领导者；常与“自知之明”对举。"
+    },
+    "synonyms": [
+      "慧眼识人",
+      "知人善任"
+    ],
+    "antonyms": [
+      "有眼无珠",
+      "识人不明"
+    ]
+  },
+  {
+    "id": "qiao-shou-yi-dai",
+    "text": "翘首以待",
+    "pinyin": "qiáo shǒu yǐ dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "raise · head · to · wait",
+    "natural": "wait eagerly",
+    "meaning": {
+      "en": "To lift one's head and wait expectantly; to look forward to something eagerly.",
+      "zh": "抬起头来盼望等待，形容殷切期待。"
+    },
+    "equivalents": [
+      "wait eagerly",
+      "look forward expectantly"
+    ],
+    "examples": [
+      {
+        "zh": "球迷们翘首以待新赛季开始。",
+        "en": "Fans are eagerly waiting for the new season."
+      },
+      {
+        "zh": "全家人翘首以待他的归来。",
+        "en": "The whole family is eagerly awaiting his return."
+      },
+      {
+        "zh": "新书上市前，读者已翘首以待。",
+        "en": "Before the book came out, readers were already looking forward to it."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 翘 reads qiáo here (not qiào). Common in news and announcements.",
+      "zh": "作谓语，“翘”读qiáo；常见于新闻和公告。"
+    },
+    "synonyms": [
+      "引颈而望",
+      "望眼欲穿"
+    ],
+    "antonyms": [
+      "漠不关心",
+      "无动于衷"
+    ]
+  }
+]

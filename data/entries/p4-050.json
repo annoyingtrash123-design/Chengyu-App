@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "gou-quan-xing-ming",
+    "text": "苟全性命",
+    "pinyin": "gǒu quán xìng mìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "danger",
+      "polite-humble"
+    ],
+    "literal": "barely · preserve · life",
+    "natural": "just scrape through alive",
+    "meaning": {
+      "en": "To merely keep oneself alive in troubled times, with no ambition beyond survival.",
+      "zh": "在乱世中勉强保全生命，不求有什么作为。"
+    },
+    "equivalents": [
+      "merely survive",
+      "scrape by in turbulent times"
+    ],
+    "examples": [
+      {
+        "zh": "战乱年代，百姓只求苟全性命。",
+        "en": "In the years of war, ordinary people asked only to survive."
+      },
+      {
+        "zh": "他在高压环境下苟全性命，不敢多言。",
+        "en": "Under heavy pressure he kept his head down just to survive."
+      },
+      {
+        "zh": "我们不能满足于苟全性命，还要追求更好的生活。",
+        "en": "We cannot be content with mere survival; we should seek a better life."
+      }
+    ],
+    "origin": {
+      "source": "诸葛亮《出师表》",
+      "story": {
+        "en": "Zhuge Liang recalls that in his youth he only wished to 'preserve my life in troubled times, not seeking fame among the nobles' (苟全性命于乱世，不求闻达于诸侯).",
+        "zh": "《出师表》：“苟全性命于乱世，不求闻达于诸侯。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary. Often self-deprecating, citing Zhuge Liang's modest wish to live quietly.",
+      "zh": "作谓语，书面语，常带自谦意味，出自诸葛亮自述。"
+    },
+    "synonyms": [
+      "苟且偷生",
+      "忍辱偷生"
+    ],
+    "antonyms": [
+      "舍生取义",
+      "视死如归"
+    ]
+  },
+  {
+    "id": "min-qiong-cai-jin",
+    "text": "民穷财尽",
+    "pinyin": "mín qióng cái jìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poverty-and-hardship",
+      "political-corruption"
+    ],
+    "literal": "people · poor · wealth · exhausted",
+    "natural": "people impoverished and resources spent",
+    "meaning": {
+      "en": "The people are poor and the nation's resources used up; a country drained by hardship.",
+      "zh": "百姓贫困，财物耗尽，形容国家或地区经济极度衰败。"
+    },
+    "equivalents": [
+      "bled dry",
+      "a ruined economy"
+    ],
+    "examples": [
+      {
+        "zh": "连年战乱，国家民穷财尽。",
+        "en": "After years of war, the country was drained of people and wealth."
+      },
+      {
+        "zh": "苛捐杂税使得地方民穷财尽。",
+        "en": "Heavy taxes left the region impoverished."
+      },
+      {
+        "zh": "大兴土木到民穷财尽，终将动摇国本。",
+        "en": "Building on a grand scale until the people are ruined will eventually shake the state."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, historical tone.",
+      "zh": "作谓语，书面语，带历史语气。"
+    },
+    "synonyms": [
+      "民不聊生",
+      "家徒四壁"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "民殷财阜"
+    ]
+  },
+  {
+    "id": "yi-duan-xie-shuo",
+    "text": "异端邪说",
+    "pinyin": "yì duān xié shuō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "heterodox · extreme · evil · doctrine",
+    "natural": "heresy",
+    "meaning": {
+      "en": "Doctrines that go against the accepted orthodoxy, regarded as wrong or harmful.",
+      "zh": "不合正统的、有害的学说或言论。"
+    },
+    "equivalents": [
+      "heresy and false doctrines",
+      "unorthodox, dangerous views"
+    ],
+    "examples": [
+      {
+        "zh": "在当时，科学新发现被斥为异端邪说。",
+        "en": "At the time, new scientific discoveries were condemned as heresy."
+      },
+      {
+        "zh": "别被网上的异端邪说迷惑了。",
+        "en": "Don't be misled by dubious doctrines online."
+      },
+      {
+        "zh": "他被当作异端邪说的传播者而遭排挤。",
+        "en": "He was ostracised as a spreader of heresy."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; derogatory, from the speaker's orthodox viewpoint. Beware: it may reflect only the accuser's bias.",
+      "zh": "名词性，含贬义，立足于“正统”立场，使用时要注意语境。"
+    },
+    "synonyms": [
+      "歪理邪说",
+      "旁门左道"
+    ],
+    "antonyms": [
+      "正统学说",
+      "至理名言"
+    ]
+  },
+  {
+    "id": "yang-yang-bu-le",
+    "text": "怏怏不乐",
+    "pinyin": "yàng yàng bù lè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "discontented · discontented · not · happy",
+    "natural": "sulkily unhappy",
+    "meaning": {
+      "en": "Feeling discontented and sulky because something has not gone one's way.",
+      "zh": "因不满意或不得志而闷闷不乐。"
+    },
+    "equivalents": [
+      "sulk",
+      "feel disgruntled"
+    ],
+    "examples": [
+      {
+        "zh": "没被选上，他怏怏不乐地回家了。",
+        "en": "Not chosen, he went home sulking."
+      },
+      {
+        "zh": "她怏怏不乐，一整天没说话。",
+        "en": "She was disgruntled and said nothing all day."
+      },
+      {
+        "zh": "孩子玩具被没收了，怏怏不乐。",
+        "en": "The child's toy was confiscated and he sulked."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. 怏 reads yàng; not 'yāng'.",
+      "zh": "作谓语、状语。“怏”读yàng。"
+    },
+    "synonyms": [
+      "闷闷不乐",
+      "郁郁寡欢"
+    ],
+    "antonyms": [
+      "喜形于色",
+      "兴高采烈"
+    ]
+  },
+  {
+    "id": "tan-duo-wu-de",
+    "text": "贪多务得",
+    "pinyin": "tān duō wù dé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "superficial-learning",
+      "negative-character-flaws",
+      "poems-prose"
+    ],
+    "literal": "greedy · much · strive · gain",
+    "natural": "grab at more than one can handle",
+    "meaning": {
+      "en": "To want as much as possible and strive to gain it all, whether knowledge or possessions, without regard to quality.",
+      "zh": "一味追求多，什么都想得到。"
+    },
+    "equivalents": [
+      "bite off more than one can chew",
+      "greedy for quantity"
+    ],
+    "examples": [
+      {
+        "zh": "学习不能贪多务得，要循序渐进。",
+        "en": "Studying should not be a rush for quantity; take it step by step."
+      },
+      {
+        "zh": "他贪多务得，结果每个项目都做不好。",
+        "en": "He took on too much and did none of the projects well."
+      },
+      {
+        "zh": "读书贪多务得，往往一无所获。",
+        "en": "Reading greedily for quantity often yields nothing."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《进学解》",
+      "story": {
+        "en": "Han Yu describes a student who 'is greedy for more, striving to obtain it, big or small without discarding any' (贪多务得，细大不捐).",
+        "zh": "《进学解》：“贪多务得，细大不捐。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; a warning, often about study or work. Usually negated: 不要贪多务得.",
+      "zh": "作谓语，多作告诫，常用于学习、工作，常见否定用法。"
+    },
+    "synonyms": [
+      "囫囵吞枣",
+      "好高骛远"
+    ],
+    "antonyms": [
+      "精益求精",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "lai-ri-da-nan",
+    "text": "来日大难",
+    "pinyin": "lái rì dà nàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "danger",
+      "bad-fortune",
+      "poems-prose"
+    ],
+    "literal": "coming · days · great · hardship",
+    "natural": "hard days ahead",
+    "meaning": {
+      "en": "Days to come will be hard; also used for the difficulty of the future and the shortness of time.",
+      "zh": "未来的日子艰难，也感叹往后岁月无多。"
+    },
+    "equivalents": [
+      "hard times ahead",
+      "a tough future awaits"
+    ],
+    "examples": [
+      {
+        "zh": "经济下行，来日大难，大家要早做准备。",
+        "en": "With the economy slowing, tough days lie ahead; let's prepare early."
+      },
+      {
+        "zh": "他自知来日大难，仍坚持前行。",
+        "en": "He knew hard days lay ahead, and pressed on."
+      },
+      {
+        "zh": "创业前期来日大难，资金紧张。",
+        "en": "The early start-up days were hard, with money tight."
+      }
+    ],
+    "origin": {
+      "source": "曹操《善哉行》",
+      "story": {
+        "en": "In Cao Cao's poem the line 'Days to come are hard; mouths parched and lips dry' (来日大难，口燥唇干) laments the difficulty of life and the shortness of time.",
+        "zh": "曹操《善哉行》：“来日大难，口燥唇干。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; 难 is read nàn here (hardship), not nán.",
+      "zh": "书面语，“难”读nàn，意为灾难、困难。"
+    },
+    "synonyms": [
+      "前路漫漫",
+      "前途多舛"
+    ],
+    "antonyms": [
+      "前程似锦",
+      "一帆风顺"
+    ]
+  },
+  {
+    "id": "deng-gao-yi-hu",
+    "text": "登高一呼",
+    "pinyin": "dēng gāo yī hū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "climb · high · one · shout",
+    "natural": "rally the people with a single call",
+    "meaning": {
+      "en": "A leader makes a call from a high place and many respond; the power to rally people.",
+      "zh": "站在高处一声呼唤，众人响应，比喻领头发起号召。"
+    },
+    "equivalents": [
+      "rally support with one call",
+      "one call and all respond"
+    ],
+    "examples": [
+      {
+        "zh": "他登高一呼，几千名志愿者立即报名。",
+        "en": "With one call from him, thousands of volunteers signed up at once."
+      },
+      {
+        "zh": "只要大学领袖登高一呼，学生便纷纷响应。",
+        "en": "As soon as the student leader calls, the students respond."
+      },
+      {
+        "zh": "登高一呼的号召力，需要多年积累。",
+        "en": "The pull to rally people with one call takes years to build."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; commendatory; often combined with 应者云集 or 一呼百应.",
+      "zh": "作谓语，含褒义，常与“应者云集”“一呼百应”连用。"
+    },
+    "synonyms": [
+      "一呼百应",
+      "振臂一呼"
+    ],
+    "antonyms": [
+      "应者寥寥",
+      "孤掌难鸣"
+    ]
+  },
+  {
+    "id": "xiao-ju-shan-lin",
+    "text": "啸聚山林",
+    "pinyin": "xiào jù shān lín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "whistle · gather · mountain · forest",
+    "natural": "band together as outlaws in the hills",
+    "meaning": {
+      "en": "To gather a band of followers in the hills and forests as bandits or rebels.",
+      "zh": "成群结伙，占据山林，当强盗或起义。"
+    },
+    "equivalents": [
+      "take to the hills as bandits",
+      "form an outlaw band"
+    ],
+    "examples": [
+      {
+        "zh": "官逼民反，一些人只得啸聚山林。",
+        "en": "Oppressed by officials, some people were driven to become outlaws."
+      },
+      {
+        "zh": "《水浒传》写好汉们啸聚山林的故事。",
+        "en": "Water Margin tells of the heroes who banded together in the hills."
+      },
+      {
+        "zh": "山贼啸聚山林，劫掠商旅。",
+        "en": "Bandits lurked in the hills and robbed merchants."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; historical, with a negative or sympathetic tone depending on context.",
+      "zh": "作谓语，多用于历史叙述，视语境含贬义或同情。"
+    },
+    "synonyms": [
+      "落草为寇",
+      "占山为王"
+    ],
+    "antonyms": [
+      "归顺朝廷",
+      "安居乐业"
+    ]
+  },
+  {
+    "id": "chui-qi-ru-lan",
+    "text": "吹气如兰",
+    "pinyin": "chuī qì rú lán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "breath · air · like · orchid",
+    "natural": "fragrant breath",
+    "meaning": {
+      "en": "Breath as fragrant as an orchid; used to praise a woman's grace and refinement.",
+      "zh": "呼出的气像兰花一样芬芳，多形容女子美好。"
+    },
+    "equivalents": [
+      "orchid-sweet breath",
+      "exquisitely fragrant"
+    ],
+    "examples": [
+      {
+        "zh": "佳人吹气如兰，令他心神荡漾。",
+        "en": "The beauty's breath was orchid-sweet and set his heart fluttering."
+      },
+      {
+        "zh": "小说里写她“吹气如兰”，一派古典美。",
+        "en": "The novel describes her as 'breathing orchid fragrance', classical beauty."
+      },
+      {
+        "zh": "她低声耳语，吹气如兰。",
+        "en": "She whispered in his ear, her breath sweet as orchid."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in fiction or descriptive writing; sometimes playful. Often refers to women.",
+      "zh": "多见于小说与描写，有时带戏谑，多指女子。"
+    },
+    "synonyms": [
+      "香气袭人",
+      "芳香扑鼻"
+    ],
+    "antonyms": [
+      "口臭难闻",
+      "臭气熏天"
+    ]
+  },
+  {
+    "id": "mu-diao-ni-su",
+    "text": "木雕泥塑",
+    "pinyin": "mù diāo ní sù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "泥塑木雕"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance"
+    ],
+    "literal": "wood · carved · clay · moulded",
+    "natural": "like a wooden or clay statue",
+    "meaning": {
+      "en": "Like a wood carving or clay figure: motionless, expressionless, lifeless.",
+      "zh": "像木头、泥巴做成的一样，形容人呆立不动，神情呆滞。"
+    },
+    "equivalents": [
+      "stock-still like a statue",
+      "wooden and expressionless"
+    ],
+    "examples": [
+      {
+        "zh": "他听到噩耗，木雕泥塑般站在那里。",
+        "en": "On hearing the bad news he stood there like a statue."
+      },
+      {
+        "zh": "会上大家木雕泥塑，没人发言。",
+        "en": "At the meeting everyone sat like statues, and no one spoke."
+      },
+      {
+        "zh": "她吓得木雕泥塑似的一动不动。",
+        "en": "She was so scared that she froze like a statue."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or comparison; derogatory or descriptive. Also written 泥塑木雕.",
+      "zh": "作谓语或比喻，含贬义或描写；也作“泥塑木雕”。"
+    },
+    "synonyms": [
+      "呆若木鸡",
+      "目瞪口呆"
+    ],
+    "antonyms": [
+      "生龙活虎",
+      "活蹦乱跳"
+    ]
+  },
+  {
+    "id": "sheng-ming-que-qi",
+    "text": "声名鹊起",
+    "pinyin": "shēng míng què qǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "reputation · name · magpie · rise",
+    "natural": "suddenly become famous",
+    "meaning": {
+      "en": "To rapidly gain fame, as if a magpie flew up.",
+      "zh": "名声迅速提高，像喜鹊飞起一样。"
+    },
+    "equivalents": [
+      "rise to fame",
+      "make a name overnight"
+    ],
+    "examples": [
+      {
+        "zh": "这位新人导演一部作品便声名鹊起。",
+        "en": "This new director rose to fame with a single work."
+      },
+      {
+        "zh": "小镇因一档综艺节目声名鹊起。",
+        "en": "The small town shot to fame thanks to a variety show."
+      },
+      {
+        "zh": "他凭一篇论文声名鹊起。",
+        "en": "He made his name with a single paper."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; commendatory. Common in news and profiles. 鹊起 evokes a magpie, a lucky bird, rising.",
+      "zh": "作谓语，含褒义，常见于新闻与人物介绍。"
+    },
+    "synonyms": [
+      "一举成名",
+      "名声大噪"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "籍籍无名"
+    ]
+  },
+  {
+    "id": "luo-zhi-zui-ming",
+    "text": "罗织罪名",
+    "pinyin": "luó zhī zuì míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice"
+    ],
+    "literal": "weave · weave · crime · charge",
+    "natural": "fabricate charges",
+    "meaning": {
+      "en": "To invent and string together false charges to frame someone.",
+      "zh": "捏造罪名，陷害别人。"
+    },
+    "equivalents": [
+      "frame someone",
+      "trump up charges"
+    ],
+    "examples": [
+      {
+        "zh": "权臣为排挤异己，对他罗织罪名。",
+        "en": "The powerful minister trumped up charges against him to remove opponents."
+      },
+      {
+        "zh": "不能罗织罪名，冤枉好人。",
+        "en": "One must not fabricate charges and wrong the innocent."
+      },
+      {
+        "zh": "这家公司对前员工罗织罪名，意在报复。",
+        "en": "The company framed a former employee in revenge."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; derogatory; common in legal and political contexts. 罗织 is also a historical term from the Tang court.",
+      "zh": "作谓语，含贬义，多用于法律、政治语境。"
+    },
+    "synonyms": [
+      "栽赃陷害",
+      "欲加之罪"
+    ],
+    "antonyms": [
+      "平反昭雪",
+      "秉公执法"
+    ]
+  },
+  {
+    "id": "suan-wu-yi-ce",
+    "text": "算无遗策",
+    "pinyin": "suàn wú yí cè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "calculate · no · leave out · plan",
+    "natural": "every plan perfectly worked out",
+    "meaning": {
+      "en": "Calculations and plans so thorough that nothing is overlooked.",
+      "zh": "谋划周密，没有一点失算。"
+    },
+    "equivalents": [
+      "leave nothing to chance",
+      "flawless planning"
+    ],
+    "examples": [
+      {
+        "zh": "诸葛亮用兵，算无遗策。",
+        "en": "Zhuge Liang's campaigns were planned without a single oversight."
+      },
+      {
+        "zh": "他做事算无遗策，几乎从不出错。",
+        "en": "His planning is so thorough that he almost never errs."
+      },
+      {
+        "zh": "这套方案算无遗策，各种风险都考虑到了。",
+        "en": "The plan overlooks nothing and every risk has been considered."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; high praise, usually for strategists.",
+      "zh": "作谓语、定语，高度赞扬，多形容谋士。"
+    },
+    "synonyms": [
+      "运筹帷幄",
+      "万无一失"
+    ],
+    "antonyms": [
+      "漏洞百出",
+      "考虑不周"
+    ]
+  },
+  {
+    "id": "miao-shou-kong-kong",
+    "text": "妙手空空",
+    "pinyin": "miào shǒu kōng kōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "useful-tools-and-skill"
+    ],
+    "literal": "skilled · hand · empty · empty",
+    "natural": "master thief",
+    "meaning": {
+      "en": "A master thief so skilled that he leaves no trace; also used jokingly for someone who leaves with empty hands.",
+      "zh": "形容小偷技艺高超，来去无踪；也戏指一无所获。"
+    },
+    "equivalents": [
+      "a master thief",
+      "light-fingered"
+    ],
+    "examples": [
+      {
+        "zh": "小偷妙手空空，一转眼钱包就没了。",
+        "en": "The thief was so deft that my wallet vanished in a moment."
+      },
+      {
+        "zh": "他像妙手空空一样，神不知鬼不觉地溜走了。",
+        "en": "Like a master thief, he slipped away unnoticed."
+      },
+      {
+        "zh": "小说里的妙手空空专盗权贵之家。",
+        "en": "The master thief of the novel steals only from the powerful."
+      }
+    ],
+    "origin": {
+      "source": "裴铏《传奇·聂隐娘》",
+      "story": {
+        "en": "In the Tang tale of Nie Yinniang, the magic assassin Kongkong'er strikes without a trace, and the phrase became a nickname for supremely skilled thieves.",
+        "zh": "唐人传奇《聂隐娘》中有剑侠空空儿，来去无踪，后以“妙手空空”称技艺高超的小偷。"
+      }
+    },
+    "usage": {
+      "en": "Usually playful; refers to thieves. The name comes from the legendary swordsman-thief 空空儿.",
+      "zh": "多含戏谑，指小偷。典出传奇中的空空儿。"
+    },
+    "synonyms": [
+      "神偷",
+      "飞檐走壁"
+    ],
+    "antonyms": [
+      "一介良民",
+      "守法公民"
+    ]
+  },
+  {
+    "id": "neng-zheng-guan-zhan",
+    "text": "能征惯战",
+    "pinyin": "néng zhēng guàn zhàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "able · campaign · used to · fight",
+    "natural": "battle-hardened",
+    "meaning": {
+      "en": "Skilled in campaigns and experienced in battle.",
+      "zh": "善于征战，经验丰富。"
+    },
+    "equivalents": [
+      "battle-hardened",
+      "seasoned in war"
+    ],
+    "examples": [
+      {
+        "zh": "他是一员能征惯战的老将。",
+        "en": "He is a seasoned veteran of many battles."
+      },
+      {
+        "zh": "能征惯战的球队这次却遭遇惨败。",
+        "en": "The battle-hardened team suffered a crushing defeat this time."
+      },
+      {
+        "zh": "她是能征惯战的谈判高手。",
+        "en": "She is a seasoned negotiator."
+      }
+    ],
+    "usage": {
+      "en": "Attributive; also figurative for experienced competitors.",
+      "zh": "作定语，也可比喻经验丰富的竞争者。"
+    },
+    "synonyms": [
+      "身经百战",
+      "久经沙场"
+    ],
+    "antonyms": [
+      "初出茅庐",
+      "纸上谈兵"
+    ]
+  },
+  {
+    "id": "de-qi-suo-zai",
+    "text": "得其所哉",
+    "pinyin": "dé qí suǒ zāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "contentment-and-simplicity",
+      "confucian-classics"
+    ],
+    "literal": "get · its · place · indeed",
+    "natural": "just where one belongs",
+    "meaning": {
+      "en": "Having found exactly the right place; contented in one's situation.",
+      "zh": "得到了适合自己的位置，感到满意。"
+    },
+    "equivalents": [
+      "found one's place",
+      "right at home"
+    ],
+    "examples": [
+      {
+        "zh": "他在山区教书，真是得其所哉。",
+        "en": "Teaching in the mountains, he has truly found his place."
+      },
+      {
+        "zh": "调到研究所后，她觉得得其所哉。",
+        "en": "After moving to the research institute, she felt at home."
+      },
+      {
+        "zh": "这只猫趴在阳光下，得其所哉。",
+        "en": "The cat lay in the sun, perfectly at home."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·万章上》",
+      "story": {
+        "en": "Zichan's fish story: the keeper said 'it found its place, found its place!' (得其所哉！得其所哉！) when the fish swam off in the pond.",
+        "zh": "《孟子》载校人说：“得其所哉！得其所哉！”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; literary, positive; the final 哉 gives an exclamatory tone.",
+      "zh": "作谓语，书面语，含褒义，“哉”带感叹语气。"
+    },
+    "synonyms": [
+      "各得其所",
+      "安之若素"
+    ],
+    "antonyms": [
+      "怀才不遇",
+      "格格不入"
+    ]
+  },
+  {
+    "id": "you-ci-ji-bi",
+    "text": "由此及彼",
+    "pinyin": "yóu cǐ jí bǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "effective-teaching-methods"
+    ],
+    "literal": "from · this · to · that",
+    "natural": "reason by extension",
+    "meaning": {
+      "en": "To move from one thing to a related thing; to reason or extend from one case to another.",
+      "zh": "从这一事物推及另一事物。"
+    },
+    "equivalents": [
+      "extend from one case to another",
+      "by analogy"
+    ],
+    "examples": [
+      {
+        "zh": "学习要能由此及彼，举一反三。",
+        "en": "In learning you should extend from one case to others."
+      },
+      {
+        "zh": "从个案由此及彼，可以发现普遍规律。",
+        "en": "Moving from single cases to others reveals general laws."
+      },
+      {
+        "zh": "由此及彼，我们不难想到其他类似问题。",
+        "en": "By extension we can easily think of other similar problems."
+      }
+    ],
+    "usage": {
+      "en": "Common in essays, usually with 由表及里. Neutral register, argumentative.",
+      "zh": "常见于议论文，常与“由表及里”连用，中性。"
+    },
+    "synonyms": [
+      "举一反三",
+      "触类旁通"
+    ],
+    "antonyms": [
+      "一叶障目",
+      "固步自封"
+    ]
+  },
+  {
+    "id": "qi-dian-ba-dao",
+    "text": "七颠八倒",
+    "pinyin": "qī diān bā dǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "chaos"
+    ],
+    "literal": "seven · upside down · eight · fallen",
+    "natural": "topsy-turvy",
+    "meaning": {
+      "en": "Messy and disordered; in a jumble, or confused in speech and thought.",
+      "zh": "形容杂乱无章，或说话做事颠倒错乱。"
+    },
+    "equivalents": [
+      "topsy-turvy",
+      "in a muddle"
+    ],
+    "examples": [
+      {
+        "zh": "屋里东西七颠八倒，乱成一团。",
+        "en": "Things were all topsy-turvy in the room."
+      },
+      {
+        "zh": "他喝醉了，说话七颠八倒。",
+        "en": "He was drunk and spoke in a jumble."
+      },
+      {
+        "zh": "刚醒来脑子里七颠八倒，什么也想不起来。",
+        "en": "Just awake, my mind was muddled and I could not recall anything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; colloquial.",
+      "zh": "作谓语、补语，口语性强。"
+    },
+    "synonyms": [
+      "颠三倒四",
+      "乱七八糟"
+    ],
+    "antonyms": [
+      "井井有条",
+      "有条不紊"
+    ]
+  },
+  {
+    "id": "cha-fan-bu-si",
+    "text": "茶饭不思",
+    "pinyin": "chá fàn bù sī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "love-and-marriage"
+    ],
+    "literal": "tea · meals · not · think of",
+    "natural": "lose all appetite",
+    "meaning": {
+      "en": "Too worried or lovesick to want to drink tea or eat; having no appetite.",
+      "zh": "因心事重重，连吃喝也没心思。"
+    },
+    "equivalents": [
+      "lose one's appetite",
+      "off one's food"
+    ],
+    "examples": [
+      {
+        "zh": "自从失恋后，她茶饭不思。",
+        "en": "Since the break-up she has lost her appetite."
+      },
+      {
+        "zh": "考试结果没出来，他茶饭不思。",
+        "en": "Until the exam results are out, he can't eat."
+      },
+      {
+        "zh": "为孩子的病，母亲茶饭不思。",
+        "en": "Worried about her child's illness, the mother can't eat."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often with 寝食难安 or 魂不守舍. Common for love or worry.",
+      "zh": "作谓语，常与“寝食难安”“魂不守舍”并用，多用于爱情或忧虑。"
+    },
+    "synonyms": [
+      "寝食难安",
+      "食不甘味"
+    ],
+    "antonyms": [
+      "胃口大开",
+      "心宽体胖"
+    ]
+  },
+  {
+    "id": "wu-ni-zhuo-shui",
+    "text": "污泥浊水",
+    "pinyin": "wū ní zhuó shuǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "corruption-and-injustice"
+    ],
+    "literal": "foul · mud · murky · water",
+    "natural": "filth and dross",
+    "meaning": {
+      "en": "Mud and dirty water; a metaphor for backward, rotten things in society.",
+      "zh": "脏泥和脏水，比喻社会上一切落后、腐朽、肮脏的东西。"
+    },
+    "equivalents": [
+      "muck and filth",
+      "the dregs of society"
+    ],
+    "examples": [
+      {
+        "zh": "要荡涤社会上的污泥浊水。",
+        "en": "We must wash away the filth in society."
+      },
+      {
+        "zh": "改革就是要清除旧制度的污泥浊水。",
+        "en": "Reform is about clearing away the old system's filth."
+      },
+      {
+        "zh": "网络空间不能成为污泥浊水的容器。",
+        "en": "The internet must not become a dumping ground for filth."
+      }
+    ],
+    "usage": {
+      "en": "Figurative; derogatory, used in political and editorial language.",
+      "zh": "多作比喻，含贬义，常见于政论与社论。"
+    },
+    "synonyms": [
+      "藏污纳垢",
+      "腐朽糟粕"
+    ],
+    "antonyms": [
+      "清风正气",
+      "一尘不染"
+    ]
+  },
+  {
+    "id": "tong-du-da-yi",
+    "text": "通都大邑",
+    "pinyin": "tōng dū dà yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "peace-and-prosperity"
+    ],
+    "literal": "connecting · capital · large · city",
+    "natural": "major city",
+    "meaning": {
+      "en": "A large, prosperous city with good transport links.",
+      "zh": "交通便利、人口众多的大城市。"
+    },
+    "equivalents": [
+      "major metropolis",
+      "big city"
+    ],
+    "examples": [
+      {
+        "zh": "商人往来于各个通都大邑之间。",
+        "en": "Merchants travelled between the big cities."
+      },
+      {
+        "zh": "通都大邑的生活节奏很快。",
+        "en": "Life in big cities is fast-paced."
+      },
+      {
+        "zh": "这条铁路连接了几个通都大邑。",
+        "en": "This railway links several major cities."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; written style.",
+      "zh": "名词性，书面语。"
+    },
+    "synonyms": [
+      "大都会",
+      "繁华都市"
+    ],
+    "antonyms": [
+      "穷乡僻壤",
+      "偏远山村"
+    ]
+  },
+  {
+    "id": "mian-ru-guan-yu",
+    "text": "面如冠玉",
+    "pinyin": "miàn rú guān yù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "historical-records"
+    ],
+    "literal": "face · like · crown · jade",
+    "natural": "handsome as jade",
+    "meaning": {
+      "en": "A face as fair as the jade ornament on a hat; handsome (of a man).",
+      "zh": "脸像帽子上的美玉一样白净，形容男子容貌俊美。"
+    },
+    "equivalents": [
+      "jade-fair face",
+      "strikingly handsome"
+    ],
+    "examples": [
+      {
+        "zh": "这位青年面如冠玉，风度翩翩。",
+        "en": "The young man is fair-faced and elegant."
+      },
+      {
+        "zh": "小说里的书生面如冠玉。",
+        "en": "The scholar in the novel has a face like fine jade."
+      },
+      {
+        "zh": "他面如冠玉，却性情刚烈。",
+        "en": "His face is fair as jade, but his temper is fierce."
+      }
+    ],
+    "origin": {
+      "source": "《史记·陈丞相世家》",
+      "story": {
+        "en": "Rivals slandered Chen Ping, saying he was 'handsome, but only like jade on a crown' (如冠玉耳), suggesting good looks without substance.",
+        "zh": "《史记》载人谗陈平：“平虽美丈夫，如冠玉耳，其中未必有也。”"
+      }
+    },
+    "usage": {
+      "en": "Mostly for men; sometimes implies good looks without substance. Rarely used for living people today.",
+      "zh": "多用于男子；有时暗示只有外貌好看。今日少用于现实人物。"
+    },
+    "synonyms": [
+      "眉清目秀",
+      "英俊潇洒"
+    ],
+    "antonyms": [
+      "面目全非",
+      "貌丑如鬼"
+    ]
+  },
+  {
+    "id": "qu-jin-qi-miao",
+    "text": "曲尽其妙",
+    "pinyin": "qū jìn qí miào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "master-craftsmanship"
+    ],
+    "literal": "in detail · exhaust · its · wonder",
+    "natural": "bring out every subtlety",
+    "meaning": {
+      "en": "To capture every fine point and subtlety in portrayal or performance.",
+      "zh": "把事物的精妙之处充分表现出来。"
+    },
+    "equivalents": [
+      "capture every nuance",
+      "portray with exquisite skill"
+    ],
+    "examples": [
+      {
+        "zh": "这幅画把山水的神韵曲尽其妙。",
+        "en": "This painting captures every nuance of the landscape."
+      },
+      {
+        "zh": "她的演唱曲尽其妙，赢得满堂彩。",
+        "en": "Her singing brought out every subtlety and won full applause."
+      },
+      {
+        "zh": "作者对人物心理的描写曲尽其妙。",
+        "en": "The author's portrayal of the character's psychology is exquisitely subtle."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; high praise, for art and writing. 曲 reads qū (detail).",
+      "zh": "作谓语，用于赞美艺术与文笔。“曲”读qū，意为委婉细致。"
+    },
+    "synonyms": [
+      "惟妙惟肖",
+      "淋漓尽致"
+    ],
+    "antonyms": [
+      "粗制滥造",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "fa-bu-ze-zhong",
+    "text": "法不责众",
+    "pinyin": "fǎ bù zé zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "law · not · blame · crowd",
+    "natural": "too many offenders to punish",
+    "meaning": {
+      "en": "When too many people break a rule, the law cannot punish all; used to excuse or justify wrongdoing.",
+      "zh": "违法的人太多，就难以一一惩处。"
+    },
+    "equivalents": [
+      "safety in numbers",
+      "you can't punish everyone"
+    ],
+    "examples": [
+      {
+        "zh": "有人抱着法不责众的心理乱闯红灯。",
+        "en": "Some people jaywalk thinking they can't all be punished."
+      },
+      {
+        "zh": "别以为法不责众，违规照样处罚。",
+        "en": "Don't think there's safety in numbers; violators will still be punished."
+      },
+      {
+        "zh": "法不责众不是犯错的借口。",
+        "en": "'Too many to punish' is no excuse for wrongdoing."
+      }
+    ],
+    "usage": {
+      "en": "Often used critically about a mentality (法不责众的心理). A saying-like phrase.",
+      "zh": "常用来批评侥幸心理，如“法不责众的心理”。"
+    },
+    "synonyms": [
+      "人多势众",
+      "随大流"
+    ],
+    "antonyms": [
+      "执法必严",
+      "违法必究"
+    ]
+  },
+  {
+    "id": "sui-bai-you-rong",
+    "text": "虽败犹荣",
+    "pinyin": "suī bài yóu róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks"
+    ],
+    "literal": "though · lose · still · glorious",
+    "natural": "honourable even in defeat",
+    "meaning": {
+      "en": "Honourable even in defeat, having fought bravely.",
+      "zh": "虽然失败了，但很光荣。"
+    },
+    "equivalents": [
+      "glorious in defeat",
+      "lose with honour"
+    ],
+    "examples": [
+      {
+        "zh": "球队虽败犹荣，赢得全场掌声。",
+        "en": "The team lost with honour and drew applause from the whole crowd."
+      },
+      {
+        "zh": "她拼尽全力，虽败犹荣。",
+        "en": "She gave everything and was honourable in defeat."
+      },
+      {
+        "zh": "以弱敌强，虽败犹荣。",
+        "en": "Facing a stronger foe, there is honour even in losing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; commendatory; common in sports commentary.",
+      "zh": "作谓语，含褒义，常见于体育评论。"
+    },
+    "synonyms": [
+      "虽死犹生",
+      "败而不馁"
+    ],
+    "antonyms": [
+      "一败涂地",
+      "丢盔弃甲"
+    ]
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "tian-zhi-di-zhi",
+    "text": "天知地知",
+    "pinyin": "tiān zhī dì zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "fairness-and-impartiality",
+      "historical-records"
+    ],
+    "literal": "heaven · knows · earth · knows",
+    "natural": "heaven knows, earth knows",
+    "meaning": {
+      "en": "Nothing is truly secret; used both to say 'only the two of us know' and to warn that wrongdoing will be known.",
+      "zh": "天地都知道，形容事情隐秘；也用来表示“做了坏事迟早会被发现”。"
+    },
+    "equivalents": [
+      "only heaven and earth know",
+      "nothing stays secret"
+    ],
+    "examples": [
+      {
+        "zh": "这事天知地知，你知我知，绝不会有第三个人知道。",
+        "en": "This is between heaven, earth, you and me; no third person will ever know."
+      },
+      {
+        "zh": "他以为天知地知，没想到监控拍得一清二楚。",
+        "en": "He thought nobody would ever know, but the cameras caught everything."
+      },
+      {
+        "zh": "天知地知，我问心无愧。",
+        "en": "Heaven and earth are my witnesses; my conscience is clear."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·杨震传》",
+      "story": {
+        "en": "Yang Zhen refused a bribe offered at night 'because no one will know', replying: 'Heaven knows, the spirits know, I know and you know. How can you say no one knows?' (天知，神知，我知，子知).",
+        "zh": "杨震拒收夜晚送来的贿金，说：“天知，神知，我知，子知。何谓无知者！”"
+      }
+    },
+    "usage": {
+      "en": "Usually in the fuller form 天知，地知，你知，我知. Can be sincere (clear conscience) or wry (a secret deal).",
+      "zh": "常见全句“天知地知，你知我知”；可表问心无愧，也可用于私下交易的口吻。"
+    },
+    "synonyms": [
+      "神不知鬼不觉",
+      "问心无愧"
+    ],
+    "antonyms": [
+      "家喻户晓",
+      "路人皆知"
+    ]
+  },
+  {
+    "id": "mian-you-nan-se",
+    "text": "面有难色",
+    "pinyin": "miàn yǒu nán sè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "面露难色"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "confusion-and-doubt"
+    ],
+    "literal": "face · has · difficult · look",
+    "natural": "a face showing difficulty",
+    "meaning": {
+      "en": "To show reluctance or embarrassment on one's face when asked to do something.",
+      "zh": "脸上露出为难的神情。"
+    },
+    "equivalents": [
+      "look reluctant",
+      "look embarrassed or uneasy"
+    ],
+    "examples": [
+      {
+        "zh": "听说要加班，他面有难色。",
+        "en": "On hearing there would be overtime, he looked reluctant."
+      },
+      {
+        "zh": "我提出借钱时，朋友面有难色。",
+        "en": "When I asked to borrow money, my friend looked uncomfortable."
+      },
+      {
+        "zh": "老板让她出差，她面有难色，却没有拒绝。",
+        "en": "The boss told her to travel; she looked unwilling but did not refuse."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; mild and polite, describing hesitation shown on the face.",
+      "zh": "作谓语，语气委婉，描写神色上的为难。"
+    },
+    "synonyms": [
+      "左右为难",
+      "犹豫不决"
+    ],
+    "antonyms": [
+      "欣然应允",
+      "满口答应"
+    ]
+  },
+  {
+    "id": "yuan-jia-dui-tou",
+    "text": "冤家对头",
+    "pinyin": "yuān jiā duì tóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "conflict-and-strife"
+    ],
+    "literal": "enemy · family · opposing · side",
+    "natural": "enemies and opponents",
+    "meaning": {
+      "en": "A bitter enemy or rival; people who are always at odds.",
+      "zh": "仇敌；互相对立、总是作对的人。"
+    },
+    "equivalents": [
+      "sworn enemies",
+      "arch-rivals"
+    ],
+    "examples": [
+      {
+        "zh": "这两家是多年的冤家对头。",
+        "en": "The two families have been sworn enemies for years."
+      },
+      {
+        "zh": "没想到我们竟成了冤家对头。",
+        "en": "I never expected us to become bitter rivals."
+      },
+      {
+        "zh": "他们俩就是一对冤家对头，见面就吵。",
+        "en": "Those two are arch-enemies and quarrel the moment they meet."
+      }
+    ],
+    "usage": {
+      "en": "Can be serious (real enmity) or teasing (squabbling pairs, even lovers). 冤家 is read yuān jiā (jia sometimes soft).",
+      "zh": "可指真正的仇人，也可戏称爱吵架的一对；“冤家”口语中“家”可轻读。"
+    },
+    "synonyms": [
+      "死对头",
+      "仇人相见"
+    ],
+    "antonyms": [
+      "知己好友",
+      "莫逆之交"
+    ]
+  },
+  {
+    "id": "mei-da-mei-xiao",
+    "text": "没大没小",
+    "pinyin": "méi dà méi xiǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior"
+    ],
+    "literal": "no · big · no · small",
+    "natural": "no big and no small",
+    "meaning": {
+      "en": "To show no respect for age or seniority; to behave without proper manners between elders and juniors.",
+      "zh": "不分长幼尊卑，对长辈或上级缺乏礼貌。"
+    },
+    "equivalents": [
+      "show no respect for one's elders",
+      "be cheeky to seniors"
+    ],
+    "examples": [
+      {
+        "zh": "你怎么跟爷爷说话呢，没大没小的！",
+        "en": "How can you talk to Grandpa like that? Have some respect!"
+      },
+      {
+        "zh": "这孩子被惯坏了，没大没小。",
+        "en": "The child is spoiled and has no respect for elders."
+      },
+      {
+        "zh": "我们办公室气氛轻松，同事之间没大没小地开玩笑。",
+        "en": "The atmosphere in our office is relaxed and colleagues joke without regard to rank."
+      }
+    ],
+    "usage": {
+      "en": "Usually a scolding for a child or a young person, but can be affectionate banter. 没 is méi.",
+      "zh": "多用于责备小辈，也可作亲昵的玩笑。"
+    },
+    "synonyms": [
+      "目无尊长",
+      "没上没下"
+    ],
+    "antonyms": [
+      "长幼有序",
+      "彬彬有礼"
+    ]
+  },
+  {
+    "id": "bai-wu-yi-yong",
+    "text": "百无一用",
+    "pinyin": "bǎi wú yī yòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "hundred · no · one · use",
+    "natural": "a hundred and none of them useful",
+    "meaning": {
+      "en": "Completely useless; good for nothing.",
+      "zh": "什么用处也没有，毫无用处。"
+    },
+    "equivalents": [
+      "good for nothing",
+      "utterly useless"
+    ],
+    "examples": [
+      {
+        "zh": "他自嘲说，百无一用是书生。",
+        "en": "He joked that scholars are good for nothing."
+      },
+      {
+        "zh": "这堆旧设备早已百无一用。",
+        "en": "The pile of old equipment is utterly useless now."
+      },
+      {
+        "zh": "别觉得自己百无一用，你只是还没找到擅长的事。",
+        "en": "Don't think you're useless; you just haven't found what you're good at."
+      }
+    ],
+    "usage": {
+      "en": "Often from the line 百无一用是书生 ('a scholar is good for nothing'), said in self-mockery. Strongly negative about others.",
+      "zh": "常见于“百无一用是书生”的自嘲，用于他人则贬义很重。"
+    },
+    "synonyms": [
+      "一无是处",
+      "毫无用处"
+    ],
+    "antonyms": [
+      "大有用处",
+      "物尽其用"
+    ]
+  },
+  {
+    "id": "wu-guan-hong-zhi",
+    "text": "无关宏旨",
+    "pinyin": "wú guān hóng zhǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "measure",
+      "common-and-worthless"
+    ],
+    "literal": "no · concern · broad · purpose",
+    "natural": "of no bearing on the main point",
+    "meaning": {
+      "en": "Irrelevant to the main point; not important.",
+      "zh": "与主要意思、主要问题没有关系，无关紧要。"
+    },
+    "equivalents": [
+      "beside the point",
+      "of no real consequence"
+    ],
+    "examples": [
+      {
+        "zh": "这些细节无关宏旨，可以略去。",
+        "en": "These details are beside the point and can be left out."
+      },
+      {
+        "zh": "无关宏旨的争论，不必再继续。",
+        "en": "There's no need to continue an argument that does not matter."
+      },
+      {
+        "zh": "他纠结于一些无关宏旨的小事。",
+        "en": "He fusses about trivial matters that make no difference."
+      }
+    ],
+    "usage": {
+      "en": "Formal; used in judging what to leave out or argue about. Often misspelled 无关紧旨; the standard form is 宏旨.",
+      "zh": "较庄重，用于判断取舍；注意是“宏旨”。"
+    },
+    "synonyms": [
+      "无关紧要",
+      "无足轻重"
+    ],
+    "antonyms": [
+      "举足轻重",
+      "至关重要"
+    ]
+  },
+  {
+    "id": "chun-hong-chi-bai",
+    "text": "唇红齿白",
+    "pinyin": "chún hóng chǐ bái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "appearance"
+    ],
+    "literal": "lips · red · teeth · white",
+    "natural": "red lips and white teeth",
+    "meaning": {
+      "en": "Good-looking, with red lips and white teeth; describes a handsome, healthy-looking child or youth.",
+      "zh": "嘴唇红润，牙齿洁白，形容容貌俊美，多指少年或儿童。"
+    },
+    "equivalents": [
+      "fresh-faced and handsome",
+      "rosy-lipped and bright-toothed"
+    ],
+    "examples": [
+      {
+        "zh": "这个唇红齿白的小男孩特别惹人喜爱。",
+        "en": "The rosy-lipped little boy was very lovable."
+      },
+      {
+        "zh": "画中的少年唇红齿白，眉清目秀。",
+        "en": "The youth in the painting is fresh-faced and delicately featured."
+      },
+      {
+        "zh": "他唇红齿白，像个书生。",
+        "en": "He looks fresh-faced and handsome, like a young scholar."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive and admiring; usually of young people, boys more often than women.",
+      "zh": "描写容貌，含赞美，多用于少年、儿童。"
+    },
+    "synonyms": [
+      "眉清目秀",
+      "面如冠玉"
+    ],
+    "antonyms": [
+      "面黄肌瘦",
+      "其貌不扬"
+    ]
+  },
+  {
+    "id": "wu-shang-qi-lei",
+    "text": "物伤其类",
+    "pinyin": "wù shāng qí lèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "relationships"
+    ],
+    "literal": "creature · grieve · its · kind",
+    "natural": "creatures grieve for their own kind",
+    "meaning": {
+      "en": "To feel sorrow when one of one's own kind meets misfortune; sympathy for fellow sufferers.",
+      "zh": "动物为同类的死亡或不幸而悲伤，比喻人因同伙的不幸而感到悲伤。"
+    },
+    "equivalents": [
+      "feel for one of one's own kind",
+      "sympathise with fellow sufferers"
+    ],
+    "examples": [
+      {
+        "zh": "同行遭此打击，大家物伤其类，都很难过。",
+        "en": "The whole trade was saddened by the blow to a fellow practitioner."
+      },
+      {
+        "zh": "看到邻村遭灾，村民们物伤其类。",
+        "en": "Seeing the neighbouring village struck by disaster, the villagers felt for them as their own."
+      },
+      {
+        "zh": "他对那位落魄的老同行物伤其类。",
+        "en": "He felt keenly for the old colleague who had fallen on hard times."
+      }
+    ],
+    "usage": {
+      "en": "Often in the pair 兔死狐悲，物伤其类. May suggest self-interested worry (it could happen to me) as well as pure sympathy.",
+      "zh": "常与“兔死狐悲”并用；既可表同情，也暗含兔死狐悲、担心自身的意味。"
+    },
+    "synonyms": [
+      "兔死狐悲",
+      "同病相怜"
+    ],
+    "antonyms": [
+      "幸灾乐祸",
+      "隔岸观火"
+    ]
+  },
+  {
+    "id": "nao-man-chang-fei",
+    "text": "脑满肠肥",
+    "pinyin": "nǎo mǎn cháng féi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "negative-character-flaws",
+      "luxury-and-extravagance"
+    ],
+    "literal": "brain · full · bowel · fat",
+    "natural": "a full head and fat bowels",
+    "meaning": {
+      "en": "Fat and bloated from a life of ease; describes a gluttonous, idle, well-fed rich person.",
+      "zh": "形容不劳而获、吃得又胖又蠢的剥削者或富人。"
+    },
+    "equivalents": [
+      "fat and pampered",
+      "bloated with comfort"
+    ],
+    "examples": [
+      {
+        "zh": "他是个脑满肠肥的大老板。",
+        "en": "He is a fat, self-indulgent big boss."
+      },
+      {
+        "zh": "那些脑满肠肥的官员只顾吃喝享乐。",
+        "en": "Those bloated officials care only for eating, drinking and pleasure."
+      },
+      {
+        "zh": "漫画里脑满肠肥的形象代表了贪婪。",
+        "en": "The bloated figure in the cartoon stands for greed."
+      }
+    ],
+    "usage": {
+      "en": "Contemptuous, often political; describes parasitic wealthy people or officials. Do not use it of someone who is merely plump.",
+      "zh": "带蔑视，多用于不劳而获的富人、官员；不要用于单纯的胖。"
+    },
+    "synonyms": [
+      "大腹便便",
+      "酒囊饭袋"
+    ],
+    "antonyms": [
+      "骨瘦如柴",
+      "面黄肌瘦"
+    ]
+  },
+  {
+    "id": "xiao-ren-de-zhi",
+    "text": "小人得志",
+    "pinyin": "xiǎo rén dé zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "negative-character-flaws",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "petty · person · achieves · ambition",
+    "natural": "a petty person gets his way",
+    "meaning": {
+      "en": "A mean or petty person who gains power or success and becomes insufferably arrogant.",
+      "zh": "品行不端的人一旦得势，就得意忘形、嚣张起来。"
+    },
+    "equivalents": [
+      "a petty person flushed with success",
+      "the arrogance of the upstart"
+    ],
+    "examples": [
+      {
+        "zh": "他刚升职就对同事颐指气使，真是小人得志。",
+        "en": "Just promoted, he orders colleagues about; a typical case of a petty person on top."
+      },
+      {
+        "zh": "别看他现在小人得志，早晚要栽跟头。",
+        "en": "Never mind his swagger now; he'll fall flat sooner or later."
+      },
+      {
+        "zh": "小人得志的嘴脸，让人看了就反感。",
+        "en": "The smug look of the upstart makes one's stomach turn."
+      }
+    ],
+    "usage": {
+      "en": "Strongly negative; a judgement of character, not just of luck. Often 小人得志便猖狂 ('a petty man in power turns arrogant').",
+      "zh": "贬义很强，是对品性的评判；常说“小人得志便猖狂”。"
+    },
+    "synonyms": [
+      "得意忘形",
+      "狗仗人势"
+    ],
+    "antonyms": [
+      "谦虚谨慎",
+      "宠辱不惊"
+    ]
+  },
+  {
+    "id": "bu-ke-qi-ji",
+    "text": "不可企及",
+    "pinyin": "bù kě qǐ jí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "success",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "not · can · stand on tiptoe · reach",
+    "natural": "cannot be reached by stretching",
+    "meaning": {
+      "en": "Beyond reach; impossible to equal or match.",
+      "zh": "没法赶上或达到，形容水平高得无法匹敌。"
+    },
+    "equivalents": [
+      "unattainable",
+      "beyond one's reach"
+    ],
+    "examples": [
+      {
+        "zh": "他的技艺已到了常人不可企及的境界。",
+        "en": "His craft has reached a level that ordinary people cannot match."
+      },
+      {
+        "zh": "这样的成就在当时是不可企及的。",
+        "en": "Such an achievement was out of reach at the time."
+      },
+      {
+        "zh": "她对我来说，似乎遥不可及，不可企及。",
+        "en": "To me she seems far away, beyond anyone's reach."
+      }
+    ],
+    "usage": {
+      "en": "Often attributive (不可企及的高度) or after 是. 企 means to stand on tiptoe; do not confuse with 企业 (qǐ yè).",
+      "zh": "常作定语（不可企及的高度）或谓语；“企”指踮起脚。"
+    },
+    "synonyms": [
+      "望尘莫及",
+      "高不可攀"
+    ],
+    "antonyms": [
+      "唾手可得",
+      "触手可及"
+    ]
+  },
+  {
+    "id": "yan-mo-wu-wen",
+    "text": "湮没无闻",
+    "pinyin": "yān mò wú wén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "没没无闻"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "success",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "buried · submerged · no · fame",
+    "natural": "buried and unheard of",
+    "meaning": {
+      "en": "To be forgotten and left unknown; fame or achievements lost to history.",
+      "zh": "被埋没，不为人知。"
+    },
+    "equivalents": [
+      "fall into obscurity",
+      "be forgotten by history"
+    ],
+    "examples": [
+      {
+        "zh": "许多优秀的民间艺人湮没无闻。",
+        "en": "Many fine folk artists have vanished into obscurity."
+      },
+      {
+        "zh": "他的发明曾湮没无闻，多年后才被重视。",
+        "en": "His invention languished unnoticed and was valued only years later."
+      },
+      {
+        "zh": "这座古城湮没无闻已久，近年才被发掘。",
+        "en": "The ancient city lay forgotten for ages and was excavated only in recent years."
+      }
+    ],
+    "usage": {
+      "en": "Literary; implies loss or waste of talent or heritage. 湮 is yān. Close to 默默无闻 but stresses being buried.",
+      "zh": "书面语，含人才或遗产被埋没的惋惜；与“默默无闻”相近，但强调被埋没。"
+    },
+    "synonyms": [
+      "销声匿迹",
+      "默默无闻"
+    ],
+    "antonyms": [
+      "名扬四海",
+      "闻名遐迩"
+    ]
+  },
+  {
+    "id": "a-mao-a-gou",
+    "text": "阿猫阿狗",
+    "pinyin": "ā māo ā gǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "measure",
+      "common-and-worthless"
+    ],
+    "literal": "A · cat · A · dog",
+    "natural": "any old cat or dog",
+    "meaning": {
+      "en": "Any random person or thing; anybody at all (usually dismissive).",
+      "zh": "随便什么人或东西，泛指无足轻重的人。"
+    },
+    "equivalents": [
+      "any Tom, Dick or Harry",
+      "just anybody"
+    ],
+    "examples": [
+      {
+        "zh": "这个职位可不是阿猫阿狗都能做的。",
+        "en": "This post is not for just anybody."
+      },
+      {
+        "zh": "我不是阿猫阿狗，不会随便见客。",
+        "en": "I'm not just anybody; I don't see visitors at random."
+      },
+      {
+        "zh": "别什么阿猫阿狗的话都信。",
+        "en": "Don't believe every random person's word."
+      }
+    ],
+    "usage": {
+      "en": "Casual, dismissive; used to stress that something is exclusive. Do not use it face to face with respect.",
+      "zh": "口语，含轻视，常用来强调“不是随便什么人都行”；当面使用不礼貌。"
+    },
+    "synonyms": [
+      "张三李四",
+      "芸芸众生"
+    ],
+    "antonyms": [
+      "出类拔萃",
+      "非同一般"
+    ]
+  },
+  {
+    "id": "xing-rong-qiao-cui",
+    "text": "形容憔悴",
+    "pinyin": "xíng róng qiáo cuì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "poor-health",
+      "sadness-and-despair"
+    ],
+    "literal": "appearance · face · haggard · wasted",
+    "natural": "haggard in looks",
+    "meaning": {
+      "en": "Looking worn, pale and thin, from illness, grief or exhaustion.",
+      "zh": "面容瘦弱、神色疲惫，多因病痛、忧愁或劳累。"
+    },
+    "equivalents": [
+      "look haggard",
+      "drawn and worn"
+    ],
+    "examples": [
+      {
+        "zh": "连日守在病床前，她已形容憔悴。",
+        "en": "After days at the bedside, she looked drawn and worn out."
+      },
+      {
+        "zh": "他失业半年，形容憔悴，让人心疼。",
+        "en": "Unemployed for half a year, he looked haggard and it pained us to see."
+      },
+      {
+        "zh": "见到形容憔悴的老友，我心里一酸。",
+        "en": "Seeing my old friend look so haggard, my heart ached."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 形容 here is a noun (looks, appearance), not 'to describe'. 悴 is cuì. Compare 形容枯槁.",
+      "zh": "作谓语；“形容”此处指面貌，不是“描述”；“悴”读cuì；与“形容枯槁”相近。"
+    },
+    "synonyms": [
+      "面黄肌瘦",
+      "形容枯槁"
+    ],
+    "antonyms": [
+      "容光焕发",
+      "神采奕奕"
+    ]
+  },
+  {
+    "id": "bi-shang-bu-zu-bi-xia-you-yu",
+    "text": "比上不足，比下有余",
+    "pinyin": "bǐ shàng bù zú, bǐ xià yǒu yú",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "比上不足",
+      "比下有余"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "wisdom",
+      "relative-measurements",
+      "contentment-and-simplicity"
+    ],
+    "literal": "compared · up · not · enough, compared · down · has · extra",
+    "natural": "not as good as those above, better than those below",
+    "meaning": {
+      "en": "Not as good as the best but better than the worst; an average or acceptable position, often a self-consoling remark.",
+      "zh": "比不上最好的，但比差的强，指处在中等水平，常用来自我安慰。"
+    },
+    "equivalents": [
+      "not the best, not the worst",
+      "better than some, worse than others"
+    ],
+    "examples": [
+      {
+        "zh": "我们家的收入比上不足，比下有余。",
+        "en": "Our family income is not the best, but better than many."
+      },
+      {
+        "zh": "他的成绩比上不足，比下有余，不算差。",
+        "en": "His grades are not top, but better than the lowest; not bad."
+      },
+      {
+        "zh": "比上不足，比下有余，知足常乐吧。",
+        "en": "Not the best, but better than some; be content and happy."
+      }
+    ],
+    "usage": {
+      "en": "Either half can stand alone. Often used to console oneself, or as a modest summary of one's situation.",
+      "zh": "两半句可单用；常用于自我安慰或谦虚地概括自己的处境。"
+    },
+    "synonyms": [
+      "中不溜儿",
+      "不上不下"
+    ],
+    "antonyms": [
+      "出类拔萃",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "wo-ye-qian-li",
+    "text": "沃野千里",
+    "pinyin": "wò yě qiān lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "千里沃野"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "farming-and-harvest"
+    ],
+    "literal": "fertile · plain · thousand · li",
+    "natural": "a thousand li of fertile plain",
+    "meaning": {
+      "en": "A vast expanse of rich, fertile land.",
+      "zh": "肥沃的土地一望无际。"
+    },
+    "equivalents": [
+      "a vast fertile plain",
+      "endless rich farmland"
+    ],
+    "examples": [
+      {
+        "zh": "这片沃野千里的平原是国家的粮仓。",
+        "en": "This vast fertile plain is the nation's granary."
+      },
+      {
+        "zh": "黑土地上沃野千里，一眼望不到边。",
+        "en": "On the black soil the fertile fields stretch as far as the eye can see."
+      },
+      {
+        "zh": "古人称四川盆地为沃野千里的天府之国。",
+        "en": "The ancients called the Sichuan Basin a land of plenty with fertile fields for a thousand li."
+      }
+    ],
+    "usage": {
+      "en": "Literary praise of land. 沃 is wò (fertile). 千里 is not literal.",
+      "zh": "书面赞语，形容土地；“沃”读wò；“千里”不是实指。"
+    },
+    "synonyms": [
+      "良田万顷",
+      "膏腴之地"
+    ],
+    "antonyms": [
+      "不毛之地",
+      "赤地千里"
+    ]
+  },
+  {
+    "id": "mo-ji-wei-gan",
+    "text": "墨迹未干",
+    "pinyin": "mò jì wèi gān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "fleeting-time"
+    ],
+    "literal": "ink · mark · not yet · dry",
+    "natural": "the ink is not yet dry",
+    "meaning": {
+      "en": "Recently written; something has just been agreed or put in writing, and already changes or is broken.",
+      "zh": "字迹还没有干，比喻刚写好不久，多含“承诺、协议刚签就变”的讽意。"
+    },
+    "equivalents": [
+      "the ink is barely dry",
+      "only just signed"
+    ],
+    "examples": [
+      {
+        "zh": "协议的墨迹未干，对方就违约了。",
+        "en": "The ink on the agreement was hardly dry before the other side broke it."
+      },
+      {
+        "zh": "他的毕业证书墨迹未干，就已经开始创业。",
+        "en": "The ink on his diploma was barely dry when he started a business."
+      },
+      {
+        "zh": "条约墨迹未干，战火又起。",
+        "en": "The ink of the treaty was hardly dry before fighting broke out again."
+      }
+    ],
+    "usage": {
+      "en": "Usually in the pattern 'X's ink was not yet dry, and…', to highlight how quickly something changed. Compare English 'the ink is barely dry'.",
+      "zh": "常用在“……墨迹未干，就……”的句式中，突出变化之快；与英语“the ink is barely dry”相近。"
+    },
+    "synonyms": [
+      "刚刚签署",
+      "言犹在耳"
+    ],
+    "antonyms": [
+      "年深日久",
+      "陈年旧事"
+    ]
+  },
+  {
+    "id": "chang-hua-duan-shuo",
+    "text": "长话短说",
+    "pinyin": "cháng huà duǎn shuō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "verbosity"
+    ],
+    "literal": "long · talk · short · say",
+    "natural": "say a long story briefly",
+    "meaning": {
+      "en": "To get to the point and keep it brief.",
+      "zh": "把要说的话简短地说，不啰嗦。"
+    },
+    "equivalents": [
+      "to cut a long story short",
+      "to make it brief"
+    ],
+    "examples": [
+      {
+        "zh": "时间不多，我长话短说。",
+        "en": "We're short of time, so I'll make it brief."
+      },
+      {
+        "zh": "长话短说，这件事大家都同意了。",
+        "en": "To cut a long story short, everyone agreed."
+      },
+      {
+        "zh": "你就长话短说吧，我马上要开会。",
+        "en": "Keep it short, please; I have a meeting soon."
+      }
+    ],
+    "usage": {
+      "en": "Often used as an opener or interruption. Compare the English 'to cut a long story short'.",
+      "zh": "常作开场白或打断对方的话；相当于英语的“to cut a long story short”。"
+    },
+    "synonyms": [
+      "言简意赅",
+      "开门见山"
+    ],
+    "antonyms": [
+      "喋喋不休",
+      "啰里啰嗦"
+    ]
+  },
+  {
+    "id": "ai-min-ru-zi",
+    "text": "爱民如子",
+    "pinyin": "ài mín rú zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "society",
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "love · people · like · child",
+    "natural": "love the people like one's children",
+    "meaning": {
+      "en": "To treat the people with a parent's care, as a good official or ruler does.",
+      "zh": "像爱自己的孩子一样爱护百姓，多形容清官、好官。"
+    },
+    "equivalents": [
+      "love one's people as one's own children",
+      "a caring public servant"
+    ],
+    "examples": [
+      {
+        "zh": "他当县令时爱民如子，深受百姓拥戴。",
+        "en": "As county magistrate he cared for the people as his own children and was loved by them."
+      },
+      {
+        "zh": "这位爱民如子的市长赢得了市民的尊敬。",
+        "en": "The mayor, who cared for citizens like family, won their respect."
+      },
+      {
+        "zh": "为官一任，应当爱民如子。",
+        "en": "An official ought to treat the people as his own children."
+      }
+    ],
+    "usage": {
+      "en": "Praise of officials and rulers; slightly traditional, paternalistic tone.",
+      "zh": "赞扬官员、君主；带传统的“父母官”色彩。"
+    },
+    "synonyms": [
+      "视民如伤",
+      "勤政爱民"
+    ],
+    "antonyms": [
+      "鱼肉百姓",
+      "残民以逞"
+    ]
+  },
+  {
+    "id": "bi-men-si-guo",
+    "text": "闭门思过",
+    "pinyin": "bì mén sī guò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "mistakes-and-correction"
+    ],
+    "literal": "close · door · reflect · faults",
+    "natural": "shut the door and reflect on one's faults",
+    "meaning": {
+      "en": "To stay by oneself and reflect on one's mistakes.",
+      "zh": "关起门来，独自反省自己的过错。"
+    },
+    "equivalents": [
+      "reflect on one's faults in private",
+      "think over one's mistakes"
+    ],
+    "examples": [
+      {
+        "zh": "犯错之后，他闭门思过了一个星期。",
+        "en": "After his mistake he spent a week reflecting on it in seclusion."
+      },
+      {
+        "zh": "老师让他回家闭门思过。",
+        "en": "The teacher told him to go home and think about what he'd done."
+      },
+      {
+        "zh": "公司要求涉事部门闭门思过，整改到位。",
+        "en": "The company ordered the department involved to reflect and put things right."
+      }
+    ],
+    "usage": {
+      "en": "Can be a self-imposed act or a punishment ('go to your room and think'). Often news about officials made to reflect.",
+      "zh": "可指自觉反省，也可指受罚反省（类似“回房反省”）。"
+    },
+    "synonyms": [
+      "反躬自省",
+      "痛定思痛"
+    ],
+    "antonyms": [
+      "文过饰非",
+      "执迷不悟"
+    ]
+  },
+  {
+    "id": "fa-li-wu-bian",
+    "text": "法力无边",
+    "pinyin": "fǎ lì wú biān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "myths-legends",
+      "buddhist-origin"
+    ],
+    "literal": "magic · power · no · limit",
+    "natural": "boundless magical power",
+    "meaning": {
+      "en": "Having limitless supernatural power; also used jokingly of someone who seems able to do anything.",
+      "zh": "神通无比，法术无穷无尽；也戏指某人本事极大。"
+    },
+    "equivalents": [
+      "boundless supernatural power",
+      "all-powerful"
+    ],
+    "examples": [
+      {
+        "zh": "孙悟空法力无边，却逃不出如来佛的手掌。",
+        "en": "Sun Wukong has boundless powers, yet cannot escape the Buddha's palm."
+      },
+      {
+        "zh": "别以为他法力无边，什么事都能摆平。",
+        "en": "Don't think he's all-powerful and can fix anything."
+      },
+      {
+        "zh": "传说这位仙人法力无边，能呼风唤雨。",
+        "en": "Legend says the immortal had limitless magic and could summon wind and rain."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in myths, novels and games; jokingly of someone resourceful. Buddhist flavour (法力 = power of the Dharma).",
+      "zh": "多用于神话、小说、游戏；也戏称神通广大的人，带佛教色彩。"
+    },
+    "synonyms": [
+      "神通广大",
+      "无所不能"
+    ],
+    "antonyms": [
+      "束手无策",
+      "无能为力"
+    ]
+  },
+  {
+    "id": "xu-fa-jie-bai",
+    "text": "须发皆白",
+    "pinyin": "xū fà jiē bái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "health",
+      "body",
+      "experience-and-old-age"
+    ],
+    "literal": "beard · hair · all · white",
+    "natural": "beard and hair all white",
+    "meaning": {
+      "en": "With hair and beard all white, a sign of old age.",
+      "zh": "胡须和头发全都白了，形容年纪很大。"
+    },
+    "equivalents": [
+      "white-haired and white-bearded",
+      "snowy with age"
+    ],
+    "examples": [
+      {
+        "zh": "那位须发皆白的老人是村里最年长的人。",
+        "en": "The white-bearded old man is the oldest in the village."
+      },
+      {
+        "zh": "几年不见，他已须发皆白。",
+        "en": "After a few years apart, his hair and beard have turned completely white."
+      },
+      {
+        "zh": "须发皆白的老将军依然精神矍铄。",
+        "en": "The white-haired old general was still hale and hearty."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive, usually respectful, of the elderly (often men). 发 here is fà (hair).",
+      "zh": "描写老年人，多用于男性，含敬意；“发”读fà。"
+    },
+    "synonyms": [
+      "白发苍苍",
+      "鹤发童颜"
+    ],
+    "antonyms": [
+      "青春年少",
+      "乌发朱颜"
+    ]
+  },
+  {
+    "id": "long-sheng-jiu-zi",
+    "text": "龙生九子",
+    "pinyin": "lóng shēng jiǔ zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "myths-legends",
+      "parenting-and-family"
+    ],
+    "literal": "dragon · bears · nine · sons",
+    "natural": "the dragon has nine sons",
+    "meaning": {
+      "en": "Even the dragon's nine sons are all different; used to say that children of one family differ in character and ability.",
+      "zh": "传说龙生九子，各不相同，比喻同胞兄弟品性、才能各异。"
+    },
+    "equivalents": [
+      "children of one family are all different",
+      "nine sons, nine natures"
+    ],
+    "examples": [
+      {
+        "zh": "龙生九子，各有不同，兄弟俩性格差别很大。",
+        "en": "The dragon has nine sons, each different; the two brothers are very unlike."
+      },
+      {
+        "zh": "龙生九子，一母同胞也未必一样。",
+        "en": "As the saying goes, a dragon's nine sons are all different; siblings may not be alike."
+      },
+      {
+        "zh": "民间传说龙生九子，其中有囚牛、睚眦等。",
+        "en": "Folklore says the dragon has nine sons, among them Qiuniu and Yazi."
+      }
+    ],
+    "usage": {
+      "en": "Usually in 龙生九子，各有所好 / 各不相同. The nine sons are a Ming-era folk tradition; names vary by source.",
+      "zh": "常说“龙生九子，各不相同”；九子之说见于明代民间传说，名称因书而异。"
+    },
+    "synonyms": [
+      "一母生九子，连母十个样",
+      "各有千秋"
+    ],
+    "antonyms": [
+      "如出一辙",
+      "一模一样"
+    ]
+  },
+  {
+    "id": "shuo-chang-dao-duan",
+    "text": "说长道短",
+    "pinyin": "shuō cháng dào duǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "inappropriate-behavior"
+    ],
+    "literal": "say · long · talk · short",
+    "natural": "talk about long and short",
+    "meaning": {
+      "en": "To gossip about others and pass judgement on their affairs.",
+      "zh": "背后议论别人的是非好坏。"
+    },
+    "equivalents": [
+      "gossip about others",
+      "pick people apart"
+    ],
+    "examples": [
+      {
+        "zh": "不要在背后说长道短。",
+        "en": "Don't gossip behind people's backs."
+      },
+      {
+        "zh": "邻居们爱对别人家的事说长道短。",
+        "en": "The neighbours love to gossip about other families' business."
+      },
+      {
+        "zh": "她最讨厌被人说长道短。",
+        "en": "She hates being talked about."
+      }
+    ],
+    "usage": {
+      "en": "Negative, casual; close to 说三道四 and 评头论足, but usually of gossip about people.",
+      "zh": "贬义，口语；与“说三道四”“评头论足”相近。"
+    },
+    "synonyms": [
+      "说三道四",
+      "飞短流长"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "闭口不谈"
+    ]
+  },
+  {
+    "id": "jue-dai-jia-ren",
+    "text": "绝代佳人",
+    "pinyin": "jué dài jiā rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "character",
+      "appearance"
+    ],
+    "literal": "unmatched · age · fine · person",
+    "natural": "a beauty without equal in her age",
+    "meaning": {
+      "en": "A woman of beauty unrivalled in her time.",
+      "zh": "当代独一无二的美人。"
+    },
+    "equivalents": [
+      "a peerless beauty",
+      "a beauty beyond compare"
+    ],
+    "examples": [
+      {
+        "zh": "传说西施是绝代佳人。",
+        "en": "Legend has it that Xi Shi was a peerless beauty."
+      },
+      {
+        "zh": "小说中的绝代佳人最后都命运多舛。",
+        "en": "The peerless beauties in the novels all end up with an unhappy fate."
+      },
+      {
+        "zh": "她虽不是绝代佳人，却气质出众。",
+        "en": "Though not a peerless beauty, she has an outstanding air."
+      }
+    ],
+    "usage": {
+      "en": "Literary; of women only. Sometimes used lightly or ironically in modern speech. Compare 倾国倾城.",
+      "zh": "书面语，只用于女性，现代偶尔戏用；与“倾国倾城”相近。"
+    },
+    "synonyms": [
+      "倾国倾城",
+      "国色天香"
+    ],
+    "antonyms": [
+      "相貌平平",
+      "其貌不扬"
+    ]
+  }
+]

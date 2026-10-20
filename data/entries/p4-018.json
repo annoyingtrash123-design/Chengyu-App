@@ -1,0 +1,1195 @@
+[
+  {
+    "id": "yang-ren-bi-xi",
+    "text": "仰人鼻息",
+    "pinyin": "yǎng rén bí xī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "negative-character-flaws",
+      "historical-records"
+    ],
+    "literal": "look up · others · nose · breath",
+    "natural": "rely on another's breathing",
+    "meaning": {
+      "en": "To depend on others and have to bow to their wishes.",
+      "zh": "依赖别人的鼻息来呼吸，比喻依附别人、看人脸色行事。"
+    },
+    "equivalents": [
+      "live at someone's mercy",
+      "depend on others' favour"
+    ],
+    "examples": [
+      {
+        "zh": "他不愿仰人鼻息，决定自己创业。",
+        "en": "Unwilling to live at others' mercy, he decided to start his own business."
+      },
+      {
+        "zh": "公司长期仰人鼻息，核心技术全靠进口。",
+        "en": "The company long depended on others, importing all its core technology."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·袁绍传》",
+      "story": {
+        "en": "Yuan Shao's adviser describes a rival's stranded army as 'dependent on our breath, like a baby in the palm of the hand'.",
+        "zh": "《后汉书·袁绍传》：“孤客穷军，仰我鼻息，譬如婴儿在股掌之上，绝其哺乳，立可饿杀。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; derogatory or sympathetic, about dependence on a more powerful party.",
+      "zh": "多作谓语；含贬义或同情，指依附有权势者。"
+    },
+    "synonyms": [
+      "寄人篱下",
+      "俯首听命"
+    ],
+    "antonyms": [
+      "自力更生",
+      "独立自主"
+    ]
+  },
+  {
+    "id": "kai-men-yi-dao",
+    "text": "开门揖盗",
+    "pinyin": "kāi mén yī dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "poor-planning-and-hasty-decisions",
+      "three-kingdoms",
+      "historical-records"
+    ],
+    "literal": "open · door · bow · robber",
+    "natural": "open the door and bow to the burglar",
+    "meaning": {
+      "en": "To invite disaster by letting an enemy or bad element in.",
+      "zh": "打开大门，拱手迎接强盗，比喻引进坏人，招来祸害。"
+    },
+    "equivalents": [
+      "invite the wolf into the fold",
+      "ask for trouble"
+    ],
+    "examples": [
+      {
+        "zh": "放松监管等于开门揖盗。",
+        "en": "Loosening oversight is simply inviting trouble."
+      },
+      {
+        "zh": "让这家公司接管数据，无异于开门揖盗。",
+        "en": "Letting that firm take over the data is like opening the door to a thief."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·吴书·孙权传》注引《江表传》",
+      "story": {
+        "en": "Zhang Zhao warned the grieving Sun Quan that observing ordinary mourning rites while wolves prowl would be 'opening the door and bowing to the robber'.",
+        "zh": "《江表传》：“是为开门而揖盗也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; usually in warnings, 无异于/等于 开门揖盗. Negative.",
+      "zh": "多作谓语，常用于警告，如“无异于开门揖盗”；贬义。"
+    },
+    "synonyms": [
+      "引狼入室",
+      "养虎遗患"
+    ],
+    "antonyms": [
+      "拒之门外",
+      "防微杜渐"
+    ]
+  },
+  {
+    "id": "ke-quan-ke-dian",
+    "text": "可圈可点",
+    "pinyin": "kě quān kě diǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "arts",
+      "excellent-writing",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "can · circle · can · dot",
+    "natural": "worthy of circles and dots",
+    "meaning": {
+      "en": "Worthy of praise; excellent enough to deserve being marked with approval.",
+      "zh": "文章精彩之处可加圈点，形容表现出色、值得称赞。"
+    },
+    "equivalents": [
+      "well worth praising",
+      "highly commendable"
+    ],
+    "examples": [
+      {
+        "zh": "他在本场比赛中的表现可圈可点。",
+        "en": "His performance in this match was highly commendable."
+      },
+      {
+        "zh": "这部电影的镜头语言可圈可点。",
+        "en": "The film's visual language deserves praise."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. In the past, readers marked fine lines in an essay with circles and dots. Not '可圈可点' = critical.",
+      "zh": "多作谓语、定语；旧时读文章在好句旁加圈点，故为褒义。"
+    },
+    "synonyms": [
+      "精彩绝伦",
+      "可歌可泣"
+    ],
+    "antonyms": [
+      "乏善可陈",
+      "一无是处"
+    ]
+  },
+  {
+    "id": "ren-tong-ge-ai",
+    "text": "忍痛割爱",
+    "pinyin": "rěn tòng gē ài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "complex-emotional-states",
+      "contentment-and-simplicity"
+    ],
+    "literal": "bear · pain · cut off · beloved",
+    "natural": "painfully give up what one loves",
+    "meaning": {
+      "en": "To part reluctantly with something one treasures.",
+      "zh": "忍着痛苦舍弃自己心爱的东西。"
+    },
+    "equivalents": [
+      "part with reluctantly",
+      "make a painful sacrifice"
+    ],
+    "examples": [
+      {
+        "zh": "为了凑够学费，他忍痛割爱，卖掉了心爱的相机。",
+        "en": "To cover the fees, he reluctantly sold his beloved camera."
+      },
+      {
+        "zh": "导演忍痛割爱，剪掉了几场精彩的戏。",
+        "en": "The director painfully cut several fine scenes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, usually before the thing given up. Often used for polite refusals when giving something away.",
+      "zh": "多作谓语；也常用于客气地表示自己舍不得而转让。"
+    },
+    "synonyms": [
+      "割舍所爱",
+      "舍不得又舍得"
+    ],
+    "antonyms": [
+      "爱不释手",
+      "据为己有"
+    ]
+  },
+  {
+    "id": "zhi-hui-ruo-ding",
+    "text": "指挥若定",
+    "pinyin": "zhǐ huī ruò dìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "military-strategy-and-victory",
+      "poems-prose"
+    ],
+    "literal": "command · as if · settled",
+    "natural": "command as if all is settled",
+    "meaning": {
+      "en": "To direct matters calmly and confidently, as if the outcome were already decided.",
+      "zh": "指挥时从容镇定，好像事先已有定局。"
+    },
+    "equivalents": [
+      "direct with calm confidence",
+      "masterly command"
+    ],
+    "examples": [
+      {
+        "zh": "面对突发状况，船长指挥若定，船员们迅速撤离。",
+        "en": "Facing the emergency, the captain directed calmly and the crew evacuated quickly."
+      },
+      {
+        "zh": "教练指挥若定，球队逆转获胜。",
+        "en": "The coach commanded with composure, and the team turned the game around."
+      }
+    ],
+    "origin": {
+      "source": "杜甫《咏怀古迹五首》",
+      "story": {
+        "en": "Du Fu praises Zhuge Liang: 'his command seemed settled in advance, outshining the ministers of Han'.",
+        "zh": "杜甫：“伯仲之间见伊吕，指挥若定失萧曹。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; praise for calm leadership under pressure. Formal.",
+      "zh": "多作谓语；赞扬临危不乱的指挥者，偏书面。"
+    },
+    "synonyms": [
+      "从容不迫",
+      "胸有成竹"
+    ],
+    "antonyms": [
+      "手忙脚乱",
+      "惊慌失措"
+    ]
+  },
+  {
+    "id": "wai-rou-nei-gang",
+    "text": "外柔内刚",
+    "pinyin": "wài róu nèi gāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "positive-character-qualities"
+    ],
+    "literal": "outside · soft · inside · hard",
+    "natural": "gentle outside, firm inside",
+    "meaning": {
+      "en": "Gentle in manner but resolute and strong at heart.",
+      "zh": "外表温和，内心刚强。"
+    },
+    "equivalents": [
+      "gentle but resolute",
+      "a velvet glove on an iron hand"
+    ],
+    "examples": [
+      {
+        "zh": "她外柔内刚，遇到大事总能挺住。",
+        "en": "Gentle by nature but strong at heart, she holds up in a crisis."
+      },
+      {
+        "zh": "这位老师外柔内刚，学生们既亲近又敬畏。",
+        "en": "The teacher is gentle yet firm, and students are both fond of and in awe of her."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praise. Compare 外圆内方 (flexible outside, principled inside).",
+      "zh": "多作谓语、定语；褒义。与“外圆内方”相近。"
+    },
+    "synonyms": [
+      "柔中带刚",
+      "绵里藏针"
+    ],
+    "antonyms": [
+      "外强中干"
+    ]
+  },
+  {
+    "id": "dui-jiu-dang-ge",
+    "text": "对酒当歌",
+    "pinyin": "duì jiǔ dāng gē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "joy-and-happiness",
+      "poems-prose"
+    ],
+    "literal": "face · wine · face · song",
+    "natural": "wine before us, let us sing",
+    "meaning": {
+      "en": "To sing over a cup of wine; to enjoy life and its pleasures, often with a sense of life's brevity.",
+      "zh": "面对美酒放声高歌，指及时行乐或感慨人生短暂。"
+    },
+    "equivalents": [
+      "wine and song",
+      "enjoy the moment"
+    ],
+    "examples": [
+      {
+        "zh": "朋友相聚，对酒当歌，好不快活。",
+        "en": "Friends gathered to drink and sing, and it was great fun."
+      },
+      {
+        "zh": "他在对酒当歌的场面里，却显得心事重重。",
+        "en": "Amid the wine and song, he looked weighed down by worries."
+      }
+    ],
+    "origin": {
+      "source": "曹操《短歌行》",
+      "story": {
+        "en": "Cao Cao's poem: 'Facing wine, we should sing; how long does a human life last?'",
+        "zh": "曹操：“对酒当歌，人生几何！譬如朝露，去日苦多。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial; often quoted with 人生几何. Tone ranges from carefree to wistful.",
+      "zh": "多作谓语、状语；常接“人生几何”，语气或洒脱或感伤。"
+    },
+    "synonyms": [
+      "把酒言欢",
+      "及时行乐"
+    ],
+    "antonyms": [
+      "闭门思过"
+    ]
+  },
+  {
+    "id": "cuo-tuo-sui-yue",
+    "text": "蹉跎岁月",
+    "pinyin": "cuō tuó suì yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "time",
+      "fleeting-time",
+      "emotions"
+    ],
+    "literal": "stumble · dawdle · years · months",
+    "natural": "let the years slip away",
+    "meaning": {
+      "en": "To waste time and let the years go by without achievement.",
+      "zh": "虚度光阴，年华白白流逝。"
+    },
+    "equivalents": [
+      "let the years slip by",
+      "waste one's best years"
+    ],
+    "examples": [
+      {
+        "zh": "他后悔自己蹉跎岁月，一事无成。",
+        "en": "He regrets frittering away the years and achieving nothing."
+      },
+      {
+        "zh": "不要蹉跎岁月，趁年轻多学点东西。",
+        "en": "Don't waste your years; learn while you are young."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 蹉跎 alone can mean 'to waste time'. Often tinged with regret. Also the title of a well-known 1980s novel.",
+      "zh": "多作谓语；“蹉跎”本身即指虚度光阴，常含悔意。"
+    },
+    "synonyms": [
+      "虚度年华",
+      "浪费光阴"
+    ],
+    "antonyms": [
+      "只争朝夕",
+      "惜时如金"
+    ]
+  },
+  {
+    "id": "yi-pian-dan-xin",
+    "text": "一片丹心",
+    "pinyin": "yī piàn dān xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "character",
+      "positive-character-qualities",
+      "poems-prose"
+    ],
+    "literal": "one · piece · red · heart",
+    "natural": "a piece of red heart",
+    "meaning": {
+      "en": "A heart wholly loyal and sincere.",
+      "zh": "一颗赤诚的心，形容忠诚。"
+    },
+    "equivalents": [
+      "wholehearted loyalty",
+      "a faithful heart"
+    ],
+    "examples": [
+      {
+        "zh": "他一片丹心为国家，从未有过私念。",
+        "en": "With a wholly loyal heart he served the country, without selfish thoughts."
+      },
+      {
+        "zh": "烈士们的一片丹心感动了后人。",
+        "en": "The martyrs' devotion has moved later generations."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object; praise of loyalty, usually to a country or cause. Not about lovers; compare 一片冰心.",
+      "zh": "多作定语、宾语；赞扬忠诚，多指对国家、事业。"
+    },
+    "synonyms": [
+      "赤胆忠心",
+      "忠心耿耿"
+    ],
+    "antonyms": [
+      "三心二意",
+      "背信弃义"
+    ]
+  },
+  {
+    "id": "bi-zhou-zi-zhen",
+    "text": "敝帚自珍",
+    "pinyin": "bì zhǒu zì zhēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "attitude-humble-vs-arrogant",
+      "poems-prose"
+    ],
+    "literal": "worn · broom · self · treasure",
+    "natural": "treasure one's own battered broom",
+    "meaning": {
+      "en": "To value one's own possessions or work, however poor, simply because they are one's own.",
+      "zh": "把自己的破扫帚当宝贝，比喻对自己的东西即使不好也很珍惜。"
+    },
+    "equivalents": [
+      "prize one's own humble things",
+      "cherish what's one's own"
+    ],
+    "examples": [
+      {
+        "zh": "这些旧书对别人是废纸，对我却是敝帚自珍。",
+        "en": "To others these old books are scrap paper; to me they are treasures."
+      },
+      {
+        "zh": "他对自己的拙作敝帚自珍。",
+        "en": "He cherishes his clumsy work simply because it is his."
+      }
+    ],
+    "origin": {
+      "source": "曹丕《典论·论文》",
+      "story": {
+        "en": "Cao Pi notes people overrate their own writing: 'A household with a worn broom values it at a thousand gold pieces.'",
+        "zh": "曹丕：“家有弊帚，享之千金。”"
+      }
+    },
+    "usage": {
+      "en": "Often used humbly of one's own work. Written 敝帚 or 弊帚; the 敝 form is standard.",
+      "zh": "多作谓语，常用于自谦；今多写“敝帚”。"
+    },
+    "synonyms": [
+      "孤芳自赏",
+      "惜如拱璧"
+    ],
+    "antonyms": [
+      "弃之如敝屣"
+    ]
+  },
+  {
+    "id": "bu-ping-ze-ming",
+    "text": "不平则鸣",
+    "pinyin": "bù píng zé míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "不平之鸣"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "speech",
+      "frankness-and-candour",
+      "poems-prose"
+    ],
+    "literal": "not · level · then · cry out",
+    "natural": "where things are unfair, people cry out",
+    "meaning": {
+      "en": "Where there is injustice, there will be protest; those who feel wronged speak out.",
+      "zh": "遇到不公平的事就要发出不平之声。"
+    },
+    "equivalents": [
+      "injustice makes people speak out",
+      "cry out against unfairness"
+    ],
+    "examples": [
+      {
+        "zh": "员工们不平则鸣，集体向公司提出了意见。",
+        "en": "Feeling wronged, the staff spoke out together to the company."
+      },
+      {
+        "zh": "古人说不平则鸣，好的文章常出自愤懑。",
+        "en": "As the ancients said, injustice breeds protest, and great writing often comes from indignation."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《送孟东野序》",
+      "story": {
+        "en": "Han Yu: 'Generally, when things cannot find their level, they cry out.'",
+        "zh": "韩愈：“大凡物不得其平则鸣。”"
+      }
+    },
+    "usage": {
+      "en": "Usually predicate or an introductory saying. Sympathetic: the grievance is seen as justified.",
+      "zh": "多作谓语或引述的熟语；语气同情，认为不平有理。"
+    },
+    "synonyms": [
+      "仗义执言",
+      "打抱不平"
+    ],
+    "antonyms": [
+      "忍气吞声",
+      "逆来顺受"
+    ]
+  },
+  {
+    "id": "an-tu-zhong-qian",
+    "text": "安土重迁",
+    "pinyin": "ān tǔ zhòng qiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "resistance-to-change",
+      "historical-records"
+    ],
+    "literal": "be content · land · value · move",
+    "natural": "content with the land, reluctant to move",
+    "meaning": {
+      "en": "Attached to one's native land and reluctant to move away.",
+      "zh": "留恋故土，不愿轻易迁移。"
+    },
+    "equivalents": [
+      "rooted to one's homeland",
+      "reluctant to leave home"
+    ],
+    "examples": [
+      {
+        "zh": "老一辈人安土重迁，不愿随子女搬进城里。",
+        "en": "The older generation, attached to home, would not follow their children to the city."
+      },
+      {
+        "zh": "中国农耕文化形成了安土重迁的传统。",
+        "en": "China's farming culture produced a tradition of staying put."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·元帝纪》",
+      "story": {
+        "en": "Emperor Yuan's edict notes that to be content with the land and loath to move is the nature of the common people.",
+        "zh": "《汉书》：“安土重迁，黎民之性，骨肉相附，人情所愿也。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or attributive; neutral, mostly of older people or traditional society. 重 is zhòng here.",
+      "zh": "多作谓语、定语；中性，多指老人或传统社会；“重”读zhòng。"
+    },
+    "synonyms": [
+      "故土难离",
+      "恋恋不舍"
+    ],
+    "antonyms": [
+      "背井离乡",
+      "四海为家"
+    ]
+  },
+  {
+    "id": "san-gu-liu-po",
+    "text": "三姑六婆",
+    "pinyin": "sān gū liù pó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "society",
+      "historical-periods"
+    ],
+    "literal": "three · aunts · six · crones",
+    "natural": "three aunts and six old women",
+    "meaning": {
+      "en": "Collectively, women of various trades once thought to gossip and make trouble; now a gossip-prone group of women.",
+      "zh": "旧指各种从事特殊行业的妇女，后泛指爱搬弄是非的妇女。"
+    },
+    "equivalents": [
+      "gossiping old women",
+      "busybody women"
+    ],
+    "examples": [
+      {
+        "zh": "别跟那些三姑六婆多嘴，免得传出闲话。",
+        "en": "Don't talk to those gossips, or rumours will spread."
+      },
+      {
+        "zh": "她最怕三姑六婆来家里打听。",
+        "en": "She dreads busybody women coming to pry."
+      }
+    ],
+    "origin": {
+      "source": "陶宗仪《南村辍耕录》",
+      "story": {
+        "en": "Tao Zongyi lists three 'aunts' (nuns, Daoist women, fortune-tellers) and six 'crones' (matchmakers, procuresses, etc.), warning families to keep them away.",
+        "zh": "《辍耕录》：“三姑六婆，实淫盗之媒。”"
+      }
+    },
+    "usage": {
+      "en": "Noun phrase; derogatory and now regarded as sexist, so use with care. Traditionally refers to nuns, Daoist women, fortune-tellers, matchmakers, etc.",
+      "zh": "作名词；贬义，今多被视为带有性别偏见，需谨慎使用。"
+    },
+    "synonyms": [
+      "长舌妇"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "she-zhan-qun-ru",
+    "text": "舌战群儒",
+    "pinyin": "shé zhàn qún rú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "three-kingdoms",
+      "stories"
+    ],
+    "literal": "tongue · battle · crowd · scholars",
+    "natural": "debate a crowd of scholars",
+    "meaning": {
+      "en": "To out-argue many opponents single-handedly in debate.",
+      "zh": "一个人同许多人辩论，并把对方驳倒。"
+    },
+    "equivalents": [
+      "outargue the whole room",
+      "win a debate against many"
+    ],
+    "examples": [
+      {
+        "zh": "辩论赛上，她舌战群儒，赢得了满堂喝彩。",
+        "en": "In the debate she outargued the whole panel and won applause."
+      },
+      {
+        "zh": "他在会上舌战群儒，说服了所有反对者。",
+        "en": "At the meeting he beat all the critics and won them round."
+      }
+    ],
+    "origin": {
+      "source": "《三国演义》第四十三回",
+      "story": {
+        "en": "In the Romance of the Three Kingdoms, Zhuge Liang goes to Wu and refutes its scholars one by one to win an alliance.",
+        "zh": "《三国演义》：“诸葛亮舌战群儒，鲁子敬力排众议。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; praise for eloquence and nerve. From the novel 三国演义, where Zhuge Liang debates Wu's scholars.",
+      "zh": "多作谓语；赞扬口才与胆识；典出《三国演义》诸葛亮在东吴舌战群儒。"
+    },
+    "synonyms": [
+      "唇枪舌剑",
+      "滔滔不绝"
+    ],
+    "antonyms": [
+      "哑口无言",
+      "理屈词穷"
+    ]
+  },
+  {
+    "id": "ru-qie-ru-cuo",
+    "text": "如切如磋",
+    "pinyin": "rú qiē rú cuō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "learning",
+      "apprenticeship-and-learning",
+      "poems-prose"
+    ],
+    "literal": "like · cut · like · file",
+    "natural": "like cutting and filing",
+    "meaning": {
+      "en": "Like cutting and polishing bone or ivory; to discuss and learn from one another to improve.",
+      "zh": "像加工骨器、象牙一样反复切磋，比喻互相研讨、取长补短。"
+    },
+    "equivalents": [
+      "learn from each other through discussion",
+      "polish through exchange"
+    ],
+    "examples": [
+      {
+        "zh": "同学们如切如磋，共同进步。",
+        "en": "The students polished each other's work and improved together."
+      },
+      {
+        "zh": "两位学者如切如磋，成为多年的学术挚友。",
+        "en": "The two scholars exchanged ideas for years and became close academic friends."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·卫风·淇奥》",
+      "story": {
+        "en": "The Odes praise a gentleman as 'like cut, like filed, like carved, like polished'.",
+        "zh": "《诗经》：“有匪君子，如切如磋，如琢如磨。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; 切 is qiē and 磋 cuō; today usually in 切磋. Praises collaborative study.",
+      "zh": "多作谓语；“切”读qiē；今多用“切磋”。"
+    },
+    "synonyms": [
+      "切磋琢磨",
+      "相互砥砺"
+    ],
+    "antonyms": [
+      "闭门造车",
+      "固步自封"
+    ]
+  },
+  {
+    "id": "shi-zhi-dong-yu-shou-zhi-sang-yu",
+    "text": "失之东隅，收之桑榆",
+    "pinyin": "shī zhī dōng yú, shōu zhī sāng yú",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "失之东隅",
+      "收之桑榆"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fortune",
+      "near-misses-and-setbacks",
+      "historical-records"
+    ],
+    "literal": "lose · it · east · corner, gather · it · mulberry · elm",
+    "natural": "lose in the morning, gain by evening",
+    "meaning": {
+      "en": "What you lose at first may be made up for later.",
+      "zh": "比喻开始在这方面失败了，后来在另一方面得到补偿。"
+    },
+    "equivalents": [
+      "lose here, gain there",
+      "an early loss"
+    ],
+    "examples": [
+      {
+        "zh": "失之东隅，收之桑榆，别太灰心。",
+        "en": "Lose in the east, gain in the west; don't be discouraged."
+      },
+      {
+        "zh": "他在初赛失之东隅，却在决赛中得以补偿。",
+        "en": "He lost at the early round but made up for it in the final."
+      },
+      {
+        "zh": "这次投标虽然失败，但明年的大单让他收之桑榆。",
+        "en": "The bid failed, but next year's big order made up for it."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·冯异传》",
+      "story": {
+        "en": "Emperor Guangwu told Feng Yi that a defeat at dawn may be repaid at dusk: 'lost in the east, regained in the west'.",
+        "zh": "《后汉书》：“可谓失之东隅，收之桑榆。”"
+      }
+    },
+    "usage": {
+      "en": "Almost always as 失之东隅，收之桑榆; usually a consolation. 隅 is yú.",
+      "zh": "几乎总是与“收之桑榆”连用，多作安慰；“隅”读yú。"
+    },
+    "synonyms": [
+      "塞翁失马",
+      "东山再起"
+    ],
+    "antonyms": [
+      "得不偿失",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "qin-tong-chou-kuai",
+    "text": "亲痛仇快",
+    "pinyin": "qīn tòng chóu kuài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "亲者痛仇者快"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "conflict-and-strife"
+    ],
+    "literal": "kin · pain · foe · glad",
+    "natural": "kin hurt, enemies gladdened",
+    "meaning": {
+      "en": "An act that grieves one's friends and delights one's enemies.",
+      "zh": "使亲人伤心、使仇敌高兴的事。"
+    },
+    "equivalents": [
+      "to the grief of friends and the joy of foes",
+      "play into enemies' hands"
+    ],
+    "examples": [
+      {
+        "zh": "内部互相攻击，只会亲痛仇快。",
+        "en": "Attacking each other from within only grieves friends and delights rivals."
+      },
+      {
+        "zh": "分裂行为是亲痛仇快的蠢事。",
+        "en": "Splitting up is a foolish act that pleases only our enemies."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; used in warnings against infighting. Usually written 亲者痛，仇者快.",
+      "zh": "多作谓语、定语，用于警告内斗；常说“亲者痛，仇者快”。"
+    },
+    "synonyms": [
+      "自相残杀"
+    ],
+    "antonyms": [
+      "团结一致",
+      "同仇敌忾"
+    ]
+  },
+  {
+    "id": "chi-nan-yuan-nu",
+    "text": "痴男怨女",
+    "pinyin": "chī nán yuàn nǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "love-and-marriage",
+      "complex-emotional-states"
+    ],
+    "literal": "foolish · men · resentful · women",
+    "natural": "besotted men and aggrieved women",
+    "meaning": {
+      "en": "Young men and women caught in the pain and longing of love.",
+      "zh": "沉迷爱情而不能自拔的青年男女。"
+    },
+    "equivalents": [
+      "lovelorn young people",
+      "lovers sighing in vain"
+    ],
+    "examples": [
+      {
+        "zh": "这首情歌唱出了多少痴男怨女的心声。",
+        "en": "This love song speaks for many lovelorn young people."
+      },
+      {
+        "zh": "小说里满是痴男怨女的悲欢离合。",
+        "en": "The novel is full of the joys and sorrows of lovesick men and women."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase, usually of unhappy lovers; slightly ironic or sympathetic.",
+      "zh": "作名词性成分，多指为情所苦的男女，略带调侃或同情。"
+    },
+    "synonyms": [
+      "多情种子",
+      "红男绿女"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xian-you-hou-le",
+    "text": "先忧后乐",
+    "pinyin": "xiān yōu hòu lè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "society",
+      "leadership-and-authority",
+      "poems-prose"
+    ],
+    "literal": "first · worry · after · enjoy",
+    "natural": "worry first, enjoy later",
+    "meaning": {
+      "en": "To bear the burdens first and enjoy the rewards only after everyone else; a model for public servants.",
+      "zh": "先于天下人担忧，后于天下人享乐，形容以国事为重、无私奉献。"
+    },
+    "equivalents": [
+      "share the hardship before the joy",
+      "put the public good first"
+    ],
+    "examples": [
+      {
+        "zh": "干部应当先忧后乐，把群众冷暖放在心上。",
+        "en": "Officials should bear the burdens first and keep the people's welfare in mind."
+      },
+      {
+        "zh": "他先忧后乐的精神，赢得了大家的敬重。",
+        "en": "His spirit of shouldering burdens first won everyone's respect."
+      }
+    ],
+    "origin": {
+      "source": "范仲淹《岳阳楼记》",
+      "story": {
+        "en": "Fan Zhongyan: 'Be the first to worry about the world's troubles and the last to enjoy its pleasures.'",
+        "zh": "范仲淹：“先天下之忧而忧，后天下之乐而乐。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate, attributive or as a motto; praise, often for officials and leaders. 先天下之忧而忧 is the full line.",
+      "zh": "多作谓语、定语或座右铭；褒义，多指官员、领导。"
+    },
+    "synonyms": [
+      "先人后己",
+      "公而忘私"
+    ],
+    "antonyms": [
+      "贪图享乐",
+      "先私后公"
+    ]
+  },
+  {
+    "id": "chun-qiu-bi-fa",
+    "text": "春秋笔法",
+    "pinyin": "chūn qiū bǐ fǎ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "arts",
+      "excellent-writing",
+      "literary-criticism"
+    ],
+    "literal": "Spring · Autumn · brush · method",
+    "natural": "the Spring and Autumn style of writing",
+    "meaning": {
+      "en": "A style of writing that conveys praise or blame through subtle word choice rather than open comment.",
+      "zh": "指文笔曲折含蓄，用字之间寓褒贬于叙事。"
+    },
+    "equivalents": [
+      "praise or blame by implication",
+      "understated, loaded wording"
+    ],
+    "examples": [
+      {
+        "zh": "这篇报道看似平实，实则用了春秋笔法。",
+        "en": "The report seems plain but in fact judges through subtle wording."
+      },
+      {
+        "zh": "作者以春秋笔法写史，字里行间自有褒贬。",
+        "en": "The author wrote history with subtle judgement between the lines."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or object, about writing or reporting. Reference is to the Spring and Autumn Annals, said to be compiled by Confucius.",
+      "zh": "多作定语、宾语，评论文章；典出《春秋》，相传孔子所修。"
+    },
+    "synonyms": [
+      "微言大义",
+      "字字珠玑"
+    ],
+    "antonyms": [
+      "直抒胸臆"
+    ]
+  },
+  {
+    "id": "hu-luo-ping-yang",
+    "text": "虎落平阳",
+    "pinyin": "hǔ luò píng yáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "tiger · fall · flat · sunlight",
+    "natural": "a tiger on the flat plain",
+    "meaning": {
+      "en": "A powerful person who has lost power and is at the mercy of lesser men; usually from 虎落平阳被犬欺.",
+      "zh": "老虎落到平原上，比喻有权势的人失势后受人欺侮。"
+    },
+    "equivalents": [
+      "a mighty one brought low",
+      "a fallen tiger mocked by dogs"
+    ],
+    "examples": [
+      {
+        "zh": "他曾经风光无限，如今虎落平阳，处处受人冷眼。",
+        "en": "Once a big shot, now a fallen tiger, he is snubbed everywhere."
+      },
+      {
+        "zh": "别以为他虎落平阳就好欺负。",
+        "en": "Don't think he's easy prey just because he has fallen."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually part of 虎落平阳被犬欺 (a tiger on the plain is bullied by dogs). 阳 here means a sunlit plain.",
+      "zh": "多作谓语；常用“虎落平阳被犬欺”；“平阳”指平原。"
+    },
+    "synonyms": [
+      "龙游浅水",
+      "英雄失路"
+    ],
+    "antonyms": [
+      "如虎添翼",
+      "东山再起"
+    ]
+  },
+  {
+    "id": "xiao-yi-da-yi",
+    "text": "晓以大义",
+    "pinyin": "xiǎo yǐ dà yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "fairness-and-impartiality",
+      "news-and-officialese"
+    ],
+    "literal": "explain · with · great · principle",
+    "natural": "explain the larger principle",
+    "meaning": {
+      "en": "To persuade someone by appealing to a larger moral principle or public interest.",
+      "zh": "用大道理使人明白，多指劝说。"
+    },
+    "equivalents": [
+      "appeal to higher principles",
+      "reason with someone on moral grounds"
+    ],
+    "examples": [
+      {
+        "zh": "老师晓以大义，终于说服了他认错。",
+        "en": "The teacher appealed to principle and finally persuaded him to admit his mistake."
+      },
+      {
+        "zh": "民警对他晓以大义，他主动自首。",
+        "en": "The police explained the larger principle, and he gave himself up."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase with an object (对/向…晓以大义); usually followed by 动之以情 in appeals. Formal, positive.",
+      "zh": "作谓语，常说“对某人晓以大义”，常与“动之以情”连用；偏书面，褒义。"
+    },
+    "synonyms": [
+      "动之以情",
+      "循循善诱"
+    ],
+    "antonyms": [
+      "置之不理"
+    ]
+  },
+  {
+    "id": "miu-zhong-liu-chuan",
+    "text": "谬种流传",
+    "pinyin": "miù zhǒng liú chuán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "negative-character-flaws"
+    ],
+    "literal": "wrong · seed · spread · pass on",
+    "natural": "a mistaken idea gets passed on",
+    "meaning": {
+      "en": "A false idea or bad practice that keeps being passed down and spread.",
+      "zh": "错误的东西不断流传下去。"
+    },
+    "equivalents": [
+      "errors that keep being passed on",
+      "a fallacy spreading unchecked"
+    ],
+    "examples": [
+      {
+        "zh": "这种错误说法如不纠正，只会谬种流传。",
+        "en": "If this error is not corrected, it will just keep spreading."
+      },
+      {
+        "zh": "应试教育的弊端若不改，难免谬种流传。",
+        "en": "Unless the flaws of exam-driven teaching are fixed, they will keep being handed on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; criticism of persisting falsehoods or bad habits. Mind 谬 is miù, not móu.",
+      "zh": "多作谓语；批评错误观念或做法的传播；“谬”读miù。"
+    },
+    "synonyms": [
+      "以讹传讹",
+      "贻误后人"
+    ],
+    "antonyms": [
+      "正本清源",
+      "去伪存真"
+    ]
+  },
+  {
+    "id": "hu-fu-qi-she",
+    "text": "胡服骑射",
+    "pinyin": "hú fú qí shè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "war",
+      "innovation-and-progress",
+      "historical-records"
+    ],
+    "literal": "nomad · dress · ride · shoot",
+    "natural": "nomad dress and mounted archery",
+    "meaning": {
+      "en": "To adopt foreign dress and fighting methods; to reform by learning from others.",
+      "zh": "学习胡人的服装和骑马射箭，比喻学习他人长处、改革创新。"
+    },
+    "equivalents": [
+      "adopt others' strengths and reform",
+      "learn from outsiders"
+    ],
+    "examples": [
+      {
+        "zh": "赵武灵王胡服骑射，使赵国国力大增。",
+        "en": "King Wuling of Zhao adopted nomad dress and cavalry, and greatly strengthened his state."
+      },
+      {
+        "zh": "企业要敢于胡服骑射，向对手学习。",
+        "en": "Firms should dare to reform by learning from their rivals."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·赵策二》",
+      "story": {
+        "en": "King Wuling of Zhao ordered his people to wear nomad-style clothes and learn mounted archery to strengthen his army.",
+        "zh": "《战国策·赵策二》：“今吾将胡服骑射以教百姓。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; historical reference to King Wuling of Zhao's military reform, now used for reform inspired by others.",
+      "zh": "多作谓语；典出赵武灵王改革，今指借鉴他人长处而变革。"
+    },
+    "synonyms": [
+      "革故鼎新",
+      "取长补短"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "故步自封"
+    ]
+  }
+]

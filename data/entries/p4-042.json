@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "qi-gao-yi-zhao",
+    "text": "棋高一着",
+    "pinyin": "qí gāo yī zhāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "games-and-sports"
+    ],
+    "literal": "chess · higher · one · move",
+    "natural": "one move ahead at chess",
+    "meaning": {
+      "en": "To be slightly better than one's opponent; a notch above.",
+      "zh": "比对手稍微高明一点。"
+    },
+    "equivalents": [
+      "a cut above",
+      "one step ahead"
+    ],
+    "examples": [
+      {
+        "zh": "这场比赛，对手棋高一着，我们输得心服口服。",
+        "en": "In this match our opponent was a notch better and we lost with good grace."
+      },
+      {
+        "zh": "论经验，还是他棋高一着。",
+        "en": "In experience, he still has the edge."
+      },
+      {
+        "zh": "商场如棋局，谁棋高一着，谁就能赢。",
+        "en": "Business is like a chess game: whoever is a move ahead wins."
+      }
+    ],
+    "usage": {
+      "en": "Often in the saying 棋高一着，缚手缚脚 or 棋高一着，胜人半筹; 着 here is zhāo (a move). Used of small but decisive superiority.",
+      "zh": "常用“棋高一着，缚手缚脚”之说；“着”读zhāo（棋步）。指稍胜一筹。"
+    },
+    "synonyms": [
+      "略胜一筹",
+      "技高一筹",
+      "高人一等"
+    ],
+    "antonyms": [
+      "技不如人",
+      "相形见绌",
+      "甘拜下风"
+    ]
+  },
+  {
+    "id": "bu-de-shan-zhong",
+    "text": "不得善终",
+    "pinyin": "bù dé shàn zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "revenge-and-retribution"
+    ],
+    "literal": "not · get · good · end",
+    "natural": "not get a good end",
+    "meaning": {
+      "en": "To die an unnatural or unhappy death; to come to a bad end.",
+      "zh": "不能平安地度过一生，指死于非命或结局很惨。"
+    },
+    "equivalents": [
+      "come to a bad end",
+      "not die a natural death"
+    ],
+    "examples": [
+      {
+        "zh": "作恶多端的人往往不得善终。",
+        "en": "Evildoers often come to a bad end."
+      },
+      {
+        "zh": "他得罪了权贵，最后不得善终。",
+        "en": "He offended the powerful and in the end met a bad end."
+      },
+      {
+        "zh": "故事里的反派不得善终，大快人心。",
+        "en": "The villain in the story gets his comeuppance, to everyone's satisfaction."
+      }
+    ],
+    "usage": {
+      "en": "Often a curse-like verdict or moral warning; avoid in polite talk about real people who have died. Predicate.",
+      "zh": "带诅咒或劝诫意味；对真实逝者不宜用。作谓语。"
+    },
+    "synonyms": [
+      "死于非命",
+      "自食其果",
+      "咎由自取"
+    ],
+    "antonyms": [
+      "寿终正寝",
+      "安享晚年",
+      "善始善终"
+    ]
+  },
+  {
+    "id": "wu-fu-lin-men",
+    "text": "五福临门",
+    "pinyin": "wǔ fú lín mén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "five · blessings · arrive · door",
+    "natural": "five blessings arrive at the door",
+    "meaning": {
+      "en": "A New Year wish: may all good fortune come to your household.",
+      "zh": "新年祝福语，希望家中福气齐来。"
+    },
+    "equivalents": [
+      "may fortune smile on your house",
+      "blessings upon your home"
+    ],
+    "examples": [
+      {
+        "zh": "祝您新春快乐，五福临门！",
+        "en": "Happy New Year, and may blessings fill your home!"
+      },
+      {
+        "zh": "门上贴着“五福临门”的剪纸。",
+        "en": "A paper-cut reading 'Five Blessings at the Door' is pasted on the door."
+      },
+      {
+        "zh": "春节拜年，他说了句五福临门，老人乐开了花。",
+        "en": "Paying a New Year call he wished them five blessings, and the old folk beamed."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting, mainly at Spring Festival; the five blessings are usually longevity, wealth, health, virtue and a good end. Often on couplets.",
+      "zh": "春节常用祝福语；“五福”常指长寿、富贵、康宁、好德、善终。常见于春联、剪纸。"
+    },
+    "synonyms": [
+      "福星高照",
+      "万事如意",
+      "吉祥如意"
+    ],
+    "antonyms": [
+      "祸从天降",
+      "灾祸临头"
+    ]
+  },
+  {
+    "id": "xue-hai-wu-ya",
+    "text": "学海无涯",
+    "pinyin": "xué hǎi wú yá",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "learning · sea · no · shore",
+    "natural": "the sea of learning has no shore",
+    "meaning": {
+      "en": "There is no end to knowledge, so one should keep learning.",
+      "zh": "学问像大海一样没有边际，要不断学习。"
+    },
+    "equivalents": [
+      "knowledge is a boundless sea",
+      "you never stop learning"
+    ],
+    "examples": [
+      {
+        "zh": "学海无涯，我们要活到老学到老。",
+        "en": "The sea of learning has no shore, so we should keep learning all our lives."
+      },
+      {
+        "zh": "学海无涯苦作舟，只有努力才能前进。",
+        "en": "The sea of learning is boundless and hard work is the boat; only effort gets you across."
+      },
+      {
+        "zh": "读了博士才知道，学海无涯。",
+        "en": "Only after doing a doctorate did I realise that learning has no end."
+      }
+    ],
+    "usage": {
+      "en": "Encouraging; commonly seen on school walls and in graduation messages. Usually a stand-alone maxim.",
+      "zh": "勉励语，常见于校园标语、毕业赠言。多单独作格言用。"
+    },
+    "synonyms": [
+      "活到老学到老",
+      "学无止境"
+    ],
+    "antonyms": [
+      "不学无术",
+      "故步自封",
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "shi-ru-shui-huo",
+    "text": "势如水火",
+    "pinyin": "shì rú shuǐ huǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "situation · like · water · fire",
+    "natural": "as incompatible as water and fire",
+    "meaning": {
+      "en": "Two sides hopelessly opposed and unable to coexist.",
+      "zh": "像水和火一样互不相容，形容双方对立到不能并存。"
+    },
+    "equivalents": [
+      "like oil and water",
+      "at daggers drawn"
+    ],
+    "examples": [
+      {
+        "zh": "两家公司在市场上势如水火。",
+        "en": "The two companies are bitter rivals in the market."
+      },
+      {
+        "zh": "他们俩一见面就势如水火，吵个不停。",
+        "en": "Whenever those two meet they're at daggers drawn and keep quarrelling."
+      },
+      {
+        "zh": "两派观点势如水火，难以调和。",
+        "en": "The two schools of thought are irreconcilable."
+      }
+    ],
+    "usage": {
+      "en": "Describes bitter opposition between groups or people. Predicate; often 势同水火.",
+      "zh": "形容双方尖锐对立。作谓语；也说“势同水火”。"
+    },
+    "synonyms": [
+      "水火不容",
+      "针锋相对",
+      "不共戴天"
+    ],
+    "antonyms": [
+      "水乳交融",
+      "和睦相处",
+      "情同手足"
+    ]
+  },
+  {
+    "id": "ji-gu-fang-ji",
+    "text": "积谷防饥",
+    "pinyin": "jī gǔ fáng jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "simple-food-and-hunger"
+    ],
+    "literal": "store · grain · guard against · hunger",
+    "natural": "store grain against famine",
+    "meaning": {
+      "en": "To save and prepare in good times against hard times.",
+      "zh": "平时储存粮食，防备荒年；比喻事先做好准备。"
+    },
+    "equivalents": [
+      "save for a rainy day",
+      "lay in stores against lean times"
+    ],
+    "examples": [
+      {
+        "zh": "家里存了点钱，也是积谷防饥。",
+        "en": "We have put a little money by, just as a precaution against hard times."
+      },
+      {
+        "zh": "老一辈人讲究积谷防饥，粮食从不浪费。",
+        "en": "The older generation believed in storing up grain and never wasted food."
+      },
+      {
+        "zh": "买份保险就是积谷防饥，以防万一。",
+        "en": "Buying insurance is saving for a rainy day, just in case."
+      }
+    ],
+    "usage": {
+      "en": "Prudent advice; usually in the pair 养儿防老，积谷防饥. Predicate or maxim.",
+      "zh": "劝人未雨绸缪；常与“养儿防老”连用。作谓语或格言。"
+    },
+    "synonyms": [
+      "未雨绸缪",
+      "有备无患",
+      "居安思危"
+    ],
+    "antonyms": [
+      "临渴掘井",
+      "坐吃山空",
+      "挥霍无度"
+    ]
+  },
+  {
+    "id": "dao-guo-wei-yin",
+    "text": "倒果为因",
+    "pinyin": "dào guǒ wéi yīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "circular-conclusions"
+    ],
+    "literal": "reverse · effect · take as · cause",
+    "natural": "take the effect for the cause",
+    "meaning": {
+      "en": "To mistake effect for cause; to get the logic of cause and effect backwards.",
+      "zh": "把结果当成原因，因果颠倒。"
+    },
+    "equivalents": [
+      "put the cart before the horse",
+      "confuse effect with cause"
+    ],
+    "examples": [
+      {
+        "zh": "说富人因为聪明而富，是倒果为因。",
+        "en": "To say rich people are rich because they're clever is to get cause and effect backwards."
+      },
+      {
+        "zh": "他不是因为失败而失望，而是因为失望才失败，别倒果为因。",
+        "en": "He doesn't lose heart because he failed; he failed because he lost heart, so don't reverse the logic."
+      },
+      {
+        "zh": "分析问题要防止倒果为因。",
+        "en": "In analysing a problem, guard against confusing effect with cause."
+      }
+    ],
+    "usage": {
+      "en": "Used in analysis, argument and commentary to point out faulty reasoning. Predicate.",
+      "zh": "用于分析、论辩，指出因果颠倒的逻辑错误。作谓语。"
+    },
+    "synonyms": [
+      "因果倒置",
+      "本末倒置",
+      "颠倒是非"
+    ],
+    "antonyms": [
+      "追本溯源",
+      "顺理成章"
+    ]
+  },
+  {
+    "id": "yi-zhi-bao-yuan",
+    "text": "以直报怨",
+    "pinyin": "yǐ zhí bào yuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "confucian-classics"
+    ],
+    "literal": "with · uprightness · repay · grievance",
+    "natural": "repay a grudge with uprightness",
+    "meaning": {
+      "en": "To answer a wrong with fairness and justice, neither with revenge nor with sentimental kindness.",
+      "zh": "用公正、正直的态度对待怨恨，不报复也不一味宽容。"
+    },
+    "equivalents": [
+      "meet wrong with justice",
+      "repay injury with fairness"
+    ],
+    "examples": [
+      {
+        "zh": "对待伤害过他的人，他以直报怨，既不报复也不假装没事。",
+        "en": "Towards those who had wronged him he responded with fairness, neither retaliating nor pretending nothing had happened."
+      },
+      {
+        "zh": "以直报怨，以德报德，这是孔子的主张。",
+        "en": "Meeting grievance with uprightness and kindness with kindness was Confucius's view."
+      },
+      {
+        "zh": "面对不公，我们要以直报怨，依法维权。",
+        "en": "Faced with injustice we answer with justice and defend our rights by law."
+      }
+    ],
+    "origin": {
+      "source": "《论语·宪问》",
+      "story": {
+        "en": "Someone asked, 'What about repaying grudges with kindness?' Confucius replied: 'Then with what would you repay kindness? Repay grievance with uprightness, and kindness with kindness' (以直报怨，以德报德).",
+        "zh": "有人问“以德报怨，何如？”孔子说：“何以报德？以直报怨，以德报德。”"
+      }
+    },
+    "usage": {
+      "en": "Often contrasted with 以德报怨 (repaying evil with kindness). Respectful; used in ethical discussion.",
+      "zh": "常与“以德报怨”对举。含敬意，多用于谈道德。"
+    },
+    "synonyms": [
+      "秉公处理",
+      "恩怨分明"
+    ],
+    "antonyms": [
+      "以牙还牙",
+      "睚眦必报",
+      "徇私枉法"
+    ]
+  },
+  {
+    "id": "yan-ren-ren-shu",
+    "text": "言人人殊",
+    "pinyin": "yán rén rén shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confusion",
+      "unusual-combinations"
+    ],
+    "literal": "say · each person · each person · differ",
+    "natural": "everyone says something different",
+    "meaning": {
+      "en": "Everyone has a different opinion on the matter.",
+      "zh": "每个人说法各不相同，意见不一。"
+    },
+    "equivalents": [
+      "opinions differ widely",
+      "every man to his own view"
+    ],
+    "examples": [
+      {
+        "zh": "对这起事故的原因，专家们言人人殊。",
+        "en": "Experts have widely differing views on the cause of the accident."
+      },
+      {
+        "zh": "关于作者的生平，史书言人人殊。",
+        "en": "On the author's life, the histories all tell different stories."
+      },
+      {
+        "zh": "评价一部电影，往往言人人殊。",
+        "en": "People nearly always have different opinions of a film."
+      }
+    ],
+    "usage": {
+      "en": "Formal; 殊 means 'different'. Describes disagreement without hostility. Predicate.",
+      "zh": "较书面；“殊”意为不同。形容意见分歧，不含敌意。作谓语。"
+    },
+    "synonyms": [
+      "众说纷纭",
+      "莫衷一是",
+      "见仁见智"
+    ],
+    "antonyms": [
+      "异口同声",
+      "众口一词",
+      "不谋而合"
+    ]
+  },
+  {
+    "id": "yi-gao-dan-da",
+    "text": "艺高胆大",
+    "pinyin": "yì gāo dǎn dà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "master-craftsmanship"
+    ],
+    "literal": "skill · high · courage · big",
+    "natural": "great skill, great nerve",
+    "meaning": {
+      "en": "A person of high skill is bold and unafraid.",
+      "zh": "本领高强的人胆子也大。"
+    },
+    "equivalents": [
+      "skill breeds boldness",
+      "confident because he's good"
+    ],
+    "examples": [
+      {
+        "zh": "他艺高胆大，一个人就敢闯那片原始森林。",
+        "en": "Being so skilled he's bold enough to enter that primeval forest alone."
+      },
+      {
+        "zh": "老消防员艺高胆大，冲在最前面。",
+        "en": "The veteran firefighter, skilled and fearless, charged to the front."
+      },
+      {
+        "zh": "艺高胆大是好事，但也不能轻敌。",
+        "en": "Being skilled and bold is good, but don't underestimate the enemy."
+      }
+    ],
+    "usage": {
+      "en": "Usually praise; also used in the saying 艺高人胆大. Can warn against overconfidence. Predicate.",
+      "zh": "多含赞扬；也说“艺高人胆大”。有时提醒不要轻敌。作谓语。"
+    },
+    "synonyms": [
+      "艺高人胆大",
+      "胆大心细",
+      "胆识过人"
+    ],
+    "antonyms": [
+      "胆小如鼠",
+      "缩手缩脚",
+      "技不如人"
+    ]
+  },
+  {
+    "id": "zi-ming-qing-gao",
+    "text": "自命清高",
+    "pinyin": "zì mìng qīng gāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "self · consider · pure · lofty",
+    "natural": "consider oneself above it all",
+    "meaning": {
+      "en": "To regard oneself as nobler and purer than others; to be self-righteously aloof.",
+      "zh": "自以为品格高尚，看不起别人。"
+    },
+    "equivalents": [
+      "holier-than-thou",
+      "think oneself above everyone"
+    ],
+    "examples": [
+      {
+        "zh": "他自命清高，不愿和同事来往。",
+        "en": "He thinks himself above it all and won't mix with his colleagues."
+      },
+      {
+        "zh": "别自命清高了，你也要吃饭。",
+        "en": "Stop acting so holier-than-thou; you need to eat too."
+      },
+      {
+        "zh": "她那种自命清高的态度，让人很反感。",
+        "en": "Her self-righteous aloofness puts people off."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; the person's claim to purity is mocked. Predicate or attributive.",
+      "zh": "贬义，嘲讽对方自以为清高。可作谓语、定语。"
+    },
+    "synonyms": [
+      "孤芳自赏",
+      "目空一切",
+      "清高自许"
+    ],
+    "antonyms": [
+      "平易近人",
+      "虚怀若谷",
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "xiang-yan-cheng-xi",
+    "text": "相沿成习",
+    "pinyin": "xiāng yán chéng xí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "natural-consequences"
+    ],
+    "literal": "one after another · follow · become · custom",
+    "natural": "handed down until it becomes custom",
+    "meaning": {
+      "en": "Something handed down over time until it becomes an established custom.",
+      "zh": "长期沿袭下来，变成习惯或风俗。"
+    },
+    "equivalents": [
+      "become an established custom",
+      "pass down into tradition"
+    ],
+    "examples": [
+      {
+        "zh": "这个节日的做法相沿成习，已有几百年。",
+        "en": "The way of keeping this festival has become custom over several centuries."
+      },
+      {
+        "zh": "过年放鞭炮，相沿成习。",
+        "en": "Setting off firecrackers at New Year has become an established custom."
+      },
+      {
+        "zh": "公司里的一些规矩相沿成习，没人知道原因。",
+        "en": "Some rules in the company have become custom and nobody knows why."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; can describe good traditions or just habits. Formal register. Predicate.",
+      "zh": "中性，可指好传统，也可指一般习惯。书面语。作谓语。"
+    },
+    "synonyms": [
+      "约定俗成",
+      "沿袭成风",
+      "世代相传"
+    ],
+    "antonyms": [
+      "破旧立新",
+      "移风易俗"
+    ]
+  },
+  {
+    "id": "ren-wei-cai-si-niao-wei-shi-wang",
+    "text": "人为财死，鸟为食亡",
+    "pinyin": "rén wèi cái sǐ, niǎo wèi shí wáng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "人为财死",
+      "鸟为食亡"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "natural-consequences"
+    ],
+    "literal": "people · for · wealth · die, birds · for · food · perish",
+    "natural": "men die for wealth, birds for food",
+    "meaning": {
+      "en": "People will risk, even lose, their lives chasing money, just as birds die for food.",
+      "zh": "人为了钱财可以拼命甚至丧命，就像鸟为了觅食送命一样。"
+    },
+    "equivalents": [
+      "greed is deadly",
+      "men die for gold as birds for grain"
+    ],
+    "examples": [
+      {
+        "zh": "人为财死，鸟为食亡，贪心的人没有好下场。",
+        "en": "Men die for wealth, birds for food; greedy people come to no good end."
+      },
+      {
+        "zh": "他明知有风险还是去赌，真是人为财死。",
+        "en": "He gambled though he knew the risk; truly a man dying for money."
+      },
+      {
+        "zh": "别说“鸟为食亡”，钱重要，命更重要。",
+        "en": "Don't say 'birds die for food'; money matters but life matters more."
+      }
+    ],
+    "usage": {
+      "en": "Folk saying, half-resigned, half-critical. It can excuse greed, so use with care. Either half can be used alone.",
+      "zh": "民间俗语，带无奈和批评。可能被用来为贪婪开脱，需慎用。上下句可单用。"
+    },
+    "synonyms": [
+      "利令智昏",
+      "见钱眼开",
+      "为富不仁"
+    ],
+    "antonyms": [
+      "视金钱如粪土",
+      "安贫乐道"
+    ]
+  },
+  {
+    "id": "fei-tou-da-er",
+    "text": "肥头大耳",
+    "pinyin": "féi tóu dà ěr",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "fat · head · big · ear",
+    "natural": "fat head, big ears",
+    "meaning": {
+      "en": "Plump and well-fed in a coarse way; round-faced and heavy-set.",
+      "zh": "头大、脸胖，形容人胖而富态，常含贬义。"
+    },
+    "equivalents": [
+      "fat-faced and well-fed",
+      "a plump, jowly look"
+    ],
+    "examples": [
+      {
+        "zh": "那个肥头大耳的老板一看就是个暴发户。",
+        "en": "That fat-faced boss looked at a glance like a nouveau riche."
+      },
+      {
+        "zh": "他长得肥头大耳，却很和善。",
+        "en": "He is round-faced and heavy, but quite gentle."
+      },
+      {
+        "zh": "电影里的反派总是肥头大耳的形象。",
+        "en": "The film villain is always portrayed as a fat, jowly man."
+      }
+    ],
+    "usage": {
+      "en": "Describes looks; usually derogatory or teasing, and rude about real people. Attributive.",
+      "zh": "描写外貌，多含贬义或调侃，对真人说较失礼。作定语。"
+    },
+    "synonyms": [
+      "脑满肠肥",
+      "大腹便便",
+      "腰圆膀阔"
+    ],
+    "antonyms": [
+      "骨瘦如柴",
+      "瘦骨嶙峋",
+      "面黄肌瘦"
+    ]
+  },
+  {
+    "id": "chai-dong-bu-xi",
+    "text": "拆东补西",
+    "pinyin": "chāi dōng bǔ xī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "poverty-and-hardship"
+    ],
+    "literal": "pull down · east · patch · west",
+    "natural": "tear down in the east to mend in the west",
+    "meaning": {
+      "en": "To rob Peter to pay Paul; to solve one problem by creating another, especially with money.",
+      "zh": "拆掉东边来补西边，比喻勉强应付，用甲补乙，多指借钱周转。"
+    },
+    "equivalents": [
+      "rob Peter to pay Paul",
+      "make do with stopgaps"
+    ],
+    "examples": [
+      {
+        "zh": "他靠借新债还旧债，拆东补西地维持公司。",
+        "en": "He kept the firm going by borrowing new loans to repay old ones, robbing Peter to pay Paul."
+      },
+      {
+        "zh": "日子过得紧巴巴，只能拆东补西。",
+        "en": "Money is tight and we can only juggle debts."
+      },
+      {
+        "zh": "工程款拆东补西，迟早要出问题。",
+        "en": "Shuffling the project funds around like that will cause trouble sooner or later."
+      }
+    ],
+    "usage": {
+      "en": "Describes a stopgap that is not a solution; often about debts. Predicate or adverbial.",
+      "zh": "形容临时补救并非真正解决；常指债务。作谓语、状语。"
+    },
+    "synonyms": [
+      "东挪西借",
+      "挖肉补疮",
+      "饮鸩止渴"
+    ],
+    "antonyms": [
+      "从长计议",
+      "未雨绸缪",
+      "宽裕有余"
+    ]
+  },
+  {
+    "id": "gong-xing-shi-jian",
+    "text": "躬行实践",
+    "pinyin": "gōng xíng shí jiàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "apprenticeship-and-learning",
+      "positive-character-qualities"
+    ],
+    "literal": "personally · do · actually · practise",
+    "natural": "do it personally and put it into practice",
+    "meaning": {
+      "en": "To carry out something in person and put theory into practice.",
+      "zh": "亲自去做，亲身实践。"
+    },
+    "equivalents": [
+      "practise it in person",
+      "learn by doing"
+    ],
+    "examples": [
+      {
+        "zh": "学习中医要躬行实践，光看书是不够的。",
+        "en": "To learn traditional medicine you must practise in person; books alone aren't enough."
+      },
+      {
+        "zh": "他躬行实践自己的环保主张。",
+        "en": "He puts his environmental beliefs into practice himself."
+      },
+      {
+        "zh": "干部应躬行实践，不能只发号施令。",
+        "en": "Officials should do things personally, not just give orders."
+      }
+    ],
+    "usage": {
+      "en": "Praise; formal, used in speeches and advice. Also 身体力行 in everyday speech.",
+      "zh": "褒义，较书面，用于讲话和劝勉。口语中更常说“身体力行”。"
+    },
+    "synonyms": [
+      "身体力行",
+      "亲力亲为",
+      "学以致用"
+    ],
+    "antonyms": [
+      "纸上谈兵",
+      "夸夸其谈",
+      "空谈误国"
+    ]
+  },
+  {
+    "id": "feng-tian-cheng-yun",
+    "text": "奉天承运",
+    "pinyin": "fèng tiān chéng yùn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "historical-periods",
+      "stories"
+    ],
+    "literal": "receive · Heaven · inherit · mandate",
+    "natural": "by Heaven's will and mandate",
+    "meaning": {
+      "en": "'By the grace of Heaven and the mandate it gives': the stock opening of an imperial edict.",
+      "zh": "“遵奉天命，承受国运”，古代皇帝诏书开头的套语。"
+    },
+    "equivalents": [
+      "by the will of Heaven",
+      "by Heaven's mandate (edict opening)"
+    ],
+    "examples": [
+      {
+        "zh": "古装剧里，太监常念：“奉天承运，皇帝诏曰……”",
+        "en": "In period dramas the eunuch often chants: 'By Heaven's mandate the Emperor decrees...'"
+      },
+      {
+        "zh": "奉天承运的说法，体现了君权神授。",
+        "en": "The phrase 'by Heaven's mandate' reflects the divine right of kings."
+      },
+      {
+        "zh": "他模仿圣旨的口气，念了句“奉天承运”。",
+        "en": "Mimicking the tone of an imperial edict, he intoned 'By Heaven's mandate'."
+      }
+    ],
+    "usage": {
+      "en": "Used almost only in historical contexts, or jokingly in imitation of decrees. Full formula: 奉天承运皇帝诏曰.",
+      "zh": "基本只用于历史语境，或戏仿圣旨。完整套语为“奉天承运皇帝诏曰”。"
+    },
+    "synonyms": [
+      "受命于天",
+      "君权神授"
+    ],
+    "antonyms": [
+      "逆天而行",
+      "大逆不道"
+    ]
+  },
+  {
+    "id": "suo-jian-lve-tong",
+    "text": "所见略同",
+    "pinyin": "suǒ jiàn lüè tóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "evenly-matched"
+    ],
+    "literal": "what · see · roughly · same",
+    "natural": "views largely the same",
+    "meaning": {
+      "en": "To hold much the same view as someone else.",
+      "zh": "看法大致相同。"
+    },
+    "equivalents": [
+      "great minds think alike",
+      "see eye to eye"
+    ],
+    "examples": [
+      {
+        "zh": "你也觉得这个方案好？英雄所见略同！",
+        "en": "You think the plan is good too? Great minds think alike!"
+      },
+      {
+        "zh": "我们对这件事所见略同。",
+        "en": "We largely agree on this matter."
+      },
+      {
+        "zh": "两位专家所见略同，都建议手术。",
+        "en": "The two specialists reached much the same view and both advised surgery."
+      }
+    ],
+    "usage": {
+      "en": "Friendly and complimentary; often in 英雄所见略同 (a compliment to oneself and the other). Predicate.",
+      "zh": "友好、略带夸赞；常说“英雄所见略同”。作谓语。"
+    },
+    "synonyms": [
+      "不谋而合",
+      "英雄所见略同",
+      "志同道合"
+    ],
+    "antonyms": [
+      "见仁见智",
+      "意见相左",
+      "分歧很大"
+    ]
+  },
+  {
+    "id": "qi-shi-nan-fu",
+    "text": "其实难副",
+    "pinyin": "qí shí nán fù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "deception-and-false-appearances",
+      "attitude-humble-vs-arrogant",
+      "historical-records",
+      "polite-humble"
+    ],
+    "literal": "its · reality · hard · match",
+    "natural": "the reality can hardly match",
+    "meaning": {
+      "en": "The reality falls short of the reputation; often used modestly of oneself.",
+      "zh": "实际难以和名声相符；常用作谦辞。"
+    },
+    "equivalents": [
+      "fail to live up to one's name",
+      "not as good as the reputation"
+    ],
+    "examples": [
+      {
+        "zh": "盛名之下，其实难副，我只怕辜负大家的期望。",
+        "en": "Under so great a reputation I can hardly live up to it, and fear I'll let you all down."
+      },
+      {
+        "zh": "这家网红店名气很大，却其实难副。",
+        "en": "This viral restaurant is famous but doesn't live up to its name."
+      },
+      {
+        "zh": "过奖了，其实难副，惭愧惭愧。",
+        "en": "You flatter me; I'm not what you say, and I'm embarrassed."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·黄琼传》",
+      "story": {
+        "en": "Li Gu wrote to Huang Qiong, warning that a man of great fame has trouble living up to it: 'Under a lofty reputation, the reality is hard to match' (盛名之下，其实难副).",
+        "zh": "李固写信劝黄琼：“盛名之下，其实难副。”"
+      }
+    },
+    "usage": {
+      "en": "Mostly in the phrase 盛名之下，其实难副; as self-deprecation or as criticism. Literary.",
+      "zh": "多见于“盛名之下，其实难副”；可作自谦，也可作批评。书面语。"
+    },
+    "synonyms": [
+      "名不副实",
+      "徒有虚名",
+      "名过其实"
+    ],
+    "antonyms": [
+      "名副其实",
+      "实至名归"
+    ]
+  },
+  {
+    "id": "zun-xing-da-ming",
+    "text": "尊姓大名",
+    "pinyin": "zūn xìng dà míng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "polite-humble"
+    ],
+    "literal": "honoured · surname · great · name",
+    "natural": "your honoured surname and great name",
+    "meaning": {
+      "en": "A polite way of asking someone's name: 'may I know your name?'",
+      "zh": "敬辞，询问对方姓名。"
+    },
+    "equivalents": [
+      "may I ask your esteemed name",
+      "your good name, sir"
+    ],
+    "examples": [
+      {
+        "zh": "请问先生尊姓大名？",
+        "en": "May I ask your esteemed name, sir?"
+      },
+      {
+        "zh": "这位老前辈尊姓大名，晚辈好上门拜访。",
+        "en": "May I know the senior's honoured name so I can call on you?"
+      },
+      {
+        "zh": "他故意装出一副文绉绉的样子，问：“尊姓大名？”",
+        "en": "He put on a scholarly air and asked, 'Your esteemed name?'"
+      }
+    ],
+    "usage": {
+      "en": "Old-fashioned polite question, now mostly in period dramas or jokes. Never use it of yourself (use 免贵姓…).",
+      "zh": "旧式客套话，现多见于古装剧或玩笑。不能用于自己（自称用“免贵姓……”）。"
+    },
+    "synonyms": [
+      "贵姓",
+      "敢问芳名"
+    ],
+    "antonyms": [
+      "贱名",
+      "无名小卒"
+    ]
+  },
+  {
+    "id": "wu-ke-zhi-hui",
+    "text": "无可置喙",
+    "pinyin": "wú kě zhì huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "poor-speech-and-silence"
+    ],
+    "literal": "no · can · put in · beak",
+    "natural": "no room to put a word in",
+    "meaning": {
+      "en": "Nothing to say about it; no room for criticism or interference.",
+      "zh": "没有插嘴或评论的余地。"
+    },
+    "equivalents": [
+      "nothing to add",
+      "beyond comment"
+    ],
+    "examples": [
+      {
+        "zh": "这是他们的家事，外人无可置喙。",
+        "en": "It's their family business, and outsiders have no say."
+      },
+      {
+        "zh": "他的专业水平极高，我们无可置喙。",
+        "en": "His expertise is so high that we have nothing to say."
+      },
+      {
+        "zh": "事实俱在，对方无可置喙。",
+        "en": "The facts are all there and the other side can say nothing."
+      }
+    ],
+    "usage": {
+      "en": "Often with 外人/旁人 as subject. Formal. 喙 (huì) is a beak, i.e. a mouth, here used figuratively.",
+      "zh": "常以外人、旁人作主语。较书面。“喙”本指鸟嘴，这里比喻人的嘴。"
+    },
+    "synonyms": [
+      "无从插嘴",
+      "毋庸置疑",
+      "不容置喙"
+    ],
+    "antonyms": [
+      "指手画脚",
+      "说三道四",
+      "说长道短"
+    ]
+  },
+  {
+    "id": "sa-po-da-gun",
+    "text": "撒泼打滚",
+    "pinyin": "sā pō dǎ gǔn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "anger"
+    ],
+    "literal": "throw · wild behaviour · hit · roll",
+    "natural": "throw a fit and roll on the ground",
+    "meaning": {
+      "en": "To throw a tantrum, behaving like a shameless brat to get one's way.",
+      "zh": "大吵大闹，在地上打滚，耍无赖。"
+    },
+    "equivalents": [
+      "throw a tantrum",
+      "make a scene"
+    ],
+    "examples": [
+      {
+        "zh": "孩子在商场撒泼打滚要玩具，家长很尴尬。",
+        "en": "The child threw a tantrum in the mall for a toy, and the parent was embarrassed."
+      },
+      {
+        "zh": "她一不顺心就撒泼打滚，大家都怕了她。",
+        "en": "She throws a fit whenever she doesn't get her way, and everyone is afraid of her."
+      },
+      {
+        "zh": "他撒泼打滚也没用，规定就是规定。",
+        "en": "Throwing a tantrum won't help him; the rule is the rule."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory, colloquial. 撒 is read sā in this word.",
+      "zh": "贬义，口语。“撒”读sā。"
+    },
+    "synonyms": [
+      "胡搅蛮缠",
+      "耍赖",
+      "无理取闹"
+    ],
+    "antonyms": [
+      "通情达理",
+      "心平气和",
+      "以理服人"
+    ]
+  },
+  {
+    "id": "zhi-ge-wei-wu",
+    "text": "止戈为武",
+    "pinyin": "zhǐ gē wéi wǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory",
+      "peace-and-prosperity",
+      "historical-records"
+    ],
+    "literal": "stop · spear · is · martial",
+    "natural": "'stop' plus 'spear' makes 'martial'",
+    "meaning": {
+      "en": "True military strength is to stop war; the Chinese character 武 is built from 止 (stop) and 戈 (weapon).",
+      "zh": "真正的武力在于制止战争；“武”字由“止”和“戈”组成。"
+    },
+    "equivalents": [
+      "true strength lies in stopping war",
+      "the martial art is to end fighting"
+    ],
+    "examples": [
+      {
+        "zh": "止戈为武，我们的军队是为了和平而存在。",
+        "en": "Stopping the spear is martial prowess: our army exists for peace."
+      },
+      {
+        "zh": "老教练常说，止戈为武，真正的高手不轻易出手。",
+        "en": "The old coach often says that true martial skill lies in not fighting; real masters seldom strike."
+      },
+      {
+        "zh": "止戈为武，这个字形里藏着古人的和平观。",
+        "en": "The shape of 武 holds the ancients' view of peace."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十二年》",
+      "story": {
+        "en": "After the battle of Bi, King Zhuang of Chu said: 'In the character 武, 止 (stop) is combined with 戈 (spear): to stop the spear is martial' (夫文，止戈为武).",
+        "zh": "楚庄王说：“夫文，止戈为武。”"
+      }
+    },
+    "usage": {
+      "en": "A principle about peace, with a folk-etymology flavour (modern scholars read 止 as 'foot', not 'stop'). Formal.",
+      "zh": "表达和平理念，带字形释义的色彩（今人多认为“止”本义为脚）。较书面。"
+    },
+    "synonyms": [
+      "以战止战",
+      "以武止戈"
+    ],
+    "antonyms": [
+      "穷兵黩武",
+      "好战成性"
+    ]
+  },
+  {
+    "id": "pang-yi-xie-chu",
+    "text": "旁逸斜出",
+    "pinyin": "páng yì xié chū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "excellent-writing"
+    ],
+    "literal": "side · escape · slanting · out",
+    "natural": "branching out sideways and aslant",
+    "meaning": {
+      "en": "Of branches, growing out sideways at angles; figuratively, writing that digresses or has varied extra detail.",
+      "zh": "枝条向旁边斜着生长；也比喻文章在主线之外另有枝节。"
+    },
+    "equivalents": [
+      "branching off sideways",
+      "spreading out at angles"
+    ],
+    "examples": [
+      {
+        "zh": "老梅树旁逸斜出，别有风致。",
+        "en": "The old plum tree sends its branches out aslant, with a charm of its own."
+      },
+      {
+        "zh": "这篇散文旁逸斜出，读来趣味盎然。",
+        "en": "The essay wanders off the main line so pleasantly that it is a joy to read."
+      },
+      {
+        "zh": "盆景要修剪，不能让枝条旁逸斜出。",
+        "en": "Bonsai should be pruned, and the branches not allowed to sprawl."
+      }
+    ],
+    "usage": {
+      "en": "Literary; literal use for plants, figurative for prose. Can be neutral or mildly negative if the digression is aimless.",
+      "zh": "书面语；本义用于植物，比喻义用于文章。可中性，若离题则略含贬义。"
+    },
+    "synonyms": [
+      "枝蔓横生",
+      "横生枝节"
+    ],
+    "antonyms": [
+      "开门见山"
+    ]
+  }
+]

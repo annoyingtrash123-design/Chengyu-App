@@ -1,0 +1,1219 @@
+[
+  {
+    "id": "qu-qu-xiao-shi",
+    "text": "区区小事",
+    "pinyin": "qū qū xiǎo shì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "measure",
+      "common-and-worthless",
+      "polite-humble"
+    ],
+    "literal": "tiny · tiny · small · matter",
+    "natural": "a trifling little matter",
+    "meaning": {
+      "en": "A trifle; a matter too small to mention (often said modestly when someone thanks you).",
+      "zh": "微不足道的小事；常用作谦辞，回应别人的感谢。"
+    },
+    "equivalents": [
+      "a mere trifle",
+      "nothing to speak of"
+    ],
+    "examples": [
+      {
+        "zh": "区区小事，何足挂齿。",
+        "en": "It's just a trifle, nothing worth mentioning."
+      },
+      {
+        "zh": "这点区区小事，不必放在心上。",
+        "en": "It's a trifling matter; don't take it to heart."
+      },
+      {
+        "zh": "为了区区小事，何必伤了和气？",
+        "en": "Why spoil the harmony over such a trifle?"
+      }
+    ],
+    "usage": {
+      "en": "Often modest when accepting thanks (区区小事，不足挂齿). Also used to dismiss others' worries..",
+      "zh": "常作谦辞回应道谢；也可用来轻描淡写他人的担忧。"
+    },
+    "synonyms": [
+      "微不足道",
+      "不足挂齿"
+    ],
+    "antonyms": [
+      "非同小可",
+      "重于泰山"
+    ]
+  },
+  {
+    "id": "ding-zu-zhi-shi",
+    "text": "鼎足之势",
+    "pinyin": "dǐng zú zhī shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "war",
+      "evenly-matched"
+    ],
+    "literal": "tripod · legs · of · situation",
+    "natural": "a situation like the legs of a tripod",
+    "meaning": {
+      "en": "A three-way balance of power, in which three parties stand against one another like the legs of a tripod.",
+      "zh": "三方面势力对峙，如同鼎的三只脚。"
+    },
+    "equivalents": [
+      "a three-way stand-off",
+      "a balance of three powers"
+    ],
+    "examples": [
+      {
+        "zh": "三国时期，魏蜀吴形成鼎足之势。",
+        "en": "In the Three Kingdoms period Wei, Shu and Wu formed a tripartite balance."
+      },
+      {
+        "zh": "三家公司在市场上呈鼎足之势。",
+        "en": "The three companies stand in a three-way balance in the market."
+      },
+      {
+        "zh": "几大势力互相牵制，形成鼎足之势。",
+        "en": "Several powers checked one another, forming a tripod-like standoff."
+      }
+    ],
+    "usage": {
+      "en": "Used for politics, business, sport. Close to 三足鼎立 (already in the dictionary), which is the verb-like form.",
+      "zh": "用于政治、商业、体育；与“三足鼎立”意思相近，后者更像动词性说法。"
+    },
+    "synonyms": [
+      "三足鼎立",
+      "三分天下"
+    ],
+    "antonyms": [
+      "一统天下",
+      "一家独大"
+    ]
+  },
+  {
+    "id": "da-miu-bu-ran",
+    "text": "大谬不然",
+    "pinyin": "dà miù bù rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "speech",
+      "mistakes-and-correction"
+    ],
+    "literal": "greatly · wrong · not · so",
+    "natural": "greatly mistaken, not so at all",
+    "meaning": {
+      "en": "Completely wrong; not at all the case.",
+      "zh": "非常错误，完全不是那么回事。"
+    },
+    "equivalents": [
+      "wide of the mark",
+      "completely mistaken"
+    ],
+    "examples": [
+      {
+        "zh": "以为大学毕业就能高枕无忧，那是大谬不然。",
+        "en": "To think you can sit back after graduation is quite wrong."
+      },
+      {
+        "zh": "有人说科学与信仰必然对立，这是大谬不然。",
+        "en": "Some say science and belief must be opposed; that is totally mistaken."
+      },
+      {
+        "zh": "你对他的评价大谬不然。",
+        "en": "Your assessment of him is completely off the mark."
+      }
+    ],
+    "usage": {
+      "en": "Formal, used to refute a view. 谬 is miù (error), not móu.",
+      "zh": "较正式，用来驳斥某种看法；“谬”读miù。"
+    },
+    "synonyms": [
+      "谬以千里",
+      "南辕北辙"
+    ],
+    "antonyms": [
+      "言之有理",
+      "一针见血"
+    ]
+  },
+  {
+    "id": "liu-gen-qing-jing",
+    "text": "六根清净",
+    "pinyin": "liù gēn qīng jìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "buddhist-origin",
+      "contentment-and-simplicity"
+    ],
+    "literal": "six · roots · pure · clean",
+    "natural": "the six senses purified",
+    "meaning": {
+      "en": "To be free of worldly desires and distractions; also used jokingly for peace and quiet.",
+      "zh": "佛教指摆脱六根（眼耳鼻舌身意）带来的尘世烦恼，心无杂念；现也戏指清静无扰。"
+    },
+    "equivalents": [
+      "free of worldly attachments",
+      "peace and quiet"
+    ],
+    "examples": [
+      {
+        "zh": "出家人讲究六根清净，不近酒色。",
+        "en": "Monks seek purity of the senses and avoid wine and women."
+      },
+      {
+        "zh": "孩子们终于去上学了，我总算六根清净。",
+        "en": "The children are finally at school, so at last I have some peace."
+      },
+      {
+        "zh": "他搬到山里，图个六根清净。",
+        "en": "He moved to the mountains for a bit of peace and quiet."
+      }
+    ],
+    "usage": {
+      "en": "In Buddhism the six roots are eyes, ears, nose, tongue, body and mind. Often used humorously today.",
+      "zh": "佛教的“六根”指眼、耳、鼻、舌、身、意；今多作戏谑用法。"
+    },
+    "synonyms": [
+      "清心寡欲",
+      "心无杂念"
+    ],
+    "antonyms": [
+      "心浮气躁",
+      "贪嗔痴"
+    ]
+  },
+  {
+    "id": "yan-xiao-yan-yan",
+    "text": "言笑晏晏",
+    "pinyin": "yán xiào yàn yàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "emotions",
+      "joy-and-happiness",
+      "poems-prose"
+    ],
+    "literal": "speak · laugh · mild · mild",
+    "natural": "talking and laughing gently",
+    "meaning": {
+      "en": "Chatting and laughing in a warm, harmonious way.",
+      "zh": "说说笑笑，和气愉快。"
+    },
+    "equivalents": [
+      "chat and laugh happily",
+      "in cheerful, easy talk"
+    ],
+    "examples": [
+      {
+        "zh": "宴席上，宾主言笑晏晏。",
+        "en": "At the banquet, hosts and guests chatted and laughed warmly."
+      },
+      {
+        "zh": "她总是言笑晏晏，让人如沐春风。",
+        "en": "She is always cheerful and genial, and being near her is like a spring breeze."
+      },
+      {
+        "zh": "一家人围坐，言笑晏晏，其乐融融。",
+        "en": "The family sat together, talking and laughing in great harmony."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·卫风·氓》",
+      "story": {
+        "en": "From the poem 'Meng': recalling happy youth, 'we laughed and talked so gently' (言笑晏晏，信誓旦旦).",
+        "zh": "《诗经·卫风·氓》：“总角之宴，言笑晏晏，信誓旦旦。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; warm and refined. 晏晏 means gentle and cheerful, read yàn yàn.",
+      "zh": "书面语，温和优雅；“晏晏”指温和欢乐，读yàn yàn。"
+    },
+    "synonyms": [
+      "谈笑风生",
+      "其乐融融"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "剑拔弩张"
+    ]
+  },
+  {
+    "id": "zai-san-zai-si",
+    "text": "再三再四",
+    "pinyin": "zài sān zài sì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "measure",
+      "numbers"
+    ],
+    "literal": "again · three · again · four",
+    "natural": "again and again, three times, four times",
+    "meaning": {
+      "en": "Over and over again; repeatedly.",
+      "zh": "一次又一次，多次重复。"
+    },
+    "equivalents": [
+      "again and again",
+      "over and over"
+    ],
+    "examples": [
+      {
+        "zh": "他再三再四地叮嘱我别忘了。",
+        "en": "He reminded me again and again not to forget."
+      },
+      {
+        "zh": "经过再三再四的考虑，她才同意。",
+        "en": "After repeated consideration, she finally agreed."
+      },
+      {
+        "zh": "我已再三再四地解释过了。",
+        "en": "I have already explained time after time."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial; often with a request, reminder or thinking. Stronger than 再三.",
+      "zh": "作状语，常与请求、叮嘱、考虑搭配；语气比“再三”强。"
+    },
+    "synonyms": [
+      "三番五次",
+      "一再"
+    ],
+    "antonyms": [
+      "偶尔为之",
+      "一次而已"
+    ]
+  },
+  {
+    "id": "mang-wu-tou-xu",
+    "text": "茫无头绪",
+    "pinyin": "máng wú tóu xù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "confusion"
+    ],
+    "literal": "vague · no · beginning · thread",
+    "natural": "no idea where to begin",
+    "meaning": {
+      "en": "To be at a loss because one cannot find any clues or a starting point.",
+      "zh": "一点头绪也理不出来，不知从哪里着手。"
+    },
+    "equivalents": [
+      "not know where to start",
+      "at sea about how to begin"
+    ],
+    "examples": [
+      {
+        "zh": "面对一堆乱账，他茫无头绪。",
+        "en": "Faced with a heap of tangled accounts, he had no idea where to start."
+      },
+      {
+        "zh": "案子毫无线索，警方一时茫无头绪。",
+        "en": "With no leads in the case, the police were at a loss."
+      },
+      {
+        "zh": "刚接手项目，我对一切茫无头绪。",
+        "en": "Just taking over the project, I'm at sea about everything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; describes the stage before an issue becomes clear. 茫 means 'vague'.",
+      "zh": "作谓语，描写事情尚不清楚、无从着手的阶段；“茫”表示模糊。"
+    },
+    "synonyms": [
+      "一头雾水",
+      "无从下手"
+    ],
+    "antonyms": [
+      "有条不紊",
+      "胸有成竹"
+    ]
+  },
+  {
+    "id": "you-tou-fen-mian",
+    "text": "油头粉面",
+    "pinyin": "yóu tóu fěn miàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "appearance",
+      "negative-character-flaws"
+    ],
+    "literal": "oily · head · powdered · face",
+    "natural": "slick hair and powdered face",
+    "meaning": {
+      "en": "Slick-haired and heavily made up; a showy, frivolous man (originally also used of women).",
+      "zh": "头发抹得油亮，脸上搽粉，形容打扮得妖冶轻浮的样子，多指男子。"
+    },
+    "equivalents": [
+      "slick and foppish",
+      "a dandy with slick hair"
+    ],
+    "examples": [
+      {
+        "zh": "他油头粉面，一副浮浪公子的样子。",
+        "en": "With slicked hair and a powdered face he looked like a frivolous playboy."
+      },
+      {
+        "zh": "别信那个油头粉面的推销员。",
+        "en": "Don't trust that slick-haired salesman."
+      },
+      {
+        "zh": "戏里的反派油头粉面，一出场就让人讨厌。",
+        "en": "The villain in the play, slick and foppish, is disliked as soon as he appears."
+      }
+    ],
+    "usage": {
+      "en": "Mocking; of men who look over-groomed and untrustworthy. Not neutral grooming talk.",
+      "zh": "带嘲讽，用于打扮过度、让人觉得不可靠的男子；不是一般的“打扮得体”。"
+    },
+    "synonyms": [
+      "衣冠楚楚",
+      "花枝招展"
+    ],
+    "antonyms": [
+      "朴素无华",
+      "不修边幅"
+    ]
+  },
+  {
+    "id": "zhi-fu-wei-hun",
+    "text": "指腹为婚",
+    "pinyin": "zhǐ fù wéi hūn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "love-and-marriage"
+    ],
+    "literal": "point · belly · make · marriage",
+    "natural": "pledge a marriage by pointing at the belly",
+    "meaning": {
+      "en": "To arrange a marriage between unborn children (formerly by two pregnant mothers).",
+      "zh": "旧时双方父母在孩子未出生时就为他们订下婚约。"
+    },
+    "equivalents": [
+      "betroth unborn children",
+      "arrange a marriage before birth"
+    ],
+    "examples": [
+      {
+        "zh": "两家是世交，当年指腹为婚。",
+        "en": "The two families were old friends and agreed on a marriage before the children were born."
+      },
+      {
+        "zh": "指腹为婚是封建社会的旧习俗。",
+        "en": "Pledging unborn children in marriage was an old feudal custom."
+      },
+      {
+        "zh": "小说里的指腹为婚，常带来爱情悲剧。",
+        "en": "In novels, betrothal before birth often leads to tragic love."
+      }
+    ],
+    "usage": {
+      "en": "Historical custom; today mostly in stories and in discussion of old marriage practices. 腹 = belly of the pregnant mother.",
+      "zh": "旧俗，现多见于故事和对旧婚俗的讨论；“腹”指孕妇的肚子。"
+    },
+    "synonyms": [
+      "包办婚姻",
+      "娃娃亲"
+    ],
+    "antonyms": [
+      "自由恋爱",
+      "自主婚姻"
+    ]
+  },
+  {
+    "id": "gai-guo-qian-shan",
+    "text": "改过迁善",
+    "pinyin": "gǎi guò qiān shàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "mistakes-and-correction"
+    ],
+    "literal": "change · faults · move to · good",
+    "natural": "mend one's faults and move toward good",
+    "meaning": {
+      "en": "To correct one's faults and turn to good conduct.",
+      "zh": "改正错误，向好的方向转变。"
+    },
+    "equivalents": [
+      "turn over a new leaf",
+      "mend one's ways"
+    ],
+    "examples": [
+      {
+        "zh": "他出狱后改过迁善，重新做人。",
+        "en": "After release he mended his ways and began again."
+      },
+      {
+        "zh": "老师相信这个学生能改过迁善。",
+        "en": "The teacher believed the student could change for the better."
+      },
+      {
+        "zh": "法律既要惩罚，也要给人改过迁善的机会。",
+        "en": "The law must punish, but also give people a chance to reform."
+      }
+    ],
+    "usage": {
+      "en": "Formal and encouraging; used about reform of wrongdoers.",
+      "zh": "庄重，含鼓励之意，多用于犯错者的改造。"
+    },
+    "synonyms": [
+      "洗心革面",
+      "弃恶从善"
+    ],
+    "antonyms": [
+      "怙恶不悛",
+      "执迷不悟"
+    ]
+  },
+  {
+    "id": "da-xian-shen-tong",
+    "text": "大显神通",
+    "pinyin": "dà xiǎn shén tōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "culture",
+      "myths-legends",
+      "useful-tools-and-skill"
+    ],
+    "literal": "greatly · show · divine · power",
+    "natural": "show one's supernatural powers",
+    "meaning": {
+      "en": "To show off one's remarkable abilities, as a god would use magic powers; often playful.",
+      "zh": "充分施展本领，原指神仙显露法力。"
+    },
+    "equivalents": [
+      "show what one can do",
+      "pull out all the stops"
+    ],
+    "examples": [
+      {
+        "zh": "遇到难题，他大显神通，一下子就解决了。",
+        "en": "Faced with the problem, everyone showed their talents and finally solved it."
+      },
+      {
+        "zh": "这位厨师在宴会上大显神通。",
+        "en": "The chef really showed his magic at the banquet."
+      },
+      {
+        "zh": "孙悟空大显神通，打败了妖怪。",
+        "en": "Sun Wukong used all his magic powers and beat the demon."
+      }
+    ],
+    "usage": {
+      "en": "Often playful in everyday use; the plural form 各显神通 ('each shows their own skills') is very common.",
+      "zh": "日常常带戏谑；“各显神通”很常用。"
+    },
+    "synonyms": [
+      "大显身手",
+      "施展才能"
+    ],
+    "antonyms": [
+      "束手无策",
+      "无能为力"
+    ]
+  },
+  {
+    "id": "quan-zhi-quan-neng",
+    "text": "全知全能",
+    "pinyin": "quán zhī quán néng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "wisdom"
+    ],
+    "literal": "all · knowing · all · able",
+    "natural": "omniscient and omnipotent",
+    "meaning": {
+      "en": "Knowing everything and able to do everything; omniscient and omnipotent, as of a god.",
+      "zh": "无所不知，无所不能，常用于神或形容自视甚高的人。"
+    },
+    "equivalents": [
+      "omniscient and omnipotent",
+      "all-knowing and all-powerful"
+    ],
+    "examples": [
+      {
+        "zh": "没有人是全知全能的。",
+        "en": "Nobody is omniscient and omnipotent."
+      },
+      {
+        "zh": "他把自己当成全知全能的专家。",
+        "en": "He treats himself as an all-knowing expert."
+      },
+      {
+        "zh": "小说采用了全知全能的叙述视角。",
+        "en": "The novel uses an omniscient narrative point of view."
+      }
+    ],
+    "usage": {
+      "en": "Used of gods, narrators in literature, and ironically of know-it-alls.",
+      "zh": "用于神、文学中的叙述视角，也可讽刺自以为无所不能的人。"
+    },
+    "synonyms": [
+      "无所不知",
+      "神通广大"
+    ],
+    "antonyms": [
+      "一无所知",
+      "孤陋寡闻"
+    ]
+  },
+  {
+    "id": "xiao-zi-xian-sun",
+    "text": "孝子贤孙",
+    "pinyin": "xiào zǐ xián sūn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "filial-piety"
+    ],
+    "literal": "filial · son · worthy · grandson",
+    "natural": "filial sons and worthy grandsons",
+    "meaning": {
+      "en": "Dutiful descendants; also used sarcastically of blind followers.",
+      "zh": "孝顺的子孙；也可讽刺盲目顺从的追随者。"
+    },
+    "equivalents": [
+      "dutiful descendants",
+      "devoted heirs"
+    ],
+    "examples": [
+      {
+        "zh": "族谱上写着，要做孝子贤孙。",
+        "en": "The family record says to be dutiful descendants."
+      },
+      {
+        "zh": "他们是老教授的孝子贤孙，一直传承他的学术。",
+        "en": "They are the old professor's devoted disciples and carry on his work."
+      },
+      {
+        "zh": "他不过是某些人的孝子贤孙，只会重复别人的话。",
+        "en": "He is just a devoted follower of certain people, repeating what they say."
+      }
+    ],
+    "usage": {
+      "en": "Literal praise in family contexts; sarcastic when about followers of a person or school ('devoted heirs').",
+      "zh": "在家庭语境中是赞语；用于追随者时常有讽刺意味。"
+    },
+    "synonyms": [
+      "孝悌忠信",
+      "忠实信徒"
+    ],
+    "antonyms": [
+      "不肖子孙",
+      "忤逆不孝"
+    ]
+  },
+  {
+    "id": "xiu-xin-yang-xing",
+    "text": "修心养性",
+    "pinyin": "xiū xīn yǎng xìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "positive-character-qualities",
+      "daoist-classics"
+    ],
+    "literal": "cultivate · heart · nourish · nature",
+    "natural": "cultivate the heart and nourish one's nature",
+    "meaning": {
+      "en": "To cultivate one's mind and temperament, becoming calmer and more virtuous.",
+      "zh": "修养心志，涵养性情。"
+    },
+    "equivalents": [
+      "cultivate one's character",
+      "nurture one's inner calm"
+    ],
+    "examples": [
+      {
+        "zh": "退休后，他练书法以修心养性。",
+        "en": "After retiring he practises calligraphy to cultivate his mind."
+      },
+      {
+        "zh": "寺院是修心养性的好地方。",
+        "en": "A temple is a good place to cultivate the mind."
+      },
+      {
+        "zh": "喝茶、下棋都是修心养性的方式。",
+        "en": "Tea-drinking and chess are ways to nurture a calm temperament."
+      }
+    ],
+    "usage": {
+      "en": "Used about hobbies and spiritual practice; the tone is gentle and slightly traditional.",
+      "zh": "用于爱好和修行，语气温和，略带传统色彩。"
+    },
+    "synonyms": [
+      "陶冶性情",
+      "安身立命"
+    ],
+    "antonyms": [
+      "急功近利",
+      "心浮气躁"
+    ]
+  },
+  {
+    "id": "pai-nan-jie-fen",
+    "text": "排难解纷",
+    "pinyin": "pái nàn jiě fēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "conduct",
+      "conflict-and-strife",
+      "historical-records"
+    ],
+    "literal": "remove · trouble · untie · dispute",
+    "natural": "remove difficulties and untangle disputes",
+    "meaning": {
+      "en": "To mediate and resolve other people's troubles and disputes.",
+      "zh": "替别人排除危难，调解纠纷。"
+    },
+    "equivalents": [
+      "mediate disputes",
+      "smooth over quarrels"
+    ],
+    "examples": [
+      {
+        "zh": "他好为人排难解纷，在村里很受尊敬。",
+        "en": "He likes to settle other people's quarrels and is respected in the village."
+      },
+      {
+        "zh": "居委会专门为邻里排难解纷。",
+        "en": "The residents' committee exists to settle disputes between neighbours."
+      },
+      {
+        "zh": "鲁仲连一生以排难解纷著称。",
+        "en": "Lu Zhonglian was famous all his life for resolving conflicts."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·赵策三》",
+      "story": {
+        "en": "Lu Zhonglian: the gentleman is valued for 'removing hardships, resolving difficulties and untangling disputes without taking any reward' (为人排患、释难、解纷乱而无取也).",
+        "zh": "鲁仲连说：“所贵于天下之士者，为人排患、释难、解纷乱而无取也。”"
+      }
+    },
+    "usage": {
+      "en": "Praise for mediators; typically official or community work.",
+      "zh": "赞扬调解人，多用于官方或社区工作。"
+    },
+    "synonyms": [
+      "调停斡旋",
+      "息事宁人"
+    ],
+    "antonyms": [
+      "挑拨离间",
+      "火上浇油"
+    ]
+  },
+  {
+    "id": "ku-mu-feng-chun",
+    "text": "枯木逢春",
+    "pinyin": "kū mù féng chūn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "comebacks-and-renewal"
+    ],
+    "literal": "withered · tree · meets · spring",
+    "natural": "a withered tree meets spring",
+    "meaning": {
+      "en": "New life or hope after a desperate situation; a recovery or revival.",
+      "zh": "枯萎的树遇到春天又发芽，比喻在绝境中重新获得生机。"
+    },
+    "equivalents": [
+      "a new lease of life",
+      "a revival from the brink"
+    ],
+    "examples": [
+      {
+        "zh": "经过治疗，他的病情枯木逢春，渐渐好转。",
+        "en": "After treatment, his condition revived like a withered tree in spring and slowly improved."
+      },
+      {
+        "zh": "这家老字号借助电商，枯木逢春。",
+        "en": "The old brand got a new lease of life through e-commerce."
+      },
+      {
+        "zh": "沉寂多年的小镇，因旅游而枯木逢春。",
+        "en": "The town, quiet for years, came back to life through tourism."
+      }
+    ],
+    "usage": {
+      "en": "Positive; used for people, organisations, careers. Compare 起死回生 (even stronger) and 老树开花.",
+      "zh": "褒义，可用于人、机构、事业；与“起死回生”相近，后者更强。"
+    },
+    "synonyms": [
+      "起死回生",
+      "枯树发芽"
+    ],
+    "antonyms": [
+      "日薄西山",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "zhang-you-you-xu",
+    "text": "长幼有序",
+    "pinyin": "zhǎng yòu yǒu xù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relationships",
+      "filial-piety",
+      "confucian-classics"
+    ],
+    "literal": "elder · young · have · order",
+    "natural": "elders and young have an order",
+    "meaning": {
+      "en": "Respect for age order: the old and young each have their place, with proper courtesy to elders.",
+      "zh": "年长的和年幼的之间有一定的次序，晚辈要尊敬长辈。"
+    },
+    "equivalents": [
+      "respect for seniority",
+      "the young defer to the old"
+    ],
+    "examples": [
+      {
+        "zh": "餐桌上讲究长幼有序，长辈先动筷。",
+        "en": "At table, age order matters; the elders begin first."
+      },
+      {
+        "zh": "中国传统家庭重视长幼有序。",
+        "en": "Traditional Chinese families value respect for seniority."
+      },
+      {
+        "zh": "长幼有序，是我们从小就被教导的规矩。",
+        "en": "'Elders first' is a rule we were taught from childhood."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·滕文公上》",
+      "story": {
+        "en": "Mencius: 'Between father and son there is affection, between ruler and minister righteousness, between husband and wife distinction, between old and young order, between friends trust' (长幼有序，朋友有信).",
+        "zh": "《孟子·滕文公上》：“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信。”"
+      }
+    },
+    "usage": {
+      "en": "Confucian ethic of the five relationships. 长 is zhǎng (elder), not cháng; 幼 yòu.",
+      "zh": "儒家“五伦”之一；“长”读zhǎng，不读cháng。"
+    },
+    "synonyms": [
+      "尊老爱幼",
+      "尊卑有序"
+    ],
+    "antonyms": [
+      "没大没小",
+      "目无尊长"
+    ]
+  },
+  {
+    "id": "jiao-xiao-ling-long",
+    "text": "娇小玲珑",
+    "pinyin": "jiāo xiǎo líng lóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "appearance"
+    ],
+    "literal": "delicate · small · exquisite · dainty",
+    "natural": "small, delicate and exquisite",
+    "meaning": {
+      "en": "Small, dainty and pretty; of a petite, graceful build.",
+      "zh": "身材小巧、灵活可爱，多指女子。"
+    },
+    "equivalents": [
+      "petite and dainty",
+      "small but exquisite"
+    ],
+    "examples": [
+      {
+        "zh": "她娇小玲珑，跳起舞来格外灵巧。",
+        "en": "Petite and graceful, she dances with great agility."
+      },
+      {
+        "zh": "这只娇小玲珑的瓷杯很受欢迎。",
+        "en": "The small, delicate porcelain cup is very popular."
+      },
+      {
+        "zh": "娇小玲珑的她，却是队里的得分王。",
+        "en": "Small and dainty as she is, she is the team's top scorer."
+      }
+    ],
+    "usage": {
+      "en": "Complimentary; most often of women, sometimes of small objects. 玲珑 is líng lóng.",
+      "zh": "褒义，多指女子，也可指小巧的物品；“玲珑”读líng lóng。"
+    },
+    "synonyms": [
+      "小巧玲珑",
+      "亭亭玉立"
+    ],
+    "antonyms": [
+      "五大三粗",
+      "虎背熊腰"
+    ]
+  },
+  {
+    "id": "tie-shu-kai-hua",
+    "text": "铁树开花",
+    "pinyin": "tiě shù kāi huā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "fortune",
+      "once-in-a-lifetime-events"
+    ],
+    "literal": "iron · tree · blooms · flowers",
+    "natural": "the iron tree blooms",
+    "meaning": {
+      "en": "Something very rare or almost impossible; sometimes used for a long-awaited success.",
+      "zh": "铁树不易开花，比喻事情非常罕见或极难实现。"
+    },
+    "equivalents": [
+      "once in a blue moon",
+      "a rare event"
+    ],
+    "examples": [
+      {
+        "zh": "他请客简直是铁树开花。",
+        "en": "Him treating us is a once-in-a-blue-moon event."
+      },
+      {
+        "zh": "这只球队夺冠，真是铁树开花。",
+        "en": "For this team to win the title is truly a rarity."
+      },
+      {
+        "zh": "铁树开花，哑巴说话，都比不上这件事稀奇。",
+        "en": "Neither an iron tree in bloom nor a mute speaking is as strange as this."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 马生角, 公鸡下蛋. In botany, 铁树 is the sago palm, which flowers only rarely in cool climates. Often jocular about stingy people.",
+      "zh": "常与“马生角”“公鸡下蛋”并用；铁树即苏铁，在北方很难开花；常用来调侃吝啬的人。"
+    },
+    "synonyms": [
+      "千载难逢",
+      "凤毛麟角"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "屡见不鲜"
+    ]
+  },
+  {
+    "id": "yin-shi-nan-nu",
+    "text": "饮食男女",
+    "pinyin": "yǐn shí nán nǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "culture",
+      "confucian-classics"
+    ],
+    "literal": "drink · food · man · woman",
+    "natural": "eating, drinking, men and women",
+    "meaning": {
+      "en": "The basic human desires for food and for love; ordinary human life.",
+      "zh": "吃喝和男女之情，指人的基本欲望，也泛指日常人生。"
+    },
+    "equivalents": [
+      "the basic human appetites",
+      "food and love"
+    ],
+    "examples": [
+      {
+        "zh": "饮食男女，人之大欲存焉。",
+        "en": "Food and sex are the great desires of mankind."
+      },
+      {
+        "zh": "这部电影讲的是饮食男女的平凡生活。",
+        "en": "The film is about the ordinary lives of people and their appetites for food and love."
+      },
+      {
+        "zh": "他对饮食男女的描写入木三分。",
+        "en": "His portrayal of human appetites is penetrating."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·礼运》",
+      "story": {
+        "en": "The Book of Rites: 'Food, drink, men and women are where the great desires of humans lie' (饮食男女，人之大欲存焉).",
+        "zh": "《礼记·礼运》：“饮食男女，人之大欲存焉。”"
+      }
+    },
+    "usage": {
+      "en": "Neutral but sometimes earthy; also the Chinese title of Ang Lee's film Eat Drink Man Woman.",
+      "zh": "中性，略带世俗味道；李安电影《饮食男女》即此词。"
+    },
+    "synonyms": [
+      "人之大欲",
+      "柴米油盐"
+    ],
+    "antonyms": [
+      "清心寡欲",
+      "四大皆空"
+    ]
+  },
+  {
+    "id": "wen-zhi-wu-gong",
+    "text": "文治武功",
+    "pinyin": "wén zhì wǔ gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "society",
+      "good-governance",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "civil · rule · martial · merit",
+    "natural": "civil government and military achievement",
+    "meaning": {
+      "en": "A ruler's accomplishments in both governing and warfare.",
+      "zh": "指帝王在政治、教化和军事上的功绩。"
+    },
+    "equivalents": [
+      "achievements in peace and war",
+      "statecraft and military glory"
+    ],
+    "examples": [
+      {
+        "zh": "唐太宗文治武功俱盛，开创了盛世。",
+        "en": "Emperor Taizong of Tang excelled in governance and warfare and created a golden age."
+      },
+      {
+        "zh": "这位帝王的文治武功，至今为人称道。",
+        "en": "The emperor's civil and military achievements are still praised today."
+      },
+      {
+        "zh": "他在位期间，文治武功皆有建树。",
+        "en": "During his reign he made accomplishments both civil and military."
+      }
+    ],
+    "usage": {
+      "en": "Formal, praising rulers and statesmen. Usually followed by a verb like 建树 or 彪炳史册.",
+      "zh": "庄重，赞扬帝王和政治家，常后接“建树”“彪炳史册”等。"
+    },
+    "synonyms": [
+      "文武双全",
+      "丰功伟绩"
+    ],
+    "antonyms": [
+      "无所作为",
+      "碌碌无为"
+    ]
+  },
+  {
+    "id": "chi-di-qian-li",
+    "text": "赤地千里",
+    "pinyin": "chì dì qiān lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "nature",
+      "harsh-natural-conditions",
+      "bad-fortune"
+    ],
+    "literal": "bare · land · thousand · li",
+    "natural": "a thousand li of barren earth",
+    "meaning": {
+      "en": "A vast stretch of land stripped bare by drought, locusts or war, with nothing growing.",
+      "zh": "因旱灾、虫灾或战乱，田地荒芜，寸草不生。"
+    },
+    "equivalents": [
+      "scorched and barren land for miles",
+      "a vast wasteland"
+    ],
+    "examples": [
+      {
+        "zh": "大旱之年，赤地千里，颗粒无收。",
+        "en": "In the drought year, the barren land stretched for miles with nothing harvested."
+      },
+      {
+        "zh": "战火过后，赤地千里，一片荒凉。",
+        "en": "After the war, there was devastated land for miles and desolation."
+      },
+      {
+        "zh": "蝗灾席卷之处，赤地千里。",
+        "en": "Wherever the locusts passed, the land was stripped bare."
+      }
+    ],
+    "usage": {
+      "en": "Literary; describes disaster, often in historical writing. 赤 means 'bare' here, not 'red'.",
+      "zh": "书面语，描写灾荒，多见于历史叙述；“赤”指空、光，不是红色。"
+    },
+    "synonyms": [
+      "寸草不生",
+      "饿殍遍野"
+    ],
+    "antonyms": [
+      "沃野千里",
+      "五谷丰登"
+    ]
+  },
+  {
+    "id": "fu-shou-ting-ming",
+    "text": "俯首听命",
+    "pinyin": "fǔ shǒu tīng mìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "conformity-and-imitation"
+    ],
+    "literal": "bow · head · listen · orders",
+    "natural": "bow the head and take orders",
+    "meaning": {
+      "en": "To obey submissively without any resistance.",
+      "zh": "低着头听从命令，形容驯服顺从。"
+    },
+    "equivalents": [
+      "obey meekly",
+      "submit docilely"
+    ],
+    "examples": [
+      {
+        "zh": "他在上司面前只会俯首听命。",
+        "en": "In front of his superior he can only submit meekly."
+      },
+      {
+        "zh": "我们不会向任何压力俯首听命。",
+        "en": "We will not bow to any kind of pressure."
+      },
+      {
+        "zh": "他一向俯首听命，从不敢提出不同意见。",
+        "en": "He has always obeyed meekly and never dared to voice a different view."
+      }
+    ],
+    "usage": {
+      "en": "Usually mild criticism of submissiveness; can be neutral in military or feudal contexts.",
+      "zh": "多含对顺从的轻微批评；在军事或旧式语境中也可中性。"
+    },
+    "synonyms": [
+      "唯命是从",
+      "俯首帖耳"
+    ],
+    "antonyms": [
+      "桀骜不驯",
+      "违抗命令"
+    ]
+  },
+  {
+    "id": "si-qi-bai-lai",
+    "text": "死乞白赖",
+    "pinyin": "sǐ qǐ bái lài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "死气白赖"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior"
+    ],
+    "literal": "dead · beg · white · rely",
+    "natural": "pester and cling shamelessly",
+    "meaning": {
+      "en": "To keep pestering someone shamelessly, begging or clinging on to get what one wants.",
+      "zh": "厚着脸皮纠缠不休。"
+    },
+    "equivalents": [
+      "pester shamelessly",
+      "hang on like a leech"
+    ],
+    "examples": [
+      {
+        "zh": "他死乞白赖地求我帮忙。",
+        "en": "He pestered me shamelessly to help."
+      },
+      {
+        "zh": "孩子在商店里死乞白赖要买玩具。",
+        "en": "The child kept pestering and begging to buy a toy in the shop."
+      },
+      {
+        "zh": "别死乞白赖地缠着她了，人家不愿意。",
+        "en": "Stop pestering her; she doesn't want to."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial, mainly northern; also written 死气白赖. 乞 is read qǐ.",
+      "zh": "口语，多见于北方；亦作“死气白赖”；“乞”读qǐ。"
+    },
+    "synonyms": [
+      "死皮赖脸",
+      "软磨硬泡"
+    ],
+    "antonyms": [
+      "知难而退",
+      "一走了之"
+    ]
+  }
+]

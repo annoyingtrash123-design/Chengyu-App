@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "zhang-tou-shu-mu",
+    "text": "獐头鼠目",
+    "pinyin": "zhāng tóu shǔ mù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "roe-deer · head · rat · eyes",
+    "natural": "a pointed head and darting eyes",
+    "meaning": {
+      "en": "Describes an ugly, shifty-looking person, as if of bad character.",
+      "zh": "形容人相貌丑陋、神情狡猾，让人觉得不是好人。"
+    },
+    "equivalents": [
+      "shifty and unsavoury-looking",
+      "weaselly-looking"
+    ],
+    "examples": [
+      {
+        "zh": "这个獐头鼠目的家伙，一看就不老实。",
+        "en": "That weaselly-looking fellow clearly can't be trusted."
+      },
+      {
+        "zh": "小说里的反派往往被描写成獐头鼠目的样子。",
+        "en": "Villains in novels are often described as shifty-looking."
+      },
+      {
+        "zh": "别以貌取人，獐头鼠目的人未必是坏人。",
+        "en": "Don't judge by appearances; a shifty-looking man isn't necessarily a bad one."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory and colloquial, about looks. Note 獐 is zhāng ('river deer'), often mistyped as 章. Judging character by looks is itself frowned on.",
+      "zh": "贬义，口语，指相貌。“獐”读 zhāng，常被误写成“章”。以貌取人本身并不可取。"
+    },
+    "synonyms": [
+      "贼眉鼠眼",
+      "鬼鬼祟祟"
+    ],
+    "antonyms": [
+      "相貌堂堂"
+    ]
+  },
+  {
+    "id": "chui-hui-zhi-li",
+    "text": "吹灰之力",
+    "pinyin": "chuī huī zhī lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "relative-measurements"
+    ],
+    "literal": "blow · dust · 's · effort",
+    "natural": "the effort of blowing off dust",
+    "meaning": {
+      "en": "A very slight effort; mostly in the negative: without the least effort.",
+      "zh": "吹掉灰尘那样微小的力气；多用于否定式，表示毫不费力。"
+    },
+    "equivalents": [
+      "not the slightest effort",
+      "barely lifting a finger"
+    ],
+    "examples": [
+      {
+        "zh": "这道题对他来说不费吹灰之力。",
+        "en": "The question took him no effort at all."
+      },
+      {
+        "zh": "要拿下这个客户，可不是不费吹灰之力的事。",
+        "en": "Winning this client won't be effortless."
+      },
+      {
+        "zh": "他不费吹灰之力就赢了比赛。",
+        "en": "He won the match without breaking a sweat."
+      }
+    ],
+    "usage": {
+      "en": "Almost always in 不费吹灰之力 or 毫不费吹灰之力. In a positive sentence it is rare and needs 只/仅 for 'just that little effort'.",
+      "zh": "几乎总是说“不费吹灰之力”。肯定句很少见，需要搭配“只、仅”。"
+    },
+    "synonyms": [
+      "轻而易举",
+      "易如反掌"
+    ],
+    "antonyms": [
+      "费尽心机",
+      "九牛二虎之力"
+    ]
+  },
+  {
+    "id": "hao-hao-xian-sheng",
+    "text": "好好先生",
+    "pinyin": "hǎo hǎo xiān shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conformity-and-imitation",
+      "negative-character-flaws"
+    ],
+    "literal": "good · good · Mr",
+    "natural": "Mr Nice Guy",
+    "meaning": {
+      "en": "A person who agrees with everyone and avoids taking a stand to stay on good terms.",
+      "zh": "指不讲原则、与人无争、谁都不得罪的人。"
+    },
+    "equivalents": [
+      "a yes-man",
+      "someone who never takes a side"
+    ],
+    "examples": [
+      {
+        "zh": "他是个好好先生，从不拒绝任何人。",
+        "en": "He's a Mr Nice Guy who never says no to anyone."
+      },
+      {
+        "zh": "当领导不能当好好先生，该批评时要批评。",
+        "en": "A leader can't be a yes-man; criticism has to be given when due."
+      },
+      {
+        "zh": "会上他谁都不得罪，真是个好好先生。",
+        "en": "At the meeting he offended nobody, a real pushover."
+      }
+    ],
+    "usage": {
+      "en": "Mildly derogatory. Differs from 老好人 (which can be neutral) in highlighting a lack of principle. Noun phrase.",
+      "zh": "略带贬义，强调没有原则；与“老好人”相比，后者有时是中性。名词性。"
+    },
+    "synonyms": [
+      "老好人",
+      "和事佬"
+    ],
+    "antonyms": [
+      "铁面无私",
+      "嫉恶如仇"
+    ]
+  },
+  {
+    "id": "bie-lai-wu-yang",
+    "text": "别来无恙",
+    "pinyin": "bié lái wú yàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "polite-humble",
+      "festive-greetings"
+    ],
+    "literal": "parting · since · no · illness",
+    "natural": "are you well since we parted?",
+    "meaning": {
+      "en": "A greeting to someone long unseen: hope you have been well since we parted.",
+      "zh": "分别以来一向可好；用于问候久别的人。"
+    },
+    "equivalents": [
+      "I hope you've been well",
+      "how have you been since we last met?"
+    ],
+    "examples": [
+      {
+        "zh": "多年不见，别来无恙？",
+        "en": "Long time no see; how have you been?"
+      },
+      {
+        "zh": "老同学重逢，第一句话便是“别来无恙”。",
+        "en": "When old classmates met again, the first thing said was 'I hope you've been well'."
+      },
+      {
+        "zh": "先生别来无恙，风采依旧。",
+        "en": "I hope you've been well, sir; you look just as splendid."
+      }
+    ],
+    "usage": {
+      "en": "A greeting, somewhat literary or playful in modern speech. Don't use it for people you see regularly. 恙 is read yàng.",
+      "zh": "问候语，现代口语中略带书面或戏谑色彩。常见面的人不适用。“恙”读 yàng。"
+    },
+    "synonyms": [
+      "久违久违"
+    ],
+    "antonyms": [
+      "一别永诀"
+    ]
+  },
+  {
+    "id": "shen-cang-ruo-xu",
+    "text": "深藏若虚",
+    "pinyin": "shēn cáng ruò xū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "historical-records"
+    ],
+    "literal": "deeply · hide · as-if · empty",
+    "natural": "hiding treasure deep, as if there were none",
+    "meaning": {
+      "en": "To be modest and conceal real ability or knowledge so that one seems to have little.",
+      "zh": "把珍宝藏得很深，好像没有一样；比喻有才学而不外露。"
+    },
+    "equivalents": [
+      "keep one's talents hidden",
+      "modest despite great ability"
+    ],
+    "examples": [
+      {
+        "zh": "真正的高手往往深藏若虚。",
+        "en": "Real masters are often modest and keep their skills hidden."
+      },
+      {
+        "zh": "他深藏若虚，没人知道他是个专家。",
+        "en": "He was so unassuming that nobody knew he was an expert."
+      },
+      {
+        "zh": "做人要深藏若虚，不要处处炫耀。",
+        "en": "One should be unassuming rather than show off at every turn."
+      }
+    ],
+    "origin": {
+      "source": "《史记·老子韩非列传》",
+      "story": {
+        "en": "Laozi told Confucius that a good merchant hides his goods deep as if he had none, and a gentleman with full virtue looks like a fool.",
+        "zh": "老子对孔子说：“吾闻之，良贾深藏若虚，君子盛德，容貌若愚。”"
+      }
+    },
+    "usage": {
+      "en": "Praise of modesty; often paired with 大智若愚. Predicate or attributive.",
+      "zh": "褒义，赞美谦虚；常与“大智若愚”连用。作谓语、定语。"
+    },
+    "synonyms": [
+      "大智若愚",
+      "虚怀若谷"
+    ],
+    "antonyms": [
+      "锋芒毕露",
+      "夸夸其谈"
+    ]
+  },
+  {
+    "id": "jian-wei-zhi-zhu",
+    "text": "见微知著",
+    "pinyin": "jiàn wēi zhī zhù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "mental-clarity",
+      "experience-and-old-age"
+    ],
+    "literal": "see · slight · know · obvious",
+    "natural": "seeing the small and knowing the large",
+    "meaning": {
+      "en": "To foresee how things will develop from small signs.",
+      "zh": "从细微的苗头预见事物的发展趋势。"
+    },
+    "equivalents": [
+      "read the signs early",
+      "see the big picture in small details"
+    ],
+    "examples": [
+      {
+        "zh": "好的医生能见微知著，早期发现病情。",
+        "en": "A good doctor can read small signs and spot illness early."
+      },
+      {
+        "zh": "他见微知著，提前预判了市场变化。",
+        "en": "He read the signs and anticipated the market shift."
+      },
+      {
+        "zh": "见微知著，从孩子的小习惯可看出他的性格。",
+        "en": "Small habits show a child's character."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·说林上》",
+      "story": {
+        "en": "Han Feizi says the sage sees the slight and knows the sprout, sees the beginning and knows the end.",
+        "zh": "《韩非子·说林上》：“圣人见微以知萌，见端以知末。”"
+      }
+    },
+    "usage": {
+      "en": "Praise of insight; formal. Often paired with 防微杜渐. 著 is read zhù ('obvious').",
+      "zh": "褒义，赞美洞察力；较正式，常与“防微杜渐”连用。“著”读 zhù。"
+    },
+    "synonyms": [
+      "一叶知秋",
+      "洞察秋毫"
+    ],
+    "antonyms": [
+      "视而不见",
+      "熟视无睹"
+    ]
+  },
+  {
+    "id": "you-qiang-hua-diao",
+    "text": "油腔滑调",
+    "pinyin": "yóu qiāng huá diào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "oily · tone · slick · accent",
+    "natural": "an oily manner of speaking",
+    "meaning": {
+      "en": "Speaking in a glib, flippant way that is not sincere or serious.",
+      "zh": "形容人说话轻浮油滑，不诚恳、不严肃。"
+    },
+    "equivalents": [
+      "glib and flippant",
+      "smooth-talking"
+    ],
+    "examples": [
+      {
+        "zh": "他说话油腔滑调，让人不敢信任。",
+        "en": "He talks glibly and people can't trust him."
+      },
+      {
+        "zh": "销售员油腔滑调的推销，让顾客反感。",
+        "en": "The salesman's slick patter annoyed customers."
+      },
+      {
+        "zh": "正式场合别油腔滑调的。",
+        "en": "Don't be flippant on formal occasions."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory, about someone's speaking manner. 腔 is qiāng. Predicate or attributive.",
+      "zh": "贬义，指说话态度。“腔”读 qiāng。作谓语、定语。"
+    },
+    "synonyms": [
+      "油嘴滑舌",
+      "嬉皮笑脸"
+    ],
+    "antonyms": [
+      "朴实无华",
+      "一本正经"
+    ]
+  },
+  {
+    "id": "hun-bu-fu-ti",
+    "text": "魂不附体",
+    "pinyin": "hún bù fù tǐ",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice"
+    ],
+    "literal": "soul · not · attached · body",
+    "natural": "the soul no longer attached to the body",
+    "meaning": {
+      "en": "So terrified that one is scarcely aware of oneself.",
+      "zh": "吓得魂魄都离开了身体；形容极度惊恐，失去常态。"
+    },
+    "equivalents": [
+      "scared out of one's wits",
+      "frozen with terror"
+    ],
+    "examples": [
+      {
+        "zh": "听到巨响，孩子吓得魂不附体。",
+        "en": "The child was scared out of his wits by the bang."
+      },
+      {
+        "zh": "遇上劫匪，她魂不附体，说不出话来。",
+        "en": "Facing the robbers she was frozen with fear and couldn't speak."
+      },
+      {
+        "zh": "这场车祸让他魂不附体。",
+        "en": "The crash left him scared witless."
+      }
+    ],
+    "usage": {
+      "en": "Describes fright; also 魂飞魄散 (stronger). Predicate or complement, e.g. 吓得魂不附体. 附 is fù.",
+      "zh": "形容惊恐；与“魂飞魄散”近，后者更强烈。作谓语、补语，如“吓得魂不附体”。“附”读 fù。"
+    },
+    "synonyms": [
+      "魂飞魄散",
+      "胆战心惊"
+    ],
+    "antonyms": [
+      "泰然自若",
+      "镇定自若"
+    ]
+  },
+  {
+    "id": "guan-kui-li-ce",
+    "text": "管窥蠡测",
+    "pinyin": "guǎn kuī lí cè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "superficial-learning",
+      "polite-humble",
+      "historical-records"
+    ],
+    "literal": "tube · peep · gourd-ladle · measure",
+    "natural": "peeping through a tube and measuring with a ladle",
+    "meaning": {
+      "en": "To view or judge things from a narrow perspective; also a modest way to call one's own view shallow.",
+      "zh": "从竹管里看天，用瓢测海；比喻见识狭窄、观察片面，也用作自谦。"
+    },
+    "equivalents": [
+      "a narrow, partial view",
+      "my humble and limited opinion"
+    ],
+    "examples": [
+      {
+        "zh": "以上只是管窥蠡测，不当之处请指正。",
+        "en": "This is only my limited view; please correct any errors."
+      },
+      {
+        "zh": "仅凭一两个例子下结论，不过是管窥蠡测。",
+        "en": "Drawing conclusions from one or two examples is a very narrow view."
+      },
+      {
+        "zh": "对如此复杂的问题，我们的研究只是管窥蠡测。",
+        "en": "On so complex an issue our research is only a partial glimpse."
+      }
+    ],
+    "origin": {
+      "source": "东方朔《答客难》",
+      "story": {
+        "en": "Dongfang Shuo, answering a critic, says that to peep at the sky through a tube and measure the sea with a gourd ladle is to fail to know the whole.",
+        "zh": "东方朔《答客难》：“以管窥天，以蠡测海，以莛撞钟，岂能通其条贯，考其文理，发其音声哉！”"
+      }
+    },
+    "usage": {
+      "en": "Literary; used about others as criticism and about oneself as modesty. 蠡 is read lí (a gourd ladle) in this idiom, and 测 means to measure.",
+      "zh": "书面语；批评别人，或用于自谦。此处“蠡”读 lí，指瓢。"
+    },
+    "synonyms": [
+      "管中窥豹",
+      "坐井观天"
+    ],
+    "antonyms": [
+      "洞若观火",
+      "高瞻远瞩"
+    ]
+  },
+  {
+    "id": "zuo-fa-zi-bi",
+    "text": "作法自毙",
+    "pinyin": "zuò fǎ zì bì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "natural-consequences",
+      "historical-records"
+    ],
+    "literal": "make · law · oneself · die",
+    "natural": "to die by the law one has made",
+    "meaning": {
+      "en": "To be caught out by one's own scheme or rules; to suffer from what one devised.",
+      "zh": "自己订立的法令或设计的计策，反而使自己受害。"
+    },
+    "equivalents": [
+      "hoist with one's own petard",
+      "fall victim to one's own rules"
+    ],
+    "examples": [
+      {
+        "zh": "他设下的圈套，最后让自己作法自毙。",
+        "en": "The trap he set ended up catching him."
+      },
+      {
+        "zh": "这项条款最后让起草者作法自毙。",
+        "en": "The clause ended up being the drafters' own undoing."
+      },
+      {
+        "zh": "制定规则的人也要遵守，否则可能作法自毙。",
+        "en": "Rule-makers must follow them too, or they may be hoist with their own petard."
+      }
+    ],
+    "origin": {
+      "source": "《史记·商君列传》",
+      "story": {
+        "en": "Shang Yang fled and tried to stay at an inn, but the innkeeper refused him as the law he had made forbade lodging someone without papers; he sighed at the disaster the law had brought.",
+        "zh": "商鞅逃至客舍，客舍人不知他是商君，说商君之法不许留宿无证之人；商鞅叹曰：“嗟乎，为法之敝一至此哉！”"
+      }
+    },
+    "usage": {
+      "en": "Describes a case of poetic justice. Mostly predicate; 毙 is bì ('die'). Often confused with 作茧自缚, which is more about self-entrapment.",
+      "zh": "描述咎由自取的情形，多作谓语；“毙”读 bì。常与“作茧自缚”混淆，后者更强调自我束缚。"
+    },
+    "synonyms": [
+      "自食其果",
+      "自作自受"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "mian-ru-tu-se",
+    "text": "面如土色",
+    "pinyin": "miàn rú tǔ sè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fear-and-cowardice",
+      "appearance"
+    ],
+    "literal": "face · like · earth · colour",
+    "natural": "a face the colour of earth",
+    "meaning": {
+      "en": "A face turned pale and ashen from fright, shock or illness.",
+      "zh": "脸色像泥土一样灰暗，形容极度惊恐或受惊吓的样子。"
+    },
+    "equivalents": [
+      "ashen-faced",
+      "white as a sheet"
+    ],
+    "examples": [
+      {
+        "zh": "听到噩耗，她顿时面如土色。",
+        "en": "On hearing the terrible news she turned ashen."
+      },
+      {
+        "zh": "考官宣布成绩时，他面如土色。",
+        "en": "When the examiner announced the results he went pale."
+      },
+      {
+        "zh": "他吓得面如土色，半天说不出话。",
+        "en": "He was so frightened that his face went grey and he was speechless for a long while."
+      }
+    ],
+    "usage": {
+      "en": "Describes the face under shock; may also describe sickness. Predicate or complement.",
+      "zh": "描写受惊时的脸色，也可指病容。作谓语、补语。"
+    },
+    "synonyms": [
+      "面无人色",
+      "脸色煞白"
+    ],
+    "antonyms": [
+      "红光满面",
+      "神采奕奕"
+    ]
+  },
+  {
+    "id": "yan-duo-bi-shi",
+    "text": "言多必失",
+    "pinyin": "yán duō bì shī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "verbosity"
+    ],
+    "literal": "words · many · surely · slip",
+    "natural": "the more you say, the more slips you make",
+    "meaning": {
+      "en": "The more one talks, the more likely one is to say something wrong.",
+      "zh": "话说得多了，难免出错。"
+    },
+    "equivalents": [
+      "the more you talk, the more you slip",
+      "least said, soonest mended"
+    ],
+    "examples": [
+      {
+        "zh": "言多必失，在谈判中少说为妙。",
+        "en": "The more you say, the more mistakes you make, so say little in negotiations."
+      },
+      {
+        "zh": "他喝了酒话多，言多必失，说漏了秘密。",
+        "en": "Drunk and talkative, he let a secret slip."
+      },
+      {
+        "zh": "记住言多必失，关键场合要谨慎发言。",
+        "en": "Remember that talking too much brings errors, so speak carefully on crucial occasions."
+      }
+    ],
+    "usage": {
+      "en": "Advice for caution in speech; often used as a sigh after a slip. Close to 祸从口出 but milder.",
+      "zh": "劝人说话谨慎，说错话后常用来感叹。与“祸从口出”近，但程度较轻。"
+    },
+    "synonyms": [
+      "祸从口出"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "rong-ma-kong-zong",
+    "text": "戎马倥偬",
+    "pinyin": "róng mǎ kǒng zǒng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "war · horses · pressing · busy",
+    "natural": "busy with war horses",
+    "meaning": {
+      "en": "Describes the busy, hurried life of soldiers at war.",
+      "zh": "形容军事活动繁忙紧张。"
+    },
+    "equivalents": [
+      "a life of military campaigns",
+      "busy with war"
+    ],
+    "examples": [
+      {
+        "zh": "他戎马倥偬数十年，才得以解甲归田。",
+        "en": "He spent decades on military campaigns before being able to retire."
+      },
+      {
+        "zh": "在戎马倥偬的岁月里，他依然坚持读书。",
+        "en": "Through the busy years of war he kept up his reading."
+      },
+      {
+        "zh": "这位将军戎马倥偬，一生南征北战。",
+        "en": "The general spent his life campaigning north and south."
+      }
+    ],
+    "usage": {
+      "en": "Literary, about a soldier's career; 倥偬 is kǒng zǒng ('pressed, urgent'). Not for modern military in routine settings.",
+      "zh": "书面语，写军人生涯；“倥偬”读 kǒng zǒng，意为紧迫繁忙。"
+    },
+    "synonyms": [
+      "南征北战"
+    ],
+    "antonyms": [
+      "解甲归田"
+    ]
+  },
+  {
+    "id": "cheng-shi-bu-zu",
+    "text": "成事不足",
+    "pinyin": "chéng shì bù zú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "mistakes-and-correction"
+    ],
+    "literal": "accomplish · matter · not · enough",
+    "natural": "not enough to get things done",
+    "meaning": {
+      "en": "Unable to accomplish anything; usually 'better at spoiling things than finishing them'.",
+      "zh": "办不成事，反而常常把事情搞坏（常与“败事有余”连用）。"
+    },
+    "equivalents": [
+      "more of a hindrance than a help",
+      "good at spoiling things"
+    ],
+    "examples": [
+      {
+        "zh": "成事不足，败事有余，有他在反而添乱。",
+        "en": "He is no help and an expert at spoiling things; having him around only adds trouble."
+      },
+      {
+        "zh": "他成事不足，却爱指手画脚。",
+        "en": "He can't get anything done, yet he loves to give orders."
+      },
+      {
+        "zh": "别找这种成事不足的人合作。",
+        "en": "Don't partner with someone who is useless at getting things done."
+      }
+    ],
+    "usage": {
+      "en": "Normally quoted as 成事不足，败事有余. Derogatory, colloquial.",
+      "zh": "通常说“成事不足，败事有余”。贬义，口语。"
+    },
+    "synonyms": [
+      "无所作为"
+    ],
+    "antonyms": [
+      "大有作为"
+    ]
+  },
+  {
+    "id": "er-nu-qing-chang",
+    "text": "儿女情长",
+    "pinyin": "ér nǚ qíng cháng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "complex-emotional-states"
+    ],
+    "literal": "sons · daughters · feelings · long",
+    "natural": "lingering feelings of love",
+    "meaning": {
+      "en": "Absorbed in romantic or family affection, often implying a lack of larger ambition.",
+      "zh": "指过分沉溺于男女恋情或家庭情感。"
+    },
+    "equivalents": [
+      "sentimental attachments",
+      "too absorbed in romance and family"
+    ],
+    "examples": [
+      {
+        "zh": "大丈夫志在四方，不可儿女情长。",
+        "en": "A man of ambition aims for the world and should not be too wrapped up in sentiment."
+      },
+      {
+        "zh": "他不是儿女情长的人，工作永远排在第一位。",
+        "en": "He isn't sentimental; work always comes first."
+      },
+      {
+        "zh": "儿女情长，英雄气短。",
+        "en": "Fondness for love saps heroic spirit."
+      }
+    ],
+    "usage": {
+      "en": "Usually in the pattern 儿女情长，英雄气短. Mild criticism, though also describes tenderness.",
+      "zh": "常见于“儿女情长，英雄气短”。略带批评，也可指柔情。"
+    },
+    "synonyms": [
+      "缠绵悱恻"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "juan-zhi-hao-fan",
+    "text": "卷帙浩繁",
+    "pinyin": "juàn zhì hào fán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "relative-measurements"
+    ],
+    "literal": "volumes · book-wraps · vast · numerous",
+    "natural": "vast in volumes and book-wraps",
+    "meaning": {
+      "en": "Describes a huge number of books or a work of many volumes.",
+      "zh": "形容书籍或文献卷数极多。"
+    },
+    "equivalents": [
+      "voluminous",
+      "a vast body of writing"
+    ],
+    "examples": [
+      {
+        "zh": "这部百科全书卷帙浩繁。",
+        "en": "This encyclopedia is vast."
+      },
+      {
+        "zh": "古籍卷帙浩繁，整理起来十分困难。",
+        "en": "Ancient texts are so voluminous that cataloguing them is hard."
+      },
+      {
+        "zh": "面对卷帙浩繁的史料，他整整读了三年。",
+        "en": "Faced with a vast body of historical material, he spent three years reading it."
+      }
+    ],
+    "usage": {
+      "en": "Literary; 帙 is zhì ('book wrapper'), often written wrongly as 秩. Usually attributive or predicate.",
+      "zh": "书面语；“帙”读 zhì，指书套，常被误写为“秩”。作定语、谓语。"
+    },
+    "synonyms": [
+      "汗牛充栋",
+      "浩如烟海"
+    ],
+    "antonyms": [
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "ke-ji-fu-li",
+    "text": "克己复礼",
+    "pinyin": "kè jǐ fù lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "restrain · self · return · ritual",
+    "natural": "restrain oneself and return to ritual propriety",
+    "meaning": {
+      "en": "To discipline oneself and act in accordance with proper conduct.",
+      "zh": "约束自己，使言行符合礼制。"
+    },
+    "equivalents": [
+      "exercise self-restraint",
+      "discipline oneself to act properly"
+    ],
+    "examples": [
+      {
+        "zh": "孔子说，克己复礼为仁。",
+        "en": "Confucius said that restraining oneself and returning to ritual is humaneness."
+      },
+      {
+        "zh": "他一生克己复礼，从不逾矩。",
+        "en": "All his life he exercised restraint and never overstepped the rules."
+      },
+      {
+        "zh": "领导干部要克己复礼，严守纪律。",
+        "en": "Officials must discipline themselves and observe regulations strictly."
+      }
+    ],
+    "origin": {
+      "source": "《论语·颜渊》",
+      "story": {
+        "en": "Yan Hui asks about humaneness, and Confucius replies that to restrain oneself and return to ritual is humaneness.",
+        "zh": "《论语·颜渊》：“克己复礼为仁。”"
+      }
+    },
+    "usage": {
+      "en": "Formal; 己 is jǐ ('self'), not 已. Often quoted from the Analects.",
+      "zh": "较正式；“己”读 jǐ，不是“已”。常引自《论语》。"
+    },
+    "synonyms": [
+      "严于律己"
+    ],
+    "antonyms": [
+      "肆无忌惮"
+    ]
+  },
+  {
+    "id": "zhu-dou-ran-qi",
+    "text": "煮豆燃萁",
+    "pinyin": "zhǔ dòu rán qí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conflict-and-strife",
+      "three-kingdoms",
+      "stories"
+    ],
+    "literal": "boil · beans · burn · bean-stalks",
+    "natural": "burning bean stalks to cook beans",
+    "meaning": {
+      "en": "Relatives hurting each other; infighting among brothers.",
+      "zh": "烧豆秆煮豆子；比喻兄弟骨肉互相残害。"
+    },
+    "equivalents": [
+      "family members turning on each other",
+      "infighting among kin"
+    ],
+    "examples": [
+      {
+        "zh": "兄弟为争家产对簿公堂，真是煮豆燃萁。",
+        "en": "Brothers fighting in court over inheritance, a real case of kin turning on kin."
+      },
+      {
+        "zh": "同行之间煮豆燃萁，只会让对手得利。",
+        "en": "Infighting among peers only benefits rivals."
+      },
+      {
+        "zh": "煮豆燃萁的悲剧不应再重演。",
+        "en": "The tragedy of relatives turning on each other should not be repeated."
+      }
+    ],
+    "origin": {
+      "source": "《世说新语·文学》",
+      "story": {
+        "en": "Cao Pi ordered his brother Cao Zhi to compose a poem within seven steps or be executed; Cao Zhi wrote of beans weeping in the pot while stalks burned beneath, 'born of the same root, why such haste to cook me?'.",
+        "zh": "曹植七步成诗：“煮豆持作羹，漉菽以为汁。萁在釜下燃，豆在釜中泣。本是同根生，相煎何太急？”"
+      }
+    },
+    "usage": {
+      "en": "Derogatory, literary; a version of the 'seven-step poem' story. 萁 is qí. Often cited with 相煎何急.",
+      "zh": "贬义，书面语；出自“七步诗”的故事。“萁”读 qí。常与“相煎何急”并用。"
+    },
+    "synonyms": [
+      "同室操戈",
+      "自相残杀"
+    ],
+    "antonyms": [
+      "手足情深",
+      "兄友弟恭"
+    ]
+  },
+  {
+    "id": "tu-long-zhi-ji",
+    "text": "屠龙之技",
+    "pinyin": "tú lóng zhī jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "broken-or-useless-items"
+    ],
+    "literal": "slay · dragon · 's · skill",
+    "natural": "the skill of slaying dragons",
+    "meaning": {
+      "en": "A great skill with no practical use.",
+      "zh": "精妙却没有实际用处的本领。"
+    },
+    "equivalents": [
+      "a skill nobody can use",
+      "impressive but useless expertise"
+    ],
+    "examples": [
+      {
+        "zh": "学了一身屠龙之技，却找不到工作。",
+        "en": "He mastered a skill nobody needs and couldn't find a job."
+      },
+      {
+        "zh": "这些理论只是屠龙之技，脱离实际。",
+        "en": "These theories are impressive but have no practical use."
+      },
+      {
+        "zh": "不要只练屠龙之技，要学能用的本事。",
+        "en": "Don't only train in impractical skills; learn useful ones."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·列御寇》",
+      "story": {
+        "en": "Zhu Pingman spent three years and a fortune learning to slay dragons from Zhili Yi, but then could find no use for his skill.",
+        "zh": "《庄子·列御寇》：“朱泙漫学屠龙于支离益，殚千金之家，三年技成而无所用其巧。”"
+      }
+    },
+    "usage": {
+      "en": "Mild criticism or self-mockery, about knowledge without application. Often a joke about postgraduate studies. Predicate or object.",
+      "zh": "轻微批评或自嘲，指学而无用的本领；常拿来调侃高深却冷门的专业。作谓语、宾语。"
+    },
+    "synonyms": [
+      "华而不实"
+    ],
+    "antonyms": [
+      "学以致用"
+    ]
+  },
+  {
+    "id": "qi-lu-wang-yang",
+    "text": "歧路亡羊",
+    "pinyin": "qí lù wáng yáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "多歧亡羊"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "confusion-and-doubt",
+      "learning-difficulties"
+    ],
+    "literal": "fork · road · lose · sheep",
+    "natural": "losing a sheep at a fork in the road",
+    "meaning": {
+      "en": "With too many choices or too complicated a subject, one loses one's way and gets nowhere.",
+      "zh": "岔路太多，丢了羊；比喻事物复杂多变，没有正确方向就会迷失。"
+    },
+    "equivalents": [
+      "lost among too many options",
+      "going astray with no clear direction"
+    ],
+    "examples": [
+      {
+        "zh": "学习方向太多，难免歧路亡羊。",
+        "en": "With too many directions to study, one easily goes astray."
+      },
+      {
+        "zh": "创业者缺乏重点，容易歧路亡羊。",
+        "en": "Entrepreneurs without focus can easily get lost."
+      },
+      {
+        "zh": "治学要专，不然会歧路亡羊。",
+        "en": "In study one must focus, or one gets lost."
+      }
+    ],
+    "origin": {
+      "source": "《列子·说符》",
+      "story": {
+        "en": "Yang Zhu's neighbour lost a sheep and many went to search, but the road had many forks and the sheep could not be found; Yang Zhu grew sad, saying so it is with the truth.",
+        "zh": "杨子之邻人亡羊，众人追之，歧路之中又有歧焉，不知所之。"
+      }
+    },
+    "usage": {
+      "en": "Warning about lack of focus; 亡 is wáng here ('lose'). Also found as 多歧亡羊.",
+      "zh": "提醒做事要有重点；“亡”读 wáng，意为丢失。也说“多歧亡羊”。"
+    },
+    "synonyms": [
+      "无所适从"
+    ],
+    "antonyms": [
+      "专心致志"
+    ]
+  },
+  {
+    "id": "yi-fan-qian-jin",
+    "text": "一饭千金",
+    "pinyin": "yī fàn qiān jīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "historical-records",
+      "stories",
+      "positive-character-qualities"
+    ],
+    "literal": "one · meal · thousand · gold",
+    "natural": "one meal repaid with a thousand in gold",
+    "meaning": {
+      "en": "To repay even a small kindness generously.",
+      "zh": "受人一餐之恩，以千金报答；比喻厚报恩人。"
+    },
+    "equivalents": [
+      "repay a small kindness handsomely",
+      "never forget a favour"
+    ],
+    "examples": [
+      {
+        "zh": "他一饭千金，成功后重金酬谢当年的恩人。",
+        "en": "He repaid his benefactor handsomely after he succeeded."
+      },
+      {
+        "zh": "一饭千金的故事教人懂得感恩。",
+        "en": "The story of the meal repaid with gold teaches gratitude."
+      },
+      {
+        "zh": "她有一饭千金的气度，从不忘记别人的好。",
+        "en": "She is generous in returning favours and never forgets kindnesses."
+      }
+    ],
+    "origin": {
+      "source": "《史记·淮阴侯列传》",
+      "story": {
+        "en": "The poor Han Xin was fed by a washerwoman for days; once he became Prince of Chu he found her and gave her a thousand in gold.",
+        "zh": "韩信贫时受漂母饭食，后封楚王，“赐漂母千金”。"
+      }
+    },
+    "usage": {
+      "en": "Praise; points to Han Xin's story. Often used about gratitude rather than extravagance.",
+      "zh": "褒义，典出韩信；多指知恩图报，而非挥霍。"
+    },
+    "synonyms": [
+      "涌泉相报",
+      "感恩戴德"
+    ],
+    "antonyms": [
+      "恩将仇报",
+      "忘恩负义"
+    ]
+  },
+  {
+    "id": "guo-shi-wu-shuang",
+    "text": "国士无双",
+    "pinyin": "guó shì wú shuāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "historical-records",
+      "outstanding-character"
+    ],
+    "literal": "national · scholar · without · pair",
+    "natural": "a talent unmatched in the land",
+    "meaning": {
+      "en": "A person of talent with no equal in the country.",
+      "zh": "国内独一无二的杰出人才。"
+    },
+    "equivalents": [
+      "a peerless talent",
+      "unrivalled in the nation"
+    ],
+    "examples": [
+      {
+        "zh": "在科学界，他堪称国士无双。",
+        "en": "In science he is a peerless talent."
+      },
+      {
+        "zh": "当年人们称赞他国士无双。",
+        "en": "In his day people praised him as unmatched in the land."
+      },
+      {
+        "zh": "她的才华国士无双，无人能比。",
+        "en": "Her talent is unrivalled in the nation."
+      }
+    ],
+    "origin": {
+      "source": "《史记·淮阴侯列传》",
+      "story": {
+        "en": "Xiao He urged Liu Bang to keep Han Xin, saying generals are easy to find but a talent like Han Xin is unmatched in the whole land.",
+        "zh": "萧何对刘邦说：“诸将易得耳；至如信者，国士无双。”"
+      }
+    },
+    "usage": {
+      "en": "Strong praise; refers to Han Xin, as recommended by Xiao He. Used for outstanding talent, not for warfare only.",
+      "zh": "高度赞美，典出萧何称赞韩信；泛指杰出人才，不限于军事。"
+    },
+    "synonyms": [
+      "才高八斗",
+      "盖世无双"
+    ],
+    "antonyms": [
+      "碌碌无为"
+    ]
+  },
+  {
+    "id": "lao-niu-shi-du",
+    "text": "老牛舐犊",
+    "pinyin": "lǎo niú shì dú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "舐犊情深",
+      "舐犊之爱"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "three-kingdoms",
+      "historical-records"
+    ],
+    "literal": "old · ox · lick · calf",
+    "natural": "an old ox licking its calf",
+    "meaning": {
+      "en": "Parental love, as an old ox lovingly licks its calf.",
+      "zh": "老牛舔小牛；比喻父母疼爱子女。"
+    },
+    "equivalents": [
+      "a parent's tender love",
+      "doting on one's child"
+    ],
+    "examples": [
+      {
+        "zh": "看到女儿远行，他老牛舐犊般地叮嘱个不停。",
+        "en": "Seeing his daughter off, he kept fussing over her with a parent's love."
+      },
+      {
+        "zh": "父亲对孩子的爱，就像老牛舐犊。",
+        "en": "A father's love for his child is like an old ox for its calf."
+      },
+      {
+        "zh": "老牛舐犊的深情，孩子往往到长大才明白。",
+        "en": "Children often only understand a parent's deep love when they are grown."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·杨彪传》",
+      "story": {
+        "en": "Cao Cao had Yang Xiu killed and, seeing Yang Xiu's father Yang Biao grown thin, asked why; Yang Biao answered that he felt shame at lacking foresight, and was like an old ox with its love for a calf.",
+        "zh": "杨彪答曹操：“愧无日磾先见之明，犹怀老牛舐犊之爱。”"
+      }
+    },
+    "usage": {
+      "en": "Warm; describes parent love, mostly of fathers and mothers in later life. The variants 舐犊情深 and 舐犊之爱 are also used. 舐 is shì.",
+      "zh": "温馨褒义，形容父母对子女的爱；变体“舐犊情深”“舐犊之爱”也常用。“舐”读 shì。"
+    },
+    "synonyms": [
+      "爱子心切"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shu-quan-fei-ri",
+    "text": "蜀犬吠日",
+    "pinyin": "shǔ quǎn fèi rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "foolishness-and-ignorance",
+      "poems-prose"
+    ],
+    "literal": "Shu · dogs · bark · sun",
+    "natural": "Sichuan dogs barking at the sun",
+    "meaning": {
+      "en": "To be astonished by what is ordinary because one has seen little of the world.",
+      "zh": "四川的狗见到太阳就叫；比喻少见多怪。"
+    },
+    "equivalents": [
+      "be amazed by the commonplace",
+      "narrow-minded wonder"
+    ],
+    "examples": [
+      {
+        "zh": "没见过高铁就大惊小怪，简直是蜀犬吠日。",
+        "en": "Marvelling at the high-speed train as if it were a miracle is like the dogs of Shu barking at the sun."
+      },
+      {
+        "zh": "别蜀犬吠日了，这只是常见技术。",
+        "en": "Don't make a fuss; this is a common technology."
+      },
+      {
+        "zh": "他对新事物的惊讶，让人想到蜀犬吠日。",
+        "en": "His surprise at new things brings to mind Sichuan dogs barking at the sun."
+      }
+    ],
+    "origin": {
+      "source": "柳宗元《答韦中立论师道书》",
+      "story": {
+        "en": "Liu Zongyuan writes that in Shu the hills are high and mist heavy, the sun seldom seen, so when it comes out the dogs bark at it.",
+        "zh": "柳宗元《答韦中立论师道书》：“蜀中山高雾重，见日时稀，每至日出，则群犬吠之。”"
+      }
+    },
+    "usage": {
+      "en": "Mocking; 蜀 = Sichuan. Close to 少见多怪 but more literary. Predicate or object.",
+      "zh": "带嘲讽；“蜀”指四川。与“少见多怪”近，但更书面。作谓语、宾语。"
+    },
+    "synonyms": [
+      "少见多怪",
+      "孤陋寡闻"
+    ],
+    "antonyms": [
+      "见多识广"
+    ]
+  },
+  {
+    "id": "lu-yu-hai-shi",
+    "text": "鲁鱼亥豕",
+    "pinyin": "lǔ yú hài shǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "亥豕鲁鱼"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "mistakes-and-correction"
+    ],
+    "literal": "Lu · fish · Hai · pig",
+    "natural": "mistaking 鲁 for 鱼 and 亥 for 豕",
+    "meaning": {
+      "en": "Errors in copying or printing texts, from characters that look alike.",
+      "zh": "把“鲁”写成“鱼”，把“亥”写成“豕”；指书籍在传抄、刊印中的文字错误。"
+    },
+    "equivalents": [
+      "scribal errors",
+      "textual miscopying"
+    ],
+    "examples": [
+      {
+        "zh": "古籍传抄多次，难免鲁鱼亥豕。",
+        "en": "After many copyings of ancient texts, errors are inevitable."
+      },
+      {
+        "zh": "校对要仔细，以免出现鲁鱼亥豕之误。",
+        "en": "Proofread carefully to avoid typos and misprints."
+      },
+      {
+        "zh": "这个版本鲁鱼亥豕不少，不宜引用。",
+        "en": "This edition has many copying errors and shouldn't be cited."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·察传》；《抱朴子·遐览》",
+      "story": {
+        "en": "In the Lüshi Chunqiu, 'Ji Hai crossed the river' was miscopied as 'three pigs crossed the river'; the Baopuzi says that after three copyings, 'Lu' becomes 'fish'.",
+        "zh": "《吕氏春秋·察传》：“己亥涉河”误成“三豕涉河”；《抱朴子》：“书三写，鲁成鱼，虚成虎。”"
+      }
+    },
+    "usage": {
+      "en": "Literary, used of textual editing and proofreading. Also written 亥豕鲁鱼. 亥 is hài ('boar' in the zodiac), 豕 shǐ ('pig').",
+      "zh": "书面语，用于校勘、校对。也作“亥豕鲁鱼”。“亥”读 hài，“豕”读 shǐ。"
+    },
+    "synonyms": [
+      "三豕渡河"
+    ],
+    "antonyms": []
+  }
+]
