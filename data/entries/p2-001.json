@@ -262,7 +262,8 @@
     "register": "formal",
     "themes": [
       "speech",
-      "news-and-officialese"
+      "news-and-officialese",
+      "exam-favourites"
     ],
     "literal": "everyone · (that which) · widely · know",
     "natural": "as everyone knows",
@@ -405,7 +406,8 @@
     "register": "neutral",
     "themes": [
       "numbers",
-      "change"
+      "change",
+      "exam-favourites"
     ],
     "literal": "layer · appear · not · exhausted",
     "natural": "keep popping up",
@@ -511,7 +513,8 @@
     "themes": [
       "time",
       "efficiency",
-      "confucian-classics"
+      "confucian-classics",
+      "often-misused"
     ],
     "literal": "current · task · 's · urgency",
     "natural": "the most pressing task",
@@ -1067,7 +1070,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "exact-vs-approximate"
+      "exact-vs-approximate",
+      "exam-favourites"
     ],
     "literal": "not · discount · not · deduct",
     "natural": "a hundred per cent",

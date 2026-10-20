@@ -63,6 +63,9 @@ MANUAL = {
     "weather-and-sky": ["万里无云", "风和日丽", "倾盆大雨", "大雨滂沱", "暴风骤雨", "狂风暴雨", "风雨交加", "雷电交加", "晴空万里", "阴雨连绵", "烈日炎炎", "天寒地冻", "冰天雪地", "白雪皑皑", "雨过天晴", "风雪交加", "秋高气爽"],
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
+# Exam-list membership (高考/中考 study lists): data/source/exam_lists.json, matched on headword or variant.
+EXAM = {lab: set(texts) for lab, texts in json.load(open("data/source/exam_lists.json", encoding="utf-8")).items()}
+
 # Never auto-add these (checked by hand: the keyword match is misleading).
 EXCLUDE = {("塞翁失马", "festive-greetings"), ("时光飞逝", "festive-greetings"), ("锣鼓喧天", "festive-greetings"), ("叶公好龙", "myths-legends")}
 
@@ -77,6 +80,8 @@ for f in sorted(glob.glob("data/entries/*.json")):
         want = [lab for lab, rx in SOURCE_RULES.items() if src and re.search(rx, src)]
         want += [lab for lab, rx in USAGE_RULES.items() if re.search(rx, use)]
         want += [lab for lab, texts in MANUAL.items() if e["text"] in texts]
+        forms = {e["text"], *e.get("variants", [])}
+        want += [lab for lab, texts in EXAM.items() if forms & texts]
         if e["text"] in MYTH_TEXTS:
             want.append("myths-legends")
         for lab in want:

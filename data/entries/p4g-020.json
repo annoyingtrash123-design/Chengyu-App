@@ -1,0 +1,365 @@
+[
+  {
+    "id": "xian-tian-bu-zu-hou-tian-shi-tiao",
+    "text": "先天不足，后天失调",
+    "pinyin": "xiān tiān bù zú, hòu tiān shī tiáo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "illness-and-disease"
+    ],
+    "literal": "innate · insufficient, acquired · out of balance",
+    "natural": "weak from birth and neglected after",
+    "meaning": {
+      "en": "Weak in constitution from birth and not well cared for afterwards; also, a project flawed from the start and badly managed later.",
+      "zh": "先天体质不好，后天又调养不当；也比喻事物起点不好，后来也没管好。"
+    },
+    "equivalents": [
+      "flawed from the start and mismanaged since",
+      "born weak and badly looked after"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子先天不足，后天失调，身体一直很弱。",
+        "en": "The child was frail from birth and poorly cared for, and has always been weak."
+      },
+      {
+        "zh": "这家公司先天不足，后天失调，很难做大。",
+        "en": "The company was flawed from the start and ill-managed since, so it can hardly grow."
+      }
+    ],
+    "usage": {
+      "en": "A traditional Chinese medicine phrase (先天 = what one inherits; 后天 = care after birth), also used figuratively for organisations and projects.",
+      "zh": "原为中医用语，“先天”指禀赋，“后天”指出生后的调养，也比喻事物。"
+    },
+    "synonyms": [
+      "体弱多病",
+      "病入膏肓"
+    ],
+    "antonyms": [
+      "身强力壮",
+      "健康长寿"
+    ]
+  },
+  {
+    "id": "ba-gen-han-mao-bi-yao-cu",
+    "text": "拔根汗毛比腰粗",
+    "pinyin": "bá gēn hàn máo bǐ yāo cū",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "poverty-and-hardship"
+    ],
+    "literal": "pull · a · body hair · than · waist · thick",
+    "natural": "even his small change beats my fortune",
+    "meaning": {
+      "en": "Even a rich person's little finger is thicker than a poor person's waist: the well-off have more than the poor even when they have little left.",
+      "zh": "比喻富人再衰败，拔一根汗毛也比穷人的腰粗。"
+    },
+    "equivalents": [
+      "even the rich man's small change outweighs a poor man's wealth",
+      "a rich man's loose change beats a poor man's savings"
+    ],
+    "examples": [
+      {
+        "zh": "人家拔根汗毛比腰粗，哪是我们比得了的？",
+        "en": "His body hair is thicker than my waist; how could we compare?"
+      },
+      {
+        "zh": "别看他家败落了，拔根汗毛比腰粗啊。",
+        "en": "He's fallen on hard times, but his leftovers still outweigh our all."
+      }
+    ],
+    "usage": {
+      "en": "Full saying is 瘦死的骆驼比马大，拔根汗毛比腰粗: a gaunt camel is still bigger than a horse. Used of wealthy families gone down in the world.",
+      "zh": "常与“瘦死的骆驼比马大”连用，指败落的富人仍比穷人强。"
+    },
+    "synonyms": [
+      "瘦死的骆驼比马大"
+    ],
+    "antonyms": [
+      "一贫如洗",
+      "穷困潦倒"
+    ]
+  },
+  {
+    "id": "zhi-zhe-he-shang-ma-tu-zi",
+    "text": "指着和尚骂秃子",
+    "pinyin": "zhǐ zhe hé shàng mà tū zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "conflict-and-strife"
+    ],
+    "literal": "point · at · monk · scold · bald-head",
+    "natural": "hit at someone by insulting their feature",
+    "meaning": {
+      "en": "To insult someone indirectly by pointedly attacking something they obviously share.",
+      "zh": "借骂别的东西，暗中攻击眼前的人。"
+    },
+    "equivalents": [
+      "slander someone by implication",
+      "swear at a monk for being bald"
+    ],
+    "examples": [
+      {
+        "zh": "你这是指着和尚骂秃子，谁听不出来？",
+        "en": "You're swearing at the monk for his bald head; who can't tell?"
+      },
+      {
+        "zh": "他明着说别人，其实是指着和尚骂秃子。",
+        "en": "He talks of others but is really taking a dig at the person in front."
+      }
+    ],
+    "usage": {
+      "en": "The monk's shaved head is the obvious target. Often a response to veiled sarcasm; variant forms with 秃驴 are ruder.",
+      "zh": "和尚剃光头，一眼可见。常用来回应含沙射影的讽刺。"
+    },
+    "synonyms": [
+      "含沙射影",
+      "指桑骂槐"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "开诚布公"
+    ]
+  },
+  {
+    "id": "you-xiang-dang-biao-zi-you-xiang-li-pai-fang",
+    "text": "又想当婊子又想立牌坊",
+    "pinyin": "yòu xiǎng dāng biǎo zi yòu xiǎng lì pái fāng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [
+      "既要当婊子又要立牌坊"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws"
+    ],
+    "literal": "both · want · be · whore · and · want · set up · memorial arch",
+    "natural": "want it both ways",
+    "meaning": {
+      "en": "To want the profit of doing something dishonourable while keeping a respectable reputation.",
+      "zh": "既想做不光彩的事得好处，又想保住好名声。"
+    },
+    "equivalents": [
+      "have it both ways",
+      "want to eat one's cake and keep up appearances"
+    ],
+    "examples": [
+      {
+        "zh": "他又想当婊子又想立牌坊，真让人恶心。",
+        "en": "He wants the gains of dishonesty and the reputation for virtue, which is disgusting."
+      },
+      {
+        "zh": "他贪污受贿还想装清官，简直又想当婊子又想立牌坊。",
+        "en": "He takes bribes yet wants to pose as an honest official: wanting it both ways."
+      }
+    ],
+    "usage": {
+      "en": "Crude and very insulting. The 牌坊 is a memorial archway honouring a chaste widow, so the image is of selling oneself while seeking to be honoured as virtuous. Use with caution.",
+      "zh": "口语粗俗，攻击性强。“牌坊”指旌表贞节的牌坊，比喻既作恶又要名誉。使用须谨慎。"
+    },
+    "synonyms": [
+      "表里不一",
+      "沽名钓誉"
+    ],
+    "antonyms": [
+      "表里如一",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "chi-shi-dou-gan-bu-shang-re-hu-de",
+    "text": "吃屎都赶不上热乎的",
+    "pinyin": "chī shǐ dōu gǎn bù shàng rè hū de",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-timing",
+      "bad-fortune",
+      "polite-humble"
+    ],
+    "literal": "eat · dung · even · can't · catch · warm · one",
+    "natural": "always too late",
+    "meaning": {
+      "en": "Always arriving too late to get the best of anything, even the dregs while still fresh.",
+      "zh": "总是慢一步，连最差的也赶不上新鲜的。"
+    },
+    "equivalents": [
+      "always a day late and a dollar short",
+      "always last in the queue"
+    ],
+    "examples": [
+      {
+        "zh": "我总是吃屎都赶不上热乎的，机会都被别人抢光了。",
+        "en": "I'm always too late; even the leavings have been taken before I arrive."
+      },
+      {
+        "zh": "买房也是吃屎都赶不上热乎的，涨价了才想买。",
+        "en": "Buying a flat is the same: I only wanted in once prices had gone up."
+      }
+    ],
+    "usage": {
+      "en": "Crude self-deprecating slang, northern in flavour; usually said by the speaker about themselves. Handle with care in polite company.",
+      "zh": "粗俗的自嘲俗语，多是自称，慎用于正式场合。"
+    },
+    "synonyms": [
+      "慢人一步",
+      "后知后觉"
+    ],
+    "antonyms": [
+      "先发制人",
+      "捷足先登"
+    ]
+  },
+  {
+    "id": "kan-tou-bu-guo-feng-chui-mao",
+    "text": "砍头不过风吹帽",
+    "pinyin": "kǎn tóu bù guò fēng chuī mào",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "fear-and-cowardice",
+      "high-aspirations"
+    ],
+    "literal": "chop · head · no · more · than · wind · blow · hat",
+    "natural": "death is nothing",
+    "meaning": {
+      "en": "Even losing one's head is no more than a hat blown off by the wind: unafraid of death or consequences.",
+      "zh": "连砍头都像风吹掉帽子一样不算什么，形容毫不畏惧。"
+    },
+    "equivalents": [
+      "unafraid to lose one's head",
+      "death holds no fear"
+    ],
+    "examples": [
+      {
+        "zh": "他说砍头不过风吹帽，什么也不怕。",
+        "en": "He said losing his head is no more than a gust blowing off his hat, and he feared nothing."
+      },
+      {
+        "zh": "砍头不过风吹帽，我就是要说真话。",
+        "en": "Death is just a hat blown off by the wind; I will speak the truth."
+      }
+    ],
+    "usage": {
+      "en": "A bold, humorous expression of fearlessness, often used with a laugh in the face of risk. Also used mockingly of reckless people.",
+      "zh": "豪迈而带幽默，也可讽刺鲁莽的人。"
+    },
+    "synonyms": [
+      "视死如归",
+      "大无畏"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "胆小如鼠"
+    ]
+  },
+  {
+    "id": "jin-wu-xi-zhui-yu-tu-dong-sheng",
+    "text": "金乌西坠，玉兔东升",
+    "pinyin": "jīn wū xī zhuì, yù tù dōng shēng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daily-time-periods",
+      "myths-legends"
+    ],
+    "literal": "golden · crow · west · sink, jade · hare · east · rise",
+    "natural": "the sun sets and the moon rises",
+    "meaning": {
+      "en": "The sun goes down and the moon comes up: dusk turning to night.",
+      "zh": "太阳落下，月亮升起，指傍晚入夜。"
+    },
+    "equivalents": [
+      "the sun sinks and the moon rises",
+      "day gives way to night"
+    ],
+    "examples": [
+      {
+        "zh": "金乌西坠，玉兔东升，夜幕渐渐降临。",
+        "en": "The sun sinks and the moon rises; night slowly falls."
+      },
+      {
+        "zh": "文章写到金乌西坠，玉兔东升，天色已晚。",
+        "en": "The text says the sun has set and the moon is up, and it is late."
+      }
+    ],
+    "usage": {
+      "en": "In myth the sun holds a three-legged golden crow (金乌) and the moon a jade hare (玉兔). A poetic, literary way of describing dusk in old novels.",
+      "zh": "神话中太阳里有三足金乌，月亮里有玉兔。是古典小说中常见的文雅说法。"
+    },
+    "synonyms": [
+      "日落月升",
+      "月上柳梢"
+    ],
+    "antonyms": [
+      "旭日东升",
+      "日出东方"
+    ]
+  },
+  {
+    "id": "chang-liu-shui-bu-duan-xian",
+    "text": "长流水，不断线",
+    "pinyin": "cháng liú shuǐ, bù duàn xiàn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "efficiency",
+      "contentment-and-simplicity"
+    ],
+    "literal": "long · flowing · water, not · break · thread",
+    "natural": "steady and continuous",
+    "meaning": {
+      "en": "Keep going steadily and continuously, like a stream that never dries up or a thread that never breaks.",
+      "zh": "像流水不断、线不断头一样，长久持续。"
+    },
+    "equivalents": [
+      "slow and steady",
+      "a steady flow that never stops"
+    ],
+    "examples": [
+      {
+        "zh": "小生意就要长流水，不断线。",
+        "en": "A small business needs a steady, unbroken flow."
+      },
+      {
+        "zh": "学习贵在长流水，不断线。",
+        "en": "Study is about keeping at it steadily and never breaking off."
+      }
+    ],
+    "usage": {
+      "en": "Praises steady persistence over bursts of effort. Often said of small, regular earnings or friendship. Also 细水长流 in a similar sense.",
+      "zh": "强调细水长流、持之以恒，常用于小本生意或交情。"
+    },
+    "synonyms": [
+      "细水长流",
+      "持之以恒"
+    ],
+    "antonyms": [
+      "三天打鱼，两天晒网",
+      "一曝十寒"
+    ]
+  }
+]

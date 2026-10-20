@@ -61,7 +61,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "exam-favourites"
     ],
     "literal": "small · topic · big · treat",
     "natural": "make a mountain out of a molehill",
@@ -160,7 +161,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "often-misused"
     ],
     "literal": "not · deign · one · glance",
     "natural": "not deign to look at",
@@ -990,7 +992,8 @@
     "register": "neutral",
     "themes": [
       "poor-speech-and-silence",
-      "confusion"
+      "confusion",
+      "exam-favourites"
     ],
     "literal": "words · without · order · sequence",
     "natural": "incoherent",
@@ -1043,7 +1046,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "danger"
+      "danger",
+      "exam-favourites"
     ],
     "literal": "arrow · on · string · above",
     "natural": "past the point of no return",
@@ -1137,7 +1141,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "exam-favourites"
     ],
     "literal": "place · oneself · matter · outside",
     "natural": "stay out of it",
@@ -1192,7 +1197,8 @@
     "themes": [
       "positive-character-qualities",
       "three-kingdoms",
-      "essay-favourites"
+      "essay-favourites",
+      "often-misused"
     ],
     "literal": "bow · body · exhaust · strength",
     "natural": "give one's all",

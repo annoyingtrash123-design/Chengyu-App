@@ -53,7 +53,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "often-misused"
     ],
     "literal": "loud · guest · seize · host",
     "natural": "the guest outshines the host",
@@ -237,7 +238,8 @@
     "register": "neutral",
     "themes": [
       "poor-speech-and-silence",
-      "confusion"
+      "confusion",
+      "often-misused"
     ],
     "literal": "not · know · what · is said",
     "natural": "not know what is being said",
@@ -606,7 +608,8 @@
     "register": "neutral",
     "themes": [
       "useful-tools-and-skill",
-      "adaptability"
+      "adaptability",
+      "often-misused"
     ],
     "literal": "long · sleeves · good at · dance",
     "natural": "long sleeves make for good dancing",

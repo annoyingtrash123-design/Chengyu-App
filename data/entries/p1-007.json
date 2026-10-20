@@ -9,7 +9,8 @@
     "register": "neutral",
     "themes": [
       "body",
-      "confusion-and-doubt"
+      "confusion-and-doubt",
+      "exam-favourites"
     ],
     "literal": "eyes · stare · mouth · dumbstruck",
     "natural": "Eyes staring, mouth agape",
@@ -58,7 +59,8 @@
     "register": "neutral",
     "themes": [
       "small-numbers",
-      "numbers"
+      "numbers",
+      "exam-favourites"
     ],
     "literal": "three · three · two · two",
     "natural": "In threes and twos",
@@ -467,7 +469,8 @@
     "register": "neutral",
     "themes": [
       "unprecedented-situations",
-      "small-numbers"
+      "small-numbers",
+      "exam-favourites"
     ],
     "literal": "utterly · none · only · have",
     "natural": "Almost none, the only one",
@@ -622,7 +625,8 @@
     "register": "neutral",
     "themes": [
       "structural-problems",
-      "danger"
+      "danger",
+      "exam-favourites"
     ],
     "literal": "sway · sway · about to · fall",
     "natural": "Swaying, about to fall",
@@ -669,7 +673,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "speech"
+      "speech",
+      "exam-favourites"
     ],
     "literal": "surging · surging · not · cease",
     "natural": "Flowing on and on like a torrent",
@@ -718,7 +723,8 @@
     "register": "neutral",
     "themes": [
       "relative-measurements",
-      "exact-vs-approximate"
+      "exact-vs-approximate",
+      "exam-favourites"
     ],
     "literal": "mutually · differ · not have · much",
     "natural": "Hardly any difference between them",
@@ -770,7 +776,8 @@
     "themes": [
       "change",
       "near-misses-and-setbacks",
-      "daoist-classics"
+      "daoist-classics",
+      "exam-favourites"
     ],
     "literal": "every · situation · more · down",
     "natural": "Each time, worse than the last",
@@ -876,7 +883,8 @@
     "themes": [
       "outstanding-success-and-fame",
       "excellent-writing",
-      "confucian-classics"
+      "confucian-classics",
+      "often-misused"
     ],
     "literal": "minced meat · roast meat · people · mouth",
     "natural": "As loved as fine minced and roast meat",
@@ -1173,7 +1181,8 @@
     "themes": [
       "danger",
       "structural-problems",
-      "confucian-classics"
+      "confucian-classics",
+      "exam-favourites"
     ],
     "literal": "perilous · perilous · can · danger",
     "natural": "Perilously close to falling",

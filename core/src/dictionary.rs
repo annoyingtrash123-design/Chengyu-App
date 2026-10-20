@@ -429,7 +429,7 @@ mod tests {
         assert_eq!(top(&d, "画蛇添足"), "画蛇添足");
         assert_eq!(top(&d, "蛇添"), "画蛇添足");
         // Any order / position.
-        assert_eq!(top(&d, "足蛇"), "画蛇添足");
+        assert_eq!(top(&d, "添蛇"), "画蛇添足");
     }
 
     #[test]

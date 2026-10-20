@@ -8,7 +8,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "verbosity"
+      "verbosity",
+      "often-misused"
     ],
     "literal": "chatter · chatter · not · stop",
     "natural": "talk non-stop",
@@ -596,7 +597,8 @@
     "register": "neutral",
     "themes": [
       "distracted-attention",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "exam-favourites"
     ],
     "literal": "stuff · ears · not · hear",
     "natural": "turn a deaf ear",
@@ -993,7 +995,8 @@
     "register": "formal",
     "themes": [
       "inappropriate-behavior",
-      "confucian-classics"
+      "confucian-classics",
+      "often-misused"
     ],
     "literal": "nothing · that · not · use · its · utmost",
     "natural": "stop at nothing",
