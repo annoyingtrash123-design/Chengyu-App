@@ -1,0 +1,884 @@
+[
+  {
+    "id": "bao-shi-zhong-ri-wu-suo-yong-xin",
+    "text": "饱食终日，无所用心",
+    "pinyin": "bǎo shí zhōng rì, wú suǒ yòng xīn",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "laziness-and-giving-up",
+      "negative-character-flaws",
+      "essay-favourites"
+    ],
+    "literal": "full · eat · whole · day, no · place · use · mind",
+    "natural": "Eating one's fill all day and putting one's mind to nothing",
+    "meaning": {
+      "en": "Describes someone idle who lives aimlessly; a criticism of laziness.",
+      "zh": "整天吃饱了饭，什么事也不用心，形容无所事事、游手好闲。"
+    },
+    "equivalents": [
+      "idle away one's days",
+      "lead an aimless life"
+    ],
+    "examples": [
+      {
+        "zh": "他毕业后“饱食终日，无所用心”，一事无成。",
+        "en": "After graduating he idled about with no purpose and achieved nothing."
+      },
+      {
+        "zh": "孔子批评“饱食终日，无所用心”的人很难有出息。",
+        "en": "Confucius criticised idlers as unlikely to amount to anything."
+      }
+    ],
+    "origin": {
+      "source": "《论语·阳货》",
+      "story": {
+        "en": "Confucius says: 'To eat your fill all day and put your mind to nothing is hard indeed! Are there not games like chess? Even playing them is better than doing nothing.'",
+        "zh": "孔子说：“饱食终日，无所用心，难矣哉！不有博弈者乎？为之犹贤乎已。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [
+      "无所事事",
+      "游手好闲"
+    ],
+    "antonyms": [
+      "废寝忘食"
+    ]
+  },
+  {
+    "id": "yun-chou-wei-wo-zhi-zhong",
+    "text": "运筹帷幄之中，决胜千里之外",
+    "pinyin": "yùn chóu wéi wò zhī zhōng, jué shèng qiān lǐ zhī wài",
+    "kind": "mingju",
+    "frequency": 2,
+    "variants": [
+      "运筹策帷帐之中，决胜于千里之外"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "historical-records",
+      "leadership-and-authority",
+      "essay-favourites"
+    ],
+    "literal": "plan · tent · curtains · of · within, decide · victory · thousand · li · of · outside",
+    "natural": "Plan strategy within the command tent and decide victory a thousand li away",
+    "meaning": {
+      "en": "A skilled strategist can direct a distant campaign from behind the lines.",
+      "zh": "在帐幕中谋划策略，就能决定千里之外战场的胜负，形容善于指挥、深谋远虑。"
+    },
+    "equivalents": [
+      "direct the battle from afar",
+      "plan the campaign from headquarters"
+    ],
+    "examples": [
+      {
+        "zh": "总指挥在指挥部里“运筹帷幄之中，决胜千里之外”。",
+        "en": "The commander directed the operation from the control room."
+      },
+      {
+        "zh": "项目经理善于“运筹帷幄之中，决胜千里之外”，团队按他的计划稳步推进。",
+        "en": "The project manager plans carefully and the team moves steadily along his plan."
+      }
+    ],
+    "origin": {
+      "source": "《史记·高祖本纪》",
+      "story": {
+        "en": "Liu Bang, the first Han emperor, credited his victory to three men: 'in planning strategy in the command tent and winning victories a thousand li away I am not equal to Zhang Liang'. The original reads 夫运筹策帷帐之中，决胜于千里之外.",
+        "zh": "刘邦总结得天下之因，称“夫运筹策帷帐之中，决胜于千里之外，吾不如子房”。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "料事如神",
+      "足智多谋"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-ze-yi-xi-yi-ze-yi-you",
+    "text": "一则以喜，一则以忧",
+    "pinyin": "yī zé yǐ xǐ, yī zé yǐ yōu",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "一则以喜，一则以惧"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "filial-piety",
+      "parenting-and-family",
+      "complex-emotional-states"
+    ],
+    "literal": "one · side · be glad, one · side · be anxious",
+    "natural": "On the one hand it brings joy, on the other worry",
+    "meaning": {
+      "en": "Mixed feelings: pleased at one aspect and anxious about another; originally about a parent's age.",
+      "zh": "既高兴又担忧；原指为父母的高寿而喜、又为其年迈而忧。"
+    },
+    "equivalents": [
+      "mixed feelings",
+      "both glad and worried"
+    ],
+    "examples": [
+      {
+        "zh": "孩子考上了外地大学，妈妈“一则以喜，一则以忧”。",
+        "en": "Her child got into a university in another city and the mother felt both glad and worried."
+      },
+      {
+        "zh": "得知父亲八十大寿，他“一则以喜，一则以忧”。",
+        "en": "On his father's eightieth birthday he felt joy tinged with worry."
+      }
+    ],
+    "origin": {
+      "source": "《论语·里仁》",
+      "story": {
+        "en": "Confucius said: 'A child must know the age of his parents: on the one hand it is a joy, on the other a cause for worry.'",
+        "zh": "孔子说：“父母之年，不可不知也。一则以喜，一则以惧。”（后世多作“一则以忧”）"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [
+      "喜忧参半"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-zhi-bao-yuan-yi-de-bao-de",
+    "text": "以直报怨，以德报德",
+    "pinyin": "yǐ zhí bào yuàn, yǐ dé bào dé",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "fairness-and-impartiality",
+      "revenge-and-retribution",
+      "essay-favourites"
+    ],
+    "literal": "with · justice · repay · grievance, with · kindness · repay · kindness",
+    "natural": "Repay a grievance with fairness, and repay kindness with kindness",
+    "meaning": {
+      "en": "Treat injury justly rather than with spite, and return kindness in full.",
+      "zh": "对怨恨以公正态度回应，对恩惠以恩惠回报。"
+    },
+    "equivalents": [
+      "be just to your enemies and kind to your benefactors"
+    ],
+    "examples": [
+      {
+        "zh": "他被同事误会后没有记恨，而是“以直报怨，以德报德”。",
+        "en": "After a misunderstanding with a colleague he held no grudge but repaid it with fairness."
+      },
+      {
+        "zh": "孔子主张“以直报怨，以德报德”，而非无原则的宽容。",
+        "en": "Confucius advocated this rather than unprincipled forgiveness."
+      }
+    ],
+    "origin": {
+      "source": "《论语·宪问》",
+      "story": {
+        "en": "When someone asked 'What of repaying injury with kindness?', Confucius replied: 'Then what do you repay kindness with? Repay injury with justice, and kindness with kindness.'",
+        "zh": "有人问“以德报怨，何如？”孔子答：“何以报德？以直报怨，以德报德。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "以怨报德"
+    ]
+  },
+  {
+    "id": "qian-che-zhi-fu-hou-che-zhi-jian",
+    "text": "前车之覆，后车之鉴",
+    "pinyin": "qián chē zhī fù, hòu chē zhī jiàn",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "前车覆，后车诫"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "wisdom",
+      "mistakes-and-correction",
+      "experience-and-old-age",
+      "essay-favourites",
+      "historical-records"
+    ],
+    "literal": "front · cart · of · overturn, rear · cart · of · mirror",
+    "natural": "The overturning of the cart ahead is a warning for the cart behind",
+    "meaning": {
+      "en": "Learn from others' failures to avoid the same mistake.",
+      "zh": "前面车子翻倒的教训，可以给后面的车子作借鉴；比喻吸取前人失败的教训。"
+    },
+    "equivalents": [
+      "learn from others' mistakes",
+      "once bitten, twice shy"
+    ],
+    "examples": [
+      {
+        "zh": "这起事故是“前车之覆，后车之鉴”，大家要引以为戒。",
+        "en": "This accident is a lesson to learn from; we should all take it to heart."
+      },
+      {
+        "zh": "读史可以知兴替，“前车之覆，后车之鉴”。",
+        "en": "Reading history helps us understand rise and fall: learn from the failures of the past."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·贾谊传》",
+      "story": {
+        "en": "Jia Yi quotes the folk saying 'the cart ahead overturns, the cart behind takes warning' (前车覆，后车诫) in his memorial to Emperor Wen of Han, on learning from the fall of the Qin; the form with 鉴 is later.",
+        "zh": "贾谊上书汉文帝，引鄙谚“前车覆，后车诫”，劝诫汉朝以秦亡为鉴；“后车之鉴”为后起说法。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "前车之鉴",
+      "吸取教训"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "da-yong-ruo-qie-da-zhi-ruo-yu",
+    "text": "大勇若怯，大智若愚",
+    "pinyin": "dà yǒng ruò qiè, dà zhì ruò yú",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "大勇若怯，大智如愚"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "attitude-humble-vs-arrogant",
+      "mental-clarity",
+      "essay-favourites",
+      "poems-prose"
+    ],
+    "literal": "great · courage · seems · timid, great · wisdom · seems · foolish",
+    "natural": "The truly brave seem timid, and the truly wise seem foolish",
+    "meaning": {
+      "en": "Genuinely capable people do not show off and may appear modest or even dull.",
+      "zh": "真正勇敢的人看上去怯懦，真正智慧的人看上去愚笨，不炫耀才能。"
+    },
+    "equivalents": [
+      "still waters run deep",
+      "the wise man hides his wisdom"
+    ],
+    "examples": [
+      {
+        "zh": "他平时不爱说话，却“大勇若怯，大智若愚”，关键时刻总能拿主意。",
+        "en": "He rarely speaks but is wise beyond appearances and always decides well at crucial moments."
+      },
+      {
+        "zh": "老教授“大勇若怯，大智若愚”，从不夸耀自己的成就。",
+        "en": "The old professor never boasts of his achievements."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《贺欧阳少师致仕启》",
+      "story": {
+        "en": "Su Shi's congratulatory letter to Ouyang Xiu on his retirement reads 大勇若怯，大智如愚; the form with 若愚 became the standard. (Compare Laozi: 大巧若拙.)",
+        "zh": "苏轼《贺欧阳少师致仕启》原作“大勇若怯，大智如愚”；后世常作“若愚”。（参《老子》“大巧若拙”）"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "大智若愚",
+      "大巧若拙"
+    ],
+    "antonyms": [
+      "锋芒毕露"
+    ]
+  },
+  {
+    "id": "hao-xue-jin-hu-zhi-li",
+    "text": "好学近乎知，力行近乎仁，知耻近乎勇",
+    "pinyin": "hào xué jìn hū zhì, lì xíng jìn hū rén, zhī chǐ jìn hū yǒng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "apprenticeship-and-learning",
+      "positive-character-qualities",
+      "essay-favourites"
+    ],
+    "literal": "love · learning · near · wisdom, strive · to act · near · humaneness, know · shame · near · courage",
+    "natural": "Love of learning is close to wisdom, earnest practice is close to humaneness, and a sense of shame is close to courage",
+    "meaning": {
+      "en": "Three roads to the three virtues: study, practice and a sense of shame.",
+      "zh": "爱学习接近智慧，努力实践接近仁爱，知道羞耻接近勇敢。"
+    },
+    "equivalents": [
+      "learning, doing and a sense of shame lead to virtue"
+    ],
+    "examples": [
+      {
+        "zh": "校长把“好学近乎知，力行近乎仁，知耻近乎勇”刻在校门口的石碑上。",
+        "en": "The principal had this line engraved on the stone at the school gate."
+      },
+      {
+        "zh": "“好学近乎知，力行近乎仁，知耻近乎勇”，他以此教导学生。",
+        "en": "He teaches students with this line."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·中庸》",
+      "story": {
+        "en": "In the Doctrine of the Mean, Confucius answers how to get the three virtues of wisdom, humaneness and courage: by love of learning, earnest practice and a sense of shame.",
+        "zh": "《礼记·中庸》：孔子论智、仁、勇三达德，指出好学、力行、知耻是通往三德的途径。"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "xiao-shi-liao-liao-da-wei-bi-jia",
+    "text": "小时了了，大未必佳",
+    "pinyin": "xiǎo shí liǎo liǎo, dà wèi bì jiā",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "stories",
+      "apprenticeship-and-learning",
+      "foolishness-and-ignorance",
+      "essay-favourites"
+    ],
+    "literal": "small · time · bright · bright, grown · not · necessarily · fine",
+    "natural": "One who is clever as a child will not necessarily turn out well as an adult",
+    "meaning": {
+      "en": "Early brilliance does not guarantee later achievement; also a witty retort.",
+      "zh": "小时候聪明伶俐的人，长大后未必有出息。"
+    },
+    "equivalents": [
+      "early promise is no guarantee",
+      "a precocious child may not shine later"
+    ],
+    "examples": [
+      {
+        "zh": "神童长大后默默无闻，真是“小时了了，大未必佳”。",
+        "en": "The child prodigy grew up unknown: this line exactly."
+      },
+      {
+        "zh": "别太早给孩子贴标签，“小时了了，大未必佳”。",
+        "en": "Don't label a child too early; early cleverness does not ensure later success."
+      }
+    ],
+    "origin": {
+      "source": "《世说新语·言语》",
+      "story": {
+        "en": "The ten-year-old Kong Rong visited the official Li Ying. Chen Wei sneered 'a child who is clever need not turn out well'; Kong Rong retorted 'then you must have been clever as a child' and silenced him.",
+        "zh": "十岁的孔融拜访李膺，陈韪说：“小时了了，大未必佳。”孔融反唇相讥：“想君小时，必当了了。”"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "少年早慧"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xie-tian-zi-yi-ling-zhu-hou",
+    "text": "挟天子以令诸侯",
+    "pinyin": "xié tiān zǐ yǐ lìng zhū hóu",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "挟天子而令诸侯"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "three-kingdoms",
+      "leadership-and-authority",
+      "political-corruption",
+      "historical-records",
+      "essay-favourites"
+    ],
+    "literal": "hold · Son of Heaven · to · command · lords",
+    "natural": "Hold the emperor in one's hands in order to command the feudal lords",
+    "meaning": {
+      "en": "Use a figurehead's authority to command others.",
+      "zh": "控制君主，借他的名义发号施令；比喻凭借权威操控他人。"
+    },
+    "equivalents": [
+      "rule through a puppet",
+      "use a figurehead's name to command"
+    ],
+    "examples": [
+      {
+        "zh": "曹操“挟天子以令诸侯”，逐步统一了北方。",
+        "en": "Cao Cao used the emperor's name to command the lords and gradually unified the north."
+      },
+      {
+        "zh": "这家母公司“挟天子以令诸侯”，借子公司的名义操纵市场。",
+        "en": "The parent firm manipulated the market under its subsidiary's name."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·蜀书·诸葛亮传》",
+      "story": {
+        "en": "In the Longzhong Plan, Zhuge Liang tells Liu Bei that Cao Cao 'holds the Son of Heaven to command the lords' and cannot be opposed head-on; the idea also appears in earlier texts such as the Zhanguo Ce (挟天子以令天下).",
+        "zh": "《隆中对》中诸葛亮说曹操“挟天子而令诸侯”，不可与之争锋；类似说法亦见于《战国策》（挟天子以令天下）。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "假传圣旨"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ji-guan-suan-jin-tai-cong",
+    "text": "机关算尽太聪明，反算了卿卿性命",
+    "pinyin": "jī guān suàn jìn tài cōng míng, fǎn suàn le qīng qīng xìng mìng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "stories",
+      "deception-and-false-appearances",
+      "unintended-results",
+      "essay-favourites"
+    ],
+    "literal": "schemes · calculate · exhaust · too · clever, instead · calculate · dear · dear · life",
+    "natural": "Having schemed to the limit and being far too clever, she ends up calculating away her own life",
+    "meaning": {
+      "en": "Excessive scheming can backfire and destroy the schemer; originally about Wang Xifeng.",
+      "zh": "过分算计，反而害了自己性命；原指《红楼梦》中的王熙凤。"
+    },
+    "equivalents": [
+      "too clever by half",
+      "outsmarted by one's own scheming"
+    ],
+    "examples": [
+      {
+        "zh": "他到处耍心眼，结果“机关算尽太聪明，反算了卿卿性命”。",
+        "en": "He played tricks everywhere and in the end was too clever by half."
+      },
+      {
+        "zh": "评论家用“机关算尽太聪明，反算了卿卿性命”来评价王熙凤的命运。",
+        "en": "Critics use this line to comment on Wang Xifeng's fate."
+      }
+    ],
+    "origin": {
+      "source": "曹雪芹《红楼梦》",
+      "story": {
+        "en": "From the song 'Burdened by Cleverness' (《聪明累》) in the Dream of the Red Chamber, ch. 5, the fate-song for Wang Xifeng, the scheming manager of the Jia household.",
+        "zh": "出自《红楼梦》第五回《红楼梦曲》中的《聪明累》，为王熙凤的判曲。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "聪明反被聪明误",
+      "作茧自缚"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "geng-dang-wen-nu-zhi-dang-fang-bi",
+    "text": "耕当问奴，织当访婢",
+    "pinyin": "gēng dāng wèn nú, zhī dāng fǎng bì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rural-wisdom",
+      "apprenticeship-and-learning",
+      "experience-and-old-age",
+      "modern-applications-of-classical-ideas",
+      "historical-records",
+      "essay-favourites"
+    ],
+    "literal": "plough · should · ask · servant, weave · should · consult · maid",
+    "natural": "Ask the farmhand about ploughing and consult the maid about weaving",
+    "meaning": {
+      "en": "Consult the specialists who do the work.",
+      "zh": "耕田要请教种田的仆人，织布要请教织布的婢女，比喻办事要向内行人请教。"
+    },
+    "equivalents": [
+      "consult the people who know the job",
+      "ask the experts"
+    ],
+    "examples": [
+      {
+        "zh": "项目遇到技术问题，不妨“耕当问奴，织当访婢”，向一线工人请教。",
+        "en": "When a project hits a technical problem, ask the front-line workers."
+      },
+      {
+        "zh": "老板说：“耕当问奴，织当访婢”，别光听专家的。",
+        "en": "The boss said to consult the specialists on the floor, not only the experts."
+      }
+    ],
+    "origin": {
+      "source": "《宋书·沈庆之传》",
+      "story": {
+        "en": "The general Shen Qingzhi, advising Emperor Wen of Liu Song against a northern campaign planned by scholars, said 'govern the state as you would a household: ask the farmhand about ploughing and the maid about weaving'.",
+        "zh": "名将沈庆之劝宋文帝勿听文人北伐之议，说：“治国譬如治家，耕当问奴，织当访婢。”"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "不耻下问",
+      "术业有专攻"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "dao-zhi-suo-cun-shi-zhi-suo-cun",
+    "text": "道之所存，师之所存",
+    "pinyin": "dào zhī suǒ cún, shī zhī suǒ cún",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "essay-favourites",
+      "apprenticeship-and-learning",
+      "effective-teaching-methods",
+      "positive-character-qualities",
+      "poems-prose"
+    ],
+    "literal": "the Way · of · where · lies, teacher · of · where · lies",
+    "natural": "Where the Way resides, there the teacher resides",
+    "meaning": {
+      "en": "Whoever has knowledge and truth can be one's teacher regardless of age or status.",
+      "zh": "道理存在的地方，就是老师所在的地方；不论年龄和地位，谁懂得道理谁就是老师。"
+    },
+    "equivalents": [
+      "learn from anyone who knows"
+    ],
+    "examples": [
+      {
+        "zh": "向年轻同事请教电脑技术，也是“道之所存，师之所存”。",
+        "en": "Asking a young colleague about computers is also this: learn from whoever knows."
+      },
+      {
+        "zh": "《师说》的核心观点就是“道之所存，师之所存”。",
+        "en": "The core idea of 'On Teachers' is this line."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《师说》",
+      "story": {
+        "en": "Han Yu, in 'On Teachers', argues that regardless of high or low rank or age, the one who has the Way is the teacher.",
+        "zh": "韩愈《师说》：“是故无贵无贱，无长无少，道之所存，师之所存也。”"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "三人行，必有我师"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bi-qi-rui-qi-ji-qi-duo-gui",
+    "text": "避其锐气，击其惰归",
+    "pinyin": "bì qí ruì qì, jī qí duò guī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "time-management",
+      "efficiency"
+    ],
+    "literal": "avoid · their · sharp · spirit, strike · their · slack · return",
+    "natural": "Avoid the enemy at his keenest, and strike when his spirit flags and he is returning home",
+    "meaning": {
+      "en": "Wait until the enemy is weary or demoralised before attacking.",
+      "zh": "避开敌人锐气正盛之时，等其士气衰竭、懈怠思归时再攻击。"
+    },
+    "equivalents": [
+      "bide your time until the enemy tires"
+    ],
+    "examples": [
+      {
+        "zh": "球队开场先防守，打算“避其锐气，击其惰归”，下半场再反击。",
+        "en": "The team defended at the start, planning to wait for the other side to tire and counterattack in the second half."
+      },
+      {
+        "zh": "谈判时他采取“避其锐气，击其惰归”的策略。",
+        "en": "In negotiations he followed a strategy of avoiding the keen edge first."
+      }
+    ],
+    "origin": {
+      "source": "《孙子·军争》",
+      "story": {
+        "en": "In the Junzheng chapter, Sunzi lists ways to manage morale: 'in the morning the spirit is keen, by day it flags, by evening it turns homeward; so a good commander avoids its keenness and strikes when it is slack'.",
+        "zh": "《孙子·军争》论治气：“朝气锐，昼气惰，暮气归，故善用兵者，避其锐气，击其惰归。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [
+      "以逸待劳"
+    ],
+    "antonyms": [
+      "迎锋而上"
+    ]
+  },
+  {
+    "id": "mi-bu-you-chu-xian-ke-you-zhong",
+    "text": "靡不有初，鲜克有终",
+    "pinyin": "mǐ bù yǒu chū, xiǎn kè yǒu zhōng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "poems-prose",
+      "abrupt-endings",
+      "essay-favourites"
+    ],
+    "literal": "none · not · have · beginning, few · can · have · end",
+    "natural": "Everything has a beginning, but few are able to see it through to the end",
+    "meaning": {
+      "en": "Many start well but few finish; a warning to persevere.",
+      "zh": "凡事都有开端，但很少有人能坚持到底，提醒人要善始善终。"
+    },
+    "equivalents": [
+      "many start but few finish",
+      "well begun is half done, but finishing is harder"
+    ],
+    "examples": [
+      {
+        "zh": "健身房的会员，往往“靡不有初，鲜克有终”。",
+        "en": "Gym members often start strong but few see it through."
+      },
+      {
+        "zh": "创业之初要谨记“靡不有初，鲜克有终”。",
+        "en": "At the start of a business, bear this line in mind."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·大雅·荡》",
+      "story": {
+        "en": "From the ode 'Dang' in the Book of Songs, in which King Wen of Zhou laments the decline of Shang: 'Heaven gave birth to the people, but its decrees are not to be relied on; all have a beginning, few an end.'",
+        "zh": "《诗经·大雅·荡》：文王叹商纣失道，言“天生烝民，其命匪谌。靡不有初，鲜克有终”。"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the classics; formal, used to support an argument or give advice.",
+      "zh": "经典引文，书面语，常用来论证或劝勉。"
+    },
+    "synonyms": [
+      "虎头蛇尾",
+      "半途而废"
+    ],
+    "antonyms": [
+      "善始善终"
+    ]
+  },
+  {
+    "id": "huang-zhong-hui-qi-wa-fu-lei-ming",
+    "text": "黄钟毁弃，瓦釜雷鸣",
+    "pinyin": "huáng zhōng huǐ qì, wǎ fǔ léi míng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "corruption-and-injustice",
+      "complete-failure-and-obscurity",
+      "essay-favourites"
+    ],
+    "literal": "yellow · bell · smashed · discarded, clay · pot · thunder · sounds",
+    "natural": "The great bronze bell is smashed and discarded while clay pots thunder",
+    "meaning": {
+      "en": "Worthy people are cast aside while worthless ones are celebrated; a protest against a topsy-turvy world.",
+      "zh": "贤能的人被抛弃，庸才却得志喧嚣，指是非颠倒、贤愚不分。"
+    },
+    "equivalents": [
+      "the worthy cast aside, the worthless celebrated"
+    ],
+    "examples": [
+      {
+        "zh": "有才华的人被埋没，而平庸者身居高位，真是“黄钟毁弃，瓦釜雷鸣”。",
+        "en": "Talented people are buried while mediocre ones take high office: this line exactly."
+      },
+      {
+        "zh": "他在文章里用“黄钟毁弃，瓦釜雷鸣”批评用人不公。",
+        "en": "In his essay he criticised unfair appointments with this line."
+      }
+    ],
+    "origin": {
+      "source": "屈原《卜居》",
+      "story": {
+        "en": "In the Chu Ci poem 'Divination', Qu Yuan, banished, asks a diviner whether to compromise with the world or keep to his principles, and laments that the age favours the base over the noble.",
+        "zh": "《楚辞·卜居》：屈原被放逐，问卜于太卜郑詹尹，慨叹世道混浊，贤士无名。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "贤愚不分"
+    ],
+    "antonyms": [
+      "人尽其才"
+    ]
+  },
+  {
+    "id": "jia-lei-qian-jin-zuo-bu-chui-tang",
+    "text": "家累千金，坐不垂堂",
+    "pinyin": "jiā lěi qiān jīn, zuò bù chuí táng",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "千金之子，坐不垂堂"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "wisdom",
+      "danger",
+      "historical-records",
+      "essay-favourites"
+    ],
+    "literal": "household · pile · thousand · gold, sit · not · at edge of · hall",
+    "natural": "A man with a thousand pieces of gold does not sit at the edge of the hall",
+    "meaning": {
+      "en": "The rich avoid risk because they have much to lose.",
+      "zh": "家财万贯的人不会坐在屋檐边上，怕瓦掉下来砸到自己；比喻富贵之人爱惜自身，不涉险境。"
+    },
+    "equivalents": [
+      "people with much to lose avoid risks"
+    ],
+    "examples": [
+      {
+        "zh": "他当了老板就不再亲自冲锋陷阵，所谓“家累千金，坐不垂堂”。",
+        "en": "Since becoming boss he no longer leads the charge himself: this line."
+      },
+      {
+        "zh": "“家累千金，坐不垂堂”，有钱人更注重安全。",
+        "en": "The rich are more careful about safety."
+      }
+    ],
+    "origin": {
+      "source": "《史记·司马相如列传》",
+      "story": {
+        "en": "Sima Xiangru, trying to dissuade Emperor Wu of Han from dangerous hunting trips, quotes the proverb 'a family with a thousand gold does not sit under the eaves'; the shorter form 千金之子，坐不垂堂 appears in the biography of Yuan Ang.",
+        "zh": "司马相如上书谏汉武帝勿涉险打猎，引谚“家累千金，坐不垂堂”；《袁盎晁错列传》则作“千金之子，坐不垂堂”。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "爱惜羽毛"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "cong-shan-ru-deng-cong-e-ru-beng",
+    "text": "从善如登，从恶如崩",
+    "pinyin": "cóng shàn rú dēng, cóng è rú bēng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "essay-favourites",
+      "mistakes-and-correction",
+      "positive-character-qualities",
+      "bad-company-and-betrayal",
+      "historical-records"
+    ],
+    "literal": "follow · good · like · climbing, follow · evil · like · collapse",
+    "natural": "Following good is like climbing up, following evil is like a landslide",
+    "meaning": {
+      "en": "Doing good takes effort, but sliding into bad habits is quick and easy.",
+      "zh": "学好像登山一样艰难，学坏却像山崩一样迅速。"
+    },
+    "equivalents": [
+      "it's uphill to do good and downhill to do wrong"
+    ],
+    "examples": [
+      {
+        "zh": "沉迷游戏的坏习惯一旦染上，就应了“从善如登，从恶如崩”。",
+        "en": "Once a bad habit like gaming is picked up, this line comes true."
+      },
+      {
+        "zh": "教育孩子要明白“从善如登，从恶如崩”的道理。",
+        "en": "In educating children one must understand that virtue is hard won and vice easily caught."
+      }
+    ],
+    "origin": {
+      "source": "《国语·周语下》",
+      "story": {
+        "en": "From the Guoyu (Discourses of the States), in the Zhou section: a court speaker cites this proverb to warn that goodness is hard to attain but vice is quickly caught.",
+        "zh": "出自《国语·周语下》，引谚语说明学好难、学坏易。"
+      }
+    },
+    "usage": {
+      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
+      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
+    },
+    "synonyms": [
+      "学好不易，学坏容易"
+    ],
+    "antonyms": []
+  }
+]
