@@ -401,6 +401,9 @@
     "id": "chi-shen-luo-ti",
     "text": "赤身裸体",
     "pinyin": "chì shēn luǒ tǐ",
+    "variants": [
+      "赤身露体"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -435,8 +438,7 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "一丝不挂",
-      "赤身露体"
+      "一丝不挂"
     ],
     "antonyms": [
       "衣冠楚楚",
@@ -447,6 +449,9 @@
     "id": "miao-yu-lian-zhu",
     "text": "妙语连珠",
     "pinyin": "miào yǔ lián zhū",
+    "variants": [
+      "妙语如珠"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -651,6 +656,9 @@
     "id": "ji-shao-cheng-duo",
     "text": "积少成多",
     "pinyin": "jī shǎo chéng duō",
+    "variants": [
+      "聚少成多"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -734,7 +742,6 @@
       "zh": "多作谓语。\"瘁\"读 cuì。"
     },
     "synonyms": [
-      "精疲力竭",
       "筋疲力尽",
       "疲惫不堪"
     ],
@@ -1203,6 +1210,9 @@
     "id": "she-sheng-wang-si",
     "text": "舍生忘死",
     "pinyin": "shě shēng wàng sǐ",
+    "variants": [
+      "舍死忘生"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

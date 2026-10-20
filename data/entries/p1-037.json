@@ -3,6 +3,9 @@
     "id": "ri-bo-xi-shan",
     "text": "日薄西山",
     "pinyin": "rì bó xī shān",
+    "variants": [
+      "西山日薄"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -273,6 +276,9 @@
     "id": "shao-bu-geng-shi",
     "text": "少不更事",
     "pinyin": "shào bù gēng shì",
+    "variants": [
+      "少不经事"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -526,6 +532,9 @@
     "id": "ming-huo-zhi-zhang",
     "text": "明火执仗",
     "pinyin": "míng huǒ zhí zhàng",
+    "variants": [
+      "明火执杖"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -835,6 +844,9 @@
     "id": "pi-ji-tai-lai",
     "text": "否极泰来",
     "pinyin": "pǐ jí tài lái",
+    "variants": [
+      "泰极否来"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -1143,6 +1155,9 @@
     "id": "jian-ji-xing-shi",
     "text": "见机行事",
     "pinyin": "jiàn jī xíng shì",
+    "variants": [
+      "相机行事"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -1180,7 +1195,6 @@
     },
     "synonyms": [
       "随机应变",
-      "相机行事",
       "因势利导"
     ],
     "antonyms": [

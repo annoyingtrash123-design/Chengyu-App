@@ -471,6 +471,9 @@
     "id": "ban-men-nong-fu",
     "text": "班门弄斧",
     "pinyin": "bān mén nòng fǔ",
+    "variants": [
+      "弄斧班门"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -844,7 +847,8 @@
     "text": "书香门第",
     "pinyin": "shū xiāng mén dì",
     "variants": [
-      "书香世家"
+      "书香世家",
+      "书香人家"
     ],
     "kind": "chengyu",
     "frequency": 3,

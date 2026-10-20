@@ -91,6 +91,9 @@
     "id": "jiao-kou-cheng-zan",
     "text": "交口称赞",
     "pinyin": "jiāo kǒu chēng zàn",
+    "variants": [
+      "交口称誉"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -413,6 +416,9 @@
     "id": "xin-hui-yi-leng",
     "text": "心灰意冷",
     "pinyin": "xīn huī yì lěng",
+    "variants": [
+      "心灰意懒"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -603,6 +609,9 @@
     "id": "xing-luo-qi-bu",
     "text": "星罗棋布",
     "pinyin": "xīng luó qí bù",
+    "variants": [
+      "棋布星罗"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -699,6 +708,9 @@
     "id": "zhong-mu-kui-kui",
     "text": "众目睽睽",
     "pinyin": "zhòng mù kuí kuí",
+    "variants": [
+      "万目睽睽"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -924,6 +936,9 @@
     "id": "jing-jing-you-tiao",
     "text": "井井有条",
     "pinyin": "jǐng jǐng yǒu tiáo",
+    "variants": [
+      "井井有序"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

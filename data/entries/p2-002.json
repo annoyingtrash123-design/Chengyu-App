@@ -976,6 +976,9 @@
     "id": "po-bu-ji-dai",
     "text": "迫不及待",
     "pinyin": "pò bù jí dài",
+    "variants": [
+      "急不及待"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -1076,7 +1079,8 @@
     "text": "此起彼伏",
     "pinyin": "cǐ qǐ bǐ fú",
     "variants": [
-      "此起彼落"
+      "此起彼落",
+      "此伏彼起"
     ],
     "kind": "chengyu",
     "frequency": 1,
@@ -1174,6 +1178,9 @@
     "id": "wu-ke-hou-fei",
     "text": "无可厚非",
     "pinyin": "wú kě hòu fēi",
+    "variants": [
+      "未可厚非"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

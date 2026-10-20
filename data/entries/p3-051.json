@@ -48,11 +48,11 @@
     "id": "yi-fang-bu-ce",
     "text": "以防不测",
     "pinyin": "yǐ fáng bù cè",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "以备不测"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -319,11 +319,11 @@
     "id": "xu-wei-yi-dai",
     "text": "虚位以待",
     "pinyin": "xū wèi yǐ dài",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "虚席以待"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -457,6 +457,9 @@
     "id": "wen-feng-sang-dan",
     "text": "闻风丧胆",
     "pinyin": "wén fēng sàng dǎn",
+    "variants": [
+      "闻名丧胆"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -592,11 +595,11 @@
     "id": "gu-nong-xuan-xu",
     "text": "故弄玄虚",
     "pinyin": "gù nòng xuán xū",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "卖弄玄虚"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -730,11 +733,11 @@
     "id": "yi-mian-zhi-yuan",
     "text": "一面之缘",
     "pinyin": "yī miàn zhī yuán",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "一面之交"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -778,6 +781,9 @@
     "id": "jing-hua-shui-yue",
     "text": "镜花水月",
     "pinyin": "jìng huā shuǐ yuè",
+    "variants": [
+      "水月镜花"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -958,6 +964,9 @@
     "id": "ju-sha-cheng-ta",
     "text": "聚沙成塔",
     "pinyin": "jù shā chéng tǎ",
+    "variants": [
+      "积沙成塔"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1048,11 +1057,11 @@
     "id": "lao-sao-man-fu",
     "text": "牢骚满腹",
     "pinyin": "láo sāo mǎn fù",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "满腹牢骚"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

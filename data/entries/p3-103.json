@@ -230,11 +230,11 @@
     "id": "hui-tian-wu-li",
     "text": "回天无力",
     "pinyin": "huí tiān wú lì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "无力回天"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -431,11 +431,12 @@
     "id": "guang-mang-wan-zhang",
     "text": "光芒万丈",
     "pinyin": "guāng máng wàn zhàng",
+    "variants": [
+      "万丈光芒",
+      "光焰万丈"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "万丈光芒"
-    ],
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -523,11 +524,11 @@
     "id": "an-dan-wu-guang",
     "text": "黯淡无光",
     "pinyin": "àn dàn wú guāng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "暗淡无光"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

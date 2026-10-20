@@ -455,6 +455,9 @@
     "id": "kou-bu-ze-yan",
     "text": "口不择言",
     "pinyin": "kǒu bù zé yán",
+    "variants": [
+      "急不择言"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -604,6 +607,9 @@
     "id": "zhong-yan-ni-er",
     "text": "忠言逆耳",
     "pinyin": "zhōng yán nì ěr",
+    "variants": [
+      "逆耳忠言"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -922,11 +928,11 @@
     "id": "nan-jie-nan-fen",
     "text": "难解难分",
     "pinyin": "nán jiě nán fēn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "难分难解"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -975,11 +981,11 @@
     "id": "bing-qi-ning-shen",
     "text": "屏气凝神",
     "pinyin": "bǐng qì níng shén",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "屏息凝神"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1075,11 +1081,11 @@
     "id": "tian-gao-huang-di-yuan",
     "text": "天高皇帝远",
     "pinyin": "tiān gāo huáng dì yuǎn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "山高皇帝远"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

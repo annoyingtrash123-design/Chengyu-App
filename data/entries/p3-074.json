@@ -52,6 +52,9 @@
     "id": "bing-huang-ma-luan",
     "text": "兵荒马乱",
     "pinyin": "bīng huāng mǎ luàn",
+    "variants": [
+      "兵慌马乱"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -397,6 +400,9 @@
     "id": "zi-xiang-can-sha",
     "text": "自相残杀",
     "pinyin": "zì xiāng cán shā",
+    "variants": [
+      "自相残害"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1091,6 +1097,9 @@
     "id": "tian-hun-di-an",
     "text": "天昏地暗",
     "pinyin": "tiān hūn dì àn",
+    "variants": [
+      "天昏地黑"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

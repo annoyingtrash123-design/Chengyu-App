@@ -93,11 +93,11 @@
     "id": "qian-yan-bu-da-hou-yu",
     "text": "前言不搭后语",
     "pinyin": "qián yán bù dā hòu yǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "前言不对后语"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -656,6 +656,9 @@
     "id": "san-gu-mao-lu",
     "text": "三顾茅庐",
     "pinyin": "sān gù máo lú",
+    "variants": [
+      "三顾草庐"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -931,11 +934,11 @@
     "id": "wen-feng-er-tao",
     "text": "闻风而逃",
     "pinyin": "wén fēng ér táo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "望风而逃"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

@@ -54,11 +54,11 @@
     "id": "yi-er-zai-zai-er-san",
     "text": "一而再，再而三",
     "pinyin": "yī ér zài, zài ér sān",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "一而再再而三"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -107,11 +107,11 @@
     "id": "yi-fen-geng-yun-yi-fen-shou-huo",
     "text": "一分耕耘，一分收获",
     "pinyin": "yī fēn gēng yún, yī fēn shōu huò",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一分耕耘一分收获"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -315,11 +315,11 @@
     "id": "yi-fa-bu-ke-shou-shi",
     "text": "一发不可收拾",
     "pinyin": "yī fā bù kě shōu shí",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "一发而不可收拾"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -369,12 +369,12 @@
     "id": "shi-nian-shu-mu-bai-nian-shu-ren",
     "text": "十年树木，百年树人",
     "pinyin": "shí nián shù mù, bǎi nián shù rén",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "十年树木",
       "百年树人"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -431,12 +431,12 @@
     "id": "wu-yi-e-xiao-er-wei",
     "text": "勿以恶小而为之，勿以善小而不为",
     "pinyin": "wù yǐ è xiǎo ér wéi zhī, wù yǐ shàn xiǎo ér bù wéi",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "勿以善小而不为",
       "勿以恶小而为之"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -494,11 +494,11 @@
     "id": "tian-xia-xing-wang-pi-fu-you-ze",
     "text": "天下兴亡，匹夫有责",
     "pinyin": "tiān xià xīng wáng, pǐ fū yǒu zé",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "天下兴亡"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -555,11 +555,11 @@
     "id": "gong-shuo-gong-you-li-po-shuo-po-you-li",
     "text": "公说公有理，婆说婆有理",
     "pinyin": "gōng shuō gōng yǒu lǐ, pó shuō pó yǒu lǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "公说公有理"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -652,11 +652,11 @@
     "id": "jiu-ren-yi-ming-sheng-zao-qi-ji-fu-tu",
     "text": "救人一命，胜造七级浮屠",
     "pinyin": "jiù rén yī mìng, shèng zào qī jí fú tú",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "救人一命"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -706,13 +706,14 @@
     "id": "san-shi-liu-ji-zou-wei-shang-ji",
     "text": "三十六计，走为上计",
     "pinyin": "sān shí liù jì, zǒu wéi shàng jì",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "三十六计走为上计",
       "走为上计",
-      "三十六计"
+      "三十六计",
+      "走为上策"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -768,12 +769,13 @@
     "id": "cha-zhi-hao-li-miu-yi-qian-li",
     "text": "差之毫厘，谬以千里",
     "pinyin": "chā zhī háo lí, miù yǐ qiān lǐ",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "差之毫厘",
-      "失之毫厘，谬以千里"
+      "失之毫厘，谬以千里",
+      "失之毫厘"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -816,7 +818,6 @@
       "zh": "提醒细节不可马虎，也说“失之毫厘，谬以千里”。"
     },
     "synonyms": [
-      "失之毫厘",
       "一失足成千古恨",
       "千里之堤，溃于蚁穴"
     ],
@@ -829,11 +830,11 @@
     "id": "sheng-ming-zhi-xia-qi-shi-nan-fu",
     "text": "盛名之下，其实难副",
     "pinyin": "shèng míng zhī xià, qí shí nán fù",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "盛名之下"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -890,11 +891,11 @@
     "id": "zheng-yi-zhi-yan-bi-yi-zhi-yan",
     "text": "睁一只眼闭一只眼",
     "pinyin": "zhēng yī zhī yǎn bì yī zhī yǎn",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "睁一眼闭一眼"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

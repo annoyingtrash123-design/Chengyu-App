@@ -421,11 +421,11 @@
     "id": "jiu-di-chong-you",
     "text": "旧地重游",
     "pinyin": "jiù dì chóng yóu",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "故地重游"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -468,6 +468,9 @@
     "id": "ru-mang-zai-bei",
     "text": "如芒在背",
     "pinyin": "rú máng zài bèi",
+    "variants": [
+      "如芒刺背"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -665,11 +668,11 @@
     "id": "cha-chi-nan-tao",
     "text": "插翅难逃",
     "pinyin": "chā chì nán táo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "插翅难飞"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -758,11 +761,11 @@
     "id": "san-yang-kai-tai",
     "text": "三阳开泰",
     "pinyin": "sān yáng kāi tài",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "三羊开泰"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

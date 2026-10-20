@@ -192,6 +192,9 @@
     "id": "di-lao-tian-huang",
     "text": "地老天荒",
     "pinyin": "dì lǎo tiān huāng",
+    "variants": [
+      "天荒地老"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -326,11 +329,12 @@
     "id": "huang-liang-yi-meng",
     "text": "黄粱一梦",
     "pinyin": "huáng liáng yī mèng",
+    "variants": [
+      "黄粱美梦",
+      "一枕黄粱"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "黄粱美梦"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -571,11 +575,11 @@
     "id": "yu-shi-ju-fen",
     "text": "玉石俱焚",
     "pinyin": "yù shí jù fén",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "玉石同焚"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -893,6 +897,9 @@
     "id": "wei-tong-jiao-la",
     "text": "味同嚼蜡",
     "pinyin": "wèi tóng jiáo là",
+    "variants": [
+      "味如嚼蜡"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

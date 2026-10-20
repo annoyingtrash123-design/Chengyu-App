@@ -152,11 +152,11 @@
     "id": "shen-bu-zhi-gui-bu-jue",
     "text": "神不知鬼不觉",
     "pinyin": "shén bù zhī guǐ bù jué",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "人不知鬼不觉"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -666,6 +666,9 @@
     "id": "ling-dan-miao-yao",
     "text": "灵丹妙药",
     "pinyin": "líng dān miào yào",
+    "variants": [
+      "灵丹圣药"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -713,6 +716,9 @@
     "id": "mao-gu-song-ran",
     "text": "毛骨悚然",
     "pinyin": "máo gǔ sǒng rán",
+    "variants": [
+      "毛骨耸然"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -763,11 +769,11 @@
     "id": "ming-bu-fu-shi",
     "text": "名不副实",
     "pinyin": "míng bù fù shí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "名不符实"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -971,11 +977,11 @@
     "id": "xiang-mo-xiang-yang",
     "text": "像模像样",
     "pinyin": "xiàng mó xiàng yàng",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "有模有样"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -1024,6 +1030,9 @@
     "id": "hai-kuo-tian-kong",
     "text": "海阔天空",
     "pinyin": "hǎi kuò tiān kōng",
+    "variants": [
+      "海阔天高"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1124,11 +1133,11 @@
     "id": "e-wan-tan-xi",
     "text": "扼腕叹息",
     "pinyin": "è wàn tàn xī",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "扼腕长叹"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "formal",
     "themes": [

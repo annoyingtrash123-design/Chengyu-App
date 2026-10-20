@@ -3,11 +3,11 @@
     "id": "la-bang-jie-pai",
     "text": "拉帮结派",
     "pinyin": "lā bāng jié pài",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "拉帮结伙"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -355,11 +355,13 @@
     "id": "yao-wu-yin-xin",
     "text": "杳无音信",
     "pinyin": "yǎo wú yīn xìn",
+    "variants": [
+      "杳无音讯",
+      "渺无音讯",
+      "音信杳无"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "杳无音讯"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

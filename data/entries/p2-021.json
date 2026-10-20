@@ -878,6 +878,9 @@
     "id": "geng-geng-yu-huai",
     "text": "耿耿于怀",
     "pinyin": "gěng gěng yú huái",
+    "variants": [
+      "耿耿于心"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1063,6 +1066,9 @@
     "id": "quan-yi-zhi-ji",
     "text": "权宜之计",
     "pinyin": "quán yí zhī jì",
+    "variants": [
+      "权宜之策"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1109,11 +1115,12 @@
     "id": "bei-jing-li-xiang",
     "text": "背井离乡",
     "pinyin": "bèi jǐng lí xiāng",
+    "variants": [
+      "离乡背井",
+      "离乡别井"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "离乡背井"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

@@ -605,6 +605,9 @@
     "id": "man-mu-chuang-yi",
     "text": "满目疮痍",
     "pinyin": "mǎn mù chuāng yí",
+    "variants": [
+      "疮痍满目"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -697,7 +700,9 @@
     "text": "追根溯源",
     "pinyin": "zhuī gēn sù yuán",
     "variants": [
-      "追本溯源"
+      "追本溯源",
+      "推本溯源",
+      "追根求源"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -732,7 +737,6 @@
       "zh": "多作谓语或句首。"
     },
     "synonyms": [
-      "追根究底",
       "刨根问底"
     ],
     "antonyms": [

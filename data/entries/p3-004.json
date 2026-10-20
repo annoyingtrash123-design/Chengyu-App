@@ -53,6 +53,9 @@
     "id": "xiao-ti-da-zuo",
     "text": "小题大做",
     "pinyin": "xiǎo tí dà zuò",
+    "variants": [
+      "小题大作"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -296,11 +299,11 @@
     "id": "ying-lai-song-wang",
     "text": "迎来送往",
     "pinyin": "yíng lái sòng wǎng",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "送往迎来"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -731,11 +734,11 @@
     "id": "ling-qi-lu-zao",
     "text": "另起炉灶",
     "pinyin": "lìng qǐ lú zào",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "重起炉灶"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -930,11 +933,11 @@
     "id": "tian-ya-hai-jiao",
     "text": "天涯海角",
     "pinyin": "tiān yá hǎi jiǎo",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "海角天涯"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1032,11 +1035,11 @@
     "id": "jian-zai-xian-shang",
     "text": "箭在弦上",
     "pinyin": "jiàn zài xián shàng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "箭在弦上，不得不发"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1179,11 +1182,11 @@
     "id": "ju-gong-jin-cui",
     "text": "鞠躬尽瘁",
     "pinyin": "jū gōng jìn cuì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "鞠躬尽瘁，死而后已"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

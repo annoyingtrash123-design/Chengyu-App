@@ -225,6 +225,9 @@
     "id": "guang-cai-duo-mu",
     "text": "光彩夺目",
     "pinyin": "guāng cǎi duó mù",
+    "variants": [
+      "光辉夺目"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1014,11 +1017,11 @@
     "id": "zhe-tian-bi-ri",
     "text": "遮天蔽日",
     "pinyin": "zhē tiān bì rì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "遮天盖日"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

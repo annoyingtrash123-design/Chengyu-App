@@ -61,11 +61,11 @@
     "id": "wan-quan-zhi-ce",
     "text": "万全之策",
     "pinyin": "wàn quán zhī cè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "万全之计"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -279,11 +279,11 @@
     "id": "wei-feng-ba-mian",
     "text": "威风八面",
     "pinyin": "wēi fēng bā miàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "八面威风"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -496,11 +496,11 @@
     "id": "dong-la-xi-che",
     "text": "东拉西扯",
     "pinyin": "dōng lā xī chě",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "东扯西拉"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -549,6 +549,9 @@
     "id": "shi-chu-wu-ming",
     "text": "师出无名",
     "pinyin": "shī chū wú míng",
+    "variants": [
+      "出师无名"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -654,11 +657,11 @@
     "id": "man-pan-jie-shu",
     "text": "满盘皆输",
     "pinyin": "mǎn pán jiē shū",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "全盘皆输"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1113,11 +1116,12 @@
     "id": "qi-ren-tai-shen",
     "text": "欺人太甚",
     "pinyin": "qī rén tài shèn",
+    "variants": [
+      "欺人过甚",
+      "逼人太甚"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "欺人过甚"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

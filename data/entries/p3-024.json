@@ -152,11 +152,11 @@
     "id": "ming-li-shuang-shou",
     "text": "名利双收",
     "pinyin": "míng lì shuāng shōu",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "名利兼收"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -283,11 +283,11 @@
     "id": "ren-ren-jie-zhi",
     "text": "人人皆知",
     "pinyin": "rén rén jiē zhī",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "尽人皆知"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -509,6 +509,10 @@
     "id": "jing-tao-hai-lang",
     "text": "惊涛骇浪",
     "pinyin": "jīng tāo hài làng",
+    "variants": [
+      "狂涛骇浪",
+      "骇浪惊涛"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -598,6 +602,9 @@
     "id": "gong-chou-jiao-cuo",
     "text": "觥筹交错",
     "pinyin": "gōng chóu jiāo cuò",
+    "variants": [
+      "杯觥交错"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -648,11 +655,11 @@
     "id": "fan-qi-dao-er-xing-zhi",
     "text": "反其道而行之",
     "pinyin": "fǎn qí dào ér xíng zhī",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "反其道而为之"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

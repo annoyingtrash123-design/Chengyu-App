@@ -288,11 +288,11 @@
     "id": "zhun-zhun-jiao-dao",
     "text": "谆谆教导",
     "pinyin": "zhūn zhūn jiào dǎo",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "谆谆教诲"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -428,6 +428,9 @@
     "id": "zhuang-dian-men-mian",
     "text": "装点门面",
     "pinyin": "zhuāng diǎn mén miàn",
+    "variants": [
+      "装潢门面"
+    ],
     "kind": "guanyongyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -971,6 +974,9 @@
     "id": "xiang-jian-hen-wan",
     "text": "相见恨晚",
     "pinyin": "xiāng jiàn hèn wǎn",
+    "variants": [
+      "相逢恨晚"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1017,11 +1023,11 @@
     "id": "zei-han-zhuo-zei",
     "text": "贼喊捉贼",
     "pinyin": "zéi hǎn zhuō zéi",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "做贼喊捉贼"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

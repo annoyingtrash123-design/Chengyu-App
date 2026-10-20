@@ -3,6 +3,9 @@
     "id": "zuo-you-wei-nan",
     "text": "左右为难",
     "pinyin": "zuǒ yòu wéi nán",
+    "variants": [
+      "左右两难"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -49,6 +52,9 @@
     "id": "feng-ping-lang-jing",
     "text": "风平浪静",
     "pinyin": "fēng píng làng jìng",
+    "variants": [
+      "波平浪静"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -935,6 +941,9 @@
     "id": "wu-cai-bin-fen",
     "text": "五彩缤纷",
     "pinyin": "wǔ cǎi bīn fēn",
+    "variants": [
+      "五色缤纷"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1107,8 +1116,7 @@
     },
     "synonyms": [
       "筋疲力尽",
-      "身心俱疲",
-      "精疲力竭"
+      "身心俱疲"
     ],
     "antonyms": [
       "精力充沛",

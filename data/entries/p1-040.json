@@ -147,11 +147,11 @@
     "id": "bei-xi-jiao-ji",
     "text": "悲喜交集",
     "pinyin": "bēi xǐ jiāo jí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "悲喜交加"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -354,11 +354,11 @@
     "id": "qi-feng-dui-shou",
     "text": "棋逢对手",
     "pinyin": "qí féng duì shǒu",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "棋逢敌手"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -650,11 +650,11 @@
     "id": "jin-yu-qi-wai",
     "text": "金玉其外",
     "pinyin": "jīn yù qí wài",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "金玉其外，败絮其中"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -804,6 +804,9 @@
     "id": "ban-jin-ba-liang",
     "text": "半斤八两",
     "pinyin": "bàn jīn bā liǎng",
+    "variants": [
+      "半斤对八两"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -908,11 +911,12 @@
     "id": "cheng-ye-xiao-he",
     "text": "成也萧何",
     "pinyin": "chéng yě xiāo hé",
+    "variants": [
+      "成也萧何，败也萧何",
+      "成败萧何"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "成也萧何，败也萧何"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1173,6 +1177,9 @@
     "id": "xian-yun-ye-he",
     "text": "闲云野鹤",
     "pinyin": "xián yún yě hè",
+    "variants": [
+      "孤云野鹤"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

@@ -244,6 +244,9 @@
     "id": "xing-dan-ying-zhi",
     "text": "形单影只",
     "pinyin": "xíng dān yǐng zhī",
+    "variants": [
+      "形只影单"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -618,6 +621,9 @@
     "id": "san-si-er-xing",
     "text": "三思而行",
     "pinyin": "sān sī ér xíng",
+    "variants": [
+      "三思后行"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -763,7 +769,6 @@
       "厉兵秣马"
     ],
     "antonyms": [
-      "精疲力竭",
       "疲于奔命",
       "筋疲力尽"
     ]

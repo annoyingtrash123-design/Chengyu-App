@@ -396,6 +396,9 @@
     "id": "cheng-qian-qi-hou",
     "text": "承前启后",
     "pinyin": "chéng qián qǐ hòu",
+    "variants": [
+      "承先启后"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -534,6 +537,9 @@
     "id": "zheng-xian-kong-hou",
     "text": "争先恐后",
     "pinyin": "zhēng xiān kǒng hòu",
+    "variants": [
+      "争前恐后"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -582,6 +588,10 @@
     "id": "jing-huang-shi-cuo",
     "text": "惊慌失措",
     "pinyin": "jīng huāng shī cuò",
+    "variants": [
+      "张惶失措",
+      "惊惶失措"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",

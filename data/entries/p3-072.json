@@ -93,6 +93,9 @@
     "id": "yi-dao-liang-duan",
     "text": "一刀两断",
     "pinyin": "yī dāo liǎng duàn",
+    "variants": [
+      "一刀两段"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -138,11 +141,11 @@
     "id": "wu-ke-jiu-yao",
     "text": "无可救药",
     "pinyin": "wú kě jiù yào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "不可救药"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -276,6 +279,9 @@
     "id": "bao-jing-feng-shuang",
     "text": "饱经风霜",
     "pinyin": "bǎo jīng fēng shuāng",
+    "variants": [
+      "久经风霜"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -599,11 +605,11 @@
     "id": "bi-men-bu-chu",
     "text": "闭门不出",
     "pinyin": "bì mén bù chū",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "杜门不出"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

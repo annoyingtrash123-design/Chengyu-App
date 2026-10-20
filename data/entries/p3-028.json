@@ -702,6 +702,9 @@
     "id": "yun-tou-zhuan-xiang",
     "text": "晕头转向",
     "pinyin": "yūn tóu zhuàn xiàng",
+    "variants": [
+      "昏头转向"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -892,6 +895,9 @@
     "id": "qie-qie-si-yu",
     "text": "窃窃私语",
     "pinyin": "qiè qiè sī yǔ",
+    "variants": [
+      "窃窃私议"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -984,6 +990,10 @@
     "id": "qiu-xian-ruo-ke",
     "text": "求贤若渴",
     "pinyin": "qiú xián ruò kě",
+    "variants": [
+      "求才若渴",
+      "求贤如渴"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

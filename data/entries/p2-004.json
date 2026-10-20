@@ -152,6 +152,9 @@
     "id": "zu-bu-chu-hu",
     "text": "足不出户",
     "pinyin": "zú bù chū hù",
+    "variants": [
+      "足不出门"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -615,6 +618,9 @@
     "id": "ming-cha-an-fang",
     "text": "明察暗访",
     "pinyin": "míng chá àn fǎng",
+    "variants": [
+      "明查暗访"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -938,7 +944,9 @@
     "text": "归根结底",
     "pinyin": "guī gēn jié dǐ",
     "variants": [
-      "归根到底"
+      "归根到底",
+      "归根结柢",
+      "归根结蒂"
     ],
     "kind": "chengyu",
     "frequency": 1,
@@ -1075,6 +1083,10 @@
     "id": "ke-jian-yi-ban",
     "text": "可见一斑",
     "pinyin": "kě jiàn yī bān",
+    "variants": [
+      "略窥一斑",
+      "略见一斑"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

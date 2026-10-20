@@ -195,7 +195,10 @@
     "text": "渔翁得利",
     "pinyin": "yú wēng dé lì",
     "variants": [
-      "渔翁之利"
+      "渔翁之利",
+      "坐收渔人之利",
+      "渔人之利",
+      "渔人得利"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -563,6 +566,9 @@
     "id": "san-xin-er-yi",
     "text": "三心二意",
     "pinyin": "sān xīn èr yì",
+    "variants": [
+      "三心两意"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -660,6 +666,9 @@
     "id": "hun-fei-po-san",
     "text": "魂飞魄散",
     "pinyin": "hún fēi pò sàn",
+    "variants": [
+      "魄散魂飞"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -916,6 +925,9 @@
     "id": "fen-shi-ji-su",
     "text": "愤世嫉俗",
     "pinyin": "fèn shì jí sú",
+    "variants": [
+      "愤世疾俗"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

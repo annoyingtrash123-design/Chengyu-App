@@ -3,11 +3,11 @@
     "id": "dian-guang-huo-shi",
     "text": "电光火石",
     "pinyin": "diàn guāng huǒ shí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "电光石火"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -59,11 +59,11 @@
     "id": "zhuan-shun-ji-shi",
     "text": "转瞬即逝",
     "pinyin": "zhuǎn shùn jí shì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "转眼即逝"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -468,12 +468,12 @@
     "id": "duo-mi-nuo-gu-pai-xiao-ying",
     "text": "多米诺骨牌效应",
     "pinyin": "duō mǐ nuò gǔ pái xiào yìng",
-    "kind": "phrase",
-    "frequency": 2,
-    "modern": "borrowed",
     "variants": [
       "多米诺效应"
     ],
+    "kind": "phrase",
+    "frequency": 2,
+    "modern": "borrowed",
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -564,11 +564,11 @@
     "id": "jun-zi-bao-chou-shi-nian-bu-wan",
     "text": "君子报仇，十年不晚",
     "pinyin": "jūn zǐ bào chóu, shí nián bù wǎn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "君子报仇"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -795,11 +795,11 @@
     "id": "xi-you-can-ban",
     "text": "喜忧参半",
     "pinyin": "xǐ yōu cān bàn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "忧喜参半"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1096,11 +1096,12 @@
     "id": "jiang-yu-liang-cai",
     "text": "将遇良才",
     "pinyin": "jiàng yù liáng cái",
+    "variants": [
+      "棋逢对手，将遇良才",
+      "将遇良材"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "棋逢对手，将遇良才"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [

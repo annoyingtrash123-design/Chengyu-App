@@ -144,11 +144,11 @@
     "id": "jing-ming-neng-gan",
     "text": "精明能干",
     "pinyin": "jīng míng néng gàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "精明强干"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -192,6 +192,9 @@
     "id": "dian-dao-shi-fei",
     "text": "颠倒是非",
     "pinyin": "diān dǎo shì fēi",
+    "variants": [
+      "是非颠倒"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -831,6 +834,9 @@
     "id": "gao-shen-mo-ce",
     "text": "高深莫测",
     "pinyin": "gāo shēn mò cè",
+    "variants": [
+      "莫测高深"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

@@ -753,6 +753,10 @@
     "id": "xin-ji-ru-fen",
     "text": "心急如焚",
     "pinyin": "xīn jí rú fén",
+    "variants": [
+      "心急如火",
+      "心焦如焚"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -910,6 +914,9 @@
     "id": "xue-zhong-song-tan",
     "text": "雪中送炭",
     "pinyin": "xuě zhōng sòng tàn",
+    "variants": [
+      "雪里送炭"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -1209,6 +1216,9 @@
     "id": "ru-chu-yi-zhe",
     "text": "如出一辙",
     "pinyin": "rú chū yī zhé",
+    "variants": [
+      "同出一辙"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

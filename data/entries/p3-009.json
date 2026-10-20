@@ -141,6 +141,9 @@
     "id": "wan-shi-da-ji",
     "text": "万事大吉",
     "pinyin": "wàn shì dà jí",
+    "variants": [
+      "完事大吉"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -336,6 +339,9 @@
     "id": "qiong-xiong-ji-e",
     "text": "穷凶极恶",
     "pinyin": "qióng xiōng jí è",
+    "variants": [
+      "极恶穷凶"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -626,11 +632,11 @@
     "id": "ru-xiang-sui-su",
     "text": "入乡随俗",
     "pinyin": "rù xiāng suí sú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "入境随俗"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -761,11 +767,11 @@
     "id": "ru-chi-ru-zui",
     "text": "如痴如醉",
     "pinyin": "rú chī rú zuì",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "如醉如痴"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -808,6 +814,9 @@
     "id": "tian-fan-di-fu",
     "text": "天翻地覆",
     "pinyin": "tiān fān dì fù",
+    "variants": [
+      "地覆天翻"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -899,11 +908,12 @@
     "id": "zhi-yan-pian-yu",
     "text": "只言片语",
     "pinyin": "zhī yán piàn yǔ",
+    "variants": [
+      "片言只语",
+      "片言只字"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "片言只语"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -936,8 +946,7 @@
       "zh": "多作宾语。"
     },
     "synonyms": [
-      "三言两语",
-      "片言只字"
+      "三言两语"
     ],
     "antonyms": [
       "长篇大论",
@@ -948,11 +957,12 @@
     "id": "ren-ren-zhi-shi",
     "text": "仁人志士",
     "pinyin": "rén rén zhì shì",
+    "variants": [
+      "志士仁人",
+      "仁人义士"
+    ],
     "kind": "phrase",
     "frequency": 2,
-    "variants": [
-      "志士仁人"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1091,6 +1101,9 @@
     "id": "miao-qu-heng-sheng",
     "text": "妙趣横生",
     "pinyin": "miào qù héng shēng",
+    "variants": [
+      "逸趣横生"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1137,11 +1150,11 @@
     "id": "da-hai-lao-zhen",
     "text": "大海捞针",
     "pinyin": "dà hǎi lāo zhēn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "海底捞针"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

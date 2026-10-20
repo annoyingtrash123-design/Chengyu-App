@@ -234,6 +234,9 @@
     "id": "xian-wai-zhi-yin",
     "text": "弦外之音",
     "pinyin": "xián wài zhī yīn",
+    "variants": [
+      "弦外之意"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -921,11 +924,11 @@
     "id": "ceng-luan-die-zhang",
     "text": "层峦叠嶂",
     "pinyin": "céng luán dié zhàng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "重峦叠嶂"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -1014,6 +1017,9 @@
     "id": "tui-san-zu-si",
     "text": "推三阻四",
     "pinyin": "tuī sān zǔ sì",
+    "variants": [
+      "推三推四"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1112,11 +1118,11 @@
     "id": "mei-qing-mu-xiu",
     "text": "眉清目秀",
     "pinyin": "méi qīng mù xiù",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "眉目清秀"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

@@ -92,6 +92,9 @@
     "id": "nian-hua-re-cao",
     "text": "拈花惹草",
     "pinyin": "niān huā rě cǎo",
+    "variants": [
+      "沾花惹草"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -138,11 +141,11 @@
     "id": "chi-li-pa-wai",
     "text": "吃里扒外",
     "pinyin": "chī lǐ pá wài",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "吃里爬外"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -456,6 +459,9 @@
     "id": "yu-qu-yu-qiu",
     "text": "予取予求",
     "pinyin": "yú qǔ yú qiú",
+    "variants": [
+      "予取予夺"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -596,11 +602,11 @@
     "id": "fang-hu-gui-shan",
     "text": "放虎归山",
     "pinyin": "fàng hǔ guī shān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "纵虎归山"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -689,6 +695,9 @@
     "id": "feng-su-ren-qing",
     "text": "风俗人情",
     "pinyin": "fēng sú rén qíng",
+    "variants": [
+      "风土人情"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",

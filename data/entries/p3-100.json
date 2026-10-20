@@ -148,6 +148,9 @@
     "id": "leng-ruo-bing-shuang",
     "text": "冷若冰霜",
     "pinyin": "lěng ruò bīng shuāng",
+    "variants": [
+      "凛若冰霜"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -572,11 +575,11 @@
     "id": "xi-cong-tian-jiang",
     "text": "喜从天降",
     "pinyin": "xǐ cóng tiān jiàng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "福从天降"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -676,6 +679,9 @@
     "id": "hua-li-you-hua",
     "text": "话里有话",
     "pinyin": "huà lǐ yǒu huà",
+    "variants": [
+      "话中有话"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

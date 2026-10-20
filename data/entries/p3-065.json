@@ -47,6 +47,10 @@
     "id": "zheng-qiang-hao-sheng",
     "text": "争强好胜",
     "pinyin": "zhēng qiáng hào shèng",
+    "variants": [
+      "争强斗胜",
+      "逞强好胜"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -144,6 +148,9 @@
     "id": "ling-qiao-sui-da",
     "text": "零敲碎打",
     "pinyin": "líng qiāo suì dǎ",
+    "variants": [
+      "零打碎敲"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -700,6 +707,9 @@
     "id": "gan-jin-sha-jue",
     "text": "赶尽杀绝",
     "pinyin": "gǎn jìn shā jué",
+    "variants": [
+      "斩尽杀绝"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -790,6 +800,9 @@
     "id": "ju-shi-wu-shuang",
     "text": "举世无双",
     "pinyin": "jǔ shì wú shuāng",
+    "variants": [
+      "盖世无双"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

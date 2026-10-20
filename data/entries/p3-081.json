@@ -3,11 +3,11 @@
     "id": "da-yu-ru-zhu",
     "text": "大雨如注",
     "pinyin": "dà yǔ rú zhù",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "暴雨如注"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -735,11 +735,12 @@
     "id": "liang-chen-ji-ri",
     "text": "良辰吉日",
     "pinyin": "liáng chén jí rì",
+    "variants": [
+      "吉日良辰",
+      "吉日良时"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "吉日良辰"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -832,11 +833,11 @@
     "id": "jiang-fa-fen-ming",
     "text": "奖罚分明",
     "pinyin": "jiǎng fá fēn míng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "赏罚分明"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

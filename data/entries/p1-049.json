@@ -536,11 +536,12 @@
     "id": "mo-chu-cheng-zhen",
     "text": "磨杵成针",
     "pinyin": "mó chǔ chéng zhēn",
+    "variants": [
+      "铁杵磨成针",
+      "铁杵成针"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "铁杵磨成针"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -696,6 +697,9 @@
     "id": "nan-yu-deng-tian",
     "text": "难于登天",
     "pinyin": "nán yú dēng tiān",
+    "variants": [
+      "难如登天"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -738,7 +742,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "难如登天",
       "比登天还难",
       "寸步难行"
     ],

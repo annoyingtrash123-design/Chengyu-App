@@ -410,11 +410,11 @@
     "id": "yan-gui-zheng-zhuan",
     "text": "言归正传",
     "pinyin": "yán guī zhèng zhuàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "书归正传"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -689,6 +689,9 @@
     "id": "yang-chang-xiao-dao",
     "text": "羊肠小道",
     "pinyin": "yáng cháng xiǎo dào",
+    "variants": [
+      "羊肠小径"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

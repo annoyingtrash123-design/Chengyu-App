@@ -476,7 +476,9 @@
     "text": "数不胜数",
     "pinyin": "shǔ bù shèng shǔ",
     "variants": [
-      "不可胜数"
+      "不可胜数",
+      "不可胜计",
+      "多不胜数"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -571,6 +573,9 @@
     "id": "shang-xin-yue-mu",
     "text": "赏心悦目",
     "pinyin": "shǎng xīn yuè mù",
+    "variants": [
+      "爽心悦目"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -675,6 +680,9 @@
     "id": "shou-zu-wu-cuo",
     "text": "手足无措",
     "pinyin": "shǒu zú wú cuò",
+    "variants": [
+      "手足失措"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1124,6 +1132,9 @@
     "id": "qian-li-tiao-tiao",
     "text": "千里迢迢",
     "pinyin": "qiān lǐ tiáo tiáo",
+    "variants": [
+      "万里迢迢"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1169,6 +1180,9 @@
     "id": "rong-hui-guan-tong",
     "text": "融会贯通",
     "pinyin": "róng huì guàn tōng",
+    "variants": [
+      "融汇贯通"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

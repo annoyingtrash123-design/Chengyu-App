@@ -467,6 +467,9 @@
     "id": "bai-yi-bai-shun",
     "text": "百依百顺",
     "pinyin": "bǎi yī bǎi shùn",
+    "variants": [
+      "千依百顺"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -614,6 +617,9 @@
     "id": "zhuo-er-bu-qun",
     "text": "卓尔不群",
     "pinyin": "zhuó ěr bù qún",
+    "variants": [
+      "卓然不群"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -1126,11 +1132,11 @@
     "id": "chong-ru-bu-jing",
     "text": "宠辱不惊",
     "pinyin": "chǒng rǔ bù jīng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "荣辱不惊"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

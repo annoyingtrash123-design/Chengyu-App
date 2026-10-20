@@ -665,6 +665,9 @@
     "id": "niao-yu-hua-xiang",
     "text": "鸟语花香",
     "pinyin": "niǎo yǔ huā xiāng",
+    "variants": [
+      "花香鸟语"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -714,6 +717,9 @@
     "id": "feng-chen-pu-pu",
     "text": "风尘仆仆",
     "pinyin": "fēng chén pú pú",
+    "variants": [
+      "仆仆风尘"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -817,6 +823,9 @@
     "id": "zhang-deng-jie-cai",
     "text": "张灯结彩",
     "pinyin": "zhāng dēng jié cǎi",
+    "variants": [
+      "悬灯结彩"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1117,7 +1126,8 @@
     "pinyin": "dú jù jiàng xīn",
     "variants": [
       "匠心独具",
-      "别具匠心"
+      "别具匠心",
+      "独运匠心"
     ],
     "kind": "chengyu",
     "frequency": 2,

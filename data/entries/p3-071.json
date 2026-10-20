@@ -561,6 +561,9 @@
     "id": "chu-yu-ni-er-bu-ran",
     "text": "出淤泥而不染",
     "pinyin": "chū yū ní ér bù rǎn",
+    "variants": [
+      "出污泥而不染"
+    ],
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -932,6 +935,9 @@
     "id": "zhong-zhen-bu-yu",
     "text": "忠贞不渝",
     "pinyin": "zhōng zhēn bù yú",
+    "variants": [
+      "坚贞不渝"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -977,11 +983,11 @@
     "id": "xin-ci-shou-ruan",
     "text": "心慈手软",
     "pinyin": "xīn cí shǒu ruǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "心慈面软"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1025,6 +1031,9 @@
     "id": "ming-man-tian-xia",
     "text": "名满天下",
     "pinyin": "míng mǎn tiān xià",
+    "variants": [
+      "誉满天下"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

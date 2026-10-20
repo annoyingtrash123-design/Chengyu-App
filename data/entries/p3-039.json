@@ -419,6 +419,9 @@
     "id": "deng-tang-ru-shi",
     "text": "登堂入室",
     "pinyin": "dēng táng rù shì",
+    "variants": [
+      "升堂入室"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -834,11 +837,11 @@
     "id": "hou-huan-wu-qiong",
     "text": "后患无穷",
     "pinyin": "hòu huàn wú qióng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "遗患无穷"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -882,6 +885,9 @@
     "id": "du-lai-du-wang",
     "text": "独来独往",
     "pinyin": "dú lái dú wǎng",
+    "variants": [
+      "独往独来"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1024,6 +1030,9 @@
     "id": "pang-zheng-bo-yin",
     "text": "旁征博引",
     "pinyin": "páng zhēng bó yǐn",
+    "variants": [
+      "广征博引"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

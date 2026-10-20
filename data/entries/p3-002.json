@@ -51,6 +51,9 @@
     "id": "qing-che-jian-cong",
     "text": "轻车简从",
     "pinyin": "qīng chē jiǎn cóng",
+    "variants": [
+      "轻装简从"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -191,6 +194,9 @@
     "id": "yin-xing-mai-ming",
     "text": "隐姓埋名",
     "pinyin": "yǐn xìng mái míng",
+    "variants": [
+      "隐名埋姓"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -234,11 +240,11 @@
     "id": "fen-fen-bu-ping",
     "text": "愤愤不平",
     "pinyin": "fèn fèn bù píng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "忿忿不平"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -434,11 +440,11 @@
     "id": "shi-guo-jing-qian",
     "text": "时过境迁",
     "pinyin": "shí guò jìng qiān",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "事过境迁"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

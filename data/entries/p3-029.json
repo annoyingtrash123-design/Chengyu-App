@@ -231,11 +231,11 @@
     "id": "zhao-ling-xi-gai",
     "text": "朝令夕改",
     "pinyin": "zhāo lìng xī gǎi",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "朝令暮改"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -288,6 +288,9 @@
     "id": "gai-xian-geng-zhang",
     "text": "改弦更张",
     "pinyin": "gǎi xián gēng zhāng",
+    "variants": [
+      "改弦易张"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -565,11 +568,11 @@
     "id": "wan-mei-wu-que",
     "text": "完美无缺",
     "pinyin": "wán měi wú quē",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "完美无瑕"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1005,6 +1008,9 @@
     "id": "pao-tou-lu-mian",
     "text": "抛头露面",
     "pinyin": "pāo tóu lù miàn",
+    "variants": [
+      "出头露面"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

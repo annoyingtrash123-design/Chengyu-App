@@ -199,11 +199,11 @@
     "id": "wu-wang-bu-sheng",
     "text": "无往不胜",
     "pinyin": "wú wǎng bù shèng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "无往不利"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -293,11 +293,11 @@
     "id": "bai-xing-er-gui",
     "text": "败兴而归",
     "pinyin": "bài xìng ér guī",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "扫兴而归"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -341,6 +341,9 @@
     "id": "hun-bu-shou-she",
     "text": "魂不守舍",
     "pinyin": "hún bù shǒu shè",
+    "variants": [
+      "神不守舍"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -432,11 +435,11 @@
     "id": "cheng-qi-bu-bei",
     "text": "乘其不备",
     "pinyin": "chéng qí bù bèi",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "攻其不备"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -575,6 +578,9 @@
     "id": "sheng-mi-zhu-cheng-shu-fan",
     "text": "生米煮成熟饭",
     "pinyin": "shēng mǐ zhǔ chéng shú fàn",
+    "variants": [
+      "生米做成熟饭"
+    ],
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -809,11 +815,12 @@
     "id": "shi-feng-qi-shi",
     "text": "适逢其时",
     "pinyin": "shì féng qí shí",
+    "variants": [
+      "恰逢其时",
+      "适逢其会"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "恰逢其时"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [

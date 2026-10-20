@@ -141,11 +141,11 @@
     "id": "xiang-xiao-yu-yun",
     "text": "香消玉殒",
     "pinyin": "xiāng xiāo yù yǔn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "香消玉损"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -922,6 +922,9 @@
     "id": "qiong-she-ji-yu",
     "text": "穷奢极欲",
     "pinyin": "qióng shē jí yù",
+    "variants": [
+      "穷奢极侈"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

@@ -103,6 +103,9 @@
     "id": "an-pin-le-dao",
     "text": "安贫乐道",
     "pinyin": "ān pín lè dào",
+    "variants": [
+      "乐道安贫"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -217,6 +220,9 @@
     "id": "hui-guang-fan-zhao",
     "text": "回光返照",
     "pinyin": "huí guāng fǎn zhào",
+    "variants": [
+      "回光反照"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -319,6 +325,9 @@
     "id": "wei-ming-shi-cong",
     "text": "唯命是从",
     "pinyin": "wéi mìng shì cóng",
+    "variants": [
+      "惟命是从"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -369,7 +378,9 @@
     "text": "无精打采",
     "pinyin": "wú jīng dǎ cǎi",
     "variants": [
-      "没精打采"
+      "没精打采",
+      "无精打彩",
+      "没精打彩"
     ],
     "kind": "chengyu",
     "frequency": 2,

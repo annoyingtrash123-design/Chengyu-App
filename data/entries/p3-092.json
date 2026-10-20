@@ -771,11 +771,11 @@
     "id": "han-qing-mo-mo",
     "text": "含情脉脉",
     "pinyin": "hán qíng mò mò",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "脉脉含情"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -822,6 +822,9 @@
     "id": "chang-ran-ruo-shi",
     "text": "怅然若失",
     "pinyin": "chàng rán ruò shī",
+    "variants": [
+      "惘然若失"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1022,6 +1025,9 @@
     "id": "gan-zhi-ru-yi",
     "text": "甘之如饴",
     "pinyin": "gān zhī rú yí",
+    "variants": [
+      "甘之若饴"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

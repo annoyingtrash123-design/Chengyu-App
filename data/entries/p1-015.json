@@ -99,6 +99,9 @@
     "id": "quan-jun-fu-mo",
     "text": "全军覆没",
     "pinyin": "quán jūn fù mò",
+    "variants": [
+      "全军覆灭"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -205,6 +208,10 @@
     "id": "chen-re-da-tie",
     "text": "趁热打铁",
     "pinyin": "chèn rè dǎ tiě",
+    "variants": [
+      "乘热打铁",
+      "打铁趁热"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -493,6 +500,9 @@
     "id": "wen-wen-er-ya",
     "text": "温文尔雅",
     "pinyin": "wēn wén ěr yǎ",
+    "variants": [
+      "温文儒雅"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

@@ -142,11 +142,11 @@
     "id": "ke-si-ta-xiang",
     "text": "客死他乡",
     "pinyin": "kè sǐ tā xiāng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "客死异乡"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1020,6 +1020,9 @@
     "id": "wei-suo-bu-qian",
     "text": "畏缩不前",
     "pinyin": "wèi suō bù qián",
+    "variants": [
+      "畏葸不前"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

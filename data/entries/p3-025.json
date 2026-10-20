@@ -96,6 +96,9 @@
     "id": "ren-cai-liang-kong",
     "text": "人财两空",
     "pinyin": "rén cái liǎng kōng",
+    "variants": [
+      "人财两失"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -358,11 +361,11 @@
     "id": "qian-yan-wan-yu",
     "text": "千言万语",
     "pinyin": "qiān yán wàn yǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "万语千言"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -759,11 +762,11 @@
     "id": "cang-wu-na-gou",
     "text": "藏污纳垢",
     "pinyin": "cáng wū nà gòu",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "藏垢纳污"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -847,11 +850,11 @@
     "id": "bu-fen-qing-hong-zao-bai",
     "text": "不分青红皂白",
     "pinyin": "bù fēn qīng hóng zào bái",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "不问青红皂白"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -894,11 +897,11 @@
     "id": "tian-you-bu-ce-feng-yun",
     "text": "天有不测风云",
     "pinyin": "tiān yǒu bù cè fēng yún",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "天有不测风云，人有旦夕祸福"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

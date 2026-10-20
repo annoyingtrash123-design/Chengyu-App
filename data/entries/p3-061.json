@@ -92,11 +92,11 @@
     "id": "da-zhan-hong-tu",
     "text": "大展宏图",
     "pinyin": "dà zhǎn hóng tú",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "大展鸿图"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -274,6 +274,9 @@
     "id": "chui-xiong-dun-zu",
     "text": "捶胸顿足",
     "pinyin": "chuí xiōng dùn zú",
+    "variants": [
+      "顿足捶胸"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -631,6 +634,9 @@
     "id": "bi-shi-jiu-xu",
     "text": "避实就虚",
     "pinyin": "bì shí jiù xū",
+    "variants": [
+      "避实击虚"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -763,11 +769,12 @@
     "id": "ku-si-ming-xiang",
     "text": "苦思冥想",
     "pinyin": "kǔ sī míng xiǎng",
+    "variants": [
+      "冥思苦想",
+      "焦思苦想"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "冥思苦想"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

@@ -3,6 +3,9 @@
     "id": "qing-feng-ming-yue",
     "text": "清风明月",
     "pinyin": "qīng fēng míng yuè",
+    "variants": [
+      "清风朗月"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -250,11 +253,11 @@
     "id": "ning-wei-yu-sui",
     "text": "宁为玉碎",
     "pinyin": "nìng wéi yù suì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "宁为玉碎，不为瓦全"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -405,6 +408,9 @@
     "id": "kua-fu-zhu-ri",
     "text": "夸父逐日",
     "pinyin": "kuā fù zhú rì",
+    "variants": [
+      "夸父追日"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

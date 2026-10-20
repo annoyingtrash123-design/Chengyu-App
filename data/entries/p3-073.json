@@ -3,6 +3,9 @@
     "id": "jing-zhong-bao-guo",
     "text": "精忠报国",
     "pinyin": "jīng zhōng bào guó",
+    "variants": [
+      "尽忠报国"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -197,6 +200,9 @@
     "id": "teng-yun-jia-wu",
     "text": "腾云驾雾",
     "pinyin": "téng yún jià wù",
+    "variants": [
+      "驾雾腾云"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -739,11 +745,11 @@
     "id": "jie-jiu-jiao-chou",
     "text": "借酒浇愁",
     "pinyin": "jiè jiǔ jiāo chóu",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "借酒消愁"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -887,6 +893,9 @@
     "id": "zhuang-qiang-zuo-shi",
     "text": "装腔作势",
     "pinyin": "zhuāng qiāng zuò shì",
+    "variants": [
+      "拿腔作势"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

@@ -139,6 +139,9 @@
     "id": "yi-zhi-qian-jin",
     "text": "一掷千金",
     "pinyin": "yī zhì qiān jīn",
+    "variants": [
+      "千金一掷"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -229,11 +232,11 @@
     "id": "hui-han-ru-yu",
     "text": "挥汗如雨",
     "pinyin": "huī hàn rú yǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "挥汗成雨"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -327,11 +330,11 @@
     "id": "seng-duo-zhou-shao",
     "text": "僧多粥少",
     "pinyin": "sēng duō zhōu shǎo",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "粥少僧多"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -527,6 +530,9 @@
     "id": "xin-xi-ruo-kuang",
     "text": "欣喜若狂",
     "pinyin": "xīn xǐ ruò kuáng",
+    "variants": [
+      "惊喜若狂"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -844,6 +850,9 @@
     "id": "xi-xiao-yan-kai",
     "text": "喜笑颜开",
     "pinyin": "xǐ xiào yán kāi",
+    "variants": [
+      "喜逐颜开"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

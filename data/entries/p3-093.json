@@ -656,11 +656,11 @@
     "id": "yue-hei-feng-gao",
     "text": "月黑风高",
     "pinyin": "yuè hēi fēng gāo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "夜黑风高"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -708,11 +708,11 @@
     "id": "que-yi-shao-shi",
     "text": "缺衣少食",
     "pinyin": "quē yī shǎo shí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "缺衣短食"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -916,11 +916,11 @@
     "id": "huan-xi-yuan-jia",
     "text": "欢喜冤家",
     "pinyin": "huān xǐ yuān jiā",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "喜欢冤家"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -968,6 +968,9 @@
     "id": "ru-qi-ru-su",
     "text": "如泣如诉",
     "pinyin": "rú qì rú sù",
+    "variants": [
+      "如诉如泣"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

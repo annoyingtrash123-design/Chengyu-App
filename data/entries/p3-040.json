@@ -281,6 +281,10 @@
     "id": "duan-bi-can-yuan",
     "text": "断壁残垣",
     "pinyin": "duàn bì cán yuán",
+    "variants": [
+      "断垣残壁",
+      "残垣断壁"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -433,6 +437,9 @@
     "id": "dong-liang-zhi-cai",
     "text": "栋梁之才",
     "pinyin": "dòng liáng zhī cái",
+    "variants": [
+      "栋梁之材"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -901,6 +908,9 @@
     "id": "e-yi-zhong-shang",
     "text": "恶意中伤",
     "pinyin": "è yì zhòng shāng",
+    "variants": [
+      "恶语中伤"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "negative",

@@ -3,6 +3,9 @@
     "id": "ying-fu-zi-ru",
     "text": "应付自如",
     "pinyin": "yìng fù zì rú",
+    "variants": [
+      "应付裕如"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -279,11 +282,11 @@
     "id": "qin-shi-bu-an",
     "text": "寝食不安",
     "pinyin": "qǐn shí bù ān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "寝食难安"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -478,6 +481,10 @@
     "id": "lian-xiang-xi-yu",
     "text": "怜香惜玉",
     "pinyin": "lián xiāng xī yù",
+    "variants": [
+      "惜玉怜香",
+      "惜香怜玉"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -711,6 +718,9 @@
     "id": "ming-luo-kai-dao",
     "text": "鸣锣开道",
     "pinyin": "míng luó kāi dào",
+    "variants": [
+      "鸣锣喝道"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -900,11 +910,11 @@
     "id": "chen-zhong-mu-gu",
     "text": "晨钟暮鼓",
     "pinyin": "chén zhōng mù gǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "暮鼓晨钟"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

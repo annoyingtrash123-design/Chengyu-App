@@ -3,6 +3,9 @@
     "id": "jie-fu-ji-pin",
     "text": "劫富济贫",
     "pinyin": "jié fù jì pín",
+    "variants": [
+      "打富济贫"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -48,6 +51,9 @@
     "id": "cha-yan-guan-se",
     "text": "察言观色",
     "pinyin": "chá yán guān sè",
+    "variants": [
+      "察颜观色"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -273,11 +279,11 @@
     "id": "hun-qian-meng-ying",
     "text": "魂牵梦萦",
     "pinyin": "hún qiān mèng yíng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "魂牵梦绕"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -680,11 +686,11 @@
     "id": "ji-bu-ke-nai",
     "text": "急不可耐",
     "pinyin": "jí bù kě nài",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "急不可待"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -728,11 +734,11 @@
     "id": "bu-ci-lao-ku",
     "text": "不辞劳苦",
     "pinyin": "bù cí láo kǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "不辞辛劳"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -866,11 +872,11 @@
     "id": "bao-jing-cang-sang",
     "text": "饱经沧桑",
     "pinyin": "bǎo jīng cāng sāng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "历经沧桑"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -959,11 +965,11 @@
     "id": "gou-xin-dou-jiao",
     "text": "勾心斗角",
     "pinyin": "gōu xīn dòu jiǎo",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "钩心斗角"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

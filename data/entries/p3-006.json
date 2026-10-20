@@ -335,6 +335,9 @@
     "id": "tong-qiang-tie-bi",
     "text": "铜墙铁壁",
     "pinyin": "tóng qiáng tiě bì",
+    "variants": [
+      "铁壁铜墙"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -523,11 +526,11 @@
     "id": "zhui-hui-mo-ji",
     "text": "追悔莫及",
     "pinyin": "zhuī huǐ mò jí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "后悔莫及"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -705,11 +708,11 @@
     "id": "heng-chong-zhi-zhuang",
     "text": "横冲直撞",
     "pinyin": "héng chōng zhí zhuàng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "横冲直闯"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -852,6 +855,9 @@
     "id": "zheng-qi-dou-yan",
     "text": "争奇斗艳",
     "pinyin": "zhēng qí dòu yàn",
+    "variants": [
+      "争妍斗艳"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

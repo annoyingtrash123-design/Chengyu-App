@@ -463,6 +463,9 @@
     "id": "bi-qing-lian-zhong",
     "text": "鼻青脸肿",
     "pinyin": "bí qīng liǎn zhǒng",
+    "variants": [
+      "鼻青眼肿"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -645,11 +648,11 @@
     "id": "ge-ge-ji-po",
     "text": "各个击破",
     "pinyin": "gè gè jī pò",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "逐个击破"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -784,11 +787,11 @@
     "id": "luan-zuo-yi-tuan",
     "text": "乱作一团",
     "pinyin": "luàn zuò yī tuán",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "乱成一团"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -967,6 +970,9 @@
     "id": "ming-zhong-zhu-ding",
     "text": "命中注定",
     "pinyin": "mìng zhōng zhù dìng",
+    "variants": [
+      "命里注定"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

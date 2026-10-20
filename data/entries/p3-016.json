@@ -54,6 +54,9 @@
     "id": "ru-fa-pao-zhi",
     "text": "如法炮制",
     "pinyin": "rú fǎ páo zhì",
+    "variants": [
+      "依法炮制"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -105,11 +108,11 @@
     "id": "yuan-tou-huo-shui",
     "text": "源头活水",
     "pinyin": "yuán tóu huó shuǐ",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "活水源头"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -326,6 +329,10 @@
     "id": "yi-yu-zhong-di",
     "text": "一语中的",
     "pinyin": "yī yǔ zhòng dì",
+    "variants": [
+      "一言中的",
+      "一语破的"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -377,11 +384,11 @@
     "id": "da-kuai-ren-xin",
     "text": "大快人心",
     "pinyin": "dà kuài rén xīn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "人心大快"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1013,6 +1020,9 @@
     "id": "lian-lian-bu-she",
     "text": "恋恋不舍",
     "pinyin": "liàn liàn bù shě",
+    "variants": [
+      "留恋不舍"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

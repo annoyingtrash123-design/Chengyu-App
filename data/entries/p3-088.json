@@ -48,11 +48,11 @@
     "id": "yi-lao-mai-lao",
     "text": "倚老卖老",
     "pinyin": "yǐ lǎo mài lǎo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "以老卖老"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -453,11 +453,11 @@
     "id": "man-yuan-chun-se",
     "text": "满园春色",
     "pinyin": "mǎn yuán chūn sè",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "春色满园"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -501,6 +501,9 @@
     "id": "zhen-ming-tian-zi",
     "text": "真命天子",
     "pinyin": "zhēn mìng tiān zǐ",
+    "variants": [
+      "真龙天子"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",

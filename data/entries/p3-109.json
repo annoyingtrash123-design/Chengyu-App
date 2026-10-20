@@ -250,6 +250,9 @@
     "id": "ao-ran-ting-li",
     "text": "傲然挺立",
     "pinyin": "ào rán tǐng lì",
+    "variants": [
+      "傲然屹立"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -646,6 +649,9 @@
     "id": "bi-lei-sen-yan",
     "text": "壁垒森严",
     "pinyin": "bì lěi sēn yán",
+    "variants": [
+      "森严壁垒"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -741,11 +747,11 @@
     "id": "xian-feng-dao-gu",
     "text": "仙风道骨",
     "pinyin": "xiān fēng dào gǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "道骨仙风"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -892,11 +898,11 @@
     "id": "qian-hui-bai-zhuan",
     "text": "千回百转",
     "pinyin": "qiān huí bǎi zhuǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "百转千回"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -944,11 +950,11 @@
     "id": "qi-feng-leng-yu",
     "text": "凄风冷雨",
     "pinyin": "qī fēng lěng yǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "凄风苦雨"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [

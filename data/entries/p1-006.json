@@ -201,6 +201,9 @@
     "id": "zhan-lu-tou-jiao",
     "text": "崭露头角",
     "pinyin": "zhǎn lù tóu jiǎo",
+    "variants": [
+      "显露头角"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -256,6 +259,9 @@
     "id": "xin-zhong-you-shu",
     "text": "心中有数",
     "pinyin": "xīn zhōng yǒu shù",
+    "variants": [
+      "胸中有数"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -291,7 +297,6 @@
     },
     "synonyms": [
       "胸有成竹",
-      "成竹在胸",
       "了如指掌"
     ],
     "antonyms": [
@@ -896,6 +901,9 @@
     "id": "qu-chang-bu-duan",
     "text": "取长补短",
     "pinyin": "qǔ cháng bǔ duǎn",
+    "variants": [
+      "截长补短"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",

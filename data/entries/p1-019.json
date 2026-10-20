@@ -663,6 +663,9 @@
     "id": "deng-hong-jiu-lu",
     "text": "灯红酒绿",
     "pinyin": "dēng hóng jiǔ lǜ",
+    "variants": [
+      "酒绿灯红"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -760,6 +763,9 @@
     "id": "shan-shuo-qi-ci",
     "text": "闪烁其词",
     "pinyin": "shǎn shuò qí cí",
+    "variants": [
+      "闪烁其辞"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -810,7 +816,8 @@
     "text": "风餐露宿",
     "pinyin": "fēng cān lù sù",
     "variants": [
-      "餐风宿露"
+      "餐风宿露",
+      "餐风饮露"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -1217,6 +1224,9 @@
     "id": "pai-shan-dao-hai",
     "text": "排山倒海",
     "pinyin": "pái shān dǎo hǎi",
+    "variants": [
+      "移山倒海"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

@@ -569,6 +569,9 @@
     "id": "jie-tan-xiang-yi",
     "text": "街谈巷议",
     "pinyin": "jiē tán xiàng yì",
+    "variants": [
+      "街头巷议"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -655,11 +658,11 @@
     "id": "bi-lu-lan-lu",
     "text": "筚路蓝缕",
     "pinyin": "bì lù lán lǚ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "荜路蓝缕"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -712,11 +715,11 @@
     "id": "zi-zuo-zhu-zhang",
     "text": "自作主张",
     "pinyin": "zì zuò zhǔ zhāng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "擅作主张"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -902,6 +905,9 @@
     "id": "jiu-zu-fan-bao",
     "text": "酒足饭饱",
     "pinyin": "jiǔ zú fàn bǎo",
+    "variants": [
+      "酒醉饭饱"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1041,6 +1047,9 @@
     "id": "tou-yun-mu-xuan",
     "text": "头晕目眩",
     "pinyin": "tóu yūn mù xuàn",
+    "variants": [
+      "头昏目眩"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

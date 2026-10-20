@@ -48,11 +48,11 @@
     "id": "hai-shi-shan-meng",
     "text": "海誓山盟",
     "pinyin": "hǎi shì shān méng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "山盟海誓"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -184,11 +184,11 @@
     "id": "yi-tong-tian-xia",
     "text": "一统天下",
     "pinyin": "yī tǒng tiān xià",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "一统江山"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -373,11 +373,11 @@
     "id": "zhuan-yan-zhi-jian",
     "text": "转眼之间",
     "pinyin": "zhuǎn yǎn zhī jiān",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "转瞬之间"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -466,11 +466,11 @@
     "id": "ru-jiao-si-qi",
     "text": "如胶似漆",
     "pinyin": "rú jiāo sì qī",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "如漆似胶"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -554,11 +554,11 @@
     "id": "zi-ya-lie-zui",
     "text": "龇牙咧嘴",
     "pinyin": "zī yá liě zuǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "呲牙咧嘴"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -692,6 +692,9 @@
     "id": "ji-fei-gou-tiao",
     "text": "鸡飞狗跳",
     "pinyin": "jī fēi gǒu tiào",
+    "variants": [
+      "鸡飞狗走"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -781,6 +784,9 @@
     "id": "huan-sheng-lei-dong",
     "text": "欢声雷动",
     "pinyin": "huān shēng léi dòng",
+    "variants": [
+      "欢呼雷动"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

@@ -187,11 +187,11 @@
     "id": "chi-li-bu-tao-hao",
     "text": "吃力不讨好",
     "pinyin": "chī lì bù tǎo hǎo",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "费力不讨好"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -235,11 +235,11 @@
     "id": "dang-qi-hui-chang",
     "text": "荡气回肠",
     "pinyin": "dàng qì huí cháng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "回肠荡气"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -289,6 +289,9 @@
     "id": "cheng-xin-cheng-yi",
     "text": "诚心诚意",
     "pinyin": "chéng xīn chéng yì",
+    "variants": [
+      "诚心实意"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -796,6 +799,9 @@
     "id": "bai-fei-dai-xing",
     "text": "百废待兴",
     "pinyin": "bǎi fèi dài xīng",
+    "variants": [
+      "百废待举"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

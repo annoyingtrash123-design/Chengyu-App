@@ -3,6 +3,9 @@
     "id": "zhan-cao-chu-gen",
     "text": "斩草除根",
     "pinyin": "zhǎn cǎo chú gēn",
+    "variants": [
+      "剪草除根"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -49,7 +52,8 @@
     "text": "过眼云烟",
     "pinyin": "guò yǎn yún yān",
     "variants": [
-      "过眼烟云"
+      "过眼烟云",
+      "烟云过眼"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -371,6 +375,9 @@
     "id": "suo-ran-wu-wei",
     "text": "索然无味",
     "pinyin": "suǒ rán wú wèi",
+    "variants": [
+      "索然寡味"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -918,6 +925,9 @@
     "id": "tu-zhi-mo-fen",
     "text": "涂脂抹粉",
     "pinyin": "tú zhī mǒ fěn",
+    "variants": [
+      "擦脂抹粉"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

@@ -47,6 +47,10 @@
     "id": "wu-bian-wu-ji",
     "text": "无边无际",
     "pinyin": "wú biān wú jì",
+    "variants": [
+      "无边无垠",
+      "无边无沿"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -145,11 +149,11 @@
     "id": "tian-chang-ri-jiu",
     "text": "天长日久",
     "pinyin": "tiān cháng rì jiǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "日久天长"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -422,6 +426,9 @@
     "id": "wu-ji-ke-cheng",
     "text": "无机可乘",
     "pinyin": "wú jī kě chéng",
+    "variants": [
+      "无隙可乘"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -466,6 +473,9 @@
     "id": "huang-dan-bu-jing",
     "text": "荒诞不经",
     "pinyin": "huāng dàn bù jīng",
+    "variants": [
+      "怪诞不经"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -690,6 +700,9 @@
     "id": "bai-hua-zheng-yan",
     "text": "百花争艳",
     "pinyin": "bǎi huā zhēng yàn",
+    "variants": [
+      "百花争妍"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -869,11 +882,11 @@
     "id": "diu-san-la-si",
     "text": "丢三落四",
     "pinyin": "diū sān là sì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "丢三拉四"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

@@ -3,6 +3,9 @@
     "id": "liao-ru-zhi-zhang",
     "text": "了如指掌",
     "pinyin": "liǎo rú zhǐ zhǎng",
+    "variants": [
+      "了若指掌"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -94,6 +97,9 @@
     "id": "xun-si-wang-fa",
     "text": "徇私枉法",
     "pinyin": "xùn sī wǎng fǎ",
+    "variants": [
+      "徇情枉法"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",
@@ -129,7 +135,6 @@
     },
     "synonyms": [
       "贪赃枉法",
-      "徇情枉法",
       "以权谋私"
     ],
     "antonyms": [
@@ -1032,7 +1037,8 @@
     "variants": [
       "真心诚意",
       "真情实意",
-      "真心真意"
+      "真心真意",
+      "实心实意"
     ],
     "kind": "chengyu",
     "frequency": 1,

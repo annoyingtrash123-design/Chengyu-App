@@ -48,12 +48,12 @@
     "id": "duan-jin-shao-liang",
     "text": "短斤少两",
     "pinyin": "duǎn jīn shǎo liǎng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "缺斤短两",
       "缺斤少两"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -346,6 +346,9 @@
     "id": "chen-zha-fan-qi",
     "text": "沉渣泛起",
     "pinyin": "chén zhā fàn qǐ",
+    "variants": [
+      "沉滓泛起"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -395,12 +398,12 @@
     "id": "zhi-ci-yi-jia",
     "text": "只此一家",
     "pinyin": "zhǐ cǐ yī jiā",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "独此一家",
       "只此一家，别无分号"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -740,11 +743,11 @@
     "id": "you-bai-hai-er-wu-yi-li",
     "text": "有百害而无一利",
     "pinyin": "yǒu bǎi hài ér wú yī lì",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "百害而无一利"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

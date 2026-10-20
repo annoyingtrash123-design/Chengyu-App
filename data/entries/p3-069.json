@@ -222,6 +222,9 @@
     "id": "huo-ji-huo-liao",
     "text": "火急火燎",
     "pinyin": "huǒ jí huǒ liǎo",
+    "variants": [
+      "火烧火燎"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -759,11 +762,11 @@
     "id": "fan-bai-wei-sheng",
     "text": "反败为胜",
     "pinyin": "fǎn bài wéi shèng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "转败为胜"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

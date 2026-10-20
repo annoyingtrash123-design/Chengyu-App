@@ -100,6 +100,9 @@
     "id": "gang-jin-tie-gu",
     "text": "钢筋铁骨",
     "pinyin": "gāng jīn tiě gǔ",
+    "variants": [
+      "铜筋铁骨"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -288,11 +291,12 @@
     "id": "xin-hun-yan-er",
     "text": "新婚燕尔",
     "pinyin": "xīn hūn yàn ěr",
+    "variants": [
+      "新婚宴尔",
+      "燕尔新婚"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "新婚宴尔"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -344,6 +348,9 @@
     "id": "ming-jin-shou-bing",
     "text": "鸣金收兵",
     "pinyin": "míng jīn shōu bīng",
+    "variants": [
+      "鸣金收军"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -568,11 +575,11 @@
     "id": "wu-yuan-fu-jie",
     "text": "无远弗届",
     "pinyin": "wú yuǎn fú jiè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "无远勿届"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

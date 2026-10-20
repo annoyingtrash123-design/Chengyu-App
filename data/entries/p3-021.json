@@ -3,11 +3,12 @@
     "id": "wen-ren-mo-ke",
     "text": "文人墨客",
     "pinyin": "wén rén mò kè",
+    "variants": [
+      "骚人墨客",
+      "墨客骚人"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "骚人墨客"
-    ],
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -182,11 +183,11 @@
     "id": "zhi-ming-dao-xing",
     "text": "指名道姓",
     "pinyin": "zhǐ míng dào xìng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "点名道姓"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -405,11 +406,11 @@
     "id": "yu-guo-tian-qing",
     "text": "雨过天晴",
     "pinyin": "yǔ guò tiān qíng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "雨过天青"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -501,11 +502,12 @@
     "id": "ji-zhuo-yang-qing",
     "text": "激浊扬清",
     "pinyin": "jī zhuó yáng qīng",
+    "variants": [
+      "扬清激浊",
+      "扬清抑浊"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "扬清激浊"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -636,11 +638,11 @@
     "id": "ren-xin-suo-xiang",
     "text": "人心所向",
     "pinyin": "rén xīn suǒ xiàng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "民心所向"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -683,6 +685,9 @@
     "id": "qi-ling-ba-luo",
     "text": "七零八落",
     "pinyin": "qī líng bā luò",
+    "variants": [
+      "七零八散"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -729,6 +734,9 @@
     "id": "cang-hai-sang-tian",
     "text": "沧海桑田",
     "pinyin": "cāng hǎi sāng tián",
+    "variants": [
+      "桑田沧海"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

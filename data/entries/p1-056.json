@@ -381,6 +381,9 @@
     "id": "cu-yi-e-shi",
     "text": "粗衣恶食",
     "pinyin": "cū yī è shí",
+    "variants": [
+      "粗衣粝食"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -790,11 +793,11 @@
     "id": "xin-xiong-xia-zhai",
     "text": "心胸狭窄",
     "pinyin": "xīn xiōng xiá zhǎi",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "心胸狭隘"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -838,12 +841,12 @@
     "id": "xiao-du-ji-chang",
     "text": "小肚鸡肠",
     "pinyin": "xiǎo dù jī cháng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "鼠肚鸡肠",
       "鸡肠狗肚"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -983,11 +986,11 @@
     "id": "shei-zhi-pan-zhong-can-li-li-jie-xin-ku",
     "text": "谁知盘中餐，粒粒皆辛苦",
     "pinyin": "shéi zhī pán zhōng cān, lì lì jiē xīn kǔ",
-    "kind": "mingju",
-    "frequency": 1,
     "variants": [
       "粒粒皆辛苦"
     ],
+    "kind": "mingju",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

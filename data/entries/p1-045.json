@@ -368,6 +368,9 @@
     "id": "hun-shen-shi-dan",
     "text": "浑身是胆",
     "pinyin": "hún shēn shì dǎn",
+    "variants": [
+      "一身是胆"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -426,6 +429,9 @@
     "id": "cun-cao-chun-hui",
     "text": "寸草春晖",
     "pinyin": "cùn cǎo chūn huī",
+    "variants": [
+      "春晖寸草"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -753,7 +759,10 @@
     "variants": [
       "寻根问底",
       "寻根究底",
-      "追根究底"
+      "追根究底",
+      "刨根究底",
+      "盘根问底",
+      "追根问底"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -951,7 +960,8 @@
     "pinyin": "shā jī jǐng hóu",
     "variants": [
       "杀鸡骇猴",
-      "杀鸡给猴看"
+      "杀鸡给猴看",
+      "杀鸡吓猴"
     ],
     "kind": "chengyu",
     "frequency": 3,

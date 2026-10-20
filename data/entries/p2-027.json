@@ -141,11 +141,11 @@
     "id": "hun-shui-mo-yu",
     "text": "浑水摸鱼",
     "pinyin": "hún shuǐ mō yú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "混水摸鱼"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -278,6 +278,9 @@
     "id": "qian-xin-wan-ku",
     "text": "千辛万苦",
     "pinyin": "qiān xīn wàn kǔ",
+    "variants": [
+      "千难万苦"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -324,6 +327,10 @@
     "id": "zhi-shou-hua-jiao",
     "text": "指手画脚",
     "pinyin": "zhǐ shǒu huà jiǎo",
+    "variants": [
+      "指手划脚",
+      "比手画脚"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -650,11 +657,11 @@
     "id": "zou-ma-guan-hua",
     "text": "走马观花",
     "pinyin": "zǒu mǎ guān huā",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "走马看花"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -932,6 +939,9 @@
     "id": "shi-zhi-jiao-bi",
     "text": "失之交臂",
     "pinyin": "shī zhī jiāo bì",
+    "variants": [
+      "交臂失之"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -985,6 +995,10 @@
     "id": "man-tian-yao-jia",
     "text": "漫天要价",
     "pinyin": "màn tiān yào jià",
+    "variants": [
+      "漫天叫价",
+      "漫天开价"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

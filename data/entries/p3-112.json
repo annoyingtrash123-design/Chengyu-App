@@ -3,6 +3,9 @@
     "id": "gou-xue-lin-tou",
     "text": "狗血淋头",
     "pinyin": "gǒu xuè lín tóu",
+    "variants": [
+      "狗血喷头"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -204,11 +207,11 @@
     "id": "jiao-ta-liang-zhi-chuan",
     "text": "脚踏两只船",
     "pinyin": "jiǎo tà liǎng zhī chuán",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "脚踩两只船"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

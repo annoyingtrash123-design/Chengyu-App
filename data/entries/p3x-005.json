@@ -463,11 +463,11 @@
     "id": "shi-zhe-sheng-cun",
     "text": "适者生存",
     "pinyin": "shì zhě shēng cún",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "物竞天择，适者生存"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "modern": "borrowed",
     "sentiment": "neutral",
     "register": "neutral",
@@ -621,6 +621,9 @@
     "id": "jia-cai-wan-guan",
     "text": "家财万贯",
     "pinyin": "jiā cái wàn guàn",
+    "variants": [
+      "万贯家财"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -766,6 +769,9 @@
     "id": "huo-guang-chong-tian",
     "text": "火光冲天",
     "pinyin": "huǒ guāng chōng tiān",
+    "variants": [
+      "火光烛天"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "negative",
@@ -1217,11 +1223,11 @@
     "id": "xiao-rong-man-mian",
     "text": "笑容满面",
     "pinyin": "xiào róng mǎn miàn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "满面笑容"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

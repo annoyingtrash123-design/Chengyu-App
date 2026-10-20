@@ -3,6 +3,9 @@
     "id": "mou-cai-hai-ming",
     "text": "谋财害命",
     "pinyin": "móu cái hài mìng",
+    "variants": [
+      "图财害命"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -378,11 +381,11 @@
     "id": "yi-shou-zhe-tian",
     "text": "一手遮天",
     "pinyin": "yī shǒu zhē tiān",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "只手遮天"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

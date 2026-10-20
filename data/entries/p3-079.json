@@ -236,11 +236,11 @@
     "id": "xin-fu-da-huan",
     "text": "心腹大患",
     "pinyin": "xīn fù dà huàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "心腹之患"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -373,6 +373,9 @@
     "id": "mi-tian-da-huang",
     "text": "弥天大谎",
     "pinyin": "mí tiān dà huǎng",
+    "variants": [
+      "漫天大谎"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -692,11 +695,12 @@
     "id": "shou-dao-qin-lai",
     "text": "手到擒来",
     "pinyin": "shǒu dào qín lái",
+    "variants": [
+      "手到拈来",
+      "手到拿来"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "手到拈来"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

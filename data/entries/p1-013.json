@@ -152,6 +152,9 @@
     "id": "cheng-feng-po-lang",
     "text": "乘风破浪",
     "pinyin": "chéng fēng pò làng",
+    "variants": [
+      "长风破浪"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -414,6 +417,9 @@
     "id": "qi-ren-you-tian",
     "text": "杞人忧天",
     "pinyin": "qǐ rén yōu tiān",
+    "variants": [
+      "杞人之忧"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -780,6 +786,9 @@
     "id": "qian-jun-yi-fa",
     "text": "千钧一发",
     "pinyin": "qiān jūn yī fà",
+    "variants": [
+      "一发千钧"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1039,7 +1048,9 @@
     "text": "摩肩接踵",
     "pinyin": "mó jiān jiē zhǒng",
     "variants": [
-      "比肩接踵"
+      "比肩接踵",
+      "摩肩擦踵",
+      "比肩继踵"
     ],
     "kind": "chengyu",
     "frequency": 2,

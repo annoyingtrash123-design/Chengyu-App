@@ -57,11 +57,12 @@
     "id": "shi-yi-shi-yi",
     "text": "时移世易",
     "pinyin": "shí yí shì yì",
+    "variants": [
+      "世易时移",
+      "时移势易"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "世易时移"
-    ],
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -384,6 +385,9 @@
     "id": "zhi-si-bu-yu",
     "text": "至死不渝",
     "pinyin": "zhì sǐ bù yú",
+    "variants": [
+      "至死不变"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -947,11 +951,12 @@
     "id": "you-an-ke-cha",
     "text": "有案可查",
     "pinyin": "yǒu àn kě chá",
+    "variants": [
+      "有据可查",
+      "有案可稽"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "有据可查"
-    ],
     "sentiment": "neutral",
     "register": "formal",
     "themes": [

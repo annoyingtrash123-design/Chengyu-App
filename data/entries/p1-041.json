@@ -107,11 +107,11 @@
     "id": "tian-chang-di-jiu",
     "text": "天长地久",
     "pinyin": "tiān cháng dì jiǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "地久天长"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -537,6 +537,9 @@
     "id": "shou-shu-liang-duan",
     "text": "首鼠两端",
     "pinyin": "shǒu shǔ liǎng duān",
+    "variants": [
+      "首尾两端"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -594,6 +597,9 @@
     "id": "tang-bi-dang-che",
     "text": "螳臂当车",
     "pinyin": "táng bì dāng chē",
+    "variants": [
+      "螳臂挡车"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -802,6 +808,9 @@
     "id": "ju-an-qi-mei",
     "text": "举案齐眉",
     "pinyin": "jǔ àn qí méi",
+    "variants": [
+      "齐眉举案"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -860,11 +869,11 @@
     "id": "tang-lang-bu-chan",
     "text": "螳螂捕蝉",
     "pinyin": "táng láng bǔ chán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "螳螂捕蝉，黄雀在后"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -916,6 +925,9 @@
     "id": "diu-kui-qi-jia",
     "text": "丢盔弃甲",
     "pinyin": "diū kuī qì jiǎ",
+    "variants": [
+      "丢盔卸甲"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1272,6 +1284,9 @@
     "id": "shi-bu-gan-wei",
     "text": "食不甘味",
     "pinyin": "shí bù gān wèi",
+    "variants": [
+      "食不知味"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

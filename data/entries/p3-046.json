@@ -3,6 +3,9 @@
     "id": "dao-guang-jian-ying",
     "text": "刀光剑影",
     "pinyin": "dāo guāng jiàn yǐng",
+    "variants": [
+      "刀光血影"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -184,6 +187,9 @@
     "id": "gai-ming-huan-xing",
     "text": "改名换姓",
     "pinyin": "gǎi míng huàn xìng",
+    "variants": [
+      "改名易姓"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -920,11 +926,11 @@
     "id": "dui-da-ru-liu",
     "text": "对答如流",
     "pinyin": "duì dá rú liú",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "应答如流"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

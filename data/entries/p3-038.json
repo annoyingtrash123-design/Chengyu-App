@@ -48,6 +48,9 @@
     "id": "zuo-zei-xin-xu",
     "text": "做贼心虚",
     "pinyin": "zuò zéi xīn xū",
+    "variants": [
+      "作贼心虚"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -414,6 +417,9 @@
     "id": "lao-diao-chong-tan",
     "text": "老调重弹",
     "pinyin": "lǎo diào chóng tán",
+    "variants": [
+      "旧调重弹"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -512,11 +518,11 @@
     "id": "yi-gu-nao-er",
     "text": "一股脑儿",
     "pinyin": "yī gǔ nǎo er",
-    "kind": "phrase",
-    "frequency": 2,
     "variants": [
       "一古脑儿"
     ],
+    "kind": "phrase",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -605,6 +611,9 @@
     "id": "duan-xiao-jing-han",
     "text": "短小精悍",
     "pinyin": "duǎn xiǎo jīng hàn",
+    "variants": [
+      "短小精干"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -697,6 +706,9 @@
     "id": "wu-guan-tong-yang",
     "text": "无关痛痒",
     "pinyin": "wú guān tòng yǎng",
+    "variants": [
+      "不关痛痒"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1103,6 +1115,9 @@
     "id": "hao-ru-yan-hai",
     "text": "浩如烟海",
     "pinyin": "hào rú yān hǎi",
+    "variants": [
+      "浩若烟海"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

@@ -48,11 +48,11 @@
     "id": "dao-geng-huo-zhong",
     "text": "刀耕火种",
     "pinyin": "dāo gēng huǒ zhòng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "刀耕火耨"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -95,6 +95,10 @@
     "id": "ming-chui-qing-shi",
     "text": "名垂青史",
     "pinyin": "míng chuí qīng shǐ",
+    "variants": [
+      "垂名青史",
+      "永垂青史"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -372,6 +376,9 @@
     "id": "duan-zi-jue-sun",
     "text": "断子绝孙",
     "pinyin": "duàn zǐ jué sūn",
+    "variants": [
+      "绝子绝孙"
+    ],
     "kind": "guanyongyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -506,6 +513,9 @@
     "id": "bu-zu-gua-chi",
     "text": "不足挂齿",
     "pinyin": "bù zú guà chǐ",
+    "variants": [
+      "何足挂齿"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -596,11 +606,11 @@
     "id": "bo-jue-yun-gui",
     "text": "波谲云诡",
     "pinyin": "bō jué yún guǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "云谲波诡"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -882,6 +892,10 @@
     "id": "fang-dang-bu-ji",
     "text": "放荡不羁",
     "pinyin": "fàng dàng bù jī",
+    "variants": [
+      "放浪不羁",
+      "放纵不羁"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

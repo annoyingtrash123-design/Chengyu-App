@@ -384,6 +384,9 @@
     "id": "wu-dong-yu-zhong",
     "text": "无动于衷",
     "pinyin": "wú dòng yú zhōng",
+    "variants": [
+      "无动于中"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",
@@ -528,6 +531,9 @@
     "id": "du-shu-yi-zhi",
     "text": "独树一帜",
     "pinyin": "dú shù yī zhì",
+    "variants": [
+      "别树一帜"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -627,7 +633,8 @@
     "text": "不足为奇",
     "pinyin": "bù zú wéi qí",
     "variants": [
-      "不足为怪"
+      "不足为怪",
+      "何足为奇"
     ],
     "kind": "chengyu",
     "frequency": 1,
@@ -870,7 +877,8 @@
     "text": "不省人事",
     "pinyin": "bù xǐng rén shì",
     "variants": [
-      "人事不省"
+      "人事不省",
+      "人事不知"
     ],
     "kind": "chengyu",
     "frequency": 1,
@@ -1138,6 +1146,9 @@
     "id": "jing-hun-wei-ding",
     "text": "惊魂未定",
     "pinyin": "jīng hún wèi dìng",
+    "variants": [
+      "惊魂不定"
+    ],
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",

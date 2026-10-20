@@ -164,6 +164,10 @@
     "id": "ye-shen-ren-jing",
     "text": "夜深人静",
     "pinyin": "yè shēn rén jìng",
+    "variants": [
+      "夜阑人静",
+      "更深人静"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -517,6 +521,9 @@
     "id": "wu-ying-wu-zong",
     "text": "无影无踪",
     "pinyin": "wú yǐng wú zōng",
+    "variants": [
+      "无踪无影"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -608,6 +615,9 @@
     "id": "zhong-xi-he-bi",
     "text": "中西合璧",
     "pinyin": "zhōng xī hé bì",
+    "variants": [
+      "中外合璧"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -973,11 +983,11 @@
     "id": "hao-tao-da-ku",
     "text": "嚎啕大哭",
     "pinyin": "háo táo dà kū",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "号啕大哭"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

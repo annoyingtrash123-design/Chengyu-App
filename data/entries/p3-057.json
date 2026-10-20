@@ -56,6 +56,9 @@
     "id": "an-fen-shou-ji",
     "text": "安分守己",
     "pinyin": "ān fèn shǒu jǐ",
+    "variants": [
+      "安份守己"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -102,6 +105,9 @@
     "id": "nan-nu-lao-shao",
     "text": "男女老少",
     "pinyin": "nán nǚ lǎo shào",
+    "variants": [
+      "男女老幼"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -144,6 +150,9 @@
     "id": "shou-shan-zhi-qu",
     "text": "首善之区",
     "pinyin": "shǒu shàn zhī qū",
+    "variants": [
+      "首善之地"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -382,11 +391,11 @@
     "id": "da-sha-feng-jing",
     "text": "大煞风景",
     "pinyin": "dà shā fēng jǐng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "大杀风景"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -788,6 +797,9 @@
     "id": "ji-ci-san-fan",
     "text": "几次三番",
     "pinyin": "jǐ cì sān fān",
+    "variants": [
+      "屡次三番"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -939,11 +951,11 @@
     "id": "can-lan-hui-huang",
     "text": "灿烂辉煌",
     "pinyin": "càn làn huī huáng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "辉煌灿烂"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

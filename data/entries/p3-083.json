@@ -48,11 +48,11 @@
     "id": "feng-zi-chuo-yue",
     "text": "风姿绰约",
     "pinyin": "fēng zī chuō yuē",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "丰姿绰约"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -739,12 +739,13 @@
     "id": "yi-hu-lu-hua-piao",
     "text": "依葫芦画瓢",
     "pinyin": "yī hú lu huà piáo",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "依样画葫芦",
-      "照葫芦画瓢"
+      "照葫芦画瓢",
+      "依样葫芦"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -969,6 +970,9 @@
     "id": "xi-pi-xiao-lian",
     "text": "嬉皮笑脸",
     "pinyin": "xī pí xiào liǎn",
+    "variants": [
+      "嘻皮笑脸"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

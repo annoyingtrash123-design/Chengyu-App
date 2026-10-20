@@ -396,6 +396,9 @@
     "id": "zhao-san-mu-si",
     "text": "朝三暮四",
     "pinyin": "zhāo sān mù sì",
+    "variants": [
+      "暮四朝三"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1151,6 +1154,10 @@
     "id": "kuan-hong-da-liang",
     "text": "宽宏大量",
     "pinyin": "kuān hóng dà liàng",
+    "variants": [
+      "宽宏大度",
+      "宽洪大量"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -1185,7 +1192,6 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "宽宏大度",
       "豁达大度",
       "以德报怨"
     ],

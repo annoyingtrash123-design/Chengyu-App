@@ -137,6 +137,9 @@
     "id": "tian-you-jia-cu",
     "text": "添油加醋",
     "pinyin": "tiān yóu jiā cù",
+    "variants": [
+      "加油添醋"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -319,11 +322,11 @@
     "id": "zuo-chi-shan-kong",
     "text": "坐吃山空",
     "pinyin": "zuò chī shān kōng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "坐吃山崩"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -457,6 +460,9 @@
     "id": "ru-geng-zai-hou",
     "text": "如鲠在喉",
     "pinyin": "rú gěng zài hóu",
+    "variants": [
+      "骨鲠在喉"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -726,11 +732,11 @@
     "id": "yun-dan-feng-qing",
     "text": "云淡风轻",
     "pinyin": "yún dàn fēng qīng",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "风轻云淡"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1007,11 +1013,11 @@
     "id": "man-qiang-re-chen",
     "text": "满腔热忱",
     "pinyin": "mǎn qiāng rè chén",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "满腔热情"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

@@ -57,11 +57,11 @@
     "id": "han-xin-ru-ku",
     "text": "含辛茹苦",
     "pinyin": "hán xīn rú kǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "茹苦含辛"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -153,6 +153,9 @@
     "id": "zhao-bing-mai-ma",
     "text": "招兵买马",
     "pinyin": "zhāo bīng mǎi mǎ",
+    "variants": [
+      "招军买马"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -251,6 +254,9 @@
     "id": "dan-jing-jie-lu",
     "text": "殚精竭虑",
     "pinyin": "dān jīng jié lǜ",
+    "variants": [
+      "殚精竭力"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -621,6 +627,9 @@
     "id": "men-xin-zi-wen",
     "text": "扪心自问",
     "pinyin": "mén xīn zì wèn",
+    "variants": [
+      "抚心自问"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -666,11 +675,11 @@
     "id": "yong-xin-liang-ku",
     "text": "用心良苦",
     "pinyin": "yòng xīn liáng kǔ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "良苦用心"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -803,6 +812,9 @@
     "id": "qian-zi-bai-tai",
     "text": "千姿百态",
     "pinyin": "qiān zī bǎi tài",
+    "variants": [
+      "千姿万态"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -941,11 +953,11 @@
     "id": "feng-mi-yi-shi",
     "text": "风靡一时",
     "pinyin": "fēng mǐ yī shí",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "风行一时"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1079,11 +1091,11 @@
     "id": "chun-qiang-she-jian",
     "text": "唇枪舌剑",
     "pinyin": "chún qiāng shé jiàn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "舌剑唇枪"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

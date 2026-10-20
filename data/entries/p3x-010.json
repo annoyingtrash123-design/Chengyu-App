@@ -394,11 +394,11 @@
     "id": "ren-tong-ci-xin",
     "text": "人同此心",
     "pinyin": "rén tóng cǐ xīn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "人同此心，心同此理"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -446,6 +446,10 @@
     "id": "yi-shi-yi-ke",
     "text": "一时一刻",
     "pinyin": "yī shí yī kè",
+    "variants": [
+      "一时三刻",
+      "一时半刻"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
@@ -691,11 +695,13 @@
     "id": "can-geng-sheng-fan",
     "text": "残羹剩饭",
     "pinyin": "cán gēng shèng fàn",
+    "variants": [
+      "残羹冷炙",
+      "残汤剩饭",
+      "残羹冷饭"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "残羹冷炙"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

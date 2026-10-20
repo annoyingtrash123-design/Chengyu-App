@@ -414,11 +414,11 @@
     "id": "jia-chou-bu-ke-wai-yang",
     "text": "家丑不可外扬",
     "pinyin": "jiā chǒu bù kě wài yáng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "家丑不外扬"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -928,11 +928,11 @@
     "id": "ji-e-ru-chou",
     "text": "嫉恶如仇",
     "pinyin": "jí è rú chóu",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "疾恶如仇"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1021,6 +1021,9 @@
     "id": "qi-shang-ba-xia",
     "text": "七上八下",
     "pinyin": "qī shàng bā xià",
+    "variants": [
+      "七上八落"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

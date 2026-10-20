@@ -185,11 +185,12 @@
     "id": "fu-wei-ji-kun",
     "text": "扶危济困",
     "pinyin": "fú wēi jì kùn",
+    "variants": [
+      "济困扶危",
+      "扶危救困"
+    ],
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "济困扶危"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -460,6 +461,9 @@
     "id": "fu-zhi-yi-ju",
     "text": "付之一炬",
     "pinyin": "fù zhī yī jù",
+    "variants": [
+      "付诸一炬"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -637,6 +641,9 @@
     "id": "tong-chou-di-kai",
     "text": "同仇敌忾",
     "pinyin": "tóng chóu dí kài",
+    "variants": [
+      "敌忾同仇"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -692,6 +699,9 @@
     "id": "hui-wei-wu-qiong",
     "text": "回味无穷",
     "pinyin": "huí wèi wú qióng",
+    "variants": [
+      "余味无穷"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

@@ -3,11 +3,11 @@
     "id": "jin-xiu-he-shan",
     "text": "锦绣河山",
     "pinyin": "jǐn xiù hé shān",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "锦绣山河"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -411,6 +411,9 @@
     "id": "ge-sha-wu-lun",
     "text": "格杀勿论",
     "pinyin": "gé shā wù lùn",
+    "variants": [
+      "格杀不论"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -455,11 +458,11 @@
     "id": "mo-ni-zhi-jiao",
     "text": "莫逆之交",
     "pinyin": "mò nì zhī jiāo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "莫逆之友"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -600,11 +603,11 @@
     "id": "bao-dao-wei-lao",
     "text": "宝刀未老",
     "pinyin": "bǎo dāo wèi lǎo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "宝刀不老"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

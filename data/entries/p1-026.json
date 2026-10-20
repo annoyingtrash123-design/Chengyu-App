@@ -519,6 +519,9 @@
     "id": "wei-wo-du-zun",
     "text": "唯我独尊",
     "pinyin": "wéi wǒ dú zūn",
+    "variants": [
+      "惟我独尊"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -576,6 +579,9 @@
     "id": "cao-zhang-ying-fei",
     "text": "草长莺飞",
     "pinyin": "cǎo zhǎng yīng fēi",
+    "variants": [
+      "莺飞草长"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -841,6 +847,9 @@
     "id": "qiao-qu-hao-duo",
     "text": "巧取豪夺",
     "pinyin": "qiǎo qǔ háo duó",
+    "variants": [
+      "强取豪夺"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -874,7 +883,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "强取豪夺",
       "巧立名目",
       "敲诈勒索"
     ],
