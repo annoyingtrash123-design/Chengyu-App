@@ -1,0 +1,819 @@
+[
+  {
+    "id": "cheng-chang-zi",
+    "text": "撑场子",
+    "pinyin": "chēng chǎng zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "festivals-and-celebrations"
+    ],
+    "literal": "prop up · venue",
+    "natural": "show up to lend support",
+    "meaning": {
+      "en": "To lend support to an event or a friend by showing up and filling the room.",
+      "zh": "到场助阵，替人撑起场面。"
+    },
+    "equivalents": [
+      "lend support",
+      "show up to back someone"
+    ],
+    "examples": [
+      {
+        "zh": "他开新店，朋友们都来撑场子。",
+        "en": "When he opened the new shop, friends all came to show support."
+      },
+      {
+        "zh": "今晚的演出你一定要来给我撑撑场子。",
+        "en": "You must come tonight and back me up at the show."
+      }
+    ],
+    "usage": {
+      "en": "Friendly. Compare 撑场面, which is about making things look impressive; 砸场子 is the opposite.",
+      "zh": "带善意；与侧重排场的“撑场面”不同，反义“砸场子”。"
+    },
+    "synonyms": [
+      "捧场",
+      "助阵"
+    ],
+    "antonyms": [
+      "拆台",
+      "冷场"
+    ]
+  },
+  {
+    "id": "zuo-kui-xin-shi",
+    "text": "做亏心事",
+    "pinyin": "zuò kuī xīn shì",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "psychological-pressure"
+    ],
+    "literal": "do · conscience-troubling · deed",
+    "natural": "do something shameful",
+    "meaning": {
+      "en": "To do something one is ashamed of in one's heart.",
+      "zh": "做了对不起良心的事。"
+    },
+    "equivalents": [
+      "do something guilty",
+      "act against one's conscience"
+    ],
+    "examples": [
+      {
+        "zh": "人不能做亏心事，否则夜里睡不着。",
+        "en": "One mustn't do shameful things, or one can't sleep at night."
+      },
+      {
+        "zh": "他做了亏心事，一见警察就心慌。",
+        "en": "He did something shameful and panics at the sight of police."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 不怕鬼敲门: 白天不做亏心事，半夜不怕鬼敲门.",
+      "zh": "常见搭配“不做亏心事，不怕鬼敲门”。"
+    },
+    "synonyms": [
+      "昧良心",
+      "干坏事"
+    ],
+    "antonyms": [
+      "问心无愧",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "zuo-yang-zi",
+    "text": "做样子",
+    "pinyin": "zuò yàng zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "superficial-learning"
+    ],
+    "literal": "make · appearance",
+    "natural": "go through the motions",
+    "meaning": {
+      "en": "To act only for show, without real effort or sincerity.",
+      "zh": "只做表面功夫给人看，并不真心实意。"
+    },
+    "equivalents": [
+      "go through the motions",
+      "do it for show"
+    ],
+    "examples": [
+      {
+        "zh": "他们检查只是做样子，根本没认真。",
+        "en": "Their inspection was just for show; they weren't serious."
+      },
+      {
+        "zh": "你别光做样子，要动真格的。",
+        "en": "Don't just go through the motions; do it for real."
+      }
+    ],
+    "usage": {
+      "en": "Mildly critical; often 只是/不过是做样子.",
+      "zh": "略带批评，常说“只是做样子”。"
+    },
+    "synonyms": [
+      "走过场",
+      "敷衍了事"
+    ],
+    "antonyms": [
+      "动真格",
+      "真抓实干"
+    ]
+  },
+  {
+    "id": "tao-cai-tou",
+    "text": "讨彩头",
+    "pinyin": "tǎo cǎi tóu",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [
+      "讨口彩"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "festivals-and-celebrations",
+      "festive-greetings"
+    ],
+    "literal": "seek · lucky omen",
+    "natural": "seek a good omen",
+    "meaning": {
+      "en": "To say or do something auspicious to attract good luck.",
+      "zh": "说吉利话或做吉利事，求个好兆头。"
+    },
+    "equivalents": [
+      "seek a good omen",
+      "bring good luck"
+    ],
+    "examples": [
+      {
+        "zh": "春节大家都去庙会讨彩头。",
+        "en": "At Spring Festival everyone goes to the temple fair to seek good luck."
+      },
+      {
+        "zh": "他买了个吉利号码，就是想讨个彩头。",
+        "en": "He bought a lucky number just to get a good omen."
+      }
+    ],
+    "usage": {
+      "en": "Also 讨口彩 (say lucky words). 彩头 = prize or good omen, from gambling and festivities.",
+      "zh": "也说“讨口彩”。“彩头”指奖品或吉兆。"
+    },
+    "synonyms": [
+      "图吉利",
+      "沾喜气"
+    ],
+    "antonyms": [
+      "触霉头",
+      "犯忌讳"
+    ]
+  },
+  {
+    "id": "bei-hou-tong-dao-zi",
+    "text": "背后捅刀子",
+    "pinyin": "bèi hòu tǒng dāo zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [
+      "捅刀子"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "relationships"
+    ],
+    "literal": "behind back · stab · knife",
+    "natural": "stab someone in the back",
+    "meaning": {
+      "en": "To secretly harm someone, especially a friend who trusted you.",
+      "zh": "暗地里伤害别人，尤指信任自己的人。"
+    },
+    "equivalents": [
+      "stab someone in the back",
+      "knife someone behind their back"
+    ],
+    "examples": [
+      {
+        "zh": "他表面上是朋友，背后捅刀子。",
+        "en": "He's a friend on the surface but stabs you in the back."
+      },
+      {
+        "zh": "我最恨在背后捅刀子的人。",
+        "en": "I hate people who stab you in the back most."
+      }
+    ],
+    "usage": {
+      "en": "Shortened to 捅刀子, which can also mean to attack openly with cutting words.",
+      "zh": "可简说“捅刀子”，也可指用话刺伤人。"
+    },
+    "synonyms": [
+      "恩将仇报",
+      "落井下石"
+    ],
+    "antonyms": [
+      "肝胆相照",
+      "仗义相助"
+    ]
+  },
+  {
+    "id": "liang-huang-pai",
+    "text": "亮黄牌",
+    "pinyin": "liàng huáng pái",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "games-and-sports",
+      "mistakes-and-correction"
+    ],
+    "literal": "show · yellow · card",
+    "natural": "give a formal warning",
+    "meaning": {
+      "en": "To give a formal warning that further misconduct will be punished.",
+      "zh": "正式警告，再犯将受处罚。"
+    },
+    "equivalents": [
+      "show the yellow card",
+      "issue a warning"
+    ],
+    "examples": [
+      {
+        "zh": "监管部门对这家公司亮出了黄牌。",
+        "en": "The regulator showed the company a yellow card."
+      },
+      {
+        "zh": "老师给迟到的学生亮黄牌。",
+        "en": "The teacher gave the late students a yellow card."
+      }
+    ],
+    "usage": {
+      "en": "From football. Next stage: 亮红牌. Usually 亮出黄牌 / 给……亮黄牌.",
+      "zh": "来自足球，更严重为“亮红牌”。"
+    },
+    "synonyms": [
+      "敲警钟",
+      "发出警告"
+    ],
+    "antonyms": [
+      "网开一面",
+      "放任自流"
+    ]
+  },
+  {
+    "id": "yi-gen-jin",
+    "text": "一根筋",
+    "pinyin": "yī gēn jīn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "resistance-to-change",
+      "negative-character-flaws"
+    ],
+    "literal": "one · tendon",
+    "natural": "stubborn single-mindedness",
+    "meaning": {
+      "en": "A person who thinks in one narrow way and will not adapt.",
+      "zh": "认死理、不知变通的人或性格。"
+    },
+    "equivalents": [
+      "one-track mind",
+      "stubborn as a mule"
+    ],
+    "examples": [
+      {
+        "zh": "他是个一根筋，劝不动。",
+        "en": "He has a one-track mind and can't be persuaded."
+      },
+      {
+        "zh": "做事别一根筋，要学会变通。",
+        "en": "Don't be single-minded; learn to be flexible."
+      }
+    ],
+    "usage": {
+      "en": "Casual, can be a mild tease. The image is of having only one nerve to think with.",
+      "zh": "口语，可带调侃。"
+    },
+    "synonyms": [
+      "死心眼",
+      "认死理"
+    ],
+    "antonyms": [
+      "灵活变通",
+      "圆滑"
+    ]
+  },
+  {
+    "id": "di-yi-ba-jiao-yi",
+    "text": "第一把交椅",
+    "pinyin": "dì yī bǎ jiāo yǐ",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "leadership-and-authority",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "first · chair",
+    "natural": "top spot",
+    "meaning": {
+      "en": "The leading position in an organisation or field.",
+      "zh": "首领或在某领域居首位的地位。"
+    },
+    "equivalents": [
+      "top dog",
+      "number one position"
+    ],
+    "examples": [
+      {
+        "zh": "他坐上了公司第一把交椅。",
+        "en": "He took the top chair in the company."
+      },
+      {
+        "zh": "这位教练稳坐球队第一把交椅。",
+        "en": "The coach firmly holds the top post at the club."
+      }
+    ],
+    "usage": {
+      "en": "From the folding chairs of bandit chiefs and officials in vernacular fiction; often 坐第一把交椅.",
+      "zh": "源于白话小说中头领所坐的交椅，常说“坐第一把交椅”。"
+    },
+    "synonyms": [
+      "头把手",
+      "领头羊"
+    ],
+    "antonyms": [
+      "敬陪末座",
+      "小喽啰"
+    ]
+  },
+  {
+    "id": "dai-you-se-yan-jing",
+    "text": "戴有色眼镜",
+    "pinyin": "dài yǒu sè yǎn jìng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "fairness-and-impartiality"
+    ],
+    "literal": "wear · tinted · glasses",
+    "natural": "view with bias",
+    "meaning": {
+      "en": "To look at someone or something with prejudice.",
+      "zh": "带着偏见看人看事。"
+    },
+    "equivalents": [
+      "view through tinted glasses",
+      "be prejudiced"
+    ],
+    "examples": [
+      {
+        "zh": "别戴有色眼镜看外地人。",
+        "en": "Don't look at outsiders with prejudice."
+      },
+      {
+        "zh": "他戴着有色眼镜，怎么看别人都不顺眼。",
+        "en": "With his tinted glasses on, he finds fault in everyone."
+      }
+    ],
+    "usage": {
+      "en": "Usually 戴着有色眼镜看…. Colour tints how everything looks.",
+      "zh": "常说“戴着有色眼镜看……”。"
+    },
+    "synonyms": [
+      "先入为主",
+      "抱有偏见"
+    ],
+    "antonyms": [
+      "客观公正",
+      "一视同仁"
+    ]
+  },
+  {
+    "id": "zhai-tao-zi",
+    "text": "摘桃子",
+    "pinyin": "zhāi táo zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "fairness-and-impartiality"
+    ],
+    "literal": "pick · peaches",
+    "natural": "take credit for others' work",
+    "meaning": {
+      "en": "To enjoy the fruits of others' labour without doing the work.",
+      "zh": "坐享别人劳动的成果。"
+    },
+    "equivalents": [
+      "reap what others sowed",
+      "steal the credit"
+    ],
+    "examples": [
+      {
+        "zh": "我们辛苦干活，却让他来摘桃子。",
+        "en": "We work hard, then he comes to pick the peaches."
+      },
+      {
+        "zh": "不要总想着摘桃子，先做出贡献。",
+        "en": "Don't always wait to pick peaches; contribute first."
+      }
+    ],
+    "usage": {
+      "en": "Complaint, often 来摘桃子 or 坐享其成. Reference to peaches being picked by whoever comes last.",
+      "zh": "多带不满，常说“来摘桃子”。"
+    },
+    "synonyms": [
+      "坐享其成",
+      "不劳而获"
+    ],
+    "antonyms": [
+      "栽桃树",
+      "劳有所得"
+    ]
+  },
+  {
+    "id": "zhua-ba-bing",
+    "text": "抓把柄",
+    "pinyin": "zhuā bǎ bǐng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "conflict-and-strife"
+    ],
+    "literal": "seize · handle",
+    "natural": "find something to use against someone",
+    "meaning": {
+      "en": "To find a weakness or fault in someone to use against them.",
+      "zh": "抓住别人的错处作为要挟或攻击的依据。"
+    },
+    "equivalents": [
+      "get something on someone",
+      "find a handle on"
+    ],
+    "examples": [
+      {
+        "zh": "他们想抓你的把柄，做事要小心。",
+        "en": "They want something on you, so be careful."
+      },
+      {
+        "zh": "别让人抓住把柄。",
+        "en": "Don't let anyone get hold of something on you."
+      }
+    ],
+    "usage": {
+      "en": "Often 被人抓住把柄 or 抓……的把柄. 把柄 = handle, something to grab on to.",
+      "zh": "常说“被人抓住把柄”。"
+    },
+    "synonyms": [
+      "揪小辫子",
+      "找碴儿"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "无懈可击"
+    ]
+  },
+  {
+    "id": "za-chang-zi",
+    "text": "砸场子",
+    "pinyin": "zá chǎng zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "inappropriate-behavior"
+    ],
+    "literal": "smash · venue",
+    "natural": "wreck an event",
+    "meaning": {
+      "en": "To come and disrupt someone's event, or damage their business.",
+      "zh": "故意去捣乱，破坏别人的场合或生意。"
+    },
+    "equivalents": [
+      "crash and wreck",
+      "disrupt on purpose"
+    ],
+    "examples": [
+      {
+        "zh": "有人来酒吧砸场子，被保安赶了出去。",
+        "en": "Someone came to wreck the bar and was thrown out by security."
+      },
+      {
+        "zh": "别来砸场子，今天是大喜的日子。",
+        "en": "Don't come to disrupt things; today is a happy occasion."
+      }
+    ],
+    "usage": {
+      "en": "Origin: street performers and martial-arts halls whose place got trashed. Opposite of 撑场子.",
+      "zh": "源于江湖卖艺、武馆被人上门闹事。反义“撑场子”。"
+    },
+    "synonyms": [
+      "拆台",
+      "捣乱"
+    ],
+    "antonyms": [
+      "捧场",
+      "助阵"
+    ]
+  },
+  {
+    "id": "za-zhao-pai",
+    "text": "砸招牌",
+    "pinyin": "zá zhāo pái",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "business-failure",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "smash · signboard",
+    "natural": "ruin one's reputation",
+    "meaning": {
+      "en": "To damage a reputation built up over time.",
+      "zh": "损害长期积累的名声。"
+    },
+    "equivalents": [
+      "ruin one's reputation",
+      "tarnish the brand"
+    ],
+    "examples": [
+      {
+        "zh": "这样粗制滥造，会砸了咱们的招牌。",
+        "en": "Such shoddy work will ruin our reputation."
+      },
+      {
+        "zh": "一次食物中毒就砸了老店的招牌。",
+        "en": "One food-poisoning case smashed the old shop's good name."
+      }
+    ],
+    "usage": {
+      "en": "Usually 砸了……的招牌. 招牌 = shop signboard, reputation.",
+      "zh": "常说“砸了……的招牌”。"
+    },
+    "synonyms": [
+      "败坏名声",
+      "丢脸"
+    ],
+    "antonyms": [
+      "争光",
+      "打响招牌"
+    ]
+  },
+  {
+    "id": "ba-ding-zi",
+    "text": "拔钉子",
+    "pinyin": "bá dīng zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "resistance-to-change",
+      "difficult-terrain"
+    ],
+    "literal": "pull out · nails",
+    "natural": "remove troublesome obstacles",
+    "meaning": {
+      "en": "To get rid of troublesome people or problems that hold things up.",
+      "zh": "清除难缠的人或障碍。"
+    },
+    "equivalents": [
+      "remove thorns in the side",
+      "clear obstacles"
+    ],
+    "examples": [
+      {
+        "zh": "村里的拆迁工作要先拔钉子。",
+        "en": "In the village's demolition, the 'nails' have to be removed first."
+      },
+      {
+        "zh": "这些年他一直在拔钉子，清理历史遗留问题。",
+        "en": "Over the years he has pulled out nails, clearing leftover problems."
+      }
+    ],
+    "usage": {
+      "en": "The 钉子 are the holdouts, 钉子户 (nail households); common in news about demolition.",
+      "zh": "“钉子”指拒不配合的人，常见于拆迁新闻。"
+    },
+    "synonyms": [
+      "清障",
+      "啃硬骨头"
+    ],
+    "antonyms": [
+      "姑息",
+      "打太极"
+    ]
+  },
+  {
+    "id": "nie-ruan-shi-zi",
+    "text": "捏软柿子",
+    "pinyin": "niē ruǎn shì zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "fear-and-cowardice"
+    ],
+    "literal": "squeeze · soft · persimmon",
+    "natural": "pick on the weak",
+    "meaning": {
+      "en": "To bully the weak and avoid the strong.",
+      "zh": "专挑软弱的人欺负。"
+    },
+    "equivalents": [
+      "pick on the weak",
+      "bully the soft target"
+    ],
+    "examples": [
+      {
+        "zh": "他专捏软柿子，不敢惹强的。",
+        "en": "He only picks on the weak and dares not offend the strong."
+      },
+      {
+        "zh": "你想捏软柿子，也得看看我是谁。",
+        "en": "If you want to squeeze a soft target, check who I am first."
+      }
+    ],
+    "usage": {
+      "en": "Often 当软柿子捏. Persimmons: ripe ones squash easily.",
+      "zh": "常说“当软柿子捏”。"
+    },
+    "synonyms": [
+      "欺软怕硬",
+      "柿子专挑软的捏"
+    ],
+    "antonyms": [
+      "打抱不平",
+      "路见不平"
+    ]
+  },
+  {
+    "id": "mo-zui-pi-zi",
+    "text": "磨嘴皮子",
+    "pinyin": "mó zuǐ pí zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "verbosity",
+      "poor-speech-and-silence"
+    ],
+    "literal": "grind · lips",
+    "natural": "talk endlessly",
+    "meaning": {
+      "en": "To talk or argue at length, often with little result.",
+      "zh": "说个没完或反复劝说，却没有实效。"
+    },
+    "equivalents": [
+      "talk till one is blue in the face",
+      "waste one's breath"
+    ],
+    "examples": [
+      {
+        "zh": "我磨了半天嘴皮子，他还是不答应。",
+        "en": "I talked myself hoarse and he still wouldn't agree."
+      },
+      {
+        "zh": "别光磨嘴皮子，动手做吧。",
+        "en": "Stop talking and get on with it."
+      }
+    ],
+    "usage": {
+      "en": "Casual. Sometimes neutral for a patient talker; mostly dismissive.",
+      "zh": "口语，多含无奈。"
+    },
+    "synonyms": [
+      "费口舌",
+      "苦口婆心"
+    ],
+    "antonyms": [
+      "言简意赅",
+      "沉默寡言"
+    ]
+  },
+  {
+    "id": "deng-bi-zi-shang-lian",
+    "text": "蹬鼻子上脸",
+    "pinyin": "dēng bí zi shàng liǎn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "inappropriate-behavior"
+    ],
+    "literal": "kick · nose · climb · face",
+    "natural": "take a mile when given an inch",
+    "meaning": {
+      "en": "To become more demanding and rude whenever treated with leniency.",
+      "zh": "得寸进尺，越来越放肆。"
+    },
+    "equivalents": [
+      "give them an inch and they take a mile",
+      "get cheeky"
+    ],
+    "examples": [
+      {
+        "zh": "你对他好点，他就蹬鼻子上脸。",
+        "en": "Be a bit kind to him and he gets cheeky."
+      },
+      {
+        "zh": "别蹬鼻子上脸，我的耐心有限。",
+        "en": "Don't push your luck; my patience has limits."
+      }
+    ],
+    "usage": {
+      "en": "Often 别蹬鼻子上脸 as a warning; also 得寸进尺 as a literary parallel.",
+      "zh": "常用作警告“别蹬鼻子上脸”。"
+    },
+    "synonyms": [
+      "得寸进尺",
+      "顺杆爬"
+    ],
+    "antonyms": [
+      "适可而止",
+      "知足"
+    ]
+  },
+  {
+    "id": "liao-hen-hua",
+    "text": "撂狠话",
+    "pinyin": "liào hěn huà",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "anger",
+      "inappropriate-behavior"
+    ],
+    "literal": "drop · harsh · words",
+    "natural": "make a threat",
+    "meaning": {
+      "en": "To say harsh or threatening words, usually while leaving angrily.",
+      "zh": "丢下狠话，威胁对方。"
+    },
+    "equivalents": [
+      "make threats",
+      "lay down harsh words"
+    ],
+    "examples": [
+      {
+        "zh": "他气呼呼地撂下狠话就走了。",
+        "en": "He angrily dropped a threat and left."
+      },
+      {
+        "zh": "别动不动就撂狠话，大家好好谈。",
+        "en": "Stop throwing threats around; let's talk properly."
+      }
+    ],
+    "usage": {
+      "en": "Usually 撂下狠话 or 撂了句狠话. 撂 = drop or leave behind.",
+      "zh": "常说“撂下狠话”。"
+    },
+    "synonyms": [
+      "扬言",
+      "恐吓"
+    ],
+    "antonyms": [
+      "好言相劝",
+      "和颜悦色"
+    ]
+  }
+]
