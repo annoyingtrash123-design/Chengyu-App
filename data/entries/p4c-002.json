@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "xian-ku-hou-tian",
+    "text": "先苦后甜",
+    "pinyin": "xiān kǔ hòu tián",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "comebacks-and-renewal",
+      "poverty-and-hardship"
+    ],
+    "literal": "first · bitter · after · sweet",
+    "natural": "bitter first, sweet afterwards",
+    "meaning": {
+      "en": "To go through hardship first and enjoy happiness or reward later.",
+      "zh": "先经历辛苦，之后才得到幸福和好处。"
+    },
+    "equivalents": [
+      "no pain, no gain",
+      "hard times first, good times after"
+    ],
+    "examples": [
+      {
+        "zh": "现在多练习，先苦后甜，比赛时才有把握。",
+        "en": "Practise hard now, work first and enjoy later, and you will feel sure of yourself in the match."
+      },
+      {
+        "zh": "爷爷常说，人生要先苦后甜。",
+        "en": "Grandpa often says that in life the hard part comes first and the sweet part after."
+      },
+      {
+        "zh": "他们创业初期很艰难，但先苦后甜，现在生意很红火。",
+        "en": "Starting out was hard for them, but things got better, and now the business is thriving."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or clause, positive and encouraging. Usually said to motivate. The reverse, 先甜后苦, warns of enjoying things now and suffering later.",
+      "zh": "多作谓语或分句，常用于鼓励。反义的“先甜后苦”则含警示。"
+    },
+    "synonyms": [
+      "苦尽甘来",
+      "否极泰来"
+    ],
+    "antonyms": [
+      "乐极生悲",
+      "好景不长"
+    ]
+  },
+  {
+    "id": "ci-xiao-bi-zhang",
+    "text": "此消彼长",
+    "pinyin": "cǐ xiāo bǐ zhǎng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "relative-measurements",
+      "change"
+    ],
+    "literal": "this · decline · that · grow",
+    "natural": "this declines while that grows",
+    "meaning": {
+      "en": "As one side declines, the other grows, so their strengths move in opposite directions.",
+      "zh": "这一方面减弱，另一方面增强，指双方力量此减彼增。"
+    },
+    "equivalents": [
+      "one up, the other down",
+      "a seesaw of fortunes"
+    ],
+    "examples": [
+      {
+        "zh": "天冷了，雨伞销量下降，羽绒服销量却上升，此消彼长。",
+        "en": "As the weather turns cold, umbrella sales fall while down-jacket sales rise, one dropping as the other climbs."
+      },
+      {
+        "zh": "两队的实力此消彼长，比分被追平了。",
+        "en": "The two teams' strengths shifted in opposite directions, and the score was levelled."
+      },
+      {
+        "zh": "实体店与网店此消彼长，竞争越来越激烈。",
+        "en": "Shops and online stores trade places in strength as competition grows."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or clause. Describes two things moving in opposite directions, such as rival forces or market shares. Common in news and analysis. Compare 此起彼伏, where things alternate in waves.",
+      "zh": "多作谓语或分句，常见于新闻和分析。与表示接连出现的“此起彼伏”不同。"
+    },
+    "synonyms": [
+      "你追我赶",
+      "此涨彼落"
+    ],
+    "antonyms": [
+      "相得益彰",
+      "同步增长"
+    ]
+  },
+  {
+    "id": "yi-shao-sheng-duo",
+    "text": "以少胜多",
+    "pinyin": "yǐ shǎo shèng duō",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "with · few · defeat · many",
+    "natural": "defeat the many with the few",
+    "meaning": {
+      "en": "To win against a larger force or greater numbers with a smaller one.",
+      "zh": "用较少的力量战胜较多的对手。"
+    },
+    "equivalents": [
+      "win against the odds",
+      "a small force beating a larger one"
+    ],
+    "examples": [
+      {
+        "zh": "我们班的小队以少胜多，赢了比赛。",
+        "en": "Our class's small team beat the bigger team against the odds."
+      },
+      {
+        "zh": "这场战役是历史上以少胜多的著名战例。",
+        "en": "This battle is a famous case in history of a small force defeating a large one."
+      },
+      {
+        "zh": "这家小公司以少胜多，抢到了大客户。",
+        "en": "The small company beat bigger rivals and won the big client."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Used for war, sport and competition; the winners are admired. Similar to 以一当十 but states the result rather than the quality of the fighters.",
+      "zh": "多作谓语、定语，用于战争、体育、竞争，含赞许。"
+    },
+    "synonyms": [
+      "以寡敌众",
+      "以一当十"
+    ],
+    "antonyms": [
+      "寡不敌众",
+      "兵败如山倒"
+    ]
+  },
+  {
+    "id": "wan-shi-ru-yi",
+    "text": "万事如意",
+    "pinyin": "wàn shì rú yì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings"
+    ],
+    "literal": "ten thousand · things · as · wished",
+    "natural": "may all things go as you wish",
+    "meaning": {
+      "en": "A wish that everything may turn out as you want.",
+      "zh": "希望一切事情都像自己想的那样顺利。"
+    },
+    "equivalents": [
+      "may all go well",
+      "may everything turn out as you wish"
+    ],
+    "examples": [
+      {
+        "zh": "新年到了，祝大家万事如意！",
+        "en": "The New Year is here, and I wish you all the best."
+      },
+      {
+        "zh": "奶奶在红包上写着“万事如意”。",
+        "en": "Grandma wrote “may all go well” on the red packet."
+      },
+      {
+        "zh": "祝你开学万事如意，学习进步。",
+        "en": "Wishing you all the best for the new term and progress in your studies."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used as a greeting at New Year, birthdays, openings and farewells, usually together with 身体健康 or 心想事成. It is a wish, so it is not used to describe things that already happened.",
+      "zh": "主要用作新年、生日、开业等场合的祝福语，常与“身体健康”“心想事成”连用，用于祝愿，不用于描述已发生的事。"
+    },
+    "synonyms": [
+      "心想事成",
+      "万事亨通"
+    ],
+    "antonyms": [
+      "诸事不顺",
+      "倒霉透顶"
+    ]
+  },
+  {
+    "id": "yi-guo-san-gong",
+    "text": "一国三公",
+    "pinyin": "yī guó sān gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority",
+      "chaos",
+      "historical-records"
+    ],
+    "literal": "one · state · three · dukes",
+    "natural": "one state, three rulers",
+    "meaning": {
+      "en": "When too many people give orders, nobody knows whom to follow.",
+      "zh": "一个国家有三个主事的人，比喻政出多门，使人无所适从。"
+    },
+    "equivalents": [
+      "too many cooks",
+      "too many people in charge"
+    ],
+    "examples": [
+      {
+        "zh": "这个项目有三位负责人，一国三公，大家不知道听谁的。",
+        "en": "This project has three managers and too many people giving orders, so nobody knows whom to listen to."
+      },
+      {
+        "zh": "家里爸爸、妈妈、奶奶各管一套，一国三公，孩子很为难。",
+        "en": "In the home Dad, Mum and Grandma each have their own rules, and the child is put in a difficult position."
+      },
+      {
+        "zh": "管理上一国三公，只会让员工无所适从。",
+        "en": "If management speaks with three voices, the staff will not know what to do."
+      }
+    ],
+    "origin": {
+      "source": "《左传·僖公五年》",
+      "story": {
+        "en": "In the state of Jin, the officer Shiwei complained that the rulers of the state were too many to serve: 'one state, three dukes — whom am I to follow?' The saying has been used ever since for muddled authority.",
+        "zh": "士蒍对晋国的现状感叹：“狐裘尨茸，一国三公，吾谁适从？”后来用“一国三公”比喻政出多门。"
+      }
+    },
+    "usage": {
+      "en": "Used of organisations, teams or families with muddled authority. Critical in tone. Pronounced gōng, as in 公爵, not as a person's name.",
+      "zh": "批评多头指挥、无人负责的情形，语气较重。"
+    },
+    "synonyms": [
+      "政出多门",
+      "多头领导"
+    ],
+    "antonyms": [
+      "令行禁止",
+      "政令统一"
+    ]
+  },
+  {
+    "id": "si-da-jin-gang",
+    "text": "四大金刚",
+    "pinyin": "sì dà jīn gāng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "numbers",
+      "buddhist-origin"
+    ],
+    "literal": "four · great · vajra · guardians",
+    "natural": "the Four Great Guardians",
+    "meaning": {
+      "en": "Originally the four heavenly guardian kings of Buddhist temples; now a humorous name for four close companions or four chief aides.",
+      "zh": "本指佛寺里的四大天王，现常戏称某人身边最得力的四个人或亲密的四人组。"
+    },
+    "equivalents": [
+      "the Fab Four",
+      "four right-hand men"
+    ],
+    "examples": [
+      {
+        "zh": "我们宿舍四个人感情很好，被同学叫作“四大金刚”。",
+        "en": "The four of us in the dorm are so close that classmates call us the Four Guardians."
+      },
+      {
+        "zh": "他是老板身边的四大金刚之一。",
+        "en": "He is one of the boss's four chief lieutenants."
+      },
+      {
+        "zh": "寺庙山门里的四大金刚威风凛凛。",
+        "en": "The four guardian kings in the temple gate look mighty."
+      }
+    ],
+    "usage": {
+      "en": "In everyday speech it is jokey and informal, said of four close friends or four powerful aides. Buddhist temples usually show them in the first hall. The word 金刚 is also used for the strong, fierce guardian figures.",
+      "zh": "口语里带戏谑，指亲密的四人或四个得力助手。佛寺山门里常供奉四大天王。"
+    },
+    "synonyms": [
+      "四大天王",
+      "左膀右臂"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bai-fei-ju-xing",
+    "text": "百废俱兴",
+    "pinyin": "bǎi fèi jù xīng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "comebacks-and-renewal",
+      "poems-prose"
+    ],
+    "literal": "hundred · neglected things · all · revive",
+    "natural": "all neglected things revived",
+    "meaning": {
+      "en": "All the things that had been neglected are being restored and are flourishing again.",
+      "zh": "各种荒废了的事业都兴办起来了。"
+    },
+    "equivalents": [
+      "everything is thriving again",
+      "a full revival"
+    ],
+    "examples": [
+      {
+        "zh": "改革开放以后，全国百废俱兴。",
+        "en": "After the reform and opening-up, the whole country was thriving again."
+      },
+      {
+        "zh": "战争结束了，城市百废俱兴。",
+        "en": "The war was over and the city was getting back on its feet."
+      },
+      {
+        "zh": "新校长上任后，学校百废俱兴。",
+        "en": "After the new principal took over, everything at the school came back to life."
+      }
+    ],
+    "origin": {
+      "source": "宋·范仲淹《岳阳楼记》",
+      "story": {
+        "en": "Fan Zhongyan wrote of Yueyang under a new governor: 'in the next year, the government ran smoothly, the people were at peace, and all neglected things were restored' (政通人和，百废具兴).",
+        "zh": "范仲淹写滕子京治理岳州的成绩：“越明年，政通人和，百废具兴。”"
+      }
+    },
+    "usage": {
+      "en": "Formal; used for a country, city or organisation after a bad period. Do not confuse with 百废待兴, where things still wait to be revived.",
+      "zh": "用于国家、城市或单位恢复振兴之后。不要与“百废待兴”（还有许多事等着办）混淆。"
+    },
+    "synonyms": [
+      "欣欣向荣",
+      "蒸蒸日上"
+    ],
+    "antonyms": [
+      "百业凋敝",
+      "一蹶不振"
+    ]
+  },
+  {
+    "id": "ji-kou-niu-hou",
+    "text": "鸡口牛后",
+    "pinyin": "jī kǒu niú hòu",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "high-aspirations",
+      "historical-records"
+    ],
+    "literal": "chicken · beak · ox · rear",
+    "natural": "a chicken's beak or an ox's rump",
+    "meaning": {
+      "en": "Better to lead a small group than to trail at the back of a great one.",
+      "zh": "宁愿在小地方当头领，也不在大地方居人之后。"
+    },
+    "equivalents": [
+      "better a big fish in a small pond",
+      "better to be head of a dog than tail of a lion"
+    ],
+    "examples": [
+      {
+        "zh": "他宁愿去小公司当主管，也不愿在大公司当小职员，鸡口牛后，各有选择。",
+        "en": "He prefers being a manager at a small firm to being a junior at a big one, a choice between a small lead and a big tail."
+      },
+      {
+        "zh": "他觉得鸡口牛后，宁可拒绝大学的邀请，回乡创业。",
+        "en": "He felt it better to lead a small group than to trail in a large one, so he turned down the university and started a business at home."
+      },
+      {
+        "zh": "鸡口牛后，各有各的好处，要看你更看重什么。",
+        "en": "Each has its benefits; it depends what you value more."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·韩策一》",
+      "story": {
+        "en": "The strategist Su Qin urged the king of Han not to submit to Qin, quoting a proverb: 'Better to be the beak of a chicken than the rump of an ox' (宁为鸡口，无为牛后).",
+        "zh": "苏秦游说韩王合纵抗秦，引用俗语：“臣闻鄙语曰：‘宁为鸡口，无为牛后。’”"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted as the saying 宁为鸡口，无为牛后. It is a literary phrase; it praises independence but can sound proud. Note 牛后 means the ox's rear, not 'behind the ox'.",
+      "zh": "多引用“宁为鸡口，无为牛后”，书面色彩较浓，赞扬独立自主，也可能带自负意味。"
+    },
+    "synonyms": [
+      "宁为鸡首"
+    ],
+    "antonyms": [
+      "甘居人后"
+    ]
+  },
+  {
+    "id": "zhu-gou-bu-ru",
+    "text": "猪狗不如",
+    "pinyin": "zhū gǒu bù rú",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "pig · dog · not · equal",
+    "natural": "worse than a pig or dog",
+    "meaning": {
+      "en": "Worse than an animal, used to condemn someone who behaves shamefully.",
+      "zh": "连猪和狗都不如，形容人品行恶劣，极度卑劣。"
+    },
+    "equivalents": [
+      "lower than a dog",
+      "beneath contempt"
+    ],
+    "examples": [
+      {
+        "zh": "虐待老人的人，简直猪狗不如。",
+        "en": "Anyone who mistreats the elderly is lower than an animal."
+      },
+      {
+        "zh": "他背叛了救过他的朋友，真是猪狗不如。",
+        "en": "He betrayed the friend who saved him, which is shameful."
+      },
+      {
+        "zh": "旧社会穷人过着猪狗不如的生活。",
+        "en": "In the old society the poor lived lives worse than animals."
+      }
+    ],
+    "usage": {
+      "en": "Very harsh abuse and a strong insult in conversation; do not use it casually, especially not to children. It can also describe an extremely wretched life.",
+      "zh": "是很重的骂人话，不要随便使用。也可形容极其悲惨的生活。"
+    },
+    "synonyms": [
+      "禽兽不如",
+      "衣冠禽兽"
+    ],
+    "antonyms": [
+      "高风亮节",
+      "仁至义尽"
+    ]
+  },
+  {
+    "id": "bai-bi-wu-xia",
+    "text": "白璧无瑕",
+    "pinyin": "bái bì wú xiá",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "appearance"
+    ],
+    "literal": "white · jade disc · without · flaw",
+    "natural": "a white jade disc without a flaw",
+    "meaning": {
+      "en": "Perfect and flawless, said of a person's character or of a work.",
+      "zh": "洁白的美玉没有一点瑕疵，比喻事物完美无缺或人品高洁。"
+    },
+    "equivalents": [
+      "flawless",
+      "spotless"
+    ],
+    "examples": [
+      {
+        "zh": "这件玉器白璧无瑕，是博物馆的珍品。",
+        "en": "This piece of jade is flawless and is a treasure of the museum."
+      },
+      {
+        "zh": "没有人是白璧无瑕的，我们都会犯错。",
+        "en": "No one is perfect, and all of us make mistakes."
+      },
+      {
+        "zh": "他一生白璧无瑕，深受大家尊敬。",
+        "en": "His whole life was spotless and everyone respects him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Often used negatively (“没有人是白璧无瑕的”), or ironically; the related 白璧微瑕 means a small flaw in something excellent.",
+      "zh": "多作谓语、定语，常用否定形式，对比语“白璧微瑕”指完美中的小缺点。"
+    },
+    "synonyms": [
+      "完美无缺",
+      "纯洁无瑕"
+    ],
+    "antonyms": [
+      "瑕疵百出",
+      "千疮百孔"
+    ]
+  },
+  {
+    "id": "dong-nuan-xia-liang",
+    "text": "冬暖夏凉",
+    "pinyin": "dōng nuǎn xià liáng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "family-and-home"
+    ],
+    "literal": "winter · warm · summer · cool",
+    "natural": "warm in winter, cool in summer",
+    "meaning": {
+      "en": "Pleasantly warm in winter and cool in summer, usually said of a house or a place.",
+      "zh": "冬天暖和，夏天凉爽，多形容住处舒适。"
+    },
+    "equivalents": [
+      "warm in winter and cool in summer",
+      "comfortable all year round"
+    ],
+    "examples": [
+      {
+        "zh": "这座老房子冬暖夏凉，住着很舒服。",
+        "en": "This old house is warm in winter and cool in summer, and very comfortable."
+      },
+      {
+        "zh": "窑洞冬暖夏凉，是黄土高原上的传统住所。",
+        "en": "Cave dwellings stay warm in winter and cool in summer and are the traditional homes of the Loess Plateau."
+      },
+      {
+        "zh": "棉被冬暖夏凉，一年四季都能盖。",
+        "en": "This quilt is warm in winter and cool in summer and can be used all year."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Describes houses, caves, clothes and bedding. A very common selling point in advertisements.",
+      "zh": "多作谓语、定语，形容房屋、窑洞、衣物、被褥等，广告里很常见。"
+    },
+    "synonyms": [
+      "四季如春",
+      "舒适宜人"
+    ],
+    "antonyms": [
+      "冬冷夏热"
+    ]
+  },
+  {
+    "id": "jiang-shan-ru-hua",
+    "text": "江山如画",
+    "pinyin": "jiāng shān rú huà",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "excellent-writing",
+      "poems-prose",
+      "essay-favourites"
+    ],
+    "literal": "rivers · mountains · like · painting",
+    "natural": "rivers and mountains like a painting",
+    "meaning": {
+      "en": "The country's rivers and mountains are as beautiful as a painting.",
+      "zh": "国家的山河像画一样美丽。"
+    },
+    "equivalents": [
+      "a land as lovely as a painting",
+      "picturesque landscape"
+    ],
+    "examples": [
+      {
+        "zh": "祖国江山如画，值得我们去游览。",
+        "en": "Our homeland is as beautiful as a painting and is worth visiting."
+      },
+      {
+        "zh": "站在山顶，只见江山如画。",
+        "en": "Standing at the top, we saw a picture-perfect landscape."
+      },
+      {
+        "zh": "她用画笔画下了江山如画的美景。",
+        "en": "With her brush she captured the beautiful landscape."
+      }
+    ],
+    "origin": {
+      "source": "宋·苏轼《念奴娇·赤壁怀古》",
+      "story": {
+        "en": "Su Shi's ci poem begins: 'The river flows east… the rivers and mountains are like a painting; how many heroes there were in the moment' (江山如画，一时多少豪杰).",
+        "zh": "苏轼《念奴娇·赤壁怀古》：“大江东去，浪淘尽，千古风流人物……江山如画，一时多少豪杰。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate; often appears in poems, compositions and speeches about the country's landscape. Compared with 风景如画, it stresses a wide sweep of land.",
+      "zh": "常见于诗文、作文、演讲，歌颂祖国山河。比“风景如画”更侧重广阔的山河。"
+    },
+    "synonyms": [
+      "山河壮丽",
+      "锦绣河山"
+    ],
+    "antonyms": [
+      "满目疮痍"
+    ]
+  },
+  {
+    "id": "qiu-gao-ma-fei",
+    "text": "秋高马肥",
+    "pinyin": "qiū gāo mǎ féi",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest"
+    ],
+    "literal": "autumn · high · horse · fat",
+    "natural": "the sky high, the horses fat",
+    "meaning": {
+      "en": "Autumn, when the sky is high and the horses are fat; a classic description of the harvest season.",
+      "zh": "秋天天空高远，马匹肥壮，形容秋季的好时节。"
+    },
+    "equivalents": [
+      "clear autumn skies and well-fed horses",
+      "the season of plenty"
+    ],
+    "examples": [
+      {
+        "zh": "秋高马肥的季节，正是草原上最美的时候。",
+        "en": "In the season of high skies and fat horses, the grassland is at its most beautiful."
+      },
+      {
+        "zh": "秋高马肥，农民迎来了丰收。",
+        "en": "The sky is high and the horses are fat, and the farmers welcome a good harvest."
+      },
+      {
+        "zh": "秋高马肥，适合出门远足。",
+        "en": "Autumn weather is perfect, so it is a good time for an outing."
+      }
+    ],
+    "origin": {
+      "source": "唐·杜审言《赠苏绾书记》",
+      "story": {
+        "en": "Du Shenyan wrote: 'The clouds are clear and the ominous star has fallen; the sky is high and the frontier horses are fat' (云净妖星落，秋高塞马肥).",
+        "zh": "杜审言《赠苏绾书记》：“云净妖星落，秋高塞马肥。”"
+      }
+    },
+    "usage": {
+      "en": "In ancient times it also carried a warning, since nomads often raided in autumn when their horses were strong; today it is only a description of fine autumn. Compare 秋高气爽, which is about the weather alone.",
+      "zh": "古代也含边防警示（游牧民族常在秋季南下），现多只描写秋日好时光。与只描写天气的“秋高气爽”不同。"
+    },
+    "synonyms": [
+      "秋高气爽",
+      "金风送爽"
+    ],
+    "antonyms": [
+      "天寒地冻"
+    ]
+  },
+  {
+    "id": "yao-suan-bei-tong",
+    "text": "腰酸背痛",
+    "pinyin": "yāo suān bèi tòng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "body",
+      "poor-health"
+    ],
+    "literal": "waist · sore · back · aching",
+    "natural": "an aching waist and back",
+    "meaning": {
+      "en": "To have a sore back and waist, usually from tiredness or sitting too long.",
+      "zh": "腰和背又酸又痛，多因劳累或久坐。"
+    },
+    "equivalents": [
+      "an aching back",
+      "sore all over"
+    ],
+    "examples": [
+      {
+        "zh": "我搬了一天箱子，现在腰酸背痛。",
+        "en": "I moved boxes all day and now my back aches."
+      },
+      {
+        "zh": "坐了十几个小时的火车，大家都腰酸背痛。",
+        "en": "After more than ten hours on the train, everyone was stiff and sore."
+      },
+      {
+        "zh": "长期玩手机的人容易腰酸背痛。",
+        "en": "People who are on their phones for a long time easily get aches in the back."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement. A common word group about physical tiredness; often follows 累得 or 坐得. Fine in conversation and everyday writing.",
+      "zh": "多作谓语、补语，常用于口语。"
+    },
+    "synonyms": [
+      "浑身酸痛",
+      "筋疲力尽"
+    ],
+    "antonyms": [
+      "神清气爽",
+      "生龙活虎"
+    ]
+  },
+  {
+    "id": "xi-ji-er-qi",
+    "text": "喜极而泣",
+    "pinyin": "xǐ jí ér qì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "喜极而涕"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "complex-emotional-states"
+    ],
+    "literal": "joy · extreme · and · weep",
+    "natural": "weep from extreme joy",
+    "meaning": {
+      "en": "To cry tears of joy because one is overjoyed.",
+      "zh": "因为高兴到了极点而流泪。"
+    },
+    "equivalents": [
+      "weep for joy",
+      "cry tears of happiness"
+    ],
+    "examples": [
+      {
+        "zh": "听到考上大学的消息，妈妈喜极而泣。",
+        "en": "Mum wept for joy at the news that I had got into university."
+      },
+      {
+        "zh": "运动员夺冠后喜极而泣。",
+        "en": "The athlete burst into tears of joy after winning."
+      },
+      {
+        "zh": "久别重逢的兄弟俩喜极而泣。",
+        "en": "The two brothers cried with joy at their reunion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often said of reunions, exam results and sporting victories. ",
+      "zh": "多作谓语，常用于重逢、考试、比赛夺冠等场合。"
+    },
+    "synonyms": [
+      "破涕为笑",
+      "热泪盈眶"
+    ],
+    "antonyms": [
+      "悲痛欲绝",
+      "痛哭流涕"
+    ]
+  },
+  {
+    "id": "qin-peng-hao-you",
+    "text": "亲朋好友",
+    "pinyin": "qīn péng hǎo yǒu",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relationships"
+    ],
+    "literal": "relatives · friends · good · friends",
+    "natural": "relatives and friends",
+    "meaning": {
+      "en": "All one's relatives and friends, the people close to us.",
+      "zh": "亲戚和朋友，泛指和自己关系亲近的人。"
+    },
+    "equivalents": [
+      "family and friends",
+      "friends and relatives"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼上来了很多亲朋好友。",
+        "en": "Many family and friends came to the wedding."
+      },
+      {
+        "zh": "春节期间，我们常去拜访亲朋好友。",
+        "en": "During the Spring Festival we often visit relatives and friends."
+      },
+      {
+        "zh": "感谢各位亲朋好友的支持和祝福。",
+        "en": "Thanks to all our family and friends for their support and good wishes."
+      }
+    ],
+    "usage": {
+      "en": "A word group used as subject or object. Very common in invitations, notices and speeches.",
+      "zh": "多作主语、宾语，常见于请帖、通知和讲话。"
+    },
+    "synonyms": [
+      "亲戚朋友",
+      "左邻右舍"
+    ],
+    "antonyms": [
+      "陌路人",
+      "素不相识"
+    ]
+  },
+  {
+    "id": "hou-yi-she-ri",
+    "text": "后羿射日",
+    "pinyin": "hòu yì shè rì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "myths-legends",
+      "stories",
+      "daoist-classics"
+    ],
+    "literal": "Hou Yi · shoot · sun",
+    "natural": "Hou Yi shoots down the suns",
+    "meaning": {
+      "en": "The myth in which the archer Hou Yi shot down nine of the ten suns that scorched the earth.",
+      "zh": "神话传说：天上有十个太阳，晒得大地焦枯，英雄后羿射下了九个，人们才得以安居。"
+    },
+    "equivalents": [
+      "Hou Yi shooting the suns",
+      "the legend of the archer who saved the earth"
+    ],
+    "examples": [
+      {
+        "zh": "语文课上我们学习了后羿射日的神话故事。",
+        "en": "In our Chinese class we studied the myth of Hou Yi shooting the suns."
+      },
+      {
+        "zh": "后羿射日的故事告诉我们，英雄会为百姓除害。",
+        "en": "The story of Hou Yi shows how a hero rids the people of a plague."
+      },
+      {
+        "zh": "这幅壁画画的是后羿射日的场景。",
+        "en": "This mural shows the scene of Hou Yi shooting the suns."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·本经训》",
+      "story": {
+        "en": "In the time of Emperor Yao ten suns rose together and scorched the crops, so Yao ordered Yi to shoot the ten suns (尧乃使羿……上射十日).",
+        "zh": "《淮南子·本经训》：“尧之时，十日并出，焦禾稼，杀草木……尧乃使羿……上射十日而下杀猰貐。”"
+      }
+    },
+    "usage": {
+      "en": "A story title, used as a noun and seldom as an allusion in speech. In the myth, ten sun-birds rise together in the time of Emperor Yao and Hou Yi shoots nine down. Often paired with 嫦娥奔月, as Chang'e was Hou Yi's wife in later versions.",
+      "zh": "作故事名使用，口语中较少作典故。故事见《淮南子》，常与“嫦娥奔月”并提。"
+    },
+    "synonyms": [
+      "羿射九日"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "chang-e-ben-yue",
+    "text": "嫦娥奔月",
+    "pinyin": "cháng é bēn yuè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "myths-legends",
+      "festivals-and-celebrations",
+      "daoist-classics"
+    ],
+    "literal": "Chang'e · flee · moon",
+    "natural": "Chang'e flies to the moon",
+    "meaning": {
+      "en": "The myth of Chang'e, who swallowed the elixir of immortality and flew to the moon.",
+      "zh": "神话传说：嫦娥吃了不死之药，飞上月宫。"
+    },
+    "equivalents": [
+      "Chang'e flying to the moon",
+      "the Moon Goddess legend"
+    ],
+    "examples": [
+      {
+        "zh": "中秋节，奶奶给我们讲了嫦娥奔月的故事。",
+        "en": "At Mid-Autumn Festival, Grandma told us the story of Chang'e flying to the moon."
+      },
+      {
+        "zh": "我国的探月工程以嫦娥命名，来自嫦娥奔月的传说。",
+        "en": "China's lunar programme is named after Chang'e, from the legend of her flight to the moon."
+      },
+      {
+        "zh": "这首儿歌唱的是嫦娥奔月的故事。",
+        "en": "This children's song tells the story of Chang'e's flight to the moon."
+      }
+    ],
+    "origin": {
+      "source": "《淮南子·览冥训》",
+      "story": {
+        "en": "Hou Yi asked the Queen Mother of the West for the elixir of immortality, and Chang'e stole it and fled to the moon (羿请不死之药于西王母，姮娥窃以奔月).",
+        "zh": "《淮南子·览冥训》：“羿请不死之药于西王母，姮娥窃以奔月，怅然有丧，无以续之。”"
+      }
+    },
+    "usage": {
+      "en": "A story title, linked to the Mid-Autumn Festival. In the best-known version she took the elixir that her husband Hou Yi had received, and floated up to the moon where she lives with a jade rabbit.",
+      "zh": "故事名，与中秋节关系密切。常见说法是她偷吃了丈夫后羿得到的不死药，飞到月宫，与玉兔为伴。"
+    },
+    "synonyms": [
+      "嫦娥窃药"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "dao-lu-xiang-ying",
+    "text": "倒履相迎",
+    "pinyin": "dào lǚ xiāng yíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "倒屣相迎"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "polite-humble",
+      "stories",
+      "historical-records",
+      "three-kingdoms",
+      "festive-greetings"
+    ],
+    "literal": "upside-down · shoes · to each other · greet",
+    "natural": "greet with shoes on the wrong way",
+    "meaning": {
+      "en": "To welcome a guest so eagerly that one rushes out with one's shoes on the wrong feet.",
+      "zh": "形容热情欢迎客人，急得连鞋都穿倒了。"
+    },
+    "equivalents": [
+      "roll out the red carpet",
+      "rush out to greet"
+    ],
+    "examples": [
+      {
+        "zh": "听说老朋友来了，他倒履相迎。",
+        "en": "When he heard that his old friend had come, he rushed out to greet him."
+      },
+      {
+        "zh": "老校长对来访的学生倒履相迎。",
+        "en": "The old principal welcomed the visiting students very warmly."
+      },
+      {
+        "zh": "这样有才的人才，公司当然要倒履相迎。",
+        "en": "A talent like this deserves a very warm welcome from the company."
+      }
+    ],
+    "origin": {
+      "source": "《三国志·魏书·王粲传》",
+      "story": {
+        "en": "The scholar Cai Yong, hearing that Wang Can had come to call, hurried out to greet him with his shoes on the wrong way round (倒屣迎之).",
+        "zh": "《三国志·魏书·王粲传》：“时邕才学显著，贵重朝廷，常车骑填巷，宾客盈坐。闻粲在门，倒屣迎之。”"
+      }
+    },
+    "usage": {
+      "en": "Literary and respectful, used of the host and the welcome; also appears as 倒屣相迎. It shows great respect for the guest. Not used of ordinary greetings.",
+      "zh": "书面色彩，用于主人对客人，含敬意。也作“倒屣相迎”，不用于一般的迎接。"
+    },
+    "synonyms": [
+      "扫榻相迎",
+      "热情款待"
+    ],
+    "antonyms": [
+      "闭门谢客",
+      "拒之门外"
+    ]
+  },
+  {
+    "id": "ba-shan-gai-shi",
+    "text": "拔山盖世",
+    "pinyin": "bá shān gài shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "historical-records"
+    ],
+    "literal": "pull up · mountain · cover · world",
+    "natural": "strong enough to uproot mountains, spirit to cover the world",
+    "meaning": {
+      "en": "Tremendous strength and spirit, so great that one could uproot a mountain and surpass everyone in the world.",
+      "zh": "力量大得能拔起山，气概盖过世人，形容英雄的力量与气概非凡。"
+    },
+    "equivalents": [
+      "of superhuman might",
+      "strength to move mountains"
+    ],
+    "examples": [
+      {
+        "zh": "项羽拔山盖世，却败给了刘邦。",
+        "en": "Xiang Yu had mountain-moving strength but was beaten by Liu Bang."
+      },
+      {
+        "zh": "这位举重冠军有着拔山盖世的力量。",
+        "en": "This weightlifting champion has superhuman strength."
+      },
+      {
+        "zh": "故事里的英雄拔山盖世，没有人敢和他较量。",
+        "en": "The hero in the story was so powerful that no one dared to challenge him."
+      }
+    ],
+    "origin": {
+      "source": "《史记·项羽本纪》",
+      "story": {
+        "en": "Surrounded at Gaixia, Xiang Yu sang: 'My strength uproots mountains, my spirit covers the world; but the times are against me and my horse will not run' (力拔山兮气盖世，时不利兮骓不逝).",
+        "zh": "项羽被围垓下，慷慨悲歌：“力拔山兮气盖世，时不利兮骓不逝。”"
+      }
+    },
+    "usage": {
+      "en": "Used of heroic strength and spirit, almost always about legendary heroes like Xiang Yu. It comes from his farewell song 垓下歌, 'My strength uproots mountains, my spirit covers the world' (力拔山兮气盖世), and is also used as 力拔山兮.",
+      "zh": "多用于英雄人物，尤其项羽。出自《垓下歌》“力拔山兮气盖世”。"
+    },
+    "synonyms": [
+      "气吞山河",
+      "力拔山兮"
+    ],
+    "antonyms": [
+      "手无缚鸡之力",
+      "软弱无力"
+    ]
+  },
+  {
+    "id": "qian-jin-mai-gu",
+    "text": "千金买骨",
+    "pinyin": "qiān jīn mǎi gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "千金市骨"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority",
+      "historical-records"
+    ],
+    "literal": "thousand · gold · buy · bones",
+    "natural": "spend a fortune on bones",
+    "meaning": {
+      "en": "To pay a large price to show that one truly values talented people.",
+      "zh": "花重金买千里马的骨头，比喻不惜代价、真心招揽人才。"
+    },
+    "equivalents": [
+      "spare no expense to attract talent",
+      "pay handsomely to win talent"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司千金买骨，开出高薪招聘人才。",
+        "en": "The company spared no expense, offering high salaries to attract talent."
+      },
+      {
+        "zh": "国王千金买骨，天下的贤士纷纷前来。",
+        "en": "The king paid a fortune to show his regard for talent, and worthy men from all over came."
+      },
+      {
+        "zh": "想要留住人才，就要有千金买骨的诚意。",
+        "en": "To keep talent, you need the sincerity to invest in it."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·燕策一》",
+      "story": {
+        "en": "The Yan minister Guo Wei told King Zhao: a king bought the bones of a dead thousand-li horse for 500 gold, and within a year three real horses were offered to him; so honour me first, and talent will come.",
+        "zh": "郭隗向燕昭王讲述：古时有国君以五百金买千里马的骨头，不到一年就得到了三匹千里马，劝昭王先礼遇自己，天下贤士自会前来。"
+      }
+    },
+    "usage": {
+      "en": "Describes a ruler or boss attracting talent by generous rewards. Praising; the story is also the source of 千金市骨 and 市骨之言. Note 骨 here is the bones of a dead horse.",
+      "zh": "用于君主或老板重金招揽人才，含赞许。“千金市骨”是同一说法。注意此处的“骨”指死马之骨。"
+    },
+    "synonyms": [
+      "礼贤下士",
+      "求贤若渴"
+    ],
+    "antonyms": [
+      "埋没人才",
+      "慢待贤才"
+    ]
+  },
+  {
+    "id": "luan-feng-he-ming",
+    "text": "鸾凤和鸣",
+    "pinyin": "luán fèng hè míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "wedding-wishes",
+      "historical-records",
+      "festive-greetings"
+    ],
+    "literal": "luan bird · phoenix · in harmony · sing",
+    "natural": "luan and phoenix singing in harmony",
+    "meaning": {
+      "en": "A wish for a happy, harmonious marriage, like the mythical birds singing together.",
+      "zh": "像鸾鸟和凤凰一起鸣叫，比喻夫妻和睦恩爱。"
+    },
+    "equivalents": [
+      "a marriage in perfect harmony",
+      "a happy couple in harmony"
+    ],
+    "examples": [
+      {
+        "zh": "祝你们新婚快乐，鸾凤和鸣，白头偕老。",
+        "en": "Wishing you a happy marriage, in harmony and together till old age."
+      },
+      {
+        "zh": "这对夫妻鸾凤和鸣，是大家羡慕的一对。",
+        "en": "This couple lives in harmony, and everyone admires them."
+      },
+      {
+        "zh": "婚礼的请柬上印着“鸾凤和鸣”四个字。",
+        "en": "The wedding invitation had the four characters 'luan and phoenix in harmony' on it."
+      }
+    ],
+    "origin": {
+      "source": "《左传·庄公二十二年》",
+      "story": {
+        "en": "The diviner for Jing Zhong's marriage said: 'Phoenixes flying together, their cries in harmony' (凤凰于飞，和鸣锵锵), foretelling a happy marriage.",
+        "zh": "懿氏占卜把女儿嫁给敬仲：“是谓凤凰于飞，和鸣锵锵。”"
+      }
+    },
+    "usage": {
+      "en": "Literary and formal; used in wedding blessings, for the bride and groom. It is rarely used in ordinary conversation. Compare 凤凰于飞, from the same source.",
+      "zh": "书面语，多用于婚礼祝福，日常口语很少用。出处相同的还有“凤凰于飞”。"
+    },
+    "synonyms": [
+      "凤凰于飞",
+      "琴瑟和鸣"
+    ],
+    "antonyms": [
+      "同床异梦",
+      "貌合神离"
+    ]
+  }
+]

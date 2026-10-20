@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "san-jun-yi-de-yi-jiang-nan-qiu",
+    "text": "三军易得，一将难求",
+    "pinyin": "sān jūn yì dé, yī jiàng nán qiú",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "千军易得，一将难求"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "military-strategy-and-victory"
+    ],
+    "literal": "three · armies · easy · get, one · general · hard · seek",
+    "natural": "a thousand soldiers are easy to find, a good general is not",
+    "meaning": {
+      "en": "Ordinary people are plentiful but outstanding leaders are rare.",
+      "zh": "普通人好找，杰出的领导者难得。"
+    },
+    "equivalents": [
+      "good leaders are hard to find",
+      "an army of sheep led by a lion"
+    ],
+    "examples": [
+      {
+        "zh": "三军易得，一将难求，公司最缺的是好领导。",
+        "en": "Soldiers are easy to find, generals are not; the firm lacks good leaders."
+      },
+      {
+        "zh": "三军易得，一将难求，招人容易，找接班人难。",
+        "en": "Hiring is easy, but finding a successor is hard."
+      }
+    ],
+    "usage": {
+      "en": "The variant begins 千军易得.",
+      "zh": "也说“千军易得，一将难求”。"
+    },
+    "synonyms": [
+      "人才难得"
+    ],
+    "antonyms": [
+      "人才济济"
+    ]
+  },
+  {
+    "id": "yi-jiang-wu-neng-lei-si-san-jun",
+    "text": "一将无能，累死三军",
+    "pinyin": "yī jiàng wú néng, lèi sǐ sān jūn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "defeat-and-military-failure"
+    ],
+    "literal": "one · general · incompetent, exhaust · to death · three · armies",
+    "natural": "an incompetent general wears out the whole army",
+    "meaning": {
+      "en": "An incapable leader makes everyone under him suffer.",
+      "zh": "领导无能，下面的人都跟着受累。"
+    },
+    "equivalents": [
+      "a bad leader ruins the whole team",
+      "lions led by donkeys"
+    ],
+    "examples": [
+      {
+        "zh": "一将无能，累死三军，换个经理就好了。",
+        "en": "An incompetent leader wears everyone out; a new manager would help."
+      },
+      {
+        "zh": "项目一团糟，真是一将无能，累死三军。",
+        "en": "The project is a mess; the whole team suffers for one weak leader."
+      }
+    ],
+    "usage": {
+      "en": "Criticism of a poor leader; often used at work.",
+      "zh": "批评无能的领导，常用于职场。"
+    },
+    "synonyms": [
+      "上梁不正下梁歪"
+    ],
+    "antonyms": [
+      "将勇兵强",
+      "强将手下无弱兵"
+    ]
+  },
+  {
+    "id": "jiao-tu-si-zou-gou-peng",
+    "text": "狡兔死，走狗烹",
+    "pinyin": "jiǎo tù sǐ, zǒu gǒu pēng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "飞鸟尽，良弓藏"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "bad-company-and-betrayal",
+      "political-corruption",
+      "historical-records"
+    ],
+    "literal": "cunning · hare · dies, running · dog · is boiled",
+    "natural": "when the cunning hare is dead, the hound is boiled",
+    "meaning": {
+      "en": "Once a useful person has served their purpose, they are discarded or killed.",
+      "zh": "事情成功后，功臣就被抛弃或杀掉。"
+    },
+    "equivalents": [
+      "to be cast aside once one's work is done",
+      "to discard those who are no longer needed"
+    ],
+    "examples": [
+      {
+        "zh": "他帮老板打下天下，最后却被赶走，真是狡兔死，走狗烹。",
+        "en": "He built the firm for the boss, only to be pushed out: use and discard."
+      },
+      {
+        "zh": "狡兔死，走狗烹，功臣往往没有好下场。",
+        "en": "When the hare is dead the hound is cooked; the loyal rarely end well."
+      }
+    ],
+    "origin": {
+      "source": "《史记·越王勾践世家》",
+      "story": {
+        "en": "Fan Li, after helping Goujian of Yue defeat Wu, warned Wen Zhong: 'When the swift birds are gone the good bow is stored; when the cunning hare is dead the hound is boiled.'",
+        "zh": "范蠡劝文种：“蜚鸟尽，良弓藏；狡兔死，走狗烹。”"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 飞鸟尽，良弓藏; stresses ingratitude of rulers or bosses.",
+      "zh": "常与“飞鸟尽，良弓藏”并用，指上位者忘恩负义。"
+    },
+    "synonyms": [
+      "卸磨杀驴",
+      "过河拆桥"
+    ],
+    "antonyms": [
+      "功成名就",
+      "共享富贵"
+    ]
+  },
+  {
+    "id": "bao-han-bu-zhi-e-han-ji",
+    "text": "饱汉不知饿汉饥",
+    "pinyin": "bǎo hàn bù zhī è hàn jī",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "饱人不知饿人饥"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "negative-character-flaws"
+    ],
+    "literal": "full · man · not · know · hungry · man's · hunger",
+    "natural": "the well-fed cannot understand the hunger of the starving",
+    "meaning": {
+      "en": "Those who are comfortable cannot understand the hardship of the poor.",
+      "zh": "生活安逸的人体会不到穷人的苦处。"
+    },
+    "equivalents": [
+      "the well-fed don't know the hungry's pain",
+      "how the other half lives"
+    ],
+    "examples": [
+      {
+        "zh": "饱汉不知饿汉饥，他怎么会懂我们的难处。",
+        "en": "The well-fed don't know hunger; how would he understand our difficulties?"
+      },
+      {
+        "zh": "饱汉不知饿汉饥，有钱人很难体会穷人的艰辛。",
+        "en": "The rich can hardly feel the poor's hardship."
+      }
+    ],
+    "usage": {
+      "en": "Often a complaint against the privileged.",
+      "zh": "多用来抱怨衣食无忧的人不理解疾苦。"
+    },
+    "synonyms": [
+      "何不食肉糜",
+      "站着说话不腰疼"
+    ],
+    "antonyms": [
+      "感同身受",
+      "设身处地"
+    ]
+  },
+  {
+    "id": "qiong-zai-nao-shi-wu-ren",
+    "text": "穷在闹市无人问，富在深山有远亲",
+    "pinyin": "qióng zài nào shì wú rén wèn, fù zài shēn shān yǒu yuǎn qīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "poor · in · busy · market · no · one · asks, rich · in · deep · mountain · has · distant · kin",
+    "natural": "a poor man in a busy market is ignored; a rich man in the mountains has distant relatives",
+    "meaning": {
+      "en": "People ignore you when you are poor and flatter you when you are rich.",
+      "zh": "穷时无人理睬，富了远亲也来巴结。"
+    },
+    "equivalents": [
+      "fair-weather friends",
+      "everybody loves a rich man"
+    ],
+    "examples": [
+      {
+        "zh": "穷在闹市无人问，富在深山有远亲，他深有体会。",
+        "en": "He knows from experience that the poor are ignored and the rich have friends."
+      },
+      {
+        "zh": "中奖后，亲戚们纷纷上门，真是穷在闹市无人问，富在深山有远亲。",
+        "en": "After the lottery win, relatives came flocking."
+      }
+    ],
+    "usage": {
+      "en": "A cynical comment on human nature.",
+      "zh": "感叹世态炎凉。"
+    },
+    "synonyms": [
+      "世态炎凉",
+      "趋炎附势"
+    ],
+    "antonyms": [
+      "患难见真情"
+    ]
+  },
+  {
+    "id": "qiong-ren-de-hai-zi-zao-dang-jia",
+    "text": "穷人的孩子早当家",
+    "pinyin": "qióng rén de hái zi zǎo dāng jiā",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "positive-character-qualities"
+    ],
+    "literal": "poor · people's · children · early · run · household",
+    "natural": "children of the poor take charge of the household early",
+    "meaning": {
+      "en": "Children from poor families mature early and learn to take responsibility.",
+      "zh": "穷人家的孩子很早就懂事，担起家庭责任。"
+    },
+    "equivalents": [
+      "hardship makes children grow up fast"
+    ],
+    "examples": [
+      {
+        "zh": "穷人的孩子早当家，他十岁就会做饭了。",
+        "en": "Poor children grow up early; he could cook at ten."
+      },
+      {
+        "zh": "她从小帮家里干活，真是穷人的孩子早当家。",
+        "en": "She helped at home from a young age."
+      }
+    ],
+    "usage": {
+      "en": "Positive, often used with sympathy and respect.",
+      "zh": "多含同情与敬意。"
+    },
+    "synonyms": [
+      "少年老成"
+    ],
+    "antonyms": [
+      "娇生惯养"
+    ]
+  },
+  {
+    "id": "fu-bu-guo-san-dai",
+    "text": "富不过三代",
+    "pinyin": "fù bù guò sān dài",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "change",
+      "luxury-and-extravagance"
+    ],
+    "literal": "wealth · not · exceed · three · generations",
+    "natural": "riches do not last beyond three generations",
+    "meaning": {
+      "en": "Family fortunes rarely last long; the heirs tend to squander them.",
+      "zh": "家业很难传过三代，子孙往往败光。"
+    },
+    "equivalents": [
+      "from clogs to clogs in three generations",
+      "shirtsleeves to shirtsleeves in three generations"
+    ],
+    "examples": [
+      {
+        "zh": "富不过三代，这家公司传到孙辈就衰落了。",
+        "en": "Wealth rarely lasts three generations; the firm declined under the grandchildren."
+      },
+      {
+        "zh": "富不过三代，要教育孩子勤俭。",
+        "en": "Riches rarely survive three generations, so teach children thrift."
+      }
+    ],
+    "usage": {
+      "en": "Often used of family firms and heirs.",
+      "zh": "常用于家族企业和富二代。"
+    },
+    "synonyms": [
+      "坐吃山空",
+      "败家子"
+    ],
+    "antonyms": [
+      "家业兴旺"
+    ]
+  },
+  {
+    "id": "fu-gui-xian-zhong-qiu",
+    "text": "富贵险中求",
+    "pinyin": "fù guì xiǎn zhōng qiú",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "danger",
+      "high-aspirations"
+    ],
+    "literal": "wealth · rank · risk · in · seek",
+    "natural": "wealth and status are sought through risk",
+    "meaning": {
+      "en": "Great rewards come only from taking risks.",
+      "zh": "要想得到大富贵，必须冒风险。"
+    },
+    "equivalents": [
+      "nothing ventured, nothing gained",
+      "no risk, no reward"
+    ],
+    "examples": [
+      {
+        "zh": "富贵险中求，他放弃稳定工作去创业。",
+        "en": "No risk, no reward: he gave up a stable job to start a business."
+      },
+      {
+        "zh": "富贵险中求，但也要量力而行。",
+        "en": "Fortune favours risk, but know your limits."
+      }
+    ],
+    "usage": {
+      "en": "Encourages risk-taking; may also warn of recklessness.",
+      "zh": "既鼓励冒险，也可能提醒鲁莽。"
+    },
+    "synonyms": [
+      "不入虎穴，焉得虎子",
+      "铤而走险"
+    ],
+    "antonyms": [
+      "稳扎稳打"
+    ]
+  },
+  {
+    "id": "ren-qiong-zhi-duan-ma-shou-mao-chang",
+    "text": "人穷志短，马瘦毛长",
+    "pinyin": "rén qióng zhì duǎn, mǎ shòu máo cháng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "giving-up-and-weakness"
+    ],
+    "literal": "person · poor · ambition · short, horse · thin · hair · long",
+    "natural": "a poor man's ambitions shrink, as a thin horse's coat grows long",
+    "meaning": {
+      "en": "Poverty wears down one's confidence and ambition.",
+      "zh": "人一穷就缺乏志气，没有远大追求。"
+    },
+    "equivalents": [
+      "poverty crushes ambition"
+    ],
+    "examples": [
+      {
+        "zh": "人穷志短，马瘦毛长，他不敢再有什么想法。",
+        "en": "Poverty shrinks one's ambition; he no longer dares to dream."
+      },
+      {
+        "zh": "人穷志短，马瘦毛长，但也有人穷志不穷。",
+        "en": "Poverty shortens ambition, but some stay ambitious though poor."
+      }
+    ],
+    "usage": {
+      "en": "Often quoted with sympathy, or contrasted with 人穷志不穷.",
+      "zh": "常与“人穷志不穷”对比。"
+    },
+    "synonyms": [
+      "英雄气短"
+    ],
+    "antonyms": [
+      "人穷志不穷",
+      "穷且益坚"
+    ]
+  },
+  {
+    "id": "ma-shan-bei-ren-qi-ren-shan-bei-ren-qi",
+    "text": "马善被人骑，人善被人欺",
+    "pinyin": "mǎ shàn bèi rén qí, rén shàn bèi rén qī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "horse · gentle · is · by people · ridden, person · gentle · is · by people · bullied",
+    "natural": "a gentle horse is ridden, a gentle man is bullied",
+    "meaning": {
+      "en": "Being too meek invites others to push you around.",
+      "zh": "太老实善良就会被人欺负。"
+    },
+    "equivalents": [
+      "nice guys finish last",
+      "if you're a doormat, people walk on you"
+    ],
+    "examples": [
+      {
+        "zh": "马善被人骑，人善被人欺，该硬气时就要硬气。",
+        "en": "Gentle horses get ridden and gentle people bullied; be firm when needed."
+      },
+      {
+        "zh": "他总是忍让，结果马善被人骑，人善被人欺。",
+        "en": "He always gave way and was walked over."
+      }
+    ],
+    "usage": {
+      "en": "Advice to be assertive.",
+      "zh": "劝人该强硬时要强硬。"
+    },
+    "synonyms": [
+      "软柿子好捏"
+    ],
+    "antonyms": [
+      "兔子急了也咬人"
+    ]
+  },
+  {
+    "id": "tu-zi-ji-le-ye-yao-ren",
+    "text": "兔子急了也咬人",
+    "pinyin": "tù zi jí le yě yǎo rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "resistance-to-change",
+      "anger"
+    ],
+    "literal": "rabbit · anxious · even · bite · people",
+    "natural": "even a cornered rabbit will bite",
+    "meaning": {
+      "en": "Even the meekest will fight back when pushed too far.",
+      "zh": "再老实的人被逼急了也会反抗。"
+    },
+    "equivalents": [
+      "even a worm will turn",
+      "a cornered rat fights"
+    ],
+    "examples": [
+      {
+        "zh": "别逼他太紧，兔子急了也咬人。",
+        "en": "Don't push him too hard; even a rabbit bites when cornered."
+      },
+      {
+        "zh": "兔子急了也咬人，何况是人。",
+        "en": "If a cornered rabbit bites, so will a person."
+      }
+    ],
+    "usage": {
+      "en": "A warning to those who bully the weak.",
+      "zh": "多用来警告欺压弱者的人。"
+    },
+    "synonyms": [
+      "狗急跳墙",
+      "困兽犹斗"
+    ],
+    "antonyms": [
+      "逆来顺受"
+    ]
+  },
+  {
+    "id": "gou-gai-bu-liao-chi-shi",
+    "text": "狗改不了吃屎",
+    "pinyin": "gǒu gǎi bù liǎo chī shǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "resistance-to-change"
+    ],
+    "literal": "dog · change · cannot · eat · dung",
+    "natural": "a dog can't stop eating dung",
+    "meaning": {
+      "en": "Bad habits and a bad nature never change.",
+      "zh": "恶习和本性很难改变。"
+    },
+    "equivalents": [
+      "a leopard can't change its spots",
+      "you can't teach an old dog new tricks"
+    ],
+    "examples": [
+      {
+        "zh": "他出狱没多久又去赌博，真是狗改不了吃屎。",
+        "en": "Not long out of prison he's gambling again: a leopard can't change its spots."
+      },
+      {
+        "zh": "别指望他改，狗改不了吃屎。",
+        "en": "Don't expect him to change."
+      }
+    ],
+    "usage": {
+      "en": "Vulgar; used about incorrigible people.",
+      "zh": "较粗俗，指本性难移的人。"
+    },
+    "synonyms": [
+      "江山易改，本性难移",
+      "死性不改"
+    ],
+    "antonyms": [
+      "改过自新",
+      "洗心革面"
+    ]
+  },
+  {
+    "id": "gou-zui-li-tu-bu-chu-xiang-ya",
+    "text": "狗嘴里吐不出象牙",
+    "pinyin": "gǒu zuǐ lǐ tǔ bù chū xiàng yá",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "negative-character-flaws"
+    ],
+    "literal": "dog · mouth · in · spit · not · out · ivory",
+    "natural": "you can't get ivory out of a dog's mouth",
+    "meaning": {
+      "en": "A nasty person cannot say anything nice.",
+      "zh": "坏人说不出好话。"
+    },
+    "equivalents": [
+      "you can't expect good words from a bad man",
+      "a foul mouth speaks no good"
+    ],
+    "examples": [
+      {
+        "zh": "别理他，狗嘴里吐不出象牙。",
+        "en": "Ignore him; nothing nice ever comes out of his mouth."
+      },
+      {
+        "zh": "她骂人的话太难听了，真是狗嘴里吐不出象牙。",
+        "en": "What she said was so offensive."
+      }
+    ],
+    "usage": {
+      "en": "Rude; used as an insult toward a person who talks nastily.",
+      "zh": "粗话，用于骂人说话难听。"
+    },
+    "synonyms": [
+      "口出恶言"
+    ],
+    "antonyms": [
+      "金口玉言",
+      "出口成章"
+    ]
+  },
+  {
+    "id": "gou-yan-kan-ren-di",
+    "text": "狗眼看人低",
+    "pinyin": "gǒu yǎn kàn rén dī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "dog · eyes · look · people · low",
+    "natural": "with a dog's eyes, looking down on people",
+    "meaning": {
+      "en": "To look down on others, especially because of their wealth or rank.",
+      "zh": "瞧不起人，以貌取人，势利。"
+    },
+    "equivalents": [
+      "to look down one's nose at people",
+      "to be a snob"
+    ],
+    "examples": [
+      {
+        "zh": "这家店的店员狗眼看人低，见我穿得普通就爱答不理。",
+        "en": "The shop assistants look down on people; they ignored me as I was dressed plainly."
+      },
+      {
+        "zh": "别狗眼看人低，说不定他以后比你强。",
+        "en": "Don't look down on people; he may surpass you."
+      }
+    ],
+    "usage": {
+      "en": "Rude; describes snobbery.",
+      "zh": "粗俗说法，指势利眼。"
+    },
+    "synonyms": [
+      "狗仗人势",
+      "势利眼"
+    ],
+    "antonyms": [
+      "礼贤下士",
+      "一视同仁"
+    ]
+  },
+  {
+    "id": "hui-yao-ren-de-gou-bu-jiao",
+    "text": "会咬人的狗不叫",
+    "pinyin": "huì yǎo rén de gǒu bù jiào",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "danger",
+      "deception-and-false-appearances"
+    ],
+    "literal": "can · bite · people · 's · dog · not · bark",
+    "natural": "the dog that really bites doesn't bark",
+    "meaning": {
+      "en": "Truly dangerous people do not make a fuss; loud ones are often harmless.",
+      "zh": "真正厉害的人不声张，喊得凶的反而不可怕。"
+    },
+    "equivalents": [
+      "barking dogs seldom bite",
+      "still waters run deep"
+    ],
+    "examples": [
+      {
+        "zh": "会咬人的狗不叫，要小心那个安静的对手。",
+        "en": "The dog that bites doesn't bark; beware of the quiet rival."
+      },
+      {
+        "zh": "会咬人的狗不叫，别小看沉默的人。",
+        "en": "Don't underestimate the silent ones."
+      }
+    ],
+    "usage": {
+      "en": "A caution about quiet but dangerous people.",
+      "zh": "提醒小心沉默的厉害角色。"
+    },
+    "synonyms": [
+      "咬人的狗不露齿",
+      "静水流深"
+    ],
+    "antonyms": [
+      "雷声大，雨点小"
+    ]
+  },
+  {
+    "id": "bu-guan-hei-mao-bai-mao",
+    "text": "不管黑猫白猫，能捉到老鼠就是好猫",
+    "pinyin": "bù guǎn hēi māo bái māo, néng zhuō dào lǎo shǔ jiù shì hǎo māo",
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "modern",
+    "variants": [
+      "不管白猫黑猫，捉住老鼠就是好猫"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "efficiency",
+      "standards-and-benchmarks"
+    ],
+    "literal": "no matter · black · cat · white · cat, can · catch · mouse · is · good · cat",
+    "natural": "it doesn't matter whether the cat is black or white, as long as it catches mice",
+    "meaning": {
+      "en": "Judge methods by results, not by labels or ideology.",
+      "zh": "不论方法如何，能解决问题就是好办法。"
+    },
+    "equivalents": [
+      "the proof of the pudding is in the eating",
+      "whatever works"
+    ],
+    "examples": [
+      {
+        "zh": "不管黑猫白猫，能捉到老鼠就是好猫，先把事情做成再说。",
+        "en": "Whatever works: let's get it done first."
+      },
+      {
+        "zh": "他用人只看能力，不管黑猫白猫，能捉到老鼠就是好猫。",
+        "en": "He hires on ability alone: a good cat is one that catches mice."
+      }
+    ],
+    "usage": {
+      "en": "Popularly linked with Deng Xiaoping's 1960s remark; often shortened to 黑猫白猫论.",
+      "zh": "与邓小平的言论联系紧密，常简称“黑猫白猫论”。"
+    },
+    "synonyms": [
+      "实事求是",
+      "不拘一格"
+    ],
+    "antonyms": [
+      "本本主义",
+      "唯成分论"
+    ]
+  },
+  {
+    "id": "niu-bu-he-shui-qiang-an-tou",
+    "text": "牛不喝水强按头",
+    "pinyin": "niú bù hē shuǐ qiáng àn tóu",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "牛不喝水难按角"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior"
+    ],
+    "literal": "ox · not · drink · water · force · press · head",
+    "natural": "force the ox's head down when it won't drink",
+    "meaning": {
+      "en": "To force someone to do something they do not want to do.",
+      "zh": "别人不愿意，硬要强迫。"
+    },
+    "equivalents": [
+      "you can lead a horse to water but you can't make it drink"
+    ],
+    "examples": [
+      {
+        "zh": "他不想去，你也别牛不喝水强按头。",
+        "en": "He doesn't want to go; don't force him."
+      },
+      {
+        "zh": "学习得靠自觉，牛不喝水强按头没有用。",
+        "en": "Studying must be voluntary; forcing doesn't work."
+      }
+    ],
+    "usage": {
+      "en": "Often a plea against forcing someone's will.",
+      "zh": "常用来劝人不要强迫。"
+    },
+    "synonyms": [
+      "强人所难",
+      "强买强卖"
+    ],
+    "antonyms": [
+      "循循善诱"
+    ]
+  },
+  {
+    "id": "hao-ma-pei-hao-an",
+    "text": "好马配好鞍",
+    "pinyin": "hǎo mǎ pèi hǎo ān",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "standards-and-benchmarks",
+      "fine-dress-and-fashion",
+      "wedding-wishes"
+    ],
+    "literal": "good · horse · match · good · saddle",
+    "natural": "a good horse deserves a good saddle",
+    "meaning": {
+      "en": "Good people or things deserve suitable accessories; also used of well-matched pairs.",
+      "zh": "好东西要有好的配件，好人要配好搭档。"
+    },
+    "equivalents": [
+      "a fine horse needs a fine saddle",
+      "clothes make the man"
+    ],
+    "examples": [
+      {
+        "zh": "好马配好鞍，这么好的手机该配个好壳。",
+        "en": "A good horse needs a good saddle; such a phone deserves a good case."
+      },
+      {
+        "zh": "好马配好鞍，新郎新娘真是天生一对。",
+        "en": "A good horse and a good saddle: the couple are perfectly matched."
+      }
+    ],
+    "usage": {
+      "en": "Often used in wedding compliments or about matching quality.",
+      "zh": "常用于称赞般配，也可指搭配得当。"
+    },
+    "synonyms": [
+      "相得益彰",
+      "天生一对"
+    ],
+    "antonyms": [
+      "明珠暗投"
+    ]
+  },
+  {
+    "id": "yang-rou-mei-chi-zhao-re-le-yi-shen-shan",
+    "text": "羊肉没吃着，惹了一身膻",
+    "pinyin": "yáng ròu méi chī zháo, rě le yī shēn shān",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "mutton · not · eat · get, attract · one · body · gamey smell",
+    "natural": "never got to eat the mutton, but ended up smelling of it",
+    "meaning": {
+      "en": "To get blamed or tainted without having gained any benefit.",
+      "zh": "好处没捞到，反而惹了一身麻烦。"
+    },
+    "equivalents": [
+      "to get the blame without the benefit",
+      "all the trouble and none of the gain"
+    ],
+    "examples": [
+      {
+        "zh": "这事我根本没赚钱，羊肉没吃着，惹了一身膻。",
+        "en": "I made no money from this, only trouble."
+      },
+      {
+        "zh": "羊肉没吃着，惹了一身膻，他后悔参与了这件事。",
+        "en": "He regretted getting involved: all trouble and no gain."
+      }
+    ],
+    "usage": {
+      "en": "Used about being dragged into trouble for nothing.",
+      "zh": "指白白惹上麻烦。"
+    },
+    "synonyms": [
+      "吃力不讨好",
+      "偷鸡不着蚀把米"
+    ],
+    "antonyms": [
+      "坐享其成"
+    ]
+  },
+  {
+    "id": "fei-shui-bu-liu-wai-ren-tian",
+    "text": "肥水不流外人田",
+    "pinyin": "féi shuǐ bù liú wài rén tián",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relationships",
+      "conduct"
+    ],
+    "literal": "rich · water · not · flow · outside · people's · fields",
+    "natural": "fertile water should not flow into outsiders' fields",
+    "meaning": {
+      "en": "Keep good things within the family or group rather than giving them to outsiders.",
+      "zh": "好处要留给自己人，不让外人占便宜。"
+    },
+    "equivalents": [
+      "charity begins at home",
+      "keep it in the family"
+    ],
+    "examples": [
+      {
+        "zh": "这个项目交给自家公司做，肥水不流外人田。",
+        "en": "Give the project to our own company; keep it in the family."
+      },
+      {
+        "zh": "肥水不流外人田，有好机会先考虑亲戚。",
+        "en": "Keep opportunities in the family; consider relatives first."
+      }
+    ],
+    "usage": {
+      "en": "Neutral but can imply favouritism or nepotism.",
+      "zh": "中性，但可能含任人唯亲之意。"
+    },
+    "synonyms": [
+      "近水楼台先得月"
+    ],
+    "antonyms": [
+      "大公无私"
+    ]
+  },
+  {
+    "id": "xin-guan-shang-ren-san-ba-huo",
+    "text": "新官上任三把火",
+    "pinyin": "xīn guān shàng rèn sān bǎ huǒ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "leadership-and-authority",
+      "change"
+    ],
+    "literal": "new · official · take · post · three · fires",
+    "natural": "a new official lights three fires on taking office",
+    "meaning": {
+      "en": "A new leader starts with energetic reforms to establish authority.",
+      "zh": "新领导刚上任，往往要推行几项新措施。"
+    },
+    "equivalents": [
+      "a new broom sweeps clean"
+    ],
+    "examples": [
+      {
+        "zh": "新官上任三把火，新经理一来就改了考勤制度。",
+        "en": "A new broom sweeps clean: the new manager changed the attendance rules at once."
+      },
+      {
+        "zh": "新官上任三把火，大家等着看他怎么烧。",
+        "en": "Everyone waits to see what the new boss will do."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; sometimes with the hint that the zeal won't last.",
+      "zh": "中性，有时暗示热度不会持久。"
+    },
+    "synonyms": [
+      "雷厉风行"
+    ],
+    "antonyms": [
+      "萧规曹随",
+      "因循守旧"
+    ]
+  },
+  {
+    "id": "pa-de-gao-shuai-de-zhong",
+    "text": "爬得高，摔得重",
+    "pinyin": "pá de gāo, shuāi de zhòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "danger",
+      "bad-fortune"
+    ],
+    "literal": "climb · high, fall · hard",
+    "natural": "the higher you climb, the harder you fall",
+    "meaning": {
+      "en": "The greater your rise, the more severe the fall.",
+      "zh": "爬得越高，摔下来越惨。"
+    },
+    "equivalents": [
+      "the bigger they are, the harder they fall",
+      "pride comes before a fall"
+    ],
+    "examples": [
+      {
+        "zh": "爬得高，摔得重，贪官一旦被查就一无所有。",
+        "en": "The higher they climb, the harder they fall; corrupt officials lose everything."
+      },
+      {
+        "zh": "他从巅峰跌落，真是爬得高，摔得重。",
+        "en": "He fell from the peak: the higher you climb, the harder the fall."
+      }
+    ],
+    "usage": {
+      "en": "A warning to the ambitious and arrogant.",
+      "zh": "用来警告得意的人。"
+    },
+    "synonyms": [
+      "登高跌重",
+      "物极必反"
+    ],
+    "antonyms": [
+      "平步青云"
+    ]
+  },
+  {
+    "id": "zhan-de-gao-kan-de-yuan",
+    "text": "站得高，看得远",
+    "pinyin": "zhàn de gāo, kàn de yuǎn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "high-aspirations"
+    ],
+    "literal": "stand · high, see · far",
+    "natural": "the higher you stand, the farther you see",
+    "meaning": {
+      "en": "A higher position or broader perspective brings greater foresight.",
+      "zh": "站得高才能看得远，视野更开阔。"
+    },
+    "equivalents": [
+      "a high vantage point gives a wider view",
+      "think big picture"
+    ],
+    "examples": [
+      {
+        "zh": "站得高，看得远，管理者要有全局观。",
+        "en": "The higher you stand the farther you see; managers need to see the whole picture."
+      },
+      {
+        "zh": "登上山顶，才懂什么叫站得高，看得远。",
+        "en": "Standing on the summit shows what it means to see far."
+      }
+    ],
+    "usage": {
+      "en": "Both literal and metaphorical; often paired with 登高望远.",
+      "zh": "既指实际登高，也比喻眼界。"
+    },
+    "synonyms": [
+      "高瞻远瞩",
+      "登高望远"
+    ],
+    "antonyms": [
+      "目光短浅",
+      "井底之蛙"
+    ]
+  }
+]

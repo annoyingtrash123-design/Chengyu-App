@@ -1,0 +1,677 @@
+[
+  {
+    "id": "shan-xi-lao-xiang-ai-chi-cu",
+    "text": "山西老乡——爱吃醋",
+    "pinyin": "shān xī lǎo xiāng —— ài chī cù",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "山西老乡",
+      "爱吃醋"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "complex-emotional-states"
+    ],
+    "literal": "Shanxi · fellow native — love · eat · vinegar",
+    "natural": "A Shanxi native loves vinegar",
+    "meaning": {
+      "en": "Jealous (punning on 吃醋, 'to be jealous').",
+      "zh": "山西人爱吃醋，借“吃醋”双关嫉妒。"
+    },
+    "equivalents": [
+      "green-eyed",
+      "jealous"
+    ],
+    "examples": [
+      {
+        "zh": "山西老乡，他一看见女朋友和别人说话就爱吃醋。",
+        "en": "He gets jealous whenever his girlfriend talks to someone else."
+      },
+      {
+        "zh": "你别山西老乡了，我只是同事而已。",
+        "en": "Don't get jealous; he's just a colleague."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Pun: 吃醋 literally 'eat vinegar' also means 'be jealous'; Shanxi is famed for vinegar.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。双关：“吃醋”指嫉妒；山西以醋闻名。"
+    },
+    "synonyms": [
+      "争风吃醋"
+    ],
+    "antonyms": [
+      "大度宽容"
+    ]
+  },
+  {
+    "id": "shai-zi-zhuang-shui-lou-dong-bai-chu",
+    "text": "筛子装水——漏洞百出",
+    "pinyin": "shāi zi zhuāng shuǐ —— lòu dòng bǎi chū",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "筛子装水",
+      "漏洞百出"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "poor-workmanship"
+    ],
+    "literal": "sieve · hold · water — leak · holes · hundred · emerge",
+    "natural": "Holding water in a sieve",
+    "meaning": {
+      "en": "Full of flaws.",
+      "zh": "筛子满是孔，装不住水，比喻说话做事破绽极多。"
+    },
+    "equivalents": [
+      "full of holes",
+      "riddled with loopholes"
+    ],
+    "examples": [
+      {
+        "zh": "他的说辞筛子装水，漏洞百出。",
+        "en": "His story is riddled with holes."
+      },
+      {
+        "zh": "这份方案筛子装水似的，不能通过。",
+        "en": "The plan is full of holes and can't pass."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. The punchline is the chengyu 漏洞百出.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“漏洞百出”。"
+    },
+    "synonyms": [
+      "漏洞百出",
+      "千疮百孔"
+    ],
+    "antonyms": [
+      "天衣无缝",
+      "无懈可击"
+    ]
+  },
+  {
+    "id": "nan-guo-xian-sheng-chui-yu",
+    "text": "南郭先生吹竽——滥竽充数",
+    "pinyin": "nán guō xiān shēng chuī yú —— làn yú chōng shù",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "南郭先生吹竽",
+      "滥竽充数"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "Mr Nanguo · play · yu pipe — pass off · yu · make up · number",
+    "natural": "Mr Nanguo playing the yu in the band",
+    "meaning": {
+      "en": "Passing oneself off as skilled to fill a place.",
+      "zh": "没本事的人混在行家里充数。"
+    },
+    "equivalents": [
+      "a fraud in the ranks",
+      "pad out the numbers"
+    ],
+    "examples": [
+      {
+        "zh": "南郭先生吹竽，他在团队里只是滥竽充数。",
+        "en": "He is just making up the numbers in the team."
+      },
+      {
+        "zh": "别让南郭先生吹竽的人混进来。",
+        "en": "Don't let impostors slip in."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. From the 《韩非子》 fable; punchline is the chengyu 滥竽充数.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。出自《韩非子》寓言；后半句即成语“滥竽充数”。"
+    },
+    "synonyms": [
+      "滥竽充数",
+      "鱼目混珠"
+    ],
+    "antonyms": [
+      "名副其实",
+      "真才实学"
+    ]
+  },
+  {
+    "id": "liu-bei-mai-cao-xie-ben-hang",
+    "text": "刘备卖草鞋——本行",
+    "pinyin": "liú bèi mài cǎo xié —— běn háng",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "刘备卖草鞋",
+      "本行"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "useful-tools-and-skill",
+      "three-kingdoms"
+    ],
+    "literal": "Liu Bei · sell · straw sandals — one's own · trade",
+    "natural": "Liu Bei selling straw sandals",
+    "meaning": {
+      "en": "Back at one's original trade; at home in the work.",
+      "zh": "刘备早年织席贩履，比喻干的是老本行。"
+    },
+    "equivalents": [
+      "back to one's old trade",
+      "on home ground"
+    ],
+    "examples": [
+      {
+        "zh": "刘备卖草鞋，修车是他的本行。",
+        "en": "Repairing cars is his old trade."
+      },
+      {
+        "zh": "他又回去教书，真是刘备卖草鞋。",
+        "en": "He went back to teaching, his original line."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Liu Bei sold sandals and mats before rising to power.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。刘备早年以织席贩履为生。"
+    },
+    "synonyms": [
+      "老本行"
+    ],
+    "antonyms": [
+      "改行"
+    ]
+  },
+  {
+    "id": "liang-shan-bo-de-jun-shi-wu-yong",
+    "text": "梁山泊的军师——无（吴）用",
+    "pinyin": "liáng shān bó de jūn shī —— wú (wú) yòng",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "梁山泊的军师",
+      "无（吴）用"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "broken-or-useless-items",
+      "poor-performance"
+    ],
+    "literal": "Liangshan Marsh · 's · strategist — useless (Wu Yong)",
+    "natural": "The strategist of Liangshan Marsh: Wu Yong",
+    "meaning": {
+      "en": "Useless (pun on the name 吴用 and 无用).",
+      "zh": "梁山军师名叫吴用，谐音“无用”。"
+    },
+    "equivalents": [
+      "a pun on 'useless'",
+      "good for nothing"
+    ],
+    "examples": [
+      {
+        "zh": "梁山泊的军师，你提的办法真是无用。",
+        "en": "Your suggestion is useless."
+      },
+      {
+        "zh": "他一点忙都帮不上，梁山泊的军师。",
+        "en": "He can't help at all, a real Wu Yong."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Pun: 吴用 (Wu Yong, the strategist in 《水浒传》) sounds like 无用 'useless'.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。双关：《水浒传》军师吴用谐音“无用”。"
+    },
+    "synonyms": [
+      "无济于事",
+      "毫无用处"
+    ],
+    "antonyms": [
+      "大有用处"
+    ]
+  },
+  {
+    "id": "liu-bei-yu-kong-ming-ru-yu-de-shui",
+    "text": "刘备遇孔明——如鱼得水",
+    "pinyin": "liú bèi yù kǒng míng —— rú yú dé shuǐ",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "刘备遇孔明",
+      "如鱼得水"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "successful-completion",
+      "three-kingdoms"
+    ],
+    "literal": "Liu Bei · meet · Kongming — like · fish · get · water",
+    "natural": "Liu Bei meeting Kongming",
+    "meaning": {
+      "en": "Finding the perfect partner or setting.",
+      "zh": "刘备得诸葛亮辅佐，如鱼得水，比喻得到了合适的帮手或环境。"
+    },
+    "equivalents": [
+      "like a fish in water",
+      "a perfect match"
+    ],
+    "examples": [
+      {
+        "zh": "刘备遇孔明，他找到新搭档后如鱼得水。",
+        "en": "With his new partner he is in his element."
+      },
+      {
+        "zh": "来到这家公司，他真像刘备遇孔明。",
+        "en": "At this company he has found his element."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Liu Bei said he found Kongming like a fish finding water (《三国志》).",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。刘备称得孔明如鱼得水（《三国志》）。"
+    },
+    "synonyms": [
+      "如鱼得水",
+      "相得益彰"
+    ],
+    "antonyms": [
+      "孤掌难鸣"
+    ]
+  },
+  {
+    "id": "lian-po-bei-jing-tiao-fu-jing-qing-zui",
+    "text": "廉颇背荆条——负荆请罪",
+    "pinyin": "lián pō bēi jīng tiáo —— fù jīng qǐng zuì",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "廉颇背荆条",
+      "负荆请罪"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "historical-records"
+    ],
+    "literal": "Lian Po · carry · thorn rods — bear · thorns · beg · pardon",
+    "natural": "Lian Po carrying thorn rods on his back",
+    "meaning": {
+      "en": "Humbly apologising.",
+      "zh": "廉颇背着荆条向蔺相如谢罪，比喻诚恳认错。"
+    },
+    "equivalents": [
+      "make a humble apology",
+      "eat humble pie"
+    ],
+    "examples": [
+      {
+        "zh": "廉颇背荆条，他亲自上门道歉。",
+        "en": "He went in person to apologise humbly."
+      },
+      {
+        "zh": "错在我，我得廉颇背荆条去赔礼。",
+        "en": "I am in the wrong and must go and apologise."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. From Lian Po and Lin Xiangru in 《史记》.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。出自《史记》廉颇蔺相如故事。"
+    },
+    "synonyms": [
+      "负荆请罪",
+      "登门谢罪"
+    ],
+    "antonyms": [
+      "死不认错"
+    ]
+  },
+  {
+    "id": "jing-ke-ci-qin-wang-tu",
+    "text": "荆轲刺秦王——图穷匕首见",
+    "pinyin": "jīng kē cì qín wáng —— tú qióng bǐ shǒu xiàn",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "荆轲刺秦王",
+      "图穷匕首见"
+    ],
+    "variants": [
+      "荆轲刺秦王——图穷匕见"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "historical-records"
+    ],
+    "literal": "Jing Ke · stab · King of Qin — map · run out · dagger · appear",
+    "natural": "Jing Ke stabbing the King of Qin",
+    "meaning": {
+      "en": "The real intent is revealed at the last moment.",
+      "zh": "荆轲献地图，地图展到尽头露出匕首，比喻最后露出真面目。"
+    },
+    "equivalents": [
+      "show one's true colours",
+      "the mask drops"
+    ],
+    "examples": [
+      {
+        "zh": "荆轲刺秦王，谈判到最后图穷匕首见。",
+        "en": "At the end of the talks his true aim showed."
+      },
+      {
+        "zh": "他的好心原来是荆轲刺秦王。",
+        "en": "His kindness hid a real purpose."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. From 《史记·刺客列传》.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。出自《史记·刺客列传》。"
+    },
+    "synonyms": [
+      "图穷匕见",
+      "原形毕露"
+    ],
+    "antonyms": [
+      "始终如一"
+    ]
+  },
+  {
+    "id": "jin-qi-ma-tong-wai-mian",
+    "text": "金漆马桶——外面光，里面臭",
+    "pinyin": "jīn qī mǎ tǒng —— wài miàn guāng, lǐ miàn chòu",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "金漆马桶",
+      "外面光，里面臭"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "appearance"
+    ],
+    "literal": "gilded · chamber pot — outside · shiny, inside · stinking",
+    "natural": "A gilded chamber pot: shiny outside, foul inside",
+    "meaning": {
+      "en": "Looks fine outside but is rotten within.",
+      "zh": "金漆马桶外表光鲜，内里肮脏，比喻徒有其表。"
+    },
+    "equivalents": [
+      "whited sepulchre",
+      "fine outside, rotten inside"
+    ],
+    "examples": [
+      {
+        "zh": "金漆马桶，这家公司外面光，里面臭。",
+        "en": "The company looks good outside but is rotten within."
+      },
+      {
+        "zh": "别被他金漆马桶似的外表骗了。",
+        "en": "Don't be fooled by his shiny exterior."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Derogatory.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。含贬义。"
+    },
+    "synonyms": [
+      "金玉其外，败絮其中",
+      "表里不一"
+    ],
+    "antonyms": [
+      "表里如一"
+    ]
+  },
+  {
+    "id": "jiang-zi-ya-de-zuo-qi-si-bu-xiang",
+    "text": "姜子牙的坐骑——四不像",
+    "pinyin": "jiāng zǐ yá de zuò qí —— sì bù xiàng",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "姜子牙的坐骑",
+      "四不像"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "unusual-combinations",
+      "myths-legends"
+    ],
+    "literal": "Jiang Ziya · 's · mount — four · not · resemble",
+    "natural": "Jiang Ziya's mount, the Four-Unlikes",
+    "meaning": {
+      "en": "Resembling nothing in particular.",
+      "zh": "姜子牙骑的神兽“四不像”，比喻不伦不类。"
+    },
+    "equivalents": [
+      "neither fish nor fowl",
+      "a hybrid of nothing"
+    ],
+    "examples": [
+      {
+        "zh": "姜子牙的坐骑，这个设计真是四不像。",
+        "en": "This design is neither fish nor fowl."
+      },
+      {
+        "zh": "他的风格姜子牙的坐骑，四不像。",
+        "en": "His style resembles nothing in particular."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. In 《封神演义》 Jiang Ziya rides a 四不像.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。《封神演义》中姜子牙骑四不像。"
+    },
+    "synonyms": [
+      "不伦不类",
+      "非驴非马"
+    ],
+    "antonyms": [
+      "独树一帜"
+    ]
+  },
+  {
+    "id": "hua-tuo-zhi-bing-shou-dao-bing-chu",
+    "text": "华佗治病——手到病除",
+    "pinyin": "huà tuó zhì bìng —— shǒu dào bìng chú",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "华佗治病",
+      "手到病除"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "medical-skill-and-healing",
+      "master-craftsmanship"
+    ],
+    "literal": "Hua Tuo · cure · illness — hand · arrive · illness · vanish",
+    "natural": "Hua Tuo treating an illness",
+    "meaning": {
+      "en": "Skilled work that solves a problem at once.",
+      "zh": "华佗医术高明，一出手病就好，比喻技艺高超、立即见效。"
+    },
+    "equivalents": [
+      "work wonders at a touch",
+      "cure at once"
+    ],
+    "examples": [
+      {
+        "zh": "华佗治病，老师傅修这台机器手到病除。",
+        "en": "The old master fixes this machine in no time."
+      },
+      {
+        "zh": "他真是华佗治病，手到病除。",
+        "en": "He cures it at a touch."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. The punchline is the chengyu 手到病除.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“手到病除”。"
+    },
+    "synonyms": [
+      "妙手回春",
+      "药到病除"
+    ],
+    "antonyms": [
+      "回天乏术"
+    ]
+  },
+  {
+    "id": "hei-xuan-feng-de-ben-ming-li-kui",
+    "text": "黑旋风的本名——理亏（李奎）",
+    "pinyin": "hēi xuàn fēng de běn míng —— lǐ kuī (lǐ kuí)",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "黑旋风的本名",
+      "理亏（李奎）"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "conflict-and-strife"
+    ],
+    "literal": "Black Whirlwind · 's · real name — in the wrong (Li Kui)",
+    "natural": "The Black Whirlwind's real name: Li Kui",
+    "meaning": {
+      "en": "In the wrong (pun on 李逵 and 理亏).",
+      "zh": "黑旋风李逵，“李逵”谐音“理亏”。"
+    },
+    "equivalents": [
+      "in the wrong",
+      "a pun on being at fault"
+    ],
+    "examples": [
+      {
+        "zh": "黑旋风的本名，这次是我理亏。",
+        "en": "This time I'm in the wrong."
+      },
+      {
+        "zh": "他知道自己黑旋风的本名，不敢争辩。",
+        "en": "He knew he was at fault and didn't argue."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Pun: 李逵 (Li Kui, nicknamed Black Whirlwind) sounds like 理亏 'in the wrong'.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。双关：“李逵”谐音“理亏”。"
+    },
+    "synonyms": [
+      "理屈词穷",
+      "自知理亏"
+    ],
+    "antonyms": [
+      "理直气壮"
+    ]
+  },
+  {
+    "id": "hai-long-wang-de-lou-luo",
+    "text": "海龙王的喽啰——虾兵蟹将",
+    "pinyin": "hǎi lóng wáng de lóu luó —— xiā bīng xiè jiàng",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "海龙王的喽啰",
+      "虾兵蟹将"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "leadership-and-authority",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "Sea Dragon King · 's · minions — shrimp · soldiers · crab · generals",
+    "natural": "The Dragon King's minions: shrimp soldiers and crab generals",
+    "meaning": {
+      "en": "Weak, insignificant followers.",
+      "zh": "海龙王手下是虾兵蟹将，比喻无能的喽啰。"
+    },
+    "equivalents": [
+      "rank-and-file lackeys",
+      "small fry"
+    ],
+    "examples": [
+      {
+        "zh": "海龙王的喽啰，他们不过是虾兵蟹将。",
+        "en": "They are mere small fry."
+      },
+      {
+        "zh": "海龙王的喽啰，对手只是虾兵蟹将，不足为惧。",
+        "en": "The opponents are small fry, nothing to fear."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. The punchline is the chengyu 虾兵蟹将.",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“虾兵蟹将”。"
+    },
+    "synonyms": [
+      "虾兵蟹将",
+      "乌合之众"
+    ],
+    "antonyms": [
+      "精兵强将"
+    ]
+  },
+  {
+    "id": "fu-jian-wang-jian-ba-gong",
+    "text": "苻坚望见八公山——草木皆兵",
+    "pinyin": "fú jiān wàng jiàn bā gōng shān —— cǎo mù jiē bīng",
+    "kind": "xiehouyu",
+    "frequency": 3,
+    "parts": [
+      "苻坚望见八公山",
+      "草木皆兵"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "fear-and-cowardice",
+      "military-strategy-and-victory"
+    ],
+    "literal": "Fu Jian · gaze · Mount Bagong — grass · trees · all · soldiers",
+    "natural": "Fu Jian gazing at Mount Bagong",
+    "meaning": {
+      "en": "Terror that makes everything look like an enemy.",
+      "zh": "苻坚兵败淝水，见八公山草木都像敌兵，比喻惊恐多疑。"
+    },
+    "equivalents": [
+      "see enemies everywhere",
+      "jumpy"
+    ],
+    "examples": [
+      {
+        "zh": "苻坚望见八公山，他最近草木皆兵。",
+        "en": "He has been jumpy lately, seeing enemies everywhere."
+      },
+      {
+        "zh": "苻坚望见八公山，一点风声就草木皆兵，没必要。",
+        "en": "No need to panic at the slightest rumour."
+      }
+    ],
+    "usage": {
+      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. From the Battle of Fei River (383).",
+      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。典出淝水之战。"
+    },
+    "synonyms": [
+      "草木皆兵",
+      "风声鹤唳"
+    ],
+    "antonyms": [
+      "镇定自若"
+    ]
+  }
+]

@@ -1,0 +1,899 @@
+[
+  {
+    "id": "nian-nian-sui-sui",
+    "text": "年年岁岁",
+    "pinyin": "nián nián suì suì",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "岁岁年年"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fleeting-time",
+      "seasonal-changes"
+    ],
+    "literal": "year · year · year · year",
+    "natural": "year after year",
+    "meaning": {
+      "en": "Year after year, again and again as the years go by.",
+      "zh": "一年又一年，每年每年。"
+    },
+    "equivalents": [
+      "year in, year out",
+      "every year without fail"
+    ],
+    "examples": [
+      {
+        "zh": "年年岁岁，这棵老树都开满了花。",
+        "en": "Year after year this old tree is covered in blossom."
+      },
+      {
+        "zh": "年年岁岁花相似，岁岁年年人不同。",
+        "en": "The flowers are alike year after year, but the people change as the years go by."
+      },
+      {
+        "zh": "他年年岁岁都回老家过年。",
+        "en": "Every single year he goes home for the New Year."
+      }
+    ],
+    "origin": {
+      "source": "唐·刘希夷《代悲白头翁》",
+      "story": {
+        "en": "Liu Xiyi's poem on an old man's white hair has the lines 'Flowers look the same year after year; people are never the same year after year' (年年岁岁花相似，岁岁年年人不同).",
+        "zh": "刘希夷《代悲白头翁》：“年年岁岁花相似，岁岁年年人不同。”"
+      }
+    },
+    "usage": {
+      "en": "Adverbial, with a literary and slightly wistful flavour. Mostly seen in the famous couplet by Liu Xiyi, where the second half is the reversed form 岁岁年年. Plain 年复一年 is more common in speech.",
+      "zh": "多作状语，书面、略带感慨。多见于刘希夷名句，后半句为倒装的“岁岁年年”。口语里更常说“年复一年”。"
+    },
+    "synonyms": [
+      "年复一年",
+      "一年又一年"
+    ],
+    "antonyms": [
+      "转瞬即逝"
+    ]
+  },
+  {
+    "id": "leng-leng-qing-qing",
+    "text": "冷冷清清",
+    "pinyin": "lěng lěng qīng qīng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "solitude-and-isolation",
+      "sadness-and-despair"
+    ],
+    "literal": "cold · cold · quiet · quiet",
+    "natural": "cold and quiet",
+    "meaning": {
+      "en": "Deserted and lonely, with hardly anyone around.",
+      "zh": "场面冷落，人很少，不热闹。"
+    },
+    "equivalents": [
+      "deserted and quiet",
+      "dreary and lifeless"
+    ],
+    "examples": [
+      {
+        "zh": "放假后，校园里冷冷清清。",
+        "en": "After the holiday began the campus was deserted."
+      },
+      {
+        "zh": "这家商店生意不好，每天冷冷清清。",
+        "en": "The shop is not doing well and is empty every day."
+      },
+      {
+        "zh": "过年时一个人在外，感觉冷冷清清的。",
+        "en": "Spending the New Year alone away from home feels lonely."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial, from the AABB pattern. Used of places, shops and moods. A common colloquial word, in the same family as 冷清. Opposite of 热热闹闹.",
+      "zh": "多作谓语、状语，AABB式叠词，用于场所、店铺、心情。反义词是“热热闹闹”。"
+    },
+    "synonyms": [
+      "冷冷落落",
+      "门可罗雀"
+    ],
+    "antonyms": [
+      "热热闹闹",
+      "人声鼎沸"
+    ]
+  },
+  {
+    "id": "bu-ren-bu-gui",
+    "text": "不人不鬼",
+    "pinyin": "bù rén bù guǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "appearance"
+    ],
+    "literal": "not · human · not · ghost",
+    "natural": "neither human nor ghost",
+    "meaning": {
+      "en": "Looking so strange, filthy or thin that one hardly seems human.",
+      "zh": "样子古怪难看，不像个正常人。"
+    },
+    "equivalents": [
+      "a sorry sight",
+      "looking half-dead"
+    ],
+    "examples": [
+      {
+        "zh": "他熬夜打游戏，把自己弄得不人不鬼的。",
+        "en": "He stayed up gaming and made himself look a wreck."
+      },
+      {
+        "zh": "流浪了几个月，他变得不人不鬼。",
+        "en": "After months of wandering, he looked like a ghost."
+      },
+      {
+        "zh": "别把自己搞得不人不鬼的，注意形象。",
+        "en": "Don't let yourself look such a wreck; pay attention to your appearance."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement. Colloquial and rude when said to someone's face; usually humorous about oneself or critical of others. It is not a fixed classical idiom, so it is rarely found in formal writing.",
+      "zh": "多作谓语、补语，口语，当面说较不礼貌。不属于典雅成语，正式文章中少用。"
+    },
+    "synonyms": [
+      "人不人鬼不鬼",
+      "面目全非"
+    ],
+    "antonyms": [
+      "容光焕发",
+      "神采奕奕"
+    ]
+  },
+  {
+    "id": "zi-shuo-zi-hua",
+    "text": "自说自话",
+    "pinyin": "zì shuō zì huà",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "oneself · say · oneself · speak",
+    "natural": "speak and act on one's own",
+    "meaning": {
+      "en": "To do things one's own way without consulting anyone; also, to talk to oneself.",
+      "zh": "不听别人意见，自己做主；也指自己跟自己说话。"
+    },
+    "equivalents": [
+      "go one's own way",
+      "act without consulting anyone"
+    ],
+    "examples": [
+      {
+        "zh": "他做事总是自说自话，从不和大家商量。",
+        "en": "He always does things his own way and never discusses them with anyone."
+      },
+      {
+        "zh": "你不要自说自话，先问问爸爸妈妈的意见。",
+        "en": "Don't just decide for yourself; ask Mum and Dad first."
+      },
+      {
+        "zh": "会上他自说自话，没人理他。",
+        "en": "In the meeting he just spoke to himself and nobody paid attention."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Mainly used of someone high-handed or self-willed; the second sense (talking to oneself) is close to 自言自语. Mild criticism, colloquial.",
+      "zh": "多作谓语，主要指自作主张，含批评；也可指自言自语。口语。"
+    },
+    "synonyms": [
+      "自作主张",
+      "我行我素"
+    ],
+    "antonyms": [
+      "言听计从",
+      "集思广益"
+    ]
+  },
+  {
+    "id": "you-zi-you-wei",
+    "text": "有滋有味",
+    "pinyin": "yǒu zī yǒu wèi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "joy-and-happiness",
+      "simple-food-and-hunger"
+    ],
+    "literal": "have · flavour · have · taste",
+    "natural": "with flavour and taste",
+    "meaning": {
+      "en": "Tasty or enjoyable, said of food or of someone who is enjoying doing something.",
+      "zh": "味道很好，或兴致很高，过得很有趣。"
+    },
+    "equivalents": [
+      "with great relish",
+      "full of flavour"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们吃得有滋有味。",
+        "en": "The children ate with great relish."
+      },
+      {
+        "zh": "爷爷听戏听得有滋有味。",
+        "en": "Grandpa listened to the opera with great enjoyment."
+      },
+      {
+        "zh": "退休后，他把日子过得有滋有味。",
+        "en": "After retirement he made his days full of interest and savour."
+      }
+    ],
+    "usage": {
+      "en": "Usually an adverbial or complement after 吃得, 看得, 过得. Warm and colloquial. Compare 津津有味, which is about interest and enjoyment.",
+      "zh": "多作状语、补语，常见“吃得”“看得”“过得有滋有味”。口语，语气温暖。"
+    },
+    "synonyms": [
+      "津津有味",
+      "兴致勃勃"
+    ],
+    "antonyms": [
+      "索然无味",
+      "食不甘味"
+    ]
+  },
+  {
+    "id": "you-li-you-jie",
+    "text": "有礼有节",
+    "pinyin": "yǒu lǐ yǒu jié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "polite-humble"
+    ],
+    "literal": "have · courtesy · have · restraint",
+    "natural": "with courtesy and restraint",
+    "meaning": {
+      "en": "Polite and well-mannered, and knowing the limits of proper behaviour.",
+      "zh": "讲礼貌，有分寸，举止有节制。"
+    },
+    "equivalents": [
+      "courteous and restrained",
+      "polite and measured"
+    ],
+    "examples": [
+      {
+        "zh": "他有礼有节地拒绝了对方的要求。",
+        "en": "He turned down their request politely and with restraint."
+      },
+      {
+        "zh": "作为小主人，要对客人有礼有节。",
+        "en": "As a young host you should treat guests with courtesy and good manners."
+      },
+      {
+        "zh": "双方在谈判中有礼有节，没有争吵。",
+        "en": "The two sides negotiated politely and calmly, without any quarrel."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. Formal and positive. Not the same as 有理有节 (reasonable and restrained), the more common diplomatic phrase, though the pronunciation is identical.",
+      "zh": "多作状语、谓语，正式而褒义。与读音相同的“有理有节”（有道理、有节制）不同。"
+    },
+    "synonyms": [
+      "彬彬有礼",
+      "文质彬彬"
+    ],
+    "antonyms": [
+      "无礼取闹",
+      "粗暴无礼"
+    ]
+  },
+  {
+    "id": "wu-qian-wu-gua",
+    "text": "无牵无挂",
+    "pinyin": "wú qiān wú guà",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "freedom",
+      "contentment-and-simplicity"
+    ],
+    "literal": "without · tie · without · worry",
+    "natural": "with nothing tying you down or worrying you",
+    "meaning": {
+      "en": "Free of family burdens or worries, with no one and nothing to hold one back.",
+      "zh": "没有牵累，没有挂念，无忧无虑。"
+    },
+    "equivalents": [
+      "footloose and fancy-free",
+      "free of cares"
+    ],
+    "examples": [
+      {
+        "zh": "他孤身一人，无牵无挂，说走就走。",
+        "en": "He is alone, with no ties, and can go the moment he likes."
+      },
+      {
+        "zh": "考试结束了，大家无牵无挂地玩了起来。",
+        "en": "The exams were over, and everyone played without a care."
+      },
+      {
+        "zh": "她退休后无牵无挂，到处旅行。",
+        "en": "After retirement she had no burdens and travelled everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Neutral-to-positive; but it can also be a little sad when describing someone alone in the world. Compare 无忧无虑, which is carefree but is not about ties.",
+      "zh": "多作谓语、状语，偏褒义，形容孤身一人时也带感伤。与“无忧无虑”相比，更强调没有牵累。"
+    },
+    "synonyms": [
+      "无忧无虑",
+      "自由自在"
+    ],
+    "antonyms": [
+      "牵肠挂肚",
+      "心事重重"
+    ]
+  },
+  {
+    "id": "wu-yuan-wu-chou",
+    "text": "无冤无仇",
+    "pinyin": "wú yuān wú chóu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "without · grievance · without · enmity",
+    "natural": "with no grievance or feud",
+    "meaning": {
+      "en": "To have no quarrel or grudge between two people.",
+      "zh": "彼此之间没有仇恨，没有矛盾。"
+    },
+    "equivalents": [
+      "no quarrel with each other",
+      "no bad blood between us"
+    ],
+    "examples": [
+      {
+        "zh": "我和你无冤无仇，为什么要害我？",
+        "en": "I have no quarrel with you, so why do you want to hurt me?"
+      },
+      {
+        "zh": "我们无冤无仇，没必要吵架。",
+        "en": "We have no feud and no need to argue."
+      },
+      {
+        "zh": "他们素不相识，无冤无仇，案子很奇怪。",
+        "en": "They did not know each other and had no feud, so the case is strange."
+      }
+    ],
+    "usage": {
+      "en": "Usually used in rhetorical questions, especially 无冤无仇，为什么……. Neutral; a plea that the other person has no reason to attack. The opposite is 有仇有怨 or 不共戴天.",
+      "zh": "常用于反问，如“无冤无仇，为什么……”。反义为“不共戴天”。"
+    },
+    "synonyms": [
+      "素不相识",
+      "井水不犯河水"
+    ],
+    "antonyms": [
+      "不共戴天",
+      "深仇大恨"
+    ]
+  },
+  {
+    "id": "wu-si-wu-wei",
+    "text": "无私无畏",
+    "pinyin": "wú sī wú wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "without · selfishness · without · fear",
+    "natural": "selfless and fearless",
+    "meaning": {
+      "en": "Selfless and unafraid, ready to act for others without thought of oneself.",
+      "zh": "没有私心，也不怕危险。"
+    },
+    "equivalents": [
+      "selfless and fearless",
+      "brave and unselfish"
+    ],
+    "examples": [
+      {
+        "zh": "医生们无私无畏，冲在抗疫最前线。",
+        "en": "The doctors were selfless and fearless and went to the front line of the epidemic."
+      },
+      {
+        "zh": "消防员无私无畏的精神值得我们学习。",
+        "en": "We should learn from the firefighters' selfless, fearless spirit."
+      },
+      {
+        "zh": "他们无私无畏地救起了落水儿童。",
+        "en": "They fearlessly rescued the child who had fallen into the water."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or adverbial. Strongly positive and formal; used in praise of heroes and public servants. Often used with 大公无私 or 英勇无畏.",
+      "zh": "多作谓语、定语、状语，褒义，用于赞扬英雄和公职人员。"
+    },
+    "synonyms": [
+      "大公无私",
+      "舍己为人"
+    ],
+    "antonyms": [
+      "自私自利",
+      "贪生怕死"
+    ]
+  },
+  {
+    "id": "wu-xiu-wu-zhi",
+    "text": "无休无止",
+    "pinyin": "wú xiū wú zhǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure"
+    ],
+    "literal": "without · rest · without · stop",
+    "natural": "without rest or end",
+    "meaning": {
+      "en": "Going on and on with no end in sight.",
+      "zh": "没完没了，不停地继续下去。"
+    },
+    "equivalents": [
+      "endless",
+      "going on and on"
+    ],
+    "examples": [
+      {
+        "zh": "无休无止的雨让大家心烦。",
+        "en": "The endless rain annoyed everyone."
+      },
+      {
+        "zh": "他们为小事无休无止地争吵。",
+        "en": "They argue endlessly about trivial things."
+      },
+      {
+        "zh": "无休无止的加班让员工们疲惫不堪。",
+        "en": "Endless overtime left the staff exhausted."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or adverbial. Often negative in tone, expressing annoyance at something that will not stop. It works with 争吵, 加班, 纠缠 and 下雨.",
+      "zh": "多作定语、状语，常含厌烦，常与“争吵”“加班”“纠缠”搭配。"
+    },
+    "synonyms": [
+      "没完没了",
+      "永无止境"
+    ],
+    "antonyms": [
+      "戛然而止",
+      "适可而止"
+    ]
+  },
+  {
+    "id": "wu-zhe-wu-lan",
+    "text": "无遮无拦",
+    "pinyin": "wú zhē wú lán",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "无遮无挡"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "freedom",
+      "frankness-and-candour"
+    ],
+    "literal": "without · cover · without · barrier",
+    "natural": "with nothing to cover or block",
+    "meaning": {
+      "en": "Open and unobstructed, with nothing to block the view; also, speaking without holding back.",
+      "zh": "没有遮挡，没有拦阻；也指说话毫无顾忌。"
+    },
+    "equivalents": [
+      "wide open",
+      "with nothing in the way"
+    ],
+    "examples": [
+      {
+        "zh": "草原上无遮无拦，风吹得很大。",
+        "en": "The grassland is wide open and the wind blows hard."
+      },
+      {
+        "zh": "站在山顶，视野无遮无拦。",
+        "en": "From the top of the mountain the view is unobstructed."
+      },
+      {
+        "zh": "他说话无遮无拦，常常得罪人。",
+        "en": "He speaks without holding back and often offends people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. The first sense is descriptive and neutral; the second (an outspoken person) is slightly critical. In the second sense it is close to 口无遮拦.",
+      "zh": "多作谓语、定语。第一义为中性描写，第二义指说话不顾忌，略含批评，近于“口无遮拦”。"
+    },
+    "synonyms": [
+      "一览无余",
+      "口无遮拦"
+    ],
+    "antonyms": [
+      "遮遮掩掩",
+      "藏头露尾"
+    ]
+  },
+  {
+    "id": "wu-sheng-wu-xiu",
+    "text": "无声无臭",
+    "pinyin": "wú shēng wú xiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complete-failure-and-obscurity",
+      "poems-prose"
+    ],
+    "literal": "without · sound · without · smell",
+    "natural": "without sound or smell",
+    "meaning": {
+      "en": "Silent and leaving no trace; also, unknown and without any reputation.",
+      "zh": "没有声音，也没有气味，指不为人知，没有名声。"
+    },
+    "equivalents": [
+      "without a trace",
+      "unknown and obscure"
+    ],
+    "examples": [
+      {
+        "zh": "他一生无声无臭，没有留下什么名声。",
+        "en": "He lived a life of obscurity and left no name behind."
+      },
+      {
+        "zh": "这件事做得无声无臭，没人发现。",
+        "en": "The matter was done so quietly that no one noticed."
+      },
+      {
+        "zh": "这位作家去世后，作品也渐渐无声无臭了。",
+        "en": "After the writer's death his works too faded into obscurity."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·大雅·文王》",
+      "story": {
+        "en": "The ode in praise of King Wen says: 'The workings of High Heaven have no sound and no smell' (上天之载，无声无臭).",
+        "zh": "《诗经·大雅·文王》：“上天之载，无声无臭。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or complement; literary. It can mean doing something very quietly, or being unknown. The Book of Songs line describes Heaven's workings as without sound or smell. Today the word is mostly about obscurity.",
+      "zh": "多作谓语、补语，书面语。可指悄悄地，也指默默无闻。出自《诗经》，原指天道无声无味。"
+    },
+    "synonyms": [
+      "默默无闻",
+      "悄无声息"
+    ],
+    "antonyms": [
+      "名噪一时",
+      "声名远扬"
+    ]
+  },
+  {
+    "id": "shi-hao-shi-huai",
+    "text": "时好时坏",
+    "pinyin": "shí hǎo shí huài",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "change",
+      "poor-health"
+    ],
+    "literal": "sometimes · good · sometimes · bad",
+    "natural": "sometimes good, sometimes bad",
+    "meaning": {
+      "en": "Not steady: now good, now bad.",
+      "zh": "一会儿好，一会儿坏，不稳定。"
+    },
+    "equivalents": [
+      "up and down",
+      "on and off"
+    ],
+    "examples": [
+      {
+        "zh": "这几天天气时好时坏。",
+        "en": "The weather has been changeable these days."
+      },
+      {
+        "zh": "我的成绩时好时坏，要更努力才行。",
+        "en": "My grades go up and down, so I must work harder."
+      },
+      {
+        "zh": "手机信号时好时坏，打不通电话。",
+        "en": "The phone signal comes and goes, so I can't get through."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Used for weather, health, mood, grades and signals. The pattern 时A时B (时好时坏, 时快时慢) is productive.",
+      "zh": "多作谓语、状语，可说天气、健康、情绪、成绩。“时A时B”格式能产性强。"
+    },
+    "synonyms": [
+      "忽好忽坏",
+      "时断时续"
+    ],
+    "antonyms": [
+      "始终如一",
+      "一帆风顺"
+    ]
+  },
+  {
+    "id": "ruo-ming-ruo-an",
+    "text": "若明若暗",
+    "pinyin": "ruò míng ruò àn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "confusion"
+    ],
+    "literal": "as if · bright · as if · dark",
+    "natural": "as if bright, as if dark",
+    "meaning": {
+      "en": "Dim and unclear, hard to make out.",
+      "zh": "光线忽明忽暗，不清楚，难以分辨。"
+    },
+    "equivalents": [
+      "faint and flickering",
+      "dimly lit"
+    ],
+    "examples": [
+      {
+        "zh": "远处的灯光若明若暗。",
+        "en": "The lights in the distance are faint and flickering."
+      },
+      {
+        "zh": "他的态度若明若暗，让人捉摸不透。",
+        "en": "His attitude is unclear and hard to read."
+      },
+      {
+        "zh": "山路上月光若明若暗。",
+        "en": "The moonlight on the mountain path is dim and changing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Describes light, shadow or an unclear attitude. Close to 若隐若现 but concerns brightness rather than appearing and vanishing.",
+      "zh": "多作谓语、定语，形容光线、影子或不明朗的态度。与“若隐若现”相近，但更侧重明暗。"
+    },
+    "synonyms": [
+      "忽明忽暗",
+      "朦朦胧胧"
+    ],
+    "antonyms": [
+      "一目了然",
+      "明明白白"
+    ]
+  },
+  {
+    "id": "si-xiao-fei-xiao",
+    "text": "似笑非笑",
+    "pinyin": "sì xiào fēi xiào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "seem · smile · not · smile",
+    "natural": "seeming to smile but not smiling",
+    "meaning": {
+      "en": "A faint smile that may hide scorn, teasing or mixed feelings.",
+      "zh": "好像在笑又不是真笑，表情难以捉摸。"
+    },
+    "equivalents": [
+      "a half smile",
+      "a smile that is not quite a smile"
+    ],
+    "examples": [
+      {
+        "zh": "他似笑非笑地看着我。",
+        "en": "He looked at me with a half smile."
+      },
+      {
+        "zh": "妈妈似笑非笑，我不知道她有没有生气。",
+        "en": "Mum had a faint smile and I could not tell whether she was angry."
+      },
+      {
+        "zh": "画中人物似笑非笑，很神秘。",
+        "en": "The figure in the painting has a faint, mysterious smile."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial or predicate. Used of a facial expression, usually hinting at mockery or hidden thoughts. Literary style, though it is common in stories. Note 似 is read sì here.",
+      "zh": "多作状语、谓语，指带有嘲讽或心思的表情。多见于小说。“似”读sì。"
+    },
+    "synonyms": [
+      "皮笑肉不笑",
+      "莞尔一笑"
+    ],
+    "antonyms": [
+      "开怀大笑",
+      "哈哈大笑"
+    ]
+  },
+  {
+    "id": "dong-you-xi-guang",
+    "text": "东游西逛",
+    "pinyin": "dōng yóu xī guàng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "journeys-and-exploration"
+    ],
+    "literal": "east · wander · west · stroll",
+    "natural": "wander east and stroll west",
+    "meaning": {
+      "en": "To wander around with no purpose, often idling away time.",
+      "zh": "到处闲逛，没有目的，多指不做正事。"
+    },
+    "equivalents": [
+      "wander around aimlessly",
+      "loaf about"
+    ],
+    "examples": [
+      {
+        "zh": "放学后别东游西逛，早点回家。",
+        "en": "Don't loiter after school and go straight home."
+      },
+      {
+        "zh": "他整天东游西逛，不好好工作。",
+        "en": "He wanders about all day without doing proper work."
+      },
+      {
+        "zh": "假期里我们在小镇上东游西逛，悠闲自在。",
+        "en": "In the holiday we strolled about the little town, relaxed and carefree."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Slightly critical when used of someone who should be working or studying, neutral for relaxed sightseeing. Pattern 东A西B.",
+      "zh": "多作谓语、状语，指不务正业时略带批评，指悠闲游玩时为中性。"
+    },
+    "synonyms": [
+      "游手好闲",
+      "闲逛"
+    ],
+    "antonyms": [
+      "埋头苦干",
+      "专心致志"
+    ]
+  },
+  {
+    "id": "dong-lin-xi-she",
+    "text": "东邻西舍",
+    "pinyin": "dōng lín xī shè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "family-and-home"
+    ],
+    "literal": "east · neighbour · west · house",
+    "natural": "neighbours east and west",
+    "meaning": {
+      "en": "The neighbours on all sides.",
+      "zh": "东边和西边的邻居，泛指邻居。"
+    },
+    "equivalents": [
+      "the neighbours",
+      "everyone next door"
+    ],
+    "examples": [
+      {
+        "zh": "过年了，我们给东邻西舍送去了糖果。",
+        "en": "At the New Year we gave sweets to the neighbours."
+      },
+      {
+        "zh": "东邻西舍都来帮忙盖房子。",
+        "en": "The neighbours all came to help build the house."
+      },
+      {
+        "zh": "他和东邻西舍的关系很好。",
+        "en": "He gets on well with all the neighbours."
+      }
+    ],
+    "usage": {
+      "en": "A noun phrase used as a subject or object. Warm and old-fashioned; typical of village life. Similar to 左邻右舍, which is more common.",
+      "zh": "名词性，用作主语、宾语，亲切，带乡土气息。与更常用的“左邻右舍”相近。"
+    },
+    "synonyms": [
+      "左邻右舍",
+      "街坊邻居"
+    ],
+    "antonyms": [
+      "素不相识"
+    ]
+  },
+  {
+    "id": "qi-tian-wang-di",
+    "text": "欺天罔地",
+    "pinyin": "qī tiān wǎng dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "deceive · heaven · cheat · earth",
+    "natural": "deceiving heaven and cheating earth",
+    "meaning": {
+      "en": "To deceive everyone in a shameless way, as if heaven and earth could be fooled.",
+      "zh": "欺骗天地，形容胆大妄为，毫无顾忌地欺骗人。"
+    },
+    "equivalents": [
+      "utterly shameless deceit",
+      "to lie to heaven and earth"
+    ],
+    "examples": [
+      {
+        "zh": "这种欺天罔地的骗局，迟早会被揭穿。",
+        "en": "This shameless fraud will sooner or later be exposed."
+      },
+      {
+        "zh": "他欺天罔地，把公款占为己有。",
+        "en": "He shamelessly pocketed public money."
+      },
+      {
+        "zh": "做人不能欺天罔地，要讲良心。",
+        "en": "One must not deceive heaven and earth; one needs a conscience."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; strongly critical and literary. Used for serious fraud or shameless lies, rarely for small fibs.",
+      "zh": "多作谓语、定语，批评较重，书面语，多指严重欺骗，不用于小谎。"
+    },
+    "synonyms": [
+      "弄虚作假",
+      "瞒天过海"
+    ],
+    "antonyms": [
+      "诚实守信",
+      "光明磊落"
+    ]
+  }
+]

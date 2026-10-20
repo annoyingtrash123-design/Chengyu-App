@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "duo-de-guo-chu-yi-duo-bu-guo-shi-wu",
+    "text": "躲得过初一，躲不过十五",
+    "pinyin": "duǒ de guò chū yī, duǒ bù guò shí wǔ",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "躲过初一，躲不过十五"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "natural-consequences",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "dodge · can · past · first · day, dodge · cannot · past · fifteenth",
+    "natural": "You can dodge the 1st of the month, but not the 15th",
+    "meaning": {
+      "en": "A problem you cannot avoid forever will catch up with you sooner or later.",
+      "zh": "一时躲过去了，终究躲不过，迟早要面对。"
+    },
+    "equivalents": [
+      "You can run but you can't hide",
+      "What can't be cured must be endured"
+    ],
+    "examples": [
+      {
+        "zh": "债主天天找上门，躲得过初一，躲不过十五。",
+        "en": "The creditor comes round every day; you may dodge him today but not forever."
+      },
+      {
+        "zh": "早点去检查吧，躲得过初一，躲不过十五。",
+        "en": "Go and get checked soon; you can't avoid it forever."
+      }
+    ],
+    "usage": {
+      "en": "The image is of dodging debt collectors who came on set days of the month.",
+      "zh": "形象来自旧时债主按日子上门讨债。"
+    },
+    "synonyms": [
+      "在劫难逃",
+      "逃得过和尚逃不过庙"
+    ],
+    "antonyms": [
+      "逃之夭夭"
+    ]
+  },
+  {
+    "id": "guo-le-zhe-ge-cun-jiu-mei-zhe-ge-dian",
+    "text": "过了这个村就没这个店",
+    "pinyin": "guò le zhè gè cūn jiù méi zhè gè diàn",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "过了这村没这店"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poor-timing",
+      "once-in-a-lifetime-events"
+    ],
+    "literal": "pass · -ed · this · village · then · no · this · inn",
+    "natural": "Once you pass this village there will be no inn like this",
+    "meaning": {
+      "en": "Seize the chance now, because it may not come again.",
+      "zh": "机会难得，错过了就不会再有，要抓紧。"
+    },
+    "equivalents": [
+      "Opportunity knocks but once",
+      "Strike while the iron is hot"
+    ],
+    "examples": [
+      {
+        "zh": "今天打五折，过了这个村就没这个店，赶紧买吧！",
+        "en": "Everything is half price today, and you won't get this chance again, so buy now!"
+      },
+      {
+        "zh": "这个机会难得，过了这个村就没这个店。",
+        "en": "It's a rare opportunity; if you pass it up, there won't be another."
+      }
+    ],
+    "usage": {
+      "en": "Common in sales patter and in urging people to decide quickly.",
+      "zh": "常见于促销和催人尽快做决定。"
+    },
+    "synonyms": [
+      "机不可失，时不再来",
+      "千载难逢"
+    ],
+    "antonyms": [
+      "来日方长"
+    ]
+  },
+  {
+    "id": "jiu-bu-zui-ren-ren-zi",
+    "text": "酒不醉人人自醉，色不迷人人自迷",
+    "pinyin": "jiǔ bú zuì rén rén zì zuì, sè bù mí rén rén zì mí",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "complex-emotional-states"
+    ],
+    "literal": "wine · not · intoxicate · people · people · themselves · get drunk, beauty · not · bewitch · people · people · themselves · get bewitched",
+    "natural": "Wine doesn't make people drunk; they get drunk themselves. Beauty doesn't bewitch; people bewitch themselves",
+    "meaning": {
+      "en": "Temptation has no power by itself; people fall for it of their own accord.",
+      "zh": "诱惑本身并不能让人沉迷，是人自己甘愿沉溺其中。"
+    },
+    "equivalents": [
+      "The devil can't make you do it",
+      "It's the drinker, not the drink"
+    ],
+    "examples": [
+      {
+        "zh": "酒不醉人人自醉，色不迷人人自迷，关键还是自己要把持住。",
+        "en": "Wine doesn't make you drunk and beauty doesn't bewitch you; you do it to yourself, so you must keep control."
+      },
+      {
+        "zh": "他说是被人带坏的，可酒不醉人人自醉，色不迷人人自迷，还是自己的问题。",
+        "en": "He claims he was led astray, but people choose to get drunk; it's his own responsibility."
+      }
+    ],
+    "usage": {
+      "en": "Often used to explain that responsibility lies with the person who gives in. Also used romantically to describe being captivated.",
+      "zh": "常用来说明责任在于自己；也可用于形容人自愿沉醉。"
+    },
+    "synonyms": [
+      "自作自受"
+    ],
+    "antonyms": [
+      "身不由己"
+    ]
+  },
+  {
+    "id": "jiu-feng-zhi-ji-qian-bei-shao",
+    "text": "酒逢知己千杯少",
+    "pinyin": "jiǔ féng zhī jǐ qiān bēi shǎo",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "joy-and-happiness",
+      "love-and-marriage"
+    ],
+    "literal": "wine · meet · bosom friend · thousand · cups · few",
+    "natural": "With a bosom friend, a thousand cups are too few",
+    "meaning": {
+      "en": "When friends who understand each other drink together, no amount feels enough; they enjoy each other's company.",
+      "zh": "与知心朋友饮酒畅谈，喝多少都觉得不够。"
+    },
+    "equivalents": [
+      "Good company makes the evening fly",
+      "Wine with a friend never runs dry"
+    ],
+    "examples": [
+      {
+        "zh": "酒逢知己千杯少，今晚咱们不醉不归！",
+        "en": "A thousand cups are too few with a close friend, so tonight we don't go home until we're drunk!"
+      },
+      {
+        "zh": "多年没见，酒逢知己千杯少，我们聊到了深夜。",
+        "en": "We hadn't met for years, and with such a good friend we talked until late at night."
+      }
+    ],
+    "usage": {
+      "en": "Usually followed by 话不投机半句多 (with the wrong company, half a sentence is too much). Said at drinking tables.",
+      "zh": "常与“话不投机半句多”连用，多用于酒桌。"
+    },
+    "synonyms": [
+      "把酒言欢",
+      "志同道合"
+    ],
+    "antonyms": [
+      "话不投机半句多"
+    ]
+  },
+  {
+    "id": "chou-xi-fu-zao-wan-ye-dei-jian-gong-po",
+    "text": "丑媳妇早晚也得见公婆",
+    "pinyin": "chǒu xí fù zǎo wǎn yě děi jiàn gōng pó",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "fear-and-cowardice",
+      "adaptability"
+    ],
+    "literal": "ugly · daughter-in-law · sooner · later · also · must · meet · parents-in-law",
+    "natural": "Even an ugly daughter-in-law must meet her in-laws sooner or later",
+    "meaning": {
+      "en": "What you fear to show or face cannot be put off forever; sooner or later you must face it.",
+      "zh": "该来的总要来，再怕见人、怕面对的事也得面对。"
+    },
+    "equivalents": [
+      "Sooner or later you have to face the music",
+      "You can't hide forever"
+    ],
+    "examples": [
+      {
+        "zh": "作品再不完美，丑媳妇早晚也得见公婆，下周就交稿吧。",
+        "en": "However imperfect the work is, you can't hide it forever, so hand it in next week."
+      },
+      {
+        "zh": "丑媳妇早晚也得见公婆，这件事瞒不了多久。",
+        "en": "Sooner or later you must face them; this can't be hidden for long."
+      }
+    ],
+    "usage": {
+      "en": "Self-mocking and humorous, said when about to show something imperfect. 媳 is read xí; 媳妇 xí fu.",
+      "zh": "自嘲、诙谐，多用于要把不够完美的东西拿出来见人时。"
+    },
+    "synonyms": [
+      "躲得过初一，躲不过十五"
+    ],
+    "antonyms": [
+      "逃之夭夭"
+    ]
+  },
+  {
+    "id": "jin-wo-yin-wo-bu-ru-zi-ji-de-gou-wo",
+    "text": "金窝银窝不如自己的狗窝",
+    "pinyin": "jīn wō yín wō bù rú zì jǐ de gǒu wō",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "金窝银窝，不如自己的草窝"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "family-and-home",
+      "contentment-and-simplicity"
+    ],
+    "literal": "gold · nest · silver · nest · not as good as · own · 's · dog · kennel",
+    "natural": "A golden or silver nest is no match for your own doghouse",
+    "meaning": {
+      "en": "No luxurious place feels as comfortable as your own home, however humble.",
+      "zh": "别处再豪华，也比不上自己的家住着舒服自在。"
+    },
+    "equivalents": [
+      "There's no place like home",
+      "East, west, home's best"
+    ],
+    "examples": [
+      {
+        "zh": "出差住了五星酒店，还是觉得金窝银窝不如自己的狗窝。",
+        "en": "I stayed at a five-star hotel on the business trip, but there's still no place like home."
+      },
+      {
+        "zh": "金窝银窝不如自己的狗窝，早点回家吧。",
+        "en": "There's no place like home; come back early."
+      }
+    ],
+    "usage": {
+      "en": "Warm and humorous. Often said after travelling or when declining to move in with others.",
+      "zh": "亲切诙谐，常在出门回家后或婉拒寄居别处时说。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "tie-da-de-ya-men-liu-shui-de-guan",
+    "text": "铁打的衙门，流水的官",
+    "pinyin": "tiě dǎ de yá mén, liú shuǐ de guān",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "good-governance",
+      "change"
+    ],
+    "literal": "iron · forged · 's · office, flowing · water · 's · officials",
+    "natural": "The office is made of iron, but the officials flow past like water",
+    "meaning": {
+      "en": "Institutions endure while the officials in them come and go.",
+      "zh": "衙门是长久的，当官的却像流水一样换来换去。"
+    },
+    "equivalents": [
+      "Men may come and men may go, but the institution goes on",
+      "Kings come and go"
+    ],
+    "examples": [
+      {
+        "zh": "铁打的衙门，流水的官，政策不能因领导换了就变。",
+        "en": "Offices remain while officials come and go, so policy shouldn't change with every new leader."
+      },
+      {
+        "zh": "他们说铁打的衙门，流水的官，所以不太在意新领导。",
+        "en": "They say officials come and go while the office remains, so they pay little attention to the new boss."
+      }
+    ],
+    "usage": {
+      "en": "Often cynical; sometimes also used of companies and schools where staff turn over. Usually paired with 铁打的营盘流水的兵 in the army.",
+      "zh": "常带调侃，也用于公司、学校等人员流动的场合；军营里有类似说法“铁打的营盘流水的兵”。"
+    },
+    "synonyms": [
+      "铁打的营盘流水的兵"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "yan-wang-hao-jian-xiao-gui-nan-chan",
+    "text": "阎王好见，小鬼难缠",
+    "pinyin": "yán wáng hǎo jiàn, xiǎo guǐ nán chán",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "阎王好见，小鬼难当"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "corruption-and-injustice"
+    ],
+    "literal": "King of Hell · easy · to see, minor · demons · hard · to deal with",
+    "natural": "The King of Hell is easy to meet, but his imps are hard to deal with",
+    "meaning": {
+      "en": "The top boss is often easier to deal with than the petty underlings who obstruct you.",
+      "zh": "大人物好说话，下面办事的小人物反而更刁难。"
+    },
+    "equivalents": [
+      "It's the clerks, not the king, who make trouble",
+      "Beware of petty officials"
+    ],
+    "examples": [
+      {
+        "zh": "老板很爽快就批了，可阎王好见，小鬼难缠，各部门盖章才麻烦。",
+        "en": "The boss approved it quickly, but the underlings are the real problem, and getting stamps from each department is a hassle."
+      },
+      {
+        "zh": "阎王好见，小鬼难缠，办这个证件我跑了五趟。",
+        "en": "It's the petty officials who make things hard; I went five times to get this certificate."
+      }
+    ],
+    "usage": {
+      "en": "Complains about obstructive low-level staff and bureaucracy. 难缠 is the usual form; 难当 is a variant.",
+      "zh": "多用来抱怨基层办事人员刁难、手续繁琐。"
+    },
+    "synonyms": [
+      "县官不如现管"
+    ],
+    "antonyms": [
+      "一路绿灯"
+    ]
+  },
+  {
+    "id": "bao-nuan-si-yin-yu-ji-han-qi-dao-xin",
+    "text": "饱暖思淫欲，饥寒起盗心",
+    "pinyin": "bǎo nuǎn sī yín yù, jī hán qǐ dào xīn",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "inappropriate-behavior"
+    ],
+    "literal": "full · warm · think · lust, hungry · cold · rise · thief · heart",
+    "natural": "When well fed and warm one thinks of pleasure; when hungry and cold one turns to theft",
+    "meaning": {
+      "en": "People's behaviour is shaped by their circumstances: comfort breeds indulgence and hardship breeds crime.",
+      "zh": "人的行为受处境影响：生活安逸容易放纵，饥寒交迫容易铤而走险。"
+    },
+    "equivalents": [
+      "Poverty breeds crime, comfort breeds vice",
+      "Hunger drives the wolf from the wood"
+    ],
+    "examples": [
+      {
+        "zh": "饱暖思淫欲，饥寒起盗心，要减少犯罪，先要改善民生。",
+        "en": "Comfort breeds indulgence and hunger breeds theft; to reduce crime, people's livelihood must come first."
+      },
+      {
+        "zh": "饱暖思淫欲，饥寒起盗心，这话虽然偏激，也有几分道理。",
+        "en": "Though extreme, there is some truth in saying that comfort breeds vice and hunger breeds theft."
+      }
+    ],
+    "usage": {
+      "en": "Sometimes quoted in social commentary; the first half is somewhat negative about human nature.",
+      "zh": "常用于社会评论，前半句对人性带有贬义。"
+    },
+    "synonyms": [
+      "人为财死，鸟为食亡"
+    ],
+    "antonyms": [
+      "安贫乐道"
+    ]
+  },
+  {
+    "id": "you-qing-ren-zhong-cheng-juan-shu",
+    "text": "有情人终成眷属",
+    "pinyin": "yǒu qíng rén zhōng chéng juàn shǔ",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "have · feeling · people · finally · become · married couple",
+    "natural": "Lovers will finally become husband and wife",
+    "meaning": {
+      "en": "Those truly in love will eventually be united in marriage.",
+      "zh": "相爱的人最终能够结为夫妻。"
+    },
+    "equivalents": [
+      "Love will find a way",
+      "True love always wins",
+      "They lived happily ever after"
+    ],
+    "examples": [
+      {
+        "zh": "经历了这么多波折，有情人终成眷属，真为他们高兴。",
+        "en": "After so many twists, lovers have finally been united, and I'm truly happy for them."
+      },
+      {
+        "zh": "愿天下有情人终成眷属。",
+        "en": "May all lovers in the world be united in the end."
+      }
+    ],
+    "usage": {
+      "en": "Common in wedding wishes and romantic stories; often completed as 愿天下有情人终成眷属.",
+      "zh": "常见于婚礼祝福与爱情故事，常说“愿天下有情人终成眷属”。"
+    },
+    "synonyms": [
+      "喜结良缘",
+      "百年好合"
+    ],
+    "antonyms": [
+      "有缘无分",
+      "劳燕分飞"
+    ]
+  },
+  {
+    "id": "hui-ku-de-hai-zi-you-nai-chi",
+    "text": "会哭的孩子有奶吃",
+    "pinyin": "huì kū de hái zi yǒu nǎi chī",
+    "kind": "suyu",
+    "frequency": 2,
+    "variants": [
+      "会哭的孩子有糖吃"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "competition-and-rivalry"
+    ],
+    "literal": "can · cry · 's · child · has · milk · eat",
+    "natural": "The child who cries gets the milk",
+    "meaning": {
+      "en": "Those who speak up and make a fuss are the ones who get attention and resources.",
+      "zh": "会争取、会表达的人更容易得到好处。"
+    },
+    "equivalents": [
+      "The squeaky wheel gets the grease",
+      "He who cries loudest gets fed"
+    ],
+    "examples": [
+      {
+        "zh": "会哭的孩子有奶吃，你不开口，领导怎么知道你想要什么？",
+        "en": "The squeaky wheel gets the grease; if you don't speak up, how will the boss know what you want?"
+      },
+      {
+        "zh": "会哭的孩子有奶吃，他总能争取到最好的资源。",
+        "en": "The squeaky wheel gets the grease, and he always manages to win the best resources."
+      }
+    ],
+    "usage": {
+      "en": "Can be advice (speak up) or complaint (unfairness). Variants end 有糖吃 (gets sweets).",
+      "zh": "可作建议（要敢于争取），也可作抱怨（有失公平）。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "沉默是金",
+      "老实人吃亏"
+    ]
+  },
+  {
+    "id": "qian-bu-shi-wan-neng-de",
+    "text": "钱不是万能的，但没有钱是万万不能的",
+    "pinyin": "qián bú shì wàn néng de, dàn méi yǒu qián shì wàn wàn bù néng de",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "钱不是万能的，没钱是万万不能的"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship"
+    ],
+    "literal": "money · not · is · all-powerful, but · without · money · is · absolutely · not · possible",
+    "natural": "Money isn't everything, but you absolutely can't do without it",
+    "meaning": {
+      "en": "Money cannot solve every problem, but life is very hard without it.",
+      "zh": "钱不能解决所有问题，但没有钱什么事都办不成。"
+    },
+    "equivalents": [
+      "Money isn't everything, but it's something",
+      "Money makes the world go round"
+    ],
+    "examples": [
+      {
+        "zh": "钱不是万能的，但没有钱是万万不能的，所以我要努力工作。",
+        "en": "Money isn't everything, but we can't do without it, so I must work hard."
+      },
+      {
+        "zh": "钱不是万能的，但没有钱是万万不能的，这是现实。",
+        "en": "Money isn't all-powerful but you can't live without it; that's reality."
+      }
+    ],
+    "usage": {
+      "en": "A realistic, slightly wry remark; often said in full. The second clause is sometimes shortened to 没钱万万不能.",
+      "zh": "带现实和无奈的口吻，常整句引用。"
+    },
+    "synonyms": [
+      "有钱能使鬼推磨"
+    ],
+    "antonyms": [
+      "视金钱如粪土"
+    ]
+  },
+  {
+    "id": "yi-wen-qian-nan-dao-ying-xiong-han",
+    "text": "一文钱难倒英雄汉",
+    "pinyin": "yī wén qián nán dǎo yīng xióng hàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "一分钱难倒英雄汉"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "one · coin · money · stump · hero · fellow",
+    "natural": "A single coin can stump a hero",
+    "meaning": {
+      "en": "Even a strong, capable person can be brought to a standstill by lack of money.",
+      "zh": "再有本事的人，缺钱的时候也会一筹莫展。"
+    },
+    "equivalents": [
+      "A man without money is like a ship without sails",
+      "Poverty is no vice but it's no virtue"
+    ],
+    "examples": [
+      {
+        "zh": "一文钱难倒英雄汉，他创业时差几万块周转不开。",
+        "en": "A penny can stump a hero; when he started his business he was a few thousand short of keeping it going."
+      },
+      {
+        "zh": "一文钱难倒英雄汉，别小看钱的作用。",
+        "en": "One coin can stop a hero in his tracks, so don't underestimate the power of money."
+      }
+    ],
+    "usage": {
+      "en": "Used of capable people stuck for cash. 一分钱 is a modern wording.",
+      "zh": "用于有能力却缺钱的人；“一分钱”是较现代的说法。"
+    },
+    "synonyms": [
+      "英雄气短"
+    ],
+    "antonyms": [
+      "腰缠万贯"
+    ]
+  },
+  {
+    "id": "jun-zi-tan-dang-dang-xiao",
+    "text": "君子坦荡荡，小人长戚戚",
+    "pinyin": "jūn zǐ tǎn dàng dàng, xiǎo rén cháng qī qī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "attitude-humble-vs-arrogant",
+      "confucian-classics",
+      "essay-favourites"
+    ],
+    "literal": "gentleman · open · wide · wide, petty person · always · anxious · anxious",
+    "natural": "The gentleman is calm and open; the petty man is always anxious",
+    "meaning": {
+      "en": "A person of good character is relaxed and carefree; a mean-minded person is forever worried and full of anxiety.",
+      "zh": "品德高尚的人心胸宽广、坦然自在；心胸狭窄的人总是忧愁烦恼。"
+    },
+    "equivalents": [
+      "A clear conscience is a soft pillow",
+      "A good conscience is a continual feast"
+    ],
+    "examples": [
+      {
+        "zh": "君子坦荡荡，小人长戚戚，他心里没鬼，自然睡得安稳。",
+        "en": "The gentleman is open and the small-minded man full of anxiety; with a clear conscience he naturally sleeps soundly."
+      },
+      {
+        "zh": "老师在作文里引用了“君子坦荡荡，小人长戚戚”。",
+        "en": "The teacher quoted 'The gentleman is at ease, the petty man is forever uneasy' in the essay."
+      }
+    ],
+    "origin": {
+      "source": "《论语·述而》",
+      "story": {
+        "en": "Confucius contrasts the gentleman, who is composed because he has nothing to hide, with the petty man, who is always fretting over gain and loss.",
+        "zh": "《论语·述而》：“子曰：君子坦荡荡，小人长戚戚。”孔子以此区分君子与小人的心境。"
+      }
+    },
+    "usage": {
+      "en": "Quoted in essays and speeches about character. Formal and literary.",
+      "zh": "常见于作文、演讲，谈论品格，语体较书面。"
+    },
+    "synonyms": [
+      "光明磊落"
+    ],
+    "antonyms": [
+      "患得患失",
+      "鬼鬼祟祟"
+    ]
+  },
+  {
+    "id": "ning-de-zui-jun-zi-bu-de-zui-xiao-ren",
+    "text": "宁得罪君子，不得罪小人",
+    "pinyin": "nìng dé zuì jūn zǐ, bù dé zuì xiǎo rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "宁可得罪君子，不可得罪小人"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "fear-and-cowardice"
+    ],
+    "literal": "rather · offend · gentleman, not · offend · petty person",
+    "natural": "Better to offend a gentleman than a petty man",
+    "meaning": {
+      "en": "A gentleman will forgive an offence, but a petty man will hold a grudge and take revenge, so avoid offending the latter.",
+      "zh": "君子大度，不会记仇；小人心胸狭窄，会报复，所以宁可得罪前者。"
+    },
+    "equivalents": [
+      "Better to deal with a gentleman than a rogue",
+      "Don't poke a sleeping dog"
+    ],
+    "examples": [
+      {
+        "zh": "宁得罪君子，不得罪小人，这个人心眼小，别惹他。",
+        "en": "Better to offend a gentleman than a petty man; he's narrow-minded, so don't cross him."
+      },
+      {
+        "zh": "有人说宁得罪君子，不得罪小人，我觉得这是处世的无奈。",
+        "en": "Some say you should rather offend a gentleman than a mean person; I think that is a sad way of getting along."
+      }
+    ],
+    "usage": {
+      "en": "Worldly-wise rather than noble; some people reject it as cynical.",
+      "zh": "带处世的圆滑，也有人认为这话太世故。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "di-shui-zhi-en-dang-yong-quan-xiang-bao",
+    "text": "滴水之恩，当涌泉相报",
+    "pinyin": "dī shuǐ zhī ēn, dāng yǒng quán xiāng bào",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "drop · water · 's · kindness, should · gushing · spring · repay",
+    "natural": "Repay a drop of kindness with a gushing spring",
+    "meaning": {
+      "en": "Even a small favour should be repaid many times over.",
+      "zh": "别人给的一点点恩惠，也要加倍报答。"
+    },
+    "equivalents": [
+      "One good turn deserves another",
+      "Gratitude is the heart's memory"
+    ],
+    "examples": [
+      {
+        "zh": "滴水之恩，当涌泉相报，我永远不会忘记您的帮助。",
+        "en": "A drop of kindness should be repaid with a spring; I'll never forget your help."
+      },
+      {
+        "zh": "滴水之恩，当涌泉相报，他每年都回来看望恩师。",
+        "en": "A small favour deserves a generous return, and he visits his old teacher every year."
+      }
+    ],
+    "usage": {
+      "en": "Used when expressing deep gratitude; formal and warm. Often shortened to 滴水之恩，涌泉相报.",
+      "zh": "用于表达深切感恩，语气郑重温暖；也说“滴水之恩，涌泉相报”。"
+    },
+    "synonyms": [
+      "知恩图报",
+      "结草衔环"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报"
+    ]
+  },
+  {
+    "id": "yuan-jia-yi-jie-bu-yi-jie",
+    "text": "冤家宜解不宜结",
+    "pinyin": "yuān jiā yí jiě bù yí jié",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "enemy · should · untie · not · should · tie",
+    "natural": "Enmities should be untied, not knotted",
+    "meaning": {
+      "en": "It is better to settle a quarrel than to deepen the enmity.",
+      "zh": "仇怨应该化解，不应加深。"
+    },
+    "equivalents": [
+      "Let bygones be bygones",
+      "Forgive and forget"
+    ],
+    "examples": [
+      {
+        "zh": "冤家宜解不宜结，我们坐下来好好谈谈吧。",
+        "en": "Enmities are better settled than made, so let's sit down and talk it through."
+      },
+      {
+        "zh": "两家为一点小事闹僵了，邻居劝他们冤家宜解不宜结。",
+        "en": "The two families fell out over a trifle, and the neighbours urged them to make peace."
+      }
+    ],
+    "usage": {
+      "en": "Advice for reconciliation, often said by a peacemaker. The pun on 结 (knot/form) is deliberate.",
+      "zh": "多用于劝和；“结”既是打结，也是结下仇怨。"
+    },
+    "synonyms": [
+      "化干戈为玉帛",
+      "一笑泯恩仇"
+    ],
+    "antonyms": [
+      "冤冤相报"
+    ]
+  },
+  {
+    "id": "shao-yi-shi-bu-ru-wu-yi-shi",
+    "text": "少一事不如无一事",
+    "pinyin": "shǎo yī shì bù rú wú yī shì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "conformity-and-imitation",
+      "adaptability"
+    ],
+    "literal": "fewer · one · matter · not as good as · none · one · matter",
+    "natural": "One matter fewer is not as good as none",
+    "meaning": {
+      "en": "Avoid getting involved in trouble; keep out of things that don't concern you.",
+      "zh": "能不惹麻烦就不惹麻烦，不要多管闲事。"
+    },
+    "equivalents": [
+      "Let sleeping dogs lie",
+      "Least said, soonest mended",
+      "Mind your own business"
+    ],
+    "examples": [
+      {
+        "zh": "多一事不如少一事，少一事不如无一事，别去惹他了。",
+        "en": "Better to have fewer troubles than more, and none is best; don't provoke him."
+      },
+      {
+        "zh": "少一事不如无一事，我们还是别掺和他们的家务事。",
+        "en": "Keep out of trouble; let's not get involved in their family matters."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 多一事不如少一事. Can sound cautious or timid; sometimes used to criticise indifference.",
+      "zh": "常与“多一事不如少一事”连用，既有谨慎之意，也可批评明哲保身。"
+    },
+    "synonyms": [
+      "明哲保身",
+      "多一事不如少一事"
+    ],
+    "antonyms": [
+      "多管闲事",
+      "路见不平，拔刀相助"
+    ]
+  },
+  {
+    "id": "luo-bo-qing-cai-ge-you-suo-ai",
+    "text": "萝卜青菜，各有所爱",
+    "pinyin": "luó bo qīng cài, gè yǒu suǒ ài",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "萝卜白菜，各有所爱"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "food"
+    ],
+    "literal": "radish · greens, each · has · what · loves",
+    "natural": "Radishes and greens, each to their own taste",
+    "meaning": {
+      "en": "People have different tastes, so there is no point arguing over preferences.",
+      "zh": "每个人喜好不同，无须争论。"
+    },
+    "equivalents": [
+      "Each to his own",
+      "There's no accounting for taste",
+      "One man's meat is another man's poison"
+    ],
+    "examples": [
+      {
+        "zh": "萝卜青菜，各有所爱，你喜欢咸豆花，我喜欢甜的。",
+        "en": "Each to their own taste: you like salty tofu pudding, I like sweet."
+      },
+      {
+        "zh": "萝卜青菜，各有所爱，不用硬要大家都喜欢。",
+        "en": "Everyone has their own preferences, so don't insist that everybody likes it."
+      }
+    ],
+    "usage": {
+      "en": "A tolerant, light-hearted way of ending a debate about taste.",
+      "zh": "用于对口味爱好不再争论，语气宽容轻松。"
+    },
+    "synonyms": [
+      "各有千秋",
+      "众口难调"
+    ],
+    "antonyms": [
+      "众口一词"
+    ]
+  },
+  {
+    "id": "yao-yan-zhi-yu-zhi-zhe",
+    "text": "谣言止于智者",
+    "pinyin": "yáo yán zhǐ yú zhì zhě",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "流言止于智者"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "mental-clarity"
+    ],
+    "literal": "rumour · stop · at · wise · person",
+    "natural": "Rumours stop with the wise",
+    "meaning": {
+      "en": "A sensible person does not pass on or believe rumours, so the rumour dies with them.",
+      "zh": "聪明理智的人不会轻信、传播谣言，谣言到他那里就终止了。"
+    },
+    "equivalents": [
+      "A wise man ends a rumour",
+      "Don't believe everything you hear"
+    ],
+    "examples": [
+      {
+        "zh": "谣言止于智者，大家不要转发没有来源的消息。",
+        "en": "Rumours stop with the wise, so please don't forward unverified messages."
+      },
+      {
+        "zh": "面对网上的传言，我们要做到谣言止于智者。",
+        "en": "Faced with online rumours, we should let them end with us."
+      }
+    ],
+    "usage": {
+      "en": "Common in news, public notices and online campaigns against misinformation. Derived from 流言止于智者.",
+      "zh": "常见于新闻、公告和网络辟谣；源自“流言止于智者”。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "三人成虎",
+      "以讹传讹"
+    ]
+  },
+  {
+    "id": "shuo-de-rong-yi-zuo-de-nan",
+    "text": "说得容易做得难",
+    "pinyin": "shuō de róng yì zuò de nán",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "说起来容易，做起来难"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "say · -ly · easy · do · -ly · hard",
+    "natural": "Easy to say, hard to do",
+    "meaning": {
+      "en": "It is much easier to talk about something than to actually do it.",
+      "zh": "说起来轻松，真做起来却很困难。"
+    },
+    "equivalents": [
+      "Easier said than done",
+      "Talk is cheap"
+    ],
+    "examples": [
+      {
+        "zh": "你说得容易做得难，你来试试看。",
+        "en": "It's easier said than done; you try it."
+      },
+      {
+        "zh": "减肥说得容易做得难，我已经失败三次了。",
+        "en": "Losing weight is easier said than done; I've failed three times already."
+      }
+    ],
+    "usage": {
+      "en": "A common retort to someone who gives easy advice. Also 说起来容易，做起来难.",
+      "zh": "常用来回应别人轻飘飘的建议；也说“说起来容易，做起来难”。"
+    },
+    "synonyms": [
+      "知易行难"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "kou-shuo-wu-ping-li-zi-wei-ju",
+    "text": "口说无凭，立字为据",
+    "pinyin": "kǒu shuō wú píng, lì zì wéi jù",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fairness-and-impartiality",
+      "standards-and-benchmarks"
+    ],
+    "literal": "mouth · say · no · proof, set up · writing · as · evidence",
+    "natural": "Spoken words prove nothing; put it in writing",
+    "meaning": {
+      "en": "A verbal promise is not reliable evidence, so agreements should be put in writing.",
+      "zh": "口头承诺没有凭证，要立下字据作为依据。"
+    },
+    "equivalents": [
+      "Put it in writing",
+      "An oral agreement isn't worth the paper it's not written on"
+    ],
+    "examples": [
+      {
+        "zh": "口说无凭，立字为据，咱们还是签份合同吧。",
+        "en": "A spoken word proves nothing, so let's sign a contract."
+      },
+      {
+        "zh": "借钱要写借条，口说无凭，立字为据。",
+        "en": "Write an IOU when you lend money, because words alone are no proof."
+      }
+    ],
+    "usage": {
+      "en": "Used in deals, loans and agreements. Slightly formal; also on traditional contracts.",
+      "zh": "多用于交易、借贷和协议场合，较正式，传统契约中也常见。"
+    },
+    "synonyms": [
+      "空口无凭"
+    ],
+    "antonyms": [
+      "一言为定"
+    ]
+  },
+  {
+    "id": "ying-xiong-bu-pa-chu-shen-di",
+    "text": "英雄不怕出身低",
+    "pinyin": "yīng xióng bú pà chū shēn dī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "outstanding-success-and-fame",
+      "high-aspirations"
+    ],
+    "literal": "hero · not · fear · origin · low",
+    "natural": "Heroes don't fear humble origins",
+    "meaning": {
+      "en": "Humble birth is no obstacle to success; real ability matters more than background.",
+      "zh": "出身低微不妨碍成就大业，关键在于本事和志气。"
+    },
+    "equivalents": [
+      "From rags to riches",
+      "Every man is the architect of his own fortune"
+    ],
+    "examples": [
+      {
+        "zh": "英雄不怕出身低，他从农村走出来，成了行业领袖。",
+        "en": "Heroes don't fear humble origins; he came from the countryside and became an industry leader."
+      },
+      {
+        "zh": "英雄不怕出身低，只要肯努力，一样能出人头地。",
+        "en": "A low start is no obstacle; with hard work anyone can get ahead."
+      }
+    ],
+    "usage": {
+      "en": "Encouraging; often used for self-made people and in motivational speeches.",
+      "zh": "带鼓励意味，常用于白手起家的人和励志场合。"
+    },
+    "synonyms": [
+      "自强不息",
+      "白手起家"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-shan-geng-bi-yi-shan-gao",
+    "text": "一山更比一山高",
+    "pinyin": "yī shān gèng bǐ yī shān gāo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "one · mountain · even · than · one · mountain · high",
+    "natural": "Each mountain is higher than the last",
+    "meaning": {
+      "en": "There is always someone better; one should stay humble.",
+      "zh": "总有人比你更强，要保持谦虚。"
+    },
+    "equivalents": [
+      "There's always a bigger fish",
+      "There's always someone better"
+    ],
+    "examples": [
+      {
+        "zh": "比赛才知道，一山更比一山高，我还差得远。",
+        "en": "Only in the competition did I see that there is always someone better; I'm far from the top."
+      },
+      {
+        "zh": "别骄傲，一山更比一山高。",
+        "en": "Don't be proud; there's always someone better."
+      }
+    ],
+    "usage": {
+      "en": "A warning against arrogance. Often followed by 强中更有强中手.",
+      "zh": "用于告诫人不要骄傲，常接“强中更有强中手”。"
+    },
+    "synonyms": [
+      "山外有山，天外有天"
+    ],
+    "antonyms": [
+      "目空一切"
+    ]
+  },
+  {
+    "id": "shan-wai-you-shan-tian-wai-you-tian",
+    "text": "山外有山，天外有天",
+    "pinyin": "shān wài yǒu shān, tiān wài yǒu tiān",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "天外有天，人外有人",
+      "人外有人，天外有天"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "mountain · beyond · there is · mountain, sky · beyond · there is · sky",
+    "natural": "There are mountains beyond the mountains, and a sky beyond the sky",
+    "meaning": {
+      "en": "There is always someone or something better than you; stay modest and keep learning.",
+      "zh": "永远有更高的境界和更强的人，要谦虚进取。"
+    },
+    "equivalents": [
+      "There's always a bigger fish",
+      "There is always someone better"
+    ],
+    "examples": [
+      {
+        "zh": "出国后我才明白山外有山，天外有天。",
+        "en": "After going abroad I understood that there are always better people beyond one's horizon."
+      },
+      {
+        "zh": "山外有山，天外有天，千万不要自满。",
+        "en": "Don't be complacent; there's always someone better out there."
+      }
+    ],
+    "usage": {
+      "en": "The second half is often stated as 人外有人; forms with the halves swapped are common.",
+      "zh": "后半句常作“人外有人”，前后半句也常对调。"
+    },
+    "synonyms": [
+      "强中自有强中手"
+    ],
+    "antonyms": [
+      "夜郎自大",
+      "坐井观天"
+    ]
+  }
+]

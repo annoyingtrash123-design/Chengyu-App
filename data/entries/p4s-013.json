@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "zi-zuo-nie-bu-ke-huo",
+    "text": "自作孽，不可活",
+    "pinyin": "zì zuò niè, bù kě huó",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "natural-consequences",
+      "revenge-and-retribution",
+      "confucian-classics"
+    ],
+    "literal": "self · make · evil, not · can · live",
+    "natural": "you cannot escape the trouble you make yourself",
+    "meaning": {
+      "en": "Disasters brought on by one's own wrongdoing cannot be escaped.",
+      "zh": "自己做了坏事招来的灾祸，无法逃脱。"
+    },
+    "equivalents": [
+      "you've made your bed, now lie in it",
+      "as you sow, so shall you reap"
+    ],
+    "examples": [
+      {
+        "zh": "他赌博成瘾，输光家产，真是自作孽，不可活。",
+        "en": "He was addicted to gambling and lost everything: he brought it on himself."
+      },
+      {
+        "zh": "公司造假被查，老板自作孽，不可活。",
+        "en": "The firm was caught faking its figures; the boss has only himself to blame."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》引《尚书·太甲》",
+      "story": {
+        "en": "Mencius quotes the 'Taijia' chapter: 'Calamities sent by Heaven can be avoided; calamities one makes oneself cannot be escaped.'",
+        "zh": "《孟子》引《太甲》：“天作孽，犹可违；自作孽，不可活。”"
+      }
+    },
+    "usage": {
+      "en": "Usually a verdict on someone else's downfall, often with little sympathy; sounds slightly stern.",
+      "zh": "多用来评说他人咎由自取的下场，语气较严厉。"
+    },
+    "synonyms": [
+      "咎由自取",
+      "自食其果"
+    ],
+    "antonyms": [
+      "逢凶化吉"
+    ]
+  },
+  {
+    "id": "ban-qi-shi-tou-za-zi-ji-de-jiao",
+    "text": "搬起石头砸自己的脚",
+    "pinyin": "bān qǐ shí tóu zá zì jǐ de jiǎo",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "搬石头砸自己的脚"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "natural-consequences"
+    ],
+    "literal": "lift up · stone · smash · one's own · foot",
+    "natural": "to drop the rock on your own foot",
+    "meaning": {
+      "en": "To harm oneself with a scheme meant to harm someone else.",
+      "zh": "本想害别人，结果害了自己。"
+    },
+    "equivalents": [
+      "to shoot oneself in the foot",
+      "to be hoist with one's own petard"
+    ],
+    "examples": [
+      {
+        "zh": "他造谣中伤同事，结果搬起石头砸自己的脚，丢了工作。",
+        "en": "He spread rumours about a colleague and it backfired: he lost his own job."
+      },
+      {
+        "zh": "你这样耍小聪明，小心搬起石头砸自己的脚。",
+        "en": "Be careful with these tricks, or you'll shoot yourself in the foot."
+      }
+    ],
+    "usage": {
+      "en": "Often used as a warning; the full form sometimes continues 举起石头砸自己的脚.",
+      "zh": "常作警告；也说“搬石头砸自己的脚”。"
+    },
+    "synonyms": [
+      "自食其果",
+      "作茧自缚"
+    ],
+    "antonyms": [
+      "一箭双雕"
+    ]
+  },
+  {
+    "id": "fan-shi-liu-yi-xian-ri",
+    "text": "凡事留一线，日后好相见",
+    "pinyin": "fán shì liú yī xiàn, rì hòu hǎo xiāng jiàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "relationships"
+    ],
+    "literal": "every · matter · leave · one · thread, later · can · meet",
+    "natural": "leave a thread of room, so you can meet again later",
+    "meaning": {
+      "en": "Do not push things to the extreme; leave room for others so you can still face each other later.",
+      "zh": "做事不要做绝，留有余地，以后还能好好相处。"
+    },
+    "equivalents": [
+      "don't burn your bridges",
+      "leave a way out"
+    ],
+    "examples": [
+      {
+        "zh": "他再生气也没撕破脸，凡事留一线，日后好相见。",
+        "en": "However angry he was, he didn't tear things up: leave some room for later."
+      },
+      {
+        "zh": "谈判时别把话说死，凡事留一线，日后好相见。",
+        "en": "Don't say things too finally in negotiations; you may need to meet again."
+      }
+    ],
+    "usage": {
+      "en": "Advice on dealing with people; often paired with 得饶人处且饶人.",
+      "zh": "劝人处事留有余地，常与“得饶人处且饶人”连用。"
+    },
+    "synonyms": [
+      "得饶人处且饶人",
+      "手下留情"
+    ],
+    "antonyms": [
+      "赶尽杀绝",
+      "斩草除根"
+    ]
+  },
+  {
+    "id": "hua-dao-zui-bian-liu-ban-ju",
+    "text": "话到嘴边留半句",
+    "pinyin": "huà dào zuǐ biān liú bàn jù",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "话到嘴边留三分"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "conduct"
+    ],
+    "literal": "words · reach · mouth · edge · keep · half · sentence",
+    "natural": "hold back half of what is on the tip of your tongue",
+    "meaning": {
+      "en": "Be discreet; do not say everything that comes to mind.",
+      "zh": "说话要谨慎，不要把想到的话全说出来。"
+    },
+    "equivalents": [
+      "think before you speak",
+      "least said, soonest mended"
+    ],
+    "examples": [
+      {
+        "zh": "话到嘴边留半句，在领导面前不要什么都说。",
+        "en": "Hold something back; don't tell your boss everything."
+      },
+      {
+        "zh": "老人常教导我们话到嘴边留半句，免得得罪人。",
+        "en": "Elders tell us to hold our tongue to avoid offending people."
+      }
+    ],
+    "usage": {
+      "en": "Advice about tact; the variant 留三分 is also common.",
+      "zh": "劝人说话留有余地；也说“话到嘴边留三分”。"
+    },
+    "synonyms": [
+      "祸从口出",
+      "言多必失"
+    ],
+    "antonyms": [
+      "口无遮拦",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "jian-ren-shuo-ren-hua-jian",
+    "text": "见人说人话，见鬼说鬼话",
+    "pinyin": "jiàn rén shuō rén huà, jiàn guǐ shuō guǐ huà",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "negative-character-flaws"
+    ],
+    "literal": "meet · person · speak · human · words, meet · ghost · speak · ghost · words",
+    "natural": "speak human to humans and ghost to ghosts",
+    "meaning": {
+      "en": "To tell each listener whatever suits them; to be two-faced and insincere.",
+      "zh": "对不同的人说不同的话，圆滑虚伪。"
+    },
+    "equivalents": [
+      "to tell everyone what they want to hear",
+      "to speak with a forked tongue"
+    ],
+    "examples": [
+      {
+        "zh": "他见人说人话，见鬼说鬼话，没人信他。",
+        "en": "He tells everyone what they want to hear; nobody trusts him."
+      },
+      {
+        "zh": "做销售不能见人说人话，见鬼说鬼话。",
+        "en": "In sales you can't just say whatever suits each customer."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; sometimes used with grudging admiration for social skill.",
+      "zh": "多含贬义，有时也带点佩服其圆滑。"
+    },
+    "synonyms": [
+      "八面玲珑",
+      "两面三刀"
+    ],
+    "antonyms": [
+      "表里如一",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "jian-guai-bu-guai-qi-guai-zi-bai",
+    "text": "见怪不怪，其怪自败",
+    "pinyin": "jiàn guài bù guài, qí guài zì bài",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "mental-clarity",
+      "fear-and-cowardice"
+    ],
+    "literal": "see · strange · not · find strange, its · strangeness · by itself · fails",
+    "natural": "treat the strange as ordinary and it defeats itself",
+    "meaning": {
+      "en": "If you stay calm about strange things, they lose their power to harm or frighten.",
+      "zh": "遇到怪事不惊慌、不理会，怪事自然会消失。"
+    },
+    "equivalents": [
+      "don't pay it any mind and it will go away",
+      "stay calm in the face of the strange"
+    ],
+    "examples": [
+      {
+        "zh": "见怪不怪，其怪自败，别被那些谣言吓住。",
+        "en": "Keep calm and the weirdness fades; don't be scared by those rumours."
+      },
+      {
+        "zh": "半夜听到怪声，他想起见怪不怪，其怪自败，翻身又睡了。",
+        "en": "Hearing odd noises at night, he remembered the saying and went back to sleep."
+      }
+    ],
+    "usage": {
+      "en": "Often just the first half is quoted: 见怪不怪.",
+      "zh": "常只说前半句“见怪不怪”。"
+    },
+    "synonyms": [
+      "泰然处之",
+      "处变不惊"
+    ],
+    "antonyms": [
+      "大惊小怪"
+    ]
+  },
+  {
+    "id": "ting-ren-quan-chi-bao-fan",
+    "text": "听人劝，吃饱饭",
+    "pinyin": "tīng rén quàn, chī bǎo fàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "listen · people · advise, eat · full · meal",
+    "natural": "heed advice and you'll eat your fill",
+    "meaning": {
+      "en": "Listening to good advice keeps you out of trouble and leads to a good outcome.",
+      "zh": "肯听别人的劝告，就不会吃亏，日子过得好。"
+    },
+    "equivalents": [
+      "take advice and you'll be better off",
+      "it pays to listen"
+    ],
+    "examples": [
+      {
+        "zh": "听人劝，吃饱饭，你就按医生说的做吧。",
+        "en": "It pays to listen: just do what the doctor says."
+      },
+      {
+        "zh": "他不听人劝，最后亏了不少钱，真是听人劝，吃饱饭啊。",
+        "en": "He wouldn't listen and lost a lot; heed advice and you'll do well."
+      }
+    ],
+    "usage": {
+      "en": "Used to urge someone to accept advice.",
+      "zh": "用来劝人接受别人的意见。"
+    },
+    "synonyms": [
+      "兼听则明",
+      "从善如流"
+    ],
+    "antonyms": [
+      "一意孤行",
+      "刚愎自用"
+    ]
+  },
+  {
+    "id": "ting-jun-yi-xi-hua-sheng-du-shi-nian-shu",
+    "text": "听君一席话，胜读十年书",
+    "pinyin": "tīng jūn yī xí huà, shèng dú shí nián shū",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "reading-and-study"
+    ],
+    "literal": "hear · you · one · mat · talk, beat · read · ten · years · books",
+    "natural": "an evening of your talk beats ten years of reading",
+    "meaning": {
+      "en": "A conversation with a wise person can teach more than years of study (also a compliment).",
+      "zh": "听了你的一番话，收获比读十年书还大。"
+    },
+    "equivalents": [
+      "a talk with you is worth ten years of study",
+      "I learnt more from you tonight than from books"
+    ],
+    "examples": [
+      {
+        "zh": "今天和您聊了一下午，听君一席话，胜读十年书。",
+        "en": "After an afternoon with you, I've learnt more than from years of books."
+      },
+      {
+        "zh": "听君一席话，胜读十年书，谢谢老师指点。",
+        "en": "Thank you, teacher; your advice has taught me a great deal."
+      }
+    ],
+    "usage": {
+      "en": "Mostly a polite compliment to the speaker; may be slightly humorous.",
+      "zh": "多作客气的恭维话，有时带玩笑。"
+    },
+    "synonyms": [
+      "茅塞顿开",
+      "受益匪浅"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ting-hua-ting-yin-luo-gu-ting-sheng",
+    "text": "听话听音，锣鼓听声",
+    "pinyin": "tīng huà tīng yīn, luó gǔ tīng shēng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "听话听声，锣鼓听音"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "wisdom",
+      "superficial-learning"
+    ],
+    "literal": "listen · words · listen · tone, gong · drum · listen · sound",
+    "natural": "hear the tone in the words, as you hear the beat of the drum",
+    "meaning": {
+      "en": "Listen for the real meaning behind what people say.",
+      "zh": "听别人说话要听出话里隐含的意思。"
+    },
+    "equivalents": [
+      "read between the lines",
+      "listen to what is meant, not what is said"
+    ],
+    "examples": [
+      {
+        "zh": "听话听音，锣鼓听声，他那句话明显是在暗示你。",
+        "en": "Read between the lines: that remark was clearly a hint to you."
+      },
+      {
+        "zh": "做秘书要懂得听话听音，锣鼓听声。",
+        "en": "A secretary has to grasp what lies behind people's words."
+      }
+    ],
+    "usage": {
+      "en": "Advice about reading hints; the variant swaps 音 and 声.",
+      "zh": "劝人领会弦外之音；也说“听话听声，锣鼓听音”。"
+    },
+    "synonyms": [
+      "弦外之音",
+      "察言观色"
+    ],
+    "antonyms": [
+      "充耳不闻"
+    ]
+  },
+  {
+    "id": "shu-zhong-zi-you-huang-jin",
+    "text": "书中自有黄金屋，书中自有颜如玉",
+    "pinyin": "shū zhōng zì yǒu huáng jīn wū, shū zhōng zì yǒu yán rú yù",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "academic-achievement"
+    ],
+    "literal": "book · in · naturally · has · golden · house, book · in · naturally · has · face · like · jade",
+    "natural": "in books lie golden houses and jade-faced beauties",
+    "meaning": {
+      "en": "Study brings wealth and a good life; a classic encouragement to read.",
+      "zh": "读书能带来财富和美好的生活，用来劝人勤奋读书。"
+    },
+    "equivalents": [
+      "knowledge is the road to riches",
+      "books are the ladder to success"
+    ],
+    "examples": [
+      {
+        "zh": "书中自有黄金屋，书中自有颜如玉，好好读书吧。",
+        "en": "Books hold gold and beauty; study hard."
+      },
+      {
+        "zh": "古人说书中自有黄金屋，书中自有颜如玉，其实是鼓励读书。",
+        "en": "The old saying about golden houses in books really just urges people to read."
+      }
+    ],
+    "usage": {
+      "en": "Traditional exhortation; today often quoted half-jokingly.",
+      "zh": "传统劝学语，今天常半开玩笑地引用。"
+    },
+    "synonyms": [
+      "学而优则仕",
+      "万般皆下品，唯有读书高"
+    ],
+    "antonyms": [
+      "读书无用"
+    ]
+  },
+  {
+    "id": "shu-shan-you-lu-qin-wei",
+    "text": "书山有路勤为径，学海无涯苦作舟",
+    "pinyin": "shū shān yǒu lù qín wéi jìng, xué hǎi wú yá kǔ zuò zhōu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "academic-achievement",
+      "essay-favourites"
+    ],
+    "literal": "book · mountain · has · path · diligence · is · trail, learning · sea · no · shore · hard work · is · boat",
+    "natural": "diligence is the path up the mountain of books, hard work the boat on the sea of learning",
+    "meaning": {
+      "en": "Only diligence and hard work will carry you through the vast world of knowledge.",
+      "zh": "在知识的海洋里，只有勤奋刻苦才能前进。"
+    },
+    "equivalents": [
+      "there is no royal road to learning",
+      "no pain, no gain"
+    ],
+    "examples": [
+      {
+        "zh": "书山有路勤为径，学海无涯苦作舟，同学们要努力。",
+        "en": "Diligence is the path and hard work the boat; students, work hard."
+      },
+      {
+        "zh": "他把书山有路勤为径，学海无涯苦作舟写在书桌前。",
+        "en": "He wrote this couplet about diligence above his desk."
+      }
+    ],
+    "usage": {
+      "en": "A couplet often quoted in school and graduation speeches.",
+      "zh": "常用于学校、毕业赠言和作文。"
+    },
+    "synonyms": [
+      "头悬梁，锥刺股",
+      "勤能补拙"
+    ],
+    "antonyms": [
+      "不学无术",
+      "好逸恶劳"
+    ]
+  },
+  {
+    "id": "xue-ru-ni-shui-xing-zhou-bu-jin-ze-tui",
+    "text": "学如逆水行舟，不进则退",
+    "pinyin": "xué rú nì shuǐ xíng zhōu, bù jìn zé tuì",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "逆水行舟，不进则退"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "effort",
+      "essay-favourites"
+    ],
+    "literal": "study · like · against · water · sail · boat, not · advance · then · retreat",
+    "natural": "studying is like rowing upstream: stop advancing and you drift back",
+    "meaning": {
+      "en": "Learning must never pause; if you stop making progress you fall behind.",
+      "zh": "学习像逆流划船，不努力前进就会后退。"
+    },
+    "equivalents": [
+      "if you're not moving forward, you're falling behind",
+      "use it or lose it"
+    ],
+    "examples": [
+      {
+        "zh": "学如逆水行舟，不进则退，暑假也不能放松。",
+        "en": "Learning is like rowing upstream: don't relax even in the summer holidays."
+      },
+      {
+        "zh": "老师常说学如逆水行舟，不进则退。",
+        "en": "The teacher often says that if you stop advancing you fall back."
+      }
+    ],
+    "usage": {
+      "en": "The shorter form 逆水行舟，不进则退 is also used for business and competition.",
+      "zh": "简称“逆水行舟，不进则退”，也可用于事业、竞争。"
+    },
+    "synonyms": [
+      "不进则退",
+      "精益求精"
+    ],
+    "antonyms": [
+      "故步自封"
+    ]
+  },
+  {
+    "id": "wan-ban-jie-xia-pin-wei-you-du-shu-gao",
+    "text": "万般皆下品，唯有读书高",
+    "pinyin": "wàn bān jiē xià pǐn, wéi yǒu dú shū gāo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "academic-achievement"
+    ],
+    "literal": "all · kinds · all · low · grade, only · have · read · books · high",
+    "natural": "every trade is lowly; only scholarship is lofty",
+    "meaning": {
+      "en": "The traditional view that scholarship is the highest calling, above every other occupation.",
+      "zh": "旧时认为只有读书做官才是最高尚的出路。"
+    },
+    "equivalents": [
+      "learning is the highest pursuit"
+    ],
+    "examples": [
+      {
+        "zh": "万般皆下品，唯有读书高，这种旧观念已经过时了。",
+        "en": "'Only scholarship is lofty': that old idea is out of date."
+      },
+      {
+        "zh": "爷爷从小灌输万般皆下品，唯有读书高的想法。",
+        "en": "Grandpa drilled into us that only studying counts."
+      }
+    ],
+    "usage": {
+      "en": "Now usually quoted critically, as an outdated attitude.",
+      "zh": "今天多带批评地引用，指过时观念。"
+    },
+    "synonyms": [
+      "学而优则仕"
+    ],
+    "antonyms": [
+      "读书无用论"
+    ]
+  },
+  {
+    "id": "tou-ji-bu-zhao-shi-ba-mi",
+    "text": "偷鸡不着蚀把米",
+    "pinyin": "tōu jī bù zháo shí bǎ mǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "偷鸡不成蚀把米"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "unintended-results",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "steal · chicken · fail to get · lose · handful · rice",
+    "natural": "fail to steal the chicken and lose the rice used as bait",
+    "meaning": {
+      "en": "To try to gain something improperly and end up losing what you already had.",
+      "zh": "想占便宜反而吃了亏。"
+    },
+    "equivalents": [
+      "to go for wool and come home shorn",
+      "to lose one's shirt trying to make a fast buck"
+    ],
+    "examples": [
+      {
+        "zh": "他想骗保险，结果偷鸡不着蚀把米，还赔了一笔钱。",
+        "en": "He tried to cheat the insurer and ended up paying out himself."
+      },
+      {
+        "zh": "别贪小便宜，小心偷鸡不着蚀把米。",
+        "en": "Don't be greedy for small gains, or you'll lose what you have."
+      }
+    ],
+    "usage": {
+      "en": "Describes a would-be schemer who loses out.",
+      "zh": "多指想占便宜反吃亏的人。"
+    },
+    "synonyms": [
+      "赔了夫人又折兵",
+      "得不偿失"
+    ],
+    "antonyms": [
+      "一本万利"
+    ]
+  },
+  {
+    "id": "yi-zhao-tian-zi-yi-zhao-chen",
+    "text": "一朝天子一朝臣",
+    "pinyin": "yī zhāo tiān zǐ yī zhāo chén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "change",
+      "leadership-and-authority"
+    ],
+    "literal": "one · reign · emperor · one · reign · ministers",
+    "natural": "a new emperor brings a new set of ministers",
+    "meaning": {
+      "en": "A new leader brings in his own people and replaces the old staff.",
+      "zh": "换了新领导，就会换上新的班子。"
+    },
+    "equivalents": [
+      "new broom sweeps clean",
+      "a new boss brings a new team"
+    ],
+    "examples": [
+      {
+        "zh": "新总经理一来就调整班子，真是一朝天子一朝臣。",
+        "en": "The new GM reshuffled the team at once: new boss, new team."
+      },
+      {
+        "zh": "一朝天子一朝臣，老员工们都有点担心。",
+        "en": "With a new emperor come new ministers; the veterans are nervous."
+      }
+    ],
+    "usage": {
+      "en": "Often said about office politics after a leadership change.",
+      "zh": "多用于领导更替后的人事变动。"
+    },
+    "synonyms": [
+      "改朝换代",
+      "新官上任三把火"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-qi-ren-zhi-dao-huan",
+    "text": "以其人之道，还治其人之身",
+    "pinyin": "yǐ qí rén zhī dào, huán zhì qí rén zhī shēn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "military-strategy-and-victory"
+    ],
+    "literal": "with · his · person's · way, return · treat · his · person's · body",
+    "natural": "use his own methods against him",
+    "meaning": {
+      "en": "To pay someone back with the very methods they used on others.",
+      "zh": "用对方的办法来对付对方。"
+    },
+    "equivalents": [
+      "to give someone a taste of their own medicine",
+      "to beat someone at their own game"
+    ],
+    "examples": [
+      {
+        "zh": "他们造谣，我们就公布真相，以其人之道，还治其人之身。",
+        "en": "They spread lies; we publish the facts and turn their methods against them."
+      },
+      {
+        "zh": "对手总是挖我们的人，我们也以其人之道，还治其人之身。",
+        "en": "The rival keeps poaching our staff, so we will do the same to them."
+      }
+    ],
+    "usage": {
+      "en": "Often used of retaliation in business or politics.",
+      "zh": "多用于商业、政治上的反击。"
+    },
+    "synonyms": [
+      "以牙还牙",
+      "针锋相对"
+    ],
+    "antonyms": [
+      "以德报怨"
+    ]
+  },
+  {
+    "id": "lao-zi-ying-xiong-er-hao-han",
+    "text": "老子英雄儿好汉",
+    "pinyin": "lǎo zi yīng xióng ér hǎo hàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "老子英雄儿好汉，老子反动儿混蛋"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "outstanding-character"
+    ],
+    "literal": "father · hero · son · fine · fellow",
+    "natural": "if the father is a hero, the son is a good man",
+    "meaning": {
+      "en": "A heroic father raises a capable son (also used ironically of the opposite).",
+      "zh": "父亲有本事，儿子也有出息。"
+    },
+    "equivalents": [
+      "like father, like son",
+      "a chip off the old block"
+    ],
+    "examples": [
+      {
+        "zh": "老子英雄儿好汉，他们父子都是冠军。",
+        "en": "Like father, like son: both of them are champions."
+      },
+      {
+        "zh": "人们常说老子英雄儿好汉，其实孩子也要自己努力。",
+        "en": "People say the son of a hero is a hero, but kids must work too."
+      }
+    ],
+    "usage": {
+      "en": "Sometimes extended ironically with 老子反动儿混蛋 (a bad father, a bad son).",
+      "zh": "有时后接“老子反动儿混蛋”，指父子皆不好。"
+    },
+    "synonyms": [
+      "将门虎子",
+      "虎父无犬子"
+    ],
+    "antonyms": [
+      "虎父犬子"
+    ]
+  },
+  {
+    "id": "dang-mian-luo-dui-mian-gu",
+    "text": "当面锣，对面鼓",
+    "pinyin": "dāng miàn luó, duì miàn gǔ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "frankness-and-candour",
+      "conflict-and-strife"
+    ],
+    "literal": "face to face · gong, opposite · drum",
+    "natural": "gong facing gong, drum facing drum",
+    "meaning": {
+      "en": "To settle matters openly, face to face.",
+      "zh": "当着面把话说清楚，不背后搞小动作。"
+    },
+    "equivalents": [
+      "let's have it out face to face",
+      "to speak plainly to someone's face"
+    ],
+    "examples": [
+      {
+        "zh": "有意见就当面锣，对面鼓地说清楚。",
+        "en": "If you have a complaint, say it to my face."
+      },
+      {
+        "zh": "两家人当面锣，对面鼓，把误会说开了。",
+        "en": "The two families talked it through face to face and cleared up the misunderstanding."
+      }
+    ],
+    "usage": {
+      "en": "Often used as 当面锣，对面鼓地…; the tone is blunt but fair.",
+      "zh": "常说“当面锣，对面鼓地……”，语气直率。"
+    },
+    "synonyms": [
+      "开诚布公",
+      "当面对质"
+    ],
+    "antonyms": [
+      "背后议论",
+      "暗箭伤人"
+    ]
+  },
+  {
+    "id": "ren-huo-yi-zhang-lian-shu",
+    "text": "人活一张脸，树活一张皮",
+    "pinyin": "rén huó yī zhāng liǎn, shù huó yī zhāng pí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "positive-character-qualities"
+    ],
+    "literal": "person · lives · one · face, tree · lives · one · bark",
+    "natural": "a person lives by his face as a tree lives by its bark",
+    "meaning": {
+      "en": "Self-respect and reputation are as vital to a person as bark is to a tree.",
+      "zh": "人要靠脸面（尊严）生活，就像树靠树皮生存。"
+    },
+    "equivalents": [
+      "a man's honour is his life",
+      "losing face is like peeling a tree"
+    ],
+    "examples": [
+      {
+        "zh": "人活一张脸，树活一张皮，做事不能不要脸面。",
+        "en": "A person needs face as a tree needs bark; don't act shamelessly."
+      },
+      {
+        "zh": "他说人活一张脸，树活一张皮，死也不肯低头认输。",
+        "en": "He said a man lives by his face and would not bow even if it killed him."
+      }
+    ],
+    "usage": {
+      "en": "Used both to urge dignity and to excuse stubborn pride.",
+      "zh": "既用来劝人要自尊，也用来解释好面子。"
+    },
+    "synonyms": [
+      "脸面攸关",
+      "爱惜羽毛"
+    ],
+    "antonyms": [
+      "厚颜无耻",
+      "不要脸"
+    ]
+  },
+  {
+    "id": "zhi-jian-shu-mu-bu-jian-sen-lin",
+    "text": "只见树木，不见森林",
+    "pinyin": "zhǐ jiàn shù mù, bù jiàn sēn lín",
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "only · see · trees, not · see · forest",
+    "natural": "see the trees but not the forest",
+    "meaning": {
+      "en": "To focus on details and lose sight of the big picture.",
+      "zh": "只看到局部细节，看不到整体。"
+    },
+    "equivalents": [
+      "can't see the forest for the trees"
+    ],
+    "examples": [
+      {
+        "zh": "做规划时不能只见树木，不见森林。",
+        "en": "In planning you can't see only the trees and miss the forest."
+      },
+      {
+        "zh": "他太纠结小细节，只见树木，不见森林。",
+        "en": "He gets bogged down in details and misses the big picture."
+      }
+    ],
+    "usage": {
+      "en": "A calque of the English 'can't see the forest for the trees'.",
+      "zh": "与英语 can't see the forest for the trees 意思相同。"
+    },
+    "synonyms": [
+      "管中窥豹",
+      "一叶障目"
+    ],
+    "antonyms": [
+      "高瞻远瞩",
+      "统筹全局"
+    ]
+  },
+  {
+    "id": "gan-da-lei-bu-xia-yu",
+    "text": "干打雷，不下雨",
+    "pinyin": "gān dǎ léi, bù xià yǔ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "poor-performance"
+    ],
+    "literal": "dry · thunder, not · fall · rain",
+    "natural": "all thunder and no rain",
+    "meaning": {
+      "en": "Plenty of noise but no real action or result.",
+      "zh": "声势大，却没有实际行动或结果。"
+    },
+    "equivalents": [
+      "all talk and no action",
+      "all bark and no bite"
+    ],
+    "examples": [
+      {
+        "zh": "他嚷嚷着要辞职，其实是干打雷，不下雨。",
+        "en": "He keeps shouting that he'll quit, but it's all thunder and no rain."
+      },
+      {
+        "zh": "这个项目喊了三年，还是干打雷，不下雨。",
+        "en": "The project has been announced for three years and nothing has come of it."
+      }
+    ],
+    "usage": {
+      "en": "Often used of empty threats or promises.",
+      "zh": "多用于空洞的威胁或承诺。"
+    },
+    "synonyms": [
+      "雷声大，雨点小",
+      "虎头蛇尾"
+    ],
+    "antonyms": [
+      "雷厉风行"
+    ]
+  },
+  {
+    "id": "dao-zi-zui-dou-fu-xin",
+    "text": "刀子嘴，豆腐心",
+    "pinyin": "dāo zi zuǐ, dòu fǔ xīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "刀子嘴巴，豆腐心"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "positive-character-qualities",
+      "frankness-and-candour"
+    ],
+    "literal": "knife · mouth, tofu · heart",
+    "natural": "a knife of a mouth but a heart of tofu",
+    "meaning": {
+      "en": "Sharp-tongued but kind-hearted.",
+      "zh": "说话尖刻，心地善良。"
+    },
+    "equivalents": [
+      "her bark is worse than her bite",
+      "a heart of gold under a rough tongue"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈刀子嘴，豆腐心，骂完还是给我做好吃的。",
+        "en": "Mum has a sharp tongue and a soft heart; after scolding me she cooks something nice."
+      },
+      {
+        "zh": "别介意，他就是刀子嘴，豆腐心。",
+        "en": "Don't mind him: he's sharp-tongued but kind."
+      }
+    ],
+    "usage": {
+      "en": "Affectionate; usually said of elders, friends and colleagues.",
+      "zh": "带亲昵意味，多说长辈、朋友、同事。"
+    },
+    "synonyms": [
+      "嘴硬心软"
+    ],
+    "antonyms": [
+      "口蜜腹剑"
+    ]
+  },
+  {
+    "id": "yi-ye-zhang-mu-bu-jian-tai-shan",
+    "text": "一叶障目，不见泰山",
+    "pinyin": "yī yè zhàng mù, bù jiàn tài shān",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "superficial-learning",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "one · leaf · block · eye, not · see · Mount Tai",
+    "natural": "a single leaf over the eye hides Mount Tai",
+    "meaning": {
+      "en": "To be blinded by a minor matter and miss the larger truth.",
+      "zh": "被眼前的小事蒙蔽，看不到重大的事物。"
+    },
+    "equivalents": [
+      "can't see the wood for the trees",
+      "to be blind to the big picture"
+    ],
+    "examples": [
+      {
+        "zh": "别被小利迷住，一叶障目，不见泰山。",
+        "en": "Don't be dazzled by small gains and miss the big picture."
+      },
+      {
+        "zh": "他只盯着眼前的数据，一叶障目，不见泰山。",
+        "en": "He stared at the numbers in front of him and missed the larger picture."
+      }
+    ],
+    "origin": {
+      "source": "《鹖冠子》",
+      "story": {
+        "en": "The Warring States text Heguanzi says that one leaf over the eyes keeps even Mount Tai from view.",
+        "zh": "《鹖冠子》有“一叶蔽目，不见泰山”之语。"
+      }
+    },
+    "usage": {
+      "en": "The four-character form 一叶障目 is more common alone.",
+      "zh": "单说“一叶障目”也很常见。"
+    },
+    "synonyms": [
+      "管中窥豹",
+      "目光短浅"
+    ],
+    "antonyms": [
+      "高瞻远瞩"
+    ]
+  },
+  {
+    "id": "da-men-bu-chu-er-men-bu-mai",
+    "text": "大门不出，二门不迈",
+    "pinyin": "dà mén bù chū, èr mén bù mài",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "solitude-and-isolation",
+      "relaxation-and-rest"
+    ],
+    "literal": "main · gate · not · go out, inner · gate · not · step over",
+    "natural": "never going out the main gate, nor even over the inner one",
+    "meaning": {
+      "en": "To stay at home and never go out.",
+      "zh": "整天待在家里，从不外出。"
+    },
+    "equivalents": [
+      "to stay shut indoors",
+      "to be a homebody"
+    ],
+    "examples": [
+      {
+        "zh": "他放假时大门不出，二门不迈，天天宅在家里。",
+        "en": "On holiday he never leaves the house, staying in every day."
+      },
+      {
+        "zh": "她以前大门不出，二门不迈，现在爱上了旅行。",
+        "en": "She used to stay home all the time, but now loves travelling."
+      }
+    ],
+    "usage": {
+      "en": "Originally said of sheltered women in old households; now used humorously for homebodies.",
+      "zh": "原指旧时深闺女子，今多用来幽默地形容宅在家里。"
+    },
+    "synonyms": [
+      "足不出户",
+      "深居简出"
+    ],
+    "antonyms": [
+      "四处奔波",
+      "东奔西走"
+    ]
+  },
+  {
+    "id": "huang-tian-bu-fu-ku-xin-ren",
+    "text": "皇天不负苦心人",
+    "pinyin": "huáng tiān bù fù kǔ xīn rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "successful-completion"
+    ],
+    "literal": "august · heaven · not · fail · painstaking · person",
+    "natural": "Heaven does not fail those who take pains",
+    "meaning": {
+      "en": "Diligent and determined people will eventually be rewarded.",
+      "zh": "只要下苦功、有恒心，终究会有回报。"
+    },
+    "equivalents": [
+      "hard work pays off",
+      "perseverance will be rewarded"
+    ],
+    "examples": [
+      {
+        "zh": "皇天不负苦心人，他终于考上了理想的大学。",
+        "en": "Heaven rewards the earnest: he finally got into his dream university."
+      },
+      {
+        "zh": "练了十年，皇天不负苦心人，她拿到了金牌。",
+        "en": "After ten years of training, her effort paid off with a gold medal."
+      }
+    ],
+    "usage": {
+      "en": "Often used to congratulate or encourage; also 功夫不负有心人.",
+      "zh": "用于祝贺或鼓励；近似“功夫不负有心人”。"
+    },
+    "synonyms": [
+      "功夫不负有心人",
+      "有志者事竟成"
+    ],
+    "antonyms": [
+      "竹篮打水一场空"
+    ]
+  }
+]
