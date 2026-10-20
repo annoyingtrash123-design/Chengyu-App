@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "weng-sheng-weng-qi",
+    "text": "瓮声瓮气",
+    "pinyin": "wèng shēng wèng qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "poor-speech-and-silence"
+    ],
+    "literal": "jar · sound · jar · air",
+    "natural": "sound muffled, as if from inside a jar",
+    "meaning": {
+      "en": "To speak in a deep, muffled voice, as if one's voice were coming out of a jar.",
+      "zh": "形容声音低沉、不清脆。"
+    },
+    "equivalents": [
+      "in a muffled drone",
+      "in a gruff, boomy voice"
+    ],
+    "examples": [
+      {
+        "zh": "他感冒了，说话瓮声瓮气的。",
+        "en": "He has a cold and his voice sounds muffled and nasal."
+      },
+      {
+        "zh": "门外那人瓮声瓮气地问：“有人在家吗？”",
+        "en": "The man outside asked in a deep, boomy voice, 'Anybody home?'"
+      }
+    ],
+    "usage": {
+      "en": "Usually an adverbial before 地 or a predicate with 的; describes a voice, not a person's character.",
+      "zh": "多作状语或谓语，描写声音，不用来形容人的性格。"
+    },
+    "synonyms": [
+      "闷声闷气",
+      "嗡声嗡气"
+    ],
+    "antonyms": [
+      "清脆悦耳",
+      "声如洪钟"
+    ]
+  },
+  {
+    "id": "cao-mang-ying-xiong",
+    "text": "草莽英雄",
+    "pinyin": "cǎo mǎng yīng xióng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "society",
+      "character"
+    ],
+    "literal": "grass · thicket · hero · brave",
+    "natural": "hero from the wilds",
+    "meaning": {
+      "en": "A heroic figure who rose from the common people or the outlaw world rather than from official ranks.",
+      "zh": "指出身民间、没有官职的英雄好汉。"
+    },
+    "equivalents": [
+      "outlaw hero",
+      "hero of humble origins"
+    ],
+    "examples": [
+      {
+        "zh": "《水浒传》里的好汉大多是草莽英雄。",
+        "en": "Most of the heroes in Water Margin are outlaw heroes."
+      },
+      {
+        "zh": "他自称草莽英雄，从不屑于攀附权贵。",
+        "en": "He calls himself a hero of the common folk and scorns courting the powerful."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used in talk of history, martial-arts fiction or folk heroes; mildly admiring.",
+      "zh": "多用于历史、武侠、民间英雄，略含赞许。"
+    },
+    "synonyms": [
+      "绿林好汉",
+      "江湖豪杰"
+    ],
+    "antonyms": [
+      "朝廷命官",
+      "酒囊饭袋"
+    ]
+  },
+  {
+    "id": "bu-xiao-zi-sun",
+    "text": "不肖子孙",
+    "pinyin": "bù xiào zǐ sūn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "relationships",
+      "filial-piety",
+      "negative-character-flaws",
+      "polite-humble"
+    ],
+    "literal": "not · resemble · sons · grandsons",
+    "natural": "descendants who fall short of their forebears",
+    "meaning": {
+      "en": "Descendants who fail to live up to their ancestors and disgrace the family.",
+      "zh": "指不成器、辱没祖先的后代。"
+    },
+    "equivalents": [
+      "black sheep of the family",
+      "a disgrace to one's ancestors"
+    ],
+    "examples": [
+      {
+        "zh": "他败光了祖业，成了不肖子孙。",
+        "en": "He squandered the family estate and became a disgrace to his ancestors."
+      },
+      {
+        "zh": "我可不想做愧对先人的不肖子孙。",
+        "en": "I don't want to be an unworthy descendant who lets down my forebears."
+      }
+    ],
+    "usage": {
+      "en": "Here 肖 means 'resemble' (xiào), not 'bear a zodiac sign'. Harsh; often self-deprecating in old-style speech.",
+      "zh": "“肖”指像、相似；含贬义，旧时常用作自责之辞。"
+    },
+    "synonyms": [
+      "败家子",
+      "逆子"
+    ],
+    "antonyms": [
+      "孝子贤孙"
+    ]
+  },
+  {
+    "id": "jiang-gong-shu-zui",
+    "text": "将功赎罪",
+    "pinyin": "jiāng gōng shú zuì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "将功折罪"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "mistakes-and-correction"
+    ],
+    "literal": "use · merit · redeem · crime",
+    "natural": "redeem a crime with merit",
+    "meaning": {
+      "en": "To make up for a past offence by doing something meritorious.",
+      "zh": "用立功来抵偿自己的罪过。"
+    },
+    "equivalents": [
+      "redeem oneself",
+      "work off one's guilt"
+    ],
+    "examples": [
+      {
+        "zh": "他主动提供线索，想将功赎罪。",
+        "en": "He volunteered leads, hoping to redeem himself."
+      },
+      {
+        "zh": "犯错后别只会道歉，要想办法将功赎罪。",
+        "en": "After a mistake, don't just apologise; find a way to make amends."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. 将功补过 is a close cousin that stresses fixing a mistake rather than a crime; 将功折罪 is a variant.",
+      "zh": "多作谓语；“将功补过”更侧重弥补过失，“将功折罪”为异形。"
+    },
+    "synonyms": [
+      "戴罪立功",
+      "以功抵过"
+    ],
+    "antonyms": [
+      "罪上加罪",
+      "一错再错"
+    ]
+  },
+  {
+    "id": "san-gong-liu-yuan",
+    "text": "三宫六院",
+    "pinyin": "sān gōng liù yuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "society",
+      "luxury-and-extravagance"
+    ],
+    "literal": "three · palaces · six · courts",
+    "natural": "three palaces and six courts",
+    "meaning": {
+      "en": "The emperor's many consorts and the palaces they lived in; the imperial harem.",
+      "zh": "旧指皇帝的后妃及其住所，泛指后宫。"
+    },
+    "equivalents": [
+      "the imperial harem",
+      "a palace full of concubines"
+    ],
+    "examples": [
+      {
+        "zh": "古装剧里常有皇帝三宫六院的情节。",
+        "en": "Period dramas often show an emperor with a full harem."
+      },
+      {
+        "zh": "他虽是富豪，也不能像古代帝王那样三宫六院。",
+        "en": "Rich as he is, he can't keep a harem like an ancient emperor."
+      }
+    ],
+    "usage": {
+      "en": "Often used jokingly of a man with many partners; the exact numbers are not meant literally.",
+      "zh": "常带调侃，形容男子妻妾众多；数字不是实指。"
+    },
+    "synonyms": [
+      "后宫佳丽",
+      "三妻四妾"
+    ],
+    "antonyms": [
+      "一夫一妻"
+    ]
+  },
+  {
+    "id": "zhi-zhi-nao-hou",
+    "text": "置之脑后",
+    "pinyin": "zhì zhī nǎo hòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "distracted-attention"
+    ],
+    "literal": "put · it · brain · behind",
+    "natural": "put it behind one's head",
+    "meaning": {
+      "en": "To forget about something or pay no heed to it.",
+      "zh": "放在脑子后面，指不放在心上、不去理会。"
+    },
+    "equivalents": [
+      "push to the back of one's mind",
+      "brush aside"
+    ],
+    "examples": [
+      {
+        "zh": "他把老师的叮嘱全置之脑后。",
+        "en": "He put all the teacher's warnings out of his mind."
+      },
+      {
+        "zh": "安全规定怎么能置之脑后？",
+        "en": "How can anyone disregard the safety rules?"
+      }
+    ],
+    "usage": {
+      "en": "Usually implies carelessness or neglect; often follows 把. Not for a deliberate, healthy letting-go.",
+      "zh": "多含疏忽不顾之意，常与“把”连用；不用于主动释怀。"
+    },
+    "synonyms": [
+      "置之度外",
+      "抛诸脑后"
+    ],
+    "antonyms": [
+      "铭记在心",
+      "念念不忘"
+    ]
+  },
+  {
+    "id": "lao-er-wu-gong",
+    "text": "劳而无功",
+    "pinyin": "láo ér wú gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "toil · yet · no · result",
+    "natural": "work hard but achieve nothing",
+    "meaning": {
+      "en": "To work hard without getting any result.",
+      "zh": "费了力气却没有成效。"
+    },
+    "equivalents": [
+      "labour in vain",
+      "all effort, no reward"
+    ],
+    "examples": [
+      {
+        "zh": "方法不对，只会劳而无功。",
+        "en": "With the wrong method, you will only labour in vain."
+      },
+      {
+        "zh": "几个月的调试劳而无功，大家都很沮丧。",
+        "en": "Months of debugging came to nothing and everyone was discouraged."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Stresses wasted effort from a flawed approach, not lack of effort.",
+      "zh": "多作谓语，强调方法不当而白费力气。"
+    },
+    "synonyms": [
+      "徒劳无功",
+      "事倍功半"
+    ],
+    "antonyms": [
+      "事半功倍",
+      "马到成功"
+    ]
+  },
+  {
+    "id": "hao-se-zhi-tu",
+    "text": "好色之徒",
+    "pinyin": "hào sè zhī tú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "character",
+      "negative-character-flaws"
+    ],
+    "literal": "love · beauty · of · fellow",
+    "natural": "a lecher",
+    "meaning": {
+      "en": "A person who is lustful and pursues women for pleasure.",
+      "zh": "指贪恋女色、行为不端的人。"
+    },
+    "equivalents": [
+      "a lecher",
+      "a skirt-chaser"
+    ],
+    "examples": [
+      {
+        "zh": "那个老板是出了名的好色之徒。",
+        "en": "That boss is a notorious lecher."
+      },
+      {
+        "zh": "小说里的反派常被写成好色之徒。",
+        "en": "Villains in novels are often written as lechers."
+      }
+    ],
+    "usage": {
+      "en": "Note 好 is hào (to like). Derogatory; 之徒 labels a type of person, as in 亡命之徒.",
+      "zh": "“好”读hào；贬义。“之徒”表示某类人。"
+    },
+    "synonyms": [
+      "登徒子",
+      "花花公子"
+    ],
+    "antonyms": [
+      "正人君子",
+      "柳下惠"
+    ]
+  },
+  {
+    "id": "bu-zhi-qing-zhong",
+    "text": "不知轻重",
+    "pinyin": "bù zhī qīng zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · know · light · heavy",
+    "natural": "not know what is light or heavy",
+    "meaning": {
+      "en": "To lack a sense of proportion or of how serious a matter is.",
+      "zh": "不懂得事情的轻重缓急，说话做事没有分寸。"
+    },
+    "equivalents": [
+      "have no sense of proportion",
+      "not know where to draw the line"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子玩闹起来不知轻重，容易伤到人。",
+        "en": "This child plays roughly with no sense of limits and may hurt someone."
+      },
+      {
+        "zh": "拿大事开玩笑，也太不知轻重了。",
+        "en": "Joking about something so serious shows a poor sense of proportion."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; fine for scolding children or colleagues. Read 重 as zhòng.",
+      "zh": "多作谓语，常用于批评；“重”读zhòng。"
+    },
+    "synonyms": [
+      "不知分寸"
+    ],
+    "antonyms": [
+      "分寸得当",
+      "深明大义"
+    ]
+  },
+  {
+    "id": "fu-shang-da-gu",
+    "text": "富商大贾",
+    "pinyin": "fù shāng dà gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "society",
+      "luxury-and-extravagance"
+    ],
+    "literal": "wealthy · merchants · great · traders",
+    "natural": "rich merchants and great traders",
+    "meaning": {
+      "en": "Wealthy, large-scale merchants.",
+      "zh": "指资财雄厚、做大买卖的商人。"
+    },
+    "equivalents": [
+      "wealthy merchants",
+      "business tycoons"
+    ],
+    "examples": [
+      {
+        "zh": "扬州在清代聚集了不少富商大贾。",
+        "en": "Yangzhou drew many wealthy merchants in the Qing dynasty."
+      },
+      {
+        "zh": "这家老字号的客人多是富商大贾。",
+        "en": "This old brand's customers are mostly wealthy merchants."
+      }
+    ],
+    "usage": {
+      "en": "贾 here is gǔ (merchant), not jiǎ (surname); a literary, collective expression.",
+      "zh": "“贾”此处读gǔ，指商人；书面语。"
+    },
+    "synonyms": [
+      "腰缠万贯"
+    ],
+    "antonyms": [
+      "贩夫走卒",
+      "平民百姓"
+    ]
+  },
+  {
+    "id": "kan-po-hong-chen",
+    "text": "看破红尘",
+    "pinyin": "kàn pò hóng chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "emotions",
+      "sadness-and-despair",
+      "buddhist-origin"
+    ],
+    "literal": "see · through · red · dust",
+    "natural": "see through the red dust",
+    "meaning": {
+      "en": "To see the illusory nature of worldly life and lose interest in it.",
+      "zh": "看透人世间的一切，对世俗生活不再留恋。"
+    },
+    "equivalents": [
+      "see through the vanities of the world",
+      "renounce the world"
+    ],
+    "examples": [
+      {
+        "zh": "经历了许多变故，他看破红尘，出家为僧。",
+        "en": "After many upheavals he renounced the world and became a monk."
+      },
+      {
+        "zh": "她才三十岁，怎么就看破红尘了？",
+        "en": "She's only thirty; how has she already given up on the world?"
+      }
+    ],
+    "usage": {
+      "en": "Often used for monks or jaded people; teasingly said of someone who is 'over it all'. 红尘 = the mortal world.",
+      "zh": "多指出家或心灰意冷；也可调侃。“红尘”指人世。"
+    },
+    "synonyms": [
+      "超凡脱俗",
+      "万念俱灰"
+    ],
+    "antonyms": [
+      "留恋红尘",
+      "贪恋尘世"
+    ]
+  },
+  {
+    "id": "feng-liu-ren-wu",
+    "text": "风流人物",
+    "pinyin": "fēng liú rén wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "character",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "outstanding · style · person · figure",
+    "natural": "a figure of distinction",
+    "meaning": {
+      "en": "An outstanding figure of great talent and achievement.",
+      "zh": "指有功绩、有才华、影响一时的杰出人物。"
+    },
+    "equivalents": [
+      "a man of the hour",
+      "a towering figure"
+    ],
+    "examples": [
+      {
+        "zh": "数风流人物，还看今朝。",
+        "en": "If we count the great figures, look to the present age."
+      },
+      {
+        "zh": "这座城市出过不少风流人物。",
+        "en": "The city has produced many outstanding figures."
+      }
+    ],
+    "usage": {
+      "en": "Not 'romantic philanderer': 风流 here means 'distinguished'. Echoes Mao's 《沁园春·雪》.",
+      "zh": "此处“风流”指杰出，并非男女风流韵事；毛泽东《沁园春·雪》让此语广为人知。"
+    },
+    "synonyms": [
+      "杰出人物",
+      "英雄豪杰"
+    ],
+    "antonyms": [
+      "碌碌无为",
+      "无名小卒"
+    ]
+  },
+  {
+    "id": "yao-yao-xiang-dui",
+    "text": "遥遥相对",
+    "pinyin": "yáo yáo xiāng duì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "nature",
+      "measure"
+    ],
+    "literal": "far · far · mutually · face",
+    "natural": "face each other from afar",
+    "meaning": {
+      "en": "To stand facing each other across a long distance.",
+      "zh": "彼此隔着很远的距离相对。"
+    },
+    "equivalents": [
+      "face each other across the distance",
+      "stand opposite one another"
+    ],
+    "examples": [
+      {
+        "zh": "两座古塔隔江遥遥相对。",
+        "en": "Two old pagodas face each other across the river."
+      },
+      {
+        "zh": "两岸的灯火遥遥相对。",
+        "en": "The lights on both banks twinkle opposite each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; describes places, buildings, mountains. Not for people having a conversation.",
+      "zh": "多作谓语，用于景物、建筑；不用于人对话。"
+    },
+    "synonyms": [
+      "遥相呼应",
+      "隔岸相望"
+    ],
+    "antonyms": [
+      "近在咫尺",
+      "紧紧相连"
+    ]
+  },
+  {
+    "id": "shen-zhai-da-yuan",
+    "text": "深宅大院",
+    "pinyin": "shēn zhái dà yuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daily",
+      "family-and-home",
+      "luxury-and-extravagance"
+    ],
+    "literal": "deep · house · big · courtyard",
+    "natural": "a deep mansion with big courtyards",
+    "meaning": {
+      "en": "A large, sprawling residence of a wealthy family, usually secluded from the outside world.",
+      "zh": "指房屋众多、院落深幽的富贵人家宅第。"
+    },
+    "equivalents": [
+      "a grand, secluded mansion",
+      "a big house behind high walls"
+    ],
+    "examples": [
+      {
+        "zh": "她从小生活在深宅大院里，很少出门。",
+        "en": "She grew up in a great house and seldom went out."
+      },
+      {
+        "zh": "老北京的深宅大院如今多已改成博物馆。",
+        "en": "Many of old Beijing's grand courtyard houses are now museums."
+      }
+    ],
+    "usage": {
+      "en": "Often suggests seclusion and old-fashioned family rules as well as wealth.",
+      "zh": "常暗示封闭与旧式大家规矩，也含富贵之意。"
+    },
+    "synonyms": [
+      "高门大户",
+      "朱门大院"
+    ],
+    "antonyms": [
+      "蓬门荜户",
+      "陋室寒舍"
+    ]
+  },
+  {
+    "id": "duo-zui-duo-she",
+    "text": "多嘴多舌",
+    "pinyin": "duō zuǐ duō shé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "verbosity"
+    ],
+    "literal": "many · mouth · many · tongue",
+    "natural": "too many mouths, too many tongues",
+    "meaning": {
+      "en": "To talk too much, especially by meddling or gossiping.",
+      "zh": "指话多，爱插嘴或乱说闲话。"
+    },
+    "equivalents": [
+      "be a blabbermouth",
+      "speak out of turn"
+    ],
+    "examples": [
+      {
+        "zh": "你别多嘴多舌，这事跟你无关。",
+        "en": "Don't chip in; this has nothing to do with you."
+      },
+      {
+        "zh": "办公室里多嘴多舌的人最招人烦。",
+        "en": "Office gossips and busybodies are the most irritating."
+      }
+    ],
+    "usage": {
+      "en": "Pronounced duō zuǐ duō shé (舌 is shé, not shè). Predicate; scolding tone.",
+      "zh": "注意“舌”读shé；多作谓语，含责备意味。"
+    },
+    "synonyms": [
+      "饶舌",
+      "搬弄是非"
+    ],
+    "antonyms": [
+      "沉默寡言",
+      "守口如瓶"
+    ]
+  },
+  {
+    "id": "bu-zhi-shen-qian",
+    "text": "不知深浅",
+    "pinyin": "bù zhī shēn qiǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · know · deep · shallow",
+    "natural": "not know how deep or shallow",
+    "meaning": {
+      "en": "To not know how difficult or dangerous a matter is; to act without a sense of limits.",
+      "zh": "不知道事情的难易、轻重，也指说话做事没分寸。"
+    },
+    "equivalents": [
+      "not know what one is getting into",
+      "have no sense of limits"
+    ],
+    "examples": [
+      {
+        "zh": "他初来乍到，说话不知深浅，得罪了不少人。",
+        "en": "Being new, he spoke without tact and offended quite a few people."
+      },
+      {
+        "zh": "这水不知深浅，别贸然下去。",
+        "en": "You don't know how deep this water is; don't jump in."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literal use about water also exists. Compare 不知轻重: nearly synonymous.",
+      "zh": "多作谓语，也可指水的深浅。与“不知轻重”近义。"
+    },
+    "synonyms": [
+      "不知天高地厚",
+      "不知好歹"
+    ],
+    "antonyms": [
+      "心中有数",
+      "分寸得当"
+    ]
+  },
+  {
+    "id": "tong-qi-lian-zhi",
+    "text": "同气连枝",
+    "pinyin": "tóng qì lián zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "filial-piety",
+      "family-and-home"
+    ],
+    "literal": "same · breath · linked · branch",
+    "natural": "same breath, linked branches",
+    "meaning": {
+      "en": "Close ties, as between brothers or kin who share the same blood.",
+      "zh": "比喻同胞兄弟或关系密切的亲人，如同一树之枝。"
+    },
+    "equivalents": [
+      "of one blood",
+      "bound together like branches of one tree"
+    ],
+    "examples": [
+      {
+        "zh": "兄弟本是同气连枝，何必为小事争吵？",
+        "en": "Brothers are of one blood; why quarrel over trifles?"
+      },
+      {
+        "zh": "两岸同胞同气连枝，血脉相连。",
+        "en": "Compatriots on both sides are kin, bound by blood."
+      }
+    ],
+    "usage": {
+      "en": "Written style; used of siblings or, in formal speech, of peoples with a shared origin. ",
+      "zh": "书面语；用于兄弟，也用于同宗同族的群体。"
+    },
+    "synonyms": [
+      "手足情深",
+      "骨肉相连"
+    ],
+    "antonyms": [
+      "骨肉相残",
+      "兄弟阋墙"
+    ]
+  },
+  {
+    "id": "qi-shi-er-hang",
+    "text": "七十二行",
+    "pinyin": "qī shí èr háng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "society",
+      "daily"
+    ],
+    "literal": "seventy · two · trades",
+    "natural": "seventy-two trades",
+    "meaning": {
+      "en": "All the different trades and occupations; 'every line of work'.",
+      "zh": "泛指各行各业，不是实数。"
+    },
+    "equivalents": [
+      "all trades and professions",
+      "every walk of life"
+    ],
+    "examples": [
+      {
+        "zh": "七十二行，行行出状元。",
+        "en": "Of the seventy-two trades, every one produces a top scholar."
+      },
+      {
+        "zh": "他在七十二行里都干过，什么都懂一点。",
+        "en": "He has tried every line of work and knows a bit of everything."
+      }
+    ],
+    "usage": {
+      "en": "行 is háng (trade), not xíng. Often as part of the saying 七十二行，行行出状元 ('success in any field').",
+      "zh": "“行”读háng。常见于“七十二行，行行出状元”。"
+    },
+    "synonyms": [
+      "三百六十行",
+      "各行各业"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhi-zhi-si-di",
+    "text": "置之死地",
+    "pinyin": "zhì zhī sǐ dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "danger"
+    ],
+    "literal": "put · him · death · ground",
+    "natural": "put someone on death ground",
+    "meaning": {
+      "en": "To put someone in a desperate situation; also to try to destroy them.",
+      "zh": "把人放在绝境中，也指想置人于死。"
+    },
+    "equivalents": [
+      "drive into a corner",
+      "put with one's back to the wall"
+    ],
+    "examples": [
+      {
+        "zh": "对手想置之死地而后快。",
+        "en": "His rival wanted him destroyed once and for all."
+      },
+      {
+        "zh": "兵法说，置之死地而后生。",
+        "en": "The art of war says: put them on death ground and they will fight to live."
+      }
+    ],
+    "usage": {
+      "en": "Often seen in 置之死地而后生 ('fight your way out of hopeless straits') and 置之死地而后快 (hostile).",
+      "zh": "常见于“置之死地而后生”和“置之死地而后快”。"
+    },
+    "synonyms": [
+      "陷入绝境",
+      "逼上绝路"
+    ],
+    "antonyms": [
+      "网开一面",
+      "手下留情"
+    ]
+  },
+  {
+    "id": "luan-chen-zei-zi",
+    "text": "乱臣贼子",
+    "pinyin": "luàn chén zéi zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "society",
+      "corruption-and-injustice"
+    ],
+    "literal": "rebellious · ministers · bandit · sons",
+    "natural": "rebel ministers and traitorous sons",
+    "meaning": {
+      "en": "Traitors and rebels who defy their ruler or parents.",
+      "zh": "指不守君臣、父子之道的人，泛指叛国作乱的坏人。"
+    },
+    "equivalents": [
+      "traitors and rebels",
+      "treacherous subjects"
+    ],
+    "examples": [
+      {
+        "zh": "史书上的乱臣贼子，终将遗臭万年。",
+        "en": "The traitors in the histories will be remembered with infamy."
+      },
+      {
+        "zh": "他痛斥那些卖国求荣的乱臣贼子。",
+        "en": "He denounced the turncoats who sold out the country for gain."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory, formal; typical of historical or moralising writing.",
+      "zh": "贬义，书面语；多见于历史、道德评论。"
+    },
+    "synonyms": [
+      "叛国逆贼",
+      "奸佞小人"
+    ],
+    "antonyms": [
+      "忠臣良将",
+      "股肱之臣"
+    ]
+  },
+  {
+    "id": "zi-ran-er-ran",
+    "text": "自然而然",
+    "pinyin": "zì rán ér rán",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "natural-consequences"
+    ],
+    "literal": "naturally · and · so · naturally",
+    "natural": "naturally and so",
+    "meaning": {
+      "en": "Of itself, without effort or forcing; as a matter of course.",
+      "zh": "不经外力作用，顺其自然地。"
+    },
+    "equivalents": [
+      "naturally",
+      "as a matter of course",
+      "of its own accord"
+    ],
+    "examples": [
+      {
+        "zh": "语言环境对了，自然而然就学会了。",
+        "en": "With the right language environment, you simply pick it up naturally."
+      },
+      {
+        "zh": "两个人相处久了，感情自然而然地深了。",
+        "en": "After spending time together, their feelings deepened naturally."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial with 地 or placed before the verb. Neutral, very common.",
+      "zh": "多作状语，可带“地”；中性，很常用。"
+    },
+    "synonyms": [
+      "顺其自然",
+      "水到渠成"
+    ],
+    "antonyms": [
+      "刻意为之",
+      "矫揉造作"
+    ]
+  },
+  {
+    "id": "san-cong-si-de",
+    "text": "三从四德",
+    "pinyin": "sān cóng sì dé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "culture",
+      "conduct"
+    ],
+    "literal": "three · obey · four · virtues",
+    "natural": "three obediences and four virtues",
+    "meaning": {
+      "en": "The traditional code for women: obey father, husband and son, and cultivate virtue, speech, manner and work.",
+      "zh": "旧时束缚妇女的礼教：未嫁从父、既嫁从夫、夫死从子，以及妇德、妇言、妇容、妇功。"
+    },
+    "equivalents": [
+      "the traditional feudal code for women",
+      "the Three Obediences and Four Virtues"
+    ],
+    "examples": [
+      {
+        "zh": "她从不认同所谓“三从四德”的旧规矩。",
+        "en": "She never accepted the old-fashioned 'three obediences and four virtues'."
+      },
+      {
+        "zh": "三从四德早已被现代社会抛弃。",
+        "en": "The three obediences and four virtues have long since been discarded."
+      }
+    ],
+    "usage": {
+      "en": "Mostly cited critically as a symbol of old patriarchal norms.",
+      "zh": "现多带批评意味，指旧时男权礼教。"
+    },
+    "synonyms": [
+      "贤妻良母"
+    ],
+    "antonyms": [
+      "男女平等"
+    ]
+  },
+  {
+    "id": "sha-xue-wei-meng",
+    "text": "歃血为盟",
+    "pinyin": "shà xuè wéi méng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "stories"
+    ],
+    "literal": "smear · blood · make · oath",
+    "natural": "swear an oath by smearing blood",
+    "meaning": {
+      "en": "To seal an alliance or oath by smearing one's mouth with blood of a sacrificed animal.",
+      "zh": "古代订立盟约时，用牲畜的血涂在嘴唇上表示诚意。"
+    },
+    "equivalents": [
+      "swear a blood oath",
+      "seal a pact in blood"
+    ],
+    "examples": [
+      {
+        "zh": "三位好汉歃血为盟，誓同生死。",
+        "en": "The three heroes swore a blood oath to live and die together."
+      },
+      {
+        "zh": "古代诸侯常歃血为盟，以示信守。",
+        "en": "Ancient lords often sealed alliances with blood to prove good faith."
+      }
+    ],
+    "usage": {
+      "en": "Historical or fiction setting; do not use for modern contracts. Note 歃 is shà.",
+      "zh": "用于历史和小说；“歃”读shà。"
+    },
+    "synonyms": [
+      "结拜",
+      "立誓结盟"
+    ],
+    "antonyms": [
+      "背信弃义",
+      "反目成仇"
+    ]
+  }
+]
