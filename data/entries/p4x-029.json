@@ -1,0 +1,972 @@
+[
+  {
+    "id": "wu-ri-wu-zhi",
+    "text": "无日无之",
+    "pinyin": "wú rì wú zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "exact-vs-approximate",
+      "time-management"
+    ],
+    "literal": "no · day · no · it",
+    "natural": "not a day without it",
+    "meaning": {
+      "en": "To happen every single day; there is no day on which it does not occur.",
+      "zh": "没有一天不发生，形容经常、天天如此。"
+    },
+    "equivalents": [
+      "every single day",
+      "a daily occurrence"
+    ],
+    "examples": [
+      {
+        "zh": "这类网络诈骗几乎无日无之。",
+        "en": "Online scams of this kind happen almost every day."
+      },
+      {
+        "zh": "那几年边境冲突无日无之，百姓不得安宁。",
+        "en": "In those years border clashes occurred daily, and the people knew no peace."
+      },
+      {
+        "zh": "他对母亲的牵挂无日无之。",
+        "en": "Not a day passes without his thinking of his mother."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate; mostly written, formal.",
+      "zh": "多作谓语，多用于书面语。"
+    },
+    "synonyms": [
+      "殆无虚日",
+      "层出不穷"
+    ],
+    "antonyms": [
+      "绝无仅有",
+      "偶一为之"
+    ]
+  },
+  {
+    "id": "juan-niao-zhi-huan",
+    "text": "倦鸟知还",
+    "pinyin": "juàn niǎo zhī huán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "poems-prose",
+      "solitude-and-isolation"
+    ],
+    "literal": "weary · bird · know · return",
+    "natural": "a tired bird knows to go home",
+    "meaning": {
+      "en": "To long for home and return after being worn out by wandering or by official life.",
+      "zh": "鸟儿飞累了知道回巢，比喻在外奔波或做官疲倦后想要回家、归隐。"
+    },
+    "equivalents": [
+      "a weary bird flies home",
+      "home is the sailor, home from sea"
+    ],
+    "examples": [
+      {
+        "zh": "在外漂泊十年，他终于倦鸟知还，回到了故乡。",
+        "en": "After ten years adrift, he finally came home like a weary bird."
+      },
+      {
+        "zh": "官场浮沉多年，倦鸟知还，他决定辞职归隐。",
+        "en": "Tired of years in officialdom, he resolved to resign and retire to the countryside."
+      },
+      {
+        "zh": "倦鸟知还，春节时车站里挤满了回家的人。",
+        "en": "Like weary birds heading home, the station was packed with people returning for the New Year."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《归去来兮辞》",
+      "story": {
+        "en": "Tao Yuanming wrote, 'Clouds drift aimlessly out of the peaks; birds, tired of flying, know to return' (云无心以出岫，鸟倦飞而知还), describing his resignation and return to the fields.",
+        "zh": "陶渊明《归去来兮辞》：“云无心以出岫，鸟倦飞而知还。”"
+      },
+      "date": {
+        "zh": "东晋 · 405年",
+        "en": "Eastern Jin, 405"
+      }
+    },
+    "usage": {
+      "en": "Predicate or clause; literary tone, often about homecoming or retirement.",
+      "zh": "多作谓语或分句，带文学色彩，常指归乡、归隐。"
+    },
+    "synonyms": [
+      "云无心以出岫，鸟倦飞而知还",
+      "落叶归根"
+    ],
+    "antonyms": [
+      "乐不思蜀",
+      "浪迹天涯"
+    ]
+  },
+  {
+    "id": "qi-chi-nan-er",
+    "text": "七尺男儿",
+    "pinyin": "qī chǐ nán ér",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "body"
+    ],
+    "literal": "seven · foot · man · child",
+    "natural": "a seven-foot man",
+    "meaning": {
+      "en": "A grown man; used to appeal to a man's sense of responsibility and dignity.",
+      "zh": "指身材高大的成年男子，常用来强调男子应有的担当和气概。"
+    },
+    "equivalents": [
+      "a grown man",
+      "a man in his prime"
+    ],
+    "examples": [
+      {
+        "zh": "七尺男儿，怎能遇到一点困难就哭鼻子？",
+        "en": "A grown man should not cry at the first difficulty."
+      },
+      {
+        "zh": "他是七尺男儿，该撑起这个家了。",
+        "en": "He is a grown man now and must hold this family up."
+      },
+      {
+        "zh": "七尺男儿当志在四方。",
+        "en": "A real man's ambitions should reach far and wide."
+      }
+    ],
+    "usage": {
+      "en": "Subject or object; often used to urge responsibility. 尺 here is the old Chinese foot, much shorter than today's.",
+      "zh": "多作主语、宾语，常用来激励人担当。这里的“尺”是古尺，比今天短。"
+    },
+    "synonyms": [
+      "七尺之躯",
+      "堂堂男子汉"
+    ],
+    "antonyms": [
+      "弱不禁风",
+      "手无缚鸡之力"
+    ]
+  },
+  {
+    "id": "qi-ruo-bi-lu",
+    "text": "弃若敝履",
+    "pinyin": "qì ruò bì lǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "inappropriate-behavior",
+      "attitude-humble-vs-arrogant",
+      "confucian-classics"
+    ],
+    "literal": "discard · like · worn-out · shoe",
+    "natural": "throw away like a worn-out shoe",
+    "meaning": {
+      "en": "To cast something aside without regret, treating it as worthless.",
+      "zh": "像扔掉破鞋一样毫不可惜地抛弃，形容对事物毫不珍惜。"
+    },
+    "equivalents": [
+      "cast aside like an old shoe",
+      "throw away like trash"
+    ],
+    "examples": [
+      {
+        "zh": "他把多年的友情弃若敝履。",
+        "en": "He threw away years of friendship like an old shoe."
+      },
+      {
+        "zh": "这些传统技艺不能被弃若敝履。",
+        "en": "These traditional skills must not be tossed aside as worthless."
+      },
+      {
+        "zh": "她对名利弃若敝履，一心做研究。",
+        "en": "She cares nothing for fame and gain and devotes herself to research."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心上》",
+      "story": {
+        "en": "Mencius said Shun would have thrown away the whole empire 'like a worn-out sandal' (弃天下犹弃敝蹝也) if it meant caring for his father.",
+        "zh": "《孟子·尽心上》：“舜视弃天下犹弃敝蹝也。”"
+      },
+      "date": {
+        "zh": "战国中期 · 前4世纪",
+        "en": "mid Warring States, 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Predicate; 敝履 is a worn-out shoe. Can be critical or admiring, depending on what is discarded.",
+      "zh": "多作谓语。可贬可褒，视所弃之物而定。"
+    },
+    "synonyms": [
+      "弃如敝屣",
+      "不屑一顾"
+    ],
+    "antonyms": [
+      "视若珍宝",
+      "爱不释手"
+    ]
+  },
+  {
+    "id": "kong-kou-shuo-bai-hua",
+    "text": "空口说白话",
+    "pinyin": "kōng kǒu shuō bái huà",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "deception-and-false-appearances"
+    ],
+    "literal": "empty · mouth · speak · plain · words",
+    "natural": "talking with an empty mouth",
+    "meaning": {
+      "en": "To make claims or promises with nothing to back them up.",
+      "zh": "只是嘴上说说，没有行动或证据。"
+    },
+    "equivalents": [
+      "all talk and no action",
+      "empty words"
+    ],
+    "examples": [
+      {
+        "zh": "别空口说白话，拿出证据来！",
+        "en": "Don't just talk; show us the evidence!"
+      },
+      {
+        "zh": "光空口说白话，是建不起大楼的。",
+        "en": "You can't build a skyscraper on words alone."
+      },
+      {
+        "zh": "他只会空口说白话，从没真正做成过一件事。",
+        "en": "He is all talk and has never actually finished anything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; casual, often a rebuke.",
+      "zh": "多作谓语，口语，常用来批评。"
+    },
+    "synonyms": [
+      "耍嘴皮子",
+      "纸上谈兵"
+    ],
+    "antonyms": [
+      "言出必行",
+      "真凭实据"
+    ]
+  },
+  {
+    "id": "yong-sun-bu-ji",
+    "text": "饔飧不继",
+    "pinyin": "yōng sūn bù jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "simple-food-and-hunger"
+    ],
+    "literal": "breakfast · dinner · not · continue",
+    "natural": "no breakfast or dinner to follow",
+    "meaning": {
+      "en": "To be so poor that one cannot afford regular meals.",
+      "zh": "连早饭、晚饭都接不上，形容生活极其贫困。"
+    },
+    "equivalents": [
+      "not know where the next meal is coming from",
+      "live from hand to mouth"
+    ],
+    "examples": [
+      {
+        "zh": "那年灾荒，许多人家饔飧不继。",
+        "en": "In that famine year, many families could not count on their next meal."
+      },
+      {
+        "zh": "他早年饔飧不继，靠亲戚接济度日。",
+        "en": "In his youth he often went hungry and lived on relatives' help."
+      },
+      {
+        "zh": "小说里的老人晚年饔飧不继，令人心酸。",
+        "en": "The old man in the novel, without regular meals in his last years, is heartbreaking."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary, written. 饔 is breakfast, 飧 is supper.",
+      "zh": "多作谓语，书面语。饔指早饭，飧指晚饭。"
+    },
+    "synonyms": [
+      "等米下锅",
+      "食不果腹"
+    ],
+    "antonyms": [
+      "丰衣足食",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "lian-po-wei-lao",
+    "text": "廉颇未老",
+    "pinyin": "lián pō wèi lǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "positive-character-qualities"
+    ],
+    "literal": "Lian Po · not yet · old",
+    "natural": "Lian Po is not old yet",
+    "meaning": {
+      "en": "Said of an older person who is still vigorous and capable.",
+      "zh": "指年纪大了仍然精力充沛，能够胜任工作。"
+    },
+    "equivalents": [
+      "still going strong",
+      "old but not out"
+    ],
+    "examples": [
+      {
+        "zh": "六十岁的老教练廉颇未老，球队在他手下连赢五场。",
+        "en": "The 60-year-old coach is still going strong, winning five games in a row."
+      },
+      {
+        "zh": "爷爷干起农活来廉颇未老，一点不输年轻人。",
+        "en": "Grandpa works the fields as well as any young man."
+      },
+      {
+        "zh": "他退休后重回岗位，廉颇未老。",
+        "en": "Back at work after retirement, he showed he had lost none of his edge."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or clause. A positive reversal of 廉颇老矣; the allusion is to the Warring States general Lian Po, who ate heartily to prove he was still fit for command.",
+      "zh": "多作谓语或分句。与“廉颇老矣”相对，用战国名将廉颇以饭量证明自己尚可用的典故。"
+    },
+    "synonyms": [
+      "宝刀未老",
+      "老当益壮"
+    ],
+    "antonyms": [
+      "廉颇老矣",
+      "老态龙钟"
+    ]
+  },
+  {
+    "id": "tou-xuan-liang-zhui-ci-gu",
+    "text": "头悬梁，锥刺股",
+    "pinyin": "tóu xuán liáng, zhuī cì gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "high-aspirations",
+      "academic-achievement"
+    ],
+    "literal": "head · hang · beam, awl · stab · thigh",
+    "natural": "tie one's hair to the beam, prick one's thigh with an awl",
+    "meaning": {
+      "en": "To study with extreme diligence, even using pain to stay awake.",
+      "zh": "形容刻苦学习：用绳子把头发系在房梁上、用锥子扎大腿来驱赶睡意。"
+    },
+    "equivalents": [
+      "burn the midnight oil",
+      "hit the books night and day"
+    ],
+    "examples": [
+      {
+        "zh": "为了高考，他头悬梁，锥刺股，每晚学到凌晨。",
+        "en": "For the college entrance exam he studied like a man possessed, working until dawn every night."
+      },
+      {
+        "zh": "头悬梁，锥刺股的精神值得学习，但也要注意休息。",
+        "en": "The spirit of studying with such devotion is admirable, but one should also rest."
+      },
+      {
+        "zh": "古人头悬梁，锥刺股，今天的学生靠的是咖啡。",
+        "en": "The ancients tied their hair to beams and stabbed their thighs; today's students rely on coffee."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; combines two stories (孙敬's hair tied to the beam, 苏秦's awl). Often used half jokingly of exam cramming.",
+      "zh": "多作谓语、定语。合并了孙敬悬梁和苏秦刺股两个典故，今天常带调侃用来形容考前苦读。"
+    },
+    "synonyms": [
+      "悬梁刺股",
+      "废寝忘食",
+      "书山有路勤为径，学海无涯苦作舟"
+    ],
+    "antonyms": [
+      "不学无术",
+      "游手好闲"
+    ]
+  },
+  {
+    "id": "tie-da-de-ying-pan-liu-shui-de-bing",
+    "text": "铁打的营盘流水的兵",
+    "pinyin": "tiě dǎ de yíng pán liú shuǐ de bīng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "change",
+      "experience-and-old-age"
+    ],
+    "literal": "iron · forged · 's · camp · flowing water · 's · soldiers",
+    "natural": "an iron-built camp and soldiers like flowing water",
+    "meaning": {
+      "en": "The institution stays while its people keep changing.",
+      "zh": "营盘像铁打的一样固定不变，士兵却像流水一样不断更替，比喻单位长存而人员常换。"
+    },
+    "equivalents": [
+      "the institution endures while people come and go",
+      "the fortress stays, the garrison changes"
+    ],
+    "examples": [
+      {
+        "zh": "铁打的营盘流水的兵，这家公司每年都要换一批人。",
+        "en": "The company stays and the staff turn over; every year a new batch comes."
+      },
+      {
+        "zh": "铁打的营盘流水的兵，老师傅走了，规矩还在。",
+        "en": "The camp is iron and the soldiers are water: the old masters leave, but the rules remain."
+      },
+      {
+        "zh": "班主任说：铁打的营盘流水的兵，学长毕业了，传统要传下去。",
+        "en": "The teacher said that the school remains while students move on, so the tradition must be handed down."
+      }
+    ],
+    "usage": {
+      "en": "Clause or full saying; often used of workplaces, schools and the army, sometimes with a sigh about high turnover.",
+      "zh": "可作分句或整句，常用于单位、学校、部队，有时带有对人员流动频繁的感叹。"
+    },
+    "synonyms": [
+      "铁打的衙门，流水的官",
+      "人来人往"
+    ],
+    "antonyms": [
+      "一成不变",
+      "一以贯之"
+    ]
+  },
+  {
+    "id": "yi-lu-lu-deng",
+    "text": "一路绿灯",
+    "pinyin": "yī lù lǜ dēng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "efficiency",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "one · road · green · light",
+    "natural": "green lights all the way",
+    "meaning": {
+      "en": "To get smooth, unobstructed passage or approval at every step.",
+      "zh": "一路上都是绿灯，比喻办事没有阻碍、顺利通过。"
+    },
+    "equivalents": [
+      "get the green light all the way",
+      "smooth sailing"
+    ],
+    "examples": [
+      {
+        "zh": "这个项目有领导支持，审批一路绿灯。",
+        "en": "With the leadership's backing, the project sailed through every approval."
+      },
+      {
+        "zh": "新能源车企在手续上一路绿灯。",
+        "en": "The electric-car maker gets smooth approval at every step of the paperwork."
+      },
+      {
+        "zh": "今天上班路上一路绿灯，我提前十分钟到了公司。",
+        "en": "I hit green lights all the way to work and arrived ten minutes early."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often with 开 or 放: 开绿灯 means to grant approval. Can imply special treatment.",
+      "zh": "多作谓语，常说“开绿灯”“放绿灯”，有时暗含特殊照顾。"
+    },
+    "synonyms": [
+      "畅通无阻",
+      "一帆风顺"
+    ],
+    "antonyms": [
+      "阎王好见，小鬼难缠",
+      "关卡重重"
+    ]
+  },
+  {
+    "id": "chen-mo-shi-jin",
+    "text": "沉默是金",
+    "pinyin": "chén mò shì jīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "poor-speech-and-silence",
+      "positive-character-qualities"
+    ],
+    "literal": "silence · is · gold",
+    "natural": "silence is golden",
+    "meaning": {
+      "en": "Saying nothing is often wiser than speaking.",
+      "zh": "在许多场合保持沉默比说话更明智。"
+    },
+    "equivalents": [
+      "silence is golden",
+      "least said, soonest mended"
+    ],
+    "examples": [
+      {
+        "zh": "会议上他没有争辩，觉得沉默是金。",
+        "en": "He didn't argue in the meeting, feeling that silence is golden."
+      },
+      {
+        "zh": "遇到不懂的事，沉默是金，别乱发表意见。",
+        "en": "When you don't understand something, keep quiet instead of giving opinions."
+      },
+      {
+        "zh": "沉默是金，但该开口时也不能退缩。",
+        "en": "Silence is golden, but you can't hold back when it is time to speak up."
+      }
+    ],
+    "usage": {
+      "en": "Usually a standalone saying. Adapted from the English proverb (Carlyle's 'Speech is silver, silence is golden'). It is often countered by 会哭的孩子有奶吃.",
+      "zh": "多单独成句。源自西方谚语（卡莱尔“说话是银，沉默是金”）。常与“会哭的孩子有奶吃”对照。"
+    },
+    "synonyms": [
+      "祸从口出",
+      "守口如瓶"
+    ],
+    "antonyms": [
+      "会哭的孩子有奶吃",
+      "口无遮拦"
+    ]
+  },
+  {
+    "id": "lao-shi-ren-chi-kui",
+    "text": "老实人吃亏",
+    "pinyin": "lǎo shi rén chī kuī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conduct",
+      "positive-character-qualities"
+    ],
+    "literal": "honest · person · suffer · loss",
+    "natural": "honest people take the loss",
+    "meaning": {
+      "en": "Honest, unassertive people tend to end up losing out.",
+      "zh": "为人老实、不争不抢的人往往会吃亏。"
+    },
+    "equivalents": [
+      "nice guys finish last",
+      "the honest man gets the short end of the stick"
+    ],
+    "examples": [
+      {
+        "zh": "别总是让着别人，老实人吃亏啊。",
+        "en": "Don't always give way; the honest one ends up losing."
+      },
+      {
+        "zh": "老实人吃亏，这话在职场上有时是真的。",
+        "en": "'Honest folk lose out' is sometimes true in the workplace."
+      },
+      {
+        "zh": "他从不抢功，结果老实人吃亏，奖金被别人拿走了。",
+        "en": "He never took credit, so, as they say, the honest man lost out, and others took his bonus."
+      }
+    ],
+    "usage": {
+      "en": "Often said as a complaint or a warning; the full 老实人吃亏，无赖占便宜 is also heard. Opposite sentiments: 老实人有福 (honesty pays off).",
+      "zh": "多用于抱怨或提醒。常见全句“老实人吃亏，无赖占便宜”。"
+    },
+    "synonyms": [
+      "吃哑巴亏",
+      "忠厚无用"
+    ],
+    "antonyms": [
+      "会哭的孩子有奶吃",
+      "吉人天相"
+    ]
+  },
+  {
+    "id": "yan-ruo-tao-li",
+    "text": "艳若桃李",
+    "pinyin": "yàn ruò táo lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "bright · like · peach · plum",
+    "natural": "as radiant as peach and plum blossom",
+    "meaning": {
+      "en": "To be dazzlingly beautiful, like peach and plum blossoms in bloom.",
+      "zh": "像桃花李花一样艳丽，多形容女子容貌美丽。"
+    },
+    "equivalents": [
+      "radiant as spring blossom",
+      "stunningly beautiful"
+    ],
+    "examples": [
+      {
+        "zh": "那位女演员艳若桃李，引得满场注目。",
+        "en": "The actress, radiant as spring blossom, drew every eye in the hall."
+      },
+      {
+        "zh": "春天的公园里，花朵艳若桃李。",
+        "en": "In the spring park, the flowers are bright as peach and plum blossom."
+      },
+      {
+        "zh": "她年轻时艳若桃李，如今依然优雅。",
+        "en": "She was dazzling in her youth and is still graceful now."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; mostly of women, literary. Often paired with 冷若冰霜 (艳若桃李，冷若冰霜: beautiful but cold).",
+      "zh": "多作谓语、定语，多形容女子，书面语。常与“冷若冰霜”连用。"
+    },
+    "synonyms": [
+      "灼灼其华",
+      "国色天香"
+    ],
+    "antonyms": [
+      "相貌平平",
+      "其貌不扬"
+    ]
+  },
+  {
+    "id": "tian-lian-qian-mo",
+    "text": "田连阡陌",
+    "pinyin": "tián lián qiān mò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farming-and-harvest",
+      "luxury-and-extravagance"
+    ],
+    "literal": "fields · link · paths · paths",
+    "natural": "fields linked across all the paths",
+    "meaning": {
+      "en": "To own vast stretches of farmland, so that one's fields run from path to path.",
+      "zh": "田地一块连着一块，铺满了田间小路，形容占有的土地极多。"
+    },
+    "equivalents": [
+      "own land as far as the eye can see",
+      "vast estates"
+    ],
+    "examples": [
+      {
+        "zh": "那位地主田连阡陌，雇了上百名佃农。",
+        "en": "The landlord owned fields as far as the eye could see and employed hundreds of tenants."
+      },
+      {
+        "zh": "史书记载，当时富豪田连阡陌，农民却无立锥之地。",
+        "en": "Chronicles record that the rich owned endless fields while peasants had nowhere to stand."
+      },
+      {
+        "zh": "他家祖上曾田连阡陌，如今只剩一座老宅。",
+        "en": "His ancestors once owned vast farmland; now only an old house remains."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; written. Usually points to land concentration in the hands of the rich.",
+      "zh": "多作谓语，书面语，常指土地集中在富人手中。"
+    },
+    "synonyms": [
+      "阡陌交通",
+      "良田千顷"
+    ],
+    "antonyms": [
+      "无立足之地",
+      "寸土不有"
+    ]
+  },
+  {
+    "id": "fu-yang-wu-kui",
+    "text": "俯仰无愧",
+    "pinyin": "fǔ yǎng wú kuì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "look down · look up · no · shame",
+    "natural": "no shame whether looking up or down",
+    "meaning": {
+      "en": "To have a clear conscience before heaven and other people.",
+      "zh": "抬头低头都问心无愧，形容为人正直、坦荡。"
+    },
+    "equivalents": [
+      "have a clear conscience",
+      "hold one's head high"
+    ],
+    "examples": [
+      {
+        "zh": "我做事俯仰无愧，不怕别人调查。",
+        "en": "I have acted with a clear conscience and fear no investigation."
+      },
+      {
+        "zh": "他一生清白，俯仰无愧。",
+        "en": "He lived an honest life with nothing to be ashamed of."
+      },
+      {
+        "zh": "只要俯仰无愧，何必在意流言？",
+        "en": "As long as your conscience is clear, why care about gossip?"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often with 于天地. Based on Mencius's 仰不愧于天，俯不怍于人.",
+      "zh": "多作谓语，常说“俯仰无愧于天地”。化用孟子“仰不愧于天，俯不怍于人”。"
+    },
+    "synonyms": [
+      "不愧不怍",
+      "问心无愧"
+    ],
+    "antonyms": [
+      "愧天怍人",
+      "心中有愧"
+    ]
+  },
+  {
+    "id": "kui-tian-zuo-ren",
+    "text": "愧天怍人",
+    "pinyin": "kuì tiān zuò rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "negative-character-flaws",
+      "mistakes-and-correction"
+    ],
+    "literal": "ashamed · heaven · embarrassed · people",
+    "natural": "ashamed before heaven and people",
+    "meaning": {
+      "en": "To feel deeply ashamed of one's conduct before heaven and everyone.",
+      "zh": "对上愧对苍天，对下愧对众人，形容极其惭愧。"
+    },
+    "equivalents": [
+      "feel utterly ashamed",
+      "hang one's head in shame"
+    ],
+    "examples": [
+      {
+        "zh": "他辜负了朋友的信任，愧天怍人。",
+        "en": "He betrayed his friend's trust and was thoroughly ashamed."
+      },
+      {
+        "zh": "贪污事发后，他愧天怍人，主动自首。",
+        "en": "When his embezzlement came out, he felt deep shame and turned himself in."
+      },
+      {
+        "zh": "做了这样的错事，真让我愧天怍人。",
+        "en": "Having done such a wrong thing, I feel ashamed before everyone."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; written. The reverse of 不愧不怍 and 俯仰无愧.",
+      "zh": "多作谓语，书面语，与“不愧不怍”相反。"
+    },
+    "synonyms": [
+      "无地自容",
+      "羞愧难当"
+    ],
+    "antonyms": [
+      "不愧不怍",
+      "俯仰无愧"
+    ]
+  },
+  {
+    "id": "you-ru-shi-ming",
+    "text": "有辱使命",
+    "pinyin": "yǒu rǔ shǐ mìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "news-and-officialese"
+    ],
+    "literal": "have · disgrace · mission · charge",
+    "natural": "to disgrace one's mission",
+    "meaning": {
+      "en": "To fail to carry out an assigned task in a way worthy of the trust placed in one.",
+      "zh": "辜负了所受的委托，没有完成好交给的任务。"
+    },
+    "equivalents": [
+      "fail in one's mission",
+      "let the side down"
+    ],
+    "examples": [
+      {
+        "zh": "我们一定努力工作，决不有辱使命。",
+        "en": "We will work hard and never fail the task entrusted to us."
+      },
+      {
+        "zh": "他在谈判中一再让步，有辱使命。",
+        "en": "He kept making concessions at the talks and failed in his mission."
+      },
+      {
+        "zh": "万一有辱使命，我愿负全部责任。",
+        "en": "If I fail in my mission I will bear full responsibility."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, often seen in its negated form 不辱使命.",
+      "zh": "多作谓语，书面语，常用否定式“不辱使命”。"
+    },
+    "synonyms": [
+      "辜负重托",
+      "玷污使命"
+    ],
+    "antonyms": [
+      "不负众望",
+      "不负重托",
+      "不辱使命"
+    ]
+  },
+  {
+    "id": "yang-ming-xian-qin",
+    "text": "扬名显亲",
+    "pinyin": "yáng míng xiǎn qīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "raise · name · show · parents",
+    "natural": "make a name and honour one's parents",
+    "meaning": {
+      "en": "To win fame and bring honour to one's parents.",
+      "zh": "使自己名声远扬，也使父母显赫荣耀。"
+    },
+    "equivalents": [
+      "bring honour to one's family",
+      "make one's parents proud"
+    ],
+    "examples": [
+      {
+        "zh": "他苦读多年，只盼金榜题名，扬名显亲。",
+        "en": "He studied for years, hoping to pass the exams and bring honour to his parents."
+      },
+      {
+        "zh": "古人读书求仕，志在扬名显亲。",
+        "en": "Scholars of old pursued office to make a name and honour their parents."
+      },
+      {
+        "zh": "他以优异成绩考入名校，也算扬名显亲了。",
+        "en": "Entering a top school with outstanding results, he made his parents proud."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or purpose clause; literary. Based on the Classic of Filial Piety, which counts making one's name known as the end of filial duty.",
+      "zh": "多作谓语或目的分句，书面语。化用《孝经》“扬名于后世，以显父母，孝之终也”。"
+    },
+    "synonyms": [
+      "光宗耀祖",
+      "衣锦还乡"
+    ],
+    "antonyms": [
+      "辱没门庭",
+      "有辱家门"
+    ]
+  },
+  {
+    "id": "ying-fu-ji-wei",
+    "text": "蝇附骥尾",
+    "pinyin": "yíng fù jì wěi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "polite-humble",
+      "attitude-humble-vs-arrogant",
+      "historical-records"
+    ],
+    "literal": "fly · cling · swift horse · tail",
+    "natural": "a fly clinging to a swift horse's tail",
+    "meaning": {
+      "en": "To rise to fame or success by attaching oneself to someone great; also a humble way of describing oneself as a follower.",
+      "zh": "苍蝇附在千里马尾巴上可以远行，比喻依附名人而成名；也常作自谦之词。"
+    },
+    "equivalents": [
+      "ride on someone's coattails",
+      "bask in reflected glory"
+    ],
+    "examples": [
+      {
+        "zh": "我不过是蝇附骥尾，成绩全靠导师指点。",
+        "en": "I am merely a fly on a fine horse's tail; my results all come from my advisor's guidance."
+      },
+      {
+        "zh": "这篇论文能发表，实有蝇附骥尾之幸。",
+        "en": "It is my good fortune to be riding on a great scholar's coattails that the paper was published."
+      },
+      {
+        "zh": "他靠着大人物的关系蝇附骥尾，才有了今天。",
+        "en": "He got where he is by clinging to a powerful person."
+      }
+    ],
+    "origin": {
+      "source": "《史记·伯夷列传》",
+      "story": {
+        "en": "Sima Qian wrote that even the diligent Yan Hui 'became more famous by attaching to the tail of a swift horse' (颜渊虽笃学，附骥尾而行益显), i.e. by following Confucius; later commentators turned this into the image of a fly on the tail.",
+        "zh": "《史记·伯夷列传》：“颜渊虽笃学，附骥尾而行益显。”后人引申为“蝇附骥尾”。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    },
+    "usage": {
+      "en": "Predicate; can be neutral, self-deprecating (humble) or mildly critical of someone else. The headword form is later; the Shiji has 附骥尾.",
+      "zh": "可作谓语。用于自谦时为谦辞，用于他人则略带贬义。四字形式较晚，《史记》作“附骥尾”。"
+    },
+    "synonyms": [
+      "如蚁附膻",
+      "攀龙附凤"
+    ],
+    "antonyms": [
+      "自力更生",
+      "独树一帜"
+    ]
+  }
+]

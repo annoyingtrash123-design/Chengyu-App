@@ -1,0 +1,989 @@
+[
+  {
+    "id": "yi-pian-lang-ji",
+    "text": "一片狼藉",
+    "pinyin": "yī piàn láng jí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos"
+    ],
+    "literal": "one · patch · wolf · scattered",
+    "natural": "scattered like a wolf's bedding",
+    "meaning": {
+      "en": "In a total mess, with things strewn about everywhere.",
+      "zh": "乱七八糟，东西散落一地，不成样子。"
+    },
+    "equivalents": [
+      "a complete shambles",
+      "in total disarray"
+    ],
+    "examples": [
+      {
+        "zh": "聚会结束后，客厅里一片狼藉。",
+        "en": "After the party the living room was in utter disarray."
+      },
+      {
+        "zh": "台风过后，海边的小镇一片狼藉。",
+        "en": "After the typhoon the seaside town lay in ruins."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement, e.g. 弄得一片狼藉. 藉 is read jí here.",
+      "zh": "作谓语、补语，如“弄得一片狼藉”。“藉”这里读jí。"
+    },
+    "synonyms": [
+      "杯盘狼藉",
+      "满目疮痍"
+    ],
+    "antonyms": [
+      "井然有序",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "shi-hang-ju-xia",
+    "text": "十行俱下",
+    "pinyin": "shí háng jù xià",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "efficiency"
+    ],
+    "literal": "ten · lines · together · down",
+    "natural": "ten lines at once",
+    "meaning": {
+      "en": "To read extremely fast, taking in ten lines at a glance.",
+      "zh": "一眼同时看十行，形容读书速度极快。"
+    },
+    "equivalents": [
+      "speed-read",
+      "devour a page at a glance"
+    ],
+    "examples": [
+      {
+        "zh": "他读书十行俱下，一本小说半天就看完了。",
+        "en": "He reads at lightning speed and finished a novel in half a day."
+      },
+      {
+        "zh": "老教授阅卷十行俱下，却一个错字都不放过。",
+        "en": "The old professor skims papers ten lines at a time yet misses no typo."
+      }
+    ],
+    "origin": {
+      "source": "《梁书·简文帝纪》",
+      "story": {
+        "en": "The History of Liang says that Emperor Jianwen (Xiao Gang) read quickly, taking in ten lines at a time.",
+        "zh": "《梁书·简文帝纪》称萧纲“读书十行俱下”。"
+      },
+      "date": {
+        "zh": "唐 · 636年",
+        "en": "Tang dynasty, 636"
+      }
+    },
+    "usage": {
+      "en": "Praises quick reading; 行 is read háng. Close to 一目十行, which can also hint at skimming.",
+      "zh": "夸人读书快，“行”读háng。与“一目十行”相近，后者有时带走马观花的意味。"
+    },
+    "synonyms": [
+      "一目十行",
+      "过目成诵"
+    ],
+    "antonyms": [
+      "逐字逐句",
+      "字斟句酌"
+    ]
+  },
+  {
+    "id": "an-tong-kuan-qu",
+    "text": "暗通款曲",
+    "pinyin": "àn tōng kuǎn qū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "deception-and-false-appearances"
+    ],
+    "literal": "secretly · pass on · sincere feelings · tune",
+    "natural": "secretly passing on heartfelt messages",
+    "meaning": {
+      "en": "To communicate privately and secretly, often to flirt or to collude.",
+      "zh": "私下里暗中传递情意或互相勾结。"
+    },
+    "equivalents": [
+      "exchange secret signals",
+      "be in cahoots"
+    ],
+    "examples": [
+      {
+        "zh": "两人暗通款曲，多年后同事才察觉。",
+        "en": "The two had been secretly in touch for years before colleagues noticed."
+      },
+      {
+        "zh": "他被指与对手公司暗通款曲，泄露了报价。",
+        "en": "He was accused of colluding secretly with a rival firm and leaking the quotation."
+      }
+    ],
+    "usage": {
+      "en": "Could mean secret romance or underhand collusion; context decides. 曲 is read qū here (款曲 kuǎn qū, 'heartfelt feelings').",
+      "zh": "可指暗中传情，也可指暗中勾结，视语境而定。“款曲”读kuǎn qū，意思是衷情。"
+    },
+    "synonyms": [
+      "暗送秋波",
+      "眉来眼去"
+    ],
+    "antonyms": [
+      "开诚布公",
+      "光明正大"
+    ]
+  },
+  {
+    "id": "yin-he-dao-xie",
+    "text": "银河倒泻",
+    "pinyin": "yín hé dào xiè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "harsh-natural-conditions"
+    ],
+    "literal": "Silver · River · upside down · pour",
+    "natural": "the Milky Way pouring down",
+    "meaning": {
+      "en": "Describes a waterfall, a torrent of rain, or a flood of eloquence, as if the Milky Way were pouring down.",
+      "zh": "像银河倒下来一样，形容瀑布、大雨倾泻，或文思、口才滔滔不绝。"
+    },
+    "equivalents": [
+      "a torrent pouring down",
+      "cascade like the Milky Way"
+    ],
+    "examples": [
+      {
+        "zh": "山间瀑布银河倒泻，轰鸣震耳。",
+        "en": "The mountain waterfall pours down like the Milky Way, thundering."
+      },
+      {
+        "zh": "大雨如银河倒泻，一夜未停。",
+        "en": "The rain came down in torrents all night."
+      }
+    ],
+    "usage": {
+      "en": "A vivid literary image; predicate or in similes.",
+      "zh": "形象的书面语，作谓语或用于比喻。"
+    },
+    "synonyms": [
+      "飞珠溅玉",
+      "倾盆大雨"
+    ],
+    "antonyms": [
+      "细雨如丝",
+      "涓涓细流"
+    ]
+  },
+  {
+    "id": "se-bu-yi-kong",
+    "text": "色不异空",
+    "pinyin": "sè bù yì kōng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "buddhist-origin",
+      "mental-clarity"
+    ],
+    "literal": "form · not · differ from · emptiness",
+    "natural": "form is no different from emptiness",
+    "meaning": {
+      "en": "A Buddhist teaching: material things are not other than emptiness, for all appearances arise from causes and have no fixed self.",
+      "zh": "佛教语：世间万物（色）与空并无不同，一切现象因缘而生，没有永恒不变的自性。"
+    },
+    "equivalents": [
+      "form is emptiness",
+      "nothing is permanent"
+    ],
+    "examples": [
+      {
+        "zh": "“色不异空，空不异色”，他从这句话里悟出了放下执念的道理。",
+        "en": "From 'form is no different from emptiness, emptiness no different from form' he learned to let go of attachment."
+      },
+      {
+        "zh": "大师讲经时提到色不异空，听众若有所思。",
+        "en": "When the master mentioned that form is no different from emptiness, the listeners were thoughtful."
+      }
+    ],
+    "origin": {
+      "source": "《般若波罗蜜多心经》",
+      "story": {
+        "en": "The Heart Sutra, in Xuanzang's Chinese translation, states that form is no different from emptiness and emptiness no different from form.",
+        "zh": "玄奘译《般若波罗蜜多心经》：“色不异空，空不异色，色即是空，空即是色。”"
+      },
+      "date": {
+        "zh": "唐 · 649年（玄奘译）",
+        "en": "Tang dynasty, 649 (Xuanzang translation)"
+      }
+    },
+    "usage": {
+      "en": "A line from the Heart Sutra; usually quoted with 空不异色，色即是空，空即是色. Religious or philosophical contexts.",
+      "zh": "出自《心经》，常与“空不异色，色即是空，空即是色”连用，多用于宗教或哲理语境。"
+    },
+    "synonyms": [
+      "空即是色",
+      "缘起性空"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "着相"
+    ]
+  },
+  {
+    "id": "yi-ye-yi-pu-ti",
+    "text": "一叶一菩提",
+    "pinyin": "yī yè yī pú tí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "mental-clarity",
+      "plant-and-natural-world"
+    ],
+    "literal": "one · leaf · one · bodhi",
+    "natural": "one leaf, one awakening",
+    "meaning": {
+      "en": "Awakening can be found in the smallest thing: a single leaf contains the truth.",
+      "zh": "一片叶子里也有觉悟，比喻从极小的事物中也能领悟大道理。"
+    },
+    "equivalents": [
+      "see a world in a grain of sand",
+      "wisdom in the smallest things"
+    ],
+    "examples": [
+      {
+        "zh": "禅意的小院里，一叶一菩提，处处是风景。",
+        "en": "In the Zen courtyard, a leaf holds the whole truth and every corner is a view."
+      },
+      {
+        "zh": "他说一叶一菩提，从落叶里读出了人生的道理。",
+        "en": "He said one leaf contains awakening, and read life's lessons in fallen leaves."
+      }
+    ],
+    "usage": {
+      "en": "Usually quoted after 一花一世界. A popular Buddhist-flavoured saying; its exact source is unclear.",
+      "zh": "常接在“一花一世界”之后。带佛家意味的流行语，确切出处不详。"
+    },
+    "synonyms": [
+      "一花一世界",
+      "见微知著"
+    ],
+    "antonyms": [
+      "视而不见",
+      "走马观花"
+    ]
+  },
+  {
+    "id": "liu-zhi-hu-ye",
+    "text": "溜之乎也",
+    "pinyin": "liū zhī hū yě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "fear-and-cowardice"
+    ],
+    "literal": "slip away · particle · particle · particle",
+    "natural": "slip away, as the classics would put it",
+    "meaning": {
+      "en": "A jocular way to say someone slipped away quietly.",
+      "zh": "开玩笑地说偷偷走掉、一溜烟跑了。"
+    },
+    "equivalents": [
+      "make oneself scarce",
+      "do a bunk"
+    ],
+    "examples": [
+      {
+        "zh": "一听说要开会，他就溜之乎也。",
+        "en": "As soon as he heard there was a meeting, he made himself scarce."
+      },
+      {
+        "zh": "老板一转身，几个人便溜之乎也。",
+        "en": "The moment the boss turned round, a few of them slipped away."
+      }
+    ],
+    "usage": {
+      "en": "Playful: the 之乎也 mimics classical sentence particles. Casual and humorous; synonyms 溜之大吉.",
+      "zh": "诙谐，“之乎也”模仿文言虚词，口语，与“溜之大吉”同义。"
+    },
+    "synonyms": [
+      "溜之大吉",
+      "逃之夭夭"
+    ],
+    "antonyms": [
+      "坚守岗位",
+      "挺身而出"
+    ]
+  },
+  {
+    "id": "zi-yu-yang-er-qin-bu-dai",
+    "text": "子欲养而亲不待",
+    "pinyin": "zǐ yù yǎng ér qīn bù dài",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "sadness-and-despair"
+    ],
+    "literal": "child · wants · to support · but · parents · not · wait",
+    "natural": "the child wishes to provide, but the parents will not wait",
+    "meaning": {
+      "en": "By the time children are ready to look after their parents, the parents are gone; a regret over missed chances to show filial piety.",
+      "zh": "子女想孝养父母时，父母已经去世，感叹尽孝要趁早。"
+    },
+    "equivalents": [
+      "too late to repay one's parents",
+      "regret that comes too late"
+    ],
+    "examples": [
+      {
+        "zh": "子欲养而亲不待，趁父母健在，多回家看看吧。",
+        "en": "The child wants to provide but the parents will not wait; go home often while your parents are alive."
+      },
+      {
+        "zh": "他在父亲墓前痛哭，悔恨子欲养而亲不待。",
+        "en": "He wept at his father's grave, lamenting that his parents had not waited for him to repay them."
+      }
+    ],
+    "origin": {
+      "source": "西汉·韩婴《韩诗外传》",
+      "story": {
+        "en": "In the Han Shi Wai Zhuan, the man Gao Yu weeps because his parents died before he could serve them: 'The tree wishes to be still but the wind will not stop; the child wishes to provide but the parents do not wait.'",
+        "zh": "《韩诗外传》卷九载皋鱼之言：“树欲静而风不止，子欲养而亲不待也。”"
+      },
+      "date": {
+        "zh": "西汉 · 前2世纪",
+        "en": "Western Han, 2nd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted after 树欲静而风不止. Advises acting on filial duty without delay.",
+      "zh": "常接在“树欲静而风不止”之后，劝人及时尽孝。"
+    },
+    "synonyms": [
+      "树欲静而风不止",
+      "风树之悲"
+    ],
+    "antonyms": [
+      "承欢膝下",
+      "及时尽孝"
+    ]
+  },
+  {
+    "id": "po-cai-xiao-zai",
+    "text": "破财消灾",
+    "pinyin": "pò cái xiāo zāi",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "bad-fortune",
+      "adaptability"
+    ],
+    "literal": "lose · wealth · dispel · calamity",
+    "natural": "lose some money, dispel the disaster",
+    "meaning": {
+      "en": "Losing some money is taken as warding off worse misfortune; a consolation after a loss.",
+      "zh": "损失一些钱财，就算消除了灾祸，用来安慰遭受损失的人。"
+    },
+    "equivalents": [
+      "better to lose a little than a lot",
+      "count it as a lucky escape"
+    ],
+    "examples": [
+      {
+        "zh": "手机丢了，就当破财消灾吧，人没事就好。",
+        "en": "The phone's gone; call it paying off bad luck. At least you're fine."
+      },
+      {
+        "zh": "车被刮了修车花了几千，他自我安慰说破财消灾。",
+        "en": "Repairing the scratched car cost a few thousand and he consoled himself that it was a lucky escape."
+      }
+    ],
+    "usage": {
+      "en": "A self-consoling saying; with 就当…. Can also describe paying someone off, which is more negative.",
+      "zh": "多用于自我安慰，常说“就当破财消灾”。有时也指花钱摆平事情，贬义较重。"
+    },
+    "synonyms": [
+      "舍财保命",
+      "塞翁失马"
+    ],
+    "antonyms": [
+      "招财进宝",
+      "财源广进"
+    ]
+  },
+  {
+    "id": "yi-pai-hu-yan",
+    "text": "一派胡言",
+    "pinyin": "yī pài hú yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "verbosity"
+    ],
+    "literal": "one · stream · reckless · speech",
+    "natural": "one stream of nonsense",
+    "meaning": {
+      "en": "Utter nonsense; talk that has no basis in fact.",
+      "zh": "全是毫无根据的胡话。"
+    },
+    "equivalents": [
+      "a pack of lies",
+      "complete nonsense"
+    ],
+    "examples": [
+      {
+        "zh": "他说自己是亿万富翁，纯属一派胡言。",
+        "en": "His claim to be a billionaire is complete nonsense."
+      },
+      {
+        "zh": "这篇报道一派胡言，完全不顾事实。",
+        "en": "This report is a load of rubbish and ignores the facts."
+      }
+    ],
+    "usage": {
+      "en": "A strong rebuke; predicate or attributive. 派 here means 'a stream' or 'a kind'.",
+      "zh": "语气较重的斥责，作谓语、定语。"
+    },
+    "synonyms": [
+      "胡说八道",
+      "信口雌黄"
+    ],
+    "antonyms": [
+      "金玉良言",
+      "真知灼见"
+    ]
+  },
+  {
+    "id": "du-guo-hai-min",
+    "text": "蠹国害民",
+    "pinyin": "dù guó hài mín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "gnaw · country · harm · people",
+    "natural": "gnawing the country and harming the people",
+    "meaning": {
+      "en": "To damage the nation and its people, like a worm eating wood, typically by corruption.",
+      "zh": "像蛀虫一样损害国家和人民，多指贪污腐败的行为。"
+    },
+    "equivalents": [
+      "bleed the country dry",
+      "prey on the public"
+    ],
+    "examples": [
+      {
+        "zh": "历史上蠹国害民的奸臣，最终都没有好下场。",
+        "en": "Treacherous officials who ate away at the state and its people have always come to a bad end."
+      },
+      {
+        "zh": "严惩蠹国害民的贪官，才能赢得民心。",
+        "en": "Only by punishing corrupt officials who prey on the nation can we win the people's trust."
+      }
+    ],
+    "usage": {
+      "en": "Describes corrupt officials; 蠹 is read dù. Formal.",
+      "zh": "指贪官污吏，“蠹”读dù，较庄重。"
+    },
+    "synonyms": [
+      "贪官污吏",
+      "祸国殃民"
+    ],
+    "antonyms": [
+      "利国利民",
+      "造福百姓"
+    ]
+  },
+  {
+    "id": "wang-nu-cheng-feng",
+    "text": "望女成凤",
+    "pinyin": "wàng nǚ chéng fèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "high-aspirations"
+    ],
+    "literal": "hope · daughter · become · phoenix",
+    "natural": "hope one's daughter becomes a phoenix",
+    "meaning": {
+      "en": "Parents' hope that their daughter will achieve great things.",
+      "zh": "希望女儿有出息，成为杰出的人才。"
+    },
+    "equivalents": [
+      "want one's daughter to go far",
+      "high hopes for one's daughter"
+    ],
+    "examples": [
+      {
+        "zh": "她望女成凤，从小就送女儿学钢琴、学外语。",
+        "en": "She wanted her daughter to go far, so she sent her to piano and language lessons from an early age."
+      },
+      {
+        "zh": "父母望女成凤的心情可以理解，但别给孩子太大压力。",
+        "en": "Parents' wish for their daughter to succeed is understandable, but don't pile on pressure."
+      }
+    ],
+    "usage": {
+      "en": "Counterpart of 望子成龙. Neutral, sometimes hints at excessive pressure.",
+      "zh": "与“望子成龙”相对，中性，有时暗含给孩子压力过大。"
+    },
+    "synonyms": [
+      "望子成龙",
+      "寄予厚望"
+    ],
+    "antonyms": [
+      "听之任之",
+      "放任自流"
+    ]
+  },
+  {
+    "id": "kan-ren-lian-se",
+    "text": "看人脸色",
+    "pinyin": "kàn rén liǎn sè",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "conformity-and-imitation"
+    ],
+    "literal": "look at · person · face · colour",
+    "natural": "watch other people's faces",
+    "meaning": {
+      "en": "To adjust one's behaviour to someone's mood or attitude, often out of dependence or timidity.",
+      "zh": "根据别人的脸色和态度行事，多因依赖或胆怯。"
+    },
+    "equivalents": [
+      "be at someone's beck and call",
+      "walk on eggshells"
+    ],
+    "examples": [
+      {
+        "zh": "我不想再看人脸色过日子了。",
+        "en": "I don't want to live at other people's mercy any more."
+      },
+      {
+        "zh": "在公司他从不看别人脸色，有话直说。",
+        "en": "At work he never worries about other people's moods and speaks his mind."
+      }
+    ],
+    "usage": {
+      "en": "Separable, e.g. 看别人的脸色. Usually in negation or complaint.",
+      "zh": "可拆开用，如“看别人的脸色”。多用于否定或抱怨。"
+    },
+    "synonyms": [
+      "察言观色",
+      "仰人鼻息"
+    ],
+    "antonyms": [
+      "我行我素",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "shi-feng-ri-shang",
+    "text": "世风日上",
+    "pinyin": "shì fēng rì shàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "society"
+    ],
+    "literal": "world · customs · day by day · rise",
+    "natural": "social customs improve day by day",
+    "meaning": {
+      "en": "Public morals improving all the time.",
+      "zh": "社会风气一天天变好。"
+    },
+    "equivalents": [
+      "morals on the rise",
+      "a society getting better"
+    ],
+    "examples": [
+      {
+        "zh": "在大家的努力下，社区世风日上，邻里和睦。",
+        "en": "Through everyone's efforts the community's ethos has improved and neighbours get along."
+      },
+      {
+        "zh": "他感叹，如今世风日上，路不拾遗的现象多了起来。",
+        "en": "He remarked that morals are on the rise and honest behaviour like returning lost property is more common."
+      }
+    ],
+    "usage": {
+      "en": "The positive counterpart of 世风日下; rarer, often used ironically in the negative. Formal.",
+      "zh": "与“世风日下”相对，使用较少，书面语。"
+    },
+    "synonyms": [
+      "蒸蒸日上",
+      "民风淳朴"
+    ],
+    "antonyms": [
+      "江河日下",
+      "人心不古",
+      "世风日下"
+    ]
+  },
+  {
+    "id": "fu-da-ming-da",
+    "text": "福大命大",
+    "pinyin": "fú dà mìng dà",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "miraculous-occurrences",
+      "danger"
+    ],
+    "literal": "fortune · big · life · big",
+    "natural": "great fortune, great life",
+    "meaning": {
+      "en": "Said of someone who narrowly escapes danger; lucky and tough enough to survive.",
+      "zh": "形容人福气大、生命力强，经历危险后安然无恙。"
+    },
+    "equivalents": [
+      "born lucky",
+      "have nine lives"
+    ],
+    "examples": [
+      {
+        "zh": "车都撞成那样了，他居然只受了轻伤，真是福大命大。",
+        "en": "The car was wrecked, yet he only had minor injuries; he is a lucky man."
+      },
+      {
+        "zh": "这孩子福大命大，从五楼摔下来被树枝挂住了。",
+        "en": "The child is lucky to be alive, caught by a tree after falling from the fifth floor."
+      }
+    ],
+    "usage": {
+      "en": "Often as a comment on escaping danger; with 真是. Casual.",
+      "zh": "常评论化险为夷，多说“真是福大命大”，口语。"
+    },
+    "synonyms": [
+      "吉人天相",
+      "大难不死"
+    ],
+    "antonyms": [
+      "命薄福浅",
+      "祸不单行"
+    ]
+  },
+  {
+    "id": "ming-zhu-meng-chen",
+    "text": "明珠蒙尘",
+    "pinyin": "míng zhū méng chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "bright · pearl · covered with · dust",
+    "natural": "a bright pearl covered in dust",
+    "meaning": {
+      "en": "Talent that goes unrecognised or unused; a gifted person who is overlooked.",
+      "zh": "明亮的珍珠被灰尘盖住，比喻有才能的人被埋没，得不到重用。"
+    },
+    "equivalents": [
+      "a diamond in the rough",
+      "hide one's light under a bushel"
+    ],
+    "examples": [
+      {
+        "zh": "这位工程师多年不得重用，真是明珠蒙尘。",
+        "en": "This engineer was passed over for years: a pearl hidden under dust."
+      },
+      {
+        "zh": "别让有天赋的孩子明珠蒙尘，要给他们机会。",
+        "en": "Don't let gifted children go unnoticed; give them opportunities."
+      }
+    ],
+    "usage": {
+      "en": "Expresses regret about wasted talent. Literary; predicate.",
+      "zh": "为人才被埋没而惋惜，书面语，作谓语。"
+    },
+    "synonyms": [
+      "明珠暗投",
+      "怀才不遇"
+    ],
+    "antonyms": [
+      "脱颖而出",
+      "崭露头角"
+    ]
+  },
+  {
+    "id": "xiao-quan-ma-zhi-li",
+    "text": "效犬马之力",
+    "pinyin": "xiào quǎn mǎ zhī lì",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "polite-humble"
+    ],
+    "literal": "offer · dog · horse · 's · strength",
+    "natural": "offer the strength of a dog or horse",
+    "meaning": {
+      "en": "To offer one's services faithfully, with humility, to someone one respects.",
+      "zh": "谦称愿像犬马一样为人出力，表示诚心效劳。"
+    },
+    "equivalents": [
+      "be at your service",
+      "do one's humble best for"
+    ],
+    "examples": [
+      {
+        "zh": "只要公司需要，我愿效犬马之力。",
+        "en": "Whenever the company needs me, I'm ready to put my shoulder to the wheel."
+      },
+      {
+        "zh": "能为国家效犬马之力，是我的荣幸。",
+        "en": "It is my honour to offer my humble services to my country."
+      }
+    ],
+    "usage": {
+      "en": "Self-deprecating; used about oneself towards a superior or cause. Formal or ceremonial.",
+      "zh": "自谦之词，用于自己对尊长或事业，较正式。"
+    },
+    "synonyms": [
+      "犬马之劳",
+      "尽绵薄之力"
+    ],
+    "antonyms": [
+      "袖手旁观",
+      "置身事外"
+    ]
+  },
+  {
+    "id": "nan-ci-qi-jiu",
+    "text": "难辞其咎",
+    "pinyin": "nán cí qí jiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction"
+    ],
+    "literal": "hard · decline · its · blame",
+    "natural": "hard to shed the blame",
+    "meaning": {
+      "en": "Unable to escape responsibility for a mistake or a bad outcome.",
+      "zh": "难以推卸应负的责任。"
+    },
+    "equivalents": [
+      "can't escape blame",
+      "bear the blame"
+    ],
+    "examples": [
+      {
+        "zh": "项目失败，作为负责人，他难辞其咎。",
+        "en": "As the person in charge, he can't escape blame for the project's failure."
+      },
+      {
+        "zh": "监管部门对这起事故难辞其咎。",
+        "en": "The regulators cannot escape blame for this accident."
+      }
+    ],
+    "usage": {
+      "en": "Common in news and official writing; the subject is the person at fault.",
+      "zh": "新闻、公文中常见，主语是应负责的人。"
+    },
+    "synonyms": [
+      "罪责难逃",
+      "责无旁贷"
+    ],
+    "antonyms": [
+      "无可厚非",
+      "功不可没"
+    ]
+  },
+  {
+    "id": "zui-wu-ke-huan",
+    "text": "罪无可逭",
+    "pinyin": "zuì wú kě huàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "revenge-and-retribution"
+    ],
+    "literal": "guilt · no · can · escape",
+    "natural": "a crime that cannot be escaped",
+    "meaning": {
+      "en": "A crime so serious that the offender cannot evade punishment.",
+      "zh": "罪行严重，无法逃避惩罚。"
+    },
+    "equivalents": [
+      "beyond redemption",
+      "bound to answer for the crime"
+    ],
+    "examples": [
+      {
+        "zh": "此人作恶多端，罪无可逭。",
+        "en": "This man did great evil and cannot escape justice."
+      },
+      {
+        "zh": "法官宣布被告罪无可逭，判处重刑。",
+        "en": "The judge declared that the defendant's crime was inexcusable and imposed a heavy sentence."
+      }
+    ],
+    "usage": {
+      "en": "Literary and rare; 逭 is read huàn (to evade).",
+      "zh": "书面语，较少见，“逭”读huàn，意思是逃避。"
+    },
+    "synonyms": [
+      "罪责难逃",
+      "罪该万死"
+    ],
+    "antonyms": [
+      "无罪释放",
+      "罪不至此"
+    ]
+  },
+  {
+    "id": "xiao-qiang-zhi-huo",
+    "text": "萧墙之祸",
+    "pinyin": "xiāo qiáng zhī huò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conflict-and-strife",
+      "political-corruption",
+      "confucian-classics"
+    ],
+    "literal": "screen · wall · 's · disaster",
+    "natural": "disaster within the screen wall",
+    "meaning": {
+      "en": "Trouble that arises from within a family, group or regime rather than from outside.",
+      "zh": "祸患起于内部，多指统治集团或家族内部的争斗。"
+    },
+    "equivalents": [
+      "trouble from within",
+      "a house divided"
+    ],
+    "examples": [
+      {
+        "zh": "王朝最终亡于萧墙之祸，而不是外敌。",
+        "en": "The dynasty fell to internal strife, not to enemies."
+      },
+      {
+        "zh": "企业最怕萧墙之祸，内部不和比外部竞争更致命。",
+        "en": "Firms fear trouble from within most; internal discord is deadlier than outside competition."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius said he feared that the trouble facing the Ji family lay not in Zhuanyu but within the screen wall (萧墙之内).",
+        "zh": "《论语·季氏》：“吾恐季孙之忧，不在颛臾，而在萧墙之内也。”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "The 萧墙 is the screen wall just inside a palace gate, hence 'inside'. Literary.",
+      "zh": "“萧墙”指宫门内的屏风墙，借指内部。书面语。"
+    },
+    "synonyms": [
+      "肘腋之患",
+      "祸起萧墙"
+    ],
+    "antonyms": [
+      "外患",
+      "同舟共济"
+    ]
+  },
+  {
+    "id": "yuan-shui-bu-jie-jin-ke",
+    "text": "远水不解近渴",
+    "pinyin": "yuǎn shuǐ bù jiě jìn kě",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "adaptability"
+    ],
+    "literal": "distant · water · not · quench · near · thirst",
+    "natural": "far-off water won't quench present thirst",
+    "meaning": {
+      "en": "Help that comes from far away cannot meet an urgent need.",
+      "zh": "远处的水解不了眼前的渴，比喻缓慢的救援满足不了急需。"
+    },
+    "equivalents": [
+      "too little, too late",
+      "a day late and a dollar short"
+    ],
+    "examples": [
+      {
+        "zh": "等救援队从外省赶来，远水不解近渴，先找邻居帮忙吧。",
+        "en": "By the time rescuers arrive from another province it will be too late; ask the neighbours first."
+      },
+      {
+        "zh": "贷款要三个月，远水不解近渴，工厂等不起。",
+        "en": "The loan takes three months; it's too far off to help, and the factory can't wait."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 缓不济急. Also 远水解不了近渴. Casual.",
+      "zh": "常与“缓不济急”连用，也说“远水解不了近渴”，口语。"
+    },
+    "synonyms": [
+      "缓不济急",
+      "枯鱼之肆"
+    ],
+    "antonyms": [
+      "雪中送炭",
+      "及时雨"
+    ]
+  }
+]

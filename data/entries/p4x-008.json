@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "ku-mu-xiu-zhu",
+    "text": "枯木朽株",
+    "pinyin": "kū mù xiǔ zhū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "broken-or-useless-items"
+    ],
+    "literal": "withered · wood · rotten · stump",
+    "natural": "dead wood and rotten stumps",
+    "meaning": {
+      "en": "Withered trees and rotten stumps; figuratively, worthless things or people past their usefulness.",
+      "zh": "枯死的树木和腐烂的树桩，比喻衰老无用的人或物。"
+    },
+    "equivalents": [
+      "dead wood",
+      "past its prime"
+    ],
+    "examples": [
+      {
+        "zh": "园子里满是枯木朽株，需要彻底清理。",
+        "en": "The garden is full of dead wood and needs a thorough clearing."
+      },
+      {
+        "zh": "别把老同事看成枯木朽株，他们的经验最宝贵。",
+        "en": "Don't treat old colleagues as dead wood; their experience is the most valuable."
+      }
+    ],
+    "usage": {
+      "en": "Can be literal or used disparagingly of the old or obsolete; take care when applied to people.",
+      "zh": "可指实物，也可贬称衰老或过时的人事，用于人时需谨慎。"
+    },
+    "synonyms": [
+      "朽木粪土",
+      "衰朽残年"
+    ],
+    "antonyms": [
+      "根深叶茂",
+      "枝繁叶茂"
+    ]
+  },
+  {
+    "id": "yi-huo-jiang-dong",
+    "text": "移祸江东",
+    "pinyin": "yí huò jiāng dōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "inappropriate-behavior",
+      "deception-and-false-appearances"
+    ],
+    "literal": "shift · disaster · Jiangdong",
+    "natural": "shift the disaster onto Jiangdong",
+    "meaning": {
+      "en": "To shift one's own trouble or blame onto someone else.",
+      "zh": "把自己的灾祸转嫁给别人。"
+    },
+    "equivalents": [
+      "pass the buck",
+      "shift the blame to another"
+    ],
+    "examples": [
+      {
+        "zh": "他想把责任推给别人，移祸江东。",
+        "en": "He tried to pin the responsibility on someone else, shifting the trouble onto another."
+      },
+      {
+        "zh": "公司出了事，经理试图移祸江东，让下属背锅。",
+        "en": "When the company hit trouble the manager tried to pass it on and make his staff carry the blame."
+      }
+    ],
+    "usage": {
+      "en": "Literary and critical; Jiangdong stands for the Wu territory in the Three Kingdoms story, now generally for 'another party'.",
+      "zh": "书面语，含贬义；“江东”原指三国时的东吴，今泛指他方。"
+    },
+    "synonyms": [
+      "嫁祸于人"
+    ],
+    "antonyms": [
+      "引咎自责",
+      "自食其果"
+    ]
+  },
+  {
+    "id": "gong-ren-bu-hui",
+    "text": "供认不讳",
+    "pinyin": "gòng rèn bù huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "frankness-and-candour",
+      "news-and-officialese"
+    ],
+    "literal": "confess · admit · not · conceal",
+    "natural": "admit without concealment",
+    "meaning": {
+      "en": "To confess fully and hold nothing back (of a suspect).",
+      "zh": "毫不隐瞒地承认罪行。"
+    },
+    "equivalents": [
+      "confess in full",
+      "make a full confession"
+    ],
+    "examples": [
+      {
+        "zh": "嫌疑人对犯罪事实供认不讳。",
+        "en": "The suspect confessed to the crime in full."
+      },
+      {
+        "zh": "面对证据，他只好供认不讳。",
+        "en": "Faced with the evidence he had no choice but to confess everything."
+      }
+    ],
+    "usage": {
+      "en": "Legal and news register; used of wrongdoing, not good deeds.",
+      "zh": "多用于法律、新闻，指承认罪行。"
+    },
+    "synonyms": [
+      "和盘托出",
+      "坦白从宽"
+    ],
+    "antonyms": [
+      "矢口否认",
+      "抵赖狡辩"
+    ]
+  },
+  {
+    "id": "zhi-guo-bi-gai",
+    "text": "知过必改",
+    "pinyin": "zhī guò bì gǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "mistakes-and-correction",
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "know · fault · must · correct",
+    "natural": "when you know your fault, correct it",
+    "meaning": {
+      "en": "To correct a mistake as soon as one realises it.",
+      "zh": "知道自己有过错，一定要改正。"
+    },
+    "equivalents": [
+      "mend one's ways at once",
+      "admit and fix one's errors"
+    ],
+    "examples": [
+      {
+        "zh": "知过必改，善莫大焉。",
+        "en": "To mend one's error on seeing it is a great virtue."
+      },
+      {
+        "zh": "他是个知过必改的人，批评过一次就不再犯。",
+        "en": "He corrects himself once he sees a fault and doesn't repeat it after a single criticism."
+      }
+    ],
+    "origin": {
+      "source": "《千字文》",
+      "story": {
+        "en": "The Thousand Character Classic advises: 'Know your faults and be sure to correct them; keep what you are able to do and never forget it' (知过必改，得能莫忘).",
+        "zh": "《千字文》：“知过必改，得能莫忘。”"
+      },
+      "date": {
+        "zh": "南朝梁 · 约6世纪初",
+        "en": "Liang dynasty (Southern), early 6th c."
+      }
+    },
+    "usage": {
+      "en": "Positive; often paired with 得能莫忘 in the Thousand Character Classic, or used as a motto.",
+      "zh": "褒义，《千字文》中与“得能莫忘”相连，也常作格言。"
+    },
+    "synonyms": [
+      "闻过则喜",
+      "有错必改"
+    ],
+    "antonyms": [
+      "过而不改，是谓过矣",
+      "执迷不悟"
+    ]
+  },
+  {
+    "id": "xi-jie-jue-ding-cheng-bai",
+    "text": "细节决定成败",
+    "pinyin": "xì jié jué dìng chéng bài",
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "modern",
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "modern-applications-of-classical-ideas",
+      "success",
+      "essay-favourites"
+    ],
+    "literal": "details · decide · success · failure",
+    "natural": "details decide success or failure",
+    "meaning": {
+      "en": "Small details determine whether a project succeeds or fails.",
+      "zh": "小处是否做好，决定整件事情的成败。"
+    },
+    "equivalents": [
+      "the devil is in the details",
+      "God is in the details"
+    ],
+    "examples": [
+      {
+        "zh": "细节决定成败，这次失败就败在一个小数点上。",
+        "en": "Details decide success or failure, and this failure came down to a decimal point."
+      },
+      {
+        "zh": "设计师常说细节决定成败。",
+        "en": "Designers often say details make or break a work."
+      }
+    ],
+    "usage": {
+      "en": "A modern business and management slogan, now common in workplaces and school essays.",
+      "zh": "现代常用的管理、职场口号，也见于作文。"
+    },
+    "synonyms": [
+      "天下大事，必作于细"
+    ],
+    "antonyms": [
+      "粗枝大叶",
+      "马虎大意"
+    ]
+  },
+  {
+    "id": "zhi-shi-jiu-shi-li-liang",
+    "text": "知识就是力量",
+    "pinyin": "zhī shi jiù shì lì liàng",
+    "kind": "mingju",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "famous-quotes",
+      "learning"
+    ],
+    "literal": "knowledge · is · power",
+    "natural": "knowledge is power",
+    "meaning": {
+      "en": "Knowledge gives people the strength to change themselves and the world.",
+      "zh": "掌握知识就拥有了改变世界的力量。"
+    },
+    "equivalents": [
+      "knowledge is power"
+    ],
+    "examples": [
+      {
+        "zh": "老师在黑板上写下“知识就是力量”。",
+        "en": "The teacher wrote 'Knowledge is power' on the blackboard."
+      },
+      {
+        "zh": "知识就是力量，所以我们要坚持读书。",
+        "en": "Knowledge is power, so we must keep reading."
+      }
+    ],
+    "origin": {
+      "source": "英国·培根《神圣沉思录》",
+      "story": {
+        "en": "Francis Bacon wrote in Latin 'ipsa scientia potestas est' (knowledge itself is power) in his Meditationes Sacrae.",
+        "zh": "培根在《神圣沉思录》中写下拉丁文“ipsa scientia potestas est”（知识本身就是力量）。"
+      },
+      "date": {
+        "zh": "英格兰 · 1597年",
+        "en": "England, 1597"
+      }
+    },
+    "usage": {
+      "en": "A translated saying attributed to Francis Bacon, widely used in schools and public slogans.",
+      "zh": "译自培根的名言，在学校和公共宣传中广泛使用。"
+    },
+    "synonyms": [
+      "读书破万卷，下笔如有神"
+    ],
+    "antonyms": [
+      "知识越多越反动",
+      "不学无术"
+    ]
+  },
+  {
+    "id": "yin-jun-ru-weng",
+    "text": "引君入瓮",
+    "pinyin": "yǐn jūn rù wèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "military-strategy-and-victory"
+    ],
+    "literal": "lure · you · into · jar",
+    "natural": "lure you into the jar",
+    "meaning": {
+      "en": "To lure someone into a trap.",
+      "zh": "设下圈套，诱使对方陷入其中。"
+    },
+    "equivalents": [
+      "lure into a trap",
+      "bait the trap"
+    ],
+    "examples": [
+      {
+        "zh": "对方故意示弱，是想引君入瓮。",
+        "en": "The other side feigned weakness on purpose to lure us into a trap."
+      },
+      {
+        "zh": "警方放出假消息，引君入瓮，抓获了嫌疑人。",
+        "en": "The police leaked false news to lure the suspect in and arrested him."
+      }
+    ],
+    "usage": {
+      "en": "Related to 请君入瓮 (to use someone's own method against them) but simply stresses luring into a trap.",
+      "zh": "与“请君入瓮”相近，但只强调设圈套诱人上当，不含“以其人之道还治其人之身”之意。"
+    },
+    "synonyms": [
+      "上屋抽梯",
+      "诱敌深入"
+    ],
+    "antonyms": [
+      "坦诚相待",
+      "光明磊落"
+    ]
+  },
+  {
+    "id": "jiu-han-gan-lin",
+    "text": "久旱甘霖",
+    "pinyin": "jiǔ hàn gān lín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "weather-and-sky",
+      "comebacks-and-renewal"
+    ],
+    "literal": "long · drought · sweet · rain",
+    "natural": "sweet rain after long drought",
+    "meaning": {
+      "en": "A welcome relief or help that arrives just when it is badly needed.",
+      "zh": "比喻在最需要的时候得到的帮助或喜讯。"
+    },
+    "equivalents": [
+      "a welcome relief",
+      "a godsend",
+      "manna from heaven"
+    ],
+    "examples": [
+      {
+        "zh": "这笔援助对灾区来说如久旱甘霖。",
+        "en": "This aid came to the disaster area like rain after a long drought."
+      },
+      {
+        "zh": "在最困难的时候，朋友的帮助是久旱甘霖。",
+        "en": "In the hardest times a friend's help was a lifesaver."
+      }
+    ],
+    "usage": {
+      "en": "Often 如久旱甘霖; positive.",
+      "zh": "常说“如久旱甘霖”，褒义。"
+    },
+    "synonyms": [
+      "空谷足音",
+      "雪中送炭"
+    ],
+    "antonyms": [
+      "雪上加霜",
+      "缓不济急"
+    ]
+  },
+  {
+    "id": "kong-shou-tao-bai-lang",
+    "text": "空手套白狼",
+    "pinyin": "kōng shǒu tào bái láng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "business-failure",
+      "deception-and-false-appearances"
+    ],
+    "literal": "empty · hand · snare · white · wolf",
+    "natural": "catch a white wolf with empty hands",
+    "meaning": {
+      "en": "To get something valuable for nothing, usually by clever manoeuvring or tricks.",
+      "zh": "不付出本钱，靠手段谋取利益。"
+    },
+    "equivalents": [
+      "get something for nothing",
+      "make money out of thin air"
+    ],
+    "examples": [
+      {
+        "zh": "他想空手套白狼，用别人的钱办自己的公司。",
+        "en": "He wanted to start up on other people's money without risking anything."
+      },
+      {
+        "zh": "空手套白狼的生意长久不了。",
+        "en": "A business that gets something for nothing can't last."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; sometimes grudging admiration of cleverness, mostly disapproving of risky or shady schemes.",
+      "zh": "口语，多含贬义，有时也带些佩服。"
+    },
+    "synonyms": [
+      "买空卖空",
+      "无本生意",
+      "借鸡生蛋"
+    ],
+    "antonyms": [
+      "脚踏实地",
+      "本分经营"
+    ]
+  },
+  {
+    "id": "jing-wa-zhi-jian",
+    "text": "井蛙之见",
+    "pinyin": "jǐng wā zhī jiàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "foolishness-and-ignorance",
+      "daoist-classics",
+      "polite-humble"
+    ],
+    "literal": "well · frog · 's · view",
+    "natural": "the view of a frog in a well",
+    "meaning": {
+      "en": "A narrow outlook, like that of a frog that has never seen beyond its well.",
+      "zh": "见识狭隘，像井里的青蛙只看见一小块天。"
+    },
+    "equivalents": [
+      "a narrow, parochial view",
+      "a frog-in-the-well view"
+    ],
+    "examples": [
+      {
+        "zh": "不出国门，就容易陷入井蛙之见。",
+        "en": "If you never leave your country you can easily fall into a narrow view."
+      },
+      {
+        "zh": "我这是井蛙之见，让您见笑了。",
+        "en": "This is only my narrow view; forgive me."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·秋水》",
+      "story": {
+        "en": "Zhuangzi: 'You cannot talk of the sea to a frog in a well, for it is confined to its space' (井蛙不可以语于海者，拘于虚也).",
+        "zh": "《庄子·秋水》：“井蛙不可以语于海者，拘于虚也。”"
+      },
+      "date": {
+        "zh": "战国中期 · 前4—前3世纪",
+        "en": "mid Warring States, 4th–3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Can be self-deprecating (我这只是井蛙之见) or critical of others.",
+      "zh": "可自谦（“这只是井蛙之见”），也可批评他人。"
+    },
+    "synonyms": [
+      "一孔之见",
+      "坐井观天"
+    ],
+    "antonyms": [
+      "高瞻远瞩",
+      "博古通今"
+    ]
+  },
+  {
+    "id": "ren-jie-ke-yi-wei-yao-shun",
+    "text": "人皆可以为尧舜",
+    "pinyin": "rén jiē kě yǐ wéi yáo shùn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "thinkers",
+      "confucian-classics"
+    ],
+    "literal": "everyone · all · can · become · Yao · Shun",
+    "natural": "everyone can become a Yao or a Shun",
+    "meaning": {
+      "en": "Anyone can become a sage through self-cultivation.",
+      "zh": "每个人通过修养都可以成为尧舜那样的圣人。"
+    },
+    "equivalents": [
+      "anyone can become a sage",
+      "every man can be a saint"
+    ],
+    "examples": [
+      {
+        "zh": "孟子讲“人皆可以为尧舜”，强调教育的力量。",
+        "en": "Mencius said that everyone can be a Yao or Shun, stressing the power of education."
+      },
+      {
+        "zh": "人皆可以为尧舜，关键在于是否肯修身。",
+        "en": "Anyone can become a sage; it depends on whether one cultivates oneself."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·告子下》",
+      "story": {
+        "en": "When asked whether it was true that anyone could be a Yao or Shun, Mencius answered 'Yes' (人皆可以为尧舜).",
+        "zh": "曹交问：“人皆可以为尧舜，有诸？”孟子答：“然。”"
+      },
+      "date": {
+        "zh": "战国中期 · 前4世纪",
+        "en": "mid Warring States, 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Quoted when speaking of moral self-improvement or the equality of human potential.",
+      "zh": "谈到修身或人性平等的潜力时常引用。"
+    },
+    "synonyms": [
+      "满街人都是圣人"
+    ],
+    "antonyms": [
+      "自暴自弃",
+      "朽木难雕"
+    ]
+  },
+  {
+    "id": "shen-bing-tian-jiang",
+    "text": "神兵天降",
+    "pinyin": "shén bīng tiān jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "miraculous-occurrences"
+    ],
+    "literal": "divine · troops · from heaven · descend",
+    "natural": "divine troops come down from the sky",
+    "meaning": {
+      "en": "Troops or helpers who appear suddenly and unexpectedly, as if sent from heaven.",
+      "zh": "军队或援助突然出现，像是从天上降下来。"
+    },
+    "equivalents": [
+      "a bolt from the blue",
+      "help from out of nowhere"
+    ],
+    "examples": [
+      {
+        "zh": "正当大家束手无策时，救援队神兵天降。",
+        "en": "Just when everyone was at a loss, the rescue team appeared as if from nowhere."
+      },
+      {
+        "zh": "特种部队神兵天降，敌人措手不及。",
+        "en": "The special forces dropped in unexpectedly and caught the enemy off guard."
+      }
+    ],
+    "usage": {
+      "en": "Usually praise for a timely, unexpected arrival; also used humorously.",
+      "zh": "多赞扬及时而意外的到来，也可诙谐使用。"
+    },
+    "synonyms": [
+      "天兵天将",
+      "从天而降"
+    ],
+    "antonyms": [
+      "姗姗来迟",
+      "孤立无援"
+    ]
+  },
+  {
+    "id": "neng-zhe-shang-yong-zhe-xia",
+    "text": "能者上庸者下",
+    "pinyin": "néng zhě shàng yōng zhě xià",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "fairness-and-impartiality"
+    ],
+    "literal": "able · ones · rise · mediocre · ones · step down",
+    "natural": "the able go up, the mediocre go down",
+    "meaning": {
+      "en": "Capable people should be promoted and the mediocre removed from posts.",
+      "zh": "有能力的人应当得到任用，平庸的人则应让位。"
+    },
+    "equivalents": [
+      "promote the able, remove the mediocre",
+      "merit over seniority"
+    ],
+    "examples": [
+      {
+        "zh": "用人要能者上庸者下，不能论资排辈。",
+        "en": "In appointments the able should rise and the mediocre step aside, not go by seniority."
+      },
+      {
+        "zh": "公司实行能者上庸者下的制度。",
+        "en": "The company applies a system where the able rise and the mediocre make way."
+      }
+    ],
+    "usage": {
+      "en": "Often appears in management and personnel contexts; usually written 能者上，庸者下 (and often with 平者让).",
+      "zh": "多见于人事管理，也写作“能者上，庸者下”，常与“平者让”连用。"
+    },
+    "synonyms": [
+      "任人唯贤"
+    ],
+    "antonyms": [
+      "占着茅坑不拉屎",
+      "任人唯亲"
+    ],
+    "variants": [
+      "能者上，庸者下"
+    ]
+  },
+  {
+    "id": "cang-fu-yu-min",
+    "text": "藏富于民",
+    "pinyin": "cáng fù yú mín",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "peace-and-prosperity"
+    ],
+    "literal": "store · wealth · in · the people",
+    "natural": "store wealth among the people",
+    "meaning": {
+      "en": "A policy of letting wealth remain with the people rather than the state.",
+      "zh": "让财富留在百姓手中，而不是集中于国家或官府。"
+    },
+    "equivalents": [
+      "let wealth stay with the people",
+      "a people-first economy"
+    ],
+    "examples": [
+      {
+        "zh": "长久之计在于藏富于民。",
+        "en": "The long-term plan lies in leaving the wealth with the people."
+      },
+      {
+        "zh": "政府应该减税，藏富于民。",
+        "en": "The government should cut taxes and let wealth stay with the people."
+      }
+    ],
+    "usage": {
+      "en": "Economic and political writing; often argues for low taxes or people's livelihood.",
+      "zh": "多用于经济、政治论述，常主张减税、改善民生。"
+    },
+    "synonyms": [
+      "民富国强",
+      "放水养鱼"
+    ],
+    "antonyms": [
+      "横征暴敛",
+      "与民争利"
+    ]
+  },
+  {
+    "id": "peng-long-pao-feng",
+    "text": "烹龙炮凤",
+    "pinyin": "pēng lóng páo fèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fine-cuisine",
+      "luxury-and-extravagance"
+    ],
+    "literal": "cook · dragon · roast · phoenix",
+    "natural": "cook dragons and roast phoenixes",
+    "meaning": {
+      "en": "An extravagant banquet of rare delicacies.",
+      "zh": "形容菜肴极其珍贵丰盛。"
+    },
+    "equivalents": [
+      "a banquet of rare delicacies",
+      "dine like an emperor"
+    ],
+    "examples": [
+      {
+        "zh": "宫廷宴会烹龙炮凤，极尽奢华。",
+        "en": "The palace banquets were a feast of rare delicacies and utterly lavish."
+      },
+      {
+        "zh": "别说烹龙炮凤，粗茶淡饭他也吃得香。",
+        "en": "Never mind rare delicacies; he enjoys even plain tea and rice."
+      }
+    ],
+    "usage": {
+      "en": "Literary hyperbole; no actual dragons or phoenixes involved.",
+      "zh": "书面夸张，并非真有龙凤。"
+    },
+    "synonyms": [
+      "山珍海味",
+      "珍馐美味"
+    ],
+    "antonyms": [
+      "茹毛饮血",
+      "粗茶淡饭"
+    ]
+  },
+  {
+    "id": "ri-gao-san-zhang",
+    "text": "日高三丈",
+    "pinyin": "rì gāo sān zhàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daily-time-periods",
+      "laziness-and-giving-up"
+    ],
+    "literal": "sun · high · three · zhang",
+    "natural": "the sun is three zhang high",
+    "meaning": {
+      "en": "The sun is already high in the sky; it is late in the morning.",
+      "zh": "太阳已经升得很高，形容时间不早。"
+    },
+    "equivalents": [
+      "the sun is already high",
+      "well into the morning"
+    ],
+    "examples": [
+      {
+        "zh": "他睡到日高三丈才起床。",
+        "en": "He slept until the sun was high."
+      },
+      {
+        "zh": "日高三丈，院子里一个人也没有。",
+        "en": "The sun was high and there was no one in the courtyard."
+      }
+    ],
+    "usage": {
+      "en": "Often hints at oversleeping. The more common synonym is 日上三竿.",
+      "zh": "常暗示睡懒觉，较常用的同义说法是“日上三竿”。"
+    },
+    "synonyms": [
+      "日上三竿"
+    ],
+    "antonyms": [
+      "鸡鸣而起",
+      "东方欲晓"
+    ]
+  },
+  {
+    "id": "yi-you-fu-ren",
+    "text": "以友辅仁",
+    "pinyin": "yǐ yǒu fǔ rén",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "confucian-classics"
+    ],
+    "literal": "through · friends · assist · humaneness",
+    "natural": "use friends to support one's virtue",
+    "meaning": {
+      "en": "To rely on friends to help one grow in virtue.",
+      "zh": "借助朋友的帮助，培养自己的仁德。"
+    },
+    "equivalents": [
+      "friends help one grow in virtue",
+      "grow better through friends"
+    ],
+    "examples": [
+      {
+        "zh": "君子以文会友，以友辅仁。",
+        "en": "The gentleman gathers friends through letters and uses friends to support his virtue."
+      },
+      {
+        "zh": "读书会让我们以友辅仁，共同进步。",
+        "en": "The book club lets us improve together through friendship."
+      }
+    ],
+    "origin": {
+      "source": "《论语·颜渊》",
+      "story": {
+        "en": "Zengzi said: 'The gentleman gathers friends through learning and uses friends to support humaneness' (君子以文会友，以友辅仁).",
+        "zh": "曾子曰：“君子以文会友，以友辅仁。”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted in full with 以文会友; used of friendships that improve us.",
+      "zh": "常与“以文会友”连用，指能促人向上的友谊。"
+    },
+    "synonyms": [
+      "以文会友"
+    ],
+    "antonyms": [
+      "酒肉朋友",
+      "狐朋狗友"
+    ]
+  },
+  {
+    "id": "yin-huo-liang-qi",
+    "text": "银货两讫",
+    "pinyin": "yín huò liǎng qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "business-failure",
+      "standards-and-benchmarks"
+    ],
+    "literal": "money · goods · both · settled",
+    "natural": "money and goods both settled",
+    "meaning": {
+      "en": "A deal is done, with payment and goods fully exchanged and no further claims.",
+      "zh": "钱已付清，货已交完，买卖两清。"
+    },
+    "equivalents": [
+      "paid in full and delivered",
+      "a clean, settled deal"
+    ],
+    "examples": [
+      {
+        "zh": "合同写明银货两讫，双方不再有任何债务。",
+        "en": "The contract states payment and delivery are complete and neither side owes anything more."
+      },
+      {
+        "zh": "买卖一旦银货两讫，就概不退换。",
+        "en": "Once a sale is settled, no returns or exchanges."
+      }
+    ],
+    "usage": {
+      "en": "Commonly seen on receipts, contracts and shop signs; formal but often slightly dated.",
+      "zh": "常见于收据、合同、店铺告示，书面语，略显旧式。"
+    },
+    "synonyms": [
+      "一手交钱，一手交货"
+    ],
+    "antonyms": [
+      "赊账欠款",
+      "拖欠货款"
+    ]
+  },
+  {
+    "id": "zhi-ma-xiao-guan",
+    "text": "芝麻小官",
+    "pinyin": "zhī má xiǎo guān",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "leadership-and-authority"
+    ],
+    "literal": "sesame · small · official",
+    "natural": "a sesame-seed official",
+    "meaning": {
+      "en": "A minor official of little importance; sometimes a self-mocking description of a low post.",
+      "zh": "指官职很小的官，常用于自嘲或讥讽。"
+    },
+    "equivalents": [
+      "a petty official",
+      "small fry in the government"
+    ],
+    "examples": [
+      {
+        "zh": "他只是个芝麻小官，哪有权力批这笔钱。",
+        "en": "He's only a minor official; he has no power to approve this money."
+      },
+      {
+        "zh": "别看他是芝麻小官，架子倒不小。",
+        "en": "He may be a petty official, but he puts on quite some airs."
+      }
+    ],
+    "usage": {
+      "en": "Casual, often self-mocking or sarcastic; also 芝麻官.",
+      "zh": "口语，常自嘲或讽刺；也说“芝麻官”。"
+    },
+    "synonyms": [
+      "一官半职"
+    ],
+    "antonyms": [
+      "位高权重",
+      "封疆大吏"
+    ]
+  },
+  {
+    "id": "zhuo-fa-nan-shu",
+    "text": "擢发难数",
+    "pinyin": "zhuó fà nán shǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "corruption-and-injustice",
+      "abrupt-endings",
+      "historical-records"
+    ],
+    "literal": "pull out · hairs · hard · to count",
+    "natural": "even pulling out one's hair would not count them",
+    "meaning": {
+      "en": "So many crimes that they cannot be counted, even by plucking out one's hair one hair per crime.",
+      "zh": "罪行多得数不清，即使拔下头发来数也数不完。"
+    },
+    "equivalents": [
+      "too many to count",
+      "countless misdeeds"
+    ],
+    "examples": [
+      {
+        "zh": "贪官的罪行擢发难数。",
+        "en": "The corrupt official's crimes are too many to count."
+      },
+      {
+        "zh": "他欠下的恶债擢发难数，没人愿意再借钱给他。",
+        "en": "The bad debts he owes are beyond counting; nobody will lend him more."
+      }
+    ],
+    "origin": {
+      "source": "《史记·范雎蔡泽列传》",
+      "story": {
+        "en": "Fan Sui asked Xu Jia how many crimes he had; Xu Jia answered that plucking out all his hairs to count them would still not be enough (擢贾之发以续贾之罪，尚未足).",
+        "zh": "范雎问须贾有多少罪过，须贾答：“擢贾之发以续贾之罪，尚未足。”"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    },
+    "usage": {
+      "en": "Literary and condemning; always about wrongdoing.",
+      "zh": "书面语，用于谴责，只指罪过。"
+    },
+    "synonyms": [
+      "罄竹难书",
+      "罪恶滔天"
+    ],
+    "antonyms": [
+      "功不可没",
+      "寥寥无几"
+    ]
+  },
+  {
+    "id": "xue-liu-piao-chu",
+    "text": "血流漂杵",
+    "pinyin": "xuè liú piāo chǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "war",
+      "danger",
+      "confucian-classics"
+    ],
+    "literal": "blood · flows · floats · pestle",
+    "natural": "blood flowed until pestles floated",
+    "meaning": {
+      "en": "Slaughter so terrible that blood floods the battlefield and floats the pestles.",
+      "zh": "形容战斗惨烈，死伤极多，血流成河。"
+    },
+    "equivalents": [
+      "rivers of blood",
+      "a bloodbath"
+    ],
+    "examples": [
+      {
+        "zh": "那场战役血流漂杵，惨不忍睹。",
+        "en": "That battle was a bloodbath, too horrible to look at."
+      },
+      {
+        "zh": "史书里有关于血流漂杵的描写。",
+        "en": "The histories describe scenes where blood ran in rivers."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心下》",
+      "story": {
+        "en": "Mencius doubted the Book of Documents' account of the Zhou conquest: 'With the most humane attacking the most inhumane, how could the blood have floated the pestles?' (何其血之流杵也).",
+        "zh": "孟子质疑《尚书·武成》所载：“以至仁伐至不仁，而何其血之流杵也？”"
+      },
+      "date": {
+        "zh": "战国中期 · 前4世纪",
+        "en": "mid Warring States, 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Literary; Mencius doubted the old record of 血流漂杵 at Mu Ye, saying a benevolent army would not produce such slaughter.",
+      "zh": "书面语；孟子质疑《武成》中牧野之战血流漂杵的记载，认为仁义之师不会如此杀戮。"
+    },
+    "synonyms": [
+      "血流成河",
+      "尸横遍野"
+    ],
+    "antonyms": [
+      "兵不血刃",
+      "秋毫无犯"
+    ]
+  },
+  {
+    "id": "yi-qing-bie-lian",
+    "text": "移情别恋",
+    "pinyin": "yí qíng bié liàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "bad-company-and-betrayal"
+    ],
+    "literal": "shift · affection · another · love",
+    "natural": "shift one's affection to another",
+    "meaning": {
+      "en": "To stop loving one person and fall for someone else.",
+      "zh": "感情转移，爱上了别人。"
+    },
+    "equivalents": [
+      "fall for someone else",
+      "lose one's heart elsewhere"
+    ],
+    "examples": [
+      {
+        "zh": "她发现男友移情别恋，选择了分手。",
+        "en": "She found out her boyfriend had fallen for someone else and broke up."
+      },
+      {
+        "zh": "剧中人物移情别恋，造成了悲剧。",
+        "en": "A character's change of heart leads to tragedy in the play."
+      }
+    ],
+    "usage": {
+      "en": "Mostly about romantic love; critical of the person who changes affection.",
+      "zh": "多用于恋爱，含批评。"
+    },
+    "synonyms": [
+      "红杏出墙",
+      "见异思迁",
+      "琵琶别抱"
+    ],
+    "antonyms": [
+      "从一而终",
+      "情有独钟"
+    ]
+  },
+  {
+    "id": "gong-bu-ke-mo",
+    "text": "功不可没",
+    "pinyin": "gōng bù kě mò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "fairness-and-impartiality"
+    ],
+    "literal": "merit · cannot · be · erased",
+    "natural": "merit that cannot be erased",
+    "meaning": {
+      "en": "Contributions that deserve full recognition and cannot be ignored.",
+      "zh": "功劳很大，不能抹杀。"
+    },
+    "equivalents": [
+      "deserve full credit",
+      "one's contribution cannot be overlooked"
+    ],
+    "examples": [
+      {
+        "zh": "这次成功，各位志愿者功不可没。",
+        "en": "All the volunteers deserve full credit for this success."
+      },
+      {
+        "zh": "他在公司创业初期功不可没。",
+        "en": "His role in the company's early days cannot be overlooked."
+      }
+    ],
+    "usage": {
+      "en": "Common in speeches and news when giving credit; predicate.",
+      "zh": "常用于表彰、致谢，多作谓语。"
+    },
+    "synonyms": [
+      "劳苦功高",
+      "汗马功劳"
+    ],
+    "antonyms": [
+      "功过相抵",
+      "罪不容诛",
+      "擢发难数",
+      "难辞其咎"
+    ]
+  },
+  {
+    "id": "mao-die-zhi-nian",
+    "text": "耄耋之年",
+    "pinyin": "mào dié zhī nián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "experience-and-old-age",
+      "health"
+    ],
+    "literal": "old (80s) · old (90s) · 's · years",
+    "natural": "the years of eighty or ninety",
+    "meaning": {
+      "en": "Extreme old age, in one's eighties or nineties.",
+      "zh": "指八九十岁的高龄。"
+    },
+    "equivalents": [
+      "a ripe old age",
+      "one's eighties or nineties"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷已到耄耋之年，身体依然硬朗。",
+        "en": "Grandfather has reached his eighties or nineties and is still hale."
+      },
+      {
+        "zh": "这位耄耋之年的画家仍坚持每天作画。",
+        "en": "The artist, in his nineties, still paints every day."
+      }
+    ],
+    "usage": {
+      "en": "Respectful, formal term for very old people; used for others, never of oneself.",
+      "zh": "对高龄者的尊称，多用于他人，不用于自称。"
+    },
+    "synonyms": [
+      "七老八十"
+    ],
+    "antonyms": [
+      "豆蔻年华",
+      "年轻力壮"
+    ]
+  }
+]

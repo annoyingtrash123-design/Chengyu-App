@@ -1,0 +1,812 @@
+[
+  {
+    "id": "xie-xian-bao-fu",
+    "text": "挟嫌报复",
+    "pinyin": "xié xián bào fù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "negative-character-flaws"
+    ],
+    "literal": "harbour · grudge · repay · retaliate",
+    "natural": "to retaliate out of a grudge",
+    "meaning": {
+      "en": "To take revenge on someone because of a personal grudge.",
+      "zh": "因为心里怀有私怨而对人进行报复。"
+    },
+    "equivalents": [
+      "settle a score",
+      "get back at someone out of spite"
+    ],
+    "examples": [
+      {
+        "zh": "他因为被批评过，就挟嫌报复，故意在报销上刁难同事。",
+        "en": "Because he had been criticised, he got back at his colleague out of spite by making his expense claims difficult."
+      },
+      {
+        "zh": "警方认定这起纵火案是挟嫌报复。",
+        "en": "The police concluded that the arson was an act of revenge over a grudge."
+      }
+    ],
+    "usage": {
+      "en": "Usually used of a specific incident, in news and legal reports. Predicate.",
+      "zh": "多指具体事件，常见于新闻和法律文书。作谓语。"
+    },
+    "synonyms": [
+      "打击报复",
+      "公报私仇"
+    ],
+    "antonyms": [
+      "以德报怨"
+    ]
+  },
+  {
+    "id": "yong-fei-qi-ren",
+    "text": "用非其人",
+    "pinyin": "yòng fēi qí rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "mistakes-and-correction"
+    ],
+    "literal": "employ · not · the right · person",
+    "natural": "to employ the wrong person",
+    "meaning": {
+      "en": "To put someone in a post he is not suited for; to appoint the wrong person.",
+      "zh": "任用了不合适的人。"
+    },
+    "equivalents": [
+      "the wrong man for the job",
+      "a square peg in a round hole"
+    ],
+    "examples": [
+      {
+        "zh": "项目接连出问题，根子就在用非其人。",
+        "en": "The project kept running into trouble, and the root cause was putting the wrong person in charge."
+      },
+      {
+        "zh": "用人要看长处，否则只会用非其人。",
+        "en": "Staff should be chosen for their strengths; otherwise you simply end up with the wrong people in the wrong jobs."
+      }
+    ],
+    "usage": {
+      "en": "Used when criticising an appointment or a manager's judgement. Predicate, formal.",
+      "zh": "多用于批评任用或管理上的失误。作谓语，偏书面。"
+    },
+    "synonyms": [
+      "所托非人"
+    ],
+    "antonyms": [
+      "用其所长",
+      "知人善任"
+    ]
+  },
+  {
+    "id": "fu-xin-zhi-ji",
+    "text": "腹心之疾",
+    "pinyin": "fù xīn zhī jí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "danger",
+      "illness-and-disease"
+    ],
+    "literal": "belly · heart · 's · illness",
+    "natural": "an illness of the heart and belly",
+    "meaning": {
+      "en": "A grave, deep-seated trouble close to the vital core, one that is hard to cure and fatal if ignored.",
+      "zh": "比喻长在要害处、难以根治的严重祸患。"
+    },
+    "equivalents": [
+      "a cancer at the core",
+      "a mortal threat from within"
+    ],
+    "examples": [
+      {
+        "zh": "内部腐败才是这家企业的腹心之疾。",
+        "en": "Internal corruption was the real mortal threat to the company."
+      },
+      {
+        "zh": "他把贫富悬殊看作社会的腹心之疾。",
+        "en": "He regarded the wealth gap as a deep-seated sickness of society."
+      }
+    ],
+    "usage": {
+      "en": "Used of threats from within or at the centre, in contrast with 癣疥之疾 (minor ailments). Formal; object or predicate.",
+      "zh": "多指内部或要害处的重大祸患，常与“癣疥之疾”对比。书面语，作宾语、谓语。"
+    },
+    "synonyms": [
+      "心腹大患"
+    ],
+    "antonyms": [
+      "癣疥之疾"
+    ]
+  },
+  {
+    "id": "fa-zi-fei-fu",
+    "text": "发自肺腑",
+    "pinyin": "fā zì fèi fǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "frankness-and-candour"
+    ],
+    "literal": "come out · from · lungs · viscera",
+    "natural": "coming from the depths of one's heart",
+    "meaning": {
+      "en": "Said of words or feelings that are completely sincere and come from the bottom of one's heart.",
+      "zh": "指话语或感情是真心实意的，出自内心深处。"
+    },
+    "equivalents": [
+      "from the bottom of one's heart",
+      "heartfelt"
+    ],
+    "examples": [
+      {
+        "zh": "这些感谢的话，句句发自肺腑。",
+        "en": "Every word of thanks was heartfelt."
+      },
+      {
+        "zh": "他发自肺腑的演讲打动了在场所有人。",
+        "en": "His speech, which came straight from the heart, moved everyone present."
+      }
+    ],
+    "usage": {
+      "en": "Usually describes words, feelings or thanks. Predicate or attributive (发自肺腑的话).",
+      "zh": "多形容话语、感情、谢意。作谓语、定语（发自肺腑的话）。"
+    },
+    "synonyms": [
+      "真情实感",
+      "由衷之言"
+    ],
+    "antonyms": [
+      "言不由衷",
+      "虚情假意"
+    ]
+  },
+  {
+    "id": "can-min-hai-wu",
+    "text": "残民害物",
+    "pinyin": "cán mín hài wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "injure · people · harm · living things",
+    "natural": "to ruin the people and harm all creatures",
+    "meaning": {
+      "en": "To oppress the people and damage the common good, said of tyrannical rulers or of ruthless exploitation.",
+      "zh": "残害百姓，危害万物，多指暴政或肆无忌惮的掠夺。"
+    },
+    "equivalents": [
+      "bleed the people dry",
+      "grind the people down"
+    ],
+    "examples": [
+      {
+        "zh": "贪官污吏残民害物，激起了百姓的怨恨。",
+        "en": "Corrupt officials bled the people dry and stirred up deep resentment."
+      },
+      {
+        "zh": "竭泽而渔式的开发只会残民害物。",
+        "en": "Development that drains everything for short-term gain only harms people and nature."
+      }
+    ],
+    "usage": {
+      "en": "A strong condemnation, mostly of rulers or officials; formal.",
+      "zh": "谴责意味强，多指统治者或官吏。书面语。"
+    },
+    "synonyms": [
+      "祸国殃民"
+    ],
+    "antonyms": [
+      "仁民爱物"
+    ]
+  },
+  {
+    "id": "zei-zou-guan-men",
+    "text": "贼走关门",
+    "pinyin": "zéi zǒu guān mén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "poor-timing"
+    ],
+    "literal": "thief · has gone · shut · door",
+    "natural": "to shut the door once the thief has gone",
+    "meaning": {
+      "en": "To take precautions only after the loss has happened, when it is too late.",
+      "zh": "东西被偷走以后才想起关门，比喻事后才采取措施，为时已晚。"
+    },
+    "equivalents": [
+      "lock the stable door after the horse has bolted",
+      "too little, too late"
+    ],
+    "examples": [
+      {
+        "zh": "等数据泄露了才加强防护，这不是贼走关门吗？",
+        "en": "Tightening security only after the data has leaked is shutting the door once the thief has gone."
+      },
+      {
+        "zh": "事故发生后才检修设备，未免贼走关门。",
+        "en": "Only repairing the equipment after the accident is rather too late."
+      }
+    ],
+    "usage": {
+      "en": "Criticises belated action. Casual; predicate. Also said 贼去关门 or 贼去了才关门.",
+      "zh": "批评事后才补救。口语，作谓语。也说“贼去关门”“贼去了才关门”。"
+    },
+    "synonyms": [
+      "贼去了才关门——错过时机",
+      "马后炮"
+    ],
+    "antonyms": [
+      "未雨绸缪",
+      "防患于未然"
+    ]
+  },
+  {
+    "id": "liang-de-qi-bian",
+    "text": "两得其便",
+    "pinyin": "liǎng dé qí biàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "efficiency",
+      "successful-completion"
+    ],
+    "literal": "both · get · their · convenience",
+    "natural": "convenient for both sides",
+    "meaning": {
+      "en": "An arrangement that suits both parties, so that each gets what is convenient for him.",
+      "zh": "对双方都方便、都有好处。"
+    },
+    "equivalents": [
+      "convenient for all concerned",
+      "a win-win"
+    ],
+    "examples": [
+      {
+        "zh": "你顺路捎我一程，咱们两得其便。",
+        "en": "If you give me a lift on your way, it suits us both."
+      },
+      {
+        "zh": "两校共用实验室，两得其便。",
+        "en": "The two schools share a laboratory, which suits both of them."
+      }
+    ],
+    "usage": {
+      "en": "Often used in the pattern ……，两得其便. Predicate; formal or semi-formal. Read 便 as biàn.",
+      "zh": "常说“……，两得其便”。作谓语，偏书面。“便”读 biàn。"
+    },
+    "synonyms": [
+      "两全其美",
+      "一举两得"
+    ],
+    "antonyms": [
+      "顾此失彼"
+    ]
+  },
+  {
+    "id": "chi-zhi-you-gu",
+    "text": "持之有故",
+    "pinyin": "chí zhī yǒu gù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "mental-clarity",
+      "essay-favourites",
+      "confucian-classics"
+    ],
+    "literal": "hold · it · have · grounds",
+    "natural": "to hold a view with good grounds",
+    "meaning": {
+      "en": "Of an opinion or argument: based on solid reasons and evidence, not made up.",
+      "zh": "指看法、主张有根据、有道理。"
+    },
+    "equivalents": [
+      "well-founded",
+      "backed by good reasons"
+    ],
+    "examples": [
+      {
+        "zh": "他的批评持之有故，大家不得不认真考虑。",
+        "en": "His criticism was well-founded, so everyone had to consider it seriously."
+      },
+      {
+        "zh": "论文的观点持之有故，言之成理。",
+        "en": "The paper's views are well grounded and make sense."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·非十二子》",
+      "story": {
+        "en": "In criticising rival schools, Xunzi grants that their views 'have grounds and their words make sense' (持之有故，言之成理), yet are enough to mislead the foolish.",
+        "zh": "荀子批评诸家之说，说他们“然而其持之有故，其言之成理，足以欺惑愚众”。"
+      },
+      "date": {
+        "zh": "战国晚期 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 言之成理: 持之有故，言之成理. Predicate; formal.",
+      "zh": "常与“言之成理”连用：持之有故，言之成理。作谓语，书面语。"
+    },
+    "synonyms": [
+      "言之成理",
+      "有理有据"
+    ],
+    "antonyms": [
+      "无稽之谈"
+    ]
+  },
+  {
+    "id": "bu-xuan-er-zhan",
+    "text": "不宣而战",
+    "pinyin": "bù xuān ér zhàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "conflict-and-strife"
+    ],
+    "literal": "not · declare · and · fight",
+    "natural": "to fight without declaring war",
+    "meaning": {
+      "en": "To attack without a formal declaration of war; by extension, to start a fight or campaign without warning.",
+      "zh": "没有正式宣战就发动进攻；也比喻事先不打招呼就开始行动或竞争。"
+    },
+    "equivalents": [
+      "attack without warning",
+      "fire the first shot unannounced"
+    ],
+    "examples": [
+      {
+        "zh": "敌军不宣而战，突然越过了边界。",
+        "en": "The enemy crossed the border suddenly, without any declaration of war."
+      },
+      {
+        "zh": "对手不宣而战，一夜之间在全国大幅降价。",
+        "en": "Our rival launched a price war without warning, slashing prices nationwide overnight."
+      }
+    ],
+    "usage": {
+      "en": "Literal in military contexts, figurative in business and sport. Predicate.",
+      "zh": "军事上指字面意思，商业、体育中多为比喻。作谓语。"
+    },
+    "synonyms": [
+      "突然袭击"
+    ],
+    "antonyms": [
+      "先礼后兵",
+      "师出有名"
+    ]
+  },
+  {
+    "id": "mu-bu-ren-du",
+    "text": "目不忍睹",
+    "pinyin": "mù bù rěn dǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "目不忍视"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "poor-performance"
+    ],
+    "literal": "eye · cannot · bear · see",
+    "natural": "too dreadful to look at",
+    "meaning": {
+      "en": "Too appalling or too pitiful to bear looking at.",
+      "zh": "景象太凄惨或太糟糕，让人不忍心看。"
+    },
+    "equivalents": [
+      "too painful to watch",
+      "a sight too awful to behold"
+    ],
+    "examples": [
+      {
+        "zh": "地震后的废墟目不忍睹。",
+        "en": "The ruins left by the earthquake were too terrible to look at."
+      },
+      {
+        "zh": "这场比赛输得目不忍睹。",
+        "en": "The way we lost the match was painful to watch."
+      }
+    ],
+    "usage": {
+      "en": "Used for disasters and also, loosely, for very poor performances. Also written 目不忍视. Predicate or complement.",
+      "zh": "可用于灾难场面，也可泛指表现极差。也作“目不忍视”。作谓语、补语。"
+    },
+    "synonyms": [
+      "不堪入目",
+      "惨不忍睹"
+    ],
+    "antonyms": [
+      "赏心悦目"
+    ]
+  },
+  {
+    "id": "rou-ma-dang-you-qu",
+    "text": "肉麻当有趣",
+    "pinyin": "ròu má dàng yǒu qù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "nauseating · treat as · amusing",
+    "natural": "to take cringe for charm",
+    "meaning": {
+      "en": "To mistake something sickeningly affected or fawning for something charming or funny.",
+      "zh": "把令人恶心的矫揉造作或谄媚当作有趣、动人。"
+    },
+    "equivalents": [
+      "mistake tackiness for charm",
+      "think one's own cringe is cute"
+    ],
+    "examples": [
+      {
+        "zh": "他把低俗的恭维当幽默，真是肉麻当有趣。",
+        "en": "He takes his crude flattery for wit, mistaking cringe for charm."
+      },
+      {
+        "zh": "别肉麻当有趣了，没人觉得这样的玩笑好笑。",
+        "en": "Stop thinking your cringeworthy jokes are funny; nobody laughs."
+      }
+    ],
+    "usage": {
+      "en": "A sarcastic put-down, written 肉麻当有趣 in full. Casual; predicate.",
+      "zh": "带讽刺意味的批评，口语。作谓语。"
+    },
+    "synonyms": [
+      "猪头挂在花椒树上——肉麻",
+      "矫揉造作"
+    ],
+    "antonyms": [
+      "恰如其分"
+    ]
+  },
+  {
+    "id": "yu-nan-cheng-xiang",
+    "text": "遇难成祥",
+    "pinyin": "yù nàn chéng xiáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "comebacks-and-renewal",
+      "festive-greetings"
+    ],
+    "literal": "meet · calamity · turn into · good fortune",
+    "natural": "to turn misfortune into blessing",
+    "meaning": {
+      "en": "To meet with trouble and have it turn out well; often used as a good wish.",
+      "zh": "遇到灾难而化为吉祥，常用作祝福语。"
+    },
+    "equivalents": [
+      "turn disaster into good fortune",
+      "come through trouble unscathed"
+    ],
+    "examples": [
+      {
+        "zh": "愿你此行遇难成祥，一路平安。",
+        "en": "May your trip be safe, and may any trouble turn into good fortune."
+      },
+      {
+        "zh": "这次虽有风险，但大家相信他会遇难成祥。",
+        "en": "There is risk this time, but everyone believes he will come through it well."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 逢凶化吉: 逢凶化吉，遇难成祥. Used as a blessing; formal.",
+      "zh": "常与“逢凶化吉”连用：逢凶化吉，遇难成祥。多作祝福语，书面语。"
+    },
+    "synonyms": [
+      "逢凶化吉",
+      "化险为夷"
+    ],
+    "antonyms": [
+      "祸不单行"
+    ]
+  },
+  {
+    "id": "zhao-dan-quan-shou",
+    "text": "照单全收",
+    "pinyin": "zhào dān quán shōu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conformity-and-imitation",
+      "adaptability"
+    ],
+    "literal": "according to · list · entirely · accept",
+    "natural": "to accept everything on the list",
+    "meaning": {
+      "en": "To accept everything offered or demanded without picking and choosing, often without thinking critically.",
+      "zh": "按照清单全部接受，指对别人给的或要求的一概接受，不加挑选。"
+    },
+    "equivalents": [
+      "swallow it all",
+      "accept the whole package"
+    ],
+    "examples": [
+      {
+        "zh": "网上的各种说法不能照单全收。",
+        "en": "You can't just accept everything people say online."
+      },
+      {
+        "zh": "老板提出的要求，他全都照单全收。",
+        "en": "Whatever demands the boss made, he accepted them all."
+      }
+    ],
+    "usage": {
+      "en": "Can be neutral or mildly critical, depending on whether the acceptance is uncritical. Predicate.",
+      "zh": "是否含贬义要看接受得是否盲目。作谓语。"
+    },
+    "synonyms": [
+      "来者不拒",
+      "全盘接受"
+    ],
+    "antonyms": [
+      "挑三拣四",
+      "去粗取精"
+    ]
+  },
+  {
+    "id": "hong-hua-hai-dei-lu-ye-fu",
+    "text": "红花还得绿叶扶",
+    "pinyin": "hóng huā hái děi lǜ yè fú",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "friendship",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "red · flower · still · must · green · leaf · support",
+    "natural": "even a red flower needs green leaves to set it off",
+    "meaning": {
+      "en": "Even a talented or outstanding person needs the support of others in order to shine.",
+      "zh": "再出色的人也需要别人的帮助和衬托。"
+    },
+    "equivalents": [
+      "no man is an island",
+      "even stars need a supporting cast"
+    ],
+    "examples": [
+      {
+        "zh": "红花还得绿叶扶，你再能干，也离不开团队。",
+        "en": "Even the most capable person needs help; you can't do without the team."
+      },
+      {
+        "zh": "他总说红花还得绿叶扶，把成绩归功于同事。",
+        "en": "He always says even the star needs the supporting cast, and credits his colleagues."
+      }
+    ],
+    "usage": {
+      "en": "Used to encourage cooperation or to be modest. Note 得 is read děi. Casual; often a full sentence.",
+      "zh": "用于强调合作或表示谦虚。“得”读 děi。口语，常单独成句。"
+    },
+    "synonyms": [
+      "牡丹虽好，全仗绿叶扶持",
+      "一个好汉三个帮"
+    ],
+    "antonyms": [
+      "孤掌难鸣"
+    ]
+  },
+  {
+    "id": "chi-xian-luo-bo-dan-cao-xin",
+    "text": "吃咸萝卜淡操心",
+    "pinyin": "chī xián luó bo dàn cāo xīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "eat · salty · radish · bland · worry",
+    "natural": "eating salty radish and worrying blandly",
+    "meaning": {
+      "en": "To worry needlessly about things that are none of one's business.",
+      "zh": "比喻替别人操不必要的心，管与自己无关的事。"
+    },
+    "equivalents": [
+      "worry about other people's problems",
+      "mind someone else's business"
+    ],
+    "examples": [
+      {
+        "zh": "人家夫妻的事，你吃咸萝卜淡操心干什么？",
+        "en": "Why worry about what's going on between that couple? It's none of your business."
+      },
+      {
+        "zh": "别吃咸萝卜淡操心了，先管好你自己的功课。",
+        "en": "Stop fussing over other people and take care of your own homework first."
+      }
+    ],
+    "usage": {
+      "en": "A casual, slightly teasing rebuke. Predicate.",
+      "zh": "口语，带调侃，多用于劝人别瞎操心。作谓语。"
+    },
+    "synonyms": [
+      "皇帝不急太监急",
+      "多管闲事"
+    ],
+    "antonyms": [
+      "事不关己，高高挂起"
+    ]
+  },
+  {
+    "id": "qing-ke-rong-yi-song-ke-nan",
+    "text": "请客容易送客难",
+    "pinyin": "qǐng kè róng yì sòng kè nán",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "adaptability",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "invite · guest · easy · see off · guest · hard",
+    "natural": "inviting guests is easy, seeing them out is hard",
+    "meaning": {
+      "en": "Starting something is easy, but finishing or getting out of it gracefully is hard.",
+      "zh": "请客人来容易，要让客人离开却难，比喻事情开头容易，收场难。"
+    },
+    "equivalents": [
+      "easier said than undone",
+      "it is easy to start but hard to end"
+    ],
+    "examples": [
+      {
+        "zh": "请客容易送客难，这个项目一旦启动就不好收场。",
+        "en": "Easy to start, hard to end: once this project is under way it will be hard to wind up."
+      },
+      {
+        "zh": "请客容易送客难，他又被那几位老朋友拖到半夜。",
+        "en": "It's easier to invite guests than to get them to leave; those old friends kept him up until midnight."
+      }
+    ],
+    "usage": {
+      "en": "Often used with humour in invitations and in business. Casual; often a full sentence.",
+      "zh": "常带诙谐，用于请客或做事开头容易收场难时。口语，常单独成句。"
+    },
+    "synonyms": [
+      "请神容易送神难"
+    ],
+    "antonyms": [
+      "万事开头难"
+    ]
+  },
+  {
+    "id": "zhan-xiao-pian-yi-chi-da-kui",
+    "text": "占小便宜吃大亏",
+    "pinyin": "zhàn xiǎo pián yi chī dà kuī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "natural-consequences",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "grab · small · advantage · suffer · big · loss",
+    "natural": "grab a small gain and suffer a big loss",
+    "meaning": {
+      "en": "Greedily grabbing a small advantage will end up costing you much more.",
+      "zh": "贪图小利，最后会吃大的亏。"
+    },
+    "equivalents": [
+      "penny wise, pound foolish",
+      "a small gain, a big loss"
+    ],
+    "examples": [
+      {
+        "zh": "他为了赠品买了一堆没用的东西，真是占小便宜吃大亏。",
+        "en": "He bought a pile of useless things for the freebies; a small gain that cost him dearly."
+      },
+      {
+        "zh": "老人们常告诫我们，占小便宜吃大亏。",
+        "en": "The elders often warn us that grabbing small gains leads to big losses."
+      }
+    ],
+    "usage": {
+      "en": "A common warning, often about scams and bargains. Note 便宜 is read pián yi. Casual.",
+      "zh": "常用于提醒人别贪小便宜上当。“便宜”读 pián yi。口语。"
+    },
+    "synonyms": [
+      "得便宜处失便宜",
+      "因小失大"
+    ],
+    "antonyms": [
+      "吃亏是福"
+    ]
+  },
+  {
+    "id": "zou-yi-bu-suan-yi-bu",
+    "text": "走一步算一步",
+    "pinyin": "zǒu yī bù suàn yī bù",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "走一步看一步"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "walk · one · step · count · one · step",
+    "natural": "take one step and count it as one step",
+    "meaning": {
+      "en": "To deal with things as they come, without a long-term plan.",
+      "zh": "不作长远打算，遇到什么情况再处理什么情况。"
+    },
+    "equivalents": [
+      "take it as it comes",
+      "play it by ear"
+    ],
+    "examples": [
+      {
+        "zh": "毕业以后的事，我还没想好，走一步算一步吧。",
+        "en": "I haven't decided what to do after graduation; I'll take it as it comes."
+      },
+      {
+        "zh": "创业初期没有计划，只能走一步算一步。",
+        "en": "In the early days of the start-up we had no plan and could only play it by ear."
+      }
+    ],
+    "usage": {
+      "en": "Can sound resigned or carefree; neutral to mildly negative. Often a clause on its own. Also said 走一步看一步.",
+      "zh": "可显得无奈或洒脱，中性偏贬。常单独成句。也说“走一步看一步”。"
+    },
+    "synonyms": [
+      "脚踩西瓜皮——滑到哪里算哪里",
+      "得过且过"
+    ],
+    "antonyms": [
+      "深谋远虑",
+      "未雨绸缪",
+      "人无远虑，必有近忧"
+    ]
+  }
+]

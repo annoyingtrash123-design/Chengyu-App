@@ -1,0 +1,869 @@
+[
+  {
+    "id": "zhong-xiao-nan-liang-quan",
+    "text": "忠孝难两全",
+    "pinyin": "zhōng xiào nán liǎng quán",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "filial-piety",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "loyalty · filial piety · hard · both · complete",
+    "natural": "loyalty and filial piety are hard to fulfil together",
+    "meaning": {
+      "en": "Duty to one's country and duty to one's parents often conflict, so one cannot fully satisfy both.",
+      "zh": "为国尽忠与在家尽孝常常冲突，很难同时做到。"
+    },
+    "equivalents": [
+      "torn between duty and family",
+      "one cannot serve two masters"
+    ],
+    "examples": [
+      {
+        "zh": "军人远在边疆，不能照顾父母，真是忠孝难两全。",
+        "en": "A soldier on the frontier cannot look after his parents; he truly cannot honour both duties."
+      },
+      {
+        "zh": "他放弃回乡探亲，选择留在抗灾一线，忠孝难两全。",
+        "en": "He gave up going home and stayed on the disaster front line, unable to serve both country and family."
+      }
+    ],
+    "usage": {
+      "en": "Used to express regret when public duty keeps someone from their family. The opposite wish is 忠孝两全.",
+      "zh": "用于表达因公务而无法尽孝的无奈；相反的愿望是“忠孝两全”。"
+    },
+    "synonyms": [
+      "鱼与熊掌不可兼得"
+    ],
+    "antonyms": [
+      "忠孝两全"
+    ]
+  },
+  {
+    "id": "qiong-li-jin-xing",
+    "text": "穷理尽性",
+    "pinyin": "qióng lǐ jìn xìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "confucian-classics"
+    ],
+    "literal": "exhaust · principle · fully · nature",
+    "natural": "exhaust the principles and fulfil the nature",
+    "meaning": {
+      "en": "To investigate the principles of things thoroughly and fully understand their nature.",
+      "zh": "彻底探究事物的道理，充分了解事物的本性。"
+    },
+    "equivalents": [
+      "get to the bottom of things",
+      "investigate thoroughly"
+    ],
+    "examples": [
+      {
+        "zh": "宋代理学家主张格物致知，穷理尽性。",
+        "en": "Song neo-Confucians advocated investigating things and exhausting their principles."
+      },
+      {
+        "zh": "做学问应当穷理尽性，不可浅尝辄止。",
+        "en": "Scholarship should probe to the root, not stop at a superficial taste."
+      }
+    ],
+    "origin": {
+      "source": "《周易·说卦》",
+      "story": {
+        "en": "The Commentary on the Appended Remarks of the Book of Changes says one should 'exhaust principle and fulfil nature, so as to reach destiny' (穷理尽性以至于命).",
+        "zh": "《周易·说卦》：“穷理尽性以至于命。”"
+      },
+      "date": {
+        "zh": "战国至西汉 · 前3世纪—前2世纪（《易传》）",
+        "en": "Warring States to Western Han, 3rd–2nd c. BC (Yi Zhuan)"
+      }
+    },
+    "usage": {
+      "en": "A scholarly term used in discussing philosophy and learning.",
+      "zh": "学术用语，多用于谈论哲学和学问。"
+    },
+    "synonyms": [
+      "格物致知"
+    ],
+    "antonyms": [
+      "浅尝辄止"
+    ]
+  },
+  {
+    "id": "ba-gan-zi-da-bu-zhao",
+    "text": "八竿子打不着",
+    "pinyin": "bā gān zi dǎ bù zháo",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "八竿子打不到"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "relative-measurements",
+      "exact-vs-approximate"
+    ],
+    "literal": "eight · poles · hit · cannot · reach",
+    "natural": "not reachable even with eight poles",
+    "meaning": {
+      "en": "So distant or unrelated that there is no connection at all.",
+      "zh": "形容距离很远，或关系疏远，毫不相干。"
+    },
+    "equivalents": [
+      "nothing to do with each other",
+      "miles apart",
+      "not even remotely related"
+    ],
+    "examples": [
+      {
+        "zh": "他们两家八竿子打不着，怎么会是亲戚？",
+        "en": "The two families have nothing to do with each other; how could they be relatives?"
+      },
+      {
+        "zh": "这个问题和我的专业八竿子打不着。",
+        "en": "This question is nowhere near my field."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; often said as 八竿子打不着的亲戚 for a very distant relative. Written variants are 八竿子打不到.",
+      "zh": "口语，常说“八竿子打不着的亲戚”形容很远的亲戚。"
+    },
+    "synonyms": [
+      "风马牛不相及",
+      "毫不相干"
+    ],
+    "antonyms": [
+      "息息相关"
+    ]
+  },
+  {
+    "id": "yi-ri-zhi-ji-zai-yu-chen",
+    "text": "一日之计在于晨",
+    "pinyin": "yī rì zhī jì zài yú chén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "time-management",
+      "value-of-time"
+    ],
+    "literal": "one · day · 's · plan · lies · in · morning",
+    "natural": "the day's plan lies in the morning",
+    "meaning": {
+      "en": "The morning is the key time of day for planning and getting started, so one should not waste it.",
+      "zh": "一天的计划要在早晨做好，应当珍惜清晨的时间。"
+    },
+    "equivalents": [
+      "the early bird catches the worm",
+      "start the day well"
+    ],
+    "examples": [
+      {
+        "zh": "一日之计在于晨，他每天五点就起床读书。",
+        "en": "The morning is the key to the day, so he gets up at five every day to read."
+      },
+      {
+        "zh": "一日之计在于晨，早点开始，下午就轻松多了。",
+        "en": "Start early, as the morning sets the pace for the day; the afternoon will be much easier."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 一年之计在于春. Used as encouragement to get up early and plan ahead.",
+      "zh": "常与“一年之计在于春”连用，劝人早起、早做打算。"
+    },
+    "synonyms": [
+      "一年之计在于春"
+    ],
+    "antonyms": [
+      "日上三竿"
+    ]
+  },
+  {
+    "id": "xin-zhang-jiu-zhang-yi-qi-suan",
+    "text": "新账旧账一起算",
+    "pinyin": "xīn zhàng jiù zhàng yī qǐ suàn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "revenge-and-retribution",
+      "conflict-and-strife"
+    ],
+    "literal": "new · account · old · account · together · settle",
+    "natural": "settle the new and old accounts together",
+    "meaning": {
+      "en": "To settle all grievances, new and old, at one time.",
+      "zh": "把新仇旧恨或新旧账目一并清算。"
+    },
+    "equivalents": [
+      "settle old scores along with new ones",
+      "make someone pay for everything at once"
+    ],
+    "examples": [
+      {
+        "zh": "你这次又犯错，咱们就新账旧账一起算。",
+        "en": "You've made another mistake, so we'll settle both the new and the old accounts."
+      },
+      {
+        "zh": "房东说要新账旧账一起算，让他一次交清欠租。",
+        "en": "The landlord said he would settle all the old and new debts together and asked him to pay up the rent arrears in one go."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial and threatening in tone; used when someone's past misdeeds are brought up all at once.",
+      "zh": "口语，带威胁意味，指把过去的账一起清算。"
+    },
+    "synonyms": [
+      "秋后算账"
+    ],
+    "antonyms": [
+      "既往不咎"
+    ]
+  },
+  {
+    "id": "si-lin-ba-she",
+    "text": "四邻八舍",
+    "pinyin": "sì lín bā shè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "family-and-home",
+      "relationships"
+    ],
+    "literal": "four · neighbours · eight · houses",
+    "natural": "four neighbours and eight houses",
+    "meaning": {
+      "en": "All the neighbours living around one's home.",
+      "zh": "泛指周围的邻居。"
+    },
+    "equivalents": [
+      "the whole neighbourhood",
+      "all the neighbours"
+    ],
+    "examples": [
+      {
+        "zh": "她大声一喊，四邻八舍都听见了。",
+        "en": "She shouted loudly and all the neighbours heard."
+      },
+      {
+        "zh": "过年时，他给四邻八舍都送了年糕。",
+        "en": "At New Year he gave rice cakes to all the neighbours."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; used as subject or object. Numbers are not literal.",
+      "zh": "口语，作主语或宾语；数字为虚指。"
+    },
+    "synonyms": [
+      "街坊邻里",
+      "左邻右舍"
+    ],
+    "antonyms": [
+      "背井离乡"
+    ]
+  },
+  {
+    "id": "xu-jing-yi-chang",
+    "text": "虚惊一场",
+    "pinyin": "xū jīng yī chǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "joy-and-happiness"
+    ],
+    "literal": "empty · fright · one · bout",
+    "natural": "an empty fright",
+    "meaning": {
+      "en": "A false alarm; being frightened for nothing as the danger turns out to be nothing.",
+      "zh": "白白受了一场惊吓，实际上没有事。"
+    },
+    "equivalents": [
+      "a false alarm",
+      "much ado about nothing",
+      "a close shave"
+    ],
+    "examples": [
+      {
+        "zh": "原来是风吹动了窗帘，虚惊一场。",
+        "en": "It was only the wind moving the curtain, a false alarm."
+      },
+      {
+        "zh": "体检结果一切正常，真是虚惊一场。",
+        "en": "The check-up results were all normal; it was just a false scare."
+      }
+    ],
+    "usage": {
+      "en": "Usually used as a closing comment after the danger has passed.",
+      "zh": "多作事后总结的评语，作谓语。"
+    },
+    "synonyms": [
+      "有惊无险"
+    ],
+    "antonyms": [
+      "大难临头"
+    ]
+  },
+  {
+    "id": "bing-ru-xi-zi",
+    "text": "病如西子",
+    "pinyin": "bìng rú xī zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "poems-prose"
+    ],
+    "literal": "ill · like · Xishi · (Xi) Zi",
+    "natural": "ill like Xishi",
+    "meaning": {
+      "en": "Delicate and beautiful in illness, like the famous beauty Xishi; used of a frail beauty.",
+      "zh": "病弱时仍有西施般的动人风姿，形容体弱而美丽的女子。"
+    },
+    "equivalents": [
+      "beautiful in frailty",
+      "a delicate beauty"
+    ],
+    "examples": [
+      {
+        "zh": "黛玉病如西子，常令人怜惜。",
+        "en": "Daiyu, frail yet beautiful like Xishi, always won people's sympathy."
+      },
+      {
+        "zh": "画中的女子病如西子，楚楚可怜。",
+        "en": "The woman in the painting is delicate and pitiable like Xishi."
+      }
+    ],
+    "origin": {
+      "source": "清·曹雪芹《红楼梦》第三回",
+      "story": {
+        "en": "Lin Daiyu is described as 'having one more orifice in her heart than Bi Gan, and, in her illness, surpassing Xishi by three parts' (心较比干多一窍，病如西子胜三分).",
+        "zh": "《红楼梦》第三回写林黛玉：“心较比干多一窍，病如西子胜三分。”"
+      },
+      "date": {
+        "zh": "清 · 18世纪中叶（前八十回）",
+        "en": "Qing dynasty, mid-18th c. (first eighty chapters)"
+      }
+    },
+    "usage": {
+      "en": "Literary; mainly used of Lin Daiyu or similar frail beauties. In the original line, 病如西子胜三分 says her illness surpasses Xishi's by a margin.",
+      "zh": "文学用语，多形容林黛玉一类体弱的美人；原句为“病如西子胜三分”。"
+    },
+    "synonyms": [
+      "西施捧心"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "wei-guo-yu-ren",
+    "text": "诿过于人",
+    "pinyin": "wěi guò yú rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws",
+      "mistakes-and-correction"
+    ],
+    "literal": "shift · blame · onto · others",
+    "natural": "shift the blame onto others",
+    "meaning": {
+      "en": "To push the blame for one's own mistakes onto other people.",
+      "zh": "把过错推给别人。"
+    },
+    "equivalents": [
+      "pass the buck",
+      "shift the blame"
+    ],
+    "examples": [
+      {
+        "zh": "出了问题就诿过于人，这样的领导没人信服。",
+        "en": "A leader who blames others whenever something goes wrong convinces nobody."
+      },
+      {
+        "zh": "他从不诿过于人，总是先检讨自己。",
+        "en": "He never shifts the blame and always examines himself first."
+      }
+    ],
+    "usage": {
+      "en": "Formal, written; used as predicate. Opposite of 引咎自责.",
+      "zh": "书面语，作谓语；与“引咎自责”相对。"
+    },
+    "synonyms": [
+      "推诿责任",
+      "嫁祸于人"
+    ],
+    "antonyms": [
+      "引咎自责"
+    ]
+  },
+  {
+    "id": "tong-hang-xiang-qing",
+    "text": "同行相轻",
+    "pinyin": "tóng háng xiāng qīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "negative-character-flaws"
+    ],
+    "literal": "same · trade · mutually · look down on",
+    "natural": "people in the same trade look down on one another",
+    "meaning": {
+      "en": "People in the same profession tend to belittle one another's work.",
+      "zh": "同一行业的人往往互相看不起。"
+    },
+    "equivalents": [
+      "professional jealousy",
+      "rivalry within a trade"
+    ],
+    "examples": [
+      {
+        "zh": "同行相轻本是人之常情，但我们应当互相学习。",
+        "en": "Professional jealousy is only human, but we should learn from each other."
+      },
+      {
+        "zh": "这两位画家同行相轻，多年不来往。",
+        "en": "These two painters look down on each other and haven't been in touch for years."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or a general remark; often linked to 文人相轻.",
+      "zh": "作谓语或泛论，常与“文人相轻”相联系。"
+    },
+    "synonyms": [
+      "文人相轻"
+    ],
+    "antonyms": [
+      "惺惺相惜"
+    ]
+  },
+  {
+    "id": "tie-ma-bing-he",
+    "text": "铁马冰河",
+    "pinyin": "tiě mǎ bīng hé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "poets",
+      "poems-prose"
+    ],
+    "literal": "iron · horse · ice · river",
+    "natural": "armoured horses and frozen rivers",
+    "meaning": {
+      "en": "Armoured cavalry and icy rivers; a picture of the hardships and heroism of warfare in the northern frontier.",
+      "zh": "披甲的战马和冰封的河流，形容北方边塞的战争场景和豪迈气概。"
+    },
+    "equivalents": [
+      "armoured horses on frozen rivers",
+      "the clang of cavalry and ice"
+    ],
+    "examples": [
+      {
+        "zh": "读了陆游的诗，我仿佛看到了铁马冰河的战场。",
+        "en": "Reading Lu You's poem, I seemed to see the battlefield of iron horses and frozen rivers."
+      },
+      {
+        "zh": "纪录片再现了铁马冰河的抗战岁月。",
+        "en": "The documentary recreates the harsh years of war of resistance."
+      }
+    ],
+    "origin": {
+      "source": "宋·陆游《十一月四日风雨大作》",
+      "story": {
+        "en": "Lu You wrote that in his dream, 'iron horses and icy rivers' came to him on a stormy night (夜阑卧听风吹雨，铁马冰河入梦来), expressing his longing to recover the north.",
+        "zh": "陆游：“夜阑卧听风吹雨，铁马冰河入梦来。”"
+      },
+      "date": {
+        "zh": "南宋 · 12世纪末",
+        "en": "Southern Song, late 12th c."
+      }
+    },
+    "usage": {
+      "en": "Literary and stirring; usually used as an attributive or object when describing battles or patriotic ambition.",
+      "zh": "文学性强、气势雄浑，多作定语或宾语，描写战争或爱国壮志。"
+    },
+    "synonyms": [
+      "金戈铁马"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bao-hen-zhong-shen",
+    "text": "抱恨终身",
+    "pinyin": "bào hèn zhōng shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "遗恨终身"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "complex-emotional-states"
+    ],
+    "literal": "hold · regret · whole · life",
+    "natural": "carry regret for a lifetime",
+    "meaning": {
+      "en": "To be filled with regret for the rest of one's life over something that cannot be undone.",
+      "zh": "因为一件事而遗憾一辈子。"
+    },
+    "equivalents": [
+      "regret to one's dying day",
+      "carry a lifelong regret"
+    ],
+    "examples": [
+      {
+        "zh": "没能见父亲最后一面，让他抱恨终身。",
+        "en": "Not being able to see his father one last time left him with lifelong regret."
+      },
+      {
+        "zh": "当年放弃了那个机会，他至今抱恨终身。",
+        "en": "He gave up that chance back then and has regretted it ever since."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate; often follows 令 or 使. Stronger than ordinary regret.",
+      "zh": "作谓语，常接在“令、使”后，语气比一般的遗憾重。"
+    },
+    "synonyms": [
+      "死不瞑目"
+    ],
+    "antonyms": [
+      "无怨无悔"
+    ]
+  },
+  {
+    "id": "zi-zuo-duo-qing",
+    "text": "自作多情",
+    "pinyin": "zì zuò duō qíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "complex-emotional-states",
+      "love-and-marriage"
+    ],
+    "literal": "self · make · much · feeling",
+    "natural": "create feelings by oneself",
+    "meaning": {
+      "en": "To imagine that someone is fond of one, or to show affection that is not returned.",
+      "zh": "一厢情愿地对别人有好感，或误以为别人对自己有意。"
+    },
+    "equivalents": [
+      "read too much into it",
+      "flatter oneself",
+      "an unrequited fancy"
+    ],
+    "examples": [
+      {
+        "zh": "人家只是礼貌地笑笑，你别自作多情了。",
+        "en": "She was just smiling politely, so don't flatter yourself."
+      },
+      {
+        "zh": "他以为她喜欢自己，其实是自作多情。",
+        "en": "He thought she liked him, but it was just wishful thinking."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial, mocking or self-mocking; usually refers to love but also to presuming favour.",
+      "zh": "口语，带嘲讽或自嘲意味，多指感情，也可指错误地以为被看重。"
+    },
+    "synonyms": [
+      "一厢情愿",
+      "单相思"
+    ],
+    "antonyms": [
+      "两情相悦"
+    ]
+  },
+  {
+    "id": "xue-wu-chang-shi",
+    "text": "学无常师",
+    "pinyin": "xué wú cháng shī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "apprenticeship-and-learning",
+      "positive-character-qualities"
+    ],
+    "literal": "learn · have no · fixed · teacher",
+    "natural": "there is no fixed teacher in learning",
+    "meaning": {
+      "en": "To learn from anyone who has something to teach, rather than just one fixed teacher.",
+      "zh": "学习不限于固定的老师，谁有长处就向谁学习。"
+    },
+    "equivalents": [
+      "learn from everyone",
+      "take instruction from all quarters"
+    ],
+    "examples": [
+      {
+        "zh": "他学无常师，广泛向各派名家求教。",
+        "en": "He learned from many sources and sought advice from masters of every school."
+      },
+      {
+        "zh": "学无常师，只要有长处，我都愿意请教。",
+        "en": "There is no fixed teacher in learning; I'm happy to consult anyone with strengths."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or maxim; praises open-mindedness in study.",
+      "zh": "作谓语或格言，赞扬虚心好学。"
+    },
+    "synonyms": [
+      "不耻下问",
+      "转益多师"
+    ],
+    "antonyms": [
+      "故步自封"
+    ]
+  },
+  {
+    "id": "zhuo-zui-ben-sai",
+    "text": "拙嘴笨腮",
+    "pinyin": "zhuō zuǐ bèn sāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "polite-humble"
+    ],
+    "literal": "clumsy · mouth · dull · cheeks",
+    "natural": "clumsy mouth and dull cheeks",
+    "meaning": {
+      "en": "Poor at speaking; unable to express oneself fluently.",
+      "zh": "不善言辞，口才不好。"
+    },
+    "equivalents": [
+      "tongue-tied",
+      "not good with words"
+    ],
+    "examples": [
+      {
+        "zh": "我拙嘴笨腮的，不知怎么向你道谢。",
+        "en": "I'm no good with words and don't know how to thank you."
+      },
+      {
+        "zh": "他拙嘴笨腮，让他上台发言真是难为他了。",
+        "en": "He is a poor speaker, so asking him to speak on stage is really putting him on the spot."
+      }
+    ],
+    "usage": {
+      "en": "Often self-deprecating; used as predicate. Close in sense to the more common 笨嘴拙舌.",
+      "zh": "常用于自谦，作谓语；与“笨嘴拙舌”意思相近。"
+    },
+    "synonyms": [
+      "笨嘴拙舌",
+      "口齿笨拙"
+    ],
+    "antonyms": [
+      "能言善辩",
+      "伶牙俐齿"
+    ]
+  },
+  {
+    "id": "ke-zao-zhi-cai",
+    "text": "可造之才",
+    "pinyin": "kě zào zhī cái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "academic-achievement",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "can · be trained · 's · talent",
+    "natural": "talent that can be moulded",
+    "meaning": {
+      "en": "A person with promising talent who is worth training.",
+      "zh": "有培养前途、值得造就的人才。"
+    },
+    "equivalents": [
+      "a promising talent",
+      "someone worth grooming"
+    ],
+    "examples": [
+      {
+        "zh": "老师认为这个孩子是可造之才。",
+        "en": "The teacher considers the child a promising talent."
+      },
+      {
+        "zh": "他年纪虽轻，却是公司公认的可造之才。",
+        "en": "Though young, he is regarded in the company as someone worth developing."
+      }
+    ],
+    "usage": {
+      "en": "Used as object or predicate, often in references and evaluations by seniors.",
+      "zh": "多作宾语或谓语，常见于长辈或上级的评价。"
+    },
+    "synonyms": [
+      "璞玉浑金",
+      "后起之秀"
+    ],
+    "antonyms": [
+      "不材之木",
+      "朽木难雕"
+    ]
+  },
+  {
+    "id": "si-shi-er-li",
+    "text": "四十而立",
+    "pinyin": "sì shí ér lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "confucian-classics"
+    ],
+    "literal": "forty · then · stand",
+    "natural": "at forty, to stand firm",
+    "meaning": {
+      "en": "By the age of forty one should have established one's career and beliefs.",
+      "zh": "人到四十岁，应当在事业和见识上有所成就、站稳脚跟。"
+    },
+    "equivalents": [
+      "life begins at forty",
+      "established by forty"
+    ],
+    "examples": [
+      {
+        "zh": "四十而立，他终于开了自己的公司。",
+        "en": "At forty, he finally set up his own company."
+      },
+      {
+        "zh": "人们常说四十而立，可我还在摸索方向。",
+        "en": "They say one should be established at forty, but I am still looking for direction."
+      }
+    ],
+    "usage": {
+      "en": "A modern saying based on the Analects, which actually says 三十而立 (at thirty, to stand firm) and 四十而不惑 (at forty, free from doubt); 四十而立 is a common rewording.",
+      "zh": "此语由《论语》“三十而立，四十而不惑”演化而来，现代口语中多指四十岁应有所成就。"
+    },
+    "synonyms": [
+      "不惑之年",
+      "而立之年"
+    ],
+    "antonyms": [
+      "一事无成"
+    ]
+  },
+  {
+    "id": "meng-zhong-shuo-meng",
+    "text": "梦中说梦",
+    "pinyin": "mèng zhōng shuō mèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "confusion-and-doubt",
+      "buddhist-origin"
+    ],
+    "literal": "dream · inside · tell · dream",
+    "natural": "telling a dream within a dream",
+    "meaning": {
+      "en": "To speak of illusions while still in a state of illusion; empty, unreal talk.",
+      "zh": "在梦里说梦话，比喻说话虚幻、不真实或没有觉悟。"
+    },
+    "equivalents": [
+      "a dream within a dream",
+      "talking nonsense in one's sleep"
+    ],
+    "examples": [
+      {
+        "zh": "他说的那些宏图大计，不过是梦中说梦。",
+        "en": "The grand plans he describes are no more than a dream within a dream."
+      },
+      {
+        "zh": "不认清现实，只会梦中说梦。",
+        "en": "Without facing reality, one only talks dreams in a dream."
+      }
+    ],
+    "usage": {
+      "en": "Literary, often with a Buddhist flavour; used as predicate or as a comment.",
+      "zh": "文学性较强，带佛家色彩，作谓语或评语。"
+    },
+    "synonyms": [
+      "痴人说梦"
+    ],
+    "antonyms": [
+      "如梦初醒"
+    ]
+  },
+  {
+    "id": "gou-jian-da-bei",
+    "text": "勾肩搭背",
+    "pinyin": "gōu jiān dā bèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "friendship",
+      "inappropriate-behavior"
+    ],
+    "literal": "hook · shoulder · lean on · back",
+    "natural": "hooking shoulders and leaning on backs",
+    "meaning": {
+      "en": "To walk or stand with arms around each other's shoulders, as very close friends do; sometimes seen as unseemly.",
+      "zh": "互相搭着肩膀和后背，形容关系亲密，有时含举止不庄重之意。"
+    },
+    "equivalents": [
+      "arm in arm",
+      "thick as thieves"
+    ],
+    "examples": [
+      {
+        "zh": "几个同学勾肩搭背地走出校门。",
+        "en": "A few classmates walked out of the school gate with their arms around each other."
+      },
+      {
+        "zh": "这对老朋友勾肩搭背，有说有笑。",
+        "en": "The two old friends, arm in arm, chatted and laughed."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; as a predicate or adverbial. Can be affectionate or mildly disapproving depending on context.",
+      "zh": "口语，作谓语或状语，可亲昵也可略带贬义，视语境而定。"
+    },
+    "synonyms": [
+      "称兄道弟",
+      "亲密无间"
+    ],
+    "antonyms": [
+      "形同陌路"
+    ]
+  }
+]

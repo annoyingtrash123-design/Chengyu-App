@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "sui-yue-jing-hao",
+    "text": "岁月静好",
+    "pinyin": "suì yuè jìng hǎo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "peace-and-prosperity",
+      "relaxation-and-rest"
+    ],
+    "literal": "years · months · quiet · good",
+    "natural": "years and months are quiet and good",
+    "meaning": {
+      "en": "A peaceful, untroubled life in which time passes calmly.",
+      "zh": "日子平静安稳，没有风波。"
+    },
+    "equivalents": [
+      "peace and quiet",
+      "calm and untroubled days",
+      "a tranquil life"
+    ],
+    "examples": [
+      {
+        "zh": "他只希望一家人岁月静好，平平安安。",
+        "en": "All he hopes for is a calm, safe life for his family."
+      },
+      {
+        "zh": "退休后，她过上了岁月静好的生活。",
+        "en": "After retirement she has lived a calm and peaceful life."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 现世安稳; used as predicate or attributive. Sometimes used ironically of people who ignore hardships elsewhere.",
+      "zh": "常与“现世安稳”连用，作谓语或定语；有时也反讽对他人苦难视而不见的人。"
+    },
+    "synonyms": [
+      "安居乐业",
+      "风平浪静"
+    ],
+    "antonyms": [
+      "动荡不安",
+      "华北之大，已经安放不得一张平静的书桌了"
+    ]
+  },
+  {
+    "id": "gan-nu-bu-gan-yan",
+    "text": "敢怒不敢言",
+    "pinyin": "gǎn nù bù gǎn yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure",
+      "fear-and-cowardice"
+    ],
+    "literal": "dare · be angry · not · dare · speak",
+    "natural": "dare to be angry but not to speak",
+    "meaning": {
+      "en": "To feel anger but not dare to say anything, out of fear of the powerful.",
+      "zh": "心里愤怒，但因为害怕而不敢说出来。"
+    },
+    "equivalents": [
+      "bite one's tongue",
+      "seethe in silence",
+      "suffer in silence"
+    ],
+    "examples": [
+      {
+        "zh": "员工对新规定敢怒不敢言。",
+        "en": "Staff are angry about the new rules but dare not say so."
+      },
+      {
+        "zh": "面对恶霸，村民们只能敢怒不敢言。",
+        "en": "Faced with the bully, the villagers could only fume in silence."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or adverbial; implies a power imbalance.",
+      "zh": "作谓语或状语，暗含权势压迫。"
+    },
+    "synonyms": [
+      "侧目而视",
+      "忍气吞声"
+    ],
+    "antonyms": [
+      "直言不讳",
+      "仗义执言"
+    ]
+  },
+  {
+    "id": "tui-er-jie-wang",
+    "text": "退而结网",
+    "pinyin": "tuì ér jié wǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "poor-planning-and-hasty-decisions",
+      "historical-records"
+    ],
+    "literal": "retreat · and · weave · net",
+    "natural": "go back and weave a net",
+    "meaning": {
+      "en": "Rather than just wishing for something, go back and prepare practically for it.",
+      "zh": "与其空想，不如回去做好准备、踏实行动。"
+    },
+    "equivalents": [
+      "stop dreaming and start preparing",
+      "do the groundwork"
+    ],
+    "examples": [
+      {
+        "zh": "想要好成绩，就该退而结网，认真复习。",
+        "en": "If you want good grades, stop wishing and review properly."
+      },
+      {
+        "zh": "临渊羡鱼不如退而结网，他开始学做生意。",
+        "en": "Rather than envying fish by the pool, he went back to prepare and started learning how to do business."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·董仲舒传》",
+      "story": {
+        "en": "Dong Zhongshu is quoted: 'rather than standing at the pool and longing for fish, it is better to go back and weave a net' (临渊羡鱼，不如退而结网).",
+        "zh": "《汉书·董仲舒传》：“临川羡鱼，不如退而结网。”"
+      },
+      "date": {
+        "zh": "东汉 · 约82年（班固撰）",
+        "en": "Eastern Han, c. 82 (by Ban Gu)"
+      }
+    },
+    "usage": {
+      "en": "A piece of advice, usually after quoting 临渊羡鱼. Used as predicate.",
+      "zh": "劝勉语，常接在“临渊羡鱼”之后，作谓语。"
+    },
+    "synonyms": [
+      "未雨绸缪"
+    ],
+    "antonyms": [
+      "临渊羡鱼",
+      "坐享其成"
+    ]
+  },
+  {
+    "id": "chui-mao-duan-fa",
+    "text": "吹毛断发",
+    "pinyin": "chuī máo duàn fà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "useful-tools-and-skill",
+      "master-craftsmanship"
+    ],
+    "literal": "blow · hair · cut · hair",
+    "natural": "a blade that cuts a hair blown across it",
+    "meaning": {
+      "en": "Describes an extremely sharp blade.",
+      "zh": "形容刀剑极其锋利，吹一根毛发过去也能割断。"
+    },
+    "equivalents": [
+      "razor-sharp",
+      "sharp enough to split a hair"
+    ],
+    "examples": [
+      {
+        "zh": "这柄古剑吹毛断发，是难得的宝物。",
+        "en": "This ancient sword is razor-sharp and a rare treasure."
+      },
+      {
+        "zh": "匠人把菜刀磨得吹毛断发。",
+        "en": "The craftsman honed the kitchen knife to razor sharpness."
+      }
+    ],
+    "usage": {
+      "en": "Literary; used as predicate or attributive, mostly about swords and knives.",
+      "zh": "文言色彩，作谓语或定语，多形容刀剑。"
+    },
+    "synonyms": [
+      "削铁如泥",
+      "锋利无比"
+    ],
+    "antonyms": [
+      "钝刀割肉"
+    ]
+  },
+  {
+    "id": "an-zhen-er-wo",
+    "text": "安枕而卧",
+    "pinyin": "ān zhěn ér wò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relaxation-and-rest",
+      "peace-and-prosperity"
+    ],
+    "literal": "peaceful · pillow · and · lie",
+    "natural": "lie down on a peaceful pillow",
+    "meaning": {
+      "en": "To sleep soundly with no worries.",
+      "zh": "放心地躺下睡觉，形容毫无忧虑。"
+    },
+    "equivalents": [
+      "sleep soundly",
+      "rest easy"
+    ],
+    "examples": [
+      {
+        "zh": "边境安宁，百姓才能安枕而卧。",
+        "en": "Only when the border is calm can the people sleep in peace."
+      },
+      {
+        "zh": "账目都核对清楚了，他这才安枕而卧。",
+        "en": "Once the accounts were checked, he could finally rest easy."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate; usually after a threat has been removed. Close to 高枕无忧.",
+      "zh": "作谓语，多用于危险消除之后，与“高枕无忧”相近。"
+    },
+    "synonyms": [
+      "高枕无忧"
+    ],
+    "antonyms": [
+      "寝食不安",
+      "夜不能寐"
+    ]
+  },
+  {
+    "id": "bing-sui-jiang-zhuan",
+    "text": "兵随将转",
+    "pinyin": "bīng suí jiàng zhuǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "military-strategy-and-victory"
+    ],
+    "literal": "soldiers · follow · general · turn",
+    "natural": "soldiers turn as the general turns",
+    "meaning": {
+      "en": "The troops follow their commander; a team's quality depends on its leader.",
+      "zh": "士兵跟着将领行动，比喻下属的表现取决于领导。"
+    },
+    "equivalents": [
+      "like leader, like team",
+      "the troops follow their leader"
+    ],
+    "examples": [
+      {
+        "zh": "兵随将转，球队换了教练后面貌一新。",
+        "en": "The troops follow the commander; the team looked transformed under the new coach."
+      },
+      {
+        "zh": "兵随将转，部门风气全看主管怎么带。",
+        "en": "Staff follow their leader, so the department's culture depends on how the manager leads."
+      }
+    ],
+    "usage": {
+      "en": "Often said of teams and organisations. Used as comment or predicate.",
+      "zh": "多用于团队、组织，作评语或谓语。"
+    },
+    "synonyms": [
+      "强将手下无弱兵",
+      "上行下效"
+    ],
+    "antonyms": [
+      "群龙无首"
+    ]
+  },
+  {
+    "id": "xie-li-yin-yang",
+    "text": "燮理阴阳",
+    "pinyin": "xiè lǐ yīn yáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "good-governance",
+      "daoist-classics"
+    ],
+    "literal": "harmonise · regulate · yin · yang",
+    "natural": "harmonise and regulate yin and yang",
+    "meaning": {
+      "en": "To harmonise yin and yang; said of a chief minister who governs the state well.",
+      "zh": "调和阴阳，旧指宰相辅佐君主，治理国家。"
+    },
+    "equivalents": [
+      "keep the state in harmony",
+      "govern wisely as chief minister"
+    ],
+    "examples": [
+      {
+        "zh": "宰相的职责在于燮理阴阳，安定天下。",
+        "en": "The chancellor's duty is to harmonise yin and yang and keep the realm stable."
+      },
+      {
+        "zh": "他位居三公，燮理阴阳，深得朝野敬重。",
+        "en": "As one of the Three Excellencies, he harmonised the state and won respect at court and beyond."
+      }
+    ],
+    "usage": {
+      "en": "Archaic and formal; mostly seen in historical writing about ministers.",
+      "zh": "古雅、正式，多见于历史文章中关于宰辅的叙述。"
+    },
+    "synonyms": [
+      "调和阴阳",
+      "论道经邦"
+    ],
+    "antonyms": [
+      "祸国殃民"
+    ]
+  },
+  {
+    "id": "han-bu-ze-yi",
+    "text": "寒不择衣",
+    "pinyin": "hán bù zé yī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "cold · not · choose · clothes",
+    "natural": "when cold, one does not choose one's clothes",
+    "meaning": {
+      "en": "When in dire need, one cannot afford to be choosy.",
+      "zh": "非常寒冷时顾不上挑选衣服，比喻处境窘迫时不暇选择。"
+    },
+    "equivalents": [
+      "beggars can't be choosers",
+      "any port in a storm"
+    ],
+    "examples": [
+      {
+        "zh": "寒不择衣，我现在有工作就行，哪还挑什么待遇。",
+        "en": "Beggars can't be choosers; at the moment any job will do, never mind the pay."
+      },
+      {
+        "zh": "急着用钱，只能寒不择衣，先借了再说。",
+        "en": "Needing money urgently, I couldn't be picky and borrowed it first."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 饥不择食 and 慌不择路. Used as predicate or comment.",
+      "zh": "常与“饥不择食”“慌不择路”并用，作谓语或评语。"
+    },
+    "synonyms": [
+      "饥不择食",
+      "慌不择路"
+    ],
+    "antonyms": [
+      "挑三拣四"
+    ]
+  },
+  {
+    "id": "yi-he-wei-gui",
+    "text": "以和为贵",
+    "pinyin": "yǐ hé wéi guì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "take · harmony · as · precious",
+    "natural": "regard harmony as most precious",
+    "meaning": {
+      "en": "To value harmony above all and avoid conflict.",
+      "zh": "以和睦相处为最宝贵，避免冲突。"
+    },
+    "equivalents": [
+      "peace above all",
+      "value harmony",
+      "keep the peace"
+    ],
+    "examples": [
+      {
+        "zh": "邻里之间应以和为贵，别为小事争吵。",
+        "en": "Neighbours should value harmony and not argue over trifles."
+      },
+      {
+        "zh": "谈判时双方都表示以和为贵，愿意让步。",
+        "en": "In the negotiations both sides said they valued harmony and were willing to compromise."
+      }
+    ],
+    "origin": {
+      "source": "《论语·学而》",
+      "story": {
+        "en": "The Analects records Youzi saying that in the practice of ritual, harmony is the most valuable thing (礼之用，和为贵), from which this expression developed.",
+        "zh": "《论语·学而》载有子曰：“礼之用，和为贵。”"
+      },
+      "date": {
+        "zh": "春秋末至战国初 · 前5—前4世纪",
+        "en": "late Spring and Autumn to early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "A maxim of Chinese social culture; used as predicate or motto. Based on the Analects' 礼之用，和为贵.",
+      "zh": "中国社会文化的格言，作谓语或口号；出自《论语》“礼之用，和为贵”。"
+    },
+    "synonyms": [
+      "和气生财",
+      "和睦相处"
+    ],
+    "antonyms": [
+      "针锋相对",
+      "剑拔弩张"
+    ]
+  },
+  {
+    "id": "feng-dao-shuang-jian",
+    "text": "风刀霜剑",
+    "pinyin": "fēng dāo shuāng jiàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "harsh-natural-conditions",
+      "poverty-and-hardship"
+    ],
+    "literal": "wind · knife · frost · sword",
+    "natural": "wind like knives and frost like swords",
+    "meaning": {
+      "en": "Bitterly cold weather, or, figuratively, harsh and cruel circumstances.",
+      "zh": "形容严寒的气候，也比喻险恶、严酷的环境。"
+    },
+    "equivalents": [
+      "biting cold",
+      "the cruel blows of fortune"
+    ],
+    "examples": [
+      {
+        "zh": "北方的冬天风刀霜剑，出门要裹得严严实实。",
+        "en": "Winter in the north is bitterly cold, so one has to wrap up well to go out."
+      },
+      {
+        "zh": "她独自在风刀霜剑般的环境中长大。",
+        "en": "She grew up alone in harsh and unforgiving circumstances."
+      }
+    ],
+    "origin": {
+      "source": "清·曹雪芹《红楼梦》第二十七回",
+      "story": {
+        "en": "In the 'Song of Burying Flowers', Lin Daiyu laments that 'three hundred and sixty days a year, wind-knives and frost-swords press hard' (一年三百六十日，风刀霜剑严相逼).",
+        "zh": "《红楼梦》第二十七回《葬花吟》：“一年三百六十日，风刀霜剑严相逼。”"
+      },
+      "date": {
+        "zh": "清 · 18世纪中叶（前八十回）",
+        "en": "Qing dynasty, mid-18th c. (first eighty chapters)"
+      }
+    },
+    "usage": {
+      "en": "Literary; used attributively or as predicate. Famously used in Lin Daiyu's poem about her fate.",
+      "zh": "文学性强，作定语或谓语；因黛玉《葬花吟》而知名。"
+    },
+    "synonyms": [
+      "天寒地冻",
+      "冰天雪地",
+      "一年三百六十日，风刀霜剑严相逼"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "春风和煦"
+    ]
+  },
+  {
+    "id": "zou-ma-dou-ji",
+    "text": "走马斗鸡",
+    "pinyin": "zǒu mǎ dòu jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "games-and-sports",
+      "inappropriate-behavior"
+    ],
+    "literal": "race · horses · fight · cocks",
+    "natural": "racing horses and cockfighting",
+    "meaning": {
+      "en": "Idle amusements such as horse racing and cockfighting; leading an idle, frivolous life.",
+      "zh": "赛马、斗鸡，泛指游手好闲、纵情玩乐的生活。"
+    },
+    "equivalents": [
+      "idle pleasures",
+      "a life of dissipation"
+    ],
+    "examples": [
+      {
+        "zh": "他整天走马斗鸡，不务正业。",
+        "en": "He spends his days on idle pastimes and neglects his proper work."
+      },
+      {
+        "zh": "小说里的纨绔子弟个个走马斗鸡，挥霍无度。",
+        "en": "In the novel the idle young nobles all squander their days on amusements."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate; implies dissipation. 斗鸡走狗 is a close relative.",
+      "zh": "作谓语，含游手好闲之意，与“斗鸡走狗”相近。"
+    },
+    "synonyms": [
+      "斗鸡走狗",
+      "游手好闲"
+    ],
+    "antonyms": [
+      "勤勤恳恳"
+    ]
+  },
+  {
+    "id": "xi-bing-ba-zhan",
+    "text": "息兵罢战",
+    "pinyin": "xī bīng bà zhàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "military-strategy-and-victory"
+    ],
+    "literal": "cease · weapons · stop · war",
+    "natural": "lay down arms and stop fighting",
+    "meaning": {
+      "en": "To end hostilities and make peace.",
+      "zh": "停止战争，结束交战。"
+    },
+    "equivalents": [
+      "lay down arms",
+      "end the fighting"
+    ],
+    "examples": [
+      {
+        "zh": "两国最终息兵罢战，开始和谈。",
+        "en": "The two countries finally stopped fighting and began peace talks."
+      },
+      {
+        "zh": "百姓都盼着息兵罢战，过上安稳日子。",
+        "en": "The people hoped for an end to the war so they could live in peace."
+      }
+    ],
+    "usage": {
+      "en": "Formal; used as predicate, usually in historical or political contexts.",
+      "zh": "正式语，作谓语，多用于历史或政治语境。"
+    },
+    "synonyms": [
+      "偃武修文",
+      "鸣金收兵"
+    ],
+    "antonyms": [
+      "穷兵黩武",
+      "兵连祸结"
+    ]
+  },
+  {
+    "id": "yong-yi-sha-ren",
+    "text": "庸医杀人",
+    "pinyin": "yōng yī shā rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing",
+      "poor-workmanship"
+    ],
+    "literal": "mediocre · doctor · kill · people",
+    "natural": "a mediocre doctor kills people",
+    "meaning": {
+      "en": "An incompetent doctor can kill; a warning about unqualified practitioners and misdiagnosis.",
+      "zh": "医术不高明的医生会害死人。"
+    },
+    "equivalents": [
+      "quacks kill",
+      "a bad doctor is a menace"
+    ],
+    "examples": [
+      {
+        "zh": "庸医杀人，看病一定要找正规医院。",
+        "en": "An incompetent doctor can kill, so always go to a proper hospital."
+      },
+      {
+        "zh": "这起医疗事故被媒体称为庸医杀人。",
+        "en": "The press called this medical accident a case of a doctor killing through incompetence."
+      }
+    ],
+    "usage": {
+      "en": "A warning, also used in news headlines; as subject or comment.",
+      "zh": "警示语，也见于新闻标题，作主语或评语。"
+    },
+    "synonyms": [
+      "草菅人命"
+    ],
+    "antonyms": [
+      "着手成春",
+      "妙手回春"
+    ]
+  },
+  {
+    "id": "yi-xin-er-yong",
+    "text": "一心二用",
+    "pinyin": "yī xīn èr yòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "distracted-attention",
+      "inappropriate-behavior"
+    ],
+    "literal": "one · mind · two · uses",
+    "natural": "one mind with two uses",
+    "meaning": {
+      "en": "To do two things at once with one's attention divided, so that neither is done well.",
+      "zh": "同时做两件事，注意力不集中。"
+    },
+    "equivalents": [
+      "split one's attention",
+      "try to do two things at once"
+    ],
+    "examples": [
+      {
+        "zh": "你别一心二用，吃饭的时候别看手机。",
+        "en": "Don't divide your attention; don't look at your phone while eating."
+      },
+      {
+        "zh": "他一心二用，作业和游戏都没做好。",
+        "en": "He tried to do two things at once, and did neither his homework nor the game well."
+      }
+    ],
+    "usage": {
+      "en": "Usually mildly critical; used as predicate. Contrasts with 专心致志.",
+      "zh": "多带批评意味，作谓语，与“专心致志”相对。"
+    },
+    "synonyms": [
+      "三心二意",
+      "心不在焉"
+    ],
+    "antonyms": [
+      "心无二用",
+      "专心致志"
+    ]
+  },
+  {
+    "id": "kong-kou-bai-hua",
+    "text": "空口白话",
+    "pinyin": "kōng kǒu bái huà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "deception-and-false-appearances"
+    ],
+    "literal": "empty · mouth · plain · words",
+    "natural": "empty mouth, plain words",
+    "meaning": {
+      "en": "Mere talk with no proof or action behind it.",
+      "zh": "只说话，没有证据或行动作为凭据。"
+    },
+    "equivalents": [
+      "empty talk",
+      "mere words",
+      "hot air"
+    ],
+    "examples": [
+      {
+        "zh": "空口白话谁都会说，拿出证据来。",
+        "en": "Anyone can talk; show me the evidence."
+      },
+      {
+        "zh": "他只是空口白话，从未兑现过承诺。",
+        "en": "It was just empty words; he has never kept a promise."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; used as attributive or comment. A close relative of 空口无凭, which stresses the lack of proof.",
+      "zh": "口语，作定语或评语；与“空口无凭”相近，后者强调没有凭证。"
+    },
+    "synonyms": [
+      "口说无凭",
+      "清谈误国"
+    ],
+    "antonyms": [
+      "真凭实据",
+      "言出必行"
+    ]
+  },
+  {
+    "id": "bu-shi-fen-dai",
+    "text": "不施粉黛",
+    "pinyin": "bù shī fěn dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "simple-or-poor-clothing"
+    ],
+    "literal": "not · apply · powder · eyebrow pigment",
+    "natural": "without applying powder or eyebrow pigment",
+    "meaning": {
+      "en": "Without makeup; having a natural, unadorned face.",
+      "zh": "不涂脂抹粉，素面朝天。"
+    },
+    "equivalents": [
+      "bare-faced",
+      "without makeup"
+    ],
+    "examples": [
+      {
+        "zh": "她不施粉黛，却依然清丽动人。",
+        "en": "She wears no makeup yet still looks fresh and lovely."
+      },
+      {
+        "zh": "演员素颜出镜，不施粉黛，反而更自然。",
+        "en": "The actress appeared without makeup and looked all the more natural."
+      }
+    ],
+    "usage": {
+      "en": "Often used in praise of natural beauty. Used as predicate or adverbial.",
+      "zh": "常用于称赞天然之美，作谓语或状语。"
+    },
+    "synonyms": [
+      "素面朝天",
+      "淡扫蛾眉"
+    ],
+    "antonyms": [
+      "浓妆艳抹"
+    ]
+  },
+  {
+    "id": "dan-sao-e-mei",
+    "text": "淡扫蛾眉",
+    "pinyin": "dàn sǎo é méi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "poems-prose"
+    ],
+    "literal": "light · sweep · moth · eyebrows",
+    "natural": "lightly brushing the moth-like eyebrows",
+    "meaning": {
+      "en": "To wear only light makeup, accentuating only the eyebrows; understated elegance.",
+      "zh": "只淡淡地画一下眉毛，形容化妆朴素淡雅。"
+    },
+    "equivalents": [
+      "wear only light makeup",
+      "understated beauty"
+    ],
+    "examples": [
+      {
+        "zh": "她淡扫蛾眉，只涂了一点口红就出门了。",
+        "en": "She lightly darkened her eyebrows and went out with just a touch of lipstick."
+      },
+      {
+        "zh": "画中美人淡扫蛾眉，清雅脱俗。",
+        "en": "The beauty in the painting has lightly pencilled brows and an elegant, unworldly air."
+      }
+    ],
+    "origin": {
+      "source": "唐·张祜《集灵台》",
+      "story": {
+        "en": "Zhang Hu writes that Lady Guoguo, disdaining rouge that would sully her natural complexion, 'lightly brushed her eyebrows and went to see the Emperor' (却嫌脂粉污颜色，淡扫蛾眉朝至尊).",
+        "zh": "张祜《集灵台》：“却嫌脂粉污颜色，淡扫蛾眉朝至尊。”"
+      },
+      "date": {
+        "zh": "唐 · 9世纪上半叶",
+        "en": "Tang dynasty, first half of the 9th c."
+      }
+    },
+    "usage": {
+      "en": "Literary, nearly always about women's makeup. Quoted from a Tang poem about Lady Guoguo.",
+      "zh": "文学性强，多形容女子淡妆；出自咏虢国夫人的唐诗。"
+    },
+    "synonyms": [
+      "素面朝天",
+      "不施粉黛"
+    ],
+    "antonyms": [
+      "浓妆艳抹"
+    ]
+  },
+  {
+    "id": "gong-bu-tang-juan",
+    "text": "功不唐捐",
+    "pinyin": "gōng bù táng juān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "successful-completion",
+      "high-aspirations"
+    ],
+    "literal": "effort · not · in vain · wasted",
+    "natural": "effort is never wasted",
+    "meaning": {
+      "en": "Effort is never in vain; hard work always brings some reward.",
+      "zh": "努力不会白费，付出总有回报。"
+    },
+    "equivalents": [
+      "no effort is ever wasted",
+      "hard work pays off"
+    ],
+    "examples": [
+      {
+        "zh": "功不唐捐，他坚持练习三年，终于获奖。",
+        "en": "Effort is never wasted: he practised for three years and finally won a prize."
+      },
+      {
+        "zh": "别灰心，功不唐捐，总会有收获的。",
+        "en": "Don't lose heart; no effort is wasted and you will reap something in the end."
+      }
+    ],
+    "usage": {
+      "en": "Literary encouragement; used as a maxim or predicate. 唐捐 means 'thrown away in vain'.",
+      "zh": "文言劝勉语，作格言或谓语；“唐捐”指白白丢弃。"
+    },
+    "synonyms": [
+      "天道酬勤",
+      "皇天不负苦心人"
+    ],
+    "antonyms": [
+      "徒劳无功",
+      "竹篮打水——一场空"
+    ]
+  },
+  {
+    "id": "tian-bu-jia-nian",
+    "text": "天不假年",
+    "pinyin": "tiān bù jiǎ nián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "fleeting-time",
+      "sadness-and-despair"
+    ],
+    "literal": "Heaven · not · lend · years",
+    "natural": "Heaven does not lend more years",
+    "meaning": {
+      "en": "Heaven did not grant a longer life; said of someone who died too young.",
+      "zh": "上天不给他更长的寿命，指人早逝。"
+    },
+    "equivalents": [
+      "cut off before his time",
+      "died too young"
+    ],
+    "examples": [
+      {
+        "zh": "天不假年，这位天才画家三十岁便去世了。",
+        "en": "Heaven did not grant him more years, and the gifted painter died at thirty."
+      },
+      {
+        "zh": "可惜天不假年，他没能看到孩子成家。",
+        "en": "Sadly he did not live long enough to see his child marry."
+      }
+    ],
+    "usage": {
+      "en": "Used in obituaries and elegies; as predicate or comment.",
+      "zh": "用于悼念，作谓语或评语。"
+    },
+    "synonyms": [
+      "英年早逝",
+      "天妒英才"
+    ],
+    "antonyms": [
+      "长命百岁",
+      "寿比南山"
+    ]
+  },
+  {
+    "id": "bie-xu-li-chou",
+    "text": "别绪离愁",
+    "pinyin": "bié xù lí chóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "sadness-and-despair"
+    ],
+    "literal": "parting · thread · separation · sorrow",
+    "natural": "parting threads and separation sorrow",
+    "meaning": {
+      "en": "The sad feelings of parting and separation.",
+      "zh": "离别时的愁苦情绪。"
+    },
+    "equivalents": [
+      "the sorrow of parting",
+      "pangs of separation"
+    ],
+    "examples": [
+      {
+        "zh": "站台上满是别绪离愁。",
+        "en": "The platform was filled with the sorrow of parting."
+      },
+      {
+        "zh": "这首诗写尽了游子的别绪离愁。",
+        "en": "This poem captures all the pain of the traveller's farewell."
+      }
+    ],
+    "usage": {
+      "en": "Literary; used as object or subject. Often written as 离情别绪, which is the more common order and a separate form.",
+      "zh": "文学性强，作宾语或主语；与更常见的“离情别绪”相近。"
+    },
+    "synonyms": [
+      "离情别绪",
+      "离愁别恨"
+    ],
+    "antonyms": [
+      "欢聚一堂"
+    ]
+  },
+  {
+    "id": "zhi-zhi-ren-xin",
+    "text": "直指人心",
+    "pinyin": "zhí zhǐ rén xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "buddhist-origin",
+      "mental-clarity"
+    ],
+    "literal": "directly · point · people · mind",
+    "natural": "point straight at the human mind",
+    "meaning": {
+      "en": "To go straight to the heart of a matter or to a person's inner nature; in Chan Buddhism, pointing directly at the mind.",
+      "zh": "直接触及人心或事物的核心；禅宗指不借文字，直接指示人的本心。"
+    },
+    "equivalents": [
+      "strike at the heart",
+      "go straight to the point"
+    ],
+    "examples": [
+      {
+        "zh": "这部电影直指人心，让很多观众落了泪。",
+        "en": "The film goes straight to the heart and moved many viewers to tears."
+      },
+      {
+        "zh": "好文章要直指人心，而不是堆砌辞藻。",
+        "en": "A good essay speaks straight to the heart instead of piling up ornate words."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or attributive. The Chan phrase 直指人心，见性成佛 describes seeing one's nature directly.",
+      "zh": "作谓语或定语；禅宗有“直指人心，见性成佛”之说。"
+    },
+    "synonyms": [
+      "明心见性",
+      "一针见血"
+    ],
+    "antonyms": [
+      "隔靴搔痒"
+    ]
+  },
+  {
+    "id": "nian-lao-li-shuai",
+    "text": "年老力衰",
+    "pinyin": "nián lǎo lì shuāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "poor-health"
+    ],
+    "literal": "years · old · strength · decline",
+    "natural": "old in years and weak in strength",
+    "meaning": {
+      "en": "To be old and physically weakened.",
+      "zh": "年纪大了，体力衰退。"
+    },
+    "equivalents": [
+      "old and frail",
+      "past one's prime"
+    ],
+    "examples": [
+      {
+        "zh": "他年老力衰，已经干不了重活了。",
+        "en": "He is old and weak and can no longer do heavy work."
+      },
+      {
+        "zh": "父母年老力衰，需要子女照顾。",
+        "en": "The parents are old and frail and need their children's care."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or attributive in a plain descriptive tone.",
+      "zh": "作谓语或定语，语气平实。"
+    },
+    "synonyms": [
+      "廉颇老矣",
+      "老态龙钟"
+    ],
+    "antonyms": [
+      "年轻力壮",
+      "精力充沛"
+    ]
+  },
+  {
+    "id": "nian-qing-qi-sheng",
+    "text": "年轻气盛",
+    "pinyin": "nián qīng qì shèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "change"
+    ],
+    "literal": "young · light · spirit · vigorous",
+    "natural": "young and full of spirit",
+    "meaning": {
+      "en": "Young and full of energy and temper, often rash.",
+      "zh": "年纪轻，精力旺盛，容易冲动。"
+    },
+    "equivalents": [
+      "young and hot-blooded",
+      "full of youthful vigour"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻气盛，说话常常不留余地。",
+        "en": "He is young and hot-blooded and often speaks without restraint."
+      },
+      {
+        "zh": "年轻气盛的时候，我也和人打过架。",
+        "en": "When I was young and full of beans, I got into fights too."
+      }
+    ],
+    "usage": {
+      "en": "Neutral to slightly critical, often used when excusing youthful rashness.",
+      "zh": "中性略含批评，常用于为年轻人的冲动开脱。"
+    },
+    "synonyms": [
+      "血气方刚",
+      "少不更事"
+    ],
+    "antonyms": [
+      "老成持重",
+      "老气横秋"
+    ]
+  }
+]

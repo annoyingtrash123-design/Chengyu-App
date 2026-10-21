@@ -1,0 +1,968 @@
+[
+  {
+    "id": "de-bo-cai-shu",
+    "text": "德薄才疏",
+    "pinyin": "dé bó cái shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "polite-humble",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "virtue · thin · talent · sparse",
+    "natural": "slight in virtue, scant in talent",
+    "meaning": {
+      "en": "Lacking in moral character and ability; used modestly of oneself.",
+      "zh": "品德不高，才能不足，常用作自谦。"
+    },
+    "equivalents": [
+      "of modest virtue and talent",
+      "I am not up to the task"
+    ],
+    "examples": [
+      {
+        "zh": "我德薄才疏，恐怕难以担此重任。",
+        "en": "I am of slight virtue and little talent and fear I cannot bear such a task."
+      },
+      {
+        "zh": "他自称德薄才疏，其实工作相当出色。",
+        "en": "He calls himself lacking in talent, but his work is really excellent."
+      }
+    ],
+    "usage": {
+      "en": "A formal self-deprecating phrase, used when declining or accepting an honour. Not for describing others, which would be rude.",
+      "zh": "正式的自谦语，推辞或接受荣誉时使用。用来说别人则不礼貌。"
+    },
+    "synonyms": [
+      "才疏学浅",
+      "才浅德薄"
+    ],
+    "antonyms": [
+      "德才兼备",
+      "怀瑾握瑜"
+    ]
+  },
+  {
+    "id": "fa-shan-ke-chen",
+    "text": "乏善可陈",
+    "pinyin": "fá shàn kě chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "mediocrity-and-poor-appearance",
+      "often-misused"
+    ],
+    "literal": "lack · good · can · recount",
+    "natural": "nothing good worth recounting",
+    "meaning": {
+      "en": "Having nothing good worth mentioning; very mediocre.",
+      "zh": "没有什么好的地方值得说，表示平庸。"
+    },
+    "equivalents": [
+      "nothing to write home about",
+      "nothing much to speak of"
+    ],
+    "examples": [
+      {
+        "zh": "这一年公司业绩乏善可陈。",
+        "en": "The company's performance this year was nothing to write home about."
+      },
+      {
+        "zh": "这部电影剧情乏善可陈，只有摄影还不错。",
+        "en": "The plot of the film is unremarkable; only the cinematography is any good."
+      }
+    ],
+    "usage": {
+      "en": "Often misused to mean 'nothing to say' or 'nothing happening'; strictly it means nothing good to report. Formal.",
+      "zh": "常被误用为“没什么可说的”或“没有什么事发生”；本义是没有值得称道的优点。较正式。"
+    },
+    "synonyms": [
+      "平淡无奇"
+    ],
+    "antonyms": [
+      "可圈可点",
+      "蔚为大观"
+    ]
+  },
+  {
+    "id": "shou-xia-bai-jiang",
+    "text": "手下败将",
+    "pinyin": "shǒu xià bài jiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "defeat-and-military-failure"
+    ],
+    "literal": "hand · under · defeated · general",
+    "natural": "a general beaten by one's hand",
+    "meaning": {
+      "en": "An opponent one has beaten before.",
+      "zh": "曾被自己打败过的对手。"
+    },
+    "equivalents": [
+      "someone I've beaten before",
+      "a vanquished foe"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的手下败将，这次我不会输。",
+        "en": "He is someone I've beaten before, and I won't lose this time."
+      },
+      {
+        "zh": "别小看这个手下败将，他已经苦练了一年。",
+        "en": "Don't underestimate this old rival; he has trained hard for a year."
+      }
+    ],
+    "usage": {
+      "en": "Often used boastfully or teasingly. Not about one's own defeat; compare 败军之将.",
+      "zh": "常带夸耀或调侃。指被自己打败的人，与“败军之将”不同。"
+    },
+    "synonyms": [
+      "败军之将"
+    ],
+    "antonyms": [
+      "常胜将军"
+    ]
+  },
+  {
+    "id": "chui-gong-er-zhi",
+    "text": "垂拱而治",
+    "pinyin": "chuí gǒng ér zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "good-governance",
+      "leadership-and-authority"
+    ],
+    "literal": "hang · fold hands · and · govern",
+    "natural": "govern with hands folded",
+    "meaning": {
+      "en": "To rule effectively without active intervention.",
+      "zh": "不用亲自操劳，天下就能治理好。"
+    },
+    "equivalents": [
+      "rule by example without interfering",
+      "lead from the back"
+    ],
+    "examples": [
+      {
+        "zh": "他主张君主应垂拱而治，把具体事务交给大臣。",
+        "en": "He argued that a ruler should govern with folded hands and leave the details to his ministers."
+      },
+      {
+        "zh": "公司已有完善制度，老板可以垂拱而治。",
+        "en": "The company has a sound system, so the boss can lead without meddling."
+      }
+    ],
+    "usage": {
+      "en": "Literary; the image is a ruler sitting with sleeves hanging and hands folded. Associated with the Daoist idea of 无为而治.",
+      "zh": "书面语，形象是君主垂衣拱手而坐。与道家“无为而治”相近。"
+    },
+    "synonyms": [
+      "无为而治"
+    ],
+    "antonyms": [
+      "事必躬亲"
+    ]
+  },
+  {
+    "id": "si-lu-yi-tiao",
+    "text": "死路一条",
+    "pinyin": "sǐ lù yī tiáo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "dead-ends-and-desperation",
+      "danger"
+    ],
+    "literal": "dead · road · one · strip",
+    "natural": "a road that ends in death",
+    "meaning": {
+      "en": "A hopeless course that can only end in disaster.",
+      "zh": "没有出路，只能走向灭亡。"
+    },
+    "equivalents": [
+      "a dead end",
+      "sheer suicide",
+      "doomed"
+    ],
+    "examples": [
+      {
+        "zh": "没有执照就开店，只有死路一条。",
+        "en": "Opening a shop with no licence is a dead end."
+      },
+      {
+        "zh": "现在放弃，对我们来说就是死路一条。",
+        "en": "Giving up now would be the end of us."
+      }
+    ],
+    "usage": {
+      "en": "Casual. Often used as a warning or exaggeration. Often the object of 走 or 只有.",
+      "zh": "口语，常用作警告或夸张，常与“走”“只有”搭配。"
+    },
+    "synonyms": [
+      "在劫难逃"
+    ],
+    "antonyms": [
+      "必由之路"
+    ]
+  },
+  {
+    "id": "dao-qiang-ru-ku",
+    "text": "刀枪入库",
+    "pinyin": "dāo qiāng rù kù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "peace-and-prosperity"
+    ],
+    "literal": "sabres · spears · into · armoury",
+    "natural": "weapons put into storage",
+    "meaning": {
+      "en": "To end war and return to peace.",
+      "zh": "把兵器收入仓库，指战争结束，恢复和平。"
+    },
+    "equivalents": [
+      "beat swords into ploughshares",
+      "lay down arms"
+    ],
+    "examples": [
+      {
+        "zh": "战争结束后，刀枪入库，百姓终于能安居乐业。",
+        "en": "After the war ended and arms were put away, ordinary people could live in peace again."
+      },
+      {
+        "zh": "盼望世界各国早日刀枪入库。",
+        "en": "We hope all countries will lay down their weapons soon."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 马放南山.",
+      "zh": "常与“马放南山”并用。"
+    },
+    "synonyms": [
+      "马放南山"
+    ],
+    "antonyms": [
+      "厉兵秣马"
+    ]
+  },
+  {
+    "id": "shen-xian-ling-yu",
+    "text": "身陷囹圄",
+    "pinyin": "shēn xiàn líng yǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "body · fall into · prison · jail",
+    "natural": "landing in prison",
+    "meaning": {
+      "en": "To be locked up in prison.",
+      "zh": "被关进监狱。"
+    },
+    "equivalents": [
+      "end up behind bars",
+      "be thrown into prison"
+    ],
+    "examples": [
+      {
+        "zh": "他因贪污案身陷囹圄，一世英名毁于一旦。",
+        "en": "He ended up in jail over a corruption case and his reputation was destroyed in one blow."
+      },
+      {
+        "zh": "身陷囹圄多年，他始终坚持申诉。",
+        "en": "Though jailed for years, he never stopped appealing."
+      }
+    ],
+    "usage": {
+      "en": "Formal or literary. 囹圄 is an old word for prison.",
+      "zh": "正式或书面语。“囹圄”是监狱的古称。"
+    },
+    "synonyms": [
+      "锒铛入狱",
+      "铁窗生涯"
+    ],
+    "antonyms": [
+      "全身而退"
+    ]
+  },
+  {
+    "id": "duo-zi-duo-fu",
+    "text": "多子多福",
+    "pinyin": "duō zǐ duō fú",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "festive-greetings",
+      "wedding-wishes"
+    ],
+    "literal": "many · sons · many · blessings",
+    "natural": "many sons, many blessings",
+    "meaning": {
+      "en": "The traditional belief that having many children brings good fortune.",
+      "zh": "旧时认为孩子多就福气多。"
+    },
+    "equivalents": [
+      "the more children the more blessings",
+      "a big family is a blessed one"
+    ],
+    "examples": [
+      {
+        "zh": "老一辈信奉多子多福，现在年轻人观念变了。",
+        "en": "The older generation believed in many children, many blessings; young people think differently now."
+      },
+      {
+        "zh": "在农村，多子多福曾是很普遍的想法。",
+        "en": "In the countryside, 'many sons, many blessings' used to be a common idea."
+      }
+    ],
+    "usage": {
+      "en": "Describes a traditional belief and is often used with a touch of irony today. Used in wedding wishes in the past.",
+      "zh": "多用来说传统观念，今天常带调侃。旧时也用于婚礼祝福。"
+    },
+    "synonyms": [
+      "螽斯衍庆",
+      "早生贵子"
+    ],
+    "antonyms": [
+      "计划生育"
+    ]
+  },
+  {
+    "id": "ming-yu-sao-di",
+    "text": "名誉扫地",
+    "pinyin": "míng yù sǎo dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "reputation · sweep · ground",
+    "natural": "reputation swept to the ground",
+    "meaning": {
+      "en": "To lose one's reputation completely.",
+      "zh": "名声完全丧失。"
+    },
+    "equivalents": [
+      "reputation in tatters",
+      "fall into disgrace"
+    ],
+    "examples": [
+      {
+        "zh": "丑闻曝光后，他名誉扫地。",
+        "en": "After the scandal broke, his reputation was in ruins."
+      },
+      {
+        "zh": "这种做法只会让公司名誉扫地。",
+        "en": "Such conduct will only ruin the company's name."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Often occurs after a scandal.",
+      "zh": "多作谓语，常见于丑闻之后。"
+    },
+    "synonyms": [
+      "身败名裂",
+      "斯文扫地"
+    ],
+    "antonyms": [
+      "身价百倍"
+    ]
+  },
+  {
+    "id": "mao-bu-jing-ren",
+    "text": "貌不惊人",
+    "pinyin": "mào bù jīng rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "looks · not · startle · people",
+    "natural": "looks that don't startle anyone",
+    "meaning": {
+      "en": "Of unremarkable appearance.",
+      "zh": "相貌平平，不引人注意。"
+    },
+    "equivalents": [
+      "unprepossessing",
+      "plain-looking"
+    ],
+    "examples": [
+      {
+        "zh": "这位貌不惊人的老人，其实是著名的数学家。",
+        "en": "This unremarkable-looking old man is in fact a famous mathematician."
+      },
+      {
+        "zh": "她貌不惊人，却有一副好嗓子。",
+        "en": "She is plain to look at but has a fine voice."
+      }
+    ],
+    "usage": {
+      "en": "Often contrasts with remarkable ability, as in 貌不惊人，才华出众.",
+      "zh": "常与出众的才华对照，如“貌不惊人，才华出众”。"
+    },
+    "synonyms": [
+      "其貌不扬"
+    ],
+    "antonyms": [
+      "国色天香"
+    ]
+  },
+  {
+    "id": "jing-shui-liu-shen",
+    "text": "静水流深",
+    "pinyin": "jìng shuǐ liú shēn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "still · water · flow · deep",
+    "natural": "still water runs deep",
+    "meaning": {
+      "en": "A quiet, calm person may have great depth, wisdom or strength.",
+      "zh": "外表平静的人，往往内心有很深的修养或力量。"
+    },
+    "equivalents": [
+      "still waters run deep",
+      "a quiet surface hides great depths"
+    ],
+    "examples": [
+      {
+        "zh": "他沉默寡言，却是静水流深，关键时刻总有办法。",
+        "en": "He says little, but still waters run deep: at critical moments he always finds a way."
+      },
+      {
+        "zh": "真正厉害的人往往静水流深，不爱张扬。",
+        "en": "Truly capable people often have quiet depth and don't show off."
+      }
+    ],
+    "usage": {
+      "en": "Widely used in modern Chinese, and matches the English proverb 'still waters run deep'. Often praises a modest, thoughtful person.",
+      "zh": "现代汉语中广泛使用，与英语谚语“still waters run deep”相当。常用来称赞谦逊深沉的人。"
+    },
+    "synonyms": [
+      "会咬人的狗不叫",
+      "于无声处听惊雷"
+    ],
+    "antonyms": [
+      "半瓶醋"
+    ]
+  },
+  {
+    "id": "xin-gan-bao-bei",
+    "text": "心肝宝贝",
+    "pinyin": "xīn gān bǎo bèi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "love-and-marriage"
+    ],
+    "literal": "heart · liver · treasure · cowrie",
+    "natural": "heart, liver and treasure",
+    "meaning": {
+      "en": "A term of endearment for a much-loved person, especially a child.",
+      "zh": "对非常宠爱的人（多指孩子）的亲昵称呼。"
+    },
+    "equivalents": [
+      "darling",
+      "the apple of one's eye",
+      "sweetheart"
+    ],
+    "examples": [
+      {
+        "zh": "孙子是爷爷的心肝宝贝。",
+        "en": "The grandson is his grandfather's darling."
+      },
+      {
+        "zh": "别哭了，我的心肝宝贝。",
+        "en": "Don't cry, my darling."
+      }
+    ],
+    "usage": {
+      "en": "Used as address or description. Warm, casual and family-oriented.",
+      "zh": "可作称呼，也可作描述，语气亲昵，多用于家人之间。"
+    },
+    "synonyms": [
+      "掌上明珠",
+      "贾宝玉的玉——命根子"
+    ],
+    "antonyms": [
+      "眼中钉"
+    ]
+  },
+  {
+    "id": "yi-wu-ke-qu",
+    "text": "一无可取",
+    "pinyin": "yī wú kě qǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "common-and-worthless"
+    ],
+    "literal": "one · not · can · take",
+    "natural": "nothing worth taking",
+    "meaning": {
+      "en": "To have no redeeming feature at all.",
+      "zh": "没有一点值得肯定的地方。"
+    },
+    "equivalents": [
+      "completely without merit",
+      "nothing to recommend it"
+    ],
+    "examples": [
+      {
+        "zh": "评委认为这篇论文一无可取。",
+        "en": "The judges considered that paper without any merit."
+      },
+      {
+        "zh": "他把自己说得一无可取，其实很有才能。",
+        "en": "He talks himself down as if he had no merit, yet he is very talented."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Strongly critical; avoid when speaking of people to their face.",
+      "zh": "多作谓语，批评意味强，不宜当面评价人。"
+    },
+    "synonyms": [
+      "一无是处",
+      "一无所长"
+    ],
+    "antonyms": [
+      "可圈可点",
+      "可取之处"
+    ]
+  },
+  {
+    "id": "jue-bi-huo-lin",
+    "text": "绝笔获麟",
+    "pinyin": "jué bǐ huò lín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "abrupt-endings",
+      "stories"
+    ],
+    "literal": "end · writing · catch · qilin",
+    "natural": "the brush laid down at the capture of the qilin",
+    "meaning": {
+      "en": "To end one's writing at a significant point; the final work of a person's life.",
+      "zh": "停止写作，指著作到此为止，也指人生最后的作品。"
+    },
+    "equivalents": [
+      "one's swansong",
+      "lay down the pen for good"
+    ],
+    "examples": [
+      {
+        "zh": "这部遗稿便是他的绝笔获麟之作。",
+        "en": "This unfinished manuscript was his final work."
+      },
+      {
+        "zh": "诗人病重之际作《临终诗》，堪称绝笔获麟。",
+        "en": "The poet wrote his last poem when gravely ill, truly his final line."
+      }
+    ],
+    "usage": {
+      "en": "Literary. 麟 is the qilin, a legendary beast; the Spring and Autumn Annals ends with the capture of a qilin, hence 获麟 and 西狩获麟 for a final work.",
+      "zh": "书面语。“麟”指麒麟，《春秋》以“西狩获麟”收尾，所以“获麟”用来指最后的著作。"
+    },
+    "synonyms": [
+      "获麟之叹",
+      "西狩获麟"
+    ],
+    "antonyms": [
+      "开宗明义"
+    ]
+  },
+  {
+    "id": "yong-er-wu-mou",
+    "text": "勇而无谋",
+    "pinyin": "yǒng ér wú móu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "brave · yet · no · strategy",
+    "natural": "brave but without a plan",
+    "meaning": {
+      "en": "Bold but lacking judgement and strategy.",
+      "zh": "有勇气，但没有计谋。"
+    },
+    "equivalents": [
+      "brave but foolhardy",
+      "more brawn than brains"
+    ],
+    "examples": [
+      {
+        "zh": "他勇而无谋，冲进去才发现中了埋伏。",
+        "en": "He was brave but thoughtless and rushed in only to find it was an ambush."
+      },
+      {
+        "zh": "创业不能勇而无谋，要先做调研。",
+        "en": "Starting a business can't be bold without a plan; do research first."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Compare 有勇有谋 (brave and resourceful).",
+      "zh": "多作谓语、定语。与“有勇有谋”相对。"
+    },
+    "synonyms": [
+      "有勇无谋",
+      "匹夫之勇"
+    ],
+    "antonyms": [
+      "有勇有谋",
+      "天下有大勇者，卒然临之而不惊，无故加之而不怒"
+    ]
+  },
+  {
+    "id": "tuo-jia-dai-kou",
+    "text": "拖家带口",
+    "pinyin": "tuō jiā dài kǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "journeys-and-exploration"
+    ],
+    "literal": "drag · family · bring · mouths",
+    "natural": "dragging the family along",
+    "meaning": {
+      "en": "To have a whole family in tow, with the burden that implies.",
+      "zh": "带着全家老小，负担很重。"
+    },
+    "equivalents": [
+      "with the whole family in tow",
+      "with a family to support"
+    ],
+    "examples": [
+      {
+        "zh": "他拖家带口，不敢轻易辞职。",
+        "en": "With a family to support, he dares not resign lightly."
+      },
+      {
+        "zh": "春节拖家带口回老家，路上很辛苦。",
+        "en": "Going home at the New Year with the whole family in tow is exhausting."
+      }
+    ],
+    "usage": {
+      "en": "Casual; may imply hardship. Used of moving, travelling or supporting.",
+      "zh": "口语，常暗含辛苦，可用于搬家、出行、养家。"
+    },
+    "synonyms": [
+      "扶老携幼",
+      "妻儿老小"
+    ],
+    "antonyms": [
+      "孑然一身",
+      "单身一人"
+    ]
+  },
+  {
+    "id": "hu-fu-quan-zi",
+    "text": "虎父犬子",
+    "pinyin": "hǔ fù quǎn zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "tiger · father · dog · son",
+    "natural": "a tiger father and a dog son",
+    "meaning": {
+      "en": "A distinguished father with an unworthy son.",
+      "zh": "父亲很出色，儿子却不成器。"
+    },
+    "equivalents": [
+      "a chip off the wrong block",
+      "the great man's disappointing son"
+    ],
+    "examples": [
+      {
+        "zh": "老板精明能干，儿子却是虎父犬子。",
+        "en": "The boss is shrewd and capable, but his son falls far short."
+      },
+      {
+        "zh": "别让孩子背着虎父犬子的名声。",
+        "en": "Don't let the child carry the reputation of being an unworthy son of a great father."
+      }
+    ],
+    "usage": {
+      "en": "A reversal of the proverb 虎父无犬子; usually sarcastic or critical, and can hurt, so use carefully.",
+      "zh": "由“虎父无犬子”反说而来，多含讽刺或批评，可能伤人，需谨慎。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "虎父无犬子",
+      "老子英雄儿好汉"
+    ]
+  },
+  {
+    "id": "cu-xi-chang-tan",
+    "text": "促膝长谈",
+    "pinyin": "cù xī cháng tán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship"
+    ],
+    "literal": "close · knees · long · talk",
+    "natural": "a long talk knee to knee",
+    "meaning": {
+      "en": "To sit close together and talk at length and intimately.",
+      "zh": "彼此坐得很近，亲切地长时间交谈。"
+    },
+    "equivalents": [
+      "have a long heart-to-heart",
+      "sit down for a long talk"
+    ],
+    "examples": [
+      {
+        "zh": "毕业前夜，室友们促膝长谈，直到天亮。",
+        "en": "On the night before graduation, the roommates talked at length until dawn."
+      },
+      {
+        "zh": "我想和您促膝长谈一次。",
+        "en": "I would like to have a long heart-to-heart with you."
+      }
+    ],
+    "usage": {
+      "en": "Warm. Describes intimate conversation between friends, family or teacher and student.",
+      "zh": "语气亲切，指朋友、家人、师生之间的深入交谈。"
+    },
+    "synonyms": [
+      "推心置腹",
+      "娓娓而谈",
+      "秉烛夜谈"
+    ],
+    "antonyms": [
+      "打个照面",
+      "俞伯牙摔琴——不谈（弹）了"
+    ]
+  },
+  {
+    "id": "shuo-yi-tao-zuo-yi-tao",
+    "text": "说一套做一套",
+    "pinyin": "shuō yī tào zuò yī tào",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "say · one · set · do · one · set",
+    "natural": "say one thing, do another",
+    "meaning": {
+      "en": "To say one thing but do something else.",
+      "zh": "嘴上说的和实际做的不一样。"
+    },
+    "equivalents": [
+      "say one thing and do another",
+      "not practise what one preaches"
+    ],
+    "examples": [
+      {
+        "zh": "他说一套做一套，没人再信他了。",
+        "en": "He says one thing and does another, and no one trusts him any more."
+      },
+      {
+        "zh": "领导不能说一套做一套，要以身作则。",
+        "en": "Leaders must not say one thing and do another; they must set an example."
+      }
+    ],
+    "usage": {
+      "en": "Casual; critical. Often paired with 表里不一 or 言行不一.",
+      "zh": "口语，含批评，常与“言行不一”并用。"
+    },
+    "synonyms": [
+      "言行不一",
+      "口是心非"
+    ],
+    "antonyms": [
+      "言传身教",
+      "以身作则",
+      "身教胜于言教"
+    ]
+  },
+  {
+    "id": "xu-mei-zhuo-wu",
+    "text": "须眉浊物",
+    "pinyin": "xū méi zhuó wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "stories",
+      "appearance"
+    ],
+    "literal": "beard · brows · muddy · creature",
+    "natural": "a muddy creature with beard and eyebrows",
+    "meaning": {
+      "en": "A dismissive term for men, as coarse and unrefined.",
+      "zh": "对男子的蔑称，认为男人粗俗、污浊。"
+    },
+    "equivalents": [
+      "a coarse, muddy male creature",
+      "men as dirt, in Baoyu's view"
+    ],
+    "examples": [
+      {
+        "zh": "宝玉常说女孩子清净，须眉浊物不值一提。",
+        "en": "Baoyu often said that girls are pure and men, those muddy creatures, are not worth mentioning."
+      },
+      {
+        "zh": "她打趣道：“你们这些须眉浊物，哪里懂得女儿心？”",
+        "en": "She teased, 'You muddy creatures, what do you know of a girl's heart?'"
+      }
+    ],
+    "usage": {
+      "en": "Associated with Jia Baoyu, the hero of Dream of the Red Chamber, who held that women are made of water and men of mud. Now used jokingly, mostly by women about men.",
+      "zh": "与《红楼梦》中贾宝玉的看法有关：女儿是水做的，男人是泥做的。今多为女子打趣男子。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "女儿是水做的骨肉",
+      "巾帼英雄"
+    ]
+  },
+  {
+    "id": "fan-yan-zhi-jian",
+    "text": "犯颜直谏",
+    "pinyin": "fàn yán zhí jiàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "frankness-and-candour",
+      "good-governance"
+    ],
+    "literal": "offend · face · direct · remonstrate",
+    "natural": "remonstrate openly, risking the ruler's anger",
+    "meaning": {
+      "en": "To advise a ruler or superior frankly at the risk of offending them.",
+      "zh": "冒着触怒君主或上级的风险，直言劝谏。"
+    },
+    "equivalents": [
+      "speak truth to power",
+      "tell a superior frankly to his face"
+    ],
+    "examples": [
+      {
+        "zh": "魏征敢于犯颜直谏，是唐太宗的良臣。",
+        "en": "Wei Zheng dared to speak plainly to the emperor, and was a fine minister to Taizong."
+      },
+      {
+        "zh": "好下属要敢于犯颜直谏。",
+        "en": "A good subordinate must dare to speak out frankly."
+      }
+    ],
+    "usage": {
+      "en": "Formal; historical flavour. Used of loyal officials and today of employees who speak out.",
+      "zh": "较正式，有历史色彩。指忠臣，今也指敢于直言的下属。"
+    },
+    "synonyms": [
+      "直言极谏",
+      "面折廷争"
+    ],
+    "antonyms": [
+      "阿谀奉承",
+      "唯唯诺诺"
+    ]
+  },
+  {
+    "id": "fan-lian-bu-ren-ren",
+    "text": "翻脸不认人",
+    "pinyin": "fān liǎn bù rèn rén",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal"
+    ],
+    "literal": "turn · face · not · recognise · person",
+    "natural": "turn one's face and not know you",
+    "meaning": {
+      "en": "To turn on someone abruptly and disown them, even a friend or benefactor.",
+      "zh": "突然翻脸，连熟人、恩人也不认。"
+    },
+    "equivalents": [
+      "turn on someone",
+      "drop someone like a hot potato"
+    ],
+    "examples": [
+      {
+        "zh": "他发达后就翻脸不认人，把老朋友都忘了。",
+        "en": "Once he became rich he turned his back on his old friends."
+      },
+      {
+        "zh": "她生起气来翻脸不认人。",
+        "en": "When angry, she turns on everyone and disowns them."
+      }
+    ],
+    "usage": {
+      "en": "Casual; critical. Sometimes in the longer form 翻脸不认人，六亲不认.",
+      "zh": "口语，含批评。有时说“翻脸不认人，六亲不认”。"
+    },
+    "synonyms": [
+      "六亲不认",
+      "反目成仇"
+    ],
+    "antonyms": [
+      "知恩图报",
+      "念旧情"
+    ]
+  }
+]

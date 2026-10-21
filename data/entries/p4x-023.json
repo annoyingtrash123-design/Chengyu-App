@@ -1,0 +1,979 @@
+[
+  {
+    "id": "li-shi-zong-shi-jing-ren-de-xiang-si",
+    "text": "历史总是惊人的相似",
+    "pinyin": "lì shǐ zǒng shì jīng rén de xiāng sì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "history · always · astonishingly · 's · similar",
+    "natural": "history is always strikingly alike",
+    "meaning": {
+      "en": "Events of the past tend to repeat themselves in new forms.",
+      "zh": "过去发生的事情常常以新的形式重演。"
+    },
+    "equivalents": [
+      "history repeats itself",
+      "what goes around comes around"
+    ],
+    "examples": [
+      {
+        "zh": "股市泡沫破裂，历史总是惊人的相似。",
+        "en": "The stock bubble burst; history is always strikingly similar."
+      },
+      {
+        "zh": "读史才知道，历史总是惊人的相似。",
+        "en": "Only by reading history do you learn how alike it keeps turning out."
+      }
+    ],
+    "usage": {
+      "en": "A modern saying; commonly used in commentary on economics and politics. Not a quotation from a classical text.",
+      "zh": "现代常用语，多用于时评、经济与政治评论，并非出自古籍。"
+    },
+    "synonyms": [
+      "太阳底下无新事",
+      "历史重演"
+    ],
+    "antonyms": [
+      "今非昔比",
+      "前所未有"
+    ]
+  },
+  {
+    "id": "gu-yi-you-zhi",
+    "text": "古已有之",
+    "pinyin": "gǔ yǐ yǒu zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "unprecedented-situations"
+    ],
+    "literal": "ancient times · already · have · it",
+    "natural": "it already existed in ancient times",
+    "meaning": {
+      "en": "Something that people think is new has in fact existed since long ago.",
+      "zh": "某事物并非新鲜，古代就已经有了。"
+    },
+    "equivalents": [
+      "nothing new under the sun",
+      "it's been around for ages"
+    ],
+    "examples": [
+      {
+        "zh": "所谓网络诈骗，其实古已有之，只是手段不同。",
+        "en": "So-called online fraud has existed for ages; only the methods differ."
+      },
+      {
+        "zh": "互相攀比之风，古已有之。",
+        "en": "The habit of keeping up with the Joneses is nothing new."
+      }
+    ],
+    "usage": {
+      "en": "Often a dry comment deflating claims of novelty.",
+      "zh": "常带有“并不新鲜”的淡淡调侃。"
+    },
+    "synonyms": [
+      "太阳底下无新事",
+      "由来已久"
+    ],
+    "antonyms": [
+      "前所未有",
+      "史无前例"
+    ]
+  },
+  {
+    "id": "shi-wai-gao-ren",
+    "text": "世外高人",
+    "pinyin": "shì wài gāo rén",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "solitude-and-isolation"
+    ],
+    "literal": "world · outside · lofty · person",
+    "natural": "a master from beyond the world",
+    "meaning": {
+      "en": "A highly gifted person living apart from worldly affairs, as in martial-arts stories.",
+      "zh": "超脱尘世、本领高超的隐居者，常见于武侠小说。"
+    },
+    "equivalents": [
+      "a hermit master",
+      "a sage living apart"
+    ],
+    "examples": [
+      {
+        "zh": "传说山里住着一位世外高人。",
+        "en": "Legend says a hermit master lives in the mountains."
+      },
+      {
+        "zh": "他一副世外高人的模样，不问世事。",
+        "en": "He looks like a recluse sage, aloof from worldly matters."
+      }
+    ],
+    "usage": {
+      "en": "Also used jokingly of someone surprisingly talented and low-key.",
+      "zh": "也可戏称深藏不露、本领出众的人。"
+    },
+    "synonyms": [
+      "方外之人",
+      "隐世高人"
+    ],
+    "antonyms": [
+      "凡夫俗子",
+      "俗人"
+    ]
+  },
+  {
+    "id": "ji-qing-shan-shui",
+    "text": "寄情山水",
+    "pinyin": "jì qíng shān shuǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "relaxation-and-rest",
+      "freedom"
+    ],
+    "literal": "lodge · feeling · mountains · waters",
+    "natural": "entrust one's feelings to mountains and streams",
+    "meaning": {
+      "en": "To find comfort and spiritual release in the beauty of nature.",
+      "zh": "把情怀寄托在山水之间，以自然风光抒怀排忧。"
+    },
+    "equivalents": [
+      "find solace in nature",
+      "lose oneself in the landscape"
+    ],
+    "examples": [
+      {
+        "zh": "退休后，他寄情山水，游遍名山大川。",
+        "en": "After retiring he found joy in nature and toured famous mountains and rivers."
+      },
+      {
+        "zh": "失意的诗人常寄情山水。",
+        "en": "Disappointed poets often turned to landscape for solace."
+      }
+    ],
+    "usage": {
+      "en": "Literary; fits retirees, poets and travel writing.",
+      "zh": "偏书面，多用于退休者、诗人及游记。"
+    },
+    "synonyms": [
+      "流连山水",
+      "仁者乐山，智者乐水",
+      "啸傲山林"
+    ],
+    "antonyms": [
+      "汲汲于名利",
+      "醉生梦死"
+    ]
+  },
+  {
+    "id": "e-shi-chuan-qian-li",
+    "text": "恶事传千里",
+    "pinyin": "è shì chuán qiān lǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "public-opinion",
+      "bad-fortune"
+    ],
+    "literal": "bad · deed · spread · thousand · li",
+    "natural": "bad news travels a thousand li",
+    "meaning": {
+      "en": "Scandals and bad news spread far and fast.",
+      "zh": "坏事、丑闻传播得又快又远。"
+    },
+    "equivalents": [
+      "bad news travels fast",
+      "ill news flies apace"
+    ],
+    "examples": [
+      {
+        "zh": "恶事传千里，一出丑闻，全城都知道了。",
+        "en": "Bad news travels fast; once the scandal broke, the whole city knew."
+      },
+      {
+        "zh": "做生意要小心，恶事传千里。",
+        "en": "Be careful in business; word of bad dealings travels far."
+      }
+    ],
+    "usage": {
+      "en": "The full saying is 好事不出门，恶事传千里. Used as a warning about reputation.",
+      "zh": "完整说法为“好事不出门，恶事传千里”，多用来提醒注意名声。"
+    },
+    "synonyms": [
+      "好事不出门，坏事传千里",
+      "纸包不住火"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "秘而不宣"
+    ]
+  },
+  {
+    "id": "chan-mian-bing-ta",
+    "text": "缠绵病榻",
+    "pinyin": "chán mián bìng tà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "illness-and-disease",
+      "poor-health"
+    ],
+    "literal": "entangled · lingering · sick · couch",
+    "natural": "bound to a sickbed",
+    "meaning": {
+      "en": "To be bedridden for a long time by a lingering illness.",
+      "zh": "长期被疾病缠身，卧床不起。"
+    },
+    "equivalents": [
+      "be laid up for a long time",
+      "bedridden by illness"
+    ],
+    "examples": [
+      {
+        "zh": "老人缠绵病榻多年，全靠家人照顾。",
+        "en": "The old man has been bedridden for years, cared for by his family."
+      },
+      {
+        "zh": "她晚年缠绵病榻，仍坚持写作。",
+        "en": "She was ill in bed through her last years yet kept writing."
+      }
+    ],
+    "usage": {
+      "en": "Formal and a little literary; used in news and biographies.",
+      "zh": "较正式，略带书面色彩，常见于新闻与传记。"
+    },
+    "synonyms": [
+      "卧病在床",
+      "病来如山倒，病去如抽丝",
+      "一病不起"
+    ],
+    "antonyms": [
+      "身强体健",
+      "康复如初"
+    ]
+  },
+  {
+    "id": "yi-shi-ji-qi-qian-ceng-lang",
+    "text": "一石激起千层浪",
+    "pinyin": "yī shí jī qǐ qiān céng làng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "chain-reactions",
+      "public-opinion"
+    ],
+    "literal": "one · stone · stir up · thousand · layers · waves",
+    "natural": "one stone stirs a thousand ripples",
+    "meaning": {
+      "en": "A single remark or event sets off wide and strong reactions.",
+      "zh": "一句话或一件事引起强烈而广泛的反响。"
+    },
+    "equivalents": [
+      "send shock waves",
+      "set off a chain reaction"
+    ],
+    "examples": [
+      {
+        "zh": "他的一条微博一石激起千层浪，引发热烈讨论。",
+        "en": "One of his posts set off a wave of heated discussion."
+      },
+      {
+        "zh": "新政策一出，一石激起千层浪。",
+        "en": "The new policy sent ripples across the whole society."
+      }
+    ],
+    "usage": {
+      "en": "Common in news headlines; neutral about whether the reaction is good or bad.",
+      "zh": "常见于新闻标题，对反响好坏不作判断。"
+    },
+    "synonyms": [
+      "拔出萝卜带出泥",
+      "牵一发而动全身",
+      "轩然大波"
+    ],
+    "antonyms": [
+      "波澜不惊",
+      "无人问津"
+    ]
+  },
+  {
+    "id": "pao-qi-qi-zi",
+    "text": "抛妻弃子",
+    "pinyin": "pāo qī qì zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "parenting-and-family"
+    ],
+    "literal": "cast off · wife · abandon · child",
+    "natural": "abandon wife and child",
+    "meaning": {
+      "en": "To desert one's wife and children.",
+      "zh": "抛弃妻子和孩子，不尽家庭责任。"
+    },
+    "equivalents": [
+      "abandon one's family",
+      "desert wife and children"
+    ],
+    "examples": [
+      {
+        "zh": "他为了前程抛妻弃子，遭到众人唾弃。",
+        "en": "He abandoned his wife and child for his career and was shunned."
+      },
+      {
+        "zh": "抛妻弃子的行为触犯了法律与道德。",
+        "en": "Deserting one's family breaks both law and morality."
+      }
+    ],
+    "usage": {
+      "en": "Strong moral condemnation.",
+      "zh": "谴责意味强烈。"
+    },
+    "synonyms": [
+      "始乱终弃",
+      "弃家不顾"
+    ],
+    "antonyms": [
+      "可怜天下父母心",
+      "不离不弃"
+    ]
+  },
+  {
+    "id": "mao-tou-xiao-zi",
+    "text": "毛头小子",
+    "pinyin": "máo tóu xiǎo zi",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "foolishness-and-ignorance"
+    ],
+    "literal": "fuzzy · head · little · fellow",
+    "natural": "a young fellow with fluff on his head",
+    "meaning": {
+      "en": "A green young man, inexperienced and sometimes rash.",
+      "zh": "没有经验、有时冒失的年轻小伙子。"
+    },
+    "equivalents": [
+      "greenhorn",
+      "wet-behind-the-ears youngster"
+    ],
+    "examples": [
+      {
+        "zh": "别看他是毛头小子，干活可不含糊。",
+        "en": "Don't let the greenhorn fool you; he works well."
+      },
+      {
+        "zh": "当年我也是个毛头小子，什么都不懂。",
+        "en": "Back then I was a green lad who knew nothing."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; can be belittling or fond, depending on tone.",
+      "zh": "口语，视语气可带轻视或亲切。"
+    },
+    "synonyms": [
+      "黄口小儿",
+      "初出茅庐",
+      "乳臭未干"
+    ],
+    "antonyms": [
+      "老成持重",
+      "久经沙场"
+    ]
+  },
+  {
+    "id": "tian-du-hong-yan",
+    "text": "天妒红颜",
+    "pinyin": "tiān dù hóng yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "bad-fortune",
+      "sadness-and-despair"
+    ],
+    "literal": "Heaven · envy · rosy · face",
+    "natural": "Heaven envies beauty",
+    "meaning": {
+      "en": "The idea that a beautiful woman is fated to die young or suffer a hard life.",
+      "zh": "老天嫉妒美丽的女子，使她早逝或命运坎坷。"
+    },
+    "equivalents": [
+      "the beautiful die young",
+      "fate envies beauty"
+    ],
+    "examples": [
+      {
+        "zh": "这位女演员英年早逝，人们感叹天妒红颜。",
+        "en": "The actress died young, and people sighed that Heaven envies beauty."
+      },
+      {
+        "zh": "诗中悼念爱人，慨叹天妒红颜。",
+        "en": "The poem mourns a beloved and laments that Heaven envies beauty."
+      }
+    ],
+    "usage": {
+      "en": "A traditional trope, used in condolences and fiction; modern readers often find it sentimental.",
+      "zh": "传统感叹，用于悼念与文学，现代人视其为感伤的说法。"
+    },
+    "synonyms": [
+      "红颜薄命",
+      "佳人薄命"
+    ],
+    "antonyms": [
+      "福寿双全",
+      "红颜不老"
+    ]
+  },
+  {
+    "id": "li-san-ceng-wai-san-ceng",
+    "text": "里三层外三层",
+    "pinyin": "lǐ sān céng wài sān céng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "numbers"
+    ],
+    "literal": "inside · three · layers · outside · three · layers",
+    "natural": "three layers inside and three outside",
+    "meaning": {
+      "en": "Crowded around in many tight rings of people or layers.",
+      "zh": "围得一圈又一圈，形容人多或包裹得严实。"
+    },
+    "equivalents": [
+      "packed in ring after ring",
+      "surrounded by a thick crowd"
+    ],
+    "examples": [
+      {
+        "zh": "展台前围着里三层外三层的观众。",
+        "en": "Spectators stood in thick rings around the stand."
+      },
+      {
+        "zh": "他怕冷，把自己裹得里三层外三层。",
+        "en": "He feels the cold and wraps himself in layer upon layer."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; about crowds or wrapping.",
+      "zh": "口语，可形容人群或层层包裹。"
+    },
+    "synonyms": [
+      "观者如堵",
+      "水泄不通"
+    ],
+    "antonyms": [
+      "寥寥无几",
+      "门可罗雀"
+    ]
+  },
+  {
+    "id": "zi-qu-qi-ru",
+    "text": "自取其辱",
+    "pinyin": "zì qǔ qí rǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "natural-consequences",
+      "mistakes-and-correction"
+    ],
+    "literal": "oneself · bring · one's · disgrace",
+    "natural": "bring disgrace on oneself",
+    "meaning": {
+      "en": "To invite humiliation through one's own behaviour.",
+      "zh": "自己招来羞辱。"
+    },
+    "equivalents": [
+      "bring shame on oneself",
+      "make a fool of oneself"
+    ],
+    "examples": [
+      {
+        "zh": "明知实力悬殊还去挑战，岂不是自取其辱？",
+        "en": "Challenging them despite the gap in strength is just asking for humiliation."
+      },
+      {
+        "zh": "你再胡搅蛮缠，只会自取其辱。",
+        "en": "If you keep making trouble you will only humiliate yourself."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often a warning.",
+      "zh": "多作谓语，常作警告。"
+    },
+    "synonyms": [
+      "自讨没趣",
+      "自食其果",
+      "自找苦吃"
+    ],
+    "antonyms": [
+      "自重",
+      "体面"
+    ]
+  },
+  {
+    "id": "lai-ri-wu-duo",
+    "text": "来日无多",
+    "pinyin": "lái rì wú duō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "sadness-and-despair",
+      "experience-and-old-age"
+    ],
+    "literal": "coming · days · not · many",
+    "natural": "not many days to come",
+    "meaning": {
+      "en": "Little time left to live or little time remaining.",
+      "zh": "剩下的日子不多了。"
+    },
+    "equivalents": [
+      "one's days are numbered",
+      "not much time left"
+    ],
+    "examples": [
+      {
+        "zh": "医生说他来日无多，家人轮流守护。",
+        "en": "The doctor said his days were numbered and the family took turns at his side."
+      },
+      {
+        "zh": "我来日无多，只想把这本书写完。",
+        "en": "I haven't much time left and only wish to finish this book."
+      }
+    ],
+    "usage": {
+      "en": "Often about old age or illness; solemn.",
+      "zh": "多指年老或重病，语气沉重。"
+    },
+    "synonyms": [
+      "风烛残年",
+      "岌岌可危"
+    ],
+    "antonyms": [
+      "来日方长",
+      "前程万里"
+    ]
+  },
+  {
+    "id": "ju-hua-wei-zhi",
+    "text": "橘化为枳",
+    "pinyin": "jú huà wéi zhǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "change",
+      "natural-consequences",
+      "plant-and-natural-world"
+    ],
+    "literal": "orange · turn into · trifoliate orange",
+    "natural": "an orange turns into a bitter orange",
+    "meaning": {
+      "en": "A thing changes in nature when moved to a different environment.",
+      "zh": "橘子移到别处会变成枳，比喻环境改变事物。"
+    },
+    "equivalents": [
+      "a fish out of water",
+      "change with the surroundings"
+    ],
+    "examples": [
+      {
+        "zh": "制度照搬到别国，往往橘化为枳。",
+        "en": "Copied into another country, a system often changes its nature like the orange turned bitter."
+      },
+      {
+        "zh": "好产品换了市场，可能橘化为枳。",
+        "en": "A good product moved to another market may lose its quality."
+      }
+    ],
+    "usage": {
+      "en": "Literary variant of the idea in 南橘北枳, stressing change through environment.",
+      "zh": "书面语，与“南橘北枳”意思相近，强调环境改变事物。"
+    },
+    "synonyms": [
+      "南橘北枳",
+      "水土不服"
+    ],
+    "antonyms": [
+      "一成不变",
+      "始终如一"
+    ]
+  },
+  {
+    "id": "lu-chun-bu-dui-ma-zui",
+    "text": "驴唇不对马嘴",
+    "pinyin": "lǘ chún bù duì mǎ zuǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-speech-and-silence",
+      "confusion"
+    ],
+    "literal": "donkey · lip · not · match · horse · mouth",
+    "natural": "a donkey's lip doesn't fit a horse's mouth",
+    "meaning": {
+      "en": "Things that do not match or answers that are completely off the point.",
+      "zh": "驴的嘴唇对不上马的嘴，比喻答非所问或两者不相合。"
+    },
+    "equivalents": [
+      "like chalk and cheese",
+      "completely beside the point"
+    ],
+    "examples": [
+      {
+        "zh": "他的回答驴唇不对马嘴。",
+        "en": "His answer was beside the point."
+      },
+      {
+        "zh": "这两段话驴唇不对马嘴，根本连不起来。",
+        "en": "The two passages don't match at all and can't be joined up."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; 牛头不对马嘴 is the more common form of the same idea.",
+      "zh": "口语，意思与更常见的“牛头不对马嘴”相近。"
+    },
+    "synonyms": [
+      "牛头不对马嘴",
+      "风马牛不相及",
+      "答非所问"
+    ],
+    "antonyms": [
+      "丝丝入扣",
+      "对答如流"
+    ]
+  },
+  {
+    "id": "xian-hua-zhuo-jin",
+    "text": "鲜花着锦",
+    "pinyin": "xiān huā zhuó jǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "luxury-and-extravagance",
+      "peace-and-prosperity"
+    ],
+    "literal": "fresh · flowers · set against · brocade",
+    "natural": "fresh flowers set against brocade",
+    "meaning": {
+      "en": "Great splendour and prosperity at its height.",
+      "zh": "鲜艳的花朵配上锦缎，形容极其繁盛兴旺。"
+    },
+    "equivalents": [
+      "at the height of splendour",
+      "flourishing and magnificent"
+    ],
+    "examples": [
+      {
+        "zh": "贾府当时烈火烹油，鲜花着锦。",
+        "en": "The Jia household was then at its blazing, flowery height."
+      },
+      {
+        "zh": "盛典上鲜花着锦，热闹非凡。",
+        "en": "The ceremony was magnificent and full of splendour."
+      }
+    ],
+    "origin": {
+      "source": "清·曹雪芹《红楼梦》第十三回",
+      "story": {
+        "en": "In Chapter 13, Qin Keqing's ghost warns Wang Xifeng that the family's fortunes will soon be 'like oil in a blazing fire, like fresh flowers on brocade' (烈火烹油，鲜花着锦之盛).",
+        "zh": "《红楼梦》第十三回，秦可卿托梦说：“真是烈火烹油、鲜花着锦之盛。”"
+      },
+      "date": {
+        "zh": "清 · 18世纪中叶",
+        "en": "Qing dynasty, mid 18th c."
+      }
+    },
+    "usage": {
+      "en": "Literary; usually paired with 烈火烹油, and often hints that the peak will not last.",
+      "zh": "书面语，常与“烈火烹油”连用，往往暗示盛极而衰。"
+    },
+    "synonyms": [
+      "烈火烹油",
+      "锦上添花",
+      "花团锦簇"
+    ],
+    "antonyms": [
+      "江河日下",
+      "每况愈下"
+    ]
+  },
+  {
+    "id": "xian-liang-shu-de",
+    "text": "贤良淑德",
+    "pinyin": "xián liáng shū dé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "parenting-and-family"
+    ],
+    "literal": "worthy · good · gentle · virtuous",
+    "natural": "worthy, good, gentle and virtuous",
+    "meaning": {
+      "en": "Traditionally, the ideal qualities of a woman: virtuous, kind and gracious.",
+      "zh": "旧时称赞女子品德高尚、善良温顺。"
+    },
+    "equivalents": [
+      "a woman of virtue",
+      "kind and virtuous"
+    ],
+    "examples": [
+      {
+        "zh": "婆婆夸她贤良淑德，持家有方。",
+        "en": "Her mother-in-law praised her as virtuous and a good homemaker."
+      },
+      {
+        "zh": "征婚启事里写着“贤良淑德”。",
+        "en": "The personal ad says 'virtuous and gentle'."
+      }
+    ],
+    "usage": {
+      "en": "A traditional ideal of womanhood that many now view as old-fashioned.",
+      "zh": "传统的女性美德标准，现代人多觉得陈旧。"
+    },
+    "synonyms": [
+      "母仪天下",
+      "温良恭俭",
+      "德才兼备"
+    ],
+    "antonyms": [
+      "泼辣刁蛮",
+      "品行不端"
+    ]
+  },
+  {
+    "id": "pin-ji-si-chen",
+    "text": "牝鸡司晨",
+    "pinyin": "pìn jī sī chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "leadership-and-authority"
+    ],
+    "literal": "hen · take charge of · dawn",
+    "natural": "a hen crowing at dawn",
+    "meaning": {
+      "en": "A woman holding power; traditionally a disparaging way to say women should not rule.",
+      "zh": "母鸡报晓，旧时指妇女掌权，含贬义。"
+    },
+    "equivalents": [
+      "a hen that crows (old, derogatory)"
+    ],
+    "examples": [
+      {
+        "zh": "史书中批评武则天为牝鸡司晨。",
+        "en": "Old histories criticised Wu Zetian as a 'hen that crows at dawn'."
+      },
+      {
+        "zh": "如今再说牝鸡司晨，只会被人视为偏见。",
+        "en": "To say 'the hen crows at dawn' today would be seen as plain prejudice."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·牧誓》",
+      "story": {
+        "en": "King Wu said before the battle of Muye: 'The hen does not crow at dawn; if the hen crows, the house will fall' (牝鸡无晨。牝鸡之晨，惟家之索), blaming King Zhou for obeying Daji.",
+        "zh": "《尚书·牧誓》：“古人有言曰：‘牝鸡无晨。牝鸡之晨，惟家之索。’”"
+      },
+      "date": {
+        "zh": "先秦",
+        "en": "pre-Qin"
+      }
+    },
+    "usage": {
+      "en": "Sexist in origin; best known as a historical term. Do not use it of women today.",
+      "zh": "源于旧时偏见；主要见于历史论述，现代不宜用来指女性。"
+    },
+    "synonyms": [
+      "女主当政"
+    ],
+    "antonyms": [
+      "母仪天下",
+      "男主外，女主内"
+    ]
+  },
+  {
+    "id": "you-zi-zhi-zhi-ming",
+    "text": "有自知之明",
+    "pinyin": "yǒu zì zhī zhī míng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "mental-clarity",
+      "positive-character-qualities"
+    ],
+    "literal": "have · self · know · 's · clarity",
+    "natural": "have the clarity of knowing oneself",
+    "meaning": {
+      "en": "To know one's own strengths and limits.",
+      "zh": "清楚地了解自己的长处和不足。"
+    },
+    "equivalents": [
+      "know one's limits",
+      "be self-aware"
+    ],
+    "examples": [
+      {
+        "zh": "他很有自知之明，从不接超出能力的任务。",
+        "en": "He knows his limits and never takes tasks beyond his ability."
+      },
+      {
+        "zh": "人贵有自知之明。",
+        "en": "Self-knowledge is a precious thing in a person."
+      }
+    ],
+    "usage": {
+      "en": "Often in 人贵有自知之明; can be a pointed hint when said to someone overconfident.",
+      "zh": "常说“人贵有自知之明”，对自负的人说有暗示意味。"
+    },
+    "synonyms": [
+      "知人者智，自知者明",
+      "量力而行"
+    ],
+    "antonyms": [
+      "目不见睫",
+      "妄自尊大"
+    ]
+  },
+  {
+    "id": "liang-tian-wan-qing",
+    "text": "良田万顷",
+    "pinyin": "liáng tián wàn qǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farming-and-harvest",
+      "landscapes",
+      "peace-and-prosperity"
+    ],
+    "literal": "good · fields · ten thousand · qing",
+    "natural": "ten thousand qing of good fields",
+    "meaning": {
+      "en": "Vast areas of fertile farmland; great wealth in land.",
+      "zh": "形容土地肥沃广阔，家产丰厚。"
+    },
+    "equivalents": [
+      "acres of fertile land",
+      "a vast fertile plain"
+    ],
+    "examples": [
+      {
+        "zh": "这里良田万顷，是有名的粮仓。",
+        "en": "Here lie vast fertile fields, a well-known granary."
+      },
+      {
+        "zh": "他家良田万顷，却一直省吃俭用。",
+        "en": "His family owned vast farmland yet always lived frugally."
+      }
+    ],
+    "usage": {
+      "en": "A qing is about 6.7 hectares in the old system; the number is exaggeration.",
+      "zh": "“顷”是旧时面积单位，“万顷”是夸张。"
+    },
+    "synonyms": [
+      "沃野千里",
+      "膏腴之地",
+      "阡陌纵横"
+    ],
+    "antonyms": [
+      "不毛之地",
+      "寸草不生"
+    ]
+  },
+  {
+    "id": "gao-yu-zhi-di",
+    "text": "膏腴之地",
+    "pinyin": "gāo yú zhī dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "farming-and-harvest",
+      "landscapes"
+    ],
+    "literal": "fat · rich · 's · land",
+    "natural": "land rich as fat",
+    "meaning": {
+      "en": "Fertile, productive land.",
+      "zh": "肥沃的土地。"
+    },
+    "equivalents": [
+      "fertile land",
+      "a rich soil region"
+    ],
+    "examples": [
+      {
+        "zh": "这片平原是天下闻名的膏腴之地。",
+        "en": "This plain is renowned as rich farmland."
+      },
+      {
+        "zh": "各路诸侯都想夺取这块膏腴之地。",
+        "en": "The warlords all wanted to seize this fertile land."
+      }
+    ],
+    "usage": {
+      "en": "Literary; common in history writing and fiction.",
+      "zh": "书面语，多见于史书和小说。"
+    },
+    "synonyms": [
+      "沃野千里",
+      "天府之国",
+      "良田万顷"
+    ],
+    "antonyms": [
+      "不毛之地",
+      "穷山恶水"
+    ]
+  }
+]

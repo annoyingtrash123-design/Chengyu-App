@@ -1,0 +1,918 @@
+[
+  {
+    "id": "gui-lin-yi-zhi",
+    "text": "桂林一枝",
+    "pinyin": "guì lín yī zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-character",
+      "academic-achievement",
+      "historical-records"
+    ],
+    "literal": "cassia · grove · one · branch",
+    "natural": "one branch from the cassia grove",
+    "meaning": {
+      "en": "A modest way of saying one is outstanding; also, a person of rare talent among many.",
+      "zh": "原为自谦在众多人才中略有成就，后也比喻出类拔萃的人才。"
+    },
+    "equivalents": [
+      "a cut above the rest",
+      "a rising star"
+    ],
+    "examples": [
+      {
+        "zh": "他在同龄人中桂林一枝，年纪轻轻就拿了大奖。",
+        "en": "Among his peers he stands out; he won a major prize at a young age."
+      },
+      {
+        "zh": "这位新科状元，真可谓桂林一枝。",
+        "en": "This new top scorer is truly one of a kind."
+      }
+    ],
+    "origin": {
+      "source": "《晋书·郤诜传》",
+      "story": {
+        "en": "Xi Shen, asked by Emperor Wu of Jin how he rated himself after topping the examination, said he was like one branch of the cassia grove, a piece of jade from Mount Kun.",
+        "zh": "《晋书·郤诜传》：“臣举贤良对策为天下第一，犹桂林之一枝，昆山之片玉。”"
+      },
+      "date": {
+        "zh": "唐 · 648年",
+        "en": "Tang dynasty, 648"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 昆山片玉. Literary, praise; originally modest self-description.",
+      "zh": "常与“昆山片玉”并用，书面语，含赞美，原为自谦。"
+    },
+    "synonyms": [
+      "昆山片玉",
+      "出类拔萃"
+    ],
+    "antonyms": [
+      "庸庸碌碌",
+      "平平无奇"
+    ]
+  },
+  {
+    "id": "xue-hao-bu-yi-xue-huai-rong-yi",
+    "text": "学好不易，学坏容易",
+    "pinyin": "xué hǎo bù yì, xué huài róng yì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "parenting-and-family"
+    ],
+    "literal": "learn · good · not · easy, learn · bad · easy",
+    "natural": "learning good is hard, learning bad is easy",
+    "meaning": {
+      "en": "Good habits take effort to acquire, but bad habits are picked up effortlessly.",
+      "zh": "养成好习惯很难，染上坏习惯却很容易。"
+    },
+    "equivalents": [
+      "bad habits are easy to pick up",
+      "it's easier to go downhill than up"
+    ],
+    "examples": [
+      {
+        "zh": "学好不易，学坏容易，家长要多留意孩子交什么朋友。",
+        "en": "Good habits are hard to learn and bad ones easy; parents should watch who their children befriend."
+      },
+      {
+        "zh": "学好不易，学坏容易，他跟着混了几个月就开始抽烟了。",
+        "en": "It's hard to improve and easy to go astray; after a few months in that crowd he started smoking."
+      }
+    ],
+    "usage": {
+      "en": "A warning in parenting and education. Casual.",
+      "zh": "多用于家教、教育中的告诫，口语。"
+    },
+    "synonyms": [
+      "从善如登，从恶如崩"
+    ],
+    "antonyms": [
+      "出淤泥而不染"
+    ]
+  },
+  {
+    "id": "gong-qi-bi-jiu",
+    "text": "攻其必救",
+    "pinyin": "gōng qí bì jiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "military-strategy-and-victory"
+    ],
+    "literal": "attack · its · must · rescue",
+    "natural": "attack what it must rescue",
+    "meaning": {
+      "en": "To attack a point the enemy must defend, forcing them to give up their own plans.",
+      "zh": "攻击对方必定要救援的地方，迫使对方改变计划。"
+    },
+    "equivalents": [
+      "force the opponent's hand",
+      "strike where it hurts most"
+    ],
+    "examples": [
+      {
+        "zh": "球队攻其必救，逼得对手回防，赢得了空档。",
+        "en": "The team attacked where the opponent had to defend, drawing them back and opening space."
+      },
+      {
+        "zh": "谈判时他攻其必救，对方只好让步。",
+        "en": "In the negotiation he pressed on the point they had to protect, and they gave in."
+      }
+    ],
+    "usage": {
+      "en": "Strategy term; extends to sports and business. The classic example is 围魏救赵.",
+      "zh": "兵法用语，也用于体育、商战，典型战例是“围魏救赵”。"
+    },
+    "synonyms": [
+      "围魏救赵",
+      "声东击西"
+    ],
+    "antonyms": [
+      "自投罗网",
+      "坐以待毙"
+    ]
+  },
+  {
+    "id": "yuan-bi-li-cheng",
+    "text": "援笔立成",
+    "pinyin": "yuán bǐ lì chéng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "efficiency"
+    ],
+    "literal": "take up · brush · at once · complete",
+    "natural": "pick up the brush and finish at once",
+    "meaning": {
+      "en": "To write an essay or poem quickly and fluently, with almost no preparation.",
+      "zh": "拿起笔来立刻写成，形容文思敏捷，写得又快又好。"
+    },
+    "equivalents": [
+      "write off the cuff",
+      "dash off a masterpiece"
+    ],
+    "examples": [
+      {
+        "zh": "他才思敏捷，援笔立成，一篇评论半小时就写好了。",
+        "en": "With his quick mind he dashed off a commentary in half an hour."
+      },
+      {
+        "zh": "宴席上众人请他赋诗，他援笔立成。",
+        "en": "At the banquet everyone asked for a poem, and he wrote it on the spot."
+      }
+    ],
+    "usage": {
+      "en": "Praises fast, skilful writing; literary.",
+      "zh": "夸人写作敏捷，书面语。"
+    },
+    "synonyms": [
+      "一挥而就",
+      "文不加点"
+    ],
+    "antonyms": [
+      "搜索枯肠",
+      "下笔千言，离题万里"
+    ]
+  },
+  {
+    "id": "kuan-yi-jie-dai",
+    "text": "宽衣解带",
+    "pinyin": "kuān yī jiě dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest"
+    ],
+    "literal": "loosen · clothes · untie · belt",
+    "natural": "loosen the clothes and undo the belt",
+    "meaning": {
+      "en": "To take off one's outer clothes and loosen the belt, as for bed or to relax.",
+      "zh": "脱下外衣，解开腰带，准备休息或放松。"
+    },
+    "equivalents": [
+      "slip into something comfortable",
+      "loosen one's belt"
+    ],
+    "examples": [
+      {
+        "zh": "他回到家，宽衣解带，倒在床上就睡着了。",
+        "en": "He got home, took off his clothes, fell on the bed and was asleep."
+      },
+      {
+        "zh": "大夫让病人宽衣解带，仔细检查腹部。",
+        "en": "The doctor asked the patient to loosen their clothes for an abdominal check."
+      }
+    ],
+    "usage": {
+      "en": "A narrative phrase, used for undressing before bed or an examination; in literary writing it can hint at intimacy.",
+      "zh": "叙述性词语，用于睡前更衣或检查身体，文学语境中有时暗示亲密。"
+    },
+    "synonyms": [
+      "解衣就寝"
+    ],
+    "antonyms": [
+      "和衣而卧",
+      "衣不解带"
+    ]
+  },
+  {
+    "id": "zhi-bu-bu-qian",
+    "text": "止步不前",
+    "pinyin": "zhǐ bù bù qián",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "giving-up-and-weakness"
+    ],
+    "literal": "stop · step · not · forward",
+    "natural": "stop walking and not go forward",
+    "meaning": {
+      "en": "To stop advancing; to stay put out of fear, laziness or complacency.",
+      "zh": "停下脚步，不再向前，指因畏难、懒惰或自满而不再进步。"
+    },
+    "equivalents": [
+      "stand still",
+      "stagnate"
+    ],
+    "examples": [
+      {
+        "zh": "遇到一点挫折就止步不前，是不会成功的。",
+        "en": "Stopping at the first setback will not lead to success."
+      },
+      {
+        "zh": "公司若满足于现状而止步不前，就会被市场淘汰。",
+        "en": "If a company is content with the status quo and stands still, the market will weed it out."
+      }
+    ],
+    "usage": {
+      "en": "Usually as a criticism or warning. Predicate.",
+      "zh": "多用于批评或告诫，作谓语。"
+    },
+    "synonyms": [
+      "裹足不前",
+      "原地踏步"
+    ],
+    "antonyms": [
+      "勇往直前",
+      "进身之阶"
+    ]
+  },
+  {
+    "id": "se-shuai-ai-chi",
+    "text": "色衰爱弛",
+    "pinyin": "sè shuāi ài chí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "historical-records"
+    ],
+    "literal": "beauty · fade · love · slacken",
+    "natural": "when beauty fades, love slackens",
+    "meaning": {
+      "en": "When a woman's looks fade, the favour she enjoyed declines; a warning about relationships built on appearance.",
+      "zh": "容貌衰老，受到的宠爱也随之减退。"
+    },
+    "equivalents": [
+      "love fades with looks",
+      "fair-weather affection"
+    ],
+    "examples": [
+      {
+        "zh": "深宫里的嫔妃，往往色衰爱弛，晚景凄凉。",
+        "en": "Concubines in the inner palace often lost favour as their beauty faded and ended their days in loneliness."
+      },
+      {
+        "zh": "她明白色衰爱弛的道理，所以拼命工作，不依赖任何人。",
+        "en": "She understands that love fades with beauty, so she works hard and relies on nobody."
+      }
+    ],
+    "origin": {
+      "source": "《史记·吕不韦列传》",
+      "story": {
+        "en": "Shiji records the saying that those who serve others with their looks see love decline once their looks fade (以色事人者，色衰而爱弛).",
+        "zh": "《史记·吕不韦列传》：“以色事人者，色衰而爱弛。”"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    },
+    "usage": {
+      "en": "Used in historical or critical contexts about relationships based on looks or favour. Literary.",
+      "zh": "多用于历史或批评以色相、恩宠维系的关系，书面语。"
+    },
+    "synonyms": [
+      "人老珠黄",
+      "日久情疏"
+    ],
+    "antonyms": [
+      "恩爱如初",
+      "白头偕老"
+    ]
+  },
+  {
+    "id": "yue-miao-yue-hei",
+    "text": "越描越黑",
+    "pinyin": "yuè miáo yuè hēi",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "mistakes-and-correction",
+      "unintended-results"
+    ],
+    "literal": "the more · trace · the more · black",
+    "natural": "the more you trace over it, the blacker it gets",
+    "meaning": {
+      "en": "The more you try to explain or fix a mistake, the worse it looks.",
+      "zh": "越是解释、掩饰，反而越让人觉得有问题。"
+    },
+    "equivalents": [
+      "dig oneself deeper into a hole",
+      "protest too much"
+    ],
+    "examples": [
+      {
+        "zh": "你别再解释了，越描越黑。",
+        "en": "Stop explaining, you're only making it look worse."
+      },
+      {
+        "zh": "公司的澄清声明越描越黑，反而引来更多质疑。",
+        "en": "The company's clarification only made things worse and drew more doubts."
+      }
+    ],
+    "usage": {
+      "en": "A warning not to over-explain; casual. Related to 欲盖弥彰.",
+      "zh": "劝人不要过度解释，口语，与“欲盖弥彰”相近。"
+    },
+    "synonyms": [
+      "治丝益棼",
+      "欲盖弥彰"
+    ],
+    "antonyms": [
+      "不辩自明",
+      "一清二楚"
+    ]
+  },
+  {
+    "id": "hao-ju-hao-san",
+    "text": "好聚好散",
+    "pinyin": "hǎo jù hǎo sàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "relationships"
+    ],
+    "literal": "good · gather · good · part",
+    "natural": "meet well, part well",
+    "meaning": {
+      "en": "If a relationship has to end, part on good terms.",
+      "zh": "既然相聚过，分开时也应和平体面，不要闹僵。"
+    },
+    "equivalents": [
+      "part as friends",
+      "end things on good terms"
+    ],
+    "examples": [
+      {
+        "zh": "我们好聚好散，分手后还是朋友。",
+        "en": "Let's part on good terms and stay friends after the breakup."
+      },
+      {
+        "zh": "合伙生意做不下去了，大家好聚好散吧。",
+        "en": "The partnership isn't working; let's end it amicably."
+      }
+    ],
+    "usage": {
+      "en": "Said about breakups, divorce or ending a business; often with 要. Casual.",
+      "zh": "多用于分手、离婚、散伙，常说“要好聚好散”，口语。"
+    },
+    "synonyms": [
+      "一别两宽",
+      "和平分手"
+    ],
+    "antonyms": [
+      "反目成仇",
+      "不欢而散"
+    ]
+  },
+  {
+    "id": "ying-xiong-bu-wen-chu-chu",
+    "text": "英雄不问出处",
+    "pinyin": "yīng xióng bù wèn chū chù",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame",
+      "fairness-and-impartiality"
+    ],
+    "literal": "hero · not · ask · origin",
+    "natural": "heroes aren't asked where they came from",
+    "meaning": {
+      "en": "A person's worth lies in ability and achievements, not in family background.",
+      "zh": "评价人才看本事和成就，而不看出身。"
+    },
+    "equivalents": [
+      "it doesn't matter where you come from",
+      "judge a man by his deeds"
+    ],
+    "examples": [
+      {
+        "zh": "英雄不问出处，只要有能力，我们就重用。",
+        "en": "We don't ask where a hero comes from; if you have the ability, we'll promote you."
+      },
+      {
+        "zh": "他出身贫寒却成了科学家，真是英雄不问出处。",
+        "en": "Born poor, he became a scientist; heroes are not judged by origins."
+      }
+    ],
+    "usage": {
+      "en": "Often used to encourage the humble-born. Neutral, positive tone.",
+      "zh": "常用来鼓励出身寒微的人，语气积极。"
+    },
+    "synonyms": [
+      "莫欺少年穷",
+      "唯才是举"
+    ],
+    "antonyms": [
+      "论资排辈",
+      "门第之见"
+    ]
+  },
+  {
+    "id": "ren-yi-shi-feng-ping-lang-jing",
+    "text": "忍一时风平浪静",
+    "pinyin": "rěn yī shí fēng píng làng jìng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "忍一时风平浪静，退一步海阔天空"
+    ],
+    "variant_kinds": {
+      "忍一时风平浪静，退一步海阔天空": "full"
+    },
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "positive-character-qualities",
+      "conflict-and-strife"
+    ],
+    "literal": "endure · one · moment · wind · calm · waves · still",
+    "natural": "bear it for a moment and the storm calms",
+    "meaning": {
+      "en": "Holding your temper for a moment spares you a big quarrel.",
+      "zh": "暂时忍让一下，就能避免冲突，事情平安过去。"
+    },
+    "equivalents": [
+      "least said, soonest mended",
+      "better to bite your tongue"
+    ],
+    "examples": [
+      {
+        "zh": "忍一时风平浪静，他咽下了这口气，没有和邻居吵架。",
+        "en": "Bear it a moment and the storm passes; he swallowed his anger and didn't quarrel with the neighbour."
+      },
+      {
+        "zh": "婆媳之间，忍一时风平浪静，退一步海阔天空。",
+        "en": "Between mother-in-law and daughter-in-law, a little patience smooths things over, and stepping back opens the sky."
+      }
+    ],
+    "usage": {
+      "en": "Usually completed with 退一步海阔天空. Advice for avoiding conflict; casual.",
+      "zh": "常与“退一步海阔天空”连用，劝人避免冲突，口语。"
+    },
+    "synonyms": [
+      "小不忍则乱大谋",
+      "退一步海阔天空"
+    ],
+    "antonyms": [
+      "针锋相对",
+      "得理不饶人"
+    ]
+  },
+  {
+    "id": "shi-nian-mo-yi-jian",
+    "text": "十年磨一剑",
+    "pinyin": "shí nián mó yī jiàn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "apprenticeship-and-learning",
+      "useful-tools-and-skill",
+      "poems-prose"
+    ],
+    "literal": "ten · years · grind · one · sword",
+    "natural": "ten years to hone one sword",
+    "meaning": {
+      "en": "To spend many years perfecting one skill or project before showing it to the world.",
+      "zh": "用很长的时间磨炼一项本领或打磨一件作品。"
+    },
+    "equivalents": [
+      "years of preparation for one big moment",
+      "ten years in the making"
+    ],
+    "examples": [
+      {
+        "zh": "十年磨一剑，这部纪录片他拍了整整十年。",
+        "en": "It took ten years to hone this one blade; he spent a full decade filming this documentary."
+      },
+      {
+        "zh": "经过十年磨一剑的苦练，她终于夺得了冠军。",
+        "en": "After ten years of honing her craft, she finally won the championship."
+      }
+    ],
+    "origin": {
+      "source": "唐·贾岛《剑客》",
+      "story": {
+        "en": "Jia Dao's poem 'The Swordsman' reads 'Ten years I have ground one sword; its frosty edge has never been tried.'",
+        "zh": "贾岛《剑客》：“十年磨一剑，霜刃未曾试。”"
+      },
+      "date": {
+        "zh": "唐 · 9世纪初",
+        "en": "Tang dynasty, early 9th c."
+      }
+    },
+    "usage": {
+      "en": "Often followed by 霜刃未曾试 in the original line. Today praises long preparation.",
+      "zh": "原诗下句是“霜刃未曾试”。今多夸赞长期积累、精益求精。"
+    },
+    "synonyms": [
+      "台上一分钟，台下十年功",
+      "精益求精"
+    ],
+    "antonyms": [
+      "一曝十寒",
+      "三天打鱼两天晒网"
+    ]
+  },
+  {
+    "id": "dai-zhu-chu-hao-sun",
+    "text": "歹竹出好笋",
+    "pinyin": "dǎi zhú chū hǎo sǔn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "parenting-and-family",
+      "plant-and-natural-world"
+    ],
+    "literal": "bad · bamboo · produce · good · shoot",
+    "natural": "bad bamboo yields good shoots",
+    "meaning": {
+      "en": "A fine child can come from a poor family or a bad parent.",
+      "zh": "不好的父母或环境里，也能出现优秀的孩子。"
+    },
+    "equivalents": [
+      "a good egg from a bad nest",
+      "a rose among thorns"
+    ],
+    "examples": [
+      {
+        "zh": "他爸爸是个赌徒，他却勤奋上进，真是歹竹出好笋。",
+        "en": "His father is a gambler but he is hardworking; a good shoot from bad bamboo."
+      },
+      {
+        "zh": "大家都夸这孩子懂事，歹竹出好笋啊。",
+        "en": "Everyone praises how sensible the child is; fine fruit from a poor tree."
+      }
+    ],
+    "usage": {
+      "en": "Often said with surprise; the 'bad' refers to parents or background, not the child. Casual, can sound rude about the parents.",
+      "zh": "常带惊讶口吻，“歹”指父母或环境，口语，对父母有些不敬。"
+    },
+    "synonyms": [
+      "老鸹窝里出凤凰",
+      "出淤泥而不染"
+    ],
+    "antonyms": [
+      "龙生龙，凤生凤，老鼠的儿子会打洞",
+      "有其父必有其子"
+    ]
+  },
+  {
+    "id": "guo-ri-zi-cai-zhi-you-yan-gui",
+    "text": "过日子才知油盐贵",
+    "pinyin": "guò rì zi cái zhī yóu yán guì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "family-and-home",
+      "experience-and-old-age"
+    ],
+    "literal": "live · days · only then · know · oil · salt · dear",
+    "natural": "only when you run a household do you know how dear oil and salt are",
+    "meaning": {
+      "en": "You only appreciate how hard it is to make ends meet once you run a household yourself.",
+      "zh": "自己当家过日子，才知道生活开支的不易。"
+    },
+    "equivalents": [
+      "you don't know the cost of living until you pay the bills",
+      "live and learn"
+    ],
+    "examples": [
+      {
+        "zh": "刚结婚才发现，过日子才知油盐贵。",
+        "en": "Newly married, I find you only learn the price of oil and salt when you keep house."
+      },
+      {
+        "zh": "妈妈说，过日子才知油盐贵，让我别乱花钱。",
+        "en": "Mum said you only know what things cost when you run a home, and told me not to waste money."
+      }
+    ],
+    "usage": {
+      "en": "Said to young people who spend freely. Casual, domestic tone.",
+      "zh": "多用来劝花钱大手大脚的年轻人，口语，家常。"
+    },
+    "synonyms": [
+      "不当家不知柴米贵",
+      "当家才知柴米贵"
+    ],
+    "antonyms": [
+      "衣来伸手，饭来张口",
+      "不知民间疾苦"
+    ]
+  },
+  {
+    "id": "pi-pa-bie-bao",
+    "text": "琵琶别抱",
+    "pinyin": "pí pá bié bào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage"
+    ],
+    "literal": "pipa · another · hold",
+    "natural": "hold another pipa",
+    "meaning": {
+      "en": "Of a woman: to leave one man and marry another; by extension, to switch allegiance.",
+      "zh": "旧指女子改嫁；也比喻另投靠他人。"
+    },
+    "equivalents": [
+      "take another partner",
+      "change allegiances"
+    ],
+    "examples": [
+      {
+        "zh": "戏里的她丈夫去世后，没有琵琶别抱，独自抚养孩子。",
+        "en": "In the play, she did not remarry after her husband died and raised the child alone."
+      },
+      {
+        "zh": "他在公司落难时琵琶别抱，投奔了对手。",
+        "en": "He switched sides when the firm ran into trouble, running to the rival."
+      }
+    ],
+    "usage": {
+      "en": "Dated and literary; the image comes from a woman holding a pipa. Can sound disparaging of women; use with care.",
+      "zh": "陈旧的书面语，来自女子抱琵琶的形象，对女性有贬抑色彩，使用需谨慎。"
+    },
+    "synonyms": [
+      "另结新欢",
+      "移情别恋"
+    ],
+    "antonyms": [
+      "嫁鸡随鸡",
+      "从一而终"
+    ]
+  },
+  {
+    "id": "tong-yan-wu-ji",
+    "text": "童言无忌",
+    "pinyin": "tóng yán wú jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "frankness-and-candour"
+    ],
+    "literal": "child · words · no · taboo",
+    "natural": "children's words carry no taboo",
+    "meaning": {
+      "en": "Children say whatever they think, so what they say should not be taken as offence or ill omen.",
+      "zh": "小孩子说话天真直率，不必忌讳，也不必当真。"
+    },
+    "equivalents": [
+      "out of the mouths of babes",
+      "kids say the darnedest things"
+    ],
+    "examples": [
+      {
+        "zh": "别生气，童言无忌，他不是故意的。",
+        "en": "Don't be angry; kids say what they think and he didn't mean it."
+      },
+      {
+        "zh": "小侄女说我胖，大家哈哈大笑，童言无忌嘛。",
+        "en": "My little niece said I was fat and everyone laughed; children speak without guile."
+      }
+    ],
+    "usage": {
+      "en": "Said to smooth over a child's blunt remark. Warm, neutral tone.",
+      "zh": "用来化解孩子说话直率造成的尴尬，语气温和。"
+    },
+    "synonyms": [
+      "天真无邪",
+      "口无遮拦"
+    ],
+    "antonyms": [
+      "人小鬼大",
+      "老成持重"
+    ]
+  },
+  {
+    "id": "bu-bian-shu-mai",
+    "text": "不辨菽麦",
+    "pinyin": "bù biàn shū mài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "foolishness-and-ignorance",
+      "rural-wisdom",
+      "historical-records"
+    ],
+    "literal": "not · distinguish · beans · wheat",
+    "natural": "can't tell beans from wheat",
+    "meaning": {
+      "en": "To lack the most basic common sense about everyday things, or to have no practical experience.",
+      "zh": "连豆子和麦子都分不清，形容缺乏生活常识，或不懂实际事务。"
+    },
+    "equivalents": [
+      "not know a thing about farming",
+      "have no practical sense"
+    ],
+    "examples": [
+      {
+        "zh": "这些城里长大的孩子，不辨菽麦，见了麦田都不认识。",
+        "en": "Raised in the city, these children can't tell beans from wheat and don't recognise a wheat field."
+      },
+      {
+        "zh": "书呆子往往不辨菽麦，缺乏实际经验。",
+        "en": "Bookworms often lack practical sense and experience."
+      }
+    ],
+    "origin": {
+      "source": "《左传·成公十八年》",
+      "story": {
+        "en": "The Zuozhuan says the elder brother of Lord Dao of Jin was 'without wit and could not tell beans from wheat', so he was not made ruler.",
+        "zh": "《左传·成公十八年》：“周子有兄而无慧，不能辨菽麦，故不可立。”"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 四体不勤. Literary or teasing.",
+      "zh": "常与“四体不勤”连用，书面或调侃。"
+    },
+    "synonyms": [
+      "五谷不分",
+      "四体不勤"
+    ],
+    "antonyms": [
+      "精明能干",
+      "稼穑艰难"
+    ]
+  },
+  {
+    "id": "jia-se-jian-nan",
+    "text": "稼穑艰难",
+    "pinyin": "jià sè jiān nán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farming-and-harvest",
+      "poverty-and-hardship",
+      "confucian-classics"
+    ],
+    "literal": "sow · reap · hard · difficult",
+    "natural": "sowing and reaping are hard",
+    "meaning": {
+      "en": "Farming is hard work; one should know how hard it is to produce food.",
+      "zh": "种庄稼、收粮食非常辛苦，提醒人们要体会劳动的艰辛。"
+    },
+    "equivalents": [
+      "know the hard work behind every meal",
+      "the toil of farming"
+    ],
+    "examples": [
+      {
+        "zh": "老师要孩子们去农村体验，让他们懂得稼穑艰难。",
+        "en": "The teacher took the children to the countryside so they would understand the toil of farming."
+      },
+      {
+        "zh": "不知稼穑艰难，就不会珍惜每一粒粮食。",
+        "en": "Without knowing how hard farming is, you won't cherish every grain."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·无逸》",
+      "story": {
+        "en": "The Book of Documents (Wu Yi) says that a ruler who first knows the hardship of farming will be at ease in governing.",
+        "zh": "《尚书·无逸》：“君子所其无逸。先知稼穑之艰难乃逸。”"
+      },
+      "date": {
+        "zh": "西周至战国 · 前11—前3世纪",
+        "en": "Western Zhou to Warring States, 11th–3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Used to teach thrift and respect for labour. 稼 jià, 穑 sè. Literary.",
+      "zh": "用来教人节俭、尊重劳动。“稼”读jià，“穑”读sè，书面语。"
+    },
+    "synonyms": [
+      "谁知盘中餐，粒粒皆辛苦",
+      "民生多艰"
+    ],
+    "antonyms": [
+      "五谷不分",
+      "不识人间疾苦",
+      "不辨菽麦"
+    ]
+  },
+  {
+    "id": "bao-han-zhong-shen",
+    "text": "抱憾终身",
+    "pinyin": "bào hàn zhōng shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "hold · regret · whole · life",
+    "natural": "hold a regret all one's life",
+    "meaning": {
+      "en": "To carry a regret for life over something one failed to do or achieve.",
+      "zh": "因为某件事没做成或没做好，一辈子感到遗憾。"
+    },
+    "equivalents": [
+      "regret to the grave",
+      "carry a lifelong regret"
+    ],
+    "examples": [
+      {
+        "zh": "没能见到母亲最后一面，他抱憾终身。",
+        "en": "He never got to see his mother one last time and regretted it for life."
+      },
+      {
+        "zh": "那一球要是进了就夺冠，他至今仍抱憾终身。",
+        "en": "If that shot had gone in they would have won; he still regrets it all his life."
+      }
+    ],
+    "usage": {
+      "en": "Often 令他抱憾终身. Predicate.",
+      "zh": "常说“令他抱憾终身”，作谓语。"
+    },
+    "synonyms": [
+      "悔恨终生",
+      "饮恨终身",
+      "抱恨终天"
+    ],
+    "antonyms": [
+      "死而无憾",
+      "无怨无悔"
+    ]
+  }
+]

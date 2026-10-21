@@ -1,0 +1,940 @@
+[
+  {
+    "id": "tian-ran-qu-diao-shi",
+    "text": "天然去雕饰",
+    "pinyin": "tiān rán qù diāo shì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "appearance",
+      "poems-prose"
+    ],
+    "literal": "natural · without · carving · decoration",
+    "natural": "natural, free of carving and adornment",
+    "meaning": {
+      "en": "Natural and unaffected, with no artificial polish; the highest beauty comes from simplicity.",
+      "zh": "自然质朴，没有人工雕琢的痕迹，指最美的东西出于天然。"
+    },
+    "equivalents": [
+      "unadorned beauty",
+      "natural and unaffected"
+    ],
+    "examples": [
+      {
+        "zh": "她的文风清新自然，真是天然去雕饰。",
+        "en": "Her prose is fresh and natural, free of any carving."
+      },
+      {
+        "zh": "山间小屋不事装修，天然去雕饰，别有韵味。",
+        "en": "The mountain cabin is left unrenovated, natural and unadorned, with a charm of its own."
+      }
+    ],
+    "origin": {
+      "source": "唐·李白《经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰》",
+      "story": {
+        "en": "Li Bai's poem to Wei Liangzai says 'clear water brings forth the lotus; nature, free of ornament'.",
+        "zh": "李白诗：“清水出芙蓉，天然去雕饰。”"
+      },
+      "date": {
+        "zh": "唐 · 8世纪中叶",
+        "en": "Tang dynasty, mid-8th c."
+      }
+    },
+    "usage": {
+      "en": "Praises natural style in art, writing, or looks; usually quoted with 清水出芙蓉. Literary.",
+      "zh": "赞美诗文、艺术或容貌的自然之美，常与“清水出芙蓉”连用，书面语。"
+    },
+    "synonyms": [
+      "清水出芙蓉",
+      "返璞归真",
+      "浓妆淡抹"
+    ],
+    "antonyms": [
+      "矫揉造作",
+      "雕章琢句"
+    ]
+  },
+  {
+    "id": "hou-zhe-lian-pi",
+    "text": "厚着脸皮",
+    "pinyin": "hòu zhe liǎn pí",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "attitude-humble-vs-arrogant",
+      "polite-humble"
+    ],
+    "literal": "thick · -ing · face · skin",
+    "natural": "with a thick face skin",
+    "meaning": {
+      "en": "To go ahead and do or ask something shamelessly, ignoring embarrassment.",
+      "zh": "不顾羞耻，硬着头皮去做或去求。"
+    },
+    "equivalents": [
+      "have the nerve to",
+      "brazen it out"
+    ],
+    "examples": [
+      {
+        "zh": "我只好厚着脸皮向朋友借钱。",
+        "en": "I had no choice but to brazenly ask a friend for a loan."
+      },
+      {
+        "zh": "他厚着脸皮在人家家里住了半年。",
+        "en": "He shamelessly stayed in their home for half a year."
+      }
+    ],
+    "usage": {
+      "en": "Adverbial, before a verb: 厚着脸皮 + V. Can be self-deprecating when asking a favour. Casual.",
+      "zh": "作状语，用在动词前，求人时也可自嘲，口语。"
+    },
+    "synonyms": [
+      "恬不知耻",
+      "硬着头皮"
+    ],
+    "antonyms": [
+      "拉不下脸",
+      "羞于启齿"
+    ]
+  },
+  {
+    "id": "yi-shi-wei-jian",
+    "text": "以史为鉴",
+    "pinyin": "yǐ shǐ wéi jiàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "modern-applications-of-classical-ideas",
+      "news-and-officialese"
+    ],
+    "literal": "take · history · as · mirror",
+    "natural": "take history as a mirror",
+    "meaning": {
+      "en": "To learn lessons from history and avoid repeating past mistakes.",
+      "zh": "把历史当作镜子，从中吸取经验教训。"
+    },
+    "equivalents": [
+      "learn from history",
+      "those who forget history are doomed to repeat it"
+    ],
+    "examples": [
+      {
+        "zh": "我们要以史为鉴，避免重蹈覆辙。",
+        "en": "We must learn from history and avoid repeating its mistakes."
+      },
+      {
+        "zh": "这本书以史为鉴，分析了几次金融危机的成因。",
+        "en": "This book draws lessons from history in analysing the causes of several financial crises."
+      }
+    ],
+    "usage": {
+      "en": "Common in speeches and the news; often 以史为鉴，面向未来. Formal.",
+      "zh": "演讲、新闻中常见，常说“以史为鉴，面向未来”，较正式。"
+    },
+    "synonyms": [
+      "鉴往知来",
+      "前事不忘，后事之师"
+    ],
+    "antonyms": [
+      "忘记历史",
+      "重蹈覆辙"
+    ]
+  },
+  {
+    "id": "kuan-pao-da-xiu",
+    "text": "宽袍大袖",
+    "pinyin": "kuān páo dà xiù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fine-dress-and-fashion"
+    ],
+    "literal": "wide · robe · big · sleeves",
+    "natural": "broad robe and wide sleeves",
+    "meaning": {
+      "en": "A loose, flowing robe with wide sleeves, the dress of the traditional scholar or a relaxed style of clothing.",
+      "zh": "宽大的袍子和袖子，指传统文人的服饰，也形容服装宽松。"
+    },
+    "equivalents": [
+      "flowing robes",
+      "loose and baggy dress"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢穿宽袍大袖的汉服，走在街上很显眼。",
+        "en": "He likes to wear broad-sleeved hanfu and stands out on the street."
+      },
+      {
+        "zh": "古装剧里的名士多半宽袍大袖，飘然若仙。",
+        "en": "The scholars in period dramas mostly wear flowing robes and look like immortals."
+      }
+    ],
+    "usage": {
+      "en": "Describes clothes; attributive. Often evokes ancient scholars.",
+      "zh": "形容服饰，作定语，常令人联想古代文人。"
+    },
+    "synonyms": [
+      "峨冠博带",
+      "长袍广袖"
+    ],
+    "antonyms": [
+      "紧身短打",
+      "短衣窄袖"
+    ]
+  },
+  {
+    "id": "duan-he-chuan-jie",
+    "text": "短褐穿结",
+    "pinyin": "duǎn hè chuān jié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "simple-or-poor-clothing",
+      "poverty-and-hardship",
+      "poems-prose"
+    ],
+    "literal": "short · coarse cloth · torn · patched",
+    "natural": "short coarse clothes, torn and patched",
+    "meaning": {
+      "en": "Wearing rough, ragged and patched clothes; living in poverty.",
+      "zh": "穿着粗布短衣，破旧打补丁，形容生活贫困。"
+    },
+    "equivalents": [
+      "dressed in rags",
+      "clad in patched homespun"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻时短褐穿结，却从不叫苦。",
+        "en": "In his youth he went about in patched rags yet never complained."
+      },
+      {
+        "zh": "书中的老书生短褐穿结，却自得其乐。",
+        "en": "The old scholar in the book was in rags yet content."
+      }
+    ],
+    "origin": {
+      "source": "晋·陶渊明《五柳先生传》",
+      "story": {
+        "en": "Tao Yuanming describes Master Five Willows as living in a bare house, 'in short coarse clothes, torn and patched, his bowl and gourd often empty, yet content'.",
+        "zh": "陶渊明《五柳先生传》：“短褐穿结，箪瓢屡空，晏如也。”"
+      },
+      "date": {
+        "zh": "东晋末至南朝宋初 · 5世纪初",
+        "en": "late Eastern Jin to early Liu Song, early 5th c."
+      }
+    },
+    "usage": {
+      "en": "Literary; describes poverty, often admiringly when the person is virtuous. 褐 is read hè.",
+      "zh": "书面语，形容贫穷，若人品高洁则含赞许，“褐”读hè。"
+    },
+    "synonyms": [
+      "衣衫褴褛",
+      "衣不蔽体"
+    ],
+    "antonyms": [
+      "峨冠博带",
+      "锦衣玉食"
+    ]
+  },
+  {
+    "id": "qi-zu-bao-shuai",
+    "text": "弃卒保帅",
+    "pinyin": "qì zú bǎo shuài",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "military-strategy-and-victory",
+      "games-and-sports"
+    ],
+    "literal": "abandon · pawn · protect · general",
+    "natural": "sacrifice a pawn to save the general",
+    "meaning": {
+      "en": "To sacrifice something less important to protect what matters most.",
+      "zh": "舍弃次要的人或事物，保全最重要的。"
+    },
+    "equivalents": [
+      "sacrifice a pawn",
+      "throw someone under the bus"
+    ],
+    "examples": [
+      {
+        "zh": "公司为了保住核心业务，决定弃卒保帅，裁撤几个部门。",
+        "en": "To protect its core business, the company decided to sacrifice the small for the big and cut several departments."
+      },
+      {
+        "zh": "他明白自己是被弃卒保帅的那颗棋子。",
+        "en": "He knew he was the pawn sacrificed for the greater piece."
+      }
+    ],
+    "usage": {
+      "en": "From Chinese chess. Neutral about tactics but can sound cynical when a person is sacrificed. Related to 丢卒保车.",
+      "zh": "来自象棋，用于策略时中性，若指牺牲某人则带冷酷意味，与“丢卒保车”相近。"
+    },
+    "synonyms": [
+      "丢卒保车",
+      "壮士断腕"
+    ],
+    "antonyms": [
+      "顾此失彼",
+      "因小失大"
+    ]
+  },
+  {
+    "id": "suan-wen-jia-cu",
+    "text": "酸文假醋",
+    "pinyin": "suān wén jiǎ cù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "deception-and-false-appearances"
+    ],
+    "literal": "sour · writing · fake · vinegar",
+    "natural": "sour literary airs and fake vinegar",
+    "meaning": {
+      "en": "Pretentious, pedantic talk or manner that tries to sound cultured.",
+      "zh": "说话做事装出文人的酸腐、做作的样子。"
+    },
+    "equivalents": [
+      "pedantic and affected",
+      "highfalutin"
+    ],
+    "examples": [
+      {
+        "zh": "他说话总爱酸文假醋，听着让人起鸡皮疙瘩。",
+        "en": "He always talks in a pretentious bookish way, and it makes your skin crawl."
+      },
+      {
+        "zh": "别在这儿酸文假醋了，有话直说。",
+        "en": "Stop the pretentious airs and say it plainly."
+      }
+    ],
+    "usage": {
+      "en": "Teasing or critical; casual. 假 is read jiǎ.",
+      "zh": "带调侃或批评，口语，“假”读jiǎ。"
+    },
+    "synonyms": [
+      "咬文嚼字",
+      "文绉绉",
+      "孔夫子放屁——文（闻）气冲天"
+    ],
+    "antonyms": [
+      "朴实无华",
+      "直截了当"
+    ]
+  },
+  {
+    "id": "yi-dian-jiu-tong",
+    "text": "一点就通",
+    "pinyin": "yī diǎn jiù tōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "一点即通"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "mental-clarity"
+    ],
+    "literal": "one · hint · then · understand",
+    "natural": "one hint and it clicks",
+    "meaning": {
+      "en": "To grasp something at the slightest hint; very quick to learn.",
+      "zh": "稍一点拨就明白，形容领悟力强。"
+    },
+    "equivalents": [
+      "quick on the uptake",
+      "get it from a hint"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子聪明，数学题一点就通。",
+        "en": "This child is bright and gets maths problems at the slightest hint."
+      },
+      {
+        "zh": "师傅只演示一遍，他一点就通。",
+        "en": "The master showed him just once and he picked it up."
+      }
+    ],
+    "usage": {
+      "en": "Praise for a learner; predicate. Also written 一点即通.",
+      "zh": "夸学习者领悟力强，作谓语，也说“一点即通”。"
+    },
+    "synonyms": [
+      "心领神会",
+      "举一反三"
+    ],
+    "antonyms": [
+      "蜡烛——不点不亮",
+      "愚不可及"
+    ]
+  },
+  {
+    "id": "qing-li-men-hu",
+    "text": "清理门户",
+    "pinyin": "qīng lǐ mén hù",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "conflict-and-strife",
+      "leadership-and-authority"
+    ],
+    "literal": "clear out · tidy · gate · household",
+    "natural": "clean out one's own household",
+    "meaning": {
+      "en": "To deal with traitors or wrongdoers within one's own organisation.",
+      "zh": "处理自己组织内部的叛徒或不守规矩的人。"
+    },
+    "equivalents": [
+      "clean house",
+      "purge one's own ranks"
+    ],
+    "examples": [
+      {
+        "zh": "公司董事会决定清理门户，开除了泄密的高管。",
+        "en": "The board decided to clean house and dismissed the executive who leaked secrets."
+      },
+      {
+        "zh": "师父说要清理门户，不许徒弟败坏门风。",
+        "en": "The master said he would purge his own school and not let a disciple disgrace it."
+      }
+    ],
+    "usage": {
+      "en": "Originally from martial-arts fiction, now used for internal discipline. Casual, ominous tone.",
+      "zh": "源于武侠小说，现多用于整顿内部，口语，带威严。"
+    },
+    "synonyms": [
+      "整肃内部",
+      "肃清内奸"
+    ],
+    "antonyms": [
+      "招降纳叛",
+      "引狼入室"
+    ]
+  },
+  {
+    "id": "shou-wei-xiang-ying",
+    "text": "首尾相应",
+    "pinyin": "shǒu wěi xiāng yìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "excellent-writing",
+      "military-strategy-and-victory"
+    ],
+    "literal": "head · tail · mutually · answer",
+    "natural": "head and tail answer one another",
+    "meaning": {
+      "en": "Different parts of an article, plan or army coordinate and echo one another.",
+      "zh": "文章、计划或军队的前后各部分互相呼应、配合。"
+    },
+    "equivalents": [
+      "come full circle",
+      "coordinated from start to finish"
+    ],
+    "examples": [
+      {
+        "zh": "这篇文章开头和结尾首尾相应，结构很完整。",
+        "en": "The opening and ending of this essay echo each other, giving it a complete structure."
+      },
+      {
+        "zh": "两支部队首尾相应，终于击溃了敌军。",
+        "en": "The two armies coordinated front and rear and finally routed the enemy."
+      }
+    ],
+    "usage": {
+      "en": "Used in writing comments and military contexts; predicate or attributive.",
+      "zh": "用于评文章和军事，作谓语、定语。"
+    },
+    "synonyms": [
+      "遥相呼应",
+      "前后呼应"
+    ],
+    "antonyms": [
+      "首尾不顾",
+      "前后矛盾"
+    ]
+  },
+  {
+    "id": "shen-yi-wei-ran",
+    "text": "深以为然",
+    "pinyin": "shēn yǐ wéi rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "speech"
+    ],
+    "literal": "deeply · consider · right · so",
+    "natural": "deeply think it is so",
+    "meaning": {
+      "en": "To agree wholeheartedly with what has been said.",
+      "zh": "非常赞同某种看法。"
+    },
+    "equivalents": [
+      "wholeheartedly agree",
+      "be of the same mind"
+    ],
+    "examples": [
+      {
+        "zh": "对于他的建议，大家深以为然。",
+        "en": "Everyone thoroughly agreed with his suggestion."
+      },
+      {
+        "zh": "这番话让我深以为然，也提醒了我。",
+        "en": "These words struck me as entirely right and reminded me of something."
+      }
+    ],
+    "usage": {
+      "en": "Formal agreement, often in writing or meetings; the opposite is 不以为然.",
+      "zh": "较正式的赞同，多用于书面或会议，反义是“不以为然”。"
+    },
+    "synonyms": [
+      "深有同感",
+      "心悦诚服"
+    ],
+    "antonyms": [
+      "嗤之以鼻",
+      "不敢苟同",
+      "不以为然"
+    ]
+  },
+  {
+    "id": "heng-ping-shu-zhi",
+    "text": "横平竖直",
+    "pinyin": "héng píng shù zhí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship",
+      "standards-and-benchmarks"
+    ],
+    "literal": "horizontal · level · vertical · straight",
+    "natural": "horizontals level, verticals straight",
+    "meaning": {
+      "en": "Strokes kept level and upright, as in neat regular-script writing; also lines drawn neat and square.",
+      "zh": "横画平、竖画直，形容字写得端正，也形容线条规整。"
+    },
+    "equivalents": [
+      "neat and square",
+      "straight lines"
+    ],
+    "examples": [
+      {
+        "zh": "练楷书要先做到横平竖直。",
+        "en": "In practising regular script, first make your strokes level and upright."
+      },
+      {
+        "zh": "工人把墙砌得横平竖直，非常整齐。",
+        "en": "The workers laid the wall straight and square, very neat."
+      }
+    ],
+    "usage": {
+      "en": "Typical calligraphy advice; also describes tidy lines in building or drawing.",
+      "zh": "书法常用语，也形容建筑、绘图线条规整。"
+    },
+    "synonyms": [
+      "方方正正",
+      "整整齐齐"
+    ],
+    "antonyms": [
+      "龙飞凤舞",
+      "歪歪扭扭"
+    ]
+  },
+  {
+    "id": "ming-hua-you-zhu",
+    "text": "名花有主",
+    "pinyin": "míng huā yǒu zhǔ",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage"
+    ],
+    "literal": "famous · flower · have · owner",
+    "natural": "the famous flower has an owner",
+    "meaning": {
+      "en": "Said of a woman (or sometimes anyone) who is already engaged or married.",
+      "zh": "指某个人（多指女子）已经有了对象或已经结婚。"
+    },
+    "equivalents": [
+      "spoken for",
+      "taken"
+    ],
+    "examples": [
+      {
+        "zh": "听说她已经订婚了，名花有主，你就死心吧。",
+        "en": "I hear she's engaged. She's spoken for, so give up."
+      },
+      {
+        "zh": "他笑着亮出婚戒，说自己早已名花有主。",
+        "en": "He smiled and showed his wedding ring, saying he'd long been spoken for."
+      }
+    ],
+    "usage": {
+      "en": "A teasing remark; the original image treats a woman as property, so it is dated and usually joking. Also used humorously of men.",
+      "zh": "调侃语，原意把女性比作财物，带旧时观念，多为玩笑，有时也戏称男子。"
+    },
+    "synonyms": [
+      "芳心有属",
+      "心有所属"
+    ],
+    "antonyms": [
+      "待字闺中",
+      "小姑独处"
+    ]
+  },
+  {
+    "id": "lin-zhen-dao-ge",
+    "text": "临阵倒戈",
+    "pinyin": "lín zhèn dǎo gē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-company-and-betrayal",
+      "defeat-and-military-failure"
+    ],
+    "literal": "face · battle formation · reverse · spear",
+    "natural": "turn one's spear around at the front",
+    "meaning": {
+      "en": "To switch sides in the middle of a fight, turning on one's own side.",
+      "zh": "在战斗关键时刻突然倒向敌方，反过来攻击自己人。"
+    },
+    "equivalents": [
+      "defect at the critical moment",
+      "turn coat on the battlefield"
+    ],
+    "examples": [
+      {
+        "zh": "他在谈判桌上临阵倒戈，让团队措手不及。",
+        "en": "He switched sides at the negotiating table, catching the team off guard."
+      },
+      {
+        "zh": "关键时刻，几名将领临阵倒戈，战局逆转。",
+        "en": "At the crucial moment several generals defected and the battle turned."
+      }
+    ],
+    "usage": {
+      "en": "Also used outside war for politics, sports or business; clearly condemns betrayal.",
+      "zh": "也用于政治、体育、商业，谴责背叛。"
+    },
+    "synonyms": [
+      "反戈一击",
+      "倒戈相向"
+    ],
+    "antonyms": [
+      "同仇敌忾",
+      "忠心耿耿"
+    ]
+  },
+  {
+    "id": "wang-shi-ru-yan",
+    "text": "往事如烟",
+    "pinyin": "wǎng shì rú yān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "fleeting-time",
+      "complex-emotional-states"
+    ],
+    "literal": "past · events · like · smoke",
+    "natural": "the past is like smoke",
+    "meaning": {
+      "en": "The past has faded like smoke; old affairs feel distant and insubstantial.",
+      "zh": "过去的事情像烟雾一样消散，感觉遥远而不真实。"
+    },
+    "equivalents": [
+      "water under the bridge",
+      "what's past is past"
+    ],
+    "examples": [
+      {
+        "zh": "重逢时，他们都笑着说往事如烟。",
+        "en": "When they met again, both said with a smile that the past is only smoke."
+      },
+      {
+        "zh": "人到暮年，才觉得往事如烟。",
+        "en": "Only in old age does one feel the past is like smoke."
+      }
+    ],
+    "usage": {
+      "en": "Nostalgic or letting go; literary. Can mean 'do not dwell on it'.",
+      "zh": "怀旧或释怀，书面语，可表示“不必再提”。"
+    },
+    "synonyms": [
+      "不堪回首",
+      "过眼云烟"
+    ],
+    "antonyms": [
+      "历历在目",
+      "记忆犹新"
+    ]
+  },
+  {
+    "id": "wang-yun-zhi-qing",
+    "text": "望云之情",
+    "pinyin": "wàng yún zhī qíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "historical-records"
+    ],
+    "literal": "look at · cloud · 's · feeling",
+    "natural": "the feeling of gazing at the clouds",
+    "meaning": {
+      "en": "A child's longing for far-off parents.",
+      "zh": "远行的人思念父母的心情。"
+    },
+    "equivalents": [
+      "homesickness for one's parents",
+      "yearning for home and family"
+    ],
+    "examples": [
+      {
+        "zh": "身在异乡，他常怀望云之情，盼着早日回家。",
+        "en": "Far from home, he often yearns for his parents and hopes to go home soon."
+      },
+      {
+        "zh": "一个中秋夜，勾起了游子的望云之情。",
+        "en": "A Mid-Autumn night stirred the traveller's longing for his parents."
+      }
+    ],
+    "origin": {
+      "source": "《旧唐书·狄仁杰传》",
+      "story": {
+        "en": "The Old Book of Tang records that Di Renjie, climbing the Taihang Mountains and seeing a white cloud drift by, said that his parents lived beneath it, and stood gazing until the cloud moved on.",
+        "zh": "《旧唐书·狄仁杰传》：“登太行山，反顾，见白云孤飞，谓左右曰：‘吾亲舍其下。’”"
+      },
+      "date": {
+        "zh": "后晋 · 945年",
+        "en": "Later Jin, 945"
+      }
+    },
+    "usage": {
+      "en": "Literary; usually refers to missing parents rather than friends. Related to 白云亲舍.",
+      "zh": "书面语，多指思念父母，与“白云亲舍”相关。"
+    },
+    "synonyms": [
+      "白云亲舍",
+      "暮云春树"
+    ],
+    "antonyms": [
+      "乐不思蜀"
+    ]
+  },
+  {
+    "id": "bei-mian-cheng-chen",
+    "text": "北面称臣",
+    "pinyin": "běi miàn chēng chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "society",
+      "leadership-and-authority"
+    ],
+    "literal": "north · facing · call oneself · subject",
+    "natural": "face north and call oneself a subject",
+    "meaning": {
+      "en": "To submit to another ruler as a vassal.",
+      "zh": "面朝北方向对方称臣，表示臣服。"
+    },
+    "equivalents": [
+      "pay homage as a vassal",
+      "bend the knee"
+    ],
+    "examples": [
+      {
+        "zh": "战败之后，他只能北面称臣，向对方进贡。",
+        "en": "After losing the war he had to submit as a vassal and pay tribute."
+      },
+      {
+        "zh": "史书记载，小国向大国北面称臣以求自保。",
+        "en": "The histories record small states submitting to big ones to survive."
+      }
+    ],
+    "usage": {
+      "en": "Ancient etiquette: the ruler sat facing south, subjects faced north. Literary and historical.",
+      "zh": "古代礼制：君主坐北朝南，臣子面朝北，书面语，多用于历史。"
+    },
+    "synonyms": [
+      "俯首称臣",
+      "甘拜下风"
+    ],
+    "antonyms": [
+      "南面称孤",
+      "平起平坐"
+    ]
+  },
+  {
+    "id": "cuo-lou-bai-chu",
+    "text": "错漏百出",
+    "pinyin": "cuò lòu bǎi chū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-workmanship",
+      "mistakes-and-correction"
+    ],
+    "literal": "mistakes · omissions · hundred · appear",
+    "natural": "errors and omissions in the hundreds",
+    "meaning": {
+      "en": "Full of mistakes and omissions.",
+      "zh": "错误和遗漏很多。"
+    },
+    "equivalents": [
+      "riddled with errors",
+      "full of holes"
+    ],
+    "examples": [
+      {
+        "zh": "这份报告错漏百出，根本不能交给客户。",
+        "en": "This report is riddled with errors and can't be given to clients."
+      },
+      {
+        "zh": "译文错漏百出，读者纷纷批评。",
+        "en": "The translation is full of mistakes and drew readers' criticism."
+      }
+    ],
+    "usage": {
+      "en": "Describes documents, translations, plans; predicate or attributive.",
+      "zh": "形容文件、译文、方案等，作谓语、定语。"
+    },
+    "synonyms": [
+      "漏洞百出",
+      "破绽百出"
+    ],
+    "antonyms": [
+      "一字不易",
+      "天衣无缝"
+    ]
+  },
+  {
+    "id": "qian-fan-jing-fa",
+    "text": "千帆竞发",
+    "pinyin": "qiān fān jìng fā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "competition-and-rivalry",
+      "innovation-and-progress"
+    ],
+    "literal": "thousand · sails · compete · set out",
+    "natural": "a thousand sails set out in competition",
+    "meaning": {
+      "en": "Many ships setting out together; by extension, a flourishing scene in which many compete to move ahead.",
+      "zh": "无数船只争先出发，比喻众人奋勇争先、蓬勃向前的景象。"
+    },
+    "equivalents": [
+      "all hands setting sail",
+      "a race of a thousand ships"
+    ],
+    "examples": [
+      {
+        "zh": "港口里千帆竞发，场面十分壮观。",
+        "en": "A thousand sails set out from the harbour in a magnificent scene."
+      },
+      {
+        "zh": "新能源行业千帆竞发，各家企业争相布局。",
+        "en": "The new-energy industry is in full flow, with firms racing to expand."
+      }
+    ],
+    "usage": {
+      "en": "Literal or figurative; often with 百舸争流. Positive, literary.",
+      "zh": "可写实也可比喻，常与“百舸争流”连用，褒义，书面语。"
+    },
+    "synonyms": [
+      "百舸争流",
+      "万马奔腾"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "死气沉沉"
+    ]
+  },
+  {
+    "id": "jian-bi-ling-yun",
+    "text": "健笔凌云",
+    "pinyin": "jiàn bǐ líng yún",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "festive-greetings"
+    ],
+    "literal": "strong · brush · soar above · clouds",
+    "natural": "a strong brush soaring to the clouds",
+    "meaning": {
+      "en": "Powerful, spirited writing; also for a gifted writer.",
+      "zh": "文笔雄健，气势高超，也用来称赞文章写得好的人。"
+    },
+    "equivalents": [
+      "a powerful pen",
+      "masterful prose"
+    ],
+    "examples": [
+      {
+        "zh": "他健笔凌云，一篇社论震动了舆论界。",
+        "en": "With his powerful pen, a single editorial shook public opinion."
+      },
+      {
+        "zh": "祝你健笔凌云，早日写出传世之作。",
+        "en": "May your pen soar and may you soon write a work that endures."
+      }
+    ],
+    "usage": {
+      "en": "Praise for writing, often in congratulations or blessings; literary.",
+      "zh": "赞美文笔，常见于祝贺和祝愿，书面语。"
+    },
+    "synonyms": [
+      "大笔如椽",
+      "妙笔生花"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "文思枯竭"
+    ]
+  }
+]

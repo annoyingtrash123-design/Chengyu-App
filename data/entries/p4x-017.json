@@ -1,0 +1,827 @@
+[
+  {
+    "id": "gu-jing-wu-bo",
+    "text": "古井无波",
+    "pinyin": "gǔ jǐng wú bō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "mental-clarity",
+      "contentment-and-simplicity"
+    ],
+    "literal": "ancient · well · no · waves",
+    "natural": "an old well with no ripples",
+    "meaning": {
+      "en": "A mind so calm that nothing stirs it; completely unmoved by emotion or temptation.",
+      "zh": "心像古井里的水一样不起波澜，形容心情非常平静，不为外界所动。"
+    },
+    "equivalents": [
+      "calm as a millpond",
+      "unruffled"
+    ],
+    "examples": [
+      {
+        "zh": "经历了这么多风波，他如今心中古井无波。",
+        "en": "After so many ups and downs, his heart is now perfectly calm."
+      },
+      {
+        "zh": "面对同事的挑衅，她古井无波，只是笑了笑。",
+        "en": "Faced with her colleague's provocation, she stayed unruffled and merely smiled."
+      }
+    ],
+    "usage": {
+      "en": "Usually describes a person's inner state; predicate or attributive. Literary tone.",
+      "zh": "多形容人的心境，作谓语、定语，书面语色彩较浓。"
+    },
+    "synonyms": [
+      "心如止水",
+      "波澜不惊"
+    ],
+    "antonyms": [
+      "心潮澎湃",
+      "心猿意马",
+      "心旌摇荡"
+    ]
+  },
+  {
+    "id": "bu-gan-gong-wei",
+    "text": "不敢恭维",
+    "pinyin": "bù gǎn gōng wéi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "literary-criticism",
+      "frankness-and-candour"
+    ],
+    "literal": "not · dare · compliment",
+    "natural": "can't say one admires it",
+    "meaning": {
+      "en": "A polite way of saying that one does not think much of something or someone.",
+      "zh": "委婉地表示不佩服、不赞同，实际上是说不怎么样。"
+    },
+    "equivalents": [
+      "not exactly impressed",
+      "not much to write home about"
+    ],
+    "examples": [
+      {
+        "zh": "这家餐厅的服务态度，我实在不敢恭维。",
+        "en": "I can't honestly praise the service at this restaurant."
+      },
+      {
+        "zh": "他的球技我可不敢恭维，十次投篮只进了一次。",
+        "en": "I can't say much for his basketball; he sank only one shot in ten."
+      }
+    ],
+    "usage": {
+      "en": "Understatement: the speaker is actually criticising. Often follows 实在 or 可 and takes 对…, or 我…不敢恭维.",
+      "zh": "说话人用客气的口气表达批评，常说“实在不敢恭维”“我对……不敢恭维”。"
+    },
+    "synonyms": [
+      "不敢苟同",
+      "不尽如人意"
+    ],
+    "antonyms": [
+      "赞不绝口",
+      "无可挑剔"
+    ]
+  },
+  {
+    "id": "lao-yan-hun-hua",
+    "text": "老眼昏花",
+    "pinyin": "lǎo yǎn hūn huā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poor-health",
+      "experience-and-old-age"
+    ],
+    "literal": "old · eyes · dim · blurred",
+    "natural": "aged eyes, dim and blurred",
+    "meaning": {
+      "en": "Poor eyesight in old age; also used humbly for one's own mistakes of perception.",
+      "zh": "年老眼睛看不清楚；也常用来自谦，表示自己看错了。"
+    },
+    "equivalents": [
+      "old eyes failing",
+      "can't see as well as I used to"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷老眼昏花，看报纸得戴老花镜。",
+        "en": "Grandpa's eyesight has dimmed with age; he needs reading glasses for the paper."
+      },
+      {
+        "zh": "我老眼昏花，把数字看错了，抱歉。",
+        "en": "My old eyes deceived me and I misread the figure; sorry."
+      }
+    ],
+    "usage": {
+      "en": "Often self-mocking when said about oneself. Predicate or attributive.",
+      "zh": "自称时带自嘲或自谦的口气，多作谓语、定语。"
+    },
+    "synonyms": [
+      "视力模糊",
+      "目光昏花"
+    ],
+    "antonyms": [
+      "耳聪目明",
+      "明察秋毫"
+    ]
+  },
+  {
+    "id": "yong-bing-zi-zhong",
+    "text": "拥兵自重",
+    "pinyin": "yōng bīng zì zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "political-corruption"
+    ],
+    "literal": "hold · troops · self · weighty",
+    "natural": "hold an army to make oneself weighty",
+    "meaning": {
+      "en": "To use control of an army to build up one's own power and refuse to obey the central authority.",
+      "zh": "掌握军队，凭借武力抬高自己的地位，不服从中央。"
+    },
+    "equivalents": [
+      "use military strength to hold the government to ransom",
+      "warlordism"
+    ],
+    "examples": [
+      {
+        "zh": "东汉末年，不少州牧拥兵自重，各霸一方。",
+        "en": "At the end of the Eastern Han, many governors kept their own armies and ruled their own domains."
+      },
+      {
+        "zh": "历史上，拥兵自重的将领往往成为朝廷的心腹之患。",
+        "en": "In history, generals who hoarded their armies often became a thorn in the court's side."
+      }
+    ],
+    "usage": {
+      "en": "Usually about warlords or generals; can be extended figuratively to anyone who leverages power for self-interest. Verb phrase.",
+      "zh": "多指军阀、将领，也可比喻凭借实力抬高自己的人，作谓语。"
+    },
+    "synonyms": [
+      "割据一方",
+      "有枪便是草头王"
+    ],
+    "antonyms": [
+      "听从号令",
+      "忠心耿耿"
+    ]
+  },
+  {
+    "id": "ji-jia-huan-le-ji-jia-chou",
+    "text": "几家欢乐几家愁",
+    "pinyin": "jǐ jiā huān lè jǐ jiā chóu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "sadness-and-despair"
+    ],
+    "literal": "how many · households · happy · how many · households · sad",
+    "natural": "some households rejoice, others grieve",
+    "meaning": {
+      "en": "At the same moment some people are happy while others are sad; fortunes differ.",
+      "zh": "同一时间里，有的人家欢乐，有的人家忧愁，指各人境遇不同、悲喜各异。"
+    },
+    "equivalents": [
+      "one man's meat is another man's poison",
+      "some win, some lose"
+    ],
+    "examples": [
+      {
+        "zh": "高考放榜，几家欢乐几家愁。",
+        "en": "When the exam results came out, some families were delighted and others dejected."
+      },
+      {
+        "zh": "股市大涨大跌，几家欢乐几家愁。",
+        "en": "With the market swinging wildly, some investors rejoice while others weep."
+      }
+    ],
+    "usage": {
+      "en": "Often used as a comment on results, rankings, or markets. Said in full or with 有人…有人….",
+      "zh": "常用来评论考试、比赛、股市等结果，多整句使用。"
+    },
+    "synonyms": [
+      "有人欢喜有人愁",
+      "大风吹倒梧桐树——有人欢喜有人愁"
+    ],
+    "antonyms": [
+      "普天同庆",
+      "同悲同喜"
+    ]
+  },
+  {
+    "id": "xin-jing-yao-dang",
+    "text": "心旌摇荡",
+    "pinyin": "xīn jīng yáo dàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "complex-emotional-states"
+    ],
+    "literal": "heart · banner · sway · toss",
+    "natural": "the heart's banner is swaying",
+    "meaning": {
+      "en": "To be so stirred that one's mind cannot settle, typically through excitement, attraction or temptation.",
+      "zh": "心里像旗子在风中摇动，形容心神不定、情绪激荡。"
+    },
+    "equivalents": [
+      "be carried away",
+      "have one's heart set aflutter"
+    ],
+    "examples": [
+      {
+        "zh": "一听到那个消息，他不禁心旌摇荡，彻夜难眠。",
+        "en": "On hearing the news he was deeply stirred and couldn't sleep all night."
+      },
+      {
+        "zh": "面对美景，她心旌摇荡，久久不愿离去。",
+        "en": "Before the lovely view she felt her heart swell and lingered a long time."
+      }
+    ],
+    "usage": {
+      "en": "Literary; the feeling can be joyful or tempting. Often 令人心旌摇荡.",
+      "zh": "书面语，所指的心情可以是欣喜，也可以是被诱惑，常说“令人心旌摇荡”。"
+    },
+    "synonyms": [
+      "心潮起伏",
+      "腊月的萝卜——冻（动）了心"
+    ],
+    "antonyms": [
+      "心如止水",
+      "古井无波"
+    ]
+  },
+  {
+    "id": "yan-xi-zhi-xi",
+    "text": "燕徙之喜",
+    "pinyin": "yàn xǐ zhī xǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "family-and-home"
+    ],
+    "literal": "swallow · move · 's · joy",
+    "natural": "the joy of the swallows' move",
+    "meaning": {
+      "en": "Congratulations on moving into a new home or premises.",
+      "zh": "祝贺人迁入新居或新址的贺词。"
+    },
+    "equivalents": [
+      "happy housewarming",
+      "congratulations on the new place"
+    ],
+    "examples": [
+      {
+        "zh": "恭贺张先生燕徙之喜，愿新居福气满堂。",
+        "en": "Congratulations to Mr Zhang on his new home; may it be full of blessings."
+      },
+      {
+        "zh": "公司搬进新大楼，同行纷纷送来花篮，祝贺燕徙之喜。",
+        "en": "As the company moved into its new building, peers sent flower baskets to congratulate it."
+      }
+    ],
+    "usage": {
+      "en": "A formal greeting for housewarming cards and banners; 徙 is read xǐ. Equivalent to 乔迁之喜.",
+      "zh": "用于新居落成、迁居的贺词，“徙”读xǐ，与“乔迁之喜”同义。"
+    },
+    "synonyms": [
+      "乔迁之喜",
+      "乔迁新居"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "mu-zi-lian-xin",
+    "text": "母子连心",
+    "pinyin": "mǔ zǐ lián xīn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family"
+    ],
+    "literal": "mother · child · linked · heart",
+    "natural": "mother and child, hearts linked",
+    "meaning": {
+      "en": "The bond between a mother and her child is so close that each feels the other's pain.",
+      "zh": "母亲和孩子心意相通，一方有难，另一方就会感到痛苦。"
+    },
+    "equivalents": [
+      "a mother's bond",
+      "mother and child are of one heart"
+    ],
+    "examples": [
+      {
+        "zh": "母子连心，孩子在外地受了伤，妈妈半夜就睡不着了。",
+        "en": "Mother and child are one in heart; when her son was hurt far away, she woke in the middle of the night."
+      },
+      {
+        "zh": "都说母子连心，他一进门，母亲就知道他心里有事。",
+        "en": "They say mother and child are of one heart; the moment he entered, his mother knew something was wrong."
+      }
+    ],
+    "usage": {
+      "en": "Often said of intuition or emotional closeness between mother and child. Neutral, warm tone.",
+      "zh": "多用来说母亲与孩子之间的心灵感应、亲情深厚，语气温暖。"
+    },
+    "synonyms": [
+      "啮指痛心",
+      "血浓于水"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-yuan-bao-yuan",
+    "text": "以怨报怨",
+    "pinyin": "yǐ yuàn bào yuàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution"
+    ],
+    "literal": "with · grudge · repay · grudge",
+    "natural": "repay a grudge with a grudge",
+    "meaning": {
+      "en": "To answer a wrong with a wrong; to retaliate in kind.",
+      "zh": "用怨恨来回报怨恨，指别人对自己不好，自己也以不好的方式回报。"
+    },
+    "equivalents": [
+      "an eye for an eye",
+      "give as good as one gets"
+    ],
+    "examples": [
+      {
+        "zh": "冤家宜解不宜结，以怨报怨只会让仇恨越积越深。",
+        "en": "Feuds should be settled, not stoked; repaying grudge with grudge only deepens hatred."
+      },
+      {
+        "zh": "他不愿以怨报怨，选择原谅了对方。",
+        "en": "He refused to hit back in kind and chose to forgive."
+      }
+    ],
+    "usage": {
+      "en": "Often contrasted with 以德报怨 or 以直报怨. Usually advice against it.",
+      "zh": "常与“以德报怨”“以直报怨”对照，多作劝诫。"
+    },
+    "synonyms": [
+      "以牙还牙",
+      "冤冤相报"
+    ],
+    "antonyms": [
+      "芦衣顺母",
+      "宽以待人"
+    ]
+  },
+  {
+    "id": "sui-yue-bu-rao-ren",
+    "text": "岁月不饶人",
+    "pinyin": "suì yuè bù ráo rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "fleeting-time",
+      "experience-and-old-age"
+    ],
+    "literal": "years · not · spare · people",
+    "natural": "the years spare no one",
+    "meaning": {
+      "en": "Time spares nobody; people inevitably age and decline.",
+      "zh": "时间不会宽恕任何人，人总要变老、衰退。"
+    },
+    "equivalents": [
+      "time and tide wait for no man",
+      "the years catch up with everyone"
+    ],
+    "examples": [
+      {
+        "zh": "岁月不饶人，我跑几步就喘了。",
+        "en": "The years spare no one; I'm out of breath after a few steps."
+      },
+      {
+        "zh": "看着老同学满头白发，才感叹岁月不饶人。",
+        "en": "Seeing my old classmate's white hair, I sighed that time spares nobody."
+      }
+    ],
+    "usage": {
+      "en": "A sigh about ageing; often with 真是 or 都说. Casual.",
+      "zh": "多用于感叹年老体衰，口语常说“真是岁月不饶人”。"
+    },
+    "synonyms": [
+      "光阴似箭",
+      "时间是把杀猪刀"
+    ],
+    "antonyms": [
+      "青春永驻",
+      "老当益壮"
+    ]
+  },
+  {
+    "id": "cai-li-hu-kou-you-ru-lang-wo",
+    "text": "才离虎口，又入狼窝",
+    "pinyin": "cái lí hǔ kǒu, yòu rù láng wō",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "just · leave · tiger · mouth, again · enter · wolf · den",
+    "natural": "just out of the tiger's mouth, into the wolf's den",
+    "meaning": {
+      "en": "To escape one danger only to fall into another.",
+      "zh": "刚摆脱一个危险，又陷入另一个危险。"
+    },
+    "equivalents": [
+      "out of the frying pan into the fire",
+      "from bad to worse"
+    ],
+    "examples": [
+      {
+        "zh": "他刚逃出赌场的债务，又被骗进了传销，真是才离虎口，又入狼窝。",
+        "en": "He had barely escaped his gambling debts when he was lured into a pyramid scheme: out of the tiger's mouth into the wolf's den."
+      },
+      {
+        "zh": "换了一家公司，老板更苛刻，简直才离虎口，又入狼窝。",
+        "en": "The new company's boss is even harsher: out of the frying pan into the fire."
+      }
+    ],
+    "usage": {
+      "en": "Often with 真是 or 简直. Casual.",
+      "zh": "常说“真是”“简直”，口语。"
+    },
+    "synonyms": [
+      "前门拒虎，后门进狼",
+      "祸不单行"
+    ],
+    "antonyms": [
+      "逢凶化吉",
+      "化险为夷"
+    ]
+  },
+  {
+    "id": "zhong-gan-yi-dan",
+    "text": "忠肝义胆",
+    "pinyin": "zhōng gān yì dǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "loyal · liver · righteous · gall",
+    "natural": "a loyal liver and righteous gall",
+    "meaning": {
+      "en": "Utterly loyal and chivalrous; ready to give everything for loyalty and justice.",
+      "zh": "形容对人忠诚，讲义气，不惜付出一切。"
+    },
+    "equivalents": [
+      "heart of gold and true as steel",
+      "staunchly loyal"
+    ],
+    "examples": [
+      {
+        "zh": "关羽忠肝义胆，千古传颂。",
+        "en": "Guan Yu's loyalty and righteousness have been praised through the ages."
+      },
+      {
+        "zh": "他对朋友忠肝义胆，从不退缩。",
+        "en": "He is fiercely loyal to his friends and never shrinks back."
+      }
+    ],
+    "usage": {
+      "en": "Praises a person's character; attributive or predicate. Liver and gall stand for courage and sincerity.",
+      "zh": "赞扬人的品格，作定语、谓语。肝、胆比喻真诚和勇气。"
+    },
+    "synonyms": [
+      "赤胆忠心",
+      "断头将军"
+    ],
+    "antonyms": [
+      "背信弃义",
+      "卖友求荣"
+    ]
+  },
+  {
+    "id": "guo-fu-bing-qiang",
+    "text": "国富兵强",
+    "pinyin": "guó fù bīng qiáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "peace-and-prosperity"
+    ],
+    "literal": "country · rich · army · strong",
+    "natural": "a rich country and a strong army",
+    "meaning": {
+      "en": "A nation that is wealthy and militarily powerful.",
+      "zh": "国家富足，军队强大。"
+    },
+    "equivalents": [
+      "a prosperous and powerful state"
+    ],
+    "examples": [
+      {
+        "zh": "商鞅变法的目标是使秦国国富兵强。",
+        "en": "The aim of Shang Yang's reforms was to make Qin rich and strong."
+      },
+      {
+        "zh": "只有国富兵强，才不会被人欺负。",
+        "en": "Only a rich and strong nation will not be bullied."
+      }
+    ],
+    "usage": {
+      "en": "Used in writing about statecraft and history. Predicate or attributive.",
+      "zh": "多用于谈论治国和历史，作谓语、定语。"
+    },
+    "synonyms": [
+      "足食足兵",
+      "国泰民安"
+    ],
+    "antonyms": [
+      "国弱民贫",
+      "民不聊生"
+    ]
+  },
+  {
+    "id": "bu-luo-yan-quan",
+    "text": "不落言筌",
+    "pinyin": "bù luò yán quán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "mental-clarity",
+      "poor-speech-and-silence"
+    ],
+    "literal": "not · fall into · words · fish trap",
+    "natural": "not fall into the trap of words",
+    "meaning": {
+      "en": "To grasp the real meaning without being bound by the words used to express it.",
+      "zh": "不拘泥于语言文字，直接领会其中的真意。"
+    },
+    "equivalents": [
+      "read between the lines",
+      "get the spirit, not the letter"
+    ],
+    "examples": [
+      {
+        "zh": "读诗要不落言筌，体会作者的真情。",
+        "en": "When reading poetry, don't get stuck on the words; feel the poet's true emotion."
+      },
+      {
+        "zh": "这位老师讲课不落言筌，总能点出要害。",
+        "en": "This teacher never gets bogged down in wording and always hits the heart of the matter."
+      }
+    ],
+    "usage": {
+      "en": "Literary; often about reading, Zen, or art criticism. 筌 is a bamboo fish trap, read quán.",
+      "zh": "书面语，多用于读书、禅理、评论艺术。“筌”是捕鱼的竹器，读quán。"
+    },
+    "synonyms": [
+      "得意忘言",
+      "会心一笑"
+    ],
+    "antonyms": [
+      "咬文嚼字",
+      "拘泥字句"
+    ]
+  },
+  {
+    "id": "shen-jiao-sheng-yu-yan-jiao",
+    "text": "身教胜于言教",
+    "pinyin": "shēn jiào shèng yú yán jiào",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "parenting-and-family",
+      "effective-teaching-methods"
+    ],
+    "literal": "body · teach · surpass · words · teach",
+    "natural": "teaching by example beats teaching by words",
+    "meaning": {
+      "en": "Setting an example teaches better than preaching.",
+      "zh": "以自己的行动作榜样，比口头教导更有效。"
+    },
+    "equivalents": [
+      "actions speak louder than words",
+      "lead by example"
+    ],
+    "examples": [
+      {
+        "zh": "身教胜于言教，父母爱读书，孩子自然也爱读书。",
+        "en": "Example beats instruction: if parents love reading, their children will too."
+      },
+      {
+        "zh": "作为老师，要明白身教胜于言教。",
+        "en": "As a teacher, you must understand that example beats lecturing."
+      }
+    ],
+    "usage": {
+      "en": "Common in education and parenting advice. Neutral.",
+      "zh": "常用于教育、家教方面的劝勉，中性。"
+    },
+    "synonyms": [
+      "不言之教",
+      "以身作则"
+    ],
+    "antonyms": [
+      "言行不一",
+      "说一套做一套"
+    ]
+  },
+  {
+    "id": "hao-pu-jian-xiang",
+    "text": "濠濮间想",
+    "pinyin": "háo pú jiān xiǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "contentment-and-simplicity",
+      "freedom",
+      "stories"
+    ],
+    "literal": "Hao · Pu · between · thought",
+    "natural": "thoughts of the Hao and the Pu rivers",
+    "meaning": {
+      "en": "A yearning for the carefree seclusion of nature, free of worldly cares.",
+      "zh": "像庄子在濠水、濮水边那样，想隐逸山水、逍遥自在。"
+    },
+    "equivalents": [
+      "a longing for the simple life",
+      "a yen for the country idyll"
+    ],
+    "examples": [
+      {
+        "zh": "一到溪边，他便生出濠濮间想。",
+        "en": "On reaching the stream he felt a pull toward a carefree life in nature."
+      },
+      {
+        "zh": "忙碌之余，真有几分濠濮间想。",
+        "en": "In the middle of all the bustle, I truly long for a quiet life by the water."
+      }
+    ],
+    "origin": {
+      "source": "南朝宋·刘义庆《世说新语·言语》",
+      "story": {
+        "en": "When Emperor Jianwen of Jin entered the Hualin Garden he remarked that a place that touches the heart need not be far; a shaded spot with trees and water gives the feeling of the Hao and Pu rivers.",
+        "zh": "《世说新语·言语》载简文帝入华林园，说：“会心处不必在远，翳然林水，便自有濠、濮间想也。”"
+      },
+      "date": {
+        "zh": "南朝宋 · 约430年",
+        "en": "Liu Song, c. 430"
+      }
+    },
+    "usage": {
+      "en": "Allusive and literary; 濠 háo, 濮 pú (rivers where Zhuangzi once fished and watched fish). Close to 濠梁之乐.",
+      "zh": "典雅，“濠”读háo，“濮”读pú，指庄子曾观鱼、钓鱼的两条水。与“濠梁之乐”相近。"
+    },
+    "synonyms": [
+      "濠梁之乐",
+      "山林之趣"
+    ],
+    "antonyms": [
+      "追名逐利",
+      "汲汲营营"
+    ]
+  },
+  {
+    "id": "zhuang-zhou-gu-pen",
+    "text": "庄周鼓盆",
+    "pinyin": "zhuāng zhōu gǔ pén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "庄子鼓盆"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "daoist-classics",
+      "stories"
+    ],
+    "literal": "Zhuang · Zhou · beat · basin",
+    "natural": "Zhuangzi drums on a basin",
+    "meaning": {
+      "en": "To face a spouse's death with philosophical calm, even singing; also an allusion to a wife's death.",
+      "zh": "庄子妻死，他鼓盆而歌，表示对生死的豁达；后也用作丧妻的典故。"
+    },
+    "equivalents": [
+      "accept death with equanimity"
+    ],
+    "examples": [
+      {
+        "zh": "他学庄周鼓盆，把亲人的离世看作自然的变化。",
+        "en": "Following Zhuangzi's drumming on a basin, he took his loved one's passing as a natural change."
+      },
+      {
+        "zh": "文中以庄周鼓盆，写出作者看淡生死的态度。",
+        "en": "The essay uses Zhuang Zhou drumming on the basin to show the author's calm attitude to life and death."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·至乐》",
+      "story": {
+        "en": "When Zhuangzi's wife died, Hui Shi found him sitting with legs sprawled, drumming on a basin and singing, and Zhuangzi explained that death is just another change, like the turn of the seasons.",
+        "zh": "《庄子·至乐》：“庄子妻死，惠子吊之，庄子则方箕踞鼓盆而歌。”"
+      },
+      "date": {
+        "zh": "战国中期 · 前4—前3世纪",
+        "en": "mid Warring States, 4th–3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Allusive and literary; usually in writing about attitudes to death.",
+      "zh": "典故，书面语，多用于谈生死观。"
+    },
+    "synonyms": [
+      "鼓盆而歌",
+      "达观生死"
+    ],
+    "antonyms": [
+      "痛不欲生",
+      "呼天抢地"
+    ]
+  },
+  {
+    "id": "wu-you-zhi-xiang",
+    "text": "乌有之乡",
+    "pinyin": "wū yǒu zhī xiāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "stories"
+    ],
+    "literal": "nothing · exist · 's · place",
+    "natural": "the land of nothing",
+    "meaning": {
+      "en": "A place that does not exist; something that has vanished into nothing.",
+      "zh": "不存在的地方，指完全落空、化为乌有。"
+    },
+    "equivalents": [
+      "a land of nowhere",
+      "vanished into thin air"
+    ],
+    "examples": [
+      {
+        "zh": "多年的积蓄一夜之间都成了乌有之乡。",
+        "en": "Years of savings turned to nothing overnight."
+      },
+      {
+        "zh": "他向往的世外桃源，不过是乌有之乡。",
+        "en": "The paradise he longed for was only a place that does not exist."
+      }
+    ],
+    "usage": {
+      "en": "Literary; often as 化为乌有 in speech. Refers to non-existence or utopias.",
+      "zh": "书面语，口语多说“化为乌有”，指不存在的地方或乌托邦。"
+    },
+    "synonyms": [
+      "无何有之乡",
+      "子虚乌有"
+    ],
+    "antonyms": [
+      "实实在在",
+      "真实可见"
+    ]
+  }
+]

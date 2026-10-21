@@ -1,0 +1,945 @@
+[
+  {
+    "id": "feng-shui-lun-liu-zhuan",
+    "text": "风水轮流转",
+    "pinyin": "fēng shuǐ lún liú zhuàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "change",
+      "comebacks-and-renewal"
+    ],
+    "literal": "wind · water · take turns · turn",
+    "natural": "feng shui takes its turn",
+    "meaning": {
+      "en": "Fortunes change over time; those who are on top today may be down tomorrow.",
+      "zh": "运气和境遇会变化，今天得势的人明天可能失势。"
+    },
+    "equivalents": [
+      "the wheel of fortune turns",
+      "every dog has its day"
+    ],
+    "examples": [
+      {
+        "zh": "风水轮流转，今年终于轮到我们队夺冠了。",
+        "en": "Fortune turns; this year it was finally our team's turn to win."
+      },
+      {
+        "zh": "别太得意，风水轮流转，谁也不会一直走运。",
+        "en": "Don't get cocky; fortunes change and nobody stays lucky for ever."
+      },
+      {
+        "zh": "他当年被人看不起，如今风水轮流转，成了大老板。",
+        "en": "He was looked down on back then; now the tables have turned and he's a big boss."
+      }
+    ],
+    "usage": {
+      "en": "Casual, often a warning or consolation. Usually quoted in full, sometimes with 三十年河东，三十年河西.",
+      "zh": "口语，常作劝诫或安慰；多完整引用，有时接“三十年河东，三十年河西”。"
+    },
+    "synonyms": [
+      "三十年河东，三十年河西",
+      "时来运转"
+    ],
+    "antonyms": [
+      "一成不变",
+      "一蹶不振"
+    ]
+  },
+  {
+    "id": "shang-bu-liao-tai-mian",
+    "text": "上不了台面",
+    "pinyin": "shàng bù liǎo tái miàn",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "common-and-worthless"
+    ],
+    "literal": "go up · cannot · table · surface",
+    "natural": "cannot be put on the table",
+    "meaning": {
+      "en": "Not good or respectable enough to be shown in public or taken seriously.",
+      "zh": "不够体面、拿不出手，不能公开示人或被正式对待。"
+    },
+    "equivalents": [
+      "not fit for polite company",
+      "not ready for prime time"
+    ],
+    "examples": [
+      {
+        "zh": "这种小把戏上不了台面。",
+        "en": "Such cheap tricks are not fit to be shown in public."
+      },
+      {
+        "zh": "他的作品粗糙，实在上不了台面。",
+        "en": "His work is crude and really not fit to be shown."
+      },
+      {
+        "zh": "私下的玩笑话上不了台面，别在会上说。",
+        "en": "Private jokes aren't suitable for the table, so don't say them at the meeting."
+      }
+    ],
+    "usage": {
+      "en": "Casual, mildly dismissive; a variant 上不得台面 is also heard.",
+      "zh": "口语，略带轻视；也说“上不得台面”。"
+    },
+    "synonyms": [
+      "难登大雅之堂",
+      "拿不出手"
+    ],
+    "antonyms": [
+      "登大雅之堂",
+      "拿得出手"
+    ]
+  },
+  {
+    "id": "deng-da-ya-zhi-tang",
+    "text": "登大雅之堂",
+    "pinyin": "dēng dà yǎ zhī táng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "arts"
+    ],
+    "literal": "ascend · refined · 's · hall",
+    "natural": "step into the hall of refinement",
+    "meaning": {
+      "en": "To be accepted as elegant and fit for formal or cultured settings.",
+      "zh": "进入高雅正式的场合，被认为够得上雅致。"
+    },
+    "equivalents": [
+      "gain respectability",
+      "be fit for polite society"
+    ],
+    "examples": [
+      {
+        "zh": "民间小调想登大雅之堂，还得提高制作水准。",
+        "en": "For folk tunes to gain respectability, production standards must improve."
+      },
+      {
+        "zh": "漫画如今也能登大雅之堂了，还进了美术馆。",
+        "en": "Comics can now enter polite society, even the art gallery."
+      },
+      {
+        "zh": "这道家常菜竟也能登大雅之堂，成了国宴菜。",
+        "en": "This home-style dish has even become respectable enough for a state banquet."
+      }
+    ],
+    "usage": {
+      "en": "Mostly seen in the negative 难登大雅之堂 / 登不了大雅之堂; the positive form says something has gained respectability.",
+      "zh": "多见于否定式“难登大雅之堂”“登不了大雅之堂”；肯定式表示获得认可。"
+    },
+    "synonyms": [
+      "上得了台面",
+      "大雅之堂"
+    ],
+    "antonyms": [
+      "难登大雅之堂",
+      "上不了台面"
+    ]
+  },
+  {
+    "id": "shi-ren-jian-yan-huo",
+    "text": "食人间烟火",
+    "pinyin": "shí rén jiān yān huǒ",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "daily",
+      "contentment-and-simplicity"
+    ],
+    "literal": "eat · human · world · smoke · fire",
+    "natural": "eat the smoke and fire of the human world",
+    "meaning": {
+      "en": "To live an ordinary life like everyone else, eating cooked food and facing everyday concerns.",
+      "zh": "像普通人一样过着吃饭生活的凡俗日子。"
+    },
+    "equivalents": [
+      "live in the real world",
+      "be down-to-earth"
+    ],
+    "examples": [
+      {
+        "zh": "她虽然是明星，也要食人间烟火，也会为房租发愁。",
+        "en": "Star though she is, she lives in the real world and worries about rent."
+      },
+      {
+        "zh": "神仙不食人间烟火，我们凡人可不行。",
+        "en": "Immortals needn't eat mortal fare, but we ordinary people must."
+      },
+      {
+        "zh": "这位大学者其实很爱食人间烟火，爱逛菜市场。",
+        "en": "The great scholar is quite down-to-earth and loves visiting the food market."
+      }
+    ],
+    "usage": {
+      "en": "Mostly seen in the negative 不食人间烟火; the affirmative is a playful counterpart.",
+      "zh": "多见于否定式“不食人间烟火”；肯定式是风趣的反用。"
+    },
+    "synonyms": [
+      "脚踏实地",
+      "接地气"
+    ],
+    "antonyms": [
+      "不食人间烟火",
+      "超凡脱俗"
+    ]
+  },
+  {
+    "id": "wu-gui-ju-bu-cheng-fang-yuan",
+    "text": "无规矩不成方圆",
+    "pinyin": "wú guī jǔ bù chéng fāng yuán",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "fairness-and-impartiality"
+    ],
+    "literal": "without · compass-and-square · not · make · square · circle",
+    "natural": "without compass and square, no squares or circles",
+    "meaning": {
+      "en": "Without rules and standards nothing can be done properly.",
+      "zh": "没有规则和标准，就做不成事情。"
+    },
+    "equivalents": [
+      "rules are rules",
+      "no order without rules"
+    ],
+    "examples": [
+      {
+        "zh": "无规矩不成方圆，比赛必须按规则来。",
+        "en": "Without rules there is no order; the contest must follow the rules."
+      },
+      {
+        "zh": "公司再小，也要有制度，无规矩不成方圆。",
+        "en": "However small a firm is, it needs regulations; without rules nothing works."
+      },
+      {
+        "zh": "妈妈说无规矩不成方圆，要我按时作息。",
+        "en": "Mum says there's no order without rules and wants me to keep regular hours."
+      }
+    ],
+    "usage": {
+      "en": "Said to justify rules. It echoes Mencius's 不以规矩，不能成方圆 (《孟子·离娄上》), but the short form here is the common modern proverb.",
+      "zh": "用来说明规则的必要。呼应《孟子·离娄上》“不以规矩，不能成方圆”，但这里的简短说法是今天的通行谚语。"
+    },
+    "synonyms": [
+      "国有国法，家有家规",
+      "没有规矩，不成方圆"
+    ],
+    "antonyms": [
+      "为所欲为",
+      "无法无天"
+    ]
+  },
+  {
+    "id": "fa-bu-e-gui",
+    "text": "法不阿贵",
+    "pinyin": "fǎ bù ē guì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance"
+    ],
+    "literal": "law · not · flatter · noble",
+    "natural": "the law does not flatter the noble",
+    "meaning": {
+      "en": "The law does not bend for the powerful; everyone is equal before it.",
+      "zh": "法律不偏袒权贵，对谁都一视同仁。"
+    },
+    "equivalents": [
+      "no one is above the law",
+      "the law favours no one"
+    ],
+    "examples": [
+      {
+        "zh": "法不阿贵，再高的职位也不能例外。",
+        "en": "The law favours no one; even the highest office is no exception."
+      },
+      {
+        "zh": "法院依法审理，体现了法不阿贵的原则。",
+        "en": "The court tried the case by law, showing that nobody is above it."
+      },
+      {
+        "zh": "他一向法不阿贵，铁面无私。",
+        "en": "He has always applied the law without fear or favour."
+      }
+    ],
+    "origin": {
+      "source": "《韩非子·有度》",
+      "story": {
+        "en": "Han Fei argued for strict, impartial law: 'The law does not flatter the noble, as the plumb line does not bend for the crooked' (法不阿贵，绳不挠曲).",
+        "zh": "韩非主张严明执法：“法不阿贵，绳不挠曲。”"
+      },
+      "date": {
+        "zh": "战国晚期 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted with 绳不挠曲. Formal; praises impartial justice.",
+      "zh": "常与“绳不挠曲”连用，语体庄重，赞扬执法公正。"
+    },
+    "synonyms": [
+      "王子犯法，与庶民同罪",
+      "铁面无私"
+    ],
+    "antonyms": [
+      "徇私枉法",
+      "官官相护"
+    ]
+  },
+  {
+    "id": "suan-pu-tao-xin-li",
+    "text": "酸葡萄心理",
+    "pinyin": "suān pú táo xīn lǐ",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "complex-emotional-states"
+    ],
+    "literal": "sour · grape · mentality",
+    "natural": "the sour-grapes mentality",
+    "meaning": {
+      "en": "Belittling something one cannot have in order to soothe one's own disappointment.",
+      "zh": "得不到某样东西，就贬低它来安慰自己的心理。"
+    },
+    "equivalents": [
+      "sour grapes",
+      "belittling what you can't have"
+    ],
+    "examples": [
+      {
+        "zh": "他说那家公司不好，其实是酸葡萄心理，因为没被录用。",
+        "en": "He says that company is bad, but it is sour grapes; they didn't hire him."
+      },
+      {
+        "zh": "落选后说职位没意思，难免有酸葡萄心理。",
+        "en": "Saying the post was dull after losing out is plain sour grapes."
+      },
+      {
+        "zh": "别用酸葡萄心理看待别人的成功。",
+        "en": "Don't view others' success with a sour-grapes attitude."
+      }
+    ],
+    "usage": {
+      "en": "Modelled on Aesop's fox and the grapes (also known in Chinese as 吃不到葡萄说葡萄酸); a term of popular psychology, used critically.",
+      "zh": "出自伊索寓言狐狸与葡萄的故事（汉语也说“吃不到葡萄说葡萄酸”）；是通俗心理学术语，多含批评。"
+    },
+    "synonyms": [
+      "吃不到葡萄说葡萄酸",
+      "自我安慰"
+    ],
+    "antonyms": [
+      "心悦诚服"
+    ]
+  },
+  {
+    "id": "you-yi-shuo-yi",
+    "text": "有一说一",
+    "pinyin": "yǒu yī shuō yī",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "frankness-and-candour",
+      "fairness-and-impartiality"
+    ],
+    "literal": "have · one · say · one",
+    "natural": "if there's one, say one",
+    "meaning": {
+      "en": "To speak honestly and stick to the facts, neither exaggerating nor playing down.",
+      "zh": "实事求是，有什么就说什么，不夸大也不缩小。"
+    },
+    "equivalents": [
+      "to be fair",
+      "call it as it is"
+    ],
+    "examples": [
+      {
+        "zh": "有一说一，这次是我们做得不够好。",
+        "en": "To be fair, we did not do well this time."
+      },
+      {
+        "zh": "我这人有一说一，不会拐弯抹角。",
+        "en": "I tell it as it is; I don't beat about the bush."
+      },
+      {
+        "zh": "有一说一，他的方案确实比我的好。",
+        "en": "Honestly, his proposal really is better than mine."
+      }
+    ],
+    "usage": {
+      "en": "Casual and very common in recent speech, often as a preface to an honest remark.",
+      "zh": "口语，近年很常用，常作坦率评论的开场。"
+    },
+    "synonyms": [
+      "实话实说",
+      "一是一，二是二"
+    ],
+    "antonyms": [
+      "夸大其词",
+      "添油加醋"
+    ]
+  },
+  {
+    "id": "heng-kong-chu-shi",
+    "text": "横空出世",
+    "pinyin": "héng kōng chū shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unprecedented-situations",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "across · sky · emerge · world",
+    "natural": "appearing across the sky",
+    "meaning": {
+      "en": "To burst onto the scene with great impact, like something from nowhere.",
+      "zh": "形容人或事物突然出现，气势非凡，影响很大。"
+    },
+    "equivalents": [
+      "burst onto the scene",
+      "come out of nowhere"
+    ],
+    "examples": [
+      {
+        "zh": "这款新手机横空出世，立刻引发抢购。",
+        "en": "This new phone burst onto the market and caused a buying frenzy."
+      },
+      {
+        "zh": "一位年轻棋手横空出世，击败了所有对手。",
+        "en": "A young chess player appeared from nowhere and beat all his rivals."
+      },
+      {
+        "zh": "这部电影横空出世，颠覆了人们对国产动画的印象。",
+        "en": "The film exploded onto the scene, changing impressions of domestic animation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in news and reviews. The phrase comes from Mao Zedong's poem 《念奴娇·昆仑》, though here it is simply a modern idiom.",
+      "zh": "多作谓语，常见于新闻和评论。语出毛泽东《念奴娇·昆仑》“横空出世，莽昆仑”，今作一般成语使用。"
+    },
+    "synonyms": [
+      "脱颖而出",
+      "异军突起",
+      "半路杀出个程咬金"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "销声匿迹"
+    ]
+  },
+  {
+    "id": "zui-hou-yi-gen-dao-cao",
+    "text": "最后一根稻草",
+    "pinyin": "zuì hòu yī gēn dào cǎo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "modern": "borrowed",
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "chain-reactions"
+    ],
+    "literal": "last · one · piece · straw",
+    "natural": "the last straw",
+    "meaning": {
+      "en": "The final small thing that makes a situation unbearable or causes collapse.",
+      "zh": "最后一件小事，使人忍无可忍或使局面崩溃。"
+    },
+    "equivalents": [
+      "the last straw",
+      "the straw that broke the camel's back"
+    ],
+    "examples": [
+      {
+        "zh": "迟到又被罚款，成了压垮他的最后一根稻草。",
+        "en": "Being late and then fined was the last straw for him."
+      },
+      {
+        "zh": "这次失败是压死骆驼的最后一根稻草，公司只好关门。",
+        "en": "This failure was the last straw, and the company had to close."
+      },
+      {
+        "zh": "她说你的谎话就是最后一根稻草。",
+        "en": "She said your lie was the last straw."
+      }
+    ],
+    "usage": {
+      "en": "Usually in full as 压死骆驼的最后一根稻草; the idea matches the English 'last straw'.",
+      "zh": "常说全“压死骆驼的最后一根稻草”，与英语 last straw 同义。"
+    },
+    "synonyms": [
+      "压死骆驼的最后一根稻草",
+      "忍无可忍"
+    ],
+    "antonyms": [
+      "无动于衷",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "bu-cheng-qi-hou",
+    "text": "不成气候",
+    "pinyin": "bù chéng qì hòu",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "failed-ambitions",
+      "common-and-worthless"
+    ],
+    "literal": "not · form · climate",
+    "natural": "has not formed a climate",
+    "meaning": {
+      "en": "Not significant or developed enough to matter; unlikely to amount to anything.",
+      "zh": "成不了大事，没有什么发展前途或影响。"
+    },
+    "equivalents": [
+      "won't amount to much",
+      "small fry"
+    ],
+    "examples": [
+      {
+        "zh": "这些小作坊不成气候，不必担心。",
+        "en": "These small workshops won't amount to much, so no need to worry."
+      },
+      {
+        "zh": "他们的组织不成气候，不必担心。",
+        "en": "Their organisation is going nowhere, so there's no need to worry."
+      },
+      {
+        "zh": "早期的互联网公司大多不成气候。",
+        "en": "Most early internet firms never amounted to anything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also 成不了气候 / 成气候 as a positive.",
+      "zh": "多作谓语；也可说“成不了气候”，肯定式为“成气候”。"
+    },
+    "synonyms": [
+      "小打小闹",
+      "难成大器"
+    ],
+    "antonyms": [
+      "蔚然成风",
+      "大有作为"
+    ]
+  },
+  {
+    "id": "yi-gong-di-guo",
+    "text": "以功抵过",
+    "pinyin": "yǐ gōng dǐ guò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "mistakes-and-correction",
+      "fairness-and-impartiality"
+    ],
+    "literal": "with · merit · offset · fault",
+    "natural": "offset a fault with merit",
+    "meaning": {
+      "en": "To make up for a mistake or offence by one's achievements.",
+      "zh": "用功劳来抵消过失或罪过。"
+    },
+    "equivalents": [
+      "make up for one's faults by merit",
+      "redeem oneself"
+    ],
+    "examples": [
+      {
+        "zh": "他立下大功，请求以功抵过。",
+        "en": "He rendered great service and asked to have it offset his fault."
+      },
+      {
+        "zh": "功是功，过是过，不能简单地以功抵过。",
+        "en": "Merit is merit and fault is fault; one cannot simply cancel the other."
+      },
+      {
+        "zh": "官员想以功抵过，法院并未采纳。",
+        "en": "The official hoped his achievements would cancel out his offence, but the court did not accept this."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, often in discipline and legal contexts. Often debated, because credit and blame are held separate.",
+      "zh": "多作谓语，书面语，常见于纪律和司法语境；功过是否相抵常有争议。"
+    },
+    "synonyms": [
+      "将功赎罪",
+      "戴罪立功"
+    ],
+    "antonyms": [
+      "功过分明",
+      "罪加一等"
+    ]
+  },
+  {
+    "id": "gou-bu-xian-jia-pin",
+    "text": "狗不嫌家贫",
+    "pinyin": "gǒu bù xián jiā pín",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "family-and-home",
+      "positive-character-qualities"
+    ],
+    "literal": "dog · not · dislike · home · poor",
+    "natural": "a dog doesn't mind a poor home",
+    "meaning": {
+      "en": "One should stay loyal to one's home and not despise it for being poor.",
+      "zh": "不能因为家里穷就嫌弃它，应当忠于家园。"
+    },
+    "equivalents": [
+      "there's no place like home",
+      "love your roots, however humble"
+    ],
+    "examples": [
+      {
+        "zh": "子不嫌母丑，狗不嫌家贫，哪怕再穷也是故乡。",
+        "en": "A child doesn't mind a plain mother, nor a dog a poor home; however poor, it is still home."
+      },
+      {
+        "zh": "狗不嫌家贫，他拒绝了城里的高薪，回村办学。",
+        "en": "Loyal to his poor home, he declined a city salary to return and run a school in his village."
+      },
+      {
+        "zh": "老人常说狗不嫌家贫，别瞧不起自己的出身。",
+        "en": "The old man often says never to look down on your humble origins."
+      }
+    ],
+    "usage": {
+      "en": "Usually the second half of 子不嫌母丑，狗不嫌家贫. Praises loyalty, sometimes used to urge acceptance of one's lot.",
+      "zh": "多为“子不嫌母丑，狗不嫌家贫”的后半句，称许忠诚，有时劝人安于现状。"
+    },
+    "synonyms": [
+      "子不嫌母丑，狗不嫌家贫",
+      "金窝银窝不如自己的狗窝"
+    ],
+    "antonyms": [
+      "嫌贫爱富",
+      "忘本"
+    ]
+  },
+  {
+    "id": "quan-he-bu-quan-li",
+    "text": "劝和不劝离",
+    "pinyin": "quàn hé bù quàn lí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "relationships"
+    ],
+    "literal": "urge · peace · not · urge · separation",
+    "natural": "urge reconciliation, never separation",
+    "meaning": {
+      "en": "When friends or a couple quarrel, try to reconcile them rather than urge them to split.",
+      "zh": "别人闹矛盾，尤其是夫妻吵架，应该劝他们和好，而不是劝他们分开。"
+    },
+    "equivalents": [
+      "be a peacemaker, not a divider",
+      "mend, don't end"
+    ],
+    "examples": [
+      {
+        "zh": "劝和不劝离，朋友吵架了我们先劝劝。",
+        "en": "We urge peace, not parting; when friends quarrel we should first try to calm things down."
+      },
+      {
+        "zh": "老话说劝和不劝离，别随便劝人离婚。",
+        "en": "The old saying goes: urge reconciliation, not divorce, so don't casually advise a split."
+      },
+      {
+        "zh": "奶奶坚持劝和不劝离，帮邻居调解了多年。",
+        "en": "Grandma has always urged reconciliation and spent years mediating for neighbours."
+      }
+    ],
+    "usage": {
+      "en": "Common folk advice, often quoted with 宁拆十座庙，不毁一桩婚. Note that it is a rule of thumb, not meant for abusive relationships.",
+      "zh": "民间常用的劝诫，常与“宁拆十座庙，不毁一桩婚”并提；是一般经验，不适用于存在暴力的婚姻。"
+    },
+    "synonyms": [
+      "宁拆十座庙，不毁一桩婚",
+      "和为贵"
+    ],
+    "antonyms": [
+      "挑拨离间",
+      "煽风点火"
+    ]
+  },
+  {
+    "id": "di-qiu-li-le-shei-dou-zhuan",
+    "text": "地球离了谁都转",
+    "pinyin": "dì qiú lí le shéi dōu zhuàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "common-and-worthless"
+    ],
+    "literal": "Earth · without · anyone · all · turns",
+    "natural": "the Earth keeps turning without anyone",
+    "meaning": {
+      "en": "No one is indispensable; things go on without any one person.",
+      "zh": "没有谁是不可缺少的，少了谁事情都照样进行。"
+    },
+    "equivalents": [
+      "nobody is indispensable",
+      "the show must go on"
+    ],
+    "examples": [
+      {
+        "zh": "别觉得自己多重要，地球离了谁都转。",
+        "en": "Don't think too highly of yourself; the world goes on without anyone."
+      },
+      {
+        "zh": "他辞职后公司照常运转，地球离了谁都转。",
+        "en": "The firm ran as usual after he resigned; nobody is indispensable."
+      },
+      {
+        "zh": "分手没什么大不了，地球离了谁都转。",
+        "en": "A break-up isn't the end of the world; life goes on."
+      }
+    ],
+    "usage": {
+      "en": "Casual; may be a humble reminder, a consolation, or a snub.",
+      "zh": "口语，可以是谦逊的提醒、安慰，也可能是冷言冷语。"
+    },
+    "synonyms": [
+      "死了张屠夫，不吃混毛猪",
+      "没有谁不可替代"
+    ],
+    "antonyms": [
+      "缺一不可",
+      "不可或缺"
+    ]
+  },
+  {
+    "id": "sha-ren-chang-ming",
+    "text": "杀人偿命",
+    "pinyin": "shā rén cháng mìng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "revenge-and-retribution",
+      "fairness-and-impartiality"
+    ],
+    "literal": "kill · person · repay · life",
+    "natural": "he who kills must pay with his life",
+    "meaning": {
+      "en": "A killer must pay for the crime with his own life.",
+      "zh": "杀了人就应该用自己的性命来抵偿。"
+    },
+    "equivalents": [
+      "a life for a life",
+      "blood for blood"
+    ],
+    "examples": [
+      {
+        "zh": "杀人偿命，欠债还钱，是天经地义的事。",
+        "en": "A killer pays with his life and a debtor pays what he owes; this is only natural."
+      },
+      {
+        "zh": "古代法律讲究杀人偿命。",
+        "en": "Ancient law held that a killer must pay with his life."
+      },
+      {
+        "zh": "受害者家属要求杀人偿命。",
+        "en": "The victim's family demanded a life for a life."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 欠债还钱. Reflects traditional views on justice; capital punishment is debated today.",
+      "zh": "常与“欠债还钱”并提，反映传统的公正观；今天对死刑仍有争议。"
+    },
+    "synonyms": [
+      "血债要用血来偿",
+      "以命抵命"
+    ],
+    "antonyms": [
+      "刀下留人"
+    ]
+  },
+  {
+    "id": "qu-qi-qu-de",
+    "text": "娶妻娶德",
+    "pinyin": "qǔ qī qǔ dé",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "positive-character-qualities"
+    ],
+    "literal": "marry · wife · marry · virtue",
+    "natural": "when choosing a wife, choose virtue",
+    "meaning": {
+      "en": "In choosing a spouse, character matters more than looks.",
+      "zh": "选择妻子（配偶）要看品德，而不是容貌。"
+    },
+    "equivalents": [
+      "character over looks in a partner",
+      "marry for character, not looks"
+    ],
+    "examples": [
+      {
+        "zh": "娶妻娶德，不要只看外貌。",
+        "en": "Choose a wife for virtue and not only for looks."
+      },
+      {
+        "zh": "奶奶常说娶妻娶德，嫁人嫁品。",
+        "en": "Grandma often says: marry for virtue, and choose a husband for character."
+      },
+      {
+        "zh": "他听了老人的话，娶妻娶德，选了个贤惠的姑娘。",
+        "en": "He took the old man's advice and chose a kind-hearted girl for her virtue."
+      }
+    ],
+    "usage": {
+      "en": "Often quoted in full as 娶妻娶德，嫁人嫁品; traditional wording that a modern speaker may apply to either partner.",
+      "zh": "常说全“娶妻娶德，嫁人嫁品”；是传统说法，今天也可用于任何一方。"
+    },
+    "synonyms": [
+      "丑妻近地家中宝",
+      "德才兼备"
+    ],
+    "antonyms": [
+      "以貌取人",
+      "红颜祸水"
+    ]
+  },
+  {
+    "id": "tui-er-qiu-qi-ci",
+    "text": "退而求其次",
+    "pinyin": "tuì ér qiú qí cì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "modest-goals"
+    ],
+    "literal": "retreat · and · seek · its · second",
+    "natural": "step back and seek the second best",
+    "meaning": {
+      "en": "To settle for the next best option when the first choice is out of reach.",
+      "zh": "得不到最好的，就退一步选择次一等的。"
+    },
+    "equivalents": [
+      "settle for second best",
+      "fall back on plan B"
+    ],
+    "examples": [
+      {
+        "zh": "买不起市中心的房子，只好退而求其次，选了郊区。",
+        "en": "Unable to afford a place downtown, they settled for the suburbs."
+      },
+      {
+        "zh": "没拿到冠军，他退而求其次，争取进前三。",
+        "en": "He failed to take the title and settled for a top-three finish."
+      },
+      {
+        "zh": "这家店关门了，我们退而求其次，去隔壁吃。",
+        "en": "That place is closed, so we'll make do with the one next door."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; neutral, sometimes mildly regretful.",
+      "zh": "多作谓语、状语，中性，有时略带遗憾。"
+    },
+    "synonyms": [
+      "降格以求",
+      "聊胜于无"
+    ],
+    "antonyms": [
+      "精益求精",
+      "志在必得"
+    ]
+  },
+  {
+    "id": "yu-sui-zhu-chen",
+    "text": "玉碎珠沉",
+    "pinyin": "yù suì zhū chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "love-and-marriage"
+    ],
+    "literal": "jade · shatter · pearl · sink",
+    "natural": "jade shattered and pearl sunk",
+    "meaning": {
+      "en": "The death of a beautiful woman or the loss of a precious person.",
+      "zh": "美丽的女子或珍贵的人不幸去世。"
+    },
+    "equivalents": [
+      "a beauty lost",
+      "the death of a loved one"
+    ],
+    "examples": [
+      {
+        "zh": "听说她玉碎珠沉，读者无不惋惜。",
+        "en": "On hearing that she had died, the readers all mourned her."
+      },
+      {
+        "zh": "小说结尾，女主人公玉碎珠沉，令人心碎。",
+        "en": "At the end of the novel the heroine dies, breaking the reader's heart."
+      },
+      {
+        "zh": "诗中以玉碎珠沉哀悼早逝的佳人。",
+        "en": "The poem uses this image to mourn a beauty dead too young."
+      }
+    ],
+    "usage": {
+      "en": "Literary elegiac phrase, used of young women; rare in modern speech.",
+      "zh": "书面挽惜之词，多指年轻女子，现代口语少用。"
+    },
+    "synonyms": [
+      "香消玉殒",
+      "红颜薄命"
+    ],
+    "antonyms": [
+      "长命百岁",
+      "红颜白发"
+    ]
+  }
+]

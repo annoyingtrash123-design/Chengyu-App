@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "duo-lu-er-tao",
+    "text": "夺路而逃",
+    "pinyin": "duó lù ér táo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "fear-and-cowardice",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "seize · road · and · flee",
+    "natural": "fight for a way out and run",
+    "meaning": {
+      "en": "To force one's way through and flee in a panic.",
+      "zh": "抢着找路逃跑，形容仓皇逃命。"
+    },
+    "equivalents": [
+      "make a dash for it",
+      "flee for one's life"
+    ],
+    "examples": [
+      {
+        "zh": "火警一响，人群夺路而逃。",
+        "en": "When the fire alarm rang, the crowd scrambled for the exits."
+      },
+      {
+        "zh": "敌军被打得夺路而逃。",
+        "en": "The enemy troops were beaten and fled in all directions."
+      },
+      {
+        "zh": "野猪冲出来，游客们夺路而逃。",
+        "en": "A wild boar burst out and the tourists bolted."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; usually describes a crowd or a defeated force.",
+      "zh": "多作谓语，常用于人群或败军。"
+    },
+    "synonyms": [
+      "夺门而出",
+      "落荒而逃",
+      "仓皇出逃"
+    ],
+    "antonyms": [
+      "从容不迫",
+      "坚守不退"
+    ]
+  },
+  {
+    "id": "an-xiang-cao-zuo",
+    "text": "暗箱操作",
+    "pinyin": "àn xiāng cāo zuò",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "modern": "modern",
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "corruption-and-injustice",
+      "news-and-officialese"
+    ],
+    "literal": "dark · box · operate",
+    "natural": "operating inside a closed box",
+    "meaning": {
+      "en": "To handle matters secretly, out of public view and in a way that is unfair.",
+      "zh": "在不公开的情况下秘密操纵，不公平地处理事情。"
+    },
+    "equivalents": [
+      "backroom deals",
+      "rig things behind closed doors"
+    ],
+    "examples": [
+      {
+        "zh": "这次招标被指暗箱操作，引发公众质疑。",
+        "en": "The tender was accused of backroom dealing, raising public doubt."
+      },
+      {
+        "zh": "评奖必须公开透明，杜绝暗箱操作。",
+        "en": "Awards must be open and transparent, with no rigging behind the scenes."
+      },
+      {
+        "zh": "他怀疑有人在名额分配上暗箱操作。",
+        "en": "He suspected someone was fixing the allocation of places in secret."
+      }
+    ],
+    "usage": {
+      "en": "Common in news and public debate; the expression is usually a charge or accusation.",
+      "zh": "常见于新闻和舆论，多用于指责。"
+    },
+    "synonyms": [
+      "上下其手",
+      "幕后交易",
+      "徇私舞弊"
+    ],
+    "antonyms": [
+      "公开透明",
+      "公平公正"
+    ]
+  },
+  {
+    "id": "chen-yuan-de-xue",
+    "text": "沉冤得雪",
+    "pinyin": "chén yuān dé xuě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "revenge-and-retribution",
+      "fairness-and-impartiality",
+      "comebacks-and-renewal"
+    ],
+    "literal": "deep · injustice · get · wiped away",
+    "natural": "long-buried wrong cleared like snow melting",
+    "meaning": {
+      "en": "For a long-standing injustice to be finally put right and the wronged person's name cleared.",
+      "zh": "多年的冤案终于得到昭雪平反。"
+    },
+    "equivalents": [
+      "be vindicated",
+      "have one's name cleared"
+    ],
+    "examples": [
+      {
+        "zh": "经过二十年申诉，他终于沉冤得雪。",
+        "en": "After twenty years of appeals, he was finally exonerated."
+      },
+      {
+        "zh": "案件重审后，死者家属盼来了沉冤得雪的一天。",
+        "en": "After the retrial, the victim's family saw the day justice was done."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; common in legal and news writing.",
+      "zh": "多作谓语、定语，常见于法律与新闻报道。"
+    },
+    "synonyms": [
+      "平反昭雪",
+      "洗刷冤屈",
+      "重见天日"
+    ],
+    "antonyms": [
+      "六月飞雪",
+      "蒙冤受屈"
+    ]
+  },
+  {
+    "id": "huang-qiang-zou-ban",
+    "text": "荒腔走板",
+    "pinyin": "huāng qiāng zǒu bǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-performance",
+      "artistic-mediocrity"
+    ],
+    "literal": "wild · tune · off · beat",
+    "natural": "a tune gone wild and off the beat",
+    "meaning": {
+      "en": "Singing out of tune and out of time; by extension, speaking or acting wildly off the mark.",
+      "zh": "唱腔离谱、不合节拍；也比喻说话做事离谱走样。"
+    },
+    "equivalents": [
+      "off-key and off-beat",
+      "way off the mark"
+    ],
+    "examples": [
+      {
+        "zh": "他一开口唱就荒腔走板，大家都笑了。",
+        "en": "He went off-key and off-beat as soon as he sang, and everyone laughed."
+      },
+      {
+        "zh": "这部翻拍片剧情荒腔走板，毫无原作神韵。",
+        "en": "The remake's plot is way off the mark and has none of the original's spirit."
+      }
+    ],
+    "usage": {
+      "en": "From Chinese opera (腔 tune, 板 beat). Used literally for singing and figuratively for anything wildly off.",
+      "zh": "源自戏曲（腔、板），本指唱得不合调，引申为说话做事离谱。"
+    },
+    "synonyms": [
+      "五音不全",
+      "离题万里"
+    ],
+    "antonyms": [
+      "字正腔圆",
+      "丝丝入扣"
+    ]
+  },
+  {
+    "id": "tie-han-rou-qing",
+    "text": "铁汉柔情",
+    "pinyin": "tiě hàn róu qíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "love-and-marriage",
+      "complex-emotional-states"
+    ],
+    "literal": "iron · man · tender · feeling",
+    "natural": "an iron man with a soft heart",
+    "meaning": {
+      "en": "A tough, strong man who shows a tender, gentle side.",
+      "zh": "刚强的男子也有温柔体贴的一面。"
+    },
+    "equivalents": [
+      "tough on the outside, soft inside",
+      "a gentle giant"
+    ],
+    "examples": [
+      {
+        "zh": "这位消防员抱着小猫的样子，真是铁汉柔情。",
+        "en": "Seeing the firefighter cradle a kitten, you could tell he was a gentle giant."
+      },
+      {
+        "zh": "他在女儿面前总是铁汉柔情。",
+        "en": "Around his daughter he is always softness itself."
+      }
+    ],
+    "usage": {
+      "en": "A compliment; often used in news features about soldiers, police and firefighters.",
+      "zh": "褒义，常用于描写军人、警察、消防员的报道。"
+    },
+    "synonyms": [
+      "刚柔相济",
+      "侠骨柔肠",
+      "无情未必真豪杰"
+    ],
+    "antonyms": [
+      "冷酷无情",
+      "铁石心肠"
+    ]
+  },
+  {
+    "id": "yi-zui-cong-wu",
+    "text": "疑罪从无",
+    "pinyin": "yí zuì cóng wú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "modern": "modern",
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "news-and-officialese"
+    ],
+    "literal": "doubtful · guilt · treated as · none",
+    "natural": "when guilt is in doubt, treat it as none",
+    "meaning": {
+      "en": "A legal principle: where guilt cannot be proved beyond doubt, the accused is treated as innocent.",
+      "zh": "法律原则：证据不足、罪名存疑时，应认定被告无罪。"
+    },
+    "equivalents": [
+      "the benefit of the doubt",
+      "presumption of innocence"
+    ],
+    "examples": [
+      {
+        "zh": "法院依据疑罪从无的原则宣判他无罪。",
+        "en": "The court acquitted him on the principle that doubt favours the accused."
+      },
+      {
+        "zh": "疑罪从无是现代司法的重要原则。",
+        "en": "'Doubtful guilt means no guilt' is a key principle of modern justice."
+      }
+    ],
+    "usage": {
+      "en": "Legal term; contrast the older 疑罪从有 or 宁可错杀一千.",
+      "zh": "法律用语，与旧时“疑罪从有”相对。"
+    },
+    "synonyms": [
+      "无罪推定"
+    ],
+    "antonyms": [
+      "宁可错杀一千，不可放过一个"
+    ]
+  },
+  {
+    "id": "jie-jiu-zhuang-feng",
+    "text": "借酒装疯",
+    "pinyin": "jiè jiǔ zhuāng fēng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "deception-and-false-appearances"
+    ],
+    "literal": "borrow · wine · pretend · mad",
+    "natural": "use drink as an excuse to act crazy",
+    "meaning": {
+      "en": "To pretend to be drunk and act wildly, using drink as an excuse for bad behaviour.",
+      "zh": "借着喝了酒，假装发疯，做出不得体的事。"
+    },
+    "equivalents": [
+      "use drink as an excuse",
+      "act drunk to get away with it"
+    ],
+    "examples": [
+      {
+        "zh": "他借酒装疯，当众骂起了领导。",
+        "en": "He used drink as an excuse to rant at the boss in public."
+      },
+      {
+        "zh": "别借酒装疯，你明明没醉。",
+        "en": "Don't play drunk; you're clearly not."
+      }
+    ],
+    "usage": {
+      "en": "Often an accusation that someone's rudeness is not really due to alcohol.",
+      "zh": "多用于指责某人并非真醉，只是借机失礼。"
+    },
+    "synonyms": [
+      "酗酒滋事",
+      "撒酒疯"
+    ],
+    "antonyms": [
+      "酒后吐真言",
+      "清醒自持"
+    ]
+  },
+  {
+    "id": "hua-yang-nian-hua",
+    "text": "花样年华",
+    "pinyin": "huā yàng nián huá",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "fleeting-time",
+      "joy-and-happiness",
+      "appearance"
+    ],
+    "literal": "flower · style · years · glory",
+    "natural": "blossoming years",
+    "meaning": {
+      "en": "The prime of youth, especially a young woman's most beautiful years.",
+      "zh": "指青春最美好的时期，多指女子。"
+    },
+    "equivalents": [
+      "the bloom of youth",
+      "one's prime"
+    ],
+    "examples": [
+      {
+        "zh": "她在花样年华里远赴异乡求学。",
+        "en": "In the bloom of youth she went abroad to study."
+      },
+      {
+        "zh": "花样年华转瞬即逝，要珍惜。",
+        "en": "The bloom of youth is fleeting; cherish it."
+      }
+    ],
+    "usage": {
+      "en": "Poetic and warm. Widely known as the Chinese title of the film In the Mood for Love.",
+      "zh": "带诗意，多形容青春；也是电影《花样年华》的片名。"
+    },
+    "synonyms": [
+      "豆蔻年华",
+      "青春年少",
+      "如花似玉"
+    ],
+    "antonyms": [
+      "风烛残年",
+      "垂暮之年"
+    ]
+  },
+  {
+    "id": "bing-tan-bu-rong",
+    "text": "冰炭不容",
+    "pinyin": "bīng tàn bù róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "conflict-and-strife"
+    ],
+    "literal": "ice · charcoal · not · tolerate",
+    "natural": "ice and coal cannot coexist",
+    "meaning": {
+      "en": "Totally incompatible; two things or people that cannot coexist, like ice and hot coals.",
+      "zh": "冰和炭不能放在一起，比喻两者根本对立，不能相容。"
+    },
+    "equivalents": [
+      "like oil and water",
+      "mutually exclusive"
+    ],
+    "examples": [
+      {
+        "zh": "这两派观点冰炭不容，谁也说服不了谁。",
+        "en": "The two camps are like oil and water, and neither can persuade the other."
+      },
+      {
+        "zh": "他们性格冰炭不容，做不成搭档。",
+        "en": "Their characters clash so badly they could never be partners."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; a little bookish. The shorter 冰炭 alone is also used in writing.",
+      "zh": "多作谓语，书面色彩较浓。"
+    },
+    "synonyms": [
+      "水火不相容",
+      "势不两立",
+      "格格不入"
+    ],
+    "antonyms": [
+      "水乳交融",
+      "相得益彰"
+    ]
+  },
+  {
+    "id": "shi-jiu-ru-ming",
+    "text": "嗜酒如命",
+    "pinyin": "shì jiǔ rú mìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "poor-health"
+    ],
+    "literal": "addicted to · wine · like · life",
+    "natural": "love wine as much as life",
+    "meaning": {
+      "en": "To be extremely fond of drinking, treating wine as if it were one's life.",
+      "zh": "特别爱喝酒，把酒看得像生命一样重要。"
+    },
+    "equivalents": [
+      "a hopeless drinker",
+      "be devoted to the bottle"
+    ],
+    "examples": [
+      {
+        "zh": "他嗜酒如命，每天都要喝几杯。",
+        "en": "He loves drink more than anything and has a few glasses every day."
+      },
+      {
+        "zh": "爷爷嗜酒如命，医生劝了多少次也没用。",
+        "en": "Grandpa is a devoted drinker and no amount of doctors' advice helps."
+      }
+    ],
+    "usage": {
+      "en": "Usually disapproving but can be affectionate or joking.",
+      "zh": "多含贬义，有时也带调侃。"
+    },
+    "synonyms": [
+      "好酒贪杯",
+      "杯不离手"
+    ],
+    "antonyms": [
+      "滴酒不沾",
+      "戒酒"
+    ]
+  },
+  {
+    "id": "bei-zhong-zhi-wu",
+    "text": "杯中之物",
+    "pinyin": "bēi zhōng zhī wù",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "food",
+      "relaxation-and-rest"
+    ],
+    "literal": "cup · inside · 's · thing",
+    "natural": "the stuff in the cup",
+    "meaning": {
+      "en": "A humorous or polite way to refer to wine and alcohol.",
+      "zh": "指酒，是诙谐或委婉的说法。"
+    },
+    "equivalents": [
+      "the demon drink",
+      "the bottle"
+    ],
+    "examples": [
+      {
+        "zh": "他不爱别的，就好杯中之物。",
+        "en": "He cares for nothing else, just a drop of the stuff in the cup."
+      },
+      {
+        "zh": "医生叫他少碰杯中之物。",
+        "en": "The doctor told him to go easy on the bottle."
+      }
+    ],
+    "usage": {
+      "en": "Euphemistic and jocular; mostly in phrases like 贪恋杯中之物 or 好杯中之物.",
+      "zh": "诙谐委婉，多见于“好杯中之物”“贪恋杯中之物”。"
+    },
+    "synonyms": [
+      "好酒贪杯",
+      "琼浆玉液"
+    ],
+    "antonyms": [
+      "滴酒不沾"
+    ]
+  },
+  {
+    "id": "heng-huo-fei-zai",
+    "text": "横祸飞灾",
+    "pinyin": "héng huò fēi zāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "unexpected · calamity · flying · disaster",
+    "natural": "calamity out of the blue",
+    "meaning": {
+      "en": "Sudden, unforeseen disasters.",
+      "zh": "突然降临、意想不到的灾祸。"
+    },
+    "equivalents": [
+      "a bolt from the blue",
+      "sudden disaster"
+    ],
+    "examples": [
+      {
+        "zh": "一场横祸飞灾，让这个家庭陷入困境。",
+        "en": "A sudden disaster plunged the family into hardship."
+      },
+      {
+        "zh": "谁也想不到横祸飞灾会在一夜之间降临。",
+        "en": "No one imagined that disaster would strike overnight."
+      }
+    ],
+    "usage": {
+      "en": "Usually an object of 遭遇 or 降临; often used for accidents and calamities.",
+      "zh": "多作宾语，常与“遭遇”“降临”搭配。"
+    },
+    "synonyms": [
+      "弥天大祸",
+      "飞来横祸",
+      "无妄之灾"
+    ],
+    "antonyms": [
+      "平安无事",
+      "福星高照"
+    ]
+  },
+  {
+    "id": "bin-zhu-jin-huan",
+    "text": "宾主尽欢",
+    "pinyin": "bīn zhǔ jìn huān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "joy-and-happiness",
+      "friendship",
+      "festivals-and-celebrations"
+    ],
+    "literal": "guest · host · fully · joyful",
+    "natural": "guests and host all delighted",
+    "meaning": {
+      "en": "Both guests and hosts enjoy themselves to the full.",
+      "zh": "客人和主人都十分高兴。"
+    },
+    "equivalents": [
+      "a good time was had by all",
+      "host and guests alike enjoyed themselves"
+    ],
+    "examples": [
+      {
+        "zh": "晚宴气氛热烈，宾主尽欢。",
+        "en": "The dinner was lively, and host and guests were all delighted."
+      },
+      {
+        "zh": "会谈在友好的气氛中结束，宾主尽欢而散。",
+        "en": "The talks ended in a friendly mood, with everyone in high spirits."
+      }
+    ],
+    "usage": {
+      "en": "Typical of news reports on banquets and receptions.",
+      "zh": "常见于宴会、接待的新闻报道。"
+    },
+    "synonyms": [
+      "尽欢而散",
+      "其乐融融"
+    ],
+    "antonyms": [
+      "不欢而散",
+      "败兴而归"
+    ]
+  },
+  {
+    "id": "lu-liu-qiang-hua",
+    "text": "路柳墙花",
+    "pinyin": "lù liǔ qiáng huā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "inappropriate-behavior",
+      "love-and-marriage"
+    ],
+    "literal": "roadside · willow · wall · flower",
+    "natural": "willows by the road, flowers over the wall",
+    "meaning": {
+      "en": "Traditionally, women of easy virtue; also casual, fleeting romantic encounters.",
+      "zh": "旧时指娼妓，也指随意的、短暂的风流韵事。"
+    },
+    "equivalents": [
+      "a passing fling",
+      "wayside flowers"
+    ],
+    "examples": [
+      {
+        "zh": "小说里他沉迷路柳墙花，终致身败名裂。",
+        "en": "In the novel he indulged in casual affairs and ended in disgrace."
+      },
+      {
+        "zh": "他不愿再流连路柳墙花，决心回归家庭。",
+        "en": "He no longer wanted casual flings and resolved to return to his family."
+      }
+    ],
+    "usage": {
+      "en": "Dated and demeaning toward women; mainly found in older literature.",
+      "zh": "旧式用语，对女性含贬低意味，多见于旧文学。"
+    },
+    "synonyms": [
+      "野草闲花",
+      "寻花问柳"
+    ],
+    "antonyms": [
+      "从一而终",
+      "白头偕老"
+    ]
+  },
+  {
+    "id": "bu-gu-lei-men",
+    "text": "布鼓雷门",
+    "pinyin": "bù gǔ léi mén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "superficial-learning",
+      "historical-records",
+      "polite-humble"
+    ],
+    "literal": "cloth · drum · Thunder · Gate",
+    "natural": "a cloth drum at Thunder Gate",
+    "meaning": {
+      "en": "To show off one's meagre skill before experts; also used humbly of one's own work.",
+      "zh": "在雷门前敲布鼓，比喻在行家面前卖弄本领，也作自谦。"
+    },
+    "equivalents": [
+      "teach your grandmother to suck eggs",
+      "carry coals to Newcastle"
+    ],
+    "examples": [
+      {
+        "zh": "在专业音乐家面前演奏，我这是布鼓雷门了。",
+        "en": "Playing in front of professional musicians is like beating a cloth drum at Thunder Gate."
+      },
+      {
+        "zh": "这点浅见，不过是布鼓雷门，请各位指教。",
+        "en": "These shallow views are a cloth drum at Thunder Gate; I welcome your advice."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·王尊传》",
+      "story": {
+        "en": "Wang Zun in the Han History: 'Don't beat a cloth drum as you pass the Thunder Gate' (毋持布鼓过雷门). The Thunder Gate in Kuaiji had a famous drum whose sound carried to Luoyang.",
+        "zh": "《汉书·王尊传》：“毋持布鼓过雷门。”雷门有大鼓，声闻洛阳，布鼓无声。"
+      },
+      "date": {
+        "zh": "东汉 · 约82年",
+        "en": "Eastern Han, c. 82"
+      }
+    },
+    "usage": {
+      "en": "Mostly self-deprecating, in writing or formal speech.",
+      "zh": "多用作自谦，用于书面或正式场合。"
+    },
+    "synonyms": [
+      "班门弄斧",
+      "孔子门前卖文章"
+    ],
+    "antonyms": [
+      "得心应手",
+      "行家里手"
+    ]
+  },
+  {
+    "id": "cong-ming-jue-ding",
+    "text": "聪明绝顶",
+    "pinyin": "cōng míng jué dǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "mental-clarity"
+    ],
+    "literal": "clever · bright · utmost · peak",
+    "natural": "clever to the very peak",
+    "meaning": {
+      "en": "Extremely intelligent; also humorously used for someone who is bald.",
+      "zh": "极其聪明；也常戏称头发稀少的人。"
+    },
+    "equivalents": [
+      "brilliant",
+      "exceptionally bright"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子聪明绝顶，一学就会。",
+        "en": "This child is exceptionally bright and picks things up at once."
+      },
+      {
+        "zh": "他是个聪明绝顶的数学家。",
+        "en": "He is a brilliant mathematician."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. The joke 聪明绝顶 for a receding hairline relies on 顶 meaning the top of the head.",
+      "zh": "可作谓语、定语；因“顶”字也常用来调侃秃顶。"
+    },
+    "synonyms": [
+      "智慧过人",
+      "才智超群"
+    ],
+    "antonyms": [
+      "愚不可及",
+      "愚昧无知"
+    ]
+  },
+  {
+    "id": "yi-reng-jiu-guan",
+    "text": "一仍旧贯",
+    "pinyin": "yī réng jiù guàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "resistance-to-change",
+      "conformity-and-imitation",
+      "confucian-classics"
+    ],
+    "literal": "one · follow · old · custom",
+    "natural": "just follow the old way",
+    "meaning": {
+      "en": "To carry on exactly in the old way without change.",
+      "zh": "完全依照老办法，不加改变。"
+    },
+    "equivalents": [
+      "stick to the old ways",
+      "carry on as before"
+    ],
+    "examples": [
+      {
+        "zh": "新来的主管一仍旧贯，没有改动任何制度。",
+        "en": "The new manager changed nothing and kept to the old ways."
+      },
+      {
+        "zh": "改革不能一仍旧贯，必须有所创新。",
+        "en": "Reform cannot stay with the old ways; it needs innovation."
+      }
+    ],
+    "origin": {
+      "source": "《论语·先进》",
+      "story": {
+        "en": "In the Analects, a man of Lu discusses rebuilding the treasury; Min Ziqian says: 'Why not keep the old way?' (仍旧贯，如之何). The phrase later became 一仍旧贯.",
+        "zh": "《论语·先进》：“鲁人为长府。闵子骞曰：‘仍旧贯，如之何？何必改作？’”后凝为“一仍旧贯”。"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Formal or bookish; a little critical when about reform.",
+      "zh": "偏书面，谈改革时略带批评。"
+    },
+    "synonyms": [
+      "萧规曹随",
+      "墨守成规",
+      "因循守旧"
+    ],
+    "antonyms": [
+      "革故鼎新",
+      "标新立异"
+    ]
+  },
+  {
+    "id": "sheng-xing-bo-fu",
+    "text": "省刑薄赋",
+    "pinyin": "shěng xíng bó fù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "good-governance",
+      "peace-and-prosperity",
+      "confucian-classics"
+    ],
+    "literal": "reduce · punishment · light · taxes",
+    "natural": "fewer punishments and lighter taxes",
+    "meaning": {
+      "en": "A humane policy of lenient punishment and low taxes.",
+      "zh": "减轻刑罚，减少赋税，是一种宽仁的政策。"
+    },
+    "equivalents": [
+      "lenient laws and light taxes"
+    ],
+    "examples": [
+      {
+        "zh": "新君即位后省刑薄赋，百姓安居乐业。",
+        "en": "The new ruler eased punishments and taxes, and the people lived in peace."
+      },
+      {
+        "zh": "历代贤君都主张省刑薄赋。",
+        "en": "Wise rulers through the ages advocated mild law and light taxes."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·梁惠王上》",
+      "story": {
+        "en": "Mencius advises King Hui of Liang: 'If you practise benevolent government toward the people, reduce punishments and lighten taxes' (省刑罚，薄税敛).",
+        "zh": "《孟子·梁惠王上》：“王如施仁政于民，省刑罚，薄税敛。”"
+      },
+      "date": {
+        "zh": "战国中期 · 约前4世纪",
+        "en": "mid Warring States, c. 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Mostly used when discussing traditional governance in history.",
+      "zh": "多用于谈论古代治国之道。"
+    },
+    "synonyms": [
+      "轻徭薄赋",
+      "宽政简刑"
+    ],
+    "antonyms": [
+      "苛政猛于虎",
+      "横征暴敛"
+    ]
+  },
+  {
+    "id": "gu-shuai-qi-jie",
+    "text": "鼓衰气竭",
+    "pinyin": "gǔ shuāi qì jié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "defeat-and-military-failure",
+      "giving-up-and-weakness"
+    ],
+    "literal": "drum · weak · spirit · exhausted",
+    "natural": "drumbeats faint and spirit spent",
+    "meaning": {
+      "en": "Morale drained and energy exhausted; a force or person running out of steam.",
+      "zh": "战鼓声弱，士气衰竭，形容力量耗尽、无力再战。"
+    },
+    "equivalents": [
+      "run out of steam",
+      "morale spent"
+    ],
+    "examples": [
+      {
+        "zh": "队伍长途奔袭，到了终点已是鼓衰气竭。",
+        "en": "After the long march the troops arrived with spirits spent."
+      },
+      {
+        "zh": "比赛进入加时，对手已鼓衰气竭。",
+        "en": "In extra time the opponents were completely out of steam."
+      }
+    ],
+    "usage": {
+      "en": "Literary; echoes the idea of morale fading with each drumbeat.",
+      "zh": "书面语，源于击鼓助战、一鼓作气的说法。"
+    },
+    "synonyms": [
+      "再衰三竭",
+      "强弩之末",
+      "筋疲力尽"
+    ],
+    "antonyms": [
+      "气势如虹",
+      "士气高昂"
+    ]
+  },
+  {
+    "id": "qian-hu-wan-huan-shi-chu-lai",
+    "text": "千呼万唤始出来",
+    "pinyin": "qiān hū wàn huàn shǐ chū lái",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "thousand · call · ten thousand · summon · only then · come out · come",
+    "natural": "only after a thousand calls did she appear",
+    "meaning": {
+      "en": "After being called again and again, someone or something finally appears; used of long-awaited arrivals.",
+      "zh": "经过再三呼唤才出现，形容人或事物让人久等后才登场。"
+    },
+    "equivalents": [
+      "long-awaited at last",
+      "finally makes an appearance"
+    ],
+    "examples": [
+      {
+        "zh": "这款游戏千呼万唤始出来，上线当天就爆满。",
+        "en": "The game finally came out after endless demands and was swamped on day one."
+      },
+      {
+        "zh": "千呼万唤始出来，主角终于登场了。",
+        "en": "After countless calls the star finally walked on stage."
+      }
+    ],
+    "origin": {
+      "source": "白居易《琵琶行》",
+      "story": {
+        "en": "Bai Juyi's poem on the pipa player: '千呼万唤始出来，犹抱琵琶半遮面'. She came out only after being called many times, still half hiding behind her pipa.",
+        "zh": "白居易《琵琶行》：“千呼万唤始出来，犹抱琵琶半遮面。”"
+      },
+      "date": {
+        "zh": "唐 · 816年",
+        "en": "Tang dynasty, 816"
+      }
+    },
+    "usage": {
+      "en": "Quoted from the Tang poem; often used for delayed products and appearances.",
+      "zh": "出自唐诗，多用于期待已久的产品或人物登场。"
+    },
+    "synonyms": [
+      "姗姗来迟",
+      "千盼万盼"
+    ],
+    "antonyms": [
+      "不期而至"
+    ]
+  },
+  {
+    "id": "bu-qi-er-zhi",
+    "text": "不期而至",
+    "pinyin": "bù qī ér zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unintended-results",
+      "change"
+    ],
+    "literal": "not · expect · and · arrive",
+    "natural": "arrive without being expected",
+    "meaning": {
+      "en": "To arrive or happen unexpectedly, without having been arranged.",
+      "zh": "没有约定或预料就到来。"
+    },
+    "equivalents": [
+      "turn up unannounced",
+      "come out of the blue"
+    ],
+    "examples": [
+      {
+        "zh": "一场暴雨不期而至，大家都没带伞。",
+        "en": "A downpour struck unexpectedly and nobody had an umbrella."
+      },
+      {
+        "zh": "在咖啡馆里，我与老友不期而至。",
+        "en": "At the cafe I ran into an old friend by chance."
+      }
+    ],
+    "usage": {
+      "en": "Neutral; fits visitors, weather, encounters and events.",
+      "zh": "中性，可用于来访、天气、邂逅或事件。"
+    },
+    "synonyms": [
+      "不速之客",
+      "突如其来"
+    ],
+    "antonyms": [
+      "姗姗来迟",
+      "千呼万唤始出来"
+    ]
+  },
+  {
+    "id": "yi-jie-bu-qu",
+    "text": "一介不取",
+    "pinyin": "yī jiè bù qǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "fairness-and-impartiality",
+      "confucian-classics"
+    ],
+    "literal": "one · straw · not · take",
+    "natural": "not taking even a straw",
+    "meaning": {
+      "en": "To be scrupulously honest and take nothing that is not one's own, however small.",
+      "zh": "一点东西也不拿，形容廉洁自守。"
+    },
+    "equivalents": [
+      "not take so much as a penny",
+      "scrupulously honest"
+    ],
+    "examples": [
+      {
+        "zh": "他为官清廉，一介不取。",
+        "en": "He was an upright official who accepted nothing."
+      },
+      {
+        "zh": "老厂长一介不取，从不占公家便宜。",
+        "en": "The old director took nothing, never profiting at public expense."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·万章上》",
+      "story": {
+        "en": "Mencius on Yi Yin: if it was not right, he would not give or take even a single straw (一介不以与人，一介不以取诸人).",
+        "zh": "《孟子·万章上》：“非其义也，非其道也，禄之以天下，弗顾也……一介不以与人，一介不以取诸人。”"
+      },
+      "date": {
+        "zh": "战国中期 · 约前4世纪",
+        "en": "mid Warring States, c. 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Praise for integrity, esp. in officials; formal.",
+      "zh": "称赞廉洁，多用于官员，较正式。"
+    },
+    "synonyms": [
+      "临财不苟",
+      "两袖清风",
+      "廉洁奉公"
+    ],
+    "antonyms": [
+      "贪得无厌",
+      "中饱私囊"
+    ]
+  }
+]
