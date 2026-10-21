@@ -141,7 +141,7 @@ export function filterPanel(f: Filters, onChange: () => void, onDone: () => void
 
   // Shown in full (not collapsed); the pattern filter sits at the bottom.
   const more = [
-    section(t("字数", "Characters"), chipGroup([4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), changed((v) => (f.lengths = v)))),
+    section(t("字数", "Characters"), chipGroup([3, 4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), changed((v) => (f.lengths = v)))),
     section(t("常用度", "How common"), chipGroup([1, 2, 3], f.frequencies, (q) => `${FREQUENCY_LABEL[q].stars} ${label(FREQUENCY_LABEL[q])}`, changed((v) => (f.frequencies = v)))),
     section(t("感情色彩", "Sentiment"), chipGroup<Sentiment>(["positive", "neutral", "negative"], f.sentiments, (s) => label(SENTIMENT_LABEL[s]), changed((v) => (f.sentiments = v)))),
     section(t("语体", "Register"), chipGroup<Register>(["casual", "neutral", "formal", "literary"], f.registers, (r) => label(REGISTER_LABEL[r]), changed((v) => (f.registers = v)))),
