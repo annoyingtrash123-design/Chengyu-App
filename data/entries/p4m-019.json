@@ -303,6 +303,9 @@
     "id": "shi-yi-chang-ji-yi-zhi-yi",
     "text": "师夷长技以制夷",
     "pinyin": "shī yí cháng jì yǐ zhì yí",
+    "variants": [
+      "师夷长技"
+    ],
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "neutral",
@@ -312,7 +315,8 @@
       "apprenticeship-and-learning",
       "modern-applications-of-classical-ideas",
       "historical-periods",
-      "essay-favourites"
+      "essay-favourites",
+      "qing-dynasty"
     ],
     "literal": "learn · foreigners' · strong · skills · in order to · control · foreigners",
     "natural": "Learn the foreigners' strengths in order to hold them in check",
@@ -345,7 +349,10 @@
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variant_kinds": {
+      "师夷长技": "short"
+    }
   },
   {
     "id": "de-dao-duo-zhu-shi-dao-gua-zhu",
