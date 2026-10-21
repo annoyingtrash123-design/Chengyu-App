@@ -3,11 +3,11 @@
     "id": "bu-lin-ci-jiao",
     "text": "不吝赐教",
     "pinyin": "bù lìn cì jiào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "不吝指教"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -919,11 +919,11 @@
     "id": "ren-di-sheng-shu",
     "text": "人地生疏",
     "pinyin": "rén dì shēng shū",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "人生地疏"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1012,6 +1012,9 @@
     "id": "bian-yi-xing-shi",
     "text": "便宜行事",
     "pinyin": "biàn yì xíng shì",
+    "variants": [
+      "便宜从事"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

@@ -1,0 +1,936 @@
+[
+  {
+    "id": "bing-xiong-zhan-wei",
+    "text": "兵凶战危",
+    "pinyin": "bīng xiōng zhàn wēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "arms · ominous · war · perilous",
+    "natural": "war is dangerous and ominous",
+    "meaning": {
+      "en": "Weapons are ill omens and war is perilous; a warning against going to war lightly.",
+      "zh": "兵器是凶器，战争是危险的事，告诫不可轻启战端。"
+    },
+    "equivalents": [
+      "war is perilous",
+      "arms are instruments of ill omen"
+    ],
+    "examples": [
+      {
+        "zh": "兵凶战危，决策者不可不慎。",
+        "en": "War is dangerous, so decision-makers must be careful."
+      },
+      {
+        "zh": "历史一再证明兵凶战危。",
+        "en": "History has shown again and again how dangerous war is."
+      }
+    ],
+    "usage": {
+      "en": "Used as a warning or aphorism; formal.",
+      "zh": "多作警句，书面。"
+    },
+    "synonyms": [
+      "兵者凶器",
+      "穷兵黩武"
+    ],
+    "antonyms": [
+      "太平盛世",
+      "偃武修文"
+    ]
+  },
+  {
+    "id": "guo-wu-ning-ri",
+    "text": "国无宁日",
+    "pinyin": "guó wú níng rì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "chaos",
+      "bad-fortune"
+    ],
+    "literal": "country · no · peaceful · day",
+    "natural": "the nation has no peaceful day",
+    "meaning": {
+      "en": "The country never knows peace; constant turmoil.",
+      "zh": "国家没有安宁的日子，指长期动荡。"
+    },
+    "equivalents": [
+      "no peace in the land",
+      "a nation in constant turmoil"
+    ],
+    "examples": [
+      {
+        "zh": "军阀混战，国无宁日。",
+        "en": "Warlords fought each other and the nation had no peace."
+      },
+      {
+        "zh": "连年战乱，国无宁日。",
+        "en": "Year after year of war left the country without a peaceful day."
+      }
+    ],
+    "usage": {
+      "en": "Usually in a parallel clause with 民不聊生; historical or literary.",
+      "zh": "常与“民不聊生”并用，多用于历史或文学语境。"
+    },
+    "synonyms": [
+      "天下大乱",
+      "民不聊生"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "天下太平"
+    ]
+  },
+  {
+    "id": "ji-cao-tun-liang",
+    "text": "积草屯粮",
+    "pinyin": "jī cǎo tún liáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "屯粮积草"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "time-management"
+    ],
+    "literal": "store · fodder · hoard · grain",
+    "natural": "stockpile fodder and grain",
+    "meaning": {
+      "en": "To stockpile fodder and grain in preparation for war or a long siege; to build up reserves.",
+      "zh": "储备粮草，为战争或长期守城做准备。"
+    },
+    "equivalents": [
+      "stockpile supplies",
+      "lay in provisions"
+    ],
+    "examples": [
+      {
+        "zh": "守城的将军早已积草屯粮，准备长期固守。",
+        "en": "The general had stockpiled fodder and grain for a long defence."
+      },
+      {
+        "zh": "农村要积草屯粮，以防灾荒。",
+        "en": "Villages should lay in grain and fodder against famine."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; military flavour, also used of general preparedness.",
+      "zh": "作谓语，带军事色彩，也泛指未雨绸缪。"
+    },
+    "synonyms": [
+      "养精蓄锐",
+      "未雨绸缪"
+    ],
+    "antonyms": [
+      "坐吃山空",
+      "坐以待毙"
+    ]
+  },
+  {
+    "id": "du-fu-min-zei",
+    "text": "独夫民贼",
+    "pinyin": "dú fū mín zéi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "political-corruption",
+      "leadership-and-authority"
+    ],
+    "literal": "lone · man · people's · scourge",
+    "natural": "a tyrant who has lost the people",
+    "meaning": {
+      "en": "A tyrant who has lost all popular support and brings harm to the people.",
+      "zh": "残暴无道、失去民心、祸害百姓的统治者。"
+    },
+    "equivalents": [
+      "a despised tyrant",
+      "an enemy of the people"
+    ],
+    "examples": [
+      {
+        "zh": "人民终于推翻了这个独夫民贼。",
+        "en": "The people finally overthrew this hated tyrant."
+      },
+      {
+        "zh": "历史上的独夫民贼没有好下场。",
+        "en": "Tyrants of history never came to a good end."
+      }
+    ],
+    "usage": {
+      "en": "Noun; strongly condemnatory. 独夫 comes from the Book of Documents on King Zhou of Shang.",
+      "zh": "名词，强烈谴责。“独夫”语出《尚书》，指商纣。"
+    },
+    "synonyms": [
+      "暴君",
+      "民贼"
+    ],
+    "antonyms": [
+      "仁君"
+    ]
+  },
+  {
+    "id": "ji-chu-wan-quan",
+    "text": "计出万全",
+    "pinyin": "jì chū wàn quán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "plan · come out · ten thousand · safe",
+    "natural": "a plan that is thoroughly safe",
+    "meaning": {
+      "en": "A plan that is fully safe and sure to succeed.",
+      "zh": "计策周密，万无一失。"
+    },
+    "equivalents": [
+      "foolproof plan",
+      "a watertight plan"
+    ],
+    "examples": [
+      {
+        "zh": "他筹划多年，自以为计出万全。",
+        "en": "He planned for years and thought his scheme foolproof."
+      },
+      {
+        "zh": "行动必须计出万全，不能冒险。",
+        "en": "The operation must be watertight; no risks can be taken."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often used before it turns out otherwise (自以为计出万全).",
+      "zh": "作谓语、定语，常见“自以为计出万全”的反语用法。"
+    },
+    "synonyms": [
+      "万无一失",
+      "滴水不漏"
+    ],
+    "antonyms": [
+      "漏洞百出",
+      "轻举妄动"
+    ]
+  },
+  {
+    "id": "shen-ren-hou-ze",
+    "text": "深仁厚泽",
+    "pinyin": "shēn rén hòu zé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "good-governance",
+      "positive-character-qualities"
+    ],
+    "literal": "deep · benevolence · thick · bounty",
+    "natural": "deep benevolence and generous favour",
+    "meaning": {
+      "en": "Great benevolence and generous kindness bestowed by a ruler or predecessors on the people.",
+      "zh": "指帝王或前人给予百姓的深厚恩德。"
+    },
+    "equivalents": [
+      "profound benevolence",
+      "bountiful grace"
+    ],
+    "examples": [
+      {
+        "zh": "先帝深仁厚泽，百姓至今感念。",
+        "en": "The late emperor's deep benevolence is still remembered by the people."
+      },
+      {
+        "zh": "先辈留下的深仁厚泽，我们当珍惜。",
+        "en": "We should cherish the generous legacy our forebears left."
+      }
+    ],
+    "usage": {
+      "en": "Used of rulers and elders; formal and reverent.",
+      "zh": "多用于帝王、先辈，庄重书面。"
+    },
+    "synonyms": [
+      "恩重如山",
+      "仁德厚泽"
+    ],
+    "antonyms": [
+      "刻薄寡恩",
+      "暴虐无道"
+    ]
+  },
+  {
+    "id": "qin-mao-shi-shi",
+    "text": "亲冒矢石",
+    "pinyin": "qīn mào shǐ shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "outstanding-character"
+    ],
+    "literal": "in person · brave · arrows · stones",
+    "natural": "brave arrows and stones in person",
+    "meaning": {
+      "en": "To lead from the front in battle, personally braving arrows and stones.",
+      "zh": "将帅亲自冒着箭和石头冲锋陷阵，形容身先士卒。"
+    },
+    "equivalents": [
+      "lead from the front",
+      "personally brave enemy fire"
+    ],
+    "examples": [
+      {
+        "zh": "主帅亲冒矢石，士气大振。",
+        "en": "The commander braved the arrows himself, and morale soared."
+      },
+      {
+        "zh": "好的领导要亲冒矢石，而不是躲在后方。",
+        "en": "A good leader faces the fire in person rather than hiding in the rear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; praise for a commander who leads by example. Close to 身先士卒.",
+      "zh": "作谓语，称赞将帅以身作则，近于“身先士卒”。"
+    },
+    "synonyms": [
+      "身先士卒",
+      "冲锋陷阵"
+    ],
+    "antonyms": [
+      "龟缩不前",
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "lian-zhan-jie-jie",
+    "text": "连战皆捷",
+    "pinyin": "lián zhàn jiē jié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "successful-completion"
+    ],
+    "literal": "successive · battles · all · victorious",
+    "natural": "win every battle in succession",
+    "meaning": {
+      "en": "To win battle after battle.",
+      "zh": "接连打仗，每次都获得胜利。"
+    },
+    "equivalents": [
+      "win battle after battle",
+      "an unbroken string of victories"
+    ],
+    "examples": [
+      {
+        "zh": "红军连战皆捷，声威大振。",
+        "en": "The Red Army won battle after battle, and its reputation soared."
+      },
+      {
+        "zh": "球队本赛季连战皆捷。",
+        "en": "The team has won every match in a row this season."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; works for sport as well as war.",
+      "zh": "作谓语，也可用于体育比赛。"
+    },
+    "synonyms": [
+      "百战百胜",
+      "所向披靡"
+    ],
+    "antonyms": [
+      "屡战屡败",
+      "一败涂地"
+    ]
+  },
+  {
+    "id": "liang-cai-lu-yong",
+    "text": "量才录用",
+    "pinyin": "liàng cái lù yòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "leadership-and-authority",
+      "standards-and-benchmarks"
+    ],
+    "literal": "measure · talent · employ · use",
+    "natural": "hire according to ability",
+    "meaning": {
+      "en": "To assess a person's talent and employ them accordingly.",
+      "zh": "根据才能的大小来任用人。"
+    },
+    "equivalents": [
+      "hire according to ability",
+      "employ on merit"
+    ],
+    "examples": [
+      {
+        "zh": "单位应当量才录用，不能论资排辈。",
+        "en": "An organisation should hire on ability, not seniority."
+      },
+      {
+        "zh": "他被量才录用，担任财务主管。",
+        "en": "He was hired for his abilities and became finance manager."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, common in personnel notices.",
+      "zh": "作谓语，书面，常见于人事用语。"
+    },
+    "synonyms": [
+      "任人唯贤",
+      "唯才是举"
+    ],
+    "antonyms": [
+      "任人唯亲",
+      "大材小用"
+    ]
+  },
+  {
+    "id": "qiang-gan-ruo-zhi",
+    "text": "强干弱枝",
+    "pinyin": "qiáng gān ruò zhī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "good-governance",
+      "leadership-and-authority"
+    ],
+    "literal": "strengthen · trunk · weaken · branches",
+    "natural": "strengthen the trunk, weaken the branches",
+    "meaning": {
+      "en": "To strengthen the central authority and weaken local powers.",
+      "zh": "加强中央的权力，削弱地方的势力。"
+    },
+    "equivalents": [
+      "strengthen the centre and weaken the regions",
+      "centralise power"
+    ],
+    "examples": [
+      {
+        "zh": "宋太祖推行强干弱枝的政策。",
+        "en": "Emperor Taizu of Song pursued a policy of strengthening the centre and weakening the regions."
+      },
+      {
+        "zh": "汉初为强干弱枝，采取了削藩措施。",
+        "en": "To strengthen the centre, the early Han cut back the feudal princes."
+      }
+    ],
+    "usage": {
+      "en": "Political metaphor (trunk = centre, branches = regions); mainly in history writing.",
+      "zh": "政治比喻（干指中央，枝指地方），多用于史论。"
+    },
+    "synonyms": [
+      "中央集权",
+      "削藩"
+    ],
+    "antonyms": [
+      "尾大不掉",
+      "藩镇割据"
+    ]
+  },
+  {
+    "id": "sang-shi-ru-guo",
+    "text": "丧师辱国",
+    "pinyin": "sàng shī rǔ guó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "defeat-and-military-failure",
+      "mistakes-and-correction"
+    ],
+    "literal": "lose · army · disgrace · country",
+    "natural": "lose the army and disgrace the nation",
+    "meaning": {
+      "en": "To lose one's army in defeat and bring shame on the country.",
+      "zh": "军队战败，国家蒙受耻辱。"
+    },
+    "equivalents": [
+      "suffer a humiliating defeat",
+      "bring disgrace on the nation"
+    ],
+    "examples": [
+      {
+        "zh": "将军指挥失当，丧师辱国。",
+        "en": "The general mismanaged the campaign and brought defeat and disgrace on the country."
+      },
+      {
+        "zh": "他被指控丧师辱国，难逃其咎。",
+        "en": "He was accused of losing the army and shaming the nation and could not escape blame."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; strongly negative, aimed at commanders or policy-makers.",
+      "zh": "作谓语，强烈贬义，多指责将帅或决策者。"
+    },
+    "synonyms": [
+      "全军覆没",
+      "兵败如山倒"
+    ],
+    "antonyms": [
+      "旗开得胜",
+      "凯旋而归"
+    ]
+  },
+  {
+    "id": "jin-yi-shen-mian",
+    "text": "仅以身免",
+    "pinyin": "jǐn yǐ shēn miǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "defeat-and-military-failure",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "only · by · oneself · escape",
+    "natural": "barely escape with one's life",
+    "meaning": {
+      "en": "To escape alone with one's life after a disaster; everyone else perished or was lost.",
+      "zh": "只有自己一个人逃脱，别的都损失了。"
+    },
+    "equivalents": [
+      "escape with only one's life",
+      "be the sole survivor"
+    ],
+    "examples": [
+      {
+        "zh": "全军覆没，主将仅以身免。",
+        "en": "The army was wiped out, and the commander alone escaped."
+      },
+      {
+        "zh": "船沉之后，船长仅以身免。",
+        "en": "After the ship sank, the captain barely escaped with his life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary narrative, sombre tone.",
+      "zh": "作谓语，书面叙事，语气沉重。"
+    },
+    "synonyms": [
+      "死里逃生",
+      "单骑逃脱"
+    ],
+    "antonyms": [
+      "全身而退",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "yi-xin-yi-de",
+    "text": "一心一德",
+    "pinyin": "yī xīn yī dé",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "military-strategy-and-victory"
+    ],
+    "literal": "one · heart · one · purpose",
+    "natural": "united in heart and purpose",
+    "meaning": {
+      "en": "To be united in will and purpose.",
+      "zh": "思想和行动一致，团结同心。"
+    },
+    "equivalents": [
+      "be of one heart and mind",
+      "united in purpose"
+    ],
+    "examples": [
+      {
+        "zh": "全体官兵一心一德，终于渡过难关。",
+        "en": "All officers and men were of one mind and pulled through."
+      },
+      {
+        "zh": "只要大家一心一德，就没有克服不了的困难。",
+        "en": "If we are united in purpose, no difficulty is insurmountable."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·泰誓》",
+      "story": {
+        "en": "Taishi: 'King Zhou has hundreds of millions of subjects, hundreds of millions of hearts; I have three thousand subjects, but one heart' (予有臣三千，惟一心).",
+        "zh": "《尚书·泰誓》：“受有臣亿万，惟亿万心；予有臣三千，惟一心。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate or adverbial; positive. Note the pronunciation 德, not 得.",
+      "zh": "作谓语、状语，褒义。注意是“德”不是“得”。"
+    },
+    "synonyms": [
+      "同心同德",
+      "齐心协力"
+    ],
+    "antonyms": [
+      "离心离德",
+      "各怀鬼胎"
+    ]
+  },
+  {
+    "id": "ji-quan-bu-jing",
+    "text": "鸡犬不惊",
+    "pinyin": "jī quǎn bù jīng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "peace-and-prosperity",
+      "good-governance"
+    ],
+    "literal": "chickens · dogs · not · alarmed",
+    "natural": "not even the chickens and dogs are startled",
+    "meaning": {
+      "en": "So orderly that not even chickens and dogs are disturbed; of an army that does not harass the people, or of a place at perfect peace.",
+      "zh": "连鸡犬都不受惊扰，形容军纪严明或秩序安宁。"
+    },
+    "equivalents": [
+      "not even a dog barks",
+      "everything stays peaceful and undisturbed"
+    ],
+    "examples": [
+      {
+        "zh": "大军经过村庄，鸡犬不惊。",
+        "en": "The army passed through the village and not even the chickens were alarmed."
+      },
+      {
+        "zh": "全城一夜之间易主，却鸡犬不惊。",
+        "en": "The city changed hands overnight, yet all stayed calm."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; praise for discipline. Not to be confused with 鸡飞狗跳 (chaos).",
+      "zh": "作谓语，称赞纪律严明。别与表示混乱的“鸡飞狗跳”混淆。"
+    },
+    "synonyms": [
+      "秋毫无犯",
+      "秩序井然"
+    ],
+    "antonyms": [
+      "鸡飞狗跳"
+    ]
+  },
+  {
+    "id": "shang-gong-fa-zui",
+    "text": "赏功罚罪",
+    "pinyin": "shǎng gōng fá zuì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "fairness-and-impartiality",
+      "good-governance"
+    ],
+    "literal": "reward · merit · punish · crime",
+    "natural": "reward merit and punish crime",
+    "meaning": {
+      "en": "To reward those who deserve credit and punish wrongdoers.",
+      "zh": "奖赏有功的人，惩罚有罪的人。"
+    },
+    "equivalents": [
+      "reward merit and punish wrongdoing",
+      "apply fair rewards and penalties"
+    ],
+    "examples": [
+      {
+        "zh": "治军必须赏功罚罪，严明纪律。",
+        "en": "Ruling an army demands fair rewards and penalties and strict discipline."
+      },
+      {
+        "zh": "公司要赏功罚罪，才能服众。",
+        "en": "A company must reward merit and punish wrongdoing to command respect."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal; echoes 赏罚分明.",
+      "zh": "作谓语，书面，与“赏罚分明”相近。"
+    },
+    "synonyms": [
+      "赏罚分明",
+      "信赏必罚"
+    ],
+    "antonyms": [
+      "赏罚不明",
+      "有功不赏"
+    ]
+  },
+  {
+    "id": "qi-wen-jiu-wu",
+    "text": "弃文就武",
+    "pinyin": "qì wén jiù wǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "弃文从武"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "change",
+      "journeys-and-exploration"
+    ],
+    "literal": "abandon · letters · take up · arms",
+    "natural": "give up letters for arms",
+    "meaning": {
+      "en": "To abandon a scholarly career and take up military service.",
+      "zh": "放弃读书做官，改投军旅。"
+    },
+    "equivalents": [
+      "swap the pen for the sword",
+      "give up scholarship for the army"
+    ],
+    "examples": [
+      {
+        "zh": "他弃文就武，投军报国。",
+        "en": "He gave up his studies and joined the army to serve the nation."
+      },
+      {
+        "zh": "乱世中，不少书生弃文就武。",
+        "en": "In troubled times many scholars swapped the brush for the sword."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; the reverse is 弃武从文 / 投笔从戎 (the latter is more famous).",
+      "zh": "作谓语；反义有“弃武从文”，近义“投笔从戎”更常见。"
+    },
+    "synonyms": [
+      "投笔从戎"
+    ],
+    "antonyms": [
+      "弃武从文",
+      "偃武修文"
+    ]
+  },
+  {
+    "id": "tiao-he-yin-yang",
+    "text": "调和阴阳",
+    "pinyin": "tiáo hé yīn yáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "good-governance",
+      "daoist-classics"
+    ],
+    "literal": "harmonise · yin · yang",
+    "natural": "balance yin and yang",
+    "meaning": {
+      "en": "To bring yin and yang into balance; classically the duty of a chief minister, who keeps the cosmos and state in harmony.",
+      "zh": "使阴阳二气协调，古时指宰相的职责，使天地与国家和顺。"
+    },
+    "equivalents": [
+      "harmonise yin and yang",
+      "keep the state in balance"
+    ],
+    "examples": [
+      {
+        "zh": "宰相的职责是调和阴阳，辅佐君王。",
+        "en": "A chancellor's task is to harmonise yin and yang and assist the ruler."
+      },
+      {
+        "zh": "中医讲究调和阴阳，使身体平衡。",
+        "en": "Chinese medicine aims to balance yin and yang in the body."
+      }
+    ],
+    "usage": {
+      "en": "Classical political and medical term; formal. Yin/yang here are cosmic forces, not romantic.",
+      "zh": "古代政治与医学用语，书面。阴阳指天地之气。"
+    },
+    "synonyms": [
+      "燮理阴阳",
+      "协调平衡"
+    ],
+    "antonyms": [
+      "阴阳失调"
+    ]
+  },
+  {
+    "id": "tian-yu-ren-gui",
+    "text": "天与人归",
+    "pinyin": "tiān yǔ rén guī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "good-governance",
+      "change"
+    ],
+    "literal": "Heaven · grants · people · turn to",
+    "natural": "Heaven grants and the people follow",
+    "meaning": {
+      "en": "Both Heaven and the people favour someone; a ruler is blessed with the mandate and popular support.",
+      "zh": "上天赐予，百姓归附，指得到天命和民心。"
+    },
+    "equivalents": [
+      "have Heaven's mandate and the people's support",
+      "favoured by Heaven and people alike"
+    ],
+    "examples": [
+      {
+        "zh": "新朝建立，天与人归。",
+        "en": "The new dynasty was founded, with Heaven and the people on its side."
+      },
+      {
+        "zh": "起义军所到之处，天与人归。",
+        "en": "Wherever the rebels went, Heaven and the people gave them their support."
+      }
+    ],
+    "usage": {
+      "en": "Formal, often in legitimacy claims; near 应天顺人.",
+      "zh": "书面语，多用于说明政权正当，近于“应天顺人”。"
+    },
+    "synonyms": [
+      "应天顺人",
+      "众望所归"
+    ],
+    "antonyms": [
+      "天怒人怨",
+      "众叛亲离"
+    ]
+  },
+  {
+    "id": "bu-sheng-bu-mie",
+    "text": "不生不灭",
+    "pinyin": "bù shēng bù miè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "buddhist-origin"
+    ],
+    "literal": "not · born · not · perish",
+    "natural": "neither arising nor perishing",
+    "meaning": {
+      "en": "Neither coming into being nor passing away; in Buddhism, the true nature of reality which is beyond birth and death.",
+      "zh": "既不产生也不消灭。佛教指真如实相超越生灭。"
+    },
+    "equivalents": [
+      "neither born nor dying",
+      "beyond birth and death"
+    ],
+    "examples": [
+      {
+        "zh": "佛经说法性不生不灭。",
+        "en": "The sutras say the nature of things neither arises nor ceases."
+      },
+      {
+        "zh": "他追求一种不生不灭的永恒境界。",
+        "en": "He seeks a timeless state beyond birth and death."
+      }
+    ],
+    "origin": {
+      "source": "《般若波罗蜜多心经》",
+      "story": {
+        "en": "The Heart Sutra: 'all phenomena are empty in nature, neither arising nor ceasing, neither defiled nor pure' (不生不灭，不垢不净，不增不减).",
+        "zh": "《心经》：“是诸法空相，不生不灭，不垢不净，不增不减。”"
+      }
+    },
+    "usage": {
+      "en": "Buddhist technical term (Heart Sutra: 不生不灭，不垢不净，不增不减); also used loosely for eternal things.",
+      "zh": "佛教术语（《心经》：“不生不灭，不垢不净，不增不减”），也泛指永恒的事物。"
+    },
+    "synonyms": [
+      "无生无灭",
+      "长生不老"
+    ],
+    "antonyms": [
+      "生生灭灭",
+      "转瞬即逝"
+    ]
+  },
+  {
+    "id": "yi-qie-zhong-sheng",
+    "text": "一切众生",
+    "pinyin": "yī qiè zhòng shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "buddhist-origin"
+    ],
+    "literal": "all · whole · many · living",
+    "natural": "all sentient beings",
+    "meaning": {
+      "en": "All living beings; a Buddhist term for every creature that has consciousness and is subject to rebirth.",
+      "zh": "所有的生物，佛教指一切有情识、轮回的生命。"
+    },
+    "equivalents": [
+      "all sentient beings",
+      "every living creature"
+    ],
+    "examples": [
+      {
+        "zh": "佛教主张慈悲对待一切众生。",
+        "en": "Buddhism teaches compassion for all sentient beings."
+      },
+      {
+        "zh": "他发愿普度一切众生。",
+        "en": "He vowed to save all living beings."
+      }
+    ],
+    "usage": {
+      "en": "Buddhist and literary; 切 here is qiè in 一切 (all).",
+      "zh": "佛教及书面用语；“一切”的“切”读 qiè。"
+    },
+    "synonyms": [
+      "芸芸众生",
+      "普天生灵"
+    ],
+    "antonyms": []
+  }
+]

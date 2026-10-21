@@ -271,6 +271,9 @@
     "id": "chou-chang-bai-jie",
     "text": "愁肠百结",
     "pinyin": "chóu cháng bǎi jié",
+    "variants": [
+      "柔肠百结"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -859,8 +862,7 @@
     "register": "neutral",
     "themes": [
       "sadness-and-despair",
-      "complex-emotional-states",
-      "confucian-classics"
+      "complex-emotional-states"
     ],
     "literal": "as if · lose · late father · late mother",
     "natural": "as if one's parents had died",

@@ -3,11 +3,11 @@
     "id": "ru-zuo-chun-feng",
     "text": "如坐春风",
     "pinyin": "rú zuò chūn fēng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "如沐春风"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -59,7 +59,8 @@
     "register": "formal",
     "themes": [
       "apprenticeship-and-learning",
-      "poems-prose"
+      "poems-prose",
+      "confucian-classics"
     ],
     "literal": "cut · file · carve · polish",
     "natural": "cutting, filing, carving, polishing",
@@ -248,11 +249,11 @@
     "id": "liang-yao-ku-kou",
     "text": "良药苦口",
     "pinyin": "liáng yào kǔ kǒu",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "苦口良药"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1129,6 +1130,9 @@
     "id": "zhi-en-tu-bao",
     "text": "知恩图报",
     "pinyin": "zhī ēn tú bào",
+    "variants": [
+      "感恩图报"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

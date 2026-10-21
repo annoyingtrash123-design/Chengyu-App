@@ -138,6 +138,9 @@
     "id": "ren-duo-zui-za",
     "text": "人多嘴杂",
     "pinyin": "rén duō zuǐ zá",
+    "variants": [
+      "人多口杂"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -841,7 +844,7 @@
     "register": "literary",
     "themes": [
       "change",
-      "daoist-classics"
+      "confucian-classics"
     ],
     "literal": "change · move · not · stay",
     "natural": "changing, never staying put",
@@ -932,11 +935,11 @@
     "id": "tao-tian-da-zui",
     "text": "滔天大罪",
     "pinyin": "tāo tiān dà zuì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "弥天大罪"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

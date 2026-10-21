@@ -1,0 +1,732 @@
+[
+  {
+    "id": "qie-chi-tong-hen",
+    "text": "切齿痛恨",
+    "pinyin": "qiè chǐ tòng hèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "anger",
+      "revenge-and-retribution"
+    ],
+    "literal": "grind · teeth · bitterly · hate",
+    "natural": "hate with gritted teeth",
+    "meaning": {
+      "en": "To hate someone or something so bitterly that one grinds one's teeth.",
+      "zh": "恨得咬牙切齿，形容痛恨到极点。"
+    },
+    "equivalents": [
+      "loathe with gritted teeth",
+      "hate bitterly"
+    ],
+    "examples": [
+      {
+        "zh": "村民对欺压他们的恶霸切齿痛恨。",
+        "en": "The villagers loathed the bully who oppressed them with gritted teeth."
+      },
+      {
+        "zh": "提起那次背叛，他仍然切齿痛恨。",
+        "en": "At the mention of that betrayal he still gnashes his teeth in hatred."
+      }
+    ],
+    "usage": {
+      "en": "Strong emotion, mainly of hatred; predicate or adverbial. 切 is qiè ('grind'), not qiē ('cut'). Compare 咬牙切齿 which stresses the physical gesture.",
+      "zh": "情感强烈，多表示仇恨，作谓语或状语。“切”读qiè（磨、咬），不读qiē。与“咬牙切齿”相比，后者更强调动作。"
+    },
+    "synonyms": [
+      "恨之入骨",
+      "咬牙切齿"
+    ],
+    "antonyms": [
+      "感恩戴德",
+      "心悦诚服"
+    ]
+  },
+  {
+    "id": "xin-bu-er-xing",
+    "text": "信步而行",
+    "pinyin": "xìn bù ér xíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "relaxation-and-rest",
+      "freedom"
+    ],
+    "literal": "let · steps · and · walk",
+    "natural": "walk wherever the feet lead",
+    "meaning": {
+      "en": "To stroll aimlessly, letting one's feet take one wherever they will.",
+      "zh": "随意地走，没有一定的目的和方向。"
+    },
+    "equivalents": [
+      "stroll at will",
+      "wander where the feet lead"
+    ],
+    "examples": [
+      {
+        "zh": "饭后他信步而行，不知不觉走到了江边。",
+        "en": "After dinner he strolled at random and found himself at the riverside."
+      },
+      {
+        "zh": "春日的清晨，两人在古镇里信步而行。",
+        "en": "On a spring morning the two strolled through the old town."
+      }
+    ],
+    "usage": {
+      "en": "A relaxed, literary description; 信 here means 'at will' (not 'believe'). Also 信步走去, 信步闲游.",
+      "zh": "轻松的书面描写。“信”在此意为任意、随意，不是“相信”。"
+    },
+    "synonyms": [
+      "漫步徜徉",
+      "信步闲游"
+    ],
+    "antonyms": [
+      "健步如飞",
+      "匆匆赶路"
+    ]
+  },
+  {
+    "id": "tong-tian-che-di",
+    "text": "通天彻地",
+    "pinyin": "tōng tiān chè dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "extraordinary-circumstances",
+      "myths-legends"
+    ],
+    "literal": "reach · heaven · penetrate · earth",
+    "natural": "reaching heaven and piercing earth",
+    "meaning": {
+      "en": "Reaching everywhere from heaven to earth; boundless in knowledge, ability or influence.",
+      "zh": "上通天，下彻地，形容本领极大，或见识、法力无边。"
+    },
+    "equivalents": [
+      "omnipotent",
+      "with unlimited power or knowledge"
+    ],
+    "examples": [
+      {
+        "zh": "神话里的大圣通天彻地，无所不能。",
+        "en": "In myth the Great Sage reaches heaven and earth and can do anything."
+      },
+      {
+        "zh": "他自称有通天彻地之能，其实不过是吹牛。",
+        "en": "He claimed to have all-reaching powers, but it was mere bragging."
+      }
+    ],
+    "usage": {
+      "en": "Often used of gods, immortals and awe-inspiring masters; can be ironic when a person boasts. 彻 is chè ('pierce through').",
+      "zh": "常用于神仙、神通广大之人；有人自夸时可含讽刺。“彻”读chè（贯穿）。"
+    },
+    "synonyms": [
+      "神通广大",
+      "上天入地"
+    ],
+    "antonyms": [
+      "无能为力",
+      "一筹莫展"
+    ]
+  },
+  {
+    "id": "qing-shen-yi-zhong",
+    "text": "情深义重",
+    "pinyin": "qíng shēn yì zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "love-and-marriage",
+      "positive-character-qualities"
+    ],
+    "literal": "feeling · deep · loyalty · weighty",
+    "natural": "deep affection and strong loyalty",
+    "meaning": {
+      "en": "Deeply affectionate and loyal; having strong feeling and a heavy sense of obligation.",
+      "zh": "感情深厚，情谊重大。"
+    },
+    "equivalents": [
+      "deeply devoted",
+      "warm and loyal to the core"
+    ],
+    "examples": [
+      {
+        "zh": "两位老友情深义重，几十年来互相扶持。",
+        "en": "The two old friends are deeply devoted and have supported each other for decades."
+      },
+      {
+        "zh": "他对旧部下情深义重，从未忘记。",
+        "en": "He was loyal to his old subordinates and never forgot them."
+      }
+    ],
+    "usage": {
+      "en": "Praise for friends, couples and comrades; predicate or attributive. Compare 情深意长 (affection) vs 情深义重 (affection plus duty).",
+      "zh": "赞美朋友、夫妻、战友之间的深情厚谊，作谓语或定语。“情深义重”包含责任感。"
+    },
+    "synonyms": [
+      "情深似海",
+      "情同手足"
+    ],
+    "antonyms": [
+      "薄情寡义",
+      "忘恩负义"
+    ]
+  },
+  {
+    "id": "liu-xing-gan-yue",
+    "text": "流星赶月",
+    "pinyin": "liú xīng gǎn yuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "shooting star · chase · moon",
+    "natural": "a meteor chasing the moon",
+    "meaning": {
+      "en": "Swift as a meteor racing after the moon; describing very fast motion.",
+      "zh": "像流星追赶月亮一样，形容速度极快。"
+    },
+    "equivalents": [
+      "fast as a shooting star",
+      "lightning swift"
+    ],
+    "examples": [
+      {
+        "zh": "他纵马狂奔，如流星赶月般冲出了重围。",
+        "en": "He galloped as swift as a meteor and broke out of the encirclement."
+      },
+      {
+        "zh": "快递小哥骑着电动车流星赶月，赶在零点前送到。",
+        "en": "The courier sped on his scooter like a meteor and delivered before midnight."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive and vivid, popular in martial and vernacular fiction. Usually adverbial. Also used for 'step like the wind' (大步流星).",
+      "zh": "生动的描写，常见于武侠和白话小说，多作状语。"
+    },
+    "synonyms": [
+      "风驰电掣",
+      "迅雷不及掩耳"
+    ],
+    "antonyms": [
+      "龟速蜗行",
+      "慢条斯理"
+    ]
+  },
+  {
+    "id": "gui-bu-ke-yan",
+    "text": "贵不可言",
+    "pinyin": "guì bù kě yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "noble · cannot · speak of",
+    "natural": "nobility beyond words",
+    "meaning": {
+      "en": "So high in rank or fortune that it cannot be described; of a person destined for great eminence.",
+      "zh": "显贵到无法形容，指命相或地位极其尊贵。"
+    },
+    "equivalents": [
+      "destined for the highest honours",
+      "a noble beyond words"
+    ],
+    "examples": [
+      {
+        "zh": "相士说他贵不可言，日后必有大富大贵。",
+        "en": "The fortune-teller said he was destined for the highest honours."
+      },
+      {
+        "zh": "她出身贵不可言，却从不摆架子。",
+        "en": "She is of exalted birth, yet never puts on airs."
+      }
+    ],
+    "usage": {
+      "en": "Used in fortune-telling and in historical fiction; today a hyperbolic compliment. Often 面相贵不可言. Do not confuse with 妙不可言 ('wonderful').",
+      "zh": "多用于相命及历史小说，今日是夸张的恭维，常说“面相贵不可言”。不要与“妙不可言”混淆。"
+    },
+    "synonyms": [
+      "荣华富贵",
+      "位极人臣"
+    ],
+    "antonyms": [
+      "卑微低贱",
+      "贫贱不堪"
+    ]
+  },
+  {
+    "id": "ming-zhong-yi-shi",
+    "text": "名重一时",
+    "pinyin": "míng zhòng yī shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "name · weighty · one · time",
+    "natural": "famous and respected in one's day",
+    "meaning": {
+      "en": "To be highly esteemed and famous at a particular time.",
+      "zh": "在某一时期享有很高的声望。"
+    },
+    "equivalents": [
+      "the toast of the day",
+      "highly esteemed in one's time"
+    ],
+    "examples": [
+      {
+        "zh": "这位诗人当年名重一时，如今却少有人读。",
+        "en": "The poet was the toast of his day but is rarely read now."
+      },
+      {
+        "zh": "他在乾隆年间名重一时，求画者络绎不绝。",
+        "en": "In the Qianlong era he was highly esteemed and painting seekers came in a stream."
+      }
+    ],
+    "usage": {
+      "en": "Respectful; implies fame limited to an era. Often followed by a but-clause. Compare 名噪一时 which is more neutral about the reason for fame.",
+      "zh": "带敬意，暗示名声只在一个时期。后面常有转折。与“名噪一时”相比，后者对出名原因更中性。"
+    },
+    "synonyms": [
+      "声名显赫",
+      "誉满天下"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "籍籍无名"
+    ]
+  },
+  {
+    "id": "shi-tong-sheng-si",
+    "text": "誓同生死",
+    "pinyin": "shì tóng shēng sǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "love-and-marriage",
+      "three-kingdoms"
+    ],
+    "literal": "vow · share · life · death",
+    "natural": "vow to live and die together",
+    "meaning": {
+      "en": "To swear to share life and death, no matter what; a pledge of absolute loyalty.",
+      "zh": "发誓同生共死，表示忠诚不渝。"
+    },
+    "equivalents": [
+      "swear to stand together till death",
+      "pledge life and death together"
+    ],
+    "examples": [
+      {
+        "zh": "三兄弟桃园结义，誓同生死。",
+        "en": "The three brothers swore at Peach Garden to live and die together."
+      },
+      {
+        "zh": "战友们誓同生死，没有一人后退。",
+        "en": "The comrades vowed to share life and death, and none stepped back."
+      }
+    ],
+    "usage": {
+      "en": "Heroic, loyal; associated with sworn brotherhood in Romance of the Three Kingdoms. Usually used in the past or in oaths.",
+      "zh": "豪迈、忠诚，与《三国演义》桃园结义相关，多用于誓言或回顾。"
+    },
+    "synonyms": [
+      "生死与共",
+      "同生共死"
+    ],
+    "antonyms": [
+      "背信弃义",
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "kai-hua-jie-shi",
+    "text": "开花结实",
+    "pinyin": "kāi huā jié shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "farming-and-harvest",
+      "plant-and-natural-world"
+    ],
+    "literal": "bloom · flower · set · fruit",
+    "natural": "blossom and bear fruit",
+    "meaning": {
+      "en": "Plants flowering and then setting fruit; figuratively, effort yielding results.",
+      "zh": "植物开花并结出果实，比喻努力有了成果。"
+    },
+    "equivalents": [
+      "blossom and bear fruit",
+      "come to fruition"
+    ],
+    "examples": [
+      {
+        "zh": "春天栽下的果树，秋天开花结实。",
+        "en": "Fruit trees planted in spring flower and bear fruit by autumn."
+      },
+      {
+        "zh": "多年的研究终于开花结实。",
+        "en": "Years of research have at last borne fruit."
+      }
+    ],
+    "usage": {
+      "en": "Literal in farming or botany, figurative for results. 实 is 'fruit/seed'. More common modern form: 开花结果.",
+      "zh": "农业、植物学中用本义，比喻义指有成果。“实”指果实。现代更常说“开花结果”。"
+    },
+    "synonyms": [
+      "硕果累累",
+      "瓜熟蒂落"
+    ],
+    "antonyms": [
+      "颗粒无收",
+      "有花无果"
+    ]
+  },
+  {
+    "id": "shi-jing-zhi-tu",
+    "text": "市井之徒",
+    "pinyin": "shì jǐng zhī tú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "negative-character-flaws",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "market · well · 's · fellow",
+    "natural": "a marketplace sort",
+    "meaning": {
+      "en": "Petty, vulgar townspeople, ruled by profit and gossip; a derogatory term for the lowbrow.",
+      "zh": "指城镇中庸俗、唯利是图的人，含轻蔑。"
+    },
+    "equivalents": [
+      "a vulgar townsman",
+      "a petty marketplace sort"
+    ],
+    "examples": [
+      {
+        "zh": "他不愿与市井之徒为伍。",
+        "en": "He refused to keep company with petty marketplace types."
+      },
+      {
+        "zh": "在士大夫眼里，商人不过是市井之徒。",
+        "en": "In the eyes of the scholar-officials, merchants were mere marketplace riff-raff."
+      }
+    ],
+    "usage": {
+      "en": "Contemptuous, mostly historical; 市井 (market and well) means 'town' in general. Reflects an old class prejudice and can offend today.",
+      "zh": "轻蔑，多见于历史语境。“市井”泛指城市。反映旧时阶层偏见，今天使用要谨慎。"
+    },
+    "synonyms": [
+      "贩夫走卒",
+      "庸夫俗子"
+    ],
+    "antonyms": [
+      "高人雅士",
+      "谦谦君子"
+    ]
+  },
+  {
+    "id": "yi-xing-suo-ran",
+    "text": "意兴索然",
+    "pinyin": "yì xìng suǒ rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "sadness-and-despair",
+      "relaxation-and-rest"
+    ],
+    "literal": "interest · mood · dried up · -ly",
+    "natural": "interest drained away",
+    "meaning": {
+      "en": "Utterly bored and with no more enthusiasm; having lost all interest.",
+      "zh": "兴致全无，毫无兴趣。"
+    },
+    "equivalents": [
+      "lose all interest",
+      "feel utterly flat"
+    ],
+    "examples": [
+      {
+        "zh": "看了一半，他就意兴索然地走出了电影院。",
+        "en": "Halfway through, he walked out of the cinema having lost all interest."
+      },
+      {
+        "zh": "听完冗长的报告，大家都意兴索然。",
+        "en": "After the long report everyone's enthusiasm had drained away."
+      }
+    ],
+    "usage": {
+      "en": "Literary; state after some letdown. 索然 means 'dry, without flavour'. Compare 兴味索然 / 兴致索然 (same meaning, different words).",
+      "zh": "书面语，多指遇到扫兴之事之后。“索然”意为枯燥无味。同义说法有“兴味索然”“兴致索然”。"
+    },
+    "synonyms": [
+      "兴味索然",
+      "索然无味"
+    ],
+    "antonyms": [
+      "兴致勃勃",
+      "兴高采烈"
+    ]
+  },
+  {
+    "id": "nie-nie-ru-ru",
+    "text": "嗫嗫嚅嚅",
+    "pinyin": "niè niè rú rú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poor-speech-and-silence",
+      "fear-and-cowardice"
+    ],
+    "literal": "mumbling · mumbling · hesitating · hesitating",
+    "natural": "mumbling and faltering",
+    "meaning": {
+      "en": "Speaking haltingly in a low voice, as if afraid or unwilling to say it out loud.",
+      "zh": "想说又不敢说，吞吞吐吐、低声嘀咕的样子。"
+    },
+    "equivalents": [
+      "mumble hesitantly",
+      "speak in a faltering whisper"
+    ],
+    "examples": [
+      {
+        "zh": "他嗫嗫嚅嚅地说了半天，谁也没听清。",
+        "en": "He mumbled for ages and no one made out what he said."
+      },
+      {
+        "zh": "被老师问到，孩子嗫嗫嚅嚅，不敢抬头。",
+        "en": "Asked by the teacher, the child mumbled and dared not look up."
+      }
+    ],
+    "usage": {
+      "en": "Describes a timid or embarrassed way of speaking. Pronounce 嗫 as niè and 嚅 as rú. Usually adverbial with 地.",
+      "zh": "形容胆怯或尴尬时说话的样子。“嗫”读niè，“嚅”读rú。多作状语，后加“地”。"
+    },
+    "synonyms": [
+      "吞吞吐吐",
+      "支支吾吾"
+    ],
+    "antonyms": [
+      "侃侃而谈",
+      "口若悬河"
+    ]
+  },
+  {
+    "id": "pen-yun-tu-wu",
+    "text": "喷云吐雾",
+    "pinyin": "pēn yún tǔ wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "myths-legends",
+      "extraordinary-circumstances"
+    ],
+    "literal": "spew · cloud · spit · mist",
+    "natural": "spewing clouds and spitting mist",
+    "meaning": {
+      "en": "To blow out clouds and mist; originally of dragons and spirits, now of heavy smokers or steam-belching machines.",
+      "zh": "喷出云雾，原指龙、神怪呼云唤雾，也形容吸烟人吐烟、机器喷出蒸汽的样子。"
+    },
+    "equivalents": [
+      "puff out clouds of smoke",
+      "belch out clouds"
+    ],
+    "examples": [
+      {
+        "zh": "火车头喷云吐雾，缓缓驶出站台。",
+        "en": "The locomotive belched clouds of steam and pulled slowly out of the platform."
+      },
+      {
+        "zh": "他坐在门口喷云吐雾，一根接一根。",
+        "en": "He sat in the doorway puffing out clouds of smoke, one after another."
+      }
+    ],
+    "usage": {
+      "en": "A vivid, somewhat humorous way to describe smoking or steaming. Compare 吞云吐雾 (also smoking, or opium smoking, more common).",
+      "zh": "生动，略带诙谐，形容吸烟或喷出蒸汽。与“吞云吐雾”相近，后者更常见。"
+    },
+    "synonyms": [
+      "腾云驾雾",
+      "烟雾缭绕"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qian-qiu-wan-sui",
+    "text": "千秋万岁",
+    "pinyin": "qiān qiū wàn suì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "thousand · autumns · ten thousand · years",
+    "natural": "a thousand autumns, ten thousand years",
+    "meaning": {
+      "en": "Many, many years; a wish for a very long life, or a long-lasting reign, state or work.",
+      "zh": "指很多很多年，是祝寿、祝颂国家或事业长久的话。"
+    },
+    "equivalents": [
+      "may you live a thousand years",
+      "for countless generations"
+    ],
+    "examples": [
+      {
+        "zh": "祝君千秋万岁，福寿安康。",
+        "en": "May you live a thousand autumns, in good fortune and health."
+      },
+      {
+        "zh": "他们的友谊千秋万岁，永不改变。",
+        "en": "Their friendship will last for ten thousand years and never change."
+      }
+    ],
+    "usage": {
+      "en": "A grand wish, traditionally to emperors; used lightly now for birthdays or anniversaries. Compare 万寿无疆. Also used to mean 'after death' (百年之后).",
+      "zh": "宏大的祝辞，古时用于祝皇帝；今天用于生日、纪念时较轻松。可比较“万寿无疆”。"
+    },
+    "synonyms": [
+      "万寿无疆",
+      "福寿绵长"
+    ],
+    "antonyms": [
+      "朝不保夕",
+      "昙花一现"
+    ]
+  },
+  {
+    "id": "shi-jing-xiao-ren",
+    "text": "市井小人",
+    "pinyin": "shì jǐng xiǎo rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "negative-character-flaws",
+      "mediocrity-and-poor-appearance"
+    ],
+    "literal": "market · well · petty · person",
+    "natural": "a petty townsman",
+    "meaning": {
+      "en": "A narrow-minded, mean-spirited townsperson, interested in petty gain and gossip.",
+      "zh": "城镇中目光短浅、自私计较的人。"
+    },
+    "equivalents": [
+      "a petty-minded townsman",
+      "a small-minded gossip"
+    ],
+    "examples": [
+      {
+        "zh": "他是个市井小人，只会斤斤计较。",
+        "en": "He is a petty townsman who only knows how to haggle."
+      },
+      {
+        "zh": "不要跟市井小人一般见识。",
+        "en": "Don't stoop to the level of a petty-minded person."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory, a little classist; used in the same way as 市井之徒 but stressing meanness and pettiness. Often 小人 alone is used.",
+      "zh": "贬义，略含阶层偏见，用法类似“市井之徒”，但更强调自私琐碎。"
+    },
+    "synonyms": [
+      "斤斤计较",
+      "鼠目寸光"
+    ],
+    "antonyms": [
+      "君子之风",
+      "正人君子"
+    ]
+  },
+  {
+    "id": "yi-zi-yi-ban",
+    "text": "一字一板",
+    "pinyin": "yī zì yī bǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "excellent-acting",
+      "standards-and-benchmarks"
+    ],
+    "literal": "one · word · one · beat",
+    "natural": "every word on its beat",
+    "meaning": {
+      "en": "Speaking or singing slowly, clearly and with each word accurately measured; each word in place.",
+      "zh": "说话或唱戏时每个字都清楚、有节奏、有分寸。"
+    },
+    "equivalents": [
+      "enunciate every word",
+      "speak with careful, even beats"
+    ],
+    "examples": [
+      {
+        "zh": "老艺人唱戏一字一板，听得清清楚楚。",
+        "en": "The old performer sang each word on its beat, and it was perfectly clear."
+      },
+      {
+        "zh": "他一字一板地念出判决书。",
+        "en": "He read out the verdict word by word, with every beat clear."
+      }
+    ],
+    "usage": {
+      "en": "Describes diction or deliberate speech. From opera, where 板 is the beat of the wooden clapper. Compare 一板一眼 (strict, rule-bound), which is wider.",
+      "zh": "描写吐字清晰、说话认真。源于戏曲，“板”指板眼节拍。比较“一板一眼”，后者范围更广，也指做事刻板。"
+    },
+    "synonyms": [
+      "字正腔圆",
+      "一板一眼"
+    ],
+    "antonyms": [
+      "含糊不清",
+      "含混其词"
+    ]
+  }
+]

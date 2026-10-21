@@ -47,13 +47,17 @@
     "id": "sang-jia-zhi-quan",
     "text": "丧家之犬",
     "pinyin": "sàng jiā zhī quǎn",
+    "variants": [
+      "丧家之狗"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
       "dead-ends-and-desperation",
-      "historical-records"
+      "historical-records",
+      "confucian-classics"
     ],
     "literal": "lose · home · 's · dog",
     "natural": "a dog without a home",
@@ -373,11 +377,12 @@
     "id": "bu-ke-ming-zhuang",
     "text": "不可名状",
     "pinyin": "bù kě míng zhuàng",
+    "variants": [
+      "莫可名状",
+      "无可名状"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "莫可名状"
-    ],
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -479,7 +484,8 @@
     "themes": [
       "attitude-humble-vs-arrogant",
       "myths-legends",
-      "polite-humble"
+      "polite-humble",
+      "buddhist-origin"
     ],
     "literal": "flesh · eye · mortal · womb",
     "natural": "mortal eyes",
@@ -896,11 +902,11 @@
     "id": "pi-gan-li-dan",
     "text": "披肝沥胆",
     "pinyin": "pī gān lì dǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "剖肝沥胆"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

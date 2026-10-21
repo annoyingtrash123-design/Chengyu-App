@@ -721,9 +721,9 @@
     "id": "hong-de-fa-zi",
     "text": "红得发紫",
     "pinyin": "hóng de fā zǐ",
+    "variants": [],
     "kind": "guanyongyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -827,6 +827,9 @@
     "id": "fen-zhuang-yu-qi",
     "text": "粉妆玉砌",
     "pinyin": "fěn zhuāng yù qì",
+    "variants": [
+      "粉妆玉琢"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

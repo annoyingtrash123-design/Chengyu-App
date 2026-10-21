@@ -1,0 +1,539 @@
+[
+  {
+    "id": "cang-huang-shi-cuo",
+    "text": "仓皇失措",
+    "pinyin": "cāng huáng shī cuò",
+    "variants": [
+      "仓惶失措"
+    ],
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "fear-and-cowardice",
+      "confusion"
+    ],
+    "literal": "hurried · flustered · lose · composure",
+    "natural": "flustered and at a loss",
+    "meaning": {
+      "en": "In a panic and so flustered that one does not know what to do.",
+      "zh": "匆忙慌乱，不知如何是好。"
+    },
+    "equivalents": [
+      "in a flustered panic",
+      "at one's wits' end"
+    ],
+    "examples": [
+      {
+        "zh": "突然停电，大家仓皇失措，乱作一团。",
+        "en": "When the power suddenly went out everyone panicked and milled about."
+      },
+      {
+        "zh": "面对记者的追问，他仓皇失措，答非所问。",
+        "en": "Under the reporters' questioning he was flustered and gave irrelevant answers."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. 仓皇 is also written 仓惶, 苍黄; 失措 means 'lose one's bearings'. Slightly more formal than 手忙脚乱.",
+      "zh": "多作谓语或状语。“仓皇”也写作“仓惶”。比“手忙脚乱”稍书面。"
+    },
+    "synonyms": [
+      "惊慌失措",
+      "手足无措"
+    ],
+    "antonyms": [
+      "镇定自若",
+      "从容不迫"
+    ]
+  },
+  {
+    "id": "fu-zhi-yi-xiao",
+    "text": "付之一笑",
+    "pinyin": "fù zhī yī xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "attitude-humble-vs-arrogant",
+      "mental-clarity"
+    ],
+    "literal": "give · it · one · laugh",
+    "natural": "answer it with a laugh",
+    "meaning": {
+      "en": "To dismiss something with a laugh, not taking it seriously or to heart.",
+      "zh": "用笑一笑来对待，表示不放在心上。"
+    },
+    "equivalents": [
+      "laugh it off",
+      "shrug it off with a smile"
+    ],
+    "examples": [
+      {
+        "zh": "对于别人的议论，他总是付之一笑。",
+        "en": "He always laughs off what others say about him."
+      },
+      {
+        "zh": "这点小误会，我们付之一笑就算了。",
+        "en": "Let's just laugh off this small misunderstanding."
+      }
+    ],
+    "usage": {
+      "en": "Shows an easy-going attitude, towards criticism or minor trouble; predicate, often after 对…. Compare 一笑置之.",
+      "zh": "表示大度、不介意，多针对批评或小麻烦，作谓语，常用于“对……付之一笑”。可比较“一笑置之”。"
+    },
+    "synonyms": [
+      "一笑置之",
+      "不以为意"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "念念不忘"
+    ]
+  },
+  {
+    "id": "qian-shan-wan-he",
+    "text": "千山万壑",
+    "pinyin": "qiān shān wàn hè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "difficult-terrain",
+      "journeys-and-exploration"
+    ],
+    "literal": "thousand · hills · ten thousand · ravines",
+    "natural": "countless peaks and gorges",
+    "meaning": {
+      "en": "Endless mountains and valleys; rugged mountain country stretching far.",
+      "zh": "形容山峦重叠，沟壑纵横，山势起伏连绵。"
+    },
+    "equivalents": [
+      "endless mountains and ravines",
+      "range upon range of peaks"
+    ],
+    "examples": [
+      {
+        "zh": "千山万壑之间，一条小路蜿蜒而上。",
+        "en": "A small path wound its way up between countless peaks and gorges."
+      },
+      {
+        "zh": "车队穿过千山万壑，终于到达高原。",
+        "en": "The convoy crossed range after range and at last reached the plateau."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive and literary; stresses the difficulty of crossing rugged ground. 壑 is hè. Compare 千山万水 which stresses distance.",
+      "zh": "书面描写，强调山路崎岖、险阻重重。“壑”读hè。与“千山万水”相比，后者强调路途遥远。"
+    },
+    "synonyms": [
+      "崇山峻岭",
+      "重峦叠嶂"
+    ],
+    "antonyms": [
+      "一马平川",
+      "平坦开阔"
+    ]
+  },
+  {
+    "id": "feng-yu-ru-pan",
+    "text": "风雨如磐",
+    "pinyin": "fēng yǔ rú pán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "harsh-natural-conditions",
+      "danger"
+    ],
+    "literal": "wind · rain · like · great stone",
+    "natural": "wind and rain as heavy as a boulder",
+    "meaning": {
+      "en": "Stormy weather as oppressive as a rock; figuratively, a dark and oppressive time.",
+      "zh": "风雨交加，天色昏暗得像压着大石头，比喻形势黑暗、环境险恶。"
+    },
+    "equivalents": [
+      "a dark and stormy time",
+      "oppressive gloom"
+    ],
+    "examples": [
+      {
+        "zh": "在那风雨如磐的岁月里，他们坚持着希望。",
+        "en": "In those dark and oppressive years they held on to hope."
+      },
+      {
+        "zh": "窗外风雨如磐，屋内的人却谈笑自若。",
+        "en": "Outside the storm lowered like a stone, but those indoors chatted calmly."
+      }
+    ],
+    "origin": {
+      "source": "鲁迅《自题小像》",
+      "story": {
+        "en": "Lu Xun's 1903 poem on his own portrait ends: 'Wind and rain like a boulder darken my old homeland' (风雨如磐暗故园).",
+        "zh": "鲁迅《自题小像》：“灵台无计逃神矢，风雨如磐暗故园。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; both literal storms and metaphor for dark political times. 磐 (a great rock) is pán. Often seen in the Lu Xun-inspired 风雨如磐暗故园.",
+      "zh": "书面语，可写实指风雨，也可比喻黑暗的时代。“磐”指大石，读pán。常见于鲁迅诗句“风雨如磐暗故园”。"
+    },
+    "synonyms": [
+      "狂风暴雨",
+      "黑云压城"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "天朗气清"
+    ]
+  },
+  {
+    "id": "chuo-yue-duo-zi",
+    "text": "绰约多姿",
+    "pinyin": "chuò yuē duō zī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "appearance"
+    ],
+    "literal": "graceful · slender · many · poses",
+    "natural": "graceful and charming",
+    "meaning": {
+      "en": "Slender, graceful and full of charm; of a woman's beautiful bearing.",
+      "zh": "形容女子体态柔美、姿态优美动人。"
+    },
+    "equivalents": [
+      "graceful and charming",
+      "willowy and elegant"
+    ],
+    "examples": [
+      {
+        "zh": "舞台上的舞者绰约多姿，赢得满堂喝彩。",
+        "en": "The dancer on stage was graceful and charming and won a full house's applause."
+      },
+      {
+        "zh": "她一袭长裙，绰约多姿地走进大厅。",
+        "en": "In a long dress she walked into the hall with graceful charm."
+      }
+    ],
+    "usage": {
+      "en": "Literary praise, usually for women. 绰 is chuò here (not chāo). Can also describe flowers.",
+      "zh": "书面语，多用于赞美女性，也可形容花朵。“绰”此处读chuò，不读chāo。"
+    },
+    "synonyms": [
+      "婀娜多姿",
+      "风姿绰约"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "笨手笨脚"
+    ]
+  },
+  {
+    "id": "shi-shan-xue-hai",
+    "text": "尸山血海",
+    "pinyin": "shī shān xuè hǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "danger",
+      "military-strategy-and-victory"
+    ],
+    "literal": "corpses · mountain · blood · sea",
+    "natural": "mountains of corpses, seas of blood",
+    "meaning": {
+      "en": "A scene of horrific slaughter, with piles of bodies and rivers of blood.",
+      "zh": "尸体堆积成山，鲜血汇成海洋，形容杀戮极其惨烈。"
+    },
+    "equivalents": [
+      "a scene of carnage",
+      "mountains of dead and seas of blood"
+    ],
+    "examples": [
+      {
+        "zh": "那场战役之后，战场上一片尸山血海。",
+        "en": "After that battle the field was a scene of carnage."
+      },
+      {
+        "zh": "他们是从尸山血海里爬出来的幸存者。",
+        "en": "They were survivors who had crawled out of a sea of blood."
+      }
+    ],
+    "usage": {
+      "en": "Vivid and horrifying; for war, massacre and disaster. Use sparingly. Compare 血流成河.",
+      "zh": "画面感强，用于战争、屠杀或灾难，宜少用。可比较“血流成河”。"
+    },
+    "synonyms": [
+      "血流成河",
+      "横尸遍野"
+    ],
+    "antonyms": [
+      "太平盛世",
+      "歌舞升平"
+    ]
+  },
+  {
+    "id": "gou-qie-tou-an",
+    "text": "苟且偷安",
+    "pinyin": "gǒu qiě tōu ān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "negative-character-flaws",
+      "laziness-and-giving-up"
+    ],
+    "literal": "make do · for the moment · steal · ease",
+    "natural": "cling to a stolen comfort",
+    "meaning": {
+      "en": "To muddle along taking whatever ease is on offer, with no thought for the future.",
+      "zh": "只顾眼前，得过且过，贪图一时的安逸。"
+    },
+    "equivalents": [
+      "live for the moment",
+      "settle for a comfortable rut"
+    ],
+    "examples": [
+      {
+        "zh": "国家危难之际，岂能苟且偷安？",
+        "en": "With the nation in peril, how can anyone just seek their own comfort?"
+      },
+      {
+        "zh": "年轻人不应只图苟且偷安，要有所追求。",
+        "en": "Young people should not just seek an easy life but strive for something."
+      }
+    ],
+    "usage": {
+      "en": "Critical; often used in exhortations and moral essays. 苟 is gǒu. Close to 得过且过 and 偏安一隅.",
+      "zh": "批评语气，常见于劝勉、议论文。“苟”读gǒu。与“得过且过”相近。"
+    },
+    "synonyms": [
+      "得过且过",
+      "贪图安逸"
+    ],
+    "antonyms": [
+      "居安思危",
+      "奋发图强"
+    ]
+  },
+  {
+    "id": "mai-you-qiu-rong",
+    "text": "卖友求荣",
+    "pinyin": "mài yǒu qiú róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "bad-company-and-betrayal",
+      "negative-character-flaws"
+    ],
+    "literal": "sell · friend · seek · glory",
+    "natural": "sell a friend for advancement",
+    "meaning": {
+      "en": "To betray a friend in order to gain honour or promotion.",
+      "zh": "出卖朋友，换取个人的荣华富贵。"
+    },
+    "equivalents": [
+      "sell out a friend for gain",
+      "betray a friend to get ahead"
+    ],
+    "examples": [
+      {
+        "zh": "这种卖友求荣的人，谁敢与他交往？",
+        "en": "Who would dare to deal with someone who sells out friends to get ahead?"
+      },
+      {
+        "zh": "他为了升职不惜卖友求荣，同事们都鄙视他。",
+        "en": "He sold out a friend for promotion, and his colleagues despise him."
+      }
+    ],
+    "usage": {
+      "en": "Strongly condemnatory; commonly part of moral judgments about traitors and informers. Compare 卖主求荣.",
+      "zh": "谴责意味很强，常用来评价叛徒、告密者。可比较“卖主求荣”。"
+    },
+    "synonyms": [
+      "出卖朋友",
+      "落井下石"
+    ],
+    "antonyms": [
+      "义薄云天",
+      "两肋插刀"
+    ]
+  },
+  {
+    "id": "bo-xue-duo-wen",
+    "text": "博学多闻",
+    "pinyin": "bó xué duō wén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "reading-and-study",
+      "academic-achievement",
+      "confucian-classics"
+    ],
+    "literal": "broad · learning · much · heard",
+    "natural": "widely learned and well informed",
+    "meaning": {
+      "en": "Having wide learning and having heard and seen much.",
+      "zh": "学问广博，见闻丰富。"
+    },
+    "equivalents": [
+      "widely read and well informed",
+      "erudite"
+    ],
+    "examples": [
+      {
+        "zh": "这位老教授博学多闻，同学们都爱请教他。",
+        "en": "The old professor is learned and well informed, and students love to consult him."
+      },
+      {
+        "zh": "他博学多闻，对各地风俗如数家珍。",
+        "en": "He is erudite and knows the customs of each region by heart."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·曲礼上》",
+      "story": {
+        "en": "The Book of Rites's rules for the noble person say that a 'gentleman, learned and wide in what he has heard, yet modest, ... ' (博闻强识而让).",
+        "zh": "《礼记·曲礼上》：“博闻强识而让，敦善行而不怠，谓之君子。”"
+      }
+    },
+    "usage": {
+      "en": "Praise, mainly for scholars; predicate or attributive. 闻 means 'what one has heard/learned'. Also 博闻强识 for good memory.",
+      "zh": "褒义，多用于学者，作谓语、定语。“闻”指见闻。强调记忆好则用“博闻强识”。"
+    },
+    "synonyms": [
+      "学识渊博",
+      "见多识广"
+    ],
+    "antonyms": [
+      "孤陋寡闻",
+      "才疏学浅"
+    ]
+  },
+  {
+    "id": "zheng-xin-cheng-yi",
+    "text": "正心诚意",
+    "pinyin": "zhèng xīn chéng yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "rectify · heart · sincere · intention",
+    "natural": "set the heart right and make intentions sincere",
+    "meaning": {
+      "en": "To keep one's heart upright and one's intentions sincere, as the basis of self-cultivation.",
+      "zh": "端正思想，使意念真诚，是儒家修身的基础；也泛指真心实意。"
+    },
+    "equivalents": [
+      "be upright and sincere",
+      "cultivate a true heart"
+    ],
+    "examples": [
+      {
+        "zh": "做学问要正心诚意，不能急功近利。",
+        "en": "Scholarship requires a sincere and upright heart, not a hunger for quick results."
+      },
+      {
+        "zh": "他正心诚意地向大家道歉。",
+        "en": "He apologised to everyone with sincerity."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·大学》",
+      "story": {
+        "en": "The Great Learning's chain of self-cultivation: 'Those who wished to rectify their hearts first made their intentions sincere' (欲正其心者，先诚其意).",
+        "zh": "《大学》：“欲修其身者，先正其心；欲正其心者，先诚其意。”"
+      }
+    },
+    "usage": {
+      "en": "From Confucian self-cultivation; formal, a little preachy. 'Sincere' sense in everyday speech is rarer than 诚心诚意.",
+      "zh": "源自儒家修身思想，较正式，略带说教味。日常表示“真心”多说“诚心诚意”。"
+    },
+    "synonyms": [
+      "修身养性",
+      "克己复礼"
+    ],
+    "antonyms": [
+      "心怀鬼胎",
+      "虚情假意"
+    ]
+  },
+  {
+    "id": "dai-shi-er-dong",
+    "text": "待时而动",
+    "pinyin": "dài shí ér dòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "adaptability",
+      "military-strategy-and-victory"
+    ],
+    "literal": "wait · moment · then · act",
+    "natural": "wait for the right time to act",
+    "meaning": {
+      "en": "To wait patiently for the right moment before acting.",
+      "zh": "等待适当的时机再行动。"
+    },
+    "equivalents": [
+      "bide one's time",
+      "wait for the right moment"
+    ],
+    "examples": [
+      {
+        "zh": "市场不明朗时，投资者应待时而动。",
+        "en": "When the market is unclear, investors should bide their time."
+      },
+      {
+        "zh": "他隐居多年，待时而动。",
+        "en": "He lived in seclusion for years, waiting for his moment."
+      }
+    ],
+    "origin": {
+      "source": "《周易·系辞下》",
+      "story": {
+        "en": "The Appendix to the Changes: 'The gentleman keeps his tools about him and acts when the time is right' (君子藏器于身，待时而动).",
+        "zh": "《周易·系辞下》：“君子藏器于身，待时而动，何不利之有？”"
+      }
+    },
+    "usage": {
+      "en": "Neutral to positive; implies patience and judgement, not hesitation. Compare 伺机而动 (more watchful).",
+      "zh": "中性偏褒，强调耐心和判断，不是犹豫。可比较“伺机而动”（更强调观察）。"
+    },
+    "synonyms": [
+      "伺机而动",
+      "静观其变"
+    ],
+    "antonyms": [
+      "操之过急",
+      "轻举妄动"
+    ]
+  }
+]

@@ -140,6 +140,9 @@
     "id": "gan-chang-cun-duan",
     "text": "肝肠寸断",
     "pinyin": "gān cháng cùn duàn",
+    "variants": [
+      "柔肠寸断"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -518,7 +521,10 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "culture"
+      "culture",
+      "confucian-classics",
+      "daoist-classics",
+      "buddhist-origin"
     ],
     "literal": "three · teachings · nine · schools",
     "natural": "people from all walks of life",

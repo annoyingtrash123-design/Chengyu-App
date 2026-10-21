@@ -427,11 +427,11 @@
     "id": "man-mian-hong-guang",
     "text": "满面红光",
     "pinyin": "mǎn miàn hóng guāng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "红光满面"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -566,6 +566,9 @@
     "id": "pai-chu-yi-ji",
     "text": "排除异己",
     "pinyin": "pái chú yì jǐ",
+    "variants": [
+      "排斥异己"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -789,11 +792,11 @@
     "id": "jiao-bu-zhan-di",
     "text": "脚不沾地",
     "pinyin": "jiǎo bù zhān dì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "脚不点地"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

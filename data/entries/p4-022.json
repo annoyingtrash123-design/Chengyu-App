@@ -253,8 +253,7 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "historical-periods",
-      "confucian-classics"
+      "historical-periods"
     ],
     "literal": "various · masters · hundred · schools",
     "natural": "the masters and hundred schools",
@@ -339,8 +338,8 @@
     "sentiment": "negative",
     "register": "literary",
     "themes": [
-      "daoist-classics",
-      "near-misses-and-setbacks"
+      "near-misses-and-setbacks",
+      "confucian-classics"
     ],
     "literal": "overreaching · dragon · has · regret",
     "natural": "the arrogant dragon will regret",
@@ -431,11 +430,11 @@
     "id": "qi-hei-yi-tuan",
     "text": "漆黑一团",
     "pinyin": "qī hēi yī tuán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "一团漆黑"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -745,6 +744,9 @@
     "id": "mian-wu-ren-se",
     "text": "面无人色",
     "pinyin": "miàn wú rén sè",
+    "variants": [
+      "脸无人色"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

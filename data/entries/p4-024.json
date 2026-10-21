@@ -317,6 +317,9 @@
     "id": "rou-qing-mi-yi",
     "text": "柔情蜜意",
     "pinyin": "róu qíng mì yì",
+    "variants": [
+      "柔情密意"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -582,12 +585,12 @@
     "id": "yi-ci-lei-tui",
     "text": "以此类推",
     "pinyin": "yǐ cǐ lèi tuī",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "依此类推",
       "照此类推"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

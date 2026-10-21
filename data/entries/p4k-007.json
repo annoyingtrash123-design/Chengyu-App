@@ -101,11 +101,11 @@
     "id": "hu-zhi-ji-lai",
     "text": "呼之即来",
     "pinyin": "hū zhī jí lái",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "招之即来"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -153,11 +153,11 @@
     "id": "hu-yi-bu-jue",
     "text": "狐疑不决",
     "pinyin": "hú yí bù jué",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "狐疑不定"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -206,9 +206,9 @@
     "id": "hu-kou-yu-sheng",
     "text": "虎口余生",
     "pinyin": "hǔ kǒu yú shēng",
+    "variants": [],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -257,11 +257,11 @@
     "id": "huai-gu-shang-jin",
     "text": "怀古伤今",
     "pinyin": "huái gǔ shāng jīn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "伤今怀古"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -360,11 +360,11 @@
     "id": "huang-huang-ju-zhu",
     "text": "煌煌巨著",
     "pinyin": "huáng huáng jù zhù",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "皇皇巨著"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -522,6 +522,9 @@
     "id": "ji-liu-yong-jin",
     "text": "激流勇进",
     "pinyin": "jī liú yǒng jìn",
+    "variants": [
+      "急流勇进"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -679,7 +682,8 @@
     "register": "literary",
     "themes": [
       "stories",
-      "exam-favourites"
+      "exam-favourites",
+      "daoist-classics"
     ],
     "literal": "ride · crane · west · go",
     "natural": "ride a crane to the west",
@@ -723,11 +727,11 @@
     "id": "jian-shen-hui-se",
     "text": "艰深晦涩",
     "pinyin": "jiān shēn huì sè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "晦涩艰深"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

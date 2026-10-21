@@ -63,7 +63,10 @@ MANUAL = {
     "three-kingdoms": ["望梅止渴", "七步成诗", "三顾茅庐", "鞠躬尽瘁", "草船借箭", "万事俱备，只欠东风"],
 }
 # Hand-curated label lists (exam lists, themes judged by reviewers): data/source/label_lists.json, matched on headword or variant.
-EXAM = {lab: set(texts) for lab, texts in json.load(open("data/source/label_lists.json", encoding="utf-8")).items()}
+_lists = json.load(open("data/source/label_lists.json", encoding="utf-8"))
+EXAM = {lab: set(texts) for lab, texts in _lists.items() if lab != "exclude"}
+# Pairs checked by hand where a keyword/source rule would add the wrong label.
+LIST_EXCLUDE = {(t, lab) for lab, texts in _lists.get("exclude", {}).items() for t in texts}
 
 # Never auto-add these (checked by hand: the keyword match is misleading).
 EXCLUDE = {("塞翁失马", "festive-greetings"), ("时光飞逝", "festive-greetings"), ("锣鼓喧天", "festive-greetings"), ("叶公好龙", "myths-legends")}
@@ -84,7 +87,7 @@ for f in sorted(glob.glob("data/entries/*.json")):
         if e["text"] in MYTH_TEXTS:
             want.append("myths-legends")
         for lab in want:
-            if (e["text"], lab) in EXCLUDE:
+            if (e["text"], lab) in EXCLUDE or (e["text"], lab) in LIST_EXCLUDE:
                 continue
             if lab not in e["themes"]:
                 e["themes"].append(lab)

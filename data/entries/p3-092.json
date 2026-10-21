@@ -359,8 +359,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "attitude-humble-vs-arrogant",
-      "confucian-classics"
+      "attitude-humble-vs-arrogant"
     ],
     "literal": "cover · nose · and · pass",
     "natural": "hold one's nose and pass by",
@@ -723,6 +722,9 @@
     "id": "xing-li-chu-bi",
     "text": "兴利除弊",
     "pinyin": "xīng lì chú bì",
+    "variants": [
+      "兴利除害"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -824,7 +826,8 @@
     "text": "怅然若失",
     "pinyin": "chàng rán ruò shī",
     "variants": [
-      "惘然若失"
+      "惘然若失",
+      "茫然若失"
     ],
     "kind": "chengyu",
     "frequency": 3,

@@ -3,12 +3,12 @@
     "id": "qi-ru-bi-xi",
     "text": "弃如敝屣",
     "pinyin": "qì rú bì xǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "弃之如敝屣",
       "视如敝屣"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -153,11 +153,11 @@
     "id": "yan-shou-huan-fei",
     "text": "燕瘦环肥",
     "pinyin": "yàn shòu huán féi",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "环肥燕瘦"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -618,6 +618,9 @@
     "id": "ren-tou-cuan-dong",
     "text": "人头攒动",
     "pinyin": "rén tóu cuán dòng",
+    "variants": [
+      "万头攒动"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

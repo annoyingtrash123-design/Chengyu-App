@@ -3,6 +3,9 @@
     "id": "shun-tian-ying-ren",
     "text": "顺天应人",
     "pinyin": "shùn tiān yìng rén",
+    "variants": [
+      "应天顺人"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -10,7 +13,8 @@
     "themes": [
       "good-governance",
       "historical-periods",
-      "exam-favourites"
+      "exam-favourites",
+      "confucian-classics"
     ],
     "literal": "follow · heaven · respond to · people",
     "natural": "in line with Heaven and the people",
@@ -146,8 +150,11 @@
   },
   {
     "id": "shuo-da-wu-peng",
-    "text": "硕大无朋",
-    "pinyin": "shuò dà wú péng",
+    "text": "硕大无比",
+    "pinyin": "shuò dà wú bǐ",
+    "variants": [
+      "硕大无朋"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -778,11 +785,11 @@
     "id": "wa-rou-bu-chuang",
     "text": "挖肉补疮",
     "pinyin": "wā ròu bǔ chuāng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "剜肉补疮"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

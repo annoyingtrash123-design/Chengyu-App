@@ -96,6 +96,9 @@
     "id": "ji-wang-bu-jiu",
     "text": "既往不咎",
     "pinyin": "jì wǎng bù jiù",
+    "variants": [
+      "不咎既往"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -904,7 +907,8 @@
     "themes": [
       "negative-character-flaws",
       "superficial-learning",
-      "historical-records"
+      "historical-records",
+      "confucian-classics"
     ],
     "literal": "by · looks · judge · people",
     "natural": "judge by appearances",

@@ -3,11 +3,11 @@
     "id": "zhong-shang-zhi-xia-bi-you-yong-fu",
     "text": "重赏之下，必有勇夫",
     "pinyin": "zhòng shǎng zhī xià, bì yǒu yǒng fū",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "必有勇夫"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -256,6 +256,9 @@
     "id": "di-zhong-wo-gua",
     "text": "敌众我寡",
     "pinyin": "dí zhòng wǒ guǎ",
+    "variants": [
+      "彼众我寡"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -301,11 +304,11 @@
     "id": "bo-wen-qiang-ji",
     "text": "博闻强记",
     "pinyin": "bó wén qiáng jì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "博闻强识"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

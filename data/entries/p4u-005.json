@@ -1,0 +1,962 @@
+[
+  {
+    "id": "shan-gao-shui-di",
+    "text": "山高水低",
+    "pinyin": "shān gāo shuǐ dī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "bad-fortune",
+      "danger"
+    ],
+    "literal": "mountain · high · water · low",
+    "natural": "if the worst should happen",
+    "meaning": {
+      "en": "An unforeseen mishap, especially a fatal one; used euphemistically for someone's death or serious accident.",
+      "zh": "指意外的变故或不幸，多婉指人的死亡或遭遇不测。"
+    },
+    "equivalents": [
+      "if anything should happen",
+      "the worst (euphemistic)"
+    ],
+    "examples": [
+      {
+        "zh": "老人独自出远门，万一有个山高水低，谁来照应？",
+        "en": "If the old man travels far alone and something should happen, who will look after him?"
+      },
+      {
+        "zh": "你要是有个山高水低，我可怎么向你父母交代？",
+        "en": "If anything were to happen to you, how could I face your parents?"
+      }
+    ],
+    "usage": {
+      "en": "Almost always in the pattern 万一有个山高水低 ('if the worst should happen'); a tactful way of avoiding the word 'death'. Colloquial-literary.",
+      "zh": "多用于“万一有个山高水低”，是避讳“死”的委婉说法，带口语色彩。"
+    },
+    "synonyms": [
+      "三长两短",
+      "不测风云"
+    ],
+    "antonyms": [
+      "平安无事"
+    ]
+  },
+  {
+    "id": "miao-miao-mang-mang",
+    "text": "渺渺茫茫",
+    "pinyin": "miǎo miǎo máng máng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "complex-emotional-states",
+      "harsh-natural-conditions"
+    ],
+    "literal": "vast and faint · vast and hazy",
+    "natural": "boundless and indistinct",
+    "meaning": {
+      "en": "Vast, hazy and indistinct; also used of hopes or prospects that are remote and uncertain.",
+      "zh": "形容空旷辽远、模糊不清，也指前途、希望等渺远难以捉摸。"
+    },
+    "equivalents": [
+      "vast and hazy",
+      "remote and uncertain"
+    ],
+    "examples": [
+      {
+        "zh": "江面上雾气弥漫，远处渺渺茫茫，看不清对岸。",
+        "en": "Mist hung over the river, and the far bank was lost in a vast haze."
+      },
+      {
+        "zh": "找到失散多年的亲人，希望渺渺茫茫。",
+        "en": "The hope of finding long-lost relatives is slim and distant."
+      }
+    ],
+    "usage": {
+      "en": "Describes landscape or prospects; as a predicate or with 的. Literary; often paired with feelings of loss or uncertainty.",
+      "zh": "可作谓语或加“的”作定语，书面语，常带迷茫、失落的情调。"
+    },
+    "synonyms": [
+      "茫茫无际",
+      "渺无音信"
+    ],
+    "antonyms": [
+      "一目了然",
+      "清清楚楚"
+    ]
+  },
+  {
+    "id": "shen-miao-mo-ce",
+    "text": "神妙莫测",
+    "pinyin": "shén miào mò cè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "extraordinary-circumstances",
+      "mental-clarity"
+    ],
+    "literal": "divine · subtle · none · fathom",
+    "natural": "too marvellous to fathom",
+    "meaning": {
+      "en": "So marvellous and subtle that nobody can fathom it.",
+      "zh": "神奇微妙，使人无法揣测。"
+    },
+    "equivalents": [
+      "marvellously inscrutable",
+      "beyond all fathoming"
+    ],
+    "examples": [
+      {
+        "zh": "他的棋路神妙莫测，对手完全摸不清套路。",
+        "en": "His chess play is marvellously inscrutable; opponents cannot read his strategy."
+      },
+      {
+        "zh": "大自然的造化神妙莫测，令人叹服。",
+        "en": "The workings of nature are beyond fathoming and fill us with awe."
+      }
+    ],
+    "usage": {
+      "en": "Generally admiring; used of skill, strategy, natural wonders or events. Predicate or attributive.",
+      "zh": "多含赞叹，用于技艺、谋略、自然奇观等，可作谓语、定语。"
+    },
+    "synonyms": [
+      "变幻莫测",
+      "高深莫测"
+    ],
+    "antonyms": [
+      "一目了然",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "tian-wai-fei-lai",
+    "text": "天外飞来",
+    "pinyin": "tiān wài fēi lái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "unintended-results",
+      "extraordinary-circumstances"
+    ],
+    "literal": "sky · beyond · fly · come",
+    "natural": "flying in from beyond the sky",
+    "meaning": {
+      "en": "Coming out of nowhere; something sudden and wholly unexpected, usually a misfortune but sometimes a windfall.",
+      "zh": "从天外飞来，比喻事情来得突然，出人意料。"
+    },
+    "equivalents": [
+      "out of the blue",
+      "bolt from the blue"
+    ],
+    "examples": [
+      {
+        "zh": "这场天外飞来的横祸，让全家陷入了困境。",
+        "en": "This disaster out of the blue plunged the whole family into difficulty."
+      },
+      {
+        "zh": "一份天外飞来的订单，解了公司的燃眉之急。",
+        "en": "An order that came out of the blue relieved the company's urgent problem."
+      }
+    ],
+    "usage": {
+      "en": "Mostly attributive: 天外飞来的横祸 / 横财. Neutral in itself; the noun it modifies decides whether it is good or bad news.",
+      "zh": "多作定语，如“天外飞来的横祸/横财”。本身中性，好坏取决于所修饰的事物。"
+    },
+    "synonyms": [
+      "从天而降",
+      "突如其来"
+    ],
+    "antonyms": [
+      "意料之中",
+      "理所当然"
+    ]
+  },
+  {
+    "id": "ji-can-ke-yin",
+    "text": "饥餐渴饮",
+    "pinyin": "jī cān kě yǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "journeys-and-exploration",
+      "simple-food-and-hunger"
+    ],
+    "literal": "hungry · eat · thirsty · drink",
+    "natural": "eat when hungry, drink when thirsty",
+    "meaning": {
+      "en": "To eat when hungry and drink when thirsty; describes the plain, makeshift meals of a long journey or hard campaign.",
+      "zh": "饿了就吃，渴了就喝，多形容旅途或行军中的艰苦生活。"
+    },
+    "equivalents": [
+      "eat and drink as one goes",
+      "take meals on the road"
+    ],
+    "examples": [
+      {
+        "zh": "探险队饥餐渴饮，风餐露宿，终于走出了沙漠。",
+        "en": "Eating and drinking as they could and sleeping rough, the expedition finally crossed the desert."
+      },
+      {
+        "zh": "他饥餐渴饮，一路步行到了京城。",
+        "en": "Taking food and drink as he went, he walked all the way to the capital."
+      }
+    ],
+    "usage": {
+      "en": "Usually paired with 晓行夜宿 or 风餐露宿 to depict travel hardship. Literary, descriptive.",
+      "zh": "常与“晓行夜宿”“风餐露宿”连用，形容旅途艰辛。书面语。"
+    },
+    "synonyms": [
+      "风餐露宿",
+      "晓行夜宿"
+    ],
+    "antonyms": [
+      "锦衣玉食",
+      "养尊处优"
+    ]
+  },
+  {
+    "id": "ren-jian-tian-shang",
+    "text": "人间天上",
+    "pinyin": "rén jiān tiān shàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "unprecedented-situations",
+      "sadness-and-despair"
+    ],
+    "literal": "human world · heaven above",
+    "natural": "the human world and heaven",
+    "meaning": {
+      "en": "Heaven and earth: the human world and the heavens; also used for a vast gulf between two states, or for lovers parted for ever.",
+      "zh": "指天上和人间，也比喻差别极大或相隔永远，常用于怀人伤别。"
+    },
+    "equivalents": [
+      "heaven and earth",
+      "a world apart"
+    ],
+    "examples": [
+      {
+        "zh": "今非昔比，两种生活简直是人间天上。",
+        "en": "Things are not what they were; the two lives are worlds apart."
+      },
+      {
+        "zh": "故人远去，人间天上，再难相见。",
+        "en": "My old friend is gone; between earth and heaven we shall not meet again."
+      }
+    ],
+    "usage": {
+      "en": "Best known from Li Yu's line 流水落花春去也，天上人间 (the order 人间天上 is the same words reversed). Literary; mostly in poetic or elegiac contexts.",
+      "zh": "李煜词有“天上人间”之句。书面语，多用于诗文或感伤怀人的语境。"
+    },
+    "synonyms": [
+      "天壤之别",
+      "云泥之别"
+    ],
+    "antonyms": [
+      "不相上下"
+    ]
+  },
+  {
+    "id": "yi-pian-jiao-tu",
+    "text": "一片焦土",
+    "pinyin": "yī piàn jiāo tǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "danger",
+      "defeat-and-military-failure"
+    ],
+    "literal": "one · stretch · scorched · earth",
+    "natural": "a stretch of scorched earth",
+    "meaning": {
+      "en": "A scene of utter devastation, as after fire or bombardment: everything burnt to the ground.",
+      "zh": "形容遭战火或火灾焚毁后一切化为乌有的惨状。"
+    },
+    "equivalents": [
+      "scorched earth",
+      "a wasteland of ruins"
+    ],
+    "examples": [
+      {
+        "zh": "战争过后，这座城市成了一片焦土。",
+        "en": "After the war the city was a scorched wasteland."
+      },
+      {
+        "zh": "山火蔓延，整片森林变成了一片焦土。",
+        "en": "The wildfire spread, and the whole forest was reduced to blackened ruin."
+      }
+    ],
+    "usage": {
+      "en": "A vivid image for war, fire or disaster. Used as a predicate with 成了/变成; also figurative of total destruction.",
+      "zh": "形象地描写战争、火灾等造成的毁灭。多与“成了/变成”搭配作谓语，也可比喻彻底的破坏。"
+    },
+    "synonyms": [
+      "满目疮痍",
+      "断壁残垣"
+    ],
+    "antonyms": [
+      "欣欣向荣",
+      "完好无损"
+    ]
+  },
+  {
+    "id": "qiong-ji-wu-liao",
+    "text": "穷极无聊",
+    "pinyin": "qióng jí wú liáo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "laziness-and-giving-up",
+      "complex-emotional-states"
+    ],
+    "literal": "extremely · utmost · without · reliance",
+    "natural": "utterly bored",
+    "meaning": {
+      "en": "So bored and at a loose end that one does not know what to do with oneself.",
+      "zh": "无聊到了极点，精神上毫无寄托，不知做什么好。"
+    },
+    "equivalents": [
+      "bored out of one's mind",
+      "at a complete loose end"
+    ],
+    "examples": [
+      {
+        "zh": "假期里没人陪他，他穷极无聊，把屋子翻了个底朝天。",
+        "en": "With nobody around in the holidays he was bored to tears and turned the house upside down."
+      },
+      {
+        "zh": "穷极无聊的时候，他就去河边数石子。",
+        "en": "When he is at a complete loose end he goes to the river and counts pebbles."
+      }
+    ],
+    "usage": {
+      "en": "Psychological boredom, not poverty: 穷 here means 'to the limit' (as in 穷凶极恶), a common trap. Often followed by a rash or idle action.",
+      "zh": "此处“穷”是“极尽”之意，并非贫穷，勿误解。常引出无聊之举。"
+    },
+    "synonyms": [
+      "百无聊赖",
+      "无所事事"
+    ],
+    "antonyms": [
+      "兴致勃勃",
+      "忙忙碌碌"
+    ]
+  },
+  {
+    "id": "fen-hua-fu-liu",
+    "text": "分花拂柳",
+    "pinyin": "fēn huā fú liǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "plant-and-natural-world",
+      "journeys-and-exploration"
+    ],
+    "literal": "part · flowers · brush · willows",
+    "natural": "pushing through flowers and willows",
+    "meaning": {
+      "en": "To push through flowering shrubs and brush aside willow branches; describes strolling gracefully through a garden or the trouble of making one's way through foliage.",
+      "zh": "拨开花丛，拂过柳枝，形容在园林中穿行，也形容途中跋涉。"
+    },
+    "equivalents": [
+      "pushing through blossoms and willows",
+      "strolling through garden greenery"
+    ],
+    "examples": [
+      {
+        "zh": "她分花拂柳，沿着小径走进了园子深处。",
+        "en": "She parted the flowers, brushed aside the willows and walked deep into the garden along the path."
+      },
+      {
+        "zh": "两人分花拂柳，来到了湖边。",
+        "en": "Pushing through flowers and willows, the two reached the lakeside."
+      }
+    ],
+    "usage": {
+      "en": "Poetic imagery in classical novels and opera; used of a person walking, usually with grace. Predicate, literary.",
+      "zh": "多见于古典小说、戏曲的写景，形容人在花木间行走，姿态优雅。书面语，作谓语。"
+    },
+    "synonyms": [
+      "拨云见日"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xin-ru-tie-shi",
+    "text": "心如铁石",
+    "pinyin": "xīn rú tiě shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "negative-character-flaws"
+    ],
+    "literal": "heart · like · iron · stone",
+    "natural": "a heart of iron and stone",
+    "meaning": {
+      "en": "A heart as hard as iron and stone: either unshakeably resolute, or cold and unmoved by pity.",
+      "zh": "心像铁和石头一样坚硬，或指意志坚定不动摇，或指冷酷无情。"
+    },
+    "equivalents": [
+      "a heart of stone",
+      "unyielding of will"
+    ],
+    "examples": [
+      {
+        "zh": "面对诱惑，他心如铁石，丝毫不为所动。",
+        "en": "Facing temptation, he was iron-willed and not moved at all."
+      },
+      {
+        "zh": "她哭得那样伤心，他却心如铁石，转身就走。",
+        "en": "She wept so bitterly, but with a heart of stone he turned and left."
+      }
+    ],
+    "usage": {
+      "en": "Praise or blame depending on context: resolve (positive) or coldness (negative). Compare 铁石心肠, usually negative.",
+      "zh": "褒贬视语境而定：指意志坚定为褒，指冷酷无情为贬。比较“铁石心肠”，多为贬义。"
+    },
+    "synonyms": [
+      "铁石心肠",
+      "坚定不移"
+    ],
+    "antonyms": [
+      "心慈面软",
+      "优柔寡断"
+    ]
+  },
+  {
+    "id": "chou-chu-bu-jue",
+    "text": "踌躇不决",
+    "pinyin": "chóu chú bù jué",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "confusion-and-doubt",
+      "poor-planning-and-hasty-decisions"
+    ],
+    "literal": "hesitate · waver · not · decide",
+    "natural": "hesitating and unable to decide",
+    "meaning": {
+      "en": "To hesitate and be unable to make up one's mind.",
+      "zh": "犹豫徘徊，拿不定主意。"
+    },
+    "equivalents": [
+      "dither",
+      "be unable to make up one's mind"
+    ],
+    "examples": [
+      {
+        "zh": "面对两份工作邀请，他踌躇不决。",
+        "en": "Faced with two job offers, he could not make up his mind."
+      },
+      {
+        "zh": "踌躇不决只会错失良机。",
+        "en": "Dithering will only make you miss the chance."
+      }
+    ],
+    "usage": {
+      "en": "Pinyin: 踌躇 chóu chú (not zhù). Slightly critical; predicate. The near-synonym 犹豫不决 is more common in speech.",
+      "zh": "注意“踌躇”读 chóu chú。略带批评，作谓语。口语中“犹豫不决”更常用。"
+    },
+    "synonyms": [
+      "犹豫不决",
+      "举棋不定"
+    ],
+    "antonyms": [
+      "当机立断",
+      "毫不犹豫"
+    ]
+  },
+  {
+    "id": "wu-wei-ju-quan",
+    "text": "五味俱全",
+    "pinyin": "wǔ wèi jù quán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "complex-emotional-states",
+      "food"
+    ],
+    "literal": "five · flavours · all · complete",
+    "natural": "all five flavours present",
+    "meaning": {
+      "en": "All the flavours at once; figuratively, a jumble of mixed feelings.",
+      "zh": "各种滋味都有，比喻心中百感交集。"
+    },
+    "equivalents": [
+      "a mixture of every feeling",
+      "bittersweet and more"
+    ],
+    "examples": [
+      {
+        "zh": "听到这个消息，我心里五味俱全，说不清是喜是忧。",
+        "en": "On hearing the news I felt every emotion at once and could not say whether I was happy or worried."
+      },
+      {
+        "zh": "人生五味俱全，酸甜苦辣都要尝一尝。",
+        "en": "Life has every flavour; you must taste the sour, sweet, bitter and spicy."
+      }
+    ],
+    "usage": {
+      "en": "Usually said of one's feelings (心里五味俱全). Similar to 五味杂陈, which is the more common form and is a different wording of the same idea.",
+      "zh": "多形容内心感受（心里五味俱全）。与“五味杂陈”意思相近。"
+    },
+    "synonyms": [
+      "五味杂陈",
+      "百感交集"
+    ],
+    "antonyms": [
+      "心平气和"
+    ]
+  },
+  {
+    "id": "qu-wu-yi-ren",
+    "text": "阒无一人",
+    "pinyin": "qù wú yī rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "solitude-and-isolation"
+    ],
+    "literal": "silent · without · a · person",
+    "natural": "silent and deserted",
+    "meaning": {
+      "en": "Utterly silent and deserted, without a soul in sight.",
+      "zh": "寂静得没有一个人。"
+    },
+    "equivalents": [
+      "utterly deserted",
+      "not a soul in sight"
+    ],
+    "examples": [
+      {
+        "zh": "深夜的街道阒无一人，只有路灯亮着。",
+        "en": "The street at midnight was deserted, only the lamps burning."
+      },
+      {
+        "zh": "演出结束后，剧场里阒无一人。",
+        "en": "After the performance the theatre was empty, without a soul."
+      }
+    ],
+    "usage": {
+      "en": "Pinyin: 阒 is qù (not què). Literary, mostly in descriptive writing about quiet places.",
+      "zh": "注意“阒”读 qù。书面语，多用于描写寂静的场所。"
+    },
+    "synonyms": [
+      "万籁无声",
+      "杳无人迹"
+    ],
+    "antonyms": [
+      "人山人海",
+      "熙熙攘攘"
+    ]
+  },
+  {
+    "id": "bei-bu-zi-sheng",
+    "text": "悲不自胜",
+    "pinyin": "bēi bù zì shèng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "sadness-and-despair"
+    ],
+    "literal": "grief · cannot · oneself · bear",
+    "natural": "overcome by grief",
+    "meaning": {
+      "en": "So overcome by grief that one cannot control oneself.",
+      "zh": "悲伤得不能控制自己。"
+    },
+    "equivalents": [
+      "overcome with grief",
+      "unable to contain one's sorrow"
+    ],
+    "examples": [
+      {
+        "zh": "读到母亲留下的信，他悲不自胜，泣不成声。",
+        "en": "Reading the letter his mother left, he was overcome with grief and sobbed."
+      },
+      {
+        "zh": "全场观众听到噩耗，无不悲不自胜。",
+        "en": "On hearing the sad news everyone in the audience was overcome with sorrow."
+      }
+    ],
+    "usage": {
+      "en": "Pinyin: 胜 is shèng ('to bear'), not shēng. Formal, literary; predicate, often with 泣不成声.",
+      "zh": "“胜”读 shèng，意为“承受”。书面语，作谓语，常与“泣不成声”连用。"
+    },
+    "synonyms": [
+      "悲痛欲绝",
+      "哀哀欲绝"
+    ],
+    "antonyms": [
+      "欣喜若狂",
+      "欢天喜地"
+    ]
+  },
+  {
+    "id": "ren-huan-ma-jiao",
+    "text": "人欢马叫",
+    "pinyin": "rén huān mǎ jiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "rare-idioms",
+      "festivals-and-celebrations",
+      "joy-and-happiness"
+    ],
+    "literal": "people · cheer · horses · neigh",
+    "natural": "people cheering, horses neighing",
+    "meaning": {
+      "en": "A scene of lively bustle, with people laughing and animals noisy; a joyful, boisterous crowd.",
+      "zh": "人们欢笑，牲口嘶叫，形容热闹喧腾的情景。"
+    },
+    "equivalents": [
+      "a lively, boisterous scene",
+      "bustling with noise and cheer"
+    ],
+    "examples": [
+      {
+        "zh": "庙会上人欢马叫，热闹极了。",
+        "en": "The temple fair was boisterous and full of cheer."
+      },
+      {
+        "zh": "丰收的打谷场上人欢马叫。",
+        "en": "On the threshing ground after the harvest, people and animals made a joyful din."
+      }
+    ],
+    "usage": {
+      "en": "Originally of rural scenes with draught animals; now used in a vivid, colloquial way for any noisy happy crowd. Predicate.",
+      "zh": "原多用于农村牲口劳作的热闹场面，现泛指欢腾嘈杂的情景。口语化，作谓语。"
+    },
+    "synonyms": [
+      "热火朝天",
+      "人声鼎沸"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "死气沉沉"
+    ]
+  },
+  {
+    "id": "cen-ci-cuo-luo",
+    "text": "参差错落",
+    "pinyin": "cēn cī cuò luò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "appearance",
+      "successful-construction"
+    ],
+    "literal": "uneven · uneven · interlaced · scattered",
+    "natural": "unevenly yet pleasingly arranged",
+    "meaning": {
+      "en": "Of varying height or size and scattered at random, creating a pleasing irregular rhythm.",
+      "zh": "高低不齐、错杂分布，形成有变化的美感。"
+    },
+    "equivalents": [
+      "pleasingly uneven",
+      "staggered at varying heights"
+    ],
+    "examples": [
+      {
+        "zh": "山坡上的民居参差错落，煞是好看。",
+        "en": "The houses on the hillside, staggered at all heights, look lovely."
+      },
+      {
+        "zh": "这首诗句式参差错落，富有节奏变化。",
+        "en": "The lines of this poem vary in length and give a changing rhythm."
+      }
+    ],
+    "usage": {
+      "en": "Pinyin: 参差 is cēn cī. Descriptive, neutral to positive; used for buildings, trees, rooftops or verse. Attributive or predicate.",
+      "zh": "注意“参差”读 cēn cī。描写性，中性偏褒，用于建筑、树木、屋顶或诗句，作谓语或定语。"
+    },
+    "synonyms": [
+      "错落有致",
+      "高低不平"
+    ],
+    "antonyms": [
+      "整齐划一",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "chou-ren-guang-zhong",
+    "text": "稠人广众",
+    "pinyin": "chóu rén guǎng zhòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "public-opinion",
+      "solitude-and-isolation"
+    ],
+    "literal": "dense · people · wide · crowd",
+    "natural": "among a dense crowd",
+    "meaning": {
+      "en": "A crowded public place with many people, especially when something is done openly.",
+      "zh": "人多的公开场合。"
+    },
+    "equivalents": [
+      "in a crowd of people",
+      "in full public view"
+    ],
+    "examples": [
+      {
+        "zh": "他在稠人广众之中毫不怯场，侃侃而谈。",
+        "en": "He felt no stage fright in a big crowd and spoke with ease."
+      },
+      {
+        "zh": "稠人广众之下，请注意言行。",
+        "en": "In front of such a crowd, please watch what you say and do."
+      }
+    ],
+    "usage": {
+      "en": "Almost always as 稠人广众之中/之下 ('in public'). Pinyin: 稠 chóu. Literary; compare the more common 大庭广众.",
+      "zh": "多说“稠人广众之中/之下”，意为“公开场合”。书面语，比较更常用的“大庭广众”。"
+    },
+    "synonyms": [
+      "大庭广众",
+      "众目睽睽"
+    ],
+    "antonyms": [
+      "暗室密谈",
+      "无人之处"
+    ]
+  },
+  {
+    "id": "hu-ru-yang-qun",
+    "text": "虎入羊群",
+    "pinyin": "hǔ rù yáng qún",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "animal-behavior-metaphors",
+      "military-strategy-and-victory"
+    ],
+    "literal": "tiger · enters · sheep · flock",
+    "natural": "a tiger among sheep",
+    "meaning": {
+      "en": "Like a tiger charging into a flock of sheep: a strong party scattering or overwhelming a weak one with ease.",
+      "zh": "像老虎闯进羊群，比喻强者对弱者势不可挡，轻易取胜。"
+    },
+    "equivalents": [
+      "like a fox in a henhouse",
+      "sweeping all before it"
+    ],
+    "examples": [
+      {
+        "zh": "冠军队一上场就像虎入羊群，对手毫无还手之力。",
+        "en": "The champions went on like a tiger among sheep, and the opposition had no answer."
+      },
+      {
+        "zh": "特种部队冲入敌营，如同虎入羊群。",
+        "en": "The special forces charged into the enemy camp like a tiger into a flock of sheep."
+      }
+    ],
+    "usage": {
+      "en": "Usually in similes (如同/好似虎入羊群). Admiring of the strong side when used for a team or army; menacing when the strong side is a bully.",
+      "zh": "常用于比喻（如同/好似虎入羊群）。指强队、强军时含赞扬，指恃强凌弱者时含威胁意味。"
+    },
+    "synonyms": [
+      "势如破竹",
+      "所向披靡"
+    ],
+    "antonyms": [
+      "势均力敌",
+      "以卵击石"
+    ]
+  },
+  {
+    "id": "ke-gu-xiang-si",
+    "text": "刻骨相思",
+    "pinyin": "kè gǔ xiāng sī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "love-and-marriage",
+      "sadness-and-despair"
+    ],
+    "literal": "carved · bone · mutual · longing",
+    "natural": "longing carved into the bone",
+    "meaning": {
+      "en": "A longing for someone so deep that it feels carved into the bones.",
+      "zh": "思念之深，仿佛刻进骨头里。"
+    },
+    "equivalents": [
+      "bone-deep longing",
+      "a love-sick yearning"
+    ],
+    "examples": [
+      {
+        "zh": "异国他乡，他怀着刻骨相思，写下了一封又一封信。",
+        "en": "Far from home, he wrote letter after letter, full of deep longing."
+      },
+      {
+        "zh": "多年的刻骨相思，终于换来了重逢。",
+        "en": "Years of aching longing were at last rewarded with a reunion."
+      }
+    ],
+    "usage": {
+      "en": "Mostly about love between partners; also homesickness. Literary and emotional, often attributive.",
+      "zh": "多指恋人间的深切思念，也可指思乡。书面语，感情色彩浓，常作定语。"
+    },
+    "synonyms": [
+      "魂牵梦萦",
+      "相思入骨"
+    ],
+    "antonyms": [
+      "相忘于江湖",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "rong-yu-yi-lu",
+    "text": "熔于一炉",
+    "pinyin": "róng yú yī lú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "冶于一炉"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "innovation-and-progress",
+      "arts"
+    ],
+    "literal": "melt · in · one · furnace",
+    "natural": "melt into a single furnace",
+    "meaning": {
+      "en": "To fuse different elements, styles or schools into a single whole.",
+      "zh": "把不同的东西融合成一个整体。"
+    },
+    "equivalents": [
+      "blend into one",
+      "fuse together in a single whole"
+    ],
+    "examples": [
+      {
+        "zh": "这位作曲家把东西方音乐熔于一炉，形成了独特的风格。",
+        "en": "The composer fused Eastern and Western music into a style of his own."
+      },
+      {
+        "zh": "这座建筑把传统与现代熔于一炉。",
+        "en": "The building blends tradition and modernity into one."
+      }
+    ],
+    "usage": {
+      "en": "Positive; typical frame: 把A和B熔于一炉 (often 冶于一炉, same sense). Common in art, literature, scholarship.",
+      "zh": "褒义，常用句式“把A和B熔于一炉”（也作“冶于一炉”）。常见于艺术、文学、学术评论。"
+    },
+    "synonyms": [
+      "融会贯通",
+      "兼容并蓄"
+    ],
+    "antonyms": [
+      "泾渭分明",
+      "各自为政"
+    ]
+  },
+  {
+    "id": "wei-feng-sao-di",
+    "text": "威风扫地",
+    "pinyin": "wēi fēng sǎo dì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "complete-failure-and-obscurity",
+      "leadership-and-authority"
+    ],
+    "literal": "prestige · swept · to the ground",
+    "natural": "prestige swept away",
+    "meaning": {
+      "en": "To lose all dignity and authority; one's prestige is completely ruined.",
+      "zh": "威严和名望完全丧失。"
+    },
+    "equivalents": [
+      "lose all prestige",
+      "be humiliated"
+    ],
+    "examples": [
+      {
+        "zh": "连小孩子都敢顶撞他，他当场威风扫地。",
+        "en": "Even a child dared to answer him back, and he lost all face on the spot."
+      },
+      {
+        "zh": "这一败，让他多年建立的威风扫地。",
+        "en": "With this defeat, the prestige he had built up for years was destroyed."
+      }
+    ],
+    "usage": {
+      "en": "Used of authority figures or the formerly powerful; often used with 一败涂地 or 颜面尽失. Predicate; also as 使/让...威风扫地.",
+      "zh": "多用于有权威者或曾经得势者，作谓语，也可用“使/让……威风扫地”。"
+    },
+    "synonyms": [
+      "斯文扫地",
+      "颜面尽失"
+    ],
+    "antonyms": [
+      "威风凛凛",
+      "名声大振"
+    ]
+  }
+]

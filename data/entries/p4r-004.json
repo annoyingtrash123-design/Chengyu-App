@@ -543,7 +543,8 @@
     "themes": [
       "rare-idioms",
       "military-strategy-and-victory",
-      "good-governance"
+      "good-governance",
+      "confucian-classics"
     ],
     "literal": "benevolent · righteous · 's · army",
     "natural": "a benevolent and righteous army",
@@ -1081,6 +1082,9 @@
     "id": "qing-jing-wu-wei",
     "text": "清静无为",
     "pinyin": "qīng jìng wú wéi",
+    "variants": [
+      "清净无为"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

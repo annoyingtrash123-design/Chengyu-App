@@ -1,0 +1,148 @@
+[
+  {
+    "id": "fen-xiang-li-bai",
+    "text": "焚香礼拜",
+    "pinyin": "fén xiāng lǐ bài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "buddhist-origin",
+      "festivals-and-celebrations"
+    ],
+    "literal": "burn · incense · salute · worship",
+    "natural": "burn incense and worship",
+    "meaning": {
+      "en": "To burn incense and bow in worship before a deity or a Buddha image.",
+      "zh": "点燃香火，向神佛叩拜。"
+    },
+    "equivalents": [
+      "burn incense and worship",
+      "make offerings and bow"
+    ],
+    "examples": [
+      {
+        "zh": "信众们每逢初一都来寺里焚香礼拜。",
+        "en": "Believers come to the temple on the first of each month to burn incense and worship."
+      },
+      {
+        "zh": "她在佛像前焚香礼拜，祈求平安。",
+        "en": "She burned incense and bowed before the Buddha, praying for safety."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; religious or ritual context.",
+      "zh": "作谓语，用于宗教、祭拜场合。"
+    },
+    "synonyms": [
+      "焚香祷告",
+      "顶礼膜拜"
+    ],
+    "antonyms": [
+      "亵渎神灵",
+      "毁佛谤僧"
+    ]
+  },
+  {
+    "id": "wu-shi-wu-zhong",
+    "text": "无始无终",
+    "pinyin": "wú shǐ wú zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "buddhist-origin",
+      "daoist-classics"
+    ],
+    "literal": "no · beginning · no · end",
+    "natural": "without beginning or end",
+    "meaning": {
+      "en": "Having neither a start nor an end; eternal, as in Buddhist or Daoist descriptions of time or the cosmos.",
+      "zh": "没有开始，也没有结束，指永恒，常见于佛、道对时间和宇宙的描述。"
+    },
+    "equivalents": [
+      "without beginning or end",
+      "eternal"
+    ],
+    "examples": [
+      {
+        "zh": "宇宙无始无终，人不过是匆匆过客。",
+        "en": "The universe has no beginning or end; humans are only passing visitors."
+      },
+      {
+        "zh": "佛教认为生死轮回无始无终。",
+        "en": "Buddhism holds that the cycle of rebirth has no beginning or end."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; philosophical and religious.",
+      "zh": "作谓语、定语，哲学、宗教语境。"
+    },
+    "synonyms": [
+      "无穷无尽",
+      "永恒不变"
+    ],
+    "antonyms": [
+      "有始有终",
+      "昙花一现"
+    ]
+  },
+  {
+    "id": "fang-wai-zhi-ren",
+    "text": "方外之人",
+    "pinyin": "fāng wài zhī rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "daoist-classics",
+      "buddhist-origin"
+    ],
+    "literal": "beyond · world · of · person",
+    "natural": "one who dwells beyond the world",
+    "meaning": {
+      "en": "A person outside the secular world, i.e. a monk, Daoist, or recluse.",
+      "zh": "指超出世俗之外的人，如僧人、道士、隐士。"
+    },
+    "equivalents": [
+      "a person beyond the mundane world",
+      "a monk or recluse"
+    ],
+    "examples": [
+      {
+        "zh": "他看破红尘，成了方外之人。",
+        "en": "He saw through the world's dust and became a monk."
+      },
+      {
+        "zh": "我是方外之人，不问世事。",
+        "en": "I am one who lives beyond the world and do not concern myself with its affairs."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·大宗师》",
+      "story": {
+        "en": "Zhuangzi, Great Teacher: Confucius calls the free spirits 'those who wander beyond the bounds' (游方之外者), and himself one who wanders within them (游方之内).",
+        "zh": "《庄子·大宗师》：“彼，游方之外者也；而丘，游方之内者也。”"
+      }
+    },
+    "usage": {
+      "en": "Noun; polite or literary way of speaking of monks and Daoists, or of oneself if one is one.",
+      "zh": "名词，书面，称僧道、隐士，或僧道自称。"
+    },
+    "synonyms": [
+      "出家人",
+      "世外高人"
+    ],
+    "antonyms": [
+      "红尘中人",
+      "世俗之人"
+    ]
+  }
+]

@@ -279,11 +279,11 @@
     "id": "jie-yi-tui-shi",
     "text": "解衣推食",
     "pinyin": "jiě yī tuī shí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "推食解衣"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -979,6 +979,9 @@
     "id": "da-gong-zuo-yi",
     "text": "打躬作揖",
     "pinyin": "dǎ gōng zuō yī",
+    "variants": [
+      "打恭作揖"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
