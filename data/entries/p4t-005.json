@@ -1,0 +1,925 @@
+[
+  {
+    "id": "li-ge",
+    "text": "骊歌",
+    "pinyin": "lí gē",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "poems-prose"
+    ],
+    "literal": "black-horse · song",
+    "natural": "the farewell song",
+    "meaning": {
+      "en": "A farewell song; by extension, a farewell or graduation song.",
+      "zh": "告别的歌，指送别时唱的歌，如毕业歌。"
+    },
+    "equivalents": [
+      "a song of parting",
+      "farewell song"
+    ],
+    "examples": [
+      {
+        "zh": "毕业典礼上，骊歌响起，大家都红了眼眶。",
+        "en": "As the farewell song rang out at graduation, everyone's eyes reddened."
+      },
+      {
+        "zh": "一曲骊歌，唱出了同学们的离别之情。",
+        "en": "One farewell song sang out the classmates' sorrow of parting."
+      },
+      {
+        "zh": "骊歌声中，他踏上了远行的路。",
+        "en": "To the sound of the farewell song, he set out on his journey."
+      }
+    ],
+    "usage": {
+      "en": "Literary noun, usually in graduation writing. Often 唱起骊歌 / 骊歌声声.",
+      "zh": "书面名词，常见于毕业题材，如“唱起骊歌”“骊歌声声”。"
+    },
+    "synonyms": [
+      "阳关三叠",
+      "送别曲"
+    ],
+    "antonyms": [
+      "欢迎曲"
+    ]
+  },
+  {
+    "id": "fen-mei",
+    "text": "分袂",
+    "pinyin": "fēn mèi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "separate · sleeves",
+    "natural": "part sleeves",
+    "meaning": {
+      "en": "To part company; to say goodbye (literary).",
+      "zh": "分手、告别（书面语）。"
+    },
+    "equivalents": [
+      "part company",
+      "take one's leave"
+    ],
+    "examples": [
+      {
+        "zh": "长亭一别，从此分袂。",
+        "en": "At the pavilion we parted, and from then we went our ways."
+      },
+      {
+        "zh": "二人在渡口分袂，各奔前程。",
+        "en": "The two parted at the ferry and each went his own way."
+      },
+      {
+        "zh": "分袂多年，今日终于重逢。",
+        "en": "After many years apart we finally meet again."
+      }
+    ],
+    "usage": {
+      "en": "Very literary; used in letters and elevated prose about parting.",
+      "zh": "很书面，多见于书信和典雅文章中，指离别。"
+    },
+    "synonyms": [
+      "告别"
+    ],
+    "antonyms": [
+      "聚首",
+      "相会"
+    ]
+  },
+  {
+    "id": "yi-bie-liang-kuan",
+    "text": "一别两宽",
+    "pinyin": "yī bié liǎng kuān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "farewells",
+      "love-and-marriage"
+    ],
+    "literal": "one · parting · both · at ease",
+    "natural": "part and both be free",
+    "meaning": {
+      "en": "After parting, each can go their own way in peace.",
+      "zh": "分别之后，各自安好，互不牵挂。"
+    },
+    "equivalents": [
+      "part ways in peace",
+      "each to their own"
+    ],
+    "examples": [
+      {
+        "zh": "既然感情已尽，不如一别两宽，各自安好。",
+        "en": "Since the love is gone, let's part in peace and each be well."
+      },
+      {
+        "zh": "他们协议离婚，一别两宽。",
+        "en": "They divorced by agreement, parting in peace."
+      },
+      {
+        "zh": "一别两宽，愿你前程似锦。",
+        "en": "We part and are both free; may your future be bright."
+      }
+    ],
+    "usage": {
+      "en": "From the Tang-era 和离书 (divorce document), now popular for amicable break-ups. Formal-literary, sometimes ironic.",
+      "zh": "出自唐代“放妻书”一类文书，今多指好聚好散；书面语，有时带讽刺。"
+    },
+    "synonyms": [
+      "各奔东西",
+      "好聚好散"
+    ],
+    "antonyms": [
+      "藕断丝连",
+      "难舍难分"
+    ]
+  },
+  {
+    "id": "ge-zi-dong-xi",
+    "text": "各自东西",
+    "pinyin": "gè zì dōng xī",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "each · self · east · west",
+    "natural": "each go east or west",
+    "meaning": {
+      "en": "To go separate ways, often never to meet again.",
+      "zh": "各人去各人的方向，指分手离散。"
+    },
+    "equivalents": [
+      "go separate ways",
+      "drift apart"
+    ],
+    "examples": [
+      {
+        "zh": "毕业以后，同学们各自东西。",
+        "en": "After graduation the classmates went their separate ways."
+      },
+      {
+        "zh": "昔日好友如今各自东西，再难相见。",
+        "en": "Old friends now live far apart and can hardly meet."
+      },
+      {
+        "zh": "离婚后，两人各自东西，再无来往。",
+        "en": "After the divorce they went their own ways with no further contact."
+      }
+    ],
+    "usage": {
+      "en": "Literary; implies distance and little chance of meeting. Close to 各奔东西, which is more common.",
+      "zh": "书面语，含相隔遥远、难再相聚之意；近于更常用的“各奔东西”。"
+    },
+    "synonyms": [
+      "天各一方"
+    ],
+    "antonyms": [
+      "相聚",
+      "团圆"
+    ]
+  },
+  {
+    "id": "bao-zhong",
+    "text": "保重",
+    "pinyin": "bǎo zhòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "polite-humble"
+    ],
+    "literal": "protect · weighty",
+    "natural": "take care of yourself",
+    "meaning": {
+      "en": "A parting wish that the other person look after their health.",
+      "zh": "告别时嘱咐对方注意身体、多加小心。"
+    },
+    "equivalents": [
+      "take care",
+      "look after yourself"
+    ],
+    "examples": [
+      {
+        "zh": "天冷了，你多保重。",
+        "en": "It's getting cold; take good care of yourself."
+      },
+      {
+        "zh": "临别时，他握着我的手说：保重！",
+        "en": "At parting he gripped my hand and said, 'Take care!'"
+      },
+      {
+        "zh": "请大家多多保重，后会有期。",
+        "en": "Please take good care of yourselves, everyone; until we meet again."
+      }
+    ],
+    "usage": {
+      "en": "A set formula at farewell or in the closing of letters. Neutral, warm; used between friends or family.",
+      "zh": "告别或书信结尾的惯用语，中性而温暖，用于朋友亲人之间。"
+    },
+    "synonyms": [
+      "多多保重"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhen-zhong",
+    "text": "珍重",
+    "pinyin": "zhēn zhòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "polite-humble"
+    ],
+    "literal": "treasure · weighty",
+    "natural": "take good care",
+    "meaning": {
+      "en": "A more formal, literary farewell wish: take good care of yourself.",
+      "zh": "告别时的祝愿语，希望对方珍惜自己、多加保重（较书面）。"
+    },
+    "equivalents": [
+      "take great care",
+      "farewell, and be well"
+    ],
+    "examples": [
+      {
+        "zh": "临别珍重，愿你一路平安。",
+        "en": "At parting I say take care, and wish you a safe journey."
+      },
+      {
+        "zh": "言语不多，只说一声珍重。",
+        "en": "Few words, only 'take care'."
+      },
+      {
+        "zh": "来信结尾，他写道：天寒，望珍重。",
+        "en": "He ended his letter: It is cold, please take care."
+      }
+    ],
+    "usage": {
+      "en": "More literary and tender than 保重; common in letters and classic farewells.",
+      "zh": "比“保重”更书面、更含情，多用于书信和传统告别语。"
+    },
+    "synonyms": [
+      "多珍重"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zai-hui",
+    "text": "再会",
+    "pinyin": "zài huì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "again · meet",
+    "natural": "until we meet again",
+    "meaning": {
+      "en": "A formal goodbye meaning 'we shall meet again'.",
+      "zh": "告别用语，表示以后再见面。"
+    },
+    "equivalents": [
+      "farewell until next time",
+      "goodbye for now"
+    ],
+    "examples": [
+      {
+        "zh": "朋友们挥手说：再会！",
+        "en": "The friends waved and said, 'Until we meet again!'"
+      },
+      {
+        "zh": "明年春天，咱们再会。",
+        "en": "Let us meet again next spring."
+      },
+      {
+        "zh": "他说完一声再会，转身走了。",
+        "en": "With a final 'goodbye', he turned and left."
+      }
+    ],
+    "usage": {
+      "en": "Slightly old-fashioned, literary; used in letters and polite farewells. 再见 is the everyday word.",
+      "zh": "略显古雅，书面；用于书信和客气的告别，日常多说“再见”。"
+    },
+    "synonyms": [
+      "后会有期"
+    ],
+    "antonyms": [
+      "永别"
+    ]
+  },
+  {
+    "id": "gui-lin-shan-shui-jia-tian-xia",
+    "text": "桂林山水甲天下",
+    "pinyin": "guì lín shān shuǐ jiǎ tiān xià",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "essay-favourites"
+    ],
+    "literal": "Guilin · mountains · waters · first · under heaven",
+    "natural": "Guilin's scenery is the finest in the land",
+    "meaning": {
+      "en": "Guilin's mountains and rivers are said to be the most beautiful under heaven.",
+      "zh": "桂林的山水风光天下第一。"
+    },
+    "equivalents": [
+      "Guilin's scenery is second to none"
+    ],
+    "examples": [
+      {
+        "zh": "桂林山水甲天下，漓江的美令人难忘。",
+        "en": "Guilin's scenery is the finest anywhere; the beauty of the Li River is unforgettable."
+      },
+      {
+        "zh": "到了漓江才知道桂林山水甲天下并非虚言。",
+        "en": "Only at the Li River do you learn that the saying about Guilin is no empty boast."
+      },
+      {
+        "zh": "桂林山水甲天下，我暑假要去看看。",
+        "en": "They say Guilin has the best landscape in the world; I'm going this summer."
+      }
+    ],
+    "origin": {
+      "source": "王正功《鹿鸣宴劝驾诗》",
+      "story": {
+        "en": "Wang Zhenggong, Guilin's prefect in the Southern Song, wrote 'Guilin's mountains and rivers lead the world' in a poem urging candidates to take the exams.",
+        "zh": "南宋桂林官员王正功在劝驾赴考的诗中写道：“桂林山水甲天下，玉碧罗青意可参。”"
+      }
+    },
+    "usage": {
+      "en": "Often the tourism slogan for Guilin; 甲 means 'first'. Sometimes followed by 阳朔山水甲桂林.",
+      "zh": "常用作桂林的旅游宣传语；“甲”意为第一。后面常接“阳朔山水甲桂林”。"
+    },
+    "synonyms": [
+      "天下第一山水"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ren-jian-xian-jing",
+    "text": "人间仙境",
+    "pinyin": "rén jiān xiān jìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "essay-favourites"
+    ],
+    "literal": "human · world · immortal · realm",
+    "natural": "a fairyland on earth",
+    "meaning": {
+      "en": "A place so beautiful that it seems like heaven on earth.",
+      "zh": "美丽得像神仙居住的地方。"
+    },
+    "equivalents": [
+      "a fairyland on earth",
+      "paradise on earth"
+    ],
+    "examples": [
+      {
+        "zh": "九寨沟的秋天宛如人间仙境。",
+        "en": "Jiuzhaigou in autumn is like a fairyland on earth."
+      },
+      {
+        "zh": "雪后的西湖，真是人间仙境。",
+        "en": "The West Lake after snowfall is truly paradise on earth."
+      },
+      {
+        "zh": "这个海岛小村被称为人间仙境。",
+        "en": "This island village is called a paradise on earth."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate or object, often in travel writing; positive and slightly exaggerated.",
+      "zh": "作谓语、宾语，常见于游记；褒义，略带夸张。"
+    },
+    "synonyms": [
+      "世外桃源",
+      "人间天堂"
+    ],
+    "antonyms": [
+      "穷山恶水"
+    ]
+  },
+  {
+    "id": "wan-li-he-shan",
+    "text": "万里河山",
+    "pinyin": "wàn lǐ hé shān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "peace-and-prosperity"
+    ],
+    "literal": "ten thousand · li · rivers · mountains",
+    "natural": "ten thousand li of rivers and mountains",
+    "meaning": {
+      "en": "The vast land of the country, with its mountains and rivers.",
+      "zh": "辽阔的国土山河。"
+    },
+    "equivalents": [
+      "the vast expanse of the homeland",
+      "the whole land"
+    ],
+    "examples": [
+      {
+        "zh": "站在长城上，万里河山尽收眼底。",
+        "en": "Standing on the Great Wall, ten thousand li of mountains and rivers lay before me."
+      },
+      {
+        "zh": "他立志守护万里河山。",
+        "en": "He resolved to defend the whole vast land."
+      },
+      {
+        "zh": "诗人笔下的万里河山壮阔无边。",
+        "en": "The poet's ten thousand li of land is boundless and grand."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase with patriotic flavour; literary.",
+      "zh": "名词性短语，有爱国色彩；书面语。"
+    },
+    "synonyms": [
+      "锦绣河山",
+      "大好河山"
+    ],
+    "antonyms": [
+      "山河破碎"
+    ]
+  },
+  {
+    "id": "zhuang-li-shan-he",
+    "text": "壮丽山河",
+    "pinyin": "zhuàng lì shān hé",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "landscapes",
+      "peace-and-prosperity"
+    ],
+    "literal": "magnificent · beautiful · mountains · rivers",
+    "natural": "magnificent mountains and rivers",
+    "meaning": {
+      "en": "Grand and beautiful scenery of mountains and rivers, especially of the nation.",
+      "zh": "雄伟壮观、美丽的山河。"
+    },
+    "equivalents": [
+      "magnificent landscape",
+      "glorious mountains and rivers"
+    ],
+    "examples": [
+      {
+        "zh": "祖国的壮丽山河让人心生自豪。",
+        "en": "The magnificent landscape of the homeland fills one with pride."
+      },
+      {
+        "zh": "摄影展展示了祖国的壮丽山河。",
+        "en": "The photo exhibition showed the magnificent landscapes of the country."
+      },
+      {
+        "zh": "飞机上俯瞰壮丽山河，令人震撼。",
+        "en": "Looking down on the magnificent landscape from the plane was breathtaking."
+      }
+    ],
+    "usage": {
+      "en": "Typical in speeches and news; formal and patriotic.",
+      "zh": "常见于演讲和新闻；正式，有爱国色彩。"
+    },
+    "synonyms": [
+      "锦绣河山",
+      "大好河山"
+    ],
+    "antonyms": [
+      "满目疮痍"
+    ]
+  },
+  {
+    "id": "feng-jing-xiu-li",
+    "text": "风景秀丽",
+    "pinyin": "fēng jǐng xiù lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "essay-favourites"
+    ],
+    "literal": "scenery · scenery · beautiful · lovely",
+    "natural": "the scenery is lovely",
+    "meaning": {
+      "en": "The scenery is beautiful and delicate.",
+      "zh": "景色美丽清秀。"
+    },
+    "equivalents": [
+      "picturesque",
+      "scenic"
+    ],
+    "examples": [
+      {
+        "zh": "这个小镇风景秀丽，吸引了许多游客。",
+        "en": "The town is picturesque and draws many tourists."
+      },
+      {
+        "zh": "杭州风景秀丽，四季皆宜游览。",
+        "en": "Hangzhou is scenic and worth visiting in every season."
+      },
+      {
+        "zh": "校园依山傍水，风景秀丽。",
+        "en": "The campus lies by hills and water, with lovely scenery."
+      }
+    ],
+    "usage": {
+      "en": "A stock description in travel texts and school essays; predicate or attributive (风景秀丽的地方).",
+      "zh": "旅游文章和作文中的常用描写；作谓语或定语（风景秀丽的地方）。"
+    },
+    "synonyms": [
+      "山清水秀",
+      "风光旖旎"
+    ],
+    "antonyms": [
+      "穷山恶水"
+    ]
+  },
+  {
+    "id": "jing-se-mi-ren",
+    "text": "景色迷人",
+    "pinyin": "jǐng sè mí rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes"
+    ],
+    "literal": "scene · colour · enchant · people",
+    "natural": "enchanting scenery",
+    "meaning": {
+      "en": "The scenery is captivating.",
+      "zh": "景色美得吸引人。"
+    },
+    "equivalents": [
+      "enchanting scenery",
+      "bewitching view"
+    ],
+    "examples": [
+      {
+        "zh": "夕阳下的海边景色迷人。",
+        "en": "The seaside at sunset is enchanting."
+      },
+      {
+        "zh": "这里春天花开遍野，景色迷人。",
+        "en": "Here in spring flowers cover the fields and the view is enchanting."
+      },
+      {
+        "zh": "山顶景色迷人，大家忍不住拍照。",
+        "en": "The view from the top was so enchanting that everyone took photos."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in descriptions of places. Close to 景色宜人 (pleasant), but stronger.",
+      "zh": "作谓语，常用于描写风景。与“景色宜人”相近但语气更强。"
+    },
+    "synonyms": [
+      "美不胜收"
+    ],
+    "antonyms": [
+      "索然无味"
+    ]
+  },
+  {
+    "id": "ku-teng-lao-shu-hun-ya",
+    "text": "枯藤老树昏鸦，小桥流水人家，古道西风瘦马",
+    "pinyin": "kū téng lǎo shù hūn yā, xiǎo qiáo liú shuǐ rén jiā, gǔ dào xī fēng shòu mǎ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "solitude-and-isolation",
+      "poems-prose"
+    ],
+    "literal": "withered · vine · old · tree · dusk · crows, small · bridge · flowing · water · household, ancient · road · west · wind · thin · horse",
+    "natural": "withered vines, an old tree, crows at dusk; a small bridge, flowing water, a cottage; an ancient road, west wind, a lean horse",
+    "meaning": {
+      "en": "A famous string of images of a lonely traveller in late autumn.",
+      "zh": "一连串名景名象，勾画出深秋旅人孤独漂泊的情景。"
+    },
+    "equivalents": [
+      "the picture of a lonely autumn journey"
+    ],
+    "examples": [
+      {
+        "zh": "读到“枯藤老树昏鸦，小桥流水人家，古道西风瘦马”，仿佛看见了秋天的黄昏。",
+        "en": "Reading 'withered vines, old trees, crows at dusk...' one seems to see an autumn evening."
+      },
+      {
+        "zh": "这幅国画画的正是枯藤老树昏鸦，小桥流水人家，古道西风瘦马。",
+        "en": "This landscape painting depicts exactly withered vines, old trees and a lean horse on an ancient road."
+      },
+      {
+        "zh": "作文里他引用了“枯藤老树昏鸦，小桥流水人家，古道西风瘦马”来写秋景。",
+        "en": "In his essay he quoted this line to describe the autumn scene."
+      }
+    ],
+    "origin": {
+      "source": "马致远《天净沙·秋思》",
+      "story": {
+        "en": "The first three lines of Ma Zhiyuan's Yuan-dynasty song 'Autumn Thoughts' to the tune Tianjingsha, which ends 'the sun sets in the west; a heartbroken man is at the edge of the world'.",
+        "zh": "元代马致远《天净沙·秋思》前三句，全曲结尾为“夕阳西下，断肠人在天涯”。"
+      }
+    },
+    "usage": {
+      "en": "Quoted for lonely autumn scenes. The middle line, 小桥流水人家, is often quoted alone for peaceful villages.",
+      "zh": "常用来写深秋孤寂的景象。中间一句“小桥流水人家”常单独引用，形容宁静的水乡。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "ceng-lin-jin-ran",
+    "text": "层林尽染",
+    "pinyin": "céng lín jìn rǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "layered · woods · all · dyed",
+    "natural": "layers of woods all dyed with colour",
+    "meaning": {
+      "en": "Hills of woodland turned red and gold in autumn.",
+      "zh": "层层树林都被秋色染红染黄。"
+    },
+    "equivalents": [
+      "woods ablaze with autumn colour",
+      "forests in full autumn colour"
+    ],
+    "examples": [
+      {
+        "zh": "深秋的香山，层林尽染，游人如织。",
+        "en": "Fragrant Hills in late autumn, the woods ablaze with colour, are thronged with visitors."
+      },
+      {
+        "zh": "登上山顶，只见层林尽染，美不胜收。",
+        "en": "From the summit one sees woods dyed in autumn colours, of unsurpassed beauty."
+      },
+      {
+        "zh": "北方的十月，层林尽染，如诗如画。",
+        "en": "October in the north, with woods in full colour, is like a poem or a painting."
+      }
+    ],
+    "origin": {
+      "source": "毛泽东《沁园春·长沙》",
+      "story": {
+        "en": "The line 'Looking out on ten thousand mountains red all over, layer on layer of forests dyed' from Mao Zedong's 1925 poem.",
+        "zh": "毛泽东1925年《沁园春·长沙》：“看万山红遍，层林尽染。”"
+      }
+    },
+    "usage": {
+      "en": "Used for autumn landscapes in prose and captions; literary and vivid.",
+      "zh": "用于描写秋景，书面、形象，常见于散文和图说。"
+    },
+    "synonyms": [
+      "万山红遍",
+      "红叶满山"
+    ],
+    "antonyms": [
+      "万木萧疏"
+    ]
+  },
+  {
+    "id": "wan-shan-hong-bian",
+    "text": "万山红遍",
+    "pinyin": "wàn shān hóng biàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "ten thousand · mountains · red · everywhere",
+    "natural": "a myriad hills turned red",
+    "meaning": {
+      "en": "Mountains covered in autumn red.",
+      "zh": "漫山遍野被秋叶染红。"
+    },
+    "equivalents": [
+      "hills aglow with red leaves",
+      "mountains red all over"
+    ],
+    "examples": [
+      {
+        "zh": "秋天的香山，万山红遍，十分壮观。",
+        "en": "In autumn the Fragrant Hills are red all over, a magnificent sight."
+      },
+      {
+        "zh": "万山红遍的时节，游客络绎不绝。",
+        "en": "In the season when the hills turn red visitors come in streams."
+      },
+      {
+        "zh": "万山红遍，层林尽染，真是迷人的秋色。",
+        "en": "Hills red all over and woods dyed with colour: what charming autumn scenery."
+      }
+    ],
+    "origin": {
+      "source": "毛泽东《沁园春·长沙》",
+      "story": {
+        "en": "From 'Looking at ten thousand mountains red all over, layer on layer of woods dyed' in Mao Zedong's poem.",
+        "zh": "出自毛泽东《沁园春·长沙》：“看万山红遍，层林尽染。”"
+      }
+    },
+    "usage": {
+      "en": "Autumn-scene phrase, often paired with 层林尽染; literary.",
+      "zh": "描写秋景，常与“层林尽染”连用；书面语。"
+    },
+    "synonyms": [
+      "层林尽染",
+      "红叶满山"
+    ],
+    "antonyms": [
+      "万木凋零"
+    ]
+  },
+  {
+    "id": "bi-bo-wan-qing",
+    "text": "碧波万顷",
+    "pinyin": "bì bō wàn qǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "plant-and-natural-world"
+    ],
+    "literal": "green · waves · ten thousand · qing (100 mu)",
+    "natural": "ten thousand hectares of green waves",
+    "meaning": {
+      "en": "An immense stretch of clear blue-green water.",
+      "zh": "一望无际的碧绿水面。"
+    },
+    "equivalents": [
+      "a vast expanse of blue-green water",
+      "boundless green waves"
+    ],
+    "examples": [
+      {
+        "zh": "站在湖边，只见碧波万顷，白帆点点。",
+        "en": "Standing by the lake one sees a vast expanse of green water dotted with white sails."
+      },
+      {
+        "zh": "碧波万顷的大海让人心胸开阔。",
+        "en": "The boundless green sea broadens the mind."
+      },
+      {
+        "zh": "洞庭湖碧波万顷，浩瀚无边。",
+        "en": "Dongting Lake is a boundless stretch of green water."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; describes lakes and seas.",
+      "zh": "作定语或谓语，描写湖海。"
+    },
+    "synonyms": [
+      "波光粼粼",
+      "一碧万顷"
+    ],
+    "antonyms": [
+      "干涸见底"
+    ]
+  },
+  {
+    "id": "yun-wu-liao-rao",
+    "text": "云雾缭绕",
+    "pinyin": "yún wù liáo rào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "weather-and-sky"
+    ],
+    "literal": "cloud · mist · swirl · wind around",
+    "natural": "wreathed in cloud and mist",
+    "meaning": {
+      "en": "Cloud and mist swirling around, as around a mountain.",
+      "zh": "云和雾气环绕缭绕。"
+    },
+    "equivalents": [
+      "shrouded in mist",
+      "wreathed in clouds"
+    ],
+    "examples": [
+      {
+        "zh": "清晨，山腰云雾缭绕，宛如仙境。",
+        "en": "In the morning the mountainside was wreathed in mist, like a fairyland."
+      },
+      {
+        "zh": "云雾缭绕的茶山，出产最好的茶叶。",
+        "en": "The mist-wrapped tea hills produce the finest tea."
+      },
+      {
+        "zh": "远处的山峰云雾缭绕，若隐若现。",
+        "en": "The distant peaks are shrouded in cloud, half hidden."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate; typical of mountain scenery and tea writing.",
+      "zh": "作定语或谓语，常用于山景和茶山描写。"
+    },
+    "synonyms": [
+      "云蒸霞蔚"
+    ],
+    "antonyms": [
+      "晴空万里"
+    ]
+  },
+  {
+    "id": "yan-yu-meng-meng",
+    "text": "烟雨蒙蒙",
+    "pinyin": "yān yǔ méng méng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "weather-and-sky"
+    ],
+    "literal": "mist · rain · hazy · hazy",
+    "natural": "misty drizzle",
+    "meaning": {
+      "en": "A fine mist of drizzle that blurs the view.",
+      "zh": "细雨如烟，一片迷蒙。"
+    },
+    "equivalents": [
+      "misty rain",
+      "a haze of drizzle"
+    ],
+    "examples": [
+      {
+        "zh": "江南的春天，常常烟雨蒙蒙。",
+        "en": "Spring in the south of the Yangtze is often one of misty drizzle."
+      },
+      {
+        "zh": "烟雨蒙蒙中，小船缓缓划过湖面。",
+        "en": "In the misty drizzle, a small boat slid across the lake."
+      },
+      {
+        "zh": "今天烟雨蒙蒙，不太适合出游。",
+        "en": "It is drizzly and hazy today, not ideal for an outing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; poetic mood, melancholy or romantic.",
+      "zh": "作谓语或状语，诗意，可带忧郁或浪漫色彩。"
+    },
+    "synonyms": [
+      "绵绵细雨"
+    ],
+    "antonyms": [
+      "晴空万里"
+    ]
+  }
+]

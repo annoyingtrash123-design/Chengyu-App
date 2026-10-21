@@ -1,0 +1,873 @@
+[
+  {
+    "id": "hui-lei-er-bie",
+    "text": "挥泪而别",
+    "pinyin": "huī lèi ér bié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "sadness-and-despair"
+    ],
+    "literal": "wave · tears · and · part",
+    "natural": "part in tears",
+    "meaning": {
+      "en": "To say goodbye with tears in one's eyes.",
+      "zh": "含着眼泪告别，形容离别时十分伤感。"
+    },
+    "equivalents": [
+      "part in tears",
+      "bid a tearful farewell"
+    ],
+    "examples": [
+      {
+        "zh": "战士们挥泪而别，踏上了远行的列车。",
+        "en": "The soldiers parted in tears and boarded the long-distance train."
+      },
+      {
+        "zh": "毕业那天，同学们挥泪而别。",
+        "en": "On graduation day the classmates said a tearful goodbye."
+      },
+      {
+        "zh": "她挥泪而别，一步一回头地离开了家乡。",
+        "en": "She left her hometown in tears, looking back at every step."
+      }
+    ],
+    "usage": {
+      "en": "Used as predicate, mostly in written narrative; emotional register.",
+      "zh": "多作谓语，常见于叙事文字，感情色彩浓。"
+    },
+    "synonyms": [
+      "依依惜别",
+      "泪别"
+    ],
+    "antonyms": [
+      "欢天喜地",
+      "喜笑颜开"
+    ]
+  },
+  {
+    "id": "lin-bie-zeng-yan",
+    "text": "临别赠言",
+    "pinyin": "lín bié zèng yán",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "on the point of · parting · give · words",
+    "natural": "parting words of advice",
+    "meaning": {
+      "en": "Words of advice or encouragement given to someone who is about to leave.",
+      "zh": "分别时送给对方的勉励或忠告的话。"
+    },
+    "equivalents": [
+      "parting words",
+      "words of farewell advice"
+    ],
+    "examples": [
+      {
+        "zh": "老师的临别赠言，我一直记在心里。",
+        "en": "I have always kept my teacher's parting words in mind."
+      },
+      {
+        "zh": "毕业典礼上，校长给同学们写下临别赠言。",
+        "en": "At the graduation ceremony the headmaster wrote farewell advice for the students."
+      },
+      {
+        "zh": "他留下一句临别赠言：做人要诚实。",
+        "en": "He left one parting piece of advice: be honest."
+      }
+    ],
+    "usage": {
+      "en": "A noun phrase; often used for teachers, elders or friends leaving, or in graduation writing.",
+      "zh": "名词性短语，多用于师长、朋友分别或毕业留言。"
+    },
+    "synonyms": [
+      "临别叮咛",
+      "赠言"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "jian-xing",
+    "text": "饯行",
+    "pinyin": "jiàn xíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "polite-humble"
+    ],
+    "literal": "see off with a feast · journey",
+    "natural": "hold a send-off dinner",
+    "meaning": {
+      "en": "To give a farewell meal or party for someone who is about to leave on a journey.",
+      "zh": "设宴为将要远行的人送别。"
+    },
+    "equivalents": [
+      "hold a farewell dinner",
+      "give a send-off"
+    ],
+    "examples": [
+      {
+        "zh": "同事们设宴为他饯行，祝他一路顺风。",
+        "en": "His colleagues gave him a farewell dinner and wished him a good journey."
+      },
+      {
+        "zh": "明天我出国，今晚朋友们给我饯行。",
+        "en": "I go abroad tomorrow, so my friends are giving me a send-off tonight."
+      },
+      {
+        "zh": "临走前，村里人摆了几桌酒席为他饯行。",
+        "en": "Before he left, the villagers laid on several tables to see him off."
+      }
+    ],
+    "usage": {
+      "en": "Verb, usually 为/给 + person + 饯行; traditional courtesy, slightly formal.",
+      "zh": "动词，常说“为/给……饯行”；带有传统礼节色彩，略书面。"
+    },
+    "synonyms": [
+      "设宴送别"
+    ],
+    "antonyms": [
+      "接风",
+      "洗尘"
+    ]
+  },
+  {
+    "id": "ci-xing",
+    "text": "辞行",
+    "pinyin": "cí xíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "polite-humble"
+    ],
+    "literal": "take leave · journey",
+    "natural": "take one's leave before departing",
+    "meaning": {
+      "en": "To go and say goodbye to someone before setting off on a journey.",
+      "zh": "远行前向亲友或上级告别。"
+    },
+    "equivalents": [
+      "take one's leave",
+      "pay a farewell visit"
+    ],
+    "examples": [
+      {
+        "zh": "临行前，他去老师家辞行。",
+        "en": "Before leaving, he went to his teacher's house to say goodbye."
+      },
+      {
+        "zh": "她向公司领导辞行后，就登上了飞机。",
+        "en": "After taking leave of the company heads she boarded the plane."
+      },
+      {
+        "zh": "我明天出发，今天特地来向您辞行。",
+        "en": "I set out tomorrow and have come specially to take my leave of you."
+      }
+    ],
+    "usage": {
+      "en": "Verb; the person leaving is the one who 辞行, the hosts 饯行. Slightly formal.",
+      "zh": "动词；远行的人“辞行”，送行的人“饯行”。略书面。"
+    },
+    "synonyms": [
+      "告辞"
+    ],
+    "antonyms": [
+      "接风",
+      "迎接"
+    ]
+  },
+  {
+    "id": "song-jun-qian-li-zhong-xu-yi-bie",
+    "text": "送君千里，终须一别",
+    "pinyin": "sòng jūn qiān lǐ, zhōng xū yī bié",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "complex-emotional-states"
+    ],
+    "literal": "see off · you · a thousand · li, in the end · must · one · parting",
+    "natural": "however far you see me off, we must part in the end",
+    "meaning": {
+      "en": "However far you accompany someone, in the end you still have to say goodbye.",
+      "zh": "无论送多远，最终还是要分别。"
+    },
+    "equivalents": [
+      "all good things must come to an end",
+      "there is no use prolonging a goodbye"
+    ],
+    "examples": [
+      {
+        "zh": "送君千里，终须一别，你们回去吧。",
+        "en": "However far you see me off we must part in the end; please turn back now."
+      },
+      {
+        "zh": "送君千里，终须一别，他挥挥手，转身上了车。",
+        "en": "'Parting is inevitable, however far you go,' he said, waved and got on the bus."
+      },
+      {
+        "zh": "送君千里，终须一别，不如就在这里道别吧。",
+        "en": "We have to part sooner or later, so let's say goodbye here."
+      }
+    ],
+    "usage": {
+      "en": "Said by the host to end a long see-off, or by the leaver to ask others to turn back. Gentle, a little wistful.",
+      "zh": "送行者或远行者用来结束送别，劝对方留步；语气温和，略带感伤。"
+    },
+    "synonyms": [
+      "天下没有不散的筵席",
+      "人生自古伤离别"
+    ],
+    "antonyms": [
+      "长相厮守",
+      "形影不离"
+    ]
+  },
+  {
+    "id": "xiang-jian-shi-nan-bie-yi-nan",
+    "text": "相见时难别亦难",
+    "pinyin": "xiāng jiàn shí nán bié yì nán",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "love-and-marriage",
+      "poems-prose",
+      "essay-favourites"
+    ],
+    "literal": "meet · time · hard · part · also · hard",
+    "natural": "it is hard to meet and just as hard to part",
+    "meaning": {
+      "en": "It is hard to meet, and parting is no easier.",
+      "zh": "相聚不易，分别时也难舍难分。"
+    },
+    "equivalents": [
+      "hard to meet, harder to part"
+    ],
+    "examples": [
+      {
+        "zh": "相见时难别亦难，他握着朋友的手，迟迟不愿松开。",
+        "en": "'Meeting is hard and parting no easier'; he held his friend's hand and would not let go."
+      },
+      {
+        "zh": "车站里人们依依不舍，真是相见时难别亦难。",
+        "en": "At the station everyone lingered; truly it is hard to meet and hard to part."
+      },
+      {
+        "zh": "异地恋的人最懂什么叫相见时难别亦难。",
+        "en": "Those in long-distance relationships know best that it is hard to meet and hard to part."
+      }
+    ],
+    "origin": {
+      "source": "李商隐《无题》",
+      "story": {
+        "en": "The opening line of Li Shangyin's poem 'Untitled': 'Meeting is hard and parting is hard too; the east wind is feeble, a hundred flowers wither', about lingering love and the pain of parting.",
+        "zh": "李商隐《无题》首句：“相见时难别亦难，东风无力百花残。”写爱情中相聚不易、别离难舍的伤感。"
+      }
+    },
+    "usage": {
+      "en": "Quoted for lovers, relatives or friends who rarely meet; literary, common in essays and captions.",
+      "zh": "多用于恋人、亲友难得相聚又难舍分离的场合；书面语，常见于作文、文案。"
+    },
+    "synonyms": [
+      "依依不舍",
+      "难舍难分"
+    ],
+    "antonyms": [
+      "一别两宽"
+    ]
+  },
+  {
+    "id": "qing-shan-bu-gai-lu-shui-chang-liu",
+    "text": "青山不改，绿水长流",
+    "pinyin": "qīng shān bù gǎi, lǜ shuǐ cháng liú",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "comebacks-and-renewal"
+    ],
+    "literal": "green · mountains · not · change, green · waters · long · flow",
+    "natural": "the green hills do not change and the water flows on",
+    "meaning": {
+      "en": "Said at parting or in hard times: some day we will meet again, so let us keep going.",
+      "zh": "青山永远不变，绿水长流不断；多用来在分别或逆境时表示后会有期、来日方长。"
+    },
+    "equivalents": [
+      "we'll meet again some day",
+      "the hills remain, the rivers flow on"
+    ],
+    "examples": [
+      {
+        "zh": "青山不改，绿水长流，咱们后会有期！",
+        "en": "The hills stay green and the rivers flow; we will meet again!"
+      },
+      {
+        "zh": "这次输了不要紧，青山不改，绿水长流，下次再来。",
+        "en": "It doesn't matter that we lost; there will be another time."
+      },
+      {
+        "zh": "青山不改，绿水长流，各位保重，告辞了。",
+        "en": "The mountains stand and the waters flow; take care, everyone, and farewell."
+      }
+    ],
+    "usage": {
+      "en": "A parting formula, especially in martial-arts and historical fiction; also used to show confidence after a setback. Often followed by 后会有期.",
+      "zh": "常用于告别，尤其在武侠、历史小说中；也用于表示遭遇挫折后不气馁。后面常接“后会有期”。"
+    },
+    "synonyms": [
+      "后会有期",
+      "来日方长"
+    ],
+    "antonyms": [
+      "一去不返"
+    ]
+  },
+  {
+    "id": "shan-shui-you-xiang-feng",
+    "text": "山水有相逢",
+    "pinyin": "shān shuǐ yǒu xiāng féng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "mountains · waters · have · meeting",
+    "natural": "hills and rivers do meet",
+    "meaning": {
+      "en": "Even people who part will meet again someday.",
+      "zh": "山水尚有汇合之时，比喻分别的人总会有再见面的时候。"
+    },
+    "equivalents": [
+      "we'll meet again",
+      "paths will cross again"
+    ],
+    "examples": [
+      {
+        "zh": "今天一别，山水有相逢，我们后会有期。",
+        "en": "We part today, but hills and rivers do meet; until we meet again."
+      },
+      {
+        "zh": "山水有相逢，别难过，我们很快就能再见。",
+        "en": "Don't be sad, we will see each other again soon."
+      },
+      {
+        "zh": "山水有相逢，希望下次见面时你已功成名就。",
+        "en": "Paths will cross again; I hope you will be a success by then."
+      }
+    ],
+    "usage": {
+      "en": "Parting formula, often paired with 后会有期 or 青山不改，绿水长流. Casual or neutral.",
+      "zh": "告别用语，常与“后会有期”或“青山不改，绿水长流”连用。口语或一般语体。"
+    },
+    "synonyms": [
+      "后会有期",
+      "人生何处不相逢"
+    ],
+    "antonyms": [
+      "一别两宽",
+      "永别"
+    ]
+  },
+  {
+    "id": "yang-guan-san-die",
+    "text": "阳关三叠",
+    "pinyin": "yáng guān sān dié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "poems-prose"
+    ],
+    "literal": "Yangguan · three · repeats",
+    "natural": "the Yangguan Song in three refrains",
+    "meaning": {
+      "en": "The famous farewell song set to Wang Wei's poem about Yangguan Pass, sung with three repeats; a symbol of parting.",
+      "zh": "古代送别名曲，据王维《送元二使安西》谱成，反复吟唱三遍，后用来指离别之歌。"
+    },
+    "equivalents": [
+      "the song of farewell",
+      "a classic parting song"
+    ],
+    "examples": [
+      {
+        "zh": "古琴曲《阳关三叠》，唱尽了送别的深情。",
+        "en": "The guqin piece 'Yangguan Sandie' sings the full feeling of parting."
+      },
+      {
+        "zh": "他在毕业晚会上弹起《阳关三叠》。",
+        "en": "At the graduation party he played 'Yangguan Sandie'."
+      },
+      {
+        "zh": "一曲阳关三叠，听得满座皆泣。",
+        "en": "One rendition of Yangguan Sandie brought the whole room to tears."
+      }
+    ],
+    "origin": {
+      "source": "王维《送元二使安西》",
+      "story": {
+        "en": "Wang Wei's quatrain 'Seeing Yuan Er Off to Anxi' ('Weicheng morning rain...') was set to music as the Yangguan Song, whose melody repeats three times.",
+        "zh": "王维《送元二使安西》（“渭城朝雨浥轻尘”）被谱成《阳关曲》，旋律反复三叠，故称“阳关三叠”。"
+      }
+    },
+    "usage": {
+      "en": "Mostly a title of the guqin tune; used figuratively for a farewell song or scene. Literary.",
+      "zh": "多指古琴曲名，借指送别的歌曲或场面。书面语。"
+    },
+    "synonyms": [
+      "渭城曲",
+      "骊歌"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-bu-san-hui-tou",
+    "text": "一步三回头",
+    "pinyin": "yī bù sān huí tóu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "farewells",
+      "complex-emotional-states"
+    ],
+    "literal": "one · step · three · turn · head",
+    "natural": "three looks back at every step",
+    "meaning": {
+      "en": "To leave very reluctantly, looking back again and again.",
+      "zh": "每走一步都要回头看几次，形容舍不得离开。"
+    },
+    "equivalents": [
+      "look back at every step",
+      "leave with lingering looks"
+    ],
+    "examples": [
+      {
+        "zh": "孩子上学时一步三回头，舍不得离开妈妈。",
+        "en": "The child looked back at every step on the way to school, reluctant to leave his mother."
+      },
+      {
+        "zh": "他一步三回头地走出了村口。",
+        "en": "He walked out of the village looking back at every step."
+      },
+      {
+        "zh": "看着一步三回头的女儿，她心都碎了。",
+        "en": "Watching her daughter look back at every step, her heart broke."
+      }
+    ],
+    "usage": {
+      "en": "Describes reluctant leaving; casual, vivid, can also describe hesitating before something unwelcome.",
+      "zh": "形容依依不舍的离去；口语，形象，也可形容对不愿做的事犹豫不决。"
+    },
+    "synonyms": [
+      "依依不舍",
+      "恋恋不舍"
+    ],
+    "antonyms": [
+      "头也不回",
+      "毅然决然"
+    ]
+  },
+  {
+    "id": "pin-pin-hui-shou",
+    "text": "频频回首",
+    "pinyin": "pín pín huí shǒu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "sadness-and-despair"
+    ],
+    "literal": "repeatedly · repeatedly · turn · head",
+    "natural": "keep looking back",
+    "meaning": {
+      "en": "To turn and look back again and again while leaving.",
+      "zh": "离开时一次又一次回头张望，表示留恋。"
+    },
+    "equivalents": [
+      "keep glancing back",
+      "look back again and again"
+    ],
+    "examples": [
+      {
+        "zh": "列车缓缓开动，她频频回首，直到看不见站台。",
+        "en": "As the train slowly pulled out she kept looking back until the platform was out of sight."
+      },
+      {
+        "zh": "他频频回首，望着渐渐远去的故乡。",
+        "en": "He kept looking back at his receding hometown."
+      },
+      {
+        "zh": "游客们频频回首，不舍得离开这片美景。",
+        "en": "The tourists kept looking back, unwilling to leave the beautiful scene."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary, often paired with 频频挥手. Also used for looking back on the past.",
+      "zh": "作谓语，书面色彩，常与“频频挥手”连用；也可指回顾往事。"
+    },
+    "synonyms": [
+      "回首张望",
+      "一步三回头"
+    ],
+    "antonyms": [
+      "头也不回"
+    ]
+  },
+  {
+    "id": "pin-pin-hui-shou-2",
+    "text": "频频挥手",
+    "pinyin": "pín pín huī shǒu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "repeatedly · repeatedly · wave · hand",
+    "natural": "wave again and again",
+    "meaning": {
+      "en": "To wave over and over again, usually to say goodbye or greet.",
+      "zh": "一次又一次地挥手，多用于告别或致意。"
+    },
+    "equivalents": [
+      "wave repeatedly",
+      "keep waving goodbye"
+    ],
+    "examples": [
+      {
+        "zh": "车开了，他还在窗口频频挥手。",
+        "en": "The bus pulled away and he was still waving from the window."
+      },
+      {
+        "zh": "运动员向观众频频挥手致意。",
+        "en": "The athletes waved repeatedly to the crowd."
+      },
+      {
+        "zh": "孩子们站在路边频频挥手，欢送远行的老师。",
+        "en": "The children stood by the road waving again and again to send off their teacher."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral, common in news and narrative.",
+      "zh": "作谓语，中性，常见于新闻和叙事。"
+    },
+    "synonyms": [
+      "挥手告别",
+      "挥手致意"
+    ],
+    "antonyms": [
+      "视而不见"
+    ]
+  },
+  {
+    "id": "mu-song",
+    "text": "目送",
+    "pinyin": "mù sòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "friendship"
+    ],
+    "literal": "eye · send off",
+    "natural": "watch someone go",
+    "meaning": {
+      "en": "To follow a departing person with one's eyes until they are out of sight.",
+      "zh": "用目光送别，一直看着对方离去。"
+    },
+    "equivalents": [
+      "watch someone out of sight",
+      "see off with one's eyes"
+    ],
+    "examples": [
+      {
+        "zh": "他站在门口，目送儿子远去。",
+        "en": "He stood in the doorway and watched his son go."
+      },
+      {
+        "zh": "我们目送列车消失在远方。",
+        "en": "We watched the train vanish into the distance."
+      },
+      {
+        "zh": "她目送着父亲的背影，久久没有离开。",
+        "en": "She watched her father's retreating figure and stayed long where she stood."
+      }
+    ],
+    "usage": {
+      "en": "Transitive verb: 目送 + person; literary and tender. Often the quiet gesture of parents and friends.",
+      "zh": "及物动词，“目送”+人；书面、深情，常指亲人朋友无声的送别。"
+    },
+    "synonyms": [
+      "注目送别"
+    ],
+    "antonyms": [
+      "迎接"
+    ]
+  },
+  {
+    "id": "yong-bie",
+    "text": "永别",
+    "pinyin": "yǒng bié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "sadness-and-despair"
+    ],
+    "literal": "forever · part",
+    "natural": "part forever",
+    "meaning": {
+      "en": "A final parting, with no hope of meeting again; often a euphemism for death.",
+      "zh": "永远分别，不再相见，常指死别。"
+    },
+    "equivalents": [
+      "part forever",
+      "say a last goodbye"
+    ],
+    "examples": [
+      {
+        "zh": "那一次车站送别，竟成了永别。",
+        "en": "That farewell at the station turned out to be a final one."
+      },
+      {
+        "zh": "与亲人永别，他悲痛万分。",
+        "en": "He was heartbroken at parting forever from his family."
+      },
+      {
+        "zh": "她没想到电话里的道别竟是永别。",
+        "en": "She never imagined that goodbye on the phone would be the last."
+      }
+    ],
+    "usage": {
+      "en": "Verb or noun; solemn. Can be used of death or of a permanent separation.",
+      "zh": "动词或名词；语气沉重，可指死别或再不相见的分离。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "重逢",
+      "久别重逢"
+    ]
+  },
+  {
+    "id": "jue-bie",
+    "text": "诀别",
+    "pinyin": "jué bié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "farewells",
+      "sadness-and-despair"
+    ],
+    "literal": "take final leave · part",
+    "natural": "bid a final farewell",
+    "meaning": {
+      "en": "To part for the last time, especially knowing that one may never meet again.",
+      "zh": "分别后很难或不再相见的告别，多指死别。"
+    },
+    "equivalents": [
+      "bid a final farewell",
+      "part for the last time"
+    ],
+    "examples": [
+      {
+        "zh": "临终前，他与亲人一一诀别。",
+        "en": "Before he died he bade each of his family a final farewell."
+      },
+      {
+        "zh": "烈士写下诀别书，奔赴战场。",
+        "en": "The martyr wrote a farewell letter and went off to the battlefield."
+      },
+      {
+        "zh": "两人在码头诀别，谁也没有再回头。",
+        "en": "The two parted for good on the quay, and neither looked back."
+      }
+    ],
+    "usage": {
+      "en": "Heavier than 告别; formal, tragic. Often 诀别书 (a last letter).",
+      "zh": "比“告别”分量更重；书面、悲壮，常见“诀别书”。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "重逢",
+      "相会"
+    ]
+  },
+  {
+    "id": "yi-bie-jing-nian",
+    "text": "一别经年",
+    "pinyin": "yī bié jīng nián",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "farewells",
+      "fleeting-time"
+    ],
+    "literal": "one · parting · pass · years",
+    "natural": "a parting of years",
+    "meaning": {
+      "en": "After parting, years have passed.",
+      "zh": "分别之后已过去多年。"
+    },
+    "equivalents": [
+      "years have passed since we parted",
+      "a long separation"
+    ],
+    "examples": [
+      {
+        "zh": "一别经年，故人风采依旧。",
+        "en": "Years have passed since we parted, and my old friend looks just the same."
+      },
+      {
+        "zh": "一别经年，没想到我们会在这里重逢。",
+        "en": "After years apart, I never thought we would meet again here."
+      },
+      {
+        "zh": "一别经年，他的头发已经花白。",
+        "en": "Years after we parted, his hair has gone grey."
+      }
+    ],
+    "usage": {
+      "en": "Literary opening for letters or reunion scenes.",
+      "zh": "书面语，常作书信或重逢场景的开头。"
+    },
+    "synonyms": [
+      "别来无恙",
+      "久别重逢"
+    ],
+    "antonyms": [
+      "朝夕相处"
+    ]
+  },
+  {
+    "id": "bie-hou-chong-feng",
+    "text": "别后重逢",
+    "pinyin": "bié hòu chóng féng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "joy-and-happiness"
+    ],
+    "literal": "part · after · again · meet",
+    "natural": "meet again after parting",
+    "meaning": {
+      "en": "To meet again after a period of separation.",
+      "zh": "分别以后再次相见。"
+    },
+    "equivalents": [
+      "reunion after parting",
+      "meet again after being apart"
+    ],
+    "examples": [
+      {
+        "zh": "别后重逢，大家都有说不完的话。",
+        "en": "Meeting again after our parting, we all had endless things to say."
+      },
+      {
+        "zh": "老同学别后重逢，激动得热泪盈眶。",
+        "en": "The old classmates were moved to tears on meeting again."
+      },
+      {
+        "zh": "别后重逢，他们都已两鬓斑白。",
+        "en": "When they met again after parting, both had greying temples."
+      }
+    ],
+    "usage": {
+      "en": "Similar to 久别重逢 but stresses the parting before the reunion; neutral to literary.",
+      "zh": "与“久别重逢”相近，更强调先有分别再相见；中性偏书面。"
+    },
+    "synonyms": [
+      "久别重逢",
+      "破镜重圆"
+    ],
+    "antonyms": [
+      "永别",
+      "一别两宽"
+    ]
+  },
+  {
+    "id": "xiao-bie-sheng-xin-hun",
+    "text": "小别胜新婚",
+    "pinyin": "xiǎo bié shèng xīn hūn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "farewells",
+      "love-and-marriage"
+    ],
+    "literal": "small · parting · surpass · newly · married",
+    "natural": "a short parting beats the honeymoon",
+    "meaning": {
+      "en": "A short separation makes a couple's reunion as sweet as being newly wed.",
+      "zh": "夫妻短暂分别后重聚，感情比新婚时还要甜蜜。"
+    },
+    "equivalents": [
+      "absence makes the heart grow fonder"
+    ],
+    "examples": [
+      {
+        "zh": "他出差一周回来，夫妻俩小别胜新婚。",
+        "en": "He came back after a week away, and the couple was as happy as newly-weds."
+      },
+      {
+        "zh": "人们常说小别胜新婚，适当的距离有助于感情。",
+        "en": "People say a short parting beats a honeymoon; a little distance helps a marriage."
+      },
+      {
+        "zh": "她笑着说：小别胜新婚，我都想你了。",
+        "en": "She said with a smile: a short parting is better than a honeymoon, I've missed you."
+      }
+    ],
+    "usage": {
+      "en": "Light-hearted, mostly about couples; humorous in tone.",
+      "zh": "语气轻松，多指夫妻，带幽默色彩。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "相敬如冰"
+    ]
+  }
+]

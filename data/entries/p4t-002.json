@@ -1,0 +1,821 @@
+[
+  {
+    "id": "hun-gui-gu-li",
+    "text": "魂归故里",
+    "pinyin": "hún guī gù lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "poems-prose"
+    ],
+    "literal": "soul · return · old · village",
+    "natural": "the soul returns to its native place",
+    "meaning": {
+      "en": "To be buried, or to return in spirit, in one's hometown after death.",
+      "zh": "指人死后灵魂或遗骨回到故乡。"
+    },
+    "equivalents": [
+      "rest in one's home soil",
+      "return to one's roots in death"
+    ],
+    "examples": [
+      {
+        "zh": "老华侨最大的心愿是魂归故里。",
+        "en": "The old overseas Chinese wished above all to rest in his native soil."
+      },
+      {
+        "zh": "烈士的遗骨终于魂归故里。",
+        "en": "The martyr's remains finally came home."
+      },
+      {
+        "zh": "他在遗嘱中写道，希望魂归故里。",
+        "en": "In his will he wrote that he hoped to be laid to rest at home."
+      }
+    ],
+    "usage": {
+      "en": "Solemn; used for the dead. Do not use for a living person's return (use 荣归故里 or 回乡).",
+      "zh": "庄重，用于逝者；生者回乡不用此词（用“荣归故里”或“回乡”）。"
+    },
+    "synonyms": [
+      "落叶归根"
+    ],
+    "antonyms": [
+      "客死他乡"
+    ]
+  },
+  {
+    "id": "gui-xiang",
+    "text": "归乡",
+    "pinyin": "guī xiāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "journeys-and-exploration"
+    ],
+    "literal": "return · hometown",
+    "natural": "return to one's hometown",
+    "meaning": {
+      "en": "To go back to one's hometown.",
+      "zh": "回到家乡。"
+    },
+    "equivalents": [
+      "go back home",
+      "return to one's home town"
+    ],
+    "examples": [
+      {
+        "zh": "春运时，成千上万的人踏上归乡之路。",
+        "en": "During the Spring Festival rush, millions set out on the journey home."
+      },
+      {
+        "zh": "他辞去工作归乡创业。",
+        "en": "He quit his job and returned home to start a business."
+      },
+      {
+        "zh": "归乡的火车上，大家都很兴奋。",
+        "en": "Everyone on the train home was excited."
+      }
+    ],
+    "usage": {
+      "en": "Verb or modifier (归乡路). More literary than 回家; used about a longer return.",
+      "zh": "可作动词或修饰语（归乡路），比“回家”更书面，多指较长时间后回乡。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "背井离乡"
+    ]
+  },
+  {
+    "id": "xiang-qing",
+    "text": "乡情",
+    "pinyin": "xiāng qíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "family-and-home"
+    ],
+    "literal": "hometown · feeling",
+    "natural": "affection for one's native place",
+    "meaning": {
+      "en": "Warm feeling for one's hometown and its people.",
+      "zh": "对家乡和乡亲的深厚感情。"
+    },
+    "equivalents": [
+      "hometown ties",
+      "love of one's native place"
+    ],
+    "examples": [
+      {
+        "zh": "一首方言歌，唤起了浓浓的乡情。",
+        "en": "A song in dialect stirred up deep feelings for home."
+      },
+      {
+        "zh": "他回乡捐款，是出于对故土的乡情。",
+        "en": "He donated to his home village out of attachment to it."
+      },
+      {
+        "zh": "这个节目以乡情为主题。",
+        "en": "The programme has hometown affection as its theme."
+      }
+    ],
+    "usage": {
+      "en": "Noun; warm. Often paired with 乡音 and 乡亲. Don't confuse with 近乡情怯 (nervous on nearing home).",
+      "zh": "名词，温暖，常与“乡音”“乡亲”连用。注意与“近乡情怯”区别。"
+    },
+    "synonyms": [
+      "故土情"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhi-yin",
+    "text": "知音",
+    "pinyin": "zhī yīn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "stories"
+    ],
+    "literal": "know · tune",
+    "natural": "one who understands one's music",
+    "meaning": {
+      "en": "A close friend who truly understands you, as a listener understands the music.",
+      "zh": "懂得自己心意、志趣的挚友。"
+    },
+    "equivalents": [
+      "kindred spirit",
+      "soulmate (in friendship)",
+      "someone who really gets you"
+    ],
+    "examples": [
+      {
+        "zh": "他们志趣相投，是难得的知音。",
+        "en": "They share the same interests and are rare kindred spirits."
+      },
+      {
+        "zh": "读这本书，我觉得作者像是我的知音。",
+        "en": "Reading this book, I felt the author understood me."
+      },
+      {
+        "zh": "人生难得一知音。",
+        "en": "In life a true confidant is hard to find."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·本味》",
+      "story": {
+        "en": "Bo Ya played with his mind on high mountains or flowing water and Zhong Ziqi named each correctly; when Ziqi died, Bo Ya broke his zither since no one else understood.",
+        "zh": "伯牙鼓琴，志在高山、流水，钟子期皆能听出；子期死后，伯牙破琴绝弦，终身不复鼓琴。"
+      }
+    },
+    "usage": {
+      "en": "From the story of Bo Ya and Zhong Ziqi (see 伯牙绝弦, 高山流水): Zhong Ziqi alone understood Bo Ya's zither. Not romantic.",
+      "zh": "典出伯牙与钟子期（见“伯牙绝弦”“高山流水”）：唯有钟子期听懂伯牙的琴声。不含爱情意味。"
+    },
+    "synonyms": [
+      "知心朋友",
+      "红颜知己"
+    ],
+    "antonyms": [
+      "泛泛之交",
+      "陌路人"
+    ]
+  },
+  {
+    "id": "zhi-ji",
+    "text": "知己",
+    "pinyin": "zhī jǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "positive-character-qualities"
+    ],
+    "literal": "know · oneself",
+    "natural": "a friend who knows you well",
+    "meaning": {
+      "en": "An intimate friend who knows one's heart; or, as an adjective, intimate.",
+      "zh": "彼此了解、情谊深厚的朋友。"
+    },
+    "equivalents": [
+      "close confidant",
+      "bosom friend"
+    ],
+    "examples": [
+      {
+        "zh": "她是我无话不谈的知己。",
+        "en": "She is my confidante, and we talk about everything."
+      },
+      {
+        "zh": "得一知己，死而无憾。",
+        "en": "Having found one true friend, one could die content."
+      },
+      {
+        "zh": "他们是多年的知己好友。",
+        "en": "They have been close friends for years."
+      }
+    ],
+    "usage": {
+      "en": "Noun or modifier (知己好友). Note 知己 in 知己知彼 means 'knowing oneself'.",
+      "zh": "名词或定语（知己好友）。“知己知彼”里的“知己”意思是了解自己，不同。"
+    },
+    "synonyms": [
+      "挚友",
+      "至交"
+    ],
+    "antonyms": [
+      "泛泛之交",
+      "酒肉朋友"
+    ]
+  },
+  {
+    "id": "bo-ya-zi-qi",
+    "text": "伯牙子期",
+    "pinyin": "bó yá zǐ qī",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "stories",
+      "daoist-classics"
+    ],
+    "literal": "Bo Ya · Ziqi",
+    "natural": "Bo Ya and Zhong Ziqi",
+    "meaning": {
+      "en": "Shorthand for the ideal of friendship between two people who understand each other perfectly.",
+      "zh": "指彼此心意相通的知音之交。"
+    },
+    "equivalents": [
+      "a true meeting of minds",
+      "kindred spirits"
+    ],
+    "examples": [
+      {
+        "zh": "他们的友情堪比伯牙子期。",
+        "en": "Their friendship rivals that of Bo Ya and Zhong Ziqi."
+      },
+      {
+        "zh": "伯牙子期的故事流传了两千多年。",
+        "en": "The tale of Bo Ya and Zhong Ziqi has circulated for over two thousand years."
+      },
+      {
+        "zh": "世上伯牙子期式的友情，可遇而不可求。",
+        "en": "A friendship like Bo Ya and Zhong Ziqi's is rare to find."
+      }
+    ],
+    "origin": {
+      "source": "《吕氏春秋·本味》；《列子·汤问》",
+      "story": {
+        "en": "Bo Ya's zither music evoked mountains and rivers; only Zhong Ziqi grasped it, and Bo Ya never played again after his friend's death.",
+        "zh": "伯牙鼓琴，志在高山流水，唯钟子期能懂；子期死，伯牙绝弦。"
+      }
+    },
+    "usage": {
+      "en": "A story allusion. Bo Ya was a master zither player in the Spring and Autumn period; Zhong Ziqi, a woodcutter, was the only one who understood his playing. See also 伯牙绝弦.",
+      "zh": "故事典故。伯牙是春秋时的琴师，樵夫钟子期是唯一听懂他琴声的人。参见“伯牙绝弦”。"
+    },
+    "synonyms": [
+      "知音",
+      "高山流水",
+      "管鲍之交"
+    ],
+    "antonyms": [
+      "泛泛之交"
+    ]
+  },
+  {
+    "id": "zhu-ma-zhi-jiao",
+    "text": "竹马之交",
+    "pinyin": "zhú mǎ zhī jiāo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "parenting-and-family"
+    ],
+    "literal": "bamboo · horse · of · friendship",
+    "natural": "friends since riding bamboo horses together",
+    "meaning": {
+      "en": "A friendship dating back to childhood.",
+      "zh": "从小一起玩耍长大的朋友情谊。"
+    },
+    "equivalents": [
+      "childhood friendship",
+      "friends since the cradle"
+    ],
+    "examples": [
+      {
+        "zh": "我们是竹马之交，从幼儿园就认识。",
+        "en": "We have been friends since we were kids, from kindergarten."
+      },
+      {
+        "zh": "他和老板是竹马之交，说话很随便。",
+        "en": "He and the boss go back to childhood, so he speaks freely."
+      },
+      {
+        "zh": "竹马之交的情分，一辈子都忘不了。",
+        "en": "The bond of a childhood friend is never forgotten."
+      }
+    ],
+    "usage": {
+      "en": "竹马 = a stick used as a toy horse; from the Li Bai line 郎骑竹马来. Related to 青梅竹马 (which usually implies a boy and a girl) and 总角之交.",
+      "zh": "竹马指孩童骑的竹竿玩具，出自李白诗“郎骑竹马来”。与“青梅竹马”（多指一男一女）、“总角之交”相近。"
+    },
+    "synonyms": [
+      "总角之交",
+      "青梅竹马",
+      "发小"
+    ],
+    "antonyms": [
+      "萍水相逢",
+      "新交"
+    ]
+  },
+  {
+    "id": "che-li-zhi-meng",
+    "text": "车笠之盟",
+    "pinyin": "chē lì zhī méng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "stories"
+    ],
+    "literal": "carriage · bamboo hat · of · oath",
+    "natural": "the oath of the carriage and the straw hat",
+    "meaning": {
+      "en": "A pledge of lasting friendship that ignores differences in rank and wealth.",
+      "zh": "不因贫富贵贱而改变的深厚友情誓约。"
+    },
+    "equivalents": [
+      "a pledge of friendship across class",
+      "friends through rich and poor"
+    ],
+    "examples": [
+      {
+        "zh": "两人虽身份悬殊，却立下车笠之盟。",
+        "en": "Though unequal in rank, the two swore an unbreakable friendship."
+      },
+      {
+        "zh": "车笠之盟，不以贵贱相忘。",
+        "en": "Bound by the oath of carriage and hat, they would never forget each other whatever their rank."
+      },
+      {
+        "zh": "他飞黄腾达后仍不忘车笠之盟，常去看望旧友。",
+        "en": "Though risen to wealth, he honoured their old vow and often visited his friend."
+      }
+    ],
+    "usage": {
+      "en": "From an old custom: two men of different means swore friendship, one saying 'if you ride in a carriage and I wear a straw hat, when we meet you will step down and greet me'. Literary.",
+      "zh": "相传古时两人结交，一人说：“卿乘车，我戴笠，他日相逢，卿当下车揖我。”比喻不论贵贱的交情。书面语。"
+    },
+    "synonyms": [
+      "布衣之交",
+      "患难之交"
+    ],
+    "antonyms": [
+      "势利之交",
+      "酒肉朋友"
+    ]
+  },
+  {
+    "id": "chu-jiu-zhi-jiao",
+    "text": "杵臼之交",
+    "pinyin": "chǔ jiù zhī jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "stories",
+      "historical-records"
+    ],
+    "literal": "pestle · mortar · of · friendship",
+    "natural": "friendship of the pestle and mortar",
+    "meaning": {
+      "en": "A friendship made regardless of social status.",
+      "zh": "不计身份地位而结成的朋友。"
+    },
+    "equivalents": [
+      "friends across the social divide",
+      "humble friendship"
+    ],
+    "examples": [
+      {
+        "zh": "他与脚夫结为杵臼之交，传为佳话。",
+        "en": "His friendship with a porter, regardless of status, became a fine story."
+      },
+      {
+        "zh": "杵臼之交，不以贫贱相弃。",
+        "en": "Friends of the pestle and mortar do not abandon each other in poverty."
+      },
+      {
+        "zh": "她不看出身，与邻居结为杵臼之交。",
+        "en": "Ignoring background, she made friends with her neighbour as an equal."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·吴祐传》",
+      "story": {
+        "en": "Wu You, a Han official, found the scholar Gongsha Mu working as a hired rice-pounder; they talked, became friends and treated each other as equals.",
+        "zh": "吴祐发现佣工舂米的公沙穆不寻常，与之交谈，遂结为好友。"
+      }
+    },
+    "usage": {
+      "en": "Allusion: the Han official Wu You befriended Gongsha Mu, who was working as a hired rice-pounder (hence pestle and mortar). Literary.",
+      "zh": "典出东汉吴祐与在其家舂米的公沙穆结交。书面语。"
+    },
+    "synonyms": [
+      "布衣之交",
+      "车笠之盟"
+    ],
+    "antonyms": [
+      "势利之交"
+    ]
+  },
+  {
+    "id": "jiao-qi-zhi-jiao",
+    "text": "胶漆之交",
+    "pinyin": "jiāo qī zhī jiāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "positive-character-qualities"
+    ],
+    "literal": "glue · lacquer · of · friendship",
+    "natural": "friendship as firm as glue and lacquer",
+    "meaning": {
+      "en": "A very close, inseparable friendship.",
+      "zh": "像胶和漆一样黏合牢固的亲密友情。"
+    },
+    "equivalents": [
+      "inseparable friends",
+      "friends who are thick as thieves"
+    ],
+    "examples": [
+      {
+        "zh": "两人是多年的胶漆之交，亲如兄弟。",
+        "en": "They are long-standing inseparable friends, close as brothers."
+      },
+      {
+        "zh": "胶漆之交，风雨同舟。",
+        "en": "Bonded like glue and lacquer, they weather every storm together."
+      },
+      {
+        "zh": "这对搭档在舞台上默契十足，生活里也是胶漆之交。",
+        "en": "The pair are in perfect sync on stage and inseparable in life."
+      }
+    ],
+    "usage": {
+      "en": "Literary; 胶漆 often stands alone for close ties (情同胶漆). Warm praise.",
+      "zh": "书面语，“情同胶漆”亦可单用。褒义。"
+    },
+    "synonyms": [
+      "莫逆之交",
+      "生死之交",
+      "情同手足"
+    ],
+    "antonyms": [
+      "点头之交",
+      "泛泛之交"
+    ]
+  },
+  {
+    "id": "ren-sheng-de-yi-zhi-ji-zu-yi",
+    "text": "人生得一知己足矣",
+    "pinyin": "rén shēng dé yī zhī jǐ zú yǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "essay-favourites"
+    ],
+    "literal": "life · get · one · confidant · enough · (particle)",
+    "natural": "In a lifetime, one true friend is enough",
+    "meaning": {
+      "en": "To have even one true confidant in life is sufficient.",
+      "zh": "人生在世，能有一个真正的知己就够了。"
+    },
+    "equivalents": [
+      "one true friend is enough",
+      "a single true friend is worth a lifetime"
+    ],
+    "examples": [
+      {
+        "zh": "他引用“人生得一知己足矣”，回忆起老同学。",
+        "en": "Quoting “one true friend is enough”, he recalled his old classmate."
+      },
+      {
+        "zh": "朋友不在多，人生得一知己足矣。",
+        "en": "What matters is not the number of friends; one true friend suffices."
+      },
+      {
+        "zh": "毕业赠言里，她写下“人生得一知己足矣”。",
+        "en": "In the graduation message she wrote that one true friend is enough."
+      }
+    ],
+    "origin": {
+      "source": "鲁迅《书赠瞿秋白联》",
+      "story": {
+        "en": "In 1933 Lu Xun wrote this couplet for Qu Qiubai: “人生得一知己足矣，斯世当以同怀视之。”",
+        "zh": "1933年鲁迅书赠瞿秋白联：“人生得一知己足矣，斯世当以同怀视之。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted in farewell notes and essays on friendship.",
+      "zh": "常用于赠言和谈友情的文章。"
+    },
+    "synonyms": [
+      "知音难觅",
+      "高山流水"
+    ],
+    "antonyms": [
+      "酒肉朋友"
+    ]
+  },
+  {
+    "id": "zhi-yin-nan-mi",
+    "text": "知音难觅",
+    "pinyin": "zhī yīn nán mì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "solitude-and-isolation"
+    ],
+    "literal": "confidant · hard · to find",
+    "natural": "a true confidant is hard to find",
+    "meaning": {
+      "en": "It is hard to find someone who really understands you.",
+      "zh": "很难找到真正懂自己的人。"
+    },
+    "equivalents": [
+      "a kindred spirit is hard to find",
+      "few people truly understand"
+    ],
+    "examples": [
+      {
+        "zh": "高处不胜寒，知音难觅。",
+        "en": "It is lonely at the top; a true confidant is hard to find."
+      },
+      {
+        "zh": "他感叹知音难觅，作品无人欣赏。",
+        "en": "He sighed that nobody understood his work."
+      },
+      {
+        "zh": "知音难觅，所以更要珍惜身边的朋友。",
+        "en": "True confidants are rare, so cherish the friends beside you."
+      }
+    ],
+    "usage": {
+      "en": "Often a sigh of loneliness, sometimes the artist's complaint. Related line: 知音少，弦断有谁听 (岳飞《小重山》).",
+      "zh": "常含孤独的感叹，也是艺术家的慨叹。相关名句：岳飞“知音少，弦断有谁听”。"
+    },
+    "synonyms": [
+      "曲高和寡",
+      "高处不胜寒"
+    ],
+    "antonyms": [
+      "高山流水",
+      "知音满天下"
+    ]
+  },
+  {
+    "id": "xiang-shi-man-tian-xia-zhi",
+    "text": "相识满天下，知心能几人",
+    "pinyin": "xiāng shí mǎn tiān xià, zhī xīn néng jǐ rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "experience-and-old-age"
+    ],
+    "literal": "acquaintance · fill · world, know · heart · can · how many · people",
+    "natural": "Acquaintances fill the world, but how many know your heart?",
+    "meaning": {
+      "en": "Many people know you, but few truly understand you.",
+      "zh": "认识的人很多，真正了解自己的人却很少。"
+    },
+    "equivalents": [
+      "many acquaintances, few true friends",
+      "friends are many, confidants few"
+    ],
+    "examples": [
+      {
+        "zh": "相识满天下，知心能几人，这话一点不假。",
+        "en": "“Acquaintances fill the world, but how many know your heart?” How true."
+      },
+      {
+        "zh": "经历了变故他才懂得，相识满天下，知心能几人。",
+        "en": "After the crisis he learned that few know your heart."
+      },
+      {
+        "zh": "“相识满天下，知心能几人”，所以真朋友要珍惜。",
+        "en": "Since few know your heart, treasure true friends."
+      }
+    ],
+    "usage": {
+      "en": "From the folk anthology 《增广贤文》 (Ming-era collection of sayings). Often paired with the next line 'drunk friends are many, ...'. Casual proverb.",
+      "zh": "出自明代民间格言集《增广贤文》。口语化的俗语，多用于感慨交友之难。"
+    },
+    "synonyms": [
+      "知音难觅",
+      "酒肉朋友千个有，落难之中无一人"
+    ],
+    "antonyms": [
+      "知音满天下"
+    ]
+  },
+  {
+    "id": "qing-bi-jin-jian",
+    "text": "情比金坚",
+    "pinyin": "qíng bǐ jīn jiān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "friendship",
+      "love-and-marriage"
+    ],
+    "literal": "feeling · compared with · gold · firm",
+    "natural": "affection firmer than gold",
+    "meaning": {
+      "en": "Feelings (of friendship or love) as strong as gold.",
+      "zh": "感情像金子一样坚固，不可动摇。"
+    },
+    "equivalents": [
+      "a bond stronger than gold",
+      "unbreakable bond"
+    ],
+    "examples": [
+      {
+        "zh": "他们的友谊情比金坚。",
+        "en": "Their friendship is stronger than gold."
+      },
+      {
+        "zh": "岁月考验了这对夫妻，情比金坚。",
+        "en": "Time has tested the couple, and their love is unbreakable."
+      },
+      {
+        "zh": "结婚纪念日，他送上一句“情比金坚”。",
+        "en": "On their anniversary he gave a card reading “our bond is firmer than gold”."
+      }
+    ],
+    "usage": {
+      "en": "Formal, warm; common on cards, in speeches and in news pieces on friendship between countries.",
+      "zh": "较正式，感情色彩温暖，常见于贺卡、讲话和关于国家友谊的新闻。"
+    },
+    "synonyms": [
+      "坚如磐石",
+      "金石之交",
+      "海枯石烂"
+    ],
+    "antonyms": [
+      "朝三暮四",
+      "朝秦暮楚"
+    ]
+  },
+  {
+    "id": "yi-zhe-san-you",
+    "text": "益者三友",
+    "pinyin": "yì zhě sān yǒu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "confucian-classics"
+    ],
+    "literal": "beneficial · kind · three · friends",
+    "natural": "three kinds of beneficial friends",
+    "meaning": {
+      "en": "Confucius's three types of friend that do you good: the upright, the sincere and the well-informed.",
+      "zh": "孔子所说有益的三种朋友：正直的、诚信的、见闻广博的。"
+    },
+    "equivalents": [
+      "the three beneficial kinds of friend"
+    ],
+    "examples": [
+      {
+        "zh": "孔子说“益者三友，损者三友”，教人慎交友。",
+        "en": "Confucius's words on the three beneficial and three harmful friends teach us to choose friends carefully."
+      },
+      {
+        "zh": "老师以益者三友勉励同学。",
+        "en": "The teacher used the three beneficial friends to encourage the students."
+      },
+      {
+        "zh": "交友要看益者三友的标准。",
+        "en": "In choosing friends, apply the standard of the three beneficial kinds."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius: 'There are three kinds of beneficial friends and three kinds of harmful ones. To befriend the upright, the sincere and the well-informed is beneficial.'",
+        "zh": "孔子曰：“益者三友，损者三友。友直，友谅，友多闻，益矣。”"
+      }
+    },
+    "usage": {
+      "en": "Always read with its counterpart 损者三友 (友便辟，友善柔，友便佞 — flatterers, yes-men, glib talkers). See 友直友谅友多闻.",
+      "zh": "须与“损者三友”对读（便辟、善柔、便佞：谄媚者、软弱圆滑者、花言巧语者）。参见“友直友谅友多闻”。"
+    },
+    "synonyms": [
+      "良师益友",
+      "友直友谅友多闻"
+    ],
+    "antonyms": [
+      "酒肉朋友"
+    ]
+  },
+  {
+    "id": "you-zhi-you-liang-you-duo-wen",
+    "text": "友直友谅友多闻",
+    "pinyin": "yǒu zhí yǒu liàng yǒu duō wén",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "friendship",
+      "confucian-classics",
+      "essay-favourites"
+    ],
+    "literal": "befriend · upright · befriend · sincere · befriend · well-informed",
+    "natural": "befriend the upright, the sincere and the learned",
+    "meaning": {
+      "en": "Choose friends who are honest, trustworthy and knowledgeable.",
+      "zh": "交正直的、诚信的、见闻广博的朋友。"
+    },
+    "equivalents": [
+      "choose friends of integrity and learning",
+      "befriend the honest, the faithful and the well-read"
+    ],
+    "examples": [
+      {
+        "zh": "班训是“友直友谅友多闻”。",
+        "en": "Our class motto is “befriend the upright, the sincere and the learned”."
+      },
+      {
+        "zh": "他以“友直友谅友多闻”为择友标准。",
+        "en": "He took “upright, sincere, well-informed” as his standard for friends."
+      },
+      {
+        "zh": "毕业典礼上，校长引用了“友直友谅友多闻”。",
+        "en": "At graduation the principal quoted “befriend the upright, the sincere and the learned”."
+      }
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius lists the three beneficial kinds of friends: upright (直), sincere (谅) and widely informed (多闻).",
+        "zh": "孔子论益友：“友直，友谅，友多闻，益矣。”"
+      }
+    },
+    "usage": {
+      "en": "Often quoted in school mottos and essays about choosing friends.",
+      "zh": "常见于校训、班训和谈择友的作文。"
+    },
+    "synonyms": [
+      "益者三友",
+      "近朱者赤",
+      "良师益友"
+    ],
+    "antonyms": [
+      "损者三友",
+      "狐朋狗友"
+    ]
+  }
+]

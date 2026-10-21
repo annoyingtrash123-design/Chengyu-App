@@ -1,0 +1,590 @@
+[
+  {
+    "id": "hu-ma-yi-bei-feng-yue-niao-chao-nan-zhi",
+    "text": "胡马依北风，越鸟巢南枝",
+    "pinyin": "hú mǎ yī běi fēng, yuè niǎo cháo nán zhī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "animal-behavior-metaphors",
+      "poems-prose",
+      "essay-favourites"
+    ],
+    "literal": "Hu · horse · lean on · north · wind, Yue · bird · nest · south · branch",
+    "natural": "Northern horses lean into the north wind; southern birds nest on southern boughs",
+    "meaning": {
+      "en": "Even animals long for the place they came from, so a person far from home surely does too.",
+      "zh": "连北方的马、南方的鸟都眷恋故土，何况是离乡的人。"
+    },
+    "equivalents": [
+      "Home is where the heart is",
+      "you can take the boy out of the village, but not the village out of the boy"
+    ],
+    "examples": [
+      {
+        "zh": "异国多年，他常念起“胡马依北风，越鸟巢南枝”这句诗。",
+        "en": "Abroad for many years, he often recalled the line about northern horses and southern birds."
+      },
+      {
+        "zh": "胡马依北风，越鸟巢南枝，再远的游子也会想家。",
+        "en": "However far a wanderer roams, he still pines for home."
+      },
+      {
+        "zh": "作文里引用“胡马依北风，越鸟巢南枝”，把思乡之情写得很贴切。",
+        "en": "Quoting this line in the essay expresses homesickness aptly."
+      }
+    ],
+    "origin": {
+      "source": "《古诗十九首·行行重行行》",
+      "story": {
+        "en": "From a Han-dynasty poem in which a wife, separated from her husband, notes that even horses from the north and birds from the south cling to their homelands.",
+        "zh": "汉代《古诗十九首》中思妇之辞：“胡马依北风，越鸟巢南枝。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted in essays and letters about longing for one's native place; literary register.",
+      "zh": "多用于书信、作文，抒发思乡之情，书面语。"
+    },
+    "synonyms": [
+      "落叶归根",
+      "狐死首丘"
+    ],
+    "antonyms": [
+      "乐不思蜀"
+    ]
+  },
+  {
+    "id": "si-xiang",
+    "text": "思乡",
+    "pinyin": "sī xiāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "乡思"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "complex-emotional-states"
+    ],
+    "literal": "think of · hometown",
+    "natural": "homesick",
+    "meaning": {
+      "en": "To miss one's hometown.",
+      "zh": "思念家乡。"
+    },
+    "equivalents": [
+      "be homesick",
+      "long for home"
+    ],
+    "examples": [
+      {
+        "zh": "中秋夜，远在外地的他格外思乡。",
+        "en": "On Mid-Autumn night, far away, he felt especially homesick."
+      },
+      {
+        "zh": "这首歌唱出了海外游子的思乡之情。",
+        "en": "This song voices the homesickness of those living overseas."
+      },
+      {
+        "zh": "每到过年，乡思就更浓了。",
+        "en": "Homesickness only deepens at New Year."
+      }
+    ],
+    "usage": {
+      "en": "Verb or modifier (思乡之情). The reversed form 乡思 is a noun for the feeling.",
+      "zh": "可作谓语或定语（思乡之情）。倒过来的“乡思”是名词，指思乡的情绪。"
+    },
+    "synonyms": [
+      "想家"
+    ],
+    "antonyms": [
+      "乐不思蜀",
+      "安土重迁"
+    ]
+  },
+  {
+    "id": "xiang-chou",
+    "text": "乡愁",
+    "pinyin": "xiāng chóu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "sadness-and-despair"
+    ],
+    "literal": "hometown · sorrow",
+    "natural": "nostalgia for one's homeland",
+    "meaning": {
+      "en": "The wistful sorrow of being far from home.",
+      "zh": "对故乡的思念和愁绪。"
+    },
+    "equivalents": [
+      "homesickness",
+      "nostalgic longing"
+    ],
+    "examples": [
+      {
+        "zh": "一碗家乡面，就把他的乡愁勾了出来。",
+        "en": "A bowl of noodles from home stirred up his longing."
+      },
+      {
+        "zh": "余光中的《乡愁》是几代人熟悉的诗。",
+        "en": "Yu Guangzhong's poem “Nostalgia” is familiar to generations."
+      },
+      {
+        "zh": "乡愁是一枚小小的邮票。",
+        "en": "Homesickness is a tiny stamp."
+      }
+    ],
+    "usage": {
+      "en": "Noun; warmer and more poetic than 思乡. Often a theme of poems and songs.",
+      "zh": "名词，比“思乡”更富诗意，常见于诗歌和歌曲。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "乐不思蜀"
+    ]
+  },
+  {
+    "id": "you-zi-si-xiang",
+    "text": "游子思乡",
+    "pinyin": "yóu zǐ sī xiāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "journeys-and-exploration"
+    ],
+    "literal": "wandering · son · think of · hometown",
+    "natural": "a wanderer longs for home",
+    "meaning": {
+      "en": "A person who is far from home misses it.",
+      "zh": "漂泊在外的人思念故乡。"
+    },
+    "equivalents": [
+      "a wanderer's homesickness",
+      "the exile's longing for home"
+    ],
+    "examples": [
+      {
+        "zh": "中秋月圆，游子思乡。",
+        "en": "Under the Mid-Autumn full moon, the wanderer longs for home."
+      },
+      {
+        "zh": "海外华人游子思乡，常在节日里聚会。",
+        "en": "Overseas Chinese, missing home, often gather at festivals."
+      },
+      {
+        "zh": "这部电影讲的是游子思乡的故事。",
+        "en": "The film tells of a wanderer's yearning for home."
+      }
+    ],
+    "usage": {
+      "en": "Often used as the subject of a poem, song or essay on festivals.",
+      "zh": "多用于诗文、歌曲，常与节日相关。"
+    },
+    "synonyms": [
+      "望乡",
+      "客愁"
+    ],
+    "antonyms": [
+      "乐不思蜀"
+    ]
+  },
+  {
+    "id": "meng-hui-gu-li",
+    "text": "梦回故里",
+    "pinyin": "mèng huí gù lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "poems-prose"
+    ],
+    "literal": "dream · return · old · village",
+    "natural": "dream of returning to one's old home",
+    "meaning": {
+      "en": "To return to one's hometown in a dream; to long for it deeply.",
+      "zh": "在梦中回到故乡，形容对家乡的深切思念。"
+    },
+    "equivalents": [
+      "dream of home",
+      "go home in dreams"
+    ],
+    "examples": [
+      {
+        "zh": "身在异乡，他常常梦回故里。",
+        "en": "Living abroad, he often dreams of his hometown."
+      },
+      {
+        "zh": "梦回故里，母亲仍在灶前忙碌。",
+        "en": "In the dream he is home again, and Mother is busy at the stove."
+      },
+      {
+        "zh": "这首词写尽了梦回故里的惆怅。",
+        "en": "The poem captures the sadness of dreaming of one's old home."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary. Not the same as 荣归故里, which is about a triumphant return.",
+      "zh": "多作谓语，书面语。与“荣归故里”（风光回乡）不同。"
+    },
+    "synonyms": [
+      "魂牵梦萦",
+      "梦绕魂牵"
+    ],
+    "antonyms": [
+      "乐不思蜀"
+    ]
+  },
+  {
+    "id": "rong-gui-gu-li",
+    "text": "荣归故里",
+    "pinyin": "róng guī gù lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "homesickness",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "glory · return · old · village",
+    "natural": "return home in glory",
+    "meaning": {
+      "en": "To go back to one's hometown covered in honour.",
+      "zh": "取得成就后光荣地回到家乡。"
+    },
+    "equivalents": [
+      "return home in triumph",
+      "come home a hero"
+    ],
+    "examples": [
+      {
+        "zh": "奥运冠军荣归故里，乡亲们夹道欢迎。",
+        "en": "The Olympic champion returned home in glory to a crowd of cheering neighbours."
+      },
+      {
+        "zh": "他事业有成，荣归故里捐建了一所学校。",
+        "en": "Successful, he came home with honour and funded a school."
+      },
+      {
+        "zh": "科学家荣归故里，受到热烈欢迎。",
+        "en": "The scientist was warmly welcomed on his return home."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, often in news. Positive tone; it implies success.",
+      "zh": "作谓语，多见于新闻，褒义，含有已有成就的意思。"
+    },
+    "synonyms": [
+      "衣锦还乡"
+    ],
+    "antonyms": [
+      "落魄而归",
+      "无颜见江东父老"
+    ]
+  },
+  {
+    "id": "ta-xiang-yu-gu-zhi",
+    "text": "他乡遇故知",
+    "pinyin": "tā xiāng yù gù zhī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "joy-and-happiness",
+      "homesickness"
+    ],
+    "literal": "other · place · meet · old · friend",
+    "natural": "meeting an old friend in a strange land",
+    "meaning": {
+      "en": "The joy of unexpectedly meeting an old acquaintance far from home.",
+      "zh": "在远离家乡的地方碰到老朋友，是人生乐事。"
+    },
+    "equivalents": [
+      "a friend in a foreign land",
+      "what a small world"
+    ],
+    "examples": [
+      {
+        "zh": "在巴黎的街头碰到大学同学，真是他乡遇故知！",
+        "en": "Running into a college friend on a Paris street: an old friend in a strange land!"
+      },
+      {
+        "zh": "久旱逢甘霖，他乡遇故知，人生四喜之二。",
+        "en": "A drought-breaking rain and an old friend abroad: two of life's four joys."
+      },
+      {
+        "zh": "出差到小城，竟然他乡遇故知，当晚就聚了一顿。",
+        "en": "On a business trip to a small town I met an old friend, and we had dinner together that night."
+      }
+    ],
+    "usage": {
+      "en": "Traditionally listed among the “four great joys” (久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时). Casual to neutral.",
+      "zh": "常与“久旱逢甘雨，洞房花烛夜，金榜题名时”并称人生四大喜事。口语、书面语均可。"
+    },
+    "synonyms": [
+      "萍水相逢",
+      "久别重逢"
+    ],
+    "antonyms": [
+      "举目无亲"
+    ]
+  },
+  {
+    "id": "jiu-ke-si-gui",
+    "text": "久客思归",
+    "pinyin": "jiǔ kè sī guī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "journeys-and-exploration"
+    ],
+    "literal": "long · sojourner · think · return",
+    "natural": "a long-time traveller longs to return",
+    "meaning": {
+      "en": "After a long time away from home, one longs to return.",
+      "zh": "在外地住久了，思念家乡，想回去。"
+    },
+    "equivalents": [
+      "long-time exile longing to go home",
+      "be eager to return after years away"
+    ],
+    "examples": [
+      {
+        "zh": "在海外工作十年，他不免久客思归。",
+        "en": "After ten years working overseas, he inevitably longed to return."
+      },
+      {
+        "zh": "久客思归，他决定退休后回老家。",
+        "en": "Long away and longing for home, he decided to return to his village after retiring."
+      },
+      {
+        "zh": "诗中写尽了久客思归的惆怅。",
+        "en": "The poem expresses the sadness of a long sojourner yearning to go home."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literary. 客 means someone living away from home.",
+      "zh": "作谓语，书面语。“客”指寄居外地的人。"
+    },
+    "synonyms": [
+      "归心似箭",
+      "思乡心切"
+    ],
+    "antonyms": [
+      "乐不思蜀",
+      "乐而忘返"
+    ]
+  },
+  {
+    "id": "yi-men-er-wang",
+    "text": "倚门而望",
+    "pinyin": "yǐ mén ér wàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "倚闾之望"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "parenting-and-family"
+    ],
+    "literal": "lean · door · and · gaze",
+    "natural": "lean on the doorway and watch",
+    "meaning": {
+      "en": "To wait anxiously at the door for a loved one to come home, as parents wait for their child.",
+      "zh": "靠着门向远处张望，形容父母盼望孩子归来。"
+    },
+    "equivalents": [
+      "wait at the door for someone's return",
+      "a parent's anxious watch"
+    ],
+    "examples": [
+      {
+        "zh": "母亲每天倚门而望，盼着远行的儿子早日回家。",
+        "en": "Every day Mother stood at the door, hoping her travelling son would soon come home."
+      },
+      {
+        "zh": "老人倚门而望，却始终没等到电话。",
+        "en": "The old man watched from the doorway but never got the call."
+      },
+      {
+        "zh": "想到父母倚门而望的样子，他加快了脚步。",
+        "en": "Picturing his parents waiting at the door, he quickened his pace."
+      }
+    ],
+    "usage": {
+      "en": "Usually about parents. The variant 倚闾之望 (also 倚闾而望) is a more literary form; 闾 is the village gate.",
+      "zh": "多指父母盼子归来。变体“倚闾之望”更书面，“闾”指里巷的门。"
+    },
+    "synonyms": [
+      "望眼欲穿",
+      "望穿秋水"
+    ],
+    "antonyms": [
+      "不闻不问"
+    ]
+  },
+  {
+    "id": "tian-ya-you-zi",
+    "text": "天涯游子",
+    "pinyin": "tiān yá yóu zǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness",
+      "journeys-and-exploration",
+      "festive-greetings"
+    ],
+    "literal": "sky · edge · wandering · son",
+    "natural": "a wanderer at the ends of the earth",
+    "meaning": {
+      "en": "A person wandering far from home.",
+      "zh": "漂泊在遥远他乡的人。"
+    },
+    "equivalents": [
+      "a far-flung wanderer",
+      "a traveller far from home"
+    ],
+    "examples": [
+      {
+        "zh": "这首歌献给所有天涯游子。",
+        "en": "This song is for all who wander far from home."
+      },
+      {
+        "zh": "每到除夕，天涯游子都想回家。",
+        "en": "On New Year's Eve, wanderers everywhere long to go home."
+      },
+      {
+        "zh": "他是一个天涯游子，多年没有回乡。",
+        "en": "A wanderer at the ends of the earth, he hadn't been home for years."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase, literary and sentimental; common in songs and greetings to overseas Chinese.",
+      "zh": "名词性短语，书面、抒情，常见于歌曲及对海外游子的问候。"
+    },
+    "synonyms": [
+      "海外游子",
+      "浪迹天涯"
+    ],
+    "antonyms": [
+      "安土重迁"
+    ]
+  },
+  {
+    "id": "huai-jiu",
+    "text": "怀旧",
+    "pinyin": "huái jiù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "complex-emotional-states"
+    ],
+    "literal": "cherish · past",
+    "natural": "nostalgic",
+    "meaning": {
+      "en": "To think fondly of the past, of old places, people and times.",
+      "zh": "怀念过去的人、事和岁月。"
+    },
+    "equivalents": [
+      "nostalgic",
+      "reminisce"
+    ],
+    "examples": [
+      {
+        "zh": "老街的照片让他十分怀旧。",
+        "en": "Photos of the old street made him very nostalgic."
+      },
+      {
+        "zh": "这家店装修得很怀旧，像回到了八十年代。",
+        "en": "The shop is decorated in a retro style, like the 1980s."
+      },
+      {
+        "zh": "人老了容易怀旧。",
+        "en": "People grow nostalgic as they age."
+      }
+    ],
+    "usage": {
+      "en": "Verb or adjective; neutral. A pastime or style of nostalgia: 怀旧金曲 'golden oldies'.",
+      "zh": "可作动词或形容词，中性。如“怀旧金曲”。"
+    },
+    "synonyms": [
+      "追忆"
+    ],
+    "antonyms": [
+      "喜新厌旧",
+      "向前看"
+    ]
+  },
+  {
+    "id": "lian-jiu",
+    "text": "恋旧",
+    "pinyin": "liàn jiù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "homesickness",
+      "complex-emotional-states"
+    ],
+    "literal": "attached to · old",
+    "natural": "attached to old things",
+    "meaning": {
+      "en": "To be attached to old things, old places or old friends and unwilling to let them go.",
+      "zh": "对旧的人、物、环境感情深，舍不得丢弃或离开。"
+    },
+    "equivalents": [
+      "be sentimental about old things",
+      "cling to the past"
+    ],
+    "examples": [
+      {
+        "zh": "奶奶很恋旧，旧衣服舍不得扔。",
+        "en": "Grandma is sentimental and can't bear to throw away old clothes."
+      },
+      {
+        "zh": "他恋旧，几十年了还住在老房子里。",
+        "en": "He clings to the old, still living in the same house after decades."
+      },
+      {
+        "zh": "恋旧的人往往重感情。",
+        "en": "Those attached to the old are often deeply loyal."
+      }
+    ],
+    "usage": {
+      "en": "Differs from 怀旧: 恋旧 is about not letting go, 怀旧 about remembering fondly. Can be praise (loyal) or mild criticism (resistant to change).",
+      "zh": "与“怀旧”不同：恋旧重在舍不得，怀旧重在追忆。可褒（重感情）可贬（不愿改变）。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "喜新厌旧"
+    ]
+  }
+]

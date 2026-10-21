@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "dong-ru-lei-zhen",
+    "text": "动如雷震",
+    "pinyin": "dòng rú léi zhèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory"
+    ],
+    "literal": "move · like · thunder · shake",
+    "natural": "strike like thunder",
+    "meaning": {
+      "en": "Of an army, to move with sudden, overwhelming force like a thunderclap once it decides to attack.",
+      "zh": "行动起来像雷霆震动一样迅猛，形容军队出击时势不可挡。"
+    },
+    "equivalents": [
+      "strike like thunder",
+      "move with thunderous force"
+    ],
+    "examples": [
+      {
+        "zh": "大军静待时机，一旦出击便动如雷震。",
+        "en": "The army waited quietly for its moment, then struck like thunder."
+      },
+      {
+        "zh": "这支球队防守时稳如磐石，反击时动如雷震。",
+        "en": "The team is rock-solid in defence and strikes like thunder on the counter."
+      }
+    ],
+    "origin": {
+      "source": "《孙子·军争》",
+      "story": {
+        "en": "Sun Tzu describes the ideal army: 'hidden as the dark, moving like thunder'.",
+        "zh": "《孙子·军争》：“难知如阴，动如雷震。”"
+      }
+    },
+    "usage": {
+      "en": "Mostly used of troops or teams; often paired with its counterpart about stillness. Literary and praising.",
+      "zh": "多用于军队、球队等，常与表示隐蔽沉静的话对举，书面语，含褒义。"
+    },
+    "synonyms": [
+      "迅雷不及掩耳",
+      "势如破竹"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "纹丝不动"
+    ]
+  },
+  {
+    "id": "xuan-yang-ji-gu",
+    "text": "悬羊击鼓",
+    "pinyin": "xuán yáng jī gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "deception-and-false-appearances"
+    ],
+    "literal": "hang · sheep · strike · drum",
+    "natural": "sheep that beats the drum",
+    "meaning": {
+      "en": "A ruse in which hung-up sheep kick a drum so that it sounds as if soldiers are present; to bluff by making a false show of strength.",
+      "zh": "把羊倒悬起来，让羊蹄敲鼓，使敌人以为有人守备，比喻用虚假的声势迷惑对方。"
+    },
+    "equivalents": [
+      "a bluff",
+      "make a false show of strength"
+    ],
+    "examples": [
+      {
+        "zh": "他们悬羊击鼓，让对手误以为公司仍有大量订单。",
+        "en": "They were bluffing, making rivals think the company still had plenty of orders."
+      },
+      {
+        "zh": "空城里悬羊击鼓，只是为了拖住追兵。",
+        "en": "In the empty town they hung sheep over drums just to hold off the pursuers."
+      }
+    ],
+    "usage": {
+      "en": "Describes a deceptive tactic (stratagem-style); can be used for bluffing in business or negotiation. Rare, bookish.",
+      "zh": "指迷惑敌人的计策，也可喻商业、谈判中的虚张声势。较生僻，书面语。"
+    },
+    "synonyms": [
+      "虚张声势",
+      "空城计"
+    ],
+    "antonyms": [
+      "真刀真枪",
+      "实打实"
+    ]
+  },
+  {
+    "id": "da-bing-ya-jing",
+    "text": "大兵压境",
+    "pinyin": "dà bīng yā jìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "big · troops · press · border",
+    "natural": "a huge army at the border",
+    "meaning": {
+      "en": "A large enemy force closes in on the frontier; also used figuratively for overwhelming pressure bearing down.",
+      "zh": "大批军队逼近边境，形容敌军来势汹汹，也比喻强大的压力迫近。"
+    },
+    "equivalents": [
+      "an army at the gates",
+      "overwhelming forces closing in"
+    ],
+    "examples": [
+      {
+        "zh": "大兵压境，城中人心惶惶。",
+        "en": "With a huge army at the border, the city was in a panic."
+      },
+      {
+        "zh": "考试大兵压境，同学们都在埋头苦读。",
+        "en": "With exams bearing down, everyone is buried in their books."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Neutral-to-tense; often followed by a description of how people respond.",
+      "zh": "多作谓语，语气紧张，后面常接人们的反应。"
+    },
+    "synonyms": [
+      "兵临城下",
+      "来势汹汹"
+    ],
+    "antonyms": [
+      "退兵",
+      "解围"
+    ]
+  },
+  {
+    "id": "yi-shou-nan-gong",
+    "text": "易守难攻",
+    "pinyin": "yì shǒu nán gōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "difficult-terrain"
+    ],
+    "literal": "easy · defend · hard · attack",
+    "natural": "easy to hold, hard to take",
+    "meaning": {
+      "en": "Describes a position, usually because of its terrain, that is easy to defend and hard to attack.",
+      "zh": "地势险要，防守容易而进攻困难。"
+    },
+    "equivalents": [
+      "easy to defend, hard to storm",
+      "a natural stronghold"
+    ],
+    "examples": [
+      {
+        "zh": "这座山城易守难攻，敌人围了三个月也没攻下。",
+        "en": "The hill town was easy to hold and hard to take; the enemy besieged it for three months in vain."
+      },
+      {
+        "zh": "他们的战术易守难攻，对手一直找不到破绽。",
+        "en": "Their tactics are hard to break down, and rivals can't find a weakness."
+      }
+    ],
+    "usage": {
+      "en": "Attributive or predicate. Mostly of terrain or fortresses; can be extended to sport or business.",
+      "zh": "作谓语或定语，多形容地形、关隘，也可比喻球队、企业的防御。"
+    },
+    "synonyms": [
+      "固若金汤",
+      "天险"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一攻即破"
+    ]
+  },
+  {
+    "id": "yu-hu-bing-xin",
+    "text": "玉壶冰心",
+    "pinyin": "yù hú bīng xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "冰心玉壶"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "jade · pot · ice · heart",
+    "natural": "a heart pure as ice in a jade pot",
+    "meaning": {
+      "en": "A heart pure as ice in a jade vase; a person of spotless integrity, untainted by worldly gain.",
+      "zh": "像玉壶里的冰一样纯洁透明的心，比喻人品高洁，不受名利污染。"
+    },
+    "equivalents": [
+      "spotless integrity",
+      "a heart pure as ice"
+    ],
+    "examples": [
+      {
+        "zh": "他一生玉壶冰心，从未收过一分不义之财。",
+        "en": "All his life he kept a spotless heart and never took a penny of dishonest money."
+      },
+      {
+        "zh": "她以玉壶冰心自许，不愿卷入官场是非。",
+        "en": "She prided herself on her purity and refused to be drawn into official squabbles."
+      }
+    ],
+    "origin": {
+      "source": "王昌龄《芙蓉楼送辛渐》",
+      "story": {
+        "en": "Wang Changling's farewell poem: 'If friends in Luoyang ask after me, say my heart is a piece of ice in a jade pot' (一片冰心在玉壶).",
+        "zh": "王昌龄：“洛阳亲友如相问，一片冰心在玉壶。”"
+      }
+    },
+    "usage": {
+      "en": "Used to praise someone's character, often in self-description. Both orders occur; 玉壶冰心 is the usual form.",
+      "zh": "多用来称赞人品高洁，也可自况。两种语序都有，常作玉壶冰心。"
+    },
+    "synonyms": [
+      "冰清玉洁",
+      "清廉自守"
+    ],
+    "antonyms": [
+      "同流合污",
+      "蝇营狗苟"
+    ]
+  },
+  {
+    "id": "qing-qing-zi-jin",
+    "text": "青青子衿",
+    "pinyin": "qīng qīng zǐ jīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "love-and-marriage"
+    ],
+    "literal": "green · green · you · collar",
+    "natural": "the blue-collared one",
+    "meaning": {
+      "en": "Literally the blue collar of a scholar's robe; by extension a young scholar, or a longing for a beloved or a talented person.",
+      "zh": "原指青色衣领，借指年轻学子，也用来表达对意中人或贤才的思慕。"
+    },
+    "equivalents": [
+      "a longing for the beloved",
+      "the blue-collared scholar"
+    ],
+    "examples": [
+      {
+        "zh": "青青子衿，悠悠我心，他在信里引用这句诗表达思念。",
+        "en": "'Green, green is your collar, and long my yearning': he quoted the line in his letter to say he missed her."
+      },
+      {
+        "zh": "毕业典礼上，校长把青青子衿般的学子送向远方。",
+        "en": "At graduation the principal sent the young scholars off into the world."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·郑风·子衿》",
+      "story": {
+        "en": "A girl waits for her lover: 'Green, green is your collar; long, long is my yearning' (青青子衿，悠悠我心). Cao Cao later quoted it for his longing for talented men.",
+        "zh": "《诗经·郑风·子衿》：“青青子衿，悠悠我心。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic. Today it may stand for students or for yearning; context decides. Literary only.",
+      "zh": "诗意用语，今天可指学子，也可表思慕，由语境决定，只用于书面。"
+    },
+    "synonyms": [
+      "魂牵梦萦",
+      "求贤若渴"
+    ],
+    "antonyms": [
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "you-you-lu-ming",
+    "text": "呦呦鹿鸣",
+    "pinyin": "yōu yōu lù míng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "鹿鸣呦呦"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "festivals-and-celebrations"
+    ],
+    "literal": "bleat · bleat · deer · call",
+    "natural": "the deer call to one another",
+    "meaning": {
+      "en": "The calling of deer; an image of a host welcoming guests with a feast.",
+      "zh": "鹿发现食物时呦呦地呼唤同伴，比喻宴请宾客、礼贤下士。"
+    },
+    "equivalents": [
+      "a warm welcome for guests",
+      "hospitality to worthy guests"
+    ],
+    "examples": [
+      {
+        "zh": "宴会上乐声悠扬，真有呦呦鹿鸣的气象。",
+        "en": "The music was mellow, and the party felt like a true 'calling of the deer'."
+      },
+      {
+        "zh": "校长设宴，呦呦鹿鸣，款待远道而来的学者。",
+        "en": "The principal gave a feast to welcome the scholars from afar."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·小雅·鹿鸣》",
+      "story": {
+        "en": "The banquet ode 'Lu Ming' begins: 'Yōu yōu the deer call, eating the wild artemisia' (呦呦鹿鸣，食野之苹).",
+        "zh": "《诗经·小雅·鹿鸣》：“呦呦鹿鸣，食野之苹。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic, mostly in invitations or reports on a banquet. Also used for the name 'Youyou' (Tu Youyou).",
+      "zh": "多用于宴请宾客的文辞中；屠呦呦的名字即取自此诗。"
+    },
+    "synonyms": [
+      "宾至如归",
+      "礼贤下士"
+    ],
+    "antonyms": [
+      "闭门谢客"
+    ]
+  },
+  {
+    "id": "wu-mei-si-fu",
+    "text": "寤寐思服",
+    "pinyin": "wù mèi sī fú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "love-and-marriage"
+    ],
+    "literal": "awake · asleep · think · long",
+    "natural": "wake or sleep, longing",
+    "meaning": {
+      "en": "To long for someone day and night, whether awake or asleep.",
+      "zh": "无论醒着还是睡着都在思念，形容思念极深。"
+    },
+    "equivalents": [
+      "pine day and night",
+      "long for someone constantly"
+    ],
+    "examples": [
+      {
+        "zh": "他对远方的爱人寤寐思服，信写了一封又一封。",
+        "en": "He pined for his faraway love day and night, writing letter after letter."
+      },
+      {
+        "zh": "游子对故土寤寐思服，只盼早日归乡。",
+        "en": "The wanderer longs for home in every waking and sleeping hour."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·周南·关雎》",
+      "story": {
+        "en": "In 'Guan Ju': 'He seeks her but cannot find her; waking and sleeping he longs for her' (求之不得，寤寐思服).",
+        "zh": "《诗经·周南·关雎》：“求之不得，寤寐思服。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic. Used for love or deep longing; note 寤 is pronounced wù.",
+      "zh": "诗意用语，多用于爱慕与深切思念；寤读 wù。"
+    },
+    "synonyms": [
+      "魂牵梦萦",
+      "朝思暮想"
+    ],
+    "antonyms": [
+      "置之脑后",
+      "忘却"
+    ]
+  },
+  {
+    "id": "jian-jia-cang-cang",
+    "text": "蒹葭苍苍",
+    "pinyin": "jiān jiā cāng cāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "solitude-and-isolation"
+    ],
+    "literal": "reed · reed · green-grey · green-grey",
+    "natural": "the reeds are grey-green",
+    "meaning": {
+      "en": "Reeds growing thick and grey-green by the water; an image of autumn and of yearning for someone out of reach.",
+      "zh": "芦苇苍青茂盛，借指秋景，也象征对可望而不可即之人的思慕。"
+    },
+    "equivalents": [
+      "yearning for the unreachable",
+      "reeds by the river"
+    ],
+    "examples": [
+      {
+        "zh": "秋日河边，蒹葭苍苍，让人想起那首古老的情诗。",
+        "en": "On an autumn riverbank the reeds stand grey-green, recalling that ancient love poem."
+      },
+      {
+        "zh": "他在诗里写道：蒹葭苍苍，伊人在水一方。",
+        "en": "In his poem he wrote of the thick reeds and the one he loves on the far bank."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·秦风·蒹葭》",
+      "story": {
+        "en": "The poem opens: 'The reeds are grey-green, the white dew turns to frost; the one I love is on the other side of the water' (蒹葭苍苍，白露为霜).",
+        "zh": "《诗经·秦风·蒹葭》：“蒹葭苍苍，白露为霜。所谓伊人，在水一方。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic scene-setting. Not used for everyday talk.",
+      "zh": "多用于写景抒情，不用于日常口语。"
+    },
+    "synonyms": [
+      "伊人在水一方"
+    ],
+    "antonyms": [
+      "近在咫尺"
+    ]
+  },
+  {
+    "id": "ru-zhuo-ru-mo",
+    "text": "如琢如磨",
+    "pinyin": "rú zhuó rú mó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "apprenticeship-and-learning",
+      "confucian-classics",
+      "poems-prose"
+    ],
+    "literal": "like · carve · like · polish",
+    "natural": "as if carving, as if polishing",
+    "meaning": {
+      "en": "To refine oneself ceaselessly, like a craftsman cutting and polishing jade; to improve one's character or scholarship through careful discussion.",
+      "zh": "像加工玉石一样反复琢磨，比喻在学问、品德上不断切磋修养。"
+    },
+    "equivalents": [
+      "refine oneself endlessly",
+      "polish one's character and learning"
+    ],
+    "examples": [
+      {
+        "zh": "他治学如琢如磨，一篇论文改了二十遍。",
+        "en": "He treats scholarship as polishing jade, revising one paper twenty times."
+      },
+      {
+        "zh": "朋友间如琢如磨，才能共同进步。",
+        "en": "Friends who sharpen each other as if polishing jade improve together."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·卫风·淇奥》",
+      "story": {
+        "en": "The ode praising a gentleman: 'Like cut, like filed; like carved, like polished' (如切如磋，如琢如磨). The Analects quotes it on self-improvement.",
+        "zh": "《诗经·卫风·淇奥》：“如切如磋，如琢如磨。”"
+      }
+    },
+    "usage": {
+      "en": "Praising; usually of study or self-cultivation. Note 琢 is read zhuó here and 磨 mó.",
+      "zh": "含褒义，多指治学修身；此处琢读 zhuó，磨读 mó。"
+    },
+    "synonyms": [
+      "切磋琢磨",
+      "精益求精"
+    ],
+    "antonyms": [
+      "敷衍了事",
+      "不求甚解"
+    ]
+  },
+  {
+    "id": "you-fei-jun-zi",
+    "text": "有匪君子",
+    "pinyin": "yǒu fěi jūn zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "poems-prose"
+    ],
+    "literal": "have · refined · gentleman · man",
+    "natural": "a refined gentleman",
+    "meaning": {
+      "en": "A cultivated, accomplished gentleman; 匪 here is an old form of 斐, meaning refined.",
+      "zh": "文采斐然、品德高尚的君子；“匪”通“斐”，意为有文采。"
+    },
+    "equivalents": [
+      "a truly cultivated gentleman",
+      "a man of refinement"
+    ],
+    "examples": [
+      {
+        "zh": "他谦和博学，真是有匪君子。",
+        "en": "Modest and learned, he is a truly refined gentleman."
+      },
+      {
+        "zh": "人们称赞这位老教授为有匪君子。",
+        "en": "People praised the old professor as a refined gentleman."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·卫风·淇奥》",
+      "story": {
+        "en": "The same ode begins: 'Look at the bend of the Qi: green bamboo, so lush. There is a refined gentleman' (有匪君子).",
+        "zh": "《诗经·卫风·淇奥》：“瞻彼淇奥，绿竹猗猗。有匪君子，如切如磋，如琢如磨。”"
+      }
+    },
+    "usage": {
+      "en": "Praise for a man of character and learning. Beware: 匪 does not mean 'bandit' here.",
+      "zh": "用于称赞有德有才的人；注意此处“匪”不是“土匪”之意。"
+    },
+    "synonyms": [
+      "谦谦君子",
+      "温文尔雅"
+    ],
+    "antonyms": [
+      "卑鄙小人",
+      "市井之徒"
+    ]
+  },
+  {
+    "id": "zhuo-zhuo-qi-hua",
+    "text": "灼灼其华",
+    "pinyin": "zhuó zhuó qí huá",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "love-and-marriage",
+      "festive-greetings",
+      "wedding-wishes"
+    ],
+    "literal": "bright · bright · its · blossom",
+    "natural": "its blossoms blaze",
+    "meaning": {
+      "en": "Peach blossoms blazing brightly; a poetic image of a young bride's beauty and a happy marriage.",
+      "zh": "桃花盛开，鲜艳明亮，比喻新娘年轻貌美、婚姻美满。"
+    },
+    "equivalents": [
+      "radiant as peach blossom",
+      "a radiant bride"
+    ],
+    "examples": [
+      {
+        "zh": "新娘身着红装，灼灼其华，令人眼前一亮。",
+        "en": "The bride in red was radiant as blossom and caught every eye."
+      },
+      {
+        "zh": "祝你们灼灼其华，白头偕老。",
+        "en": "May you be radiant as blossom and grow old together."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·周南·桃夭》",
+      "story": {
+        "en": "The wedding ode: 'The peach tree is tender, its blossoms blaze; this girl goes to her new home' (桃之夭夭，灼灼其华).",
+        "zh": "《诗经·周南·桃夭》：“桃之夭夭，灼灼其华。之子于归，宜其室家。”"
+      }
+    },
+    "usage": {
+      "en": "Wedding blessing or beauty description; 华 reads huá here (old word for 花).",
+      "zh": "可用于婚礼祝福或形容女子美貌；华同“花”，读 huá。"
+    },
+    "synonyms": [
+      "艳若桃李",
+      "桃之夭夭"
+    ],
+    "antonyms": [
+      "人老珠黄"
+    ]
+  },
+  {
+    "id": "yin-qing-yuan-que",
+    "text": "阴晴圆缺",
+    "pinyin": "yīn qíng yuán quē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "change"
+    ],
+    "literal": "cloudy · clear · full · waning",
+    "natural": "clouds and clear, full and wane",
+    "meaning": {
+      "en": "The changing states of the weather and the moon; the ups and downs of fortune.",
+      "zh": "天气有阴有晴，月亮有圆有缺，比喻世事变化无常。"
+    },
+    "equivalents": [
+      "life's ups and downs",
+      "the moon's changing phases"
+    ],
+    "examples": [
+      {
+        "zh": "月有阴晴圆缺，人生的际遇也是如此。",
+        "en": "The moon waxes and wanes, and so does life's fortune."
+      },
+      {
+        "zh": "他看淡了阴晴圆缺，心境平和。",
+        "en": "He has taken the ups and downs lightly and keeps a calm mind."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《水调歌头·明月几时有》",
+      "story": {
+        "en": "'People have sorrow and joy, parting and meeting; the moon is cloudy or clear, full or waning' (月有阴晴圆缺).",
+        "zh": "苏轼《水调歌头》：“人有悲欢离合，月有阴晴圆缺，此事古难全。”"
+      }
+    },
+    "usage": {
+      "en": "Often follows the line 'people have joys and sorrows, partings and reunions'. Literary.",
+      "zh": "常与“人有悲欢离合”连用，书面语。"
+    },
+    "synonyms": [
+      "世事无常",
+      "悲欢离合"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "ni-chang-yu-yi",
+    "text": "霓裳羽衣",
+    "pinyin": "ní cháng yǔ yī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "fine-dress-and-fashion",
+      "myths-legends",
+      "poems-prose"
+    ],
+    "literal": "rainbow · skirt · feather · robe",
+    "natural": "rainbow skirts and feather robes",
+    "meaning": {
+      "en": "The rainbow-coloured skirt and feathered coat of fairies; splendid, ethereal dress, and the name of a famous Tang court dance.",
+      "zh": "以彩虹为裳、以羽毛为衣，指仙人的服饰，也是唐代著名乐舞的名称。"
+    },
+    "equivalents": [
+      "a fairy's raiment",
+      "ethereal finery"
+    ],
+    "examples": [
+      {
+        "zh": "舞台上，演员霓裳羽衣，如仙子下凡。",
+        "en": "On stage the dancers in rainbow robes looked like fairies descended."
+      },
+      {
+        "zh": "她那件霓裳羽衣般的礼服引来一片赞叹。",
+        "en": "Her gossamer gown drew gasps of admiration."
+      }
+    ],
+    "origin": {
+      "source": "白居易《长恨歌》",
+      "story": {
+        "en": "In 'Song of Everlasting Sorrow': 'The Rainbow Skirt and Feathered Robe dance' (霓裳羽衣舞).",
+        "zh": "白居易《长恨歌》：“渔阳鼙鼓动地来，惊破霓裳羽衣曲。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic; for ethereal clothing, dance, or the Tang melody. 裳 reads cháng.",
+      "zh": "诗意用语，形容飘逸的服饰或乐舞；裳读 cháng。"
+    },
+    "synonyms": [
+      "云裳霞衣",
+      "天衣无缝"
+    ],
+    "antonyms": [
+      "粗布麻衣"
+    ]
+  },
+  {
+    "id": "la-ju-cheng-hui",
+    "text": "蜡炬成灰",
+    "pinyin": "là jù chéng huī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "positive-character-qualities"
+    ],
+    "literal": "wax · torch · become · ash",
+    "natural": "the candle burns to ash",
+    "meaning": {
+      "en": "A candle burns down to ashes; devotion that lasts to the end, and in love an undying longing.",
+      "zh": "蜡烛燃尽成灰，比喻为事业或爱情奉献到生命终点。"
+    },
+    "equivalents": [
+      "devotion to the last",
+      "burn out like a candle"
+    ],
+    "examples": [
+      {
+        "zh": "他们蜡炬成灰，为山区教育奉献一生。",
+        "en": "They burned like candles to ash, giving their lives to rural education."
+      },
+      {
+        "zh": "教师常被比作蜡炬成灰、春蚕吐丝。",
+        "en": "Teachers are often compared to candles that burn to ash."
+      }
+    ],
+    "origin": {
+      "source": "李商隐《无题》",
+      "story": {
+        "en": "'Spring silkworms spin till death, the candle weeps till it burns to ash' (春蚕到死丝方尽，蜡炬成灰泪始干).",
+        "zh": "李商隐《无题》：“春蚕到死丝方尽，蜡炬成灰泪始干。”"
+      }
+    },
+    "usage": {
+      "en": "Praising dedication; often used of teachers. In the poem it first expressed love.",
+      "zh": "多赞美奉献精神，常比喻教师；原诗写爱情。"
+    },
+    "synonyms": [
+      "鞠躬尽瘁",
+      "死而后已"
+    ],
+    "antonyms": [
+      "半途而废"
+    ]
+  },
+  {
+    "id": "yi-dai-jian-kuan",
+    "text": "衣带渐宽",
+    "pinyin": "yī dài jiàn kuān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "love-and-marriage"
+    ],
+    "literal": "robe · belt · gradually · wide",
+    "natural": "the belt grows loose",
+    "meaning": {
+      "en": "One's belt grows loose because of wasting away with longing; deep yearning or tireless pursuit.",
+      "zh": "因思念或专注而日渐消瘦，衣带变宽，形容用情极深或孜孜以求。"
+    },
+    "equivalents": [
+      "waste away with longing",
+      "pine until thin"
+    ],
+    "examples": [
+      {
+        "zh": "他为论文日夜奋战，衣带渐宽终不悔。",
+        "en": "He worked day and night on his thesis and has no regrets over the weight he lost."
+      },
+      {
+        "zh": "几个月没见到女儿，她衣带渐宽。",
+        "en": "Not seeing her daughter for months, she wasted away with longing."
+      }
+    ],
+    "origin": {
+      "source": "柳永《蝶恋花》",
+      "story": {
+        "en": "'My belt grows ever looser, yet I never regret it; for her I gladly wear out' (衣带渐宽终不悔，为伊消得人憔悴).",
+        "zh": "柳永《蝶恋花》：“衣带渐宽终不悔，为伊消得人憔悴。”"
+      }
+    },
+    "usage": {
+      "en": "Often quoted as 'my belt grows loose and I do not regret it'. Used for love or single-minded effort.",
+      "zh": "常引“衣带渐宽终不悔”，用于爱情或专注的追求。"
+    },
+    "synonyms": [
+      "日渐消瘦",
+      "茶饭不思"
+    ],
+    "antonyms": [
+      "心宽体胖"
+    ]
+  },
+  {
+    "id": "fang-cao-xian-mei",
+    "text": "芳草鲜美",
+    "pinyin": "fāng cǎo xiān měi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "plant-and-natural-world"
+    ],
+    "literal": "fragrant · grass · fresh · lovely",
+    "natural": "fragrant, fresh grass",
+    "meaning": {
+      "en": "Fragrant grass that is fresh and lush; a scene of spring beauty.",
+      "zh": "花草芬芳，青翠鲜嫩，形容春日景色美好。"
+    },
+    "equivalents": [
+      "lush, fragrant meadows",
+      "fresh spring greenery"
+    ],
+    "examples": [
+      {
+        "zh": "雨后的山坡芳草鲜美，落英缤纷。",
+        "en": "After the rain the slope was fresh with fragrant grass and fallen petals."
+      },
+      {
+        "zh": "江南三月，芳草鲜美，游人如织。",
+        "en": "In March in Jiangnan the grass is lush and tourists stream in."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《桃花源记》",
+      "story": {
+        "en": "In 'Peach Blossom Spring': 'Fragrant grass fresh and lovely, fallen petals in profusion' (芳草鲜美，落英缤纷).",
+        "zh": "陶渊明《桃花源记》：“林尽水源，便得一山……芳草鲜美，落英缤纷。”"
+      }
+    },
+    "usage": {
+      "en": "Scenery description in literary writing; often seen in student essays.",
+      "zh": "写景用语，文章里常见。"
+    },
+    "synonyms": [
+      "绿草如茵",
+      "春意盎然"
+    ],
+    "antonyms": [
+      "草木凋零",
+      "荒烟蔓草"
+    ]
+  },
+  {
+    "id": "qian-mo-jiao-tong",
+    "text": "阡陌交通",
+    "pinyin": "qiān mò jiāo tōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "farming-and-harvest",
+      "landscapes"
+    ],
+    "literal": "path · path · cross · connect",
+    "natural": "field paths criss-cross",
+    "meaning": {
+      "en": "Paths run north-south and east-west between the fields; a peaceful, well-tilled countryside.",
+      "zh": "田间小路纵横交错，形容农村景象安宁富足。"
+    },
+    "equivalents": [
+      "criss-crossing field paths",
+      "a tranquil farming landscape"
+    ],
+    "examples": [
+      {
+        "zh": "村里阡陌交通，鸡犬相闻。",
+        "en": "In the village field paths criss-cross and chickens and dogs can be heard."
+      },
+      {
+        "zh": "登高望去，阡陌交通，一派田园风光。",
+        "en": "From the height you see paths criss-crossing the fields, a scene of rural peace."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《桃花源记》",
+      "story": {
+        "en": "'The field paths criss-cross and the cocks and dogs can be heard' (阡陌交通，鸡犬相闻).",
+        "zh": "陶渊明《桃花源记》：“土地平旷，屋舍俨然……阡陌交通，鸡犬相闻。”"
+      }
+    },
+    "usage": {
+      "en": "Note 阡 (north-south path) and 陌 (east-west path). Used in scenic description.",
+      "zh": "阡指南北向田埂，陌指东西向田埂；多用于写景。"
+    },
+    "synonyms": [
+      "鸡犬相闻",
+      "田连阡陌"
+    ],
+    "antonyms": [
+      "荒无人烟",
+      "杳无人迹"
+    ]
+  },
+  {
+    "id": "wu-she-yan-ran",
+    "text": "屋舍俨然",
+    "pinyin": "wū shè yǎn rán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "successful-construction",
+      "landscapes"
+    ],
+    "literal": "house · cottage · orderly · -ly",
+    "natural": "houses neatly arranged",
+    "meaning": {
+      "en": "Houses standing in neat, orderly rows.",
+      "zh": "房屋排列整齐。"
+    },
+    "equivalents": [
+      "neat rows of houses",
+      "tidy villages"
+    ],
+    "examples": [
+      {
+        "zh": "新农村屋舍俨然，道路干净整洁。",
+        "en": "The new village has neat rows of houses and clean roads."
+      },
+      {
+        "zh": "山脚下屋舍俨然，炊烟袅袅。",
+        "en": "At the foot of the hill the houses stand in order, smoke curling up."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《桃花源记》",
+      "story": {
+        "en": "'The land is flat and wide, the houses neat and orderly' (土地平旷，屋舍俨然).",
+        "zh": "陶渊明《桃花源记》：“土地平旷，屋舍俨然，有良田美池桑竹之属。”"
+      }
+    },
+    "usage": {
+      "en": "Describing settlements, often with farmland. 俨 means neat, not 'solemn' here.",
+      "zh": "多描写村落；这里“俨”是整齐，不是庄严。"
+    },
+    "synonyms": [
+      "鳞次栉比",
+      "井然有序"
+    ],
+    "antonyms": [
+      "东倒西歪",
+      "断壁残垣"
+    ]
+  },
+  {
+    "id": "pi-fa-zuo-ren",
+    "text": "被发左衽",
+    "pinyin": "pī fà zuǒ rèn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "披发左衽"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "historical-periods",
+      "chaos",
+      "confucian-classics"
+    ],
+    "literal": "loose · hair · left · lapel",
+    "natural": "hair loose, robe fastened on the left",
+    "meaning": {
+      "en": "Wearing hair loose and fastening the robe on the left, as non-Han peoples did in ancient times; by extension, falling under barbarian rule and the loss of civilisation.",
+      "zh": "披散头发，衣襟向左掩，是古代某些少数民族的装束，借指被外族统治、文明沦丧。"
+    },
+    "equivalents": [
+      "fall under alien rule",
+      "be reduced to barbarism"
+    ],
+    "examples": [
+      {
+        "zh": "若无人守卫国门，百姓恐怕都要被发左衽了。",
+        "en": "Without anyone guarding the gates, the people might all have fallen under foreign rule."
+      },
+      {
+        "zh": "史书记载他力挽狂澜，使中原不致被发左衽。",
+        "en": "The histories record that he stemmed the tide and spared the heartland from foreign rule."
+      }
+    ],
+    "origin": {
+      "source": "《论语·宪问》",
+      "story": {
+        "en": "Confucius praised Guan Zhong: 'Without Guan Zhong, we would be wearing our hair loose and fastening our robes on the left' (微管仲，吾其被发左衽矣).",
+        "zh": "《论语·宪问》：“微管仲，吾其被发左衽矣。”"
+      }
+    },
+    "usage": {
+      "en": "Historical, with an ethnocentric flavour; handle with care in modern use. 衽 reads rèn; 被 reads pī (= 披).",
+      "zh": "带有古代华夷观念，现代使用须谨慎；被同“披”，读 pī。"
+    },
+    "synonyms": [
+      "沦为异族",
+      "亡国灭种"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "光复"
+    ]
+  },
+  {
+    "id": "ba-mao-lian-ru",
+    "text": "拔茅连茹",
+    "pinyin": "bá máo lián rú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "chain-reactions",
+      "good-governance"
+    ],
+    "literal": "pull · thatch · link · roots",
+    "natural": "pull the grass and the roots come too",
+    "meaning": {
+      "en": "Pull up one blade of grass and its linked roots come with it; when a worthy person is promoted, his like-minded friends are brought along.",
+      "zh": "拔起一根茅草，带出相连的根，比喻选拔一个贤人，同类的人也被带起来。"
+    },
+    "equivalents": [
+      "one rises, and others follow",
+      "promote one, and associates come along"
+    ],
+    "examples": [
+      {
+        "zh": "新首长上任后拔茅连茹，几位旧部都得到了重用。",
+        "en": "After the new chief took office, his old subordinates rose with him."
+      },
+      {
+        "zh": "拔茅连茹，朝中贤才济济。",
+        "en": "One worthy man pulled up another until the court was full of talent."
+      }
+    ],
+    "origin": {
+      "source": "《周易·泰卦》",
+      "story": {
+        "en": "The hexagram Tai says: 'Pull up the grass, its roots come with it; going forward brings good fortune' (拔茅茹，以其汇，征吉).",
+        "zh": "《周易·泰卦》：“拔茅茹，以其汇，征吉。”"
+      }
+    },
+    "usage": {
+      "en": "Originally positive about recommending the talented; now may suggest cronyism. 茹 reads rú.",
+      "zh": "原为举贤的褒义，现也可含任人唯亲的贬义；茹读 rú。"
+    },
+    "synonyms": [
+      "举贤任能",
+      "引类呼朋"
+    ],
+    "antonyms": [
+      "孤立无援"
+    ]
+  },
+  {
+    "id": "bu-kui-bu-zuo",
+    "text": "不愧不怍",
+    "pinyin": "bù kuì bù zuò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "confucian-classics"
+    ],
+    "literal": "not · ashamed · not · abashed",
+    "natural": "not ashamed before heaven or men",
+    "meaning": {
+      "en": "To have a clear conscience, ashamed neither before heaven nor before others.",
+      "zh": "对天对人都问心无愧。"
+    },
+    "equivalents": [
+      "have a clear conscience",
+      "feel no shame at all"
+    ],
+    "examples": [
+      {
+        "zh": "他做事光明磊落，不愧不怍。",
+        "en": "He acts openly and above board, with a clear conscience."
+      },
+      {
+        "zh": "无论别人怎么议论，我自问不愧不怍。",
+        "en": "Whatever people say, I know I have nothing to be ashamed of."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心上》",
+      "story": {
+        "en": "Mencius names one of a gentleman's joys: 'Looking up, no shame before Heaven; looking down, none before people' (仰不愧于天，俯不怍于人).",
+        "zh": "《孟子·尽心上》：“仰不愧于天，俯不怍于人，二乐也。”"
+      }
+    },
+    "usage": {
+      "en": "Praise for integrity; often as a self-assessment. 怍 reads zuò.",
+      "zh": "称赞品行正直，也可自述；怍读 zuò。"
+    },
+    "synonyms": [
+      "问心无愧",
+      "俯仰无愧"
+    ],
+    "antonyms": [
+      "愧天怍人",
+      "心中有愧"
+    ]
+  }
+]

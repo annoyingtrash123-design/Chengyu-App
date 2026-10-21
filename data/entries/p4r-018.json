@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "chu-shi-wei-jie",
+    "text": "出师未捷",
+    "pinyin": "chū shī wèi jié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "near-misses-and-setbacks",
+      "war",
+      "poems-prose"
+    ],
+    "literal": "send out · army · not yet · win",
+    "natural": "the campaign not yet won",
+    "meaning": {
+      "en": "The expedition has not yet won, yet fails or is cut short; a setback or death before success.",
+      "zh": "出兵尚未取得胜利就遭遇挫折，多指事业未成而人先亡。"
+    },
+    "equivalents": [
+      "fall before victory",
+      "a venture cut short"
+    ],
+    "examples": [
+      {
+        "zh": "这位将军出师未捷，令人惋惜。",
+        "en": "It is a pity the general fell before victory."
+      },
+      {
+        "zh": "公司刚起步便出师未捷，创始人没有放弃。",
+        "en": "The firm failed at the outset, but the founder did not give up."
+      }
+    ],
+    "origin": {
+      "source": "杜甫《蜀相》",
+      "story": {
+        "en": "On Zhuge Liang: 'The army set out before victory, and he himself died, leaving heroes forever weeping' (出师未捷身先死，长使英雄泪满襟).",
+        "zh": "杜甫《蜀相》：“出师未捷身先死，长使英雄泪满襟。”"
+      }
+    },
+    "usage": {
+      "en": "Often quoted with 'the hero dies first'; used for failure early in a venture.",
+      "zh": "常接“身先死”，用于事业起步便受挫。"
+    },
+    "synonyms": [
+      "功败垂成",
+      "壮志未酬"
+    ],
+    "antonyms": [
+      "旗开得胜",
+      "马到成功"
+    ]
+  },
+  {
+    "id": "gan-shi-shang-huai",
+    "text": "感时伤怀",
+    "pinyin": "gǎn shí shāng huái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "sadness-and-despair",
+      "poems-prose"
+    ],
+    "literal": "feel · times · grieve · feelings",
+    "natural": "moved by the times, saddened at heart",
+    "meaning": {
+      "en": "To be moved to sorrow by the state of the times or the passing seasons.",
+      "zh": "有感于时局或时序变迁而心中悲伤。"
+    },
+    "equivalents": [
+      "lament the times",
+      "be saddened by the state of things"
+    ],
+    "examples": [
+      {
+        "zh": "读到旧时的战乱，他感时伤怀，久久不语。",
+        "en": "Reading of the old wars, he was saddened by the times and sat silent."
+      },
+      {
+        "zh": "暮春时节，她不免感时伤怀。",
+        "en": "In late spring she cannot help feeling melancholy at time's passing."
+      }
+    ],
+    "usage": {
+      "en": "Literary, often in poetry reviews. Related to 感时花溅泪.",
+      "zh": "书面语，常用于诗评；可联想杜甫“感时花溅泪”。"
+    },
+    "synonyms": [
+      "伤春悲秋",
+      "忧国忧民"
+    ],
+    "antonyms": [
+      "无忧无虑",
+      "心旷神怡"
+    ]
+  },
+  {
+    "id": "hui-hao-po-mo",
+    "text": "挥毫泼墨",
+    "pinyin": "huī háo pō mò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "wield · brush · splash · ink",
+    "natural": "wield the brush and splash ink",
+    "meaning": {
+      "en": "To write or paint with bold, flowing strokes.",
+      "zh": "挥动毛笔，大笔蘸墨，形容尽情书写或绘画。"
+    },
+    "equivalents": [
+      "wield the brush with flair",
+      "paint or write freely"
+    ],
+    "examples": [
+      {
+        "zh": "老先生兴致一来，当场挥毫泼墨。",
+        "en": "In high spirits the old master took up the brush on the spot."
+      },
+      {
+        "zh": "书法家在人群面前挥毫泼墨，赢得掌声。",
+        "en": "The calligrapher wielded the brush before the crowd and won applause."
+      }
+    ],
+    "usage": {
+      "en": "Positive; for calligraphy and painting, sometimes jokingly for writing.",
+      "zh": "含褒义，用于书画，有时也戏指写作。"
+    },
+    "synonyms": [
+      "龙飞凤舞",
+      "笔走龙蛇"
+    ],
+    "antonyms": [
+      "搁笔",
+      "江郎才尽"
+    ]
+  },
+  {
+    "id": "jiang-hu-lang-zhong",
+    "text": "江湖郎中",
+    "pinyin": "jiāng hú láng zhōng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "medical-skill-and-healing",
+      "deception-and-false-appearances"
+    ],
+    "literal": "rivers · lakes · doctor · middle",
+    "natural": "itinerant doctor",
+    "meaning": {
+      "en": "A travelling doctor of doubtful skill, a quack.",
+      "zh": "走江湖的游方医生，多指医术不高、骗人钱财的人。"
+    },
+    "equivalents": [
+      "a quack",
+      "a charlatan doctor"
+    ],
+    "examples": [
+      {
+        "zh": "别信那个江湖郎中，他开的药没什么用。",
+        "en": "Don't trust that quack; his medicine is useless."
+      },
+      {
+        "zh": "他自称神医，其实是个江湖郎中。",
+        "en": "He calls himself a miracle doctor but is just a quack."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory. 郎中 is an old word for doctor, pronounced láng zhōng.",
+      "zh": "贬义；郎中是旧时对医生的称呼，读 láng zhōng。"
+    },
+    "synonyms": [
+      "庸医",
+      "蒙古大夫"
+    ],
+    "antonyms": [
+      "妙手回春",
+      "名医"
+    ]
+  },
+  {
+    "id": "ma-shou-yu-dong",
+    "text": "马首欲东",
+    "pinyin": "mǎ shǒu yù dōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "change",
+      "historical-records"
+    ],
+    "literal": "horse · head · want · east",
+    "natural": "the horse's head wants to go east",
+    "meaning": {
+      "en": "Having decided to go home (east), or to turn back; wanting to give up an operation and return.",
+      "zh": "马头朝东，表示想要回乡或撤退，原指无心作战、想回家。"
+    },
+    "equivalents": [
+      "want to head home",
+      "turn back from a venture"
+    ],
+    "examples": [
+      {
+        "zh": "连日阴雨，将士们都马首欲东。",
+        "en": "After days of rain, the soldiers all wanted to turn for home."
+      },
+      {
+        "zh": "项目屡遭挫折，不少人已马首欲东。",
+        "en": "With repeated setbacks, many already want to bail out."
+      }
+    ],
+    "origin": {
+      "source": "《左传·襄公十四年》",
+      "story": {
+        "en": "During a campaign, Luan Yan declared he would not obey the order to advance: 'My horse's head wants to go east' (吾马首欲东), and led his troops home.",
+        "zh": "《左传·襄公十四年》：“栾黡曰：‘晋国之命未是有也。余马首欲东。’乃归。”"
+      }
+    },
+    "usage": {
+      "en": "Don't confuse with 马首是瞻 (follow someone's lead). Used of wanting to quit or return.",
+      "zh": "不要与“马首是瞻”混淆；指想放弃、想回去。"
+    },
+    "synonyms": [
+      "打退堂鼓",
+      "归心似箭"
+    ],
+    "antonyms": [
+      "马首是瞻",
+      "勇往直前"
+    ]
+  },
+  {
+    "id": "miao-tang-zhi-gao",
+    "text": "庙堂之高",
+    "pinyin": "miào táng zhī gāo",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "leadership-and-authority",
+      "poems-prose"
+    ],
+    "literal": "temple · hall · of · high",
+    "natural": "high in the temple hall",
+    "meaning": {
+      "en": "The high seat of government, the imperial court or central power.",
+      "zh": "指朝廷、高官的位置，即中央政权。"
+    },
+    "equivalents": [
+      "the halls of power",
+      "high office"
+    ],
+    "examples": [
+      {
+        "zh": "居庙堂之高，则忧其民。",
+        "en": "When one sits in the halls of power, one worries for the people."
+      },
+      {
+        "zh": "他身处庙堂之高，仍不忘民间疾苦。",
+        "en": "Though high in office, he did not forget the people's hardships."
+      }
+    ],
+    "origin": {
+      "source": "范仲淹《岳阳楼记》",
+      "story": {
+        "en": "'Holding a high place in the court, one worries about the people; far away in the lakes and rivers, one worries about the ruler' (居庙堂之高则忧其民，处江湖之远则忧其君).",
+        "zh": "范仲淹《岳阳楼记》：“居庙堂之高则忧其民，处江湖之远则忧其君。”"
+      }
+    },
+    "usage": {
+      "en": "Usually seen in the pair with 江湖之远 (far away in the rivers and lakes). Literary.",
+      "zh": "常与“江湖之远”对举，书面语。"
+    },
+    "synonyms": [
+      "位高权重",
+      "朝廷"
+    ],
+    "antonyms": [
+      "江湖之远",
+      "草野"
+    ]
+  },
+  {
+    "id": "mou-chao-cuan-wei",
+    "text": "谋朝篡位",
+    "pinyin": "móu cháo cuàn wèi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "political-corruption",
+      "leadership-and-authority"
+    ],
+    "literal": "plot · dynasty · usurp · throne",
+    "natural": "plot to seize the throne",
+    "meaning": {
+      "en": "To plot to overthrow the ruling dynasty and seize the throne.",
+      "zh": "图谋推翻朝廷，夺取皇位。"
+    },
+    "equivalents": [
+      "plot to usurp the throne",
+      "stage a coup"
+    ],
+    "examples": [
+      {
+        "zh": "这位权臣谋朝篡位，最终事败被杀。",
+        "en": "The powerful minister plotted to seize the throne and was killed when it failed."
+      },
+      {
+        "zh": "他被指控谋朝篡位，满门入狱。",
+        "en": "He was accused of plotting a coup and his whole family was jailed."
+      }
+    ],
+    "usage": {
+      "en": "Always derogatory; mostly historical. 朝 reads cháo here.",
+      "zh": "贬义，多用于历史；朝读 cháo。"
+    },
+    "synonyms": [
+      "篡权夺位",
+      "犯上作乱"
+    ],
+    "antonyms": [
+      "忠心耿耿",
+      "匡扶社稷"
+    ]
+  },
+  {
+    "id": "nu-mu-jin-gang",
+    "text": "怒目金刚",
+    "pinyin": "nù mù jīn gāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "anger",
+      "buddhist-origin"
+    ],
+    "literal": "angry · eyes · vajra · guardian",
+    "natural": "the glaring guardian",
+    "meaning": {
+      "en": "Like the fierce guardian figure in a temple, with a stern and angry look; also describes someone whose anger shows on their face.",
+      "zh": "像寺庙里的金刚力士那样怒目圆睁，形容面目凶狠或威严。"
+    },
+    "equivalents": [
+      "glaring fiercely",
+      "a glowering guardian"
+    ],
+    "examples": [
+      {
+        "zh": "他脸色铁青，如怒目金刚一般瞪着我们。",
+        "en": "His face dark, he glared at us like a temple guardian."
+      },
+      {
+        "zh": "别看他平时和气，发起火来像怒目金刚。",
+        "en": "He seems gentle, but when angry he glowers like a temple guardian."
+      }
+    ],
+    "usage": {
+      "en": "Often in the pair 怒目金刚 / 低眉菩萨 (stern vs gentle). Can describe stern strength.",
+      "zh": "常与“低眉菩萨”对举；也可指刚猛有威势。"
+    },
+    "synonyms": [
+      "横眉怒目",
+      "凶神恶煞"
+    ],
+    "antonyms": [
+      "低眉菩萨",
+      "和颜悦色"
+    ]
+  },
+  {
+    "id": "pa-shu-ti-jue",
+    "text": "爬梳剔抉",
+    "pinyin": "pá shū tī jué",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "爬罗剔抉"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "reading-and-study",
+      "excellent-writing",
+      "poems-prose"
+    ],
+    "literal": "scratch · comb · pick out · gouge",
+    "natural": "comb through and pick out",
+    "meaning": {
+      "en": "To comb through materials patiently, sorting out what matters and discarding the rest.",
+      "zh": "仔细梳理、剔除、选取材料，形容整理资料、考订文献时认真细致。"
+    },
+    "equivalents": [
+      "sift through painstakingly",
+      "sort and select carefully"
+    ],
+    "examples": [
+      {
+        "zh": "他爬梳剔抉多年，终于整理出一部完整的史料。",
+        "en": "After years of sifting he assembled a complete set of historical sources."
+      },
+      {
+        "zh": "学者要在浩如烟海的文献中爬梳剔抉。",
+        "en": "Scholars must sift through a vast ocean of documents."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《进学解》",
+      "story": {
+        "en": "In 'Jin Xue Jie': 'Gather and sift, pick and choose, scrape and polish' (爬罗剔抉，刮垢磨光), praising officials who select talent.",
+        "zh": "韩愈《进学解》：“爬罗剔抉，刮垢磨光。”"
+      }
+    },
+    "usage": {
+      "en": "Used for scholarship, editing or archives. Originally 爬罗剔抉 in Han Yu, which is a close variant.",
+      "zh": "用于治学、校勘、整理文献；韩愈原作“爬罗剔抉”，意思相近。"
+    },
+    "synonyms": [
+      "披沙拣金",
+      "去粗取精"
+    ],
+    "antonyms": [
+      "囫囵吞枣",
+      "不加分辨"
+    ]
+  },
+  {
+    "id": "sang-zi-zhi-qing",
+    "text": "桑梓之情",
+    "pinyin": "sāng zǐ zhī qíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "family-and-home",
+      "complex-emotional-states"
+    ],
+    "literal": "mulberry · catalpa · of · feeling",
+    "natural": "love of the mulberry and catalpa",
+    "meaning": {
+      "en": "Affection for one's hometown; 桑梓 (mulberry and catalpa trees planted near houses) stands for home.",
+      "zh": "对故乡的深厚感情；桑梓是古人家宅旁种的树，借指故乡。"
+    },
+    "equivalents": [
+      "love of one's native place",
+      "hometown attachment"
+    ],
+    "examples": [
+      {
+        "zh": "这位企业家桑梓之情深厚，多次回乡捐资办学。",
+        "en": "The entrepreneur, deeply attached to his hometown, repeatedly donated to schools there."
+      },
+      {
+        "zh": "海外游子的桑梓之情，浓得化不开。",
+        "en": "The overseas wanderer's love of home is thick and unbroken."
+      }
+    ],
+    "usage": {
+      "en": "Used in speeches and news about overseas Chinese or returning natives.",
+      "zh": "多见于致辞和对海外游子、返乡人士的报道。"
+    },
+    "synonyms": [
+      "故土之恋",
+      "乡土情怀"
+    ],
+    "antonyms": [
+      "背井离乡",
+      "数典忘祖"
+    ]
+  },
+  {
+    "id": "shi-ruo-zhen-bao",
+    "text": "视若珍宝",
+    "pinyin": "shì ruò zhēn bǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "complex-emotional-states",
+      "contentment-and-simplicity"
+    ],
+    "literal": "regard · as if · rare · treasure",
+    "natural": "treat as a treasure",
+    "meaning": {
+      "en": "To treasure something and hold it dear as if it were rare and precious.",
+      "zh": "把东西当作珍贵的宝物一样看待，形容十分珍惜。"
+    },
+    "equivalents": [
+      "treasure dearly",
+      "prize highly"
+    ],
+    "examples": [
+      {
+        "zh": "她把外婆留下的怀表视若珍宝。",
+        "en": "She treasures the pocket watch her grandmother left her."
+      },
+      {
+        "zh": "孩子对这本旧画册视若珍宝，不许别人碰。",
+        "en": "The child prizes this old picture book and lets no one touch it."
+      }
+    ],
+    "usage": {
+      "en": "Common in writing; the object usually comes before the phrase. Opposite of 视如草芥.",
+      "zh": "书面常见，宾语多前置；反义为“视如草芥”。"
+    },
+    "synonyms": [
+      "爱不释手",
+      "如获至宝"
+    ],
+    "antonyms": [
+      "视如敝屣",
+      "视如草芥"
+    ]
+  },
+  {
+    "id": "xian-ge-bu-chuo",
+    "text": "弦歌不辍",
+    "pinyin": "xián gē bù chuò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "apprenticeship-and-learning",
+      "positive-character-qualities"
+    ],
+    "literal": "string · song · not · stop",
+    "natural": "strings and songs never cease",
+    "meaning": {
+      "en": "Teaching and learning carry on without interruption, even in hard times.",
+      "zh": "琴声与诵读之声不断，指教学活动即使在艰难环境中也不中断。"
+    },
+    "equivalents": [
+      "teaching goes on regardless",
+      "keep the school bell ringing"
+    ],
+    "examples": [
+      {
+        "zh": "战火纷飞，西南联大仍然弦歌不辍。",
+        "en": "Amid the war, the Southwest Associated University kept teaching."
+      },
+      {
+        "zh": "山区学校条件简陋，却弦歌不辍。",
+        "en": "The mountain school is plain, yet classes never stop."
+      }
+    ],
+    "usage": {
+      "en": "Praising education and culture that survive difficulty. 辍 reads chuò.",
+      "zh": "赞扬在艰难中坚持办学求学；辍读 chuò。"
+    },
+    "synonyms": [
+      "薪火相传",
+      "坚持不懈"
+    ],
+    "antonyms": [
+      "废学",
+      "中途辍学"
+    ]
+  },
+  {
+    "id": "zao-fu-sang-zi",
+    "text": "造福桑梓",
+    "pinyin": "zào fú sāng zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "family-and-home",
+      "positive-character-qualities"
+    ],
+    "literal": "bring · blessings · mulberry · catalpa",
+    "natural": "bring blessings to one's hometown",
+    "meaning": {
+      "en": "To do good for one's native place.",
+      "zh": "为家乡人民谋福利。"
+    },
+    "equivalents": [
+      "benefit one's hometown",
+      "give back to one's native place"
+    ],
+    "examples": [
+      {
+        "zh": "他功成名就后回乡创业，造福桑梓。",
+        "en": "After making his name, he returned to start a business and benefit his hometown."
+      },
+      {
+        "zh": "乡贤捐资修路，造福桑梓。",
+        "en": "A local worthy donated money to build a road for his hometown."
+      }
+    ],
+    "usage": {
+      "en": "Formal; used in news and speeches. 梓 reads zǐ (3rd tone).",
+      "zh": "正式用语，见于新闻和致辞；梓读 zǐ。"
+    },
+    "synonyms": [
+      "造福乡里",
+      "泽被乡邻"
+    ],
+    "antonyms": [
+      "祸害乡里",
+      "殃民"
+    ]
+  },
+  {
+    "id": "fu-you-shi-shu",
+    "text": "腹有诗书",
+    "pinyin": "fù yǒu shī shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "reading-and-study",
+      "positive-character-qualities",
+      "poems-prose"
+    ],
+    "literal": "belly · have · poems · books",
+    "natural": "with poems and books in the belly",
+    "meaning": {
+      "en": "A person full of learning shows an elegant bearing: 'poetry and books in the belly, grace shows in the air'.",
+      "zh": "腹中装满诗书，指学识渊博；常与“气自华”连用，说明读书使人气质高雅。"
+    },
+    "equivalents": [
+      "well read and gracefully so",
+      "learning shows in one's bearing"
+    ],
+    "examples": [
+      {
+        "zh": "她腹有诗书，举手投足间自带一份从容。",
+        "en": "With her wide reading, her every gesture carries a quiet ease."
+      },
+      {
+        "zh": "都说腹有诗书气自华，读书的人气质不一样。",
+        "en": "They say learning gives a person grace; readers have a different air."
+      }
+    ],
+    "origin": {
+      "source": "苏轼《和董传留别》",
+      "story": {
+        "en": "'Coarse cloth and rough robes, yet with poems and books in the belly, grace comes of itself' (腹有诗书气自华).",
+        "zh": "苏轼《和董传留别》：“粗缯大布裹生涯，腹有诗书气自华。”"
+      }
+    },
+    "usage": {
+      "en": "Typically quoted in full as 腹有诗书气自华. Positive, about the cultivated.",
+      "zh": "常整句引用“腹有诗书气自华”，称赞有学养的人。"
+    },
+    "synonyms": [
+      "学富五车",
+      "满腹经纶"
+    ],
+    "antonyms": [
+      "胸无点墨",
+      "不学无术"
+    ]
+  },
+  {
+    "id": "yan-hua-liu-xiang",
+    "text": "烟花柳巷",
+    "pinyin": "yān huā liǔ xiàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "inappropriate-behavior",
+      "historical-periods"
+    ],
+    "literal": "mist · flowers · willow · lane",
+    "natural": "misty flowers and willow lanes",
+    "meaning": {
+      "en": "The pleasure quarters; brothels in old times.",
+      "zh": "旧指妓院聚集的地方，即风月场所。"
+    },
+    "equivalents": [
+      "the red-light district",
+      "a pleasure quarter"
+    ],
+    "examples": [
+      {
+        "zh": "这位公子终日出入烟花柳巷，家产败光。",
+        "en": "The young gentleman spent his days in the pleasure quarter and squandered his fortune."
+      },
+      {
+        "zh": "小说描写了旧上海的烟花柳巷。",
+        "en": "The novel portrays the pleasure quarters of old Shanghai."
+      }
+    ],
+    "usage": {
+      "en": "Usually historical or literary; derogatory or at least discreet. 巷 reads xiàng.",
+      "zh": "多用于历史或文学语境，带贬义或委婉；巷读 xiàng。"
+    },
+    "synonyms": [
+      "花街柳巷",
+      "青楼楚馆"
+    ],
+    "antonyms": [
+      "书香门第",
+      "清白人家"
+    ]
+  },
+  {
+    "id": "hong-yan-chuan-shu",
+    "text": "鸿雁传书",
+    "pinyin": "hóng yàn chuán shū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "love-and-marriage",
+      "stories",
+      "historical-records"
+    ],
+    "literal": "wild goose · goose · carry · letter",
+    "natural": "wild geese carry letters",
+    "meaning": {
+      "en": "Messages carried across great distance; the old image of letters passing between faraway people.",
+      "zh": "借大雁传递书信，指远方来信，传递音讯。"
+    },
+    "equivalents": [
+      "a letter from afar",
+      "messages across the distance"
+    ],
+    "examples": [
+      {
+        "zh": "两人分隔两地，只能鸿雁传书。",
+        "en": "Living far apart, the two could only write letters."
+      },
+      {
+        "zh": "鸿雁传书的年代，一封信要走一个月。",
+        "en": "In the days of wild-goose letters, a letter took a month to arrive."
+      }
+    ],
+    "origin": {
+      "source": "《汉书·苏武传》",
+      "story": {
+        "en": "Su Wu was held among the Xiongnu; his men told the Khan that the emperor had shot a goose bearing a message tied to its foot, revealing that Su Wu was alive (雁足系帛书).",
+        "zh": "《汉书·苏武传》：天子射上林中，得雁，足有系帛书。"
+      }
+    },
+    "usage": {
+      "en": "Poetic for correspondence. Now mostly used jokingly of letters, email or messages.",
+      "zh": "诗意地指书信往来，现在多带玩笑色彩，也指电邮和消息。"
+    },
+    "synonyms": [
+      "尺素书",
+      "音书往来"
+    ],
+    "antonyms": [
+      "音讯全无",
+      "杳无音信"
+    ]
+  },
+  {
+    "id": "ta-xue-xun-mei",
+    "text": "踏雪寻梅",
+    "pinyin": "tà xuě xún méi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "relaxation-and-rest",
+      "plant-and-natural-world"
+    ],
+    "literal": "tread · snow · seek · plum blossom",
+    "natural": "tread snow to seek plum blossoms",
+    "meaning": {
+      "en": "To walk through the snow looking for plum blossoms; an elegant pastime of cultivated people.",
+      "zh": "冒雪赏梅，指文人雅士的闲情逸致。"
+    },
+    "equivalents": [
+      "go plum-hunting in the snow",
+      "an elegant winter outing"
+    ],
+    "examples": [
+      {
+        "zh": "雪后初晴，几位好友相约踏雪寻梅。",
+        "en": "When the snow cleared, friends arranged a walk to seek plum blossoms."
+      },
+      {
+        "zh": "他的画里常有踏雪寻梅的高士。",
+        "en": "His paintings often show scholars walking in the snow to find plum blossoms."
+      }
+    ],
+    "usage": {
+      "en": "Literary and elegant; popular as a painting motif.",
+      "zh": "典雅，常作绘画题材。"
+    },
+    "synonyms": [
+      "雪中送炭",
+      "赏梅"
+    ],
+    "antonyms": [
+      "俗不可耐"
+    ]
+  },
+  {
+    "id": "mo-ran-hui-shou",
+    "text": "蓦然回首",
+    "pinyin": "mò rán huí shǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "mental-clarity"
+    ],
+    "literal": "suddenly · -ly · turn · head",
+    "natural": "suddenly turn one's head",
+    "meaning": {
+      "en": "To turn around suddenly and find what one has long sought; also, to look back unexpectedly on one's past.",
+      "zh": "猛然回头，发现自己苦苦寻找的东西就在眼前；也指忽然回望往事。"
+    },
+    "equivalents": [
+      "suddenly look back and find it",
+      "an unexpected discovery in hindsight"
+    ],
+    "examples": [
+      {
+        "zh": "蓦然回首，那人却在灯火阑珊处。",
+        "en": "Turning suddenly, there she was where the lights were dim."
+      },
+      {
+        "zh": "蓦然回首，二十年已经过去了。",
+        "en": "Looking back suddenly, twenty years had already gone."
+      }
+    ],
+    "origin": {
+      "source": "辛弃疾《青玉案·元夕》",
+      "story": {
+        "en": "'Searching for her in the crowd a thousand times, I turn suddenly, and she is there, where the lamplight is dim' (众里寻他千百度，蓦然回首，那人却在，灯火阑珊处).",
+        "zh": "辛弃疾《青玉案·元夕》：“众里寻他千百度。蓦然回首，那人却在，灯火阑珊处。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted in 'Qing Yu An'; used for sudden insight or realisation.",
+      "zh": "多引辛弃疾词句，形容突然的领悟或发现。"
+    },
+    "synonyms": [
+      "回头是岸",
+      "恍然大悟"
+    ],
+    "antonyms": [
+      "视而不见"
+    ]
+  },
+  {
+    "id": "ben-gu-zhi-rong",
+    "text": "本固枝荣",
+    "pinyin": "běn gù zhī róng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "plant-and-natural-world",
+      "natural-consequences"
+    ],
+    "literal": "root · firm · branch · flourish",
+    "natural": "firm roots, flourishing branches",
+    "meaning": {
+      "en": "When the root is firm, the branches flourish; a strong foundation brings prosperity.",
+      "zh": "树根稳固，枝叶才茂盛，比喻基础牢固，事业才能兴旺。"
+    },
+    "equivalents": [
+      "a strong base brings prosperity",
+      "firm roots, thriving branches"
+    ],
+    "examples": [
+      {
+        "zh": "国家要本固枝荣，必须重视教育和人才。",
+        "en": "For a country to prosper on firm roots, it must value education and talent."
+      },
+      {
+        "zh": "家业传承，本固枝荣，靠的是代代积德。",
+        "en": "A family business lasts when roots are firm, built on generations of good deeds."
+      }
+    ],
+    "usage": {
+      "en": "Often used for family, nation or company; the focus is on the foundation (本).",
+      "zh": "常用于国家、家族、企业，强调根基（本）。"
+    },
+    "synonyms": [
+      "根深叶茂",
+      "根深蒂固"
+    ],
+    "antonyms": [
+      "无本之木",
+      "根基不稳"
+    ]
+  },
+  {
+    "id": "gan-ju-xia-you",
+    "text": "甘居下游",
+    "pinyin": "gān jū xià yóu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "modest-goals",
+      "failed-ambitions"
+    ],
+    "literal": "willing · stay · lower · stream",
+    "natural": "content to stay downstream",
+    "meaning": {
+      "en": "To be content to lag behind and make no effort to excel.",
+      "zh": "甘心处于落后的地位，不求上进。"
+    },
+    "equivalents": [
+      "be content to lag behind",
+      "settle for second best"
+    ],
+    "examples": [
+      {
+        "zh": "我们不能甘居下游，要奋起直追。",
+        "en": "We cannot settle for lagging behind; we must catch up."
+      },
+      {
+        "zh": "他从不甘居下游，每次考试都争前列。",
+        "en": "He never settles for the bottom, always aiming for the top in exams."
+      }
+    ],
+    "usage": {
+      "en": "Mostly negated: 不甘居下游 (unwilling to lag behind); used in exhortations.",
+      "zh": "多用否定式“不甘居下游”，用于鼓励。"
+    },
+    "synonyms": [
+      "自甘落后",
+      "安于现状"
+    ],
+    "antonyms": [
+      "力争上游",
+      "后来居上"
+    ]
+  },
+  {
+    "id": "guang-qian-yu-hou",
+    "text": "光前裕后",
+    "pinyin": "guāng qián yù hòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "parenting-and-family",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "glorify · ancestors · enrich · descendants",
+    "natural": "glorify forebears, enrich descendants",
+    "meaning": {
+      "en": "To bring honour to one's forebears and leave a rich legacy to one's descendants.",
+      "zh": "光大前人的事业，造福后代子孙。"
+    },
+    "equivalents": [
+      "honour the ancestors and bless the descendants",
+      "build a lasting legacy"
+    ],
+    "examples": [
+      {
+        "zh": "他创办学校，光前裕后，被乡里称颂。",
+        "en": "He founded a school, honouring his ancestors and benefiting later generations, and the locals praised him."
+      },
+      {
+        "zh": "先辈开基立业，后人当光前裕后。",
+        "en": "Our forebears built the business; their descendants must carry it on and enrich it."
+      }
+    ],
+    "usage": {
+      "en": "Used in congratulations and family history writing.",
+      "zh": "常用于贺词和家史记述。"
+    },
+    "synonyms": [
+      "光宗耀祖",
+      "承前启后"
+    ],
+    "antonyms": [
+      "辱没祖先",
+      "败坏门风"
+    ]
+  },
+  {
+    "id": "guang-jie-shan-yuan",
+    "text": "广结善缘",
+    "pinyin": "guǎng jié shàn yuán",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities",
+      "buddhist-origin"
+    ],
+    "literal": "widely · form · good · affinities",
+    "natural": "form good affinities widely",
+    "meaning": {
+      "en": "To build many good relationships and do good works widely, so as to be well-regarded and enjoy good fortune.",
+      "zh": "广泛与人结下好的缘分，多做善事，多交朋友。"
+    },
+    "equivalents": [
+      "make lots of good connections",
+      "cultivate goodwill widely"
+    ],
+    "examples": [
+      {
+        "zh": "做生意要广结善缘，朋友多了路才宽。",
+        "en": "In business you should build goodwill widely; more friends means more paths."
+      },
+      {
+        "zh": "他一生广结善缘，晚年得到许多帮助。",
+        "en": "All his life he made good connections and received much help in old age."
+      }
+    ],
+    "usage": {
+      "en": "Buddhist flavour; today also used for networking in a warm sense.",
+      "zh": "带佛教色彩，今也指广交朋友、人缘好。"
+    },
+    "synonyms": [
+      "广交朋友",
+      "与人为善"
+    ],
+    "antonyms": [
+      "四面树敌",
+      "孤家寡人"
+    ]
+  },
+  {
+    "id": "jiao-you-guang-kuo",
+    "text": "交游广阔",
+    "pinyin": "jiāo yóu guǎng kuò",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "positive-character-qualities"
+    ],
+    "literal": "associate · roam · wide · broad",
+    "natural": "wide circle of acquaintances",
+    "meaning": {
+      "en": "To have many friends and acquaintances in all walks of life.",
+      "zh": "朋友和熟人很多，社交面很广。"
+    },
+    "equivalents": [
+      "well connected",
+      "a wide social circle"
+    ],
+    "examples": [
+      {
+        "zh": "他交游广阔，各行各业都有朋友。",
+        "en": "He is well connected, with friends in every trade."
+      },
+      {
+        "zh": "一个记者交游广阔，消息自然灵通。",
+        "en": "A reporter with a wide circle of contacts is naturally well informed."
+      }
+    ],
+    "usage": {
+      "en": "Neutral to positive; can hint at being a social butterfly.",
+      "zh": "中性偏褒，有时暗含爱交际。"
+    },
+    "synonyms": [
+      "交友甚广",
+      "朋友遍天下"
+    ],
+    "antonyms": [
+      "孤陋寡闻",
+      "离群索居"
+    ]
+  }
+]

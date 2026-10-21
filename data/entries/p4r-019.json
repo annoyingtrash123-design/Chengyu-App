@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "nao-zhong-qu-jing",
+    "text": "闹中取静",
+    "pinyin": "nào zhōng qǔ jìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "relaxation-and-rest",
+      "contentment-and-simplicity"
+    ],
+    "literal": "noise · amid · take · quiet",
+    "natural": "find quiet amid noise",
+    "meaning": {
+      "en": "To find a quiet spot or calm mind in the midst of a busy, noisy place.",
+      "zh": "在喧闹的环境中寻找清静，或保持内心平静。"
+    },
+    "equivalents": [
+      "find peace in the bustle",
+      "an oasis of quiet in a busy place"
+    ],
+    "examples": [
+      {
+        "zh": "这家茶馆闹中取静，是都市人休憩的好去处。",
+        "en": "This teahouse is a quiet nook in a busy area, a good place for city folk to rest."
+      },
+      {
+        "zh": "他练就了闹中取静的本事，嘈杂中也能读书。",
+        "en": "He has learned to find calm amid noise and can read even in a racket."
+      }
+    ],
+    "usage": {
+      "en": "Often describes houses, cafes or parks; also an inner skill.",
+      "zh": "常形容住宅、茶馆、公园等；也可指内心修养。"
+    },
+    "synonyms": [
+      "大隐隐于市",
+      "心静自然凉"
+    ],
+    "antonyms": [
+      "喧嚣尘上",
+      "吵吵闹闹"
+    ]
+  },
+  {
+    "id": "ning-wei-ji-kou",
+    "text": "宁为鸡口",
+    "pinyin": "nìng wéi jī kǒu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "high-aspirations",
+      "attitude-humble-vs-arrogant",
+      "historical-records"
+    ],
+    "literal": "rather · be · chicken · beak",
+    "natural": "rather be a chicken's beak",
+    "meaning": {
+      "en": "Better to lead in a small group than to trail in a large one; usually quoted with 无为牛后.",
+      "zh": "宁愿在小的地方当首领，也不愿在大的地方听人指使。"
+    },
+    "equivalents": [
+      "better a big fish in a small pond",
+      "rather lead small than follow big"
+    ],
+    "examples": [
+      {
+        "zh": "他辞去大公司的职位，宁为鸡口，不为牛后，自己开了家小店。",
+        "en": "He left a big firm, preferring to be head of a small shop rather than the tail of a large one."
+      },
+      {
+        "zh": "宁为鸡口，不为牛后，她选择去小城市当主管。",
+        "en": "Better to lead in a small place than follow in a big one, she took a manager's job in a small town."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·韩策一》",
+      "story": {
+        "en": "Su Qin persuaded the King of Han: 'Better to be the beak of a chicken than the rear of an ox' (宁为鸡口，无为牛后), urging him not to submit to Qin.",
+        "zh": "《战国策·韩策一》：“臣闻鄙语曰：‘宁为鸡口，无为牛后。’”"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted in full: 宁为鸡口，无为牛后. Sometimes nuanced as self-respect, sometimes as lack of ambition.",
+      "zh": "常整句引用“宁为鸡口，无为牛后”，既可表自尊也可暗含不够进取。"
+    },
+    "synonyms": [
+      "宁为玉碎",
+      "自立门户"
+    ],
+    "antonyms": [
+      "寄人篱下",
+      "甘居人后"
+    ]
+  },
+  {
+    "id": "po-yan-yi-xiao",
+    "text": "破颜一笑",
+    "pinyin": "pò yán yī xiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "joy-and-happiness"
+    ],
+    "literal": "break · face · one · smile",
+    "natural": "a face breaks into a smile",
+    "meaning": {
+      "en": "To break into a smile, as the face relaxes from seriousness.",
+      "zh": "绽开笑脸，由严肃转为欢笑。"
+    },
+    "equivalents": [
+      "break into a smile",
+      "crack a smile"
+    ],
+    "examples": [
+      {
+        "zh": "听到这个好消息，他破颜一笑。",
+        "en": "Hearing the good news, he broke into a smile."
+      },
+      {
+        "zh": "老师见学生认错，破颜一笑，不再责备。",
+        "en": "Seeing the student own up, the teacher smiled and stopped scolding."
+      }
+    ],
+    "usage": {
+      "en": "Literary; the subject's face is stern before it smiles.",
+      "zh": "书面语，常暗示之前神情严肃。"
+    },
+    "synonyms": [
+      "眉开眼笑",
+      "莞尔一笑"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "勃然大怒"
+    ]
+  },
+  {
+    "id": "xi-shi-zhen-bao",
+    "text": "稀世珍宝",
+    "pinyin": "xī shì zhēn bǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "unprecedented-situations"
+    ],
+    "literal": "rare · world · precious · treasure",
+    "natural": "a treasure rare in the world",
+    "meaning": {
+      "en": "A priceless treasure the like of which is rarely seen.",
+      "zh": "世上少有的珍贵宝物。"
+    },
+    "equivalents": [
+      "a priceless rarity",
+      "a one-of-a-kind treasure"
+    ],
+    "examples": [
+      {
+        "zh": "博物馆里陈列着几件稀世珍宝。",
+        "en": "The museum displays several priceless treasures."
+      },
+      {
+        "zh": "这幅古画是稀世珍宝，价值连城。",
+        "en": "This old painting is a unique treasure worth a fortune."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase; for artifacts, gems and national treasures.",
+      "zh": "名词性短语，多指文物、宝石、国宝。"
+    },
+    "synonyms": [
+      "价值连城",
+      "无价之宝"
+    ],
+    "antonyms": [
+      "一文不值",
+      "廉价品"
+    ]
+  },
+  {
+    "id": "zao-hua-nong-ren",
+    "text": "造化弄人",
+    "pinyin": "zào huà nòng rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "bad-fortune",
+      "sadness-and-despair"
+    ],
+    "literal": "fate · nature · toy with · people",
+    "natural": "fate toys with people",
+    "meaning": {
+      "en": "Fate plays tricks on people; things turn out cruelly contrary to one's wishes.",
+      "zh": "命运捉弄人，事情发展与人的意愿相反。"
+    },
+    "equivalents": [
+      "fate is cruel",
+      "a cruel twist of fate"
+    ],
+    "examples": [
+      {
+        "zh": "两人相爱却终成陌路，真是造化弄人。",
+        "en": "They loved each other yet ended as strangers; truly fate toys with us."
+      },
+      {
+        "zh": "他苦读多年，却在考前生病，造化弄人。",
+        "en": "After years of study he fell ill before the exam, a cruel twist of fate."
+      }
+    ],
+    "usage": {
+      "en": "Often used as a sigh after an unlucky outcome.",
+      "zh": "常作感叹，用于不如意的结局之后。"
+    },
+    "synonyms": [
+      "命运多舛",
+      "时乖运蹇"
+    ],
+    "antonyms": [
+      "心想事成",
+      "天遂人愿"
+    ]
+  },
+  {
+    "id": "gan-dan-ju-lie",
+    "text": "肝胆俱裂",
+    "pinyin": "gān dǎn jù liè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "心胆俱裂"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "fear-and-cowardice"
+    ],
+    "literal": "liver · gall · both · burst",
+    "natural": "liver and gall both burst",
+    "meaning": {
+      "en": "Overwhelmed by fear, as if one's liver and gall were splitting; terrified.",
+      "zh": "吓得肝和胆都要裂开，形容惊恐到极点。"
+    },
+    "equivalents": [
+      "scared out of one's wits",
+      "terrified to the core"
+    ],
+    "examples": [
+      {
+        "zh": "听到那声巨响，众人肝胆俱裂。",
+        "en": "At that great crash, everyone was terrified out of their wits."
+      },
+      {
+        "zh": "他看见猛虎扑来，吓得肝胆俱裂。",
+        "en": "He saw the tiger leap and was frozen with fear."
+      }
+    ],
+    "usage": {
+      "en": "Fear or, rarely, grief. 心胆俱裂 is a variant.",
+      "zh": "形容极度恐惧，偶尔也指悲痛；心胆俱裂是异形。"
+    },
+    "synonyms": [
+      "魂飞魄散",
+      "胆战心惊"
+    ],
+    "antonyms": [
+      "临危不惧",
+      "面不改色"
+    ]
+  },
+  {
+    "id": "xin-dang-shen-chi",
+    "text": "心荡神驰",
+    "pinyin": "xīn dàng shén chí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "complex-emotional-states",
+      "distracted-attention"
+    ],
+    "literal": "heart · sway · spirit · race",
+    "natural": "heart stirred, spirit racing",
+    "meaning": {
+      "en": "To be so captivated or moved that one's thoughts drift away; entranced.",
+      "zh": "心神摇荡，被深深吸引或感动，难以自持。"
+    },
+    "equivalents": [
+      "be entranced",
+      "be carried away"
+    ],
+    "examples": [
+      {
+        "zh": "那首曲子让人心荡神驰。",
+        "en": "That melody leaves people entranced."
+      },
+      {
+        "zh": "他看着湖光山色，不禁心荡神驰。",
+        "en": "Gazing at the lake and mountains, he was swept away."
+      }
+    ],
+    "usage": {
+      "en": "Can be of beauty or of romantic attraction; neutral by itself.",
+      "zh": "可指美景，也可指爱慕，本身中性。"
+    },
+    "synonyms": [
+      "神魂颠倒",
+      "如痴如醉"
+    ],
+    "antonyms": [
+      "心如止水",
+      "无动于衷"
+    ]
+  },
+  {
+    "id": "qing-mei-zhu-jiu",
+    "text": "青梅煮酒",
+    "pinyin": "qīng méi zhǔ jiǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "three-kingdoms",
+      "relaxation-and-rest",
+      "friendship"
+    ],
+    "literal": "green · plum · warm · wine",
+    "natural": "warm wine with green plums",
+    "meaning": {
+      "en": "Drinking warmed wine with green plums while discussing great matters; the Three Kingdoms scene where Cao Cao and Liu Bei discuss who the world's heroes are.",
+      "zh": "用青梅下酒，煮酒论英雄，借指畅谈天下大事。"
+    },
+    "equivalents": [
+      "a heroes' wine session",
+      "discuss big matters over wine"
+    ],
+    "examples": [
+      {
+        "zh": "两位老友青梅煮酒，纵谈天下大势。",
+        "en": "Two old friends sat down with wine and plums to talk about the state of the world."
+      },
+      {
+        "zh": "青梅煮酒论英雄，曹操这一问试探的是刘备。",
+        "en": "Over plums and wine Cao Cao's question was a test of Liu Bei."
+      }
+    ],
+    "origin": {
+      "source": "《三国演义》第二十一回",
+      "story": {
+        "en": "Cao Cao invites Liu Bei to drink wine and pick green plums, and declares that only the two of them are heroes of the age, startling Liu Bei.",
+        "zh": "《三国演义》第二十一回：“曹操曰：‘今天下英雄，惟使君与操耳。’”"
+      }
+    },
+    "usage": {
+      "en": "Literary, often in the full phrase 青梅煮酒论英雄. Used for relaxed but weighty conversation.",
+      "zh": "常说“青梅煮酒论英雄”，指轻松又重大的谈话。"
+    },
+    "synonyms": [
+      "煮酒论英雄",
+      "把酒言欢"
+    ],
+    "antonyms": [
+      "话不投机"
+    ]
+  },
+  {
+    "id": "su-qin-ci-gu",
+    "text": "苏秦刺股",
+    "pinyin": "sū qín cì gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "reading-and-study",
+      "historical-records"
+    ],
+    "literal": "Su · Qin · prick · thigh",
+    "natural": "Su Qin pricks his thigh",
+    "meaning": {
+      "en": "Su Qin jabbed his thigh with an awl to stay awake while studying; diligence in study.",
+      "zh": "战国苏秦读书困倦时用锥刺大腿，形容刻苦读书。"
+    },
+    "equivalents": [
+      "study with grim determination",
+      "jab oneself awake to study"
+    ],
+    "examples": [
+      {
+        "zh": "学子们苏秦刺股，只为金榜题名。",
+        "en": "The students studied as relentlessly as Su Qin, hoping for success in the exams."
+      },
+      {
+        "zh": "他如苏秦刺股般苦读，终于考上理想的大学。",
+        "en": "He studied like Su Qin with his awl and finally entered his dream university."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·秦策一》",
+      "story": {
+        "en": "Su Qin, after failing to impress the King of Qin, studied by night; when drowsy he stabbed his thigh with an awl until blood flowed (引锥自刺其股，血流至足).",
+        "zh": "《战国策·秦策一》：“读书欲睡，引锥自刺其股，血流至足。”"
+      }
+    },
+    "usage": {
+      "en": "Often paired with 孙敬悬梁; for laborious study. It is a different story from 悬梁刺股.",
+      "zh": "常与“头悬梁”故事并举；与成语“悬梁刺股”有关但不同。"
+    },
+    "synonyms": [
+      "悬梁刺股",
+      "凿壁偷光"
+    ],
+    "antonyms": [
+      "不思进取",
+      "荒废学业"
+    ]
+  },
+  {
+    "id": "chen-zhou-ce-pan",
+    "text": "沉舟侧畔",
+    "pinyin": "chén zhōu cè pàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "comebacks-and-renewal"
+    ],
+    "literal": "sunken · boat · beside · bank",
+    "natural": "beside the sunken boat",
+    "meaning": {
+      "en": "Beside a sunken ship, a thousand sails pass; old things fall while new ones thrive, so do not lose heart in setbacks.",
+      "zh": "沉船旁边有千帆驶过，比喻旧事物衰亡，新事物蓬勃兴起，也勉励人不要因挫折而消沉。"
+    },
+    "equivalents": [
+      "new things rise as old ones fall",
+      "don't be disheartened by setbacks"
+    ],
+    "examples": [
+      {
+        "zh": "沉舟侧畔千帆过，旧产业衰落，新行业正在崛起。",
+        "en": "Beside the sunken boat a thousand sails pass; old industries fade, new ones rise."
+      },
+      {
+        "zh": "遇到挫折别灰心，沉舟侧畔，机会仍然很多。",
+        "en": "Do not lose heart after setbacks; beside the sunken boat there are still many chances."
+      }
+    ],
+    "origin": {
+      "source": "刘禹锡《酬乐天扬州初逢席上见赠》",
+      "story": {
+        "en": "'Beside the sunken boat a thousand sails pass; before the sick tree ten thousand trees spring' (沉舟侧畔千帆过，病树前头万木春).",
+        "zh": "刘禹锡：“沉舟侧畔千帆过，病树前头万木春。”"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted with 病树前头万木春. Optimistic.",
+      "zh": "常与“病树前头万木春”连用，乐观积极。"
+    },
+    "synonyms": [
+      "东山再起",
+      "柳暗花明"
+    ],
+    "antonyms": [
+      "一蹶不振",
+      "万念俱灰"
+    ]
+  },
+  {
+    "id": "qian-fan-guo-jin",
+    "text": "千帆过尽",
+    "pinyin": "qiān fān guò jìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poems-prose",
+      "sadness-and-despair"
+    ],
+    "literal": "thousand · sails · pass · end",
+    "natural": "a thousand sails have all passed",
+    "meaning": {
+      "en": "A thousand sails have passed and the one you wait for is not among them; long waiting ending in disappointment, or an experienced person who has seen it all.",
+      "zh": "千百条帆船都驶过了，等待的人却没有出现，形容久盼落空；也指阅历丰富。"
+    },
+    "equivalents": [
+      "wait in vain",
+      "having seen it all"
+    ],
+    "examples": [
+      {
+        "zh": "千帆过尽，她仍站在码头守望。",
+        "en": "A thousand sails have passed, and she still stands on the pier watching."
+      },
+      {
+        "zh": "千帆过尽，他终于明白什么才是最珍贵的。",
+        "en": "After all he has seen, he finally knows what is most precious."
+      }
+    ],
+    "origin": {
+      "source": "温庭筠《望江南》",
+      "story": {
+        "en": "In 'Wang Jiangnan': 'A thousand sails passed, none was the one' (过尽千帆皆不是).",
+        "zh": "温庭筠《望江南》：“过尽千帆皆不是，斜晖脉脉水悠悠。”"
+      }
+    },
+    "usage": {
+      "en": "Poetic. Both a wistful and a worldly-wise reading are possible.",
+      "zh": "诗意用语，既可表怅惘，也可表阅尽世事。"
+    },
+    "synonyms": [
+      "望眼欲穿",
+      "阅人无数"
+    ],
+    "antonyms": [
+      "如愿以偿",
+      "重逢"
+    ]
+  },
+  {
+    "id": "chi-yan-xiao-peng",
+    "text": "斥鷃笑鹏",
+    "pinyin": "chì yàn xiào péng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "attitude-humble-vs-arrogant",
+      "daoist-classics"
+    ],
+    "literal": "quail · quail · mock · roc",
+    "natural": "the quail laughs at the roc",
+    "meaning": {
+      "en": "A tiny quail laughing at the giant roc; narrow-minded people sneering at great ambitions they cannot understand.",
+      "zh": "小鸟嘲笑大鹏，比喻见识浅薄的人讥笑有远大志向的人。"
+    },
+    "equivalents": [
+      "small minds mock big dreams",
+      "the sparrow scoffs at the eagle"
+    ],
+    "examples": [
+      {
+        "zh": "他志向远大，却遭人斥鷃笑鹏式的嘲讽。",
+        "en": "His ambitions are high, yet he was mocked by small minds."
+      },
+      {
+        "zh": "别学斥鷃笑鹏，狭隘地看待别人的理想。",
+        "en": "Don't be like the quail laughing at the roc, narrowly judging others' dreams."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·逍遥游》",
+      "story": {
+        "en": "Zhuangzi: a quail jeers at the roc flying ninety thousand miles, 'Where does he think he's going? I leap up and down and need no more' (斥鴳笑之曰：彼且奚适也).",
+        "zh": "《庄子·逍遥游》：“斥鴳笑之曰：‘彼且奚适也？我腾跃而上，不过数仞而下。’”"
+      }
+    },
+    "usage": {
+      "en": "Derogatory toward the mocker; 鷃 reads yàn.",
+      "zh": "贬低嘲笑者；鷃读 yàn。"
+    },
+    "synonyms": [
+      "燕雀安知鸿鹄之志",
+      "井底之蛙"
+    ],
+    "antonyms": [
+      "鲲鹏展翅",
+      "志存高远"
+    ]
+  },
+  {
+    "id": "duan-gang-jue-huang",
+    "text": "断港绝潢",
+    "pinyin": "duàn gǎng jué huáng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "dead-ends-and-desperation",
+      "learning-difficulties"
+    ],
+    "literal": "cut · harbour · cut · pond",
+    "natural": "a dead-end channel and a stagnant pond",
+    "meaning": {
+      "en": "Cut-off waterways and stagnant ponds that never reach the sea; hopeless situations or a narrow path that leads nowhere in scholarship.",
+      "zh": "与大海不通的断头港和死水池，比喻没有出路，或学问走错了路径。"
+    },
+    "equivalents": [
+      "a dead-end path",
+      "an approach that leads nowhere"
+    ],
+    "examples": [
+      {
+        "zh": "这种研究方法如同断港绝潢，不会有结果。",
+        "en": "This research method is a dead-end channel and will not lead anywhere."
+      },
+      {
+        "zh": "他不愿做断港绝潢式的学问，转而从事应用研究。",
+        "en": "He did not want to pursue a scholarship with no outlet and turned to applied research."
+      }
+    ],
+    "usage": {
+      "en": "Quite rare; used in academic or literary criticism.",
+      "zh": "较生僻，多用于学术或文学评论。"
+    },
+    "synonyms": [
+      "山穷水尽",
+      "穷途末路"
+    ],
+    "antonyms": [
+      "柳暗花明",
+      "大道通天"
+    ]
+  },
+  {
+    "id": "bei-men-zhi-tan",
+    "text": "北门之叹",
+    "pinyin": "běi mén zhī tàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "poverty-and-hardship",
+      "poems-prose"
+    ],
+    "literal": "north · gate · of · sigh",
+    "natural": "the sigh at the north gate",
+    "meaning": {
+      "en": "The lament of an official who works hard yet remains poor.",
+      "zh": "指官职卑微、生活贫困而辛劳的叹息。"
+    },
+    "equivalents": [
+      "the sigh of the overworked and poor",
+      "lament of the toiling underling"
+    ],
+    "examples": [
+      {
+        "zh": "他为公务奔波却仍清贫，常发北门之叹。",
+        "en": "He ran about on official duty yet stayed poor, often sighing about it."
+      },
+      {
+        "zh": "底层小吏的北门之叹，千年不绝。",
+        "en": "The lament of lowly clerks has gone on for a thousand years."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·邶风·北门》",
+      "story": {
+        "en": "The ode 'Bei Men' laments: 'I go out the north gate, my heart heavy; poor and in need, no one knows my hardship' (出自北门，忧心殷殷。终窭且贫，莫知我艰).",
+        "zh": "《诗经·邶风·北门》：“出自北门，忧心殷殷。终窭且贫，莫知我艰。”"
+      }
+    },
+    "usage": {
+      "en": "Allusive; typically for low-ranking officials or hard-working people short of money.",
+      "zh": "典故用语，多指小吏或辛劳而贫苦的人。"
+    },
+    "synonyms": [
+      "怀才不遇",
+      "穷困潦倒"
+    ],
+    "antonyms": [
+      "飞黄腾达",
+      "养尊处优"
+    ]
+  },
+  {
+    "id": "bei-jin-qi-fei",
+    "text": "贝锦萋斐",
+    "pinyin": "bèi jǐn qī fěi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "deception-and-false-appearances",
+      "poems-prose"
+    ],
+    "literal": "shell · brocade · intricate · patterned",
+    "natural": "shell-patterned brocade, intricately woven",
+    "meaning": {
+      "en": "Intricate patterned brocade woven from slander; piling up words to frame an innocent person.",
+      "zh": "把谗言编织成华美的锦缎，比喻罗织罪名，诬陷好人。"
+    },
+    "equivalents": [
+      "slander woven into a fine fabric",
+      "a framed accusation"
+    ],
+    "examples": [
+      {
+        "zh": "奸臣贝锦萋斐，终使忠良蒙冤。",
+        "en": "The treacherous minister wove a web of slander and in the end the loyal were wronged."
+      },
+      {
+        "zh": "面对贝锦萋斐般的谣言，他选择沉默。",
+        "en": "Facing a patchwork of rumours, he chose to say nothing."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·小雅·巷伯》",
+      "story": {
+        "en": "'Patterned and intricate, shells make a brocade; those who slander build up a great case' (萋兮斐兮，成是贝锦。彼谮人者，亦已大甚).",
+        "zh": "《诗经·小雅·巷伯》：“萋兮斐兮，成是贝锦。彼谮人者，亦已大甚！”"
+      }
+    },
+    "usage": {
+      "en": "Rare, literary. The brocade is a metaphor for slander.",
+      "zh": "生僻书面语，“锦”比喻谗言。"
+    },
+    "synonyms": [
+      "谗言惑众",
+      "罗织罪名"
+    ],
+    "antonyms": [
+      "清白无辜",
+      "澄清事实"
+    ]
+  },
+  {
+    "id": "bian-hu-qi-min",
+    "text": "编户齐民",
+    "pinyin": "biān hù qí mín",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "rare-idioms",
+      "historical-periods",
+      "common-and-worthless"
+    ],
+    "literal": "register · household · equal · people",
+    "natural": "registered households, equal subjects",
+    "meaning": {
+      "en": "Ordinary commoners listed on the household registers, as opposed to nobles.",
+      "zh": "编入户籍的平民百姓，指非贵族的普通人。"
+    },
+    "equivalents": [
+      "ordinary registered commoners",
+      "the common people on the rolls"
+    ],
+    "examples": [
+      {
+        "zh": "汉代的编户齐民要承担赋税和徭役。",
+        "en": "Commoners on the rolls in the Han had to pay taxes and do labour service."
+      },
+      {
+        "zh": "他出身编户齐民，靠科举改变命运。",
+        "en": "He came from a commoner family and changed his fate through the exams."
+      }
+    ],
+    "usage": {
+      "en": "Historical term, used in history writing.",
+      "zh": "历史名词，多用于史论。"
+    },
+    "synonyms": [
+      "平民百姓",
+      "布衣"
+    ],
+    "antonyms": [
+      "王公贵族",
+      "世家大族"
+    ]
+  },
+  {
+    "id": "ce-er-qing-ting",
+    "text": "侧耳倾听",
+    "pinyin": "cè ěr qīng tīng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "rare-idioms",
+      "mental-clarity"
+    ],
+    "literal": "tilt · ear · lean · listen",
+    "natural": "tilt the ear and listen",
+    "meaning": {
+      "en": "To tilt one's head and listen closely and attentively.",
+      "zh": "偏着头，专心细听。"
+    },
+    "equivalents": [
+      "listen closely",
+      "prick up one's ears"
+    ],
+    "examples": [
+      {
+        "zh": "他侧耳倾听，想分辨远处传来的声音。",
+        "en": "He cocked his ear, trying to make out the sound in the distance."
+      },
+      {
+        "zh": "大家侧耳倾听老人讲过去的故事。",
+        "en": "Everyone listened attentively as the old man told of the past."
+      }
+    ],
+    "usage": {
+      "en": "Neutral and everyday; also used figuratively for listening to the people's voice.",
+      "zh": "中性，常用，也可比喻倾听群众意见。"
+    },
+    "synonyms": [
+      "洗耳恭听",
+      "凝神静听"
+    ],
+    "antonyms": [
+      "充耳不闻",
+      "置若罔闻"
+    ]
+  },
+  {
+    "id": "chan-you-fa-wei",
+    "text": "阐幽发微",
+    "pinyin": "chǎn yōu fā wēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "reading-and-study",
+      "academic-achievement"
+    ],
+    "literal": "expound · obscure · reveal · subtle",
+    "natural": "explain the obscure, bring out the subtle",
+    "meaning": {
+      "en": "To explain obscure or subtle points and bring hidden meanings to light.",
+      "zh": "阐明深奥隐晦的道理，发掘细微的含义。"
+    },
+    "equivalents": [
+      "bring hidden meanings to light",
+      "elucidate the obscure"
+    ],
+    "examples": [
+      {
+        "zh": "这部著作阐幽发微，使古籍焕发新意。",
+        "en": "This work elucidates the obscure and brings new life to the ancient text."
+      },
+      {
+        "zh": "他在论文中阐幽发微，提出了新见解。",
+        "en": "In his paper he brought out subtle points and offered new views."
+      }
+    ],
+    "usage": {
+      "en": "Positive; for scholarship and commentary.",
+      "zh": "含褒义，用于学术和注释。"
+    },
+    "synonyms": [
+      "钩深致远",
+      "发凡起例"
+    ],
+    "antonyms": [
+      "含糊其辞",
+      "泛泛而谈"
+    ]
+  },
+  {
+    "id": "chang-qiang-da-ji",
+    "text": "长枪大戟",
+    "pinyin": "cháng qiāng dà jǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory"
+    ],
+    "literal": "long · spear · big · halberd",
+    "natural": "long spears and big halberds",
+    "meaning": {
+      "en": "Long spears and big halberds; heavy weapons of the old army, often used for an imposing, fully armed force.",
+      "zh": "长长的枪和大大的戟，泛指古代武器，也形容兵器精良、阵容强大。"
+    },
+    "equivalents": [
+      "a full array of weapons",
+      "heavy weaponry"
+    ],
+    "examples": [
+      {
+        "zh": "城头上长枪大戟，戒备森严。",
+        "en": "On the walls long spears and halberds stood in strict guard."
+      },
+      {
+        "zh": "影视剧里常见长枪大戟的将士。",
+        "en": "Soldiers armed with spears and halberds are common in historical dramas."
+      }
+    ],
+    "usage": {
+      "en": "Also contrasts with 'small knives and light weapons'; 戟 reads jǐ.",
+      "zh": "也可与短兵相对；戟读 jǐ。"
+    },
+    "synonyms": [
+      "刀枪剑戟",
+      "全副武装"
+    ],
+    "antonyms": [
+      "赤手空拳",
+      "手无寸铁"
+    ]
+  },
+  {
+    "id": "chang-shen-yu-li",
+    "text": "长身玉立",
+    "pinyin": "cháng shēn yù lì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "tall · body · jade · stand",
+    "natural": "tall as a jade pillar",
+    "meaning": {
+      "en": "To be tall and slender with a graceful bearing.",
+      "zh": "身材高大挺拔，风度俊秀。"
+    },
+    "equivalents": [
+      "tall and elegant",
+      "slender and graceful"
+    ],
+    "examples": [
+      {
+        "zh": "少年长身玉立，气质不凡。",
+        "en": "The young man stood tall and slender, with a rare air."
+      },
+      {
+        "zh": "他长身玉立，站在人群里格外显眼。",
+        "en": "Tall and graceful, he stood out in the crowd."
+      }
+    ],
+    "usage": {
+      "en": "Mostly of men or youths; 亭亭玉立 is for women.",
+      "zh": "多形容男子或少年；女子多用“亭亭玉立”。"
+    },
+    "synonyms": [
+      "玉树临风",
+      "身姿挺拔"
+    ],
+    "antonyms": [
+      "其貌不扬",
+      "佝偻"
+    ]
+  },
+  {
+    "id": "chi-cheng-sha-chang",
+    "text": "驰骋沙场",
+    "pinyin": "chí chěng shā chǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "military-strategy-and-victory",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "gallop · race · sand · field",
+    "natural": "gallop across the battlefield",
+    "meaning": {
+      "en": "To fight on the battlefield with dash and courage; to have a military career.",
+      "zh": "在战场上纵马奔驰，英勇作战。"
+    },
+    "equivalents": [
+      "fight boldly on the battlefield",
+      "a soldier's career"
+    ],
+    "examples": [
+      {
+        "zh": "老将军年轻时驰骋沙场，战功赫赫。",
+        "en": "In his youth the old general rode through battle and won great honours."
+      },
+      {
+        "zh": "他的梦想是像先辈一样驰骋沙场。",
+        "en": "His dream is to charge across the battlefield like his forebears."
+      }
+    ],
+    "usage": {
+      "en": "Also used for sport figuratively (驰骋赛场).",
+      "zh": "也可比喻在赛场上拼搏（驰骋赛场）。"
+    },
+    "synonyms": [
+      "南征北战",
+      "身经百战"
+    ],
+    "antonyms": [
+      "解甲归田",
+      "纸上谈兵"
+    ]
+  },
+  {
+    "id": "chi-shui-xing-bo",
+    "text": "尺水兴波",
+    "pinyin": "chǐ shuǐ xīng bō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "excellent-writing",
+      "unintended-results"
+    ],
+    "literal": "foot · water · raise · waves",
+    "natural": "a foot of water raising waves",
+    "meaning": {
+      "en": "A foot of water stirs up great waves; to make much of a small thing, and in writing to produce vivid drama from little material.",
+      "zh": "一尺水也能兴起波浪，比喻小事可以闹大，也指文章能从小题材中写出波澜。"
+    },
+    "equivalents": [
+      "a storm in a teacup",
+      "drama from small material"
+    ],
+    "examples": [
+      {
+        "zh": "一桩小纠纷，被他尺水兴波，闹得满城风雨。",
+        "en": "He blew a minor dispute up into a citywide uproar."
+      },
+      {
+        "zh": "好作家善于尺水兴波，把平凡小事写得跌宕起伏。",
+        "en": "A good writer can spin ups and downs out of trivial events."
+      }
+    ],
+    "usage": {
+      "en": "Negative when about exaggerating events, positive about writing skill.",
+      "zh": "指夸大事端时含贬义，指写作技巧时含褒义。"
+    },
+    "synonyms": [
+      "小题大做",
+      "无事生非"
+    ],
+    "antonyms": [
+      "化险为夷",
+      "息事宁人"
+    ]
+  },
+  {
+    "id": "chong-ru-xie-wang",
+    "text": "宠辱偕忘",
+    "pinyin": "chǒng rǔ xié wàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "rare-idioms",
+      "contentment-and-simplicity",
+      "positive-character-qualities",
+      "poems-prose"
+    ],
+    "literal": "favour · disgrace · together · forget",
+    "natural": "forget favour and disgrace alike",
+    "meaning": {
+      "en": "To be indifferent to both honour and disgrace, with a calm and lofty mind.",
+      "zh": "荣誉和耻辱都忘在脑后，形容心胸开阔、超然物外。"
+    },
+    "equivalents": [
+      "rise above praise and blame",
+      "be unmoved by honour or shame"
+    ],
+    "examples": [
+      {
+        "zh": "经历世事沉浮，他早已宠辱偕忘。",
+        "en": "After the ups and downs of life, he is long past caring about honour or disgrace."
+      },
+      {
+        "zh": "登上岳阳楼，宠辱偕忘，把酒临风。",
+        "en": "Climbing Yueyang Tower, one forgets praise and blame and enjoys wine in the breeze."
+      }
+    ],
+    "origin": {
+      "source": "范仲淹《岳阳楼记》",
+      "story": {
+        "en": "'Then one's heart is open and spirit glad, forgetting both favour and disgrace, lifting a cup in the breeze, delighted indeed' (心旷神怡，宠辱偕忘).",
+        "zh": "范仲淹《岳阳楼记》：“登斯楼也，则有心旷神怡，宠辱偕忘，把酒临风，其喜洋洋者矣。”"
+      }
+    },
+    "usage": {
+      "en": "A refined, positive state. Related to 宠辱不惊.",
+      "zh": "形容超脱的境界，含褒义；与“宠辱不惊”相近。"
+    },
+    "synonyms": [
+      "宠辱不惊",
+      "超然物外"
+    ],
+    "antonyms": [
+      "患得患失",
+      "斤斤计较"
+    ]
+  }
+]

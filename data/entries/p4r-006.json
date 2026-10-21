@@ -1,0 +1,930 @@
+[
+  {
+    "id": "yi-zhan-yang-zhan",
+    "text": "以战养战",
+    "pinyin": "yǐ zhàn yǎng zhàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "efficiency",
+      "rare-idioms"
+    ],
+    "literal": "use · war · support · war",
+    "natural": "feed war with war",
+    "meaning": {
+      "en": "To sustain a war with the supplies and resources seized in the war itself.",
+      "zh": "利用战争中掠夺来的物资和人力来维持战争。"
+    },
+    "equivalents": [
+      "live off the war",
+      "let war pay for war"
+    ],
+    "examples": [
+      {
+        "zh": "这支军队长期以战养战，靠缴获补充弹药和粮食。",
+        "en": "The army lived off the war for a long time, replenishing ammunition and grain from captured stock."
+      },
+      {
+        "zh": "历史上以战养战的做法，往往给占领地百姓带来深重灾难。",
+        "en": "Making war pay for itself has often brought deep suffering to the people of occupied lands."
+      }
+    ],
+    "usage": {
+      "en": "Mostly military or historical; usually carries a negative hint when the supplies are plundered from civilians. Predicate or attributive.",
+      "zh": "多用于军事、历史语境；若物资来自掠夺平民，则含贬义。作谓语、定语。"
+    },
+    "synonyms": [
+      "就地取材",
+      "因粮于敌"
+    ],
+    "antonyms": [
+      "坐吃山空",
+      "后勤充足"
+    ]
+  },
+  {
+    "id": "da-ren-xian-sheng",
+    "text": "大人先生",
+    "pinyin": "dà rén xiān shēng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "leadership-and-authority",
+      "rare-idioms"
+    ],
+    "literal": "great · man · gentleman",
+    "natural": "great gentlemen",
+    "meaning": {
+      "en": "Important personages; now usually said with irony of self-important officials.",
+      "zh": "指有地位、有身份的人；今多含讽刺，指自以为了不起的人。"
+    },
+    "equivalents": [
+      "bigwigs",
+      "self-important grandees"
+    ],
+    "examples": [
+      {
+        "zh": "那些大人先生们坐在主席台上，哪里知道百姓的难处。",
+        "en": "Those big shots on the platform have no idea what ordinary people go through."
+      },
+      {
+        "zh": "他不过是个小职员，却整天摆出大人先生的派头。",
+        "en": "He is only a clerk, yet he puts on the airs of a grandee all day."
+      }
+    ],
+    "origin": {
+      "source": "阮籍《大人先生传》",
+      "story": {
+        "en": "Ruan Ji (3rd century) wrote the 'Biography of Master Great Man' to portray a free and lofty figure who scorns petty conventions.",
+        "zh": "三国魏阮籍作《大人先生传》，塑造了一位超然物外、蔑视世俗礼法的理想人物。"
+      }
+    },
+    "usage": {
+      "en": "Ironic or mocking in modern use; from the title of Ruan Ji's essay, in which the 'great man' is a free spirit. Noun phrase.",
+      "zh": "现代多用于讽刺或嘲弄；出自阮籍《大人先生传》，原指超脱世俗的理想人物。名词性。"
+    },
+    "synonyms": [
+      "达官贵人",
+      "头面人物"
+    ],
+    "antonyms": [
+      "平民百姓",
+      "升斗小民"
+    ]
+  },
+  {
+    "id": "li-hai-de-shi",
+    "text": "利害得失",
+    "pinyin": "lì hài dé shī",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "利弊得失"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "poor-planning-and-hasty-decisions",
+      "rare-idioms"
+    ],
+    "literal": "benefit · harm · gain · loss",
+    "natural": "pros, cons, gains and losses",
+    "meaning": {
+      "en": "The advantages and disadvantages, the gains and losses of a course of action.",
+      "zh": "利益与损害，得到与失去，指做事所涉及的各种好坏后果。"
+    },
+    "equivalents": [
+      "pros and cons",
+      "what's to be gained and lost"
+    ],
+    "examples": [
+      {
+        "zh": "做决定前，先要权衡其中的利害得失。",
+        "en": "Before deciding, weigh up the gains and losses involved."
+      },
+      {
+        "zh": "他从不计较个人利害得失，一心为集体着想。",
+        "en": "He never counts his personal gain or loss and thinks only of the group."
+      }
+    ],
+    "usage": {
+      "en": "A neutral noun phrase, often the object of 计较、权衡、考虑. Typical of 'weighing' contexts.",
+      "zh": "中性名词性词组，常作“计较、权衡、考虑”的宾语。多用于权衡取舍的语境。"
+    },
+    "synonyms": [
+      "得失成败",
+      "权衡轻重"
+    ],
+    "antonyms": [
+      "不计得失",
+      "漠不关心"
+    ]
+  },
+  {
+    "id": "bei-er-bu-yong",
+    "text": "备而不用",
+    "pinyin": "bèi ér bù yòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "wisdom",
+      "useful-tools-and-skill",
+      "rare-idioms"
+    ],
+    "literal": "prepare · but · not · use",
+    "natural": "prepared but not used",
+    "meaning": {
+      "en": "To prepare something as a precaution, even though it may never be needed.",
+      "zh": "事先准备好，但不一定使用，以防万一。"
+    },
+    "equivalents": [
+      "have in reserve",
+      "a precaution that may never be used"
+    ],
+    "examples": [
+      {
+        "zh": "这套应急预案备而不用，但绝不能没有。",
+        "en": "The emergency plan may never be used, but it must exist."
+      },
+      {
+        "zh": "消防设施备而不用，才是最好的结果。",
+        "en": "Fire equipment that is kept ready and never used is the best outcome."
+      }
+    ],
+    "usage": {
+      "en": "Positive attitude of foresight; used in safety, security and planning contexts. Predicate or attributive.",
+      "zh": "体现未雨绸缪的态度；用于安全、防备、规划语境。作谓语、定语。"
+    },
+    "synonyms": [
+      "未雨绸缪",
+      "有备无患"
+    ],
+    "antonyms": [
+      "临渴掘井",
+      "亡羊补牢"
+    ]
+  },
+  {
+    "id": "qun-dai-guan-xi",
+    "text": "裙带关系",
+    "pinyin": "qún dài guān xì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice",
+      "rare-idioms"
+    ],
+    "literal": "skirt · belt · relationship",
+    "natural": "apron-string connections",
+    "meaning": {
+      "en": "Favouritism based on family ties, especially through wives and female relatives; nepotism.",
+      "zh": "指靠妻女姐妹等亲属关系攀附、结成的私人关系，泛指任人唯亲。"
+    },
+    "equivalents": [
+      "nepotism",
+      "jobs for the boys"
+    ],
+    "examples": [
+      {
+        "zh": "公司里裙带关系严重，能干的人得不到提拔。",
+        "en": "Nepotism runs deep in the firm and capable people are not promoted."
+      },
+      {
+        "zh": "这个职位是靠裙带关系得来的，大家心里都有数。",
+        "en": "The post was obtained through family connections and everyone knows it."
+      }
+    ],
+    "usage": {
+      "en": "Always negative; common in news about corruption and recruitment. Noun phrase, often with 靠、搞、存在.",
+      "zh": "一律贬义；常见于腐败、用人的报道。名词性，常与“靠、搞、存在”搭配。"
+    },
+    "synonyms": [
+      "任人唯亲",
+      "结党营私"
+    ],
+    "antonyms": [
+      "任人唯贤",
+      "公平竞争"
+    ]
+  },
+  {
+    "id": "qin-chai-da-chen",
+    "text": "钦差大臣",
+    "pinyin": "qīn chāi dà chén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "stories",
+      "rare-idioms"
+    ],
+    "literal": "imperial · dispatched · great · minister",
+    "natural": "imperial commissioner",
+    "meaning": {
+      "en": "A minister sent by the emperor with special authority; today also a mocking term for an official sent down to inspect.",
+      "zh": "由皇帝派遣、持特殊权力办理要事的大臣；今也戏称上级派来视察的官员。"
+    },
+    "equivalents": [
+      "imperial envoy",
+      "an inspector from head office"
+    ],
+    "examples": [
+      {
+        "zh": "朝廷派钦差大臣到灾区查办贪官。",
+        "en": "The court sent an imperial commissioner to the disaster area to investigate corrupt officials."
+      },
+      {
+        "zh": "总部来的人都被大家当成钦差大臣，处处小心招待。",
+        "en": "Everyone treated the head-office visitor like an imperial commissioner and fussed over him."
+      }
+    ],
+    "usage": {
+      "en": "Historical term; modern jokey use for a visiting inspector. Can be neutral, mocking or respectful by context.",
+      "zh": "历史名词；现代多戏称上级派来的检查人员。依语境可中性、戏谑或尊敬。"
+    },
+    "synonyms": [
+      "特派大员",
+      "巡按御史"
+    ],
+    "antonyms": [
+      "地方小吏",
+      "平头百姓"
+    ]
+  },
+  {
+    "id": "shu-da-gen-shen",
+    "text": "树大根深",
+    "pinyin": "shù dà gēn shēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "standards-and-benchmarks",
+      "society",
+      "rare-idioms"
+    ],
+    "literal": "tree · big · roots · deep",
+    "natural": "a big tree with deep roots",
+    "meaning": {
+      "en": "Firmly established and powerful, hard to dislodge.",
+      "zh": "比喻势力雄厚、根基稳固，不易动摇。"
+    },
+    "equivalents": [
+      "deeply entrenched",
+      "firmly rooted and powerful"
+    ],
+    "examples": [
+      {
+        "zh": "这家老字号树大根深，不是新品牌一下子能撼动的。",
+        "en": "This long-established shop is so deeply entrenched that no new brand can shake it at once."
+      },
+      {
+        "zh": "那个家族在当地树大根深，没人敢得罪。",
+        "en": "That family is deeply rooted in the area and nobody dares offend it."
+      }
+    ],
+    "usage": {
+      "en": "Can be neutral or negative depending on whether the power is seen as entrenched abuse. Predicate or attributive.",
+      "zh": "视其势力是否被看作盘根错节的恶势力，可中性或贬义。作谓语、定语。"
+    },
+    "synonyms": [
+      "根深蒂固",
+      "根深叶茂"
+    ],
+    "antonyms": [
+      "根基浅薄",
+      "势单力薄"
+    ]
+  },
+  {
+    "id": "you-kou-nan-yan",
+    "text": "有口难言",
+    "pinyin": "yǒu kǒu nán yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poor-speech-and-silence",
+      "psychological-pressure",
+      "rare-idioms"
+    ],
+    "literal": "have · mouth · hard · speak",
+    "natural": "have a mouth but cannot speak",
+    "meaning": {
+      "en": "To be unable to speak out because of fear, embarrassment or some constraint.",
+      "zh": "有话不能说出口，因为有苦衷或顾忌。"
+    },
+    "equivalents": [
+      "unable to speak out",
+      "tongue-tied by circumstances"
+    ],
+    "examples": [
+      {
+        "zh": "他被人冤枉，却有口难言，只好默默承受。",
+        "en": "He was wrongly accused but could not speak up, and had to bear it in silence."
+      },
+      {
+        "zh": "面对上司的不公，下属只能有口难言。",
+        "en": "Faced with the boss's unfairness, subordinates can only keep silent."
+      }
+    ],
+    "usage": {
+      "en": "Stress is on being prevented from speaking; compare 有口难辩 (cannot defend oneself) and 有苦难言 (unable to express one's suffering). Predicate.",
+      "zh": "重点在“有话不便说”；与“有口难辩”（无法辩白）、“有苦难言”（苦处说不出）有别。作谓语。"
+    },
+    "synonyms": [
+      "欲言又止",
+      "哑口无言"
+    ],
+    "antonyms": [
+      "畅所欲言",
+      "直言不讳"
+    ]
+  },
+  {
+    "id": "cong-ming-rui-zhi",
+    "text": "聪明睿智",
+    "pinyin": "cōng míng ruì zhì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities",
+      "rare-idioms"
+    ],
+    "literal": "clever · bright · wise · insightful",
+    "natural": "clever and wise",
+    "meaning": {
+      "en": "Intelligent and wise, with deep insight.",
+      "zh": "聪明而有远见，智慧过人。"
+    },
+    "equivalents": [
+      "bright and wise",
+      "sharp and insightful"
+    ],
+    "examples": [
+      {
+        "zh": "她聪明睿智，总能在关键时刻想出办法。",
+        "en": "She is clever and wise and always finds a way at the critical moment."
+      },
+      {
+        "zh": "聪明睿智的领导者懂得倾听不同意见。",
+        "en": "A wise and discerning leader knows how to listen to different views."
+      }
+    ],
+    "usage": {
+      "en": "A modern word group rather than a classical chengyu; formal praise for people. 睿 (ruì) means 'penetrating wisdom'.",
+      "zh": "属现代词组，非典型成语；用于正式场合称赞人。“睿”意为深远的智慧。"
+    },
+    "synonyms": [
+      "足智多谋",
+      "冰雪聪明"
+    ],
+    "antonyms": [
+      "愚昧无知",
+      "蠢笨如牛"
+    ]
+  },
+  {
+    "id": "cong-rong-zi-ruo",
+    "text": "从容自若",
+    "pinyin": "cóng róng zì ruò",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "mental-clarity",
+      "rare-idioms"
+    ],
+    "literal": "calm · unhurried · self · as usual",
+    "natural": "calm and composed",
+    "meaning": {
+      "en": "To remain calm and unruffled in any situation.",
+      "zh": "举止从容，神态自然，毫不慌乱。"
+    },
+    "equivalents": [
+      "composed and unruffled",
+      "cool as a cucumber"
+    ],
+    "examples": [
+      {
+        "zh": "面对记者的追问，他从容自若，对答如流。",
+        "en": "Facing the reporters' questions, he stayed composed and answered fluently."
+      },
+      {
+        "zh": "考场上她从容自若，发挥得很出色。",
+        "en": "In the exam room she was calm and did very well."
+      }
+    ],
+    "usage": {
+      "en": "Close to 镇定自若 and 泰然自若; 从容 stresses unhurried manner. Predicate.",
+      "zh": "与“镇定自若”“泰然自若”接近；“从容”强调不慌不忙。作谓语。"
+    },
+    "synonyms": [
+      "镇定自若",
+      "泰然自若"
+    ],
+    "antonyms": [
+      "惊慌失措",
+      "手忙脚乱"
+    ]
+  },
+  {
+    "id": "yi-fan-zhi-en",
+    "text": "一饭之恩",
+    "pinyin": "yī fàn zhī ēn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relationships",
+      "stories",
+      "rare-idioms"
+    ],
+    "literal": "one · meal · of · kindness",
+    "natural": "the kindness of a single meal",
+    "meaning": {
+      "en": "A small act of kindness, such as a meal given to someone in need, that deserves repayment.",
+      "zh": "指微小的恩惠，如在困难时给人一顿饭，应当报答。"
+    },
+    "equivalents": [
+      "a small kindness not forgotten",
+      "a good turn once done"
+    ],
+    "examples": [
+      {
+        "zh": "他至今记得当年一饭之恩，每年都回去探望那位老人。",
+        "en": "He still remembers that one meal he was given and visits the old woman every year."
+      },
+      {
+        "zh": "一饭之恩尚且必报，何况救命之恩？",
+        "en": "If even the kindness of a meal should be repaid, how much more a saved life?"
+      }
+    ],
+    "usage": {
+      "en": "Typically used in the context of repaying a debt of gratitude; formal and literary. Often in a fixed phrase 一饭之恩必报.",
+      "zh": "常用于报恩语境；正式、书面。常见固定说法“一饭之恩必报”。"
+    },
+    "synonyms": [
+      "滴水之恩",
+      "知恩图报"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "恩将仇报"
+    ]
+  },
+  {
+    "id": "you-chan-wei-ji",
+    "text": "忧谗畏讥",
+    "pinyin": "yōu chán wèi jī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "fear-and-cowardice",
+      "sadness-and-despair",
+      "rare-idioms",
+      "poems-prose"
+    ],
+    "literal": "worry · slander · fear · ridicule",
+    "natural": "worry about slander and fear criticism",
+    "meaning": {
+      "en": "To live in fear of slander and ridicule, especially from an exiled official's point of view.",
+      "zh": "担心遭人谗毁，害怕被人讥讽，形容被贬官员的忧惧心情。"
+    },
+    "equivalents": [
+      "anxious over slander",
+      "fearful of malicious gossip"
+    ],
+    "examples": [
+      {
+        "zh": "被调离岗位后，他整日忧谗畏讥，郁郁寡欢。",
+        "en": "After being removed from his post he was anxious all day about gossip and unhappy."
+      },
+      {
+        "zh": "不必忧谗畏讥，只要问心无愧就好。",
+        "en": "There is no need to fear slander and ridicule as long as your conscience is clear."
+      }
+    ],
+    "origin": {
+      "source": "范仲淹《岳阳楼记》",
+      "story": {
+        "en": "'When one leaves the capital and thinks of home, worried about slander and afraid of ridicule, everything seems desolate' (去国怀乡，忧谗畏讥，满目萧然).",
+        "zh": "“去国怀乡，忧谗畏讥，满目萧然，感极而悲者矣。”"
+      }
+    },
+    "usage": {
+      "en": "Literary; from a famous line about a banished official. Conveys timid, defensive anxiety. Predicate.",
+      "zh": "书面语；出自贬官者心境的名句。表示胆怯、防备的忧惧。作谓语。"
+    },
+    "synonyms": [
+      "诚惶诚恐",
+      "战战兢兢"
+    ],
+    "antonyms": [
+      "问心无愧",
+      "坦然自若"
+    ]
+  },
+  {
+    "id": "li-ting-sao-xue",
+    "text": "犁庭扫穴",
+    "pinyin": "lí tíng sǎo xué",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "revenge-and-retribution",
+      "rare-idioms"
+    ],
+    "literal": "plough · courtyard · sweep · den",
+    "natural": "plough the courtyard and sweep the lair",
+    "meaning": {
+      "en": "To wipe out an enemy completely, destroying his base.",
+      "zh": "比喻彻底摧毁敌人的巢穴，彻底铲除。"
+    },
+    "equivalents": [
+      "raze to the ground",
+      "wipe out root and branch"
+    ],
+    "examples": [
+      {
+        "zh": "大军北上，犁庭扫穴，彻底铲除了盘踞多年的匪患。",
+        "en": "The army marched north and wiped out the bandits who had lurked there for years."
+      },
+      {
+        "zh": "警方犁庭扫穴，一举捣毁了整个诈骗团伙。",
+        "en": "The police swept the whole fraud ring away in a single raid."
+      }
+    ],
+    "usage": {
+      "en": "A forceful, literary expression for a decisive, complete victory. Usually used of enemies or criminals. Predicate.",
+      "zh": "语气强烈的书面语，指彻底的决定性胜利。多用于敌人或罪犯。作谓语。"
+    },
+    "synonyms": [
+      "斩草除根",
+      "一网打尽"
+    ],
+    "antonyms": [
+      "网开一面",
+      "养虎遗患"
+    ]
+  },
+  {
+    "id": "ze-lin-er-ju",
+    "text": "择邻而居",
+    "pinyin": "zé lín ér jū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "parenting-and-family",
+      "apprenticeship-and-learning",
+      "rare-idioms"
+    ],
+    "literal": "choose · neighbours · and · live",
+    "natural": "choose neighbours and live there",
+    "meaning": {
+      "en": "To pick a place to live by its neighbours, since the environment shapes character.",
+      "zh": "选择好的邻居居住，强调环境对人的影响。"
+    },
+    "equivalents": [
+      "choose where to live by who lives nearby",
+      "mind the company around you"
+    ],
+    "examples": [
+      {
+        "zh": "为了孩子的成长，他们择邻而居，搬到了学区附近。",
+        "en": "For their child's sake they chose their neighbourhood carefully and moved near a good school."
+      },
+      {
+        "zh": "古人讲究择邻而居，就是怕坏风气影响孩子。",
+        "en": "The ancients were careful to choose their neighbours, afraid a bad atmosphere would affect the children."
+      }
+    ],
+    "usage": {
+      "en": "Linked to 孟母三迁; stresses the influence of environment on children. Predicate; common in education talk.",
+      "zh": "与“孟母三迁”相关，强调环境对孩子的影响。作谓语；多见于教育话题。"
+    },
+    "synonyms": [
+      "孟母三迁",
+      "近朱者赤"
+    ],
+    "antonyms": [
+      "近墨者黑",
+      "物以类聚"
+    ]
+  },
+  {
+    "id": "ju-da-bu-yi",
+    "text": "居大不易",
+    "pinyin": "jū dà bù yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poverty-and-hardship",
+      "daily",
+      "rare-idioms"
+    ],
+    "literal": "live · big · not · easy",
+    "natural": "living in the big city is not easy",
+    "meaning": {
+      "en": "It is hard to make a living in a big city where everything is expensive.",
+      "zh": "在大城市生活，物价高，生活不容易。"
+    },
+    "equivalents": [
+      "it isn't easy to live in the big city",
+      "big-city living is tough"
+    ],
+    "examples": [
+      {
+        "zh": "刚毕业就来北京，才知道什么叫居大不易。",
+        "en": "Only after coming to Beijing straight after graduation did I learn how hard big-city life is."
+      },
+      {
+        "zh": "房租这么贵，居大不易啊。",
+        "en": "With rents this high, life in the city is no easy matter."
+      }
+    ],
+    "origin": {
+      "source": "《幽闲鼓吹》",
+      "story": {
+        "en": "When the young Bai Juyi visited the official Gu Kuang, Gu teased him: 'Goods are dear in Chang'an; living in a big city is not easy' (长安百物贵，居大不易).",
+        "zh": "少年白居易以诗谒见顾况，顾况戏言：“长安百物贵，居大不易。”"
+      }
+    },
+    "usage": {
+      "en": "Often a sigh at high rents and living costs; the story is about the poet Bai Juyi. Also used lightly, with self-mockery. Usually a standalone comment.",
+      "zh": "常用来感叹房租、物价；典故涉及诗人白居易。也可带自嘲地轻松使用。多单独成句。"
+    },
+    "synonyms": [
+      "寸土寸金",
+      "生活不易"
+    ],
+    "antonyms": [
+      "安居乐业",
+      "衣食无忧"
+    ]
+  },
+  {
+    "id": "fu-er-hao-li",
+    "text": "富而好礼",
+    "pinyin": "fù ér hào lǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "confucian-classics",
+      "rare-idioms"
+    ],
+    "literal": "rich · yet · love · courtesy",
+    "natural": "rich yet fond of propriety",
+    "meaning": {
+      "en": "To be wealthy and still courteous and well-mannered.",
+      "zh": "富有而仍然喜好礼仪，不骄纵。"
+    },
+    "equivalents": [
+      "wealthy but well-mannered",
+      "rich without arrogance"
+    ],
+    "examples": [
+      {
+        "zh": "这位企业家富而好礼，从不在人前炫耀财富。",
+        "en": "The businessman is rich yet courteous and never flaunts his wealth."
+      },
+      {
+        "zh": "我们应当提倡富而好礼的社会风气。",
+        "en": "We should promote a social ethos in which the wealthy are also gracious."
+      }
+    ],
+    "origin": {
+      "source": "《论语·学而》",
+      "story": {
+        "en": "Zigong asked about being poor without fawning and rich without arrogance; Confucius replied that it is better still to be poor and happy, rich and fond of ritual propriety (贫而乐，富而好礼).",
+        "zh": "子贡问“贫而无谄，富而无骄”如何，孔子说：“可也。未若贫而乐，富而好礼者也。”"
+      }
+    },
+    "usage": {
+      "en": "Praise for the rich who stay humble; Confucian ideal. Predicate or attributive; formal.",
+      "zh": "称赞富人谦逊有礼；儒家理想。作谓语、定语；正式。"
+    },
+    "synonyms": [
+      "谦谦君子",
+      "贫而乐道"
+    ],
+    "antonyms": [
+      "为富不仁",
+      "骄奢淫逸"
+    ]
+  },
+  {
+    "id": "you-bi-you-fang",
+    "text": "游必有方",
+    "pinyin": "yóu bì yǒu fāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "parenting-and-family",
+      "rare-idioms",
+      "confucian-classics"
+    ],
+    "literal": "travel · must · have · a direction",
+    "natural": "when you travel, have a known destination",
+    "meaning": {
+      "en": "When away from home, to let parents know where one is going.",
+      "zh": "出外远游，必须有一定去处，让父母知道。"
+    },
+    "equivalents": [
+      "let your family know where you are going",
+      "travel with a known destination"
+    ],
+    "examples": [
+      {
+        "zh": "父母在，不远游，游必有方，这是孝道的体现。",
+        "en": "While parents live, one should not roam far, and should tell them where one goes: that is filial piety."
+      },
+      {
+        "zh": "她每次出差都告诉家人行程，真是游必有方。",
+        "en": "She tells her family her itinerary every business trip; she follows the rule of travelling with a known destination."
+      }
+    ],
+    "origin": {
+      "source": "《论语·里仁》",
+      "story": {
+        "en": "'While one's parents are alive, one should not travel far; if one does travel, it must be to a known place' (父母在，不远游，游必有方).",
+        "zh": "“父母在，不远游，游必有方。”"
+      }
+    },
+    "usage": {
+      "en": "A filial-piety maxim; now used when stressing telling family where one is. Often paired with 父母在不远游. Formal.",
+      "zh": "孝道格言；现多用于强调出门要告知家人去向。常与“父母在，不远游”并称。正式。"
+    },
+    "synonyms": [
+      "出必告，反必面",
+      "晨昏定省"
+    ],
+    "antonyms": [
+      "行踪不定",
+      "不辞而别"
+    ]
+  },
+  {
+    "id": "kuai-bu-yan-xi",
+    "text": "脍不厌细",
+    "pinyin": "kuài bù yàn xì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "fine-cuisine",
+      "confucian-classics",
+      "rare-idioms"
+    ],
+    "literal": "minced meat · not · tire of · fine",
+    "natural": "never tire of finely cut meat",
+    "meaning": {
+      "en": "To be fussy about food, preferring meat sliced as fine as possible.",
+      "zh": "指对食物加工精细、讲究，切肉越细越好。"
+    },
+    "equivalents": [
+      "particular about how food is cut",
+      "a stickler for fine slicing"
+    ],
+    "examples": [
+      {
+        "zh": "他对饮食讲究，脍不厌细，刀工要求极高。",
+        "en": "He is particular about food and demands very fine knife work."
+      },
+      {
+        "zh": "古人说食不厌精，脍不厌细，是追求饮食的雅致。",
+        "en": "The ancients said 'never tire of fine rice or thin-sliced meat', seeking refinement in food."
+      }
+    ],
+    "origin": {
+      "source": "《论语·乡党》",
+      "story": {
+        "en": "Confucius' eating habits are recorded: 'He did not tire of fine rice, nor of finely minced meat' (食不厌精，脍不厌细).",
+        "zh": "《论语》记孔子饮食：“食不厌精，脍不厌细。”"
+      }
+    },
+    "usage": {
+      "en": "Describes taste and refinement in cuisine, usually paired with 食不厌精. 脍 (kuài) is finely sliced meat or fish. Literary.",
+      "zh": "形容讲究饮食的精致，常与“食不厌精”连用。“脍”读 kuài，指切细的肉或鱼。书面语。"
+    },
+    "synonyms": [
+      "食不厌精",
+      "精雕细琢"
+    ],
+    "antonyms": [
+      "粗茶淡饭",
+      "狼吞虎咽"
+    ]
+  },
+  {
+    "id": "zi-wei-fu-yin",
+    "text": "子为父隐",
+    "pinyin": "zǐ wéi fù yǐn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "confucian-classics",
+      "rare-idioms"
+    ],
+    "literal": "son · for · father · conceal",
+    "natural": "a son conceals for his father",
+    "meaning": {
+      "en": "A son covers up for his father's wrongdoing out of family loyalty.",
+      "zh": "儿子为父亲隐瞒过错，体现亲情伦理。"
+    },
+    "equivalents": [
+      "family before the law",
+      "a son shields his father"
+    ],
+    "examples": [
+      {
+        "zh": "“子为父隐”在古代被视为孝道，今天却引发了法律上的争议。",
+        "en": "'A son conceals for his father' was once seen as filial piety, but today it raises legal debate."
+      },
+      {
+        "zh": "儒家讲父为子隐、子为父隐，认为正直就在其中。",
+        "en": "The Confucians said fathers and sons conceal for each other, holding that uprightness lies within."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子路》",
+      "story": {
+        "en": "Confucius said that among his people, fathers conceal for sons and sons for fathers, and uprightness is found in this (父为子隐，子为父隐，直在其中矣).",
+        "zh": "孔子说：“父为子隐，子为父隐，直在其中矣。”"
+      }
+    },
+    "usage": {
+      "en": "A debated Confucian principle about the tension between kinship and law; usually quoted with 父为子隐. Use carefully.",
+      "zh": "儒家关于亲情与法律冲突的著名命题，常与“父为子隐”连用。用时需谨慎。"
+    },
+    "synonyms": [
+      "亲亲相隐",
+      "护短"
+    ],
+    "antonyms": [
+      "大义灭亲",
+      "秉公执法"
+    ]
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "id": "fan-xing-dian-dian",
+    "text": "繁星点点",
+    "pinyin": "fán xīng diǎn diǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "weather-and-sky",
+      "essay-favourites"
+    ],
+    "literal": "numerous · stars · dots · dots",
+    "natural": "countless twinkling stars",
+    "meaning": {
+      "en": "The night sky dotted with many stars.",
+      "zh": "夜空中布满星星。"
+    },
+    "equivalents": [
+      "a sky studded with stars",
+      "stars twinkling everywhere"
+    ],
+    "examples": [
+      {
+        "zh": "夜晚，天空繁星点点。",
+        "en": "At night the sky is dotted with stars."
+      },
+      {
+        "zh": "繁星点点的夜空，让人想起童年的夏夜。",
+        "en": "The star-studded sky recalls summer nights from childhood."
+      },
+      {
+        "zh": "我们躺在草地上，看着繁星点点。",
+        "en": "We lay on the grass watching the stars twinkle."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; frequent in school essays on night scenes.",
+      "zh": "作谓语或定语，作文中描写夜景时常见。"
+    },
+    "synonyms": [
+      "星光点点",
+      "满天星斗"
+    ],
+    "antonyms": [
+      "月黑风高"
+    ]
+  },
+  {
+    "id": "bei-guo-feng-guang",
+    "text": "北国风光",
+    "pinyin": "běi guó fēng guāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "harsh-natural-conditions",
+      "poems-prose"
+    ],
+    "literal": "northern · land · scenery",
+    "natural": "scenery of the north",
+    "meaning": {
+      "en": "The wide, wintry scenery of northern China.",
+      "zh": "中国北方辽阔壮美的冰雪风光。"
+    },
+    "equivalents": [
+      "northern scenery",
+      "the landscape of the north"
+    ],
+    "examples": [
+      {
+        "zh": "北国风光，千里冰封，万里雪飘。",
+        "en": "Northern scenery: a thousand li of ice, ten thousand li of drifting snow."
+      },
+      {
+        "zh": "摄影师专程去哈尔滨拍北国风光。",
+        "en": "The photographer went to Harbin to shoot the northern landscape."
+      },
+      {
+        "zh": "北国风光与江南风光各有千秋。",
+        "en": "The scenery of the north and of the south each have their charm."
+      }
+    ],
+    "origin": {
+      "source": "毛泽东《沁园春·雪》",
+      "story": {
+        "en": "The opening of Mao Zedong's 1936 poem 'Snow': 'Northern scenery: a thousand li of ice, ten thousand li of snowflakes'.",
+        "zh": "毛泽东1936年《沁园春·雪》开篇：“北国风光，千里冰封，万里雪飘。”"
+      }
+    },
+    "usage": {
+      "en": "Often evokes snow and wide spaces; contrast with 江南水乡.",
+      "zh": "常令人联想到冰雪和辽阔；与“江南水乡”相对。"
+    },
+    "synonyms": [
+      "塞外风光",
+      "北国冰雪"
+    ],
+    "antonyms": [
+      "江南水乡"
+    ]
+  },
+  {
+    "id": "sai-wai-feng-guang",
+    "text": "塞外风光",
+    "pinyin": "sài wài fēng guāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "harsh-natural-conditions"
+    ],
+    "literal": "frontier · outside · scenery",
+    "natural": "scenery beyond the Great Wall",
+    "meaning": {
+      "en": "Vast frontier scenery of the northern grasslands and deserts, beyond the passes.",
+      "zh": "长城以北边塞地区的苍茫风光。"
+    },
+    "equivalents": [
+      "scenery beyond the Wall",
+      "frontier landscape"
+    ],
+    "examples": [
+      {
+        "zh": "塞外风光，大漠孤烟，长河落日。",
+        "en": "Frontier scenery: lone smoke over the desert and a setting sun over the long river."
+      },
+      {
+        "zh": "他们去内蒙古领略塞外风光。",
+        "en": "They went to Inner Mongolia to enjoy the frontier landscape."
+      },
+      {
+        "zh": "塞外风光与江南风光截然不同。",
+        "en": "The scenery beyond the Wall is utterly unlike that of the south."
+      }
+    ],
+    "usage": {
+      "en": "Evokes grasslands, deserts and desolate grandeur.",
+      "zh": "常令人联想到草原、大漠和苍凉壮阔。"
+    },
+    "synonyms": [
+      "北国风光",
+      "大漠风光"
+    ],
+    "antonyms": [
+      "江南水乡"
+    ]
+  },
+  {
+    "id": "jiang-nan-shui-xiang",
+    "text": "江南水乡",
+    "pinyin": "jiāng nán shuǐ xiāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "peace-and-prosperity"
+    ],
+    "literal": "river · south · water · town",
+    "natural": "the water towns south of the Yangtze",
+    "meaning": {
+      "en": "The land of rivers, canals and small towns south of the lower Yangtze.",
+      "zh": "长江下游以南河网密布的地区。"
+    },
+    "equivalents": [
+      "the water towns of Jiangnan",
+      "canal country"
+    ],
+    "examples": [
+      {
+        "zh": "周庄是典型的江南水乡。",
+        "en": "Zhouzhuang is a typical water town of the south."
+      },
+      {
+        "zh": "江南水乡，小桥流水，白墙黛瓦。",
+        "en": "In the water towns of the south: small bridges, flowing streams, white walls and grey tiles."
+      },
+      {
+        "zh": "他从小在江南水乡长大。",
+        "en": "He grew up in the canal country of the south."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase, evokes canals, boats, white walls and grey tiles.",
+      "zh": "名词性短语，令人联想到河道、乌篷船、白墙黑瓦。"
+    },
+    "synonyms": [
+      "鱼米之乡",
+      "水乡泽国"
+    ],
+    "antonyms": [
+      "北国风光"
+    ]
+  },
+  {
+    "id": "xing-hua-yan-yu-jiang-nan",
+    "text": "杏花烟雨江南",
+    "pinyin": "xìng huā yān yǔ jiāng nán",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "杏花春雨江南"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "apricot · blossom · misty · rain · river · south",
+    "natural": "apricot blossoms and misty rain in the south",
+    "meaning": {
+      "en": "A picture of the south in spring: blossoms in misty rain.",
+      "zh": "春日江南，杏花盛开，细雨如烟。"
+    },
+    "equivalents": [
+      "blossom and misty rain of the south"
+    ],
+    "examples": [
+      {
+        "zh": "杏花烟雨江南，是文人笔下最温柔的春天。",
+        "en": "Apricot blossoms and misty rain of Jiangnan: the gentlest spring in the scholars' writing."
+      },
+      {
+        "zh": "他在画里再现了杏花烟雨江南的景象。",
+        "en": "In his painting he recreated blossoms and misty rain in the south."
+      },
+      {
+        "zh": "三月去江南，才懂什么叫杏花烟雨江南。",
+        "en": "Go to the south in March and you will understand apricot blossom and misty rain."
+      }
+    ],
+    "origin": {
+      "source": "虞集《风入松·寄柯敬仲》",
+      "story": {
+        "en": "The Yuan poet Yu Ji wrote 'a dream of the old mountains and rivers; apricot blossom, spring rain, the south of the river' in the song to Ke Jingzhong.",
+        "zh": "元代虞集《风入松·寄柯敬仲》有“杏花春雨江南”。"
+      }
+    },
+    "usage": {
+      "en": "Poetic, common in travel copy; usually 杏花烟雨江南 as a name for spring there. The classical form is 杏花春雨江南.",
+      "zh": "诗意，旅游文案中常用，多指江南的春景。古典说法为“杏花春雨江南”。"
+    },
+    "synonyms": [
+      "杏花春雨",
+      "烟雨江南"
+    ],
+    "antonyms": [
+      "塞北风雪"
+    ]
+  },
+  {
+    "id": "wu-yue-gui-lai-bu-kan",
+    "text": "五岳归来不看山，黄山归来不看岳",
+    "pinyin": "wǔ yuè guī lái bù kàn shān, huáng shān guī lái bù kàn yuè",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "黄山归来不看岳",
+      "五岳归来不看山"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "essay-favourites"
+    ],
+    "literal": "five · peaks · return · not · look at · mountains, Huangshan · return · not · look at · peaks",
+    "natural": "after the Five Peaks, other mountains don't impress; after Huangshan, the Five Peaks don't either",
+    "meaning": {
+      "en": "Huangshan is so beautiful that after seeing it no other mountain seems worth seeing.",
+      "zh": "黄山风景极美，看过之后别的山都觉得逊色。"
+    },
+    "equivalents": [
+      "no other mountain compares",
+      "once you have seen Huangshan, you need see no other"
+    ],
+    "examples": [
+      {
+        "zh": "五岳归来不看山，黄山归来不看岳，这话一点也不夸张。",
+        "en": "After the Five Peaks no mountain impresses and after Huangshan no peak does; it's no exaggeration."
+      },
+      {
+        "zh": "登上黄山，才知道什么叫黄山归来不看岳。",
+        "en": "Only after climbing Huangshan did I learn what 'after Huangshan no peak is worth seeing' means."
+      },
+      {
+        "zh": "导游笑着说：黄山归来不看岳，你们一定要去。",
+        "en": "The guide said with a smile: after Huangshan no peak compares, you must go."
+      }
+    ],
+    "usage": {
+      "en": "A tourism cliché, popularly attributed to Xu Xiake (not in his writings). Both halves are often quoted alone.",
+      "zh": "旅游常用语，常被说成明代徐霞客所言（其著作中并无此句）。两半句也常单独引用。"
+    },
+    "synonyms": [
+      "黄山天下奇",
+      "天下第一奇山"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "jiu-zhai-gui-lai-bu-kan-shui",
+    "text": "九寨归来不看水",
+    "pinyin": "jiǔ zhài guī lái bù kàn shuǐ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "essay-favourites"
+    ],
+    "literal": "Jiuzhai · return · not · look at · water",
+    "natural": "after Jiuzhai, no water impresses",
+    "meaning": {
+      "en": "After seeing Jiuzhaigou's lakes, other waters seem ordinary.",
+      "zh": "看过九寨沟的湖水，别处的水就觉得平常了。"
+    },
+    "equivalents": [
+      "no other water compares",
+      "after Jiuzhai, all other lakes seem dull"
+    ],
+    "examples": [
+      {
+        "zh": "九寨归来不看水，这里的湖水五彩斑斓。",
+        "en": "After Jiuzhai no water compares; the lakes here are every colour."
+      },
+      {
+        "zh": "朋友推荐我去看看，说九寨归来不看水。",
+        "en": "My friend urged me to go, saying nothing compares to Jiuzhai's waters."
+      },
+      {
+        "zh": "九寨归来不看水，黄山归来不看岳，一语中的。",
+        "en": "After Jiuzhai no water, after Huangshan no peak: it hits the mark."
+      }
+    ],
+    "usage": {
+      "en": "Modern tourism slogan modelled on 黄山归来不看岳; casual-neutral, no classical source.",
+      "zh": "现代旅游口号，仿“黄山归来不看岳”而来；口语或中性，无古典出处。"
+    },
+    "synonyms": [
+      "黄山归来不看岳"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yu-zhou-chang-wan",
+    "text": "渔舟唱晚",
+    "pinyin": "yú zhōu chàng wǎn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "poems-prose"
+    ],
+    "literal": "fishing · boat · sing · evening",
+    "natural": "fishing boats singing in the evening",
+    "meaning": {
+      "en": "A peaceful scene of fishing boats returning at dusk, the fishermen singing.",
+      "zh": "傍晚渔船归来，渔人歌唱，景象宁静。"
+    },
+    "equivalents": [
+      "fishing boats singing at dusk",
+      "an evening scene of fishermen's songs"
+    ],
+    "examples": [
+      {
+        "zh": "夕阳西下，渔舟唱晚，湖面一片金黄。",
+        "en": "The sun sets and fishing boats sing at dusk; the lake is all gold."
+      },
+      {
+        "zh": "古筝曲《渔舟唱晚》旋律优美。",
+        "en": "The guzheng piece 'Fishing Boats Singing at Dusk' has a lovely melody."
+      },
+      {
+        "zh": "渔舟唱晚的景象，让他想起了故乡。",
+        "en": "The scene of fishing boats singing at dusk reminded him of his hometown."
+      }
+    ],
+    "origin": {
+      "source": "王勃《滕王阁序》",
+      "story": {
+        "en": "Wang Bo's 'Preface to the Pavilion of Prince Teng' says: 'Fishing boats sing in the evening, their echoes reaching the shore of Pengli Lake'.",
+        "zh": "王勃《滕王阁序》：“渔舟唱晚，响穷彭蠡之滨。”"
+      }
+    },
+    "usage": {
+      "en": "Also the name of a famous guzheng piece. Literary; peaceful, picturesque.",
+      "zh": "也是著名古筝曲名。书面语，宁静如画。"
+    },
+    "synonyms": [
+      "夕阳西下"
+    ],
+    "antonyms": [
+      "风急浪高"
+    ]
+  },
+  {
+    "id": "chui-yan-niao-niao",
+    "text": "炊烟袅袅",
+    "pinyin": "chuī yān niǎo niǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "family-and-home",
+      "essay-favourites"
+    ],
+    "literal": "cooking · smoke · curling · curling",
+    "natural": "smoke curling from the chimneys",
+    "meaning": {
+      "en": "Cooking smoke rising gently from village houses.",
+      "zh": "做饭的烟缓缓升起，农村傍晚的景象。"
+    },
+    "equivalents": [
+      "smoke curling up from the chimneys",
+      "wisps of kitchen smoke"
+    ],
+    "examples": [
+      {
+        "zh": "傍晚的村庄，炊烟袅袅，鸡鸣犬吠。",
+        "en": "In the evening the village has smoke curling up, hens clucking and dogs barking."
+      },
+      {
+        "zh": "远远望见炊烟袅袅，就知道快到家了。",
+        "en": "Seeing wisps of smoke from afar, he knew he was nearly home."
+      },
+      {
+        "zh": "炊烟袅袅的农家小院，是他最难忘的记忆。",
+        "en": "The farm courtyard with its curling smoke is his most unforgettable memory."
+      }
+    ],
+    "usage": {
+      "en": "Typical rural-evening and nostalgic image; literary, common in essays.",
+      "zh": "典型的田园傍晚和乡愁意象；书面语，常见于作文。"
+    },
+    "synonyms": [
+      "炊烟四起"
+    ],
+    "antonyms": [
+      "荒无人烟"
+    ]
+  },
+  {
+    "id": "tian-yuan-feng-guang",
+    "text": "田园风光",
+    "pinyin": "tián yuán fēng guāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "rural-wisdom"
+    ],
+    "literal": "fields · gardens · scenery",
+    "natural": "pastoral scenery",
+    "meaning": {
+      "en": "Peaceful rural scenery of fields, orchards and villages.",
+      "zh": "农村田野、村庄的宁静风光。"
+    },
+    "equivalents": [
+      "pastoral scenery",
+      "countryside views"
+    ],
+    "examples": [
+      {
+        "zh": "周末去郊外，享受田园风光。",
+        "en": "At the weekend we went to the countryside to enjoy the pastoral scenery."
+      },
+      {
+        "zh": "这里的田园风光让城里人流连忘返。",
+        "en": "City people linger here, enchanted by the rural scenery."
+      },
+      {
+        "zh": "画家常以田园风光为题材。",
+        "en": "Painters often take pastoral scenery as their subject."
+      }
+    ],
+    "usage": {
+      "en": "Noun phrase, often in travel and real-estate writing; peaceful and nostalgic.",
+      "zh": "名词性短语，常见于旅游和楼盘文案；宁静怀旧。"
+    },
+    "synonyms": [
+      "乡村风景"
+    ],
+    "antonyms": [
+      "都市风光"
+    ]
+  },
+  {
+    "id": "jiang-nan-hao-feng-jing-jiu",
+    "text": "江南好，风景旧曾谙。日出江花红胜火，春来江水绿如蓝",
+    "pinyin": "jiāng nán hǎo, fēng jǐng jiù céng ān, rì chū jiāng huā hóng shèng huǒ, chūn lái jiāng shuǐ lǜ rú lán",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "日出江花红胜火，春来江水绿如蓝",
+      "江南好，风景旧曾谙"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "seasonal-changes",
+      "poems-prose"
+    ],
+    "literal": "river · south · good, scenery · old · once · familiar. sun · rises · river · flowers · red · surpass · fire, spring · comes · river · water · green · like · indigo",
+    "natural": "The south is lovely, its scenery long familiar: at sunrise the riverside flowers are redder than fire, and in spring the river is as green as indigo",
+    "meaning": {
+      "en": "A famous description of Jiangnan in spring: blazing red blossoms and deep green water.",
+      "zh": "描写江南春天风光：红花如火，江水碧绿。"
+    },
+    "equivalents": [
+      "the splendour of spring in the south"
+    ],
+    "examples": [
+      {
+        "zh": "江南好，风景旧曾谙，每到春天我就想起这句词。",
+        "en": "'The south is lovely and its scenery familiar': every spring I think of this line."
+      },
+      {
+        "zh": "看着日出江花红胜火，春来江水绿如蓝，我们都沉醉了。",
+        "en": "Watching the flowers redder than fire and the river as green as indigo, we were all entranced."
+      },
+      {
+        "zh": "课文里“日出江花红胜火，春来江水绿如蓝”写得色彩鲜明。",
+        "en": "In the textbook, the line about flowers redder than fire and water as green as indigo is vividly coloured."
+      }
+    ],
+    "origin": {
+      "source": "白居易《忆江南》",
+      "story": {
+        "en": "The first of Bai Juyi's three 'Remembering Jiangnan' poems, written in his later years in Luoyang, recalling the years he spent as governor of Hangzhou and Suzhou; it ends 'Can I not remember Jiangnan?'",
+        "zh": "白居易晚年在洛阳所作《忆江南》三首之一，追忆任杭州、苏州刺史时的江南；结句为“能不忆江南？”"
+      }
+    },
+    "usage": {
+      "en": "A set text in schools; quoted for spring scenery of the south. The first line 江南好，风景旧曾谙 may be cited alone.",
+      "zh": "学校课文，常引用来写江南春景。首句“江南好，风景旧曾谙”也可单独引用。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "shu-dao-zhi-nan-nan-yu-shang-qing-tian",
+    "text": "蜀道之难，难于上青天",
+    "pinyin": "shǔ dào zhī nán, nán yú shàng qīng tiān",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "蜀道难，难于上青天",
+      "蜀道难"
+    ],
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "difficult-terrain",
+      "poems-prose"
+    ],
+    "literal": "Shu · road · of · hardship, harder · than · climbing · blue · sky",
+    "natural": "the road to Shu is harder than climbing to heaven",
+    "meaning": {
+      "en": "The mountain road into Sichuan is harder to travel than climbing the sky; used for any very difficult journey or task.",
+      "zh": "蜀道艰险，比登天还难；也比喻极难做到的事。"
+    },
+    "equivalents": [
+      "harder than climbing to heaven",
+      "an extremely hard road"
+    ],
+    "examples": [
+      {
+        "zh": "古人说蜀道之难，难于上青天，现在高铁一路通了。",
+        "en": "The ancients said the road to Shu was harder than climbing the sky; now high-speed rail runs all the way."
+      },
+      {
+        "zh": "蜀道难，难于上青天，当年翻越秦岭谈何容易。",
+        "en": "'The road to Shu is hard, harder than ascending to heaven'; crossing the Qinling Mountains was never easy then."
+      },
+      {
+        "zh": "要在三天内完成，真是蜀道之难，难于上青天。",
+        "en": "To finish in three days is harder than climbing to heaven."
+      }
+    ],
+    "origin": {
+      "source": "李白《蜀道难》",
+      "story": {
+        "en": "Li Bai's yuefu poem 'Hard Is the Road to Shu' repeats: 'Alas! How dangerous, how high! The road to Shu is harder than climbing to heaven'.",
+        "zh": "李白乐府诗《蜀道难》：“噫吁嚱，危乎高哉！蜀道之难，难于上青天！”"
+      }
+    },
+    "usage": {
+      "en": "Quoted for rugged routes and also figuratively for very hard tasks. Original line is 蜀道之难，难于上青天; 蜀道难 is the poem's title.",
+      "zh": "用来形容道路险阻，也比喻事情极其困难。原句为“蜀道之难，难于上青天”，“蜀道难”是诗题。"
+    },
+    "synonyms": [
+      "难于上青天",
+      "难如登天"
+    ],
+    "antonyms": [
+      "一帆风顺",
+      "轻而易举"
+    ]
+  }
+]

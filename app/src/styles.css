@@ -399,3 +399,29 @@ h1.hanzi-xl { margin: 0; }
 .xw-clues h3 { margin: 6px 0; font-size: 13px; color: var(--muted); }
 .xw-clue { all: unset; display: block; cursor: pointer; padding: 6px 8px; border-radius: 8px; font-size: 14px; line-height: 1.4; }
 .xw-clue.on { background: var(--accent-soft); }
+
+/* ---------- List: label search & collections ---------- */
+.label-search { margin-bottom: 8px; }
+.label-results { margin-bottom: 10px; }
+.label-results .chip-group { margin-bottom: 8px; }
+.collections { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+.collections::-webkit-scrollbar { display: none; }
+.collections .chip { flex: none; }
+.collections-title { align-self: center; flex: none; margin-right: 2px; }
+
+/* ---------- PDF export (print) ---------- */
+#print-root { display: none; }
+@media print {
+  body.printing > *:not(#print-root) { display: none !important; }
+  body.printing { background: #fff; }
+  body.printing #print-root { display: block; color: #000; font-family: var(--sans); }
+  #print-root h1 { font-size: 18pt; margin: 0 0 4pt; }
+  .print-sub { color: #555; margin: 0 0 12pt; font-size: 9pt; }
+  .print-entry { break-inside: avoid; padding: 5pt 0; border-bottom: 0.5pt solid #ccc; }
+  .print-head { display: flex; gap: 10pt; align-items: baseline; }
+  .print-hanzi { font-family: var(--hanzi); font-size: 14pt; font-weight: 700; }
+  .print-pinyin { color: #333; font-size: 10pt; }
+  .print-kind { margin-left: auto; color: #777; font-size: 8pt; }
+  .print-meaning { font-size: 10pt; margin-top: 2pt; }
+  .print-meaning.en { color: #444; }
+}
