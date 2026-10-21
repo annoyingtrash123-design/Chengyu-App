@@ -33,23 +33,6 @@ export function showTheme(theme: string) {
 
 const PAGE = 50;
 
-/** Ready-made sets shown as one-tap chips at the top of the list. */
-const COLLECTIONS = [
-  "thirty-six-stratagems",
-  "twenty-four-filial",
-  "stories",
-  "exam-favourites",
-  "often-misused",
-  "rare-idioms",
-  "three-kingdoms",
-  "homesickness",
-  "friendship",
-  "farewells",
-  "landscapes",
-  "festive-greetings",
-  "polite-humble",
-];
-
 const themeCount = (id: string) => state.meta?.theme_counts?.[id] ?? 0;
 
 /** Labels whose Chinese or English name (or id) contains the query, most entries first. */
@@ -94,7 +77,7 @@ export async function renderList(root: HTMLElement) {
       `${themeLabel(id)} (${themeCount(id)})`,
     );
 
-  /** Search results while typing; otherwise the selected labels and the ready-made collections. */
+  /** Search results while typing; otherwise the labels currently selected. */
   function drawLabels() {
     const q = labelInput.value;
     if (q.trim()) {
@@ -103,17 +86,7 @@ export async function renderList(root: HTMLElement) {
       return;
     }
     const selected = saved.filters.themes;
-    const rest = COLLECTIONS.filter((id) => themeCount(id) > 0 && !selected.includes(id));
-    clear(
-      labelResults,
-      selected.length ? h("div", { class: "chip-group" }, selected.map((id) => labelChip(id))) : null,
-      h(
-        "div",
-        { class: "collections" },
-        h("span", { class: "muted small collections-title" }, en() ? "Collections 专题" : "专题"),
-        rest.map((id) => labelChip(id)),
-      ),
-    );
+    clear(labelResults, selected.length ? h("div", { class: "chip-group" }, selected.map((id) => labelChip(id))) : null);
   }
   labelInput.addEventListener("input", drawLabels);
   let open = false;

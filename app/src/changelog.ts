@@ -13,12 +13,12 @@ export const CHANGELOG: Release[] = [
     version: "0.14",
     date: "2026-10-21",
     en: [
-      "List: search labels in English or Chinese, and one-tap Collections (36 stratagems, 24 filial exemplars, stories, exam favourites, often misused, rare idioms, homesickness, friendship, farewells, landscapes…).",
+      "List: search labels in English or Chinese (e.g. 三十六计, 二十四孝, friendship). All filters are shown in full, with Pattern at the bottom.",
       "Export PDF: print or save the current list, filtered or not, as a clean PDF.",
       "About 500 rare literary idioms (label Rare & literary 罕用成语), the missing stratagems 空城计 and 反间计, and new theme entries such as 乡愁, 知音, 折柳送别 and 桂林山水甲天下.",
     ],
     zh: [
-      "列表：可用中文或英文搜索标签，并新增一键“专题”（三十六计、二十四孝、寓言典故、高考常考、易误用、罕用成语、思乡、友情、送别、山水等）。",
+      "列表：可用中文或英文搜索标签（如三十六计、二十四孝、友情）；所有筛选项完整展开，“结构”放在最后。",
       "导出 PDF：可把当前列表（含筛选结果）打印或保存为 PDF。",
       "新增约五百条罕用文学成语（标签“罕用成语”）、补齐三十六计中的空城计和反间计，以及乡愁、知音、折柳送别、桂林山水甲天下等主题词条。",
     ],

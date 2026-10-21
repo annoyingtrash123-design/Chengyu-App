@@ -404,10 +404,6 @@ h1.hanzi-xl { margin: 0; }
 .label-search { margin-bottom: 8px; }
 .label-results { margin-bottom: 10px; }
 .label-results .chip-group { margin-bottom: 8px; }
-.collections { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
-.collections::-webkit-scrollbar { display: none; }
-.collections .chip { flex: none; }
-.collections-title { align-self: center; flex: none; margin-right: 2px; }
 
 /* ---------- PDF export (print) ---------- */
 #print-root { display: none; }

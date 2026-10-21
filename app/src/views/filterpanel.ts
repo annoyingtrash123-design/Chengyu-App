@@ -139,12 +139,9 @@ export function filterPanel(f: Filters, onChange: () => void, onDone: () => void
   });
   drawThemesAll();
 
-  const more = h(
-    "details",
-    { class: "more-filters" },
-    h("summary", null, t("更多筛选", "More filters")),
-    section(t("字数", "Characters"), chipGroup([3, 4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), changed((v) => (f.lengths = v)))),
-    section(t("结构", "Pattern"), chipGroup(meta.structures, f.structures, (s) => s, changed((v) => (f.structures = v)))),
+  // Shown in full (not collapsed); the pattern filter sits at the bottom.
+  const more = [
+    section(t("字数", "Characters"), chipGroup([4, 5, 6, 7, 8], f.lengths, (l) => (l === 8 ? "8+" : String(l)), changed((v) => (f.lengths = v)))),
     section(t("常用度", "How common"), chipGroup([1, 2, 3], f.frequencies, (q) => `${FREQUENCY_LABEL[q].stars} ${label(FREQUENCY_LABEL[q])}`, changed((v) => (f.frequencies = v)))),
     section(t("感情色彩", "Sentiment"), chipGroup<Sentiment>(["positive", "neutral", "negative"], f.sentiments, (s) => label(SENTIMENT_LABEL[s]), changed((v) => (f.sentiments = v)))),
     section(t("语体", "Register"), chipGroup<Register>(["casual", "neutral", "formal", "literary"], f.registers, (r) => label(REGISTER_LABEL[r]), changed((v) => (f.registers = v)))),
@@ -159,7 +156,9 @@ export function filterPanel(f: Filters, onChange: () => void, onDone: () => void
         toggle(t("现代/外来", "Modern & borrowed"), () => f.modern_only, (v) => (f.modern_only = v)),
       ),
     ),
-  );
+    section(t("结构", "Pattern"), chipGroup(meta.structures, f.structures, (s) => s, changed((v) => (f.structures = v)))),
+  ];
+
 
   return h(
     "div",
