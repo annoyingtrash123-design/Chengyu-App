@@ -79,6 +79,12 @@ pub struct Bilingual {
     pub zh: String,
 }
 
+impl Bilingual {
+    pub fn is_empty(&self) -> bool {
+        self.en.is_empty() && self.zh.is_empty()
+    }
+}
+
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct Example {
     pub zh: String,
@@ -92,6 +98,9 @@ pub struct Origin {
     pub source: String,
     #[serde(default)]
     pub story: Bilingual,
+    /// When the source was written or compiled, e.g. 唐 · 约799年 / Tang dynasty, c. 799.
+    #[serde(default, skip_serializing_if = "Bilingual::is_empty")]
+    pub date: Bilingual,
 }
 
 /// One dictionary entry.

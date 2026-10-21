@@ -1,5 +1,5 @@
 import { api } from "../api";
-import { h, clear, en, badge, label, KIND_LABEL, FREQUENCY_LABEL, englishToggle } from "../ui";
+import { h, clear, en, badge, label, KIND_LABEL, FREQUENCY_LABEL, englishToggle, sourceDate } from "../ui";
 
 /** Home: the chengyu of the day as a full feature: meaning, origin story and examples. */
 export async function renderHome(root: HTMLElement) {
@@ -53,7 +53,7 @@ export async function renderHome(root: HTMLElement) {
             "section",
             { class: "feature-section story" },
             h("h3", null, showEn ? "典故 The story" : "典故"),
-            e.origin.source ? h("p", { class: "source" }, e.origin.source) : null,
+            e.origin.source ? h("p", { class: "source" }, e.origin.source, sourceDate(e.origin.date)) : null,
             h("p", { class: "zh story-text" }, e.origin.story.zh),
             showEn ? h("p", { class: "en story-text" }, e.origin.story.en) : null,
           )

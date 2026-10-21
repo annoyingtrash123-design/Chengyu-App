@@ -63,6 +63,12 @@ export async function saveSettings(patch: Partial<Settings>) {
 
 export const en = () => state.settings.show_english;
 
+/** The date of an origin source, shown after its title: "· 唐 · 约799年 (Tang dynasty, c. 799)". */
+export function sourceDate(d?: { zh: string; en: string }) {
+  if (!d || (!d.zh && !d.en)) return null;
+  return h("span", { class: "source-date" }, ` · ${d.zh}`, en() && d.en ? h("span", { class: "muted" }, ` (${d.en})`) : null);
+}
+
 // ---------- Labels ----------
 
 export const KIND_LABEL: Record<Kind, { zh: string; en: string }> = {

@@ -16,6 +16,7 @@ import {
   MODERN_LABEL,
   themeLabel,
   linked,
+  sourceDate,
 } from "../ui";
 import { showTheme } from "./list";
 
@@ -142,7 +143,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
           "section",
           { class: "card" },
           h("h3", null, en() ? "出处 Origin" : "出处"),
-          e.origin.source ? h("p", { class: "source" }, e.origin.source) : null,
+          e.origin.source ? h("p", { class: "source" }, e.origin.source, sourceDate(e.origin.date)) : null,
           bi(e.origin.story),
         )
       : null,

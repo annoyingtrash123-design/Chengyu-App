@@ -44,7 +44,7 @@ export interface Entry {
   meaning: Bilingual;
   equivalents: string[];
   examples: { zh: string; en: string }[];
-  origin: { source: string; story: Bilingual } | null;
+  origin: { source: string; story: Bilingual; date?: Bilingual } | null;
   usage: Bilingual;
   synonyms: string[];
   antonyms: string[];
