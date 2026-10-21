@@ -93,6 +93,10 @@ pub fn check(dict: &Dictionary) -> Report {
             err.push(format!("{t}: id `{}` must be lowercase ascii letters, digits and dashes", e.id));
         }
         check_pinyin(e, err);
+        // House rule: no one- or two-character entries (they are ordinary words, not idioms).
+        if e.length() < 3 {
+            err.push(format!("{t}: entries must be at least three characters long"));
+        }
         if !(1..=3).contains(&e.frequency) {
             err.push(format!("{t}: frequency must be 1, 2 or 3"));
         }

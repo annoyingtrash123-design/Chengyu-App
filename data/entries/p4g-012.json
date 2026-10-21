@@ -1,50 +1,5 @@
 [
   {
-    "id": "zhua-xia",
-    "text": "抓瞎",
-    "pinyin": "zhuā xiā",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "confusion-and-doubt",
-      "poor-planning-and-hasty-decisions"
-    ],
-    "literal": "grab · blind",
-    "natural": "be at a loss",
-    "meaning": {
-      "en": "To be flustered and helpless for lack of preparation.",
-      "zh": "因事先没有准备而手足无措、干着急。"
-    },
-    "equivalents": [
-      "be caught unprepared",
-      "fumble in the dark"
-    ],
-    "examples": [
-      {
-        "zh": "考试前不复习，到时候就抓瞎了。",
-        "en": "If you don't revise before the exam, you'll be lost."
-      },
-      {
-        "zh": "新系统一出问题，大家都抓瞎。",
-        "en": "When the new system broke, everyone was at a loss."
-      }
-    ],
-    "usage": {
-      "en": "Often 两眼一抹黑/临时抓瞎. Northern colloquial.",
-      "zh": "常与“两眼一抹黑”同用，北方口语。"
-    },
-    "synonyms": [
-      "束手无策",
-      "手足无措"
-    ],
-    "antonyms": [
-      "胸有成竹",
-      "有备无患"
-    ]
-  },
-  {
     "id": "tao-ren-xian",
     "text": "讨人嫌",
     "pinyin": "tǎo rén xián",
@@ -670,8 +625,7 @@
       "zh": "常说“捞点油水”，像从汤里捞出油脂。"
     },
     "synonyms": [
-      "中饱私囊",
-      "揩油"
+      "中饱私囊"
     ],
     "antonyms": [
       "两袖清风",
@@ -715,8 +669,7 @@
       "zh": "多用于体育和博彩，常说“爆出冷门”。"
     },
     "synonyms": [
-      "出人意料",
-      "黑马"
+      "出人意料"
     ],
     "antonyms": [
       "意料之中",

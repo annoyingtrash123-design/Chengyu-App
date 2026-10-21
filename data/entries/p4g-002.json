@@ -1,47 +1,5 @@
 [
   {
-    "id": "lu-deng",
-    "text": "绿灯",
-    "pinyin": "lǜ dēng",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "modern": "modern",
-    "sentiment": "positive",
-    "register": "casual",
-    "themes": [
-      "efficiency",
-      "successful-completion"
-    ],
-    "literal": "green · light",
-    "natural": "green light",
-    "meaning": {
-      "en": "Permission or a clear path to go ahead.",
-      "zh": "比喻许可通行或给予方便。"
-    },
-    "equivalents": [
-      "green light",
-      "go-ahead"
-    ],
-    "examples": [
-      {
-        "zh": "这个项目终于亮起了绿灯。",
-        "en": "The project has finally been given the green light."
-      },
-      {
-        "zh": "为了吸引投资，政府对新企业一路绿灯。",
-        "en": "To attract investment, the government gave new firms a clear run."
-      }
-    ],
-    "usage": {
-      "en": "Noun; usually 亮绿灯 or 一路绿灯. Borrowed from the traffic signal.",
-      "zh": "名词，常说“亮绿灯”“一路绿灯”。比喻交通信号灯。"
-    },
-    "synonyms": [
-      "放行"
-    ],
-    "antonyms": []
-  },
-  {
     "id": "ti-si-gui",
     "text": "替死鬼",
     "pinyin": "tì sǐ guǐ",
@@ -207,50 +165,6 @@
     ],
     "antonyms": [
       "殿后"
-    ]
-  },
-  {
-    "id": "pao-tang",
-    "text": "泡汤",
-    "pinyin": "pào tāng",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "near-misses-and-setbacks",
-      "complete-failure-and-obscurity"
-    ],
-    "literal": "soak · soup",
-    "natural": "fall through",
-    "meaning": {
-      "en": "To come to nothing; to be ruined or lost.",
-      "zh": "落空，成为泡影。"
-    },
-    "equivalents": [
-      "fall through",
-      "go down the drain"
-    ],
-    "examples": [
-      {
-        "zh": "一场大雨，我们的野餐计划全泡汤了。",
-        "en": "A heavy rain ruined our picnic plans."
-      },
-      {
-        "zh": "他的出国梦就这样泡汤了。",
-        "en": "And so his dream of going abroad fell through."
-      }
-    ],
-    "usage": {
-      "en": "Verb, casual; the subject is usually a plan or hope. Like something dropped into soup, it is soaked and spoiled.",
-      "zh": "动词，口语，主语多是计划、希望。像东西泡在汤里，全完了。"
-    },
-    "synonyms": [
-      "落空",
-      "告吹"
-    ],
-    "antonyms": [
-      "如愿以偿"
     ]
   },
   {

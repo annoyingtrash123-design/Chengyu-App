@@ -95,102 +95,6 @@
     "antonyms": []
   },
   {
-    "id": "jian-xing",
-    "text": "饯行",
-    "pinyin": "jiàn xíng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "farewells",
-      "polite-humble"
-    ],
-    "literal": "see off with a feast · journey",
-    "natural": "hold a send-off dinner",
-    "meaning": {
-      "en": "To give a farewell meal or party for someone who is about to leave on a journey.",
-      "zh": "设宴为将要远行的人送别。"
-    },
-    "equivalents": [
-      "hold a farewell dinner",
-      "give a send-off"
-    ],
-    "examples": [
-      {
-        "zh": "同事们设宴为他饯行，祝他一路顺风。",
-        "en": "His colleagues gave him a farewell dinner and wished him a good journey."
-      },
-      {
-        "zh": "明天我出国，今晚朋友们给我饯行。",
-        "en": "I go abroad tomorrow, so my friends are giving me a send-off tonight."
-      },
-      {
-        "zh": "临走前，村里人摆了几桌酒席为他饯行。",
-        "en": "Before he left, the villagers laid on several tables to see him off."
-      }
-    ],
-    "usage": {
-      "en": "Verb, usually 为/给 + person + 饯行; traditional courtesy, slightly formal.",
-      "zh": "动词，常说“为/给……饯行”；带有传统礼节色彩，略书面。"
-    },
-    "synonyms": [
-      "设宴送别"
-    ],
-    "antonyms": [
-      "接风",
-      "洗尘"
-    ]
-  },
-  {
-    "id": "ci-xing",
-    "text": "辞行",
-    "pinyin": "cí xíng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "farewells",
-      "polite-humble"
-    ],
-    "literal": "take leave · journey",
-    "natural": "take one's leave before departing",
-    "meaning": {
-      "en": "To go and say goodbye to someone before setting off on a journey.",
-      "zh": "远行前向亲友或上级告别。"
-    },
-    "equivalents": [
-      "take one's leave",
-      "pay a farewell visit"
-    ],
-    "examples": [
-      {
-        "zh": "临行前，他去老师家辞行。",
-        "en": "Before leaving, he went to his teacher's house to say goodbye."
-      },
-      {
-        "zh": "她向公司领导辞行后，就登上了飞机。",
-        "en": "After taking leave of the company heads she boarded the plane."
-      },
-      {
-        "zh": "我明天出发，今天特地来向您辞行。",
-        "en": "I set out tomorrow and have come specially to take my leave of you."
-      }
-    ],
-    "usage": {
-      "en": "Verb; the person leaving is the one who 辞行, the hosts 饯行. Slightly formal.",
-      "zh": "动词；远行的人“辞行”，送行的人“饯行”。略书面。"
-    },
-    "synonyms": [
-      "告辞"
-    ],
-    "antonyms": [
-      "接风",
-      "迎接"
-    ]
-  },
-  {
     "id": "song-jun-qian-li-zhong-xu-yi-bie",
     "text": "送君千里，终须一别",
     "pinyin": "sòng jūn qiān lǐ, zhōng xū yī bié",
@@ -388,8 +292,7 @@
       "人生何处不相逢"
     ],
     "antonyms": [
-      "一别两宽",
-      "永别"
+      "一别两宽"
     ]
   },
   {
@@ -440,8 +343,7 @@
       "zh": "多指古琴曲名，借指送别的歌曲或场面。书面语。"
     },
     "synonyms": [
-      "渭城曲",
-      "骊歌"
+      "渭城曲"
     ],
     "antonyms": []
   },
@@ -591,145 +493,6 @@
     ]
   },
   {
-    "id": "mu-song",
-    "text": "目送",
-    "pinyin": "mù sòng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "farewells",
-      "friendship"
-    ],
-    "literal": "eye · send off",
-    "natural": "watch someone go",
-    "meaning": {
-      "en": "To follow a departing person with one's eyes until they are out of sight.",
-      "zh": "用目光送别，一直看着对方离去。"
-    },
-    "equivalents": [
-      "watch someone out of sight",
-      "see off with one's eyes"
-    ],
-    "examples": [
-      {
-        "zh": "他站在门口，目送儿子远去。",
-        "en": "He stood in the doorway and watched his son go."
-      },
-      {
-        "zh": "我们目送列车消失在远方。",
-        "en": "We watched the train vanish into the distance."
-      },
-      {
-        "zh": "她目送着父亲的背影，久久没有离开。",
-        "en": "She watched her father's retreating figure and stayed long where she stood."
-      }
-    ],
-    "usage": {
-      "en": "Transitive verb: 目送 + person; literary and tender. Often the quiet gesture of parents and friends.",
-      "zh": "及物动词，“目送”+人；书面、深情，常指亲人朋友无声的送别。"
-    },
-    "synonyms": [
-      "注目送别"
-    ],
-    "antonyms": [
-      "迎接"
-    ]
-  },
-  {
-    "id": "yong-bie",
-    "text": "永别",
-    "pinyin": "yǒng bié",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "farewells",
-      "sadness-and-despair"
-    ],
-    "literal": "forever · part",
-    "natural": "part forever",
-    "meaning": {
-      "en": "A final parting, with no hope of meeting again; often a euphemism for death.",
-      "zh": "永远分别，不再相见，常指死别。"
-    },
-    "equivalents": [
-      "part forever",
-      "say a last goodbye"
-    ],
-    "examples": [
-      {
-        "zh": "那一次车站送别，竟成了永别。",
-        "en": "That farewell at the station turned out to be a final one."
-      },
-      {
-        "zh": "与亲人永别，他悲痛万分。",
-        "en": "He was heartbroken at parting forever from his family."
-      },
-      {
-        "zh": "她没想到电话里的道别竟是永别。",
-        "en": "She never imagined that goodbye on the phone would be the last."
-      }
-    ],
-    "usage": {
-      "en": "Verb or noun; solemn. Can be used of death or of a permanent separation.",
-      "zh": "动词或名词；语气沉重，可指死别或再不相见的分离。"
-    },
-    "synonyms": [],
-    "antonyms": [
-      "重逢",
-      "久别重逢"
-    ]
-  },
-  {
-    "id": "jue-bie",
-    "text": "诀别",
-    "pinyin": "jué bié",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "farewells",
-      "sadness-and-despair"
-    ],
-    "literal": "take final leave · part",
-    "natural": "bid a final farewell",
-    "meaning": {
-      "en": "To part for the last time, especially knowing that one may never meet again.",
-      "zh": "分别后很难或不再相见的告别，多指死别。"
-    },
-    "equivalents": [
-      "bid a final farewell",
-      "part for the last time"
-    ],
-    "examples": [
-      {
-        "zh": "临终前，他与亲人一一诀别。",
-        "en": "Before he died he bade each of his family a final farewell."
-      },
-      {
-        "zh": "烈士写下诀别书，奔赴战场。",
-        "en": "The martyr wrote a farewell letter and went off to the battlefield."
-      },
-      {
-        "zh": "两人在码头诀别，谁也没有再回头。",
-        "en": "The two parted for good on the quay, and neither looked back."
-      }
-    ],
-    "usage": {
-      "en": "Heavier than 告别; formal, tragic. Often 诀别书 (a last letter).",
-      "zh": "比“告别”分量更重；书面、悲壮，常见“诀别书”。"
-    },
-    "synonyms": [],
-    "antonyms": [
-      "重逢",
-      "相会"
-    ]
-  },
-  {
     "id": "yi-bie-jing-nian",
     "text": "一别经年",
     "pinyin": "yī bié jīng nián",
@@ -822,7 +585,6 @@
       "破镜重圆"
     ],
     "antonyms": [
-      "永别",
       "一别两宽"
     ]
   },

@@ -176,8 +176,7 @@
       "zh": "指人时多含贬义，指买到便宜货时则较轻松。“占”读zhàn，可拆开用。"
     },
     "synonyms": [
-      "沾光",
-      "揩油"
+      "沾光"
     ],
     "antonyms": [
       "吃亏",
@@ -725,51 +724,6 @@
     ]
   },
   {
-    "id": "zhuang-suan",
-    "text": "装蒜",
-    "pinyin": "zhuāng suàn",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "deception-and-false-appearances",
-      "negative-character-flaws"
-    ],
-    "literal": "pretend · garlic",
-    "natural": "play dumb; put on airs",
-    "meaning": {
-      "en": "To pretend not to know, or to put on a pretentious act.",
-      "zh": "明明知道却假装不知道；也指故作姿态。"
-    },
-    "equivalents": [
-      "play dumb",
-      "act the innocent"
-    ],
-    "examples": [
-      {
-        "zh": "你别跟我装蒜，这事你肯定知道。",
-        "en": "Don't play dumb with me; you surely know about this."
-      },
-      {
-        "zh": "他就爱装蒜，明明会唱偏说不会。",
-        "en": "He loves to put on an act; he can sing but says he can't."
-      }
-    ],
-    "usage": {
-      "en": "Northern colloquial, used to accuse someone of feigning ignorance. Origin uncertain.",
-      "zh": "北方口语，多用于指责对方装糊涂。"
-    },
-    "synonyms": [
-      "装糊涂",
-      "假正经"
-    ],
-    "antonyms": [
-      "实话实说",
-      "坦率"
-    ]
-  },
-  {
     "id": "he-shi-lao",
     "text": "和事佬",
     "pinyin": "hé shì lǎo",
@@ -1037,51 +991,6 @@
     "antonyms": [
       "聪明人",
       "明白人"
-    ]
-  },
-  {
-    "id": "lou-xian",
-    "text": "露馅",
-    "pinyin": "lòu xiàn",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "deception-and-false-appearances",
-      "mistakes-and-correction"
-    ],
-    "literal": "leak · filling",
-    "natural": "give the game away",
-    "meaning": {
-      "en": "For a lie or secret to be exposed by a slip.",
-      "zh": "比喻隐藏的真相因疏忽而暴露。"
-    },
-    "equivalents": [
-      "give the game away",
-      "be found out"
-    ],
-    "examples": [
-      {
-        "zh": "他撒的谎很快就露馅了。",
-        "en": "His lie was soon exposed."
-      },
-      {
-        "zh": "一开口说话，她就露了馅。",
-        "en": "The moment she spoke, she gave herself away."
-      }
-    ],
-    "usage": {
-      "en": "Image: filling bursting out of a dumpling. Also 露馅儿.",
-      "zh": "像包子饺子的馅漏出来。口语中常儿化。"
-    },
-    "synonyms": [
-      "败露",
-      "穿帮"
-    ],
-    "antonyms": [
-      "滴水不漏",
-      "天衣无缝"
     ]
   },
   {

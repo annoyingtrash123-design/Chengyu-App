@@ -448,57 +448,11 @@
       "zh": "含贬义。也写作“打抽丰”。来源有争议。"
     },
     "synonyms": [
-      "揩油",
       "蹭吃蹭喝"
     ],
     "antonyms": [
       "自食其力",
       "慷慨解囊"
-    ]
-  },
-  {
-    "id": "bai-pu",
-    "text": "摆谱",
-    "pinyin": "bǎi pǔ",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "attitude-humble-vs-arrogant",
-      "luxury-and-extravagance"
-    ],
-    "literal": "put on · style",
-    "natural": "put on airs",
-    "meaning": {
-      "en": "To show off one's status or make unreasonable demands to seem important.",
-      "zh": "故意显示排场和身份，摆出架势。"
-    },
-    "equivalents": [
-      "put on airs",
-      "act the big shot"
-    ],
-    "examples": [
-      {
-        "zh": "她刚红起来就开始摆谱，出门要带五个助理。",
-        "en": "She started putting on airs once she got famous, taking five assistants everywhere."
-      },
-      {
-        "zh": "他请客时爱摆谱，专点最贵的菜。",
-        "en": "He likes to show off when hosting, ordering the priciest dishes."
-      }
-    ],
-    "usage": {
-      "en": "Northern colloquial; can be written 摆谱儿. Opposite of 低调.",
-      "zh": "北方口语，常儿化为“摆谱儿”。反义“低调”。"
-    },
-    "synonyms": [
-      "摆架子",
-      "耍大牌"
-    ],
-    "antonyms": [
-      "低调",
-      "平易近人"
     ]
   },
   {
@@ -590,51 +544,6 @@
     "antonyms": [
       "平稳过渡",
       "稳中求进"
-    ]
-  },
-  {
-    "id": "zou-yan",
-    "text": "走眼",
-    "pinyin": "zǒu yǎn",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "mistakes-and-correction",
-      "near-misses-and-setbacks"
-    ],
-    "literal": "walk · eye",
-    "natural": "misjudge; get it wrong",
-    "meaning": {
-      "en": "To misjudge something by looking, e.g. take a fake for real.",
-      "zh": "看错了；因判断失误而看走了眼。"
-    },
-    "equivalents": [
-      "misjudge",
-      "be fooled"
-    ],
-    "examples": [
-      {
-        "zh": "这回我走眼了，没想到他这么能干。",
-        "en": "I misjudged him; I never thought he'd be so capable."
-      },
-      {
-        "zh": "古董商也有走眼的时候。",
-        "en": "Even antique dealers get it wrong at times."
-      }
-    ],
-    "usage": {
-      "en": "Often 看走眼 or 走了眼. Slight self-reproach.",
-      "zh": "常说“看走眼”“走了眼”。"
-    },
-    "synonyms": [
-      "看走眼",
-      "看错"
-    ],
-    "antonyms": [
-      "慧眼识珠",
-      "明察秋毫"
     ]
   },
   {
