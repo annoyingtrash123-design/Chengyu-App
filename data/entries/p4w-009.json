@@ -1,0 +1,968 @@
+[
+  {
+    "id": "chi-jiao-yi-sheng",
+    "text": "赤脚医生",
+    "pinyin": "chì jiǎo yī shēng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "communist-era",
+      "medical-skill-and-healing",
+      "poverty-and-hardship"
+    ],
+    "literal": "bare · foot · doctor",
+    "natural": "barefoot doctor",
+    "meaning": {
+      "en": "A farmer trained in basic medicine who provided primary care in Chinese villages from the 1960s to the early 1980s.",
+      "zh": "20世纪60年代至80年代初，在农村提供基层医疗服务的、受过基本医学培训的农民医生。"
+    },
+    "equivalents": [
+      "barefoot doctor",
+      "village health worker"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷年轻时是村里的赤脚医生，背着药箱走遍了十里八乡。",
+        "en": "In his youth my grandfather was a barefoot doctor, carrying his medicine box to every village around."
+      },
+      {
+        "zh": "这部纪录片回顾了赤脚医生为农村医疗打下的基础。",
+        "en": "The documentary looks back at the foundation barefoot doctors laid for rural healthcare."
+      }
+    ],
+    "usage": {
+      "en": "The name came from farmers who treated patients while still working barefoot in the paddy fields. The system was replaced by village doctors from the 1980s; the English term 'barefoot doctor' is also used abroad for community health workers. Neutral, historical.",
+      "zh": "这一名称源于一边下田劳动、一边给乡亲看病的农民医生。1980年代后逐渐由乡村医生取代；英语 barefoot doctor 也被国际上用来指基层卫生员。中性，多作历史用语。"
+    },
+    "synonyms": [
+      "乡村医生"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "liang-ge-fan-shi",
+    "text": "两个凡是",
+    "pinyin": "liǎng gè fán shì",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "news-and-officialese",
+      "resistance-to-change"
+    ],
+    "literal": "two · items · all · are",
+    "natural": "the 'Two Whatevers'",
+    "meaning": {
+      "en": "A 1977 editorial formula holding that whatever policy Mao Zedong decided and whatever instruction he gave must be upheld; it was later criticised and set aside.",
+      "zh": "1977年社论中的提法：凡是毛泽东作出的决策都要坚决维护，凡是毛泽东的指示都要始终不渝地遵循；后来受到批评并被放弃。"
+    },
+    "equivalents": [
+      "the 'Two Whatevers'",
+      "the 'Whatever' policy"
+    ],
+    "examples": [
+      {
+        "zh": "历史教材讲到，“两个凡是”曾束缚了思想解放。",
+        "en": "The history textbook says the 'Two Whatevers' had held back the liberation of thought."
+      },
+      {
+        "zh": "真理标准问题的讨论，是对两个凡是的一次有力回应。",
+        "en": "The debate on the criterion of truth was a strong response to the 'Two Whatevers'."
+      }
+    ],
+    "usage": {
+      "en": "The formula appeared in a joint editorial of People's Daily, Red Flag and the Liberation Army Daily on 7 February 1977. It is discussed in connection with the 1978 debate on 'practice is the sole criterion of truth' and the reform era. A historical term; no origin field because it is a collective editorial.",
+      "zh": "这一提法出自1977年2月7日《人民日报》《红旗》杂志、《解放军报》的社论。常与1978年“实践是检验真理的唯一标准”的讨论和改革开放联系起来谈。历史用语；属集体社论，故不标出处。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "实事求是"
+    ]
+  },
+  {
+    "id": "wen-gong-wu-wei",
+    "text": "文攻武卫",
+    "pinyin": "wén gōng wǔ wèi",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "conflict-and-strife",
+      "chaos"
+    ],
+    "literal": "words · attack · force · defend",
+    "natural": "attack with words, defend with force",
+    "meaning": {
+      "en": "A Cultural Revolution slogan of 1967 urging factions to argue with words but defend themselves with arms; in practice it fed armed factional fighting.",
+      "zh": "1967年文化大革命中的口号，主张用言辞批判对方、用武力保卫自己；实际上助长了派系武斗。"
+    },
+    "equivalents": [
+      "verbal attack and armed defence",
+      "fight with words, defend with weapons"
+    ],
+    "examples": [
+      {
+        "zh": "讲到1967年的武斗，课本提到了“文攻武卫”的口号。",
+        "en": "Describing the armed clashes of 1967, the textbook mentions the slogan 'attack with words, defend with force'."
+      },
+      {
+        "zh": "文攻武卫在当时造成了许多不必要的伤亡。",
+        "en": "The 'attack with words, defend with force' slogan caused many needless casualties at the time."
+      }
+    ],
+    "usage": {
+      "en": "Associated with the summer of 1967 and a speech attributed to Jiang Qing, though the exact attribution is debated, so no origin is given. Used today only as a historical reference to Cultural Revolution violence. Formal, neutral.",
+      "zh": "与1967年夏天的局势相联系，常说与江青的讲话有关，但具体出处说法不一，故不标出处。今天只作回顾文革武斗的历史用语。正式，中性。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "zou-bai-zhuan-dao-lu",
+    "text": "走白专道路",
+    "pinyin": "zǒu bái zhuān dào lù",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "learning-difficulties",
+      "conflict-and-strife"
+    ],
+    "literal": "walk · white · specialist · road",
+    "natural": "take the 'white and expert' road",
+    "meaning": {
+      "en": "A political accusation of the 1950s-70s aimed at people who pursued professional expertise while neglecting political commitment ('white' meaning politically unsound, 'expert' meaning technically skilled).",
+      "zh": "20世纪五六十年代至七十年代的政治批评用语，指只钻研业务技术、不关心政治（“白”指政治上不红）的人。"
+    },
+    "equivalents": [
+      "pursue expertise over politics",
+      "go down the 'white and expert' road"
+    ],
+    "examples": [
+      {
+        "zh": "回忆录里写到，他当年因为钻研业务被批评走白专道路。",
+        "en": "His memoir says he was once criticised for taking the 'white and expert' road simply because he devoted himself to his work."
+      },
+      {
+        "zh": "走白专道路在当时是一顶沉重的帽子，如今已无人再提。",
+        "en": "Taking the 'white and expert' road was a heavy label then; nobody uses it now."
+      }
+    ],
+    "usage": {
+      "en": "The contrast was between being 'red' (politically committed) and 'expert' (technical expertise), with 'white' as a pejorative. The idea was challenged after 1978, when respect for intellectuals was restored. Used today only in historical narration. Formal, negative in its original sense.",
+      "zh": "当时的对立是“红”（政治觉悟高）与“专”（业务技术），“白”带贬义。1978年后恢复尊重知识分子，这一说法随之淡出。今天只用于叙述历史。正式，原意含贬义。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "又红又专"
+    ]
+  },
+  {
+    "id": "chu-shen-bu-hao",
+    "text": "出身不好",
+    "pinyin": "chū shēn bù hǎo",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "fairness-and-impartiality",
+      "poverty-and-hardship"
+    ],
+    "literal": "origin · body · not · good",
+    "natural": "of bad class background",
+    "meaning": {
+      "en": "In the Mao era, being classed as coming from a landlord, rich-peasant or other 'bad' family background, which could limit schooling, jobs and promotion.",
+      "zh": "毛泽东时代，被划为地主、富农等“不好”的家庭成分，在上学、就业、晋升上可能受到限制。"
+    },
+    "equivalents": [
+      "of 'bad' class background",
+      "tainted by family background"
+    ],
+    "examples": [
+      {
+        "zh": "因为家庭出身不好，他当年没能上高中。",
+        "en": "Because his family background was classed as bad, he could not go to senior high school in those years."
+      },
+      {
+        "zh": "小说写了一个出身不好的青年在时代里的遭遇。",
+        "en": "The novel tells of a young man of 'bad' background and what befell him in those years."
+      }
+    ],
+    "usage": {
+      "en": "Part of the class-background (家庭成分) system in which families were labelled 'red' categories (workers, poor peasants) or 'black' categories (landlords and others). The term is used today only about that era; in everyday modern speech 出身 can also just mean social background. Formal, historical.",
+      "zh": "属于“家庭成分”制度：工人、贫农等为“红五类”，地主等为“黑五类”。今天只用于谈那个时代；日常用语中“出身”也可泛指社会背景。正式，历史用语。"
+    },
+    "synonyms": [
+      "成分不好"
+    ],
+    "antonyms": [
+      "根正苗红",
+      "出身红色"
+    ]
+  },
+  {
+    "id": "zhi-shi-qing-nian",
+    "text": "知识青年",
+    "pinyin": "zhī shi qīng nián",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "journeys-and-exploration",
+      "poverty-and-hardship"
+    ],
+    "literal": "knowledge · young · people",
+    "natural": "educated youth",
+    "meaning": {
+      "en": "Urban middle-school and high-school graduates sent to live and work in the countryside or border regions, mainly between 1968 and 1980.",
+      "zh": "主要在1968年至1980年间，被安排到农村或边疆生活劳动的城市初高中毕业生。"
+    },
+    "equivalents": [
+      "educated youth",
+      "sent-down youth"
+    ],
+    "examples": [
+      {
+        "zh": "父亲当过知识青年，在黑龙江的农场待了七年。",
+        "en": "My father was an educated youth and spent seven years on a farm in Heilongjiang."
+      },
+      {
+        "zh": "这部电视剧讲述了一群知识青年在农村的成长故事。",
+        "en": "The TV drama tells how a group of educated youths grew up in the countryside."
+      }
+    ],
+    "usage": {
+      "en": "Usually shortened to 知青 in speech. The movement is called 上山下乡 ('up to the mountains, down to the villages'). The phrase is also sometimes used in modern writing for any educated young person, but its strongest meaning is historical. Neutral, formal.",
+      "zh": "口语中常简称“知青”。这一运动称为“上山下乡”。现代文中偶尔也泛指有文化的青年，但最主要的含义是历史上的。中性，正式。"
+    },
+    "synonyms": [
+      "下乡青年"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "cha-dui-luo-hu",
+    "text": "插队落户",
+    "pinyin": "chā duì luò hù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "journeys-and-exploration",
+      "poverty-and-hardship"
+    ],
+    "literal": "insert · team · settle · household",
+    "natural": "join a village production team and settle there",
+    "meaning": {
+      "en": "To be assigned to a rural production team and register as a villager there, the usual way educated youth went to the countryside in the 1960s-70s.",
+      "zh": "被安排到农村生产队，并把户口落在当地，是六七十年代知识青年下乡的主要方式。"
+    },
+    "equivalents": [
+      "settle in a village as a sent-down youth",
+      "be sent down to the countryside"
+    ],
+    "examples": [
+      {
+        "zh": "他高中毕业后到陕北插队落户，一待就是六年。",
+        "en": "After finishing high school he went to northern Shaanxi to settle in a village team and stayed six years."
+      },
+      {
+        "zh": "许多作家都写过自己插队落户的经历。",
+        "en": "Many writers have written about their own time settling in a village production team."
+      }
+    ],
+    "usage": {
+      "en": "Often shortened to 插队. The contrast was with going to a state farm or corps (兵团). The 落户 part means moving one's household registration (户口) to the village. Historical, neutral.",
+      "zh": "常简称“插队”。与到国营农场、兵团的方式相区别。“落户”指把户口迁到当地农村。历史用语，中性。"
+    },
+    "synonyms": [
+      "上山下乡"
+    ],
+    "antonyms": [
+      "招工回城"
+    ]
+  },
+  {
+    "id": "zhao-gong-hui-cheng",
+    "text": "招工回城",
+    "pinyin": "zhāo gōng huí chéng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "comebacks-and-renewal",
+      "journeys-and-exploration"
+    ],
+    "literal": "recruit · workers · return · city",
+    "natural": "be recruited and return to the city",
+    "meaning": {
+      "en": "Being selected for an urban factory job, which allowed a sent-down youth to leave the countryside and return to the city, one of the main routes home in the 1970s.",
+      "zh": "被城市工厂招收为工人，使下乡知青得以离开农村、回到城市，是七十年代知青返城的主要途径之一。"
+    },
+    "equivalents": [
+      "get recruited back to the city",
+      "return to the city through a factory job"
+    ],
+    "examples": [
+      {
+        "zh": "1975年，他因为招工回城，终于离开了生活七年的农村。",
+        "en": "In 1975 he was recruited by a factory and at last left the village where he had lived for seven years."
+      },
+      {
+        "zh": "当时能招工回城的名额很少，大家都在争。",
+        "en": "There were few places for recruitment back to the city then, and everyone competed for them."
+      }
+    ],
+    "usage": {
+      "en": "Other routes back included university entrance (from 1977), illness, or the large-scale return of 1978-80 when the programme was wound down. A historical term. Neutral to positive from the youths' viewpoint.",
+      "zh": "回城的其他途径还有上大学（1977年起）、因病返城，以及1978至1980年这一运动结束时的大规模返城。历史用语。从知青角度看，中性偏褒义。"
+    },
+    "synonyms": [
+      "返城"
+    ],
+    "antonyms": [
+      "插队落户"
+    ]
+  },
+  {
+    "id": "men-sheng-fa-da-cai",
+    "text": "闷声发大财",
+    "pinyin": "mèn shēng fā dà cái",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "communist-era",
+      "deception-and-false-appearances",
+      "news-and-officialese"
+    ],
+    "literal": "muffled · sound · make · big · fortune",
+    "natural": "get rich quietly",
+    "meaning": {
+      "en": "To make a lot of money without drawing attention to oneself or making a fuss; also, to say nothing and quietly pursue one's interests.",
+      "zh": "不声张、不张扬，悄悄赚大钱；也指不多说话，只顾埋头搞自己的事。"
+    },
+    "equivalents": [
+      "keep a low profile and make a fortune",
+      "get rich quietly"
+    ],
+    "examples": [
+      {
+        "zh": "他们不炒作，只是闷声发大财。",
+        "en": "They don't hype themselves up; they just get rich quietly."
+      },
+      {
+        "zh": "这家公司一直低调，闷声发大财，外界很少注意到。",
+        "en": "The company has always kept a low profile and quietly made a fortune, and outsiders rarely notice."
+      }
+    ],
+    "usage": {
+      "en": "Popularly associated with the reform-era attitude of getting on with development without public argument, but the exact wording has no reliable source, so no origin is given. In modern use it is a casual, often teasing or admiring phrase for low-key business success.",
+      "zh": "民间常与改革开放时期“不争论、埋头发展”的态度联系起来，但这一具体说法没有可靠出处，故不标出处。现代口语中多带调侃或羡慕，指低调地做成大生意。"
+    },
+    "synonyms": [
+      "低调发财"
+    ],
+    "antonyms": [
+      "大张旗鼓",
+      "招摇过市"
+    ]
+  },
+  {
+    "id": "xia-hai-jing-shang",
+    "text": "下海经商",
+    "pinyin": "xià hǎi jīng shāng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "communist-era",
+      "innovation-and-progress",
+      "change"
+    ],
+    "literal": "go down · sea · run · trade",
+    "natural": "plunge into the sea of business",
+    "meaning": {
+      "en": "To leave a secure job, such as in government or a state institution, and go into private business; especially the wave of such moves after 1992.",
+      "zh": "辞去机关、事业单位等稳定的工作，转而经营个体或私营商业；尤指1992年以后出现的热潮。"
+    },
+    "equivalents": [
+      "go into business",
+      "leave one's job for private enterprise"
+    ],
+    "examples": [
+      {
+        "zh": "1992年以后，不少干部和教师选择下海经商。",
+        "en": "After 1992, many officials and teachers chose to leave their posts and go into business."
+      },
+      {
+        "zh": "他辞去公职下海经商，如今已是公司老板。",
+        "en": "He gave up his civil-service post to go into business and is now a company owner."
+      }
+    ],
+    "usage": {
+      "en": "下海 ('go down to the sea') became the standard metaphor for entering the market economy, especially after Deng Xiaoping's 1992 southern tour. Often shortened to just 下海 in speech. Neutral, widely used in speech and writing.",
+      "zh": "“下海”成为投身市场经济的通行比喻，尤其在1992年邓小平南方谈话之后。口语中常只说“下海”。中性，口语书面语都常用。"
+    },
+    "synonyms": [
+      "弃政从商"
+    ],
+    "antonyms": [
+      "铁饭碗"
+    ]
+  },
+  {
+    "id": "xing-zi-xing-she",
+    "text": "姓资姓社",
+    "pinyin": "xìng zī xìng shè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "conflict-and-strife",
+      "news-and-officialese"
+    ],
+    "literal": "surname · capital · surname · socialism",
+    "natural": "capitalist or socialist",
+    "meaning": {
+      "en": "The question of whether a policy or practice 'bears the surname' capitalism or socialism; in the early 1990s a debate over whether market measures were socialist.",
+      "zh": "一项政策或做法是“姓资”（资本主义）还是“姓社”（社会主义）的问题；1990年代初曾围绕市场手段是否属于社会主义展开讨论。"
+    },
+    "equivalents": [
+      "is it capitalist or socialist?",
+      "the capitalist-or-socialist question"
+    ],
+    "examples": [
+      {
+        "zh": "改革初期，人们常争论一项措施到底姓资姓社。",
+        "en": "In the early reform years people often argued whether a given measure was capitalist or socialist."
+      },
+      {
+        "zh": "课上讲到，南方谈话明确了不必争论姓资姓社。",
+        "en": "The class covered how the Southern Tour made clear that there was no need to argue over 'capitalist or socialist'."
+      }
+    ],
+    "usage": {
+      "en": "Deng Xiaoping's 1992 southern tour talks said that the test should be whether a measure promotes productive forces, not whether it 'bears the surname' of capitalism or socialism. The phrase is used today as a historical or political-theory reference. Formal, neutral.",
+      "zh": "邓小平1992年南方谈话指出，判断标准主要看是否有利于发展生产力，而不是看“姓资”还是“姓社”。今天多作历史或政治理论上的引用。正式，中性。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "xian-fu-dai-hou-fu",
+    "text": "先富带后富",
+    "pinyin": "xiān fù dài hòu fù",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "first · get rich · lead · later · get rich",
+    "natural": "let the first-rich lead the later-rich",
+    "meaning": {
+      "en": "A reform-era principle that those who prosper first should help others to prosper later, so that wealth spreads to everyone.",
+      "zh": "改革开放时期的原则：先富裕起来的人和地区要帮助后富裕的人和地区，最终实现共同富裕。"
+    },
+    "equivalents": [
+      "let some get rich first and help the rest",
+      "the early-rich lead the late-rich"
+    ],
+    "examples": [
+      {
+        "zh": "政府鼓励先富带后富，帮助山区农民脱贫。",
+        "en": "The government encourages those who got rich first to help others, assisting farmers in the mountains out of poverty."
+      },
+      {
+        "zh": "这家企业用先富带后富的办法带动了整个村子的发展。",
+        "en": "The enterprise followed the principle of the first-rich leading the later-rich and lifted the whole village."
+      }
+    ],
+    "usage": {
+      "en": "A companion to the idea of letting some people and regions get rich first (让一部分人先富起来, a separate entry); the aim is stated as 共同富裕. Formal, neutral to positive, common in policy writing.",
+      "zh": "与“让一部分人先富起来”（另有词条）的思路相配套，目标是共同富裕。正式，中性偏褒义，常见于政策文件。"
+    },
+    "synonyms": [
+      "共同富裕"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-cu-bu-yi-xi",
+    "text": "宜粗不宜细",
+    "pinyin": "yí cū bù yí xì",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "good-governance",
+      "adaptability"
+    ],
+    "literal": "suitable · broad · not · suitable · detailed",
+    "natural": "better broad than detailed",
+    "meaning": {
+      "en": "A principle that a law, plan or document should set broad outlines first and not lay down every detail, so that it can be adjusted as experience grows.",
+      "zh": "主张法律、计划或文件先定大的原则，不要规定得过细，以便随着经验积累再调整。"
+    },
+    "equivalents": [
+      "broad strokes rather than detail",
+      "keep it general for now"
+    ],
+    "examples": [
+      {
+        "zh": "这条规定当年宜粗不宜细，留下了很大的调整空间。",
+        "en": "That rule was drawn up broadly rather than in detail, leaving plenty of room to adjust."
+      },
+      {
+        "zh": "起草初期要宜粗不宜细，先把框架搭起来。",
+        "en": "In the early drafting stage keep it broad rather than detailed and build the framework first."
+      }
+    ],
+    "usage": {
+      "en": "Associated with Deng Xiaoping's 1978-1980 remarks on building a legal system, where he said legislation could be 'broad rather than detailed' at first; the exact wording is quoted in secondary sources, so no origin is given. Formal, mostly in legal and policy contexts.",
+      "zh": "常与邓小平1978至1980年间谈法制建设的讲话联系起来，当时提到立法可先“宜粗不宜细”；确切原话多见于二手引用，故不标出处。正式，多用于法律和政策场合。"
+    },
+    "synonyms": [
+      "先粗后细"
+    ],
+    "antonyms": [
+      "面面俱到",
+      "事无巨细"
+    ]
+  },
+  {
+    "id": "bu-wei-shang-bu-wei-shu-zhi-wei-shi",
+    "text": "不唯上，不唯书，只唯实",
+    "pinyin": "bù wéi shàng, bù wéi shū, zhǐ wéi shí",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "frankness-and-candour",
+      "positive-character-qualities"
+    ],
+    "literal": "not · defer to · superiors, not · defer to · books, only · defer to · reality",
+    "natural": "not by superiors, not by books, only by facts",
+    "meaning": {
+      "en": "A guiding rule for officials and researchers: do not simply follow your superiors or the books, but base decisions on actual conditions.",
+      "zh": "对干部和研究者的要求：不盲从上级，不迷信书本，只根据实际情况办事。"
+    },
+    "equivalents": [
+      "follow neither superiors nor books, only the facts",
+      "be guided by reality alone"
+    ],
+    "examples": [
+      {
+        "zh": "他坚持不唯上，不唯书，只唯实，经常下乡调研。",
+        "en": "He holds to 'not by superiors, not by books, only by facts' and often goes to the countryside to investigate."
+      },
+      {
+        "zh": "干部培训班上，老师反复强调不唯上，不唯书，只唯实。",
+        "en": "At the cadre training class the teacher stressed again and again: not by superiors, not by books, only by facts."
+      }
+    ],
+    "usage": {
+      "en": "Often quoted in the Chinese press in discussions on seeking truth from facts (实事求是). Its exact first author is not firmly established, so no origin is given. Formal, positive.",
+      "zh": "常见于讨论“实事求是”的文章。最初出自何人说法不一，故不标出处。正式，褒义。"
+    },
+    "synonyms": [
+      "实事求是"
+    ],
+    "antonyms": [
+      "唯命是从",
+      "本本主义"
+    ]
+  },
+  {
+    "id": "zhua-da-fang-xiao",
+    "text": "抓大放小",
+    "pinyin": "zhuā dà fàng xiǎo",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "efficiency",
+      "news-and-officialese"
+    ],
+    "literal": "grasp · big · release · small",
+    "natural": "hold on to the big, let go of the small",
+    "meaning": {
+      "en": "A 1990s state-enterprise policy of keeping control of large enterprises while freeing small and medium ones to be restructured, leased or sold.",
+      "zh": "1990年代国有企业改革的方针：搞好大型企业，放开搞活中小型企业，使其通过改组、租赁、出售等方式转制。"
+    },
+    "equivalents": [
+      "keep the big, release the small",
+      "retain large firms, free the small ones"
+    ],
+    "examples": [
+      {
+        "zh": "国企改革时期提出了抓大放小的方针。",
+        "en": "The policy of 'holding on to the big, letting go of the small' was introduced in the era of state-enterprise reform."
+      },
+      {
+        "zh": "管理者要懂得抓大放小，不能事事亲自过问。",
+        "en": "A manager must know to keep the big matters and let the small ones go, rather than deal with everything personally."
+      }
+    ],
+    "usage": {
+      "en": "Became prominent after the 15th Party Congress in 1997. In general use it also means focusing on the main points and delegating the minor ones. Formal, neutral.",
+      "zh": "1997年中共十五大后广泛使用。日常也泛指抓住重点、放手处理次要事务。正式，中性。"
+    },
+    "synonyms": [
+      "举重若轻",
+      "统筹兼顾"
+    ],
+    "antonyms": [
+      "事必躬亲",
+      "因小失大"
+    ]
+  },
+  {
+    "id": "ren-min-dui-mei-hao-sheng",
+    "text": "人民对美好生活的向往，就是我们的奋斗目标",
+    "pinyin": "rén mín duì měi hǎo shēng huó de xiàng wǎng, jiù shì wǒ men de fèn dòu mù biāo",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "high-aspirations",
+      "news-and-officialese"
+    ],
+    "literal": "people · toward · fine · life · 's · yearning, is · our · 's · struggle · goal",
+    "natural": "the people's longing for a better life is our goal",
+    "meaning": {
+      "en": "The people's longing for a better life is what the leadership says it strives to achieve.",
+      "zh": "人民向往美好的生活，这就是我们努力实现的目标。"
+    },
+    "equivalents": [
+      "the people's yearning for a better life is our goal",
+      "a better life for the people is what we strive for"
+    ],
+    "examples": [
+      {
+        "zh": "新闻发布会上引用了“人民对美好生活的向往，就是我们的奋斗目标”。",
+        "en": "The press conference quoted the line 'the people's yearning for a better life is our goal'."
+      },
+      {
+        "zh": "社区把这句话写在了墙上：人民对美好生活的向往，就是我们的奋斗目标。",
+        "en": "The community put the line on its wall: the people's yearning for a better life is our goal."
+      }
+    ],
+    "origin": {
+      "source": "习近平，2012年11月15日中共十八届一中全会后与中外记者见面时的讲话",
+      "story": {
+        "en": "Xi Jinping said this when he met the press on 15 November 2012, the day he became General Secretary of the Communist Party of China.",
+        "zh": "2012年11月15日，习近平当选中共中央总书记后与中外记者见面时说：“人民对美好生活的向往，就是我们的奋斗目标。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted widely in official media and local government work reports, often as a shorthand for people-centred governance. Formal. Treat it as a political quotation rather than a classical line.",
+      "zh": "在官方媒体和政府工作报告中广泛引用，常用来概括以人民为中心的执政理念。正式。属当代政治表述，不是古典名句。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "yi-ge-zhong-xin-liang-ge-ji-ben-dian",
+    "text": "一个中心，两个基本点",
+    "pinyin": "yī gè zhōng xīn, liǎng gè jī běn diǎn",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "one · item · centre, two · items · basic · points",
+    "natural": "one centre, two basic points",
+    "meaning": {
+      "en": "The shorthand for the Party's basic line from 1987: take economic development as the central task, while upholding the Four Cardinal Principles and reform and opening up.",
+      "zh": "1987年以来党的基本路线的简称：以经济建设为中心，坚持四项基本原则和改革开放这两个基本点。"
+    },
+    "equivalents": [
+      "one central task, two basic points",
+      "the 'one centre, two basic points' line"
+    ],
+    "examples": [
+      {
+        "zh": "政治课上讲了“一个中心，两个基本点”的内容。",
+        "en": "The politics class explained what 'one centre, two basic points' means."
+      },
+      {
+        "zh": "改革开放以来，一个中心，两个基本点一直是基本路线的核心。",
+        "en": "Since reform and opening up, 'one centre, two basic points' has been the core of the basic line."
+      }
+    ],
+    "origin": {
+      "source": "中国共产党第十三次全国代表大会（1987年）",
+      "story": {
+        "en": "The 13th National Congress of the Communist Party of China in 1987 set out the basic line of 'one centre, two basic points'.",
+        "zh": "1987年中共十三大提出并阐述了“一个中心、两个基本点”的基本路线。"
+      }
+    },
+    "usage": {
+      "en": "Formulated at the 13th Party Congress in 1987 and written into later Party documents. A formal political term, usually met in textbooks and official documents.",
+      "zh": "在1987年中共十三大上提出，并写入以后的党的文件。正式的政治用语，多见于教材和官方文件。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "xiao-kang-she-hui",
+    "text": "小康社会",
+    "pinyin": "xiǎo kāng shè huì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "peace-and-prosperity",
+      "news-and-officialese"
+    ],
+    "literal": "modest · well-off · society",
+    "natural": "moderately prosperous society",
+    "meaning": {
+      "en": "A society in which people are comfortably, though not lavishly, off; a stated national goal of reform-era China, declared achieved in 2021.",
+      "zh": "人民生活比较宽裕、但不算富足的社会；改革开放以来的国家目标，2021年宣布全面建成。"
+    },
+    "equivalents": [
+      "moderately prosperous society",
+      "a society of modest well-being"
+    ],
+    "examples": [
+      {
+        "zh": "政府提出要在2020年全面建成小康社会。",
+        "en": "The government set the goal of fully building a moderately prosperous society by 2020."
+      },
+      {
+        "zh": "小康社会的目标让农村也用上了自来水和宽带。",
+        "en": "The goal of a moderately prosperous society brought running water and broadband to the villages too."
+      }
+    ],
+    "usage": {
+      "en": "小康 is an old word: it appears in the Book of Songs (《诗经》) and in the 《礼记·礼运》 chapter's picture of a 'lesser' ideal society. The modern goal is usually linked to Deng Xiaoping's 1979 talk of a 'xiaokang' standard of living, but this entry gives no single origin because the word predates it. Formal, positive.",
+      "zh": "“小康”是古词，见于《诗经》和《礼记·礼运》中的“小康”之世。现代目标通常与邓小平1979年谈“小康之家”联系起来，但该词早已有之，故不标单一出处。正式，褒义。"
+    },
+    "synonyms": [
+      "富裕社会"
+    ],
+    "antonyms": [
+      "贫困落后"
+    ]
+  },
+  {
+    "id": "gong-tong-fu-yu",
+    "text": "共同富裕",
+    "pinyin": "gòng tóng fù yù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "peace-and-prosperity",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "together · same · rich · abundant",
+    "natural": "common prosperity",
+    "meaning": {
+      "en": "A goal of prosperity shared by all, stated in the reform era as the aim of letting some get rich first.",
+      "zh": "全体人民共同享有的富裕，改革开放时期被确立为先富带后富的最终目标。"
+    },
+    "equivalents": [
+      "common prosperity",
+      "shared wealth"
+    ],
+    "examples": [
+      {
+        "zh": "这个村子靠合作社实现了共同富裕。",
+        "en": "The village achieved common prosperity through its cooperative."
+      },
+      {
+        "zh": "会议强调要在高质量发展中促进共同富裕。",
+        "en": "The meeting stressed promoting common prosperity within high-quality development."
+      }
+    ],
+    "usage": {
+      "en": "Stressed in Deng Xiaoping's remarks of the 1980s and 90s, and again in official statements in the 2020s. It is a policy term; no single origin is given. Formal, positive in official use.",
+      "zh": "邓小平1980至1990年代的讲话中多次强调，2020年代的官方表述中再次突出。属政策用语，不标单一出处。正式，官方语境中为褒义。"
+    },
+    "synonyms": [
+      "共享繁荣"
+    ],
+    "antonyms": [
+      "两极分化",
+      "贫富悬殊"
+    ]
+  },
+  {
+    "id": "zhong-hua-min-zu-wei-da-fu-xing",
+    "text": "中华民族伟大复兴",
+    "pinyin": "zhōng huá mín zú wěi dà fù xīng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "high-aspirations",
+      "comebacks-and-renewal",
+      "news-and-officialese"
+    ],
+    "literal": "Chinese · nation · great · revival",
+    "natural": "the great rejuvenation of the Chinese nation",
+    "meaning": {
+      "en": "The national goal of restoring China to strength and prosperity after what is described as modern humiliation; closely linked to the phrase 'Chinese Dream'.",
+      "zh": "把中国重新建设成强盛、繁荣的国家的目标，常与“中国梦”联系在一起。"
+    },
+    "equivalents": [
+      "national rejuvenation",
+      "the great rejuvenation of the Chinese nation"
+    ],
+    "examples": [
+      {
+        "zh": "报告提出，实现中华民族伟大复兴是近代以来最伟大的梦想。",
+        "en": "The report called the great rejuvenation of the Chinese nation the greatest dream since modern times."
+      },
+      {
+        "zh": "学校通过主题班会，让学生理解中华民族伟大复兴的意义。",
+        "en": "The school used theme class meetings to help students grasp the meaning of the great rejuvenation of the Chinese nation."
+      }
+    ],
+    "usage": {
+      "en": "The theme of 'reviving China' goes back to Sun Yat-sen (振兴中华, 1894), and the exact phrase became prominent after 2012 with Xi Jinping's 'Chinese Dream'. Because several leaders used it, no single origin is given. Formal, positive in official use.",
+      "zh": "“振兴中华”可追溯到孙中山（1894年），而现在的完整说法在2012年习近平提出“中国梦”后更加突出。因多位领导人使用，不标单一出处。正式，官方语境中为褒义。"
+    },
+    "synonyms": [
+      "振兴中华",
+      "民族复兴"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "hao-ren-hao-shi",
+    "text": "好人好事",
+    "pinyin": "hǎo rén hǎo shì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "communist-era",
+      "positive-character-qualities"
+    ],
+    "literal": "good · people · good · deeds",
+    "natural": "good people and good deeds",
+    "meaning": {
+      "en": "Acts of kindness and public spirit, and the ordinary people who do them, such as helping a stranger or returning lost property.",
+      "zh": "乐于助人、见义勇为、拾金不昧等善良的行为及做这些事的普通人。"
+    },
+    "equivalents": [
+      "good deeds",
+      "acts of kindness"
+    ],
+    "examples": [
+      {
+        "zh": "学校开展了学雷锋做好人好事的活动。",
+        "en": "The school ran a campaign to follow Lei Feng and do good deeds."
+      },
+      {
+        "zh": "社区公告栏上表扬了不少好人好事。",
+        "en": "The community noticeboard praised many acts of kindness."
+      }
+    ],
+    "usage": {
+      "en": "A set phrase of the Mao-era campaigns such as 'Learn from Lei Feng' (March each year), now an everyday phrase in news, schools and neighbourhoods. 做好事 is the verb form. Neutral to formal, positive.",
+      "zh": "起源于“学雷锋”等运动（每年3月），现在是新闻、学校和社区里的日常用语。动词形式为“做好事”。中性偏正式，褒义。"
+    },
+    "synonyms": [
+      "助人为乐",
+      "乐善好施"
+    ],
+    "antonyms": [
+      "为非作歹",
+      "损人利己"
+    ]
+  },
+  {
+    "id": "ku-gan-shi-gan",
+    "text": "苦干实干",
+    "pinyin": "kǔ gàn shí gàn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "communist-era",
+      "positive-character-qualities",
+      "high-aspirations"
+    ],
+    "literal": "hard · work · solid · work",
+    "natural": "work hard and work solidly",
+    "meaning": {
+      "en": "To work with great effort and in a down-to-earth manner, instead of just talking.",
+      "zh": "埋头努力、脚踏实地地做事，而不只是空谈。"
+    },
+    "equivalents": [
+      "work hard and get things done",
+      "roll up one's sleeves"
+    ],
+    "examples": [
+      {
+        "zh": "要想改变村里的面貌，只有苦干实干。",
+        "en": "The only way to change the village is to work hard and work solidly."
+      },
+      {
+        "zh": "这支团队靠苦干实干拿下了订单。",
+        "en": "The team won the order through hard, solid work."
+      }
+    ],
+    "usage": {
+      "en": "A slogan-like phrase of official speeches and the press, often paired with 空谈 ('empty talk') as its opposite and with 巧干 ('work smart'). Formal, positive.",
+      "zh": "常见于官方讲话和报刊的口号式用语，常与“空谈”相对，也常与“巧干”并提。正式，褒义。"
+    },
+    "synonyms": [
+      "埋头苦干"
+    ],
+    "antonyms": [
+      "空谈误国",
+      "夸夸其谈"
+    ]
+  }
+]
