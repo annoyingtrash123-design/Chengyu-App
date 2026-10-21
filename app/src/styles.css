@@ -426,4 +426,3 @@ h1.hanzi-xl { margin: 0; }
 .variant-line { margin-top: 2px; }
 .variant-head { color: var(--muted); font-size: 0.85em; }
 .variant-error { color: var(--muted); }
-.variant-error s { text-decoration-color: var(--bad); }

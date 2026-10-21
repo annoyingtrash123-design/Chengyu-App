@@ -181,10 +181,10 @@ const VARIANT_HEAD: Record<string, [string, string]> = {
   old: ["旧作", "Older form"],
   full: ["全作", "Full form"],
   short: ["简作", "Short form"],
-  error: ["误作", "Common error, avoid"],
+  error: ["误作", "Common error"],
 };
 
-/** The other forms of an expression, grouped: equal alternatives first, misspellings last (struck through). */
+/** The other forms of an expression, grouped: equal alternatives first, common errors (误作) last. */
 function variantLines(e: EntryDetail["entry"]) {
   if (!e.variants?.length) return null;
   const groups = new Map<string, string[]>();
@@ -205,7 +205,7 @@ function variantLines(e: EntryDetail["entry"]) {
           { class: `variant-line variant-${k}` },
           h("span", { class: "variant-head" }, en() ? `${zh} ${enText}` : zh),
           " ",
-          k === "error" ? forms.map((v, i) => [i ? "、" : "", h("s", null, v)]) : forms.join("、"),
+          forms.join("、"),
         );
       }),
   );
