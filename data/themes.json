@@ -766,20 +766,32 @@
   },
   {
     "id": "confucian-classics",
-    "en": "Confucian classics",
-    "zh": "儒家经典",
+    "en": "Confucian",
+    "zh": "儒家",
     "group": "origins"
   },
   {
     "id": "daoist-classics",
-    "en": "Daoist classics",
-    "zh": "道家经典",
+    "en": "Daoist",
+    "zh": "道家·道教",
     "group": "origins"
   },
   {
     "id": "buddhist-origin",
-    "en": "Buddhist origin",
-    "zh": "佛教来源",
+    "en": "Buddhist",
+    "zh": "佛教",
+    "group": "origins"
+  },
+  {
+    "id": "christian",
+    "en": "Christian",
+    "zh": "基督教",
+    "group": "origins"
+  },
+  {
+    "id": "islam-hui",
+    "en": "Islam & Hui",
+    "zh": "伊斯兰教·回族",
     "group": "origins"
   },
   {
