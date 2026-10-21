@@ -15,10 +15,14 @@ export const CHANGELOG: Release[] = [
     en: [
       "New period labels: 明代 Ming, 清代 Qing, 民国 Republican era, 国民党 Nationalist and 中共 Communist era, with about 200 new entries — everyday Ming sayings, Qing court and edict phrases (八百里加急, 钦此钦遵, 龙颜大悦), statesmen's lines, May Fourth and Lu Xun phrases, Sun Yat-sen, Chiang Kai-shek and Mao-era sayings and poem lines.",
       "The 三十六计 label is complete again: the five three-character stratagem names are the only entries under four characters.",
+      "About 400 famous lines and quotations: Tang and Song poetry, Ming–Qing writers, late-Qing reformers, Republican intellectuals and writers, Mao-era poems, and phrases from 西厢记 and 金瓶梅.",
+      "New source labels: 名人名言 Famous quotes, 诗人 Poets, 作家 Writers, 学者·思想家 Thinkers and 政治人物 Statesmen. The 字数 filter now includes 3.",
     ],
     zh: [
       "新增时期标签：明代、清代、民国、国民党、中共，并新增约二百条词条：明代俗语、清代朝廷与圣旨用语（八百里加急、钦此钦遵、龙颜大悦）、名臣名句、五四与鲁迅用语、孙中山、蒋介石及毛泽东时代的名言与诗句。",
       "三十六计标签重新补齐：五个三字计名是唯一少于四个字的词条。",
+      "新增约四百条名句名言：唐宋诗词、明清文人、晚清维新人物、民国学者作家、毛泽东诗词，以及《西厢记》《金瓶梅》中的常用语。",
+      "新增出处标签：名人名言、诗人、作家、学者·思想家、政治人物；“字数”筛选新增 3。",
     ],
   },
   {
