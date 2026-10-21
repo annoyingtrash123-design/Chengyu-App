@@ -51,7 +51,9 @@
     "synonyms": [
       "鸟尽弓藏",
       "过河拆桥",
-      "卸磨杀驴"
+      "卸磨杀驴",
+      "杯酒释兵权",
+      "卸磨杀驴——忘恩负义"
     ],
     "antonyms": [
       "论功行赏",
@@ -109,12 +111,19 @@
     "synonyms": [
       "临时抱佛脚",
       "亡羊补牢",
-      "临阵磨枪"
+      "临阵磨枪",
+      "船到江心，补漏迟",
+      "平时不烧香，临时抱佛脚"
     ],
     "antonyms": [
       "未雨绸缪",
       "有备无患",
-      "防患未然"
+      "防患未然",
+      "曲突徙薪",
+      "晴带雨伞，饱带饥粮",
+      "积谷防饥",
+      "备而不用",
+      "凡事预则立，不预则废"
     ]
   },
   {
@@ -169,12 +178,14 @@
     "synonyms": [
       "眼高手低",
       "好高骛远",
-      "才疏学浅"
+      "才疏学浅",
+      "空腹高心"
     ],
     "antonyms": [
       "德才兼备",
       "才高八斗",
-      "大器晚成"
+      "大器晚成",
+      "击楫中流"
     ]
   },
   {
@@ -230,7 +241,11 @@
     "synonyms": [
       "悬梁刺股",
       "凿壁偷光",
-      "孜孜不倦"
+      "孜孜不倦",
+      "孙康映雪",
+      "断齑画粥",
+      "萤窗雪案",
+      "然糠照薪"
     ],
     "antonyms": [
       "不学无术",
@@ -350,7 +365,8 @@
     },
     "synonyms": [
       "尊师重道",
-      "不耻下问"
+      "不耻下问",
+      "一日为师，终身为父"
     ],
     "antonyms": [
       "欺师灭祖",
@@ -403,7 +419,13 @@
     "antonyms": [
       "满腹经纶",
       "学富五车",
-      "博学多才"
+      "博学多才",
+      "腹有诗书",
+      "横槊赋诗",
+      "咏絮之才",
+      "才高八斗",
+      "柳絮才高",
+      "饱学之士"
     ]
   },
   {
@@ -460,7 +482,8 @@
     },
     "synonyms": [
       "树大招风",
-      "功成身退"
+      "功成身退",
+      "尾大不掉"
     ],
     "antonyms": [
       "默默无闻",
@@ -501,7 +524,7 @@
       }
     ],
     "origin": {
-      "source": "宋·沈括《梦溪笔谈》",
+      "source": "沈括《梦溪笔谈》",
       "story": {
         "en": "The Song poet Lin Bu lived as a hermit on West Lake, never married, and planted plum trees and kept cranes — people said he took plums as his wife and cranes as his sons.",
         "zh": "北宋林逋隐居西湖孤山，终身不娶，植梅养鹤，人称\"梅妻鹤子\"。"
@@ -569,7 +592,8 @@
     },
     "synonyms": [
       "福大命大",
-      "逢凶化吉"
+      "逢凶化吉",
+      "大难不死，必有后福"
     ],
     "antonyms": [
       "祸不单行",
@@ -611,7 +635,7 @@
       }
     ],
     "origin": {
-      "source": "南朝宋·刘义庆《世说新语·文学》",
+      "source": "刘义庆《世说新语·文学》",
       "story": {
         "en": "Emperor Cao Pi ordered his brother Cao Zhi to compose a poem in seven steps or die. Cao Zhi produced: \"Beans boiled over a fire of their own stalks… we grew from the same root — why so eager to cook each other?\"",
         "zh": "曹丕命曹植七步内作诗，否则处死。曹植作：\"煮豆燃豆萁，豆在釜中泣。本是同根生，相煎何太急？\""
@@ -717,7 +741,7 @@
       }
     ],
     "origin": {
-      "source": "《史记·李将军列传》；唐·王勃《滕王阁序》",
+      "source": "《史记·李将军列传》；王勃《滕王阁序》",
       "story": {
         "en": "The great Han general Li Guang fought the Xiongnu over seventy times yet was never made a marquis. Wang Teng's Pavilion Preface laments: \"Feng Tang aged easily; Li Guang was hard to ennoble.\"",
         "zh": "李广与匈奴大小七十余战，终未封侯。王勃《滕王阁序》：\"冯唐易老，李广难封。\""
@@ -859,7 +883,8 @@
     "synonyms": [
       "原形毕露",
       "水落石出",
-      "真相大白"
+      "真相大白",
+      "荆轲刺秦王——图穷匕首见"
     ],
     "antonyms": [
       "深藏不露",
@@ -901,7 +926,7 @@
       }
     ],
     "origin": {
-      "source": "唐·韩愈《进学解》",
+      "source": "韩愈《进学解》",
       "story": {
         "en": "Han Yu's \"Explanation of Progress in Learning\" imagines students mocking their teacher: \"In a warm winter your children cry from cold; in a good year your wife wails from hunger.\"",
         "zh": "韩愈《进学解》：\"冬暖而儿号寒，年丰而妻啼饥。\""
@@ -977,11 +1002,18 @@
     "synonyms": [
       "怀才不遇",
       "大材小用",
-      "明珠蒙尘"
+      "明珠蒙尘",
+      "彩凤随鸦",
+      "锦衣夜行",
+      "遗珠之憾",
+      "鲜花插在牛粪上",
+      "黄钟毁弃"
     ],
     "antonyms": [
       "人尽其才",
-      "知人善任"
+      "知人善任",
+      "好马配好鞍",
+      "慧眼识珠"
     ]
   },
   {
@@ -1072,7 +1104,9 @@
     "synonyms": [
       "居心叵测",
       "心怀叵测",
-      "别有用心"
+      "别有用心",
+      "心术不正",
+      "图谋不轨"
     ],
     "antonyms": [
       "心地善良",
@@ -1226,7 +1260,8 @@
     },
     "synonyms": [
       "鞍前马后",
-      "效犬马之力"
+      "效犬马之力",
+      "绵薄之力"
     ],
     "antonyms": [
       "袖手旁观"
@@ -1269,7 +1304,7 @@
       }
     ],
     "origin": {
-      "source": "汉·李延年《佳人歌》",
+      "source": "李延年《佳人歌》",
       "story": {
         "en": "Li Yannian sang to Emperor Wu: \"In the north there is a beauty… one glance and a city falls, a second and a state falls\" (一顾倾人城，再顾倾人国). The singer was his sister, who became Lady Li.",
         "zh": "李延年《佳人歌》：\"北方有佳人，绝世而独立。一顾倾人城，再顾倾人国。\""
@@ -1286,7 +1321,11 @@
     "synonyms": [
       "国色天香",
       "沉鱼落雁",
-      "闭月羞花"
+      "闭月羞花",
+      "艳压群芳",
+      "绝代佳人",
+      "风华绝代",
+      "天姿国色"
     ],
     "antonyms": [
       "其貌不扬",
@@ -1342,7 +1381,20 @@
     "antonyms": [
       "卑躬屈膝",
       "趾高气扬",
-      "奴颜婢膝"
+      "奴颜婢膝",
+      "俯首帖耳",
+      "攀龙附凤",
+      "摇尾乞怜",
+      "五斗折腰",
+      "胁肩谄笑",
+      "溜须拍马",
+      "低三下四",
+      "打躬作揖",
+      "阿谀逢迎",
+      "趋炎附势",
+      "城下之盟",
+      "点头哈腰",
+      "摧眉折腰"
     ]
   }
 ]

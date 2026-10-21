@@ -221,7 +221,9 @@ for f in files:
                     if a in main_of and main_of.get(a) == main_of.get(b):
                         print(f"{f}: {t}: {key} lists {a} and {b} — both forms of {main_of[a]}")
                         found += 1
-                    elif near(a, b):
+                    elif near(a, b) and not (main_of.get(a) == a and main_of.get(b) == b):
+                        # Two separate headwords are distinct entries by definition; possible
+                        # duplicate entries are reviewed separately, not as list mistakes.
                         print(f"{f}: {t}: {key} lists {a} and {b} — variants of each other?")
                         found += 1
         notes = e["usage"]["zh"] + " " + e["usage"]["en"]

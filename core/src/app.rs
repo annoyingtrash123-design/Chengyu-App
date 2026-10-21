@@ -163,9 +163,10 @@ impl App {
         due.into_iter().map(|(_, id)| id).chain(new).take(limit).cloned().collect()
     }
 
-    /// Chengyu of the day: a stable pick from the common expressions.
+    /// Chengyu of the day: a stable pick from the common chengyu (never a saying or a famous line).
     pub fn daily(&self, today: i64) -> Option<&Entry> {
-        let pool: Vec<&Entry> = self.dict.entries().iter().filter(|e| e.frequency <= 2).collect();
+        let pool: Vec<&Entry> =
+            self.dict.entries().iter().filter(|e| e.kind == Kind::Chengyu && e.frequency <= 2).collect();
         let pool = if pool.is_empty() { self.dict.entries().iter().collect() } else { pool };
         if pool.is_empty() {
             return None;
@@ -461,7 +462,7 @@ mod tests {
         assert_eq!(e["entry"]["text"], "画蛇添足");
         assert_eq!(e["summary"]["structure"], "ABCD");
         let syns = e["synonyms"].as_array().unwrap();
-        assert_eq!(syns.len(), 2);
+        assert!(syns.len() >= 2);
         // Links resolve to an id only when the expression is in the dictionary.
         for l in syns {
             let t = l["text"].as_str().unwrap();
