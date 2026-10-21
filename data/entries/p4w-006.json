@@ -379,53 +379,6 @@
     ]
   },
   {
-    "id": "xin-sheng-huo-yun-dong",
-    "text": "新生活运动",
-    "pinyin": "xīn shēng huó yùn dòng",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "nationalist-kmt",
-      "news-and-officialese",
-      "good-governance"
-    ],
-    "literal": "new · life · campaign · movement",
-    "natural": "the New Life Movement",
-    "meaning": {
-      "en": "A social campaign launched by the Nationalist government in 1934 to promote discipline, cleanliness and traditional virtues in daily life.",
-      "zh": "国民政府1934年发起的社会运动，提倡纪律、整洁和传统美德。"
-    },
-    "equivalents": [
-      "the New Life Movement",
-      "a civic-virtue campaign"
-    ],
-    "examples": [
-      {
-        "zh": "历史课讲到了蒋介石发起的新生活运动。",
-        "en": "History class covered the New Life Movement launched by Chiang Kai-shek."
-      },
-      {
-        "zh": "新生活运动提倡礼义廉耻，要求人们讲究卫生、遵守秩序。",
-        "en": "The New Life Movement promoted propriety, righteousness, integrity and shame, and urged hygiene and good order."
-      }
-    ],
-    "origin": {
-      "source": "蒋介石，南昌（1934年2月）",
-      "story": {
-        "en": "Chiang Kai-shek launched the movement in Nanchang in February 1934; its aim was to promote everyday discipline and the four virtues 礼义廉耻.",
-        "zh": "1934年2月蒋介石在南昌发起此运动，以“礼义廉耻”为准则，整顿日常生活。"
-      }
-    },
-    "usage": {
-      "en": "A historical term. Launched in Nanchang in February 1934 by Chiang Kai-shek, with Soong Mei-ling heavily involved, it drew on Confucian ideas of 礼义廉耻. Historians assess its results differently. Neutral, formal.",
-      "zh": "历史术语。1934年2月蒋介石在南昌发起，宋美龄深度参与，以“礼义廉耻”为核心。史家对其成效评价不一。中性，正式。"
-    },
-    "synonyms": [],
-    "antonyms": []
-  },
-  {
     "id": "yi-jiang-sheng-yong-zhui-qiong",
     "text": "宜将剩勇追穷寇，不可沽名学霸王",
     "pinyin": "yí jiāng shèng yǒng zhuī qióng kòu, bù kě gū míng xué bà wáng",
@@ -1050,53 +1003,6 @@
     "antonyms": [
       "自私自利"
     ]
-  },
-  {
-    "id": "ren-min-gong-she",
-    "text": "人民公社",
-    "pinyin": "rén mín gōng shè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "communist-era",
-      "news-and-officialese",
-      "farming-and-harvest"
-    ],
-    "literal": "people · commune",
-    "natural": "people's commune",
-    "meaning": {
-      "en": "The large rural collective units created in 1958 during the Great Leap Forward, combining farming, industry, local government and social services.",
-      "zh": "1958年大跃进期间建立的大型农村集体组织，集农业、工业、行政和社会服务于一体。"
-    },
-    "equivalents": [
-      "people's commune",
-      "rural collective"
-    ],
-    "examples": [
-      {
-        "zh": "爷爷年轻时在人民公社里种地。",
-        "en": "In his youth my grandfather farmed in a people's commune."
-      },
-      {
-        "zh": "历史课上，老师讲了人民公社的建立与解体。",
-        "en": "In history class the teacher covered the founding and dissolution of the people's communes."
-      }
-    ],
-    "origin": {
-      "source": "1958年《关于在农村建立人民公社问题的决议》",
-      "story": {
-        "en": "The Central Committee's August 1958 resolution on establishing people's communes in the countryside gave the system its name and form.",
-        "zh": "1958年8月中共中央通过《关于在农村建立人民公社问题的决议》，确立了这一制度。"
-      }
-    },
-    "usage": {
-      "en": "A historical term. Communes were set up from 1958, and were formally replaced by townships in the early 1980s, with the system ending around 1984-85. Neutral, formal.",
-      "zh": "历史术语。1958年起建立，1980年代初改为乡镇，约1984至1985年结束。中性，正式。"
-    },
-    "synonyms": [],
-    "antonyms": []
   },
   {
     "id": "ling-hun-shen-chu-nao-ge-ming",

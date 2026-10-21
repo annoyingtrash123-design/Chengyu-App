@@ -10,15 +10,27 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.16",
+    date: "2026-10-21",
+    en: [
+      "New period labels: 明代 Ming, 清代 Qing, 民国 Republican era, 国民党 Nationalist and 中共 Communist era, with about 200 new entries — everyday Ming sayings, Qing court and edict phrases (八百里加急, 钦此钦遵, 龙颜大悦), statesmen's lines, May Fourth and Lu Xun phrases, Sun Yat-sen, Chiang Kai-shek and Mao-era sayings and poem lines.",
+      "The 三十六计 label is complete again: the five three-character stratagem names are the only entries under four characters.",
+    ],
+    zh: [
+      "新增时期标签：明代、清代、民国、国民党、中共，并新增约二百条词条：明代俗语、清代朝廷与圣旨用语（八百里加急、钦此钦遵、龙颜大悦）、名臣名句、五四与鲁迅用语、孙中山、蒋介石及毛泽东时代的名言与诗句。",
+      "三十六计标签重新补齐：五个三字计名是唯一少于四个字的词条。",
+    ],
+  },
+  {
     version: "0.15",
     date: "2026-10-21",
     en: [
-      "Other forms of an expression are now grouped: Also written, Older form, Full form, Short form, and Common error (struck through, avoid). Where a variant was clearly the standard form it is now the headword (e.g. 防患于未然, 含糊其词, 一笔抹杀).",
+      "Other forms of an expression are now grouped: Also written, Older form, Full form, Short form, and Common error (误作). Where a variant was clearly the standard form it is now the headword (e.g. 防患于未然, 含糊其词, 一笔抹杀).",
       "About 170 more rare literary idioms. Religion labels reviewed: 儒家 Confucian, 道家·道教 Daoist, 佛教 Buddhist and a new 基督教 Christian label.",
       "Entries shorter than four characters have been removed.",
     ],
     zh: [
-      "异形词按类型分组显示：也作、旧作、全作、简作，以及“误作”（划掉，避免使用）。明显更规范的写法改为主词条（如防患于未然、含糊其词、一笔抹杀）。",
+      "异形词按类型分组显示：也作、旧作、全作、简作，以及“误作”。明显更规范的写法改为主词条（如防患于未然、含糊其词、一笔抹杀）。",
       "新增约一百七十条罕用文学成语；重新整理儒家、道家·道教、佛教标签，并新增基督教标签。",
       "已删除所有少于四个字的词条。",
     ],
@@ -29,12 +41,12 @@ export const CHANGELOG: Release[] = [
     en: [
       "List: search labels in English or Chinese (e.g. 三十六计, 二十四孝, friendship). All filters are shown in full, with Pattern at the bottom.",
       "Export PDF: print or save the current list, filtered or not, as a clean PDF.",
-      "About 500 rare literary idioms (label Rare & literary 罕用成语), the missing stratagems 空城计 and 反间计, and new theme entries such as 乡愁, 知音, 折柳送别 and 桂林山水甲天下.",
+      "About 500 rare literary idioms (label Rare & literary 罕用成语), the missing stratagems 空城计 and 反间计, and new theme entries such as 折柳送别 and 桂林山水甲天下.",
     ],
     zh: [
       "列表：可用中文或英文搜索标签（如三十六计、二十四孝、友情）；所有筛选项完整展开，“结构”放在最后。",
       "导出 PDF：可把当前列表（含筛选结果）打印或保存为 PDF。",
-      "新增约五百条罕用文学成语（标签“罕用成语”）、补齐三十六计中的空城计和反间计，以及乡愁、知音、折柳送别、桂林山水甲天下等主题词条。",
+      "新增约五百条罕用文学成语（标签“罕用成语”）、补齐三十六计中的空城计和反间计，以及折柳送别、桂林山水甲天下等主题词条。",
     ],
   },
   {
