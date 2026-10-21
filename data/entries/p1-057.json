@@ -3,11 +3,11 @@
     "id": "chu-he-ri-dang-wu-han-di-he-xia-tu",
     "text": "锄禾日当午，汗滴禾下土",
     "pinyin": "chú hé rì dāng wǔ, hàn dī hé xià tǔ",
-    "kind": "mingju",
-    "frequency": 1,
     "variants": [
       "锄禾日当午"
     ],
+    "kind": "mingju",
+    "frequency": 1,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -206,11 +206,11 @@
     "id": "jing-diao-xi-zhuo",
     "text": "精雕细琢",
     "pinyin": "jīng diāo xì zhuó",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "精雕细刻"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -855,11 +855,11 @@
     "id": "san-tian-da-yu-liang-tian-shai-wang",
     "text": "三天打鱼两天晒网",
     "pinyin": "sān tiān dǎ yú liǎng tiān shài wǎng",
-    "kind": "suyu",
-    "frequency": 1,
     "variants": [
       "三天打鱼，两天晒网"
     ],
+    "kind": "suyu",
+    "frequency": 1,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -916,6 +916,9 @@
     "id": "hua-tuo-zai-shi",
     "text": "华佗再世",
     "pinyin": "huá tuó zài shì",
+    "variants": [
+      "再世华佗"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",

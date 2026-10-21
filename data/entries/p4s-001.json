@@ -45,11 +45,11 @@
     "id": "zhao-xia-bu-chu-men-wan-xia-xing-qian-li",
     "text": "朝霞不出门，晚霞行千里",
     "pinyin": "zhāo xiá bù chū mén, wǎn xiá xíng qiān lǐ",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "早霞不出门，晚霞行千里"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -86,12 +86,12 @@
     "id": "tian-xia-mei-you-bu-san-de-yan-xi",
     "text": "天下没有不散的筵席",
     "pinyin": "tiān xià méi yǒu bù sàn de yán xí",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "天下没有不散的宴席",
       "千里搭长棚，没有不散的宴席"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -172,6 +172,9 @@
     "id": "shi-bai-shi-cheng-gong-zhi-mu",
     "text": "失败是成功之母",
     "pinyin": "shī bài shì chéng gōng zhī mǔ",
+    "variants": [
+      "失败乃成功之母"
+    ],
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -461,12 +464,12 @@
     "id": "che-dao-shan-qian-bi-you-lu",
     "text": "车到山前必有路",
     "pinyin": "chē dào shān qián bì yǒu lù",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "车到山前必有路，船到桥头自然直",
       "车到山前自有路"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -509,11 +512,11 @@
     "id": "chuan-dao-qiao-tou-zi-ran-zhi",
     "text": "船到桥头自然直",
     "pinyin": "chuán dào qiáo tóu zì rán zhí",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "船到桥门自会直"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -553,11 +556,11 @@
     "id": "si-ma-dang-zuo-huo-ma-yi",
     "text": "死马当作活马医",
     "pinyin": "sǐ mǎ dàng zuò huó mǎ yī",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "死马当活马医"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -644,11 +647,11 @@
     "id": "qing-ren-yan-li-chu-xi-shi",
     "text": "情人眼里出西施",
     "pinyin": "qíng rén yǎn lǐ chū xī shī",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "情人眼里有西施"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -688,11 +691,11 @@
     "id": "bu-jian-guan-cai-bu-diao-lei",
     "text": "不见棺材不掉泪",
     "pinyin": "bú jiàn guān cái bù diào lèi",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "不见棺材不落泪"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

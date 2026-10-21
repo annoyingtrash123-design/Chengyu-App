@@ -200,11 +200,11 @@
     "id": "yi-yin-er-jin",
     "text": "一饮而尽",
     "pinyin": "yī yǐn ér jìn",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "一饮而空"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -495,6 +495,9 @@
     "id": "lai-qu-zi-you",
     "text": "来去自由",
     "pinyin": "lái qù zì yóu",
+    "variants": [
+      "来去自如"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",

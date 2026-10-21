@@ -523,11 +523,11 @@
     "id": "zhi-shu-da-li",
     "text": "知书达理",
     "pinyin": "zhī shū dá lǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "知书达礼"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1110,11 +1110,11 @@
     "id": "hui-zhi-wu-ji",
     "text": "悔之无及",
     "pinyin": "huǐ zhī wú jí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "悔之不及"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1210,6 +1210,9 @@
     "id": "qiao-shou-yi-dai",
     "text": "翘首以待",
     "pinyin": "qiáo shǒu yǐ dài",
+    "variants": [
+      "翘首以盼"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

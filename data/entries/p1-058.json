@@ -334,6 +334,9 @@
     "id": "sheng-yi-xing-long",
     "text": "生意兴隆",
     "pinyin": "shēng yì xīng lóng",
+    "variants": [
+      "生意兴旺"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",
@@ -523,11 +526,11 @@
     "id": "yan-que-an-zhi-hong-hu-zhi-zhi",
     "text": "燕雀安知鸿鹄之志",
     "pinyin": "yàn què ān zhī hóng hú zhī zhì",
-    "kind": "mingju",
-    "frequency": 2,
     "variants": [
       "燕雀安知"
     ],
+    "kind": "mingju",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

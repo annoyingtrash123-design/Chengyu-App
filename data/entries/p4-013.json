@@ -867,8 +867,11 @@
   },
   {
     "id": "bu-ming-yi-wen",
-    "text": "不名一文",
-    "pinyin": "bù míng yī wén",
+    "text": "一文不名",
+    "pinyin": "yī wén bù míng",
+    "variants": [
+      "不名一文"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

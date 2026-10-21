@@ -205,6 +205,9 @@
     "id": "shi-ru-shui-huo",
     "text": "势如水火",
     "pinyin": "shì rú shuǐ huǒ",
+    "variants": [
+      "势同水火"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -615,12 +618,12 @@
     "id": "ren-wei-cai-si-niao-wei-shi-wang",
     "text": "人为财死，鸟为食亡",
     "pinyin": "rén wèi cái sǐ, niǎo wèi shí wáng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "人为财死",
       "鸟为食亡"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

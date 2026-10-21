@@ -3,11 +3,11 @@
     "id": "liang-bin-ban-bai",
     "text": "两鬓斑白",
     "pinyin": "liǎng bìn bān bái",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "鬓发斑白"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -266,11 +266,11 @@
     "id": "liu-jin-shuo-shi",
     "text": "流金铄石",
     "pinyin": "liú jīn shuò shí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "铄石流金"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -375,11 +375,12 @@
     "id": "long-xing-hu-bu",
     "text": "龙行虎步",
     "pinyin": "lóng xíng hǔ bù",
+    "variants": [
+      "虎步龙行",
+      "龙骧虎步"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "虎步龙行"
-    ],
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -428,11 +429,11 @@
     "id": "long-gan-feng-sui",
     "text": "龙肝凤髓",
     "pinyin": "lóng gān fèng suǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "凤髓龙肝"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -598,11 +599,11 @@
     "id": "luan-dian-yuan-yang",
     "text": "乱点鸳鸯",
     "pinyin": "luàn diǎn yuān yāng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "乱点鸳鸯谱"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -703,9 +704,9 @@
     "id": "mu-bu-jian-jie",
     "text": "目不见睫",
     "pinyin": "mù bù jiàn jié",
+    "variants": [],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -762,9 +763,9 @@
     "id": "ni-ying-cang-xing",
     "text": "匿影藏形",
     "pinyin": "nì yǐng cáng xíng",
+    "variants": [],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -813,9 +814,9 @@
     "id": "pan-jin-diao-gu",
     "text": "攀今吊古",
     "pinyin": "pān jīn diào gǔ",
+    "variants": [],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -864,9 +865,9 @@
     "id": "pan-ruo-hong-gou",
     "text": "判若鸿沟",
     "pinyin": "pàn ruò hóng gōu",
+    "variants": [],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -915,11 +916,11 @@
     "id": "pi-li-yang-qiu",
     "text": "皮里阳秋",
     "pinyin": "pí lǐ yáng qiū",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "皮里春秋"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

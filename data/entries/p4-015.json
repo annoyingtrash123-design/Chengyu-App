@@ -467,11 +467,11 @@
     "id": "han-hu-qi-ci",
     "text": "含糊其辞",
     "pinyin": "hán hú qí cí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "含糊其词"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -561,11 +561,11 @@
     "id": "gua-lian-xian-chi",
     "text": "寡廉鲜耻",
     "pinyin": "guǎ lián xiǎn chǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "鲜廉寡耻"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -804,6 +804,9 @@
     "id": "yi-lin-ban-zhao",
     "text": "一鳞半爪",
     "pinyin": "yī lín bàn zhǎo",
+    "variants": [
+      "东鳞西爪"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

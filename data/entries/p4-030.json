@@ -60,11 +60,11 @@
     "id": "mian-you-nan-se",
     "text": "面有难色",
     "pinyin": "miàn yǒu nán sè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "面露难色"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -555,11 +555,11 @@
     "id": "yan-mo-wu-wen",
     "text": "湮没无闻",
     "pinyin": "yān mò wú wén",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "没没无闻"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -706,12 +706,12 @@
     "id": "bi-shang-bu-zu-bi-xia-you-yu",
     "text": "比上不足，比下有余",
     "pinyin": "bǐ shàng bù zú, bǐ xià yǒu yú",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "比上不足",
       "比下有余"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -760,11 +760,11 @@
     "id": "wo-ye-qian-li",
     "text": "沃野千里",
     "pinyin": "wò yě qiān lǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "千里沃野"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1159,6 +1159,9 @@
     "id": "shuo-chang-dao-duan",
     "text": "说长道短",
     "pinyin": "shuō cháng dào duǎn",
+    "variants": [
+      "说短论长"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

@@ -96,11 +96,11 @@
     "id": "fu-chao-zhi-xia-yan-you-wan-luan",
     "text": "覆巢之下，焉有完卵",
     "pinyin": "fù cháo zhī xià, yān yǒu wán luǎn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "覆巢之下无完卵"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -287,11 +287,11 @@
     "id": "da-tie-hai-xu-zi-shen-ying",
     "text": "打铁还需自身硬",
     "pinyin": "dǎ tiě hái xū zì shēn yìng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "打铁先得自身硬"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -586,11 +586,11 @@
     "id": "jian-le-zhi-ma-diu-le-xi-gua",
     "text": "拣了芝麻，丢了西瓜",
     "pinyin": "jiǎn le zhī má, diū le xī guā",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "捡了芝麻，丢了西瓜"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -678,11 +678,11 @@
     "id": "yi-kou-chi-bu-cheng-pang-zi",
     "text": "一口吃不成胖子",
     "pinyin": "yì kǒu chī bù chéng pàng zi",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "一口吃不成个胖子"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -768,6 +768,9 @@
     "id": "zuo-yi-tian-he-shang-zhuang",
     "text": "做一天和尚撞一天钟",
     "pinyin": "zuò yì tiān hé shang zhuàng yì tiān zhōng",
+    "variants": [
+      "当一天和尚撞一天钟"
+    ],
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "negative",

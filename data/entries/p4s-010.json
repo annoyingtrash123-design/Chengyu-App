@@ -3,11 +3,11 @@
     "id": "duo-de-guo-chu-yi-duo-bu-guo-shi-wu",
     "text": "躲得过初一，躲不过十五",
     "pinyin": "duǒ de guò chū yī, duǒ bù guò shí wǔ",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "躲过初一，躲不过十五"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -50,11 +50,11 @@
     "id": "guo-le-zhe-ge-cun-jiu-mei-zhe-ge-dian",
     "text": "过了这个村就没这个店",
     "pinyin": "guò le zhè gè cūn jiù méi zhè gè diàn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "过了这村没这店"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -227,11 +227,11 @@
     "id": "jin-wo-yin-wo-bu-ru-zi-ji-de-gou-wo",
     "text": "金窝银窝不如自己的狗窝",
     "pinyin": "jīn wō yín wō bù rú zì jǐ de gǒu wō",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "金窝银窝，不如自己的草窝"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -312,11 +312,11 @@
     "id": "yan-wang-hao-jian-xiao-gui-nan-chan",
     "text": "阎王好见，小鬼难缠",
     "pinyin": "yán wáng hǎo jiàn, xiǎo guǐ nán chán",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "阎王好见，小鬼难当"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -448,11 +448,11 @@
     "id": "hui-ku-de-hai-zi-you-nai-chi",
     "text": "会哭的孩子有奶吃",
     "pinyin": "huì kū de hái zi yǒu nǎi chī",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "会哭的孩子有糖吃"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -493,11 +493,11 @@
     "id": "qian-bu-shi-wan-neng-de",
     "text": "钱不是万能的，但没有钱是万万不能的",
     "pinyin": "qián bú shì wàn néng de, dàn méi yǒu qián shì wàn wàn bù néng de",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "钱不是万能的，没钱是万万不能的"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -538,11 +538,11 @@
     "id": "yi-wen-qian-nan-dao-ying-xiong-han",
     "text": "一文钱难倒英雄汉",
     "pinyin": "yī wén qián nán dǎo yīng xióng hàn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一分钱难倒英雄汉"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -637,11 +637,11 @@
     "id": "ning-de-zui-jun-zi-bu-de-zui-xiao-ren",
     "text": "宁得罪君子，不得罪小人",
     "pinyin": "nìng dé zuì jūn zǐ, bù dé zuì xiǎo rén",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "宁可得罪君子，不可得罪小人"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -812,11 +812,11 @@
     "id": "luo-bo-qing-cai-ge-you-suo-ai",
     "text": "萝卜青菜，各有所爱",
     "pinyin": "luó bo qīng cài, gè yǒu suǒ ài",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "萝卜白菜，各有所爱"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -860,11 +860,11 @@
     "id": "yao-yan-zhi-yu-zhi-zhe",
     "text": "谣言止于智者",
     "pinyin": "yáo yán zhǐ yú zhì zhě",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "流言止于智者"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -905,11 +905,11 @@
     "id": "shuo-de-rong-yi-zuo-de-nan",
     "text": "说得容易做得难",
     "pinyin": "shuō de róng yì zuò de nán",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "说起来容易，做起来难"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1033,6 +1033,9 @@
     "id": "yi-shan-geng-bi-yi-shan-gao",
     "text": "一山更比一山高",
     "pinyin": "yī shān gèng bǐ yī shān gāo",
+    "variants": [
+      "一山还比一山高"
+    ],
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -1076,12 +1079,12 @@
     "id": "shan-wai-you-shan-tian-wai-you-tian",
     "text": "山外有山，天外有天",
     "pinyin": "shān wài yǒu shān, tiān wài yǒu tiān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "天外有天，人外有人",
       "人外有人，天外有天"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

@@ -710,8 +710,11 @@
   },
   {
     "id": "di-dong-shan-yao",
-    "text": "地动山摇",
-    "pinyin": "dì dòng shān yáo",
+    "text": "山摇地动",
+    "pinyin": "shān yáo dì dòng",
+    "variants": [
+      "地动山摇"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

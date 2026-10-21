@@ -350,6 +350,9 @@
     "id": "cuo-tuo-sui-yue",
     "text": "蹉跎岁月",
     "pinyin": "cuō tuó suì yuè",
+    "variants": [
+      "岁月蹉跎"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -495,11 +498,11 @@
     "id": "bu-ping-ze-ming",
     "text": "不平则鸣",
     "pinyin": "bù píng zé míng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "不平之鸣"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -760,12 +763,12 @@
     "id": "shi-zhi-dong-yu-shou-zhi-sang-yu",
     "text": "失之东隅，收之桑榆",
     "pinyin": "shī zhī dōng yú, shōu zhī sāng yú",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "失之东隅",
       "收之桑榆"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -821,11 +824,11 @@
     "id": "qin-tong-chou-kuai",
     "text": "亲痛仇快",
     "pinyin": "qīn tòng chóu kuài",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "亲者痛仇者快"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

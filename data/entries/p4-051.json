@@ -545,11 +545,11 @@
     "id": "shang-cuan-xia-tiao",
     "text": "上窜下跳",
     "pinyin": "shàng cuàn xià tiào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "上蹿下跳"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1004,11 +1004,11 @@
     "id": "zhu-zuo-deng-shen",
     "text": "著作等身",
     "pinyin": "zhù zuò děng shēn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "著述等身"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1056,11 +1056,11 @@
     "id": "chong-sheng-fu-mu",
     "text": "重生父母",
     "pinyin": "chóng shēng fù mǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "再生父母"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1108,6 +1108,9 @@
     "id": "wu-nei-ru-fen",
     "text": "五内如焚",
     "pinyin": "wǔ nèi rú fén",
+    "variants": [
+      "五内俱焚"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

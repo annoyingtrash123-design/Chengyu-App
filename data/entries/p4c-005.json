@@ -1,0 +1,912 @@
+[
+  {
+    "id": "san-nian-wu-zai",
+    "text": "三年五载",
+    "pinyin": "sān nián wǔ zǎi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time-management",
+      "exact-vs-approximate"
+    ],
+    "literal": "three · years · five · years",
+    "natural": "three or five years, a few years",
+    "meaning": {
+      "en": "A few years; an indefinite span of several years.",
+      "zh": "三五年，泛指几年的时间。"
+    },
+    "equivalents": [
+      "a few years",
+      "three to five years"
+    ],
+    "examples": [
+      {
+        "zh": "学好一门外语不是三年五载的事。",
+        "en": "Mastering a foreign language is not a matter of a few years."
+      },
+      {
+        "zh": "这棵树要三年五载才能结果。",
+        "en": "This tree will take some years to bear fruit."
+      },
+      {
+        "zh": "他离家三年五载，家乡变化很大。",
+        "en": "He left home for several years, and his hometown changed a great deal."
+      }
+    ],
+    "usage": {
+      "en": "Note the pronunciation 载 zǎi (year), not zài. Often used with 不是 / 才能 to stress that something takes a long time. A word group rather than a classical idiom.",
+      "zh": "注意“载”读 zǎi，意为“年”。常与“不是”“才能”连用，强调需要较长时间。"
+    },
+    "synonyms": [
+      "三五年",
+      "数年"
+    ],
+    "antonyms": [
+      "一朝一夕",
+      "转瞬之间"
+    ]
+  },
+  {
+    "id": "liu-yue-fei-xue",
+    "text": "六月飞雪",
+    "pinyin": "liù yuè fēi xuě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "revenge-and-retribution",
+      "extraordinary-circumstances"
+    ],
+    "literal": "sixth month · fly · snow",
+    "natural": "snow in midsummer, a sign of a great injustice",
+    "meaning": {
+      "en": "Snow falling in the sixth month; a heaven-sent sign that someone has suffered a terrible wrong.",
+      "zh": "六月天下起雪来，比喻有天大的冤案，感动上天。"
+    },
+    "equivalents": [
+      "a grave injustice",
+      "snow in midsummer"
+    ],
+    "examples": [
+      {
+        "zh": "这桩冤案简直是六月飞雪，让人愤愤不平。",
+        "en": "This miscarriage of justice is like snow in midsummer; it makes everyone furious."
+      },
+      {
+        "zh": "老师给我们讲了窦娥冤里六月飞雪的故事。",
+        "en": "Our teacher told us the story of snow falling in June in the play Dou E Was Wronged."
+      },
+      {
+        "zh": "他蒙冤入狱多年，真是六月飞雪的冤情。",
+        "en": "He was jailed for years for a crime he did not commit, a case worthy of midsummer snow."
+      }
+    ],
+    "origin": {
+      "source": "关汉卿《窦娥冤》",
+      "story": {
+        "en": "In Guan Hanqing's play, the wrongly condemned Dou E vows that snow will fall in the sixth month to prove her innocence, and it does.",
+        "zh": "元代关汉卿的杂剧《窦娥冤》写窦娥含冤被斩，临刑发誓六月飞雪，果然应验。"
+      }
+    },
+    "usage": {
+      "en": "Refers to the story of Dou E, a young widow wrongly executed. As she died, snow fell in midsummer. Used for serious injustice only, never for a mere unusual weather event. Literary.",
+      "zh": "出自窦娥冤的故事，只用来形容重大冤情，不是单纯说天气反常。"
+    },
+    "synonyms": [
+      "沉冤莫白",
+      "含冤负屈"
+    ],
+    "antonyms": [
+      "沉冤得雪",
+      "真相大白"
+    ]
+  },
+  {
+    "id": "bai-du-bu-yan",
+    "text": "百读不厌",
+    "pinyin": "bǎi dú bù yàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "excellent-writing"
+    ],
+    "literal": "hundred · read · not · tire of",
+    "natural": "never tire of reading it again and again",
+    "meaning": {
+      "en": "Of a book or piece of writing: so good that you can read it a hundred times without getting bored.",
+      "zh": "书或文章写得好，读多少遍也不厌烦。"
+    },
+    "equivalents": [
+      "endlessly readable",
+      "a book you never tire of"
+    ],
+    "examples": [
+      {
+        "zh": "这本童话我百读不厌。",
+        "en": "I never get tired of this fairy tale."
+      },
+      {
+        "zh": "好的诗歌往往百读不厌。",
+        "en": "Good poems can usually be read again and again."
+      },
+      {
+        "zh": "他推荐了几本百读不厌的小说。",
+        "en": "He recommended some novels you can re-read endlessly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive. Praises writing, not people. Often follows 这本书、这首诗 and the like. Said of books, poems and essays.",
+      "zh": "作谓语、定语，称赞书籍、诗文，不用于人。"
+    },
+    "synonyms": [
+      "爱不释手",
+      "回味无穷"
+    ],
+    "antonyms": [
+      "味同嚼蜡",
+      "不堪卒读"
+    ]
+  },
+  {
+    "id": "wan-ban-wu-nai",
+    "text": "万般无奈",
+    "pinyin": "wàn bān wú nài",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "dead-ends-and-desperation",
+      "sadness-and-despair"
+    ],
+    "literal": "ten thousand · kinds · without · remedy",
+    "natural": "out of all other choices, nothing could be done",
+    "meaning": {
+      "en": "Utterly helpless, with no other choice open.",
+      "zh": "毫无办法，实在没有别的选择。"
+    },
+    "equivalents": [
+      "having no other choice",
+      "with great reluctance"
+    ],
+    "examples": [
+      {
+        "zh": "万般无奈之下，他只好卖掉了老房子。",
+        "en": "With no other choice, he had to sell the old house."
+      },
+      {
+        "zh": "妈妈万般无奈，只好答应了我。",
+        "en": "Mum had no way out and had to give in to me."
+      },
+      {
+        "zh": "公司在万般无奈的情况下宣布裁员。",
+        "en": "The company announced layoffs as a last resort."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial: 万般无奈之下 / 万般无奈地. Describes being forced into an unwelcome decision. A word group; more emphatic than 无奈.",
+      "zh": "多作状语，常说“万般无奈之下”，比“无奈”语气更重。"
+    },
+    "synonyms": [
+      "无可奈何",
+      "迫不得已"
+    ],
+    "antonyms": [
+      "心甘情愿",
+      "得心应手"
+    ]
+  },
+  {
+    "id": "wan-shi-heng-tong",
+    "text": "万事亨通",
+    "pinyin": "wàn shì hēng tōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "ten thousand · matters · smooth · go through",
+    "natural": "everything goes smoothly",
+    "meaning": {
+      "en": "Everything goes smoothly and succeeds; a stock good wish.",
+      "zh": "各种事情都很顺利，没有阻碍。"
+    },
+    "equivalents": [
+      "success in everything",
+      "smooth sailing"
+    ],
+    "examples": [
+      {
+        "zh": "新年到了，祝你万事亨通！",
+        "en": "Happy New Year; may everything go well for you!"
+      },
+      {
+        "zh": "他刚开业，朋友们都祝他万事亨通。",
+        "en": "His friends wished him smooth sailing as he opened his business."
+      },
+      {
+        "zh": "她希望新的一年万事亨通，身体健康。",
+        "en": "She hopes the new year brings success in everything and good health."
+      }
+    ],
+    "usage": {
+      "en": "Mainly a greeting or blessing, often written on cards and gifts. Formal and slightly old-fashioned; near 万事如意 but stresses smooth progress rather than satisfaction.",
+      "zh": "多用作祝福语，书面、稍显传统；与“万事如意”相近，但更强调顺利通达。"
+    },
+    "synonyms": [
+      "万事如意",
+      "一帆风顺"
+    ],
+    "antonyms": [
+      "诸事不顺",
+      "处处碰壁"
+    ]
+  },
+  {
+    "id": "er-ba-jia-ren",
+    "text": "二八佳人",
+    "pinyin": "èr bā jiā rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance",
+      "love-and-marriage"
+    ],
+    "literal": "two · eight · beauty · person",
+    "natural": "a beauty of sixteen",
+    "meaning": {
+      "en": "A girl of about sixteen, in the bloom of youth; a young beauty.",
+      "zh": "指十六岁左右的美丽少女。"
+    },
+    "equivalents": [
+      "a girl of sixteen",
+      "a young beauty"
+    ],
+    "examples": [
+      {
+        "zh": "画中的二八佳人，眉目如画。",
+        "en": "The girl of sixteen in the painting is a perfect picture."
+      },
+      {
+        "zh": "京剧里常有二八佳人的角色。",
+        "en": "Peking opera often features a young beauty as a role."
+      },
+      {
+        "zh": "她不是二八佳人，却依然气质出众。",
+        "en": "She is no sixteen-year-old beauty, but her bearing is still remarkable."
+      }
+    ],
+    "usage": {
+      "en": "The numbers 二八 are two times eight, i.e. sixteen. Literary, used in fiction, opera and poetry; sounds old-fashioned in modern speech.",
+      "zh": "“二八”即十六岁；多见于小说、戏曲、诗词，现代口语较少用。"
+    },
+    "synonyms": [
+      "妙龄少女",
+      "豆蔻年华"
+    ],
+    "antonyms": [
+      "半老徐娘",
+      "白发老妪"
+    ]
+  },
+  {
+    "id": "san-chi-tong-zi",
+    "text": "三尺童子",
+    "pinyin": "sān chǐ tóng zǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "standards-and-benchmarks",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "three · feet · child · boy",
+    "natural": "a three-foot-tall child, any small child",
+    "meaning": {
+      "en": "A small child; used to say that even a young child knows something.",
+      "zh": "指身高才三尺的小孩子，泛指年幼的孩子。"
+    },
+    "equivalents": [
+      "even a small child",
+      "a mere child"
+    ],
+    "examples": [
+      {
+        "zh": "这个道理三尺童子都懂。",
+        "en": "Even a small child understands this principle."
+      },
+      {
+        "zh": "骗人的把戏，连三尺童子都骗不了。",
+        "en": "Such a trick would not fool even a little child."
+      },
+      {
+        "zh": "你这样的做法，三尺童子也知道不对。",
+        "en": "Even a toddler would know that is wrong."
+      }
+    ],
+    "usage": {
+      "en": "Usually used to say something is so obvious that even a child knows it: 三尺童子也知道. Literary; 三尺 refers to a child’s height in the old measure.",
+      "zh": "常用“连三尺童子都知道”表示道理浅显。带书面色彩。"
+    },
+    "synonyms": [
+      "黄口小儿",
+      "垂髫小儿"
+    ],
+    "antonyms": [
+      "饱学之士",
+      "博学多才"
+    ]
+  },
+  {
+    "id": "san-huang-wu-di",
+    "text": "三皇五帝",
+    "pinyin": "sān huáng wǔ dì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "historical-periods",
+      "myths-legends"
+    ],
+    "literal": "three · sovereigns · five · emperors",
+    "natural": "the Three Sovereigns and Five Emperors",
+    "meaning": {
+      "en": "The legendary rulers of remote Chinese antiquity, before recorded history.",
+      "zh": "传说中中国上古时代的帝王，泛指远古的圣明君主。"
+    },
+    "equivalents": [
+      "the legendary sage-kings",
+      "the rulers of high antiquity"
+    ],
+    "examples": [
+      {
+        "zh": "历史课上，老师讲到了三皇五帝的传说。",
+        "en": "In history class the teacher told legends about the Three Sovereigns and Five Emperors."
+      },
+      {
+        "zh": "他对三皇五帝以来的历史很有研究。",
+        "en": "He has studied history since the age of the sage-kings."
+      },
+      {
+        "zh": "这件事自三皇五帝以来都没有过。",
+        "en": "Nothing like this has happened since the dawn of Chinese history."
+      }
+    ],
+    "usage": {
+      "en": "Who counts as the Three Sovereigns and Five Emperors varies by source (e.g. Fuxi, Shennong, Huangdi; Yao, Shun and others). Used for remote antiquity, or ironically for \"since forever\".",
+      "zh": "三皇五帝的具体人选各书说法不一，常泛指远古；也可用来夸张地表示“自古以来”。"
+    },
+    "synonyms": [
+      "上古时代",
+      "远古时期"
+    ],
+    "antonyms": [
+      "当今时代",
+      "现代社会"
+    ]
+  },
+  {
+    "id": "si-hai-sheng-ping",
+    "text": "四海升平",
+    "pinyin": "sì hǎi shēng píng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "四海昇平"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "good-governance",
+      "festive-greetings"
+    ],
+    "literal": "four · seas · rise · peace",
+    "natural": "peace throughout the land",
+    "meaning": {
+      "en": "Peace and calm throughout the whole country.",
+      "zh": "天下太平，国家安定。"
+    },
+    "equivalents": [
+      "peace throughout the land",
+      "a peaceful realm"
+    ],
+    "examples": [
+      {
+        "zh": "盛世之时，四海升平，百姓安居乐业。",
+        "en": "In a golden age there is peace everywhere and people live in contentment."
+      },
+      {
+        "zh": "人们都盼望四海升平。",
+        "en": "Everyone longs for peace throughout the land."
+      },
+      {
+        "zh": "春联上写着“四海升平”。",
+        "en": "The Spring Festival couplet reads: peace throughout the land."
+      }
+    ],
+    "usage": {
+      "en": "Formal and often used in blessings, couplets and historical writing. 四海 means the whole country. Also written 四海昇平.",
+      "zh": "书面语，常见于祝词、对联和史书。“四海”指天下。也作“四海昇平”。"
+    },
+    "synonyms": [
+      "天下太平",
+      "国泰民安"
+    ],
+    "antonyms": [
+      "兵荒马乱",
+      "天下大乱"
+    ]
+  },
+  {
+    "id": "si-mian-shou-di",
+    "text": "四面受敌",
+    "pinyin": "sì miàn shòu dí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "danger"
+    ],
+    "literal": "four · sides · suffer · enemy",
+    "natural": "attacked from all four sides",
+    "meaning": {
+      "en": "Facing enemies or opposition from every direction.",
+      "zh": "四面八方都有敌人，处境十分被动危险。"
+    },
+    "equivalents": [
+      "surrounded on all sides",
+      "under attack from every direction"
+    ],
+    "examples": [
+      {
+        "zh": "这座城池四面受敌，很难守住。",
+        "en": "The city was attacked from every side and hard to hold."
+      },
+      {
+        "zh": "新产品刚上市就四面受敌，竞争对手纷纷降价。",
+        "en": "The new product was under attack from all sides as rivals cut prices."
+      },
+      {
+        "zh": "球队后防线四面受敌，一直在苦苦支撑。",
+        "en": "The team's defence was under pressure from all directions and just held on."
+      }
+    ],
+    "usage": {
+      "en": "Predicate. Used both literally in war and figuratively in business and sport. Compare 腹背受敌 (attacked front and back).",
+      "zh": "作谓语，可用于战争，也可比喻商业、体育中的困境。与“腹背受敌”相近。"
+    },
+    "synonyms": [
+      "腹背受敌",
+      "四面楚歌"
+    ],
+    "antonyms": [
+      "高枕无忧",
+      "安然无恙"
+    ]
+  },
+  {
+    "id": "wu-hang-ba-zuo",
+    "text": "五行八作",
+    "pinyin": "wǔ háng bā zuò",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "numbers",
+      "common-and-worthless"
+    ],
+    "literal": "five · trades · eight · crafts",
+    "natural": "all kinds of trades and crafts",
+    "meaning": {
+      "en": "All sorts of trades and occupations.",
+      "zh": "泛指各行各业，三百六十行。"
+    },
+    "equivalents": [
+      "all trades and occupations",
+      "every walk of life"
+    ],
+    "examples": [
+      {
+        "zh": "这条老街上五行八作应有尽有。",
+        "en": "The old street has every kind of trade."
+      },
+      {
+        "zh": "他走南闯北，五行八作的人都认识。",
+        "en": "He has travelled widely and knows people from every trade."
+      },
+      {
+        "zh": "来赶集的人五行八作，什么人都有。",
+        "en": "People from all walks of life come to the fair."
+      }
+    ],
+    "usage": {
+      "en": "Note 行 is read háng here (trade). Colloquial and old-fashioned, often used for the variety of people met in a market or a town.",
+      "zh": "“行”读 háng，指行业；口语，略带旧时色彩，多指市集、城镇里各色人等。"
+    },
+    "synonyms": [
+      "三教九流",
+      "三百六十行"
+    ],
+    "antonyms": [
+      "一技之长",
+      "单一行业"
+    ]
+  },
+  {
+    "id": "wu-yin-bu-quan",
+    "text": "五音不全",
+    "pinyin": "wǔ yīn bù quán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-performance",
+      "body"
+    ],
+    "literal": "five · notes · not · complete",
+    "natural": "cannot carry a tune",
+    "meaning": {
+      "en": "Unable to sing in tune, tone-deaf.",
+      "zh": "唱歌走调，不会辨别和唱出准确的音调。"
+    },
+    "equivalents": [
+      "tone-deaf",
+      "can't carry a tune"
+    ],
+    "examples": [
+      {
+        "zh": "我五音不全，所以不敢在同学面前唱歌。",
+        "en": "I can't carry a tune, so I dare not sing in front of my classmates."
+      },
+      {
+        "zh": "他五音不全，却特别爱唱卡拉OK。",
+        "en": "He is tone-deaf but loves karaoke."
+      },
+      {
+        "zh": "她笑着说自己五音不全，不如听别人唱。",
+        "en": "She laughed and said she was tone-deaf and preferred to listen."
+      }
+    ],
+    "usage": {
+      "en": "Usually a modest or humorous remark about oneself. 五音 are the five notes of the old Chinese scale (宫商角徵羽). Often paired with 四体不勤 jokes; the usual contrast is 能歌善舞.",
+      "zh": "多用于自嘲或开玩笑。“五音”指宫商角徵羽五个音阶。"
+    },
+    "synonyms": [
+      "荒腔走板",
+      "跑调"
+    ],
+    "antonyms": [
+      "能歌善舞",
+      "歌喉婉转"
+    ]
+  },
+  {
+    "id": "liu-tao-san-lve",
+    "text": "六韬三略",
+    "pinyin": "liù tāo sān lüè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "military-strategy-and-victory",
+      "stories"
+    ],
+    "literal": "Six · Secret Teachings · Three · Strategies",
+    "natural": "the Six Secret Teachings and Three Strategies",
+    "meaning": {
+      "en": "Two ancient Chinese works on military strategy; by extension, the art of war or superior planning.",
+      "zh": "《六韬》《三略》两部古代兵书，泛指兵书，也比喻用兵的谋略。"
+    },
+    "equivalents": [
+      "the art of war",
+      "military strategy"
+    ],
+    "examples": [
+      {
+        "zh": "将军熟读六韬三略，善于用兵。",
+        "en": "The general knew the classic military texts well and was skilled in warfare."
+      },
+      {
+        "zh": "他读了不少六韬三略之类的兵书。",
+        "en": "He read a lot of strategy books such as the Six Secret Teachings."
+      },
+      {
+        "zh": "这个经理满腹六韬三略，总能想出办法。",
+        "en": "This manager has a head full of strategy and always finds a way."
+      }
+    ],
+    "usage": {
+      "en": "Note 略 is read lüè. 《六韬》 is traditionally credited to Jiang Ziya and 《三略》 to Huang Shigong. Literary; can be used humorously about business tactics.",
+      "zh": "“略”读 lüè。《六韬》旧传为姜太公所作，《三略》旧传为黄石公所作。书面语。"
+    },
+    "synonyms": [
+      "兵法韬略",
+      "满腹经纶"
+    ],
+    "antonyms": [
+      "纸上谈兵",
+      "毫无谋略"
+    ]
+  },
+  {
+    "id": "qian-zai-yi-shi",
+    "text": "千载一时",
+    "pinyin": "qiān zǎi yī shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "once-in-a-lifetime-events",
+      "time-management"
+    ],
+    "literal": "thousand · years · one · moment",
+    "natural": "once in a thousand years",
+    "meaning": {
+      "en": "A rare chance that comes only once in a thousand years.",
+      "zh": "一千年才有这一次，形容机会极其难得。"
+    },
+    "equivalents": [
+      "a once-in-a-lifetime chance",
+      "a golden opportunity"
+    ],
+    "examples": [
+      {
+        "zh": "这次比赛是千载一时的好机会，大家要珍惜。",
+        "en": "This competition is a once-in-a-lifetime chance, so make the most of it."
+      },
+      {
+        "zh": "千载一时，不容错过。",
+        "en": "A chance in a thousand years must not be missed."
+      },
+      {
+        "zh": "奥运会在家乡举办，真是千载一时的盛事。",
+        "en": "Hosting the Olympics in our hometown is a rare great occasion."
+      }
+    ],
+    "usage": {
+      "en": "Note 载 here is zǎi (year). Similar to 千载难逢 but more literary and less common. Used as attributive or predicate.",
+      "zh": "“载”读 zǎi。与“千载难逢”相近，但更书面、较少用。"
+    },
+    "synonyms": [
+      "千载难逢",
+      "百年不遇"
+    ],
+    "antonyms": [
+      "司空见惯",
+      "屡见不鲜"
+    ]
+  },
+  {
+    "id": "wan-gu-qian-qiu",
+    "text": "万古千秋",
+    "pinyin": "wàn gǔ qiān qiū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "fleeting-time",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "ten thousand · ages · thousand · autumns",
+    "natural": "for ever and ever",
+    "meaning": {
+      "en": "Through all ages; for ever.",
+      "zh": "形容时间极其久远，永远流传。"
+    },
+    "equivalents": [
+      "for all time",
+      "for ever"
+    ],
+    "examples": [
+      {
+        "zh": "这首民歌万古千秋，传唱至今。",
+        "en": "This folk song has been sung through the ages and still is today."
+      },
+      {
+        "zh": "长城将万古千秋屹立在大地上。",
+        "en": "The Great Wall will stand for all time."
+      },
+      {
+        "zh": "他们的友谊万古千秋。",
+        "en": "Their friendship will last for ever."
+      }
+    ],
+    "usage": {
+      "en": "Literary and rhetorical; often used in praise, memorials and inscriptions. Can be predicate or adverbial.",
+      "zh": "书面色彩浓，多用于颂扬、纪念和题词，可作谓语、状语。"
+    },
+    "synonyms": [
+      "千秋万代",
+      "万世流芳"
+    ],
+    "antonyms": [
+      "转瞬即逝",
+      "昙花一现"
+    ]
+  },
+  {
+    "id": "wan-fu-mo-kai",
+    "text": "万夫莫开",
+    "pinyin": "wàn fū mò kāi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "danger",
+      "military-strategy-and-victory",
+      "poems-prose"
+    ],
+    "literal": "ten thousand · men · cannot · open",
+    "natural": "ten thousand men cannot force it open",
+    "meaning": {
+      "en": "Of a pass or position so secure that even ten thousand men cannot break through.",
+      "zh": "形容地势险要，一个人把守，万人也攻不破。"
+    },
+    "equivalents": [
+      "impregnable",
+      "a fortress that cannot be forced"
+    ],
+    "examples": [
+      {
+        "zh": "剑门关易守难攻，一夫当关，万夫莫开。",
+        "en": "Jianmen Pass is easy to defend and hard to attack: one man guards it and ten thousand cannot break in."
+      },
+      {
+        "zh": "这里山势险峻，真有万夫莫开之势。",
+        "en": "The mountains here are so steep that it would be impregnable."
+      },
+      {
+        "zh": "这座山口万夫莫开。",
+        "en": "No army could force this mountain pass."
+      }
+    ],
+    "origin": {
+      "source": "李白《蜀道难》",
+      "story": {
+        "en": "Li Bai describes the Sichuan road: 'One man holds the pass, ten thousand cannot break through' (一夫当关，万夫莫开).",
+        "zh": "李白《蜀道难》：“剑阁峥嵘而崔嵬，一夫当关，万夫莫开。”"
+      }
+    },
+    "usage": {
+      "en": "Nearly always quoted with the first half: 一夫当关，万夫莫开. Describes strong natural defences. Literary.",
+      "zh": "几乎总与上句“一夫当关”连用，形容地势险要易守难攻。"
+    },
+    "synonyms": [
+      "固若金汤",
+      "易守难攻"
+    ],
+    "antonyms": [
+      "不堪一击",
+      "一攻即破"
+    ]
+  },
+  {
+    "id": "yi-bi-wan-qing",
+    "text": "一碧万顷",
+    "pinyin": "yī bì wàn qǐng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes",
+      "poems-prose",
+      "essay-favourites"
+    ],
+    "literal": "one · green-blue · ten thousand · qing",
+    "natural": "a vast sweep of blue-green",
+    "meaning": {
+      "en": "A vast expanse of blue-green water or fields stretching as far as the eye can see.",
+      "zh": "一片青绿，辽阔无边，形容湖海或田野广阔。"
+    },
+    "equivalents": [
+      "a boundless stretch of blue",
+      "as far as the eye can see"
+    ],
+    "examples": [
+      {
+        "zh": "站在湖边，只见一碧万顷，心情豁然开朗。",
+        "en": "Standing by the lake, I saw the boundless blue-green and my mood lifted."
+      },
+      {
+        "zh": "夏天的草原一碧万顷。",
+        "en": "In summer the grassland spreads green as far as the eye can see."
+      },
+      {
+        "zh": "海面一碧万顷，海鸥在天空飞翔。",
+        "en": "The sea was a vast blue-green and gulls flew across the sky."
+      }
+    ],
+    "origin": {
+      "source": "范仲淹《岳阳楼记》",
+      "story": {
+        "en": "Fan Zhongyan describes Dongting Lake: 'a vast sweep of blue-green' (一碧万顷) in spring brightness.",
+        "zh": "范仲淹《岳阳楼记》：“至若春和景明，波澜不惊，上下天光，一碧万顷。”"
+      }
+    },
+    "usage": {
+      "en": "A set phrase for scenery, often in school compositions. 顷 is a land measure (about 6.7 hectares), so 万顷 means vast. Mostly water, sometimes fields.",
+      "zh": "常用于景物描写，学生作文常见。“顷”是面积单位，“万顷”形容极其辽阔。"
+    },
+    "synonyms": [
+      "广阔无垠",
+      "碧波万顷"
+    ],
+    "antonyms": [
+      "弹丸之地",
+      "一隅之地"
+    ]
+  },
+  {
+    "id": "yi-ji-jue-chen",
+    "text": "一骑绝尘",
+    "pinyin": "yī jì jué chén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "speed-fast-vs-slow",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "one · rider · cut off · dust",
+    "natural": "one rider leaves the dust behind",
+    "meaning": {
+      "en": "To race far ahead of everyone else; far outstripping the competition.",
+      "zh": "一个人骑马飞奔，尘土都追不上，比喻遥遥领先，远超他人。"
+    },
+    "equivalents": [
+      "leave everyone in the dust",
+      "race far ahead"
+    ],
+    "examples": [
+      {
+        "zh": "比赛一开始，他就一骑绝尘，没人追得上。",
+        "en": "From the start he raced ahead and nobody could catch him."
+      },
+      {
+        "zh": "这款手机销量一骑绝尘。",
+        "en": "The phone's sales left its rivals in the dust."
+      },
+      {
+        "zh": "这家公司在行业中一骑绝尘。",
+        "en": "This company is far ahead of the rest of its industry."
+      }
+    ],
+    "usage": {
+      "en": "Originally a picture of a galloping horse. Now used in news and sport for a clear leader. Can be predicate or adverbial. Positive.",
+      "zh": "原指骑马飞驰，现多用于体育、商业报道，形容遥遥领先。"
+    },
+    "synonyms": [
+      "遥遥领先",
+      "独占鳌头"
+    ],
+    "antonyms": [
+      "望尘莫及",
+      "落后于人"
+    ]
+  }
+]

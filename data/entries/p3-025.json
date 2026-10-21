@@ -459,6 +459,9 @@
     "id": "fu-lao-xie-you",
     "text": "扶老携幼",
     "pinyin": "fú lǎo xié yòu",
+    "variants": [
+      "携老扶幼"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -900,7 +903,8 @@
     "text": "天有不测风云",
     "pinyin": "tiān yǒu bù cè fēng yún",
     "variants": [
-      "天有不测风云，人有旦夕祸福"
+      "天有不测风云，人有旦夕祸福",
+      "不测风云"
     ],
     "kind": "suyu",
     "frequency": 2,

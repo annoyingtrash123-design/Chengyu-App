@@ -350,6 +350,9 @@
     "id": "yi-zhi-ban-jie",
     "text": "一知半解",
     "pinyin": "yī zhī bàn jiě",
+    "variants": [
+      "半知半解"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -898,6 +901,9 @@
     "id": "hu-tou-she-wei",
     "text": "虎头蛇尾",
     "pinyin": "hǔ tóu shé wěi",
+    "variants": [
+      "龙头蛇尾"
+    ],
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -933,8 +939,7 @@
     },
     "synonyms": [
       "有始无终",
-      "半途而废",
-      "龙头蛇尾"
+      "半途而废"
     ],
     "antonyms": [
       "善始善终",

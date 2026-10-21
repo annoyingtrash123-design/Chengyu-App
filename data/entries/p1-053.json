@@ -400,6 +400,9 @@
     "id": "hao-li-bu-cha",
     "text": "毫厘不差",
     "pinyin": "háo lí bù chà",
+    "variants": [
+      "毫厘不爽"
+    ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -446,11 +449,11 @@
     "id": "da-gai-qi",
     "text": "大概其",
     "pinyin": "dà gài qí",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "大概齐"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -499,11 +502,11 @@
     "id": "yue-mo-zhe",
     "text": "约摸着",
     "pinyin": "yuē mō zhe",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "约莫着"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

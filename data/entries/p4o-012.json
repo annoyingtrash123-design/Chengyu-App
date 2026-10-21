@@ -1,0 +1,965 @@
+[
+  {
+    "id": "xin-chun-kuai-le",
+    "text": "新春快乐",
+    "pinyin": "xīn chūn kuài lè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations",
+      "joy-and-happiness"
+    ],
+    "literal": "new · spring · happy · joyful",
+    "natural": "Happy Spring Festival",
+    "meaning": {
+      "en": "The standard greeting for the Spring Festival (Chinese New Year).",
+      "zh": "春节的通用祝辞。"
+    },
+    "equivalents": [
+      "Happy Chinese New Year",
+      "Happy Spring Festival"
+    ],
+    "examples": [
+      {
+        "zh": "给大家拜年，新春快乐！",
+        "en": "Happy New Year to everyone!"
+      },
+      {
+        "zh": "商场挂着“新春快乐”的红色横幅。",
+        "en": "A red banner saying 'Happy Spring Festival' hung in the mall."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: used from New Year's Eve to the Lantern Festival; 新年快乐 is also fine on 1 January. Neutral to warm.",
+      "zh": "固定祝辞：从除夕到元宵节都用；公历元旦则更常说“新年快乐”。中性偏亲切。"
+    },
+    "synonyms": [
+      "恭贺新禧"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "nian-nian-you-yu",
+    "text": "年年有余",
+    "pinyin": "nián nián yǒu yú",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "年年有鱼"
+    ],
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations",
+      "simple-food-and-hunger"
+    ],
+    "literal": "year · year · have · surplus",
+    "natural": "may there be a surplus every year",
+    "meaning": {
+      "en": "A New Year wish for abundance and savings every year, with a pun on 鱼 (fish) and 余 (surplus).",
+      "zh": "新年祝愿年年有富余，“余”与“鱼”谐音。"
+    },
+    "equivalents": [
+      "may you always have more than enough",
+      "plenty year after year"
+    ],
+    "examples": [
+      {
+        "zh": "年夜饭上少不了鱼，寓意年年有余。",
+        "en": "A fish is a must at the reunion dinner, standing for 'surplus every year'."
+      },
+      {
+        "zh": "窗上贴着一幅年年有余的年画。",
+        "en": "A New Year picture of 'surplus every year' was pasted on the window."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: a Spring Festival pun: 鱼 and 余 are homophones (yú), so a fish dish, left partly uneaten, and fish pictures bring wishes of abundance. Also written 年年有鱼. Cheerful and casual.",
+      "zh": "固定祝辞：春节谐音祝福：“鱼”与“余”同音，年夜饭的鱼要留一部分，年画也常画鱼，寓意富余。也写作“年年有鱼”。喜庆，口语。"
+    },
+    "synonyms": [
+      "吉庆有余"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "kai-ye-da-ji",
+    "text": "开业大吉",
+    "pinyin": "kāi yè dà jí",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "开张大吉"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "open · business · great · auspicious",
+    "natural": "a most auspicious opening",
+    "meaning": {
+      "en": "A congratulation on the opening of a business.",
+      "zh": "祝贺商店、公司开业顺利的祝辞。"
+    },
+    "equivalents": [
+      "congratulations on your opening",
+      "a lucky start to the business"
+    ],
+    "examples": [
+      {
+        "zh": "花篮上写着“开业大吉”。",
+        "en": "The flower basket was labelled 'Congratulations on the opening'."
+      },
+      {
+        "zh": "他的新店今天开业大吉，客人络绎不绝。",
+        "en": "His new shop had a lucky opening today, with a steady stream of customers."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: on banners, flower baskets and cards at shop openings. Formal and festive; 开张大吉 is the more colloquial variant.",
+      "zh": "固定祝辞：见于开业的横幅、花篮和贺卡。正式喜庆；“开张大吉”更口语。"
+    },
+    "synonyms": [
+      "生意兴隆"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qiao-qian-xin-ju",
+    "text": "乔迁新居",
+    "pinyin": "qiáo qiān xīn jū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "family-and-home"
+    ],
+    "literal": "move-up · relocate · new · home",
+    "natural": "moving to a new home",
+    "meaning": {
+      "en": "A congratulation on moving into a new house.",
+      "zh": "祝贺迁入新居的祝辞。"
+    },
+    "equivalents": [
+      "congratulations on your new home",
+      "best wishes for your housewarming"
+    ],
+    "examples": [
+      {
+        "zh": "恭贺李先生乔迁新居！",
+        "en": "Congratulations to Mr Li on moving into his new home!"
+      },
+      {
+        "zh": "同事乔迁新居，我们送了一盆绿植。",
+        "en": "A colleague moved into a new home, and we gave a potted plant."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: 乔迁 comes from the Book of Songs image of a bird flying up to a taller tree, so it implies a move 'up'. Used on cards and invitations; formal.",
+      "zh": "固定祝辞：“乔迁”取《诗经》中鸟儿迁往高树的意象，含迁往更好处之意。用于贺卡和请柬，正式。"
+    },
+    "synonyms": [
+      "乔迁大吉",
+      "新居落成"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qiao-qian-da-ji",
+    "text": "乔迁大吉",
+    "pinyin": "qiáo qiān dà jí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "family-and-home"
+    ],
+    "literal": "move-up · relocate · great · auspicious",
+    "natural": "a most auspicious house move",
+    "meaning": {
+      "en": "A wish for good luck on moving into a new house or office.",
+      "zh": "祝贺迁居或迁入新办公地点吉利顺利。"
+    },
+    "equivalents": [
+      "good luck in your new home",
+      "an auspicious move"
+    ],
+    "examples": [
+      {
+        "zh": "门口贴着红色的“乔迁大吉”。",
+        "en": "'A most auspicious move' was pasted in red at the door."
+      },
+      {
+        "zh": "祝公司乔迁大吉，事业蒸蒸日上！",
+        "en": "Congratulations on the company's move, and may the business flourish!"
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: also used for businesses moving premises; the 大吉 ending makes it a short blessing for banners and messages. Formal.",
+      "zh": "固定祝辞：也用于公司搬迁；“大吉”收尾使它成为适合横幅和短信的祝福。正式。"
+    },
+    "synonyms": [
+      "乔迁新居",
+      "新居落成"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xin-ju-luo-cheng",
+    "text": "新居落成",
+    "pinyin": "xīn jū luò chéng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "successful-construction",
+      "family-and-home"
+    ],
+    "literal": "new · residence · complete · finished",
+    "natural": "the new home is completed",
+    "meaning": {
+      "en": "A congratulation on the completion of a new house.",
+      "zh": "祝贺新房建成。"
+    },
+    "equivalents": [
+      "congratulations on your new house being built",
+      "a new home completed"
+    ],
+    "examples": [
+      {
+        "zh": "恭贺新居落成，福星高照！",
+        "en": "Congratulations on the completion of your new home; may good fortune shine on it!"
+      },
+      {
+        "zh": "乡亲们送来贺联，庆祝他家新居落成。",
+        "en": "The villagers brought couplets to celebrate the completion of his new house."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: especially for a house that has been built, not merely bought or rented; common in rural or traditional celebrations. Formal.",
+      "zh": "固定祝辞：尤指自己建成的房子，而不是买或租的；多见于乡村或传统庆贺。正式。"
+    },
+    "synonyms": [
+      "乔迁新居",
+      "华堂落成"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yong-jie-tong-xin",
+    "text": "永结同心",
+    "pinyin": "yǒng jié tóng xīn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "forever · tie · same · heart",
+    "natural": "to be united in heart for ever",
+    "meaning": {
+      "en": "A wedding wish that the couple remain united in heart for ever.",
+      "zh": "婚礼祝辞，愿新人永远同心。"
+    },
+    "equivalents": [
+      "united for ever",
+      "hearts joined for life"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼请柬上印着“永结同心”。",
+        "en": "The wedding invitation was printed with 'united in heart for ever'."
+      },
+      {
+        "zh": "祝新郎新娘永结同心，白头偕老！",
+        "en": "We wish the bride and groom lasting unity and growing old together!"
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: a wedding card and banner staple. 同心结 (the 'same-heart knot') is a traditional love knot. Formal; often followed by 白头偕老.",
+      "zh": "固定祝辞：婚礼贺卡和横幅的常见用语。“同心结”是传统的爱情结。正式，常接“白头偕老”。"
+    },
+    "synonyms": [
+      "百年好合",
+      "白头偕老"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zao-sheng-gui-zi",
+    "text": "早生贵子",
+    "pinyin": "zǎo shēng guì zǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "parenting-and-family"
+    ],
+    "literal": "early · give-birth · precious · son",
+    "natural": "may you soon have a precious child",
+    "meaning": {
+      "en": "A traditional wedding wish that the couple soon have a child.",
+      "zh": "传统婚礼祝福，愿新人早日生子。"
+    },
+    "equivalents": [
+      "may you soon be blessed with a baby",
+      "hoping for an early child"
+    ],
+    "examples": [
+      {
+        "zh": "新婚宴上大家笑着说：“早生贵子！”",
+        "en": "At the wedding feast everyone laughed and said, 'May you soon have a baby!'"
+      },
+      {
+        "zh": "喜床上撒着红枣、花生，取“早生贵子”之意。",
+        "en": "Red dates and peanuts were scattered on the bed, for 'an early child'."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: the dates 枣, peanuts 花生, lotus seeds and longans put on the wedding bed echo the wish. Traditional and cheerful; some couples now find it presumptuous, so use it with care. Casual to neutral.",
+      "zh": "固定祝辞：喜床上放红枣、花生、桂圆、莲子，取早生贵子之意。传统喜庆；如今有的新人觉得催生不妥，宜谨慎。口语到中性。"
+    },
+    "synonyms": [
+      "多子多福",
+      "喜得贵子"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "jia-ou-tian-cheng",
+    "text": "佳偶天成",
+    "pinyin": "jiā ǒu tiān chéng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "fine · couple · heaven · made",
+    "natural": "a perfect match made in heaven",
+    "meaning": {
+      "en": "A wedding wish describing a couple as naturally and perfectly matched.",
+      "zh": "形容一对夫妻是天生的好配偶。"
+    },
+    "equivalents": [
+      "a match made in heaven",
+      "a perfect couple"
+    ],
+    "examples": [
+      {
+        "zh": "两位新人郎才女貌，真是佳偶天成。",
+        "en": "The couple are so well matched; truly a match made in heaven."
+      },
+      {
+        "zh": "祝你们佳偶天成，幸福一生。",
+        "en": "May you be a perfect match and happy for life."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: wedding banners, speeches and cards. Formal, literary; also used of couples in the news or fiction.",
+      "zh": "固定祝辞：婚礼横幅、致辞和贺卡。正式，偏书面，也用于新闻或小说中的情侣。"
+    },
+    "synonyms": [
+      "天作之合",
+      "珠联璧合"
+    ],
+    "antonyms": [
+      "孽缘"
+    ]
+  },
+  {
+    "id": "qin-se-he-ming",
+    "text": "琴瑟和鸣",
+    "pinyin": "qín sè hé míng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage",
+      "poems-prose"
+    ],
+    "literal": "zither · large-zither · harmonise · sound",
+    "natural": "husband and wife in perfect harmony",
+    "meaning": {
+      "en": "A wish that husband and wife live in harmony, like two instruments played together.",
+      "zh": "比喻夫妻感情和谐，像琴瑟合奏一样。"
+    },
+    "equivalents": [
+      "a harmonious marriage",
+      "husband and wife in tune"
+    ],
+    "examples": [
+      {
+        "zh": "祝新人琴瑟和鸣，举案齐眉。",
+        "en": "May the couple live in harmony and treat each other with respect."
+      },
+      {
+        "zh": "老两口几十年琴瑟和鸣，让人羡慕。",
+        "en": "The old couple have lived in harmony for decades, and everyone envies them."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: 琴 and 瑟 are two ancient zithers often played together; the image goes back to the Book of Songs (《诗经》). Literary wedding wish; for a gentler 'everyday' wish use 百年好合.",
+      "zh": "固定祝辞：琴和瑟是两种常合奏的古乐器，此喻可上溯《诗经》。偏书面的婚礼祝辞；平常的祝福可用“百年好合”。"
+    },
+    "synonyms": [
+      "琴瑟相和",
+      "举案齐眉"
+    ],
+    "antonyms": [
+      "反目成仇"
+    ]
+  },
+  {
+    "id": "bai-nian-qin-se",
+    "text": "百年琴瑟",
+    "pinyin": "bǎi nián qín sè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "hundred · years · zither · large-zither",
+    "natural": "a hundred years of harmony",
+    "meaning": {
+      "en": "A wedding wish for a lifelong harmonious marriage.",
+      "zh": "祝愿夫妻一生和谐美满。"
+    },
+    "equivalents": [
+      "a lifetime of marital harmony",
+      "a hundred years in tune"
+    ],
+    "examples": [
+      {
+        "zh": "红联写着“百年琴瑟”四字。",
+        "en": "The red couplet bore the four characters 'a hundred years of harmony'."
+      },
+      {
+        "zh": "祝二位百年琴瑟，永结同心。",
+        "en": "We wish you a hundred years of harmony and hearts united."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: a shorter, more literary cousin of 琴瑟和鸣, mainly on wedding scrolls and cards. Rarely spoken.",
+      "zh": "固定祝辞：比“琴瑟和鸣”更简短、更书面，主要用于婚礼字幅和贺卡，很少口说。"
+    },
+    "synonyms": [
+      "琴瑟和鸣",
+      "百年好合"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "bai-nian-xie-lao",
+    "text": "百年偕老",
+    "pinyin": "bǎi nián xié lǎo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "hundred · years · together · grow-old",
+    "natural": "to grow old together for a hundred years",
+    "meaning": {
+      "en": "A wedding wish that the couple live together until old age.",
+      "zh": "祝愿夫妻相伴到老。"
+    },
+    "equivalents": [
+      "growing old together",
+      "a lifetime together"
+    ],
+    "examples": [
+      {
+        "zh": "祝新人百年偕老，幸福美满。",
+        "en": "We wish the newlyweds a lifetime together in happiness."
+      },
+      {
+        "zh": "婚礼上，证婚人祝他们百年偕老。",
+        "en": "At the wedding the witness wished them a lifetime together."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: a common variant of 白头偕老, with 百年 as 'a lifetime'. Formal; for weddings and anniversaries.",
+      "zh": "固定祝辞：与“白头偕老”相近的常用说法，“百年”指一生。正式，用于婚礼和纪念日。"
+    },
+    "synonyms": [
+      "白头偕老",
+      "永结同心"
+    ],
+    "antonyms": [
+      "劳燕分飞"
+    ]
+  },
+  {
+    "id": "xi-jie-liang-yuan",
+    "text": "喜结良缘",
+    "pinyin": "xǐ jié liáng yuán",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "joyfully · tie · good · fate",
+    "natural": "happily forming a good marriage",
+    "meaning": {
+      "en": "A phrase announcing or congratulating a happy marriage.",
+      "zh": "宣布或祝贺美好姻缘。"
+    },
+    "equivalents": [
+      "happily joined in marriage",
+      "tying the knot"
+    ],
+    "examples": [
+      {
+        "zh": "两位新人今天喜结良缘。",
+        "en": "The couple are happily joined in marriage today."
+      },
+      {
+        "zh": "请柬上写着：谨订于十月一日喜结良缘。",
+        "en": "The invitation read: we are to be happily married on 1 October."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: on invitations and in wedding speeches; often 喜结良缘 is used for the union itself, 祝 for the wish. Formal.",
+      "zh": "固定祝辞：用于请柬和婚礼致辞，既说婚事本身，也可作祝愿。正式。"
+    },
+    "synonyms": [
+      "喜结连理"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xi-jie-lian-li",
+    "text": "喜结连理",
+    "pinyin": "xǐ jié lián lǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "joyfully · join · linked · branches",
+    "natural": "happily united as husband and wife",
+    "meaning": {
+      "en": "A phrase for a happy marriage, from two trees whose branches grow together.",
+      "zh": "喜庆地指结为夫妻，用两棵树枝干相连作比。"
+    },
+    "equivalents": [
+      "joined in matrimony",
+      "happily wed"
+    ],
+    "examples": [
+      {
+        "zh": "他们在去年春天喜结连理。",
+        "en": "They happily married last spring."
+      },
+      {
+        "zh": "祝你们喜结连理，相伴一生。",
+        "en": "We wish you a happy marriage and a life together."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: 连理 are branches of two trees that have grown together, a classical image of married love (as in Bai Juyi's 在地愿为连理枝). Formal and literary.",
+      "zh": "固定祝辞：“连理”指两棵树枝干相连，是古典诗文中夫妻恩爱的意象（如白居易“在地愿为连理枝”）。正式，偏书面。"
+    },
+    "synonyms": [
+      "喜结良缘"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhong-cheng-juan-shu",
+    "text": "终成眷属",
+    "pinyin": "zhōng chéng juàn shǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "wedding-wishes",
+      "love-and-marriage"
+    ],
+    "literal": "finally · become · family-members · kin",
+    "natural": "lovers finally marry",
+    "meaning": {
+      "en": "Used of lovers who overcome obstacles and finally marry.",
+      "zh": "指有情人历经阻碍，最后结为夫妻。"
+    },
+    "equivalents": [
+      "to end up together",
+      "lovers finally united"
+    ],
+    "examples": [
+      {
+        "zh": "经过多年等待，两人终成眷属。",
+        "en": "After years of waiting, the two finally married."
+      },
+      {
+        "zh": "愿天下有情人终成眷属。",
+        "en": "May lovers everywhere end up together."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: both a blessing and a narrative phrase ('they finally got together'); the full saying is 有情人终成眷属. Neutral, positive.",
+      "zh": "固定祝辞：既是祝愿也是叙述语（“终于在一起了”），完整说法为“有情人终成眷属”。中性偏褒。"
+    },
+    "synonyms": [
+      "喜结良缘",
+      "天作之合"
+    ],
+    "antonyms": [
+      "有缘无分"
+    ]
+  },
+  {
+    "id": "xue-ye-you-cheng",
+    "text": "学业有成",
+    "pinyin": "xué yè yǒu chéng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "academic-achievement"
+    ],
+    "literal": "studies · have · success",
+    "natural": "success in your studies",
+    "meaning": {
+      "en": "A wish that someone's studies go well and succeed.",
+      "zh": "祝愿学业顺利、取得成就。"
+    },
+    "equivalents": [
+      "success in your studies",
+      "may you do well academically"
+    ],
+    "examples": [
+      {
+        "zh": "祝你学业有成，早日学成归来！",
+        "en": "May you succeed in your studies and return soon!"
+      },
+      {
+        "zh": "他学业有成，被名校录取。",
+        "en": "He did well academically and was admitted to a top university."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: a farewell wish to students going abroad or graduates, and a plain description ('having succeeded in studies'). Neutral, formal in cards.",
+      "zh": "固定祝辞：送给出国留学生和毕业生的祝愿，也可平述“学有所成”。中性，贺卡中偏正式。"
+    },
+    "synonyms": [
+      "学有所成",
+      "金榜题名"
+    ],
+    "antonyms": [
+      "荒废学业"
+    ]
+  },
+  {
+    "id": "qian-cheng-si-jin",
+    "text": "前程似锦",
+    "pinyin": "qián chéng sì jǐn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "high-aspirations"
+    ],
+    "literal": "future · course · like · brocade",
+    "natural": "a future as bright as brocade",
+    "meaning": {
+      "en": "A wish that someone's future will be splendid.",
+      "zh": "祝愿对方的前途像锦缎一样美好。"
+    },
+    "equivalents": [
+      "a bright future ahead",
+      "may you go far"
+    ],
+    "examples": [
+      {
+        "zh": "祝毕业生前程似锦！",
+        "en": "We wish the graduates a bright future!"
+      },
+      {
+        "zh": "他年轻有为，前程似锦。",
+        "en": "He is young and capable, with a bright future ahead."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: graduation, farewell and job-change blessing; also describes someone with good prospects. Neutral, very common in cards and speeches.",
+      "zh": "固定祝辞：毕业、送别和跳槽时的祝福；也可形容前途光明的人。中性，贺卡和致辞中很常见。"
+    },
+    "synonyms": [
+      "鹏程万里",
+      "一帆风顺"
+    ],
+    "antonyms": [
+      "前途渺茫"
+    ]
+  },
+  {
+    "id": "ren-shou-nian-feng",
+    "text": "人寿年丰",
+    "pinyin": "rén shòu nián fēng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "farming-and-harvest",
+      "peace-and-prosperity"
+    ],
+    "literal": "people · long-life · year · abundant",
+    "natural": "long lives and bumper harvests",
+    "meaning": {
+      "en": "A wish for people to live long and for harvests to be rich.",
+      "zh": "祝愿人民长寿、年成丰收。"
+    },
+    "equivalents": [
+      "long life and good harvests",
+      "health and plenty"
+    ],
+    "examples": [
+      {
+        "zh": "春联横批是“人寿年丰”。",
+        "en": "The horizontal scroll of the New Year couplet reads 'long life and plenty'."
+      },
+      {
+        "zh": "但愿风调雨顺，人寿年丰。",
+        "en": "May the weather be kind, and people live long with good harvests."
+      }
+    ],
+    "usage": {
+      "en": "A set greeting: from the rural wish for good harvests and healthy people; used on couplets and in communal blessings. Formal, slightly old-fashioned.",
+      "zh": "固定祝辞：源于农村对丰收和平安长寿的期盼，用于春联和集体祝福。正式，略显古雅。"
+    },
+    "synonyms": [
+      "五谷丰登",
+      "国泰民安"
+    ],
+    "antonyms": [
+      "民不聊生"
+    ]
+  },
+  {
+    "id": "yi-ren-wei-ben",
+    "text": "以人为本",
+    "pinyin": "yǐ rén wéi běn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "modern-applications-of-classical-ideas",
+      "news-and-officialese"
+    ],
+    "literal": "take · people · as · foundation",
+    "natural": "put people first",
+    "meaning": {
+      "en": "To take people's needs and wellbeing as the starting point and the basis of policy or management.",
+      "zh": "把人的需要和福祉作为政策、管理的出发点和根本。"
+    },
+    "equivalents": [
+      "put people first",
+      "people-centred"
+    ],
+    "examples": [
+      {
+        "zh": "这座城市的规划始终坚持以人为本。",
+        "en": "The city's planning has always put people first."
+      },
+      {
+        "zh": "企业管理要以人为本，关心员工的成长。",
+        "en": "Management should be people-centred and care about employees' growth."
+      }
+    ],
+    "usage": {
+      "en": "a modern official slogan in government, business and education texts (promoted in China since the early 2000s as 'people-oriented' development). Formal; its roots are in the old idea of 民本 ('the people as the root of the state'). Used as predicate or in 坚持以人为本.",
+      "zh": "现代官方口号，常见于政府、企业和教育文件（2000年代初起大力倡导的“以人为本”）。正式；思想根源是古代的“民本”。作谓语或用于“坚持以人为本”。"
+    },
+    "synonyms": [
+      "人性化",
+      "民本"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "gai-ge-kai-fang",
+    "text": "改革开放",
+    "pinyin": "gǎi gé kāi fàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "innovation-and-progress",
+      "historical-periods",
+      "news-and-officialese"
+    ],
+    "literal": "reform · open · up",
+    "natural": "reform and opening-up",
+    "meaning": {
+      "en": "China's policy since 1978 of economic reform at home and opening to the outside world.",
+      "zh": "指中国自1978年起实行的对内改革、对外开放的政策。"
+    },
+    "equivalents": [
+      "reform and opening-up",
+      "China's reform era"
+    ],
+    "examples": [
+      {
+        "zh": "改革开放以来，中国经济发展很快。",
+        "en": "Since reform and opening-up, China's economy has grown fast."
+      },
+      {
+        "zh": "我家在改革开放初期搬到了深圳。",
+        "en": "My family moved to Shenzhen in the early years of reform and opening-up."
+      }
+    ],
+    "usage": {
+      "en": "a proper noun-like term for the policy launched in December 1978 under Deng Xiaoping. Always formal; in everyday talk it also marks the period (改革开放前后 'before and after the reforms'). Treat the political meaning neutrally.",
+      "zh": "类似专有名词，指1978年12月邓小平主导启动的政策。总是正式；日常也用来指一个时期（“改革开放前后”）。"
+    },
+    "synonyms": [
+      "对外开放",
+      "锐意改革"
+    ],
+    "antonyms": [
+      "闭关锁国"
+    ]
+  },
+  {
+    "id": "he-ping-gong-chu",
+    "text": "和平共处",
+    "pinyin": "hé píng gòng chǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "news-and-officialese"
+    ],
+    "literal": "peace · together · live",
+    "natural": "peaceful coexistence",
+    "meaning": {
+      "en": "To live side by side peacefully, especially of states or groups with different systems or views.",
+      "zh": "和平地相处，尤指不同制度、不同观点的国家或群体之间。"
+    },
+    "equivalents": [
+      "peaceful coexistence",
+      "live together in peace"
+    ],
+    "examples": [
+      {
+        "zh": "不同文化的人应该学会和平共处。",
+        "en": "People of different cultures should learn to live together in peace."
+      },
+      {
+        "zh": "两国提出和平共处五项原则。",
+        "en": "The two countries put forward the Five Principles of Peaceful Coexistence."
+      }
+    ],
+    "usage": {
+      "en": "a diplomatic term (和平共处五项原则 from 1954) but also used in everyday life for neighbours, species or groups getting along. Formal, positive.",
+      "zh": "外交用语（1954年提出和平共处五项原则），也用于邻居、物种或群体和睦相处。正式，褒义。"
+    },
+    "synonyms": [
+      "和睦相处",
+      "相安无事"
+    ],
+    "antonyms": [
+      "兵戎相见",
+      "水火不容"
+    ]
+  },
+  {
+    "id": "he-xie-she-hui",
+    "text": "和谐社会",
+    "pinyin": "hé xié shè huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "peace-and-prosperity",
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "harmonious · society",
+    "natural": "harmonious society",
+    "meaning": {
+      "en": "A society in which people, groups and institutions live in harmony and fairness.",
+      "zh": "人与人、群体与制度之间公平和谐的社会。"
+    },
+    "equivalents": [
+      "a harmonious society",
+      "social harmony"
+    ],
+    "examples": [
+      {
+        "zh": "政府提出要建设和谐社会。",
+        "en": "The government has called for building a harmonious society."
+      },
+      {
+        "zh": "公平正义是和谐社会的基石。",
+        "en": "Fairness and justice are the cornerstones of a harmonious society."
+      }
+    ],
+    "usage": {
+      "en": "an official term, most associated with the 'building a harmonious socialist society' goal set out in 2004-2006; 和谐 itself goes back to Confucian ideals of 和. Formal, used in news and policy texts. Kept neutral in tone here; critics sometimes use it ironically.",
+      "zh": "官方用语，与2004至2006年提出的构建社会主义和谐社会目标联系最紧；“和谐”本身可追溯到儒家的“和”。正式，见于新闻和政策文件。也有人带讽刺地使用。"
+    },
+    "synonyms": [
+      "太平盛世",
+      "安定团结"
+    ],
+    "antonyms": [
+      "动荡不安"
+    ]
+  }
+]

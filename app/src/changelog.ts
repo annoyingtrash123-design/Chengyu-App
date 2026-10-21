@@ -10,6 +10,22 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.13",
+    date: "2026-10-21",
+    en: [
+      "Nearly 9,000 entries: about 1,700 more chengyu (story, literary, textbook and exam idioms), plus big new sets of 俗语 (now ~760), 歇后语 (~310), 惯用语 (~570) and 名句 (~580).",
+      "New labels: Exam favourites 高考常考 and Often misused 易误用, with the trap explained in each entry's usage note.",
+      "New coverage: the 36 stratagems, the 24 filial-piety stories, idioms from the four classic novels, polite and humble phrases, festive wishes, and solar-term and weather sayings.",
+      "Hundreds more alternative spellings: searching an older or variant form opens the main entry.",
+    ],
+    zh: [
+      "词条接近九千条：新增约一千七百条成语（典故、文学、课本和高考成语），以及大量俗语（约七百六十条）、歇后语（约三百一十条）、惯用语（约五百七十条）和名句（约五百八十条）。",
+      "新增标签“高考常考”和“易误用”，易误用词条的用法说明会解释常见错误。",
+      "新增三十六计、二十四孝、四大名著成语、敬辞谦辞、节日祝福语、节气和天气农谚等内容。",
+      "新增数百个异形写法：搜索旧写法或异体也能打开主词条。",
+    ],
+  },
+  {
     version: "0.12",
     date: "2026-10-19",
     en: [

@@ -3,11 +3,11 @@
     "id": "zhi-zhe-qian-lu-bi-you-yi-shi",
     "text": "智者千虑，必有一失",
     "pinyin": "zhì zhě qiān lǜ, bì yǒu yī shī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "必有一失"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -154,11 +154,11 @@
     "id": "yu-mu-ge-da",
     "text": "榆木疙瘩",
     "pinyin": "yú mù gē dā",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "榆木脑袋"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -544,12 +544,12 @@
     "id": "guo-chou-jia-hen",
     "text": "国仇家恨",
     "pinyin": "guó chóu jiā hèn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "家仇国恨",
       "国恨家仇"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -728,11 +728,12 @@
     "id": "hu-peng-huan-you",
     "text": "呼朋唤友",
     "pinyin": "hū péng huàn yǒu",
+    "variants": [
+      "呼朋引伴",
+      "呼朋引类"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "呼朋引伴"
-    ],
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -822,12 +823,12 @@
     "id": "fan-shou-wei-yun-fu-shou-wei-yu",
     "text": "翻手为云，覆手为雨",
     "pinyin": "fān shǒu wéi yún, fù shǒu wéi yǔ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "翻手为云",
       "覆手为雨"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

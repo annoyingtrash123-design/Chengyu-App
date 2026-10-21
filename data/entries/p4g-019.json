@@ -137,11 +137,11 @@
     "id": "zuo-er-jin-you-er-chu",
     "text": "左耳进，右耳出",
     "pinyin": "zuǒ ěr jìn, yòu ěr chū",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "左耳入，右耳出"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -230,12 +230,12 @@
     "id": "zhan-wu-bu-sheng-gong-wu-bu-ke",
     "text": "战无不胜，攻无不克",
     "pinyin": "zhàn wú bù shèng, gōng wú bù kè",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "攻无不克，战无不胜",
       "战无不胜，攻无不取"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -593,11 +593,11 @@
     "id": "hao-xin-dang-cheng-lu-gan-fei",
     "text": "好心当成驴肝肺",
     "pinyin": "hǎo xīn dàng chéng lǘ gān fèi",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "好心倒做了驴肝肺"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -956,11 +956,12 @@
     "id": "feng-zhong-zhi-zhu",
     "text": "风中之烛",
     "pinyin": "fēng zhōng zhī zhú",
+    "variants": [
+      "风中烛，瓦上霜",
+      "风中残烛"
+    ],
     "kind": "guanyongyu",
     "frequency": 3,
-    "variants": [
-      "风中烛，瓦上霜"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

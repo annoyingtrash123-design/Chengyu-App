@@ -347,11 +347,12 @@
     "id": "gui-ku-lang-hao",
     "text": "鬼哭狼嚎",
     "pinyin": "guǐ kū láng háo",
+    "variants": [
+      "鬼哭神嚎",
+      "狼号鬼哭"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "鬼哭神嚎"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1037,11 +1038,11 @@
     "id": "zhang-yi-shu-cai",
     "text": "仗义疏财",
     "pinyin": "zhàng yì shū cái",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "疏财仗义"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

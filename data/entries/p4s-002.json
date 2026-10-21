@@ -47,11 +47,11 @@
     "id": "ren-pa-chu-ming-zhu-pa-zhuang",
     "text": "人怕出名猪怕壮",
     "pinyin": "rén pà chū míng zhū pà zhuàng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "人怕出名猪怕肥"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -180,12 +180,12 @@
     "id": "yi-cun-guang-yin-yi-cun-jin",
     "text": "一寸光阴一寸金",
     "pinyin": "yí cùn guāng yīn yí cùn jīn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "一寸光阴一寸金，寸金难买寸光阴",
       "寸金难买寸光阴"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -268,6 +268,9 @@
     "id": "yi-ri-fu-qi-bai-ri-en",
     "text": "一日夫妻百日恩",
     "pinyin": "yí rì fū qī bǎi rì ēn",
+    "variants": [
+      "一夜夫妻百日恩"
+    ],
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -310,12 +313,12 @@
     "id": "qian-li-song-e-mao-li-qing-qing-yi-zhong",
     "text": "千里送鹅毛，礼轻情意重",
     "pinyin": "qiān lǐ sòng é máo, lǐ qīng qíng yì zhòng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "千里送鹅毛，礼轻人意重",
       "礼轻人意重，千里送鹅毛"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -1031,11 +1034,11 @@
     "id": "jiang-hai-shi-lao-de-la",
     "text": "姜还是老的辣",
     "pinyin": "jiāng hái shì lǎo de là",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "姜是老的辣"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [

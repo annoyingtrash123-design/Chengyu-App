@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "gui-nian-he-shou",
+    "text": "龟年鹤寿",
+    "pinyin": "guī nián hè shòu",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festive-greetings",
+      "experience-and-old-age"
+    ],
+    "literal": "tortoise · years · crane · longevity",
+    "natural": "the years of a tortoise, the life of a crane",
+    "meaning": {
+      "en": "A wish for a very long life.",
+      "zh": "像龟和鹤一样长寿，祝人高寿的话。"
+    },
+    "equivalents": [
+      "may you live long",
+      "longevity"
+    ],
+    "examples": [
+      {
+        "zh": "祝奶奶龟年鹤寿，福如东海。",
+        "en": "Wishing Grandma a long life and boundless good fortune."
+      },
+      {
+        "zh": "寿宴上，大家纷纷祝老人龟年鹤寿。",
+        "en": "At the birthday banquet everyone wished the old man a long life."
+      },
+      {
+        "zh": "这幅画题着“龟年鹤寿”四个字。",
+        "en": "The painting carries the four characters for a long life."
+      }
+    ],
+    "usage": {
+      "en": "A birthday blessing for elders, found on greeting cards and scrolls. Formal. Tortoise and crane are both symbols of longevity in China. Compare 松鹤延年.",
+      "zh": "祝寿用语，龟和鹤都是长寿的象征，书面、郑重。"
+    },
+    "synonyms": [
+      "松鹤延年",
+      "寿比南山"
+    ],
+    "antonyms": [
+      "英年早逝",
+      "短命早夭"
+    ]
+  },
+  {
+    "id": "she-shu-yi-wo",
+    "text": "蛇鼠一窝",
+    "pinyin": "shé shǔ yī wō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "bad-company-and-betrayal",
+      "negative-character-flaws"
+    ],
+    "literal": "snake · rat · one · nest",
+    "natural": "snakes and rats in one nest",
+    "meaning": {
+      "en": "Bad people ganging up together; they are all as bad as each other.",
+      "zh": "蛇和老鼠同住一窝，比喻坏人勾结在一起，彼此一路货色。"
+    },
+    "equivalents": [
+      "birds of a feather",
+      "a pack of rogues"
+    ],
+    "examples": [
+      {
+        "zh": "这几个人蛇鼠一窝，专干坏事。",
+        "en": "These few are a pack of rogues who do nothing but wrong."
+      },
+      {
+        "zh": "别信他们，他们本来就是蛇鼠一窝。",
+        "en": "Do not trust them; they are all the same sort."
+      },
+      {
+        "zh": "案子查下去，才发现他们蛇鼠一窝。",
+        "en": "As the case was investigated it turned out they were all in it together."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory and fairly strong; use only about people you are condemning. Similar to 一丘之貉 and 狼狈为奸 but more colloquial.",
+      "zh": "贬义较强，口语色彩浓，只用于指责坏人。"
+    },
+    "synonyms": [
+      "一丘之貉",
+      "沆瀣一气"
+    ],
+    "antonyms": [
+      "志同道合",
+      "同心同德"
+    ]
+  },
+  {
+    "id": "ma-bu-jie-an",
+    "text": "马不解鞍",
+    "pinyin": "mǎ bù jiě ān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "speed-fast-vs-slow",
+      "journeys-and-exploration"
+    ],
+    "literal": "horse · not · take off · saddle",
+    "natural": "the horse's saddle is not removed",
+    "meaning": {
+      "en": "To keep on the move without a rest; to press on with urgency.",
+      "zh": "马不卸下鞍子，指连续行军赶路，不休息。"
+    },
+    "equivalents": [
+      "without a break",
+      "pressing on non-stop"
+    ],
+    "examples": [
+      {
+        "zh": "大军马不解鞍，连夜赶往前线。",
+        "en": "The army pressed on through the night to the front without rest."
+      },
+      {
+        "zh": "他们马不解鞍，终于按时赶到了。",
+        "en": "They kept going without pausing and arrived on time."
+      },
+      {
+        "zh": "出差这几天，我几乎是马不解鞍地跑了五座城市。",
+        "en": "On this business trip I rushed through five cities almost without a pause."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial. Describes urgent travel or non-stop work. Similar to 马不停蹄 but a little more literary and focused on the image of the saddle.",
+      "zh": "作谓语、状语，形容连续赶路或工作；与“马不停蹄”相近，更书面。"
+    },
+    "synonyms": [
+      "马不停蹄",
+      "日夜兼程"
+    ],
+    "antonyms": [
+      "按兵不动",
+      "停滞不前"
+    ]
+  },
+  {
+    "id": "ma-qian-po-shui",
+    "text": "马前泼水",
+    "pinyin": "mǎ qián pō shuǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "love-and-marriage",
+      "mistakes-and-correction"
+    ],
+    "literal": "horse · front · spill · water",
+    "natural": "water spilled before the horse",
+    "meaning": {
+      "en": "A separation that cannot be undone; a marriage that cannot be restored.",
+      "zh": "把水泼在马前，比喻已经分手、覆水难收，多指夫妻离异不能重合。"
+    },
+    "equivalents": [
+      "what's done is done",
+      "a break that cannot be mended"
+    ],
+    "examples": [
+      {
+        "zh": "他们离婚多年，早已是马前泼水，不可能复合。",
+        "en": "They divorced many years ago; it is a break that cannot be mended."
+      },
+      {
+        "zh": "故事里朱买臣的妻子求他复合，他却马前泼水。",
+        "en": "In the story, Zhu Maichen's wife begged to reconcile but he spilled water before the horse."
+      },
+      {
+        "zh": "话已出口，如同马前泼水，收不回来了。",
+        "en": "Words once spoken are like water spilled; they cannot be taken back."
+      }
+    ],
+    "usage": {
+      "en": "Refers to the story of Zhu Maichen, whose wife left him in poverty and begged to return when he became governor. He poured water before his horse and told her to pick it up. Similar to 覆水难收, which is far more common.",
+      "zh": "典出朱买臣的故事：其妻嫌他贫穷离去，后来他做官，妻子求复合，他把水泼在马前，让她收回。与更常用的“覆水难收”相近。"
+    },
+    "synonyms": [
+      "覆水难收",
+      "一刀两断"
+    ],
+    "antonyms": [
+      "破镜重圆",
+      "和好如初"
+    ]
+  },
+  {
+    "id": "ma-shou-mao-chang",
+    "text": "马瘦毛长",
+    "pinyin": "mǎ shòu máo cháng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poverty-and-hardship",
+      "giving-up-and-weakness"
+    ],
+    "literal": "horse · thin · hair · long",
+    "natural": "a thin horse has long fur",
+    "meaning": {
+      "en": "A person in poverty loses confidence and drive; when down on one's luck, one's aspirations also shrink.",
+      "zh": "马瘦了，毛显得更长，比喻人穷了志气也短，常与“人贫志短”连用。"
+    },
+    "equivalents": [
+      "poverty crushes ambition",
+      "down and out"
+    ],
+    "examples": [
+      {
+        "zh": "俗话说马瘦毛长，人穷志短，他怕在人前抬不起头。",
+        "en": "As the saying goes, poverty shrinks the spirit, and he feared he could not hold his head up in front of others."
+      },
+      {
+        "zh": "别说马瘦毛长，穷也要有志气。",
+        "en": "Never say that poverty breaks the will; even when poor you should have spirit."
+      },
+      {
+        "zh": "爷爷教我穷不要怕，不要马瘦毛长。",
+        "en": "Grandpa taught me not to fear poverty and not to let it crush my spirit."
+      }
+    ],
+    "usage": {
+      "en": "Normally quoted as the proverb 马瘦毛长，人贫志短. Often quoted to be refuted, as encouragement to keep one's self-respect. Colloquial.",
+      "zh": "常作俗语“马瘦毛长，人贫志短”引用，多用来劝人穷也要有志气。"
+    },
+    "synonyms": [
+      "人穷志短",
+      "穷困潦倒"
+    ],
+    "antonyms": [
+      "穷且益坚",
+      "志存高远"
+    ]
+  },
+  {
+    "id": "ma-gong-mei-su",
+    "text": "马工枚速",
+    "pinyin": "mǎ gōng méi sù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "Ma · skilful · Mei · fast",
+    "natural": "Sima Xiangru's polish and Mei Gao's speed",
+    "meaning": {
+      "en": "Two literary talents: one writes with great polish, the other with great speed.",
+      "zh": "司马相如作赋工巧而迟缓，枚皋作赋敏捷而不够精工，比喻文章各有长处。"
+    },
+    "equivalents": [
+      "polish versus speed",
+      "two kinds of literary talent"
+    ],
+    "examples": [
+      {
+        "zh": "写文章有人马工枚速，各有所长。",
+        "en": "In writing, some are polished and some are fast, each with their own strengths."
+      },
+      {
+        "zh": "他兼有马工枚速的才能，下笔又快又好。",
+        "en": "He has both polish and speed and writes quickly and well."
+      },
+      {
+        "zh": "论才华，两位作家可谓马工枚速。",
+        "en": "In talent, the two authors are like a polished writer and a fast one."
+      }
+    ],
+    "usage": {
+      "en": "A literary-criticism term. 马 = 司马相如 (slow but exquisite), 枚 = 枚皋 (fast). Rare outside writing. Literary.",
+      "zh": "文学批评用语：“马”指司马相如，“枚”指枚皋；用于评论作者才能。"
+    },
+    "synonyms": [
+      "文思敏捷",
+      "下笔成章"
+    ],
+    "antonyms": [
+      "江郎才尽",
+      "才思枯竭"
+    ]
+  },
+  {
+    "id": "ma-chi-tu-zeng",
+    "text": "马齿徒增",
+    "pinyin": "mǎ chǐ tú zēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "polite-humble",
+      "fleeting-time"
+    ],
+    "literal": "horse · teeth · in vain · increase",
+    "natural": "growing older, like a horse's teeth, to no purpose",
+    "meaning": {
+      "en": "A modest way of saying: I have grown old but achieved little.",
+      "zh": "谦称自己年纪增长而无所成就。"
+    },
+    "equivalents": [
+      "years older but none the wiser",
+      "getting old with nothing to show"
+    ],
+    "examples": [
+      {
+        "zh": "我马齿徒增，却一事无成。",
+        "en": "I have only grown older and achieved nothing."
+      },
+      {
+        "zh": "回首往事，不禁感叹马齿徒增。",
+        "en": "Looking back, I could only sigh that I have aged without achievement."
+      },
+      {
+        "zh": "他自嘲马齿徒增，没有给公司做出什么贡献。",
+        "en": "He said modestly that he had only grown older and given the company nothing."
+      }
+    ],
+    "usage": {
+      "en": "A humble expression (谦辞) used about oneself only, never about others. A horse's age can be told from its teeth, hence 马齿 means 'age'. Literary.",
+      "zh": "谦辞，只用于自己，不用于别人。马的年龄可从牙齿看出，故“马齿”指年龄。书面语。"
+    },
+    "synonyms": [
+      "虚度年华",
+      "一事无成"
+    ],
+    "antonyms": [
+      "功成名就",
+      "大有作为"
+    ]
+  },
+  {
+    "id": "ma-er-dong-feng",
+    "text": "马耳东风",
+    "pinyin": "mǎ ěr dōng fēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "poor-speech-and-silence",
+      "inappropriate-behavior",
+      "poems-prose"
+    ],
+    "literal": "horse · ear · east · wind",
+    "natural": "the east wind in a horse's ear",
+    "meaning": {
+      "en": "To pay no attention at all to what is said, like a horse that ignores the breeze.",
+      "zh": "东风吹过马耳边，比喻听了无动于衷，完全不放在心上。"
+    },
+    "equivalents": [
+      "in one ear and out the other",
+      "fall on deaf ears"
+    ],
+    "examples": [
+      {
+        "zh": "老师的劝告，他当作马耳东风。",
+        "en": "He treated the teacher's advice as if it were nothing."
+      },
+      {
+        "zh": "再三提醒他，他还是马耳东风。",
+        "en": "I reminded him again and again, and it all fell on deaf ears."
+      },
+      {
+        "zh": "对批评意见，他一直马耳东风。",
+        "en": "He always ignored criticism."
+      }
+    ],
+    "origin": {
+      "source": "李白《答王十二寒夜独酌有怀》",
+      "story": {
+        "en": "Li Bai writes that the world shakes its head at his poems, 'like the east wind blowing in a horse's ear' (有如东风射马耳).",
+        "zh": "李白《答王十二寒夜独酌有怀》：“世人闻此皆掉头，有如东风射马耳。”"
+      }
+    },
+    "usage": {
+      "en": "Negative; describes a person who will not listen. 当作 / 视为 + 马耳东风 is a common pattern. Compare 耳边风.",
+      "zh": "含贬义，常说“当作马耳东风”；与“耳边风”相近。"
+    },
+    "synonyms": [
+      "充耳不闻",
+      "置若罔闻"
+    ],
+    "antonyms": [
+      "洗耳恭听",
+      "言听计从"
+    ]
+  },
+  {
+    "id": "yang-gao-gui-ru",
+    "text": "羊羔跪乳",
+    "pinyin": "yáng gāo guì rǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "filial-piety",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "lamb · kneel · suckle · milk",
+    "natural": "a lamb kneels to suckle",
+    "meaning": {
+      "en": "Lambs kneel while drinking their mother's milk; a symbol of gratitude and filial duty.",
+      "zh": "小羊吃奶时跪着，比喻子女感念父母养育之恩，懂得孝顺。"
+    },
+    "equivalents": [
+      "gratitude to one's parents",
+      "filial devotion"
+    ],
+    "examples": [
+      {
+        "zh": "羊羔跪乳，乌鸦反哺，动物尚且知道感恩。",
+        "en": "Lambs kneel for milk and crows feed their parents: even animals know gratitude."
+      },
+      {
+        "zh": "老师给同学们讲了羊羔跪乳的故事，教大家孝敬父母。",
+        "en": "The teacher told the story of the kneeling lamb to teach the children to honour their parents."
+      },
+      {
+        "zh": "我们更应该羊羔跪乳，感恩父母。",
+        "en": "We should be even more grateful to our parents."
+      }
+    ],
+    "usage": {
+      "en": "A children's moral lesson, usually paired with 乌鸦反哺. It comes from folk belief rather than a classical text. Positive and neutral in register.",
+      "zh": "常与“乌鸦反哺”并提，是教育孩子孝顺的民间说法。"
+    },
+    "synonyms": [
+      "乌鸦反哺",
+      "衔环结草"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "不孝之子"
+    ]
+  },
+  {
+    "id": "yang-qiu-chui-diao",
+    "text": "羊裘垂钓",
+    "pinyin": "yáng qiú chuí diào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "contentment-and-simplicity",
+      "freedom"
+    ],
+    "literal": "sheepskin · coat · let down · fish",
+    "natural": "fishing in a sheepskin coat",
+    "meaning": {
+      "en": "To live as a recluse, indifferent to fame and official rank.",
+      "zh": "穿着羊皮袄在水边钓鱼，比喻隐居不仕，淡泊名利。"
+    },
+    "equivalents": [
+      "live as a hermit",
+      "shun fame and rank"
+    ],
+    "examples": [
+      {
+        "zh": "他辞官归隐，羊裘垂钓，过着清静的日子。",
+        "en": "He resigned from office and lived a quiet life fishing like a hermit."
+      },
+      {
+        "zh": "严子陵羊裘垂钓，不愿做官。",
+        "en": "Yan Ziling fished in his sheepskin and refused to hold office."
+      },
+      {
+        "zh": "比起官场，他更向往羊裘垂钓的生活。",
+        "en": "He yearned more for a hermit's life of fishing than for officialdom."
+      }
+    ],
+    "usage": {
+      "en": "About Yan Guang (Yan Ziling), who refused the post offered by his old friend Emperor Guangwu and fished at Fuchun River. A symbol of the unambitious scholar. Literary.",
+      "zh": "指东汉严光（严子陵）：他拒绝老友光武帝授官，隐居富春江钓鱼。书面语。"
+    },
+    "synonyms": [
+      "隐居不仕",
+      "闲云野鹤"
+    ],
+    "antonyms": [
+      "追名逐利",
+      "热衷功名"
+    ]
+  },
+  {
+    "id": "yang-xu-xuan-yu",
+    "text": "羊续悬鱼",
+    "pinyin": "yáng xù xuán yú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "positive-character-qualities",
+      "good-governance",
+      "historical-records"
+    ],
+    "literal": "Yang Xu · hang · fish",
+    "natural": "Yang Xu hangs up the fish",
+    "meaning": {
+      "en": "An honest official who refuses bribes and gifts.",
+      "zh": "东汉羊续把别人送的鱼挂起来拒收，比喻为官清廉，不受贿赂。"
+    },
+    "equivalents": [
+      "an incorruptible official",
+      "refusing bribes"
+    ],
+    "examples": [
+      {
+        "zh": "他像羊续悬鱼一样，拒绝了所有的礼物。",
+        "en": "Like Yang Xu with the fish, he refused every gift."
+      },
+      {
+        "zh": "这位县令羊续悬鱼，深受百姓称赞。",
+        "en": "The county magistrate refused all bribes and was praised by the people."
+      },
+      {
+        "zh": "干部要有羊续悬鱼的操守。",
+        "en": "Officials must have the integrity to refuse gifts as Yang Xu did."
+      }
+    ],
+    "origin": {
+      "source": "《后汉书·羊续传》",
+      "story": {
+        "en": "Yang Xu, governor of Nanyang, hung up a fish given by a subordinate; when another fish was offered, he showed the dried one to refuse.",
+        "zh": "《后汉书·羊续传》载府丞送鱼，羊续悬于庭中；后又送鱼，羊续出示悬鱼以拒绝。"
+      }
+    },
+    "usage": {
+      "en": "The story: Yang Xu, a Han-dynasty governor, was given a fish by a subordinate; he hung it up, and when more was offered he showed the dried fish to refuse. Used in praise of honest officials. Literary and formal.",
+      "zh": "典故：东汉南阳太守羊续不收属下所送的鱼，把鱼悬挂起来，后人称赞官员廉洁。"
+    },
+    "synonyms": [
+      "两袖清风",
+      "清正廉明"
+    ],
+    "antonyms": [
+      "贪赃枉法",
+      "贪污受贿"
+    ]
+  },
+  {
+    "id": "ji-chong-de-shi",
+    "text": "鸡虫得失",
+    "pinyin": "jī chóng dé shī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "common-and-worthless",
+      "contentment-and-simplicity",
+      "poems-prose"
+    ],
+    "literal": "chicken · insect · gain · loss",
+    "natural": "the chicken's loss or gain of an insect",
+    "meaning": {
+      "en": "Petty gains and losses that are not worth worrying about.",
+      "zh": "鸡吃虫、人缚鸡，得失无定，比喻无关紧要的小得失。"
+    },
+    "equivalents": [
+      "petty gains and losses",
+      "small potatoes"
+    ],
+    "examples": [
+      {
+        "zh": "这点鸡虫得失，不必放在心上。",
+        "en": "These petty gains and losses should not trouble you."
+      },
+      {
+        "zh": "他不在乎鸡虫得失，眼光放得很远。",
+        "en": "He does not care about trifling gains and losses and looks far ahead."
+      },
+      {
+        "zh": "跟大局相比，这只是鸡虫得失。",
+        "en": "Compared to the big picture, this is only small change."
+      }
+    ],
+    "origin": {
+      "source": "杜甫《缚鸡行》",
+      "story": {
+        "en": "In Du Fu's poem a servant ties up a chicken to stop it eating insects, then wonders: 'Whether chicken or insect, what is the gain or loss?' (鸡虫得失无了时).",
+        "zh": "杜甫《缚鸡行》：“鸡虫得失无了时，注目寒江倚山阁。”"
+      }
+    },
+    "usage": {
+      "en": "From a poem by Du Fu about a servant who ties up a chicken that eats insects. Literary; used to dismiss small matters. Related to 蜗角之争.",
+      "zh": "出自杜甫《缚鸡行》，书面语，用来表示不值得计较的小事。"
+    },
+    "synonyms": [
+      "蝇头小利",
+      "蜗角之争"
+    ],
+    "antonyms": [
+      "得失攸关",
+      "生死攸关"
+    ]
+  },
+  {
+    "id": "gou-fei-fei-zhu",
+    "text": "狗吠非主",
+    "pinyin": "gǒu fèi fēi zhǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "bad-company-and-betrayal",
+      "conduct",
+      "historical-records"
+    ],
+    "literal": "dog · bark · not · master",
+    "natural": "a dog barks at one who is not its master",
+    "meaning": {
+      "en": "A dog barks at strangers, not out of malice for them; so people serve their own master loyally.",
+      "zh": "狗对不是自己主人的人狂叫，比喻各为其主，忠于自己所事奉的人。"
+    },
+    "equivalents": [
+      "loyal to one's own master",
+      "each serves their own lord"
+    ],
+    "examples": [
+      {
+        "zh": "狗吠非主，他对原来的主公忠心耿耿。",
+        "en": "A dog barks at strangers; he stayed absolutely loyal to his former lord."
+      },
+      {
+        "zh": "史书里常用狗吠非主来说明各为其主。",
+        "en": "The histories often use this to show that each person serves his own lord."
+      },
+      {
+        "zh": "别怪他跟你作对，狗吠非主罢了。",
+        "en": "Do not blame him for opposing you; he is only loyal to his own side."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·齐策六》",
+      "story": {
+        "en": "The Strategies of the Warring States says: 'The robber Zhi's dog barked at the sage Yao, not because Zhi was noble and Yao base, but because a dog barks at one who is not its master.'",
+        "zh": "《战国策·齐策六》：“跖之狗吠尧，非贵跖而贱尧也，狗固吠非其主也。”"
+      }
+    },
+    "usage": {
+      "en": "Neutral in meaning (loyalty to one's lord) but the dog image can sound rude. Literary. Refers to the line 'Zhi's dog barked at Yao' from the Zhan Guo Ce.",
+      "zh": "词义中性（忠于自己的主人），但用狗作比可能显得失礼；书面语。"
+    },
+    "synonyms": [
+      "各为其主",
+      "忠心耿耿"
+    ],
+    "antonyms": [
+      "背主求荣",
+      "叛主投敌"
+    ]
+  },
+  {
+    "id": "gou-zhi-bu-shi",
+    "text": "狗彘不食",
+    "pinyin": "gǒu zhì bù shí",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "dog · pig · not · eat",
+    "natural": "not even dogs and pigs would eat it",
+    "meaning": {
+      "en": "Utterly contemptible: so vile that not even dogs and pigs would touch it.",
+      "zh": "连猪狗都不吃，形容人品极其恶劣，令人鄙视。"
+    },
+    "equivalents": [
+      "utterly despicable",
+      "beneath contempt"
+    ],
+    "examples": [
+      {
+        "zh": "这种出卖朋友的人，真是狗彘不食。",
+        "en": "A man who betrays his friends is utterly despicable."
+      },
+      {
+        "zh": "他的行为狗彘不食，让人唾弃。",
+        "en": "His behaviour is beneath contempt and people spit on him."
+      },
+      {
+        "zh": "她骂那个骗子狗彘不食。",
+        "en": "She cursed the cheat as lower than a dog."
+      }
+    ],
+    "usage": {
+      "en": "A very strong insult. 彘 zhì is a literary word for pig. Use only in serious moral condemnation. Often seen as 人而不仁，狗彘不食 type language.",
+      "zh": "语气极重的斥责，“彘”读 zhì，指猪。"
+    },
+    "synonyms": [
+      "卑鄙无耻",
+      "人面兽心"
+    ],
+    "antonyms": [
+      "品德高尚",
+      "德高望重"
+    ]
+  },
+  {
+    "id": "hong-de-fa-zi",
+    "text": "红得发紫",
+    "pinyin": "hóng de fā zǐ",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "variants": [],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "outstanding-success-and-fame",
+      "relative-measurements"
+    ],
+    "literal": "red · to the point of · turn · purple",
+    "natural": "so red it turns purple",
+    "meaning": {
+      "en": "Extremely popular or influential, at the height of fame.",
+      "zh": "红到发紫，形容极受欢迎或得势，正处于最红的时候。"
+    },
+    "equivalents": [
+      "at the peak of popularity",
+      "red-hot"
+    ],
+    "examples": [
+      {
+        "zh": "他是当时红得发紫的明星。",
+        "en": "He was a red-hot star at the time."
+      },
+      {
+        "zh": "这个歌手红得发紫，演唱会一票难求。",
+        "en": "This singer is at the peak of her fame and concert tickets are impossible to get."
+      },
+      {
+        "zh": "别看他现在红得发紫，也要小心树大招风。",
+        "en": "Though he is at the height of fame now, he should beware of drawing envy."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; slightly ironic when the fame may be short-lived. Used of celebrities and powerful figures. In old China, purple robes were high officials' wear.",
+      "zh": "口语，用于名人、得势者，有时带点“红极一时、恐难长久”的讽意。"
+    },
+    "synonyms": [
+      "炙手可热",
+      "红极一时"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无人问津"
+    ]
+  },
+  {
+    "id": "hei-yun-ya-cheng",
+    "text": "黑云压城",
+    "pinyin": "hēi yún yā chéng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "danger",
+      "harsh-natural-conditions"
+    ],
+    "literal": "black · clouds · press · city",
+    "natural": "black clouds weigh on the city",
+    "meaning": {
+      "en": "Black clouds press down on the city; a threatening, dangerous situation, especially of a looming attack.",
+      "zh": "乌云笼罩城头，比喻敌军压境或局势严峻、气氛紧张。"
+    },
+    "equivalents": [
+      "a looming threat",
+      "dark clouds gathering"
+    ],
+    "examples": [
+      {
+        "zh": "天上黑云压城，暴雨马上就要来了。",
+        "en": "Black clouds loomed over the city and the downpour was about to come."
+      },
+      {
+        "zh": "敌军大兵压境，黑云压城。",
+        "en": "The enemy army pressed up to the walls like black clouds."
+      },
+      {
+        "zh": "公司面临危机，办公室里黑云压城。",
+        "en": "The company faced a crisis and the office felt like a gathering storm."
+      }
+    ],
+    "origin": {
+      "source": "李贺《雁门太守行》",
+      "story": {
+        "en": "Li He opens his poem: 'Black clouds press the city; the city seems about to collapse' (黑云压城城欲摧).",
+        "zh": "李贺《雁门太守行》：“黑云压城城欲摧，甲光向日金鳞开。”"
+      }
+    },
+    "usage": {
+      "en": "Literary and vivid: used of storms or crises. Often quoted with 城欲摧 (the city is about to fall).",
+      "zh": "书面语，既可写暴雨将至，也可比喻危机逼近；常与“城欲摧”连用。"
+    },
+    "synonyms": [
+      "兵临城下",
+      "山雨欲来"
+    ],
+    "antonyms": [
+      "风和日丽",
+      "雨过天晴"
+    ]
+  },
+  {
+    "id": "fen-zhuang-yu-qi",
+    "text": "粉妆玉砌",
+    "pinyin": "fěn zhuāng yù qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "appearance",
+      "essay-favourites"
+    ],
+    "literal": "powder · adorned · jade · built",
+    "natural": "dressed in powder and built of jade",
+    "meaning": {
+      "en": "A world of dazzling white, as after a snowfall.",
+      "zh": "像用白粉和白玉装饰堆砌而成，形容雪景洁白美丽。"
+    },
+    "equivalents": [
+      "a dazzling white world",
+      "a snowy wonderland"
+    ],
+    "examples": [
+      {
+        "zh": "一场大雪后，校园变得粉妆玉砌。",
+        "en": "After a heavy snowfall the campus became a white wonderland."
+      },
+      {
+        "zh": "窗外粉妆玉砌，像一个童话世界。",
+        "en": "Outside the window all was white like a fairy-tale world."
+      },
+      {
+        "zh": "雪后的山村粉妆玉砌，美极了。",
+        "en": "The mountain village after the snow was lovely in its pure white."
+      }
+    ],
+    "usage": {
+      "en": "Describes a snowy scene, common in school compositions about winter. Also describes beautiful fair-skinned children. Literary.",
+      "zh": "常用于描写雪景，学生作文常见；也可形容肤色白皙的孩子。"
+    },
+    "synonyms": [
+      "银装素裹",
+      "玉树琼枝"
+    ],
+    "antonyms": [
+      "黑白颠倒",
+      "漆黑一片"
+    ]
+  },
+  {
+    "id": "zhu-chun-hao-chi",
+    "text": "朱唇皓齿",
+    "pinyin": "zhū chún hào chǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "vermilion · lips · bright · teeth",
+    "natural": "red lips and white teeth",
+    "meaning": {
+      "en": "A beautiful woman's face: red lips and gleaming teeth.",
+      "zh": "红红的嘴唇，洁白的牙齿，形容女子容貌美丽。"
+    },
+    "equivalents": [
+      "red lips and pearly teeth",
+      "a beauty's smile"
+    ],
+    "examples": [
+      {
+        "zh": "画中女子朱唇皓齿，笑容动人。",
+        "en": "The woman in the painting has red lips and bright teeth and a charming smile."
+      },
+      {
+        "zh": "小说里描写的美人朱唇皓齿，明眸善睐。",
+        "en": "The beauty in the novel has red lips and white teeth and bright eyes."
+      },
+      {
+        "zh": "她朱唇皓齿，一笑倾城。",
+        "en": "With her red lips and white teeth, one smile is captivating."
+      }
+    ],
+    "usage": {
+      "en": "Literary praise of women's looks. Often paired with 明眸皓齿 (bright eyes and white teeth), which is more common in modern writing.",
+      "zh": "书面语，赞美女子容貌；与更常用的“明眸皓齿”相近。"
+    },
+    "synonyms": [
+      "明眸皓齿",
+      "唇红齿白"
+    ],
+    "antonyms": [
+      "獐头鼠目",
+      "面目可憎"
+    ]
+  },
+  {
+    "id": "hong-zhuang-su-guo",
+    "text": "红装素裹",
+    "pinyin": "hóng zhuāng sù guǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "appearance",
+      "poems-prose"
+    ],
+    "literal": "red · dress · white · wrapped",
+    "natural": "dressed in red, wrapped in white",
+    "meaning": {
+      "en": "Red and white together; a snowy landscape lit up by red sunshine.",
+      "zh": "红色的装束，白色的外裹，形容雪后晴天，红日映照白雪的壮丽景象。"
+    },
+    "equivalents": [
+      "red sun on white snow",
+      "a landscape in red and white"
+    ],
+    "examples": [
+      {
+        "zh": "雪后初晴，大地红装素裹，分外妖娆。",
+        "en": "After the snow, the land was in red and white, enchanting."
+      },
+      {
+        "zh": "冬日的山川红装素裹，美如画卷。",
+        "en": "The mountains and rivers in winter, red and white, look like a scroll painting."
+      },
+      {
+        "zh": "朝阳映在雪地上，红装素裹。",
+        "en": "The morning sun fell on the snow in red and white."
+      }
+    ],
+    "origin": {
+      "source": "毛泽东《沁园春·雪》",
+      "story": {
+        "en": "Mao Zedong's poem: 'when the sky clears, the sun shines red on the white snow, enchanting' (须晴日，看红装素裹，分外妖娆).",
+        "zh": "毛泽东《沁园春·雪》：“须晴日，看红装素裹，分外妖娆。”"
+      }
+    },
+    "usage": {
+      "en": "From Mao Zedong's poem 'Snow'. Often confused with 银装素裹 (silver-clad, white all over): 红装素裹 mentions red sun against the white. Literary.",
+      "zh": "出自毛泽东《沁园春·雪》。与“银装素裹”不同：“红装”指红日映照。"
+    },
+    "synonyms": [
+      "白雪红日",
+      "粉妆玉砌"
+    ],
+    "antonyms": [
+      "万木凋零",
+      "黑白灰暗"
+    ]
+  },
+  {
+    "id": "huang-zhong-hui-qi",
+    "text": "黄钟毁弃",
+    "pinyin": "huáng zhōng huǐ qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "mistakes-and-correction",
+      "corruption-and-injustice"
+    ],
+    "literal": "yellow · bell · destroyed · discarded",
+    "natural": "the great bell is smashed and cast aside",
+    "meaning": {
+      "en": "Worthy people are cast aside while mediocre ones are in power.",
+      "zh": "黄钟（古代大钟）被毁弃不用，比喻贤才被埋没。"
+    },
+    "equivalents": [
+      "talent wasted",
+      "the worthy cast aside"
+    ],
+    "examples": [
+      {
+        "zh": "单位里黄钟毁弃，瓦釜雷鸣，有才华的人都离开了。",
+        "en": "In the unit the worthy are passed over and mediocrities are loud; the talented have all left."
+      },
+      {
+        "zh": "在乱世，往往是黄钟毁弃，小人当道。",
+        "en": "In troubled times the capable are discarded and petty people rule."
+      },
+      {
+        "zh": "他感叹自己黄钟毁弃，怀才不遇。",
+        "en": "He lamented that his talents were discarded and unrecognised."
+      }
+    ],
+    "origin": {
+      "source": "《楚辞·卜居》",
+      "story": {
+        "en": "Qu Yuan's Divination complains: 'the yellow bell is smashed and discarded, the clay pot sounds like thunder' (黄钟毁弃，瓦釜雷鸣).",
+        "zh": "《楚辞·卜居》：“黄钟毁弃，瓦釜雷鸣；谗人高张，贤士无名。”"
+      }
+    },
+    "usage": {
+      "en": "Almost always paired with 瓦釜雷鸣 (a clay pot booms like thunder). Literary; criticises misjudgement of talent.",
+      "zh": "常与“瓦釜雷鸣”连用，慨叹贤才被弃、庸人得志。"
+    },
+    "synonyms": [
+      "怀才不遇",
+      "明珠暗投"
+    ],
+    "antonyms": [
+      "任人唯贤",
+      "知人善任"
+    ]
+  }
+]

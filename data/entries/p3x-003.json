@@ -3,12 +3,12 @@
     "id": "ren-wu-yuan-lu-bi-you-jin-you",
     "text": "人无远虑，必有近忧",
     "pinyin": "rén wú yuǎn lǜ, bì yǒu jìn yōu",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "人无远虑",
       "必有近忧"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -65,13 +65,13 @@
     "id": "you-xin-zai-hua-hua-bu",
     "text": "有心栽花花不开，无心插柳柳成荫",
     "pinyin": "yǒu xīn zāi huā huā bù kāi, wú xīn chā liǔ liǔ chéng yīn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "有心栽花花不开无心插柳柳成荫",
       "无心插柳柳成荫",
       "无心插柳"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -121,11 +121,11 @@
     "id": "hao-bu-li-ji-zhuan-men-li-ren",
     "text": "毫不利己，专门利人",
     "pinyin": "háo bù lì jǐ, zhuān mén lì rén",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "毫不利己"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -182,11 +182,11 @@
     "id": "ren-zhe-yao-shan-zhi-zhe-yao-shui",
     "text": "仁者乐山，智者乐水",
     "pinyin": "rén zhě yào shān, zhì zhě yào shuǐ",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "仁者乐山"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -241,13 +241,13 @@
     "id": "san-ren-xing-bi-you-wo-shi",
     "text": "三人行，必有我师",
     "pinyin": "sān rén xíng, bì yǒu wǒ shī",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "三人行必有我师",
       "择其善者而从之",
       "三人行，必有我师焉"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -304,12 +304,12 @@
     "id": "heng-mei-leng-dui-qian-fu",
     "text": "横眉冷对千夫指，俯首甘为孺子牛",
     "pinyin": "héng méi lěng duì qiān fū zhǐ, fǔ shǒu gān wéi rú zǐ niú",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "横眉冷对",
       "俯首甘为孺子牛"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -364,11 +364,11 @@
     "id": "ren-er-wu-xin-bu-zhi-qi-ke-ye",
     "text": "人而无信，不知其可也",
     "pinyin": "rén ér wú xìn, bù zhī qí kě yě",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "人而无信"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -425,11 +425,11 @@
     "id": "liu-de-qing-shan-zai-bu-pa-mei-chai-shao",
     "text": "留得青山在，不怕没柴烧",
     "pinyin": "liú dé qīng shān zài, bù pà méi chái shāo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "留得青山在"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -479,11 +479,11 @@
     "id": "hao-shi-bu-chu-men-huai",
     "text": "好事不出门，坏事传千里",
     "pinyin": "hǎo shì bù chū mén, huài shì chuán qiān lǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "好事不出门"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -532,11 +532,11 @@
     "id": "ren-bu-fan-wo-wo-bu-fan-ren",
     "text": "人不犯我，我不犯人",
     "pinyin": "rén bù fàn wǒ, wǒ bù fàn rén",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "人不犯我"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -586,11 +586,11 @@
     "id": "bing-lai-ru-shan-dao-bing-qu-ru-chou-si",
     "text": "病来如山倒，病去如抽丝",
     "pinyin": "bìng lái rú shān dǎo, bìng qù rú chōu sī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "病来如山倒"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -638,6 +638,9 @@
     "id": "cheng-you-qin-jian-bai-you-she",
     "text": "成由勤俭败由奢",
     "pinyin": "chéng yóu qín jiǎn bài yóu shē",
+    "variants": [
+      "成由勤俭破由奢"
+    ],
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -697,12 +700,12 @@
     "id": "bu-qiu-you-gong-dan-qiu-wu-guo",
     "text": "不求有功，但求无过",
     "pinyin": "bù qiú yǒu gōng, dàn qiú wú guò",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "不求有功",
       "但求无过"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -753,13 +756,13 @@
     "id": "wan-shi-ju-bei-zhi-qian-dong-feng",
     "text": "万事俱备，只欠东风",
     "pinyin": "wàn shì jù bèi, zhǐ qiàn dōng fēng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "万事俱备",
       "只欠东风",
       "万事俱备只欠东风"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -816,12 +819,12 @@
     "id": "xiang-zhuang-wu-jian-yi-zai-pei-gong",
     "text": "项庄舞剑，意在沛公",
     "pinyin": "xiàng zhuāng wǔ jiàn, yì zài pèi gōng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "意在沛公",
       "项庄舞剑"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1044,11 +1047,11 @@
     "id": "lei-sheng-da-yu-dian-xiao",
     "text": "雷声大，雨点小",
     "pinyin": "léi shēng dà, yǔ diǎn xiǎo",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "雷声大雨点小"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -1098,11 +1101,11 @@
     "id": "yi-bu-zuo-er-bu-xiu",
     "text": "一不做，二不休",
     "pinyin": "yī bù zuò, èr bù xiū",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一不做二不休"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1152,11 +1155,11 @@
     "id": "shuo-shi-chi-na-shi-kuai",
     "text": "说时迟，那时快",
     "pinyin": "shuō shí chí, nà shí kuài",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "说时迟那时快"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1205,11 +1208,11 @@
     "id": "tian-bu-pa-di-bu-pa",
     "text": "天不怕，地不怕",
     "pinyin": "tiān bù pà, dì bù pà",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "天不怕地不怕"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -1259,12 +1262,12 @@
     "id": "da-shi-hua-xiao-xiao-shi-hua-liao",
     "text": "大事化小，小事化了",
     "pinyin": "dà shì huà xiǎo, xiǎo shì huà liǎo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "大事化小小事化了",
       "大事化小"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

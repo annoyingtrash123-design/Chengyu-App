@@ -353,11 +353,11 @@
     "id": "tian-xia-wu-nan-shi-zhi-pa-you-xin-ren",
     "text": "天下无难事，只怕有心人",
     "pinyin": "tiān xià wú nán shì, zhǐ pà yǒu xīn rén",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "世上无难事，只怕有心人"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -399,11 +399,11 @@
     "id": "qiang-zhong-zi-you-qiang-zhong-shou",
     "text": "强中自有强中手",
     "pinyin": "qiáng zhōng zì yǒu qiáng zhōng shǒu",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "强中更有强中手"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -573,11 +573,11 @@
     "id": "hua-bu-tou-ji-ban-ju-duo",
     "text": "话不投机半句多",
     "pinyin": "huà bù tóu jī bàn jù duō",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "酒逢知己千杯少，话不投机半句多"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -807,11 +807,11 @@
     "id": "ba-zi-hai-mei-yi-pie",
     "text": "八字还没一撇",
     "pinyin": "bā zì hái méi yì piě",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "八字还没一撇儿"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -855,6 +855,9 @@
     "id": "jiu-han-feng-gan-yu",
     "text": "久旱逢甘雨",
     "pinyin": "jiǔ hàn féng gān yǔ",
+    "variants": [
+      "久旱逢甘霖"
+    ],
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -943,11 +946,11 @@
     "id": "da-shui-chong-le-long-wang",
     "text": "大水冲了龙王庙，一家人不认一家人",
     "pinyin": "dà shuǐ chōng le lóng wáng miào, yì jiā rén bú rèn yì jiā rén",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "大水冲了龙王庙"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
