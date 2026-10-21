@@ -1,0 +1,516 @@
+[
+  {
+    "id": "yang-you-gui-ru-zhi-en",
+    "text": "羊有跪乳之恩，鸦有反哺之义",
+    "pinyin": "yáng yǒu guì rǔ zhī ēn, yā yǒu fǎn bǔ zhī yì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "animal-behavior-metaphors",
+      "essay-favourites"
+    ],
+    "literal": "lamb · has · kneel · suckle · 's · kindness, crow · has · return · feed · 's · duty",
+    "natural": "lambs kneel to suckle, young crows feed their parents in return",
+    "meaning": {
+      "en": "Even animals show gratitude to their parents, so human beings ought to repay theirs.",
+      "zh": "连动物都懂得报答父母的养育之恩，人更应当孝顺父母。"
+    },
+    "equivalents": [
+      "even animals repay their parents",
+      "gratitude is natural, even in beasts"
+    ],
+    "examples": [
+      {
+        "zh": "羊有跪乳之恩，鸦有反哺之义，我们怎能不孝敬父母？",
+        "en": "Lambs kneel to suckle and crows feed their parents in return: how can we not honour ours?"
+      },
+      {
+        "zh": "奶奶常说羊有跪乳之恩，鸦有反哺之义，要我们记得报答父母。",
+        "en": "Grandma often says that even lambs and crows know gratitude, and wants us to remember to repay our parents."
+      }
+    ],
+    "usage": {
+      "en": "Based on old folk beliefs: lambs kneel when they suckle, and young crows are said to feed their aged parents (see 乌鸦反哺). It is a moral appeal, not natural history; literary, often seen in essays and family teaching.",
+      "zh": "源于民间旧说：羊羔吃奶时跪着，小乌鸦长大后会衔食喂养老鸦（参见“乌鸦反哺”）。属道德劝导而非生物学事实，书面语，常见于作文和家教。"
+    },
+    "synonyms": [
+      "乌鸦反哺",
+      "反哺之情"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "忤逆不孝"
+    ]
+  },
+  {
+    "id": "zhi-bao-bu-zhu-huo",
+    "text": "纸包不住火",
+    "pinyin": "zhǐ bāo bù zhù huǒ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "natural-consequences"
+    ],
+    "literal": "paper · wrap · cannot · hold · fire",
+    "natural": "paper cannot wrap up fire",
+    "meaning": {
+      "en": "The truth cannot be kept hidden for ever; a secret will always come out.",
+      "zh": "真相是掩盖不住的，事情迟早会暴露。"
+    },
+    "equivalents": [
+      "the truth will out",
+      "you can't keep a secret forever"
+    ],
+    "examples": [
+      {
+        "zh": "纸包不住火，他挪用公款的事终于被查出来了。",
+        "en": "The truth will out: his misuse of public funds was finally uncovered."
+      },
+      {
+        "zh": "别以为瞒得住，纸包不住火。",
+        "en": "Don't think you can hide it: paper can't hold fire."
+      }
+    ],
+    "usage": {
+      "en": "Typically a warning to someone trying to cover something up, or a comment after exposure; casual to neutral.",
+      "zh": "多用来警告想掩盖事实的人，或在事情败露后感叹。口语至中性。"
+    },
+    "synonyms": [
+      "欲盖弥彰",
+      "纸里包不住火"
+    ],
+    "antonyms": [
+      "天衣无缝",
+      "守口如瓶"
+    ]
+  },
+  {
+    "id": "ju-tou-san-chi-you-shen-ming",
+    "text": "举头三尺有神明",
+    "pinyin": "jǔ tóu sān chǐ yǒu shén míng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "conduct",
+      "natural-consequences"
+    ],
+    "literal": "raise · head · three · chi · have · gods · bright",
+    "natural": "three feet above your head there are watching gods",
+    "meaning": {
+      "en": "Heaven sees everything, so one should not do wrong even in secret.",
+      "zh": "上天什么都看得见，所以即使暗中也不可做坏事。"
+    },
+    "equivalents": [
+      "heaven is watching",
+      "God sees everything"
+    ],
+    "examples": [
+      {
+        "zh": "举头三尺有神明，做人要对得起良心。",
+        "en": "Heaven is watching from three feet above; one must live with a clear conscience."
+      },
+      {
+        "zh": "他想拿那笔不义之财，可又想到举头三尺有神明，终于打消了念头。",
+        "en": "He was tempted by the ill-gotten money but remembered that heaven sees all, and gave up the idea."
+      }
+    ],
+    "usage": {
+      "en": "Reflects the popular belief in watching deities; often paired with 人在做，天在看 and used to warn against wrongdoing, sometimes to mean simple conscience.",
+      "zh": "反映民间对神明监察人间的信仰，常与“人在做，天在看”并说，用来警示不要作恶，也可指良心。"
+    },
+    "synonyms": [
+      "人在做，天在看",
+      "天网恢恢"
+    ],
+    "antonyms": [
+      "无法无天",
+      "胆大妄为"
+    ]
+  },
+  {
+    "id": "hua-hu-hua-pi-nan-hua-gu",
+    "text": "画虎画皮难画骨",
+    "pinyin": "huà hǔ huà pí nán huà gǔ",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "画龙画虎难画骨，知人知面不知心"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "confusion-and-doubt"
+    ],
+    "literal": "draw · tiger · draw · skin · hard · draw · bone",
+    "natural": "drawing a tiger, you paint the skin but can hardly paint the bones",
+    "meaning": {
+      "en": "It is easy to capture a person's appearance but hard to know their real character.",
+      "zh": "画老虎容易画出外表，难画出骨骼；比喻看人容易看到表面，难知其内心。"
+    },
+    "equivalents": [
+      "you can't judge a book by its cover",
+      "still waters run deep"
+    ],
+    "examples": [
+      {
+        "zh": "画虎画皮难画骨，认识他三年了，我还是看不透他。",
+        "en": "You can paint a tiger's skin but not its bones: I've known him three years and still can't read him."
+      },
+      {
+        "zh": "画虎画皮难画骨，交朋友不能只看外表。",
+        "en": "In making friends you can't go by appearances alone."
+      }
+    ],
+    "usage": {
+      "en": "Usually said with the second line, 知人知面不知心. The point is that outward appearance does not tell you what is inside a person.",
+      "zh": "常与下句“知人知面不知心”连用，强调外表不能反映内心。"
+    },
+    "synonyms": [
+      "知人知面不知心",
+      "人心隔肚皮"
+    ],
+    "antonyms": [
+      "表里如一",
+      "一目了然"
+    ]
+  },
+  {
+    "id": "huang-jin-you-jia-qing-wu-jia",
+    "text": "黄金有价，情无价",
+    "pinyin": "huáng jīn yǒu jià, qíng wú jià",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "love-and-marriage",
+      "contentment-and-simplicity"
+    ],
+    "literal": "gold · has · price, feelings · no · price",
+    "natural": "gold has a price but affection is priceless",
+    "meaning": {
+      "en": "Gold can be bought and sold, but love, friendship and loyalty cannot be measured in money.",
+      "zh": "金子可以论价，感情却无法用钱衡量。"
+    },
+    "equivalents": [
+      "love is priceless",
+      "you can't put a price on affection"
+    ],
+    "examples": [
+      {
+        "zh": "黄金有价，情无价，这份友谊比什么都珍贵。",
+        "en": "Gold has a price but friendship does not; this bond is worth more than anything."
+      },
+      {
+        "zh": "他把祖传的信物看作黄金有价，情无价的纪念。",
+        "en": "He treats the family keepsake as priceless, a token whose sentimental value outweighs any gold."
+      }
+    ],
+    "usage": {
+      "en": "A modern remake of the older saying 黄金有价玉无价; popular on cards and in advertising and song lyrics. Casual to neutral.",
+      "zh": "由旧话“黄金有价玉无价”改编而来，常见于卡片、广告和歌词。口语至中性。"
+    },
+    "synonyms": [
+      "情比金坚",
+      "千金难买"
+    ],
+    "antonyms": [
+      "见利忘义",
+      "唯利是图"
+    ]
+  },
+  {
+    "id": "ren-sheng-zai-qin-qin-ze-bu-kui",
+    "text": "人生在勤，勤则不匮",
+    "pinyin": "rén shēng zài qín, qín zé bù kuì",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "民生在勤，勤则不匮"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "poems-prose",
+      "essay-favourites",
+      "historical-records"
+    ],
+    "literal": "life · lies in · diligence, diligence · then · not · lack",
+    "natural": "a livelihood depends on diligence, and diligence never goes short",
+    "meaning": {
+      "en": "A person's life depends on hard work; whoever is diligent will never run short.",
+      "zh": "生计在于勤劳，勤劳就不会匮乏。"
+    },
+    "equivalents": [
+      "diligence is never in want",
+      "industry brings plenty"
+    ],
+    "examples": [
+      {
+        "zh": "“人生在勤，勤则不匮”，这是奶奶留给我们家的家训。",
+        "en": "'人生在勤，勤则不匮': this is the family motto grandmother left us."
+      },
+      {
+        "zh": "他把“人生在勤，勤则不匮”写在书房墙上，天天提醒自己。",
+        "en": "He wrote '人生在勤，勤则不匮' on his study wall as a daily reminder."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十二年》",
+      "story": {
+        "en": "In the Zuo Commentary, the general Sui Wuzi says that the people's livelihood depends on diligence, and diligence means no shortage: '民生在勤，勤则不匮'. The modern form replaces 民 with 人.",
+        "zh": "《左传·宣公十二年》随武子说：“民生在勤，勤则不匮。”今天常说成“人生在勤”。"
+      }
+    },
+    "usage": {
+      "en": "The original reads 民生在勤 (the people's livelihood), but 人生在勤 is now the usual wording; both can be quoted. Typical of family mottoes and school essays.",
+      "zh": "原文为“民生在勤”，今多说成“人生在勤”，两种都可引用。常见于家训和学生作文。"
+    },
+    "synonyms": [
+      "业精于勤",
+      "勤能补拙"
+    ],
+    "antonyms": [
+      "好逸恶劳",
+      "不劳而获"
+    ]
+  },
+  {
+    "id": "gong-fu-bu-fu-you-xin-ren",
+    "text": "功夫不负有心人",
+    "pinyin": "gōng fū bù fù yǒu xīn rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effort",
+      "academic-achievement"
+    ],
+    "literal": "effort · not · let down · determined · person",
+    "natural": "effort does not fail the determined",
+    "meaning": {
+      "en": "Those who work at it with determination will be rewarded in the end.",
+      "zh": "只要肯下功夫、有决心，终究会有收获。"
+    },
+    "equivalents": [
+      "hard work pays off",
+      "where there's a will there's a way"
+    ],
+    "examples": [
+      {
+        "zh": "功夫不负有心人，他练了三年，终于拿到了冠军。",
+        "en": "Hard work pays off: after three years of training he finally won the title."
+      },
+      {
+        "zh": "功夫不负有心人，我们的实验终于成功了。",
+        "en": "Perseverance has paid off: our experiment finally succeeded."
+      }
+    ],
+    "usage": {
+      "en": "Said as encouragement or on success after long effort; 功夫 here means 'time and effort', not kung fu. Neutral, common in school and sport.",
+      "zh": "用于鼓励或长期努力后获得成功时。“功夫”指时间和精力，不是武术。中性，学校和体育中常用。"
+    },
+    "synonyms": [
+      "皇天不负苦心人",
+      "有志者事竟成"
+    ],
+    "antonyms": [
+      "半途而废",
+      "一曝十寒"
+    ]
+  },
+  {
+    "id": "bu-jing-yi-shi-bu-zhang-yi-zhi",
+    "text": "不经一事，不长一智",
+    "pinyin": "bù jīng yī shì, bù zhǎng yī zhì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "not · go through · one · matter, not · grow · one · wisdom",
+    "natural": "without going through a thing, you gain no wisdom",
+    "meaning": {
+      "en": "You only learn from experience; each hardship adds to your understanding.",
+      "zh": "没有亲身经历，就不会增长见识；每次磨难都会使人更聪明。"
+    },
+    "equivalents": [
+      "experience is the best teacher",
+      "you learn by doing"
+    ],
+    "examples": [
+      {
+        "zh": "不经一事，不长一智，这次失败让他成熟了很多。",
+        "en": "You learn nothing without experience, and this failure made him much more mature."
+      },
+      {
+        "zh": "妈妈说不经一事，不长一智，决定让我自己去试试。",
+        "en": "Mum said that experience is the best teacher and decided to let me try it myself."
+      }
+    ],
+    "usage": {
+      "en": "Often used after a setback, with the sense of consolation; the usual continuation is 吃一堑，长一智. 长 here reads zhǎng, 'to grow'.",
+      "zh": "常在受挫后用作安慰，常与“吃一堑，长一智”连说。“长”读 zhǎng，意为增长。"
+    },
+    "synonyms": [
+      "吃一堑，长一智",
+      "前车之鉴"
+    ],
+    "antonyms": [
+      "一成不变",
+      "重蹈覆辙"
+    ]
+  },
+  {
+    "id": "shi-jian-shi-jian-yan-zhen",
+    "text": "实践是检验真理的唯一标准",
+    "pinyin": "shí jiàn shì jiǎn yàn zhēn lǐ de wéi yī biāo zhǔn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "practice · is · test · truth · 's · only · standard",
+    "natural": "practice is the sole criterion for testing truth",
+    "meaning": {
+      "en": "Only practical experience, not authority or theory, can prove whether an idea is true.",
+      "zh": "一种理论是否正确，只能靠实践来检验，不能靠权威或空谈。"
+    },
+    "equivalents": [
+      "the proof of the pudding is in the eating",
+      "test it in practice"
+    ],
+    "examples": [
+      {
+        "zh": "实践是检验真理的唯一标准，方案好不好，试一试就知道。",
+        "en": "Practice is the sole criterion of truth: the way to tell whether the plan is good is to try it."
+      },
+      {
+        "zh": "科学研究强调实践是检验真理的唯一标准。",
+        "en": "Scientific research stresses that practice is the sole test of truth."
+      }
+    ],
+    "usage": {
+      "en": "A political and philosophical slogan from the 1978 debate in China on the criterion of truth, begun by a Guangming Daily article of that title. Formal; common in official language and textbooks.",
+      "zh": "出自1978年中国关于真理标准问题的大讨论，起因是《光明日报》发表同题文章。书面语，常见于官方表述和教材。"
+    },
+    "synonyms": [
+      "实事求是",
+      "知行合一"
+    ],
+    "antonyms": [
+      "纸上谈兵",
+      "空谈误国"
+    ]
+  },
+  {
+    "id": "shuo-de-hao-bu-ru-zuo-de-hao",
+    "text": "说得好不如做得好",
+    "pinyin": "shuō de hǎo bù rú zuò de hǎo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "conduct"
+    ],
+    "literal": "say · well · not · as good as · do · well",
+    "natural": "saying it well is not as good as doing it well",
+    "meaning": {
+      "en": "Actions count for more than fine words.",
+      "zh": "漂亮的话不如实际行动。"
+    },
+    "equivalents": [
+      "actions speak louder than words",
+      "talk is cheap"
+    ],
+    "examples": [
+      {
+        "zh": "说得好不如做得好，别光喊口号，拿出行动来。",
+        "en": "Actions speak louder than words: stop shouting slogans and act."
+      },
+      {
+        "zh": "老师总强调说得好不如做得好。",
+        "en": "The teacher always stresses that doing well beats talking well."
+      }
+    ],
+    "usage": {
+      "en": "Used to urge people to turn promises into action; a gentle reproach to someone who only talks.",
+      "zh": "用来催促人把承诺变成行动，对只说不做的人含轻微责备。"
+    },
+    "synonyms": [
+      "身体力行",
+      "言必信，行必果"
+    ],
+    "antonyms": [
+      "说得比唱得好听",
+      "光说不练"
+    ]
+  },
+  {
+    "id": "shuo-de-bi-chang-de-hao-ting",
+    "text": "说的比唱的好听",
+    "pinyin": "shuō de bǐ chàng de hǎo tīng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "说得比唱得好听"
+    ],
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "deception-and-false-appearances",
+      "verbosity"
+    ],
+    "literal": "say · (particle) · than · sing · (particle) · good · to listen",
+    "natural": "what he says sounds better than singing",
+    "meaning": {
+      "en": "All talk and no action: the words sound fine but the deeds do not match.",
+      "zh": "话说得非常漂亮动听，但做起来不是那么回事。"
+    },
+    "equivalents": [
+      "all talk, no action",
+      "fine words butter no parsnips"
+    ],
+    "examples": [
+      {
+        "zh": "他承诺得很多，可说的比唱的好听，一件也没兑现。",
+        "en": "He promised a lot, but it's all talk: not one promise was kept."
+      },
+      {
+        "zh": "别信他，说的比唱的好听。",
+        "en": "Don't trust him: he's all fine words."
+      }
+    ],
+    "usage": {
+      "en": "Said sarcastically of someone whose promises do not come true; casual, often sarcastic.",
+      "zh": "讽刺说得好听却不兑现的人，口语，多含讽刺。"
+    },
+    "synonyms": [
+      "口惠而实不至",
+      "光说不练"
+    ],
+    "antonyms": [
+      "言出必行",
+      "说到做到"
+    ]
+  }
+]

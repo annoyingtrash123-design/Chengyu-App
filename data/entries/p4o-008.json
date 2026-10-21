@@ -1,0 +1,850 @@
+[
+  {
+    "id": "chun-yu-gui-ru-you",
+    "text": "春雨贵如油",
+    "pinyin": "chūn yǔ guì rú yóu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "weather-and-sky"
+    ],
+    "literal": "spring · rain · precious · like · oil",
+    "natural": "spring rain is as precious as oil",
+    "meaning": {
+      "en": "Spring rain is extremely valuable because crops need water just when the fields are sown and the seedlings are growing.",
+      "zh": "春天正是播种和幼苗生长需要水分的时候，春雨对庄稼十分珍贵。"
+    },
+    "equivalents": [
+      "April showers bring May flowers",
+      "rain in spring is liquid gold"
+    ],
+    "examples": [
+      {
+        "zh": "春雨贵如油，这场雨来得正是时候。",
+        "en": "Spring rain is worth its weight in oil, and this shower came at just the right moment."
+      },
+      {
+        "zh": "农民说春雨贵如油，纷纷下地播种。",
+        "en": "Farmers say spring rain is as precious as oil and went into the fields to sow."
+      }
+    ],
+    "usage": {
+      "en": "A farming saying from the north, where spring is often dry. Also used for any help that arrives just when it is most needed. The phrase 春雨如油 is a common shorter form.",
+      "zh": "北方农谚，北方春季常干旱。也比喻及时雨般的帮助。常说成“春雨如油”。"
+    },
+    "synonyms": [
+      "久旱逢甘霖",
+      "雪中送炭"
+    ],
+    "antonyms": [
+      "雨后送伞"
+    ]
+  },
+  {
+    "id": "qing-ming-duan-xue-gu-yu-duan-shuang",
+    "text": "清明断雪，谷雨断霜",
+    "pinyin": "qīng míng duàn xuě, gǔ yǔ duàn shuāng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "rural-wisdom"
+    ],
+    "literal": "Qingming · end · snow, Guyu · end · frost",
+    "natural": "snow ends by Qingming, frost ends by Guyu",
+    "meaning": {
+      "en": "By the Qingming solar term (about 5 April) snow is over, and by Guyu (about 20 April) the last frost has gone, so it is safe to plant tender crops.",
+      "zh": "清明（约4月5日）前后不再下雪，谷雨（约4月20日）前后不再有霜，可以放心种植怕冻的作物。"
+    },
+    "equivalents": [
+      "the last frost is gone by late April",
+      "safe to sow after the last frost"
+    ],
+    "examples": [
+      {
+        "zh": "清明断雪，谷雨断霜，老农开始准备下种了。",
+        "en": "Snow ends at Qingming and frost at Guyu, so the old farmer started preparing to sow."
+      },
+      {
+        "zh": "爷爷说清明断雪，谷雨断霜，今年的春耕可以放心了。",
+        "en": "Grandpa said snow is gone after Qingming and frost after Guyu, so this year's ploughing was safe to proceed."
+      }
+    ],
+    "usage": {
+      "en": "A northern Chinese farming saying that ties two spring solar terms to the end of cold weather. It is a rule of thumb that varies by region and year.",
+      "zh": "北方农谚，把两个春季节气与寒冷结束联系起来。属经验之谈，各地各年有差异。"
+    },
+    "synonyms": [
+      "清明前后，种瓜点豆"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "chun-zheng-ri-xia-zheng-shi",
+    "text": "春争日，夏争时",
+    "pinyin": "chūn zhēng rì, xià zhēng shí",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "time-management"
+    ],
+    "literal": "spring · compete for · day, summer · compete for · hour",
+    "natural": "spring races by the day, summer by the hour",
+    "meaning": {
+      "en": "Farm work in spring and summer is tied to narrow windows: sowing must be done within days in spring, and harvesting within hours in the summer rush.",
+      "zh": "春季播种要抢日子，夏季收割要抢时辰，农事耽误不得。"
+    },
+    "equivalents": [
+      "make hay while the sun shines",
+      "time and tide wait for no man"
+    ],
+    "examples": [
+      {
+        "zh": "春争日，夏争时，大家别拖，抓紧抢收。",
+        "en": "Spring races by the day and summer by the hour, so no dawdling: let's get the harvest in quickly."
+      },
+      {
+        "zh": "春争日，夏争时，错过农时就要减产。",
+        "en": "Spring and summer farm work can't wait: miss the season and the yield falls."
+      }
+    ],
+    "usage": {
+      "en": "Often extended to 一年农事不宜迟; used figuratively for any task with a tight deadline.",
+      "zh": "常接“一年农事不宜迟”；也比喻有紧迫时限的任何工作。"
+    },
+    "synonyms": [
+      "不违农时",
+      "分秒必争"
+    ],
+    "antonyms": [
+      "拖拖拉拉",
+      "错失良机"
+    ]
+  },
+  {
+    "id": "chun-zhong-yi-li-su-qiu-shou-wan-ke-zi",
+    "text": "春种一粒粟，秋收万颗子",
+    "pinyin": "chūn zhòng yī lì sù, qiū shōu wàn kē zǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "poems-prose",
+      "farming-and-harvest",
+      "essay-favourites"
+    ],
+    "literal": "spring · plant · one · grain · millet, autumn · harvest · ten thousand · grains · seeds",
+    "natural": "plant one grain of millet in spring and harvest ten thousand in autumn",
+    "meaning": {
+      "en": "A small investment of effort in spring can yield an enormous harvest in autumn.",
+      "zh": "春天播下一粒种子，秋天可以收获成千上万颗粮食。"
+    },
+    "equivalents": [
+      "you reap what you sow",
+      "small seeds, great harvests"
+    ],
+    "examples": [
+      {
+        "zh": "“春种一粒粟，秋收万颗子”，我们要珍惜每一粒粮食。",
+        "en": "'春种一粒粟，秋收万颗子': we should cherish every grain of food."
+      },
+      {
+        "zh": "老师以“春种一粒粟，秋收万颗子”来教育学生，努力总有回报。",
+        "en": "The teacher used '春种一粒粟，秋收万颗子' to teach the pupils that effort always pays off."
+      }
+    ],
+    "origin": {
+      "source": "李绅《悯农二首》",
+      "story": {
+        "en": "The Tang poet Li Shen wrote in his poem 'Sympathy for the Peasants': 'Plant one grain in spring, harvest ten thousand seeds in autumn. Not a field in the four seas lies idle, yet the farmers still starve.' The poem is part of every Chinese child's early education.",
+        "zh": "唐代诗人李绅《悯农二首》：“春种一粒粟，秋收万颗子。四海无闲田，农夫犹饿死。”该诗是中国儿童的启蒙诗篇。"
+      }
+    },
+    "usage": {
+      "en": "First line of a well-known children's poem; used in lessons on thrift and on the link between effort and reward. The poem's real point is the farmers' hardship.",
+      "zh": "著名儿童启蒙诗的首句；常用于讲节约粮食和勤劳有回报。全诗本意是同情农民的艰辛。"
+    },
+    "synonyms": [
+      "一分耕耘，一分收获",
+      "种瓜得瓜"
+    ],
+    "antonyms": [
+      "不劳而获",
+      "坐享其成"
+    ]
+  },
+  {
+    "id": "ren-qin-chun-lai-zao",
+    "text": "人勤春来早",
+    "pinyin": "rén qín chūn lái zǎo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "rural-wisdom",
+      "festive-greetings"
+    ],
+    "literal": "people · diligent · spring · come · early",
+    "natural": "for the diligent, spring comes early",
+    "meaning": {
+      "en": "Hard-working people begin work early, so for them the spring season is felt sooner and the harvest is greater.",
+      "zh": "勤劳的人起步早，他们先感到春天的到来，收获也更多。"
+    },
+    "equivalents": [
+      "the early bird catches the worm",
+      "diligence is rewarded early"
+    ],
+    "examples": [
+      {
+        "zh": "人勤春来早，村民们天不亮就下地了。",
+        "en": "For the diligent spring comes early, and the villagers were in the fields before dawn."
+      },
+      {
+        "zh": "人勤春来早，他提前开始备考，成绩果然领先。",
+        "en": "The diligent see spring early: he started revision ahead of time and his results were indeed ahead."
+      }
+    ],
+    "usage": {
+      "en": "A farm saying that is also a favourite on posters and New Year couplets; the usual pair is 人勤春来早，春早人更勤.",
+      "zh": "农谚，也常见于春联和标语，常与“春早人更勤”对举。"
+    },
+    "synonyms": [
+      "勤能补拙",
+      "早起三光"
+    ],
+    "antonyms": [
+      "好逸恶劳",
+      "懒惰成性"
+    ]
+  },
+  {
+    "id": "chun-lei-xiang-wan-wu-zhang",
+    "text": "春雷响，万物长",
+    "pinyin": "chūn léi xiǎng, wàn wù zhǎng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "plant-and-natural-world"
+    ],
+    "literal": "spring · thunder · sounds, ten thousand · things · grow",
+    "natural": "when spring thunder rolls, all things grow",
+    "meaning": {
+      "en": "The first spring thunder wakes up insects and brings rain, and plants burst into growth.",
+      "zh": "春天第一声雷响起，惊醒虫类，带来雨水，万物开始生长。"
+    },
+    "equivalents": [
+      "spring thunder wakes the world",
+      "the first thunder brings new life"
+    ],
+    "examples": [
+      {
+        "zh": "春雷响，万物长，果树全都冒出了新芽。",
+        "en": "With spring thunder everything grows, and the fruit trees all put out new buds."
+      },
+      {
+        "zh": "春雷响，万物长，惊蛰一过，田里就热闹起来。",
+        "en": "When spring thunder rolls everything grows, and once Jingzhe is past the fields come to life."
+      }
+    ],
+    "usage": {
+      "en": "Tied to the solar term 惊蛰 (Awakening of Insects, around 5 March), when thunder is traditionally said to wake hibernating creatures.",
+      "zh": "与节气“惊蛰”（约3月5日）相关，传统认为春雷惊醒冬眠的动物。"
+    },
+    "synonyms": [
+      "惊蛰始雷",
+      "万物复苏"
+    ],
+    "antonyms": [
+      "万物凋零"
+    ]
+  },
+  {
+    "id": "chun-fen-qiu-fen-zhou-ye-ping-fen",
+    "text": "春分秋分，昼夜平分",
+    "pinyin": "chūn fēn qiū fēn, zhòu yè píng fēn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "rural-wisdom",
+      "daily-time-periods"
+    ],
+    "literal": "spring equinox · autumn equinox, day · night · equally · divide",
+    "natural": "at the spring and autumn equinoxes day and night are equal",
+    "meaning": {
+      "en": "On the spring and autumn equinoxes (about 20 March and 23 September) daytime and night-time are almost equal in length.",
+      "zh": "春分和秋分（约3月20日和9月23日）白昼和黑夜几乎一样长。"
+    },
+    "equivalents": [
+      "equal day and equal night",
+      "equinoxes balance day and night"
+    ],
+    "examples": [
+      {
+        "zh": "春分秋分，昼夜平分，今天白天和黑夜一样长。",
+        "en": "Day and night are equal at the equinoxes, and today they are of equal length."
+      },
+      {
+        "zh": "老师讲了春分秋分，昼夜平分的道理，同学们用地球仪演示。",
+        "en": "The teacher explained that day and night balance at the equinoxes and the pupils demonstrated it with a globe."
+      }
+    ],
+    "usage": {
+      "en": "The sun is directly above the equator on the equinox. Strictly speaking, day is slightly longer than night, but the saying is a handy rule of thumb. Common in primary-school science lessons.",
+      "zh": "春分秋分时太阳直射赤道。严格说白昼略长于黑夜，但这句话是方便的口诀，常见于小学科学课。"
+    },
+    "synonyms": [
+      "日夜均分"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xiao-shu-da-shu-shang-zheng-xia-zhu",
+    "text": "小暑大暑，上蒸下煮",
+    "pinyin": "xiǎo shǔ dà shǔ, shàng zhēng xià zhǔ",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions",
+      "weather-and-sky"
+    ],
+    "literal": "Minor Heat · Major Heat, above · steam · below · boil",
+    "natural": "Minor Heat and Major Heat: steamed from above, boiled from below",
+    "meaning": {
+      "en": "In the hottest weeks of summer the sun steams you from above and the ground boils you from below.",
+      "zh": "盛夏最热的时候，天上像蒸笼，地下像煮锅。"
+    },
+    "equivalents": [
+      "steamed from above, boiled from below",
+      "the dog days of summer"
+    ],
+    "examples": [
+      {
+        "zh": "小暑大暑，上蒸下煮，大家一定要防暑。",
+        "en": "In the hottest weeks you're steamed from above and boiled from below, so everyone must guard against heatstroke."
+      },
+      {
+        "zh": "小暑大暑，上蒸下煮，空调开了一整天。",
+        "en": "The air conditioner ran all day in the steaming heat of Minor and Major Heat."
+      }
+    ],
+    "usage": {
+      "en": "Refers to the two hottest solar terms in July (小暑 about 7 July, 大暑 about 22 July), when the weather is also humid.",
+      "zh": "指七月最热的两个节气（小暑约7月7日，大暑约7月22日），此时天气闷热潮湿。"
+    },
+    "synonyms": [
+      "热得像蒸笼",
+      "酷暑难当"
+    ],
+    "antonyms": [
+      "寒冬腊月"
+    ]
+  },
+  {
+    "id": "xiao-man-xiao-man-mai-li-jian-man",
+    "text": "小满小满，麦粒渐满",
+    "pinyin": "xiǎo mǎn xiǎo mǎn, mài lì jiàn mǎn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest"
+    ],
+    "literal": "Lesser Fullness · Lesser Fullness, wheat · grain · gradually · full",
+    "natural": "at Lesser Fullness the wheat grains are slowly filling out",
+    "meaning": {
+      "en": "Around 21 May the wheat grains begin to fill but are not yet fully ripe, which is how the solar term 小满 got its name.",
+      "zh": "约5月21日，麦粒开始灌浆饱满，但尚未成熟，这是节气“小满”名称的由来。"
+    },
+    "equivalents": [
+      "the grains are filling out",
+      "almost, but not quite ripe"
+    ],
+    "examples": [
+      {
+        "zh": "小满小满，麦粒渐满，再过半个月就可以收割了。",
+        "en": "At Lesser Fullness the wheat grains are filling out, and in another fortnight it can be harvested."
+      },
+      {
+        "zh": "爷爷站在田埂上说：小满小满，麦粒渐满。",
+        "en": "Grandpa stood at the edge of the field and said that at Lesser Fullness the grains are filling."
+      }
+    ],
+    "usage": {
+      "en": "Explains the name of the solar term 小满: 'little full', unlike 'full' (大满), which Chinese tradition avoids as it implies decline.",
+      "zh": "解释节气“小满”的含义：只是“小满”，而非“大满”，传统上满则招损，宜留余地。"
+    },
+    "synonyms": [
+      "麦粒饱满",
+      "麦收在即"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "mang-zhong-mang-zhong-lian-shou",
+    "text": "芒种芒种，连收带种",
+    "pinyin": "máng zhòng máng zhòng, lián shōu dài zhòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "farming-and-harvest",
+      "time-management"
+    ],
+    "literal": "Grain in Ear · Grain in Ear, reap · together with · sow",
+    "natural": "at Grain in Ear, reaping and sowing go together",
+    "meaning": {
+      "en": "Around 6 June farmers are harvesting winter wheat and sowing rice and late crops at the same time, so it is the busiest season.",
+      "zh": "约6月6日，农民一边收割麦子，一边播种水稻等晚季作物，是最忙的时节。"
+    },
+    "equivalents": [
+      "harvest and plant at once",
+      "the busiest time on the farm"
+    ],
+    "examples": [
+      {
+        "zh": "芒种芒种，连收带种，家家户户都忙得脚不沾地。",
+        "en": "Reaping and sowing go together at Grain in Ear, and every household is rushed off its feet."
+      },
+      {
+        "zh": "芒种芒种，连收带种，学校放了忙假让孩子回家帮忙。",
+        "en": "With reaping and sowing together at Grain in Ear, the school gave a holiday so children could help at home."
+      }
+    ],
+    "usage": {
+      "en": "芒 in 芒种 means the awn (beard) of wheat; 种 can mean 'seed' or 'to sow', hence the wordplay. 种 in the second phrase is read zhòng.",
+      "zh": "“芒种”的“芒”指麦芒，“种”既指种子也指播种，有双关意。后一个“种”读 zhòng。"
+    },
+    "synonyms": [
+      "三夏大忙",
+      "双抢"
+    ],
+    "antonyms": [
+      "农闲时节"
+    ]
+  },
+  {
+    "id": "bai-lu-shen-bu-lu",
+    "text": "白露身不露",
+    "pinyin": "bái lù shēn bù lù",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "白露不露身"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "rural-wisdom",
+      "body"
+    ],
+    "literal": "White Dew · body · not · bare",
+    "natural": "at White Dew, do not bare your body",
+    "meaning": {
+      "en": "After the White Dew solar term (about 8 September) the weather turns cool, so people should cover up and stop going about in summer clothes.",
+      "zh": "白露（约9月8日）以后天气转凉，不宜再赤膊或穿露身的夏装。"
+    },
+    "equivalents": [
+      "time to cover up",
+      "autumn chill is here, so dress warmly"
+    ],
+    "examples": [
+      {
+        "zh": "白露身不露，天气转凉了，快把外套穿上。",
+        "en": "At White Dew you shouldn't bare your body, so put on your jacket now the weather has turned cool."
+      },
+      {
+        "zh": "奶奶提醒孩子白露身不露，别再穿短裤了。",
+        "en": "Grandma reminded the child that you shouldn't go bare at White Dew and told him to stop wearing shorts."
+      }
+    ],
+    "usage": {
+      "en": "A health saying from folk tradition, often followed by 寒露脚不露 (at Cold Dew do not leave the feet bare); the exact version differs by region. Often said by parents and grandparents.",
+      "zh": "民间养生谚语，常接“寒露脚不露”，各地说法有差异，多由长辈叮嘱晚辈。"
+    },
+    "synonyms": [
+      "春捂秋冻"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shuang-jiang-sha-bai-cao",
+    "text": "霜降杀百草",
+    "pinyin": "shuāng jiàng shā bǎi cǎo",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions",
+      "plant-and-natural-world"
+    ],
+    "literal": "Frost Descends · kills · hundred · plants",
+    "natural": "at Frost's Descent, all the plants die",
+    "meaning": {
+      "en": "By the Shuangjiang solar term (about 23 October) the first hard frost arrives and kills off the grasses and tender plants.",
+      "zh": "霜降（约10月23日）时出现第一场严霜，各种草木和怕冻作物凋萎。"
+    },
+    "equivalents": [
+      "frost kills everything green",
+      "the first hard frost ends the growing season"
+    ],
+    "examples": [
+      {
+        "zh": "霜降杀百草，菜园里的辣椒都枯了。",
+        "en": "Frost's Descent kills all the plants, and the peppers in the vegetable garden have withered."
+      },
+      {
+        "zh": "霜降杀百草，农民赶在霜前把庄稼收进仓里。",
+        "en": "Frost kills all the plants at Shuangjiang, so farmers rush to bring in the crops before it arrives."
+      }
+    ],
+    "usage": {
+      "en": "Describes the last solar term of autumn. Occasionally used figuratively for a cruel season or event that kills off the weak.",
+      "zh": "描述秋季最后一个节气。有时比喻残酷的时节或事件淘汰弱者。"
+    },
+    "synonyms": [
+      "秋风扫落叶",
+      "草木凋零"
+    ],
+    "antonyms": [
+      "春回大地"
+    ]
+  },
+  {
+    "id": "li-dong-bu-dong-bu-zui-kong",
+    "text": "立冬补冬，补嘴空",
+    "pinyin": "lì dōng bǔ dōng, bǔ zuǐ kōng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "seasonal-changes",
+      "food",
+      "festivals-and-celebrations"
+    ],
+    "literal": "Winter Begins · nourish · winter, nourish · mouth · empty",
+    "natural": "nourishing at the start of winter fills an empty mouth",
+    "meaning": {
+      "en": "At the start of winter people eat hearty, nourishing food; the second half jokes that the tonic is really just an excuse to eat well.",
+      "zh": "立冬时吃补身体的食物，后半句半开玩笑，说补冬不过是满足口腹之欲的借口。"
+    },
+    "equivalents": [
+      "an excuse for a winter feast",
+      "winter tonics for the table"
+    ],
+    "examples": [
+      {
+        "zh": "立冬补冬，补嘴空，今晚我们去吃姜母鸭吧。",
+        "en": "Winter tonic fills an empty mouth, so let's go and have ginger duck tonight."
+      },
+      {
+        "zh": "妈妈说立冬补冬，补嘴空，炖了一大锅羊肉汤。",
+        "en": "Mum said it's the winter tonic that fills the mouth, and stewed a big pot of mutton soup."
+      }
+    ],
+    "usage": {
+      "en": "The 立冬 (Start of Winter) is about 7 November. 补冬 is a custom, especially in southern Fujian, Taiwan and Guangdong, of eating tonics such as mutton, ginger duck or chicken stew. The saying is humorous, not literally medical.",
+      "zh": "立冬约在11月7日。“补冬”是闽南、台湾和广东等地的习俗，吃羊肉、姜母鸭或炖鸡等进补。这句话带诙谐意味，不是医学说法。"
+    },
+    "synonyms": [
+      "冬令进补"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "dong-zhi-da-ru-nian",
+    "text": "冬至大如年",
+    "pinyin": "dōng zhì dà rú nián",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "festivals-and-celebrations",
+      "family-and-home"
+    ],
+    "literal": "Winter Solstice · big · as · New Year",
+    "natural": "the winter solstice is as big as the New Year",
+    "meaning": {
+      "en": "The winter solstice (about 21 December) is celebrated as importantly as the lunar New Year, with family gatherings and special foods.",
+      "zh": "冬至（约12月21日）与春节一样重要，要家人团聚并吃特别的食物。"
+    },
+    "equivalents": [
+      "the solstice is as big as New Year's",
+      "a festival worth a family reunion"
+    ],
+    "examples": [
+      {
+        "zh": "冬至大如年，不管多远都要回家吃团圆饭。",
+        "en": "The winter solstice is as big as New Year, so however far away you are, you go home for the reunion dinner."
+      },
+      {
+        "zh": "冬至大如年，奶奶一早就开始包汤圆。",
+        "en": "The winter solstice is as big as the New Year and grandma started making rice dumplings at dawn."
+      }
+    ],
+    "usage": {
+      "en": "Reflects the old custom of treating the winter solstice as the start of the new year cycle, as the sun begins to return. Especially strong in Jiangnan and southern China.",
+      "zh": "反映古时把冬至视为新一年阳气回升的起点。在江南和华南地区尤为盛行。"
+    },
+    "synonyms": [
+      "冬至如年",
+      "冬至团圆"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "dong-zhi-jiao-zi-xia-zhi-mian",
+    "text": "冬至饺子夏至面",
+    "pinyin": "dōng zhì jiǎo zi xià zhì miàn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "seasonal-changes",
+      "food",
+      "festivals-and-celebrations"
+    ],
+    "literal": "Winter Solstice · dumplings · Summer Solstice · noodles",
+    "natural": "dumplings at the winter solstice, noodles at the summer solstice",
+    "meaning": {
+      "en": "The northern Chinese custom is to eat dumplings on the winter solstice and noodles on the summer solstice.",
+      "zh": "北方习俗：冬至吃饺子，夏至吃面条。"
+    },
+    "equivalents": [
+      "dumplings for winter, noodles for summer",
+      "what to eat on the solstices"
+    ],
+    "examples": [
+      {
+        "zh": "冬至饺子夏至面，今天是冬至，我们包饺子吧。",
+        "en": "Dumplings at the winter solstice and noodles at the summer solstice: today is the solstice, so let's make dumplings."
+      },
+      {
+        "zh": "我家一直遵守冬至饺子夏至面的习惯。",
+        "en": "My family has always kept the custom of dumplings in winter and noodles in summer."
+      }
+    ],
+    "usage": {
+      "en": "A custom, mainly in the north, with the saying that eating dumplings means 'your ears will not freeze'. It is not observed everywhere; the south has other foods, such as glutinous rice balls.",
+      "zh": "主要流行于北方，有“吃了饺子冬天耳朵不冻”之说。并非各地通行，南方还有汤圆等食俗。"
+    },
+    "synonyms": [
+      "冬至吃饺子"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yi-jiu-er-jiu-bu-chu-shou",
+    "text": "一九二九不出手",
+    "pinyin": "yī jiǔ èr jiǔ bù chū shǒu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions",
+      "weather-and-sky"
+    ],
+    "literal": "first nine · second nine · not · take out · hands",
+    "natural": "in the first and second nines, hands stay hidden",
+    "meaning": {
+      "en": "In the first two nine-day periods after the winter solstice it is so cold that people keep their hands in their sleeves or pockets.",
+      "zh": "冬至后头两个“九”天气寒冷，人们把手缩在袖子或口袋里不愿伸出来。"
+    },
+    "equivalents": [
+      "too cold to take your hands out",
+      "hands in pockets weather"
+    ],
+    "examples": [
+      {
+        "zh": "一九二九不出手，今年冬天真冷。",
+        "en": "In the first and second nines no hands come out, and this winter is really cold."
+      },
+      {
+        "zh": "一九二九不出手，早上上学手都不敢伸出来。",
+        "en": "Nobody takes their hands out in the first two nines, and I dared not take mine out on the way to school."
+      }
+    ],
+    "usage": {
+      "en": "From the 九九歌 'Nine-Nines Song': the 81 days after the winter solstice are counted in nine groups of nine, each with its own weather proverb. The line goes on 三九四九冰上走.",
+      "zh": "出自“九九歌”：冬至后的81天分为九个“九”，每个“九”各有谚语。下句为“三九四九冰上走”。"
+    },
+    "synonyms": [
+      "滴水成冰",
+      "天寒地冻"
+    ],
+    "antonyms": [
+      "春暖花开"
+    ]
+  },
+  {
+    "id": "san-jiu-si-jiu-bing-shang-zou",
+    "text": "三九四九冰上走",
+    "pinyin": "sān jiǔ sì jiǔ bīng shàng zǒu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "seasonal-changes",
+      "harsh-natural-conditions",
+      "weather-and-sky"
+    ],
+    "literal": "third nine · fourth nine · ice · on · walk",
+    "natural": "in the third and fourth nines people walk on ice",
+    "meaning": {
+      "en": "During the third and fourth nine-day periods after the winter solstice it is the coldest time of year and rivers freeze solid.",
+      "zh": "冬至后的第三、四个“九”是一年中最冷的时候，河水结厚冰，人可以在冰上行走。"
+    },
+    "equivalents": [
+      "the coldest days of winter",
+      "the depths of winter"
+    ],
+    "examples": [
+      {
+        "zh": "三九四九冰上走，湖面已经结冰，孩子们都去滑冰了。",
+        "en": "In the third and fourth nines you can walk on the ice: the lake has frozen and the children all went skating."
+      },
+      {
+        "zh": "三九四九冰上走，出门一定要戴好帽子手套。",
+        "en": "In the depths of winter you can walk on the ice, so always wear a hat and gloves."
+      }
+    ],
+    "usage": {
+      "en": "The coldest period, 三九 (the third nine) in particular, usually falls in early to mid-January. Part of the 九九歌 'Nine-Nines Song'; it is also the second half of 一九二九不出手.",
+      "zh": "最冷的时期，尤其“三九”，通常在1月上中旬。属“九九歌”，也是“一九二九不出手”的下句。"
+    },
+    "synonyms": [
+      "数九寒天",
+      "天寒地冻"
+    ],
+    "antonyms": [
+      "春暖花开"
+    ]
+  },
+  {
+    "id": "ri-luo-yan-zhi-hong-wu-yu-bian-shi-feng",
+    "text": "日落胭脂红，无雨便是风",
+    "pinyin": "rì luò yān zhī hóng, wú yǔ biàn shì fēng",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "日落胭脂红，无雨也有风"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "weather-and-sky",
+      "rural-wisdom"
+    ],
+    "literal": "sun · set · rouge · red, no · rain · then · is · wind",
+    "natural": "if the sunset is rouge-red, there will be wind if not rain",
+    "meaning": {
+      "en": "A deep red sunset foretells wind or rain the next day.",
+      "zh": "日落时天空红得像胭脂，预示次日有风或雨。"
+    },
+    "equivalents": [
+      "a fiery sunset means wind or rain",
+      "a red evening sky foretells a change"
+    ],
+    "examples": [
+      {
+        "zh": "日落胭脂红，无雨便是风，明天出海要当心。",
+        "en": "A rouge-red sunset means wind if not rain, so be careful going to sea tomorrow."
+      },
+      {
+        "zh": "爷爷看着晚霞说，日落胭脂红，无雨便是风。",
+        "en": "Looking at the sunset glow, grandpa said that a rouge-red sunset means wind or rain."
+      }
+    ],
+    "usage": {
+      "en": "A folk weather rule: very red evening clouds mean much dust or moisture in the air, which can signal a change in the weather. It is not always reliable and varies by region; note that this contradicts the English rule 'red sky at night, shepherd's delight'.",
+      "zh": "民间看天经验：晚霞特别红说明空气中尘埃或水汽多，天气可能变化。并不总是可靠，各地也不同；与英语“晚霞红，牧羊人喜”的说法相反。"
+    },
+    "synonyms": [
+      "朝霞不出门，晚霞行千里"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yan-zi-di-fei-da-yu-jiang-zhi",
+    "text": "燕子低飞，大雨将至",
+    "pinyin": "yàn zi dī fēi, dà yǔ jiāng zhì",
+    "kind": "suyu",
+    "frequency": 3,
+    "variants": [
+      "燕子低飞蛇过道，不久大雨到"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "weather-and-sky",
+      "animal-behavior-metaphors",
+      "rural-wisdom"
+    ],
+    "literal": "swallows · low · fly, heavy · rain · about to · arrive",
+    "natural": "when swallows fly low, heavy rain is coming",
+    "meaning": {
+      "en": "Swallows flying close to the ground are a sign that rain is on its way.",
+      "zh": "燕子低飞，预示大雨即将来临。"
+    },
+    "equivalents": [
+      "swallows flying low mean rain",
+      "signs of rain in the animal world"
+    ],
+    "examples": [
+      {
+        "zh": "燕子低飞，大雨将至，赶紧收衣服！",
+        "en": "The swallows are flying low, so rain is coming: bring in the washing quickly!"
+      },
+      {
+        "zh": "燕子低飞，大雨将至，农民加快了收割速度。",
+        "en": "With swallows flying low and heavy rain on the way, the farmers sped up the harvest."
+      }
+    ],
+    "usage": {
+      "en": "Before rain the air is humid and insects fly lower, so the swallows that feed on them follow. The fuller folk version is 燕子低飞蛇过道，不久大雨到.",
+      "zh": "下雨前空气潮湿，昆虫低飞，捕食的燕子也随之低飞。民间较完整的说法是“燕子低飞蛇过道，不久大雨到”。"
+    },
+    "synonyms": [
+      "蚂蚁搬家，大雨来临"
+    ],
+    "antonyms": []
+  }
+]

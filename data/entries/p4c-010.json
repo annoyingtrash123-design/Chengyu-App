@@ -1,0 +1,808 @@
+[
+  {
+    "id": "kou-er-zhi-xue",
+    "text": "口耳之学",
+    "pinyin": "kǒu ěr zhī xué",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "superficial-learning",
+      "learning-difficulties",
+      "confucian-classics"
+    ],
+    "literal": "mouth · ear · of · learning",
+    "natural": "learning from mouth to ear",
+    "meaning": {
+      "en": "Shallow learning that goes in at the ear and straight out of the mouth, without being understood.",
+      "zh": "只凭耳听口说、不求深思的肤浅学问。"
+    },
+    "equivalents": [
+      "parrot-fashion learning",
+      "hearsay knowledge"
+    ],
+    "examples": [
+      {
+        "zh": "读书不能只是口耳之学，要真正理解。",
+        "en": "Reading cannot be mere parroting; you must truly understand."
+      },
+      {
+        "zh": "他这些见解不过是口耳之学，经不起追问。",
+        "en": "His views are just hearsay and will not survive questioning."
+      }
+    ],
+    "origin": {
+      "source": "《荀子·劝学》",
+      "story": {
+        "en": "Xunzi says the petty person's learning 'enters the ear and comes out of the mouth', a mere four inches apart, so it cannot improve him.",
+        "zh": "《荀子·劝学》：“小人之学也，入乎耳，出乎口；口耳之间，则四寸耳，曷足以美七尺之躯哉！”"
+      }
+    },
+    "usage": {
+      "en": "Critical. Used of knowledge that has not been digested or tested by practice.",
+      "zh": "贬义，指没有消化、没有实践验证的学问。"
+    },
+    "synonyms": [
+      "耳食之谈",
+      "一知半解"
+    ],
+    "antonyms": [
+      "融会贯通",
+      "学以致用"
+    ]
+  },
+  {
+    "id": "er-gen-qing-jing",
+    "text": "耳根清净",
+    "pinyin": "ěr gēn qīng jìng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "contentment-and-simplicity"
+    ],
+    "literal": "ear · root · clear · quiet",
+    "natural": "ears free of noise",
+    "meaning": {
+      "en": "To enjoy peace and quiet, free from noise and nagging.",
+      "zh": "耳边没有嘈杂打扰，十分安静。"
+    },
+    "equivalents": [
+      "peace and quiet",
+      "some quiet at last"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们去上学后，妈妈终于耳根清净了。",
+        "en": "With the children at school, Mum finally had some peace and quiet."
+      },
+      {
+        "zh": "我关上门，图个耳根清净。",
+        "en": "I closed the door to get some quiet."
+      },
+      {
+        "zh": "没人来打扰，耳根清净多了。",
+        "en": "With nobody pestering, it was much quieter."
+      }
+    ],
+    "usage": {
+      "en": "Often used with 落得 or 图个. The term 耳根 comes from Buddhist language. Casual and slightly humorous.",
+      "zh": "常说“落得耳根清净”“图个耳根清净”。“耳根”源自佛家用语。口语化，略带幽默。"
+    },
+    "synonyms": [
+      "清静无扰",
+      "万籁俱寂"
+    ],
+    "antonyms": [
+      "吵吵闹闹",
+      "聒噪不休"
+    ]
+  },
+  {
+    "id": "er-shi-zhi-yan",
+    "text": "耳食之言",
+    "pinyin": "ěr shí zhī yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "superficial-learning",
+      "deception-and-false-appearances"
+    ],
+    "literal": "ear · eat · of · words",
+    "natural": "words swallowed by the ear",
+    "meaning": {
+      "en": "Unverified talk taken at face value from hearsay, as if one had 'eaten' it through the ears.",
+      "zh": "没有经过思考验证、只凭听来的话。"
+    },
+    "equivalents": [
+      "mere hearsay",
+      "second-hand talk"
+    ],
+    "examples": [
+      {
+        "zh": "这些传闻都是耳食之言，不足为信。",
+        "en": "These rumours are mere hearsay and cannot be believed."
+      },
+      {
+        "zh": "做研究不能依靠耳食之言。",
+        "en": "Research cannot rely on hearsay."
+      }
+    ],
+    "usage": {
+      "en": "Dismissive. Used of rumours and unchecked opinions; formal or literary.",
+      "zh": "带轻视意味，指传闻和未经核实的说法，书面语。"
+    },
+    "synonyms": [
+      "道听途说",
+      "无稽之谈"
+    ],
+    "antonyms": [
+      "真知灼见",
+      "眼见为实"
+    ]
+  },
+  {
+    "id": "qi-jiu-tu-xin",
+    "text": "弃旧图新",
+    "pinyin": "qì jiù tú xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "innovation-and-progress",
+      "mistakes-and-correction"
+    ],
+    "literal": "abandon · old · seek · new",
+    "natural": "drop the old, seek the new",
+    "meaning": {
+      "en": "To leave behind old ways or habits and look for something new.",
+      "zh": "抛弃旧的，谋求新的；多指改正错误，重新做人。"
+    },
+    "equivalents": [
+      "turn over a new leaf",
+      "make a fresh start"
+    ],
+    "examples": [
+      {
+        "zh": "他决心弃旧图新，不再赌博。",
+        "en": "He resolved to turn over a new leaf and stop gambling."
+      },
+      {
+        "zh": "公司要想发展，就得弃旧图新。",
+        "en": "If the company wants to grow, it must discard the old and seek the new."
+      },
+      {
+        "zh": "犯过错的人只要弃旧图新，大家都欢迎。",
+        "en": "Anyone who has erred will be welcome if they make a fresh start."
+      }
+    ],
+    "usage": {
+      "en": "Often about turning away from bad habits or outdated methods.",
+      "zh": "多指改掉旧习或过时做法。"
+    },
+    "synonyms": [
+      "改过自新",
+      "除旧布新"
+    ],
+    "antonyms": [
+      "因循守旧",
+      "故态复萌"
+    ]
+  },
+  {
+    "id": "hou-wang-bo-lai",
+    "text": "厚往薄来",
+    "pinyin": "hòu wǎng bó lái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "good-governance",
+      "confucian-classics"
+    ],
+    "literal": "generous · going · slight · coming",
+    "natural": "give generously, receive lightly",
+    "meaning": {
+      "en": "To give generous gifts and accept modest ones in return, as a mark of goodwill.",
+      "zh": "送出的礼物丰厚，收回的礼物菲薄，表示友好大方。"
+    },
+    "equivalents": [
+      "give more than one takes",
+      "be generous with gifts"
+    ],
+    "examples": [
+      {
+        "zh": "古代君主对邻国厚往薄来，以示友好。",
+        "en": "Ancient rulers gave neighbouring states generous gifts and took little in return, as a sign of friendship."
+      },
+      {
+        "zh": "主人厚往薄来，客人都很感动。",
+        "en": "The host gave lavishly and asked for little, which touched the guests."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·中庸》",
+      "story": {
+        "en": "In 《中庸》, one of the nine principles of rule is to 'give generously and receive lightly' so as to win over the feudal lords.",
+        "zh": "《礼记·中庸》：“送往迎来，嘉善而矜不能，所以柔远人也；……厚往而薄来，所以怀诸侯也。”"
+      }
+    },
+    "usage": {
+      "en": "Formal and rather literary; mostly used of diplomacy, hospitality or tribute relations.",
+      "zh": "书面语，多用于外交、待客或朝贡关系。"
+    },
+    "synonyms": [
+      "慷慨解囊",
+      "礼轻情意重"
+    ],
+    "antonyms": [
+      "斤斤计较",
+      "锱铢必较"
+    ]
+  },
+  {
+    "id": "zhuan-huo-wei-fu",
+    "text": "转祸为福",
+    "pinyin": "zhuǎn huò wéi fú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "adaptability",
+      "historical-records"
+    ],
+    "literal": "turn · disaster · into · fortune",
+    "natural": "turn disaster into fortune",
+    "meaning": {
+      "en": "To turn a bad situation into a good one through skill or good luck.",
+      "zh": "把灾祸变成福气，把坏事变成好事。"
+    },
+    "equivalents": [
+      "turn a setback into a blessing",
+      "every cloud has a silver lining"
+    ],
+    "examples": [
+      {
+        "zh": "这场失败让我们发现了问题，反而转祸为福。",
+        "en": "The defeat made us see our problems, and it turned into a blessing."
+      },
+      {
+        "zh": "他善于转祸为福，每次危机都能找到机会。",
+        "en": "He knows how to turn misfortune to advantage and finds an opportunity in every crisis."
+      },
+      {
+        "zh": "洪水过后，村里转祸为福，修好了新堤。",
+        "en": "After the flood the village turned misfortune into gain by building a new embankment."
+      }
+    ],
+    "origin": {
+      "source": "《战国策·燕策一》",
+      "story": {
+        "en": "The Warring States text says that sages managing affairs 'turn disaster into fortune and failure into success' (转祸而为福，因败而为功).",
+        "zh": "《战国策·燕策一》：“圣人之制事也，转祸而为福，因败而为功。”"
+      }
+    },
+    "usage": {
+      "en": "Predicate. Often paired with 转危为安. Used for both skill and luck.",
+      "zh": "作谓语，常与“转危为安”并用，可指能力也可指运气。"
+    },
+    "synonyms": [
+      "因祸得福",
+      "化险为夷"
+    ],
+    "antonyms": [
+      "福兮祸伏",
+      "祸不单行"
+    ]
+  },
+  {
+    "id": "huo-fu-wu-men",
+    "text": "祸福无门",
+    "pinyin": "huò fú wú mén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "natural-consequences",
+      "wisdom",
+      "historical-records"
+    ],
+    "literal": "disaster · fortune · no · door",
+    "natural": "disaster and fortune have no fixed door",
+    "meaning": {
+      "en": "Good and bad fortune have no set entrance: people bring them on themselves by their own actions.",
+      "zh": "灾祸和福气没有固定的门径，都是人自己招来的。"
+    },
+    "equivalents": [
+      "we make our own luck",
+      "you reap what you sow"
+    ],
+    "examples": [
+      {
+        "zh": "祸福无门，唯人自召，凡事还得靠自己。",
+        "en": "Fortune and misfortune have no fixed door but come by what we invite, so rely on yourself."
+      },
+      {
+        "zh": "老人常说祸福无门，做人要谨慎。",
+        "en": "The old folks often say that luck is of our own making, so be careful how you live."
+      }
+    ],
+    "origin": {
+      "source": "《左传·襄公二十三年》",
+      "story": {
+        "en": "The Zuo Zhuan states 'Disaster and fortune have no door; people summon them themselves' (祸福无门，唯人所召).",
+        "zh": "《左传·襄公二十三年》：“祸福无门，唯人所召。”"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted in full, 祸福无门，唯人所召. A moral reminder about personal responsibility.",
+      "zh": "常引全句“祸福无门，唯人所召”，强调个人责任。"
+    },
+    "synonyms": [
+      "自作自受",
+      "自食其果"
+    ],
+    "antonyms": [
+      "听天由命"
+    ]
+  },
+  {
+    "id": "da-qiao-ruo-zhuo",
+    "text": "大巧若拙",
+    "pinyin": "dà qiǎo ruò zhuō",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "wisdom",
+      "outstanding-character",
+      "daoist-classics"
+    ],
+    "literal": "great · skill · seem · clumsy",
+    "natural": "great skill seems clumsy",
+    "meaning": {
+      "en": "True mastery looks plain and unshowy, even awkward.",
+      "zh": "真正高超的技巧看起来朴实无华，甚至显得笨拙。"
+    },
+    "equivalents": [
+      "true skill hides itself",
+      "the greatest art conceals art"
+    ],
+    "examples": [
+      {
+        "zh": "这位老画家的笔法平淡，却是大巧若拙。",
+        "en": "The old painter's brushwork looks plain, yet it is skill disguised as simplicity."
+      },
+      {
+        "zh": "他不爱炫耀，大巧若拙，真正的高手往往如此。",
+        "en": "He never shows off; true masters are often like this."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十五章",
+      "story": {
+        "en": "Laozi chapter 45: 'Great straightness seems bent, great skill seems clumsy, great eloquence seems halting' (大直若屈，大巧若拙，大辩若讷).",
+        "zh": "《老子》第四十五章：“大成若缺……大直若屈，大巧若拙，大辩若讷。”"
+      }
+    },
+    "usage": {
+      "en": "Daoist in spirit. Praises modesty and unforced craft; also found in the pairing 大智若愚.",
+      "zh": "道家思想，赞美质朴、不露锋芒，常与“大智若愚”并提。"
+    },
+    "synonyms": [
+      "大智若愚",
+      "返璞归真"
+    ],
+    "antonyms": [
+      "雕虫小技",
+      "华而不实"
+    ]
+  },
+  {
+    "id": "xia-bi-qian-yan",
+    "text": "下笔千言",
+    "pinyin": "xià bǐ qiān yán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "efficiency"
+    ],
+    "literal": "lower · brush · thousand · words",
+    "natural": "a thousand words once the brush touches paper",
+    "meaning": {
+      "en": "To write quickly and fluently, producing a long piece with ease.",
+      "zh": "一提笔就能写出很多文字，形容文思敏捷、写作流畅。"
+    },
+    "equivalents": [
+      "write fluently",
+      "have a ready pen"
+    ],
+    "examples": [
+      {
+        "zh": "他下笔千言，一个晚上就写完了论文。",
+        "en": "He writes with ease, and finished the paper in one evening."
+      },
+      {
+        "zh": "她文思泉涌，下笔千言。",
+        "en": "Ideas flow from her, and her pen runs on."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 倚马可待 or 离题万里 (for the opposite problem). Predicate; compliment.",
+      "zh": "常与“倚马可待”并用，作谓语，褒义。"
+    },
+    "synonyms": [
+      "倚马可待",
+      "文思泉涌"
+    ],
+    "antonyms": [
+      "下笔艰难",
+      "江郎才尽"
+    ]
+  },
+  {
+    "id": "zuo-bang-you-bi",
+    "text": "左膀右臂",
+    "pinyin": "zuǒ bǎng yòu bì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "useful-tools-and-skill"
+    ],
+    "literal": "left · upper arm · right · arm",
+    "natural": "left arm and right arm",
+    "meaning": {
+      "en": "A trusted, indispensable assistant, like one's own arms.",
+      "zh": "比喻得力的助手。"
+    },
+    "equivalents": [
+      "right-hand man",
+      "indispensable aide"
+    ],
+    "examples": [
+      {
+        "zh": "小李是经理的左膀右臂。",
+        "en": "Xiao Li is the manager's right-hand man."
+      },
+      {
+        "zh": "在球队里，他俩是教练的左膀右臂。",
+        "en": "In the team, those two are the coach's right and left hands."
+      },
+      {
+        "zh": "失去这位左膀右臂，公司损失很大。",
+        "en": "Losing this key aide was a great blow to the firm."
+      }
+    ],
+    "usage": {
+      "en": "Usually about people, as an object (得力的左膀右臂) or a predicate. Common in news and speech.",
+      "zh": "多指人，作宾语或谓语，新闻和口语都常见。"
+    },
+    "synonyms": [
+      "得力助手",
+      "左右手"
+    ],
+    "antonyms": [
+      "孤家寡人",
+      "孤立无援"
+    ]
+  },
+  {
+    "id": "gu-ling-jing-guai",
+    "text": "古灵精怪",
+    "pinyin": "gǔ líng jīng guài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "精灵古怪"
+    ],
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "ancient · spirited · clever · weird",
+    "natural": "quirky and mischievous",
+    "meaning": {
+      "en": "Clever, mischievous and full of surprising ideas, often said affectionately of a child.",
+      "zh": "形容人机灵、淘气，点子多，有时让人哭笑不得。"
+    },
+    "equivalents": [
+      "quirky and sharp",
+      "cheeky and full of tricks"
+    ],
+    "examples": [
+      {
+        "zh": "这孩子古灵精怪，总有新鲜主意。",
+        "en": "That child is quirky and full of fresh ideas."
+      },
+      {
+        "zh": "她古灵精怪的样子逗得大家直笑。",
+        "en": "Her cheeky, impish manner made everyone laugh."
+      },
+      {
+        "zh": "弟弟古灵精怪，常常捉弄人。",
+        "en": "My little brother is a mischievous imp who is always playing tricks."
+      }
+    ],
+    "usage": {
+      "en": "Often affectionate and mostly used of children or young women. Casual; may also mean 'weird' in a neutral sense.",
+      "zh": "多含喜爱，常形容孩子或年轻女子。口语化。"
+    },
+    "synonyms": [
+      "调皮捣蛋",
+      "机灵鬼"
+    ],
+    "antonyms": [
+      "老实巴交",
+      "呆头呆脑"
+    ]
+  },
+  {
+    "id": "jin-shi-zuo-fei",
+    "text": "今是昨非",
+    "pinyin": "jīn shì zuó fēi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "mistakes-and-correction",
+      "mental-clarity",
+      "poems-prose"
+    ],
+    "literal": "today · right · yesterday · wrong",
+    "natural": "today is right, yesterday was wrong",
+    "meaning": {
+      "en": "To realise that one's present way is right and one's past ways were mistaken.",
+      "zh": "认识到现在是对的，过去是错的，表示悔悟。"
+    },
+    "equivalents": [
+      "see how wrong one was before",
+      "a change of heart"
+    ],
+    "examples": [
+      {
+        "zh": "他一朝醒悟，才知今是昨非。",
+        "en": "In an instant he awoke and saw that he had been wrong before."
+      },
+      {
+        "zh": "回头看这些年，真有今是昨非之感。",
+        "en": "Looking back over the years, I truly feel how wrong I used to be."
+      }
+    ],
+    "origin": {
+      "source": "陶渊明《归去来兮辞》",
+      "story": {
+        "en": "Tao Yuanming, resigning from office, writes that he realises 'what is right now and what was wrong before' (觉今是而昨非).",
+        "zh": "陶渊明《归去来兮辞》：“实迷途其未远，觉今是而昨非。”"
+      }
+    },
+    "usage": {
+      "en": "Literary, often in the phrasing 觉今是而昨非. Expresses regret and enlightenment.",
+      "zh": "书面语，常说“觉今是而昨非”，表示悔悟。"
+    },
+    "synonyms": [
+      "幡然悔悟",
+      "改过自新"
+    ],
+    "antonyms": [
+      "执迷不悟",
+      "一意孤行"
+    ]
+  },
+  {
+    "id": "si-bu-hui-gai",
+    "text": "死不悔改",
+    "pinyin": "sǐ bù huǐ gǎi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "mistakes-and-correction"
+    ],
+    "literal": "die · not · regret · change",
+    "natural": "refuse to repent even at death",
+    "meaning": {
+      "en": "To stubbornly refuse to admit a fault or change one's ways.",
+      "zh": "到死也不肯悔悟、改正错误。"
+    },
+    "equivalents": [
+      "unrepentant to the end",
+      "incorrigible"
+    ],
+    "examples": [
+      {
+        "zh": "他屡次犯错，却死不悔改。",
+        "en": "He made the same mistake many times and would never repent."
+      },
+      {
+        "zh": "对这种死不悔改的人，只能依法处理。",
+        "en": "Against someone so unrepentant, we can only apply the law."
+      }
+    ],
+    "usage": {
+      "en": "Critical. Predicate or attributive. Often about wrongdoers or stubborn people.",
+      "zh": "贬义，作谓语、定语，多指犯错者或固执的人。"
+    },
+    "synonyms": [
+      "执迷不悟",
+      "顽固不化"
+    ],
+    "antonyms": [
+      "痛改前非",
+      "改过自新"
+    ]
+  },
+  {
+    "id": "tan-tan-dang-dang",
+    "text": "坦坦荡荡",
+    "pinyin": "tǎn tǎn dàng dàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "frankness-and-candour",
+      "confucian-classics"
+    ],
+    "literal": "open · open · broad · broad",
+    "natural": "open and broad-minded",
+    "meaning": {
+      "en": "Frank, honest and free from worry or guilt.",
+      "zh": "心地宽广、光明磊落，没有顾虑。"
+    },
+    "equivalents": [
+      "open and above board",
+      "with a clear conscience"
+    ],
+    "examples": [
+      {
+        "zh": "他做事坦坦荡荡，问心无愧。",
+        "en": "He acts openly with a clear conscience."
+      },
+      {
+        "zh": "做人要坦坦荡荡，不要遮遮掩掩。",
+        "en": "Be open and honest in life, not furtive and evasive."
+      },
+      {
+        "zh": "她坦坦荡荡地把真相说了出来。",
+        "en": "She told the truth frankly and without fear."
+      }
+    ],
+    "origin": {
+      "source": "《论语·述而》",
+      "story": {
+        "en": "Confucius says: 'The gentleman is open and at ease, the petty man is always full of worry' (君子坦荡荡，小人长戚戚).",
+        "zh": "《论语·述而》：“做人要坦坦荡荡，不要遮遮掩掩。”"
+      }
+    },
+    "usage": {
+      "en": "From the Analects line about the gentleman. Positive; applies to character, not to roads or fields in this sense.",
+      "zh": "出自《论语》“君子坦荡荡”。褒义，形容人品。"
+    },
+    "synonyms": [
+      "光明磊落",
+      "襟怀坦白"
+    ],
+    "antonyms": [
+      "鬼鬼祟祟",
+      "遮遮掩掩"
+    ]
+  },
+  {
+    "id": "qin-jian-chi-jia",
+    "text": "勤俭持家",
+    "pinyin": "qín jiǎn chí jiā",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "family-and-home",
+      "contentment-and-simplicity"
+    ],
+    "literal": "diligent · thrifty · manage · household",
+    "natural": "run the home diligently and thriftily",
+    "meaning": {
+      "en": "To manage a household with hard work and careful saving.",
+      "zh": "勤劳节俭地操持家务。"
+    },
+    "equivalents": [
+      "run a frugal household",
+      "manage the home thriftily"
+    ],
+    "examples": [
+      {
+        "zh": "奶奶一辈子勤俭持家，把孩子们都供上了大学。",
+        "en": "Grandma ran her household thriftily all her life and put every child through university."
+      },
+      {
+        "zh": "我们要继承勤俭持家的传统。",
+        "en": "We should carry on the tradition of diligence and thrift at home."
+      },
+      {
+        "zh": "妈妈勤俭持家，从不乱花钱。",
+        "en": "Mum is thrifty and never wastes money."
+      }
+    ],
+    "usage": {
+      "en": "A traditional virtue, often said of mothers and grandmothers. Predicate or attributive.",
+      "zh": "传统美德，常赞母亲、祖母。作谓语、定语。"
+    },
+    "synonyms": [
+      "克勤克俭",
+      "精打细算"
+    ],
+    "antonyms": [
+      "铺张浪费",
+      "挥霍无度"
+    ]
+  },
+  {
+    "id": "an-bang-ding-guo",
+    "text": "安邦定国",
+    "pinyin": "ān bāng dìng guó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "peace-and-prosperity"
+    ],
+    "literal": "secure · state · settle · country",
+    "natural": "secure the state and settle the land",
+    "meaning": {
+      "en": "To keep a country stable and at peace.",
+      "zh": "使国家安定太平。"
+    },
+    "equivalents": [
+      "bring peace to the nation",
+      "secure the realm"
+    ],
+    "examples": [
+      {
+        "zh": "古代名臣以安邦定国为己任。",
+        "en": "Famous ministers of old took it as their duty to secure the nation."
+      },
+      {
+        "zh": "他一生为安邦定国而奋斗。",
+        "en": "He strove all his life to keep the country stable."
+      }
+    ],
+    "usage": {
+      "en": "Used of rulers, generals and statesmen. Formal; often in historical or heroic contexts.",
+      "zh": "多用于君王、将相、政治家，正式语体，常见于历史或英雄语境。"
+    },
+    "synonyms": [
+      "治国安邦",
+      "经邦济世"
+    ],
+    "antonyms": [
+      "祸国殃民",
+      "动荡不安"
+    ]
+  }
+]

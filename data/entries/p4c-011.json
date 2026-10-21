@@ -1,0 +1,142 @@
+[
+  {
+    "id": "chou-rong-man-mian",
+    "text": "愁容满面",
+    "pinyin": "chóu róng mǎn miàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "appearance"
+    ],
+    "literal": "worry · look · full · face",
+    "natural": "face full of worry",
+    "meaning": {
+      "en": "Looking very worried or sad.",
+      "zh": "脸上满是忧愁的神情。"
+    },
+    "equivalents": [
+      "a face full of worry",
+      "looking glum"
+    ],
+    "examples": [
+      {
+        "zh": "他愁容满面，不知道怎么办才好。",
+        "en": "He looked deeply worried and didn't know what to do."
+      },
+      {
+        "zh": "看到成绩单，爸爸愁容满面。",
+        "en": "Seeing the report card, Dad's face clouded with worry."
+      },
+      {
+        "zh": "她愁容满面地坐在门口。",
+        "en": "She sat at the door with a worried face."
+      }
+    ],
+    "usage": {
+      "en": "Used as a predicate or adverbial. The opposite is 笑容满面.",
+      "zh": "作谓语、状语。反义为“笑容满面”。"
+    },
+    "synonyms": [
+      "愁眉苦脸",
+      "忧心忡忡"
+    ],
+    "antonyms": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ]
+  },
+  {
+    "id": "qin-yan-mu-du",
+    "text": "亲眼目睹",
+    "pinyin": "qīn yǎn mù dǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "exact-vs-approximate"
+    ],
+    "literal": "personal · eye · see · witness",
+    "natural": "see with one's own eyes",
+    "meaning": {
+      "en": "To witness something personally.",
+      "zh": "亲自用眼睛看到。"
+    },
+    "equivalents": [
+      "see with one's own eyes",
+      "witness first-hand"
+    ],
+    "examples": [
+      {
+        "zh": "我亲眼目睹了那场车祸。",
+        "en": "I witnessed the accident with my own eyes."
+      },
+      {
+        "zh": "他亲眼目睹了城市的变化。",
+        "en": "He saw the city's changes first-hand."
+      },
+      {
+        "zh": "我们亲眼目睹火箭升空。",
+        "en": "We watched the rocket lift off with our own eyes."
+      }
+    ],
+    "usage": {
+      "en": "Usually followed by an event. Emphasises first-hand witness; 亲眼 and 目睹 overlap, so the phrase is mild emphasis.",
+      "zh": "后面多接事件。强调亲身所见；“亲眼”和“目睹”语义重叠，起强调作用。"
+    },
+    "synonyms": [
+      "耳闻目睹",
+      "亲身经历"
+    ],
+    "antonyms": [
+      "道听途说",
+      "耳食之言"
+    ]
+  },
+  {
+    "id": "qin-shang-jia-qin",
+    "text": "亲上加亲",
+    "pinyin": "qīn shàng jiā qīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "family-and-home",
+      "love-and-marriage"
+    ],
+    "literal": "kin · on top · add · kin",
+    "natural": "kin added to kin",
+    "meaning": {
+      "en": "To marry within the extended family, so that relatives become even closer.",
+      "zh": "亲戚之间再结姻亲，关系更近一层。"
+    },
+    "equivalents": [
+      "tie the family bond tighter",
+      "relatives marrying relatives"
+    ],
+    "examples": [
+      {
+        "zh": "两家本是表亲，孩子们结婚，真是亲上加亲。",
+        "en": "The two families were cousins, and with the children marrying, they became closer still."
+      },
+      {
+        "zh": "他们俩结为夫妻，亲上加亲。",
+        "en": "The two married, making the family tie even closer."
+      }
+    ],
+    "usage": {
+      "en": "Auspicious wording for marriages between relatives or families already close. Not a recommendation in modern society.",
+      "zh": "用于祝贺亲戚或旧交联姻的吉语。"
+    },
+    "synonyms": [
+      "亲戚联姻"
+    ],
+    "antonyms": [
+      "素不相识"
+    ]
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": "zi-wen-bao-xue",
+    "text": "恣蚊饱血",
+    "pinyin": "zì wén bǎo xuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "stories"
+    ],
+    "literal": "let · mosquitoes · fill · blood",
+    "natural": "letting mosquitoes feed his fill",
+    "meaning": {
+      "en": "To endure discomfort oneself so that one's parents may sleep in peace; Wu Meng's story.",
+      "zh": "自己忍受蚊虫叮咬，让父母安睡；指吴猛的故事。"
+    },
+    "equivalents": [
+      "suffer so one's parents can rest",
+      "let the mosquitoes bite him instead"
+    ],
+    "examples": [
+      {
+        "zh": "故事里小吴猛恣蚊饱血，只为让父亲睡个好觉。",
+        "en": "In the story little Wu Meng let the mosquitoes feed on him just so his father could sleep well."
+      },
+      {
+        "zh": "恣蚊饱血的做法今天看来未必可取，但心意值得称赞。",
+        "en": "Letting mosquitoes feed may not be a good method today, but the intention is admirable."
+      }
+    ],
+    "origin": {
+      "source": "《二十四孝》（元·郭居敬）",
+      "story": {
+        "en": "Eight-year-old Wu Meng was too poor to have a mosquito net, so he sat naked beside his parents' bed every summer night and let the mosquitoes bite him instead of them.",
+        "zh": "晋代吴猛八岁时家贫，夏夜无帐，他赤身坐在父母床前，任蚊子叮咬，不驱赶，唯恐它们去叮咬双亲。"
+      }
+    },
+    "usage": {
+      "en": "Wu Meng (吴猛) was eight and too poor to have a net; he stripped and let the mosquitoes bite him so that they would leave his parents alone. 血 is read xuè in this literary phrase. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
+      "zh": "吴猛八岁，家贫无蚊帐，每夜赤身坐在父母床前，任蚊子叮咬，免得它们去咬双亲。在这个书面成语中“血”读 xuè。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
+    },
+    "synonyms": [
+      "孝感动天"
+    ],
+    "antonyms": [
+      "不孝"
+    ]
+  },
+  {
+    "id": "ru-gu-bu-dai",
+    "text": "乳姑不怠",
+    "pinyin": "rǔ gū bù dài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "stories"
+    ],
+    "literal": "nurse · mother-in-law · not · slack",
+    "natural": "never slacking in nursing her mother-in-law",
+    "meaning": {
+      "en": "To care for an elderly parent-in-law with unflagging devotion, even nursing her; Madam Tang's story.",
+      "zh": "对公婆无微不至、不知疲倦地孝敬；指唐夫人以乳汁奉养婆婆的故事。"
+    },
+    "equivalents": [
+      "tireless devotion to a mother-in-law",
+      "a daughter-in-law's loyal care"
+    ],
+    "examples": [
+      {
+        "zh": "她多年照顾卧病的婆婆，真是乳姑不怠。",
+        "en": "She has looked after her bedridden mother-in-law for years, with the devotion of the story."
+      },
+      {
+        "zh": "故事里唐夫人乳姑不怠，感动了一家人。",
+        "en": "In the story Madam Tang's tireless care of her mother-in-law moved the whole family."
+      }
+    ],
+    "origin": {
+      "source": "《二十四孝》（元·郭居敬）",
+      "story": {
+        "en": "In the Tang dynasty Madam Tang, wife of Cui Shannan's grandfather, fed her toothless mother-in-law with her own milk every day for years, and the old woman lived on to a great age.",
+        "zh": "唐代崔山南的祖母唐夫人，每日以自己的乳汁喂养无牙的婆婆长孙夫人，数年不懈，婆婆因此长寿。"
+      }
+    },
+    "usage": {
+      "en": "Madam Tang (唐夫人), wife of Cui Shannan, nursed her toothless mother-in-law with her own milk for years; the old lady lived to a great age. 乳 is a verb here: 'to feed with milk'. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
+      "zh": "崔山南的祖母唐夫人，每天以乳汁奉养无齿的婆婆长孙夫人，多年不倦。“乳”在此作动词，指哺乳。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "不孝"
+    ]
+  },
+  {
+    "id": "di-qin-niao-qi",
+    "text": "涤亲溺器",
+    "pinyin": "dí qīn niào qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "stories"
+    ],
+    "literal": "wash · parent's · chamber pot",
+    "natural": "washing his mother's chamber pot",
+    "meaning": {
+      "en": "To personally do the lowliest chores for one's parent, however high one's rank; Huang Tingjian.",
+      "zh": "不论地位多高，也亲自为父母做最低微的家务；指黄庭坚的故事。"
+    },
+    "equivalents": [
+      "do the humblest chores for one's mother",
+      "humility before one's parents"
+    ],
+    "examples": [
+      {
+        "zh": "他官做得很大，仍亲自涤亲溺器，十分难得。",
+        "en": "Though a high official, he washed his mother's chamber pot himself, which is rare."
+      },
+      {
+        "zh": "黄庭坚涤亲溺器的故事至今被人称道。",
+        "en": "The story of Huang Tingjian washing his mother's chamber pot is still praised today."
+      }
+    ],
+    "origin": {
+      "source": "《二十四孝》（元·郭居敬）",
+      "story": {
+        "en": "Huang Tingjian, a high official and famous poet of the Song dynasty, still washed his mother's chamber pot himself every evening, never leaving it to servants.",
+        "zh": "宋代黄庭坚虽官高名重，仍每天晚上亲自为母亲洗涤便器，从不让仆人代劳。"
+      }
+    },
+    "usage": {
+      "en": "Huang Tingjian (黄庭坚), a famous Song-dynasty poet and calligrapher, washed his mother's chamber pot every evening although he was an official. Note 溺 is read niào here (urine). One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
+      "zh": "宋代诗人、书法家黄庭坚虽身居高位，仍每天亲自为母亲洗涤便器。“溺”在此读 niào。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
+    },
+    "synonyms": [
+      "孝感动天"
+    ],
+    "antonyms": [
+      "忘恩负义"
+    ]
+  },
+  {
+    "id": "qi-guan-xun-mu",
+    "text": "弃官寻母",
+    "pinyin": "qì guān xún mǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "stories"
+    ],
+    "literal": "abandon · office · seek · mother",
+    "natural": "giving up his post to find his mother",
+    "meaning": {
+      "en": "To give up a career to look for one's lost parent; Zhu Shouchang.",
+      "zh": "辞去官职去寻找失散的母亲；指朱寿昌的故事。"
+    },
+    "equivalents": [
+      "quit one's job to find one's mother",
+      "put family before career"
+    ],
+    "examples": [
+      {
+        "zh": "为了陪伴母亲，他像朱寿昌弃官寻母那样辞了职。",
+        "en": "To be with his mother he gave up his job, like Zhu Shouchang giving up office to find her."
+      },
+      {
+        "zh": "朱寿昌弃官寻母，最终母子团聚。",
+        "en": "Zhu Shouchang gave up office to find his mother, and in the end they were reunited."
+      }
+    ],
+    "origin": {
+      "source": "《二十四孝》（元·郭居敬）",
+      "story": {
+        "en": "Zhu Shouchang had been parted from his mother since childhood; when he was about fifty he resigned his post and travelled across Shaanxi, swearing not to return until he found her, and at last met her again.",
+        "zh": "朱寿昌自幼与生母分离，约五十岁时辞官，立誓不见母亲不回，远赴陕西寻访，终于找到并接回母亲。"
+      }
+    },
+    "usage": {
+      "en": "Zhu Shouchang (朱寿昌) of the Song dynasty had been separated from his birth mother since childhood. At about fifty he left his office, swearing not to return until he found her; after years of searching he met her, aged over seventy. Today also used when someone quits work to care for family. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
+      "zh": "宋代朱寿昌自幼与生母失散，约五十岁时辞官，发誓不找到母亲不回，寻访多年，终于找到已七十多岁的母亲。今也用于为照顾家人而辞职。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
+    },
+    "synonyms": [
+      "孝感动天"
+    ],
+    "antonyms": [
+      "不孝"
+    ]
+  },
+  {
+    "id": "chang-fen-you-xin",
+    "text": "尝粪忧心",
+    "pinyin": "cháng fèn yōu xīn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "filial-piety",
+      "stories"
+    ],
+    "literal": "taste · stool · worry · heart",
+    "natural": "tasting his father's stool in anxious worry",
+    "meaning": {
+      "en": "To care for a sick parent with agonising anxiety, even tasting his stool to judge his condition; Yu Qianlou. Few today see this as a practical or hygienic example.",
+      "zh": "忧心如焚地照顾病重的父亲，甚至亲尝其粪便以判断病情；指庾黔娄的故事。今天很少有人把它当作可行的榜样。"
+    },
+    "equivalents": [
+      "care for a sick father at all costs",
+      "anxious devotion"
+    ],
+    "examples": [
+      {
+        "zh": "尝粪忧心的故事听起来让人不适，却反映了古人对孝的理解。",
+        "en": "The tale of tasting the stool is unpleasant, yet it shows how the ancients understood filial piety."
+      },
+      {
+        "zh": "现在没人会提倡尝粪忧心，大家更讲科学护理。",
+        "en": "Nobody would recommend the tasting of stool now; people prefer scientific nursing."
+      }
+    ],
+    "origin": {
+      "source": "《二十四孝》（元·郭居敬）",
+      "story": {
+        "en": "Yu Qianlou, a magistrate, felt a sudden unease, resigned and hurried home to find his father seriously ill; he tasted the stool as the doctor advised, found it sweet, and prayed to the Big Dipper that he might die in his father's place.",
+        "zh": "庾黔娄任县令，忽觉心惊汗流，辞官归家，见父亲病重；遵医嘱尝粪辨病，觉味甜，便在夜里向北斗星祈求以身代父。"
+      }
+    },
+    "usage": {
+      "en": "Yu Qianlou (庾黔娄) was a county magistrate in the Southern Qi; one day he felt uneasy, resigned and hurried home. The doctor said the sweetness or bitterness of the stool would tell whether the illness was serious; he tasted it, found it sweet, and prayed to the Big Dipper to let him die in his father's place. Treat as a historical curiosity. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
+      "zh": "庾黔娄为南朝齐的县令，忽觉心惊，辞官赶回，医生说粪便味甜则病重，他亲尝，发觉味甜，便夜里向北斗祈求以身代父。可作历史典故看待。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "不孝"
+    ]
+  },
+  {
+    "id": "shi-bu-ke-yi-bu-hong",
+    "text": "士不可以不弘毅，任重而道远",
+    "pinyin": "shì bù kě yǐ bù hóng yì, rèn zhòng ér dào yuǎn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "high-aspirations",
+      "essay-favourites"
+    ],
+    "literal": "scholar · not · may · not · broad-minded and resolute, burden · heavy · and · road · far",
+    "natural": "A scholar must be broad-minded and resolute, for the burden is heavy and the road long",
+    "meaning": {
+      "en": "A person who aspires to serve must be wide-minded and firm, because the responsibility is heavy and the journey long.",
+      "zh": "有志之士必须胸怀宽广、意志坚定，因为责任重大、路途遥远。"
+    },
+    "equivalents": [
+      "The burden is heavy and the road long",
+      "great responsibility needs great resolve"
+    ],
+    "examples": [
+      {
+        "zh": "毕业典礼上，校长引用“士不可以不弘毅，任重而道远”勉励同学们。",
+        "en": "At the graduation ceremony, the headmaster quoted '士不可以不弘毅，任重而道远' to encourage the students."
+      },
+      {
+        "zh": "“士不可以不弘毅，任重而道远”，这是我们青年一代的责任。",
+        "en": "'士不可以不弘毅，任重而道远': this is the responsibility of our young generation."
+      }
+    ],
+    "origin": {
+      "source": "《论语》泰伯",
+      "story": {
+        "en": "Zengzi said: 'A scholar must be broad-minded and resolute, for his burden is heavy and his road long. He takes humaneness as his burden: is it not heavy? Only with death does it end: is it not long?'",
+        "zh": "《论语·泰伯》：曾子曰：“士不可以不弘毅，任重而道远。仁以为己任，不亦重乎？死而后已，不亦远乎？”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the Analects; formal, often used in speeches and essays about responsibility.",
+      "zh": "《论语》引文，书面语，常用于谈责任与使命的讲话和作文。"
+    },
+    "synonyms": [
+      "任重道远",
+      "责无旁贷"
+    ],
+    "antonyms": [
+      "不负责任"
+    ]
+  },
+  {
+    "id": "jun-zi-qiu-zhu-ji-xiao-ren-qiu-zhu-ren",
+    "text": "君子求诸己，小人求诸人",
+    "pinyin": "jūn zǐ qiú zhū jǐ, xiǎo rén qiú zhū rén",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "mistakes-and-correction",
+      "essay-favourites"
+    ],
+    "literal": "gentleman · seeks · in · oneself, petty man · seeks · in · others",
+    "natural": "The gentleman looks for the fault in himself, the petty man in others",
+    "meaning": {
+      "en": "A mature person looks within for the cause of problems and demands things of himself, while a petty person blames others.",
+      "zh": "君子遇事先从自己身上找原因、严格要求自己，小人则苛求别人、推卸责任。"
+    },
+    "equivalents": [
+      "Look to yourself, not others",
+      "the wise blame themselves first"
+    ],
+    "examples": [
+      {
+        "zh": "孔子说“君子求诸己，小人求诸人”，出了问题先反省自己。",
+        "en": "Confucius said '君子求诸己，小人求诸人': when something goes wrong, reflect on yourself first."
+      },
+      {
+        "zh": "他总是怪别人，真该读读“君子求诸己，小人求诸人”。",
+        "en": "He always blames others and should read '君子求诸己，小人求诸人'."
+      }
+    ],
+    "origin": {
+      "source": "《论语》卫灵公",
+      "story": {
+        "en": "Confucius said: 'The gentleman makes demands of himself; the petty man makes demands of others.'",
+        "zh": "《论语·卫灵公》：子曰：“君子求诸己，小人求诸人。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the Analects about self-reflection; 求 means 'demand/seek'. Used to advise someone to stop blaming others.",
+      "zh": "《论语》引文，讲自我反省，“求”指要求、探求。常用于劝人不要推卸责任。"
+    },
+    "synonyms": [
+      "严于律己",
+      "反求诸己"
+    ],
+    "antonyms": [
+      "推卸责任",
+      "怨天尤人"
+    ]
+  },
+  {
+    "id": "guo-ze-wu-dan-gai",
+    "text": "过则勿惮改",
+    "pinyin": "guò zé wù dàn gǎi",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "mistakes-and-correction",
+      "essay-favourites"
+    ],
+    "literal": "fault · then · do not · fear · mend",
+    "natural": "When you make a mistake, do not fear to correct it",
+    "meaning": {
+      "en": "When you have made a mistake, don't be afraid to correct it.",
+      "zh": "犯了错误，就不要害怕改正。"
+    },
+    "equivalents": [
+      "Don't be afraid to correct your mistakes",
+      "own up and put it right"
+    ],
+    "examples": [
+      {
+        "zh": "“过则勿惮改”，错了就改，没什么可丢脸的。",
+        "en": "'过则勿惮改': if you're wrong, correct it; there's nothing shameful in that."
+      },
+      {
+        "zh": "老师在黑板上写下“过则勿惮改”，教育全班同学。",
+        "en": "The teacher wrote '过则勿惮改' on the blackboard to teach the class."
+      }
+    ],
+    "origin": {
+      "source": "《论语》学而",
+      "story": {
+        "en": "Confucius said: 'Put loyalty and trustworthiness first, have no friends who are not as good as you, and when you make a mistake, do not fear to correct it.'",
+        "zh": "《论语·学而》：子曰：“主忠信。无友不如己者。过则勿惮改。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the Analects; 惮 (dàn) means 'to dread'. A common motto for pupils.",
+      "zh": "《论语》引文，“惮”读 dàn，意为害怕。是学生常用的格言。"
+    },
+    "synonyms": [
+      "知错能改",
+      "闻过则喜"
+    ],
+    "antonyms": [
+      "讳疾忌医",
+      "文过饰非"
+    ]
+  },
+  {
+    "id": "guo-er-bu-gai-shi-wei-guo-yi",
+    "text": "过而不改，是谓过矣",
+    "pinyin": "guò ér bù gǎi, shì wèi guò yǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "mistakes-and-correction",
+      "essay-favourites"
+    ],
+    "literal": "err · yet · not · amend, this · is called · error · indeed",
+    "natural": "To err and not to amend: that is a real error",
+    "meaning": {
+      "en": "Making a mistake is not the real fault; failing to correct it is.",
+      "zh": "犯错本身不算真正的过错，知错不改才是真正的错。"
+    },
+    "equivalents": [
+      "The real mistake is not correcting it",
+      "a fault uncorrected is a true fault"
+    ],
+    "examples": [
+      {
+        "zh": "“过而不改，是谓过矣”，只有不改才是真正的错误。",
+        "en": "'过而不改，是谓过矣': only failing to mend it is the real mistake."
+      },
+      {
+        "zh": "他明知有误却不改，正应了“过而不改，是谓过矣”。",
+        "en": "He knew it was wrong yet did not change it, just as '过而不改，是谓过矣' says."
+      }
+    ],
+    "origin": {
+      "source": "《论语》卫灵公",
+      "story": {
+        "en": "Confucius said: 'To make a mistake and not to correct it: that is what we call a mistake.'",
+        "zh": "《论语·卫灵公》：子曰：“过而不改，是谓过矣。”"
+      }
+    },
+    "usage": {
+      "en": "A quotation from the Analects; used to criticise someone who persists in doing wrong. Shorter form 过而不改.",
+      "zh": "《论语》引文，常用于批评明知有错仍不改正的人。"
+    },
+    "synonyms": [
+      "知错不改",
+      "一错再错"
+    ],
+    "antonyms": [
+      "知过必改",
+      "改过自新"
+    ]
+  },
+  {
+    "id": "ze-qi-shan-zhe-er-cong",
+    "text": "择其善者而从之，其不善者而改之",
+    "pinyin": "zé qí shàn zhě ér cóng zhī, qí bù shàn zhě ér gǎi zhī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "apprenticeship-and-learning",
+      "mistakes-and-correction"
+    ],
+    "literal": "choose · their · good · ones · and · follow · them, their · not · good · ones · and · correct · them",
+    "natural": "pick out their good points and follow them; see their bad points and correct them in yourself",
+    "meaning": {
+      "en": "Learn from the strengths of others and correct in yourself the faults you see in them.",
+      "zh": "学习别人的优点，并从别人的缺点中反省，改正自己。"
+    },
+    "equivalents": [
+      "learn from others' strengths and avoid their faults",
+      "take the best, mend the rest"
+    ],
+    "examples": [
+      {
+        "zh": "“择其善者而从之，其不善者而改之”，向身边的人学习，是进步的捷径。",
+        "en": "'择其善者而从之，其不善者而改之': learning from those around us is the shortcut to progress."
+      },
+      {
+        "zh": "他读了“择其善者而从之，其不善者而改之”，开始注意同事的优点。",
+        "en": "After reading '择其善者而从之，其不善者而改之', he began to notice his colleagues' strengths."
+      }
+    ],
+    "origin": {
+      "source": "《论语》述而",
+      "story": {
+        "en": "Confucius said: 'When three people walk together, one of them will surely be my teacher; I pick out their good points and follow them, and their faults I correct in myself.'",
+        "zh": "《论语·述而》：子曰：“三人行，必有我师焉。择其善者而从之，其不善者而改之。”"
+      }
+    },
+    "usage": {
+      "en": "The second half of the famous 三人行，必有我师焉; often quoted in education and self-improvement.",
+      "zh": "著名的“三人行，必有我师焉”的下半句，常见于教育和自我提升的语境。"
+    },
+    "synonyms": [
+      "见贤思齐",
+      "取长补短"
+    ],
+    "antonyms": [
+      "固步自封"
+    ]
+  },
+  {
+    "id": "zhi-zu-bu-ru-zhi-zhi-bu-dai",
+    "text": "知足不辱，知止不殆",
+    "pinyin": "zhī zú bù rǔ, zhī zhǐ bù dài",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "contentment-and-simplicity",
+      "essay-favourites"
+    ],
+    "literal": "know · enough · not · disgraced, know · when to stop · not · in danger",
+    "natural": "Be content and you will not be disgraced; know when to stop and you will not be in danger",
+    "meaning": {
+      "en": "If you know what is enough you will avoid disgrace, and if you know when to stop you will avoid danger.",
+      "zh": "懂得满足就不会遭受屈辱，懂得适可而止就不会陷入危险。"
+    },
+    "equivalents": [
+      "Know when to stop",
+      "contentment keeps one safe"
+    ],
+    "examples": [
+      {
+        "zh": "“知足不辱，知止不殆”，赚钱够用就好，不必一味贪多。",
+        "en": "'知足不辱，知止不殆': make enough to live on; there's no need to keep wanting more."
+      },
+      {
+        "zh": "面对诱惑，他想起了“知足不辱，知止不殆”。",
+        "en": "Facing temptation, he remembered '知足不辱，知止不殆'."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十四章",
+      "story": {
+        "en": "Laozi says in chapter 44 that excess love of things costs dearly and hoarding leads to heavy loss; whoever knows contentment avoids disgrace and whoever knows when to stop avoids danger, and so can last long.",
+        "zh": "《老子》第四十四章：“甚爱必大费，多藏必厚亡。知足不辱，知止不殆，可以长久。”"
+      }
+    },
+    "usage": {
+      "en": "Used to advise moderation in desire and to warn against greed.",
+      "zh": "用于劝人节制欲望、警惕贪心。"
+    },
+    "synonyms": [
+      "适可而止",
+      "知足常乐"
+    ],
+    "antonyms": [
+      "贪得无厌",
+      "得陇望蜀"
+    ]
+  },
+  {
+    "id": "tian-xia-nan-shi-bi-zuo-yu-yi",
+    "text": "天下难事，必作于易",
+    "pinyin": "tiān xià nán shì, bì zuò yú yì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "wisdom",
+      "essay-favourites"
+    ],
+    "literal": "world · difficult · things, must · begin · from · the easy",
+    "natural": "The world's difficult tasks must begin with what is easy",
+    "meaning": {
+      "en": "Every hard undertaking starts with a simple step, so tackle difficulties by starting with the easy parts.",
+      "zh": "天下的难事都是从容易的地方开始做起的，解决难题要从简单处入手。"
+    },
+    "equivalents": [
+      "Great things start from small steps",
+      "tackle difficulty by starting with the easy part"
+    ],
+    "examples": [
+      {
+        "zh": "“天下难事，必作于易”，再大的工程也要从一砖一瓦做起。",
+        "en": "'天下难事，必作于易': even the biggest project begins with a single brick."
+      },
+      {
+        "zh": "学习新技能时别怕，“天下难事，必作于易”。",
+        "en": "Don't be afraid of learning a new skill: '天下难事，必作于易'."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第六十三章",
+      "story": {
+        "en": "Laozi says in chapter 63: 'Deal with the difficult while it is still easy, and do great things while they are still small. The world's difficult things must begin as easy ones; the world's great things must begin as small ones.'",
+        "zh": "《老子》第六十三章：“图难于其易，为大于其细。天下难事，必作于易；天下大事，必作于细。”"
+      }
+    },
+    "usage": {
+      "en": "Paired with the next line 天下大事，必作于细; together they tell us to start from the easy and the small.",
+      "zh": "常与下句“天下大事，必作于细”连用。"
+    },
+    "synonyms": [
+      "千里之行，始于足下",
+      "由易到难"
+    ],
+    "antonyms": [
+      "好高骛远"
+    ]
+  },
+  {
+    "id": "tian-xia-da-shi-bi-zuo-yu-xi",
+    "text": "天下大事，必作于细",
+    "pinyin": "tiān xià dà shì, bì zuò yú xì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "wisdom",
+      "essay-favourites"
+    ],
+    "literal": "world · great · things, must · begin · from · the small",
+    "natural": "The world's great affairs must begin with small details",
+    "meaning": {
+      "en": "Great achievements are built from small details, so pay attention to the little things.",
+      "zh": "大事业都是从细小之处做起的，要重视细节。"
+    },
+    "equivalents": [
+      "Great things come from small details",
+      "take care of the details"
+    ],
+    "examples": [
+      {
+        "zh": "“天下大事，必作于细”，这个项目成败就在细节里。",
+        "en": "'天下大事，必作于细': the success of this project lies in the details."
+      },
+      {
+        "zh": "老师教导我们：“天下大事，必作于细”，字要写工整。",
+        "en": "The teacher told us: '天下大事，必作于细', so write neatly."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第六十三章",
+      "story": {
+        "en": "In the same chapter Laozi advises doing great things while they are still small, which is why the sage never needs to do anything 'great' directly, and so achieves greatness.",
+        "zh": "《老子》第六十三章：“图难于其易，为大于其细……是以圣人终不为大，故能成其大。”"
+      }
+    },
+    "usage": {
+      "en": "Paired with the previous line 天下难事，必作于易; widely quoted for attention to detail.",
+      "zh": "常与上句“天下难事，必作于易”连用，常用来强调注重细节。"
+    },
+    "synonyms": [
+      "千里之堤，溃于蚁穴",
+      "细节决定成败"
+    ],
+    "antonyms": [
+      "粗心大意"
+    ]
+  }
+]
