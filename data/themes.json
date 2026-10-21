@@ -950,6 +950,12 @@
     "group": "uses"
   },
   {
+    "id": "rare-idioms",
+    "en": "Rare & literary",
+    "zh": "罕用成语",
+    "group": "uses"
+  },
+  {
     "id": "luxury-and-extravagance",
     "en": "Luxury & extravagance",
     "zh": "奢华铺张",
@@ -986,6 +992,12 @@
     "group": "emotions"
   },
   {
+    "id": "homesickness",
+    "en": "Homesickness & nostalgia",
+    "zh": "思乡怀旧",
+    "group": "emotions"
+  },
+  {
     "id": "love-and-marriage",
     "en": "Love & marriage",
     "zh": "婚恋",
@@ -1004,6 +1016,18 @@
     "group": "relationships"
   },
   {
+    "id": "friendship",
+    "en": "Friendship",
+    "zh": "友情",
+    "group": "relationships"
+  },
+  {
+    "id": "farewells",
+    "en": "Farewells & parting",
+    "zh": "送别离别",
+    "group": "relationships"
+  },
+  {
     "id": "frugality-and-thrift",
     "en": "Frugality & thrift",
     "zh": "勤俭节约",
@@ -1013,6 +1037,12 @@
     "id": "weather-and-sky",
     "en": "Weather & sky",
     "zh": "天气天象",
+    "group": "nature"
+  },
+  {
+    "id": "landscapes",
+    "en": "Landscapes & scenery",
+    "zh": "山水风景",
     "group": "nature"
   }
 ]
