@@ -19,8 +19,9 @@ Every entry is a JSON object in one of the arrays in `data/entries/`.
   "examples": [{ "zh": "…画蛇添足…", "en": "…" }],   // at least one; must contain the expression
   "origin": {                        // optional
     "source": "《战国策·齐策二》",
-    "story": { "en": "…", "zh": "…" }
-  },
+    "story": { "en": "…", "zh": "…" },
+    "date": { "zh": "西汉 · 前1世纪（刘向编定）", "en": "Western Han, 1st c. BC (compiled by Liu Xiang)" }
+  },                                 // date = when the SOURCE was written/compiled: period, plus year when established
   "usage": { "en": "…", "zh": "…" }, // grammar role, tone, common pitfalls, register warnings
   "synonyms": ["多此一举"],          // by text; they link up automatically once added
   "antonyms": ["恰到好处"],

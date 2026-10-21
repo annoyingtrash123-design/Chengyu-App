@@ -197,7 +197,7 @@ button { cursor: pointer; }
 .example:first-of-type { border-top: none; }
 mark { background: var(--accent-soft); color: inherit; border-radius: 3px; padding: 0 2px; }
 .source { font-family: var(--hanzi); color: var(--gold); font-weight: 600; }
-.source-date { font-weight: 400; color: var(--muted, #888); font-size: 0.92em; }
+.source-date { font-family: var(--sans); font-weight: 400; color: var(--muted, #888); font-size: 0.92em; }
 .links { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 4px 0; }
 .links-title { font-size: 13px; color: var(--muted); width: 100%; }
 .xhy .hanzi-xl { font-size: 36px; }
