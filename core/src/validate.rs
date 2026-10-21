@@ -7,6 +7,9 @@ use crate::model::{reading_chars, Entry, Kind};
 use crate::pinyin;
 
 /// Characters that are often read in the neutral tone and may lack a tone mark.
+/// The only entries allowed below four characters.
+const STRATAGEM_EXCEPTIONS: [&str; 5] = ["美人计", "苦肉计", "连环计", "空城计", "反间计"];
+
 const NEUTRAL_OK: &str = "的了着过子么们吗呢吧啊甥笼儿卜芦狸巴虎得地头裳候睛尚腐驼神量袱袋股姥蟆婆妈爷奶哥姐弟妹叔舅娘爹乎服伙计实气思意亮快和匠拉家事傅公刀势匙友叭听呼咐咕唤喝嗦场婿宜帚当彩息情戚户掌朵毛涂烦爸甲盖眼碜稼窝笆索罕腾膊花识诉话道酬闹面食";
 
 #[derive(Debug, Default)]
@@ -93,8 +96,9 @@ pub fn check(dict: &Dictionary) -> Report {
             err.push(format!("{t}: id `{}` must be lowercase ascii letters, digits and dashes", e.id));
         }
         check_pinyin(e, err);
-        // House rule: no entries shorter than four characters.
-        if e.length() < 4 {
+        // House rule: no entries shorter than four characters — except the five
+        // three-character names of the 36 stratagems, so that set is complete.
+        if e.length() < 4 && !STRATAGEM_EXCEPTIONS.contains(&t.as_str()) {
             err.push(format!("{t}: entries must be at least four characters long"));
         }
         if !(1..=3).contains(&e.frequency) {

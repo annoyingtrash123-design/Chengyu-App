@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "wu-wei-er-wu-bu-wei",
+    "text": "无为而无不为",
+    "pinyin": "wú wéi ér wú bù wéi",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "adaptability"
+    ],
+    "literal": "do nothing · yet · nothing · not done",
+    "natural": "by not forcing, nothing is left undone",
+    "meaning": {
+      "en": "By not acting against the natural course of things, one ends up accomplishing everything.",
+      "zh": "顺应自然、不妄为，反而没有做不成的事。"
+    },
+    "equivalents": [
+      "by not forcing, everything gets done",
+      "less is more"
+    ],
+    "examples": [
+      {
+        "zh": "道家说无为而无不为，不是什么都不做，而是不强求。",
+        "en": "Daoists say that by not acting, nothing is left undone; this does not mean doing nothing but not forcing."
+      },
+      {
+        "zh": "好的管理者懂得无为而无不为，给团队足够空间。",
+        "en": "A good manager knows that by not interfering nothing is left undone, and gives the team room."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第三十七章",
+      "story": {
+        "en": "Laozi, chapter 37: 'The Way always does nothing, and yet nothing is left undone' (道常无为而无不为).",
+        "zh": "《老子》第三十七章：“道常无为而无不为。”"
+      }
+    },
+    "usage": {
+      "en": "A central Daoist paradox; 无为 means acting in accordance with nature, not 'doing nothing'. Often misunderstood as laziness. Literary.",
+      "zh": "道家核心命题；“无为”指顺应自然而不妄为，并非什么都不做，常被误解为懒散。书面语。"
+    },
+    "synonyms": [
+      "无为而治",
+      "顺其自然"
+    ],
+    "antonyms": [
+      "强求妄为",
+      "揠苗助长"
+    ]
+  },
+  {
+    "id": "bu-yan-zhi-jiao",
+    "text": "不言之教",
+    "pinyin": "bù yán zhī jiào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "effective-teaching-methods"
+    ],
+    "literal": "not · speak · of · teaching",
+    "natural": "teaching without words",
+    "meaning": {
+      "en": "Teaching by example and quiet influence rather than by words.",
+      "zh": "用行动和潜移默化的影响来教导，而不靠言语。"
+    },
+    "equivalents": [
+      "teach by example",
+      "silent instruction"
+    ],
+    "examples": [
+      {
+        "zh": "父亲从不说教，他用行动做不言之教。",
+        "en": "Father never lectured; he taught by example."
+      },
+      {
+        "zh": "好老师的人格本身就是一种不言之教。",
+        "en": "A good teacher's character is itself a teaching without words."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第二章",
+      "story": {
+        "en": "Laozi, chapter 2: 'The sage manages affairs without acting and carries out the teaching without words' (行不言之教).",
+        "zh": "《老子》第二章：“是以圣人处无为之事，行不言之教。”"
+      }
+    },
+    "usage": {
+      "en": "A Daoist ideal of teaching by example; compare 言传身教 which involves both words and example. Often about parents and teachers. Literary.",
+      "zh": "道家主张以身作则；与“言传身教”不同，后者兼用言语。多用于父母、师长。书面语。"
+    },
+    "synonyms": [
+      "身教胜于言教",
+      "以身作则"
+    ],
+    "antonyms": [
+      "耳提面命",
+      "谆谆告诫"
+    ]
+  },
+  {
+    "id": "wei-er-bu-zheng",
+    "text": "为而不争",
+    "pinyin": "wéi ér bù zhēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "act · yet · not · contend",
+    "natural": "act without contending",
+    "meaning": {
+      "en": "To do one's best for others without competing for credit or advantage.",
+      "zh": "尽力做事、有所作为，却不与人争名夺利。"
+    },
+    "equivalents": [
+      "work without contending",
+      "achieve without competing"
+    ],
+    "examples": [
+      {
+        "zh": "真正的好领导为而不争，把功劳让给团队。",
+        "en": "A true leader acts without contending and hands the credit to the team."
+      },
+      {
+        "zh": "她默默耕耘，为而不争。",
+        "en": "She worked quietly without competing for recognition."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第八十一章",
+      "story": {
+        "en": "The last line of Laozi's book: 'The way of the sage is to act and not to contend' (圣人之道，为而不争).",
+        "zh": "《老子》第八十一章末句：“圣人之道，为而不争。”"
+      }
+    },
+    "usage": {
+      "en": "A Daoist virtue. Not 'does nothing and does not compete' but 'does a lot without struggle'. Literary.",
+      "zh": "道家美德：不是无所作为，而是尽力而为又不争功。书面语。"
+    },
+    "synonyms": [
+      "不争之德",
+      "功成不居"
+    ],
+    "antonyms": [
+      "争名夺利",
+      "争功诿过"
+    ]
+  },
+  {
+    "id": "gong-cheng-bu-ju",
+    "text": "功成不居",
+    "pinyin": "gōng chéng bù jū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "success · achieved · not · claim",
+    "natural": "achieve and not claim credit",
+    "meaning": {
+      "en": "To accomplish great things and yet not take credit for them.",
+      "zh": "事业成功后不居功自傲。"
+    },
+    "equivalents": [
+      "succeed without claiming credit",
+      "modest in achievement"
+    ],
+    "examples": [
+      {
+        "zh": "他功成不居，把荣誉全部让给了同事。",
+        "en": "He took no credit for his success and gave all the honours to his colleagues."
+      },
+      {
+        "zh": "功成不居，这才是大家风范。",
+        "en": "Not claiming credit for success is the mark of a great person."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第二章",
+      "story": {
+        "en": "Laozi, chapter 2: 'Works are done and one does not dwell on them; because one does not dwell, they do not leave' (功成而弗居，夫唯弗居，是以不去).",
+        "zh": "《老子》第二章：“功成而弗居。夫唯弗居，是以不去。”"
+      }
+    },
+    "usage": {
+      "en": "A Daoist virtue; 居 means 'dwell on, claim'. Also found in the pair 功成身退. Literary and praising.",
+      "zh": "道家美德，“居”意为占有、自居；常与“功成身退”并提。书面语，褒义。"
+    },
+    "synonyms": [
+      "功成身退",
+      "谦虚谨慎"
+    ],
+    "antonyms": [
+      "居功自傲",
+      "邀功请赏"
+    ]
+  },
+  {
+    "id": "da-ying-ruo-chong",
+    "text": "大盈若冲",
+    "pinyin": "dà yíng ruò chōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "great · full · like · empty",
+    "natural": "great fullness seems empty",
+    "meaning": {
+      "en": "The truly abundant often looks empty: people of real depth appear modest.",
+      "zh": "最充盈的东西看起来像是空虚的，比喻真正有学识有才能的人谦虚不露。"
+    },
+    "equivalents": [
+      "still waters run deep",
+      "the truly rich seem modest"
+    ],
+    "examples": [
+      {
+        "zh": "大盈若冲，学问越深的人往往越谦虚。",
+        "en": "Great fullness seems empty: the deeper one's learning, the more modest one tends to be."
+      },
+      {
+        "zh": "他谈吐低调，颇有大盈若冲之风。",
+        "en": "He is low-key in conversation, with the air of one whose fullness seems empty."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十五章",
+      "story": {
+        "en": "Laozi, chapter 45: 'Great perfection seems lacking, yet its use never fails; great fullness seems empty, yet its use never ends' (大成若缺…大盈若冲).",
+        "zh": "《老子》第四十五章：“大成若缺，其用不弊；大盈若冲，其用不穷。”"
+      }
+    },
+    "usage": {
+      "en": "From a passage listing paradoxes (大成若缺, 大盈若冲, 大直若屈…). 冲 here is chōng ('empty'), not 'rush'. Literary.",
+      "zh": "出自《老子》一连串的悖论句（大成若缺、大盈若冲、大直若屈等）。“冲”读chōng，意为虚。书面语。"
+    },
+    "synonyms": [
+      "大智若愚",
+      "大巧若拙"
+    ],
+    "antonyms": [
+      "骄傲自满",
+      "半瓶晃荡"
+    ]
+  },
+  {
+    "id": "da-bian-ruo-ne",
+    "text": "大辩若讷",
+    "pinyin": "dà biàn ruò nè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "poor-speech-and-silence"
+    ],
+    "literal": "great · eloquence · like · slow of speech",
+    "natural": "great eloquence seems halting",
+    "meaning": {
+      "en": "A truly eloquent person does not show off and may even seem slow of speech.",
+      "zh": "真正善辩的人不爱炫耀口才，反而显得木讷。"
+    },
+    "equivalents": [
+      "real eloquence seems tongue-tied",
+      "the best speakers don't show off"
+    ],
+    "examples": [
+      {
+        "zh": "大辩若讷，他开会时话不多，一开口却切中要害。",
+        "en": "Great eloquence seems halting: he spoke little in meetings but hit the point when he did."
+      },
+      {
+        "zh": "人们常说大辩若讷，真正的高手不会滔滔不绝。",
+        "en": "As the saying goes, real eloquence seems halting; true masters don't talk without stopping."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十五章",
+      "story": {
+        "en": "Laozi, chapter 45: 'Great straightness seems bent, great skill seems clumsy, great eloquence seems halting' (大直若屈，大巧若拙，大辩若讷).",
+        "zh": "《老子》第四十五章：“大直若屈，大巧若拙，大辩若讷。”"
+      }
+    },
+    "usage": {
+      "en": "讷 is nè (slow in speech). It describes calm and reserved speakers rather than a lack of ability. Literary.",
+      "zh": "“讷”读nè，指说话迟钝；形容沉稳内敛，不是缺乏能力。书面语。"
+    },
+    "synonyms": [
+      "大智若愚",
+      "大巧若拙"
+    ],
+    "antonyms": [
+      "夸夸其谈",
+      "能言善辩"
+    ]
+  },
+  {
+    "id": "xu-shi-sheng-bai",
+    "text": "虚室生白",
+    "pinyin": "xū shì shēng bái",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "mental-clarity"
+    ],
+    "literal": "empty · room · produce · light",
+    "natural": "an empty room fills with light",
+    "meaning": {
+      "en": "When the mind is empty and still, wisdom and clarity arise by themselves.",
+      "zh": "心中空明虚静，智慧自然生出。"
+    },
+    "equivalents": [
+      "a still mind brings clarity",
+      "emptiness lets in light"
+    ],
+    "examples": [
+      {
+        "zh": "静坐久了，才懂得什么叫虚室生白。",
+        "en": "After sitting quietly for a long time, you come to know what 'an empty room fills with light' means."
+      },
+      {
+        "zh": "放下杂念，虚室生白，思路自然清晰。",
+        "en": "Let go of stray thoughts and the mind clears: the empty room fills with light."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·人间世》",
+      "story": {
+        "en": "Zhuangzi, 'In the World of Men': 'Look at that empty space, how the empty room gives birth to light' (瞻彼阕者，虚室生白，吉祥止止).",
+        "zh": "《庄子·人间世》：“瞻彼阕者，虚室生白，吉祥止止。”"
+      }
+    },
+    "usage": {
+      "en": "Literally a bare room is bright by itself; metaphorically a mind free of clutter. Literary and meditative.",
+      "zh": "字面指空屋自然明亮；喻心无杂念则明。书面语，常与静坐、修心有关。"
+    },
+    "synonyms": [
+      "清心寡欲",
+      "澄心静虑"
+    ],
+    "antonyms": [
+      "心浮气躁",
+      "杂念丛生"
+    ]
+  },
+  {
+    "id": "wu-wo-liang-wang",
+    "text": "物我两忘",
+    "pinyin": "wù wǒ liǎng wàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "mental-clarity",
+      "distracted-attention"
+    ],
+    "literal": "things · self · both · forget",
+    "natural": "forget both the world and self",
+    "meaning": {
+      "en": "To be so absorbed in something that one forgets both the outside world and oneself.",
+      "zh": "沉浸在某种境界中，忘记了外物和自己。"
+    },
+    "equivalents": [
+      "lose oneself completely",
+      "forget both self and surroundings"
+    ],
+    "examples": [
+      {
+        "zh": "她弹琴时物我两忘，仿佛置身另一个世界。",
+        "en": "When she plays the piano she forgets both herself and the world, as if in another world."
+      },
+      {
+        "zh": "登上山顶，眼前云海翻涌，我几乎物我两忘。",
+        "en": "On the summit, with the sea of clouds below, I almost forgot myself and everything else."
+      }
+    ],
+    "usage": {
+      "en": "A Daoist state of unity of self and things (compare Zhuangzi's butterfly dream); today used for deep absorption in art or nature. Literary.",
+      "zh": "道家物我合一的境界（可参见庄周梦蝶）；今多形容沉浸于艺术、自然中。书面语。"
+    },
+    "synonyms": [
+      "忘我",
+      "浑然忘我"
+    ],
+    "antonyms": [
+      "心不在焉",
+      "斤斤计较"
+    ]
+  },
+  {
+    "id": "hao-liang-zhi-le",
+    "text": "濠梁之乐",
+    "pinyin": "háo liáng zhī lè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "stories",
+      "friendship"
+    ],
+    "literal": "Hao · bridge · of · joy",
+    "natural": "the joy on the bridge over the Hao",
+    "meaning": {
+      "en": "The pleasure of carefree enjoyment of nature; also an allusion to a friendly debate on knowing others' feelings.",
+      "zh": "指悠然自得地观赏自然的乐趣，也用作辩论中相互理解、知心的典故。"
+    },
+    "equivalents": [
+      "the carefree joy of nature",
+      "enjoyment like Zhuangzi's by the river"
+    ],
+    "examples": [
+      {
+        "zh": "周末到郊外垂钓，也算享受一回濠梁之乐。",
+        "en": "Fishing in the countryside at the weekend is a bit like enjoying Zhuangzi's joy by the river."
+      },
+      {
+        "zh": "两位老友在湖边谈古论今，颇有濠梁之乐。",
+        "en": "The two old friends chatted about the past by the lake, rather like Zhuangzi and Huizi by the Hao."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·秋水》",
+      "story": {
+        "en": "Zhuangzi and Huizi were strolling on the bridge over the Hao River, and Zhuangzi said the fish were happy; Huizi asked how he could know. Zhuangzi replied: 'You are not me, how do you know I don't know the fish's joy?'",
+        "zh": "《庄子·秋水》载，庄子与惠子在濠水桥上游玩，庄子说“鱼之乐也”，惠子问“子非鱼，安知鱼之乐”，二人由此辩论。"
+      }
+    },
+    "usage": {
+      "en": "濠 is háo, the name of a river. Often used for the contented pleasure of a wise and relaxed outlook. Literary.",
+      "zh": "“濠”读háo，水名。常指悠然自得的乐趣。书面语。"
+    },
+    "synonyms": [
+      "濠濮间想",
+      "自得其乐"
+    ],
+    "antonyms": [
+      "愁眉苦脸",
+      "忧心忡忡"
+    ]
+  },
+  {
+    "id": "gu-pen-er-ge",
+    "text": "鼓盆而歌",
+    "pinyin": "gǔ pén ér gē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "stories",
+      "mental-clarity"
+    ],
+    "literal": "beat · basin · and · sing",
+    "natural": "beat a basin and sing",
+    "meaning": {
+      "en": "To sing and drum on a basin after a wife's death, accepting death as natural; a Daoist view of life and death.",
+      "zh": "妻子死后敲着盆子唱歌，指对死亡的达观看法。"
+    },
+    "equivalents": [
+      "take death with calm",
+      "sing in the face of death"
+    ],
+    "examples": [
+      {
+        "zh": "庄子丧妻后鼓盆而歌，让惠子大为不解。",
+        "en": "After his wife died Zhuangzi beat a basin and sang, which baffled Huizi."
+      },
+      {
+        "zh": "他看淡生死，颇有鼓盆而歌的豁达。",
+        "en": "He takes life and death lightly, with a Zhuangzi-like ease."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·至乐》",
+      "story": {
+        "en": "Zhuangzi, 'Perfect Happiness': when Zhuangzi's wife died, Huizi came to mourn and found him squatting and drumming on a basin and singing. Zhuangzi explained that life and death are natural changes, like the four seasons.",
+        "zh": "《庄子·至乐》：庄子妻死，惠子前往吊唁，见庄子“箕踞鼓盆而歌”，庄子说生死如四季运行，是自然变化。"
+      }
+    },
+    "usage": {
+      "en": "Allusion to Zhuangzi's reaction to his wife's death; it can mean philosophical acceptance, but is also used about a lack of mourning (sometimes with criticism). 盆 means a clay basin. Literary.",
+      "zh": "典出庄子丧妻；既可指豁达，也有人用来指不悲痛（略带批评）。书面语。"
+    },
+    "synonyms": [
+      "看淡生死",
+      "庄周鼓盆"
+    ],
+    "antonyms": [
+      "痛不欲生",
+      "悲痛欲绝"
+    ]
+  },
+  {
+    "id": "xiang-wang-jiang-hu",
+    "text": "相忘江湖",
+    "pinyin": "xiāng wàng jiāng hú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "freedom",
+      "farewells"
+    ],
+    "literal": "each other · forget · rivers · lakes",
+    "natural": "forget each other in the rivers and lakes",
+    "meaning": {
+      "en": "To live freely and leave each other be; also, to part and go separate ways without ties.",
+      "zh": "彼此忘却，各自在江湖中自由自在；也指分手后互不牵挂。"
+    },
+    "equivalents": [
+      "each goes their own way",
+      "part and forget each other"
+    ],
+    "examples": [
+      {
+        "zh": "与其互相纠缠，不如相忘江湖。",
+        "en": "Rather than getting tangled up in each other, better to part and forget."
+      },
+      {
+        "zh": "他们分手后相忘江湖，各自安好。",
+        "en": "After breaking up they went their own ways and each did well."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·大宗师》",
+      "story": {
+        "en": "Zhuangzi: when the springs dry up, fish huddle on dry land and moisten each other with spit, but this is not as good as forgetting each other in rivers and lakes (相濡以沫，不如相忘于江湖).",
+        "zh": "《庄子·大宗师》：“泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。”"
+      }
+    },
+    "usage": {
+      "en": "Often in the longer form 相濡以沫，不如相忘于江湖: 'rather than moisten each other with spit, forget one another in the rivers'. Used for graceful partings; literary.",
+      "zh": "常引全句“相濡以沫，不如相忘于江湖”，多形容洒脱地分别。书面语。"
+    },
+    "synonyms": [
+      "各奔东西",
+      "两不相欠"
+    ],
+    "antonyms": [
+      "难舍难分",
+      "藕断丝连"
+    ]
+  },
+  {
+    "id": "wu-he-you-zhi-xiang",
+    "text": "无何有之乡",
+    "pinyin": "wú hé yǒu zhī xiāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends",
+      "freedom"
+    ],
+    "literal": "not · what · exists · of · land",
+    "natural": "the land of nothing in particular",
+    "meaning": {
+      "en": "A utopian place of utter emptiness and freedom, where nothing exists; used for a quiet, undisturbed place.",
+      "zh": "什么都没有的地方，比喻虚无的理想之境，也指宁静无扰的地方。"
+    },
+    "equivalents": [
+      "a land of nothingness",
+      "utopia of utter quiet"
+    ],
+    "examples": [
+      {
+        "zh": "他想逃离城市，去一个无何有之乡。",
+        "en": "He wants to flee the city for a place of utter nothingness."
+      },
+      {
+        "zh": "醉后入梦，仿佛来到了无何有之乡。",
+        "en": "In his drunken dream he seemed to reach the land of nothing at all."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·逍遥游》",
+      "story": {
+        "en": "Zhuangzi, 'Free and Easy Wandering': 'Why not plant it in the land of nothing in particular, the wide-open wilderness?' (何不树之于无何有之乡，广莫之野).",
+        "zh": "《庄子·逍遥游》：“今子有大树，患其无用，何不树之于无何有之乡，广莫之野。”"
+      }
+    },
+    "usage": {
+      "en": "A five-character Zhuangzi phrase, used as a noun; written 无何有之乡 and read wú hé yǒu zhī xiāng. Literary, with an imaginative or humorous tone.",
+      "zh": "《庄子》中的五字短语，用作名词。书面语，带想象或幽默色彩。"
+    },
+    "synonyms": [
+      "世外桃源",
+      "乌有之乡"
+    ],
+    "antonyms": [
+      "人间烟火",
+      "红尘俗世"
+    ]
+  },
+  {
+    "id": "de-dao-cheng-xian",
+    "text": "得道成仙",
+    "pinyin": "dé dào chéng xiān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "attain · Way · become · immortal",
+    "natural": "attain the Way and become an immortal",
+    "meaning": {
+      "en": "To attain the Way through cultivation and become an immortal.",
+      "zh": "通过修炼领悟大道，成为神仙。"
+    },
+    "equivalents": [
+      "attain immortality",
+      "become an immortal"
+    ],
+    "examples": [
+      {
+        "zh": "传说他在山中修炼多年，终于得道成仙。",
+        "en": "Legend says he practised in the mountains for years and finally attained immortality."
+      },
+      {
+        "zh": "小说里主人公历经磨难，最终得道成仙。",
+        "en": "In the novel the hero goes through hardships and finally becomes an immortal."
+      }
+    ],
+    "usage": {
+      "en": "From Daoist religion; common in fantasy fiction. Also used humorously for someone who seems to have no worldly desires. Neutral.",
+      "zh": "出自道教信仰，常见于仙侠小说；也可调侃某人超凡脱俗。"
+    },
+    "synonyms": [
+      "羽化登仙",
+      "白日飞升"
+    ],
+    "antonyms": [
+      "凡夫俗子",
+      "堕入凡尘"
+    ]
+  },
+  {
+    "id": "bai-ri-fei-sheng",
+    "text": "白日飞升",
+    "pinyin": "bái rì fēi shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "broad · day · fly · ascend",
+    "natural": "ascend to heaven in broad daylight",
+    "meaning": {
+      "en": "To rise to heaven in broad daylight after cultivation, as Daoist immortals are said to do.",
+      "zh": "道教称修炼成功后在光天化日之下飞升成仙。"
+    },
+    "equivalents": [
+      "ascend in broad daylight",
+      "rise to heaven"
+    ],
+    "examples": [
+      {
+        "zh": "传说那位道士就是在这座山上白日飞升的。",
+        "en": "Legend says the Daoist ascended to heaven in broad daylight on this mountain."
+      },
+      {
+        "zh": "他加班加点还想白日飞升，真是做梦。",
+        "en": "Working overtime and expecting to ascend like an immortal is just a dream."
+      }
+    ],
+    "usage": {
+      "en": "Daoist religious and fantasy-fiction term; today often used ironically about expecting unrealistic success. Literary.",
+      "zh": "道教及仙侠小说用语；今常反语讽刺不切实际的幻想。书面语。"
+    },
+    "synonyms": [
+      "得道成仙",
+      "羽化登仙"
+    ],
+    "antonyms": [
+      "堕入凡尘",
+      "入土为安"
+    ]
+  },
+  {
+    "id": "chang-sheng-jiu-shi",
+    "text": "长生久视",
+    "pinyin": "cháng shēng jiǔ shì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "medical-skill-and-healing"
+    ],
+    "literal": "long · life · lasting · seeing",
+    "natural": "long life and lasting vision",
+    "meaning": {
+      "en": "To live long and remain healthy; the Daoist ideal of lasting life.",
+      "zh": "长寿不衰，健康长久。"
+    },
+    "equivalents": [
+      "live long and well",
+      "long life in good health"
+    ],
+    "examples": [
+      {
+        "zh": "道教养生讲究长生久视之道。",
+        "en": "Daoist health practice aims for the way of long life and lasting vision."
+      },
+      {
+        "zh": "他退休后坚持打太极，希望能长生久视。",
+        "en": "After retirement he keeps up tai chi, hoping to live long and healthy."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第五十九章",
+      "story": {
+        "en": "Laozi, chapter 59: 'This is called deep roots and firm base, the way of long life and lasting vision' (是谓深根固柢，长生久视之道).",
+        "zh": "《老子》第五十九章：“是谓深根固柢，长生久视之道。”"
+      }
+    },
+    "usage": {
+      "en": "Here 视 means 'to exist, to live', not 'see'. Also appears on the Tang empress Wu's 长生久视 era name (700–701 CE). Literary.",
+      "zh": "这里“视”意为“存活”，不是“看”。武周还曾以此作年号（700至701年）。书面语。"
+    },
+    "synonyms": [
+      "延年益寿",
+      "长命百岁"
+    ],
+    "antonyms": [
+      "短命夭折",
+      "英年早逝"
+    ]
+  },
+  {
+    "id": "hu-xi-tu-na",
+    "text": "呼吸吐纳",
+    "pinyin": "hū xī tǔ nà",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "body"
+    ],
+    "literal": "breathe · inhale · exhale · take in",
+    "natural": "breathing exercises",
+    "meaning": {
+      "en": "Daoist breathing exercises: exhaling stale air and inhaling fresh air to nurture health.",
+      "zh": "道家的养生方法，通过吐出浊气、吸入清气来调养身体。"
+    },
+    "equivalents": [
+      "breathing exercises",
+      "qigong breathing"
+    ],
+    "examples": [
+      {
+        "zh": "清晨公园里，老人们在呼吸吐纳。",
+        "en": "In the park at dawn, the elderly are doing breathing exercises."
+      },
+      {
+        "zh": "他练太极多年，讲究呼吸吐纳。",
+        "en": "He has practised tai chi for years and attaches importance to breathing exercises."
+      }
+    ],
+    "usage": {
+      "en": "A term from Daoist health practice, close to qigong; literary or neutral and also used in modern wellness talk.",
+      "zh": "源自道家养生法，与气功相近；书面或中性，现代养生话题中也常用。"
+    },
+    "synonyms": [
+      "吐故纳新",
+      "养气"
+    ],
+    "antonyms": [
+      "闭气",
+      "屏息"
+    ]
+  },
+  {
+    "id": "yin-yang-wu-xing",
+    "text": "阴阳五行",
+    "pinyin": "yīn yáng wǔ xíng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "modern-applications-of-classical-ideas"
+    ],
+    "literal": "yin · yang · five · phases",
+    "natural": "yin-yang and the five phases",
+    "meaning": {
+      "en": "The ancient Chinese theory that the universe works through two opposing forces (yin and yang) and five elements (metal, wood, water, fire, earth).",
+      "zh": "古代中国解释宇宙的理论：阴阳两种对立的力量和金木水火土五种元素相生相克。"
+    },
+    "equivalents": [
+      "yin-yang and the five elements",
+      "the yin–yang and five-phases theory"
+    ],
+    "examples": [
+      {
+        "zh": "中医讲究阴阳五行，调和身体的平衡。",
+        "en": "Traditional Chinese medicine speaks of yin-yang and the five phases to balance the body."
+      },
+      {
+        "zh": "他对阴阳五行学说很感兴趣。",
+        "en": "He is very interested in the theory of yin-yang and the five phases."
+      }
+    ],
+    "usage": {
+      "en": "The foundation of Chinese cosmology, medicine and fengshui. A phrase rather than a chengyu; used neutrally in discussion of culture or sometimes critically as 'superstition'.",
+      "zh": "中国古代宇宙观、中医和风水的基础。属词组而非成语；多用于文化讨论，有时带“迷信”的评价。"
+    },
+    "synonyms": [
+      "五行八卦"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "qi-he-shang-yang-zhou",
+    "text": "骑鹤上扬州",
+    "pinyin": "qí hè shàng yáng zhōu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "luxury-and-extravagance",
+      "stories"
+    ],
+    "literal": "ride · crane · go up to · Yangzhou",
+    "natural": "ride a crane to Yangzhou",
+    "meaning": {
+      "en": "To want all the good things at once: money, rank and immortality; greed for everything.",
+      "zh": "既要有钱，又要做官，还要成仙，比喻贪心不足，想占尽一切好处。"
+    },
+    "equivalents": [
+      "to want it all",
+      "have your cake and eat it"
+    ],
+    "examples": [
+      {
+        "zh": "又想轻松又想高薪，你这是想骑鹤上扬州。",
+        "en": "You want an easy job and a high salary: you want it all."
+      },
+      {
+        "zh": "“腰缠十万贯，骑鹤上扬州”，是古人对富贵的幻想。",
+        "en": "'With a hundred thousand strings of cash, riding a crane to Yangzhou' was the old fantasy of wealth."
+      }
+    ],
+    "origin": {
+      "source": "殷芸《小说》",
+      "story": {
+        "en": "In a story attributed to Yin Yun's Xiaoshuo, several people state their wishes: one wants to be a governor of Yangzhou, one wants wealth, one wants to be an immortal and ride a crane; the last wants all three: 'with a hundred thousand strings of cash, riding a crane to Yangzhou'.",
+        "zh": "殷芸《小说》载，几人各言其愿：有人愿做扬州刺史，有人愿多财，有人愿骑鹤成仙，一人说“腰缠十万贯，骑鹤上扬州”，兼有三者。"
+      }
+    },
+    "usage": {
+      "en": "From a tale of four people stating their wishes. A modern form of 腰缠十万贯，骑鹤上扬州. 鹤 is hè. Casual-literary, with a gently mocking tone.",
+      "zh": "典出四人各言其志的故事；全句为“腰缠十万贯，骑鹤上扬州”。“鹤”读hè。带轻微嘲讽，口语、书面皆可。"
+    },
+    "synonyms": [
+      "贪得无厌",
+      "得陇望蜀"
+    ],
+    "antonyms": [
+      "知足常乐",
+      "安分守己"
+    ]
+  },
+  {
+    "id": "shen-xian-juan-lu",
+    "text": "神仙眷侣",
+    "pinyin": "shén xiān juàn lǚ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "神仙伴侣"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "love-and-marriage",
+      "wedding-wishes",
+      "festive-greetings"
+    ],
+    "literal": "immortal · spirit · beloved · partner",
+    "natural": "an immortal couple",
+    "meaning": {
+      "en": "A couple so happy and well matched that they seem like immortals.",
+      "zh": "形容夫妻恩爱美满、令人羡慕，像神仙一样。"
+    },
+    "equivalents": [
+      "a couple like immortals",
+      "a fairy-tale couple"
+    ],
+    "examples": [
+      {
+        "zh": "这对明星夫妇被称为神仙眷侣。",
+        "en": "The star couple were called an immortal couple."
+      },
+      {
+        "zh": "祝你们新婚快乐，做一对神仙眷侣！",
+        "en": "Congratulations on your marriage, and may you be a fairy-tale couple!"
+      }
+    ],
+    "usage": {
+      "en": "Used both as praise and in wedding blessings. 侣 is lǚ. Casual or neutral.",
+      "zh": "可作赞美，也可作新婚祝福。“侣”读lǚ。口语或中性。"
+    },
+    "synonyms": [
+      "天作之合",
+      "琴瑟和鸣"
+    ],
+    "antonyms": [
+      "同床异梦",
+      "貌合神离"
+    ]
+  },
+  {
+    "id": "tian-di-bu-ren",
+    "text": "天地不仁",
+    "pinyin": "tiān dì bù rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "danger"
+    ],
+    "literal": "heaven · earth · not · benevolent",
+    "natural": "heaven and earth are not kind",
+    "meaning": {
+      "en": "Nature treats all things impartially, without favour or sentiment; also, fate is pitiless.",
+      "zh": "天地对万物一视同仁，没有偏爱；也指命运无情。"
+    },
+    "equivalents": [
+      "nature is impartial",
+      "heaven shows no mercy"
+    ],
+    "examples": [
+      {
+        "zh": "天地不仁，灾难面前人人平等。",
+        "en": "Heaven and earth are not kind: in disaster everyone is equal."
+      },
+      {
+        "zh": "经历了大地震，他常叹天地不仁。",
+        "en": "After the earthquake he often sighed that heaven and earth are unkind."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第五章",
+      "story": {
+        "en": "Laozi, chapter 5: 'Heaven and earth are not benevolent; they treat the myriad things as straw dogs' (天地不仁，以万物为刍狗).",
+        "zh": "《老子》第五章：“天地不仁，以万物为刍狗；圣人不仁，以百姓为刍狗。”"
+      }
+    },
+    "usage": {
+      "en": "In Laozi it means impartial, not cruel; in later use it is often a sigh at fate. Compare 苍天无眼. Literary.",
+      "zh": "《老子》原意是不偏私，并非残忍；后世常作对命运无情的感叹。书面语。"
+    },
+    "synonyms": [
+      "苍天无眼",
+      "世事无情"
+    ],
+    "antonyms": [
+      "天道酬勤",
+      "仁慈为怀"
+    ]
+  },
+  {
+    "id": "yi-wan-wu-wei-chu-gou",
+    "text": "以万物为刍狗",
+    "pinyin": "yǐ wàn wù wéi chú gǒu",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "fairness-and-impartiality"
+    ],
+    "literal": "take · myriad · things · as · straw · dogs",
+    "natural": "treat all things as straw dogs",
+    "meaning": {
+      "en": "Nature treats everything alike, without favouring any, like discarded straw offerings.",
+      "zh": "天地对万物不偏爱，如同对待祭祀用完即弃的草扎狗。"
+    },
+    "equivalents": [
+      "nature treats all alike",
+      "nothing is special to nature"
+    ],
+    "examples": [
+      {
+        "zh": "“天地不仁，以万物为刍狗”，说的是自然无私无偏。",
+        "en": "'Heaven and earth are not kind; they treat all things as straw dogs' speaks of nature's impartiality."
+      },
+      {
+        "zh": "面对灾难，有人叹以万物为刍狗，其实是在感叹无常。",
+        "en": "Facing disaster some sigh that things are treated as straw dogs, actually lamenting impermanence."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第五章",
+      "story": {
+        "en": "Laozi, chapter 5: 'Heaven and earth are not benevolent; they treat the myriad things as straw dogs.'",
+        "zh": "《老子》第五章：“天地不仁，以万物为刍狗。”"
+      }
+    },
+    "usage": {
+      "en": "刍狗 are dogs made of straw, used in ritual and thrown away. Laozi's point is impartiality, but the phrase is often quoted as a sigh about fate. Literary.",
+      "zh": "刍狗是祭祀用的草扎狗，用完即弃。老子本意是无偏私，今常被引作对命运的感叹。书面语。"
+    },
+    "synonyms": [
+      "天地不仁",
+      "一视同仁"
+    ],
+    "antonyms": [
+      "偏心",
+      "厚此薄彼"
+    ]
+  },
+  {
+    "id": "wu-yong-zhi-yong",
+    "text": "无用之用",
+    "pinyin": "wú yòng zhī yòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "useful-tools-and-skill"
+    ],
+    "literal": "no · use · of · use",
+    "natural": "the use of the useless",
+    "meaning": {
+      "en": "Something that seems useless has a greater value; usefulness in the seemingly useless.",
+      "zh": "看似无用的东西其实有大用，比喻不实用的事物也有其价值。"
+    },
+    "equivalents": [
+      "the use of uselessness",
+      "unseen value"
+    ],
+    "examples": [
+      {
+        "zh": "庄子说无用之用，是为大用。",
+        "en": "Zhuangzi said that the use of the useless is the greatest use."
+      },
+      {
+        "zh": "读诗似乎无用，其实是无用之用。",
+        "en": "Reading poetry seems useless but it has the use of the useless."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·人间世》",
+      "story": {
+        "en": "Zhuangzi, 'In the World of Men': 'All know the use of the useful, but none know the use of the useless' (人皆知有用之用，而莫知无用之用也).",
+        "zh": "《庄子·人间世》：“人皆知有用之用，而莫知无用之用也。”"
+      }
+    },
+    "usage": {
+      "en": "A key Zhuangzi idea: the useless tree escapes the axe and lives long. Often used to defend the humanities or leisure. Literary.",
+      "zh": "庄子名论：无用的树免遭砍伐而得天年；常用来为人文、闲暇的价值辩护。书面语。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "一无是处"
+    ]
+  },
+  {
+    "id": "ai-mo-da-yu-xin-si",
+    "text": "哀莫大于心死",
+    "pinyin": "āi mò dà yú xīn sǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "sadness-and-despair"
+    ],
+    "literal": "sorrow · none · greater · than · heart · dead",
+    "natural": "no sorrow is greater than a dead heart",
+    "meaning": {
+      "en": "The worst sorrow is when the heart has lost all hope; despair is worse than physical death.",
+      "zh": "最大的悲哀是心灵的死亡，指对一切失去希望和热情。"
+    },
+    "equivalents": [
+      "there is no sorrow like a dead heart",
+      "despair is worse than death"
+    ],
+    "examples": [
+      {
+        "zh": "哀莫大于心死，他对生活已经没有一点热情。",
+        "en": "No sorrow is greater than a dead heart: he has no enthusiasm for life left."
+      },
+      {
+        "zh": "遭受多次打击后，她陷入哀莫大于心死的状态。",
+        "en": "After repeated blows she fell into a state where the heart is dead."
+      }
+    ],
+    "origin": {
+      "source": "《庄子·田子方》",
+      "story": {
+        "en": "In Zhuangzi, 'Tian Zifang', Confucius tells Yan Hui: 'No sorrow is greater than a dead heart, and the death of the body comes next' (哀莫大于心死，而人死亦次之).",
+        "zh": "《庄子·田子方》：“夫哀莫大于心死，而人死亦次之。”"
+      }
+    },
+    "usage": {
+      "en": "Often quoted in comments about losing hope or passion, e.g. in a bad marriage or a failed career. 大于 in classical Chinese means 'greater than'. Literary.",
+      "zh": "常引于谈论对生活、感情失去希望时。“大于”为文言“比……更大”。书面语。"
+    },
+    "synonyms": [
+      "万念俱灰",
+      "心如死灰"
+    ],
+    "antonyms": [
+      "满怀希望",
+      "生机勃勃"
+    ]
+  },
+  {
+    "id": "da-cheng-ruo-que",
+    "text": "大成若缺",
+    "pinyin": "dà chéng ruò quē",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "great · perfection · like · lacking",
+    "natural": "great perfection seems incomplete",
+    "meaning": {
+      "en": "The truly accomplished seem flawed; real mastery does not look perfect.",
+      "zh": "最完美的东西看起来好像有缺陷，比喻真正的成就不显露或不追求形式上的完满。"
+    },
+    "equivalents": [
+      "great perfection seems flawed",
+      "true mastery looks modest"
+    ],
+    "examples": [
+      {
+        "zh": "大成若缺，他故意在作品里留了一点空白。",
+        "en": "Great perfection seems lacking, so he deliberately left a little blank in his work."
+      },
+      {
+        "zh": "真正的高手往往大成若缺，不求面面俱到。",
+        "en": "Real experts tend to look incomplete, not trying to cover every point."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十五章",
+      "story": {
+        "en": "Laozi, chapter 45: 'Great perfection seems lacking, yet its use never fails' (大成若缺，其用不弊).",
+        "zh": "《老子》第四十五章：“大成若缺，其用不弊。”"
+      }
+    },
+    "usage": {
+      "en": "The first of a series of paradoxes in Laozi 45; often given as calligraphy. Literary.",
+      "zh": "《老子》第四十五章一连串悖论句之首，常作书法题字。书面语。"
+    },
+    "synonyms": [
+      "大盈若冲",
+      "大巧若拙"
+    ],
+    "antonyms": [
+      "自满自足",
+      "完美无缺"
+    ]
+  },
+  {
+    "id": "da-zhi-ruo-qu",
+    "text": "大直若屈",
+    "pinyin": "dà zhí ruò qū",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "adaptability"
+    ],
+    "literal": "great · straight · like · bent",
+    "natural": "great straightness seems bent",
+    "meaning": {
+      "en": "A truly upright person may seem to bend or compromise.",
+      "zh": "最正直的人看起来像是弯曲的，比喻真正正直的人不拘小节、能屈能伸。"
+    },
+    "equivalents": [
+      "true integrity may look flexible",
+      "great straightness appears bent"
+    ],
+    "examples": [
+      {
+        "zh": "大直若屈，有智慧的人懂得变通。",
+        "en": "Great straightness seems bent: wise people know how to adapt."
+      },
+      {
+        "zh": "他在小事上让步，在原则上不退，真是大直若屈。",
+        "en": "He gives way on small matters and holds fast on principle: great straightness seems bent."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十五章",
+      "story": {
+        "en": "Laozi, chapter 45: 'Great straightness seems bent, great skill seems clumsy, great eloquence seems halting.'",
+        "zh": "《老子》第四十五章：“大直若屈，大巧若拙，大辩若讷。”"
+      }
+    },
+    "usage": {
+      "en": "From the same Laozi 45 sequence as 大辩若讷 and 大巧若拙. 屈 is qū ('bent'). Literary.",
+      "zh": "与“大辩若讷”“大巧若拙”同出《老子》第四十五章。“屈”读qū，意为弯曲。书面语。"
+    },
+    "synonyms": [
+      "能屈能伸",
+      "大智若愚"
+    ],
+    "antonyms": [
+      "刚愎自用",
+      "一根筋"
+    ]
+  }
+]

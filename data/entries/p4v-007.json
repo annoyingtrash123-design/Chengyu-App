@@ -1,0 +1,740 @@
+[
+  {
+    "id": "you-tian-tong-geng-you-fan",
+    "text": "有田同耕，有饭同食，有衣同穿，有钱同使，无处不均匀，无人不饱暖",
+    "pinyin": "yǒu tián tóng gēng, yǒu fàn tóng shí, yǒu yī tóng chuān, yǒu qián tóng shǐ, wú chù bù jūn yún, wú rén bù bǎo nuǎn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "fairness-and-impartiality",
+      "poverty-and-hardship"
+    ],
+    "literal": "have · fields · together · plough, have · rice · together · eat, have · clothes · together · wear, have · money · together · spend, nowhere · not · even, no · one · not · fed and warm",
+    "natural": "share the land, the food, the clothes and the money, so that all are equally fed and warm",
+    "meaning": {
+      "en": "The Taiping ideal of an equal society: land, food, clothing and money held in common, so that nowhere is unequal and nobody goes hungry or cold.",
+      "zh": "太平天国描绘的平等社会理想：土地、粮食、衣服、钱财共同拥有，没有不均匀的地方，也没有人挨饿受冻。"
+    },
+    "equivalents": [
+      "from each according to need (loosely)",
+      "a society of shared plenty"
+    ],
+    "examples": [
+      {
+        "zh": "历史课上，老师讲到太平天国提出“有田同耕，有饭同食，有衣同穿，有钱同使，无处不均匀，无人不饱暖”的理想。",
+        "en": "In history class the teacher described the Taiping ideal: 'plough the fields together, eat together, dress together, spend together, nowhere uneven, no one unfed or unwarmed'."
+      },
+      {
+        "zh": "“有田同耕，有饭同食，有衣同穿，有钱同使，无处不均匀，无人不饱暖”，生动体现了农民起义的平均主义思想。",
+        "en": "'Plough the fields together, eat together, dress together, spend together, nowhere uneven, no one unfed' vividly shows the egalitarian thinking of peasant uprisings."
+      }
+    ],
+    "origin": {
+      "source": "《天朝田亩制度》（1853）",
+      "story": {
+        "en": "Issued in 1853 by Hong Xiuquan's Taiping Heavenly Kingdom after taking Nanjing, the land system proclaims 'all land under Heaven is to be ploughed in common by the people', and ends with this line describing the ideal of a society in which all share equally.",
+        "zh": "太平天国1853年定都天京后颁布的《天朝田亩制度》，主张“天下田，天下人同耕”，并以此句描绘人人均享的理想社会。"
+      }
+    },
+    "usage": {
+      "en": "Historical quotation, used in discussing the Taiping Heavenly Kingdom, utopian egalitarianism and its Christian-influenced vision of a common household; it was never put fully into practice.",
+      "zh": "历史引文，多用于谈太平天国、平均主义和受基督教影响的“天下一家”理想；该制度并未真正实行。"
+    },
+    "synonyms": [
+      "天下为公",
+      "均贫富"
+    ],
+    "antonyms": [
+      "贫富悬殊",
+      "朱门酒肉臭"
+    ]
+  },
+  {
+    "id": "ai-ren-ru-ji",
+    "text": "爱人如己",
+    "pinyin": "ài rén rú jǐ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "positive-character-qualities"
+    ],
+    "literal": "love · others · as · oneself",
+    "natural": "love your neighbour as yourself",
+    "meaning": {
+      "en": "To love other people as one loves oneself; the second great commandment of the Bible.",
+      "zh": "像爱自己一样爱别人；《圣经》中的第二条大诫命。"
+    },
+    "equivalents": [
+      "love your neighbour as yourself",
+      "do as you would be done by"
+    ],
+    "examples": [
+      {
+        "zh": "教会的口号是爱人如己，邻里有难便主动帮忙。",
+        "en": "The congregation's motto is to love others as oneself, so they help neighbours in trouble."
+      },
+      {
+        "zh": "真正的善良就是爱人如己，推己及人。",
+        "en": "True kindness is loving others as oneself and extending one's own feelings to them."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·马太福音》22:39",
+      "story": {
+        "en": "Jesus names the second great commandment: 'You shall love your neighbour as yourself' (和合本：“爱人如己”); it quotes Leviticus 19:18.",
+        "zh": "《马太福音》22:39：“其次也相仿，就是要爱人如己。”引自《利未记》19:18。"
+      }
+    },
+    "usage": {
+      "en": "In Chinese the Biblical phrase has become a general ethical maxim; compare 推己及人 from Confucian thought. Positive, formal.",
+      "zh": "在汉语中已成为一般伦理格言，可与儒家的“推己及人”相比；含褒义，较正式。"
+    },
+    "synonyms": [
+      "推己及人",
+      "博爱"
+    ],
+    "antonyms": [
+      "损人利己",
+      "自私自利"
+    ]
+  },
+  {
+    "id": "dao-cheng-rou-shen",
+    "text": "道成肉身",
+    "pinyin": "dào chéng ròu shēn",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "道成了肉身"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "stories"
+    ],
+    "literal": "Word · became · flesh · body",
+    "natural": "the Word became flesh",
+    "meaning": {
+      "en": "The Christian doctrine of the Incarnation: God's eternal Word (Logos) took human form in Jesus Christ.",
+      "zh": "基督教“道成肉身”的教义：上帝永恒的道（圣言）取了人的形体，成为耶稣基督。"
+    },
+    "equivalents": [
+      "the Incarnation",
+      "the Word made flesh"
+    ],
+    "examples": [
+      {
+        "zh": "圣诞节讲道的主题是道成肉身。",
+        "en": "The Christmas sermon's theme was the Incarnation."
+      },
+      {
+        "zh": "神学课上，老师讲解了道成肉身的含义。",
+        "en": "In the theology class the teacher explained what 'the Word became flesh' means."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·约翰福音》1:14",
+      "story": {
+        "en": "'The Word became flesh and dwelt among us' (和合本：“道成了肉身，住在我们中间”).",
+        "zh": "《约翰福音》1:14：“道成了肉身，住在我们中间，充充满满地有恩典有真理。”"
+      }
+    },
+    "usage": {
+      "en": "A technical term of Christian theology; used by believers and scholars. 道 here translates Greek Logos, not the Daoist Dao.",
+      "zh": "基督教神学术语，信徒和学者使用。此处“道”译自希腊语 Logos，与道家之“道”不同。"
+    },
+    "synonyms": [
+      "圣言成了肉身"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shi-bi-shou-geng-wei-you-fu",
+    "text": "施比受更为有福",
+    "pinyin": "shī bǐ shòu gèng wéi yǒu fú",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "positive-character-qualities"
+    ],
+    "literal": "give · than · receive · more · is · blessed",
+    "natural": "it is more blessed to give than to receive",
+    "meaning": {
+      "en": "Giving brings more happiness than receiving; a saying of Jesus that Paul quotes.",
+      "zh": "给予比接受更有福气；保罗引述的耶稣的话。"
+    },
+    "equivalents": [
+      "it is better to give than to receive",
+      "giving is its own reward"
+    ],
+    "examples": [
+      {
+        "zh": "志愿者们相信施比受更为有福，每周都去敬老院服务。",
+        "en": "The volunteers believe it is more blessed to give than to receive and visit the care home every week."
+      },
+      {
+        "zh": "募捐海报上写着：施比受更为有福。",
+        "en": "The fundraising poster reads: It is more blessed to give than to receive."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·使徒行传》20:35",
+      "story": {
+        "en": "Paul, bidding farewell to the Ephesian elders, recalls the words of the Lord Jesus: 'It is more blessed to give than to receive' (和合本：“施比受更为有福”).",
+        "zh": "《使徒行传》20:35：“……主耶稣自己说过：‘施比受更为有福。’”"
+      }
+    },
+    "usage": {
+      "en": "A charitable maxim, popular in churches and in fundraising speeches. Positive.",
+      "zh": "慈善格言，教会和募捐场合常用，含褒义。"
+    },
+    "synonyms": [
+      "助人为乐",
+      "乐善好施"
+    ],
+    "antonyms": [
+      "吝啬小气",
+      "一毛不拔"
+    ]
+  },
+  {
+    "id": "fan-shi-bao-rong",
+    "text": "凡事包容",
+    "pinyin": "fán shì bāo róng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "positive-character-qualities",
+      "wedding-wishes"
+    ],
+    "literal": "all · things · bear",
+    "natural": "love bears all things",
+    "meaning": {
+      "en": "Love bears all things: it is tolerant and patient with everything; the opening phrase of a famous line on love, popular at weddings.",
+      "zh": "爱是凡事包容；出自哲学性的“爱的真谛”，常用于婚礼。"
+    },
+    "equivalents": [
+      "love bears all things",
+      "be endlessly tolerant"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼上牧师念道：“爱是凡事包容，凡事相信，凡事盼望，凡事忍耐。”",
+        "en": "At the wedding the pastor read: 'Love bears all things, believes all things, hopes all things, endures all things.'"
+      },
+      {
+        "zh": "夫妻相处，贵在凡事包容。",
+        "en": "What matters between spouses is bearing with everything."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·哥林多前书》13:7",
+      "story": {
+        "en": "Paul's great chapter on love: 'Love bears all things, believes all things, hopes all things, endures all things' (和合本：“凡事包容，凡事相信，凡事盼望，凡事忍耐”).",
+        "zh": "《哥林多前书》13:7：“凡事包容，凡事相信，凡事盼望，凡事忍耐。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted mostly at weddings and in church; the next phrases are 凡事相信，凡事盼望，凡事忍耐. 包容 is also read as 'to cover over'.",
+      "zh": "多用于婚礼和教会，后接“凡事相信，凡事盼望，凡事忍耐”。"
+    },
+    "synonyms": [
+      "宽容大度",
+      "海纳百川"
+    ],
+    "antonyms": [
+      "锱铢必较",
+      "睚眦必报"
+    ]
+  },
+  {
+    "id": "pi-zhe-yang-pi-de-lang",
+    "text": "披着羊皮的狼",
+    "pinyin": "pī zhe yáng pí de láng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "deception-and-false-appearances",
+      "animal-behavior-metaphors"
+    ],
+    "literal": "wearing · sheep · skin · of · wolf",
+    "natural": "a wolf in sheep's clothing",
+    "meaning": {
+      "en": "Someone dangerous who pretends to be gentle and harmless.",
+      "zh": "外表温和善良，实际凶狠危险的人。"
+    },
+    "equivalents": [
+      "a wolf in sheep's clothing"
+    ],
+    "examples": [
+      {
+        "zh": "他表面热心，其实是披着羊皮的狼。",
+        "en": "He seems helpful but is really a wolf in sheep's clothing."
+      },
+      {
+        "zh": "别被那个推销员骗了，他就是披着羊皮的狼。",
+        "en": "Don't be fooled by that salesman; he is a wolf in sheep's clothing."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·马太福音》7:15",
+      "story": {
+        "en": "In the Sermon on the Mount, Jesus warns: 'Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves' (和合本：“装作羊的样子来到你们这里，里面却是残暴的狼”).",
+        "zh": "《马太福音》7:15：“你们要防备假先知；他们到你们这里来，外面披着羊皮，里面却是残暴的狼。”"
+      }
+    },
+    "usage": {
+      "en": "Fully idiomatic in modern Chinese; casual to neutral, describes people or organisations. Often used attributively.",
+      "zh": "现代汉语中已成熟惯用，口语和一般书面语均可，多用来形容人或组织。"
+    },
+    "synonyms": [
+      "口蜜腹剑",
+      "笑里藏刀"
+    ],
+    "antonyms": [
+      "表里如一",
+      "心口如一"
+    ]
+  },
+  {
+    "id": "ti-zui-gao-yang",
+    "text": "替罪羔羊",
+    "pinyin": "tì zuì gāo yáng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "替罪羊"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "mistakes-and-correction",
+      "corruption-and-injustice"
+    ],
+    "literal": "substitute · guilt · lamb",
+    "natural": "scapegoat",
+    "meaning": {
+      "en": "A person blamed and punished for the faults of others.",
+      "zh": "代人受过的人。"
+    },
+    "equivalents": [
+      "scapegoat",
+      "fall guy"
+    ],
+    "examples": [
+      {
+        "zh": "项目失败后，他成了领导的替罪羔羊。",
+        "en": "After the project failed, he became the boss's scapegoat."
+      },
+      {
+        "zh": "别拿新人当替罪羔羊，责任大家一起扛。",
+        "en": "Don't make the newcomer the scapegoat; we all share the blame."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·利未记》16:20–22",
+      "story": {
+        "en": "On the Day of Atonement, the high priest lays his hands on a live goat, confesses Israel's sins over it, and sends it into the wilderness to carry them away.",
+        "zh": "《利未记》16:20–22：亚伦要按手在活山羊的头上，承认以色列人的一切罪孽，把羊放入旷野，使其担当罪孽。"
+      }
+    },
+    "usage": {
+      "en": "Common news and everyday phrase. Also 替罪羊; the Western image blends the Old Testament scapegoat with Christ as the Lamb of God.",
+      "zh": "新闻和日常常用，也说“替罪羊”；西方意象综合了旧约的代罪羊与耶稣“神的羔羊”之说。"
+    },
+    "synonyms": [
+      "替死鬼",
+      "背黑锅"
+    ],
+    "antonyms": [
+      "罪有应得"
+    ]
+  },
+  {
+    "id": "nuo-ya-fang-zhou",
+    "text": "诺亚方舟",
+    "pinyin": "nuò yà fāng zhōu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "stories",
+      "danger"
+    ],
+    "literal": "Noah · square · boat",
+    "natural": "Noah's Ark",
+    "meaning": {
+      "en": "The ark built by Noah to survive the Flood; now used for a refuge that saves life, or for a shelter protecting endangered species.",
+      "zh": "诺亚为躲避大洪水而造的大船；今比喻能保全生命的避难所，或保护濒危物种的场所。"
+    },
+    "equivalents": [
+      "Noah's Ark",
+      "a last refuge"
+    ],
+    "examples": [
+      {
+        "zh": "这个基因库被称为濒危植物的诺亚方舟。",
+        "en": "This seed bank is called a Noah's Ark for endangered plants."
+      },
+      {
+        "zh": "洪水来临时，那座教堂成了村民的诺亚方舟。",
+        "en": "When the flood came, the church became a Noah's Ark for the villagers."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·创世记》6–9章",
+      "story": {
+        "en": "God warns Noah of a flood and tells him to build an ark; Noah takes his family and pairs of every animal aboard and survives the forty-day deluge.",
+        "zh": "《创世记》6–9章：上帝因世人败坏而降洪水，命诺亚造方舟，带家人和各样动物进入方舟得救。"
+      }
+    },
+    "usage": {
+      "en": "Very common metaphor: 'a Noah's Ark of ___' for archives, seed banks and refuges. Neutral; noun.",
+      "zh": "常见比喻，“某某的诺亚方舟”，指保存物种或文化的避难所。名词。"
+    },
+    "synonyms": [
+      "避风港",
+      "救生舟"
+    ],
+    "antonyms": [
+      "灭顶之灾"
+    ]
+  },
+  {
+    "id": "mo-ri-shen-pan",
+    "text": "末日审判",
+    "pinyin": "mò rì shěn pàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "danger",
+      "revenge-and-retribution"
+    ],
+    "literal": "last · day · judge · sentence",
+    "natural": "the Last Judgement",
+    "meaning": {
+      "en": "In Christian belief, God's final judgement of all people at the end of the world; used figuratively for a day of reckoning.",
+      "zh": "基督教所说世界末日时上帝对世人的最后审判；比喻最终的清算。"
+    },
+    "equivalents": [
+      "the Last Judgement",
+      "judgement day"
+    ],
+    "examples": [
+      {
+        "zh": "米开朗基罗的壁画《末日审判》震撼人心。",
+        "en": "Michelangelo's fresco 'The Last Judgement' is overwhelming."
+      },
+      {
+        "zh": "在公司危机面前，员工们觉得像是迎来了末日审判。",
+        "en": "Facing the company crisis, the staff felt that a day of reckoning had arrived."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·启示录》20:11–15；《马太福音》25:31–46",
+      "story": {
+        "en": "In Revelation, the dead stand before a great white throne and are judged by what was written in the books; in Matthew, the Son of Man separates the sheep from the goats.",
+        "zh": "《启示录》20:11–15记死者在白色大宝座前，按案卷所记受审判；《马太福音》25:31–46记人子分别绵羊与山羊。"
+      }
+    },
+    "usage": {
+      "en": "Literal in religion and art discussion; figurative use is dramatic and often journalistic.",
+      "zh": "宗教艺术语境为本义；比喻用法带夸张，常见于新闻。"
+    },
+    "synonyms": [
+      "最后的清算",
+      "天网恢恢"
+    ],
+    "antonyms": [
+      "逍遥法外"
+    ]
+  },
+  {
+    "id": "zui-hou-de-wan-can",
+    "text": "最后的晚餐",
+    "pinyin": "zuì hòu de wǎn cān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "stories",
+      "food"
+    ],
+    "literal": "last · of · supper",
+    "natural": "the Last Supper",
+    "meaning": {
+      "en": "The final meal Jesus shared with his twelve disciples before his arrest, at which he instituted the Eucharist; also a famous painting by Leonardo da Vinci.",
+      "zh": "耶稣被捕前与十二门徒共进的最后一餐，在席间设立圣餐；也是达·芬奇的名画。"
+    },
+    "equivalents": [
+      "the Last Supper"
+    ],
+    "examples": [
+      {
+        "zh": "米兰的修道院里保存着达·芬奇的《最后的晚餐》。",
+        "en": "The monastery in Milan keeps Leonardo da Vinci's 'The Last Supper'."
+      },
+      {
+        "zh": "别把这顿饭说成最后的晚餐，我们下周还要再聚。",
+        "en": "Don't call this dinner the last supper; we will meet again next week."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·马太福音》26:20–29",
+      "story": {
+        "en": "On the night before his death, Jesus ate the Passover meal with the twelve and said of the bread and wine: 'This is my body… this is my blood of the covenant'; he also foretold his betrayal.",
+        "zh": "《马太福音》26:20–29：耶稣在受难前夜与十二门徒吃逾越节筵席，拿饼和杯说“这是我的身体”“这是我立约的血”，并预言有人出卖他。"
+      }
+    },
+    "usage": {
+      "en": "A proper-name phrase in art and religion; in conversation it can also mean a farewell meal.",
+      "zh": "在艺术、宗教中为专名；口语里也可比喻告别宴。"
+    },
+    "synonyms": [
+      "告别宴"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "tou-chi-jin-guo",
+    "text": "偷吃禁果",
+    "pinyin": "tōu chī jìn guǒ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "inappropriate-behavior",
+      "love-and-marriage"
+    ],
+    "literal": "steal · eat · forbidden · fruit",
+    "natural": "eat the forbidden fruit",
+    "meaning": {
+      "en": "Originally, Adam and Eve eating the forbidden fruit; now used for doing something forbidden, especially an early sexual experience.",
+      "zh": "原指亚当、夏娃偷吃禁果；今比喻做禁止之事，尤指青少年偷尝男女之事。"
+    },
+    "equivalents": [
+      "taste forbidden fruit",
+      "do what is forbidden"
+    ],
+    "examples": [
+      {
+        "zh": "少男少女偷吃禁果，往往要付出沉重的代价。",
+        "en": "Teenagers who taste forbidden fruit often pay a heavy price."
+      },
+      {
+        "zh": "越是不让他碰，他越想偷吃禁果。",
+        "en": "The more he is told not to touch it, the more he longs to taste the forbidden fruit."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·创世记》3章",
+      "story": {
+        "en": "God forbade Adam and Eve to eat the fruit of the tree of the knowledge of good and evil; the serpent tempted Eve, who ate and gave some to Adam, and they were driven from Eden.",
+        "zh": "《创世记》3章：上帝禁止亚当、夏娃吃分别善恶树的果子，蛇引诱夏娃，二人吃后被逐出伊甸园。"
+      }
+    },
+    "usage": {
+      "en": "Euphemistic, often about sex, but can mean any forbidden thing. Note Chinese says 禁果, not 'apple'.",
+      "zh": "多为委婉说法，常指性行为，也可泛指任何禁止之事。"
+    },
+    "synonyms": [
+      "越雷池",
+      "尝禁果"
+    ],
+    "antonyms": [
+      "循规蹈矩",
+      "洁身自好"
+    ]
+  },
+  {
+    "id": "tai-yang-di-xia-wu-xin-shi",
+    "text": "太阳底下无新事",
+    "pinyin": "tài yáng dǐ xià wú xīn shì",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "日光之下并无新事"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "experience-and-old-age",
+      "adaptability"
+    ],
+    "literal": "sun · beneath · no · new · thing",
+    "natural": "there is nothing new under the sun",
+    "meaning": {
+      "en": "Nothing is truly new; what seems new has happened before.",
+      "zh": "世上没有真正新鲜的事，今日的所谓新事物，以前早已有过。"
+    },
+    "equivalents": [
+      "there is nothing new under the sun",
+      "history repeats itself"
+    ],
+    "examples": [
+      {
+        "zh": "看了这些旧报道，才知道太阳底下无新事。",
+        "en": "Reading these old reports, I realised there is nothing new under the sun."
+      },
+      {
+        "zh": "别急着叫好，太阳底下无新事，这套营销手法几十年前就有人用过。",
+        "en": "Don't cheer too soon; there is nothing new under the sun, and people used this marketing trick decades ago."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·传道书》1:9",
+      "story": {
+        "en": "The Preacher says: 'What has been will be again, what has been done will be done again; there is nothing new under the sun' (和合本：“日光之下并无新事”).",
+        "zh": "《传道书》1:9：“已有的事，后必再有；已行的事，后必再行；日光之下并无新事。”"
+      }
+    },
+    "usage": {
+      "en": "Often world-weary or wry. The Chinese Union Version says 日光之下并无新事; the 太阳底下 wording is the popular form.",
+      "zh": "常带看透世事的无奈或调侃；和合本作“日光之下并无新事”，通行说法为“太阳底下无新事”。"
+    },
+    "synonyms": [
+      "历史总是惊人的相似",
+      "古已有之"
+    ],
+    "antonyms": [
+      "破天荒",
+      "前所未有"
+    ]
+  },
+  {
+    "id": "kai-sa-de-gui-kai-sa",
+    "text": "凯撒的归凯撒，上帝的归上帝",
+    "pinyin": "kǎi sā de guī kǎi sā, shàng dì de guī shàng dì",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "凯撒的物当归给凯撒，神的物当归给神"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "christian",
+      "fairness-and-impartiality",
+      "adaptability"
+    ],
+    "literal": "Caesar's · belongs to · Caesar, · God's · belongs to · God",
+    "natural": "render to Caesar what is Caesar's and to God what is God's",
+    "meaning": {
+      "en": "Give each authority what is due to it; often quoted for the separation of state and religion, or of separate spheres generally.",
+      "zh": "各人应得之物归还各人；常用来指政教分离，或各领域各守其分。"
+    },
+    "equivalents": [
+      "render unto Caesar",
+      "to each his due"
+    ],
+    "examples": [
+      {
+        "zh": "“凯撒的归凯撒，上帝的归上帝”常被引用来说明政教分离。",
+        "en": "'Render to Caesar what is Caesar's and to God what is God's' is often quoted to explain the separation of church and state."
+      },
+      {
+        "zh": "公私分明就是凯撒的归凯撒，上帝的归上帝。",
+        "en": "Keeping public and private apart is to give Caesar what is Caesar's and God what is God's."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·马太福音》22:21",
+      "story": {
+        "en": "Asked by the Pharisees whether it was lawful to pay tax to Caesar, Jesus held up a coin and answered: 'Render to Caesar the things that are Caesar's, and to God the things that are God's.'",
+        "zh": "《马太福音》22:21：法利赛人问纳税给凯撒可否，耶稣指着银币说：“这样，凯撒的物当归给凯撒，神的物当归给神。”"
+      }
+    },
+    "usage": {
+      "en": "Widely quoted proverb; formal. The Union Version wording is 凯撒的物当归给凯撒，神的物当归给神; 上帝 (rather than 神) is the more common modern word.",
+      "zh": "流行引语，较正式。和合本作“凯撒的物当归给凯撒，神的物当归给神”，现代更常用“上帝”。"
+    },
+    "synonyms": [
+      "各司其职",
+      "物归原主"
+    ],
+    "antonyms": [
+      "越俎代庖",
+      "政教不分"
+    ]
+  },
+  {
+    "id": "luo-tuo-chuan-guo-zhen-yan",
+    "text": "骆驼穿过针眼",
+    "pinyin": "luò tuo chuān guò zhēn yǎn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "christian",
+      "poverty-and-hardship",
+      "luxury-and-extravagance"
+    ],
+    "literal": "camel · pass through · needle's · eye",
+    "natural": "a camel through the eye of a needle",
+    "meaning": {
+      "en": "Something almost impossible; in the original, a rich man entering the kingdom of God.",
+      "zh": "几乎不可能的事；原指富人进天国比骆驼穿过针眼还难。"
+    },
+    "equivalents": [
+      "a camel through the eye of a needle",
+      "next to impossible"
+    ],
+    "examples": [
+      {
+        "zh": "要他放弃这笔钱，比骆驼穿过针眼还难。",
+        "en": "Getting him to give up that money is harder than getting a camel through the eye of a needle."
+      },
+      {
+        "zh": "想在三天内完成，那简直是骆驼穿过针眼。",
+        "en": "To finish in three days would be like threading a camel through a needle."
+      }
+    ],
+    "origin": {
+      "source": "《圣经·马太福音》19:24",
+      "story": {
+        "en": "Jesus says to the disciples: 'It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God' (和合本：“骆驼穿过针的眼，比财主进神的国还容易呢”).",
+        "zh": "《马太福音》19:24：“骆驼穿过针的眼，比财主进神的国还容易呢！”"
+      }
+    },
+    "usage": {
+      "en": "Usually in the comparison 比骆驼穿过针眼还难. Neutral, slightly humorous.",
+      "zh": "常用于比较句“比骆驼穿过针眼还难”，中性略带幽默。"
+    },
+    "synonyms": [
+      "难如登天",
+      "天方夜谭"
+    ],
+    "antonyms": [
+      "易如反掌",
+      "轻而易举"
+    ]
+  }
+]

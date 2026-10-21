@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "wei-xue-ri-yi",
+    "text": "为学日益",
+    "pinyin": "wéi xué rì yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "reading-and-study"
+    ],
+    "literal": "pursue · learning · daily · increase",
+    "natural": "learning grows day by day",
+    "meaning": {
+      "en": "In studying, one adds knowledge every day.",
+      "zh": "求学问就要一天天增加知识。"
+    },
+    "equivalents": [
+      "learning adds a little each day",
+      "knowledge accumulates daily"
+    ],
+    "examples": [
+      {
+        "zh": "为学日益，他每天坚持读书一小时。",
+        "en": "In learning one gains daily, so he reads an hour every day."
+      },
+      {
+        "zh": "老子说为学日益，为道日损，两者方向相反。",
+        "en": "Laozi says that learning increases daily while pursuing the Way decreases daily: the two go in opposite directions."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十八章",
+      "story": {
+        "en": "Laozi, chapter 48: 'In pursuing learning one gains day by day; in pursuing the Way one loses day by day' (为学日益，为道日损).",
+        "zh": "《老子》第四十八章：“为学日益，为道日损。损之又损，以至于无为。”"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 为道日损 to contrast learning (adding) and the Way (reducing). 为 is wéi (to pursue). Literary.",
+      "zh": "常与“为道日损”对举：求学是增加，求道是减损。“为”读wéi。书面语。"
+    },
+    "synonyms": [
+      "日积月累",
+      "学而不厌"
+    ],
+    "antonyms": [
+      "不学无术",
+      "学无寸进"
+    ]
+  },
+  {
+    "id": "wei-dao-ri-sun",
+    "text": "为道日损",
+    "pinyin": "wéi dào rì sǔn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "mental-clarity"
+    ],
+    "literal": "pursue · Way · daily · decrease",
+    "natural": "the Way means less each day",
+    "meaning": {
+      "en": "In pursuing the Way, one drops desires and clever schemes a little more each day.",
+      "zh": "求道要一天天减少欲望和机巧。"
+    },
+    "equivalents": [
+      "subtract a little every day",
+      "let go more each day"
+    ],
+    "examples": [
+      {
+        "zh": "为道日损，修行就是不断做减法。",
+        "en": "Pursuing the Way means less each day: cultivation is constant subtraction."
+      },
+      {
+        "zh": "他把生活精简了许多，也算是为道日损。",
+        "en": "He has simplified his life a lot, which is a kind of subtracting for the Way."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十八章",
+      "story": {
+        "en": "Laozi, chapter 48: 'In pursuing the Way one loses day by day; lose and lose again until reaching non-action.'",
+        "zh": "《老子》第四十八章：“为道日损。损之又损，以至于无为。”"
+      }
+    },
+    "usage": {
+      "en": "In modern life used for minimalism and decluttering. Literary.",
+      "zh": "今也用来形容极简生活、断舍离。书面语。"
+    },
+    "synonyms": [
+      "返璞归真",
+      "清心寡欲"
+    ],
+    "antonyms": [
+      "贪多务得",
+      "欲壑难填"
+    ]
+  },
+  {
+    "id": "fan-zhe-dao-zhi-dong",
+    "text": "反者道之动",
+    "pinyin": "fǎn zhě dào zhī dòng",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "change"
+    ],
+    "literal": "reverse · that · Way · of · movement",
+    "natural": "reversal is the movement of the Way",
+    "meaning": {
+      "en": "Everything moves toward its opposite: when a thing reaches an extreme, it turns back.",
+      "zh": "事物总是向相反方向转化，物极必反是道的运动规律。"
+    },
+    "equivalents": [
+      "everything turns into its opposite",
+      "extremes reverse"
+    ],
+    "examples": [
+      {
+        "zh": "反者道之动，盛极必衰，衰极必盛。",
+        "en": "Reversal is the movement of the Way: after the peak comes decline, after decline revival."
+      },
+      {
+        "zh": "读了反者道之动，他不再为一时的得失焦虑。",
+        "en": "After reading 'reversal is the movement of the Way' he no longer worried about passing gains and losses."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十章",
+      "story": {
+        "en": "Laozi, chapter 40: 'Reversal is the movement of the Way, weakness is the function of the Way' (反者道之动，弱者道之用).",
+        "zh": "《老子》第四十章：“反者道之动，弱者道之用。天下万物生于有，有生于无。”"
+      }
+    },
+    "usage": {
+      "en": "Philosophical, and often used with 物极必反. 反 can mean both 'opposite' and 'return'. Literary.",
+      "zh": "哲学用语，常与“物极必反”相联系。“反”兼有“相反”和“返回”之意。书面语。"
+    },
+    "synonyms": [
+      "物极必反",
+      "否极泰来"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "you-wu-xiang-sheng",
+    "text": "有无相生",
+    "pinyin": "yǒu wú xiāng shēng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "mental-clarity"
+    ],
+    "literal": "being · non-being · mutually · give rise",
+    "natural": "being and non-being give rise to each other",
+    "meaning": {
+      "en": "Existence and non-existence depend on each other and give birth to one another.",
+      "zh": "有和无互相依存，互相产生。"
+    },
+    "equivalents": [
+      "presence and absence create each other",
+      "opposites arise together"
+    ],
+    "examples": [
+      {
+        "zh": "有无相生，没有空，哪来容器的用处？",
+        "en": "Being and non-being arise together: without emptiness what use would a vessel be?"
+      },
+      {
+        "zh": "设计中的留白，正是有无相生的体现。",
+        "en": "The blank space in design embodies the way being and non-being arise together."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第二章",
+      "story": {
+        "en": "Laozi, chapter 2: 'Being and non-being give rise to each other, hard and easy complete each other, long and short define each other' (有无相生，难易相成，长短相形).",
+        "zh": "《老子》第二章：“有无相生，难易相成，长短相形，高下相倾。”"
+      }
+    },
+    "usage": {
+      "en": "In Laozi 2, followed by 难易相成 etc. These pairs show that opposites define each other. Literary.",
+      "zh": "《老子》第二章，后接“难易相成”等，说明对立双方互相依存。书面语。"
+    },
+    "synonyms": [
+      "相辅相成"
+    ],
+    "antonyms": [
+      "非此即彼"
+    ]
+  },
+  {
+    "id": "nan-yi-xiang-cheng",
+    "text": "难易相成",
+    "pinyin": "nán yì xiāng chéng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "relative-measurements"
+    ],
+    "literal": "hard · easy · mutually · complete",
+    "natural": "hard and easy complete each other",
+    "meaning": {
+      "en": "Difficulty and ease are relative and depend on each other.",
+      "zh": "难和易互相依存、互相转化。"
+    },
+    "equivalents": [
+      "hard and easy define each other",
+      "difficulty is relative"
+    ],
+    "examples": [
+      {
+        "zh": "难易相成，对新手难的事，对老手却很容易。",
+        "en": "Hard and easy complete each other: what is hard for beginners is easy for old hands."
+      },
+      {
+        "zh": "难易相成，别被眼前的困难吓倒。",
+        "en": "Hard and easy complete each other, so don't be scared off by present difficulty."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第二章",
+      "story": {
+        "en": "Laozi, chapter 2: 'Being and non-being give rise to each other, hard and easy complete each other.'",
+        "zh": "《老子》第二章：“有无相生，难易相成。”"
+      }
+    },
+    "usage": {
+      "en": "Same Laozi passage as 有无相生. Teaches the relativity of qualities. Literary.",
+      "zh": "与“有无相生”同出《老子》第二章，说明事物性质的相对性。书面语。"
+    },
+    "synonyms": [
+      "相辅相成",
+      "有无相生"
+    ],
+    "antonyms": [
+      "一成不变"
+    ]
+  },
+  {
+    "id": "xuan-pin-zhi-men",
+    "text": "玄牝之门",
+    "pinyin": "xuán pìn zhī mén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "mysterious · female · of · gate",
+    "natural": "the gate of the mysterious female",
+    "meaning": {
+      "en": "Laozi's image for the source of all things: the gate through which heaven and earth are born.",
+      "zh": "老子用来比喻万物产生的根源，即天地之根的门户。"
+    },
+    "equivalents": [
+      "the gate of the mysterious female",
+      "the source of all things"
+    ],
+    "examples": [
+      {
+        "zh": "老子称道为玄牝之门，是天地的根源。",
+        "en": "Laozi calls the Way the gate of the mysterious female, the root of heaven and earth."
+      },
+      {
+        "zh": "论文谈到“玄牝之门”这一道家意象。",
+        "en": "The paper discusses the Daoist image of the gate of the mysterious female."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第六章",
+      "story": {
+        "en": "Laozi, chapter 6: 'The valley spirit never dies; this is called the mysterious female. The gate of the mysterious female is called the root of heaven and earth' (玄牝之门，是谓天地根).",
+        "zh": "《老子》第六章：“谷神不死，是谓玄牝。玄牝之门，是谓天地根。”"
+      }
+    },
+    "usage": {
+      "en": "牝 is pìn (female animal). A technical Daoist image in philosophical and qigong texts. Literary and specialized.",
+      "zh": "“牝”读pìn，指雌性。是道家哲学和气功文献中的专门意象。书面语，较专门。"
+    },
+    "synonyms": [
+      "天地之根",
+      "万物之母"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "yu-tian-di-tong-shou",
+    "text": "与天地同寿",
+    "pinyin": "yǔ tiān dì tóng shòu",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "with · heaven · earth · same · lifespan",
+    "natural": "as long-lived as heaven and earth",
+    "meaning": {
+      "en": "To live as long as heaven and earth; immortal; also used in praise of lasting glory.",
+      "zh": "寿命和天地一样长久，指长生不死，也用来称颂永垂不朽。"
+    },
+    "equivalents": [
+      "be eternal",
+      "live as long as heaven and earth"
+    ],
+    "examples": [
+      {
+        "zh": "神话中的仙人与天地同寿。",
+        "en": "In myths the immortals live as long as heaven and earth."
+      },
+      {
+        "zh": "他们的精神与天地同寿。",
+        "en": "Their spirit will last as long as heaven and earth."
+      }
+    ],
+    "origin": {
+      "source": "《楚辞·涉江》",
+      "story": {
+        "en": "Qu Yuan, 'Crossing the River': 'I shall live as long as heaven and earth, and be as bright as the sun and moon' (与天地兮同寿，与日月兮齐光).",
+        "zh": "屈原《涉江》：“登昆仑兮食玉英，与天地兮同寿，与日月兮齐光。”"
+      }
+    },
+    "usage": {
+      "en": "Used in fantasy fiction and in praise of lasting honour; sometimes ironic. Often with 与日月同辉. Literary.",
+      "zh": "常见于仙侠小说和称颂永垂不朽的文字，有时带反讽。常与“与日月同辉”连用。书面语。"
+    },
+    "synonyms": [
+      "万寿无疆",
+      "长生不老"
+    ],
+    "antonyms": [
+      "朝生暮死",
+      "转瞬即逝"
+    ]
+  },
+  {
+    "id": "yu-ri-yue-tong-hui",
+    "text": "与日月同辉",
+    "pinyin": "yǔ rì yuè tóng huī",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "with · sun · moon · same · radiance",
+    "natural": "shine as the sun and moon",
+    "meaning": {
+      "en": "To be as glorious as the sun and moon; of everlasting fame or achievement.",
+      "zh": "与太阳和月亮一样光辉，形容功绩或声名永存。"
+    },
+    "equivalents": [
+      "shine as long as sun and moon",
+      "glory that will never fade"
+    ],
+    "examples": [
+      {
+        "zh": "他们的精神与日月同辉。",
+        "en": "Their spirit shines on with the sun and moon."
+      },
+      {
+        "zh": "英雄的名字将与日月同辉。",
+        "en": "The hero's name will shine as long as the sun and moon."
+      }
+    ],
+    "usage": {
+      "en": "Echoes the Chuci line 与日月兮齐光. Used to praise heroes and great works; formal, sometimes rhetorical.",
+      "zh": "化用《楚辞》“与日月兮齐光”。多用于赞颂英雄和伟业，较正式，有修辞色彩。"
+    },
+    "synonyms": [
+      "与天地同寿",
+      "流芳百世"
+    ],
+    "antonyms": [
+      "昙花一现",
+      "转瞬即逝"
+    ]
+  },
+  {
+    "id": "peng-lai-xian-jing",
+    "text": "蓬莱仙境",
+    "pinyin": "péng lái xiān jìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends",
+      "landscapes"
+    ],
+    "literal": "Penglai · immortal · realm",
+    "natural": "the fairy isle of Penglai",
+    "meaning": {
+      "en": "A fairyland where immortals live; any place of beauty and tranquillity.",
+      "zh": "传说中神仙居住的地方，也比喻风景优美的地方。"
+    },
+    "equivalents": [
+      "a fairy isle",
+      "a heavenly place"
+    ],
+    "examples": [
+      {
+        "zh": "云雾缭绕的海岛宛如蓬莱仙境。",
+        "en": "The mist-wreathed islands looked like the fairy isle of Penglai."
+      },
+      {
+        "zh": "这里山清水秀，真像蓬莱仙境。",
+        "en": "With such lovely scenery this is truly like Penglai."
+      }
+    ],
+    "usage": {
+      "en": "Penglai was one of three legendary islands in the eastern sea; used in travel writing. A phrase rather than a classical chengyu. Also the name of a city in Shandong. Literary.",
+      "zh": "蓬莱是传说中东海三仙山之一；常用于游记。属词组，非典型成语；也是山东城市名。书面语。"
+    },
+    "synonyms": [
+      "世外桃源",
+      "人间仙境"
+    ],
+    "antonyms": [
+      "人间炼狱",
+      "穷山恶水"
+    ]
+  },
+  {
+    "id": "xian-shan-qiong-ge",
+    "text": "仙山琼阁",
+    "pinyin": "xiān shān qióng gé",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends",
+      "landscapes"
+    ],
+    "literal": "immortal · mountain · jade · pavilion",
+    "natural": "fairy mountains and jade pavilions",
+    "meaning": {
+      "en": "Mountains and palaces of the immortals; a dreamlike place of great beauty.",
+      "zh": "神仙居住的山和楼阁，形容美丽如梦幻的地方。"
+    },
+    "equivalents": [
+      "a fairy-tale palace on a magic mountain",
+      "a dreamlike beauty spot"
+    ],
+    "examples": [
+      {
+        "zh": "雪后的古寺如仙山琼阁，美不胜收。",
+        "en": "After the snow the old temple looked like a fairy palace, too beautiful for words."
+      },
+      {
+        "zh": "画中仙山琼阁，云烟缭绕。",
+        "en": "In the painting are fairy mountains and jade pavilions wrapped in mist."
+      }
+    ],
+    "usage": {
+      "en": "Used of paintings, scenery and fantasy stories; 阁 is gé. Also occurs in Tang and Song poems. Literary.",
+      "zh": "多用于画作、风景和神话故事；“阁”读gé。唐宋诗词亦见。书面语。"
+    },
+    "synonyms": [
+      "琼楼玉宇",
+      "蓬莱仙境"
+    ],
+    "antonyms": [
+      "荒山野岭",
+      "断壁残垣"
+    ]
+  },
+  {
+    "id": "xiang-yao-chu-mo",
+    "text": "降妖除魔",
+    "pinyin": "xiáng yāo chú mó",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "myths-legends",
+      "military-strategy-and-victory"
+    ],
+    "literal": "subdue · demon · remove · devil",
+    "natural": "subdue demons and exorcise devils",
+    "meaning": {
+      "en": "To overcome monsters and evil spirits; also used of fighting wrongdoing.",
+      "zh": "制伏妖怪，铲除恶魔；也比喻对抗邪恶。"
+    },
+    "equivalents": [
+      "slay demons",
+      "exorcise evil spirits"
+    ],
+    "examples": [
+      {
+        "zh": "孙悟空一路降妖除魔，保护唐僧取经。",
+        "en": "Sun Wukong subdued demons all along the way to protect Tang Seng on his pilgrimage."
+      },
+      {
+        "zh": "这款游戏的主角要降妖除魔、拯救世界。",
+        "en": "In this game the hero must slay demons and save the world."
+      }
+    ],
+    "usage": {
+      "en": "降 here is xiáng (subdue), not jiàng. Common in Journey to the West and in fantasy games. Neutral, with a heroic tone.",
+      "zh": "“降”读xiáng，意为制伏，不读jiàng。常见于《西游记》和奇幻游戏。中性，有英雄色彩。"
+    },
+    "synonyms": [
+      "除暴安良",
+      "伏魔卫道"
+    ],
+    "antonyms": [
+      "为非作歹",
+      "助纣为虐"
+    ],
+    "variants": [
+      "斩妖除魔"
+    ]
+  },
+  {
+    "id": "xiao-yao-wu-wai",
+    "text": "逍遥物外",
+    "pinyin": "xiāo yáo wù wài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "freedom"
+    ],
+    "literal": "free · wander · things · outside",
+    "natural": "wander beyond worldly things",
+    "meaning": {
+      "en": "To live carefree, free from worldly concerns.",
+      "zh": "超脱于世俗之外，自由自在。"
+    },
+    "equivalents": [
+      "be free from worldly cares",
+      "roam beyond the world"
+    ],
+    "examples": [
+      {
+        "zh": "他隐居山林，逍遥物外。",
+        "en": "He lives in seclusion in the hills, free from worldly cares."
+      },
+      {
+        "zh": "退休后她逍遥物外，种花养鸟。",
+        "en": "In retirement she lives without a care, growing flowers and keeping birds."
+      }
+    ],
+    "usage": {
+      "en": "From Zhuangzi's 逍遥游 (free and easy wandering). Describes detached and happy living; literary.",
+      "zh": "源于《庄子·逍遥游》的精神，形容超脱快乐的生活。书面语。"
+    },
+    "synonyms": [
+      "逍遥自在",
+      "超然物外"
+    ],
+    "antonyms": [
+      "身不由己",
+      "尘缘缠身"
+    ]
+  },
+  {
+    "id": "yi-jing-zhi-dong",
+    "text": "以静制动",
+    "pinyin": "yǐ jìng zhì dòng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "military-strategy-and-victory"
+    ],
+    "literal": "with · stillness · control · movement",
+    "natural": "use stillness to control movement",
+    "meaning": {
+      "en": "To stay calm and observe while the opponent acts, then respond at the right moment.",
+      "zh": "以不变应万变，冷静观察对手行动，后发制人。"
+    },
+    "equivalents": [
+      "stay calm and let the other move first",
+      "win through stillness"
+    ],
+    "examples": [
+      {
+        "zh": "太极拳讲究以静制动，后发先至。",
+        "en": "Tai chi stresses controlling movement with stillness, arriving first though starting later."
+      },
+      {
+        "zh": "对手急攻，教练要求大家以静制动。",
+        "en": "With the opponent attacking hard, the coach told everyone to keep calm and respond."
+      }
+    ],
+    "usage": {
+      "en": "Common in martial arts, sport and negotiation; Daoist background in the idea of 守静 and 柔弱胜刚强. Neutral.",
+      "zh": "常用于武术、体育和谈判；背景是道家“守静”“柔弱胜刚强”的思想。中性。"
+    },
+    "synonyms": [
+      "后发制人",
+      "以逸待劳"
+    ],
+    "antonyms": [
+      "急于求成",
+      "盲目出击"
+    ]
+  },
+  {
+    "id": "xiu-xian-wen-dao",
+    "text": "修仙问道",
+    "pinyin": "xiū xiān wèn dào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "cultivate · immortality · seek · the Way",
+    "natural": "cultivate immortality and seek the Way",
+    "meaning": {
+      "en": "To practise Daoist self-cultivation in pursuit of immortality; the central theme of xianxia fiction.",
+      "zh": "修炼成仙、探求大道，是仙侠小说的核心题材。"
+    },
+    "equivalents": [
+      "pursue immortality",
+      "seek the Way of the immortals"
+    ],
+    "examples": [
+      {
+        "zh": "他辞掉工作，上山修仙问道。",
+        "en": "He quit his job and went up the mountain to seek immortality."
+      },
+      {
+        "zh": "修仙问道类小说在网络上非常流行。",
+        "en": "Novels about cultivating immortality are very popular online."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used in fantasy fiction and sometimes humorously for those who have withdrawn from the world. Neutral; casual.",
+      "zh": "主要用于仙侠小说，也可调侃隐居不问世事的人。中性，口语化。"
+    },
+    "synonyms": [
+      "得道成仙"
+    ],
+    "antonyms": [
+      "红尘俗世"
+    ]
+  },
+  {
+    "id": "jin-dan-da-dao",
+    "text": "金丹大道",
+    "pinyin": "jīn dān dà dào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "myths-legends"
+    ],
+    "literal": "golden · elixir · great · Way",
+    "natural": "the Way of the golden elixir",
+    "meaning": {
+      "en": "The Daoist inner-alchemy path of refining the body and spirit into an elixir of immortality.",
+      "zh": "道教内丹修炼之道，通过炼养精气神以求长生成仙。"
+    },
+    "equivalents": [
+      "the path of the golden elixir",
+      "Daoist inner alchemy"
+    ],
+    "examples": [
+      {
+        "zh": "道教经典论述金丹大道，主张内外兼修。",
+        "en": "Daoist classics expound the Way of the golden elixir and advocate cultivating inside and out."
+      },
+      {
+        "zh": "小说中他苦练金丹大道，终于突破境界。",
+        "en": "In the novel he trained hard in the way of the golden elixir and finally broke through to a new level."
+      }
+    ],
+    "usage": {
+      "en": "A technical term in religious Daoism (内丹) and in fantasy novels. Specialized; literary.",
+      "zh": "道教内丹术语，也见于仙侠小说。较专门，书面语。"
+    },
+    "synonyms": [
+      "内丹修炼",
+      "炼丹术"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ren-zhe-ai-ren",
+    "text": "仁者爱人",
+    "pinyin": "rén zhě ài rén",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "the humane · love · people",
+    "natural": "the humane love others",
+    "meaning": {
+      "en": "A person of humaneness loves other people.",
+      "zh": "有仁德的人爱护他人。"
+    },
+    "equivalents": [
+      "the benevolent love others",
+      "kindness means loving people"
+    ],
+    "examples": [
+      {
+        "zh": "仁者爱人，他一辈子都在帮助别人。",
+        "en": "The humane love others, and he spent his life helping people."
+      },
+      {
+        "zh": "学校提倡仁者爱人的传统美德。",
+        "en": "The school promotes the traditional virtue that the humane love others."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·离娄下》",
+      "story": {
+        "en": "Mencius, 'Li Lou II': 'The humane love others; the courteous respect others' (仁者爱人，有礼者敬人).",
+        "zh": "《孟子·离娄下》：“仁者爱人，有礼者敬人。爱人者人恒爱之，敬人者人恒敬之。”"
+      }
+    },
+    "usage": {
+      "en": "A core Confucian and Mencian principle, often used in school mottos and speeches. Mencius said 仁者爱人，有礼者敬人. Formal.",
+      "zh": "儒家与孟子的核心思想，常见于校训和演讲。孟子曰“仁者爱人，有礼者敬人”。较正式。"
+    },
+    "synonyms": [
+      "爱人如己",
+      "泛爱众"
+    ],
+    "antonyms": [
+      "残暴不仁",
+      "冷酷无情"
+    ]
+  },
+  {
+    "id": "xiao-ti-zhong-xin",
+    "text": "孝悌忠信",
+    "pinyin": "xiào tì zhōng xìn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "filial-piety"
+    ],
+    "literal": "filial · fraternal · loyal · trustworthy",
+    "natural": "filial, brotherly, loyal and trustworthy",
+    "meaning": {
+      "en": "Four Confucian virtues: filial piety, respect for elder brothers, loyalty and trustworthiness.",
+      "zh": "儒家四种基本德行：孝顺父母，敬爱兄长，忠诚，守信。"
+    },
+    "equivalents": [
+      "the four basic Confucian virtues",
+      "filial, fraternal, loyal and faithful"
+    ],
+    "examples": [
+      {
+        "zh": "古人教育孩子，以孝悌忠信为本。",
+        "en": "The ancients based children's education on filial piety, fraternal respect, loyalty and trust."
+      },
+      {
+        "zh": "这所书院门口刻着“孝悌忠信”四个大字。",
+        "en": "The four characters 孝悌忠信 are carved at the gate of this academy."
+      }
+    ],
+    "usage": {
+      "en": "悌 is tì (love for elder brothers); often written together with 礼义廉耻 as the eight virtues (八德). Formal.",
+      "zh": "“悌”读tì，指敬爱兄长；常与“礼义廉耻”并称八德。较正式。"
+    },
+    "synonyms": [
+      "礼义廉耻",
+      "仁义礼智"
+    ],
+    "antonyms": [
+      "忘恩负义",
+      "不忠不孝"
+    ]
+  },
+  {
+    "id": "zhong-xiao-liang-quan",
+    "text": "忠孝两全",
+    "pinyin": "zhōng xiào liǎng quán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "filial-piety"
+    ],
+    "literal": "loyalty · filial piety · both · fulfilled",
+    "natural": "fulfil both loyalty and filial duty",
+    "meaning": {
+      "en": "To be able to serve one's country or ruler and one's parents at the same time.",
+      "zh": "既能为国尽忠，又能对父母尽孝。"
+    },
+    "equivalents": [
+      "be loyal and filial at once",
+      "meet both duties"
+    ],
+    "examples": [
+      {
+        "zh": "远在边疆的军人很难忠孝两全。",
+        "en": "Soldiers far away on the frontier can hardly do both their duty to the country and to their parents."
+      },
+      {
+        "zh": "古人常说，忠孝两全是难事。",
+        "en": "The ancients often said that loyalty and filial piety cannot both be fulfilled."
+      }
+    ],
+    "usage": {
+      "en": "Often used negatively as 忠孝难两全 ('can't do both'), expressing the dilemma between public duty and family. Formal.",
+      "zh": "常用否定式“忠孝难两全”，表达国家与家庭难以兼顾的两难。较正式。"
+    },
+    "synonyms": [
+      "公私两全",
+      "两全其美"
+    ],
+    "antonyms": [
+      "忠孝难两全",
+      "顾此失彼"
+    ]
+  },
+  {
+    "id": "jun-zi-bu-qi",
+    "text": "君子不器",
+    "pinyin": "jūn zǐ bù qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "useful-tools-and-skill"
+    ],
+    "literal": "gentleman · not · vessel",
+    "natural": "a gentleman is not a vessel",
+    "meaning": {
+      "en": "A superior person is not a tool confined to one function; he is broad-minded and versatile.",
+      "zh": "君子不像器具那样只有一种用途，应当博学通达，具备多方面的才能。"
+    },
+    "equivalents": [
+      "a cultivated person is not a one-trick tool",
+      "be versatile, not narrow"
+    ],
+    "examples": [
+      {
+        "zh": "君子不器，大学教育不应只培养专才。",
+        "en": "A gentleman is not a vessel: university education should not only train specialists."
+      },
+      {
+        "zh": "他文理兼修，真是君子不器。",
+        "en": "He studies both arts and sciences: truly a gentleman is not a vessel."
+      }
+    ],
+    "origin": {
+      "source": "《论语·为政》",
+      "story": {
+        "en": "Analects 2.12: 'The gentleman is not a vessel' (君子不器).",
+        "zh": "《论语·为政》：“子曰：君子不器。”"
+      }
+    },
+    "usage": {
+      "en": "Often cited in debates on liberal education versus specialization. 器 is a utensil made for one use. Literary.",
+      "zh": "常用于通识教育与专业化的讨论。“器”指只有单一用途的器具。书面语。"
+    },
+    "synonyms": [
+      "博学多才",
+      "学贯中西"
+    ],
+    "antonyms": [
+      "一技之长",
+      "专才"
+    ]
+  },
+  {
+    "id": "min-wei-bang-ben",
+    "text": "民为邦本",
+    "pinyin": "mín wéi bāng běn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "good-governance"
+    ],
+    "literal": "people · are · state · root",
+    "natural": "the people are the root of the state",
+    "meaning": {
+      "en": "The people are the foundation of a country; a state is stable only when its people are well off.",
+      "zh": "人民是国家的根本，百姓安居乐业，国家才能稳固。"
+    },
+    "equivalents": [
+      "the people are the foundation of the state",
+      "a state rests on its people"
+    ],
+    "examples": [
+      {
+        "zh": "古人强调民为邦本，本固邦宁。",
+        "en": "The ancients stressed that the people are the foundation of the state and when it is firm the state is at peace."
+      },
+      {
+        "zh": "民为邦本，政策要从百姓需要出发。",
+        "en": "The people are the root of the state, so policy should start from what the people need."
+      }
+    ],
+    "origin": {
+      "source": "《尚书·五子之歌》",
+      "story": {
+        "en": "Book of Documents, 'Songs of the Five Sons': 'The people are the root of the state; when the root is firm the state is at peace' (民惟邦本，本固邦宁).",
+        "zh": "《尚书·五子之歌》：“民惟邦本，本固邦宁。”"
+      }
+    },
+    "usage": {
+      "en": "A classic statement of the Chinese 民本 political tradition, used in speeches by officials. 邦 means 'state'. Formal.",
+      "zh": "中国“民本”政治传统的经典表述，常用于官员讲话。“邦”指国家。较正式。"
+    },
+    "synonyms": [
+      "以民为本",
+      "国以民为本"
+    ],
+    "antonyms": [
+      "鱼肉百姓",
+      "视民如草芥"
+    ],
+    "variants": [
+      "民惟邦本"
+    ]
+  },
+  {
+    "id": "tian-xia-da-tong",
+    "text": "天下大同",
+    "pinyin": "tiān xià dà tóng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "peace-and-prosperity"
+    ],
+    "literal": "world · great · unity",
+    "natural": "a world of great harmony",
+    "meaning": {
+      "en": "An ideal society in which the world is shared by all, with harmony and equality.",
+      "zh": "理想社会：天下为公，人人平等和谐。"
+    },
+    "equivalents": [
+      "a world commonwealth",
+      "universal harmony"
+    ],
+    "examples": [
+      {
+        "zh": "康有为在《大同书》中描绘了天下大同的理想。",
+        "en": "In his Book of Great Unity Kang Youwei depicted the ideal of a world of great harmony."
+      },
+      {
+        "zh": "天下大同是许多人一直追求的理想。",
+        "en": "A world of great harmony is an ideal many have sought."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·礼运》",
+      "story": {
+        "en": "Book of Rites, 'Li Yun': 'When the Great Way prevails, the world is shared by all' (大道之行也，天下为公); this is called 大同.",
+        "zh": "《礼记·礼运》：“大道之行也，天下为公……是谓大同。”"
+      }
+    },
+    "usage": {
+      "en": "From the Confucian utopia of 《礼运》. Used in political and cultural discussion; 同 means 'in common, in harmony', not 'same'. Formal.",
+      "zh": "出自《礼记·礼运》的儒家理想社会。用于政治和文化讨论；“同”意为共同、和同。较正式。"
+    },
+    "synonyms": [
+      "世界大同",
+      "天下为公"
+    ],
+    "antonyms": [
+      "兵荒马乱",
+      "天下纷争"
+    ]
+  },
+  {
+    "id": "lao-you-suo-zhong",
+    "text": "老有所终",
+    "pinyin": "lǎo yǒu suǒ zhōng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "peace-and-prosperity"
+    ],
+    "literal": "the aged · have · where to · end life",
+    "natural": "the aged live out their lives well",
+    "meaning": {
+      "en": "The elderly are cared for and can end their lives in peace.",
+      "zh": "老年人能够得到赡养，安度晚年。"
+    },
+    "equivalents": [
+      "old people are cared for to the end",
+      "a secure old age"
+    ],
+    "examples": [
+      {
+        "zh": "社会保障要让每个人都能老有所终。",
+        "en": "Social security should let everyone live out their old age with care."
+      },
+      {
+        "zh": "老有所终，是千百年来人们的愿望。",
+        "en": "A secure old age is what people have wished for through the ages."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·礼运》",
+      "story": {
+        "en": "Book of Rites, 'Li Yun': 'The aged have a place to end their days, the able-bodied have work, the young have room to grow' (老有所终，壮有所用，幼有所长).",
+        "zh": "《礼记·礼运》：“使老有所终，壮有所用，幼有所长，矜寡孤独废疾者皆有所养。”"
+      }
+    },
+    "usage": {
+      "en": "From the Liyun description of the ideal society, which continues 壮有所用，幼有所长. Common in policy language, with 老有所养 and 老有所依. Formal.",
+      "zh": "出自《礼运》对理想社会的描述，下文为“壮有所用，幼有所长”。常见于政策语言，与“老有所养”“老有所依”并用。较正式。"
+    },
+    "synonyms": [
+      "安度晚年",
+      "颐养天年"
+    ],
+    "antonyms": [
+      "老无所依",
+      "孤苦伶仃"
+    ]
+  },
+  {
+    "id": "zhong-shu-zhi-dao",
+    "text": "忠恕之道",
+    "pinyin": "zhōng shù zhī dào",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "loyalty · consideration · of · way",
+    "natural": "the way of loyalty and consideration",
+    "meaning": {
+      "en": "The Confucian principle of doing one's best and treating others as one would wish to be treated.",
+      "zh": "儒家做人原则：尽己之心待人（忠），推己及人（恕）。"
+    },
+    "equivalents": [
+      "the golden rule of Confucius",
+      "doing one's best and sympathising with others"
+    ],
+    "examples": [
+      {
+        "zh": "孔子把忠恕之道看作一以贯之的原则。",
+        "en": "Confucius saw the way of loyalty and consideration as the thread running through all his teaching."
+      },
+      {
+        "zh": "处理邻里关系，也要讲忠恕之道。",
+        "en": "Even in dealing with neighbours, one should practise the way of loyalty and consideration."
+      }
+    ],
+    "origin": {
+      "source": "《论语·里仁》",
+      "story": {
+        "en": "Analects 4.15: Zeng Zi says of Confucius' way: 'The Master's Way is just loyalty and consideration' (夫子之道，忠恕而已矣).",
+        "zh": "《论语·里仁》：曾子曰：“夫子之道，忠恕而已矣。”"
+      }
+    },
+    "usage": {
+      "en": "忠 = doing one's utmost; 恕 = putting oneself in the other's place (己所不欲，勿施于人). Formal.",
+      "zh": "“忠”指尽心竭力，“恕”指推己及人（己所不欲，勿施于人）。较正式。"
+    },
+    "synonyms": [
+      "推己及人",
+      "将心比心"
+    ],
+    "antonyms": [
+      "自私自利",
+      "以己度人"
+    ]
+  },
+  {
+    "id": "jun-zi-shen-du",
+    "text": "君子慎独",
+    "pinyin": "jūn zǐ shèn dú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "gentleman · careful · alone",
+    "natural": "a gentleman is careful when alone",
+    "meaning": {
+      "en": "A person of integrity behaves properly even when no one is watching.",
+      "zh": "有修养的人在独处无人监督时也谨慎自律。"
+    },
+    "equivalents": [
+      "behave well even when alone",
+      "integrity in private"
+    ],
+    "examples": [
+      {
+        "zh": "君子慎独，即使无人监督，他也坚持规则。",
+        "en": "A gentleman is careful when alone: even without supervision he keeps to the rules."
+      },
+      {
+        "zh": "干部要做到君子慎独，不在暗处做坏事。",
+        "en": "Officials should be careful in private and not do wrong in the dark."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·中庸》",
+      "story": {
+        "en": "Book of Rites, 'Doctrine of the Mean': 'There is nothing more visible than the hidden, nothing more manifest than the subtle; so the gentleman is careful when alone' (故君子慎其独也).",
+        "zh": "《礼记·中庸》：“莫见乎隐，莫显乎微，故君子慎其独也。”"
+      }
+    },
+    "usage": {
+      "en": "Often used in speeches on integrity and discipline, e.g. for officials. 独 means being alone or in private. Formal.",
+      "zh": "常用于廉洁自律的讲话，如针对干部。“独”指独处、无人知晓之时。较正式。"
+    },
+    "synonyms": [
+      "洁身自好",
+      "表里如一"
+    ],
+    "antonyms": [
+      "阳奉阴违",
+      "表里不一"
+    ]
+  }
+]

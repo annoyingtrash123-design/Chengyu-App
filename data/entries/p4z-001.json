@@ -1,0 +1,246 @@
+[
+  {
+    "id": "fan-jian-ji",
+    "text": "反间计",
+    "pinyin": "fǎn jiàn jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "variants": [
+      "离间计"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "thirty-six-stratagems",
+      "three-kingdoms",
+      "military-strategy-and-victory"
+    ],
+    "literal": "turn · spy · stratagem",
+    "natural": "the Counter-Espionage Stratagem",
+    "meaning": {
+      "en": "To exploit the enemy's spies or sow doubt among them so that they act against their own side, typically leading them to destroy their own people.",
+      "zh": "利用敌方间谍或制造猜疑，使对方内部自相残杀，反而对己有利的计策。"
+    },
+    "equivalents": [
+      "sowing discord between enemies",
+      "turning the enemy against itself"
+    ],
+    "examples": [
+      {
+        "zh": "对手用反间计，让我们两个部门互相猜忌。",
+        "en": "Our rival used a divide-and-conquer trick, making our two departments suspicious of each other."
+      },
+      {
+        "zh": "他中了反间计，错杀了忠臣。",
+        "en": "He fell for the stratagem of sowing discord and wrongly killed a loyal minister."
+      }
+    ],
+    "origin": {
+      "source": "《三十六计》第三十三计；《三国演义》第四十五回",
+      "story": {
+        "en": "In the Romance of the Three Kingdoms, Zhou Yu let Jiang Gan steal a forged letter, so that Cao Cao killed his own naval commanders Cai Mao and Zhang Yun.",
+        "zh": "《三国演义》写周瑜故意让蒋干盗走伪造的书信，曹操中计，杀了水军都督蔡瑁、张允。"
+      }
+    },
+    "usage": {
+      "en": "The 33rd of the Thirty-Six Stratagems. Used both in military talk and workplace or sports rivalry (planting a false rumour). Neutral; 中反间计 means to be tricked this way.",
+      "zh": "《三十六计》第三十三计。既用于军事，也用于职场、竞技中的造谣离间。中性；“中反间计”指上了这种当。"
+    },
+    "synonyms": [
+      "挑拨离间",
+      "借刀杀人"
+    ],
+    "antonyms": [
+      "同心同德",
+      "坦诚相待"
+    ]
+  },
+  {
+    "id": "kong-cheng-ji",
+    "text": "空城计",
+    "pinyin": "kōng chéng jì",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "thirty-six-stratagems",
+      "three-kingdoms",
+      "military-strategy-and-victory"
+    ],
+    "literal": "empty · city · stratagem",
+    "natural": "the Empty City Stratagem",
+    "meaning": {
+      "en": "Bluffing with an apparent show of confidence when one has no real strength, to make the enemy doubt and back off; also, in modern use, a bluff to cover emptiness.",
+      "zh": "在无力防守时故意大开城门、沉着镇定，使敌人起疑而退兵的计策；今也比喻用虚张声势掩饰力量空虚。"
+    },
+    "equivalents": [
+      "a bold bluff",
+      "bluffing from a position of weakness"
+    ],
+    "examples": [
+      {
+        "zh": "他们没有存货，却摆出一副货源充足的样子，这是在唱空城计。",
+        "en": "They have no stock, yet act as if supplies are plentiful: it's an empty-city bluff."
+      },
+      {
+        "zh": "球队主力受伤，只能靠气势上的空城计吓唬对手。",
+        "en": "With its key players injured, the team could only try to scare opponents with a bluff."
+      }
+    ],
+    "origin": {
+      "source": "《三十六计》第三十二计；《三国演义》第九十五回",
+      "story": {
+        "en": "In the Romance of the Three Kingdoms, Zhuge Liang, with the city nearly empty of troops, opened the gates, sat on the wall playing the zither and sent the suspicious Sima Yi's army away.",
+        "zh": "《三国演义》写诸葛亮在西城兵力空虚之际大开城门，端坐城楼抚琴，司马懿疑有埋伏，引兵退去。"
+      }
+    },
+    "usage": {
+      "en": "The 32nd of the Thirty-Six Stratagems. Often in the verb phrase 唱空城计 or 摆空城计 for bluffing; also humorously for an empty fridge or an empty house. Neutral, a little playful.",
+      "zh": "《三十六计》第三十二计。常说“唱空城计”“摆空城计”，指虚张声势；也诙谐地指冰箱或房子空空如也。中性，略带戏谑。"
+    },
+    "synonyms": [
+      "虚张声势",
+      "故弄玄虚"
+    ],
+    "antonyms": [
+      "严阵以待",
+      "兵强马壮"
+    ]
+  },
+  {
+    "id": "mei-ren-ji",
+    "text": "美人计",
+    "pinyin": "měi rén jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "thirty-six-stratagems",
+      "deception-and-false-appearances"
+    ],
+    "literal": "beauty · stratagem",
+    "natural": "honey trap",
+    "meaning": {
+      "en": "A scheme of using a beautiful woman to seduce or ensnare a target.",
+      "zh": "利用美女引诱、迷惑对手的计策。"
+    },
+    "equivalents": [
+      "honey trap",
+      "seduction ploy"
+    ],
+    "examples": [
+      {
+        "zh": "历史上不少英雄都栽在美人计上。",
+        "en": "Many heroes in history fell to a honey trap."
+      },
+      {
+        "zh": "对方使出美人计，想骗取公司机密。",
+        "en": "The other side used a honey trap to steal company secrets."
+      }
+    ],
+    "usage": {
+      "en": "One of the 三十六计 (Thirty-Six Stratagems). Also used playfully for charm used to get something.",
+      "zh": "属“三十六计”之一。有时也戏指用魅力换取好处。"
+    },
+    "synonyms": [
+      "温柔陷阱",
+      "诱惑"
+    ],
+    "antonyms": [
+      "坐怀不乱",
+      "不为所动"
+    ]
+  },
+  {
+    "id": "ku-rou-ji",
+    "text": "苦肉计",
+    "pinyin": "kǔ ròu jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "thirty-six-stratagems",
+      "deception-and-false-appearances"
+    ],
+    "literal": "bitter · flesh · stratagem",
+    "natural": "self-injury ruse",
+    "meaning": {
+      "en": "A ruse of hurting oneself or suffering to win trust or sympathy.",
+      "zh": "故意伤害自己以骗取信任或同情的计策。"
+    },
+    "equivalents": [
+      "self-inflicted ruse",
+      "play the martyr"
+    ],
+    "examples": [
+      {
+        "zh": "他使出苦肉计，博得了老板的同情。",
+        "en": "He used a martyr ploy and won the boss's sympathy."
+      },
+      {
+        "zh": "这是他的苦肉计，别被骗了。",
+        "en": "It's his sob-story trick; don't be fooled."
+      }
+    ],
+    "usage": {
+      "en": "One of the 三十六计. In the Three Kingdoms, Huang Gai let himself be flogged to win Cao Cao's trust at Red Cliffs.",
+      "zh": "属“三十六计”之一。《三国演义》中黄盖受杖诈降曹操。"
+    },
+    "synonyms": [
+      "博同情",
+      "装可怜"
+    ],
+    "antonyms": [
+      "光明磊落",
+      "坦诚相见"
+    ]
+  },
+  {
+    "id": "lian-huan-ji",
+    "text": "连环计",
+    "pinyin": "lián huán jì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "thirty-six-stratagems",
+      "three-kingdoms"
+    ],
+    "literal": "linked · rings · scheme",
+    "natural": "chain of schemes",
+    "meaning": {
+      "en": "A set of interlocking schemes, each making the next work.",
+      "zh": "指一环扣一环、环环相扣的计策。"
+    },
+    "equivalents": [
+      "interlocking schemes",
+      "chain of ploys"
+    ],
+    "examples": [
+      {
+        "zh": "这是一条精心设计的连环计。",
+        "en": "This is a carefully designed chain of schemes."
+      },
+      {
+        "zh": "对手使出连环计，我们防不胜防。",
+        "en": "The rival used a chain of ploys we could not guard against."
+      }
+    ],
+    "usage": {
+      "en": "One of the Thirty-Six Stratagems (第三十五计); famous from Three Kingdoms, where Diaochan is used to set Dong Zhuo and Lü Bu against each other.",
+      "zh": "三十六计之一，《三国演义》中王允、貂蝉离间董卓、吕布最为有名。"
+    },
+    "synonyms": [
+      "环环相扣",
+      "一石二鸟"
+    ],
+    "antonyms": [
+      "单枪匹马",
+      "直来直去"
+    ]
+  }
+]
