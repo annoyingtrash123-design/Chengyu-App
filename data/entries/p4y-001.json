@@ -1,0 +1,831 @@
+[
+  {
+    "id": "shan-bu-zhuan-shui-zhuan",
+    "text": "山不转水转",
+    "pinyin": "shān bù zhuǎn shuǐ zhuǎn",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "ming-dynasty",
+      "change",
+      "relationships"
+    ],
+    "literal": "mountain · not · turn · water · turns",
+    "natural": "if the mountain won't turn, the water will",
+    "meaning": {
+      "en": "Even if the road does not turn, the river does: people who part ways may well meet again, so don't burn bridges.",
+      "zh": "山不转，水转：比喻世事多变，今天分开的人日后还可能再见，所以凡事要留有余地。"
+    },
+    "equivalents": [
+      "what goes around comes around",
+      "it's a small world",
+      "never burn your bridges"
+    ],
+    "examples": [
+      {
+        "zh": "山不转水转，说不定哪天我们还会成为同事。",
+        "en": "You never know, we might end up colleagues some day."
+      },
+      {
+        "zh": "别把话说绝，山不转水转，以后总有求到人家的时候。",
+        "en": "Don't say things you can't take back; you may need their help later."
+      }
+    ],
+    "usage": {
+      "en": "Usually said as 山不转水转，水不转人转 (or 山不转路转). Casual, often a warning or a consolation after a parting or quarrel.",
+      "zh": "常说“山不转水转，水不转人转”或“山不转路转”，口语，多用于劝人留有余地或临别安慰。"
+    },
+    "synonyms": [
+      "后会有期",
+      "世界真小"
+    ],
+    "antonyms": [
+      "一去不返"
+    ]
+  },
+  {
+    "id": "da-gou-kan-zhu-ren",
+    "text": "打狗看主人",
+    "pinyin": "dǎ gǒu kàn zhǔ rén",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "ming-dynasty",
+      "relationships",
+      "society"
+    ],
+    "literal": "hit · dog · look at · master",
+    "natural": "before you beat the dog, consider its master",
+    "meaning": {
+      "en": "Before punishing someone's subordinate or protégé, consider who stands behind them.",
+      "zh": "教训别人的手下或亲信之前，要先看看他背后的主人是谁，不能不给主人面子。"
+    },
+    "equivalents": [
+      "think twice before crossing someone's protégé",
+      "you don't kick a man's dog without reckoning with the man"
+    ],
+    "examples": [
+      {
+        "zh": "你就算对他有意见，也该打狗看主人，别当着老板的面训他的助理。",
+        "en": "Even if you have a grievance, think of who he works for; don't scold the boss's assistant in front of the boss."
+      },
+      {
+        "zh": "打狗看主人，动他的人就是不给他面子。",
+        "en": "Hitting the dog means slapping its master's face; touch his man and you insult him."
+      }
+    ],
+    "usage": {
+      "en": "Sometimes used as a plea to spare someone out of respect for their patron; 'dog' is not meant as an insult to the person addressed. Casual.",
+      "zh": "有时用来求对方看在其主人面上手下留情。这里的“狗”并非辱骂对方。口语。"
+    },
+    "synonyms": [
+      "投鼠忌器",
+      "看人下菜碟"
+    ],
+    "antonyms": [
+      "肆无忌惮",
+      "目中无人"
+    ]
+  },
+  {
+    "id": "ya-men-ba-zi-kai-you",
+    "text": "衙门八字开，有理无钱莫进来",
+    "pinyin": "yá mén bā zì kāi, yǒu lǐ wú qián mò jìn lái",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "ming-dynasty",
+      "corruption-and-injustice",
+      "society"
+    ],
+    "literal": "yamen · eight-character · open · have · right · no · money · don't · enter · come",
+    "natural": "the yamen doors stand wide, but without money, being right won't get you in",
+    "meaning": {
+      "en": "A bitter saying about a corrupt legal system in which a case is decided by bribes rather than by who is in the right.",
+      "zh": "讽刺旧时官府腐败：衙门大门虽然敞开，但没有钱打点，就算有理也打不赢官司。"
+    },
+    "equivalents": [
+      "justice for sale",
+      "money talks in court"
+    ],
+    "examples": [
+      {
+        "zh": "老人感叹，旧社会衙门八字开，有理无钱莫进来。",
+        "en": "The old man sighed that in the old days, with the yamen doors wide open, you needed money even to be heard, however right you were."
+      },
+      {
+        "zh": "戏里那句“衙门八字开，有理无钱莫进来”，说的就是官场腐败。",
+        "en": "The line 'the yamen doors are open, but stay out without money' in the play points to official corruption."
+      }
+    ],
+    "usage": {
+      "en": "Describes the old court (yamen), whose gates were painted in a '八' shape, wide open. Used today only about the past or as ironic complaint about corruption. Casual to neutral.",
+      "zh": "“八字开”指衙门大门朝两边敞开。今天多用来讲旧时官场黑暗，或讽刺不公。口语。"
+    },
+    "synonyms": [
+      "官官相护",
+      "钱能通神"
+    ],
+    "antonyms": [
+      "秉公执法",
+      "清正廉明"
+    ]
+  },
+  {
+    "id": "ning-wei-tai-ping-quan-bu",
+    "text": "宁为太平犬，不做乱离人",
+    "pinyin": "níng wéi tài píng quǎn, bù zuò luàn lí rén",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "宁为太平犬，莫做乱离人"
+    ],
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "peace-and-prosperity",
+      "poems-prose"
+    ],
+    "literal": "rather · be · peaceful · dog · not · be · chaos · separated · person",
+    "natural": "better a dog in peacetime than a man in times of chaos and exile",
+    "meaning": {
+      "en": "Life in peaceful times, even a humble one, is better than life in war, when people are driven from their homes.",
+      "zh": "宁愿在太平年代做条狗，也不愿在战乱年代做流离失所的人，说明和平安定的可贵。"
+    },
+    "equivalents": [
+      "better a dog in peacetime than a man in war",
+      "anything is better than war"
+    ],
+    "examples": [
+      {
+        "zh": "历经战乱的老人常说，宁为太平犬，不做乱离人。",
+        "en": "Old people who lived through the war often say it is better to be a dog in peacetime than a refugee in war."
+      },
+      {
+        "zh": "看到难民的新闻，他又想起了“宁为太平犬，不做乱离人”。",
+        "en": "Watching the news about refugees, he recalled the line 'better a dog in peacetime than a man in chaos'."
+      }
+    ],
+    "origin": {
+      "source": "明·冯梦龙《警世通言》",
+      "story": {
+        "en": "The line appears in the vernacular story collections of Feng Menglong (and was already a popular saying then): an ordinary dog at peace is better off than a person uprooted by disorder.",
+        "zh": "明末冯梦龙编的话本小说中有此语，当时已是流行说法：太平年代的一条狗，也比乱世里流离失所的人过得安稳。"
+      }
+    },
+    "usage": {
+      "en": "Also quoted as 宁为太平犬，莫做乱离人. Expresses how precious peace is. Literary, often quoted in writing about war.",
+      "zh": "也作“宁为太平犬，莫做乱离人”。表达对和平的珍视，书面色彩较重。"
+    },
+    "synonyms": [
+      "国泰民安",
+      "安居乐业"
+    ],
+    "antonyms": [
+      "兵荒马乱",
+      "颠沛流离"
+    ]
+  },
+  {
+    "id": "liang-shan-hao-han",
+    "text": "梁山好汉",
+    "pinyin": "liáng shān hǎo hàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "ming-dynasty",
+      "stories",
+      "positive-character-qualities"
+    ],
+    "literal": "Liangshan · good · fellow",
+    "natural": "the heroes of Liangshan Marsh",
+    "meaning": {
+      "en": "The 108 outlaw heroes of the novel Water Margin, who gathered on Mount Liang; also any bold, righteous rebel or tough guy.",
+      "zh": "《水浒传》中聚义梁山泊的一百零八位好汉；也泛指仗义敢为的豪杰或硬汉。"
+    },
+    "equivalents": [
+      "Water Margin outlaws",
+      "a heroic outlaw"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们最喜欢听梁山好汉劫富济贫的故事。",
+        "en": "The children love stories of the Liangshan heroes robbing the rich to help the poor."
+      },
+      {
+        "zh": "他性格豪爽，大家都叫他“梁山好汉”。",
+        "en": "He is so bold and open-hearted that everyone calls him a 'Liangshan hero'."
+      }
+    ],
+    "origin": {
+      "source": "《水浒传》",
+      "story": {
+        "en": "In the novel, 108 men and women of varied backgrounds are driven to outlawry by an unjust society and gather at Mount Liang under Song Jiang.",
+        "zh": "小说写一百零八位出身各异的人被官府逼迫，在宋江带领下聚义梁山泊。"
+      }
+    },
+    "usage": {
+      "en": "From 《水浒传》 (Water Margin), one of the Four Classic Novels, attributed to Shi Nai'an. Often used jokingly of a straight-talking, brave person. Also see 逼上梁山.",
+      "zh": "出自四大名著之一《水浒传》，传为施耐庵所作。常带戏谑地形容豪爽、敢作敢为的人。"
+    },
+    "synonyms": [
+      "绿林好汉",
+      "英雄好汉"
+    ],
+    "antonyms": [
+      "胆小如鼠",
+      "贪生怕死"
+    ]
+  },
+  {
+    "id": "qi-shi-er-bian",
+    "text": "七十二变",
+    "pinyin": "qī shí èr biàn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "ming-dynasty",
+      "stories",
+      "adaptability"
+    ],
+    "literal": "seventy · two · transformations",
+    "natural": "the seventy-two transformations",
+    "meaning": {
+      "en": "The magic skill of the Monkey King, able to change into seventy-two forms; figuratively, great versatility or many tricks.",
+      "zh": "孙悟空所会的七十二种变化本领；比喻本领高强、手段多端。"
+    },
+    "equivalents": [
+      "a thousand tricks",
+      "shape-shifting powers"
+    ],
+    "examples": [
+      {
+        "zh": "孙悟空学会了七十二变，一个筋斗能翻十万八千里。",
+        "en": "Sun Wukong learned the seventy-two transformations, and one somersault carried him 108,000 li."
+      },
+      {
+        "zh": "他有七十二变的本事，什么场合都能应付自如。",
+        "en": "He is so versatile that he can handle any occasion."
+      }
+    ],
+    "origin": {
+      "source": "《西游记》第二回",
+      "story": {
+        "en": "The Patriarch Subodhi taught Sun Wukong the 72 transformations, with which he can turn into birds, beasts, insects and objects.",
+        "zh": "菩提祖师传授孙悟空七十二般变化，他能变成飞禽走兽、虫鱼草木和各种器物。"
+      }
+    },
+    "usage": {
+      "en": "From 《西游记》 (Journey to the West), chapter 2, where the Patriarch Subodhi teaches Sun Wukong the 地煞七十二变. Often used jokingly of a person with many skills or tricks.",
+      "zh": "出自《西游记》第二回，菩提祖师传授孙悟空地煞七十二变。常带玩笑地形容人本领多、花样多。"
+    },
+    "synonyms": [
+      "神通广大",
+      "变化多端"
+    ],
+    "antonyms": [
+      "一筹莫展",
+      "无能为力"
+    ]
+  },
+  {
+    "id": "da-yi-shi-jing-zhou",
+    "text": "大意失荆州",
+    "pinyin": "dà yì shī jīng zhōu",
+    "kind": "suyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "ming-dynasty",
+      "three-kingdoms",
+      "mistakes-and-correction"
+    ],
+    "literal": "careless · lose · Jingzhou",
+    "natural": "carelessness lost Jingzhou",
+    "meaning": {
+      "en": "A moment of carelessness can lose you something important, as the general Guan Yu lost the key city of Jingzhou.",
+      "zh": "因一时疏忽大意而丢掉重要的东西，像关羽因大意丢了荆州一样。"
+    },
+    "equivalents": [
+      "a moment's carelessness can cost you everything",
+      "pride goes before a fall"
+    ],
+    "examples": [
+      {
+        "zh": "比赛最后一分钟他放松了警惕，结果大意失荆州，被对手逆转。",
+        "en": "He let his guard down in the last minute and lost the lead, a case of careless Jingzhou-losing."
+      },
+      {
+        "zh": "这次投标我们差点大意失荆州，幸亏及时发现了合同漏洞。",
+        "en": "We nearly slipped up badly in this bid, and only just spotted the loophole in the contract."
+      }
+    ],
+    "usage": {
+      "en": "Refers to the Three Kingdoms story of Guan Yu, who lost Jingzhou to Wu's surprise attack in AD 219 after underestimating Lü Meng (told in 《三国演义》). Said of a costly slip by someone strong; casual and slightly rueful.",
+      "zh": "指三国时关羽轻敌，被吕蒙偷袭而丢失荆州（见《三国演义》）。多用于本来占优势的人因疏忽而造成重大损失，口语，略带惋惜。"
+    },
+    "synonyms": [
+      "功亏一篑",
+      "阴沟里翻船"
+    ],
+    "antonyms": [
+      "小心谨慎",
+      "万无一失"
+    ]
+  },
+  {
+    "id": "xin-wai-wu-wu",
+    "text": "心外无物",
+    "pinyin": "xīn wài wú wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "ming-dynasty",
+      "confucian-classics",
+      "mental-clarity"
+    ],
+    "literal": "mind · outside · no · thing",
+    "natural": "nothing exists outside the mind",
+    "meaning": {
+      "en": "Wang Yangming's idea that the world has meaning only through the mind's awareness: nothing is separate from one's own mind.",
+      "zh": "王阳明心学的命题，认为事物的意义由心而显，离开心就谈不上事物。"
+    },
+    "equivalents": [
+      "nothing exists outside the mind",
+      "the world is the mind's own"
+    ],
+    "examples": [
+      {
+        "zh": "王阳明提出“心外无物”，强调心对世界的决定作用。",
+        "en": "Wang Yangming's 'nothing exists outside the mind' stresses the mind's role in shaping the world."
+      },
+      {
+        "zh": "哲学课上，老师讲到心外无物与唯物主义的区别。",
+        "en": "In the philosophy class, the teacher explained how 'nothing outside the mind' differs from materialism."
+      }
+    ],
+    "origin": {
+      "source": "明·王阳明《传习录》",
+      "story": {
+        "en": "In the Chuanxilu, Wang Yangming says that mind is principle, and that there are no things, affairs or principles outside the mind (心外无物，心外无事，心外无理).",
+        "zh": "王阳明《传习录》主张“心即理”，并说“心外无物，心外无事，心外无理”。"
+      }
+    },
+    "usage": {
+      "en": "A technical term of the School of Mind (心学). Easily misread as simple denial that things exist; Wang meant that things have meaning for us only through the mind. Philosophical, formal.",
+      "zh": "心学术语。不宜简单理解为否认外物存在，而是说事物的意义要通过心来呈现。多用于哲学讨论，较正式。"
+    },
+    "synonyms": [
+      "心即是理",
+      "知行合一"
+    ],
+    "antonyms": [
+      "格物致知",
+      "唯物主义"
+    ]
+  },
+  {
+    "id": "po-shan-zhong-zei-yi-po",
+    "text": "破山中贼易，破心中贼难",
+    "pinyin": "pò shān zhōng zéi yì, pò xīn zhōng zéi nán",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "confucian-classics",
+      "essay-favourites"
+    ],
+    "literal": "defeat · mountain · in · bandits · easy · defeat · heart · in · bandits · hard",
+    "natural": "routing bandits in the mountains is easy; routing the bandits in the heart is hard",
+    "meaning": {
+      "en": "Defeating outside enemies is easy; overcoming your own selfish desires and bad thoughts is hard.",
+      "zh": "消灭山里的盗贼容易，战胜内心的私欲杂念困难。"
+    },
+    "equivalents": [
+      "the hardest battle is with yourself",
+      "it's easier to conquer a mountain than yourself"
+    ],
+    "examples": [
+      {
+        "zh": "古人说“破山中贼易，破心中贼难”，戒掉坏习惯需要长期的自律。",
+        "en": "The old saying 'routing bandits in the mountains is easy; routing those in the heart is hard' reminds us that breaking a bad habit takes long self-discipline."
+      },
+      {
+        "zh": "作文里他引用了“破山中贼易，破心中贼难”来谈修身。",
+        "en": "In his essay he quoted 'it is easy to defeat the bandits in the mountains, hard to defeat those in the heart' on self-cultivation."
+      }
+    ],
+    "origin": {
+      "source": "明·王阳明《与杨仕德薛尚谦书》",
+      "story": {
+        "en": "After suppressing bandits in Jiangxi, Wang Yangming wrote to his friends that defeating the bandits in the mountains is easy, but defeating the bandits in the heart is hard.",
+        "zh": "王阳明平定江西盗贼后，写信给友人杨仕德、薛尚谦，说“破山中贼易，破心中贼难”。"
+      }
+    },
+    "usage": {
+      "en": "Often quoted on self-discipline and moral cultivation. Wang Yangming, a general and a philosopher, wrote it after putting down a rebellion in Jiangxi. Literary, essay-friendly.",
+      "zh": "常用于谈自律、修身。王阳明既是军事家又是思想家，平定江西叛乱后写下此语。书面语，适合作文引用。"
+    },
+    "synonyms": [
+      "克己复礼",
+      "战胜自我"
+    ],
+    "antonyms": [
+      "放纵自己",
+      "自甘堕落"
+    ]
+  },
+  {
+    "id": "ci-xin-guang-ming-yi-fu-he-yan",
+    "text": "此心光明，亦复何言",
+    "pinyin": "cǐ xīn guāng míng, yì fù hé yán",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "confucian-classics",
+      "positive-character-qualities"
+    ],
+    "literal": "this · heart · bright · also · again · what · say",
+    "natural": "my heart is bright; what more is there to say?",
+    "meaning": {
+      "en": "With a clear conscience, there is nothing left to say: the dying words of Wang Yangming.",
+      "zh": "内心光明坦荡，还有什么可说的：王阳明临终前的话。"
+    },
+    "equivalents": [
+      "my conscience is clear",
+      "with a clear heart, what more need be said"
+    ],
+    "examples": [
+      {
+        "zh": "面对质疑，他平静地说：“此心光明，亦复何言。”",
+        "en": "Faced with doubts he calmly said, 'My heart is bright; what more is there to say?'"
+      },
+      {
+        "zh": "碑上刻着“此心光明，亦复何言”，那是阳明先生的临终遗言。",
+        "en": "The stele bears 'my heart is bright, what more is there to say', the last words of Master Yangming."
+      }
+    ],
+    "origin": {
+      "source": "《王文成公全书·年谱》",
+      "story": {
+        "en": "As Wang Yangming lay dying on a journey in 1529, a disciple asked for his last words. He smiled and said: 'This heart is bright; what more is there to say?'",
+        "zh": "嘉靖七年（1529）王阳明病逝途中，弟子问遗言，他微笑说：“此心光明，亦复何言。”"
+      }
+    },
+    "usage": {
+      "en": "Traditionally recorded as Wang Yangming's last words (1529). Expresses a clear conscience and calm at death. Literary, solemn.",
+      "zh": "据载为王阳明1529年的临终遗言，表示问心无愧、坦然面对生死。书面语，庄重。"
+    },
+    "synonyms": [
+      "问心无愧",
+      "光明磊落"
+    ],
+    "antonyms": [
+      "做贼心虚",
+      "愧疚不安"
+    ]
+  },
+  {
+    "id": "ru-hua-mei-juan-si-shui-liu-nian",
+    "text": "如花美眷，似水流年",
+    "pinyin": "rú huā měi juàn, sì shuǐ liú nián",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "poems-prose",
+      "fleeting-time",
+      "sadness-and-despair"
+    ],
+    "literal": "like · flower · beautiful · beloved · like · water · flowing · years",
+    "natural": "a beauty like a flower, years like flowing water",
+    "meaning": {
+      "en": "Beautiful love and a lovely lady are no match for time, which flows by like water.",
+      "zh": "如花般美好的人和情，终究敌不过如流水般逝去的时光。"
+    },
+    "equivalents": [
+      "beauty fades as time flows by",
+      "lovely as a flower, fleeting as water"
+    ],
+    "examples": [
+      {
+        "zh": "“如花美眷，似水流年”，读来令人感叹青春易逝。",
+        "en": "'A beauty like a flower, years like flowing water': it makes one sigh at how soon youth is gone."
+      },
+      {
+        "zh": "看着旧照片，她想起那句如花美眷，似水流年。",
+        "en": "Looking at the old photos, she recalled the line about beauty like a flower and years like flowing water."
+      }
+    ],
+    "origin": {
+      "source": "明·汤显祖《牡丹亭·惊梦》",
+      "story": {
+        "en": "In 'The Interrupted Dream', Du Liniang sings this line in the garden, lamenting that spring and youth pass while no one sees her beauty.",
+        "zh": "杜丽娘游园时唱出此句，感叹青春美貌无人赏识，美好光阴白白流逝。"
+      }
+    },
+    "usage": {
+      "en": "Often quoted in novels, films and titles, e.g. Proust's title in Chinese. Expresses wistfulness for lost youth and love; literary.",
+      "zh": "常被小说、电影引用，也用作书名（如《追忆似水年华》的译名）。表达对逝去青春与爱情的怅惘，书面语。"
+    },
+    "synonyms": [
+      "红颜易老",
+      "时光荏苒"
+    ],
+    "antonyms": [
+      "青春常驻",
+      "地久天长"
+    ]
+  },
+  {
+    "id": "liang-chen-mei-jing-nai-he-tian",
+    "text": "良辰美景奈何天",
+    "pinyin": "liáng chén měi jǐng nài hé tiān",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "poems-prose",
+      "sadness-and-despair"
+    ],
+    "literal": "good · hour · lovely · scene · how · to · sky",
+    "natural": "fine day, lovely scene, but what use is heaven?",
+    "meaning": {
+      "en": "A fine day and lovely scenery, yet one's heart cannot enjoy them; sighing over a good moment spoiled by circumstances.",
+      "zh": "美好的时光和景色，却因心境或处境而无法欣赏，感叹好景不由人。"
+    },
+    "equivalents": [
+      "a lovely moment wasted",
+      "fine scenery, heavy heart"
+    ],
+    "examples": [
+      {
+        "zh": "良辰美景奈何天，他困在病房里，错过了整个春天。",
+        "en": "A fine day and lovely scenery, but what could he do: stuck in a hospital ward he missed the whole spring."
+      },
+      {
+        "zh": "“良辰美景奈何天”，她看着窗外的花，却没有心情出去。",
+        "en": "'Fine day and lovely scene, but heaven is unkind', she thought, watching the flowers outside with no wish to go out."
+      }
+    ],
+    "origin": {
+      "source": "明·汤显祖《牡丹亭·惊梦》",
+      "story": {
+        "en": "In the 'Zao luo pao' aria, Du Liniang sees the blooming garden, and sings this line of sorrow as no one shares the joy with her.",
+        "zh": "杜丽娘游园，见满园春色，唱【皂罗袍】，叹“良辰美景奈何天，赏心乐事谁家院”。"
+      }
+    },
+    "usage": {
+      "en": "The line expresses regret that circumstances spoil a good moment; 奈何天 is 'what can one do about fate'. Don't confuse with the common 4-character 良辰美景 (fine time and lovely scene). Literary.",
+      "zh": "表示好景当前却因处境而无法享受的惋惜；“奈何天”即无可奈何的天意。注意与四字词“良辰美景”区别。书面语。"
+    },
+    "synonyms": [
+      "好景不长",
+      "无可奈何"
+    ],
+    "antonyms": [
+      "赏心悦目",
+      "心旷神怡"
+    ]
+  },
+  {
+    "id": "shang-xin-le-shi-shei-jia-yuan",
+    "text": "赏心乐事谁家院",
+    "pinyin": "shǎng xīn lè shì shéi jiā yuàn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "poems-prose",
+      "sadness-and-despair"
+    ],
+    "literal": "delight · heart · happy · affairs · whose · family · courtyard",
+    "natural": "the delightful pleasures: in whose courtyard are they now?",
+    "meaning": {
+      "en": "Where are the pleasures that gladden the heart? They are surely in someone else's house, not mine.",
+      "zh": "赏心乐事不知在谁家的庭院里，言自己无缘享受。"
+    },
+    "equivalents": [
+      "joys are for others, not for me",
+      "where are the delights now?"
+    ],
+    "examples": [
+      {
+        "zh": "赏心乐事谁家院，他看着别人阖家团圆，心里一阵酸楚。",
+        "en": "Watching others' family reunions, he felt sad: delight was in someone else's courtyard."
+      },
+      {
+        "zh": "“赏心乐事谁家院”，这句唱词道尽了她的寂寞。",
+        "en": "The sung line 'in whose courtyard are the delightful joys?' sums up her loneliness."
+      }
+    ],
+    "origin": {
+      "source": "明·汤显祖《牡丹亭·惊梦》",
+      "story": {
+        "en": "The second half of the couplet in Du Liniang's aria: she laments that the pleasures of spring seem to belong to some other household.",
+        "zh": "杜丽娘【皂罗袍】唱词的下句，感叹春光里的欢乐仿佛属于别人家。"
+      }
+    },
+    "usage": {
+      "en": "Usually quoted together with the previous line 良辰美景奈何天. Literary and wistful.",
+      "zh": "通常与上句“良辰美景奈何天”连用，书面语，带有惆怅意味。"
+    },
+    "synonyms": [
+      "孤芳自赏",
+      "形单影只"
+    ],
+    "antonyms": [
+      "喜气洋洋",
+      "其乐融融"
+    ]
+  },
+  {
+    "id": "qing-bu-zhi-suo-qi-yi-wang-er-shen",
+    "text": "情不知所起，一往而深",
+    "pinyin": "qíng bù zhī suǒ qǐ, yī wǎng ér shēn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "poems-prose",
+      "love-and-marriage"
+    ],
+    "literal": "feeling · not · know · where · arises · once · go · and · deepen",
+    "natural": "love does not know where it begins, but once started it only grows deeper",
+    "meaning": {
+      "en": "True love arises without one knowing why, and, once begun, grows ever deeper.",
+      "zh": "真挚的感情不知因何而起，一旦产生就会越来越深。"
+    },
+    "equivalents": [
+      "love comes from nowhere and runs deep",
+      "you cannot say how love begins"
+    ],
+    "examples": [
+      {
+        "zh": "汤显祖说“情不知所起，一往而深”，爱情往往就是这样。",
+        "en": "Tang Xianzu wrote that love knows not where it starts but runs ever deeper, and that's how love often is."
+      },
+      {
+        "zh": "婚礼上，司仪引用了“情不知所起，一往而深”。",
+        "en": "At the wedding the host quoted 'love knows not how it starts, and only runs deeper'."
+      }
+    ],
+    "origin": {
+      "source": "明·汤显祖《牡丹亭题词》",
+      "story": {
+        "en": "In his preface to The Peony Pavilion, Tang Xianzu writes that love knows not whence it arises, but once it goes, it goes deep, so that the living may die for it and the dead may live again.",
+        "zh": "汤显祖《牡丹亭题词》：“情不知所起，一往而深。生者可以死，死可以生。”"
+      }
+    },
+    "usage": {
+      "en": "Quoted in discussions of romantic love, often with the next line 生者可以死，死可以生. Literary.",
+      "zh": "常用于谈论爱情，后文接“生者可以死，死可以生”。书面语。"
+    },
+    "synonyms": [
+      "一往情深",
+      "情深意重"
+    ],
+    "antonyms": [
+      "无情无义",
+      "始乱终弃"
+    ]
+  },
+  {
+    "id": "tie-jian-dan-dao-yi-la",
+    "text": "铁肩担道义，辣手著文章",
+    "pinyin": "tiě jiān dān dào yì, là shǒu zhuó wén zhāng",
+    "kind": "mingju",
+    "frequency": 3,
+    "variants": [
+      "铁肩担道义，妙手著文章"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "outstanding-character",
+      "excellent-writing",
+      "essay-favourites"
+    ],
+    "literal": "iron · shoulder · bear · morality · fierce · hand · write · essays",
+    "natural": "iron shoulders carry righteousness; a sharp hand writes essays",
+    "meaning": {
+      "en": "To shoulder a moral duty bravely and to write with incisive, fearless force.",
+      "zh": "以铁一般的肩膀担起道义，用犀利的笔写出有力的文章，形容记者、作家敢于担当、文笔锋利。"
+    },
+    "equivalents": [
+      "carry justice on your shoulders and write with a sharp pen",
+      "bold in duty, sharp in writing"
+    ],
+    "examples": [
+      {
+        "zh": "记者协会的墙上写着“铁肩担道义，辣手著文章”。",
+        "en": "The motto 'iron shoulders for righteousness, a sharp hand for writing' hangs on the wall of the journalists' association."
+      },
+      {
+        "zh": "他以铁肩担道义，辣手著文章的精神做新闻调查。",
+        "en": "He investigates stories in the spirit of iron shoulders carrying righteousness and a sharp hand writing."
+      }
+    ],
+    "origin": {
+      "source": "传明·杨继盛",
+      "story": {
+        "en": "Traditionally attributed to Yang Jisheng, who was executed in 1555 for impeaching the chief grand secretary Yan Song; the couplet is said to hang in his home.",
+        "zh": "相传为杨继盛的对联。他因弹劾权臣严嵩，于1555年被害；此联传为他所作。"
+      }
+    },
+    "usage": {
+      "en": "Traditionally credited to the Ming martyr Yang Jisheng. Li Dazhao later changed 辣手 into 妙手 (a skilful hand), and this form is also well known. Often quoted for journalists and writers.",
+      "zh": "传为明代杨继盛所作。李大钊后来改“辣手”为“妙手”，这一说法也很有名。常用来勉励新闻工作者和作家。"
+    },
+    "synonyms": [
+      "仗义执言",
+      "笔锋犀利"
+    ],
+    "antonyms": [
+      "明哲保身",
+      "谄媚逢迎"
+    ]
+  },
+  {
+    "id": "bie-ren-xiao-wo-tai-feng",
+    "text": "别人笑我太疯癫，我笑他人看不穿",
+    "pinyin": "bié rén xiào wǒ tài fēng diān, wǒ xiào tā rén kàn bù chuān",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "ming-dynasty",
+      "poems-prose",
+      "contentment-and-simplicity",
+      "freedom"
+    ],
+    "literal": "other · people · laugh · at me · too · mad · I · laugh · others · see · not · through",
+    "natural": "others laugh at me for being mad; I laugh at them for not seeing through it all",
+    "meaning": {
+      "en": "People think me crazy, but I think they are the ones who cannot see through worldly fame and wealth.",
+      "zh": "别人嘲笑我太疯癫，我却笑他们看不透名利得失。"
+    },
+    "equivalents": [
+      "they call me mad, I call them blind",
+      "the world laughs at me, and I at its illusions"
+    ],
+    "examples": [
+      {
+        "zh": "他辞了高薪工作去种地，面对质疑只说：“别人笑我太疯癫，我笑他人看不穿。”",
+        "en": "He quit his well-paid job to farm and, to the doubters, simply said, 'Others laugh at my madness, I laugh at their blindness'."
+      },
+      {
+        "zh": "“别人笑我太疯癫，我笑他人看不穿”，朋友圈里这句签名很流行。",
+        "en": "'Others laugh at me for being mad; I laugh at them for not seeing through it' is a popular signature line online."
+      }
+    ],
+    "origin": {
+      "source": "明·唐寅《桃花庵歌》",
+      "story": {
+        "en": "In 'Song of the Peach Blossom Retreat', the painter-poet Tang Yin, disillusioned by a failed career, chooses wine and flowers over rank: 'Others laugh at me for being too mad; I laugh at others for not seeing through it.'",
+        "zh": "唐寅科场失意后隐居桃花庵，作《桃花庵歌》，以酒与花替代功名，结句为“别人笑我太疯癫，我笑他人看不穿”。"
+      }
+    },
+    "usage": {
+      "en": "Ending lines of Tang Yin's 《桃花庵歌》; often quoted when someone chooses an unconventional, carefree life. Casual to literary; can also sound self-justifying.",
+      "zh": "出自唐寅《桃花庵歌》结尾，常用于表达不随流俗的洒脱，口语书面皆可，有时也带自我解嘲。"
+    },
+    "synonyms": [
+      "特立独行",
+      "超然物外"
+    ],
+    "antonyms": [
+      "随波逐流",
+      "追名逐利"
+    ]
+  }
+]
