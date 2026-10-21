@@ -22,13 +22,8 @@ export async function renderDictionary(root: HTMLElement) {
   const count = h("div", { class: "muted small result-count" });
   const list = h("div", { class: "entry-list" });
   const more = h("button", { class: "btn block", hidden: true }, en() ? "Load more" : "加载更多");
-  const hint = h(
-    "div",
-    { class: "search-hint" },
-    h("div", { class: "search-hint-mark", "aria-hidden": "true" }, h("i"), h("i"), h("i"), h("i")),
-    h("p", null, en() ? "Type characters, pinyin (with or without tones) or English." : "输入汉字、拼音（带不带声调都可以）或英文。"),
-    h("p", { class: "muted small" }, en() ? "e.g. 蛇 · hua she · hstz · blessing in disguise" : "例如：蛇 · hua she · hstz"),
-  );
+  // Blank until something is typed.
+  const hint = h("div", { class: "search-hint" });
 
   let offset = 0;
   let seq = 0;
