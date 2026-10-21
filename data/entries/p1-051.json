@@ -149,7 +149,6 @@
       "zh": "多用于书面，谈历史或谋略。"
     },
     "synonyms": [
-      "空城计",
       "虚张声势"
     ],
     "antonyms": [
@@ -317,64 +316,6 @@
     "antonyms": [
       "一蹶不振",
       "一败涂地"
-    ]
-  },
-  {
-    "id": "po-tian-huang",
-    "text": "破天荒",
-    "pinyin": "pò tiān huāng",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "unprecedented-situations"
-    ],
-    "literal": "break · heaven's · barrenness",
-    "natural": "for the very first time",
-    "meaning": {
-      "en": "Something that happens for the first time ever.",
-      "zh": "比喻事情第一次出现。"
-    },
-    "equivalents": [
-      "for the first time ever",
-      "unheard of",
-      "a first"
-    ],
-    "examples": [
-      {
-        "zh": "他破天荒地早起做了早饭。",
-        "en": "For once in his life, he got up early and made breakfast."
-      },
-      {
-        "zh": "我们村今年破天荒出了个博士。",
-        "en": "For the first time ever, our village produced a PhD this year."
-      },
-      {
-        "zh": "一向沉默的他今天破天荒发了言。",
-        "en": "He's always silent, but today, for the first time, he spoke up."
-      }
-    ],
-    "origin": {
-      "source": "宋·孙光宪《北梦琐言》",
-      "story": {
-        "en": "In Tang times Jingzhou sent candidates to the imperial exams year after year, but none ever passed, so it was mocked as a 'barren land' (天荒). When Liu Tui finally passed, people said he had 'broken the barrenness'.",
-        "zh": "唐代荆州每年送举人应考，却无一人考中，被称为“天荒”。后来刘蜕考中进士，人称“破天荒”。"
-      }
-    },
-    "usage": {
-      "en": "Usually adverbial with 地, or 破天荒头一回. Often humorous about someone's unusual behaviour.",
-      "zh": "多作状语（破天荒地……），也说“破天荒头一回”；常带调侃。"
-    },
-    "synonyms": [
-      "史无前例",
-      "前所未有",
-      "开天辟地"
-    ],
-    "antonyms": [
-      "司空见惯",
-      "屡见不鲜",
-      "家常便饭"
     ]
   },
   {
@@ -1224,54 +1165,6 @@
     "antonyms": [
       "司空见惯",
       "家常便饭"
-    ]
-  },
-  {
-    "id": "qi-ji-ban",
-    "text": "奇迹般",
-    "pinyin": "qí jì bān",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "extraordinary-circumstances",
-      "miraculous-occurrences"
-    ],
-    "literal": "miracle · -like",
-    "natural": "miraculously",
-    "meaning": {
-      "en": "Like a miracle; astonishingly.",
-      "zh": "像奇迹一样，令人惊叹。"
-    },
-    "equivalents": [
-      "miraculously",
-      "as if by a miracle"
-    ],
-    "examples": [
-      {
-        "zh": "他奇迹般地康复了。",
-        "en": "He made a miraculous recovery."
-      },
-      {
-        "zh": "那只小猫奇迹般地从废墟里被救了出来。",
-        "en": "The kitten was miraculously rescued from the rubble."
-      },
-      {
-        "zh": "球队奇迹般地逆转了比分。",
-        "en": "The team turned the score around as if by a miracle."
-      }
-    ],
-    "usage": {
-      "en": "Almost always adverbial: 奇迹般地 + verb.",
-      "zh": "几乎总作状语：奇迹般地……"
-    },
-    "synonyms": [
-      "起死回生",
-      "枯木逢春"
-    ],
-    "antonyms": [
-      "意料之中"
     ]
   }
 ]

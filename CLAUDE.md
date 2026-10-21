@@ -10,7 +10,7 @@ Read `docs/content-guide.md` before writing entries. Key standing rules from the
 - **Variants** are one entry: headword = most common form, others in `variants`; never list a variant
   as a synonym/antonym, and never list two forms of one expression in the same list.
   Run `python3 scripts/lint_variants.py` on each batch.
-- **No one- or two-character entries** — hard rule from the owner (enforced by `cargo test`).
+- **No entries shorter than four characters** (no 1-, 2- or 3-character items) — hard rule from the owner, enforced by `cargo test`.
 - **Origins only when well attested**; otherwise leave `origin` out.
 - Content phases: (1) the owner's master list, (2) top-1000 THUOCL chengyu, (3) expand to 5,000.
 - Batches: `python3 scripts/add_batch.py drafts.json data/entries/p1-NNN.json`, then
