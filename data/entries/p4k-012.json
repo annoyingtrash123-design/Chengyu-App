@@ -294,11 +294,11 @@
     "id": "sheng-zhen-huan-yu",
     "text": "声振寰宇",
     "pinyin": "shēng zhèn huán yǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "声震寰宇"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -396,11 +396,11 @@
     "id": "shi-guai-ming-jian",
     "text": "时乖命蹇",
     "pinyin": "shí guāi mìng jiǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "时乖运蹇"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -680,13 +680,13 @@
   },
   {
     "id": "shu-qie-gou-tou",
-    "text": "鼠窃狗偷",
-    "pinyin": "shǔ qiè gǒu tōu",
+    "text": "鼠窃狗盗",
+    "pinyin": "shǔ qiè gǒu dào",
+    "variants": [
+      "鼠窃狗偷"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "鼠窃狗盗"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

@@ -1164,11 +1164,14 @@
     "id": "ku-zhu-sheng-sun",
     "text": "哭竹生笋",
     "pinyin": "kū zhú shēng sǔn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "孟宗哭竹"
     ],
+    "variant_kinds": {
+      "孟宗哭竹": "short"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

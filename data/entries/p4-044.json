@@ -3,12 +3,15 @@
     "id": "yi-zi-zhi-mao-gong-zi-zhi-dun",
     "text": "以子之矛，攻子之盾",
     "pinyin": "yǐ zǐ zhī máo, gōng zǐ zhī dùn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "以子之矛",
       "以子之矛攻子之盾"
     ],
+    "variant_kinds": {
+      "以子之矛": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -114,11 +117,11 @@
     "id": "bu-jian-jing-zhuan",
     "text": "不见经传",
     "pinyin": "bù jiàn jīng zhuàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "名不见经传"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -278,13 +281,17 @@
     "id": "lao-wang-mai-gua-zi-mai-zi-kua",
     "text": "老王卖瓜——自卖自夸",
     "pinyin": "lǎo wáng mài guā —— zì mài zì kuā",
-    "kind": "xiehouyu",
-    "frequency": 3,
     "variants": [
       "老王卖瓜",
       "王婆卖瓜",
       "王婆卖瓜，自卖自夸"
     ],
+    "variant_kinds": {
+      "老王卖瓜": "short",
+      "王婆卖瓜": "short"
+    },
+    "kind": "xiehouyu",
+    "frequency": 3,
     "parts": [
       "老王卖瓜",
       "自卖自夸"
@@ -395,11 +402,11 @@
     "id": "ji-ji-zhong-liu",
     "text": "击楫中流",
     "pinyin": "jī jí zhōng liú",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "中流击楫"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -455,11 +462,11 @@
     "id": "xin-jin-huo-chuan",
     "text": "薪尽火传",
     "pinyin": "xīn jìn huǒ chuán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "薪火相传"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -622,11 +629,11 @@
     "id": "dan-xin-bi-xue",
     "text": "丹心碧血",
     "pinyin": "dān xīn bì xuè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "碧血丹心"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1020,12 +1027,12 @@
     "id": "jiang-men-hu-zi",
     "text": "将门虎子",
     "pinyin": "jiàng mén hǔ zǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "将门无犬子",
       "将门出虎子"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1182,11 +1189,11 @@
     "id": "lu-shui-fu-qi",
     "text": "露水夫妻",
     "pinyin": "lù shuǐ fū qī",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "露水姻缘"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

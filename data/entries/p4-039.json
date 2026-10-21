@@ -114,11 +114,14 @@
     "id": "yun-yong-zhi-miao-cun-hu-yi-xin",
     "text": "运用之妙，存乎一心",
     "pinyin": "yùn yòng zhī miào, cún hū yī xīn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "存乎一心"
     ],
+    "variant_kinds": {
+      "存乎一心": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -618,11 +621,14 @@
     "id": "wan-ying-ling-dan",
     "text": "万应灵丹",
     "pinyin": "wàn yìng líng dān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "万灵丹"
     ],
+    "variant_kinds": {
+      "万灵丹": "short"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -722,11 +728,11 @@
     "id": "an-nei-rang-wai",
     "text": "安内攘外",
     "pinyin": "ān nèi rǎng wài",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "攘外安内"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -826,11 +832,11 @@
     "id": "jin-yi-ye-xing",
     "text": "锦衣夜行",
     "pinyin": "jǐn yī yè xíng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "衣锦夜行"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -886,11 +892,11 @@
     "id": "jia-dao-fa-guo",
     "text": "假道伐虢",
     "pinyin": "jiǎ dào fá guó",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "假途灭虢"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -1114,11 +1120,11 @@
     "id": "ning-jing-zhi-yuan",
     "text": "宁静致远",
     "pinyin": "níng jìng zhì yuǎn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "宁静以致远"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

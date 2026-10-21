@@ -3,12 +3,12 @@
     "id": "tian-shang-yi-ri-di-xia-yi-nian",
     "text": "天上一日，地下一年",
     "pinyin": "tiān shàng yī rì, dì xià yī nián",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "天上一天，地上一年",
       "天上一日，人间一年"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -101,11 +101,11 @@
     "id": "nu-er-shi-shui-zuo-de-gu-rou",
     "text": "女儿是水做的骨肉",
     "pinyin": "nǚ ér shì shuǐ zuò de gǔ ròu",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "女人是水做的"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -348,14 +348,14 @@
     "id": "sun-wu-kong-fan-jin-dou",
     "text": "孙悟空翻筋斗——十万八千里",
     "pinyin": "sūn wù kōng fān jīn dǒu —— shí wàn bā qiān lǐ",
+    "variants": [
+      "孙悟空翻跟头——十万八千里"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "孙悟空翻筋斗",
       "十万八千里"
-    ],
-    "variants": [
-      "孙悟空翻跟头——十万八千里"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -401,14 +401,14 @@
     "id": "sun-wu-kong-tiao-bu-chu",
     "text": "孙悟空跳不出如来佛的手心——枉费心机",
     "pinyin": "sūn wù kōng tiào bù chū rú lái fó de shǒu xīn —— wǎng fèi xīn jī",
+    "variants": [
+      "孙悟空逃不出如来佛的手心——枉费心机"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "孙悟空跳不出如来佛的手心",
       "枉费心机"
-    ],
-    "variants": [
-      "孙悟空逃不出如来佛的手心——枉费心机"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -741,11 +741,14 @@
     "id": "pan-gu-kai-tian",
     "text": "盘古开天",
     "pinyin": "pán gǔ kāi tiān",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "盘古开天辟地"
     ],
+    "variant_kinds": {
+      "盘古开天辟地": "full"
+    },
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -843,11 +846,11 @@
     "id": "san-guo-jia-men-er-bu-ru",
     "text": "三过家门而不入",
     "pinyin": "sān guò jiā mén ér bù rù",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "三过其门而不入"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

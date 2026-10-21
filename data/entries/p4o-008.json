@@ -455,11 +455,11 @@
     "id": "bai-lu-shen-bu-lu",
     "text": "白露身不露",
     "pinyin": "bái lù shēn bù lù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "白露不露身"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -762,11 +762,11 @@
     "id": "ri-luo-yan-zhi-hong-wu-yu-bian-shi-feng",
     "text": "日落胭脂红，无雨便是风",
     "pinyin": "rì luò yān zhī hóng, wú yǔ biàn shì fēng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "日落胭脂红，无雨也有风"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -806,11 +806,14 @@
     "id": "yan-zi-di-fei-da-yu-jiang-zhi",
     "text": "燕子低飞，大雨将至",
     "pinyin": "yàn zi dī fēi, dà yǔ jiāng zhì",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "燕子低飞蛇过道，不久大雨到"
     ],
+    "variant_kinds": {
+      "燕子低飞蛇过道，不久大雨到": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

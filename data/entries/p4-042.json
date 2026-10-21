@@ -623,6 +623,10 @@
       "人为财死",
       "鸟为食亡"
     ],
+    "variant_kinds": {
+      "人为财死": "short",
+      "鸟为食亡": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",

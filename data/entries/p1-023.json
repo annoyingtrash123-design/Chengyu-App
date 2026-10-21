@@ -317,6 +317,10 @@
       "天网恢恢，疏而不漏",
       "天网恢恢疏而不漏"
     ],
+    "variant_kinds": {
+      "天网恢恢，疏而不漏": "full",
+      "天网恢恢疏而不漏": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -929,10 +933,10 @@
   },
   {
     "id": "fang-huan-wei-ran",
-    "text": "防患未然",
-    "pinyin": "fáng huàn wèi rán",
+    "text": "防患于未然",
+    "pinyin": "fáng huàn yú wèi rán",
     "variants": [
-      "防患于未然"
+      "防患未然"
     ],
     "kind": "chengyu",
     "frequency": 2,

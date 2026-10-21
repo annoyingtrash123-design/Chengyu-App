@@ -90,6 +90,9 @@
       "天下没有不散的宴席",
       "千里搭长棚，没有不散的宴席"
     ],
+    "variant_kinds": {
+      "千里搭长棚，没有不散的宴席": "full"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -470,6 +473,9 @@
       "车到山前必有路，船到桥头自然直",
       "车到山前自有路"
     ],
+    "variant_kinds": {
+      "车到山前必有路，船到桥头自然直": "full"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",

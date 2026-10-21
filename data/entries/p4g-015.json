@@ -48,11 +48,14 @@
     "id": "bei-hou-tong-dao-zi",
     "text": "背后捅刀子",
     "pinyin": "bèi hòu tǒng dāo zi",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "捅刀子"
     ],
+    "variant_kinds": {
+      "捅刀子": "short"
+    },
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

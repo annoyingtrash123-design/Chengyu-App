@@ -982,6 +982,9 @@
     "variants": [
       "急不及待"
     ],
+    "variant_kinds": {
+      "急不及待": "error"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -1186,6 +1189,9 @@
     "variants": [
       "未可厚非"
     ],
+    "variant_kinds": {
+      "未可厚非": "old"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

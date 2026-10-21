@@ -847,11 +847,11 @@
     "id": "yi-qiang-fu-ruo",
     "text": "抑强扶弱",
     "pinyin": "yì qiáng fú ruò",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "锄强扶弱"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1144,11 +1144,11 @@
     "id": "bang-da-yao-yuan",
     "text": "膀大腰圆",
     "pinyin": "bǎng dà yāo yuán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "膀阔腰圆"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1196,12 +1196,16 @@
     "id": "zhi-ke-yi-hui-bu-ke-yan-chuan",
     "text": "只可意会，不可言传",
     "pinyin": "zhǐ kě yì huì, bù kě yán chuán",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "只可意会",
       "不可言传"
     ],
+    "variant_kinds": {
+      "只可意会": "short",
+      "不可言传": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

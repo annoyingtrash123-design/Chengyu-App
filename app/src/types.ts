@@ -52,6 +52,8 @@ export interface Entry {
   modern?: "modern" | "borrowed";
   /** Other accepted forms, merged into this entry. */
   variants?: string[];
+  /** Type of each variant; missing means an equally acceptable alternative. */
+  variant_kinds?: Record<string, "alt" | "old" | "error" | "short" | "full">;
 }
 
 export interface Card {

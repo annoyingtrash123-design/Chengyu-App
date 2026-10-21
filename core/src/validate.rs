@@ -161,6 +161,11 @@ pub fn check(dict: &Dictionary) -> Report {
                 err.push(format!("{t}: lists its own variant {v} as a synonym/antonym (keep it in `variants` only)"));
             }
         }
+        for v in e.variant_kinds.keys() {
+            if !e.variants.contains(v) {
+                err.push(format!("{t}: variant_kinds names `{v}`, which isn't in `variants`"));
+            }
+        }
         if e.synonyms.contains(t) || e.antonyms.contains(t) {
             err.push(format!("{t}: lists itself as a synonym/antonym"));
         }

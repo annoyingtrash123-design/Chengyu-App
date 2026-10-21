@@ -280,12 +280,16 @@
     "id": "jiang-shan-dai-you-cai-ren",
     "text": "江山代有才人出，各领风骚数百年",
     "pinyin": "jiāng shān dài yǒu cái rén chū, gè lǐng fēng sāo shù bǎi nián",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "江山代有才人出",
       "各领风骚数百年"
     ],
+    "variant_kinds": {
+      "江山代有才人出": "short",
+      "各领风骚数百年": "short"
+    },
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -337,11 +341,14 @@
     "id": "bai-shan-xiao-wei-xian",
     "text": "百善孝为先",
     "pinyin": "bǎi shàn xiào wéi xiān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "百善孝为先，万恶淫为首"
     ],
+    "variant_kinds": {
+      "百善孝为先，万恶淫为首": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -426,11 +433,14 @@
     "id": "fu-mu-zai-bu-yuan-you",
     "text": "父母在，不远游",
     "pinyin": "fù mǔ zài, bù yuǎn yóu",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "父母在，不远游，游必有方"
     ],
+    "variant_kinds": {
+      "父母在，不远游，游必有方": "full"
+    },
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [

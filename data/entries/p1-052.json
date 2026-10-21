@@ -473,6 +473,9 @@
     "variants": [
       "多米诺效应"
     ],
+    "variant_kinds": {
+      "多米诺效应": "short"
+    },
     "kind": "phrase",
     "frequency": 2,
     "modern": "borrowed",
@@ -569,6 +572,9 @@
     "variants": [
       "君子报仇"
     ],
+    "variant_kinds": {
+      "君子报仇": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1103,6 +1109,10 @@
       "棋逢对手，将遇良才",
       "将遇良材"
     ],
+    "variant_kinds": {
+      "棋逢对手，将遇良才": "full",
+      "将遇良材": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

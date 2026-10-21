@@ -103,11 +103,14 @@
     "id": "pi-ma-dai-xiao",
     "text": "披麻戴孝",
     "pinyin": "pī má dài xiào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "披麻带孝"
     ],
+    "variant_kinds": {
+      "披麻带孝": "error"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -453,11 +456,11 @@
     "id": "yuan-shui-jie-bu-liao-jin-ke",
     "text": "远水解不了近渴",
     "pinyin": "yuǎn shuǐ jiě bù liǎo jìn kě",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "远水救不了近火"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

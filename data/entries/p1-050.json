@@ -833,6 +833,10 @@
       "近水楼台先得月",
       "近水楼台"
     ],
+    "variant_kinds": {
+      "近水楼台先得月": "short",
+      "近水楼台": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -1084,6 +1088,9 @@
     "variants": [
       "一日为师"
     ],
+    "variant_kinds": {
+      "一日为师": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",

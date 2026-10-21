@@ -93,9 +93,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       { class: "entry-head" },
       head,
       h("div", { class: "pinyin-lg" }, pinyinText),
-      e.variants?.length
-        ? h("div", { class: "variants" }, `${en() ? "Also written 也作" : "也作"} ${e.variants.join("、")}`)
-        : null,
+      variantLines(e),
       h(
         "div",
         { class: "badges" },
@@ -176,4 +174,39 @@ function highlight(sentence: string, phrases: string[], self: string) {
     if (p) out.push(linked(p, [self]));
   });
   return h("span", null, out);
+}
+
+const VARIANT_HEAD: Record<string, [string, string]> = {
+  alt: ["也作", "Also written"],
+  old: ["旧作", "Older form"],
+  full: ["全作", "Full form"],
+  short: ["简作", "Short form"],
+  error: ["误作", "Common error, avoid"],
+};
+
+/** The other forms of an expression, grouped: equal alternatives first, misspellings last (struck through). */
+function variantLines(e: EntryDetail["entry"]) {
+  if (!e.variants?.length) return null;
+  const groups = new Map<string, string[]>();
+  for (const v of e.variants) {
+    const kind = e.variant_kinds?.[v] ?? "alt";
+    groups.set(kind, [...(groups.get(kind) ?? []), v]);
+  }
+  return h(
+    "div",
+    { class: "variants" },
+    ["alt", "old", "full", "short", "error"]
+      .filter((k) => groups.has(k))
+      .map((k) => {
+        const [zh, enText] = VARIANT_HEAD[k];
+        const forms = groups.get(k)!;
+        return h(
+          "div",
+          { class: `variant-line variant-${k}` },
+          h("span", { class: "variant-head" }, en() ? `${zh} ${enText}` : zh),
+          " ",
+          k === "error" ? forms.map((v, i) => [i ? "、" : "", h("s", null, v)]) : forms.join("、"),
+        );
+      }),
+  );
 }

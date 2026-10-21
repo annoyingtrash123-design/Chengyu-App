@@ -432,6 +432,9 @@
       "初生之犊不畏虎",
       "初生之犊"
     ],
+    "variant_kinds": {
+      "初生之犊": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -480,6 +483,9 @@
     "variants": [
       "桀傲不驯"
     ],
+    "variant_kinds": {
+      "桀傲不驯": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

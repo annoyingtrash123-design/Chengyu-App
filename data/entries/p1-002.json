@@ -363,6 +363,9 @@
     "variants": [
       "挺而走险"
     ],
+    "variant_kinds": {
+      "挺而走险": "error"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "negative",
@@ -1124,6 +1127,9 @@
     "variants": [
       "罔知所措"
     ],
+    "variant_kinds": {
+      "罔知所措": "old"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

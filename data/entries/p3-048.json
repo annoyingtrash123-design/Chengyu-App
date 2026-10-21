@@ -569,6 +569,9 @@
     "variants": [
       "声音笑貌"
     ],
+    "variant_kinds": {
+      "声音笑貌": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1031,6 +1034,9 @@
     "variants": [
       "做贼喊捉贼"
     ],
+    "variant_kinds": {
+      "做贼喊捉贼": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

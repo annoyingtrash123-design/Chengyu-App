@@ -3,14 +3,14 @@
     "id": "gao-she-pao-da-wen-zi-da-cai-xiao-yong",
     "text": "高射炮打蚊子——大材小用",
     "pinyin": "gāo shè pào dǎ wén zi —— dà cái xiǎo yòng",
+    "variants": [
+      "大炮打蚊子——大材小用"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "高射炮打蚊子",
       "大材小用"
-    ],
-    "variants": [
-      "大炮打蚊子——大材小用"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -105,15 +105,15 @@
     "id": "men-feng-li-kan-ren-ba-ren-kan-bian-le",
     "text": "门缝里看人——把人看扁了",
     "pinyin": "mén fèng lǐ kàn rén —— bǎ rén kàn biǎn le",
+    "variants": [
+      "门缝里瞧人——把人看扁了",
+      "从门缝里看人——把人看扁了"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "门缝里看人",
       "把人看扁了"
-    ],
-    "variants": [
-      "门缝里瞧人——把人看扁了",
-      "从门缝里看人——把人看扁了"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -208,14 +208,14 @@
     "id": "xia-mao-peng-shang-si-hao-zi-peng-qiao",
     "text": "瞎猫碰上死耗子——碰巧",
     "pinyin": "xiā māo pèng shàng sǐ hào zi —— pèng qiǎo",
+    "variants": [
+      "瞎猫碰着死耗子——碰巧"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "瞎猫碰上死耗子",
       "碰巧"
-    ],
-    "variants": [
-      "瞎猫碰着死耗子——碰巧"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -310,14 +310,17 @@
     "id": "re-guo-shang-de-ma-yi-tuan-tuan-zhuan",
     "text": "热锅上的蚂蚁——团团转",
     "pinyin": "rè guō shàng de mǎ yǐ —— tuán tuán zhuàn",
+    "variants": [
+      "热锅上的蚂蚁——急得团团转"
+    ],
+    "variant_kinds": {
+      "热锅上的蚂蚁——急得团团转": "full"
+    },
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "热锅上的蚂蚁",
       "团团转"
-    ],
-    "variants": [
-      "热锅上的蚂蚁——急得团团转"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -363,14 +366,14 @@
     "id": "wu-ya-zhan-zai-zhu-shen",
     "text": "乌鸦站在猪身上——光看见别人黑",
     "pinyin": "wū yā zhàn zài zhū shēn shàng —— guāng kàn jiàn bié rén hēi",
+    "variants": [
+      "乌鸦笑猪黑——光看别人黑，不见自己黑"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "乌鸦站在猪身上",
       "光看见别人黑"
-    ],
-    "variants": [
-      "乌鸦笑猪黑——光看别人黑，不见自己黑"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -415,15 +418,15 @@
     "id": "ba-le-mao-de-feng-huang-bu-ru-ji",
     "text": "拔了毛的凤凰——不如鸡",
     "pinyin": "bá le máo de fèng huáng —— bù rú jī",
+    "variants": [
+      "落水的凤凰——不如鸡",
+      "脱了毛的凤凰——不如鸡"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "拔了毛的凤凰",
       "不如鸡"
-    ],
-    "variants": [
-      "落水的凤凰——不如鸡",
-      "脱了毛的凤凰——不如鸡"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -468,14 +471,14 @@
     "id": "lan-po-niang-de-guo-jiao",
     "text": "懒婆娘的裹脚布——又臭又长",
     "pinyin": "lǎn pó niáng de guǒ jiǎo bù —— yòu chòu yòu cháng",
+    "variants": [
+      "老太太的裹脚布——又臭又长"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "懒婆娘的裹脚布",
       "又臭又长"
-    ],
-    "variants": [
-      "老太太的裹脚布——又臭又长"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -521,14 +524,14 @@
     "id": "fei-ji-shang-chui-la-ba-xiang-de-gao",
     "text": "飞机上吹喇叭——响（想）得高",
     "pinyin": "fēi jī shàng chuī lǎ ba —— xiǎng (xiǎng) dé gāo",
+    "variants": [
+      "坐飞机吹喇叭——响得高"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "飞机上吹喇叭",
       "响（想）得高"
-    ],
-    "variants": [
-      "坐飞机吹喇叭——响得高"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -573,15 +576,18 @@
     "id": "da-po-sha-guo-wen-dao-di",
     "text": "打破砂锅——问（纹）到底",
     "pinyin": "dǎ pò shā guō —— wèn (wèn) dào dǐ",
+    "variants": [
+      "打破沙锅——问到底",
+      "打破砂锅问到底"
+    ],
+    "variant_kinds": {
+      "打破沙锅——问到底": "old"
+    },
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "打破砂锅",
       "问（纹）到底"
-    ],
-    "variants": [
-      "打破沙锅——问到底",
-      "打破砂锅问到底"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -725,14 +731,14 @@
     "id": "xia-zi-chi-tang-yuan-xin-zhong-you-shu",
     "text": "瞎子吃汤圆——心中有数",
     "pinyin": "xiā zi chī tāng yuán —— xīn zhōng yǒu shù",
+    "variants": [
+      "哑巴吃饺子——心里有数"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "瞎子吃汤圆",
       "心中有数"
-    ],
-    "variants": [
-      "哑巴吃饺子——心里有数"
     ],
     "sentiment": "positive",
     "register": "casual",
@@ -778,14 +784,14 @@
     "id": "dang-yi-tian-he-shang-zhuang",
     "text": "当一天和尚撞一天钟——得过且过",
     "pinyin": "dāng yī tiān hé shang zhuàng yī tiān zhōng —— dé guò qiě guò",
+    "variants": [
+      "做一天和尚撞一天钟——得过且过"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "当一天和尚撞一天钟",
       "得过且过"
-    ],
-    "variants": [
-      "做一天和尚撞一天钟——得过且过"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -1030,14 +1036,14 @@
     "id": "zhu-bi-zi-cha-da-cong-zhuang-xiang",
     "text": "猪鼻子插大葱——装象（相）",
     "pinyin": "zhū bí zi chā dà cōng —— zhuāng xiàng (xiàng)",
+    "variants": [
+      "猪鼻子插葱——装相"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "猪鼻子插大葱",
       "装象（相）"
-    ],
-    "variants": [
-      "猪鼻子插葱——装相"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -1083,14 +1089,14 @@
     "id": "he-shang-da-san-wu-fa-wu-tian",
     "text": "和尚打伞——无法（发）无天",
     "pinyin": "hé shang dǎ sǎn —— wú fǎ (fà) wú tiān",
+    "variants": [
+      "癞痢头打伞——无法无天"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "和尚打伞",
       "无法（发）无天"
-    ],
-    "variants": [
-      "癞痢头打伞——无法无天"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -1136,14 +1142,14 @@
     "id": "zhu-ba-jie-shuai-pa-zi-bu-gan-le",
     "text": "猪八戒摔耙子——不干了",
     "pinyin": "zhū bā jiè shuāi pá zi —— bù gàn le",
+    "variants": [
+      "猪八戒甩耙子——不干了"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "猪八戒摔耙子",
       "不干了"
-    ],
-    "variants": [
-      "猪八戒甩耙子——不干了"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -1188,15 +1194,15 @@
     "id": "mao-keng-li-de-shi-tou-you-chou-you-ying",
     "text": "茅坑里的石头——又臭又硬",
     "pinyin": "máo kēng lǐ de shí tou —— yòu chòu yòu yìng",
+    "variants": [
+      "屎坑里的砖头——又臭又硬",
+      "粪缸里泡过的石头——又臭又硬"
+    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "茅坑里的石头",
       "又臭又硬"
-    ],
-    "variants": [
-      "屎坑里的砖头——又臭又硬",
-      "粪缸里泡过的石头——又臭又硬"
     ],
     "sentiment": "negative",
     "register": "casual",

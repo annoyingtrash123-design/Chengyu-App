@@ -402,11 +402,14 @@
     "id": "si-hai-sheng-ping",
     "text": "四海升平",
     "pinyin": "sì hǎi shēng píng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "四海昇平"
     ],
+    "variant_kinds": {
+      "四海昇平": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

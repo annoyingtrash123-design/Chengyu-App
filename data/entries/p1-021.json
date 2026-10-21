@@ -55,6 +55,9 @@
     "variants": [
       "狼飧虎咽"
     ],
+    "variant_kinds": {
+      "狼飧虎咽": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1019,6 +1022,10 @@
       "八仙过海，各显神通",
       "八仙过海各显神通"
     ],
+    "variant_kinds": {
+      "八仙过海，各显神通": "full",
+      "八仙过海各显神通": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",

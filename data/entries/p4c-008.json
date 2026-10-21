@@ -1,13 +1,13 @@
 [
   {
     "id": "bai-yu-wei-xia",
-    "text": "白玉微瑕",
-    "pinyin": "bái yù wēi xiá",
+    "text": "白璧微瑕",
+    "pinyin": "bái bì wēi xiá",
+    "variants": [
+      "白玉微瑕"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "白璧微瑕"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -741,11 +741,11 @@
     "id": "feng-qing-yue-lang",
     "text": "风清月朗",
     "pinyin": "fēng qīng yuè lǎng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "风清月白"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

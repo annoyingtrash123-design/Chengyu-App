@@ -89,11 +89,14 @@
     "id": "you-li-bu-zai-sheng-gao",
     "text": "有理不在声高",
     "pinyin": "yǒu lǐ bú zài shēng gāo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "有理不在声高，无理不怕人多"
     ],
+    "variant_kinds": {
+      "有理不在声高，无理不怕人多": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -134,11 +137,11 @@
     "id": "you-fu-tong-xiang-you-nan-tong-dang",
     "text": "有福同享，有难同当",
     "pinyin": "yǒu fú tóng xiǎng, yǒu nàn tóng dāng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "有福同享，有祸同当"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -182,11 +185,14 @@
     "id": "you-chou-bu-bao-fei-jun-zi",
     "text": "有仇不报非君子",
     "pinyin": "yǒu chóu bú bào fēi jūn zǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "有仇不报非君子，有冤不伸枉为人"
     ],
+    "variant_kinds": {
+      "有仇不报非君子，有冤不伸枉为人": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -313,11 +319,11 @@
     "id": "mei-you-san-liang-san-bu",
     "text": "没有三两三，不敢上梁山",
     "pinyin": "méi yǒu sān liǎng sān, bù gǎn shàng liáng shān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "没有三分三，不敢上梁山"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -398,11 +404,11 @@
     "id": "lao-hu-bu-fa-wei-ni-dang-wo-shi-bing-mao",
     "text": "老虎不发威，你当我是病猫",
     "pinyin": "lǎo hǔ bù fā wēi, nǐ dàng wǒ shì bìng māo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "老虎不发威，当我是病猫"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -444,11 +450,11 @@
     "id": "lao-shu-la-mu-xian-da-tou-zai-hou-tou",
     "text": "老鼠拉木锨，大头在后头",
     "pinyin": "lǎo shǔ lā mù xiān, dà tóu zài hòu tou",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "老鼠拖木锨，大头在后头"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -487,11 +493,11 @@
     "id": "san-sui-kan-da-qi-sui-kan-lao",
     "text": "三岁看大，七岁看老",
     "pinyin": "sān suì kàn dà, qī suì kàn lǎo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "三岁看小，七岁看老"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -660,12 +666,12 @@
     "id": "pao-de-liao-he-shang-pao-bu-liao-miao",
     "text": "跑得了和尚，跑不了庙",
     "pinyin": "pǎo de liǎo hé shang, pǎo bù liǎo miào",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "跑了和尚跑不了庙",
       "跑了和尚，跑不了寺"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -961,11 +967,11 @@
     "id": "qiang-tou-cao-sui-feng-dao",
     "text": "墙头草，随风倒",
     "pinyin": "qiáng tóu cǎo, suí fēng dǎo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "墙头草，两边倒"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

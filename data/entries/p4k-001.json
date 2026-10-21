@@ -110,11 +110,14 @@
     "id": "qie-zhong-ken-qing",
     "text": "切中肯綮",
     "pinyin": "qiè zhòng kěn qìng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "中其肯綮"
     ],
+    "variant_kinds": {
+      "中其肯綮": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -352,11 +355,11 @@
     "id": "jiu-yang-da-ming",
     "text": "久仰大名",
     "pinyin": "jiǔ yǎng dà míng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "久闻大名"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -399,11 +402,11 @@
     "id": "ji-guang-pian-yu",
     "text": "吉光片羽",
     "pinyin": "jí guāng piàn yǔ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "片羽吉光"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

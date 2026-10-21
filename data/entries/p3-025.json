@@ -912,6 +912,10 @@
       "天有不测风云，人有旦夕祸福",
       "不测风云"
     ],
+    "variant_kinds": {
+      "天有不测风云，人有旦夕祸福": "full",
+      "不测风云": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",

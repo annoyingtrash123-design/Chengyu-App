@@ -139,11 +139,14 @@
     "id": "lu-jian-bu-ping-ba-dao-xiang-zhu",
     "text": "路见不平，拔刀相助",
     "pinyin": "lù jiàn bù píng, bá dāo xiāng zhù",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "路见不平"
     ],
+    "variant_kinds": {
+      "路见不平": "short"
+    },
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -637,11 +640,11 @@
     "id": "zhi-ji-zhi-bi",
     "text": "知己知彼",
     "pinyin": "zhī jǐ zhī bǐ",
-    "kind": "chengyu",
-    "frequency": 2,
     "variants": [
       "知彼知己"
     ],
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

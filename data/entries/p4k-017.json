@@ -311,11 +311,14 @@
     "id": "ze-shan-gu-zhi",
     "text": "择善固执",
     "pinyin": "zé shàn gù zhí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "择善而固执"
     ],
+    "variant_kinds": {
+      "择善而固执": "full"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -422,11 +425,11 @@
     "id": "zhai-xing-lan-yue",
     "text": "摘星揽月",
     "pinyin": "zhāi xīng lǎn yuè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "揽月摘星"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -583,11 +586,11 @@
     "id": "che-ye-bu-mian",
     "text": "彻夜不眠",
     "pinyin": "chè yè bù mián",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "彻夜未眠"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

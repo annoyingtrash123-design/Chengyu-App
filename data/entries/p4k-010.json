@@ -163,11 +163,11 @@
     "id": "pian-jian-lei-zu",
     "text": "骈肩累足",
     "pinyin": "pián jiān lěi zú",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "骈肩累迹"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -266,11 +266,11 @@
     "id": "bing-sheng-lian-qi",
     "text": "屏声敛气",
     "pinyin": "bǐng shēng liǎn qì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "屏息敛声"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -479,11 +479,11 @@
     "id": "qi-ma-zhao-ma",
     "text": "骑马找马",
     "pinyin": "qí mǎ zhǎo mǎ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "骑驴找马"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -735,11 +735,11 @@
     "id": "qi-ruo-you-si",
     "text": "气若游丝",
     "pinyin": "qì ruò yóu sī",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "气如游丝"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -789,11 +789,11 @@
     "id": "qi-yu-bu-fan",
     "text": "器宇不凡",
     "pinyin": "qì yǔ bù fán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "气宇不凡"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -843,11 +843,11 @@
     "id": "qian-jin-mai-xiao",
     "text": "千金买笑",
     "pinyin": "qiān jīn mǎi xiào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "千金一笑"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -897,11 +897,14 @@
     "id": "qian-li-e-mao",
     "text": "千里鹅毛",
     "pinyin": "qiān lǐ é máo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "千里送鹅毛"
     ],
+    "variant_kinds": {
+      "千里送鹅毛": "full"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

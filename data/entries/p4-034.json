@@ -3,11 +3,14 @@
     "id": "shi-bu-yan-jing",
     "text": "食不厌精",
     "pinyin": "shí bù yàn jīng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "食不厌精，脍不厌细"
     ],
+    "variant_kinds": {
+      "食不厌精，脍不厌细": "full"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -633,12 +636,16 @@
     "id": "ming-qiang-yi-duo-an-jian-nan-fang",
     "text": "明枪易躲，暗箭难防",
     "pinyin": "míng qiāng yì duǒ, àn jiàn nán fáng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "明枪易躲",
       "暗箭难防"
     ],
+    "variant_kinds": {
+      "明枪易躲": "short",
+      "暗箭难防": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -817,11 +824,11 @@
     "id": "zhuan-bei-wei-xi",
     "text": "转悲为喜",
     "pinyin": "zhuǎn bēi wéi xǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "化悲为喜"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

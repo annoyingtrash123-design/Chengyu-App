@@ -178,11 +178,11 @@
     "id": "shan-zhong-wu-lao-hu-hou",
     "text": "山中无老虎，猴子称大王",
     "pinyin": "shān zhōng wú lǎo hǔ, hóu zi chēng dà wáng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "山中无老虎，猴子称霸王"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -441,11 +441,11 @@
     "id": "chi-shui-bu-wang-wa-jing-ren",
     "text": "吃水不忘挖井人",
     "pinyin": "chī shuǐ bù wàng wā jǐng rén",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "吃水不忘掘井人"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -489,11 +489,11 @@
     "id": "chi-zhe-wan-li-kan-zhe-guo-li",
     "text": "吃着碗里，看着锅里",
     "pinyin": "chī zhe wǎn lǐ, kàn zhe guō lǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "吃着碗里，瞧着锅里"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -747,11 +747,14 @@
     "id": "kai-men-qi-jian-shi-chai",
     "text": "开门七件事，柴米油盐酱醋茶",
     "pinyin": "kāi mén qī jiàn shì, chái mǐ yóu yán jiàng cù chá",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "柴米油盐酱醋茶"
     ],
+    "variant_kinds": {
+      "柴米油盐酱醋茶": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -925,11 +928,11 @@
     "id": "bu-zuo-kui-xin-shi-bu-pa-gui-qiao-men",
     "text": "不做亏心事，不怕鬼敲门",
     "pinyin": "bú zuò kuī xīn shì, bú pà guǐ qiāo mén",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "平生不做亏心事，半夜敲门心不惊"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [

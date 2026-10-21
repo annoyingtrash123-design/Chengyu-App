@@ -3,11 +3,14 @@
     "id": "jin-yue-yuan-lai",
     "text": "近悦远来",
     "pinyin": "jìn yuè yuǎn lái",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "近者悦远者来"
     ],
+    "variant_kinds": {
+      "近者悦远者来": "full"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -222,11 +225,11 @@
     "id": "jue-miao-hao-ci",
     "text": "绝妙好辞",
     "pinyin": "jué miào hǎo cí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "绝妙好词"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -484,11 +487,11 @@
     "id": "kou-mo-heng-fei",
     "text": "口沫横飞",
     "pinyin": "kǒu mò héng fēi",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "唾沫横飞"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -795,13 +798,13 @@
   },
   {
     "id": "lan-zhi-hui-xin",
-    "text": "兰质蕙心",
-    "pinyin": "lán zhì huì xīn",
+    "text": "蕙质兰心",
+    "pinyin": "huì zhì lán xīn",
+    "variants": [
+      "兰质蕙心"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "蕙质兰心"
-    ],
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -850,11 +853,11 @@
     "id": "lao-shao-xian-yi",
     "text": "老少咸宜",
     "pinyin": "lǎo shào xián yí",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "老幼咸宜"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1056,11 +1059,11 @@
     "id": "li-li-wei-ju",
     "text": "栗栗危惧",
     "pinyin": "lì lì wēi jù",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "栗栗自危"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -1107,13 +1110,13 @@
   },
   {
     "id": "liang-gong-xin-ku",
-    "text": "良工心苦",
-    "pinyin": "liáng gōng xīn kǔ",
+    "text": "良工苦心",
+    "pinyin": "liáng gōng kǔ xīn",
+    "variants": [
+      "良工心苦"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "良工苦心"
-    ],
     "sentiment": "positive",
     "register": "literary",
     "themes": [

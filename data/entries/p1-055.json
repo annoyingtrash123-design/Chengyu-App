@@ -103,6 +103,9 @@
       "朽木不可雕也",
       "朽木不雕"
     ],
+    "variant_kinds": {
+      "朽木不可雕也": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -755,6 +758,9 @@
     "variants": [
       "学而时习之"
     ],
+    "variant_kinds": {
+      "学而时习之": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",

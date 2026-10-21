@@ -240,6 +240,9 @@
       "心腹之患",
       "腹心之患"
     ],
+    "variant_kinds": {
+      "腹心之患": "old"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -700,6 +703,9 @@
       "手到拈来",
       "手到拿来"
     ],
+    "variant_kinds": {
+      "手到拿来": "error"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

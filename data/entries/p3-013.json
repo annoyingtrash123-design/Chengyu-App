@@ -152,6 +152,9 @@
     "variants": [
       "振振有辞"
     ],
+    "variant_kinds": {
+      "振振有辞": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -706,6 +709,9 @@
     "variants": [
       "像煞有介事"
     ],
+    "variant_kinds": {
+      "像煞有介事": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

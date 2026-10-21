@@ -246,6 +246,9 @@
       "师傅领进门",
       "师父领进门，修行在个人"
     ],
+    "variant_kinds": {
+      "师傅领进门": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -298,6 +301,9 @@
     "variants": [
       "传道授业解惑"
     ],
+    "variant_kinds": {
+      "传道授业解惑": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -757,6 +763,9 @@
     "variants": [
       "春宵一刻值千金"
     ],
+    "variant_kinds": {
+      "春宵一刻值千金": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1067,6 +1076,10 @@
       "工欲善其事",
       "必先利其器"
     ],
+    "variant_kinds": {
+      "工欲善其事": "short",
+      "必先利其器": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",

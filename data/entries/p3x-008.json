@@ -350,6 +350,9 @@
     "variants": [
       "沉滓泛起"
     ],
+    "variant_kinds": {
+      "沉滓泛起": "old"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -403,6 +406,9 @@
       "独此一家",
       "只此一家，别无分号"
     ],
+    "variant_kinds": {
+      "只此一家，别无分号": "full"
+    },
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
@@ -747,6 +753,9 @@
     "variants": [
       "百害而无一利"
     ],
+    "variant_kinds": {
+      "百害而无一利": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",

@@ -3,11 +3,11 @@
     "id": "cong-jian-ru-liu",
     "text": "从谏如流",
     "pinyin": "cóng jiàn rú liú",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "纳谏如流"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1110,12 +1110,16 @@
     "id": "jin-zhu-zhe-chi-jin-mo-zhe-hei",
     "text": "近朱者赤，近墨者黑",
     "pinyin": "jìn zhū zhě chì, jìn mò zhě hēi",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "近朱者赤",
       "近墨者黑"
     ],
+    "variant_kinds": {
+      "近朱者赤": "short",
+      "近墨者黑": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [

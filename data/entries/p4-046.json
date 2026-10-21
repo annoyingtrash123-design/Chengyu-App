@@ -91,11 +91,11 @@
     "id": "tuo-jiang-zhi-ma",
     "text": "脱缰之马",
     "pinyin": "tuō jiāng zhī mǎ",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "脱缰野马"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -365,11 +365,11 @@
     "id": "yue-ma-yang-bian",
     "text": "跃马扬鞭",
     "pinyin": "yuè mǎ yáng biān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "策马扬鞭"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -457,14 +457,19 @@
     "id": "jing-ruo-chu-zi-dong-ruo-tuo-tu",
     "text": "静若处子，动若脱兔",
     "pinyin": "jìng ruò chǔ zǐ, dòng ruò tuō tù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "静若处子",
       "动若脱兔",
       "静如处子，动如脱兔",
       "动如脱兔"
     ],
+    "variant_kinds": {
+      "静若处子": "short",
+      "动若脱兔": "short",
+      "动如脱兔": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -512,12 +517,16 @@
     "id": "bu-zhi-you-han-wu-lun-wei-jin",
     "text": "不知有汉，无论魏晋",
     "pinyin": "bù zhī yǒu hàn, wú lùn wèi jìn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "不知有汉",
       "无论魏晋"
     ],
+    "variant_kinds": {
+      "不知有汉": "short",
+      "无论魏晋": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -613,11 +622,11 @@
     "id": "shi-tong-er-xi",
     "text": "视同儿戏",
     "pinyin": "shì tóng ér xì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "视为儿戏"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -848,12 +857,16 @@
     "id": "qing-fu-bu-si-lu-nan-wei-yi",
     "text": "庆父不死，鲁难未已",
     "pinyin": "qìng fǔ bù sǐ, lǔ nàn wèi yǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "庆父不死",
       "鲁难未已"
     ],
+    "variant_kinds": {
+      "庆父不死": "short",
+      "鲁难未已": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -949,11 +962,11 @@
     "id": "cun-er-bu-lun",
     "text": "存而不论",
     "pinyin": "cún ér bù lùn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "置而不论"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -1003,11 +1016,11 @@
     "id": "lin-shen-lu-bo",
     "text": "临深履薄",
     "pinyin": "lín shēn lǚ bó",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "履薄临深"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -1059,12 +1072,12 @@
     "id": "long-pan-hu-ju",
     "text": "龙盘虎踞",
     "pinyin": "lóng pán hǔ jù",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "虎踞龙盘",
       "龙蟠虎踞"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

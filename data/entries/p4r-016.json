@@ -572,11 +572,14 @@
     "id": "san-shi-du-he",
     "text": "三豕渡河",
     "pinyin": "sān shǐ dù hé",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "三豕涉河"
     ],
+    "variant_kinds": {
+      "三豕涉河": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -628,11 +631,11 @@
     "id": "qing-tan-wu-guo",
     "text": "清谈误国",
     "pinyin": "qīng tán wù guó",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "空谈误国"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -730,11 +733,14 @@
     "id": "qin-lve-ru-huo",
     "text": "侵略如火",
     "pinyin": "qīn lüè rú huǒ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "侵掠如火"
     ],
+    "variant_kinds": {
+      "侵掠如火": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

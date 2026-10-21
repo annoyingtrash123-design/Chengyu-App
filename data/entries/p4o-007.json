@@ -139,11 +139,14 @@
     "id": "hua-hu-hua-pi-nan-hua-gu",
     "text": "画虎画皮难画骨",
     "pinyin": "huà hǔ huà pí nán huà gǔ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "画龙画虎难画骨，知人知面不知心"
     ],
+    "variant_kinds": {
+      "画龙画虎难画骨，知人知面不知心": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -233,11 +236,11 @@
     "id": "ren-sheng-zai-qin-qin-ze-bu-kui",
     "text": "人生在勤，勤则不匮",
     "pinyin": "rén shēng zài qín, qín zé bù kuì",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "民生在勤，勤则不匮"
     ],
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -470,11 +473,11 @@
     "id": "shuo-de-bi-chang-de-hao-ting",
     "text": "说的比唱的好听",
     "pinyin": "shuō de bǐ chàng de hǎo tīng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "说得比唱得好听"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

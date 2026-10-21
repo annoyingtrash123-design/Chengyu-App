@@ -153,11 +153,11 @@
     "id": "ye-wu-yi-xian",
     "text": "野无遗贤",
     "pinyin": "yě wú yí xián",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "野无遗才"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -364,11 +364,11 @@
     "id": "yi-dou-cong-sheng",
     "text": "疑窦丛生",
     "pinyin": "yí dòu cóng shēng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "疑窦顿生"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -467,11 +467,11 @@
     "id": "yi-guan-kui-tian",
     "text": "以管窥天",
     "pinyin": "yǐ guǎn kuī tiān",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "用管窥天"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -528,11 +528,11 @@
     "id": "yi-xue-kui-di",
     "text": "蚁穴溃堤",
     "pinyin": "yǐ xué kuì dī",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "蝼蚁溃堤"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -746,11 +746,11 @@
     "id": "yin-ling-er-wang",
     "text": "引领而望",
     "pinyin": "yǐn lǐng ér wàng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "引颈而望"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1058,11 +1058,14 @@
     "id": "you-yuan-wu-fen",
     "text": "有缘无分",
     "pinyin": "yǒu yuán wú fèn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "有缘无份"
     ],
+    "variant_kinds": {
+      "有缘无份": "error"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1161,11 +1164,11 @@
     "id": "yu-mao-wei-feng",
     "text": "羽毛未丰",
     "pinyin": "yǔ máo wèi fēng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "羽翼未丰"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

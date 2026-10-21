@@ -437,11 +437,11 @@
     "id": "jie-po-xia-lu",
     "text": "借坡下驴",
     "pinyin": "jiè pō xià lǘ",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "就坡下驴"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -721,12 +721,16 @@
     "id": "si-sheng-you-ming-fu-gui-zai-tian",
     "text": "死生有命，富贵在天",
     "pinyin": "sǐ shēng yǒu mìng, fù guì zài tiān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "富贵在天",
       "死生有命"
     ],
+    "variant_kinds": {
+      "富贵在天": "short",
+      "死生有命": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -890,11 +894,11 @@
     "id": "ai-cai-ru-ming",
     "text": "爱财如命",
     "pinyin": "ài cái rú mìng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "爱钱如命"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1001,11 +1005,14 @@
     "id": "peng-sheng-ma-zhong-bu-fu-er-zhi",
     "text": "蓬生麻中，不扶而直",
     "pinyin": "péng shēng má zhōng, bù fú ér zhí",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "蓬生麻中"
     ],
+    "variant_kinds": {
+      "蓬生麻中": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1227,11 +1234,11 @@
     "id": "ji-chi-bai-lian",
     "text": "急赤白脸",
     "pinyin": "jí chì bái liǎn",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "急头白脸"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

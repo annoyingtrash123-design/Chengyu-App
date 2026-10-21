@@ -95,11 +95,14 @@
     "id": "yi-chang-bai-he",
     "text": "一唱百和",
     "pinyin": "yī chàng bǎi hè",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "一倡百和"
     ],
+    "variant_kinds": {
+      "一倡百和": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -283,11 +286,14 @@
     "id": "de-yu-wang-quan",
     "text": "得鱼忘筌",
     "pinyin": "dé yú wàng quán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "得鱼忘荃"
     ],
+    "variant_kinds": {
+      "得鱼忘荃": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -1021,11 +1027,11 @@
     "id": "da-bi-ru-chuan",
     "text": "大笔如椽",
     "pinyin": "dà bǐ rú chuán",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "如椽大笔"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

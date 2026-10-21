@@ -392,6 +392,10 @@
       "无精打彩",
       "没精打彩"
     ],
+    "variant_kinds": {
+      "无精打彩": "error",
+      "没精打彩": "error"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -493,6 +497,10 @@
       "城门失火，殃及池鱼",
       "城门失火殃及池鱼"
     ],
+    "variant_kinds": {
+      "城门失火，殃及池鱼": "full",
+      "城门失火殃及池鱼": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -765,6 +773,9 @@
     "variants": [
       "百思不得其解"
     ],
+    "variant_kinds": {
+      "百思不得其解": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -1072,6 +1083,9 @@
     "variants": [
       "青出于蓝而胜于蓝"
     ],
+    "variant_kinds": {
+      "青出于蓝而胜于蓝": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

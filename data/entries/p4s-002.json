@@ -184,6 +184,10 @@
       "一寸光阴一寸金，寸金难买寸光阴",
       "寸金难买寸光阴"
     ],
+    "variant_kinds": {
+      "一寸光阴一寸金，寸金难买寸光阴": "full",
+      "寸金难买寸光阴": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",

@@ -368,6 +368,9 @@
     "variants": [
       "名符其实"
     ],
+    "variant_kinds": {
+      "名符其实": "error"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",
@@ -1078,6 +1081,9 @@
     "variants": [
       "数见不鲜"
     ],
+    "variant_kinds": {
+      "数见不鲜": "old"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",

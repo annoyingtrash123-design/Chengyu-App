@@ -55,11 +55,11 @@
     "id": "ban-qi-shi-tou-za-zi-ji-de-jiao",
     "text": "搬起石头砸自己的脚",
     "pinyin": "bān qǐ shí tou zá zì jǐ de jiǎo",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "搬石头砸自己的脚"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -147,11 +147,11 @@
     "id": "hua-dao-zui-bian-liu-ban-ju",
     "text": "话到嘴边留半句",
     "pinyin": "huà dào zuǐ biān liú bàn jù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "话到嘴边留三分"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -371,11 +371,11 @@
     "id": "ting-hua-ting-yin-luo-gu-ting-sheng",
     "text": "听话听音，锣鼓听声",
     "pinyin": "tīng huà tīng yīn, luó gǔ tīng shēng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "听话听声，锣鼓听音"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -508,11 +508,14 @@
     "id": "xue-ru-ni-shui-xing-zhou-bu-jin-ze-tui",
     "text": "学如逆水行舟，不进则退",
     "pinyin": "xué rú nì shuǐ xíng zhōu, bù jìn zé tuì",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "逆水行舟，不进则退"
     ],
+    "variant_kinds": {
+      "逆水行舟，不进则退": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -598,11 +601,11 @@
     "id": "tou-ji-bu-zhao-shi-ba-mi",
     "text": "偷鸡不着蚀把米",
     "pinyin": "tōu jī bù zháo shí bǎ mǐ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "偷鸡不成蚀把米"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -731,11 +734,14 @@
     "id": "lao-zi-ying-xiong-er-hao-han",
     "text": "老子英雄儿好汉",
     "pinyin": "lǎo zi yīng xióng ér hǎo hàn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "老子英雄儿好汉，老子反动儿混蛋"
     ],
+    "variant_kinds": {
+      "老子英雄儿好汉，老子反动儿混蛋": "full"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -957,11 +963,11 @@
     "id": "dao-zi-zui-dou-fu-xin",
     "text": "刀子嘴，豆腐心",
     "pinyin": "dāo zi zuǐ, dòu fu xīn",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "刀子嘴巴，豆腐心"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [

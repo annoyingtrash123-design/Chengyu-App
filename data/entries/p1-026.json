@@ -707,6 +707,11 @@
       "日落而息",
       "日出而作，日入而息"
     ],
+    "variant_kinds": {
+      "日出而作，日落而息": "full",
+      "日落而息": "short",
+      "日出而作，日入而息": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

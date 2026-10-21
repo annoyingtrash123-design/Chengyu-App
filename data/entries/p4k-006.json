@@ -337,6 +337,9 @@
     "variants": [
       "蜚短流长"
     ],
+    "variant_kinds": {
+      "蜚短流长": "old"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -749,10 +752,10 @@
   },
   {
     "id": "gong-zhu-yu-shi",
-    "text": "公诸于世",
-    "pinyin": "gōng zhū yú shì",
+    "text": "公之于世",
+    "pinyin": "gōng zhī yú shì",
     "variants": [
-      "公之于世",
+      "公诸于世",
       "公诸于众"
     ],
     "kind": "chengyu",

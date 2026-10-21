@@ -3,11 +3,11 @@
     "id": "san-jun-yi-de-yi-jiang-nan-qiu",
     "text": "三军易得，一将难求",
     "pinyin": "sān jūn yì dé, yī jiàng nán qiú",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "千军易得，一将难求"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -93,11 +93,14 @@
     "id": "jiao-tu-si-zou-gou-peng",
     "text": "狡兔死，走狗烹",
     "pinyin": "jiǎo tù sǐ, zǒu gǒu pēng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "飞鸟尽，良弓藏"
     ],
+    "variant_kinds": {
+      "飞鸟尽，良弓藏": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -149,11 +152,11 @@
     "id": "bao-han-bu-zhi-e-han-ji",
     "text": "饱汉不知饿汉饥",
     "pinyin": "bǎo hàn bù zhī è hàn jī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "饱人不知饿人饥"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -679,12 +682,12 @@
     "id": "bu-guan-hei-mao-bai-mao",
     "text": "不管黑猫白猫，能捉到老鼠就是好猫",
     "pinyin": "bù guǎn hēi māo bái māo, néng zhuō dào lǎo shǔ jiù shì hǎo māo",
-    "kind": "suyu",
-    "frequency": 3,
-    "modern": "modern",
     "variants": [
       "不管白猫黑猫，捉住老鼠就是好猫"
     ],
+    "kind": "suyu",
+    "frequency": 3,
+    "modern": "modern",
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -728,11 +731,11 @@
     "id": "niu-bu-he-shui-qiang-an-tou",
     "text": "牛不喝水强按头",
     "pinyin": "niú bù hē shuǐ qiáng àn tóu",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "牛不喝水难按角"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

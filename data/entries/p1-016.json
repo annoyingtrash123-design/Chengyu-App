@@ -307,6 +307,10 @@
       "靠山吃山，靠水吃水",
       "靠水吃水"
     ],
+    "variant_kinds": {
+      "靠山吃山，靠水吃水": "full",
+      "靠水吃水": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",

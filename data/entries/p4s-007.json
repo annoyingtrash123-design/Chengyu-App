@@ -3,11 +3,11 @@
     "id": "huo-bi-san-jia-bu-chi-kui",
     "text": "货比三家不吃亏",
     "pinyin": "huò bǐ sān jiā bù chī kuī",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "货问三家不吃亏"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -92,11 +92,14 @@
     "id": "shi-jin-zi-zong-hui-fa-guang-de",
     "text": "是金子总会发光的",
     "pinyin": "shì jīn zi zǒng huì fā guāng de",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "金子总会发光"
     ],
+    "variant_kinds": {
+      "金子总会发光": "short"
+    },
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -223,12 +226,12 @@
     "id": "yi-ya-huan-ya-yi-yan-huan-yan",
     "text": "以牙还牙，以眼还眼",
     "pinyin": "yǐ yá huán yá, yǐ yǎn huán yǎn",
-    "kind": "suyu",
-    "frequency": 2,
-    "modern": "borrowed",
     "variants": [
       "以眼还眼，以牙还牙"
     ],
+    "kind": "suyu",
+    "frequency": 2,
+    "modern": "borrowed",
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -271,11 +274,11 @@
     "id": "ge-ren-zi-sao-men-qian",
     "text": "各人自扫门前雪，莫管他人瓦上霜",
     "pinyin": "gè rén zì sǎo mén qián xuě, mò guǎn tā rén wǎ shàng shuāng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "各人自扫门前雪，莫管他家瓦上霜"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -319,11 +322,11 @@
     "id": "shuo-cao-cao-cao-cao-dao",
     "text": "说曹操，曹操到",
     "pinyin": "shuō cáo cāo, cáo cāo dào",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "说曹操曹操就到"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -408,11 +411,11 @@
     "id": "er-ting-wei-xu-yan-jian-wei-shi",
     "text": "耳听为虚，眼见为实",
     "pinyin": "ěr tīng wéi xū, yǎn jiàn wéi shí",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "眼见为实，耳听为虚"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -453,11 +456,11 @@
     "id": "hao-le-shang-ba-wang-le-teng",
     "text": "好了伤疤忘了疼",
     "pinyin": "hǎo le shāng bā wàng le téng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "好了疮疤忘了痛"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -762,11 +765,11 @@
     "id": "bu-pa-bu-shi-huo-zhi-pa-huo-bi-huo",
     "text": "不怕不识货，只怕货比货",
     "pinyin": "bù pà bù shí huò, zhǐ pà huò bǐ huò",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "不怕不识货，就怕货比货"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -975,12 +978,12 @@
     "id": "liang-hu-xiang-zheng-bi-you-yi-shang",
     "text": "两虎相争，必有一伤",
     "pinyin": "liǎng hǔ xiāng zhēng, bì yǒu yī shāng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "二虎相斗，必有一伤",
       "两虎相斗，必有一伤"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

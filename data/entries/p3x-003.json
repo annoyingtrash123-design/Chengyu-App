@@ -7,6 +7,10 @@
       "人无远虑",
       "必有近忧"
     ],
+    "variant_kinds": {
+      "人无远虑": "short",
+      "必有近忧": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -70,6 +74,10 @@
       "无心插柳柳成荫",
       "无心插柳"
     ],
+    "variant_kinds": {
+      "无心插柳柳成荫": "short",
+      "无心插柳": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -124,6 +132,9 @@
     "variants": [
       "毫不利己"
     ],
+    "variant_kinds": {
+      "毫不利己": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -185,6 +196,9 @@
     "variants": [
       "仁者乐山"
     ],
+    "variant_kinds": {
+      "仁者乐山": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -244,9 +258,11 @@
     "pinyin": "sān rén xíng, bì yǒu wǒ shī",
     "variants": [
       "三人行必有我师",
-      "择其善者而从之",
       "三人行，必有我师焉"
     ],
+    "variant_kinds": {
+      "三人行，必有我师焉": "full"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -309,6 +325,10 @@
       "横眉冷对",
       "俯首甘为孺子牛"
     ],
+    "variant_kinds": {
+      "横眉冷对": "short",
+      "俯首甘为孺子牛": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -368,6 +388,9 @@
     "variants": [
       "人而无信"
     ],
+    "variant_kinds": {
+      "人而无信": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "negative",
@@ -429,6 +452,9 @@
     "variants": [
       "留得青山在"
     ],
+    "variant_kinds": {
+      "留得青山在": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -483,6 +509,9 @@
     "variants": [
       "好事不出门"
     ],
+    "variant_kinds": {
+      "好事不出门": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -536,6 +565,9 @@
     "variants": [
       "人不犯我"
     ],
+    "variant_kinds": {
+      "人不犯我": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -590,6 +622,9 @@
     "variants": [
       "病来如山倒"
     ],
+    "variant_kinds": {
+      "病来如山倒": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -642,6 +677,9 @@
     "variants": [
       "成由勤俭破由奢"
     ],
+    "variant_kinds": {
+      "成由勤俭破由奢": "old"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -705,6 +743,10 @@
       "不求有功",
       "但求无过"
     ],
+    "variant_kinds": {
+      "不求有功": "short",
+      "但求无过": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -762,6 +804,10 @@
       "只欠东风",
       "万事俱备只欠东风"
     ],
+    "variant_kinds": {
+      "万事俱备": "short",
+      "只欠东风": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -824,6 +870,10 @@
       "意在沛公",
       "项庄舞剑"
     ],
+    "variant_kinds": {
+      "意在沛公": "short",
+      "项庄舞剑": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1267,6 +1317,9 @@
       "大事化小小事化了",
       "大事化小"
     ],
+    "variant_kinds": {
+      "大事化小": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",

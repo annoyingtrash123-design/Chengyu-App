@@ -6,6 +6,9 @@
     "variants": [
       "八月十五云遮月，正月十五雪打灯"
     ],
+    "variant_kinds": {
+      "八月十五云遮月，正月十五雪打灯": "full"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -49,6 +52,9 @@
     "variants": [
       "六月天孩儿脸，说变就变"
     ],
+    "variant_kinds": {
+      "六月天孩儿脸，说变就变": "full"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -180,6 +186,9 @@
     "variants": [
       "不违农时"
     ],
+    "variant_kinds": {
+      "不违农时": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",

@@ -150,14 +150,14 @@
     "id": "dao-le-wu-wei-ping-zi",
     "text": "倒了五味瓶子——酸甜苦辣咸都有",
     "pinyin": "dào le wǔ wèi píng zi —— suān tián kǔ là xián dōu yǒu",
+    "variants": [
+      "打翻五味瓶——酸甜苦辣咸都有"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "倒了五味瓶子",
       "酸甜苦辣咸都有"
-    ],
-    "variants": [
-      "打翻五味瓶——酸甜苦辣咸都有"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -348,14 +348,14 @@
     "id": "lao-shu-la-gui-wu-cong-xia-shou",
     "text": "老鼠拉龟——无从下手",
     "pinyin": "lǎo shǔ lā guī —— wú cóng xià shǒu",
+    "variants": [
+      "老鼠拉龟，无从下手"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "老鼠拉龟",
       "无从下手"
-    ],
-    "variants": [
-      "老鼠拉龟，无从下手"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -400,14 +400,14 @@
     "id": "lei-gong-da-dou-fu-zhuan-jian-ruan-de-qi",
     "text": "雷公打豆腐——专拣软的欺",
     "pinyin": "léi gōng dǎ dòu fu —— zhuān jiǎn ruǎn de qī",
+    "variants": [
+      "雷公打豆腐，拣软的欺"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "雷公打豆腐",
       "专拣软的欺"
-    ],
-    "variants": [
-      "雷公打豆腐，拣软的欺"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -452,14 +452,14 @@
     "id": "lao-hu-tou-shang-pai-cang",
     "text": "老虎头上拍苍蝇——胆子不小",
     "pinyin": "lǎo hǔ tóu shàng pāi cāng yíng —— dǎn zi bù xiǎo",
+    "variants": [
+      "狮子头上捕苍蝇——好大胆"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "老虎头上拍苍蝇",
       "胆子不小"
-    ],
-    "variants": [
-      "狮子头上捕苍蝇——好大胆"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -504,14 +504,14 @@
     "id": "qi-gan-shang-zha-ji-mao-hao-da-de-dan-zi",
     "text": "旗杆上扎鸡毛——好大的胆（掸）子",
     "pinyin": "qí gān shàng zhā jī máo —— hǎo dà de dǎn (dǎn) zi",
+    "variants": [
+      "旗杆上绑鸡毛——好大的掸子"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "旗杆上扎鸡毛",
       "好大的胆（掸）子"
-    ],
-    "variants": [
-      "旗杆上绑鸡毛——好大的掸子"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -556,14 +556,14 @@
     "id": "ma-yi-han-da-shu-zi-bu-liang-li",
     "text": "蚂蚁撼大树——自不量力",
     "pinyin": "mǎ yǐ hàn dà shù —— zì bù liàng lì",
+    "variants": [
+      "蚂蚁扛大树——不自量"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "蚂蚁撼大树",
       "自不量力"
-    ],
-    "variants": [
-      "蚂蚁扛大树——不自量"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -706,14 +706,17 @@
     "id": "lao-hu-jie-zhu-you-jie-wu-huan",
     "text": "老虎借猪——有借无还",
     "pinyin": "lǎo hǔ jiè zhū —— yǒu jiè wú huán",
+    "variants": [
+      "老虎借猪狗借骨——有借无还"
+    ],
+    "variant_kinds": {
+      "老虎借猪狗借骨——有借无还": "full"
+    },
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "老虎借猪",
       "有借无还"
-    ],
-    "variants": [
-      "老虎借猪狗借骨——有借无还"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -807,14 +810,14 @@
     "id": "hou-zi-de-pi-gu-zuo-bu-zhu",
     "text": "猴子的屁股——坐不住",
     "pinyin": "hóu zi de pì gu —— zuò bù zhù",
+    "variants": [
+      "孙猴子的屁股——坐不住"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "猴子的屁股",
       "坐不住"
-    ],
-    "variants": [
-      "孙猴子的屁股——坐不住"
     ],
     "sentiment": "negative",
     "register": "casual",
@@ -1006,14 +1009,14 @@
     "id": "la-zhu-bu-dian-bu-liang",
     "text": "蜡烛——不点不亮",
     "pinyin": "là zhú —— bù diǎn bù liàng",
+    "variants": [
+      "蜡烛的脾气——不点不明"
+    ],
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
       "蜡烛",
       "不点不亮"
-    ],
-    "variants": [
-      "蜡烛的脾气——不点不明"
     ],
     "sentiment": "neutral",
     "register": "casual",

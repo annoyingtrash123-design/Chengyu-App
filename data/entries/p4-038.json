@@ -6,6 +6,9 @@
     "variants": [
       "必有一失"
     ],
+    "variant_kinds": {
+      "必有一失": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -831,6 +834,10 @@
       "翻手为云",
       "覆手为雨"
     ],
+    "variant_kinds": {
+      "翻手为云": "short",
+      "覆手为雨": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",

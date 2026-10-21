@@ -9,6 +9,12 @@
       "富贵不能淫",
       "威武不屈"
     ],
+    "variant_kinds": {
+      "威武不能屈": "short",
+      "贫贱不能移": "short",
+      "富贵不能淫": "short",
+      "威武不屈": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -71,6 +77,10 @@
       "兵马未动",
       "粮草先行"
     ],
+    "variant_kinds": {
+      "兵马未动": "short",
+      "粮草先行": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -229,6 +239,10 @@
       "人非圣贤",
       "孰能无过"
     ],
+    "variant_kinds": {
+      "人非圣贤": "short",
+      "孰能无过": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -282,6 +296,9 @@
     "variants": [
       "一人得道"
     ],
+    "variant_kinds": {
+      "一人得道": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -344,6 +361,9 @@
     "variants": [
       "欲加之罪"
     ],
+    "variant_kinds": {
+      "欲加之罪": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "negative",
@@ -406,6 +426,9 @@
     "variants": [
       "水能载舟"
     ],
+    "variant_kinds": {
+      "水能载舟": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -468,6 +491,11 @@
       "穷则独善其身",
       "兼济天下"
     ],
+    "variant_kinds": {
+      "达则兼济天下": "short",
+      "穷则独善其身": "short",
+      "兼济天下": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -580,6 +608,9 @@
     "variants": [
       "三十年河东"
     ],
+    "variant_kinds": {
+      "三十年河东": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -633,6 +664,9 @@
     "variants": [
       "养兵千日"
     ],
+    "variant_kinds": {
+      "养兵千日": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -686,6 +720,9 @@
     "variants": [
       "路遥知马力"
     ],
+    "variant_kinds": {
+      "路遥知马力": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -739,6 +776,9 @@
     "variants": [
       "兵来将挡"
     ],
+    "variant_kinds": {
+      "兵来将挡": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -792,6 +832,9 @@
     "variants": [
       "纸上得来终觉浅"
     ],
+    "variant_kinds": {
+      "纸上得来终觉浅": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -969,6 +1012,9 @@
     "variants": [
       "鸡犬之声相闻"
     ],
+    "variant_kinds": {
+      "鸡犬之声相闻": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -1030,6 +1076,9 @@
     "variants": [
       "流水不腐"
     ],
+    "variant_kinds": {
+      "流水不腐": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -1093,6 +1142,10 @@
       "取之不尽",
       "取之不竭"
     ],
+    "variant_kinds": {
+      "取之不尽": "short",
+      "取之不竭": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1210,6 +1263,11 @@
       "不以规矩，不能成方圆",
       "不以规矩"
     ],
+    "variant_kinds": {
+      "不成方圆": "short",
+      "不以规矩，不能成方圆": "old",
+      "不以规矩": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1321,6 +1379,9 @@
     "variants": [
       "早知今日"
     ],
+    "variant_kinds": {
+      "早知今日": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1374,6 +1435,10 @@
       "只许州官放火",
       "州官放火"
     ],
+    "variant_kinds": {
+      "只许州官放火": "short",
+      "州官放火": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",

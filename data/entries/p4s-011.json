@@ -484,11 +484,11 @@
     "id": "xin-bing-hai-xu-xin-yao-yi",
     "text": "心病还须心药医",
     "pinyin": "xīn bìng hái xū xīn yào yī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "心病还得心药医"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -572,11 +572,11 @@
     "id": "ren-xin-dou-shi-rou-zhang-de",
     "text": "人心都是肉长的",
     "pinyin": "rén xīn dōu shì ròu zhǎng de",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "人心是肉长的"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -743,11 +743,11 @@
     "id": "shi-shang-mei-you-hou-hui-yao",
     "text": "世上没有后悔药",
     "pinyin": "shì shàng méi yǒu hòu huǐ yào",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "后悔药没处买"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -791,11 +791,11 @@
     "id": "jin-ren-shi-ting-tian-ming",
     "text": "尽人事，听天命",
     "pinyin": "jìn rén shì, tīng tiān mìng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "尽人事而听天命"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -926,11 +926,14 @@
     "id": "qin-xiong-di-ming-suan-zhang",
     "text": "亲兄弟，明算账",
     "pinyin": "qīn xiōng dì, míng suàn zhàng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "亲兄弟，明算帐"
     ],
+    "variant_kinds": {
+      "亲兄弟，明算帐": "error"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

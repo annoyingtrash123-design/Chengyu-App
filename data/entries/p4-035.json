@@ -192,11 +192,11 @@
     "id": "he-yi-er-wo",
     "text": "和衣而卧",
     "pinyin": "hé yī ér wò",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "和衣而睡"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -338,11 +338,11 @@
     "id": "gai-e-cong-shan",
     "text": "改恶从善",
     "pinyin": "gǎi è cóng shàn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "弃恶从善"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -567,11 +567,11 @@
     "id": "ji-xian-du-neng",
     "text": "嫉贤妒能",
     "pinyin": "jí xián dù néng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "妒贤嫉能"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -705,11 +705,11 @@
     "id": "jin-shen-zhi-jie",
     "text": "进身之阶",
     "pinyin": "jìn shēn zhī jiē",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "晋身之阶"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
@@ -752,11 +752,14 @@
     "id": "luo-hua-you-yi-liu-shui-wu-qing",
     "text": "落花有意，流水无情",
     "pinyin": "luò huā yǒu yì, liú shuǐ wú qíng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "落花有意"
     ],
+    "variant_kinds": {
+      "落花有意": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

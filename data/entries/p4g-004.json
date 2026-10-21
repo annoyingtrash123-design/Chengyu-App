@@ -133,11 +133,14 @@
     "id": "da-ca-bian-qiu",
     "text": "打擦边球",
     "pinyin": "dǎ cā biān qiú",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "擦边球"
     ],
+    "variant_kinds": {
+      "擦边球": "short"
+    },
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

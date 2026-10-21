@@ -155,6 +155,9 @@
     "variants": [
       "老奸巨滑"
     ],
+    "variant_kinds": {
+      "老奸巨滑": "old"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -656,6 +659,9 @@
     "variants": [
       "星星之火，可以燎原"
     ],
+    "variant_kinds": {
+      "星星之火，可以燎原": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",

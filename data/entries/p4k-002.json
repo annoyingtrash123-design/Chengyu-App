@@ -142,11 +142,14 @@
     "id": "duo-zi-duo-cai",
     "text": "多姿多彩",
     "pinyin": "duō zī duō cǎi",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "多姿多采"
     ],
+    "variant_kinds": {
+      "多姿多采": "old"
+    },
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -191,11 +194,11 @@
     "id": "e-yu-xiang-xiang",
     "text": "恶语相向",
     "pinyin": "è yǔ xiāng xiàng",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "恶言相向"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

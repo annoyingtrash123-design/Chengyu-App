@@ -225,11 +225,11 @@
     "id": "tou-nao-jian-dan-si-zhi-fa-da",
     "text": "头脑简单，四肢发达",
     "pinyin": "tóu nǎo jiǎn dān, sì zhī fā dá",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "头脑简单四肢发达"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -363,11 +363,11 @@
     "id": "niao-bu-la-shi-ji-bu-sheng-dan",
     "text": "鸟不拉屎，鸡不生蛋",
     "pinyin": "niǎo bù lā shǐ, jī bù shēng dàn",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "鸟不生蛋，狗不拉屎"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -455,11 +455,11 @@
     "id": "you-bai-li-er-wu-yi-hai",
     "text": "有百利而无一害",
     "pinyin": "yǒu bǎi lì ér wú yī hài",
-    "kind": "guanyongyu",
-    "frequency": 2,
     "variants": [
       "有百利而无一弊"
     ],
+    "kind": "guanyongyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -592,13 +592,13 @@
   },
   {
     "id": "ming-xiu-zhan-dao-an-du-chen-cang",
-    "text": "明修栈道，暗度陈仓",
+    "text": "明修栈道，暗渡陈仓",
     "pinyin": "míng xiū zhàn dào, àn dù chén cāng",
+    "variants": [
+      "明修栈道，暗度陈仓"
+    ],
     "kind": "guanyongyu",
     "frequency": 2,
-    "variants": [
-      "明修栈道，暗渡陈仓"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -954,11 +954,11 @@
     "id": "shi-zhi-bu-zhan-yang-chun-shui",
     "text": "十指不沾阳春水",
     "pinyin": "shí zhǐ bù zhān yáng chūn shuǐ",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "两手不沾阳春水"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1002,11 +1002,11 @@
     "id": "qian-men-ju-hu-hou-men-jin-lang",
     "text": "前门拒虎，后门进狼",
     "pinyin": "qián mén jù hǔ, hòu mén jìn láng",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "前门打虎，后门进狼"
     ],
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -1095,11 +1095,11 @@
     "id": "yan-yi-lu-ji-kuan-yi-dai-ren",
     "text": "严以律己，宽以待人",
     "pinyin": "yán yǐ lǜ jǐ, kuān yǐ dài rén",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "严以责己宽以待人"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [

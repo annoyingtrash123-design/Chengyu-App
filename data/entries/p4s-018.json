@@ -551,12 +551,15 @@
     "id": "yi-ge-he-shang-tiao-shui",
     "text": "一个和尚挑水吃，两个和尚抬水吃，三个和尚没水吃",
     "pinyin": "yí gè hé shang tiāo shuǐ chī, liǎng gè hé shang tái shuǐ chī, sān gè hé shang méi shuǐ chī",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "三个和尚没水吃",
       "三个和尚没水喝"
     ],
+    "variant_kinds": {
+      "三个和尚没水吃": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

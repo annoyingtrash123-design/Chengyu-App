@@ -191,11 +191,11 @@
     "id": "shi-dan-li-bo",
     "text": "势单力薄",
     "pinyin": "shì dān lì bó",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "势单力孤"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -465,12 +465,16 @@
     "id": "shun-wo-zhe-chang-ni-wo-zhe-wang",
     "text": "顺我者昌，逆我者亡",
     "pinyin": "shùn wǒ zhě chāng, nì wǒ zhě wáng",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "顺我者昌",
       "逆我者亡"
     ],
+    "variant_kinds": {
+      "顺我者昌": "short",
+      "逆我者亡": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -887,11 +891,11 @@
     "id": "yi-jian-zhi-yao",
     "text": "一箭之遥",
     "pinyin": "yī jiàn zhī yáo",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "一箭之地"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1025,11 +1029,11 @@
     "id": "chai-lang-hu-bao",
     "text": "豺狼虎豹",
     "pinyin": "chái láng hǔ bào",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "虎豹豺狼"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

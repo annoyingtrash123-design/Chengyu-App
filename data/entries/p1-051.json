@@ -1009,15 +1009,18 @@
     "id": "zhang-er-he-shang-mo-bu-zhao-tou-nao",
     "text": "丈二和尚——摸不着头脑",
     "pinyin": "zhàng èr hé shang —— mō bù zháo tóu nǎo",
+    "variants": [
+      "丈二和尚",
+      "丈二和尚摸不着头脑"
+    ],
+    "variant_kinds": {
+      "丈二和尚": "short"
+    },
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "丈二和尚",
       "摸不着头脑"
-    ],
-    "variants": [
-      "丈二和尚",
-      "丈二和尚摸不着头脑"
     ],
     "sentiment": "neutral",
     "register": "casual",

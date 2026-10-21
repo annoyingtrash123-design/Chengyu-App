@@ -146,13 +146,13 @@
   },
   {
     "id": "yi-bi-mo-sha",
-    "text": "一笔抹煞",
+    "text": "一笔抹杀",
     "pinyin": "yī bǐ mǒ shā",
+    "variants": [
+      "一笔抹煞"
+    ],
     "kind": "chengyu",
     "frequency": 3,
-    "variants": [
-      "一笔抹杀"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -598,12 +598,16 @@
     "id": "yan-zhe-wu-zui-wen-zhe-zu-jie",
     "text": "言者无罪，闻者足戒",
     "pinyin": "yán zhě wú zuì, wén zhě zú jiè",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "言者无罪",
       "闻者足戒"
     ],
+    "variant_kinds": {
+      "言者无罪": "short",
+      "闻者足戒": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -658,11 +662,11 @@
     "id": "wei-xie-li-you",
     "text": "威胁利诱",
     "pinyin": "wēi xié lì yòu",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "威逼利诱"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -750,12 +754,16 @@
     "id": "ren-wei-dao-zu-wo-wei-yu-rou",
     "text": "人为刀俎，我为鱼肉",
     "pinyin": "rén wéi dāo zǔ, wǒ wéi yú ròu",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "我为鱼肉",
       "人为刀俎"
     ],
+    "variant_kinds": {
+      "我为鱼肉": "short",
+      "人为刀俎": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1087,11 +1095,14 @@
     "id": "fang-min-zhi-kou-shen-yu-fang-chuan",
     "text": "防民之口，甚于防川",
     "pinyin": "fáng mín zhī kǒu, shèn yú fáng chuān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "甚于防川"
     ],
+    "variant_kinds": {
+      "甚于防川": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [

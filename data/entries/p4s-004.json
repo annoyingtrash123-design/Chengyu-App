@@ -577,6 +577,9 @@
     "variants": [
       "酒逢知己千杯少，话不投机半句多"
     ],
+    "variant_kinds": {
+      "酒逢知己千杯少，话不投机半句多": "full"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -950,6 +953,9 @@
     "variants": [
       "大水冲了龙王庙"
     ],
+    "variant_kinds": {
+      "大水冲了龙王庙": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",

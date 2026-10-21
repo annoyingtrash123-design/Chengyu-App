@@ -281,6 +281,9 @@
     "variants": [
       "莫明其妙"
     ],
+    "variant_kinds": {
+      "莫明其妙": "error"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -579,6 +582,9 @@
     "variants": [
       "塞翁失马焉知非福"
     ],
+    "variant_kinds": {
+      "塞翁失马焉知非福": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",

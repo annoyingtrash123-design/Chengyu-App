@@ -558,6 +558,9 @@
     "variants": [
       "没没无闻"
     ],
+    "variant_kinds": {
+      "没没无闻": "old"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -710,6 +713,10 @@
       "比上不足",
       "比下有余"
     ],
+    "variant_kinds": {
+      "比上不足": "short",
+      "比下有余": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",

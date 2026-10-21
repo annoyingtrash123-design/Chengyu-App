@@ -515,11 +515,14 @@
     "id": "yi-zhao-bu-shen-man-pan-jie-shu",
     "text": "一着不慎，满盘皆输",
     "pinyin": "yī zhāo bù shèn, mǎn pán jiē shū",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "一着不慎"
     ],
+    "variant_kinds": {
+      "一着不慎": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -567,11 +570,14 @@
     "id": "wu-gu-bu-fen",
     "text": "五谷不分",
     "pinyin": "wǔ gǔ bù fēn",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "四体不勤五谷不分"
     ],
+    "variant_kinds": {
+      "四体不勤五谷不分": "full"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -829,12 +835,16 @@
     "id": "mou-shi-zai-ren-cheng-shi-zai-tian",
     "text": "谋事在人，成事在天",
     "pinyin": "móu shì zài rén, chéng shì zài tiān",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "谋事在人",
       "成事在天"
     ],
+    "variant_kinds": {
+      "谋事在人": "short",
+      "成事在天": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1005,11 +1015,11 @@
     "id": "nong-zhuang-dan-mo",
     "text": "浓妆淡抹",
     "pinyin": "nóng zhuāng dàn mò",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "淡妆浓抹"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -1066,11 +1076,11 @@
     "id": "ji-fei-cheng-shi",
     "text": "积非成是",
     "pinyin": "jī fēi chéng shì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "习非成是"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
     "themes": [
@@ -1166,11 +1176,11 @@
     "id": "shi-gu-bu-hua",
     "text": "食古不化",
     "pinyin": "shí gǔ bù huà",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "泥古不化"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

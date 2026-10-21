@@ -10,6 +10,20 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.15",
+    date: "2026-10-21",
+    en: [
+      "Other forms of an expression are now grouped: Also written, Older form, Full form, Short form, and Common error (struck through, avoid). Where a variant was clearly the standard form it is now the headword (e.g. 防患于未然, 含糊其词, 一笔抹杀).",
+      "About 170 more rare literary idioms. Religion labels reviewed: 儒家 Confucian, 道家·道教 Daoist, 佛教 Buddhist and a new 基督教 Christian label.",
+      "Entries shorter than four characters have been removed.",
+    ],
+    zh: [
+      "异形词按类型分组显示：也作、旧作、全作、简作，以及“误作”（划掉，避免使用）。明显更规范的写法改为主词条（如防患于未然、含糊其词、一笔抹杀）。",
+      "新增约一百七十条罕用文学成语；重新整理儒家、道家·道教、佛教标签，并新增基督教标签。",
+      "已删除所有少于四个字的词条。",
+    ],
+  },
+  {
     version: "0.14",
     date: "2026-10-21",
     en: [

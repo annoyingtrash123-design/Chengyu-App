@@ -204,11 +204,11 @@
     "id": "xing-hua-yan-yu-jiang-nan",
     "text": "杏花烟雨江南",
     "pinyin": "xìng huā yān yǔ jiāng nán",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "杏花春雨江南"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -262,12 +262,16 @@
     "id": "wu-yue-gui-lai-bu-kan",
     "text": "五岳归来不看山，黄山归来不看岳",
     "pinyin": "wǔ yuè guī lái bù kàn shān, huáng shān guī lái bù kàn yuè",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "黄山归来不看岳",
       "五岳归来不看山"
     ],
+    "variant_kinds": {
+      "黄山归来不看岳": "short",
+      "五岳归来不看山": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -506,12 +510,16 @@
     "id": "jiang-nan-hao-feng-jing-jiu",
     "text": "江南好，风景旧曾谙。日出江花红胜火，春来江水绿如蓝",
     "pinyin": "jiāng nán hǎo, fēng jǐng jiù céng ān, rì chū jiāng huā hóng shèng huǒ, chūn lái jiāng shuǐ lǜ rú lán",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "日出江花红胜火，春来江水绿如蓝",
       "江南好，风景旧曾谙"
     ],
+    "variant_kinds": {
+      "日出江花红胜火，春来江水绿如蓝": "short",
+      "江南好，风景旧曾谙": "short"
+    },
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -560,12 +568,15 @@
     "id": "shu-dao-zhi-nan-nan-yu-shang-qing-tian",
     "text": "蜀道之难，难于上青天",
     "pinyin": "shǔ dào zhī nán, nán yú shàng qīng tiān",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "蜀道难，难于上青天",
       "蜀道难"
     ],
+    "variant_kinds": {
+      "蜀道难": "short"
+    },
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

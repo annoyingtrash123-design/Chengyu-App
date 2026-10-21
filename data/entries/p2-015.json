@@ -669,11 +669,14 @@
     "id": "yi-xiang-qing-yuan",
     "text": "一厢情愿",
     "pinyin": "yī xiāng qíng yuàn",
-    "kind": "chengyu",
-    "frequency": 1,
     "variants": [
       "一相情愿"
     ],
+    "variant_kinds": {
+      "一相情愿": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [

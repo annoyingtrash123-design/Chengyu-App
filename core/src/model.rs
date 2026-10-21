@@ -1,5 +1,7 @@
 //! Dictionary entry types. These mirror the JSON files in `data/entries/`.
 
+use std::collections::BTreeMap;
+
 use serde::{Deserialize, Serialize};
 
 /// What kind of expression an entry is.
@@ -30,6 +32,22 @@ pub enum Modern {
     Modern,
     /// Borrowed or translated from another language (蝴蝶效应).
     Borrowed,
+}
+
+/// How an alternative form in `variants` relates to the headword.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
+#[serde(rename_all = "lowercase")]
+pub enum VariantKind {
+    /// Equally acceptable in modern usage (魂牵梦绕 for 魂牵梦萦).
+    Alt,
+    /// Older or literary written form (振振有辞 for 振振有词).
+    Old,
+    /// A common miswriting (直接了当 for 直截了当); still findable, shown as "avoid".
+    Error,
+    /// A shortened form or one half of a saying.
+    Short,
+    /// A fuller, longer form.
+    Full,
 }
 
 /// 褒义 / 贬义 / 中性.
@@ -119,6 +137,9 @@ pub struct Entry {
     /// They are merged into this entry: searching or linking to a variant opens it.
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub variants: Vec<String>,
+    /// The type of each variant (keys are forms from `variants`). Variants without one count as `Alt`.
+    #[serde(default, skip_serializing_if = "BTreeMap::is_empty")]
+    pub variant_kinds: BTreeMap<String, VariantKind>,
     /// For 歇后语: the lead-in and the punchline.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub parts: Option<[String; 2]>,

@@ -373,6 +373,10 @@
       "十年树木",
       "百年树人"
     ],
+    "variant_kinds": {
+      "十年树木": "short",
+      "百年树人": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -435,6 +439,10 @@
       "勿以善小而不为",
       "勿以恶小而为之"
     ],
+    "variant_kinds": {
+      "勿以善小而不为": "short",
+      "勿以恶小而为之": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -497,6 +505,9 @@
     "variants": [
       "天下兴亡"
     ],
+    "variant_kinds": {
+      "天下兴亡": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -558,6 +569,9 @@
     "variants": [
       "公说公有理"
     ],
+    "variant_kinds": {
+      "公说公有理": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -655,6 +669,9 @@
     "variants": [
       "救人一命"
     ],
+    "variant_kinds": {
+      "救人一命": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -712,6 +729,10 @@
       "三十六计",
       "走为上策"
     ],
+    "variant_kinds": {
+      "走为上计": "short",
+      "三十六计": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -774,6 +795,10 @@
       "失之毫厘，谬以千里",
       "失之毫厘"
     ],
+    "variant_kinds": {
+      "差之毫厘": "short",
+      "失之毫厘": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "negative",
@@ -833,6 +858,9 @@
     "variants": [
       "盛名之下"
     ],
+    "variant_kinds": {
+      "盛名之下": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "negative",

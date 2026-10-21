@@ -160,6 +160,9 @@
     "variants": [
       "根深柢固"
     ],
+    "variant_kinds": {
+      "根深柢固": "old"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -867,6 +870,9 @@
     "variants": [
       "眼花撩乱"
     ],
+    "variant_kinds": {
+      "眼花撩乱": "error"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "neutral",
@@ -923,6 +929,9 @@
     "variants": [
       "雪里送炭"
     ],
+    "variant_kinds": {
+      "雪里送炭": "old"
+    },
     "kind": "chengyu",
     "frequency": 1,
     "sentiment": "positive",

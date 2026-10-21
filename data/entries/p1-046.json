@@ -500,6 +500,9 @@
     "variants": [
       "吉人自有天相"
     ],
+    "variant_kinds": {
+      "吉人自有天相": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -760,6 +763,9 @@
     "variants": [
       "图穷匕首见"
     ],
+    "variant_kinds": {
+      "图穷匕首见": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

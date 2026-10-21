@@ -3,11 +3,11 @@
     "id": "bo-fu-chui-sui",
     "text": "剥肤椎髓",
     "pinyin": "bō fū chuí suǐ",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "捶骨沥髓"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -819,11 +819,14 @@
     "id": "chong-lun-hong-yi",
     "text": "崇论宏议",
     "pinyin": "chóng lùn hóng yì",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "崇论闳议"
     ],
+    "variant_kinds": {
+      "崇论闳议": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
     "themes": [

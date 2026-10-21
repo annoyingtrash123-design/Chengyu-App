@@ -3,11 +3,14 @@
     "id": "dai-lu-mao-zi",
     "text": "戴绿帽子",
     "pinyin": "dài lǜ mào zi",
-    "kind": "guanyongyu",
-    "frequency": 3,
     "variants": [
       "绿帽子"
     ],
+    "variant_kinds": {
+      "绿帽子": "short"
+    },
+    "kind": "guanyongyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

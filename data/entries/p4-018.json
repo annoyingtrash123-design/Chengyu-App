@@ -770,6 +770,10 @@
       "失之东隅",
       "收之桑榆"
     ],
+    "variant_kinds": {
+      "失之东隅": "short",
+      "收之桑榆": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -830,6 +834,9 @@
     "variants": [
       "亲者痛仇者快"
     ],
+    "variant_kinds": {
+      "亲者痛仇者快": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",

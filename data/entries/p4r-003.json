@@ -503,11 +503,11 @@
     "id": "sang-yu-mu-jing",
     "text": "桑榆暮景",
     "pinyin": "sāng yú mù jǐng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "桑榆晚景"
     ],
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -902,11 +902,14 @@
     "id": "shi-ru-xuan-qing",
     "text": "室如悬磬",
     "pinyin": "shì rú xuán qìng",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "室如悬罄"
     ],
+    "variant_kinds": {
+      "室如悬罄": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
@@ -1195,11 +1198,14 @@
     "id": "qiong-kou-wu-zhui",
     "text": "穷寇勿追",
     "pinyin": "qióng kòu wù zhuī",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "穷寇勿迫"
     ],
+    "variant_kinds": {
+      "穷寇勿迫": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

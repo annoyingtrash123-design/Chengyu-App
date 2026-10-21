@@ -7,6 +7,9 @@
       "冰冻三尺非一日之寒",
       "冰冻三尺"
     ],
+    "variant_kinds": {
+      "冰冻三尺": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -61,6 +64,10 @@
       "己所不欲",
       "勿施于人"
     ],
+    "variant_kinds": {
+      "己所不欲": "short",
+      "勿施于人": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -122,6 +129,9 @@
       "一波未平一波又起",
       "一波未平"
     ],
+    "variant_kinds": {
+      "一波未平": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -177,6 +187,10 @@
       "仁者见仁",
       "智者见智"
     ],
+    "variant_kinds": {
+      "仁者见仁": "short",
+      "智者见智": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -232,6 +246,10 @@
       "先天下之忧而忧",
       "后天下之乐而乐"
     ],
+    "variant_kinds": {
+      "先天下之忧而忧": "short",
+      "后天下之乐而乐": "short"
+    },
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -292,9 +310,12 @@
     "variants": [
       "道高一尺魔高一丈",
       "魔高一丈",
-      "道高一尺",
-      "魔高一尺道高一丈"
+      "道高一尺"
     ],
+    "variant_kinds": {
+      "魔高一丈": "short",
+      "道高一尺": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -347,6 +368,9 @@
       "头痛医头脚痛医脚",
       "头痛医头"
     ],
+    "variant_kinds": {
+      "头痛医头": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -402,6 +426,9 @@
       "麻雀虽小五脏俱全",
       "麻雀虽小"
     ],
+    "variant_kinds": {
+      "麻雀虽小": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -517,6 +544,9 @@
     "variants": [
       "千里之行"
     ],
+    "variant_kinds": {
+      "千里之行": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -578,6 +608,10 @@
       "溃于蚁穴",
       "千里之堤，毁于蚁穴"
     ],
+    "variant_kinds": {
+      "千里之堤": "short",
+      "溃于蚁穴": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -639,6 +673,10 @@
       "野火烧不尽",
       "春风吹又生"
     ],
+    "variant_kinds": {
+      "野火烧不尽": "short",
+      "春风吹又生": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -700,6 +738,9 @@
       "事不关己高高挂起",
       "高高挂起"
     ],
+    "variant_kinds": {
+      "高高挂起": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -754,6 +795,9 @@
     "variants": [
       "天涯若比邻"
     ],
+    "variant_kinds": {
+      "天涯若比邻": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -816,6 +860,9 @@
     "variants": [
       "不谋其政"
     ],
+    "variant_kinds": {
+      "不谋其政": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
@@ -989,6 +1036,10 @@
       "不预则废",
       "预则立"
     ],
+    "variant_kinds": {
+      "不预则废": "short",
+      "预则立": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -1051,6 +1102,10 @@
       "有则改之",
       "无则加勉"
     ],
+    "variant_kinds": {
+      "有则改之": "short",
+      "无则加勉": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1105,6 +1160,10 @@
       "前事不忘",
       "后事之师"
     ],
+    "variant_kinds": {
+      "前事不忘": "short",
+      "后事之师": "short"
+    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "positive",
@@ -1167,6 +1226,10 @@
       "桃李不言",
       "下自成蹊"
     ],
+    "variant_kinds": {
+      "桃李不言": "short",
+      "下自成蹊": "short"
+    },
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -1227,6 +1290,9 @@
     "variants": [
       "前人栽树"
     ],
+    "variant_kinds": {
+      "前人栽树": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -1280,6 +1346,9 @@
     "variants": [
       "衣来伸手"
     ],
+    "variant_kinds": {
+      "衣来伸手": "short"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -1334,6 +1403,9 @@
     "variants": [
       "世上没有不透风的墙"
     ],
+    "variant_kinds": {
+      "世上没有不透风的墙": "full"
+    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",

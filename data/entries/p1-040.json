@@ -654,6 +654,9 @@
     "variants": [
       "金玉其外，败絮其中"
     ],
+    "variant_kinds": {
+      "金玉其外，败絮其中": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -921,6 +924,9 @@
       "成也萧何，败也萧何",
       "成败萧何"
     ],
+    "variant_kinds": {
+      "成也萧何，败也萧何": "full"
+    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",

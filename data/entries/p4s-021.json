@@ -47,12 +47,12 @@
     "id": "shi-luo-zi-shi-ma-la-chu-lai-liu-liu",
     "text": "是骡子是马，拉出来遛遛",
     "pinyin": "shì luó zi shì mǎ, lā chū lái liù liù",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "是骡子是马拉出来遛遛",
       "是骡子是马，牵出来遛遛"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -139,11 +139,14 @@
     "id": "shi-fei-zhi-wei-duo-kai",
     "text": "是非只为多开口，烦恼皆因强出头",
     "pinyin": "shì fēi zhǐ wèi duō kāi kǒu, fán nǎo jiē yīn qiǎng chū tóu",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "是非只为多开口"
     ],
+    "variant_kinds": {
+      "是非只为多开口": "short"
+    },
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -544,11 +547,11 @@
     "id": "bie-ren-qian-lu-ni-ba-jue-zi",
     "text": "别人牵驴你拔橛子",
     "pinyin": "bié rén qiān lǘ nǐ bá jué zi",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "人家牵驴你拔橛"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -678,11 +681,11 @@
     "id": "jian-dao-lan-li-jiu-shi-cai",
     "text": "拣到篮里就是菜",
     "pinyin": "jiǎn dào lán lǐ jiù shì cài",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "捡到篮里就是菜"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -901,11 +904,11 @@
     "id": "dang-guan-bu-wei-min-zuo",
     "text": "当官不为民做主，不如回家卖红薯",
     "pinyin": "dāng guān bù wèi mín zuò zhǔ, bù rú huí jiā mài hóng shǔ",
-    "kind": "suyu",
-    "frequency": 3,
     "variants": [
       "当官不为民做主不如回家卖红薯"
     ],
+    "kind": "suyu",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

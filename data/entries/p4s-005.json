@@ -367,11 +367,11 @@
     "id": "ji-bu-ke-shi-shi-bu-zai-lai",
     "text": "机不可失，时不再来",
     "pinyin": "jī bù kě shī, shí bù zài lái",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "机不可失，失不再来"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -467,11 +467,11 @@
     "id": "pang-guan-zhe-qing-dang-ju-zhe-mi",
     "text": "旁观者清，当局者迷",
     "pinyin": "páng guān zhě qīng, dāng jú zhě mí",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "当局者迷，旁观者清"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -555,11 +555,11 @@
     "id": "zai-jia-kao-fu-mu-chu-men-kao-peng-you",
     "text": "在家靠父母，出门靠朋友",
     "pinyin": "zài jiā kào fù mǔ, chū mén kào péng you",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "在家靠父母，出外靠朋友"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -599,11 +599,11 @@
     "id": "duo-yi-ge-peng-you-duo-yi-tiao-lu",
     "text": "多一个朋友多一条路",
     "pinyin": "duō yī gè péng you duō yī tiáo lù",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "多个朋友多条路"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -734,11 +734,14 @@
     "id": "long-sheng-long-feng-sheng-feng",
     "text": "龙生龙，凤生凤，老鼠的儿子会打洞",
     "pinyin": "lóng shēng lóng, fèng shēng fèng, lǎo shǔ de ér zi huì dǎ dòng",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "龙生龙，凤生凤"
     ],
+    "variant_kinds": {
+      "龙生龙，凤生凤": "short"
+    },
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1071,11 +1074,11 @@
     "id": "bu-yang-er-bu-zhi-fu-mu-en",
     "text": "不养儿不知父母恩",
     "pinyin": "bù yǎng ér bù zhī fù mǔ ēn",
-    "kind": "suyu",
-    "frequency": 2,
     "variants": [
       "养儿方知父母恩"
     ],
+    "kind": "suyu",
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [

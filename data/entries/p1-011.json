@@ -428,6 +428,10 @@
       "心惊胆颤",
       "胆颤心惊"
     ],
+    "variant_kinds": {
+      "心惊胆颤": "error",
+      "胆颤心惊": "error"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",

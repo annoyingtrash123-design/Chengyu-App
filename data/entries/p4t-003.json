@@ -607,11 +607,14 @@
     "id": "hui-shou-zi-zi-qu-xiao-xiao-ban-ma-ming",
     "text": "挥手自兹去，萧萧班马鸣",
     "pinyin": "huī shǒu zì zī qù, xiāo xiāo bān mǎ míng",
-    "kind": "mingju",
-    "frequency": 3,
     "variants": [
       "挥手自兹去"
     ],
+    "variant_kinds": {
+      "挥手自兹去": "short"
+    },
+    "kind": "mingju",
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [

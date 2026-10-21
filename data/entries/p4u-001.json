@@ -161,11 +161,14 @@
     "id": "wei-cong-qu-que",
     "text": "为丛驱雀",
     "pinyin": "wèi cóng qū què",
-    "kind": "chengyu",
-    "frequency": 3,
     "variants": [
       "为丛驱爵"
     ],
+    "variant_kinds": {
+      "为丛驱爵": "old"
+    },
+    "kind": "chengyu",
+    "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [

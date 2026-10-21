@@ -55,6 +55,9 @@
     "variants": [
       "小题大作"
     ],
+    "variant_kinds": {
+      "小题大作": "old"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -1041,6 +1044,9 @@
     "variants": [
       "箭在弦上，不得不发"
     ],
+    "variant_kinds": {
+      "箭在弦上，不得不发": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -1190,6 +1196,9 @@
     "variants": [
       "鞠躬尽瘁，死而后已"
     ],
+    "variant_kinds": {
+      "鞠躬尽瘁，死而后已": "full"
+    },
     "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
