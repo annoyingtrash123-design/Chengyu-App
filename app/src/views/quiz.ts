@@ -75,10 +75,29 @@ export function renderQuiz(root: HTMLElement, [mode]: string[]) {
   );
 }
 
+/** The expression a question was about, as shown in the end-of-game review. */
+function questionLabel(q: Question): string {
+  if (q.kind === "missing_char") return q.prompt.replace("＿", q.options[q.answer]);
+  if (q.kind === "meaning_to_idiom" || q.kind === "sentence_cloze") return q.options[q.answer];
+  return q.prompt;
+}
+
+/** A card of tappable expressions from the finished game (nothing if the list is empty). */
+function reviewList(heading: string, qs: Question[]) {
+  if (!qs.length) return null;
+  return h(
+    "section",
+    { class: "card" },
+    h("h3", null, `${heading} (${qs.length})`),
+    h("div", { class: "chip-group" }, qs.map((q) => h("a", { class: "chip link", href: `#/entry/${q.entry_id}` }, questionLabel(q)))),
+  );
+}
+
 function play(root: HTMLElement, title: string, questions: Question[], timed: boolean) {
   let i = 0;
   let score = 0;
   const missed: Question[] = [];
+  const right: Question[] = [];
   let timeLeft = 60;
   let timer: number | undefined;
   let over = false;
@@ -110,14 +129,8 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
         h("p", { class: "muted" }, timed ? (en() ? "correct in 60 seconds" : "60 秒答对题数") : en() ? "correct" : "答对"),
         h("button", { class: "btn primary", onclick: () => renderQuiz(root, [timed ? "timed" : "quiz"]) }, en() ? "Play again" : "再来一次"),
       ),
-      missed.length
-        ? h(
-            "section",
-            { class: "card" },
-            h("h3", null, en() ? "Review these" : "需要复习"),
-            missed.map((q) => h("a", { class: "chip link", href: `#/entry/${q.entry_id}` }, q.kind === "missing_char" ? q.prompt.replace("＿", q.options[q.answer]) : q.kind === "meaning_to_idiom" || q.kind === "sentence_cloze" ? q.options[q.answer] : q.prompt)),
-          )
-        : null,
+      reviewList(en() ? "✗ Missed — review these" : "✗ 答错的（需要复习）", missed),
+      reviewList(en() ? "✓ Got right" : "✓ 答对的", right),
     );
   }
 
@@ -141,8 +154,10 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
             }
             answered = true;
             const ok = idx === q.answer;
-            if (ok) score++;
-            else missed.push(q);
+            if (ok) {
+              score++;
+              right.push(q);
+            } else missed.push(q);
             buttons[q.answer].classList.add("correct");
             buttons[q.answer].prepend("✓ ");
             if (!ok) {

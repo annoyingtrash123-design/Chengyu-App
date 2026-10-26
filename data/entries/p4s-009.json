@@ -810,7 +810,8 @@
     "text": "行不更名，坐不改姓",
     "pinyin": "xíng bù gēng míng, zuò bù gǎi xìng",
     "variants": [
-      "行不改姓，坐不改名"
+      "行不改姓，坐不改名",
+      "行不更名"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -851,7 +852,10 @@
     "antonyms": [
       "隐姓埋名",
       "改名换姓"
-    ]
+    ],
+    "variant_kinds": {
+      "行不更名": "short"
+    }
   },
   {
     "id": "du-wan-juan-shu-xing-wan-li-lu",
