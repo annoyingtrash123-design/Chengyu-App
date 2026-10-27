@@ -72,6 +72,62 @@ export function renderQuiz(root: HTMLElement, [mode]: string[]) {
       timed ? null : [h("label", { class: "field-label" }, en() ? "Questions" : "题数"), countSel],
       h("button", { class: "btn primary block", onclick: start }, en() ? "Start" : "开始"),
     ),
+    h("a", { class: "small center block", href: "#/games/history" }, en() ? "Past results 历史成绩 ›" : "历史成绩 ›"),
+  );
+}
+
+/** A finished quiz, kept on this device so it can be reviewed later. */
+interface PastQuiz {
+  at: number;
+  timed: boolean;
+  score: number;
+  total: number;
+  right: { id: string; text: string }[];
+  missed: { id: string; text: string }[];
+}
+
+const HISTORY_KEY = "quiz-history";
+const HISTORY_MAX = 30;
+
+function loadHistory(): PastQuiz[] {
+  try {
+    return JSON.parse(localStorage.getItem(HISTORY_KEY) ?? "[]");
+  } catch {
+    return [];
+  }
+}
+
+function saveResult(r: PastQuiz) {
+  try {
+    localStorage.setItem(HISTORY_KEY, JSON.stringify([r, ...loadHistory()].slice(0, HISTORY_MAX)));
+  } catch {
+    /* storage unavailable: the result is still shown, just not kept */
+  }
+}
+
+/** Past quizzes and timed challenges, newest first, each with its right / missed expressions. */
+export function renderQuizHistory(root: HTMLElement) {
+  const past = loadHistory();
+  const chips = (xs: { id: string; text: string }[]) =>
+    h("div", { class: "chip-group" }, xs.map((x) => h("a", { class: "chip link", href: `#/entry/${x.id}` }, x.text)));
+  clear(
+    root,
+    pageHeader(en() ? "Past results 历史成绩" : "历史成绩", { back: true }),
+    past.length
+      ? past.map((r) =>
+          h(
+            "section",
+            { class: "card" },
+            h(
+              "h3",
+              null,
+              `${r.timed ? (en() ? "Timed challenge" : "限时挑战") : en() ? "Quiz" : "测验"} · ${new Date(r.at).toLocaleString()} · ${r.timed ? r.score : `${r.score} / ${r.total}`}`,
+            ),
+            r.missed.length ? [h("div", { class: "muted small" }, en() ? `✗ Missed (${r.missed.length})` : `✗ 答错 (${r.missed.length})`), chips(r.missed)] : null,
+            r.right.length ? [h("div", { class: "muted small" }, en() ? `✓ Got right (${r.right.length})` : `✓ 答对 (${r.right.length})`), chips(r.right)] : null,
+          ),
+        )
+      : h("div", { class: "empty" }, en() ? "No quizzes yet. Finished quizzes and timed challenges appear here." : "还没有测验记录。完成的测验和限时挑战会保存在这里。"),
   );
 }
 
@@ -118,6 +174,8 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
     clearInterval(timer);
     if (!root.isConnected) return;
     api.gamePlayed();
+    const asItems = (qs: Question[]) => qs.map((q) => ({ id: q.entry_id, text: questionLabel(q) }));
+    saveResult({ at: Date.now(), timed, score, total: i, right: asItems(right), missed: asItems(missed) });
     clear(
       root,
       pageHeader(title, { back: true }),
@@ -128,6 +186,7 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
         h("p", { class: "score" }, timed ? `${score}` : `${score} / ${i}`),
         h("p", { class: "muted" }, timed ? (en() ? "correct in 60 seconds" : "60 秒答对题数") : en() ? "correct" : "答对"),
         h("button", { class: "btn primary", onclick: () => renderQuiz(root, [timed ? "timed" : "quiz"]) }, en() ? "Play again" : "再来一次"),
+        h("a", { class: "small", href: "#/games/history" }, en() ? "All past results ›" : "全部历史成绩 ›"),
       ),
       reviewList(en() ? "✗ Missed — review these" : "✗ 答错的（需要复习）", missed),
       reviewList(en() ? "✓ Got right" : "✓ 答对的", right),

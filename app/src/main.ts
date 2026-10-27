@@ -6,7 +6,7 @@ import { renderList } from "./views/list";
 import { renderEntry } from "./views/entry";
 import { renderStudy } from "./views/study";
 import { renderGames } from "./views/games";
-import { renderQuiz } from "./views/quiz";
+import { renderQuiz, renderQuizHistory } from "./views/quiz";
 import { renderChain } from "./views/chain";
 import { renderScramble } from "./views/scramble";
 import { renderCrossword } from "./views/crossword";
@@ -30,6 +30,7 @@ const routes: [RegExp, View, string][] = [
   [/^\/study$/, renderStudy, "study"],
   [/^\/games$/, renderGames, "games"],
   [/^\/games\/(quiz|timed)$/, renderQuiz, "games"],
+  [/^\/games\/history$/, renderQuizHistory, "games"],
   [/^\/games\/chain$/, renderChain, "games"],
   [/^\/games\/scramble$/, renderScramble, "games"],
   [/^\/games\/crossword$/, renderCrossword, "games"],
