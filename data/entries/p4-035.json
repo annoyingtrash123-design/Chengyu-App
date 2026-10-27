@@ -54,8 +54,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "attitude-humble-vs-arrogant",
-      "wisdom"
+      "wisdom",
+      "confusion-and-doubt"
     ],
     "literal": "use · oneself · measure · others",
     "natural": "measure others by oneself",
@@ -82,15 +82,10 @@
       "zh": "“度”读duó，意为揣测。视语境可指换位思考，也可批评主观臆断。多作谓语。"
     },
     "synonyms": [
-      "推己及人",
-      "将心比心",
-      "以小人之心度君子之腹"
+      "以小人之心度君子之腹",
+      "将心比心"
     ],
-    "antonyms": [
-      "以人为镜",
-      "实事求是",
-      "忠恕之道"
-    ]
+    "antonyms": []
   },
   {
     "id": "xin-bi-tian-gao",
@@ -133,8 +128,8 @@
       "好高骛远"
     ],
     "antonyms": [
-      "安于现状",
-      "甘居人后"
+      "甘居人后",
+      "安于现状"
     ]
   },
   {
@@ -186,13 +181,9 @@
       "zh": "诗意典故，常表思乡怀人；巴山指川东一带。多作定语、宾语。"
     },
     "synonyms": [
-      "秋雨梧桐",
       "思乡心切"
     ],
-    "antonyms": [
-      "乐不思蜀",
-      "喜气洋洋"
-    ]
+    "antonyms": []
   },
   {
     "id": "he-yi-er-wo",
@@ -295,9 +286,9 @@
       "月白风清"
     ],
     "antonyms": [
-      "漆黑一团",
       "星光灿烂",
-      "月黑风高"
+      "月黑风高",
+      "漆黑一团"
     ]
   },
   {
@@ -343,7 +334,7 @@
     ],
     "antonyms": [
       "真情实感",
-      "坦诚相待"
+      "坦诚相见"
     ]
   },
   {
@@ -391,8 +382,8 @@
       "改过迁善"
     ],
     "antonyms": [
-      "执迷不悟",
-      "恶习难改"
+      "恶习难改",
+      "执迷不悟"
     ]
   },
   {
@@ -433,12 +424,9 @@
       "zh": "出自古代新婚结发之礼，语气温和庄重。多作宾语、谓语。"
     },
     "synonyms": [
-      "原配夫妻",
-      "白头偕老",
-      "糟糠之妻"
+      "原配夫妻"
     ],
     "antonyms": [
-      "同床异梦",
       "离异再婚",
       "露水夫妻"
     ]
@@ -526,12 +514,9 @@
     },
     "synonyms": [
       "废寝忘食",
-      "昼夜不息",
-      "亲尝汤药"
+      "昼夜不息"
     ],
     "antonyms": [
-      "高枕无忧",
-      "袖手旁观",
       "宽衣解带"
     ]
   },
@@ -572,7 +557,7 @@
       "zh": "多用于警告，有时说借东西不还的玩笑。多作谓语。"
     },
     "synonyms": [
-      "一去不返",
+      "一去不复返",
       "石沉大海"
     ],
     "antonyms": [
@@ -632,8 +617,8 @@
       "吐哺握发",
       "招贤纳士",
       "礼贤下士",
-      "周公吐哺",
-      "求贤若渴"
+      "求贤若渴",
+      "周公吐哺"
     ]
   },
   {
@@ -645,7 +630,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "psychological-pressure",
       "standards-and-benchmarks"
     ],
     "literal": "not · same as · child · play",
@@ -673,8 +657,8 @@
       "zh": "用于提醒事情重要。多作谓语。"
     },
     "synonyms": [
-      "非同小可",
-      "兹事体大"
+      "兹事体大",
+      "非同小可"
     ],
     "antonyms": [
       "漫不经心",
@@ -769,11 +753,10 @@
       "en": "Neutral in the historical sense, but may hint at opportunism in modern use. Object.",
       "zh": "历史上为中性，现代使用时可暗示投机。多作宾语。"
     },
-    "synonyms": [],
-    "antonyms": [
-      "自甘堕落",
-      "止步不前"
-    ]
+    "synonyms": [
+      "终南捷径"
+    ],
+    "antonyms": []
   },
   {
     "id": "luo-hua-you-yi-liu-shui-wu-qing",
@@ -866,8 +849,8 @@
       "半斤八两"
     ],
     "antonyms": [
-      "各有千秋",
-      "与众不同"
+      "与众不同",
+      "各有千秋"
     ]
   },
   {
@@ -903,7 +886,7 @@
       }
     ],
     "usage": {
-      "en": "Derogatory; similar to 信口开河 (already an entry) but 胡言 stresses nonsense. Predicate.",
+      "en": "Derogatory; similar to 信口开河 but 胡言 stresses nonsense. Predicate.",
       "zh": "贬义；与“信口开河”相近，但“胡言”更强调乱说。多作谓语。"
     },
     "synonyms": [
@@ -969,9 +952,9 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "bad-company-and-betrayal",
       "confucian-classics",
-      "friendship"
+      "friendship",
+      "unity-and-cooperation"
     ],
     "literal": "same · spirit · each other · seek",
     "natural": "like spirits seek each other",
@@ -1012,8 +995,8 @@
       "志同道合",
       "物以类聚",
       "德不孤，必有邻",
-      "同声相应",
-      "磁石引针"
+      "磁石引针",
+      "同声相应"
     ],
     "antonyms": [
       "格格不入",
@@ -1056,10 +1039,7 @@
       "en": "Often with 新仇旧恨一起算 ('settle all the scores'). Object or subject.",
       "zh": "常说“新仇旧恨一起算”。多作宾语、主语。"
     },
-    "synonyms": [
-      "冤冤相报",
-      "宿怨新仇"
-    ],
+    "synonyms": [],
     "antonyms": [
       "冰释前嫌",
       "一笑泯恩仇"
@@ -1075,7 +1055,7 @@
     "register": "casual",
     "themes": [
       "appearance",
-      "poor-health"
+      "experience-and-old-age"
     ],
     "literal": "person · old · pearl · yellow",
     "natural": "the person ages, the pearl yellows",
@@ -1104,10 +1084,10 @@
     "synonyms": [
       "色衰爱弛",
       "年老色衰",
-      "败柳残花"
+      "残花败柳"
     ],
     "antonyms": [
-      "青春焕发",
+      "焕发青春",
       "风华正茂",
       "风韵犹存",
       "灼灼其华"

@@ -96,7 +96,7 @@
     "text": "闲情逸致",
     "pinyin": "xián qíng yì zhì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -128,8 +128,7 @@
       "zh": "多作宾语，常与“有”“没有”搭配。"
     },
     "synonyms": [
-      "悠闲自得",
-      "何夜无月？何处无竹柏？但少闲人如吾两人者耳"
+      "悠闲自得"
     ],
     "antonyms": [
       "焦头烂额",
@@ -317,7 +316,7 @@
     "text": "牛郎织女",
     "pinyin": "niú láng zhī nǚ",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -351,13 +350,11 @@
       "zh": "作名词，与七夕相关的典故。"
     },
     "synonyms": [
-      "天各一方",
       "两地分居"
     ],
     "antonyms": [
       "朝夕相伴",
-      "形影不离",
-      "才子佳人"
+      "形影不离"
     ]
   },
   {
@@ -406,9 +403,9 @@
       "轻歌曼舞"
     ],
     "antonyms": [
-      "万马齐喑",
       "满目萧条",
-      "寒蝉凄切"
+      "寒蝉凄切",
+      "万马齐喑"
     ]
   },
   {
@@ -516,8 +513,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "negative-character-flaws",
-      "luxury-and-extravagance"
+      "negative-character-flaws"
     ],
     "literal": "wealth · bewilders · heart · mind",
     "natural": "blinded by money",
@@ -546,7 +542,6 @@
     "synonyms": [
       "利令智昏",
       "见钱眼开",
-      "见财起意",
       "利欲熏心"
     ],
     "antonyms": [
@@ -592,8 +587,7 @@
       "zh": "作名词，可实指也可比喻。"
     },
     "synonyms": [
-      "风吹雨打",
-      "风餐露宿"
+      "风吹雨打"
     ],
     "antonyms": [
       "风和日丽"
@@ -685,8 +679,8 @@
     ],
     "antonyms": [
       "按兵不动",
-      "闭门不出",
-      "保存实力"
+      "保存实力",
+      "闭门不出"
     ]
   },
   {
@@ -729,10 +723,7 @@
       "en": "Predicate; often followed by 挺过去/坚持.",
       "zh": "作谓语，常接“挺过去”“坚持”。"
     },
-    "synonyms": [
-      "忍辱负重",
-      "硬着头皮"
-    ],
+    "synonyms": [],
     "antonyms": [
       "半途而废",
       "临阵退缩"
@@ -776,7 +767,8 @@
     },
     "synonyms": [
       "大汗淋漓",
-      "挥汗如雨"
+      "挥汗如雨",
+      "汗流浃背"
     ],
     "antonyms": [
       "滴汗不出"
@@ -821,15 +813,15 @@
     },
     "synonyms": [
       "畏首畏尾",
-      "缩手缩脚",
-      "碍手碍脚"
+      "缩手缩脚"
     ],
     "antonyms": [
-      "大刀阔斧",
       "放手大干",
       "无拘无束",
       "纵横驰骋",
-      "大开大合"
+      "大开大合",
+      "自由自在",
+      "大刀阔斧"
     ]
   },
   {
@@ -883,13 +875,11 @@
     "synonyms": [
       "起兵造反",
       "举旗起义",
-      "犯上作乱",
-      "造反有理",
-      "官逼民反"
+      "造反有理"
     ],
     "antonyms": [
-      "俯首帖耳",
-      "逆来顺受"
+      "逆来顺受",
+      "俯首帖耳"
     ]
   },
   {
@@ -988,7 +978,7 @@
     "text": "事后诸葛亮",
     "pinyin": "shì hòu zhū gé liàng",
     "kind": "guanyongyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -1026,8 +1016,8 @@
     ],
     "antonyms": [
       "未卜先知",
-      "料事如神",
-      "有言在先"
+      "有言在先",
+      "料事如神"
     ]
   },
   {
@@ -1035,7 +1025,7 @@
     "text": "情非得已",
     "pinyin": "qíng fēi dé yǐ",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [

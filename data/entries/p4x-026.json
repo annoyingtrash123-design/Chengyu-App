@@ -44,8 +44,7 @@
       "时来运转"
     ],
     "antonyms": [
-      "一成不变",
-      "一蹶不振"
+      "一成不变"
     ]
   },
   {
@@ -95,6 +94,9 @@
     "antonyms": [
       "登大雅之堂",
       "拿得出手"
+    ],
+    "variants": [
+      "上不得台面"
     ]
   },
   {
@@ -138,12 +140,15 @@
       "zh": "多见于否定式“难登大雅之堂”“登不了大雅之堂”；肯定式表示获得认可。"
     },
     "synonyms": [
-      "上得了台面",
-      "大雅之堂"
+      "上得了台面"
     ],
     "antonyms": [
       "难登大雅之堂",
-      "上不了台面"
+      "上不了台面",
+      "市井之谈"
+    ],
+    "variants": [
+      "大雅之堂"
     ]
   },
   {
@@ -186,62 +191,10 @@
       "en": "Mostly seen in the negative 不食人间烟火; the affirmative is a playful counterpart.",
       "zh": "多见于否定式“不食人间烟火”；肯定式是风趣的反用。"
     },
-    "synonyms": [
-      "脚踏实地",
-      "接地气"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不食人间烟火",
       "超凡脱俗"
-    ]
-  },
-  {
-    "id": "wu-gui-ju-bu-cheng-fang-yuan",
-    "text": "无规矩不成方圆",
-    "pinyin": "wú guī jǔ bù chéng fāng yuán",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "standards-and-benchmarks",
-      "fairness-and-impartiality"
-    ],
-    "literal": "without · compass-and-square · not · make · square · circle",
-    "natural": "without compass and square, no squares or circles",
-    "meaning": {
-      "en": "Without rules and standards nothing can be done properly.",
-      "zh": "没有规则和标准，就做不成事情。"
-    },
-    "equivalents": [
-      "rules are rules",
-      "no order without rules"
-    ],
-    "examples": [
-      {
-        "zh": "无规矩不成方圆，比赛必须按规则来。",
-        "en": "Without rules there is no order; the contest must follow the rules."
-      },
-      {
-        "zh": "公司再小，也要有制度，无规矩不成方圆。",
-        "en": "However small a firm is, it needs regulations; without rules nothing works."
-      },
-      {
-        "zh": "妈妈说无规矩不成方圆，要我按时作息。",
-        "en": "Mum says there's no order without rules and wants me to keep regular hours."
-      }
-    ],
-    "usage": {
-      "en": "Said to justify rules. It echoes Mencius's 不以规矩，不能成方圆 (《孟子·离娄上》), but the short form here is the common modern proverb.",
-      "zh": "用来说明规则的必要。呼应《孟子·离娄上》“不以规矩，不能成方圆”，但这里的简短说法是今天的通行谚语。"
-    },
-    "synonyms": [
-      "国有国法，家有家规",
-      "没有规矩，不成方圆"
-    ],
-    "antonyms": [
-      "为所欲为",
-      "无法无天"
     ]
   },
   {
@@ -349,9 +302,7 @@
       "吃不到葡萄说葡萄酸",
       "自我安慰"
     ],
-    "antonyms": [
-      "心悦诚服"
-    ]
+    "antonyms": []
   },
   {
     "id": "you-yi-shuo-yi",
@@ -407,7 +358,7 @@
     "text": "横空出世",
     "pinyin": "héng kōng chū shì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -443,63 +394,11 @@
       "zh": "多作谓语，常见于新闻和评论。语出毛泽东《念奴娇·昆仑》“横空出世，莽昆仑”，今作一般成语使用。"
     },
     "synonyms": [
-      "脱颖而出",
-      "异军突起",
-      "半路杀出个程咬金"
+      "异军突起"
     ],
     "antonyms": [
       "默默无闻",
       "销声匿迹"
-    ]
-  },
-  {
-    "id": "zui-hou-yi-gen-dao-cao",
-    "text": "最后一根稻草",
-    "pinyin": "zuì hòu yī gēn dào cǎo",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "modern": "borrowed",
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "psychological-pressure",
-      "chain-reactions"
-    ],
-    "literal": "last · one · piece · straw",
-    "natural": "the last straw",
-    "meaning": {
-      "en": "The final small thing that makes a situation unbearable or causes collapse.",
-      "zh": "最后一件小事，使人忍无可忍或使局面崩溃。"
-    },
-    "equivalents": [
-      "the last straw",
-      "the straw that broke the camel's back"
-    ],
-    "examples": [
-      {
-        "zh": "迟到又被罚款，成了压垮他的最后一根稻草。",
-        "en": "Being late and then fined was the last straw for him."
-      },
-      {
-        "zh": "这次失败是压死骆驼的最后一根稻草，公司只好关门。",
-        "en": "This failure was the last straw, and the company had to close."
-      },
-      {
-        "zh": "她说你的谎话就是最后一根稻草。",
-        "en": "She said your lie was the last straw."
-      }
-    ],
-    "usage": {
-      "en": "Usually in full as 压死骆驼的最后一根稻草; the idea matches the English 'last straw'.",
-      "zh": "常说全“压死骆驼的最后一根稻草”，与英语 last straw 同义。"
-    },
-    "synonyms": [
-      "压死骆驼的最后一根稻草",
-      "忍无可忍"
-    ],
-    "antonyms": [
-      "无动于衷",
-      "安然无恙"
     ]
   },
   {
@@ -530,7 +429,7 @@
         "en": "These small workshops won't amount to much, so no need to worry."
       },
       {
-        "zh": "他们的组织不成气候，不必担心。",
+        "zh": "他开的小店不成气候，撑不了多久。",
         "en": "Their organisation is going nowhere, so there's no need to worry."
       },
       {
@@ -547,8 +446,8 @@
       "难成大器"
     ],
     "antonyms": [
-      "蔚然成风",
-      "大有作为"
+      "大有作为",
+      "蔚然成风"
     ]
   },
   {
@@ -601,55 +500,6 @@
     ]
   },
   {
-    "id": "gou-bu-xian-jia-pin",
-    "text": "狗不嫌家贫",
-    "pinyin": "gǒu bù xián jiā pín",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "casual",
-    "themes": [
-      "family-and-home",
-      "positive-character-qualities"
-    ],
-    "literal": "dog · not · dislike · home · poor",
-    "natural": "a dog doesn't mind a poor home",
-    "meaning": {
-      "en": "One should stay loyal to one's home and not despise it for being poor.",
-      "zh": "不能因为家里穷就嫌弃它，应当忠于家园。"
-    },
-    "equivalents": [
-      "there's no place like home",
-      "love your roots, however humble"
-    ],
-    "examples": [
-      {
-        "zh": "子不嫌母丑，狗不嫌家贫，哪怕再穷也是故乡。",
-        "en": "A child doesn't mind a plain mother, nor a dog a poor home; however poor, it is still home."
-      },
-      {
-        "zh": "狗不嫌家贫，他拒绝了城里的高薪，回村办学。",
-        "en": "Loyal to his poor home, he declined a city salary to return and run a school in his village."
-      },
-      {
-        "zh": "老人常说狗不嫌家贫，别瞧不起自己的出身。",
-        "en": "The old man often says never to look down on your humble origins."
-      }
-    ],
-    "usage": {
-      "en": "Usually the second half of 子不嫌母丑，狗不嫌家贫. Praises loyalty, sometimes used to urge acceptance of one's lot.",
-      "zh": "多为“子不嫌母丑，狗不嫌家贫”的后半句，称许忠诚，有时劝人安于现状。"
-    },
-    "synonyms": [
-      "子不嫌母丑，狗不嫌家贫",
-      "金窝银窝不如自己的狗窝"
-    ],
-    "antonyms": [
-      "嫌贫爱富",
-      "忘本"
-    ]
-  },
-  {
     "id": "quan-he-bu-quan-li",
     "text": "劝和不劝离",
     "pinyin": "quàn hé bù quàn lí",
@@ -690,8 +540,7 @@
       "zh": "民间常用的劝诫，常与“宁拆十座庙，不毁一桩婚”并提；是一般经验，不适用于存在暴力的婚姻。"
     },
     "synonyms": [
-      "宁拆十座庙，不毁一桩婚",
-      "和为贵"
+      "宁拆十座庙，不毁一桩婚"
     ],
     "antonyms": [
       "挑拨离间",
@@ -703,7 +552,7 @@
     "text": "地球离了谁都转",
     "pinyin": "dì qiú lí le shéi dōu zhuàn",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -836,8 +685,7 @@
       "zh": "常说全“娶妻娶德，嫁人嫁品”；是传统说法，今天也可用于任何一方。"
     },
     "synonyms": [
-      "丑妻近地家中宝",
-      "德才兼备"
+      "丑妻近地家中宝"
     ],
     "antonyms": [
       "以貌取人",
@@ -849,7 +697,7 @@
     "text": "退而求其次",
     "pinyin": "tuì ér qiú qí cì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -885,12 +733,11 @@
       "zh": "多作谓语、状语，中性，有时略带遗憾。"
     },
     "synonyms": [
-      "降格以求",
-      "聊胜于无"
+      "降格以求"
     ],
     "antonyms": [
-      "精益求精",
-      "志在必得"
+      "志在必得",
+      "精益求精"
     ]
   },
   {
@@ -938,8 +785,10 @@
       "红颜薄命"
     ],
     "antonyms": [
-      "长命百岁",
-      "红颜白发"
+      "长命百岁"
+    ],
+    "variants": [
+      "珠沉玉碎"
     ]
   }
 ]

@@ -40,9 +40,7 @@
       "zh": "常见于事故、灾难报道，语气沉痛。"
     },
     "synonyms": [
-      "痛不欲生",
-      "老来丧子",
-      "椎心泣血"
+      "老来丧子"
     ],
     "antonyms": [
       "子孙满堂",
@@ -153,8 +151,7 @@
       "要怎么收获，先那么栽",
       "天上不会掉馅饼",
       "春种一粒粟，秋收万颗子",
-      "春华秋实",
-      "天下没有免费的午餐"
+      "春华秋实"
     ],
     "antonyms": [
       "不劳而获",
@@ -205,13 +202,12 @@
     },
     "synonyms": [
       "说干就干",
-      "雷厉风行",
       "坐而言不如起而行"
     ],
     "antonyms": [
       "纸上谈兵",
-      "犹豫不决",
-      "光说不练"
+      "光说不练",
+      "犹豫不决"
     ]
   },
   {
@@ -224,7 +220,10 @@
     "register": "casual",
     "themes": [
       "useful-tools-and-skill",
-      "fear-and-cowardice"
+      "fear-and-cowardice",
+      "positive-character-qualities",
+      "master-craftsmanship",
+      "stories"
     ],
     "literal": "skill · high · person · gall · big",
     "natural": "skill breeds boldness",
@@ -255,18 +254,23 @@
       "zh": "多含称赞，有时也提醒勿轻率。"
     },
     "synonyms": [
-      "初生牛犊不怕虎",
-      "胆大心细",
-      "艺高胆大",
       "撑死胆大的，饿死胆小的",
-      "没有三两三，不敢上梁山"
+      "没有三两三，不敢上梁山",
+      "胆识过人"
     ],
     "antonyms": [
       "胆小如鼠",
       "缩手缩脚",
-      "畏首畏尾",
-      "没有金刚钻，别揽瓷器活"
-    ]
+      "畏首畏尾"
+    ],
+    "variants": [
+      "艺高胆大",
+      "武松打虎——艺高人胆大"
+    ],
+    "variant_kinds": {
+      "艺高胆大": "short",
+      "武松打虎——艺高人胆大": "full"
+    }
   },
   {
     "id": "yi-tiao-dao-zou-dao-hei",
@@ -317,7 +321,7 @@
       "见机行事",
       "适可而止",
       "不要在一棵树上吊死",
-      "十字路口"
+      "通权达变"
     ]
   },
   {
@@ -325,15 +329,17 @@
     "text": "一发不可收拾",
     "pinyin": "yī fā bù kě shōu shí",
     "variants": [
-      "一发而不可收拾"
+      "一发而不可收拾",
+      "不可收拾"
     ],
     "kind": "guanyongyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
       "chain-reactions",
-      "chaos"
+      "chaos",
+      "dead-ends-and-desperation"
     ],
     "literal": "once · start · not · can · gather · up",
     "natural": "once started, can't be stopped",
@@ -364,17 +370,20 @@
       "zh": "作谓语或状语，也可用于难以停下来的爱好。"
     },
     "synonyms": [
-      "不可收拾",
       "不可遏止",
-      "一泻千里",
       "泛滥成灾",
-      "脱缰之马"
+      "脱缰之马",
+      "无法挽回"
     ],
     "antonyms": [
+      "井井有条",
+      "适可而止",
       "迎刃而解",
-      "风平浪静",
-      "适可而止"
-    ]
+      "风平浪静"
+    ],
+    "variant_kinds": {
+      "不可收拾": "short"
+    }
   },
   {
     "id": "shi-nian-shu-mu-bai-nian-shu-ren",
@@ -438,14 +447,11 @@
       "zh": "谈论教育与人才培养时使用，书面语。"
     },
     "synonyms": [
-      "百年大计",
-      "循序渐进",
       "育人为本",
       "一年之计，莫如树谷；十年之计，莫如树木；终身之计，莫如树人"
     ],
     "antonyms": [
       "急功近利",
-      "拔苗助长",
       "一蹴而就"
     ]
   },
@@ -525,10 +531,12 @@
     "text": "天下兴亡，匹夫有责",
     "pinyin": "tiān xià xīng wáng, pǐ fū yǒu zé",
     "variants": [
-      "天下兴亡"
+      "天下兴亡",
+      "匹夫有责"
     ],
     "variant_kinds": {
-      "天下兴亡": "short"
+      "天下兴亡": "short",
+      "匹夫有责": "short"
     },
     "kind": "mingju",
     "frequency": 2,
@@ -539,7 +547,9 @@
       "high-aspirations",
       "qing-dynasty",
       "thinkers",
-      "famous-quotes"
+      "famous-quotes",
+      "positive-character-qualities",
+      "good-governance"
     ],
     "literal": "world · rise · fall, common · man · has · responsibility",
     "natural": "everyone is responsible for the nation's fate",
@@ -581,15 +591,14 @@
       "zh": "爱国口号，书面语。"
     },
     "synonyms": [
-      "国家兴亡",
-      "舍我其谁",
-      "匹夫有责",
-      "以天下为己任"
+      "以天下为己任",
+      "责无旁贷",
+      "义不容辞"
     ],
     "antonyms": [
-      "事不关己",
+      "置身事外",
       "袖手旁观",
-      "置身事外"
+      "事不关己"
     ]
   },
   {
@@ -644,9 +653,9 @@
       "各说各话"
     ],
     "antonyms": [
-      "不言而喻",
       "是非分明",
-      "黑白分明"
+      "黑白分明",
+      "不言而喻"
     ]
   },
   {
@@ -689,10 +698,10 @@
       "en": "Folk saying of health care; casual.",
       "zh": "民间养生谚语，口语。"
     },
-    "synonyms": [
+    "synonyms": [],
+    "antonyms": [
       "白露身不露"
-    ],
-    "antonyms": []
+    ]
   },
   {
     "id": "jiu-ren-yi-ming-sheng-zao-qi-ji-fu-tu",
@@ -741,9 +750,7 @@
       "zh": "用于赞扬救人和医务工作，带佛教色彩。"
     },
     "synonyms": [
-      "功德无量",
-      "悬壶济世",
-      "见义勇为"
+      "悬壶济世"
     ],
     "antonyms": [
       "见死不救",
@@ -758,12 +765,10 @@
     "variants": [
       "三十六计走为上计",
       "走为上计",
-      "三十六计",
       "走为上策"
     ],
     "variant_kinds": {
-      "走为上计": "short",
-      "三十六计": "short"
+      "走为上计": "short"
     },
     "kind": "suyu",
     "frequency": 3,
@@ -829,7 +834,10 @@
     "variants": [
       "差之毫厘",
       "失之毫厘，谬以千里",
-      "失之毫厘"
+      "失之毫厘",
+      "差之毫厘，失之千里",
+      "失之毫厘，差之千里",
+      "失之毫厘，差以千里"
     ],
     "variant_kinds": {
       "差之毫厘": "short",
@@ -841,7 +849,8 @@
     "register": "neutral",
     "themes": [
       "confucian-classics",
-      "mistakes-and-correction"
+      "mistakes-and-correction",
+      "exact-vs-approximate"
     ],
     "literal": "differ · by · hair · fraction, error · reaches · thousand · li",
     "natural": "a hair's breadth off at the start, a thousand li wrong at the end",
@@ -883,10 +892,9 @@
       "zh": "提醒细节不可马虎，也说“失之毫厘，谬以千里”。"
     },
     "synonyms": [
-      "一失足成千古恨",
       "千里之堤，溃于蚁穴",
-      "棋差一着",
-      "一念之差"
+      "一念之差",
+      "谬以千里"
     ],
     "antonyms": [
       "分毫不差",
@@ -955,8 +963,8 @@
     },
     "synonyms": [
       "名不副实",
-      "徒有虚名",
-      "名过其实"
+      "名过其实",
+      "徒有虚名"
     ],
     "antonyms": [
       "名副其实",
@@ -1016,10 +1024,10 @@
     "antonyms": [
       "明察秋毫",
       "一丝不苟",
-      "吹毛求疵",
       "鸡蛋里挑骨头",
-      "鸡蛋里挑骨头——百般挑剔",
-      "眼里容不得沙子"
+      "眼里容不得沙子",
+      "吹毛求疵",
+      "鸡蛋里挑骨头——百般挑剔"
     ]
   },
   {
@@ -1119,8 +1127,8 @@
     ],
     "antonyms": [
       "光明磊落",
-      "堂堂正正",
-      "开诚布公"
+      "开诚布公",
+      "堂堂正正"
     ]
   },
   {
@@ -1165,8 +1173,8 @@
     },
     "synonyms": [
       "冷嘲热讽",
-      "隔岸观火",
-      "站着说话不腰疼"
+      "站着说话不腰疼",
+      "隔岸观火"
     ],
     "antonyms": [
       "雪中送炭",
@@ -1217,13 +1225,11 @@
     "synonyms": [
       "恩将仇报",
       "忘恩负义",
-      "颠倒黑白",
       "倒打一耙",
       "猪八戒耍把式——倒打一耙"
     ],
     "antonyms": [
-      "知恩图报",
-      "以德报怨"
+      "知恩图报"
     ]
   },
   {
@@ -1322,8 +1328,8 @@
     ],
     "antonyms": [
       "心安理得",
-      "理直气壮",
-      "问心无愧"
+      "问心无愧",
+      "理直气壮"
     ]
   },
   {
@@ -1368,8 +1374,8 @@
     },
     "synonyms": [],
     "antonyms": [
-      "唾手可得",
-      "轻而易举"
+      "轻而易举",
+      "唾手可得"
     ]
   },
   {

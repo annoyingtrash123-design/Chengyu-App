@@ -85,8 +85,8 @@
       "千秋功业"
     ],
     "antonyms": [
-      "微不足道",
-      "碌碌无为"
+      "碌碌无为",
+      "微不足道"
     ]
   },
   {
@@ -268,8 +268,7 @@
       "前因后果"
     ],
     "antonyms": [
-      "含糊其词",
-      "不明不白"
+      "含糊其词"
     ]
   },
   {
@@ -312,8 +311,7 @@
       "多事之人"
     ],
     "antonyms": [
-      "安分守己",
-      "明哲保身"
+      "安分守己"
     ]
   },
   {
@@ -326,7 +324,7 @@
     "register": "literary",
     "themes": [
       "character",
-      "attitude-humble-vs-arrogant"
+      "emotions"
     ],
     "literal": "no · more than · thus · thus",
     "natural": "nothing more than that",
@@ -364,7 +362,7 @@
     "id": "jun-zi-yi-yan",
     "text": "君子一言",
     "pinyin": "jūn zǐ yī yán",
-    "kind": "chengyu",
+    "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
@@ -402,8 +400,8 @@
       "一诺千金"
     ],
     "antonyms": [
-      "言而无信",
-      "出尔反尔"
+      "出尔反尔",
+      "言而无信"
     ]
   },
   {
@@ -444,13 +442,14 @@
     },
     "synonyms": [
       "无中生有",
-      "信口雌黄",
       "向壁虚构",
-      "子虚乌有"
+      "子虚乌有",
+      "信口雌黄"
     ],
     "antonyms": [
       "实事求是",
       "有根有据",
+      "确有其事",
       "捉贼捉赃"
     ]
   },
@@ -493,12 +492,11 @@
     "synonyms": [
       "一人之下，万人之上",
       "位高权重",
-      "贵不可言",
-      "一人之下"
+      "贵不可言"
     ],
     "antonyms": [
-      "默默无闻",
       "平民百姓",
+      "默默无闻",
       "一官半职",
       "白衣秀士"
     ]
@@ -630,8 +628,8 @@
       "zh": "作谓语。与“将功赎罪”相近，但后者指罪行，前者指过错。"
     },
     "synonyms": [
-      "亡羊补牢",
       "弥补过失",
+      "将功赎罪",
       "戴罪立功"
     ],
     "antonyms": [
@@ -688,12 +686,10 @@
       "zh": "多含惋惜，用于人才外流。"
     },
     "synonyms": [
-      "人才外流",
-      "为他人作嫁衣裳"
+      "人才外流"
     ],
     "antonyms": [
-      "人尽其才",
-      "任人唯贤"
+      "人尽其才"
     ]
   },
   {
@@ -749,9 +745,9 @@
       "朝思暮想"
     ],
     "antonyms": [
-      "时光飞逝",
       "光阴似箭",
-      "日月如梭"
+      "日月如梭",
+      "时光飞逝"
     ]
   },
   {
@@ -797,52 +793,7 @@
       "恬不知耻"
     ],
     "antonyms": [
-      "知难而退",
       "自尊自爱"
-    ]
-  },
-  {
-    "id": "nu-da-dang-jia",
-    "text": "女大当嫁",
-    "pinyin": "nǚ dà dāng jià",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "relationships",
-      "love-and-marriage"
-    ],
-    "literal": "girl · grown · should · marry",
-    "natural": "a grown girl should marry",
-    "meaning": {
-      "en": "A grown woman should marry; usually paired with 男大当婚.",
-      "zh": "女子长大了就应当出嫁；常与“男大当婚”连用。"
-    },
-    "equivalents": [
-      "time for a grown daughter to marry",
-      "of marriageable age"
-    ],
-    "examples": [
-      {
-        "zh": "女大当嫁，家里人开始张罗她的婚事。",
-        "en": "Her family began arranging her marriage, as a grown daughter should be wed."
-      },
-      {
-        "zh": "男大当婚，女大当嫁，是父母常挂在嘴边的话。",
-        "en": "'A grown man should marry and a grown woman should wed' is what parents often say."
-      }
-    ],
-    "usage": {
-      "en": "Traditional; now often heard as parental pressure. Often 女大不中留 is the cheeky follow-up.",
-      "zh": "带传统色彩，现常指父母催婚。"
-    },
-    "synonyms": [
-      "适婚年龄"
-    ],
-    "antonyms": [
-      "晚婚晚育",
-      "独身主义"
     ]
   },
   {
@@ -903,7 +854,8 @@
       "culture",
       "daoist-classics",
       "nature",
-      "landscapes"
+      "landscapes",
+      "myths-legends"
     ],
     "literal": "cave · heaven · blessed · land",
     "natural": "cave-heavens and blessed lands",
@@ -940,10 +892,10 @@
   },
   {
     "id": "ren-di-sheng-shu",
-    "text": "人地生疏",
+    "text": "人生地疏",
     "pinyin": "rén dì shēng shū",
     "variants": [
-      "人生地疏"
+      "人地生疏"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -953,7 +905,7 @@
       "daily",
       "journeys-and-exploration"
     ],
-    "literal": "people · place · unfamiliar · strange",
+    "literal": "people · place · born · unfamiliar",
     "natural": "unfamiliar with people and place",
     "meaning": {
       "en": "A stranger in a place, knowing neither the people nor the terrain.",
@@ -978,8 +930,8 @@
       "zh": "口语书面皆常见。"
     },
     "synonyms": [
-      "举目无亲",
-      "初来乍到"
+      "初来乍到",
+      "举目无亲"
     ],
     "antonyms": [
       "轻车熟路",
@@ -1027,8 +979,8 @@
       "一日千里"
     ],
     "antonyms": [
-      "寸步难行",
-      "蜗行牛步"
+      "蜗行牛步",
+      "寸步难行"
     ]
   },
   {
@@ -1121,7 +1073,6 @@
       "摇摇欲坠"
     ],
     "antonyms": [
-      "中流砥柱",
       "蒸蒸日上"
     ]
   },

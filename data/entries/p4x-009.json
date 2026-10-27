@@ -85,9 +85,7 @@
     "synonyms": [
       "江湖郎中"
     ],
-    "antonyms": [
-      "神医"
-    ]
+    "antonyms": []
   },
   {
     "id": "hua-jie-liu-xiang",
@@ -206,13 +204,19 @@
       }
     ],
     "usage": {
-      "en": "Often paired with 翩若惊鸿 (as in Cao Zhi's 洛神赋). Used as predicate or in a comparison about movement.",
+      "en": "Often paired with 翩若惊鸿. Cao Zhi's 洛神赋 has 翩若惊鸿，婉若游龙, and 矫若游龙 is a variant of 婉若游龙. Used as predicate or in a comparison about movement.",
       "zh": "常与“翩若惊鸿”连用，作谓语，形容动作或笔势。"
     },
     "synonyms": [
       "翩若惊鸿"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "婉若游龙"
+    ],
+    "variant_kinds": {
+      "婉若游龙": "old"
+    }
   },
   {
     "id": "hao-qi-gan-yun",
@@ -524,7 +528,8 @@
     "register": "literary",
     "themes": [
       "outstanding-character",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "rare-idioms"
     ],
     "literal": "mountain · stand · deep pool · still",
     "natural": "standing like a mountain and still as a deep pool",
@@ -551,9 +556,16 @@
       "zh": "文学性褒扬，形容人的气度；也可形容书法。"
     },
     "synonyms": [
-      "川渟岳峙"
+      "稳如泰山"
     ],
-    "antonyms": []
+    "antonyms": [
+      "惊慌失措",
+      "轻举妄动"
+    ],
+    "variants": [
+      "渊渟岳峙",
+      "川渟岳峙"
+    ]
   },
   {
     "id": "gu-jiao-qi-ming",
@@ -652,7 +664,8 @@
     "register": "casual",
     "themes": [
       "mediocrity-and-poor-appearance",
-      "poor-health"
+      "poor-health",
+      "appearance"
     ],
     "literal": "person · not · person · ghost · not · ghost",
     "natural": "neither human nor ghost",
@@ -680,10 +693,14 @@
       "zh": "口语，语气较重，作谓语或补语；也说“不人不鬼”。"
     },
     "synonyms": [
-      "不人不鬼"
+      "面目全非"
     ],
     "antonyms": [
-      "容光焕发"
+      "容光焕发",
+      "神采奕奕"
+    ],
+    "variants": [
+      "不人不鬼"
     ]
   },
   {
@@ -727,8 +744,8 @@
       "笑里藏刀"
     ],
     "antonyms": [
-      "笑逐颜开",
-      "真心实意"
+      "真心实意",
+      "笑逐颜开"
     ]
   },
   {

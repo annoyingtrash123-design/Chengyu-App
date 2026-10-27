@@ -38,8 +38,8 @@
     },
     "synonyms": [
       "自强不息",
-      "坚韧不拔",
-      "百折不挠"
+      "百折不挠",
+      "坚韧不拔"
     ],
     "antonyms": [
       "自暴自弃",
@@ -51,12 +51,14 @@
     "text": "石破天惊",
     "pinyin": "shí pò tiān jīng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "extraordinary-circumstances",
-      "arts"
+      "arts",
+      "poets",
+      "poems-prose"
     ],
     "literal": "stone · break · heaven · startle",
     "natural": "Stones bursting and heaven astonished",
@@ -98,7 +100,6 @@
     "synonyms": [
       "惊天动地",
       "震古烁今",
-      "标新立异",
       "语惊四座",
       "惊世骇俗"
     ],
@@ -169,8 +170,7 @@
       "众所周知"
     ],
     "antonyms": [
-      "深藏不露",
-      "秘而不宣"
+      "深藏不露"
     ]
   },
   {
@@ -224,12 +224,12 @@
     },
     "synonyms": [
       "疾风知劲草，烈火见真金",
-      "坚贞不屈",
-      "岁寒三友"
+      "岁寒三友",
+      "坚贞不屈"
     ],
     "antonyms": [
-      "随波逐流",
-      "见风使舵"
+      "见风使舵",
+      "随波逐流"
     ]
   },
   {
@@ -333,7 +333,6 @@
       "悬梁刺股"
     ],
     "antonyms": [
-      "不学无术",
       "饱食终日"
     ]
   },
@@ -387,9 +386,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "欲擒故纵",
-      "示敌以弱",
-      "声东击西"
+      "示敌以弱"
     ],
     "antonyms": [
       "虚张声势"
@@ -526,7 +523,7 @@
     ],
     "examples": [
       {
-        "zh": "刘备闻雷失箸，巧妙地掩饰了自己。",
+        "zh": "他被问得心慌，只好学刘备闻雷失箸，借故掩饰。",
         "en": "Liu Bei dropped his chopsticks at the thunder and cleverly hid his true feelings."
       },
       {
@@ -550,7 +547,6 @@
       "zh": "多作主语、谓语。出自\"煮酒论英雄\"。"
     },
     "synonyms": [
-      "韬光养晦",
       "不动声色"
     ],
     "antonyms": [
@@ -600,7 +596,7 @@
       "才思敏捷",
       "下笔成章",
       "妙笔生花",
-      "下笔如神",
+      "下笔如有神",
       "倚马可待",
       "下笔千言",
       "斗酒百篇"
@@ -608,8 +604,8 @@
     "antonyms": [
       "江郎才尽",
       "才思枯竭",
-      "搜肠刮肚",
-      "搜索枯肠"
+      "搜索枯肠",
+      "搜肠刮肚"
     ]
   },
   {
@@ -757,9 +753,7 @@
     "synonyms": [
       "病如西子"
     ],
-    "antonyms": [
-      "东施效颦"
-    ]
+    "antonyms": []
   },
   {
     "id": "xi-zhi-ru-wei",
@@ -862,13 +856,13 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "出口成章",
       "一挥而就",
       "文思泉涌",
-      "下笔如神",
+      "下笔如有神",
       "文不加点",
       "斗酒百篇",
-      "马工枚速"
+      "马工枚速",
+      "出口成章"
     ],
     "antonyms": [
       "江郎才尽",
@@ -932,13 +926,11 @@
       "zh": "多只用前半句，或简说\"近水楼台\"。"
     },
     "synonyms": [
-      "得天独厚",
-      "捷足先登",
-      "肥水不流外人田"
+      "得天独厚"
     ],
     "antonyms": [
-      "鞭长莫及",
       "舍近求远",
+      "鞭长莫及",
       "外来的和尚会念经"
     ]
   },
@@ -954,7 +946,8 @@
       "relationships",
       "mental-clarity",
       "poems-prose",
-      "often-misused"
+      "often-misused",
+      "poets"
     ],
     "literal": "heart · have · magic · rhinoceros-horn",
     "natural": "Hearts linked like a rhinoceros horn",
@@ -999,7 +992,6 @@
     "antonyms": [
       "同床异梦",
       "格格不入",
-      "伯牙绝弦",
       "鸡同鸭讲"
     ]
   },
@@ -1042,12 +1034,11 @@
       "zh": "多作宾语。网络时代流行语，源于\"我们的征途是星辰大海\"。"
     },
     "synonyms": [
-      "鹏程万里",
-      "雄心壮志"
+      "雄心壮志",
+      "鹏程万里"
     ],
     "antonyms": [
-      "鼠目寸光",
-      "安于现状"
+      "鼠目寸光"
     ]
   },
   {
@@ -1055,7 +1046,7 @@
     "text": "眼见为实",
     "pinyin": "yǎn jiàn wéi shí",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 1,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1087,9 +1078,7 @@
       "zh": "常与\"耳听为虚\"连用。"
     },
     "synonyms": [
-      "百闻不如一见",
-      "耳听为虚，眼见为实",
-      "没有调查就没有发言权"
+      "百闻不如一见"
     ],
     "antonyms": [
       "道听途说",
@@ -1166,8 +1155,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "effective-teaching-methods",
-      "relationships"
+      "relationships",
+      "apprenticeship-and-learning"
     ],
     "literal": "one · day · be · teacher, whole · life · be · father",
     "natural": "A teacher for a day, a father for life",
@@ -1242,8 +1231,7 @@
     },
     "synonyms": [
       "引咎辞职",
-      "负荆请罪",
-      "痛改前非"
+      "负荆请罪"
     ],
     "antonyms": [
       "推卸责任",
@@ -1304,12 +1292,12 @@
       "zh": "多作谓语。\"贾\"读 gǔ。"
     },
     "synonyms": [
-      "精力充沛",
-      "斗志昂扬"
+      "斗志昂扬",
+      "精力充沛"
     ],
     "antonyms": [
-      "筋疲力尽",
-      "强弩之末"
+      "强弩之末",
+      "筋疲力尽"
     ]
   }
 ]

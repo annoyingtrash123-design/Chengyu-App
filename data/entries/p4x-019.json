@@ -60,7 +60,7 @@
     "id": "xue-hao-bu-yi-xue-huai-rong-yi",
     "text": "学好不易，学坏容易",
     "pinyin": "xué hǎo bù yì, xué huài róng yì",
-    "kind": "suyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
@@ -138,10 +138,7 @@
       "围魏救赵",
       "声东击西"
     ],
-    "antonyms": [
-      "自投罗网",
-      "坐以待毙"
-    ]
+    "antonyms": []
   },
   {
     "id": "yuan-bi-li-cheng",
@@ -272,8 +269,7 @@
       "原地踏步"
     ],
     "antonyms": [
-      "勇往直前",
-      "进身之阶"
+      "勇往直前"
     ]
   },
   {
@@ -373,8 +369,7 @@
       "欲盖弥彰"
     ],
     "antonyms": [
-      "不辩自明",
-      "一清二楚"
+      "不辩自明"
     ]
   },
   {
@@ -567,8 +562,7 @@
       "zh": "原诗下句是“霜刃未曾试”。今多夸赞长期积累、精益求精。"
     },
     "synonyms": [
-      "台上一分钟，台下十年功",
-      "精益求精"
+      "台上一分钟，台下十年功"
     ],
     "antonyms": [
       "一曝十寒",
@@ -630,7 +624,8 @@
     "register": "casual",
     "themes": [
       "family-and-home",
-      "experience-and-old-age"
+      "experience-and-old-age",
+      "frugality-and-thrift"
     ],
     "literal": "live · days · only then · know · oil · salt · dear",
     "natural": "only when you run a household do you know how dear oil and salt are",
@@ -745,13 +740,9 @@
       "en": "Said to smooth over a child's blunt remark. Warm, neutral tone.",
       "zh": "用来化解孩子说话直率造成的尴尬，语气温和。"
     },
-    "synonyms": [
-      "天真无邪",
-      "口无遮拦"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "人小鬼大",
-      "老成持重"
+      "人小鬼大"
     ]
   },
   {
@@ -822,7 +813,8 @@
     "themes": [
       "farming-and-harvest",
       "poverty-and-hardship",
-      "confucian-classics"
+      "confucian-classics",
+      "frugality-and-thrift"
     ],
     "literal": "sow · reap · hard · difficult",
     "natural": "sowing and reaping are hard",
@@ -879,7 +871,8 @@
     "register": "neutral",
     "themes": [
       "sadness-and-despair",
-      "near-misses-and-setbacks"
+      "near-misses-and-setbacks",
+      "complex-emotional-states"
     ],
     "literal": "hold · regret · whole · life",
     "natural": "hold a regret all one's life",
@@ -908,11 +901,16 @@
     "synonyms": [
       "悔恨终生",
       "饮恨终身",
-      "抱恨终天"
+      "抱恨终天",
+      "死不瞑目"
     ],
     "antonyms": [
       "死而无憾",
       "无怨无悔"
+    ],
+    "variants": [
+      "抱恨终身",
+      "遗恨终身"
     ]
   }
 ]

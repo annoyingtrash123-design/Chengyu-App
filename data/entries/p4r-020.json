@@ -48,7 +48,6 @@
       "zh": "常与“蜡炬成灰”并用；原诗写爱情坚贞。"
     },
     "synonyms": [
-      "鞠躬尽瘁",
       "蜡炬成灰"
     ],
     "antonyms": [
@@ -190,8 +189,8 @@
       "万死不辞"
     ],
     "antonyms": [
-      "贪生怕死",
-      "畏缩不前"
+      "畏缩不前",
+      "贪生怕死"
     ]
   },
   {
@@ -232,12 +231,10 @@
       "zh": "描写大战前的紧张气氛，也可泛指竞争双方距离很近。"
     },
     "synonyms": [
-      "剑拔弩张",
       "兵临城下"
     ],
     "antonyms": [
-      "相隔千里",
-      "风平浪静"
+      "相隔千里"
     ]
   },
   {
@@ -278,12 +275,10 @@
       "zh": "贬义，传统上多指女性，现代使用须谨慎。"
     },
     "synonyms": [
-      "谄上欺下",
       "红颜祸水"
     ],
     "antonyms": [
-      "刚正不阿",
-      "忠言逆耳"
+      "刚正不阿"
     ]
   },
   {
@@ -426,16 +421,13 @@
       }
     },
     "usage": {
-      "en": "In the Analects it ranks below 生而知之 and 学而知之; the tone is not harsh.",
+      "en": "In the Zhongyong it ranks below 生而知之 and 学而知之; the tone is not harsh.",
       "zh": "《论语》里位于生而知之、学而知之之后，但并不含贬义。"
     },
-    "synonyms": [
-      "吃一堑，长一智",
-      "亡羊补牢"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "一蹴而就",
-      "未卜先知"
+      "生而知之",
+      "一蹴而就"
     ]
   },
   {
@@ -536,8 +528,8 @@
       "子孙满堂"
     ],
     "antonyms": [
-      "后继无人",
-      "家道中落"
+      "家道中落",
+      "后继无人"
     ]
   },
   {
@@ -588,63 +580,6 @@
     ]
   },
   {
-    "id": "lao-da-tu-bei",
-    "text": "老大徒悲",
-    "pinyin": "lǎo dà tú bēi",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "laziness-and-giving-up",
-      "value-of-time"
-    ],
-    "literal": "old · grown · vainly · sorrow",
-    "natural": "grown old, sorrow in vain",
-    "meaning": {
-      "en": "To be old and have achieved nothing, so that regret is of no use.",
-      "zh": "年纪大了一事无成，后悔也没有用。"
-    },
-    "equivalents": [
-      "regret it when it is too late",
-      "grow old with nothing to show"
-    ],
-    "examples": [
-      {
-        "zh": "年轻时不努力，老大徒悲。",
-        "en": "If you do not work hard when young, you will regret it in vain when old."
-      },
-      {
-        "zh": "别等到老大徒悲才后悔虚度光阴。",
-        "en": "Don't wait until old age to regret wasted time."
-      }
-    ],
-    "origin": {
-      "source": "《长歌行》（汉乐府）",
-      "story": {
-        "en": "'If you do not strive in youth, old age brings empty sorrow' (少壮不努力，老大徒伤悲).",
-        "zh": "汉乐府《长歌行》：“少壮不努力，老大徒伤悲。”"
-      },
-      "date": {
-        "zh": "汉 · 1—3世纪",
-        "en": "Han dynasty, 1st–3rd c."
-      }
-    },
-    "usage": {
-      "en": "Normally part of the line 'If you do not work in youth, old age brings sorrow'; the original wording is 老大徒伤悲.",
-      "zh": "常用于劝勉；原诗句为“老大徒伤悲”。"
-    },
-    "synonyms": [
-      "追悔莫及",
-      "白首无成"
-    ],
-    "antonyms": [
-      "少壮有为",
-      "及时努力"
-    ]
-  },
-  {
     "id": "li-di-wan-fu",
     "text": "力敌万夫",
     "pinyin": "lì dí wàn fū",
@@ -686,8 +621,7 @@
       "一夫当关"
     ],
     "antonyms": [
-      "手无缚鸡之力",
-      "不堪一击"
+      "手无缚鸡之力"
     ]
   },
   {
@@ -700,9 +634,9 @@
     "register": "literary",
     "themes": [
       "rare-idioms",
-      "verbosity",
       "political-corruption",
-      "confucian-classics"
+      "confucian-classics",
+      "deception-and-false-appearances"
     ],
     "literal": "sharp · mouth · overturn · state",
     "natural": "a sharp tongue topples the state",
@@ -740,13 +674,9 @@
       "zh": "告诫勿偏听谗佞之言；《论语》有“恶利口之覆邦家者”。"
     },
     "synonyms": [
-      "巧言乱德",
-      "祸从口出"
+      "巧言乱德"
     ],
-    "antonyms": [
-      "忠言逆耳",
-      "言之有物"
-    ]
+    "antonyms": []
   },
   {
     "id": "lin-nan-bu-qu",
@@ -786,8 +716,8 @@
       "zh": "赞颂坚贞品格，多见于纪念或英雄事迹。"
     },
     "synonyms": [
-      "宁死不屈",
-      "视死如归"
+      "视死如归",
+      "宁死不屈"
     ],
     "antonyms": [
       "贪生怕死",
@@ -845,10 +775,10 @@
   },
   {
     "id": "liu-shang-qu-shui",
-    "text": "流觞曲水",
-    "pinyin": "liú shāng qū shuǐ",
+    "text": "曲水流觞",
+    "pinyin": "qū shuǐ liú shāng",
     "variants": [
-      "曲水流觞"
+      "流觞曲水"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -859,7 +789,7 @@
       "relaxation-and-rest",
       "poems-prose"
     ],
-    "literal": "float · wine cup · winding · stream",
+    "literal": "winding · stream · float · wine cup",
     "natural": "floating cups on a winding stream",
     "meaning": {
       "en": "A custom of setting wine cups afloat on a winding stream; whoever the cup stops by must drink and compose a poem.",
@@ -895,7 +825,6 @@
       "zh": "与王羲之兰亭雅集有关；语序可以颠倒。"
     },
     "synonyms": [
-      "吟风弄月",
       "诗酒风流"
     ],
     "antonyms": [
@@ -906,7 +835,7 @@
     "id": "mei-xu-xun-xue",
     "text": "梅须逊雪",
     "pinyin": "méi xū xùn xuě",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -918,7 +847,7 @@
     "literal": "plum · must · yield · snow",
     "natural": "the plum must yield to snow",
     "meaning": {
-      "en": "Each has its own merits, and neither is complete without the other; two things each excel in some respect.",
+      "en": "Plum yields to snow in whiteness, snow yields to plum in fragrance; each has its own strengths.",
       "zh": "梅花与雪各有优点，互相不能完全取代，比喻各有长处。"
     },
     "equivalents": [
@@ -1009,12 +938,9 @@
       "zh": "诗意用语，常与“手挥五弦”并用。"
     },
     "synonyms": [
-      "魂牵梦萦",
       "凝眸远望"
     ],
-    "antonyms": [
-      "漫不经心"
-    ]
+    "antonyms": []
   },
   {
     "id": "niu-shan-zhuo-zhuo",
@@ -1123,8 +1049,8 @@
       "zh": "形容送别时悲痛，如征兵出发的场面。"
     },
     "synonyms": [
-      "依依惜别",
-      "难舍难分"
+      "难舍难分",
+      "依依惜别"
     ],
     "antonyms": [
       "含笑而别",
@@ -1182,7 +1108,7 @@
     },
     "synonyms": [
       "股肱之臣",
-      "国之栋梁"
+      "国家栋梁"
     ],
     "antonyms": [
       "奸佞小人",

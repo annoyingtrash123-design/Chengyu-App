@@ -9,10 +9,10 @@
     "register": "literary",
     "themes": [
       "confucian-classics",
-      "conflict-and-strife",
       "efficiency",
       "essay-favourites",
-      "friendship"
+      "friendship",
+      "unity-and-cooperation"
     ],
     "literal": "two · people · same · heart, their · sharpness · cut · metal",
     "natural": "When two people share one heart, their sharpness can cut through metal",
@@ -49,7 +49,10 @@
       "en": "A quoted line; literary, common in essays, captions and speeches.",
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "齐心协力",
+      "同心同德"
+    ],
     "antonyms": []
   },
   {
@@ -533,7 +536,10 @@
       "en": "A quoted line; literary, common in essays, captions and speeches.",
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "千里马常有，而伯乐不常有",
+      "伯乐相马"
+    ],
     "antonyms": []
   },
   {
@@ -1026,7 +1032,8 @@
       "master-craftsmanship",
       "excellent-writing",
       "essay-favourites",
-      "poets"
+      "poets",
+      "arts"
     ],
     "literal": "loud-rumbling · soft-murmuring · mingled · play, big · pearls · small · pearls · fall · jade · plate",
     "natural": "Loud notes and soft notes mingle, like big and small pearls falling on a jade plate",

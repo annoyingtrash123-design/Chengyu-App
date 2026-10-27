@@ -54,12 +54,13 @@
     "text": "孤掌难鸣",
     "pinyin": "gū zhǎng nán míng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "relationships",
-      "giving-up-and-weakness"
+      "giving-up-and-weakness",
+      "unity-and-cooperation"
     ],
     "literal": "single · palm · hard · to clap",
     "natural": "one hand cannot clap",
@@ -93,8 +94,8 @@
       "势单力薄",
       "独木难支",
       "独木不成林",
-      "一个巴掌拍不响",
       "孤立无援",
+      "一个巴掌拍不响",
       "单丝不成线，独木不成林"
     ],
     "antonyms": [
@@ -102,12 +103,12 @@
       "人多势众",
       "齐心协力",
       "牡丹虽好，全仗绿叶扶持",
-      "刘备遇孔明——如鱼得水",
       "一根筷子易折，十根筷子难断",
       "登高一呼",
       "众人拾柴火焰高",
-      "红花还得绿叶扶",
-      "人多力量大"
+      "人多力量大",
+      "刘备遇孔明——如鱼得水",
+      "红花还得绿叶扶"
     ]
   },
   {
@@ -156,8 +157,7 @@
       "翻身的王八——四脚朝天"
     ],
     "antonyms": [
-      "俯首帖耳",
-      "五体投地"
+      "俯首帖耳"
     ]
   },
   {
@@ -203,7 +203,6 @@
     "synonyms": [
       "穷困潦倒",
       "病魔缠身",
-      "雪上加霜",
       "牛衣对泣"
     ],
     "antonyms": [
@@ -263,9 +262,6 @@
       "zh": "常与“以力服人”对举。"
     },
     "synonyms": [
-      "德高望重",
-      "心悦诚服",
-      "有耻且格",
       "为政以德",
       "攻心为上"
     ],
@@ -385,16 +381,16 @@
       "铺张浪费",
       "挥霍无度",
       "糟蹋东西",
-      "焚琴煮鹤"
+      "焚琴煮鹤",
+      "猪八戒吃人参果——全不知滋味"
     ],
     "antonyms": [
       "爱惜物力",
       "物尽其用",
       "俭以养德",
-      "一饮一啄",
       "谁知盘中餐，粒粒皆辛苦",
-      "化腐朽为神奇",
-      "仁民爱物"
+      "仁民爱物",
+      "化腐朽为神奇"
     ]
   },
   {
@@ -445,8 +441,8 @@
       "郁郁葱葱"
     ],
     "antonyms": [
-      "寸草不生",
-      "草木凋零"
+      "草木凋零",
+      "寸草不生"
     ]
   },
   {
@@ -491,70 +487,16 @@
     },
     "synonyms": [
       "狐假虎威",
-      "借鸡生蛋",
       "打着旗号"
     ],
-    "antonyms": [
-      "实事求是",
-      "真刀真枪"
-    ]
-  },
-  {
-    "id": "gong-shou-rang-ren",
-    "text": "拱手让人",
-    "pinyin": "gǒng shǒu ràng rén",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "giving-up-and-weakness",
-      "near-misses-and-setbacks"
-    ],
-    "literal": "fold hands · give up · to · others",
-    "natural": "hand over on a plate",
-    "meaning": {
-      "en": "To give up something valuable to others readily, without a fight.",
-      "zh": "轻易地把自己的东西或权利交给别人。"
-    },
-    "equivalents": [
-      "hand over on a plate",
-      "give away without a fight"
-    ],
-    "examples": [
-      {
-        "zh": "我们不能把市场份额拱手让人。",
-        "en": "We can't hand our market share over on a plate."
-      },
-      {
-        "zh": "到手的冠军竟然拱手让人。",
-        "en": "He let the title he'd won be handed over so easily."
-      },
-      {
-        "zh": "国家的主权绝不能拱手让人。",
-        "en": "National sovereignty can never be handed away."
-      }
-    ],
-    "usage": {
-      "en": "Usually in negation or warning.",
-      "zh": "常用于否定或警示。"
-    },
-    "synonyms": [
-      "拱手相让",
-      "双手奉上",
-      "白白送人"
-    ],
-    "antonyms": [
-      "寸土必争",
-      "据为己有"
-    ]
+    "antonyms": []
   },
   {
     "id": "bu-zhi-tian-gao-di-hou",
     "text": "不知天高地厚",
     "pinyin": "bù zhī tiān gāo dì hòu",
     "kind": "guanyongyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -610,8 +552,7 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "speech",
-      "poor-speech-and-silence"
+      "speech"
     ],
     "literal": "three · inch · not · rot · 's · tongue",
     "natural": "a silver tongue",
@@ -642,9 +583,9 @@
       "zh": "常说“凭/靠三寸不烂之舌”。"
     },
     "synonyms": [
-      "能言善辩",
       "伶牙俐齿",
-      "舌战群儒"
+      "舌战群儒",
+      "能言善辩"
     ],
     "antonyms": [
       "笨嘴拙舌",
@@ -693,12 +634,10 @@
       "zh": "文学色彩，指地域。"
     },
     "synonyms": [
-      "巴蜀大地",
-      "天府之国"
+      "巴蜀大地"
     ],
     "antonyms": [
-      "塞北江南",
-      "江南水乡"
+      "塞北江南"
     ]
   },
   {
@@ -750,10 +689,9 @@
       "洁身自好",
       "高风亮节",
       "守身如玉",
-      "女儿是水做的骨肉",
       "玉壶冰心",
-      "冰肌玉骨",
-      "一片冰心"
+      "一片冰心",
+      "冰肌玉骨"
     ],
     "antonyms": [
       "同流合污",
@@ -769,8 +707,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "chaos",
-      "dead-ends-and-desperation"
+      "chaos"
     ],
     "literal": "world · under · greatly · chaos",
     "natural": "the world is thrown into chaos",
@@ -873,8 +810,7 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "standards-and-benchmarks",
-      "useful-tools-and-skill"
+      "standards-and-benchmarks"
     ],
     "literal": "set up · this · keep · evidence",
     "natural": "put it on record",
@@ -982,7 +918,7 @@
     "natural": "the five Confucian virtues of gentleness, kindness, courtesy, restraint and deference",
     "meaning": {
       "en": "The five virtues Confucius was said to show: gentle, kind, respectful, frugal and deferential.",
-      "zh": "温和、善良、恭敬、节制、谦让，是儒家推崇的五种美德。"
+      "zh": "温和、善良、恭敬、节俭、谦让，是儒家推崇的五种美德。"
     },
     "equivalents": [
       "gentle, kind, courteous, restrained and deferential",
@@ -1080,7 +1016,6 @@
       "zh": "常与“君子好逑”连用。"
     },
     "synonyms": [
-      "大家闺秀",
       "美丽贤淑"
     ],
     "antonyms": [

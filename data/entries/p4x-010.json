@@ -180,9 +180,7 @@
       "en": "Often paired with 一年之计在于春. Used as encouragement to get up early and plan ahead.",
       "zh": "常与“一年之计在于春”连用，劝人早起、早做打算。"
     },
-    "synonyms": [
-      "一年之计在于春"
-    ],
+    "synonyms": [],
     "antonyms": [
       "日上三竿"
     ]
@@ -270,9 +268,7 @@
       "街坊邻里",
       "左邻右舍"
     ],
-    "antonyms": [
-      "背井离乡"
-    ]
+    "antonyms": []
   },
   {
     "id": "xu-jing-yi-chang",
@@ -322,7 +318,7 @@
     "id": "bing-ru-xi-zi",
     "text": "病如西子",
     "pinyin": "bìng rú xī zǐ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
@@ -511,52 +507,6 @@
     "antonyms": []
   },
   {
-    "id": "bao-hen-zhong-shen",
-    "text": "抱恨终身",
-    "pinyin": "bào hèn zhōng shēn",
-    "kind": "chengyu",
-    "frequency": 3,
-    "variants": [
-      "遗恨终身"
-    ],
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "sadness-and-despair",
-      "complex-emotional-states"
-    ],
-    "literal": "hold · regret · whole · life",
-    "natural": "carry regret for a lifetime",
-    "meaning": {
-      "en": "To be filled with regret for the rest of one's life over something that cannot be undone.",
-      "zh": "因为一件事而遗憾一辈子。"
-    },
-    "equivalents": [
-      "regret to one's dying day",
-      "carry a lifelong regret"
-    ],
-    "examples": [
-      {
-        "zh": "没能见父亲最后一面，让他抱恨终身。",
-        "en": "Not being able to see his father one last time left him with lifelong regret."
-      },
-      {
-        "zh": "当年放弃了那个机会，他至今抱恨终身。",
-        "en": "He gave up that chance back then and has regretted it ever since."
-      }
-    ],
-    "usage": {
-      "en": "Used as predicate; often follows 令 or 使. Stronger than ordinary regret.",
-      "zh": "作谓语，常接在“令、使”后，语气比一般的遗憾重。"
-    },
-    "synonyms": [
-      "死不瞑目"
-    ],
-    "antonyms": [
-      "无怨无悔"
-    ]
-  },
-  {
     "id": "zi-zuo-duo-qing",
     "text": "自作多情",
     "pinyin": "zì zuò duō qíng",
@@ -594,8 +544,7 @@
       "zh": "口语，带嘲讽或自嘲意味，多指感情，也可指错误地以为被看重。"
     },
     "synonyms": [
-      "一厢情愿",
-      "单相思"
+      "一厢情愿"
     ],
     "antonyms": [
       "两情相悦"
@@ -682,8 +631,8 @@
       "zh": "常用于自谦，作谓语；与“笨嘴拙舌”意思相近。"
     },
     "synonyms": [
-      "笨嘴拙舌",
-      "口齿笨拙"
+      "口齿笨拙",
+      "笨嘴拙舌"
     ],
     "antonyms": [
       "能言善辩",
@@ -732,14 +681,14 @@
     ],
     "antonyms": [
       "不材之木",
-      "朽木难雕"
+      "朽木不可雕"
     ]
   },
   {
     "id": "si-shi-er-li",
     "text": "四十而立",
     "pinyin": "sì shí ér lì",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
@@ -772,12 +721,9 @@
       "zh": "此语由《论语》“三十而立，四十而不惑”演化而来，现代口语中多指四十岁应有所成就。"
     },
     "synonyms": [
-      "不惑之年",
-      "而立之年"
+      "不惑之年"
     ],
-    "antonyms": [
-      "一事无成"
-    ]
+    "antonyms": []
   },
   {
     "id": "meng-zhong-shuo-meng",
@@ -859,8 +805,7 @@
       "zh": "口语，作谓语或状语，可亲昵也可略带贬义，视语境而定。"
     },
     "synonyms": [
-      "称兄道弟",
-      "亲密无间"
+      "称兄道弟"
     ],
     "antonyms": [
       "形同陌路"

@@ -52,7 +52,6 @@
       "zh": "常用于称赞官员或自我修养；出自林则徐自勉联“海纳百川，有容乃大；壁立千仞，无欲则刚”。"
     },
     "synonyms": [
-      "少私寡欲",
       "清心寡欲"
     ],
     "antonyms": [
@@ -154,10 +153,7 @@
       "成王败寇",
       "赢家通吃"
     ],
-    "antonyms": [
-      "胜败乃兵家常事",
-      "愿赌服输"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-ren-zhi-xia-wan-ren-zhi-shang",
@@ -169,7 +165,8 @@
     "register": "neutral",
     "themes": [
       "leadership-and-authority",
-      "society"
+      "society",
+      "rare-idioms"
     ],
     "literal": "one · person · 's · below, ten thousand · people · 's · above",
     "natural": "below one man, above ten thousand",
@@ -204,9 +201,16 @@
       "权倾朝野"
     ],
     "antonyms": [
-      "人微言轻",
-      "平民百姓"
-    ]
+      "平民百姓",
+      "低人一等",
+      "人微言轻"
+    ],
+    "variants": [
+      "一人之下"
+    ],
+    "variant_kinds": {
+      "一人之下": "short"
+    }
   },
   {
     "id": "wei-ta-ren-zuo-jia-yi-shang",
@@ -259,12 +263,8 @@
       "en": "Usually said with resentment or self-pity; the original poem is about a poor girl who weaves for brides.",
       "zh": "多含怨叹或自嘲之意；原诗写贫家女子替别人织嫁衣的辛酸。"
     },
-    "synonyms": [
-      "楚材晋用",
-      "徒劳无功"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "自食其力",
       "劳有所获"
     ]
   },
@@ -327,8 +327,8 @@
       "zh": "多作表态之语，强调尊严；今天也常半开玩笑地用于小事。"
     },
     "synonyms": [
-      "宁死不屈",
-      "宁为玉碎"
+      "宁为玉碎",
+      "宁死不屈"
     ],
     "antonyms": [
       "忍辱偷生",
@@ -392,7 +392,6 @@
       "花言巧语"
     ],
     "antonyms": [
-      "言行一致",
       "直言不讳"
     ]
   },
@@ -453,8 +452,7 @@
       "靡靡之音"
     ],
     "antonyms": [
-      "黄钟大吕",
-      "高山流水"
+      "黄钟大吕"
     ]
   },
   {
@@ -502,21 +500,21 @@
       "贪多嚼不烂"
     ],
     "antonyms": [
-      "小而精",
       "脚踏实地"
     ]
   },
   {
     "id": "ji-kui-bu-yi-zhi-qian-li",
-    "text": "积跬步以至千里",
-    "pinyin": "jī kuǐ bù yǐ zhì qiān lǐ",
+    "text": "不积跬步，无以至千里",
+    "pinyin": "bù jī kuǐ bù, wú yǐ zhì qiān lǐ",
     "kind": "mingju",
-    "frequency": 3,
+    "frequency": 2,
     "variants": [
-      "不积跬步，无以至千里"
+      "积跬步以至千里",
+      "不积跬步，无以至千里；不积小流，无以成江海"
     ],
     "variant_kinds": {
-      "不积跬步，无以至千里": "old"
+      "不积跬步，无以至千里；不积小流，无以成江海": "full"
     },
     "sentiment": "positive",
     "register": "literary",
@@ -524,9 +522,13 @@
       "effort",
       "reading-and-study",
       "essay-favourites",
-      "confucian-classics"
+      "confucian-classics",
+      "apprenticeship-and-learning",
+      "efficiency",
+      "thinkers",
+      "famous-quotes"
     ],
-    "literal": "accumulate · half-steps · to · reach · thousand · li",
+    "literal": "not · accumulate · half-steps, no · means · reach · thousand · li",
     "natural": "pile up small steps to reach a thousand li",
     "meaning": {
       "en": "Great distances are covered by accumulating small steps; big achievements come from steady daily effort.",
@@ -615,61 +617,12 @@
       "zh": "多作谓语、补语，原为粤语俗语，后传入普通话。强调沟通不了，而非态度恶劣。"
     },
     "synonyms": [
-      "对牛弹琴——白费劲",
-      "各说各话"
+      "各说各话",
+      "对牛弹琴——白费劲"
     ],
     "antonyms": [
       "心有灵犀",
       "一拍即合"
-    ]
-  },
-  {
-    "id": "shi-zi-zhuan-jian-ruan-de-nie",
-    "text": "柿子专拣软的捏",
-    "pinyin": "shì zi zhuān jiǎn ruǎn de niē",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "corruption-and-injustice"
-    ],
-    "literal": "persimmon · only · pick · soft · ones · squeeze",
-    "natural": "only squeeze the soft persimmons",
-    "meaning": {
-      "en": "To pick on the weakest or those easiest to bully.",
-      "zh": "专门挑软弱好欺负的人下手。"
-    },
-    "equivalents": [
-      "pick on the weak",
-      "bully the softest target"
-    ],
-    "examples": [
-      {
-        "zh": "有些人柿子专拣软的捏，对上级点头哈腰，对下属却很凶。",
-        "en": "Some people only pick on the soft ones, toadying to bosses and bullying juniors."
-      },
-      {
-        "zh": "别柿子专拣软的捏，有本事去找厉害的人。",
-        "en": "Don't just bully the easy targets; try someone tough."
-      },
-      {
-        "zh": "小摊贩总被罚款，网友说这是柿子专拣软的捏。",
-        "en": "Small vendors are always fined, and netizens say the authorities only pick on the weak."
-      }
-    ],
-    "usage": {
-      "en": "Usually used to criticise bullying; often rendered 专挑软柿子捏. Related to the 歇后语 老太太吃柿子——专挑软的捏.",
-      "zh": "多用来批评欺软怕硬，也说“专挑软柿子捏”。与歇后语“老太太吃柿子——专挑软的捏”相关。"
-    },
-    "synonyms": [
-      "欺软怕硬",
-      "老太太吃柿子——专挑软的捏"
-    ],
-    "antonyms": [
-      "打抱不平",
-      "除暴安良"
     ]
   },
   {
@@ -730,7 +683,8 @@
     ],
     "antonyms": [
       "卓尔不群",
-      "出类拔萃"
+      "出类拔萃",
+      "鹤立鸡群"
     ]
   },
   {
@@ -742,7 +696,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "festivals-and-celebrations",
       "positive-character-qualities"
     ],
     "literal": "heart · sincere · then · effective",
@@ -778,7 +731,6 @@
       "精诚所至，金石为开"
     ],
     "antonyms": [
-      "心不在焉",
       "虚情假意"
     ]
   }

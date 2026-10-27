@@ -222,7 +222,6 @@
       "poems-prose",
       "seasonal-changes",
       "plant-and-natural-world",
-      "unintended-results",
       "landscapes",
       "poets"
     ],
@@ -241,8 +240,8 @@
         "en": "New technology: '{}'; even traditional industries cannot hold it back."
       },
       {
-        "zh": "诗人在叶家园外，吟出了“春色满园关不住，一枝红杏出墙来”。",
-        "en": "Outside the Ye family garden, the poet chanted '{}'."
+        "zh": "叶绍翁游园不遇，在园外吟出了“春色满园关不住，一枝红杏出墙来”。",
+        "en": "Ye Shaoweng, finding the garden closed to him, recited from outside the wall: \"Spring cannot be held in the garden; a branch of red apricot reaches out over the wall.\""
       }
     ],
     "origin": {
@@ -260,7 +259,9 @@
       "en": "Take care: 红杏出墙 alone is often used of infidelity, so context matters.",
       "zh": "注意：单说“红杏出墙”常指婚外情，须视语境。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "红杏出墙"
+    ],
     "antonyms": []
   },
   {
@@ -681,7 +682,9 @@
       "en": "Often quoted of older people who keep working with enthusiasm.",
       "zh": "常用于称赞老年人仍然奋斗不止。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "老当益壮"
+    ],
     "antonyms": []
   },
   {
@@ -839,7 +842,11 @@
       "en": "Quotation; usually cited whole or in its first half, in speeches, essays and captions.",
       "zh": "引语，多整句或引上半句，用于演讲、作文和配文。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "煮豆燃萁",
+      "同室操戈",
+      "骨肉相残"
+    ],
     "antonyms": []
   },
   {
@@ -950,7 +957,7 @@
     "id": "xian-di-chuang-ye-wei-ban",
     "text": "先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也",
     "pinyin": "xiān dì chuàng yè wèi bàn ér zhōng dào bēng cú, jīn tiān xià sān fēn, yì zhōu pí bì, cǐ chéng wēi jí cún wáng zhī qiū yě",
-    "kind": "mingju",
+    "kind": "phrase",
     "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
@@ -1101,7 +1108,10 @@
       "en": "Quotation; usually cited whole or in its first half, in speeches, essays and captions.",
       "zh": "引语，多整句或引上半句，用于演讲、作文和配文。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "淡泊明志",
+      "宁静致远"
+    ],
     "antonyms": []
   },
   {
@@ -1207,7 +1217,9 @@
       "en": "Often broken up; 出淤泥而不染 and 香远益清 are widely quoted.",
       "zh": "常拆开引用，“出淤泥而不染”“香远益清”最广为人知。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "出淤泥而不染"
+    ],
     "antonyms": []
   },
   {

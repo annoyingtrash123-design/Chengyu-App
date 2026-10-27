@@ -103,12 +103,15 @@
       "zh": "用来劝人谦虚。出自小诗集《繁星》，化用成语“孤芳自赏”。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "墙角的花！你孤芳自赏时，天地便小了"
+    ]
   },
   {
     "id": "mu-qin-a-tian-shang-de",
     "text": "母亲啊！天上的风雨来了，鸟儿躲到它的巢里；心中的风雨来了，我只躲到你的怀里",
-    "pinyin": "mǔ qīn a, tiān shàng de fēng yǔ lái le, niǎo ér duǒ dào tā de cháo lǐ, xīn zhōng de fēng yǔ lái le, wǒ zhǐ duǒ dào nǐ de huái lǐ",
+    "pinyin": "mǔ qīn na, tiān shàng de fēng yǔ lái le, niǎo ér duǒ dào tā de cháo lǐ, xīn zhōng de fēng yǔ lái le, wǒ zhǐ duǒ dào nǐ de huái lǐ",
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -160,12 +163,12 @@
   },
   {
     "id": "wei-zai-cheng-li-de-ren",
-    "text": "围在城里的人想逃出来，城外的人想冲进去",
-    "pinyin": "wéi zài chéng lǐ de rén xiǎng táo chū lái, chéng wài de rén xiǎng chōng jìn qù",
+    "text": "城外的人想冲进去，城里的人想逃出来",
+    "pinyin": "chéng wài de rén xiǎng chōng jìn qù, chéng lǐ de rén xiǎng táo chū lái",
     "kind": "mingju",
     "frequency": 2,
     "variants": [
-      "城外的人想冲进去，城里的人想逃出来"
+      "围在城里的人想逃出来，城外的人想冲进去"
     ],
     "sentiment": "neutral",
     "register": "formal",
@@ -176,7 +179,7 @@
       "love-and-marriage",
       "complex-emotional-states"
     ],
-    "literal": "surrounded · in · city · inside · 's · people · want · escape · out, city · outside · 's · people · want · rush · in",
+    "literal": "city · outside · 's · people · want · rush · in, city · inside · 's · people · want · escape · out",
     "natural": "those besieged inside the city want to get out; those outside want to get in",
     "meaning": {
       "en": "Qian Zhongshu's image, from the novel Fortress Besieged, of people who always want what lies on the other side, as with marriage or a career.",
@@ -188,11 +191,11 @@
     ],
     "examples": [
       {
-        "zh": "围在城里的人想逃出来，城外的人想冲进去，对婚姻、对职业都是如此。",
+        "zh": "城外的人想冲进去，城里的人想逃出来，对婚姻、对职业都是如此。",
         "en": "Those inside the fortress want out and those outside want in, whether it is marriage or a career."
       },
       {
-        "zh": "读完《围城》，她常想起“围在城里的人想逃出来，城外的人想冲进去”这句话。",
+        "zh": "读完《围城》，她常想起“城外的人想冲进去，城里的人想逃出来”这句话。",
         "en": "Since finishing Fortress Besieged she often recalls the line 'those inside the fortress want out, those outside want in'."
       }
     ],
@@ -208,7 +211,7 @@
       }
     },
     "usage": {
-      "en": "Usually quoted in the shortened, reordered form 城外的人想冲进去，城里的人想逃出来, which is how most people remember it; the original wording is given here as the headword. Used about marriage, jobs, and wanting what one lacks.",
+      "en": "Usually quoted in this reordered form (the headword), which is how most people remember it; the original wording is 围在城里的人想逃出来，城外的人想冲进去. Used about marriage, jobs, and wanting what one lacks.",
       "zh": "今天更常见的是调换语序的说法“城外的人想冲进去，城里的人想逃出来”，本条以原文为主形。多用于谈婚姻、职业，以及人总想要自己没有的东西。"
     },
     "synonyms": [],
@@ -377,8 +380,8 @@
   },
   {
     "id": "liang-jiao-ta-zhong-xi-wen",
-    "text": "两脚踏中西文化，一心评宇宙文章",
-    "pinyin": "liǎng jiǎo tà zhōng xī wén huà, yī xīn píng yǔ zhòu wén zhāng",
+    "text": "两脚踏东西文化，一心评宇宙文章",
+    "pinyin": "liǎng jiǎo tà dōng xī wén huà, yī xīn píng yǔ zhòu wén zhāng",
     "kind": "mingju",
     "frequency": 2,
     "sentiment": "positive",
@@ -391,7 +394,7 @@
       "modern-applications-of-classical-ideas",
       "high-aspirations"
     ],
-    "literal": "two · feet · tread · China · West · culture, one · heart · appraise · universe · writings",
+    "literal": "two · feet · tread · East · West · culture, one · heart · appraise · universe · writings",
     "natural": "with one foot in Chinese and one in Western culture, my heart appraises the writings of the universe",
     "meaning": {
       "en": "Lin Yutang's self-composed couplet describing his life as a bridge between Chinese and Western culture.",
@@ -403,11 +406,11 @@
     ],
     "examples": [
       {
-        "zh": "林语堂的自题联“两脚踏中西文化，一心评宇宙文章”，常被用来概括他的一生。",
+        "zh": "林语堂的自题联“两脚踏东西文化，一心评宇宙文章”，常被用来概括他的一生。",
         "en": "Lin Yutang's own couplet, 'one foot in each culture, my heart appraising the writings of the universe', is often used to sum up his life."
       },
       {
-        "zh": "展览入口处写着“两脚踏中西文化，一心评宇宙文章”，介绍这位作家的志向。",
+        "zh": "展览入口处写着“两脚踏东西文化，一心评宇宙文章”，介绍这位作家的志向。",
         "en": "At the entrance to the exhibition hung the couplet 'two feet tread Chinese and Western culture, one heart appraises the writings of the universe', introducing the writer's ambition."
       }
     ],
@@ -427,7 +430,10 @@
       "zh": "介绍林语堂，或形容精通中西文化的人时引用。一般认为是他自撰的对联，具体年代不详。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "两脚踏中西文化，一心评宇宙文章"
+    ]
   },
   {
     "id": "jia-ru-wo-shi-yi-zhi",
@@ -744,9 +750,7 @@
       "en": "Quoted about Genghis Khan and the Mongol steppe, and sometimes playfully of someone talented in one area only. 天骄 means 'Heaven's favoured son' and was once a title for steppe rulers.",
       "zh": "谈及成吉思汗和蒙古草原时引用，有时也戏指某人只擅长一方面。“天骄”意为“天之骄子”，古时曾用来称草原上的君主。"
     },
-    "synonyms": [
-      "一世之雄"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -874,7 +878,7 @@
     "natural": "today the long rope is in our hands; when shall we bind the azure dragon?",
     "meaning": {
       "en": "The closing lines of Mao Zedong's 'Mount Liupan': now that the means are in hand, when will the great foe be bound?",
-      "zh": "毛泽东《清平乐·六盘山》的结句：如今大权在握、力量在手，何时能缚住强敌。"
+      "zh": "毛泽东《清平乐·六盘山》的结句：如今长缨在手（有了制敌的手段），何时才能缚住苍龙？"
     },
     "equivalents": [
       "the means are in hand, when will we succeed?",

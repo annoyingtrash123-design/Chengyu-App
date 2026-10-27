@@ -134,15 +134,14 @@
       "世态人情"
     ],
     "antonyms": [
-      "不谙世事",
-      "少不更事"
+      "不谙世事"
     ]
   },
   {
     "id": "ban-shen-bu-sui",
     "text": "半身不遂",
     "pinyin": "bàn shēn bù suí",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
@@ -219,7 +218,6 @@
       "zh": "多作谓语，多含贬义。"
     },
     "synonyms": [
-      "小题大做",
       "指桑骂槐",
       "指着秃子骂和尚——借题发挥",
       "大做文章"
@@ -283,15 +281,14 @@
     },
     "synonyms": [
       "朝三暮四",
-      "反复无常",
       "出尔反尔",
-      "收回成命"
+      "反复无常"
     ],
     "antonyms": [
       "一成不变",
       "始终如一",
-      "一张蓝图绘到底",
-      "一以贯之"
+      "一以贯之",
+      "一张蓝图绘到底"
     ]
   },
   {
@@ -349,8 +346,7 @@
     },
     "synonyms": [
       "改弦易辙",
-      "弃旧图新",
-      "收回成命"
+      "弃旧图新"
     ],
     "antonyms": [
       "墨守成规",
@@ -413,15 +409,14 @@
       "反躬自省",
       "自强不息",
       "君子求诸己，小人求诸人",
-      "任劳任怨",
       "安之若素",
       "不改其乐",
-      "死而无怨",
-      "既来之则安之",
       "乐天知命",
       "反求诸己",
       "随遇而安",
-      "牢骚太盛防肠断，风物长宜放眼量"
+      "既来之则安之",
+      "任劳任怨",
+      "死而无怨"
     ]
   },
   {
@@ -546,8 +541,7 @@
       "zh": "多作谓语，常说“引得……哄堂大笑”。"
     },
     "synonyms": [
-      "捧腹大笑",
-      "笑逐颜开"
+      "捧腹大笑"
     ],
     "antonyms": [
       "鸦雀无声"
@@ -639,29 +633,26 @@
       "十全十美",
       "尽善尽美",
       "无懈可击",
-      "完好无损",
       "天衣无缝",
-      "金声玉振",
       "至善至美",
-      "白璧无瑕"
+      "白璧无瑕",
+      "完好无损"
     ],
     "antonyms": [
       "美中不足",
       "漏洞百出",
       "残缺不全",
-      "尺短寸长",
-      "西施掉了门牙——美中不足",
       "瑕瑜互见",
-      "一无是处",
-      "大成若缺",
       "人非圣贤，孰能无过",
       "金无足赤",
       "谁家锅底不黑",
       "瓜无滚圆，人无十全",
       "千疮百孔",
-      "人无完人，金无足赤",
       "人无完人",
-      "白璧微瑕"
+      "白璧微瑕",
+      "一无是处",
+      "西施掉了门牙——美中不足",
+      "人无完人，金无足赤"
     ]
   },
   {
@@ -713,16 +704,16 @@
       "鲜艳夺目",
       "光辉灿烂",
       "艳压群芳",
-      "五光十色",
-      "五彩缤纷",
       "灿烂辉煌",
-      "分外妖娆",
       "光芒万丈",
-      "活色生香",
-      "色彩斑斓",
       "熠熠生辉",
       "艳惊四座",
-      "光彩照人"
+      "光彩照人",
+      "五光十色",
+      "五彩缤纷",
+      "分外妖娆",
+      "活色生香",
+      "色彩斑斓"
     ]
   },
   {
@@ -806,21 +797,18 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "装腔作势",
-      "外强中干",
       "空城计",
-      "树上开花",
       "诸葛亮焚香操琴——故弄玄虚",
-      "孔明弹琴退敌——故弄玄虚",
       "虚晃一枪",
-      "吹口哨过坟场——自己给自己壮胆",
-      "故弄玄虚",
       "盘马弯弓",
       "悬羊击鼓",
-      "唱筹量沙"
+      "唱筹量沙",
+      "装腔作势",
+      "外强中干",
+      "树上开花",
+      "吹口哨过坟场——自己给自己壮胆"
     ],
     "antonyms": [
-      "不动声色",
       "添兵减灶",
       "动真格的"
     ]
@@ -885,7 +873,7 @@
     "literal": "big · and · transform · it",
     "natural": "easy-going and careless",
     "meaning": {
-      "en": "Casual and careless about details.",
+      "en": "Careless and slapdash about details (originally from Mencius, where 大而化之 was high praise: great and thus transformative).",
       "zh": "形容做事马虎，不细心。"
     },
     "equivalents": [
@@ -914,53 +902,6 @@
     "antonyms": [
       "一丝不苟",
       "细致入微"
-    ]
-  },
-  {
-    "id": "bu-ke-shou-shi",
-    "text": "不可收拾",
-    "pinyin": "bù kě shōu shí",
-    "kind": "chengyu",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "chaos",
-      "dead-ends-and-desperation"
-    ],
-    "literal": "not · can · tidy · up",
-    "natural": "get out of hand",
-    "meaning": {
-      "en": "Beyond repair or control; hopelessly bad.",
-      "zh": "形容事情败坏到无法挽救的地步。"
-    },
-    "equivalents": [
-      "get out of hand",
-      "beyond repair",
-      "spiral out of control"
-    ],
-    "examples": [
-      {
-        "zh": "问题拖得太久，局面已经不可收拾。",
-        "en": "The problem dragged on so long that things got out of hand."
-      },
-      {
-        "zh": "他一开口就一发不可收拾，讲了两个小时。",
-        "en": "Once he started he couldn't stop and talked for two hours."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or complement; also 一发不可收拾 'unstoppable once started'.",
-      "zh": "多作谓语、补语；也说“一发不可收拾”。"
-    },
-    "synonyms": [
-      "无可救药",
-      "无法挽回",
-      "不堪设想",
-      "一发不可收拾"
-    ],
-    "antonyms": [
-      "井井有条"
     ]
   },
   {
@@ -1003,10 +944,9 @@
     "synonyms": [
       "孤苦伶仃",
       "举目无亲",
-      "孤儿寡妇",
+      "老无所依",
       "孤魂野鬼",
-      "鳏寡孤独",
-      "老无所依"
+      "鳏寡孤独"
     ],
     "antonyms": []
   },
@@ -1090,9 +1030,7 @@
     "synonyms": [
       "差之毫厘，谬以千里"
     ],
-    "antonyms": [
-      "滔天罪行"
-    ]
+    "antonyms": []
   },
   {
     "id": "pao-tou-lu-mian",
@@ -1182,9 +1120,8 @@
     },
     "synonyms": [
       "知难而退",
-      "半途而废",
-      "马首欲东",
-      "临阵退缩"
+      "临阵退缩",
+      "半途而废"
     ],
     "antonyms": [
       "勇往直前",

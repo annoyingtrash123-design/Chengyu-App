@@ -7,13 +7,15 @@
       "威武不能屈",
       "贫贱不能移",
       "富贵不能淫",
-      "威武不屈"
+      "威武不屈",
+      "贫贱不移"
     ],
     "variant_kinds": {
       "威武不能屈": "short",
       "贫贱不能移": "short",
       "富贵不能淫": "short",
-      "威武不屈": "short"
+      "威武不屈": "short",
+      "贫贱不移": "short"
     },
     "kind": "mingju",
     "frequency": 3,
@@ -23,7 +25,9 @@
       "confucian-classics",
       "outstanding-character",
       "thinkers",
-      "famous-quotes"
+      "famous-quotes",
+      "positive-character-qualities",
+      "rare-idioms"
     ],
     "literal": "wealth · rank · cannot · corrupt, poverty · lowliness · cannot · shift, power · force · cannot · bend",
     "natural": "unmoved by wealth, poverty or force",
@@ -65,15 +69,19 @@
       "zh": "称赞高尚气节，书面语，可全引也可只引一部分。"
     },
     "synonyms": [
-      "坚贞不屈",
       "志坚如钢",
+      "安贫乐道",
+      "志坚不移",
+      "君子固穷",
+      "人穷志不短",
+      "坚贞不屈",
       "宁死不屈"
     ],
     "antonyms": [
-      "见利忘义",
-      "贪生怕死",
       "卑躬屈膝",
-      "奴颜婢膝"
+      "奴颜婢膝",
+      "见利忘义",
+      "趋炎附势"
     ]
   },
   {
@@ -126,7 +134,6 @@
     },
     "synonyms": [
       "未雨绸缪",
-      "有备无患",
       "防患于未然"
     ],
     "antonyms": [
@@ -174,14 +181,9 @@
       "en": "Often a pep-talk before contests.",
       "zh": "常用于比赛前鼓劲。"
     },
-    "synonyms": [
-      "勇往直前",
-      "一往无前",
-      "棋逢对手"
-    ],
+    "synonyms": [],
     "antonyms": [
       "畏缩不前",
-      "临阵退缩",
       "胆小如鼠"
     ]
   },
@@ -190,7 +192,8 @@
     "text": "身正不怕影子斜",
     "pinyin": "shēn zhèng bù pà yǐng zi xié",
     "variants": [
-      "身正不怕影斜"
+      "身正不怕影斜",
+      "站着身子正——不怕影儿斜"
     ],
     "kind": "suyu",
     "frequency": 3,
@@ -198,7 +201,8 @@
     "register": "casual",
     "themes": [
       "frankness-and-candour",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "fairness-and-impartiality"
     ],
     "literal": "body · upright · not · fear · shadow · slanted",
     "natural": "an upright person has nothing to fear from gossip",
@@ -230,9 +234,7 @@
     },
     "synonyms": [
       "问心无愧",
-      "光明磊落",
-      "清者自清，浊者自浊",
-      "站着身子正——不怕影儿斜"
+      "清者自清，浊者自浊"
     ],
     "antonyms": [
       "做贼心虚",
@@ -289,7 +291,6 @@
     },
     "synonyms": [
       "金无足赤",
-      "瑕不掩瑜",
       "智者千虑，必有一失",
       "人无完人",
       "智者千虑"
@@ -304,10 +305,12 @@
     "text": "一人得道，鸡犬升天",
     "pinyin": "yī rén dé dào, jī quǎn shēng tiān",
     "variants": [
-      "一人得道"
+      "一人得道",
+      "鸡犬升天"
     ],
     "variant_kinds": {
-      "一人得道": "short"
+      "一人得道": "short",
+      "鸡犬升天": "short"
     },
     "kind": "suyu",
     "frequency": 3,
@@ -316,7 +319,8 @@
     "themes": [
       "myths-legends",
       "political-corruption",
-      "daoist-classics"
+      "daoist-classics",
+      "animals"
     ],
     "literal": "one · person · attain · Dao, chickens · dogs · ascend · heaven",
     "natural": "when one rises, all his hangers-on rise too",
@@ -358,14 +362,13 @@
       "zh": "贬义，讽刺裙带关系。"
     },
     "synonyms": [
-      "鸡犬升天",
-      "沾亲带故",
       "任人唯亲"
     ],
     "antonyms": [
       "任人唯贤",
-      "大公无私",
-      "秉公办事"
+      "秉公办事",
+      "公正无私",
+      "大公无私"
     ]
   },
   {
@@ -373,10 +376,12 @@
     "text": "欲加之罪，何患无辞",
     "pinyin": "yù jiā zhī zuì, hé huàn wú cí",
     "variants": [
-      "欲加之罪"
+      "欲加之罪",
+      "何患无辞"
     ],
     "variant_kinds": {
-      "欲加之罪": "short"
+      "欲加之罪": "short",
+      "何患无辞": "short"
     },
     "kind": "mingju",
     "frequency": 3,
@@ -428,13 +433,12 @@
     },
     "synonyms": [
       "罗织罪名",
-      "无中生有",
-      "何患无辞"
+      "无中生有"
     ],
     "antonyms": [
-      "证据确凿",
       "秉公执法",
-      "沉冤昭雪"
+      "证据确凿",
+      "师出有名"
     ]
   },
   {
@@ -442,10 +446,12 @@
     "text": "水能载舟，亦能覆舟",
     "pinyin": "shuǐ néng zài zhōu, yì néng fù zhōu",
     "variants": [
-      "水能载舟"
+      "水能载舟",
+      "载舟覆舟"
     ],
     "variant_kinds": {
-      "水能载舟": "short"
+      "水能载舟": "short",
+      "载舟覆舟": "short"
     },
     "kind": "mingju",
     "frequency": 3,
@@ -455,7 +461,8 @@
       "confucian-classics",
       "public-opinion",
       "thinkers",
-      "famous-quotes"
+      "famous-quotes",
+      "society"
     ],
     "literal": "water · can · carry · boat, also · can · capsize · boat",
     "natural": "the people can support or topple a ruler",
@@ -497,14 +504,9 @@
       "zh": "常用于政治评论和谈论民意。"
     },
     "synonyms": [
-      "民为邦本",
-      "得道多助",
-      "载舟覆舟"
+      "人心向背"
     ],
-    "antonyms": [
-      "众叛亲离",
-      "失道寡助"
-    ]
+    "antonyms": []
   },
   {
     "id": "qiong-ze-du-shan-qi-shen",
@@ -570,16 +572,9 @@
     },
     "synonyms": [
       "独善其身",
-      "进退有据",
-      "洁身自好",
-      "修身齐家治国平天下",
-      "经世济民",
-      "修齐治平"
+      "进退有据"
     ],
-    "antonyms": [
-      "为所欲为",
-      "见利忘义"
-    ]
+    "antonyms": []
   },
   {
     "id": "qian-bu-zhao-cun-hou-bu-zhao-dian",
@@ -626,8 +621,7 @@
     },
     "synonyms": [
       "荒无人烟",
-      "穷乡僻壤",
-      "进退两难"
+      "穷乡僻壤"
     ],
     "antonyms": [
       "人烟稠密",
@@ -737,14 +731,9 @@
       "en": "Often said when asking a trained person to deliver.",
       "zh": "常用来要求平时受培养的人在关键时刻出力。"
     },
-    "synonyms": [
-      "未雨绸缪",
-      "厚积薄发",
-      "兵不厌诈"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "临阵磨枪",
-      "平时不烧香，临时抱佛脚"
+      "临阵磨枪"
     ]
   },
   {
@@ -752,10 +741,12 @@
     "text": "路遥知马力，日久见人心",
     "pinyin": "lù yáo zhī mǎ lì, rì jiǔ jiàn rén xīn",
     "variants": [
-      "路遥知马力"
+      "路遥知马力",
+      "日久见人心"
     ],
     "variant_kinds": {
-      "路遥知马力": "short"
+      "路遥知马力": "short",
+      "日久见人心": "short"
     },
     "kind": "suyu",
     "frequency": 3,
@@ -794,14 +785,13 @@
       "zh": "谈论要长期考察人的品质。"
     },
     "synonyms": [
-      "日久见人心",
       "患难见真情",
       "疾风知劲草，烈火见真金",
       "烈火见真金"
     ],
     "antonyms": [
-      "一见如故",
-      "以貌取人"
+      "以貌取人",
+      "人心难测"
     ]
   },
   {
@@ -809,10 +799,12 @@
     "text": "兵来将挡，水来土掩",
     "pinyin": "bīng lái jiàng dǎng, shuǐ lái tǔ yǎn",
     "variants": [
-      "兵来将挡"
+      "兵来将挡",
+      "水来土掩"
     ],
     "variant_kinds": {
-      "兵来将挡": "short"
+      "兵来将挡": "short",
+      "水来土掩": "short"
     },
     "kind": "suyu",
     "frequency": 3,
@@ -821,7 +813,8 @@
     "themes": [
       "adaptability",
       "military-strategy-and-victory",
-      "ming-dynasty"
+      "ming-dynasty",
+      "wisdom"
     ],
     "literal": "troops · come · general · block, water · come · earth · dam",
     "natural": "deal with each problem as it comes",
@@ -854,12 +847,13 @@
     "synonyms": [
       "随机应变",
       "见招拆招",
-      "随遇而安",
-      "水来土掩"
+      "随遇而安"
     ],
     "antonyms": [
+      "束手无策",
+      "未雨绸缪",
       "手足无措",
-      "束手无策"
+      "坐以待毙"
     ]
   },
   {
@@ -922,13 +916,12 @@
     },
     "synonyms": [
       "学以致用",
-      "知行合一",
-      "亲力亲为"
+      "亲力亲为",
+      "纸上谈兵",
+      "知行合一"
     ],
     "antonyms": [
-      "纸上谈兵",
-      "闭门造车",
-      "清谈误国"
+      "躬行实践"
     ]
   },
   {
@@ -977,13 +970,12 @@
     },
     "synonyms": [
       "上不了台面",
-      "粗制滥造",
       "有伤大雅"
     ],
     "antonyms": [
       "登大雅之堂",
-      "阳春白雪",
-      "雅俗共赏"
+      "雅俗共赏",
+      "阳春白雪"
     ]
   },
   {
@@ -1128,10 +1120,12 @@
     "text": "流水不腐，户枢不蠹",
     "pinyin": "liú shuǐ bù fǔ, hù shū bù dù",
     "variants": [
-      "流水不腐"
+      "流水不腐",
+      "户枢不蠹"
     ],
     "variant_kinds": {
-      "流水不腐": "short"
+      "流水不腐": "short",
+      "户枢不蠹": "short"
     },
     "kind": "mingju",
     "frequency": 3,
@@ -1139,7 +1133,9 @@
     "register": "literary",
     "themes": [
       "historical-records",
-      "innovation-and-progress"
+      "innovation-and-progress",
+      "health",
+      "wisdom"
     ],
     "literal": "flowing · water · not · rot, door · pivot · not · worm-eaten",
     "natural": "what moves does not decay",
@@ -1182,14 +1178,12 @@
     },
     "synonyms": [
       "生生不息",
-      "生命在于运动",
-      "推陈出新",
-      "户枢不蠹"
+      "生命在于运动"
     ],
     "antonyms": [
       "死水一潭",
-      "故步自封",
-      "因循守旧"
+      "因循守旧",
+      "坐吃山空"
     ]
   },
   {
@@ -1205,7 +1199,7 @@
       "取之不尽": "short",
       "取之不竭": "short"
     },
-    "kind": "suyu",
+    "kind": "chengyu",
     "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
@@ -1255,14 +1249,12 @@
       "zh": "作定语或谓语，常形容资源、灵感等。"
     },
     "synonyms": [
-      "用之不竭",
-      "源源不断",
-      "无穷无尽"
+      "无穷无尽",
+      "源源不断"
     ],
     "antonyms": [
-      "寥寥无几",
-      "山穷水尽",
-      "捉襟见肘"
+      "捉襟见肘",
+      "寥寥无几"
     ]
   },
   {
@@ -1314,8 +1306,7 @@
       "传遍四方"
     ],
     "antonyms": [
-      "秘而不宣",
-      "石沉大海"
+      "秘而不宣"
     ]
   },
   {
@@ -1325,7 +1316,8 @@
     "variants": [
       "不成方圆",
       "不以规矩，不能成方圆",
-      "不以规矩"
+      "不以规矩",
+      "无规矩不成方圆"
     ],
     "variant_kinds": {
       "不成方圆": "short",
@@ -1338,7 +1330,8 @@
     "register": "neutral",
     "themes": [
       "standards-and-benchmarks",
-      "confucian-classics"
+      "confucian-classics",
+      "fairness-and-impartiality"
     ],
     "literal": "without · compass · square, not · form · square · round",
     "natural": "no rules, no order",
@@ -1380,15 +1373,13 @@
       "zh": "强调规则和纪律。"
     },
     "synonyms": [
-      "循规蹈矩",
-      "秩序井然",
       "有章可循",
-      "无规矩不成方圆"
+      "国有国法，家有家规"
     ],
     "antonyms": [
-      "无法无天",
+      "无章可循",
       "为所欲为",
-      "无章可循"
+      "无法无天"
     ]
   },
   {
@@ -1431,13 +1422,8 @@
       "en": "Often followed by 只是未到伤心处; some now see it as a stereotype.",
       "zh": "常接“只是未到伤心处”；现代人有时认为带有性别刻板印象。"
     },
-    "synonyms": [
-      "铮铮铁骨",
-      "坚强不屈"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "多愁善感",
-      "泪如雨下",
       "哭哭啼啼"
     ]
   },
@@ -1492,8 +1478,8 @@
       "追悔莫及"
     ],
     "antonyms": [
-      "问心无愧",
-      "无怨无悔"
+      "无怨无悔",
+      "问心无愧"
     ]
   },
   {
@@ -1560,8 +1546,7 @@
     },
     "synonyms": [
       "双重标准",
-      "严以待人宽以待己",
-      "官官相护"
+      "严以待人宽以待己"
     ],
     "antonyms": [
       "一视同仁",

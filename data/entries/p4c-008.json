@@ -26,26 +26,26 @@
     ],
     "examples": [
       {
-        "zh": "这篇作文写得很好，只是有个错别字，真是白玉微瑕。",
+        "zh": "这篇作文写得很好，只是有个错别字，真是白璧微瑕。",
         "en": "The essay is very good, with only one wrong character: a tiny flaw in white jade."
       },
       {
-        "zh": "这件作品堪称完美，唯一的白玉微瑕是包装。",
+        "zh": "这件作品堪称完美，唯一的白璧微瑕是包装。",
         "en": "The work is nearly perfect and the only blemish is the packaging."
       },
       {
-        "zh": "别为白玉微瑕就否定整件事。",
+        "zh": "别为白璧微瑕就否定整件事。",
         "en": "Don't dismiss the whole thing because of one small flaw."
       }
     ],
     "usage": {
-      "en": "Used to point out a minor fault while praising the whole. Similar to 美中不足 (which is the everyday phrase) but more literary. Also written 白璧微瑕.",
+      "en": "Used to point out a minor fault while praising the whole. Similar to 美中不足 (which is the everyday phrase) but more literary. Also written 白玉微瑕.",
       "zh": "指整体很好而略有小缺点，比“美中不足”更书面。也作“白璧微瑕”。"
     },
     "synonyms": [
       "美中不足",
-      "瑕不掩瑜",
-      "西施掉了门牙——美中不足"
+      "西施掉了门牙——美中不足",
+      "瑕不掩瑜"
     ],
     "antonyms": [
       "完美无缺",
@@ -104,12 +104,10 @@
       "zh": "“白衣”指没有官职的人所穿的衣服；书面语，赞扬有才的平民或读书人自重。"
     },
     "synonyms": [
-      "布衣之士",
-      "一介书生"
+      "布衣之士"
     ],
     "antonyms": [
-      "庸碌之辈",
-      "碌碌无为"
+      "庸碌之辈"
     ]
   },
   {
@@ -153,6 +151,7 @@
       "zh": "口语感叹，表示难以置信；与“活见鬼”相近。"
     },
     "synonyms": [
+      "天方夜谭",
       "荒诞不经"
     ],
     "antonyms": [
@@ -164,7 +163,7 @@
     "id": "qing-niao-yin-qin",
     "text": "青鸟殷勤",
     "pinyin": "qīng niǎo yīn qín",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
@@ -213,8 +212,7 @@
       "zh": "借用西王母信使青鸟的传说，书面语，多用于情书或说媒。"
     },
     "synonyms": [
-      "鸿雁传书",
-      "红叶题诗"
+      "鸿雁传书"
     ],
     "antonyms": [
       "音信全无",
@@ -279,10 +277,7 @@
       "天作之合",
       "佳偶天成"
     ],
-    "antonyms": [
-      "劳燕分飞",
-      "破镜难圆"
-    ]
+    "antonyms": []
   },
   {
     "id": "lan-tian-sheng-yu",
@@ -342,8 +337,9 @@
       "将门虎子"
     ],
     "antonyms": [
-      "龙生九子",
-      "子不如父"
+      "子不如父",
+      "虎父犬子",
+      "龙生九子"
     ]
   },
   {
@@ -383,15 +379,14 @@
       }
     ],
     "usage": {
-      "en": "The second 雨 is a verb read yǔ (to rain on, to water). Usually paired with 春风风人. Literary and formal; used in praise of kindness.",
+      "en": "The second 雨 is a verb read yù (to rain on, to water). Usually paired with 春风风人. Literary and formal; used in praise of kindness.",
       "zh": "第二个“雨”作动词，读 yù，意为“使……受到雨水滋润”。常与“春风风人”连用，书面语。"
     },
     "synonyms": [
-      "春风化雨",
-      "恩泽广被"
+      "恩泽广被",
+      "春风化雨"
     ],
     "antonyms": [
-      "恩将仇报",
       "冷酷无情"
     ]
   },
@@ -496,13 +491,9 @@
       "zh": "诗意的说法，源自《诗经·蒹葭》“所谓伊人，在水一方”；偏重意境，书面语。"
     },
     "synonyms": [
-      "在水一方",
-      "朝思暮想"
+      "在水一方"
     ],
-    "antonyms": [
-      "近在咫尺",
-      "相见恨晚"
-    ]
+    "antonyms": []
   },
   {
     "id": "qiu-shou-dong-cang",
@@ -549,8 +540,7 @@
       "颗粒归仓"
     ],
     "antonyms": [
-      "坐吃山空",
-      "好吃懒做"
+      "坐吃山空"
     ]
   },
   {
@@ -598,7 +588,6 @@
       "寒来暑往"
     ],
     "antonyms": [
-      "春回大地",
       "时光静止"
     ]
   },
@@ -646,10 +635,7 @@
       "春花秋月",
       "良辰美景"
     ],
-    "antonyms": [
-      "度日如年",
-      "风雨交加"
-    ]
+    "antonyms": []
   },
   {
     "id": "dong-wen-xia-qing",
@@ -756,8 +742,8 @@
       "zh": "对女子或梅花的诗意赞美，书面语，口语过于文雅。"
     },
     "synonyms": [
-      "冰清玉洁",
-      "肤如凝脂"
+      "肤如凝脂",
+      "冰清玉洁"
     ],
     "antonyms": [
       "粗眉大眼",
@@ -859,8 +845,8 @@
       "zh": "口语中批评说话写文章不清楚，也可字面描写山间云雾。"
     },
     "synonyms": [
-      "不着边际",
-      "不知所云"
+      "不知所云",
+      "不着边际"
     ],
     "antonyms": [
       "言简意赅",
@@ -1073,8 +1059,8 @@
       "zh": "第二个“风”作动词，读 fèng，意为吹拂、滋润。常与“夏雨雨人”连用，书面语。"
     },
     "synonyms": [
-      "春风化雨",
-      "如坐春风"
+      "如沐春风",
+      "春风化雨"
     ],
     "antonyms": [
       "疾言厉色",
@@ -1126,8 +1112,7 @@
       "各擅胜场"
     ],
     "antonyms": [
-      "高下立判",
-      "不分伯仲"
+      "高下立判"
     ]
   }
 ]

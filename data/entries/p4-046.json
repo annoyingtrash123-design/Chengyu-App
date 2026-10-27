@@ -36,8 +36,7 @@
       "zh": "褒义，多指风度，作名词性短语。常见“翩翩公子”。"
     },
     "synonyms": [
-      "翩翩公子",
-      "风度翩翩"
+      "翩翩公子"
     ],
     "antonyms": [
       "猥琐不堪"
@@ -215,8 +214,7 @@
       "zh": "注意“尴尬”读gān gà，不读jiān。口语化，作谓语、状语。"
     },
     "synonyms": [
-      "进退两难",
-      "左右为难"
+      "进退两难"
     ],
     "antonyms": [
       "从容自如",
@@ -259,68 +257,11 @@
       "zh": "作谓语、定语，多形容爱情、友情，常与“恩重如山”连用。"
     },
     "synonyms": [
-      "海枯石烂",
-      "情深义重",
-      "情同手足"
+      "情深义重"
     ],
     "antonyms": [
       "情薄如纸",
       "恩断义绝"
-    ]
-  },
-  {
-    "id": "yu-bu-jing-ren",
-    "text": "语不惊人",
-    "pinyin": "yǔ bù jīng rén",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "poems-prose",
-      "excellent-writing"
-    ],
-    "literal": "words · not · startle · people",
-    "natural": "words that do not startle",
-    "meaning": {
-      "en": "Language that does not seem remarkable; usually quoted as 语不惊人死不休, the poet's urge to write striking lines.",
-      "zh": "话语不能使人惊奇；多出自“语不惊人死不休”，形容作诗刻意追求惊人之语。"
-    },
-    "equivalents": [
-      "words that fail to astonish",
-      "not striking enough"
-    ],
-    "examples": [
-      {
-        "zh": "他写文章力求语不惊人死不休。",
-        "en": "He strives in his writing to astonish, whatever it takes."
-      },
-      {
-        "zh": "演讲语不惊人，却句句实在。",
-        "en": "The speech was not striking in its wording, but every line was solid."
-      }
-    ],
-    "origin": {
-      "source": "杜甫《江上值水如海势聊短述》",
-      "story": {
-        "en": "Du Fu says: 'I am by nature fond of fine lines; if my words do not startle others, I will not rest even in death' (为人性僻耽佳句，语不惊人死不休).",
-        "zh": "“为人性僻耽佳句，语不惊人死不休。”"
-      },
-      "date": {
-        "zh": "唐 · 约761年",
-        "en": "Tang dynasty, c. 761"
-      }
-    },
-    "usage": {
-      "en": "Most often seen in the line 语不惊人死不休 (poet Du Fu) about striving for brilliance; used alone it is a literary understatement.",
-      "zh": "常见于杜甫诗句“语不惊人死不休”，单用多为文学表达。"
-    },
-    "synonyms": [
-      "平淡无奇"
-    ],
-    "antonyms": [
-      "惊世骇俗",
-      "字字珠玑"
     ]
   },
   {
@@ -406,7 +347,6 @@
       "zh": "褒义，常用于口号、致辞，可实指亦可比喻。"
     },
     "synonyms": [
-      "一马当先",
       "快马加鞭"
     ],
     "antonyms": [
@@ -463,16 +403,8 @@
     "text": "静若处子，动若脱兔",
     "pinyin": "jìng ruò chǔ zǐ, dòng ruò tuō tù",
     "variants": [
-      "静若处子",
-      "动若脱兔",
-      "静如处子，动如脱兔",
-      "动如脱兔"
+      "静如处子，动如脱兔"
     ],
-    "variant_kinds": {
-      "静若处子": "short",
-      "动若脱兔": "short",
-      "动如脱兔": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -517,23 +449,13 @@
       "en": "Praise for composure and speed. Also written with 如; either half can be quoted alone (e.g. 静如处子 / 动如脱兔). Not a description of women: 处子 here means a maiden at home.",
       "zh": "褒义，也作“静如处子，动如脱兔”，可只引一半。"
     },
-    "synonyms": [
-      "以静制动"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
     "id": "bu-zhi-you-han-wu-lun-wei-jin",
     "text": "不知有汉，无论魏晋",
     "pinyin": "bù zhī yǒu hàn, wú lùn wèi jìn",
-    "variants": [
-      "不知有汉",
-      "无论魏晋"
-    ],
-    "variant_kinds": {
-      "不知有汉": "short",
-      "无论魏晋": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -583,8 +505,8 @@
       "不闻世事"
     ],
     "antonyms": [
-      "耳聪目明",
-      "洞悉世事"
+      "洞悉世事",
+      "耳聪目明"
     ]
   },
   {
@@ -624,11 +546,9 @@
       "zh": "褒义，多指决心和群体力量，由愚公移山、精卫填海二典故合成。"
     },
     "synonyms": [
-      "排山倒海",
       "愚公移山"
     ],
     "antonyms": [
-      "畏首畏尾",
       "知难而退"
     ]
   },
@@ -672,8 +592,7 @@
     },
     "synonyms": [
       "掉以轻心",
-      "等闲视之",
-      "视如草芥"
+      "等闲视之"
     ],
     "antonyms": [
       "郑重其事",
@@ -763,7 +682,9 @@
     "synonyms": [
       "对比衬托"
     ],
-    "antonyms": []
+    "antonyms": [
+      "欲抑先扬"
+    ]
   },
   {
     "id": "heng-shuo-fu-shi",
@@ -814,11 +735,9 @@
       "zh": "文学色彩浓，赞美文武兼备，常与曹操相关。"
     },
     "synonyms": [
-      "文武双全",
-      "投笔从戎"
+      "文武双全"
     ],
     "antonyms": [
-      "不学无术",
       "胸无点墨"
     ]
   },
@@ -933,8 +852,7 @@
       "zh": "多整句引用，指祸乱的根源，书面语。"
     },
     "synonyms": [
-      "擒贼擒王",
-      "斩草除根"
+      "擒贼擒王"
     ],
     "antonyms": [
       "天下太平"
@@ -981,7 +899,7 @@
       "东施效颦"
     ],
     "antonyms": [
-      "另辟蹊径",
+      "独辟蹊径",
       "别开生面",
       "首开先河",
       "开风气之先"
@@ -1041,8 +959,8 @@
       "搁置不议"
     ],
     "antonyms": [
-      "刨根问底",
-      "深入探讨"
+      "深入探讨",
+      "刨根问底"
     ]
   },
   {
@@ -1205,8 +1123,8 @@
       "五光十色"
     ],
     "antonyms": [
-      "一目了然",
-      "洞若观火"
+      "洞若观火",
+      "一目了然"
     ]
   },
   {
@@ -1250,7 +1168,6 @@
       "十年寒窗"
     ],
     "antonyms": [
-      "不学无术",
       "游手好闲"
     ]
   }

@@ -1,54 +1,5 @@
 [
   {
-    "id": "yue-man-ze-kui",
-    "text": "月满则亏",
-    "pinyin": "yuè mǎn zé kuī",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "natural-consequences"
-    ],
-    "literal": "moon · full · then · wane",
-    "natural": "when the moon is full it begins to wane",
-    "meaning": {
-      "en": "Once something reaches its peak it starts to decline; a reminder to stay modest and leave room.",
-      "zh": "事物发展到极点就会走向衰落，提醒人要谦虚、留有余地。"
-    },
-    "equivalents": [
-      "what goes up must come down",
-      "pride comes before a fall",
-      "every peak is followed by a decline"
-    ],
-    "examples": [
-      {
-        "zh": "月满则亏，水满则溢，做人不可太张扬。",
-        "en": "The full moon wanes and a full cup spills over; one should not be too showy."
-      },
-      {
-        "zh": "公司业绩已到顶峰，老板却说月满则亏，要未雨绸缪。",
-        "en": "The firm's results were at their peak, but the boss warned that what peaks must decline and told us to prepare."
-      },
-      {
-        "zh": "他深知月满则亏的道理，在事业最顺的时候选择了急流勇退。",
-        "en": "Knowing that every peak is followed by decline, he retired while his career was at its best."
-      }
-    ],
-    "usage": {
-      "en": "Usually quoted as a philosophical warning, often paired with 水满则溢. Predicate or standalone saying.",
-      "zh": "多作哲理性的劝诫，常与“水满则溢”连用，可作谓语或独立成句。"
-    },
-    "synonyms": [
-      "盛极而衰",
-      "物极必反"
-    ],
-    "antonyms": [
-      "蒸蒸日上",
-      "方兴未艾"
-    ]
-  },
-  {
     "id": "qiang-tou-ma-shang",
     "text": "墙头马上",
     "pinyin": "qiáng tóu mǎ shàng",
@@ -96,12 +47,10 @@
       "zh": "书面、文艺色彩，多用于戏曲小说中的爱情。"
     },
     "synonyms": [
-      "一见钟情",
-      "一见倾心"
+      "一见钟情"
     ],
     "antonyms": [
-      "日久生情",
-      "形同陌路"
+      "日久生情"
     ]
   },
   {
@@ -195,12 +144,10 @@
     "synonyms": [
       "全盘否定",
       "一概否定",
-      "一棍子打死",
-      "一笔勾销"
+      "一棍子打死"
     ],
     "antonyms": [
-      "一分为二",
-      "实事求是"
+      "一分为二"
     ]
   },
   {
@@ -251,12 +198,11 @@
       "zh": "褒义，指宽厚待人。不要误用为“掩盖罪行”。"
     },
     "synonyms": [
-      "成人之美",
       "与人为善"
     ],
     "antonyms": [
-      "吹毛求疵",
-      "落井下石"
+      "落井下石",
+      "吹毛求疵"
     ]
   },
   {
@@ -301,11 +247,9 @@
     },
     "synonyms": [
       "销魂荡魄",
-      "摄人心魄",
-      "引人入胜"
+      "摄人心魄"
     ],
     "antonyms": [
-      "平淡无奇",
       "索然无味"
     ]
   },
@@ -318,7 +262,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "successful-completion"
+      "successful-completion",
+      "apprenticeship-and-learning"
     ],
     "literal": "train · drill · have · long-standing",
     "natural": "well and long trained",
@@ -351,7 +296,6 @@
     },
     "synonyms": [
       "久经训练",
-      "身经百战",
       "科班出身"
     ],
     "antonyms": [
@@ -460,58 +404,11 @@
       "zh": "常用于文学评论，也可泛指字迹或作品风格，与“风格即人”相近。"
     },
     "synonyms": [
-      "言为心声",
-      "文以载道"
+      "言为心声"
     ],
     "antonyms": [
       "言行不一",
       "表里不一"
-    ]
-  },
-  {
-    "id": "ru-jian-zai-xian",
-    "text": "如箭在弦",
-    "pinyin": "rú jiàn zài xián",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "time-management",
-      "danger"
-    ],
-    "literal": "like · arrow · on · bowstring",
-    "natural": "like an arrow on the string",
-    "meaning": {
-      "en": "Ready and about to be released; the moment cannot be held back.",
-      "zh": "箭已搭在弦上，一触即发，形势紧迫，不得不做。"
-    },
-    "equivalents": [
-      "poised to go",
-      "like an arrow on the string",
-      "ready to burst forth"
-    ],
-    "examples": [
-      {
-        "zh": "比赛即将开始，选手们如箭在弦，只等发令枪响。",
-        "en": "The race was about to start and the runners were tensed like arrows on strings, waiting for the gun."
-      },
-      {
-        "zh": "项目如箭在弦，再无退路。",
-        "en": "The project is like an arrow on the bowstring, with no way back."
-      }
-    ],
-    "usage": {
-      "en": "The more common forms are 箭在弦上 and 箭在弦上，不得不发; 如箭在弦 is the more descriptive 'like' version. Predicate.",
-      "zh": "更常见的是“箭在弦上，不得不发”，“如箭在弦”是比喻式说法。多作谓语。"
-    },
-    "synonyms": [
-      "一触即发",
-      "箭在弦上"
-    ],
-    "antonyms": [
-      "按兵不动",
-      "犹豫不决"
     ]
   },
   {
@@ -614,14 +511,6 @@
     "id": "yan-zhe-wu-zui-wen-zhe-zu-jie",
     "text": "言者无罪，闻者足戒",
     "pinyin": "yán zhě wú zuì, wén zhě zú jiè",
-    "variants": [
-      "言者无罪",
-      "闻者足戒"
-    ],
-    "variant_kinds": {
-      "言者无罪": "short",
-      "闻者足戒": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -671,20 +560,26 @@
       "zh": "常用于鼓励大家直言。上下两句也可单用：“言者无罪”作客气的开场白。"
     },
     "synonyms": [
-      "直言不讳",
-      "知无不言"
+      "直言不讳"
     ],
     "antonyms": [
-      "讳疾忌医",
-      "忠言逆耳"
-    ]
+      "讳疾忌医"
+    ],
+    "variants": [
+      "言者无罪",
+      "闻者足戒"
+    ],
+    "variant_kinds": {
+      "言者无罪": "short",
+      "闻者足戒": "short"
+    }
   },
   {
     "id": "wei-xie-li-you",
-    "text": "威胁利诱",
-    "pinyin": "wēi xié lì yòu",
+    "text": "威逼利诱",
+    "pinyin": "wēi bī lì yòu",
     "variants": [
-      "威逼利诱"
+      "威胁利诱"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -693,7 +588,7 @@
     "themes": [
       "inappropriate-behavior"
     ],
-    "literal": "threaten · coerce · profit · lure",
+    "literal": "force · compel · gain · lure",
     "natural": "threats and bribes",
     "meaning": {
       "en": "To use both intimidation and the lure of benefits to force someone to give in.",
@@ -715,12 +610,11 @@
       }
     ],
     "usage": {
-      "en": "Negative; commonly used in crime and corruption stories. Often 威逼利诱 with the same meaning.",
+      "en": "Negative; commonly used in crime and corruption stories. Also written 威胁利诱, with the same meaning.",
       "zh": "贬义，多见于犯罪、腐败相关报道。也说“威逼利诱”。"
     },
     "synonyms": [
-      "软硬兼施",
-      "恩威并施"
+      "软硬兼施"
     ],
     "antonyms": [
       "晓之以理",
@@ -762,10 +656,7 @@
       "en": "A compliment to blunt, big-boned or boisterous people. Often about men's character.",
       "zh": "多用于夸赞外表粗犷的人其实心细。"
     },
-    "synonyms": [
-      "大智若愚",
-      "心细如发"
-    ],
+    "synonyms": [],
     "antonyms": [
       "粗心大意",
       "粗枝大叶"
@@ -775,14 +666,6 @@
     "id": "ren-wei-dao-zu-wo-wei-yu-rou",
     "text": "人为刀俎，我为鱼肉",
     "pinyin": "rén wéi dāo zǔ, wǒ wéi yú ròu",
-    "variants": [
-      "我为鱼肉",
-      "人为刀俎"
-    ],
-    "variant_kinds": {
-      "我为鱼肉": "short",
-      "人为刀俎": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -835,7 +718,16 @@
     "antonyms": [
       "操之在我",
       "主动出击"
-    ]
+    ],
+    "variants": [
+      "人方为刀俎，我为鱼肉",
+      "我为鱼肉",
+      "人为刀俎"
+    ],
+    "variant_kinds": {
+      "我为鱼肉": "short",
+      "人为刀俎": "short"
+    }
   },
   {
     "id": "xing-you-yu-li",
@@ -889,8 +781,7 @@
       "绰绰有余"
     ],
     "antonyms": [
-      "力不从心",
-      "心有余而力不足"
+      "力不从心"
     ]
   },
   {
@@ -1021,8 +912,7 @@
     "synonyms": [
       "永垂不朽",
       "流芳百世",
-      "死而不朽",
-      "虽败犹荣"
+      "死而不朽"
     ],
     "antonyms": [
       "遗臭万年",
@@ -1066,13 +956,15 @@
     },
     "synonyms": [
       "沧海桑田",
-      "世事沧桑",
       "白云苍狗",
       "世事无常"
     ],
     "antonyms": [
       "一成不变",
       "一如既往"
+    ],
+    "variants": [
+      "世事沧桑"
     ]
   },
   {
@@ -1178,12 +1070,12 @@
       "zh": "古代名言，常用于谈论言论自由、舆论，缩略形式为“甚于防川”。"
     },
     "synonyms": [
-      "防微杜渐",
-      "广开言路"
-    ],
-    "antonyms": [
       "堵塞言路",
       "钳口结舌"
+    ],
+    "antonyms": [
+      "广开言路",
+      "畅所欲言"
     ]
   },
   {

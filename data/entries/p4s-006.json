@@ -36,7 +36,6 @@
       "zh": "多用于励志，现在也有人认为它过分美化吃苦。"
     },
     "synonyms": [
-      "苦尽甘来",
       "梅花香自苦寒来"
     ],
     "antonyms": [
@@ -80,9 +79,7 @@
       "en": "Reassuring, or a mark of carefree (even irresponsible) attitude; casual.",
       "zh": "可作安慰，也可表示满不在乎，口语。"
     },
-    "synonyms": [
-      "船到桥头自然直"
-    ],
+    "synonyms": [],
     "antonyms": [
       "杞人忧天"
     ]
@@ -137,13 +134,9 @@
       "en": "Used for any contest, from business to sport. The original reads 知彼知己.",
       "zh": "适用于商业、体育等各种竞争。原文作“知彼知己”。"
     },
-    "synonyms": [
-      "运筹帷幄",
-      "胸有成竹"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "盲目冒进",
-      "一无所知"
+      "盲目冒进"
     ]
   },
   {
@@ -244,8 +237,8 @@
       "精雕细琢"
     ],
     "antonyms": [
-      "粗制滥造",
-      "草草了事"
+      "草草了事",
+      "粗制滥造"
     ]
   },
   {
@@ -285,8 +278,8 @@
       "zh": "常只说“祸不单行”；后半句单用较少。"
     },
     "synonyms": [
-      "屋漏偏逢连夜雨",
-      "雪上加霜"
+      "雪上加霜",
+      "屋漏偏逢连夜雨"
     ],
     "antonyms": [
       "双喜临门"
@@ -297,7 +290,8 @@
     "text": "月满则亏，水满则溢",
     "pinyin": "yuè mǎn zé kuī, shuǐ mǎn zé yì",
     "variants": [
-      "水满则溢，月满则亏"
+      "水满则溢，月满则亏",
+      "月满则亏"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -305,7 +299,8 @@
     "register": "neutral",
     "themes": [
       "wisdom",
-      "change"
+      "change",
+      "natural-consequences"
     ],
     "literal": "moon · full · then · wane, water · full · then · overflow",
     "natural": "a full moon wanes, a full vessel overflows",
@@ -333,10 +328,12 @@
     },
     "synonyms": [
       "盛极必衰",
+      "盛极而衰",
       "物极必反"
     ],
     "antonyms": [
-      "蒸蒸日上"
+      "蒸蒸日上",
+      "方兴未艾"
     ]
   },
   {
@@ -424,9 +421,7 @@
       "枪打出头鸟",
       "树大招风"
     ],
-    "antonyms": [
-      "脱颖而出"
-    ]
+    "antonyms": []
   },
   {
     "id": "mu-xiu-yu-lin-feng-bi-cui-zhi",
@@ -479,9 +474,7 @@
       "树大招风",
       "枪打出头鸟"
     ],
-    "antonyms": [
-      "默默无闻"
-    ]
+    "antonyms": []
   },
   {
     "id": "lin-zi-da-le-shen-me-niao-dou-you",
@@ -527,12 +520,11 @@
   },
   {
     "id": "yi-li-lao-shu-shi-huai-le-yi-guo-tang",
-    "text": "一粒老鼠屎，坏了一锅汤",
-    "pinyin": "yī lì lǎo shǔ shǐ, huài le yī guō tāng",
+    "text": "一粒老鼠屎，坏了一锅粥",
+    "pinyin": "yī lì lǎo shǔ shǐ, huài le yī guō zhōu",
     "variants": [
       "一颗老鼠屎，坏了一锅粥",
-      "一粒老鼠屎坏了一锅粥",
-      "一颗老鼠屎坏了一锅汤"
+      "一粒老鼠屎，坏了一锅汤"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -542,7 +534,7 @@
       "negative-character-flaws",
       "natural-consequences"
     ],
-    "literal": "one · grain · mouse · dropping, spoil · (particle) · one · pot · soup",
+    "literal": "one · grain · mouse · dropping, spoil · (particle) · one · pot · porridge",
     "natural": "one mouse dropping spoils the whole pot of soup",
     "meaning": {
       "en": "One bad element can ruin the whole group or enterprise.",
@@ -658,8 +650,8 @@
       "zh": "轻微责备固执，口语。"
     },
     "synonyms": [
-      "一意孤行",
-      "执迷不悟"
+      "执迷不悟",
+      "一意孤行"
     ],
     "antonyms": [
       "回头是岸",
@@ -724,50 +716,6 @@
     ]
   },
   {
-    "id": "bu-da-bu-cheng-jiao",
-    "text": "不打不成交",
-    "pinyin": "bù dǎ bù chéng jiāo",
-    "kind": "suyu",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "relationships",
-      "competition-and-rivalry",
-      "friendship"
-    ],
-    "literal": "not · fight · not · become · friends",
-    "natural": "no fight, no friendship",
-    "meaning": {
-      "en": "People often become friends after a quarrel or contest.",
-      "zh": "经过争吵或较量，彼此反而更了解，成了朋友。"
-    },
-    "equivalents": [
-      "to fight is to become friends",
-      "fight first, friends later"
-    ],
-    "examples": [
-      {
-        "zh": "他俩不打不成交，现在是最好的搭档。",
-        "en": "The two became friends after fighting; now they're the best partners."
-      },
-      {
-        "zh": "不打不成交，吵了一架后我们反倒熟了。",
-        "en": "No fight, no friendship; after our row we got closer."
-      }
-    ],
-    "usage": {
-      "en": "Light-hearted; often said of former rivals; the full phrase is 不打不相识.",
-      "zh": "语气轻松，多指昔日对手成为朋友，也说“不打不相识”。"
-    },
-    "synonyms": [
-      "不打不相识"
-    ],
-    "antonyms": [
-      "势不两立"
-    ]
-  },
-  {
     "id": "mei-you-jin-gang-zuan-bie-lan-ci-qi-huo",
     "text": "没有金刚钻，别揽瓷器活",
     "pinyin": "méi yǒu jīn gāng zuàn, bié lǎn cí qì huó",
@@ -809,9 +757,7 @@
     "synonyms": [
       "量力而行"
     ],
-    "antonyms": [
-      "艺高人胆大"
-    ]
+    "antonyms": []
   },
   {
     "id": "tian-xia-mei-you-mian-fei-de-wu-can",
@@ -853,9 +799,7 @@
       "en": "A calque of the English saying, now fully natural in Chinese.",
       "zh": "译自英语谚语，现已成为汉语常用说法。"
     },
-    "synonyms": [
-      "一分耕耘，一分收获"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不劳而获"
     ]
@@ -900,8 +844,7 @@
       "起步维艰"
     ],
     "antonyms": [
-      "驾轻就熟",
-      "请客容易送客难"
+      "驾轻就熟"
     ]
   },
   {
@@ -943,9 +886,7 @@
     "synonyms": [
       "天有不测风云"
     ],
-    "antonyms": [
-      "万无一失"
-    ]
+    "antonyms": []
   },
   {
     "id": "ren-wu-wan-ren-jin-wu-zu-chi",
@@ -987,11 +928,10 @@
       "zh": "用来宽容缺点，“金无足赤”也可单说。"
     },
     "synonyms": [
-      "瑕不掩瑜",
-      "瓜无滚圆，人无十全"
+      "瓜无滚圆，人无十全",
+      "瑕不掩瑜"
     ],
     "antonyms": [
-      "十全十美",
       "完美无缺"
     ]
   },
@@ -1051,63 +991,6 @@
     ]
   },
   {
-    "id": "wang-yang-bu-lao-wei-wei-wan-ye",
-    "text": "亡羊补牢，未为晚也",
-    "pinyin": "wáng yáng bǔ láo, wèi wéi wǎn yě",
-    "kind": "suyu",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "mistakes-and-correction",
-      "wisdom",
-      "historical-records"
-    ],
-    "literal": "lose · sheep · mend · pen, not yet · be · late · (particle)",
-    "natural": "mend the pen after losing a sheep, it's not too late",
-    "meaning": {
-      "en": "It is not too late to fix a problem even after you have suffered a loss.",
-      "zh": "出了问题后及时补救，还不算晚。"
-    },
-    "equivalents": [
-      "better late than never",
-      "it's never too late to mend"
-    ],
-    "examples": [
-      {
-        "zh": "亡羊补牢，未为晚也，现在改正还来得及。",
-        "en": "Better late than never; it's still not too late to correct it."
-      },
-      {
-        "zh": "系统被入侵后才加强安全，亡羊补牢，未为晚也。",
-        "en": "They strengthened security only after the hack, but it's never too late."
-      }
-    ],
-    "origin": {
-      "source": "《战国策·楚策四》",
-      "story": {
-        "en": "Zhuang Xin advises the King of Chu: after losing the sheep, it is not too late to mend the pen; the king's failure to heed is exactly what the saying warns against.",
-        "zh": "《战国策·楚策四》：“见兔而顾犬，未为晚也；亡羊而补牢，未为迟也。”"
-      },
-      "date": {
-        "zh": "西汉 · 前1世纪",
-        "en": "Western Han, 1st c. BC"
-      }
-    },
-    "usage": {
-      "en": "Often just 亡羊补牢; the full form with 未为晚也 sounds more literary.",
-      "zh": "常简说“亡羊补牢”，全句更书面。"
-    },
-    "synonyms": [
-      "迷途知返",
-      "及时补救"
-    ],
-    "antonyms": [
-      "执迷不悟",
-      "死不悔改"
-    ]
-  },
-  {
     "id": "ruo-yao-ren-bu-zhi-chu-fei-ji-mo-wei",
     "text": "若要人不知，除非己莫为",
     "pinyin": "ruò yào rén bù zhī, chú fēi jǐ mò wéi",
@@ -1147,9 +1030,7 @@
       "纸包不住火",
       "天网恢恢"
     ],
-    "antonyms": [
-      "神不知鬼不觉"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-fen-jia-qian-yi-fen-huo",

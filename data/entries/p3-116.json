@@ -109,7 +109,8 @@
     "register": "formal",
     "themes": [
       "leadership-and-authority",
-      "military-strategy-and-victory"
+      "military-strategy-and-victory",
+      "unity-and-cooperation"
     ],
     "literal": "above · below · same · desire",
     "natural": "united from top to bottom",
@@ -192,7 +193,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "自投罗网",
       "露出马脚",
       "贼娃子说梦话——不打自招",
       "此地无银三百两"
@@ -242,9 +242,7 @@
       "上上下下",
       "全国上下"
     ],
-    "antonyms": [
-      "孤家寡人"
-    ]
+    "antonyms": []
   },
   {
     "id": "tian-zao-di-she",
@@ -334,7 +332,6 @@
       "允文允武"
     ],
     "antonyms": [
-      "手无缚鸡之力",
       "有勇无谋"
     ]
   },
@@ -375,7 +372,6 @@
       "zh": "多用于管理、政策讨论，含批评。"
     },
     "synonyms": [
-      "舍本逐末",
       "只见树木，不见森林"
     ],
     "antonyms": [
@@ -470,7 +466,6 @@
     },
     "synonyms": [
       "重返故里",
-      "旧雨重逢",
       "重温旧梦",
       "前度刘郎"
     ],
@@ -483,7 +478,8 @@
     "text": "如芒在背",
     "pinyin": "rú máng zài bèi",
     "variants": [
-      "如芒刺背"
+      "如芒刺背",
+      "芒刺在背"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -536,7 +532,8 @@
     ],
     "antonyms": [
       "泰然自若",
-      "安然自得"
+      "安然自得",
+      "安之若素"
     ]
   },
   {
@@ -576,10 +573,10 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "岌岌可危",
       "奄奄一息",
       "危如累卵",
-      "弥留之际"
+      "弥留之际",
+      "岌岌可危"
     ],
     "antonyms": [
       "安然无恙",
@@ -630,22 +627,18 @@
       "身强力壮",
       "力大无穷",
       "倒拔垂杨柳",
-      "文武兼备",
-      "鲁智深倒拔垂杨柳——力大无穷",
       "钢筋铁骨",
-      "文武双全",
       "孔武有力",
       "飞檐走壁",
       "降龙伏虎",
       "射石饮羽",
-      "拔山盖世",
-      "能文能武",
-      "七尺之躯",
+      "力拔山兮气盖世",
       "力敌万夫",
       "万夫莫当",
-      "七尺男儿",
       "力能扛鼎",
-      "力拔山兮气盖世"
+      "文武双全",
+      "能文能武",
+      "鲁智深倒拔垂杨柳——力大无穷"
     ]
   },
   {
@@ -697,8 +690,7 @@
       "zh": "多用于外交。"
     },
     "synonyms": [
-      "睦邻友好",
-      "远亲不如近邻"
+      "睦邻友好"
     ],
     "antonyms": [
       "以邻为壑",
@@ -749,13 +741,11 @@
       "瓮中之鳖",
       "在劫难逃",
       "天罗地网",
-      "跑得了和尚，跑不了庙"
+      "瓮中捉鳖"
     ],
     "antonyms": [
       "逍遥法外",
       "漏网之鱼",
-      "瓮中捉鳖",
-      "一苇渡江",
       "金蝉脱壳"
     ]
   },
@@ -848,61 +838,9 @@
       "万事如意"
     ],
     "antonyms": [
-      "祸不单行",
-      "灾祸连连"
+      "灾祸连连",
+      "祸不单行"
     ]
-  },
-  {
-    "id": "ge-ren-zi-sao-men-qian-xue",
-    "text": "各人自扫门前雪",
-    "pinyin": "gè rén zì sǎo mén qián xuě",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "rural-wisdom"
-    ],
-    "literal": "each · person · sweeps · own · door · front · snow",
-    "natural": "everyone for themselves",
-    "meaning": {
-      "en": "Everyone sweeps only their own doorstep: each minds their own business and no one else's.",
-      "zh": "各人只管自己门前的雪，比喻只顾自己，不管别人。"
-    },
-    "equivalents": [
-      "every man for himself",
-      "mind one's own business"
-    ],
-    "examples": [
-      {
-        "zh": "各人自扫门前雪，这种态度可不行。",
-        "en": "'Everyone sweeps their own doorstep' is the wrong attitude."
-      },
-      {
-        "zh": "邻里之间不能各人自扫门前雪。",
-        "en": "Neighbours shouldn't each sweep only their own front step."
-      }
-    ],
-    "usage": {
-      "en": "Usually followed by 莫管他人瓦上霜; critical of indifference.",
-      "zh": "后面常接“莫管他人瓦上霜”，批评冷漠。"
-    },
-    "synonyms": [
-      "独善其身",
-      "事不关己"
-    ],
-    "antonyms": [
-      "助人为乐",
-      "见义勇为",
-      "修身齐家治国平天下"
-    ],
-    "variants": [
-      "自扫门前雪"
-    ],
-    "variant_kinds": {
-      "自扫门前雪": "short"
-    }
   },
   {
     "id": "ben-niao-xian-fei",
@@ -1046,8 +984,7 @@
       "zh": "多作谓语、补语，口语。"
     },
     "synonyms": [
-      "寻死觅活",
-      "呼天抢地"
+      "寻死觅活"
     ],
     "antonyms": [
       "若无其事",
@@ -1097,7 +1034,8 @@
     "antonyms": [
       "彬彬有礼",
       "谦恭有礼",
-      "毕恭毕敬"
+      "毕恭毕敬",
+      "平易近人"
     ]
   },
   {
@@ -1137,8 +1075,8 @@
       "zh": "名词性短语，出自“忠言逆耳”。"
     },
     "synonyms": [
-      "忠言逆耳",
-      "良药苦口"
+      "良药苦口",
+      "忠言逆耳"
     ],
     "antonyms": [
       "甜言蜜语",

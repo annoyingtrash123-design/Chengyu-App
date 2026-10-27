@@ -134,7 +134,7 @@
     "text": "熠熠生辉",
     "pinyin": "yì yì shēng huī",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -380,51 +380,6 @@
     ]
   },
   {
-    "id": "chong-chuang-die-wu",
-    "text": "重床叠屋",
-    "pinyin": "chóng chuáng dié wū",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "verbosity",
-      "inappropriate-behavior"
-    ],
-    "literal": "pile · bed · stack · house",
-    "natural": "beds on beds and houses on houses",
-    "meaning": {
-      "en": "Needless repetition or duplication, especially in writing or organisation.",
-      "zh": "比喻不必要的重复，多指文章或机构重叠。"
-    },
-    "equivalents": [
-      "needless duplication",
-      "reinventing the wheel",
-      "gilding the lily"
-    ],
-    "examples": [
-      {
-        "zh": "这份报告重床叠屋，三页就能说清的事写了十页。",
-        "en": "This report is repetitive; what could have been said in three pages took ten."
-      },
-      {
-        "zh": "两个部门职责重叠，成了重床叠屋。",
-        "en": "The two departments have overlapping duties, causing needless duplication."
-      }
-    ],
-    "usage": {
-      "en": "Used as predicate or attributive, mostly about writing or institutions; same sense as 叠床架屋.",
-      "zh": "作谓语或定语，多指文章或机构；与“叠床架屋”同义。"
-    },
-    "synonyms": [
-      "叠床架屋",
-      "画蛇添足"
-    ],
-    "antonyms": [
-      "言简意赅"
-    ]
-  },
-  {
     "id": "xue-guan-gu-jin",
     "text": "学贯古今",
     "pinyin": "xué guàn gǔ jīn",
@@ -472,7 +427,7 @@
     "id": "deng-gao-die-zhong",
     "text": "登高跌重",
     "pinyin": "dēng gāo diē zhòng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -505,12 +460,9 @@
       "zh": "警示语，作谓语或评语，也说“爬得高，摔得重”。"
     },
     "synonyms": [
-      "爬得高，摔得重",
       "乐极生悲"
     ],
-    "antonyms": [
-      "稳扎稳打"
-    ]
+    "antonyms": []
   },
   {
     "id": "bian-shi-san-bai",
@@ -560,8 +512,7 @@
       "zh": "多指历史故事，比喻义含批评落井下石；与“掘墓鞭尸”相关。"
     },
     "synonyms": [
-      "掘墓鞭尸",
-      "落井下石"
+      "掘墓鞭尸"
     ],
     "antonyms": [
       "宽宏大量"
@@ -660,7 +611,8 @@
       "zh": "谦辞，作谓语，用于他人时多含批评。"
     },
     "synonyms": [
-      "才疏学浅"
+      "才疏学浅",
+      "德薄才疏"
     ],
     "antonyms": [
       "德配天地"
@@ -775,60 +727,6 @@
     ],
     "antonyms": [
       "一介书生"
-    ]
-  },
-  {
-    "id": "duan-ji-jiao-zi",
-    "text": "断机教子",
-    "pinyin": "duàn jī jiào zǐ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "parenting-and-family",
-      "effective-teaching-methods"
-    ],
-    "literal": "cut · loom · teach · son",
-    "natural": "cutting the loom to teach her son",
-    "meaning": {
-      "en": "A mother teaching her child by example; the story of Mencius's mother cutting her weaving to teach him to persevere in study.",
-      "zh": "指孟子的母亲割断织布来教育儿子，比喻母亲教子有方、劝人勤学。"
-    },
-    "equivalents": [
-      "a mother's lesson on perseverance",
-      "teach by example"
-    ],
-    "examples": [
-      {
-        "zh": "她常给孩子讲断机教子的故事。",
-        "en": "She often tells her children the story of Mencius's mother and the loom."
-      },
-      {
-        "zh": "断机教子的美谈，千百年来传为佳话。",
-        "en": "The tale of the mother who cut her loom to teach her son has been praised through the ages."
-      }
-    ],
-    "origin": {
-      "source": "汉·刘向《列女传》",
-      "story": {
-        "en": "In the Biographies of Exemplary Women, when young Mencius skipped study, his mother cut the cloth on her loom to show that abandoning study was like abandoning a task halfway.",
-        "zh": "《列女传·邹孟轲母》载孟母见孟子废学，引刀断其织以为喻。"
-      },
-      "date": {
-        "zh": "西汉 · 前1世纪（刘向编）",
-        "en": "Western Han, 1st c. BC (compiled by Liu Xiang)"
-      }
-    },
-    "usage": {
-      "en": "Literary allusion; related to 孟母断织 and 孟母三迁. Used as object or subject.",
-      "zh": "文学典故，与“孟母断织”“孟母三迁”相关，作主语或宾语。"
-    },
-    "synonyms": [
-      "孟母断织"
-    ],
-    "antonyms": [
-      "溺爱不明"
     ]
   },
   {
@@ -1030,8 +928,7 @@
       "zh": "文言色彩的褒扬，多用于历史人物。"
     },
     "synonyms": [
-      "盖世英雄",
-      "一代天骄，成吉思汗，只识弯弓射大雕"
+      "盖世英雄"
     ],
     "antonyms": [
       "庸碌之辈"

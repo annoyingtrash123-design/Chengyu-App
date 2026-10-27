@@ -53,7 +53,7 @@
     "text": "天府之国",
     "pinyin": "tiān fǔ zhī guó",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -99,7 +99,6 @@
     "synonyms": [
       "鱼米之乡",
       "沃野千里",
-      "巴山蜀水",
       "塞上江南",
       "膏腴之地"
     ],
@@ -151,10 +150,9 @@
     "antonyms": [
       "知恩图报",
       "结草衔环",
-      "礼尚往来",
       "以德报怨",
-      "以直报怨，以德报德",
-      "来而不往非礼也"
+      "礼尚往来",
+      "以直报怨，以德报德"
     ]
   },
   {
@@ -166,8 +164,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "fear-and-cowardice",
-      "poor-timing"
+      "fear-and-cowardice"
     ],
     "literal": "not · dare · ask · ford",
     "natural": "not dare to ask about the ford",
@@ -307,8 +304,8 @@
       "zh": "书面语。“格”是阻碍的意思。"
     },
     "synonyms": [
-      "束手无策",
-      "身不由己"
+      "身不由己",
+      "束手无策"
     ],
     "antonyms": [
       "畅通无阻",
@@ -424,8 +421,7 @@
       "大江东去"
     ],
     "antonyms": [
-      "度日如年",
-      "一成不变"
+      "度日如年"
     ]
   },
   {
@@ -438,7 +434,8 @@
     "register": "neutral",
     "themes": [
       "resistance-to-change",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "character"
     ],
     "literal": "rivers · mountains · easy · change · nature · hard · move",
     "natural": "rivers and mountains may change, nature cannot",
@@ -465,15 +462,22 @@
       "zh": "多指坏习惯。常说全句。"
     },
     "synonyms": [
-      "本性难移",
-      "积习难改",
       "狗改不了吃屎",
+      "积习难改",
+      "死性不改",
       "狗改不了吃屎——本性难移"
     ],
     "antonyms": [
+      "洗心革面",
       "脱胎换骨",
-      "洗心革面"
-    ]
+      "改过自新"
+    ],
+    "variants": [
+      "本性难移"
+    ],
+    "variant_kinds": {
+      "本性难移": "short"
+    }
   },
   {
     "id": "xiao-yi-gan-shi",
@@ -604,8 +608,7 @@
       "zh": "常与“有、起、存”搭配。“分”读fèn。常用于否定表态。"
     },
     "synonyms": [
-      "痴心妄想",
-      "异想天开"
+      "痴心妄想"
     ],
     "antonyms": [
       "安分守己",
@@ -653,8 +656,8 @@
       "造谣惑众"
     ],
     "antonyms": [
-      "正本清源",
-      "以正视听"
+      "以正视听",
+      "正本清源"
     ]
   },
   {
@@ -700,62 +703,6 @@
     "antonyms": [
       "秋毫无犯",
       "安居乐业"
-    ]
-  },
-  {
-    "id": "he-huan-wu-ci",
-    "text": "何患无辞",
-    "pinyin": "hé huàn wú cí",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "deception-and-false-appearances",
-      "corruption-and-injustice",
-      "historical-records"
-    ],
-    "literal": "why · worry · lack · excuse",
-    "natural": "why worry about lacking a pretext",
-    "meaning": {
-      "en": "If someone wants to blame you, there is always some excuse to be found.",
-      "zh": "想要给人加罪，不愁找不到借口。"
-    },
-    "equivalents": [
-      "you can always find a pretext",
-      "a stick to beat a dog"
-    ],
-    "examples": [
-      {
-        "zh": "他存心整你，何患无辞？",
-        "en": "If he is set on getting you, he will find a pretext."
-      },
-      {
-        "zh": "欲加之罪，何患无辞，你再怎么解释也没用。",
-        "en": "If they want to blame you they will find a reason; no explanation will help."
-      }
-    ],
-    "origin": {
-      "source": "《左传·僖公十年》",
-      "story": {
-        "en": "Duke Xian's son Li Ke was told by his enemy that he had killed the ruler; Li Ke replied 'if you want to condemn someone, you will never lack words' (欲加之罪，其无辞乎).",
-        "zh": "里克被逼自杀时说：“欲加之罪，其无辞乎？”"
-      },
-      "date": {
-        "zh": "战国 · 前4世纪",
-        "en": "Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Usually the full saying 欲加之罪，何患无辞. Complains about unfair accusations.",
-      "zh": "常说“欲加之罪，何患无辞”，表达对无端指责的不满。"
-    },
-    "synonyms": [
-      "欲加之罪，何患无辞"
-    ],
-    "antonyms": [
-      "证据确凿",
-      "师出有名"
     ]
   },
   {
@@ -850,11 +797,10 @@
     "antonyms": [
       "轻徭薄赋",
       "藏富于民",
-      "解民倒悬",
-      "与民同乐",
       "休养生息",
-      "无为而治",
       "省刑薄赋",
+      "与民同乐",
+      "解民倒悬",
       "与民休息"
     ]
   },
@@ -905,10 +851,7 @@
       "en": "Describes primitive life, or figuratively savage behaviour. 血 is read xuè here.",
       "zh": "形容原始生活，也可比喻野蛮。“血”读xuè。"
     },
-    "synonyms": [
-      "刀耕火种",
-      "饥不择食"
-    ],
+    "synonyms": [],
     "antonyms": [
       "烹龙炮凤",
       "钟鸣鼎食"
@@ -951,10 +894,8 @@
       "zh": "略带讽刺，指咬文嚼字。"
     },
     "synonyms": [
-      "咬文嚼字",
       "半文不白",
-      "诗云子曰",
-      "多乎哉？不多也"
+      "诗云子曰"
     ],
     "antonyms": [
       "通俗易懂",
@@ -1008,13 +949,9 @@
       "en": "Usually quoted as 曾经沧海难为水. Used for both love and broad experience. 难为水 is the second half.",
       "zh": "多用全句“曾经沧海难为水”，可指爱情或阅历。"
     },
-    "synonyms": [
-      "饱经风霜",
-      "见多识广"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "初出茅庐",
-      "孤陋寡闻"
+      "初出茅庐"
     ]
   },
   {
@@ -1054,13 +991,11 @@
       "zh": "多指睡懒觉，常说“睡到日上三竿”。"
     },
     "synonyms": [
-      "日高三丈",
-      "艳阳高照"
+      "日高三丈"
     ],
     "antonyms": [
       "天刚破晓",
       "闻鸡起舞",
-      "华灯初上",
       "鸡鸣而起",
       "一日之计在于晨"
     ]
@@ -1115,14 +1050,12 @@
       "zh": "谋略成语，也说“擒贼先擒王”。"
     },
     "synonyms": [
-      "斩草除根",
       "直捣黄龙",
       "庆父不死，鲁难未已"
     ],
     "antonyms": [
       "舍本逐末",
-      "避重就轻",
-      "农村包围城市"
+      "避重就轻"
     ]
   },
   {
@@ -1184,7 +1117,7 @@
     },
     "kind": "suyu",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "bad-company-and-betrayal",
@@ -1237,17 +1170,14 @@
       "染于苍则苍，染于黄则黄",
       "鲍鱼之肆",
       "芝兰之室",
-      "孟母择邻",
+      "孟母三迁",
       "耳濡目染",
-      "友直友谅友多闻",
       "择邻而居",
-      "南橘北枳",
-      "学好不易，学坏容易",
-      "白沙在涅"
+      "白沙在涅",
+      "里仁为美"
     ],
     "antonyms": [
-      "出淤泥而不染",
-      "里仁为美"
+      "出淤泥而不染"
     ]
   }
 ]

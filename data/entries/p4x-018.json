@@ -4,7 +4,7 @@
     "text": "一片狼藉",
     "pinyin": "yī piàn láng jí",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -91,8 +91,7 @@
       "zh": "夸人读书快，“行”读háng。与“一目十行”相近，后者有时带走马观花的意味。"
     },
     "synonyms": [
-      "一目十行",
-      "过目成诵"
+      "一目十行"
     ],
     "antonyms": [
       "逐字逐句",
@@ -140,8 +139,8 @@
       "眉来眼去"
     ],
     "antonyms": [
-      "开诚布公",
-      "光明正大"
+      "光明正大",
+      "开诚布公"
     ]
   },
   {
@@ -237,13 +236,10 @@
       "zh": "出自《心经》，常与“空不异色，色即是空，空即是色”连用，多用于宗教或哲理语境。"
     },
     "synonyms": [
-      "空即是色",
-      "缘起性空"
+      "缘起性空",
+      "空即是色"
     ],
-    "antonyms": [
-      "执迷不悟",
-      "着相"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-ye-yi-pu-ti",
@@ -282,8 +278,7 @@
       "zh": "常接在“一花一世界”之后。带佛家意味的流行语，确切出处不详。"
     },
     "synonyms": [
-      "一花一世界",
-      "见微知著"
+      "一花一世界"
     ],
     "antonyms": [
       "视而不见",
@@ -383,12 +378,11 @@
       "zh": "常接在“树欲静而风不止”之后，劝人及时尽孝。"
     },
     "synonyms": [
-      "树欲静而风不止",
       "风树之悲"
     ],
     "antonyms": [
-      "承欢膝下",
-      "及时尽孝"
+      "及时尽孝",
+      "承欢膝下"
     ]
   },
   {
@@ -428,13 +422,9 @@
       "zh": "多用于自我安慰，常说“就当破财消灾”。有时也指花钱摆平事情，贬义较重。"
     },
     "synonyms": [
-      "舍财保命",
-      "塞翁失马"
+      "舍财保命"
     ],
-    "antonyms": [
-      "招财进宝",
-      "财源广进"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-pai-hu-yan",
@@ -620,7 +610,7 @@
     "id": "shi-feng-ri-shang",
     "text": "世风日上",
     "pinyin": "shì fēng rì shàng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -653,13 +643,12 @@
       "zh": "与“世风日下”相对，使用较少，书面语。"
     },
     "synonyms": [
-      "蒸蒸日上",
       "民风淳朴"
     ],
     "antonyms": [
       "江河日下",
-      "人心不古",
-      "世风日下"
+      "世风日下",
+      "人心不古"
     ]
   },
   {
@@ -703,8 +692,7 @@
       "大难不死"
     ],
     "antonyms": [
-      "命薄福浅",
-      "祸不单行"
+      "命薄福浅"
     ]
   },
   {
@@ -753,50 +741,6 @@
     ]
   },
   {
-    "id": "xiao-quan-ma-zhi-li",
-    "text": "效犬马之力",
-    "pinyin": "xiào quǎn mǎ zhī lì",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "polite-humble"
-    ],
-    "literal": "offer · dog · horse · 's · strength",
-    "natural": "offer the strength of a dog or horse",
-    "meaning": {
-      "en": "To offer one's services faithfully, with humility, to someone one respects.",
-      "zh": "谦称愿像犬马一样为人出力，表示诚心效劳。"
-    },
-    "equivalents": [
-      "be at your service",
-      "do one's humble best for"
-    ],
-    "examples": [
-      {
-        "zh": "只要公司需要，我愿效犬马之力。",
-        "en": "Whenever the company needs me, I'm ready to put my shoulder to the wheel."
-      },
-      {
-        "zh": "能为国家效犬马之力，是我的荣幸。",
-        "en": "It is my honour to offer my humble services to my country."
-      }
-    ],
-    "usage": {
-      "en": "Self-deprecating; used about oneself towards a superior or cause. Formal or ceremonial.",
-      "zh": "自谦之词，用于自己对尊长或事业，较正式。"
-    },
-    "synonyms": [
-      "犬马之劳",
-      "尽绵薄之力"
-    ],
-    "antonyms": [
-      "袖手旁观",
-      "置身事外"
-    ]
-  },
-  {
     "id": "nan-ci-qi-jiu",
     "text": "难辞其咎",
     "pinyin": "nán cí qí jiù",
@@ -832,8 +776,7 @@
       "zh": "新闻、公文中常见，主语是应负责的人。"
     },
     "synonyms": [
-      "罪责难逃",
-      "责无旁贷"
+      "罪责难逃"
     ],
     "antonyms": [
       "无可厚非",
@@ -933,11 +876,9 @@
       "zh": "“萧墙”指宫门内的屏风墙，借指内部。书面语。"
     },
     "synonyms": [
-      "肘腋之患",
-      "祸起萧墙"
+      "肘腋之患"
     ],
     "antonyms": [
-      "外患",
       "同舟共济"
     ]
   },
@@ -978,12 +919,11 @@
       "zh": "常与“缓不济急”连用，也说“远水解不了近渴”，口语。"
     },
     "synonyms": [
-      "缓不济急",
-      "枯鱼之肆"
+      "枯鱼之肆",
+      "缓不济急"
     ],
     "antonyms": [
-      "雪中送炭",
-      "及时雨"
+      "雪中送炭"
     ]
   }
 ]

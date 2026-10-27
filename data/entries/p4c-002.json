@@ -41,12 +41,10 @@
     },
     "synonyms": [
       "苦尽甘来",
-      "否极泰来",
-      "人生须知负责任的苦处，才能知道尽责任的乐趣"
+      "否极泰来"
     ],
     "antonyms": [
-      "乐极生悲",
-      "好景不长"
+      "乐极生悲"
     ]
   },
   {
@@ -90,11 +88,9 @@
       "zh": "多作谓语或分句，常见于新闻和分析。与表示接连出现的“此起彼伏”不同。"
     },
     "synonyms": [
-      "你追我赶",
       "此涨彼落"
     ],
     "antonyms": [
-      "相得益彰",
       "同步增长"
     ]
   },
@@ -139,14 +135,12 @@
       "zh": "多作谓语、定语，用于战争、体育、竞争，含赞许。"
     },
     "synonyms": [
-      "以寡敌众",
       "以一当十",
-      "火烧赤壁",
-      "以弱胜强"
+      "以弱胜强",
+      "以寡敌众"
     ],
     "antonyms": [
-      "寡不敌众",
-      "兵败如山倒"
+      "寡不敌众"
     ]
   },
   {
@@ -304,8 +298,7 @@
       "zh": "口语里带戏谑，指亲密的四人或四个得力助手。佛寺山门里常供奉四大天王。"
     },
     "synonyms": [
-      "四大天王",
-      "左膀右臂"
+      "四大天王"
     ],
     "antonyms": []
   },
@@ -368,6 +361,9 @@
     "antonyms": [
       "百业凋敝",
       "一蹶不振"
+    ],
+    "variants": [
+      "百废具兴"
     ]
   },
   {
@@ -440,7 +436,8 @@
     "register": "casual",
     "themes": [
       "negative-character-flaws",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "rare-idioms"
     ],
     "literal": "pig · dog · not · equal",
     "natural": "worse than a pig or dog",
@@ -472,12 +469,16 @@
     },
     "synonyms": [
       "禽兽不如",
-      "衣冠禽兽",
-      "狗彘不如"
+      "衣冠禽兽"
     ],
     "antonyms": [
       "高风亮节",
+      "品德高尚",
+      "正人君子",
       "仁至义尽"
+    ],
+    "variants": [
+      "狗彘不如"
     ]
   },
   {
@@ -691,12 +692,9 @@
       "zh": "古代也含边防警示（游牧民族常在秋季南下），现多只描写秋日好时光。与只描写天气的“秋高气爽”不同。"
     },
     "synonyms": [
-      "秋高气爽",
       "金风送爽"
     ],
-    "antonyms": [
-      "天寒地冻"
-    ]
+    "antonyms": []
   },
   {
     "id": "yao-suan-bei-tong",
@@ -739,12 +737,10 @@
       "zh": "多作谓语、补语，常用于口语。"
     },
     "synonyms": [
-      "浑身酸痛",
-      "筋疲力尽"
+      "浑身酸痛"
     ],
     "antonyms": [
-      "神清气爽",
-      "生龙活虎"
+      "神清气爽"
     ]
   },
   {
@@ -791,14 +787,9 @@
       "zh": "多作谓语，常用于重逢、考试、比赛夺冠等场合。"
     },
     "synonyms": [
-      "破涕为笑",
-      "热泪盈眶",
-      "悲喜交集"
+      "热泪盈眶"
     ],
-    "antonyms": [
-      "悲痛欲绝",
-      "痛哭流涕"
-    ]
+    "antonyms": []
   },
   {
     "id": "qin-peng-hao-you",
@@ -842,7 +833,6 @@
     },
     "synonyms": [
       "亲戚朋友",
-      "左邻右舍",
       "七大姑八大姨"
     ],
     "antonyms": [
@@ -994,15 +984,15 @@
     ],
     "examples": [
       {
-        "zh": "听说老朋友来了，他倒履相迎。",
+        "zh": "听说老朋友来了，他倒屣相迎。",
         "en": "When he heard that his old friend had come, he rushed out to greet him."
       },
       {
-        "zh": "老校长对来访的学生倒履相迎。",
+        "zh": "老校长对来访的学生倒屣相迎。",
         "en": "The old principal welcomed the visiting students very warmly."
       },
       {
-        "zh": "这样有才的人才，公司当然要倒履相迎。",
+        "zh": "这样的人才，公司当然要倒屣相迎。",
         "en": "A talent like this deserves a very warm welcome from the company."
       }
     ],
@@ -1018,77 +1008,16 @@
       }
     },
     "usage": {
-      "en": "Literary and respectful, used of the host and the welcome; also appears as 倒屣相迎. It shows great respect for the guest. Not used of ordinary greetings.",
+      "en": "Literary and respectful, used of the host and the welcome; also written 倒履相迎. It shows great respect for the guest. Not used of ordinary greetings.",
       "zh": "书面色彩，用于主人对客人，含敬意。也作“倒屣相迎”，不用于一般的迎接。"
     },
     "synonyms": [
-      "扫榻相迎",
-      "热情款待",
-      "扫榻以待"
+      "扫榻以待",
+      "热情款待"
     ],
     "antonyms": [
       "杜门谢客",
       "拒之门外"
-    ]
-  },
-  {
-    "id": "ba-shan-gai-shi",
-    "text": "拔山盖世",
-    "pinyin": "bá shān gài shì",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "outstanding-character",
-      "historical-records"
-    ],
-    "literal": "pull up · mountain · cover · world",
-    "natural": "strong enough to uproot mountains, spirit to cover the world",
-    "meaning": {
-      "en": "Tremendous strength and spirit, so great that one could uproot a mountain and surpass everyone in the world.",
-      "zh": "力量大得能拔起山，气概盖过世人，形容英雄的力量与气概非凡。"
-    },
-    "equivalents": [
-      "of superhuman might",
-      "strength to move mountains"
-    ],
-    "examples": [
-      {
-        "zh": "项羽拔山盖世，却败给了刘邦。",
-        "en": "Xiang Yu had mountain-moving strength but was beaten by Liu Bang."
-      },
-      {
-        "zh": "这位举重冠军有着拔山盖世的力量。",
-        "en": "This weightlifting champion has superhuman strength."
-      },
-      {
-        "zh": "故事里的英雄拔山盖世，没有人敢和他较量。",
-        "en": "The hero in the story was so powerful that no one dared to challenge him."
-      }
-    ],
-    "origin": {
-      "source": "《史记·项羽本纪》",
-      "story": {
-        "en": "Surrounded at Gaixia, Xiang Yu sang: 'My strength uproots mountains, my spirit covers the world; but the times are against me and my horse will not run' (力拔山兮气盖世，时不利兮骓不逝).",
-        "zh": "项羽被围垓下，慷慨悲歌：“力拔山兮气盖世，时不利兮骓不逝。”"
-      },
-      "date": {
-        "zh": "西汉 · 约前91年",
-        "en": "Western Han, c. 91 BC"
-      }
-    },
-    "usage": {
-      "en": "Used of heroic strength and spirit, almost always about legendary heroes like Xiang Yu. It comes from his farewell song 垓下歌, 'My strength uproots mountains, my spirit covers the world' (力拔山兮气盖世), and is also used as 力拔山兮.",
-      "zh": "多用于英雄人物，尤其项羽。出自《垓下歌》“力拔山兮气盖世”。"
-    },
-    "synonyms": [
-      "气吞山河",
-      "力拔山兮气盖世"
-    ],
-    "antonyms": [
-      "手无缚鸡之力",
-      "软弱无力"
     ]
   },
   {

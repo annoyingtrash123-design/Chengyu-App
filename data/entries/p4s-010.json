@@ -130,12 +130,8 @@
       "en": "Often used to explain that responsibility lies with the person who gives in. Also used romantically to describe being captivated.",
       "zh": "常用来说明责任在于自己；也可用于形容人自愿沉醉。"
     },
-    "synonyms": [
-      "自作自受"
-    ],
-    "antonyms": [
-      "身不由己"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "jiu-feng-zhi-ji-qian-bei-shao",
@@ -147,8 +143,8 @@
     "register": "casual",
     "themes": [
       "joy-and-happiness",
-      "love-and-marriage",
-      "friendship"
+      "friendship",
+      "food"
     ],
     "literal": "wine · meet · bosom friend · thousand · cups · few",
     "natural": "With a bosom friend, a thousand cups are too few",
@@ -191,8 +187,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "fear-and-cowardice",
-      "adaptability"
+      "fear-and-cowardice"
     ],
     "literal": "ugly · daughter-in-law · sooner · later · also · must · meet · parents-in-law",
     "natural": "Even an ugly daughter-in-law must meet her in-laws sooner or later",
@@ -266,7 +261,6 @@
       "zh": "亲切诙谐，常在出门回家后或婉拒寄居别处时说。"
     },
     "synonyms": [
-      "狗不嫌家贫",
       "在家千日好，出门一时难",
       "子不嫌母丑，狗不嫌家贫"
     ],
@@ -355,9 +349,7 @@
       "en": "Complains about obstructive low-level staff and bureaucracy. 难缠 is the usual form; 难当 is a variant.",
       "zh": "多用来抱怨基层办事人员刁难、手续繁琐。"
     },
-    "synonyms": [
-      "县官不如现管"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一路绿灯"
     ]
@@ -398,12 +390,8 @@
       "en": "Sometimes quoted in social commentary; the first half is somewhat negative about human nature.",
       "zh": "常用于社会评论，前半句对人性带有贬义。"
     },
-    "synonyms": [
-      "人为财死，鸟为食亡"
-    ],
-    "antonyms": [
-      "安贫乐道"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "you-qing-ren-zhong-cheng-juan-shu",
@@ -448,8 +436,8 @@
       "百年好合"
     ],
     "antonyms": [
-      "有缘无分",
-      "劳燕分飞"
+      "劳燕分飞",
+      "有缘无分"
     ]
   },
   {
@@ -581,9 +569,7 @@
       "en": "Used of capable people stuck for cash. 一分钱 is a modern wording.",
       "zh": "用于有能力却缺钱的人；“一分钱”是较现代的说法。"
     },
-    "synonyms": [
-      "英雄气短"
-    ],
+    "synonyms": [],
     "antonyms": [
       "腰缠万贯"
     ]
@@ -694,7 +680,7 @@
     "text": "滴水之恩，当涌泉相报",
     "pinyin": "dī shuǐ zhī ēn, dāng yǒng quán xiāng bào",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -725,9 +711,9 @@
       "zh": "用于表达深切感恩，语气郑重温暖；也说“滴水之恩，涌泉相报”。"
     },
     "synonyms": [
-      "知恩图报",
       "结草衔环",
-      "一饭之恩"
+      "一饭之恩",
+      "知恩图报"
     ],
     "antonyms": [
       "忘恩负义",
@@ -866,7 +852,6 @@
       "zh": "用于对口味爱好不再争论，语气宽容轻松。"
     },
     "synonyms": [
-      "各有千秋",
       "众口难调",
       "甲之蜜糖，乙之砒霜"
     ],
@@ -915,9 +900,8 @@
     },
     "synonyms": [],
     "antonyms": [
-      "三人成虎",
-      "以讹传讹",
-      "积毁销骨"
+      "积毁销骨",
+      "三人成虎"
     ]
   },
   {
@@ -932,7 +916,8 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "efficiency"
+      "efficiency",
+      "danger"
     ],
     "literal": "say · -ly · easy · do · -ly · hard",
     "natural": "Easy to say, hard to do",
@@ -1003,9 +988,7 @@
     "synonyms": [
       "空口无凭"
     ],
-    "antonyms": [
-      "一言为定"
-    ]
+    "antonyms": []
   },
   {
     "id": "ying-xiong-bu-pa-chu-shen-di",
@@ -1043,10 +1026,7 @@
       "en": "Encouraging; often used for self-made people and in motivational speeches.",
       "zh": "带鼓励意味，常用于白手起家的人和励志场合。"
     },
-    "synonyms": [
-      "自强不息",
-      "白手起家"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -1091,9 +1071,7 @@
     "synonyms": [
       "山外有山，天外有天"
     ],
-    "antonyms": [
-      "目空一切"
-    ]
+    "antonyms": []
   },
   {
     "id": "shan-wai-you-shan-tian-wai-you-tian",
@@ -1101,7 +1079,8 @@
     "pinyin": "shān wài yǒu shān, tiān wài yǒu tiān",
     "variants": [
       "天外有天，人外有人",
-      "人外有人，天外有天"
+      "人外有人，天外有天",
+      "天外有天"
     ],
     "kind": "suyu",
     "frequency": 3,
@@ -1109,7 +1088,8 @@
     "register": "casual",
     "themes": [
       "relative-measurements",
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "wisdom"
     ],
     "literal": "mountain · beyond · there is · mountain, sky · beyond · there is · sky",
     "natural": "There are mountains beyond the mountains, and a sky beyond the sky",
@@ -1138,11 +1118,15 @@
     "synonyms": [
       "强中自有强中手",
       "一山更比一山高",
-      "天外有天"
+      "人外有人"
     ],
     "antonyms": [
+      "坐井观天",
       "夜郎自大",
-      "坐井观天"
-    ]
+      "自高自大"
+    ],
+    "variant_kinds": {
+      "天外有天": "short"
+    }
   }
 ]

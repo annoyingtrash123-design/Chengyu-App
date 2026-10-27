@@ -90,10 +90,7 @@
       "en": "Literary; wistful tone about memories, travel and the impermanence of life.",
       "zh": "文学色彩浓，带感怀人生无常之意。"
     },
-    "synonyms": [
-      "过眼云烟",
-      "昙花一现"
-    ],
+    "synonyms": [],
     "antonyms": [
       "刻骨铭心"
     ]
@@ -134,13 +131,10 @@
       "en": "Usually negative, about building a clique; 降 here is xiáng (to surrender).",
       "zh": "多含贬义，指拉拢收罗；“降”读xiáng。"
     },
-    "synonyms": [
-      "拉帮结派",
-      "收买人心"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "众叛亲离",
-      "清理门户"
+      "清理门户",
+      "众叛亲离"
     ]
   },
   {
@@ -430,10 +424,7 @@
       "著作等身",
       "立言传世"
     ],
-    "antonyms": [
-      "不学无术",
-      "结绳记事"
-    ]
+    "antonyms": []
   },
   {
     "id": "zhong-gui-zhong-ju",
@@ -473,8 +464,7 @@
     },
     "synonyms": [
       "循规蹈矩",
-      "一板一眼",
-      "像模像样"
+      "一板一眼"
     ],
     "antonyms": [
       "离经叛道",
@@ -518,12 +508,11 @@
       "zh": "现代多戏谑，真实场合用之显得不庄重。"
     },
     "synonyms": [
-      "一命呜呼",
-      "寿终正寝"
+      "一命呜呼"
     ],
     "antonyms": [
-      "起死回生",
-      "安然无恙"
+      "安然无恙",
+      "起死回生"
     ]
   },
   {
@@ -674,7 +663,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "adaptability"
+      "adaptability",
+      "mental-clarity"
     ],
     "literal": "act · as if · no · matter",
     "natural": "act as if nothing had happened",
@@ -705,8 +695,8 @@
       "泰然自若"
     ],
     "antonyms": [
-      "惊慌失措",
-      "手足无措"
+      "手足无措",
+      "惊慌失措"
     ]
   },
   {
@@ -930,8 +920,7 @@
       "zh": "描写江南水乡，常作“小桥流水人家”，出自马致远《天净沙·秋思》。"
     },
     "synonyms": [
-      "江南水乡",
-      "诗情画意"
+      "江南水乡"
     ],
     "antonyms": [
       "荒山野岭",
@@ -977,16 +966,13 @@
     "synonyms": [
       "成果丰硕",
       "果实累累",
-      "开花结实",
-      "瓜果飘香",
-      "著作等身",
       "五谷丰登",
       "春华秋实"
     ],
     "antonyms": [
       "一无所获",
       "颗粒无收",
-      "付之东流"
+      "付诸东流"
     ]
   },
   {
@@ -1028,9 +1014,7 @@
     "synonyms": [
       "身经百战",
       "久经考验",
-      "饱经风霜",
-      "能征惯战",
-      "久病成良医"
+      "能征惯战"
     ],
     "antonyms": [
       "初出茅庐",
@@ -1049,7 +1033,6 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "positive-character-qualities",
       "exam-favourites",
       "friendship"
     ],

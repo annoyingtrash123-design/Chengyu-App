@@ -36,7 +36,6 @@
       "zh": "常简称“人不可貌相”。斗是量米的器具。"
     },
     "synonyms": [
-      "人不可貌相",
       "深藏不露"
     ],
     "antonyms": [
@@ -87,9 +86,7 @@
       "树大招风",
       "枪打出头鸟"
     ],
-    "antonyms": [
-      "默默无闻"
-    ]
+    "antonyms": []
   },
   {
     "id": "hua-wu-bai-ri-hong",
@@ -150,7 +147,7 @@
     "literal": "rabbit · not · eat · burrow · side · grass",
     "natural": "A rabbit doesn't eat the grass beside its own burrow",
     "meaning": {
-      "en": "A decent person doesn't prey on neighbours or those close to them.",
+      "en": "Even rogues don't prey on their own neighbours.",
       "zh": "兔子不吃自己窝旁边的草，比喻坏人也不在家门口做坏事。"
     },
     "equivalents": [
@@ -181,12 +178,10 @@
     "text": "一寸光阴一寸金",
     "pinyin": "yī cùn guāng yīn yī cùn jīn",
     "variants": [
-      "一寸光阴一寸金，寸金难买寸光阴",
-      "寸金难买寸光阴"
+      "一寸光阴一寸金，寸金难买寸光阴"
     ],
     "variant_kinds": {
-      "一寸光阴一寸金，寸金难买寸光阴": "full",
-      "寸金难买寸光阴": "short"
+      "一寸光阴一寸金，寸金难买寸光阴": "full"
     },
     "kind": "suyu",
     "frequency": 2,
@@ -360,9 +355,7 @@
       "en": "Polite phrase when offering a modest gift; often shortened to the second half.",
       "zh": "送礼时的客套话，常只说后半。"
     },
-    "synonyms": [
-      "礼轻情意重"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -486,9 +479,7 @@
       "en": "Often quoted in full, but also shortened to 踏破铁鞋无觅处. Said with delight at a lucky find.",
       "zh": "常整句引用，有时只说上半句，表示意外之喜。"
     },
-    "synonyms": [
-      "得来全不费工夫"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -527,12 +518,9 @@
       "en": "Used in mild reproach; frequently addressed to someone complaining.",
       "zh": "多用于轻微责备，常对抱怨的人说。"
     },
-    "synonyms": [
-      "不知好歹"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "知足常乐",
-      "饮水思源"
+      "知足常乐"
     ]
   },
   {
@@ -700,7 +688,8 @@
     "synonyms": [
       "敢作敢当",
       "一肩承担",
-      "好汉做事好汉当"
+      "好汉做事好汉当",
+      "冤有头，债有主"
     ],
     "antonyms": [
       "推卸责任",
@@ -784,7 +773,7 @@
       "zh": "常用来推脱责任或要求公平，戏剧中常见。"
     },
     "synonyms": [
-      "事出有因"
+      "一人做事一人当"
     ],
     "antonyms": [
       "殃及池鱼"
@@ -827,8 +816,8 @@
       "zh": "用来强调防范，万一指意外的情况。"
     },
     "synonyms": [
-      "有备无患",
-      "防患于未然"
+      "防患于未然",
+      "有备无患"
     ],
     "antonyms": [
       "麻痹大意"
@@ -886,7 +875,8 @@
     "register": "casual",
     "themes": [
       "natural-consequences",
-      "relative-measurements"
+      "relative-measurements",
+      "wisdom"
     ],
     "literal": "one · thing · subdue · one · thing",
     "natural": "One thing subdues another",
@@ -914,11 +904,16 @@
     },
     "synonyms": [
       "相生相克",
-      "卤水点豆腐——一物降一物",
-      "石膏点豆腐——一物降一物",
-      "恶人自有恶人磨"
+      "恶人自有恶人磨",
+      "一山还有一山高"
     ],
-    "antonyms": []
+    "antonyms": [
+      "天下无敌",
+      "无人能敌"
+    ],
+    "variants": [
+      "卤水点豆腐——一物降一物"
+    ]
   },
   {
     "id": "shao-nian-fu-qi-lao-lai-ban",
@@ -998,8 +993,7 @@
       "zh": "常与“马瘦毛长”对举，表示贫穷而有骨气。"
     },
     "synonyms": [
-      "贫贱不移",
-      "安贫乐道"
+      "富贵不能淫，贫贱不能移，威武不能屈"
     ],
     "antonyms": [
       "人穷志短"
@@ -1045,12 +1039,17 @@
       "zh": "多指为众人所憎恨的坏人坏事，含贬义。"
     },
     "synonyms": [
-      "人人喊打",
       "千夫所指"
     ],
     "antonyms": [
       "人人称颂"
-    ]
+    ],
+    "variants": [
+      "人人喊打"
+    ],
+    "variant_kinds": {
+      "人人喊打": "short"
+    }
   },
   {
     "id": "jiang-hai-shi-lao-de-la",
@@ -1079,7 +1078,7 @@
     ],
     "examples": [
       {
-        "zh": "年轻人冲劲足，但还是姜还是老的辣，关键时刻得请老师傅出马。",
+        "zh": "年轻人冲劲足，可姜还是老的辣，关键时刻得请老师傅出马。",
         "en": "Young people have drive, but ginger is always spiciest when old; in a crunch we need the old master."
       },
       {
@@ -1094,9 +1093,7 @@
     "synonyms": [
       "老谋深算",
       "老马识途",
-      "不听老人言，吃亏在眼前",
-      "属生姜的——越老越辣",
-      "家有一老，如有一宝"
+      "属生姜的——越老越辣"
     ],
     "antonyms": [
       "初生牛犊不怕虎"

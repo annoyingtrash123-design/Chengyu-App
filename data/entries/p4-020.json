@@ -174,12 +174,13 @@
     "text": "必经之路",
     "pinyin": "bì jīng zhī lù",
     "kind": "phrase",
-    "frequency": 2,
+    "frequency": 1,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "daily",
-      "journeys-and-exploration"
+      "journeys-and-exploration",
+      "news-and-officialese"
     ],
     "literal": "must · pass · of · road",
     "natural": "the road one must pass through",
@@ -207,10 +208,14 @@
     },
     "synonyms": [
       "唯一通道",
-      "咽喉要道"
+      "咽喉要道",
+      "大势所趋"
     ],
     "antonyms": [
-      "旁门左道"
+      "独辟蹊径"
+    ],
+    "variants": [
+      "必由之路"
     ]
   },
   {
@@ -256,9 +261,9 @@
       "呜呼哀哉"
     ],
     "antonyms": [
-      "起死回生",
       "死里逃生",
       "死而复生",
+      "起死回生",
       "一息尚存"
     ]
   },
@@ -311,12 +316,10 @@
       "zh": "多作谓语、状语；表示民众拥护；“食”读sì。"
     },
     "synonyms": [
-      "夹道欢迎",
-      "众望所归"
+      "夹道欢迎"
     ],
     "antonyms": [
-      "怨声载道",
-      "民不聊生"
+      "怨声载道"
     ]
   },
   {
@@ -357,13 +360,11 @@
       "zh": "多作谓语；贬义，本指弱小政权，今也指缺乏进取心；“隅”读yú。"
     },
     "synonyms": [
-      "苟且偷安",
-      "画地为牢"
+      "苟且偷安"
     ],
     "antonyms": [
       "一统天下",
       "开疆拓土",
-      "南征北战",
       "逐鹿中原",
       "问鼎中原",
       "反攻大陆",
@@ -371,7 +372,8 @@
       "囊括四海",
       "击楫中流",
       "席卷天下",
-      "并吞八荒"
+      "并吞八荒",
+      "南征北战"
     ]
   },
   {
@@ -412,11 +414,9 @@
       "zh": "多作谓语、状语；中性，略带圆通；也用于艺术上“似与不似”之间。"
     },
     "synonyms": [
-      "若即若离",
-      "进退有度"
+      "若即若离"
     ],
     "antonyms": [
-      "形影不离",
       "亲密无间"
     ]
   },
@@ -520,8 +520,8 @@
       "回眸一笑"
     ],
     "antonyms": [
-      "怒目而视",
-      "愁眉苦脸"
+      "愁眉苦脸",
+      "怒目而视"
     ]
   },
   {
@@ -573,12 +573,12 @@
       "zh": "多用“是可忍，孰不可忍”；愤慨的反问；“孰”是疑问代词。"
     },
     "synonyms": [
-      "忍无可忍",
-      "岂有此理"
+      "岂有此理",
+      "忍无可忍"
     ],
     "antonyms": [
-      "逆来顺受",
-      "忍气吞声"
+      "忍气吞声",
+      "逆来顺受"
     ]
   },
   {
@@ -733,7 +733,8 @@
       "character",
       "negative-character-flaws",
       "attitude-humble-vs-arrogant",
-      "confucian-classics"
+      "confucian-classics",
+      "solitude-and-isolation"
     ],
     "literal": "refuse · people · thousand · miles",
     "natural": "keep people a thousand miles away",
@@ -774,7 +775,9 @@
       "冷若冰霜",
       "敬而远之",
       "拒之门外",
-      "冷眼相待"
+      "冷眼相待",
+      "下逐客令",
+      "杜门谢客"
     ],
     "antonyms": [
       "平易近人",
@@ -782,9 +785,17 @@
       "有求必应",
       "宾至如归",
       "吐哺握发",
-      "周公吐哺",
-      "三顾频烦"
-    ]
+      "三顾频烦",
+      "三顾茅庐",
+      "周公吐哺"
+    ],
+    "variants": [
+      "拒人于千里之外",
+      "距人于千里之外"
+    ],
+    "variant_kinds": {
+      "拒人于千里之外": "full"
+    }
   },
   {
     "id": "mao-ku-hao-zi",
@@ -880,8 +891,8 @@
     },
     "synonyms": [
       "金碧辉煌",
-      "亭台楼阁",
-      "仙山琼阁"
+      "仙山琼阁",
+      "亭台楼阁"
     ],
     "antonyms": [
       "茅屋草舍",
@@ -937,8 +948,7 @@
       "zh": "多作定语、宾语；书面语，略带轻视；也是周密笔记之名。"
     },
     "synonyms": [
-      "道听途说",
-      "街谈巷议"
+      "道听途说"
     ],
     "antonyms": [
       "确凿证据",
@@ -1055,8 +1065,8 @@
       "精益求精"
     ],
     "antonyms": [
-      "因循守旧",
-      "每况愈下"
+      "每况愈下",
+      "因循守旧"
     ]
   },
   {
@@ -1096,13 +1106,9 @@
       "en": "Attributive or predicate; praise. 降 is xiáng ('subdue'), not jiàng. Originally Buddhist/Daoist imagery.",
       "zh": "多作定语、谓语；褒义；“降”读xiáng，不读jiàng。"
     },
-    "synonyms": [
-      "翻江倒海",
-      "力能扛鼎"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "手无缚鸡之力",
-      "不堪一击"
+      "手无缚鸡之力"
     ]
   },
   {
@@ -1205,7 +1211,6 @@
       "蹉跎岁月"
     ],
     "antonyms": [
-      "只争朝夕",
       "奋发图强"
     ]
   },

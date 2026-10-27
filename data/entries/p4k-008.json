@@ -59,8 +59,7 @@
     },
     "synonyms": [
       "四方来朝",
-      "万民归心",
-      "门庭若市"
+      "万民归心"
     ],
     "antonyms": [
       "众叛亲离",
@@ -171,7 +170,6 @@
     },
     "synonyms": [
       "爱岗敬业",
-      "团结协作",
       "勤勤恳恳"
     ],
     "antonyms": [
@@ -221,7 +219,6 @@
     },
     "synonyms": [
       "尴尬不已",
-      "手足无措",
       "丑态百出"
     ],
     "antonyms": [
@@ -289,8 +286,8 @@
       "字字珠玑"
     ],
     "antonyms": [
-      "言之无物",
-      "文理不通"
+      "文理不通",
+      "言之无物"
     ]
   },
   {
@@ -385,13 +382,11 @@
     },
     "synonyms": [
       "子承父业",
-      "承前启后",
-      "继往开来",
       "肯堂肯构"
     ],
     "antonyms": [
-      "数典忘祖",
-      "不肖子孙"
+      "不肖子孙",
+      "数典忘祖"
     ]
   },
   {
@@ -437,8 +432,7 @@
     },
     "synonyms": [
       "无济于事",
-      "纸上谈兵",
-      "坐而论道"
+      "纸上谈兵"
     ],
     "antonyms": [
       "言出必行",
@@ -540,9 +534,7 @@
       "zh": "作谓语、状语，带幽默或略含贬义。"
     },
     "synonyms": [
-      "滔滔不绝",
-      "眉飞色舞",
-      "侃侃而谈"
+      "滔滔不绝"
     ],
     "antonyms": [
       "沉默寡言",
@@ -643,8 +635,7 @@
     },
     "synonyms": [
       "恩怨分明",
-      "爱憎分明",
-      "仗剑江湖"
+      "爱憎分明"
     ],
     "antonyms": [
       "忍气吞声",
@@ -745,11 +736,9 @@
       "zh": "作谓语、名词，含贬义，指攻击者。与“蜀犬吠日”形式相近，但本条强调“狂”。"
     },
     "synonyms": [
-      "蚍蜉撼树",
       "螳臂当车"
     ],
     "antonyms": [
-      "明察秋毫",
       "虚怀若谷"
     ]
   },
@@ -805,11 +794,7 @@
       "en": "Predicate; literary and sincere; originally one of the three levels of learning in the Zhongyong (生知安行, 学知利行, 困知勉行).",
       "zh": "作谓语，书面语。出自《中庸》三种境界：生知安行、学知利行、困知勉行。"
     },
-    "synonyms": [
-      "发愤图强",
-      "勤学苦练",
-      "艰苦奋斗"
-    ],
+    "synonyms": [],
     "antonyms": [
       "生而知之",
       "天资聪颖"
@@ -828,10 +813,9 @@
     "register": "literary",
     "themes": [
       "positive-character-qualities",
-      "appearance",
       "exam-favourites"
     ],
-    "literal": "orchid · nature · thoroughwort · heart",
+    "literal": "thoroughwort · nature · orchid · heart",
     "natural": "with an orchid nature and a fragrant heart",
     "meaning": {
       "en": "Of a woman: pure, gentle and refined in character; elegant and intelligent.",
@@ -873,14 +857,14 @@
     "text": "老少咸宜",
     "pinyin": "lǎo shào xián yí",
     "variants": [
-      "老幼咸宜"
+      "老幼咸宜",
+      "老少皆宜"
     ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "useful-tools-and-skill",
       "exam-favourites"
     ],
     "literal": "old · young · all · suitable",
@@ -1066,8 +1050,7 @@
     },
     "synonyms": [
       "力所不及",
-      "无能为力",
-      "才疏学浅"
+      "无能为力"
     ],
     "antonyms": [
       "游刃有余",
@@ -1124,16 +1107,16 @@
       "惶恐不安"
     ],
     "antonyms": [
-      "泰然自若",
-      "无所畏惧"
+      "无所畏惧",
+      "泰然自若"
     ]
   },
   {
     "id": "liang-gong-xin-ku",
-    "text": "良工苦心",
+    "text": "良工心苦",
     "pinyin": "liáng gōng kǔ xīn",
     "variants": [
-      "良工心苦"
+      "良工苦心"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -1143,7 +1126,7 @@
       "master-craftsmanship",
       "exam-favourites"
     ],
-    "literal": "fine · craftsman · heart · bitter",
+    "literal": "fine · craftsman · bitter · heart",
     "natural": "a fine craftsman toils hard in his heart",
     "meaning": {
       "en": "A true master pours great painstaking effort into his work, though it is rarely seen.",
@@ -1177,8 +1160,7 @@
       "惨淡经营"
     ],
     "antonyms": [
-      "敷衍了事",
-      "粗制滥造"
+      "敷衍了事"
     ]
   }
 ]

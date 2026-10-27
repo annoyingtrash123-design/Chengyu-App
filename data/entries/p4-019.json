@@ -43,6 +43,9 @@
     "antonyms": [
       "直言不讳",
       "和盘托出"
+    ],
+    "variants": [
+      "支吾其辞"
     ]
   },
   {
@@ -198,13 +201,10 @@
       "en": "Mostly in the pair 福无双至，祸不单行. Often used with resignation. Not a rigid rule; people also say 双喜临门 for double joys.",
       "zh": "多与“祸不单行”连用，常带无奈；反面可说“双喜临门”。"
     },
-    "synonyms": [
-      "好事多磨"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "双喜临门",
       "喜上加喜",
-      "祸福相依"
+      "双喜临门"
     ]
   },
   {
@@ -259,7 +259,7 @@
     "themes": [
       "conduct",
       "confucian-classics",
-      "fairness-and-impartiality"
+      "public-opinion"
     ],
     "literal": "ten · eyes · that · watch",
     "natural": "what ten eyes watch",
@@ -297,11 +297,10 @@
       "zh": "多用于整句“十目所视，十手所指，其严乎”，劝人慎独。"
     },
     "synonyms": [
-      "众目睽睽",
-      "千夫所指"
+      "众目睽睽"
     ],
     "antonyms": [
-      "暗度陈仓"
+      "神不知鬼不觉"
     ]
   },
   {
@@ -352,14 +351,11 @@
       "en": "Predicate or quoted line, normally paired with 黄钟毁弃. Criticises a world that rewards mediocrity.",
       "zh": "多作谓语或引用，常与“黄钟毁弃”连用，批评庸才得势。"
     },
-    "synonyms": [
-      "鱼目混珠",
-      "良莠不分"
-    ],
+    "synonyms": [],
     "antonyms": [
       "怀才得遇",
-      "人尽其才",
-      "黄钟大吕"
+      "黄钟大吕",
+      "人尽其才"
     ]
   },
   {
@@ -412,67 +408,11 @@
       "zh": "多作谓语；赞美公而忘私，多指公职或救灾。"
     },
     "synonyms": [
-      "公而忘私",
-      "废寝忘食"
+      "公而忘私"
     ],
     "antonyms": [
-      "因私废公",
-      "自私自利"
+      "因私废公"
     ]
-  },
-  {
-    "id": "zai-zhou-fu-zhou",
-    "text": "载舟覆舟",
-    "pinyin": "zài zhōu fù zhōu",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "society",
-      "public-opinion",
-      "confucian-classics"
-    ],
-    "literal": "carry · boat · overturn · boat",
-    "natural": "carry the boat, overturn the boat",
-    "meaning": {
-      "en": "The people can support a ruler or bring him down, as water can carry or capsize a boat.",
-      "zh": "水能载船也能翻船，比喻民众既能拥护统治者，也能推翻统治者。"
-    },
-    "equivalents": [
-      "the people can make or break a ruler",
-      "water floats and sinks a boat"
-    ],
-    "examples": [
-      {
-        "zh": "载舟覆舟，民心向背决定成败，政府要重视民意。",
-        "en": "Like water that carries or capsizes a boat, the people decide success or failure; governments must heed public opinion."
-      },
-      {
-        "zh": "载舟覆舟的道理，企业经营者也应该明白。",
-        "en": "Business leaders too should understand that customers can carry or sink a company."
-      }
-    ],
-    "origin": {
-      "source": "《荀子·哀公》",
-      "story": {
-        "en": "Xunzi: the ruler is the boat, the people the water; 'water carries the boat and water overturns the boat'.",
-        "zh": "《荀子》：“君者，舟也；庶人者，水也。水则载舟，水则覆舟。”"
-      },
-      "date": {
-        "zh": "战国晚期 · 前3世纪",
-        "en": "late Warring States, 3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "Predicate or quoted maxim, usually 水能载舟，亦能覆舟. Warns leaders to respect the public.",
-      "zh": "多作谓语或引用，常说“水能载舟，亦能覆舟”，提醒当政者重视民众。"
-    },
-    "synonyms": [
-      "人心向背",
-      "水能载舟，亦能覆舟"
-    ],
-    "antonyms": []
   },
   {
     "id": "wang-guo-zhi-yin",
@@ -484,8 +424,8 @@
     "register": "literary",
     "themes": [
       "society",
-      "poor-planning-and-hasty-decisions",
-      "confucian-classics"
+      "confucian-classics",
+      "arts"
     ],
     "literal": "ruin · state · of · music",
     "natural": "music of a ruined state",
@@ -580,12 +520,11 @@
       "zh": "多作引用语，带讽刺；“鄙”指目光短浅。"
     },
     "synonyms": [
-      "鼠目寸光",
-      "目光如豆"
+      "鼠目寸光"
     ],
     "antonyms": [
-      "远见卓识",
-      "深谋远虑"
+      "深谋远虑",
+      "远见卓识"
     ]
   },
   {
@@ -641,8 +580,8 @@
       "清白无瑕"
     ],
     "antonyms": [
-      "同流合污",
-      "心怀鬼胎"
+      "心怀鬼胎",
+      "同流合污"
     ]
   },
   {
@@ -683,12 +622,9 @@
       "zh": "多作状语，后接肯定的预测；偏书面，语气乐观。"
     },
     "synonyms": [
-      "指日可待",
       "水到渠成"
     ],
-    "antonyms": [
-      "遥遥无期"
-    ]
+    "antonyms": []
   },
   {
     "id": "wang-feng-pi-mi",
@@ -778,64 +714,8 @@
       "光明正大"
     ],
     "antonyms": [
-      "歪门邪道",
-      "歪风邪气"
-    ]
-  },
-  {
-    "id": "hu-shu-bu-du",
-    "text": "户枢不蠹",
-    "pinyin": "hù shū bù dù",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "health",
-      "wisdom"
-    ],
-    "literal": "door · pivot · not · wormed",
-    "natural": "a door hinge never gets wormy",
-    "meaning": {
-      "en": "A door pivot that is always turning never rots; things that keep moving stay healthy.",
-      "zh": "经常转动的门轴不会被虫蛀，比喻经常运动的事物不易受侵蚀。"
-    },
-    "equivalents": [
-      "use it or lose it",
-      "keep moving to stay healthy"
-    ],
-    "examples": [
-      {
-        "zh": "流水不腐，户枢不蠹，老年人更要多活动。",
-        "en": "Running water never stagnates and a turning hinge never rots; older people especially should keep active."
-      },
-      {
-        "zh": "户枢不蠹，企业只有不断创新才有活力。",
-        "en": "A busy hinge doesn't rot; companies stay vital only by innovating."
-      }
-    ],
-    "origin": {
-      "source": "《吕氏春秋·尽数》",
-      "story": {
-        "en": "The Annals of Lü Buwei: 'Running water does not stagnate; a door pivot is not worm-eaten, because they move.'",
-        "zh": "《吕氏春秋》：“流水不腐，户枢不蠹，动也。”"
-      },
-      "date": {
-        "zh": "秦 · 约前239年",
-        "en": "Qin dynasty, c. 239 BC"
-      }
-    },
-    "usage": {
-      "en": "Usually in 流水不腐，户枢不蠹; supports exercise and constant change. 蠹 is dù.",
-      "zh": "多与“流水不腐”并用，提倡运动、不断变化；“蠹”读dù。"
-    },
-    "synonyms": [
-      "流水不腐，户枢不蠹",
-      "生命在于运动"
-    ],
-    "antonyms": [
-      "坐吃山空",
-      "停滞不前"
+      "歪风邪气",
+      "歪门邪道"
     ]
   },
   {
@@ -892,8 +772,7 @@
       "人生在勤，勤则不匮"
     ],
     "antonyms": [
-      "荒废学业",
-      "不学无术"
+      "荒废学业"
     ]
   },
   {
@@ -1008,7 +887,6 @@
       "荡气回肠"
     ],
     "antonyms": [
-      "平淡无奇",
       "索然无味"
     ]
   },
@@ -1049,7 +927,6 @@
       "zh": "作名词性成分；贬义；“亡命”有逃亡与拼命两义。"
     },
     "synonyms": [
-      "穷凶极恶",
       "不逞之徒"
     ],
     "antonyms": [
@@ -1096,8 +973,6 @@
     },
     "synonyms": [
       "认贼作父",
-      "数典忘祖",
-      "丧权辱国",
       "里通外国"
     ],
     "antonyms": [
@@ -1106,11 +981,9 @@
       "忠君爱国",
       "不做亡国奴",
       "报效祖国",
-      "外争主权，内除国贼",
       "苏武牧羊",
       "断头将军",
       "为国捐躯",
-      "驱逐胡虏，恢复中华",
       "以身许国",
       "公忠体国",
       "啮雪吞毡",
@@ -1129,8 +1002,7 @@
     "register": "casual",
     "themes": [
       "daily",
-      "poverty-and-hardship",
-      "simple-or-poor-clothing"
+      "poverty-and-hardship"
     ],
     "literal": "purse · inside · shy · rough",
     "natural": "too ashamed to open one's purse",
@@ -1204,10 +1076,10 @@
     },
     "synonyms": [],
     "antonyms": [
-      "寿终正寝",
       "撒手人寰",
       "驾鹤西去",
-      "与世长辞"
+      "与世长辞",
+      "寿终正寝"
     ]
   },
   {
@@ -1256,8 +1128,8 @@
       "力敌万夫"
     ],
     "antonyms": [
-      "不堪一击",
-      "手无缚鸡之力"
+      "手无缚鸡之力",
+      "不堪一击"
     ]
   },
   {
@@ -1310,17 +1182,17 @@
       "情投意合",
       "相安无事",
       "并行不悖",
-      "血肉相连",
       "和睦相处",
       "鱼水深情",
       "和谐共存",
-      "如胶似漆",
-      "相反相成",
       "相辅相成",
-      "蜜里调油",
       "意气相投",
       "和平共处",
       "气味相投",
+      "血肉相连",
+      "如胶似漆",
+      "相反相成",
+      "蜜里调油",
       "磁石引针"
     ]
   }

@@ -36,7 +36,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "百思不解",
+      "百思不得其解",
       "茫然不解",
       "迷惑不解"
     ],
@@ -84,11 +84,10 @@
     "synonyms": [
       "罪大恶极",
       "恶贯满盈",
-      "滔天罪行",
-      "罪恶滔天",
       "伤天害理",
+      "大逆不道",
       "滔天大罪",
-      "大逆不道"
+      "罪恶滔天"
     ],
     "antonyms": [
       "改过自新",
@@ -136,16 +135,14 @@
     },
     "synonyms": [
       "施展抱负",
-      "大有作为",
-      "广阔天地，大有作为",
       "蛟龙得水",
       "鹏程万里",
       "前程万里",
-      "展翅高飞"
+      "大有作为"
     ],
     "antonyms": [
-      "一筹莫展",
       "壮志未酬",
+      "一筹莫展",
       "有心杀贼，无力回天",
       "聊以卒岁"
     ]
@@ -230,10 +227,7 @@
       "en": "Predicate; common in crime reports.",
       "zh": "多作谓语，常见于案件报道。"
     },
-    "synonyms": [
-      "财迷心窍",
-      "贪得无厌"
-    ],
+    "synonyms": [],
     "antonyms": [
       "拾金不昧",
       "见利思义"
@@ -276,7 +270,6 @@
       "zh": "常与“去粗取精”并用。"
     },
     "synonyms": [
-      "深入浅出",
       "追根溯源"
     ],
     "antonyms": [
@@ -324,7 +317,6 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "痛不欲生",
       "呼天抢地",
       "痛心疾首",
       "椎心泣血"
@@ -369,10 +361,7 @@
       "en": "Predicate; related to 捧腹大笑.",
       "zh": "多作谓语，与“捧腹大笑”相关。"
     },
-    "synonyms": [
-      "啼笑皆非",
-      "捧腹大笑"
-    ],
+    "synonyms": [],
     "antonyms": [
       "索然无味",
       "令人落泪"
@@ -449,8 +438,8 @@
         "en": "This tactic helped the team beat its opponent."
       },
       {
-        "zh": "克敌制胜的关键在于出奇不意。",
-        "en": "The key to victory over the enemy is surprise."
+        "zh": "克敌制胜的关键在于出其不意。",
+        "en": "The key to defeating the enemy lies in catching him off guard."
       }
     ],
     "usage": {
@@ -552,8 +541,8 @@
       "zh": "现多含贬义。"
     },
     "synonyms": [
-      "阿谀奉承",
-      "树碑立传"
+      "树碑立传",
+      "阿谀奉承"
     ],
     "antonyms": [
       "针砭时弊",
@@ -571,7 +560,7 @@
     "register": "literary",
     "themes": [
       "excellent-writing",
-      "joy-and-happiness"
+      "emotions"
     ],
     "literal": "move · people · heart · soul",
     "natural": "stirring",
@@ -651,8 +640,8 @@
     "antonyms": [
       "漠不关心",
       "不闻不问",
-      "视若无睹",
-      "置之不理"
+      "置之不理",
+      "视若无睹"
     ]
   },
   {
@@ -668,7 +657,6 @@
     "register": "formal",
     "themes": [
       "military-strategy-and-victory",
-      "stories",
       "exam-favourites"
     ],
     "literal": "avoid · solid · go to · weak",
@@ -698,7 +686,7 @@
     "synonyms": [
       "声东击西",
       "避重就轻",
-      "敌进我退，敌驻我扰，敌疲我打，敌退我追"
+      "扬长避短"
     ],
     "antonyms": [
       "正面交锋",
@@ -741,7 +729,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "络绎不绝",
       "接踵而出"
     ],
     "antonyms": [
@@ -835,17 +822,17 @@
     },
     "synonyms": [
       "绞尽脑汁",
-      "殚精竭虑",
       "左思右想",
       "搜肠刮肚",
       "沉思默想",
-      "搜索枯肠"
+      "搜索枯肠",
+      "殚精竭虑"
     ],
     "antonyms": [
       "不假思索",
-      "脱口而出",
       "七步成诗",
-      "一挥而就"
+      "一挥而就",
+      "脱口而出"
     ]
   },
   {
@@ -935,8 +922,8 @@
       "有条不紊"
     ],
     "antonyms": [
-      "含糊其词",
-      "杂乱无章"
+      "杂乱无章",
+      "含糊其词"
     ]
   },
   {
@@ -1021,56 +1008,11 @@
     },
     "synonyms": [
       "流言蜚语",
-      "风言风语",
-      "言不及义"
+      "风言风语"
     ],
     "antonyms": [
-      "金玉良言",
-      "真知灼见"
-    ]
-  },
-  {
-    "id": "da-ya-zhi-tang",
-    "text": "大雅之堂",
-    "pinyin": "dà yǎ zhī táng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "standards-and-benchmarks",
-      "arts"
-    ],
-    "literal": "great · elegant · 's · hall",
-    "natural": "refined company",
-    "meaning": {
-      "en": "A refined, high-class setting; usually seen as 登不上大雅之堂 (not good enough for it).",
-      "zh": "高雅的场合，常说“难登大雅之堂”。"
-    },
-    "equivalents": [
-      "refined company",
-      "polite society"
-    ],
-    "examples": [
-      {
-        "zh": "这种俗气的玩笑上不了大雅之堂。",
-        "en": "That vulgar joke isn't fit for polite society."
-      },
-      {
-        "zh": "民间小调也能登上大雅之堂。",
-        "en": "Folk tunes can also make it into the concert hall."
-      }
-    ],
-    "usage": {
-      "en": "Mostly in 登不上/难登/登上大雅之堂.",
-      "zh": "多说“难登/登不上/登上大雅之堂”。"
-    },
-    "synonyms": [
-      "高雅场合",
-      "登大雅之堂"
-    ],
-    "antonyms": [
-      "市井之谈"
+      "真知灼见",
+      "金玉良言"
     ]
   },
   {
@@ -1120,7 +1062,6 @@
       "据理力争",
       "刚正不阿",
       "直言极谏",
-      "豪言壮语",
       "面折廷争",
       "犯颜直谏"
     ]
@@ -1135,7 +1076,7 @@
     "register": "formal",
     "themes": [
       "mental-clarity",
-      "effective-teaching-methods"
+      "wisdom"
     ],
     "literal": "lift · main rope · hold · collar",
     "natural": "grasp the key points",

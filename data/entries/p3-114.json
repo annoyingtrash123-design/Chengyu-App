@@ -55,8 +55,8 @@
     "register": "formal",
     "themes": [
       "mistakes-and-correction",
-      "confucian-classics",
-      "historical-records"
+      "historical-records",
+      "confucian-classics"
     ],
     "literal": "take · people · as · mirror",
     "natural": "use others as a mirror",
@@ -94,13 +94,11 @@
       "zh": "常与“以铜为镜”“以古为镜”并说。"
     },
     "synonyms": [
-      "见贤思齐",
       "引以为戒"
     ],
     "antonyms": [
       "自以为是",
-      "一意孤行",
-      "以己度人"
+      "一意孤行"
     ]
   },
   {
@@ -145,16 +143,12 @@
       "移祸江东",
       "以邻为壑",
       "借刀杀人",
-      "小偷报警——贼喊捉贼",
       "诿过于人"
     ],
     "antonyms": [
-      "自食其果",
       "一人做事一人当",
-      "搬起石头砸自己的脚——自作自受",
-      "迎风吐唾沫——自作自受",
-      "代人受过",
-      "解铃还须系铃人"
+      "自食其果",
+      "代人受过"
     ]
   },
   {
@@ -194,12 +188,11 @@
       "zh": "多作谓语，口语，带批评意味。"
     },
     "synonyms": [
-      "要死要活",
-      "呼天抢地"
+      "要死要活"
     ],
     "antonyms": [
-      "泰然自若",
-      "若无其事"
+      "若无其事",
+      "泰然自若"
     ]
   },
   {
@@ -214,7 +207,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "fleeting-time",
       "love-and-marriage"
     ],
     "literal": "earth · age · heaven · desolate",
@@ -286,10 +278,7 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "穿针引线",
-      "得心应手"
-    ],
+    "synonyms": [],
     "antonyms": [
       "笨手笨脚"
     ]
@@ -331,7 +320,6 @@
       "zh": "多作谓语、定语。“好”读 hào。"
     },
     "synonyms": [
-      "争强好胜",
       "横行霸道"
     ],
     "antonyms": [
@@ -348,7 +336,7 @@
       "一枕黄粱"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -392,9 +380,9 @@
     },
     "synonyms": [
       "南柯一梦",
-      "镜花水月",
       "白日做梦",
-      "一场春梦"
+      "一场春梦",
+      "镜花水月"
     ],
     "antonyms": [
       "美梦成真",
@@ -447,8 +435,8 @@
     "antonyms": [
       "国泰民安",
       "太平盛世",
-      "多难兴邦",
-      "民殷国富"
+      "民殷国富",
+      "多难兴邦"
     ]
   },
   {
@@ -547,14 +535,9 @@
       "zh": "常说“如泰山压顶”“泰山压顶之势”。"
     },
     "synonyms": [
-      "排山倒海",
-      "山雨欲来风满楼"
+      "排山倒海"
     ],
-    "antonyms": [
-      "不堪一击",
-      "轻于鸿毛",
-      "以卵击石"
-    ]
+    "antonyms": []
   },
   {
     "id": "jing-kong-wan-zhuang",
@@ -741,13 +724,9 @@
       "zh": "常与“动之以情”并用。"
     },
     "synonyms": [
-      "晓之以理",
-      "循循善诱"
+      "晓之以理"
     ],
-    "antonyms": [
-      "置之不理",
-      "听之任之"
-    ]
+    "antonyms": []
   },
   {
     "id": "bin-ke-ying-men",
@@ -888,9 +867,7 @@
       "衣食住行",
       "柴米油盐"
     ],
-    "antonyms": [
-      "衣不蔽体"
-    ]
+    "antonyms": []
   },
   {
     "id": "fen-jin-he-ji",
@@ -949,7 +926,6 @@
     "register": "neutral",
     "themes": [
       "artistic-mediocrity",
-      "poor-workmanship",
       "often-misused",
       "buddhist-origin"
     ],
@@ -987,7 +963,6 @@
       "文采飞扬",
       "色香味俱全",
       "唇齿留香",
-      "闻韶忘味",
       "乐在其中",
       "意犹未尽",
       "妙笔生花",
@@ -995,7 +970,8 @@
       "百读不厌",
       "精彩绝伦",
       "回味无穷",
-      "绘声绘色"
+      "绘声绘色",
+      "闻韶忘味"
     ]
   }
 ]

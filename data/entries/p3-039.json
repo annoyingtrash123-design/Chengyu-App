@@ -44,8 +44,8 @@
       "壶中日月"
     ],
     "antonyms": [
-      "一览无余",
-      "平淡无奇"
+      "平淡无奇",
+      "一览无余"
     ]
   },
   {
@@ -134,14 +134,9 @@
       "zh": "多用作剧名或典故。"
     },
     "synonyms": [
-      "生离死别",
-      "英雄末路",
-      "乌江自刎"
+      "英雄末路"
     ],
-    "antonyms": [
-      "破镜重圆",
-      "久别重逢"
-    ]
+    "antonyms": []
   },
   {
     "id": "tian-xuan-di-zhuan",
@@ -186,8 +181,7 @@
       "头晕眼花"
     ],
     "antonyms": [
-      "神清气爽",
-      "安然无恙"
+      "神清气爽"
     ]
   },
   {
@@ -234,8 +228,7 @@
     ],
     "antonyms": [
       "循规蹈矩",
-      "平淡无奇",
-      "语不惊人"
+      "平淡无奇"
     ]
   },
   {
@@ -249,7 +242,8 @@
     "themes": [
       "journeys-and-exploration",
       "poems-prose",
-      "landscapes"
+      "landscapes",
+      "famous-quotes"
     ],
     "literal": "winding · path · leads to · secluded",
     "natural": "a winding path to seclusion",
@@ -288,12 +282,11 @@
     },
     "synonyms": [
       "别有洞天",
-      "世外桃源",
-      "羊肠小道"
+      "世外桃源"
     ],
     "antonyms": [
-      "一马平川",
-      "一览无余"
+      "一览无余",
+      "一马平川"
     ]
   },
   {
@@ -306,7 +299,8 @@
     "register": "casual",
     "themes": [
       "apprenticeship-and-learning",
-      "change"
+      "change",
+      "buddhist-origin"
     ],
     "literal": "halfway · road · leave · home",
     "natural": "switch careers midway",
@@ -334,8 +328,7 @@
       "zh": "常作定语。"
     },
     "synonyms": [
-      "中途改行",
-      "改弦易辙"
+      "中途改行"
     ],
     "antonyms": [
       "科班出身",
@@ -382,12 +375,9 @@
     "synonyms": [
       "平民百姓",
       "普罗大众",
-      "大千世界",
-      "愚夫愚妇",
       "一切众生",
-      "阿猫阿狗",
       "凡夫俗子",
-      "张王李赵"
+      "愚夫愚妇"
     ],
     "antonyms": [
       "英雄豪杰",
@@ -404,7 +394,8 @@
     "register": "neutral",
     "themes": [
       "excellent-writing",
-      "effective-teaching-methods"
+      "reading-and-study",
+      "wisdom"
     ],
     "literal": "again and again · weigh · push and knock",
     "natural": "weigh it over and over",
@@ -491,11 +482,7 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "炉火纯青",
-      "融会贯通",
-      "破门而入"
-    ],
+    "synonyms": [],
     "antonyms": [
       "初窥门径"
     ]
@@ -509,8 +496,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "difficult-terrain",
-      "journeys-and-exploration"
+      "journeys-and-exploration",
+      "landscapes"
     ],
     "literal": "one · horse · flat · river plain",
     "natural": "a vast flat plain",
@@ -538,28 +525,26 @@
     },
     "synonyms": [
       "一望无际",
-      "广袤无垠",
       "坦荡如砥"
     ],
     "antonyms": [
       "崇山峻岭",
       "崎岖不平",
-      "荆棘丛生",
       "山高路险",
       "沟壑纵横",
+      "层峦叠嶂",
+      "千山万壑",
+      "峰回路转",
+      "跋山涉水",
+      "悬崖峭壁",
+      "荆棘丛生",
+      "翻山越岭",
+      "曲径通幽",
       "千岩万壑",
       "龙盘虎踞",
-      "悬崖峭壁",
-      "曲径通幽",
-      "层峦叠嶂",
-      "翻山越岭",
       "壁立千仞",
       "连绵起伏",
-      "千山万壑",
-      "山重水复",
-      "跋山涉水",
-      "千沟万壑",
-      "峰回路转"
+      "千沟万壑"
     ]
   },
   {
@@ -649,11 +634,12 @@
       "死里逃生",
       "劫后余生",
       "虎口余生",
+      "九死一生",
       "福大命大"
     ],
     "antonyms": [
-      "在劫难逃",
-      "命丧黄泉"
+      "命丧黄泉",
+      "在劫难逃"
     ]
   },
   {
@@ -693,15 +679,13 @@
       "zh": "多作定语、谓语。"
     },
     "synonyms": [
-      "财源滚滚",
-      "稳赚不赔",
       "有利可图"
     ],
     "antonyms": [
       "血本无归",
       "亏本生意",
-      "蝇头小利",
-      "偷鸡不着蚀把米"
+      "偷鸡不着蚀把米",
+      "蝇头小利"
     ]
   },
   {
@@ -808,7 +792,7 @@
     "register": "neutral",
     "themes": [
       "high-aspirations",
-      "joy-and-happiness"
+      "effort"
     ],
     "literal": "fighting · spirit · high · soaring",
     "natural": "full of fighting spirit",
@@ -842,9 +826,9 @@
     ],
     "antonyms": [
       "萎靡不振",
-      "一蹶不振",
       "灰心丧气",
-      "泄了气的皮球——一下子就瘪了"
+      "泄了气的皮球——一下子就瘪了",
+      "一蹶不振"
     ]
   },
   {
@@ -887,8 +871,6 @@
       "以权谋私",
       "徇私舞弊",
       "损公肥私",
-      "滥用职权",
-      "公报私仇",
       "中饱私囊"
     ],
     "antonyms": [
@@ -942,14 +924,12 @@
     "synonyms": [
       "养虎遗患",
       "祸根深种",
-      "贻害无穷",
-      "放虎归山"
+      "贻害无穷"
     ],
     "antonyms": [
       "一劳永逸",
       "斩草除根",
-      "一了百了",
-      "前人栽树，后人乘凉"
+      "一了百了"
     ]
   },
   {
@@ -994,13 +974,11 @@
     },
     "synonyms": [
       "离群索居",
-      "我行我素",
       "单枪匹马"
     ],
     "antonyms": [
       "成群结队",
       "形影不离",
-      "狐假虎威",
       "朋友多了路好走",
       "前呼后拥",
       "三五成群"
@@ -1151,7 +1129,6 @@
     },
     "synonyms": [
       "引经据典",
-      "博古通今",
       "援古证今"
     ],
     "antonyms": [
@@ -1197,7 +1174,6 @@
       "zh": "多作宾语，常说“费了九牛二虎之力”。"
     },
     "synonyms": [
-      "千辛万苦",
       "费尽周折"
     ],
     "antonyms": [
@@ -1243,11 +1219,9 @@
       "zh": "多作时间状语。"
     },
     "synonyms": [
-      "三五个月",
-      "一时半会"
+      "三五个月"
     ],
     "antonyms": [
-      "一朝一夕",
       "十年二十年"
     ]
   }

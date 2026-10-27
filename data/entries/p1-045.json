@@ -12,7 +12,6 @@
     "register": "neutral",
     "themes": [
       "outstanding-success-and-fame",
-      "political-corruption",
       "festive-greetings",
       "exam-favourites"
     ],
@@ -50,8 +49,8 @@
       "丢官罢职",
       "削职为民",
       "着即革职",
-      "李广难封",
-      "革职查办"
+      "革职查办",
+      "李广难封"
     ]
   },
   {
@@ -97,8 +96,11 @@
       "步步紧逼"
     ],
     "antonyms": [
-      "秋毫无犯",
-      "完璧归赵"
+      "完璧归赵",
+      "秋毫无犯"
+    ],
+    "variants": [
+      "鲸吞蚕食"
     ]
   },
   {
@@ -268,9 +270,8 @@
     },
     "synonyms": [
       "形单影只",
-      "孤苦伶仃",
       "孑然一身",
-      "外无期功强近之亲，内无应门五尺之僮，茕茕孑立，形影相吊"
+      "孤苦伶仃"
     ],
     "antonyms": [
       "成双成对",
@@ -337,66 +338,6 @@
     ]
   },
   {
-    "id": "rao-liang-san-ri",
-    "text": "绕梁三日",
-    "pinyin": "rào liáng sān rì",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "arts",
-      "excellent-acting",
-      "daoist-classics",
-      "exam-favourites"
-    ],
-    "literal": "circle · beam · three · days",
-    "natural": "Circling the rafters for three days",
-    "meaning": {
-      "en": "(Of music) so beautiful it lingers for days.",
-      "zh": "形容歌声优美，余音长久不绝。"
-    },
-    "equivalents": [
-      "haunting",
-      "linger in the memory",
-      "unforgettable"
-    ],
-    "examples": [
-      {
-        "zh": "她的歌声绕梁三日，令人难忘。",
-        "en": "Her singing lingers in the memory for days."
-      },
-      {
-        "zh": "这场音乐会真是绕梁三日。",
-        "en": "The concert was truly haunting."
-      }
-    ],
-    "origin": {
-      "source": "《列子·汤问》",
-      "story": {
-        "en": "After the singer Han E left Qi, her lingering notes circled the rafters and did not stop for three days.",
-        "zh": "韩娥过齐国卖唱，离开后\"余音绕梁欐，三日不绝\"。"
-      },
-      "date": {
-        "zh": "东晋 · 4世纪",
-        "en": "Eastern Jin, 4th c."
-      }
-    },
-    "usage": {
-      "en": "Predicate. Close to 余音绕梁.",
-      "zh": "多作谓语。"
-    },
-    "synonyms": [
-      "余音绕梁",
-      "不绝于耳",
-      "余音袅袅"
-    ],
-    "antonyms": [
-      "不堪入耳",
-      "戛然而止"
-    ]
-  },
-  {
     "id": "hun-shen-shi-dan",
     "text": "浑身是胆",
     "pinyin": "hún shēn shì dǎn",
@@ -451,15 +392,15 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "胆大包天",
       "英勇无畏",
-      "无所畏惧"
+      "无所畏惧",
+      "胆大包天"
     ],
     "antonyms": [
       "胆小如鼠",
       "贪生怕死",
-      "畏首畏尾",
-      "缩头乌龟"
+      "缩头乌龟",
+      "畏首畏尾"
     ]
   },
   {
@@ -476,7 +417,8 @@
     "themes": [
       "relationships",
       "nature",
-      "poems-prose"
+      "poems-prose",
+      "filial-piety"
     ],
     "literal": "inch · grass · spring · sunshine",
     "natural": "A blade of grass and the spring sunshine",
@@ -514,8 +456,7 @@
       "zh": "多作主语、宾语。"
     },
     "synonyms": [
-      "恩重如山",
-      "饮水思源"
+      "恩重如山"
     ],
     "antonyms": [
       "忘恩负义"
@@ -564,7 +505,6 @@
     },
     "synonyms": [
       "烟消云散",
-      "冰释前嫌",
       "雨过天晴"
     ],
     "antonyms": [
@@ -629,14 +569,12 @@
       "zh": "多用全句。"
     },
     "synonyms": [
-      "铤而走险",
-      "孤注一掷",
       "富贵险中求",
       "舍不得孩子套不着狼"
     ],
     "antonyms": [
-      "畏首畏尾",
       "知难而退",
+      "畏首畏尾",
       "明哲保身"
     ]
   },
@@ -668,16 +606,16 @@
     ],
     "examples": [
       {
-        "zh": "我们先观察形势，相机而动。",
+        "zh": "我们先观察形势，伺机而动。",
         "en": "We'll watch the situation and act when the moment is right."
       },
       {
-        "zh": "投资要相机而动，不能盲目。",
+        "zh": "投资要伺机而动，不能盲目。",
         "en": "Wait for the right moment to invest — don't act blindly."
       }
     ],
     "usage": {
-      "en": "Predicate. 相 is xiàng (observe).",
+      "en": "Predicate. 相机而动 (相 is xiàng, observe) is a variant; 伺机而动 is the more common form today.",
       "zh": "多作谓语。\"相\"读 xiàng。"
     },
     "synonyms": [
@@ -755,12 +693,10 @@
       "打蛇不死，后患无穷"
     ],
     "antonyms": [
-      "斩草除根",
       "除恶务尽",
       "防微杜渐",
-      "杀鸡儆猴",
-      "犁庭扫穴",
-      "宜将剩勇追穷寇，不可沽名学霸王"
+      "宜将剩勇追穷寇，不可沽名学霸王",
+      "斩草除根"
     ]
   },
   {
@@ -858,11 +794,11 @@
     ],
     "examples": [
       {
-        "zh": "孩子对什么都喜欢寻根问底。",
+        "zh": "孩子对什么都喜欢刨根问底。",
         "en": "Children love getting to the bottom of everything."
       },
       {
-        "zh": "记者寻根问底，揭开了真相。",
+        "zh": "记者刨根问底，揭开了真相。",
         "en": "The reporter dug deeper and uncovered the truth."
       }
     ],
@@ -880,8 +816,8 @@
       "浅尝辄止",
       "不求甚解",
       "囫囵吞枣",
-      "存而不论",
-      "蜻蜓点水"
+      "蜻蜓点水",
+      "存而不论"
     ]
   },
   {
@@ -894,7 +830,9 @@
     "register": "neutral",
     "themes": [
       "standards-and-benchmarks",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "outstanding-character",
+      "exam-favourites"
     ],
     "literal": "fierce · fire · reveal · real · gold",
     "natural": "Fierce fire reveals true gold",
@@ -922,11 +860,18 @@
       "zh": "多单独成句。"
     },
     "synonyms": [
-      "疾风知劲草，烈火见真金",
-      "路遥知马力，日久见人心",
-      "真金不怕火炼"
+      "真金不怕火炼",
+      "百炼成钢",
+      "千锤百炼",
+      "路遥知马力，日久见人心"
     ],
-    "antonyms": []
+    "antonyms": [
+      "银样镴枪头",
+      "外强中干"
+    ],
+    "variants": [
+      "烈火真金"
+    ]
   },
   {
     "id": "feng-huang-yu-fei",
@@ -938,7 +883,6 @@
     "register": "literary",
     "themes": [
       "relationships",
-      "festivals-and-celebrations",
       "poems-prose",
       "festive-greetings",
       "wedding-wishes"
@@ -982,7 +926,7 @@
     "synonyms": [
       "天作之合",
       "百年好合",
-      "比翼齐飞",
+      "比翼双飞",
       "鸾凤和鸣"
     ],
     "antonyms": [
@@ -1035,9 +979,9 @@
     ],
     "antonyms": [
       "栋梁之才",
-      "能工巧匠",
       "足智多谋",
       "旷世奇才",
+      "能工巧匠",
       "草莽英雄"
     ]
   },
@@ -1086,14 +1030,11 @@
     "synonyms": [
       "以儆效尤",
       "杀一儆百",
-      "指桑骂槐",
-      "给颜色看",
       "给你点颜色看看",
       "敲山震虎"
     ],
     "antonyms": [
-      "姑息养奸",
-      "养虎遗患"
+      "姑息养奸"
     ]
   },
   {
@@ -1166,9 +1107,9 @@
     "sentiment": "negative",
     "register": "literary",
     "themes": [
-      "political-corruption",
       "conflict-and-strife",
-      "confucian-classics"
+      "confucian-classics",
+      "chaos"
     ],
     "literal": "offend · superior · make · chaos",
     "natural": "Defying superiors and stirring up chaos",
@@ -1209,7 +1150,6 @@
     },
     "synonyms": [
       "大逆不道",
-      "揭竿而起",
       "谋朝篡位"
     ],
     "antonyms": [
@@ -1375,7 +1315,6 @@
       "zh": "多作宾语。"
     },
     "synonyms": [
-      "举世无双",
       "出类拔萃",
       "天纵之才"
     ],

@@ -104,8 +104,7 @@
     },
     "synonyms": [
       "装疯卖傻",
-      "大智若愚",
-      "苍蝇飞进花园里——装疯（蜂）"
+      "大智若愚"
     ],
     "antonyms": [
       "锋芒毕露"
@@ -159,12 +158,9 @@
       "zh": "三十六计第二十八计，作为谋略是中性，日常多指设圈套使人无路可退。"
     },
     "synonyms": [
-      "引君入瓮",
-      "诱敌深入"
+      "引君入瓮"
     ],
-    "antonyms": [
-      "网开一面"
-    ]
+    "antonyms": []
   },
   {
     "id": "shu-shang-kai-hua",
@@ -229,7 +225,7 @@
       "桃园三结义"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -275,8 +271,7 @@
       "zh": "出自《三国演义》第一回，也说“桃园三结义”，形容情同手足的朋友或搭档。"
     },
     "synonyms": [
-      "义结金兰",
-      "情同手足"
+      "义结金兰"
     ],
     "antonyms": [
       "反目成仇"
@@ -287,7 +282,7 @@
     "text": "火烧赤壁",
     "pinyin": "huǒ shāo chì bì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -331,19 +326,16 @@
       "zh": "小说中诸葛亮借东风助火攻成功。多比喻以少胜多、以弱胜强的漂亮仗。"
     },
     "synonyms": [
-      "以少胜多",
       "出奇制胜"
     ],
-    "antonyms": [
-      "一败涂地"
-    ]
+    "antonyms": []
   },
   {
     "id": "da-nao-tian-gong",
     "text": "大闹天宫",
     "pinyin": "dà nào tiān gōng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -387,10 +379,7 @@
       "en": "From 《西游记》 chapters 4 to 7, where Sun Wukong steals the peaches and elixir and fights the heavenly army. Humorous when used of messy, noisy people.",
       "zh": "出自《西游记》第四至七回。用于形容吵闹捣乱，带诙谐口吻。"
     },
-    "synonyms": [
-      "天翻地覆",
-      "兴风作浪"
-    ],
+    "synonyms": [],
     "antonyms": [
       "安分守己"
     ]
@@ -444,8 +433,7 @@
       "zh": "既指关羽的故事，又比喻彻底整治，常见于反腐和整顿的报道。"
     },
     "synonyms": [
-      "壮士断腕",
-      "破釜沉舟"
+      "壮士断腕"
     ],
     "antonyms": [
       "讳疾忌医",
@@ -499,20 +487,15 @@
       "en": "From 《西游记》 chapter 27. The demon appears as a girl, an old woman and an old man; the Tang monk believes the demon, not Wukong, and sends Wukong away. There is also a 歇后语 beginning 孙悟空三打白骨精.",
       "zh": "出自《西游记》第二十七回：白骨精先后变成少女、老妇、老翁，唐僧不辨真伪，反把悟空赶走。另有歇后语“孙悟空三打白骨精”。"
     },
-    "synonyms": [
-      "火眼金睛",
-      "明察秋毫"
-    ],
-    "antonyms": [
-      "有眼无珠"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "xi-tian-qu-jing",
     "text": "西天取经",
     "pinyin": "xī tiān qǔ jīng",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -557,12 +540,9 @@
       "zh": "《西游记》故事以唐代玄奘西行求法为蓝本。多用于远赴他乡拜师求学。"
     },
     "synonyms": [
-      "千里迢迢",
       "历尽艰辛"
     ],
-    "antonyms": [
-      "不求上进"
-    ]
+    "antonyms": []
   },
   {
     "id": "jiu-jiu-ba-shi-yi-nan",
@@ -671,10 +651,7 @@
       "en": "From 《水浒传》 chapter 23: drunk, Wu Song breaks his staff on the tiger and finishes it with his fists. There is also a 歇后语 “武松打虎——艺高人胆大”.",
       "zh": "出自《水浒传》第二十三回，武松醉后在景阳冈用拳打死老虎。另有歇后语“武松打虎——艺高人胆大”。"
     },
-    "synonyms": [
-      "勇冠三军",
-      "力拔山兮气盖世"
-    ],
+    "synonyms": [],
     "antonyms": [
       "胆小如鼠"
     ]
@@ -783,7 +760,6 @@
       "zh": "出自《水浒传》第十六回。“纲”读 gāng，指成批运送的货物。多用于戏称巧计。"
     },
     "synonyms": [
-      "足智多谋",
       "以智取胜"
     ],
     "antonyms": [
@@ -840,8 +816,7 @@
       "zh": "出自《红楼梦》第二十七回，黛玉作《葬花吟》。常用来形容感伤的人，有时带调侃。"
     },
     "synonyms": [
-      "伤春悲秋",
-      "多愁善感"
+      "伤春悲秋"
     ],
     "antonyms": [
       "乐天知命"
@@ -953,7 +928,6 @@
       "zh": "通常写作“既生瑜，何生亮”。多用于调侃强劲的对手，或表达嫉妒。"
     },
     "synonyms": [
-      "一山不容二虎",
       "瑜亮情结"
     ],
     "antonyms": [
@@ -1002,7 +976,7 @@
     },
     "synonyms": [
       "烂泥——扶不上墙",
-      "朽木难雕"
+      "朽木不可雕"
     ],
     "antonyms": [
       "可造之材"
@@ -1057,8 +1031,7 @@
       "zh": "《三国演义》里曹操的名言，概括其奸雄本色。多用来批评自私背信的人。"
     },
     "synonyms": [
-      "损人利己",
-      "唯利是图"
+      "损人利己"
     ],
     "antonyms": [
       "推己及人",
@@ -1107,8 +1080,7 @@
       "zh": "民间流传的“烂柯”故事：樵夫王质观仙人下棋，回家时已历数代。亦作“洞中方七日，世上已千年”。"
     },
     "synonyms": [
-      "天上一日，地下一年",
-      "沧海桑田"
+      "天上一日，地下一年"
     ],
     "antonyms": []
   }

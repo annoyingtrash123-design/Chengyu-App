@@ -54,7 +54,6 @@
     "register": "neutral",
     "themes": [
       "deception-and-false-appearances",
-      "poor-health",
       "historical-records"
     ],
     "literal": "outside · strong · inside · dry",
@@ -96,17 +95,17 @@
       "色厉内荏",
       "虚有其表",
       "羊质虎皮",
-      "虚张声势",
       "练兵也，海军也，都是纸糊的老虎",
       "一切反动派都是纸老虎",
       "张飞卖豆腐——人硬货不硬",
-      "纸老虎——一戳就破"
+      "纸老虎——一戳就破",
+      "虚张声势"
     ],
     "antonyms": [
       "表里如一",
       "名副其实",
       "外柔内刚",
-      "烈火真金"
+      "烈火见真金"
     ]
   },
   {
@@ -147,7 +146,6 @@
     },
     "synonyms": [
       "人头落地",
-      "身败名裂",
       "枭首示众"
     ],
     "antonyms": [
@@ -196,11 +194,11 @@
       "zh": "可作谓语、定语，有时指端庄严肃。"
     },
     "synonyms": [
-      "不苟言笑",
       "拒人千里",
       "冷酷无情",
       "冷眼相待",
-      "寒气逼人"
+      "寒气逼人",
+      "不苟言笑"
     ],
     "antonyms": [
       "热情洋溢",
@@ -372,14 +370,12 @@
       "歪门邪道",
       "邪魔外道",
       "奇技淫巧",
-      "终南捷径",
       "异端邪说"
     ],
     "antonyms": [
       "光明正大",
-      "不二法门",
       "孔孟之道",
-      "必经之路"
+      "不二法门"
     ]
   },
   {
@@ -468,7 +464,6 @@
     },
     "synonyms": [
       "活到老，学到老",
-      "精益求精",
       "怕什么真理无穷，进一寸有一寸的欢喜",
       "师傅领进门，修行在个人",
       "永无止境",
@@ -517,9 +512,9 @@
       "zh": "可作谓语、定语。"
     },
     "synonyms": [
-      "伶牙俐齿",
       "能言善辩",
-      "能说会道"
+      "能说会道",
+      "伶牙俐齿"
     ],
     "antonyms": [
       "笨嘴拙舌",
@@ -562,9 +557,7 @@
       "en": "Noun phrase for a motif or performance.",
       "zh": "作名词性短语，指图案或表演。"
     },
-    "synonyms": [
-      "龙凤呈祥"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -625,15 +618,14 @@
       "以管窥天",
       "夏虫不可以语冰",
       "管窥蠡测",
+      "井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也",
       "井蛙之见"
     ],
     "antonyms": [
-      "见多识广",
       "高瞻远瞩",
       "海阔天空",
       "读万卷书，行万里路",
       "放眼世界",
-      "开阔眼界",
       "走南闯北",
       "大开眼界",
       "山外有山，天外有天"
@@ -681,8 +673,7 @@
     },
     "synonyms": [
       "喜出望外",
-      "天降洪福",
-      "从天而降"
+      "天降洪福"
     ],
     "antonyms": [
       "晴天霹雳",
@@ -740,9 +731,8 @@
       "zh": "作谓语或名词，带希望色彩。"
     },
     "synonyms": [
-      "一步登天",
-      "飞黄腾达",
-      "平步青云"
+      "平步青云",
+      "飞黄腾达"
     ],
     "antonyms": [
       "名落孙山",
@@ -849,7 +839,7 @@
     "id": "qiu-feng-sao-luo-ye",
     "text": "秋风扫落叶",
     "pinyin": "qiū fēng sǎo luò yè",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
@@ -887,8 +877,7 @@
       "霜降杀百草"
     ],
     "antonyms": [
-      "节节败退",
-      "难以为继"
+      "节节败退"
     ]
   },
   {
@@ -932,10 +921,7 @@
       "自我解嘲",
       "差可告慰"
     ],
-    "antonyms": [
-      "耿耿于怀",
-      "忧心忡忡"
-    ]
+    "antonyms": []
   },
   {
     "id": "fan-qiu-zhu-ji",
@@ -1043,13 +1029,9 @@
       "zh": "常说“用调虎离山之计”。"
     },
     "synonyms": [
-      "声东击西",
-      "引蛇出洞"
+      "声东击西"
     ],
-    "antonyms": [
-      "打草惊蛇",
-      "瓮中捉鳖"
-    ]
+    "antonyms": []
   },
   {
     "id": "xue-rou-heng-fei",
@@ -1060,8 +1042,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "danger",
-      "defeat-and-military-failure"
+      "danger"
     ],
     "literal": "blood · flesh · crosswise · fly",
     "natural": "gore flying everywhere",
@@ -1089,12 +1070,11 @@
     },
     "synonyms": [
       "血流成河",
-      "尸横遍野",
-      "惨不忍睹"
+      "尸横遍野"
     ],
     "antonyms": [
-      "风平浪静",
-      "安然无恙"
+      "安然无恙",
+      "风平浪静"
     ]
   },
   {
@@ -1157,8 +1137,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "relaxation-and-rest",
-      "historical-periods"
+      "historical-periods",
+      "farming-and-harvest"
     ],
     "literal": "take off · armour · return to · fields",
     "natural": "retire from the army to farm",
@@ -1193,7 +1173,6 @@
     ],
     "antonyms": [
       "披挂上阵",
-      "东山再起",
       "南征北战",
       "驰骋沙场",
       "整军经武",
@@ -1201,10 +1180,11 @@
       "东征西讨",
       "披坚执锐",
       "戎马生涯",
-      "全民皆兵",
       "投笔从戎",
-      "黄袍加身",
-      "戎马倥偬"
+      "戎马倥偬",
+      "东山再起",
+      "全民皆兵",
+      "黄袍加身"
     ]
   }
 ]

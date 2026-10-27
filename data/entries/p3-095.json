@@ -4,7 +4,7 @@
     "text": "置之死地而后生",
     "pinyin": "zhì zhī sǐ dì ér hòu shēng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -54,9 +54,9 @@
     "synonyms": [
       "破釜沉舟",
       "背水一战",
-      "绝处逢生",
       "多难兴邦",
-      "死中求活"
+      "死中求活",
+      "绝处逢生"
     ],
     "antonyms": [
       "留有后路",
@@ -75,7 +75,6 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "poor-planning-and-hasty-decisions",
       "adaptability"
     ],
     "literal": "ten-thousand · complete · 's · plan",
@@ -292,23 +291,22 @@
       "齐心协力",
       "精诚团结",
       "戮力同心",
-      "笼络人心",
       "上下同欲",
-      "一心一德",
       "万众一心",
       "上下一心",
       "团结一心",
       "和衷共济",
       "众志成城",
-      "天时不如地利，地利不如人和"
+      "笼络人心",
+      "一心一德"
     ]
   },
   {
     "id": "wei-feng-ba-mian",
-    "text": "威风八面",
-    "pinyin": "wēi fēng bā miàn",
+    "text": "八面威风",
+    "pinyin": "bā miàn wēi fēng",
     "variants": [
-      "八面威风"
+      "威风八面"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -318,7 +316,7 @@
       "leadership-and-authority",
       "appearance"
     ],
-    "literal": "might · air · eight · sides",
+    "literal": "eight · sides · might · air",
     "natural": "commanding awe on every side",
     "meaning": {
       "en": "Impressively imposing from every angle.",
@@ -524,8 +522,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "冤冤相报",
-      "如法炮制"
+      "冤冤相报"
     ],
     "antonyms": [
       "以德报怨",
@@ -598,8 +595,7 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "military-strategy-and-victory",
-      "standards-and-benchmarks"
+      "military-strategy-and-victory"
     ],
     "literal": "army · set out · without · justification",
     "natural": "act without justification",
@@ -630,11 +626,11 @@
       "zh": "常用反问。"
     },
     "synonyms": [
-      "无理取闹",
       "名不正，言不顺"
     ],
     "antonyms": [
       "名正言顺",
+      "师出有名",
       "理直气壮"
     ]
   },
@@ -691,14 +687,13 @@
     },
     "synonyms": [
       "助人为乐",
-      "乐善好施",
-      "隐恶扬善"
+      "乐善好施"
     ],
     "antonyms": [
       "落井下石",
-      "幸灾乐祸",
       "从中作梗",
-      "棒打鸳鸯"
+      "棒打鸳鸯",
+      "幸灾乐祸"
     ]
   },
   {
@@ -750,8 +745,8 @@
       "前功尽弃"
     ],
     "antonyms": [
-      "稳操胜券",
-      "大获全胜"
+      "大获全胜",
+      "稳操胜券"
     ]
   },
   {
@@ -800,10 +795,8 @@
       "毫不退让"
     ],
     "antonyms": [
-      "拱手让人",
-      "步步退让",
-      "以空间换时间",
-      "拱手相让"
+      "拱手相让",
+      "步步退让"
     ]
   },
   {
@@ -850,17 +843,18 @@
       "人云亦云",
       "随波逐流",
       "鹦鹉学舌",
-      "鹦鹉学舌——人云亦云",
       "亦步亦趋",
       "一唱百和",
-      "点头称是"
+      "点头称是",
+      "鹦鹉学舌——人云亦云"
     ],
     "antonyms": [
       "独树一帜",
       "独立思考",
       "标新立异",
       "仗义执言",
-      "力排众议"
+      "力排众议",
+      "和而不同"
     ]
   },
   {
@@ -873,7 +867,6 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "fine-cuisine",
       "landscapes"
     ],
     "literal": "beauty · looks · can · eat",
@@ -971,8 +964,8 @@
       "闲庭信步"
     ],
     "antonyms": [
-      "循规蹈矩",
-      "按部就班"
+      "按部就班",
+      "循规蹈矩"
     ]
   },
   {
@@ -1169,7 +1162,6 @@
       "以成败论英雄"
     ],
     "antonyms": [
-      "胜败乃兵家常事",
       "不以成败论英雄"
     ]
   },
@@ -1182,7 +1174,7 @@
       "逼人太甚"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -1268,9 +1260,8 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "斩钉截铁",
-      "赶尽杀绝",
-      "不留情面"
+      "不留情面",
+      "赶尽杀绝"
     ],
     "antonyms": [
       "留有余地",
@@ -1286,7 +1277,6 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "mistakes-and-correction",
       "corruption-and-injustice"
     ],
     "literal": "indulge · lenient · nurture · evil",
@@ -1333,12 +1323,12 @@
       "诸葛亮挥泪斩马谡——忍痛割爱",
       "嫉恶如仇",
       "严惩不贷",
-      "宽猛相济",
       "杀一儆百",
       "惩恶扬善",
       "大张挞伐",
-      "爱人以德",
-      "扶正祛邪"
+      "扶正祛邪",
+      "宽猛相济",
+      "爱人以德"
     ]
   },
   {
@@ -1396,17 +1386,17 @@
     },
     "synonyms": [
       "谆谆教导",
-      "循循善诱",
       "苦口婆心",
       "三令五申",
+      "循循善诱",
       "面授机宜"
     ],
     "antonyms": [
-      "置若罔闻",
       "放任自流",
       "不言之教",
       "以心传心",
-      "润物无声"
+      "润物无声",
+      "置若罔闻"
     ]
   }
 ]

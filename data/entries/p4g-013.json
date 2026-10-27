@@ -1,49 +1,5 @@
 [
   {
-    "id": "peng-yi-bi-zi-hui",
-    "text": "碰一鼻子灰",
-    "pinyin": "pèng yī bí zi huī",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "near-misses-and-setbacks",
-      "complete-failure-and-obscurity"
-    ],
-    "literal": "bump · one · nose · dust",
-    "natural": "get snubbed",
-    "meaning": {
-      "en": "To be rebuffed and humiliated when asking for something.",
-      "zh": "比喻求人或办事遭到拒绝，很难堪。"
-    },
-    "equivalents": [
-      "get a flat refusal",
-      "be turned away empty-handed"
-    ],
-    "examples": [
-      {
-        "zh": "他去求人帮忙，碰了一鼻子灰。",
-        "en": "He went for help and was turned away."
-      },
-      {
-        "zh": "他不听劝，结果碰一鼻子灰。",
-        "en": "He wouldn't listen and was snubbed."
-      }
-    ],
-    "usage": {
-      "en": "Usually 碰了一鼻子灰; compare 碰钉子.",
-      "zh": "常说“碰了一鼻子灰”，近“碰钉子”。"
-    },
-    "synonyms": [
-      "吃闭门羹"
-    ],
-    "antonyms": [
-      "如愿以偿",
-      "受到欢迎"
-    ]
-  },
-  {
     "id": "zhan-shan-wei-wang",
     "text": "占山为王",
     "pinyin": "zhàn shān wéi wáng",
@@ -87,7 +43,6 @@
       "落草为寇"
     ],
     "antonyms": [
-      "团结协作",
       "统一领导"
     ]
   },

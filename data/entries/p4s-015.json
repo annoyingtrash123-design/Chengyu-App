@@ -81,9 +81,7 @@
       "en": "Criticism of a poor leader; often used at work.",
       "zh": "批评无能的领导，常用于职场。"
     },
-    "synonyms": [
-      "上梁不正下梁歪"
-    ],
+    "synonyms": [],
     "antonyms": [
       "将勇兵强",
       "强将手下无弱兵"
@@ -144,11 +142,9 @@
       "zh": "常与“飞鸟尽，良弓藏”并用，指上位者忘恩负义。"
     },
     "synonyms": [
-      "卸磨杀驴",
-      "过河拆桥"
+      "卸磨杀驴"
     ],
     "antonyms": [
-      "功成名就",
       "共享富贵"
     ]
   },
@@ -409,9 +405,7 @@
       "en": "Often quoted with sympathy, or contrasted with 人穷志不穷.",
       "zh": "常与“人穷志不穷”对比。"
     },
-    "synonyms": [
-      "英雄气短"
-    ],
+    "synonyms": [],
     "antonyms": [
       "人穷志不短",
       "穷且益坚"
@@ -469,8 +463,8 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "resistance-to-change",
-      "anger"
+      "anger",
+      "conflict-and-strife"
     ],
     "literal": "rabbit · anxious · even · bite · people",
     "natural": "even a cornered rabbit will bite",
@@ -547,8 +541,8 @@
       "死性不改"
     ],
     "antonyms": [
-      "改过自新",
-      "洗心革面"
+      "洗心革面",
+      "改过自新"
     ]
   },
   {
@@ -591,8 +585,8 @@
       "口出恶言"
     ],
     "antonyms": [
-      "金口玉言",
-      "出口成章"
+      "出口成章",
+      "金口玉言"
     ]
   },
   {
@@ -632,7 +626,6 @@
       "zh": "粗俗说法，指势利眼。"
     },
     "synonyms": [
-      "狗仗人势",
       "门缝里看人——把人看扁了",
       "有钱人家的看门狗——势利眼"
     ],
@@ -691,7 +684,8 @@
     "text": "不管黑猫白猫，能捉到老鼠就是好猫",
     "pinyin": "bù guǎn hēi māo bái māo, néng zhuō dào lǎo shǔ jiù shì hǎo māo",
     "variants": [
-      "不管白猫黑猫，捉住老鼠就是好猫"
+      "不管白猫黑猫，捉住老鼠就是好猫",
+      "不管黄猫黑猫，只要捉住老鼠就是好猫"
     ],
     "kind": "suyu",
     "frequency": 3,
@@ -726,19 +720,18 @@
       "en": "Popularly linked with Deng Xiaoping's 1960s remark; often shortened to 黑猫白猫论.",
       "zh": "与邓小平的言论联系紧密，常简称“黑猫白猫论”。"
     },
-    "synonyms": [
-      "实事求是",
-      "不拘一格"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "本本主义",
-      "唯成分论"
-    ]
+      "本本主义"
+    ],
+    "variant_kinds": {
+      "不管黄猫黑猫，只要捉住老鼠就是好猫": "old"
+    }
   },
   {
     "id": "niu-bu-he-shui-qiang-an-tou",
     "text": "牛不喝水强按头",
-    "pinyin": "niú bù hē shuǐ qiáng àn tóu",
+    "pinyin": "niú bù hē shuǐ qiǎng àn tóu",
     "variants": [
       "牛不喝水难按角"
     ],
@@ -866,9 +859,7 @@
       "吃力不讨好",
       "偷鸡不着蚀把米"
     ],
-    "antonyms": [
-      "坐享其成"
-    ]
+    "antonyms": []
   },
   {
     "id": "fei-shui-bu-liu-wai-ren-tian",
@@ -907,9 +898,8 @@
       "zh": "中性，但可能含任人唯亲之意。"
     },
     "synonyms": [
-      "近水楼台先得月，向阳花木易为春",
-      "自留地里撒尿——肥水不落外人田",
-      "楚弓楚得"
+      "楚弓楚得",
+      "自留地里撒尿——肥水不落外人田"
     ],
     "antonyms": [
       "大公无私"
@@ -951,13 +941,11 @@
       "zh": "中性，有时暗示热度不会持久。"
     },
     "synonyms": [
-      "雷厉风行",
       "一个将军一个令",
       "一朝天子一朝臣"
     ],
     "antonyms": [
-      "萧规曹随",
-      "因循守旧"
+      "萧规曹随"
     ]
   },
   {
@@ -996,10 +984,7 @@
       "en": "A warning to the ambitious and arrogant.",
       "zh": "用来警告得意的人。"
     },
-    "synonyms": [
-      "登高跌重",
-      "物极必反"
-    ],
+    "synonyms": [],
     "antonyms": [
       "平步青云"
     ]

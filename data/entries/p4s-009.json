@@ -56,8 +56,8 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "modest-goals",
-      "leadership-and-authority"
+      "leadership-and-authority",
+      "unity-and-cooperation"
     ],
     "literal": "peony · although · fine, entirely · rely on · green · leaves · support",
     "natural": "Peonies are lovely, but they depend on green leaves",
@@ -215,7 +215,6 @@
       "zh": "带调侃意味，指旁人比当事人还着急。"
     },
     "synonyms": [
-      "杞人忧天",
       "吃咸萝卜淡操心"
     ],
     "antonyms": [
@@ -271,7 +270,10 @@
     "pinyin": "xiā māo pèng shàng sǐ hào zi",
     "variants": [
       "瞎猫碰到死耗子",
-      "瞎猫碰着死耗子"
+      "瞎猫碰着死耗子",
+      "瞎猫碰上死耗子——碰巧",
+      "瞎猫碰着死耗子——碰巧",
+      "瞎猫抓住个死耗子——碰上了"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -280,6 +282,8 @@
     "themes": [
       "unintended-results",
       "miraculous-occurrences",
+      "animal-behavior-metaphors",
+      "successful-completion",
       "polite-humble"
     ],
     "literal": "blind · cat · bump into · dead · mouse",
@@ -311,7 +315,9 @@
       "歪打正着"
     ],
     "antonyms": [
-      "真才实学"
+      "真才实学",
+      "运筹帷幄",
+      "胸有成竹"
     ]
   },
   {
@@ -352,7 +358,6 @@
       "zh": "多用于鼓励人，提醒不要小看小人物、小事物。"
     },
     "synonyms": [
-      "麻雀虽小，五脏俱全",
       "四两拨千斤"
     ],
     "antonyms": [
@@ -528,12 +533,8 @@
       "en": "Plays on the shape of 色, whose top part looks like 刀 (knife). Often in anti-corruption warnings.",
       "zh": "字形上“色”的上半部像“刀”，常用于廉政或道德告诫。"
     },
-    "synonyms": [
-      "红颜祸水"
-    ],
-    "antonyms": [
-      "洁身自好"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "hua-you-chong-kai-ri-ren",
@@ -617,9 +618,7 @@
       "en": "Often jocular. Used in stories and news about powerful people undone by romance.",
       "zh": "多带调侃意味，常用于写有权势的人栽在感情上。"
     },
-    "synonyms": [
-      "红颜祸水"
-    ],
+    "synonyms": [],
     "antonyms": [
       "坐怀不乱"
     ]
@@ -753,9 +752,7 @@
       "en": "Wry and fatalistic, often used self-mockingly about problems or debts.",
       "zh": "带自嘲和无奈，多用来调侃自己的麻烦或债务。"
     },
-    "synonyms": [
-      "破罐子破摔"
-    ],
+    "synonyms": [],
     "antonyms": [
       "忧心忡忡"
     ]
@@ -770,7 +767,7 @@
     "register": "casual",
     "themes": [
       "relative-measurements",
-      "simple-food-and-hunger"
+      "efficiency"
     ],
     "literal": "mosquito · however · small · also · is · meat",
     "natural": "Even a mosquito is meat, however small",
@@ -797,13 +794,8 @@
       "en": "Often used humorously or a bit greedily about small gains.",
       "zh": "多用于调侃或略带贪小的语气，指小利。"
     },
-    "synonyms": [
-      "积少成多",
-      "聚沙成塔"
-    ],
-    "antonyms": [
-      "弃如敝屣"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "xing-bu-geng-ming-zuo-bu-gai-xing",
@@ -846,12 +838,11 @@
       "zh": "多见于武侠小说和评书，语气豪爽；前后两句可对调。"
     },
     "synonyms": [
-      "光明磊落",
       "敢作敢当"
     ],
     "antonyms": [
-      "隐姓埋名",
-      "改名换姓"
+      "改名换姓",
+      "隐姓埋名"
     ],
     "variant_kinds": {
       "行不更名": "short"
@@ -897,10 +888,7 @@
       "en": "Encouraging and slightly formal; popular in graduation speeches and essays. Often credited to Ming painter Dong Qichang.",
       "zh": "带勉励意味，常见于毕业赠言和作文；常认为出自明代董其昌。"
     },
-    "synonyms": [
-      "开卷有益",
-      "见多识广"
-    ],
+    "synonyms": [],
     "antonyms": [
       "闭门造车",
       "坐井观天"
@@ -942,12 +930,8 @@
       "en": "Used to explain or apologise for a misunderstanding, or to warn people to watch their words.",
       "zh": "用来解释误会或提醒人说话要谨慎。"
     },
-    "synonyms": [
-      "祸从口出"
-    ],
-    "antonyms": [
-      "听者无心"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "shei-xiao-dao-zui-hou-shei",
@@ -989,12 +973,9 @@
       "zh": "常用于体育、商业和竞争场合。"
     },
     "synonyms": [
-      "笑到最后",
-      "鹿死谁手"
+      "笑到最后"
     ],
-    "antonyms": [
-      "得意忘形"
-    ]
+    "antonyms": []
   },
   {
     "id": "qing-shen-rong-yi-song-shen-nan",
@@ -1034,7 +1015,6 @@
       "zh": "告诫不要轻易招惹难以摆脱的人或事。"
     },
     "synonyms": [
-      "引狼入室",
       "请客容易送客难"
     ],
     "antonyms": []
@@ -1045,7 +1025,8 @@
     "pinyin": "tiào jìn huáng hé xǐ bù qīng",
     "variants": [
       "跳进黄河也洗不清",
-      "跳到黄河洗不清"
+      "跳到黄河洗不清",
+      "跳下黄河——洗不清"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -1053,7 +1034,9 @@
     "register": "casual",
     "themes": [
       "deception-and-false-appearances",
-      "dead-ends-and-desperation"
+      "dead-ends-and-desperation",
+      "mistakes-and-correction",
+      "danger"
     ],
     "literal": "jump · into · Yellow · River · wash · not · clean",
     "natural": "Even jumping into the Yellow River won't wash you clean",
@@ -1086,7 +1069,8 @@
     ],
     "antonyms": [
       "清者自清，浊者自浊",
-      "真相大白"
+      "真相大白",
+      "清清白白"
     ]
   },
   {
@@ -1125,9 +1109,7 @@
       "en": "A 20th-century slogan, now used casually when urging someone to rest.",
       "zh": "源自二十世纪的口号，现多用于劝人休息、注意身体。"
     },
-    "synonyms": [
-      "留得青山在，不怕没柴烧"
-    ],
+    "synonyms": [],
     "antonyms": [
       "拼命三郎"
     ]

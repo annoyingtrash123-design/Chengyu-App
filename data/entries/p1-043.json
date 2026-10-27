@@ -48,10 +48,7 @@
       "en": "Usually with 不如退而结网.",
       "zh": "常与\"不如退而结网\"连用。"
     },
-    "synonyms": [
-      "望洋兴叹",
-      "画饼充饥"
-    ],
+    "synonyms": [],
     "antonyms": [
       "脚踏实地",
       "身体力行",
@@ -148,9 +145,9 @@
       "屁滚尿流"
     ],
     "antonyms": [
+      "昂首阔步",
       "勇往直前",
-      "挺身而出",
-      "昂首阔步"
+      "挺身而出"
     ]
   },
   {
@@ -263,9 +260,7 @@
       "南柯一梦",
       "白驹过隙"
     ],
-    "antonyms": [
-      "长生不老"
-    ]
+    "antonyms": []
   },
   {
     "id": "ru-xiu-wei-gan",
@@ -322,9 +317,9 @@
       "黄口小儿",
       "初出茅庐",
       "嘴上没毛，办事不牢",
-      "黄口孺子",
       "羽毛未丰",
-      "毛头小子"
+      "毛头小子",
+      "黄口孺子"
     ],
     "antonyms": [
       "老成持重",
@@ -374,9 +369,9 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "口是心非",
       "言不由衷",
-      "表里不一"
+      "表里不一",
+      "口是心非"
     ],
     "antonyms": [
       "心口如一",
@@ -480,7 +475,7 @@
     "id": "shen-qi-shi-zu",
     "text": "神气十足",
     "pinyin": "shén qì shí zú",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -518,8 +513,8 @@
       "趾高气扬",
       "得意洋洋",
       "大摇大摆",
-      "威风凛凛",
-      "威风八面"
+      "八面威风",
+      "威风凛凛"
     ],
     "antonyms": [
       "垂头丧气",
@@ -578,13 +573,10 @@
     },
     "synonyms": [
       "同室操戈",
-      "内忧外患",
-      "变生肘腋",
-      "萧墙之祸"
+      "变生肘腋"
     ],
     "antonyms": [
-      "同舟共济",
-      "团结一致"
+      "同舟共济"
     ]
   },
   {
@@ -741,14 +733,8 @@
       "en": "Usually with 可以燎原. 星星 here means tiny spark(s).",
       "zh": "常与\"可以燎原\"连用。"
     },
-    "synonyms": [
-      "积少成多",
-      "聚沙成塔",
-      "星火燎原"
-    ],
-    "antonyms": [
-      "昙花一现"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "bei-bi-wu-chi",
@@ -854,12 +840,11 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "驾轻就熟",
       "轻车熟路",
       "经验丰富",
       "久病成医",
-      "行家里手",
-      "姜还是老的辣"
+      "姜还是老的辣",
+      "驾轻就熟"
     ],
     "antonyms": [
       "初出茅庐",
@@ -913,14 +898,11 @@
       "以礼相待",
       "吐哺握发",
       "招贤纳士",
-      "周公吐哺",
-      "虚位以待",
       "千金买骨",
-      "山不厌高，海不厌深。周公吐哺，天下归心",
-      "呦呦鹿鸣",
       "屈己待人",
       "三顾频烦",
-      "谦恭下士"
+      "谦恭下士",
+      "周公吐哺"
     ],
     "antonyms": [
       "盛气凌人",
@@ -1027,7 +1009,6 @@
     },
     "synonyms": [
       "长驱直入",
-      "势如破竹",
       "乘胜追击",
       "擒贼擒王"
     ],
@@ -1049,9 +1030,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "complex-emotional-states",
       "positive-character-qualities",
-      "exam-favourites"
+      "exam-favourites",
+      "mental-clarity"
     ],
     "literal": "expression · colour · self · as usual",
     "natural": "Expression unchanged",
@@ -1086,14 +1067,14 @@
       "谈笑自若"
     ],
     "antonyms": [
-      "惊慌失措",
       "面如土色",
       "手足无措",
       "呆若木鸡",
       "失魂落魄",
       "面无人色",
       "相顾失色",
-      "目瞪口呆"
+      "目瞪口呆",
+      "惊慌失措"
     ]
   },
   {
@@ -1148,7 +1129,6 @@
     "synonyms": [
       "火上浇油",
       "饮鸩止渴",
-      "扬汤止沸",
       "积薪厝火"
     ],
     "antonyms": [
@@ -1195,16 +1175,16 @@
       "zh": "多作谓语、状语，口语。"
     },
     "synonyms": [
-      "呆若木鸡",
       "笨头笨脑",
-      "傻里傻气"
+      "傻里傻气",
+      "呆若木鸡"
     ],
     "antonyms": [
       "聪明伶俐",
       "机灵活泼",
-      "眉清目秀",
       "千伶百俐",
-      "古灵精怪"
+      "古灵精怪",
+      "眉清目秀"
     ]
   },
   {
@@ -1270,14 +1250,16 @@
     "text": "悬梁刺股",
     "pinyin": "xuán liáng cì gǔ",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "reading-and-study",
       "effort",
       "historical-records",
-      "exam-favourites"
+      "exam-favourites",
+      "high-aspirations",
+      "academic-achievement"
     ],
     "literal": "hang · beam · stab · thigh",
     "natural": "Tying one's hair to the beam and jabbing one's thigh",
@@ -1328,12 +1310,14 @@
       "萤窗雪案",
       "然糠照薪",
       "牛角挂书",
-      "头悬梁，锥刺股"
+      "书山有路勤为径，学海无涯苦作舟"
     ],
     "antonyms": [
-      "不学无术",
       "游手好闲",
       "饱食终日"
+    ],
+    "variants": [
+      "头悬梁，锥刺股"
     ]
   }
 ]

@@ -9,7 +9,8 @@
     "register": "casual",
     "themes": [
       "love-and-marriage",
-      "parenting-and-family"
+      "parenting-and-family",
+      "relationships"
     ],
     "literal": "man · grown · should · marry, woman · grown · should · marry out",
     "natural": "A grown man should marry, a grown woman should wed",
@@ -39,6 +40,10 @@
     ],
     "antonyms": [
       "独身主义"
+    ],
+    "variants": [
+      "男大当婚",
+      "女大当嫁"
     ]
   },
   {
@@ -90,12 +95,9 @@
       "zh": "多用于教育场合，下句为“人不学，不知道”。"
     },
     "synonyms": [
-      "精雕细琢",
       "千锤百炼成真金"
     ],
-    "antonyms": [
-      "自暴自弃"
-    ]
+    "antonyms": []
   },
   {
     "id": "fu-chao-zhi-xia-yan-you-wan-luan",
@@ -203,13 +205,8 @@
       "en": "Often quoted in speeches about teamwork and in business.",
       "zh": "多见于讲话，强调团结的重要。"
     },
-    "synonyms": [
-      "众志成城",
-      "齐心协力"
-    ],
-    "antonyms": [
-      "离心离德"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "xian-xiao-ren-hou-jun-zi",
@@ -355,8 +352,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "psychological-pressure",
-      "complex-emotional-states"
+      "complex-emotional-states",
+      "buddhist-origin"
     ],
     "literal": "like · person · drink · water, cold · warm · oneself · know",
     "natural": "Like drinking water, you alone know whether it's cold or warm",
@@ -382,8 +379,7 @@
       "zh": "常说明外人无法判断当事人的真实感受。"
     },
     "synonyms": [
-      "甘苦自知",
-      "冷暖自知"
+      "甘苦自知"
     ],
     "antonyms": []
   },
@@ -397,7 +393,8 @@
     "register": "casual",
     "themes": [
       "love-and-marriage",
-      "conformity-and-imitation"
+      "conformity-and-imitation",
+      "relationships"
     ],
     "literal": "marry · chicken · follow · chicken, marry · dog · follow · dog",
     "natural": "Marry a chicken, follow the chicken; marry a dog, follow the dog",
@@ -426,8 +423,9 @@
     "synonyms": [
       "从一而终"
     ],
-    "antonyms": [
-      "另起炉灶"
+    "antonyms": [],
+    "variants": [
+      "嫁狗随狗"
     ]
   },
   {
@@ -439,8 +437,8 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "positive-character-qualities",
-      "relationships"
+      "relationships",
+      "unity-and-cooperation"
     ],
     "literal": "people · hearts · united, Mount Tai · move",
     "natural": "When hearts are united, Mount Tai can be moved",
@@ -528,7 +526,6 @@
     "register": "neutral",
     "themes": [
       "journeys-and-exploration",
-      "appearance",
       "landscapes"
     ],
     "literal": "above · have · heaven, below · have · Suzhou · Hangzhou",
@@ -569,7 +566,8 @@
     "register": "literary",
     "themes": [
       "relative-measurements",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "danger"
     ],
     "literal": "hundred · legs · 's · insect, die · yet · not · stiffen",
     "natural": "A centipede dies but doesn't go stiff",
@@ -596,11 +594,16 @@
       "zh": "可表示敬畏或提醒，与“瘦死的骆驼比马大”相近。"
     },
     "synonyms": [
-      "瘦死的骆驼比马大"
+      "瘦死的骆驼比马大",
+      "根深蒂固"
     ],
-    "antonyms": [],
+    "antonyms": [
+      "土崩瓦解",
+      "一触即溃"
+    ],
     "variants": [
-      "死而不僵"
+      "死而不僵",
+      "百足之虫"
     ],
     "variant_kinds": {
       "死而不僵": "short"
@@ -608,10 +611,10 @@
   },
   {
     "id": "jian-le-zhi-ma-diu-le-xi-gua",
-    "text": "拣了芝麻，丢了西瓜",
+    "text": "捡了芝麻，丢了西瓜",
     "pinyin": "jiǎn le zhī má, diū le xī guā",
     "variants": [
-      "捡了芝麻，丢了西瓜",
+      "拣了芝麻，丢了西瓜",
       "捡了芝麻丢了西瓜"
     ],
     "kind": "suyu",
@@ -622,7 +625,7 @@
       "poor-planning-and-hasty-decisions",
       "complete-failure-and-obscurity"
     ],
-    "literal": "pick up · sesame · lose · watermelon",
+    "literal": "pick up · (particle) · sesame, lose · (particle) · watermelon",
     "natural": "Picked up the sesame, lost the watermelon",
     "meaning": {
       "en": "To fuss over small gains and lose big ones.",
@@ -647,9 +650,9 @@
       "zh": "批评因小失大。“捡”为“拣”的现代写法。"
     },
     "synonyms": [
-      "因小失大",
       "舍本逐末",
-      "整筐丢西瓜，满地拾芝麻——大处不算小处算"
+      "整筐丢西瓜，满地拾芝麻——大处不算小处算",
+      "因小失大"
     ],
     "antonyms": [
       "顾全大局"
@@ -698,8 +701,7 @@
     ],
     "antonyms": [
       "未雨绸缪",
-      "有备无患",
-      "养兵千日，用兵一时"
+      "有备无患"
     ]
   },
   {
@@ -786,9 +788,8 @@
       "zh": "多指强者间的竞争，常带调侃：“除非一公一母”。"
     },
     "synonyms": [
-      "势不两立",
-      "既生瑜何生亮",
-      "一个槽里拴不下两头叫驴"
+      "一个槽里拴不下两头叫驴",
+      "势不两立"
     ],
     "antonyms": [
       "和衷共济"
@@ -881,13 +882,12 @@
     "synonyms": [
       "虎父无犬子",
       "上梁不正下梁歪",
-      "龙配龙，凤配凤，老鼠的孩子会打洞",
       "龙生龙，凤生凤，老鼠的儿子会打洞",
       "有其师，必有其徒"
     ],
     "antonyms": [
-      "龙生九子",
-      "歹竹出好笋"
+      "歹竹出好笋",
+      "龙生九子"
     ]
   },
   {
@@ -899,8 +899,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "useful-tools-and-skill",
-      "distracted-attention"
+      "useful-tools-and-skill"
     ],
     "literal": "three · sentences · not · leave · own · trade",
     "natural": "Not three sentences without returning to your trade",
@@ -963,11 +962,9 @@
       "en": "Describes personality; often followed by advice to be gentle.",
       "zh": "形容性格，常接劝人温和相待。"
     },
-    "synonyms": [
-      "软硬兼施"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "软硬不吃"
+      "吃硬不吃软"
     ]
   },
   {
@@ -1054,8 +1051,8 @@
       "家花没有野花香"
     ],
     "antonyms": [
-      "安分守己",
-      "知足常乐"
+      "知足常乐",
+      "安分守己"
     ]
   },
   {

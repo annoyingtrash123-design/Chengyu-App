@@ -53,14 +53,12 @@
       "zh": "常与“脍不厌细”连用。形容烹饪和饮食讲究精细。多作谓语。"
     },
     "synonyms": [
-      "精雕细琢",
       "美味佳肴",
       "脍不厌细"
     ],
     "antonyms": [
       "粗茶淡饭",
-      "食不果腹",
-      "食不言，寝不语"
+      "食不果腹"
     ]
   },
   {
@@ -72,8 +70,8 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "excellent-acting",
-      "poems-prose"
+      "poems-prose",
+      "arts"
     ],
     "literal": "remaining · sound · curling · curling",
     "natural": "lingering sound curling in the air",
@@ -112,12 +110,11 @@
     },
     "synonyms": [
       "余音绕梁",
-      "绕梁三日",
       "不绝如缕"
     ],
     "antonyms": [
-      "戛然而止",
-      "寂然无声"
+      "寂然无声",
+      "戛然而止"
     ]
   },
   {
@@ -213,7 +210,7 @@
       "zh": "可拆开用：“下了逐客令”“对他下逐客令”。口语，语气稍重。"
     },
     "synonyms": [
-      "拒人于千里之外",
+      "拒人千里",
       "扫地出门"
     ],
     "antonyms": [
@@ -257,57 +254,11 @@
       "zh": "今天常带玩笑口吻，原有天命、占卜的意味。多作谓语。"
     },
     "synonyms": [
-      "走漏风声",
-      "口无遮拦"
+      "走漏风声"
     ],
     "antonyms": [
       "守口如瓶",
       "秘而不宣"
-    ]
-  },
-  {
-    "id": "wu-ren-zhi-jing",
-    "text": "无人之境",
-    "pinyin": "wú rén zhī jìng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "military-strategy-and-victory",
-      "outstanding-success-and-fame"
-    ],
-    "literal": "no · person · 's · realm",
-    "natural": "a land with nobody in it",
-    "meaning": {
-      "en": "A place with no one in it; mostly in 如入无人之境, meaning to move about freely without opposition.",
-      "zh": "没有人的地方；常说“如入无人之境”，形容毫无阻挡、畅行无阻。"
-    },
-    "equivalents": [
-      "as if no one were there",
-      "walk through unopposed"
-    ],
-    "examples": [
-      {
-        "zh": "前锋如入无人之境，连过三人后射门得分。",
-        "en": "The striker went through as if no one were there, beat three players and scored."
-      },
-      {
-        "zh": "探险队来到无人之境，四周一片寂静。",
-        "en": "The expedition team reached a land without people, and all around was silence."
-      }
-    ],
-    "usage": {
-      "en": "Nearly always in the pattern 如入无人之境, which can express admiration or criticism (acting with no regard for others). Object.",
-      "zh": "几乎总用“如入无人之境”，可表赞叹，也可指旁若无人、肆无忌惮。多作宾语。"
-    },
-    "synonyms": [
-      "畅通无阻",
-      "所向披靡"
-    ],
-    "antonyms": [
-      "寸步难行",
-      "困难重重"
     ]
   },
   {
@@ -319,8 +270,7 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "outstanding-success-and-fame",
-      "value-of-time"
+      "outstanding-success-and-fame"
     ],
     "literal": "name · hang · thousand · ages",
     "natural": "name hangs for a thousand ages",
@@ -392,7 +342,7 @@
       "zh": "形容恋人，带浪漫色彩，也可作祝愿。多作谓语。"
     },
     "synonyms": [
-      "比翼齐飞",
+      "比翼双飞",
       "形影不离"
     ],
     "antonyms": [
@@ -410,7 +360,7 @@
     "register": "neutral",
     "themes": [
       "conflict-and-strife",
-      "excellent-writing"
+      "speech"
     ],
     "literal": "pen · ink · lawsuit",
     "natural": "a lawsuit of pen and ink",
@@ -436,13 +386,8 @@
       "en": "Usually light or mildly critical. Object of 打. Also used of online debates.",
       "zh": "语气一般较轻，略带批评；常说“打笔墨官司”，也可指网上争论。"
     },
-    "synonyms": [
-      "唇枪舌剑"
-    ],
-    "antonyms": [
-      "握手言和",
-      "心平气和"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "diao-lan-yu-qi",
@@ -501,119 +446,6 @@
     ]
   },
   {
-    "id": "wei-ji-cun-wang",
-    "text": "危急存亡",
-    "pinyin": "wēi jí cún wáng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "danger",
-      "dead-ends-and-desperation"
-    ],
-    "literal": "danger · urgent · survive · perish",
-    "natural": "danger, urgency, survival or destruction",
-    "meaning": {
-      "en": "A critical moment on which survival or destruction depends.",
-      "zh": "形势危急，关系到生存还是灭亡的关头。"
-    },
-    "equivalents": [
-      "a matter of life and death",
-      "at a critical juncture"
-    ],
-    "examples": [
-      {
-        "zh": "国家处于危急存亡之秋，人人有责。",
-        "en": "With the nation at a critical turning point, everyone has a duty."
-      },
-      {
-        "zh": "公司已到危急存亡的时刻，必须当机立断。",
-        "en": "The company is at a make-or-break moment and must act decisively."
-      }
-    ],
-    "origin": {
-      "source": "诸葛亮《出师表》",
-      "story": {
-        "en": "Zhuge Liang wrote to the young emperor: 'Now the realm is divided in three and Yizhou is exhausted; this is truly a time of crisis, of survival or destruction.'",
-        "zh": "诸葛亮《出师表》：“今天下三分，益州疲弊，此诚危急存亡之秋也。”"
-      },
-      "date": {
-        "zh": "三国蜀汉 · 227年",
-        "en": "Shu Han (Three Kingdoms), 227"
-      }
-    },
-    "usage": {
-      "en": "Almost always appears as 危急存亡之秋. Formal; used of nations, organisations, causes. Attributive.",
-      "zh": "几乎都作“危急存亡之秋”。较庄重，用于国家、组织、事业。多作定语。"
-    },
-    "synonyms": [
-      "生死存亡",
-      "千钧一发",
-      "生死关头"
-    ],
-    "antonyms": [
-      "太平无事",
-      "安然无恙"
-    ]
-  },
-  {
-    "id": "bai-zu-zhi-chong",
-    "text": "百足之虫",
-    "pinyin": "bǎi zú zhī chóng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "animal-behavior-metaphors",
-      "danger"
-    ],
-    "literal": "hundred · legs · 's · insect",
-    "natural": "the hundred-legged insect",
-    "meaning": {
-      "en": "A powerful organisation or family that, even in decline, is hard to bring down because of its deep roots.",
-      "zh": "百足虫死后仍不僵硬，比喻势力根基深厚，即使衰败也不易垮掉。"
-    },
-    "equivalents": [
-      "slow to die",
-      "too deeply rooted to fall"
-    ],
-    "examples": [
-      {
-        "zh": "百足之虫，死而不僵，这家老企业还有不少后手。",
-        "en": "A centipede takes long to fall, and this old firm still has plenty up its sleeve."
-      },
-      {
-        "zh": "别小看他们，百足之虫，没那么容易倒。",
-        "en": "Don't underestimate them; with such deep roots, they won't collapse easily."
-      }
-    ],
-    "origin": {
-      "source": "曹冏《六代论》",
-      "story": {
-        "en": "Cao Jiong wrote in his Six Dynasties essay: 'The hundred-legged insect does not fall even when dead, because it is supported by many.'",
-        "zh": "曹冏《六代论》：“百足之虫，至死不僵，扶之者众也。”"
-      },
-      "date": {
-        "zh": "三国魏 · 约240年",
-        "en": "Three Kingdoms (Wei), c. 240"
-      }
-    },
-    "usage": {
-      "en": "Normally used in the saying 百足之虫，死而不僵. Describes a large, long-established power. Predicate or clause.",
-      "zh": "通常用于“百足之虫，死而不僵”。形容历史悠久的庞大势力。多作谓语或分句。"
-    },
-    "synonyms": [
-      "根深蒂固",
-      "百足之虫，死而不僵"
-    ],
-    "antonyms": [
-      "一触即溃",
-      "土崩瓦解"
-    ]
-  },
-  {
     "id": "e-guan-bo-dai",
     "text": "峨冠博带",
     "pinyin": "é guān bó dài",
@@ -650,7 +482,6 @@
       "zh": "描写服饰，也暗含士大夫的风雅。多作定语、谓语。"
     },
     "synonyms": [
-      "衣冠楚楚",
       "宽袍大袖"
     ],
     "antonyms": [
@@ -706,11 +537,7 @@
       "防不胜防",
       "暗箭伤人"
     ],
-    "antonyms": [
-      "光明磊落",
-      "开诚布公",
-      "借刀杀人"
-    ]
+    "antonyms": []
   },
   {
     "id": "shuo-dong-dao-xi",
@@ -887,8 +714,7 @@
       "zh": "形容情绪迅速由悲转喜。多作谓语。"
     },
     "synonyms": [
-      "破涕为笑",
-      "喜出望外"
+      "破涕为笑"
     ],
     "antonyms": [
       "乐极生悲",
@@ -931,10 +757,7 @@
       "en": "Literary, often in fiction and drama; sensitive, as it implies prostitution. Predicate.",
       "zh": "书面语，多见于小说戏曲；有委婉指沦为娼妓之意，使用需谨慎。多作谓语。"
     },
-    "synonyms": [
-      "流落江湖",
-      "颠沛流离"
-    ],
+    "synonyms": [],
     "antonyms": [
       "飞黄腾达",
       "衣锦还乡"
@@ -995,7 +818,8 @@
     "register": "neutral",
     "themes": [
       "games-and-sports",
-      "poor-planning-and-hasty-decisions"
+      "poor-planning-and-hasty-decisions",
+      "military-strategy-and-victory"
     ],
     "literal": "discard · pawn · protect · chariot",
     "natural": "give up a pawn to save the chariot",
@@ -1022,12 +846,15 @@
       "zh": "此处“车”读jū（象棋的车），不读chē。可作中性策略，也可批评推人顶罪。"
     },
     "synonyms": [
-      "弃卒保帅",
-      "舍车保帅"
+      "舍车保帅",
+      "壮士断腕"
     ],
     "antonyms": [
-      "因小失大",
-      "顾此失彼"
+      "顾此失彼",
+      "因小失大"
+    ],
+    "variants": [
+      "弃卒保帅"
     ]
   },
   {
@@ -1123,9 +950,8 @@
     },
     "synonyms": [
       "以德服人",
-      "不战而屈人之兵，善之善者也",
       "七擒孟获",
-      "七擒七纵"
+      "不战而屈人之兵，善之善者也"
     ],
     "antonyms": [
       "以力服人",
@@ -1214,12 +1040,11 @@
       "zh": "形容险恶环境；与“明枪易躲，暗箭难防”相关，但此为四字固定词。多作宾语。"
     },
     "synonyms": [
-      "刀光剑影",
-      "腹背受敌"
+      "刀光剑影"
     ],
     "antonyms": [
-      "风平浪静",
-      "相安无事"
+      "相安无事",
+      "风平浪静"
     ]
   }
 ]

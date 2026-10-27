@@ -222,7 +222,9 @@
     "themes": [
       "emotions",
       "complex-emotional-states",
-      "exam-favourites"
+      "exam-favourites",
+      "rare-idioms",
+      "sadness-and-despair"
     ],
     "literal": "interest · flavour · drained · so",
     "natural": "completely lacking interest",
@@ -254,23 +256,25 @@
     },
     "synonyms": [
       "索然无味",
-      "意兴阑珊",
-      "意兴索然"
+      "意兴阑珊"
     ],
     "antonyms": [
       "兴致勃勃",
-      "兴高采烈",
-      "群情激奋",
       "乐此不疲",
-      "意犹未尽",
       "兴趣盎然",
-      "垂涎欲滴",
-      "见猎心喜",
       "如饥似渴",
       "心驰神往",
       "饶有兴趣",
-      "悠然神往",
-      "食指大动"
+      "兴高采烈",
+      "意犹未尽",
+      "垂涎欲滴",
+      "见猎心喜",
+      "食指大动",
+      "群情激奋",
+      "悠然神往"
+    ],
+    "variants": [
+      "意兴索然"
     ]
   },
   {
@@ -538,12 +542,9 @@
       "zh": "正式用语，常见于谈家风、儒家伦理的文章，常与“治国平天下”连用。"
     },
     "synonyms": [
-      "洁身自好",
-      "正心诚意",
-      "内圣外王"
+      "正心诚意"
     ],
     "antonyms": [
-      "不修边幅",
       "放浪形骸"
     ]
   },
@@ -700,8 +701,8 @@
       "zh": "贬义，书面，多指不肯上进、无法教育的人，常说“朽木不可雕”。"
     },
     "synonyms": [
-      "朽木难雕",
       "孺子不可教",
+      "朽木不可雕",
       "枯木朽株"
     ],
     "antonyms": [
@@ -756,8 +757,7 @@
       "别有洞天"
     ],
     "antonyms": [
-      "一览无余",
-      "一目了然"
+      "一览无余"
     ]
   },
   {
@@ -806,7 +806,7 @@
       "力挽狂澜"
     ],
     "antonyms": [
-      "回天无力",
+      "无力回天",
       "听天由命"
     ]
   },
@@ -864,9 +864,8 @@
       "zh": "正式用语，“与”意为“和”，读 yǔ。常与“讲信修睦”连用。"
     },
     "synonyms": [
-      "任人唯贤",
-      "选贤任能",
-      "野无遗贤"
+      "野无遗贤",
+      "任人唯贤"
     ],
     "antonyms": [
       "任人唯亲",
@@ -919,8 +918,8 @@
       "挖空心思"
     ],
     "antonyms": [
-      "安分守己",
-      "与世无争"
+      "与世无争",
+      "安分守己"
     ]
   },
   {
@@ -984,8 +983,8 @@
       "耐人寻味"
     ],
     "antonyms": [
-      "言之无物",
-      "空洞无物"
+      "空洞无物",
+      "言之无物"
     ]
   },
   {
@@ -1154,9 +1153,9 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "speech",
       "deception-and-false-appearances",
-      "exam-favourites"
+      "exam-favourites",
+      "fear-and-cowardice"
     ],
     "literal": "sheep · substance · tiger · skin",
     "natural": "a sheep in tiger's skin",

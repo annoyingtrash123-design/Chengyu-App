@@ -139,9 +139,7 @@
       "en": "A piece of advice, usually after quoting 临渊羡鱼. Used as predicate.",
       "zh": "劝勉语，常接在“临渊羡鱼”之后，作谓语。"
     },
-    "synonyms": [
-      "未雨绸缪"
-    ],
+    "synonyms": [],
     "antonyms": [
       "临渊羡鱼",
       "坐享其成"
@@ -232,7 +230,7 @@
     ],
     "antonyms": [
       "寝食不安",
-      "夜不能寐"
+      "夜不成寐"
     ]
   },
   {
@@ -360,8 +358,7 @@
       "zh": "常与“饥不择食”“慌不择路”并用，作谓语或评语。"
     },
     "synonyms": [
-      "饥不择食",
-      "慌不择路"
+      "饥不择食"
     ],
     "antonyms": [
       "挑三拣四"
@@ -372,7 +369,7 @@
     "text": "以和为贵",
     "pinyin": "yǐ hé wéi guì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -473,8 +470,7 @@
     },
     "synonyms": [
       "天寒地冻",
-      "冰天雪地",
-      "一年三百六十日，风刀霜剑严相逼"
+      "冰天雪地"
     ],
     "antonyms": [
       "风和日丽",
@@ -523,6 +519,9 @@
     ],
     "antonyms": [
       "勤勤恳恳"
+    ],
+    "variants": [
+      "斗鸡走马"
     ]
   },
   {
@@ -606,9 +605,7 @@
       "en": "A warning, also used in news headlines; as subject or comment.",
       "zh": "警示语，也见于新闻标题，作主语或评语。"
     },
-    "synonyms": [
-      "草菅人命"
-    ],
+    "synonyms": [],
     "antonyms": [
       "着手成春",
       "妙手回春"
@@ -651,8 +648,8 @@
       "zh": "多带批评意味，作谓语，与“专心致志”相对。"
     },
     "synonyms": [
-      "三心二意",
-      "心不在焉"
+      "心不在焉",
+      "三心二意"
     ],
     "antonyms": [
       "心无二用",
@@ -697,12 +694,11 @@
       "zh": "口语，作定语或评语；与“空口无凭”相近，后者强调没有凭证。"
     },
     "synonyms": [
-      "口说无凭",
-      "清谈误国"
+      "口说无凭"
     ],
     "antonyms": [
-      "真凭实据",
-      "言出必行"
+      "言出必行",
+      "真凭实据"
     ]
   },
   {
@@ -845,8 +841,8 @@
       "皇天不负苦心人"
     ],
     "antonyms": [
-      "徒劳无功",
-      "竹篮打水——一场空"
+      "竹篮打水——一场空",
+      "徒劳无功"
     ]
   },
   {
@@ -895,50 +891,6 @@
     ]
   },
   {
-    "id": "bie-xu-li-chou",
-    "text": "别绪离愁",
-    "pinyin": "bié xù lí chóu",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "farewells",
-      "sadness-and-despair"
-    ],
-    "literal": "parting · thread · separation · sorrow",
-    "natural": "parting threads and separation sorrow",
-    "meaning": {
-      "en": "The sad feelings of parting and separation.",
-      "zh": "离别时的愁苦情绪。"
-    },
-    "equivalents": [
-      "the sorrow of parting",
-      "pangs of separation"
-    ],
-    "examples": [
-      {
-        "zh": "站台上满是别绪离愁。",
-        "en": "The platform was filled with the sorrow of parting."
-      },
-      {
-        "zh": "这首诗写尽了游子的别绪离愁。",
-        "en": "This poem captures all the pain of the traveller's farewell."
-      }
-    ],
-    "usage": {
-      "en": "Literary; used as object or subject. Often written as 离情别绪, which is the more common order and a separate form.",
-      "zh": "文学性强，作宾语或主语；与更常见的“离情别绪”相近。"
-    },
-    "synonyms": [
-      "离情别绪",
-      "离愁别恨"
-    ],
-    "antonyms": [
-      "欢聚一堂"
-    ]
-  },
-  {
     "id": "zhi-zhi-ren-xin",
     "text": "直指人心",
     "pinyin": "zhí zhǐ rén xīn",
@@ -978,9 +930,7 @@
       "明心见性",
       "一针见血"
     ],
-    "antonyms": [
-      "隔靴搔痒"
-    ]
+    "antonyms": []
   },
   {
     "id": "nian-lao-li-shuai",
@@ -1064,8 +1014,7 @@
       "zh": "中性略含批评，常用于为年轻人的冲动开脱。"
     },
     "synonyms": [
-      "血气方刚",
-      "少不更事"
+      "血气方刚"
     ],
     "antonyms": [
       "老成持重",

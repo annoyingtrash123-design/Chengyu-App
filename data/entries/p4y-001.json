@@ -8,7 +8,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "ming-dynasty",
       "change",
       "relationships"
     ],
@@ -42,7 +41,7 @@
       "世界真小"
     ],
     "antonyms": [
-      "一去不返"
+      "一去不复返"
     ]
   },
   {
@@ -54,7 +53,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "ming-dynasty",
       "relationships",
       "society"
     ],
@@ -83,12 +81,10 @@
       "zh": "有时用来求对方看在其主人面上手下留情。这里的“狗”并非辱骂对方。口语。"
     },
     "synonyms": [
-      "投鼠忌器",
-      "看人下菜碟"
+      "投鼠忌器"
     ],
     "antonyms": [
-      "肆无忌惮",
-      "目中无人"
+      "肆无忌惮"
     ]
   },
   {
@@ -100,7 +96,6 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "ming-dynasty",
       "corruption-and-injustice",
       "society"
     ],
@@ -129,8 +124,7 @@
       "zh": "“八字开”指衙门大门朝两边敞开。今天多用来讲旧时官场黑暗，或讽刺不公。口语。"
     },
     "synonyms": [
-      "官官相护",
-      "钱能通神"
+      "钱可通神"
     ],
     "antonyms": [
       "秉公执法",
@@ -190,12 +184,10 @@
       "zh": "也作“宁为太平犬，莫做乱离人”。表达对和平的珍视，书面色彩较重。"
     },
     "synonyms": [
-      "国泰民安",
       "安居乐业"
     ],
     "antonyms": [
-      "兵荒马乱",
-      "颠沛流离"
+      "兵荒马乱"
     ]
   },
   {
@@ -250,10 +242,7 @@
       "绿林好汉",
       "英雄好汉"
     ],
-    "antonyms": [
-      "胆小如鼠",
-      "贪生怕死"
-    ]
+    "antonyms": []
   },
   {
     "id": "qi-shi-er-bian",
@@ -350,19 +339,18 @@
       "zh": "指三国时关羽轻敌，被吕蒙偷袭而丢失荆州（见《三国演义》）。多用于本来占优势的人因疏忽而造成重大损失，口语，略带惋惜。"
     },
     "synonyms": [
-      "功亏一篑",
       "阴沟里翻船——没想到的事"
     ],
     "antonyms": [
-      "小心谨慎",
-      "万无一失"
+      "万无一失",
+      "小心谨慎"
     ]
   },
   {
     "id": "xin-wai-wu-wu",
     "text": "心外无物",
     "pinyin": "xīn wài wú wù",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
@@ -407,11 +395,9 @@
       "zh": "心学术语。不宜简单理解为否认外物存在，而是说事物的意义要通过心来呈现。多用于哲学讨论，较正式。"
     },
     "synonyms": [
-      "心即是理",
-      "知行合一"
+      "心即是理"
     ],
     "antonyms": [
-      "格物致知",
       "唯物主义"
     ]
   },
@@ -466,12 +452,10 @@
       "zh": "常用于谈自律、修身。王阳明既是军事家又是思想家，平定江西叛乱后写下此语。书面语，适合作文引用。"
     },
     "synonyms": [
-      "克己复礼",
       "战胜自我"
     ],
     "antonyms": [
-      "放纵自己",
-      "自甘堕落"
+      "放纵自己"
     ]
   },
   {
@@ -525,12 +509,11 @@
       "zh": "据载为王阳明1529年的临终遗言，表示问心无愧、坦然面对生死。书面语，庄重。"
     },
     "synonyms": [
-      "问心无愧",
-      "光明磊落"
+      "问心无愧"
     ],
     "antonyms": [
-      "做贼心虚",
-      "愧疚不安"
+      "愧疚不安",
+      "做贼心虚"
     ]
   },
   {
@@ -579,7 +562,7 @@
       }
     },
     "usage": {
-      "en": "Often quoted in novels, films and titles, e.g. Proust's title in Chinese. Expresses wistfulness for lost youth and love; literary.",
+      "en": "Often quoted in novels, films and titles; the Chinese title 追忆似水年华 (Proust's In Search of Lost Time) echoes 似水流年. Expresses wistfulness for lost youth and love; literary.",
       "zh": "常被小说、电影引用，也用作书名（如《追忆似水年华》的译名）。表达对逝去青春与爱情的怅惘，书面语。"
     },
     "synonyms": [
@@ -639,12 +622,8 @@
       "en": "The line expresses regret that circumstances spoil a good moment; 奈何天 is 'what can one do about fate'. Don't confuse with the common 4-character 良辰美景 (fine time and lovely scene). Literary.",
       "zh": "表示好景当前却因处境而无法享受的惋惜；“奈何天”即无可奈何的天意。注意与四字词“良辰美景”区别。书面语。"
     },
-    "synonyms": [
-      "好景不长",
-      "无可奈何"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "赏心悦目",
       "心旷神怡"
     ]
   },
@@ -696,14 +675,8 @@
       "en": "Usually quoted together with the previous line 良辰美景奈何天. Literary and wistful.",
       "zh": "通常与上句“良辰美景奈何天”连用，书面语，带有惆怅意味。"
     },
-    "synonyms": [
-      "孤芳自赏",
-      "形单影只"
-    ],
-    "antonyms": [
-      "喜气洋洋",
-      "其乐融融"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "qing-bu-zhi-suo-qi-yi-wang-er-shen",
@@ -754,12 +727,10 @@
       "zh": "常用于谈论爱情，后文接“生者可以死，死可以生”。书面语。"
     },
     "synonyms": [
-      "一往情深",
-      "情深意重"
+      "情深义重"
     ],
     "antonyms": [
-      "无情无义",
-      "始乱终弃"
+      "无情无义"
     ]
   },
   {
@@ -820,8 +791,8 @@
       "笔锋犀利"
     ],
     "antonyms": [
-      "明哲保身",
-      "谄媚逢迎"
+      "谄媚逢迎",
+      "明哲保身"
     ]
   },
   {

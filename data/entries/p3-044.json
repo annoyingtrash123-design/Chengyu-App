@@ -89,8 +89,7 @@
     "antonyms": [
       "抛头露面",
       "东奔西走",
-      "招摇过市",
-      "幕天席地"
+      "招摇过市"
     ]
   },
   {
@@ -132,15 +131,15 @@
     "synonyms": [
       "糊里糊涂",
       "昏昏沉沉",
-      "醉生梦死",
       "虚度年华",
       "悠悠忽忽",
-      "稀里糊涂"
+      "稀里糊涂",
+      "醉生梦死"
     ],
     "antonyms": [
       "清醒明白",
       "发愤图强",
-      "三十而立"
+      "夜以继日"
     ]
   },
   {
@@ -181,8 +180,7 @@
     },
     "synonyms": [
       "烂醉如泥",
-      "喝得大醉",
-      "酒酣耳热"
+      "喝得大醉"
     ],
     "antonyms": [
       "滴酒不沾"
@@ -228,20 +226,17 @@
     "synonyms": [
       "欺世盗名",
       "哗众取宠",
-      "竖子成名",
       "又想当婊子又想立牌坊",
-      "附庸风雅",
       "追名逐利"
     ],
     "antonyms": [
       "淡泊名利",
       "实至名归",
       "做好事不留名",
-      "无名英雄",
-      "内圣外王",
       "不求闻达",
       "桃李不言，下自成蹊",
-      "大隐隐于市"
+      "大隐隐于市",
+      "无名英雄"
     ]
   },
   {
@@ -340,22 +335,20 @@
       "zh": "多作宾语、谓语，常说“给……当头棒喝”。"
     },
     "synonyms": [
-      "警钟长鸣",
       "醍醐灌顶",
-      "当头一棒",
-      "振聋发聩"
+      "振聋发聩",
+      "当头一棒"
     ],
     "antonyms": [
-      "听之任之",
       "姑息迁就"
     ]
   },
   {
     "id": "bi-yi-qi-fei",
-    "text": "比翼齐飞",
-    "pinyin": "bǐ yì qí fēi",
+    "text": "比翼双飞",
+    "pinyin": "bǐ yì shuāng fēi",
     "variants": [
-      "比翼双飞"
+      "比翼齐飞"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -366,7 +359,7 @@
       "wedding-wishes",
       "festive-greetings"
     ],
-    "literal": "side-by-side · wings · together · fly",
+    "literal": "side-by-side · wings · pair · fly",
     "natural": "fly wing to wing",
     "meaning": {
       "en": "To fly side by side; to advance together as a loving couple or as partners.",
@@ -445,18 +438,18 @@
       "事业有成",
       "扶摇直上",
       "出人头地",
-      "鱼跃龙门",
-      "功成名就"
+      "功成名就",
+      "鱼跃龙门"
     ],
     "antonyms": [
-      "一蹶不振",
       "穷困潦倒",
-      "北门之叹",
-      "怀才不遇",
-      "李广难封",
       "沦落风尘",
       "拔了毛的凤凰——不如鸡",
       "家道中落",
+      "怀才不遇",
+      "李广难封",
+      "一蹶不振",
+      "北门之叹",
       "穷愁潦倒"
     ]
   },
@@ -497,12 +490,11 @@
       "zh": "常用“百尺竿头，更进一步”。"
     },
     "synonyms": [
-      "精益求精",
       "更上一层楼"
     ],
     "antonyms": [
-      "故步自封",
-      "停滞不前"
+      "停滞不前",
+      "故步自封"
     ]
   },
   {
@@ -565,7 +557,7 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "verbosity"
+      "attitude-humble-vs-arrogant"
     ],
     "literal": "mouth · utter · wild · words",
     "natural": "utter wild boasts",
@@ -750,7 +742,7 @@
     "register": "casual",
     "themes": [
       "unintended-results",
-      "miraculous-occurrences"
+      "fortune"
     ],
     "literal": "mistaken · hit · mistaken · bump",
     "natural": "by sheer luck",
@@ -780,8 +772,8 @@
       "阴差阳错"
     ],
     "antonyms": [
-      "有的放矢",
-      "胸有成竹"
+      "胸有成竹",
+      "有的放矢"
     ]
   },
   {
@@ -821,14 +813,12 @@
     },
     "synonyms": [
       "袅袅婷婷",
-      "亭亭玉立",
       "翩若惊鸿",
       "风姿绰约",
       "摇曳生姿",
-      "楚楚动人",
       "弱柳扶风",
       "绰约多姿",
-      "翩翩起舞"
+      "亭亭玉立"
     ],
     "antonyms": [
       "笨拙粗壮"
@@ -921,7 +911,6 @@
       "撕心裂肺"
     ],
     "antonyms": [
-      "安然无恙",
       "心如止水"
     ]
   },
@@ -965,9 +954,7 @@
     "synonyms": [
       "亲眼所见",
       "亲耳所闻",
-      "所见所闻",
-      "耳濡目染",
-      "亲眼目睹"
+      "所见所闻"
     ],
     "antonyms": [
       "道听途说",

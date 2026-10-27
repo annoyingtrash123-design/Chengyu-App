@@ -41,7 +41,7 @@
     ],
     "antonyms": [
       "安土重迁",
-      "故步自封"
+      "一动不如一静"
     ]
   },
   {
@@ -85,7 +85,6 @@
       "zh": "多指海外游子、老人终将回乡。"
     },
     "synonyms": [
-      "落叶归根",
       "狐死首丘"
     ],
     "antonyms": [
@@ -140,12 +139,10 @@
       "en": "Often shortened to 水至清则无鱼. Sometimes used to excuse sloppiness, so context matters.",
       "zh": "常简说“水至清则无鱼”，有时被用来为马虎找借口。"
     },
-    "synonyms": [
-      "宽以待人"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "吹毛求疵",
-      "求全责备"
+      "求全责备",
+      "吹毛求疵"
     ],
     "variants": [
       "人至察则无徒"
@@ -413,10 +410,11 @@
       "zh": "带保守谨慎的意味，与“树挪死，人挪活”相对。"
     },
     "synonyms": [
-      "以静制动",
       "安于现状"
     ],
-    "antonyms": []
+    "antonyms": [
+      "树挪死，人挪活"
+    ]
   },
   {
     "id": "yi-shi-bu-fan-er-zhu",
@@ -495,8 +493,7 @@
       "zh": "常用于鼓励新手，或让陌生人放松。"
     },
     "synonyms": [
-      "熟能生巧",
-      "驾轻就熟"
+      "熟能生巧"
     ],
     "antonyms": []
   },
@@ -579,12 +576,10 @@
     },
     "synonyms": [
       "防微杜渐",
-      "未雨绸缪",
-      "千里之堤，溃于蚁穴"
-    ],
-    "antonyms": [
+      "千里之堤，溃于蚁穴",
       "养痈遗患"
-    ]
+    ],
+    "antonyms": []
   },
   {
     "id": "xiao-xin-shi-de-wan-nian-chuan",
@@ -624,12 +619,12 @@
     },
     "synonyms": [
       "谨慎行事",
-      "稳扎稳打"
+      "稳扎稳打",
+      "千里之堤，溃于蚁穴"
     ],
     "antonyms": [
       "铤而走险",
-      "胆大妄为",
-      "千里之堤，溃于蚁穴"
+      "胆大妄为"
     ]
   },
   {
@@ -715,8 +710,7 @@
       "一分耕耘，一分收获"
     ],
     "antonyms": [
-      "不劳而获",
-      "守株待兔"
+      "天上掉馅饼"
     ]
   },
   {
@@ -762,7 +756,8 @@
       "顺其自然"
     ],
     "antonyms": [
-      "逆天而行"
+      "人定胜天",
+      "事在人为"
     ]
   },
   {
@@ -774,7 +769,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "poor-speech-and-silence"
     ],
     "literal": "heaven's · secret · not · may · be leaked",
     "natural": "Heaven's secrets must not be revealed",
@@ -805,6 +801,9 @@
     ],
     "antonyms": [
       "和盘托出"
+    ],
+    "variants": [
+      "天机不可泄漏"
     ]
   },
   {
@@ -889,50 +888,6 @@
     "antonyms": []
   },
   {
-    "id": "long-pei-long-feng-pei-feng",
-    "text": "龙配龙，凤配凤，老鼠的孩子会打洞",
-    "pinyin": "lóng pèi lóng, fèng pèi fèng, lǎo shǔ de hái zi huì dǎ dòng",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "parenting-and-family",
-      "love-and-marriage"
-    ],
-    "literal": "dragon · pair with · dragon, phoenix · pair with · phoenix, mouse's · child · can · dig · hole",
-    "natural": "Dragon pairs with dragon, phoenix with phoenix, and a mouse's child can dig holes",
-    "meaning": {
-      "en": "Like marries like, and children inherit their parents' traits.",
-      "zh": "门当户对，子女往往继承父母的特点。"
-    },
-    "equivalents": [
-      "Like father, like son",
-      "Birds of a feather flock together"
-    ],
-    "examples": [
-      {
-        "zh": "龙配龙，凤配凤，老鼠的孩子会打洞，旧时讲究门当户对。",
-        "en": "Dragon with dragon, phoenix with phoenix; in the old days people insisted on matching social status."
-      },
-      {
-        "zh": "龙配龙，凤配凤，老鼠的孩子会打洞，这话听着就有点势利。",
-        "en": "'Dragon pairs with dragon' sounds rather snobbish."
-      }
-    ],
-    "usage": {
-      "en": "Old-fashioned and often considered snobbish; now mostly quoted critically or jokingly.",
-      "zh": "带有旧观念和势利色彩，今多用来批评或调侃。"
-    },
-    "synonyms": [
-      "门当户对",
-      "有其父必有其子"
-    ],
-    "antonyms": [
-      "不拘一格"
-    ]
-  },
-  {
     "id": "yu-yu-xiong-zhang-bu-ke-jian-de",
     "text": "鱼与熊掌不可兼得",
     "pinyin": "yú yǔ xióng zhǎng bù kě jiān dé",
@@ -982,7 +937,8 @@
     "synonyms": [
       "二者不可得兼",
       "有所得必有所失",
-      "忠孝难两全"
+      "忠孝难两全",
+      "鱼，我所欲也，熊掌亦我所欲也"
     ],
     "antonyms": [
       "两全其美"
@@ -999,7 +955,8 @@
     "themes": [
       "bad-company-and-betrayal",
       "animal-behavior-metaphors",
-      "friendship"
+      "friendship",
+      "relationships"
     ],
     "literal": "fish · seek · fish, shrimp · seek · shrimp, tortoise · specially · seek · turtle",
     "natural": "Fish seek fish, shrimp seek shrimp, and tortoises seek turtles",
@@ -1026,10 +983,16 @@
     },
     "synonyms": [
       "物以类聚，人以群分",
-      "臭味相投"
+      "气味相投",
+      "物以类聚"
     ],
     "antonyms": [
+      "志不同道不合",
+      "格格不入",
       "道不同，不相为谋"
+    ],
+    "variants": [
+      "鱼找鱼，虾找虾，乌龟爱王八——气味相投"
     ]
   },
   {
@@ -1037,7 +1000,7 @@
     "text": "鸡蛋里挑骨头",
     "pinyin": "jī dàn lǐ tiāo gǔ tou",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -1071,9 +1034,9 @@
     },
     "synonyms": [
       "吹毛求疵",
-      "无事生非",
+      "横挑鼻子竖挑眼",
       "求全责备",
-      "横挑鼻子竖挑眼"
+      "无事生非"
     ],
     "antonyms": [
       "宽宏大量",

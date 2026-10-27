@@ -94,12 +94,9 @@
       "en": "Quoted for harsh circumstances, often with a literary touch. The next line is 明媚鲜妍能几时，一朝漂泊难寻觅。",
       "zh": "形容环境险恶、长期受压，书面感强。下句为“明媚鲜妍能几时，一朝漂泊难寻觅”。"
     },
-    "synonyms": [
-      "风刀霜剑",
-      "饱经风霜"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "如坐春风"
+      "如沐春风"
     ]
   },
   {
@@ -152,9 +149,7 @@
       "en": "In modern speech it is often shortened to 女人是水做的 and used to describe tender, tearful women, sometimes teasingly. Keep in mind it is a character's romantic opinion in the novel.",
       "zh": "现代常说“女人是水做的”，形容女性温柔易落泪，有时含调侃。原是小说人物宝玉的看法。"
     },
-    "synonyms": [
-      "冰清玉洁"
-    ],
+    "synonyms": [],
     "antonyms": [
       "须眉浊物"
     ]
@@ -298,7 +293,6 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。出自《三国演义》第九十六回，也象征执法公正。"
     },
     "synonyms": [
-      "忍痛割爱",
       "大义灭亲"
     ],
     "antonyms": [
@@ -402,8 +396,8 @@
       "相去甚远"
     ],
     "antonyms": [
-      "近在咫尺",
-      "大同小异"
+      "大同小异",
+      "近在咫尺"
     ]
   },
   {
@@ -452,7 +446,6 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。出自《西游记》第七回，孙悟空自以为到了天边，原来仍在如来佛手心。"
     },
     "synonyms": [
-      "枉费心机",
       "白费力气"
     ],
     "antonyms": [
@@ -499,13 +492,8 @@
       "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. From 《红楼梦》 chapters 39–41. The punchline can also be 眼花缭乱 or 大开眼界, depending on the speaker.",
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。出自《红楼梦》第三十九至四十一回，后半句也可说“眼花缭乱”“大开眼界”。"
     },
-    "synonyms": [
-      "少见多怪",
-      "眼花缭乱"
-    ],
-    "antonyms": [
-      "见多识广"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "lu-zhi-shen-dao-ba-chui",
@@ -548,59 +536,11 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。参见《水浒传》第七回“倒拔垂杨柳”。"
     },
     "synonyms": [
-      "力拔山兮气盖世",
-      "力大无比"
+      "力大无比",
+      "力拔山兮气盖世"
     ],
     "antonyms": [
       "手无缚鸡之力"
-    ]
-  },
-  {
-    "id": "wu-song-da-hu-yi-gao-ren-dan-da",
-    "text": "武松打虎——艺高人胆大",
-    "pinyin": "wǔ sōng dǎ hǔ —— yì gāo rén dǎn dà",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "武松打虎",
-      "艺高人胆大"
-    ],
-    "sentiment": "positive",
-    "register": "casual",
-    "themes": [
-      "stories",
-      "positive-character-qualities"
-    ],
-    "literal": "Wu Song · fight · tiger — skill · high · man · courage · great",
-    "natural": "Wu Song fights the tiger",
-    "meaning": {
-      "en": "Wu Song dared to fight a tiger because of his great skill; real ability gives one courage.",
-      "zh": "武松敢于赤手打虎，靠的是高强本领；比喻本领高强的人胆子大。"
-    },
-    "equivalents": [
-      "skill breeds courage",
-      "the bold and the skilled"
-    ],
-    "examples": [
-      {
-        "zh": "武松打虎——艺高人胆大，他敢一个人单挑整队劫匪。",
-        "en": "He dared take on the whole gang alone, since skill breeds courage."
-      },
-      {
-        "zh": "他是特技演员，真是武松打虎——艺高人胆大，什么动作都敢尝试。",
-        "en": "As a stuntman he is so skilled he dares any move."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. The punchline 艺高人胆大 is also a saying in its own right and sometimes read as a warning that over-confident experts take risks.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。后半句“艺高人胆大”也可单独使用。"
-    },
-    "synonyms": [
-      "艺高胆大",
-      "胆大心细"
-    ],
-    "antonyms": [
-      "胆小如鼠"
     ]
   },
   {
@@ -644,58 +584,10 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。出自《水浒传》林冲遭高俅陷害的情节；“逼上梁山”本身也是常见成语。"
     },
     "synonyms": [
-      "铤而走险",
-      "官逼民反"
+      "铤而走险"
     ],
     "antonyms": [
       "心甘情愿"
-    ]
-  },
-  {
-    "id": "kong-ming-tan-qin-tui-di-gu-nong-xuan-xu",
-    "text": "孔明弹琴退敌——故弄玄虚",
-    "pinyin": "kǒng míng tán qín tuì dí —— gù nòng xuán xū",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "孔明弹琴退敌",
-      "故弄玄虚"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "three-kingdoms",
-      "deception-and-false-appearances"
-    ],
-    "literal": "Kongming · play · zither · repel · enemy — deliberately · play · mystery · emptiness",
-    "natural": "Kongming plays the zither to drive off the enemy",
-    "meaning": {
-      "en": "Kongming calmly playing his zither on the city wall made the enemy think there was an ambush; to bluff with a show of mystery.",
-      "zh": "孔明在城楼上抚琴，使敌军疑有伏兵而退；比喻故意制造神秘气氛迷惑人。"
-    },
-    "equivalents": [
-      "bluff",
-      "put on a mysterious act"
-    ],
-    "examples": [
-      {
-        "zh": "他这样说是孔明弹琴退敌，其实根本没有后招。",
-        "en": "He talks that way as if Kongming's zither, but he has no plan behind it."
-      },
-      {
-        "zh": "别被他的神秘样子唬住了，这不过是孔明弹琴退敌——故弄玄虚。",
-        "en": "Don't be bluffed by his air of mystery."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Refers to the 'Empty City Stratagem' (空城计) in 《三国演义》 chapter 95, when Zhuge Liang faced Sima Yi. 故弄玄虚 is negative; the stratagem itself is admired.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。指《三国演义》第九十五回的空城计；“故弄玄虚”略含贬义，空城计本身多受赞赏。"
-    },
-    "synonyms": [
-      "虚张声势"
-    ],
-    "antonyms": [
-      "开诚布公"
     ]
   },
   {
@@ -738,9 +630,7 @@
       "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. From 《三国演义》 chapter 45: Zhou Yu's trick makes Cao Cao execute his own naval commanders. Jiang Gan is a byword for a gullible go-between.",
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。出自《三国演义》第四十五回，周瑜施反间计，曹操错杀水军将领。"
     },
-    "synonyms": [
-      "自投罗网"
-    ],
+    "synonyms": [],
     "antonyms": [
       "识破阴谋"
     ]
@@ -803,9 +693,7 @@
     "synonyms": [
       "开天辟地"
     ],
-    "antonyms": [
-      "司空见惯"
-    ]
+    "antonyms": []
   },
   {
     "id": "nu-wa-zao-ren",
@@ -854,9 +742,7 @@
       "en": "A myth title used for the origin of humankind; sometimes joked about when something is lovingly handmade.",
       "zh": "神话题目，指人类的起源；有时戏称精心手作。"
     },
-    "synonyms": [
-      "女娲补天"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -912,9 +798,7 @@
       "zh": "多用于赞扬舍小家为大家的人。原文作“三过其门而不入”。"
     },
     "synonyms": [
-      "公而忘私",
-      "废寝忘食",
-      "大禹治水"
+      "公而忘私"
     ],
     "antonyms": [
       "因私废公"

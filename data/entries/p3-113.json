@@ -62,7 +62,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "numbers",
       "journeys-and-exploration"
     ],
     "literal": "east · west · south · north",
@@ -133,13 +132,11 @@
       "zh": "多作谓语，略带书面色彩。"
     },
     "synonyms": [
-      "拆散姻缘",
-      "生离死别"
+      "拆散姻缘"
     ],
     "antonyms": [
       "成人之美",
-      "天作之合",
-      "才子佳人"
+      "天作之合"
     ]
   },
   {
@@ -181,12 +178,17 @@
     },
     "synonyms": [
       "青梅竹马",
-      "天真无邪",
-      "耳鬓厮磨"
+      "天真无邪"
     ],
     "antonyms": [
       "反目成仇"
-    ]
+    ],
+    "variants": [
+      "两小无嫌猜"
+    ],
+    "variant_kinds": {
+      "两小无嫌猜": "old"
+    }
   },
   {
     "id": "bu-shi-lu-shan-zhen-mian-mu",
@@ -286,7 +288,7 @@
       "秋高马肥"
     ],
     "antonyms": [
-      "烈日炎炎"
+      "赤日炎炎"
     ]
   },
   {
@@ -327,14 +329,10 @@
     },
     "synonyms": [
       "狭路相逢",
-      "不期而遇",
       "不是冤家不聚头",
-      "仇人相见，分外眼红",
-      "欢喜冤家"
+      "仇人相见，分外眼红"
     ],
-    "antonyms": [
-      "化敌为友"
-    ]
+    "antonyms": []
   },
   {
     "id": "qing-jing-jiao-rong",
@@ -373,11 +371,9 @@
       "zh": "多用于评论诗文、艺术作品。"
     },
     "synonyms": [
-      "寓情于景",
-      "触景生情"
+      "寓情于景"
     ],
     "antonyms": [
-      "平铺直叙",
       "索然无味"
     ]
   },
@@ -485,7 +481,6 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "love-and-marriage",
       "positive-character-qualities",
       "daoist-classics",
       "often-misused",
@@ -531,17 +526,14 @@
       "肝胆相照",
       "志同道合",
       "患难之交",
-      "忘年之交",
       "金石之交",
-      "君子之交淡如水",
       "刎颈之交",
       "忘形之交",
       "八拜之交",
       "布衣之交",
       "生死之交",
       "管鲍之交",
-      "胶漆之交",
-      "君子之交"
+      "胶漆之交"
     ],
     "antonyms": [
       "酒肉朋友",
@@ -690,12 +682,11 @@
     "synonyms": [
       "老当益壮",
       "廉颇未老",
-      "穷当益坚，老当益壮",
       "老骥伏枥"
     ],
     "antonyms": [
-      "江郎才尽",
-      "老态龙钟"
+      "老态龙钟",
+      "江郎才尽"
     ]
   },
   {
@@ -707,8 +698,8 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "simple-or-poor-clothing",
-      "contentment-and-simplicity"
+      "contentment-and-simplicity",
+      "poverty-and-hardship"
     ],
     "literal": "otherwise · have no · other · things",
     "natural": "nothing else",
@@ -780,12 +771,12 @@
     },
     "synonyms": [
       "灭顶之灾",
-      "飞来横祸",
-      "灭门之祸"
+      "灭门之祸",
+      "飞来横祸"
     ],
     "antonyms": [
-      "逢凶化吉",
-      "平安无事"
+      "平安无事",
+      "逢凶化吉"
     ]
   },
   {
@@ -794,11 +785,10 @@
     "pinyin": "liáo ruò chén xīng",
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "negative",
+    "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "small-numbers",
-      "common-and-worthless"
+      "small-numbers"
     ],
     "literal": "sparse · like · morning · stars",
     "natural": "as few as morning stars",
@@ -844,8 +834,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "mediocrity-and-poor-appearance",
-      "laziness-and-giving-up"
+      "mediocrity-and-poor-appearance"
     ],
     "literal": "mediocre · mediocre · busy · busy",
     "natural": "mediocre and aimless",
@@ -873,18 +862,16 @@
     },
     "synonyms": [
       "碌碌无为",
-      "平平庸庸",
-      "庸碌无为"
+      "平平庸庸"
     ],
     "antonyms": [
-      "大有作为",
       "出类拔萃",
       "有志之士",
       "旷世奇才",
       "卧虎藏龙",
       "龙虎风云",
-      "仁者乐山，智者乐水",
-      "桂林一枝"
+      "桂林一枝",
+      "大有作为"
     ]
   },
   {
@@ -1018,9 +1005,8 @@
       "独断专行"
     ],
     "antonyms": [
-      "谦虚谨慎",
       "平易近人",
-      "恩威并施"
+      "谦虚谨慎"
     ]
   },
   {
@@ -1039,8 +1025,9 @@
     "register": "formal",
     "themes": [
       "contentment-and-simplicity",
-      "confucian-classics",
-      "exam-favourites"
+      "exam-favourites",
+      "three-kingdoms",
+      "confucian-classics"
     ],
     "literal": "plain · indifferent · clarify · aspiration",
     "natural": "simple living clarifies purpose",
@@ -1081,11 +1068,11 @@
       "清心寡欲",
       "恬淡寡欲",
       "宁静致远",
-      "发上等愿，结中等缘，享下等福"
+      "非淡泊无以明志，非宁静无以致远"
     ],
     "antonyms": [
-      "利欲熏心",
-      "追名逐利"
+      "追名逐利",
+      "利欲熏心"
     ]
   },
   {
@@ -1125,11 +1112,8 @@
       "zh": "常用来礼貌地结束劝说。"
     },
     "synonyms": [
-      "各有千秋",
       "志趣不同"
     ],
-    "antonyms": [
-      "志同道合"
-    ]
+    "antonyms": []
   }
 ]

@@ -10,6 +10,7 @@
     "themes": [
       "bad-company-and-betrayal",
       "foolishness-and-ignorance",
+      "myths-legends",
       "daoist-classics"
     ],
     "literal": "dog · bite · Lü Dongbin, not · recognise · good · person's · heart",
@@ -53,8 +54,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "fear-and-cowardice",
-      "poor-planning-and-hasty-decisions"
+      "fear-and-cowardice"
     ],
     "literal": "front · fear · wolf, back · fear · tiger",
     "natural": "Afraid of the wolf in front and the tiger behind",
@@ -217,7 +217,6 @@
       "兵随将转"
     ],
     "antonyms": [
-      "兵不识将",
       "一将无能，累死三军"
     ]
   },
@@ -259,12 +258,10 @@
     },
     "synonyms": [
       "囫囵吞枣",
-      "欲速则不达",
       "贪大求全"
     ],
     "antonyms": [
-      "循序渐进",
-      "精益求精"
+      "循序渐进"
     ]
   },
   {
@@ -348,11 +345,12 @@
       "深藏不露",
       "大智若愚",
       "行家一出手，便知有没有",
-      "人不可貌相"
+      "人不可貌相",
+      "包子有肉不在褶上"
     ],
     "antonyms": [
-      "夸夸其谈",
-      "锋芒毕露"
+      "锋芒毕露",
+      "夸夸其谈"
     ]
   },
   {
@@ -578,12 +576,6 @@
     "id": "hua-bu-tou-ji-ban-ju-duo",
     "text": "话不投机半句多",
     "pinyin": "huà bù tóu jī bàn jù duō",
-    "variants": [
-      "酒逢知己千杯少，话不投机半句多"
-    ],
-    "variant_kinds": {
-      "酒逢知己千杯少，话不投机半句多": "full"
-    },
     "kind": "suyu",
     "frequency": 2,
     "sentiment": "negative",
@@ -660,8 +652,7 @@
       "zh": "多用于退休、辞职，常与“有子万事足”连用。"
     },
     "synonyms": [
-      "解甲归田",
-      "如释重负"
+      "解甲归田"
     ],
     "antonyms": [
       "身居要职"
@@ -717,12 +708,10 @@
       "zh": "可作谦辞，也可指大材小用。"
     },
     "synonyms": [
-      "小题大做",
-      "大材小用"
+      "大材小用",
+      "小题大做"
     ],
-    "antonyms": [
-      "恰如其分"
-    ]
+    "antonyms": []
   },
   {
     "id": "du-mu-bu-cheng-lin",
@@ -734,7 +723,7 @@
     "register": "casual",
     "themes": [
       "relationships",
-      "positive-character-qualities"
+      "unity-and-cooperation"
     ],
     "literal": "single · tree · not · form · forest",
     "natural": "A single tree doesn't make a forest",
@@ -762,12 +751,10 @@
     },
     "synonyms": [
       "孤掌难鸣",
-      "众人拾柴火焰高",
-      "独木难支"
+      "独木难支",
+      "众人拾柴火焰高"
     ],
-    "antonyms": [
-      "众志成城"
-    ]
+    "antonyms": []
   },
   {
     "id": "ren-sheng-qi-shi-gu-lai-xi",
@@ -834,7 +821,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "near-misses-and-setbacks",
       "exact-vs-approximate"
     ],
     "literal": "character 八 · still · not yet · one · stroke",
@@ -862,8 +848,7 @@
       "zh": "用于劝人别过早乐观，撇指汉字笔画。"
     },
     "synonyms": [
-      "尚无眉目",
-      "遥遥无期"
+      "尚无眉目"
     ],
     "antonyms": [
       "十拿九稳",
@@ -872,10 +857,11 @@
   },
   {
     "id": "jiu-han-feng-gan-yu",
-    "text": "久旱逢甘雨",
+    "text": "久旱逢甘霖",
     "pinyin": "jiǔ hàn féng gān yǔ",
     "variants": [
-      "久旱逢甘霖"
+      "久旱逢甘雨",
+      "久旱甘霖"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -883,7 +869,9 @@
     "register": "literary",
     "themes": [
       "joy-and-happiness",
-      "seasonal-changes"
+      "seasonal-changes",
+      "weather-and-sky",
+      "comebacks-and-renewal"
     ],
     "literal": "long · drought · meet · sweet · rain",
     "natural": "Long drought meets sweet rain",
@@ -910,12 +898,11 @@
       "zh": "出自“四大喜事”之说：久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时。"
     },
     "synonyms": [
-      "雪中送炭",
-      "如愿以偿",
-      "春雨贵如油"
+      "雪中送炭"
     ],
     "antonyms": [
-      "雪上加霜"
+      "雪上加霜",
+      "缓不济急"
     ]
   },
   {
@@ -1006,9 +993,7 @@
       "en": "Usually said with a laugh after discovering the misunderstanding; the short form 大水冲了龙王庙 is also used.",
       "zh": "发现误会后笑着说，常简说前半句。"
     },
-    "synonyms": [
-      "不打不相识"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -1096,9 +1081,7 @@
     "synonyms": [
       "良禽择木"
     ],
-    "antonyms": [
-      "安于现状"
-    ]
+    "antonyms": []
   },
   {
     "id": "shan-you-shan-bao-e-you-e-bao",

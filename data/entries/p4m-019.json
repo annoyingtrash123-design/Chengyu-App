@@ -49,11 +49,10 @@
       "zh": "经典引文，书面语，常用来论证或劝勉。"
     },
     "synonyms": [
-      "一致对外"
-    ],
-    "antonyms": [
+      "一致对外",
       "同室操戈"
-    ]
+    ],
+    "antonyms": []
   },
   {
     "id": "jian-ting-ze-ming-pian-xin-ze-an",
@@ -70,7 +69,9 @@
       "essay-favourites",
       "historical-records",
       "statesmen",
-      "famous-quotes"
+      "famous-quotes",
+      "mistakes-and-correction",
+      "exam-favourites"
     ],
     "literal": "hear · all · then · clear, favour · one · believe · then · dark",
     "natural": "Listen to all sides and you will see clearly; trust only one side and you will be misled",
@@ -109,8 +110,15 @@
     },
     "synonyms": [],
     "antonyms": [
+      "集思广益",
       "偏听偏信"
-    ]
+    ],
+    "variants": [
+      "偏听则暗"
+    ],
+    "variant_kinds": {
+      "偏听则暗": "short"
+    }
   },
   {
     "id": "fen-jiu-bi-he-he-jiu-bi-fen",
@@ -162,9 +170,7 @@
       "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
-    "synonyms": [
-      "物极必反"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -219,7 +225,8 @@
     },
     "synonyms": [
       "怀才不遇",
-      "慧眼识珠"
+      "慧眼识珠",
+      "世有伯乐，然后有千里马"
     ],
     "antonyms": []
   },
@@ -232,11 +239,11 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "bad-company-and-betrayal",
       "positive-character-qualities",
       "love-and-marriage",
       "essay-favourites",
-      "historical-records"
+      "historical-records",
+      "friendship"
     ],
     "literal": "scholar · for · know · self · ones · die, woman · for · delight · self · ones · adorn",
     "natural": "A man will die for one who understands him; a woman adorns herself for one who delights in her",
@@ -272,9 +279,7 @@
       "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
-    "synonyms": [
-      "士为知己者死"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -405,7 +410,8 @@
       "fairness-and-impartiality",
       "essay-favourites",
       "thinkers",
-      "famous-quotes"
+      "famous-quotes",
+      "public-opinion"
     ],
     "literal": "gain · the Way · much · help, lose · the Way · little · help",
     "natural": "One who has the Way gets much support; one who loses it gets little",
@@ -442,7 +448,13 @@
       "zh": "经典引文，书面语，常用来论证或劝勉。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "得道者多助，失道者寡助"
+    ],
+    "variant_kinds": {
+      "得道者多助，失道者寡助": "full"
+    }
   },
   {
     "id": "xia-chong-bu-ke-yi-yu-bing",
@@ -498,7 +510,13 @@
       "井底之蛙",
       "坐井观天"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "夏虫不可语冰"
+    ],
+    "variant_kinds": {
+      "夏虫不可语冰": "short"
+    }
   },
   {
     "id": "man-zhao-sun-qian-shou-yi",
@@ -716,7 +734,9 @@
       "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "瓜田李下"
+    ],
     "antonyms": [
       "肆无忌惮"
     ]
@@ -772,10 +792,8 @@
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
     "synonyms": [
-      "日久见人心",
       "路遥知马力，日久见人心",
       "松柏后凋",
-      "烈火见真金",
       "真金不怕火炼"
     ],
     "antonyms": []
@@ -1111,9 +1129,7 @@
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
     "synonyms": [],
-    "antonyms": [
-      "骄兵必败"
-    ]
+    "antonyms": []
   },
   {
     "id": "yan-bi-xin-xing-bi-guo",
@@ -1166,9 +1182,8 @@
       "zh": "经典引文，书面语，常用来论证或劝勉。"
     },
     "synonyms": [
-      "一诺千金",
       "信守承诺",
-      "说得好不如做得好"
+      "一诺千金"
     ],
     "antonyms": [
       "言而无信"
@@ -1231,62 +1246,6 @@
     "antonyms": [
       "不识时务",
       "螳臂当车"
-    ]
-  },
-  {
-    "id": "guo-er-neng-gai-shan-mo-da-yan",
-    "text": "过而能改，善莫大焉",
-    "pinyin": "guò ér néng gǎi, shàn mò dà yān",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "mistakes-and-correction",
-      "positive-character-qualities",
-      "essay-favourites",
-      "historical-records"
-    ],
-    "literal": "err · and · can · correct, good · none · greater · there",
-    "natural": "To make a mistake and be able to correct it is the greatest good",
-    "meaning": {
-      "en": "Everyone errs; the best thing is to correct a fault.",
-      "zh": "人谁无过，知错能改是最大的善行。"
-    },
-    "equivalents": [
-      "to err is human, to correct it is the best",
-      "a fault confessed is half redressed"
-    ],
-    "examples": [
-      {
-        "zh": "他当众承认了错误，真是“过而能改，善莫大焉”。",
-        "en": "He admitted his mistake in public: this line exactly."
-      },
-      {
-        "zh": "父亲对我说：“过而能改，善莫大焉”，别怕认错。",
-        "en": "My father said to me, don't be afraid to admit a mistake."
-      }
-    ],
-    "origin": {
-      "source": "《左传·宣公二年》",
-      "story": {
-        "en": "The minister Shi Ji remonstrated with Duke Ling of Jin, a king who had done wrong, saying 'who is without fault? But to be able to correct a fault is the greatest good'.",
-        "zh": "晋国大夫士季劝谏晋灵公：“人谁无过？过而能改，善莫大焉。”"
-      },
-      "date": {
-        "zh": "战国 · 前4世纪",
-        "en": "Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
-      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
-    },
-    "synonyms": [
-      "知错能改，善莫大焉"
-    ],
-    "antonyms": [
-      "文过饰非"
     ]
   }
 ]

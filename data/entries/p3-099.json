@@ -39,7 +39,7 @@
     "synonyms": [
       "石沉大海",
       "杳无音信",
-      "一去不返"
+      "一去不复返"
     ],
     "antonyms": [
       "音讯不断",
@@ -84,8 +84,7 @@
     },
     "synonyms": [
       "目空一切",
-      "自命不凡",
-      "眼高手低"
+      "自命不凡"
     ],
     "antonyms": [
       "谦虚谨慎",
@@ -239,7 +238,9 @@
     "themes": [
       "love-and-marriage",
       "complex-emotional-states",
-      "often-misused"
+      "often-misused",
+      "relationships",
+      "exam-favourites"
     ],
     "literal": "love · house · extend to · crow",
     "natural": "love me, love my dog",
@@ -277,14 +278,15 @@
       "zh": "多作谓语，多指喜爱。"
     },
     "synonyms": [
-      "情人眼里出西施",
-      "推己及人",
-      "屋乌之爱",
-      "打狗还得看主人"
+      "推爱及物"
     ],
     "antonyms": [
-      "殃及池鱼",
-      "迁怒于人"
+      "迁怒于人",
+      "恨屋及乌",
+      "爱憎分明"
+    ],
+    "variants": [
+      "屋乌之爱"
     ]
   },
   {
@@ -324,12 +326,11 @@
       "zh": "多作谓语，常说“被屈打成招”。"
     },
     "synonyms": [
-      "严刑逼供",
-      "冤假错案"
+      "严刑逼供"
     ],
     "antonyms": [
-      "沉冤昭雪",
-      "据实供述"
+      "据实供述",
+      "沉冤昭雪"
     ]
   },
   {
@@ -417,7 +418,6 @@
     "synonyms": [
       "横行霸道",
       "作威作福",
-      "独断专行",
       "南面称孤",
       "关起门来做皇帝"
     ],
@@ -464,8 +464,8 @@
     },
     "synonyms": [
       "天下无双",
-      "举世无双",
-      "首屈一指"
+      "首屈一指",
+      "举世无双"
     ],
     "antonyms": [
       "平平无奇",
@@ -528,8 +528,8 @@
     "register": "neutral",
     "themes": [
       "journeys-and-exploration",
-      "plant-and-natural-world",
-      "landscapes"
+      "landscapes",
+      "nature"
     ],
     "literal": "famous · mountain · great · river",
     "natural": "famous mountains and great rivers",
@@ -557,8 +557,7 @@
     },
     "synonyms": [
       "大好河山",
-      "锦绣河山",
-      "三山五岳"
+      "锦绣河山"
     ],
     "antonyms": [
       "穷乡僻壤"
@@ -605,10 +604,7 @@
       "自食其果",
       "作茧自缚"
     ],
-    "antonyms": [
-      "防患于未然",
-      "未雨绸缪"
-    ]
+    "antonyms": []
   },
   {
     "id": "zhi-de-yi-man",
@@ -653,8 +649,8 @@
       "踌躇满志"
     ],
     "antonyms": [
-      "灰心丧气",
-      "垂头丧气"
+      "垂头丧气",
+      "灰心丧气"
     ]
   },
   {
@@ -739,12 +735,11 @@
       "zh": "多作谓语，书面语。"
     },
     "synonyms": [
-      "土崩瓦解",
       "各个击破"
     ],
     "antonyms": [
-      "团结一心",
-      "众志成城"
+      "众志成城",
+      "团结一心"
     ]
   },
   {
@@ -879,13 +874,11 @@
     "synonyms": [
       "德才兼备",
       "才子佳人",
-      "文武双全",
       "秀外慧中",
       "色艺双绝",
       "风华绝代"
     ],
     "antonyms": [
-      "才疏学浅",
       "相貌平平"
     ]
   },
@@ -927,15 +920,13 @@
     },
     "synonyms": [
       "所向无敌",
-      "战无不胜",
-      "举世无双"
+      "战无不胜"
     ],
     "antonyms": [
       "不堪一击",
       "一败涂地",
       "强中自有强中手",
-      "石膏点豆腐——一物降一物",
-      "卤水点豆腐——一物降一物"
+      "一物降一物"
     ]
   },
   {

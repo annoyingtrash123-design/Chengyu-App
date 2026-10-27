@@ -35,8 +35,7 @@
       "zh": "用于风险、迷信或传闻。"
     },
     "synonyms": [
-      "防患于未然",
-      "有备无患"
+      "防患于未然"
     ],
     "antonyms": [
       "掉以轻心"
@@ -129,9 +128,7 @@
     "synonyms": [
       "以理服人"
     ],
-    "antonyms": [
-      "强词夺理"
-    ]
+    "antonyms": []
   },
   {
     "id": "you-fu-tong-xiang-you-nan-tong-dang",
@@ -178,6 +175,7 @@
       "患难与共"
     ],
     "antonyms": [
+      "见利忘义",
       "同床异梦"
     ]
   },
@@ -395,10 +393,11 @@
       "en": "Self-deprecating or defensive: claim of second-hand knowledge. Casual.",
       "zh": "自谦或为自己辩解，表示有间接经验。口语。"
     },
-    "synonyms": [
-      "耳濡目染"
-    ],
-    "antonyms": []
+    "synonyms": [],
+    "antonyms": [],
+    "variants": [
+      "没吃过猪肉，还没见过猪跑吗"
+    ]
   },
   {
     "id": "lao-hu-bu-fa-wei-ni-dang-wo-shi-bing-mao",
@@ -538,7 +537,7 @@
     "text": "放下屠刀，立地成佛",
     "pinyin": "fàng xià tú dāo, lì dì chéng fó",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -571,53 +570,13 @@
       "zh": "带佛教色彩，有时讽刺刚刚收手的人。"
     },
     "synonyms": [
-      "改过自新",
-      "回头是岸"
+      "回头是岸",
+      "改过自新"
     ],
     "antonyms": [
       "怙恶不悛",
       "执迷不悟"
     ]
-  },
-  {
-    "id": "fo-yao-jin-zhuang-ren-yao-yi-zhuang",
-    "text": "佛要金装，人要衣装",
-    "pinyin": "fó yào jīn zhuāng, rén yào yī zhuāng",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "fine-dress-and-fashion",
-      "appearance",
-      "buddhist-origin"
-    ],
-    "literal": "Buddha · needs · gold gilding, person · needs · clothes",
-    "natural": "A Buddha needs gilding, a person needs clothes",
-    "meaning": {
-      "en": "Good clothes improve a person's appearance as gilding does a Buddha statue.",
-      "zh": "佛像要贴金才好看，人要穿得好才显精神。"
-    },
-    "equivalents": [
-      "Clothes make the man",
-      "Fine feathers make fine birds"
-    ],
-    "examples": [
-      {
-        "zh": "佛要金装，人要衣装，去见客户穿得体面点。",
-        "en": "A Buddha needs gilding and a person needs clothes; dress smartly to meet the client."
-      },
-      {
-        "zh": "佛要金装，人要衣装，换身衣服就不一样了。",
-        "en": "A change of clothes makes all the difference."
-      }
-    ],
-    "usage": {
-      "en": "Same idea as 人靠衣装，佛靠金装, with the clauses reversed.",
-      "zh": "与“人靠衣装，佛靠金装”意思相同。"
-    },
-    "synonyms": [],
-    "antonyms": []
   },
   {
     "id": "chu-jia-ren-bu-da-kuang-yu",
@@ -702,9 +661,7 @@
       "en": "Often an implied threat. The 庙 stands for the person's property or workplace.",
       "zh": "常含威胁意味，“庙”指跑不掉的产业或单位。"
     },
-    "synonyms": [
-      "插翅难逃"
-    ],
+    "synonyms": [],
     "antonyms": [
       "逍遥法外"
     ]
@@ -915,55 +872,12 @@
       "zh": "常作自谦。关羽以大刀闻名，与“班门弄斧”相近。"
     },
     "synonyms": [
-      "班门弄斧",
       "不自量力",
-      "鲁班门前弄大斧"
+      "班门弄斧"
     ],
     "antonyms": [
       "虚心求教"
     ]
-  },
-  {
-    "id": "lu-ban-men-qian-nong-da-fu",
-    "text": "鲁班门前弄大斧",
-    "pinyin": "lǔ bān mén qián nòng dà fǔ",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "attitude-humble-vs-arrogant",
-      "useful-tools-and-skill",
-      "polite-humble"
-    ],
-    "literal": "Lu Ban · gate · in front of · play with · big · axe",
-    "natural": "Swinging a big axe at Lu Ban's door",
-    "meaning": {
-      "en": "To show off before an expert; to display skill in front of a master.",
-      "zh": "在行家面前显示本领，不自量力。"
-    },
-    "equivalents": [
-      "Teach your grandmother to suck eggs"
-    ],
-    "examples": [
-      {
-        "zh": "在老师傅面前讲木工，真是鲁班门前弄大斧。",
-        "en": "Lecturing an old master on woodwork is swinging an axe at Lu Ban's door."
-      },
-      {
-        "zh": "我这是鲁班门前弄大斧，让您见笑了。",
-        "en": "I'm showing off in front of a master; please forgive me."
-      }
-    ],
-    "usage": {
-      "en": "Longer form of 班门弄斧; Lu Ban was the legendary patron of carpenters. Often self-deprecating.",
-      "zh": "是“班门弄斧”的长式。鲁班是木匠祖师，常作自谦。"
-    },
-    "synonyms": [
-      "班门弄斧",
-      "关公面前耍大刀"
-    ],
-    "antonyms": []
   },
   {
     "id": "qiang-tou-cao-sui-feng-dao",
@@ -1006,8 +920,7 @@
       "zh": "常单用“墙头草”指见风使舵的人。"
     },
     "synonyms": [
-      "见风使舵",
-      "两面三刀"
+      "见风使舵"
     ],
     "antonyms": [
       "坚定不移",

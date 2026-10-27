@@ -3,7 +3,7 @@
     "id": "yong-he-jiu-nian-sui-zai",
     "text": "永和九年，岁在癸丑，暮春之初，会于会稽山阴之兰亭，修禊事也",
     "pinyin": "yǒng hé jiǔ nián, suì zài guǐ chǒu, mù chūn zhī chū, huì yú kuài jī shān yīn zhī lán tíng, xiū xì shì yě",
-    "kind": "mingju",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
@@ -209,7 +209,9 @@
       "en": "A quoted line; literary, common in essays, captions and speeches.",
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "熟能生巧"
+    ],
     "antonyms": []
   },
   {
@@ -636,7 +638,9 @@
       "en": "A quotation from the Analects; formal, used to make an argument or give advice.",
       "zh": "《论语》引文，书面语，常用来论证或劝勉。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "不耻下问"
+    ],
     "antonyms": []
   },
   {
@@ -742,60 +746,6 @@
     "usage": {
       "en": "A quotation from the Analects; formal, used to make an argument or give advice.",
       "zh": "《论语》引文，书面语，常用来论证或劝勉。"
-    },
-    "synonyms": [],
-    "antonyms": []
-  },
-  {
-    "id": "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
-    "text": "得道者多助，失道者寡助",
-    "pinyin": "dé dào zhě duō zhù, shī dào zhě guǎ zhù",
-    "kind": "mingju",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "confucian-classics",
-      "good-governance",
-      "public-opinion",
-      "essay-favourites",
-      "thinkers",
-      "famous-quotes"
-    ],
-    "literal": "gain · the right way · one · many · help, lose · the right way · one · few · help",
-    "natural": "One who follows the right way gets much help; one who loses it gets little",
-    "meaning": {
-      "en": "A just cause draws support while an unjust one is deserted; quoted in political and business commentary.",
-      "zh": "主持正义的人得到许多帮助，违背正道的人则孤立无援，常见于时评和商业评论。"
-    },
-    "equivalents": [
-      "a just cause gains support",
-      "justice attracts allies"
-    ],
-    "examples": [
-      {
-        "zh": "“得道者多助，失道者寡助”，诚信经营的企业口碑越来越好。",
-        "en": "'得道者多助，失道者寡助': companies that operate honestly gain a good reputation."
-      },
-      {
-        "zh": "评论员以“得道者多助，失道者寡助”分析战局。",
-        "en": "The commentator used '得道者多助，失道者寡助' to analyse the war."
-      }
-    ],
-    "origin": {
-      "source": "《孟子·公孙丑下》",
-      "story": {
-        "en": "Mencius argues that victory comes from the support of the people ('human harmony'), not from favourable weather or terrain.",
-        "zh": "孟子论“天时不如地利，地利不如人和”，指出得民心者得天下。"
-      },
-      "date": {
-        "zh": "战国中期 · 前4世纪",
-        "en": "mid Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "A quoted line; literary, common in essays, captions and speeches.",
-      "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
     "synonyms": [],
     "antonyms": []
@@ -907,7 +857,8 @@
     },
     "synonyms": [
       "天下为主，君为客",
-      "天下之治乱，不在一姓之兴亡，而在万民之忧乐"
+      "天下之治乱，不在一姓之兴亡，而在万民之忧乐",
+      "民贵君轻"
     ],
     "antonyms": []
   },
@@ -1073,7 +1024,9 @@
       "en": "A quoted line; literary, common in essays, captions and speeches.",
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "塞翁失马"
+    ],
     "antonyms": []
   },
   {
@@ -1128,8 +1081,8 @@
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
     "synonyms": [
-      "有自知之明",
-      "自知之明"
+      "自知之明",
+      "有自知之明"
     ],
     "antonyms": [],
     "variants": [

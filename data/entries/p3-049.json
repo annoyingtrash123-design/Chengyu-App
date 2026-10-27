@@ -37,14 +37,11 @@
     },
     "synonyms": [
       "推心置腹",
-      "披肝沥胆",
-      "把酒言欢",
-      "西窗剪烛",
-      "抵足而眠"
+      "西窗剪烛"
     ],
     "antonyms": [
-      "话不投机",
-      "针锋相对"
+      "针锋相对",
+      "话不投机"
     ]
   },
   {
@@ -88,7 +85,6 @@
       "灯红酒绿",
       "荒淫无度",
       "声色犬马",
-      "铺张浪费",
       "醇酒美人",
       "眠花宿柳"
     ],
@@ -134,17 +130,16 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "以少敌多",
       "众寡悬殊",
-      "敌众我寡"
+      "敌众我寡",
+      "兵微将寡"
     ],
     "antonyms": [
       "以一当十",
       "人多势众",
-      "棋逢对手",
-      "投鞭断流",
+      "以少胜多",
       "势均力敌",
-      "以少胜多"
+      "投鞭断流"
     ]
   },
   {
@@ -237,8 +232,7 @@
       "根深蒂固"
     ],
     "antonyms": [
-      "浮光掠影",
-      "隔靴搔痒"
+      "浮光掠影"
     ]
   },
   {
@@ -251,7 +245,7 @@
     "register": "neutral",
     "themes": [
       "standards-and-benchmarks",
-      "attitude-humble-vs-arrogant"
+      "conduct"
     ],
     "literal": "one · beat · one · beat",
     "natural": "by the book",
@@ -280,10 +274,10 @@
     },
     "synonyms": [
       "循规蹈矩",
-      "有条不紊",
-      "一字一板",
       "有板有眼",
-      "中规中矩"
+      "中规中矩",
+      "有条不紊",
+      "一字一板"
     ],
     "antonyms": [
       "随心所欲",
@@ -364,8 +358,8 @@
         "en": "His skill is so high that peers can't come near him."
       },
       {
-        "zh": "这家店的服务，别家望其项背。",
-        "en": "Other shops can't hold a candle to this one's service."
+        "zh": "这家店的服务，别家难以望其项背。",
+        "en": "No other shop can come close to this shop's service."
       }
     ],
     "usage": {
@@ -373,58 +367,12 @@
       "zh": "多用否定式“难以望其项背”。"
     },
     "synonyms": [
-      "相形见绌",
       "不可企及",
       "瞠乎其后"
     ],
     "antonyms": [
       "并驾齐驱",
       "不相上下"
-    ]
-  },
-  {
-    "id": "wei-fei-zuo-e",
-    "text": "为非作恶",
-    "pinyin": "wéi fēi zuò è",
-    "kind": "chengyu",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "inappropriate-behavior",
-      "negative-character-flaws"
-    ],
-    "literal": "do · wrong · commit · evil",
-    "natural": "do evil",
-    "meaning": {
-      "en": "To commit wrongful and wicked acts.",
-      "zh": "做各种坏事。"
-    },
-    "equivalents": [
-      "do evil",
-      "commit wicked deeds"
-    ],
-    "examples": [
-      {
-        "zh": "这伙人长期为非作恶，终于被抓获。",
-        "en": "The gang did evil for years and were finally caught."
-      },
-      {
-        "zh": "他仗着权势为非作恶。",
-        "en": "He abused his power to do wicked things."
-      }
-    ],
-    "usage": {
-      "en": "Predicate.",
-      "zh": "多作谓语。"
-    },
-    "synonyms": [
-      "胡作非为",
-      "无恶不作"
-    ],
-    "antonyms": [
-      "积德行善",
-      "奉公守法"
     ]
   },
   {
@@ -475,8 +423,8 @@
     "antonyms": [
       "怨天尤人",
       "文过饰非",
-      "目不见睫",
-      "拉不出屎来怨茅房"
+      "拉不出屎来怨茅房",
+      "目不见睫"
     ]
   },
   {
@@ -521,7 +469,6 @@
     },
     "synonyms": [
       "说长道短",
-      "吹毛求疵",
       "臧否人物",
       "指手画脚",
       "说白道黑",
@@ -529,7 +476,6 @@
     ],
     "antonyms": [
       "守口如瓶",
-      "赞不绝口",
       "不赞一词"
     ]
   },
@@ -575,7 +521,6 @@
     "synonyms": [
       "东山再起",
       "卷土重来",
-      "重建家园",
       "浴火重生"
     ],
     "antonyms": [
@@ -625,15 +570,14 @@
       "人去楼空",
       "时过境迁",
       "时移世易",
-      "恍如隔世",
-      "沧海桑田",
       "雕栏玉砌应犹在，只是朱颜改",
-      "睹物思人",
-      "人面桃花"
+      "人面桃花",
+      "去年今日此门中，人面桃花相映红",
+      "昔人已乘黄鹤去，此地空余黄鹤楼"
     ],
     "antonyms": [
-      "依然如故",
-      "一如既往"
+      "一如既往",
+      "依然如故"
     ]
   },
   {
@@ -673,7 +617,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "挥毫泼墨",
       "一挥而就"
     ],
     "antonyms": [
@@ -722,7 +665,7 @@
     ],
     "antonyms": [
       "完好无损",
-      "毫发无伤"
+      "毫发无损"
     ]
   },
   {
@@ -813,7 +756,6 @@
     "synonyms": [
       "恩威并施",
       "软硬兼施",
-      "外圆内方",
       "宽猛相济",
       "铁汉柔情"
     ],
@@ -831,7 +773,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "modest-goals",
       "relative-measurements"
     ],
     "literal": "pellet · 's · land",
@@ -866,7 +807,6 @@
     "antonyms": [
       "广袤无垠",
       "地大物博",
-      "三山五岳",
       "一望无际",
       "一碧万顷"
     ]
@@ -911,9 +851,8 @@
     "synonyms": [
       "魂牵梦萦",
       "心向往之",
-      "怦然心动",
-      "令人神往",
-      "悠然神往"
+      "悠然神往",
+      "令人神往"
     ],
     "antonyms": [
       "无动于衷",
@@ -959,7 +898,6 @@
     "synonyms": [
       "无微不至",
       "关怀备至",
-      "怜香惜玉",
       "细致入微",
       "嘘寒问暖",
       "善解人意"
@@ -1010,8 +948,8 @@
       "众说纷纭"
     ],
     "antonyms": [
-      "众口一词",
-      "有口皆碑"
+      "有口皆碑",
+      "众口一词"
     ]
   },
   {
@@ -1052,8 +990,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "浮躁不安",
-      "急功近利"
+      "浮躁不安"
     ],
     "antonyms": [
       "心平气和",
@@ -1076,7 +1013,7 @@
     "register": "casual",
     "themes": [
       "verbosity",
-      "adaptability"
+      "speech"
     ],
     "literal": "good · say · bad · say",
     "natural": "coax and plead",
@@ -1106,10 +1043,7 @@
       "苦口婆心",
       "费尽口舌"
     ],
-    "antonyms": [
-      "一言不发",
-      "置之不理"
-    ]
+    "antonyms": []
   },
   {
     "id": "shen-de-ren-xin",
@@ -1199,14 +1133,11 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "一笔抹杀",
-      "烟消云散"
-    ],
+    "synonyms": [],
     "antonyms": [
       "耿耿于怀",
-      "旧事重提",
-      "秋后算账"
+      "秋后算账",
+      "旧事重提"
     ]
   }
 ]

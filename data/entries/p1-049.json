@@ -47,68 +47,9 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "韦编三绝",
-      "孜孜不倦"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "浅尝辄止",
       "一曝十寒"
-    ]
-  },
-  {
-    "id": "liu-xu-cai-gao",
-    "text": "柳絮才高",
-    "pinyin": "liǔ xù cái gāo",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "excellent-writing",
-      "stories"
-    ],
-    "literal": "willow · catkins · talent · high",
-    "natural": "Talent shown by willow catkins",
-    "meaning": {
-      "en": "(Of a woman) brilliant literary talent.",
-      "zh": "称赞女子有文才。"
-    },
-    "equivalents": [
-      "a brilliant woman writer",
-      "a gifted poetess"
-    ],
-    "examples": [
-      {
-        "zh": "她柳絮才高，诗词写得极好。",
-        "en": "She has brilliant literary talent and writes wonderful poetry."
-      },
-      {
-        "zh": "谢道韫柳絮才高，传为佳话。",
-        "en": "Xie Daoyun's literary gift became a celebrated tale."
-      }
-    ],
-    "origin": {
-      "source": "刘义庆《世说新语·言语》",
-      "story": {
-        "en": "One snowy day Xie An asked what the snow resembled. His nephew said \"salt scattered in the air\"; his niece Xie Daoyun said \"better, willow catkins rising on the wind\" — and was praised for her wit.",
-        "zh": "谢安问雪像什么，侄子说\"撒盐空中差可拟\"，侄女谢道韫说\"未若柳絮因风起\"，谢安大加赞赏。"
-      },
-      "date": {
-        "zh": "南朝宋 · 约430年",
-        "en": "Liu Song, c. 430"
-      }
-    },
-    "usage": {
-      "en": "Predicate. About women.",
-      "zh": "多作谓语，用于女子。"
-    },
-    "synonyms": [
-      "咏絮之才",
-      "才高八斗"
-    ],
-    "antonyms": [
-      "胸无点墨"
     ]
   },
   {
@@ -121,9 +62,9 @@
     "register": "neutral",
     "themes": [
       "effort",
-      "laziness-and-giving-up",
       "exam-favourites",
-      "qing-dynasty"
+      "qing-dynasty",
+      "near-misses-and-setbacks"
     ],
     "literal": "repeatedly · lose · repeatedly · fight",
     "natural": "Losing again and again, fighting again and again",
@@ -153,15 +94,14 @@
     "synonyms": [
       "百折不挠",
       "锲而不舍",
-      "越挫越勇",
-      "失败是成功之母",
       "愈挫愈勇",
-      "败而不馁"
+      "败而不馁",
+      "越挫越勇"
     ],
     "antonyms": [
-      "屡战屡败",
       "一蹶不振",
-      "半途而废"
+      "半途而废",
+      "屡战屡败"
     ]
   },
   {
@@ -202,12 +142,11 @@
       "zh": "多作谓语、宾语。源自吴语（上海话）。"
     },
     "synonyms": [
-      "巧妇难为无米之炊",
-      "蜗角之争"
+      "巧妇难为无米之炊"
     ],
     "antonyms": [
-      "绰绰有余",
-      "游刃有余"
+      "游刃有余",
+      "绰绰有余"
     ]
   },
   {
@@ -260,13 +199,11 @@
     },
     "synonyms": [
       "危如累卵",
-      "岌岌可危",
       "莽撞行事"
     ],
     "antonyms": [
       "稳扎稳打",
-      "心中有数",
-      "有备无患"
+      "心中有数"
     ]
   },
   {
@@ -308,7 +245,7 @@
     },
     "synonyms": [
       "迷惑不解",
-      "百思不解",
+      "百思不得其解",
       "一头雾水",
       "大惑不解"
     ],
@@ -355,9 +292,7 @@
       "en": "Noun phrase. Plum = resilience in winter, orchid = refinement, bamboo = integrity, chrysanthemum = reclusive purity.",
       "zh": "名词性。梅傲雪，兰幽雅，竹有节，菊淡泊。"
     },
-    "synonyms": [
-      "岁寒三友"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -400,8 +335,7 @@
     "synonyms": [
       "门可罗雀",
       "冷冷清清",
-      "无人问津",
-      "家道中落"
+      "无人问津"
     ],
     "antonyms": [
       "门庭若市",
@@ -414,7 +348,7 @@
     "text": "密密麻麻",
     "pinyin": "mì mì má má",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -448,8 +382,8 @@
     },
     "synonyms": [
       "密密层层",
-      "星罗棋布",
-      "鳞次栉比"
+      "鳞次栉比",
+      "星罗棋布"
     ],
     "antonyms": [
       "稀稀落落",
@@ -463,7 +397,7 @@
     "text": "名声大噪",
     "pinyin": "míng shēng dà zào",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -502,8 +436,8 @@
     ],
     "antonyms": [
       "默默无闻",
-      "声名狼藉",
-      "销声匿迹"
+      "销声匿迹",
+      "声名狼藉"
     ]
   },
   {
@@ -518,7 +452,7 @@
       "铁杵磨成针": "full"
     },
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -612,8 +546,7 @@
       "鼠目寸光",
       "目光短浅",
       "井底之蛙",
-      "坐井观天",
-      "肉食者鄙"
+      "坐井观天"
     ],
     "antonyms": [
       "高瞻远瞩",
@@ -648,7 +581,7 @@
     ],
     "examples": [
       {
-        "zh": "他修车多年，已目无全牛。",
+        "zh": "他拆装机器多年，已到目无全牛的境界。",
         "en": "After years fixing cars, he knows them inside out."
       },
       {
@@ -677,8 +610,8 @@
       "炉火纯青"
     ],
     "antonyms": [
-      "一窍不通",
-      "笨手笨脚"
+      "笨手笨脚",
+      "一窍不通"
     ]
   },
   {
@@ -689,7 +622,7 @@
       "难如登天"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -734,12 +667,9 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "比登天还难",
-      "寸步难行",
-      "难于上青天",
-      "蜀道之难，难于上青天",
       "谈何容易",
       "难上加难",
+      "难于上青天",
       "骆驼穿过针眼"
     ],
     "antonyms": [
@@ -803,8 +733,7 @@
     },
     "synonyms": [
       "坚贞不屈",
-      "宁死不屈",
-      "卧薪尝胆"
+      "宁死不屈"
     ],
     "antonyms": [
       "卖国求荣",
@@ -860,8 +789,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "依依不舍",
-      "爱民如子"
+      "依依不舍"
     ],
     "antonyms": [
       "怨声载道",
@@ -907,10 +835,7 @@
     },
     "synonyms": [
       "自暴自弃",
-      "自甘堕落",
-      "一蹶不振",
-      "虱子多了不痒，债多了不愁",
-      "光脚的不怕穿鞋的"
+      "自甘堕落"
     ],
     "antonyms": [
       "奋发图强",
@@ -972,8 +897,10 @@
       "悬梁刺股"
     ],
     "antonyms": [
-      "不学无术",
       "饱食终日"
+    ],
+    "variants": [
+      "燃糠自照"
     ]
   },
   {
@@ -1027,9 +954,7 @@
       "睹物思人",
       "痛失亲人"
     ],
-    "antonyms": [
-      "喜气洋洋"
-    ]
+    "antonyms": []
   },
   {
     "id": "ren-wei-quan-qing",
@@ -1074,8 +999,8 @@
     ],
     "antonyms": [
       "位高权重",
-      "举足轻重",
-      "一言九鼎"
+      "一言九鼎",
+      "举足轻重"
     ]
   },
   {
@@ -1126,7 +1051,6 @@
       "zh": "多作谓语或单独成句。"
     },
     "synonyms": [
-      "望尘莫及",
       "可望而不可即"
     ],
     "antonyms": [
@@ -1184,25 +1108,24 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "以子之矛，攻子之盾",
-      "以其人之道，还治其人之身"
+      "以其人之道，还治其人之身",
+      "以子之矛，攻子之盾"
     ],
-    "antonyms": [
-      "自相矛盾"
-    ]
+    "antonyms": []
   },
   {
     "id": "run-wu-wu-sheng",
     "text": "润物无声",
     "pinyin": "rùn wù wú shēng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
       "effective-teaching-methods",
       "nature",
-      "poems-prose"
+      "poems-prose",
+      "poets"
     ],
     "literal": "moisten · things · no · sound",
     "natural": "Nourishing things silently",
@@ -1242,11 +1165,9 @@
     },
     "synonyms": [
       "潜移默化",
-      "耳濡目染",
-      "言传身教"
+      "耳濡目染"
     ],
     "antonyms": [
-      "拔苗助长",
       "耳提面命"
     ]
   },
@@ -1260,7 +1181,8 @@
     "register": "formal",
     "themes": [
       "high-aspirations",
-      "effort"
+      "effort",
+      "news-and-officialese"
     ],
     "literal": "sharp · will · advance · seize",
     "natural": "Keenly determined to forge ahead",

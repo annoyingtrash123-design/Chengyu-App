@@ -85,7 +85,7 @@
       "豁然开朗"
     ],
     "antonyms": [
-      "百思不解",
+      "百思不得其解",
       "一头雾水"
     ]
   },
@@ -126,12 +126,13 @@
     },
     "synonyms": [
       "风尘仆仆",
-      "日夜兼程",
       "饥餐渴饮"
     ],
     "antonyms": [
-      "游山玩水",
       "闲庭信步"
+    ],
+    "variants": [
+      "晓行夜住"
     ]
   },
   {
@@ -143,7 +144,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "standards-and-benchmarks"
+      "standards-and-benchmarks",
+      "unity-and-cooperation"
     ],
     "literal": "iron · plate · one · piece",
     "natural": "a single slab of iron",
@@ -311,11 +313,11 @@
       "zh": "含贬义，常用被动式“被打入另册”。“另册”原指旧时记录“贱民”等的名册。"
     },
     "synonyms": [
-      "打入冷宫",
-      "另眼相看"
+      "打入冷宫"
     ],
     "antonyms": [
-      "一视同仁"
+      "一视同仁",
+      "另眼相看"
     ]
   },
   {
@@ -357,7 +359,6 @@
       "一面之缘"
     ],
     "antonyms": [
-      "久别重逢",
       "促膝长谈"
     ]
   },
@@ -577,9 +578,9 @@
       "大门敞开"
     ],
     "antonyms": [
-      "固若金汤",
       "严防死守",
-      "戒备森严"
+      "戒备森严",
+      "固若金汤"
     ]
   },
   {
@@ -639,51 +640,6 @@
     ]
   },
   {
-    "id": "ju-bu-jian-nan",
-    "text": "举步艰难",
-    "pinyin": "jǔ bù jiān nán",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "dead-ends-and-desperation",
-      "poverty-and-hardship"
-    ],
-    "literal": "lift · step · hard · difficult",
-    "natural": "hard to take a step",
-    "meaning": {
-      "en": "Difficult to move forward, whether physically or in a situation or business.",
-      "zh": "迈步困难，比喻事业或处境艰难。"
-    },
-    "equivalents": [
-      "hard to move forward",
-      "struggling to progress"
-    ],
-    "examples": [
-      {
-        "zh": "膝盖受伤后，他举步艰难。",
-        "en": "After injuring his knee he can hardly take a step."
-      },
-      {
-        "zh": "资金短缺使这家企业举步艰难。",
-        "en": "A shortage of funds left the firm struggling to move forward."
-      }
-    ],
-    "usage": {
-      "en": "Both literal and figurative; compare 举步维艰, the more common form and a near-identical idiom.",
-      "zh": "实指虚指皆可。与更常见的“举步维艰”意思相近。"
-    },
-    "synonyms": [
-      "举步维艰",
-      "寸步难行"
-    ],
-    "antonyms": [
-      "一帆风顺",
-      "健步如飞"
-    ]
-  },
-  {
     "id": "bo-qing-gua-yi",
     "text": "薄情寡义",
     "pinyin": "bó qíng guǎ yì",
@@ -725,7 +681,8 @@
     "synonyms": [
       "忘恩负义",
       "无情无义",
-      "负心薄幸"
+      "负心薄幸",
+      "刻薄寡恩"
     ],
     "antonyms": [
       "重情重义",
@@ -819,7 +776,6 @@
       "zh": "给老人祝寿的常用语，多见于对联、图画。"
     },
     "synonyms": [
-      "福如东海",
       "寿比南山",
       "龟鹤齐龄",
       "鹤寿延年",
@@ -925,16 +881,13 @@
       "zh": "褒义，文学色彩浓，常接“不坠青云之志”。"
     },
     "synonyms": [
-      "百折不挠",
-      "艰苦卓绝",
-      "君子固穷"
+      "百折不挠"
     ],
     "antonyms": [
       "一蹶不振",
       "自暴自弃",
-      "人穷志短，马瘦毛长",
       "人穷志短",
-      "马瘦毛长"
+      "人穷志短，马瘦毛长"
     ]
   },
   {
@@ -974,12 +927,11 @@
       "zh": "褒义，书面语，较“宏图大志”更强调谋略。"
     },
     "synonyms": [
-      "雄才大略",
-      "远见卓识"
+      "雄才大略"
     ],
     "antonyms": [
-      "胸无大志",
-      "鼠目寸光"
+      "鼠目寸光",
+      "胸无大志"
     ]
   },
   {
@@ -1034,9 +986,7 @@
       "乘龙快婿",
       "东床快婿"
     ],
-    "antonyms": [
-      "名落孙山"
-    ]
+    "antonyms": []
   },
   {
     "id": "ren-duo-yan-za",
@@ -1079,8 +1029,7 @@
       "众目睽睽"
     ],
     "antonyms": [
-      "人迹罕至",
-      "悄无声息"
+      "人迹罕至"
     ]
   }
 ]

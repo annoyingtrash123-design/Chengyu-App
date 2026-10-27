@@ -89,7 +89,7 @@
     "antonyms": [
       "立竿见影",
       "雪中送炭",
-      "久旱甘霖"
+      "久旱逢甘霖"
     ]
   },
   {
@@ -145,8 +145,7 @@
       "弃官归隐"
     ],
     "antonyms": [
-      "恋栈不去",
-      "流连忘返"
+      "恋栈不去"
     ]
   },
   {
@@ -158,8 +157,7 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "danger",
-      "high-aspirations"
+      "danger"
     ],
     "literal": "tiger · mouth · pull · tooth",
     "natural": "pull a tooth from a tiger's mouth",
@@ -187,12 +185,9 @@
     },
     "synonyms": [
       "太岁头上动土——找死",
-      "铤而走险",
-      "龙潭虎穴",
-      "老虎屁股摸不得"
+      "铤而走险"
     ],
     "antonyms": [
-      "稳操胜券",
       "万无一失"
     ]
   },
@@ -241,13 +236,15 @@
       "孤掌难鸣",
       "孤立无援",
       "单枪匹马",
-      "独木难支"
+      "独木难支",
+      "兵微将寡"
     ],
     "antonyms": [
       "人多势众",
       "兵强马壮",
-      "天兵天将",
+      "如虎添翼",
       "投鞭断流",
+      "天兵天将",
       "树大根深"
     ]
   },
@@ -289,8 +286,7 @@
     },
     "synonyms": [
       "偏离主题",
-      "文不对题",
-      "荒腔走板"
+      "文不对题"
     ],
     "antonyms": [
       "切中要害",
@@ -332,7 +328,7 @@
       }
     ],
     "usage": {
-      "en": "Derogatory; 无所忌惮 is similar to 肆无忌惮 (already an entry). Predicate.",
+      "en": "Derogatory; similar to 肆无忌惮. Predicate.",
       "zh": "贬义；与“肆无忌惮”意近。多作谓语。"
     },
     "synonyms": [
@@ -471,11 +467,9 @@
       "zh": "画作、刺绣中的吉祥图案，也用于祝贺。多作定语、宾语。"
     },
     "synonyms": [
-      "凤鸣朝阳",
-      "吉祥如意"
+      "凤鸣朝阳"
     ],
     "antonyms": [
-      "凶多吉少",
       "时运不济"
     ]
   },
@@ -668,13 +662,9 @@
       "en": "Can be genuine praise, a polite request or a self-mocking complaint. Often in the form 能者多劳，多劳多得. Clause.",
       "zh": "可以是真诚赞美、客气请托或自嘲。常说“能者多劳”。多作分句。"
     },
-    "synonyms": [
-      "责无旁贷",
-      "当仁不让"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "无所事事",
-      "游手好闲"
+      "无所事事"
     ]
   },
   {
@@ -725,8 +715,7 @@
       "zh": "常用于告诫要谨慎择友、择居；可对照“近墨者黑”。多作宾语。"
     },
     "synonyms": [
-      "近朱者赤，近墨者黑",
-      "同流合污"
+      "近朱者赤，近墨者黑"
     ],
     "antonyms": [
       "芝兰之室",
@@ -770,58 +759,11 @@
       "zh": "历史名词，比喻免受惩罚的特权。多作宾语。"
     },
     "synonyms": [
-      "免死金牌",
-      "尚方宝剑"
+      "免死金牌"
     ],
     "antonyms": [
       "罪无可赦",
       "法网难逃"
-    ]
-  },
-  {
-    "id": "wan-gu-liu-fang",
-    "text": "万古流芳",
-    "pinyin": "wàn gǔ liú fāng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "outstanding-success-and-fame",
-      "value-of-time"
-    ],
-    "literal": "ten thousand · ages · flow · fragrance",
-    "natural": "fragrance flowing for ten thousand ages",
-    "meaning": {
-      "en": "One's good name lives on for ever.",
-      "zh": "美名永远流传。"
-    },
-    "equivalents": [
-      "be remembered for ever",
-      "a fame that never fades"
-    ],
-    "examples": [
-      {
-        "zh": "英雄的事迹万古流芳。",
-        "en": "The hero's deeds will be remembered for ever."
-      },
-      {
-        "zh": "他们为国捐躯，名字万古流芳。",
-        "en": "They gave their lives for the country, and their names live for ever."
-      }
-    ],
-    "usage": {
-      "en": "Used for praise and memorials. Predicate.",
-      "zh": "用于赞颂和纪念。多作谓语。"
-    },
-    "synonyms": [
-      "名垂青史",
-      "流芳百世",
-      "流芳千古"
-    ],
-    "antonyms": [
-      "遗臭万年",
-      "默默无闻"
     ]
   },
   {
@@ -861,11 +803,9 @@
       "zh": "安宁怀旧；与“鸡犬不宁”意思相反。多作谓语、宾语。"
     },
     "synonyms": [
-      "鸡犬相闻",
-      "田园风光"
+      "鸡犬相闻"
     ],
     "antonyms": [
-      "鸡犬不宁",
       "荒无人烟"
     ]
   },
@@ -1093,7 +1033,6 @@
     },
     "synonyms": [
       "洪水猛兽",
-      "凶神恶煞",
       "毒蛇猛兽"
     ],
     "antonyms": [
@@ -1143,7 +1082,6 @@
     ],
     "antonyms": [
       "论功行赏",
-      "功成名就",
       "劳苦功高"
     ]
   }

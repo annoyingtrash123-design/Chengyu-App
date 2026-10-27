@@ -171,8 +171,8 @@
       "zh": "常说“戴着有色眼镜看……”。"
     },
     "synonyms": [
-      "先入为主",
-      "抱有偏见"
+      "抱有偏见",
+      "先入为主"
     ],
     "antonyms": [
       "客观公正",
@@ -181,17 +181,19 @@
   },
   {
     "id": "nie-ruan-shi-zi",
-    "text": "捏软柿子",
-    "pinyin": "niē ruǎn shì zi",
+    "text": "柿子专挑软的捏",
+    "pinyin": "shì zi zhuān tiāo ruǎn de niē",
     "kind": "guanyongyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
       "inappropriate-behavior",
-      "fear-and-cowardice"
+      "fear-and-cowardice",
+      "negative-character-flaws",
+      "corruption-and-injustice"
     ],
-    "literal": "squeeze · soft · persimmon",
+    "literal": "persimmon · only · pick · soft · 's · squeeze",
     "natural": "pick on the weak",
     "meaning": {
       "en": "To bully the weak and avoid the strong.",
@@ -216,12 +218,17 @@
       "zh": "常说“当软柿子捏”。"
     },
     "synonyms": [
-      "欺软怕硬",
-      "柿子专挑软的捏"
+      "欺软怕硬"
     ],
     "antonyms": [
       "打抱不平",
+      "抑强扶弱",
+      "除暴安良",
       "路见不平，拔刀相助"
+    ],
+    "variants": [
+      "捏软柿子",
+      "柿子专拣软的捏"
     ]
   },
   {

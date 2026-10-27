@@ -49,14 +49,14 @@
     "synonyms": [
       "有勇无谋",
       "血气之勇",
-      "暴虎冯河",
-      "勇而无谋"
+      "暴虎冯河"
     ],
     "antonyms": [
       "智勇双全",
       "足智多谋",
       "有勇有谋",
-      "上兵伐谋"
+      "上兵伐谋",
+      "天下有大勇者，卒然临之而不惊，无故加之而不怒"
     ]
   },
   {
@@ -110,7 +110,8 @@
     },
     "synonyms": [
       "物是人非",
-      "重温旧梦"
+      "重温旧梦",
+      "去年今日此门中，人面桃花相映红"
     ],
     "antonyms": []
   },
@@ -224,18 +225,17 @@
       "两面三刀",
       "包藏祸心",
       "阴险狡诈",
-      "假道伐虢",
       "黄鼠狼给鸡拜年——没安好心",
       "佛口蛇心",
       "咬人的狗不露齿",
       "绵里藏针",
-      "黄鼠狼给鸡送礼——不怀好意",
       "披着羊皮的狼",
-      "皮笑肉不笑"
+      "皮笑肉不笑",
+      "黄鼠狼给鸡送礼——不怀好意"
     ],
     "antonyms": [
-      "心直口快",
       "表里如一",
+      "心直口快",
       "凶相毕露"
     ]
   },
@@ -293,7 +293,7 @@
     "themes": [
       "danger",
       "poor-planning-and-hasty-decisions",
-      "myths-legends"
+      "stories"
     ],
     "literal": "oriole · be · behind",
     "natural": "the oriole lurks behind",
@@ -331,7 +331,6 @@
       "zh": "多作警示，常与“螳螂捕蝉”连用。"
     },
     "synonyms": [
-      "螳螂捕蝉",
       "鹬蚌相争"
     ],
     "antonyms": []
@@ -431,7 +430,6 @@
       "天长地久",
       "矢志不渝",
       "地老天荒",
-      "情深似海",
       "情比金坚"
     ],
     "antonyms": [
@@ -549,9 +547,6 @@
       "笑里藏刀",
       "两面三刀",
       "阴险狡诈",
-      "尔虞我诈",
-      "假道伐虢",
-      "虚与委蛇",
       "老虎戴念珠——假慈悲",
       "佛口蛇心",
       "绵里藏针",
@@ -560,13 +555,13 @@
     ],
     "antonyms": [
       "表里如一",
-      "心直口快",
       "披肝沥胆",
       "有口无心",
       "肝胆照人",
-      "拳拳之心",
       "一根肠子通到底——直性子",
-      "刀子嘴，豆腐心"
+      "刀子嘴，豆腐心",
+      "心直口快",
+      "拳拳之心"
     ]
   },
   {
@@ -612,9 +607,7 @@
       "寒窗苦读",
       "学而不厌"
     ],
-    "antonyms": [
-      "不学无术"
-    ]
+    "antonyms": []
   },
   {
     "id": "mi-mi-zhi-yin",
@@ -653,7 +646,6 @@
       "zh": "贬义，带道德评判；读 mǐ mǐ。"
     },
     "synonyms": [
-      "萎靡不振",
       "亡国之音",
       "郑卫之音"
     ],
@@ -790,8 +782,8 @@
     ],
     "examples": [
       {
-        "zh": "窈窕淑女，君子好逑，这是对美好爱情的祝愿。",
-        "en": "'The fair lady is a fit match for a gentleman'; it is a wish for a happy love."
+        "zh": "他读到《关雎》，深感“窈窕淑女，君子好逑”写尽了少年心事。",
+        "en": "Reading Guan Ju, he felt the line “the fair maiden, a fine match for the gentleman” captured the whole of youthful longing."
       },
       {
         "zh": "他对她一见钟情，决意君子好逑。",
@@ -813,9 +805,7 @@
       "en": "Literary; usually quoted with 窈窕淑女. Here 逑 means 'mate', and 好 is read hǎo.",
       "zh": "书面语，常与“窈窕淑女”连用；“逑”意为配偶。"
     },
-    "synonyms": [
-      "天作之合"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -828,7 +818,6 @@
     "register": "neutral",
     "themes": [
       "military-strategy-and-victory",
-      "giving-up-and-weakness",
       "daoist-classics"
     ],
     "literal": "grieving · troops · surely · win",
@@ -921,12 +910,8 @@
       "en": "Often with 不食/不受; shows self-respect. 嗟 is jiē, an interjection.",
       "zh": "常说“不食嗟来之食”，表现有骨气；“嗟”是叹词，读 jiē。"
     },
-    "synonyms": [
-      "宁死不屈"
-    ],
-    "antonyms": [
-      "感恩戴德"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "yi-pu-shi-han",
@@ -989,15 +974,11 @@
       "锲而不舍",
       "积土成山",
       "绳锯木断",
-      "铁杵磨绣针——非一日之功",
       "积水成渊",
       "水滴石穿",
-      "功夫不负有心人",
-      "台上一分钟，台下十年功",
       "聚沙成塔",
       "学而不厌",
       "长流水，不断线",
-      "细水长流",
       "临池学书",
       "磨杵成针",
       "燕子衔泥垒大窝",
@@ -1005,7 +986,10 @@
       "坚韧不拔",
       "驽马十驾",
       "十年磨一剑",
-      "积跬步以至千里"
+      "不积跬步，无以至千里",
+      "细水长流",
+      "铁杵磨绣针——非一日之功",
+      "功夫不负有心人"
     ]
   },
   {
@@ -1065,9 +1049,7 @@
       "断齑画粥",
       "然糠照薪"
     ],
-    "antonyms": [
-      "不学无术"
-    ]
+    "antonyms": []
   },
   {
     "id": "guan-bao-zhi-jiao",
@@ -1120,7 +1102,6 @@
     },
     "synonyms": [
       "莫逆之交",
-      "知己知彼",
       "伯牙子期"
     ],
     "antonyms": [
@@ -1223,11 +1204,10 @@
     },
     "synonyms": [
       "狐朋狗友",
-      "乌合之众"
-    ],
-    "antonyms": [
+      "乌合之众",
       "志同道合"
-    ]
+    ],
+    "antonyms": []
   },
   {
     "id": "zhang-kou-jie-she",
@@ -1269,7 +1249,6 @@
       "哑口无言",
       "目瞪口呆",
       "理屈词穷",
-      "笨嘴拙舌",
       "瞠目结舌",
       "无言以对"
     ],
@@ -1286,7 +1265,7 @@
     "text": "一言为定",
     "pinyin": "yī yán wéi dìng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -1317,14 +1296,11 @@
       "zh": "常用于达成约定时，口语，后可接“驷马难追”。"
     },
     "synonyms": [
-      "说一不二",
-      "一诺千金",
       "金口玉言"
     ],
     "antonyms": [
       "出尔反尔",
-      "言而无信",
-      "口说无凭，立字为据"
+      "言而无信"
     ]
   },
   {

@@ -50,8 +50,7 @@
       "zh": "注意此处“比”读 bì，指结党营私，不读 bǐ。常与下句“小人比而不周”连用。"
     },
     "synonyms": [
-      "秉公办事",
-      "一视同仁"
+      "秉公办事"
     ],
     "antonyms": [
       "结党营私",
@@ -109,8 +108,7 @@
       "zh": "常用于讲修养风度，下句为“小人骄而不泰”。"
     },
     "synonyms": [
-      "谦谦君子",
-      "宠辱不惊"
+      "谦谦君子"
     ],
     "antonyms": [
       "骄傲自满",
@@ -216,8 +214,8 @@
       "忠厚传家"
     ],
     "antonyms": [
-      "好逸恶劳",
-      "不孝不悌"
+      "不孝不悌",
+      "好逸恶劳"
     ]
   },
   {
@@ -375,11 +373,9 @@
       "zh": "书面语，用典；参见“西狩获麟”。"
     },
     "synonyms": [
-      "绝笔获麟"
+      "获麟绝笔"
     ],
-    "antonyms": [
-      "欢欣鼓舞"
-    ]
+    "antonyms": []
   },
   {
     "id": "xi-shou-huo-lin",
@@ -429,9 +425,7 @@
       "en": "Scholarly allusion; for the personal sorrow itself use 获麟之叹.",
       "zh": "学术典故；表现哀叹之情则用“获麟之叹”。"
     },
-    "synonyms": [
-      "绝笔获麟"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -483,8 +477,7 @@
       "zh": "用于悼词、挽联，庄重书面语，不用于在世者。"
     },
     "synonyms": [
-      "泰山其颓",
-      "人亡政息"
+      "泰山其颓"
     ],
     "antonyms": [
       "万寿无疆"
@@ -541,13 +534,9 @@
       "zh": "成语“一以贯之”即出此句；曾子解释这个“一”是忠恕之道。"
     },
     "synonyms": [
-      "一以贯之",
       "一脉相承"
     ],
-    "antonyms": [
-      "朝三暮四",
-      "三心二意"
-    ]
+    "antonyms": []
   },
   {
     "id": "jing-gui-shen-er-yuan-zhi",
@@ -600,7 +589,6 @@
       "zh": "今多带戏谑，用于不愿招惹的人或事；本义为中性偏褒。"
     },
     "synonyms": [
-      "敬而远之",
       "退避三舍"
     ],
     "antonyms": [
@@ -699,13 +687,10 @@
       "en": "Literary; written as a rhetorical question. The same phrase can express resignation.",
       "zh": "书面语，是反问句式，有时也含无可奈何之意。"
     },
-    "synonyms": [
-      "不言之教",
-      "此时无声胜有声"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "夸夸其谈",
-      "喋喋不休"
+      "喋喋不休",
+      "夸夸其谈"
     ]
   },
   {
@@ -764,9 +749,7 @@
     "synonyms": [
       "慎言守礼"
     ],
-    "antonyms": [
-      "食不厌精"
-    ]
+    "antonyms": []
   },
   {
     "id": "bu-gai-qi-le",
@@ -978,7 +961,6 @@
       "zh": "为缩略语，全文为“修身齐家治国平天下”，正式而富抱负色彩。"
     },
     "synonyms": [
-      "穷则独善其身，达则兼济天下",
       "经世济民"
     ],
     "antonyms": [
@@ -1198,9 +1180,9 @@
       "积德累仁"
     ],
     "antonyms": [
-      "恶有恶报",
       "积恶余殃",
-      "业障深重"
+      "业障深重",
+      "恶有恶报"
     ]
   },
   {
@@ -1256,8 +1238,8 @@
       "东奔西走"
     ],
     "antonyms": [
-      "安居乐业",
-      "足不出户"
+      "足不出户",
+      "安居乐业"
     ]
   },
   {
@@ -1271,7 +1253,8 @@
     "themes": [
       "confucian-classics",
       "effective-teaching-methods",
-      "stories"
+      "stories",
+      "parenting-and-family"
     ],
     "literal": "Mencius's · mother · cut · weaving",
     "natural": "Mencius's mother cut her weaving",
@@ -1308,12 +1291,14 @@
       "en": "Allusion often paired with 孟母三迁. Positive; the point is perseverance in study.",
       "zh": "典故，常与“孟母三迁”并称，含褒义，重点是学习要持之以恒。"
     },
-    "synonyms": [
-      "断机教子"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "半途而废",
+      "溺爱不明",
       "放任自流"
+    ],
+    "variants": [
+      "孟母断机",
+      "断机教子"
     ]
   }
 ]

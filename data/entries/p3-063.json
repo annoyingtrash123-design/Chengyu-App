@@ -4,15 +4,17 @@
     "text": "眉毛胡子一把抓",
     "pinyin": "méi mao hú zi yī bǎ zhuā",
     "variants": [
-      "胡子眉毛一把抓"
+      "胡子眉毛一把抓",
+      "头发胡子一把抓"
     ],
     "kind": "guanyongyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
       "poor-planning-and-hasty-decisions",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "chaos"
     ],
     "literal": "eyebrows · beard · one · handful · grab",
     "natural": "handle everything at once without priorities",
@@ -40,7 +42,8 @@
     },
     "synonyms": [
       "不分主次",
-      "不分轻重"
+      "不分轻重",
+      "杂乱无章"
     ],
     "antonyms": [
       "抓大放小",
@@ -85,12 +88,11 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "拉拉杂杂",
       "纠缠不清"
     ],
     "antonyms": [
-      "泾渭分明",
-      "保持距离"
+      "保持距离",
+      "泾渭分明"
     ]
   },
   {
@@ -140,17 +142,15 @@
       "妙趣横生",
       "引人入胜",
       "妙语连珠",
-      "汪洋恣肆",
-      "丰富多彩",
       "津津有味",
+      "绘声绘色",
+      "丰富多彩",
       "图文并茂",
-      "亦庄亦谐",
+      "有声有色",
       "其乐无穷",
       "烂若披锦",
       "活色生香",
-      "娓娓动听",
-      "绘声绘色",
-      "有声有色"
+      "娓娓动听"
     ]
   },
   {
@@ -192,19 +192,18 @@
     },
     "synonyms": [
       "故友重逢",
-      "破镜重圆",
       "他乡遇故知",
-      "一别经年",
-      "别后重逢"
+      "别后重逢",
+      "邂逅相逢"
     ],
     "antonyms": [
       "天各一方",
-      "分道扬镳",
       "生离死别",
-      "霸王别姬",
-      "打个照面",
-      "挥手自兹去，萧萧班马鸣",
-      "邂逅相逢"
+      "折柳送别",
+      "灞桥折柳",
+      "长亭送别",
+      "分道扬镳",
+      "挥手自兹去，萧萧班马鸣"
     ]
   },
   {
@@ -246,11 +245,9 @@
     "synonyms": [
       "空泛无物",
       "夸夸其谈",
-      "言之无物",
-      "无的放矢"
+      "言之无物"
     ],
     "antonyms": [
-      "深入浅出",
       "切中要害",
       "阐幽发微",
       "真知灼见"
@@ -265,8 +262,7 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "inappropriate-behavior",
-      "business-failure"
+      "inappropriate-behavior"
     ],
     "literal": "speculate · exploit · resell · hoard",
     "natural": "profiteer",
@@ -311,7 +307,6 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "superficial-learning",
       "speech"
     ],
     "literal": "strange · talk · odd · views",
@@ -339,8 +334,8 @@
       "zh": "多作宾语。"
     },
     "synonyms": [
-      "荒诞不经",
-      "谬论邪说"
+      "谬论邪说",
+      "荒诞不经"
     ],
     "antonyms": [
       "至理名言",
@@ -383,31 +378,30 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "家财万贯",
       "富可敌国",
-      "发财致富",
       "财大气粗",
-      "金玉满堂",
       "富商大贾",
+      "金玉满堂",
+      "家财万贯",
       "金山银山"
     ],
     "antonyms": [
       "一贫如洗",
       "囊空如洗",
-      "负债累累",
       "身无分文",
-      "债台高筑",
       "家徒四壁",
-      "倾家荡产",
       "一无所有",
       "床头金尽",
       "贫无立锥",
       "穷困潦倒",
       "身无长物",
-      "一文不名",
+      "不名一文",
       "室如悬磬",
-      "一文钱难倒英雄汉",
-      "囊中羞涩"
+      "囊中羞涩",
+      "倾家荡产",
+      "债台高筑",
+      "负债累累",
+      "一文钱难倒英雄汉"
     ]
   },
   {
@@ -447,18 +441,14 @@
       "zh": "多作谓语，常与“寒不择衣”连用。"
     },
     "synonyms": [
-      "慌不择路",
-      "寒不择衣",
-      "茹毛饮血",
-      "饥肠辘辘",
-      "狼吞虎咽",
-      "急不暇择",
       "病急乱投医",
+      "寒不择衣",
+      "急不暇择",
       "拣到篮里就是菜"
     ],
     "antonyms": [
-      "挑三拣四",
-      "挑肥拣瘦"
+      "挑肥拣瘦",
+      "挑三拣四"
     ]
   },
   {
@@ -510,15 +500,9 @@
       "zh": "多作谓语或独立成句。"
     },
     "synonyms": [
-      "相得益彰",
-      "取长补短",
-      "学然后知不足，教然后知困",
-      "传道授业",
-      "独学而无友，则孤陋而寡闻"
+      "学然后知不足，教然后知困"
     ],
-    "antonyms": [
-      "故步自封"
-    ]
+    "antonyms": []
   },
   {
     "id": "chu-shi-bu-li",
@@ -558,8 +542,7 @@
     },
     "synonyms": [
       "开局不利",
-      "旗开失利",
-      "大风刮倒了帅旗——出师不利"
+      "旗开失利"
     ],
     "antonyms": [
       "旗开得胜",
@@ -606,14 +589,13 @@
       "zh": "常说“如众星捧月”。"
     },
     "synonyms": [
-      "众望所归",
       "前呼后拥",
       "百鸟朝凤"
     ],
     "antonyms": [
       "孤家寡人",
-      "门可罗雀",
-      "群龙无首"
+      "群龙无首",
+      "门可罗雀"
     ]
   },
   {
@@ -647,8 +629,8 @@
         "en": "From this small matter one can glimpse the whole."
       },
       {
-        "zh": "这个展览让人窥见一斑，了解了古代的生活。",
-        "en": "The exhibition offers a glimpse into ancient life."
+        "zh": "从这些文物可以窥见一斑，了解古人的生活。",
+        "en": "These relics give a glimpse of how people lived in ancient times."
       }
     ],
     "usage": {
@@ -660,8 +642,8 @@
       "见微知著"
     ],
     "antonyms": [
-      "一叶障目",
-      "全面了解"
+      "全面了解",
+      "一叶障目"
     ]
   },
   {
@@ -702,17 +684,17 @@
     },
     "synonyms": [
       "确凿无疑",
-      "无可置疑",
-      "板上钉钉",
+      "毋庸置疑",
       "铁证如山",
-      "确有其事"
+      "确有其事",
+      "板上钉钉"
     ],
     "antonyms": [
       "子虚乌有",
       "似是而非",
+      "天方夜谭",
       "大错特错",
       "弥天大谎",
-      "天方夜谭",
       "半真半假"
     ]
   },
@@ -725,8 +707,7 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "frankness-and-candour",
-      "speed-fast-vs-slow"
+      "frankness-and-candour"
     ],
     "literal": "single · blade · straight · enter",
     "natural": "get straight to the point",
@@ -817,7 +798,7 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "modest-goals"
+      "wisdom"
     ],
     "literal": "harmony · air · bring · wealth",
     "natural": "amiability makes money",
@@ -848,9 +829,7 @@
       "家和万事兴"
     ],
     "antonyms": [
-      "横行霸道",
-      "仗势欺人",
-      "白刀子进，红刀子出"
+      "横行霸道"
     ]
   },
   {
@@ -949,7 +928,6 @@
       "聪明反被聪明误"
     ],
     "antonyms": [
-      "光明磊落",
       "顺其自然",
       "绝圣弃智"
     ]
@@ -1057,8 +1035,7 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "common-and-worthless",
-      "numbers"
+      "measure"
     ],
     "literal": "stoop · pick · all · are",
     "natural": "there for the picking",
@@ -1091,7 +1068,8 @@
     "antonyms": [
       "凤毛麟角",
       "寥寥无几",
-      "不可多得"
+      "不可多得",
+      "微乎其微"
     ]
   }
 ]

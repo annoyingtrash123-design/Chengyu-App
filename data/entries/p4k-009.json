@@ -54,56 +54,6 @@
     ]
   },
   {
-    "id": "lie-huo-zhen-jin",
-    "text": "烈火真金",
-    "pinyin": "liè huǒ zhēn jīn",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "outstanding-character",
-      "exam-favourites"
-    ],
-    "literal": "fierce · fire · true · gold",
-    "natural": "true gold tested by fierce fire",
-    "meaning": {
-      "en": "Real gold is tested by fire: true worth shows only under severe trial.",
-      "zh": "真金要经烈火考验，比喻人的品质、才干要在严峻考验中才能显现。"
-    },
-    "equivalents": [
-      "true gold tested by fire",
-      "character proven under trial"
-    ],
-    "examples": [
-      {
-        "zh": "烈火真金，困境最能检验一个人。",
-        "en": "Real gold is proven in fire; hardship tests a person best."
-      },
-      {
-        "zh": "这场灾难成了对干部的烈火真金之考验。",
-        "en": "The disaster was a fire-and-gold test for the officials."
-      },
-      {
-        "zh": "他在危难中挺身而出，真是烈火真金。",
-        "en": "He stepped forward in danger, like true gold in a fire."
-      }
-    ],
-    "usage": {
-      "en": "Noun or predicate; praise. Similar to 真金不怕火炼, which is a proverb form.",
-      "zh": "作名词、谓语，褒义。与“真金不怕火炼”意思相近。"
-    },
-    "synonyms": [
-      "百炼成钢",
-      "真金不怕火炼",
-      "千锤百炼"
-    ],
-    "antonyms": [
-      "银样镴枪头",
-      "外强中干"
-    ]
-  },
-  {
     "id": "lie-huo-peng-you",
     "text": "烈火烹油",
     "pinyin": "liè huǒ pēng yóu",
@@ -161,8 +111,8 @@
       "炙手可热"
     ],
     "antonyms": [
-      "日薄西山",
-      "门可罗雀"
+      "门可罗雀",
+      "日薄西山"
     ]
   },
   {
@@ -323,7 +273,7 @@
       "zh": "作谓语、定语，夸张。“铄”读shuò。"
     },
     "synonyms": [
-      "烈日炎炎",
+      "赤日炎炎",
       "酷暑难耐"
     ],
     "antonyms": [
@@ -542,12 +492,10 @@
       "zh": "作名词，书面语。“率”读shuài，意为沿着；“滨”指边际。"
     },
     "synonyms": [
-      "普天之下",
-      "四海之内，皆兄弟也"
+      "普天之下"
     ],
     "antonyms": [
-      "海外异邦",
-      "天涯海角"
+      "海外异邦"
     ]
   },
   {
@@ -604,8 +552,7 @@
     },
     "synonyms": [
       "草率成文",
-      "信笔涂鸦",
-      "下笔千言"
+      "信笔涂鸦"
     ],
     "antonyms": [
       "字斟句酌",
@@ -661,8 +608,7 @@
     },
     "synonyms": [
       "乱拉郎配",
-      "胡乱配对",
-      "牵强附会"
+      "胡乱配对"
     ],
     "antonyms": [
       "天作之合",
@@ -711,13 +657,12 @@
       "zh": "作谓语，书面语，今多用于历史或典礼语境。“仪”指表率。"
     },
     "synonyms": [
-      "德配天地",
       "贤良淑德",
       "国母风范"
     ],
     "antonyms": [
-      "牝鸡司晨",
-      "祸国殃民"
+      "祸国殃民",
+      "牝鸡司晨"
     ]
   },
   {
@@ -775,11 +720,11 @@
     },
     "synonyms": [
       "自以为是",
-      "当局者迷",
-      "自知之明"
+      "当局者迷"
     ],
     "antonyms": [
       "有自知之明",
+      "自知之明",
       "反躬自省"
     ]
   },
@@ -793,7 +738,6 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "danger",
       "exam-favourites"
     ],
     "literal": "hide · shadow · conceal · form",
@@ -826,8 +770,7 @@
     },
     "synonyms": [
       "隐姓埋名",
-      "销声匿迹",
-      "藏头露尾"
+      "销声匿迹"
     ],
     "antonyms": [
       "抛头露面",
@@ -881,9 +824,7 @@
       "抚今追昔",
       "思古幽情"
     ],
-    "antonyms": [
-      "喜新厌旧"
-    ]
+    "antonyms": []
   },
   {
     "id": "pan-ruo-hong-gou",
@@ -993,7 +934,6 @@
       "zh": "作谓语或名词，书面语。“阳秋”即“春秋”，借指褒贬。"
     },
     "synonyms": [
-      "口是心非",
       "腹诽心谤",
       "微言大义"
     ],

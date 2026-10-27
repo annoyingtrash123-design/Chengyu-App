@@ -71,7 +71,8 @@
       "rare-idioms",
       "sadness-and-despair",
       "complex-emotional-states",
-      "poems-prose"
+      "poems-prose",
+      "friendship"
     ],
     "literal": "evening · clouds · spring · trees",
     "natural": "evening clouds and spring trees",
@@ -371,7 +372,6 @@
       "舍本逐末"
     ],
     "antonyms": [
-      "明哲保身",
       "取舍有度"
     ]
   },
@@ -472,7 +472,6 @@
       "zh": "褒义，形容反应迅速，也可指祈祷或药物灵验。"
     },
     "synonyms": [
-      "对答如流",
       "立竿见影"
     ],
     "antonyms": [
@@ -631,13 +630,9 @@
       "en": "Often quoted with its second half 窃国者侯, as social criticism.",
       "zh": "常与下句“窃国者侯”连用，用于批评社会不公。"
     },
-    "synonyms": [
-      "窃国者侯",
-      "严于律人"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "一视同仁",
-      "执法如山"
+      "一视同仁"
     ]
   },
   {
@@ -728,9 +723,15 @@
       "恨之入骨"
     ],
     "antonyms": [
-      "感恩戴德",
-      "不计前嫌"
-    ]
+      "不计前嫌",
+      "感恩戴德"
+    ],
+    "variants": [
+      "食肉寝皮"
+    ],
+    "variant_kinds": {
+      "食肉寝皮": "old"
+    }
   },
   {
     "id": "quan-quan-zhi-xin",
@@ -873,8 +874,7 @@
       "zh": "合用王泰让枣与孔融让梨两个故事，适合形容兄弟友爱。"
     },
     "synonyms": [
-      "孔融让梨",
-      "兄友弟恭"
+      "孔融让梨"
     ],
     "antonyms": [
       "争名夺利",
@@ -930,7 +930,6 @@
       "zh": "口气得意或戏谑，说话者是占优势的一方。"
     },
     "synonyms": [
-      "如我所愿",
       "笼络人才"
     ],
     "antonyms": [
@@ -988,7 +987,6 @@
       "zh": "常用于赞扬母亲；较常见的形式是“孟母三迁”。"
     },
     "synonyms": [
-      "孟母三迁",
       "择邻而居"
     ],
     "antonyms": [
@@ -1058,7 +1056,7 @@
     "text": "深藏不露",
     "pinyin": "shēn cáng bù lù",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -1097,6 +1095,7 @@
       "难知如阴",
       "真人不露相",
       "大智若愚",
+      "静水流深",
       "人不可貌相，海水不可斗量",
       "藏而不露"
     ],
@@ -1105,10 +1104,10 @@
       "一览无余",
       "原形毕露",
       "司马昭之心——路人皆知",
-      "显山露水",
+      "不显山不露水",
       "图穷匕见",
-      "班门弄斧",
-      "溢于言表"
+      "溢于言表",
+      "班门弄斧"
     ]
   },
   {
@@ -1149,8 +1148,7 @@
     },
     "synonyms": [
       "不达目的不罢休",
-      "决不甘休",
-      "击楫中流"
+      "决不甘休"
     ],
     "antonyms": [
       "半途而废",
@@ -1263,8 +1261,8 @@
       "zh": "中读 zhòng（击中），不读 zhōng。称赞说话得体而切中要害。"
     },
     "synonyms": [
-      "一针见血",
-      "委婉中肯"
+      "委婉中肯",
+      "一针见血"
     ],
     "antonyms": [
       "言不及义",

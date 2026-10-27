@@ -51,9 +51,7 @@
       "咎由自取",
       "自食其果"
     ],
-    "antonyms": [
-      "逢凶化吉"
-    ]
+    "antonyms": []
   },
   {
     "id": "ban-qi-shi-tou-za-zi-ji-de-jiao",
@@ -95,9 +93,8 @@
       "zh": "常作警告；也说“搬石头砸自己的脚”。"
     },
     "synonyms": [
-      "自食其果",
-      "作茧自缚",
-      "聪明反被聪明误"
+      "聪明反被聪明误",
+      "自食其果"
     ],
     "antonyms": [
       "一箭双雕"
@@ -233,8 +230,8 @@
       "zh": "多含贬义，有时也带点佩服其圆滑。"
     },
     "synonyms": [
-      "八面玲珑",
-      "两面三刀"
+      "两面三刀",
+      "八面玲珑"
     ],
     "antonyms": [
       "表里如一",
@@ -278,12 +275,9 @@
       "zh": "常只说前半句“见怪不怪”。"
     },
     "synonyms": [
-      "泰然处之",
-      "处变不惊"
+      "泰然处之"
     ],
-    "antonyms": [
-      "大惊小怪"
-    ]
+    "antonyms": []
   },
   {
     "id": "ting-ren-quan-chi-bao-fan",
@@ -367,7 +361,6 @@
       "zh": "多作客气的恭维话，有时带玩笑。"
     },
     "synonyms": [
-      "茅塞顿开",
       "受益匪浅"
     ],
     "antonyms": []
@@ -412,8 +405,8 @@
       "zh": "劝人领会弦外之音；也说“听话听声，锣鼓听音”。"
     },
     "synonyms": [
-      "弦外之音",
-      "察言观色"
+      "察言观色",
+      "弦外之音"
     ],
     "antonyms": [
       "充耳不闻"
@@ -424,7 +417,7 @@
     "text": "书中自有黄金屋，书中自有颜如玉",
     "pinyin": "shū zhōng zì yǒu huáng jīn wū, shū zhōng zì yǒu yán rú yù",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -456,7 +449,6 @@
       "zh": "传统劝学语，今天常半开玩笑地引用。"
     },
     "synonyms": [
-      "学而优则仕",
       "万般皆下品，唯有读书高"
     ],
     "antonyms": [
@@ -501,64 +493,11 @@
       "zh": "常用于学校、毕业赠言和作文。"
     },
     "synonyms": [
-      "头悬梁，锥刺股",
+      "悬梁刺股",
       "勤能补拙"
     ],
     "antonyms": [
-      "不学无术",
       "好逸恶劳"
-    ]
-  },
-  {
-    "id": "xue-ru-ni-shui-xing-zhou-bu-jin-ze-tui",
-    "text": "学如逆水行舟，不进则退",
-    "pinyin": "xué rú nì shuǐ xíng zhōu, bù jìn zé tuì",
-    "variants": [
-      "逆水行舟，不进则退"
-    ],
-    "variant_kinds": {
-      "逆水行舟，不进则退": "short"
-    },
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "reading-and-study",
-      "effort",
-      "essay-favourites"
-    ],
-    "literal": "study · like · against · water · sail · boat, not · advance · then · retreat",
-    "natural": "studying is like rowing upstream: stop advancing and you drift back",
-    "meaning": {
-      "en": "Learning must never pause; if you stop making progress you fall behind.",
-      "zh": "学习像逆流划船，不努力前进就会后退。"
-    },
-    "equivalents": [
-      "if you're not moving forward, you're falling behind",
-      "use it or lose it"
-    ],
-    "examples": [
-      {
-        "zh": "学如逆水行舟，不进则退，暑假也不能放松。",
-        "en": "Learning is like rowing upstream: don't relax even in the summer holidays."
-      },
-      {
-        "zh": "老师常说学如逆水行舟，不进则退。",
-        "en": "The teacher often says that if you stop advancing you fall back."
-      }
-    ],
-    "usage": {
-      "en": "The shorter form 逆水行舟，不进则退 is also used for business and competition.",
-      "zh": "简称“逆水行舟，不进则退”，也可用于事业、竞争。"
-    },
-    "synonyms": [
-      "不进则退",
-      "精益求精",
-      "刀不磨要生锈，人不学要落后"
-    ],
-    "antonyms": [
-      "故步自封"
     ]
   },
   {
@@ -597,7 +536,6 @@
       "zh": "今天多带批评地引用，指过时观念。"
     },
     "synonyms": [
-      "学而优则仕",
       "书中自有黄金屋，书中自有颜如玉"
     ],
     "antonyms": [
@@ -690,7 +628,6 @@
       "zh": "多用于领导更替后的人事变动。"
     },
     "synonyms": [
-      "改朝换代",
       "新官上任三把火",
       "一个将军一个令"
     ],
@@ -745,12 +682,6 @@
     "id": "lao-zi-ying-xiong-er-hao-han",
     "text": "老子英雄儿好汉",
     "pinyin": "lǎo zi yīng xióng ér hǎo hàn",
-    "variants": [
-      "老子英雄儿好汉，老子反动儿混蛋"
-    ],
-    "variant_kinds": {
-      "老子英雄儿好汉，老子反动儿混蛋": "full"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -828,8 +759,7 @@
       "zh": "常说“当面锣，对面鼓地……”，语气直率。"
     },
     "synonyms": [
-      "开诚布公",
-      "当面对质"
+      "开诚布公"
     ],
     "antonyms": [
       "背后议论",
@@ -874,7 +804,6 @@
       "zh": "既用来劝人要自尊，也用来解释好面子。"
     },
     "synonyms": [
-      "脸面攸关",
       "爱惜羽毛"
     ],
     "antonyms": [
@@ -928,50 +857,6 @@
     ]
   },
   {
-    "id": "gan-da-lei-bu-xia-yu",
-    "text": "干打雷，不下雨",
-    "pinyin": "gān dǎ léi, bù xià yǔ",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "deception-and-false-appearances",
-      "poor-performance"
-    ],
-    "literal": "dry · thunder, not · fall · rain",
-    "natural": "all thunder and no rain",
-    "meaning": {
-      "en": "Plenty of noise but no real action or result.",
-      "zh": "声势大，却没有实际行动或结果。"
-    },
-    "equivalents": [
-      "all talk and no action",
-      "all bark and no bite"
-    ],
-    "examples": [
-      {
-        "zh": "他嚷嚷着要辞职，其实是干打雷，不下雨。",
-        "en": "He keeps shouting that he'll quit, but it's all thunder and no rain."
-      },
-      {
-        "zh": "这个项目喊了三年，还是干打雷，不下雨。",
-        "en": "The project has been announced for three years and nothing has come of it."
-      }
-    ],
-    "usage": {
-      "en": "Often used of empty threats or promises.",
-      "zh": "多用于空洞的威胁或承诺。"
-    },
-    "synonyms": [
-      "雷声大，雨点小",
-      "虎头蛇尾"
-    ],
-    "antonyms": [
-      "雷厉风行"
-    ]
-  },
-  {
     "id": "dao-zi-zui-dou-fu-xin",
     "text": "刀子嘴，豆腐心",
     "pinyin": "dāo zi zuǐ, dòu fu xīn",
@@ -1015,63 +900,7 @@
       "有口无心"
     ],
     "antonyms": [
-      "口蜜腹剑",
-      "咬人的狗不露齿"
-    ]
-  },
-  {
-    "id": "yi-ye-zhang-mu-bu-jian-tai-shan",
-    "text": "一叶障目，不见泰山",
-    "pinyin": "yī yè zhàng mù, bù jiàn tài shān",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "superficial-learning",
-      "foolishness-and-ignorance"
-    ],
-    "literal": "one · leaf · block · eye, not · see · Mount Tai",
-    "natural": "a single leaf over the eye hides Mount Tai",
-    "meaning": {
-      "en": "To be blinded by a minor matter and miss the larger truth.",
-      "zh": "被眼前的小事蒙蔽，看不到重大的事物。"
-    },
-    "equivalents": [
-      "can't see the wood for the trees",
-      "to be blind to the big picture"
-    ],
-    "examples": [
-      {
-        "zh": "别被小利迷住，一叶障目，不见泰山。",
-        "en": "Don't be dazzled by small gains and miss the big picture."
-      },
-      {
-        "zh": "他只盯着眼前的数据，一叶障目，不见泰山。",
-        "en": "He stared at the numbers in front of him and missed the larger picture."
-      }
-    ],
-    "origin": {
-      "source": "《鹖冠子》",
-      "story": {
-        "en": "The Warring States text Heguanzi says that one leaf over the eyes keeps even Mount Tai from view.",
-        "zh": "《鹖冠子》有“一叶蔽目，不见泰山”之语。"
-      },
-      "date": {
-        "zh": "战国 · 前3世纪",
-        "en": "Warring States, 3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "The four-character form 一叶障目 is more common alone.",
-      "zh": "单说“一叶障目”也很常见。"
-    },
-    "synonyms": [
-      "管中窥豹",
-      "目光短浅"
-    ],
-    "antonyms": [
-      "高瞻远瞩"
+      "口蜜腹剑"
     ]
   },
   {

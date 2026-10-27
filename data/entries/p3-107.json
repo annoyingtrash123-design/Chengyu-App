@@ -43,7 +43,7 @@
     "antonyms": [
       "相貌平平",
       "其貌不扬",
-      "败柳残花"
+      "残花败柳"
     ]
   },
   {
@@ -83,12 +83,10 @@
       "zh": "可指实际，也可作比喻；比喻义较旧，含贬义。"
     },
     "synonyms": [
-      "裹足不前",
       "畏首畏尾"
     ],
     "antonyms": [
-      "大步流星",
-      "雷厉风行"
+      "大步流星"
     ]
   },
   {
@@ -130,12 +128,10 @@
     "synonyms": [
       "洁身自好",
       "珍惜名誉",
-      "家累千金，坐不垂堂",
       "人活一张脸，树活一张皮"
     ],
     "antonyms": [
-      "自毁名誉",
-      "身败名裂"
+      "自毁名誉"
     ]
   },
   {
@@ -248,8 +244,8 @@
       "家丑不可外扬"
     ],
     "antonyms": [
-      "众所周知",
-      "人人皆知"
+      "人人皆知",
+      "众所周知"
     ]
   },
   {
@@ -335,14 +331,14 @@
     },
     "synonyms": [
       "裹足不前",
-      "犹豫不决",
       "畏缩不前",
       "狐疑不决",
       "沉吟不决",
-      "停滞不前",
       "举棋不定",
       "徘徊不前",
-      "迟疑不决"
+      "迟疑不决",
+      "犹豫不决",
+      "停滞不前"
     ],
     "antonyms": [
       "勇往直前",
@@ -393,7 +389,6 @@
     "antonyms": [
       "后知后觉",
       "事后诸葛亮",
-      "困而知之",
       "有钱难买早知道"
     ]
   },
@@ -435,16 +430,13 @@
       "zh": "多作谓语，带感情色彩。"
     },
     "synonyms": [
-      "近在咫尺",
-      "遥不可及",
-      "天各一方",
-      "海内存知己，天涯若比邻"
+      "遥不可及"
     ],
     "antonyms": [
       "近在眼前",
       "朝夕相处",
-      "天上人间",
-      "十里长亭"
+      "近在咫尺",
+      "海内存知己，天涯若比邻"
     ]
   },
   {
@@ -460,7 +452,7 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "poor-health"
+      "health"
     ],
     "literal": "full · face · red · glow",
     "natural": "with a ruddy glow",
@@ -489,7 +481,6 @@
     "synonyms": [
       "容光焕发",
       "神采奕奕",
-      "心宽体胖",
       "满面春风"
     ],
     "antonyms": [
@@ -537,12 +528,9 @@
       "en": "Neutral or mildly critical; compare 新瓶装旧酒.",
       "zh": "可褒可贬；对比“新瓶装旧酒”。"
     },
-    "synonyms": [
-      "推陈出新"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "墨守成规",
-      "一成不变"
+      "墨守成规"
     ]
   },
   {
@@ -554,8 +542,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "mental-clarity",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "myths-legends"
     ],
     "literal": "divine · dragon · see · head · not · see · tail",
     "natural": "like a dragon seen only in part",
@@ -642,8 +630,8 @@
       "海纳百川",
       "兼容并蓄",
       "选贤任能",
-      "选贤与能",
-      "周公吐哺"
+      "周公吐哺",
+      "选贤与能"
     ]
   },
   {
@@ -690,6 +678,7 @@
     "antonyms": [
       "安土重迁",
       "胸无大志",
+      "儿女情长",
       "为稻粱谋"
     ]
   },
@@ -744,7 +733,8 @@
     "register": "casual",
     "themes": [
       "relationships",
-      "evenly-matched"
+      "evenly-matched",
+      "unity-and-cooperation"
     ],
     "literal": "heroes · what · see · roughly · same",
     "natural": "great minds think alike",
@@ -771,14 +761,21 @@
     },
     "synonyms": [
       "不谋而合",
-      "所见略同",
-      "惺惺相惜",
       "人同此心"
     ],
     "antonyms": [
-      "话不投机",
-      "各执己见"
-    ]
+      "各执己见",
+      "见仁见智",
+      "意见相左",
+      "分歧很大",
+      "话不投机"
+    ],
+    "variants": [
+      "所见略同"
+    ],
+    "variant_kinds": {
+      "所见略同": "short"
+    }
   },
   {
     "id": "chui-lian-ting-zheng",
@@ -817,8 +814,7 @@
       "zh": "多用于历史，比喻时带批评。"
     },
     "synonyms": [
-      "幕后操纵",
-      "大权在握"
+      "幕后操纵"
     ],
     "antonyms": [
       "还政于民"
@@ -959,8 +955,7 @@
       "罪不容诛"
     ],
     "antonyms": [
-      "替天行道",
-      "天理昭昭"
+      "替天行道"
     ]
   },
   {
@@ -1044,8 +1039,7 @@
       "zh": "多作谓语，常与“王婆卖瓜”连用。"
     },
     "synonyms": [
-      "自吹自擂",
-      "老王卖瓜——自卖自夸"
+      "自吹自擂"
     ],
     "antonyms": [
       "虚怀若谷"

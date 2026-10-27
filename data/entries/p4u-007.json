@@ -83,8 +83,7 @@
       "zh": "注意“只”读 zhī（单个），不读 zhǐ。常用否定式“不留/没有片纸只字”。"
     },
     "synonyms": [
-      "只言片语",
-      "一字一句"
+      "只言片语"
     ],
     "antonyms": [
       "长篇大论",
@@ -271,8 +270,7 @@
       "银河倒泻"
     ],
     "antonyms": [
-      "死水一潭",
-      "滴水不漏"
+      "死水一潭"
     ]
   },
   {
@@ -358,13 +356,9 @@
       "en": "Describes ambitious men and times of change; often used of rival heroes in historical fiction. Literary.",
       "zh": "形容英雄豪杰和风云变幻的时代，常用于历史小说中群雄争霸。书面语。"
     },
-    "synonyms": [
-      "风云际会",
-      "群雄逐鹿"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "庸庸碌碌",
-      "无所作为"
+      "庸庸碌碌"
     ]
   },
   {
@@ -417,14 +411,13 @@
     "id": "yi-lu-feng-chen",
     "text": "一路风尘",
     "pinyin": "yī lù fēng chén",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "rare-idioms",
       "journeys-and-exploration",
-      "poverty-and-hardship",
       "festive-greetings"
     ],
     "literal": "whole · road · wind · dust",
@@ -456,8 +449,7 @@
       "旅途劳顿"
     ],
     "antonyms": [
-      "养尊处优",
-      "安然无恙"
+      "养尊处优"
     ]
   },
   {
@@ -501,12 +493,10 @@
       "zh": "源自古代按材质分类乐器（丝弦、竹管）。书面语，用于渲染宴乐场面。"
     },
     "synonyms": [
-      "笙歌鼎沸",
-      "弦歌不辍"
+      "笙歌鼎沸"
     ],
     "antonyms": [
-      "万籁俱寂",
-      "鸦雀无声"
+      "万籁俱寂"
     ]
   },
   {
@@ -547,8 +537,7 @@
       "zh": "常用于论证、法律和新闻写作，常与“空口/传闻/一面之词”搭配。书面语，对证据持否定态度。"
     },
     "synonyms": [
-      "空口无凭",
-      "难以置信"
+      "空口无凭"
     ],
     "antonyms": [
       "确凿无疑",
@@ -565,8 +554,7 @@
     "register": "formal",
     "themes": [
       "rare-idioms",
-      "positive-character-qualities",
-      "comebacks-and-renewal"
+      "positive-character-qualities"
     ],
     "literal": "die · and · no · regret",
     "natural": "die without regret",
@@ -593,7 +581,6 @@
       "zh": "表达完全的奉献或牺牲精神，常接在“只要/若能……”之后。语气庄重而强烈。"
     },
     "synonyms": [
-      "死而后已",
       "在所不辞"
     ],
     "antonyms": [
@@ -603,7 +590,7 @@
   },
   {
     "id": "you-sheng-lie-bai",
-    "text": "优胜劣败",
+    "text": "优胜劣汰",
     "pinyin": "yōu shèng liè bài",
     "kind": "chengyu",
     "frequency": 3,
@@ -614,7 +601,7 @@
       "competition-and-rivalry",
       "natural-consequences"
     ],
-    "literal": "superior · wins · inferior · loses",
+    "literal": "superior · win · inferior · eliminated",
     "natural": "the fit prevail, the unfit lose",
     "meaning": {
       "en": "The superior win and the inferior lose: the principle of competition, associated with natural selection.",
@@ -642,11 +629,9 @@
       "适者生存",
       "物竞天择"
     ],
-    "antonyms": [
-      "相安无事"
-    ],
+    "antonyms": [],
     "variants": [
-      "优胜劣汰"
+      "优胜劣败"
     ]
   },
   {
@@ -737,8 +722,7 @@
       "礼义廉耻"
     ],
     "antonyms": [
-      "背信弃义",
-      "忘恩负义"
+      "背信弃义"
     ]
   },
   {
@@ -751,7 +735,6 @@
     "register": "formal",
     "themes": [
       "rare-idioms",
-      "circular-conclusions",
       "modern-applications-of-classical-ideas",
       "historical-records"
     ],
@@ -795,8 +778,8 @@
       "矛盾统一"
     ],
     "antonyms": [
-      "水火不容",
-      "格格不入"
+      "格格不入",
+      "水火不容"
     ]
   },
   {
@@ -891,52 +874,6 @@
     ]
   },
   {
-    "id": "ren-qing-zhi-chang",
-    "text": "人情之常",
-    "pinyin": "rén qíng zhī cháng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "rare-idioms",
-      "experience-and-old-age",
-      "standards-and-benchmarks"
-    ],
-    "literal": "human · feelings · of · normal",
-    "natural": "what is natural for people",
-    "meaning": {
-      "en": "What is normal and natural in human feelings; to be expected of anyone.",
-      "zh": "人之常情，指人们通常都有的感情和反应。"
-    },
-    "equivalents": [
-      "only natural",
-      "normal human feeling"
-    ],
-    "examples": [
-      {
-        "zh": "思念亲人是人情之常，不必自责。",
-        "en": "Missing one's family is only natural; you need not blame yourself."
-      },
-      {
-        "zh": "见利心动，亦是人情之常。",
-        "en": "To be tempted by gain is also normal human nature."
-      }
-    ],
-    "usage": {
-      "en": "Used to excuse or explain feelings; commonly in the pattern 这是人情之常. Compare the more colloquial 人之常情.",
-      "zh": "用来为某种情感或做法开脱、解释，常说“这是人情之常”。可比较更口语化的“人之常情”。"
-    },
-    "synonyms": [
-      "情理之中",
-      "理所当然"
-    ],
-    "antonyms": [
-      "有悖常理",
-      "不近人情"
-    ]
-  },
-  {
     "id": "zi-shi-qi-yan",
     "text": "自食其言",
     "pinyin": "zì shí qí yán",
@@ -947,7 +884,7 @@
     "themes": [
       "rare-idioms",
       "inappropriate-behavior",
-      "mistakes-and-correction"
+      "bad-company-and-betrayal"
     ],
     "literal": "oneself · eat · one's · words",
     "natural": "eat one's own words",
@@ -974,8 +911,8 @@
       "zh": "不同于“自食其果”“自食其力”，所食的是“自己说过的话”。贬义，口语书面语皆可用。"
     },
     "synonyms": [
-      "言而无信",
-      "背信弃义"
+      "背信弃义",
+      "言而无信"
     ],
     "antonyms": [
       "言出必行",
@@ -1024,8 +961,7 @@
       "不知好歹"
     ],
     "antonyms": [
-      "进退有度",
-      "知难而退"
+      "进退有度"
     ]
   },
   {

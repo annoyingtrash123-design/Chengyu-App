@@ -31,8 +31,8 @@
         "en": "He gets jealous whenever his girlfriend talks to someone else."
       },
       {
-        "zh": "你别山西老乡了，我只是同事而已。",
-        "en": "Don't get jealous; he's just a colleague."
+        "zh": "你别山西老乡——爱吃醋了，我只是同事而已。",
+        "en": "Don't be jealous; I'm just a colleague."
       }
     ],
     "usage": {
@@ -87,12 +87,11 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“漏洞百出”。"
     },
     "synonyms": [
-      "漏洞百出",
       "千疮百孔"
     ],
     "antonyms": [
-      "天衣无缝",
-      "无懈可击"
+      "无懈可击",
+      "天衣无缝"
     ]
   },
   {
@@ -135,13 +134,10 @@
       "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. From the 《韩非子》 fable; punchline is the chengyu 滥竽充数.",
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。出自《韩非子》寓言；后半句即成语“滥竽充数”。"
     },
-    "synonyms": [
-      "滥竽充数",
-      "鱼目混珠"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "名副其实",
-      "真才实学"
+      "真才实学",
+      "名副其实"
     ]
   },
   {
@@ -378,9 +374,7 @@
       "图穷匕见",
       "原形毕露"
     ],
-    "antonyms": [
-      "始终如一"
-    ]
+    "antonyms": []
   },
   {
     "id": "jin-qi-ma-tong-wai-mian",
@@ -440,7 +434,7 @@
       "姜子牙的坐骑",
       "四不像"
     ],
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "register": "casual",
     "themes": [
       "unusual-combinations",
@@ -462,8 +456,8 @@
         "en": "This design is neither fish nor fowl."
       },
       {
-        "zh": "他的风格姜子牙的坐骑，四不像。",
-        "en": "His style resembles nothing in particular."
+        "zh": "他的风格是姜子牙的坐骑——四不像。",
+        "en": "His style is neither fish nor fowl."
       }
     ],
     "usage": {
@@ -474,9 +468,7 @@
       "不伦不类",
       "非驴非马"
     ],
-    "antonyms": [
-      "独树一帜"
-    ]
+    "antonyms": []
   },
   {
     "id": "hua-tuo-zhi-bing-shou-dao-bing-chu",
@@ -519,8 +511,8 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“手到病除”。"
     },
     "synonyms": [
-      "妙手回春",
-      "药到病除"
+      "药到病除",
+      "妙手回春"
     ],
     "antonyms": [
       "回天乏术"
@@ -558,8 +550,8 @@
         "en": "This time I'm in the wrong."
       },
       {
-        "zh": "他知道自己黑旋风的本名，不敢争辩。",
-        "en": "He knew he was at fault and didn't argue."
+        "zh": "他知道自己是黑旋风的本名——理亏，不敢争辩。",
+        "en": "He knew he was in the wrong and did not dare argue."
       }
     ],
     "usage": {
@@ -567,7 +559,6 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。双关：“李逵”谐音“理亏”。"
     },
     "synonyms": [
-      "理屈词穷",
       "自知理亏"
     ],
     "antonyms": [
@@ -615,7 +606,6 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“虾兵蟹将”。"
     },
     "synonyms": [
-      "虾兵蟹将",
       "乌合之众"
     ],
     "antonyms": [
@@ -654,8 +644,8 @@
         "en": "He has been jumpy lately, seeing enemies everywhere."
       },
       {
-        "zh": "苻坚望见八公山，一点风声就草木皆兵，没必要。",
-        "en": "No need to panic at the slightest rumour."
+        "zh": "苻坚望见八公山，一点风声就草木皆兵，大可不必。",
+        "en": "Like Fu Jian seeing soldiers in every bush on Mount Bagong, there is no need to panic at every rumour."
       }
     ],
     "usage": {
@@ -663,7 +653,6 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。典出淝水之战。"
     },
     "synonyms": [
-      "草木皆兵",
       "风声鹤唳"
     ],
     "antonyms": [

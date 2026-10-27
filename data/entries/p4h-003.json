@@ -52,56 +52,6 @@
     ]
   },
   {
-    "id": "yi-ge-ban-jin-yi-ge",
-    "text": "一个半斤，一个八两——彼此一样",
-    "pinyin": "yī gè bàn jīn, yī gè bā liǎng —— bǐ cǐ yī yàng",
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "一个半斤，一个八两",
-      "彼此一样"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "evenly-matched",
-      "relative-measurements"
-    ],
-    "literal": "one · half · jin, one · eight · liang — each other · alike",
-    "natural": "one is half a jin, the other eight liang",
-    "meaning": {
-      "en": "Half a jin equals eight liang in the old system; two sides that are equally good or equally bad.",
-      "zh": "旧制半斤等于八两；比喻双方不相上下，或同样不好。"
-    },
-    "equivalents": [
-      "six of one and half a dozen of the other",
-      "tarred with the same brush"
-    ],
-    "examples": [
-      {
-        "zh": "你们俩一个半斤，一个八两，谁也别说谁。",
-        "en": "You two are as bad as each other; neither can blame the other."
-      },
-      {
-        "zh": "这两个方案是一个半斤，一个八两。",
-        "en": "These two plans are equally good."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. In the old Chinese system 1 jin = 16 liang, so half a jin was eight liang. The chengyu 半斤八两 is the compact form.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。旧制一斤十六两，半斤即八两。成语“半斤八两”是其简称。"
-    },
-    "synonyms": [
-      "半斤八两",
-      "不相上下",
-      "旗鼓相当"
-    ],
-    "antonyms": [
-      "天壤之别",
-      "相差悬殊"
-    ]
-  },
-  {
     "id": "men-feng-li-kan-ren-ba-ren-kan-bian-le",
     "text": "门缝里看人——把人看扁了",
     "pinyin": "mén fèng lǐ kàn rén —— bǎ rén kàn biǎn le",
@@ -137,8 +87,8 @@
         "en": "Don't underestimate him; he's actually very capable."
       },
       {
-        "zh": "她被人门缝里看人，心里很不是滋味。",
-        "en": "She's been looked down on, and it rankles."
+        "zh": "她被人用门缝里看人的眼光对待，心里很不是滋味。",
+        "en": "She was treated as if looked down upon through a crack in the door, and it didn't feel good."
       }
     ],
     "usage": {
@@ -203,58 +153,6 @@
     ]
   },
   {
-    "id": "xia-mao-peng-shang-si-hao-zi-peng-qiao",
-    "text": "瞎猫碰上死耗子——碰巧",
-    "pinyin": "xiā māo pèng shàng sǐ hào zi —— pèng qiǎo",
-    "variants": [
-      "瞎猫碰着死耗子——碰巧"
-    ],
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "瞎猫碰上死耗子",
-      "碰巧"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "unintended-results",
-      "animal-behavior-metaphors"
-    ],
-    "literal": "blind · cat · bump into · dead · rat — bump · by chance",
-    "natural": "a blind cat stumbles on a dead rat",
-    "meaning": {
-      "en": "A blind cat finds a dead mouse by luck; succeeding by pure chance rather than skill.",
-      "zh": "瞎猫碰到死老鼠；比喻碰巧成功，并非本事。"
-    },
-    "equivalents": [
-      "a lucky fluke",
-      "even a blind squirrel finds a nut now and then"
-    ],
-    "examples": [
-      {
-        "zh": "他这次考得好，是瞎猫碰上死耗子。",
-        "en": "His good result this time was sheer luck."
-      },
-      {
-        "zh": "你别以为自己厉害，不过是瞎猫碰上死耗子。",
-        "en": "Don't think you're so clever; it was just a fluke."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Slightly dismissive of the person's success.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。略带贬低对方成功之意。"
-    },
-    "synonyms": [
-      "歪打正着",
-      "瞎猫碰死耗子"
-    ],
-    "antonyms": [
-      "运筹帷幄",
-      "胸有成竹"
-    ]
-  },
-  {
     "id": "dou-fu-diao-jin-hui-dui",
     "text": "豆腐掉进灰堆里——吹不得打不得",
     "pinyin": "dòu fu diào jìn huī duī lǐ —— chuī bù de dǎ bù de",
@@ -301,62 +199,6 @@
     "antonyms": [
       "迎刃而解",
       "轻而易举"
-    ]
-  },
-  {
-    "id": "re-guo-shang-de-ma-yi-tuan-tuan-zhuan",
-    "text": "热锅上的蚂蚁——团团转",
-    "pinyin": "rè guō shàng de mǎ yǐ —— tuán tuán zhuàn",
-    "variants": [
-      "热锅上的蚂蚁——急得团团转"
-    ],
-    "variant_kinds": {
-      "热锅上的蚂蚁——急得团团转": "full"
-    },
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "热锅上的蚂蚁",
-      "团团转"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "psychological-pressure",
-      "fear-and-cowardice"
-    ],
-    "literal": "hot · wok · on · 's · ant — round · round · turn",
-    "natural": "an ant on a hot wok",
-    "meaning": {
-      "en": "An ant on a hot pan runs round in circles; someone frantic with worry who cannot find a way out.",
-      "zh": "蚂蚁在热锅上到处乱转；比喻焦急万分，没有办法。"
-    },
-    "equivalents": [
-      "like a cat on hot bricks",
-      "run around like a headless chicken"
-    ],
-    "examples": [
-      {
-        "zh": "孩子还没回家，她急得像热锅上的蚂蚁。",
-        "en": "The child isn't home yet; she's like a cat on hot bricks."
-      },
-      {
-        "zh": "大家都像热锅上的蚂蚁，不知该怎么办。",
-        "en": "Everyone was in a flap, not knowing what to do."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Often appears as 像热锅上的蚂蚁一样.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。常说“像热锅上的蚂蚁一样”。"
-    },
-    "synonyms": [
-      "焦头烂额",
-      "坐立不安",
-      "手足无措"
-    ],
-    "antonyms": [
-      "镇定自若",
-      "不慌不忙"
     ]
   },
   {
@@ -429,7 +271,7 @@
     "register": "casual",
     "themes": [
       "bad-fortune",
-      "comebacks-and-renewal"
+      "fortune"
     ],
     "literal": "pluck · -ed · feathers · 's · phoenix — not · as good as · chicken",
     "natural": "a plucked phoenix is worse than a chicken",
@@ -589,14 +431,14 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "learning-difficulties",
-      "reading-and-study"
+      "reading-and-study",
+      "effort"
     ],
     "literal": "smash · earthenware pot — ask (crack) · to · the bottom",
     "natural": "smash the clay pot and the crack runs to the bottom",
     "meaning": {
-      "en": "A cracked clay pot's fracture runs to the bottom; a pun on 问 (ask) and 纹 (crack), meaning to question something thoroughly.",
-      "zh": "砂锅一裂，裂纹直到锅底；“纹”谐“问”，比喻追根究底。"
+      "en": "A cracked clay pot's fracture runs to the bottom; a pun on 璺 (wèn, crack) and 问 (wèn, ask), meaning to question something thoroughly.",
+      "zh": "砂锅一裂，裂璺直到锅底；“璺”谐“问”，比喻追根究底。"
     },
     "equivalents": [
       "get to the bottom of something",
@@ -666,13 +508,9 @@
     },
     "synonyms": [
       "自食其果",
-      "作茧自缚",
-      "自作自受"
+      "作茧自缚"
     ],
-    "antonyms": [
-      "因祸得福",
-      "嫁祸于人"
-    ]
+    "antonyms": []
   },
   {
     "id": "shui-zhong-lao-yue-yi-chang-kong",
@@ -688,7 +526,7 @@
     "register": "casual",
     "themes": [
       "failed-ambitions",
-      "miraculous-occurrences"
+      "buddhist-origin"
     ],
     "literal": "water · in · fish out · moon — one · scene · empty",
     "natural": "scooping the moon out of the water",
@@ -715,8 +553,8 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。四字形式“水中捞月”本身也是成语。"
     },
     "synonyms": [
-      "镜花水月",
-      "徒劳无功"
+      "徒劳无功",
+      "镜花水月"
     ],
     "antonyms": [
       "实实在在",
@@ -727,16 +565,13 @@
     "id": "xia-zi-chi-tang-yuan-xin-zhong-you-shu",
     "text": "瞎子吃汤圆——心中有数",
     "pinyin": "xiā zi chī tāng yuán —— xīn zhōng yǒu shù",
-    "variants": [
-      "哑巴吃饺子——心里有数"
-    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
       "瞎子吃汤圆",
       "心中有数"
     ],
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "casual",
     "themes": [
       "mental-clarity",
@@ -769,11 +604,12 @@
     "synonyms": [
       "心中有数",
       "胸有成竹",
-      "心知肚明"
+      "心知肚明",
+      "哑巴吃饺子——心里有数"
     ],
     "antonyms": [
-      "心中无数",
-      "一头雾水"
+      "一头雾水",
+      "心中无数"
     ]
   },
   {
@@ -821,7 +657,6 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。"
     },
     "synonyms": [
-      "得过且过",
       "敷衍了事"
     ],
     "antonyms": [
@@ -969,12 +804,12 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。意思与“老太太吃柿子——专挑软的捏”相近。"
     },
     "synonyms": [
-      "欺软怕硬",
-      "恃强凌弱"
+      "恃强凌弱",
+      "欺软怕硬"
     ],
     "antonyms": [
       "除暴安良",
-      "扶弱抑强"
+      "抑强扶弱"
     ]
   },
   {
@@ -1023,7 +858,6 @@
     ],
     "antonyms": [
       "洗心革面",
-      "改过自新",
       "脱胎换骨"
     ]
   },
@@ -1076,8 +910,7 @@
       "不懂装懂"
     ],
     "antonyms": [
-      "实事求是",
-      "坦诚相待"
+      "坦诚相见"
     ]
   },
   {
@@ -1085,7 +918,8 @@
     "text": "和尚打伞——无法（发）无天",
     "pinyin": "hé shang dǎ sǎn —— wú fǎ (fà) wú tiān",
     "variants": [
-      "癞痢头打伞——无法无天"
+      "癞痢头打伞——无法无天",
+      "癞痢头撑伞——无法（发）无天"
     ],
     "kind": "xiehouyu",
     "frequency": 2,
@@ -1097,7 +931,8 @@
     "register": "casual",
     "themes": [
       "inappropriate-behavior",
-      "chaos"
+      "chaos",
+      "negative-character-flaws"
     ],
     "literal": "monk · hold · umbrella — no · law (hair) · no · sky",
     "natural": "a monk with an umbrella: no hair, no sky",
@@ -1124,13 +959,13 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。谐音双关：“发”与“法”音近；“无法无天”本身也是成语。"
     },
     "synonyms": [
+      "无法无天",
       "肆无忌惮",
-      "为所欲为",
-      "无法无天"
+      "为所欲为"
     ],
     "antonyms": [
-      "循规蹈矩",
-      "安分守己"
+      "安分守己",
+      "遵纪守法"
     ]
   },
   {

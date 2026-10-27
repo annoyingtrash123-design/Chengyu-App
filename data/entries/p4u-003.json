@@ -47,10 +47,7 @@
       "en": "Almost always as 立于不败之地 / 处于不败之地. Used in war, sport, business and negotiation. Not about never losing, but about being in a position that cannot be beaten.",
       "zh": "几乎总是用作“立于不败之地”“处于不败之地”，用于战争、体育、商业、谈判。指处境稳固，不易被击败。"
     },
-    "synonyms": [
-      "稳操胜券",
-      "固若金汤"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不堪一击",
       "一败涂地"
@@ -106,7 +103,7 @@
     "id": "e-mi-tuo-fo",
     "text": "阿弥陀佛",
     "pinyin": "ē mí tuó fó",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -144,15 +141,13 @@
       "南无阿弥陀佛",
       "谢天谢地"
     ],
-    "antonyms": [
-      "大难临头"
-    ]
+    "antonyms": []
   },
   {
     "id": "san-shi-san-tian",
     "text": "三十三天",
     "pinyin": "sān shí sān tiān",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -282,20 +277,16 @@
       "en": "Daoist; the sense is not to reject wisdom but to reject calculating, artificial 'learning' that causes strife. Mostly used in discussing Laozi, and a classic subject of misinterpretation.",
       "zh": "道家用语，并非否定智慧，而是反对造成纷争的机巧和人为的所谓圣智。多用于讨论老子思想，常被误解。"
     },
-    "synonyms": [
-      "返璞归真",
-      "清静无为"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "机关算尽",
-      "处心积虑"
+      "机关算尽"
     ]
   },
   {
     "id": "xiu-zhen-yang-xing",
     "text": "修真养性",
     "pinyin": "xiū zhēn yǎng xìng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -341,7 +332,7 @@
     "id": "bai-yi-xiu-shi",
     "text": "白衣秀士",
     "pinyin": "bái yī xiù shì",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -375,11 +366,9 @@
       "zh": "书面语，带历史色彩；“白衣”指无官职的平民。在《水浒传》中是对屡试不第、落草为寇者的绰号。"
     },
     "synonyms": [
-      "白面书生",
       "布衣之士"
     ],
     "antonyms": [
-      "金榜题名",
       "位极人臣"
     ]
   },
@@ -387,7 +376,7 @@
     "id": "huan-wo-he-shan",
     "text": "还我河山",
     "pinyin": "huán wǒ hé shān",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
@@ -421,8 +410,7 @@
       "zh": "庄重的爱国口号，常作题字或标语。“岳飞所书”的说法出自传统，并无十分确证。可比较“收复失地”。"
     },
     "synonyms": [
-      "收复失地",
-      "精忠报国"
+      "收复失地"
     ],
     "antonyms": [
       "丧权辱国",
@@ -640,10 +628,7 @@
       "en": "From the famous line 'Shu has only generals who lose their heads, none who surrender'. Praising and literary; refers to Yan Yan (严颜) in Romance of the Three Kingdoms.",
       "zh": "出自“我州但有断头将军，无降将军也”。褒义、书面语，指《三国演义》中的严颜。"
     },
-    "synonyms": [
-      "宁死不屈",
-      "忠肝义胆"
-    ],
+    "synonyms": [],
     "antonyms": [
       "卖国求荣",
       "贪生怕死"
@@ -702,7 +687,7 @@
       "循环往复"
     ],
     "antonyms": [
-      "一去不返",
+      "一去不复返",
       "一蹶不振"
     ]
   },
@@ -813,8 +798,8 @@
       "zh": "出自《庄子》筌蹄之喻；不要与“得意忘形”混淆。褒义，多用于谈艺术与思想。"
     },
     "synonyms": [
-      "得鱼忘筌",
-      "不落言筌"
+      "不落言筌",
+      "得鱼忘筌"
     ],
     "antonyms": [
       "咬文嚼字",
@@ -871,8 +856,8 @@
       "zh": "谦辞，多作“略有一日之长”。“长”读zhǎng（年长），不读cháng。"
     },
     "synonyms": [
-      "略胜一筹",
-      "年长一些"
+      "年长一些",
+      "略胜一筹"
     ],
     "antonyms": [
       "后生晚辈",
@@ -929,7 +914,7 @@
     "id": "yi-pian-wang-yang",
     "text": "一片汪洋",
     "pinyin": "yī piàn wāng yáng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -967,8 +952,8 @@
       "泽国一片"
     ],
     "antonyms": [
-      "赤地千里",
-      "滴水不见"
+      "滴水不见",
+      "赤地千里"
     ]
   },
   {
@@ -1013,16 +998,13 @@
       "指天发誓",
       "指天誓日"
     ],
-    "antonyms": [
-      "含糊其词",
-      "守口如瓶"
-    ]
+    "antonyms": []
   },
   {
     "id": "liu-luo-jiang-hu",
     "text": "流落江湖",
     "pinyin": "liú luò jiāng hú",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
@@ -1057,8 +1039,7 @@
     },
     "synonyms": [
       "流离失所",
-      "漂泊他乡",
-      "沦落风尘"
+      "漂泊他乡"
     ],
     "antonyms": [
       "安居乐业",

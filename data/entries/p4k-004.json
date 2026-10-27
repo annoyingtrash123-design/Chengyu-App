@@ -37,8 +37,7 @@
       "zh": "语气庆幸，用于事后；若已有伤亡则不用。"
     },
     "synonyms": [
-      "虚惊一场",
-      "化险为夷"
+      "虚惊一场"
     ],
     "antonyms": [
       "险象环生",
@@ -178,7 +177,6 @@
       "一鸣惊人"
     ],
     "antonyms": [
-      "默默无语",
       "平淡无奇"
     ]
   },
@@ -220,8 +218,7 @@
       "zh": "也可用于夸张、自嘲的小烦恼；区别于“哭笑不得”。"
     },
     "synonyms": [
-      "痛不欲生",
-      "呼天抢地"
+      "痛不欲生"
     ],
     "antonyms": [
       "喜笑颜开",
@@ -330,9 +327,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "excellent-acting",
-      "excellent-writing",
-      "exam-favourites"
+      "exam-favourites",
+      "arts"
     ],
     "literal": "pleasing · ear · moving · to hear",
     "natural": "sweet to the ear",
@@ -360,10 +356,9 @@
     },
     "synonyms": [
       "婉转动听",
-      "余音绕梁"
+      "朗朗上口"
     ],
     "antonyms": [
-      "震耳欲聋",
       "不堪入耳"
     ]
   },
@@ -423,9 +418,9 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "near-misses-and-setbacks",
       "time-management",
-      "exam-favourites"
+      "exam-favourites",
+      "extraordinary-circumstances"
     ],
     "literal": "depends on · this · one · move",
     "natural": "all rests on this move",
@@ -453,11 +448,9 @@
     },
     "synonyms": [
       "背水一战",
-      "孤注一掷",
       "破釜沉舟"
     ],
     "antonyms": [
-      "无足轻重",
       "从长计议"
     ]
   },
@@ -592,11 +585,9 @@
     "synonyms": [
       "松紧适度",
       "劳逸结合",
-      "进退有度",
       "一张一弛"
     ],
     "antonyms": [
-      "急功近利",
       "一味紧绷"
     ]
   },
@@ -699,7 +690,8 @@
     "text": "赤日炎炎",
     "pinyin": "chì rì yán yán",
     "variants": [
-      "炎炎赤日"
+      "炎炎赤日",
+      "烈日炎炎"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -741,8 +733,7 @@
     "antonyms": [
       "寒风刺骨",
       "天寒地冻",
-      "滴水成冰",
-      "七月流火"
+      "滴水成冰"
     ]
   },
   {
@@ -829,13 +820,12 @@
       "zh": "多指事情刚有苗头。“端倪”指头绪。"
     },
     "synonyms": [
-      "崭露头角",
       "可见一斑",
       "露出苗头"
     ],
     "antonyms": [
-      "杳无音信",
-      "毫无头绪"
+      "毫无头绪",
+      "杳无音信"
     ]
   },
   {
@@ -848,9 +838,9 @@
     "register": "literary",
     "themes": [
       "seasonal-changes",
-      "harsh-natural-conditions",
       "exam-favourites",
-      "landscapes"
+      "landscapes",
+      "weather-and-sky"
     ],
     "literal": "silver · dressed · plain white · wrapped",
     "natural": "dressed in silver and white",
@@ -883,8 +873,7 @@
       "粉妆玉砌"
     ],
     "antonyms": [
-      "姹紫嫣红",
-      "万紫千红"
+      "姹紫嫣红"
     ]
   },
   {
@@ -897,7 +886,6 @@
     "register": "neutral",
     "themes": [
       "body",
-      "harsh-natural-conditions",
       "exam-favourites"
     ],
     "literal": "big · sweat · dripping · streaming",
@@ -945,7 +933,8 @@
     "themes": [
       "harsh-natural-conditions",
       "seasonal-changes",
-      "exam-favourites"
+      "exam-favourites",
+      "weather-and-sky"
     ],
     "literal": "fierce · sun · like · fire",
     "natural": "a sun like fire",
@@ -977,105 +966,7 @@
       "夏日炎炎"
     ],
     "antonyms": [
-      "寒风凛冽",
-      "秋高气爽"
-    ]
-  },
-  {
-    "id": "tan-ran-zi-ruo",
-    "text": "坦然自若",
-    "pinyin": "tǎn rán zì ruò",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "positive-character-qualities",
-      "mental-clarity",
-      "exam-favourites"
-    ],
-    "literal": "calm · so · naturally · as usual",
-    "natural": "calmly composed",
-    "meaning": {
-      "en": "Calm and natural; not nervous or embarrassed.",
-      "zh": "神态安然，不慌张，像平常一样。"
-    },
-    "equivalents": [
-      "calm and composed",
-      "unembarrassed"
-    ],
-    "examples": [
-      {
-        "zh": "被当众批评，他依然坦然自若。",
-        "en": "Criticised in public, he stayed perfectly composed."
-      },
-      {
-        "zh": "她坦然自若地走上讲台。",
-        "en": "She walked calmly to the lectern."
-      }
-    ],
-    "usage": {
-      "en": "Close to 镇定自若 but stresses openness and lack of embarrassment rather than calm in danger.",
-      "zh": "与“镇定自若”相近，侧重神情坦然、不窘迫。"
-    },
-    "synonyms": [
-      "从容不迫",
-      "若无其事"
-    ],
-    "antonyms": [
-      "局促不安",
-      "惊慌失措",
-      "忧谗畏讥",
-      "疑心生暗鬼"
-    ]
-  },
-  {
-    "id": "zhi-xu-jing-ran",
-    "text": "秩序井然",
-    "pinyin": "zhì xù jǐng rán",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "fairness-and-impartiality",
-      "good-governance",
-      "exam-favourites"
-    ],
-    "literal": "order · sequence · tidy · so",
-    "natural": "everything in good order",
-    "meaning": {
-      "en": "Neat and orderly, with everything in its proper place.",
-      "zh": "次序整齐有条理，不混乱。"
-    },
-    "equivalents": [
-      "in perfect order",
-      "orderly"
-    ],
-    "examples": [
-      {
-        "zh": "疏散时，学生们秩序井然。",
-        "en": "During the evacuation the students moved in perfect order."
-      },
-      {
-        "zh": "大会现场秩序井然。",
-        "en": "The meeting hall was in good order."
-      }
-    ],
-    "usage": {
-      "en": "Positive, common in news about crowds and events; compare 井然有序. 秩序井然 is a modern phrase.",
-      "zh": "褒义，新闻中常用来描述人群、活动。与“井然有序”相近。"
-    },
-    "synonyms": [
-      "井然有序",
-      "有条不紊",
-      "鸡犬不惊",
-      "没有规矩，不成方圆"
-    ],
-    "antonyms": [
-      "杂乱无章",
-      "乱七八糟",
-      "狼奔豕突"
+      "寒风凛冽"
     ]
   },
   {
@@ -1120,8 +1011,8 @@
       "魂牵梦萦"
     ],
     "antonyms": [
-      "漠不关心",
-      "置之脑后"
+      "置之脑后",
+      "漠不关心"
     ]
   }
 ]

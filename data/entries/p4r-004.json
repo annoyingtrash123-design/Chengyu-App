@@ -95,8 +95,7 @@
       "zh": "警示内部叛乱或背叛。书面语；“肘腋”指肘和腋，即身边极近之处。"
     },
     "synonyms": [
-      "祸起萧墙",
-      "内忧外患"
+      "祸起萧墙"
     ],
     "antonyms": [
       "太平无事",
@@ -211,8 +210,7 @@
       "zh": "对学习者的鼓励语；“将”读 jiāng，意为进步。书面语，常见于师长祝语。"
     },
     "synonyms": [
-      "日新月异",
-      "精益求精"
+      "日新月异"
     ],
     "antonyms": [
       "原地踏步",
@@ -323,7 +321,7 @@
       "鸡犬不宁",
       "刀光剑影",
       "大敌当前",
-      "危急存亡",
+      "危急存亡之秋",
       "永无宁日",
       "变生肘腋"
     ]
@@ -369,9 +367,9 @@
       "天长日久"
     ],
     "antonyms": [
-      "转瞬即逝",
       "一朝一夕",
-      "墨迹未干"
+      "墨迹未干",
+      "转瞬即逝"
     ]
   },
   {
@@ -384,7 +382,6 @@
     "register": "casual",
     "themes": [
       "rare-idioms",
-      "parenting-and-family",
       "apprenticeship-and-learning"
     ],
     "literal": "disciples · sons · disciples · grandsons",
@@ -412,7 +409,6 @@
       "zh": "用于上司的追随者时常带诙谐或贬义；在武侠小说中则指师门后代弟子。"
     },
     "synonyms": [
-      "门生故旧",
       "师门后辈"
     ],
     "antonyms": [
@@ -456,9 +452,7 @@
       "en": "Used in crime stories and news-style narratives; also jokingly for a cunning thief. Neutral register with a dramatic flavour.",
       "zh": "用于犯罪故事和新闻式叙述，也可戏称狡猾的窃贼。中性，带戏剧色彩。"
     },
-    "synonyms": [
-      "绿林好汉"
-    ],
+    "synonyms": [],
     "antonyms": [
       "正人君子"
     ]
@@ -548,7 +542,6 @@
     },
     "synonyms": [
       "十八般兵器",
-      "刀光剑影",
       "长枪大戟"
     ],
     "antonyms": [
@@ -594,8 +587,7 @@
       "zh": "对纪律严明的军队的传统赞语，也用于政治宣传。正式，庄重。"
     },
     "synonyms": [
-      "王者之师",
-      "威武之师"
+      "王者之师"
     ],
     "antonyms": [
       "虎狼之师",
@@ -645,8 +637,7 @@
       "废寝忘食"
     ],
     "antonyms": [
-      "心不在焉",
-      "漠不关心"
+      "心不在焉"
     ]
   },
   {
@@ -686,12 +677,9 @@
       "zh": "语气中性，略带艳情色彩，常见于旧小说和戏曲。有时轻视儿女私情。"
     },
     "synonyms": [
-      "儿女情长",
       "卿卿我我"
     ],
-    "antonyms": [
-      "无情无义"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-shi-fei-fei",
@@ -731,13 +719,9 @@
       "zh": "描述团体里的纷争和流言；也说“是非曲直”。口语，略带厌倦。"
     },
     "synonyms": [
-      "恩恩怨怨",
-      "风风雨雨"
+      "恩恩怨怨"
     ],
-    "antonyms": [
-      "相安无事",
-      "清清白白"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-wang-er-zhi",
@@ -780,7 +764,7 @@
       "显而易见"
     ],
     "antonyms": [
-      "难以捉摸",
+      "不可捉摸",
       "扑朔迷离"
     ]
   },
@@ -823,14 +807,13 @@
     },
     "synonyms": [],
     "antonyms": [
-      "微不足道",
       "无名小卒"
     ]
   },
   {
     "id": "tian-cha-di-yuan",
-    "text": "天差地远",
-    "pinyin": "tiān chā dì yuǎn",
+    "text": "天差地别",
+    "pinyin": "tiān chā dì bié",
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
@@ -839,7 +822,7 @@
       "rare-idioms",
       "relative-measurements"
     ],
-    "literal": "heaven · differs · earth · far",
+    "literal": "heaven · differ · earth · separate",
     "natural": "as far apart as heaven and earth",
     "meaning": {
       "en": "A huge difference between two things.",
@@ -872,7 +855,7 @@
       "不相上下"
     ],
     "variants": [
-      "天差地别"
+      "天差地远"
     ]
   },
   {
@@ -959,11 +942,9 @@
       "zh": "多为赞语，略带对风流韵事的调侃，也可作打趣或轻微批评。常与“倾国佳人”对举。"
     },
     "synonyms": [
-      "才华横溢",
       "玉树临风"
     ],
     "antonyms": [
-      "不学无术",
       "粗俗不堪"
     ]
   },
@@ -1012,51 +993,6 @@
     "antonyms": [
       "悄无声息",
       "鸦雀无声"
-    ]
-  },
-  {
-    "id": "yi-ren-zhi-xia",
-    "text": "一人之下",
-    "pinyin": "yī rén zhī xià",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "rare-idioms",
-      "leadership-and-authority"
-    ],
-    "literal": "one · person · 's · below",
-    "natural": "below only one person",
-    "meaning": {
-      "en": "The second-highest position, subordinate only to the top; often 一人之下，万人之上.",
-      "zh": "处于一个人之下的地位，指仅次于最高统治者的高位。"
-    },
-    "equivalents": [
-      "second-in-command",
-      "just under the top person"
-    ],
-    "examples": [
-      {
-        "zh": "他官拜宰相，一人之下，万人之上。",
-        "en": "He became chancellor, second only to the emperor and above all others."
-      },
-      {
-        "zh": "在这家公司，他是一人之下的实权人物。",
-        "en": "In this company he is the real power, second only to the boss."
-      }
-    ],
-    "usage": {
-      "en": "Almost always in the full set 一人之下，万人之上. Describes a chancellor or deputy. Neutral, with a sense of high rank.",
-      "zh": "几乎总是整句“一人之下，万人之上”，指宰相或副手。中性，含地位崇高之意。"
-    },
-    "synonyms": [
-      "位极人臣",
-      "权倾朝野"
-    ],
-    "antonyms": [
-      "低人一等",
-      "人微言轻"
     ]
   },
   {
@@ -1142,13 +1078,12 @@
     },
     "synonyms": [
       "无为而治",
-      "清心寡欲",
-      "绝圣弃智"
+      "清心寡欲"
     ],
     "antonyms": [
-      "多管闲事",
       "积极进取",
-      "纷纷扰扰"
+      "纷纷扰扰",
+      "多管闲事"
     ]
   },
   {

@@ -95,12 +95,10 @@
       "zh": "称赞文才，很少用于其他方面。"
     },
     "synonyms": [
-      "才华横溢",
-      "龙飞凤舞"
+      "才华横溢"
     ],
     "antonyms": [
-      "才疏学浅",
-      "文不对题"
+      "才疏学浅"
     ]
   },
   {
@@ -273,8 +271,8 @@
       "不食人间烟火"
     ],
     "antonyms": [
-      "酒池肉林",
-      "食前方丈"
+      "食前方丈",
+      "酒池肉林"
     ]
   },
   {
@@ -373,11 +371,9 @@
       "zh": "具有原则性，多见于谈写作和品德的文章。"
     },
     "synonyms": [
-      "言之有物",
-      "文以载道"
+      "言之有物"
     ],
     "antonyms": [
-      "华而不实",
       "巧言令色"
     ]
   },
@@ -465,12 +461,11 @@
       "zh": "今天多含贬义；古义较中性，指含蓄害羞的样子。"
     },
     "synonyms": [
-      "搔首弄姿",
-      "搔首踟蹰"
+      "搔首弄姿"
     ],
     "antonyms": [
-      "落落大方",
-      "端庄稳重"
+      "端庄稳重",
+      "落落大方"
     ]
   },
   {
@@ -511,7 +506,6 @@
       "zh": "带悲壮或豪放色彩；啸指长啸，不是大笑。"
     },
     "synonyms": [
-      "长歌当哭",
       "纵声长啸"
     ],
     "antonyms": [
@@ -560,10 +554,7 @@
       "随遇而安",
       "知足常乐"
     ],
-    "antonyms": [
-      "暴殄天物",
-      "挥霍无度"
-    ]
+    "antonyms": []
   },
   {
     "id": "zai-li-huo-zao",
@@ -603,7 +594,6 @@
       "zh": "多用于文人自嘲，或批评无价值的书籍。"
     },
     "synonyms": [
-      "粗制滥造",
       "废纸一堆"
     ],
     "antonyms": [
@@ -622,7 +612,7 @@
     "themes": [
       "rare-idioms",
       "negative-character-flaws",
-      "fear-and-cowardice"
+      "poor-planning-and-hasty-decisions"
     ],
     "literal": "blood · spirit · of · courage",
     "natural": "courage of hot blood",
@@ -649,8 +639,7 @@
       "zh": "略含批评，与“智勇双全”“义勇”相对。"
     },
     "synonyms": [
-      "匹夫之勇",
-      "争强好胜"
+      "匹夫之勇"
     ],
     "antonyms": [
       "智勇双全",
@@ -742,7 +731,8 @@
     "synonyms": [
       "暗自非议",
       "心怀不满",
-      "皮里阳秋"
+      "皮里阳秋",
+      "面从腹诽"
     ],
     "antonyms": [
       "直言不讳",
@@ -755,18 +745,17 @@
     "pinyin": "bù láng bù yǒu",
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "rare-idioms",
       "farming-and-harvest",
-      "positive-character-qualities",
       "poems-prose"
     ],
     "literal": "not · darnel · not · weed",
     "natural": "neither darnel nor foxtail weed",
     "meaning": {
-      "en": "Said of a person who is decent and gets on, in contrast to a good-for-nothing.",
+      "en": "Originally healthy grain free of weeds; later used of someone neither good nor bad, ordinary or good-for-nothing.",
       "zh": "稂莠是田里的杂草，不稂不莠本指禾苗长得好，后常用于说人不坏也不特别出色，有时指不成材。"
     },
     "equivalents": [
@@ -799,12 +788,11 @@
       "zh": "注意词义变化：《诗经》中指庄稼长得好，后世常指不成器、平平。"
     },
     "synonyms": [
-      "平平庸庸",
-      "碌碌无为"
+      "平平庸庸"
     ],
     "antonyms": [
-      "出类拔萃",
-      "栋梁之才"
+      "栋梁之才",
+      "出类拔萃"
     ]
   },
   {
@@ -859,55 +847,7 @@
       "管中窥豹",
       "以一斑窥全豹"
     ],
-    "antonyms": [
-      "以偏概全",
-      "盲人摸象"
-    ]
-  },
-  {
-    "id": "gu-shen-zhi-ying",
-    "text": "孤身只影",
-    "pinyin": "gū shēn zhī yǐng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "solitude-and-isolation"
-    ],
-    "literal": "lonely · body · single · shadow",
-    "natural": "one body, one shadow",
-    "meaning": {
-      "en": "All alone, with no companion.",
-      "zh": "孤单一人，没有伴侣。"
-    },
-    "equivalents": [
-      "all alone",
-      "solitary and friendless"
-    ],
-    "examples": [
-      {
-        "zh": "他孤身只影在异乡打拼多年。",
-        "en": "He struggled alone in a strange land for many years."
-      },
-      {
-        "zh": "夜深人静，孤身只影的老人望着月亮。",
-        "en": "In the quiet night the lonely old man gazed at the moon."
-      }
-    ],
-    "usage": {
-      "en": "Another form of 形单影只; both are well established.",
-      "zh": "与“形单影只”相近，两者都通行。"
-    },
-    "synonyms": [
-      "形单影只",
-      "茕茕孑立"
-    ],
-    "antonyms": [
-      "成群结队",
-      "前呼后拥"
-    ]
+    "antonyms": []
   },
   {
     "id": "guan-gai-yun-ji",
@@ -1096,13 +1036,10 @@
       "en": "朝 is zhāo (morning). Slightly boastful; war-cry flavour.",
       "zh": "朝读 zhāo（早晨）。略带夸口，有战斗口号意味。"
     },
-    "synonyms": [
-      "势如破竹",
-      "一鼓作气"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "畏首畏尾",
-      "节节败退"
+      "节节败退",
+      "畏首畏尾"
     ]
   }
 ]

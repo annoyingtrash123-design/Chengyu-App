@@ -1,69 +1,11 @@
 [
   {
-    "id": "wu-dou-zhe-yao",
-    "text": "五斗折腰",
-    "pinyin": "wǔ dǒu zhé yāo",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "positive-character-qualities",
-      "freedom",
-      "historical-records"
-    ],
-    "literal": "five · pecks (of grain) · bend · waist",
-    "natural": "bow for five pecks of rice",
-    "meaning": {
-      "en": "To bow and scrape for a petty salary; to compromise one's dignity for a living.",
-      "zh": "为微薄的俸禄向人低头，比喻为生计而丧失尊严。"
-    },
-    "equivalents": [
-      "bow and scrape for a pittance",
-      "sell one's dignity for a salary"
-    ],
-    "examples": [
-      {
-        "zh": "我不愿为五斗折腰，辞职做了自由职业者。",
-        "en": "I would not bow and scrape for a pittance, so I quit and went freelance."
-      },
-      {
-        "zh": "他宁可清贫，也不为五斗折腰。",
-        "en": "He would rather be poor than demean himself for a wage."
-      }
-    ],
-    "origin": {
-      "source": "《晋书·陶潜传》",
-      "story": {
-        "en": "When an inspector came, Tao Yuanming refused to put on formal dress to receive him: 'I cannot bow to a village child for five pecks of rice,' and resigned.",
-        "zh": "陶潜叹曰：“吾不能为五斗米折腰向乡里小人！”即日解印去职。"
-      },
-      "date": {
-        "zh": "唐 · 648年",
-        "en": "Tang dynasty, 648"
-      }
-    },
-    "usage": {
-      "en": "Usually in the negative: 不为五斗米折腰, expressing self-respect and refusal to flatter superiors. Literary, admiring.",
-      "zh": "常用否定式“不为五斗米折腰”，表示有骨气，不肯逢迎上司。书面语，含赞许。"
-    },
-    "synonyms": [
-      "低三下四",
-      "卑躬屈膝"
-    ],
-    "antonyms": [
-      "不卑不亢",
-      "志行高洁"
-    ]
-  },
-  {
     "id": "chun-lu-zhi-si",
     "text": "莼鲈之思",
     "pinyin": "chún lú zhī sī",
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "rare-idioms",
@@ -217,63 +159,6 @@
     "antonyms": []
   },
   {
-    "id": "bei-yuan-shi-chu",
-    "text": "北辕适楚",
-    "pinyin": "běi yuán shì chǔ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "poor-planning-and-hasty-decisions",
-      "mistakes-and-correction",
-      "historical-records"
-    ],
-    "literal": "north · shafts · go to · Chu",
-    "natural": "drive north to reach the south",
-    "meaning": {
-      "en": "Acting in a way that takes one further from one's goal.",
-      "zh": "想往南去楚国，却驾车向北走，比喻行动与目的相反。"
-    },
-    "equivalents": [
-      "going the wrong way",
-      "work against one's own goal"
-    ],
-    "examples": [
-      {
-        "zh": "既想省钱又天天乱花钱，岂不是北辕适楚？",
-        "en": "Wanting to save money while spending carelessly every day is driving north to reach the south."
-      },
-      {
-        "zh": "方向错了，再努力也是北辕适楚。",
-        "en": "If the direction is wrong, more effort only takes you further from your goal."
-      }
-    ],
-    "origin": {
-      "source": "《战国策·魏策四》",
-      "story": {
-        "en": "Ji Liang told the King of Wei of a man driving north who said he was going to Chu; however fine his horses, the more he went, the farther he strayed.",
-        "zh": "季梁曰：“今者臣来，见人于大行，方北面而持其驾，告臣曰：‘我欲之楚。’”"
-      },
-      "date": {
-        "zh": "西汉 · 前1世纪",
-        "en": "Western Han, 1st c. BC"
-      }
-    },
-    "usage": {
-      "en": "Usually in 南辕北辙, the more common form with the same meaning; 北辕适楚 is the original wording. Literary.",
-      "zh": "同“南辕北辙”，后者更常用，本词为原始说法。书面语。"
-    },
-    "synonyms": [
-      "背道而驰",
-      "适得其反"
-    ],
-    "antonyms": [
-      "不谋而合"
-    ]
-  },
-  {
     "id": "cheng-hu-she-shu",
     "text": "城狐社鼠",
     "pinyin": "chéng hú shè shǔ",
@@ -311,7 +196,6 @@
       "zh": "含鄙视；指依仗靠山的小人。形象是：要除掉狐狸，又怕毁了城墙。书面语。"
     },
     "synonyms": [
-      "狐假虎威",
       "仗势欺人"
     ],
     "antonyms": [
@@ -363,16 +247,13 @@
       "足不出户",
       "躲进小楼成一统",
       "关门闭户",
-      "拒人于千里之外"
+      "拒人千里"
     ],
     "antonyms": [
       "高朋满座",
-      "门庭若市",
       "倒屣相迎",
-      "呦呦鹿鸣",
       "扫榻以待",
-      "夹道欢迎",
-      "扫榻相迎"
+      "门庭若市"
     ]
   },
   {
@@ -431,52 +312,9 @@
     "antonyms": [
       "华而不实",
       "金玉其外"
-    ]
-  },
-  {
-    "id": "bu-shi-tai-shan",
-    "text": "不识泰山",
-    "pinyin": "bù shí tài shān",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "rare-idioms",
-      "inappropriate-behavior",
-      "foolishness-and-ignorance"
     ],
-    "literal": "not · recognise · Mount Tai",
-    "natural": "not recognise Mount Tai",
-    "meaning": {
-      "en": "To fail to recognise an eminent person or a person's great ability; usually said in apology.",
-      "zh": "有眼不识泰山：没有认出重要人物或真正的高人。"
-    },
-    "equivalents": [
-      "fail to recognise a great person",
-      "not know who one is dealing with"
-    ],
-    "examples": [
-      {
-        "zh": "原来您是校长，真是有眼不识泰山！",
-        "en": "So you're the headmaster; I'm so sorry I did not recognise you!"
-      },
-      {
-        "zh": "他其实是围棋高手，我们居然不识泰山。",
-        "en": "He is actually a master at go and we had not recognised it."
-      }
-    ],
-    "usage": {
-      "en": "Almost always in the full phrase 有眼不识泰山 as an apology or an excuse. Folk legend ties it to Lu Ban and a carpenter apprentice; not a firmly attested origin. Casual, humorous.",
-      "zh": "几乎总是用全句“有眼不识泰山”作道歉或解释。民间传说与鲁班有关，但出处不确切。口语，略带诙谐。"
-    },
-    "synonyms": [
-      "有眼无珠",
-      "识人不明"
-    ],
-    "antonyms": [
-      "慧眼识珠",
-      "独具慧眼"
+    "variants": [
+      "披褐怀玉"
     ]
   },
   {
@@ -685,8 +523,11 @@
       "笼中之鸟"
     ],
     "antonyms": [
-      "游刃有余",
       "安然无恙"
+    ],
+    "variants": [
+      "釜中游鱼",
+      "釜底游鱼"
     ]
   },
   {
@@ -857,8 +698,7 @@
       "zh": "关于文人陆机的典故，用于悲叹身世、追悔往事。很书面，多见于文章。"
     },
     "synonyms": [
-      "黄犬之叹",
-      "风声鹤唳"
+      "黄犬之叹"
     ],
     "antonyms": [
       "春风得意"
@@ -1018,64 +858,6 @@
     ]
   },
   {
-    "id": "lei-luan-zhi-wei",
-    "text": "累卵之危",
-    "pinyin": "lěi luǎn zhī wēi",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "danger",
-      "extraordinary-circumstances",
-      "historical-records"
-    ],
-    "literal": "stacked · eggs · 's · danger",
-    "natural": "the danger of stacked eggs",
-    "meaning": {
-      "en": "An extremely precarious situation likely to collapse at any moment.",
-      "zh": "像叠起来的蛋一样随时会倒塌，形容形势极其危险。"
-    },
-    "equivalents": [
-      "hanging by a thread",
-      "on the brink of collapse"
-    ],
-    "examples": [
-      {
-        "zh": "公司资金链断裂，处于累卵之危。",
-        "en": "With its funding chain broken, the company was on the brink of collapse."
-      },
-      {
-        "zh": "国家当时正处于累卵之危。",
-        "en": "The country was then in extreme peril."
-      }
-    ],
-    "origin": {
-      "source": "《史记·范雎蔡泽列传》",
-      "story": {
-        "en": "Fan Ju told the King of Qin that his state was 'more precarious than stacked eggs' (危于累卵) without his counsel.",
-        "zh": "范雎曰：“秦王之国危于累卵，得臣则安。”"
-      },
-      "date": {
-        "zh": "西汉 · 约前91年",
-        "en": "Western Han, c. 91 BC"
-      }
-    },
-    "usage": {
-      "en": "Describes a precarious state or institution. The same image is in the more common 危如累卵. Literary.",
-      "zh": "形容事物或机构处境岌岌可危。同一意象的“危如累卵”更常用。书面语。"
-    },
-    "synonyms": [
-      "危如累卵",
-      "岌岌可危"
-    ],
-    "antonyms": [
-      "稳如泰山",
-      "安如磐石"
-    ]
-  },
-  {
     "id": "lu-mang-mie-lie",
     "text": "鲁莽灭裂",
     "pinyin": "lǔ mǎng miè liè",
@@ -1125,14 +907,14 @@
       "zh": "批评做事草率粗疏。常被误会为“破坏”，本义是粗率。书面语。"
     },
     "synonyms": [
-      "粗心大意",
       "草率从事",
+      "粗心大意",
       "有勇无谋"
     ],
     "antonyms": [
-      "谨小慎微",
       "一丝不苟",
-      "临事而惧"
+      "临事而惧",
+      "谨小慎微"
     ]
   },
   {

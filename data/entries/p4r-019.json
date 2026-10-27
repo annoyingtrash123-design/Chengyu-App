@@ -37,8 +37,7 @@
       "zh": "常形容住宅、茶馆、公园等；也可指内心修养。"
     },
     "synonyms": [
-      "大隐隐于市",
-      "心静自然凉"
+      "大隐隐于市"
     ],
     "antonyms": [
       "甚嚣尘上",
@@ -94,10 +93,7 @@
       "en": "Usually quoted in full: 宁为鸡口，无为牛后. Sometimes nuanced as self-respect, sometimes as lack of ambition.",
       "zh": "常整句引用“宁为鸡口，无为牛后”，既可表自尊也可暗含不够进取。"
     },
-    "synonyms": [
-      "宁为玉碎",
-      "自立门户"
-    ],
+    "synonyms": [],
     "antonyms": [
       "寄人篱下",
       "甘居人后"
@@ -146,8 +142,8 @@
       "zh": "书面语，常暗示之前神情严肃。"
     },
     "synonyms": [
-      "眉开眼笑",
-      "莞尔一笑"
+      "莞尔一笑",
+      "眉开眼笑"
     ],
     "antonyms": [
       "愁眉苦脸",
@@ -342,63 +338,6 @@
     ]
   },
   {
-    "id": "qing-mei-zhu-jiu",
-    "text": "青梅煮酒",
-    "pinyin": "qīng méi zhǔ jiǔ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "three-kingdoms",
-      "relaxation-and-rest",
-      "friendship"
-    ],
-    "literal": "green · plum · warm · wine",
-    "natural": "warm wine with green plums",
-    "meaning": {
-      "en": "Drinking warmed wine with green plums while discussing great matters; the Three Kingdoms scene where Cao Cao and Liu Bei discuss who the world's heroes are.",
-      "zh": "用青梅下酒，煮酒论英雄，借指畅谈天下大事。"
-    },
-    "equivalents": [
-      "a heroes' wine session",
-      "discuss big matters over wine"
-    ],
-    "examples": [
-      {
-        "zh": "两位老友青梅煮酒，纵谈天下大势。",
-        "en": "Two old friends sat down with wine and plums to talk about the state of the world."
-      },
-      {
-        "zh": "青梅煮酒论英雄，曹操这一问试探的是刘备。",
-        "en": "Over plums and wine Cao Cao's question was a test of Liu Bei."
-      }
-    ],
-    "origin": {
-      "source": "《三国演义》第二十一回",
-      "story": {
-        "en": "Cao Cao invites Liu Bei to drink wine and pick green plums, and declares that only the two of them are heroes of the age, startling Liu Bei.",
-        "zh": "《三国演义》第二十一回：“曹操曰：‘今天下英雄，惟使君与操耳。’”"
-      },
-      "date": {
-        "zh": "元末明初 · 14世纪",
-        "en": "late Yuan to early Ming, 14th c."
-      }
-    },
-    "usage": {
-      "en": "Literary, often in the full phrase 青梅煮酒论英雄. Used for relaxed but weighty conversation.",
-      "zh": "常说“青梅煮酒论英雄”，指轻松又重大的谈话。"
-    },
-    "synonyms": [
-      "煮酒论英雄",
-      "把酒言欢"
-    ],
-    "antonyms": [
-      "话不投机"
-    ]
-  },
-  {
     "id": "su-qin-ci-gu",
     "text": "苏秦刺股",
     "pinyin": "sū qín cì gǔ",
@@ -443,7 +382,7 @@
       }
     },
     "usage": {
-      "en": "Often paired with 孙敬悬梁; for laborious study. It is a different story from 悬梁刺股.",
+      "en": "Often paired with 孙敬悬梁; for laborious study. 悬梁刺股 combines this story with 孙敬悬梁.",
       "zh": "常与“头悬梁”故事并举；与成语“悬梁刺股”有关但不同。"
     },
     "synonyms": [
@@ -503,12 +442,8 @@
       "en": "Usually quoted with 病树前头万木春. Optimistic.",
       "zh": "常与“病树前头万木春”连用，乐观积极。"
     },
-    "synonyms": [
-      "东山再起",
-      "柳暗花明"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "一蹶不振",
       "万念俱灰"
     ]
   },
@@ -561,12 +496,9 @@
       "zh": "诗意用语，既可表怅惘，也可表阅尽世事。"
     },
     "synonyms": [
-      "望眼欲穿",
       "阅人无数"
     ],
-    "antonyms": [
-      "如愿以偿"
-    ]
+    "antonyms": []
   },
   {
     "id": "chi-yan-xiao-peng",
@@ -835,12 +767,11 @@
     "text": "侧耳倾听",
     "pinyin": "cè ěr qīng tīng",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "rare-idioms",
-      "mental-clarity"
+      "rare-idioms"
     ],
     "literal": "tilt · ear · lean · listen",
     "natural": "tilt the ear and listen",
@@ -913,12 +844,11 @@
       "zh": "含褒义，用于学术和注释。"
     },
     "synonyms": [
-      "钩深致远",
-      "发凡起例"
+      "钩深致远"
     ],
     "antonyms": [
-      "含糊其词",
-      "泛泛而谈"
+      "泛泛而谈",
+      "含糊其词"
     ]
   },
   {
@@ -1049,8 +979,7 @@
       "zh": "也可比喻在赛场上拼搏（驰骋赛场）。"
     },
     "synonyms": [
-      "南征北战",
-      "身经百战"
+      "南征北战"
     ],
     "antonyms": [
       "解甲归田",
@@ -1099,7 +1028,6 @@
       "无事生非"
     ],
     "antonyms": [
-      "化险为夷",
       "息事宁人"
     ]
   },

@@ -1,56 +1,5 @@
 [
   {
-    "id": "pian-ting-ze-an",
-    "text": "偏听则暗",
-    "pinyin": "piān tīng zé àn",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "mistakes-and-correction",
-      "leadership-and-authority",
-      "exam-favourites"
-    ],
-    "literal": "one-sided · listen · then · dark",
-    "natural": "listening to one side leaves one in the dark",
-    "meaning": {
-      "en": "If you listen to only one side, you will be misled and lose clear judgement.",
-      "zh": "只听一方面的话，就会糊涂，作出错误判断。"
-    },
-    "equivalents": [
-      "hear only one side and be misled",
-      "one-sided listening breeds ignorance"
-    ],
-    "examples": [
-      {
-        "zh": "领导要兼听则明，偏听则暗。",
-        "en": "A leader should listen to all sides; listening to one leaves him in the dark."
-      },
-      {
-        "zh": "只听他一人之言，难免偏听则暗。",
-        "en": "Hearing only his word, you are bound to be misled."
-      },
-      {
-        "zh": "法官断案不能偏听则暗。",
-        "en": "A judge must not decide a case after hearing just one side."
-      }
-    ],
-    "usage": {
-      "en": "Independent clause, usually paired with 兼听则明 (listen to all and be enlightened). 暗 means 'unenlightened'.",
-      "zh": "常与“兼听则明”对举。“暗”指昏暗、糊涂。"
-    },
-    "synonyms": [
-      "偏听偏信",
-      "以偏概全",
-      "一叶障目"
-    ],
-    "antonyms": [
-      "兼听则明",
-      "集思广益"
-    ]
-  },
-  {
     "id": "pian-wa-wu-cun",
     "text": "片瓦无存",
     "pinyin": "piàn wǎ wú cún",
@@ -156,11 +105,11 @@
     "synonyms": [
       "婀娜多姿",
       "体态轻盈",
-      "矫若游龙"
+      "矫若游龙",
+      "身轻如燕"
     ],
     "antonyms": [
-      "笨手笨脚",
-      "步履蹒跚"
+      "笨手笨脚"
     ]
   },
   {
@@ -279,7 +228,6 @@
     "register": "neutral",
     "themes": [
       "fear-and-cowardice",
-      "distracted-attention",
       "exam-favourites"
     ],
     "literal": "hold · voice · restrain · breath",
@@ -312,12 +260,11 @@
     },
     "synonyms": [
       "屏气凝神",
-      "鸦雀无声",
       "大气不出"
     ],
     "antonyms": [
-      "高谈阔论",
-      "喧闹一片"
+      "喧闹一片",
+      "高谈阔论"
     ]
   },
   {
@@ -474,7 +421,6 @@
       "zh": "作谓语，书面语，常作“奇文共赏，疑义相析”。“奇”意为优异，不是怪诞。"
     },
     "synonyms": [
-      "共襄盛举",
       "雅俗共赏",
       "相与析疑"
     ],
@@ -485,10 +431,10 @@
   },
   {
     "id": "qi-ma-zhao-ma",
-    "text": "骑马找马",
-    "pinyin": "qí mǎ zhǎo mǎ",
+    "text": "骑驴找马",
+    "pinyin": "qí lǘ zhǎo mǎ",
     "variants": [
-      "骑驴找马"
+      "骑马找马"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -499,7 +445,7 @@
       "adaptability",
       "exam-favourites"
     ],
-    "literal": "ride · horse · look-for · horse",
+    "literal": "ride · donkey · look-for · horse",
     "natural": "look for a horse while riding one",
     "meaning": {
       "en": "To keep a present job while seeking a better one.",
@@ -579,7 +525,6 @@
     },
     "synonyms": [
       "功亏一篑",
-      "差之毫厘，谬以千里",
       "稍逊一筹"
     ],
     "antonyms": [
@@ -634,8 +579,8 @@
       "低声下气"
     ],
     "antonyms": [
-      "宁死不屈",
-      "傲骨铮铮"
+      "傲骨铮铮",
+      "宁死不屈"
     ]
   },
   {
@@ -684,7 +629,7 @@
       "引人疑虑"
     ],
     "antonyms": [
-      "无可置疑",
+      "毋庸置疑",
       "深信不疑"
     ]
   },
@@ -698,8 +643,8 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "high-aspirations",
-      "exam-favourites"
+      "exam-favourites",
+      "positive-character-qualities"
     ],
     "literal": "spirit · rush-to · sky · Milky-Way",
     "natural": "spirit soaring to the heavens",
@@ -736,8 +681,8 @@
       "豪气冲天"
     ],
     "antonyms": [
-      "垂头丧气",
-      "萎靡不振"
+      "萎靡不振",
+      "垂头丧气"
     ]
   },
   {
@@ -786,12 +731,11 @@
     },
     "synonyms": [
       "奄奄一息",
-      "命悬一线",
       "气息奄奄"
     ],
     "antonyms": [
-      "精神抖擞",
-      "生龙活虎"
+      "生龙活虎",
+      "精神抖擞"
     ]
   },
   {
@@ -895,7 +839,6 @@
     },
     "synonyms": [
       "一掷千金",
-      "挥金如土",
       "烽火戏诸侯"
     ],
     "antonyms": [
@@ -1013,11 +956,9 @@
       "zh": "谦辞，与“千虑一失”成对，意思相反。“得”指有所得。"
     },
     "synonyms": [
-      "一得之见",
-      "集思广益"
+      "一得之见"
     ],
     "antonyms": [
-      "愚昧无知",
       "一无所得"
     ]
   },
@@ -1076,8 +1017,7 @@
     "synonyms": [
       "百密一疏",
       "智者之失",
-      "智者千虑，必有一失",
-      "聪明一世"
+      "聪明一世，糊涂一时"
     ],
     "antonyms": [
       "万无一失",

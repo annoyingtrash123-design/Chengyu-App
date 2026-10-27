@@ -50,8 +50,8 @@
       "稍纵即逝",
       "白驹过隙",
       "迅雷不及掩耳",
-      "风驰电掣",
-      "说时迟，那时快"
+      "说时迟，那时快",
+      "风驰电掣"
     ],
     "antonyms": [
       "旷日持久",
@@ -107,25 +107,24 @@
       "稍纵即逝",
       "电光火石",
       "昙花一现",
-      "不知不觉",
-      "过眼云烟",
       "白驹过隙",
-      "朝生暮死"
+      "朝生暮死",
+      "过眼云烟"
     ],
     "antonyms": [
       "经久不衰",
       "天长地久",
       "万古长青",
       "地老天荒",
-      "生生世世",
-      "年年岁岁",
       "与天地同寿",
       "与日月同辉",
+      "万古千秋",
+      "永不磨灭",
+      "生生世世",
+      "年年岁岁",
       "不生不灭",
       "天长日久",
-      "万古千秋",
       "年深日久",
-      "永不磨灭",
       "年久月深"
     ]
   },
@@ -287,10 +286,7 @@
       "机不可失",
       "千载难逢"
     ],
-    "antonyms": [
-      "坐失良机",
-      "司空见惯"
-    ]
+    "antonyms": []
   },
   {
     "id": "hu-die-xiao-ying",
@@ -350,9 +346,7 @@
       "多米诺骨牌效应",
       "牵一发而动全身"
     ],
-    "antonyms": [
-      "无足轻重"
-    ]
+    "antonyms": []
   },
   {
     "id": "ceng-ceng-tui-jin",
@@ -394,8 +388,7 @@
     "synonyms": [
       "循序渐进",
       "步步为营",
-      "环环相扣",
-      "一环扣一环"
+      "环环相扣"
     ],
     "antonyms": [
       "一蹴而就",
@@ -444,58 +437,16 @@
       "zh": "多用于评价情节、推理、流程；口语说“一环扣一环”。"
     },
     "synonyms": [
-      "一环扣一环",
       "层层推进",
       "丝丝入扣",
-      "连环计",
       "首尾相连"
     ],
     "antonyms": [
-      "杂乱无章",
-      "支离破碎"
-    ]
-  },
-  {
-    "id": "yi-huan-kou-yi-huan",
-    "text": "一环扣一环",
-    "pinyin": "yī huán kòu yī huán",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "chain-reactions"
-    ],
-    "literal": "one · ring · hooks · one · ring",
-    "natural": "one link hooked to the next",
-    "meaning": {
-      "en": "Each step closely tied to the next.",
-      "zh": "一个环节紧扣另一个环节。"
-    },
-    "equivalents": [
-      "one thing leads to another",
-      "link by link"
-    ],
-    "examples": [
-      {
-        "zh": "这些事一环扣一环，缺了哪步都不行。",
-        "en": "These things depend on one another; you can't skip a step."
-      },
-      {
-        "zh": "故事一环扣一环，越看越紧张。",
-        "en": "The story builds link by link and gets more and more tense."
-      }
-    ],
-    "usage": {
-      "en": "Casual counterpart of 环环相扣.",
-      "zh": "“环环相扣”的口语说法。"
-    },
-    "synonyms": [
-      "环环相扣",
-      "层层推进"
-    ],
-    "antonyms": [
+      "支离破碎",
       "杂乱无章"
+    ],
+    "variants": [
+      "一环扣一环"
     ]
   },
   {
@@ -746,7 +697,9 @@
     "register": "formal",
     "themes": [
       "emotions",
-      "complex-emotional-states"
+      "complex-emotional-states",
+      "rare-idioms",
+      "food"
     ],
     "literal": "five · flavours · mixed · laid out",
     "natural": "all the flavours mixed together",
@@ -781,7 +734,6 @@
       "百感交集",
       "悲喜交集",
       "喜忧参半",
-      "五味俱全",
       "爱恨交织",
       "倒了五味瓶子——酸甜苦辣咸都有",
       "酸甜苦辣"
@@ -789,6 +741,9 @@
     "antonyms": [
       "心如止水",
       "无动于衷"
+    ],
+    "variants": [
+      "五味俱全"
     ]
   },
   {
@@ -832,9 +787,7 @@
       "百感交集",
       "五味杂陈"
     ],
-    "antonyms": [
-      "爱憎分明"
-    ]
+    "antonyms": []
   },
   {
     "id": "xi-you-can-ban",
@@ -885,10 +838,7 @@
       "五味杂陈",
       "一则以喜，一则以忧"
     ],
-    "antonyms": [
-      "喜出望外",
-      "忧心忡忡"
-    ]
+    "antonyms": []
   },
   {
     "id": "tou-nao-qing-xing",
@@ -939,7 +889,8 @@
       "稀里糊涂",
       "利令智昏",
       "晕头转向",
-      "鬼迷心窍"
+      "鬼迷心窍",
+      "糊里糊涂"
     ]
   },
   {
@@ -995,10 +946,8 @@
       "雄心壮志",
       "胸怀大志",
       "鸿鹄之志",
-      "青年要立志做大事，不可立志做大官",
       "志在千里",
-      "雄心勃勃",
-      "海到无边天作岸，山登绝顶我为峰"
+      "雄心勃勃"
     ],
     "antonyms": [
       "胸无大志",
@@ -1110,14 +1059,13 @@
       "追名逐利",
       "唯利是图",
       "贪得无厌",
-      "狼子野心",
-      "争权夺利",
       "争名夺利",
       "见钱眼开",
       "利欲熏心",
+      "沽名钓誉",
+      "争权夺利",
       "功名利禄",
       "世人都晓神仙好，惟有功名忘不了",
-      "沽名钓誉",
       "官迷心窍"
     ]
   },
@@ -1164,8 +1112,8 @@
       "淡泊明志"
     ],
     "antonyms": [
-      "贪得无厌",
-      "利欲熏心"
+      "利欲熏心",
+      "贪得无厌"
     ]
   },
   {
@@ -1217,10 +1165,7 @@
       "势均力敌",
       "旗鼓相当"
     ],
-    "antonyms": [
-      "以卵击石",
-      "不堪一击"
-    ]
+    "antonyms": []
   },
   {
     "id": "sheng-fu-nan-fen",
@@ -1263,8 +1208,6 @@
       "平分秋色",
       "不分伯仲"
     ],
-    "antonyms": [
-      "一败涂地"
-    ]
+    "antonyms": []
   }
 ]

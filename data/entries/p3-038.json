@@ -36,10 +36,10 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "喜形于色",
       "神采飞扬",
-      "口沫横飞",
-      "兴高采烈"
+      "兴高采烈",
+      "津津乐道",
+      "喜形于色"
     ],
     "antonyms": [
       "愁眉苦脸",
@@ -87,64 +87,14 @@
       "zh": "多作谓语，常带讽刺。"
     },
     "synonyms": [
-      "贼喊捉贼",
       "心中有鬼"
     ],
     "antonyms": [
       "问心无愧",
-      "光明磊落",
       "心安理得",
-      "站着身子正——不怕影儿斜",
-      "此心光明，亦复何言",
       "身正不怕影子斜",
-      "不做亏心事，不怕鬼敲门"
-    ]
-  },
-  {
-    "id": "pi-fu-you-ze",
-    "text": "匹夫有责",
-    "pinyin": "pǐ fū yǒu zé",
-    "kind": "chengyu",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "positive-character-qualities",
-      "good-governance",
-      "qing-dynasty"
-    ],
-    "literal": "common man · has · responsibility",
-    "natural": "everyone has a duty",
-    "meaning": {
-      "en": "Even the ordinary person bears responsibility; everyone has a duty to play their part.",
-      "zh": "普通百姓对国家的兴亡也有责任，泛指人人都有责任。"
-    },
-    "equivalents": [
-      "everyone has a part to play",
-      "it is everyone's duty"
-    ],
-    "examples": [
-      {
-        "zh": "保护环境，人人匹夫有责。",
-        "en": "Protecting the environment is everyone's duty."
-      },
-      {
-        "zh": "国家兴亡，匹夫有责。",
-        "en": "The fate of the nation is the duty of every citizen."
-      }
-    ],
-    "usage": {
-      "en": "Usually 天下兴亡，匹夫有责.",
-      "zh": "常说“天下兴亡，匹夫有责”。"
-    },
-    "synonyms": [
-      "责无旁贷",
-      "义不容辞",
-      "天下兴亡，匹夫有责"
-    ],
-    "antonyms": [
-      "袖手旁观",
-      "事不关己"
+      "不做亏心事，不怕鬼敲门",
+      "此心光明，亦复何言"
     ]
   },
   {
@@ -196,7 +146,6 @@
     },
     "synonyms": [
       "举足轻重",
-      "非同小可",
       "死得其所"
     ],
     "antonyms": [
@@ -244,28 +193,27 @@
     },
     "synonyms": [
       "大义凛然",
-      "临危不惧",
       "舍生忘死",
       "置之度外",
-      "拼将十万头颅血，须把乾坤力挽回",
-      "前仆后继",
       "慷慨就义",
       "杀身成仁",
-      "一不怕苦，二不怕死",
-      "砍头不过风吹帽",
       "宁为玉碎",
       "从容就义",
-      "捐躯赴国难，视死忽如归",
       "宁死不屈",
       "临难不屈",
-      "以身殉国"
+      "以身殉国",
+      "临危不惧",
+      "拼将十万头颅血，须把乾坤力挽回",
+      "一不怕苦，二不怕死",
+      "砍头不过风吹帽",
+      "捐躯赴国难，视死忽如归"
     ],
     "antonyms": [
       "贪生怕死",
-      "畏缩不前",
       "苟全性命",
       "苟且偷生",
-      "忍辱偷生"
+      "忍辱偷生",
+      "畏缩不前"
     ]
   },
   {
@@ -308,8 +256,7 @@
       "居心叵测",
       "心怀鬼胎",
       "黄鼠狼给鸡拜年——没安好心",
-      "来者不善",
-      "来者不善，善者不来"
+      "来者不善"
     ],
     "antonyms": [
       "心怀善意",
@@ -372,7 +319,8 @@
     "register": "casual",
     "themes": [
       "rural-wisdom",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "unity-and-cooperation"
     ],
     "literal": "many · people · gather · firewood · flames · high",
     "natural": "many hands make light work",
@@ -403,8 +351,8 @@
       "众志成城",
       "三个臭皮匠，顶个诸葛亮",
       "团结起来力量大",
-      "独木不成林",
-      "一个篱笆三个桩，一个好汉三个帮"
+      "一个篱笆三个桩，一个好汉三个帮",
+      "独木不成林"
     ],
     "antonyms": [
       "独木难支",
@@ -448,7 +396,6 @@
       "zh": "多作谓语，常用“被”字句。"
     },
     "synonyms": [
-      "赶尽杀绝",
       "逐出家门",
       "下逐客令"
     ],
@@ -500,9 +447,9 @@
     },
     "synonyms": [
       "陈词滥调",
-      "旧事重提",
       "老生常谈",
-      "故伎重演"
+      "故伎重演",
+      "旧事重提"
     ],
     "antonyms": [
       "推陈出新",
@@ -563,6 +510,9 @@
     ],
     "antonyms": [
       "误人子弟"
+    ],
+    "variants": [
+      "传道受业解惑"
     ]
   },
   {
@@ -699,8 +649,7 @@
       "zh": "多作定语、谓语。"
     },
     "synonyms": [
-      "言简意赅",
-      "精明能干"
+      "言简意赅"
     ],
     "antonyms": [
       "冗长拖沓",
@@ -750,9 +699,9 @@
     "synonyms": [
       "异想天开",
       "白日做梦",
-      "天方夜谭",
-      "一个鸡蛋的家当",
-      "梦中说梦"
+      "梦中说梦",
+      "不自量力",
+      "天方夜谭"
     ],
     "antonyms": [
       "切实可行",
@@ -808,11 +757,11 @@
     "antonyms": [
       "切中要害",
       "举足轻重",
-      "积羽沉舟",
-      "肘腋之患",
       "切肤之痛",
       "痛入骨髓",
-      "利害攸关"
+      "利害攸关",
+      "积羽沉舟",
+      "肘腋之患"
     ]
   },
   {
@@ -941,8 +890,8 @@
       "zh": "常与“小处着手”连用。"
     },
     "synonyms": [
-      "高瞻远瞩",
-      "统筹全局"
+      "统筹全局",
+      "高瞻远瞩"
     ],
     "antonyms": [
       "鼠目寸光",
@@ -1008,6 +957,7 @@
     "themes": [
       "stories",
       "danger",
+      "myths-legends",
       "buddhist-origin"
     ],
     "literal": "water · flood · Golden · Mountain",
@@ -1035,12 +985,10 @@
       "zh": "多作谓语，出自《白蛇传》。"
     },
     "synonyms": [
-      "洪水泛滥",
-      "排山倒海"
+      "洪水泛滥"
     ],
     "antonyms": [
-      "涓涓细流",
-      "滴水不漏"
+      "涓涓细流"
     ]
   },
   {
@@ -1087,7 +1035,6 @@
     "antonyms": [
       "无牵无挂",
       "漠不关心",
-      "断线风筝",
       "心无挂碍"
     ]
   },
@@ -1191,8 +1138,7 @@
       "日日是好日",
       "白驹过隙",
       "乌飞兔走",
-      "日月如梭",
-      "秋月春风"
+      "日月如梭"
     ]
   },
   {

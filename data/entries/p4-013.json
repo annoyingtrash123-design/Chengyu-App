@@ -35,10 +35,7 @@
       "en": "Usually used with 者/的 to introduce the lower grades: 等而下之者. Slightly formal; not neutral praise.",
       "zh": "常说“等而下之者”，引出更次的一等。书面语。"
     },
-    "synonyms": [
-      "每况愈下",
-      "江河日下"
-    ],
+    "synonyms": [],
     "antonyms": [
       "出类拔萃",
       "首屈一指"
@@ -216,8 +213,7 @@
       "zh": "文学色彩较浓，写孤寂。“踽”读jǔ，多作谓语。"
     },
     "synonyms": [
-      "形单影只",
-      "孑然一身"
+      "形单影只"
     ],
     "antonyms": [
       "结伴而行",
@@ -261,12 +257,11 @@
       "zh": "多夸歌声、笔画、文辞圆润流畅，有时也形容人丰润。"
     },
     "synonyms": [
-      "字正腔圆",
-      "行云流水"
+      "字正腔圆"
     ],
     "antonyms": [
-      "粗制滥造",
-      "佶屈聱牙"
+      "佶屈聱牙",
+      "粗制滥造"
     ]
   },
   {
@@ -331,62 +326,6 @@
     ]
   },
   {
-    "id": "shi-yu-zu-xia",
-    "text": "始于足下",
-    "pinyin": "shǐ yú zú xià",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "high-aspirations",
-      "daoist-classics"
-    ],
-    "literal": "begin · at · foot · under",
-    "natural": "begins beneath one's feet",
-    "meaning": {
-      "en": "A great undertaking starts with the first small step.",
-      "zh": "大事要从眼前的第一步做起。"
-    },
-    "equivalents": [
-      "start with the first step",
-      "a journey begins underfoot"
-    ],
-    "examples": [
-      {
-        "zh": "学外语没有捷径，一切始于足下，先背下今天的二十个单词。",
-        "en": "There is no shortcut to learning a language; it all begins with the first step, memorising today's twenty words."
-      },
-      {
-        "zh": "再宏大的计划也始于足下，别光想不做。",
-        "en": "Even the grandest plan begins with one step. Do not just think and never act."
-      }
-    ],
-    "origin": {
-      "source": "《老子》第六十四章",
-      "story": {
-        "en": "Laozi says: a tree too big to embrace grows from a tiny shoot; a nine-storey tower starts from a heap of earth; a journey of a thousand li begins beneath one's feet.",
-        "zh": "《老子》：“合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。”"
-      },
-      "date": {
-        "zh": "春秋末至战国 · 前6—前4世纪",
-        "en": "late Spring and Autumn to Warring States, 6th–4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Short form of 千里之行，始于足下. Encouragement to start practically; often a motto in speeches.",
-      "zh": "是“千里之行，始于足下”的缩略，鼓励从点滴做起，常作格言。"
-    },
-    "synonyms": [
-      "脚踏实地",
-      "积少成多"
-    ],
-    "antonyms": [
-      "好高骛远",
-      "清谈误国"
-    ]
-  },
-  {
     "id": "hui-er-bu-fei",
     "text": "惠而不费",
     "pinyin": "huì ér bù fèi",
@@ -395,9 +334,10 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "fairness-and-impartiality",
       "positive-character-qualities",
-      "confucian-classics"
+      "confucian-classics",
+      "frugality-and-thrift",
+      "efficiency"
     ],
     "literal": "give benefit · yet · not · spend",
     "natural": "benefit others without spending much",
@@ -435,8 +375,7 @@
       "zh": "褒义，形容政策、做法实惠而省钱。"
     },
     "synonyms": [
-      "物美价廉",
-      "事半功倍"
+      "物美价廉"
     ],
     "antonyms": [
       "劳民伤财",
@@ -496,8 +435,7 @@
       "天为被地为床"
     ],
     "antonyms": [
-      "安居乐业",
-      "深居简出"
+      "安居乐业"
     ]
   },
   {
@@ -604,10 +542,7 @@
       "en": "Mencian concept, one of the 'four sprouts' of virtue. Used as a noun phrase, often in 人皆有之.",
       "zh": "出自孟子“四端”之一，多作名词性成分，常说“人皆有之”。"
     },
-    "synonyms": [
-      "明辨是非",
-      "羞恶之心"
-    ],
+    "synonyms": [],
     "antonyms": [
       "是非不分",
       "泯灭良知"
@@ -615,10 +550,10 @@
   },
   {
     "id": "shao-an-wu-zao",
-    "text": "少安毋躁",
-    "pinyin": "shǎo ān wú zào",
+    "text": "稍安勿躁",
+    "pinyin": "shāo ān wù zào",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -653,11 +588,11 @@
       "耐心等待"
     ],
     "antonyms": [
-      "急不可耐",
-      "心急火燎"
+      "心急火燎",
+      "急不可耐"
     ],
     "variants": [
-      "稍安勿躁"
+      "少安毋躁"
     ]
   },
   {
@@ -823,8 +758,7 @@
       "zh": "常与“为丛驱雀”连用，批评领导或政策失当。"
     },
     "synonyms": [
-      "为丛驱雀",
-      "作茧自缚"
+      "为丛驱雀"
     ],
     "antonyms": [
       "广纳贤才"
@@ -912,10 +846,7 @@
       "en": "Often used in 'X is not to be imitated'. Common in commentary and editorials. 为 is wéi.",
       "zh": "常用于评论，指某种做法不值得效仿。“为”读wéi。"
     },
-    "synonyms": [
-      "不值一提",
-      "不足挂齿"
-    ],
+    "synonyms": [],
     "antonyms": [
       "可圈可点",
       "堪为楷模"
@@ -923,10 +854,10 @@
   },
   {
     "id": "bu-ming-yi-wen",
-    "text": "一文不名",
-    "pinyin": "yī wén bù míng",
+    "text": "不名一文",
+    "pinyin": "bù míng yī wén",
     "variants": [
-      "不名一文"
+      "一文不名"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -936,7 +867,7 @@
       "poverty-and-hardship",
       "exam-favourites"
     ],
-    "literal": "not · own · one · coin",
+    "literal": "one · coin · not · own",
     "natural": "not owning a single coin",
     "meaning": {
       "en": "Penniless; without a single cash to one's name.",
@@ -1018,7 +949,6 @@
       "zh": "历史典故，黄色是皇帝专用色，有时戏指突然被推上高位。"
     },
     "synonyms": [
-      "称孤道寡",
       "登基称帝"
     ],
     "antonyms": [
@@ -1065,10 +995,7 @@
       "zh": "常说“官逼民反，民不得不反”，多用于历史和小说。"
     },
     "synonyms": [
-      "逼上梁山",
-      "揭竿而起",
-      "林冲上梁山——逼上梁山",
-      "造反有理"
+      "逼上梁山"
     ],
     "antonyms": [
       "国泰民安",
@@ -1111,8 +1038,7 @@
       "zh": "可指战败后的残余力量，也用于体育、商战中的调侃。"
     },
     "synonyms": [
-      "败军之将",
-      "丧家之犬"
+      "败军之将"
     ],
     "antonyms": [
       "常胜将军",
@@ -1132,7 +1058,7 @@
     "register": "formal",
     "themes": [
       "myths-legends",
-      "festivals-and-celebrations"
+      "culture"
     ],
     "literal": "august · heaven · empress · earth",
     "natural": "sovereign Heaven and sovereign Earth",
@@ -1251,9 +1177,6 @@
       "溜须拍马",
       "阿谀奉承"
     ],
-    "antonyms": [
-      "脚踏实地",
-      "实事求是"
-    ]
+    "antonyms": []
   }
 ]

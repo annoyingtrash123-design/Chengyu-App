@@ -55,7 +55,7 @@
     "themes": [
       "festive-greetings",
       "festivals-and-celebrations",
-      "simple-food-and-hunger"
+      "food"
     ],
     "literal": "year · year · have · surplus",
     "natural": "may there be a surplus every year",
@@ -98,8 +98,7 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "festive-greetings",
-      "outstanding-success-and-fame"
+      "festive-greetings"
     ],
     "literal": "open · business · great · auspicious",
     "natural": "a most auspicious opening",
@@ -170,7 +169,6 @@
     },
     "synonyms": [
       "乔迁大吉",
-      "新居落成",
       "燕徙之喜"
     ],
     "antonyms": []
@@ -212,8 +210,7 @@
       "zh": "固定祝辞：也用于公司搬迁；“大吉”收尾使它成为适合横幅和短信的祝福。正式。"
     },
     "synonyms": [
-      "乔迁新居",
-      "新居落成"
+      "乔迁新居"
     ],
     "antonyms": []
   },
@@ -255,10 +252,8 @@
       "zh": "固定祝辞：尤指自己建成的房子，而不是买或租的；多见于乡村或传统庆贺。正式。"
     },
     "synonyms": [
-      "乔迁新居",
       "华堂落成",
-      "乔迁之喜",
-      "乔迁大吉"
+      "乔迁之喜"
     ],
     "antonyms": []
   },
@@ -266,7 +261,7 @@
     "id": "yong-jie-tong-xin",
     "text": "永结同心",
     "pinyin": "yǒng jié tóng xīn",
-    "kind": "phrase",
+    "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -353,7 +348,7 @@
     "id": "jia-ou-tian-cheng",
     "text": "佳偶天成",
     "pinyin": "jiā ǒu tiān chéng",
-    "kind": "phrase",
+    "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -399,8 +394,8 @@
     "id": "qin-se-he-ming",
     "text": "琴瑟和鸣",
     "pinyin": "qín sè hé míng",
-    "kind": "phrase",
-    "frequency": 3,
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -439,13 +434,10 @@
       "神仙眷侣",
       "伉俪情深",
       "百年琴瑟",
-      "花好月圆",
-      "鸾凤和鸣",
-      "宜室宜家"
+      "鸾凤和鸣"
     ],
     "antonyms": [
-      "反目成仇",
-      "情天恨海"
+      "反目成仇"
     ],
     "variants": [
       "琴瑟相和"
@@ -532,7 +524,6 @@
       "zh": "固定祝辞：与“白头偕老”相近的常用说法，“百年”指一生。正式，用于婚礼和纪念日。"
     },
     "synonyms": [
-      "白头偕老",
       "永结同心"
     ],
     "antonyms": [
@@ -587,7 +578,7 @@
     "id": "xi-jie-lian-li",
     "text": "喜结连理",
     "pinyin": "xǐ jié lián lǐ",
-    "kind": "phrase",
+    "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -721,8 +712,8 @@
     "id": "qian-cheng-si-jin",
     "text": "前程似锦",
     "pinyin": "qián chéng sì jǐn",
-    "kind": "phrase",
-    "frequency": 3,
+    "kind": "chengyu",
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -756,27 +747,25 @@
     },
     "synonyms": [
       "鹏程万里",
-      "一帆风顺",
       "康庄大道",
       "锦绣前程",
       "阳关大道",
       "前程万里",
       "前途无量",
-      "不可限量",
-      "天戴其苍，地履其黄；纵有千古，横有八荒；前途似海，来日方长"
+      "不可限量"
     ],
     "antonyms": [
       "前途渺茫",
       "前途未卜",
-      "来日大难",
-      "穷途末路"
+      "穷途末路",
+      "来日大难"
     ]
   },
   {
     "id": "ren-shou-nian-feng",
     "text": "人寿年丰",
     "pinyin": "rén shòu nián fēng",
-    "kind": "phrase",
+    "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -821,7 +810,7 @@
     "id": "yi-ren-wei-ben",
     "text": "以人为本",
     "pinyin": "yǐ rén wéi běn",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -865,7 +854,7 @@
     "id": "gai-ge-kai-fang",
     "text": "改革开放",
     "pinyin": "gǎi gé kāi fàng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -912,7 +901,7 @@
     "id": "he-ping-gong-chu",
     "text": "和平共处",
     "pinyin": "hé píng gòng chǔ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -952,19 +941,19 @@
     "antonyms": [
       "兵戎相见",
       "水火不容",
-      "军事第一，胜利第一",
       "你死我活",
       "鱼死网破",
       "汉贼不两立",
       "剑拔弩张",
-      "不是东风压倒西风，就是西风压倒东风"
+      "不是东风压倒西风，就是西风压倒东风",
+      "军事第一，胜利第一"
     ]
   },
   {
     "id": "he-xie-she-hui",
     "text": "和谐社会",
     "pinyin": "hé xié shè huì",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -999,8 +988,8 @@
       "zh": "官方用语，与2004至2006年提出的构建社会主义和谐社会目标联系最紧；“和谐”本身可追溯到儒家的“和”。正式，见于新闻和政策文件。也有人带讽刺地使用。"
     },
     "synonyms": [
-      "太平盛世",
-      "安定团结"
+      "安定团结",
+      "太平盛世"
     ],
     "antonyms": [
       "动荡不安"

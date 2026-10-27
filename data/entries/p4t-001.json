@@ -64,7 +64,7 @@
     "id": "you-zi-si-xiang",
     "text": "游子思乡",
     "pinyin": "yóu zǐ sī xiāng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -100,7 +100,9 @@
       "en": "Often used as the subject of a poem, song or essay on festivals.",
       "zh": "多用于诗文、歌曲，常与节日相关。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "归心似箭"
+    ],
     "antonyms": [
       "乐不思蜀"
     ]
@@ -109,9 +111,9 @@
     "id": "meng-hui-gu-li",
     "text": "梦回故里",
     "pinyin": "mèng huí gù lǐ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "homesickness",
@@ -162,8 +164,8 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "homesickness",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "homesickness"
     ],
     "literal": "glory · return · old · village",
     "natural": "return home in glory",
@@ -244,7 +246,6 @@
       "zh": "常与“久旱逢甘雨，洞房花烛夜，金榜题名时”并称人生四大喜事。口语、书面语均可。"
     },
     "synonyms": [
-      "萍水相逢",
       "久别重逢"
     ],
     "antonyms": [
@@ -255,7 +256,7 @@
     "id": "jiu-ke-si-gui",
     "text": "久客思归",
     "pinyin": "jiǔ kè sī guī",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -305,7 +306,8 @@
     "text": "倚门而望",
     "pinyin": "yǐ mén ér wàng",
     "variants": [
-      "倚闾之望"
+      "倚闾之望",
+      "倚闾而望"
     ],
     "kind": "chengyu",
     "frequency": 3,

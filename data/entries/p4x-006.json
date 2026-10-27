@@ -37,7 +37,7 @@
     },
     "synonyms": [
       "飞檐走壁",
-      "翩若惊鸿，婉若游龙"
+      "翩若惊鸿"
     ],
     "antonyms": [
       "笨手笨脚",
@@ -81,8 +81,7 @@
       "zh": "常与“不要”“严防”连用，口语。"
     },
     "synonyms": [
-      "泄露天机",
-      "通风报信"
+      "泄露天机"
     ],
     "antonyms": [
       "守口如瓶",
@@ -94,7 +93,7 @@
     "text": "彪炳史册",
     "pinyin": "biāo bǐng shǐ cè",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -220,8 +219,8 @@
       "横征暴敛"
     ],
     "antonyms": [
-      "吊民伐罪",
-      "爱民如子"
+      "爱民如子",
+      "吊民伐罪"
     ]
   },
   {
@@ -311,8 +310,8 @@
       "轻徭薄赋"
     ],
     "antonyms": [
-      "横征暴敛",
-      "竭泽而渔"
+      "竭泽而渔",
+      "横征暴敛"
     ]
   },
   {
@@ -357,7 +356,7 @@
     ],
     "antonyms": [
       "五音不全",
-      "笨嘴拙舌"
+      "笨手笨脚"
     ]
   },
   {
@@ -365,12 +364,16 @@
     "text": "四海之内皆兄弟",
     "pinyin": "sì hǎi zhī nèi jiē xiōng dì",
     "kind": "mingju",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "friendship",
-      "confucian-classics"
+      "confucian-classics",
+      "unity-and-cooperation",
+      "positive-character-qualities",
+      "thinkers",
+      "famous-quotes"
     ],
     "literal": "four · seas · 's · within · all · brothers",
     "natural": "within the four seas all are brothers",
@@ -414,6 +417,9 @@
     "antonyms": [
       "势不两立",
       "形同陌路"
+    ],
+    "variants": [
+      "四海之内，皆兄弟也"
     ]
   },
   {
@@ -514,8 +520,7 @@
       "牛鼎烹鸡"
     ],
     "antonyms": [
-      "恰到好处",
-      "量体裁衣"
+      "恰到好处"
     ]
   },
   {
@@ -556,13 +561,10 @@
       "zh": "口语，诙谐，常用来自谦或指侥幸成功。"
     },
     "synonyms": [
-      "瞎猫碰上死耗子——碰巧",
-      "歪打正着",
-      "瞎猫抓住个死耗子——碰上了"
+      "歪打正着"
     ],
     "antonyms": [
-      "胸有成竹",
-      "稳操胜券"
+      "胸有成竹"
     ]
   },
   {
@@ -605,15 +607,15 @@
       "买臣覆水"
     ],
     "antonyms": [
-      "蓝田种玉",
-      "言归于好"
+      "言归于好",
+      "破镜重圆"
     ]
   },
   {
     "id": "lu-shi-lu-bai",
     "text": "屡试屡败",
     "pinyin": "lǚ shì lǚ bài",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
@@ -692,19 +694,19 @@
     },
     "synonyms": [
       "人为刀俎，我为鱼肉",
-      "听天由命",
       "俎上之肉"
     ],
     "antonyms": [
-      "中国人民站起来了",
-      "奋起反抗"
+      "奋起反抗",
+      "自立自强",
+      "中国人民站起来了"
     ]
   },
   {
     "id": "jiao-bu-yan-shi-zhi-duo",
     "text": "教不严，师之惰",
     "pinyin": "jiào bù yán, shī zhī duò",
-    "kind": "suyu",
+    "kind": "mingju",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -749,12 +751,9 @@
     },
     "synonyms": [
       "严师出高徒",
-      "养不教，父之过"
-    ],
-    "antonyms": [
-      "有教无类",
       "误人子弟"
-    ]
+    ],
+    "antonyms": []
   },
   {
     "id": "zuan-ying-qu-qiao",
@@ -935,9 +934,9 @@
       "苟且偷生"
     ],
     "antonyms": [
-      "宁死不屈",
       "视死如归",
-      "士可杀不可辱"
+      "士可杀不可辱",
+      "宁死不屈"
     ]
   },
   {
@@ -1071,6 +1070,8 @@
     ],
     "antonyms": [
       "有苦难言",
+      "欲言又止",
+      "守口如瓶",
       "哑巴吃黄连，有苦说不出"
     ]
   },
@@ -1115,8 +1116,7 @@
       "按兵不动"
     ],
     "antonyms": [
-      "轻举妄动",
-      "急功近利"
+      "轻举妄动"
     ]
   }
 ]

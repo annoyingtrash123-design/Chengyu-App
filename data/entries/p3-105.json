@@ -127,10 +127,7 @@
       "en": "Predicate; often 请求/恳请收回成命.",
       "zh": "多作谓语，常说“恳请收回成命”。"
     },
-    "synonyms": [
-      "改弦更张",
-      "朝令夕改"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一意孤行",
       "说一不二"
@@ -190,7 +187,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "frankness-and-candour"
+      "frankness-and-candour",
+      "standards-and-benchmarks"
     ],
     "literal": "empty · mouth · no · proof",
     "natural": "mere words prove nothing",
@@ -229,9 +227,9 @@
       "引经据典",
       "言之凿凿",
       "真凭实据",
-      "立此存照",
       "事实胜于雄辩",
-      "白纸黑字"
+      "白纸黑字",
+      "立此存照"
     ]
   },
   {
@@ -279,51 +277,6 @@
       "枝叶扶疏",
       "杨柳依依",
       "苍松翠柏"
-    ]
-  },
-  {
-    "id": "ri-jiu-jian-ren-xin",
-    "text": "日久见人心",
-    "pinyin": "rì jiǔ jiàn rén xīn",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "relationships",
-      "experience-and-old-age"
-    ],
-    "literal": "days · long · see · people's · hearts",
-    "natural": "time reveals true character",
-    "meaning": {
-      "en": "Over time you see what a person is really like.",
-      "zh": "相处时间长了，才能看清一个人的真心。"
-    },
-    "equivalents": [
-      "time will tell who is true",
-      "you only know people over time"
-    ],
-    "examples": [
-      {
-        "zh": "路遥知马力，日久见人心。",
-        "en": "A long road tests a horse; long years reveal a heart."
-      },
-      {
-        "zh": "别急着下结论，日久见人心。",
-        "en": "Don't judge too soon; time reveals true character."
-      }
-    ],
-    "usage": {
-      "en": "Often paired with 路遥知马力.",
-      "zh": "常与“路遥知马力”连用。"
-    },
-    "synonyms": [
-      "路遥知马力，日久见人心",
-      "患难见真情",
-      "疾风知劲草，烈火见真金"
-    ],
-    "antonyms": [
-      "人心难测"
     ]
   },
   {
@@ -513,7 +466,6 @@
       "zh": "常说“你自求多福吧”，有时带无奈或调侃。"
     },
     "synonyms": [
-      "听天由命",
       "好自为之"
     ],
     "antonyms": [
@@ -653,12 +605,14 @@
       "zh": "多作谓语、定语；常见近义说法“难以捉摸”。"
     },
     "synonyms": [
-      "变幻莫测",
-      "难以捉摸"
+      "变幻莫测"
     ],
     "antonyms": [
       "一目了然",
       "显而易见"
+    ],
+    "variants": [
+      "难以捉摸"
     ]
   },
   {
@@ -755,8 +709,7 @@
       "zh": "常与“运筹帷幄”连用。"
     },
     "synonyms": [
-      "运筹帷幄",
-      "料事如神"
+      "运筹帷幄"
     ],
     "antonyms": [
       "纸上谈兵"
@@ -811,11 +764,11 @@
     },
     "synonyms": [
       "隐居山林",
-      "孤独寂寞",
       "孑然一身",
       "落落寡合",
       "独来独往",
-      "与世隔绝"
+      "与世隔绝",
+      "孤独寂寞"
     ],
     "antonyms": [
       "交游广阔",
@@ -949,8 +902,7 @@
       "zh": "书面语，多用于公文。"
     },
     "synonyms": [
-      "清正廉洁",
-      "廉洁奉公"
+      "清正廉洁"
     ],
     "antonyms": [
       "乌烟瘴气",
@@ -1041,7 +993,7 @@
     "synonyms": [
       "卑躬屈膝",
       "奴颜婢膝",
-      "五斗折腰",
+      "不为五斗米折腰",
       "低声下气",
       "点头哈腰"
     ],
@@ -1091,12 +1043,11 @@
     "synonyms": [
       "独树一帜",
       "别具一格",
-      "一家之言",
-      "自立门户"
+      "一家之言"
     ],
     "antonyms": [
-      "人云亦云",
-      "墨守成规"
+      "墨守成规",
+      "人云亦云"
     ]
   }
 ]

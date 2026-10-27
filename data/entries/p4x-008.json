@@ -36,8 +36,7 @@
       "zh": "可指实物，也可贬称衰老或过时的人事，用于人时需谨慎。"
     },
     "synonyms": [
-      "朽木粪土",
-      "衰朽残年"
+      "朽木粪土"
     ],
     "antonyms": [
       "根深叶茂",
@@ -125,8 +124,8 @@
       "zh": "多用于法律、新闻，指承认罪行。"
     },
     "synonyms": [
-      "和盘托出",
-      "坦白从宽"
+      "坦白从宽",
+      "和盘托出"
     ],
     "antonyms": [
       "矢口否认",
@@ -283,12 +282,9 @@
       "en": "A translated saying attributed to Francis Bacon, widely used in schools and public slogans.",
       "zh": "译自培根的名言，在学校和公共宣传中广泛使用。"
     },
-    "synonyms": [
-      "读书破万卷，下笔如有神"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "知识越多越反动",
-      "不学无术"
+      "知识越多越反动"
     ]
   },
   {
@@ -328,58 +324,12 @@
       "zh": "与“请君入瓮”相近，但只强调设圈套诱人上当，不含“以其人之道还治其人之身”之意。"
     },
     "synonyms": [
-      "上屋抽梯",
-      "诱敌深入"
+      "诱敌深入",
+      "请君入瓮",
+      "上屋抽梯"
     ],
     "antonyms": [
-      "坦诚相待",
-      "光明磊落"
-    ]
-  },
-  {
-    "id": "jiu-han-gan-lin",
-    "text": "久旱甘霖",
-    "pinyin": "jiǔ hàn gān lín",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "weather-and-sky",
-      "comebacks-and-renewal"
-    ],
-    "literal": "long · drought · sweet · rain",
-    "natural": "sweet rain after long drought",
-    "meaning": {
-      "en": "A welcome relief or help that arrives just when it is badly needed.",
-      "zh": "比喻在最需要的时候得到的帮助或喜讯。"
-    },
-    "equivalents": [
-      "a welcome relief",
-      "a godsend",
-      "manna from heaven"
-    ],
-    "examples": [
-      {
-        "zh": "这笔援助对灾区来说如久旱甘霖。",
-        "en": "This aid came to the disaster area like rain after a long drought."
-      },
-      {
-        "zh": "在最困难的时候，朋友的帮助是久旱甘霖。",
-        "en": "In the hardest times a friend's help was a lifesaver."
-      }
-    ],
-    "usage": {
-      "en": "Often 如久旱甘霖; positive.",
-      "zh": "常说“如久旱甘霖”，褒义。"
-    },
-    "synonyms": [
-      "空谷足音",
-      "雪中送炭"
-    ],
-    "antonyms": [
-      "雪上加霜",
-      "缓不济急"
+      "坦诚相见"
     ]
   },
   {
@@ -391,7 +341,6 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "business-failure",
       "deception-and-false-appearances"
     ],
     "literal": "empty · hand · snare · white · wolf",
@@ -537,8 +486,7 @@
       "满街人都是圣人"
     ],
     "antonyms": [
-      "自暴自弃",
-      "朽木难雕"
+      "朽木不可雕"
     ]
   },
   {
@@ -582,8 +530,7 @@
       "从天而降"
     ],
     "antonyms": [
-      "姗姗来迟",
-      "孤立无援"
+      "姗姗来迟"
     ]
   },
   {
@@ -626,8 +573,8 @@
       "任人唯贤"
     ],
     "antonyms": [
-      "占着茅坑不拉屎",
-      "任人唯亲"
+      "任人唯亲",
+      "占着茅坑不拉屎"
     ],
     "variants": [
       "能者上，庸者下"
@@ -716,7 +663,7 @@
     },
     "synonyms": [
       "山珍海味",
-      "珍馐美味"
+      "珍馐美馔"
     ],
     "antonyms": [
       "茹毛饮血",
@@ -818,8 +765,8 @@
       "以文会友"
     ],
     "antonyms": [
-      "酒肉朋友",
-      "狐朋狗友"
+      "狐朋狗友",
+      "酒肉朋友"
     ]
   },
   {
@@ -908,7 +855,13 @@
     "antonyms": [
       "位高权重",
       "封疆大吏"
-    ]
+    ],
+    "variants": [
+      "芝麻官"
+    ],
+    "variant_kinds": {
+      "芝麻官": "short"
+    }
   },
   {
     "id": "zhuo-fa-nan-shu",
@@ -920,8 +873,8 @@
     "register": "literary",
     "themes": [
       "corruption-and-injustice",
-      "abrupt-endings",
-      "historical-records"
+      "historical-records",
+      "numbers"
     ],
     "literal": "pull out · hairs · hard · to count",
     "natural": "even pulling out one's hair would not count them",
@@ -963,7 +916,6 @@
       "罪恶滔天"
     ],
     "antonyms": [
-      "功不可没",
       "寥寥无几"
     ]
   },
@@ -1020,8 +972,8 @@
       "尸横遍野"
     ],
     "antonyms": [
-      "兵不血刃",
-      "秋毫无犯"
+      "秋毫无犯",
+      "兵不血刃"
     ]
   },
   {
@@ -1111,10 +1063,8 @@
       "汗马功劳"
     ],
     "antonyms": [
-      "功过相抵",
-      "罪不容诛",
-      "擢发难数",
-      "难辞其咎"
+      "难辞其咎",
+      "罪不容诛"
     ]
   },
   {

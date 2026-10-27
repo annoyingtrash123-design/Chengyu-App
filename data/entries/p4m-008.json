@@ -76,8 +76,8 @@
     ],
     "examples": [
       {
-        "zh": "清华大学校训就是“天行健，君子以自强不息”的前半。",
-        "en": "Tsinghua University's motto draws on the first half of '{}'."
+        "zh": "清华大学校训“自强不息，厚德载物”取自“天行健，君子以自强不息”。",
+        "en": "Tsinghua University's motto, \"Strive constantly and cultivate virtue to carry the world,\" draws on \"Heaven moves with strength; the gentleman strives ceaselessly to improve himself.\""
       },
       {
         "zh": "运动员用“天行健，君子以自强不息”激励自己。",
@@ -127,8 +127,8 @@
     ],
     "examples": [
       {
-        "zh": "清华校训“自强不息，地势坤，君子以厚德载物”引人深思。",
-        "en": "Tsinghua's motto, 'self-strengthening and ... {}', is thought-provoking."
+        "zh": "清华校训“自强不息，厚德载物”，后半取自“地势坤，君子以厚德载物”。",
+        "en": "Tsinghua's motto is \"Strive constantly and cultivate virtue to carry the world\"; its second half comes from \"The earth's nature is receptive; the gentleman bears all things with great virtue.\""
       },
       {
         "zh": "他把“地势坤，君子以厚德载物”挂在会议室里。",
@@ -204,115 +204,9 @@
       "zh": "引语，多整句或引上半句，用于演讲、作文和配文。"
     },
     "synonyms": [
-      "忧劳可以兴国，逸豫可以亡身"
+      "忧劳可以兴国，逸豫可以亡身",
+      "居安思危"
     ],
-    "antonyms": []
-  },
-  {
-    "id": "qing-qu-zhi-yu-lan-er-qing-yu-lan",
-    "text": "青，取之于蓝，而青于蓝",
-    "pinyin": "qīng, qǔ zhī yú lán, ér qīng yú lán",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "confucian-classics",
-      "apprenticeship-and-learning",
-      "academic-achievement",
-      "essay-favourites",
-      "thinkers",
-      "famous-quotes"
-    ],
-    "literal": "blue-green, take · it · from · indigo, yet · bluer · than · indigo",
-    "natural": "blue is extracted from the indigo plant, yet is bluer than indigo",
-    "meaning": {
-      "en": "A student can surpass the teacher through learning, as dye is stronger than its source.",
-      "zh": "靛青取自蓝草，却比蓝草更青；比喻学生超过老师，后人胜过前人。"
-    },
-    "equivalents": [
-      "the pupil surpasses the master"
-    ],
-    "examples": [
-      {
-        "zh": "师傅笑着说：“青，取之于蓝，而青于蓝”，你已经比我强了。",
-        "en": "The master smiled: '{}'; you are already better than I am."
-      },
-      {
-        "zh": "“青，取之于蓝，而青于蓝”，新一代科学家成长很快。",
-        "en": "'{}': a new generation of scientists is growing fast."
-      }
-    ],
-    "origin": {
-      "source": "《荀子·劝学》",
-      "story": {
-        "en": "The opening of Xunzi's 'Encouraging Learning': study never ends, and the learner can exceed the teacher, as indigo dye exceeds the plant.",
-        "zh": "《荀子·劝学》开篇：学不可以已，学习者可以超过老师，如同青胜于蓝。"
-      },
-      "date": {
-        "zh": "战国晚期 · 前3世纪",
-        "en": "late Warring States, 3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "Often shortened to 青出于蓝 (an entry of its own) or 青出于蓝而胜于蓝.",
-      "zh": "常缩为“青出于蓝”，亦作“青出于蓝而胜于蓝”。"
-    },
-    "synonyms": [],
-    "antonyms": []
-  },
-  {
-    "id": "bu-ji-kui-bu-wu-yi",
-    "text": "不积跬步，无以至千里；不积小流，无以成江海",
-    "pinyin": "bù jī kuǐ bù, wú yǐ zhì qiān lǐ, bù jī xiǎo liú, wú yǐ chéng jiāng hǎi",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "confucian-classics",
-      "apprenticeship-and-learning",
-      "efficiency",
-      "essay-favourites",
-      "thinkers",
-      "famous-quotes"
-    ],
-    "literal": "not · accumulate · half-steps · steps, no · means · reach · thousand · li, not · accumulate · small · streams, no · means · form · rivers · seas",
-    "natural": "without accumulating half-steps you cannot travel a thousand li; without gathering small streams you cannot form rivers and seas",
-    "meaning": {
-      "en": "Great achievements are built up from small, steady steps.",
-      "zh": "不积累一步步的小进展，就无法走到千里之外；不汇集细流，就无法形成江海。"
-    },
-    "equivalents": [
-      "a journey of a thousand miles begins with a single step",
-      "many a little makes a mickle"
-    ],
-    "examples": [
-      {
-        "zh": "背单词要天天坚持，“不积跬步，无以至千里；不积小流，无以成江海”。",
-        "en": "Keep learning words every day: '{}'."
-      },
-      {
-        "zh": "老师引用“不积跬步，无以至千里；不积小流，无以成江海”鼓励大家一点一滴积累。",
-        "en": "The teacher quoted '{}' to urge steady accumulation."
-      }
-    ],
-    "origin": {
-      "source": "《荀子·劝学》",
-      "story": {
-        "en": "Xunzi illustrates the value of persistent effort with the image of piling up earth to form a mountain and gathering streams to form a sea.",
-        "zh": "荀子用积土成山、积水成渊的比喻，说明持之以恒的重要。"
-      },
-      "date": {
-        "zh": "战国晚期 · 前3世纪",
-        "en": "late Warring States, 3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "Quotation; usually cited whole or in its first half, in speeches, essays and captions.",
-      "zh": "引语，多整句或引上半句，用于演讲、作文和配文。"
-    },
-    "synonyms": [],
     "antonyms": []
   },
   {
@@ -419,57 +313,6 @@
     "antonyms": []
   },
   {
-    "id": "jian-jia-cang-cang-bai-lu-wei-shuang",
-    "text": "蒹葭苍苍，白露为霜",
-    "pinyin": "jiān jiā cāng cāng, bái lù wéi shuāng",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "poems-prose",
-      "love-and-marriage",
-      "seasonal-changes",
-      "plant-and-natural-world"
-    ],
-    "literal": "reeds · rushes · green-grey · green-grey, white · dew · become · frost",
-    "natural": "the reeds are green-grey and the white dew has turned to frost",
-    "meaning": {
-      "en": "A misty autumn scene opening a poem of longing for a person just out of reach.",
-      "zh": "芦苇苍苍，白露结霜；开启对心上人可望而不可即的怀念。"
-    },
-    "equivalents": [
-      "longing for someone out of reach"
-    ],
-    "examples": [
-      {
-        "zh": "读到“蒹葭苍苍，白露为霜”，仿佛看到秋天的河岸。",
-        "en": "Reading '{}', one seems to see the autumn riverbank."
-      },
-      {
-        "zh": "这首歌的歌词化用了“蒹葭苍苍，白露为霜”。",
-        "en": "The song's lyrics adapt '{}'."
-      }
-    ],
-    "origin": {
-      "source": "《诗经·秦风·蒹葭》",
-      "story": {
-        "en": "A Qin folk song about seeking someone who is always on the other side of the water.",
-        "zh": "秦地民歌，写追寻伊人而不得的怅惘。"
-      },
-      "date": {
-        "zh": "西周初至春秋中叶 · 前11—前6世纪",
-        "en": "early Western Zhou to mid Spring and Autumn, 11th–6th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Often followed by 所谓伊人，在水一方 (the one I seek is on the other side of the water).",
-      "zh": "常接“所谓伊人，在水一方”。"
-    },
-    "synonyms": [],
-    "antonyms": []
-  },
-  {
     "id": "zhi-zi-zhi-shou-yu-zi-xie-lao",
     "text": "执子之手，与子偕老",
     "pinyin": "zhí zǐ zhī shǒu, yǔ zǐ xié lǎo",
@@ -519,7 +362,8 @@
       "zh": "常用作婚礼祝福。"
     },
     "synonyms": [
-      "愿得一心人，白头不相离"
+      "愿得一心人，白头不相离",
+      "白头偕老"
     ],
     "antonyms": []
   },
@@ -571,58 +415,6 @@
     "usage": {
       "en": "Quotation; usually cited whole or in its first half, in speeches, essays and captions.",
       "zh": "引语，多整句或引上半句，用于演讲、作文和配文。"
-    },
-    "synonyms": [],
-    "antonyms": []
-  },
-  {
-    "id": "ta-shan-zhi-shi-ke-yi-gong-yu",
-    "text": "他山之石，可以攻玉",
-    "pinyin": "tā shān zhī shí, kě yǐ gōng yù",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "poems-prose",
-      "apprenticeship-and-learning",
-      "innovation-and-progress",
-      "essay-favourites"
-    ],
-    "literal": "other · mountain · of · stones, can · use · cut · jade",
-    "natural": "stones from other hills can be used to polish jade",
-    "meaning": {
-      "en": "Learn from others, even from outside, to improve yourself.",
-      "zh": "别处山上的石头可以用来琢磨玉器；比喻借鉴外部的意见或经验改进自己。"
-    },
-    "equivalents": [
-      "learn from outside",
-      "borrow from others' strengths"
-    ],
-    "examples": [
-      {
-        "zh": "公司派员工出国考察，“他山之石，可以攻玉”。",
-        "en": "The company sent staff abroad to learn: '{}'."
-      },
-      {
-        "zh": "“他山之石，可以攻玉”，引进国外技术并不丢人。",
-        "en": "'{}': there is no shame in importing foreign technology."
-      }
-    ],
-    "origin": {
-      "source": "《诗经·小雅·鹤鸣》",
-      "story": {
-        "en": "The Book of Songs poem 'Crane's Cry' uses the image of stones from other hills to polish jade, taken to mean that even lesser things can help.",
-        "zh": "《诗经·鹤鸣》以他山之石可以磨玉，比喻外来的东西也能助益自己。"
-      },
-      "date": {
-        "zh": "西周初至春秋中叶 · 前11—前6世纪",
-        "en": "early Western Zhou to mid Spring and Autumn, 11th–6th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Often written 他山之石可以攻玉 without comma; the saying is also a chengyu-like unit.",
-      "zh": "常写作“他山之石可以攻玉”。"
     },
     "synonyms": [],
     "antonyms": []
@@ -1000,63 +792,6 @@
     "antonyms": []
   },
   {
-    "id": "si-hai-zhi-nei-jie-xiong-di-ye",
-    "text": "四海之内，皆兄弟也",
-    "pinyin": "sì hǎi zhī nèi, jiē xiōng dì yě",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "confucian-classics",
-      "unity-and-cooperation",
-      "positive-character-qualities",
-      "friendship",
-      "thinkers",
-      "famous-quotes"
-    ],
-    "literal": "four · seas · of · within, all · brothers · particle",
-    "natural": "within the four seas, all are brothers",
-    "meaning": {
-      "en": "All people are like family, regardless of where they are from.",
-      "zh": "天下的人都像兄弟一样；表达友爱与团结。"
-    },
-    "equivalents": [
-      "all men are brothers",
-      "the world is one family"
-    ],
-    "examples": [
-      {
-        "zh": "国际友人间，“四海之内，皆兄弟也”。",
-        "en": "Among friends from around the world, '{}'."
-      },
-      {
-        "zh": "外出旅游遇到热情的路人，他感叹“四海之内，皆兄弟也”。",
-        "en": "Meeting kind strangers while travelling, he sighed '{}'."
-      }
-    ],
-    "origin": {
-      "source": "《论语·颜渊》",
-      "story": {
-        "en": "Confucius's disciple Zixia consoled Sima Niu, who lamented that he had no brothers, with this line.",
-        "zh": "司马牛感叹自己没有兄弟，子夏以此宽慰他。"
-      },
-      "date": {
-        "zh": "战国初 · 前5—前4世纪",
-        "en": "early Warring States, 5th–4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Often paired with 君子敬而无失，与人恭而有礼.",
-      "zh": "上文为“君子敬而无失，与人恭而有礼”。"
-    },
-    "synonyms": [
-      "率土之滨",
-      "普天之下"
-    ],
-    "antonyms": []
-  },
-  {
     "id": "min-wu-xin-bu-li",
     "text": "民无信不立",
     "pinyin": "mín wú xìn bù lì",
@@ -1216,8 +951,8 @@
       "话不投机半句多"
     ],
     "antonyms": [
-      "鱼找鱼，虾找虾，乌龟专找王八",
-      "志同道合"
+      "志同道合",
+      "鱼找鱼，虾找虾，乌龟专找王八"
     ]
   },
   {
@@ -1269,7 +1004,9 @@
       "en": "The origin of 当仁不让; the full line is 当仁，不让于师.",
       "zh": "成语“当仁不让”即出于此。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "当仁不让"
+    ],
     "antonyms": []
   },
   {

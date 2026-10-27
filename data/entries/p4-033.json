@@ -127,11 +127,9 @@
       "zh": "多指男女情欲，口语色彩强，正式场合少用。多作谓语。"
     },
     "synonyms": [
-      "一触即发",
       "如胶似漆"
     ],
     "antonyms": [
-      "相敬如宾",
       "冷若冰霜"
     ]
   },
@@ -148,7 +146,7 @@
     "register": "casual",
     "themes": [
       "speech",
-      "verbosity"
+      "public-opinion"
     ],
     "literal": "people · many · mouths · messy",
     "natural": "many people, many mouths",
@@ -179,8 +177,7 @@
       "众口纷纭"
     ],
     "antonyms": [
-      "守口如瓶",
-      "三缄其口"
+      "守口如瓶"
     ]
   },
   {
@@ -276,13 +273,9 @@
       "en": "The five peaks are Tai, Hua, Heng (Hunan), Heng (Shanxi) and Song. The 'three mountains' are variously listed. Often used to mean people from all walks of life or all places.",
       "zh": "五岳指泰山、华山、衡山、恒山、嵩山；三山说法不一。常借指各地、各方人士。"
     },
-    "synonyms": [
-      "名山大川",
-      "五湖四海"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "一隅之地",
-      "弹丸之地"
+      "一隅之地"
     ]
   },
   {
@@ -475,10 +468,7 @@
       "五雷轰顶",
       "天诛地灭"
     ],
-    "antonyms": [
-      "逍遥法外",
-      "平安无事"
-    ]
+    "antonyms": []
   },
   {
     "id": "yu-rou-xiang-li",
@@ -566,10 +556,7 @@
       "远交近攻",
       "借力打力"
     ],
-    "antonyms": [
-      "孤军奋战",
-      "四面受敌"
-    ]
+    "antonyms": []
   },
   {
     "id": "yu-mao-feng-man",
@@ -614,6 +601,9 @@
     "antonyms": [
       "乳臭未干",
       "羽毛未丰"
+    ],
+    "variants": [
+      "羽翼丰满"
     ]
   },
   {
@@ -758,9 +748,9 @@
       "天生聪慧"
     ],
     "antonyms": [
-      "困而学之",
-      "后知后觉",
-      "困知勉行"
+      "困知勉行",
+      "困而知之",
+      "后知后觉"
     ]
   },
   {
@@ -849,8 +839,8 @@
       "革故鼎新"
     ],
     "antonyms": [
-      "因循守旧",
-      "故步自封"
+      "故步自封",
+      "因循守旧"
     ]
   },
   {
@@ -946,7 +936,6 @@
       "zh": "贬义；多用于领导、官员、裁判等。多作谓语。"
     },
     "synonyms": [
-      "假公济私",
       "打击报复",
       "挟嫌报复"
     ],
@@ -960,7 +949,8 @@
     "text": "滔天大罪",
     "pinyin": "tāo tiān dà zuì",
     "variants": [
-      "弥天大罪"
+      "弥天大罪",
+      "滔天罪行"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -968,7 +958,8 @@
     "register": "neutral",
     "themes": [
       "revenge-and-retribution",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "news-and-officialese"
     ],
     "literal": "flooding · heaven · great · crime",
     "natural": "a crime that floods the heavens",
@@ -999,8 +990,7 @@
       "十恶不赦"
     ],
     "antonyms": [
-      "小过小错",
-      "微不足道"
+      "小过小错"
     ]
   },
   {
@@ -1095,8 +1085,8 @@
       "血浓于水"
     ],
     "antonyms": [
-      "形同陌路",
-      "漠不关心"
+      "漠不关心",
+      "形同陌路"
     ]
   },
   {
@@ -1140,8 +1130,8 @@
       "故弄玄虚"
     ],
     "antonyms": [
-      "平易近人",
-      "直截了当"
+      "直截了当",
+      "平易近人"
     ]
   }
 ]

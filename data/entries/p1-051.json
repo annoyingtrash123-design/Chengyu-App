@@ -48,13 +48,13 @@
     ],
     "antonyms": [
       "文过饰非",
-      "执迷不悟",
       "一错再错",
       "倒打一耙",
       "将错就错",
       "讳疾忌医",
       "屡教不改",
-      "破罐子破摔"
+      "破罐子破摔",
+      "执迷不悟"
     ]
   },
   {
@@ -105,15 +105,13 @@
       "能屈能伸",
       "运用之妙，存乎一心",
       "伺机而动",
-      "司马光砸缸",
       "通权达变",
       "到什么山上唱什么歌",
-      "情急智生",
       "急中生智",
-      "水来土掩",
       "兵来将挡，水来土掩",
       "因时制宜",
-      "遇水架桥"
+      "遇水架桥",
+      "情急智生"
     ],
     "antonyms": [
       "墨守成规",
@@ -121,11 +119,11 @@
       "一成不变",
       "按图索骥",
       "照章办事",
-      "一条道走到黑——死心眼",
       "一定之规",
       "一条道走到黑",
       "守株待兔",
-      "胶柱鼓瑟"
+      "胶柱鼓瑟",
+      "一条道走到黑——死心眼"
     ]
   },
   {
@@ -233,12 +231,12 @@
       "旋乾转坤",
       "挥戈反日",
       "回天之力",
-      "炼石补天"
+      "女娲补天"
     ],
     "antonyms": [
       "每况愈下",
-      "一败涂地",
-      "回天乏术"
+      "回天乏术",
+      "一败涂地"
     ]
   },
   {
@@ -253,7 +251,10 @@
     "themes": [
       "change",
       "comebacks-and-renewal",
-      "myths-legends"
+      "myths-legends",
+      "republic-era",
+      "poets",
+      "modern-applications-of-classical-ideas"
     ],
     "literal": "phoenix · nirvana",
     "natural": "the phoenix's rebirth through fire",
@@ -396,9 +397,7 @@
       "en": "Literal in schools; figuratively common in 没有标准答案 'there's no one right answer'.",
       "zh": "本义用于考试；引申义多见于“没有标准答案”。"
     },
-    "synonyms": [
-      "金科玉律"
-    ],
+    "synonyms": [],
     "antonyms": [
       "众说纷纭",
       "见仁见智"
@@ -406,8 +405,8 @@
   },
   {
     "id": "zhun-sheng-gui-ju",
-    "text": "准绳规矩",
-    "pinyin": "zhǔn shéng guī jǔ",
+    "text": "规矩准绳",
+    "pinyin": "guī jǔ zhǔn shéng",
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
@@ -415,7 +414,7 @@
     "themes": [
       "standards-and-benchmarks"
     ],
-    "literal": "level · line · compass · square",
+    "literal": "compass · square · level · line",
     "natural": "rules and standards",
     "meaning": {
       "en": "Standards and rules by which things are judged.",
@@ -442,12 +441,14 @@
     "synonyms": [
       "清规戒律",
       "金科玉律",
-      "建章立制",
       "衡量标准"
     ],
     "antonyms": [
       "随心所欲",
       "无法无天"
+    ],
+    "variants": [
+      "准绳规矩"
     ]
   },
   {
@@ -549,13 +550,12 @@
       "zh": "多作谓语，常说“权衡利弊之后”。"
     },
     "synonyms": [
-      "三思而行",
-      "深思熟虑",
-      "趋利避害"
+      "三思而后行",
+      "深思熟虑"
     ],
     "antonyms": [
-      "轻举妄动",
-      "草率行事"
+      "草率行事",
+      "轻举妄动"
     ]
   },
   {
@@ -600,7 +600,7 @@
       "zh": "名词短语；也常拆开说“衡量……的标准”。"
     },
     "synonyms": [
-      "准绳规矩"
+      "规矩准绳"
     ],
     "antonyms": []
   },
@@ -649,9 +649,9 @@
     "synonyms": [
       "大公无私",
       "一视同仁",
-      "不偏不倚",
       "一碗水端平",
-      "公平合理"
+      "公平合理",
+      "不偏不倚"
     ],
     "antonyms": [
       "厚此薄彼",
@@ -1053,7 +1053,6 @@
       "zh": "源自粤语，现已通用。多作谓语。"
     },
     "synonyms": [
-      "丈二和尚——摸不着头脑",
       "莫名其妙",
       "云里雾里",
       "摸不着头脑",
@@ -1061,8 +1060,9 @@
       "茫无头绪",
       "茫然不解",
       "如堕烟海",
-      "如坠五里雾中",
-      "如坐云雾"
+      "如坐云雾",
+      "丈二和尚——摸不着头脑",
+      "如坠五里雾中"
     ],
     "antonyms": [
       "一清二楚",
@@ -1072,7 +1072,8 @@
       "瞎子吃汤圆——心中有数",
       "心领神会",
       "了然于胸",
-      "茅塞顿开"
+      "茅塞顿开",
+      "豁然开朗"
     ]
   },
   {
@@ -1098,7 +1099,7 @@
       "confusion",
       "confusion-and-doubt"
     ],
-    "literal": "ten-foot monk — can't reach (his) head",
+    "literal": "twelve-foot · monk",
     "natural": "a ten-foot monk — you can't reach his head",
     "meaning": {
       "en": "Utterly confused; unable to make sense of something.",
@@ -1127,9 +1128,9 @@
       "zh": "常只说前半句。“丈二”指一丈二尺，形容和尚很高，摸不到头。"
     },
     "synonyms": [
-      "一头雾水",
+      "云里雾里",
       "莫名其妙",
-      "云里雾里"
+      "一头雾水"
     ],
     "antonyms": [
       "一清二楚",
@@ -1184,8 +1185,8 @@
     ],
     "antonyms": [
       "泰然自若",
-      "心平气和",
-      "若无其事"
+      "若无其事",
+      "心平气和"
     ]
   },
   {

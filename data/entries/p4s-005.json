@@ -35,9 +35,7 @@
       "en": "Advice quoted as a proverb, usually warning someone who is too trusting.",
       "zh": "多作劝诫的话，提醒过于轻信的人。"
     },
-    "synonyms": [
-      "知人知面不知心"
-    ],
+    "synonyms": [],
     "antonyms": [
       "推心置腹"
     ],
@@ -88,8 +86,8 @@
       "以理服人"
     ],
     "antonyms": [
-      "大打出手",
-      "拳脚相加"
+      "拳脚相加",
+      "大打出手"
     ]
   },
   {
@@ -128,11 +126,12 @@
       "en": "Frequently quoted in business and ethics talk; sometimes said ironically by people excusing a profit.",
       "zh": "常用于谈做生意的道德，有时也被反讽。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "见利思义"
+    ],
     "antonyms": [
-      "不义之财",
-      "见利忘义",
-      "贪夫徇财"
+      "贪夫徇财",
+      "见利忘义"
     ],
     "variants": [
       "取之有道"
@@ -233,9 +232,7 @@
       "en": "A standard nudge to students; the next line is often 事非经过不知难.",
       "zh": "常用来劝学生多读书，下句常接“事非经过不知难”。"
     },
-    "synonyms": [
-      "临时抱佛脚"
-    ],
+    "synonyms": [],
     "antonyms": [
       "学富五车"
     ]
@@ -252,7 +249,8 @@
       "laziness-and-giving-up",
       "value-of-time",
       "poems-prose",
-      "poets"
+      "poets",
+      "rare-idioms"
     ],
     "literal": "young and strong · not · work hard, old · in vain · grieve",
     "natural": "if you slack off in youth, you will only grieve in old age",
@@ -290,12 +288,20 @@
       "zh": "多作为诗句引用，劝人珍惜时光、努力上进。"
     },
     "synonyms": [
-      "光阴似箭",
-      "花有重开日，人无再少年"
+      "花有重开日，人无再少年",
+      "白首无成",
+      "追悔莫及"
     ],
     "antonyms": [
-      "及时努力"
-    ]
+      "及时努力",
+      "少壮有为"
+    ],
+    "variants": [
+      "老大徒悲"
+    ],
+    "variant_kinds": {
+      "老大徒悲": "short"
+    }
   },
   {
     "id": "tai-shang-yi-fen-zhong-tai",
@@ -337,9 +343,7 @@
       "十年磨一剑",
       "功到自然成"
     ],
-    "antonyms": [
-      "一曝十寒"
-    ]
+    "antonyms": []
   },
   {
     "id": "zhi-yao-gong-fu-shen-tie",
@@ -378,8 +382,8 @@
       "zh": "用来鼓励人坚持，也常单说“铁杵磨成针”。"
     },
     "synonyms": [
-      "水滴石穿",
-      "有志者事竟成"
+      "有志者事竟成",
+      "水滴石穿"
     ],
     "antonyms": [
       "半途而废",
@@ -426,13 +430,12 @@
       "zh": "多用于催促人抓紧行动，也常见于广告。"
     },
     "synonyms": [
-      "千载难逢",
       "时不我待",
-      "过了这个村就没这个店"
+      "过了这个村就没这个店",
+      "错失良机",
+      "千载难逢"
     ],
-    "antonyms": [
-      "错失良机"
-    ]
+    "antonyms": []
   },
   {
     "id": "liang-yao-ku-kou-li-yu",
@@ -483,11 +486,9 @@
       "zh": "用来表示接受或缓和直率的批评，上下句常分开引用。"
     },
     "synonyms": [
-      "苦口婆心",
       "忠言逆耳"
     ],
     "antonyms": [
-      "甜言蜜语",
       "阿谀奉承"
     ]
   },
@@ -531,9 +532,7 @@
       "zh": "常在建议别人听取局外人意见时使用。"
     },
     "synonyms": [],
-    "antonyms": [
-      "洞若观火"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-ge-li-ba-san-ge",
@@ -664,8 +663,8 @@
       "zh": "常用于交际场合，常和“少一个敌人少一堵墙”并说。"
     },
     "synonyms": [
-      "朋友多了路好走",
-      "在家靠父母，出门靠朋友"
+      "在家靠父母，出门靠朋友",
+      "朋友多了路好走"
     ],
     "antonyms": [
       "孤家寡人"
@@ -708,10 +707,9 @@
       "zh": "常用于危难之后的感慨。"
     },
     "synonyms": [
-      "日久见人心",
-      "患难之交",
+      "路遥知马力，日久见人心",
       "疾风劲草",
-      "路遥知马力，日久见人心"
+      "患难之交"
     ],
     "antonyms": [
       "酒肉朋友",
@@ -756,7 +754,7 @@
       "zh": "本身中性，但常用来评论别人交往的圈子。"
     },
     "synonyms": [
-      "臭味相投",
+      "气味相投",
       "志同道合",
       "鱼找鱼，虾找虾，乌龟专找王八"
     ],
@@ -769,7 +767,8 @@
     "text": "龙生龙，凤生凤，老鼠的儿子会打洞",
     "pinyin": "lóng shēng lóng, fèng shēng fèng, lǎo shǔ de ér zi huì dǎ dòng",
     "variants": [
-      "龙生龙，凤生凤"
+      "龙生龙，凤生凤",
+      "龙配龙，凤配凤，老鼠的孩子会打洞"
     ],
     "variant_kinds": {
       "龙生龙，凤生凤": "short"
@@ -780,7 +779,8 @@
     "register": "casual",
     "themes": [
       "parenting-and-family",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "love-and-marriage"
     ],
     "literal": "dragon · bears · dragon, phoenix · bears · phoenix, mouse · 's · son · can · dig · hole",
     "natural": "dragons beget dragons, phoenixes phoenixes, a mouse's son digs holes",
@@ -849,9 +849,7 @@
       "en": "Used when explaining regional differences in character, food and customs.",
       "zh": "常用来解释地域在性格、饮食、习俗上的差异。"
     },
-    "synonyms": [
-      "入乡随俗"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -940,7 +938,10 @@
       "大有大的难处"
     ],
     "antonyms": [
-      "一帆风顺"
+      "幸福美满"
+    ],
+    "variants": [
+      "谁家没有难念的经"
     ]
   },
   {
@@ -981,8 +982,6 @@
     },
     "synonyms": [
       "和气生财",
-      "父慈子孝",
-      "在家千日好，出门一时难",
       "家庭和睦"
     ],
     "antonyms": [
@@ -1024,9 +1023,7 @@
       "en": "Warm and respectful; often combined with 不听老人言，吃亏在眼前.",
       "zh": "语气尊敬温暖，常和“不听老人言，吃亏在眼前”相连。"
     },
-    "synonyms": [
-      "姜还是老的辣"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -1148,8 +1145,6 @@
       "zh": "多为新手父母的感慨。"
     },
     "synonyms": [],
-    "antonyms": [
-      "忘恩负义"
-    ]
+    "antonyms": []
   }
 ]

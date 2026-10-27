@@ -49,17 +49,18 @@
     },
     "synonyms": [
       "寄人篱下",
-      "俯首听命",
       "受制于人",
       "傍人门户",
-      "看人脸色"
+      "看人脸色",
+      "俯首听命"
     ],
     "antonyms": [
       "自力更生",
       "独立自主",
       "依自不依他",
       "自给自足",
-      "当家作主"
+      "当家作主",
+      "自食其力"
     ]
   },
   {
@@ -116,10 +117,9 @@
       "养虎遗患"
     ],
     "antonyms": [
-      "拒之门外",
       "防微杜渐",
-      "坚壁清野",
-      "焦土抗战"
+      "拒之门外",
+      "坚壁清野"
     ]
   },
   {
@@ -156,12 +156,11 @@
       }
     ],
     "usage": {
-      "en": "Predicate or attributive. In the past, readers marked fine lines in an essay with circles and dots. Not '可圈可点' = critical.",
+      "en": "Predicate or attributive. In the past, readers marked fine lines in an essay with circles and dots.",
       "zh": "多作谓语、定语；旧时读文章在好句旁加圈点，故为褒义。"
     },
     "synonyms": [
-      "精彩绝伦",
-      "可歌可泣"
+      "精彩绝伦"
     ],
     "antonyms": [
       "乏善可陈",
@@ -180,7 +179,7 @@
     "register": "neutral",
     "themes": [
       "complex-emotional-states",
-      "contentment-and-simplicity"
+      "emotions"
     ],
     "literal": "bear · pain · cut off · beloved",
     "natural": "painfully give up what one loves",
@@ -209,13 +208,11 @@
     "synonyms": [
       "割舍所爱",
       "舍不得又舍得",
-      "诸葛亮挥泪斩马谡——忍痛割爱",
-      "杨志卖刀——忍痛割爱",
-      "诸葛亮挥泪斩马谡——顾全大局"
+      "杨志卖刀——忍痛割爱"
     ],
     "antonyms": [
-      "爱不释手",
-      "据为己有"
+      "据为己有",
+      "爱不释手"
     ]
   },
   {
@@ -314,8 +311,7 @@
     "synonyms": [
       "柔中带刚",
       "绵里藏针",
-      "外圆内方",
-      "属臭豆腐的——闻着臭，吃着香"
+      "外圆内方"
     ],
     "antonyms": [
       "外强中干"
@@ -373,10 +369,7 @@
       "把酒言欢",
       "及时行乐"
     ],
-    "antonyms": [
-      "闭门思过",
-      "煮酒论英雄"
-    ]
+    "antonyms": []
   },
   {
     "id": "cuo-tuo-sui-yue",
@@ -474,8 +467,8 @@
       "赤子之心"
     ],
     "antonyms": [
-      "三心二意",
-      "背信弃义"
+      "背信弃义",
+      "三心二意"
     ]
   },
   {
@@ -528,12 +521,14 @@
       "zh": "多作谓语，常用于自谦；今多写“敝帚”。"
     },
     "synonyms": [
-      "孤芳自赏",
       "惜如拱璧"
     ],
     "antonyms": [
       "弃如敝屣",
       "传经送宝"
+    ],
+    "variants": [
+      "弊帚自珍"
     ]
   },
   {
@@ -588,8 +583,7 @@
       "zh": "多作谓语或引述的熟语；语气同情，认为不平有理。"
     },
     "synonyms": [
-      "仗义执言",
-      "打抱不平"
+      "仗义执言"
     ],
     "antonyms": [
       "忍气吞声",
@@ -646,8 +640,7 @@
       "zh": "多作谓语、定语；中性，多指老人或传统社会；“重”读zhòng。"
     },
     "synonyms": [
-      "故土难离",
-      "恋恋不舍"
+      "故土难离"
     ],
     "antonyms": [
       "背井离乡",
@@ -764,12 +757,11 @@
     },
     "synonyms": [
       "唇枪舌剑",
-      "滔滔不绝",
       "三寸不烂之舌"
     ],
     "antonyms": [
-      "哑口无言",
-      "理屈词穷"
+      "理屈词穷",
+      "哑口无言"
     ]
   },
   {
@@ -834,14 +826,6 @@
     "id": "shi-zhi-dong-yu-shou-zhi-sang-yu",
     "text": "失之东隅，收之桑榆",
     "pinyin": "shī zhī dōng yú, shōu zhī sāng yú",
-    "variants": [
-      "失之东隅",
-      "收之桑榆"
-    ],
-    "variant_kinds": {
-      "失之东隅": "short",
-      "收之桑榆": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -891,13 +875,20 @@
       "zh": "几乎总是与“收之桑榆”连用，多作安慰；“隅”读yú。"
     },
     "synonyms": [
-      "塞翁失马",
-      "东山再起"
+      "塞翁失马"
     ],
     "antonyms": [
       "得不偿失",
       "一败涂地"
-    ]
+    ],
+    "variants": [
+      "失之东隅",
+      "收之桑榆"
+    ],
+    "variant_kinds": {
+      "失之东隅": "short",
+      "收之桑榆": "short"
+    }
   },
   {
     "id": "qin-tong-chou-kuai",
@@ -941,12 +932,9 @@
       "en": "Predicate or attributive; used in warnings against infighting. Usually written 亲者痛，仇者快.",
       "zh": "多作谓语、定语，用于警告内斗；常说“亲者痛，仇者快”。"
     },
-    "synonyms": [
-      "自相残杀"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "团结一致",
-      "同仇敌忾"
+      "团结一致"
     ]
   },
   {
@@ -988,7 +976,6 @@
     },
     "synonyms": [
       "多情种子",
-      "红男绿女",
       "情天恨海"
     ],
     "antonyms": []
@@ -1042,8 +1029,7 @@
       "zh": "多作谓语、定语或座右铭；褒义，多指官员、领导。"
     },
     "synonyms": [
-      "先人后己",
-      "公而忘私"
+      "先人后己"
     ],
     "antonyms": [
       "贪图享乐",
@@ -1090,7 +1076,6 @@
     },
     "synonyms": [
       "微言大义",
-      "字字珠玑",
       "一字褒贬"
     ],
     "antonyms": [
@@ -1144,6 +1129,9 @@
       "如虎添翼",
       "东山再起",
       "蛟龙得水"
+    ],
+    "variants": [
+      "虎落平川"
     ]
   },
   {
@@ -1156,8 +1144,8 @@
     "register": "formal",
     "themes": [
       "conduct",
-      "fairness-and-impartiality",
-      "news-and-officialese"
+      "news-and-officialese",
+      "speech"
     ],
     "literal": "explain · with · great · principle",
     "natural": "explain the larger principle",
@@ -1183,13 +1171,8 @@
       "en": "Verb phrase with an object (对/向…晓以大义); usually followed by 动之以情 in appeals. Formal, positive.",
       "zh": "作谓语，常说“对某人晓以大义”，常与“动之以情”连用；偏书面，褒义。"
     },
-    "synonyms": [
-      "动之以情",
-      "循循善诱"
-    ],
-    "antonyms": [
-      "置之不理"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "miu-zhong-liu-chuan",
@@ -1284,10 +1267,7 @@
       "en": "Predicate; historical reference to King Wuling of Zhao's military reform, now used for reform inspired by others.",
       "zh": "多作谓语；典出赵武灵王改革，今指借鉴他人长处而变革。"
     },
-    "synonyms": [
-      "革故鼎新",
-      "取长补短"
-    ],
+    "synonyms": [],
     "antonyms": [
       "墨守成规",
       "故步自封"

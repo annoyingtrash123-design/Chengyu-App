@@ -41,8 +41,7 @@
       "zh": "多作定语、谓语。"
     },
     "synonyms": [
-      "年久失修",
-      "破铜烂铁"
+      "年久失修"
     ],
     "antonyms": [
       "焕然一新",
@@ -96,10 +95,10 @@
   },
   {
     "id": "xiu-mu-nan-diao",
-    "text": "朽木难雕",
-    "pinyin": "xiǔ mù nán diāo",
+    "text": "朽木不可雕",
+    "pinyin": "xiǔ mù bù kě diāo",
     "variants": [
-      "朽木不可雕",
+      "朽木难雕",
       "朽木不可雕也",
       "朽木不雕"
     ],
@@ -115,7 +114,7 @@
       "negative-character-flaws",
       "confucian-classics"
     ],
-    "literal": "rotten · wood · hard · carve",
+    "literal": "rotten · wood · not · can · carve",
     "natural": "rotten wood can't be carved",
     "meaning": {
       "en": "Someone hopeless who cannot be taught or improved.",
@@ -157,13 +156,13 @@
     },
     "synonyms": [
       "无可救药",
-      "一无是处",
       "扶不起的阿斗",
-      "不材之木",
-      "朽木粪土",
-      "阿斗——扶不起来",
       "烂泥——扶不上墙",
-      "孺子不可教"
+      "孺子不可教",
+      "不材之木",
+      "一无是处",
+      "朽木粪土",
+      "阿斗——扶不起来"
     ],
     "antonyms": [
       "孺子可教",
@@ -214,7 +213,6 @@
       "zh": "可指实物承重，也可比喻人或系统压力过大。"
     },
     "synonyms": [
-      "力不从心",
       "难以承受"
     ],
     "antonyms": [
@@ -310,13 +308,12 @@
     },
     "synonyms": [
       "困难重重",
-      "寸步难行",
       "艰难险阻",
       "山高路险"
     ],
     "antonyms": [
-      "一马平川",
-      "畅通无阻"
+      "畅通无阻",
+      "一马平川"
     ]
   },
   {
@@ -449,9 +446,7 @@
       "en": "Often 跌入/坠入万丈深渊.",
       "zh": "常说“跌入（坠入）万丈深渊”。"
     },
-    "synonyms": [
-      "悬崖峭壁"
-    ],
+    "synonyms": [],
     "antonyms": [
       "康庄大道"
     ]
@@ -554,10 +549,10 @@
   },
   {
     "id": "xia-bi-ru-shen",
-    "text": "下笔如神",
-    "pinyin": "xià bǐ rú shén",
+    "text": "下笔如有神",
+    "pinyin": "xià bǐ rú yǒu shén",
     "variants": [
-      "下笔如有神"
+      "下笔如神"
     ],
     "kind": "chengyu",
     "frequency": 2,
@@ -565,9 +560,10 @@
     "register": "literary",
     "themes": [
       "excellent-writing",
-      "poems-prose"
+      "poems-prose",
+      "poets"
     ],
-    "literal": "put down · brush · like · divine",
+    "literal": "put down · brush · as if · have · divine help",
     "natural": "writing as if inspired",
     "meaning": {
       "en": "Writing with great skill and fluency, as if divinely inspired.",
@@ -658,7 +654,6 @@
     "antonyms": [
       "切中要害",
       "一针见血",
-      "腾蛟起凤",
       "切中时弊"
     ]
   },
@@ -709,21 +704,20 @@
     },
     "synonyms": [
       "哑口无言",
-      "张口结舌",
-      "黑旋风的本名——理亏（李奎）"
+      "张口结舌"
     ],
     "antonyms": [
       "理直气壮",
       "振振有词",
-      "据理力争",
       "舌战群儒",
-      "义正词严"
+      "义正词严",
+      "据理力争"
     ]
   },
   {
     "id": "luo-luo-suo-suo",
     "text": "啰啰嗦嗦",
-    "pinyin": "luō luō suo suō",
+    "pinyin": "luō luō suō suō",
     "variants": [
       "啰啰唆唆"
     ],
@@ -787,7 +781,7 @@
       "学而时习之": "short"
     },
     "kind": "mingju",
-    "frequency": 2,
+    "frequency": 1,
     "sentiment": "positive",
     "register": "literary",
     "themes": [
@@ -836,10 +830,7 @@
       "en": "The opening line of the Analects; 说 is read yuè (= 悦). The first half alone is common.",
       "zh": "《论语》开篇第一句；“说”读yuè，同“悦”。常只说前半句。"
     },
-    "synonyms": [
-      "温故知新",
-      "学以致用"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不学无术"
     ]

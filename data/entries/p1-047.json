@@ -55,9 +55,9 @@
       "防微杜渐"
     ],
     "antonyms": [
-      "焦头烂额",
       "亡羊补牢",
-      "临渴掘井"
+      "临渴掘井",
+      "焦头烂额"
     ]
   },
   {
@@ -114,11 +114,9 @@
     "synonyms": [
       "手不释卷",
       "孜孜不倦",
-      "悬梁刺股",
-      "临池学书"
+      "悬梁刺股"
     ],
     "antonyms": [
-      "不学无术",
       "浅尝辄止"
     ]
   },
@@ -223,6 +221,9 @@
       "粗茶淡饭",
       "残羹剩饭",
       "山肴野蔌"
+    ],
+    "variants": [
+      "珍馐美味"
     ]
   },
   {
@@ -273,9 +274,6 @@
     },
     "synonyms": [
       "趋炎附势",
-      "八面玲珑",
-      "顺水推舟",
-      "前倨后恭",
       "墙头草，随风倒",
       "看人下菜碟"
     ],
@@ -337,8 +335,7 @@
       "zh": "多作谓语、主语。"
     },
     "synonyms": [
-      "欲擒故纵",
-      "攻心为上"
+      "欲擒故纵"
     ],
     "antonyms": [
       "赶尽杀绝",
@@ -400,8 +397,7 @@
     ],
     "antonyms": [
       "欢天喜地",
-      "心宽体胖",
-      "节哀顺变"
+      "心宽体胖"
     ]
   },
   {
@@ -416,7 +412,6 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "successful-construction",
       "standards-and-benchmarks"
     ],
     "literal": "complete · good · no · damage",
@@ -446,10 +441,10 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "完美无缺",
       "安然无恙",
       "原封不动",
-      "毫发无损"
+      "毫发无损",
+      "完美无缺"
     ],
     "antonyms": [
       "支离破碎",
@@ -458,14 +453,14 @@
       "荡然无存",
       "片瓦无存",
       "一片焦土",
-      "无一幸免",
       "皮开肉绽",
       "鼻青脸肿",
       "遍体鳞伤",
       "体无完肤",
-      "寸草不留",
       "付之一炬",
-      "残破不堪"
+      "残破不堪",
+      "无一幸免",
+      "寸草不留"
     ]
   },
   {
@@ -506,8 +501,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "谢天谢地",
-      "如释重负"
+      "谢天谢地"
     ],
     "antonyms": [
       "懊悔不已",
@@ -552,7 +546,6 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "白费口舌",
       "对牛弹琴"
     ],
     "antonyms": [
@@ -560,7 +553,8 @@
       "言听计从"
     ],
     "variants": [
-      "徒费唇舌"
+      "徒费唇舌",
+      "白费口舌"
     ]
   },
   {
@@ -607,29 +601,24 @@
     },
     "synonyms": [
       "不善言辞",
-      "拙嘴笨腮",
-      "张口结舌",
-      "笨手笨脚",
-      "木讷寡言"
+      "木讷寡言",
+      "拙嘴笨腮"
     ],
     "antonyms": [
       "能言善辩",
       "伶牙俐齿",
       "口若悬河",
       "妙语连珠",
-      "心灵手巧",
       "出口成章",
       "能说会道",
       "巧舌如簧",
       "三寸不烂之舌",
       "娓娓而谈",
       "锦心绣口",
-      "长袖善舞",
       "口齿伶俐",
       "油嘴滑舌",
       "八面玲珑",
-      "口吐莲花",
-      "能歌善舞"
+      "口吐莲花"
     ]
   },
   {
@@ -737,8 +726,8 @@
       "zh": "多作宾语，常作谦辞。"
     },
     "synonyms": [
-      "朽木难雕",
-      "无用之才"
+      "无用之才",
+      "朽木不可雕"
     ],
     "antonyms": [
       "栋梁之才",
@@ -888,8 +877,8 @@
     "antonyms": [
       "临阵脱逃",
       "畏缩不前",
-      "贪生怕死",
-      "临阵退缩"
+      "临阵退缩",
+      "贪生怕死"
     ]
   },
   {
@@ -935,16 +924,15 @@
     "synonyms": [
       "声名狼藉",
       "遗臭万年",
-      "恶贯满盈",
-      "老虎不吃人——恶名在外",
       "臭名远扬",
-      "劣迹斑斑"
+      "劣迹斑斑",
+      "老虎不吃人——恶名在外"
     ],
     "antonyms": [
       "流芳百世",
       "德高望重",
-      "大名鼎鼎",
-      "有口皆碑"
+      "有口皆碑",
+      "大名鼎鼎"
     ]
   },
   {
@@ -972,7 +960,7 @@
     ],
     "examples": [
       {
-        "zh": "他处变不惊，冷静处理了突发事件.",
+        "zh": "他处变不惊，冷静处理了突发事件。",
         "en": "He stayed unflappable and handled the emergency calmly."
       },
       {
@@ -989,7 +977,6 @@
       "临危不惧",
       "镇定自若",
       "沉着冷静",
-      "见怪不怪，其怪自败",
       "宠辱不惊"
     ],
     "antonyms": [
@@ -1036,10 +1023,7 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "价值连城",
-      "居大不易"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一文不值",
       "地广人稀"
@@ -1061,7 +1045,7 @@
       "freedom",
       "buddhist-origin"
     ],
-    "literal": "inch · thread · not · hang",
+    "literal": "one · thread · not · hang",
     "natural": "Not an inch of thread hanging",
     "meaning": {
       "en": "Stark naked; (Buddhist) free of all worldly attachment.",
@@ -1074,16 +1058,16 @@
     ],
     "examples": [
       {
-        "zh": "修行之人寸丝不挂，心无杂念。",
+        "zh": "他一丝不挂地站在浴室里，才发现忘了拿浴巾。",
         "en": "The practitioner is free of all ties, with a mind free of distraction."
       },
       {
-        "zh": "孩子洗完澡寸丝不挂地跑了出来。",
+        "zh": "孩子洗完澡一丝不挂地跑了出来。",
         "en": "The child ran out stark naked after the bath."
       }
     ],
     "usage": {
-      "en": "Predicate. Close to 一丝不挂.",
+      "en": "Predicate. Variant 寸丝不挂 (Buddhist original: free of worldly attachments).",
       "zh": "多作谓语。"
     },
     "synonyms": [
@@ -1098,7 +1082,7 @@
     "id": "cun-tie-zai-shou",
     "text": "寸铁在手",
     "pinyin": "cùn tiě zài shǒu",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -1131,9 +1115,7 @@
       "en": "Predicate. Rare; mostly contrasted with 手无寸铁.",
       "zh": "多作谓语，较少用，常与\"手无寸铁\"对比。"
     },
-    "synonyms": [
-      "全副武装"
-    ],
+    "synonyms": [],
     "antonyms": [
       "手无寸铁",
       "赤手空拳"
@@ -1183,16 +1165,15 @@
       "鼓舞人心"
     ],
     "antonyms": [
-      "令人沮丧",
-      "垂头丧气"
+      "令人沮丧"
     ]
   },
   {
     "id": "cui-rao-zhu-wei",
-    "text": "翠绕珠围",
-    "pinyin": "cuì rào zhū wéi",
+    "text": "珠围翠绕",
+    "pinyin": "zhū wéi cuì rào",
     "variants": [
-      "珠围翠绕"
+      "翠绕珠围"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -1202,7 +1183,7 @@
       "fine-dress-and-fashion",
       "appearance"
     ],
-    "literal": "jade · surround · pearl · encircle",
+    "literal": "pearl · encircle · jade · surround",
     "natural": "Surrounded by jade and pearls",
     "meaning": {
       "en": "Lavishly adorned with jewels; also surrounded by many attendants.",
@@ -1228,8 +1209,7 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "珠光宝气",
-      "雍容华贵"
+      "珠光宝气"
     ],
     "antonyms": [
       "荆钗布裙",
@@ -1274,10 +1254,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "赏心悦目",
-      "大开眼界",
-      "目不暇接",
-      "大饱耳福"
+      "赏心悦目"
     ],
     "antonyms": [
       "不堪入目",
@@ -1288,7 +1265,7 @@
     "id": "da-bao-er-fu",
     "text": "大饱耳福",
     "pinyin": "dà bǎo ěr fú",
-    "kind": "phrase",
+    "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
     "register": "neutral",
@@ -1321,10 +1298,7 @@
       "en": "Predicate. Modelled on 大饱眼福.",
       "zh": "多作谓语，仿\"大饱眼福\"而成。"
     },
-    "synonyms": [
-      "余音绕梁",
-      "大饱眼福"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不堪入耳",
       "刺耳难听"

@@ -91,7 +91,6 @@
       "zh": "贬义，多作谓语，含夸大或抢功之意。"
     },
     "synonyms": [
-      "居功自傲",
       "争功诿过"
     ],
     "antonyms": [
@@ -147,8 +146,8 @@
       "回天乏术"
     ],
     "antonyms": [
-      "妙手回春",
-      "药到病除"
+      "药到病除",
+      "妙手回春"
     ]
   },
   {
@@ -212,8 +211,8 @@
       "选贤与能"
     ],
     "antonyms": [
-      "怀才不遇",
-      "埋没人才"
+      "埋没人才",
+      "怀才不遇"
     ]
   },
   {
@@ -258,8 +257,7 @@
       "zh": "多指权势，对领导用时略带讽意。与“一呼百应”不同，后者多指号召力强、响应者多。"
     },
     "synonyms": [
-      "前呼后拥",
-      "一言九鼎"
+      "前呼后拥"
     ],
     "antonyms": [
       "孤立无援",
@@ -539,70 +537,6 @@
     ]
   },
   {
-    "id": "yi-xue-kui-di",
-    "text": "蚁穴溃堤",
-    "pinyin": "yǐ xué kuì dī",
-    "variants": [
-      "蝼蚁溃堤"
-    ],
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "success",
-      "chain-reactions",
-      "exam-favourites"
-    ],
-    "literal": "ant · nest · burst · dyke",
-    "natural": "ant hole, broken dyke",
-    "meaning": {
-      "en": "An ant's nest can collapse a dyke: a small flaw, if ignored, can lead to disaster.",
-      "zh": "小小的蚂蚁洞可以使堤坝崩溃，比喻小隐患不及时处理会酿成大祸。"
-    },
-    "equivalents": [
-      "a small leak sinks a great ship",
-      "a minor flaw leads to disaster"
-    ],
-    "examples": [
-      {
-        "zh": "质量隐患若不处理，终将蚁穴溃堤。",
-        "en": "If quality problems aren't handled they will eventually bring disaster."
-      },
-      {
-        "zh": "一次小违规看似无害，但蚁穴溃堤的教训不能忘。",
-        "en": "One small violation looks harmless, but we must not forget how ant holes break dykes."
-      },
-      {
-        "zh": "管理上的小漏洞，足以蚁穴溃堤。",
-        "en": "A small management loophole is enough to bring everything down."
-      }
-    ],
-    "origin": {
-      "source": "《韩非子·喻老》",
-      "story": {
-        "en": "Han Fei: 'A dyke a thousand zhang long may collapse through an ant hole' (千丈之堤，以蝼蚁之穴溃).",
-        "zh": "《韩非子·喻老》：“千丈之堤，以蝼蚁之穴溃。”"
-      },
-      "date": {
-        "zh": "战国末 · 前3世纪",
-        "en": "end of Warring States, 3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "Warning; formal. Often cited in anti-corruption and safety talks. Compare 千里之堤，溃于蚁穴 and 防微杜渐.",
-      "zh": "警示性，正式，常用于反腐、安全教育。可比“千里之堤，溃于蚁穴”“防微杜渐”。"
-    },
-    "synonyms": [
-      "防微杜渐",
-      "千里之堤，溃于蚁穴"
-    ],
-    "antonyms": [
-      "防患于未然",
-      "未雨绸缪"
-    ]
-  },
-  {
     "id": "yi-zai-yan-wai",
     "text": "意在言外",
     "pinyin": "yì zài yán wài",
@@ -612,7 +546,6 @@
     "register": "formal",
     "themes": [
       "speech",
-      "deception-and-false-appearances",
       "exam-favourites"
     ],
     "literal": "meaning · lies · words · outside",
@@ -756,14 +689,9 @@
       "zh": "中性，常见于案件报道和政治语境，用于诱使异见者暴露时则带阴险色彩。"
     },
     "synonyms": [
-      "诱敌深入",
-      "欲擒故纵",
-      "调虎离山"
+      "诱敌深入"
     ],
-    "antonyms": [
-      "打草惊蛇",
-      "按兵不动"
-    ]
+    "antonyms": []
   },
   {
     "id": "yin-ling-er-wang",
@@ -814,58 +742,8 @@
       "望眼欲穿"
     ],
     "antonyms": [
-      "漠不关心",
-      "不屑一顾"
-    ]
-  },
-  {
-    "id": "yong-lu-wu-wei",
-    "text": "庸碌无为",
-    "pinyin": "yōng lù wú wéi",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "effort",
-      "giving-up-and-weakness",
-      "exam-favourites"
-    ],
-    "literal": "mediocre · busy · no · accomplishment",
-    "natural": "live mediocrely, achieve nothing",
-    "meaning": {
-      "en": "Mediocre and busy with trivialities, achieving nothing worthwhile.",
-      "zh": "平庸忙碌，没有什么作为。"
-    },
-    "equivalents": [
-      "lead a mediocre, fruitless life",
-      "achieve nothing of note"
-    ],
-    "examples": [
-      {
-        "zh": "他不甘庸碌无为地度过一生。",
-        "en": "He refuses to spend his life achieving nothing."
-      },
-      {
-        "zh": "整天混日子，只会庸碌无为。",
-        "en": "Drifting through the days leads only to a pointless life."
-      },
-      {
-        "zh": "庸碌无为的官员必须被淘汰。",
-        "en": "Mediocre officials who accomplish nothing must be removed."
-      }
-    ],
-    "usage": {
-      "en": "Derogatory; predicate or attributive. 碌 reads lù.",
-      "zh": "贬义，多作谓语、定语，“碌”读 lù。"
-    },
-    "synonyms": [
-      "庸庸碌碌",
-      "无所作为"
-    ],
-    "antonyms": [
-      "大有作为",
-      "出类拔萃"
+      "不屑一顾",
+      "漠不关心"
     ]
   },
   {
@@ -1027,8 +905,8 @@
       "纵目远眺"
     ],
     "antonyms": [
-      "闭目塞听",
-      "郁郁寡欢"
+      "郁郁寡欢",
+      "闭目塞听"
     ]
   },
   {
@@ -1130,16 +1008,14 @@
     },
     "synonyms": [
       "缘悭一面",
-      "擦肩而过",
-      "无缘对面不相逢"
+      "擦肩而过"
     ],
     "antonyms": [
       "缘定三生",
+      "终成眷属",
       "天作之合",
       "木石前盟",
-      "终成眷属",
-      "有情人终成眷属",
-      "三生石上"
+      "有情人终成眷属"
     ]
   },
   {
@@ -1242,8 +1118,8 @@
       "初出茅庐"
     ],
     "antonyms": [
-      "老成持重",
-      "羽毛丰满"
+      "羽毛丰满",
+      "老成持重"
     ]
   }
 ]

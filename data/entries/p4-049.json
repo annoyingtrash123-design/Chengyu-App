@@ -166,63 +166,6 @@
     ]
   },
   {
-    "id": "meng-mu-ze-lin",
-    "text": "孟母择邻",
-    "pinyin": "mèng mǔ zé lín",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "parenting-and-family",
-      "confucian-classics"
-    ],
-    "literal": "Mencius' · mother · choose · neighbours",
-    "natural": "choosing a good environment for one's children",
-    "meaning": {
-      "en": "To choose a good neighbourhood for a child's upbringing, as Mencius' mother did; stressing the effect of environment on children.",
-      "zh": "孟子的母亲为了给孩子好的成长环境而搬家，比喻为子女选择良好的环境。"
-    },
-    "equivalents": [
-      "move to a better neighbourhood for the kids",
-      "a good environment shapes a child"
-    ],
-    "examples": [
-      {
-        "zh": "为了孩子上学，他们像孟母择邻一样搬到了学区房。",
-        "en": "For their child's schooling they moved into a good school district, like Mencius' mother."
-      },
-      {
-        "zh": "孟母择邻的故事提醒家长重视孩子的成长环境。",
-        "en": "The story of Mencius' mother reminds parents to care about their children's surroundings."
-      },
-      {
-        "zh": "她孟母择邻，把孩子送进书香氛围浓厚的社区。",
-        "en": "Like Mencius' mother, she put her child in a bookish neighbourhood."
-      }
-    ],
-    "origin": {
-      "source": "《列女传·母仪》",
-      "story": {
-        "en": "Mencius' mother moved three times, from near a graveyard to near a market to near a school, until the surroundings suited her son's learning.",
-        "zh": "《列女传》载孟母为教子，先后迁居墓旁、市旁，最后迁到学宫旁。"
-      },
-      "date": {
-        "zh": "西汉 · 约前18年",
-        "en": "Western Han, c. 18 BC"
-      }
-    },
-    "usage": {
-      "en": "Usually describes parents' choices; commendatory. Often written 孟母三迁 too.",
-      "zh": "多指父母为孩子选环境，含褒义；也常作“孟母三迁”。"
-    },
-    "synonyms": [
-      "孟母三迁",
-      "近朱者赤，近墨者黑"
-    ],
-    "antonyms": []
-  },
-  {
     "id": "wei-ren-zuo-jia",
     "text": "为人作嫁",
     "pinyin": "wèi rén zuò jià",
@@ -276,12 +219,13 @@
     },
     "synonyms": [
       "徒劳无功",
-      "替人做嫁衣裳",
       "火中取栗"
     ],
     "antonyms": [
-      "自食其力",
       "为己谋利"
+    ],
+    "variants": [
+      "替人做嫁衣裳"
     ]
   },
   {
@@ -385,8 +329,7 @@
       "zh": "作谓语，书面语，含褒义。“袂”读mèi，指衣袖。"
     },
     "synonyms": [
-      "挺身而出",
-      "奋起直追"
+      "挺身而出"
     ],
     "antonyms": [
       "袖手旁观",
@@ -530,8 +473,8 @@
       "zh": "作谓语，多用于书面，常指仓促而不理想的选择。"
     },
     "synonyms": [
-      "饥不择食",
-      "慌不择路"
+      "慌不择路",
+      "饥不择食"
     ],
     "antonyms": [
       "精挑细选",
@@ -582,15 +525,14 @@
       "zh": "多作定语、谓语，常用于称赞女子或晚辈，含褒义；也作“知书达礼”。"
     },
     "synonyms": [
-      "通情达理",
-      "彬彬有礼"
+      "彬彬有礼",
+      "通情达理"
     ],
     "antonyms": [
       "粗鲁无礼",
-      "不学无术",
       "蛮不讲理",
-      "厚颜无耻",
-      "不可理喻"
+      "不可理喻",
+      "不学无术"
     ]
   },
   {
@@ -639,8 +581,8 @@
       "目眦尽裂"
     ],
     "antonyms": [
-      "笑逐颜开",
-      "心平气和"
+      "心平气和",
+      "笑逐颜开"
     ]
   },
   {
@@ -797,9 +739,7 @@
     },
     "synonyms": [
       "桃李满天下",
-      "亲朋故旧",
-      "弟子三千",
-      "徒子徒孙"
+      "亲朋故旧"
     ],
     "antonyms": []
   },
@@ -843,8 +783,9 @@
       "zh": "作谓语，多用于比赛、事业中的意外失利，常带警示意味。"
     },
     "synonyms": [
-      "阴沟里翻船——没想到的事",
-      "百密一疏"
+      "百密一疏",
+      "阴沟里翻船",
+      "阴沟里翻船——没想到的事"
     ],
     "antonyms": [
       "稳操胜券",
@@ -892,8 +833,7 @@
       "zh": "名词性，多用于历史和案件叙事；新闻中也说“灭门惨案”。"
     },
     "synonyms": [
-      "杀身之祸",
-      "飞来横祸"
+      "杀身之祸"
     ],
     "antonyms": [
       "平安无事",
@@ -1038,9 +978,9 @@
       "zh": "名词性，多含褒义。"
     },
     "synonyms": [
-      "书香门第",
       "世家大族",
-      "豪门贵胄"
+      "豪门贵胄",
+      "书香门第"
     ],
     "antonyms": [
       "寒门小户",
@@ -1191,7 +1131,6 @@
       "悔不当初"
     ],
     "antonyms": [
-      "防患于未然",
       "未雨绸缪"
     ]
   },
@@ -1294,8 +1233,7 @@
       "拭目以待"
     ],
     "antonyms": [
-      "漠不关心",
-      "无动于衷"
+      "漠不关心"
     ]
   }
 ]

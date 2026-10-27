@@ -50,7 +50,7 @@
     "text": "不敢恭维",
     "pinyin": "bù gǎn gōng wéi",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -82,7 +82,6 @@
       "zh": "说话人用客气的口气表达批评，常说“实在不敢恭维”“我对……不敢恭维”。"
     },
     "synonyms": [
-      "不敢苟同",
       "不尽如人意"
     ],
     "antonyms": [
@@ -392,7 +391,7 @@
       "冤冤相报"
     ],
     "antonyms": [
-      "芦衣顺母",
+      "以德报怨",
       "宽以待人"
     ]
   },
@@ -433,7 +432,6 @@
       "zh": "多用于感叹年老体衰，口语常说“真是岁月不饶人”。"
     },
     "synonyms": [
-      "光阴似箭",
       "时间是把杀猪刀"
     ],
     "antonyms": [
@@ -482,7 +480,6 @@
       "祸不单行"
     ],
     "antonyms": [
-      "逢凶化吉",
       "化险为夷"
     ]
   },
@@ -522,8 +519,7 @@
       "zh": "赞扬人的品格，作定语、谓语。肝、胆比喻真诚和勇气。"
     },
     "synonyms": [
-      "赤胆忠心",
-      "断头将军"
+      "赤胆忠心"
     ],
     "antonyms": [
       "背信弃义",
@@ -717,67 +713,8 @@
       "山林之趣"
     ],
     "antonyms": [
-      "追名逐利",
-      "汲汲营营"
-    ]
-  },
-  {
-    "id": "zhuang-zhou-gu-pen",
-    "text": "庄周鼓盆",
-    "pinyin": "zhuāng zhōu gǔ pén",
-    "kind": "chengyu",
-    "frequency": 3,
-    "variants": [
-      "庄子鼓盆"
-    ],
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "sadness-and-despair",
-      "daoist-classics",
-      "stories"
-    ],
-    "literal": "Zhuang · Zhou · beat · basin",
-    "natural": "Zhuangzi drums on a basin",
-    "meaning": {
-      "en": "To face a spouse's death with philosophical calm, even singing; also an allusion to a wife's death.",
-      "zh": "庄子妻死，他鼓盆而歌，表示对生死的豁达；后也用作丧妻的典故。"
-    },
-    "equivalents": [
-      "accept death with equanimity"
-    ],
-    "examples": [
-      {
-        "zh": "他学庄周鼓盆，把亲人的离世看作自然的变化。",
-        "en": "Following Zhuangzi's drumming on a basin, he took his loved one's passing as a natural change."
-      },
-      {
-        "zh": "文中以庄周鼓盆，写出作者看淡生死的态度。",
-        "en": "The essay uses Zhuang Zhou drumming on the basin to show the author's calm attitude to life and death."
-      }
-    ],
-    "origin": {
-      "source": "《庄子·至乐》",
-      "story": {
-        "en": "When Zhuangzi's wife died, Hui Shi found him sitting with legs sprawled, drumming on a basin and singing, and Zhuangzi explained that death is just another change, like the turn of the seasons.",
-        "zh": "《庄子·至乐》：“庄子妻死，惠子吊之，庄子则方箕踞鼓盆而歌。”"
-      },
-      "date": {
-        "zh": "战国中期 · 前4—前3世纪",
-        "en": "mid Warring States, 4th–3rd c. BC"
-      }
-    },
-    "usage": {
-      "en": "Allusive and literary; usually in writing about attitudes to death.",
-      "zh": "典故，书面语，多用于谈生死观。"
-    },
-    "synonyms": [
-      "鼓盆而歌",
-      "达观生死"
-    ],
-    "antonyms": [
-      "痛不欲生",
-      "呼天抢地"
+      "汲汲营营",
+      "追名逐利"
     ]
   },
   {

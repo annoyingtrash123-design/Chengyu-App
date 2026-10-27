@@ -9,7 +9,6 @@
     "register": "neutral",
     "themes": [
       "corruption-and-injustice",
-      "luxury-and-extravagance",
       "exam-favourites"
     ],
     "literal": "money · can · reach · gods",
@@ -41,8 +40,10 @@
       "金钱万能"
     ],
     "antonyms": [
-      "两袖清风",
       "清正廉洁"
+    ],
+    "variants": [
+      "钱能通神"
     ]
   },
   {
@@ -87,8 +88,8 @@
       "暗中滋长"
     ],
     "antonyms": [
-      "销声匿迹",
-      "彻底根除"
+      "彻底根除",
+      "销声匿迹"
     ]
   },
   {
@@ -140,11 +141,10 @@
       "zh": "文言色彩较浓，常与同一卦中的“见龙在田”“飞龙在天”相承。是劝人等待时机，没有贬义。"
     },
     "synonyms": [
-      "韬光养晦",
-      "养精蓄锐"
+      "养精蓄锐",
+      "韬光养晦"
     ],
     "antonyms": [
-      "急功近利",
       "锋芒毕露",
       "飞龙在天"
     ]
@@ -191,8 +191,7 @@
       "吟风弄月"
     ],
     "antonyms": [
-      "废寝忘食",
-      "奋发图强"
+      "废寝忘食"
     ]
   },
   {
@@ -237,8 +236,8 @@
       "主次倒置"
     ],
     "antonyms": [
-      "相得益彰",
-      "主次分明"
+      "主次分明",
+      "相得益彰"
     ]
   },
   {
@@ -283,8 +282,8 @@
       "篡权夺位者"
     ],
     "antonyms": [
-      "开国元勋",
-      "民族英雄"
+      "民族英雄",
+      "开国元勋"
     ]
   },
   {
@@ -434,8 +433,7 @@
       "爱恨情仇"
     ],
     "antonyms": [
-      "百年好合",
-      "琴瑟和鸣"
+      "百年好合"
     ]
   },
   {
@@ -480,8 +478,8 @@
       "栩栩如生"
     ],
     "antonyms": [
-      "粗枝大叶",
-      "寥寥数笔"
+      "寥寥数笔",
+      "粗枝大叶"
     ]
   },
   {
@@ -538,7 +536,7 @@
     ],
     "antonyms": [
       "庞然大物",
-      "硕大无比"
+      "硕大无朋"
     ]
   },
   {
@@ -640,8 +638,7 @@
       "二虎竞食"
     ],
     "antonyms": [
-      "同舟共济",
-      "团结一心"
+      "同舟共济"
     ]
   },
   {
@@ -733,12 +730,10 @@
       "毫发无损"
     ],
     "antonyms": [
-      "身陷囹圄",
       "损兵折将",
-      "仅以身免",
-      "骑虎难下",
       "身首异处",
-      "片甲不留"
+      "片甲不留",
+      "身陷囹圄"
     ]
   },
   {
@@ -890,8 +885,8 @@
       "不可一世"
     ],
     "antonyms": [
-      "如履薄冰",
-      "谦虚谨慎"
+      "谦虚谨慎",
+      "如履薄冰"
     ]
   },
   {
@@ -998,6 +993,9 @@
       "团结一心",
       "众志成城",
       "一拥而上"
+    ],
+    "variants": [
+      "作鸟兽散"
     ]
   },
   {
@@ -1045,6 +1043,9 @@
     "antonyms": [
       "一目了然",
       "豁然开朗"
+    ],
+    "variants": [
+      "如坠烟海"
     ]
   },
   {
@@ -1056,10 +1057,10 @@
     "sentiment": "negative",
     "register": "literary",
     "themes": [
-      "superficial-learning",
       "attitude-humble-vs-arrogant",
       "exam-favourites",
-      "poems-prose"
+      "poems-prose",
+      "resistance-to-change"
     ],
     "literal": "enter · master · exit · slave",
     "natural": "what's in is master, what's out is slave",
@@ -1101,8 +1102,8 @@
       "门户之见"
     ],
     "antonyms": [
-      "兼容并蓄",
-      "博采众长"
+      "博采众长",
+      "兼容并蓄"
     ]
   },
   {
@@ -1114,7 +1115,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "historical-periods",
       "three-kingdoms",
       "exam-favourites",
       "poems-prose"
@@ -1173,7 +1173,9 @@
     "themes": [
       "relationships",
       "family-and-home",
-      "exam-favourites"
+      "exam-favourites",
+      "friendship",
+      "polite-humble"
     ],
     "literal": "sweep · couch · to · await",
     "natural": "sweep the bed and wait",
@@ -1201,12 +1203,14 @@
     },
     "synonyms": [
       "扫径迎宾",
-      "倒屣相迎",
-      "扫榻相迎"
+      "倒屣相迎"
     ],
     "antonyms": [
       "拒之门外",
       "杜门谢客"
+    ],
+    "variants": [
+      "扫榻相迎"
     ]
   },
   {
@@ -1251,7 +1255,6 @@
       "去粗取精"
     ],
     "antonyms": [
-      "滥竽充数",
       "鱼目混珠"
     ]
   }

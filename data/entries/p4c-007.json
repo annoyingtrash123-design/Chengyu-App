@@ -90,12 +90,10 @@
     },
     "synonyms": [
       "一丘之貉",
-      "沆瀣一气"
+      "沆瀣一气",
+      "志同道合"
     ],
-    "antonyms": [
-      "志同道合",
-      "同心同德"
-    ]
+    "antonyms": []
   },
   {
     "id": "ma-bu-jie-an",
@@ -178,8 +176,8 @@
         "en": "In the story, Zhu Maichen's wife begged to reconcile but he spilled water before the horse."
       },
       {
-        "zh": "话已出口，如同马前泼水，收不回来了。",
-        "en": "Words once spoken are like water spilled; they cannot be taken back."
+        "zh": "他们早已马前泼水，再无复合的可能。",
+        "en": "They have long since parted for good; there is no chance of reconciliation."
       }
     ],
     "usage": {
@@ -187,19 +185,18 @@
       "zh": "典出朱买臣的故事：其妻嫌他贫穷离去，后来他做官，妻子求复合，他把水泼在马前，让她收回。与更常用的“覆水难收”相近。"
     },
     "synonyms": [
-      "覆水难收",
       "一刀两断"
     ],
     "antonyms": [
-      "破镜重圆",
-      "和好如初"
+      "和好如初",
+      "破镜重圆"
     ]
   },
   {
     "id": "ma-shou-mao-chang",
     "text": "马瘦毛长",
     "pinyin": "mǎ shòu máo cháng",
-    "kind": "chengyu",
+    "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
@@ -235,12 +232,8 @@
       "en": "Normally quoted as the proverb 马瘦毛长，人贫志短. Often quoted to be refuted, as encouragement to keep one's self-respect. Colloquial.",
       "zh": "常作俗语“马瘦毛长，人贫志短”引用，多用来劝人穷也要有志气。"
     },
-    "synonyms": [
-      "人穷志短",
-      "穷困潦倒"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "穷且益坚",
       "志存高远"
     ]
   },
@@ -289,7 +282,6 @@
       "下笔成章"
     ],
     "antonyms": [
-      "江郎才尽",
       "才思枯竭"
     ]
   },
@@ -334,12 +326,11 @@
       "zh": "谦辞，只用于自己，不用于别人。马的年龄可从牙齿看出，故“马齿”指年龄。书面语。"
     },
     "synonyms": [
-      "虚度年华",
-      "一事无成"
+      "虚度年华"
     ],
     "antonyms": [
-      "功成名就",
-      "大有作为"
+      "大有作为",
+      "功成名就"
     ]
   },
   {
@@ -445,7 +436,6 @@
     },
     "synonyms": [
       "乌鸦反哺",
-      "结草衔环",
       "慈乌反哺"
     ],
     "antonyms": [
@@ -633,7 +623,6 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "bad-company-and-betrayal",
       "conduct",
       "historical-records"
     ],
@@ -678,7 +667,7 @@
     },
     "synonyms": [
       "各为其主",
-      "忠心耿耿"
+      "桀犬吠尧"
     ],
     "antonyms": [
       "背主求荣",
@@ -726,8 +715,7 @@
       "zh": "语气极重的斥责，“彘”读 zhì，指猪。"
     },
     "synonyms": [
-      "卑鄙无耻",
-      "人面兽心"
+      "卑鄙无耻"
     ],
     "antonyms": [
       "品德高尚",
@@ -896,7 +884,6 @@
       "红装素裹"
     ],
     "antonyms": [
-      "颠倒黑白",
       "漆黑一片"
     ]
   },
@@ -944,8 +931,8 @@
       "唇红齿白"
     ],
     "antonyms": [
-      "獐头鼠目",
-      "面目可憎"
+      "面目可憎",
+      "獐头鼠目"
     ]
   },
   {
@@ -1062,12 +1049,12 @@
       "zh": "常与“瓦釜雷鸣”连用，慨叹贤才被弃、庸人得志。"
     },
     "synonyms": [
-      "怀才不遇",
-      "明珠暗投"
+      "明珠暗投",
+      "怀才不遇"
     ],
     "antonyms": [
-      "任人唯贤",
-      "知人善任"
+      "知人善任",
+      "任人唯贤"
     ]
   }
 ]

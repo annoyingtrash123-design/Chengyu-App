@@ -82,12 +82,9 @@
       "zh": "营销中常有人反说“酒香也怕巷子深”。"
     },
     "synonyms": [
-      "货真价实",
       "皇帝女儿不愁嫁"
     ],
-    "antonyms": [
-      "徒有虚名"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-jin-zi-zong-hui-fa-guang-de",
@@ -135,7 +132,7 @@
       "真金不怕火炼"
     ],
     "antonyms": [
-      "名不副实"
+      "怀才不遇"
     ]
   },
   {
@@ -214,65 +211,17 @@
       "en": "Sometimes used jokingly to excuse flattery or gifts.",
       "zh": "有时也半开玩笑地用于送礼奉承。"
     },
-    "synonyms": [
-      "彬彬有礼"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
-    "id": "yi-ya-huan-ya-yi-yan-huan-yan",
-    "text": "以牙还牙，以眼还眼",
-    "pinyin": "yǐ yá huán yá, yǐ yǎn huán yǎn",
-    "variants": [
-      "以眼还眼，以牙还牙"
-    ],
-    "kind": "suyu",
-    "frequency": 2,
-    "modern": "borrowed",
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "revenge-and-retribution",
-      "conflict-and-strife"
-    ],
-    "literal": "with · tooth · repay · tooth, with · eye · repay · eye",
-    "natural": "a tooth for a tooth, an eye for an eye",
-    "meaning": {
-      "en": "To retaliate in kind for the harm done to you.",
-      "zh": "对方怎样伤害自己，就怎样回击对方。"
-    },
-    "equivalents": [
-      "an eye for an eye",
-      "tit for tat"
-    ],
-    "examples": [
-      {
-        "zh": "以牙还牙，以眼还眼只会让冲突升级。",
-        "en": "An eye for an eye only escalates the conflict."
-      },
-      {
-        "zh": "他认定以牙还牙，以眼还眼，非要报复不可。",
-        "en": "He was determined to give as good as he got and take revenge."
-      }
-    ],
-    "usage": {
-      "en": "Neutral to negative; often shortened to 以牙还牙. Linked to the ancient Near-Eastern law of retaliation.",
-      "zh": "可贬可中，常简说“以牙还牙”。"
-    },
-    "synonyms": [
-      "以牙还牙",
-      "针锋相对"
-    ],
-    "antonyms": [
-      "以德报怨"
-    ]
-  },
-  {
     "id": "ge-ren-zi-sao-men-qian",
-    "text": "各人自扫门前雪，莫管他人瓦上霜",
-    "pinyin": "gè rén zì sǎo mén qián xuě, mò guǎn tā rén wǎ shàng shuāng",
+    "text": "各人自扫门前雪，莫管他家瓦上霜",
+    "pinyin": "gè rén zì sǎo mén qián xuě, mò guǎn tā jiā wǎ shàng shuāng",
     "variants": [
-      "各人自扫门前雪，莫管他家瓦上霜"
+      "各人自扫门前雪，莫管他人瓦上霜",
+      "各人自扫门前雪",
+      "自扫门前雪"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -280,9 +229,11 @@
     "register": "casual",
     "themes": [
       "negative-character-flaws",
-      "solitude-and-isolation"
+      "solitude-and-isolation",
+      "inappropriate-behavior",
+      "rural-wisdom"
     ],
-    "literal": "each · person · himself · sweep · door · front · snow, don't · mind · others · tile · on · frost",
+    "literal": "each · person · self · sweep · door · front · snow, don't · mind · other · household · tile · on · frost",
     "natural": "sweep your own doorstep, ignore frost on others' roofs",
     "meaning": {
       "en": "Mind your own business and ignore other people's troubles.",
@@ -308,12 +259,17 @@
     },
     "synonyms": [
       "明哲保身",
-      "事不关己"
+      "事不关己",
+      "独善其身"
     ],
     "antonyms": [
       "助人为乐",
-      "见义勇为"
-    ]
+      "见义勇为",
+      "修身齐家治国平天下"
+    ],
+    "variant_kinds": {
+      "各人自扫门前雪": "short"
+    }
   },
   {
     "id": "shuo-cao-cao-cao-cao-dao",
@@ -444,11 +400,9 @@
       "zh": "劝人亲自核实。"
     },
     "synonyms": [
-      "百闻不如一见",
-      "眼见为实"
+      "百闻不如一见"
     ],
     "antonyms": [
-      "道听途说",
       "贵耳贱目"
     ]
   },
@@ -623,7 +577,9 @@
       "en": "Mocks show-offs; casual, sometimes sarcastic.",
       "zh": "嘲讽爱卖弄的人，口语，略带讽刺。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "一知半解"
+    ],
     "antonyms": [
       "虚怀若谷",
       "大智若愚"
@@ -877,12 +833,8 @@
       "en": "Often rueful or scolding; may be disputed by the young.",
       "zh": "多带懊悔或责备，年轻人未必认同。"
     },
-    "synonyms": [
-      "姜还是老的辣"
-    ],
-    "antonyms": [
-      "自以为是"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "bu-zheng-man-tou-zheng-kou-qi",
@@ -1054,9 +1006,7 @@
       "en": "Quoted from martial-arts fiction; a weary sigh at work or society.",
       "zh": "武侠小说里常见，用于感叹工作或社会。"
     },
-    "synonyms": [
-      "身不由己"
-    ],
+    "synonyms": [],
     "antonyms": [
       "随心所欲"
     ]

@@ -13,7 +13,7 @@
     "register": "casual",
     "themes": [
       "conduct",
-      "fairness-and-impartiality"
+      "unity-and-cooperation"
     ],
     "literal": "railway · police — each · manage · one · section",
     "natural": "Railway police each patrol their own stretch",
@@ -65,7 +65,7 @@
     "register": "casual",
     "themes": [
       "high-aspirations",
-      "laziness-and-giving-up"
+      "effort"
     ],
     "literal": "iron · pestle · grind · embroidery needle — not · one · day · 's · effort",
     "natural": "Grinding an iron pestle into a needle takes time",
@@ -96,57 +96,8 @@
       "水滴石穿"
     ],
     "antonyms": [
-      "一曝十寒",
-      "半途而废"
-    ]
-  },
-  {
-    "id": "tiao-xia-huang-he-xi-bu-qing",
-    "text": "跳下黄河——洗不清",
-    "pinyin": "tiào xià huáng hé —— xǐ bù qīng",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "跳下黄河",
-      "洗不清"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "mistakes-and-correction",
-      "danger"
-    ],
-    "literal": "jump · into · Yellow River — wash · not · clean",
-    "natural": "Jump into the Yellow River and still not wash clean",
-    "meaning": {
-      "en": "Unable to clear one's name, however much one tries.",
-      "zh": "黄河水浑，跳进去也洗不干净，比喻无法证明自己清白。"
-    },
-    "equivalents": [
-      "can't clear one's name",
-      "stuck with the blame"
-    ],
-    "examples": [
-      {
-        "zh": "这件事他跳下黄河都洗不清。",
-        "en": "He couldn't clear his name even if he tried."
-      },
-      {
-        "zh": "跳下黄河——洗不清，大家都认定是他干的。",
-        "en": "Everyone is convinced he did it, and there's no way to prove otherwise."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. The phrase is often 跳进黄河也洗不清.",
-      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。常说“跳进黄河也洗不清”。"
-    },
-    "synonyms": [
-      "百口莫辩",
-      "有口难辩"
-    ],
-    "antonyms": [
-      "清清白白",
-      "真相大白"
+      "半途而废",
+      "一曝十寒"
     ]
   },
   {
@@ -239,13 +190,9 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句“一物降一物”也可单独成语。"
     },
     "synonyms": [
-      "一物降一物",
       "相生相克"
     ],
-    "antonyms": [
-      "所向无敌",
-      "天下无敌"
-    ]
+    "antonyms": []
   },
   {
     "id": "sheng-mi-zhu-cheng-le-shu",
@@ -295,8 +242,8 @@
       "覆水难收"
     ],
     "antonyms": [
-      "亡羊补牢",
-      "可以重来"
+      "可以重来",
+      "亡羊补牢"
     ]
   },
   {
@@ -340,8 +287,8 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。也可指过河拆桥。"
     },
     "synonyms": [
-      "过河拆桥",
-      "断其后路"
+      "断其后路",
+      "过河拆桥"
     ],
     "antonyms": [
       "留有余地",
@@ -392,12 +339,11 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。也作“砂锅里捣蒜”，“一锤子买卖”常单用。"
     },
     "synonyms": [
-      "一锤子买卖",
       "杀鸡取卵"
     ],
     "antonyms": [
-      "细水长流",
-      "长期合作"
+      "长期合作",
+      "细水长流"
     ]
   },
   {
@@ -543,7 +489,6 @@
       "适得其反"
     ],
     "antonyms": [
-      "投其所好",
       "正中下怀"
     ]
   },
@@ -591,7 +536,6 @@
       "不可招惹"
     ],
     "antonyms": [
-      "无所顾忌",
       "轻而易举"
     ]
   },
@@ -636,61 +580,11 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。“乐不思蜀”本身是成语，出自三国故事。"
     },
     "synonyms": [
-      "乐不思蜀",
       "数典忘祖"
     ],
     "antonyms": [
       "饮水思源",
       "不忘初心"
-    ]
-  },
-  {
-    "id": "lai-li-tou-cheng-san-wu-fa-wu-tian",
-    "text": "癞痢头撑伞——无法（发）无天",
-    "pinyin": "lài lì tóu chēng sǎn —— wú fǎ (fà) wú tiān",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "癞痢头撑伞",
-      "无法（发）无天"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "negative-character-flaws"
-    ],
-    "literal": "scabby head · hold · umbrella — no · law (hair) · no · sky",
-    "natural": "A bald man with an umbrella: no hair, no sky",
-    "meaning": {
-      "en": "Lawless and wild. Pun: 发 (fà, hair) and 法 (fǎ, law).",
-      "zh": "癞痢头没头发，撑伞又遮天，谐音“无法（发）无天”，比喻肆无忌惮、不守法纪。"
-    },
-    "equivalents": [
-      "a law unto oneself",
-      "lawless"
-    ],
-    "examples": [
-      {
-        "zh": "他癞痢头撑伞，无法无天，什么都敢干。",
-        "en": "He's lawless and dares to do anything."
-      },
-      {
-        "zh": "这帮人癞痢头撑伞——无法（发）无天。",
-        "en": "The gang flouts all rules."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. Pun: 发 (hair) and 法 (law) sound alike; 无法无天 is a four-character chengyu.",
-      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。谐音双关：“发”与“法”近音。"
-    },
-    "synonyms": [
-      "无法无天",
-      "肆无忌惮"
-    ],
-    "antonyms": [
-      "遵纪守法",
-      "循规蹈矩"
     ]
   },
   {
@@ -738,8 +632,7 @@
       "多管闲事"
     ],
     "antonyms": [
-      "置身事外",
-      "漠不关心"
+      "置身事外"
     ]
   },
   {
@@ -783,8 +676,8 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句“求之不得”本身是成语。"
     },
     "synonyms": [
-      "正中下怀",
-      "求之不得"
+      "求之不得",
+      "正中下怀"
     ],
     "antonyms": [
       "避之唯恐不及",
@@ -832,12 +725,10 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。常用作警告。"
     },
     "synonyms": [
-      "不识抬举",
-      "自讨苦吃"
+      "自讨苦吃",
+      "不识抬举"
     ],
-    "antonyms": [
-      "见好就收"
-    ]
+    "antonyms": []
   },
   {
     "id": "jiao-zi-tuo-pi-lu-le-xian",
@@ -929,11 +820,9 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。也说“急惊风遇着慢郎中”。"
     },
     "synonyms": [
-      "心急如焚",
-      "火烧眉毛"
+      "心急如焚"
     ],
     "antonyms": [
-      "慢条斯理",
       "从容不迫"
     ]
   }

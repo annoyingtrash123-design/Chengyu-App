@@ -1,54 +1,5 @@
 [
   {
-    "id": "qian-men-ju-hu",
-    "text": "前门拒虎",
-    "pinyin": "qián mén jù hǔ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "danger",
-      "unintended-results"
-    ],
-    "literal": "front · door · resist · tiger",
-    "natural": "keep the tiger out of the front door",
-    "meaning": {
-      "en": "Beating off one danger only to be hit by another; usually quoted as 前门拒虎，后门进狼.",
-      "zh": "前门挡住了老虎，后门又进来了狼，比喻刚排除一种祸患，又来了另一种祸患。"
-    },
-    "equivalents": [
-      "out of the frying pan into the fire",
-      "one danger after another"
-    ],
-    "examples": [
-      {
-        "zh": "刚解决了资金问题，又遇上了人才流失，真是前门拒虎，后门进狼。",
-        "en": "He had just solved the funding problem when staff began to leave: one danger after another."
-      },
-      {
-        "zh": "治理了空气污染，却带来了噪音，这简直是前门拒虎，后门进狼。",
-        "en": "Cleaning up the air pollution brought noise instead, as if driving the tiger out the front only to let the wolf in at the back."
-      },
-      {
-        "zh": "别以为赶走一个对手就安全了，小心前门拒虎。",
-        "en": "Do not think that getting rid of one rival makes you safe; be careful of the next threat."
-      }
-    ],
-    "usage": {
-      "en": "Nearly always paired with the second half 后门进狼. Warns that solving one problem may let another in. Negative. Predicate or standalone comment.",
-      "zh": "常与下句“后门进狼”连用，提醒一难未平一难又起，含贬义。"
-    },
-    "synonyms": [
-      "前虎后狼",
-      "祸不单行"
-    ],
-    "antonyms": [
-      "高枕无忧",
-      "化险为夷"
-    ]
-  },
-  {
     "id": "ji-pi-he-fa",
     "text": "鸡皮鹤发",
     "pinyin": "jī pí hè fà",
@@ -142,7 +93,7 @@
       "东奔西突"
     ],
     "antonyms": [
-      "秩序井然",
+      "井然有序",
       "井井有条"
     ]
   },
@@ -200,11 +151,9 @@
     },
     "synonyms": [
       "鸡虫得失",
-      "螺蛳壳里做道场",
       "蛮触之争"
     ],
     "antonyms": [
-      "大动干戈",
       "惊天动地"
     ]
   },
@@ -240,8 +189,8 @@
         "en": "We must guard against regulators colluding with the firms they supervise."
       },
       {
-        "zh": "故事里猫鼠同眠的情景很滑稽，可现实中的猫鼠同眠就令人愤怒了。",
-        "en": "The cat and mouse sleeping together is funny in a story, but real collusion is infuriating."
+        "zh": "检察机关严查执法人员与不法商贩猫鼠同眠的行为。",
+        "en": "Prosecutors are cracking down on law-enforcement officers colluding with unscrupulous traders."
       }
     ],
     "usage": {
@@ -250,7 +199,8 @@
     },
     "synonyms": [
       "官官相护",
-      "监守自盗"
+      "沆瀣一气",
+      "同流合污"
     ],
     "antonyms": [
       "执法如山",
@@ -269,8 +219,8 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "excellent-acting",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "poems-prose"
     ],
     "literal": "dragon · roar · tiger · howl",
     "natural": "dragons chant and tigers roar",
@@ -480,6 +430,7 @@
     "themes": [
       "anger",
       "leadership-and-authority",
+      "historical-records",
       "qing-dynasty"
     ],
     "literal": "dragon · face · greatly · angry",
@@ -515,8 +466,8 @@
       "雷霆大发"
     ],
     "antonyms": [
-      "喜笑颜开",
-      "笑逐颜开"
+      "笑逐颜开",
+      "喜笑颜开"
     ]
   },
   {
@@ -566,6 +517,9 @@
     "antonyms": [
       "平民百姓",
       "布衣百姓"
+    ],
+    "variants": [
+      "龙子凤孙"
     ]
   },
   {
@@ -613,7 +567,7 @@
     ],
     "antonyms": [
       "庸碌无能",
-      "朽木难雕"
+      "朽木不可雕"
     ]
   },
   {
@@ -661,7 +615,6 @@
       "气宇轩昂"
     ],
     "antonyms": [
-      "畏首畏尾",
       "胆小如鼠"
     ]
   },
@@ -770,7 +723,6 @@
       "叱咤风云"
     ],
     "antonyms": [
-      "默默无闻",
       "无声无息"
     ]
   },
@@ -815,8 +767,7 @@
       "zh": "多含贬义，指凶残的军队；有时也指战斗力强的军队，需看语境。"
     },
     "synonyms": [
-      "如狼似虎",
-      "凶神恶煞"
+      "如狼似虎"
     ],
     "antonyms": [
       "仁义之师",
@@ -894,7 +845,7 @@
     "register": "literary",
     "themes": [
       "useful-tools-and-skill",
-      "poor-planning-and-hasty-decisions"
+      "efficiency"
     ],
     "literal": "ox · cauldron · cook · chicken",
     "natural": "cooking a chicken in an ox cauldron",
@@ -916,8 +867,8 @@
         "en": "Someone of your ability in a minor post is a waste."
       },
       {
-        "zh": "用大型机器做这点小活，太牛鼎烹鸡了。",
-        "en": "Using such a huge machine for this tiny job is overkill."
+        "zh": "用大型机器做这点小活，简直是牛鼎烹鸡。",
+        "en": "Using a huge machine for such a small job is sheer overkill."
       }
     ],
     "usage": {
@@ -991,8 +942,8 @@
       "不弃微末"
     ],
     "antonyms": [
-      "价值连城",
-      "稀世珍宝"
+      "稀世珍宝",
+      "价值连城"
     ]
   },
   {
@@ -1053,7 +1004,6 @@
       "手不释卷"
     ],
     "antonyms": [
-      "不学无术",
       "荒废学业"
     ]
   },
@@ -1160,11 +1110,11 @@
     },
     "synonyms": [
       "贫病交加",
-      "相濡以沫"
+      "贫贱夫妻"
     ],
     "antonyms": [
-      "锦衣玉食",
-      "安居乐业"
+      "安居乐业",
+      "锦衣玉食"
     ]
   }
 ]

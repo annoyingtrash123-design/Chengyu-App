@@ -8,7 +8,6 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "exact-vs-approximate",
       "time-management"
     ],
     "literal": "no · day · no · it",
@@ -40,8 +39,7 @@
       "zh": "多作谓语，多用于书面语。"
     },
     "synonyms": [
-      "殆无虚日",
-      "层出不穷"
+      "殆无虚日"
     ],
     "antonyms": [
       "绝无仅有",
@@ -153,71 +151,7 @@
       "七尺之躯",
       "堂堂男子汉"
     ],
-    "antonyms": [
-      "弱不禁风",
-      "手无缚鸡之力"
-    ]
-  },
-  {
-    "id": "qi-ruo-bi-lu",
-    "text": "弃若敝履",
-    "pinyin": "qì ruò bì lǚ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "inappropriate-behavior",
-      "attitude-humble-vs-arrogant",
-      "confucian-classics"
-    ],
-    "literal": "discard · like · worn-out · shoe",
-    "natural": "throw away like a worn-out shoe",
-    "meaning": {
-      "en": "To cast something aside without regret, treating it as worthless.",
-      "zh": "像扔掉破鞋一样毫不可惜地抛弃，形容对事物毫不珍惜。"
-    },
-    "equivalents": [
-      "cast aside like an old shoe",
-      "throw away like trash"
-    ],
-    "examples": [
-      {
-        "zh": "他把多年的友情弃若敝履。",
-        "en": "He threw away years of friendship like an old shoe."
-      },
-      {
-        "zh": "这些传统技艺不能被弃若敝履。",
-        "en": "These traditional skills must not be tossed aside as worthless."
-      },
-      {
-        "zh": "她对名利弃若敝履，一心做研究。",
-        "en": "She cares nothing for fame and gain and devotes herself to research."
-      }
-    ],
-    "origin": {
-      "source": "《孟子·尽心上》",
-      "story": {
-        "en": "Mencius said Shun would have thrown away the whole empire 'like a worn-out sandal' (弃天下犹弃敝蹝也) if it meant caring for his father.",
-        "zh": "《孟子·尽心上》：“舜视弃天下犹弃敝蹝也。”"
-      },
-      "date": {
-        "zh": "战国中期 · 前4世纪",
-        "en": "mid Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Predicate; 敝履 is a worn-out shoe. Can be critical or admiring, depending on what is discarded.",
-      "zh": "多作谓语。可贬可褒，视所弃之物而定。"
-    },
-    "synonyms": [
-      "弃如敝屣",
-      "不屑一顾"
-    ],
-    "antonyms": [
-      "视若珍宝",
-      "爱不释手"
-    ]
+    "antonyms": []
   },
   {
     "id": "kong-kou-shuo-bai-hua",
@@ -264,8 +198,7 @@
       "纸上谈兵"
     ],
     "antonyms": [
-      "言出必行",
-      "真凭实据"
+      "言出必行"
     ]
   },
   {
@@ -362,59 +295,7 @@
       "老当益壮"
     ],
     "antonyms": [
-      "廉颇老矣",
       "老态龙钟"
-    ]
-  },
-  {
-    "id": "tou-xuan-liang-zhui-ci-gu",
-    "text": "头悬梁，锥刺股",
-    "pinyin": "tóu xuán liáng, zhuī cì gǔ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "reading-and-study",
-      "high-aspirations",
-      "academic-achievement"
-    ],
-    "literal": "head · hang · beam, awl · stab · thigh",
-    "natural": "tie one's hair to the beam, prick one's thigh with an awl",
-    "meaning": {
-      "en": "To study with extreme diligence, even using pain to stay awake.",
-      "zh": "形容刻苦学习：用绳子把头发系在房梁上、用锥子扎大腿来驱赶睡意。"
-    },
-    "equivalents": [
-      "burn the midnight oil",
-      "hit the books night and day"
-    ],
-    "examples": [
-      {
-        "zh": "为了高考，他头悬梁，锥刺股，每晚学到凌晨。",
-        "en": "For the college entrance exam he studied like a man possessed, working until dawn every night."
-      },
-      {
-        "zh": "头悬梁，锥刺股的精神值得学习，但也要注意休息。",
-        "en": "The spirit of studying with such devotion is admirable, but one should also rest."
-      },
-      {
-        "zh": "古人头悬梁，锥刺股，今天的学生靠的是咖啡。",
-        "en": "The ancients tied their hair to beams and stabbed their thighs; today's students rely on coffee."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; combines two stories (孙敬's hair tied to the beam, 苏秦's awl). Often used half jokingly of exam cramming.",
-      "zh": "多作谓语、定语。合并了孙敬悬梁和苏秦刺股两个典故，今天常带调侃用来形容考前苦读。"
-    },
-    "synonyms": [
-      "悬梁刺股",
-      "废寝忘食",
-      "书山有路勤为径，学海无涯苦作舟"
-    ],
-    "antonyms": [
-      "不学无术",
-      "游手好闲"
     ]
   },
   {
@@ -458,8 +339,7 @@
       "zh": "可作分句或整句，常用于单位、学校、部队，有时带有对人员流动频繁的感叹。"
     },
     "synonyms": [
-      "铁打的衙门，流水的官",
-      "人来人往"
+      "铁打的衙门，流水的官"
     ],
     "antonyms": [
       "一成不变",
@@ -556,10 +436,7 @@
       "en": "Usually a standalone saying. Adapted from the English proverb (Carlyle's 'Speech is silver, silence is golden'). It is often countered by 会哭的孩子有奶吃.",
       "zh": "多单独成句。源自西方谚语（卡莱尔“说话是银，沉默是金”）。常与“会哭的孩子有奶吃”对照。"
     },
-    "synonyms": [
-      "祸从口出",
-      "守口如瓶"
-    ],
+    "synonyms": [],
     "antonyms": [
       "会哭的孩子有奶吃",
       "口无遮拦"
@@ -610,8 +487,8 @@
       "忠厚无用"
     ],
     "antonyms": [
-      "会哭的孩子有奶吃",
-      "吉人天相"
+      "吉人天相",
+      "会哭的孩子有奶吃"
     ]
   },
   {
@@ -703,7 +580,6 @@
       "zh": "多作谓语，书面语，常指土地集中在富人手中。"
     },
     "synonyms": [
-      "阡陌交通",
       "良田千顷"
     ],
     "antonyms": [

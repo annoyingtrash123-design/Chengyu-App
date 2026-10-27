@@ -47,10 +47,11 @@
       "en": "A philosophical term, mostly met in history and politics lessons. It reverses the older saying 知易行难 ('knowing is easy, doing is hard'), which is the everyday view. Formal.",
       "zh": "哲学术语，多见于历史、政治课。与传统说法“知易行难”正好相反，后者才是日常的看法。正式。"
     },
-    "synonyms": [
-      "知行合一"
-    ],
-    "antonyms": []
+    "synonyms": [],
+    "antonyms": [
+      "知行合一",
+      "知易行难"
+    ]
   },
   {
     "id": "da-dao-lie-qiang-chu-jun-fa",
@@ -137,7 +138,7 @@
       }
     },
     "usage": {
-      "en": "A formal, positive slogan, often used in May Day and school-education contexts. Often written as 劳工神圣 in older texts and 劳动神圣 in modern ones.",
+      "en": "A formal, positive slogan, often used in May Day and school-education contexts. Older texts have 劳工神圣; modern usage often has 劳动神圣.",
       "zh": "正式、褒义的口号，常见于五一节和学校教育。旧文献多作“劳工神圣”，今天也常说“劳动神圣”。"
     },
     "synonyms": [
@@ -145,6 +146,9 @@
     ],
     "antonyms": [
       "好逸恶劳"
+    ],
+    "variants": [
+      "劳动神圣"
     ]
   },
   {
@@ -252,7 +256,7 @@
     "id": "kang-zhan-dao-di",
     "text": "抗战到底",
     "pinyin": "kàng zhàn dào dǐ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",
     "register": "formal",
@@ -343,12 +347,9 @@
       "zh": "新闻和演讲中的常用语。与1937年7月17日蒋介石庐山谈话有关，谈话称“牺牲未到最后关头，决不轻言牺牲”。中性，正式。"
     },
     "synonyms": [
-      "紧要关头",
-      "生死关头"
+      "紧要关头"
     ],
-    "antonyms": [
-      "无关紧要"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-jiang-sheng-yong-zhui-qiong",
@@ -400,7 +401,6 @@
       "zh": "用来鼓励乘胜彻底完成任务。“霸王”指项羽，他曾放走刘邦。书面语，褒义。"
     },
     "synonyms": [
-      "乘胜追击",
       "除恶务尽"
     ],
     "antonyms": [
@@ -458,12 +458,11 @@
       "zh": "后半“只争朝夕”已是常用成语，另有词条。全句常见于强调紧迫感的讲话和标语。褒义，书面语。"
     },
     "synonyms": [
-      "分秒必争",
-      "时不我待"
+      "时不我待",
+      "分秒必争"
     ],
     "antonyms": [
-      "慢条斯理",
-      "得过且过"
+      "慢条斯理"
     ]
   },
   {
@@ -519,9 +518,7 @@
       "功成不居",
       "甘为人梯"
     ],
-    "antonyms": [
-      "争名夺利"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-shi-xuan-ya-bai-zhang",
@@ -573,7 +570,6 @@
       "zh": "用来赞美逆境中不屈不挠的精神。一丈约三米，“百丈”形容极厚。褒义，书面语。"
     },
     "synonyms": [
-      "傲霜斗雪",
       "逆境求生"
     ],
     "antonyms": [
@@ -629,13 +625,8 @@
       "en": "The shorter 蚍蜉撼树 is a separate entry; this is the full line, which adds 'how could it be easy'. Mao's poem uses it to mock hostile forces; today it is quoted ironically about attempts against the odds. Literary.",
       "zh": "较短的“蚍蜉撼树”另有词条，此为全句，多出“谈何易”。毛泽东原诗用来讥讽敌对势力，今天多反讽以弱敌强的尝试。书面语。"
     },
-    "synonyms": [
-      "螳臂当车",
-      "以卵击石"
-    ],
-    "antonyms": [
-      "势如破竹"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "yi-chang-xiong-ji-tian-xia-bai",
@@ -786,9 +777,7 @@
       "en": "A set phrase tied to the founding of the People's Republic in 1949, when Mao Zedong spoke of the Chinese people having 'stood up' (the best-known formulation in English is 'the Chinese people have stood up'). It is often followed by 富起来 and 强起来 in later official speeches. Formal. The exact wording of the shorthand varies, so no origin is given.",
       "zh": "与1949年新中国成立相关的常用说法，毛泽东当时讲到中国人民“站起来了”。后来官方讲话中常与“富起来”“强起来”连用。正式。简称的措辞不一，故不标出处。"
     },
-    "synonyms": [
-      "扬眉吐气"
-    ],
+    "synonyms": [],
     "antonyms": [
       "任人宰割"
     ]
@@ -874,9 +863,7 @@
       "en": "Attributed to Mao Zedong and publicised in the early 1970s, during tension with the Soviet Union. Today a historical reference, found on old walls and in museums. Formal.",
       "zh": "据称出自毛泽东，1970年代初中苏关系紧张时广泛宣传。今天多作历史引用，见于老墙标语和博物馆。正式。"
     },
-    "synonyms": [
-      "未雨绸缪"
-    ],
+    "synonyms": [],
     "antonyms": [
       "麻痹大意"
     ]
@@ -919,9 +906,7 @@
       "zh": "文化大革命时期（约1967年起）的口号，旨在对抗运动对生产的冲击。今天多作历史引用。正式，政治用语。"
     },
     "synonyms": [],
-    "antonyms": [
-      "本末倒置"
-    ]
+    "antonyms": []
   },
   {
     "id": "bei-zhan-bei-huang-wei-ren-min",
@@ -961,7 +946,6 @@
       "zh": "与毛泽东1960年代中期的号召及内地三线建设相关。今天多作历史引用。正式。"
     },
     "synonyms": [
-      "未雨绸缪",
       "居安思危"
     ],
     "antonyms": [
@@ -1149,9 +1133,7 @@
       "弱肉强食",
       "弱国无外交"
     ],
-    "antonyms": [
-      "后来居上"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-jian-jiu-shi-jin-qian",
@@ -1203,10 +1185,7 @@
       "en": "Associated with the Shekou Industrial Zone in Shenzhen in the early 1980s, where it was displayed on a large sign and became a symbol of reform-era speed. Used in business and news. Positive, formal.",
       "zh": "与1980年代初深圳蛇口工业区有关，当时立有大幅标语，成为改革开放时代效率的象征。用于商业和新闻。褒义，正式。"
     },
-    "synonyms": [
-      "分秒必争",
-      "争分夺秒"
-    ],
+    "synonyms": [],
     "antonyms": [
       "拖拖拉拉",
       "浪费时间"

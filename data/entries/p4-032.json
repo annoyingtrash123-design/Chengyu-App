@@ -96,9 +96,7 @@
       "赴汤蹈火",
       "龙潭虎穴"
     ],
-    "antonyms": [
-      "安然无恙"
-    ]
+    "antonyms": []
   },
   {
     "id": "xiao-feng-can-yue",
@@ -155,12 +153,10 @@
       "zh": "文学意象，多写离别；因柳永的词句而著名。"
     },
     "synonyms": [
-      "残月晓星",
-      "月落乌啼"
+      "残月晓星"
     ],
     "antonyms": [
-      "艳阳高照",
-      "灯火辉煌"
+      "艳阳高照"
     ]
   },
   {
@@ -269,8 +265,7 @@
     },
     "synonyms": [
       "吃喝嫖赌",
-      "声色犬马",
-      "醇酒美人"
+      "声色犬马"
     ],
     "antonyms": [
       "清心寡欲",
@@ -322,9 +317,7 @@
       "神兵天降"
     ],
     "antonyms": [
-      "孤军奋战",
-      "势单力薄",
-      "黑白无常"
+      "势单力薄"
     ]
   },
   {
@@ -493,7 +486,8 @@
     "text": "流芳千古",
     "pinyin": "liú fāng qiān gǔ",
     "variants": [
-      "千古流芳"
+      "千古流芳",
+      "万古流芳"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -533,10 +527,11 @@
     },
     "synonyms": [
       "名垂青史",
-      "万古流芳"
+      "流芳百世"
     ],
     "antonyms": [
       "遗臭万年",
+      "默默无闻",
       "身败名裂"
     ]
   },
@@ -581,8 +576,7 @@
       "zh": "多用于自嘲或轻微调侃，常在“虽然觉得无聊”之后使用。"
     },
     "synonyms": [
-      "随波逐流",
-      "入乡随俗"
+      "随波逐流"
     ],
     "antonyms": [
       "超凡脱俗",
@@ -598,7 +592,7 @@
     ],
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "formal",
     "themes": [
       "fortune",
@@ -688,8 +682,7 @@
     "synonyms": [
       "徒劳无功",
       "白忙一场",
-      "徒劳无益",
-      "孙悟空跳不出如来佛的手心——枉费心机"
+      "徒劳无益"
     ],
     "antonyms": [
       "事半功倍",
@@ -706,8 +699,8 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "love-and-marriage",
-      "friendship"
+      "friendship",
+      "unity-and-cooperation"
     ],
     "literal": "close · like · hands · feet",
     "natural": "as close as hands and feet",
@@ -734,13 +727,13 @@
       }
     ],
     "usage": {
-      "en": "Warm; for friends, comrades and also for nations. 手足 = brothers. Close to 情同手足 (already in the dictionary).",
+      "en": "Warm; for friends, comrades and also for nations. 手足 = brothers. Close to 情同手足.",
       "zh": "褒义，用于朋友、战友、国家之间；“手足”指兄弟；与“情同手足”相近。"
     },
     "synonyms": [
-      "情同手足",
       "亲如兄弟",
-      "称兄道弟"
+      "称兄道弟",
+      "情同手足"
     ],
     "antonyms": [
       "反目成仇",
@@ -757,8 +750,7 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "daily",
-      "useful-tools-and-skill"
+      "daily"
     ],
     "literal": "shine · can · reflect · person",
     "natural": "shiny enough to reflect a person",
@@ -798,10 +790,10 @@
   },
   {
     "id": "xu-niang-ban-lao",
-    "text": "徐娘半老",
+    "text": "半老徐娘",
     "pinyin": "xú niáng bàn lǎo",
     "variants": [
-      "半老徐娘"
+      "徐娘半老"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -955,8 +947,8 @@
       "没分没寸"
     ],
     "antonyms": [
-      "恰如其分",
-      "分寸得当"
+      "分寸得当",
+      "恰如其分"
     ]
   },
   {
@@ -996,7 +988,7 @@
       }
     ],
     "usage": {
-      "en": "Historical punishment; used in history and fiction. 枭 is xiāo (to hang a head), not 'owl' here.",
+      "en": "Historical punishment; used in history and fiction. 枭首 = to cut off a head and hang it up; 枭 originally means 'owl', and owls were said to be hung up as a punishment.",
       "zh": "古代刑罚，用于历史和小说；“枭”指悬头，读xiāo。"
     },
     "synonyms": [
@@ -1118,8 +1110,8 @@
     "register": "neutral",
     "themes": [
       "effort",
-      "high-aspirations",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "military-strategy-and-victory"
     ],
     "literal": "exert · courage · face · first",
     "natural": "charge ahead with courage",
@@ -1201,14 +1193,14 @@
     "synonyms": [
       "半途而废",
       "虎头蛇尾",
-      "兰因絮果",
-      "不了了之"
+      "不了了之",
+      "兰因絮果"
     ],
     "antonyms": [
       "善始善终",
-      "持之以恒",
       "有始有终",
-      "贯彻始终"
+      "贯彻始终",
+      "持之以恒"
     ]
   }
 ]

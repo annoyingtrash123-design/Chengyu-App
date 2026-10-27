@@ -8,8 +8,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "poor-workmanship",
-      "numbers"
+      "poor-workmanship"
     ],
     "literal": "seven · piece together · eight · patch up",
     "natural": "cobbled together",
@@ -40,8 +39,8 @@
       "拼拼凑凑"
     ],
     "antonyms": [
-      "浑然一体",
-      "天衣无缝"
+      "天衣无缝",
+      "浑然一体"
     ]
   },
   {
@@ -81,8 +80,7 @@
       "zh": "多作谓语，常见于新闻、公告。"
     },
     "synonyms": [
-      "寻衅滋事",
-      "借酒装疯"
+      "寻衅滋事"
     ],
     "antonyms": [
       "安分守己"
@@ -360,7 +358,6 @@
     },
     "synonyms": [
       "解甲归田",
-      "衣锦还乡",
       "辞官归隐"
     ],
     "antonyms": [
@@ -376,8 +373,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "appearance",
-      "body"
+      "body",
+      "health"
     ],
     "literal": "voice · like · great · bell",
     "natural": "a booming voice",
@@ -404,7 +401,6 @@
       "zh": "多作谓语、补语。"
     },
     "synonyms": [
-      "洪亮清脆",
       "中气十足"
     ],
     "antonyms": [
@@ -423,7 +419,6 @@
     "register": "neutral",
     "themes": [
       "distracted-attention",
-      "attitude-humble-vs-arrogant",
       "exam-favourites"
     ],
     "literal": "hear · yet · not · hear",
@@ -499,8 +494,7 @@
       "zh": "多作谓语，常说“任其予取予求”。"
     },
     "synonyms": [
-      "任意索取",
-      "肆意妄为"
+      "任意索取"
     ],
     "antonyms": [
       "克己奉公",
@@ -561,7 +555,7 @@
     ],
     "antonyms": [
       "年迈体衰",
-      "徐娘半老",
+      "半老徐娘",
       "古稀之年",
       "耄耋之年"
     ]
@@ -603,8 +597,8 @@
     },
     "synonyms": [
       "酣畅淋漓",
-      "大快人心",
-      "淋漓尽致"
+      "淋漓尽致",
+      "大快人心"
     ],
     "antonyms": [
       "郁郁寡欢"
@@ -651,18 +645,17 @@
     },
     "synonyms": [
       "养虎遗患",
-      "后患无穷",
       "养痈遗患",
       "虎兕出柙",
       "姑息养奸"
     ],
     "antonyms": [
-      "斩草除根",
       "除恶务尽",
       "关门捉贼",
       "关门打狗",
       "一网打尽",
-      "杜渐防萌"
+      "防微杜渐",
+      "斩草除根"
     ]
   },
   {
@@ -702,7 +695,6 @@
       "zh": "常与“有难同当”连用。"
     },
     "synonyms": [
-      "同甘共苦",
       "福祸与共"
     ],
     "antonyms": [
@@ -711,10 +703,10 @@
   },
   {
     "id": "feng-su-ren-qing",
-    "text": "风俗人情",
-    "pinyin": "fēng sú rén qíng",
+    "text": "风土人情",
+    "pinyin": "fēng tǔ rén qíng",
     "variants": [
-      "风土人情"
+      "风俗人情"
     ],
     "kind": "phrase",
     "frequency": 3,
@@ -723,7 +715,7 @@
     "themes": [
       "culture"
     ],
-    "literal": "custom · habit · human · feeling",
+    "literal": "wind · soil · human · feeling",
     "natural": "local customs and mores",
     "meaning": {
       "en": "Local customs and social etiquette.",
@@ -849,12 +841,8 @@
       "en": "Predicate; literary.",
       "zh": "多作谓语，书面语。"
     },
-    "synonyms": [
-      "举案齐眉",
-      "相濡以沫"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "同床异梦",
       "分道扬镳"
     ]
   },
@@ -867,8 +855,7 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "chaos",
-      "numbers"
+      "chaos"
     ],
     "literal": "one · crowd · and · enter",
     "natural": "pile in",
@@ -940,9 +927,7 @@
     },
     "synonyms": [
       "千里鹅毛",
-      "心意最重要",
-      "厚往薄来",
-      "千里送鹅毛，礼轻情意重"
+      "心意最重要"
     ],
     "antonyms": [
       "礼重情轻"
@@ -984,13 +969,9 @@
       "en": "Often 一脸/一副苦大仇深.",
       "zh": "常说“一脸苦大仇深”。"
     },
-    "synonyms": [
-      "愁眉苦脸",
-      "忧心忡忡"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "喜笑颜开",
-      "眉开眼笑"
+      "喜笑颜开"
     ]
   },
   {
@@ -1029,9 +1010,9 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "势不两立",
       "针锋相对",
-      "冰炭不容"
+      "冰炭不容",
+      "势不两立"
     ],
     "antonyms": [
       "水乳交融",

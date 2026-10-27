@@ -43,9 +43,9 @@
       "艰苦奋斗"
     ],
     "antonyms": [
-      "好逸恶劳",
       "游手好闲",
-      "贪图安逸"
+      "贪图安逸",
+      "好逸恶劳"
     ]
   },
   {
@@ -95,8 +95,8 @@
     ],
     "antonyms": [
       "一落千丈",
-      "怀才不遇",
-      "每况愈下"
+      "每况愈下",
+      "怀才不遇"
     ]
   },
   {
@@ -189,7 +189,6 @@
     "synonyms": [
       "百感交集",
       "感慨万千",
-      "喜极而泣",
       "五味杂陈",
       "喜忧参半",
       "大风吹倒梧桐树——有人欢喜有人愁"
@@ -209,7 +208,6 @@
     "register": "neutral",
     "themes": [
       "culture",
-      "stories",
       "buddhist-origin"
     ],
     "literal": "supreme · bliss · world",
@@ -253,7 +251,7 @@
     "text": "当局者迷",
     "pinyin": "dāng jú zhě mí",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -414,13 +412,11 @@
       "势均力敌",
       "旗鼓相当",
       "不相上下",
-      "将遇良才",
-      "狭路相逢勇者胜"
+      "将遇良才"
     ],
     "antonyms": [
-      "寡不敌众",
-      "天壤之别",
-      "力不能敌"
+      "力不能敌",
+      "天壤之别"
     ]
   },
   {
@@ -483,57 +479,6 @@
     ]
   },
   {
-    "id": "xin-huai-po-ce",
-    "text": "心怀叵测",
-    "pinyin": "xīn huái pǒ cè",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "deception-and-false-appearances",
-      "negative-character-flaws"
-    ],
-    "literal": "heart · harbour · not · fathom",
-    "natural": "Harbouring unfathomable intentions",
-    "meaning": {
-      "en": "Harbouring sinister intentions.",
-      "zh": "存心险恶，不可推测。"
-    },
-    "equivalents": [
-      "sinister",
-      "up to no good",
-      "have an ulterior motive",
-      "a wolf in sheep's clothing"
-    ],
-    "examples": [
-      {
-        "zh": "小心那个人，他心怀叵测。",
-        "en": "Watch that man — he's up to no good."
-      },
-      {
-        "zh": "一些心怀叵测的人散布谣言。",
-        "en": "Some people with sinister motives are spreading rumours."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive. 叵 is pǒ.",
-      "zh": "多作谓语、定语。\"叵\"读 pǒ。"
-    },
-    "synonyms": [
-      "居心叵测",
-      "别有用心",
-      "心怀鬼胎",
-      "居心不良",
-      "图谋不轨"
-    ],
-    "antonyms": [
-      "光明磊落",
-      "襟怀坦白",
-      "心地善良"
-    ]
-  },
-  {
     "id": "shou-dao-bing-chu",
     "text": "手到病除",
     "pinyin": "shǒu dào bìng chú",
@@ -589,8 +534,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "poor-timing",
-      "laziness-and-giving-up"
+      "poor-timing"
     ],
     "literal": "sit · lose · good · opportunity",
     "natural": "Sitting idle and losing a good chance",
@@ -626,11 +570,9 @@
       "机不可失",
       "趁热打铁",
       "当机立断",
-      "兵贵神速",
       "不失时机",
       "乘胜追击",
-      "良机难得",
-      "先声夺人"
+      "兵贵神速"
     ]
   },
   {
@@ -642,7 +584,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "relationships"
+      "relationships",
+      "filial-piety"
     ],
     "literal": "kindness · heavy · like · mountain",
     "natural": "Kindness as weighty as a mountain",
@@ -676,12 +619,11 @@
       "深仁厚泽",
       "再生父母",
       "皇恩浩荡",
-      "大恩大德",
-      "功德无量"
+      "大恩大德"
     ],
     "antonyms": [
-      "恩将仇报",
       "忘恩负义",
+      "恩将仇报",
       "小恩小惠"
     ]
   },
@@ -743,7 +685,6 @@
     "synonyms": [
       "华而不实",
       "金漆马桶——外面光，里面臭",
-      "包子有肉不在褶上",
       "虚有其表",
       "绣花枕头——一包草",
       "绣花枕头"
@@ -805,7 +746,6 @@
       "见多识广",
       "学贯中西",
       "满腹经纶",
-      "旁征博引",
       "学究天人",
       "无所不知",
       "秀才不出门，能知天下事",
@@ -875,16 +815,19 @@
     "text": "半斤八两",
     "pinyin": "bàn jīn bā liǎng",
     "variants": [
-      "半斤对八两"
+      "半斤对八两",
+      "一个半斤，一个八两——彼此一样",
+      "一个半斤，一个八两——没什么两样"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
       "relative-measurements",
       "measure",
-      "often-misused"
+      "often-misused",
+      "evenly-matched"
     ],
     "literal": "half · jin · eight · liang",
     "natural": "Half a jin and eight liang",
@@ -914,21 +857,22 @@
     },
     "synonyms": [
       "不相上下",
-      "大同小异",
       "相差无几",
       "彼此彼此",
       "猴子笑兔子尾巴短——彼此彼此",
       "一路货色",
       "五十步笑百步",
-      "一个半斤，一个八两——彼此一样",
       "背着抱着一般重",
-      "乌龟笑王八——一个样"
+      "乌龟笑王八——一个样",
+      "旗鼓相当"
     ],
     "antonyms": [
       "天壤之别",
       "截然不同",
       "大相径庭",
-      "不可同日而语"
+      "不可同日而语",
+      "相差悬殊",
+      "判若云泥"
     ]
   },
   {
@@ -981,10 +925,7 @@
       "en": "Object. Contemptuous.",
       "zh": "多作宾语，轻蔑语。"
     },
-    "synonyms": [
-      "乌合之众",
-      "害群之马"
-    ],
+    "synonyms": [],
     "antonyms": [
       "正人君子",
       "英雄豪杰"
@@ -1046,9 +987,7 @@
       "zh": "常用全句\"成也萧何，败也萧何\"。"
     },
     "synonyms": [],
-    "antonyms": [
-      "一以贯之"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-ran-zi-le",
@@ -1079,11 +1018,11 @@
     ],
     "examples": [
       {
-        "zh": "老人们在树下下棋，怡然自乐。",
+        "zh": "老人们在树下下棋，怡然自得。",
         "en": "The old men play chess under the trees, happy and content."
       },
       {
-        "zh": "黄发垂髫，并怡然自乐。",
+        "zh": "黄发垂髫，并怡然自得。",
         "en": "Old and young alike were content and happy."
       }
     ],
@@ -1113,8 +1052,8 @@
     ],
     "antonyms": [
       "闷闷不乐",
-      "郁郁寡欢",
-      "忧心忡忡"
+      "忧心忡忡",
+      "郁郁寡欢"
     ]
   },
   {
@@ -1171,15 +1110,14 @@
       "虚怀若谷",
       "虚心求教",
       "学无常师",
-      "程门立雪",
       "耕当问奴，织当访婢",
-      "三人行，必有我师"
+      "三人行，必有我师",
+      "敏而好学，不耻下问"
     ],
     "antonyms": [
-      "好为人师",
       "自以为是",
       "刚愎自用",
-      "明知故问"
+      "好为人师"
     ]
   },
   {
@@ -1222,18 +1160,15 @@
       "zh": "多作谓语，客气话，有时带讽刺。"
     },
     "synonyms": [
-      "侧耳倾听",
-      "聚精会神"
+      "侧耳倾听"
     ],
     "antonyms": [
       "充耳不闻",
       "置若罔闻",
-      "心不在焉",
-      "不容置喙",
       "听而不闻",
       "左耳进，右耳出",
       "马耳东风",
-      "指手画脚"
+      "心不在焉"
     ]
   },
   {
@@ -1275,8 +1210,7 @@
     },
     "synonyms": [
       "肝胆相照",
-      "两肋插刀",
-      "仗义执言"
+      "两肋插刀"
     ],
     "antonyms": [
       "见利忘义",
@@ -1349,7 +1283,6 @@
     "register": "literary",
     "themes": [
       "culture",
-      "confusion",
       "confucian-classics"
     ],
     "literal": "strange · force · disorder · spirits",
@@ -1389,11 +1322,8 @@
       "zh": "常说\"子不语怪力乱神\"。"
     },
     "synonyms": [
-      "牛鬼蛇神",
-      "妖魔鬼怪"
+      "牛鬼蛇神"
     ],
-    "antonyms": [
-      "实事求是"
-    ]
+    "antonyms": []
   }
 ]

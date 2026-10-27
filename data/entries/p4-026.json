@@ -46,7 +46,7 @@
   {
     "id": "qing-yao-bao-fu",
     "text": "轻徭薄赋",
-    "pinyin": "qīng yáo báo fù",
+    "pinyin": "qīng yáo bó fù",
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "positive",
@@ -77,7 +77,7 @@
       }
     ],
     "usage": {
-      "en": "Note 薄 is báo here (thin/low). Praise; mostly in historical or policy discussions.",
+      "en": "Note 薄 is bó here (reduce, lighten). Praise; mostly in historical or policy discussions.",
       "zh": "此处“薄”读báo；含褒义，多用于历史或政策讨论。"
     },
     "synonyms": [
@@ -180,8 +180,7 @@
       "无远弗届"
     ],
     "antonyms": [
-      "适可而止",
-      "半途而废"
+      "适可而止"
     ]
   },
   {
@@ -225,7 +224,6 @@
       "死有余辜"
     ],
     "antonyms": [
-      "死得其所",
       "痛失英才"
     ]
   },
@@ -279,7 +277,8 @@
     },
     "synonyms": [
       "井蛙语海",
-      "对牛弹琴"
+      "对牛弹琴",
+      "井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也"
     ],
     "antonyms": [
       "见多识广",
@@ -454,10 +453,7 @@
     "synonyms": [
       "肥水不流外人田"
     ],
-    "antonyms": [
-      "得不偿失",
-      "损人利己"
-    ]
+    "antonyms": []
   },
   {
     "id": "zai-shuai-san-jie",
@@ -570,8 +566,7 @@
       "相对而泣"
     ],
     "antonyms": [
-      "奋发图强",
-      "力挽狂澜"
+      "奋发图强"
     ]
   },
   {
@@ -623,12 +618,10 @@
       "zh": "书面语；庄子的故事说明远水解不了近渴。"
     },
     "synonyms": [
-      "燃眉之急",
       "走投无路"
     ],
     "antonyms": [
-      "安然无恙",
-      "绰绰有余"
+      "安然无恙"
     ]
   },
   {
@@ -683,8 +676,8 @@
     "synonyms": [
       "落叶归根",
       "故土难离",
-      "树高千丈，叶落归根",
-      "胡马依北风，越鸟巢南枝"
+      "胡马依北风，越鸟巢南枝",
+      "树高千丈，叶落归根"
     ],
     "antonyms": [
       "数典忘祖"
@@ -743,7 +736,6 @@
       "落荒而逃"
     ],
     "antonyms": [
-      "乘胜追击",
       "班师凯旋"
     ]
   },
@@ -831,7 +823,8 @@
     },
     "synonyms": [
       "披荆斩棘",
-      "克服万难"
+      "克服万难",
+      "下定决心，不怕牺牲，排除万难，去争取胜利"
     ],
     "antonyms": [
       "知难而退",
@@ -925,7 +918,6 @@
       "雍容华贵"
     ],
     "antonyms": [
-      "粗枝大叶",
       "其貌不扬"
     ]
   },
@@ -970,10 +962,7 @@
       "酿成大祸",
       "一失足成千古恨"
     ],
-    "antonyms": [
-      "亡羊补牢",
-      "改过自新"
-    ]
+    "antonyms": []
   },
   {
     "id": "ji-ru-xing-huo",
@@ -1114,53 +1103,8 @@
       "敌众我寡"
     ],
     "antonyms": [
-      "势均力敌",
-      "旗鼓相当"
-    ]
-  },
-  {
-    "id": "cong-ming-yi-shi",
-    "text": "聪明一世",
-    "pinyin": "cōng míng yī shì",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "wisdom",
-      "mistakes-and-correction"
-    ],
-    "literal": "clever · bright · one · lifetime",
-    "natural": "clever all one's life",
-    "meaning": {
-      "en": "Clever all one's life (yet foolish at one moment): even the wise slip up.",
-      "zh": "一辈子都很聪明，常与“糊涂一时”连用，指聪明人也会犯一时的糊涂。"
-    },
-    "equivalents": [
-      "clever for a lifetime",
-      "even the wise nod"
-    ],
-    "examples": [
-      {
-        "zh": "聪明一世，糊涂一时，他竟被骗子骗了。",
-        "en": "Clever all his life, he lost his wits for a moment and was conned."
-      },
-      {
-        "zh": "人人都有聪明一世，糊涂一时的时候。",
-        "en": "Everyone is clever for a lifetime and silly for a moment at times."
-      }
-    ],
-    "usage": {
-      "en": "Almost always as 聪明一世，糊涂一时. Mild teasing, not harsh.",
-      "zh": "几乎总是与“糊涂一时”连用；语气温和，带调侃。"
-    },
-    "synonyms": [
-      "智者千虑",
-      "千虑一失"
-    ],
-    "antonyms": [
-      "大智若愚",
-      "明察秋毫"
+      "旗鼓相当",
+      "势均力敌"
     ]
   },
   {
@@ -1206,52 +1150,6 @@
     "antonyms": [
       "龙飞凤舞",
       "笔走龙蛇"
-    ]
-  },
-  {
-    "id": "ben-xing-nan-yi",
-    "text": "本性难移",
-    "pinyin": "běn xìng nán yí",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "character",
-      "resistance-to-change"
-    ],
-    "literal": "original · nature · hard · change",
-    "natural": "one's nature is hard to change",
-    "meaning": {
-      "en": "One's basic nature is hard to change.",
-      "zh": "一个人天生的性格、习惯很难改变。"
-    },
-    "equivalents": [
-      "a leopard can't change its spots",
-      "you can't change one's nature"
-    ],
-    "examples": [
-      {
-        "zh": "江山易改，本性难移，他又赌上了。",
-        "en": "It's easier to move mountains than change one's nature; he's gambling again."
-      },
-      {
-        "zh": "你再怎么劝，他也是本性难移。",
-        "en": "However you urge him, he can't change his ways."
-      }
-    ],
-    "usage": {
-      "en": "Often in 江山易改，本性难移 ('rivers and mountains may change, but not one's nature').",
-      "zh": "常与“江山易改”连用。"
-    },
-    "synonyms": [
-      "积习难改",
-      "死性不改",
-      "江山易改，本性难移"
-    ],
-    "antonyms": [
-      "脱胎换骨",
-      "改过自新"
     ]
   }
 ]

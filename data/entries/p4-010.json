@@ -14,8 +14,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "useful-tools-and-skill",
-      "adaptability"
+      "adaptability",
+      "society"
     ],
     "literal": "heavy · reward · under · must · have · brave · man",
     "natural": "where there is a big reward, brave men appear",
@@ -43,68 +43,10 @@
     },
     "synonyms": [
       "有钱能使鬼推磨",
-      "利令智昏"
-    ],
-    "antonyms": [
-      "无人问津",
       "无利不起早"
-    ]
-  },
-  {
-    "id": "mang-ci-zai-bei",
-    "text": "芒刺在背",
-    "pinyin": "máng cì zài bèi",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "psychological-pressure",
-      "fear-and-cowardice",
-      "historical-records"
-    ],
-    "literal": "thorns · on · back",
-    "natural": "thorns on one's back",
-    "meaning": {
-      "en": "To feel very uneasy and anxious, as if thorns were pricking one's back.",
-      "zh": "像有芒和刺扎在背上，形容极度不安。"
-    },
-    "equivalents": [
-      "on pins and needles",
-      "feel very uneasy"
-    ],
-    "examples": [
-      {
-        "zh": "被领导盯着，他如芒刺在背，工作都做不好。",
-        "en": "With his boss watching him, he felt on pins and needles and couldn't work."
-      },
-      {
-        "zh": "被陌生人一路跟着，她芒刺在背。",
-        "en": "Followed by a stranger the whole way, she felt deeply uneasy."
-      }
-    ],
-    "origin": {
-      "source": "《汉书·霍光传》",
-      "story": {
-        "en": "Emperor Xuan felt as if 'thorns were on his back' (若有芒刺在背) when riding with the powerful general Huo Guang.",
-        "zh": "汉宣帝与霍光同乘，“若有芒刺在背”。"
-      },
-      "date": {
-        "zh": "东汉 · 约82年",
-        "en": "Eastern Han, c. 82"
-      }
-    },
-    "usage": {
-      "en": "Usually 如芒刺在背. Describes anxiety under scrutiny or guilt.",
-      "zh": "常说“如芒刺在背”，形容被注视或心虚时的不安。"
-    },
-    "synonyms": [
-      "如坐针毡",
-      "忐忑不安"
     ],
     "antonyms": [
-      "泰然自若",
-      "安之若素"
+      "无人问津"
     ]
   },
   {
@@ -165,24 +107,22 @@
       "勤勤恳恳",
       "废寝忘食",
       "宵衣旰食",
-      "饥肠辘辘",
       "孙康映雪",
       "悬梁刺股",
       "断齑画粥",
       "栉风沐雨",
-      "囊萤映雪",
       "含辛茹苦",
       "手不释卷",
       "然糠照薪",
-      "勤工俭学",
-      "日理万机"
+      "日理万机",
+      "囊萤映雪"
     ]
   },
   {
     "id": "bi-ci-bi-ci",
     "text": "彼此彼此",
     "pinyin": "bǐ cǐ bǐ cǐ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
@@ -274,9 +214,8 @@
     },
     "synonyms": [
       "卑躬屈膝",
-      "阿谀奉承",
       "乞哀告怜",
-      "摇头摆尾"
+      "阿谀奉承"
     ],
     "antonyms": [
       "不卑不亢",
@@ -429,8 +368,8 @@
       "zh": "常说“当断不断，反受其乱”。"
     },
     "synonyms": [
-      "优柔寡断",
-      "犹豫不决"
+      "犹豫不决",
+      "优柔寡断"
     ],
     "antonyms": [
       "当机立断",
@@ -441,7 +380,7 @@
     "id": "dong-guo-xian-sheng",
     "text": "东郭先生",
     "pinyin": "dōng guō xiān shēng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
@@ -486,12 +425,10 @@
       "zh": "出自“中山狼”寓言，多说“做东郭先生”。"
     },
     "synonyms": [
-      "农夫与蛇",
-      "好心没好报"
+      "农夫与蛇"
     ],
     "antonyms": [
-      "嫉恶如仇",
-      "明辨是非"
+      "嫉恶如仇"
     ]
   },
   {
@@ -592,8 +529,7 @@
       "冒昧相求"
     ],
     "antonyms": [
-      "理所当然",
-      "义不容辞"
+      "理所当然"
     ]
   },
   {
@@ -637,8 +573,7 @@
       "杀人不眨眼"
     ],
     "antonyms": [
-      "宅心仁厚",
-      "手无寸铁"
+      "宅心仁厚"
     ]
   },
   {
@@ -679,10 +614,10 @@
     },
     "synonyms": [
       "凶神恶煞",
-      "凶相毕露",
       "饿虎扑食",
       "虎狼之师",
-      "虎视鹰瞵"
+      "虎视鹰瞵",
+      "凶相毕露"
     ],
     "antonyms": [
       "温文尔雅",
@@ -729,10 +664,7 @@
       "五雷轰顶",
       "天打雷劈"
     ],
-    "antonyms": [
-      "问心无愧",
-      "光明磊落"
-    ]
+    "antonyms": []
   },
   {
     "id": "huan-hu-que-yue",
@@ -939,12 +871,12 @@
     "synonyms": [
       "牛鬼蛇神",
       "妖魔鬼怪",
-      "牛头马面",
-      "群魔乱舞"
+      "群魔乱舞",
+      "牛头马面"
     ],
     "antonyms": [
-      "正人君子",
-      "仁人志士"
+      "仁人志士",
+      "正人君子"
     ]
   },
   {
@@ -995,7 +927,6 @@
       "zh": "贬义，常说“文人相轻，自古而然”。"
     },
     "synonyms": [
-      "自视甚高",
       "同行相轻"
     ],
     "antonyms": [
@@ -1053,17 +984,17 @@
     },
     "synonyms": [
       "顽固不化",
-      "愚不可及",
       "榆木疙瘩",
       "茅坑里的石头——又臭又硬",
-      "不可理喻"
+      "不可理喻",
+      "愚不可及"
     ],
     "antonyms": [
       "聪明伶俐",
       "从善如流",
       "大彻大悟",
-      "如梦初醒",
-      "顽石点头"
+      "顽石点头",
+      "如梦初醒"
     ]
   },
   {
@@ -1154,15 +1085,15 @@
     "synonyms": [
       "捶胸顿足",
       "哭天抹泪",
-      "寻死觅活",
-      "欲哭无泪",
-      "要死要活",
       "哭天喊地"
     ],
     "antonyms": [
       "欢天喜地",
       "喜笑颜开",
-      "庄周鼓盆"
+      "鼓盆而歌"
+    ],
+    "variants": [
+      "哭天抢地"
     ]
   },
   {
@@ -1217,9 +1148,6 @@
       "众口铄金",
       "积毁销骨"
     ],
-    "antonyms": [
-      "无所畏惧",
-      "清者自清，浊者自浊"
-    ]
+    "antonyms": []
   }
 ]

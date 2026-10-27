@@ -86,8 +86,6 @@
       "从善如流",
       "不耻下问",
       "礼贤下士",
-      "戒骄戒躁",
-      "深藏若虚",
       "闻过则喜",
       "谦恭下士"
     ],
@@ -107,9 +105,7 @@
       "猪八戒戴花——自我欣赏",
       "自卖自夸",
       "沾沾自喜",
-      "独行其是",
       "狂妄自大",
-      "关公面前耍大刀——自不量力",
       "恃才傲物",
       "孤芳自赏",
       "唯我独尊",
@@ -120,18 +116,21 @@
       "顾盼自雄",
       "师心自用",
       "不懂装懂",
-      "癞蛤蟆敲大鼓——自吹自擂",
       "自鸣得意",
       "屎壳郎戴花——臭美",
       "目无余子",
       "自视甚高",
       "不可一世",
-      "天朝上国",
       "心高气傲",
       "自命清高",
-      "老王卖瓜——自卖自夸",
-      "好为人师",
+      "一意孤行",
       "自作聪明",
+      "独行其是",
+      "关公面前耍大刀——自不量力",
+      "癞蛤蟆敲大鼓——自吹自擂",
+      "天朝上国",
+      "王婆卖瓜——自卖自夸",
+      "好为人师",
       "关起门来做皇帝"
     ]
   },
@@ -172,8 +171,8 @@
     },
     "synonyms": [
       "掉以轻心",
-      "漠不关心",
-      "视同儿戏"
+      "视同儿戏",
+      "漠不关心"
     ],
     "antonyms": [
       "高度重视",
@@ -238,7 +237,7 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "structural-problems"
+      "unity-and-cooperation"
     ],
     "literal": "head · tail · each other · connected",
     "natural": "end to end",
@@ -323,8 +322,6 @@
       "zh": "多作谓语，书面语。"
     },
     "synonyms": [
-      "敷衍了事",
-      "口蜜腹剑",
       "逢场作戏"
     ],
     "antonyms": [
@@ -372,8 +369,8 @@
       "勾心斗角"
     ],
     "antonyms": [
-      "淡泊名利",
-      "与世无争"
+      "与世无争",
+      "淡泊名利"
     ]
   },
   {
@@ -415,10 +412,7 @@
       "en": "Predicate; news-style.",
       "zh": "多作谓语，常见于新闻。"
     },
-    "synonyms": [
-      "普天同庆",
-      "共襄盛举"
-    ],
+    "synonyms": [],
     "antonyms": [
       "横征暴敛"
     ]
@@ -462,57 +456,11 @@
     "synonyms": [
       "学贯古今",
       "博古通今",
-      "君子不器",
       "学究天人"
     ],
     "antonyms": [
       "不学无术",
       "孤陋寡闻"
-    ]
-  },
-  {
-    "id": "tao-tian-zui-xing",
-    "text": "滔天罪行",
-    "pinyin": "tāo tiān zuì xíng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "revenge-and-retribution",
-      "news-and-officialese"
-    ],
-    "literal": "flood · heaven · crimes · acts",
-    "natural": "heinous crimes",
-    "meaning": {
-      "en": "Monstrous crimes of the gravest kind.",
-      "zh": "极其严重、罪大恶极的罪行。"
-    },
-    "equivalents": [
-      "heinous crimes",
-      "monstrous atrocities"
-    ],
-    "examples": [
-      {
-        "zh": "法庭宣判了这伙匪徒的滔天罪行。",
-        "en": "The court passed judgment on the gang's monstrous crimes."
-      },
-      {
-        "zh": "他犯下滔天罪行，难逃法网。",
-        "en": "Having committed heinous crimes, he cannot escape the law."
-      }
-    ],
-    "usage": {
-      "en": "Object; news and legal register.",
-      "zh": "多作宾语，用于新闻、法律语境。"
-    },
-    "synonyms": [
-      "罪大恶极",
-      "十恶不赦"
-    ],
-    "antonyms": [
-      "微不足道",
-      "一念之差"
     ]
   },
   {
@@ -554,19 +502,16 @@
     "synonyms": [
       "名不副实",
       "有名无实",
-      "华而不实",
+      "浪得虚名",
+      "名过其实",
       "盛名之下，其实难副",
       "聋子的耳朵——摆设",
       "南郭先生",
-      "其实难副",
-      "形同虚设",
-      "浪得虚名",
-      "名过其实"
+      "其实难副"
     ],
     "antonyms": [
       "名副其实",
       "实至名归",
-      "酒香不怕巷子深",
       "真才实学",
       "名不虚传",
       "张小泉的剪刀——名不虚传",
@@ -587,7 +532,6 @@
     "register": "literary",
     "themes": [
       "nature",
-      "plant-and-natural-world",
       "landscapes"
     ],
     "literal": "water · sky · one · colour",
@@ -618,9 +562,7 @@
       "水天相接",
       "一碧万顷"
     ],
-    "antonyms": [
-      "山重水复"
-    ]
+    "antonyms": []
   },
   {
     "id": "ai-zeng-fen-ming",
@@ -664,14 +606,13 @@
     "synonyms": [
       "是非分明",
       "嫉恶如仇",
-      "快意恩仇",
-      "恩怨分明"
+      "恩怨分明",
+      "快意恩仇"
     ],
     "antonyms": [
-      "不分是非",
       "模棱两可",
-      "爱恨交织",
-      "屋乌之爱"
+      "不分是非",
+      "爱屋及乌"
     ]
   },
   {
@@ -715,7 +656,7 @@
       "患难与共"
     ],
     "antonyms": [
-      "各奔东西",
+      "各自东西",
       "同床异梦"
     ]
   },
@@ -732,7 +673,6 @@
     "register": "literary",
     "themes": [
       "wisdom",
-      "dead-ends-and-desperation",
       "confucian-classics"
     ],
     "literal": "fish · and · bear · paw",
@@ -775,8 +715,7 @@
       "难以兼得"
     ],
     "antonyms": [
-      "两全其美",
-      "一举两得"
+      "两全其美"
     ]
   },
   {
@@ -814,9 +753,7 @@
       "en": "Usually 尽地主之谊.",
       "zh": "常说“尽地主之谊”。"
     },
-    "synonyms": [
-      "宾至如归"
-    ],
+    "synonyms": [],
     "antonyms": [
       "怠慢客人"
     ]
@@ -865,12 +802,12 @@
     "antonyms": [
       "出师不利",
       "一败涂地",
-      "出师未捷",
+      "全军覆没",
       "溃不成军",
+      "出师未捷",
       "大风刮倒了帅旗——出师不利",
       "孔夫子搬家——净是书",
       "丧师辱国",
-      "全军覆没",
       "折戟沉沙"
     ]
   },
@@ -913,9 +850,7 @@
     },
     "synonyms": [
       "排山倒海",
-      "惊涛骇浪",
-      "上天入地",
-      "降龙伏虎"
+      "惊涛骇浪"
     ],
     "antonyms": [
       "风平浪静",
@@ -971,9 +906,7 @@
       "zh": "多作谓语，三十六计之一。"
     },
     "synonyms": [
-      "喧宾夺主",
-      "后来居上",
-      "鸠占鹊巢"
+      "喧宾夺主"
     ],
     "antonyms": [
       "甘居人下",
@@ -1030,8 +963,7 @@
       "zh": "常与“阳春白雪”对举。"
     },
     "synonyms": [
-      "通俗易懂",
-      "俗不可耐"
+      "通俗易懂"
     ],
     "antonyms": [
       "阳春白雪",
@@ -1111,8 +1043,8 @@
     ],
     "examples": [
       {
-        "zh": "你说得言之有理，我同意。",
-        "en": "What you say makes sense and I agree."
+        "zh": "他的发言言之有理，大家都点了点头。",
+        "en": "His speech made good sense, and everyone nodded."
       },
       {
         "zh": "他的发言言之有理，大家都点了点头。",

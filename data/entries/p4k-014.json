@@ -61,7 +61,8 @@
     "themes": [
       "effective-teaching-methods",
       "stories",
-      "exam-favourites"
+      "exam-favourites",
+      "buddhist-origin"
     ],
     "literal": "stubborn · stone · nod · head",
     "natural": "even a stubborn rock nods",
@@ -87,13 +88,10 @@
       "en": "Positive; used for persuasion or influence. Often 生公说法，顽石点头.",
       "zh": "褒义，用于说服、感化。常与“生公说法”并用。"
     },
-    "synonyms": [
-      "感人肺腑",
-      "循循善诱"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "对牛弹琴",
-      "冥顽不灵"
+      "冥顽不灵",
+      "对牛弹琴"
     ]
   },
   {
@@ -134,12 +132,12 @@
       "zh": "与“因小失大”相反，含褒义，不如“塞翁失马”常用。"
     },
     "synonyms": [
-      "因祸得福",
-      "塞翁失马"
+      "塞翁失马",
+      "因祸得福"
     ],
     "antonyms": [
-      "因小失大",
-      "得不偿失"
+      "得不偿失",
+      "因小失大"
     ]
   },
   {
@@ -192,8 +190,7 @@
       "zh": "贬义，指官场和国家状态，不指个人。"
     },
     "synonyms": [
-      "醉生梦死",
-      "纸醉金迷"
+      "醉生梦死"
     ],
     "antonyms": [
       "励精图治",
@@ -251,8 +248,8 @@
       "zh": "略含贬义，也常作自嘲或讽刺之语。"
     },
     "synonyms": [
+      "和尚庙里借梳子——找错了门",
       "缘木求鱼",
-      "南辕北辙",
       "找木匠补锅——找错了人"
     ],
     "antonyms": [
@@ -270,7 +267,6 @@
     "register": "literary",
     "themes": [
       "poverty-and-hardship",
-      "simple-or-poor-clothing",
       "exam-favourites",
       "poems-prose"
     ],
@@ -310,7 +306,6 @@
       "zh": "书面语，强调出身贫寒，常见于白手起家的叙述。"
     },
     "synonyms": [
-      "家徒四壁",
       "蓬门荜户"
     ],
     "antonyms": [
@@ -368,12 +363,10 @@
       "zh": "用来表达淡泊名利，常与“蝇头微利”对举。"
     },
     "synonyms": [
-      "浮名虚利",
-      "过眼云烟"
+      "浮名虚利"
     ],
     "antonyms": [
-      "名垂青史",
-      "功成名就"
+      "名垂青史"
     ]
   },
   {
@@ -415,12 +408,11 @@
     },
     "synonyms": [
       "羊羔跪乳",
-      "反哺之情",
-      "羊有跪乳之恩，鸦有反哺之义"
+      "反哺之情"
     ],
     "antonyms": [
-      "忘恩负义",
-      "不孝之子"
+      "不孝之子",
+      "忘恩负义"
     ]
   },
   {
@@ -470,63 +462,6 @@
     ]
   },
   {
-    "id": "wu-wu-zhi-ai",
-    "text": "屋乌之爱",
-    "pinyin": "wū wū zhī ài",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "relationships",
-      "love-and-marriage",
-      "exam-favourites"
-    ],
-    "literal": "roof · crow · of · love",
-    "natural": "love extending to the crow on the roof",
-    "meaning": {
-      "en": "Loving someone so much that one cherishes everything connected to them.",
-      "zh": "爱一个人，连带爱屋上的乌鸦，比喻爱屋及乌。"
-    },
-    "equivalents": [
-      "love extending to all connected",
-      "love me, love my dog"
-    ],
-    "examples": [
-      {
-        "zh": "出于屋乌之爱，她对他的朋友也格外亲切。",
-        "en": "Out of love for him, she treated even his friends especially warmly."
-      },
-      {
-        "zh": "他对小狗的疼爱，也是屋乌之爱的一种。",
-        "en": "His fondness for the dog is part of his love for its owner."
-      }
-    ],
-    "origin": {
-      "source": "《尚书大传》",
-      "story": {
-        "en": "The Shangshu Dazhuan says: 'If you love a person, you love the crows on his roof' (爱人者，兼其屋上之乌).",
-        "zh": "《尚书大传》：“爱人者，兼其屋上之乌。”"
-      },
-      "date": {
-        "zh": "西汉 · 前2世纪",
-        "en": "Western Han, 2nd c. BC"
-      }
-    },
-    "usage": {
-      "en": "A literary form of 爱屋及乌; written style.",
-      "zh": "是“爱屋及乌”的书面形式。"
-    },
-    "synonyms": [
-      "爱屋及乌",
-      "推爱及物"
-    ],
-    "antonyms": [
-      "恨屋及乌",
-      "爱憎分明"
-    ]
-  },
-  {
     "id": "wu-chi-zhi-you",
     "text": "无耻之尤",
     "pinyin": "wú chǐ zhī yóu",
@@ -568,7 +503,6 @@
       "卑鄙无耻"
     ],
     "antonyms": [
-      "光明磊落",
       "正人君子"
     ]
   },
@@ -581,9 +515,9 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "appearance",
       "culture",
-      "exam-favourites"
+      "exam-favourites",
+      "speech"
     ],
     "literal": "Wu · I · soft · speech",
     "natural": "soft Wu dialect",
@@ -609,12 +543,9 @@
       "en": "A set phrase about dialect, not an idiom of moral meaning. 侬 reads nóng (Wu word for 'you/I').",
       "zh": "是关于方言的固定说法，“侬”读 nóng。"
     },
-    "synonyms": [
-      "软语温存"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "粗声大气",
-      "咄咄逼人"
+      "粗声大气"
     ]
   },
   {
@@ -655,12 +586,12 @@
       "zh": "中性，形容人口来源复杂，“处”读 chǔ。"
     },
     "synonyms": [
-      "鱼龙混杂",
-      "南来北往"
+      "南来北往",
+      "鱼龙混杂"
     ],
     "antonyms": [
-      "本乡本土",
-      "聚族而居"
+      "聚族而居",
+      "本乡本土"
     ]
   },
   {
@@ -779,64 +710,6 @@
     ]
   },
   {
-    "id": "ji-ling-jie-ling",
-    "text": "系铃解铃",
-    "pinyin": "jì líng jiě líng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "mistakes-and-correction",
-      "stories",
-      "exam-favourites",
-      "buddhist-origin"
-    ],
-    "literal": "tie · bell · untie · bell",
-    "natural": "whoever tied the bell must untie it",
-    "meaning": {
-      "en": "The person who caused a problem should be the one to solve it.",
-      "zh": "谁系的铃，谁来解下，比喻谁惹出的麻烦由谁去解决。"
-    },
-    "equivalents": [
-      "the one who made the mess must clean it up",
-      "let the culprit fix it"
-    ],
-    "examples": [
-      {
-        "zh": "这事因他而起，系铃解铃，还得他出面道歉。",
-        "en": "He started this, so he must put it right by apologising."
-      },
-      {
-        "zh": "系铃解铃，只有当初的负责人才能化解矛盾。",
-        "en": "Whoever started it must end it: only the original manager can settle this."
-      }
-    ],
-    "origin": {
-      "source": "《指月录》",
-      "story": {
-        "en": "In the Zen story, the monk Fayan asked who could take off the golden bell from the tiger's neck; the answer: 'the one who tied it' (系者解得).",
-        "zh": "《指月录》载法眼禅师问众僧：“虎项金铃，是谁解得？”答曰：“系者解得。”"
-      },
-      "date": {
-        "zh": "明 · 1602年",
-        "en": "Ming dynasty, 1602"
-      }
-    },
-    "usage": {
-      "en": "Mostly used in the full saying 解铃还须系铃人. 系 reads jì here (to tie).",
-      "zh": "常说全句“解铃还须系铃人”，此处“系”读 jì（打结）。"
-    },
-    "synonyms": [
-      "解铃还须系铃人",
-      "自作自受"
-    ],
-    "antonyms": [
-      "雪上加霜",
-      "火上浇油"
-    ]
-  },
-  {
     "id": "xia-ma-kan-hua",
     "text": "下马看花",
     "pinyin": "xià mǎ kàn huā",
@@ -845,9 +718,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "effective-teaching-methods",
-      "apprenticeship-and-learning",
-      "exam-favourites"
+      "exam-favourites",
+      "reading-and-study"
     ],
     "literal": "dismount · horse · look at · flowers",
     "natural": "get off the horse to look at the flowers",
@@ -875,11 +747,11 @@
     },
     "synonyms": [
       "深入调查",
-      "细致入微"
+      "细致入微",
+      "蜻蜓点水"
     ],
     "antonyms": [
-      "浮光掠影",
-      "蜻蜓点水"
+      "浮光掠影"
     ]
   },
   {
@@ -1073,9 +945,7 @@
       "贤妻良母",
       "主内持家"
     ],
-    "antonyms": [
-      "事业有成"
-    ]
+    "antonyms": []
   },
   {
     "id": "xiang-yu-er-qi",
@@ -1126,7 +996,6 @@
       "zh": "常说“不使一人向隅”（不让任何人失望）。书面语，“隅”读 yú。"
     },
     "synonyms": [
-      "孤立无援",
       "独自垂泪"
     ],
     "antonyms": [

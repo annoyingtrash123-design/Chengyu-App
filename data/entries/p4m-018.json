@@ -10,7 +10,6 @@
     "themes": [
       "poems-prose",
       "plant-and-natural-world",
-      "farming-and-harvest",
       "essay-favourites",
       "landscapes"
     ],
@@ -160,7 +159,7 @@
   {
     "id": "xuan-xian-yu-neng-jiang-xin-xiu-mu",
     "text": "选贤与能，讲信修睦",
-    "pinyin": "xuǎn xián yǔ néng, jiǎng xìn xiū mù",
+    "pinyin": "xuǎn xián jǔ néng, jiǎng xìn xiū mù",
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -205,9 +204,7 @@
       "en": "A quotation from the classics; formal, used to support an argument or give advice.",
       "zh": "经典引文，书面语，常用来论证或劝勉。"
     },
-    "synonyms": [
-      "任人唯贤"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -425,9 +422,7 @@
       "en": "A quotation from the classics; formal, used to support an argument or give advice.",
       "zh": "经典引文，书面语，常用来论证或劝勉。"
     },
-    "synonyms": [
-      "出其不意"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -492,7 +487,6 @@
     "register": "literary",
     "themes": [
       "military-strategy-and-victory",
-      "mental-clarity",
       "modern-applications-of-classical-ideas",
       "essay-favourites",
       "thinkers",
@@ -535,9 +529,9 @@
     },
     "synonyms": [
       "不战而胜",
+      "上兵伐谋",
       "兵不血刃",
-      "攻心为上",
-      "上兵伐谋"
+      "攻心为上"
     ],
     "antonyms": []
   },
@@ -705,64 +699,6 @@
     "antonyms": []
   },
   {
-    "id": "qiong-dang-yi-jian-lao-dang-yi-zhuang",
-    "text": "穷当益坚，老当益壮",
-    "pinyin": "qióng dāng yì jiān, lǎo dāng yì zhuàng",
-    "kind": "mingju",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "outstanding-character",
-      "comebacks-and-renewal",
-      "positive-character-qualities",
-      "essay-favourites",
-      "historical-records"
-    ],
-    "literal": "poor · should · all the more · firm, old · should · all the more · vigorous",
-    "natural": "In poverty one should grow all the more resolute; in old age all the more vigorous",
-    "meaning": {
-      "en": "Hardship and age should not break one's spirit but strengthen it.",
-      "zh": "越是贫困，越要坚定意志；年纪越大，越要有壮志。"
-    },
-    "equivalents": [
-      "the older, the bolder",
-      "adversity strengthens the spirit"
-    ],
-    "examples": [
-      {
-        "zh": "八十岁的老教授“穷当益坚，老当益壮”，仍然奋战在科研一线。",
-        "en": "The eighty-year-old professor, vigorous in old age, still works on the front line of research."
-      },
-      {
-        "zh": "他用“穷当益坚，老当益壮”勉励自己。",
-        "en": "He encouraged himself with this line."
-      }
-    ],
-    "origin": {
-      "source": "《后汉书·马援传》",
-      "story": {
-        "en": "Ma Yuan, a Han general, said it to his guests when he was old and had already taken up farming and herding: 'a man with ambitions should be firmer in poverty and more vigorous in age'.",
-        "zh": "东汉名将马援年老仍志在建功，对宾客说：大丈夫立志，穷当益坚，老当益壮。"
-      },
-      "date": {
-        "zh": "南朝宋 · 约445年",
-        "en": "Liu Song, c. 445"
-      }
-    },
-    "usage": {
-      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
-      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
-    },
-    "synonyms": [
-      "老当益壮",
-      "宝刀未老"
-    ],
-    "antonyms": [
-      "未老先衰"
-    ]
-  },
-  {
     "id": "shi-bie-san-ri-ji-geng-gua-mu-xiang-dai",
     "text": "士别三日，即更刮目相待",
     "pinyin": "shì bié sān rì, jí gèng guā mù xiāng dài",
@@ -813,12 +749,8 @@
       "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
-    "synonyms": [
-      "刮目相看"
-    ],
-    "antonyms": [
-      "故步自封"
-    ],
+    "synonyms": [],
+    "antonyms": [],
     "variants": [
       "士别三日，刮目相看"
     ]
@@ -1032,62 +964,6 @@
       "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
       "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
     },
-    "synonyms": [
-      "形影相吊",
-      "孤苦伶仃"
-    ],
-    "antonyms": []
-  },
-  {
-    "id": "yi-fu-dang-guan-wan-fu-mo-kai",
-    "text": "一夫当关，万夫莫开",
-    "pinyin": "yī fū dāng guān, wàn fū mò kāi",
-    "kind": "mingju",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "danger",
-      "difficult-terrain",
-      "military-strategy-and-victory",
-      "essay-favourites",
-      "poems-prose",
-      "poets"
-    ],
-    "literal": "one · man · hold · pass, ten thousand · men · cannot · open",
-    "natural": "With one man guarding the pass, ten thousand cannot force their way through",
-    "meaning": {
-      "en": "A strategic spot so narrow that a single defender can hold back a great force; also used for one tough person holding the line.",
-      "zh": "地势险要，一人把守，千军万马也难突破；也形容一人勇猛无敌。"
-    },
-    "equivalents": [
-      "one man can hold the pass against thousands"
-    ],
-    "examples": [
-      {
-        "zh": "守门员表现神勇，真是“一夫当关，万夫莫开”。",
-        "en": "The goalkeeper played like a hero: this line exactly."
-      },
-      {
-        "zh": "剑门关地势险要，素有“一夫当关，万夫莫开”之称。",
-        "en": "Jianmen Pass is steep and perilous and is known by this line."
-      }
-    ],
-    "origin": {
-      "source": "李白《蜀道难》",
-      "story": {
-        "en": "From Li Bai's 'The Road to Shu is Hard', describing the Jiange Pass, where a single guard can hold off ten thousand.",
-        "zh": "出自李白《蜀道难》，写剑阁地势险要，易守难攻。"
-      },
-      "date": {
-        "zh": "唐 · 8世纪中叶",
-        "en": "Tang dynasty, mid-8th c."
-      }
-    },
-    "usage": {
-      "en": "A quoted line; literary, common in essays, captions, speeches and everyday quotation.",
-      "zh": "引用的名句，书面语，常见于作文、文案、演讲和日常引用。"
-    },
     "synonyms": [],
     "antonyms": []
   },
@@ -1142,7 +1018,10 @@
     "synonyms": [
       "度日如年"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "一日不见，如三秋"
+    ]
   },
   {
     "id": "bu-xiao-you-san-wu-hou-wei-da",

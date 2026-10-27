@@ -71,7 +71,7 @@
     "literal": "Yue's · mother · tattoo · characters",
     "natural": "Yue Fei's mother tattoos his back",
     "meaning": {
-      "en": "Yue Fei's mother tattooed the words 'serve the country with utmost loyalty' on his back; a mother's teaching of patriotism.",
+      "en": "Yue Fei's mother tattooed words of loyalty on his back (in the popular tradition, 'serve the country with utmost loyalty'); a mother's teaching of patriotism.",
       "zh": "岳飞之母在他背上刺下“精忠报国”四字；指母亲教子爱国。"
     },
     "equivalents": [
@@ -92,9 +92,7 @@
       "en": "The popular version, with 精忠报国 tattooed by his mother, comes from the novel 《说岳全传》; the 《宋史》 only says the characters read 尽忠报国. A staple of school textbooks and parenting talk.",
       "zh": "通行版本（母亲刺“精忠报国”）源自《说岳全传》；《宋史》记载为“尽忠报国”。常见于课文和家教话题。"
     },
-    "synonyms": [
-      "精忠报国"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -145,10 +143,7 @@
       "en": "Su Wu was sent as an envoy to the Xiongnu in 100 BC, refused to surrender, and returned in 81 BC. A set image for national loyalty and endurance.",
       "zh": "苏武于公元前100年出使匈奴，被扣留，不肯投降，前81年才得归汉。是忠贞和坚忍的典型形象。"
     },
-    "synonyms": [
-      "坚贞不屈",
-      "忠贞不渝"
-    ],
+    "synonyms": [],
     "antonyms": [
       "卖国求荣"
     ]
@@ -205,9 +200,7 @@
       "以弱胜强",
       "舍小取大"
     ],
-    "antonyms": [
-      "顾此失彼"
-    ]
+    "antonyms": []
   },
   {
     "id": "qie-fu-jiu-zhao",
@@ -258,8 +251,7 @@
       "zh": "出于义气时含褒义。书面语，也是京剧剧目名。"
     },
     "synonyms": [
-      "仗义相助",
-      "见义勇为"
+      "仗义相助"
     ],
     "antonyms": [
       "袖手旁观"
@@ -294,8 +286,8 @@
         "en": "Xiang Yu's suicide at the Wu River made him an eternal tragic hero."
       },
       {
-        "zh": "李清照写过“生当作人杰，死亦为鬼雄”，以此纪念乌江自刎的项羽。",
-        "en": "Li Qingzhao wrote 'Alive he was a hero among men, dead he is a hero among ghosts', in honour of Xiang Yu on the Wu River."
+        "zh": "他读《项羽本纪》时，为乌江自刎的结局唏嘘不已。",
+        "en": "Reading the Basic Annals of Xiang Yu, he sighed over the ending of Xiang Yu cutting his own throat at the Wu River."
       }
     ],
     "origin": {
@@ -314,7 +306,6 @@
       "zh": "“刎”读 wěn。多指宁死不受辱的英雄末路。"
     },
     "synonyms": [
-      "霸王别姬",
       "英雄末路"
     ],
     "antonyms": [
@@ -333,7 +324,9 @@
       "stories",
       "outstanding-character",
       "freedom",
-      "historical-records"
+      "historical-records",
+      "rare-idioms",
+      "positive-character-qualities"
     ],
     "literal": "not · for · five · dou · rice · bend · waist",
     "natural": "not bow for five pecks of rice",
@@ -372,12 +365,21 @@
     },
     "synonyms": [
       "傲骨嶙峋",
-      "宁折不弯"
+      "宁折不弯",
+      "低三下四",
+      "不卑不亢"
     ],
     "antonyms": [
       "低声下气",
+      "志行高洁",
       "卑躬屈膝"
-    ]
+    ],
+    "variants": [
+      "五斗折腰"
+    ],
+    "variant_kinds": {
+      "五斗折腰": "short"
+    }
   },
   {
     "id": "yong-xu-zhi-cai",
@@ -429,10 +431,13 @@
     },
     "synonyms": [
       "才华横溢",
-      "柳絮才高"
+      "才高八斗"
     ],
     "antonyms": [
       "胸无点墨"
+    ],
+    "variants": [
+      "柳絮才高"
     ]
   },
   {
@@ -472,9 +477,7 @@
       "en": "The event took place in AD 961 under Zhao Kuangyin, who also took power in a coup. Used for peaceful removal from office, sometimes ironically for a smooth purge.",
       "zh": "发生在宋初，赵匡胤本人也是兵变夺权。多指和平解除权力，有时带反讽。"
     },
-    "synonyms": [
-      "兔死狗烹"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -482,7 +485,7 @@
     "text": "司马光砸缸",
     "pinyin": "sī mǎ guāng zá gāng",
     "kind": "phrase",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -526,12 +529,8 @@
       "en": "A story every Chinese child knows, taught as a model of calm resourcefulness. Often used for 'break the container to save the contents'.",
       "zh": "中国孩子几乎人人都听过的故事，是临危不乱的榜样。"
     },
-    "synonyms": [
-      "急中生智",
-      "随机应变"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "惊慌失措",
       "手足无措"
     ]
   },
@@ -585,14 +584,7 @@
       "zh": "舜被父母和后母虐待，仍然孝顺；在历山耕种，象为他耕田，鸟为他除草，尧于是禅位于他。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
     "synonyms": [
-      "孝心可嘉",
-      "恣蚊饱血",
-      "涤亲溺器",
-      "弃官寻母",
-      "鹿乳奉亲",
-      "百里负米",
-      "哭竹生笋",
-      "卧冰求鲤"
+      "孝心可嘉"
     ],
     "antonyms": [
       "忤逆不孝"
@@ -647,9 +639,7 @@
       "en": "The story of Tanzi (郯子), who wore a deerskin to reach the herd and was nearly shot by a hunter before explaining himself. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
       "zh": "郯子披鹿皮混入鹿群取乳，险被猎人射中，说明缘由后猎人为之感动。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
-    "synonyms": [
-      "孝感动天"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -701,9 +691,7 @@
       "en": "About Zilu (仲由), a disciple of Confucius, who ate wild greens himself but walked a hundred li to carry rice home to his parents; later, rich, he regretted that they were no longer alive. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
       "zh": "子路是孔子弟子，家贫，自己吃野菜，却到百里外背米养亲；后来富贵了，父母已不在。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
-    "synonyms": [
-      "孝感动天"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -805,12 +793,8 @@
       "en": "Min Sun (闵损, Min Ziqian) was a disciple of Confucius; his stepmother lined his winter coat with reed catkins instead of cotton. When his father found out and wanted to divorce her, he begged for mercy. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
       "zh": "闵损是孔子弟子，后母用芦花给他做冬衣，父亲发现后要休妻，他跪求宽恕。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
-    "synonyms": [
-      "以德报怨"
-    ],
-    "antonyms": [
-      "以怨报怨"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "qin-chang-tang-yao",
@@ -862,7 +846,6 @@
       "zh": "汉文帝刘恒侍奉母亲薄太后，三年间衣不解带，汤药必先尝。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
     "synonyms": [
-      "衣不解带",
       "侍奉汤药"
     ],
     "antonyms": [
@@ -1289,9 +1272,7 @@
       "en": "Meng Zong (孟宗) was a Three Kingdoms-period figure; his sick mother craved bamboo-shoot soup in winter, and when he wept in the bamboo grove, shoots sprang up. Also called 孟宗哭竹. One of the Twenty-Four Filial Exemplars (《二十四孝》), a Yuan-dynasty collection by Guo Jujing; today the stories are seen as moral tales, and some of the more extreme ones are no longer held up as models.",
       "zh": "三国时的孟宗，母亲病中想喝笋汤，冬天无笋，他在竹林痛哭，笋破土而出。又称“孟宗哭竹”。出自元代郭居敬所编《二十四孝》；今天多当作道德故事看待，其中较极端的做法已不再被奉为榜样。"
     },
-    "synonyms": [
-      "孝感动天"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -1346,8 +1327,6 @@
     "synonyms": [
       "舍身救父"
     ],
-    "antonyms": [
-      "贪生怕死"
-    ]
+    "antonyms": []
   }
 ]

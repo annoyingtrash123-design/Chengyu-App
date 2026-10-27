@@ -37,12 +37,11 @@
       "zh": "源于民间旧说：羊羔吃奶时跪着，小乌鸦长大后会衔食喂养老鸦（参见“乌鸦反哺”）。属道德劝导而非生物学事实，书面语，常见于作文和家教。"
     },
     "synonyms": [
-      "乌鸦反哺",
       "反哺之情"
     ],
     "antonyms": [
-      "忘恩负义",
-      "忤逆不孝"
+      "忤逆不孝",
+      "忘恩负义"
     ]
   },
   {
@@ -50,7 +49,7 @@
     "text": "纸包不住火",
     "pinyin": "zhǐ bāo bù zhù huǒ",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -83,14 +82,17 @@
     },
     "synonyms": [
       "欲盖弥彰",
-      "纸里包不住火",
       "若要人不知，除非己莫为",
       "没有不透风的墙",
-      "恶事传千里"
+      "好事不出门，坏事传千里",
+      "东窗事发"
     ],
     "antonyms": [
-      "天衣无缝",
-      "守口如瓶"
+      "滴水不漏",
+      "天衣无缝"
+    ],
+    "variants": [
+      "纸里包不住火"
     ]
   },
   {
@@ -185,8 +187,7 @@
       "人心隔肚皮"
     ],
     "antonyms": [
-      "表里如一",
-      "一目了然"
+      "表里如一"
     ]
   },
   {
@@ -227,11 +228,9 @@
       "zh": "由旧话“黄金有价玉无价”改编而来，常见于卡片、广告和歌词。口语至中性。"
     },
     "synonyms": [
-      "情比金坚",
       "千金难买"
     ],
     "antonyms": [
-      "见利忘义",
       "唯利是图"
     ]
   },
@@ -292,8 +291,8 @@
       "勤能补拙"
     ],
     "antonyms": [
-      "好逸恶劳",
-      "不劳而获"
+      "不劳而获",
+      "好逸恶劳"
     ]
   },
   {
@@ -301,7 +300,7 @@
     "text": "功夫不负有心人",
     "pinyin": "gōng fū bù fù yǒu xīn rén",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -338,8 +337,8 @@
       "一分耕耘，一分收获",
       "世上无难事",
       "精诚所至，金石为开",
-      "有志竟成",
-      "功到自然成"
+      "功到自然成",
+      "有志竟成"
     ],
     "antonyms": [
       "半途而废",
@@ -383,13 +382,9 @@
       "zh": "常在受挫后用作安慰，常与“吃一堑，长一智”连说。“长”读 zhǎng，意为增长。"
     },
     "synonyms": [
-      "吃一堑，长一智",
-      "前车之鉴"
+      "吃一堑，长一智"
     ],
-    "antonyms": [
-      "一成不变",
-      "重蹈覆辙"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-jian-shi-jian-yan-zhen",
@@ -428,10 +423,7 @@
       "en": "A political and philosophical slogan from the 1978 debate in China on the criterion of truth, begun by a Guangming Daily article of that title. Formal; common in official language and textbooks.",
       "zh": "出自1978年中国关于真理标准问题的大讨论，起因是《光明日报》发表同题文章。书面语，常见于官方表述和教材。"
     },
-    "synonyms": [
-      "实事求是",
-      "知行合一"
-    ],
+    "synonyms": [],
     "antonyms": [
       "纸上谈兵",
       "清谈误国"
@@ -474,11 +466,9 @@
       "zh": "用来催促人把承诺变成行动，对只说不做的人含轻微责备。"
     },
     "synonyms": [
-      "身体力行",
-      "言必信，行必果"
+      "身体力行"
     ],
     "antonyms": [
-      "说的比唱的好听",
       "光说不练"
     ]
   },
@@ -527,8 +517,7 @@
     ],
     "antonyms": [
       "言出必行",
-      "说到做到",
-      "说得好不如做得好"
+      "说到做到"
     ]
   }
 ]

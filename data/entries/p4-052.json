@@ -8,7 +8,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "harsh-natural-conditions",
       "poems-prose",
       "landscapes"
     ],
@@ -56,8 +55,7 @@
       "直落而下"
     ],
     "antonyms": [
-      "涓涓细流",
-      "细水长流"
+      "涓涓细流"
     ]
   },
   {
@@ -240,12 +238,12 @@
       "zh": "作谓语，书面，常用于请求宽恕。"
     },
     "synonyms": [
-      "网开一面",
-      "从轻发落"
+      "从轻发落",
+      "网开一面"
     ],
     "antonyms": [
-      "执法如山",
-      "严惩不贷"
+      "严惩不贷",
+      "执法如山"
     ]
   },
   {
@@ -294,6 +292,9 @@
     "antonyms": [
       "败走麦城",
       "铩羽而归"
+    ],
+    "variants": [
+      "得胜还朝"
     ]
   },
   {
@@ -337,8 +338,7 @@
       "zh": "名词性，军事用语，也可比喻处境险恶。"
     },
     "synonyms": [
-      "兵家必争之地",
-      "腹背受敌"
+      "兵家必争之地"
     ],
     "antonyms": [
       "易守难攻"
@@ -385,7 +385,6 @@
       "zh": "日常常用，中性，常作“讲先来后到”。"
     },
     "synonyms": [
-      "论资排辈",
       "依次排队"
     ],
     "antonyms": [
@@ -484,8 +483,8 @@
       "倾国倾城"
     ],
     "antonyms": [
-      "其貌不扬",
-      "相貌平平"
+      "相貌平平",
+      "其貌不扬"
     ]
   },
   {
@@ -587,10 +586,7 @@
       "en": "Used in education and ethics; formal, commendatory. Contrasts with 姑息.",
       "zh": "用于教育和伦理，书面，含褒义，与“姑息”相对。"
     },
-    "synonyms": [
-      "恩威并施",
-      "严慈相济"
-    ],
+    "synonyms": [],
     "antonyms": [
       "姑息养奸"
     ]
@@ -649,7 +645,7 @@
     "text": "如之奈何",
     "pinyin": "rú zhī nài hé",
     "kind": "chengyu",
-    "frequency": 2,
+    "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -683,10 +679,13 @@
       "en": "Rhetorical question; literary or humorous in modern speech. 奈 reads nài.",
       "zh": "反问句式，现代多用于书面或幽默语气。“奈”读nài。"
     },
-    "synonyms": [],
+    "synonyms": [
+      "无可奈何",
+      "无计可施"
+    ],
     "antonyms": [
-      "胸有成竹",
-      "游刃有余"
+      "游刃有余",
+      "胸有成竹"
     ]
   },
   {
@@ -730,19 +729,15 @@
       "zh": "军事术语，20世纪常用，现有时用作比喻。"
     },
     "synonyms": [
-      "围魏救赵",
-      "诱敌深入"
+      "围魏救赵"
     ],
-    "antonyms": [
-      "长驱直入",
-      "孤军深入"
-    ]
+    "antonyms": []
   },
   {
     "id": "mei-mu-pan-xi",
     "text": "美目盼兮",
     "pinyin": "měi mù pàn xī",
-    "kind": "chengyu",
+    "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
     "register": "literary",
@@ -850,12 +845,9 @@
       "zh": "多与“似水流年”并用，感叹时光流逝。"
     },
     "synonyms": [
-      "娇妻美妾",
-      "红颜知己"
+      "娇妻美妾"
     ],
-    "antonyms": [
-      "糟糠之妻"
-    ]
+    "antonyms": []
   },
   {
     "id": "gu-gong-zhi-chen",
@@ -951,8 +943,7 @@
       "艳惊四座"
     ],
     "antonyms": [
-      "不屑一顾",
-      "平淡无奇"
+      "不屑一顾"
     ]
   },
   {
@@ -1058,8 +1049,8 @@
       "上古之治"
     ],
     "antonyms": [
-      "法令滋彰",
-      "繁文缛节"
+      "繁文缛节",
+      "法令滋彰"
     ]
   },
   {
@@ -1152,11 +1143,12 @@
       "zh": "作谓语，含贬义，口语。源自佛教吹法螺宣讲佛法，后比喻吹嘘。"
     },
     "synonyms": [
-      "夸夸其谈"
+      "夸夸其谈",
+      "自吹自擂"
     ],
     "antonyms": [
-      "谦虚谨慎",
-      "实事求是"
+      "实事求是",
+      "谦虚谨慎"
     ]
   },
   {
@@ -1260,12 +1252,11 @@
       "zh": "作谓语，也指天气，常比喻紧张的僵持局面。"
     },
     "synonyms": [
-      "山雨欲来风满楼",
       "暗流涌动"
     ],
     "antonyms": [
-      "倾盆大雨",
-      "云消雾散"
+      "云消雾散",
+      "倾盆大雨"
     ]
   }
 ]

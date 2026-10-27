@@ -53,8 +53,8 @@
       "可见一斑"
     ],
     "antonyms": [
-      "一叶障目",
-      "视而不见"
+      "视而不见",
+      "一叶障目"
     ]
   },
   {
@@ -66,8 +66,7 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "relationships",
-      "standards-and-benchmarks"
+      "relationships"
     ],
     "literal": "each other · be · outside · inside",
     "natural": "two sides of one coin",
@@ -97,10 +96,7 @@
       "相辅相成",
       "唇齿相依"
     ],
-    "antonyms": [
-      "背道而驰",
-      "南辕北辙"
-    ]
+    "antonyms": []
   },
   {
     "id": "zhuang-shen-nong-gui",
@@ -139,12 +135,11 @@
     },
     "synonyms": [
       "故弄玄虚",
-      "装腔作势",
-      "兴妖作怪"
+      "兴妖作怪",
+      "装腔作势"
     ],
     "antonyms": [
       "开诚布公",
-      "光明磊落",
       "破除迷信"
     ]
   },
@@ -197,18 +192,16 @@
     },
     "synonyms": [
       "人以群分",
-      "志同道合",
-      "臭味相投",
+      "气味相投",
       "近朱者赤，近墨者黑",
       "不是一家人不进一家门",
-      "鱼找鱼，虾找虾，乌龟爱王八——气味相投",
+      "鱼找鱼，虾找虾，乌龟专找王八",
       "德不孤，必有邻",
       "同气相求"
     ],
     "antonyms": [
-      "格格不入",
       "志不同道不合",
-      "择邻而居"
+      "格格不入"
     ]
   },
   {
@@ -297,7 +290,6 @@
       "zh": "可作谓语、状语。"
     },
     "synonyms": [
-      "白手起家",
       "勤俭节约",
       "就地取材"
     ],
@@ -347,8 +339,8 @@
     },
     "synonyms": [
       "空手而归",
-      "大失所望",
-      "铩羽而归"
+      "铩羽而归",
+      "大失所望"
     ],
     "antonyms": [
       "满载而归",
@@ -398,12 +390,12 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "心神不宁",
       "失魂落魄",
       "六神无主",
       "心不在焉",
       "神情恍惚",
-      "精神恍惚"
+      "精神恍惚",
+      "心神不宁"
     ],
     "antonyms": [
       "全神贯注",
@@ -414,7 +406,7 @@
     "id": "mei-shuo-zhi-yan",
     "text": "媒妁之言",
     "pinyin": "méi shuò zhī yán",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
@@ -446,9 +438,7 @@
       "en": "Usually paired with 父母之命.",
       "zh": "常与“父母之命”连用。"
     },
-    "synonyms": [
-      "父母之命，媒妁之言"
-    ],
+    "synonyms": [],
     "antonyms": [
       "自由恋爱",
       "自主婚姻"
@@ -499,8 +489,8 @@
       "出奇制胜"
     ],
     "antonyms": [
-      "严阵以待",
-      "有备无患"
+      "有备无患",
+      "严阵以待"
     ]
   },
   {
@@ -570,8 +560,7 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "news-and-officialese",
-      "experience-and-old-age"
+      "news-and-officialese"
     ],
     "literal": "not · lack · earlier · example",
     "natural": "there is no shortage of precedents",
@@ -598,8 +587,7 @@
       "zh": "多作谓语，书面语。"
     },
     "synonyms": [
-      "屡见不鲜",
-      "不乏其人"
+      "屡见不鲜"
     ],
     "antonyms": [
       "史无前例",
@@ -754,7 +742,6 @@
       "才貌双全"
     ],
     "antonyms": [
-      "平淡无奇",
       "相貌平平"
     ]
   },
@@ -795,58 +782,11 @@
       "zh": "可作谓语、状语。"
     },
     "synonyms": [
-      "言传身教",
-      "口口相传"
+      "言传身教"
     ],
     "antonyms": [
       "自学成才",
       "无师自通"
-    ]
-  },
-  {
-    "id": "e-yu-xiang-jia",
-    "text": "恶语相加",
-    "pinyin": "è yǔ xiāng jiā",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "conflict-and-strife",
-      "inappropriate-behavior"
-    ],
-    "literal": "evil · words · toward each other · add",
-    "natural": "heap abuse on",
-    "meaning": {
-      "en": "To hurl abusive words at someone.",
-      "zh": "用恶毒的话骂人、攻击人。"
-    },
-    "equivalents": [
-      "hurl abuse",
-      "say nasty things to"
-    ],
-    "examples": [
-      {
-        "zh": "两人争吵起来，恶语相加。",
-        "en": "The two quarrelled and hurled insults at each other."
-      },
-      {
-        "zh": "对待孩子不应恶语相加。",
-        "en": "One shouldn't hurl harsh words at children."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; often 对…恶语相加.",
-      "zh": "多作谓语，常说“对…恶语相加”。"
-    },
-    "synonyms": [
-      "恶语伤人",
-      "出言不逊",
-      "口出恶言"
-    ],
-    "antonyms": [
-      "和颜悦色",
-      "好言相劝"
     ]
   },
   {
@@ -890,7 +830,6 @@
       "zh": "多作谓语，较正式。"
     },
     "synonyms": [
-      "恰到好处",
       "正当其时",
       "来得早不如来得巧"
     ],
@@ -938,8 +877,7 @@
     },
     "synonyms": [
       "进退两难",
-      "武大郎攀杠子——上不着天，下不着地",
-      "比上不足，比下有余"
+      "武大郎攀杠子——上不着天，下不着地"
     ],
     "antonyms": [
       "游刃有余",
@@ -999,7 +937,6 @@
       "豪言壮语",
       "耀武扬威",
       "咆哮如雷",
-      "大喝一声",
       "吆五喝六"
     ]
   }

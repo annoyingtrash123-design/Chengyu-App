@@ -52,10 +52,8 @@
       "zh": "正式，含褒义，多见于政治、历史文章。"
     },
     "synonyms": [
-      "得道多助",
       "众望所归",
-      "天与人归",
-      "世界潮流，浩浩荡荡，顺之者昌，逆之者亡"
+      "天与人归"
     ],
     "antonyms": [
       "逆天而行",
@@ -157,14 +155,12 @@
   },
   {
     "id": "shuo-da-wu-peng",
-    "text": "硕大无比",
-    "pinyin": "shuò dà wú bǐ",
+    "text": "硕大无朋",
+    "pinyin": "shuò dà wú péng",
     "variants": [
-      "硕大无朋"
+      "硕大无比"
     ],
-    "variant_kinds": {
-      "硕大无朋": "old"
-    },
+    "variant_kinds": {},
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -215,9 +211,9 @@
       "巨大无比"
     ],
     "antonyms": [
-      "微不足道",
       "小巧玲珑",
-      "秋毫之末"
+      "秋毫之末",
+      "微不足道"
     ]
   },
   {
@@ -258,12 +254,11 @@
       "zh": "多作“摒除”“排除”的宾语，可指自私念头，也可指杂念。"
     },
     "synonyms": [
-      "杂七杂八",
       "胡思乱想"
     ],
     "antonyms": [
-      "一心一意",
-      "大公无私"
+      "大公无私",
+      "一心一意"
     ]
   },
   {
@@ -304,8 +299,8 @@
       "zh": "褒义，多用于写作和创意，可比较“文思泉涌”。"
     },
     "synonyms": [
-      "才思敏捷",
-      "下笔如神"
+      "下笔如有神",
+      "才思敏捷"
     ],
     "antonyms": [
       "江郎才尽",
@@ -414,8 +409,8 @@
       "文思泉涌",
       "信手拈来",
       "倚马可待",
-      "思如泉涌",
-      "援笔立成"
+      "援笔立成",
+      "思如泉涌"
     ]
   },
   {
@@ -531,7 +526,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "difficult-terrain",
       "journeys-and-exploration",
       "exam-favourites"
     ],
@@ -605,9 +599,7 @@
       "en": "Casual and teasing or angry; 窍 reads qiào.",
       "zh": "口语，带嘲讽或恼怒语气，“窍”读 qiào。"
     },
-    "synonyms": [
-      "执迷不悟"
-    ],
+    "synonyms": [],
     "antonyms": [
       "清醒明白",
       "幡然醒悟"
@@ -650,10 +642,7 @@
       "en": "Mostly critical, about the occasion's decorum; neutral for sport or hot weather.",
       "zh": "多含批评，指场合不得体；也可中性描述天热时的穿着。"
     },
-    "synonyms": [
-      "衣冠不整",
-      "赤身裸体"
-    ],
+    "synonyms": [],
     "antonyms": [
       "衣冠楚楚",
       "正襟危坐"
@@ -743,7 +732,6 @@
     },
     "synonyms": [
       "投机取巧",
-      "弄虚作假",
       "懒驴上磨屎尿多"
     ],
     "antonyms": [

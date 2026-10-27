@@ -36,11 +36,7 @@
       "en": "Mostly predicate or complement; praises composure and good sense of proportion.",
       "zh": "多作谓语、补语，赞扬人懂得分寸、从容得体。"
     },
-    "synonyms": [
-      "张弛有度",
-      "审时度势",
-      "不即不离"
-    ],
+    "synonyms": [],
     "antonyms": [
       "进退失据",
       "莽撞冒进",
@@ -223,7 +219,6 @@
       "zh": "作谓语、定语，称赞人阅历深、处事稳当。"
     },
     "synonyms": [
-      "老谋深算",
       "世故练达"
     ],
     "antonyms": [
@@ -318,8 +313,7 @@
       "zh": "多作宾语，常与“心腹之患”对比。“癣”读 xuǎn。"
     },
     "synonyms": [
-      "无关痛痒",
-      "小题大做"
+      "无关痛痒"
     ],
     "antonyms": [
       "心腹大患",
@@ -364,10 +358,7 @@
       "zh": "书面、古雅，带夸张色彩，多用于颂扬圣贤帝王。"
     },
     "synonyms": [
-      "德高望重",
-      "功德无量",
-      "以德配天",
-      "母仪天下"
+      "以德配天"
     ],
     "antonyms": [
       "德薄能鲜",
@@ -379,7 +370,7 @@
     "text": "争名夺利",
     "pinyin": "zhēng míng duó lì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -412,18 +403,16 @@
       "zh": "作谓语，含贬义，常与“淡泊名利”对照。"
     },
     "synonyms": [
-      "追名逐利",
-      "勾心斗角"
+      "追名逐利"
     ],
     "antonyms": [
       "淡泊名利",
       "清心寡欲",
       "为而不争",
-      "梅妻鹤子",
       "让枣推梨",
       "与世无争",
-      "上善若水",
-      "待到山花烂漫时，她在丛中笑"
+      "梅妻鹤子",
+      "上善若水"
     ]
   },
   {
@@ -464,59 +453,12 @@
       "zh": "多作独立语句或谓语，略带书面色彩。"
     },
     "synonyms": [
-      "求贤若渴",
       "千里马难得",
       "三军易得，一将难求"
     ],
     "antonyms": [
       "人才济济",
       "人满为患"
-    ]
-  },
-  {
-    "id": "ge-wu-qiong-li",
-    "text": "格物穷理",
-    "pinyin": "gé wù qióng lǐ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "reading-and-study",
-      "confucian-classics"
-    ],
-    "literal": "investigate · things · exhaust · principle",
-    "natural": "probe things to grasp their principles",
-    "meaning": {
-      "en": "To investigate things in order to master the underlying principles; a Neo-Confucian ideal of learning.",
-      "zh": "探究事物，穷尽其中的道理，是宋代理学提倡的求知方法。"
-    },
-    "equivalents": [
-      "investigate things to reach their principles",
-      "seek knowledge through inquiry"
-    ],
-    "examples": [
-      {
-        "zh": "朱熹主张格物穷理，由事物中求得真知。",
-        "en": "Zhu Xi advocated probing things to their principles in order to gain true knowledge."
-      },
-      {
-        "zh": "科学研究也是一种格物穷理的精神。",
-        "en": "Scientific research is also a spirit of investigating things to understand them."
-      }
-    ],
-    "usage": {
-      "en": "Scholarly term from 《大学》' 格物致知, developed by Song Neo-Confucians; used in discussions of philosophy and learning.",
-      "zh": "学术用语，源自《大学》“格物致知”，宋代理学家发挥，多用于谈论哲学与治学。"
-    },
-    "synonyms": [
-      "格物致知",
-      "穷究事理"
-    ],
-    "antonyms": [
-      "不求甚解",
-      "浅尝辄止"
     ]
   },
   {
@@ -614,7 +556,6 @@
       "zh": "谦辞，只能指自己的见解，不用于他人。常与“愚者千虑，必有一得”相关。"
     },
     "synonyms": [
-      "抛砖引玉",
       "千虑一得"
     ],
     "antonyms": [
@@ -678,8 +619,8 @@
     "register": "literary",
     "themes": [
       "rare-idioms",
-      "near-misses-and-setbacks",
-      "chaos"
+      "chaos",
+      "dead-ends-and-desperation"
     ],
     "literal": "not · get · one's · place",
     "natural": "not find one's proper place",
@@ -693,7 +634,7 @@
     ],
     "examples": [
       {
-        "zh": "难民流离失所，无不不得其所。",
+        "zh": "难民流离失所，大多不得其所。",
         "en": "The refugees were displaced, none of them properly settled."
       },
       {
@@ -706,12 +647,12 @@
       "zh": "作谓语、补语，与“各得其所”相反。不是“没得到想要的东西”。"
     },
     "synonyms": [
-      "无所适从",
       "流离失所"
     ],
     "antonyms": [
       "安居乐业",
-      "安身立命"
+      "安身立命",
+      "各得其所"
     ]
   },
   {
@@ -752,8 +693,8 @@
       "zh": "带轻蔑意味，书面语；当面使用显得傲慢。"
     },
     "synonyms": [
-      "芸芸众生",
-      "匹夫匹妇"
+      "匹夫匹妇",
+      "芸芸众生"
     ],
     "antonyms": [
       "有识之士",
@@ -802,7 +743,6 @@
       "腹背受敌"
     ],
     "antonyms": [
-      "孤军奋战",
       "单枪匹马"
     ]
   },
@@ -844,13 +784,15 @@
       "zh": "作谓语，书面、古雅，常与“吊民伐罪”相连。"
     },
     "synonyms": [
-      "拯民于水火",
       "解民倒悬"
     ],
     "antonyms": [
       "祸国殃民",
       "生灵涂炭",
       "荼毒生灵"
+    ],
+    "variants": [
+      "拯民于水火"
     ]
   },
   {

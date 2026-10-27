@@ -93,8 +93,8 @@
       "勃然大怒"
     ],
     "antonyms": [
-      "笑逐颜开",
-      "心平气和"
+      "心平气和",
+      "笑逐颜开"
     ]
   },
   {
@@ -139,9 +139,7 @@
     },
     "synonyms": [
       "居安思危",
-      "时刻警惕",
-      "晨钟暮鼓",
-      "当头棒喝"
+      "时刻警惕"
     ],
     "antonyms": [
       "麻痹大意",
@@ -193,7 +191,6 @@
       "艺压群芳"
     ],
     "antonyms": [
-      "才疏学浅",
       "相貌平平"
     ]
   },
@@ -206,7 +203,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "positive-character-qualities",
       "exam-favourites",
       "friendship"
     ],
@@ -349,14 +345,11 @@
     },
     "synonyms": [
       "息兵罢战",
-      "文治武功",
       "马放南山"
     ],
     "antonyms": [
       "穷兵黩武",
-      "兴师动众",
       "整军经武",
-      "兵凶战危",
       "弃文就武"
     ]
   },
@@ -555,10 +548,10 @@
   },
   {
     "id": "shang-cuan-xia-tiao",
-    "text": "上窜下跳",
-    "pinyin": "shàng cuàn xià tiào",
+    "text": "上蹿下跳",
+    "pinyin": "shàng cuān xià tiào",
     "variants": [
-      "上蹿下跳"
+      "上窜下跳"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -567,7 +560,7 @@
     "themes": [
       "inappropriate-behavior"
     ],
-    "literal": "up · scurry · down · jump",
+    "literal": "up · leap · down · jump",
     "natural": "scurry about stirring trouble",
     "meaning": {
       "en": "To dash around busily, like a monkey, causing trouble; to run about scheming.",
@@ -596,7 +589,6 @@
       "zh": "作谓语，指人搞鬼时含贬义；写孩子时只是活蹦乱跳。"
     },
     "synonyms": [
-      "东奔西走",
       "四处奔走"
     ],
     "antonyms": [
@@ -662,8 +654,7 @@
     ],
     "antonyms": [
       "风华正茂",
-      "年富力强",
-      "廉颇未老"
+      "年富力强"
     ]
   },
   {
@@ -710,8 +701,8 @@
       "直言不讳"
     ],
     "antonyms": [
-      "阿谀奉承",
-      "唯唯诺诺"
+      "唯唯诺诺",
+      "阿谀奉承"
     ]
   },
   {
@@ -817,9 +808,7 @@
     "synonyms": [
       "疏影横斜水清浅，暗香浮动月黄昏"
     ],
-    "antonyms": [
-      "花团锦簇"
-    ]
+    "antonyms": []
   },
   {
     "id": "ye-jing-geng-shen",
@@ -867,6 +856,9 @@
     "antonyms": [
       "灯火通明",
       "热闹非凡"
+    ],
+    "variants": [
+      "更深夜静"
     ]
   },
   {
@@ -924,8 +916,7 @@
       "不可言喻"
     ],
     "antonyms": [
-      "言简意赅",
-      "畅所欲言"
+      "言简意赅"
     ]
   },
   {
@@ -972,15 +963,15 @@
       "一心一意"
     ],
     "antonyms": [
-      "三心二意",
-      "一心二用"
+      "一心二用",
+      "三心二意"
     ]
   },
   {
     "id": "zhuo-zei-zhuo-zang",
     "text": "捉贼捉赃",
     "pinyin": "zhuō zéi zhuō zāng",
-    "kind": "chengyu",
+    "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
@@ -1068,8 +1059,6 @@
       "zh": "作谓语、定语，称赞学者、作家；也作“著述等身”。"
     },
     "synonyms": [
-      "硕果累累",
-      "学富五车",
       "著书立说"
     ],
     "antonyms": [
@@ -1104,20 +1093,20 @@
     ],
     "examples": [
       {
-        "zh": "他视救命恩人为重生父母。",
+        "zh": "他视救命恩人为再生父母。",
         "en": "He regards his saviour as a second parent."
       },
       {
-        "zh": "您对我恩重如山，是我的重生父母。",
+        "zh": "您对我恩重如山，是我的再生父母。",
         "en": "You have been immensely kind; you are like a second parent to me."
       },
       {
-        "zh": "灾后志愿者被灾民称为重生父母。",
+        "zh": "灾后志愿者被灾民称为再生父母。",
         "en": "Volunteers were called saviours by the victims after the disaster."
       }
     ],
     "usage": {
-      "en": "Expression of deep gratitude; formal or rhetorical. 重 reads chóng.",
+      "en": "Expression of deep gratitude; formal or rhetorical. 再 reads zài; the variant 重生父母 uses 重 read chóng.",
       "zh": "表达深切感激，较书面。“重”读chóng。"
     },
     "synonyms": [
@@ -1125,7 +1114,6 @@
       "恩重如山"
     ],
     "antonyms": [
-      "恩将仇报",
       "忘恩负义"
     ]
   },
@@ -1178,8 +1166,7 @@
       "忧心如焚"
     ],
     "antonyms": [
-      "泰然自若",
-      "从容不迫"
+      "泰然自若"
     ]
   },
   {

@@ -37,7 +37,6 @@
     },
     "synonyms": [
       "说风凉话",
-      "隔岸观火",
       "饱汉不知饿汉饥"
     ],
     "antonyms": [
@@ -80,12 +79,8 @@
       "en": "Often said of underdogs or desperate opponents.",
       "zh": "常指弱势或破釜沉舟的一方。"
     },
-    "synonyms": [
-      "破罐子破摔"
-    ],
-    "antonyms": [
-      "瞻前顾后"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "qing-zhe-zi-qing-zhuo-zhe-zi-zhuo",
@@ -128,8 +123,6 @@
       "身正不怕影子斜"
     ],
     "antonyms": [
-      "欲盖弥彰",
-      "人言可畏",
       "苍蝇不叮无缝蛋",
       "跳进黄河洗不清",
       "积毁销骨"
@@ -260,8 +253,8 @@
       "zh": "常与“三十年河东，三十年河西”连用。"
     },
     "synonyms": [
-      "三十年河东，三十年河西",
-      "英雄不问出处"
+      "英雄不问出处",
+      "三十年河东，三十年河西"
     ],
     "antonyms": [
       "狗眼看人低"
@@ -348,8 +341,7 @@
       "zh": "译自英语谚语，汉语中广泛使用。"
     },
     "synonyms": [
-      "冰冻三尺，非一日之寒",
-      "水滴石穿"
+      "冰冻三尺，非一日之寒"
     ],
     "antonyms": [
       "一蹴而就",
@@ -366,7 +358,7 @@
     "register": "casual",
     "themes": [
       "relationships",
-      "evenly-matched"
+      "unity-and-cooperation"
     ],
     "literal": "one · chopstick · easy · break, ten · chopsticks · hard · snap",
     "natural": "one chopstick breaks easily, ten are hard to snap",
@@ -441,11 +433,10 @@
       "zh": "多用于坏事，也可轻松使用。"
     },
     "synonyms": [
-      "同舟共济",
-      "休戚与共"
+      "同舟共济"
     ],
     "antonyms": [
-      "各奔东西"
+      "各自东西"
     ]
   },
   {
@@ -576,9 +567,7 @@
       "en": "Humorous and stereotyped; some consider it dated.",
       "zh": "戏谑，有刻板印象，有人认为不妥。"
     },
-    "synonyms": [
-      "一个和尚挑水吃，两个和尚抬水吃，三个和尚没水吃"
-    ],
+    "synonyms": [],
     "antonyms": [
       "鸦雀无声"
     ]
@@ -620,12 +609,9 @@
       "zh": "也指为博红颜一笑不惜重金。"
     },
     "synonyms": [
-      "一笑千金",
-      "价值连城"
+      "一笑千金"
     ],
-    "antonyms": [
-      "愁眉苦脸"
-    ]
+    "antonyms": []
   },
   {
     "id": "qian-jin-nan-mai-hou-hui-yao",
@@ -668,6 +654,7 @@
       "追悔莫及"
     ],
     "antonyms": [
+      "三思而后行",
       "亡羊补牢"
     ]
   },
@@ -795,9 +782,7 @@
       "来得正好",
       "适逢其时"
     ],
-    "antonyms": [
-      "姗姗来迟"
-    ]
+    "antonyms": []
   },
   {
     "id": "dao-bu-mo-yao-sheng-xiu",
@@ -837,11 +822,9 @@
     },
     "synonyms": [
       "活到老，学到老",
-      "学如逆水行舟，不进则退"
+      "逆水行舟"
     ],
-    "antonyms": [
-      "故步自封"
-    ]
+    "antonyms": []
   },
   {
     "id": "bao-zi-you-rou-bu-zai-zhe-shang",
@@ -853,7 +836,7 @@
     "register": "casual",
     "themes": [
       "deception-and-false-appearances",
-      "experience-and-old-age"
+      "food"
     ],
     "literal": "bun · has · meat · not · in · pleats · on",
     "natural": "a bun's meat isn't in its pleats",
@@ -880,7 +863,7 @@
       "zh": "形象地说明内在比外表重要。"
     },
     "synonyms": [
-      "金玉其外"
+      "真人不露相"
     ],
     "antonyms": [
       "华而不实",
@@ -930,9 +913,7 @@
       "笑里藏刀",
       "会咬人的狗不叫"
     ],
-    "antonyms": [
-      "刀子嘴，豆腐心"
-    ]
+    "antonyms": []
   },
   {
     "id": "dan-si-bu-cheng-xian-du-mu-bu-cheng-lin",
@@ -944,7 +925,7 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "efficiency"
+      "unity-and-cooperation"
     ],
     "literal": "single · thread · not · make · string, lone · tree · not · make · forest",
     "natural": "a single thread makes no string, a lone tree no forest",
@@ -1062,60 +1043,10 @@
       "zh": "常用于旅行或在外时的感叹。"
     },
     "synonyms": [
-      "家和万事兴",
       "金窝银窝不如自己的狗窝"
     ],
     "antonyms": [
       "四海为家"
-    ]
-  },
-  {
-    "id": "cha-zhi-hao-li-shi-zhi-qian-li",
-    "text": "差之毫厘，失之千里",
-    "pinyin": "chā zhī háo lí, shī zhī qiān lǐ",
-    "variants": [
-      "失之毫厘，差之千里",
-      "失之毫厘，差以千里"
-    ],
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "mistakes-and-correction",
-      "exact-vs-approximate"
-    ],
-    "literal": "differ · by · hair · tiny measure, lose · by · thousand · miles",
-    "natural": "a hair's breadth off at the start means a thousand miles lost",
-    "meaning": {
-      "en": "A tiny error at the start leads to a huge mistake in the end.",
-      "zh": "开始时的小误差，最后会造成大错。"
-    },
-    "equivalents": [
-      "a miss is as good as a mile",
-      "for want of a nail"
-    ],
-    "examples": [
-      {
-        "zh": "差之毫厘，失之千里，数据录入一定要仔细。",
-        "en": "A hair's breadth of error becomes a thousand miles; be careful with data entry."
-      },
-      {
-        "zh": "差之毫厘，失之千里，航天任务不能有任何失误。",
-        "en": "Space missions allow no error."
-      }
-    ],
-    "usage": {
-      "en": "Often used for precise fields: science, engineering, accounting.",
-      "zh": "常用于科学、工程、会计等需要精确的领域。"
-    },
-    "synonyms": [
-      "谬以千里",
-      "一失足成千古恨"
-    ],
-    "antonyms": [
-      "分毫不差",
-      "万无一失"
     ]
   }
 ]

@@ -92,8 +92,7 @@
     },
     "synonyms": [
       "死于非命",
-      "自食其果",
-      "咎由自取"
+      "自食其果"
     ],
     "antonyms": [
       "寿终正寝",
@@ -196,11 +195,7 @@
       "活到老，学到老",
       "学无止境"
     ],
-    "antonyms": [
-      "不学无术",
-      "故步自封",
-      "浅尝辄止"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-ru-shui-huo",
@@ -251,13 +246,13 @@
       "不共戴天"
     ],
     "antonyms": [
-      "水乳交融",
       "和睦相处",
-      "情同手足",
       "化干戈为玉帛",
       "化敌为友",
       "蜜里调油",
-      "亲如一家"
+      "亲如一家",
+      "情同手足",
+      "水乳交融"
     ]
   },
   {
@@ -301,10 +296,9 @@
       "zh": "劝人未雨绸缪；常与“养儿防老”连用。作谓语或格言。"
     },
     "synonyms": [
-      "未雨绸缪",
-      "有备无患",
       "居安思危",
-      "养儿防老"
+      "未雨绸缪",
+      "有备无患"
     ],
     "antonyms": [
       "临渴掘井",
@@ -321,8 +315,7 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "mistakes-and-correction",
-      "circular-conclusions"
+      "mistakes-and-correction"
     ],
     "literal": "reverse · effect · take as · cause",
     "natural": "take the effect for the cause",
@@ -354,11 +347,9 @@
     },
     "synonyms": [
       "因果倒置",
-      "本末倒置",
-      "颠倒是非"
+      "本末倒置"
     ],
     "antonyms": [
-      "追根溯源",
       "顺理成章"
     ]
   },
@@ -419,8 +410,7 @@
     ],
     "antonyms": [
       "以牙还牙",
-      "睚眦必报",
-      "徇私枉法"
+      "睚眦必报"
     ]
   },
   {
@@ -472,58 +462,6 @@
       "异口同声",
       "众口一词",
       "不谋而合"
-    ]
-  },
-  {
-    "id": "yi-gao-dan-da",
-    "text": "艺高胆大",
-    "pinyin": "yì gāo dǎn dà",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "positive-character-qualities",
-      "master-craftsmanship"
-    ],
-    "literal": "skill · high · courage · big",
-    "natural": "great skill, great nerve",
-    "meaning": {
-      "en": "A person of high skill is bold and unafraid.",
-      "zh": "本领高强的人胆子也大。"
-    },
-    "equivalents": [
-      "skill breeds boldness",
-      "confident because he's good"
-    ],
-    "examples": [
-      {
-        "zh": "他艺高胆大，一个人就敢闯那片原始森林。",
-        "en": "Being so skilled he's bold enough to enter that primeval forest alone."
-      },
-      {
-        "zh": "老消防员艺高胆大，冲在最前面。",
-        "en": "The veteran firefighter, skilled and fearless, charged to the front."
-      },
-      {
-        "zh": "艺高胆大是好事，但也不能轻敌。",
-        "en": "Being skilled and bold is good, but don't underestimate the enemy."
-      }
-    ],
-    "usage": {
-      "en": "Usually praise; also used in the saying 艺高人胆大. Can warn against overconfidence. Predicate.",
-      "zh": "多含赞扬；也说“艺高人胆大”。有时提醒不要轻敌。作谓语。"
-    },
-    "synonyms": [
-      "艺高人胆大",
-      "胆大心细",
-      "胆识过人",
-      "武松打虎——艺高人胆大"
-    ],
-    "antonyms": [
-      "胆小如鼠",
-      "缩手缩脚",
-      "技不如人"
     ]
   },
   {
@@ -630,14 +568,6 @@
     "id": "ren-wei-cai-si-niao-wei-shi-wang",
     "text": "人为财死，鸟为食亡",
     "pinyin": "rén wèi cái sǐ, niǎo wèi shí wáng",
-    "variants": [
-      "人为财死",
-      "鸟为食亡"
-    ],
-    "variant_kinds": {
-      "人为财死": "short",
-      "鸟为食亡": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -676,15 +606,19 @@
       "zh": "民间俗语，带无奈和批评。可能被用来为贪婪开脱，需慎用。上下句可单用。"
     },
     "synonyms": [
-      "利令智昏",
-      "见钱眼开",
-      "为富不仁",
-      "饱暖思淫欲，饥寒起盗心"
+      "利令智昏"
     ],
     "antonyms": [
-      "视金钱如粪土",
-      "安贫乐道"
-    ]
+      "视金钱如粪土"
+    ],
+    "variants": [
+      "人为财死",
+      "鸟为食亡"
+    ],
+    "variant_kinds": {
+      "人为财死": "short",
+      "鸟为食亡": "short"
+    }
   },
   {
     "id": "fei-tou-da-er",
@@ -779,13 +713,11 @@
       "zh": "形容临时补救并非真正解决；常指债务。作谓语、状语。"
     },
     "synonyms": [
-      "东挪西借",
       "挖肉补疮",
-      "饮鸩止渴"
+      "饮鸩止渴",
+      "东挪西借"
     ],
     "antonyms": [
-      "从长计议",
-      "未雨绸缪",
       "宽裕有余"
     ]
   },
@@ -832,13 +764,13 @@
     "synonyms": [
       "身体力行",
       "亲力亲为",
-      "学以致用",
-      "实践出真知"
+      "学以致用"
     ],
     "antonyms": [
       "纸上谈兵",
       "夸夸其谈",
-      "清谈误国"
+      "清谈误国",
+      "纸上得来终觉浅，绝知此事要躬行"
     ]
   },
   {
@@ -886,58 +818,7 @@
       "君权神授"
     ],
     "antonyms": [
-      "逆天而行",
-      "大逆不道"
-    ]
-  },
-  {
-    "id": "suo-jian-lve-tong",
-    "text": "所见略同",
-    "pinyin": "suǒ jiàn lüè tóng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "evenly-matched"
-    ],
-    "literal": "what · see · roughly · same",
-    "natural": "views largely the same",
-    "meaning": {
-      "en": "To hold much the same view as someone else.",
-      "zh": "看法大致相同。"
-    },
-    "equivalents": [
-      "great minds think alike",
-      "see eye to eye"
-    ],
-    "examples": [
-      {
-        "zh": "你也觉得这个方案好？英雄所见略同！",
-        "en": "You think the plan is good too? Great minds think alike!"
-      },
-      {
-        "zh": "我们对这件事所见略同。",
-        "en": "We largely agree on this matter."
-      },
-      {
-        "zh": "两位专家所见略同，都建议手术。",
-        "en": "The two specialists reached much the same view and both advised surgery."
-      }
-    ],
-    "usage": {
-      "en": "Friendly and complimentary; often in 英雄所见略同 (a compliment to oneself and the other). Predicate.",
-      "zh": "友好、略带夸赞；常说“英雄所见略同”。作谓语。"
-    },
-    "synonyms": [
-      "不谋而合",
-      "英雄所见略同",
-      "志同道合"
-    ],
-    "antonyms": [
-      "见仁见智",
-      "意见相左",
-      "分歧很大"
+      "逆天而行"
     ]
   },
   {
@@ -1050,56 +931,6 @@
     ]
   },
   {
-    "id": "wu-ke-zhi-hui",
-    "text": "无可置喙",
-    "pinyin": "wú kě zhì huì",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "poor-speech-and-silence"
-    ],
-    "literal": "no · can · put in · beak",
-    "natural": "no room to put a word in",
-    "meaning": {
-      "en": "Nothing to say about it; no room for criticism or interference.",
-      "zh": "没有插嘴或评论的余地。"
-    },
-    "equivalents": [
-      "nothing to add",
-      "beyond comment"
-    ],
-    "examples": [
-      {
-        "zh": "这是他们的家事，外人无可置喙。",
-        "en": "It's their family business, and outsiders have no say."
-      },
-      {
-        "zh": "他的专业水平极高，我们无可置喙。",
-        "en": "His expertise is so high that we have nothing to say."
-      },
-      {
-        "zh": "事实俱在，对方无可置喙。",
-        "en": "The facts are all there and the other side can say nothing."
-      }
-    ],
-    "usage": {
-      "en": "Often with 外人/旁人 as subject. Formal. 喙 (huì) is a beak, i.e. a mouth, here used figuratively.",
-      "zh": "常以外人、旁人作主语。较书面。“喙”本指鸟嘴，这里比喻人的嘴。"
-    },
-    "synonyms": [
-      "无从插嘴",
-      "无可置疑",
-      "不容置喙"
-    ],
-    "antonyms": [
-      "指手画脚",
-      "说三道四",
-      "说长道短"
-    ]
-  },
-  {
     "id": "sa-po-da-gun",
     "text": "撒泼打滚",
     "pinyin": "sā pō dǎ gǔn",
@@ -1207,8 +1038,8 @@
       "以武止戈"
     ],
     "antonyms": [
-      "穷兵黩武",
-      "好战成性"
+      "好战成性",
+      "穷兵黩武"
     ]
   },
   {
@@ -1255,8 +1086,6 @@
       "枝蔓横生",
       "横生枝节"
     ],
-    "antonyms": [
-      "开门见山"
-    ]
+    "antonyms": []
   }
 ]

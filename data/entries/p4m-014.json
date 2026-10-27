@@ -375,8 +375,8 @@
   },
   {
     "id": "fen-gu-sui-shen-hun-bu",
-    "text": "粉骨碎身浑不怕，要留清白在人间",
-    "pinyin": "fěn gǔ suì shēn hún bù pà, yào liú qīng bái zài rén jiān",
+    "text": "粉骨碎身全不怕，要留清白在人间",
+    "pinyin": "fěn gǔ suì shēn quán bù pà, yào liú qīng bái zài rén jiān",
     "kind": "mingju",
     "frequency": 3,
     "sentiment": "positive",
@@ -388,7 +388,7 @@
       "essay-favourites",
       "poets"
     ],
-    "literal": "powder · bones · smash · body · completely · not · fear, want · leave · purity · in · human · world",
+    "literal": "powder · bones · smash · body · completely · not · fear, want · leave · pure · white · in · human · world",
     "natural": "I'm not afraid to be ground to powder, as long as I leave purity in the world",
     "meaning": {
       "en": "Fearless integrity: willing to die rather than lose one's honour; quoted to praise incorruptible officials and heroes.",
@@ -400,11 +400,11 @@
     ],
     "examples": [
       {
-        "zh": "廉政教育基地的墙上刻着“粉骨碎身浑不怕，要留清白在人间”。",
+        "zh": "廉政教育基地的墙上刻着“粉骨碎身全不怕，要留清白在人间”。",
         "en": "'粉骨碎身浑不怕，要留清白在人间' is carved on the wall of the integrity education centre."
       },
       {
-        "zh": "他用“粉骨碎身浑不怕，要留清白在人间”自勉，一生清廉。",
+        "zh": "他用“粉骨碎身全不怕，要留清白在人间”自勉，一生清廉。",
         "en": "He encouraged himself with '粉骨碎身浑不怕，要留清白在人间' and stayed honest all his life."
       }
     ],
@@ -424,7 +424,10 @@
       "zh": "引用的名句，书面语，常见于作文、文案和演讲。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "粉骨碎身浑不怕，要留清白在人间"
+    ]
   },
   {
     "id": "qian-mo-wan-ji-hai-jian",
@@ -917,9 +920,10 @@
     "themes": [
       "poems-prose",
       "high-aspirations",
-      "time-management",
       "essay-favourites",
-      "poets"
+      "poets",
+      "attitude-humble-vs-arrogant",
+      "effort"
     ],
     "literal": "thirty · merit · fame · dust · and · earth, eight thousand · li · road · clouds · and · moon",
     "natural": "At thirty my deeds and fame are as dust; eight thousand li of road lie under clouds and moon",

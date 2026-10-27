@@ -56,8 +56,7 @@
       "如诗如画"
     ],
     "antonyms": [
-      "索然无味",
-      "平淡无奇"
+      "索然无味"
     ]
   },
   {
@@ -111,11 +110,10 @@
     "synonyms": [
       "人生如梦",
       "南柯一梦",
-      "白驹过隙",
-      "庄周梦蝶"
+      "庄周梦蝶",
+      "白驹过隙"
     ],
     "antonyms": [
-      "脚踏实地",
       "永垂不朽"
     ]
   },
@@ -175,7 +173,6 @@
     },
     "synonyms": [
       "灵活运用",
-      "因地制宜",
       "随机应变"
     ],
     "antonyms": [
@@ -238,7 +235,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "poor-speech-and-silence"
+      "poor-speech-and-silence",
+      "leadership-and-authority"
     ],
     "literal": "golden · mouth · jade · words",
     "natural": "golden mouth, jade words",
@@ -322,6 +320,9 @@
     "antonyms": [
       "高枕无忧",
       "酣然入梦"
+    ],
+    "variants": [
+      "夜不能寐"
     ]
   },
   {
@@ -365,10 +366,7 @@
       "en": "Mostly in myth and fiction, but used jokingly in real life to say that a request is unrealistic. Usually paired with 呼风唤雨 in magic descriptions.",
       "zh": "多见于神魔小说，口语中戏指要求不现实。"
     },
-    "synonyms": [
-      "呼风唤雨",
-      "点石成金"
-    ],
+    "synonyms": [],
     "antonyms": [
       "无能为力",
       "巧妇难为无米之炊"
@@ -417,14 +415,12 @@
     "synonyms": [
       "狐朋狗友",
       "一丘之貉",
-      "小人之交甘若醴",
-      "酒肉朋友千个有，落难之中无一人"
+      "小人之交甘若醴"
     ],
     "antonyms": [
       "患难之交",
       "莫逆之交",
       "生死之交",
-      "以文会友",
       "良师益友",
       "金石之交",
       "君子之交淡如水",
@@ -434,10 +430,11 @@
       "布衣之交",
       "管鲍之交",
       "车笠之盟",
-      "人生得一知己足矣",
       "益者三友",
       "贫贱之交",
       "君子之交",
+      "以文会友",
+      "人生得一知己足矣",
       "以友辅仁"
     ]
   },
@@ -483,12 +480,10 @@
       "zh": "口语比喻，也常作歇后语“断了线的风筝——一去不回”。"
     },
     "synonyms": [
-      "一去不返",
-      "杳无音信",
+      "一去不复返",
       "石沉大海"
     ],
     "antonyms": [
-      "牵肠挂肚",
       "如影随形"
     ]
   },
@@ -549,8 +544,8 @@
       "换位思考"
     ],
     "antonyms": [
-      "自以为是",
-      "各自为政"
+      "各自为政",
+      "自以为是"
     ]
   },
   {
@@ -590,12 +585,10 @@
       "zh": "贬义，书面。“饕餮”是传说中贪吃的怪兽，常见于青铜器纹饰。"
     },
     "synonyms": [
-      "贪得无厌",
       "暴饮暴食"
     ],
     "antonyms": [
-      "清心寡欲",
-      "粗茶淡饭"
+      "清心寡欲"
     ]
   },
   {
@@ -644,8 +637,7 @@
       "超凡脱俗"
     ],
     "antonyms": [
-      "矫揉造作",
-      "平淡无奇"
+      "矫揉造作"
     ]
   },
   {
@@ -714,7 +706,6 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "small-numbers",
       "exact-vs-approximate"
     ],
     "literal": "clearly · clearly · can · count",
@@ -768,7 +759,8 @@
     "register": "formal",
     "themes": [
       "military-strategy-and-victory",
-      "leadership-and-authority"
+      "leadership-and-authority",
+      "nationalist-kmt"
     ],
     "literal": "pacify · inside · repel · outside",
     "natural": "stabilise within and repel without",
@@ -799,14 +791,9 @@
       "zh": "与20世纪30年代“攘外必先安内”政策有关，当时受到批评；今多在谋略语境中中性使用。"
     },
     "synonyms": [
-      "先内后外",
-      "攘外必先安内",
-      "尊王攘夷"
+      "先内后外"
     ],
-    "antonyms": [
-      "内忧外患",
-      "腹背受敌"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-qing-er-bai",
@@ -865,15 +852,16 @@
     "text": "锦衣夜行",
     "pinyin": "jǐn yī yè xíng",
     "variants": [
-      "衣锦夜行"
+      "衣锦夜行",
+      "衣绣夜行"
     ],
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
     "themes": [
-      "unintended-results",
-      "historical-records"
+      "historical-records",
+      "outstanding-success-and-fame"
     ],
     "literal": "brocade · robes · night · walk",
     "natural": "walk at night in brocade",
@@ -914,11 +902,7 @@
       "en": "Historically from Xiang Yu's refusal to leave the capital. Today a figure of speech for 'unrecognised success'; sometimes humorous. Often 衣锦夜行.",
       "zh": "本指项羽不愿回乡，今比喻成功无人知晓，有时带幽默。"
     },
-    "synonyms": [
-      "怀才不遇",
-      "明珠暗投",
-      "藏锋守拙"
-    ],
+    "synonyms": [],
     "antonyms": [
       "衣锦还乡",
       "荣归故里"
@@ -979,13 +963,10 @@
       "en": "A historical stratagem (the 24th of the Thirty-Six Stratagems). 虢 is read guó. Usually warns about a stronger party's pretext.",
       "zh": "三十六计第二十四计。“虢”读guó，多用于警惕强者借口并吞。"
     },
-    "synonyms": [
-      "笑里藏刀",
-      "口蜜腹剑"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "开诚布公",
-      "以诚相待"
+      "以诚相待",
+      "开诚布公"
     ]
   },
   {
@@ -1041,8 +1022,8 @@
       "zh": "多含贬义，指投机取巧的捷径。"
     },
     "synonyms": [
-      "投机取巧",
-      "旁门左道"
+      "进身之阶",
+      "投机取巧"
     ],
     "antonyms": [
       "循序渐进",
@@ -1153,17 +1134,17 @@
       "zh": "亲切、带调侃，不宜当面评价别人胖。“胖”读pán（安泰舒适），不读pàng。"
     },
     "synonyms": [
-      "无忧无虑",
-      "怡然自得",
-      "满面红光"
+      "怡然自得"
     ],
     "antonyms": [
       "忧心忡忡",
       "形容枯槁",
-      "心力交瘁",
       "哀毁骨立",
       "茶饭不思",
       "衣带渐宽"
+    ],
+    "variants": [
+      "心广体胖"
     ]
   },
   {
@@ -1223,7 +1204,7 @@
     "synonyms": [
       "淡泊明志",
       "心如止水",
-      "沉着冷静"
+      "非淡泊无以明志，非宁静无以致远"
     ],
     "antonyms": [
       "急功近利",
@@ -1277,8 +1258,8 @@
       "戏彩娱亲"
     ],
     "antonyms": [
-      "远走高飞",
       "背井离乡",
+      "远走高飞",
       "子欲养而亲不待"
     ]
   },

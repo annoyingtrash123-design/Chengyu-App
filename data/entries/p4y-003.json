@@ -168,7 +168,6 @@
       "zh": "多形容极度奢华，常带讽刺或批评意味。书面语。"
     },
     "synonyms": [
-      "金碧辉煌",
       "锦衣玉食",
       "富可敌国"
     ],
@@ -225,9 +224,7 @@
       "en": "Quoted when speaking of Lin Daiyu or of melancholy, lonely beauty; literary and elegiac.",
       "zh": "常在谈论林黛玉或抒写孤寂哀婉时引用，书面语，格调凄美。"
     },
-    "synonyms": [
-      "落花流水"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -282,10 +279,7 @@
       "en": "A story allusion, often used jokingly for wild delight. Fan Jin, a poor scholar, failed repeatedly until he passed at 54; the shock made him lose his wits until his butcher father-in-law slapped him. Chapter 3 of 《儒林外史》; a standard school text.",
       "zh": "典故。范进屡试不中，五十四岁中举，狂喜发疯，被平日怕他的岳父胡屠户一巴掌打醒。出自《儒林外史》第三回，是中学课文，常用来调侃狂喜失态。"
     },
-    "synonyms": [
-      "喜出望外",
-      "欣喜若狂"
-    ],
+    "synonyms": [],
     "antonyms": [
       "名落孙山"
     ]
@@ -340,9 +334,7 @@
       "en": "Usually half-joking or critical; the line implies private passion overriding duty. Often cited with the story of Wu Sangui and Chen Yuanyuan. Do not confuse with 怒发冲冠 (hair bristling with rage, usually for a noble cause).",
       "zh": "多带调侃或批评，暗含为私情而不顾大局。常与吴三桂、陈圆圆的故事相连。与“怒发冲冠”不同，后者多为义愤。"
     },
-    "synonyms": [
-      "红颜祸水"
-    ],
+    "synonyms": [],
     "antonyms": [
       "不近女色"
     ]
@@ -396,9 +388,7 @@
       "en": "Quoted in speeches and essays about reform and renewal. The next line is 万马齐喑究可哀 (a silent herd is a sad thing). Formal and literary.",
       "zh": "常用于谈改革创新的演讲和文章。下句为“万马齐喑究可哀”。书面语。"
     },
-    "synonyms": [
-      "雷厉风行"
-    ],
+    "synonyms": [],
     "antonyms": [
       "万马齐喑",
       "死气沉沉"
@@ -450,15 +440,15 @@
       "大开眼界"
     ],
     "antonyms": [
-      "闭关锁国",
-      "井底之蛙"
+      "井底之蛙",
+      "闭关锁国"
     ]
   },
   {
     "id": "zhong-ti-xi-yong",
     "text": "中体西用",
     "pinyin": "zhōng tǐ xī yòng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "variants": [
       "中学为体，西学为用"
@@ -498,9 +488,7 @@
       "en": "A historical term for the 洋务运动 (1860s-90s) ideology; closely linked to Zhang Zhidong's 《劝学篇》 (1898). Used in history and cultural debate. Neutral, though critics see its limits.",
       "zh": "历史术语，指洋务运动的指导思想，与张之洞《劝学篇》（1898）关系密切。多用于历史和文化讨论，中性。"
     },
-    "synonyms": [
-      "洋为中用"
-    ],
+    "synonyms": [],
     "antonyms": [
       "全盘西化"
     ]
@@ -559,10 +547,7 @@
       "en": "Today often quoted in speeches and the press for epoch-making change. Li's own wording varied: 'a great change of more than three thousand years' (1872) and 'a change not seen for thousands of years' (1874). Formal.",
       "zh": "今多见于演讲和新闻，指时代的重大转折。李鸿章原话有“三千余年一大变局”（1872）、“数千年来未有之变局”（1874）等说法。书面语。"
     },
-    "synonyms": [
-      "沧海桑田",
-      "天翻地覆"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一成不变",
       "墨守成规"
@@ -606,8 +591,7 @@
       "zh": "与曾国藩及湘军对太平军的战法关系密切，今多作勤勉务实、不取巧的座右铭。褒义。"
     },
     "synonyms": [
-      "稳扎稳打",
-      "脚踏实地"
+      "稳扎稳打"
     ],
     "antonyms": [
       "投机取巧",
@@ -616,12 +600,12 @@
   },
   {
     "id": "da-tuo-ya-huo-xue-tun",
-    "text": "打脱牙和血吞",
-    "pinyin": "dǎ tuō yá huò xuè tūn",
+    "text": "打落牙齿和血吞",
+    "pinyin": "dǎ luò yá chǐ huò xuè tūn",
     "kind": "suyu",
     "frequency": 3,
     "variants": [
-      "打落牙齿和血吞"
+      "打脱牙和血吞"
     ],
     "sentiment": "neutral",
     "register": "casual",
@@ -630,7 +614,7 @@
       "giving-up-and-weakness",
       "experience-and-old-age"
     ],
-    "literal": "knock · out · tooth · mix with · blood · swallow",
+    "literal": "knock · out · teeth · with · blood · swallow",
     "natural": "swallow a knocked-out tooth with the blood",
     "meaning": {
       "en": "To endure a humiliating loss or hardship in silence, swallowing the pain instead of complaining or retaliating.",
@@ -656,10 +640,10 @@
       "zh": "常与曾国藩屡败屡战的坚忍联系起来；今通行说法为“打落牙齿和血吞”。可含敬佩（坚韧），也可含无奈。"
     },
     "synonyms": [
-      "忍气吞声",
       "逆来顺受",
-      "打掉门牙，往肚子里咽",
-      "哑巴吃黄连，有苦说不出"
+      "哑巴吃黄连，有苦说不出",
+      "忍气吞声",
+      "打掉门牙，往肚子里咽"
     ],
     "antonyms": [
       "以牙还牙",
@@ -779,8 +763,8 @@
       "学富五车"
     ],
     "antonyms": [
-      "不学无术",
-      "孤陋寡闻"
+      "孤陋寡闻",
+      "不学无术"
     ]
   },
   {
@@ -886,9 +870,7 @@
       "en": "Traditionally attributed to Qing court figures such as Yixin or Ronglu (传), often loosely linked to the 1900-01 settlement; the source is not firmly documented. Formal, historical-critical.",
       "zh": "传为清廷人物如奕訢、荣禄等所说，常与庚子事变后的议和相联系，出处不详。书面语，用于历史评论。"
     },
-    "synonyms": [
-      "割地赔款"
-    ],
+    "synonyms": [],
     "antonyms": [
       "自强不息"
     ]
@@ -931,12 +913,12 @@
       "zh": "多含批评，指妄自尊大、不了解外界。典型例子是1793年乾隆给英王乔治三世的敕谕，称天朝无需外夷货物。书面语。"
     },
     "synonyms": [
-      "妄自尊大",
-      "夜郎自大"
+      "夜郎自大",
+      "妄自尊大"
     ],
     "antonyms": [
-      "虚怀若谷",
-      "谦虚谨慎"
+      "谦虚谨慎",
+      "虚怀若谷"
     ]
   },
   {
@@ -948,7 +930,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "qing-dynasty",
       "peace-and-prosperity",
       "historical-periods"
     ],
@@ -1068,12 +1049,11 @@
     },
     "synonyms": [
       "丧权辱国",
-      "割地求和",
-      "量中华之物力，结与国之欢心"
+      "割地求和"
     ],
     "antonyms": [
-      "寸土不让",
-      "收复失地"
+      "收复失地",
+      "寸土不让"
     ]
   },
   {
@@ -1124,14 +1104,14 @@
     "id": "hong-ding-shang-ren",
     "text": "红顶商人",
     "pinyin": "hóng dǐng shāng rén",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "qing-dynasty",
-      "business-failure",
-      "historical-periods"
+      "historical-periods",
+      "society"
     ],
     "literal": "red · button · merchant",
     "natural": "the red-button merchant",
@@ -1158,8 +1138,6 @@
       "zh": "历史词语，“红顶”指高官官帽上的红色顶珠。今可指依靠官场关系发迹的商人。中性略带批评。"
     },
     "synonyms": [],
-    "antonyms": [
-      "白手起家"
-    ]
+    "antonyms": []
   }
 ]

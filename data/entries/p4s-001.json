@@ -36,7 +36,6 @@
       "zh": "多用于告诫，常整句引用。"
     },
     "synonyms": [
-      "祸从口出",
       "言多必失"
     ],
     "antonyms": []
@@ -79,9 +78,7 @@
       "en": "A weather proverb from farming and travelling life; often quoted in full.",
       "zh": "农谚，用来预测天气，常整句引用。"
     },
-    "synonyms": [
-      "日落胭脂红，无雨便是风"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -134,50 +131,6 @@
     "antonyms": []
   },
   {
-    "id": "zhi-li-bao-bu-zhu-huo",
-    "text": "纸里包不住火",
-    "pinyin": "zhǐ lǐ bāo bù zhù huǒ",
-    "kind": "suyu",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "deception-and-false-appearances",
-      "natural-consequences"
-    ],
-    "literal": "paper · inside · wrap · not · live · fire",
-    "natural": "You can't wrap fire in paper",
-    "meaning": {
-      "en": "The truth cannot be hidden forever; sooner or later it will come out.",
-      "zh": "事实真相无法掩盖，终究会暴露出来。"
-    },
-    "equivalents": [
-      "Truth will out",
-      "Murder will out",
-      "You can't keep a secret forever"
-    ],
-    "examples": [
-      {
-        "zh": "他以为贪污的事没人知道，可纸里包不住火，最后还是被查出来了。",
-        "en": "He thought nobody knew about the embezzlement, but the truth always comes out, and he was eventually caught."
-      },
-      {
-        "zh": "纸里包不住火，你还是主动向老师坦白吧。",
-        "en": "The truth will come out anyway, so you'd better confess to the teacher yourself."
-      }
-    ],
-    "usage": {
-      "en": "Used of scandals, lies and wrongdoing. Usually a warning; the pinyin is bāo bù zhù (bú before a fourth tone).",
-      "zh": "多指丑事、谎言终会败露，常作警告。"
-    },
-    "synonyms": [
-      "欲盖弥彰",
-      "东窗事发",
-      "纸包不住火"
-    ],
-    "antonyms": []
-  },
-  {
     "id": "shi-bai-shi-cheng-gong-zhi-mu",
     "text": "失败是成功之母",
     "pinyin": "shī bài shì chéng gōng zhī mǔ",
@@ -217,10 +170,11 @@
       "zh": "用于失败后的鼓励，十分常用。"
     },
     "synonyms": [
-      "屡败屡战",
       "吃一堑，长一智"
     ],
-    "antonyms": []
+    "antonyms": [
+      "一蹶不振"
+    ]
   },
   {
     "id": "hao-han-bu-chi-yan-qian-kui",
@@ -235,8 +189,8 @@
     "register": "casual",
     "themes": [
       "adaptability",
-      "poor-planning-and-hasty-decisions",
-      "ming-dynasty"
+      "ming-dynasty",
+      "wisdom"
     ],
     "literal": "good · fellow · not · eat · before · eyes · loss",
     "natural": "A real man doesn't take a loss right in front of him",
@@ -301,7 +255,7 @@
       }
     ],
     "usage": {
-      "en": "Advice to be generous; usually paired with 且饶人 as a whole line (得理不饶人 is the opposite attitude).",
+      "en": "Advice to be generous; often continued 得放手时须放手 (得理不饶人 is the opposite attitude).",
       "zh": "劝人宽容，常整句使用；与“得理不饶人”相反。"
     },
     "synonyms": [
@@ -326,7 +280,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "inappropriate-behavior",
       "polite-humble",
       "buddhist-origin",
       "ming-dynasty"
@@ -478,9 +431,7 @@
       "en": "Advises humility when operating in unfamiliar territory. Often used in business and travel.",
       "zh": "劝人到外地要谦让，多用于生意、出行等场合。"
     },
-    "synonyms": [
-      "入乡随俗"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -548,7 +499,7 @@
     "register": "casual",
     "themes": [
       "adaptability",
-      "joy-and-happiness"
+      "comebacks-and-renewal"
     ],
     "literal": "boat · reach · bridge · head · naturally · straight",
     "natural": "The boat will straighten out by the time it reaches the bridge",
@@ -575,8 +526,7 @@
       "zh": "口语宽慰语，常与“车到山前必有路”连用。"
     },
     "synonyms": [
-      "车到山前必有路",
-      "天塌下来有个高的顶着"
+      "车到山前必有路"
     ],
     "antonyms": []
   },
@@ -710,9 +660,7 @@
       "en": "Xi Shi is the legendary beauty of ancient Yue. Often said teasingly about couples or parents.",
       "zh": "西施为春秋越国美女。常用来调侃恋人或父母。"
     },
-    "synonyms": [
-      "爱屋及乌"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -759,7 +707,8 @@
       "执迷不悟"
     ],
     "antonyms": [
-      "见好就收"
+      "回头是岸",
+      "知难而退"
     ]
   },
   {
@@ -840,7 +789,7 @@
       }
     ],
     "usage": {
-      "en": "A warning against greed; often quoted in full or as 人心不足蛇吞象.",
+      "en": "A warning against greed; often continued 世事到头螳捕蝉.",
       "zh": "告诫人不要贪心，常整句引用。"
     },
     "synonyms": [
@@ -904,6 +853,7 @@
     "themes": [
       "failed-ambitions",
       "animal-behavior-metaphors",
+      "attitude-humble-vs-arrogant",
       "polite-humble"
     ],
     "literal": "scabby · toad · want · eat · swan · meat",
@@ -1018,10 +968,8 @@
     },
     "synonyms": [
       "人心隔肚皮",
-      "人面兽心",
       "人心难测",
-      "画虎画皮难画骨",
-      "害人之心不可有，防人之心不可无"
+      "画虎画皮难画骨"
     ],
     "antonyms": [
       "推心置腹"

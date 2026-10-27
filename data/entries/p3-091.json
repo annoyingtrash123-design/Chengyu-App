@@ -48,13 +48,19 @@
     "antonyms": [
       "隔靴搔痒",
       "浮光掠影"
-    ]
+    ],
+    "variants": [
+      "鞭辟近里"
+    ],
+    "variant_kinds": {
+      "鞭辟近里": "old"
+    }
   },
   {
     "id": "fan-rong-xing-wang",
     "text": "繁荣兴旺",
     "pinyin": "fán róng xīng wàng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
@@ -256,8 +262,8 @@
       "尊师重道"
     ],
     "antonyms": [
-      "离经叛道",
-      "目无尊长"
+      "目无尊长",
+      "离经叛道"
     ]
   },
   {
@@ -455,8 +461,8 @@
     "antonyms": [
       "知足常乐",
       "清心寡欲",
-      "为道日损",
       "少私寡欲",
+      "为道日损",
       "无欲则刚"
     ]
   },
@@ -552,11 +558,8 @@
       "zh": "谚语。"
     },
     "synonyms": [
-      "风气败坏",
-      "言传身教",
-      "一将无能，累死三军",
-      "前方吃紧，后方紧吃",
-      "有其父必有其子"
+      "有其父必有其子",
+      "风气败坏"
     ],
     "antonyms": [
       "以身作则",
@@ -709,7 +712,6 @@
       "恭喜发财"
     ],
     "antonyms": [
-      "破财消灾",
       "倾家荡产"
     ]
   },
@@ -802,8 +804,8 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "祸国殃民",
-      "贻害无穷"
+      "贻害无穷",
+      "祸国殃民"
     ],
     "antonyms": [
       "造福于民",
@@ -815,7 +817,7 @@
     "text": "足智多谋",
     "pinyin": "zú zhì duō móu",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -854,20 +856,18 @@
       "神机妙算",
       "智勇双全",
       "老谋深算",
-      "智取生辰纲",
       "雄才大略",
       "文韬武略",
       "诡计多端",
-      "运筹帷幄之中，决胜千里之外",
       "聪明能干",
       "有勇有谋",
-      "万人之敌",
       "精明能干",
       "聪明睿智",
       "多谋善断",
       "用兵如神",
       "运筹帷幄",
-      "聪明才智"
+      "聪明才智",
+      "运筹帷幄之中，决胜千里之外"
     ],
     "antonyms": [
       "愚昧无知",
@@ -927,8 +927,8 @@
       "光天化日"
     ],
     "antonyms": [
-      "黑灯瞎火",
-      "漆黑一团"
+      "漆黑一团",
+      "黑灯瞎火"
     ]
   },
   {
@@ -941,7 +941,7 @@
     "register": "casual",
     "themes": [
       "parenting-and-family",
-      "positive-character-qualities"
+      "family-and-home"
     ],
     "literal": "ask · long · ask · short",
     "natural": "ask all kinds of caring questions",
@@ -1022,12 +1022,10 @@
     },
     "synonyms": [
       "全民动员",
-      "举国一致",
-      "军事第一，胜利第一"
+      "举国一致"
     ],
     "antonyms": [
-      "解甲归田",
-      "偃旗息鼓"
+      "解甲归田"
     ]
   },
   {
@@ -1036,7 +1034,7 @@
     "pinyin": "bì rén ěr mù",
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "negative",
+    "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "deception-and-false-appearances"
@@ -1071,8 +1069,7 @@
       "zh": "作谓语；与“掩人耳目”（蒙蔽别人）不同。"
     },
     "synonyms": [
-      "偷偷摸摸",
-      "隐姓埋名"
+      "偷偷摸摸"
     ],
     "antonyms": [
       "公之于众",

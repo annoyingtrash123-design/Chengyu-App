@@ -47,10 +47,7 @@
       "en": "Philosophical and formal; mostly in discussions of governance or moral education. 格 here means 'to rectify', not 'grade'.",
       "zh": "带哲理色彩，正式；多用于讨论治国或德育。“格”在此指“纠正”，不是“等级”。"
     },
-    "synonyms": [
-      "知耻近乎勇",
-      "以德服人"
-    ],
+    "synonyms": [],
     "antonyms": [
       "厚颜无耻",
       "寡廉鲜耻"
@@ -163,8 +160,7 @@
       "zh": "褒义；“惧”在此指“谨慎”，不是“害怕”。常与“好谋而成”连用。正式。"
     },
     "synonyms": [
-      "如履薄冰",
-      "谨小慎微"
+      "如履薄冰"
     ],
     "antonyms": [
       "掉以轻心",
@@ -210,12 +206,10 @@
       "zh": "传统吉祥图案，多用于女寿；近名词用法。口语少见，多见于装饰。"
     },
     "synonyms": [
-      "蟠桃献寿",
-      "福寿双全"
+      "蟠桃献寿"
     ],
     "antonyms": [
-      "短命夭折",
-      "英年早逝"
+      "短命夭折"
     ]
   },
   {
@@ -314,9 +308,7 @@
       "zh": "诗意的赞语，多用于梅、松、菊，或以之比人。作定语、谓语。"
     },
     "synonyms": [
-      "傲雪凌霜",
-      "不屈不挠",
-      "已是悬崖百丈冰，犹有花枝俏"
+      "傲雪凌霜"
     ],
     "antonyms": [
       "弱不禁风",
@@ -373,8 +365,7 @@
       "zh": "书面语；常用来谦称。其对偶语为“求全之毁”。“虞”意为“料想”。"
     },
     "synonyms": [
-      "过誉之词",
-      "意外之喜"
+      "过誉之词"
     ],
     "antonyms": [
       "求全之毁",
@@ -583,13 +574,10 @@
       "zh": "批评不公的管理或治理；与“先教后罚”相对。正式。"
     },
     "synonyms": [
-      "滥施刑罚",
-      "草菅人命"
+      "滥施刑罚"
     ],
     "antonyms": [
-      "先教后罚",
-      "教而后诛",
-      "循循善诱"
+      "先教后罚"
     ]
   },
   {
@@ -680,7 +668,6 @@
       "风光无限"
     ],
     "antonyms": [
-      "寸草不生",
       "穷山恶水"
     ]
   },
@@ -722,8 +709,7 @@
       "zh": "积极、鼓励性的表达；也常用来比喻牛、骆驼。正式。可比较“任重道远”。"
     },
     "synonyms": [
-      "任重道远",
-      "肩负重任"
+      "任重道远"
     ],
     "antonyms": [
       "半途而废",
@@ -828,10 +814,7 @@
       "塞翁失马",
       "否极泰来"
     ],
-    "antonyms": [
-      "一成不变",
-      "福无双至"
-    ]
+    "antonyms": []
   },
   {
     "id": "jian-ji-lu-ji",
@@ -930,7 +913,6 @@
     },
     "synonyms": [
       "笼鸟槛猿",
-      "身不由己",
       "釜中之鱼"
     ],
     "antonyms": [
@@ -995,65 +977,6 @@
     ]
   },
   {
-    "id": "pin-jian-bu-yi",
-    "text": "贫贱不移",
-    "pinyin": "pín jiàn bù yí",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "positive-character-qualities",
-      "confucian-classics",
-      "rare-idioms"
-    ],
-    "literal": "poor · lowly · not · shift",
-    "natural": "poverty cannot make one waver",
-    "meaning": {
-      "en": "Not to waver in one's principles when poor or of low status.",
-      "zh": "处境贫贱而志向、节操不变。"
-    },
-    "equivalents": [
-      "unshaken by poverty",
-      "keep one's integrity in hard times"
-    ],
-    "examples": [
-      {
-        "zh": "他一生贫贱不移，始终坚守读书人的清高。",
-        "en": "All his life he stayed true to his principles, poor as he was, holding to a scholar's integrity."
-      },
-      {
-        "zh": "富贵不能淫，贫贱不移，这才是大丈夫。",
-        "en": "One who is not corrupted by wealth and not shaken by poverty is a true man."
-      }
-    ],
-    "origin": {
-      "source": "《孟子·滕文公下》",
-      "story": {
-        "en": "'Not to be corrupted by wealth and rank, not to waver in poverty and low station, not to bend before force: this is what makes a great man' (富贵不能淫，贫贱不能移，威武不能屈).",
-        "zh": "“富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。”"
-      },
-      "date": {
-        "zh": "战国中期 · 前4世纪",
-        "en": "mid Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Part of Mencius' trio 富贵不能淫，贫贱不能移，威武不能屈. Praise for integrity; formal.",
-      "zh": "孟子“富贵不能淫，贫贱不能移，威武不能屈”之一。称赞操守；正式。"
-    },
-    "synonyms": [
-      "安贫乐道",
-      "志坚不移",
-      "君子固穷",
-      "人穷志不短"
-    ],
-    "antonyms": [
-      "见利忘义",
-      "趋炎附势"
-    ]
-  },
-  {
     "id": "chu-guai-lu-chou",
     "text": "出乖露丑",
     "pinyin": "chū guāi lù chǒu",
@@ -1096,8 +1019,8 @@
       "贻笑大方"
     ],
     "antonyms": [
-      "大放异彩",
-      "出类拔萃"
+      "出类拔萃",
+      "大放异彩"
     ]
   },
   {
@@ -1201,8 +1124,8 @@
       "侠骨柔肠"
     ],
     "antonyms": [
-      "有勇无谋",
-      "粗鲁莽撞"
+      "粗鲁莽撞",
+      "有勇无谋"
     ]
   },
   {
@@ -1246,10 +1169,7 @@
       "书香门第",
       "耕读传家"
     ],
-    "antonyms": [
-      "目不识丁",
-      "不学无术"
-    ]
+    "antonyms": []
   },
   {
     "id": "gong-zi-ge-er",

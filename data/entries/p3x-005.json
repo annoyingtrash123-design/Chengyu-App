@@ -44,7 +44,6 @@
       "针锋相对"
     ],
     "antonyms": [
-      "隔岸观火",
       "握手言和"
     ]
   },
@@ -142,8 +141,7 @@
       "一挥而就"
     ],
     "antonyms": [
-      "字斟句酌",
-      "三思而行"
+      "字斟句酌"
     ]
   },
   {
@@ -298,12 +296,9 @@
       "zh": "名词，多用于艺术、技艺、学术领域。"
     },
     "synonyms": [
-      "关门弟子",
       "亲传弟子"
     ],
-    "antonyms": [
-      "泛泛之交"
-    ]
+    "antonyms": []
   },
   {
     "id": "nu-ban-nan-zhuang",
@@ -345,10 +340,7 @@
       "en": "Predicate; common in opera and fiction.",
       "zh": "多作谓语，常见于戏曲、小说。"
     },
-    "synonyms": [
-      "改头换面",
-      "乔装打扮"
-    ],
+    "synonyms": [],
     "antonyms": [
       "原形毕露"
     ]
@@ -404,12 +396,8 @@
       "en": "Verb-object phrase; literal in most uses.",
       "zh": "动宾结构，多取字面义。"
     },
-    "synonyms": [
-      "刀耕火种"
-    ],
-    "antonyms": [
-      "火中取栗"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "he-zong-lian-heng",
@@ -463,12 +451,11 @@
       "zh": "多作谓语、定语，用于历史、政治语境。"
     },
     "synonyms": [
-      "纵横捭阖",
-      "远交近攻"
+      "纵横捭阖"
     ],
     "antonyms": [
-      "孤军奋战",
-      "各自为政"
+      "各自为政",
+      "孤军奋战"
     ]
   },
   {
@@ -535,7 +522,7 @@
     "synonyms": [
       "弱肉强食",
       "大浪淘沙",
-      "优胜劣败",
+      "优胜劣汰",
       "物竞天择"
     ],
     "antonyms": [
@@ -687,10 +674,10 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "腰缠万贯",
       "富甲一方",
       "富可敌国",
-      "堆金积玉"
+      "堆金积玉",
+      "腰缠万贯"
     ],
     "antonyms": [
       "一贫如洗",
@@ -698,7 +685,8 @@
       "身无分文",
       "牵萝补屋",
       "身无长物",
-      "室如悬磬"
+      "室如悬磬",
+      "一穷二白"
     ]
   },
   {
@@ -958,7 +946,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "mental-clarity"
+      "mental-clarity",
+      "speech"
     ],
     "literal": "truly · have · its · matter",
     "natural": "it did happen",
@@ -976,8 +965,8 @@
         "en": "Investigation showed that what was said online was true."
       },
       {
-        "zh": "这件事确有其事，并非谣言。",
-        "en": "It really did happen; it is no rumour."
+        "zh": "网上的传闻确有其事，并非谣言。",
+        "en": "The rumour online is indeed true, not a hoax."
       },
       {
         "zh": "记者核实后，证明此事确有其事。",
@@ -996,7 +985,8 @@
       "子虚乌有",
       "查无此事",
       "龟毛兔角",
-      "白日见鬼"
+      "白日见鬼",
+      "凭空捏造"
     ]
   },
   {
@@ -1010,7 +1000,9 @@
     "themes": [
       "military-strategy-and-victory",
       "three-kingdoms",
-      "competition-and-rivalry"
+      "competition-and-rivalry",
+      "outstanding-success-and-fame",
+      "ming-dynasty"
     ],
     "literal": "pass · gate · behead · general",
     "natural": "fight one's way through",
@@ -1055,11 +1047,14 @@
       "所向披靡",
       "一路过关",
       "关关难过，关关过",
-      "过五关斩六将"
+      "披荆斩棘"
     ],
     "antonyms": [
       "败下阵来",
       "一败涂地"
+    ],
+    "variants": [
+      "过五关斩六将"
     ]
   },
   {
@@ -1155,8 +1150,8 @@
       "叹为观止"
     ],
     "antonyms": [
-      "不以为然",
-      "见怪不怪"
+      "见怪不怪",
+      "不以为然"
     ]
   },
   {
@@ -1199,11 +1194,9 @@
       "zh": "后接美名，带讽刺意味。"
     },
     "synonyms": [
-      "冠冕堂皇",
-      "名不副实"
+      "冠冕堂皇"
     ],
     "antonyms": [
-      "名副其实",
       "直言不讳"
     ]
   },
@@ -1266,7 +1259,8 @@
     ],
     "antonyms": [
       "老态龙钟",
-      "暮气沉沉"
+      "暮气沉沉",
+      "未老先衰"
     ]
   },
   {

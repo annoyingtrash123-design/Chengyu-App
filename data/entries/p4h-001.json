@@ -44,12 +44,11 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。常用来自嘲，作为多嘴提醒别人之前的开场白。"
     },
     "synonyms": [
-      "多管闲事",
-      "越俎代庖"
+      "多管闲事"
     ],
     "antonyms": [
-      "袖手旁观",
-      "事不关己"
+      "事不关己",
+      "袖手旁观"
     ]
   },
   {
@@ -147,12 +146,9 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。"
     },
     "synonyms": [
-      "自身难保",
       "自顾不暇"
     ],
-    "antonyms": [
-      "游刃有余"
-    ]
+    "antonyms": []
   },
   {
     "id": "huang-shu-lang-gei-ji-bai",
@@ -223,7 +219,6 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "fine-cuisine",
       "positive-character-qualities"
     ],
     "literal": "scallion · mix · tofu — one · green/clear · two · white",
@@ -238,7 +233,7 @@
     ],
     "examples": [
       {
-        "zh": "这笔账小葱拌豆腐，一清二白，不怕查。",
+        "zh": "他当了一辈子官，小葱拌豆腐——一清二白。",
         "en": "These accounts are crystal clear; we have nothing to fear from an audit."
       },
       {
@@ -303,8 +298,8 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。“窍”既指孔洞，也指领悟的门道。"
     },
     "synonyms": [
-      "一窍不通",
       "一无所知",
+      "一窍不通",
       "孤陋寡闻"
     ],
     "antonyms": [
@@ -356,12 +351,12 @@
     },
     "synonyms": [
       "痴心妄想",
-      "异想天开",
-      "白日做梦"
+      "白日做梦",
+      "异想天开"
     ],
     "antonyms": [
-      "自知之明",
-      "安分守己"
+      "安分守己",
+      "自知之明"
     ]
   },
   {
@@ -408,8 +403,8 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。"
     },
     "synonyms": [
-      "以卵击石",
-      "不自量力"
+      "不自量力",
+      "以卵击石"
     ],
     "antonyms": [
       "量力而行"
@@ -661,9 +656,7 @@
     "synonyms": [
       "拭目以待"
     ],
-    "antonyms": [
-      "为时已晚"
-    ]
+    "antonyms": []
   },
   {
     "id": "wang-ba-chi-cheng-tuo-tie-le-xin",
@@ -709,9 +702,8 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。“王八”略粗俗，仅限随意交谈；单说“铁了心”则很规范。"
     },
     "synonyms": [
-      "执迷不悟",
       "一意孤行",
-      "下定决心，不怕牺牲，排除万难，去争取胜利"
+      "执迷不悟"
     ],
     "antonyms": [
       "犹豫不决"
@@ -757,9 +749,7 @@
       "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Also used on its own as a noun: 他是个铁公鸡 ('he's a miser').",
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。也可单独作名词用：“他是个铁公鸡”。"
     },
-    "synonyms": [
-      "一毛不拔"
-    ],
+    "synonyms": [],
     "antonyms": [
       "慷慨大方",
       "一掷千金"
@@ -769,9 +759,6 @@
     "id": "guan-gong-mian-qian-shua-da",
     "text": "关公面前耍大刀——自不量力",
     "pinyin": "guān gōng miàn qián shuǎ dà dāo —— zì bù liàng lì",
-    "variants": [
-      "鲁班门前耍大斧——不自量力"
-    ],
     "kind": "xiehouyu",
     "frequency": 2,
     "parts": [
@@ -787,7 +774,7 @@
     "literal": "Guan Gong · in front of · play · big · sword — self · not · weigh · strength",
     "natural": "showing off a halberd in front of Guan Yu",
     "meaning": {
-      "en": "Brandishing a sword in front of the master swordsman Guan Yu; showing off one's modest skill before a real expert.",
+      "en": "Brandishing a big blade (the guandao) in front of the master Guan Yu; showing off one's modest skill before a real expert.",
       "zh": "在关羽面前舞大刀；比喻在行家面前卖弄本领，不自量力。"
     },
     "equivalents": [
@@ -813,8 +800,7 @@
       "不自量力"
     ],
     "antonyms": [
-      "虚怀若谷",
-      "谦虚谨慎"
+      "虚怀若谷"
     ]
   },
   {
@@ -961,7 +947,6 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。常只说“打肿脸充胖子”；后半句直接点明含义。"
     },
     "synonyms": [
-      "死要面子活受罪",
       "爱慕虚荣",
       "装腔作势"
     ],
@@ -1064,13 +1049,12 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。"
     },
     "synonyms": [
-      "一去不返",
+      "一去不复返",
       "石沉大海",
       "付诸东流"
     ],
     "antonyms": [
-      "物归原主",
-      "满载而归"
+      "物归原主"
     ]
   },
   {
@@ -1191,8 +1175,9 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "mistakes-and-correction",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "confusion-and-doubt",
+      "deception-and-false-appearances"
     ],
     "literal": "yellow · mud · fall into · trouser crotch · inside — not · be · dung · also · be · dung",
     "natural": "mud in one's trousers looks like dung either way",
@@ -1242,7 +1227,7 @@
     "register": "casual",
     "themes": [
       "psychological-pressure",
-      "fear-and-cowardice"
+      "complex-emotional-states"
     ],
     "literal": "fifteen · bucket · draw · water — seven · up · eight · down",
     "natural": "fifteen buckets at the well: seven up, eight down",
@@ -1269,9 +1254,9 @@
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。后半句也独立使用，“七上八下”。七加八正好十五。"
     },
     "synonyms": [
-      "忐忑不安",
       "心神不宁",
-      "七上八下"
+      "七上八下",
+      "忐忑不安"
     ],
     "antonyms": [
       "镇定自若",

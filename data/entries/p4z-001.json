@@ -5,9 +5,6 @@
     "pinyin": "fǎn jiàn jì",
     "kind": "chengyu",
     "frequency": 2,
-    "variants": [
-      "离间计"
-    ],
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
@@ -51,12 +48,10 @@
       "zh": "《三十六计》第三十三计。既用于军事，也用于职场、竞技中的造谣离间。中性；“中反间计”指上了这种当。"
     },
     "synonyms": [
-      "挑拨离间",
       "借刀杀人"
     ],
     "antonyms": [
-      "同心同德",
-      "坦诚相待"
+      "坦诚相见"
     ]
   },
   {
@@ -108,12 +103,10 @@
       "zh": "《三十六计》第三十二计。常说“唱空城计”“摆空城计”，指虚张声势；也诙谐地指冰箱或房子空空如也。中性，略带戏谑。"
     },
     "synonyms": [
-      "虚张声势",
-      "故弄玄虚"
+      "虚张声势"
     ],
     "antonyms": [
-      "严阵以待",
-      "兵强马壮"
+      "严阵以待"
     ]
   },
   {
@@ -121,7 +114,7 @@
     "text": "美人计",
     "pinyin": "měi rén jì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -156,7 +149,6 @@
       "温柔陷阱"
     ],
     "antonyms": [
-      "坐怀不乱",
       "不为所动"
     ]
   },
@@ -165,7 +157,7 @@
     "text": "苦肉计",
     "pinyin": "kǔ ròu jì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -198,7 +190,6 @@
     },
     "synonyms": [],
     "antonyms": [
-      "光明磊落",
       "坦诚相见"
     ]
   },
@@ -238,12 +229,8 @@
       "en": "One of the Thirty-Six Stratagems (第三十五计); famous from Three Kingdoms, where Diaochan is used to set Dong Zhuo and Lü Bu against each other.",
       "zh": "三十六计之一，《三国演义》中王允、貂蝉离间董卓、吕布最为有名。"
     },
-    "synonyms": [
-      "环环相扣",
-      "一石二鸟"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "单枪匹马",
       "直来直去"
     ]
   }

@@ -9,7 +9,6 @@
     "register": "neutral",
     "themes": [
       "conduct",
-      "fairness-and-impartiality",
       "historical-records"
     ],
     "literal": "heaven · knows · earth · knows",
@@ -52,12 +51,11 @@
       "zh": "常见全句“天知地知，你知我知”；可表问心无愧，也可用于私下交易的口吻。"
     },
     "synonyms": [
-      "神不知鬼不觉",
-      "问心无愧"
+      "神不知鬼不觉"
     ],
     "antonyms": [
-      "家喻户晓",
-      "路人皆知"
+      "路人皆知",
+      "家喻户晓"
     ]
   },
   {
@@ -103,10 +101,7 @@
       "en": "Predicate; mild and polite, describing hesitation shown on the face.",
       "zh": "作谓语，语气委婉，描写神色上的为难。"
     },
-    "synonyms": [
-      "左右为难",
-      "犹豫不决"
-    ],
+    "synonyms": [],
     "antonyms": [
       "欣然应允",
       "满口答应"
@@ -115,7 +110,7 @@
   {
     "id": "yuan-jia-dui-tou",
     "text": "冤家对头",
-    "pinyin": "yuān jiā duì tóu",
+    "pinyin": "yuān jia duì tóu",
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -152,9 +147,7 @@
       "en": "Can be serious (real enmity) or teasing (squabbling pairs, even lovers). 冤家 is read yuān jiā (jia sometimes soft).",
       "zh": "可指真正的仇人，也可戏称爱吵架的一对；“冤家”口语中“家”可轻读。"
     },
-    "synonyms": [
-      "仇人相见，分外眼红"
-    ],
+    "synonyms": [],
     "antonyms": [
       "知己好友",
       "莫逆之交",
@@ -505,8 +498,8 @@
       "狗仗人势"
     ],
     "antonyms": [
-      "谦虚谨慎",
-      "宠辱不惊"
+      "宠辱不惊",
+      "谦虚谨慎"
     ]
   },
   {
@@ -550,25 +543,19 @@
       "zh": "常作定语（不可企及的高度）或谓语；“企”指踮起脚。"
     },
     "synonyms": [
-      "望尘莫及",
       "高不可攀",
-      "望其项背"
+      "望其项背",
+      "望尘莫及"
     ],
     "antonyms": [
-      "唾手可得",
-      "触手可及"
+      "触手可及",
+      "唾手可得"
     ]
   },
   {
     "id": "yan-mo-wu-wen",
     "text": "湮没无闻",
     "pinyin": "yān mò wú wén",
-    "variants": [
-      "没没无闻"
-    ],
-    "variant_kinds": {
-      "没没无闻": "old"
-    },
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -606,8 +593,8 @@
       "zh": "书面语，含人才或遗产被埋没的惋惜；与“默默无闻”相近，但强调被埋没。"
     },
     "synonyms": [
-      "销声匿迹",
-      "默默无闻"
+      "默默无闻",
+      "销声匿迹"
     ],
     "antonyms": [
       "名扬四海",
@@ -655,8 +642,7 @@
       "zh": "口语，含轻视，常用来强调“不是随便什么人都行”；当面使用不礼貌。"
     },
     "synonyms": [
-      "张三李四",
-      "芸芸众生"
+      "张三李四"
     ],
     "antonyms": [
       "出类拔萃",
@@ -763,13 +749,9 @@
       "zh": "两半句可单用；常用于自我安慰或谦虚地概括自己的处境。"
     },
     "synonyms": [
-      "中不溜儿",
-      "不上不下"
+      "中不溜儿"
     ],
-    "antonyms": [
-      "出类拔萃",
-      "一败涂地"
-    ]
+    "antonyms": []
   },
   {
     "id": "wo-ye-qian-li",
@@ -866,8 +848,7 @@
       "zh": "常用在“……墨迹未干，就……”的句式中，突出变化之快；与英语“the ink is barely dry”相近。"
     },
     "synonyms": [
-      "刚刚签署",
-      "言犹在耳"
+      "刚刚签署"
     ],
     "antonyms": [
       "年深日久",
@@ -915,8 +896,7 @@
       "zh": "常作开场白或打断对方的话；相当于英语的“to cut a long story short”。"
     },
     "synonyms": [
-      "言简意赅",
-      "开门见山"
+      "言简意赅"
     ],
     "antonyms": [
       "喋喋不休",
@@ -967,8 +947,7 @@
     },
     "synonyms": [
       "视民如伤",
-      "勤政爱民",
-      "攀辕卧辙"
+      "勤政爱民"
     ],
     "antonyms": [
       "鱼肉百姓",
@@ -1019,7 +998,6 @@
     },
     "synonyms": [
       "反躬自省",
-      "痛定思痛",
       "三省吾身",
       "扪心自问",
       "面壁思过",
@@ -1027,8 +1005,7 @@
     ],
     "antonyms": [
       "文过饰非",
-      "执迷不悟",
-      "对酒当歌"
+      "执迷不悟"
     ]
   },
   {
@@ -1124,8 +1101,7 @@
       "zh": "描写老年人，多用于男性，含敬意；“发”读fà。"
     },
     "synonyms": [
-      "白发苍苍",
-      "鹤发童颜"
+      "白发苍苍"
     ],
     "antonyms": [
       "青春年少",
@@ -1174,11 +1150,9 @@
       "zh": "常说“龙生九子，各不相同”；九子之说见于明代民间传说，名称因书而异。"
     },
     "synonyms": [
-      "一母生九子，连母十个样",
-      "各有千秋"
+      "一母生九子，连母十个样"
     ],
     "antonyms": [
-      "如出一辙",
       "一模一样",
       "有其父必有其子",
       "蓝田生玉"
@@ -1238,8 +1212,7 @@
     ],
     "antonyms": [
       "守口如瓶",
-      "闭口不谈",
-      "无可置喙"
+      "闭口不谈"
     ]
   },
   {

@@ -34,8 +34,8 @@
         "en": "Even the wisest slip up sometimes, so nobody should blame anyone for this oversight."
       },
       {
-        "zh": "他算无遗策，可惜必有一失，漏掉了最后一道审批。",
-        "en": "He planned everything, but even the best slip up and he missed the final approval."
+        "zh": "他算无遗策，可惜智者千虑，必有一失，漏掉了最后一道审批。",
+        "en": "He planned everything, but even the wise slip up once in a while: he missed the final approval step."
       },
       {
         "zh": "别太自责，智者千虑，必有一失。",
@@ -59,14 +59,12 @@
     },
     "synonyms": [
       "百密一疏",
-      "千虑一失",
       "人非圣贤，孰能无过",
       "人有失手，马有失蹄",
       "聪明一世，糊涂一时"
     ],
     "antonyms": [
-      "万无一失",
-      "天衣无缝"
+      "万无一失"
     ]
   },
   {
@@ -153,12 +151,14 @@
     "synonyms": [
       "风花雪月",
       "舞文弄墨",
-      "浅斟低唱",
-      "流觞曲水"
+      "浅斟低唱"
     ],
     "antonyms": [
       "忧国忧民",
       "经世致用"
+    ],
+    "variants": [
+      "吟风咏月"
     ]
   },
   {
@@ -168,7 +168,7 @@
     "variants": [
       "榆木脑袋"
     ],
-    "kind": "chengyu",
+    "kind": "guanyongyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
@@ -297,8 +297,7 @@
       "zh": "美术评论用语，常与“曹衣出水”并提，用于传统绘画、雕塑。"
     },
     "synonyms": [
-      "衣袂飘飘",
-      "栩栩如生"
+      "衣袂飘飘"
     ],
     "antonyms": [
       "呆板僵硬"
@@ -344,7 +343,6 @@
     "synonyms": [
       "表里如一",
       "言行一致",
-      "直言不讳",
       "言为心声"
     ],
     "antonyms": [
@@ -353,8 +351,8 @@
       "阳奉阴违",
       "心口不一",
       "佛口蛇心",
-      "口不应心",
       "两面三刀",
+      "口不应心",
       "披着羊皮的狼"
     ]
   },
@@ -417,7 +415,7 @@
     "id": "zui-ze-nan-tao",
     "text": "罪责难逃",
     "pinyin": "zuì zé nán táo",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "formal",
@@ -449,7 +447,6 @@
       "zh": "正式，多见于新闻和法律语境，作谓语。"
     },
     "synonyms": [
-      "在劫难逃",
       "难辞其咎",
       "罪无可逭"
     ],
@@ -511,12 +508,10 @@
       "zh": "带传统喜庆色彩的祝福语；现代戏谑版指“房子、车子、票子、位子、孩子”五个“子”。"
     },
     "synonyms": [
-      "桂子兰孙",
       "金榜题名"
     ],
     "antonyms": [
-      "名落孙山",
-      "一事无成"
+      "名落孙山"
     ]
   },
   {
@@ -557,7 +552,6 @@
     },
     "synonyms": [
       "国破家亡",
-      "风雨飘摇",
       "危在旦夕"
     ],
     "antonyms": [
@@ -608,9 +602,7 @@
       "血海深仇",
       "深仇大恨"
     ],
-    "antonyms": [
-      "恩深义重"
-    ]
+    "antonyms": []
   },
   {
     "id": "dian-tou-zhi-jiao",
@@ -649,16 +641,13 @@
       "zh": "中性，常用于撇清关系。与“莫逆之交”相对。"
     },
     "synonyms": [
-      "泛泛之交",
-      "一面之缘",
-      "萍水相逢"
+      "泛泛之交"
     ],
     "antonyms": [
       "莫逆之交",
       "生死之交",
       "刎颈之交",
       "患难之交",
-      "忘年之交",
       "忘形之交",
       "八拜之交",
       "胶漆之交"
@@ -744,18 +733,15 @@
       }
     ],
     "usage": {
-      "en": "Originally from arithmetic and folk calendar 'nine nines' of winter. Used in discussions and summaries as a concluding phrase.",
+      "en": "Used in discussions and summaries as a concluding phrase.",
       "zh": "本来出自算术口诀和“数九”民俗，现多用于总结性语句。"
     },
     "synonyms": [
-      "殊途同归",
       "万法归宗",
-      "归根结底"
+      "归根结底",
+      "殊途同归"
     ],
-    "antonyms": [
-      "千变万化",
-      "南辕北辙"
-    ]
+    "antonyms": []
   },
   {
     "id": "hu-peng-huan-you",
@@ -763,7 +749,6 @@
     "pinyin": "hū péng huàn yǒu",
     "variants": [
       "呼朋引伴",
-      "呼朋引类",
       "引类呼朋"
     ],
     "kind": "chengyu",
@@ -851,22 +836,14 @@
       "陶醉其中"
     ],
     "antonyms": [
-      "索然无味",
-      "无动于衷"
+      "无动于衷",
+      "索然无味"
     ]
   },
   {
     "id": "fan-shou-wei-yun-fu-shou-wei-yu",
     "text": "翻手为云，覆手为雨",
     "pinyin": "fān shǒu wéi yún, fù shǒu wéi yǔ",
-    "variants": [
-      "翻手为云",
-      "覆手为雨"
-    ],
-    "variant_kinds": {
-      "翻手为云": "short",
-      "覆手为雨": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
@@ -917,14 +894,21 @@
       "zh": "多含贬义，指反复无常、手段多变，也可中性指权力极大。"
     },
     "synonyms": [
-      "翻云覆雨",
       "反复无常",
       "呼风唤雨"
     ],
     "antonyms": [
       "始终如一",
       "一诺千金"
-    ]
+    ],
+    "variants": [
+      "翻手为云",
+      "覆手为雨"
+    ],
+    "variant_kinds": {
+      "翻手为云": "short",
+      "覆手为雨": "short"
+    }
   },
   {
     "id": "ming-sheng-an-jiang",
@@ -963,12 +947,10 @@
       "zh": "多见于职场权力斗争，作谓语。"
     },
     "synonyms": [
-      "明褒暗贬",
-      "明扬暗抑"
+      "明褒暗贬"
     ],
     "antonyms": [
-      "破格提拔",
-      "平步青云"
+      "破格提拔"
     ]
   },
   {
@@ -1008,8 +990,8 @@
     },
     "synonyms": [],
     "antonyms": [
-      "洁身自好",
-      "两袖清风"
+      "两袖清风",
+      "洁身自好"
     ]
   },
   {
@@ -1047,16 +1029,12 @@
       "en": "A sigh or explanation rather than a moral; can be countered with 穷且益坚 ('poor yet strong'). Often paired with 马瘦毛长.",
       "zh": "多作感叹或解释，不是劝诫；反驳常说“穷且益坚”。常与“马瘦毛长”连用。"
     },
-    "synonyms": [
-      "英雄气短",
-      "一贫如洗",
-      "马瘦毛长"
-    ],
+    "synonyms": [],
     "antonyms": [
       "穷且益坚",
+      "人穷志不短",
       "志存高远",
-      "不屈不挠",
-      "人穷志不短"
+      "不屈不挠"
     ]
   },
   {
@@ -1101,15 +1079,13 @@
       "zh": "贬义；“淆”读xiáo。与“颠倒黑白”近似，但“混淆”重在弄混，“颠倒”重在倒置。"
     },
     "synonyms": [
-      "混淆是非",
       "指鹿为马",
-      "以假乱真",
       "颠倒是非"
     ],
     "antonyms": [
-      "黑白分明",
-      "明辨是非",
       "泾渭分明",
+      "明辨是非",
+      "黑白分明",
       "猪血煮豆腐——黑白分明"
     ]
   },

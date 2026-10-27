@@ -126,9 +126,7 @@
     "synonyms": [
       "老牛舐犊"
     ],
-    "antonyms": [
-      "禽兽不如"
-    ]
+    "antonyms": []
   },
   {
     "id": "lao-hu-pi-gu-mo-bu-de",
@@ -166,12 +164,8 @@
       "en": "A casual warning about touchy people, taboo topics or powerful figures.",
       "zh": "口头提醒不要触碰脾气大、惹不起的人或敏感话题。"
     },
-    "synonyms": [
-      "虎口拔牙"
-    ],
-    "antonyms": [
-      "无所畏惧"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "shan-zhong-wu-lao-hu-hou",
@@ -255,9 +249,7 @@
       "en": "Complaining about hierarchy and bureaucracy; always humorous or resentful.",
       "zh": "多用来抱怨等级森严的官场或职场，带怨气或调侃。"
     },
-    "synonyms": [
-      "县官不如现管"
-    ],
+    "synonyms": [],
     "antonyms": [
       "平等待人"
     ]
@@ -299,10 +291,8 @@
       "zh": "常用于要讨好直接管事的人的场合；“现”意为当下、在场。"
     },
     "synonyms": [
-      "官大一级压死人",
       "不怕官，只怕管",
-      "阎王爷好见——小鬼难缠",
-      "阎王好见，小鬼难缠"
+      "阎王爷好见——小鬼难缠"
     ],
     "antonyms": []
   },
@@ -343,7 +333,7 @@
       "zh": "用来要求遵守规矩，后半句带家常而坚定的语气。"
     },
     "synonyms": [
-      "无规矩不成方圆"
+      "没有规矩，不成方圆"
     ],
     "antonyms": [
       "无法无天"
@@ -431,12 +421,11 @@
       "zh": "常与郑板桥“难得糊涂，吃亏是福”并提；既是处世智慧，也是自我安慰，有时被批评为纵容吃亏。"
     },
     "synonyms": [
-      "难得糊涂",
       "退一步海阔天空"
     ],
     "antonyms": [
-      "斤斤计较",
       "睚眦必报",
+      "斤斤计较",
       "得便宜处失便宜",
       "占小便宜吃大亏"
     ]
@@ -454,7 +443,7 @@
     "register": "neutral",
     "themes": [
       "positive-character-qualities",
-      "filial-piety"
+      "communist-era"
     ],
     "literal": "drink · water · not · forget · dig · well · person",
     "natural": "When drinking water, remember who dug the well",
@@ -698,12 +687,9 @@
       "zh": "与英语谚语完全对应，大概是仿译；多用于学习和工作场合的劝告。"
     },
     "synonyms": [
-      "先下手为强",
-      "先发制人"
+      "先下手为强"
     ],
-    "antonyms": [
-      "后知后觉"
-    ]
+    "antonyms": []
   },
   {
     "id": "jiu-hou-tu-zhen-yan",
@@ -741,8 +727,7 @@
       "zh": "多指酒后表露真情或失言；有时也成了说话失礼的借口。"
     },
     "synonyms": [
-      "酒后失言",
-      "借酒浇愁"
+      "酒后失言"
     ],
     "antonyms": [
       "守口如瓶",
@@ -834,12 +819,9 @@
       "en": "Used as moral advice on frugality. Often attributed to Sima Guang's 《训俭示康》.",
       "zh": "用于劝人节俭；常认为出自司马光《训俭示康》。"
     },
-    "synonyms": [
-      "挥金如土"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "勤俭节约",
-      "艰苦朴素"
+      "勤俭节约"
     ]
   },
   {
@@ -852,7 +834,8 @@
     "register": "casual",
     "themes": [
       "poverty-and-hardship",
-      "mental-clarity"
+      "mental-clarity",
+      "frugality-and-thrift"
     ],
     "literal": "hand · in · have · grain, heart · in · not · panic",
     "natural": "With grain in hand, the heart is calm",
@@ -879,8 +862,7 @@
       "zh": "可指存款、储备和本事；物资紧张、局势不明时尤其常见。"
     },
     "synonyms": [
-      "有备无患",
-      "未雨绸缪"
+      "有备无患"
     ],
     "antonyms": [
       "坐吃山空"
@@ -970,8 +952,7 @@
       "zh": "用来表明自己问心无愧；也说“平生不做亏心事，半夜敲门心不惊”。"
     },
     "synonyms": [
-      "问心无愧",
-      "光明磊落"
+      "问心无愧"
     ],
     "antonyms": [
       "做贼心虚"
@@ -1018,8 +999,8 @@
       "善恶有报"
     ],
     "antonyms": [
-      "瞒天过海",
-      "欺天罔地"
+      "欺天罔地",
+      "瞒天过海"
     ]
   },
   {

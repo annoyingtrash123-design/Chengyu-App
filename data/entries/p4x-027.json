@@ -52,20 +52,25 @@
       "zh": "多作自责或自嘲之语；“无颜”也说“无脸”。此说法是后人对项羽故事的概括，并非原话。"
     },
     "synonyms": [
-      "无面目见江东父老",
       "羞于见人"
     ],
     "antonyms": [
       "荣归故里",
       "衣锦还乡"
-    ]
+    ],
+    "variants": [
+      "无面目见江东父老"
+    ],
+    "variant_kinds": {
+      "无面目见江东父老": "old"
+    }
   },
   {
     "id": "gao-chu-bu-sheng-han",
     "text": "高处不胜寒",
     "pinyin": "gāo chù bù shèng hán",
     "kind": "mingju",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
@@ -118,8 +123,7 @@
       "曲高和寡"
     ],
     "antonyms": [
-      "平易近人",
-      "门庭若市"
+      "平易近人"
     ]
   },
   {
@@ -163,8 +167,7 @@
       "zh": "带有愤世色彩的俗语，常简称“酒肉朋友”，提醒人们不要凭吃喝来判断朋友。"
     },
     "synonyms": [
-      "相识满天下，知心能几人",
-      "酒肉朋友"
+      "相识满天下，知心能几人"
     ],
     "antonyms": [
       "患难之交",
@@ -212,12 +215,14 @@
       "zh": "多作谓语，常用于自谦；与“勤能补拙”“以勤补拙”意思相近。"
     },
     "synonyms": [
-      "勤能补拙",
       "笨鸟先飞"
     ],
     "antonyms": [
       "自暴自弃",
       "好逸恶劳"
+    ],
+    "variants": [
+      "以勤补拙"
     ]
   },
   {
@@ -229,7 +234,6 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "festivals-and-celebrations",
       "joy-and-happiness"
     ],
     "literal": "line · road · welcome · greet",
@@ -265,7 +269,6 @@
       "列队欢迎"
     ],
     "antonyms": [
-      "杜门谢客",
       "冷眼相待"
     ]
   },
@@ -311,8 +314,7 @@
       "zh": "与英语 crocodile tears 相合，源自欧洲旧说鳄鱼边吃猎物边流泪。"
     },
     "synonyms": [
-      "猫哭耗子",
-      "假慈悲"
+      "猫哭耗子"
     ],
     "antonyms": [
       "真心实意",
@@ -372,8 +374,7 @@
     },
     "synonyms": [
       "力拔山兮气盖世",
-      "力大无穷",
-      "降龙伏虎"
+      "力大无穷"
     ],
     "antonyms": [
       "手无缚鸡之力",
@@ -478,7 +479,7 @@
       }
     },
     "usage": {
-      "en": "Literary allusion to a Han folk song about Emperor Wen and his brother. Note: the editorial note linking it to 米珠薪桂 does not match this meaning; check that cross-reference.",
+      "en": "Literary allusion to a Han folk song about Emperor Wen and his brother.",
       "zh": "文言典故，出自汉代民谣，讽刺汉文帝与其弟事。注意：此词与“米珠薪桂”（物价昂贵）意思不同，建议复核相关的近义关联。"
     },
     "synonyms": [
@@ -530,14 +531,8 @@
       "en": "Predicate; a cautionary saying about court or workplace politics.",
       "zh": "多作谓语，是对官场或职场关系的警示。"
     },
-    "synonyms": [
-      "余桃啖君",
-      "如履薄冰"
-    ],
-    "antonyms": [
-      "如鱼得水",
-      "平步青云"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "ren-bu-ke-mao-xiang",
@@ -580,12 +575,11 @@
       "zh": "常说全“人不可貌相，海水不可斗量”；也可作略带惊讶的感叹。"
     },
     "synonyms": [
-      "人不可貌相，海水不可斗量",
       "真人不露相"
     ],
     "antonyms": [
-      "以貌取人",
-      "表里如一"
+      "表里如一",
+      "以貌取人"
     ]
   },
   {
@@ -630,8 +624,7 @@
       "zh": "与富兰克林的 time is money 相应，成为改革开放时期的著名口号；语气中性，有时被批评过于功利。"
     },
     "synonyms": [
-      "一寸光阴一寸金",
-      "分秒必争"
+      "一寸光阴一寸金"
     ],
     "antonyms": [
       "虚度光阴",
@@ -679,7 +672,6 @@
       "zh": "是“踏破铁鞋无觅处，得来全不费工夫”的下句，常整句引用；上句指到处找不到。"
     },
     "synonyms": [
-      "踏破铁鞋无觅处，得来全不费工夫",
       "唾手可得"
     ],
     "antonyms": [
@@ -728,7 +720,6 @@
       "zh": "常与“有缘千里来相会”并用，带有佛教色彩的“缘”的观念。"
     },
     "synonyms": [
-      "有缘无分",
       "缘悭一面"
     ],
     "antonyms": [
@@ -745,7 +736,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "adaptability",
       "positive-character-qualities"
     ],
     "literal": "rely on · mountain · mountain · falls, rely on · people · people · fall",
@@ -830,111 +820,7 @@
       "外国月亮比较圆"
     ],
     "antonyms": [
-      "近水楼台先得月，向阳花木易为春",
-      "知人善任"
-    ]
-  },
-  {
-    "id": "lu-shui-dian-dou-fu-yi-wu-xiang-yi-wu",
-    "text": "卤水点豆腐——一物降一物",
-    "pinyin": "lǔ shuǐ diǎn dòu fu —— yī wù xiáng yī wù",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "卤水点豆腐",
-      "一物降一物"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "natural-consequences",
-      "wisdom"
-    ],
-    "literal": "brine · curdle · tofu —— one · thing · subdues · another",
-    "natural": "brine curdles tofu: each thing has its master",
-    "meaning": {
-      "en": "Everything has something that keeps it in check.",
-      "zh": "每样东西都有能制服它的东西。"
-    },
-    "equivalents": [
-      "every Jack has his Jill",
-      "there is always a match for everything"
-    ],
-    "examples": [
-      {
-        "zh": "卤水点豆腐——一物降一物，这么凶的人在他妻子面前乖乖听话。",
-        "en": "Brine curdles tofu; one thing subdues another: even so fierce a man obeys his wife."
-      },
-      {
-        "zh": "卤水点豆腐，一物降一物，他再强也怕老师。",
-        "en": "Brine curdles tofu, each thing has its master, and strong as he is, he fears his teacher."
-      },
-      {
-        "zh": "别小看那只猫，卤水点豆腐——一物降一物，老鼠都怕它。",
-        "en": "Don't underrate that cat; each thing has its master, and all the mice fear it."
-      }
-    ],
-    "usage": {
-      "en": "People often say only the first half 卤水点豆腐 and let the listener complete it.",
-      "zh": "人们常只说前半句“卤水点豆腐”，让对方自行补全。"
-    },
-    "synonyms": [
-      "一物降一物",
-      "一山还有一山高"
-    ],
-    "antonyms": [
-      "天下无敌",
-      "无人能敌"
-    ]
-  },
-  {
-    "id": "tian-ren-gong-fen",
-    "text": "天人共愤",
-    "pinyin": "tiān rén gòng fèn",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "anger",
-      "corruption-and-injustice"
-    ],
-    "literal": "heaven · people · together · enraged",
-    "natural": "Heaven and mankind alike are outraged",
-    "meaning": {
-      "en": "Provoking universal outrage.",
-      "zh": "天和人都愤怒，形容罪行极大，引起公愤。"
-    },
-    "equivalents": [
-      "a universal outrage",
-      "an outrage to all"
-    ],
-    "examples": [
-      {
-        "zh": "这起虐待儿童的事件，真是天人共愤。",
-        "en": "This case of child abuse has outraged everyone."
-      },
-      {
-        "zh": "他们的恶行天人共愤，必须依法惩处。",
-        "en": "Their evil deeds have provoked universal anger and must be punished by law."
-      },
-      {
-        "zh": "暴君的残暴引得天人共愤。",
-        "en": "The tyrant's cruelty drew universal outrage."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; strong condemnation, used for crimes. Related 人神共愤 is a close form but is kept as a separate entry.",
-      "zh": "多作谓语、定语，强烈谴责，多用于罪行。与“人神共愤”接近，但另作词条。"
-    },
-    "synonyms": [
-      "怨声载道",
-      "众怒难犯",
-      "人神共愤"
-    ],
-    "antonyms": [
-      "大快人心",
-      "拍手称快"
+      "近水楼台先得月，向阳花木易为春"
     ]
   },
   {
@@ -978,63 +864,11 @@
       "zh": "多作谓语，说明力量对比，不一定指结果；而“以少胜多”则指取胜。"
     },
     "synonyms": [
-      "孤军奋战",
       "以一当十",
       "以少胜多"
     ],
     "antonyms": [
-      "兵强马壮",
       "势均力敌"
-    ]
-  },
-  {
-    "id": "sao-ta-xiang-ying",
-    "text": "扫榻相迎",
-    "pinyin": "sǎo tà xiāng yíng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "friendship",
-      "festivals-and-celebrations",
-      "polite-humble"
-    ],
-    "literal": "sweep · couch · each other · greet",
-    "natural": "sweeping the couch to greet",
-    "meaning": {
-      "en": "To welcome a guest warmly, even preparing a bed for them.",
-      "zh": "打扫好床榻等候客人，形容热情迎接。"
-    },
-    "equivalents": [
-      "roll out the red carpet",
-      "prepare a warm welcome"
-    ],
-    "examples": [
-      {
-        "zh": "老友远道而来，他扫榻相迎。",
-        "en": "When his old friend came from afar, he prepared his home to welcome him."
-      },
-      {
-        "zh": "主人扫榻相迎，把客人让进上房。",
-        "en": "The host made the guests welcome and showed them to the best room."
-      },
-      {
-        "zh": "各位尽管来，我必扫榻相迎。",
-        "en": "Come, all of you; I shall be ready to receive you."
-      }
-    ],
-    "usage": {
-      "en": "Literary; used in invitations and polite correspondence.",
-      "zh": "书面语，多用于邀请和客套话。"
-    },
-    "synonyms": [
-      "倒屣相迎",
-      "扫榻以待"
-    ],
-    "antonyms": [
-      "杜门谢客",
-      "拒之门外"
     ]
   },
   {
@@ -1099,60 +933,11 @@
     ]
   },
   {
-    "id": "shi-zi-zhuan-tiao-ruan-de-nie",
-    "text": "柿子专挑软的捏",
-    "pinyin": "shì zi zhuān tiāo ruǎn de niē",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "negative-character-flaws"
-    ],
-    "literal": "persimmon · only · pick · soft · 's · squeeze",
-    "natural": "only squeezing the soft persimmons",
-    "meaning": {
-      "en": "To bully only those who are weak and will not fight back.",
-      "zh": "只欺负软弱的、不敢反抗的人。"
-    },
-    "equivalents": [
-      "pick on the weak",
-      "pick on someone one's own size"
-    ],
-    "examples": [
-      {
-        "zh": "他柿子专挑软的捏，只敢欺负新来的同事。",
-        "en": "He only picks on the weak, bullying just the new colleagues."
-      },
-      {
-        "zh": "别柿子专挑软的捏，有本事找强的去。",
-        "en": "Stop picking on the soft ones; if you're able, take on someone stronger."
-      },
-      {
-        "zh": "大公司柿子专挑软的捏，只对小商家下手。",
-        "en": "Big firms only go after the vulnerable, targeting small merchants."
-      }
-    ],
-    "usage": {
-      "en": "Casual and critical; the form 捏软柿子 is a shorter, similar saying.",
-      "zh": "口语，含批评；“捏软柿子”是类似的较短说法。"
-    },
-    "synonyms": [
-      "捏软柿子",
-      "欺软怕硬"
-    ],
-    "antonyms": [
-      "打抱不平",
-      "抑强扶弱"
-    ]
-  },
-  {
     "id": "bi-deng-tian-hai-nan",
     "text": "比登天还难",
     "pinyin": "bǐ dēng tiān hái nán",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
@@ -1188,7 +973,6 @@
       "zh": "口语夸张；与“难于登天”相近，但更口语化。"
     },
     "synonyms": [
-      "难于登天",
       "难上加难"
     ],
     "antonyms": [

@@ -48,7 +48,7 @@
     "id": "yi-ba-yan-lei-yi-ba-bi-ti",
     "text": "一把眼泪一把鼻涕",
     "pinyin": "yī bǎ yǎn lèi yī bǎ bí tì",
-    "kind": "guanyongyu",
+    "kind": "phrase",
     "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
@@ -130,8 +130,8 @@
       "丁是丁，卯是卯"
     ],
     "antonyms": [
-      "含糊其词",
-      "夸大其词"
+      "夸大其词",
+      "含糊其词"
     ]
   },
   {
@@ -176,15 +176,15 @@
       "万死不辞"
     ],
     "antonyms": [
-      "贪生怕死",
-      "畏缩不前"
+      "畏缩不前",
+      "贪生怕死"
     ]
   },
   {
     "id": "liang-er-bu-wen-chuang-wai-shi",
     "text": "两耳不闻窗外事",
     "pinyin": "liǎng ěr bù wén chuāng wài shì",
-    "kind": "guanyongyu",
+    "kind": "suyu",
     "frequency": 2,
     "sentiment": "neutral",
     "register": "casual",
@@ -217,7 +217,7 @@
       "zh": "常与“一心只读圣贤书”连用。可夸专心，也可含贬义，指不关心世事。"
     },
     "synonyms": [
-      "埋头苦干",
+      "一心只读圣贤书",
       "闭目塞听"
     ],
     "antonyms": [
@@ -267,7 +267,6 @@
       "独一无二"
     ],
     "antonyms": [
-      "不足为奇",
       "平淡无奇"
     ]
   },
@@ -308,11 +307,10 @@
       "zh": "常见于体育、学习、工作的格言与口号。"
     },
     "synonyms": [
-      "宠辱不惊",
-      "谦虚谨慎"
+      "谦虚谨慎",
+      "宠辱不惊"
     ],
     "antonyms": [
-      "骄兵必败",
       "一蹶不振"
     ]
   },
@@ -356,7 +354,6 @@
       "zh": "程咬金是唐初名将，民间评书中他常半路杀出，扭转战局。"
     },
     "synonyms": [
-      "横空出世",
       "节外生枝"
     ],
     "antonyms": [
@@ -365,8 +362,8 @@
   },
   {
     "id": "ya-si-luo-tuo-de-zui-hou-yi-gen-dao-cao",
-    "text": "压死骆驼的最后一根稻草",
-    "pinyin": "yā sǐ luò tuo de zuì hòu yī gēn dào cǎo",
+    "text": "最后一根稻草",
+    "pinyin": "zuì hòu yī gēn dào cǎo",
     "kind": "guanyongyu",
     "frequency": 2,
     "modern": "borrowed",
@@ -376,7 +373,7 @@
       "psychological-pressure",
       "chain-reactions"
     ],
-    "literal": "crush · to death · camel · 's · last · one · straw",
+    "literal": "last · (measure word) · straw",
     "natural": "the last straw",
     "meaning": {
       "en": "The final small burden or incident that makes someone or something finally collapse after much accumulated pressure.",
@@ -400,12 +397,11 @@
       "en": "A loan from the English proverb about the straw that broke the camel's back, now thoroughly at home in Chinese. Usually 成为 / 是 + this phrase.",
       "zh": "借自英语谚语，现已通行于汉语。常说“成了压死骆驼的最后一根稻草”。"
     },
-    "synonyms": [
-      "最后一根稻草",
-      "积重难返"
-    ],
-    "antonyms": [
-      "不堪一击"
+    "synonyms": [],
+    "antonyms": [],
+    "variants": [
+      "压垮骆驼的最后一根稻草",
+      "压死骆驼的最后一根稻草"
     ]
   },
   {
@@ -451,7 +447,6 @@
       "佯装不知"
     ],
     "antonyms": [
-      "心知肚明",
       "开诚布公"
     ]
   },
@@ -538,8 +533,8 @@
     },
     "synonyms": [
       "去粗取精",
-      "去伪存真",
-      "去芜存菁"
+      "去芜存菁",
+      "去伪存真"
     ],
     "antonyms": [
       "良莠不分",
@@ -629,8 +624,7 @@
       "zh": "常与“眼看”“竟然”连用，带戏谑口吻，多用于生意、奖项。"
     },
     "synonyms": [
-      "功亏一篑",
-      "竹篮打水——一场空"
+      "功亏一篑"
     ],
     "antonyms": [
       "稳操胜券",
@@ -674,8 +668,7 @@
       "zh": "指传统包办婚姻，现多用于谈历史或批判旧习俗。"
     },
     "synonyms": [
-      "包办婚姻",
-      "媒妁之言"
+      "包办婚姻"
     ],
     "antonyms": [
       "自由恋爱",
@@ -720,8 +713,7 @@
       "zh": "20世纪50年代提出的文艺科学方针，“百家争鸣”指战国时期诸子争鸣。多用于正式场合。"
     },
     "synonyms": [
-      "群芳竞艳",
-      "万紫千红"
+      "群芳竞艳"
     ],
     "antonyms": [
       "一花独放",
@@ -809,8 +801,7 @@
       "zh": "可夸人原则性强，也可指过于苛求。常作定语。"
     },
     "synonyms": [
-      "嫉恶如仇",
-      "一丝不苟"
+      "嫉恶如仇"
     ],
     "antonyms": [
       "睁一只眼闭一只眼",
@@ -863,8 +854,8 @@
       "机警过人"
     ],
     "antonyms": [
-      "充耳不闻",
-      "视而不见"
+      "视而不见",
+      "充耳不闻"
     ]
   },
   {
@@ -957,51 +948,6 @@
     ]
   },
   {
-    "id": "guan-ta-san-qi-er-shi-yi",
-    "text": "管他三七二十一",
-    "pinyin": "guǎn tā sān qī èr shí yī",
-    "kind": "guanyongyu",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "poor-planning-and-hasty-decisions"
-    ],
-    "literal": "care · about · it · three · seven · twenty-one",
-    "natural": "regardless of the consequences",
-    "meaning": {
-      "en": "Not caring about the rights and wrongs or the consequences; just going ahead.",
-      "zh": "不顾是非后果，不管怎样先干再说。"
-    },
-    "equivalents": [
-      "come what may",
-      "never mind the consequences"
-    ],
-    "examples": [
-      {
-        "zh": "他管他三七二十一，抬脚就走了。",
-        "en": "He didn't care who said what and just walked off."
-      },
-      {
-        "zh": "管他三七二十一，先做了再说。",
-        "en": "Whatever happens, let's do it first and see."
-      }
-    ],
-    "usage": {
-      "en": "三七二十一 is just the product 3×7=21, used as a catch-all for 'whatever the rules or reasons are'. Often 不管三七二十一 too.",
-      "zh": "“三七二十一”借用乘法得数，泛指各种道理和后果。常说“不管三七二十一”。"
-    },
-    "synonyms": [
-      "不管三七二十一",
-      "不顾一切"
-    ],
-    "antonyms": [
-      "瞻前顾后",
-      "三思而行"
-    ]
-  },
-  {
     "id": "gei-ni-dian-yan-se-kan-kan",
     "text": "给你点颜色看看",
     "pinyin": "gěi nǐ diǎn yán sè kàn kàn",
@@ -1011,7 +957,8 @@
     "register": "casual",
     "themes": [
       "revenge-and-retribution",
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "anger"
     ],
     "literal": "give · you · a bit · colour · look",
     "natural": "teach you a lesson",
@@ -1043,7 +990,11 @@
     ],
     "antonyms": [
       "以德报怨",
+      "宽宏大量",
       "握手言和"
+    ],
+    "variants": [
+      "给颜色看"
     ]
   },
   {
@@ -1084,12 +1035,11 @@
       "zh": "常带自嘲或揶揄，意思是胸无大志，只图安稳。“炕”是北方取暖的砖床。"
     },
     "synonyms": [
-      "安居乐业",
       "小富即安"
     ],
     "antonyms": [
-      "胸怀大志",
-      "四海为家"
+      "四海为家",
+      "胸怀大志"
     ]
   },
   {
@@ -1097,7 +1047,8 @@
     "text": "聪明一世，糊涂一时",
     "pinyin": "cōng míng yī shì, hú tu yī shí",
     "variants": [
-      "聪明一世，懵懂一时"
+      "聪明一世，懵懂一时",
+      "聪明一世"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -1105,7 +1056,8 @@
     "register": "casual",
     "themes": [
       "mistakes-and-correction",
-      "foolishness-and-ignorance"
+      "foolishness-and-ignorance",
+      "wisdom"
     ],
     "literal": "clever · all one's life, muddled · for a moment",
     "natural": "clever for a lifetime, foolish for a moment",
@@ -1133,8 +1085,15 @@
     },
     "synonyms": [
       "智者千虑，必有一失",
-      "百密一疏"
+      "智者千虑",
+      "百密一疏",
+      "千虑一失"
     ],
-    "antonyms": []
+    "antonyms": [
+      "大智若愚"
+    ],
+    "variant_kinds": {
+      "聪明一世": "short"
+    }
   }
 ]

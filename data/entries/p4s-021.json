@@ -36,12 +36,10 @@
       "zh": "常用于鼓励和表彰。"
     },
     "synonyms": [
-      "百炼成钢",
-      "玉不琢，不成器"
+      "玉不琢，不成器",
+      "百炼成钢"
     ],
-    "antonyms": [
-      "不堪一击"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-luo-zi-shi-ma-la-chu-lai-liu-liu",
@@ -130,9 +128,7 @@
       "听天由命",
       "顺其自然"
     ],
-    "antonyms": [
-      "防患于未然"
-    ]
+    "antonyms": []
   },
   {
     "id": "shi-fei-zhi-wei-duo-kai",
@@ -221,51 +217,10 @@
       "zh": "常以反问出现，用于为人辩护。"
     },
     "synonyms": [
-      "人无完人",
-      "五十步笑百步"
+      "人无完人"
     ],
     "antonyms": [
       "完美无缺"
-    ]
-  },
-  {
-    "id": "shei-jia-mei-you-nan-nian-de-jing",
-    "text": "谁家没有难念的经",
-    "pinyin": "shéi jiā méi yǒu nán niàn de jīng",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "family-and-home"
-    ],
-    "literal": "whose · home · not · have · hard · to chant · scripture",
-    "natural": "Whose family doesn't have a hard scripture to chant?",
-    "meaning": {
-      "en": "Every family has its own troubles.",
-      "zh": "每个家庭都有自己难以说出口的烦恼。"
-    },
-    "equivalents": [
-      "Every family has a skeleton in the closet",
-      "Every house has its own cross"
-    ],
-    "examples": [
-      {
-        "zh": "谁家没有难念的经，别看他们表面风光。",
-        "en": "Every family has its troubles, however bright they look on the surface."
-      },
-      {
-        "zh": "谁家没有难念的经，你也别太羡慕别人。",
-        "en": "Don't envy others too much, every household has its own hard scripture."
-      }
-    ],
-    "usage": {
-      "en": "Often quoted as 家家有本难念的经. The scripture is a metaphor for family worries.",
-      "zh": "常说成“家家有本难念的经”。“经”比喻家庭难题。"
-    },
-    "synonyms": [],
-    "antonyms": [
-      "幸福美满"
     ]
   },
   {
@@ -305,9 +260,7 @@
       "zh": "常用来安慰被人议论的人。"
     },
     "synonyms": [],
-    "antonyms": [
-      "守口如瓶"
-    ]
+    "antonyms": []
   },
   {
     "id": "ji-shan-zhi-jia-bi-you-yu-qing",
@@ -411,12 +364,10 @@
       "en": "Attributed to Song Hong in the Eastern Han; 糟糠 (dregs and chaff) stands for poor food.",
       "zh": "相传出自东汉宋弘，糟糠指粗劣的食物，喻贫贱。"
     },
-    "synonyms": [
-      "患难与共"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "喜新厌旧",
-      "始乱终弃"
+      "始乱终弃",
+      "喜新厌旧"
     ]
   },
   {
@@ -429,7 +380,10 @@
     "register": "casual",
     "themes": [
       "polite-humble",
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "rare-idioms",
+      "inappropriate-behavior",
+      "foolishness-and-ignorance"
     ],
     "literal": "have · eyes · not · recognise · Mount Tai",
     "natural": "Having eyes but not recognising Mount Tai",
@@ -456,14 +410,20 @@
     },
     "synonyms": [
       "有眼无珠",
-      "瞎子拜见丈人——有眼不识泰山",
-      "肉眼凡胎"
+      "肉眼凡胎",
+      "识人不明"
     ],
     "antonyms": [
       "慧眼识珠",
       "独具慧眼",
       "火眼金睛"
-    ]
+    ],
+    "variants": [
+      "不识泰山"
+    ],
+    "variant_kinds": {
+      "不识泰山": "short"
+    }
   },
   {
     "id": "yi-ge-jiang-jun-yi-ge-ling",
@@ -579,7 +539,7 @@
     ],
     "examples": [
       {
-        "zh": "人家正在谈生意，你别人牵驴你拔橛子，到底想干什么？",
+        "zh": "人家正在谈生意，你这不是别人牵驴你拔橛子吗？到底想干什么？",
         "en": "They're negotiating a deal, and you're pulling out the peg while others lead the donkey; what are you up to?"
       },
       {
@@ -855,8 +815,7 @@
     },
     "synonyms": [
       "积少成多",
-      "聚沙成塔",
-      "水滴石穿"
+      "聚沙成塔"
     ],
     "antonyms": [
       "一曝十寒",
@@ -953,7 +912,7 @@
     "id": "bei-zhe-bao-zhe-yi-ban-zhong",
     "text": "背着抱着一般重",
     "pinyin": "bēi zhe bào zhe yī bān zhòng",
-    "kind": "suyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
@@ -994,7 +953,7 @@
     "id": "run-si-yue-chi-shu-ye",
     "text": "闰四月，吃树叶",
     "pinyin": "rùn sì yuè, chī shù yè",
-    "kind": "suyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
@@ -1025,8 +984,6 @@
       "zh": "地方性农事说法，并不可靠，部分地区流传。"
     },
     "synonyms": [],
-    "antonyms": [
-      "风调雨顺"
-    ]
+    "antonyms": []
   }
 ]

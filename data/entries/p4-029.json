@@ -47,9 +47,9 @@
     "antonyms": [
       "惊慌失措",
       "手足无措",
+      "面面相觑",
       "泣不成声",
       "哭天喊地",
-      "面面相觑",
       "一把眼泪一把鼻涕"
     ]
   },
@@ -95,8 +95,8 @@
     },
     "synonyms": [
       "缠绵悱恻",
-      "愁肠百结",
-      "柔情似水"
+      "柔情似水",
+      "愁肠百结"
     ],
     "antonyms": [
       "铁石心肠",
@@ -113,7 +113,8 @@
     "register": "casual",
     "themes": [
       "war",
-      "culture"
+      "culture",
+      "myths-legends"
     ],
     "literal": "shrimp · soldiers · crab · generals",
     "natural": "shrimp soldiers and crab generals",
@@ -144,12 +145,10 @@
       "zh": "带轻蔑，常有诙谐意味，多指别人的手下，含贬义。"
     },
     "synonyms": [
-      "乌合之众",
-      "海龙王的喽啰——虾兵蟹将"
+      "乌合之众"
     ],
     "antonyms": [
-      "精兵强将",
-      "千军万马"
+      "精兵强将"
     ]
   },
   {
@@ -295,8 +294,7 @@
       "盛装华服"
     ],
     "antonyms": [
-      "布衣荆钗",
-      "粗茶淡饭"
+      "布衣荆钗"
     ]
   },
   {
@@ -390,10 +388,7 @@
       "为人处世",
       "待人接物"
     ],
-    "antonyms": [
-      "胡作非为",
-      "随波逐流"
-    ]
+    "antonyms": []
   },
   {
     "id": "fei-wo-zu-lei",
@@ -405,9 +400,9 @@
     "register": "literary",
     "themes": [
       "relationships",
-      "bad-company-and-betrayal",
       "confucian-classics",
-      "historical-records"
+      "historical-records",
+      "conflict-and-strife"
     ],
     "literal": "not · my · clan · kind",
     "natural": "not of my kind",
@@ -546,12 +541,10 @@
       "zh": "常用于假设句（“即使……”）或形容巨大打击；与“天崩地裂”相近。"
     },
     "synonyms": [
-      "山崩地裂",
-      "天翻地覆"
+      "山崩地裂"
     ],
     "antonyms": [
-      "风平浪静",
-      "安然无恙"
+      "风平浪静"
     ]
   },
   {
@@ -599,9 +592,9 @@
       "趋炎附势"
     ],
     "antonyms": [
+      "不食周粟",
       "洁身自好",
-      "宁死不屈",
-      "不食周粟"
+      "宁死不屈"
     ]
   },
   {
@@ -661,7 +654,7 @@
     "pinyin": "kāng kǎi bēi gē",
     "kind": "chengyu",
     "frequency": 3,
-    "sentiment": "positive",
+    "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "emotions",
@@ -697,12 +690,10 @@
       "zh": "书面赞语，带悲壮色彩，常含壮志难酬之意。"
     },
     "synonyms": [
-      "悲壮激昂",
-      "豪情壮志"
+      "悲壮激昂"
     ],
     "antonyms": [
-      "无病呻吟",
-      "麻木不仁"
+      "无病呻吟"
     ]
   },
   {
@@ -799,8 +790,8 @@
       "深谋远虑"
     ],
     "antonyms": [
-      "优柔寡断",
-      "有勇无谋"
+      "有勇无谋",
+      "优柔寡断"
     ]
   },
   {
@@ -812,8 +803,7 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "speech",
-      "excellent-writing"
+      "speech"
     ],
     "literal": "earnest · earnest · move · listening",
     "natural": "earnestly stirring to the ear",
@@ -849,7 +839,6 @@
     ],
     "antonyms": [
       "枯燥无味",
-      "言之无物",
       "不堪入耳"
     ]
   },
@@ -906,8 +895,11 @@
       "欺软怕硬",
       "恃强凌弱",
       "欺善怕恶",
-      "老太太吃柿子——专挑软的捏",
-      "柿子专挑软的捏"
+      "柿子专挑软的捏",
+      "黄鼠狼单咬病鸭子——专拣弱的欺",
+      "大鱼吃小鱼，小鱼吃虾米——大的欺负小的",
+      "雷公打豆腐——专拣软的欺",
+      "老太太吃柿子——专挑软的捏"
     ]
   },
   {
@@ -1050,7 +1042,6 @@
     },
     "synonyms": [
       "纵论古今",
-      "古今中外",
       "说古道今"
     ],
     "antonyms": [
@@ -1149,8 +1140,7 @@
     },
     "synonyms": [
       "细致入微",
-      "一丝不苟",
-      "粗中有细"
+      "一丝不苟"
     ],
     "antonyms": [
       "粗心大意",
@@ -1207,9 +1197,9 @@
       "五大三粗"
     ],
     "antonyms": [
-      "瘦骨嶙峋",
       "弱不禁风",
       "骨瘦如柴",
+      "瘦骨嶙峋",
       "面黄肌瘦"
     ]
   },
@@ -1262,11 +1252,9 @@
       "zh": "常半开玩笑地用来搪塞解释；可只说前半句；与“不可名状”相近。"
     },
     "synonyms": [
-      "心领神会",
-      "妙不可言"
+      "心领神会"
     ],
     "antonyms": [
-      "一目了然",
       "直截了当"
     ]
   }

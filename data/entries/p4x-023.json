@@ -3,7 +3,7 @@
     "id": "li-shi-zong-shi-jing-ren-de-xiang-si",
     "text": "历史总是惊人的相似",
     "pinyin": "lì shǐ zǒng shì jīng rén de xiāng sì",
-    "kind": "suyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -40,7 +40,6 @@
       "历史重演"
     ],
     "antonyms": [
-      "今非昔比",
       "前所未有"
     ]
   },
@@ -130,8 +129,7 @@
       "隐世高人"
     ],
     "antonyms": [
-      "凡夫俗子",
-      "俗人"
+      "凡夫俗子"
     ]
   },
   {
@@ -173,57 +171,10 @@
     },
     "synonyms": [
       "流连山水",
-      "仁者乐山，智者乐水",
       "啸傲山林"
     ],
     "antonyms": [
-      "汲汲于名利",
-      "醉生梦死"
-    ]
-  },
-  {
-    "id": "e-shi-chuan-qian-li",
-    "text": "恶事传千里",
-    "pinyin": "è shì chuán qiān lǐ",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "public-opinion",
-      "bad-fortune"
-    ],
-    "literal": "bad · deed · spread · thousand · li",
-    "natural": "bad news travels a thousand li",
-    "meaning": {
-      "en": "Scandals and bad news spread far and fast.",
-      "zh": "坏事、丑闻传播得又快又远。"
-    },
-    "equivalents": [
-      "bad news travels fast",
-      "ill news flies apace"
-    ],
-    "examples": [
-      {
-        "zh": "恶事传千里，一出丑闻，全城都知道了。",
-        "en": "Bad news travels fast; once the scandal broke, the whole city knew."
-      },
-      {
-        "zh": "做生意要小心，恶事传千里。",
-        "en": "Be careful in business; word of bad dealings travels far."
-      }
-    ],
-    "usage": {
-      "en": "The full saying is 好事不出门，恶事传千里. Used as a warning about reputation.",
-      "zh": "完整说法为“好事不出门，恶事传千里”，多用来提醒注意名声。"
-    },
-    "synonyms": [
-      "好事不出门，坏事传千里",
-      "纸包不住火"
-    ],
-    "antonyms": [
-      "默默无闻",
-      "秘而不宣"
+      "汲汲于名利"
     ]
   },
   {
@@ -264,7 +215,6 @@
     },
     "synonyms": [
       "卧病在床",
-      "病来如山倒，病去如抽丝",
       "一病不起"
     ],
     "antonyms": [
@@ -309,7 +259,6 @@
       "zh": "常见于新闻标题，对反响好坏不作判断。"
     },
     "synonyms": [
-      "拔出萝卜带出泥",
       "牵一发而动全身",
       "轩然大波"
     ],
@@ -355,11 +304,9 @@
       "zh": "谴责意味强烈。"
     },
     "synonyms": [
-      "始乱终弃",
       "弃家不顾"
     ],
     "antonyms": [
-      "可怜天下父母心",
       "不离不弃"
     ]
   },
@@ -400,7 +347,6 @@
     },
     "synonyms": [
       "黄口小儿",
-      "初出茅庐",
       "乳臭未干"
     ],
     "antonyms": [
@@ -449,8 +395,8 @@
       "佳人薄命"
     ],
     "antonyms": [
-      "福寿双全",
-      "红颜不老"
+      "红颜不老",
+      "福寿双全"
     ]
   },
   {
@@ -493,7 +439,6 @@
       "水泄不通"
     ],
     "antonyms": [
-      "寥寥无几",
       "门可罗雀"
     ]
   },
@@ -535,13 +480,9 @@
     },
     "synonyms": [
       "自讨没趣",
-      "自食其果",
       "自找苦吃"
     ],
-    "antonyms": [
-      "自重",
-      "体面"
-    ]
+    "antonyms": []
   },
   {
     "id": "lai-ri-wu-duo",
@@ -581,104 +522,11 @@
       "zh": "多指年老或重病，语气沉重。"
     },
     "synonyms": [
-      "风烛残年",
-      "岌岌可危"
+      "风烛残年"
     ],
     "antonyms": [
       "来日方长",
       "前程万里"
-    ]
-  },
-  {
-    "id": "ju-hua-wei-zhi",
-    "text": "橘化为枳",
-    "pinyin": "jú huà wéi zhǐ",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "change",
-      "natural-consequences",
-      "plant-and-natural-world"
-    ],
-    "literal": "orange · turn into · trifoliate orange",
-    "natural": "an orange turns into a bitter orange",
-    "meaning": {
-      "en": "A thing changes in nature when moved to a different environment.",
-      "zh": "橘子移到别处会变成枳，比喻环境改变事物。"
-    },
-    "equivalents": [
-      "a fish out of water",
-      "change with the surroundings"
-    ],
-    "examples": [
-      {
-        "zh": "制度照搬到别国，往往橘化为枳。",
-        "en": "Copied into another country, a system often changes its nature like the orange turned bitter."
-      },
-      {
-        "zh": "好产品换了市场，可能橘化为枳。",
-        "en": "A good product moved to another market may lose its quality."
-      }
-    ],
-    "usage": {
-      "en": "Literary variant of the idea in 南橘北枳, stressing change through environment.",
-      "zh": "书面语，与“南橘北枳”意思相近，强调环境改变事物。"
-    },
-    "synonyms": [
-      "南橘北枳",
-      "水土不服"
-    ],
-    "antonyms": [
-      "一成不变",
-      "始终如一"
-    ]
-  },
-  {
-    "id": "lu-chun-bu-dui-ma-zui",
-    "text": "驴唇不对马嘴",
-    "pinyin": "lǘ chún bù duì mǎ zuǐ",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "poor-speech-and-silence",
-      "confusion"
-    ],
-    "literal": "donkey · lip · not · match · horse · mouth",
-    "natural": "a donkey's lip doesn't fit a horse's mouth",
-    "meaning": {
-      "en": "Things that do not match or answers that are completely off the point.",
-      "zh": "驴的嘴唇对不上马的嘴，比喻答非所问或两者不相合。"
-    },
-    "equivalents": [
-      "like chalk and cheese",
-      "completely beside the point"
-    ],
-    "examples": [
-      {
-        "zh": "他的回答驴唇不对马嘴。",
-        "en": "His answer was beside the point."
-      },
-      {
-        "zh": "这两段话驴唇不对马嘴，根本连不起来。",
-        "en": "The two passages don't match at all and can't be joined up."
-      }
-    ],
-    "usage": {
-      "en": "Colloquial; 牛头不对马嘴 is the more common form of the same idea.",
-      "zh": "口语，意思与更常见的“牛头不对马嘴”相近。"
-    },
-    "synonyms": [
-      "牛头不对马嘴",
-      "风马牛不相及",
-      "答非所问"
-    ],
-    "antonyms": [
-      "丝丝入扣",
-      "对答如流"
     ]
   },
   {
@@ -833,8 +681,8 @@
       "女主当政"
     ],
     "antonyms": [
-      "母仪天下",
-      "男主外，女主内"
+      "男主外，女主内",
+      "母仪天下"
     ]
   },
   {
@@ -875,8 +723,8 @@
       "zh": "常说“人贵有自知之明”，对自负的人说有暗示意味。"
     },
     "synonyms": [
-      "知人者智，自知者明",
-      "量力而行"
+      "量力而行",
+      "知人者智，自知者明"
     ],
     "antonyms": [
       "目不见睫",

@@ -132,7 +132,6 @@
     "synonyms": [
       "赤子之心",
       "天真烂漫",
-      "童言无忌",
       "两小无猜"
     ],
     "antonyms": [
@@ -222,7 +221,7 @@
     },
     "synonyms": [
       "亢龙有悔",
-      "月满则亏",
+      "月满则亏，水满则溢",
       "花无百日红",
       "物极必反"
     ],
@@ -280,7 +279,7 @@
       "zh": "书面语，常与“形影相吊”连用，如原文。"
     },
     "synonyms": [
-      "孤身只影",
+      "形单影只",
       "孤苦伶仃"
     ],
     "antonyms": [
@@ -337,8 +336,7 @@
     },
     "synonyms": [
       "破颜一笑",
-      "嫣然一笑",
-      "似笑非笑"
+      "嫣然一笑"
     ],
     "antonyms": [
       "怒目而视"
@@ -385,7 +383,6 @@
       "兢兢业业"
     ],
     "antonyms": [
-      "越俎代庖",
       "玩忽职守",
       "擅离职守"
     ]
@@ -433,7 +430,6 @@
       "以弱胜强"
     ],
     "antonyms": [
-      "蛮干",
       "以卵击石"
     ]
   },
@@ -518,11 +514,7 @@
       "en": "Formal, common in invitations and announcements. 襄 means 'assist'.",
       "zh": "正式，常见于邀请函和通告。“襄”意为帮助。"
     },
-    "synonyms": [
-      "携手共创",
-      "与民同乐",
-      "奇文共赏"
-    ],
+    "synonyms": [],
     "antonyms": [
       "袖手旁观"
     ]
@@ -791,8 +783,7 @@
     },
     "synonyms": [
       "渔翁得利",
-      "隔岸观火",
-      "借刀杀人"
+      "隔岸观火"
     ],
     "antonyms": [
       "见义勇为",
@@ -839,8 +830,7 @@
       "心怀鬼胎"
     ],
     "antonyms": [
-      "身正不怕影子斜",
-      "站着身子正——不怕影儿斜"
+      "身正不怕影子斜"
     ]
   },
   {
@@ -926,8 +916,8 @@
     },
     "synonyms": [
       "盛名之下，其实难副",
-      "其实难副",
-      "徒有虚名"
+      "徒有虚名",
+      "其实难副"
     ],
     "antonyms": [
       "名不虚传",
@@ -1064,63 +1054,6 @@
     ],
     "antonyms": [
       "含糊其词"
-    ]
-  },
-  {
-    "id": "ju-ren-yu-qian-li-zhi-wai",
-    "text": "拒人于千里之外",
-    "pinyin": "jù rén yú qiān lǐ zhī wài",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "attitude-humble-vs-arrogant",
-      "solitude-and-isolation",
-      "confucian-classics"
-    ],
-    "literal": "refuse · people · at · thousand · li · 's · outside",
-    "natural": "keep people a thousand li away",
-    "meaning": {
-      "en": "To hold others at a distance with a cold or arrogant attitude.",
-      "zh": "态度冷淡或傲慢，不愿接近或接受别人。"
-    },
-    "equivalents": [
-      "keep people at arm's length",
-      "give someone the cold shoulder"
-    ],
-    "examples": [
-      {
-        "zh": "他总是一脸严肃，拒人于千里之外。",
-        "en": "He always looks stern and keeps everyone at a distance."
-      },
-      {
-        "zh": "服务行业切忌拒人于千里之外。",
-        "en": "The service industry must never turn customers away coldly."
-      }
-    ],
-    "origin": {
-      "source": "《孟子·告子下》",
-      "story": {
-        "en": "Mencius said that a ruler who does not welcome good advice, saying with a smug look 'I know it all already', keeps worthy men 'a thousand li away' (訑訑之声音颜色距人于千里之外).",
-        "zh": "孟子说，不喜欢听善言的人，总是说“我已经知道了”，那种自满的声音和神色，会“距人于千里之外”。"
-      },
-      "date": {
-        "zh": "战国中期 · 前4世纪",
-        "en": "mid Warring States, 4th c. BC"
-      }
-    },
-    "usage": {
-      "en": "Predicate. 千里 is figurative. 于 is part of the set form.",
-      "zh": "多作谓语。“千里”为夸张说法。"
-    },
-    "synonyms": [
-      "下逐客令",
-      "杜门谢客"
-    ],
-    "antonyms": [
-      "盛情难却",
-      "三顾茅庐"
     ]
   }
 ]

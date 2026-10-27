@@ -82,9 +82,9 @@
     },
     "synonyms": [
       "疑神疑鬼",
-      "半信半疑",
       "满腹疑团",
-      "疑惑重重"
+      "疑惑重重",
+      "半信半疑"
     ],
     "antonyms": [
       "深信不疑",
@@ -216,8 +216,7 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "家境衰落",
-      "门庭冷落"
+      "家境衰落"
     ],
     "antonyms": [
       "家道殷实",
@@ -264,70 +263,10 @@
       "zh": "多作谓语。"
     },
     "synonyms": [
-      "耳提面命",
-      "当面指点"
+      "当面指点",
+      "耳提面命"
     ],
-    "antonyms": [
-      "自生自灭"
-    ]
-  },
-  {
-    "id": "hou-lai-zhe-ju-shang",
-    "text": "后来者居上",
-    "pinyin": "hòu lái zhě jū shàng",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "competition-and-rivalry",
-      "innovation-and-progress",
-      "historical-records"
-    ],
-    "literal": "later · come · ones · occupy · top",
-    "natural": "latecomers overtake",
-    "meaning": {
-      "en": "Those who come later overtake those who came before.",
-      "zh": "后来的人超过先来的人。"
-    },
-    "equivalents": [
-      "latecomers overtake",
-      "the new generation surpasses the old"
-    ],
-    "examples": [
-      {
-        "zh": "新品牌后来者居上，市场份额超过了老牌子。",
-        "en": "The new brand has overtaken the old, taking a larger market share."
-      },
-      {
-        "zh": "后来者居上，年轻选手打破了纪录。",
-        "en": "The newcomers took the lead, and a young athlete broke the record."
-      }
-    ],
-    "origin": {
-      "source": "《史记·汲郑列传》",
-      "story": {
-        "en": "Ji An complained to Emperor Wu: 'Your Majesty employs ministers like stacking firewood; those who come later end up on top' (后来者居上).",
-        "zh": "汲黯对汉武帝说：“陛下用群臣如积薪耳，后来者居上。”"
-      },
-      "date": {
-        "zh": "西汉 · 约前91年",
-        "en": "Western Han, c. 91 BC"
-      }
-    },
-    "usage": {
-      "en": "Predicate or standalone saying.",
-      "zh": "多作谓语或独立成句。"
-    },
-    "synonyms": [
-      "青出于蓝",
-      "长江后浪推前浪",
-      "后来居上"
-    ],
-    "antonyms": [
-      "先入为主",
-      "每况愈下"
-    ]
+    "antonyms": []
   },
   {
     "id": "wu-jing-tian-ze",
@@ -378,11 +317,9 @@
     },
     "synonyms": [
       "适者生存",
-      "优胜劣败"
+      "优胜劣汰"
     ],
-    "antonyms": [
-      "听天由命"
-    ]
+    "antonyms": []
   },
   {
     "id": "mo-dao-bu-wu-kan-chai-gong",
@@ -422,7 +359,6 @@
       "zh": "多独立成句。"
     },
     "synonyms": [
-      "未雨绸缪",
       "工欲善其事，必先利其器"
     ],
     "antonyms": [
@@ -560,8 +496,7 @@
       "zh": "多作谓语、状语。"
     },
     "synonyms": [
-      "强作欢颜",
-      "故作镇定"
+      "强作欢颜"
     ],
     "antonyms": [
       "开怀大笑",
@@ -613,21 +548,21 @@
     "antonyms": [
       "卑鄙小人",
       "市井小人",
-      "牛鬼蛇神",
-      "魑魅魍魉",
       "跳梁小丑",
-      "梁上君子",
       "江湖骗子",
-      "牛头马面",
       "衣冠禽兽",
       "不逞之徒",
       "无耻之尤",
-      "江洋大盗",
       "好色之徒",
       "不三不四",
+      "猪狗不如",
       "妖魔鬼怪",
+      "牛鬼蛇神",
+      "魑魅魍魉",
+      "梁上君子",
+      "牛头马面",
+      "江洋大盗",
       "邪魔外道",
-      "狗彘不如",
       "亡命之徒"
     ]
   },
@@ -669,13 +604,18 @@
     },
     "synonyms": [
       "天怒人怨",
-      "天人共愤",
       "令人发指",
-      "天理难容"
+      "天理难容",
+      "怨声载道",
+      "众怒难犯"
     ],
     "antonyms": [
       "大快人心",
-      "人人称道"
+      "人人称道",
+      "拍手称快"
+    ],
+    "variants": [
+      "天人共愤"
     ]
   },
   {
@@ -891,8 +831,8 @@
       "一决雌雄"
     ],
     "antonyms": [
-      "闻风而逃",
-      "缴械投降"
+      "缴械投降",
+      "闻风而逃"
     ]
   },
   {
@@ -931,12 +871,11 @@
       "zh": "多作谓语，常说“对……毫不介意”。"
     },
     "synonyms": [
-      "满不在乎",
-      "不以为然"
+      "满不在乎"
     ],
     "antonyms": [
-      "耿耿于怀",
-      "斤斤计较"
+      "斤斤计较",
+      "耿耿于怀"
     ]
   },
   {
@@ -1070,7 +1009,6 @@
     },
     "synonyms": [
       "血流成河",
-      "哀鸿遍野",
       "血雨腥风",
       "血肉横飞",
       "尸山血海",

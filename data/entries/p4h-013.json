@@ -5,10 +5,6 @@
     "pinyin": "xiàng yǔ zá guō —— pò fǔ chén zhōu",
     "kind": "xiehouyu",
     "frequency": 3,
-    "parts": [
-      "项羽砸锅",
-      "破釜沉舟"
-    ],
     "sentiment": "positive",
     "register": "casual",
     "themes": [
@@ -40,12 +36,15 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。后半句即成语“破釜沉舟”。"
     },
     "synonyms": [
-      "破釜沉舟",
       "背水一战"
     ],
     "antonyms": [
-      "留有余地",
-      "瞻前顾后"
+      "瞻前顾后",
+      "留有余地"
+    ],
+    "parts": [
+      "项羽砸锅",
+      "破釜沉舟"
     ]
   },
   {
@@ -54,11 +53,7 @@
     "pinyin": "xiāng xià rén chuān xī zhuāng —— tǔ yáng jié hé",
     "kind": "xiehouyu",
     "frequency": 3,
-    "parts": [
-      "乡下人穿西装",
-      "土洋结合"
-    ],
-    "sentiment": "neutral",
+    "sentiment": "negative",
     "register": "casual",
     "themes": [
       "appearance",
@@ -91,8 +86,10 @@
     "synonyms": [
       "不伦不类"
     ],
-    "antonyms": [
-      "相得益彰"
+    "antonyms": [],
+    "parts": [
+      "乡下人穿西装",
+      "土洋结合"
     ]
   },
   {
@@ -128,8 +125,8 @@
         "en": "He made the project sound wonderful in the most glowing terms."
       },
       {
-        "zh": "别听销售员仙女散花地吹。",
-        "en": "Don't listen to the salesman's lavish patter."
+        "zh": "别听销售员仙女散花——天花乱坠地吹。",
+        "en": "Don't listen to the salesman's wildly exaggerated pitch."
       }
     ],
     "usage": {
@@ -151,10 +148,6 @@
     "pinyin": "xià yǔ tiān bēi mián xù —— yuè bēi yuè zhòng",
     "kind": "xiehouyu",
     "frequency": 3,
-    "parts": [
-      "下雨天背棉絮",
-      "越背越重"
-    ],
     "sentiment": "negative",
     "register": "casual",
     "themes": [
@@ -191,6 +184,10 @@
     "antonyms": [
       "如释重负",
       "轻装上阵"
+    ],
+    "parts": [
+      "下雨天背棉絮",
+      "越背越重"
     ]
   },
   {
@@ -238,8 +235,8 @@
       "漫无目的"
     ],
     "antonyms": [
-      "有的放矢",
-      "对症下药"
+      "对症下药",
+      "有的放矢"
     ]
   },
   {
@@ -277,8 +274,8 @@
         "en": "I didn't recognise a master when I saw one; forgive me!"
       },
       {
-        "zh": "原来您就是王教授，我真是瞎子拜见丈人。",
-        "en": "So you are Professor Wang; I should have known."
+        "zh": "原来您就是王教授，我真是瞎子拜见丈人——有眼不识泰山。",
+        "en": "So you are Professor Wang; I failed to recognise a great man."
       }
     ],
     "usage": {
@@ -286,8 +283,7 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。常作自嘲，用于发现对方身份显赫时。"
     },
     "synonyms": [
-      "有眼无珠",
-      "有眼不识泰山"
+      "有眼无珠"
     ],
     "antonyms": [
       "慧眼识珠"
@@ -434,8 +430,8 @@
       "乱七八糟"
     ],
     "antonyms": [
-      "井井有条",
-      "有条不紊"
+      "有条不紊",
+      "井井有条"
     ]
   },
   {

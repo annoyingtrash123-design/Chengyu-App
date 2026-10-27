@@ -40,61 +40,10 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。常只说前半句。"
     },
     "synonyms": [
-      "各司其职",
-      "各就各位"
+      "各司其职"
     ],
     "antonyms": [
-      "人浮于事",
-      "滥竽充数"
-    ]
-  },
-  {
-    "id": "yi-ge-ban-jin-yi-ge-2",
-    "text": "一个半斤，一个八两——没什么两样",
-    "pinyin": "yī gè bàn jīn, yī gè bā liǎng —— méi shén me liǎng yàng",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "一个半斤，一个八两",
-      "没什么两样"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "evenly-matched",
-      "relative-measurements"
-    ],
-    "literal": "one · half · catty, one · eight · tael — not · what · two · kinds",
-    "natural": "One half-catty, one eight taels",
-    "meaning": {
-      "en": "Equal in value; no real difference between the two. (An old catty was sixteen taels, so half a catty is eight taels.)",
-      "zh": "旧制一斤十六两，半斤就是八两，比喻两者一样，没有差别。"
-    },
-    "equivalents": [
-      "six of one, half a dozen of the other",
-      "much of a muchness"
-    ],
-    "examples": [
-      {
-        "zh": "这两个方案一个半斤，一个八两，没什么两样。",
-        "en": "The two plans are much of a muchness."
-      },
-      {
-        "zh": "他们俩一个半斤，一个八两，谁也别说谁。",
-        "en": "They are as bad as each other."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. The first half is the origin of the four-character phrase 半斤八两.",
-      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。前半句即成语“半斤八两”的来源。"
-    },
-    "synonyms": [
-      "旗鼓相当",
-      "不相上下"
-    ],
-    "antonyms": [
-      "天壤之别",
-      "判若云泥"
+      "人浮于事"
     ]
   },
   {
@@ -141,9 +90,7 @@
       "不速之客",
       "来者不善"
     ],
-    "antonyms": [
-      "不请自来的福星"
-    ]
+    "antonyms": []
   },
   {
     "id": "ye-gong-hao-long-kou-shi-xin-fei",
@@ -186,12 +133,11 @@
       "zh": "通常只说前半句，后半句由听者领会。“叶公好龙”本身是成语，典出《新序》。"
     },
     "synonyms": [
-      "表里不一",
-      "言行不一"
+      "言行不一",
+      "表里不一"
     ],
     "antonyms": [
-      "表里如一",
-      "言行一致"
+      "表里如一"
     ]
   },
   {
@@ -332,8 +278,7 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。典出《三国演义》，徐庶入曹营终身不为曹操出一谋。"
     },
     "synonyms": [
-      "默不作声",
-      "守口如瓶"
+      "默不作声"
     ],
     "antonyms": [
       "滔滔不绝",
@@ -385,8 +330,8 @@
       "华而不实"
     ],
     "antonyms": [
-      "表里如一",
-      "真才实学"
+      "真才实学",
+      "表里如一"
     ]
   },
   {
@@ -434,8 +379,8 @@
       "兔死狗烹"
     ],
     "antonyms": [
-      "知恩图报",
-      "饮水思源"
+      "饮水思源",
+      "知恩图报"
     ]
   },
   {
@@ -538,55 +483,6 @@
     ]
   },
   {
-    "id": "xia-mao-zhua-zhu-ge-si",
-    "text": "瞎猫抓住个死耗子——碰上了",
-    "pinyin": "xiā māo zhuā zhù gè sǐ hào zi —— pèng shàng le",
-    "kind": "xiehouyu",
-    "frequency": 3,
-    "parts": [
-      "瞎猫抓住个死耗子",
-      "碰上了"
-    ],
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "unintended-results",
-      "successful-completion"
-    ],
-    "literal": "blind · cat · catch · a · dead · mouse — bump · into · le",
-    "natural": "A blind cat catches a dead mouse",
-    "meaning": {
-      "en": "To succeed by pure luck.",
-      "zh": "瞎猫碰到死耗子，比喻靠运气碰上好事，并非本领。"
-    },
-    "equivalents": [
-      "a stroke of luck",
-      "blind luck"
-    ],
-    "examples": [
-      {
-        "zh": "他这次能拿奖，不过是瞎猫抓住个死耗子，碰上了。",
-        "en": "He won the prize by pure luck."
-      },
-      {
-        "zh": "别羡慕他，瞎猫抓住个死耗子——碰上了。",
-        "en": "Don't envy him; it was just luck."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, and the listener supplies the rest. Casual and humorous. A more common wording is 瞎猫碰上死耗子.",
-      "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。更常见的说法是“瞎猫碰上死耗子”。"
-    },
-    "synonyms": [
-      "歪打正着",
-      "瞎猫碰死耗子"
-    ],
-    "antonyms": [
-      "精益求精",
-      "真才实学"
-    ]
-  },
-  {
     "id": "wu-ya-luo-fang-tou-kai-kou-shi-huo",
     "text": "乌鸦落房头——开口是祸",
     "pinyin": "wū yā luò fáng tóu —— kāi kǒu shì huò",
@@ -682,7 +578,7 @@
       "五十步笑百步"
     ],
     "antonyms": [
-      "天差地远"
+      "天差地别"
     ]
   },
   {
@@ -824,12 +720,11 @@
       "zh": "通常只说前半句，后半句由听者领会。口语，带诙谐色彩。常用来调侃难得的好事。"
     },
     "synonyms": [
-      "千载难逢",
       "百年一遇"
     ],
     "antonyms": [
-      "司空见惯",
-      "家常便饭"
+      "家常便饭",
+      "司空见惯"
     ]
   }
 ]

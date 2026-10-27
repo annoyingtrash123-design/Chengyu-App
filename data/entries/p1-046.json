@@ -52,7 +52,6 @@
       "鸟尽弓藏",
       "过河拆桥",
       "卸磨杀驴",
-      "杯酒释兵权",
       "卸磨杀驴——忘恩负义"
     ],
     "antonyms": [
@@ -110,7 +109,6 @@
     },
     "synonyms": [
       "临时抱佛脚",
-      "亡羊补牢",
       "临阵磨枪",
       "船到江心，补漏迟",
       "平时不烧香，临时抱佛脚"
@@ -122,8 +120,8 @@
       "曲突徙薪",
       "晴带雨伞，饱带饥粮",
       "积谷防饥",
-      "备而不用",
-      "凡事预则立，不预则废"
+      "凡事预则立，不预则废",
+      "备而不用"
     ]
   },
   {
@@ -178,13 +176,11 @@
     "synonyms": [
       "眼高手低",
       "好高骛远",
-      "才疏学浅",
       "空腹高心"
     ],
     "antonyms": [
       "德才兼备",
       "才高八斗",
-      "大器晚成",
       "击楫中流"
     ]
   },
@@ -241,75 +237,15 @@
     "synonyms": [
       "悬梁刺股",
       "凿壁偷光",
-      "孜孜不倦",
       "孙康映雪",
       "断齑画粥",
       "萤窗雪案",
-      "然糠照薪"
+      "然糠照薪",
+      "孜孜不倦"
     ],
     "antonyms": [
-      "不学无术",
-      "饱食终日",
-      "游手好闲"
-    ]
-  },
-  {
-    "id": "lian-shi-bu-tian",
-    "text": "炼石补天",
-    "pinyin": "liàn shí bǔ tiān",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "stories",
-      "effort",
-      "myths-legends"
-    ],
-    "literal": "smelt · stones · mend · sky",
-    "natural": "Smelting stones to mend the sky",
-    "meaning": {
-      "en": "A heroic effort to repair great damage.",
-      "zh": "神话传说女娲炼五色石补天。比喻施展才能和手段，弥补国家政治上的缺陷。"
-    },
-    "equivalents": [
-      "a Herculean effort",
-      "repair the damage",
-      "save the day"
-    ],
-    "examples": [
-      {
-        "zh": "改革者肩负炼石补天的重任。",
-        "en": "The reformers bear the heroic task of repairing the damage."
-      },
-      {
-        "zh": "他立志炼石补天，振兴家乡。",
-        "en": "He's determined to revive his hometown against all odds."
-      }
-    ],
-    "origin": {
-      "source": "《淮南子·览冥训》",
-      "story": {
-        "en": "When the pillars of heaven broke, Nüwa smelted five-coloured stones to mend the sky (炼五色石以补苍天).",
-        "zh": "《淮南子》：\"女娲炼五色石以补苍天。\""
-      },
-      "date": {
-        "zh": "西汉 · 约前139年",
-        "en": "Western Han, c. 139 BC"
-      }
-    },
-    "usage": {
-      "en": "Predicate or attributive. Close to 女娲补天.",
-      "zh": "多作谓语、定语。"
-    },
-    "synonyms": [
-      "女娲补天",
-      "力挽狂澜",
-      "扭转乾坤"
-    ],
-    "antonyms": [
-      "无能为力",
-      "束手无策"
+      "游手好闲",
+      "饱食终日"
     ]
   },
   {
@@ -365,7 +301,6 @@
     },
     "synonyms": [
       "尊师重道",
-      "不耻下问",
       "一日为师，终身为父"
     ],
     "antonyms": [
@@ -424,7 +359,6 @@
       "横槊赋诗",
       "咏絮之才",
       "才高八斗",
-      "柳絮才高",
       "饱学之士"
     ]
   },
@@ -440,7 +374,6 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "political-corruption",
       "danger",
       "historical-records"
     ],
@@ -480,14 +413,9 @@
       "en": "Predicate.",
       "zh": "多作谓语。"
     },
-    "synonyms": [
-      "树大招风",
-      "功成身退",
-      "尾大不掉"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "默默无闻",
-      "韬光养晦"
+      "功成身退"
     ]
   },
   {
@@ -596,8 +524,8 @@
       "大难不死，必有后福"
     ],
     "antonyms": [
-      "祸不单行",
       "在劫难逃",
+      "祸不单行",
       "老实人吃亏"
     ]
   },
@@ -651,9 +579,9 @@
       "zh": "多作定语、主语。"
     },
     "synonyms": [
-      "出口成章",
       "才思敏捷",
-      "倚马可待"
+      "倚马可待",
+      "出口成章"
     ],
     "antonyms": [
       "江郎才尽",
@@ -702,8 +630,10 @@
       "善恶有报"
     ],
     "antonyms": [
-      "天理难容",
       "逍遥法外"
+    ],
+    "variants": [
+      "天理昭彰"
     ]
   },
   {
@@ -763,8 +693,8 @@
     ],
     "antonyms": [
       "平步青云",
-      "飞黄腾达",
-      "加官进爵"
+      "加官进爵",
+      "飞黄腾达"
     ]
   },
   {
@@ -883,7 +813,6 @@
     },
     "synonyms": [
       "原形毕露",
-      "水落石出",
       "真相大白",
       "荆轲刺秦王——图穷匕首见"
     ],
@@ -944,7 +873,8 @@
     "synonyms": [
       "饥寒交迫",
       "衣不蔽体",
-      "食不果腹"
+      "食不果腹",
+      "并日而食"
     ],
     "antonyms": [
       "丰衣足食",
@@ -1005,10 +935,8 @@
       "大材小用",
       "明珠蒙尘",
       "彩凤随鸦",
-      "锦衣夜行",
-      "遗珠之憾",
-      "鲜花插在牛粪上",
-      "黄钟毁弃"
+      "黄钟毁弃",
+      "鲜花插在牛粪上"
     ],
     "antonyms": [
       "人尽其才",
@@ -1021,7 +949,7 @@
     "id": "luan-shi-ying-xiong",
     "text": "乱世英雄",
     "pinyin": "luàn shì yīng xióng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "neutral",
@@ -1054,12 +982,8 @@
       "en": "Subject or object.",
       "zh": "多作主语、宾语。"
     },
-    "synonyms": [
-      "时势造英雄"
-    ],
-    "antonyms": [
-      "太平盛世"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "cun-xin-bu-liang",
@@ -1089,11 +1013,11 @@
     ],
     "examples": [
       {
-        "zh": "那个陌生人存心不良，你要小心。",
+        "zh": "那个陌生人居心不良，你要小心。",
         "en": "That stranger is up to no good — be careful."
       },
       {
-        "zh": "他接近你是存心不良。",
+        "zh": "他接近你是居心不良。",
         "en": "He's getting close to you with bad intentions."
       }
     ],
@@ -1103,22 +1027,21 @@
     },
     "synonyms": [
       "居心叵测",
-      "心怀叵测",
       "别有用心",
       "心术不正",
       "图谋不轨"
     ],
     "antonyms": [
-      "心地善良",
       "光明磊落",
-      "与人为善"
+      "与人为善",
+      "心地善良"
     ]
   },
   {
     "id": "wo-chuang-bu-qi",
     "text": "卧床不起",
     "pinyin": "wò chuáng bù qǐ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
     "register": "neutral",
@@ -1157,9 +1080,9 @@
       "病入膏肓"
     ],
     "antonyms": [
-      "生龙活虎",
       "身强力壮",
-      "药到病除"
+      "药到病除",
+      "生龙活虎"
     ]
   },
   {
@@ -1260,9 +1183,7 @@
     },
     "synonyms": [
       "鞍前马后",
-      "效犬马之力",
-      "绵薄之力",
-      "效犬马之劳"
+      "绵薄之力"
     ],
     "antonyms": [
       "袖手旁观"
@@ -1376,17 +1297,15 @@
     },
     "synonyms": [
       "落落大方",
-      "从容不迫",
-      "大方得体"
+      "大方得体",
+      "不为五斗米折腰"
     ],
     "antonyms": [
       "卑躬屈膝",
       "趾高气扬",
       "奴颜婢膝",
       "俯首帖耳",
-      "攀龙附凤",
       "摇尾乞怜",
-      "五斗折腰",
       "胁肩谄笑",
       "溜须拍马",
       "低三下四",
@@ -1396,7 +1315,8 @@
       "城下之盟",
       "点头哈腰",
       "摧眉折腰",
-      "攀高结贵"
+      "攀高结贵",
+      "攀龙附凤"
     ]
   }
 ]

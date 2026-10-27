@@ -37,15 +37,14 @@
     },
     "synonyms": [
       "趋炎附势",
-      "见钱眼开",
       "有钱人家的看门狗——势利眼",
       "看人下菜碟"
     ],
     "antonyms": [
       "一视同仁",
+      "子不嫌母丑，狗不嫌家贫",
       "安贫乐道",
-      "贫而乐道",
-      "狗不嫌家贫"
+      "贫而乐道"
     ],
     "variants": [
       "欺贫爱富"
@@ -102,56 +101,8 @@
       "心驰神往"
     ],
     "antonyms": [
-      "退避三舍",
-      "无动于衷"
-    ]
-  },
-  {
-    "id": "fu-zhi-dong-liu",
-    "text": "付之东流",
-    "pinyin": "fù zhī dōng liú",
-    "kind": "chengyu",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "complete-failure-and-obscurity",
-      "near-misses-and-setbacks"
-    ],
-    "literal": "hand over · it · east · flow",
-    "natural": "go down the drain",
-    "meaning": {
-      "en": "To be lost for good, like water flowing east.",
-      "zh": "随水东流而去，比喻希望落空或成果全部丧失。"
-    },
-    "equivalents": [
-      "go down the drain",
-      "come to nothing",
-      "all for nothing"
-    ],
-    "examples": [
-      {
-        "zh": "多年的心血付之东流。",
-        "en": "Years of effort went down the drain."
-      },
-      {
-        "zh": "一场大火让全部积蓄付之东流。",
-        "en": "A fire wiped out all his savings."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; often 全部/一切付之东流.",
-      "zh": "多作谓语。"
-    },
-    "synonyms": [
-      "化为乌有",
-      "前功尽弃",
-      "功亏一篑",
-      "毁于一旦"
-    ],
-    "antonyms": [
-      "功成名就",
-      "硕果累累"
+      "无动于衷",
+      "退避三舍"
     ]
   },
   {
@@ -256,14 +207,14 @@
       "车马盈门",
       "济济一堂",
       "呼朋唤友",
-      "门无杂宾",
       "群贤毕至"
     ],
     "antonyms": [
       "门可罗雀",
       "冷冷清清",
-      "举目无亲",
-      "杜门谢客"
+      "杜门谢客",
+      "门无杂宾",
+      "举目无亲"
     ]
   },
   {
@@ -278,7 +229,7 @@
       "parenting-and-family",
       "body"
     ],
-    "literal": "body · carry · six · jia",
+    "literal": "body · carry · Liujia (an old term for pregnancy)",
     "natural": "be expecting",
     "meaning": {
       "en": "To be pregnant (a polite, formal expression).",
@@ -318,7 +269,7 @@
     "register": "neutral",
     "themes": [
       "numbers",
-      "common-and-worthless"
+      "society"
     ],
     "literal": "three · hundred · sixty · trades",
     "natural": "every trade under the sun",
@@ -346,10 +297,7 @@
     },
     "synonyms": [
       "各行各业",
-      "五行八作",
-      "三十六行",
-      "隔行如隔山",
-      "七十二行"
+      "五行八作"
     ],
     "antonyms": []
   },
@@ -390,7 +338,6 @@
       "zh": "多作定语、谓语。"
     },
     "synonyms": [
-      "两败俱伤",
       "害人害己"
     ],
     "antonyms": [
@@ -481,13 +428,11 @@
       "zh": "多作谓语、定语。"
     },
     "synonyms": [
-      "推陈出新",
-      "温故知新",
-      "拿来主义"
+      "推陈出新"
     ],
     "antonyms": [
-      "厚古薄今",
-      "食古不化"
+      "食古不化",
+      "厚古薄今"
     ]
   },
   {
@@ -530,8 +475,8 @@
       "zh": "多作谓语、补语。"
     },
     "synonyms": [
-      "遍体鳞伤",
-      "头破血流"
+      "头破血流",
+      "遍体鳞伤"
     ],
     "antonyms": [
       "完好无损",
@@ -578,19 +523,18 @@
       "表里不一",
       "口是心非",
       "言不由衷",
-      "叶公好龙——口是心非",
-      "说一套做一套"
+      "说一套做一套",
+      "叶公好龙——口是心非"
     ],
     "antonyms": [
       "言行一致",
       "表里如一",
       "言出必行",
       "知行合一",
-      "言传身教",
       "危言危行",
-      "率先垂范",
-      "以身作则",
       "身体力行",
+      "以身作则",
+      "率先垂范",
       "文如其人",
       "身教胜于言教"
     ]
@@ -651,8 +595,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "appearance",
-      "poor-performance"
+      "appearance"
     ],
     "literal": "shake · head · sway · head",
     "natural": "swaying one's head",
@@ -679,12 +622,10 @@
       "zh": "多作状语、谓语。"
     },
     "synonyms": [
-      "得意洋洋",
-      "自鸣得意"
+      "得意洋洋"
     ],
     "antonyms": [
-      "正襟危坐",
-      "一本正经"
+      "正襟危坐"
     ]
   },
   {
@@ -729,13 +670,10 @@
     "synonyms": [
       "分而治之",
       "各个歼灭",
-      "远交近攻",
-      "化整为零",
       "分化瓦解"
     ],
     "antonyms": [
-      "一网打尽",
-      "孤军奋战"
+      "一网打尽"
     ]
   },
   {
@@ -774,10 +712,10 @@
       "zh": "多作宾语、定语，含贬义。"
     },
     "synonyms": [
-      "滔滔不绝",
       "啰里啰嗦",
       "懒婆娘的裹脚布——又臭又长",
-      "连篇累牍"
+      "连篇累牍",
+      "滔滔不绝"
     ],
     "antonyms": [
       "言简意赅",
@@ -786,8 +724,8 @@
       "只言片语",
       "片纸只字",
       "简明扼要",
-      "惜墨如金",
       "短小精悍",
+      "惜墨如金",
       "零玑碎玉"
     ]
   },
@@ -885,8 +823,8 @@
     "antonyms": [
       "井然有序",
       "有条不紊",
-      "其徐如林",
-      "各就各位"
+      "各就各位",
+      "其徐如林"
     ]
   },
   {
@@ -945,7 +883,8 @@
     "register": "casual",
     "themes": [
       "psychological-pressure",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "complex-emotional-states"
     ],
     "literal": "hot · wok · on · 's · ant",
     "natural": "like an ant on a hot pan",
@@ -975,11 +914,18 @@
       "坐立不安",
       "心急如焚",
       "惶惶不可终日",
-      "没头苍蝇"
+      "没头苍蝇",
+      "焦头烂额",
+      "手足无措"
     ],
     "antonyms": [
-      "稳如泰山",
-      "镇定自若"
+      "镇定自若",
+      "不慌不忙",
+      "稳如泰山"
+    ],
+    "variants": [
+      "热锅上的蚂蚁——团团转",
+      "热锅上的蚂蚁——急得团团转"
     ]
   },
   {
@@ -991,8 +937,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "animal-behavior-metaphors",
-      "resistance-to-change"
+      "resistance-to-change",
+      "health"
     ],
     "literal": "close · kin · breed · multiply",
     "natural": "inbreeding",
@@ -1018,9 +964,7 @@
       "en": "Literal in biology, figurative for institutions.",
       "zh": "生物学上为本义，比喻机构人事封闭。"
     },
-    "synonyms": [
-      "闭门造车"
-    ],
+    "synonyms": [],
     "antonyms": [
       "引进新血",
       "兼容并蓄"
@@ -1039,7 +983,7 @@
     "register": "neutral",
     "themes": [
       "natural-consequences",
-      "love-and-marriage"
+      "fortune"
     ],
     "literal": "fate · in · ordained · fixed",
     "natural": "destined",
@@ -1113,14 +1057,12 @@
     "synonyms": [
       "颠倒黑白",
       "指鹿为马",
-      "混淆黑白",
       "混淆视听",
       "颠倒是非"
     ],
     "antonyms": [
       "明辨是非",
       "是非分明",
-      "是非曲直",
       "黑白分明"
     ]
   },
@@ -1163,9 +1105,7 @@
     "synonyms": [
       "端庄典雅",
       "华贵大方",
-      "翠绕珠围",
       "华服美饰",
-      "风韵犹存",
       "仪态万方",
       "珠光宝气"
     ],

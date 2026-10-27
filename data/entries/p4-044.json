@@ -4,19 +4,16 @@
     "text": "以子之矛，攻子之盾",
     "pinyin": "yǐ zǐ zhī máo, gōng zǐ zhī dùn",
     "variants": [
-      "以子之矛",
       "以子之矛攻子之盾"
     ],
-    "variant_kinds": {
-      "以子之矛": "short"
-    },
     "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "circular-conclusions",
-      "stories"
+      "stories",
+      "speech",
+      "conflict-and-strife"
     ],
     "literal": "with · your · spear · attack · your · shield",
     "natural": "use your own spear against your own shield",
@@ -58,14 +55,12 @@
       "zh": "出自“矛盾”寓言；用于辩论。中性，指一种反驳手法。也可不加逗号连写。"
     },
     "synonyms": [
-      "自相矛盾",
-      "以牙还牙",
       "请君入瓮",
+      "自相矛盾",
       "入室操戈"
     ],
     "antonyms": [
-      "自圆其说",
-      "无懈可击"
+      "自圆其说"
     ]
   },
   {
@@ -110,20 +105,20 @@
     },
     "synonyms": [
       "轻描淡写",
-      "避重就轻",
-      "敷衍了事"
+      "避重就轻"
     ],
     "antonyms": [
       "大做文章",
-      "郑重其事"
+      "郑重其事",
+      "小题大做"
     ]
   },
   {
     "id": "bu-jian-jing-zhuan",
-    "text": "不见经传",
-    "pinyin": "bù jiàn jīng zhuàn",
+    "text": "名不见经传",
+    "pinyin": "míng bù jiàn jīng zhuàn",
     "variants": [
-      "名不见经传"
+      "不见经传"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -133,7 +128,7 @@
       "complete-failure-and-obscurity",
       "reading-and-study"
     ],
-    "literal": "not · appear · classics · commentaries",
+    "literal": "name · not · appear · classics · commentaries",
     "natural": "not found in the classics or commentaries",
     "meaning": {
       "en": "Not recorded in the authoritative books; hence obscure or little-known.",
@@ -164,64 +159,14 @@
     "synonyms": [
       "默默无闻",
       "无名小卒",
-      "寂寂无闻"
+      "寂寂无闻",
+      "鲜为人知"
     ],
     "antonyms": [
       "大名鼎鼎",
       "家喻户晓",
       "赫赫有名",
       "久负盛名"
-    ]
-  },
-  {
-    "id": "yi-cu-ke-ji",
-    "text": "一蹴可几",
-    "pinyin": "yī cù kě jī",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "efficiency",
-      "successful-completion"
-    ],
-    "literal": "one · step · can · reach",
-    "natural": "can be reached in one step",
-    "meaning": {
-      "en": "Can be achieved at a single stroke, with no sustained effort; usually used in the negative.",
-      "zh": "一下子就能达到，多用于否定，表示事情不是一下子能成功的。"
-    },
-    "equivalents": [
-      "achieved at one stroke",
-      "overnight success (in the negative)"
-    ],
-    "examples": [
-      {
-        "zh": "学外语绝非一蹴可几，需要长期积累。",
-        "en": "Learning a foreign language can't be done overnight; it takes long accumulation."
-      },
-      {
-        "zh": "成功不是一蹴可几的事。",
-        "en": "Success isn't something achieved in a single step."
-      },
-      {
-        "zh": "改革的任务艰巨，岂是一蹴可几？",
-        "en": "The task of reform is arduous; how could it be done in one step?"
-      }
-    ],
-    "usage": {
-      "en": "Nearly always negative (不是/岂是/绝非一蹴可几). 几 here is jī ('reach, near'). Compare 一蹴而就.",
-      "zh": "几乎总是用于否定（“不是/岂是/绝非一蹴可几”）。“几”读jī（达到、接近）。可与“一蹴而就”比较。"
-    },
-    "synonyms": [
-      "一蹴而就",
-      "一步登天",
-      "唾手可得"
-    ],
-    "antonyms": [
-      "循序渐进",
-      "水滴石穿",
-      "持之以恒"
     ]
   },
   {
@@ -289,12 +234,13 @@
   },
   {
     "id": "lao-wang-mai-gua-zi-mai-zi-kua",
-    "text": "老王卖瓜——自卖自夸",
-    "pinyin": "lǎo wáng mài guā —— zì mài zì kuā",
+    "text": "王婆卖瓜——自卖自夸",
+    "pinyin": "wáng pó mài guā —— zì mài zì kuā",
     "variants": [
-      "老王卖瓜",
+      "王婆卖瓜，自卖自夸",
+      "老王卖瓜——自卖自夸",
       "王婆卖瓜",
-      "王婆卖瓜，自卖自夸"
+      "老王卖瓜"
     ],
     "variant_kinds": {
       "老王卖瓜": "short",
@@ -303,7 +249,7 @@
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
-      "老王卖瓜",
+      "王婆卖瓜",
       "自卖自夸"
     ],
     "sentiment": "negative",
@@ -312,7 +258,7 @@
       "attitude-humble-vs-arrogant",
       "negative-character-flaws"
     ],
-    "literal": "old · Wang · sell · melon — self · sell · self · boast",
+    "literal": "old woman · Wang · sell · melon — self · sell · self · boast",
     "natural": "Old Wang sells melons and praises his own",
     "meaning": {
       "en": "A seller praises his own goods; someone who boasts about himself or his own work.",
@@ -343,11 +289,9 @@
     "synonyms": [
       "自吹自擂",
       "自我吹嘘",
-      "夸夸其谈",
-      "自卖自夸"
+      "夸夸其谈"
     ],
     "antonyms": [
-      "谦虚谨慎",
       "自愧不如",
       "虚怀若谷"
     ]
@@ -404,13 +348,10 @@
       "en": "Often paired with 一言丧邦. Formal; used of statements by leaders or thinkers, sometimes ironic about empty slogans.",
       "zh": "常与“一言丧邦”连用。较书面，多指领导者或思想家的话，有时讽刺空洞口号。"
     },
-    "synonyms": [
-      "金玉良言",
-      "一言九鼎"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "祸从口出",
-      "言多必失"
+      "一言丧邦",
+      "祸从口出"
     ]
   },
   {
@@ -468,21 +409,20 @@
       "zh": "豪壮的书面语，主语多为爱国者或改革者。典出祖逖。"
     },
     "synonyms": [
-      "壮志凌云",
-      "誓不罢休"
+      "壮志凌云"
     ],
     "antonyms": [
       "苟且偷安",
-      "志大才疏",
-      "偏安一隅"
+      "偏安一隅",
+      "志大才疏"
     ]
   },
   {
     "id": "xin-jin-huo-chuan",
-    "text": "薪尽火传",
-    "pinyin": "xīn jìn huǒ chuán",
+    "text": "薪火相传",
+    "pinyin": "xīn huǒ xiāng chuán",
     "variants": [
-      "薪火相传"
+      "薪尽火传"
     ],
     "kind": "chengyu",
     "frequency": 3,
@@ -493,7 +433,7 @@
       "comebacks-and-renewal",
       "daoist-classics"
     ],
-    "literal": "firewood · used up · fire · passed on",
+    "literal": "firewood · fire · mutually · pass on",
     "natural": "the firewood burns out but the fire is passed on",
     "meaning": {
       "en": "Knowledge, a cause or a tradition is passed from one generation to the next without end.",
@@ -536,10 +476,7 @@
       "代代相传",
       "继往开来",
       "后继有人",
-      "弦歌不辍",
-      "一脉相承",
-      "发扬光大",
-      "革命自有后来人"
+      "一脉相承"
     ],
     "antonyms": [
       "后继无人",
@@ -646,8 +583,7 @@
       "zh": "引自《孙子兵法》；其次是伐交、伐兵、攻城。在体育、商业和政治中赞扬战略思维。"
     },
     "synonyms": [
-      "不战而屈人之兵，善之善者也",
-      "运筹帷幄"
+      "不战而屈人之兵，善之善者也"
     ],
     "antonyms": [
       "匹夫之勇"
@@ -760,13 +696,11 @@
       "zh": "婚礼祝词，传统上指新娘；现也见于礼品和字画。典雅。"
     },
     "synonyms": [
-      "琴瑟和鸣",
       "白头偕老",
       "百年好合"
     ],
     "antonyms": [
-      "家无宁日",
-      "同床异梦"
+      "家无宁日"
     ]
   },
   {
@@ -890,9 +824,9 @@
       "自由自在"
     ],
     "antonyms": [
-      "死气沉沉",
       "万马齐喑",
-      "暮气沉沉"
+      "暮气沉沉",
+      "死气沉沉"
     ]
   },
   {
@@ -951,12 +885,9 @@
     "synonyms": [
       "嫣然一笑",
       "巧笑倩兮",
-      "含情脉脉",
       "临去秋波"
     ],
     "antonyms": [
-      "横眉冷对千夫指，俯首甘为孺子牛",
-      "不屑一顾",
       "怒目而视"
     ]
   },
@@ -1018,7 +949,6 @@
     ],
     "antonyms": [
       "迎刃而解",
-      "一刀两断",
       "乐观开朗"
     ]
   },
@@ -1069,8 +999,7 @@
     ],
     "antonyms": [
       "毫无头绪",
-      "漏洞百出",
-      "杂乱无章"
+      "漏洞百出"
     ]
   },
   {
@@ -1118,10 +1047,9 @@
       "zh": "夸奖有成就的父母的孩子；“虎子”喻勇猛的儿子。也说“将门无犬子”“将门出虎子”。"
     },
     "synonyms": [
-      "虎父无犬子",
-      "青出于蓝",
       "老子英雄儿好汉",
-      "蓝田生玉"
+      "蓝田生玉",
+      "虎父无犬子"
     ],
     "antonyms": [
       "不肖子孙",
@@ -1180,13 +1108,11 @@
       "zh": "不能逐字理解：“慨当以慷”是“慷慨”的古式说法，指情绪激昂。书面语，与曹操诗相关。"
     },
     "synonyms": [
-      "慷慨激昂",
       "豪情满怀",
-      "意气风发"
+      "慷慨激昂"
     ],
     "antonyms": [
       "无动于衷",
-      "麻木不仁",
       "心灰意冷"
     ]
   },
@@ -1231,9 +1157,9 @@
       "zh": "常见于愤慨的反问，或官方语言中谈清朗社会；“朗朗”叠用，意为明亮。与“光天化日”相近但更庄重。"
     },
     "synonyms": [
-      "光天化日",
       "海晏河清",
-      "太平盛世"
+      "太平盛世",
+      "光天化日"
     ],
     "antonyms": [
       "乌烟瘴气",
@@ -1286,8 +1212,7 @@
     },
     "synonyms": [
       "逢场作戏",
-      "一夜夫妻",
-      "镜花水月"
+      "一夜夫妻"
     ],
     "antonyms": [
       "白头偕老",
@@ -1391,13 +1316,13 @@
       "沙里淘金",
       "去粗取精",
       "去伪存真",
-      "去粗取精，去伪存真",
-      "爬梳剔抉"
+      "爬梳剔抉",
+      "去粗取精，去伪存真"
     ],
     "antonyms": [
-      "鱼龙混杂",
       "良莠不分",
-      "囫囵吞枣"
+      "囫囵吞枣",
+      "鱼龙混杂"
     ]
   },
   {
@@ -1444,9 +1369,6 @@
       "七尺男儿",
       "堂堂男子"
     ],
-    "antonyms": [
-      "弱不禁风",
-      "手无缚鸡之力"
-    ]
+    "antonyms": []
   }
 ]

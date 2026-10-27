@@ -36,13 +36,8 @@
       "en": "A farming saying from the north, where spring is often dry. Also used for any help that arrives just when it is most needed. The phrase 春雨如油 is a common shorter form.",
       "zh": "北方农谚，北方春季常干旱。也比喻及时雨般的帮助。常说成“春雨如油”。"
     },
-    "synonyms": [
-      "久旱逢甘雨",
-      "雪中送炭"
-    ],
-    "antonyms": [
-      "雨后送伞——多此一举"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "qing-ming-duan-xue-gu-yu-duan-shuang",
@@ -182,8 +177,7 @@
       "zh": "著名儿童启蒙诗的首句；常用于讲节约粮食和勤劳有回报。全诗本意是同情农民的艰辛。"
     },
     "synonyms": [
-      "一分耕耘，一分收获",
-      "种瓜得瓜"
+      "一分耕耘，一分收获"
     ],
     "antonyms": [
       "不劳而获",
@@ -233,8 +227,8 @@
       "早起三光"
     ],
     "antonyms": [
-      "好逸恶劳",
-      "懒惰成性"
+      "懒惰成性",
+      "好逸恶劳"
     ]
   },
   {
@@ -495,10 +489,10 @@
       "en": "A health saying from folk tradition, often followed by 寒露脚不露 (at Cold Dew do not leave the feet bare); the exact version differs by region. Often said by parents and grandparents.",
       "zh": "民间养生谚语，常接“寒露脚不露”，各地说法有差异，多由长辈叮嘱晚辈。"
     },
-    "synonyms": [
+    "synonyms": [],
+    "antonyms": [
       "春捂秋冻"
-    ],
-    "antonyms": []
+    ]
   },
   {
     "id": "shuang-jiang-sha-bai-cao",
@@ -541,9 +535,7 @@
       "秋风扫落叶",
       "草木凋零"
     ],
-    "antonyms": [
-      "春回大地"
-    ]
+    "antonyms": []
   },
   {
     "id": "li-dong-bu-dong-bu-zui-kong",
@@ -625,10 +617,15 @@
       "zh": "反映古时把冬至视为新一年阳气回升的起点。在江南和华南地区尤为盛行。"
     },
     "synonyms": [
-      "冬至如年",
       "冬至团圆"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "variants": [
+      "冬至如年"
+    ],
+    "variant_kinds": {
+      "冬至如年": "short"
+    }
   },
   {
     "id": "dong-zhi-jiao-zi-xia-zhi-mian",
@@ -667,9 +664,7 @@
       "en": "A custom, mainly in the north, with the saying that eating dumplings means 'your ears will not freeze'. It is not observed everywhere; the south has other foods, such as glutinous rice balls.",
       "zh": "主要流行于北方，有“吃了饺子冬天耳朵不冻”之说。并非各地通行，南方还有汤圆等食俗。"
     },
-    "synonyms": [
-      "冬至吃饺子"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -801,9 +796,7 @@
       "en": "A folk weather rule: very red evening clouds mean much dust or moisture in the air, which can signal a change in the weather. It is not always reliable and varies by region; note that this contradicts the English rule 'red sky at night, shepherd's delight'.",
       "zh": "民间看天经验：晚霞特别红说明空气中尘埃或水汽多，天气可能变化。并不总是可靠，各地也不同；与英语“晚霞红，牧羊人喜”的说法相反。"
     },
-    "synonyms": [
-      "朝霞不出门，晚霞行千里"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {

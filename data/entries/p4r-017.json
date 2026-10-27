@@ -47,8 +47,7 @@
       "zh": "多用于军队、球队等，常与表示隐蔽沉静的话对举，书面语，含褒义。"
     },
     "synonyms": [
-      "迅雷不及掩耳",
-      "势如破竹"
+      "迅雷不及掩耳"
     ],
     "antonyms": [
       "按兵不动",
@@ -247,8 +246,8 @@
       "清廉自守"
     ],
     "antonyms": [
-      "同流合污",
-      "蝇营狗苟"
+      "蝇营狗苟",
+      "同流合污"
     ]
   },
   {
@@ -299,13 +298,8 @@
       "en": "Poetic. Today it may stand for students or for yearning; context decides. Literary only.",
       "zh": "诗意用语，今天可指学子，也可表思慕，由语境决定，只用于书面。"
     },
-    "synonyms": [
-      "魂牵梦萦",
-      "求贤若渴"
-    ],
-    "antonyms": [
-      "漠不关心"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "you-you-lu-ming",
@@ -358,13 +352,8 @@
       "en": "Poetic, mostly in invitations or reports on a banquet. Also used for the name 'Youyou' (Tu Youyou).",
       "zh": "多用于宴请宾客的文辞中；屠呦呦的名字即取自此诗。"
     },
-    "synonyms": [
-      "宾至如归",
-      "礼贤下士"
-    ],
-    "antonyms": [
-      "杜门谢客"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "wu-mei-si-fu",
@@ -427,13 +416,16 @@
     "text": "蒹葭苍苍",
     "pinyin": "jiān jiā cāng cāng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
       "rare-idioms",
       "poems-prose",
-      "solitude-and-isolation"
+      "solitude-and-isolation",
+      "love-and-marriage",
+      "seasonal-changes",
+      "plant-and-natural-world"
     ],
     "literal": "reed · reed · green-grey · green-grey",
     "natural": "the reeds are grey-green",
@@ -473,9 +465,13 @@
     "synonyms": [
       "所谓伊人，在水一方"
     ],
-    "antonyms": [
-      "近在咫尺"
-    ]
+    "antonyms": [],
+    "variants": [
+      "蒹葭苍苍，白露为霜"
+    ],
+    "variant_kinds": {
+      "蒹葭苍苍，白露为霜": "full"
+    }
   },
   {
     "id": "ru-zhuo-ru-mo",
@@ -644,8 +640,7 @@
       "zh": "可用于婚礼祝福或形容女子美貌；华同“花”，读 huá。"
     },
     "synonyms": [
-      "艳若桃李",
-      "桃之夭夭"
+      "艳若桃李"
     ],
     "antonyms": [
       "人老珠黄"
@@ -699,10 +694,7 @@
       "en": "Often follows the line 'people have joys and sorrows, partings and reunions'. Literary.",
       "zh": "常与“人有悲欢离合”连用，书面语。"
     },
-    "synonyms": [
-      "世事无常",
-      "悲欢离合"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一成不变"
     ]
@@ -757,8 +749,7 @@
       "zh": "诗意用语，形容飘逸的服饰或乐舞；裳读 cháng。"
     },
     "synonyms": [
-      "云裳霞衣",
-      "天衣无缝"
+      "云裳霞衣"
     ],
     "antonyms": [
       "粗布麻衣"
@@ -813,9 +804,8 @@
       "zh": "多赞美奉献精神，常比喻教师；原诗写爱情。"
     },
     "synonyms": [
-      "鞠躬尽瘁",
-      "死而后已",
-      "春蚕到死"
+      "春蚕到死",
+      "死而后已"
     ],
     "antonyms": [
       "半途而废"
@@ -870,8 +860,7 @@
       "zh": "常引“衣带渐宽终不悔”，用于爱情或专注的追求。"
     },
     "synonyms": [
-      "日渐消瘦",
-      "茶饭不思"
+      "日渐消瘦"
     ],
     "antonyms": [
       "心宽体胖"
@@ -984,8 +973,7 @@
       "zh": "阡指南北向田埂，陌指东西向田埂；多用于写景。"
     },
     "synonyms": [
-      "鸡犬相闻",
-      "田连阡陌"
+      "鸡犬相闻"
     ],
     "antonyms": [
       "荒无人烟",
@@ -1103,12 +1091,9 @@
       "zh": "带有古代华夷观念，现代使用须谨慎；被同“披”，读 pī。"
     },
     "synonyms": [
-      "沦为异族",
-      "亡国灭种"
+      "沦为异族"
     ],
-    "antonyms": [
-      "国泰民安"
-    ]
+    "antonyms": []
   },
   {
     "id": "ba-mao-lian-ru",

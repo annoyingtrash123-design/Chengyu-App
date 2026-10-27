@@ -4,12 +4,14 @@
     "text": "知错能改，善莫大焉",
     "pinyin": "zhī cuò néng gǎi, shàn mò dà yān",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "mistakes-and-correction",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "essay-favourites",
+      "historical-records"
     ],
     "literal": "know · wrong · can · correct, goodness · none · greater · (particle)",
     "natural": "to know your fault and mend it is the greatest virtue",
@@ -36,14 +38,14 @@
       "zh": "用来安慰、鼓励认错的人。由《左传》“人谁无过？过而能改，善莫大焉”改写而来。"
     },
     "synonyms": [
-      "改过自新",
-      "过则勿惮改",
-      "不惜以今日之我难昔日之我",
-      "过而能改，善莫大焉"
+      "过则勿惮改"
     ],
     "antonyms": [
       "文过饰非",
       "知错不改"
+    ],
+    "variants": [
+      "过而能改，善莫大焉"
     ]
   },
   {
@@ -146,7 +148,6 @@
     "register": "casual",
     "themes": [
       "unity-and-cooperation",
-      "adaptability",
       "friendship"
     ],
     "literal": "friends · many · (particle) · road · easy · walk",
@@ -174,8 +175,8 @@
       "zh": "多用于称赞广交朋友，常与“多个朋友多条路”并说；有时也用来为拉关系辩解。"
     },
     "synonyms": [
-      "多一个朋友多一条路",
-      "在家靠父母，出门靠朋友"
+      "在家靠父母，出门靠朋友",
+      "多一个朋友多一条路"
     ],
     "antonyms": [
       "孤家寡人",
@@ -186,7 +187,7 @@
     "id": "xiao-ren-zhi-jiao-gan-ruo-li",
     "text": "小人之交甘若醴",
     "pinyin": "xiǎo rén zhī jiāo gān ruò lǐ",
-    "kind": "suyu",
+    "kind": "mingju",
     "frequency": 3,
     "sentiment": "negative",
     "register": "literary",
@@ -237,6 +238,9 @@
     "antonyms": [
       "君子之交淡如水",
       "患难之交"
+    ],
+    "variants": [
+      "小人之交甘如醴"
     ]
   },
   {
@@ -276,12 +280,11 @@
       "zh": "多用来称赞儿子不负父辈威名，同时也是对父亲的夸奖。今天有人觉得带性别色彩，有时戏说“虎母无犬女”。"
     },
     "synonyms": [
-      "将门虎子",
-      "青出于蓝",
       "龙生龙，凤生凤，老鼠的儿子会打洞",
       "老子英雄儿好汉",
       "有其父必有其子",
-      "蓝田生玉"
+      "蓝田生玉",
+      "将门虎子"
     ],
     "antonyms": [
       "虎父犬子",
@@ -346,9 +349,8 @@
       "zh": "常用于毕业致辞、体育和科技报道。也常只引前半句，后半句强调“各领一时”。"
     },
     "synonyms": [
-      "长江后浪推前浪",
       "人才辈出",
-      "李杜诗篇万口传，至今已觉不新鲜"
+      "长江后浪推前浪"
     ],
     "antonyms": [
       "青黄不接",
@@ -399,12 +401,10 @@
     },
     "synonyms": [
       "孝悌为本",
-      "孝当竭力",
-      "晨昏定省"
+      "孝当竭力"
     ],
     "antonyms": [
-      "忤逆不孝",
-      "久病床前无孝子"
+      "忤逆不孝"
     ]
   },
   {

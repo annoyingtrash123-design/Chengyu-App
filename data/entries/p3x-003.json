@@ -66,7 +66,6 @@
       "深谋远虑"
     ],
     "antonyms": [
-      "目光短浅",
       "走一步算一步",
       "鼠目寸光"
     ]
@@ -121,15 +120,9 @@
       "zh": "常指意外结果；后半句常单独用于无意中取得成功。"
     },
     "synonyms": [
-      "歪打正着",
-      "柳暗花明",
-      "塞翁失马"
+      "歪打正着"
     ],
-    "antonyms": [
-      "事与愿违",
-      "适得其反",
-      "徒劳无功"
-    ]
+    "antonyms": []
   },
   {
     "id": "hao-bu-li-ji-zhuan-men-li-ren",
@@ -193,9 +186,9 @@
       "zh": "称赞无私，书面语，出自毛泽东悼念白求恩的文章。"
     },
     "synonyms": [
+      "无私奉献",
       "大公无私",
-      "舍己为人",
-      "无私奉献"
+      "舍己为人"
     ],
     "antonyms": [
       "自私自利",
@@ -262,13 +255,10 @@
       "zh": "注意“乐”读yào；常用来谈性格和旅游喜好。"
     },
     "synonyms": [
-      "山清水秀",
-      "寄情山水",
       "流连山水"
     ],
     "antonyms": [
-      "不爱山水",
-      "庸庸碌碌"
+      "不爱山水"
     ]
   },
   {
@@ -334,14 +324,12 @@
     "synonyms": [
       "不耻下问",
       "择善而从",
-      "取长补短",
-      "道之所存，师之所存",
-      "独学而无友，则孤陋而寡闻"
+      "道之所存，师之所存"
     ],
     "antonyms": [
       "自以为是",
-      "目空一切",
-      "夜郎自大"
+      "夜郎自大",
+      "目空一切"
     ]
   },
   {
@@ -364,7 +352,8 @@
       "poems-prose",
       "outstanding-character",
       "republic-era",
-      "poets"
+      "poets",
+      "writers"
     ],
     "literal": "glare · brows · coldly · face · thousand · men · 's · pointing, bow · head · willing · be · child · 's · ox",
     "natural": "defiant to enemies, devoted to the people",
@@ -405,17 +394,12 @@
       "zh": "常用来赞美为人民服务的人或教师；后半句也可单独使用。"
     },
     "synonyms": [
-      "鞠躬尽瘁",
       "甘为人梯",
       "嫉恶如仇"
     ],
     "antonyms": [
       "谄媚逢迎",
       "欺软怕硬",
-      "暗送秋波",
-      "巧笑倩兮",
-      "笑容可掬",
-      "回眸一笑",
       "菩萨低眉"
     ]
   },
@@ -480,7 +464,6 @@
     },
     "synonyms": [
       "言而无信",
-      "一诺千金",
       "信守承诺"
     ],
     "antonyms": [
@@ -537,9 +520,7 @@
     },
     "synonyms": [
       "东山再起",
-      "卷土重来",
       "来日方长",
-      "身体是革命的本钱",
       "好死不如赖活着"
     ],
     "antonyms": [
@@ -553,7 +534,8 @@
     "text": "好事不出门，坏事传千里",
     "pinyin": "hǎo shì bù chū mén, huài shì chuán qiān lǐ",
     "variants": [
-      "好事不出门"
+      "好事不出门",
+      "恶事传千里"
     ],
     "variant_kinds": {
       "好事不出门": "short"
@@ -564,7 +546,8 @@
     "register": "casual",
     "themes": [
       "public-opinion",
-      "chain-reactions"
+      "chain-reactions",
+      "bad-fortune"
     ],
     "literal": "good · news · not · leave · door, bad · news · travel · thousand · li",
     "natural": "good news stays home, bad news spreads",
@@ -595,9 +578,9 @@
       "zh": "感叹坏消息传得快。"
     },
     "synonyms": [
-      "恶事传千里",
       "沸沸扬扬",
-      "风言风语"
+      "风言风语",
+      "纸包不住火"
     ],
     "antonyms": [
       "善名远播",
@@ -609,10 +592,12 @@
     "text": "人不犯我，我不犯人",
     "pinyin": "rén bù fàn wǒ, wǒ bù fàn rén",
     "variants": [
-      "人不犯我"
+      "人不犯我",
+      "人不犯我，我不犯人；人若犯我，我必犯人"
     ],
     "variant_kinds": {
-      "人不犯我": "short"
+      "人不犯我": "short",
+      "人不犯我，我不犯人；人若犯我，我必犯人": "full"
     },
     "kind": "suyu",
     "frequency": 3,
@@ -652,8 +637,7 @@
     },
     "synonyms": [
       "以牙还牙",
-      "自卫反击",
-      "秋毫无犯"
+      "自卫反击"
     ],
     "antonyms": [
       "先发制人",
@@ -707,14 +691,8 @@
       "en": "Used to console or advise patience while recovering.",
       "zh": "劝人耐心养病。"
     },
-    "synonyms": [
-      "一病不起",
-      "缠绵病榻"
-    ],
-    "antonyms": [
-      "药到病除",
-      "立竿见影"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "cheng-you-qin-jian-bai-you-she",
@@ -777,13 +755,12 @@
     },
     "synonyms": [
       "勤俭持家",
-      "艰苦朴素",
       "克勤克俭"
     ],
     "antonyms": [
       "铺张浪费",
-      "挥霍无度",
-      "穷奢极欲"
+      "穷奢极欲",
+      "挥霍无度"
     ]
   },
   {
@@ -908,15 +885,11 @@
       "zh": "形容准备齐全，只差一个关键条件。"
     },
     "synonyms": [
-      "一切就绪",
-      "整装待发",
-      "箭在弦上",
-      "天时地利人和"
+      "一切就绪"
     ],
     "antonyms": [
       "准备不足",
-      "仓促上阵",
-      "一无所有"
+      "仓促上阵"
     ]
   },
   {
@@ -980,7 +953,6 @@
     },
     "synonyms": [
       "醉翁之意不在酒",
-      "声东击西",
       "别有用心"
     ],
     "antonyms": [
@@ -1043,13 +1015,10 @@
       "zh": "谈论历史和社会变迁时引用，书面色彩浓。"
     },
     "synonyms": [
-      "沧海桑田",
-      "世事变迁",
-      "天翻地覆"
+      "世事变迁"
     ],
     "antonyms": [
-      "一成不变",
-      "故步自封"
+      "一成不变"
     ]
   },
   {
@@ -1110,10 +1079,15 @@
       "惊世骇俗"
     ],
     "antonyms": [
-      "平淡无奇",
-      "粗制滥造",
-      "陈词滥调"
-    ]
+      "陈词滥调",
+      "平淡无奇"
+    ],
+    "variants": [
+      "语不惊人"
+    ],
+    "variant_kinds": {
+      "语不惊人": "short"
+    }
   },
   {
     "id": "kai-gong-mei-you-hui-tou-jian",
@@ -1124,7 +1098,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "near-misses-and-setbacks",
       "danger"
     ],
     "literal": "draw · bow · there is not · turn · back · arrow",
@@ -1162,8 +1135,8 @@
     ],
     "antonyms": [
       "瞻前顾后",
-      "犹豫不决",
-      "半途而废"
+      "半途而废",
+      "犹豫不决"
     ]
   },
   {
@@ -1171,7 +1144,8 @@
     "text": "雷声大，雨点小",
     "pinyin": "léi shēng dà, yǔ diǎn xiǎo",
     "variants": [
-      "雷声大雨点小"
+      "雷声大雨点小",
+      "干打雷，不下雨"
     ],
     "kind": "suyu",
     "frequency": 2,
@@ -1179,7 +1153,9 @@
     "register": "casual",
     "themes": [
       "abrupt-endings",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "deception-and-false-appearances",
+      "poor-performance"
     ],
     "literal": "thunder · sound · loud, rain · drops · small",
     "natural": "much noise, little action",
@@ -1212,8 +1188,7 @@
     "synonyms": [
       "虎头蛇尾",
       "光说不练",
-      "口惠而实不至",
-      "干打雷，不下雨"
+      "口惠而实不至"
     ],
     "antonyms": [
       "雷厉风行",
@@ -1265,15 +1240,9 @@
       "en": "Can express resolve or reckless determination; casual.",
       "zh": "可表示决心，也可能含有孤注一掷的意味。"
     },
-    "synonyms": [
-      "破釜沉舟",
-      "孤注一掷",
-      "一鼓作气"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "半途而废",
-      "适可而止",
-      "浅尝辄止"
+      "半途而废"
     ]
   },
   {
@@ -1324,8 +1293,7 @@
       "转眼之间"
     ],
     "antonyms": [
-      "慢条斯理",
-      "不慌不忙"
+      "慢条斯理"
     ]
   },
   {
@@ -1378,8 +1346,8 @@
     ],
     "antonyms": [
       "胆小如鼠",
-      "畏首畏尾",
-      "提心吊胆"
+      "提心吊胆",
+      "畏首畏尾"
     ]
   },
   {
@@ -1430,8 +1398,7 @@
       "zh": "视语境可褒可贬，既指化解矛盾，也指掩盖问题。"
     },
     "synonyms": [
-      "息事宁人",
-      "粉饰太平"
+      "息事宁人"
     ],
     "antonyms": [
       "小题大做",
@@ -1481,13 +1448,10 @@
       "zh": "多用于调查，口语。"
     },
     "synonyms": [
-      "牵一发而动全身",
-      "顺藤摸瓜",
-      "一石激起千层浪"
+      "牵一发而动全身"
     ],
     "antonyms": [
-      "一了百了",
-      "孤立无援"
+      "一了百了"
     ]
   },
   {
@@ -1536,9 +1500,7 @@
       "父母之恩"
     ],
     "antonyms": [
-      "不孝子孙",
-      "抛妻弃子",
-      "儿女情长"
+      "不孝子孙"
     ]
   }
 ]

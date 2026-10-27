@@ -1,8 +1,8 @@
 [
   {
     "id": "wai-sheng-da-deng-long",
-    "text": "外甥打灯笼——照舅（旧）",
-    "pinyin": "wài sheng dǎ dēng long —— zhào jiù (jiù)",
+    "text": "外甥打灯笼——照舅",
+    "pinyin": "wài sheng dǎ dēng long —— zhào jiù",
     "kind": "xiehouyu",
     "frequency": 2,
     "sentiment": "neutral",
@@ -12,7 +12,7 @@
       "resistance-to-change",
       "speech"
     ],
-    "literal": "nephew · carry · lantern — light up · uncle (pun: as before)",
+    "literal": "nephew · carry · lantern — light · uncle (pun: 照旧, as before)",
     "natural": "A nephew carrying a lantern lights the way for his uncle",
     "meaning": {
       "en": "Same as before; nothing has changed. A pun: 照舅 \"light up (his) uncle\" sounds like 照旧 \"as before\".",
@@ -41,8 +41,15 @@
     ],
     "parts": [
       "外甥打灯笼",
-      "照舅（旧）"
-    ]
+      "照舅"
+    ],
+    "variants": [
+      "外甥打灯笼——照舅（旧）",
+      "外甥打灯笼"
+    ],
+    "variant_kinds": {
+      "外甥打灯笼": "short"
+    }
   },
   {
     "id": "zhu-lan-da-shui",
@@ -93,9 +100,8 @@
       "人财两空",
       "颗粒无收",
       "化为泡影",
-      "煮熟的鸭子飞了",
       "水中捞月",
-      "猴子捞月——白忙活"
+      "猴子捞月"
     ],
     "antonyms": [
       "满载而归",

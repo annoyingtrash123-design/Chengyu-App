@@ -37,7 +37,6 @@
     },
     "synonyms": [
       "四面八方",
-      "天涯海角",
       "世界各地"
     ],
     "antonyms": [
@@ -81,12 +80,10 @@
       "zh": "多作谓语，公文用语。"
     },
     "synonyms": [
-      "明察暗访",
-      "追根溯源"
+      "明察暗访"
     ],
     "antonyms": [
-      "不闻不问",
-      "敷衍了事"
+      "不闻不问"
     ]
   },
   {
@@ -175,18 +172,16 @@
     "synonyms": [
       "少年老成",
       "暮气沉沉",
-      "人小鬼大",
       "老态龙钟"
     ],
     "antonyms": [
       "朝气蓬勃",
       "生机勃勃",
       "活泼可爱",
-      "后起之秀",
       "老骥伏枥",
       "童心未泯",
-      "世界是你们的，也是我们的",
-      "年轻气盛"
+      "年轻气盛",
+      "后起之秀"
     ]
   },
   {
@@ -359,8 +354,7 @@
       "zh": "多指女子婚姻，书面语。"
     },
     "synonyms": [
-      "所托非人",
-      "红颜薄命"
+      "所托非人"
     ],
     "antonyms": [
       "天作之合",
@@ -608,16 +602,11 @@
       "en": "Can be critical or neutral.",
       "zh": "可贬可中性。"
     },
-    "synonyms": [
-      "直截了当",
-      "按部就班"
-    ],
+    "synonyms": [],
     "antonyms": [
       "跌宕起伏",
-      "一波三折",
       "抑扬顿挫",
-      "沉郁顿挫",
-      "情景交融"
+      "一波三折"
     ]
   },
   {
@@ -675,7 +664,6 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "love-and-marriage",
       "positive-character-qualities",
       "friendship"
     ],
@@ -716,51 +704,6 @@
       "势利之交",
       "泛泛之交",
       "点头之交"
-    ]
-  },
-  {
-    "id": "shui-lai-tu-yan",
-    "text": "水来土掩",
-    "pinyin": "shuǐ lái tǔ yǎn",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "adaptability",
-      "wisdom"
-    ],
-    "literal": "water · comes · earth · blocks",
-    "natural": "deal with problems as they come",
-    "meaning": {
-      "en": "Meet each problem with the fitting response.",
-      "zh": "水来了用土去堵，比喻随机应变，有什么情况就用什么办法对付。"
-    },
-    "equivalents": [
-      "cross that bridge when we come to it",
-      "take things as they come"
-    ],
-    "examples": [
-      {
-        "zh": "别太担心，兵来将挡，水来土掩。",
-        "en": "Don't worry too much; we'll deal with each thing as it comes."
-      },
-      {
-        "zh": "水来土掩，到时候再想办法。",
-        "en": "We'll cross that bridge when we come to it."
-      }
-    ],
-    "usage": {
-      "en": "Usually paired with 兵来将挡.",
-      "zh": "常与“兵来将挡”并用。"
-    },
-    "synonyms": [
-      "兵来将挡，水来土掩",
-      "随机应变"
-    ],
-    "antonyms": [
-      "坐以待毙",
-      "未雨绸缪"
     ]
   },
   {
@@ -805,17 +748,15 @@
     },
     "synonyms": [
       "良言善语",
-      "至理名言",
-      "肺腑之言",
-      "一言兴邦"
+      "至理名言"
     ],
     "antonyms": [
       "胡说八道",
-      "闲言碎语",
       "欺人之谈",
       "不经之谈",
       "一派胡言",
-      "歪理邪说"
+      "歪理邪说",
+      "闲言碎语"
     ]
   },
   {
@@ -902,11 +843,11 @@
       "福寿双全",
       "万寿无疆",
       "松鹤延年",
-      "福如东海",
       "长命百岁",
       "福寿绵长",
       "多福多寿",
-      "龟年鹤寿"
+      "龟年鹤寿",
+      "福如东海"
     ],
     "antonyms": [
       "英年早逝",
@@ -950,12 +891,11 @@
       "zh": "作名词，常用于外交、商业。"
     },
     "synonyms": [
-      "口头约定",
-      "一诺千金"
+      "口头约定"
     ],
     "antonyms": [
-      "背信弃义",
-      "出尔反尔"
+      "出尔反尔",
+      "背信弃义"
     ]
   },
   {
@@ -963,7 +903,7 @@
     "text": "白日做梦",
     "pinyin": "bái rì zuò mèng",
     "kind": "guanyongyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "casual",
     "themes": [

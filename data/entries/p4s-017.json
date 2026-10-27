@@ -169,8 +169,8 @@
       "zh": "主张斩草除根，语气有些狠。"
     },
     "synonyms": [
-      "斩草除根",
-      "养虎遗患"
+      "养虎遗患",
+      "斩草除根"
     ],
     "antonyms": [
       "手下留情",
@@ -217,8 +217,8 @@
       "破釜沉舟"
     ],
     "antonyms": [
-      "畏首畏尾",
-      "瞻前顾后"
+      "瞻前顾后",
+      "畏首畏尾"
     ]
   },
   {
@@ -305,9 +305,7 @@
     "synonyms": [
       "苦尽甘来"
     ],
-    "antonyms": [
-      "怀才不遇"
-    ]
+    "antonyms": []
   },
   {
     "id": "da-zhang-fu-neng-qu-neng-shen",
@@ -345,13 +343,10 @@
       "en": "A consoling phrase for someone who has to swallow an insult.",
       "zh": "常用来安慰忍受委屈的人。"
     },
-    "synonyms": [
-      "能屈能伸",
-      "忍辱负重"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "宁折不弯",
-      "不识时务"
+      "不识时务",
+      "宁折不弯"
     ]
   },
   {
@@ -365,7 +360,8 @@
     "themes": [
       "family-and-home",
       "filial-piety",
-      "homesickness"
+      "homesickness",
+      "positive-character-qualities"
     ],
     "literal": "son · not · dislike · mother · ugly, dog · not · dislike · home · poor",
     "natural": "a son doesn't mind his mother's looks, a dog doesn't mind its home's poverty",
@@ -392,12 +388,14 @@
       "zh": "多用来说明对家乡、祖国的忠诚。"
     },
     "synonyms": [
-      "狗不嫌家贫",
       "金窝银窝不如自己的狗窝"
     ],
     "antonyms": [
-      "忘恩负义",
+      "嫌贫爱富",
       "数典忘祖"
+    ],
+    "variants": [
+      "狗不嫌家贫"
     ]
   },
   {
@@ -427,7 +425,7 @@
     ],
     "examples": [
       {
-        "zh": "宁拆十座庙，不毁一桩婚，我们劝他们别离。",
+        "zh": "宁拆十座庙，不毁一桩婚，我们劝他们别离婚。",
         "en": "Better ten temples than one marriage: we urged them not to separate."
       },
       {
@@ -528,8 +526,7 @@
       "zh": "也可表示最坏不过如此。"
     },
     "synonyms": [
-      "得饶人处且饶人",
-      "见好就收"
+      "得饶人处且饶人"
     ],
     "antonyms": [
       "赶尽杀绝",
@@ -573,7 +570,6 @@
       "zh": "常与“马行半坡，勒缰晚”并提。"
     },
     "synonyms": [
-      "亡羊补牢",
       "临渴掘井"
     ],
     "antonyms": [
@@ -666,7 +662,6 @@
       "zh": "语气强烈，多用于历史、战争语境。"
     },
     "synonyms": [
-      "以牙还牙",
       "杀人偿命"
     ],
     "antonyms": [
@@ -753,10 +748,7 @@
       "en": "A calque of the English proverb.",
       "zh": "译自英语谚语。"
     },
-    "synonyms": [
-      "急中生智",
-      "穷则思变"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -795,9 +787,7 @@
       "en": "A jocular saying, now often quoted ironically given health campaigns.",
       "zh": "半开玩笑，如今常带讽刺引用。"
     },
-    "synonyms": [
-      "逍遥自在"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -881,8 +871,8 @@
       "zh": "可褒可贬。"
     },
     "synonyms": [
-      "名师出高徒",
-      "有其父必有其子"
+      "有其父必有其子",
+      "名师出高徒"
     ],
     "antonyms": []
   },
@@ -1012,7 +1002,6 @@
       "zh": "与清明节气相关的农谚（约四月初）。"
     },
     "synonyms": [
-      "春种秋收",
       "清明断雪，谷雨断霜"
     ],
     "antonyms": [
@@ -1054,9 +1043,7 @@
       "en": "A weather proverb; often paired with 一场秋雨一场寒.",
       "zh": "天气谚语，常与“一场秋雨一场寒”对举。"
     },
-    "synonyms": [
-      "春暖花开"
-    ],
+    "synonyms": [],
     "antonyms": [
       "一场秋雨一场寒"
     ]

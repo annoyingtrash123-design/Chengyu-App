@@ -41,15 +41,14 @@
       "咬牙切齿"
     ],
     "antonyms": [
-      "感恩戴德",
-      "心悦诚服"
+      "感恩戴德"
     ]
   },
   {
     "id": "xin-bu-er-xing",
     "text": "信步而行",
     "pinyin": "xìn bù ér xíng",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -87,8 +86,8 @@
       "信步闲游"
     ],
     "antonyms": [
-      "健步如飞",
-      "匆匆赶路"
+      "匆匆赶路",
+      "健步如飞"
     ]
   },
   {
@@ -183,6 +182,9 @@
       "忘恩负义",
       "翻脸无情",
       "负心薄幸"
+    ],
+    "variants": [
+      "情深意重"
     ]
   },
   {
@@ -218,12 +220,11 @@
       }
     ],
     "usage": {
-      "en": "Descriptive and vivid, popular in martial and vernacular fiction. Usually adverbial. Also used for 'step like the wind' (大步流星).",
+      "en": "Descriptive and vivid, popular in martial and vernacular fiction. Usually adverbial.",
       "zh": "生动的描写，常见于武侠和白话小说，多作状语。"
     },
     "synonyms": [
-      "风驰电掣",
-      "迅雷不及掩耳"
+      "风驰电掣"
     ],
     "antonyms": [
       "龟速蜗行",
@@ -330,8 +331,8 @@
     "register": "literary",
     "themes": [
       "rare-idioms",
-      "love-and-marriage",
-      "three-kingdoms"
+      "three-kingdoms",
+      "friendship"
     ],
     "literal": "vow · share · life · death",
     "natural": "vow to live and die together",
@@ -364,52 +365,6 @@
     "antonyms": [
       "背信弃义",
       "临阵脱逃"
-    ]
-  },
-  {
-    "id": "kai-hua-jie-shi",
-    "text": "开花结实",
-    "pinyin": "kāi huā jié shí",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "rare-idioms",
-      "farming-and-harvest",
-      "plant-and-natural-world"
-    ],
-    "literal": "bloom · flower · set · fruit",
-    "natural": "blossom and bear fruit",
-    "meaning": {
-      "en": "Plants flowering and then setting fruit; figuratively, effort yielding results.",
-      "zh": "植物开花并结出果实，比喻努力有了成果。"
-    },
-    "equivalents": [
-      "blossom and bear fruit",
-      "come to fruition"
-    ],
-    "examples": [
-      {
-        "zh": "春天栽下的果树，秋天开花结实。",
-        "en": "Fruit trees planted in spring flower and bear fruit by autumn."
-      },
-      {
-        "zh": "多年的研究终于开花结实。",
-        "en": "Years of research have at last borne fruit."
-      }
-    ],
-    "usage": {
-      "en": "Literal in farming or botany, figurative for results. 实 is 'fruit/seed'. More common modern form: 开花结果.",
-      "zh": "农业、植物学中用本义，比喻义指有成果。“实”指果实。现代更常说“开花结果”。"
-    },
-    "synonyms": [
-      "硕果累累",
-      "瓜熟蒂落"
-    ],
-    "antonyms": [
-      "颗粒无收",
-      "有花无果"
     ]
   },
   {
@@ -455,54 +410,8 @@
     ],
     "antonyms": [
       "高人雅士",
-      "谦谦君子",
-      "有匪君子"
-    ]
-  },
-  {
-    "id": "yi-xing-suo-ran",
-    "text": "意兴索然",
-    "pinyin": "yì xìng suǒ rán",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "sadness-and-despair",
-      "relaxation-and-rest"
-    ],
-    "literal": "interest · mood · dried up · -ly",
-    "natural": "interest drained away",
-    "meaning": {
-      "en": "Utterly bored and with no more enthusiasm; having lost all interest.",
-      "zh": "兴致全无，毫无兴趣。"
-    },
-    "equivalents": [
-      "lose all interest",
-      "feel utterly flat"
-    ],
-    "examples": [
-      {
-        "zh": "看了一半，他就意兴索然地走出了电影院。",
-        "en": "Halfway through, he walked out of the cinema having lost all interest."
-      },
-      {
-        "zh": "听完冗长的报告，大家都意兴索然。",
-        "en": "After the long report everyone's enthusiasm had drained away."
-      }
-    ],
-    "usage": {
-      "en": "Literary; state after some letdown. 索然 means 'dry, without flavour'. Compare 兴味索然 / 兴致索然 (same meaning, different words).",
-      "zh": "书面语，多指遇到扫兴之事之后。“索然”意为枯燥无味。同义说法有“兴味索然”“兴致索然”。"
-    },
-    "synonyms": [
-      "兴味索然",
-      "索然无味"
-    ],
-    "antonyms": [
-      "兴致勃勃",
-      "兴高采烈"
+      "有匪君子",
+      "谦谦君子"
     ]
   },
   {
@@ -589,7 +498,6 @@
       "zh": "生动，略带诙谐，形容吸烟或喷出蒸汽。与“吞云吐雾”相近，后者更常见。"
     },
     "synonyms": [
-      "腾云驾雾",
       "烟雾缭绕"
     ],
     "antonyms": []
@@ -636,8 +544,8 @@
       "福寿绵长"
     ],
     "antonyms": [
-      "朝不保夕",
-      "昙花一现"
+      "昙花一现",
+      "朝不保夕"
     ]
   },
   {
@@ -677,10 +585,7 @@
       "en": "Derogatory, a little classist; used in the same way as 市井之徒 but stressing meanness and pettiness. Often 小人 alone is used.",
       "zh": "贬义，略含阶层偏见，用法类似“市井之徒”，但更强调自私琐碎。"
     },
-    "synonyms": [
-      "斤斤计较",
-      "鼠目寸光"
-    ],
+    "synonyms": [],
     "antonyms": [
       "君子之风",
       "正人君子"

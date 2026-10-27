@@ -147,7 +147,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "business-failure",
       "competition-and-rivalry"
     ],
     "literal": "gallop · enclose · land",
@@ -179,7 +178,6 @@
       "攻城略地"
     ],
     "antonyms": [
-      "稳扎稳打",
       "精耕细作"
     ]
   },
@@ -230,7 +228,7 @@
     "id": "zhan-zhe-mao-keng-bu-la-shi",
     "text": "占着茅坑不拉屎",
     "pinyin": "zhàn zhe máo kēng bù lā shǐ",
-    "kind": "guanyongyu",
+    "kind": "suyu",
     "frequency": 3,
     "sentiment": "negative",
     "register": "casual",
@@ -266,8 +264,8 @@
       "尸位素餐"
     ],
     "antonyms": [
-      "能者上庸者下",
-      "勤勤恳恳"
+      "勤勤恳恳",
+      "能者上庸者下"
     ]
   }
 ]

@@ -48,8 +48,8 @@
     },
     "synonyms": [
       "日积月累",
-      "积少成多",
-      "罗马不是一天建成的"
+      "罗马不是一天建成的",
+      "积少成多"
     ],
     "antonyms": [
       "一蹴而就",
@@ -120,12 +120,10 @@
     },
     "synonyms": [
       "推己及人",
-      "将心比心",
-      "设身处地"
+      "将心比心"
     ],
     "antonyms": [
-      "以邻为壑",
-      "自私自利"
+      "以邻为壑"
     ]
   },
   {
@@ -182,8 +180,8 @@
       "余波未平"
     ],
     "antonyms": [
-      "风平浪静",
-      "一帆风顺"
+      "一帆风顺",
+      "风平浪静"
     ]
   },
   {
@@ -237,13 +235,12 @@
       "zh": "常用来表示意见分歧、各有看法。"
     },
     "synonyms": [
-      "见仁见智",
       "众说纷纭",
       "各抒己见"
     ],
     "antonyms": [
-      "众口一词",
-      "异口同声"
+      "异口同声",
+      "众口一词"
     ]
   },
   {
@@ -308,13 +305,11 @@
     },
     "synonyms": [
       "忧国忧民",
-      "天下为公",
-      "大公无私",
       "身无半亩，心忧天下"
     ],
     "antonyms": [
-      "自私自利",
-      "损人利己"
+      "损人利己",
+      "自私自利"
     ]
   },
   {
@@ -367,12 +362,9 @@
       "zh": "常用于安全、打击犯罪等场合；也可说“魔高一丈，道高一尺”。"
     },
     "synonyms": [
-      "斗智斗勇",
-      "水涨船高"
+      "斗智斗勇"
     ],
-    "antonyms": [
-      "一劳永逸"
-    ]
+    "antonyms": []
   },
   {
     "id": "tou-tong-yi-tou-jiao-tong-yi-jiao",
@@ -423,8 +415,8 @@
     },
     "synonyms": [
       "治标不治本",
-      "扬汤止沸",
-      "隔靴搔痒"
+      "隔靴搔痒",
+      "扬汤止沸"
     ],
     "antonyms": [
       "标本兼治",
@@ -482,12 +474,10 @@
     "synonyms": [
       "一应俱全",
       "应有尽有",
-      "具体而微",
-      "秤砣虽小压千斤"
+      "具体而微"
     ],
     "antonyms": [
-      "残缺不全",
-      "名不副实"
+      "残缺不全"
     ]
   },
   {
@@ -504,7 +494,8 @@
     "themes": [
       "high-aspirations",
       "buddhist-origin",
-      "festive-greetings"
+      "festive-greetings",
+      "innovation-and-progress"
     ],
     "literal": "hundred · foot · pole · top, even · advance · one · step",
     "natural": "keep striving after success",
@@ -552,8 +543,8 @@
     ],
     "antonyms": [
       "故步自封",
-      "停滞不前",
-      "安于现状"
+      "安于现状",
+      "停滞不前"
     ]
   },
   {
@@ -561,20 +552,23 @@
     "text": "千里之行，始于足下",
     "pinyin": "qiān lǐ zhī xíng, shǐ yú zú xià",
     "variants": [
-      "千里之行"
+      "千里之行",
+      "始于足下"
     ],
     "variant_kinds": {
-      "千里之行": "short"
+      "千里之行": "short",
+      "始于足下": "short"
     },
     "kind": "mingju",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "apprenticeship-and-learning",
       "daoist-classics",
       "thinkers",
-      "famous-quotes"
+      "famous-quotes",
+      "high-aspirations"
     ],
     "literal": "thousand · li · 's · journey, begins · at · foot · under",
     "natural": "a journey of a thousand miles begins with a single step",
@@ -615,7 +609,7 @@
       "zh": "勉励人起步，常完整引用。"
     },
     "synonyms": [
-      "积跬步以至千里",
+      "不积跬步，无以至千里",
       "循序渐进",
       "从头做起",
       "天下难事，必作于易"
@@ -632,7 +626,9 @@
     "variants": [
       "千里之堤",
       "溃于蚁穴",
-      "千里之堤，毁于蚁穴"
+      "千里之堤，毁于蚁穴",
+      "蚁穴溃堤",
+      "蝼蚁溃堤"
     ],
     "variant_kinds": {
       "千里之堤": "short",
@@ -644,7 +640,9 @@
     "register": "neutral",
     "themes": [
       "natural-consequences",
-      "chain-reactions"
+      "chain-reactions",
+      "success",
+      "exam-favourites"
     ],
     "literal": "thousand · li · 's · dyke, collapse · at · ant · nest",
     "natural": "small leaks sink great ships",
@@ -687,16 +685,13 @@
     },
     "synonyms": [
       "防微杜渐",
-      "蚁穴溃堤",
       "小洞不补，大洞吃苦",
       "天下大事，必作于细",
       "差之毫厘，谬以千里",
-      "积羽沉舟"
-    ],
-    "antonyms": [
-      "防患于未然",
+      "积羽沉舟",
       "小心驶得万年船"
-    ]
+    ],
+    "antonyms": []
   },
   {
     "id": "ye-huo-shao-bu-jin-chun",
@@ -760,7 +755,6 @@
     },
     "synonyms": [
       "生生不息",
-      "死灰复燃",
       "东山再起"
     ],
     "antonyms": [
@@ -817,8 +811,8 @@
     },
     "synonyms": [
       "置身事外",
-      "袖手旁观",
-      "明哲保身"
+      "明哲保身",
+      "袖手旁观"
     ],
     "antonyms": [
       "见义勇为",
@@ -888,12 +882,9 @@
       "en": "Farewell sentiment; also used of the internet and global connection.",
       "zh": "常用于送别，也形容通信发达、距离缩短。"
     },
-    "synonyms": [
-      "情同手足",
-      "心心相印",
-      "咫尺天涯"
-    ],
+    "synonyms": [],
     "antonyms": [
+      "咫尺天涯",
       "天各一方",
       "形同陌路"
     ]
@@ -963,8 +954,7 @@
     ],
     "antonyms": [
       "越俎代庖",
-      "多管闲事",
-      "包办代替"
+      "多管闲事"
     ]
   },
   {
@@ -1017,8 +1007,7 @@
       "刀不磨要生锈，人不学要落后"
     ],
     "antonyms": [
-      "故步自封",
-      "不学无术"
+      "故步自封"
     ]
   },
   {
@@ -1076,14 +1065,12 @@
       "zh": "常解释为什么缺乏权威；与“名正言顺”相对。"
     },
     "synonyms": [
-      "师出无名",
-      "名不副实"
+      "师出无名"
     ],
     "antonyms": [
-      "名正言顺",
+      "师出有名",
       "理直气壮",
-      "君君臣臣",
-      "师出有名"
+      "名正言顺"
     ]
   },
   {
@@ -1211,8 +1198,7 @@
     ],
     "antonyms": [
       "讳疾忌医",
-      "文过饰非",
-      "执迷不悟"
+      "文过饰非"
     ]
   },
   {
@@ -1347,9 +1333,7 @@
       "zh": "称赞谦逊真诚的人。"
     },
     "synonyms": [
-      "名不虚传",
-      "实至名归",
-      "有口皆碑"
+      "实至名归"
     ],
     "antonyms": [
       "自吹自擂",
@@ -1371,7 +1355,6 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "parenting-and-family",
       "stories"
     ],
     "literal": "former · people · plant · trees, later · people · enjoy · shade",
@@ -1410,8 +1393,7 @@
       "大树底下好乘凉"
     ],
     "antonyms": [
-      "竭泽而渔",
-      "后患无穷"
+      "竭泽而渔"
     ]
   },
   {
@@ -1462,9 +1444,8 @@
     },
     "synonyms": [
       "好吃懒做",
-      "养尊处优",
       "四体不勤",
-      "饭来张口"
+      "养尊处优"
     ],
     "antonyms": [
       "自食其力",
@@ -1521,11 +1502,9 @@
     },
     "synonyms": [
       "纸包不住火",
-      "欲盖弥彰",
-      "天网恢恢"
+      "欲盖弥彰"
     ],
     "antonyms": [
-      "守口如瓶",
       "天衣无缝",
       "神不知鬼不觉"
     ]

@@ -38,7 +38,6 @@
     },
     "synonyms": [
       "妻离子散",
-      "背井离乡",
       "生离死别"
     ],
     "antonyms": [
@@ -195,7 +194,8 @@
       "鼠目寸光",
       "井底之蛙",
       "目光如豆",
-      "一叶障目，不见泰山"
+      "一叶障目",
+      "急功近利"
     ],
     "antonyms": [
       "高瞻远瞩",
@@ -205,15 +205,14 @@
       "站得高，看得远",
       "明见万里",
       "目光如炬",
-      "眼观六路",
-      "人无远虑，必有近忧",
       "大处着眼，小处着手",
       "深谋远虑",
       "高屋建瓴",
-      "大处着眼",
-      "极目远眺",
       "牢骚太盛防肠断，风物长宜放眼量",
-      "深明大义"
+      "大处着眼",
+      "深明大义",
+      "极目远眺",
+      "眼观六路"
     ]
   },
   {
@@ -313,8 +312,8 @@
       "大错特错"
     ],
     "antonyms": [
-      "改过自新",
-      "亡羊补牢"
+      "亡羊补牢",
+      "改过自新"
     ]
   },
   {
@@ -380,8 +379,7 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "political-corruption",
-      "public-opinion"
+      "political-corruption"
     ],
     "literal": "sunken · dregs · float · up",
     "natural": "the dregs resurface",
@@ -436,8 +434,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "standards-and-benchmarks",
-      "outstanding-character"
+      "standards-and-benchmarks"
     ],
     "literal": "only · this · one · shop",
     "natural": "only one of its kind",
@@ -667,8 +664,7 @@
       "一视同仁"
     ],
     "antonyms": [
-      "厚此薄彼",
-      "独占鳌头"
+      "厚此薄彼"
     ]
   },
   {
@@ -765,7 +761,8 @@
     ],
     "antonyms": [
       "功亏一篑",
-      "屡试屡败"
+      "屡试屡败",
+      "功败垂成"
     ]
   },
   {
@@ -963,8 +960,7 @@
       "zh": "多作谓语，也比喻人流、车流、时间等。"
     },
     "synonyms": [
-      "滔滔不绝",
-      "汹涌澎湃"
+      "滔滔不绝"
     ],
     "antonyms": [
       "涓滴不流"
@@ -1119,7 +1115,6 @@
       "人才辈出"
     ],
     "antonyms": [
-      "寥寥无几",
       "门可罗雀"
     ]
   },
@@ -1133,7 +1128,9 @@
     "register": "neutral",
     "themes": [
       "defeat-and-military-failure",
-      "competition-and-rivalry"
+      "competition-and-rivalry",
+      "giving-up-and-weakness",
+      "near-misses-and-setbacks"
     ],
     "literal": "clasp hands · mutually · yield",
     "natural": "hand it over on a plate",
@@ -1164,13 +1161,16 @@
       "zh": "多作谓语，常用否定形式。"
     },
     "synonyms": [
-      "拱手让人",
-      "双手奉送"
+      "双手奉送",
+      "白白送人"
     ],
     "antonyms": [
-      "寸土必争",
       "据为己有",
-      "寸土不让"
+      "寸土不让",
+      "寸土必争"
+    ],
+    "variants": [
+      "拱手让人"
     ]
   }
 ]

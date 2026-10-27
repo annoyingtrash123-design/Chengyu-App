@@ -50,10 +50,7 @@
       "杯弓蛇影",
       "惊弓之鸟"
     ],
-    "antonyms": [
-      "泰然自若",
-      "泰然处之"
-    ]
+    "antonyms": []
   },
   {
     "id": "tong-sheng-gong-si",
@@ -93,12 +90,12 @@
       "zh": "褒义，指忠诚的朋友、伴侣、战友。作谓语、定语。"
     },
     "synonyms": [
-      "生死与共",
       "同甘共苦",
-      "誓同生死"
+      "誓同生死",
+      "生死与共"
     ],
     "antonyms": [
-      "各奔东西",
+      "各自东西",
       "背信弃义"
     ]
   },
@@ -186,8 +183,7 @@
       "红尘滚滚"
     ],
     "antonyms": [
-      "世外桃源",
-      "清心寡欲"
+      "世外桃源"
     ]
   },
   {
@@ -276,8 +272,8 @@
       "国仇家恨"
     ],
     "antonyms": [
-      "化干戈为玉帛",
-      "冰释前嫌"
+      "冰释前嫌",
+      "化干戈为玉帛"
     ]
   },
   {
@@ -289,8 +285,8 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "fine-dress-and-fashion",
-      "family-and-home"
+      "family-and-home",
+      "society"
     ],
     "literal": "golden · branch · jade · leaf",
     "natural": "golden branches and jade leaves",
@@ -318,7 +314,6 @@
     },
     "synonyms": [
       "千金小姐",
-      "大家闺秀",
       "龙子龙孙"
     ],
     "antonyms": [
@@ -407,8 +402,7 @@
       "zh": "借自法语，现已通行于汉语。作宾语。"
     },
     "synonyms": [
-      "世外桃源",
-      "闭门造车"
+      "世外桃源"
     ],
     "antonyms": [
       "十字街头",
@@ -452,8 +446,7 @@
       "zh": "可指认真负责，也可暗含缺少主见。作谓语。"
     },
     "synonyms": [
-      "唯命是从",
-      "谨小慎微"
+      "唯命是从"
     ],
     "antonyms": [
       "自行其是",
@@ -542,8 +535,7 @@
       "zh": "现代常用于戏称疲惫。作谓语。"
     },
     "synonyms": [
-      "筋疲力尽",
-      "人仰马翻"
+      "筋疲力尽"
     ],
     "antonyms": [
       "精神抖擞",
@@ -604,7 +596,7 @@
     "id": "mu-niu-liu-ma",
     "text": "木牛流马",
     "pinyin": "mù niú liú mǎ",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -693,8 +685,8 @@
       "走上邪路"
     ],
     "antonyms": [
-      "迷途知返",
-      "走上正轨"
+      "走上正轨",
+      "迷途知返"
     ]
   },
   {
@@ -749,8 +741,7 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "once-in-a-lifetime-events",
-      "common-and-worthless"
+      "once-in-a-lifetime-events"
     ],
     "literal": "rare · world · of · treasure",
     "natural": "a treasure rare in the world",
@@ -783,6 +774,9 @@
     "antonyms": [
       "破铜烂铁",
       "一文不值"
+    ],
+    "variants": [
+      "稀世之珍"
     ]
   },
   {
@@ -863,9 +857,7 @@
       "en": "A critical term in art and literary analysis. Predicate or attributive.",
       "zh": "艺术与文学评论术语。作谓语、定语。"
     },
-    "synonyms": [
-      "旁敲侧击"
-    ],
+    "synonyms": [],
     "antonyms": [
       "直抒胸臆",
       "开门见山"
@@ -964,8 +956,6 @@
       "zh": "“奄”读yān。可指人或机构。作谓语。"
     },
     "synonyms": [
-      "奄奄一息",
-      "命悬一线",
       "气若游丝",
       "日薄西山",
       "强弩之末"
@@ -1102,12 +1092,11 @@
       "zh": "口语，批评口气，常作警告或责骂。作谓语、状语。"
     },
     "synonyms": [
-      "不知天高地厚",
-      "不知好歹"
+      "不知天高地厚"
     ],
     "antonyms": [
-      "小心翼翼",
-      "谨慎行事"
+      "谨慎行事",
+      "小心翼翼"
     ]
   },
   {
@@ -1149,21 +1138,18 @@
     "synonyms": [
       "大大方方",
       "从容自若",
-      "不拘小节",
-      "温文尔雅",
       "不卑不亢",
       "雍容大度"
     ],
     "antonyms": [
       "扭扭捏捏",
       "忸怩作态",
-      "烟视媚行",
       "矫揉造作",
-      "猪头挂在花椒树上——肉麻",
       "搔首弄姿",
       "不尴不尬",
       "局促不安",
-      "小家子气"
+      "小家子气",
+      "烟视媚行"
     ]
   }
 ]

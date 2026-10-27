@@ -82,8 +82,7 @@
       "zh": "可作谓语或加“的”作定语，书面语，常带迷茫、失落的情调。"
     },
     "synonyms": [
-      "茫茫无际",
-      "杳无音信"
+      "茫茫无际"
     ],
     "antonyms": [
       "一目了然",
@@ -132,15 +131,14 @@
       "高深莫测"
     ],
     "antonyms": [
-      "一目了然",
-      "平淡无奇"
+      "一目了然"
     ]
   },
   {
     "id": "tian-wai-fei-lai",
     "text": "天外飞来",
     "pinyin": "tiān wài fēi lái",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -224,53 +222,7 @@
       "晓行夜宿"
     ],
     "antonyms": [
-      "锦衣玉食",
       "养尊处优"
-    ]
-  },
-  {
-    "id": "ren-jian-tian-shang",
-    "text": "人间天上",
-    "pinyin": "rén jiān tiān shàng",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "rare-idioms",
-      "unprecedented-situations",
-      "sadness-and-despair"
-    ],
-    "literal": "human world · heaven above",
-    "natural": "the human world and heaven",
-    "meaning": {
-      "en": "Heaven and earth: the human world and the heavens; also used for a vast gulf between two states, or for lovers parted for ever.",
-      "zh": "指天上和人间，也比喻差别极大或相隔永远，常用于怀人伤别。"
-    },
-    "equivalents": [
-      "heaven and earth",
-      "a world apart"
-    ],
-    "examples": [
-      {
-        "zh": "今非昔比，两种生活简直是人间天上。",
-        "en": "Things are not what they were; the two lives are worlds apart."
-      },
-      {
-        "zh": "故人远去，人间天上，再难相见。",
-        "en": "My old friend is gone; between earth and heaven we shall not meet again."
-      }
-    ],
-    "usage": {
-      "en": "Best known from Li Yu's line 流水落花春去也，天上人间 (the order 人间天上 is the same words reversed). Literary; mostly in poetic or elegiac contexts.",
-      "zh": "李煜词有“天上人间”之句。书面语，多用于诗文或感伤怀人的语境。"
-    },
-    "synonyms": [
-      "天壤之别",
-      "云泥之别"
-    ],
-    "antonyms": [
-      "不相上下"
     ]
   },
   {
@@ -402,9 +354,7 @@
       "en": "Poetic imagery in classical novels and opera; used of a person walking, usually with grace. Predicate, literary.",
       "zh": "多见于古典小说、戏曲的写景，形容人在花木间行走，姿态优雅。书面语，作谓语。"
     },
-    "synonyms": [
-      "拨云见日"
-    ],
+    "synonyms": [],
     "antonyms": []
   },
   {
@@ -449,8 +399,8 @@
       "坚定不移"
     ],
     "antonyms": [
-      "心慈手软",
-      "优柔寡断"
+      "优柔寡断",
+      "心慈手软"
     ]
   },
   {
@@ -497,51 +447,6 @@
     "antonyms": [
       "当机立断",
       "毫不犹豫"
-    ]
-  },
-  {
-    "id": "wu-wei-ju-quan",
-    "text": "五味俱全",
-    "pinyin": "wǔ wèi jù quán",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "rare-idioms",
-      "complex-emotional-states",
-      "food"
-    ],
-    "literal": "five · flavours · all · complete",
-    "natural": "all five flavours present",
-    "meaning": {
-      "en": "All the flavours at once; figuratively, a jumble of mixed feelings.",
-      "zh": "各种滋味都有，比喻心中百感交集。"
-    },
-    "equivalents": [
-      "a mixture of every feeling",
-      "bittersweet and more"
-    ],
-    "examples": [
-      {
-        "zh": "听到这个消息，我心里五味俱全，说不清是喜是忧。",
-        "en": "On hearing the news I felt every emotion at once and could not say whether I was happy or worried."
-      },
-      {
-        "zh": "人生五味俱全，酸甜苦辣都要尝一尝。",
-        "en": "Life has every flavour; you must taste the sour, sweet, bitter and spicy."
-      }
-    ],
-    "usage": {
-      "en": "Usually said of one's feelings (心里五味俱全). Similar to 五味杂陈, which is the more common form and is a different wording of the same idea.",
-      "zh": "多形容内心感受（心里五味俱全）。与“五味杂陈”意思相近。"
-    },
-    "synonyms": [
-      "五味杂陈",
-      "百感交集"
-    ],
-    "antonyms": [
-      "心平气和"
     ]
   },
   {
@@ -685,7 +590,7 @@
     "id": "cen-ci-cuo-luo",
     "text": "参差错落",
     "pinyin": "cēn cī cuò luò",
-    "kind": "chengyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -737,8 +642,7 @@
     "register": "literary",
     "themes": [
       "rare-idioms",
-      "public-opinion",
-      "solitude-and-isolation"
+      "public-opinion"
     ],
     "literal": "dense · people · wide · crowd",
     "natural": "among a dense crowd",
@@ -815,8 +719,7 @@
       "所向披靡"
     ],
     "antonyms": [
-      "势均力敌",
-      "以卵击石"
+      "势均力敌"
     ]
   },
   {
@@ -906,7 +809,6 @@
       "zh": "褒义，常用句式“把A和B熔于一炉”（也作“冶于一炉”）。常见于艺术、文学、学术评论。"
     },
     "synonyms": [
-      "融会贯通",
       "兼容并蓄"
     ],
     "antonyms": [
@@ -952,7 +854,6 @@
       "zh": "多用于有权威者或曾经得势者，作谓语，也可用“使/让……威风扫地”。"
     },
     "synonyms": [
-      "斯文扫地",
       "颜面尽失"
     ],
     "antonyms": [

@@ -49,12 +49,12 @@
     },
     "synonyms": [
       "清水出芙蓉",
-      "返璞归真",
-      "浓妆淡抹"
+      "返璞归真"
     ],
     "antonyms": [
       "矫揉造作",
-      "雕章琢句"
+      "雕章琢句",
+      "浓妆淡抹"
     ]
   },
   {
@@ -95,8 +95,7 @@
       "zh": "作状语，用在动词前，求人时也可自嘲，口语。"
     },
     "synonyms": [
-      "恬不知耻",
-      "硬着头皮"
+      "恬不知耻"
     ],
     "antonyms": [
       "拉不下脸",
@@ -141,7 +140,8 @@
     },
     "synonyms": [
       "鉴往知来",
-      "前事不忘，后事之师"
+      "前事不忘，后事之师",
+      "温故知新"
     ],
     "antonyms": [
       "忘记历史",
@@ -250,51 +250,6 @@
     ]
   },
   {
-    "id": "qi-zu-bao-shuai",
-    "text": "弃卒保帅",
-    "pinyin": "qì zú bǎo shuài",
-    "kind": "guanyongyu",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "casual",
-    "themes": [
-      "military-strategy-and-victory",
-      "games-and-sports"
-    ],
-    "literal": "abandon · pawn · protect · general",
-    "natural": "sacrifice a pawn to save the general",
-    "meaning": {
-      "en": "To sacrifice something less important to protect what matters most.",
-      "zh": "舍弃次要的人或事物，保全最重要的。"
-    },
-    "equivalents": [
-      "sacrifice a pawn",
-      "throw someone under the bus"
-    ],
-    "examples": [
-      {
-        "zh": "公司为了保住核心业务，决定弃卒保帅，裁撤几个部门。",
-        "en": "To protect its core business, the company decided to sacrifice the small for the big and cut several departments."
-      },
-      {
-        "zh": "他明白自己是被弃卒保帅的那颗棋子。",
-        "en": "He knew he was the pawn sacrificed for the greater piece."
-      }
-    ],
-    "usage": {
-      "en": "From Chinese chess. Neutral about tactics but can sound cynical when a person is sacrificed. Related to 丢卒保车.",
-      "zh": "来自象棋，用于策略时中性，若指牺牲某人则带冷酷意味，与“丢卒保车”相近。"
-    },
-    "synonyms": [
-      "丢卒保车",
-      "壮士断腕"
-    ],
-    "antonyms": [
-      "顾此失彼",
-      "因小失大"
-    ]
-  },
-  {
     "id": "suan-wen-jia-cu",
     "text": "酸文假醋",
     "pinyin": "suān wén jiǎ cù",
@@ -332,12 +287,11 @@
     },
     "synonyms": [
       "咬文嚼字",
-      "文绉绉",
       "孔夫子放屁——文（闻）气冲天"
     ],
     "antonyms": [
-      "朴实无华",
-      "直截了当"
+      "直截了当",
+      "朴实无华"
     ]
   },
   {
@@ -429,8 +383,7 @@
       "肃清内奸"
     ],
     "antonyms": [
-      "招降纳叛",
-      "引狼入室"
+      "招降纳叛"
     ]
   },
   {
@@ -514,8 +467,7 @@
       "zh": "较正式的赞同，多用于书面或会议，反义是“不以为然”。"
     },
     "synonyms": [
-      "深有同感",
-      "心悦诚服"
+      "深有同感"
     ],
     "antonyms": [
       "嗤之以鼻",
@@ -888,7 +840,6 @@
       "万马奔腾"
     ],
     "antonyms": [
-      "门可罗雀",
       "死气沉沉"
     ]
   },

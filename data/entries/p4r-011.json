@@ -48,14 +48,8 @@
       "en": "Usually a warning against reckless self-sacrifice; the original text uses it to question a naive case of ‘benevolence’.",
       "zh": "多用于劝诫不要盲目冒险；原文借以反问仁者是否会这样做。"
     },
-    "synonyms": [
-      "舍己救人",
-      "孤注一掷"
-    ],
-    "antonyms": [
-      "量力而行",
-      "三思而行"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "cu-fu-luan-tou",
@@ -150,7 +144,7 @@
       }
     },
     "usage": {
-      "en": "Opposite in grammar to 得寸进尺 (greedy); reads 寸 cùn, 尺 chǐ. Describes slow or setback-ridden progress.",
+      "en": "Opposite in sense and form to 得寸进尺 (greedy encroachment); reads 寸 cùn, 尺 chǐ. Describes slow or setback-ridden progress.",
       "zh": "与“得寸进尺”不同；描述进展缓慢、反复受挫。"
     },
     "synonyms": [
@@ -158,8 +152,8 @@
       "得不偿失"
     ],
     "antonyms": [
-      "突飞猛进",
-      "一日千里"
+      "一日千里",
+      "突飞猛进"
     ]
   },
   {
@@ -538,8 +532,6 @@
       "zh": "吉祥意象；“朝”读 zhāo（早晨）；用于祝贺或赞美时代。"
     },
     "synonyms": [
-      "百鸟朝凤",
-      "龙凤呈祥",
       "丹凤朝阳"
     ],
     "antonyms": [
@@ -693,8 +685,7 @@
       "国之柱石"
     ],
     "antonyms": [
-      "败军之将",
-      "溃不成军"
+      "败军之将"
     ]
   },
   {
@@ -756,52 +747,6 @@
     ]
   },
   {
-    "id": "gou-zhi-bu-ru",
-    "text": "狗彘不如",
-    "pinyin": "gǒu zhì bù rú",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "literary",
-    "themes": [
-      "negative-character-flaws",
-      "inappropriate-behavior",
-      "rare-idioms"
-    ],
-    "literal": "dog · pig · not · as good",
-    "natural": "not even as good as a dog or a pig",
-    "meaning": {
-      "en": "Contemptible and worse than an animal; a strong condemnation of base conduct.",
-      "zh": "连猪狗都不如，形容品行卑劣到极点。"
-    },
-    "equivalents": [
-      "lower than an animal",
-      "utterly despicable"
-    ],
-    "examples": [
-      {
-        "zh": "他抛弃年迈的父母，真是狗彘不如。",
-        "en": "He abandoned his aged parents; he is lower than a beast."
-      },
-      {
-        "zh": "这种欺压孤儿的行径简直狗彘不如。",
-        "en": "Bullying orphans like this is simply worse than animal behaviour."
-      }
-    ],
-    "usage": {
-      "en": "A harsh insult; use only in strong moral condemnation. 彘 reads zhì.",
-      "zh": "严厉斥责，仅用于强烈道德谴责；“彘”读 zhì。"
-    },
-    "synonyms": [
-      "禽兽不如",
-      "猪狗不如"
-    ],
-    "antonyms": [
-      "品德高尚",
-      "正人君子"
-    ]
-  },
-  {
     "id": "guan-gai-xiang-wang",
     "text": "冠盖相望",
     "pinyin": "guān gài xiāng wàng",
@@ -810,9 +755,9 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "festivals-and-celebrations",
       "historical-periods",
-      "rare-idioms"
+      "rare-idioms",
+      "leadership-and-authority"
     ],
     "literal": "cap · canopy · mutually · see",
     "natural": "caps and carriage-canopies in each other's sight",
@@ -897,12 +842,10 @@
       "zh": "典故；视语气可指无礼发作，也可指直言抗争。"
     },
     "synonyms": [
-      "借酒闹事",
-      "拍案而起"
+      "借酒闹事"
     ],
     "antonyms": [
-      "温文尔雅",
-      "和颜悦色"
+      "温文尔雅"
     ]
   },
   {
@@ -1075,7 +1018,6 @@
     "register": "literary",
     "themes": [
       "society",
-      "fine-dress-and-fashion",
       "rare-idioms"
     ],
     "literal": "powerful · house · noble · descendant",

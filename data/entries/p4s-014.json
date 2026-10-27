@@ -55,8 +55,9 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "frankness-and-candour",
-      "fairness-and-impartiality"
+      "fairness-and-impartiality",
+      "standards-and-benchmarks",
+      "exact-vs-approximate"
     ],
     "literal": "tenon · is · tenon, mortise · is · mortise",
     "natural": "a tenon is a tenon and a mortise is a mortise",
@@ -127,12 +128,8 @@
       "en": "A tough-guy line, mostly seen in fiction and dialect.",
       "zh": "狠话，多见于小说、方言和影视。"
     },
-    "synonyms": [
-      "刀光剑影"
-    ],
-    "antonyms": [
-      "和气生财"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "she-ming-pei-jun-zi",
@@ -172,12 +169,9 @@
       "zh": "多为玩笑口吻，常用于应酬、喝酒。"
     },
     "synonyms": [
-      "两肋插刀",
-      "义无反顾"
+      "两肋插刀"
     ],
-    "antonyms": [
-      "袖手旁观"
-    ]
+    "antonyms": []
   },
   {
     "id": "shu-zhong-wu-da-jiang-liao",
@@ -266,8 +260,8 @@
       "zh": "传统说法，也说“男人膝下有黄金”。"
     },
     "synonyms": [
-      "宁折不弯",
-      "铮铮铁骨"
+      "铮铮铁骨",
+      "宁折不弯"
     ],
     "antonyms": [
       "奴颜婢膝",
@@ -310,12 +304,8 @@
       "en": "Sharp criticism; often says 此人/这种人 first.",
       "zh": "批评的话，常用于指某人。"
     },
-    "synonyms": [
-      "一事无成",
-      "笨手笨脚"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "成事不说",
       "事半功倍"
     ]
   },
@@ -359,7 +349,6 @@
       "zh": "今天常用来形容网络、新闻带来的便利。"
     },
     "synonyms": [
-      "足不出户",
       "博古通今"
     ],
     "antonyms": [
@@ -491,13 +480,11 @@
       "zh": "常用来称赞、感谢严格的老师。"
     },
     "synonyms": [
-      "青出于蓝",
       "教不严，师之惰",
       "棍棒底下出孝子"
     ],
     "antonyms": [
       "误人子弟",
-      "师傅领进门，修行在个人",
       "慈母多败儿",
       "溺爱不明"
     ]
@@ -549,12 +536,8 @@
       "en": "Follows with 教不严，师之惰 in the original.",
       "zh": "原文下句为“教不严，师之惰”。"
     },
-    "synonyms": [
-      "教不严，师之惰"
-    ],
-    "antonyms": [
-      "循循善诱"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "ci-mu-duo-bai-er",
@@ -638,9 +621,7 @@
     "synonyms": [
       "这山望着那山高"
     ],
-    "antonyms": [
-      "知足常乐"
-    ]
+    "antonyms": []
   },
   {
     "id": "er-da-bu-you-niang",
@@ -804,9 +785,7 @@
     "synonyms": [
       "捉摸不透"
     ],
-    "antonyms": [
-      "一目了然"
-    ]
+    "antonyms": []
   },
   {
     "id": "nan-pa-ru-cuo-hang-nu-pa-jia-cuo-lang",
@@ -843,12 +822,8 @@
       "en": "Traditional gender roles; today often used loosely about any big choice.",
       "zh": "带传统性别分工观念，今常泛指重大选择。"
     },
-    "synonyms": [
-      "一失足成千古恨"
-    ],
-    "antonyms": [
-      "择善而从"
-    ]
+    "synonyms": [],
+    "antonyms": []
   },
   {
     "id": "jia-han-jia-han-chuan-yi-chi-fan",
@@ -886,9 +861,7 @@
       "zh": "形容旧社会女子的婚姻观，今多批评性引用。"
     },
     "synonyms": [],
-    "antonyms": [
-      "自食其力"
-    ]
+    "antonyms": []
   },
   {
     "id": "fu-qi-ben-shi-tong-lin",
@@ -927,8 +900,7 @@
       "zh": "带有消极意味，常作感叹。"
     },
     "synonyms": [
-      "树倒猢狲散",
-      "各奔前程"
+      "树倒猢狲散"
     ],
     "antonyms": [
       "患难与共",
@@ -1100,11 +1072,11 @@
       "zh": "多说感情，也可泛指一切勉强之事。"
     },
     "synonyms": [
-      "勉强无益",
-      "水到渠成"
+      "勉强无益"
     ],
     "antonyms": [
-      "瓜熟蒂落"
+      "瓜熟蒂落",
+      "水到渠成"
     ]
   }
 ]

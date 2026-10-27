@@ -39,9 +39,7 @@
       "人外有人",
       "强中自有强中手"
     ],
-    "antonyms": [
-      "目空一切"
-    ]
+    "antonyms": []
   },
   {
     "id": "hao-nan-er-zhi-zai-si-fang",
@@ -81,12 +79,11 @@
       "zh": "送行时的勉励语；强调男子的说法较传统，现在也说“好儿女志在四方”。"
     },
     "synonyms": [
-      "胸怀大志",
-      "志在千里"
+      "志在千里",
+      "胸怀大志"
     ],
     "antonyms": [
-      "安土重迁",
-      "故步自封"
+      "安土重迁"
     ]
   },
   {
@@ -168,7 +165,6 @@
       "zh": "常用于前任或旧单位；有时被批评为死要面子。"
     },
     "synonyms": [
-      "覆水难收",
       "义无反顾"
     ],
     "antonyms": [
@@ -256,9 +252,7 @@
       "zh": "多作抱怨，常说“真是好心没好报”，多指自己好心被辜负。"
     },
     "synonyms": [
-      "好心当成驴肝肺",
-      "吃力不讨好",
-      "东郭先生"
+      "吃力不讨好"
     ],
     "antonyms": [
       "好人有好报",
@@ -304,12 +298,14 @@
       "zh": "常用作祝福或安慰，与“恶有恶报”相对。"
     },
     "synonyms": [
-      "善有善报",
-      "天道酬勤"
+      "善有善报"
     ],
     "antonyms": [
-      "恶有恶报",
-      "好心没好报"
+      "好心没好报",
+      "恶有恶报"
+    ],
+    "variants": [
+      "好心有好报"
     ]
   },
   {
@@ -433,10 +429,7 @@
       "en": "Also used generally of anyone who gains expertise through long experience of a problem.",
       "zh": "也泛指长期接触某事而变得内行。"
     },
-    "synonyms": [
-      "熟能生巧",
-      "久经沙场"
-    ],
+    "synonyms": [],
     "antonyms": [
       "纸上谈兵"
     ]
@@ -477,10 +470,7 @@
       "zh": "带无奈的感慨，常用于谈论老人长期护理问题。"
     },
     "synonyms": [],
-    "antonyms": [
-      "百善孝为先",
-      "二十四孝"
-    ]
+    "antonyms": []
   },
   {
     "id": "xin-bing-hai-xu-xin-yao-yi",
@@ -563,9 +553,7 @@
       "zh": "常在炎夏或劝人平心静气时说。"
     },
     "synonyms": [
-      "泰然自若",
-      "心平气和",
-      "闹中取静"
+      "心平气和"
     ],
     "antonyms": [
       "心浮气躁"
@@ -627,7 +615,8 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "love-and-marriage"
+      "love-and-marriage",
+      "friendship"
     ],
     "literal": "heart · exchange · heart, eight · liang · exchange · half · jin",
     "natural": "Heart for heart, eight liang for half a jin",
@@ -786,9 +775,7 @@
       "覆水难收",
       "悔之晚矣"
     ],
-    "antonyms": [
-      "三思而行"
-    ]
+    "antonyms": []
   },
   {
     "id": "jin-ren-shi-ting-tian-ming",
@@ -873,9 +860,7 @@
       "en": "Often used by creditors, in court and in news; can also be used as a general moral principle.",
       "zh": "多用于债权人、法庭和新闻，也可泛指道德准则。"
     },
-    "synonyms": [
-      "天经地义"
-    ],
+    "synonyms": [],
     "antonyms": [
       "欠债不还"
     ]
@@ -918,12 +903,12 @@
     },
     "synonyms": [
       "唯利是图",
-      "不见兔子不撒鹰"
+      "不见兔子不撒鹰",
+      "重赏之下，必有勇夫"
     ],
     "antonyms": [
       "助人为乐",
-      "舍己为人",
-      "重赏之下，必有勇夫"
+      "舍己为人"
     ]
   },
   {
@@ -971,9 +956,7 @@
       "丑话说在前头",
       "先小人，后君子"
     ],
-    "antonyms": [
-      "糊里糊涂"
-    ]
+    "antonyms": []
   },
   {
     "id": "da-hu-qin-xiong-di-shang-zhen-fu-zi-bing",

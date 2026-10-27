@@ -97,8 +97,7 @@
     },
     "synonyms": [
       "吃得苦中苦，方为人上人",
-      "宝剑锋从磨砺出",
-      "蚌病成珠"
+      "宝剑锋从磨砺出"
     ],
     "antonyms": [
       "不劳而获",
@@ -162,7 +161,6 @@
       "打蛇打七寸"
     ],
     "antonyms": [
-      "本末倒置",
       "舍本逐末"
     ]
   },
@@ -310,7 +308,7 @@
     ],
     "antonyms": [
       "推心置腹",
-      "坦然自若"
+      "泰然自若"
     ]
   },
   {
@@ -354,8 +352,8 @@
       "zh": "多作谓语，书面语。注意不要与“目不暇给／目不暇接”（东西太多看不过来）混淆。"
     },
     "synonyms": [
-      "日理万机",
-      "忙得不可开交"
+      "忙得不可开交",
+      "日理万机"
     ],
     "antonyms": [
       "无所事事",
@@ -426,8 +424,8 @@
       "物极必反"
     ],
     "antonyms": [
-      "因祸得福",
-      "否极泰来"
+      "否极泰来",
+      "因祸得福"
     ]
   },
   {
@@ -535,10 +533,7 @@
       "四战之地",
       "咽喉要道"
     ],
-    "antonyms": [
-      "不毛之地",
-      "无足轻重"
-    ]
+    "antonyms": []
   },
   {
     "id": "ming-mou-shan-lai",
@@ -645,8 +640,7 @@
       "光彩照人"
     ],
     "antonyms": [
-      "黯然失色",
-      "平淡无奇"
+      "黯然失色"
     ]
   },
   {
@@ -658,8 +652,7 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "historical-periods",
-      "journeys-and-exploration"
+      "historical-periods"
     ],
     "literal": "tie · cord · record · events",
     "natural": "record events by tying cords",
@@ -705,7 +698,6 @@
       "刻木记事"
     ],
     "antonyms": [
-      "著书立说",
       "文字记载"
     ]
   },
@@ -761,13 +753,10 @@
       "en": "Predicate or quoted clause; from a Daoist view that over-regulation backfires. Often quoted with 盗贼多有.",
       "zh": "多作谓语或引用分句，体现道家反对繁苛政令的看法，常与“盗贼多有”连用。"
     },
-    "synonyms": [
-      "繁文缛节",
-      "苛政猛于虎"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "结绳而治",
-      "无为而治"
+      "无为而治",
+      "结绳而治"
     ]
   },
   {
@@ -810,13 +799,9 @@
       "en": "Predicate or comment on achievement; literary. Related to 老蚌生珠 (a gifted child born late to elderly parents) but not the same meaning.",
       "zh": "多作谓语或对成就的评语，书面语。与“老蚌生珠”（老来得贤子）相关，但含义不同。"
     },
-    "synonyms": [
-      "老蚌生珠",
-      "梅花香自苦寒来"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "一事无成",
-      "半途而废"
+      "一事无成"
     ]
   },
   {
@@ -860,12 +845,8 @@
       "en": "Mostly allusive or literary. The legend is told in several Tang and later sources with different named couples.",
       "zh": "多作典故或文学用语。唐代及后世多种记载，人物说法不一。"
     },
-    "synonyms": [
-      "青鸟殷勤",
-      "鸿雁传书"
-    ],
+    "synonyms": [],
     "antonyms": [
-      "劳燕分飞",
       "音信全无"
     ]
   },
@@ -925,8 +906,8 @@
       "吹弹可破"
     ],
     "antonyms": [
-      "面如土色",
-      "粗皮糙肉"
+      "粗皮糙肉",
+      "面如土色"
     ]
   },
   {
@@ -974,7 +955,6 @@
       "各有千秋"
     ],
     "antonyms": [
-      "相形见绌",
       "一无所长"
     ]
   },
@@ -989,7 +969,9 @@
     "themes": [
       "leadership-and-authority",
       "good-governance",
-      "poems-prose"
+      "poems-prose",
+      "qing-dynasty",
+      "poets"
     ],
     "literal": "one · twig · one · leaf · always · concerns · feeling",
     "natural": "every twig and leaf stirs my feelings",
@@ -1037,7 +1019,13 @@
     "antonyms": [
       "漠不关心",
       "官僚作风"
-    ]
+    ],
+    "variants": [
+      "些小吾曹州县吏，一枝一叶总关情"
+    ],
+    "variant_kinds": {
+      "些小吾曹州县吏，一枝一叶总关情": "full"
+    }
   },
   {
     "id": "wei-ji-cun-wang-zhi-qiu",
@@ -1092,13 +1080,19 @@
       "zh": "常说“此诚危急存亡之秋也”或“值此危急存亡之秋”。这里的“秋”指时刻、关键时期，不是秋天。"
     },
     "synonyms": [
-      "生死存亡",
       "千钧一发",
+      "生死存亡",
+      "生死关头",
       "中华民族到了最危险的时候"
     ],
     "antonyms": [
       "太平盛世",
-      "高枕无忧"
+      "高枕无忧",
+      "太平无事",
+      "安然无恙"
+    ],
+    "variants": [
+      "危急存亡"
     ]
   },
   {

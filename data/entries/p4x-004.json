@@ -37,7 +37,8 @@
     },
     "synonyms": [
       "才疏学浅",
-      "才浅德薄"
+      "才浅德薄",
+      "德薄能鲜"
     ],
     "antonyms": [
       "德才兼备",
@@ -215,7 +216,7 @@
       "在劫难逃"
     ],
     "antonyms": [
-      "必由之路"
+      "一线生机"
     ]
   },
   {
@@ -301,6 +302,7 @@
       "铁窗生涯"
     ],
     "antonyms": [
+      "重见天日",
       "全身而退"
     ]
   },
@@ -345,16 +347,14 @@
       "螽斯衍庆",
       "早生贵子"
     ],
-    "antonyms": [
-      "计划生育"
-    ]
+    "antonyms": []
   },
   {
     "id": "ming-yu-sao-di",
     "text": "名誉扫地",
     "pinyin": "míng yù sǎo dì",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -385,10 +385,11 @@
       "zh": "多作谓语，常见于丑闻之后。"
     },
     "synonyms": [
-      "身败名裂",
-      "斯文扫地"
+      "身败名裂"
     ],
     "antonyms": [
+      "名扬四海",
+      "声名鹊起",
       "身价百倍"
     ]
   },
@@ -473,11 +474,9 @@
     },
     "synonyms": [
       "会咬人的狗不叫",
-      "于无声处听惊雷"
+      "深藏不露"
     ],
-    "antonyms": [
-      "半瓶醋"
-    ]
+    "antonyms": []
   },
   {
     "id": "xin-gan-bao-bei",
@@ -520,9 +519,7 @@
       "掌上明珠",
       "贾宝玉的玉——命根子"
     ],
-    "antonyms": [
-      "眼中钉"
-    ]
+    "antonyms": []
   },
   {
     "id": "yi-wu-ke-qu",
@@ -570,8 +567,8 @@
   },
   {
     "id": "jue-bi-huo-lin",
-    "text": "绝笔获麟",
-    "pinyin": "jué bǐ huò lín",
+    "text": "获麟绝笔",
+    "pinyin": "huò lín jué bǐ",
     "kind": "chengyu",
     "frequency": 3,
     "sentiment": "neutral",
@@ -580,7 +577,7 @@
       "abrupt-endings",
       "stories"
     ],
-    "literal": "end · writing · catch · qilin",
+    "literal": "catch · qilin · end · writing",
     "natural": "the brush laid down at the capture of the qilin",
     "meaning": {
       "en": "To end one's writing at a significant point; the final work of a person's life.",
@@ -592,7 +589,7 @@
     ],
     "examples": [
       {
-        "zh": "这部遗稿便是他的绝笔获麟之作。",
+        "zh": "这部遗稿是他的绝笔之作，堪称获麟绝笔。",
         "en": "This unfinished manuscript was his final work."
       },
       {
@@ -605,56 +602,13 @@
       "zh": "书面语。“麟”指麒麟，《春秋》以“西狩获麟”收尾，所以“获麟”用来指最后的著作。"
     },
     "synonyms": [
-      "获麟之叹",
-      "西狩获麟"
+      "获麟之叹"
     ],
     "antonyms": [
       "开宗明义"
-    ]
-  },
-  {
-    "id": "yong-er-wu-mou",
-    "text": "勇而无谋",
-    "pinyin": "yǒng ér wú móu",
-    "kind": "chengyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "foolishness-and-ignorance",
-      "poor-planning-and-hasty-decisions"
     ],
-    "literal": "brave · yet · no · strategy",
-    "natural": "brave but without a plan",
-    "meaning": {
-      "en": "Bold but lacking judgement and strategy.",
-      "zh": "有勇气，但没有计谋。"
-    },
-    "equivalents": [
-      "brave but foolhardy",
-      "more brawn than brains"
-    ],
-    "examples": [
-      {
-        "zh": "他勇而无谋，冲进去才发现中了埋伏。",
-        "en": "He was brave but thoughtless and rushed in only to find it was an ambush."
-      },
-      {
-        "zh": "创业不能勇而无谋，要先做调研。",
-        "en": "Starting a business can't be bold without a plan; do research first."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive. Compare 有勇有谋 (brave and resourceful).",
-      "zh": "多作谓语、定语。与“有勇有谋”相对。"
-    },
-    "synonyms": [
-      "有勇无谋",
-      "匹夫之勇"
-    ],
-    "antonyms": [
-      "有勇有谋",
-      "天下有大勇者，卒然临之而不惊，无故加之而不怒"
+    "variants": [
+      "绝笔获麟"
     ]
   },
   {
@@ -741,7 +695,8 @@
     "synonyms": [],
     "antonyms": [
       "虎父无犬子",
-      "老子英雄儿好汉"
+      "老子英雄儿好汉",
+      "蓝田生玉"
     ]
   },
   {
@@ -780,13 +735,12 @@
       "zh": "语气亲切，指朋友、家人、师生之间的深入交谈。"
     },
     "synonyms": [
-      "推心置腹",
-      "娓娓而谈",
       "秉烛夜谈"
     ],
     "antonyms": [
-      "打个照面",
-      "俞伯牙摔琴——不谈（弹）了"
+      "不欢而散",
+      "话不投机",
+      "打个照面"
     ]
   },
   {
@@ -829,8 +783,9 @@
       "口是心非"
     ],
     "antonyms": [
-      "言传身教",
       "以身作则",
+      "言行一致",
+      "表里如一",
       "身教胜于言教"
     ]
   },
@@ -917,8 +872,8 @@
       "面折廷争"
     ],
     "antonyms": [
-      "阿谀奉承",
-      "唯唯诺诺"
+      "唯唯诺诺",
+      "阿谀奉承"
     ]
   },
   {
@@ -961,8 +916,7 @@
       "反目成仇"
     ],
     "antonyms": [
-      "知恩图报",
-      "念旧情"
+      "知恩图报"
     ]
   }
 ]

@@ -41,8 +41,8 @@
       "倚门而望"
     ],
     "antonyms": [
-      "漠不关心",
-      "不闻不问"
+      "不闻不问",
+      "漠不关心"
     ]
   },
   {
@@ -89,8 +89,7 @@
       "摇曳生姿",
       "顾盼生姿",
       "分外妖娆",
-      "亭亭玉立",
-      "绰约多姿"
+      "亭亭玉立"
     ],
     "antonyms": [
       "其貌不扬",
@@ -149,12 +148,13 @@
     "synonyms": [
       "江郎才尽",
       "无计可施",
-      "才思枯竭"
+      "才思枯竭",
+      "黔驴之技"
     ],
     "antonyms": [
-      "游刃有余",
       "足智多谋",
       "大显身手",
+      "游刃有余",
       "浑身解数"
     ]
   },
@@ -168,7 +168,8 @@
     "register": "formal",
     "themes": [
       "verbosity",
-      "poor-workmanship"
+      "poor-workmanship",
+      "inappropriate-behavior"
     ],
     "literal": "pile · beds · build · houses",
     "natural": "beds on beds, houses on houses",
@@ -196,12 +197,14 @@
       "zh": "作谓语，批评机构或文章重复。"
     },
     "synonyms": [
-      "画蛇添足",
-      "重床叠屋"
+      "画蛇添足"
     ],
     "antonyms": [
       "言简意赅",
       "精简高效"
+    ],
+    "variants": [
+      "重床叠屋"
     ]
   },
   {
@@ -478,9 +481,7 @@
       "替人受过"
     ],
     "antonyms": [
-      "坐收渔利",
-      "稳操胜券",
-      "钻木取火"
+      "坐收渔利"
     ]
   },
   {
@@ -612,9 +613,9 @@
       "zh": "作谓语，常含贬义。"
     },
     "synonyms": [
-      "收买人心",
       "拉拢人心",
-      "刘备摔孩子——收买人心"
+      "刘备摔孩子——收买人心",
+      "收买人心"
     ],
     "antonyms": [
       "失去民心",
@@ -748,6 +749,7 @@
       "聚沙成塔"
     ],
     "antonyms": [
+      "化整为零",
       "分崩离析"
     ]
   },
@@ -796,13 +798,12 @@
     "synonyms": [
       "照搬照抄",
       "如法炮制",
-      "照葫芦画瓢——按老样子做",
-      "照猫画虎——差不离",
       "照猫画虎",
-      "有样学样"
+      "有样学样",
+      "照猫画虎——差不离"
     ],
     "antonyms": [
-      "另辟蹊径",
+      "独辟蹊径",
       "推陈出新"
     ]
   },
@@ -936,12 +937,9 @@
       "zh": "作名词，含赞美。"
     },
     "synonyms": [
-      "始作俑者",
       "一代宗师"
     ],
-    "antonyms": [
-      "后起之秀"
-    ]
+    "antonyms": []
   },
   {
     "id": "pi-kai-rou-zhan",
@@ -985,7 +983,7 @@
       "血肉模糊"
     ],
     "antonyms": [
-      "毫发无伤",
+      "毫发无损",
       "完好无损"
     ]
   },
@@ -1048,7 +1046,8 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "near-misses-and-setbacks"
+      "near-misses-and-setbacks",
+      "complete-failure-and-obscurity"
     ],
     "literal": "one · nose · -ful · ash",
     "natural": "a nose full of dust",
@@ -1079,8 +1078,11 @@
       "吃闭门羹"
     ],
     "antonyms": [
-      "一帆风顺",
-      "受到欢迎"
+      "受到欢迎",
+      "如愿以偿"
+    ],
+    "variants": [
+      "碰一鼻子灰"
     ]
   },
   {
@@ -1141,7 +1143,6 @@
       "不厌其烦"
     ],
     "antonyms": [
-      "敷衍塞责",
       "不负责任",
       "误人子弟"
     ]

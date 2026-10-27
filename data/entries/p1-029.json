@@ -4,7 +4,7 @@
     "text": "疑神疑鬼",
     "pinyin": "yí shén yí guǐ",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -48,7 +48,7 @@
     "antonyms": [
       "深信不疑",
       "泰然自若",
-      "无可置疑",
+      "毋庸置疑",
       "信以为真"
     ]
   },
@@ -101,14 +101,13 @@
       "zh": "多作谓语，用于领导，也可戏用。"
     },
     "synonyms": [
-      "日不暇给",
-      "废寝忘食",
-      "宵衣旰食"
+      "宵衣旰食",
+      "日不暇给"
     ],
     "antonyms": [
       "无所事事",
-      "游手好闲",
-      "饱食终日"
+      "饱食终日",
+      "游手好闲"
     ]
   },
   {
@@ -151,10 +150,8 @@
       "zh": "多作谓语。源自道家长生之说。"
     },
     "synonyms": [
-      "老当益壮",
       "鹤发童颜",
-      "焕发青春",
-      "童心未泯"
+      "焕发青春"
     ],
     "antonyms": [
       "老态龙钟",
@@ -220,9 +217,8 @@
       "专横跋扈"
     ],
     "antonyms": [
-      "循规蹈矩",
-      "谦虚谨慎",
-      "平易近人"
+      "平易近人",
+      "谦虚谨慎"
     ]
   },
   {
@@ -234,9 +230,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "success",
-      "measure",
-      "festive-greetings"
+      "festive-greetings",
+      "outstanding-success-and-fame",
+      "exact-vs-approximate"
     ],
     "literal": "day · bring in · dou-measure · gold",
     "natural": "Bringing in a bushel of gold a day",
@@ -272,8 +268,8 @@
     ],
     "antonyms": [
       "入不敷出",
-      "门可罗雀",
-      "血本无归"
+      "血本无归",
+      "门可罗雀"
     ]
   },
   {
@@ -286,7 +282,9 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "bad-fortune"
+      "bad-fortune",
+      "evenly-matched",
+      "friendship"
     ],
     "literal": "hardship · brother · hardship · brother",
     "natural": "Brothers in misfortune",
@@ -326,7 +324,6 @@
       "zh": "多作宾语。现多用\"共患难\"义，读 nàn，常带诙谐。"
     },
     "synonyms": [
-      "同病相怜",
       "患难之交"
     ],
     "antonyms": [
@@ -374,9 +371,9 @@
     },
     "synonyms": [
       "技高一筹",
-      "一日之长",
       "棋高一着",
-      "高出一筹"
+      "高出一筹",
+      "一日之长"
     ],
     "antonyms": [
       "稍逊一筹",
@@ -389,13 +386,17 @@
     "text": "老当益壮",
     "pinyin": "lǎo dāng yì zhuàng",
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
       "experience-and-old-age",
       "health",
-      "historical-records"
+      "historical-records",
+      "outstanding-character",
+      "comebacks-and-renewal",
+      "positive-character-qualities",
+      "essay-favourites"
     ],
     "literal": "old · should · more · vigorous",
     "natural": "In old age one should be all the more vigorous",
@@ -437,17 +438,14 @@
     "synonyms": [
       "老骥伏枥",
       "宝刀未老",
-      "返老还童",
       "壮心不已",
-      "大器晚成",
-      "历久弥坚",
-      "属生姜的——越老越辣",
-      "谁道人生无再少？门前流水尚能西！休将白发唱黄鸡",
-      "穷当益坚，老当益壮",
       "精神矍铄",
       "鹤发童颜",
       "龙马精神",
-      "廉颇未老"
+      "廉颇未老",
+      "老骥伏枥，志在千里。烈士暮年，壮心不已",
+      "属生姜的——越老越辣",
+      "谁道人生无再少？门前流水尚能西！休将白发唱黄鸡"
     ],
     "antonyms": [
       "老态龙钟",
@@ -455,7 +453,13 @@
       "暮气沉沉",
       "枯木死灰",
       "岁月不饶人"
-    ]
+    ],
+    "variants": [
+      "穷当益坚，老当益壮"
+    ],
+    "variant_kinds": {
+      "穷当益坚，老当益壮": "full"
+    }
   },
   {
     "id": "zhong-pan-qin-li",
@@ -512,9 +516,8 @@
       "四面楚歌",
       "孤立无援",
       "不得人心",
-      "千夫所指",
-      "树倒猢狲散",
-      "失道寡助"
+      "失道寡助",
+      "树倒猢狲散"
     ],
     "antonyms": [
       "众望所归",
@@ -522,13 +525,12 @@
       "人心所向",
       "近悦远来",
       "得道多助",
-      "刘备摔孩子——收买人心",
       "天与人归",
-      "百鸟朝凤",
       "深得人心",
-      "招降纳叛",
       "万民拥戴",
-      "水能载舟，亦能覆舟"
+      "刘备摔孩子——收买人心",
+      "百鸟朝凤",
+      "招降纳叛"
     ]
   },
   {
@@ -603,7 +605,9 @@
     "register": "neutral",
     "themes": [
       "academic-achievement",
-      "failed-ambitions"
+      "failed-ambitions",
+      "exam-favourites",
+      "stories"
     ],
     "literal": "name · fall · Sun Shan",
     "natural": "One's name falls below Sun Shan's",
@@ -647,15 +651,15 @@
     "antonyms": [
       "金榜题名",
       "名列前茅",
+      "连中三元",
+      "蟾宫折桂",
+      "脱颖而出",
+      "榜上有名",
       "独占鳌头",
       "鲤鱼跳龙门",
-      "大红大紫",
-      "雀屏中选",
-      "连中三元",
       "五子登科",
       "范进中举",
-      "鱼跃龙门",
-      "蟾宫折桂"
+      "鱼跃龙门"
     ]
   },
   {
@@ -666,7 +670,7 @@
       "转弯抹角"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -675,7 +679,7 @@
     "literal": "turn · bend · skirt · corner",
     "natural": "Turning bends and skirting corners",
     "meaning": {
-      "en": "To beat about the bush; roundabout.",
+      "en": "To beat about the bush; roundabout. Also literally winding, with many twists and turns (of roads).",
       "zh": "沿着弯弯曲曲的路走。比喻说话不直截了当。"
     },
     "equivalents": [
@@ -766,18 +770,16 @@
     "synonyms": [
       "物极必反",
       "福兮祸所伏",
-      "好景不长",
       "登高跌重"
     ],
     "antonyms": [
       "苦尽甘来",
       "否极泰来",
+      "转悲为喜",
+      "先苦后甜",
       "因祸得福",
       "时来运转",
-      "忧劳可以兴国，逸豫可以亡身",
-      "乐而不淫",
-      "转悲为喜",
-      "先苦后甜"
+      "乐而不淫"
     ]
   },
   {
@@ -785,13 +787,16 @@
     "text": "解铃还须系铃人",
     "pinyin": "jiě líng hái xū xì líng rén",
     "kind": "suyu",
-    "frequency": 3,
+    "frequency": 2,
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
       "wisdom",
       "natural-consequences",
-      "buddhist-origin"
+      "buddhist-origin",
+      "mistakes-and-correction",
+      "stories",
+      "exam-favourites"
     ],
     "literal": "untie · bell · still · must · tie · bell · person",
     "natural": "The one who tied the bell must untie it",
@@ -829,15 +834,19 @@
       "zh": "多单独成句。\"系\"读 xì。"
     },
     "synonyms": [
-      "自作自受",
       "谁种的苦果谁吃",
-      "系铃解铃",
       "心病还须心药医"
     ],
     "antonyms": [
-      "嫁祸于人",
       "推卸责任"
-    ]
+    ],
+    "variants": [
+      "解铃还需系铃人",
+      "系铃解铃"
+    ],
+    "variant_kinds": {
+      "系铃解铃": "short"
+    }
   },
   {
     "id": "qing-tong-shou-zu",
@@ -881,9 +890,6 @@
     "synonyms": [
       "亲如兄弟",
       "亲密无间",
-      "情深似海",
-      "桃园结义",
-      "亲如手足",
       "情深义重",
       "相亲相爱",
       "称兄道弟",
@@ -892,15 +898,15 @@
       "情同骨肉",
       "胶漆之交",
       "血浓于水",
-      "抵足而眠",
-      "海内存知己，天涯若比邻",
-      "亲如一家"
+      "亲如一家",
+      "肝胆相照",
+      "亲如手足"
     ],
     "antonyms": [
       "反目成仇",
-      "势不两立",
       "形同陌路",
       "割席断交",
+      "势不两立",
       "六亲不认",
       "势如水火",
       "割席分坐"
@@ -908,10 +914,10 @@
   },
   {
     "id": "san-geng-ban-ye",
-    "text": "深更半夜",
-    "pinyin": "shēn gēng bàn yè",
+    "text": "三更半夜",
+    "pinyin": "sān gēng bàn yè",
     "variants": [
-      "三更半夜",
+      "深更半夜",
       "半夜三更"
     ],
     "kind": "chengyu",
@@ -961,7 +967,6 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "health",
       "animal-behavior-metaphors"
     ],
     "literal": "dragon · soar · tiger · leap",
@@ -1009,7 +1014,6 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "business-failure",
       "stories",
       "historical-records",
       "often-misused"
@@ -1052,12 +1056,11 @@
     },
     "synonyms": [
       "囤积居奇",
-      "待价而沽",
-      "物以稀为贵"
+      "待价而沽"
     ],
     "antonyms": [
-      "无人问津",
-      "一文不值"
+      "一文不值",
+      "无人问津"
     ]
   },
   {
@@ -1103,10 +1106,10 @@
       "背信弃义",
       "食言而肥",
       "口惠而实不至",
-      "自食其言",
-      "口血未干",
       "人而无信，不知其可也",
-      "轻诺寡信"
+      "轻诺寡信",
+      "自食其言",
+      "口血未干"
     ],
     "antonyms": [
       "言而有信",
@@ -1116,9 +1119,9 @@
       "徙木立信",
       "一口唾沫一个钉",
       "信守诺言",
-      "坐言起行",
       "驷马难追",
       "言必信，行必果",
+      "坐言起行",
       "一言为定",
       "尾生抱柱",
       "君子一言"
@@ -1170,7 +1173,8 @@
     "antonyms": [
       "萎靡不振",
       "老态龙钟",
-      "无精打采"
+      "无精打采",
+      "未老先衰"
     ]
   },
   {
@@ -1214,8 +1218,7 @@
       "拉帮结派",
       "任人唯亲",
       "朋比为奸",
-      "党同伐异",
-      "裙带关系"
+      "党同伐异"
     ],
     "antonyms": [
       "大公无私",
@@ -1232,13 +1235,15 @@
       "瞎子摸象"
     ],
     "kind": "chengyu",
-    "frequency": 3,
+    "frequency": 1,
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
       "foolishness-and-ignorance",
       "stories",
-      "buddhist-origin"
+      "buddhist-origin",
+      "superficial-learning",
+      "often-misused"
     ],
     "literal": "blind · people · touch · elephant",
     "natural": "The blind men and the elephant",
@@ -1282,11 +1287,9 @@
       "管中窥豹"
     ],
     "antonyms": [
-      "融会贯通",
       "全面客观",
       "洞若观火",
-      "尝鼎一脔",
-      "聚米为山"
+      "融会贯通"
     ]
   },
   {
@@ -1341,9 +1344,10 @@
     "antonyms": [
       "扶弱济贫",
       "抑强扶弱",
+      "除暴安良",
+      "劫富济贫",
       "见义勇为",
-      "人不犯我，我不犯人",
-      "以卵击石"
+      "人不犯我，我不犯人"
     ]
   },
   {
@@ -1397,9 +1401,7 @@
     },
     "synonyms": [
       "唯利是图",
-      "见利忘义",
-      "人为财死，鸟为食亡",
-      "朱门酒肉臭"
+      "见利忘义"
     ],
     "antonyms": [
       "乐善好施",
@@ -1407,10 +1409,10 @@
       "扶贫济困",
       "惜老怜贫",
       "乐善不倦",
-      "访贫问苦",
-      "劫富济贫",
       "博施济众",
       "富而好礼",
+      "访贫问苦",
+      "劫富济贫",
       "打土豪，分田地"
     ]
   }

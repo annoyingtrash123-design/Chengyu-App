@@ -36,19 +36,18 @@
       "zh": "原为中医用语，“先天”指禀赋，“后天”指出生后的调养，也比喻事物。"
     },
     "synonyms": [
-      "体弱多病",
-      "病入膏肓"
+      "体弱多病"
     ],
     "antonyms": [
-      "身强力壮",
-      "健康长寿"
+      "健康长寿",
+      "身强力壮"
     ]
   },
   {
     "id": "ba-gen-han-mao-bi-yao-cu",
     "text": "拔根汗毛比腰粗",
     "pinyin": "bá gēn hàn máo bǐ yāo cū",
-    "kind": "guanyongyu",
+    "kind": "suyu",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "casual",
@@ -59,7 +58,7 @@
     "literal": "pull · a · body hair · than · waist · thick",
     "natural": "even his small change beats my fortune",
     "meaning": {
-      "en": "Even a rich person's little finger is thicker than a poor person's waist: the well-off have more than the poor even when they have little left.",
+      "en": "Even a fallen rich family still has more than the poor: one of its body hairs is thicker than a poor man's waist.",
       "zh": "比喻富人再衰败，拔一根汗毛也比穷人的腰粗。"
     },
     "equivalents": [
@@ -219,8 +218,7 @@
       "zh": "粗俗的自嘲俗语，多是自称，慎用于正式场合。"
     },
     "synonyms": [
-      "慢人一步",
-      "后知后觉"
+      "慢人一步"
     ],
     "antonyms": [
       "先发制人",
@@ -267,15 +265,15 @@
       "视死如归"
     ],
     "antonyms": [
-      "贪生怕死",
-      "胆小如鼠"
+      "胆小如鼠",
+      "贪生怕死"
     ]
   },
   {
     "id": "jin-wu-xi-zhui-yu-tu-dong-sheng",
     "text": "金乌西坠，玉兔东升",
     "pinyin": "jīn wū xī zhuì, yù tù dōng shēng",
-    "kind": "guanyongyu",
+    "kind": "phrase",
     "frequency": 3,
     "sentiment": "neutral",
     "register": "literary",
@@ -357,8 +355,8 @@
       "持之以恒"
     ],
     "antonyms": [
-      "三天打鱼两天晒网",
-      "一曝十寒"
+      "一曝十寒",
+      "三天打鱼两天晒网"
     ]
   }
 ]
