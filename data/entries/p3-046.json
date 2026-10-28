@@ -198,7 +198,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "cunning-and-treachery"
     ],
     "literal": "change · given name · change · surname",
     "natural": "assume a false identity",
@@ -400,7 +401,8 @@
       "negative-character-flaws",
       "foolishness-and-ignorance",
       "historical-records",
-      "qin-han"
+      "qin-han",
+      "greed-and-selfishness"
     ],
     "literal": "profit · makes · wisdom · dim",
     "natural": "blinded by greed",
@@ -459,7 +461,8 @@
     "themes": [
       "negative-character-flaws",
       "food",
-      "often-misused"
+      "often-misused",
+      "greed-and-selfishness"
     ],
     "literal": "hang · saliva · three · foot",
     "natural": "drool with desire",
@@ -842,7 +845,10 @@
     "register": "neutral",
     "themes": [
       "frankness-and-candour",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "courage-and-boldness",
+      "loyalty-and-righteousness",
+      "fairness-and-impartiality"
     ],
     "literal": "uphold · justice · hold · words",
     "natural": "speak up for justice",
@@ -958,7 +964,8 @@
       "appearance",
       "positive-character-qualities",
       "confucian-classics",
-      "pre-qin"
+      "pre-qin",
+      "courage-and-boldness"
     ],
     "literal": "blood · vigour · just · strong",
     "natural": "full of youthful vigour",
@@ -1069,7 +1076,8 @@
     "register": "neutral",
     "themes": [
       "apprenticeship-and-learning",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "diligence-and-dedication"
     ],
     "literal": "diligent · study · hard · practise",
     "natural": "study and practise hard",

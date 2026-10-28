@@ -205,7 +205,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "poor-speech-and-silence"
+      "poor-speech-and-silence",
+      "deception-and-false-appearances"
     ],
     "literal": "avoid · and · not · talk",
     "natural": "sidestep",
@@ -460,7 +461,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "poor-health"
+      "poor-health",
+      "body"
     ],
     "literal": "sinews · weary · strength · exhausted",
     "natural": "worn out",
@@ -799,7 +801,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "cunning-and-treachery"
     ],
     "literal": "falsely use · name · take · place",
     "natural": "impersonate",
@@ -846,7 +849,8 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "news-and-officialese"
+      "news-and-officialese",
+      "loyalty-and-righteousness"
     ],
     "literal": "protect · home · defend · country",
     "natural": "defend one's country",
@@ -945,7 +949,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "corruption-and-injustice"
+      "corruption-and-injustice",
+      "greed-and-selfishness"
     ],
     "literal": "not · righteous · 's · wealth",
     "natural": "ill-gotten gains",
@@ -1028,7 +1033,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "cruelty-and-ruthlessness",
+      "greed-and-selfishness"
     ],
     "literal": "see · die · not · save",
     "natural": "leave someone to die",
@@ -1163,7 +1170,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "political-corruption"
+      "political-corruption",
+      "greed-and-selfishness",
+      "corruption-and-injustice"
     ],
     "literal": "middle · fill · private · purse",
     "natural": "line one's pockets",

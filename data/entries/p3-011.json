@@ -204,7 +204,8 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "poverty-and-hardship"
+      "poverty-and-hardship",
+      "kindness-and-generosity"
     ],
     "literal": "support · endangered · relieve · distressed",
     "natural": "help those in need",
@@ -257,7 +258,9 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "news-and-officialese"
+      "news-and-officialese",
+      "unity-and-cooperation",
+      "loyalty-and-righteousness"
     ],
     "literal": "harmonious · heart · together · cross",
     "natural": "pull together",
@@ -590,7 +593,8 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "laziness-and-giving-up"
+      "laziness-and-giving-up",
+      "fickleness-and-indecision"
     ],
     "literal": "once · leave · finish · it",
     "natural": "just walk away",
@@ -636,7 +640,9 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "festivals-and-celebrations"
+      "festivals-and-celebrations",
+      "family-and-home",
+      "wedding-wishes"
     ],
     "literal": "red · white · happy · events",
     "natural": "weddings and funerals",
@@ -681,7 +687,10 @@
       "positive-character-qualities",
       "historical-records",
       "poems-prose",
-      "pre-qin"
+      "pre-qin",
+      "unity-and-cooperation",
+      "loyalty-and-righteousness",
+      "courage-and-boldness"
     ],
     "literal": "share · enemy · resist · anger",
     "natural": "united against a common enemy",
@@ -834,7 +843,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "cruelty-and-ruthlessness"
     ],
     "literal": "not · near · human · feeling",
     "natural": "unreasonable",

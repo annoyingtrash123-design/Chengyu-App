@@ -446,7 +446,8 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "conduct"
+      "conduct",
+      "honesty-and-integrity"
     ],
     "literal": "honest · keep · trust",
     "natural": "honest and trustworthy",
@@ -496,7 +497,8 @@
     "themes": [
       "positive-character-qualities",
       "relationships",
-      "essay-favourites"
+      "essay-favourites",
+      "kindness-and-generosity"
     ],
     "literal": "happy · to · help · others",
     "natural": "always glad to help",
@@ -542,7 +544,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "kindness-and-generosity"
     ],
     "literal": "heart · ground · kind",
     "natural": "kind-hearted",
@@ -592,7 +595,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "loyalty-and-righteousness",
+      "honesty-and-integrity"
     ],
     "literal": "loyal · honest",
     "natural": "loyal and honest",
@@ -637,7 +642,9 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "cunning-and-treachery",
+      "cruelty-and-ruthlessness"
     ],
     "literal": "sinister · cunning · deceitful",
     "natural": "sinister and crafty",
@@ -685,7 +692,8 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "cunning-and-treachery"
     ],
     "literal": "false · affected",
     "natural": "fake and affected",
@@ -779,7 +787,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "greed-and-selfishness"
     ],
     "literal": "heart · chest · narrow",
     "natural": "narrow-minded",
@@ -835,7 +844,8 @@
     "register": "casual",
     "themes": [
       "negative-character-flaws",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "greed-and-selfishness"
     ],
     "literal": "small · belly · chicken · guts",
     "natural": "petty",
@@ -888,7 +898,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "cruelty-and-ruthlessness"
     ],
     "literal": "cold · cruel · no · feeling",
     "natural": "cold and heartless",
