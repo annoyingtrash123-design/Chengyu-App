@@ -769,7 +769,8 @@
     "register": "casual",
     "themes": [
       "attitude-humble-vs-arrogant",
-      "three-kingdoms"
+      "three-kingdoms",
+      "useful-tools-and-skill"
     ],
     "literal": "Guan Gong · in front of · play · big · sword — self · not · weigh · strength",
     "natural": "showing off a halberd in front of Guan Yu",
@@ -792,7 +793,7 @@
       }
     ],
     "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Guan Gong (Guan Yu) was famed for his halberd. The idiom 班门弄斧 carries the same meaning.",
+      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Guan Gong (Guan Yu) was famed for his great blade, the guandao. The idiom 班门弄斧 carries the same meaning.",
       "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。关公（关羽）以大刀著称。成语“班门弄斧”意思相同。"
     },
     "synonyms": [
@@ -800,8 +801,15 @@
       "不自量力"
     ],
     "antonyms": [
-      "虚怀若谷"
-    ]
+      "虚怀若谷",
+      "虚心求教"
+    ],
+    "variants": [
+      "关公面前耍大刀"
+    ],
+    "variant_kinds": {
+      "关公面前耍大刀": "short"
+    }
   },
   {
     "id": "liu-bei-shuai-hai-zi-shou-mai-ren-xin",

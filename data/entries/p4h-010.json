@@ -489,12 +489,12 @@
   },
   {
     "id": "zhu-xiang-qian-gong-ji-zhu",
-    "text": "猪向前拱，鸡住后刨——各有各的门道",
-    "pinyin": "zhū xiàng qián gǒng, jī wǎng hòu páo —— gè yǒu gè de mén dào",
+    "text": "猪往前拱，鸡往后刨——各有各的门道",
+    "pinyin": "zhū wǎng qián gǒng, jī wǎng hòu páo —— gè yǒu gè de mén dào",
     "kind": "xiehouyu",
     "frequency": 3,
     "parts": [
-      "猪向前拱，鸡住后刨",
+      "猪往前拱，鸡往后刨",
       "各有各的门道"
     ],
     "sentiment": "neutral",
@@ -515,11 +515,11 @@
     ],
     "examples": [
       {
-        "zh": "猪向前拱，鸡住后刨，他们各有各的门道。",
+        "zh": "猪往前拱，鸡往后刨，他们各有各的门道。",
         "en": "Each of them has their own way of doing things."
       },
       {
-        "zh": "猪向前拱，鸡住后刨，别管人家怎么做。",
+        "zh": "猪往前拱，鸡往后刨，别管人家怎么做。",
         "en": "Never mind how others do it; each has their own method."
       }
     ],
@@ -534,7 +534,13 @@
     "antonyms": [
       "千篇一律",
       "如出一辙"
-    ]
+    ],
+    "variants": [
+      "猪往前拱，鸡往后刨"
+    ],
+    "variant_kinds": {
+      "猪往前拱，鸡往后刨": "short"
+    }
   },
   {
     "id": "zhu-tou-gua-zai-hua-jiao",
