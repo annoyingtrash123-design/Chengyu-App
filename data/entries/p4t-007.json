@@ -1,0 +1,1479 @@
+[
+  {
+    "id": "dong-you-xi-dang",
+    "text": "东游西荡",
+    "pinyin": "dōng yóu xī dàng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "laziness-and-giving-up",
+      "inappropriate-behavior"
+    ],
+    "literal": "east · wander · west · loaf about",
+    "natural": "wander about aimlessly",
+    "meaning": {
+      "en": "To wander here and there with no purpose or proper occupation.",
+      "zh": "到处闲逛，不做正事。"
+    },
+    "equivalents": [
+      "loaf about",
+      "knock about aimlessly"
+    ],
+    "examples": [
+      {
+        "zh": "他毕业后一直东游西荡，没找一份正经工作。",
+        "en": "Since graduating he has just drifted about without finding a proper job."
+      },
+      {
+        "zh": "放假了，孩子们整天在村里东游西荡。",
+        "en": "On holiday the children roam the village all day with nothing to do."
+      },
+      {
+        "zh": "别再东游西荡了，赶快回去复习功课。",
+        "en": "Stop idling about and go back to revise your lessons."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; disapproving and colloquial.",
+      "zh": "多作谓语，带贬义，口语色彩较强。"
+    },
+    "synonyms": [
+      "游手好闲",
+      "无所事事"
+    ],
+    "antonyms": [
+      "埋头苦干",
+      "安分守己"
+    ]
+  },
+  {
+    "id": "bin-ke-ru-yun",
+    "text": "宾客如云",
+    "pinyin": "bīn kè rú yún",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "joy-and-happiness",
+      "wedding-wishes"
+    ],
+    "literal": "guests · like · clouds",
+    "natural": "guests thick as clouds",
+    "meaning": {
+      "en": "Guests arrive in great numbers; a very lively gathering.",
+      "zh": "来的客人很多，像天上的云那样多。"
+    },
+    "equivalents": [
+      "a houseful of guests",
+      "a packed guest list"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼现场宾客如云，热闹非凡。",
+        "en": "The wedding was packed with guests and wonderfully lively."
+      },
+      {
+        "zh": "新店开业那天，门前宾客如云。",
+        "en": "On the day the new shop opened, guests crowded the entrance."
+      },
+      {
+        "zh": "他家的寿宴上宾客如云，连邻村的人都来了。",
+        "en": "His birthday banquet was thronged with guests, even people from the next village came."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; used for weddings, banquets and openings.",
+      "zh": "多作谓语、补语，用于婚宴、寿宴、开业等场合。"
+    },
+    "synonyms": [
+      "高朋满座",
+      "门庭若市"
+    ],
+    "antonyms": [
+      "门庭冷落",
+      "门可罗雀"
+    ]
+  },
+  {
+    "id": "zhou-fu-ye-xing",
+    "text": "昼伏夜行",
+    "pinyin": "zhòu fú yè xíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "夜行昼伏",
+      "昼伏夜出"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "animal-behavior-metaphors",
+      "daily-time-periods"
+    ],
+    "literal": "day · hide · night · move",
+    "natural": "hide by day and move at night",
+    "meaning": {
+      "en": "To stay hidden in the daytime and come out at night, as nocturnal animals do or as fugitives and thieves do.",
+      "zh": "白天隐藏起来，夜里出来活动。"
+    },
+    "equivalents": [
+      "nocturnal",
+      "lie low by day and move by night"
+    ],
+    "examples": [
+      {
+        "zh": "猫头鹰昼伏夜行，白天很难见到。",
+        "en": "Owls are nocturnal, so it is hard to see them in the daytime."
+      },
+      {
+        "zh": "逃犯昼伏夜行，躲了半个多月。",
+        "en": "The fugitive hid by day and travelled by night for over two weeks."
+      },
+      {
+        "zh": "游击队昼伏夜行，避开了敌人的搜捕。",
+        "en": "The guerrillas lay low by day and moved at night to avoid the enemy's search."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral for animals, often suspicious when said of people.",
+      "zh": "多作谓语；用于动物时中性，用于人时常带有躲藏的意味。"
+    },
+    "synonyms": [],
+    "antonyms": [
+      "日出而作"
+    ]
+  },
+  {
+    "id": "zi-chu-ji-zhu",
+    "text": "自出机杼",
+    "pinyin": "zì chū jī zhù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "innovation-and-progress",
+      "poems-prose",
+      "historical-records",
+      "wei-jin-nanbeichao"
+    ],
+    "literal": "self · produce · loom · shuttle",
+    "natural": "weave with one's own loom",
+    "meaning": {
+      "en": "To have one's own original style or ideas in writing and creative work, rather than imitating others.",
+      "zh": "比喻诗文的构思和布局有独创的风格，不模仿别人。"
+    },
+    "equivalents": [
+      "be original",
+      "find one's own voice"
+    ],
+    "examples": [
+      {
+        "zh": "这位作家的小说自出机杼，风格独特。",
+        "en": "This writer's novels are wholly original, with a distinctive style."
+      },
+      {
+        "zh": "设计师自出机杼，做出了与众不同的作品。",
+        "en": "The designer worked out something of her own and made a truly different piece."
+      },
+      {
+        "zh": "写文章要自出机杼，不要一味抄袭前人。",
+        "en": "In writing you should find your own voice instead of simply copying earlier authors."
+      }
+    ],
+    "origin": {
+      "source": "《魏书·祖莹传》",
+      "story": {
+        "en": "The Northern Wei scholar Zu Ying said that writing must 'come from one's own loom and form a style of one's own' (文章须自出机杼，成一家风骨), rather than borrow from others.",
+        "zh": "祖莹语：“文章须自出机杼，成一家风骨，何能共人同生活也！”"
+      },
+      "date": {
+        "zh": "北齐 · 554年",
+        "en": "Northern Qi, 554"
+      }
+    },
+    "usage": {
+      "en": "Predicate; used of writing, art and design. Literary and complimentary.",
+      "zh": "多作谓语，用于文章、艺术、设计，书面语，含褒义。"
+    },
+    "synonyms": [
+      "别出心裁",
+      "独具匠心",
+      "独树一帜"
+    ],
+    "antonyms": [
+      "人云亦云",
+      "千篇一律"
+    ]
+  },
+  {
+    "id": "du-juan-ti-xue",
+    "text": "杜鹃啼血",
+    "pinyin": "dù juān tí xuè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "myths-legends",
+      "poems-prose"
+    ],
+    "literal": "cuckoo · cry · blood",
+    "natural": "the cuckoo cries until it spits blood",
+    "meaning": {
+      "en": "Intense grief and sorrow; also a lament for a lost homeland or loved one.",
+      "zh": "传说杜鹃鸟啼叫到嘴里流血，比喻极其悲痛哀伤。"
+    },
+    "equivalents": [
+      "a heart-rending cry of grief",
+      "cry one's heart out"
+    ],
+    "examples": [
+      {
+        "zh": "读着他的绝笔诗，真让人感到杜鹃啼血般的悲痛。",
+        "en": "Reading his last poem, one feels a grief like the cuckoo crying blood."
+      },
+      {
+        "zh": "诗人以杜鹃啼血寄托对故国的思念。",
+        "en": "The poet used the bleeding cuckoo to express his longing for his lost homeland."
+      },
+      {
+        "zh": "母亲在灵前哭得杜鹃啼血，听者无不落泪。",
+        "en": "The mother wept at the coffin as if crying blood, and everyone who heard her shed tears."
+      }
+    ],
+    "usage": {
+      "en": "Mostly literary; used as predicate or as an image in poems and elegies.",
+      "zh": "多用于书面语，作谓语，或在诗文、悼词中作比喻。"
+    },
+    "synonyms": [
+      "悲痛欲绝",
+      "哀鸿遍野",
+      "泣血稽颡"
+    ],
+    "antonyms": [
+      "欢天喜地",
+      "喜笑颜开"
+    ]
+  },
+  {
+    "id": "dao-lu-yi-mu",
+    "text": "道路以目",
+    "pinyin": "dào lù yǐ mù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "political-corruption",
+      "public-opinion",
+      "poor-speech-and-silence",
+      "historical-records",
+      "pre-qin"
+    ],
+    "literal": "road · on the road · with · eyes",
+    "natural": "exchange glances in the street",
+    "meaning": {
+      "en": "People dare not speak and can only exchange glances on the road; a sign of harsh, tyrannical rule.",
+      "zh": "路上相遇，不敢交谈，只能以目光示意，形容统治者暴虐、人民不敢说话。"
+    },
+    "equivalents": [
+      "people dare not speak",
+      "a reign of fear"
+    ],
+    "examples": [
+      {
+        "zh": "暴君当政时，百姓道路以目，不敢议论朝政。",
+        "en": "Under the tyrant the people dared not speak and only exchanged glances in the streets."
+      },
+      {
+        "zh": "在高压统治下，人们道路以目，整个城市死气沉沉。",
+        "en": "Under heavy repression people kept silent, and the whole city seemed lifeless."
+      },
+      {
+        "zh": "历史告诉我们，道路以目的社会是不会长久的。",
+        "en": "History tells us that a society where people dare not speak cannot last."
+      }
+    ],
+    "origin": {
+      "source": "《国语·周语上》",
+      "story": {
+        "en": "Under King Li of Zhou, who silenced criticism, the Guoyu records that the people 'dared not speak and could only exchange glances on the road' (国人莫敢言，道路以目).",
+        "zh": "《国语·周语上》记周厉王暴虐，禁止人们议论：“国人莫敢言，道路以目。”"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Predicate; criticises oppressive rule and suppression of speech.",
+      "zh": "多作谓语，用于批评暴政与压制言论。"
+    },
+    "synonyms": [
+      "敢怒不敢言",
+      "万马齐喑",
+      "噤若寒蝉"
+    ],
+    "antonyms": [
+      "畅所欲言",
+      "众口一词"
+    ]
+  },
+  {
+    "id": "du-pai-zhong-yi",
+    "text": "独排众议",
+    "pinyin": "dú pái zhòng yì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "positive-character-qualities"
+    ],
+    "literal": "alone · push aside · many · opinions",
+    "natural": "alone against the crowd's opinion",
+    "meaning": {
+      "en": "To stand alone against the views of everyone else and hold one's own position.",
+      "zh": "一个人排除众人的不同意见，坚持自己的主张。"
+    },
+    "equivalents": [
+      "go against the consensus",
+      "overrule all objections"
+    ],
+    "examples": [
+      {
+        "zh": "总经理独排众议，坚持推行这项改革。",
+        "en": "The general manager overrode all objections and pushed this reform through."
+      },
+      {
+        "zh": "他独排众议，认为这座老桥应该保留。",
+        "en": "Going against everyone else, he held that the old bridge should stay."
+      },
+      {
+        "zh": "当年她独排众议，选择了这条冷门的研究路线。",
+        "en": "Back then she defied the consensus and chose this unfashionable line of research."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; neutral to positive, depending on whether the stand proves right.",
+      "zh": "多作谓语，褒贬视情况而定，常带肯定色彩。"
+    },
+    "synonyms": [
+      "一意孤行",
+      "固执己见"
+    ],
+    "antonyms": [
+      "从善如流",
+      "随声附和"
+    ]
+  },
+  {
+    "id": "she-ji-wei-gong",
+    "text": "舍己为公",
+    "pinyin": "shě jǐ wèi gōng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-character",
+      "positive-character-qualities"
+    ],
+    "literal": "give up · self · for · public good",
+    "natural": "sacrifice oneself for the public good",
+    "meaning": {
+      "en": "To give up personal interests for the sake of the public or the collective.",
+      "zh": "舍弃个人利益，为了集体或大众的利益。"
+    },
+    "equivalents": [
+      "put the public good first",
+      "selfless devotion"
+    ],
+    "examples": [
+      {
+        "zh": "老村长舍己为公，把自家的田让出来修了水渠。",
+        "en": "The old village head gave up his own field to build the irrigation channel."
+      },
+      {
+        "zh": "消防员舍己为公的精神感动了全城。",
+        "en": "The firefighters' spirit of self-sacrifice moved the whole city."
+      },
+      {
+        "zh": "他舍己为公，从不计较个人得失。",
+        "en": "He puts the common good first and never counts his own gains and losses."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; commendatory, formal.",
+      "zh": "多作谓语、定语，含褒义，较正式。"
+    },
+    "synonyms": [
+      "大公无私",
+      "先人后己",
+      "公而忘私"
+    ],
+    "antonyms": [
+      "损公肥私",
+      "自私自利"
+    ]
+  },
+  {
+    "id": "ren-qi-wo-qu",
+    "text": "人弃我取",
+    "pinyin": "rén qì wǒ qǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "adaptability",
+      "standards-and-benchmarks",
+      "historical-records",
+      "qin-han"
+    ],
+    "literal": "others · discard · I · take",
+    "natural": "what others discard, I take",
+    "meaning": {
+      "en": "To buy up what others reject; to take a different course from the crowd, often to profit.",
+      "zh": "别人抛弃的东西我收取，指见解与众不同、反其道而行。"
+    },
+    "equivalents": [
+      "buy when others sell",
+      "go against the crowd"
+    ],
+    "examples": [
+      {
+        "zh": "他奉行人弃我取的原则，在低谷时买下了这家公司。",
+        "en": "Following the rule of taking what others discard, he bought this company at its low point."
+      },
+      {
+        "zh": "人弃我取，这种逆向投资往往需要很大的勇气。",
+        "en": "Taking what others discard, this kind of contrarian investing often takes great courage."
+      },
+      {
+        "zh": "别人都放弃的项目，他人弃我取，竟然做成了。",
+        "en": "He took on the project everyone else gave up, and made it work."
+      }
+    ],
+    "origin": {
+      "source": "《史记·货殖列传》",
+      "story": {
+        "en": "In the biography of merchants, the businessman Bai Gui is said to have followed the rule 'I take what others discard, and give what others take' (人弃我取，人取我与).",
+        "zh": "《史记·货殖列传》记白圭经商的原则：“人弃我取，人取我与。”"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    },
+    "usage": {
+      "en": "Predicate or clause; common in business and investing, often paired with 人取我与.",
+      "zh": "多作谓语或分句，常用于经商、投资，常与“人取我与”连用。"
+    },
+    "synonyms": [
+      "别具慧眼"
+    ],
+    "antonyms": [
+      "随波逐流",
+      "人云亦云"
+    ]
+  },
+  {
+    "id": "wai-fang-nei-yuan",
+    "text": "外方内圆",
+    "pinyin": "wài fāng nèi yuán",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "deception-and-false-appearances"
+    ],
+    "literal": "outside · square · inside · round",
+    "natural": "square outside, round inside",
+    "meaning": {
+      "en": "Looking upright and principled outwardly, but being smooth and accommodating in reality.",
+      "zh": "外表方正，内心圆滑，指表面正直而实际处世圆滑。"
+    },
+    "equivalents": [
+      "upright in appearance, slippery within",
+      "a show of principle"
+    ],
+    "examples": [
+      {
+        "zh": "他看似外方内圆，其实比谁都会见风使舵。",
+        "en": "He looks upright but is really slippery and trims his sails better than anyone."
+      },
+      {
+        "zh": "此人外方内圆，很难让人信任。",
+        "en": "This man is principled only on the surface and is hard to trust."
+      },
+      {
+        "zh": "外方内圆的处世方式，在职场上并不少见。",
+        "en": "Being upright outside and flexible inside is not rare in the workplace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; note it is NOT the same as 外圆内方 (smooth outside, principled inside), which is its opposite and is praise.",
+      "zh": "多作谓语、定语；注意与褒义的“外圆内方”意思相反。"
+    },
+    "synonyms": [
+      "表里不一",
+      "口蜜腹剑"
+    ],
+    "antonyms": [
+      "表里如一",
+      "心口如一"
+    ]
+  },
+  {
+    "id": "luo-luo-da-zhe",
+    "text": "荦荦大者",
+    "pinyin": "luò luò dà zhě",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "standards-and-benchmarks",
+      "essay-favourites"
+    ],
+    "literal": "prominent · prominent · big · ones",
+    "natural": "the most prominent ones",
+    "meaning": {
+      "en": "The most important and obvious items among many.",
+      "zh": "明显的、重要的方面；指众多事物中最突出的几项。"
+    },
+    "equivalents": [
+      "the main points",
+      "the most salient ones"
+    ],
+    "examples": [
+      {
+        "zh": "这本书讲了许多问题，这里只谈荦荦大者。",
+        "en": "The book covers many questions; here I only discuss the major ones."
+      },
+      {
+        "zh": "他在报告里只列举了荦荦大者，细节另附说明。",
+        "en": "In the report he listed only the key points, with details attached separately."
+      },
+      {
+        "zh": "这座古城名胜很多，荦荦大者有三处。",
+        "en": "The old city has many sights, and the most outstanding are three."
+      }
+    ],
+    "usage": {
+      "en": "Used as object or subject; mainly in formal writing, often after 举 or 言.",
+      "zh": "作宾语或主语；多见于书面语，常与“举”“言”等搭配。"
+    },
+    "synonyms": [
+      "举足轻重"
+    ],
+    "antonyms": [
+      "细枝末节"
+    ]
+  },
+  {
+    "id": "zuan-xin-ci-gu",
+    "text": "钻心刺骨",
+    "pinyin": "zuān xīn cì gǔ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "illness-and-disease",
+      "psychological-pressure"
+    ],
+    "literal": "bore into · heart · pierce · bone",
+    "natural": "bores into the heart and pierces the bone",
+    "meaning": {
+      "en": "Pain or cold so intense that it seems to pierce the heart and bones.",
+      "zh": "形容疼痛或寒冷极其剧烈，深入心骨。"
+    },
+    "equivalents": [
+      "bone-piercing",
+      "excruciating"
+    ],
+    "examples": [
+      {
+        "zh": "伤口的疼痛钻心刺骨，他咬紧牙关一声不吭。",
+        "en": "The wound hurt excruciatingly, but he clenched his teeth and said nothing."
+      },
+      {
+        "zh": "北风钻心刺骨，行人都裹紧了大衣。",
+        "en": "The north wind cut to the bone and passers-by wrapped their coats tight."
+      },
+      {
+        "zh": "听到这个消息，她感到一阵钻心刺骨的痛。",
+        "en": "On hearing the news she felt a piercing pain."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for physical pain, cold or deep distress.",
+      "zh": "多作谓语、定语，形容身体的痛、寒冷或内心的痛苦。"
+    },
+    "synonyms": [
+      "痛彻心扉",
+      "痛入骨髓"
+    ],
+    "antonyms": [
+      "隔靴搔痒",
+      "不痛不痒"
+    ]
+  },
+  {
+    "id": "zhi-ren-bu-hui",
+    "text": "直认不讳",
+    "pinyin": "zhí rèn bù huì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "frankness-and-candour",
+      "mistakes-and-correction"
+    ],
+    "literal": "directly · admit · not · conceal",
+    "natural": "admit it openly without concealment",
+    "meaning": {
+      "en": "To admit something frankly without trying to hide it.",
+      "zh": "坦率地承认，毫不隐瞒。"
+    },
+    "equivalents": [
+      "admit it frankly",
+      "own up openly"
+    ],
+    "examples": [
+      {
+        "zh": "面对记者的提问，他对自己的错误直认不讳。",
+        "en": "Asked by reporters, he admitted his mistakes without concealment."
+      },
+      {
+        "zh": "犯罪嫌疑人对作案经过直认不讳。",
+        "en": "The suspect frankly admitted how the crime was committed."
+      },
+      {
+        "zh": "她直认不讳，当初的决定确实是个失误。",
+        "en": "She admitted openly that the original decision had indeed been a mistake."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often followed by an object clause; formal, common in news and legal contexts.",
+      "zh": "多作谓语，后常带宾语或小句；较正式，常见于新闻与法律语境。"
+    },
+    "synonyms": [
+      "和盘托出"
+    ],
+    "antonyms": [
+      "矢口否认",
+      "遮遮掩掩"
+    ]
+  },
+  {
+    "id": "bai-guan-ye-shi",
+    "text": "稗官野史",
+    "pinyin": "bài guān yě shǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "reading-and-study",
+      "stories"
+    ],
+    "literal": "petty official · unofficial · history",
+    "natural": "gossipy chronicles and unofficial histories",
+    "meaning": {
+      "en": "Unofficial histories and anecdotal writings, as opposed to the formal state histories.",
+      "zh": "指记载民间传闻、轶事的非正式史书和笔记小说。"
+    },
+    "equivalents": [
+      "unofficial histories",
+      "anecdotal chronicles"
+    ],
+    "examples": [
+      {
+        "zh": "这个故事多半出自稗官野史，不能当作信史。",
+        "en": "This story mostly comes from unofficial chronicles and cannot be taken as reliable history."
+      },
+      {
+        "zh": "他爱读稗官野史，对历史上的轶闻如数家珍。",
+        "en": "He loves reading anecdotal histories and knows the historical gossip by heart."
+      },
+      {
+        "zh": "稗官野史虽然不够严谨，却保留了不少生动的细节。",
+        "en": "Though unrigorous, unofficial histories preserve many lively details."
+      }
+    ],
+    "usage": {
+      "en": "Noun; used when discussing the reliability of sources.",
+      "zh": "名词；常在讨论史料可靠性时使用。"
+    },
+    "synonyms": [
+      "街谈巷议"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "e-sheng-e-qi",
+    "text": "恶声恶气",
+    "pinyin": "è shēng è qì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "anger"
+    ],
+    "literal": "nasty · voice · nasty · tone",
+    "natural": "a nasty voice and tone",
+    "meaning": {
+      "en": "To speak in a harsh, rude and angry manner.",
+      "zh": "说话声音粗暴，态度凶恶。"
+    },
+    "equivalents": [
+      "speak harshly",
+      "in a nasty tone"
+    ],
+    "examples": [
+      {
+        "zh": "他恶声恶气地问：“你到底干不干？”",
+        "en": "'Are you going to do it or not?' he demanded in a nasty tone."
+      },
+      {
+        "zh": "有话好好说，别对孩子恶声恶气的。",
+        "en": "Say it nicely; don't snap at the child like that."
+      },
+      {
+        "zh": "售货员恶声恶气，顾客转身就走了。",
+        "en": "The shop assistant was rude and harsh, and the customer simply turned and left."
+      }
+    ],
+    "usage": {
+      "en": "Usually adverbial before 地 + a speech verb, or as predicate; disapproving, colloquial.",
+      "zh": "常作状语（后加“地”和说话动词）或谓语；带贬义，口语。"
+    },
+    "synonyms": [
+      "恶语相向",
+      "出言不逊",
+      "凶神恶煞"
+    ],
+    "antonyms": [
+      "和颜悦色",
+      "轻声细语"
+    ]
+  },
+  {
+    "id": "chang-le-wei-yang",
+    "text": "长乐未央",
+    "pinyin": "cháng lè wèi yāng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "festive-greetings",
+      "joy-and-happiness"
+    ],
+    "literal": "long · joy · not yet · end",
+    "natural": "lasting joy that never ends",
+    "meaning": {
+      "en": "May joy last for ever; a traditional wish for lasting happiness.",
+      "zh": "长久快乐，没有尽头；多作祝福语。"
+    },
+    "equivalents": [
+      "everlasting joy",
+      "may happiness never end"
+    ],
+    "examples": [
+      {
+        "zh": "瓦当上刻着“长乐未央”四个字，寓意吉祥。",
+        "en": "The roof tile bears the four characters for 'joy without end', an auspicious wish."
+      },
+      {
+        "zh": "新年到来，愿大家长乐未央。",
+        "en": "As the new year comes, may everyone enjoy lasting happiness."
+      },
+      {
+        "zh": "这方砚台刻有“长乐未央”，是汉代的遗物。",
+        "en": "This inkstone is carved with 'lasting joy', a relic from the Han dynasty."
+      }
+    ],
+    "usage": {
+      "en": "Used as a blessing or on inscriptions, tiles and mirrors; literary and auspicious.",
+      "zh": "多用作祝福语，或见于瓦当、铜镜等铭文；书面、吉祥语。"
+    },
+    "synonyms": [
+      "万寿无疆",
+      "幸福安康"
+    ],
+    "antonyms": [
+      "乐极生悲"
+    ]
+  },
+  {
+    "id": "nang-zhong-qu-wu",
+    "text": "囊中取物",
+    "pinyin": "náng zhōng qǔ wù",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "successful-completion"
+    ],
+    "literal": "bag · inside · take · thing",
+    "natural": "take something out of one's bag",
+    "meaning": {
+      "en": "As easy as taking something from one's own bag; a task that is certain to succeed with no effort.",
+      "zh": "像从口袋里拿东西一样容易，比喻事情很容易办到。"
+    },
+    "equivalents": [
+      "a piece of cake",
+      "as easy as pie"
+    ],
+    "examples": [
+      {
+        "zh": "对他来说，赢下这场比赛简直是囊中取物。",
+        "en": "For him, winning this match is simply a walkover."
+      },
+      {
+        "zh": "这个项目已经谈得差不多了，拿下来如同囊中取物。",
+        "en": "The project is almost settled, and winning it will be like picking it from a bag."
+      },
+      {
+        "zh": "别以为囊中取物那么简单，对手也很强。",
+        "en": "Don't think it is as easy as taking something from a bag; the opponent is strong too."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; informal-neutral, can be slightly overconfident.",
+      "zh": "多作谓语、补语；中性偏口语，有时带有轻敌的意味。"
+    },
+    "synonyms": [
+      "探囊取物",
+      "易如反掌",
+      "唾手可得"
+    ],
+    "antonyms": [
+      "难于登天",
+      "谈何容易"
+    ]
+  },
+  {
+    "id": "jin-de-xiu-ye",
+    "text": "进德修业",
+    "pinyin": "jìn dé xiū yè",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "apprenticeship-and-learning",
+      "confucian-classics",
+      "pre-qin"
+    ],
+    "literal": "advance · virtue · cultivate · work",
+    "natural": "improve one's virtue and cultivate one's work",
+    "meaning": {
+      "en": "To keep improving one's moral character and one's studies or career.",
+      "zh": "提高品德，建树功业或学业。"
+    },
+    "equivalents": [
+      "cultivate virtue and craft",
+      "improve oneself morally and professionally"
+    ],
+    "examples": [
+      {
+        "zh": "校训要求学生进德修业，做有用之人。",
+        "en": "The school motto asks students to build character and knowledge and become useful people."
+      },
+      {
+        "zh": "先贤教导我们要进德修业，不可荒废时日。",
+        "en": "The sages taught us to improve our virtue and work, and not waste our days."
+      },
+      {
+        "zh": "他一生进德修业，受到学生们的敬重。",
+        "en": "He spent his life improving his character and work and was respected by his students."
+      }
+    ],
+    "origin": {
+      "source": "《周易·乾·文言》",
+      "story": {
+        "en": "The Wenyan commentary on the Qian hexagram says 'The gentleman advances in virtue and cultivates his work' (君子进德修业).",
+        "zh": "《周易·乾·文言》：“君子进德修业。”"
+      },
+      "date": {
+        "zh": "战国 · 前4—前3世纪",
+        "en": "Warring States, 4th–3rd c. BC"
+      }
+    },
+    "usage": {
+      "en": "Predicate; formal, often seen in mottos and speeches.",
+      "zh": "多作谓语；较正式，常见于校训、演讲。"
+    },
+    "synonyms": [
+      "修身养性"
+    ],
+    "antonyms": [
+      "不学无术",
+      "自甘堕落"
+    ]
+  },
+  {
+    "id": "ke-ji-shen-xing",
+    "text": "克己慎行",
+    "pinyin": "kè jǐ shèn xíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "conduct"
+    ],
+    "literal": "restrain · self · careful · conduct",
+    "natural": "restrain oneself and act with care",
+    "meaning": {
+      "en": "To discipline oneself and act with caution.",
+      "zh": "约束自己，谨慎行事。"
+    },
+    "equivalents": [
+      "exercise self-restraint",
+      "act with discipline and care"
+    ],
+    "examples": [
+      {
+        "zh": "身为公职人员，应当克己慎行，接受监督。",
+        "en": "As a public servant one should be self-disciplined and careful, and accept oversight."
+      },
+      {
+        "zh": "他克己慎行，从不在小事上马虎。",
+        "en": "He keeps himself in check and acts carefully, never careless even in small things."
+      },
+      {
+        "zh": "父亲常教导我们要克己慎行。",
+        "en": "Father often taught us to restrain ourselves and act with care."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, moralising.",
+      "zh": "多作谓语；较正式，有劝诫意味。"
+    },
+    "synonyms": [
+      "谨言慎行",
+      "洁身自好",
+      "克己奉公"
+    ],
+    "antonyms": [
+      "肆无忌惮",
+      "放荡不羁"
+    ]
+  },
+  {
+    "id": "kui-ran-chang-tan",
+    "text": "喟然长叹",
+    "pinyin": "kuì rán cháng tàn",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "complex-emotional-states"
+    ],
+    "literal": "sighing · -ly · long · sigh",
+    "natural": "give a long sigh",
+    "meaning": {
+      "en": "To heave a long, deep sigh out of feeling or regret.",
+      "zh": "深深地叹一口长气，形容感慨或惋惜。"
+    },
+    "equivalents": [
+      "heave a long sigh",
+      "sigh deeply"
+    ],
+    "examples": [
+      {
+        "zh": "看着旧照片，他喟然长叹，往事如在眼前。",
+        "en": "Looking at the old photos he sighed deeply, the past seeming to stand before him."
+      },
+      {
+        "zh": "老人望着荒芜的田地，喟然长叹。",
+        "en": "The old man gazed at the wasted fields and gave a long sigh."
+      },
+      {
+        "zh": "听完这番话，她喟然长叹，不再言语。",
+        "en": "After hearing this she sighed long and said no more."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, mostly in narrative; literary.",
+      "zh": "多作谓语，常用于叙事；书面语。"
+    },
+    "synonyms": [
+      "长吁短叹",
+      "唉声叹气"
+    ],
+    "antonyms": [
+      "欢呼雀跃",
+      "眉开眼笑"
+    ]
+  },
+  {
+    "id": "chi-ying-bao-tai",
+    "text": "持盈保泰",
+    "pinyin": "chí yíng bǎo tài",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "peace-and-prosperity",
+      "natural-consequences"
+    ],
+    "literal": "hold · fullness · preserve · peace",
+    "natural": "keep what is full and safeguard peace",
+    "meaning": {
+      "en": "To keep one's success and prosperity safe by staying cautious and not overreaching.",
+      "zh": "在事业兴盛、富足时小心谨慎，以保持安定繁荣。"
+    },
+    "equivalents": [
+      "safeguard one's achievements",
+      "stay prudent in prosperity"
+    ],
+    "examples": [
+      {
+        "zh": "企业越是顺利，越要持盈保泰，防止盲目扩张。",
+        "en": "The smoother a business runs, the more it must stay prudent and avoid blind expansion."
+      },
+      {
+        "zh": "他深知持盈保泰的道理，从不张扬。",
+        "en": "He knows well how to preserve prosperity and never shows off."
+      },
+      {
+        "zh": "国家富强之后，更须持盈保泰。",
+        "en": "After a country becomes prosperous it must be all the more careful to keep it safe."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal and slightly archaic; used in advice.",
+      "zh": "多作谓语；较正式，略带古意，用于劝诫。"
+    },
+    "synonyms": [
+      "居安思危"
+    ],
+    "antonyms": [
+      "得意忘形",
+      "骄奢淫逸"
+    ]
+  },
+  {
+    "id": "si-shi-ba-jie",
+    "text": "四时八节",
+    "pinyin": "sì shí bā jié",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "festivals-and-celebrations"
+    ],
+    "literal": "four · seasons · eight · solar terms",
+    "natural": "the four seasons and eight seasonal junctures",
+    "meaning": {
+      "en": "All the seasons and festivals of the year; at all times of the year.",
+      "zh": "指一年四季和各个节气、节日，泛指一年到头。"
+    },
+    "equivalents": [
+      "all year round",
+      "through every season and festival"
+    ],
+    "examples": [
+      {
+        "zh": "四时八节，他都不忘给老母亲寄东西。",
+        "en": "Through every season and festival he never forgot to send things to his old mother."
+      },
+      {
+        "zh": "这里四时八节都有鲜花盛开。",
+        "en": "Here flowers bloom in every season and at every festival."
+      },
+      {
+        "zh": "四时八节的习俗，反映了农耕社会的生活。",
+        "en": "The customs of the seasons and festivals reflect life in a farming society."
+      }
+    ],
+    "usage": {
+      "en": "Mostly adverbial or attributive; the eight 节 are the start of each season, the equinoxes and the solstices.",
+      "zh": "多作状语、定语；“八节”指立春、春分、立夏、夏至、立秋、秋分、立冬、冬至。"
+    },
+    "synonyms": [
+      "一年到头",
+      "春夏秋冬"
+    ],
+    "antonyms": [
+      "一时半刻"
+    ]
+  },
+  {
+    "id": "ren-lai-ke-wang",
+    "text": "人来客往",
+    "pinyin": "rén lái kè wǎng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "joy-and-happiness",
+      "family-and-home"
+    ],
+    "literal": "people · come · guests · go",
+    "natural": "people and guests coming and going",
+    "meaning": {
+      "en": "A constant stream of visitors, so the place is lively and busy.",
+      "zh": "来来往往的客人很多，形容很热闹。"
+    },
+    "equivalents": [
+      "a steady stream of visitors",
+      "always busy with visitors"
+    ],
+    "examples": [
+      {
+        "zh": "春节期间，老宅里人来客往，十分热闹。",
+        "en": "During the Spring Festival the old house buzzed with visitors."
+      },
+      {
+        "zh": "他的小店人来客往，生意红火。",
+        "en": "His little shop is full of comings and goings and business is brisk."
+      },
+      {
+        "zh": "医生办公室一整天人来客往，没有片刻清静。",
+        "en": "The doctor's office saw a stream of visitors all day, without a moment's peace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; casual and lively.",
+      "zh": "多作谓语、定语；口语色彩，气氛热闹。"
+    },
+    "synonyms": [
+      "宾客如云",
+      "川流不息",
+      "门庭若市"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "门庭冷落"
+    ]
+  },
+  {
+    "id": "hu-kou-tao-sheng",
+    "text": "虎口逃生",
+    "pinyin": "hǔ kǒu táo shēng",
+    "kind": "chengyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "comebacks-and-renewal"
+    ],
+    "literal": "tiger · mouth · escape · life",
+    "natural": "escape from the tiger's mouth",
+    "meaning": {
+      "en": "To escape from great danger with one's life.",
+      "zh": "从老虎嘴里逃出来，比喻脱离极危险的境地。"
+    },
+    "equivalents": [
+      "escape by the skin of one's teeth",
+      "have a narrow escape"
+    ],
+    "examples": [
+      {
+        "zh": "矿工们虎口逃生，全部安全升井。",
+        "en": "The miners escaped death and all came safely to the surface."
+      },
+      {
+        "zh": "他在地震中虎口逃生，至今心有余悸。",
+        "en": "He had a narrow escape in the earthquake and still feels shaken."
+      },
+      {
+        "zh": "这次虎口逃生的经历让她懂得了生命的可贵。",
+        "en": "The experience of escaping from deadly danger taught her how precious life is."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; used for accidents, disasters, crime.",
+      "zh": "多作谓语、定语，用于事故、灾难、犯罪等场合。"
+    },
+    "synonyms": [
+      "死里逃生",
+      "九死一生",
+      "绝处逢生"
+    ],
+    "antonyms": [
+      "自投罗网",
+      "束手待毙"
+    ]
+  },
+  {
+    "id": "bu-shi-da-ti",
+    "text": "不识大体",
+    "pinyin": "bù shí dà tǐ",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · understand · overall · situation",
+    "natural": "not see the big picture",
+    "meaning": {
+      "en": "To lack a sense of the larger interests and proper conduct; to be short-sighted and unreasonable.",
+      "zh": "不懂得从大局着想，不明白事理。"
+    },
+    "equivalents": [
+      "not see the bigger picture",
+      "be unreasonable and short-sighted"
+    ],
+    "examples": [
+      {
+        "zh": "为了一点小事争吵，未免太不识大体了。",
+        "en": "To quarrel over a trifle is rather short-sighted."
+      },
+      {
+        "zh": "他不识大体，在会议上公开顶撞领导。",
+        "en": "He lacks a sense of proportion and openly contradicted the leader at the meeting."
+      },
+      {
+        "zh": "大家都在帮忙，你却闹情绪，真是不识大体。",
+        "en": "Everyone is helping out and you are sulking; you really don't see the bigger picture."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; critical; fairly formal, but common in daily speech.",
+      "zh": "多作谓语；批评口气，书面口语都常用。"
+    },
+    "synonyms": [
+      "不顾大局",
+      "目光短浅",
+      "不明事理"
+    ],
+    "antonyms": [
+      "顾全大局",
+      "深明大义"
+    ]
+  },
+  {
+    "id": "ju-gong-jue-wei",
+    "text": "居功厥伟",
+    "pinyin": "jū gōng jué wěi",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "news-and-officialese"
+    ],
+    "literal": "occupy · merit · his · great",
+    "natural": "his merit is the greatest",
+    "meaning": {
+      "en": "To have made the greatest contribution among many.",
+      "zh": "在功劳中位居前列，贡献最大。"
+    },
+    "equivalents": [
+      "deserve the lion's share of the credit",
+      "have contributed most"
+    ],
+    "examples": [
+      {
+        "zh": "这次比赛获胜，教练居功厥伟。",
+        "en": "The coach deserves the greatest credit for winning this match."
+      },
+      {
+        "zh": "在项目攻关中，几位年轻工程师居功厥伟。",
+        "en": "In tackling the project, several young engineers contributed the most."
+      },
+      {
+        "zh": "她为公司发展居功厥伟，理应获得表彰。",
+        "en": "She has contributed enormously to the company's growth and deserves recognition."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal praise, common in news and speeches. 厥 = 其 (his/its).",
+      "zh": "多作谓语；正式褒扬语，常见于新闻、讲话。“厥”意为“其”。"
+    },
+    "synonyms": [
+      "功不可没",
+      "功勋卓著",
+      "汗马功劳"
+    ],
+    "antonyms": [
+      "一无是处"
+    ]
+  },
+  {
+    "id": "ling-chu-ru-shan",
+    "text": "令出如山",
+    "pinyin": "lìng chū rú shān",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "military-strategy-and-victory"
+    ],
+    "literal": "order · issued · like · mountain",
+    "natural": "an order as firm as a mountain",
+    "meaning": {
+      "en": "Once an order is given it is as unshakable as a mountain; it must be carried out.",
+      "zh": "命令一经发出，就像山一样不可动摇，必须执行。"
+    },
+    "equivalents": [
+      "orders are not to be questioned",
+      "an order is an order"
+    ],
+    "examples": [
+      {
+        "zh": "军队令出如山，谁也不敢违抗。",
+        "en": "In the army orders stand like mountains, and nobody dares to disobey."
+      },
+      {
+        "zh": "队长令出如山，大家立即行动起来。",
+        "en": "The captain's orders carry weight, and everyone moved at once."
+      },
+      {
+        "zh": "公司规定令出如山，不得拖延。",
+        "en": "Company rules are firm as a mountain, with no delay allowed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often paired with 军令如山; authority and discipline.",
+      "zh": "多作谓语；常与“军令如山”相近使用，强调权威与纪律。"
+    },
+    "synonyms": [
+      "军令如山",
+      "令行禁止",
+      "说一不二"
+    ],
+    "antonyms": [
+      "朝令夕改",
+      "有令不行"
+    ]
+  },
+  {
+    "id": "ling-chu-bi-xing",
+    "text": "令出必行",
+    "pinyin": "lìng chū bì xíng",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "good-governance"
+    ],
+    "literal": "order · issued · must · be carried out",
+    "natural": "orders issued must be carried out",
+    "meaning": {
+      "en": "Once an order is issued it must be carried out without fail.",
+      "zh": "命令一旦发出，就必须执行。"
+    },
+    "equivalents": [
+      "orders must be obeyed",
+      "what is ordered is done"
+    ],
+    "examples": [
+      {
+        "zh": "新规定令出必行，违者一律处理。",
+        "en": "The new rule must be carried out, and violators will be dealt with."
+      },
+      {
+        "zh": "这支队伍纪律严明，令出必行。",
+        "en": "This team is strictly disciplined and orders are always carried out."
+      },
+      {
+        "zh": "政府强调令出必行，杜绝推诿拖延。",
+        "en": "The government stressed that orders must be implemented and passing the buck stopped."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, used for discipline and government work; close to 令行禁止.",
+      "zh": "多作谓语；较正式，用于纪律和行政工作，与“令行禁止”相近。"
+    },
+    "synonyms": [
+      "令行禁止",
+      "令出如山",
+      "言出法随"
+    ],
+    "antonyms": [
+      "有令不行",
+      "朝令夕改"
+    ]
+  },
+  {
+    "id": "qie-fu-jiang-chu",
+    "text": "挈妇将雏",
+    "pinyin": "qiè fù jiāng chú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "family-and-home",
+      "journeys-and-exploration"
+    ],
+    "literal": "lead · wife · take along · young children",
+    "natural": "taking wife and children along",
+    "meaning": {
+      "en": "To travel or move house with one's whole family, wife and young children in tow.",
+      "zh": "带着妻子和儿女，指举家迁移或出行。"
+    },
+    "equivalents": [
+      "with the whole family in tow",
+      "taking the wife and kids along"
+    ],
+    "examples": [
+      {
+        "zh": "灾荒之年，许多人挈妇将雏，离乡逃难。",
+        "en": "In the famine year many people left home with their wives and children."
+      },
+      {
+        "zh": "他挈妇将雏来到南方谋生。",
+        "en": "He came south to make a living with his wife and children in tow."
+      },
+      {
+        "zh": "车站里挈妇将雏的旅客挤满了候车室。",
+        "en": "The waiting room was full of travellers with their families in tow."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; literary, describes hardship of moving a family.",
+      "zh": "多作谓语、定语；书面语，常含奔波辛苦之意。"
+    },
+    "synonyms": [
+      "扶老携幼",
+      "拖家带口"
+    ],
+    "antonyms": [
+      "孑然一身",
+      "形单影只"
+    ]
+  }
+]

@@ -59,13 +59,12 @@ pub struct Question {
 }
 
 const BLANK: &str = "＿";
-const MASK: char = '〇';
 
-/// Hide the expression's own characters in a Chinese prompt so the meaning doesn't
-/// give the answer away (亡羊补牢: "羊丢了再去修补羊圈" → "〇丢了再去修〇〇圈").
-pub fn mask_answer(prompt: &str, e: &Entry) -> String {
+/// Does a Chinese prompt give the answer away by quoting two or more of its characters in a row?
+/// (Single shared characters are fine; masking them made prompts unreadable.)
+pub fn gives_away(prompt: &str, e: &Entry) -> bool {
     let chars = e.chars();
-    prompt.chars().map(|c| if chars.contains(&c) { MASK } else { c }).collect()
+    chars.windows(2).any(|w| prompt.contains(&w.iter().collect::<String>()))
 }
 
 /// Other entries ranked as plausible distractors for `e` (same kind, shared
@@ -164,8 +163,11 @@ pub fn make_question(
     let pool = distractor_entries(dict, e, rng);
     match kind {
         QuestionKind::MeaningToIdiom => {
+            if gives_away(&e.meaning.zh, e) {
+                return None;
+            }
             let d = top_texts(&pool, 3, rng, |o| o.text.clone());
-            finish(kind, e, mask_answer(&e.meaning.zh, e), Some(e.meaning.en.clone()), e.text.clone(), d, rng)
+            finish(kind, e, e.meaning.zh.clone(), Some(e.meaning.en.clone()), e.text.clone(), d, rng)
         }
         QuestionKind::IdiomToMeaning => {
             let d = top_texts(&pool, 3, rng, |o| meaning(o, lang));
@@ -317,11 +319,12 @@ mod tests {
     }
 
     #[test]
-    fn meaning_prompts_do_not_contain_answer_characters() {
+    fn meaning_prompts_do_not_give_the_answer_away() {
         let d = Dictionary::embedded();
         for q in generate(&d, &all_ids(&d), &[QuestionKind::MeaningToIdiom], 40, Lang::En, 5) {
             let e = d.get(&q.entry_id).unwrap();
-            assert!(e.chars().iter().all(|c| !q.prompt.contains(*c)), "{} leaks into {}", e.text, q.prompt);
+            assert!(!gives_away(&q.prompt, e), "{} leaks into {}", e.text, q.prompt);
+            assert!(!q.prompt.contains('〇'), "masked prompt: {}", q.prompt);
         }
     }
 

@@ -1,0 +1,1753 @@
+[
+  {
+    "id": "shang-bu-zhao-tian-xia-bu-zhao-di",
+    "text": "上不着天，下不着地",
+    "pinyin": "shàng bù zháo tiān, xià bù zháo dì",
+    "kind": "suyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "dead-ends-and-desperation",
+      "complex-emotional-states"
+    ],
+    "literal": "above · not · touch · sky, below · not · touch · ground",
+    "natural": "stuck in mid-air; neither here nor there",
+    "meaning": {
+      "en": "To be left in an awkward in-between position, unable to move forward or back and with nothing to rely on.",
+      "zh": "比喻处境尴尬，进退两难，没有着落。"
+    },
+    "equivalents": [
+      "be left in limbo",
+      "neither up nor down"
+    ],
+    "examples": [
+      {
+        "zh": "项目被搁置后，我上不着天，下不着地，不知道该继续还是放弃。",
+        "en": "With the project shelved, I was left in limbo, not knowing whether to carry on or give up."
+      },
+      {
+        "zh": "他辞了职又没找到新工作，上不着天，下不着地。",
+        "en": "He quit his job without finding a new one, and is now neither here nor there."
+      },
+      {
+        "zh": "房子卖了新房没交付，一家人上不着天，下不着地地租房过渡。",
+        "en": "They sold their flat before the new one was handed over, and are stuck in limbo in rented rooms."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial saying; used as predicate or as a self-description of a stuck situation.",
+      "zh": "口语俗语，多作谓语，用来形容自己进退两难的处境。"
+    },
+    "synonyms": [
+      "进退两难",
+      "不上不下"
+    ],
+    "antonyms": [
+      "如鱼得水"
+    ]
+  },
+  {
+    "id": "fang-ma-hou-pao",
+    "text": "放马后炮",
+    "pinyin": "fàng mǎ hòu pào",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-timing",
+      "inappropriate-behavior"
+    ],
+    "literal": "let off · horse-back (late) · cannon",
+    "natural": "fire the cannon after the horse has gone; be wise after the event",
+    "meaning": {
+      "en": "To offer opinions or advice only after the event, when it is too late to be of any use.",
+      "zh": "事情过去之后才发表意见或提出办法，已于事无补。"
+    },
+    "equivalents": [
+      "be wise after the event",
+      "do Monday-morning quarterbacking"
+    ],
+    "examples": [
+      {
+        "zh": "比赛输了你才来放马后炮，早干什么去了？",
+        "en": "You only play the know-all after we have lost; where were you before?"
+      },
+      {
+        "zh": "别在这儿放马后炮，有办法就当时说。",
+        "en": "Don't be wise after the event; if you had a solution you should have said so at the time."
+      },
+      {
+        "zh": "他总爱放马后炮，出了问题就说“我早就料到了”。",
+        "en": "He loves to be wise after the event, saying 'I saw it coming' whenever something goes wrong."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial and often reproachful; usually 放(…的)马后炮. Comes from 马后炮, a chess move made too late.",
+      "zh": "口语，多含责备；常说“放马后炮”。源自象棋术语“马后炮”。"
+    },
+    "synonyms": [
+      "事后诸葛亮",
+      "亡羊补牢"
+    ],
+    "antonyms": [
+      "未雨绸缪",
+      "先见之明"
+    ]
+  },
+  {
+    "id": "mai-nong-feng-sao",
+    "text": "卖弄风骚",
+    "pinyin": "mài nòng fēng sāo",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "negative-character-flaws"
+    ],
+    "literal": "show off · flirtatious charm",
+    "natural": "flaunt one's charms",
+    "meaning": {
+      "en": "To show off one's sex appeal in a flirtatious way, usually said of a woman and in a disapproving tone.",
+      "zh": "故意炫耀自己的姿色，做出轻佻挑逗的姿态（多指女子，含贬义）。"
+    },
+    "equivalents": [
+      "flaunt oneself",
+      "flirt shamelessly"
+    ],
+    "examples": [
+      {
+        "zh": "她在宴会上到处卖弄风骚，引得众人侧目。",
+        "en": "At the party she flaunted herself everywhere and drew disapproving looks."
+      },
+      {
+        "zh": "小说里的女配角总爱在男主角面前卖弄风骚。",
+        "en": "The female supporting character in the novel is forever flirting shamelessly in front of the hero."
+      },
+      {
+        "zh": "老板最看不惯办公室里有人卖弄风骚。",
+        "en": "The boss can't stand anyone flirting shamelessly in the office."
+      }
+    ],
+    "usage": {
+      "en": "Derogatory; verb phrase, mostly describing women. Be careful as it can sound sexist.",
+      "zh": "贬义，动宾短语，多形容女子；使用时要注意有性别偏见色彩。"
+    },
+    "synonyms": [
+      "搔首弄姿"
+    ],
+    "antonyms": [
+      "洁身自好"
+    ]
+  },
+  {
+    "id": "er-duo-qi-jian",
+    "text": "耳朵起茧",
+    "pinyin": "ěr duo qǐ jiǎn",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "verbosity",
+      "psychological-pressure"
+    ],
+    "literal": "ears · grow · calluses",
+    "natural": "have heard it so often that one's ears have calluses",
+    "meaning": {
+      "en": "To have heard the same thing so many times that one is thoroughly sick of it.",
+      "zh": "同样的话听得太多，已经听腻了。"
+    },
+    "equivalents": [
+      "have heard it a thousand times",
+      "be sick of hearing it"
+    ],
+    "examples": [
+      {
+        "zh": "这些大道理，我听得耳朵起茧了。",
+        "en": "I've heard these lectures so often my ears have calluses."
+      },
+      {
+        "zh": "妈妈叫我早点睡的话，我听得耳朵起茧。",
+        "en": "I've heard Mum tell me to go to bed early until my ears have grown calluses."
+      },
+      {
+        "zh": "他的口头禅让同事们耳朵起茧。",
+        "en": "His catchphrase has worn out his colleagues' ears."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; usually 听得耳朵起茧 or X让/把我的耳朵听得起茧 (the 起 may be dropped).",
+      "zh": "口语，常说“听得耳朵起茧”“耳朵都起茧了”。"
+    },
+    "synonyms": [
+      "老生常谈",
+      "耳熟能详"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ji-ji-ru-lu-ling",
+    "text": "急急如律令",
+    "pinyin": "jí jí rú lǜ lìng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "stories"
+    ],
+    "literal": "urgently · urgently · as · statute · order",
+    "natural": "at once, as if by official decree",
+    "meaning": {
+      "en": "A formula ending Daoist spells and charms, ordering spirits to obey at once; also used jokingly to hurry something along.",
+      "zh": "道教符咒结尾的套语，意思是像法令一样迅速执行；现也戏谑地用来催促。"
+    },
+    "equivalents": [
+      "let it be done at once, by decree",
+      "hey presto (jocular)"
+    ],
+    "examples": [
+      {
+        "zh": "道士在黄符上写下“急急如律令”五个字。",
+        "en": "The Daoist priest wrote the words 'jí jí rú lǜ lìng' on the yellow talisman."
+      },
+      {
+        "zh": "他把手一挥，念了句急急如律令，逗得孩子们哈哈大笑。",
+        "en": "He waved his hand and chanted 'at once, by decree', making the children laugh."
+      },
+      {
+        "zh": "电视剧里的法师总是在最后喊一声“急急如律令”。",
+        "en": "The sorcerers in TV dramas always shout 'jí jí rú lǜ lìng' at the end."
+      }
+    ],
+    "usage": {
+      "en": "A set formula in talismans and spells; in modern speech used playfully. Pronounce 律令 lǜ lìng.",
+      "zh": "符咒中的固定套语，现代口语中常作戏谑用法。"
+    },
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": "nu-liu-zhi-bei",
+    "text": "女流之辈",
+    "pinyin": "nǚ liú zhī bèi",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "female · class · of · lot",
+    "natural": "the likes of women",
+    "meaning": {
+      "en": "A dismissive way of referring to women in general, implying they are weak or unimportant; now often used ironically or self-mockingly.",
+      "zh": "对妇女的轻蔑称呼，含有认为她们软弱、无足轻重之意；现多反语或自嘲。"
+    },
+    "equivalents": [
+      "mere womenfolk (dated)",
+      "'the weaker sex' (dated)"
+    ],
+    "examples": [
+      {
+        "zh": "你别以为我是女流之辈就好欺负。",
+        "en": "Don't think you can push me around just because I'm a woman."
+      },
+      {
+        "zh": "她虽是女流之辈，却比许多男人更有胆识。",
+        "en": "Though a mere woman, as people used to say, she has more courage than many men."
+      },
+      {
+        "zh": "“女流之辈”这种说法如今听来十分刺耳。",
+        "en": "The phrase 'nǚ liú zhī bèi' sounds very jarring today."
+      }
+    ],
+    "usage": {
+      "en": "Outdated and condescending; mostly seen in historical fiction, or quoted ironically.",
+      "zh": "带贬义，已显陈旧，多见于旧小说或被反讽式引用。"
+    },
+    "synonyms": [
+      "巾帼英雄"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "shou-jiao-gan-jing",
+    "text": "手脚干净",
+    "pinyin": "shǒu jiǎo gān jìng",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "hands · feet · clean",
+    "natural": "clean-handed; not light-fingered",
+    "meaning": {
+      "en": "Honest about other people's property; not given to stealing or pocketing things.",
+      "zh": "不偷拿别人的东西，为人清白、不贪小便宜。"
+    },
+    "equivalents": [
+      "honest with other people's things",
+      "not light-fingered"
+    ],
+    "examples": [
+      {
+        "zh": "我们雇保姆最看重手脚干净。",
+        "en": "What we value most in a housekeeper is honesty with our belongings."
+      },
+      {
+        "zh": "这个会计手脚干净，从没出过一分钱的差错。",
+        "en": "This accountant is scrupulously honest and has never been a penny out."
+      },
+      {
+        "zh": "他从小手脚干净，家里的东西从不乱拿。",
+        "en": "He has never been light-fingered; he doesn't help himself to things at home."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; predicate or complement. Its opposite 手脚不干净 hints at petty theft.",
+      "zh": "口语，作谓语或补语；反面“手脚不干净”暗指小偷小摸。"
+    },
+    "synonyms": [
+      "洁身自好",
+      "清清白白"
+    ],
+    "antonyms": [
+      "偷鸡摸狗",
+      "小偷小摸"
+    ]
+  },
+  {
+    "id": "shi-ba-ban-wu-yi",
+    "text": "十八般武艺",
+    "pinyin": "shí bā bān wǔ yì",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "useful-tools-and-skill",
+      "master-craftsmanship"
+    ],
+    "literal": "eighteen · kinds · martial · arts",
+    "natural": "the full eighteen martial arts; a whole range of skills",
+    "meaning": {
+      "en": "Mastery of every kind of weapon; by extension a wide range of skills or all kinds of know-how.",
+      "zh": "原指精通各种兵器的武艺，泛指多种本领或技能。"
+    },
+    "equivalents": [
+      "every trick in the book",
+      "a wide range of skills"
+    ],
+    "examples": [
+      {
+        "zh": "为了拿下这个订单，销售部使出了十八般武艺。",
+        "en": "To win the order the sales team used every trick in the book."
+      },
+      {
+        "zh": "他修车、修水电、做木工，十八般武艺样样会。",
+        "en": "He fixes cars, plumbing and carpentry; he's a master of all trades."
+      },
+      {
+        "zh": "孙悟空十八般武艺样样精通。",
+        "en": "Sun Wukong is a master of all eighteen martial arts."
+      }
+    ],
+    "usage": {
+      "en": "Often with 使出/样样精通; both literal (martial) and figurative.",
+      "zh": "常与“使出”“样样精通”搭配，可指武艺，也可泛指本领。"
+    },
+    "synonyms": [
+      "样样精通",
+      "多才多艺"
+    ],
+    "antonyms": [
+      "一无所长"
+    ]
+  },
+  {
+    "id": "hua-li-dai-ci",
+    "text": "话里带刺",
+    "pinyin": "huà lǐ dài cì",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "speech",
+      "inappropriate-behavior"
+    ],
+    "literal": "words · inside · carry · thorns",
+    "natural": "words with thorns in them",
+    "meaning": {
+      "en": "To speak in a way that contains hidden barbs or digs at someone.",
+      "zh": "说话含有讽刺、挖苦或不满，让人听了不舒服。"
+    },
+    "equivalents": [
+      "make barbed remarks",
+      "speak with a sting"
+    ],
+    "examples": [
+      {
+        "zh": "他今天话里带刺，大概是对分工有意见。",
+        "en": "He's making barbed remarks today, probably unhappy with how the work was divided."
+      },
+      {
+        "zh": "她笑着说了句话里带刺的客套话。",
+        "en": "She smiled and came out with a polite phrase with a sting in it."
+      },
+      {
+        "zh": "有话直说，别话里带刺的。",
+        "en": "Say it straight out; don't speak with thorns in your words."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial; predicate or attributive (话里带刺的话).",
+      "zh": "口语，作谓语或定语。"
+    },
+    "synonyms": [
+      "含沙射影",
+      "绵里藏针",
+      "阴阳怪气"
+    ],
+    "antonyms": [
+      "心平气和"
+    ]
+  },
+  {
+    "id": "yi-ming-gui-xi",
+    "text": "一命归西",
+    "pinyin": "yī mìng guī xī",
+    "kind": "guanyongyu",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "illness-and-disease"
+    ],
+    "literal": "one · life · return · west",
+    "natural": "to head off to the western heaven",
+    "meaning": {
+      "en": "A humorous or flippant way of saying someone has died.",
+      "zh": "死去的诙谐说法，带有轻佻或戏谑的口吻。"
+    },
+    "equivalents": [
+      "kick the bucket",
+      "pass on (jocular)"
+    ],
+    "examples": [
+      {
+        "zh": "他开车像玩命，早晚要一命归西。",
+        "en": "He drives as if his life meant nothing, and will end up dead sooner or later."
+      },
+      {
+        "zh": "戏里的反派中了一枪，一命归西。",
+        "en": "In the film the villain was shot and kicked the bucket."
+      },
+      {
+        "zh": "要是不注意身体，说不定哪天就一命归西了。",
+        "en": "If you don't look after yourself you might drop dead one day."
+      }
+    ],
+    "usage": {
+      "en": "Jocular or irreverent; not for solemn occasions. 西 refers to the Western Paradise of Buddhism.",
+      "zh": "带戏谑色彩，不用于庄重场合。“西”指佛教西方极乐世界。"
+    },
+    "synonyms": [
+      "一命呜呼",
+      "驾鹤西去"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "ren-wu-ren-liu",
+    "text": "人五人六",
+    "pinyin": "rén wǔ rén liù",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "person · five · person · six",
+    "natural": "put on airs; act the big shot",
+    "meaning": {
+      "en": "To put on a self-important act, behaving as if one were somebody special when one is not.",
+      "zh": "装模作样，摆出一副了不起的样子。"
+    },
+    "equivalents": [
+      "act the big shot",
+      "put on airs"
+    ],
+    "examples": [
+      {
+        "zh": "他刚升了个小组长，就人五人六地教训起大家来。",
+        "en": "He had only just become a team leader, yet he was acting the big shot, lecturing everyone."
+      },
+      {
+        "zh": "别在我面前人五人六的，谁不知道你几斤几两。",
+        "en": "Stop putting on airs in front of me; everyone knows your true worth."
+      },
+      {
+        "zh": "穿上一身西装，他也人五人六起来了。",
+        "en": "Once he put on a suit he started to put on airs."
+      }
+    ],
+    "usage": {
+      "en": "Northern colloquial, derogatory; usually 人五人六的 as attributive or adverbial.",
+      "zh": "北方口语，贬义，常作定语或状语，如“人五人六的”。"
+    },
+    "synonyms": [
+      "装模作样",
+      "趾高气扬"
+    ],
+    "antonyms": [
+      "谦虚谨慎"
+    ]
+  },
+  {
+    "id": "leng-shui-jiao-tou",
+    "text": "冷水浇头",
+    "pinyin": "lěng shuǐ jiāo tóu",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "near-misses-and-setbacks"
+    ],
+    "literal": "cold · water · pour on · head",
+    "natural": "have cold water poured over one's head",
+    "meaning": {
+      "en": "To have one's enthusiasm dampened abruptly by discouraging news or remarks.",
+      "zh": "比喻热情或希望被突如其来的打击或泼冷水的话浇灭。"
+    },
+    "equivalents": [
+      "have one's enthusiasm doused",
+      "get a dose of cold water"
+    ],
+    "examples": [
+      {
+        "zh": "他满心欢喜去应聘，却被一句“不招人”冷水浇头。",
+        "en": "He went to the interview in high spirits, only to have his hopes dashed by 'we're not hiring'."
+      },
+      {
+        "zh": "大家正干劲十足，经理一番话如冷水浇头。",
+        "en": "The team was full of drive, but the manager's words were like cold water over their heads."
+      },
+      {
+        "zh": "被冷水浇头后，他反而更想证明自己。",
+        "en": "Having had his enthusiasm doused, he was all the more eager to prove himself."
+      }
+    ],
+    "usage": {
+      "en": "Usually 被/遭 + 冷水浇头, or 如冷水浇头 as a simile.",
+      "zh": "常说“被冷水浇头”“如冷水浇头”。"
+    },
+    "synonyms": [
+      "当头棒喝",
+      "迎头痛击"
+    ],
+    "antonyms": [
+      "如沐春风"
+    ]
+  },
+  {
+    "id": "chen-gu-zi-lan-zhi-ma",
+    "text": "陈谷子烂芝麻",
+    "pinyin": "chén gǔ zi làn zhī má",
+    "kind": "guanyongyu",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "common-and-worthless",
+      "verbosity"
+    ],
+    "literal": "old · millet · rotten · sesame",
+    "natural": "old millet and mouldy sesame; stale old stuff",
+    "meaning": {
+      "en": "Old, trivial matters from the past that are not worth dredging up again.",
+      "zh": "比喻陈旧琐碎、没必要再提的往事或老话。"
+    },
+    "equivalents": [
+      "old news",
+      "stale old stuff"
+    ],
+    "examples": [
+      {
+        "zh": "都是陈谷子烂芝麻的事了，还提它干什么？",
+        "en": "That is all stale old stuff; why bring it up again?"
+      },
+      {
+        "zh": "奶奶爱翻出陈谷子烂芝麻来唠叨。",
+        "en": "Grandma likes to dredge up old stories and nag."
+      },
+      {
+        "zh": "会上老翻陈谷子烂芝麻，大家都听烦了。",
+        "en": "Constantly raking over old news at meetings has wearied everyone."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial, mostly northern; often with 翻/说/提 + 陈谷子烂芝麻. Also 陈芝麻烂谷子 (a form of the same thing).",
+      "zh": "口语，多见于北方；常与“翻、说、提”搭配。"
+    },
+    "synonyms": [
+      "旧事重提",
+      "老调重弹"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "fu-mu-zhi-bang",
+    "text": "父母之邦",
+    "pinyin": "fù mǔ zhī bāng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "homesickness",
+      "pre-qin"
+    ],
+    "literal": "parents · 's · homeland",
+    "natural": "the land of one's parents; one's homeland",
+    "meaning": {
+      "en": "One's native country or homeland.",
+      "zh": "指自己的祖国或故乡。"
+    },
+    "equivalents": [
+      "one's homeland",
+      "one's native land"
+    ],
+    "examples": [
+      {
+        "zh": "海外游子心中永远牵挂着父母之邦。",
+        "en": "Overseas wanderers always have their homeland in their hearts."
+      },
+      {
+        "zh": "他在异国求学多年，终于回到了父母之邦。",
+        "en": "After studying abroad for years he finally returned to his homeland."
+      },
+      {
+        "zh": "无论走到哪里，父母之邦都是他的根。",
+        "en": "Wherever he goes, the land of his parents is his root."
+      }
+    ],
+    "origin": {
+      "source": "《论语·微子》",
+      "story": {
+        "en": "When Liuxia Hui is dismissed three times, someone asks why he does not leave; he answers that if he served others by crooked means he need not leave 'the land of his parents' (何必去父母之邦).",
+        "zh": "有人问三次被罢官的柳下惠为何不离开，他答：“直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦？”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Literary noun phrase, often in speeches and writing about patriotism and emigrants.",
+      "zh": "书面语名词短语，常见于谈论爱国、侨胞的文章或演讲。"
+    },
+    "synonyms": [
+      "故土难离",
+      "落叶归根"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "jin-dao-ruo-tui",
+    "text": "进道若退",
+    "pinyin": "jìn dào ruò tuì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "adaptability",
+      "pre-qin"
+    ],
+    "literal": "advance · the Way · seem · retreat",
+    "natural": "progress along the Way looks like retreat",
+    "meaning": {
+      "en": "Real progress can look like falling back; those who are truly advancing often seem to be giving ground.",
+      "zh": "真正向前进步的人，表面上看起来像在后退。"
+    },
+    "equivalents": [
+      "advance by seeming to retreat",
+      "real progress can look like retreat"
+    ],
+    "examples": [
+      {
+        "zh": "老子说进道若退，有时退一步反而是为了走得更远。",
+        "en": "Laozi says progress looks like retreat; sometimes one step back is to go further."
+      },
+      {
+        "zh": "他放下眼前的利益，看似进道若退，实则在布局长远。",
+        "en": "He gave up immediate gains, which looks like retreat, but is in fact long-term planning."
+      },
+      {
+        "zh": "学习到一定阶段会觉得自己越来越不懂，这正是进道若退。",
+        "en": "At a certain stage of learning you feel you know less and less; that is exactly 'progress that looks like retreat'."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十一章",
+      "story": {
+        "en": "Laozi ch. 41 lists paradoxes of the Way: 'The bright Way seems dim; the advancing Way seems to retreat; the level Way seems rough'.",
+        "zh": "《老子》第四十一章：“明道若昧，进道若退，夷道若颣。”"
+      },
+      "date": {
+        "zh": "春秋末至战国 · 前5—前4世纪",
+        "en": "late Spring and Autumn to Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Quoted from Laozi to express paradoxical wisdom; philosophical, formal register.",
+      "zh": "引自《老子》，表达反向思考的哲理，书面语。"
+    },
+    "synonyms": [
+      "以退为进",
+      "大智若愚"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "lai-zhe-ke-zhui",
+    "text": "来者可追",
+    "pinyin": "lái zhě kě zhuī",
+    "kind": "chengyu",
+    "frequency": 3,
+    "variants": [
+      "来者犹可追"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "comebacks-and-renewal",
+      "pre-qin"
+    ],
+    "literal": "what is to come · can · be pursued",
+    "natural": "the future can still be caught up with",
+    "meaning": {
+      "en": "The past cannot be undone, but there is still time to do better in the future.",
+      "zh": "过去的已无法挽回，但未来还来得及努力。"
+    },
+    "equivalents": [
+      "it is not too late to do better",
+      "the future is still ours to shape"
+    ],
+    "examples": [
+      {
+        "zh": "往者不可谏，来者可追，我们只能从现在做起。",
+        "en": "What is gone cannot be mended, but the future can be shaped; we can only start from now."
+      },
+      {
+        "zh": "他虽然荒废了前半生，但来者可追，仍有机会重新开始。",
+        "en": "He wasted the first half of his life, but the future is still open to him and he can start again."
+      },
+      {
+        "zh": "过去的错已经犯了，来者可追，重要的是以后怎么做。",
+        "en": "The mistakes are made; what matters is what you do from here on."
+      }
+    ],
+    "origin": {
+      "source": "《论语·微子》",
+      "story": {
+        "en": "The mad man Jieyu sang to Confucius: 'What is past cannot be remonstrated with, but the future can still be pursued' (往者不可谏，来者犹可追).",
+        "zh": "楚狂接舆歌而过孔子：“凤兮凤兮，何德之衰？往者不可谏，来者犹可追。”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 往者不可谏; literary, encouraging tone.",
+      "zh": "常与“往者不可谏”对举，书面，语气积极。"
+    },
+    "synonyms": [
+      "亡羊补牢",
+      "迷途知返"
+    ],
+    "antonyms": [
+      "追悔莫及"
+    ]
+  },
+  {
+    "id": "sui-han-zhi-song-bai",
+    "text": "岁寒知松柏",
+    "pinyin": "suì hán zhī sōng bǎi",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "positive-character-qualities",
+      "pre-qin"
+    ],
+    "literal": "year · cold · know · pine · cypress",
+    "natural": "in the cold of the year one knows the pine and cypress",
+    "meaning": {
+      "en": "Only in hard times do you see who has real integrity, as pines and cypresses stay green when everything else withers.",
+      "zh": "在艰难困苦中才能看出谁真正坚贞不屈。"
+    },
+    "equivalents": [
+      "hard times reveal true character",
+      "a friend in need is a friend indeed"
+    ],
+    "examples": [
+      {
+        "zh": "岁寒知松柏，危难之际才见真朋友。",
+        "en": "The pine is known in the cold season; true friends show themselves in danger."
+      },
+      {
+        "zh": "公司最困难的时候，老员工没有一个离开，真是岁寒知松柏。",
+        "en": "When the company was at its lowest not one veteran left; truly, hard times reveal who is steadfast."
+      },
+      {
+        "zh": "岁寒知松柏，他的品格在逆境中更显可贵。",
+        "en": "Hard times reveal the pine; his character is all the more admirable in adversity."
+      }
+    ],
+    "origin": {
+      "source": "《论语·子罕》",
+      "story": {
+        "en": "Confucius said: 'Only when the year turns cold do we know that the pine and cypress are the last to lose their leaves.'",
+        "zh": "子曰：“岁寒，然后知松柏之后凋也。”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Used to praise integrity under pressure; the original is 岁寒，然后知松柏之后凋也. Formal.",
+      "zh": "用来赞美在逆境中坚守节操；原句为“岁寒，然后知松柏之后凋也”。较正式。"
+    },
+    "synonyms": [
+      "松柏后凋",
+      "疾风劲草",
+      "患难见真情"
+    ],
+    "antonyms": [
+      "墙倒众人推"
+    ]
+  },
+  {
+    "id": "miao-shou-ou-de",
+    "text": "妙手偶得",
+    "pinyin": "miào shǒu ǒu dé",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship",
+      "poems-prose",
+      "song-dynasty"
+    ],
+    "literal": "wonderful · hand · by chance · obtain",
+    "natural": "a master hand stumbles on it by chance",
+    "meaning": {
+      "en": "A brilliant piece of writing or art that seems to come about naturally and by chance, without forced effort.",
+      "zh": "绝妙的诗文或艺术作品，看似不经意间自然得来，并非刻意雕琢。"
+    },
+    "equivalents": [
+      "a stroke of inspiration",
+      "brilliance that comes unforced"
+    ],
+    "examples": [
+      {
+        "zh": "这首小诗平白如话，真是妙手偶得。",
+        "en": "This short poem is plain as speech, a true gift of the moment."
+      },
+      {
+        "zh": "好文章往往是妙手偶得，而非苦思冥想的结果。",
+        "en": "Good writing is often a happy accident of skill, not the fruit of agonised thought."
+      },
+      {
+        "zh": "那一笔收尾，说是妙手偶得也不为过。",
+        "en": "It would be fair to call that closing stroke a stroke of inspiration."
+      }
+    ],
+    "origin": {
+      "source": "陆游《文章》",
+      "story": {
+        "en": "Lu You's poem 'Writing' says: 'Writing is made by nature itself; a skilled hand merely chances upon it' (文章本天成，妙手偶得之).",
+        "zh": "陆游《文章》：“文章本天成，妙手偶得之。粗俗不可医，大羹必有味。”"
+      },
+      "date": {
+        "zh": "南宋 · 12世纪",
+        "en": "Southern Song, 12th c."
+      }
+    },
+    "usage": {
+      "en": "Literary; praise for work that looks effortless. Original line: 文章本天成，妙手偶得之.",
+      "zh": "书面语，称赞作品浑然天成。原句：“文章本天成，妙手偶得之。”"
+    },
+    "synonyms": [
+      "神来之笔",
+      "浑然天成"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "zhu-e-mo-zuo",
+    "text": "诸恶莫作",
+    "pinyin": "zhū è mò zuò",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "buddhist-origin",
+      "positive-character-qualities",
+      "wei-jin-nanbeichao"
+    ],
+    "literal": "all · evils · do not · do",
+    "natural": "do no evil of any kind",
+    "meaning": {
+      "en": "Do not commit any evil act; the first line of a Buddhist verse urging people to avoid evil and do good.",
+      "zh": "不做任何坏事，是佛教偈语的第一句，劝人止恶行善。"
+    },
+    "equivalents": [
+      "refrain from all evil",
+      "do no wrong"
+    ],
+    "examples": [
+      {
+        "zh": "寺院的墙上写着“诸恶莫作，众善奉行”。",
+        "en": "On the temple wall are written the words 'Do no evil; do all good'."
+      },
+      {
+        "zh": "做人要诸恶莫作，守住自己的底线。",
+        "en": "One should do no evil and hold to one's bottom line."
+      },
+      {
+        "zh": "他把诸恶莫作当作座右铭。",
+        "en": "He took 'do no evil' as his motto."
+      }
+    ],
+    "origin": {
+      "source": "《增一阿含经》七佛通偈",
+      "story": {
+        "en": "The 'verse of the seven Buddhas' in the Chinese Ekottarikagama runs: do no evil, practise all good, purify one's own mind, this is the teaching of all Buddhas.",
+        "zh": "七佛通偈：“诸恶莫作，众善奉行，自净其意，是诸佛教。”"
+      },
+      "date": {
+        "zh": "东晋 · 约397年（汉译）",
+        "en": "Eastern Jin, c. 397 (Chinese translation)"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 众善奉行; Buddhist and moral contexts, formal.",
+      "zh": "常与“众善奉行”连用，多用于佛教或道德劝诫语境，较正式。"
+    },
+    "synonyms": [
+      "与人为善",
+      "弃恶从善"
+    ],
+    "antonyms": [
+      "为非作歹",
+      "无恶不作",
+      "作恶多端"
+    ]
+  },
+  {
+    "id": "xue-ran-hou-zhi-bu-zu-2",
+    "text": "学然后知不足",
+    "pinyin": "xué rán hòu zhī bù zú",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "reading-and-study",
+      "attitude-humble-vs-arrogant",
+      "qin-han"
+    ],
+    "literal": "study · only then · know · not · enough",
+    "natural": "only through study do you realise how little you know",
+    "meaning": {
+      "en": "Only after studying do you realise how much you still do not know.",
+      "zh": "学习之后才发觉自己的知识还不够。"
+    },
+    "equivalents": [
+      "the more you learn, the more you realise how little you know"
+    ],
+    "examples": [
+      {
+        "zh": "学然后知不足，读了研究生才明白自己懂得太少。",
+        "en": "The more you learn the more you see how little you know; only in graduate school did I realise how little I understood."
+      },
+      {
+        "zh": "老师常说，学然后知不足，教然后知困。",
+        "en": "The teacher often says: study shows you your gaps and teaching shows you your difficulties."
+      },
+      {
+        "zh": "学然后知不足，他越学越谦虚。",
+        "en": "The more he studied, the more modest he grew, knowing what he lacked."
+      }
+    ],
+    "origin": {
+      "source": "《礼记·学记》",
+      "story": {
+        "en": "The Record of Learning says: 'Only after studying does one know one's lack; only after teaching does one know one's difficulties' (学然后知不足，教然后知困).",
+        "zh": "《礼记·学记》：“学然后知不足，教然后知困。知不足，然后能自反也；知困，然后能自强也。”"
+      },
+      "date": {
+        "zh": "西汉 · 前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    },
+    "usage": {
+      "en": "Often followed by 教然后知困; said in praise of humility and lifelong learning.",
+      "zh": "常接“教然后知困”，用来强调谦虚和终身学习。"
+    },
+    "synonyms": [
+      "学无止境",
+      "学海无涯"
+    ],
+    "antonyms": [
+      "自高自大",
+      "骄傲自满"
+    ]
+  },
+  {
+    "id": "fei-xue-wu-yi-guang-cai",
+    "text": "非学无以广才",
+    "pinyin": "fēi xué wú yǐ guǎng cái",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "reading-and-study",
+      "apprenticeship-and-learning",
+      "wei-jin-nanbeichao"
+    ],
+    "literal": "without · study · no · means · broaden · talent",
+    "natural": "without study there is no way to broaden one's talents",
+    "meaning": {
+      "en": "Without study you cannot widen your abilities.",
+      "zh": "不学习就无法增长才干。"
+    },
+    "equivalents": [
+      "talent grows only through study"
+    ],
+    "examples": [
+      {
+        "zh": "诸葛亮教导儿子：非学无以广才，非志无以成学。",
+        "en": "Zhuge Liang taught his son: without study there is no widening of talent, and without ambition no achievement in study."
+      },
+      {
+        "zh": "非学无以广才，想要进步就得持续学习。",
+        "en": "Without study talent doesn't broaden; to progress one must keep learning."
+      },
+      {
+        "zh": "他把非学无以广才贴在书桌前。",
+        "en": "He pinned 'without study talent cannot broaden' above his desk."
+      }
+    ],
+    "origin": {
+      "source": "诸葛亮《诫子书》",
+      "story": {
+        "en": "In his 'Letter to His Son' Zhuge Liang wrote: 'Talent needs study, and study needs ambition: without study talent cannot broaden, and without ambition study cannot succeed.'",
+        "zh": "诸葛亮《诫子书》：“夫学须静也，才须学也。非学无以广才，非志无以成学。”"
+      },
+      "date": {
+        "zh": "三国蜀汉 · 约234年",
+        "en": "Shu Han, c. 234"
+      }
+    },
+    "usage": {
+      "en": "Quoted in educational or motivational writing; formal. The second half is 非志无以成学.",
+      "zh": "多用于教育、励志文字，较正式；下句是“非志无以成学”。"
+    },
+    "synonyms": [
+      "学无止境",
+      "勤能补拙"
+    ],
+    "antonyms": [
+      "不学无术"
+    ]
+  },
+  {
+    "id": "lao-sao-tai-sheng-fang-chang-duan",
+    "text": "牢骚太盛防肠断",
+    "pinyin": "láo sāo tài shèng fáng cháng duàn",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "communist-era",
+      "psychological-pressure",
+      "republic-era"
+    ],
+    "literal": "complaints · too · intense · beware · bowels · break",
+    "natural": "too much grumbling may break your heart",
+    "meaning": {
+      "en": "Too much griping is bad for you, so beware of ruining your health and mood with constant complaints.",
+      "zh": "牢骚发得太多，会伤身体、伤心情，应当心。"
+    },
+    "equivalents": [
+      "constant grumbling does you harm",
+      "don't let complaining eat you up"
+    ],
+    "examples": [
+      {
+        "zh": "牢骚太盛防肠断，你还是放宽心吧。",
+        "en": "Too much griping will break your heart; do relax."
+      },
+      {
+        "zh": "他整天抱怨，我劝他牢骚太盛防肠断。",
+        "en": "He moaned all day, so I told him that too much grumbling does harm."
+      },
+      {
+        "zh": "牢骚太盛防肠断，风物长宜放眼量。",
+        "en": "Beware of too much complaint; look at the landscape with a long view."
+      }
+    ],
+    "origin": {
+      "source": "毛泽东《七律·和柳亚子先生》",
+      "story": {
+        "en": "In 1949 Mao answered Liu Yazi's poem of complaint: 'Too much grumbling may break your heart; the scenery is best seen with a long view'.",
+        "zh": "1949年毛泽东和柳亚子诗：“牢骚太盛防肠断，风物长宜放眼量。”"
+      },
+      "date": {
+        "zh": "民国 · 1949年",
+        "en": "Republic of China, 1949"
+      }
+    },
+    "usage": {
+      "en": "From Mao Zedong's poem; friendly advice to a complainer. Second line: 风物长宜放眼量.",
+      "zh": "出自毛泽东诗，用于劝人少发牢骚；下句为“风物长宜放眼量”。"
+    },
+    "synonyms": [
+      "心平气和"
+    ],
+    "antonyms": [
+      "怨天尤人"
+    ]
+  },
+  {
+    "id": "zhi-zhi-bu-dai",
+    "text": "知止不殆",
+    "pinyin": "zhī zhǐ bù dài",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "contentment-and-simplicity",
+      "pre-qin"
+    ],
+    "literal": "know · when to stop · not · in danger",
+    "natural": "knowing when to stop keeps one from danger",
+    "meaning": {
+      "en": "If you know where to stop, you will avoid danger.",
+      "zh": "懂得适可而止，就不会遇到危险。"
+    },
+    "equivalents": [
+      "know when to stop and stay safe",
+      "stop in time and avoid trouble"
+    ],
+    "examples": [
+      {
+        "zh": "投资要知止不殆，见好就收。",
+        "en": "In investment, know when to stop and you will be safe; take your profit when you can."
+      },
+      {
+        "zh": "他在最风光时选择退休，真是知止不殆。",
+        "en": "He retired at the height of his fame; truly knowing when to stop keeps one from peril."
+      },
+      {
+        "zh": "知止不殆，贪心的人往往栽在最后一步。",
+        "en": "Knowing when to stop keeps you safe; the greedy often fall at the last step."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十四章",
+      "story": {
+        "en": "Laozi ch. 44: 'One who knows contentment is not disgraced; one who knows when to stop is not in danger, and can endure long'.",
+        "zh": "《老子》第四十四章：“知足不辱，知止不殆，可以长久。”"
+      },
+      "date": {
+        "zh": "春秋末至战国 · 前5—前4世纪",
+        "en": "late Spring and Autumn to Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually in the sequence 知足不辱，知止不殆. Literary and philosophical.",
+      "zh": "常与“知足不辱”连用，书面哲理语。"
+    },
+    "synonyms": [
+      "适可而止",
+      "见好就收"
+    ],
+    "antonyms": [
+      "贪得无厌"
+    ]
+  },
+  {
+    "id": "min-sheng-zai-qin",
+    "text": "民生在勤",
+    "pinyin": "mín shēng zài qín",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "farming-and-harvest",
+      "positive-character-qualities",
+      "historical-records",
+      "pre-qin"
+    ],
+    "literal": "people's · livelihood · lies in · diligence",
+    "natural": "a people's livelihood depends on diligence",
+    "meaning": {
+      "en": "The people's livelihood depends on hard work; if they are diligent they will not go short.",
+      "zh": "百姓的生计取决于勤劳，勤劳就不会匮乏。"
+    },
+    "equivalents": [
+      "livelihood comes from hard work",
+      "diligence prevents want"
+    ],
+    "examples": [
+      {
+        "zh": "民生在勤，勤则不匮，这是老祖宗的告诫。",
+        "en": "'Livelihood lies in diligence, and diligence means no want': so the ancestors warned."
+      },
+      {
+        "zh": "村干部带头苦干，说民生在勤，只有勤劳才能致富。",
+        "en": "The village cadres led the work, saying that a living depends on diligence and only hard work brings wealth."
+      },
+      {
+        "zh": "民生在勤，这个道理从古到今都没变。",
+        "en": "Livelihood depends on diligence; this has never changed from ancient times to now."
+      }
+    ],
+    "origin": {
+      "source": "《左传·宣公十二年》",
+      "story": {
+        "en": "In the Zuo Zhuan, Sui Wuzi says of Chu: 'The people's livelihood lies in diligence; diligence means no want' (民生在勤，勤则不匮).",
+        "zh": "《左传·宣公十二年》随武子论楚国：“民生在勤，勤则不匮。”"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually followed by 勤则不匮; formal, often in policy or moral writing.",
+      "zh": "常接“勤则不匮”，较正式，多用于政论或劝勉。"
+    },
+    "synonyms": [
+      "勤能补拙",
+      "勤俭持家"
+    ],
+    "antonyms": [
+      "好逸恶劳",
+      "懒惰成性"
+    ]
+  },
+  {
+    "id": "er-zhe-bu-ke-de-jian",
+    "text": "二者不可得兼",
+    "pinyin": "èr zhě bù kě dé jiān",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "confucian-classics",
+      "dead-ends-and-desperation",
+      "pre-qin"
+    ],
+    "literal": "the two · cannot · obtain · both",
+    "natural": "one cannot have both",
+    "meaning": {
+      "en": "Of two desirable things, you cannot have both and must choose one.",
+      "zh": "两样都想要的东西，不可能同时得到，必须取舍。"
+    },
+    "equivalents": [
+      "you can't have both",
+      "one must choose"
+    ],
+    "examples": [
+      {
+        "zh": "事业与家庭二者不可得兼，他最终选择了家庭。",
+        "en": "Career and family cannot both be had; in the end he chose family."
+      },
+      {
+        "zh": "鱼与熊掌二者不可得兼，只能舍一个。",
+        "en": "You cannot have both the fish and the bear's paw, so one must go."
+      },
+      {
+        "zh": "二者不可得兼的时候，就要看哪个更重要。",
+        "en": "When you cannot have both, look at which matters more."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·告子上》",
+      "story": {
+        "en": "Mencius: 'I like fish and I like bear's paw; if I cannot have both, I give up the fish and take the bear's paw' (二者不可得兼，舍鱼而取熊掌者也).",
+        "zh": "孟子：“鱼，我所欲也，熊掌亦我所欲也，二者不可得兼，舍鱼而取熊掌者也。”"
+      },
+      "date": {
+        "zh": "战国 · 约前300年",
+        "en": "Warring States, c. 300 BC"
+      }
+    },
+    "usage": {
+      "en": "Quoted when facing a choice; the Mencius line continues 舍鱼而取熊掌者也.",
+      "zh": "面临取舍时引用；《孟子》原文接“舍鱼而取熊掌者也”。"
+    },
+    "synonyms": [
+      "鱼与熊掌"
+    ],
+    "antonyms": [
+      "两全其美"
+    ]
+  },
+  {
+    "id": "yan-zhi-wu-wen",
+    "text": "言之无文",
+    "pinyin": "yán zhī wú wén",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "excellent-writing",
+      "literary-criticism",
+      "historical-records",
+      "pre-qin"
+    ],
+    "literal": "speech · of it · lacks · literary grace",
+    "natural": "words without polish",
+    "meaning": {
+      "en": "Speech or writing without literary grace; the line goes on to say it will not travel far.",
+      "zh": "言辞缺少文采；原文接着说这样的话传不远。"
+    },
+    "equivalents": [
+      "words without polish",
+      "unadorned, so it won't carry"
+    ],
+    "examples": [
+      {
+        "zh": "言之无文，行而不远，演讲稿要多打磨。",
+        "en": "Words without polish do not travel far, so the speech needs more work."
+      },
+      {
+        "zh": "这篇报告内容扎实，可惜言之无文，没人愿意读。",
+        "en": "The report is solid but badly written, so no one wants to read it."
+      },
+      {
+        "zh": "他总觉得言之无文会影响说服力。",
+        "en": "He always felt that dull words would weaken his persuasiveness."
+      }
+    ],
+    "origin": {
+      "source": "《左传·襄公二十五年》",
+      "story": {
+        "en": "Confucius is quoted: 'Speech is to fulfil the aim and style to fulfil the speech; speech without style will not travel far' (言之无文，行而不远).",
+        "zh": "《左传·襄公二十五年》引仲尼曰：“志有之：言以足志，文以足言。不言，谁知其志？言之无文，行而不远。”"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Usually with the second clause 行而不远; used in criticism of style.",
+      "zh": "常与“行而不远”连用，多用于批评文风。"
+    },
+    "synonyms": [
+      "词不达意"
+    ],
+    "antonyms": [
+      "文采飞扬",
+      "妙笔生花"
+    ]
+  },
+  {
+    "id": "xing-cheng-yu-si",
+    "text": "行成于思",
+    "pinyin": "xíng chéng yú sī",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "reading-and-study",
+      "poor-planning-and-hasty-decisions",
+      "poems-prose",
+      "sui-tang-wudai"
+    ],
+    "literal": "conduct · succeeds · through · thought",
+    "natural": "deeds succeed through thinking",
+    "meaning": {
+      "en": "Success in action comes from careful thought, while carelessness leads to ruin.",
+      "zh": "行动的成功来自深思熟虑，草率随意则会失败。"
+    },
+    "equivalents": [
+      "success in action comes from forethought",
+      "think before you act"
+    ],
+    "examples": [
+      {
+        "zh": "行成于思，毁于随，做事前一定要多想想。",
+        "en": "Action succeeds through thought and is ruined by carelessness, so always think before you act."
+      },
+      {
+        "zh": "老师在黑板上写下“行成于思”四个字。",
+        "en": "The teacher wrote the four characters 'xíng chéng yú sī' on the board."
+      },
+      {
+        "zh": "行成于思，他每次动手前都要先画好草图。",
+        "en": "Doing succeeds through thinking, so he always sketches a plan before starting."
+      }
+    ],
+    "origin": {
+      "source": "韩愈《进学解》",
+      "story": {
+        "en": "Han Yu, in 'Explaining Study': 'Learning is perfected by diligence and wasted by play; conduct succeeds by thought and is ruined by carelessness'.",
+        "zh": "韩愈《进学解》：“业精于勤，荒于嬉；行成于思，毁于随。”"
+      },
+      "date": {
+        "zh": "唐 · 约812年",
+        "en": "Tang dynasty, c. 812"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 毁于随 (and often with 业精于勤，荒于嬉).",
+      "zh": "常与“毁于随”连用，也常接在“业精于勤，荒于嬉”之后。"
+    },
+    "synonyms": [
+      "三思而行",
+      "深思熟虑"
+    ],
+    "antonyms": [
+      "想入非非"
+    ]
+  },
+  {
+    "id": "jin-xin-shu-bu-ru-wu-shu",
+    "text": "尽信书不如无书",
+    "pinyin": "jìn xìn shū bù rú wú shū",
+    "kind": "mingju",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "confucian-classics",
+      "reading-and-study",
+      "superficial-learning",
+      "pre-qin"
+    ],
+    "literal": "entirely · believe · books · not as good as · no · books",
+    "natural": "to believe books entirely is worse than having none",
+    "meaning": {
+      "en": "If you believe everything in books without thinking, you would be better off with no books at all.",
+      "zh": "如果对书中的内容全盘相信，还不如没有书。"
+    },
+    "equivalents": [
+      "don't believe everything you read",
+      "read critically"
+    ],
+    "examples": [
+      {
+        "zh": "尽信书不如无书，读书要有自己的判断。",
+        "en": "Believing books entirely is worse than having none; one must judge for oneself."
+      },
+      {
+        "zh": "他说尽信书不如无书，鼓励学生质疑课本。",
+        "en": "He said blind faith in books is worse than none and urged students to question their textbooks."
+      },
+      {
+        "zh": "网上的信息真假难辨，尽信书不如无书这话如今更适用。",
+        "en": "It is hard to tell fact from fiction online, and 'believe it all and you're worse off' applies more than ever."
+      }
+    ],
+    "origin": {
+      "source": "《孟子·尽心下》",
+      "story": {
+        "en": "Mencius said that to believe the Book of Documents entirely would be worse than to have no such book (尽信书，则不如无书), as some of its accounts of King Wu's campaign seemed exaggerated.",
+        "zh": "孟子论《尚书》：“尽信书，则不如无书。吾于《武成》，取二三策而已矣。”"
+      },
+      "date": {
+        "zh": "战国 · 约前300年",
+        "en": "Warring States, c. 300 BC"
+      }
+    },
+    "usage": {
+      "en": "Mencius; the original is 尽信《书》，则不如无《书》, where 书 refers to the Book of Documents, later read as 'books'.",
+      "zh": "出自《孟子》，原文“尽信书，则不如无书”，“书”原指《尚书》，后泛指书籍。"
+    },
+    "synonyms": [
+      "不求甚解"
+    ],
+    "antonyms": [
+      "照本宣科",
+      "纸上谈兵"
+    ]
+  },
+  {
+    "id": "qiu-qi-you-sheng",
+    "text": "求其友声",
+    "pinyin": "qiú qí yǒu shēng",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "poems-prose",
+      "friendship",
+      "pre-qin"
+    ],
+    "literal": "seek · its · friend's · voice",
+    "natural": "seeking the voice of a friend",
+    "meaning": {
+      "en": "To look for friends, as a bird calls out for companions.",
+      "zh": "寻求朋友，如同鸟儿鸣叫以求同伴。"
+    },
+    "equivalents": [
+      "seek out friends",
+      "call out for companions"
+    ],
+    "examples": [
+      {
+        "zh": "嘤其鸣矣，求其友声，他在新城市努力结识志同道合的人。",
+        "en": "'The bird calls, seeking a friend's voice'; in the new city he strove to meet like-minded people."
+      },
+      {
+        "zh": "网络社群让人们求其友声，不再孤独。",
+        "en": "Online communities let people look for friends and be less lonely."
+      },
+      {
+        "zh": "求其友声，是人之常情。",
+        "en": "Seeking a friend's voice is only human."
+      }
+    ],
+    "origin": {
+      "source": "《诗经·小雅·伐木》",
+      "story": {
+        "en": "The ode 'Felling Trees' says: 'The birds chirp, seeking the voice of their friends' (嘤其鸣矣，求其友声), likening friendship to birds calling in the valley.",
+        "zh": "《诗经·小雅·伐木》：“伐木丁丁，鸟鸣嘤嘤。出自幽谷，迁于乔木。嘤其鸣矣，求其友声。”"
+      },
+      "date": {
+        "zh": "西周至春秋 · 前11—前6世纪",
+        "en": "Western Zhou to Spring and Autumn, 11th–6th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Literary; usually the second half of 嘤其鸣矣，求其友声.",
+      "zh": "书面语，常作“嘤其鸣矣，求其友声”的下句。"
+    },
+    "synonyms": [
+      "志同道合",
+      "惺惺相惜"
+    ],
+    "antonyms": [
+      "孤家寡人"
+    ]
+  },
+  {
+    "id": "he-hai-bu-ze-xi-liu",
+    "text": "河海不择细流",
+    "pinyin": "hé hǎi bù zé xì liú",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "qin-han",
+      "unity-and-cooperation"
+    ],
+    "literal": "rivers · seas · do not · pick · small · streams",
+    "natural": "rivers and seas do not turn away small streams",
+    "meaning": {
+      "en": "Great rivers and seas accept even tiny streams, which is how they become deep; open-mindedness makes for greatness.",
+      "zh": "江河湖海不嫌弃细小的水流，所以能够成其深广；比喻包容才能成就大事。"
+    },
+    "equivalents": [
+      "the sea does not refuse small streams",
+      "be inclusive to become great"
+    ],
+    "examples": [
+      {
+        "zh": "河海不择细流，企业要有容纳不同意见的胸怀。",
+        "en": "The seas refuse no stream; a company needs room for different opinions."
+      },
+      {
+        "zh": "泰山不让土壤，河海不择细流，这是李斯的名言。",
+        "en": "'Mount Tai spurns no soil; rivers and seas refuse no streams' is a famous saying of Li Si."
+      },
+      {
+        "zh": "团队要成长，就得河海不择细流，欢迎每一个人。",
+        "en": "For a team to grow it must refuse no one and welcome everybody."
+      }
+    ],
+    "origin": {
+      "source": "李斯《谏逐客书》",
+      "story": {
+        "en": "In his 'Memorial on Expelling Guest Officials' Li Si argued: 'Mount Tai does not refuse a clod of earth, so it grew so tall; rivers and seas do not pick among small streams, so they became so deep'.",
+        "zh": "李斯《谏逐客书》：“泰山不让土壤，故能成其大；河海不择细流，故能就其深。”"
+      },
+      "date": {
+        "zh": "秦 · 前237年",
+        "en": "Qin, 237 BC"
+      }
+    },
+    "usage": {
+      "en": "Usually paired with 泰山不让土壤; used in praise of tolerance and open recruitment.",
+      "zh": "常与“泰山不让土壤”连用，用来称赞包容和广纳人才。"
+    },
+    "synonyms": [
+      "海纳百川",
+      "兼容并蓄"
+    ],
+    "antonyms": [
+      "拒人于千里之外"
+    ]
+  },
+  {
+    "id": "zhi-zu-bu-ru",
+    "text": "知足不辱",
+    "pinyin": "zhī zú bù rǔ",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "daoist-classics",
+      "contentment-and-simplicity",
+      "pre-qin"
+    ],
+    "literal": "know · enough · not · disgraced",
+    "natural": "one who knows contentment is not disgraced",
+    "meaning": {
+      "en": "Those who are content with what they have are spared humiliation.",
+      "zh": "懂得满足的人，不会招来耻辱。"
+    },
+    "equivalents": [
+      "contentment saves one from disgrace"
+    ],
+    "examples": [
+      {
+        "zh": "知足不辱，他不再追逐名利，安心过自己的日子。",
+        "en": "Contentment brings no disgrace; he gave up chasing fame and fortune to live quietly."
+      },
+      {
+        "zh": "老人常说知足不辱，知止不殆。",
+        "en": "The old man often says: contentment is no disgrace and knowing when to stop is no danger."
+      },
+      {
+        "zh": "知足不辱，贪婪往往招来麻烦。",
+        "en": "Contentment avoids disgrace, whereas greed often brings trouble."
+      }
+    ],
+    "origin": {
+      "source": "《老子》第四十四章",
+      "story": {
+        "en": "Laozi ch. 44: 'One who knows contentment is not disgraced; one who knows when to stop is not endangered.'",
+        "zh": "《老子》第四十四章：“知足不辱，知止不殆，可以长久。”"
+      },
+      "date": {
+        "zh": "春秋末至战国 · 前5—前4世纪",
+        "en": "late Spring and Autumn to Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Literary; often followed by 知止不殆.",
+      "zh": "书面语，常接“知止不殆”。"
+    },
+    "synonyms": [
+      "知足常乐",
+      "安贫乐道"
+    ],
+    "antonyms": [
+      "贪得无厌"
+    ]
+  },
+  {
+    "id": "bu-zhi-lao-zhi-jiang-zhi",
+    "text": "不知老之将至",
+    "pinyin": "bù zhī lǎo zhī jiāng zhì",
+    "kind": "mingju",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "confucian-classics",
+      "joy-and-happiness",
+      "pre-qin"
+    ],
+    "literal": "not · know · old age · about to · arrive",
+    "natural": "not aware that old age is coming",
+    "meaning": {
+      "en": "To be so absorbed in what one loves that one does not notice getting old.",
+      "zh": "沉浸在自己喜爱的事情中，连衰老将至都没有察觉。"
+    },
+    "equivalents": [
+      "too busy enjoying life to notice old age",
+      "young at heart"
+    ],
+    "examples": [
+      {
+        "zh": "老教授潜心研究，不知老之将至。",
+        "en": "The old professor immersed himself in research, never noticing that he had grown old."
+      },
+      {
+        "zh": "退休后他学画学琴，乐而忘忧，不知老之将至。",
+        "en": "After retiring he took up painting and the zither, happy and forgetting his worries, with no thought of old age."
+      },
+      {
+        "zh": "她热爱舞蹈，八十岁了仍不知老之将至。",
+        "en": "She loves dancing and at eighty is still unaware of growing old."
+      }
+    ],
+    "origin": {
+      "source": "《论语·述而》",
+      "story": {
+        "en": "Confucius described himself: 'so eager that he forgets his food, so happy that he forgets his worries, and does not notice that old age is coming'.",
+        "zh": "孔子自述：“其为人也，发愤忘食，乐以忘忧，不知老之将至云尔。”"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    },
+    "usage": {
+      "en": "Literary; praise of enthusiasm. The Analects line begins 发愤忘食，乐以忘忧.",
+      "zh": "书面语，称赞热爱某事的人；《论语》原文前有“发愤忘食，乐以忘忧”。"
+    },
+    "synonyms": [
+      "乐以忘忧",
+      "老当益壮",
+      "乐此不疲"
+    ],
+    "antonyms": []
+  }
+]
