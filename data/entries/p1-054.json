@@ -152,94 +152,6 @@
     ]
   },
   {
-    "id": "qiao-shou-tian-cheng",
-    "text": "巧手天成",
-    "pinyin": "qiǎo shǒu tiān chéng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "master-craftsmanship"
-    ],
-    "literal": "skilled · hands · heaven · made",
-    "natural": "handiwork that seems heaven-made",
-    "meaning": {
-      "en": "Skilled handiwork so natural it seems made by nature.",
-      "zh": "手艺精巧，作品浑然天成。"
-    },
-    "equivalents": [
-      "a natural masterpiece",
-      "effortless skill"
-    ],
-    "examples": [
-      {
-        "zh": "这件根雕巧手天成，几乎看不出人工痕迹。",
-        "en": "The root carving is so skilfully done it hardly looks man-made."
-      },
-      {
-        "zh": "她的剪纸巧手天成，栩栩如生。",
-        "en": "Her paper-cuts are naturally deft and lifelike."
-      }
-    ],
-    "usage": {
-      "en": "Rare; descriptive. The common set phrases are 巧夺天工 and 浑然天成.",
-      "zh": "少用，描写性说法；常用“巧夺天工”“浑然天成”。"
-    },
-    "synonyms": [
-      "巧夺天工",
-      "鬼斧神工",
-      "巧匠天工"
-    ],
-    "antonyms": [
-      "粗制滥造"
-    ]
-  },
-  {
-    "id": "qiao-jiang-tian-gong",
-    "text": "巧匠天工",
-    "pinyin": "qiǎo jiàng tiān gōng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "literary",
-    "themes": [
-      "master-craftsmanship"
-    ],
-    "literal": "skilled · craftsman · heaven's · work",
-    "natural": "a craftsman's heaven-like work",
-    "meaning": {
-      "en": "Work by a master craftsman that rivals nature.",
-      "zh": "能工巧匠的作品可与天然相比。"
-    },
-    "equivalents": [
-      "masterly craftsmanship",
-      "rivalling nature"
-    ],
-    "examples": [
-      {
-        "zh": "这座古桥是巧匠天工的杰作。",
-        "en": "This ancient bridge is a masterpiece of craftsmanship."
-      },
-      {
-        "zh": "展厅里的玉雕件件都是巧匠天工。",
-        "en": "Every jade carving in the hall is masterly work."
-      }
-    ],
-    "usage": {
-      "en": "Rare literary phrase; close to 巧夺天工.",
-      "zh": "少用的书面说法，与“巧夺天工”相近。"
-    },
-    "synonyms": [
-      "巧夺天工",
-      "鬼斧神工",
-      "巧手天成"
-    ],
-    "antonyms": [
-      "粗制滥造"
-    ]
-  },
-  {
     "id": "shi-fu-ling-jin-men-xiu-xing-zai-ge-ren",
     "text": "师傅领进门，修行在个人",
     "pinyin": "shī fu lǐng jìn mén, xiū xíng zài gè rén",
@@ -410,8 +322,7 @@
     },
     "synonyms": [
       "闻鸡起舞",
-      "起早贪黑",
-      "五更鸡鸣"
+      "起早贪黑"
     ],
     "antonyms": [
       "日上三竿",
@@ -477,48 +388,6 @@
     ],
     "variants": [
       "昏定晨省"
-    ]
-  },
-  {
-    "id": "wu-geng-ji-ming",
-    "text": "五更鸡鸣",
-    "pinyin": "wǔ gēng jī míng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "literary",
-    "themes": [
-      "daily-time-periods"
-    ],
-    "literal": "fifth · watch · rooster · crows",
-    "natural": "cockcrow before dawn",
-    "meaning": {
-      "en": "The rooster's crow in the last watch of the night, just before dawn.",
-      "zh": "五更时鸡叫，指天快亮的时候。"
-    },
-    "equivalents": [
-      "the crack of dawn",
-      "before first light"
-    ],
-    "examples": [
-      {
-        "zh": "五更鸡鸣，农民们已经下地干活了。",
-        "en": "At cockcrow before dawn, the farmers were already in the fields."
-      },
-      {
-        "zh": "他五更鸡鸣就起身赶路。",
-        "en": "He set off at the crack of dawn."
-      }
-    ],
-    "usage": {
-      "en": "五更 is roughly 3–5 a.m. in the old night-watch system.",
-      "zh": "“五更”约为凌晨三点到五点。"
-    },
-    "synonyms": [
-      "鸡鸣而起"
-    ],
-    "antonyms": [
-      "夜深人静"
     ]
   },
   {
@@ -1117,8 +986,7 @@
       "磨刀不误砍柴工"
     ],
     "antonyms": [
-      "临阵磨枪",
-      "钝刀砍柴"
+      "临阵磨枪"
     ]
   },
   {
