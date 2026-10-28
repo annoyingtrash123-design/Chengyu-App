@@ -1,5 +1,6 @@
 //! Merges every `data/entries/*.json` file (each a JSON array of entries)
-//! into a single array that is embedded into the binary.
+//! into a single array that is embedded into the binary, deflate-compressed (about a third
+//! of the size; the app download is mostly this data).
 
 use std::{env, fs, path::Path};
 
@@ -28,6 +29,7 @@ fn main() {
         }
     }
 
-    let out = Path::new(&env::var("OUT_DIR").unwrap()).join("entries.json");
-    fs::write(out, serde_json::to_string(&all).unwrap()).unwrap();
+    let out = Path::new(&env::var("OUT_DIR").unwrap()).join("entries.json.deflate");
+    let json = serde_json::to_string(&all).unwrap();
+    fs::write(out, miniz_oxide::deflate::compress_to_vec(json.as_bytes(), 9)).unwrap();
 }

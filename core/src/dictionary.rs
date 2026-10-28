@@ -8,7 +8,7 @@ use crate::model::{is_han, reading_chars, Entry, Kind, Register, Sentiment};
 use crate::pinyin;
 use crate::user::{Status, UserData};
 
-static EMBEDDED_ENTRIES: &str = include_str!(concat!(env!("OUT_DIR"), "/entries.json"));
+static EMBEDDED_ENTRIES: &[u8] = include_bytes!(concat!(env!("OUT_DIR"), "/entries.json.deflate"));
 static EMBEDDED_THEMES: &str = include_str!("../../data/themes.json");
 
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
@@ -125,8 +125,8 @@ fn word_matches(query: &str, word: &str) -> bool {
 impl Dictionary {
     /// The dictionary built into the app.
     pub fn embedded() -> Self {
-        let entries: Vec<Entry> =
-            serde_json::from_str(EMBEDDED_ENTRIES).expect("embedded entries are invalid");
+        let json = miniz_oxide::inflate::decompress_to_vec(EMBEDDED_ENTRIES).expect("embedded entries are corrupt");
+        let entries: Vec<Entry> = serde_json::from_slice(&json).expect("embedded entries are invalid");
         let themes: Vec<Theme> =
             serde_json::from_str(EMBEDDED_THEMES).expect("embedded themes are invalid");
         Self::new(entries, themes)

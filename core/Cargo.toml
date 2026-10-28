@@ -7,6 +7,8 @@ description = "Dictionary, search, spaced repetition and game logic for the Chen
 [dependencies]
 serde.workspace = true
 serde_json.workspace = true
+miniz_oxide = "0.8"
 
 [build-dependencies]
 serde_json.workspace = true
+miniz_oxide = "0.8"
