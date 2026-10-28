@@ -13,6 +13,7 @@ import { renderCrossword } from "./views/crossword";
 import { renderMemory } from "./views/memory";
 import { renderMatch } from "./views/match";
 import { renderMe } from "./views/me";
+import { renderMap } from "./views/mindmap";
 import { scheduleReminders } from "./notifications";
 import { setupInstall } from "./install";
 import { setupUpdates } from "./updates";
@@ -37,6 +38,7 @@ const routes: [RegExp, View, string][] = [
   [/^\/games\/memory$/, renderMemory, "games"],
   [/^\/games\/match\/(synonym|antonym)$/, renderMatch, "games"],
   [/^\/me$/, renderMe, "me"],
+  [/^\/map$/, renderMap, "me"],
 ];
 
 const TABS = [

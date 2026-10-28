@@ -16,7 +16,7 @@ import {
 
 // Shared filter controls: used by the List tab's drop-down panel.
 
-function chipGroup<T>(values: T[], selected: T[], text: (v: T) => string, onToggle: (next: T[]) => void) {
+export function chipGroup<T>(values: T[], selected: T[], text: (v: T) => string, onToggle: (next: T[]) => void) {
   const wrap = h("div", { class: "chip-group" });
   let current = [...selected];
   const draw = () =>
