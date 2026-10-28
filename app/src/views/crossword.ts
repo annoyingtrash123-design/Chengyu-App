@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Crossword, Deck, Summary } from "../types";
-import { h, clear, en, pageHeader, meaningOf, maskAnswer, peek, toast } from "../ui";
+import { h, clear, en, pageHeader, meaningOf, peek, toast } from "../ui";
 import { deckPicker } from "./study";
 
 let deck: Deck = { type: "filtered", filters: { frequencies: [1] } };
@@ -130,7 +130,7 @@ export async function renderCrossword(root: HTMLElement) {
     const clue = (i: number) => {
       const w = x!.words[i];
       const s = byId.get(w.entry_id);
-      const text = s ? maskAnswer(meaningOf(s), s.text) : "";
+      const text = s ? meaningOf(s) : "";
       return h(
         "button",
         {

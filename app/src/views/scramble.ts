@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, EntryDetail } from "../types";
-import { h, clear, en, pageHeader, meaningOf, maskAnswer } from "../ui";
+import { h, clear, en, pageHeader, meaningOf } from "../ui";
 import { deckPicker } from "./study";
 
 let deck: Deck = { type: "all" };
@@ -101,7 +101,7 @@ export async function renderScramble(root: HTMLElement) {
     root,
     pageHeader(en() ? "Unscramble 拼成语" : "拼成语", { back: true }),
     deckPicker((d) => { deck = d; renderScramble(root); }, deck),
-    h("section", { class: "card" }, h("div", { class: "muted small" }, en() ? "Clue" : "提示"), h("p", null, maskAnswer(meaningOf(detail.entry), detail.entry.text))),
+    h("section", { class: "card" }, h("div", { class: "muted small" }, en() ? "Clue" : "提示"), h("p", null, meaningOf(detail.entry))),
     slots,
     tiles,
     h("div", { class: "row-gap" }, giveUp),

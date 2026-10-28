@@ -1,6 +1,6 @@
 import { api } from "../api";
 import type { Deck, Grade, Summary } from "../types";
-import { h, clear, en, pageHeader, englishToggle, toast, maskAnswer } from "../ui";
+import { h, clear, en, pageHeader, englishToggle, toast } from "../ui";
 import type { Filters } from "../types";
 import { activeFilterCount, emptyFilters } from "../filters";
 import { filterPanel, filterSummary } from "./filterpanel";
@@ -188,7 +188,7 @@ function session(root: HTMLElement, cards: Summary[]) {
         "section",
         { class: "card flashcard", onclick: reveal },
         recall
-          ? h("div", { class: "flash-front" }, h("p", { class: "zh big" }, maskAnswer(card.meaning.zh, card.text)), en() ? h("p", { class: "en" }, card.meaning.en) : null)
+          ? h("div", { class: "flash-front" }, h("p", { class: "zh big" }, card.meaning.zh), en() ? h("p", { class: "en" }, card.meaning.en) : null)
           : h("div", { class: "flash-front" }, h("div", { class: "hanzi-xl" }, card.kind === "xiehouyu" ? `${card.text.split("——")[0]} ——？` : card.text)),
         back,
       ),

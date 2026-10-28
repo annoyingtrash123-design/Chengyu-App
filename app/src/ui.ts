@@ -124,12 +124,6 @@ export function meaningOf(s: { meaning: { en: string; zh: string } }): string {
   return en() ? s.meaning.en : s.meaning.zh;
 }
 
-/** Hide the expression's own characters in a clue (亡羊补牢 → "〇丢了再去修〇〇圈"). */
-export function maskAnswer(clue: string, text: string): string {
-  const chars = new Set([...text].filter((c) => /\p{Script=Han}/u.test(c)));
-  return [...clue].map((c) => (chars.has(c) ? "〇" : c)).join("");
-}
-
 // ---------- Common components ----------
 
 export function badge(text: string, cls = "") {
