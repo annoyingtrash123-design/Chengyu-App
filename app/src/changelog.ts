@@ -10,6 +10,24 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.17",
+    date: "2026-10-28",
+    en: [
+      "A full check of every entry: wrong synonyms and antonyms removed, every valid one linked both ways, about 150 duplicate entries merged (the other forms still find the entry in search), headwords changed to the most common form, and hundreds of label, pinyin, example and origin fixes.",
+      "Star ratings now reflect how well native speakers know an idiom, not just how often it appears in print: famous story and textbook idioms such as 叶公好龙, 负荆请罪 and 班门弄斧 are now ★★★.",
+      "About 450 new entries from the wider frequency list (e.g. 铸剑为犁, 安不忘危, 言有尽而意无穷), and about 260 more verified origins.",
+      "New labels: periods of origin (先秦, 秦汉, 魏晋南北朝, 隋唐五代, 宋代, 元代) and specific character traits (honesty, loyalty, kindness, courage, diligence, composure, greed, cruelty, cunning, fickleness).",
+      "Quizzes and games now use idioms and sayings only (plain phrases stay in the dictionary), and the meaning questions no longer hide characters with ○.",
+    ],
+    zh: [
+      "全面校对所有词条：删去不准确的近义词和反义词，有效的近反义词全部双向链接；合并约一百五十条重复词条（其他写法仍可搜到）；主条目改为最常用的写法；修正大量标签、拼音、例句和出处。",
+      "星级改为按母语者的熟悉程度评定，而不只看书面出现频率：叶公好龙、负荆请罪、班门弄斧等成语故事和课本成语现为★★★。",
+      "根据更大范围的词频表新增约四百五十条（如铸剑为犁、安不忘危、言有尽而意无穷），并新增约二百六十条经核实的出处。",
+      "新增标签：出处时代（先秦、秦汉、魏晋南北朝、隋唐五代、宋代、元代）及具体品格（诚实正直、忠义、仁厚宽容、勇敢无畏、勤奋敬业、沉着镇定、贪婪自私、凶狠残暴、奸诈阴险、反复无常）。",
+      "测验和游戏只出成语和俗语等熟语（普通词组仍保留在词典中）；看释义选成语的题目不再用〇遮住字。",
+    ],
+  },
+  {
     version: "0.16",
     date: "2026-10-21",
     en: [
