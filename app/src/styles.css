@@ -479,3 +479,16 @@ h1.hanzi-xl { margin: 0; }
 .fs-thumb { position: absolute; right: 2px; top: 0; width: 11px; height: 44px; border-radius: 6px; background: var(--accent); opacity: 0.55; box-shadow: 0 1px 4px rgba(0,0,0,0.18); transition: opacity 0.15s, width 0.15s; }
 .fs-track.dragging .fs-thumb, .fs-track:hover .fs-thumb { opacity: 0.95; width: 14px; }
 .fs-bubble { position: absolute; right: 30px; top: 0; white-space: nowrap; background: var(--ink); color: var(--bg); font-size: 14px; font-weight: 600; padding: 7px 12px; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.25); font-variant-numeric: tabular-nums; }
+
+/* Collapsible cards on Me */
+details.collapsible > summary { list-style: none; display: flex; justify-content: space-between; align-items: center; cursor: pointer; font-weight: 600; font-size: 16px; }
+details.collapsible > summary::-webkit-details-marker { display: none; }
+details.collapsible > summary::after { content: "▾"; color: var(--muted); margin-left: 8px; transition: transform 0.2s; }
+details.collapsible[open] > summary::after { transform: rotate(180deg); }
+details.collapsible > summary > span:last-child:not(:first-child) { margin-left: auto; }
+details.collapsible[open] > summary { margin-bottom: 10px; }
+details.collapsible h4 { margin: 14px 0 4px; font-size: 14px; }
+.credits { padding-left: 18px; margin: 4px 0; }
+.credits li { margin-bottom: 8px; }
+.licence summary { cursor: pointer; color: var(--accent); font-size: 12px; margin-top: 2px; }
+.licence pre { white-space: pre-wrap; font-size: 11px; line-height: 1.4; background: var(--surface-2); padding: 8px; border-radius: 8px; max-height: 220px; overflow: auto; }

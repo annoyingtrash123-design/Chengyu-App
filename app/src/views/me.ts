@@ -65,6 +65,7 @@ export async function renderMe(root: HTMLElement) {
         : null,
     ),
     updatesSection(),
+    aboutSection(),
     !isTauri() && !isStandalone() && (canPromptInstall() || isIos())
       ? h(
           "section",
@@ -103,9 +104,9 @@ function updatesSection() {
   const off = onUpdateState(() => (status.isConnected ? draw() : off()));
   const web = !isTauri();
   return h(
-    "section",
-    { class: "card" },
-    h("h3", null, en() ? "Updates" : "更新"),
+    "details",
+    { class: "card collapsible" },
+    h("summary", null, h("span", null, en() ? "Updates 更新" : "更新"), h("span", { class: "muted small" }, `v${APP_VERSION}`)),
     h("div", { class: "row-between" }, h("strong", null, `${en() ? "Version" : "版本"} ${APP_VERSION}`), web ? h("button", { class: "btn", onclick: () => checkForUpdate() }, en() ? "Check for updates" : "检查更新") : null),
     web
       ? status
@@ -113,10 +114,55 @@ function updatesSection() {
     web ? h("p", { class: "small muted" }, en() ? "Updates install automatically: when you open the app, when you come back to it, and every 30 minutes." : "更新会自动安装：打开应用、返回应用时以及每 30 分钟检查一次。") : null,
     h(
       "details",
-      { class: "changelog", open: true },
+      { class: "changelog" },
       h("summary", null, en() ? "What's new" : "更新内容"),
       CHANGELOG.slice(0, 5).map((r) =>
         h("div", { class: "release" }, h("div", { class: "release-head" }, h("strong", null, `v${r.version}`), h("span", { class: "muted small" }, r.date)), h("ul", null, (en() ? r.en : r.zh).map((line) => h("li", null, line)))),
+      ),
+    ),
+  );
+}
+
+const MIT = (who: string) =>
+  `MIT License\n\nCopyright (c) ${who}\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.`;
+
+const CREDITS: { name: string; by: string; use: [string, string]; licence: string; text?: string }[] = [
+  { name: "THUOCL", by: "THUNLP, Tsinghua University", use: ["Idiom frequency ranks (used for the star ratings)", "成语词频排名（用于星级）"], licence: "MIT", text: MIT("2018 THUNLP") },
+  { name: "chinese-xinhua", by: "pwxcoo", use: ["Idiom and two-part-saying lists, pinyin cross-checks", "成语与歇后语词表、拼音核对"], licence: "MIT", text: MIT("2018 pwxcoo") },
+  { name: "jieba", by: "Sun Junyi", use: ["Word-frequency cross-checks when choosing entries", "选词时的词频核对"], licence: "MIT", text: MIT("2013 Sun Junyi") },
+  { name: "CC-CEDICT", by: "MDBG", use: ["Cross-checking which expressions exist (no text copied)", "核对词条是否存在（未复制其内容）"], licence: "CC BY-SA 4.0" },
+];
+
+/** About, privacy, content note and third-party licences (collapsed). */
+function aboutSection() {
+  const p = (zh: string, enText: string) => h("p", { class: "small" }, en() ? enText : zh);
+  return h(
+    "details",
+    { class: "card collapsible" },
+    h("summary", null, h("span", null, en() ? "About & licences 关于" : "关于与许可"), null),
+    h("h4", null, en() ? "About the content" : "关于内容"),
+    p(
+      "词条的释义、例句、用法说明和出处由编者在人工智能辅助下撰写，并经多轮核对。出处只收录有可靠文献依据的；星级综合书面词频与母语者熟悉程度。如发现错误，欢迎反馈。",
+      "Meanings, examples, usage notes and origins were written with AI assistance and checked in several review rounds. Origins are given only when well attested; star ratings combine written frequency with how familiar an expression is to native speakers. If you spot a mistake, please report it.",
+    ),
+    h("h4", null, en() ? "Privacy" : "隐私"),
+    p(
+      "本应用不需要账号，不收集、不上传任何数据，也不含广告或统计追踪。收藏、学习进度、测验成绩和设置只保存在你的设备上；清除浏览器数据或卸载应用会将其删除。",
+      "No account is needed. The app collects and uploads nothing, and has no ads or analytics. Favourites, study progress, quiz results and settings are stored only on your device; clearing site data or uninstalling the app deletes them.",
+    ),
+    h("h4", null, en() ? "Data sources & licences" : "数据来源与许可"),
+    h(
+      "ul",
+      { class: "credits small" },
+      CREDITS.map((c) =>
+        h(
+          "li",
+          null,
+          h("strong", null, c.name),
+          ` — ${c.by} · ${c.licence}`,
+          h("div", { class: "muted" }, en() ? c.use[0] : c.use[1]),
+          c.text ? h("details", { class: "licence" }, h("summary", null, en() ? "Licence text" : "许可全文"), h("pre", null, c.text)) : null,
+        ),
       ),
     ),
   );
