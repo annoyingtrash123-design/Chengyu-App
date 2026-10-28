@@ -3,7 +3,7 @@ import type { Crossword, Deck, Summary } from "../types";
 import { h, clear, en, pageHeader, meaningOf, maskAnswer, peek, toast } from "../ui";
 import { deckPicker } from "./study";
 
-let deck: Deck = { type: "core" };
+let deck: Deck = { type: "filtered", filters: { frequencies: [1] } };
 
 const key = (r: number, c: number) => `${r},${c}`;
 

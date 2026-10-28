@@ -3,24 +3,36 @@ import type { Deck, Grade, Summary } from "../types";
 import { h, clear, en, pageHeader, englishToggle, state, themeLabel, label, KIND_LABEL, toast, maskAnswer } from "../ui";
 import type { Kind } from "../types";
 
-/** Deck picker shared by study and games. */
+/** Deck picker shared by study and games: tiers, types, then every label grouped under its broad label. */
 export function deckPicker(onChange: (d: Deck) => void, initial: Deck = { type: "all" }) {
   const sel = h("select", { class: "select" });
-  const options: [string, string, Deck][] = [
-    ["all", en() ? "Everything" : "全部", { type: "all" }],
-    ["core", en() ? "Core 500 (most common)" : "核心 500", { type: "core" }],
-    ["favourites", en() ? "♥ Favourites" : "♥ 收藏", { type: "favourites" }],
-    ...(["chengyu", "suyu", "xiehouyu", "guanyongyu", "phrase", "mingju"] as Kind[]).map(
-      (k) => [`kind:${k}`, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }] as [string, string, Deck],
-    ),
-    ...(state.meta?.themes ?? []).filter((t) => !t.group).map(
-      (t) => [`theme:${t.id}`, `${en() ? "Label" : "标签"}: ${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }] as [string, string, Deck],
-    ),
-  ];
-  const key = (d: Deck) =>
-    d.type === "filtered" ? (d.filters.kinds?.length ? `kind:${d.filters.kinds[0]}` : `theme:${d.filters.themes?.[0]}`) : d.type;
-  options.forEach(([k, text]) => sel.appendChild(h("option", { value: k, selected: k === key(initial) }, text)));
-  sel.addEventListener("change", () => onChange(options.find(([k]) => k === sel.value)![2]));
+  const opts = new Map<string, Deck>();
+  const key = (d: Deck) => (d.type === "filtered" ? JSON.stringify(d.filters) : d.type);
+  const add = (parent: HTMLElement, text: string, d: Deck) => {
+    const k = key(d);
+    opts.set(k, d);
+    parent.appendChild(h("option", { value: k, selected: k === key(initial) }, text));
+  };
+  const group = (text: string) => sel.appendChild(h("optgroup", { label: text })) as HTMLElement;
+  add(sel, en() ? "Everything" : "全部", { type: "all" });
+  add(sel, en() ? "♥ Favourites" : "♥ 收藏", { type: "favourites" });
+  const tiers = group(en() ? "By frequency" : "按常用程度");
+  ([[1, "★★★ 核心 Core"], [2, "★★ 常用 Common"], [3, "★ 少见 Uncommon"]] as [number, string][]).forEach(([f, t]) =>
+    add(tiers, t, { type: "filtered", filters: { frequencies: [f] } }),
+  );
+  const kinds = group(en() ? "By type" : "按类型");
+  (["chengyu", "suyu", "xiehouyu", "guanyongyu", "mingju", "phrase"] as Kind[]).forEach((k) =>
+    add(kinds, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }),
+  );
+  const themes = state.meta?.themes ?? [];
+  themes
+    .filter((t) => !t.group)
+    .forEach((g) => {
+      const og = group(themeLabel(g.id));
+      add(og, `${themeLabel(g.id)} · ${en() ? "all" : "全部"}`, { type: "filtered", filters: { themes: [g.id] } });
+      themes.filter((t) => t.group === g.id).forEach((t) => add(og, `　${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }));
+    });
+  sel.addEventListener("change", () => onChange(opts.get(sel.value)!));
   return sel;
 }
 
