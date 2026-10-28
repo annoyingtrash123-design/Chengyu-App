@@ -23,12 +23,8 @@ export async function renderDictionary(root: HTMLElement) {
   const list = h("div", { class: "entry-list" });
   const more = h("button", { class: "btn block", hidden: true }, en() ? "Load more" : "加载更多");
   // Blank until something is typed.
-  const hint = h(
-    "div",
-    { class: "search-hint" },
-    h("p", { class: "muted" }, en() ? "Type below to search — 汉字, pinyin (with or without tones) or English." : "在下方输入汉字、拼音或英文搜索。"),
-    h("p", { class: "search-hint-arrow", "aria-hidden": "true" }, "↓"),
-  );
+  // Blank until something is typed.
+  const hint = h("div", { class: "search-hint" });
 
   let offset = 0;
   let seq = 0;
@@ -64,10 +60,7 @@ export async function renderDictionary(root: HTMLElement) {
   });
   more.addEventListener("click", () => load(false));
 
-  // The search box sits at the bottom, above the tab bar, within reach of a thumb. While typing the
-  // tab bar steps aside so the box rides on top of the keyboard.
-  input.addEventListener("focus", () => document.body.classList.add("typing"));
-  input.addEventListener("blur", () => document.body.classList.remove("typing"));
+  // The search box sits at the bottom, just above the tab bar, within reach of a thumb.
   const clearBtn = h("button", { class: "search-clear", "aria-label": en() ? "Clear" : "清除", hidden: !saved.query }, "×");
   clearBtn.addEventListener("click", () => {
     input.value = saved.query = "";

@@ -20,7 +20,7 @@ export const CHANGELOG: Release[] = [
       "Contents map (from Me): all entries as zoomable bubbles. Group by label, type or stars, layer type and star filters on top, and tap any bubble to fly into it, down to the expressions themselves.",
       "Me is simpler: study statistics and history removed; Updates and a new About & licences section (content note, privacy, data sources) fold away. Clues and flashcards no longer hide characters with ○.",
       "Home shows the chengyu of the day as the full entry (examples, origin, synonyms, labels) with a favourite button, no need to open it separately.",
-      "Search box moved to the bottom of the screen, bigger and within thumb reach; tap anywhere on the empty page (or the Search tab again) to start typing.",
+      "Search box moved to the bottom of the screen, just above the tabs: bigger and within thumb reach; tap anywhere on the empty page (or the Search tab again) to start typing.",
       "Long lists have a fast-scroll bar on the right: drag it to jump straight to any position.",
       "Study and game decks updated: pick by star tier (★★★/★★/★), by type, or by any label, including the new era and trait labels.",
       "Quizzes and games now use idioms and sayings only (plain phrases stay in the dictionary), and the meaning questions no longer hide characters with ○.",

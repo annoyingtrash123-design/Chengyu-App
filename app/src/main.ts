@@ -86,7 +86,6 @@ async function route() {
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
   const id = ++renderId;
   document.querySelectorAll(".sheet-overlay").forEach((el) => el.remove());
-  document.body.classList.remove("typing");
   for (const [re, render, tab] of routes) {
     const m = path.match(re);
     if (m) {
