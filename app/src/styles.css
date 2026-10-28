@@ -496,3 +496,4 @@ details.collapsible h4 { margin: 14px 0 4px; font-size: 14px; }
 .credits li { margin-bottom: 8px; }
 .licence summary { cursor: pointer; color: var(--accent); font-size: 12px; margin-top: 2px; }
 .licence pre { white-space: pre-wrap; font-size: 11px; line-height: 1.4; background: var(--surface-2); padding: 8px; border-radius: 8px; max-height: 220px; overflow: auto; }
+.daily-bar { margin: 4px 0 -4px; }

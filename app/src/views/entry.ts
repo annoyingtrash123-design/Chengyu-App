@@ -30,17 +30,27 @@ export async function renderEntry(root: HTMLElement, [id]: string[]) {
 }
 
 function draw(root: HTMLElement, d: EntryDetail) {
-  const e = d.entry;
-  const s = d.summary;
-  const showEn = en();
+  clear(root, pageHeader("", { back: true, right: [englishToggle(() => draw(root, d)), favouriteButton(d)] }), ...entryBody(d, () => draw(root, d)));
+}
 
+/** Heart button that toggles the entry as a favourite. */
+export function favouriteButton(d: EntryDetail) {
+  const s = d.summary;
   const favBtn = h("button", { class: `icon-btn fav ${s.favourite ? "on" : ""}`, "aria-label": en() ? "Favourite" : "收藏", "aria-pressed": String(s.favourite) }, s.favourite ? "♥" : "♡");
   favBtn.addEventListener("click", async () => {
-    s.favourite = await api.toggleFavourite(e.id);
+    s.favourite = await api.toggleFavourite(d.entry.id);
     favBtn.textContent = s.favourite ? "♥" : "♡";
     favBtn.classList.toggle("on", s.favourite);
     favBtn.setAttribute("aria-pressed", String(s.favourite));
   });
+  return favBtn;
+}
+
+/** Everything on an entry page below the header (also shown in full on Home for the chengyu of the day). */
+export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
+  const e = d.entry;
+  const s = d.summary;
+  const showEn = en();
 
   const bi = (b: { zh: string; en: string }) =>
     h("div", { class: "bilingual" }, h("p", { class: "zh" }, b.zh), showEn ? h("p", { class: "en" }, b.en) : null);
@@ -64,7 +74,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
   const concealed = !!e.parts && !revealedPunchlines.has(e.id);
   const reveal = () => {
     revealedPunchlines.add(e.id);
-    draw(root, d);
+    redraw();
   };
   const head =
     e.parts
@@ -86,9 +96,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
       }${d.accuracy ? ` · ${Math.round((100 * d.accuracy.correct) / d.accuracy.seen)}%` : ""}`
     : label(STATUS_LABEL.new);
 
-  clear(
-    root,
-    pageHeader("", { back: true, right: [englishToggle(() => draw(root, d)), favBtn] }),
+  return [
     h(
       "section",
       { class: "entry-head" },
@@ -159,7 +167,7 @@ function draw(root: HTMLElement, d: EntryDetail) {
     ),
     ),
     h("section", { class: "card muted small" }, h("strong", null, en() ? "My progress: " : "学习进度："), progress),
-  );
+  ];
 }
 
 /**
