@@ -2,7 +2,7 @@ import { h } from "../ui";
 
 /**
  * A fast-scroll bar on the right edge for long lists: drag the handle to any position
- * ("523 / 1,000" shows while dragging) and the list jumps there on release.
+ * ("523 / 1,000" shows while dragging) and the list follows as you drag.
  */
 export function fastScroller(opts: { total: () => number; current: () => number; jump: (index: number) => void }) {
   const thumb = h("div", { class: "fs-thumb" });
@@ -10,6 +10,20 @@ export function fastScroller(opts: { total: () => number; current: () => number;
   const track = h("div", { class: "fs-track", hidden: true, "aria-hidden": "true" }, thumb, bubble);
   const THUMB = 44;
   let dragging = false;
+  let shown = -1;
+  let lastJump = 0;
+  let timer = 0;
+  /** Move the list along while dragging, at most every 90 ms, and once more when the finger stops. */
+  const follow = (i: number) => {
+    clearTimeout(timer);
+    if (i === shown) return;
+    const now = performance.now();
+    if (now - lastJump > 90) {
+      shown = i;
+      lastJump = now;
+      opts.jump(i);
+    } else timer = window.setTimeout(() => follow(i), 100);
+  };
 
   const place = (f: number) => {
     const y = f * (track.clientHeight - THUMB);
@@ -31,6 +45,7 @@ export function fastScroller(opts: { total: () => number; current: () => number;
     const { f, i } = indexAt(e.clientY);
     place(f);
     bubble.textContent = `${(i + 1).toLocaleString("en-US")} / ${opts.total().toLocaleString("en-US")}`;
+    follow(i);
   };
   track.addEventListener("pointerdown", (e) => {
     dragging = true;
@@ -44,9 +59,12 @@ export function fastScroller(opts: { total: () => number; current: () => number;
   const end = (e: PointerEvent) => {
     if (!dragging) return;
     dragging = false;
+    clearTimeout(timer);
     track.classList.remove("dragging");
     bubble.hidden = true;
-    opts.jump(indexAt(e.clientY).i);
+    const i = indexAt(e.clientY).i;
+    if (i !== shown) opts.jump(i);
+    shown = -1;
   };
   track.addEventListener("pointerup", end);
   track.addEventListener("pointercancel", end);

@@ -120,7 +120,7 @@ function byKind(items: Summary[], base: Partial<Filters>): Node[] {
     hue: [6, 205, 280, 150, 35, 320][i],
     items: items.filter((s) => s.kind === k),
     filters: { ...base, kinds: [k] },
-    split: (its: Summary[], b: Partial<Filters>) => byBroadLabel(its, b, false),
+    split: (its: Summary[], b: Partial<Filters>) => byBroadLabel(its, b, true),
   }));
 }
 
@@ -131,7 +131,7 @@ function byStars(items: Summary[], base: Partial<Filters>): Node[] {
     hue: [42, 205, 150][i],
     items: items.filter((s) => s.frequency === q),
     filters: { ...base, frequencies: [q] },
-    split: (its: Summary[], b: Partial<Filters>) => byBroadLabel(its, b, false),
+    split: (its: Summary[], b: Partial<Filters>) => byBroadLabel(its, b, true),
   }));
 }
 
@@ -300,6 +300,8 @@ export async function renderMap(root: HTMLElement) {
       if (t < 1) requestAnimationFrame(step);
       else {
         path.push(node);
+        // One history entry per level, so the phone's back button steps back out one level.
+        history.pushState({ mapDepth: path.length - 1 }, "");
         draw(node, "in");
       }
     };
@@ -316,18 +318,39 @@ export async function renderMap(root: HTMLElement) {
           i ? h("span", { class: "muted" }, "›") : null,
           last
             ? h("strong", null, label)
-            : h("button", { class: "link-btn", onclick: () => { path = path.slice(0, i + 1); draw(n, "out"); } }, label),
+            : h("button", { class: "link-btn", onclick: () => history.go(i - (path.length - 1)) }, label),
         ];
       }),
       path.length > 1 ? h("button", { class: "btn small map-open", onclick: () => showFilters(path[path.length - 1].filters) }, en() ? "Open in List" : "在列表中查看") : null,
     );
   }
 
-  const restart = () => {
+  let pendingRestart = false;
+  const startOver = () => {
     const r = rootNode();
     path = [r];
     draw(r, "out");
   };
+  /** New grouping or filters: back out of any zoom levels (so history stays in step), then redraw. */
+  const restart = () => {
+    if (path.length > 1) {
+      pendingRestart = true;
+      history.go(1 - path.length);
+    } else startOver();
+  };
+  const onPop = (e: PopStateEvent) => {
+    if (!stage.isConnected) return window.removeEventListener("popstate", onPop);
+    const depth = (e.state as { mapDepth?: number } | null)?.mapDepth ?? 0;
+    if (pendingRestart && depth === 0) {
+      pendingRestart = false;
+      return startOver();
+    }
+    if (depth < path.length - 1) {
+      path = path.slice(0, depth + 1);
+      draw(path[depth], "out");
+    } else if (depth > path.length - 1) history.replaceState({ mapDepth: path.length - 1 }, "");
+  };
+  window.addEventListener("popstate", onPop);
 
   const groups: [GroupBy, string, string][] = [
     ["labels", "标签", "Labels"],
