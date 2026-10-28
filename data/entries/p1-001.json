@@ -1555,7 +1555,9 @@
     "register": "neutral",
     "themes": [
       "bad-fortune",
-      "seasonal-changes"
+      "seasonal-changes",
+      "buddhist-origin",
+      "song-dynasty"
     ],
     "literal": "snow · on · add · frost",
     "natural": "Frost added on top of snow",
@@ -1599,7 +1601,18 @@
       "锦上添花",
       "双喜临门",
       "如虎添翼"
-    ]
+    ],
+    "origin": {
+      "source": "宋道原《景德传灯录》",
+      "story": {
+        "en": "The Chan record 《景德传灯录》 uses the image of adding frost on top of snow for piling a further misfortune onto an existing one; the idiom is that wording used figuratively.",
+        "zh": "《景德传灯录》载禅门语录，以“雪上加霜”喻在原有祸患之上再添新的祸患，成语即由此而来。"
+      },
+      "date": {
+        "zh": "北宋 · 1004年",
+        "en": "Northern Song, 1004"
+      }
+    }
   },
   {
     "id": "jiao-ta-shi-di",

@@ -744,7 +744,9 @@
     "themes": [
       "failed-ambitions",
       "complete-failure-and-obscurity",
-      "dead-ends-and-desperation"
+      "dead-ends-and-desperation",
+      "historical-records",
+      "sui-tang-wudai"
     ],
     "literal": "exhausted · road · end · path",
     "natural": "The road runs out at the end of the path",
@@ -789,7 +791,18 @@
       "锦绣前程",
       "前程万里",
       "枝上柳绵吹又少，天涯何处无芳草"
-    ]
+    ],
+    "origin": {
+      "source": "唐房玄龄等《晋书·阮籍传》",
+      "story": {
+        "en": "The Book of Jin tells that Ruan Ji would drive off along a road until it ended, then weep and turn back ('when the road ends he wails'). The idiom 穷途末路 condenses this image of a dead end.",
+        "zh": "《晋书·阮籍传》载阮籍“时率意独驾，不由径路，车迹所穷，辄恸哭而反”，后世凝练为“穷途末路”，喻处境绝望。"
+      },
+      "date": {
+        "zh": "唐 · 648年",
+        "en": "Tang dynasty, 648"
+      }
+    }
   },
   {
     "id": "ji-bu-ke-shi",

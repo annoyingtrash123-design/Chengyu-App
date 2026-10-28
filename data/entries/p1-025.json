@@ -604,7 +604,9 @@
     "register": "neutral",
     "themes": [
       "effective-teaching-methods",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "historical-records",
+      "song-dynasty"
     ],
     "literal": "peach · plum · fill · under heaven",
     "natural": "Peaches and plums everywhere under heaven",
@@ -642,7 +644,18 @@
     ],
     "variants": [
       "桃李遍天下"
-    ]
+    ],
+    "origin": {
+      "source": "宋司马光《资治通鉴·唐纪》",
+      "story": {
+        "en": "Di Renjie recommended many capable men to the court, and Empress Wu's remark is recorded: 'all the peaches and plums under heaven are in your gate'. The idiom is a later condensation, with 桃李 meaning one's students or protégés.",
+        "zh": "《资治通鉴》记狄仁杰荐才甚多，有人称“天下桃李，悉在公门”，后世凝练为“桃李满天下”，喻学生遍布各地。"
+      },
+      "date": {
+        "zh": "北宋 · 1084年",
+        "en": "Northern Song, 1084"
+      }
+    }
   },
   {
     "id": "luo-jing-xia-shi",
@@ -1247,7 +1260,8 @@
     "register": "neutral",
     "themes": [
       "unintended-results",
-      "plant-and-natural-world"
+      "plant-and-natural-world",
+      "song-dynasty"
     ],
     "literal": "node · outside · grow · branch",
     "natural": "A branch growing outside the node",
@@ -1285,7 +1299,18 @@
       "顺理成章",
       "水到渠成",
       "言归正传"
-    ]
+    ],
+    "origin": {
+      "source": "宋朱熹《朱子语类》",
+      "story": {
+        "en": "Zhu Xi's recorded conversations use 'growing a branch beyond the node' for introducing needless complications into a matter; the idiom keeps this wording.",
+        "zh": "朱熹《朱子语类》中有“节外生枝”之语，喻在原有问题之外又生出新问题。"
+      },
+      "date": {
+        "zh": "南宋 · 约1270年",
+        "en": "Southern Song, c. 1270"
+      }
+    }
   },
   {
     "id": "yi-jin-huan-xiang",

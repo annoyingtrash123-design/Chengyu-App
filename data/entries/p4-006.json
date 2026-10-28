@@ -786,7 +786,9 @@
     "register": "neutral",
     "themes": [
       "defeat-and-military-failure",
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "arrogant · troops · certainly · lose",
     "natural": "an arrogant army will lose",
@@ -822,7 +824,18 @@
     ],
     "antonyms": [
       "哀兵必胜"
-    ]
+    ],
+    "origin": {
+      "source": "《汉书·魏相传》",
+      "story": {
+        "en": "Wei Xiang's memorial says that a force which relies on its size and wants to awe the enemy is called an 'arrogant army', and 'an arrogant army is destroyed' (兵骄者灭). The idiom condenses this teaching.",
+        "zh": "《汉书·魏相传》载魏相上书，称恃强欲向敌示威者为“骄兵”，并说“兵骄者灭”；“骄兵必败”是这一道理的凝练。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "huai-bi-qi-zui",

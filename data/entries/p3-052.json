@@ -297,7 +297,9 @@
     "themes": [
       "love-and-marriage",
       "wedding-wishes",
-      "festive-greetings"
+      "festive-greetings",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "pearls · string · jade discs · join",
     "natural": "a perfect match",
@@ -334,7 +336,18 @@
     "antonyms": [
       "格格不入",
       "貌合神离"
-    ]
+    ],
+    "origin": {
+      "source": "东汉·班固《汉书·律历志》",
+      "story": {
+        "en": "The treatise on pitch-pipes and calendar says that 'the sun and moon are like joined jade discs, the five planets like a string of pearls' when they align. The idiom 珠联璧合 is a later condensation of this pair of images.",
+        "zh": "《律历志》言“日月如合璧，五星如连珠”，成语“珠联璧合”由这一对意象凝练而成。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "zuo-chi-shan-kong",

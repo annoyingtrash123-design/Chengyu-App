@@ -597,7 +597,9 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "festive-greetings"
+      "festive-greetings",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "ten thousand · years · without · limit",
     "natural": "ten thousand years, without limit",
@@ -633,7 +635,18 @@
     "antonyms": [
       "短命早逝",
       "哲人其萎"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·豳风·七月》",
+      "story": {
+        "en": "The closing lines of the Odes poem 'Qiyue' describe the year-end feast, where the villagers raise their cups and wish their lord \"万寿无疆\" (ten thousand years of life without limit). The idiom is this phrase taken whole.",
+        "zh": "《七月》末章写岁末宴饮，众人举杯祝颂：“称彼兕觥，万寿无疆。”成语即直接取自这一句。"
+      },
+      "date": {
+        "zh": "西周至春秋 · 前11—前6世纪",
+        "en": "Western Zhou to Spring and Autumn, 11th–6th c. BC"
+      }
+    }
   },
   {
     "id": "chu-yan-wu-zhuang",
@@ -881,7 +894,8 @@
     "themes": [
       "buddhist-origin",
       "positive-character-qualities",
-      "kindness-and-generosity"
+      "kindness-and-generosity",
+      "wei-jin-nanbeichao"
     ],
     "literal": "great · mercy · great · compassion",
     "natural": "great mercy and great compassion",
@@ -914,7 +928,18 @@
     "antonyms": [
       "心狠手辣",
       "铁石心肠"
-    ]
+    ],
+    "origin": {
+      "source": "后秦 鸠摩罗什译、龙树《大智度论》",
+      "story": {
+        "en": "The Dazhidu lun explains that \"大慈与一切众生乐，大悲拔一切众生苦\": great compassion gives all beings happiness and relieves all beings' suffering. The expression is a fixed Buddhist term for the Buddha's and bodhisattvas' compassion.",
+        "zh": "《大智度论》云：“大慈与一切众生乐，大悲拔一切众生苦。”“大慈大悲”是佛教固定术语，形容佛菩萨的悲悯。"
+      },
+      "date": {
+        "zh": "后秦 · 约404年",
+        "en": "Later Qin, c. 404"
+      }
+    }
   },
   {
     "id": "sui-shi-wan-duan",

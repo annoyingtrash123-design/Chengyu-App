@@ -190,7 +190,8 @@
     "register": "neutral",
     "themes": [
       "value-of-time",
-      "fleeting-time"
+      "fleeting-time",
+      "sui-tang-wudai"
     ],
     "literal": "one · inch · time · one · inch · gold",
     "natural": "An inch of time is an inch of gold",
@@ -231,7 +232,18 @@
     ],
     "antonyms": [
       "虚度光阴"
-    ]
+    ],
+    "origin": {
+      "source": "唐·王贞白《白鹿洞二首》",
+      "story": {
+        "en": "Wang Zhenbai's poem on studying at White Deer Grotto contains the couplet 'An inch of time is an inch of gold; an inch of gold cannot buy an inch of time.' The idiom is the first half of that couplet.",
+        "zh": "王贞白《白鹿洞二首》有句：“读书不觉已春深，一寸光阴一寸金。不是道人来引笑，周情孔思正追寻。”后世常以“一寸光阴一寸金，寸金难买寸光阴”劝人珍惜时间。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪末",
+        "en": "Tang dynasty, late 9th c."
+      }
+    }
   },
   {
     "id": "er-xing-qian-li-mu-dan-you",
@@ -338,7 +350,9 @@
       "relationships",
       "polite-humble",
       "kindness-and-generosity",
-      "friendship"
+      "friendship",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "thousand · li · send · goose · feather, gift · light · feeling · heavy",
     "natural": "Sending a goose feather a thousand li, the gift is light but the feeling heavy",
@@ -364,7 +378,18 @@
       "zh": "送礼时的客套话，常只说后半。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "北宋·欧阳修《梅圣俞寄银杏》",
+      "story": {
+        "en": "Ouyang Xiu's poem on receiving ginkgo nuts from Mei Yaochen says 'a goose feather sent a thousand li: the gift is slight, but its weight lies in the giver'. The popular saying is a later folk form of that couplet, recalling the legend of the tribute envoy and his goose.",
+        "zh": "欧阳修《梅圣俞寄银杏》云：“鹅毛赠千里，所重以其人。”民间据此引申为“千里送鹅毛，礼轻情意重”，说礼物虽微薄，情意却深重。"
+      },
+      "date": {
+        "zh": "北宋 · 11世纪",
+        "en": "Northern Song, 11th c."
+      }
+    }
   },
   {
     "id": "shou-si-de-luo-tuo-bi-ma-da",

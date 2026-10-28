@@ -906,7 +906,9 @@
     "register": "neutral",
     "themes": [
       "abrupt-endings",
-      "laziness-and-giving-up"
+      "laziness-and-giving-up",
+      "historical-records",
+      "yuan-dynasty"
     ],
     "literal": "not · finish · finish · it",
     "natural": "Ending it by leaving it unfinished",
@@ -942,7 +944,18 @@
     "antonyms": [
       "善始善终",
       "水落石出"
-    ]
+    ],
+    "origin": {
+      "source": "元脱脱等《宋史·乐黄目传》",
+      "story": {
+        "en": "The Song History says of the official Le Huangmu that he left a matter unsettled and let it lapse; the phrase 不了了之 there means 'settle it by not settling it', from which the idiom comes.",
+        "zh": "《宋史·乐黄目传》记乐黄目处事以“不了了之”，意为把事情放着不办就算了结，成语由此而来。"
+      },
+      "date": {
+        "zh": "元 · 约1345年",
+        "en": "Yuan, c. 1345"
+      }
+    }
   },
   {
     "id": "ji-wang-kai-lai",

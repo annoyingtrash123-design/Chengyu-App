@@ -54,7 +54,10 @@
     "register": "casual",
     "themes": [
       "failed-ambitions",
-      "dead-ends-and-desperation"
+      "dead-ends-and-desperation",
+      "historical-records",
+      "three-kingdoms",
+      "wei-jin-nanbeichao"
     ],
     "literal": "hero · no · use · martial · 's · place",
     "natural": "a talent with no scope",
@@ -88,7 +91,18 @@
       "广阔天地，大有作为",
       "如鱼得水",
       "大显身手"
-    ]
+    ],
+    "origin": {
+      "source": "晋·陈寿《三国志·蜀书·诸葛亮传》",
+      "story": {
+        "en": "In the Records of the Three Kingdoms, Zhuge Liang tells Sun Quan that Liu Bei had no place to use his talents, which is why he fled to Jiangxia. The wording is condensed into the idiom for a capable person lacking an opportunity to show their ability.",
+        "zh": "《三国志·蜀书·诸葛亮传》载诸葛亮对孙权说，刘备“英雄无所用武，故豫州遁逃至此”。后凝练为“英雄无用武之地”，比喻有才能的人没有施展的机会。"
+      },
+      "date": {
+        "zh": "西晋 · 3世纪末",
+        "en": "Western Jin, late 3rd c."
+      }
+    }
   },
   {
     "id": "hu-lu-li-mai-de-shi-shen-me-yao",

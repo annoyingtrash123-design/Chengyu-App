@@ -9,7 +9,9 @@
     "register": "formal",
     "themes": [
       "time-management",
-      "historical-periods"
+      "historical-periods",
+      "confucian-classics",
+      "qin-han"
     ],
     "literal": "get off · carriage · just · begin",
     "natural": "just stepped down from the carriage",
@@ -41,7 +43,18 @@
     ],
     "antonyms": [
       "久居此地"
-    ]
+    ],
+    "origin": {
+      "source": "《礼记·乐记》",
+      "story": {
+        "en": "The Liji says that when King Wu had defeated the Shang, \"未及下车而封黄帝之后于蓟\" (before even getting down from his chariot he enfeoffed the descendants of the Yellow Emperor at Ji). \"下车\" came to mean taking up an official post, hence \"下车伊始\" for just arriving at one.",
+        "zh": "《乐记》载武王克殷之后，“未及下车而封黄帝之后于蓟”。“下车”后来引申为官员到任，故称刚到任为“下车伊始”。"
+      },
+      "date": {
+        "zh": "西汉 · 前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "xue-ni-hong-zhao",

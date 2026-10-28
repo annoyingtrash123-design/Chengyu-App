@@ -611,7 +611,9 @@
     "themes": [
       "society",
       "fairness-and-impartiality",
-      "news-and-officialese"
+      "news-and-officialese",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "punish · evil · praise · good",
     "natural": "punish evil and promote good",
@@ -648,7 +650,18 @@
     "antonyms": [
       "姑息养奸",
       "是非不分"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·成公十四年》",
+      "story": {
+        "en": "The Zuozhuan's comment on how the Spring and Autumn Annals are written praises its power to \"惩恶而劝善\" (punish evil and encourage good). \"惩恶扬善\" is a later variant of this wording.",
+        "zh": "《左传》论《春秋》的笔法，称其能“惩恶而劝善”。“惩恶扬善”是后世对这一说法的改写。"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    }
   },
   {
     "id": "shen-gou-gao-lei",

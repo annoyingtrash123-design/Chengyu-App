@@ -658,7 +658,9 @@
     "sentiment": "neutral",
     "register": "formal",
     "themes": [
-      "experience-and-old-age"
+      "experience-and-old-age",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "age · exceed · rare-since-old-times",
     "natural": "over seventy",
@@ -692,7 +694,18 @@
     "antonyms": [
       "年富力强",
       "风华正茂"
-    ]
+    ],
+    "origin": {
+      "source": "唐·杜甫《曲江二首》",
+      "story": {
+        "en": "Du Fu writes, 'Wine debts are common wherever I go; seldom has a man lived to seventy.' The word 古稀 ('rare since antiquity') comes from this line, and the idiom means being past seventy.",
+        "zh": "杜甫《曲江二首》云：“酒债寻常行处有，人生七十古来稀。”“古稀”指七十岁，源于此句；年逾古稀即年纪超过七十岁。"
+      },
+      "date": {
+        "zh": "唐 · 758年",
+        "en": "Tang dynasty, 758"
+      }
+    }
   },
   {
     "id": "bi-lu-lan-lu",

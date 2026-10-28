@@ -152,7 +152,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "relative-measurements"
+      "relative-measurements",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "use · it · not · exhausted",
     "natural": "inexhaustible",
@@ -184,7 +186,18 @@
     ],
     "antonyms": [
       "寥寥无几"
-    ]
+    ],
+    "origin": {
+      "source": "苏轼《前赤壁赋》",
+      "story": {
+        "en": "In Su Shi's \"First Ode on the Red Cliff\" he says of the river breeze and mountain moon that \"none forbid their taking, and their use never runs out.\" The idiom for inexhaustible supply comes from this.",
+        "zh": "苏轼《前赤壁赋》云：\"惟江上之清风，与山间之明月……取之无禁，用之不竭。\"形容江风山月取用不尽。后成\"用之不竭\"。"
+      },
+      "date": {
+        "zh": "北宋 · 1082年",
+        "en": "Northern Song, 1082"
+      }
+    }
   },
   {
     "id": "qi-zhuang-yi-fu",
@@ -285,7 +298,8 @@
     "themes": [
       "positive-character-qualities",
       "confucian-classics",
-      "kindness-and-generosity"
+      "kindness-and-generosity",
+      "pre-qin"
     ],
     "literal": "push · self · reach · others",
     "natural": "put oneself in others' shoes",
@@ -325,7 +339,18 @@
       "宁教我负天下人，休教天下人负我",
       "自私自利",
       "以小人之心度君子之腹"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·雍也》",
+      "story": {
+        "en": "In the Analects (Yongye), Confucius defines benevolence: \"the benevolent man, wishing to establish himself, establishes others; wishing to succeed, helps others succeed.\" The idiom is a later condensation of this principle of judging others by oneself.",
+        "zh": "《论语·雍也》载孔子论仁：\"夫仁者，己欲立而立人，己欲达而达人。\"意思是以自己的心愿推想别人的心愿。成语是后人对这一仁恕之道的概括。"
+      },
+      "date": {
+        "zh": "春秋末至战国初 · 前5—前4世纪",
+        "en": "late Spring and Autumn to early Warring States, 5th–4th c. BC"
+      }
+    }
   },
   {
     "id": "jiang-ji-jiu-ji",

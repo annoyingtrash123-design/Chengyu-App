@@ -142,7 +142,8 @@
     "register": "neutral",
     "themes": [
       "unintended-results",
-      "foolishness-and-ignorance"
+      "foolishness-and-ignorance",
+      "song-dynasty"
     ],
     "literal": "play · clever · become · clumsy",
     "natural": "Trying to be clever and ending up clumsy",
@@ -186,7 +187,18 @@
     ],
     "variants": [
       "弄巧反拙"
-    ]
+    ],
+    "origin": {
+      "source": "宋黄庭坚《拙轩颂》",
+      "story": {
+        "en": "Huang Tingjian writes that when the skilful over-contrive, they end up clumsy, and the clumsy can reach the skilful; the idiom 弄巧成拙 condenses 'making cleverness into clumsiness'.",
+        "zh": "黄庭坚《拙轩颂》有“弄巧成拙”之语，意为本想耍聪明，结果反而办糟，成语由此而来。"
+      },
+      "date": {
+        "zh": "北宋 · 11世纪",
+        "en": "Northern Song, 11th c."
+      }
+    }
   },
   {
     "id": "ting-tai-lou-ge",
@@ -605,7 +617,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "outstanding-character"
+      "outstanding-character",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "talent · talent · many · many",
     "natural": "Talent in abundance",
@@ -646,7 +660,18 @@
       "人才难得",
       "蜀中无大将，廖化作先锋",
       "矮子里拔将军"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·大雅·文王》",
+      "story": {
+        "en": "The ode 'Wen Wang' says 'numerous are the many gentlemen' (济济多士) at King Wen's court. The idiom 人才济济 is a later condensation of this praise of abundant talent.",
+        "zh": "《诗经·大雅·文王》云“济济多士，文王以宁”，赞周文王朝人才众多；后世凝练为“人才济济”。"
+      },
+      "date": {
+        "zh": "西周 · 前11—前10世纪",
+        "en": "Western Zhou, 11th–10th c. BC"
+      }
+    }
   },
   {
     "id": "jiu-you-zi-qu",

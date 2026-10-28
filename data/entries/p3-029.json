@@ -836,7 +836,9 @@
     "register": "neutral",
     "themes": [
       "inappropriate-behavior",
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "flaunt · swagger · pass · market",
     "natural": "parade oneself in public",
@@ -870,7 +872,18 @@
       "深居简出",
       "匿影藏形",
       "闷声发大财"
-    ]
+    ],
+    "origin": {
+      "source": "汉·司马迁《史记·孔子世家》",
+      "story": {
+        "en": "When Confucius was in Wei, Duke Ling made him ride in a second carriage behind the duke and his consort, so that 'they swaggered through the market'. The idiom comes from this scene, 招摇市过之.",
+        "zh": "孔子居卫，卫灵公与夫人同车而出，让孔子乘次车，“招摇市过之”，成语即出于此。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "da-er-hua-zhi",

@@ -940,7 +940,9 @@
     "register": "neutral",
     "themes": [
       "conflict-and-strife",
-      "evenly-matched"
+      "evenly-matched",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "two · tigers · fight, surely · have · one · hurt",
     "natural": "when two tigers fight, one will be hurt",
@@ -971,7 +973,18 @@
     ],
     "antonyms": [
       "相安无事"
-    ]
+    ],
+    "origin": {
+      "source": "《战国策·秦策二》",
+      "story": {
+        "en": "In the Zhan Guo Ce (Qin 2), Chen Zhen tells of Guan Zhuangzi and the tigers: when two tigers fight over a man, the smaller will die and the larger be wounded. The proverb summarizes the tale; the Shiji (Biography of Zhang Yi) gives a parallel wording.",
+        "zh": "《战国策·秦策二》陈轸讲管庄子刺虎之事：两虎争人而斗，\"小者必死，大者必伤\"。俗语\"两虎相争，必有一伤\"是后人对这一故事的概括（《史记·张仪列传》作\"两虎方且食牛，食甘必争，争则必斗，斗则大者伤，小者死\"）。"
+      },
+      "date": {
+        "zh": "西汉 · 约前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "ren-zai-jiang-hu-shen-bu-you-ji",

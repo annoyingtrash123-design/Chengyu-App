@@ -763,7 +763,9 @@
     "register": "formal",
     "themes": [
       "poverty-and-hardship",
-      "small-numbers"
+      "small-numbers",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "stand · awl · 's · ground",
     "natural": "room for an awl's point",
@@ -796,7 +798,18 @@
     "antonyms": [
       "广袤无垠",
       "沃野千里"
-    ]
+    ],
+    "origin": {
+      "source": "《史记·留侯世家》",
+      "story": {
+        "en": "Li Yiji argues that when Qin destroyed the descendants of the six states it left them 'without a place to stand an awl' (无立锥之地), urging Liu Bang to restore them. The idiom is drawn from this phrase.",
+        "zh": "郦食其劝刘邦复立六国之后，说秦灭六国，使其后代“无立锥之地”；“立锥之地”即由此语而来，形容极小的容身之处。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "san-yang-kai-tai",

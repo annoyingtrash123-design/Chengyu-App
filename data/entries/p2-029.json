@@ -1062,7 +1062,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "efficiency"
+      "efficiency",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "orderly · orderly · have · order",
     "natural": "in apple-pie order",
@@ -1112,7 +1114,18 @@
       "手忙脚乱",
       "西瓜皮揩屁股——一塌糊涂",
       "晕头转向"
-    ]
+    ],
+    "origin": {
+      "source": "《荀子·儒效》",
+      "story": {
+        "en": "Xunzi describes the great Confucian as one whose conduct is 'orderly, with everything in its proper pattern' (井井兮其有理也). The idiom is a later four-character condensation of this description of orderliness.",
+        "zh": "《荀子·儒效》形容大儒：「井井兮其有理也，严严兮其能敬己也。」后人据「井井兮其有理」凝练为「井井有条」，形容条理分明。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    }
   },
   {
     "id": "zi-yi-wei-shi",

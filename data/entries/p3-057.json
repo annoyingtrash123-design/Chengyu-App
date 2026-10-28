@@ -208,7 +208,9 @@
     "register": "formal",
     "themes": [
       "news-and-officialese",
-      "good-governance"
+      "good-governance",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "foremost · good · 's · district",
     "natural": "the model district (esp. the capital)",
@@ -237,7 +239,18 @@
     "synonyms": [
       "模范之地"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《汉书·儒林传》",
+      "story": {
+        "en": "The Book of Han (Biography of the Confucian Scholars) records a memorial saying that moral instruction should \"establish the foremost good starting from the capital, from the inside outward.\" The idiom, meaning the capital as the model region, condenses this wording.",
+        "zh": "《汉书·儒林传》载公孙弘等奏议：\"故教化之行也，建首善自京师始，由内及外。\"意为教化应从京城开始，京城是天下最好的地方。后凝缩为\"首善之区\"，指首都。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "min-yuan-fei-teng",
@@ -471,7 +484,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "greatly · spoil · scenery",
     "natural": "spoil the mood",
@@ -505,7 +520,18 @@
     "antonyms": [
       "锦上添花",
       "相得益彰"
-    ]
+    ],
+    "origin": {
+      "source": "李商隐《杂纂》",
+      "story": {
+        "en": "Li Shangyin's Zazuan lists things that \"kill the scenery\", such as drying trousers beneath blossoms or burning a zither to cook a crane. The idiom \"greatly spoiling the scenery\" developed from this.",
+        "zh": "唐李商隐《杂纂》列举\"杀风景\"之事，如\"花下晒裈、背山起楼、烧琴煮鹤\"等，指败坏雅趣。后作\"大煞风景\"。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪",
+        "en": "Tang dynasty, 9th c."
+      }
+    }
   },
   {
     "id": "miao-bu-ke-yan",
@@ -653,7 +679,8 @@
     "register": "neutral",
     "themes": [
       "public-opinion",
-      "chain-reactions"
+      "chain-reactions",
+      "song-dynasty"
     ],
     "literal": "whole · town · wind · rain",
     "natural": "the talk of the town",
@@ -688,7 +715,18 @@
     ],
     "antonyms": [
       "悄无声息"
-    ]
+    ],
+    "origin": {
+      "source": "惠洪《冷斋夜话》",
+      "story": {
+        "en": "In Huihong's Lengzhai Yehua, Pan Dalin writes to Xie Wuyi that autumn scenes are all fine verse, and that after lying down the day before and hearing wind and rain in the woods he rose and wrote on the wall '满城风雨近重阳', only to be interrupted by a rent collector. The phrase later came to mean news that spreads and is gossiped about everywhere.",
+        "zh": "惠洪《冷斋夜话》载潘大临致信谢无逸：“秋来景物，件件是佳句，恨为俗氛所蔽翳。昨日清卧，闻搅林风雨声，欣然起，题其壁曰：‘满城风雨近重阳’。”不料催租人至，诗意遂败，仅成此一句。后以“满城风雨”比喻事情传扬开来、议论纷纷。"
+      },
+      "date": {
+        "zh": "北宋 · 12世纪初",
+        "en": "Northern Song, early 12th c."
+      }
+    }
   },
   {
     "id": "bu-gan-gou-tong",

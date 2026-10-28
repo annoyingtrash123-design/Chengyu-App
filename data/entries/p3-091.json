@@ -909,7 +909,9 @@
     "register": "neutral",
     "themes": [
       "daily-time-periods",
-      "fairness-and-impartiality"
+      "fairness-and-impartiality",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "blue · sky · white · sun",
     "natural": "in broad daylight",
@@ -945,7 +947,18 @@
     "antonyms": [
       "漆黑一团",
       "黑灯瞎火"
-    ]
+    ],
+    "origin": {
+      "source": "韩愈《与崔群书》",
+      "story": {
+        "en": "Han Yu's \"Letter to Cui Qun\" says that a man of Cui's virtue is like \"a blue sky and bright sun, whose clarity even slaves recognize.\" The idiom is taken from this wording.",
+        "zh": "韩愈《与崔群书》说：\"如崔君之贤，……青天白日，奴隶亦知其清明。\"以晴朗的天空比喻光明磊落。后成\"青天白日\"。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪初",
+        "en": "Tang dynasty, early 9th c."
+      }
+    }
   },
   {
     "id": "wen-chang-wen-duan",

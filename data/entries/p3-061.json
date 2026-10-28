@@ -9,7 +9,9 @@
     "register": "formal",
     "themes": [
       "confusion-and-doubt",
-      "confusion"
+      "confusion",
+      "daoist-classics",
+      "pre-qin"
     ],
     "literal": "greatly · puzzled · not · understand",
     "natural": "utterly baffled",
@@ -43,7 +45,18 @@
     "antonyms": [
       "恍然大悟",
       "豁然开朗"
-    ]
+    ],
+    "origin": {
+      "source": "《庄子·天地》",
+      "story": {
+        "en": "Zhuangzi (Heaven and Earth) says \"the greatly deluded never understand in their whole life.\" The idiom for being utterly puzzled derives from this wording.",
+        "zh": "《庄子·天地》有\"大惑者终身不解\"，意为极度迷惑的人一辈子也想不通。后成\"大惑不解\"，表示非常不理解。"
+      },
+      "date": {
+        "zh": "战国 · 前4—前3世纪",
+        "en": "Warring States, 4th–3rd c. BC"
+      }
+    }
   },
   {
     "id": "shi-e-bu-she",
@@ -1049,7 +1062,8 @@
       "giving-up-and-weakness",
       "exam-favourites",
       "fickleness-and-indecision",
-      "fear-and-cowardice"
+      "fear-and-cowardice",
+      "pre-qin"
     ],
     "literal": "yes · yes · agree · agree",
     "natural": "be a yes-man",
@@ -1087,7 +1101,18 @@
       "直言极谏",
       "面折廷争",
       "犯颜直谏"
-    ]
+    ],
+    "origin": {
+      "source": "《韩非子·八奸》",
+      "story": {
+        "en": "Han Feizi (the \"Eight Villainies\") describes courtiers who flatter and defer to their ruler. The idiom for servile, say-yes agreement is traditionally traced to this chapter.",
+        "zh": "《韩非子·八奸》论君主身边的奸佞之术，其中写到近臣对君主一味顺从、不敢违逆。成语\"唯唯诺诺\"形容一味应承附和，旧说出自此篇。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    }
   },
   {
     "id": "ti-gang-qie-ling",
@@ -1099,7 +1124,9 @@
     "register": "formal",
     "themes": [
       "mental-clarity",
-      "wisdom"
+      "wisdom",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "lift · main rope · hold · collar",
     "natural": "grasp the key points",
@@ -1134,6 +1161,17 @@
       "不得要领",
       "漫无头绪",
       "毛举细故"
-    ]
+    ],
+    "origin": {
+      "source": "《荀子·劝学》",
+      "story": {
+        "en": "Xunzi (Encouraging Learning) says that if you grasp the collar of a fur coat and shake it with five fingers, countless hairs fall into place. The idiom for grasping the essentials condenses this image of lifting the net's main rope or the coat's collar.",
+        "zh": "《荀子·劝学》说：\"若挈裘领，诎五指而顿之，顺者不可胜数。\"提起皮衣的领子，毛就都顺了。后人概括为\"提纲挈领\"，比喻抓住要点。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    }
   }
 ]

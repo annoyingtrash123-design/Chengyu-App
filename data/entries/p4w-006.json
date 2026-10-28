@@ -91,7 +91,18 @@
       "zh": "最初是1926年《国民革命歌》的开头，曲调取自法国儿歌，后来成为北伐时代的代名词。今天多作历史引用。歌词作者说法不一，故不标出处。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《国民革命歌》（廖乾五作词）",
+      "story": {
+        "en": "The song, popularly called 'Down with the Imperialist Powers', was written in 1926 for the Northern Expedition of the National Revolutionary Army. Its opening line 'Down with the imperialist powers, down with the warlords' gives the slogan.",
+        "zh": "《国民革命歌》又称《打倒列强》，1926年为国民革命军北伐而作，开头唱道：“打倒列强，打倒列强，除军阀，除军阀。”该口号即出自此歌。"
+      },
+      "date": {
+        "zh": "民国 · 1926年",
+        "en": "Republic of China, 1926"
+      }
+    }
   },
   {
     "id": "lao-gong-shen-sheng",
@@ -757,7 +768,9 @@
     "themes": [
       "communist-era",
       "news-and-officialese",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "poems-prose",
+      "republic-era"
     ],
     "literal": "China · people · stand · up · come · (completed)",
     "natural": "the Chinese people have stood up",
@@ -786,7 +799,18 @@
     "synonyms": [],
     "antonyms": [
       "任人宰割"
-    ]
+    ],
+    "origin": {
+      "source": "毛泽东《中国人民站起来了》",
+      "story": {
+        "en": "Mao Zedong gave this opening address at the first plenary session of the CPPCC on 21 September 1949, declaring 'The Chinese people have stood up', shortly before the founding of the PRC. The slogan is simply that sentence.",
+        "zh": "1949年9月21日，毛泽东在中国人民政治协商会议第一届全体会议上致开幕词，宣告：“占人类总数四分之一的中国人从此站立起来了。”后来“中国人民站起来了”成为广为流传的口号。"
+      },
+      "date": {
+        "zh": "民国 · 1949年",
+        "en": "Republic of China, 1949"
+      }
+    }
   },
   {
     "id": "di-guo-zhu-yi-wang-wo-zhi-xin-bu-si",

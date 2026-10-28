@@ -761,7 +761,9 @@
     "register": "neutral",
     "themes": [
       "military-strategy-and-victory",
-      "competition-and-rivalry"
+      "competition-and-rivalry",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "sit · mountain · watch · tigers · fight",
     "natural": "sit on the mountain watching tigers fight",
@@ -794,7 +796,18 @@
     "antonyms": [
       "见义勇为",
       "挺身而出"
-    ]
+    ],
+    "origin": {
+      "source": "《战国策·秦策二》",
+      "story": {
+        "en": "In the Zhan Guo Ce (Qin 2), Chen Zhen advises the King of Qin with the tale of Guan Zhuangzi, who wants to stab a tiger but is told to wait: when two tigers fight over a man the smaller will die and the larger be wounded, so strike then and kill both with one blow. The idiom condenses this.",
+        "zh": "《战国策·秦策二》载陈轸劝秦王：管庄子欲刺虎，管与止之，说两虎争人而斗，\"小者必死，大者必伤，子待伤而刺之，一举必有双虎之功\"。后人据此浓缩出\"坐山观虎斗\"。"
+      },
+      "date": {
+        "zh": "西汉 · 约前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "xin-zhong-you-gui",

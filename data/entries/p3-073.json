@@ -542,7 +542,9 @@
     "register": "formal",
     "themes": [
       "military-strategy-and-victory",
-      "wisdom"
+      "wisdom",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "later · launch · control · opponent",
     "natural": "let the other strike first, then win",
@@ -581,7 +583,18 @@
       "先下手为强",
       "先声夺人",
       "先发制人"
-    ]
+    ],
+    "origin": {
+      "source": "《荀子·议兵》",
+      "story": {
+        "en": "Xunzi (Debating Warfare) says: \"To set out later yet arrive first, this is the key art of using troops.\" The idiom for letting the enemy move first and then overcoming him condenses this idea.",
+        "zh": "《荀子·议兵》说用兵之道：\"后之发，先之至，此用兵之要术也。\"即后出手而先到达。后概括为\"后发制人\"，指待对方先动再制服之。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    }
   },
   {
     "id": "gong-shi-gong-ban",

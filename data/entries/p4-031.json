@@ -416,7 +416,9 @@
     "register": "neutral",
     "themes": [
       "relationships",
-      "love-and-marriage"
+      "love-and-marriage",
+      "historical-records",
+      "wei-jin-nanbeichao"
     ],
     "literal": "point · belly · make · marriage",
     "natural": "pledge a marriage by pointing at the belly",
@@ -452,7 +454,18 @@
     "antonyms": [
       "自由恋爱",
       "自主婚姻"
-    ]
+    ],
+    "origin": {
+      "source": "南朝宋 范晔《后汉书·贾复传》",
+      "story": {
+        "en": "The Hou Han shu says that when Jia Fu was wounded, Emperor Guangwu heard that his wife was pregnant and promised that if she bore a daughter his own son would marry her, and if a son, his own daughter would marry him. The phrase \"指腹为婚\" for betrothing unborn children derives from this episode.",
+        "zh": "《后汉书·贾复传》载贾复受伤时，光武帝闻其妻有孕，许诺生女则嫁其子，生男则以女妻之，“指腹为婚”之说由此而来。"
+      },
+      "date": {
+        "zh": "南朝宋 · 约445年",
+        "en": "Liu Song, c. 445"
+      }
+    }
   },
   {
     "id": "gai-guo-qian-shan",

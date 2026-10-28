@@ -733,7 +733,9 @@
     "register": "neutral",
     "themes": [
       "deception-and-false-appearances",
-      "exam-favourites"
+      "exam-favourites",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "words · not · from · heart",
     "natural": "not mean what one says",
@@ -773,7 +775,18 @@
       "发自肺腑",
       "言由衷发",
       "言为心声"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·隐公三年》",
+      "story": {
+        "en": "The Zuo Commentary (3rd year of Duke Yin) says that \"if trust does not come from within, hostages are of no use.\" The idiom for words not from the heart is a later development of \"from within\".",
+        "zh": "《左传·隐公三年》有\"信不由中，质无益也\"，意为诚信不发自内心，抵押品也没有用。后人演变出\"言不由衷\"，指话不是真心话。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "po-ti-wei-xiao",
@@ -784,7 +797,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "joy-and-happiness"
+      "joy-and-happiness",
+      "wei-jin-nanbeichao"
     ],
     "literal": "break · tears · become · laughter",
     "natural": "stop crying and smile",
@@ -824,7 +838,18 @@
       "大放悲声",
       "痛哭流涕",
       "一把眼泪一把鼻涕"
-    ]
+    ],
+    "origin": {
+      "source": "刘琨《答卢谌书》",
+      "story": {
+        "en": "Liu Kun's \"Reply to Lu Chen\" speaks of the two \"again breaking off tears to laugh together.\" The idiom for turning from sorrow to joy comes from this wording.",
+        "zh": "西晋刘琨《答卢谌书》中有\"时复相与破涕为笑\"之语，意为止住眼泪重新笑起来。后用\"破涕为笑\"形容转悲为喜。"
+      },
+      "date": {
+        "zh": "两晋之际 · 4世纪初",
+        "en": "end of Western Jin to early Eastern Jin, early 4th c."
+      }
+    }
   },
   {
     "id": "dao-mao-an-ran",

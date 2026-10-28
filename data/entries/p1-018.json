@@ -1201,7 +1201,8 @@
     "register": "neutral",
     "themes": [
       "deception-and-false-appearances",
-      "common-and-worthless"
+      "common-and-worthless",
+      "qin-han"
     ],
     "literal": "fish · eye · mix with · pearl",
     "natural": "Passing off fish eyes as pearls",
@@ -1242,7 +1243,18 @@
       "真假分明",
       "去粗取精，去伪存真",
       "沙里淘金"
-    ]
+    ],
+    "origin": {
+      "source": "东汉魏伯阳《周易参同契》",
+      "story": {
+        "en": "The Cantong qi says that fish eyes are no pearls, yet people pass them off as pearls; the idiom 'mix fish eyes among pearls' is built on this image of fake passing as genuine.",
+        "zh": "《周易参同契》有“鱼目岂为珠”之语，喻以假充真；后世凝练为“鱼目混珠”。"
+      },
+      "date": {
+        "zh": "东汉 · 2世纪",
+        "en": "Eastern Han, 2nd c."
+      }
+    }
   },
   {
     "id": "yin-shui-si-yuan",

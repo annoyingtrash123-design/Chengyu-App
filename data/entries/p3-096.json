@@ -60,7 +60,8 @@
     "themes": [
       "relationships",
       "giving-up-and-weakness",
-      "unity-and-cooperation"
+      "unity-and-cooperation",
+      "pre-qin"
     ],
     "literal": "single · palm · hard · to clap",
     "natural": "one hand cannot clap",
@@ -110,7 +111,18 @@
       "刘备遇孔明——如鱼得水",
       "红花还得绿叶扶",
       "三个臭皮匠，顶个诸葛亮"
-    ]
+    ],
+    "origin": {
+      "source": "《韩非子·功名》",
+      "story": {
+        "en": "Han Feizi observes that 'a single hand clapping, however fast, makes no sound' (一手独拍，虽疾无声), arguing that achievement needs cooperation. The four-character idiom is a later condensation of this image.",
+        "zh": "《韩非子·功名》说：“一手独拍，虽疾无声。”意思是单凭一人之力难成大事，须有人配合；“孤掌难鸣”是后人对这一比喻的凝练。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "Late Warring States, 3rd c. BC"
+      }
+    }
   },
   {
     "id": "yang-mian-chao-tian",
@@ -325,7 +337,18 @@
       "为非作歹",
       "助纣为虐",
       "天理难容"
-    ]
+    ],
+    "origin": {
+      "source": "《水浒传》",
+      "story": {
+        "en": "In the novel, the outlaws of Liangshan Marsh fly a banner reading 'carry out the Way on behalf of Heaven' (替天行道), claiming to punish corrupt officials and right wrongs. The phrase became a standard idiom from this novel.",
+        "zh": "《水浒传》中梁山好汉高举“替天行道”的大旗，自称惩治贪官污吏、伸张正义；此语由小说流传开来，成为常用成语。"
+      },
+      "date": {
+        "zh": "元末明初 · 14世纪",
+        "en": "Late Yuan–early Ming, 14th c."
+      }
+    }
   },
   {
     "id": "bao-tian-tian-wu",
@@ -555,7 +578,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "speech"
+      "speech",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "three · inch · not · rot · 's · tongue",
     "natural": "a silver tongue",
@@ -593,7 +618,18 @@
     "antonyms": [
       "笨嘴拙舌",
       "口拙舌笨"
-    ]
+    ],
+    "origin": {
+      "source": "《史记·平原君虞卿列传》",
+      "story": {
+        "en": "Mao Sui, persuading the king of Chu to ally with Zhao, is praised by Lord Pingyuan: 'Master Mao, with his three-inch tongue, is mightier than a million troops' (毛先生以三寸之舌，强于百万之师). The idiom, with 'unrotting' added, grows out of this line.",
+        "zh": "毛遂说服楚王合纵抗秦，平原君称赞道：“毛先生一至楚，而使赵重于九鼎大吕。毛先生以三寸之舌，强于百万之师。”“三寸不烂之舌”即由“三寸之舌”演变而来，是后来的扩展说法。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "ba-shan-shu-shui",

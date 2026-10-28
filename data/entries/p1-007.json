@@ -1175,7 +1175,9 @@
     "themes": [
       "time-management",
       "poor-timing",
-      "value-of-time"
+      "value-of-time",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "time · not · me · wait",
     "natural": "Time does not wait for me",
@@ -1214,7 +1216,18 @@
     "antonyms": [
       "来日方长",
       "从长计议"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·阳货》",
+      "story": {
+        "en": "In the Analects, Yang Huo tells Confucius that 'days and months pass; the years do not wait for us' (日月逝矣，岁不我与). The idiom 时不我待 is a later rewording of this admonition.",
+        "zh": "《论语·阳货》载阳货对孔子说“日月逝矣，岁不我与”，后世凝练为“时不我待”。"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    }
   },
   {
     "id": "yi-cheng-bu-bian",

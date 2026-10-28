@@ -121,7 +121,9 @@
     "register": "formal",
     "themes": [
       "leadership-and-authority",
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "each · self · conduct · governance",
     "natural": "everyone doing their own thing",
@@ -186,7 +188,18 @@
       "众志成城",
       "风雨同舟",
       "二人同心，其利断金"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·宣公二年》",
+      "story": {
+        "en": "Before the battle of Dahuang, the Song charioteer Yang Shen, who was denied a share of the meat, said to his commander Hua Yuan: 'Yesterday the sheep was your decision; today the matter is mine' (畴昔之羊，子为政；今日之事，我为政), and drove into the enemy. The idiom condenses this into each acting on their own authority.",
+        "zh": "宋华元杀羊犒军而羊斟未得食，战时羊斟对华元说：「畴昔之羊，子为政；今日之事，我为政。」遂驱车入郑军。后人据此凝练为「各自为政」，指各行其是、不相配合。"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    }
   },
   {
     "id": "yu-zhong-xin-chang",

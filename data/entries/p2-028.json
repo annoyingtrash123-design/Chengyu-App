@@ -162,7 +162,9 @@
     "register": "neutral",
     "themes": [
       "extraordinary-circumstances",
-      "bad-fortune"
+      "bad-fortune",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "clear · sky · thunderbolt",
     "natural": "a bolt from the blue",
@@ -195,7 +197,18 @@
     ],
     "antonyms": [
       "喜从天降"
-    ]
+    ],
+    "origin": {
+      "source": "南宋·陆游《九月四日鸡未鸣起作》",
+      "story": {
+        "en": "Lu You wrote of himself rising from illness to dash off a poem, 'like a long-hibernating dragon, a thunderbolt flying in the blue sky' (青天飞霹雳). The idiom 晴天霹雳 comes from this image and now means sudden shocking news.",
+        "zh": "陆游诗云：「放翁病过秋，忽起作醉墨。正如久蛰龙，青天飞霹雳。」原形容笔势突发有力，后演变为「晴天霹雳」，比喻突如其来的震惊消息。"
+      },
+      "date": {
+        "zh": "南宋 · 12世纪",
+        "en": "Southern Song, 12th c."
+      }
+    }
   },
   {
     "id": "bu-fu-zhong-wang",
@@ -344,7 +357,9 @@
     "register": "formal",
     "themes": [
       "speech",
-      "confusion-and-doubt"
+      "confusion-and-doubt",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "speak · about it · not · detailed",
     "natural": "vague",
@@ -380,7 +395,18 @@
       "原原本本",
       "详尽无遗",
       "有鼻子有眼"
-    ]
+    ],
+    "origin": {
+      "source": "唐·韩愈《原道》",
+      "story": {
+        "en": "In Yuan Dao, Han Yu says of Xunzi and Yang Xiong that they 'chose but not with precision, spoke but not in detail' (择焉而不精，语焉而不详). The idiom 语焉不详 comes from this line and means mentioned without enough detail.",
+        "zh": "韩愈《原道》评荀子、扬雄：「荀与扬也，择焉而不精，语焉而不详。」成语「语焉不详」出自此句，指说得不够详细。"
+      },
+      "date": {
+        "zh": "唐 · 约800年",
+        "en": "Tang dynasty, c. 800"
+      }
+    }
   },
   {
     "id": "bei-tong-yu-jue",

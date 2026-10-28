@@ -53,7 +53,9 @@
     "register": "literary",
     "themes": [
       "extraordinary-circumstances",
-      "leadership-and-authority"
+      "leadership-and-authority",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "thunderclap · thunder · ten-thousand · jun",
     "natural": "with thunderous force",
@@ -85,7 +87,18 @@
     ],
     "antonyms": [
       "软弱无力"
-    ]
+    ],
+    "origin": {
+      "source": "《汉书·贾山传》",
+      "story": {
+        "en": "The Book of Han (Biography of Jia Shan) has: \"What thunderbolts strike is always shattered; what ten thousand jun press upon is always crushed.\" The idiom, for overwhelming force, merges \"thunderbolt\" and \"ten thousand jun\" from this passage.",
+        "zh": "《汉书·贾山传》载贾山上书：\"雷霆之所击，无不摧折者；万钧之所压，无不糜灭者。\"形容力量极大。后人把\"雷霆\"\"万钧\"合为成语。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "wei-guo-wei-min",
@@ -355,7 +368,9 @@
     "register": "neutral",
     "themes": [
       "attitude-humble-vs-arrogant",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "toes · high · air · raised",
     "natural": "strut arrogantly",
@@ -404,7 +419,18 @@
       "点头哈腰",
       "垂头丧气",
       "屈己待人"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·桓公十三年》",
+      "story": {
+        "en": "The Zuo Commentary (13th year of Duke Huan) says that on seeing the Chu commander Qu Xia march with his feet raised high, Dou Bobi predicted defeat because \"his mind is not steady.\" The idiom is a later condensation describing arrogance.",
+        "zh": "《左传·桓公十三年》载楚将莫敖屈瑕出征时，大夫斗伯比见他\"举趾高\"，便断言\"必败，心不固矣\"。后人据此概括出\"趾高气扬\"，形容骄傲自大的样子。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "de-er-fu-shi",

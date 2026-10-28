@@ -646,7 +646,9 @@
     "register": "literary",
     "themes": [
       "inappropriate-behavior",
-      "artistic-mediocrity"
+      "artistic-mediocrity",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "soft · soft · 's · sound",
     "natural": "decadent music",
@@ -678,7 +680,18 @@
     ],
     "antonyms": [
       "黄钟大吕"
-    ]
+    ],
+    "origin": {
+      "source": "《史记·殷本纪》",
+      "story": {
+        "en": "The Annals of Yin record that King Zhou had his musician compose 'new licentious sounds, northern-village dances and decadent music' (靡靡之乐). The later idiom 靡靡之音 for soft, enervating music derives from this.",
+        "zh": "《史记·殷本纪》载商纣王“使师涓作新淫声，北里之舞，靡靡之乐”；后世“靡靡之音”即由此而来，指萎靡颓废的音乐。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "qin-jin-zhi-hao",
@@ -691,7 +704,8 @@
     "themes": [
       "love-and-marriage",
       "wedding-wishes",
-      "historical-records"
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "Qin · Jin · 's · friendship",
     "natural": "a marriage alliance",
@@ -721,7 +735,18 @@
       "百年好合",
       "喜结连理"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《左传》",
+      "story": {
+        "en": "The states of Qin and Jin intermarried over generations in the Spring and Autumn period, notably when Duke Mu of Qin gave daughters to Prince Chong'er of Jin (Zuozhuan, 23rd year of Duke Xi). The idiom for a marriage alliance comes from this history.",
+        "zh": "春秋时秦、晋两国世代联姻，《左传·僖公二十三年》载秦穆公以女嫁晋公子重耳；后遂以“秦晋之好”称两家结为婚姻。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "ri-mu-tu-qiong",

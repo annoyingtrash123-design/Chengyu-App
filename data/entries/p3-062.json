@@ -769,7 +769,9 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "mediocrity-and-poor-appearance"
+      "mediocrity-and-poor-appearance",
+      "historical-records",
+      "wei-jin-nanbeichao"
     ],
     "literal": "big · belly · plump · plump",
     "natural": "pot-bellied",
@@ -802,7 +804,18 @@
     "antonyms": [
       "骨瘦如柴",
       "瘦骨嶙峋"
-    ]
+    ],
+    "origin": {
+      "source": "《后汉书·文苑传·边韶》",
+      "story": {
+        "en": "The Book of the Later Han (Biography of Bian Shao) records disciples mocking the napping teacher: \"Bian Xiaoxian, belly so fat, too lazy to read, only wants to sleep.\" The \"fat belly\" phrase became the idiom.",
+        "zh": "《后汉书·文苑传》载边韶白天假寝，弟子嘲笑他：\"边孝先，腹便便，懒读书，但欲眠。\"边韶机智作答。\"腹便便\"指肚子肥大，后成\"大腹便便\"。"
+      },
+      "date": {
+        "zh": "南朝宋 · 约445年",
+        "en": "Liu Song, c. 445"
+      }
+    }
   },
   {
     "id": "ge-wu-sheng-ping",
@@ -866,7 +879,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "situation · not · two · stand",
     "natural": "mutually irreconcilable",
@@ -918,7 +933,18 @@
       "串通一气",
       "四海之内皆兄弟",
       "度尽劫波兄弟在，相逢一笑泯恩仇"
-    ]
+    ],
+    "origin": {
+      "source": "《战国策·楚策一》",
+      "story": {
+        "en": "In the Stratagems of the Warring States (Chu, 1), Su Qin tells the king of Chu that if Chu is strong Qin is weak, and vice versa, so \"their positions cannot both stand.\" The idiom for irreconcilable enemies comes from this.",
+        "zh": "《战国策·楚策一》载苏秦游说楚王，说秦楚两强\"楚强则秦弱，秦强则楚弱，其势不两立\"。成语即指双方矛盾尖锐，不能并存。"
+      },
+      "date": {
+        "zh": "西汉 · 前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "yi-wang-qing-shen",

@@ -412,7 +412,9 @@
     "register": "literary",
     "themes": [
       "successful-construction",
-      "landscapes"
+      "landscapes",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "scale · order · comb-teeth · side by side",
     "natural": "Lined up like fish scales and comb teeth",
@@ -447,7 +449,18 @@
     ],
     "antonyms": [
       "稀稀落落"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·周颂·良耜》",
+      "story": {
+        "en": "The ode says the heaped grain 'is tall as a city wall and close-set as the teeth of a comb' (其崇如墉，其比如栉). The idiom 鳞次栉比 (like fish scales and comb teeth) is a later coinage built on the comb image.",
+        "zh": "《诗经·周颂·良耜》云“其崇如墉，其比如栉”，以梳齿喻排列紧密；“鳞次栉比”为后世据此形成的说法。"
+      },
+      "date": {
+        "zh": "西周 · 前11—前10世纪",
+        "en": "Western Zhou, 11th–10th c. BC"
+      }
+    }
   },
   {
     "id": "fu-di-chou-xin",

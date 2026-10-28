@@ -378,7 +378,8 @@
     "register": "neutral",
     "themes": [
       "natural-consequences",
-      "poor-speech-and-silence"
+      "poor-speech-and-silence",
+      "wei-jin-nanbeichao"
     ],
     "literal": "disaster · from · mouth · emerge",
     "natural": "loose lips sink ships",
@@ -417,7 +418,18 @@
     "antonyms": [
       "慎言慎行",
       "一言兴邦"
-    ]
+    ],
+    "origin": {
+      "source": "傅玄《口铭》",
+      "story": {
+        "en": "Fu Xuan's \"Inscription on the Mouth\" has the line \"illness enters by the mouth, disaster comes out of the mouth\", warning against careless speech. The idiom comes from it.",
+        "zh": "西晋傅玄《口铭》有\"病从口入，祸从口出\"之句，告诫人说话要谨慎。成语\"祸从口出\"即源于此。"
+      },
+      "date": {
+        "zh": "西晋 · 3世纪",
+        "en": "Western Jin, 3rd c."
+      }
+    }
   },
   {
     "id": "tan-tou-tan-nao",
@@ -1045,7 +1057,9 @@
     "register": "literary",
     "themes": [
       "sadness-and-despair",
-      "excellent-writing"
+      "excellent-writing",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "like · weeping · like · complaining",
     "natural": "as if weeping and pleading",
@@ -1082,7 +1096,18 @@
     "antonyms": [
       "欢声笑语",
       "慷慨激昂"
-    ]
+    ],
+    "origin": {
+      "source": "苏轼《前赤壁赋》",
+      "story": {
+        "en": "In Su Shi's \"First Ode on the Red Cliff\" the guest's flute sounds \"as if in resentment, as if in longing, as if weeping, as if complaining.\" The idiom for plaintive sound is taken from this line.",
+        "zh": "苏轼《前赤壁赋》写客人吹洞箫，声音\"呜呜然，如怨如慕，如泣如诉\"。后用来形容声音哀怨动人。"
+      },
+      "date": {
+        "zh": "北宋 · 1082年",
+        "en": "Northern Song, 1082"
+      }
+    }
   },
   {
     "id": "qian-gu-jue-chang",

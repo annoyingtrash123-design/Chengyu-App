@@ -57,7 +57,9 @@
     "register": "neutral",
     "themes": [
       "complete-failure-and-obscurity",
-      "failed-ambitions"
+      "failed-ambitions",
+      "buddhist-origin",
+      "wei-jin-nanbeichao"
     ],
     "literal": "turn · into · bubble · shadow",
     "natural": "come to nothing",
@@ -93,7 +95,18 @@
       "梦想成真",
       "如愿以偿",
       "水到渠成"
-    ]
+    ],
+    "origin": {
+      "source": "后秦·鸠摩罗什译《金刚经》",
+      "story": {
+        "en": "The Diamond Sutra ends its verse with 'all conditioned things are like a dream, an illusion, a bubble, a shadow'. 化为泡影 is a later idiom built on this image of the bubble.",
+        "zh": "《金刚经》偈云“一切有为法，如梦幻泡影”。成语“化为泡影”由“泡影”的意象发展而来。"
+      },
+      "date": {
+        "zh": "后秦 · 402年",
+        "en": "Later Qin, 402"
+      }
+    }
   },
   {
     "id": "shang-xia-yi-xin",
@@ -1012,7 +1025,9 @@
     "register": "formal",
     "themes": [
       "inappropriate-behavior",
-      "danger"
+      "danger",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "brave · under heaven · 's · great · wrong",
     "natural": "defy universal condemnation",
@@ -1045,7 +1060,18 @@
     "antonyms": [
       "循规蹈矩",
       "顺应民心"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·隐公十一年》",
+      "story": {
+        "en": "Discussing the ruler of Xi, the Zuo Zhuan says he committed 'five wrongs (不韪)' in attacking another state. The idiom takes 不韪, 'what is wrong', from this passage and generalises it to defying universal condemnation.",
+        "zh": "《左传》评息侯伐郑，说他“犯五不韪而以伐人”。成语取“不韪”（过失）一词，引申为触犯天下公认的大错。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "tuo-shou-ke-de",

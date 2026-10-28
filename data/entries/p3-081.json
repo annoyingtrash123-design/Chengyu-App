@@ -56,7 +56,9 @@
     "register": "neutral",
     "themes": [
       "relative-measurements",
-      "danger"
+      "danger",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "huge · -ly · big · thing",
     "natural": "a huge hulk of a thing",
@@ -91,7 +93,18 @@
       "具体而微",
       "秋毫之末",
       "微不足道"
-    ]
+    ],
+    "origin": {
+      "source": "柳宗元《三戒·黔之驴》",
+      "story": {
+        "en": "Liu Zongyuan's fable \"The Donkey of Guizhou\" has the tiger seeing the donkey as a \"huge, towering creature\" and fleeing. The idiom for something imposing in size comes directly from it.",
+        "zh": "柳宗元《黔之驴》写老虎初见驴，\"以为神\"，\"见其庞然大物也\"，吓得躲开。后用\"庞然大物\"形容外表巨大而不一定有本领的东西。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪初",
+        "en": "Tang dynasty, early 9th c."
+      }
+    }
   },
   {
     "id": "gua-tian-li-xia",

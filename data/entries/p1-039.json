@@ -997,7 +997,9 @@
     "register": "neutral",
     "themes": [
       "natural-consequences",
-      "farming-and-harvest"
+      "farming-and-harvest",
+      "buddhist-origin",
+      "wei-jin-nanbeichao"
     ],
     "literal": "plant · melon · get · melon",
     "natural": "Plant melons and you get melons",
@@ -1033,7 +1035,18 @@
     ],
     "antonyms": [
       "不劳而获"
-    ]
+    ],
+    "origin": {
+      "source": "《大般涅槃经》",
+      "story": {
+        "en": "The Nirvana Sutra, in Dharmaksema's Chinese translation, says 'plant melons and get melons, plant plums and get plums' (种瓜得瓜，种李得李), illustrating that karma repays like with like. The idiom keeps the first half.",
+        "zh": "昙无谶译《大般涅槃经》有“种瓜得瓜，种李得李”之说，以喻因果相应、自作自受。成语取其前半。"
+      },
+      "date": {
+        "zh": "北凉 · 421年",
+        "en": "Northern Liang, 421"
+      }
+    }
   },
   {
     "id": "zhen-qin-yi-shou",

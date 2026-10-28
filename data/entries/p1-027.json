@@ -1233,7 +1233,8 @@
     "themes": [
       "relationships",
       "journeys-and-exploration",
-      "farewells"
+      "farewells",
+      "qin-han"
     ],
     "literal": "sky · each · one · side",
     "natural": "Each at a different end of the sky",
@@ -1285,7 +1286,18 @@
       "一衣带水",
       "西窗剪烛",
       "海内存知己，天涯若比邻"
-    ]
+    ],
+    "origin": {
+      "source": "《古诗十九首·行行重行行》",
+      "story": {
+        "en": "The Nineteen Old Poems line says that two parted people are 'ten thousand li apart, each at one end of heaven' (各在天一涯). The idiom 天各一方 condenses this image of separation.",
+        "zh": "《古诗十九首·行行重行行》云“相去万余里，各在天一涯”，后世凝练为“天各一方”。"
+      },
+      "date": {
+        "zh": "东汉 · 2世纪",
+        "en": "Eastern Han, 2nd c."
+      }
+    }
   },
   {
     "id": "sheng-quan-zai-wo",

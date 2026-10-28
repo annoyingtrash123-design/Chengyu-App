@@ -925,7 +925,9 @@
     "themes": [
       "character",
       "appearance",
-      "polite-humble"
+      "polite-humble",
+      "historical-records",
+      "wei-jin-nanbeichao"
     ],
     "literal": "white · face · book · scholar",
     "natural": "a pale-faced scholar",
@@ -956,7 +958,18 @@
     ],
     "antonyms": [
       "久经沙场"
-    ]
+    ],
+    "origin": {
+      "source": "沈约《宋书·沈庆之传》",
+      "story": {
+        "en": "When Emperor Wen of Song planned a northern campaign, the veteran general Shen Qingzhi objected that the emperor was consulting \"白面书生辈\" (pale-faced scholars) who knew nothing of war. The idiom comes from this remark.",
+        "zh": "宋文帝议北伐，老将沈庆之反对，说：“陛下今欲伐国，而与白面书生辈谋之，事何由济？”“白面书生”即由此而来，指不谙实事的文弱书生。"
+      },
+      "date": {
+        "zh": "南朝齐 · 488年",
+        "en": "Southern Qi, 488"
+      }
+    }
   },
   {
     "id": "zi-gao-zi-da",

@@ -123,7 +123,9 @@
     "register": "neutral",
     "themes": [
       "corruption-and-injustice",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "slip · net · (of) · fish",
     "natural": "A fish that slipped through the net",
@@ -163,7 +165,18 @@
       "瓮中捉鳖",
       "天网恢恢",
       "疏而不漏"
-    ]
+    ],
+    "origin": {
+      "source": "汉司马迁《史记·酷吏列传》",
+      "story": {
+        "en": "The Records of the Grand Historian says that when the law net was loose, it let 'fish that could swallow a boat' slip through. The idiom 漏网之鱼 is a later condensation of this image of one who escapes.",
+        "zh": "《史记·酷吏列传》有“网漏于吞舟之鱼”之语，喻法网疏阔而使大奸漏网；后世凝练为“漏网之鱼”。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "cheng-feng-po-lang",
@@ -1243,7 +1256,8 @@
     "register": "literary",
     "themes": [
       "daily",
-      "exam-favourites"
+      "exam-favourites",
+      "pre-qin"
     ],
     "literal": "rub · shoulder · touch · heel",
     "natural": "Shoulders rubbing and heels touching",
@@ -1284,7 +1298,18 @@
       "门可罗雀",
       "人迹罕至",
       "冷冷清清"
-    ]
+    ],
+    "origin": {
+      "source": "《晏子春秋·内篇杂下》",
+      "story": {
+        "en": "Yanzi boasts that Linzi's people are so many that 'shoulders touch and heels follow one another' (比肩继踵). The idiom 摩肩接踵 is a later rewording of this description of a crowd.",
+        "zh": "《晏子春秋》载晏子形容临淄人多“张袂成阴，挥汗成雨，比肩继踵而在”，后世凝练为“摩肩接踵”。"
+      },
+      "date": {
+        "zh": "战国 · 约前3世纪",
+        "en": "Warring States, c. 3rd c. BC"
+      }
+    }
   },
   {
     "id": "hu-shi-dan-dan",

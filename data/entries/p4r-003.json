@@ -234,7 +234,8 @@
     "register": "neutral",
     "themes": [
       "chaos",
-      "unintended-results"
+      "unintended-results",
+      "sui-tang-wudai"
     ],
     "literal": "level · ground · wind · waves",
     "natural": "waves on level ground",
@@ -270,7 +271,18 @@
     ],
     "variants": [
       "平地起风波"
-    ]
+    ],
+    "origin": {
+      "source": "唐·刘禹锡《竹枝词九首》",
+      "story": {
+        "en": "Liu Yuxi's Bamboo Branch Songs say that the Qutang Gorge is not the most dangerous; people's hearts are, since 'trouble rises even on level ground'. 'Wind and waves on level ground' is the idiom's later form, meaning sudden trouble out of nowhere.",
+        "zh": "刘禹锡《竹枝词九首》有句：“瞿塘嘈嘈十二滩，此中道路古来难。长恨人心不如水，等闲平地起波澜。”后凝练为“平地风波”，比喻突然发生的事端。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪",
+        "en": "Tang dynasty, 9th c."
+      }
+    }
   },
   {
     "id": "pu-liu-zhi-zi",

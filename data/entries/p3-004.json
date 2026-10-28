@@ -1201,7 +1201,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "poor-planning-and-hasty-decisions"
+      "poor-planning-and-hasty-decisions",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "abandon · near · seek · far",
     "natural": "look far for what is close at hand",
@@ -1237,7 +1239,18 @@
       "近水楼台先得月，向阳花木易为春",
       "由近及远",
       "就地取材"
-    ]
+    ],
+    "origin": {
+      "source": "《孟子·离娄上》",
+      "story": {
+        "en": "Mencius says that the Way lies near at hand yet people seek it far away, and that the matter is easy yet people seek it in difficulty. The idiom is a later condensation of this contrast between near and far.",
+        "zh": "孟子说：“道在迩而求诸远，事在易而求诸难。”舍近求远即由这种舍近就远的批评浓缩而成。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "zhi-shen-shi-wai",

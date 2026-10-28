@@ -59,7 +59,9 @@
     "register": "neutral",
     "themes": [
       "outstanding-success-and-fame",
-      "high-aspirations"
+      "high-aspirations",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "blue · clouds · straight · up",
     "natural": "Rising straight up into the blue clouds",
@@ -98,7 +100,18 @@
       "一落千丈",
       "每况愈下",
       "怀才不遇"
-    ]
+    ],
+    "origin": {
+      "source": "司马迁《史记·范雎蔡泽列传》",
+      "story": {
+        "en": "Xu Jia tells Fan Ju: 'I never expected you could raise yourself to the clouds' (不意君能自致于青云之上). 'Azure clouds' came to stand for high office, and the idiom condenses this phrase.",
+        "zh": "须贾对范雎说：“贾不意君能自致于青云之上。”后以“青云”喻高官显位，成语“青云直上”由此引申凝练。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "bao-chou-xue-hen",
@@ -209,7 +222,8 @@
     "register": "neutral",
     "themes": [
       "culture",
-      "buddhist-origin"
+      "buddhist-origin",
+      "wei-jin-nanbeichao"
     ],
     "literal": "supreme · bliss · world",
     "natural": "The world of supreme bliss",
@@ -245,7 +259,18 @@
     "antonyms": [
       "人间地狱",
       "苦海无边"
-    ]
+    ],
+    "origin": {
+      "source": "《阿弥陀经》",
+      "story": {
+        "en": "The Amitabha Sutra describes a Buddha-land to the west 'called Utmost Bliss' (有世界名曰极乐), where beings suffer nothing. 'The world of utmost bliss' is the idiom's source phrase and means paradise.",
+        "zh": "《阿弥陀经》言“从是西方过十万亿佛土，有世界名曰极乐”，彼土众生无有众苦，但受诸乐。“极乐世界”一语即源于此，比喻理想乐土。"
+      },
+      "date": {
+        "zh": "后秦 · 402年",
+        "en": "Later Qin, 402"
+      }
+    }
   },
   {
     "id": "dang-ju-zhe-mi",

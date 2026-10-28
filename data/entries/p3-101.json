@@ -481,7 +481,9 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "I · take · I · demand",
     "natural": "take whatever one likes",
@@ -513,7 +515,18 @@
     "antonyms": [
       "克己奉公",
       "分文不取"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·僖公七年》",
+      "story": {
+        "en": "In the Zuozhuan, a Zheng minister says of a powerful patron that one may 'take and ask as one pleases' (子取子求) without blame. The idiom is the later written form of this line.",
+        "zh": "《左传·僖公七年》有“子取子求，不女疵瑕也”之语，意为任凭取求而不受责备；后写作“予取予求”。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "dou-kou-nian-hua",

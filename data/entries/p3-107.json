@@ -663,7 +663,9 @@
     "register": "neutral",
     "themes": [
       "high-aspirations",
-      "journeys-and-exploration"
+      "journeys-and-exploration",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "ambition · lies in · four · quarters",
     "natural": "aim for far horizons",
@@ -699,7 +701,18 @@
       "胸无大志",
       "儿女情长",
       "为稻粱谋"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·僖公二十三年》",
+      "story": {
+        "en": "Prince Chong'er, in exile, is urged by his wife Jiang to leave comfort behind, since he 'has ambitions for the four quarters' (有四方之志). The idiom condenses this wording into a general phrase for wide ambition.",
+        "zh": "重耳流亡齐国，姜氏劝他不要贪恋安逸，说他“有四方之志”；“志在四方”是对这一说法的凝练。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "yi-ding-zhi-gui",

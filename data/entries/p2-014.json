@@ -917,7 +917,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "high-aspirations"
+      "high-aspirations",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "dream · sleep · to · seek",
     "natural": "dream of",
@@ -952,7 +954,18 @@
     "antonyms": [
       "避之不及",
       "弃如敝屣"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·周南·关雎》",
+      "story": {
+        "en": "The Guanju poem says of the lovesick suitor 'awake or asleep, he seeks her' (寤寐求之). The four-character idiom is a later condensation of this wording, meaning to long for something even in one's dreams.",
+        "zh": "《关雎》：「求之不得，寤寐思服」「窈窕淑女，寤寐求之」，写男子日夜思念淑女。「梦寐以求」是后世据「寤寐求之」凝练而成，形容迫切期望。"
+      },
+      "date": {
+        "zh": "西周至春秋 · 前11—前6世纪",
+        "en": "Western Zhou to Spring and Autumn, 11th–6th c. BC"
+      }
+    }
   },
   {
     "id": "an-na-bu-zhu",
@@ -1288,7 +1301,9 @@
     "register": "formal",
     "themes": [
       "successful-completion",
-      "conduct"
+      "conduct",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "not · disgrace · mission",
     "natural": "accomplish the mission",
@@ -1322,6 +1337,17 @@
     "antonyms": [
       "有辱使命",
       "功亏一篑"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·子路》",
+      "story": {
+        "en": "Confucius says a true scholar-official 'when sent on a mission to the four quarters, does not disgrace his lord's commission' (使于四方，不辱君命). The idiom 不辱使命 is a later condensation of this, meaning to fulfil one's mission with honour.",
+        "zh": "子贡问何如斯可谓之士，孔子答：「行己有耻，使于四方，不辱君命，可谓士矣。」后凝练为「不辱使命」，指圆满完成任务。"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    }
   }
 ]

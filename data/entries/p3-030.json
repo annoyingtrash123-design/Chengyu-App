@@ -419,7 +419,9 @@
     "register": "formal",
     "themes": [
       "fear-and-cowardice",
-      "resistance-to-change"
+      "resistance-to-change",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "bind · feet · not · advance",
     "natural": "hold back",
@@ -461,7 +463,18 @@
       "突飞猛进",
       "砥砺前行",
       "争先恐后"
-    ]
+    ],
+    "origin": {
+      "source": "汉·司马迁《史记·李斯列传》（《谏逐客书》）",
+      "story": {
+        "en": "In his memorial against expelling foreign advisers, Li Si warns that talented men will 'bind up their feet and not enter Qin'. 裹足不前 is a later reshaping of 裹足不入秦国, with the meaning shifted to 'hold back from advancing'.",
+        "zh": "李斯《谏逐客书》警告说天下之士将“裹足不入秦国”，成语“裹足不前”由此变化而来，意思转为不敢前进。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "yi-nian-zhi-ji-zai-yu-chun",

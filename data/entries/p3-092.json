@@ -9,7 +9,9 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "luxury-and-extravagance"
+      "luxury-and-extravagance",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "silk · trousers · sons · younger generation",
     "natural": "idle rich kid",
@@ -50,7 +52,18 @@
       "寒门学子",
       "白手起家",
       "将门虎子"
-    ]
+    ],
+    "origin": {
+      "source": "《汉书·叙传》",
+      "story": {
+        "en": "The Book of Han (Postface) mentions \"the crowd in silk jackets and fine trousers\", meaning pampered aristocratic youths. The idiom for idle sons of the rich derives from this wording.",
+        "zh": "《汉书·叙传》中有\"绮襦纨绔之徒\"，指穿着华美的贵族子弟。后人用\"纨绔子弟\"指不学无术的富家子弟。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "bu-fen-bo-zhong",

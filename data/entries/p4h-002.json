@@ -630,7 +630,8 @@
     "register": "casual",
     "themes": [
       "foolishness-and-ignorance",
-      "food"
+      "food",
+      "ming-dynasty"
     ],
     "literal": "Zhu Bajie · eat · ginseng fruit — completely · not · know · taste",
     "natural": "Pigsy gulps down the ginseng fruit",
@@ -665,7 +666,18 @@
     "antonyms": [
       "细嚼慢咽",
       "回味无穷"
-    ]
+    ],
+    "origin": {
+      "source": "明·吴承恩《西游记》第二十四回",
+      "story": {
+        "en": "In chapter 24 of Journey to the West, Zhu Bajie gulps down a ginseng fruit so fast that he does not taste it, and asks for more. The saying draws on this scene and describes bolting something without appreciating it.",
+        "zh": "《西游记》第二十四回写猪八戒偷吃人参果，一口吞下，“实未尝出滋味”，还要再讨。歇后语由此而来，形容囫囵吞枣、不懂得品味。"
+      },
+      "date": {
+        "zh": "明 · 16世纪",
+        "en": "Ming dynasty, 16th c."
+      }
+    }
   },
   {
     "id": "sun-wu-kong-fan-gen-tou",
@@ -684,7 +696,8 @@
     "register": "casual",
     "themes": [
       "myths-legends",
-      "speed-fast-vs-slow"
+      "speed-fast-vs-slow",
+      "ming-dynasty"
     ],
     "literal": "Sun Wukong · turn · somersault — one · somersault · 108,000 · li",
     "natural": "Monkey King's somersault: 108,000 li in one",
@@ -716,7 +729,18 @@
     ],
     "antonyms": [
       "慢如蜗牛"
-    ]
+    ],
+    "origin": {
+      "source": "明·吴承恩《西游记》第二回",
+      "story": {
+        "en": "In chapter 2 of Journey to the West, the Monkey King learns the cloud somersault, which carries him 108,000 li in a single leap. The saying is taken from this feat and is used for something that covers a huge distance at once.",
+        "zh": "《西游记》第二回写孙悟空学得筋斗云，“一个筋斗十万八千里”。歇后语即出于此，形容一下子跨越极远的距离或变化极大。"
+      },
+      "date": {
+        "zh": "明 · 16世纪",
+        "en": "Ming dynasty, 16th c."
+      }
+    }
   },
   {
     "id": "wu-da-lang-kai-dian-bu-rong-da-ge-er",
@@ -848,7 +872,8 @@
     "register": "casual",
     "themes": [
       "three-kingdoms",
-      "fairness-and-impartiality"
+      "fairness-and-impartiality",
+      "ming-dynasty"
     ],
     "literal": "Zhuge Liang · wipe · tears · behead · Ma Su — take care of · whole · overall · situation",
     "natural": "Zhuge Liang executes Ma Su in tears",
@@ -879,7 +904,18 @@
     ],
     "antonyms": [
       "因私废公"
-    ]
+    ],
+    "origin": {
+      "source": "元末明初·罗贯中《三国演义》第九十六回",
+      "story": {
+        "en": "In Romance of the Three Kingdoms, Ma Su disobeys orders and loses Jieting, so Zhuge Liang tearfully has his trusted friend executed to uphold military law. The saying draws on this to mean putting the larger interest above personal feeling.",
+        "zh": "《三国演义》第九十六回写马谡违令失街亭，诸葛亮挥泪下令将其斩首，以严军纪。歇后语由此而来，比喻为顾全大局而忍痛处置亲近之人。"
+      },
+      "date": {
+        "zh": "元末明初 · 14世纪",
+        "en": "late Yuan to early Ming, 14th c."
+      }
+    }
   },
   {
     "id": "a-dou-fu-bu-qi-lai",
@@ -944,7 +980,9 @@
     "register": "casual",
     "themes": [
       "giving-up-and-weakness",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "rotten mud — support · not · onto · wall",
     "natural": "wet mud can't be plastered onto a wall",
@@ -979,7 +1017,18 @@
     "antonyms": [
       "可造之材",
       "出类拔萃"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·公冶长》",
+      "story": {
+        "en": "In the Analects, Confucius says of Zai Yu, who slept in the daytime, that rotten wood cannot be carved and a wall of dung cannot be plastered. The saying 'mud cannot be propped up on a wall' is a later folk form of this image, for a hopelessly incapable person.",
+        "zh": "《论语·公冶长》载孔子责备白天睡觉的宰予：“朽木不可雕也，粪土之墙不可杇也。”民间由此化出“烂泥扶不上墙”，比喻人不成器、无法培养。"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    }
   },
   {
     "id": "lao-shu-zuan-feng-xiang-liang",

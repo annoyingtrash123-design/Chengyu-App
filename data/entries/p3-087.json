@@ -574,7 +574,9 @@
     "register": "formal",
     "themes": [
       "polite-humble",
-      "modest-goals"
+      "modest-goals",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "not · worth · hang · teeth",
     "natural": "not worth mentioning",
@@ -608,7 +610,18 @@
     "antonyms": [
       "举足轻重",
       "非同小可"
-    ]
+    ],
+    "origin": {
+      "source": "《史记·刘敬叔孙通列传》",
+      "story": {
+        "en": "The Records of the Grand Historian (Biography of Liu Jing and Shusun Tong) has Shusun Tong tell the Second Emperor of Qin that the rebels are merely petty thieves, \"not worth mentioning between the teeth.\" The idiom \"not worth hanging on the teeth\" condenses this.",
+        "zh": "《史记·刘敬叔孙通列传》载陈胜起事后，叔孙通对秦二世说，那些造反的人不过是\"群盗鼠窃狗盗耳，何足置之齿牙间\"。后以\"不足挂齿\"表示不值一提。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "wu-wen-nong-mo",

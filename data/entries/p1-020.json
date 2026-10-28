@@ -1301,7 +1301,18 @@
       "唾面自干",
       "打落牙齿和血吞",
       "以直报怨"
-    ]
+    ],
+    "origin": {
+      "source": "《圣经·出埃及记》",
+      "story": {
+        "en": "Exodus 21 lays down the law of retaliation: 'eye for eye, tooth for tooth' (以眼还眼，以牙还牙). The idiom is the Chinese rendering of this principle, meaning to repay in kind.",
+        "zh": "《圣经·出埃及记》载同态复仇之律：“以眼还眼，以牙还牙”，成语即由此译文而来，意为以同样的手段回击对方。"
+      },
+      "date": {
+        "zh": "古代近东 · 前10世纪—1世纪（中文和合本1919年）",
+        "en": "ancient Near East, 10th c. BC–1st c. AD (Chinese Union Version 1919)"
+      }
+    }
   },
   {
     "id": "bin-zhi-ru-gui",
@@ -1618,7 +1629,9 @@
     "themes": [
       "good-governance",
       "corruption-and-injustice",
-      "fairness-and-impartiality"
+      "fairness-and-impartiality",
+      "historical-records",
+      "yuan-dynasty"
     ],
     "literal": "iron · face · not have · selfishness",
     "natural": "An iron face with no favouritism",
@@ -1666,6 +1679,17 @@
       "好好先生",
       "姑息养奸",
       "心慈手软"
-    ]
+    ],
+    "origin": {
+      "source": "元脱脱等《宋史·赵抃传》",
+      "story": {
+        "en": "The Song History records that Zhao Bian, as censor, impeached without fear of the powerful and was called the 'iron-faced censor'. The idiom 铁面无私 condenses this reputation for impartiality.",
+        "zh": "《宋史·赵抃传》记赵抃任御史，弹劾不避权贵，时称“铁面御史”，成语“铁面无私”由此引申。"
+      },
+      "date": {
+        "zh": "元 · 约1345年",
+        "en": "Yuan, c. 1345"
+      }
+    }
   }
 ]

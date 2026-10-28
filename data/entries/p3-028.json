@@ -276,7 +276,9 @@
     "themes": [
       "conflict-and-strife",
       "military-strategy-and-victory",
-      "often-misused"
+      "often-misused",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "greatly · move · shield · halberd",
     "natural": "make a big fuss",
@@ -310,7 +312,18 @@
     "antonyms": [
       "化干戈为玉帛",
       "息事宁人"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·季氏》",
+      "story": {
+        "en": "Confucius criticises the plan to 'move shield and spear' (take up arms) within the state, in the story of Ji Shi's intended attack on Zhuanyu. The idiom condenses 谋动干戈 and now also means making a big fuss.",
+        "zh": "孔子批评季氏攻打颛臾之谋，说“而谋动干戈于邦内”。大动干戈由“动干戈”浓缩而来，后也比喻大张声势。"
+      },
+      "date": {
+        "zh": "战国初 · 前5—前4世纪",
+        "en": "early Warring States, 5th–4th c. BC"
+      }
+    }
   },
   {
     "id": "shui-ru-jiao-rong",
@@ -666,7 +679,9 @@
     "register": "neutral",
     "themes": [
       "small-numbers",
-      "common-and-worthless"
+      "common-and-worthless",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "fly · head · small · profit",
     "natural": "a petty gain",
@@ -698,7 +713,18 @@
     ],
     "antonyms": [
       "一本万利"
-    ]
+    ],
+    "origin": {
+      "source": "北宋·苏轼《满庭芳》",
+      "story": {
+        "en": "Su Shi's lyric reads 'Snail-horn fame, fly-head profit; what is all this busyness worth?'. The phrase 蝇头微利 there became the idiom for tiny gains.",
+        "zh": "苏轼《满庭芳》有“蜗角虚名，蝇头微利，算来著甚干忙”之句。“蝇头微利”后演变为“蝇头小利”，比喻微小的利益。"
+      },
+      "date": {
+        "zh": "北宋 · 11世纪",
+        "en": "Northern Song, 11th c."
+      }
+    }
   },
   {
     "id": "yuan-qin-bu-ru-jin-lin",

@@ -237,7 +237,9 @@
     "register": "neutral",
     "themes": [
       "outstanding-success-and-fame",
-      "unprecedented-situations"
+      "unprecedented-situations",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "before · no · ancients, after · no · those-to-come",
     "natural": "unprecedented and unrepeatable",
@@ -269,7 +271,18 @@
     ],
     "antonyms": [
       "平淡无奇"
-    ]
+    ],
+    "origin": {
+      "source": "唐·陈子昂《登幽州台歌》",
+      "story": {
+        "en": "Chen Zi'ang's poem begins 'Before me I see no ancients, behind me I see no one to come.' The idiom is a later reworking of that line, now meaning an unprecedented, unrepeatable achievement.",
+        "zh": "陈子昂《登幽州台歌》云：“前不见古人，后不见来者。念天地之悠悠，独怆然而涕下！”后演化为“前无古人，后无来者”，形容空前绝后的成就。"
+      },
+      "date": {
+        "zh": "唐 · 约696年",
+        "en": "Tang dynasty, c. 696"
+      }
+    }
   },
   {
     "id": "sheng-bu-jiao-bai-bu-nei",
@@ -756,7 +769,9 @@
     "register": "casual",
     "themes": [
       "conflict-and-strife",
-      "anger"
+      "anger",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "eye · in · nail, flesh · in · thorn",
     "natural": "thorn in one's side",
@@ -785,7 +800,18 @@
     "synonyms": [
       "心腹大患"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "北宋·欧阳修《新五代史·赵在礼传》",
+      "story": {
+        "en": "The New History of the Five Dynasties tells that when the hated governor Zhao Zaili was transferred, the locals said 'the nail in my eye has been pulled out'. The idiom 'thorn in the eye, thorn in the flesh' is a later elaboration of the image.",
+        "zh": "《新五代史·赵在礼传》载，赵在礼离任时，百姓欢呼：“眼中拔钉，岂不快哉！”后演变为“眼中钉，肉中刺”，比喻极端憎恨、必欲除之的人。"
+      },
+      "date": {
+        "zh": "北宋 · 约1053年",
+        "en": "Northern Song, c. 1053"
+      }
+    }
   },
   {
     "id": "yan-li-rong-bu-de-sha-zi",

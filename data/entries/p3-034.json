@@ -252,7 +252,9 @@
     "register": "neutral",
     "themes": [
       "military-strategy-and-victory",
-      "competition-and-rivalry"
+      "competition-and-rivalry",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "short · weapons · mutually · meet",
     "natural": "fight at close quarters",
@@ -287,7 +289,18 @@
     "antonyms": [
       "按兵不动",
       "隔岸观火"
-    ]
+    ],
+    "origin": {
+      "source": "战国·屈原《楚辞·九歌·国殇》",
+      "story": {
+        "en": "The ode to fallen soldiers describes the battle: 'chariot hubs interlock, short blades meet'. 短兵相接 is taken from 车错毂兮短兵接.",
+        "zh": "《国殇》写战场“操吴戈兮被犀甲，车错毂兮短兵接”，成语取自“短兵接”。"
+      },
+      "date": {
+        "zh": "战国 · 前4—前3世纪",
+        "en": "Warring States, 4th–3rd c. BC"
+      }
+    }
   },
   {
     "id": "qin-qi-shu-hua",

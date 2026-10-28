@@ -67,7 +67,9 @@
     "register": "neutral",
     "themes": [
       "useful-tools-and-skill",
-      "apprenticeship-and-learning"
+      "apprenticeship-and-learning",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "familiar · can · produce · skill",
     "natural": "Familiarity breeds skill",
@@ -103,7 +105,18 @@
     ],
     "antonyms": [
       "笨手笨脚"
-    ]
+    ],
+    "origin": {
+      "source": "欧阳修《归田录·卖油翁》",
+      "story": {
+        "en": "Ouyang Xiu tells of the oil seller who watches the archer Chen Yaozi and says he has no secret: 'I simply know it through practice' (我亦无他，惟手熟尔), pouring oil through a coin's hole without a drop spilled. The idiom condenses this line.",
+        "zh": "欧阳修《归田录》载卖油翁观陈尧咨射箭，自言“我亦无他，惟手熟尔”，并以铜钱孔注油而钱不湿。成语由“手熟”一语凝练而成。"
+      },
+      "date": {
+        "zh": "北宋 · 约1067年",
+        "en": "Northern Song, c. 1067"
+      }
+    }
   },
   {
     "id": "feng-mang-bi-lu",
@@ -1379,7 +1392,8 @@
     "register": "neutral",
     "themes": [
       "standards-and-benchmarks",
-      "good-governance"
+      "good-governance",
+      "qin-han"
     ],
     "literal": "gold · rule · jade · law",
     "natural": "Golden rules and jade laws",
@@ -1415,7 +1429,18 @@
     "antonyms": [
       "一纸空文",
       "离经叛道"
-    ]
+    ],
+    "origin": {
+      "source": "扬雄《剧秦美新》",
+      "story": {
+        "en": "Yang Xiong's piece praising the Xin regime speaks of 'golden regulations and jade articles' (金科玉条) as unalterable laws. The idiom is a later variant of that wording, 律 replacing 条.",
+        "zh": "扬雄《剧秦美新》有“金科玉条，神卦灵兆”之语，指不可更改的法度。成语“金科玉律”是后来由“金科玉条”演变而来。"
+      },
+      "date": {
+        "zh": "新 · 1世纪初",
+        "en": "Xin dynasty, early 1st c. AD"
+      }
+    }
   },
   {
     "id": "hua-li-hu-shao",

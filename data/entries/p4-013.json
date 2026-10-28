@@ -1075,7 +1075,9 @@
     "register": "formal",
     "themes": [
       "myths-legends",
-      "culture"
+      "culture",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "august · heaven · empress · earth",
     "natural": "sovereign Heaven and sovereign Earth",
@@ -1105,7 +1107,18 @@
       "天地神明",
       "苍天厚土"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《左传·僖公十五年》",
+      "story": {
+        "en": "Before the battle of Han, Jin's Duke Hui is told that he 'treads on the sovereign Earth and bears the sovereign Heaven' (君履后土而戴皇天), and that Heaven and Earth heard his oath. The paired expression 皇天后土 comes from this passage.",
+        "zh": "《左传·僖公十五年》载晋惠公被告知：“君履后土而戴皇天，皇天后土实闻君之言。”“皇天后土”一词由此而来，指天地神明。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "an-jian-shang-ren",

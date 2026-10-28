@@ -972,7 +972,9 @@
     "register": "neutral",
     "themes": [
       "conduct",
-      "mistakes-and-correction"
+      "mistakes-and-correction",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "close · door · reflect · faults",
     "natural": "shut the door and reflect on one's faults",
@@ -1012,7 +1014,18 @@
     "antonyms": [
       "文过饰非",
       "执迷不悟"
-    ]
+    ],
+    "origin": {
+      "source": "东汉 班固《汉书·韩延寿传》",
+      "story": {
+        "en": "The Han shu says that when local people refused to settle disputes, the governor Han Yanshou blamed himself and \"闭阁思过\" (shut himself in to reflect on his faults), until the litigants repented. \"闭门思过\" is the later usual wording.",
+        "zh": "《汉书·韩延寿传》载韩延寿遇百姓争讼不决，自责而“闭阁思过”，终使争讼者悔悟。后世通行作“闭门思过”。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "fa-li-wu-bian",

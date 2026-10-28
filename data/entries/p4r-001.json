@@ -535,7 +535,9 @@
     "register": "literary",
     "themes": [
       "reading-and-study",
-      "apprenticeship-and-learning"
+      "apprenticeship-and-learning",
+      "historical-records",
+      "sui-tang-wudai"
     ],
     "literal": "firefly · window · snow · desk",
     "natural": "studying by firefly light and snow-glow",
@@ -568,7 +570,18 @@
     "antonyms": [],
     "variants": [
       "雪案萤窗"
-    ]
+    ],
+    "origin": {
+      "source": "唐·房玄龄等《晋书·车胤传》",
+      "story": {
+        "en": "The Book of Jin records that the poor Che Yin gathered fireflies in a bag to read by their light. A parallel tale has Sun Kang reading by the glow of snow. 'Firefly window, snow desk' fuses the two stories as a symbol of diligent study in hardship.",
+        "zh": "《晋书·车胤传》载车胤家贫，夏夜“练囊盛数十萤火虫以照书，以夜继日”；孙康映雪读书的故事与之并称。“萤窗雪案”合二事而成，比喻刻苦攻读。"
+      },
+      "date": {
+        "zh": "唐 · 648年",
+        "en": "Tang dynasty, 648"
+      }
+    }
   },
   {
     "id": "ke-tuo-cheng-zhu",

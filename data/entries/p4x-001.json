@@ -290,7 +290,9 @@
     "register": "neutral",
     "themes": [
       "foolishness-and-ignorance",
-      "poor-timing"
+      "poor-timing",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "late · know · late · realise",
     "natural": "slow to know, slow to realise",
@@ -327,7 +329,18 @@
       "春江水暖——鸭先知",
       "生而知之",
       "竹外桃花三两枝，春江水暖鸭先知"
-    ]
+    ],
+    "origin": {
+      "source": "《孟子·万章上》",
+      "story": {
+        "en": "In Mencius, Yi Yin says Heaven produced the people so that those who first know awaken those who know later, and those who first perceive awaken those who perceive later. The idiom 'hou zhi hou jue', slow to understand, condenses 'xian zhi jue hou zhi, xian jue jue hou jue'.",
+        "zh": "《孟子·万章上》载伊尹之言：“天之生此民也，使先知觉后知，使先觉觉后觉也。”后人据此取“后知后觉”，指对事物反应迟钝、领悟较晚的人。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪中后期",
+        "en": "Warring States, mid-to-late 4th c. BC"
+      }
+    }
   },
   {
     "id": "liang-you-bu-fen",

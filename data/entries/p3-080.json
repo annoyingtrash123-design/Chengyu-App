@@ -921,7 +921,8 @@
     "register": "neutral",
     "themes": [
       "fear-and-cowardice",
-      "animal-behavior-metaphors"
+      "animal-behavior-metaphors",
+      "song-dynasty"
     ],
     "literal": "talk · tiger · face · change",
     "natural": "blanch at the mention of tigers",
@@ -957,7 +958,18 @@
     "antonyms": [
       "泰然自若",
       "面不改色"
-    ]
+    ],
+    "origin": {
+      "source": "《二程遗书》",
+      "story": {
+        "en": "The Collected Sayings of the Cheng Brothers records Cheng Yi saying that a man once mauled by a tiger turns pale when tigers are mentioned, while others do not. The idiom for fear at the mere mention of something dreadful comes from this.",
+        "zh": "《二程遗书》载程颐说：曾被虎伤的人，听人说起老虎就脸色大变，而未被伤过的人则无此反应。比喻一提到可怕的事就紧张。"
+      },
+      "date": {
+        "zh": "南宋 · 1168年",
+        "en": "Southern Song, 1168"
+      }
+    }
   },
   {
     "id": "zui-jia-yi-deng",
@@ -1060,7 +1072,9 @@
     "register": "formal",
     "themes": [
       "festive-greetings",
-      "family-and-home"
+      "family-and-home",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "move up · relocate · 's · joy",
     "natural": "joy of a new home",
@@ -1090,6 +1104,17 @@
       "燕徙之喜",
       "新居落成"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《诗经·小雅·伐木》",
+      "story": {
+        "en": "The Book of Songs (Felling Trees) has birds \"coming out of the deep valley and moving to a tall tree.\" Later \"moving to a tall tree\" became a congratulation on a new home or promotion.",
+        "zh": "《诗经·小雅·伐木》有\"出自幽谷，迁于乔木\"，以鸟儿飞出深谷、迁到高树比喻地位上升。后用\"乔迁\"祝贺迁居或升迁。"
+      },
+      "date": {
+        "zh": "西周至春秋 · 前11—前6世纪",
+        "en": "Western Zhou to Spring and Autumn, 11th–6th c. BC"
+      }
+    }
   }
 ]

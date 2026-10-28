@@ -8,7 +8,9 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "conformity-and-imitation"
+      "conformity-and-imitation",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "words · heeded · plans · followed",
     "natural": "do whatever one is told",
@@ -50,7 +52,18 @@
       "自说自话",
       "儿大不由娘",
       "马耳东风"
-    ]
+    ],
+    "origin": {
+      "source": "汉·司马迁《史记·淮阴侯列传》",
+      "story": {
+        "en": "Han Xin tells Wu She, Xiang Yu's envoy, that the King of Han trusted him completely: 'he listened to my words and used my plans (言听计用), and that is how I came to be where I am'. 言听计从 is a later variant.",
+        "zh": "韩信对项羽所遣说客武涉说，汉王授己上将军印，“解衣衣我，推食食我，言听计用，故吾得以至于此”；“言听计从”是后起变体。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "bu-sheng-bu-xiang",
@@ -741,7 +754,8 @@
     "themes": [
       "positive-character-qualities",
       "fairness-and-impartiality",
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "pre-qin"
     ],
     "literal": "imposing · imposing · upright · upright",
     "natural": "upright and aboveboard",
@@ -785,7 +799,18 @@
       "做小动作",
       "人模狗样",
       "钻营取巧"
-    ]
+    ],
+    "origin": {
+      "source": "《孙子兵法·军争》",
+      "story": {
+        "en": "Sun Tzu advises 'do not intercept banners in perfect array, do not attack formations of imposing strength'. 堂堂正正 is drawn from 正正之旗 and 堂堂之陈 and later became a general term for open, honourable conduct.",
+        "zh": "《军争》云“无邀正正之旗，勿击堂堂之陈”。成语“堂堂正正”取自“正正之旗”“堂堂之陈”，后引申为光明正大。"
+      },
+      "date": {
+        "zh": "春秋末至战国 · 前5—前4世纪",
+        "en": "late Spring and Autumn to Warring States, 5th–4th c. BC"
+      }
+    }
   },
   {
     "id": "zhi-guo-an-bang",
@@ -1185,7 +1210,9 @@
     "register": "formal",
     "themes": [
       "reading-and-study",
-      "excellent-writing"
+      "excellent-writing",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "subtle · words · great · meaning",
     "natural": "profound meaning in few words",
@@ -1220,6 +1247,17 @@
     "antonyms": [
       "言之无物",
       "空洞无物"
-    ]
+    ],
+    "origin": {
+      "source": "东汉·班固《汉书·艺文志》",
+      "story": {
+        "en": "The bibliographic treatise says that 'when Confucius died the subtle words (微言) were lost, and when his seventy disciples died the great principles (大义) went astray'. The idiom joins the two terms.",
+        "zh": "《艺文志》说“昔仲尼没而微言绝，七十子丧而大义乖”。成语由“微言”“大义”合成。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   }
 ]

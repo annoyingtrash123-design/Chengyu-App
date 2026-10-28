@@ -935,7 +935,9 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "mediocrity-and-poor-appearance"
+      "mediocrity-and-poor-appearance",
+      "poems-prose",
+      "sui-tang-wudai"
     ],
     "literal": "face · look · worthy of · hate",
     "natural": "repulsive-looking",
@@ -975,7 +977,18 @@
       "我见犹怜",
       "秀色可餐",
       "和蔼可亲"
-    ]
+    ],
+    "origin": {
+      "source": "韩愈《送穷文》",
+      "story": {
+        "en": "In his Farewell to the Spirit of Poverty, Han Yu lists the spirit's faults, including 'a hateful face and tasteless speech' (面目可憎，语言无味). The idiom is taken directly from this line.",
+        "zh": "韩愈《送穷文》数落穷鬼的毛病，有“面目可憎，语言无味”之语；成语直接取自此句。"
+      },
+      "date": {
+        "zh": "唐 · 9世纪初",
+        "en": "Tang dynasty, early 9th c."
+      }
+    }
   },
   {
     "id": "xiao-niao-yi-ren",
@@ -987,7 +1000,9 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "love-and-marriage"
+      "love-and-marriage",
+      "historical-records",
+      "sui-tang-wudai"
     ],
     "literal": "little · bird · lean on · person",
     "natural": "petite and clinging",
@@ -1017,7 +1032,18 @@
       "楚楚动人",
       "温柔可人"
     ],
-    "antonyms": []
+    "antonyms": [],
+    "origin": {
+      "source": "《旧唐书·褚遂良传》",
+      "story": {
+        "en": "Emperor Taizong said of his minister Chu Suiliang, who was devoted to him, that he was 'like a bird nestling against a person, naturally inspiring affection' (譬如飞鸟依人，自加怜爱). The idiom condenses this remark, later applied to gentle young women.",
+        "zh": "唐太宗称赞亲附自己的褚遂良：“譬如飞鸟依人，自加怜爱。”后凝练为“小鸟依人”，多用来形容娇小柔顺的女子。"
+      },
+      "date": {
+        "zh": "后晋 · 945年",
+        "en": "Later Jin, 945"
+      }
+    }
   },
   {
     "id": "jian-kou-bu-yan",

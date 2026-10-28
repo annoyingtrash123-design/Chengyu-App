@@ -875,7 +875,9 @@
     "themes": [
       "seasonal-changes",
       "harsh-natural-conditions",
-      "weather-and-sky"
+      "weather-and-sky",
+      "buddhist-origin",
+      "song-dynasty"
     ],
     "literal": "spring · cold · sharp · piercing",
     "natural": "the chill of early spring",
@@ -906,7 +908,18 @@
     ],
     "antonyms": [
       "酷暑难当"
-    ]
+    ],
+    "origin": {
+      "source": "宋·普济《五灯会元》",
+      "story": {
+        "en": "A Chan master's reply in this Chan anthology runs 'the spring chill is sharp, and freezes the young'. The first four characters later became a set phrase for early-spring cold.",
+        "zh": "《五灯会元》载禅师语“春寒料峭，冻杀年少”，前四字后来成为形容早春寒意的成语。"
+      },
+      "date": {
+        "zh": "南宋 · 1252年",
+        "en": "Southern Song, 1252"
+      }
+    }
   },
   {
     "id": "gui-xin-si-jian",

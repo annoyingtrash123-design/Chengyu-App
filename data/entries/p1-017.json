@@ -9,7 +9,8 @@
     "register": "casual",
     "themes": [
       "deception-and-false-appearances",
-      "business-failure"
+      "business-failure",
+      "pre-qin"
     ],
     "literal": "hang · sheep · head · sell · dog · meat",
     "natural": "Hanging up a sheep's head but selling dog meat",
@@ -46,7 +47,18 @@
       "名副其实",
       "货真价实",
       "表里如一"
-    ]
+    ],
+    "origin": {
+      "source": "《晏子春秋·内篇杂下》",
+      "story": {
+        "en": "Yanzi tells the Duke of Qi that the court hangs an ox head at the gate but sells horse meat inside, i.e. the sign does not match the goods. The idiom is a later variant (sheep head / dog meat) of this image.",
+        "zh": "《晏子春秋》载晏子对齐灵公说宫中“犹悬牛首于门，而卖马肉于内也”，喻名实不符；后世演变为“挂羊头卖狗肉”。"
+      },
+      "date": {
+        "zh": "战国 · 约前3世纪",
+        "en": "Warring States, c. 3rd c. BC"
+      }
+    }
   },
   {
     "id": "shu-er-bu-lou",
@@ -280,7 +292,9 @@
     "themes": [
       "psychological-pressure",
       "fear-and-cowardice",
-      "exam-favourites"
+      "exam-favourites",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "anxious · anxious · not · at ease",
     "natural": "Anxious and unable to settle",
@@ -321,7 +335,18 @@
       "泰然自若",
       "心安理得",
       "若无其事"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·秦风·黄鸟》",
+      "story": {
+        "en": "The ode 'Yellow Birds' laments those buried alive with Duke Mu of Qin: 'trembling in fear, they shake' (惴惴其栗). The idiom 惴惴不安 builds on the word 惴惴, fearful and uneasy.",
+        "zh": "《诗经·秦风·黄鸟》云“临其穴，惴惴其栗”，“惴惴”形容恐惧不安；成语“惴惴不安”由此而来。"
+      },
+      "date": {
+        "zh": "春秋 · 前7世纪",
+        "en": "Spring and Autumn, 7th c. BC"
+      }
+    }
   },
   {
     "id": "da-gong-gao-cheng",
@@ -1065,7 +1090,8 @@
     "themes": [
       "animal-behavior-metaphors",
       "success",
-      "exam-favourites"
+      "exam-favourites",
+      "pre-qin"
     ],
     "literal": "like · tiger · add · wings",
     "natural": "Like a tiger given wings",
@@ -1101,7 +1127,18 @@
       "势单力薄",
       "雪上加霜",
       "釜底抽薪"
-    ]
+    ],
+    "origin": {
+      "source": "《韩非子·难势》",
+      "story": {
+        "en": "The Han Feizi (Nan Shi) quotes a Zhou saying, 'Do not give a tiger wings, lest it fly into the town and eat people'; later turned into the positive idiom 如虎添翼, a strong party gaining further help.",
+        "zh": "《韩非子·难势》引周书：“毋为虎傅翼，将飞入邑，择人而食之。”后世转为褒义的“如虎添翼”，喻强者得到助力。"
+      },
+      "date": {
+        "zh": "战国末 · 前3世纪",
+        "en": "late Warring States, 3rd c. BC"
+      }
+    }
   },
   {
     "id": "jia-zhi-lian-cheng",

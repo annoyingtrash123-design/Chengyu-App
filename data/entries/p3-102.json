@@ -376,7 +376,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "efficiency"
+      "efficiency",
+      "song-dynasty"
     ],
     "literal": "reach into · bag · take · object",
     "natural": "as easy as taking something from a pocket",
@@ -412,7 +413,18 @@
       "谈何容易",
       "大海捞针",
       "水中捞月"
-    ]
+    ],
+    "origin": {
+      "source": "《新五代史·南唐世家》",
+      "story": {
+        "en": "The Southern Tang chapter of the New History of the Five Dynasties uses the image of taking something 'as if reaching into a bag' to describe a goal that is easy to achieve. The four-character idiom condenses that wording.",
+        "zh": "《新五代史·南唐世家》中有以“如探囊中物”形容事情轻而易举的说法，“探囊取物”即由此凝练而成。"
+      },
+      "date": {
+        "zh": "北宋 · 11世纪",
+        "en": "Northern Song, 11th c."
+      }
+    }
   },
   {
     "id": "bing-mo-chan-shen",

@@ -253,7 +253,8 @@
     "register": "neutral",
     "themes": [
       "bad-fortune",
-      "poverty-and-hardship"
+      "poverty-and-hardship",
+      "qin-han"
     ],
     "literal": "misfortune · not · single · travel, good fortune · no · double · arrive",
     "natural": "misfortunes never come alone, blessings never come in pairs",
@@ -285,7 +286,18 @@
     ],
     "antonyms": [
       "双喜临门"
-    ]
+    ],
+    "origin": {
+      "source": "汉·刘向《说苑·权谋》",
+      "story": {
+        "en": "Liu Xiang's Shuoyuan has the saying 'Good fortune does not come twice; disaster must come again.' The popular antithetical idiom is a later folk recasting of that wording, meaning misfortunes tend to come in clusters.",
+        "zh": "刘向《说苑·权谋》有“福不重至，祸必重来”之语。民间后来改作“祸不单行，福无双至”，意谓坏事往往接连发生，好事却难得重复。"
+      },
+      "date": {
+        "zh": "西汉 · 约前17年",
+        "en": "Western Han, c. 17 BC"
+      }
+    }
   },
   {
     "id": "yue-man-ze-kui-shui-man-ze-yi",

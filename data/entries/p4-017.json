@@ -924,7 +924,9 @@
     "register": "neutral",
     "themes": [
       "conduct",
-      "unusual-combinations"
+      "unusual-combinations",
+      "historical-records",
+      "qin-han"
     ],
     "literal": "not · donkey · not · horse",
     "natural": "neither donkey nor horse",
@@ -957,7 +959,18 @@
     ],
     "antonyms": [
       "纯正地道"
-    ]
+    ],
+    "origin": {
+      "source": "东汉 班固《汉书·西域传下》",
+      "story": {
+        "en": "The Han shu records that when the king of Kucha, Jiangbin, adopted Han dress and customs, Han people mocked him: \"驴非驴,马非马,若龟兹王,所谓骡也\" (neither donkey nor horse, like the king of Kucha, a mule). The idiom is the later reversed, condensed form of this jibe.",
+        "zh": "《汉书·西域传下》载龟兹王绛宾仿效汉朝服饰制度，汉人讥之曰：“驴非驴，马非马，若龟兹王，所谓骡也。”成语“非驴非马”即由这句讥语浓缩、调整语序而来。"
+      },
+      "date": {
+        "zh": "东汉 · 1世纪",
+        "en": "Eastern Han, 1st c."
+      }
+    }
   },
   {
     "id": "yi-kong-zhi-jian",

@@ -981,7 +981,8 @@
     "register": "literary",
     "themes": [
       "fleeting-time",
-      "sadness-and-despair"
+      "sadness-and-despair",
+      "sui-tang-wudai"
     ],
     "literal": "tune · end · people · disperse",
     "natural": "when the music ends the crowd disperses",
@@ -1018,7 +1019,18 @@
     "antonyms": [
       "方兴未艾",
       "如火如荼"
-    ]
+    ],
+    "origin": {
+      "source": "钱起《省试湘灵鼓瑟》",
+      "story": {
+        "en": "Qian Qi's exam poem ends: 'the song ends, the player is gone from sight; over the river, a few peaks stand green' (曲终人不见，江上数峰青). The idiom 曲终人散 is a later condensation of this image of an ending.",
+        "zh": "钱起《省试湘灵鼓瑟》结句云：“曲终人不见，江上数峰青。”后人由“曲终人不见”演化出“曲终人散”，比喻事情结束、众人散去。"
+      },
+      "date": {
+        "zh": "唐 · 约751年",
+        "en": "Tang dynasty, c. 751"
+      }
+    }
   },
   {
     "id": "ren-wu-wan-ren",

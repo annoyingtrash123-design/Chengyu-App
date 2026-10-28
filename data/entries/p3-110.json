@@ -413,7 +413,9 @@
     "themes": [
       "fleeting-time",
       "danger",
-      "often-misused"
+      "often-misused",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "not · broken · like · thread",
     "natural": "hanging by a thread",
@@ -450,7 +452,18 @@
     ],
     "antonyms": [
       "稳如泰山"
-    ]
+    ],
+    "origin": {
+      "source": "苏轼《赤壁赋》",
+      "story": {
+        "en": "In his Former Ode on the Red Cliff, Su Shi describes a flute's sound: 'its lingering notes curled and trailed, unbroken like a thread' (余音袅袅，不绝如缕). The idiom is taken directly from the line.",
+        "zh": "苏轼《前赤壁赋》写洞箫之声：“余音袅袅，不绝如缕。”成语即直接取自这一句，形容声音细微而连绵不断。"
+      },
+      "date": {
+        "zh": "北宋 · 1082年",
+        "en": "Northern Song, 1082"
+      }
+    }
   },
   {
     "id": "xin-huang-yi-luan",
@@ -754,7 +767,8 @@
     "register": "casual",
     "themes": [
       "foolishness-and-ignorance",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "qin-han"
     ],
     "literal": "few · seen · many · strange",
     "natural": "easily surprised through inexperience",
@@ -797,7 +811,18 @@
       "司空见惯",
       "习以为常",
       "见惯不惊"
-    ]
+    ],
+    "origin": {
+      "source": "牟子《理惑论》",
+      "story": {
+        "en": "Mouzi's Disposing of Error quotes a saying: 'those who see little find much strange; seeing a camel, they call it a horse with a swollen back' (少所见，多所怪，睹骆驼言马肿背). The idiom condenses the first half.",
+        "zh": "牟子《理惑论》引谚语：“少所见，多所怪，睹骆驼言马肿背。”“少见多怪”即取其前半。"
+      },
+      "date": {
+        "zh": "东汉末 · 2世纪末",
+        "en": "Late Eastern Han, late 2nd c."
+      }
+    }
   },
   {
     "id": "wu-shi-bu-xiao-bai-bu",

@@ -179,7 +179,8 @@
     "themes": [
       "fortune",
       "bad-fortune",
-      "rural-wisdom"
+      "rural-wisdom",
+      "qin-han"
     ],
     "literal": "blessing · not · pair · arrive",
     "natural": "blessings do not come in pairs",
@@ -209,7 +210,18 @@
     "antonyms": [
       "喜上加喜",
       "双喜临门"
-    ]
+    ],
+    "origin": {
+      "source": "西汉 刘向《说苑·权谋》",
+      "story": {
+        "en": "The Shuoyuan has the saying \"福不重至，祸必重来\": good fortune does not come twice, but disaster surely comes again. \"福无双至\" is the later, more familiar form, usually paired with \"祸不单行\".",
+        "zh": "《说苑·权谋》有“福不重至，祸必重来”之语。“福无双至”是其后来通行的说法，常与“祸不单行”对举。"
+      },
+      "date": {
+        "zh": "西汉 · 约前17年",
+        "en": "Western Han, c. 17 BC"
+      }
+    }
   },
   {
     "id": "bu-chuai-mao-mei",
@@ -694,7 +706,8 @@
     "themes": [
       "character",
       "outstanding-character",
-      "confucian-classics"
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "vast · so · upright · spirit",
     "natural": "vast and upright spirit",
@@ -727,7 +740,18 @@
     "antonyms": [
       "歪风邪气",
       "歪门邪道"
-    ]
+    ],
+    "origin": {
+      "source": "《孟子·公孙丑上》",
+      "story": {
+        "en": "Mencius says \"我善养吾浩然之气\", describing it as a vast, upright force that fills heaven and earth when nourished by righteousness. \"浩然正气\" is a later formulation, later made famous by Wen Tianxiang's 'Song of Righteousness'.",
+        "zh": "孟子说：“我善养吾浩然之气”，称其“至大至刚”，以义养之则充塞天地之间。“浩然正气”是后世的说法，经文天祥《正气歌》而广为人知。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "ye-jing-yu-qin",
@@ -1072,7 +1096,8 @@
     "themes": [
       "family-and-home",
       "parenting-and-family",
-      "time"
+      "time",
+      "pre-qin"
     ],
     "literal": "wailing · wailing · fall · ground",
     "natural": "fall to the ground crying",
@@ -1104,7 +1129,18 @@
       "驾鹤西去",
       "与世长辞",
       "寿终正寝"
-    ]
+    ],
+    "origin": {
+      "source": "《尚书·益稷》",
+      "story": {
+        "en": "In the Shangshu, Yu says of his private life while taming the floods that when his son Qi was born crying, \"启呱呱而泣\", he did not look after him. The idiom \"呱呱坠地\" is a later condensation built on this wording for a newborn's first cry.",
+        "zh": "《益稷》中大禹自述治水时，“启呱呱而泣，予弗子”，即儿子启呱呱啼哭他也无暇顾及。成语“呱呱坠地”是后世据此化用，指婴儿出生。"
+      },
+      "date": {
+        "zh": "先秦",
+        "en": "pre-Qin"
+      }
+    }
   },
   {
     "id": "wan-fu-mo-dang",

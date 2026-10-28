@@ -267,7 +267,9 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "danger"
+      "danger",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "heart · belly · great · peril",
     "natural": "a mortal threat within",
@@ -302,7 +304,18 @@
       "小事一桩",
       "癣疥之疾",
       "无足轻重"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·哀公十一年》",
+      "story": {
+        "en": "The Zuo Commentary (11th year of Duke Ai) has Wu Zixu warn the king of Wu that Yue is \"an ailment of the heart and belly\" within him. The idiom for the gravest hidden threat condenses this.",
+        "zh": "《左传·哀公十一年》载伍子胥劝吴王：\"越在我，心腹之疾也。\"把越国比作体内的严重疾病。后成\"心腹大患\"，指最严重的隐患。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "da-shu-te-shu",
@@ -658,7 +671,9 @@
     "register": "neutral",
     "themes": [
       "excellent-writing",
-      "master-craftsmanship"
+      "master-craftsmanship",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "dragon · flies · phoenix · dances",
     "natural": "flamboyant, flowing",
@@ -693,7 +708,18 @@
       "横平竖直",
       "一笔一画",
       "蝇头小楷"
-    ]
+    ],
+    "origin": {
+      "source": "苏轼《表忠观碑》",
+      "story": {
+        "en": "Su Shi's \"Stele of the Biaozhong Temple\" describes the mountains of Hangzhou: \"dragons fly and phoenixes dance, gathering at Lin'an.\" Originally for the sweep of mountains, it later described lively calligraphy.",
+        "zh": "苏轼《表忠观碑》形容杭州山势：\"天目之山，苕水出焉，龙飞凤舞，萃于临安。\"原指山势雄伟蜿蜒，后形容书法笔势飘逸。"
+      },
+      "date": {
+        "zh": "北宋 · 11世纪",
+        "en": "Northern Song, 11th c."
+      }
+    }
   },
   {
     "id": "gu-dao-re-chang",
@@ -809,7 +835,9 @@
     "register": "formal",
     "themes": [
       "military-strategy-and-victory",
-      "fairness-and-impartiality"
+      "fairness-and-impartiality",
+      "confucian-classics",
+      "qin-han"
     ],
     "literal": "army · march · have · justification",
     "natural": "have a just cause",
@@ -846,7 +874,18 @@
     ],
     "variants": [
       "出师有名"
-    ]
+    ],
+    "origin": {
+      "source": "《礼记·檀弓下》",
+      "story": {
+        "en": "The Book of Rites (Tan Gong, part 2) says that an army \"must have a name\", that is, a justifiable cause. The idiom \"troops marching with a name\" is a later condensation.",
+        "zh": "《礼记·檀弓下》有\"师必有名\"之语，意为出兵须有正当名义。后演变为\"师出有名\"，指行事有正当理由。"
+      },
+      "date": {
+        "zh": "西汉 · 前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "gun-gua-lan-shu",
@@ -949,7 +988,8 @@
     "register": "neutral",
     "themes": [
       "relaxation-and-rest",
-      "value-of-time"
+      "value-of-time",
+      "qin-han"
     ],
     "literal": "seize · the time · pursue · pleasure",
     "natural": "seize the day for pleasure",
@@ -988,7 +1028,18 @@
     "antonyms": [
       "未雨绸缪",
       "克勤克俭"
-    ]
+    ],
+    "origin": {
+      "source": "《古诗十九首·生年不满百》",
+      "story": {
+        "en": "The Nineteen Old Poems (\"Life Doesn't Reach a Hundred Years\") laments life's brevity: \"Why not carry a candle and roam? Seek pleasure while there is time.\" The idiom condenses \"pleasure should be taken in time\".",
+        "zh": "《古诗十九首·生年不满百》写人生短暂：\"昼短苦夜长，何不秉烛游？为乐当及时，何能待来兹。\"成语\"及时行乐\"概括了\"为乐当及时\"的意思。"
+      },
+      "date": {
+        "zh": "东汉末 · 2世纪",
+        "en": "late Eastern Han, 2nd c."
+      }
+    }
   },
   {
     "id": "zhan-tian-dou-di",

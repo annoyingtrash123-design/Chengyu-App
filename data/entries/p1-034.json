@@ -1179,7 +1179,9 @@
     "register": "neutral",
     "themes": [
       "fine-dress-and-fashion",
-      "appearance"
+      "appearance",
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "clothes · hat · neat · neat",
     "natural": "Clothes and hat neat and fine",
@@ -1225,7 +1227,18 @@
       "披头散发",
       "粗服乱头",
       "袒胸露背"
-    ]
+    ],
+    "origin": {
+      "source": "《诗经·曹风·蜉蝣》",
+      "story": {
+        "en": "The ode 'Mayfly' likens the mayfly's wings to gorgeous clothes: 'the mayfly's wings, clothes so bright' (蜉蝣之羽，衣裳楚楚). 'Chuchu' means neat and bright; the idiom condenses 衣裳楚楚 into praise of smart dress.",
+        "zh": "《诗经·曹风·蜉蝣》首章云：“蜉蝣之羽，衣裳楚楚。”“楚楚”形容鲜明整洁。成语“衣冠楚楚”由“衣裳楚楚”演变而来。"
+      },
+      "date": {
+        "zh": "西周至春秋 · 前11—前6世纪",
+        "en": "Western Zhou to Spring and Autumn, 11th–6th c. BC"
+      }
+    }
   },
   {
     "id": "hu-peng-gou-you",

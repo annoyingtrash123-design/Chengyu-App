@@ -630,7 +630,9 @@
     "register": "neutral",
     "themes": [
       "extraordinary-circumstances",
-      "military-strategy-and-victory"
+      "military-strategy-and-victory",
+      "daoist-classics",
+      "qin-han"
     ],
     "literal": "god · appear · ghost · vanish",
     "natural": "appear and vanish like a spirit",
@@ -665,7 +667,18 @@
     ],
     "antonyms": [
       "有迹可循"
-    ]
+    ],
+    "origin": {
+      "source": "《淮南子·兵略训》",
+      "story": {
+        "en": "The Huainanzi (Military Strategy) describes the master of war: \"emerging like a spirit, moving like a ghost, flashing like a star and vanishing in the dark.\" The idiom condenses this.",
+        "zh": "《淮南子·兵略训》形容善用兵者：\"神出而鬼行，星耀而玄逝。\"意思是行动像神鬼一样不可捉摸。后概括为\"神出鬼没\"。"
+      },
+      "date": {
+        "zh": "西汉 · 约前139年",
+        "en": "Western Han, c. 139 BC"
+      }
+    }
   },
   {
     "id": "zheng-feng-chi-cu",
@@ -1159,7 +1172,10 @@
     "register": "formal",
     "themes": [
       "military-strategy-and-victory",
-      "political-corruption"
+      "political-corruption",
+      "historical-records",
+      "three-kingdoms",
+      "wei-jin-nanbeichao"
     ],
     "literal": "exhaust · troops · abuse · war",
     "natural": "wage war recklessly",
@@ -1194,6 +1210,17 @@
       "攻心为上",
       "止戈为武",
       "不战而屈人之兵，善之善者也"
-    ]
+    ],
+    "origin": {
+      "source": "《三国志·吴书·陆抗传》",
+      "story": {
+        "en": "In the Wu-shu biography of Lu Kang, his memorial criticises letting generals chase glory, 'exhausting the army and abusing martial force (穷兵黩武), at a cost of tens of thousands each time', which drains the state. The idiom is from this line.",
+        "zh": "《三国志·吴书·陆抗传》载陆抗上疏，批评“听诸将徇名，穷兵黩武，动费万计，士卒彫瘁”，指出滥用武力会耗尽国力。成语即出自此句。"
+      },
+      "date": {
+        "zh": "西晋 · 3世纪末",
+        "en": "Western Jin, late 3rd c."
+      }
+    }
   }
 ]

@@ -9,7 +9,9 @@
     "register": "neutral",
     "themes": [
       "complete-failure-and-obscurity",
-      "poems-prose"
+      "poems-prose",
+      "buddhist-origin",
+      "song-dynasty"
     ],
     "literal": "mud · ox · enter · sea",
     "natural": "vanish without a trace",
@@ -44,7 +46,18 @@
     "antonyms": [
       "音讯不断",
       "卷土重来"
-    ]
+    ],
+    "origin": {
+      "source": "《景德传灯录》卷八",
+      "story": {
+        "en": "The Chan monk Longshan is recorded as saying, 'I saw two mud oxen fighting their way into the sea, and there has been no news of them since' (我见两个泥牛斗入海，直至如今无消息). The idiom is a condensation of this remark.",
+        "zh": "《景德传灯录》载龙山和尚语：“我见两个泥牛斗入海，直至如今无消息。”后人据此提炼为“泥牛入海”，比喻一去不返。"
+      },
+      "date": {
+        "zh": "北宋 · 1004年",
+        "en": "Northern Song, 1004"
+      }
+    }
   },
   {
     "id": "xin-gao-qi-ao",
@@ -797,7 +810,10 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "historical-records",
+      "three-kingdoms",
+      "wei-jin-nanbeichao"
     ],
     "literal": "not · recognise · times · affairs",
     "natural": "fail to read the situation",
@@ -834,7 +850,18 @@
       "察言观色",
       "鉴貌辨色",
       "大丈夫能屈能伸"
-    ]
+    ],
+    "origin": {
+      "source": "《三国志·蜀书·诸葛亮传》裴松之注引《襄阳记》",
+      "story": {
+        "en": "Sima Hui tells Liu Bei that 'pedants cannot recognise the times; those who recognise the times are the heroes' (识时务者在乎俊杰). 不识时务 is the negation of this 'recognising the times'.",
+        "zh": "司马徽对刘备说：“儒生俗士，岂识时务？识时务者在乎俊杰。”“不识时务”即由此“识时务”反用而来。"
+      },
+      "date": {
+        "zh": "南朝宋 · 429年",
+        "en": "Southern Song (Liu-Song), 429"
+      }
+    }
   },
   {
     "id": "cai-mao-shuang-quan",

@@ -1031,7 +1031,9 @@
     "register": "formal",
     "themes": [
       "negative-character-flaws",
-      "corruption-and-injustice"
+      "corruption-and-injustice",
+      "confucian-classics",
+      "qin-han"
     ],
     "literal": "reckless · without · fear · dread",
     "natural": "brazenly",
@@ -1088,7 +1090,18 @@
       "瓜田不纳履，李下不整冠",
       "克己复礼为仁",
       "非礼勿视，非礼勿听，非礼勿言，非礼勿动"
-    ]
+    ],
+    "origin": {
+      "source": "《礼记·中庸》",
+      "story": {
+        "en": "The Doctrine of the Mean says the petty man goes against the Mean because he 'has no restraint' (小人而无忌惮也). The idiom 肆无忌惮 ('without any fear of restraint') is a later elaboration of this wording.",
+        "zh": "《礼记·中庸》云：“小人之反中庸也，小人而无忌惮也。”成语“肆无忌惮”由“无忌惮”一语发展而来。"
+      },
+      "date": {
+        "zh": "西汉 · 前1世纪",
+        "en": "Western Han, 1st c. BC"
+      }
+    }
   },
   {
     "id": "shun-teng-mo-gua",

@@ -736,7 +736,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "time"
+      "time",
+      "pre-qin"
     ],
     "literal": "one · morning · one · evening",
     "natural": "overnight",
@@ -772,7 +773,18 @@
       "年深日久",
       "日积月累",
       "冰冻三尺，非一日之寒"
-    ]
+    ],
+    "origin": {
+      "source": "《周易·坤卦·文言传》",
+      "story": {
+        "en": "The commentary on the Kun hexagram says that a minister killing his lord or a son his father 'is not the cause of a single morning or evening' (非一朝一夕之故); such things build up gradually. The idiom condenses this phrase and is mostly used in the negative.",
+        "zh": "《文言传》：「臣弑其君，子弑其父，非一朝一夕之故，其所由来者渐矣。」意为事情的发生是逐渐积累的结果。成语即取「一朝一夕」，多用于否定句。"
+      },
+      "date": {
+        "zh": "战国",
+        "en": "Warring States"
+      }
+    }
   },
   {
     "id": "qing-jia-dang-chan",

@@ -1030,7 +1030,8 @@
     "register": "literary",
     "themes": [
       "excellent-writing",
-      "poems-prose"
+      "poems-prose",
+      "pre-qin"
     ],
     "literal": "yellow · bell · great · pitch pipe",
     "natural": "grand classical music",
@@ -1064,7 +1065,18 @@
       "靡靡之音",
       "瓦釜雷鸣",
       "郑卫之音"
-    ]
+    ],
+    "origin": {
+      "source": "《周礼·春官·大司乐》",
+      "story": {
+        "en": "The Rites of Zhou prescribes that in ceremony one 'plays Huangzhong and sings Dalü' (奏黄钟，歌大吕), two of the standard pitch-pipes. Together they came to stand for solemn, stately music or writing.",
+        "zh": "《周礼·春官·大司乐》有“乃奏黄钟，歌大吕”的礼乐规定，黄钟、大吕为古代乐律之首，后合称以比喻庄严正大的音乐或文辞。"
+      },
+      "date": {
+        "zh": "战国 · 前4—前3世纪",
+        "en": "Warring States, 4th–3rd c. BC"
+      }
+    }
   },
   {
     "id": "wen-tao-wu-lve",

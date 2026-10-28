@@ -12,7 +12,9 @@
     "register": "neutral",
     "themes": [
       "revenge-and-retribution",
-      "danger"
+      "danger",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "cut · grass · remove · root",
     "natural": "root out completely",
@@ -57,7 +59,18 @@
       "围师必阙",
       "放虎归山",
       "凡事留一线，日后好相见"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·隐公六年》",
+      "story": {
+        "en": "The Zuo Commentary (6th year of Duke Yin) says a ruler should treat evil as a farmer treats weeds: cut and pile them up, \"sever their roots, and let them not regrow.\" The idiom is a later condensation of this.",
+        "zh": "《左传·隐公六年》载：\"为国家者，见恶如农夫之务去草焉，芟夷蕴崇之，绝其本根，勿使能殖。\"意思是除恶要像农夫除草一样除掉根。后概括为\"斩草除根\"。"
+      },
+      "date": {
+        "zh": "战国 · 前4世纪",
+        "en": "Warring States, 4th c. BC"
+      }
+    }
   },
   {
     "id": "guo-yan-yun-yan",
@@ -75,7 +88,9 @@
     "themes": [
       "fleeting-time",
       "contentment-and-simplicity",
-      "exam-favourites"
+      "exam-favourites",
+      "poems-prose",
+      "song-dynasty"
     ],
     "literal": "pass · eyes · cloud · smoke",
     "natural": "fleeting as passing clouds",
@@ -117,7 +132,18 @@
       "不可磨灭",
       "永世不忘",
       "历久弥新"
-    ]
+    ],
+    "origin": {
+      "source": "苏轼《宝绘堂记》",
+      "story": {
+        "en": "In Su Shi's \"Record of the Hall of Treasured Paintings\" he says one should treat art like \"clouds and smoke passing before the eyes\", enjoyed when seen and not thought of after. The idiom condenses this image of fleeting things.",
+        "zh": "苏轼《宝绘堂记》说对书画不可过分执着，应\"譬之烟云之过眼，百鸟之感耳，岂不欣然接之，然去而不复念也\"。后凝缩为\"过眼云烟\"，比喻很快消逝的事物。"
+      },
+      "date": {
+        "zh": "北宋 · 1078年",
+        "en": "Northern Song, 1078"
+      }
+    }
   },
   {
     "id": "jie-nang-xiang-zhu",

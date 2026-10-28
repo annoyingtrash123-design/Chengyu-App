@@ -475,7 +475,9 @@
     "register": "formal",
     "themes": [
       "difficult-terrain",
-      "dead-ends-and-desperation"
+      "dead-ends-and-desperation",
+      "historical-records",
+      "pre-qin"
     ],
     "literal": "hard · difficult · dangerous · obstacles",
     "natural": "hardships and dangers",
@@ -509,7 +511,18 @@
     "antonyms": [
       "一帆风顺",
       "畅通无阻"
-    ]
+    ],
+    "origin": {
+      "source": "《左传·僖公二十八年》",
+      "story": {
+        "en": "Duke Wen of Jin, after returning from nineteen years of exile, is recorded as having 'experienced every hardship and obstacle' (险阻艰难，备尝之矣). The idiom 艰难险阻 reorders this phrase to mean difficulties, dangers and obstacles.",
+        "zh": "《左传》记晋文公流亡十九年而得国，「险阻艰难，备尝之矣」，言其历尽艰险。成语「艰难险阻」即由此语调整而来。"
+      },
+      "date": {
+        "zh": "战国 · 约前4世纪",
+        "en": "Warring States, c. 4th c. BC"
+      }
+    }
   },
   {
     "id": "xian-xiang-huan-sheng",

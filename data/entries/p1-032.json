@@ -195,7 +195,9 @@
     "register": "neutral",
     "themes": [
       "successful-completion",
-      "conduct"
+      "conduct",
+      "confucian-classics",
+      "pre-qin"
     ],
     "literal": "have · start · have · end",
     "natural": "Having a beginning and an end",
@@ -236,7 +238,18 @@
       "匆匆结束",
       "无始无终",
       "有头无尾"
-    ]
+    ],
+    "origin": {
+      "source": "《论语·子张》",
+      "story": {
+        "en": "In the Analects, Zixia says that only a sage 'has a beginning and an end' (有始有卒者，其惟圣人乎), i.e. carries things through to the finish. The idiom is a later condensation of this wording, with 终 for 卒.",
+        "zh": "《论语·子张》载子夏言：“有始有卒者，其惟圣人乎！”意为做事能善始善终。成语“有始有终”由此语演变而来。"
+      },
+      "date": {
+        "zh": "战国初 · 前5世纪",
+        "en": "early Warring States, 5th c. BC"
+      }
+    }
   },
   {
     "id": "zhu-guang-bao-qi",

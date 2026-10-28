@@ -716,7 +716,8 @@
     "themes": [
       "inappropriate-behavior",
       "negative-character-flaws",
-      "exam-favourites"
+      "exam-favourites",
+      "qin-han"
     ],
     "literal": "rat · pilfer · dog · steal",
     "natural": "petty thief",
@@ -749,7 +750,18 @@
     "antonyms": [
       "拾金不昧",
       "路不拾遗"
-    ]
+    ],
+    "origin": {
+      "source": "史记《刘敬叔孙通列传》",
+      "story": {
+        "en": "In the Shiji, when the Second Emperor asks about rebels, the scholar Shusun Tong dismisses them as petty thieves who 'steal like rats and filch like dogs'. The idiom is taken directly from that wording and came to mean petty thieving or petty villains.",
+        "zh": "《史记·刘敬叔孙通列传》载，二世问起造反者，叔孙通答称“此特群盗鼠窃狗盗耳”，意谓不过是些小偷小摸之徒。成语即出自这一说法，后用来指小偷小摸或微不足道的坏人。"
+      },
+      "date": {
+        "zh": "西汉 · 约前91年",
+        "en": "Western Han, c. 91 BC"
+      }
+    }
   },
   {
     "id": "shu-jiu-han-tian",
