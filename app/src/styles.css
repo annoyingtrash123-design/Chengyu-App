@@ -47,6 +47,10 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; }
+/* Feel like a native app: no rubber-band stretch, pull-to-refresh or sideways wobble. */
+html, body { overscroll-behavior: none; overflow-x: hidden; }
+html { touch-action: manipulation; } /* no double-tap zoom; page zoom is locked in index.html */
+
 body {
   background: var(--bg);
   color: var(--ink);

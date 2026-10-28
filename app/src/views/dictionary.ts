@@ -60,6 +60,6 @@ export async function renderDictionary(root: HTMLElement) {
   more.addEventListener("click", () => load(false));
 
   clear(root, h("div", { class: "search-bar" }, input), hint, count, list, more);
+  // No autofocus: opening the tab shouldn't throw up the keyboard (and squeeze the page); tap the box to type.
   await load(true);
-  if (!saved.query) input.focus({ preventScroll: true });
 }
