@@ -443,3 +443,12 @@ h1.hanzi-xl { margin: 0; }
 .map-label { fill: var(--ink, #1f2328); font-weight: 600; pointer-events: none; }
 .map-sub { fill: var(--muted); pointer-events: none; }
 .link-btn { background: none; border: 0; padding: 0; color: var(--accent); font: inherit; cursor: pointer; }
+
+/* Fast-scroll bar for long lists */
+.fs-track { position: fixed; z-index: 40; width: 30px; right: max(2px, calc((100vw - 640px) / 2 - 34px)); top: calc(env(safe-area-inset-top) + 72px); bottom: calc(84px + env(safe-area-inset-bottom)); touch-action: none; cursor: grab; }
+@media (max-width: 720px) { .fs-track { right: 0; } }
+.fs-track::before { content: ""; position: absolute; top: 0; bottom: 0; right: 6px; width: 3px; border-radius: 3px; background: var(--line); opacity: 0; transition: opacity 0.2s; }
+.fs-track:hover::before, .fs-track.dragging::before { opacity: 1; }
+.fs-thumb { position: absolute; right: 2px; top: 0; width: 11px; height: 44px; border-radius: 6px; background: var(--accent); opacity: 0.55; box-shadow: 0 1px 4px rgba(0,0,0,0.18); transition: opacity 0.15s, width 0.15s; }
+.fs-track.dragging .fs-thumb, .fs-track:hover .fs-thumb { opacity: 0.95; width: 14px; }
+.fs-bubble { position: absolute; right: 30px; top: 0; white-space: nowrap; background: var(--ink); color: var(--bg); font-size: 14px; font-weight: 600; padding: 7px 12px; border-radius: 10px; box-shadow: 0 4px 14px rgba(0,0,0,0.25); font-variant-numeric: tabular-nums; }
