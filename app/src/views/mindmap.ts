@@ -184,7 +184,27 @@ export async function renderMap(root: HTMLElement) {
     return { zh: "全部词条", en: "All entries", hue: 6, items, filters: base, split };
   };
 
-  function draw(node: Node, enter: "in" | "out") {
+  const ease = (t: number) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);
+  /** Glide the camera (the SVG viewBox) from one rectangle to another. */
+  function fly(svgRoot: SVGElement, from: number[], to: number[], done: () => void) {
+    const t0 = performance.now();
+    const D = 620;
+    const step = (now: number) => {
+      const t = Math.min(1, (now - t0) / D);
+      const e = ease(t);
+      svgRoot.setAttribute("viewBox", from.map((v, i) => v + (to[i] - v) * e).join(" "));
+      if (t < 1) requestAnimationFrame(step);
+      else done();
+    };
+    requestAnimationFrame(step);
+  }
+
+  /**
+   * Show a level. "in": right after zooming into it (its bubbles are already where the preview was).
+   * "out": coming back up from `fromChild`: start zoomed into that bubble and pull the camera back.
+   * "fade": a fresh start (new grouping or filters).
+   */
+  function draw(node: Node, enter: "in" | "out" | "fade", fromChild?: Node) {
     const kids = kidsOf(node);
     const layout = pack(kids.map((k) => Math.sqrt(weight(k))), 47);
     const svgRoot = svg("svg", { viewBox: "-50 -50 100 100", class: "map-svg", role: "img", "aria-label": `${node.zh} ${node.en}` });
@@ -194,11 +214,13 @@ export async function renderMap(root: HTMLElement) {
     defs.appendChild(shadow);
     svgRoot.appendChild(defs);
     const layer = svg("g", { class: `map-layer enter-${enter}` });
+    let backFrom: number[] | null = null;
     svgRoot.appendChild(layer);
 
     kids.forEach((k, i) => {
       const { x, y, r } = layout[i];
-      const g = svg("g", { class: `map-bubble${k.entry ? " is-entry" : ""}${k.more !== undefined ? " is-more" : ""}`, tabindex: 0, role: "button" });
+      const g = svg("g", { class: `map-bubble${k.entry ? " is-entry" : ""}${k.more !== undefined ? " is-more" : ""}${k === fromChild ? " picked" : ""}`, tabindex: 0, role: "button" });
+      if (k === fromChild) backFrom = [x - r, y - r, r * 2, r * 2];
       const ring = dark() ? `hsl(${k.hue} 45% 45%)` : `hsl(${k.hue} 60% 70%)`;
       g.appendChild(
         svg("circle", {
@@ -276,8 +298,19 @@ export async function renderMap(root: HTMLElement) {
       g.addEventListener("keydown", (e) => (e as KeyboardEvent).key === "Enter" && go());
       layer.appendChild(g);
     });
-    clear(stage, svgRoot);
-    requestAnimationFrame(() => requestAnimationFrame(() => layer.classList.add("shown")));
+    const start = backFrom as number[] | null; // set inside the loop above
+    if (enter === "out" && start) {
+      svgRoot.setAttribute("viewBox", start.join(" "));
+      layer.classList.add("zooming");
+      clear(stage, svgRoot);
+      fly(svgRoot, start, [-50, -50, 100, 100], () => {
+        layer.classList.remove("zooming");
+        layer.querySelector(".picked")?.classList.remove("picked");
+      });
+    } else {
+      clear(stage, svgRoot);
+      requestAnimationFrame(() => requestAnimationFrame(() => layer.classList.add("shown")));
+    }
     drawCrumbs();
     hint.textContent = kids.some((k) => k.entry)
       ? en() ? "Tap an expression to open it · bigger bubbles are more common" : "点词条打开 · 气泡越大越常用"
@@ -288,24 +321,12 @@ export async function renderMap(root: HTMLElement) {
   function zoomInto(svgRoot: SVGElement, layer: SVGElement, picked: SVGElement, c: { x: number; y: number; r: number }, node: Node) {
     layer.classList.add("zooming");
     picked.classList.add("picked");
-    const from = [-50, -50, 100, 100];
-    const to = [c.x - c.r, c.y - c.r, c.r * 2, c.r * 2];
-    const t0 = performance.now();
-    const D = 560;
-    const ease = (t: number) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);
-    const step = (now: number) => {
-      const t = Math.min(1, (now - t0) / D);
-      const e = ease(t);
-      svgRoot.setAttribute("viewBox", from.map((v, i) => v + (to[i] - v) * e).join(" "));
-      if (t < 1) requestAnimationFrame(step);
-      else {
-        path.push(node);
-        // One history entry per level, so the phone's back button steps back out one level.
-        history.pushState({ mapDepth: path.length - 1 }, "");
-        draw(node, "in");
-      }
-    };
-    requestAnimationFrame(step);
+    fly(svgRoot, [-50, -50, 100, 100], [c.x - c.r, c.y - c.r, c.r * 2, c.r * 2], () => {
+      path.push(node);
+      // One history entry per level, so the phone's back button steps back out one level.
+      history.pushState({ mapDepth: path.length - 1 }, "");
+      draw(node, "in");
+    });
   }
 
   function drawCrumbs() {
@@ -329,7 +350,7 @@ export async function renderMap(root: HTMLElement) {
   const startOver = () => {
     const r = rootNode();
     path = [r];
-    draw(r, "out");
+    draw(r, "fade");
   };
   /** New grouping or filters: back out of any zoom levels (so history stays in step), then redraw. */
   const restart = () => {
@@ -346,8 +367,9 @@ export async function renderMap(root: HTMLElement) {
       return startOver();
     }
     if (depth < path.length - 1) {
+      const from = path[depth + 1];
       path = path.slice(0, depth + 1);
-      draw(path[depth], "out");
+      draw(path[depth], "out", from);
     } else if (depth > path.length - 1) history.replaceState({ mapDepth: path.length - 1 }, "");
   };
   window.addEventListener("popstate", onPop);

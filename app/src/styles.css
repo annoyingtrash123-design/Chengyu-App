@@ -47,8 +47,10 @@
 
 * { box-sizing: border-box; }
 html, body { margin: 0; }
-/* Feel like a native app: no rubber-band stretch, pull-to-refresh or sideways wobble. */
-html, body { overscroll-behavior: none; overflow-x: hidden; }
+/* Feel like a native app: no rubber-band stretch, pull-to-refresh or sideways wobble.
+   (clip, not hidden: hidden on html+body turns body into a scroll box and breaks page scrolling.) */
+html { overscroll-behavior: none; overflow-x: clip; }
+body { overscroll-behavior: none; }
 html { touch-action: manipulation; } /* no double-tap zoom; page zoom is locked in index.html */
 
 body {
@@ -462,13 +464,17 @@ h1.hanzi-xl { margin: 0; }
 .map-stage { width: 100%; height: min(calc(100vw - 32px), calc(100dvh - 250px - env(safe-area-inset-bottom)), 640px); min-height: 300px; margin: 4px auto 0; background: radial-gradient(circle at 50% 45%, var(--surface) 0%, transparent 70%); border-radius: 50%; }
 .map-svg { width: 100%; height: 100%; display: block; overflow: visible; }
 .map-hint { margin-top: 6px; }
-.map-layer { transform-box: view-box; transform-origin: 50% 50%; transition: opacity 0.35s ease, transform 0.45s cubic-bezier(.2,.8,.2,1); }
-.map-layer.enter-in { opacity: 0; transform: scale(0.94); }
-.map-layer.enter-out { opacity: 0; transform: scale(1.06); }
+.map-layer { transform-box: view-box; transform-origin: 50% 50%; transition: opacity 0.4s ease, transform 0.5s cubic-bezier(.2,.8,.2,1); }
+.map-layer.enter-fade { opacity: 0; transform: scale(1.04); }
+.map-layer.enter-in { opacity: 0.7; }
+.map-layer.enter-in .map-text { opacity: 0; }
 .map-layer.shown { opacity: 1; transform: none; }
-.map-layer.zooming .map-text { opacity: 0; transition: opacity 0.18s; }
-.map-layer.zooming .map-bubble:not(.picked) { opacity: 0.25; transition: opacity 0.3s; }
-.map-preview { opacity: 0.55; pointer-events: none; transition: opacity 0.3s; }
+.map-layer.shown .map-text { opacity: 1; }
+.map-bubble { transition: opacity 0.5s ease; }
+.map-text { transition: opacity 0.4s ease 0.1s; }
+.map-layer.zooming .map-text { opacity: 0; transition: opacity 0.2s; }
+.map-layer.zooming .map-bubble:not(.picked) { opacity: 0.15; transition: opacity 0.35s; }
+.map-preview { opacity: 0.55; pointer-events: none; transition: opacity 0.4s; }
 .map-layer.zooming .picked .map-preview { opacity: 1; }
 .map-bubble { cursor: pointer; }
 .map-bubble .bubble-body { transition: stroke-width 0.15s; }
