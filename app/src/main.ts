@@ -59,7 +59,19 @@ function renderTabs(active: string) {
     TABS.map((t) =>
       h(
         "a",
-        { href: t.hash, class: `tab ${t.id === active ? "active" : ""}`, "aria-current": t.id === active ? "page" : null },
+        {
+          href: t.hash,
+          class: `tab ${t.id === active ? "active" : ""}`,
+          "aria-current": t.id === active ? "page" : null,
+          // Tapping Search again while on it opens the keyboard.
+          onclick: (e: Event) => {
+            const box = document.querySelector<HTMLInputElement>(".search-bar .search-input");
+            if (t.id === "dict" && location.hash === t.hash && box) {
+              e.preventDefault();
+              box.focus();
+            }
+          },
+        },
         h("span", { class: "tab-icon" }, t.icon),
         h("span", { class: "tab-label" }, en() ? t.en : t.zh),
       ),
@@ -74,6 +86,7 @@ async function route() {
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
   const id = ++renderId;
   document.querySelectorAll(".sheet-overlay").forEach((el) => el.remove());
+  document.body.classList.remove("typing");
   for (const [re, render, tab] of routes) {
     const m = path.match(re);
     if (m) {

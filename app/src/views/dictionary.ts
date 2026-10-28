@@ -23,7 +23,12 @@ export async function renderDictionary(root: HTMLElement) {
   const list = h("div", { class: "entry-list" });
   const more = h("button", { class: "btn block", hidden: true }, en() ? "Load more" : "加载更多");
   // Blank until something is typed.
-  const hint = h("div", { class: "search-hint" });
+  const hint = h(
+    "div",
+    { class: "search-hint" },
+    h("p", { class: "muted" }, en() ? "Type below to search — 汉字, pinyin (with or without tones) or English." : "在下方输入汉字、拼音或英文搜索。"),
+    h("p", { class: "search-hint-arrow", "aria-hidden": "true" }, "↓"),
+  );
 
   let offset = 0;
   let seq = 0;
@@ -59,7 +64,36 @@ export async function renderDictionary(root: HTMLElement) {
   });
   more.addEventListener("click", () => load(false));
 
-  clear(root, h("div", { class: "search-bar" }, input), hint, count, list, more);
+  // The search box sits at the bottom, above the tab bar, within reach of a thumb. While typing the
+  // tab bar steps aside so the box rides on top of the keyboard.
+  input.addEventListener("focus", () => document.body.classList.add("typing"));
+  input.addEventListener("blur", () => document.body.classList.remove("typing"));
+  const clearBtn = h("button", { class: "search-clear", "aria-label": en() ? "Clear" : "清除", hidden: !saved.query }, "×");
+  clearBtn.addEventListener("click", () => {
+    input.value = saved.query = "";
+    clearBtn.hidden = true;
+    load(true);
+    input.focus();
+  });
+  input.addEventListener("input", () => (clearBtn.hidden = !input.value));
+  // With nothing typed, a tap anywhere on the empty page opens the keyboard.
+  root.addEventListener("click", (e) => {
+    if (!saved.query.trim() && !(e.target as HTMLElement).closest("a, button")) input.focus();
+  });
+
+  root.classList.add("search-page");
+  clear(root, hint, count, list, more, h("div", { class: "search-bar bottom" }, searchIcon(), input, clearBtn));
   // No autofocus: opening the tab shouldn't throw up the keyboard (and squeeze the page); tap the box to type.
   await load(true);
+}
+
+/** Magnifying-glass icon for the search box. */
+function searchIcon() {
+  const ns = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(ns, "svg");
+  svg.setAttribute("viewBox", "0 0 24 24");
+  svg.setAttribute("class", "search-icon");
+  svg.setAttribute("aria-hidden", "true");
+  svg.innerHTML = '<circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 20 20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>';
+  return svg;
 }

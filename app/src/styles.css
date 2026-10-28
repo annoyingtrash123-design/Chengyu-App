@@ -157,6 +157,15 @@ button { cursor: pointer; }
 
 /* ---------- Dictionary ---------- */
 .search-bar { display: flex; gap: 8px; position: sticky; top: 0; padding: 12px 0 4px; background: var(--bg); z-index: 5; }
+/* Search page: the box lives at the bottom, above the tab bar (one-handed reach). */
+.search-page { min-height: calc(100dvh - 160px); padding-bottom: 84px; }
+.search-bar.bottom { position: fixed; left: 0; right: 0; top: auto; bottom: calc(66px + env(safe-area-inset-bottom)); margin: 0 auto; max-width: 640px; padding: 10px 16px 10px; align-items: center; background: linear-gradient(to bottom, transparent, var(--bg) 35%); z-index: 20; }
+.search-bar.bottom .search-input { height: 56px; font-size: 18px; border-radius: 18px; padding: 0 44px 0 46px; box-shadow: 0 4px 18px rgb(0 0 0 / 10%); }
+.search-icon { position: absolute; left: 31px; width: 22px; height: 22px; color: var(--muted); pointer-events: none; }
+.search-clear { position: absolute; right: 26px; width: 36px; height: 36px; border: 0; border-radius: 50%; background: var(--surface-2); color: var(--muted); font-size: 22px; line-height: 1; }
+.search-bar.bottom .search-input::-webkit-search-cancel-button { display: none; }
+body.typing #tabs { display: none; }
+body.typing .search-bar.bottom { bottom: 0; padding-bottom: calc(10px + env(safe-area-inset-bottom)); }
 .search-input { flex: 1; min-width: 0; border: 1px solid var(--line); background: var(--surface); border-radius: 12px; padding: 11px 14px; font-size: 17px; outline: none; }
 .search-input:focus { border-color: var(--accent); }
 .filter-btn { white-space: nowrap; }
@@ -497,3 +506,6 @@ details.collapsible h4 { margin: 14px 0 4px; font-size: 14px; }
 .licence summary { cursor: pointer; color: var(--accent); font-size: 12px; margin-top: 2px; }
 .licence pre { white-space: pre-wrap; font-size: 11px; line-height: 1.4; background: var(--surface-2); padding: 8px; border-radius: 8px; max-height: 220px; overflow: auto; }
 .daily-bar { margin: 4px 0 -4px; }
+
+.search-page .search-hint { padding-top: 30vh; }
+.search-hint-arrow { font-size: 28px; color: var(--muted); opacity: 0.6; }
