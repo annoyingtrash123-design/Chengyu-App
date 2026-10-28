@@ -427,3 +427,19 @@ h1.hanzi-xl { margin: 0; }
 .variant-line { margin-top: 2px; }
 .variant-head { color: var(--muted); font-size: 0.85em; }
 .variant-error { color: var(--muted); }
+
+/* Contents map (Me) */
+.map-card { overflow: hidden; }
+.map-crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; font-size: 14px; margin-bottom: 6px; }
+.map-crumbs .map-open { margin-left: auto; }
+.map-stage { width: 100%; max-width: 520px; margin: 0 auto; aspect-ratio: 1; }
+.map-svg { width: 100%; height: 100%; display: block; }
+.map-layer { opacity: 0; transform: scale(0.85); transform-box: fill-box; transform-origin: center; transition: opacity 0.28s ease, transform 0.32s ease; }
+.map-layer.in { opacity: 1; transform: scale(1); }
+.map-bubble.tappable { cursor: pointer; }
+.map-bubble circle:first-child { transition: filter 0.15s; }
+.map-bubble.tappable:hover circle:first-child, .map-bubble:focus-visible circle:first-child { filter: brightness(0.95) saturate(1.2); }
+.map-bubble:focus { outline: none; }
+.map-label { fill: var(--ink, #1f2328); font-weight: 600; pointer-events: none; }
+.map-sub { fill: var(--muted); pointer-events: none; }
+.link-btn { background: none; border: 0; padding: 0; color: var(--accent); font: inherit; cursor: pointer; }

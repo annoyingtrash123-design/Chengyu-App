@@ -24,11 +24,16 @@ function persist() {
 }
 const saved = { filters: loadSaved() };
 
-/** Open the List tab showing a single theme (used by theme chips on entry pages). */
-export function showTheme(theme: string) {
-  saved.filters = { ...emptyFilters(), themes: [theme] };
+/** Open the List tab with the given filters (e.g. from the contents map on Me). */
+export function showFilters(f: Partial<Filters>) {
+  saved.filters = { ...emptyFilters(), ...f };
   persist();
   location.hash = "#/list";
+}
+
+/** Open the List tab showing a single theme (used by theme chips on entry pages). */
+export function showTheme(theme: string) {
+  showFilters({ themes: [theme] });
 }
 
 const PAGE = 50;

@@ -3,6 +3,7 @@ import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
+import { contentsMap } from "./mindmap";
 import { checkForUpdate, onUpdateState, updateState, type UpdateStatus } from "../updates";
 
 export async function renderMe(root: HTMLElement) {
@@ -41,6 +42,7 @@ export async function renderMe(root: HTMLElement) {
   clear(
     root,
     pageHeader(en() ? "Me" : "我的"),
+    contentsMap(),
     h(
       "section",
       { class: "card" },
