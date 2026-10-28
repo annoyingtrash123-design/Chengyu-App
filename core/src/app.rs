@@ -150,6 +150,16 @@ impl App {
         ids
     }
 
+    /// Ids for quizzes and games: the deck without plain phrases (collocations, not idioms),
+    /// unless the user explicitly filtered for phrases.
+    pub fn practice_ids(&self, deck: &Deck) -> Vec<String> {
+        let wants_phrases = matches!(deck, Deck::Filtered { filters } if filters.kinds.contains(&Kind::Phrase));
+        self.deck_ids(deck)
+            .into_iter()
+            .filter(|id| wants_phrases || self.dict.get(id).is_some_and(|e| e.kind != Kind::Phrase))
+            .collect()
+    }
+
     /// Due cards first (most overdue first), then new cards up to today's allowance.
     pub fn study_queue(&self, deck: &Deck, today: i64, limit: usize) -> Vec<String> {
         let ids = self.deck_ids(deck);
@@ -280,7 +290,7 @@ impl App {
                 let count: usize = match opt::<usize>(args, "count")? { 0 => 10, n => n };
                 let lang: Lang = opt(args, "lang")?;
                 let seed: u64 = opt(args, "seed")?;
-                let pool = self.deck_ids(&deck);
+                let pool = self.practice_ids(&deck);
                 json!(quiz::generate(&self.dict, &pool, &kinds, count, lang, seed))
             }
             "quiz_answer" => {
@@ -326,7 +336,7 @@ impl App {
                 let decoys: usize = opt(args, "decoys")?;
                 let seed: u64 = opt(args, "seed")?;
                 let pool: Vec<String> = self
-                    .deck_ids(&deck)
+                    .practice_ids(&deck)
                     .into_iter()
                     .filter(|id| self.dict.get(id).is_some_and(|e| (3..=8).contains(&e.length())))
                     .collect();
@@ -339,14 +349,14 @@ impl App {
                 let mode: MatchMode = arg(args, "mode")?;
                 let english: bool = opt(args, "english")?;
                 let seed: u64 = opt(args, "seed")?;
-                let pool = self.deck_ids(&deck);
+                let pool = self.practice_ids(&deck);
                 json!(games::match_cards(&self.dict, &pool, pairs, mode, english, seed))
             }
             "crossword" => {
                 let deck: Deck = opt(args, "deck")?;
                 let words: usize = match opt::<usize>(args, "words")? { 0 => 6, n => n };
                 let seed: u64 = opt(args, "seed")?;
-                let pool = self.deck_ids(&deck);
+                let pool = self.practice_ids(&deck);
                 json!(games::crossword(&self.dict, &pool, words, seed))
             }
             "link_text" => {
@@ -541,6 +551,7 @@ mod tests {
     #[test]
     fn games_via_api() {
         let mut app = App::new(None);
+        assert!(app.practice_ids(&Deck::All).iter().all(|id| app.dict.get(id).unwrap().kind != Kind::Phrase));
         let q = call(&mut app, "quiz", json!({"count": 5, "seed": 1}));
         assert_eq!(q.as_array().unwrap().len(), 5);
         let s = call(&mut app, "scramble", json!({"seed": 2, "decoys": 2}));

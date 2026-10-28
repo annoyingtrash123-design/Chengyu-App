@@ -18,7 +18,7 @@ pub enum ChainCheck {
 }
 
 fn chainable(e: &Entry) -> bool {
-    matches!(e.kind, Kind::Chengyu | Kind::Guanyongyu | Kind::Phrase) && e.length() >= 3
+    matches!(e.kind, Kind::Chengyu | Kind::Guanyongyu) && e.length() >= 3
 }
 
 /// Does `next` follow `prev`? Same character, or (if `homophones`) same toneless syllable.
