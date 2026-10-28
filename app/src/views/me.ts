@@ -1,16 +1,11 @@
-import { api, isTauri } from "../api";
-import { h, clear, en, label, pageHeader, saveSettings, state, toast, STATUS_LABEL } from "../ui";
-import type { Summary } from "../types";
+import { isTauri } from "../api";
+import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
 import { checkForUpdate, onUpdateState, updateState, type UpdateStatus } from "../updates";
 
 export async function renderMe(root: HTMLElement) {
-  const stats = await api.stats();
-  const hist = await api.history(200);
-  const weak = stats.weak_spots.length ? await api.summaries(stats.weak_spots.map((w) => w.id)) : [];
-  const max = Math.max(1, ...stats.last_30_days);
   const s = state.settings;
 
   const numberField = (value: number, min: number, max: number, onChange: (n: number) => void) =>
@@ -48,47 +43,6 @@ export async function renderMe(root: HTMLElement) {
     pageHeader(en() ? "Me" : "我的"),
     h(
       "section",
-      { class: "card stat-strip" },
-      stat(`🔥 ${stats.streak}`, en() ? "streak" : "连续天数"),
-      stat(String(stats.best_streak), en() ? "best" : "最长"),
-      stat(`${Math.round(stats.accuracy * 100)}%`, en() ? "accuracy" : "正确率"),
-    ),
-    h(
-      "section",
-      { class: "card stat-strip" },
-      stat(String(stats.mastered), en() ? "mastered" : "已掌握"),
-      stat(String(stats.learning), en() ? "learning" : "学习中"),
-      stat(String(stats.new), en() ? "new" : "未学"),
-    ),
-    h(
-      "section",
-      { class: "card" },
-      h("h3", null, en() ? "Last 30 days" : "近 30 天"),
-      h(
-        "div",
-        { class: "bars", role: "img", "aria-label": "Activity over the last 30 days" },
-        stats.last_30_days.map((n, i) =>
-          h("div", { class: "bar-wrap", title: `${n}` }, h("div", { class: `bar ${i === 29 ? "today" : ""}`, style: `height:${(n / max) * 100}%` })),
-        ),
-      ),
-      h("div", { class: "row-between muted small" }, h("span", null, en() ? "30 days ago" : "30 天前"), h("span", null, en() ? "today" : "今天")),
-    ),
-    historySection(en() ? "Recently viewed 最近查看" : "最近查看", hist.viewed, en() ? "Entries you open show up here." : "打开过的词条会显示在这里。"),
-    historySection(
-      `${en() ? "Studied 学过的" : "学过的"} (${hist.studied_total})`,
-      hist.studied,
-      en() ? "Entries you study in 学 show up here." : "在“学”里学习过的词条会显示在这里。",
-    ),
-    weak.length
-      ? h(
-          "section",
-          { class: "card" },
-          h("h3", null, en() ? "Weak spots" : "薄弱词条"),
-          h("div", { class: "chip-group" }, weak.map((w) => h("a", { class: "chip link", href: `#/entry/${w.id}` }, w.text))),
-        )
-      : null,
-    h(
-      "section",
       { class: "card" },
       h("h3", null, en() ? "Settings" : "设置"),
       switchRow(en() ? "Show English" : "显示英文", s.show_english, async (v) => {
@@ -121,10 +75,6 @@ export async function renderMe(root: HTMLElement) {
       : null,
     h("p", { class: "muted small center" }, `${state.meta?.total ?? 0} ${en() ? "entries" : "条词目"} · v${APP_VERSION}`),
   );
-}
-
-function stat(num: string, text: string) {
-  return h("div", { class: "stat" }, h("div", { class: "stat-num" }, num), h("div", { class: "stat-label" }, text));
 }
 
 const STATUS_TEXT: Record<UpdateStatus, [string, string]> = {
@@ -168,23 +118,4 @@ function updatesSection() {
       ),
     ),
   );
-}
-
-/** Chips for a list of entries, a couple of rows at first with a button for the rest. */
-function historySection(title: string, items: Summary[], emptyText: string) {
-  const SHOW = 24;
-  const group = h("div", { class: "chip-group" });
-  const more = h("button", { class: "btn small" }, en() ? "Show all 显示全部" : "显示全部");
-  const draw = (all: boolean) => {
-    clear(
-      group,
-      (all ? items : items.slice(0, SHOW)).map((w) =>
-        h("a", { class: `chip link ${w.status !== "new" ? `status-${w.status}` : ""}`, href: `#/entry/${w.id}`, title: label(STATUS_LABEL[w.status]) }, w.text),
-      ),
-    );
-    more.hidden = all || items.length <= SHOW;
-  };
-  more.addEventListener("click", () => draw(true));
-  draw(false);
-  return h("section", { class: "card" }, h("h3", null, title), items.length ? [group, more] : h("p", { class: "muted small" }, emptyText));
 }
