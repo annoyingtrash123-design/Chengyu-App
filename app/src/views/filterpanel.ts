@@ -185,7 +185,9 @@ export function filterSummary(f: Filters): string {
   const parts: string[] = [];
   if (f.kinds.length) parts.push(f.kinds.map((k) => KIND_LABEL[k].zh).join("、"));
   if (f.themes.length) parts.push(f.themes.map((x) => themeLabel(x).split(" ")[0]).join("、"));
-  const others = activeFilterCount(f) - f.kinds.length - f.themes.length;
+  if (f.frequencies.length) parts.push(f.frequencies.map((q) => FREQUENCY_LABEL[q].stars).join("、"));
+  if (f.favourites_only) parts.push("♥");
+  const others = activeFilterCount(f) - f.kinds.length - f.themes.length - f.frequencies.length - (f.favourites_only ? 1 : 0);
   if (others > 0) parts.push(`+${others}`);
   return parts.length ? parts.join(" · ") : t("全部类型和标签", "All types & labels");
 }

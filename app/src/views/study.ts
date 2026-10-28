@@ -1,39 +1,55 @@
 import { api } from "../api";
 import type { Deck, Grade, Summary } from "../types";
-import { h, clear, en, pageHeader, englishToggle, state, themeLabel, label, KIND_LABEL, toast, maskAnswer } from "../ui";
-import type { Kind } from "../types";
+import { h, clear, en, pageHeader, englishToggle, toast, maskAnswer } from "../ui";
+import type { Filters } from "../types";
+import { activeFilterCount, emptyFilters } from "../filters";
+import { filterPanel, filterSummary } from "./filterpanel";
 
-/** Deck picker shared by study and games: tiers, types, then every label grouped under its broad label. */
+/**
+ * Deck chooser shared by study and games: the same drop-down filter panel as the List tab
+ * (type, labels, characters, how common, sentiment, register, progress, favourites, origin, pattern).
+ * The deck changes when the panel is closed with Done.
+ */
 export function deckPicker(onChange: (d: Deck) => void, initial: Deck = { type: "all" }) {
-  const sel = h("select", { class: "select" });
-  const opts = new Map<string, Deck>();
-  const key = (d: Deck) => (d.type === "filtered" ? JSON.stringify(d.filters) : d.type);
-  const add = (parent: HTMLElement, text: string, d: Deck) => {
-    const k = key(d);
-    opts.set(k, d);
-    parent.appendChild(h("option", { value: k, selected: k === key(initial) }, text));
+  const f: Filters =
+    initial.type === "filtered"
+      ? { ...emptyFilters(), ...initial.filters }
+      : { ...emptyFilters(), favourites_only: initial.type === "favourites", frequencies: initial.type === "core" ? [1] : [] };
+  const bar = h("button", { class: "dropdown-bar", "aria-expanded": "false" });
+  const panelSlot = h("div", { class: "panel-slot" });
+  let open = false;
+  const drawBar = () => {
+    clear(
+      bar,
+      h("span", { class: "dropdown-label" + (activeFilterCount(f) ? " on" : "") }, filterSummary(f)),
+      h("span", { class: "dropdown-caret", "aria-hidden": "true" }, open ? "▴" : "▾"),
+    );
+    bar.setAttribute("aria-expanded", String(open));
   };
-  const group = (text: string) => sel.appendChild(h("optgroup", { label: text })) as HTMLElement;
-  add(sel, en() ? "Everything" : "全部", { type: "all" });
-  add(sel, en() ? "♥ Favourites" : "♥ 收藏", { type: "favourites" });
-  const tiers = group(en() ? "By frequency" : "按常用程度");
-  ([[1, "★★★ 核心 Core"], [2, "★★ 常用 Common"], [3, "★ 少见 Uncommon"]] as [number, string][]).forEach(([f, t]) =>
-    add(tiers, t, { type: "filtered", filters: { frequencies: [f] } }),
-  );
-  const kinds = group(en() ? "By type" : "按类型");
-  (["chengyu", "suyu", "xiehouyu", "guanyongyu", "mingju", "phrase"] as Kind[]).forEach((k) =>
-    add(kinds, label(KIND_LABEL[k]), { type: "filtered", filters: { kinds: [k] } }),
-  );
-  const themes = state.meta?.themes ?? [];
-  themes
-    .filter((t) => !t.group)
-    .forEach((g) => {
-      const og = group(themeLabel(g.id));
-      add(og, `${themeLabel(g.id)} · ${en() ? "all" : "全部"}`, { type: "filtered", filters: { themes: [g.id] } });
-      themes.filter((t) => t.group === g.id).forEach((t) => add(og, `　${themeLabel(t.id)}`, { type: "filtered", filters: { themes: [t.id] } }));
-    });
-  sel.addEventListener("change", () => onChange(opts.get(sel.value)!));
-  return sel;
+  const setOpen = (v: boolean) => {
+    open = v;
+    clear(
+      panelSlot,
+      open
+        ? filterPanel(
+            f,
+            drawBar,
+            () => {
+              setOpen(false);
+              onChange(activeFilterCount(f) ? { type: "filtered", filters: { ...f } } : { type: "all" });
+            },
+            () => {
+              Object.assign(f, emptyFilters());
+              setOpen(true);
+            },
+          )
+        : null,
+    );
+    drawBar();
+  };
+  bar.addEventListener("click", () => setOpen(!open));
+  drawBar();
+  return h("div", { class: "deck-picker" }, bar, panelSlot);
 }
 
 let lastDeck: Deck = { type: "all" };
