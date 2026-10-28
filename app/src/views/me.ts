@@ -65,7 +65,6 @@ export async function renderMe(root: HTMLElement) {
         : null,
     ),
     updatesSection(),
-    aboutSection(),
     !isTauri() && !isStandalone() && (canPromptInstall() || isIos())
       ? h(
           "section",
@@ -76,6 +75,7 @@ export async function renderMe(root: HTMLElement) {
             : h("button", { class: "btn primary", onclick: async () => { if (await promptInstall()) renderMe(root); } }, en() ? "Install on this device" : "安装到本机"),
         )
       : null,
+    aboutSection(),
     h("p", { class: "muted small center" }, `${state.meta?.total ?? 0} ${en() ? "entries" : "条词目"} · v${APP_VERSION}`),
   );
 }
@@ -133,37 +133,42 @@ const CREDITS: { name: string; by: string; use: [string, string]; licence: strin
   { name: "CC-CEDICT", by: "MDBG", use: ["Cross-checking which expressions exist (no text copied)", "核对词条是否存在（未复制其内容）"], licence: "CC BY-SA 4.0" },
 ];
 
-/** About, privacy, content note and third-party licences (collapsed). */
+/** About the content, privacy and third-party licences, each folded away, at the bottom of Me. */
 function aboutSection() {
+  const fold = (title: string, ...body: (Node | Node[] | null)[]) =>
+    h("details", { class: "card collapsible" }, h("summary", null, h("span", null, title)), ...body);
   const p = (zh: string, enText: string) => h("p", { class: "small" }, en() ? enText : zh);
-  return h(
-    "details",
-    { class: "card collapsible" },
-    h("summary", null, h("span", null, en() ? "About & licences 关于" : "关于与许可"), null),
-    h("h4", null, en() ? "About the content" : "关于内容"),
-    p(
-      "词条的释义、例句、用法说明和出处由编者在人工智能辅助下撰写，并经多轮核对。出处只收录有可靠文献依据的；星级综合书面词频与母语者熟悉程度。如发现错误，欢迎反馈。",
-      "Meanings, examples, usage notes and origins were written with AI assistance and checked in several review rounds. Origins are given only when well attested; star ratings combine written frequency with how familiar an expression is to native speakers. If you spot a mistake, please report it.",
+  return [
+    fold(
+      en() ? "About the content 关于内容" : "关于内容",
+      p(
+        "词条的释义、例句、用法说明和出处由编者在人工智能辅助下撰写，并经多轮核对。出处只收录有可靠文献依据的；星级综合书面词频与母语者熟悉程度。如发现错误，欢迎反馈。",
+        "Meanings, examples, usage notes and origins were written with AI assistance and checked in several review rounds. Origins are given only when well attested; star ratings combine written frequency with how familiar an expression is to native speakers. If you spot a mistake, please report it.",
+      ),
     ),
-    h("h4", null, en() ? "Privacy" : "隐私"),
-    p(
-      "本应用不需要账号，不收集、不上传任何数据，也不含广告或统计追踪。收藏、学习进度、测验成绩和设置只保存在你的设备上；清除浏览器数据或卸载应用会将其删除。",
-      "No account is needed. The app collects and uploads nothing, and has no ads or analytics. Favourites, study progress, quiz results and settings are stored only on your device; clearing site data or uninstalling the app deletes them.",
+    fold(
+      en() ? "Privacy 隐私" : "隐私",
+      p(
+        "本应用不需要账号，不收集、不上传任何数据，也不含广告或统计追踪。收藏、学习进度、测验成绩和设置只保存在你的设备上；清除浏览器数据或卸载应用会将其删除。",
+        "No account is needed. The app collects and uploads nothing, and has no ads or analytics. Favourites, study progress, quiz results and settings are stored only on your device; clearing site data or uninstalling the app deletes them.",
+      ),
     ),
-    h("h4", null, en() ? "Data sources & licences" : "数据来源与许可"),
-    h(
-      "ul",
-      { class: "credits small" },
-      CREDITS.map((c) =>
-        h(
-          "li",
-          null,
-          h("strong", null, c.name),
-          ` — ${c.by} · ${c.licence}`,
-          h("div", { class: "muted" }, en() ? c.use[0] : c.use[1]),
-          c.text ? h("details", { class: "licence" }, h("summary", null, en() ? "Licence text" : "许可全文"), h("pre", null, c.text)) : null,
+    fold(
+      en() ? "Data sources & licences 数据来源与许可" : "数据来源与许可",
+      h(
+        "ul",
+        { class: "credits small" },
+        CREDITS.map((c) =>
+          h(
+            "li",
+            null,
+            h("strong", null, c.name),
+            ` — ${c.by} · ${c.licence}`,
+            h("div", { class: "muted" }, en() ? c.use[0] : c.use[1]),
+            c.text ? h("details", { class: "licence" }, h("summary", null, en() ? "Licence text" : "许可全文"), h("pre", null, c.text)) : null,
+          ),
         ),
       ),
     ),
-  );
+  ];
 }
