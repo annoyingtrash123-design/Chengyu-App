@@ -20,6 +20,19 @@ SOURCE_RULES = {
     "myths-legends": r"山海经|拾遗记|续玄怪录|搜神记|神话|淮南子·览冥",
     "poems-prose": r"(李白|杜甫|苏轼|陆游|白居易|孟郊|陈子昂|曹操《|龚自珍|朱熹《春日|王安石|秦观|李煜|崔郊|王勃|《诗经|屈原|赵孟頫|于谦|陶渊明|韩愈|范仲淹|欧阳修|王羲之|李密|柳宗元|丘迟|刘勰|钟嵘|宋玉|李正封|李延年|庾信|毛泽东《|李商隐|王褒|贾谊《过秦论|蔡邕|嵇康|罗大经)",
 }
+# label → regex on the start of origin.date.zh (the period the source text dates from)
+ERA_RULES = {
+    "pre-qin": r"^(先秦|西周|春秋|战国(?!至)|西周至战国|春秋末至战国)",
+    "qin-han": r"^(秦|西汉|东汉|汉|西汉末至新|新)(?![末至])|^东汉末|^战国至(西汉|汉|秦汉)",
+    "wei-jin-nanbeichao": r"^(三国|蜀汉|两晋|魏晋|西晋|东晋|晋宋|南朝|北朝|后秦|北凉|东魏|北齐|北魏|西魏|北周)",
+    "sui-tang-wudai": r"^(隋|唐|晚唐|五代|后晋|后唐|后周|南唐)",
+    "song-dynasty": r"^(北宋|南宋|宋)(?!末元)",
+    "yuan-dynasty": r"^(元|宋末元初)(?!末明)|^元末(?!明)",
+    "ming-dynasty": r"^(明|元末明初)(?!末清|清之际)",
+    "qing-dynasty": r"^(清|晚清|太平天国|明末清初|明清之际)",
+    "republic-era": r"^民国",
+    "communist-era": r"^中华人民共和国",
+}
 # label → regex on usage (zh + en)
 USAGE_RULES = {
     "festive-greetings": r"祝福|New Year|blessing|greeting|春联",
@@ -80,6 +93,8 @@ for f in sorted(glob.glob("data/entries/*.json")):
         src = o.get("source", "") if o else ""
         use = e["usage"]["zh"] + " " + e["usage"]["en"]
         want = [lab for lab, rx in SOURCE_RULES.items() if src and re.search(rx, src)]
+        date = ((o.get("date") or {}).get("zh", "") if o else "").split(" · ")[0]
+        want += [lab for lab, rx in ERA_RULES.items() if date and re.search(rx, date)]
         want += [lab for lab, rx in USAGE_RULES.items() if re.search(rx, use)]
         want += [lab for lab, texts in MANUAL.items() if e["text"] in texts]
         forms = {e["text"], *e.get("variants", [])}
