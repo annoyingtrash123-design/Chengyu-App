@@ -4,6 +4,7 @@ import type { Filters, Kind, Summary } from "../types";
 import { h, clear, en, pageHeader, state, themeLabel, KIND_LABEL, FREQUENCY_LABEL } from "../ui";
 import { chipGroup } from "./filterpanel";
 import { showFilters } from "./list";
+import { pushLevel, replaceLevel } from "../nav";
 
 /**
  * Contents map: every entry as zoomable bubbles. Group by labels, type or star rating (each with
@@ -485,7 +486,7 @@ export async function renderMap(root: HTMLElement) {
     fly(svgRoot, cam?.box ?? fr.box, around(c, fr.a), () => {
       path.push(node);
       // One history entry per level, so the phone's back button steps back out one level.
-      history.pushState({ mapDepth: path.length - 1 }, "");
+      pushLevel({ mapDepth: path.length - 1 });
       draw(node, "in");
     });
   }
@@ -541,7 +542,7 @@ export async function renderMap(root: HTMLElement) {
         if (cam && cam.box[2] < cam.base[2]) fly(cam.svg, cam.box, cam.base, () => {});
         morph(now.gs, now.layout, now.layout.map((_c, i) => now.preview[i] ?? { x: 0, y: 0, r: 0.01 }), 380, () => draw(path[depth], "out", from));
       } else draw(path[depth], "out", from);
-    } else if (depth > path.length - 1) history.replaceState({ mapDepth: path.length - 1 }, "");
+    } else if (depth > path.length - 1) replaceLevel({ mapDepth: path.length - 1 });
   };
   window.addEventListener("popstate", onPop);
 
@@ -583,7 +584,7 @@ export async function renderMap(root: HTMLElement) {
     if (!next) break;
     path.push(next);
   }
-  if (path.length - 1 < depth) history.replaceState({ mapDepth: path.length - 1 }, "");
+  if (path.length - 1 < depth) replaceLevel({ mapDepth: path.length - 1 });
   draw(path[path.length - 1], "fade");
 }
 

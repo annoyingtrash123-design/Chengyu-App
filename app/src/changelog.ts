@@ -20,6 +20,7 @@ export const CHANGELOG: Release[] = [
       "Contents map: going back from an entry returns to the bubbles you opened it from.",
       "Contents map: pinch (or scroll) to zoom and drag to look around inside the map; the rest of the screen stays put.",
       "时移事易 added as another form of 时移世易.",
+      "Back button works like an app: it steps out of what you opened, then goes to a blank Search page, then leaves the app; switching tabs no longer piles up in the back history.",
       "The tab bar hides while the keyboard is open, so the search box sits right on the keyboard.",
     ],
     zh: [
@@ -30,6 +31,7 @@ export const CHANGELOG: Release[] = [
       "内容总览：从词条返回时回到打开它的那一层气泡。",
       "内容总览：可双指缩放、拖动查看，页面其他部分不动。",
       "收录“时移事易”，作为“时移世易”的另一写法。",
+      "返回键更像应用：先退出打开的页面，再回到空白搜索页，再退出应用；切换标签不再计入返回记录。",
       "键盘打开时隐藏底部标签栏，搜索框紧贴键盘。",
     ],
   },

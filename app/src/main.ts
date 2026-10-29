@@ -17,6 +17,7 @@ import { renderMap } from "./views/mindmap";
 import { scheduleReminders } from "./notifications";
 import { setupInstall } from "./install";
 import { setupUpdates } from "./updates";
+import { initNav, goToTab, markDepth } from "./nav";
 
 setupInstall();
 setupUpdates();
@@ -83,11 +84,11 @@ function renderTabs(active: string) {
           "aria-current": t.id === active ? "page" : null,
           // Tapping Search again while on it opens the keyboard.
           onclick: (e: Event) => {
+            e.preventDefault();
             const box = document.querySelector<HTMLInputElement>(".search-bar .search-input");
-            if (t.id === "dict" && location.hash === t.hash && box) {
-              e.preventDefault();
-              box.focus();
-            }
+            if (t.id === "dict" && location.hash === t.hash && box) return box.focus();
+            if (location.hash === t.hash || (t.hash === "#/" && location.hash === "")) return;
+            goToTab(t.hash, SEARCH);
           },
         },
         h("span", { class: "tab-icon" }, t.icon),
@@ -97,12 +98,14 @@ function renderTabs(active: string) {
   );
 }
 
+const SEARCH = "#/dict";
 let renderId = 0;
 let lastTab = "home";
 
 async function route() {
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
   const id = ++renderId;
+  markDepth();
   document.querySelectorAll(".sheet-overlay").forEach((el) => el.remove());
   for (const [re, render, tab] of routes) {
     const m = path.match(re);
@@ -130,6 +133,7 @@ async function start() {
     clear(view, h("div", { class: "error" }, `Could not reach the app core: ${String(e)}`));
     return;
   }
+  initNav(SEARCH);
   window.addEventListener("hashchange", route);
   await route();
   scheduleReminders().catch(() => {});
