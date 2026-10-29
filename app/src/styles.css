@@ -511,3 +511,7 @@ details.collapsible h4 { margin: 14px 0 4px; font-size: 14px; }
 .licence pre { white-space: pre-wrap; font-size: 11px; line-height: 1.4; background: var(--surface-2); padding: 8px; border-radius: 8px; max-height: 220px; overflow: auto; }
 .daily-bar { margin: 4px 0 -4px; }
 
+
+/* Keyboard open: tab bar steps aside, the bottom search box sits right on the keyboard. */
+body.kb #tabs { display: none; }
+body.kb .search-bar.bottom { bottom: 0; padding-bottom: 8px; }

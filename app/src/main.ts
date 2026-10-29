@@ -50,6 +50,24 @@ const TABS = [
   { id: "me", hash: "#/me", icon: "我", zh: "我的", en: "Me" },
 ];
 
+// Hide the tab bar while the on-screen keyboard is up (it would otherwise sit on top of the keyboard).
+// Detected from the visible height, so it also comes back when the keyboard is closed with the back gesture.
+{
+  let tallest = 0;
+  const check = () => {
+    const hgt = window.visualViewport?.height ?? window.innerHeight;
+    tallest = Math.max(tallest, hgt);
+    document.body.classList.toggle("kb", tallest - hgt > 150);
+  };
+  window.visualViewport?.addEventListener("resize", check);
+  window.addEventListener("resize", check);
+  window.addEventListener("orientationchange", () => {
+    tallest = 0;
+    setTimeout(check, 300);
+  });
+  check();
+}
+
 const view = document.getElementById("view")!;
 const tabs = document.getElementById("tabs")!;
 
