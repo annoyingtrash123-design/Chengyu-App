@@ -1,6 +1,7 @@
 import { api } from "../api";
 import type { Summary } from "../types";
 import { h, clear, en, pageHeader, meaningOf } from "../ui";
+import { saveResult } from "../results";
 
 let homophones = true;
 
@@ -47,12 +48,27 @@ export async function renderChain(root: HTMLElement) {
     input.placeholder = en() ? `Starts with ${lastChar}…` : `以"${lastChar}"开头…`;
   }
 
-  function end(text: string) {
+  function end(text: string, answer?: Summary) {
     finished = true;
     input.disabled = true;
     hintBtn.disabled = true;
     giveUp.disabled = true;
     api.gamePlayed();
+    const item = (s: Summary) => ({ id: s.id, text: s.text });
+    saveResult({ at: Date.now(), game: "chain", score: en() ? `chain of ${chain.length}` : `接龙 ${chain.length} 个`, right: chain.map(item), missed: answer ? [item(answer)] : [] });
+    if (answer) {
+      // The answer you could have given, shown as one more link in the chain.
+      const card = h(
+        "a",
+        { class: "chain-item mine answer", href: `#/entry/${answer.id}` },
+        h("div", { class: "chain-who muted small" }, en() ? "You could have said" : "可以接"),
+        h("div", { class: "hanzi" }, answer.text),
+        h("div", { class: "pinyin small" }, answer.pinyin),
+        h("div", { class: "meaning small" }, meaningOf(answer)),
+      );
+      list.appendChild(card);
+      requestAnimationFrame(() => card.scrollIntoView({ behavior: "smooth", block: "center" }));
+    }
     clear(
       message,
       h("p", null, text),
@@ -114,7 +130,7 @@ export async function renderChain(root: HTMLElement) {
   giveUp.addEventListener("click", async () => {
     const answer = await api.chainAi(last().id, used(), homophones);
     const s = answer ? (await api.summaries([answer]))[0] : null;
-    end(s ? (en() ? `You could have said ${s.text}.` : `可以接"${s.text}"。`) : en() ? "Nothing could follow — well played!" : "其实没有能接的，打平！");
+    end(s ? (en() ? `You could have said ${s.text} (${s.pinyin}).` : `可以接"${s.text}"（${s.pinyin}）。`) : en() ? "Nothing could follow — well played!" : "其实没有能接的，打平！", s ?? undefined);
   });
 
   clear(

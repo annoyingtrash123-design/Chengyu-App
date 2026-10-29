@@ -253,6 +253,7 @@ mark { background: var(--accent-soft); color: inherit; border-radius: 3px; paddi
 .chain-list { display: flex; flex-direction: column; gap: 8px; }
 .chain-item { display: block; max-width: 85%; padding: 10px 14px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); color: var(--ink); }
 .chain-item.mine { align-self: flex-end; background: var(--accent-soft); border-color: transparent; }
+.chain-item.answer { background: var(--surface); border: 2px dashed var(--accent); }
 .chain-form { display: flex; gap: 8px; }
 .slots, .tiles { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; }
 .slot, .tile { width: 56px; height: 56px; border-radius: 12px; font-family: var(--hanzi); font-size: 28px; font-weight: 700; display: grid; place-items: center; }

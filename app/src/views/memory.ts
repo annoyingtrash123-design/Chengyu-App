@@ -2,6 +2,7 @@ import { api } from "../api";
 import type { Deck } from "../types";
 import { h, clear, en, pageHeader, peekText } from "../ui";
 import { deckPicker } from "./study";
+import { saveResult } from "../results";
 
 let deck: Deck = { type: "all" };
 
@@ -66,6 +67,8 @@ export async function renderMemory(root: HTMLElement) {
 
   function win() {
     api.gamePlayed();
+    const right = cards.filter((c) => c.is_idiom).map((c) => ({ id: c.entry_id, text: c.face }));
+    saveResult({ at: Date.now(), game: "memory", score: en() ? `${moves} moves` : `${moves} 步`, right, missed: [] });
     root.appendChild(
       h(
         "section",

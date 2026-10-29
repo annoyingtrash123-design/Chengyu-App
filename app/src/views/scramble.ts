@@ -2,6 +2,7 @@ import { api } from "../api";
 import type { Deck, EntryDetail } from "../types";
 import { h, clear, en, pageHeader, meaningOf } from "../ui";
 import { deckPicker } from "./study";
+import { saveRound } from "../results";
 
 let deck: Deck = { type: "all" };
 let streak = 0;
@@ -66,6 +67,7 @@ export async function renderScramble(root: HTMLElement) {
       solved = true;
       streak++;
       api.quizAnswer(s!.entry_id, true);
+      saveRound("scramble", { id: s!.entry_id, text: detail.entry.text }, true);
       slots.classList.add("win");
       clear(
         feedback,
@@ -88,6 +90,7 @@ export async function renderScramble(root: HTMLElement) {
     solved = true;
     streak = 0;
     api.quizAnswer(s!.entry_id, false);
+    saveRound("scramble", { id: s!.entry_id, text: detail.entry.text }, false);
     clear(
       feedback,
       h("p", { class: "hanzi" }, detail.entry.text),

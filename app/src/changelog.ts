@@ -10,6 +10,22 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.18",
+    date: "2026-10-29",
+    en: [
+      "Past results now keep every game, not just quizzes: idiom chain, unscramble, crossword, memory and synonym/antonym match, each with the expressions it used.",
+      "Idiom chain: giving up shows a valid answer as the next link, with its pinyin and meaning.",
+      "Crossword: new “Type answers” mode — write each expression yourself instead of picking from the characters.",
+      "The tab bar hides while the keyboard is open, so the search box sits right on the keyboard.",
+    ],
+    zh: [
+      "历史成绩现在保存所有游戏：成语接龙、拼成语、填字、翻牌和近反义配对，每局都列出用到的词语。",
+      "成语接龙：认输时显示一个可以接的成语（含拼音和释义）。",
+      "填字游戏：新增“自己输入”模式，不用选字，直接写出整个成语。",
+      "键盘打开时隐藏底部标签栏，搜索框紧贴键盘。",
+    ],
+  },
+  {
     version: "0.17",
     date: "2026-10-28",
     en: [

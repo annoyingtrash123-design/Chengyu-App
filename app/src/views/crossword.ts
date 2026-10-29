@@ -2,8 +2,11 @@ import { api } from "../api";
 import type { Crossword, Deck, Summary } from "../types";
 import { h, clear, en, pageHeader, meaningOf, peek, toast } from "../ui";
 import { deckPicker } from "./study";
+import { saveResult } from "../results";
 
 let deck: Deck = { type: "filtered", filters: { frequencies: [1] } };
+/** "tiles": pick from the characters given; "type": write each answer yourself. */
+let mode: "tiles" | "type" = "tiles";
 
 const key = (r: number, c: number) => `${r},${c}`;
 
@@ -24,7 +27,8 @@ export async function renderCrossword(root: HTMLElement) {
   };
   const answer = new Map(x.cells.map((c) => [key(c.row, c.col), c]));
   const blanks = x.cells.filter((c) => !c.given).map((c) => key(c.row, c.col));
-  const fills = new Map<string, number>(); // cell → index into x.tiles
+  const fills = new Map<string, string>(); // cell → character entered
+  const tileOf = new Map<string, number>(); // cell → index into x.tiles (tile mode)
   let word = 0;
   let selected: string | null = cellsOf(0).find((k) => blanks.includes(k)) ?? blanks[0] ?? null;
   let finished = false;
@@ -34,6 +38,8 @@ export async function renderCrossword(root: HTMLElement) {
   const tilesEl = h("div", { class: "tiles xw-tiles" });
   const cluesEl = h("div", { class: "xw-clues" });
   const feedback = h("div", { class: "feedback" });
+  const typeInput = h("input", { class: "search-input", autocomplete: "off", lang: "zh-CN", enterkeyhint: "done" }) as HTMLInputElement;
+  const typeForm = h("form", { class: "chain-form", hidden: true }, typeInput, h("button", { class: "btn primary", type: "submit" }, en() ? "Fill" : "填入"));
 
   const numbers = new Map<string, number>();
   for (const w of x.words) numbers.set(key(w.row, w.col), w.number);
@@ -67,7 +73,7 @@ export async function renderCrossword(root: HTMLElement) {
         }
         const num = numbers.get(k);
         const fill = fills.get(k);
-        const text = cell.given || finished ? cell.ch : fill !== undefined ? x!.tiles[fill] : "";
+        const text = cell.given || finished ? cell.ch : fill ?? "";
         const cls = [
           "xw-cell",
           cell.given ? "given" : "blank",
@@ -88,8 +94,9 @@ export async function renderCrossword(root: HTMLElement) {
                   if (s) peek(s);
                   return;
                 }
-                if (!cell.given && fills.has(k) && selected === k) {
+                if (mode === "tiles" && !cell.given && fills.has(k) && selected === k) {
                   fills.delete(k);
+                  tileOf.delete(k);
                   wrong.delete(k);
                 }
                 select(k);
@@ -103,10 +110,18 @@ export async function renderCrossword(root: HTMLElement) {
     }
     clear(gridEl, cells);
 
-    const used = new Set(fills.values());
+    const used = new Set(tileOf.values());
+    tilesEl.hidden = mode !== "tiles";
+    typeForm.hidden = mode !== "type" || finished;
+    if (mode === "type") {
+      const w = x!.words[word];
+      typeInput.placeholder = en() ? `${w.number} ${w.across ? "across" : "down"}: type the expression` : `${w.number}${w.across ? "横" : "竖"}：输入整个成语`;
+      const have = cellsOf(word).map((k) => (answer.get(k)!.given ? answer.get(k)!.ch : fills.get(k) ?? ""));
+      if (document.activeElement !== typeInput) typeInput.value = have.every(Boolean) ? have.join("") : "";
+    }
     clear(
       tilesEl,
-      x!.tiles.map((t, i) =>
+      mode !== "tiles" ? [] : x!.tiles.map((t, i) =>
         h(
           "button",
           {
@@ -115,7 +130,8 @@ export async function renderCrossword(root: HTMLElement) {
             onclick: () => {
               if (!selected || !blanks.includes(selected)) nextBlank();
               if (!selected) return;
-              fills.set(selected, i);
+              fills.set(selected, x!.tiles[i]);
+              tileOf.set(selected, i);
               wrong.delete(selected);
               nextBlank();
               draw();
@@ -160,7 +176,7 @@ export async function renderCrossword(root: HTMLElement) {
     wrong.clear();
     for (const k of blanks) {
       const f = fills.get(k);
-      if (f !== undefined && x!.tiles[f] !== answer.get(k)!.ch) wrong.add(k);
+      if (f !== undefined && f !== answer.get(k)!.ch) wrong.add(k);
     }
     if (wrong.size === 0 && fills.size === blanks.length) return finish(true);
     draw();
@@ -172,6 +188,8 @@ export async function renderCrossword(root: HTMLElement) {
     finished = true;
     for (const w of x!.words) api.quizAnswer(w.entry_id, won);
     api.gamePlayed();
+    const items = entries.map((s) => ({ id: s.id, text: s.text }));
+    saveResult({ at: Date.now(), game: "crossword", score: won ? (en() ? "solved" : "全部填对") : en() ? "answers shown" : "看了答案", right: won ? items : [], missed: won ? [] : items });
     draw();
     clear(
       feedback,
@@ -182,6 +200,59 @@ export async function renderCrossword(root: HTMLElement) {
     );
   }
 
+  // Typing mode: write the whole expression for the selected clue (pinyin keyboards suggest whole chengyu).
+  typeForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+    if (finished) return;
+    const cells = cellsOf(word);
+    const chars = [...typeInput.value.replace(/\s/g, "")];
+    if (chars.length !== cells.length) {
+      toast(en() ? `This answer has ${cells.length} characters.` : `这个答案是 ${cells.length} 个字。`);
+      return;
+    }
+    cells.forEach((k, i) => {
+      if (!answer.get(k)!.given) {
+        fills.set(k, chars[i]);
+        wrong.delete(k);
+      }
+    });
+    typeInput.value = "";
+    if (fills.size === blanks.length) {
+      typeInput.blur();
+      draw();
+      return check();
+    }
+    // On to the next clue that still has empty squares.
+    const n = x!.words.length;
+    for (let d = 1; d <= n; d++) {
+      const wi = (word + d) % n;
+      const open = cellsOf(wi).find((k) => blanks.includes(k) && !fills.has(k));
+      if (open) {
+        word = wi;
+        selected = open;
+        break;
+      }
+    }
+    draw();
+  });
+
+  const modeBtns = (["tiles", "type"] as const).map((m) =>
+    h(
+      "button",
+      {
+        class: `chip ${mode === m ? "on" : ""}`,
+        onclick: () => {
+          if (mode === m) return;
+          mode = m;
+          tileOf.clear();
+          modeBtns.forEach((b, i) => b.classList.toggle("on", ["tiles", "type"][i] === m));
+          draw();
+        },
+      },
+      m === "tiles" ? (en() ? "Pick characters 选字" : "选字") : en() ? "Type answers 自己输入" : "自己输入",
+    ),
+  );
+
   const checkBtn = h("button", { class: "btn", onclick: () => !finished && check() }, en() ? "Check 检查" : "检查");
   const revealBtn = h("button", { class: "btn", onclick: () => !finished && finish(false) }, en() ? "Show answers 看答案" : "看答案");
 
@@ -189,9 +260,11 @@ export async function renderCrossword(root: HTMLElement) {
     root,
     header,
     picker,
-    h("p", { class: "muted small center" }, en() ? "Tap a square, then a character below. Clues are the meanings." : "点一个空格，再点下面的字。提示是成语的释义。"),
+    h("div", { class: "chip-group center" }, modeBtns),
+    h("p", { class: "muted small center" }, en() ? "Tap a square or clue, then pick characters or type the answer. Clues are the meanings." : "点一个空格或提示，再选字或输入答案。提示是成语的释义。"),
     gridEl,
     tilesEl,
+    typeForm,
     h("div", { class: "row-gap" }, checkBtn, revealBtn),
     feedback,
     h("section", { class: "card" }, cluesEl),

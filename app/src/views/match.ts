@@ -2,6 +2,7 @@ import { api } from "../api";
 import type { Deck, MatchCard } from "../types";
 import { h, clear, en, pageHeader, peekText } from "../ui";
 import { deckPicker } from "./study";
+import { saveResult } from "../results";
 
 let deck: Deck = { type: "all" };
 
@@ -22,6 +23,7 @@ export async function renderMatch(root: HTMLElement, [mode]: string[]) {
   let selectedBtn: HTMLButtonElement | null = null;
   let done = 0;
   let mistakes = 0;
+  const missedIds = new Set<string>();
   const status = h("div", { class: "muted small center" }, en() ? "Tap an expression, then its partner" : "先点左边，再点右边对应的词");
 
   const mk = (c: MatchCard) => {
@@ -44,11 +46,20 @@ export async function renderMatch(root: HTMLElement, [mode]: string[]) {
         done++;
         if (done === left.length) {
           api.gamePlayed();
+          const items = left.map((c) => ({ id: c.entry_id, text: c.face }));
+          saveResult({
+            at: Date.now(),
+            game: m,
+            score: en() ? `${mistakes} mistake${mistakes === 1 ? "" : "s"}` : `错 ${mistakes} 次`,
+            right: items.filter((x) => !missedIds.has(x.id)),
+            missed: items.filter((x) => missedIds.has(x.id)),
+          });
           clear(status, en() ? `🎉 Done! ${mistakes} mistake${mistakes === 1 ? "" : "s"}.` : `🎉 完成！错了 ${mistakes} 次。`, " ", h("div", null, en() ? "Tap any matched card to see its meaning." : "点已配对的卡片可查看释义。"), h("button", { class: "btn primary", onclick: () => renderMatch(root, [mode]) }, en() ? "Again" : "再来"));
         }
       } else {
         mistakes++;
         api.quizAnswer(selected.entry_id, false);
+        missedIds.add(selected.entry_id);
         b.classList.add("wrong");
         setTimeout(() => b.classList.remove("wrong"), 500);
         selectedBtn!.classList.remove("sel");

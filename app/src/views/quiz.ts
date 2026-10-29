@@ -2,6 +2,7 @@ import { api } from "../api";
 import type { Deck, Question, QuestionKind } from "../types";
 import { h, clear, en, pageHeader, toast, peekText } from "../ui";
 import { deckPicker } from "./study";
+import { loadResults, saveResult, gameName, scoreLine } from "../results";
 
 const KINDS: { kind: QuestionKind; zh: string; en: string }[] = [
   { kind: "meaning_to_idiom", zh: "看释义选成语", en: "Meaning → expression" },
@@ -77,37 +78,9 @@ export function renderQuiz(root: HTMLElement, [mode]: string[]) {
 }
 
 /** A finished quiz, kept on this device so it can be reviewed later. */
-interface PastQuiz {
-  at: number;
-  timed: boolean;
-  score: number;
-  total: number;
-  right: { id: string; text: string }[];
-  missed: { id: string; text: string }[];
-}
-
-const HISTORY_KEY = "quiz-history";
-const HISTORY_MAX = 30;
-
-function loadHistory(): PastQuiz[] {
-  try {
-    return JSON.parse(localStorage.getItem(HISTORY_KEY) ?? "[]");
-  } catch {
-    return [];
-  }
-}
-
-function saveResult(r: PastQuiz) {
-  try {
-    localStorage.setItem(HISTORY_KEY, JSON.stringify([r, ...loadHistory()].slice(0, HISTORY_MAX)));
-  } catch {
-    /* storage unavailable: the result is still shown, just not kept */
-  }
-}
-
-/** Past quizzes and timed challenges, newest first, each with its right / missed expressions. */
+/** Every finished game, newest first, each with the expressions it used (right / missed). */
 export function renderQuizHistory(root: HTMLElement) {
-  const past = loadHistory();
+  const past = loadResults();
   const chips = (xs: { id: string; text: string }[]) =>
     h("div", { class: "chip-group" }, xs.map((x) => h("a", { class: "chip link", href: `#/entry/${x.id}` }, x.text)));
   clear(
@@ -118,16 +91,12 @@ export function renderQuizHistory(root: HTMLElement) {
           h(
             "section",
             { class: "card" },
-            h(
-              "h3",
-              null,
-              `${r.timed ? (en() ? "Timed challenge" : "限时挑战") : en() ? "Quiz" : "测验"} · ${new Date(r.at).toLocaleString()} · ${r.timed ? r.score : `${r.score} / ${r.total}`}`,
-            ),
+            h("h3", null, [gameName(r), new Date(r.at).toLocaleString(), scoreLine(r)].filter(Boolean).join(" · ")),
             r.missed.length ? [h("div", { class: "muted small" }, en() ? `✗ Missed (${r.missed.length})` : `✗ 答错 (${r.missed.length})`), chips(r.missed)] : null,
-            r.right.length ? [h("div", { class: "muted small" }, en() ? `✓ Got right (${r.right.length})` : `✓ 答对 (${r.right.length})`), chips(r.right)] : null,
+            r.right.length ? [h("div", { class: "muted small" }, en() ? `✓ Got right / played (${r.right.length})` : `✓ 答对 / 用到 (${r.right.length})`), chips(r.right)] : null,
           ),
         )
-      : h("div", { class: "empty" }, en() ? "No quizzes yet. Finished quizzes and timed challenges appear here." : "还没有测验记录。完成的测验和限时挑战会保存在这里。"),
+      : h("div", { class: "empty" }, en() ? "No games yet. Every finished game appears here with the expressions it used." : "还没有记录。每局完成的游戏和用到的词语都会保存在这里。"),
   );
 }
 
@@ -175,7 +144,7 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
     if (!root.isConnected) return;
     api.gamePlayed();
     const asItems = (qs: Question[]) => qs.map((q) => ({ id: q.entry_id, text: questionLabel(q) }));
-    saveResult({ at: Date.now(), timed, score, total: i, right: asItems(right), missed: asItems(missed) });
+    saveResult({ at: Date.now(), game: timed ? "timed" : "quiz", score, total: i, right: asItems(right), missed: asItems(missed) });
     clear(
       root,
       pageHeader(title, { back: true }),
