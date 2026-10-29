@@ -1,6 +1,7 @@
 //! The dictionary: loading, lookup, search and filtering.
 
 use std::collections::HashMap;
+use std::sync::OnceLock;
 
 use serde::{Deserialize, Serialize};
 
@@ -362,16 +363,23 @@ impl Dictionary {
     }
 
     /// Search and filter. An empty query lists everything that passes the filters,
-    /// most common first.
+    /// most common first. Traditional characters also find the simplified entry.
     pub fn search(&self, query: &str, filters: &Filters, user: &UserData) -> Vec<Hit> {
         let query = query.trim();
+        let simplified = to_simplified(query);
+        let alt = (simplified != query).then_some(simplified.as_str());
         let mut hits: Vec<Hit> = (0..self.entries.len())
             .filter(|&i| self.matches(&self.entries[i], filters, user))
             .filter_map(|i| {
                 if query.is_empty() {
                     Some(Hit { index: i, score: 0, matched: MatchKind::All })
                 } else {
-                    self.score(i, query).map(|(score, matched)| Hit { index: i, score, matched })
+                    let s = self.score(i, query);
+                    let s = match (s, alt.and_then(|q| self.score(i, q))) {
+                        (Some(a), Some(b)) => Some(if b.0 > a.0 { b } else { a }),
+                        (a, b) => a.or(b),
+                    };
+                    s.map(|(score, matched)| Hit { index: i, score, matched })
                 }
             })
             .collect();
@@ -389,6 +397,22 @@ impl Dictionary {
     pub fn plain_syllables(&self, e: &Entry) -> Vec<String> {
         pinyin::syllables(&e.pinyin).iter().map(|s| pinyin::strip_tones(s)).collect()
     }
+}
+
+/// Traditional → simplified, character by character (OpenCC's table; see `t2s.txt`).
+fn to_simplified(s: &str) -> String {
+    static TABLE: OnceLock<HashMap<char, char>> = OnceLock::new();
+    let table = TABLE.get_or_init(|| {
+        include_str!("t2s.txt")
+            .lines()
+            .filter(|l| !l.starts_with('#'))
+            .filter_map(|l| {
+                let mut c = l.chars();
+                Some((c.next()?, c.next()?))
+            })
+            .collect()
+    });
+    s.chars().map(|c| *table.get(&c).unwrap_or(&c)).collect()
 }
 
 #[cfg(test)]
@@ -414,6 +438,13 @@ mod tests {
         // Pinyin of a reordered variant is worked out from the main form.
         assert_eq!(top(&d, "qingshanlvshui"), "绿水青山");
         assert_eq!(top(&d, "绿水青山"), "绿水青山");
+    }
+
+    #[test]
+    fn traditional_characters_find_the_entry() {
+        let d = dict();
+        assert_eq!(top(&d, "一語成讖"), "一语成谶");
+        assert_eq!(top(&d, "畫蛇添足"), "画蛇添足");
     }
 
     #[test]

@@ -130,6 +130,7 @@ const CREDITS: { name: string; by: string; use: [string, string]; licence: strin
   { name: "THUOCL", by: "THUNLP, Tsinghua University", use: ["Idiom frequency ranks (used for the star ratings)", "成语词频排名（用于星级）"], licence: "MIT", text: MIT("2018 THUNLP") },
   { name: "chinese-xinhua", by: "pwxcoo", use: ["Idiom and two-part-saying lists, pinyin cross-checks", "成语与歇后语词表、拼音核对"], licence: "MIT", text: MIT("2018 pwxcoo") },
   { name: "jieba", by: "Sun Junyi", use: ["Word-frequency cross-checks when choosing entries", "选词时的词频核对"], licence: "MIT", text: MIT("2013 Sun Junyi") },
+  { name: "OpenCC", by: "Carbo Kuo and contributors", use: ["Traditional-to-simplified character table, so traditional input finds entries", "繁简字对照表（输入繁体也能查到词条）"], licence: "Apache-2.0" },
   { name: "CC-CEDICT", by: "MDBG", use: ["Cross-checking which expressions exist (no text copied)", "核对词条是否存在（未复制其内容）"], licence: "CC BY-SA 4.0" },
 ];
 
