@@ -215,10 +215,95 @@ export async function renderMap(root: HTMLElement) {
       const e = ease(t);
       svgRoot.setAttribute("viewBox", from.map((v, i) => v + (to[i] - v) * e).join(" "));
       if (t < 1) requestAnimationFrame(step);
-      else done();
+      else {
+        if (cam?.svg === svgRoot) cam.box = to.slice();
+        flying--;
+        done();
+      }
     };
+    flying++;
     requestAnimationFrame(step);
   }
+
+  // ---------- pinch / wheel zoom inside the map (the page itself never zooms) ----------
+
+  /** The level on screen: its full view box and the current, possibly zoomed-in, camera. */
+  let cam: { svg: SVGElement; base: number[]; box: number[] } | null = null;
+  let flying = 0; // camera flights in progress
+  const MAX_ZOOM = 8;
+  /** Zoom to width `w` keeping the view-box point (px, py) under the stage point (sx, sy) (0–1). */
+  function setCam(w: number, px: number, py: number, sx: number, sy: number) {
+    if (!cam) return;
+    const [bx, by, bw, bh] = cam.base;
+    w = Math.max(bw / MAX_ZOOM, Math.min(bw, w));
+    const hh = (w * bh) / bw;
+    const x = Math.max(bx, Math.min(bx + bw - w, px - sx * w));
+    const y = Math.max(by, Math.min(by + bh - hh, py - sy * hh));
+    cam.box = [x, y, w, hh];
+    cam.svg.setAttribute("viewBox", cam.box.join(" "));
+  }
+  const pts = new Map<number, { x: number; y: number }>();
+  let gesture: { box: number[]; dist: number; mx: number; my: number } | null = null;
+  let moved = false;
+  /** Fraction across / down the stage, and the view-box point under it (for the camera at gesture start). */
+  const at = (x: number, y: number, box: number[]) => {
+    const r = stage.getBoundingClientRect();
+    const sx = (x - r.left) / r.width;
+    const sy = (y - r.top) / r.height;
+    return { sx, sy, px: box[0] + sx * box[2], py: box[1] + sy * box[3] };
+  };
+  const startGesture = () => {
+    if (!cam) return;
+    const p = [...pts.values()];
+    const mx = p.reduce((a, q) => a + q.x, 0) / p.length;
+    const my = p.reduce((a, q) => a + q.y, 0) / p.length;
+    const dist = p.length > 1 ? Math.hypot(p[0].x - p[1].x, p[0].y - p[1].y) : 0;
+    gesture = { box: cam.box.slice(), dist, mx, my };
+  };
+  stage.addEventListener("pointerdown", (e) => {
+    if (flying) return;
+    if (!pts.size) moved = false;
+    pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    startGesture();
+  });
+  stage.addEventListener("pointermove", (e) => {
+    if (!pts.has(e.pointerId) || !gesture || !cam || flying) return;
+    pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    const p = [...pts.values()];
+    const mx = p.reduce((a, q) => a + q.x, 0) / p.length;
+    const my = p.reduce((a, q) => a + q.y, 0) / p.length;
+    const dist = p.length > 1 ? Math.hypot(p[0].x - p[1].x, p[0].y - p[1].y) : 0;
+    if (!moved && Math.hypot(mx - gesture.mx, my - gesture.my) < 8 && Math.abs(dist - gesture.dist) < 8) return;
+    if (!moved) {
+      moved = true;
+      stage.setPointerCapture(e.pointerId);
+    }
+    const g = at(gesture.mx, gesture.my, gesture.box);
+    const now = at(mx, my, gesture.box);
+    const w = gesture.dist && dist ? (gesture.box[2] * gesture.dist) / dist : gesture.box[2];
+    setCam(w, g.px, g.py, now.sx, now.sy);
+  });
+  const lift = (e: PointerEvent) => {
+    pts.delete(e.pointerId);
+    if (pts.size) startGesture();
+    else gesture = null;
+  };
+  stage.addEventListener("pointerup", lift);
+  stage.addEventListener("pointercancel", lift);
+  // A drag or pinch is not a tap on the bubble under the finger.
+  stage.addEventListener("click", (e) => moved && (e.stopPropagation(), e.preventDefault(), (moved = false)), true);
+  stage.addEventListener(
+    "wheel",
+    (e) => {
+      if (!cam || flying) return;
+      e.preventDefault();
+      const a = at(e.clientX, e.clientY, cam.box);
+      setCam(cam.box[2] * Math.exp(e.deltaY * 0.002), a.px, a.py, a.sx, a.sy);
+    },
+    { passive: false },
+  );
+  // Double-tap: zoom back out to the whole level.
+  stage.addEventListener("dblclick", () => cam && !flying && fly(cam.svg, cam.box, cam.base, () => {}));
 
   /**
    * Show a level. "in": right after zooming into it (its bubbles are already where the preview was).
@@ -336,11 +421,12 @@ export async function renderMap(root: HTMLElement) {
         }
       } else if (k.more !== undefined) {
         text(k.zh, x, y + r * 0.13, r * 0.36, "map-label");
-      } else if (r > 3) {
+      } else if (r > 1.2) {
+        // Small bubbles get small labels too: they become readable when you pinch to zoom.
         const fs = Math.min(r / 2.6, 6);
         const lines: [string, string, number][] = [[k.zh, "map-label", fs]];
         if (en() && r > 8 && k.en) lines.push([k.en, "map-sub", fs * 0.5]);
-        lines.push([fmt(k.items.length), "map-count", fs * 0.62]);
+        if (r > 2) lines.push([fmt(k.items.length), "map-count", fs * 0.62]);
         const tot = lines.reduce((s, l) => s + l[2] * 1.15, 0);
         let yy = y - tot / 2;
         for (const [str, cls, size] of lines) {
@@ -363,6 +449,7 @@ export async function renderMap(root: HTMLElement) {
       layer.appendChild(g);
     });
     const start = backFrom as number[] | null; // set inside the loop above
+    cam = { svg: svgRoot, base: fr.box, box: fr.box.slice() };
     if (enter === "out" && start) {
       svgRoot.setAttribute("viewBox", start.join(" "));
       layer.classList.add("zooming");
@@ -387,15 +474,15 @@ export async function renderMap(root: HTMLElement) {
     trail = path.slice(1).map((n) => n.zh);
     drawCrumbs();
     hint.textContent = kids.some((k) => k.entry)
-      ? en() ? "Tap an expression to open it · bigger bubbles are more common" : "点词条打开 · 气泡越大越常用"
-      : en() ? "Tap a bubble to zoom in" : "点气泡放大查看";
+      ? en() ? "Tap an expression to open it · bigger bubbles are more common · pinch to zoom" : "点词条打开 · 气泡越大越常用 · 双指缩放"
+      : en() ? "Tap a bubble to go in · pinch to zoom" : "点气泡进入 · 双指缩放";
   }
 
   /** Fly the camera into a bubble until it fills the frame, then show what's inside. */
   function zoomInto(svgRoot: SVGElement, layer: SVGElement, picked: SVGElement, c: Circle, node: Node, fr: ReturnType<typeof frame>) {
     layer.classList.add("zooming");
     picked.classList.add("picked");
-    fly(svgRoot, fr.box, around(c, fr.a), () => {
+    fly(svgRoot, cam?.box ?? fr.box, around(c, fr.a), () => {
       path.push(node);
       // One history entry per level, so the phone's back button steps back out one level.
       history.pushState({ mapDepth: path.length - 1 }, "");
@@ -451,6 +538,7 @@ export async function renderMap(root: HTMLElement) {
       if (oneStep && now) {
         // Fold this level back into its bubble's round preview, then pull the camera out.
         now.layer.classList.add("leaving");
+        if (cam && cam.box[2] < cam.base[2]) fly(cam.svg, cam.box, cam.base, () => {});
         morph(now.gs, now.layout, now.layout.map((_c, i) => now.preview[i] ?? { x: 0, y: 0, r: 0.01 }), 380, () => draw(path[depth], "out", from));
       } else draw(path[depth], "out", from);
     } else if (depth > path.length - 1) history.replaceState({ mapDepth: path.length - 1 }, "");

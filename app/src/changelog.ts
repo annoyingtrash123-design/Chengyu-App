@@ -18,6 +18,8 @@ export const CHANGELOG: Release[] = [
       "Crossword: new “Type answers” mode — write each expression yourself instead of picking from the characters.",
       "Contents map fills the whole screen, corners included, with bigger bubbles; tapping in, the bubbles spread out from the preview, and going back folds them back in.",
       "Contents map: going back from an entry returns to the bubbles you opened it from.",
+      "Contents map: pinch (or scroll) to zoom and drag to look around inside the map; the rest of the screen stays put.",
+      "时移事易 added as another form of 时移世易.",
       "The tab bar hides while the keyboard is open, so the search box sits right on the keyboard.",
     ],
     zh: [
@@ -26,6 +28,8 @@ export const CHANGELOG: Release[] = [
       "填字游戏：新增“自己输入”模式，不用选字，直接写出整个成语。",
       "内容总览铺满整个屏幕（包括四角），气泡更大；放大时气泡从预览中展开，返回时再收回去。",
       "内容总览：从词条返回时回到打开它的那一层气泡。",
+      "内容总览：可双指缩放、拖动查看，页面其他部分不动。",
+      "收录“时移事易”，作为“时移世易”的另一写法。",
       "键盘打开时隐藏底部标签栏，搜索框紧贴键盘。",
     ],
   },
