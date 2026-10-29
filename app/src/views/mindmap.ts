@@ -35,18 +35,30 @@ const svg = (tag: string, attrs: Record<string, string | number> = {}) => {
 const fmt = (n: number) => n.toLocaleString("en-US");
 const KINDS: Kind[] = ["chengyu", "suyu", "mingju", "phrase", "guanyongyu", "xiehouyu"];
 const MAX_ENTRIES = 60;
+const PREVIEW = 90;
 
 let allEntries: Promise<Summary[]> | null = null;
 const loadAll = () => (allEntries ??= api.search("", emptyFilters(), 0, 100000).then((r) => r.items));
 
 const prefs: { by: GroupBy; kinds: Kind[]; stars: number[] } = { by: "labels", kinds: [], stars: [] };
+/** Names of the bubbles zoomed into, so coming back from an entry returns to the same level. */
+let trail: string[] = [];
 
-/** Tightly pack circles of the given radii around the centre, scaled to fit radius `fit`. */
-function pack(radii: number[], fit: number): { x: number; y: number; r: number }[] {
+type Circle = { x: number; y: number; r: number };
+
+/**
+ * Tightly pack circles of the given radii. With one size, they fill a circle of radius `fit`;
+ * with half-width and half-height, they spread to fill that rectangle, corners included.
+ */
+function pack(radii: number[], hw: number, maybeHh?: number): Circle[] {
   if (!radii.length) return [];
-  const pad = Math.max(...radii) * 0.04;
+  const round = maybeHh === undefined;
+  const hh = maybeHh ?? hw;
+  const pad = Math.max(...radii) * (round ? 0.04 : 0.03);
+  // How far a circle reaches out, relative to the frame: distance from the centre, or the box edges.
+  const reach = (x: number, y: number, r: number) => (round ? Math.hypot(x, y) + r : Math.max((Math.abs(x) + r) / hw, (Math.abs(y) + r) / hh));
   const order = radii.map((r, i) => ({ r, i })).sort((a, b) => b.r - a.r);
-  const placed: { x: number; y: number; r: number; i: number }[] = [];
+  const placed: (Circle & { i: number })[] = [];
   for (const { r, i } of order) {
     if (!placed.length) {
       placed.push({ x: 0, y: 0, r, i });
@@ -59,7 +71,7 @@ function pack(radii: number[], fit: number): { x: number; y: number; r: number }
         const a = (k / 40) * Math.PI * 2;
         const x = p.x + Math.cos(a) * (p.r + r + pad);
         const y = p.y + Math.sin(a) * (p.r + r + pad);
-        const d = Math.hypot(x, y) + r;
+        const d = reach(x, y, r);
         if (d >= bestD) continue;
         if (placed.every((q) => Math.hypot(q.x - x, q.y - y) >= q.r + r + pad - 1e-6)) {
           best = { x, y };
@@ -69,10 +81,19 @@ function pack(radii: number[], fit: number): { x: number; y: number; r: number }
     }
     placed.push({ ...best, r, i });
   }
-  const R = Math.max(...placed.map((p) => Math.hypot(p.x, p.y) + p.r));
-  const k = fit / R;
-  const out: { x: number; y: number; r: number }[] = [];
-  placed.forEach((p) => (out[p.i] = { x: p.x * k, y: p.y * k, r: p.r * k }));
+  const out: Circle[] = [];
+  if (round) {
+    const k = hw / Math.max(...placed.map((p) => Math.hypot(p.x, p.y) + p.r));
+    placed.forEach((p) => (out[p.i] = { x: p.x * k, y: p.y * k, r: p.r * k }));
+    return out;
+  }
+  // Centre the cluster in the box, then scale it up until it touches the sides.
+  const x0 = Math.min(...placed.map((p) => p.x - p.r));
+  const x1 = Math.max(...placed.map((p) => p.x + p.r));
+  const y0 = Math.min(...placed.map((p) => p.y - p.r));
+  const y1 = Math.max(...placed.map((p) => p.y + p.r));
+  const k = Math.min((2 * hw) / (x1 - x0), (2 * hh) / (y1 - y0));
+  placed.forEach((p) => (out[p.i] = { x: (p.x - (x0 + x1) / 2) * k, y: (p.y - (y0 + y1) / 2) * k, r: p.r * k }));
   return out;
 }
 
@@ -204,23 +225,66 @@ export async function renderMap(root: HTMLElement) {
    * "out": coming back up from `fromChild`: start zoomed into that bubble and pull the camera back.
    * "fade": a fresh start (new grouping or filters).
    */
+  /** The view box for the stage's shape: 100 units along the short side. */
+  function frame() {
+    // Fill the space left between the controls and the tab bar (less a line for the hint).
+    const tabs = document.getElementById("tabs")?.getBoundingClientRect().height ?? 0;
+    const room = window.innerHeight - stage.getBoundingClientRect().top - window.scrollY - tabs - 34;
+    stage.style.height = `${Math.max(300, Math.round(room))}px`;
+    const a = stage.clientWidth / Math.max(1, stage.clientHeight) || 1;
+    const w = a < 1 ? 100 : 100 * a;
+    const hgt = a < 1 ? 100 / a : 100;
+    return { a, w, h: hgt, box: [-w / 2, -hgt / 2, w, hgt] };
+  }
+  /** Camera rectangle (stage-shaped) that just fits a bubble. */
+  const around = (c: Circle, a: number) => (a < 1 ? [c.x - c.r, c.y - c.r / a, 2 * c.r, (2 * c.r) / a] : [c.x - c.r * a, c.y - c.r, 2 * c.r * a, 2 * c.r]);
+
+  /** Slide and scale each bubble group from one set of circles to another. */
+  function morph(gs: SVGElement[], from: Circle[], to: Circle[], dur: number, done: () => void) {
+    const t0 = performance.now();
+    const step = (now: number) => {
+      const t = dur ? Math.min(1, (now - t0) / dur) : 0;
+      const e = ease(t);
+      gs.forEach((g, i) => {
+        const f = from[i] ?? { x: 0, y: 0, r: 0.01 };
+        const x = f.x + (to[i].x - f.x) * e;
+        const y = f.y + (to[i].y - f.y) * e;
+        const sc = (f.r + (to[i].r - f.r) * e) / to[i].r;
+        g.setAttribute("transform", `translate(${x} ${y}) scale(${sc}) translate(${-to[i].x} ${-to[i].y})`);
+      });
+      if (!dur) return;
+      if (t < 1) requestAnimationFrame(step);
+      else done();
+    };
+    step(t0);
+  }
+
+  /** What's on screen now, so going back can fold it into its bubble first. */
+  let shown: { gs: SVGElement[]; layout: Circle[]; preview: Circle[]; layer: SVGElement } | null = null;
+
   function draw(node: Node, enter: "in" | "out" | "fade", fromChild?: Node) {
     const kids = kidsOf(node);
-    const layout = pack(kids.map((k) => Math.sqrt(weight(k))), 47);
-    const svgRoot = svg("svg", { viewBox: "-50 -50 100 100", class: "map-svg", role: "img", "aria-label": `${node.zh} ${node.en}` });
+    const fr = frame();
+    const radii = kids.map((k) => Math.sqrt(weight(k)));
+    const layout = pack(radii, fr.w / 2 - 1.5, fr.h / 2 - 1.5);
+    // Where these bubbles sat in the parent's preview, in this level's coordinates.
+    const preview = pack(radii.slice(0, PREVIEW), (Math.min(fr.w, fr.h) / 2) * 0.94);
+    const svgRoot = svg("svg", { viewBox: fr.box.join(" "), class: "map-svg", role: "img", "aria-label": `${node.zh} ${node.en}` });
     const defs = svg("defs");
     const shadow = svg("filter", { id: "mapShadow", x: "-20%", y: "-20%", width: "140%", height: "140%" });
     shadow.appendChild(svg("feDropShadow", { dx: 0, dy: 0.5, stdDeviation: 0.7, "flood-opacity": dark() ? 0.5 : 0.18 }));
     defs.appendChild(shadow);
     svgRoot.appendChild(defs);
     const layer = svg("g", { class: `map-layer enter-${enter}` });
+    const gs: SVGElement[] = [];
     let backFrom: number[] | null = null;
     svgRoot.appendChild(layer);
 
     kids.forEach((k, i) => {
       const { x, y, r } = layout[i];
       const g = svg("g", { class: `map-bubble${k.entry ? " is-entry" : ""}${k.more !== undefined ? " is-more" : ""}${k === fromChild ? " picked" : ""}`, tabindex: 0, role: "button" });
-      if (k === fromChild) backFrom = [x - r, y - r, r * 2, r * 2];
+      if (k === fromChild) backFrom = around({ x, y, r }, fr.a);
+      gs.push(g);
       const ring = dark() ? `hsl(${k.hue} 45% 45%)` : `hsl(${k.hue} 60% 70%)`;
       g.appendChild(
         svg("circle", {
@@ -237,7 +301,7 @@ export async function renderMap(root: HTMLElement) {
       // A faint preview of what's inside, laid out exactly as it appears once zoomed in.
       const inner = kidsOf(k);
       if (inner.length && r > 2.2) {
-        const show = inner.slice(0, 90);
+        const show = inner.slice(0, PREVIEW);
         const lay = pack(show.map((c) => Math.sqrt(weight(c))), r * 0.94);
         const pv = svg("g", { class: "map-preview" });
         show.forEach((c, j) =>
@@ -292,7 +356,7 @@ export async function renderMap(root: HTMLElement) {
       const go = () => {
         if (k.entry) location.hash = `#/entry/${k.entry.id}`;
         else if (k.more !== undefined) showFilters(k.filters);
-        else zoomInto(svgRoot, layer, g, { x, y, r }, k);
+        else zoomInto(svgRoot, layer, g, { x, y, r }, k, fr);
       };
       g.addEventListener("click", go);
       g.addEventListener("keydown", (e) => (e as KeyboardEvent).key === "Enter" && go());
@@ -303,14 +367,24 @@ export async function renderMap(root: HTMLElement) {
       svgRoot.setAttribute("viewBox", start.join(" "));
       layer.classList.add("zooming");
       clear(stage, svgRoot);
-      fly(svgRoot, start, [-50, -50, 100, 100], () => {
+      fly(svgRoot, start, fr.box, () => {
         layer.classList.remove("zooming");
         layer.querySelector(".picked")?.classList.remove("picked");
+      });
+    } else if (enter === "in") {
+      // Bubbles start where the preview showed them, then spread out to fill the screen.
+      morph(gs, preview, layout, 0, () => {}); // (sets the start positions only)
+      clear(stage, svgRoot);
+      morph(gs, preview, layout, 520, () => {
+        gs.forEach((g) => g.removeAttribute("transform"));
+        layer.classList.add("shown");
       });
     } else {
       clear(stage, svgRoot);
       requestAnimationFrame(() => requestAnimationFrame(() => layer.classList.add("shown")));
     }
+    shown = { gs, layout, preview, layer };
+    trail = path.slice(1).map((n) => n.zh);
     drawCrumbs();
     hint.textContent = kids.some((k) => k.entry)
       ? en() ? "Tap an expression to open it · bigger bubbles are more common" : "点词条打开 · 气泡越大越常用"
@@ -318,10 +392,10 @@ export async function renderMap(root: HTMLElement) {
   }
 
   /** Fly the camera into a bubble until it fills the frame, then show what's inside. */
-  function zoomInto(svgRoot: SVGElement, layer: SVGElement, picked: SVGElement, c: { x: number; y: number; r: number }, node: Node) {
+  function zoomInto(svgRoot: SVGElement, layer: SVGElement, picked: SVGElement, c: Circle, node: Node, fr: ReturnType<typeof frame>) {
     layer.classList.add("zooming");
     picked.classList.add("picked");
-    fly(svgRoot, [-50, -50, 100, 100], [c.x - c.r, c.y - c.r, c.r * 2, c.r * 2], () => {
+    fly(svgRoot, fr.box, around(c, fr.a), () => {
       path.push(node);
       // One history entry per level, so the phone's back button steps back out one level.
       history.pushState({ mapDepth: path.length - 1 }, "");
@@ -344,6 +418,7 @@ export async function renderMap(root: HTMLElement) {
       }),
       path.length > 1 ? h("button", { class: "btn small map-open", onclick: () => showFilters(path[path.length - 1].filters) }, en() ? "Open in List" : "在列表中查看") : null,
     );
+    crumbs.scrollLeft = crumbs.scrollWidth; // keep the current level in view
   }
 
   let pendingRestart = false;
@@ -361,6 +436,8 @@ export async function renderMap(root: HTMLElement) {
   };
   const onPop = (e: PopStateEvent) => {
     if (!stage.isConnected) return window.removeEventListener("popstate", onPop);
+    // Opening an entry changes the hash, which also fires popstate: that's leaving the map, not going back.
+    if (!location.hash.startsWith("#/map")) return;
     const depth = (e.state as { mapDepth?: number } | null)?.mapDepth ?? 0;
     if (pendingRestart && depth === 0) {
       pendingRestart = false;
@@ -368,8 +445,14 @@ export async function renderMap(root: HTMLElement) {
     }
     if (depth < path.length - 1) {
       const from = path[depth + 1];
+      const oneStep = depth === path.length - 2;
       path = path.slice(0, depth + 1);
-      draw(path[depth], "out", from);
+      const now = shown;
+      if (oneStep && now) {
+        // Fold this level back into its bubble's round preview, then pull the camera out.
+        now.layer.classList.add("leaving");
+        morph(now.gs, now.layout, now.layout.map((_c, i) => now.preview[i] ?? { x: 0, y: 0, r: 0.01 }), 380, () => draw(path[depth], "out", from));
+      } else draw(path[depth], "out", from);
     } else if (depth > path.length - 1) history.replaceState({ mapDepth: path.length - 1 }, "");
   };
   window.addEventListener("popstate", onPop);
@@ -403,7 +486,17 @@ export async function renderMap(root: HTMLElement) {
   );
 
   clear(root, pageHeader(en() ? "Contents map" : "内容总览", { back: true }), controls, crumbs, stage, hint);
-  restart();
+  // Back from an entry: return to the level it was opened from (history still holds the levels above).
+  const depth = (history.state as { mapDepth?: number } | null)?.mapDepth ?? 0;
+  const r = rootNode();
+  path = [r];
+  for (const name of trail.slice(0, depth)) {
+    const next = kidsOf(path[path.length - 1]).find((k) => k.zh === name && !k.entry);
+    if (!next) break;
+    path.push(next);
+  }
+  if (path.length - 1 < depth) history.replaceState({ mapDepth: path.length - 1 }, "");
+  draw(path[path.length - 1], "fade");
 }
 
 /** Card on Me that opens the full-screen map. */
