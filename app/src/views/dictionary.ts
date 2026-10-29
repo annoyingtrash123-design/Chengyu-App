@@ -4,6 +4,8 @@ import { h, clear, en, entryRow } from "../ui";
 
 // Kept between visits so going back to the dictionary restores your search.
 const saved = { query: "" };
+/** Empty the search box (next time the Search page is drawn). */
+export const clearSearch = () => (saved.query = "");
 
 const PAGE = 40;
 

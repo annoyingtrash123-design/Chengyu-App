@@ -1,7 +1,7 @@
 import "./styles.css";
 import { h, clear, loadState, en, loading } from "./ui";
 import { renderHome } from "./views/home";
-import { renderDictionary } from "./views/dictionary";
+import { renderDictionary, clearSearch } from "./views/dictionary";
 import { renderList } from "./views/list";
 import { renderEntry } from "./views/entry";
 import { renderStudy } from "./views/study";
@@ -133,7 +133,7 @@ async function start() {
     clear(view, h("div", { class: "error" }, `Could not reach the app core: ${String(e)}`));
     return;
   }
-  initNav(SEARCH);
+  initNav({ search: SEARCH, tabRoots: TABS.map((t) => t.hash).concat(""), clearSearch, redraw: route });
   window.addEventListener("hashchange", route);
   await route();
   scheduleReminders().catch(() => {});
