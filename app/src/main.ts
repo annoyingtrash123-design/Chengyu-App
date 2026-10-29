@@ -133,7 +133,7 @@ async function start() {
     clear(view, h("div", { class: "error" }, `Could not reach the app core: ${String(e)}`));
     return;
   }
-  initNav({ search: SEARCH, tabRoots: TABS.map((t) => t.hash).concat(""), searching, clearSearch, redraw: route });
+  initNav({ search: SEARCH, tabRoots: TABS.map((t) => t.hash).filter((x) => x !== SEARCH).concat(""), searching, clearSearch, redraw: route });
   window.addEventListener("hashchange", route);
   await route();
   scheduleReminders().catch(() => {});

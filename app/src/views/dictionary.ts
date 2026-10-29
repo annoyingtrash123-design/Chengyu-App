@@ -1,4 +1,5 @@
 import { api } from "../api";
+import { startSearching } from "../nav";
 import { emptyFilters } from "../filters";
 import { h, clear, en, entryRow } from "../ui";
 
@@ -59,6 +60,7 @@ export async function renderDictionary(root: HTMLElement) {
   let debounce: number | undefined;
   input.addEventListener("input", () => {
     saved.query = input.value;
+    if (saved.query.trim()) startSearching();
     clearTimeout(debounce);
     debounce = window.setTimeout(() => load(true), 150);
   });
