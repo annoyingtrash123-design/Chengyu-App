@@ -6,6 +6,8 @@ import { h, clear, en, entryRow } from "../ui";
 const saved = { query: "" };
 /** Empty the search box (next time the Search page is drawn). */
 export const clearSearch = () => (saved.query = "");
+/** Whether anything is typed in the search box. */
+export const searching = () => saved.query.trim() !== "";
 
 const PAGE = 40;
 

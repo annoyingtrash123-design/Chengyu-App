@@ -1,7 +1,7 @@
 // Back-button history, app style: a blank Search page sits at the bottom of the stack (depth 0),
 // each tab's pages stack on top of it, and switching tabs never adds to the stack. So pressing
-// back steps out of what you opened, then lands on a blank Search page, stays there for one more
-// press (a spare entry at depth -1), then leaves the app.
+// back steps out of what you opened, then lands on the Search page; from there, back clears it to
+// blank, one more press stays on the blank page (spare entries at depths -1 and -2), then the app closes.
 
 /** How many back presses from here to the blank Search page at the bottom. */
 export const depth = (): number => (history.state as { d?: number } | null)?.d ?? 0;
@@ -29,15 +29,23 @@ export function markDepth() {
 }
 
 /** Set up the stack at start-up: blank Search underneath whatever page the app opened on. */
-export function initNav(o: { search: string; tabRoots: string[]; clearSearch: () => void; redraw: () => void }) {
+export function initNav(o: { search: string; tabRoots: string[]; searching: () => boolean; clearSearch: () => void; redraw: () => void }) {
   const searchHash = o.search;
   window.addEventListener("popstate", () => {
     // Following a link fires this too, with no state yet: that's not going back.
     if ((history.state as { d?: number } | null)?.d === undefined) return;
     const from = here;
     lastDepth = depth();
-    // The spare entry under the Search page: same page, so just clear it back to blank.
+    // The spare entries under the Search page show the same page, blank.
     if (depth() === -1) {
+      // Search was already blank: this press is the "stay" one, so drop straight to the last spare
+      // entry (the next press closes the app). Otherwise clear the search.
+      if (!o.searching()) return history.back();
+      o.clearSearch();
+      return o.redraw();
+    }
+    if (depth() === -2) {
+      if (!o.searching()) return;
       o.clearSearch();
       return o.redraw();
     }
@@ -55,7 +63,8 @@ export function initNav(o: { search: string; tabRoots: string[]; clearSearch: ()
     return;
   }
   const start = location.hash || "#/";
-  history.replaceState({ d: -1 }, "", searchHash);
+  history.replaceState({ d: -2 }, "", searchHash);
+  history.pushState({ d: -1 }, "", searchHash);
   history.pushState({ d: 0 }, "", searchHash);
   if (start !== searchHash) history.pushState({ d: 1 }, "", start);
   lastDepth = depth();
