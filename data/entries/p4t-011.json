@@ -8,7 +8,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "business-failure",
       "standards-and-benchmarks"
     ],
     "literal": "take · capital · seek · profit",
@@ -55,8 +54,7 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "fleeting-time",
-      "value-of-time"
+      "fleeting-time"
     ],
     "literal": "thousand · years · ten thousand · years",
     "natural": "for ages upon ages",
@@ -152,8 +150,7 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "outstanding-success-and-fame",
-      "value-of-time"
+      "outstanding-success-and-fame"
     ],
     "literal": "thousand · ages · not · perish",
     "natural": "immortal through the ages",
@@ -201,7 +198,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "positive-character-qualities",
       "excellent-acting"
     ],
     "literal": "spirit · complete · vigour · full",
@@ -1079,7 +1075,6 @@
     "sentiment": "positive",
     "register": "literary",
     "themes": [
-      "value-of-time",
       "outstanding-success-and-fame"
     ],
     "literal": "ten thousand · ages · forever · endure",
@@ -1178,7 +1173,7 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "friendship"
+      "kindness-and-generosity"
     ],
     "literal": "harm · oneself · benefit · others",
     "natural": "lose oneself to benefit others",

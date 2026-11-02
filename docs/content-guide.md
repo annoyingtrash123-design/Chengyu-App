@@ -42,6 +42,11 @@ swine*).
 In the app these are called **labels** (标签), not themes. Treat them as tags:
 
 - An entry can carry as many labels as fit — tag every label that genuinely applies, not just one or two.
+- **Mind the side a label is on.** Many labels name one side of a quality (懒惰, 恐惧胆怯, 文笔出众, 美德,
+  友情, 冲突纷争). Only expressions about that side go in it: describing, praising, criticising or warning
+  against it (业精于勤，荒于嬉 fits 懒惰). Never file the opposite there: 锲而不舍 goes under 勤奋敬业,
+  not 懒惰; 酒肉朋友 under 交友不慎与背叛, not 友情. A label must never show synonyms and antonyms
+  side by side. Hand lists in `data/source/label_lists.json` follow the same rule.
 - Labels have two levels: broad labels (no `group`) contain detailed labels (with `group`). Filtering by a
   broad label also finds everything tagged with its detailed labels.
 - **Add new labels freely** (in `data/themes.json`) whenever a recurring type of expression has no good label

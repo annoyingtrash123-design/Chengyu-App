@@ -1224,7 +1224,6 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "frankness-and-candour",
       "attitude-humble-vs-arrogant"
     ],
     "literal": "tentatively · casually · say · it",
@@ -1319,8 +1318,7 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "military-strategy-and-victory",
-      "unity-and-cooperation"
+      "military-strategy-and-victory"
     ],
     "literal": "troops · many · generals · numerous",
     "natural": "many soldiers and generals",
@@ -1479,8 +1477,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "adaptability",
-      "distracted-attention"
+      "distracted-attention",
+      "fickleness-and-indecision"
     ],
     "literal": "east · sway · west · swing",
     "natural": "sway this way and that",

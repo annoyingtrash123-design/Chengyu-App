@@ -13,7 +13,7 @@
     "register": "casual",
     "themes": [
       "danger",
-      "fear-and-cowardice"
+      "courage-and-boldness"
     ],
     "literal": "take off · trousers · fight · tiger — both · not · want · face, also · not · want · life",
     "natural": "fighting a tiger with one's trousers down",
@@ -167,7 +167,7 @@
     "register": "casual",
     "themes": [
       "danger",
-      "fear-and-cowardice"
+      "courage-and-boldness"
     ],
     "literal": "tiger · mouth · in · pull out · tooth — seek · death",
     "natural": "pulling a tooth from a tiger's mouth",
@@ -610,8 +610,8 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "fear-and-cowardice",
-      "danger"
+      "danger",
+      "courage-and-boldness"
     ],
     "literal": "eat · -ed · bear · heart · leopard · gall — gall · big · wrap · sky",
     "natural": "having eaten bear's heart and leopard's gall",
@@ -807,8 +807,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "unusual-combinations",
-      "confusion-and-doubt"
+      "unusual-combinations"
     ],
     "literal": "lame person · 's · backside — odd (slanting) · door",
     "natural": "a lame man's backside is lopsided",
@@ -1000,7 +999,6 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "poor-speech-and-silence",
       "speech"
     ],
     "literal": "dog · lift · door curtain — entirely · rely on · one · piece · mouth",

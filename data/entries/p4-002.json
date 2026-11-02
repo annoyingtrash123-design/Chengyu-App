@@ -9,7 +9,6 @@
     "register": "formal",
     "themes": [
       "danger",
-      "near-misses-and-setbacks",
       "historical-records",
       "often-misused",
       "qin-han"
@@ -896,7 +895,6 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "poor-planning-and-hasty-decisions",
       "historical-records",
       "qin-han",
       "fickleness-and-indecision"
@@ -1114,8 +1112,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "news-and-officialese",
-      "inappropriate-behavior"
+      "news-and-officialese"
     ],
     "literal": "official · pattern · writing",
     "natural": "stock bureaucratic prose",

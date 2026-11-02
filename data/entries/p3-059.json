@@ -335,10 +335,10 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "military-strategy-and-victory",
       "common-and-worthless",
       "historical-records",
-      "wei-jin-nanbeichao"
+      "wei-jin-nanbeichao",
+      "defeat-and-military-failure"
     ],
     "literal": "crows · gather · 's · crowd",
     "natural": "a disorganised rabble",
@@ -537,8 +537,7 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances",
-      "business-failure"
+      "deception-and-false-appearances"
     ],
     "literal": "empty · head · cheque",
     "natural": "an empty promise",
@@ -978,8 +977,7 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "poor-planning-and-hasty-decisions",
-      "fickleness-and-indecision"
+      "poor-planning-and-hasty-decisions"
     ],
     "literal": "feelings · use · handle · matters",
     "natural": "let emotions rule",

@@ -71,7 +71,6 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "inappropriate-behavior",
       "unusual-combinations"
     ],
     "literal": "not · ancient · not · modern",
@@ -272,7 +271,7 @@
     "register": "neutral",
     "themes": [
       "high-aspirations",
-      "luxury-and-extravagance"
+      "outstanding-success-and-fame"
     ],
     "literal": "achievement · fame · wealth · rank",
     "natural": "fame, rank and wealth",
@@ -422,7 +421,6 @@
     "register": "literary",
     "themes": [
       "adaptability",
-      "mental-clarity",
       "confucian-classics",
       "pre-qin"
     ],
@@ -534,7 +532,7 @@
     "register": "literary",
     "themes": [
       "fear-and-cowardice",
-      "near-misses-and-setbacks"
+      "fickleness-and-indecision"
     ],
     "literal": "hesitate · falter · not · advance",
     "natural": "hesitate and hang back",
@@ -583,7 +581,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "structural-problems",
       "danger"
     ],
     "literal": "dense · not · let through · wind",
@@ -843,8 +840,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "psychological-pressure",
-      "adaptability"
+      "psychological-pressure"
     ],
     "literal": "lice · many · not · itch",
     "natural": "too many lice to itch",
@@ -1209,8 +1205,8 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "poor-planning-and-hasty-decisions",
-      "failed-ambitions"
+      "failed-ambitions",
+      "fickleness-and-indecision"
     ],
     "literal": "scholar · rebel · three · years · not · succeed",
     "natural": "scholars rebel, and take three years to fail",

@@ -56,7 +56,6 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "unintended-results",
       "news-and-officialese",
       "exam-favourites"
     ],
@@ -401,7 +400,6 @@
     "register": "neutral",
     "themes": [
       "deception-and-false-appearances",
-      "frankness-and-candour",
       "exam-favourites"
     ],
     "literal": "go against · heart · 's · opinion",
@@ -491,8 +489,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "conflict-and-strife",
-      "exam-favourites"
+      "exam-favourites",
+      "peace-and-prosperity",
+      "unity-and-cooperation"
     ],
     "literal": "shake · hands · speak · peace",
     "natural": "shake hands and make peace",

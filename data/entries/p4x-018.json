@@ -199,7 +199,6 @@
     "register": "literary",
     "themes": [
       "buddhist-origin",
-      "mental-clarity",
       "sui-tang-wudai"
     ],
     "literal": "form · not · differ from · emptiness",
@@ -252,8 +251,8 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "mental-clarity",
-      "plant-and-natural-world"
+      "plant-and-natural-world",
+      "buddhist-origin"
     ],
     "literal": "one · leaf · one · bodhi",
     "natural": "one leaf, one awakening",
@@ -397,8 +396,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "bad-fortune",
-      "adaptability"
+      "bad-fortune"
     ],
     "literal": "lose · wealth · dispel · calamity",
     "natural": "lose some money, dispel the disaster",
@@ -896,8 +894,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "poor-planning-and-hasty-decisions",
-      "adaptability"
+      "poor-timing"
     ],
     "literal": "distant · water · not · quench · near · thirst",
     "natural": "far-off water won't quench present thirst",

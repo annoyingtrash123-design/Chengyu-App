@@ -187,8 +187,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "inappropriate-behavior",
-      "distracted-attention"
+      "complex-emotional-states"
     ],
     "literal": "emperor · not · anxious · eunuch · anxious",
     "natural": "The emperor isn't worried, but the eunuch is",
@@ -329,8 +328,7 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "relative-measurements",
-      "positive-character-qualities"
+      "relative-measurements"
     ],
     "literal": "steelyard · weight · although · small · press · thousand · jin",
     "natural": "A small weight can balance a thousand jin",
@@ -990,7 +988,6 @@
     "register": "casual",
     "themes": [
       "natural-consequences",
-      "poor-planning-and-hasty-decisions",
       "ming-dynasty"
     ],
     "literal": "invite · god · easy · send off · god · hard",

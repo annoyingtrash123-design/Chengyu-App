@@ -280,8 +280,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "mistakes-and-correction",
-      "poor-planning-and-hasty-decisions"
+      "mistakes-and-correction"
     ],
     "literal": "have · money · hard · buy · early · knowing",
     "natural": "Money can't buy advance knowledge",
@@ -327,8 +326,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "useful-tools-and-skill",
-      "high-aspirations"
+      "useful-tools-and-skill"
     ],
     "literal": "not · have · three · liang · three, not · dare · go up · Liangshan",
     "natural": "Without three liang and three, you wouldn't dare go up Liangshan",
@@ -692,7 +690,6 @@
     "register": "neutral",
     "themes": [
       "positive-character-qualities",
-      "high-aspirations",
       "buddhist-origin"
     ],
     "literal": "pray to · gods · worship · Buddha · not · as good as · rely on · self",
@@ -736,7 +733,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "confusion-and-doubt"
+      "confusion"
     ],
     "literal": "believe · then · works, not · believe · then · doesn't work",
     "natural": "It works if you believe, and not if you don't",

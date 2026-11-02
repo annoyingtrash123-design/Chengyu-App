@@ -103,7 +103,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "inappropriate-behavior",
       "complex-emotional-states"
     ],
     "literal": "wine · not · intoxicate · people · people · themselves · get drunk, beauty · not · bewitch · people · people · themselves · get bewitched",
@@ -651,8 +650,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "bad-company-and-betrayal",
-      "fear-and-cowardice"
+      "bad-company-and-betrayal"
     ],
     "literal": "rather · offend · gentleman, not · offend · petty person",
     "natural": "Better to offend a gentleman than a petty man",
@@ -737,7 +735,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "conflict-and-strife"
+      "peace-and-prosperity",
+      "kindness-and-generosity"
     ],
     "literal": "enemy · should · untie · not · should · tie",
     "natural": "Enmities should be untied, not knotted",
@@ -979,7 +978,6 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "fairness-and-impartiality",
       "standards-and-benchmarks"
     ],
     "literal": "mouth · say · no · proof, set up · writing · as · evidence",

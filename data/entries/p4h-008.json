@@ -12,8 +12,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "conduct",
-      "unity-and-cooperation"
+      "conduct"
     ],
     "literal": "railway · police — each · manage · one · section",
     "natural": "Railway police each patrol their own stretch",
@@ -64,9 +63,9 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "high-aspirations",
       "effort",
-      "song-dynasty"
+      "song-dynasty",
+      "diligence-and-dedication"
     ],
     "literal": "iron · pestle · grind · embroidery needle — not · one · day · 's · effort",
     "natural": "Grinding an iron pestle into a needle takes time",
@@ -323,7 +322,6 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "business-failure",
       "poor-planning-and-hasty-decisions"
     ],
     "literal": "earthenware pot · in · pound · garlic — one · hammer · trade",
@@ -517,8 +515,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "danger",
-      "inappropriate-behavior"
+      "danger"
     ],
     "literal": "wasp nest — poke · not · allowed",
     "natural": "A hornet's nest, not to be poked",
@@ -817,8 +814,7 @@
     "sentiment": "negative",
     "register": "casual",
     "themes": [
-      "efficiency",
-      "distracted-attention"
+      "efficiency"
     ],
     "literal": "acute · convulsion · meet · a · slow · doctor — dry · worry",
     "natural": "Acute convulsions meet a slow doctor",

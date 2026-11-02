@@ -188,7 +188,6 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "high-aspirations",
       "courage-and-boldness"
     ],
     "literal": "willing · one · body · be sliced, dare · take · emperor · pull · down · horse",
@@ -233,7 +232,7 @@
     "register": "casual",
     "themes": [
       "danger",
-      "fear-and-cowardice"
+      "courage-and-boldness"
     ],
     "literal": "stuffed · to death · bold · ones, starved · to death · timid · ones",
     "natural": "the bold overeat to death, the timid starve",
@@ -456,7 +455,6 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "adaptability",
       "freedom"
     ],
     "literal": "die · Zhang · butcher, not · eat · unscraped · pig",
@@ -500,9 +498,9 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "revenge-and-retribution",
       "mistakes-and-correction",
-      "ming-dynasty"
+      "ming-dynasty",
+      "kindness-and-generosity"
     ],
     "literal": "kill · person · no more than · head · touch · ground",
     "natural": "at worst killing someone is a head rolling to the ground",
@@ -637,8 +635,7 @@
     "sentiment": "negative",
     "register": "formal",
     "themes": [
-      "revenge-and-retribution",
-      "defeat-and-military-failure"
+      "revenge-and-retribution"
     ],
     "literal": "blood · debt · must · use · blood · to · repay",
     "natural": "a blood debt must be repaid with blood",
@@ -802,8 +799,7 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "food",
-      "poor-health"
+      "food"
     ],
     "literal": "fish · produce · heat, meat · produce · phlegm, green · vegetables · tofu · keep · safe",
     "natural": "fish brings heat, meat brings phlegm, greens and tofu keep you safe",
