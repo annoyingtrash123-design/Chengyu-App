@@ -10,6 +10,18 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.19",
+    date: "2026-11-09",
+    en: [
+      "Home shows five chengyu of the day: swipe left and right, or tap one in the row at the top.",
+      "Expressions inside meanings, origins and usage notes (e.g. 沟壑纵横 in the gloss of 千山万壑) can be tapped when they have their own entry.",
+    ],
+    zh: [
+      "首页每天五个成语：左右滑动，或点上方的词切换。",
+      "释义、出处和用法里出现的其他词语（如“千山万壑”释义中的“沟壑纵横”）如有词条，可直接点开。",
+    ],
+  },
+  {
     version: "0.18",
     date: "2026-10-29",
     en: [

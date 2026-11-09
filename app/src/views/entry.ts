@@ -52,8 +52,9 @@ export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
   const s = d.summary;
   const showEn = en();
 
+  // Other expressions in the Chinese text (e.g. 沟壑纵横 in a gloss) are tappable when they have an entry.
   const bi = (b: { zh: string; en: string }) =>
-    h("div", { class: "bilingual" }, h("p", { class: "zh" }, b.zh), showEn ? h("p", { class: "en" }, b.en) : null);
+    h("div", { class: "bilingual" }, h("p", { class: "zh" }, linked(b.zh, [e.id])), showEn ? h("p", { class: "en" }, b.en) : null);
 
   const links = (title: string, items: Link[]) =>
     items.length

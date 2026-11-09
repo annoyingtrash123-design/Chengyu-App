@@ -518,3 +518,12 @@ details.collapsible h4 { margin: 14px 0 4px; font-size: 14px; }
 /* Keyboard open: tab bar steps aside, the bottom search box sits right on the keyboard. */
 body.kb #tabs { display: none; }
 body.kb .search-bar.bottom { bottom: 0; padding-bottom: 8px; }
+
+/* Home: today's five chengyu, swiped left and right. */
+.daily-dots { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 10px -16px 2px; padding: 0 16px; }
+.daily-dots::-webkit-scrollbar { display: none; }
+.daily-dot { flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--muted); border-radius: 999px; padding: 5px 12px; font-family: var(--hanzi); font-size: 15px; cursor: pointer; }
+.daily-dot.on { background: var(--accent-soft); color: var(--accent); border-color: transparent; font-weight: 600; }
+.daily-track { display: flex; align-items: flex-start; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; margin: 0 -16px; transition: height 0.25s ease; }
+.daily-track::-webkit-scrollbar { display: none; }
+.daily-slide { flex: 0 0 100%; min-width: 0; display: flex; flex-direction: column; gap: 12px; scroll-snap-align: start; scroll-snap-stop: always; padding: 0 16px; box-sizing: border-box; }
