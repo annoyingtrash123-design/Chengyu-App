@@ -1,4 +1,4 @@
-# 成语词典 Chengyu App
+# 语林词典 Yulin Dictionary
 
 A searchable dictionary of 成语, 俗语/谚语, 歇后语, 惯用语, 名句 and common 四字词语 for advanced learners, with
 flashcards, quizzes and games. Runs as a native Android / iOS app (Tauri 2) with all

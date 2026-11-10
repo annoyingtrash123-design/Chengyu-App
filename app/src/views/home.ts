@@ -36,7 +36,7 @@ export async function renderHome(root: HTMLElement) {
     h(
       "div",
       { class: "row-between" },
-      h("div", { class: "hero-title" }, h("span", { class: "hero-mark", "aria-hidden": "true" }, h("i"), h("i"), h("i"), h("i")), "成语词典"),
+      h("div", { class: "hero-title" }, h("span", { class: "hero-mark", "aria-hidden": "true" }, h("i"), h("i"), h("i"), h("i")), "语林词典"),
       englishToggle(() => renderHome(root)),
     ),
   );

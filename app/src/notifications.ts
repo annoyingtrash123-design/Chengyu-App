@@ -27,7 +27,7 @@ export async function scheduleReminders(): Promise<boolean> {
     const idiom = await api.daily(today(at));
     n.sendNotification({
       id: ids[i],
-      title: idiom ? `每日一词：${idiom.text}` : "成语词典",
+      title: idiom ? `每日一词：${idiom.text}` : "语林词典",
       body: idiom
         ? `${idiom.pinyin} — ${state.settings.show_english ? idiom.meaning.en : idiom.meaning.zh}`
         : "Time for today's review!",

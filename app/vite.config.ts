@@ -19,8 +19,8 @@ export default defineConfig({
           injectRegister: false, // registered by src/updates.ts, which also handles reloading
           includeAssets: ["apple-touch-icon.png", "icon.png"],
           manifest: {
-            name: "成语词典 Chengyu Dictionary",
-            short_name: "成语词典",
+            name: "语林词典 Yulin Dictionary",
+            short_name: "语林词典",
             description: "Chengyu, proverbs and sayings: dictionary, flashcards and games",
             lang: "zh-CN",
             start_url: base,

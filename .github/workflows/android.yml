@@ -53,6 +53,13 @@ jobs:
         working-directory: app
         run: npx tauri android init --ci
 
+      - name: Name the app 语林词典 on the home screen
+        working-directory: app
+        run: |
+          find src-tauri/gen/android -path '*res/values/strings.xml' -exec \
+            sed -i -E 's#(<string name="(app_name|main_activity_title)">)[^<]*#\1语林词典#' {} +
+          grep -rh 'app_name' src-tauri/gen/android --include=strings.xml
+
       - name: Build APK
         working-directory: app
         run: npx tauri android build --debug --apk --target aarch64 --ci

@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Chengyu",
+  "productName": "Yulin",
   "version": "0.1.0",
   "identifier": "com.annoyingtrash123.chengyu",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "成语 Chengyu",
+        "title": "语林词典",
         "width": 420,
         "height": 860
       }

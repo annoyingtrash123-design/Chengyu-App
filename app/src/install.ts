@@ -72,7 +72,7 @@ function showBanner() {
     h(
       "div",
       { class: "install-text" },
-      h("strong", null, en() ? "Install 成语词典" : "安装成语词典"),
+      h("strong", null, en() ? "Install 语林词典" : "安装语林词典"),
       h(
         "span",
         null,
