@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "chu-jing-wei-xian",
+    "text": "处境危险",
+    "pinyin": "chǔ jìng wēi xiǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "bad-fortune"
+    ],
+    "literal": "situation · dangerous",
+    "natural": "in a perilous position",
+    "meaning": {
+      "en": "To be in a situation where one may come to harm at any moment.",
+      "zh": "所处的环境或局面很危险。"
+    },
+    "equivalents": [
+      "be in a precarious position",
+      "be in danger"
+    ],
+    "examples": [
+      {
+        "zh": "被困山中的登山者处境危险。",
+        "en": "The climbers trapped in the mountains are in a perilous position."
+      },
+      {
+        "zh": "公司资金断裂，处境危险。",
+        "en": "With its funds cut off, the company is in a precarious position."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often in news reports.",
+      "zh": "作谓语，常见于新闻报道。"
+    },
+    "synonyms": [
+      "岌岌可危",
+      "虎尾春冰",
+      "如履薄冰"
+    ],
+    "antonyms": [
+      "安然无恙",
+      "高枕无忧"
+    ]
+  },
+  {
+    "id": "qin-fen-bu-xie",
+    "text": "勤奋不懈",
+    "pinyin": "qín fèn bù xiè",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "勤勉不懈"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "diligence-and-dedication",
+      "positive-character-qualities"
+    ],
+    "literal": "diligent · hardworking · not · slacken",
+    "natural": "work tirelessly",
+    "meaning": {
+      "en": "To work hard continuously without slackening.",
+      "zh": "勤劳努力，从不松懈。"
+    },
+    "equivalents": [
+      "work tirelessly",
+      "keep at it diligently"
+    ],
+    "examples": [
+      {
+        "zh": "他勤奋不懈地练习，终于拿到了冠军。",
+        "en": "Practising tirelessly, he finally won the championship."
+      },
+      {
+        "zh": "正是靠着勤奋不懈，她才成为了学科带头人。",
+        "en": "It was through unflagging effort that she became a leading figure in her field."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (勤奋不懈地…).",
+      "zh": "作谓语或状语（勤奋不懈地…）。"
+    },
+    "synonyms": [
+      "孜孜不倦",
+      "锲而不舍",
+      "勇猛精进"
+    ],
+    "antonyms": [
+      "懒惰成性",
+      "三天打鱼两天晒网"
+    ]
+  },
+  {
+    "id": "bu-qiu-jin-qu",
+    "text": "不求进取",
+    "pinyin": "bù qiú jìn qǔ",
+    "variants": [
+      "不思进取"
+    ],
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up",
+      "modest-goals"
+    ],
+    "literal": "not · seek · to advance",
+    "natural": "have no drive to improve",
+    "meaning": {
+      "en": "To be content with the status quo and make no effort to improve.",
+      "zh": "满足于现状，不想上进。"
+    },
+    "equivalents": [
+      "lack ambition",
+      "be content to coast"
+    ],
+    "examples": [
+      {
+        "zh": "他工作多年不求进取，一直原地踏步。",
+        "en": "He has coasted for years with no drive to improve and has stood still."
+      },
+      {
+        "zh": "年轻人不应该不求进取，安于现状。",
+        "en": "Young people shouldn't lack ambition and settle for how things are."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; criticism.",
+      "zh": "作谓语，含批评。"
+    },
+    "synonyms": [
+      "小富即安",
+      "安于现状",
+      "得过且过"
+    ],
+    "antonyms": [
+      "奋发图强",
+      "积极进取"
+    ]
+  },
+  {
+    "id": "bu-gu-shi-shi",
+    "text": "不顾事实",
+    "pinyin": "bù gù shì shí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · care about · facts",
+    "natural": "ignore the facts",
+    "meaning": {
+      "en": "To speak or act without regard for the actual facts.",
+      "zh": "说话做事不管真实情况。"
+    },
+    "equivalents": [
+      "disregard the facts",
+      "fly in the face of the facts"
+    ],
+    "examples": [
+      {
+        "zh": "他不顾事实，一口咬定是我的错。",
+        "en": "Ignoring the facts, he insisted it was my fault."
+      },
+      {
+        "zh": "媒体不能不顾事实乱做报道。",
+        "en": "The media must not report recklessly with no regard for the facts."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; accusing.",
+      "zh": "作谓语或状语，含指责。"
+    },
+    "synonyms": [
+      "信口雌黄",
+      "颠倒黑白",
+      "歪曲事实"
+    ],
+    "antonyms": [
+      "实事求是",
+      "据实以告"
+    ]
+  },
+  {
+    "id": "bu-cheng-yang-zi",
+    "text": "不成样子",
+    "pinyin": "bù chéng yàng zi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "poor-workmanship",
+      "broken-or-useless-items"
+    ],
+    "literal": "not · become · shape",
+    "natural": "in a terrible state",
+    "meaning": {
+      "en": "In such a poor or messy state that it does not look as it should.",
+      "zh": "乱得或差得不像样。"
+    },
+    "equivalents": [
+      "in a sorry state",
+      "a complete mess"
+    ],
+    "examples": [
+      {
+        "zh": "暴雨过后，花园被冲得不成样子。",
+        "en": "After the storm the garden was washed into a sorry state."
+      },
+      {
+        "zh": "他把房间弄得不成样子。",
+        "en": "He turned the room into a complete mess."
+      }
+    ],
+    "usage": {
+      "en": "Usually a complement after 得 (弄得/搞得不成样子).",
+      "zh": "多作补语，常说“弄得、搞得不成样子”。"
+    },
+    "synonyms": [
+      "一片狼藉",
+      "乱七八糟"
+    ],
+    "antonyms": [
+      "井井有条",
+      "整整齐齐"
+    ]
+  },
+  {
+    "id": "yan-shou-ji-lu",
+    "text": "严守纪律",
+    "pinyin": "yán shǒu jì lǜ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "conformity-and-imitation"
+    ],
+    "literal": "strictly · abide by · discipline",
+    "natural": "observe discipline strictly",
+    "meaning": {
+      "en": "To follow rules and discipline strictly.",
+      "zh": "严格遵守纪律和规定。"
+    },
+    "equivalents": [
+      "observe strict discipline",
+      "stick to the rules"
+    ],
+    "examples": [
+      {
+        "zh": "军人必须严守纪律，服从命令。",
+        "en": "Soldiers must observe discipline strictly and obey orders."
+      },
+      {
+        "zh": "考生要严守纪律，不得交头接耳。",
+        "en": "Candidates must follow the rules and not whisper to each other."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; formal; common in army, school and organisation contexts.",
+      "zh": "动宾结构，较正式，常用于军队、学校和组织。"
+    },
+    "synonyms": [
+      "令行禁止",
+      "循规蹈矩"
+    ],
+    "antonyms": [
+      "无组织无纪律",
+      "目无法纪"
+    ]
+  },
+  {
+    "id": "se-cai-xian-yan",
+    "text": "色彩鲜艳",
+    "pinyin": "sè cǎi xiān yàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance"
+    ],
+    "literal": "colour · bright · vivid",
+    "natural": "brightly coloured",
+    "meaning": {
+      "en": "Having bright, vivid colours.",
+      "zh": "颜色明亮、艳丽。"
+    },
+    "equivalents": [
+      "brightly coloured",
+      "vivid"
+    ],
+    "examples": [
+      {
+        "zh": "集市上摆满了色彩鲜艳的水果。",
+        "en": "The market is full of brightly coloured fruit."
+      },
+      {
+        "zh": "她喜欢穿色彩鲜艳的衣服。",
+        "en": "She likes to wear vividly coloured clothes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (色彩鲜艳的…).",
+      "zh": "作谓语或定语。"
+    },
+    "synonyms": [
+      "绚丽多彩",
+      "五彩缤纷"
+    ],
+    "antonyms": [
+      "黯淡无光",
+      "色彩单调"
+    ]
+  },
+  {
+    "id": "bu-fei-li-qi",
+    "text": "不费力气",
+    "pinyin": "bù fèi lì qi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "casual",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "not · spend · strength",
+    "natural": "effortlessly",
+    "meaning": {
+      "en": "To do something without much effort.",
+      "zh": "做事不花多少力气。"
+    },
+    "equivalents": [
+      "without effort",
+      "with no trouble at all"
+    ],
+    "examples": [
+      {
+        "zh": "这道题他不费力气就做出来了。",
+        "en": "He solved the problem without any effort."
+      },
+      {
+        "zh": "想不费力气就成功，那是不可能的。",
+        "en": "Hoping to succeed without effort is impossible."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; 力气 has a neutral-tone qi.",
+      "zh": "作谓语或状语，“力气”的“气”读轻声。"
+    },
+    "synonyms": [
+      "轻而易举",
+      "易如反掌"
+    ],
+    "antonyms": [
+      "费尽心力",
+      "大费周章"
+    ]
+  },
+  {
+    "id": "pin-xing-e-lie",
+    "text": "品行恶劣",
+    "pinyin": "pǐn xíng è liè",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "品质恶劣"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "conduct · behaviour · wicked · bad",
+    "natural": "of vile character",
+    "meaning": {
+      "en": "Having very bad moral conduct.",
+      "zh": "品德和行为很坏。"
+    },
+    "equivalents": [
+      "of vile character",
+      "thoroughly bad"
+    ],
+    "examples": [
+      {
+        "zh": "这个人品行恶劣，大家都不愿和他来往。",
+        "en": "He is of vile character and nobody wants to deal with him."
+      },
+      {
+        "zh": "学校开除了品行恶劣的学生。",
+        "en": "The school expelled the badly behaved pupil."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; strong criticism. 品质恶劣 is an alternative form.",
+      "zh": "作谓语或定语，批评语气重。也作“品质恶劣”。"
+    },
+    "synonyms": [
+      "人面兽心",
+      "卑鄙无耻"
+    ],
+    "antonyms": [
+      "品德高尚",
+      "品行端正",
+      "品德正派"
+    ]
+  },
+  {
+    "id": "wu-xian-hao-ren",
+    "text": "诬陷好人",
+    "pinyin": "wū xiàn hǎo rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "cunning-and-treachery",
+      "corruption-and-injustice"
+    ],
+    "literal": "frame · good people",
+    "natural": "frame innocent people",
+    "meaning": {
+      "en": "To make false accusations against honest people.",
+      "zh": "编造罪名陷害无辜的人。"
+    },
+    "equivalents": [
+      "frame innocent people",
+      "make false accusations"
+    ],
+    "examples": [
+      {
+        "zh": "他为了自己升官而诬陷好人。",
+        "en": "He framed an innocent man to get himself promoted."
+      },
+      {
+        "zh": "诬陷好人是要负法律责任的。",
+        "en": "Falsely accusing honest people carries legal liability."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; 好 is hǎo here.",
+      "zh": "动宾结构，“好”读 hǎo。"
+    },
+    "synonyms": [
+      "贝锦萋斐",
+      "栽赃陷害"
+    ],
+    "antonyms": [
+      "洗清冤屈",
+      "平反昭雪"
+    ]
+  },
+  {
+    "id": "bu-shou-zhong-shi",
+    "text": "不受重视",
+    "pinyin": "bù shòu zhòng shì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "complete-failure-and-obscurity"
+    ],
+    "literal": "not · receive · importance",
+    "natural": "be overlooked",
+    "meaning": {
+      "en": "To be given little attention or importance.",
+      "zh": "得不到重视。"
+    },
+    "equivalents": [
+      "be overlooked",
+      "not be taken seriously"
+    ],
+    "examples": [
+      {
+        "zh": "新来的员工意见常常不受重视。",
+        "en": "The ideas of new staff are often not taken seriously."
+      },
+      {
+        "zh": "这门课在学校一直不受重视。",
+        "en": "This subject has always been neglected at the school."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 重 is zhòng here.",
+      "zh": "作谓语，“重”读 zhòng。"
+    },
+    "synonyms": [
+      "位卑言轻",
+      "无人问津"
+    ],
+    "antonyms": [
+      "举足轻重",
+      "委以重任"
+    ]
+  },
+  {
+    "id": "xu-xin-na-jian",
+    "text": "虚心纳谏",
+    "pinyin": "xū xīn nà jiàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "leadership-and-authority"
+    ],
+    "literal": "humbly · accept · advice",
+    "natural": "humbly take advice",
+    "meaning": {
+      "en": "To accept criticism and advice openly, especially from subordinates.",
+      "zh": "虚心地接受别人的批评和建议。"
+    },
+    "equivalents": [
+      "accept advice humbly",
+      "listen to criticism"
+    ],
+    "examples": [
+      {
+        "zh": "好领导应当虚心纳谏，听取不同意见。",
+        "en": "A good leader should humbly take advice and hear differing views."
+      },
+      {
+        "zh": "他虚心纳谏，工作方案改了好几次。",
+        "en": "He took advice humbly, and the plan was revised several times."
+      }
+    ],
+    "usage": {
+      "en": "Formal; verb phrase; typically about leaders and officials.",
+      "zh": "较正式，动词性短语，多指领导和官员。"
+    },
+    "synonyms": [
+      "从谏如流",
+      "择善而从"
+    ],
+    "antonyms": [
+      "刚愎自用",
+      "拒谏饰非",
+      "倔强固执"
+    ]
+  },
+  {
+    "id": "da-qi-jing-shen",
+    "text": "打起精神",
+    "pinyin": "dǎ qǐ jīng shen",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "psychological-pressure",
+      "comebacks-and-renewal"
+    ],
+    "literal": "rouse · spirit",
+    "natural": "pull oneself together",
+    "meaning": {
+      "en": "To rouse oneself and brace up when tired or down.",
+      "zh": "使自己振作起来。"
+    },
+    "equivalents": [
+      "pull oneself together",
+      "perk up"
+    ],
+    "examples": [
+      {
+        "zh": "打起精神来，比赛还没结束！",
+        "en": "Perk up, the match isn't over yet!"
+      },
+      {
+        "zh": "他连夜赶工，只好打起精神继续干。",
+        "en": "Working through the night, he had to rouse himself and go on."
+      }
+    ],
+    "usage": {
+      "en": "Often an imperative (打起精神来); casual.",
+      "zh": "常作祈使句（打起精神来），口语。"
+    },
+    "synonyms": [
+      "振作精神",
+      "重整旗鼓"
+    ],
+    "antonyms": [
+      "萎靡不振",
+      "无精打采"
+    ]
+  },
+  {
+    "id": "bin-ke-yun-ji",
+    "text": "宾客云集",
+    "pinyin": "bīn kè yún jí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "festivals-and-celebrations",
+      "peace-and-prosperity"
+    ],
+    "literal": "guests · like clouds · gather",
+    "natural": "guests thronging in",
+    "meaning": {
+      "en": "Many guests arriving and gathering together.",
+      "zh": "来的客人很多，聚集在一起。"
+    },
+    "equivalents": [
+      "a gathering of many guests",
+      "guests thronging in"
+    ],
+    "examples": [
+      {
+        "zh": "婚礼现场宾客云集，十分热闹。",
+        "en": "The wedding was lively, with guests thronging in."
+      },
+      {
+        "zh": "新店开业当天宾客云集。",
+        "en": "On opening day the new shop was crowded with guests."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for banquets, openings, ceremonies.",
+      "zh": "作谓语，用于宴会、开业、典礼。"
+    },
+    "synonyms": [
+      "胜友如云",
+      "高朋满座",
+      "嘉宾云集"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "宾客寥寥"
+    ]
+  },
+  {
+    "id": "cao-shuai-cong-shi",
+    "text": "草率从事",
+    "pinyin": "cǎo shuài cóng shì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "poor-workmanship"
+    ],
+    "literal": "careless · hasty · handle matters",
+    "natural": "act rashly",
+    "meaning": {
+      "en": "To deal with a matter carelessly or hastily.",
+      "zh": "处理事情马虎、轻率。"
+    },
+    "equivalents": [
+      "act rashly",
+      "do things sloppily"
+    ],
+    "examples": [
+      {
+        "zh": "这么重要的合同，绝不能草率从事。",
+        "en": "Such an important contract must never be handled carelessly."
+      },
+      {
+        "zh": "他草率从事，结果造成了严重失误。",
+        "en": "He acted hastily and caused a serious error."
+      }
+    ],
+    "usage": {
+      "en": "Mostly used in the negative (不可草率从事); formal.",
+      "zh": "多用于否定（不可草率从事），较正式。"
+    },
+    "synonyms": [
+      "粗制滥造",
+      "敷衍了事"
+    ],
+    "antonyms": [
+      "慎重行事",
+      "一丝不苟"
+    ]
+  },
+  {
+    "id": "wai-qu-shi-shi",
+    "text": "歪曲事实",
+    "pinyin": "wāi qū shì shí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "deception-and-false-appearances"
+    ],
+    "literal": "twist · facts",
+    "natural": "distort the facts",
+    "meaning": {
+      "en": "To twist the truth so that it no longer matches what happened.",
+      "zh": "故意把事实说得与真相不符。"
+    },
+    "equivalents": [
+      "distort the facts",
+      "twist the truth"
+    ],
+    "examples": [
+      {
+        "zh": "这篇报道歪曲事实，引起了公众不满。",
+        "en": "The report distorted the facts and angered the public."
+      },
+      {
+        "zh": "他故意歪曲事实，为自己开脱。",
+        "en": "He deliberately twisted the truth to excuse himself."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; common in news, law and debate.",
+      "zh": "动宾结构，常见于新闻、法律和辩论。"
+    },
+    "synonyms": [
+      "颠倒黑白",
+      "混淆是非",
+      "信口雌黄",
+      "不顾事实"
+    ],
+    "antonyms": [
+      "实事求是",
+      "如实反映"
+    ]
+  },
+  {
+    "id": "liu-lian-gu-tu",
+    "text": "留恋故土",
+    "pinyin": "liú liàn gù tǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "homesickness"
+    ],
+    "literal": "cling to · homeland",
+    "natural": "be attached to one's homeland",
+    "meaning": {
+      "en": "To be reluctant to leave one's native place.",
+      "zh": "舍不得离开出生的地方。"
+    },
+    "equivalents": [
+      "be attached to one's native land",
+      "reluctant to leave home"
+    ],
+    "examples": [
+      {
+        "zh": "老人留恋故土，不愿搬到城里去。",
+        "en": "The old man is attached to his birthplace and won't move to the city."
+      },
+      {
+        "zh": "许多华侨虽远在海外，仍留恋故土。",
+        "en": "Though far overseas, many overseas Chinese still cling to their homeland."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; sentimental, mostly written.",
+      "zh": "动宾结构，带感情色彩，多用于书面。"
+    },
+    "synonyms": [
+      "安土重迁",
+      "故土难离"
+    ],
+    "antonyms": [
+      "背井离乡",
+      "远走高飞"
+    ]
+  },
+  {
+    "id": "ban-nong-kou-she",
+    "text": "搬弄口舌",
+    "pinyin": "bān nòng kǒu shé",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "conflict-and-strife"
+    ],
+    "literal": "stir up · mouth and tongue",
+    "natural": "stir up gossip",
+    "meaning": {
+      "en": "To gossip and spread talk in order to cause trouble between people.",
+      "zh": "传闲话，挑拨是非。"
+    },
+    "equivalents": [
+      "stir up gossip",
+      "sow discord by gossiping"
+    ],
+    "examples": [
+      {
+        "zh": "她爱在背后搬弄口舌，同事们都躲着她。",
+        "en": "She likes gossiping behind people's backs, so colleagues avoid her."
+      },
+      {
+        "zh": "别听他搬弄口舌，那些话没有一句是真的。",
+        "en": "Don't listen to his tittle-tattle; not a word of it is true."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; derogatory.",
+      "zh": "动宾结构，含贬义。"
+    },
+    "synonyms": [
+      "搬弄是非",
+      "挑拨离间",
+      "造谣生事"
+    ],
+    "antonyms": [
+      "守口如瓶",
+      "谨言慎行"
+    ]
+  },
+  {
+    "id": "zhong-cheng-bu-yu",
+    "text": "忠诚不渝",
+    "pinyin": "zhōng chéng bù yú",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "loyalty-and-righteousness",
+      "positive-character-qualities"
+    ],
+    "literal": "loyal · sincere · not · change",
+    "natural": "unswervingly loyal",
+    "meaning": {
+      "en": "Remaining loyal and true for ever, without changing.",
+      "zh": "始终忠心，决不改变。"
+    },
+    "equivalents": [
+      "unswervingly loyal",
+      "faithful to the end"
+    ],
+    "examples": [
+      {
+        "zh": "他对祖国忠诚不渝，一生未曾改变。",
+        "en": "He was unswervingly loyal to his country and never changed."
+      },
+      {
+        "zh": "她对丈夫忠诚不渝，等了他二十年。",
+        "en": "She stayed faithful to her husband, waiting for him twenty years."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal praise; 对…忠诚不渝.",
+      "zh": "作谓语，书面赞语，常用“对…忠诚不渝”。"
+    },
+    "synonyms": [
+      "矢志不渝",
+      "誓同生死",
+      "忠贞不贰"
+    ],
+    "antonyms": [
+      "三心二意",
+      "背信弃义"
+    ]
+  },
+  {
+    "id": "lang-ji-si-fang",
+    "text": "浪迹四方",
+    "pinyin": "làng jì sì fāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "journeys-and-exploration",
+      "freedom"
+    ],
+    "literal": "wander · traces · four directions",
+    "natural": "roam far and wide",
+    "meaning": {
+      "en": "To drift from place to place with no fixed home.",
+      "zh": "到处漂泊，没有固定的住处。"
+    },
+    "equivalents": [
+      "roam far and wide",
+      "wander from place to place"
+    ],
+    "examples": [
+      {
+        "zh": "他年轻时浪迹四方，吃过不少苦。",
+        "en": "In his youth he roamed far and wide and suffered much."
+      },
+      {
+        "zh": "这位艺人浪迹四方，靠卖艺为生。",
+        "en": "The performer wandered everywhere, living by his act."
+      }
+    ],
+    "usage": {
+      "en": "Bookish; predicate.",
+      "zh": "偏书面，作谓语。"
+    },
+    "synonyms": [
+      "萍踪浪迹",
+      "四海为家",
+      "漂泊不定"
+    ],
+    "antonyms": [
+      "安居乐业",
+      "安土重迁"
+    ]
+  },
+  {
+    "id": "zong-qing-sheng-se",
+    "text": "纵情声色",
+    "pinyin": "zòng qíng shēng sè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "luxury-and-extravagance",
+      "inappropriate-behavior"
+    ],
+    "literal": "give free rein · music and women",
+    "natural": "indulge in sensual pleasures",
+    "meaning": {
+      "en": "To indulge freely in sensual pleasures such as music, drink and women.",
+      "zh": "放纵地沉溺于歌舞酒色的享乐。"
+    },
+    "equivalents": [
+      "indulge in debauchery",
+      "give oneself up to pleasure"
+    ],
+    "examples": [
+      {
+        "zh": "他纵情声色，很快败光了家产。",
+        "en": "He gave himself to pleasure and soon squandered the family fortune."
+      },
+      {
+        "zh": "史书记载，这位君主纵情声色，不理朝政。",
+        "en": "The histories record that the ruler indulged in pleasure and neglected the court."
+      }
+    ],
+    "usage": {
+      "en": "Formal; derogatory; common in historical contexts.",
+      "zh": "较正式，含贬义，常见于历史叙述。"
+    },
+    "synonyms": [
+      "沉迷享乐",
+      "声色犬马",
+      "千金买笑",
+      "荒淫放纵"
+    ],
+    "antonyms": [
+      "清心寡欲",
+      "洁身自好"
+    ]
+  },
+  {
+    "id": "guo-tu-lun-sang",
+    "text": "国土沦丧",
+    "pinyin": "guó tǔ lún sàng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "defeat-and-military-failure",
+      "sadness-and-despair"
+    ],
+    "literal": "national territory · fall · lost",
+    "natural": "the homeland lost",
+    "meaning": {
+      "en": "The country's land is lost to an invader.",
+      "zh": "国家的土地被敌人占领，丧失了。"
+    },
+    "equivalents": [
+      "the loss of one's homeland",
+      "the fall of the country"
+    ],
+    "examples": [
+      {
+        "zh": "面对国土沦丧，爱国志士奋起抗战。",
+        "en": "Facing the loss of their land, patriots rose to resist."
+      },
+      {
+        "zh": "诗人在国土沦丧的悲痛中写下了这首诗。",
+        "en": "The poet wrote this poem in grief at the loss of the nation's land."
+      }
+    ],
+    "usage": {
+      "en": "Formal and historical; subject or predicate.",
+      "zh": "较正式，多用于历史背景，作主语或谓语。"
+    },
+    "synonyms": [
+      "残山剩水",
+      "山河破碎",
+      "国破家亡"
+    ],
+    "antonyms": [
+      "国泰民安",
+      "山河无恙"
+    ]
+  },
+  {
+    "id": "chen-mi-xiang-le",
+    "text": "沉迷享乐",
+    "pinyin": "chén mí xiǎng lè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance",
+      "negative-character-flaws"
+    ],
+    "literal": "be absorbed in · enjoyment",
+    "natural": "be lost in pleasure-seeking",
+    "meaning": {
+      "en": "To be so absorbed in pleasure and comfort that one neglects responsibilities.",
+      "zh": "整天沉浸在吃喝玩乐中，不务正业。"
+    },
+    "equivalents": [
+      "be lost in a life of pleasure",
+      "indulge in hedonism"
+    ],
+    "examples": [
+      {
+        "zh": "他沉迷享乐，把学业都荒废了。",
+        "en": "Lost in pleasure-seeking, he neglected his studies."
+      },
+      {
+        "zh": "一个人若沉迷享乐，终将一事无成。",
+        "en": "Anyone lost in pleasure will in the end achieve nothing."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; critical.",
+      "zh": "动宾结构，含批评。"
+    },
+    "synonyms": [
+      "纵情声色",
+      "朝歌夜弦",
+      "贪图安逸"
+    ],
+    "antonyms": [
+      "艰苦奋斗",
+      "勤俭节约"
+    ]
+  },
+  {
+    "id": "li-jin-jian-nan",
+    "text": "历尽艰难",
+    "pinyin": "lì jìn jiān nán",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship",
+      "diligence-and-dedication"
+    ],
+    "literal": "go through all · hardships",
+    "natural": "go through great hardship",
+    "meaning": {
+      "en": "To have been through all kinds of difficulties and hardships.",
+      "zh": "经历了各种艰难困苦。"
+    },
+    "equivalents": [
+      "go through hardship",
+      "weather every difficulty"
+    ],
+    "examples": [
+      {
+        "zh": "他们历尽艰难，终于到达了目的地。",
+        "en": "After going through every hardship, they finally reached their destination."
+      },
+      {
+        "zh": "她历尽艰难，把三个孩子养大成人。",
+        "en": "She went through great hardship to bring up three children."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; 难 is nán.",
+      "zh": "作谓语或状语，“难”读 nán。"
+    },
+    "synonyms": [
+      "饱经忧患",
+      "历尽沧桑",
+      "千辛万苦"
+    ],
+    "antonyms": [
+      "一帆风顺",
+      "养尊处优"
+    ]
+  },
+  {
+    "id": "e-yu-shang-ren",
+    "text": "恶语伤人",
+    "pinyin": "è yǔ shāng rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior",
+      "conflict-and-strife"
+    ],
+    "literal": "harsh words · hurt · people",
+    "natural": "hurt people with harsh words",
+    "meaning": {
+      "en": "To wound others with cruel or abusive words.",
+      "zh": "用恶毒的话伤害别人。"
+    },
+    "equivalents": [
+      "wound with harsh words",
+      "speak cruelly"
+    ],
+    "examples": [
+      {
+        "zh": "吵架时不要恶语伤人，免得日后后悔。",
+        "en": "Don't wound people with harsh words in a quarrel, or you'll regret it."
+      },
+      {
+        "zh": "网络上恶语伤人的现象应该受到管理。",
+        "en": "Online abuse that hurts people ought to be regulated."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often advice. 恶 is è here.",
+      "zh": "作谓语，常作劝告，“恶”读 è。"
+    },
+    "synonyms": [
+      "出口伤人",
+      "恶言恶语"
+    ],
+    "antonyms": [
+      "和颜悦色",
+      "出言有礼"
+    ]
+  },
+  {
+    "id": "gai-shan-min-sheng",
+    "text": "改善民生",
+    "pinyin": "gǎi shàn mín shēng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "news-and-officialese"
+    ],
+    "literal": "improve · people's livelihood",
+    "natural": "improve people's livelihoods",
+    "meaning": {
+      "en": "To make ordinary people's living conditions better.",
+      "zh": "使老百姓的生活条件更好。"
+    },
+    "equivalents": [
+      "improve people's livelihoods",
+      "raise living standards"
+    ],
+    "examples": [
+      {
+        "zh": "政府把改善民生放在工作的首位。",
+        "en": "The government puts improving people's livelihoods first."
+      },
+      {
+        "zh": "新修的公路对改善民生起了很大作用。",
+        "en": "The new road has done much to improve local people's lives."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; very common in official and news language.",
+      "zh": "动宾结构，官方和新闻用语中很常见。"
+    },
+    "synonyms": [
+      "藏富于民",
+      "造福百姓"
+    ],
+    "antonyms": [
+      "民不聊生",
+      "横征暴敛"
+    ]
+  },
+  {
+    "id": "pin-de-zheng-pai",
+    "text": "品德正派",
+    "pinyin": "pǐn dé zhèng pài",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "honesty-and-integrity"
+    ],
+    "literal": "character · virtue · decent",
+    "natural": "of decent character",
+    "meaning": {
+      "en": "Having honest, decent moral character.",
+      "zh": "品行端正，作风正派。"
+    },
+    "equivalents": [
+      "of upright character",
+      "decent"
+    ],
+    "examples": [
+      {
+        "zh": "招聘时，公司更看重品德正派的人。",
+        "en": "In recruiting, the company prefers people of decent character."
+      },
+      {
+        "zh": "他品德正派，从来不占别人便宜。",
+        "en": "Decent by nature, he never takes advantage of others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (品德正派的人).",
+      "zh": "作谓语或定语。"
+    },
+    "synonyms": [
+      "人品端正",
+      "品行端正",
+      "光明磊落"
+    ],
+    "antonyms": [
+      "品行不端",
+      "品行恶劣"
+    ]
+  },
+  {
+    "id": "yue-se-jiao-jie",
+    "text": "月色皎洁",
+    "pinyin": "yuè sè jiǎo jié",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "seasonal-changes",
+      "weather-and-sky"
+    ],
+    "literal": "moonlight · bright and white",
+    "natural": "bright moonlight",
+    "meaning": {
+      "en": "The moonlight is clear, bright and pure.",
+      "zh": "月光明亮洁白。"
+    },
+    "equivalents": [
+      "bright moonlight",
+      "a clear moon"
+    ],
+    "examples": [
+      {
+        "zh": "中秋之夜月色皎洁，全家人坐在院里赏月。",
+        "en": "On Mid-Autumn night the moonlight was bright and the family sat in the yard to admire it."
+      },
+      {
+        "zh": "月色皎洁，湖面像镀了一层银。",
+        "en": "The moon was bright, and the lake looked silvered."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive, literary; predicate or at the start of a clause.",
+      "zh": "描写性语句，偏文学，作谓语或分句。"
+    },
+    "synonyms": [
+      "月白风清",
+      "皓月当空"
+    ],
+    "antonyms": [
+      "月黑风高",
+      "乌云蔽月"
+    ]
+  },
+  {
+    "id": "yong-bu-fang-qi",
+    "text": "永不放弃",
+    "pinyin": "yǒng bù fàng qì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "diligence-and-dedication",
+      "positive-character-qualities"
+    ],
+    "literal": "for ever · not · give up",
+    "natural": "never give up",
+    "meaning": {
+      "en": "To keep trying and never abandon one's aim.",
+      "zh": "始终坚持，不会中途放弃。"
+    },
+    "equivalents": [
+      "never give up",
+      "never say die"
+    ],
+    "examples": [
+      {
+        "zh": "只要永不放弃，就还有机会。",
+        "en": "As long as you never give up, there is still a chance."
+      },
+      {
+        "zh": "这是一支永不放弃的球队。",
+        "en": "This is a team that never gives up."
+      }
+    ],
+    "usage": {
+      "en": "Often a slogan or motto; predicate or attributive.",
+      "zh": "常作口号或座右铭，作谓语或定语。"
+    },
+    "synonyms": [
+      "锲而不舍",
+      "百折不挠",
+      "矢志不渝"
+    ],
+    "antonyms": [
+      "半途而废",
+      "轻言放弃"
+    ]
+  },
+  {
+    "id": "fu-qi-he-mu",
+    "text": "夫妻和睦",
+    "pinyin": "fū qī hé mù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "love-and-marriage",
+      "parenting-and-family"
+    ],
+    "literal": "husband and wife · harmonious",
+    "natural": "a harmonious marriage",
+    "meaning": {
+      "en": "A husband and wife who get on well together.",
+      "zh": "丈夫和妻子相处融洽。"
+    },
+    "equivalents": [
+      "a harmonious couple",
+      "get along as husband and wife"
+    ],
+    "examples": [
+      {
+        "zh": "他们夫妻和睦，日子过得很幸福。",
+        "en": "The couple get on well and live happily."
+      },
+      {
+        "zh": "夫妻和睦是家庭幸福的基础。",
+        "en": "A harmonious marriage is the basis of a happy family."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or subject; 和 is hé here.",
+      "zh": "作谓语或主语，“和”读 hé。"
+    },
+    "synonyms": [
+      "夫唱妇随",
+      "相敬如宾",
+      "琴瑟和鸣"
+    ],
+    "antonyms": [
+      "夫妻反目",
+      "同床异梦"
+    ]
+  },
+  {
+    "id": "lu-tu-jian-xian",
+    "text": "路途艰险",
+    "pinyin": "lù tú jiān xiǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "journeys-and-exploration",
+      "danger"
+    ],
+    "literal": "road · journey · hard · perilous",
+    "natural": "a hard, dangerous journey",
+    "meaning": {
+      "en": "The route is difficult and dangerous.",
+      "zh": "道路又难走又危险。"
+    },
+    "equivalents": [
+      "a perilous journey",
+      "a treacherous road"
+    ],
+    "examples": [
+      {
+        "zh": "进山的路途艰险，需要有经验的向导。",
+        "en": "The way into the mountains is treacherous and needs an experienced guide."
+      },
+      {
+        "zh": "尽管路途艰险，他们仍然义无反顾地出发了。",
+        "en": "Though the journey was perilous, they set out without hesitation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or concessive clause.",
+      "zh": "作谓语或让步分句。"
+    },
+    "synonyms": [
+      "山高路险",
+      "险阻重重"
+    ],
+    "antonyms": [
+      "一路平安",
+      "坦途"
+    ]
+  },
+  {
+    "id": "sheng-huo-she-mi",
+    "text": "生活奢靡",
+    "pinyin": "shēng huó shē mí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "luxury-and-extravagance",
+      "negative-character-flaws"
+    ],
+    "literal": "life · extravagant · decadent",
+    "natural": "live a decadent life",
+    "meaning": {
+      "en": "Living in extravagant and indulgent luxury.",
+      "zh": "生活铺张浪费，过分享受。"
+    },
+    "equivalents": [
+      "live in decadent luxury",
+      "lead an extravagant life"
+    ],
+    "examples": [
+      {
+        "zh": "这位官员生活奢靡，最后被查处。",
+        "en": "The official lived in extravagant luxury and was finally investigated."
+      },
+      {
+        "zh": "王朝末年，统治者生活奢靡，百姓困苦。",
+        "en": "At the dynasty's end the rulers lived in luxury while the people suffered."
+      }
+    ],
+    "usage": {
+      "en": "Formal and critical; predicate.",
+      "zh": "较正式，含批评，作谓语。"
+    },
+    "synonyms": [
+      "朝歌夜弦",
+      "穷奢极欲",
+      "纸醉金迷"
+    ],
+    "antonyms": [
+      "艰苦朴素",
+      "勤俭持家"
+    ]
+  },
+  {
+    "id": "cun-xin-xian-e",
+    "text": "存心险恶",
+    "pinyin": "cún xīn xiǎn è",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "cunning-and-treachery",
+      "negative-character-flaws"
+    ],
+    "literal": "intent · sinister · wicked",
+    "natural": "with malicious intent",
+    "meaning": {
+      "en": "Having wicked and harmful intentions.",
+      "zh": "居心狠毒，怀有恶意。"
+    },
+    "equivalents": [
+      "harbour malicious intent",
+      "be ill-intentioned"
+    ],
+    "examples": [
+      {
+        "zh": "你别上当，他存心险恶，想骗你的钱。",
+        "en": "Don't be fooled: he has malicious intent and wants your money."
+      },
+      {
+        "zh": "这些谣言出自存心险恶的人之手。",
+        "en": "The rumours came from someone ill-intentioned."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (存心险恶的人).",
+      "zh": "作谓语或定语。"
+    },
+    "synonyms": [
+      "居心叵测",
+      "别有用心",
+      "心怀鬼胎"
+    ],
+    "antonyms": [
+      "心地善良",
+      "一片好心"
+    ]
+  },
+  {
+    "id": "shou-duan-hen-du",
+    "text": "手段狠毒",
+    "pinyin": "shǒu duàn hěn dú",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "cruelty-and-ruthlessness"
+    ],
+    "literal": "methods · cruel · vicious",
+    "natural": "ruthless methods",
+    "meaning": {
+      "en": "Using cruel and vicious means to get one's way.",
+      "zh": "使用的办法残酷恶毒。"
+    },
+    "equivalents": [
+      "use vicious methods",
+      "ruthless"
+    ],
+    "examples": [
+      {
+        "zh": "这伙骗子手段狠毒，专门欺骗老年人。",
+        "en": "The gang use vicious methods and prey on the elderly."
+      },
+      {
+        "zh": "故事里的反派手段狠毒，却又让人胆寒。",
+        "en": "The villain in the story is ruthless and chilling."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; criticism.",
+      "zh": "作谓语，含批评。"
+    },
+    "synonyms": [
+      "残忍无情",
+      "心狠手辣"
+    ],
+    "antonyms": [
+      "心慈手软",
+      "仁至义尽"
+    ]
+  },
+  {
+    "id": "huan-jing-you-mei",
+    "text": "环境幽美",
+    "pinyin": "huán jìng yōu měi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "nature"
+    ],
+    "literal": "surroundings · secluded · beautiful",
+    "natural": "a tranquil, beautiful setting",
+    "meaning": {
+      "en": "The surroundings are quiet, secluded and beautiful.",
+      "zh": "周围的环境安静而美丽。"
+    },
+    "equivalents": [
+      "a quiet and beautiful setting",
+      "lovely, peaceful surroundings"
+    ],
+    "examples": [
+      {
+        "zh": "这家疗养院环境幽美，适合休养。",
+        "en": "The sanatorium has lovely, peaceful surroundings, ideal for a rest."
+      },
+      {
+        "zh": "校园环境幽美，学生可以安静读书。",
+        "en": "The campus is quiet and pleasant, so students can study in peace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often for parks, campuses, resorts.",
+      "zh": "作谓语或定语，多用于公园、校园、疗养地。"
+    },
+    "synonyms": [
+      "风景优美",
+      "花前月下",
+      "清幽雅静"
+    ],
+    "antonyms": [
+      "污秽不堪",
+      "脏乱差"
+    ]
+  },
+  {
+    "id": "qiu-xian-xin-qie",
+    "text": "求贤心切",
+    "pinyin": "qiú xián xīn qiè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "leadership-and-authority",
+      "positive-character-qualities"
+    ],
+    "literal": "seek · the able · eager",
+    "natural": "eager to find talent",
+    "meaning": {
+      "en": "Being very eager to find capable people to serve.",
+      "zh": "非常迫切地寻求有才能的人。"
+    },
+    "equivalents": [
+      "eager to recruit talent",
+      "impatient to find able people"
+    ],
+    "examples": [
+      {
+        "zh": "公司求贤心切，开出了很高的薪水。",
+        "en": "Eager to find talent, the firm offered a very high salary."
+      },
+      {
+        "zh": "这位校长求贤心切，亲自去邀请专家。",
+        "en": "Keen to find able people, the head went in person to invite the expert."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often of rulers, bosses and institutions. 切 is qiè.",
+      "zh": "作谓语，多用于君主、老板和机构，“切”读 qiè。"
+    },
+    "synonyms": [
+      "吐哺握发",
+      "礼贤下士",
+      "求才若渴"
+    ],
+    "antonyms": [
+      "妒贤嫉能",
+      "埋没人才"
+    ]
+  },
+  {
+    "id": "jian-wen-guang-bo",
+    "text": "见闻广博",
+    "pinyin": "jiàn wén guǎng bó",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "reading-and-study",
+      "positive-character-qualities"
+    ],
+    "literal": "what one has seen and heard · wide",
+    "natural": "widely knowledgeable",
+    "meaning": {
+      "en": "Having seen and heard a great deal and so knowing about many things.",
+      "zh": "见到听到的事物多，知识面广。"
+    },
+    "equivalents": [
+      "well-informed",
+      "widely experienced"
+    ],
+    "examples": [
+      {
+        "zh": "他走遍各地，见闻广博，大家爱听他讲故事。",
+        "en": "Having travelled widely, he is well-informed and people love his stories."
+      },
+      {
+        "zh": "导游见闻广博，沿途讲了许多趣事。",
+        "en": "The guide was widely knowledgeable and told many tales along the way."
+      }
+    ],
+    "usage": {
+      "en": "Describes a person; predicate or attributive.",
+      "zh": "形容人，作谓语或定语。"
+    },
+    "synonyms": [
+      "博闻强记",
+      "学识渊博",
+      "见多识广"
+    ],
+    "antonyms": [
+      "孤陋寡闻",
+      "少见多怪"
+    ]
+  },
+  {
+    "id": "rao-luan-zhi-xu",
+    "text": "扰乱秩序",
+    "pinyin": "rǎo luàn zhì xù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "chaos",
+      "inappropriate-behavior"
+    ],
+    "literal": "disrupt · order",
+    "natural": "disturb public order",
+    "meaning": {
+      "en": "To disrupt the normal order of a place or event.",
+      "zh": "破坏正常的秩序。"
+    },
+    "equivalents": [
+      "disrupt public order",
+      "cause a disturbance"
+    ],
+    "examples": [
+      {
+        "zh": "几个球迷在场内扰乱秩序，被带离了现场。",
+        "en": "Several fans disturbed order in the ground and were led away."
+      },
+      {
+        "zh": "在考场扰乱秩序是要受处分的。",
+        "en": "Disrupting order in the exam hall brings a penalty."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; formal; common in laws, notices and news.",
+      "zh": "动宾结构，较正式，常见于法规、告示和新闻。"
+    },
+    "synonyms": [
+      "聚众滋事",
+      "兴风作浪",
+      "扰乱治安"
+    ],
+    "antonyms": [
+      "维持秩序",
+      "遵纪守法"
+    ]
+  },
+  {
+    "id": "jue-jiang-gu-zhi",
+    "text": "倔强固执",
+    "pinyin": "juè jiàng gù zhí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "stubborn · obstinate",
+    "natural": "stubborn and obstinate",
+    "meaning": {
+      "en": "Stubborn and unwilling to change one's mind, whatever others say.",
+      "zh": "性格强硬，认准了就不肯改变。"
+    },
+    "equivalents": [
+      "stubborn as a mule",
+      "pig-headed"
+    ],
+    "examples": [
+      {
+        "zh": "爷爷脾气倔强固执，谁劝也不听。",
+        "en": "Grandpa is stubborn and obstinate, and won't listen to anyone."
+      },
+      {
+        "zh": "他倔强固执，从不肯认错。",
+        "en": "Obstinate as he is, he never admits being wrong."
+      }
+    ],
+    "usage": {
+      "en": "Describes personality; 倔 is juè (the surly sense). Can be mildly affectionate.",
+      "zh": "形容性格，“倔”读 juè，有时略带亲昵。"
+    },
+    "synonyms": [
+      "刚愎自用",
+      "固执己见",
+      "执迷不悟"
+    ],
+    "antonyms": [
+      "从善如流",
+      "虚心纳谏"
+    ]
+  },
+  {
+    "id": "mai-nong-kou-cai",
+    "text": "卖弄口才",
+    "pinyin": "mài nòng kǒu cái",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "show off · eloquence",
+    "natural": "show off one's eloquence",
+    "meaning": {
+      "en": "To show off one's skill in speaking to impress others.",
+      "zh": "炫耀自己的口才。"
+    },
+    "equivalents": [
+      "show off one's gift of the gab",
+      "grandstand"
+    ],
+    "examples": [
+      {
+        "zh": "他在会上卖弄口才，说了一大堆空话。",
+        "en": "He showed off his eloquence at the meeting and said a lot of empty words."
+      },
+      {
+        "zh": "别在面试官面前卖弄口才，要讲实际内容。",
+        "en": "Don't show off your talk in the interview; give real substance."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object; derogatory.",
+      "zh": "动宾结构，含贬义。"
+    },
+    "synonyms": [
+      "摇唇鼓舌",
+      "夸夸其谈",
+      "高谈阔论"
+    ],
+    "antonyms": [
+      "讷于言辞",
+      "笨嘴拙舌"
+    ]
+  },
+  {
+    "id": "bu-yuan-chi-ku",
+    "text": "不愿吃苦",
+    "pinyin": "bù yuàn chī kǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "laziness-and-giving-up"
+    ],
+    "literal": "not · willing · endure hardship",
+    "natural": "unwilling to bear hardship",
+    "meaning": {
+      "en": "Unwilling to put up with hard work or discomfort.",
+      "zh": "怕苦怕累，不想付出辛苦。"
+    },
+    "equivalents": [
+      "afraid of hard work",
+      "unwilling to rough it"
+    ],
+    "examples": [
+      {
+        "zh": "现在有些年轻人不愿吃苦，只想轻松赚钱。",
+        "en": "Some young people today won't put up with hardship and just want easy money."
+      },
+      {
+        "zh": "不愿吃苦的人，很难在这行做出成绩。",
+        "en": "Someone unwilling to endure hardship will hardly make a mark in this line."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often criticism. 吃苦 means endure hardship.",
+      "zh": "作谓语，多含批评。"
+    },
+    "synonyms": [
+      "贪图安逸",
+      "好逸恶劳",
+      "怕苦怕累"
+    ],
+    "antonyms": [
+      "吃苦耐劳",
+      "艰苦奋斗"
+    ]
+  },
+  {
+    "id": "tuan-jie-hu-zhu",
+    "text": "团结互助",
+    "pinyin": "tuán jié hù zhù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unity-and-cooperation"
+    ],
+    "literal": "united · mutually help",
+    "natural": "united and mutually supportive",
+    "meaning": {
+      "en": "Standing together and helping one another.",
+      "zh": "大家团结一致，互相帮助。"
+    },
+    "equivalents": [
+      "unity and mutual aid",
+      "stand together and help each other"
+    ],
+    "examples": [
+      {
+        "zh": "班里同学团结互助，没有一个人掉队。",
+        "en": "The pupils in the class stand together and helped each other so that nobody fell behind."
+      },
+      {
+        "zh": "团结互助是我们小区一直的传统。",
+        "en": "Unity and mutual help are long-standing traditions in our neighbourhood."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, attributive or noun-like; common in slogans.",
+      "zh": "作谓语、定语，也常作口号。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "守望相助",
+      "齐心协力"
+    ],
+    "antonyms": [
+      "各自为政",
+      "钩心斗角"
+    ]
+  },
+  {
+    "id": "bu-lin-qian-cai",
+    "text": "不吝钱财",
+    "pinyin": "bù lìn qián cái",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "kindness-and-generosity"
+    ],
+    "literal": "not · begrudge · money",
+    "natural": "spare no expense",
+    "meaning": {
+      "en": "Willing to spend money freely, especially to help others.",
+      "zh": "舍得花钱，不吝啬。"
+    },
+    "equivalents": [
+      "be generous with money",
+      "not begrudge a penny"
+    ],
+    "examples": [
+      {
+        "zh": "他乐善好施，对公益事业从不吝钱财。",
+        "en": "Charitable by nature, he never begrudges money to public causes."
+      },
+      {
+        "zh": "为了孩子的教育，他们不吝钱财。",
+        "en": "For their child's education they spare no expense."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 吝 is lìn. Often 对…不吝钱财.",
+      "zh": "作谓语，“吝”读 lìn，常用“对…不吝钱财”。"
+    },
+    "synonyms": [
+      "仗义疏财",
+      "慷慨解囊",
+      "一掷千金"
+    ],
+    "antonyms": [
+      "一毛不拔",
+      "吝啬小气"
+    ]
+  }
+]
