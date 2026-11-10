@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "mo-hu-bu-qing",
+    "text": "模糊不清",
+    "pinyin": "mó hú bù qīng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt"
+    ],
+    "literal": "blurred · vague · not · clear",
+    "natural": "blurred and indistinct",
+    "meaning": {
+      "en": "Blurred and hard to make out; not clear.",
+      "zh": "看不清楚，或者说得不明确。"
+    },
+    "equivalents": [
+      "blurred",
+      "vague and indistinct"
+    ],
+    "examples": [
+      {
+        "zh": "照片拍得模糊不清，根本认不出是谁。",
+        "en": "The photo is so blurred that you can't tell who it is."
+      },
+      {
+        "zh": "他的回答模糊不清，大家听得一头雾水。",
+        "en": "His answer was so vague that everyone was left puzzled."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement (字迹模糊不清); can describe images, sounds, memories or statements. 模糊 is read mó hú.",
+      "zh": "作谓语或补语，如“字迹模糊不清”；可形容图像、声音、记忆或说法；“模糊”“模糊”读 mó hú。"
+    },
+    "synonyms": [
+      "朦朦胧胧",
+      "似是而非"
+    ],
+    "antonyms": [
+      "清清楚楚",
+      "一清二楚"
+    ]
+  },
+  {
+    "id": "bu-ke-fen-ge",
+    "text": "不可分割",
+    "pinyin": "bù kě fēn gē",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "unity-and-cooperation"
+    ],
+    "literal": "not · can · divide · cut up",
+    "natural": "inseparable",
+    "meaning": {
+      "en": "Cannot be separated or divided; forming a single whole.",
+      "zh": "是一个整体，不能分开。"
+    },
+    "equivalents": [
+      "inseparable",
+      "indivisible"
+    ],
+    "examples": [
+      {
+        "zh": "台湾是中国不可分割的一部分。",
+        "en": "Taiwan is an inseparable part of China."
+      },
+      {
+        "zh": "理论与实践是不可分割的整体。",
+        "en": "Theory and practice form an indivisible whole."
+      }
+    ],
+    "usage": {
+      "en": "Mostly attributive, before 部分／整体; formal and common in news and essays.",
+      "zh": "多作定语，修饰“部分、整体”，较正式，新闻和议论文中常见。"
+    },
+    "synonyms": [
+      "密不可分",
+      "息息相关"
+    ],
+    "antonyms": [
+      "截然分开",
+      "泾渭分明"
+    ]
+  },
+  {
+    "id": "tai-du-wen-he",
+    "text": "态度温和",
+    "pinyin": "tài dù wēn hé",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "composure-and-calm",
+      "positive-character-qualities"
+    ],
+    "literal": "attitude · manner · gentle · mild",
+    "natural": "gentle in manner",
+    "meaning": {
+      "en": "Having a mild, gentle manner towards others.",
+      "zh": "对人说话做事平和、不急躁。"
+    },
+    "equivalents": [
+      "gentle in manner",
+      "mild-mannered"
+    ],
+    "examples": [
+      {
+        "zh": "这位护士态度温和，病人都愿意和她聊天。",
+        "en": "The nurse is gentle in manner, and patients like to talk to her."
+      },
+      {
+        "zh": "他态度温和地解释了原因。",
+        "en": "He explained the reason in a gentle way."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (态度温和地…); a compliment on how someone treats others.",
+      "zh": "作谓语或状语（态度温和地……），常用来称赞待人接物。"
+    },
+    "synonyms": [
+      "和颜悦色",
+      "心平气和"
+    ],
+    "antonyms": [
+      "态度傲慢",
+      "声色俱厉"
+    ]
+  },
+  {
+    "id": "bu-ming-shi-li",
+    "text": "不明事理",
+    "pinyin": "bù míng shì lǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "foolishness-and-ignorance"
+    ],
+    "literal": "not · understand · matters · reason",
+    "natural": "unreasonable",
+    "meaning": {
+      "en": "Not understanding how things work or what is reasonable; lacking common sense.",
+      "zh": "不懂得道理，不讲道理。"
+    },
+    "equivalents": [
+      "senseless",
+      "not know what is reasonable"
+    ],
+    "examples": [
+      {
+        "zh": "他不明事理，一味责怪别人。",
+        "en": "He doesn't see reason and just blames others."
+      },
+      {
+        "zh": "别跟不明事理的人争吵。",
+        "en": "Don't argue with people who won't listen to reason."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (不明事理的人); somewhat critical.",
+      "zh": "作谓语或定语，如“不明事理的人”，略带批评。"
+    },
+    "synonyms": [
+      "冥顽不灵",
+      "蛮不讲理"
+    ],
+    "antonyms": [
+      "通情达理",
+      "明白事理"
+    ]
+  },
+  {
+    "id": "qing-xu-di-luo",
+    "text": "情绪低落",
+    "pinyin": "qíng xù dī luò",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "mood · feelings · low · fall",
+    "natural": "feeling low",
+    "meaning": {
+      "en": "Being in low spirits.",
+      "zh": "心情不好，精神不振。"
+    },
+    "equivalents": [
+      "feel low",
+      "in low spirits"
+    ],
+    "examples": [
+      {
+        "zh": "考试失利后，他连着几天情绪低落。",
+        "en": "After failing the exam he was in low spirits for several days."
+      },
+      {
+        "zh": "冬天日照少，不少人会情绪低落。",
+        "en": "With less sunshine in winter, many people feel low."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in health and psychology contexts. 绪 is xù.",
+      "zh": "作谓语，健康和心理话题中常见；“绪”读 xù。"
+    },
+    "synonyms": [
+      "萎靡不振",
+      "灰心丧气"
+    ],
+    "antonyms": [
+      "情绪高涨",
+      "兴高采烈",
+      "情绪激昂"
+    ]
+  },
+  {
+    "id": "sheng-huo-jian-pu",
+    "text": "生活俭朴",
+    "pinyin": "shēng huó jiǎn pǔ",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "生活节俭"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "frugality-and-thrift",
+      "contentment-and-simplicity"
+    ],
+    "literal": "life · living · thrifty · plain",
+    "natural": "living simply and thriftily",
+    "meaning": {
+      "en": "Living a plain, thrifty life without show or luxury.",
+      "zh": "日子过得节俭朴素，不讲排场。"
+    },
+    "equivalents": [
+      "live frugally",
+      "lead a simple life"
+    ],
+    "examples": [
+      {
+        "zh": "他虽然很有钱，却生活俭朴。",
+        "en": "Though very rich, he lives simply."
+      },
+      {
+        "zh": "生活俭朴是这个家庭的传统。",
+        "en": "A frugal way of life is a tradition in this family."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praises modest living.",
+      "zh": "作谓语或定语，称赞朴素节俭。"
+    },
+    "synonyms": [
+      "勤俭节约",
+      "粗茶淡饭"
+    ],
+    "antonyms": [
+      "生活奢侈",
+      "挥霍无度"
+    ]
+  },
+  {
+    "id": "jiu-chan-bu-xiu",
+    "text": "纠缠不休",
+    "pinyin": "jiū chán bù xiū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "entangle · pester · not · stop",
+    "natural": "keeps pestering",
+    "meaning": {
+      "en": "To keep pestering someone and refuse to let go.",
+      "zh": "不停地缠着人，不肯罢休。"
+    },
+    "equivalents": [
+      "pester endlessly",
+      "badger"
+    ],
+    "examples": [
+      {
+        "zh": "他对这件小事纠缠不休，让人很烦。",
+        "en": "He kept harping on this trivial matter, which was annoying."
+      },
+      {
+        "zh": "推销员在门口纠缠不休。",
+        "en": "The salesman pestered us at the door and wouldn't leave."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often follows 对／与 … ; the tone is annoyed.",
+      "zh": "作谓语，常说“对／与……纠缠不休”，带厌烦语气。"
+    },
+    "synonyms": [
+      "死缠烂打",
+      "胡搅蛮缠"
+    ],
+    "antonyms": [
+      "适可而止",
+      "点到为止"
+    ]
+  },
+  {
+    "id": "jian-qing-fu-dan",
+    "text": "减轻负担",
+    "pinyin": "jiǎn qīng fù dān",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest"
+    ],
+    "literal": "reduce · lighten · burden · load",
+    "natural": "ease the burden",
+    "meaning": {
+      "en": "To lighten the load, whether in money, work or study, placed on someone.",
+      "zh": "使人承受的压力或花费变小。"
+    },
+    "equivalents": [
+      "ease the burden",
+      "lighten the load"
+    ],
+    "examples": [
+      {
+        "zh": "新政策旨在减轻负担，让农民多些收入。",
+        "en": "The new policy aims to ease the burden and leave farmers with more income."
+      },
+      {
+        "zh": "你也来帮忙，可以减轻负担。",
+        "en": "If you help out too, it will lighten the load."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; common in policy language (减轻学生课业负担).",
+      "zh": "动宾短语，政策语言中常见，如“减轻学生课业负担”。"
+    },
+    "synonyms": [
+      "分忧解难"
+    ],
+    "antonyms": [
+      "雪上加霜",
+      "加重负担"
+    ]
+  },
+  {
+    "id": "shi-qu-li-zhi",
+    "text": "失去理智",
+    "pinyin": "shī qù lǐ zhì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "anger",
+      "psychological-pressure"
+    ],
+    "literal": "lose · go away · reason · judgement",
+    "natural": "lose one's head",
+    "meaning": {
+      "en": "To lose one's capacity for clear, calm judgement.",
+      "zh": "情绪过于激动，不能冷静思考。"
+    },
+    "equivalents": [
+      "lose one's head",
+      "lose all reason"
+    ],
+    "examples": [
+      {
+        "zh": "他一气之下失去理智，砸了桌子。",
+        "en": "In a fit of anger he lost all reason and smashed the table."
+      },
+      {
+        "zh": "爱情有时会让人失去理智。",
+        "en": "Love can sometimes make people lose their heads."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; often after anger, panic or passion.",
+      "zh": "动宾短语，常出现在愤怒、恐慌或激情之后。"
+    },
+    "synonyms": [
+      "丧失理智",
+      "冲昏头脑"
+    ],
+    "antonyms": [
+      "保持冷静",
+      "理智清醒"
+    ]
+  },
+  {
+    "id": "qi-gai-hao-mai",
+    "text": "气概豪迈",
+    "pinyin": "qì gài háo mài",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "courage-and-boldness",
+      "outstanding-character"
+    ],
+    "literal": "spirit · bearing · heroic · bold",
+    "natural": "heroic and bold in spirit",
+    "meaning": {
+      "en": "Having a heroic, open-hearted and bold bearing.",
+      "zh": "气度和胆识雄壮开阔。"
+    },
+    "equivalents": [
+      "heroic in bearing",
+      "full of bold spirit"
+    ],
+    "examples": [
+      {
+        "zh": "这位将军气概豪迈，令人肃然起敬。",
+        "en": "The general's heroic bearing commanded respect."
+      },
+      {
+        "zh": "这首词气概豪迈，读来令人振奋。",
+        "en": "This ci poem is bold in spirit and stirring to read."
+      }
+    ],
+    "usage": {
+      "en": "Praise for people or poems; predicate or attributive; formal.",
+      "zh": "称赞人物或诗词，作谓语或定语，较书面。"
+    },
+    "synonyms": [
+      "豪情万丈",
+      "英姿飒爽"
+    ],
+    "antonyms": [
+      "畏首畏尾",
+      "胆小怕事"
+    ]
+  },
+  {
+    "id": "jing-shen-zhen-zuo",
+    "text": "精神振作",
+    "pinyin": "jīng shén zhèn zuò",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "positive-character-qualities"
+    ],
+    "literal": "spirit · mind · rouse · rise",
+    "natural": "pull oneself together",
+    "meaning": {
+      "en": "To cheer up and rouse oneself after feeling low.",
+      "zh": "从消沉中提起精神，变得有干劲。"
+    },
+    "equivalents": [
+      "perk up",
+      "pull oneself together"
+    ],
+    "examples": [
+      {
+        "zh": "听了老师的鼓励，他又精神振作起来。",
+        "en": "Encouraged by his teacher, he perked up again."
+      },
+      {
+        "zh": "大家要精神振作，迎接新的挑战。",
+        "en": "Let's all pull ourselves together and meet the new challenge."
+      }
+    ],
+    "usage": {
+      "en": "Often with 起来 (精神振作起来); can also be an exhortation.",
+      "zh": "常带“起来”，如“精神振作起来”；也可用作号召。"
+    },
+    "synonyms": [
+      "精神焕发",
+      "重整旗鼓"
+    ],
+    "antonyms": [
+      "萎靡不振",
+      "一蹶不振"
+    ]
+  },
+  {
+    "id": "qing-xu-gao-zhang",
+    "text": "情绪高涨",
+    "pinyin": "qíng xù gāo zhǎng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "mood · feelings · high · surge",
+    "natural": "spirits running high",
+    "meaning": {
+      "en": "Spirits and enthusiasm running high.",
+      "zh": "情绪激昂，热情很高。"
+    },
+    "equivalents": [
+      "spirits running high",
+      "in high spirits"
+    ],
+    "examples": [
+      {
+        "zh": "球赢了以后，球迷们情绪高涨。",
+        "en": "After the win the fans were in high spirits."
+      },
+      {
+        "zh": "队员们情绪高涨，信心十足。",
+        "en": "The players' spirits were running high and they were full of confidence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for crowds, teams and participants. 涨 is zhǎng.",
+      "zh": "作谓语或定语，形容群体、队伍、参与者；“涨”读 zhǎng。"
+    },
+    "synonyms": [
+      "热情高涨",
+      "兴高采烈",
+      "气氛热烈"
+    ],
+    "antonyms": [
+      "情绪低落",
+      "萎靡不振"
+    ]
+  },
+  {
+    "id": "da-fa-pi-qi",
+    "text": "大发脾气",
+    "pinyin": "dà fā pí qi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "anger"
+    ],
+    "literal": "greatly · give out · temper · air",
+    "natural": "fly into a temper",
+    "meaning": {
+      "en": "To lose one's temper and shout or storm.",
+      "zh": "大声地发怒，控制不住自己的情绪。"
+    },
+    "equivalents": [
+      "throw a tantrum",
+      "fly into a rage"
+    ],
+    "examples": [
+      {
+        "zh": "他一看到成绩单就大发脾气。",
+        "en": "He flew into a temper the moment he saw the report card."
+      },
+      {
+        "zh": "别一遇到小事就大发脾气。",
+        "en": "Don't blow up every time something small goes wrong."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; 脾气 is pí qi. Often followed by 对…/冲…",
+      "zh": "动宾短语；“脾气”读 pí qi，常说“对／冲……大发脾气”。"
+    },
+    "synonyms": [
+      "大发雷霆",
+      "勃然大怒"
+    ],
+    "antonyms": [
+      "心平气和",
+      "忍气吞声"
+    ]
+  },
+  {
+    "id": "bu-wei-jian-xian",
+    "text": "不畏艰险",
+    "pinyin": "bù wèi jiān xiǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "不避艰险",
+      "不畏艰难"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "courage-and-boldness",
+      "diligence-and-dedication"
+    ],
+    "literal": "not · fear · hardship · danger",
+    "natural": "undaunted by danger",
+    "meaning": {
+      "en": "Not afraid of hardship and danger.",
+      "zh": "不害怕艰难和危险。"
+    },
+    "equivalents": [
+      "undaunted by danger",
+      "fearless in the face of hardship"
+    ],
+    "examples": [
+      {
+        "zh": "探险队员不畏艰险，登上了峰顶。",
+        "en": "The explorers, undaunted by danger, reached the summit."
+      },
+      {
+        "zh": "她不畏艰险，只身前往灾区。",
+        "en": "Fearless of hardship, she went alone to the disaster area."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; used of explorers, soldiers, rescuers and reformers.",
+      "zh": "作谓语，常用于探险者、军人、救援者和改革者。"
+    },
+    "synonyms": [
+      "知难而进",
+      "奋不顾身"
+    ],
+    "antonyms": [
+      "畏难退缩",
+      "临阵脱逃"
+    ]
+  },
+  {
+    "id": "nei-rong-kong-dong",
+    "text": "内容空洞",
+    "pinyin": "nèi róng kōng dòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity",
+      "superficial-learning"
+    ],
+    "literal": "content · substance · empty · hollow",
+    "natural": "empty of substance",
+    "meaning": {
+      "en": "Lacking real substance; saying nothing meaningful.",
+      "zh": "没有实际意义，缺乏具体内容。"
+    },
+    "equivalents": [
+      "hollow",
+      "lacking in substance"
+    ],
+    "examples": [
+      {
+        "zh": "这篇报告内容空洞，全是套话。",
+        "en": "The report is hollow, nothing but stock phrases."
+      },
+      {
+        "zh": "内容空洞的演讲很快让人失去兴趣。",
+        "en": "A speech with no substance quickly loses its audience."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; criticises speeches, essays and reports.",
+      "zh": "作谓语或定语，批评发言、文章和报告。"
+    },
+    "synonyms": [
+      "空洞无物",
+      "言之无物"
+    ],
+    "antonyms": [
+      "内容丰富",
+      "言之有物"
+    ]
+  },
+  {
+    "id": "xing-jin-er-fan",
+    "text": "兴尽而返",
+    "pinyin": "xìng jìn ér fǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "literary",
+    "themes": [
+      "journeys-and-exploration"
+    ],
+    "literal": "interest · exhausted · and · return",
+    "natural": "go home having had one's fill",
+    "meaning": {
+      "en": "To return home once one has fully enjoyed oneself.",
+      "zh": "游玩尽兴了，才回家。"
+    },
+    "equivalents": [
+      "return when the fun is over",
+      "head home content"
+    ],
+    "examples": [
+      {
+        "zh": "我们在湖边玩了一整天，兴尽而返。",
+        "en": "We played by the lake all day and went home having had our fill."
+      },
+      {
+        "zh": "山水虽美，他也只好兴尽而返。",
+        "en": "However lovely the scenery, he had to turn back once his enjoyment was spent."
+      }
+    ],
+    "usage": {
+      "en": "Often paired with 乘兴而来; literary. 兴 is xìng ('enjoyment').",
+      "zh": "常与“乘兴而来”对举，书面语；“兴”读 xìng，指兴致。"
+    },
+    "synonyms": [
+      "尽兴而归",
+      "满载而归"
+    ],
+    "antonyms": [
+      "败兴而归"
+    ]
+  },
+  {
+    "id": "kong-qi-qing-xin",
+    "text": "空气清新",
+    "pinyin": "kōng qì qīng xīn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes",
+      "health"
+    ],
+    "literal": "air · air · fresh · new",
+    "natural": "fresh air",
+    "meaning": {
+      "en": "Air that is fresh and clean.",
+      "zh": "空气干净，让人感觉舒服。"
+    },
+    "equivalents": [
+      "fresh, clean air",
+      "a breath of fresh air"
+    ],
+    "examples": [
+      {
+        "zh": "山里空气清新，很适合散步。",
+        "en": "The air in the mountains is fresh, ideal for a walk."
+      },
+      {
+        "zh": "搬到郊区后，他喜欢上了那里空气清新的环境。",
+        "en": "After moving to the suburbs, he came to love the fresh air of the place."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often used in travel and housing descriptions.",
+      "zh": "作谓语或定语，旅游和房产描述中常见。"
+    },
+    "synonyms": [
+      "空气新鲜",
+      "沁人心脾"
+    ],
+    "antonyms": [
+      "乌烟瘴气",
+      "雾霾笼罩"
+    ]
+  },
+  {
+    "id": "bu-zhi-yi-ti",
+    "text": "不值一提",
+    "pinyin": "bù zhí yī tí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "common-and-worthless",
+      "attitude-humble-vs-arrogant"
+    ],
+    "literal": "not · worth · one · mention",
+    "natural": "not worth mentioning",
+    "meaning": {
+      "en": "Too minor or trivial to be worth mentioning.",
+      "zh": "太微小或太普通，不值得说起。"
+    },
+    "equivalents": [
+      "not worth mentioning",
+      "hardly worth a mention"
+    ],
+    "examples": [
+      {
+        "zh": "这点小事不值一提。",
+        "en": "This small matter isn't worth mentioning."
+      },
+      {
+        "zh": "他谦虚地说自己的成绩不值一提。",
+        "en": "He modestly said his results were nothing worth mentioning."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also used modestly about one's own favours or work.",
+      "zh": "作谓语；也常谦虚地说自己的帮助或成绩。"
+    },
+    "synonyms": [
+      "微不足道",
+      "不足挂齿"
+    ],
+    "antonyms": [
+      "举足轻重",
+      "非同小可"
+    ]
+  },
+  {
+    "id": "hao-wu-ju-se",
+    "text": "毫无惧色",
+    "pinyin": "háo wú jù sè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "courage-and-boldness"
+    ],
+    "literal": "not a bit · have no · fear · look",
+    "natural": "showing no fear",
+    "meaning": {
+      "en": "Showing no sign of fear.",
+      "zh": "脸上一点害怕的样子也没有。"
+    },
+    "equivalents": [
+      "without a trace of fear",
+      "show no fear"
+    ],
+    "examples": [
+      {
+        "zh": "面对强大的对手，他毫无惧色。",
+        "en": "Faced with a powerful opponent, he showed no fear."
+      },
+      {
+        "zh": "小女孩毫无惧色地走上舞台。",
+        "en": "The little girl walked onto the stage without a trace of fear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; often after 面对…",
+      "zh": "作谓语或状语，前面常有“面对……”。"
+    },
+    "synonyms": [
+      "面不改色",
+      "临危不惧"
+    ],
+    "antonyms": [
+      "胆战心惊",
+      "惊慌失措"
+    ]
+  },
+  {
+    "id": "hu-xiang-zhi-chi",
+    "text": "互相支持",
+    "pinyin": "hù xiāng zhī chí",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unity-and-cooperation",
+      "friendship"
+    ],
+    "literal": "each other · mutually · support · hold up",
+    "natural": "support one another",
+    "meaning": {
+      "en": "To give each other help and backing.",
+      "zh": "彼此帮助，彼此支撑。"
+    },
+    "equivalents": [
+      "support each other",
+      "back one another up"
+    ],
+    "examples": [
+      {
+        "zh": "夫妻俩互相支持，一起度过了难关。",
+        "en": "The couple supported each other and got through the hard times together."
+      },
+      {
+        "zh": "同事之间要互相支持，团队才能进步。",
+        "en": "Colleagues should support one another if the team is to improve."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often paired with 互相鼓励／互相学习. 相 here is xiāng.",
+      "zh": "作谓语，常与“互相鼓励”“互相学习”并用；“相”读 xiāng。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "相互扶持"
+    ],
+    "antonyms": [
+      "互相拆台",
+      "各自为政"
+    ]
+  },
+  {
+    "id": "qian-jing-guang-kuo",
+    "text": "前景广阔",
+    "pinyin": "qián jǐng guǎng kuò",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success",
+      "innovation-and-progress"
+    ],
+    "literal": "prospects · outlook · broad · vast",
+    "natural": "bright prospects",
+    "meaning": {
+      "en": "Having wide, promising prospects for the future.",
+      "zh": "将来发展的空间很大。"
+    },
+    "equivalents": [
+      "bright prospects",
+      "a promising future"
+    ],
+    "examples": [
+      {
+        "zh": "新能源行业前景广阔。",
+        "en": "The new-energy industry has bright prospects."
+      },
+      {
+        "zh": "这项技术应用前景广阔。",
+        "en": "This technology has broad prospects for application."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (前景广阔的行业); common in business and news.",
+      "zh": "作谓语或定语，如“前景广阔的行业”，商业和新闻中常见。"
+    },
+    "synonyms": [
+      "前途无量",
+      "前程似锦"
+    ],
+    "antonyms": [
+      "前景黯淡",
+      "前途渺茫"
+    ]
+  },
+  {
+    "id": "ling-ren-jing-pei",
+    "text": "令人敬佩",
+    "pinyin": "lìng rén jìng pèi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "outstanding-character"
+    ],
+    "literal": "make · people · respect · admire",
+    "natural": "admirable",
+    "meaning": {
+      "en": "So impressive that it earns people's respect and admiration.",
+      "zh": "让人从心里敬重、佩服。"
+    },
+    "equivalents": [
+      "admirable",
+      "deserving of respect"
+    ],
+    "examples": [
+      {
+        "zh": "她的毅力令人敬佩。",
+        "en": "Her perseverance is admirable."
+      },
+      {
+        "zh": "老人几十年如一日地照顾病人，令人敬佩。",
+        "en": "The old man's decades of caring for the sick are truly admirable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; 令人 + verb is a pattern (令人感动, 令人惊讶). 令 is lìng.",
+      "zh": "作谓语或定语；“令人＋动词”是常见格式；“令”读 lìng。"
+    },
+    "synonyms": [
+      "可敬可佩",
+      "肃然起敬"
+    ],
+    "antonyms": [
+      "令人不齿",
+      "遭人唾弃"
+    ]
+  },
+  {
+    "id": "bu-zu-wei-ju",
+    "text": "不足为惧",
+    "pinyin": "bù zú wéi jù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "fear-and-cowardice",
+      "composure-and-calm"
+    ],
+    "literal": "not · worth · to be · feared",
+    "natural": "nothing to fear",
+    "meaning": {
+      "en": "Not worth being afraid of.",
+      "zh": "没有什么值得害怕的。"
+    },
+    "equivalents": [
+      "nothing to fear",
+      "not to be feared"
+    ],
+    "examples": [
+      {
+        "zh": "只要准备充分，考试不足为惧。",
+        "en": "With enough preparation, exams are nothing to fear."
+      },
+      {
+        "zh": "在他眼里，这点困难不足为惧。",
+        "en": "In his eyes, this little difficulty is nothing to fear."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; 为 here is wéi. Formal, often with a reassuring tone.",
+      "zh": "作谓语；“为”读 wéi，较书面，常带宽慰的语气。"
+    },
+    "synonyms": [
+      "不足挂齿",
+      "微不足道"
+    ],
+    "antonyms": [
+      "令人生畏",
+      "谈虎色变"
+    ]
+  },
+  {
+    "id": "shi-dao-ru-jin",
+    "text": "事到如今",
+    "pinyin": "shì dào rú jīn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "near-misses-and-setbacks",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "matters · reach · now · today",
+    "natural": "things having come to this",
+    "meaning": {
+      "en": "Now that things have reached this point.",
+      "zh": "事情已经发展到现在这个地步。"
+    },
+    "equivalents": [
+      "now that it has come to this",
+      "at this stage"
+    ],
+    "examples": [
+      {
+        "zh": "事到如今，后悔也没用了。",
+        "en": "Now that it has come to this, regret is no use."
+      },
+      {
+        "zh": "事到如今，只能硬着头皮做下去。",
+        "en": "At this stage, we have no choice but to carry on regardless."
+      }
+    ],
+    "usage": {
+      "en": "Opens a sentence, usually followed by a resigned or decisive remark.",
+      "zh": "常放在句首，后面多接无奈或果断的话。"
+    },
+    "synonyms": [
+      "事已至此",
+      "木已成舟"
+    ],
+    "antonyms": [
+      "为时未晚"
+    ]
+  },
+  {
+    "id": "da-dan-chuang-xin",
+    "text": "大胆创新",
+    "pinyin": "dà dǎn chuàng xīn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "innovation-and-progress",
+      "courage-and-boldness"
+    ],
+    "literal": "bold · daring · create · new",
+    "natural": "innovate boldly",
+    "meaning": {
+      "en": "To innovate boldly, trying new ideas without fear.",
+      "zh": "勇敢地尝试新办法、新思路。"
+    },
+    "equivalents": [
+      "innovate boldly",
+      "dare to try new ideas"
+    ],
+    "examples": [
+      {
+        "zh": "公司鼓励员工大胆创新，不怕失败。",
+        "en": "The company encourages staff to innovate boldly and not fear failure."
+      },
+      {
+        "zh": "这位设计师大胆创新，作品风格独特。",
+        "en": "The designer is bold and innovative, and her work has a unique style."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; common in slogans, often paired with 勇于尝试.",
+      "zh": "动词性短语，常见于口号，多与“勇于尝试”并用。"
+    },
+    "synonyms": [
+      "勇于创新",
+      "推陈出新"
+    ],
+    "antonyms": [
+      "墨守成规",
+      "因循守旧"
+    ]
+  },
+  {
+    "id": "bu-ting-quan-gao",
+    "text": "不听劝告",
+    "pinyin": "bù tīng quàn gào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "resistance-to-change",
+      "foolishness-and-ignorance"
+    ],
+    "literal": "not · listen to · advice · warn",
+    "natural": "ignoring advice",
+    "meaning": {
+      "en": "To refuse to heed the advice or warnings of others.",
+      "zh": "不接受别人的劝说和提醒。"
+    },
+    "equivalents": [
+      "ignore advice",
+      "not listen to warnings"
+    ],
+    "examples": [
+      {
+        "zh": "他不听劝告，坚持独自攀登雪山。",
+        "en": "He ignored every warning and insisted on climbing the snow mountain alone."
+      },
+      {
+        "zh": "因为不听劝告，他吃了大亏。",
+        "en": "Because he would not heed advice, he paid dearly for it."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial; often explains a bad outcome.",
+      "zh": "作谓语或状语，常用来解释不好的结果。"
+    },
+    "synonyms": [
+      "刚愎自用",
+      "一意孤行"
+    ],
+    "antonyms": [
+      "从善如流",
+      "虚心接受"
+    ]
+  },
+  {
+    "id": "lai-shi-xiong-meng",
+    "text": "来势凶猛",
+    "pinyin": "lái shì xiōng měng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "来势迅猛"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "danger",
+      "harsh-natural-conditions"
+    ],
+    "literal": "coming · momentum · fierce · violent",
+    "natural": "coming on fiercely",
+    "meaning": {
+      "en": "Arriving with fierce, powerful force.",
+      "zh": "到来时声势很大，很猛烈。"
+    },
+    "equivalents": [
+      "come on with great force",
+      "strike fiercely"
+    ],
+    "examples": [
+      {
+        "zh": "这场洪水来势凶猛，居民来不及撤离。",
+        "en": "The flood came on with such force that residents had no time to leave."
+      },
+      {
+        "zh": "病毒来势凶猛，医院迅速扩建。",
+        "en": "The virus struck hard, and the hospital was quickly expanded."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for floods, illness, attacks or rivals.",
+      "zh": "作谓语或定语，可形容洪水、疾病、进攻或对手。"
+    },
+    "synonyms": [
+      "来势汹汹",
+      "排山倒海"
+    ],
+    "antonyms": [
+      "风平浪静"
+    ]
+  },
+  {
+    "id": "xiang-jin-ban-fa",
+    "text": "想尽办法",
+    "pinyin": "xiǎng jìn bàn fǎ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "efficiency"
+    ],
+    "literal": "think · exhaust · method · way",
+    "natural": "try every means",
+    "meaning": {
+      "en": "To try every means one can think of.",
+      "zh": "把能想到的办法都试一遍。"
+    },
+    "equivalents": [
+      "try every means",
+      "leave no stone unturned"
+    ],
+    "examples": [
+      {
+        "zh": "医生想尽办法，终于救回了病人。",
+        "en": "The doctors tried everything and finally saved the patient."
+      },
+      {
+        "zh": "他想尽办法也没找到那份文件。",
+        "en": "He tried every trick he could think of but never found the document."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase, often followed by a goal clause (想尽办法让…). 尽 is jìn.",
+      "zh": "动词性短语，后面常接目的，如“想尽办法让……”；“尽”读 jìn。"
+    },
+    "synonyms": [
+      "千方百计",
+      "想方设法"
+    ],
+    "antonyms": [
+      "束手无策",
+      "无计可施"
+    ]
+  },
+  {
+    "id": "bu-gu-hou-guo",
+    "text": "不顾后果",
+    "pinyin": "bù gù hòu guǒ",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poor-planning-and-hasty-decisions",
+      "inappropriate-behavior"
+    ],
+    "literal": "not · mind · consequences · result",
+    "natural": "regardless of the consequences",
+    "meaning": {
+      "en": "To act without thinking about the consequences.",
+      "zh": "做事不考虑会产生什么后果。"
+    },
+    "equivalents": [
+      "regardless of the consequences",
+      "recklessly"
+    ],
+    "examples": [
+      {
+        "zh": "他不顾后果地冲了上去。",
+        "en": "He charged forward regardless of the consequences."
+      },
+      {
+        "zh": "年轻人容易冲动，不顾后果。",
+        "en": "Young people can be impulsive and ignore the consequences."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (不顾后果地…); a warning about rash behaviour.",
+      "zh": "作谓语或状语（不顾后果地……），用来提醒鲁莽行事。"
+    },
+    "synonyms": [
+      "奋不顾身",
+      "鲁莽行事"
+    ],
+    "antonyms": [
+      "三思而行",
+      "瞻前顾后"
+    ]
+  },
+  {
+    "id": "qin-yu-zheng-shi",
+    "text": "勤于政事",
+    "pinyin": "qín yú zhèng shì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "diligence-and-dedication"
+    ],
+    "literal": "diligent in · government · affairs",
+    "natural": "diligent in governing",
+    "meaning": {
+      "en": "Applying oneself diligently to the business of government.",
+      "zh": "勤勉地处理政务。"
+    },
+    "equivalents": [
+      "be diligent in governing",
+      "devoted to public affairs"
+    ],
+    "examples": [
+      {
+        "zh": "这位县令勤于政事，百姓安居乐业。",
+        "en": "The magistrate was diligent in his duties, and the people lived in peace."
+      },
+      {
+        "zh": "史书称他勤于政事，从不懈怠。",
+        "en": "The histories say he was a tireless administrator."
+      }
+    ],
+    "usage": {
+      "en": "Used for rulers and officials, mostly in historical writing; formal.",
+      "zh": "多用于君主和官员，常见于史书，较正式。"
+    },
+    "synonyms": [
+      "日理万机",
+      "勤政爱民"
+    ],
+    "antonyms": [
+      "荒废朝政",
+      "不理朝政"
+    ]
+  },
+  {
+    "id": "zhua-zhu-guan-jian",
+    "text": "抓住关键",
+    "pinyin": "zhuā zhù guān jiàn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "mental-clarity"
+    ],
+    "literal": "grasp · firmly · key · crux",
+    "natural": "grasp the key point",
+    "meaning": {
+      "en": "To get hold of the crucial point of a problem.",
+      "zh": "找到问题最重要的地方。"
+    },
+    "equivalents": [
+      "grasp the crux",
+      "get to the heart of the matter"
+    ],
+    "examples": [
+      {
+        "zh": "解决问题要抓住关键，不要眉毛胡子一把抓。",
+        "en": "To solve a problem you must grasp the crux and not try to handle everything at once."
+      },
+      {
+        "zh": "他一下子抓住关键，问题迎刃而解。",
+        "en": "He grasped the crux straight away and the problem was solved."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; often with 抓住问题的关键. 关键 is guān jiàn.",
+      "zh": "动宾短语，常说“抓住问题的关键”；“关键”读 guān jiàn。"
+    },
+    "synonyms": [
+      "擒贼擒王",
+      "抓住要害"
+    ],
+    "antonyms": [
+      "舍本逐末",
+      "本末倒置"
+    ]
+  },
+  {
+    "id": "sui-sui-bian-bian",
+    "text": "随随便便",
+    "pinyin": "suí suí biàn biàn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior"
+    ],
+    "literal": "casual · casual · convenient · convenient",
+    "natural": "any old way",
+    "meaning": {
+      "en": "Done casually, without care or seriousness.",
+      "zh": "不认真，不讲究，想怎么样就怎么样。"
+    },
+    "equivalents": [
+      "in a careless way",
+      "any old how"
+    ],
+    "examples": [
+      {
+        "zh": "婚姻大事，不能随随便便。",
+        "en": "Marriage is a serious matter and can't be treated casually."
+      },
+      {
+        "zh": "他随随便便就答应了，一点也没考虑。",
+        "en": "He agreed without a thought, without any consideration."
+      }
+    ],
+    "usage": {
+      "en": "AABB reduplication; adverbial (随随便便地…), predicate or complement; usually critical.",
+      "zh": "AABB 叠词，作状语、谓语或补语，多带批评。"
+    },
+    "synonyms": [
+      "马马虎虎",
+      "敷衍了事"
+    ],
+    "antonyms": [
+      "郑重其事",
+      "一丝不苟"
+    ]
+  },
+  {
+    "id": "nei-rong-feng-fu",
+    "text": "内容丰富",
+    "pinyin": "nèi róng fēng fù",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "success"
+    ],
+    "literal": "content · substance · rich · abundant",
+    "natural": "rich in content",
+    "meaning": {
+      "en": "Having plenty of varied content.",
+      "zh": "包含的东西多，种类多。"
+    },
+    "equivalents": [
+      "rich in content",
+      "full of variety"
+    ],
+    "examples": [
+      {
+        "zh": "这本杂志内容丰富，每期都有新栏目。",
+        "en": "The magazine is rich in content, with new columns each issue."
+      },
+      {
+        "zh": "展览内容丰富，值得花半天时间参观。",
+        "en": "The exhibition is packed with material and worth half a day."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for books, lessons, shows and activities.",
+      "zh": "作谓语或定语，可形容书、课程、节目、活动。"
+    },
+    "synonyms": [
+      "丰富多彩",
+      "包罗万象"
+    ],
+    "antonyms": [
+      "内容空洞",
+      "言之无物"
+    ]
+  },
+  {
+    "id": "jia-jing-pin-han",
+    "text": "家境贫寒",
+    "pinyin": "jiā jìng pín hán",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "poverty-and-hardship"
+    ],
+    "literal": "family · circumstances · poor · cold",
+    "natural": "from a poor family",
+    "meaning": {
+      "en": "Coming from a family with very little money.",
+      "zh": "家里经济条件很差。"
+    },
+    "equivalents": [
+      "from a poor family",
+      "of humble means"
+    ],
+    "examples": [
+      {
+        "zh": "他家境贫寒，靠奖学金读完了大学。",
+        "en": "He came from a poor family and finished university on scholarships."
+      },
+      {
+        "zh": "尽管家境贫寒，她从未放弃学业。",
+        "en": "Though her family was poor, she never gave up her studies."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often used in biographies. 境 is jìng.",
+      "zh": "作谓语或定语，传记中常见；“境”读 jìng。"
+    },
+    "synonyms": [
+      "家徒四壁",
+      "一贫如洗"
+    ],
+    "antonyms": [
+      "家境富裕",
+      "家财万贯"
+    ]
+  },
+  {
+    "id": "ming-yun-kan-ke",
+    "text": "命运坎坷",
+    "pinyin": "mìng yùn kǎn kě",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "bad-fortune",
+      "poverty-and-hardship"
+    ],
+    "literal": "fate · fortune · bumpy · bumpy",
+    "natural": "a rough fate",
+    "meaning": {
+      "en": "Having a life full of setbacks and hardship.",
+      "zh": "一生遭遇很多挫折和磨难。"
+    },
+    "equivalents": [
+      "a hard life",
+      "dogged by misfortune"
+    ],
+    "examples": [
+      {
+        "zh": "她一生命运坎坷，却始终乐观。",
+        "en": "Her life was full of misfortune, yet she stayed cheerful."
+      },
+      {
+        "zh": "这部小说写了一个命运坎坷的女人。",
+        "en": "The novel tells of a woman with a hard fate."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often in biographical writing. 坎坷 is kǎn kě.",
+      "zh": "作谓语或定语，传记中常见；“坎坷”读 kǎn kě。"
+    },
+    "synonyms": [
+      "命途多舛",
+      "历经磨难"
+    ],
+    "antonyms": [
+      "一帆风顺",
+      "万事如意"
+    ]
+  },
+  {
+    "id": "yi-shu-gao-ming",
+    "text": "医术高明",
+    "pinyin": "yī shù gāo míng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "medical-skill-and-healing"
+    ],
+    "literal": "medical · skill · high · wise",
+    "natural": "of superb medical skill",
+    "meaning": {
+      "en": "Having excellent medical skill.",
+      "zh": "医疗技术很高。"
+    },
+    "equivalents": [
+      "a highly skilled doctor",
+      "superb medical skill"
+    ],
+    "examples": [
+      {
+        "zh": "这位老中医医术高明，远近闻名。",
+        "en": "The old doctor of Chinese medicine is renowned far and wide for his skill."
+      },
+      {
+        "zh": "多亏医术高明的大夫，他很快康复了。",
+        "en": "Thanks to the highly skilled doctor, he recovered quickly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praise for doctors.",
+      "zh": "作谓语或定语，称赞医生。"
+    },
+    "synonyms": [
+      "妙手回春",
+      "手到病除"
+    ],
+    "antonyms": [
+      "医术拙劣",
+      "庸医"
+    ]
+  },
+  {
+    "id": "chong-man-zi-xin",
+    "text": "充满自信",
+    "pinyin": "chōng mǎn zì xìn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "courage-and-boldness"
+    ],
+    "literal": "be full of · full · self · confidence",
+    "natural": "full of confidence",
+    "meaning": {
+      "en": "Being full of confidence in oneself.",
+      "zh": "对自己很有把握，信心足。"
+    },
+    "equivalents": [
+      "full of confidence",
+      "brimming with confidence"
+    ],
+    "examples": [
+      {
+        "zh": "她充满自信地走上讲台。",
+        "en": "She walked onto the platform full of confidence."
+      },
+      {
+        "zh": "这个年轻人充满自信，面试表现很出色。",
+        "en": "The young man was full of confidence and interviewed brilliantly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (充满自信地…); also 对…充满自信.",
+      "zh": "作谓语或状语（充满自信地……），也可说“对……充满自信”。"
+    },
+    "synonyms": [
+      "信心十足",
+      "胸有成竹"
+    ],
+    "antonyms": [
+      "缺乏自信",
+      "自惭形秽"
+    ]
+  },
+  {
+    "id": "xing-ge-zhi-shuang",
+    "text": "性格直爽",
+    "pinyin": "xìng gé zhí shuǎng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "frankness-and-candour",
+      "positive-character-qualities"
+    ],
+    "literal": "character · disposition · straight · frank",
+    "natural": "open and straightforward",
+    "meaning": {
+      "en": "Having an open, straightforward personality that says what it thinks.",
+      "zh": "为人坦率，说话做事不绕弯子。"
+    },
+    "equivalents": [
+      "blunt and open-hearted",
+      "straightforward by nature"
+    ],
+    "examples": [
+      {
+        "zh": "她性格直爽，有什么说什么。",
+        "en": "She has a frank character and says what she thinks."
+      },
+      {
+        "zh": "性格直爽的人往往容易交到朋友。",
+        "en": "Straightforward people often make friends easily."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; usually a compliment, sometimes hints at tactlessness.",
+      "zh": "作谓语或定语，多为褒义，有时暗示不够委婉。"
+    },
+    "synonyms": [
+      "心直口快",
+      "直言不讳"
+    ],
+    "antonyms": [
+      "拐弯抹角",
+      "闪烁其词"
+    ]
+  },
+  {
+    "id": "jing-xiang-zhuang-li",
+    "text": "景象壮丽",
+    "pinyin": "jǐng xiàng zhuàng lì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes"
+    ],
+    "literal": "scene · sight · grand · splendid",
+    "natural": "a magnificent sight",
+    "meaning": {
+      "en": "A magnificent, awe-inspiring scene.",
+      "zh": "景色雄伟美丽，让人惊叹。"
+    },
+    "equivalents": [
+      "a magnificent sight",
+      "a splendid scene"
+    ],
+    "examples": [
+      {
+        "zh": "日出时分，山顶景象壮丽，大家都看呆了。",
+        "en": "At sunrise the scene from the peak was magnificent, and everyone stared."
+      },
+      {
+        "zh": "极光景象壮丽，令人难忘。",
+        "en": "The aurora was a magnificent sight, unforgettable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; scenery and large events.",
+      "zh": "作谓语或定语，可形容风景和宏大场面。"
+    },
+    "synonyms": [
+      "气象万千",
+      "雄伟壮观"
+    ],
+    "antonyms": [
+      "黯然失色",
+      "平淡无奇"
+    ]
+  },
+  {
+    "id": "pin-xing-bu-duan",
+    "text": "品行不端",
+    "pinyin": "pǐn xíng bù duān",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "negative-character-flaws"
+    ],
+    "literal": "conduct · behaviour · not · upright",
+    "natural": "of poor conduct",
+    "meaning": {
+      "en": "Behaving in an improper, dishonourable way.",
+      "zh": "行为不正派，品德有问题。"
+    },
+    "equivalents": [
+      "of bad character",
+      "guilty of misconduct"
+    ],
+    "examples": [
+      {
+        "zh": "该教师品行不端，被学校开除了。",
+        "en": "The teacher was dismissed by the school for misconduct."
+      },
+      {
+        "zh": "品行不端的人很难获得信任。",
+        "en": "People of poor character are hard to trust."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; formal, often in disciplinary contexts. 行 is xíng.",
+      "zh": "作谓语或定语，较正式，处分通报中常见；“行”读 xíng。"
+    },
+    "synonyms": [
+      "道德败坏",
+      "劣迹斑斑"
+    ],
+    "antonyms": [
+      "品行端正",
+      "品德高尚",
+      "人品端正",
+      "作风正派",
+      "人品高洁"
+    ]
+  },
+  {
+    "id": "feng-du-you-ya",
+    "text": "风度优雅",
+    "pinyin": "fēng dù yōu yǎ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "appearance",
+      "positive-character-qualities"
+    ],
+    "literal": "bearing · demeanour · elegant · graceful",
+    "natural": "graceful bearing",
+    "meaning": {
+      "en": "Having a refined, graceful manner.",
+      "zh": "举止气质文雅大方。"
+    },
+    "equivalents": [
+      "graceful in bearing",
+      "with refined manners"
+    ],
+    "examples": [
+      {
+        "zh": "他风度优雅，一进门就引人注目。",
+        "en": "His bearing was graceful, and he drew attention as soon as he walked in."
+      },
+      {
+        "zh": "这位风度优雅的老先生是我们的校长。",
+        "en": "The refined old gentleman is our headmaster."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for people's manner and poise.",
+      "zh": "作谓语或定语，形容人的举止气度。"
+    },
+    "synonyms": [
+      "风度翩翩",
+      "温文尔雅"
+    ],
+    "antonyms": [
+      "举止粗鲁",
+      "粗枝大叶"
+    ]
+  },
+  {
+    "id": "wen-bi-xiong-jian",
+    "text": "文笔雄健",
+    "pinyin": "wén bǐ xióng jiàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "excellent-writing"
+    ],
+    "literal": "writing · brush · powerful · vigorous",
+    "natural": "vigorous prose",
+    "meaning": {
+      "en": "Writing in a vigorous, forceful style.",
+      "zh": "文章写得有力、气势足。"
+    },
+    "equivalents": [
+      "vigorous prose",
+      "a powerful writing style"
+    ],
+    "examples": [
+      {
+        "zh": "韩愈文笔雄健，被誉为“文起八代之衰”。",
+        "en": "Han Yu's prose was powerful, and he was praised for reviving literary writing."
+      },
+      {
+        "zh": "这篇评论文笔雄健，掷地有声。",
+        "en": "This commentary is forceful in style and rings with conviction."
+      }
+    ],
+    "usage": {
+      "en": "Praise for a writer's style; predicate or attributive; literary.",
+      "zh": "称赞作者的文风，作谓语或定语，书面语。"
+    },
+    "synonyms": [
+      "健笔凌云",
+      "笔力雄健"
+    ],
+    "antonyms": [
+      "文笔平庸",
+      "软弱无力"
+    ]
+  },
+  {
+    "id": "zuo-shi-jin-shen",
+    "text": "做事谨慎",
+    "pinyin": "zuò shì jǐn shèn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "composure-and-calm",
+      "positive-character-qualities"
+    ],
+    "literal": "do · things · careful · prudent",
+    "natural": "cautious in what one does",
+    "meaning": {
+      "en": "Handling matters with care and caution.",
+      "zh": "办事小心，不随便。"
+    },
+    "equivalents": [
+      "act with care",
+      "be cautious"
+    ],
+    "examples": [
+      {
+        "zh": "他做事谨慎，每个细节都要反复核对。",
+        "en": "He is cautious in his work and checks every detail again and again."
+      },
+      {
+        "zh": "做事谨慎的人很少出错。",
+        "en": "Careful people seldom make mistakes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praises care, sometimes hints at timidity.",
+      "zh": "作谓语或定语，称赞小心周到，有时也暗含胆小。"
+    },
+    "synonyms": [
+      "小心谨慎",
+      "谨小慎微"
+    ],
+    "antonyms": [
+      "做事马虎",
+      "粗心大意"
+    ]
+  },
+  {
+    "id": "bu-gu-xing-ming",
+    "text": "不顾性命",
+    "pinyin": "bù gù xìng mìng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "courage-and-boldness",
+      "loyalty-and-righteousness"
+    ],
+    "literal": "not · care about · life · life",
+    "natural": "with no thought for one's life",
+    "meaning": {
+      "en": "Disregarding one's own life; risking everything.",
+      "zh": "不考虑自己的生命安危。"
+    },
+    "equivalents": [
+      "risk one's life",
+      "with no regard for one's life"
+    ],
+    "examples": [
+      {
+        "zh": "他不顾性命冲进火海救出了孩子。",
+        "en": "He ran into the flames, risking his life, and saved the child."
+      },
+      {
+        "zh": "消防员不顾性命，冲在最前面。",
+        "en": "The firefighters, with no regard for their lives, led from the front."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or adverbial (不顾性命地…); usually admiring, sometimes critical of recklessness.",
+      "zh": "作谓语或状语（不顾性命地……），多含赞许，有时批评鲁莽。"
+    },
+    "synonyms": [
+      "奋不顾身",
+      "舍生忘死"
+    ],
+    "antonyms": [
+      "贪生怕死",
+      "畏缩不前"
+    ]
+  },
+  {
+    "id": "ji-yi-gao-chao",
+    "text": "技艺高超",
+    "pinyin": "jì yì gāo chāo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "master-craftsmanship"
+    ],
+    "literal": "skill · craft · high · surpassing",
+    "natural": "of consummate skill",
+    "meaning": {
+      "en": "Possessing outstanding skill in a craft or performance.",
+      "zh": "技术和本领出众。"
+    },
+    "equivalents": [
+      "highly skilled",
+      "of consummate skill"
+    ],
+    "examples": [
+      {
+        "zh": "这位老匠人技艺高超，做的木器远近闻名。",
+        "en": "The old craftsman is highly skilled, and his woodwork is renowned."
+      },
+      {
+        "zh": "杂技演员技艺高超，赢得满堂喝彩。",
+        "en": "The acrobats were so skilled that they won a standing ovation."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; for craftspeople, athletes and performers.",
+      "zh": "作谓语或定语，可形容工匠、运动员和表演者。"
+    },
+    "synonyms": [
+      "技艺精湛",
+      "炉火纯青"
+    ],
+    "antonyms": [
+      "技艺平庸",
+      "笨手笨脚"
+    ]
+  },
+  {
+    "id": "kong-tan-li-lun",
+    "text": "空谈理论",
+    "pinyin": "kōng tán lǐ lùn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "verbosity",
+      "superficial-learning"
+    ],
+    "literal": "empty · talk · theory · theory",
+    "natural": "talk theory without practice",
+    "meaning": {
+      "en": "To talk about theory without putting it into practice.",
+      "zh": "只讲理论，不联系实际，不付诸行动。"
+    },
+    "equivalents": [
+      "armchair theorising",
+      "talk theory without practice"
+    ],
+    "examples": [
+      {
+        "zh": "光空谈理论解决不了实际问题。",
+        "en": "Empty theorising can't solve practical problems."
+      },
+      {
+        "zh": "他只会空谈理论，一到实操就露怯。",
+        "en": "He can only talk theory, and falters when it comes to hands-on work."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; criticises people who lack practice. Often follows 光／只会.",
+      "zh": "动宾短语，批评缺少实践的人，前面常有“光、只会”。"
+    },
+    "synonyms": [
+      "纸上谈兵",
+      "夸夸其谈"
+    ],
+    "antonyms": [
+      "身体力行",
+      "学以致用"
+    ]
+  },
+  {
+    "id": "tai-du-ao-man",
+    "text": "态度傲慢",
+    "pinyin": "tài dù ào màn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "attitude-humble-vs-arrogant",
+      "negative-character-flaws"
+    ],
+    "literal": "attitude · manner · arrogant · haughty",
+    "natural": "haughty in manner",
+    "meaning": {
+      "en": "Treating others with arrogance and disdain.",
+      "zh": "对人高傲，看不起别人。"
+    },
+    "equivalents": [
+      "haughty",
+      "arrogant in manner"
+    ],
+    "examples": [
+      {
+        "zh": "店员态度傲慢，顾客很不满意。",
+        "en": "The shop assistant was haughty, and the customers were unhappy."
+      },
+      {
+        "zh": "他态度傲慢，没有人愿意与他合作。",
+        "en": "His arrogant manner meant nobody wanted to work with him."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; common in complaints and reviews.",
+      "zh": "作谓语或定语，投诉和评价中常见。"
+    },
+    "synonyms": [
+      "傲慢无礼",
+      "目中无人"
+    ],
+    "antonyms": [
+      "态度谦和",
+      "虚怀若谷"
+    ]
+  },
+  {
+    "id": "bu-rao-wan-zi",
+    "text": "不绕弯子",
+    "pinyin": "bù rào wān zi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "frankness-and-candour"
+    ],
+    "literal": "not · go round · bend · (suffix)",
+    "natural": "get straight to the point",
+    "meaning": {
+      "en": "To speak plainly, without beating about the bush.",
+      "zh": "说话做事直接，不拐弯抹角。"
+    },
+    "equivalents": [
+      "not beat about the bush",
+      "get straight to the point"
+    ],
+    "examples": [
+      {
+        "zh": "我就不绕弯子了，直接说结论吧。",
+        "en": "I won't beat about the bush; let me give the conclusion."
+      },
+      {
+        "zh": "他说话从来不绕弯子。",
+        "en": "He never beats about the bush when he speaks."
+      }
+    ],
+    "usage": {
+      "en": "Colloquial verb phrase; often as 咱们就不绕弯子了. 子 is neutral tone.",
+      "zh": "口语动词性短语，常说“咱们就不绕弯子了”；“子”读轻声。"
+    },
+    "synonyms": [
+      "开门见山",
+      "直截了当"
+    ],
+    "antonyms": [
+      "拐弯抹角",
+      "兜圈子"
+    ]
+  },
+  {
+    "id": "zhi-zao-hun-luan",
+    "text": "制造混乱",
+    "pinyin": "zhì zào hùn luàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "chaos",
+      "inappropriate-behavior"
+    ],
+    "literal": "make · create · chaos · disorder",
+    "natural": "cause chaos",
+    "meaning": {
+      "en": "To cause disorder and confusion deliberately or not.",
+      "zh": "造成秩序乱套的局面。"
+    },
+    "equivalents": [
+      "cause chaos",
+      "sow confusion"
+    ],
+    "examples": [
+      {
+        "zh": "几个人在会场上制造混乱，被保安带走了。",
+        "en": "A few people caused chaos at the venue and were escorted out by security."
+      },
+      {
+        "zh": "谣言只会制造混乱。",
+        "en": "Rumours do nothing but sow confusion."
+      }
+    ],
+    "usage": {
+      "en": "Verb–object phrase; common in news about disturbances.",
+      "zh": "动宾短语，报道骚乱事件时常见。"
+    },
+    "synonyms": [
+      "兴风作浪",
+      "搅乱局面"
+    ],
+    "antonyms": [
+      "井然有序",
+      "维持秩序"
+    ]
+  }
+]

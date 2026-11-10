@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.20",
+    date: "2026-11-10",
+    en: [
+      "About 560 new plain four-character phrases (四字词语) of the kind used in the dictionary's own explanations — e.g. 文思敏捷, 心胸开阔, 困难重重, 游人如织, 阳光明媚, 头脑灵活 — each with meaning, examples, usage notes and links to related expressions. Wherever they appear in other entries' explanations they can now be tapped.",
+    ],
+    zh: [
+      "新增约 560 个常用四字词语（释义里常见的那类，如“文思敏捷”“心胸开阔”“困难重重”“游人如织”“阳光明媚”“头脑灵活”），均有释义、例句、用法和近反义关联；在其他词条释义中出现时可直接点开。",
+    ],
+  },
+  {
     version: "0.19",
     date: "2026-11-09",
     en: [

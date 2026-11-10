@@ -404,7 +404,8 @@
     "variants": [
       "静如处子，动如脱兔",
       "静若处子",
-      "动如脱兔"
+      "动如脱兔",
+      "动若脱兔"
     ],
     "kind": "suyu",
     "frequency": 3,
@@ -452,7 +453,10 @@
       "zh": "褒义，也作“静如处子，动如脱兔”，可只引一半。"
     },
     "synonyms": [],
-    "antonyms": []
+    "antonyms": [],
+    "variant_kinds": {
+      "动若脱兔": "short"
+    }
   },
   {
     "id": "bu-zhi-you-han-wu-lun-wei-jin",
