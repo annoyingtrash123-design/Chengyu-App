@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "ling-ren-xin-fu",
+    "text": "令人信服",
+    "pinyin": "lìng rén xìn fú",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "speech",
+      "mental-clarity"
+    ],
+    "literal": "cause · people · believe · submit",
+    "natural": "convincing",
+    "meaning": {
+      "en": "Persuasive enough that people accept it without doubt.",
+      "zh": "有说服力，让人心服口服。"
+    },
+    "equivalents": [
+      "utterly convincing",
+      "persuasive"
+    ],
+    "examples": [
+      {
+        "zh": "他的论证严密，令人信服。",
+        "en": "His argument is tightly reasoned and utterly convincing."
+      },
+      {
+        "zh": "专家给出的数据令人信服。",
+        "en": "The data the expert presented is convincing."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (令人信服的证据). Pairs with 解释, 理由, 论据.",
+      "zh": "可作谓语或定语，常与“解释、理由、证据”搭配。"
+    },
+    "synonyms": [
+      "有理有据",
+      "无可辩驳",
+      "言之成理"
+    ],
+    "antonyms": [
+      "牵强附会",
+      "漏洞百出"
+    ]
+  },
+  {
+    "id": "ling-ren-xi-xu",
+    "text": "令人唏嘘",
+    "pinyin": "lìng rén xī xū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair",
+      "complex-emotional-states"
+    ],
+    "literal": "cause · people · sigh",
+    "natural": "leaves one sighing",
+    "meaning": {
+      "en": "So sad or poignant that it makes people sigh with regret.",
+      "zh": "让人感慨叹息，替人惋惜。"
+    },
+    "equivalents": [
+      "makes one sigh",
+      "poignant"
+    ],
+    "examples": [
+      {
+        "zh": "曾经的明星如今无人问津，令人唏嘘。",
+        "en": "The once-famous star is now forgotten, which makes one sigh."
+      },
+      {
+        "zh": "这个故事的结局令人唏嘘。",
+        "en": "The ending of the story is poignant and sad."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in news and commentary about sad turns of fate.",
+      "zh": "多作谓语，常见于新闻和评论，指命运无常令人感叹。"
+    },
+    "synonyms": [
+      "令人惋惜",
+      "令人感慨"
+    ],
+    "antonyms": [
+      "大快人心",
+      "令人振奋"
+    ]
+  },
+  {
+    "id": "qing-zhe-zi-qing",
+    "text": "清者自清",
+    "pinyin": "qīng zhě zì qīng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "honesty-and-integrity",
+      "public-opinion"
+    ],
+    "literal": "clean · person · self · clean",
+    "natural": "the innocent need no defence",
+    "meaning": {
+      "en": "A person of clean conduct will be seen to be clean without arguing the case.",
+      "zh": "品行清白的人，自然不怕别人的诽谤和猜疑。"
+    },
+    "equivalents": [
+      "the innocent have nothing to fear",
+      "truth will out"
+    ],
+    "examples": [
+      {
+        "zh": "清者自清，你不必理会那些谣言。",
+        "en": "The innocent need no defence, so just ignore the rumours."
+      },
+      {
+        "zh": "他相信清者自清，没有出面解释。",
+        "en": "He believed his innocence would speak for itself and did not explain."
+      }
+    ],
+    "usage": {
+      "en": "Used as a standalone remark, often with 浊者自浊. Comforting rather than legal.",
+      "zh": "常单独成句，常与“浊者自浊”连用，多用于自我宽慰或安慰他人。"
+    },
+    "synonyms": [
+      "问心无愧",
+      "光明磊落"
+    ],
+    "antonyms": [
+      "做贼心虚",
+      "欲盖弥彰"
+    ]
+  },
+  {
+    "id": "shi-yi-zhi-ci",
+    "text": "事已至此",
+    "pinyin": "shì yǐ zhì cǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "fortune",
+      "complex-emotional-states"
+    ],
+    "literal": "matter · already · reach · here",
+    "natural": "things have come to this",
+    "meaning": {
+      "en": "Things have already reached this point, so it cannot be undone.",
+      "zh": "事情已经发展到这个地步，无法挽回。"
+    },
+    "equivalents": [
+      "it has come to this",
+      "now that things are like this"
+    ],
+    "examples": [
+      {
+        "zh": "事已至此，后悔也没用了。",
+        "en": "It has come to this; regret is useless now."
+      },
+      {
+        "zh": "事已至此，我们只能想办法补救。",
+        "en": "Now that things have reached this point, all we can do is try to put them right."
+      }
+    ],
+    "usage": {
+      "en": "Opens a sentence, followed by a resigned or practical remark.",
+      "zh": "多用于句首，后接无奈或务实的话。"
+    },
+    "synonyms": [
+      "木已成舟",
+      "覆水难收"
+    ],
+    "antonyms": [
+      "为时未晚",
+      "悬崖勒马"
+    ]
+  },
+  {
+    "id": "ren-dao-zhong-nian",
+    "text": "人到中年",
+    "pinyin": "rén dào zhōng nián",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "experience-and-old-age",
+      "psychological-pressure"
+    ],
+    "literal": "person · reach · middle · age",
+    "natural": "once one reaches middle age",
+    "meaning": {
+      "en": "Having reached middle age, with its burdens and its perspective.",
+      "zh": "人的年龄到了四五十岁的阶段。"
+    },
+    "equivalents": [
+      "once you hit middle age",
+      "in midlife"
+    ],
+    "examples": [
+      {
+        "zh": "人到中年，上有老下有小，压力很大。",
+        "en": "In midlife, with parents and children to look after, the pressure is great."
+      },
+      {
+        "zh": "人到中年，他才懂得健康的可贵。",
+        "en": "Only in middle age did he learn how precious health is."
+      }
+    ],
+    "usage": {
+      "en": "Starts a clause about the pressures or reflections of midlife.",
+      "zh": "常作分句开头，后面说中年的压力或感悟。"
+    },
+    "synonyms": [
+      "年过半百",
+      "年富力强"
+    ],
+    "antonyms": [
+      "年少轻狂",
+      "青春年少"
+    ]
+  },
+  {
+    "id": "zhong-dian-tu-chu",
+    "text": "重点突出",
+    "pinyin": "zhòng diǎn tū chū",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "突出重点"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "effective-teaching-methods",
+      "excellent-writing"
+    ],
+    "literal": "key point · stand out",
+    "natural": "with the main points clearly highlighted",
+    "meaning": {
+      "en": "Written or arranged so that the main points stand out clearly.",
+      "zh": "主要内容明确醒目，一看就懂。"
+    },
+    "equivalents": [
+      "focused",
+      "with clear priorities"
+    ],
+    "examples": [
+      {
+        "zh": "这份报告重点突出，条理清楚。",
+        "en": "The report is focused and clearly organised."
+      },
+      {
+        "zh": "发言要重点突出，不要面面俱到。",
+        "en": "A speech should highlight its key points rather than cover everything."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; commonly used to praise reports, plans and essays.",
+      "zh": "多作谓语或补语，常用来评价报告、计划和文章。"
+    },
+    "synonyms": [
+      "主次分明",
+      "条理清晰",
+      "言简意赅"
+    ],
+    "antonyms": [
+      "主次不分",
+      "漫无边际"
+    ]
+  },
+  {
+    "id": "zhan-gong-he-he",
+    "text": "战功赫赫",
+    "pinyin": "zhàn gōng hè hè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "outstanding-success-and-fame",
+      "military-strategy-and-victory"
+    ],
+    "literal": "war · merit · brilliant · brilliant",
+    "natural": "with a brilliant battle record",
+    "meaning": {
+      "en": "Having won great distinction through military achievements.",
+      "zh": "在战争中立下了显赫的功劳。"
+    },
+    "equivalents": [
+      "with a distinguished war record",
+      "decorated for valour"
+    ],
+    "examples": [
+      {
+        "zh": "这位将军战功赫赫，深受士兵爱戴。",
+        "en": "The general has a distinguished war record and is much loved by his soldiers."
+      },
+      {
+        "zh": "他是一位战功赫赫的老兵。",
+        "en": "He is a veteran with a glorious combat record."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (战功赫赫的将领).",
+      "zh": "可作谓语或定语。"
+    },
+    "synonyms": [
+      "功勋卓著",
+      "汗马功劳",
+      "所向披靡"
+    ],
+    "antonyms": [
+      "败军之将",
+      "寸功未立"
+    ]
+  },
+  {
+    "id": "bu-wei-qiang-quan",
+    "text": "不畏强权",
+    "pinyin": "bù wèi qiáng quán",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "不畏权贵"
+    ],
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "courage-and-boldness",
+      "positive-character-qualities"
+    ],
+    "literal": "not · fear · strong · power",
+    "natural": "unafraid of the powerful",
+    "meaning": {
+      "en": "Not intimidated by those with power; standing up to authority.",
+      "zh": "不害怕有权有势的人，敢于坚持正义。"
+    },
+    "equivalents": [
+      "stand up to the powerful",
+      "fearless before authority"
+    ],
+    "examples": [
+      {
+        "zh": "她不畏强权，坚持说出真相。",
+        "en": "Unafraid of the powerful, she insisted on telling the truth."
+      },
+      {
+        "zh": "历史上有许多不畏强权的人。",
+        "en": "History has many people who stood up to tyranny."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase or attributive; praises moral courage.",
+      "zh": "可作谓语或定语，称赞勇于抗争的品格。"
+    },
+    "synonyms": [
+      "刚正不阿",
+      "宁折不弯"
+    ],
+    "antonyms": [
+      "趋炎附势",
+      "阿谀奉承",
+      "畏首畏尾"
+    ]
+  },
+  {
+    "id": "yan-lei-wang-wang",
+    "text": "眼泪汪汪",
+    "pinyin": "yǎn lèi wāng wāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "泪眼汪汪"
+    ],
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "sadness-and-despair"
+    ],
+    "literal": "eyes · tears · brimming · brimming",
+    "natural": "eyes brimming with tears",
+    "meaning": {
+      "en": "With eyes full of tears, on the verge of weeping.",
+      "zh": "眼里含满泪水，快要哭出来的样子。"
+    },
+    "equivalents": [
+      "teary-eyed",
+      "eyes brimming with tears"
+    ],
+    "examples": [
+      {
+        "zh": "小女孩眼泪汪汪地看着妈妈。",
+        "en": "The little girl looked at her mother, eyes brimming with tears."
+      },
+      {
+        "zh": "他被批评后眼泪汪汪，什么也没说。",
+        "en": "After being scolded he stood teary-eyed and said nothing."
+      }
+    ],
+    "usage": {
+      "en": "Usually an adverbial before a verb, with 地; or a predicate.",
+      "zh": "常在动词前作状语（眼泪汪汪地），也可作谓语。"
+    },
+    "synonyms": [
+      "热泪盈眶",
+      "泪流满面"
+    ],
+    "antonyms": [
+      "笑逐颜开",
+      "喜笑颜开"
+    ]
+  },
+  {
+    "id": "da-han-da-jiao",
+    "text": "大喊大叫",
+    "pinyin": "dà hǎn dà jiào",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "inappropriate-behavior",
+      "anger"
+    ],
+    "literal": "big · shout · big · yell",
+    "natural": "shouting and yelling",
+    "meaning": {
+      "en": "To shout loudly and wildly, often disturbingly.",
+      "zh": "大声喊叫，吵吵嚷嚷。"
+    },
+    "equivalents": [
+      "shout and yell",
+      "make a racket"
+    ],
+    "examples": [
+      {
+        "zh": "图书馆里不要大喊大叫。",
+        "en": "Don't shout and yell in the library."
+      },
+      {
+        "zh": "他气得在办公室里大喊大叫。",
+        "en": "He was so angry that he yelled at the top of his voice in the office."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase, often in prohibitions (不要大喊大叫).",
+      "zh": "作谓语，常用于劝阻（不要大喊大叫）。"
+    },
+    "synonyms": [
+      "大吵大闹",
+      "鬼哭狼嚎",
+      "高声喧哗"
+    ],
+    "antonyms": [
+      "轻声细语",
+      "悄无声息"
+    ]
+  },
+  {
+    "id": "heng-xing-xiang-li",
+    "text": "横行乡里",
+    "pinyin": "héng xíng xiāng lǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "cruelty-and-ruthlessness",
+      "corruption-and-injustice"
+    ],
+    "literal": "run rampant · village · neighbourhood",
+    "natural": "terrorising the locality",
+    "meaning": {
+      "en": "To bully and lord it over the people of one's home area.",
+      "zh": "在家乡一带仗势欺人，为非作歹。"
+    },
+    "equivalents": [
+      "terrorise the neighbourhood",
+      "lord it over the locals"
+    ],
+    "examples": [
+      {
+        "zh": "他仗着有钱有势，横行乡里多年。",
+        "en": "Relying on wealth and influence, he terrorised the area for years."
+      },
+      {
+        "zh": "横行乡里的恶霸终于被抓了。",
+        "en": "The local tyrant who ran rampant has finally been arrested."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; typical of crime and historical writing.",
+      "zh": "可作谓语或定语，多见于社会新闻和历史叙述。"
+    },
+    "synonyms": [
+      "称霸一方",
+      "为非作歹",
+      "欺压百姓"
+    ],
+    "antonyms": [
+      "造福一方",
+      "安分守己"
+    ]
+  },
+  {
+    "id": "yang-tian-chang-tan",
+    "text": "仰天长叹",
+    "pinyin": "yǎng tiān cháng tàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "literary",
+    "themes": [
+      "sadness-and-despair",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "look up · sky · long · sigh",
+    "natural": "gazing up and sighing deeply",
+    "meaning": {
+      "en": "To look up at the sky and sigh long, in sorrow or helplessness.",
+      "zh": "抬头望天，发出长长的叹息，形容悲伤或无奈。"
+    },
+    "equivalents": [
+      "heave a long sigh to the heavens",
+      "sigh up at the sky"
+    ],
+    "examples": [
+      {
+        "zh": "面对这样的结果，他只能仰天长叹。",
+        "en": "Faced with this outcome, all he could do was sigh up at the sky."
+      },
+      {
+        "zh": "老人望着干裂的田地，仰天长叹。",
+        "en": "The old man looked at the cracked fields and sighed heavily to the heavens."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; a dramatic, bookish gesture, sometimes used jokingly.",
+      "zh": "作谓语，带戏剧色彩，有时也用于调侃。"
+    },
+    "synonyms": [
+      "长吁短叹",
+      "唉声叹气"
+    ],
+    "antonyms": [
+      "仰天大笑",
+      "欢呼雀跃"
+    ]
+  },
+  {
+    "id": "gao-chang-kai-ge",
+    "text": "高唱凯歌",
+    "pinyin": "gāo chàng kǎi gē",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "joy-and-happiness"
+    ],
+    "literal": "loud · sing · victory · song",
+    "natural": "singing songs of triumph",
+    "meaning": {
+      "en": "To celebrate a victory or a great success loudly.",
+      "zh": "高声唱着胜利之歌，比喻取得胜利后欢庆。"
+    },
+    "equivalents": [
+      "sing songs of triumph",
+      "celebrate victory"
+    ],
+    "examples": [
+      {
+        "zh": "球队高唱凯歌，捧回了冠军奖杯。",
+        "en": "The team sang songs of triumph and brought home the trophy."
+      },
+      {
+        "zh": "大军高唱凯歌，班师回朝。",
+        "en": "The army returned home singing songs of victory."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literal or figurative; often followed by 而归 or 前进.",
+      "zh": "作谓语，可指真唱凯歌，也可比喻取得胜利。"
+    },
+    "synonyms": [
+      "旗开得胜",
+      "大获全胜",
+      "凯旋而归"
+    ],
+    "antonyms": [
+      "一败涂地",
+      "大败而归"
+    ]
+  },
+  {
+    "id": "liao-biao-xin-yi",
+    "text": "聊表心意",
+    "pinyin": "liáo biǎo xīn yì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "polite-humble",
+      "kindness-and-generosity"
+    ],
+    "literal": "a little · express · heart · feeling",
+    "natural": "as a small token of one's feelings",
+    "meaning": {
+      "en": "To show one's goodwill or gratitude with a modest gift or gesture.",
+      "zh": "用一点小礼物或小行动表达自己的心意。"
+    },
+    "equivalents": [
+      "as a small token",
+      "to show a little appreciation"
+    ],
+    "examples": [
+      {
+        "zh": "这点小礼物，聊表心意，请收下。",
+        "en": "This small gift is a token of my feelings; please accept it."
+      },
+      {
+        "zh": "我们送上鲜花，聊表心意。",
+        "en": "We are sending flowers as a small gesture of goodwill."
+      }
+    ],
+    "usage": {
+      "en": "Polite and modest; typical with gifts, donations and condolences.",
+      "zh": "谦辞，多用于送礼、捐款、慰问等场合。"
+    },
+    "synonyms": [
+      "略表寸心",
+      "略表谢意"
+    ],
+    "antonyms": [
+      "不闻不问"
+    ]
+  },
+  {
+    "id": "gao-xia-li-pan",
+    "text": "高下立判",
+    "pinyin": "gāo xià lì pàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "standards-and-benchmarks",
+      "competition-and-rivalry"
+    ],
+    "literal": "high · low · at once · judge",
+    "natural": "the better is obvious at once",
+    "meaning": {
+      "en": "The difference in quality is so clear that the winner is obvious immediately.",
+      "zh": "两者一比较，谁好谁差马上就能看出来。"
+    },
+    "equivalents": [
+      "the gap is plain at a glance",
+      "no contest"
+    ],
+    "examples": [
+      {
+        "zh": "两款手机放在一起，高下立判。",
+        "en": "Put the two phones side by side and the difference is obvious."
+      },
+      {
+        "zh": "一交手，两人的水平高下立判。",
+        "en": "As soon as they crossed swords, it was clear who was better."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often after 一比 / 一对比 / 放在一起.",
+      "zh": "作谓语，常用在“一比较、一对比”之后。"
+    },
+    "synonyms": [
+      "优劣立见",
+      "一目了然",
+      "判若云泥"
+    ],
+    "antonyms": [
+      "旗鼓相当",
+      "不分高下"
+    ]
+  },
+  {
+    "id": "fen-wai-yan-hong",
+    "text": "分外眼红",
+    "pinyin": "fèn wài yǎn hóng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "conflict-and-strife",
+      "anger"
+    ],
+    "literal": "especially · eyes · red",
+    "natural": "seeing red; burning with envy or hatred",
+    "meaning": {
+      "en": "Extremely angry or envious when seeing a rival or an enemy.",
+      "zh": "仇人或对手相见时特别愤恨，也指特别嫉妒。"
+    },
+    "equivalents": [
+      "see red",
+      "burn with resentment"
+    ],
+    "examples": [
+      {
+        "zh": "仇人相见，分外眼红。",
+        "en": "When enemies meet, they see red."
+      },
+      {
+        "zh": "看到别人升职，他分外眼红。",
+        "en": "Seeing others promoted, he was green with envy."
+      }
+    ],
+    "usage": {
+      "en": "Idiom-like set phrase; the saying 仇人相见，分外眼红 is common.",
+      "zh": "常见于俗语“仇人相见，分外眼红”。"
+    },
+    "synonyms": [
+      "怒目而视",
+      "眼红心热",
+      "咬牙切齿"
+    ],
+    "antonyms": [
+      "握手言和",
+      "冰释前嫌"
+    ]
+  },
+  {
+    "id": "lao-you-chong-feng",
+    "text": "老友重逢",
+    "pinyin": "lǎo yǒu chóng féng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "故友重逢"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship",
+      "joy-and-happiness"
+    ],
+    "literal": "old · friend · again · meet",
+    "natural": "old friends reunited",
+    "meaning": {
+      "en": "Friends of long standing meeting again after a separation.",
+      "zh": "多年的老朋友分别后再次相见。"
+    },
+    "equivalents": [
+      "old friends reunited",
+      "a reunion of old friends"
+    ],
+    "examples": [
+      {
+        "zh": "老友重逢，大家聊了整整一夜。",
+        "en": "The old friends were reunited and talked all night."
+      },
+      {
+        "zh": "老友重逢，格外亲切。",
+        "en": "Meeting an old friend again feels especially warm."
+      }
+    ],
+    "usage": {
+      "en": "Often a heading or opening phrase; a warm, happy tone.",
+      "zh": "常作标题或句首，语气亲切愉快。"
+    },
+    "synonyms": [
+      "他乡遇故知",
+      "久别重逢"
+    ],
+    "antonyms": [
+      "萍水相逢",
+      "不欢而散"
+    ]
+  },
+  {
+    "id": "liang-jun-dui-lei",
+    "text": "两军对垒",
+    "pinyin": "liǎng jūn duì lěi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "war",
+      "conflict-and-strife"
+    ],
+    "literal": "two · armies · face · rampart",
+    "natural": "two armies facing each other",
+    "meaning": {
+      "en": "Two armies drawn up face to face, ready to fight; also two rivals in a showdown.",
+      "zh": "两支军队相对布阵，互相对峙；也比喻双方对抗。"
+    },
+    "equivalents": [
+      "two armies face off",
+      "a stand-off"
+    ],
+    "examples": [
+      {
+        "zh": "两军对垒，战场上一片肃杀。",
+        "en": "With two armies facing each other, a deathly stillness hung over the battlefield."
+      },
+      {
+        "zh": "比赛如同两军对垒，气氛十分紧张。",
+        "en": "The match was like two armies facing off, and the atmosphere was tense."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or set opening; often used figuratively for sport and business.",
+      "zh": "多作谓语或句首，常比喻体育、商业等的对抗。"
+    },
+    "synonyms": [
+      "兵戎相见",
+      "势均力敌",
+      "剑拔弩张"
+    ],
+    "antonyms": [
+      "握手言和",
+      "化干戈为玉帛"
+    ]
+  },
+  {
+    "id": "re-ren-tao-yan",
+    "text": "惹人讨厌",
+    "pinyin": "rě rén tǎo yàn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "casual",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "provoke · people · dislike",
+    "natural": "annoying",
+    "meaning": {
+      "en": "So irritating or tactless that people dislike one.",
+      "zh": "言行让人觉得烦、不喜欢。"
+    },
+    "equivalents": [
+      "get on people's nerves",
+      "be off-putting"
+    ],
+    "examples": [
+      {
+        "zh": "他总爱打断别人，真惹人讨厌。",
+        "en": "He keeps interrupting people, which is really annoying."
+      },
+      {
+        "zh": "这种惹人讨厌的习惯要改一改。",
+        "en": "You should break that irritating habit."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; casual, spoken.",
+      "zh": "作谓语或定语，口语色彩较强。"
+    },
+    "synonyms": [
+      "令人生厌"
+    ],
+    "antonyms": [
+      "招人喜爱",
+      "惹人喜欢"
+    ]
+  },
+  {
+    "id": "ling-ren-sheng-yan",
+    "text": "令人生厌",
+    "pinyin": "lìng rén shēng yàn",
+    "variants": [
+      "令人讨厌",
+      "惹人生厌"
+    ],
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "negative-character-flaws",
+      "inappropriate-behavior"
+    ],
+    "literal": "cause · people · give rise to · disgust",
+    "natural": "off-putting",
+    "meaning": {
+      "en": "Making people feel disgusted or tired of it.",
+      "zh": "让人感到厌烦、讨厌。"
+    },
+    "equivalents": [
+      "off-putting",
+      "tiresome"
+    ],
+    "examples": [
+      {
+        "zh": "他那副自以为是的样子令人生厌。",
+        "en": "His know-it-all manner is off-putting."
+      },
+      {
+        "zh": "重复的广告令人生厌。",
+        "en": "The repeated adverts are tiresome."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; a little more formal than 惹人讨厌.",
+      "zh": "作谓语或定语，比“惹人讨厌”稍书面。"
+    },
+    "synonyms": [
+      "惹人讨厌",
+      "令人作呕",
+      "讨人嫌"
+    ],
+    "antonyms": [
+      "讨人喜欢",
+      "惹人喜爱"
+    ]
+  },
+  {
+    "id": "qin-tun-gong-kuan",
+    "text": "侵吞公款",
+    "pinyin": "qīn tūn gōng kuǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "swallow up · public · funds",
+    "natural": "embezzling public funds",
+    "meaning": {
+      "en": "To seize public money for one's own use.",
+      "zh": "把公家的钱财据为己有。"
+    },
+    "equivalents": [
+      "embezzle public funds",
+      "misappropriate public money"
+    ],
+    "examples": [
+      {
+        "zh": "他因侵吞公款被判了十年。",
+        "en": "He was sentenced to ten years for embezzling public funds."
+      },
+      {
+        "zh": "侵吞公款的官员受到了严惩。",
+        "en": "The official who embezzled public funds was severely punished."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object phrase; typical of news and legal reports.",
+      "zh": "动宾短语，常见于新闻和法律报道。"
+    },
+    "synonyms": [
+      "贪污受贿",
+      "监守自盗",
+      "中饱私囊",
+      "挪用公款"
+    ],
+    "antonyms": [
+      "廉洁奉公",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "nuo-yong-gong-kuan",
+    "text": "挪用公款",
+    "pinyin": "nuó yòng gōng kuǎn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "political-corruption",
+      "corruption-and-injustice"
+    ],
+    "literal": "divert · use · public · funds",
+    "natural": "misusing public funds",
+    "meaning": {
+      "en": "To take public money temporarily or illegally for another use, usually one's own.",
+      "zh": "擅自把公家的钱用于别的用途。"
+    },
+    "equivalents": [
+      "misappropriate public funds",
+      "divert public money"
+    ],
+    "examples": [
+      {
+        "zh": "会计挪用公款炒股，被公司报了警。",
+        "en": "The accountant diverted public funds into the stock market, and the firm called the police."
+      },
+      {
+        "zh": "挪用公款是违法行为。",
+        "en": "Misusing public funds is a crime."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object phrase; milder than 侵吞 as it may be 'borrowing' in intent.",
+      "zh": "动宾短语；与“侵吞”相比，强调擅自改变用途。"
+    },
+    "synonyms": [
+      "侵吞公款",
+      "中饱私囊",
+      "贪污腐败"
+    ],
+    "antonyms": [
+      "廉洁奉公",
+      "一尘不染"
+    ]
+  },
+  {
+    "id": "man-lian-tong-hong",
+    "text": "满脸通红",
+    "pinyin": "mǎn liǎn tōng hóng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "body",
+      "complex-emotional-states"
+    ],
+    "literal": "whole · face · thoroughly · red",
+    "natural": "face flushed red",
+    "meaning": {
+      "en": "With one's whole face red from shame, anger, drink or effort.",
+      "zh": "整张脸都红了，多因害羞、生气、喝酒或用力。"
+    },
+    "equivalents": [
+      "red in the face",
+      "flushed"
+    ],
+    "examples": [
+      {
+        "zh": "被老师点名表扬，他满脸通红。",
+        "en": "Praised by name by the teacher, he went red in the face."
+      },
+      {
+        "zh": "他喝了两杯就满脸通红。",
+        "en": "Two drinks and his face was flushed."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also adverbial with 地.",
+      "zh": "作谓语，也可作状语（满脸通红地）。"
+    },
+    "synonyms": [
+      "面红耳赤",
+      "脸红脖子粗"
+    ],
+    "antonyms": [
+      "面无血色",
+      "面色苍白"
+    ]
+  },
+  {
+    "id": "guang-da-men-mei",
+    "text": "光大门楣",
+    "pinyin": "guāng dà mén méi",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "parenting-and-family",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "glorify · great · gate · lintel",
+    "natural": "bringing honour to the family",
+    "meaning": {
+      "en": "To bring glory and prestige to one's family through one's own success.",
+      "zh": "靠自己的成就使家族更有名望、更显赫。"
+    },
+    "equivalents": [
+      "bring honour to the family name",
+      "do the family proud"
+    ],
+    "examples": [
+      {
+        "zh": "他立志成才，光大门楣。",
+        "en": "He resolved to make something of himself and bring honour to his family."
+      },
+      {
+        "zh": "长辈都盼着他光大门楣。",
+        "en": "His elders hoped he would raise the family's standing."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; somewhat traditional or formal in tone.",
+      "zh": "动宾短语，带传统、庄重色彩。"
+    },
+    "synonyms": [
+      "光宗耀祖",
+      "扬名显亲"
+    ],
+    "antonyms": [
+      "辱没门庭",
+      "有辱门楣"
+    ]
+  },
+  {
+    "id": "bu-ji-qian-xian",
+    "text": "不计前嫌",
+    "pinyin": "bù jì qián xián",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "kindness-and-generosity",
+      "friendship"
+    ],
+    "literal": "not · reckon · former · grudge",
+    "natural": "let bygones be bygones",
+    "meaning": {
+      "en": "Not holding past grievances against someone.",
+      "zh": "不把过去的怨恨放在心上。"
+    },
+    "equivalents": [
+      "let bygones be bygones",
+      "bury the hatchet"
+    ],
+    "examples": [
+      {
+        "zh": "两位老同事不计前嫌，重新合作。",
+        "en": "The two old colleagues buried the hatchet and began working together again."
+      },
+      {
+        "zh": "他不计前嫌，帮了对手一把。",
+        "en": "He let bygones be bygones and helped his rival."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often paired with 握手言和 or 重归于好.",
+      "zh": "作谓语，常与“握手言和、重归于好”连用。"
+    },
+    "synonyms": [
+      "冰释前嫌",
+      "既往不咎",
+      "以德报怨"
+    ],
+    "antonyms": [
+      "耿耿于怀",
+      "睚眦必报",
+      "记仇"
+    ]
+  },
+  {
+    "id": "hou-fa-xian-zhi",
+    "text": "后发先至",
+    "pinyin": "hòu fā xiān zhì",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "speed-fast-vs-slow"
+    ],
+    "literal": "later · set off · first · arrive",
+    "natural": "setting off late yet arriving first",
+    "meaning": {
+      "en": "To start later than others but still get there first.",
+      "zh": "比别人出发得晚，却先到达，比喻后来居上。"
+    },
+    "equivalents": [
+      "start late and arrive first",
+      "come from behind"
+    ],
+    "examples": [
+      {
+        "zh": "他起步虽晚，却后发先至，拿了冠军。",
+        "en": "He started late yet overtook everyone and took the title."
+      },
+      {
+        "zh": "这家公司凭技术后发先至。",
+        "en": "Through technology the company overtook its earlier rivals."
+      }
+    ],
+    "usage": {
+      "en": "Used in sport, business and technology; positive.",
+      "zh": "多用于体育、商业、科技，含褒义。"
+    },
+    "synonyms": [
+      "后来居上",
+      "迎头赶上",
+      "青出于蓝"
+    ],
+    "antonyms": [
+      "望尘莫及",
+      "落于人后"
+    ]
+  },
+  {
+    "id": "yuan-li-chen-xiao",
+    "text": "远离尘嚣",
+    "pinyin": "yuǎn lí chén xiāo",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "relaxation-and-rest",
+      "freedom"
+    ],
+    "literal": "far · leave · dust · noise",
+    "natural": "away from the hustle and bustle",
+    "meaning": {
+      "en": "To stay away from the noise and bustle of the busy world.",
+      "zh": "远远离开喧闹的世俗和都市生活。"
+    },
+    "equivalents": [
+      "get away from it all",
+      "far from the madding crowd"
+    ],
+    "examples": [
+      {
+        "zh": "我们想找个远离尘嚣的小村子住几天。",
+        "en": "We'd like to stay a few days in a little village far from the bustle."
+      },
+      {
+        "zh": "远离尘嚣，他在山中过着平静的日子。",
+        "en": "Away from the hurly-burly, he lives peacefully in the mountains."
+      }
+    ],
+    "usage": {
+      "en": "Often an adjective phrase for places (远离尘嚣的地方).",
+      "zh": "常作定语修饰地点（远离尘嚣的小岛）。"
+    },
+    "synonyms": [
+      "与世隔绝",
+      "世外桃源",
+      "隐居山林"
+    ],
+    "antonyms": [
+      "车水马龙",
+      "人声鼎沸"
+    ]
+  },
+  {
+    "id": "jue-bu-gu-xi",
+    "text": "绝不姑息",
+    "pinyin": "jué bù gū xī",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "fairness-and-impartiality",
+      "news-and-officialese"
+    ],
+    "literal": "absolutely · not · indulge · tolerate",
+    "natural": "will not be tolerated",
+    "meaning": {
+      "en": "To refuse to tolerate wrongdoing or let offenders off lightly.",
+      "zh": "对错误或违法行为绝不放纵、不宽容。"
+    },
+    "equivalents": [
+      "show no leniency",
+      "zero tolerance"
+    ],
+    "examples": [
+      {
+        "zh": "对酒后驾车的行为，我们绝不姑息。",
+        "en": "We show no leniency towards drink-driving."
+      },
+      {
+        "zh": "学校对欺凌现象绝不姑息。",
+        "en": "The school has zero tolerance for bullying."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; typical of official statements and warnings.",
+      "zh": "作谓语，常见于官方声明和警告。"
+    },
+    "synonyms": [
+      "严惩不贷",
+      "决不手软",
+      "绝不宽容"
+    ],
+    "antonyms": [
+      "姑息养奸",
+      "网开一面"
+    ]
+  },
+  {
+    "id": "qing-duo-bao-zhong",
+    "text": "请多保重",
+    "pinyin": "qǐng duō bǎo zhòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "farewells",
+      "polite-humble"
+    ],
+    "literal": "please · much · take care",
+    "natural": "please take good care of yourself",
+    "meaning": {
+      "en": "A polite farewell wishing someone good health and safety.",
+      "zh": "分别时请对方多注意身体和安全的客气话。"
+    },
+    "equivalents": [
+      "take good care of yourself",
+      "look after yourself"
+    ],
+    "examples": [
+      {
+        "zh": "天气冷了，请多保重。",
+        "en": "It's getting cold; please take care of yourself."
+      },
+      {
+        "zh": "你一路辛苦，请多保重。",
+        "en": "It's been a long journey; please look after yourself."
+      }
+    ],
+    "usage": {
+      "en": "Set farewell, in speech or at the end of letters.",
+      "zh": "告别或书信结尾的客套话。"
+    },
+    "synonyms": [
+      "珍重万千",
+      "多多珍重",
+      "一路平安"
+    ],
+    "antonyms": [
+      "保重身体"
+    ]
+  },
+  {
+    "id": "bai-qiang-dai-wa",
+    "text": "白墙黛瓦",
+    "pinyin": "bái qiáng dài wǎ",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "粉墙黛瓦"
+    ],
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "landscapes",
+      "appearance"
+    ],
+    "literal": "white · wall · dark grey · tile",
+    "natural": "white walls and dark tiles",
+    "meaning": {
+      "en": "The classic look of Jiangnan houses: white-washed walls under grey-black roof tiles.",
+      "zh": "指江南传统民居白色的墙壁和青黑色的瓦顶。"
+    },
+    "equivalents": [
+      "whitewashed walls and grey tiles",
+      "classic Jiangnan architecture"
+    ],
+    "examples": [
+      {
+        "zh": "江南水乡，白墙黛瓦，美如画卷。",
+        "en": "In the water towns of Jiangnan, white walls and dark tiles make a picture."
+      },
+      {
+        "zh": "村子里一排排白墙黛瓦的老房子很有韵味。",
+        "en": "The rows of old white-walled, grey-tiled houses in the village have real charm."
+      }
+    ],
+    "usage": {
+      "en": "Scenery description; often linked with 小桥流水.",
+      "zh": "描写景色，常与“小桥流水”连用。"
+    },
+    "synonyms": [
+      "小桥流水",
+      "青砖黛瓦"
+    ],
+    "antonyms": [
+      "高楼大厦",
+      "钢筋水泥"
+    ]
+  },
+  {
+    "id": "hao-bu-han-hu",
+    "text": "毫不含糊",
+    "pinyin": "háo bù hán hú",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "frankness-and-candour",
+      "diligence-and-dedication"
+    ],
+    "literal": "not at all · vague",
+    "natural": "without any hedging",
+    "meaning": {
+      "en": "Clear, firm and unwavering, with no vagueness or slackness.",
+      "zh": "态度明确、做事认真，一点也不马虎。"
+    },
+    "equivalents": [
+      "without hesitation",
+      "crystal clear"
+    ],
+    "examples": [
+      {
+        "zh": "他对原则问题毫不含糊。",
+        "en": "He is unequivocal on matters of principle."
+      },
+      {
+        "zh": "在训练中，教练要求毫不含糊。",
+        "en": "In training, the coach tolerates no sloppiness."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or complement; often 对…毫不含糊.",
+      "zh": "作谓语或补语，常说“对……毫不含糊”。"
+    },
+    "synonyms": [
+      "一丝不苟",
+      "毫不犹豫",
+      "斩钉截铁"
+    ],
+    "antonyms": [
+      "含糊其辞",
+      "模棱两可",
+      "马马虎虎"
+    ]
+  },
+  {
+    "id": "ju-zhi-duan-zhuang",
+    "text": "举止端庄",
+    "pinyin": "jǔ zhǐ duān zhuāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "positive-character-qualities",
+      "appearance"
+    ],
+    "literal": "manner · bearing · dignified · proper",
+    "natural": "dignified in bearing",
+    "meaning": {
+      "en": "Behaving in a poised, proper and dignified way.",
+      "zh": "言行姿态端正稳重，有礼貌。"
+    },
+    "equivalents": [
+      "dignified in manner",
+      "poised"
+    ],
+    "examples": [
+      {
+        "zh": "她举止端庄，给面试官留下好印象。",
+        "en": "She carried herself with dignity and impressed the interviewers."
+      },
+      {
+        "zh": "礼仪课教我们举止端庄大方。",
+        "en": "The etiquette class taught us to behave with dignity and grace."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; commonly said of women or in etiquette contexts.",
+      "zh": "作谓语或定语，多形容人的仪态，也用于礼仪教育。"
+    },
+    "synonyms": [
+      "端庄大方",
+      "彬彬有礼",
+      "仪态万方"
+    ],
+    "antonyms": [
+      "举止轻浮",
+      "粗鲁无礼"
+    ]
+  },
+  {
+    "id": "shen-biao-qian-yi",
+    "text": "深表歉意",
+    "pinyin": "shēn biǎo qiàn yì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "polite-humble",
+      "mistakes-and-correction"
+    ],
+    "literal": "deeply · express · regret",
+    "natural": "express deep apologies",
+    "meaning": {
+      "en": "To apologise sincerely and formally.",
+      "zh": "诚恳而郑重地表示道歉。"
+    },
+    "equivalents": [
+      "offer a sincere apology",
+      "express deep regret"
+    ],
+    "examples": [
+      {
+        "zh": "因航班延误，我们深表歉意。",
+        "en": "We sincerely apologise for the flight delay."
+      },
+      {
+        "zh": "公司对此次事故深表歉意。",
+        "en": "The company deeply regrets the accident."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase in notices, announcements and letters.",
+      "zh": "动宾短语，用于通知、声明、信函。"
+    },
+    "synonyms": [
+      "诚挚道歉",
+      "深感抱歉",
+      "表示歉意"
+    ],
+    "antonyms": [
+      "毫无歉意"
+    ]
+  },
+  {
+    "id": "wan-fen-gan-xie",
+    "text": "万分感谢",
+    "pinyin": "wàn fēn gǎn xiè",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "polite-humble",
+      "kindness-and-generosity"
+    ],
+    "literal": "ten thousand · parts · thank",
+    "natural": "thank you very much indeed",
+    "meaning": {
+      "en": "To thank someone with the utmost sincerity.",
+      "zh": "表示十分诚恳的谢意。"
+    },
+    "equivalents": [
+      "thank you from the bottom of my heart",
+      "most grateful"
+    ],
+    "examples": [
+      {
+        "zh": "感谢您的帮助，万分感谢！",
+        "en": "Thank you for your help; I can't thank you enough."
+      },
+      {
+        "zh": "对大家的支持，我们万分感谢。",
+        "en": "We are deeply grateful for everyone's support."
+      }
+    ],
+    "usage": {
+      "en": "Used in speech and letters; adds emphasis to 感谢.",
+      "zh": "用于口语和书信，强调感谢之情。"
+    },
+    "synonyms": [
+      "感激不尽",
+      "感恩戴德",
+      "谢天谢地"
+    ],
+    "antonyms": [
+      "恩将仇报",
+      "忘恩负义"
+    ]
+  },
+  {
+    "id": "xing-fu-an-kang",
+    "text": "幸福安康",
+    "pinyin": "xìng fú ān kāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "joy-and-happiness"
+    ],
+    "literal": "happy · blessed · safe · healthy",
+    "natural": "happiness and good health",
+    "meaning": {
+      "en": "A wish for a happy, healthy and peaceful life.",
+      "zh": "祝愿生活幸福，身体健康平安。"
+    },
+    "equivalents": [
+      "wishing you happiness and good health",
+      "a happy, healthy life"
+    ],
+    "examples": [
+      {
+        "zh": "祝您全家幸福安康！",
+        "en": "Wishing your whole family happiness and good health!"
+      },
+      {
+        "zh": "愿大家新的一年幸福安康。",
+        "en": "May everyone have a happy, healthy new year."
+      }
+    ],
+    "usage": {
+      "en": "Mostly in greetings and blessings; also a predicate: 生活幸福安康.",
+      "zh": "多用于祝福语，也可作谓语。"
+    },
+    "synonyms": [
+      "平安喜乐",
+      "健康长寿",
+      "万事如意"
+    ],
+    "antonyms": [
+      "多灾多难",
+      "疾病缠身"
+    ]
+  },
+  {
+    "id": "guan-jian-shi-ke",
+    "text": "关键时刻",
+    "pinyin": "guān jiàn shí kè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "time",
+      "danger"
+    ],
+    "literal": "crucial · moment",
+    "natural": "the critical moment",
+    "meaning": {
+      "en": "A decisive point when the outcome is at stake.",
+      "zh": "事情成败或关系重大的时候。"
+    },
+    "equivalents": [
+      "the crunch",
+      "at the critical moment"
+    ],
+    "examples": [
+      {
+        "zh": "关键时刻，他挺身而出。",
+        "en": "At the critical moment, he stepped forward."
+      },
+      {
+        "zh": "每个人都想在关键时刻发挥作用。",
+        "en": "Everyone wants to make a difference when it counts."
+      }
+    ],
+    "usage": {
+      "en": "Common adverbial at the start of a clause (在关键时刻 / 关键时刻，…).",
+      "zh": "常作时间状语（在关键时刻、关键时刻，……）。"
+    },
+    "synonyms": [
+      "紧要关头",
+      "千钧一发",
+      "节骨眼上"
+    ],
+    "antonyms": [
+      "平安无事",
+      "无关紧要"
+    ]
+  },
+  {
+    "id": "wan-wu-fu-su",
+    "text": "万物复苏",
+    "pinyin": "wàn wù fù sū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "seasonal-changes",
+      "comebacks-and-renewal"
+    ],
+    "literal": "all things · revive · awaken",
+    "natural": "everything coming back to life",
+    "meaning": {
+      "en": "The reawakening of nature in spring.",
+      "zh": "春天来临，各种生物重新有了生机。"
+    },
+    "equivalents": [
+      "nature wakes up",
+      "everything bursts back to life"
+    ],
+    "examples": [
+      {
+        "zh": "春天来了，万物复苏。",
+        "en": "Spring has come and everything is waking up."
+      },
+      {
+        "zh": "春雨过后，大地万物复苏。",
+        "en": "After the spring rain, the land came back to life."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; most often about spring and the thaw.",
+      "zh": "作谓语，多用来写春天。"
+    },
+    "synonyms": [
+      "春回大地",
+      "生机勃勃",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "万物凋零",
+      "草木枯黄",
+      "千里冰封"
+    ]
+  },
+  {
+    "id": "yuan-jin-wen-ming",
+    "text": "远近闻名",
+    "pinyin": "yuǎn jìn wén míng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-success-and-fame"
+    ],
+    "literal": "far · near · hear · famous",
+    "natural": "famous far and wide",
+    "meaning": {
+      "en": "Known to people both near and far.",
+      "zh": "远处和近处的人都知道，很有名。"
+    },
+    "equivalents": [
+      "famous far and wide",
+      "renowned"
+    ],
+    "examples": [
+      {
+        "zh": "这家老字号的包子远近闻名。",
+        "en": "This old brand's steamed buns are famous far and wide."
+      },
+      {
+        "zh": "他是村里远近闻名的好医生。",
+        "en": "He is a doctor known for miles around."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (远近闻名的…).",
+      "zh": "作谓语或定语。"
+    },
+    "synonyms": [
+      "闻名遐迩",
+      "家喻户晓",
+      "名扬四海"
+    ],
+    "antonyms": [
+      "默默无闻",
+      "无人知晓"
+    ]
+  },
+  {
+    "id": "lin-li-he-mu",
+    "text": "邻里和睦",
+    "pinyin": "lín lǐ hé mù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unity-and-cooperation",
+      "family-and-home"
+    ],
+    "literal": "neighbours · neighbourhood · harmonious",
+    "natural": "neighbours getting along",
+    "meaning": {
+      "en": "Neighbours living together in harmony.",
+      "zh": "邻居之间相处融洽，没有矛盾。"
+    },
+    "equivalents": [
+      "good neighbourly relations",
+      "neighbours living in harmony"
+    ],
+    "examples": [
+      {
+        "zh": "这个小区邻里和睦，大家常互相帮忙。",
+        "en": "Neighbours here get along well and often help each other."
+      },
+      {
+        "zh": "邻里和睦是社区建设的目标。",
+        "en": "Neighbourly harmony is a goal of community building."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; common in community news and slogans.",
+      "zh": "作谓语，常见于社区宣传和口号。"
+    },
+    "synonyms": [
+      "和睦相处",
+      "守望相助",
+      "友好相处"
+    ],
+    "antonyms": [
+      "邻里不和",
+      "争吵不休"
+    ]
+  },
+  {
+    "id": "shi-qi-di-luo",
+    "text": "士气低落",
+    "pinyin": "shì qì dī luò",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "defeat-and-military-failure",
+      "psychological-pressure"
+    ],
+    "literal": "morale · low · fall",
+    "natural": "morale is low",
+    "meaning": {
+      "en": "Spirits and fighting will are down in a team or army.",
+      "zh": "队伍或团体的斗志和信心下降。"
+    },
+    "equivalents": [
+      "morale is low",
+      "demoralised"
+    ],
+    "examples": [
+      {
+        "zh": "连输几场后，球队士气低落。",
+        "en": "After several defeats in a row, the team's morale was low."
+      },
+      {
+        "zh": "裁员消息让员工士气低落。",
+        "en": "News of layoffs left staff demoralised."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; applies to armies, teams and workplaces.",
+      "zh": "作谓语，用于军队、球队、公司等集体。"
+    },
+    "synonyms": [
+      "一蹶不振",
+      "军心涣散",
+      "萎靡不振"
+    ],
+    "antonyms": [
+      "士气高昂",
+      "士气大振",
+      "斗志昂扬"
+    ]
+  },
+  {
+    "id": "gong-gai-qian-qiu",
+    "text": "功盖千秋",
+    "pinyin": "gōng gài qiān qiū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "outstanding-success-and-fame",
+      "statesmen"
+    ],
+    "literal": "merit · surpass · thousand · autumns",
+    "natural": "achievements that outshine the ages",
+    "meaning": {
+      "en": "Having accomplishments that stand above those of every age.",
+      "zh": "功绩之大，超过千秋万代。"
+    },
+    "equivalents": [
+      "achievements for the ages",
+      "deeds that outlast time"
+    ],
+    "examples": [
+      {
+        "zh": "他治水有功，功盖千秋。",
+        "en": "His flood control work earned him lasting fame."
+      },
+      {
+        "zh": "这位帝王自称功盖千秋。",
+        "en": "The emperor claimed that his deeds would outshine the ages."
+      }
+    ],
+    "usage": {
+      "en": "Praise for a great figure; solemn, sometimes ironic.",
+      "zh": "颂扬伟人，语气庄重，有时含讽刺。"
+    },
+    "synonyms": [
+      "功高盖世",
+      "功垂千古",
+      "丰功伟绩"
+    ],
+    "antonyms": [
+      "一事无成",
+      "碌碌无为"
+    ]
+  },
+  {
+    "id": "feng-ge-du-te",
+    "text": "风格独特",
+    "pinyin": "fēng gé dú tè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "excellent-writing",
+      "master-craftsmanship"
+    ],
+    "literal": "style · unique",
+    "natural": "distinctive in style",
+    "meaning": {
+      "en": "Having a style that clearly sets it apart.",
+      "zh": "有与众不同的特色和格调。"
+    },
+    "equivalents": [
+      "distinctive style",
+      "one of a kind"
+    ],
+    "examples": [
+      {
+        "zh": "这位设计师的作品风格独特。",
+        "en": "The designer's works have a distinctive style."
+      },
+      {
+        "zh": "这家咖啡馆风格独特，很受年轻人欢迎。",
+        "en": "The cafe has a unique look and is popular with young people."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive (风格独特的建筑).",
+      "zh": "作谓语或定语，常评价艺术、建筑、店铺。"
+    },
+    "synonyms": [
+      "别具一格",
+      "独树一帜",
+      "与众不同"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "大同小异"
+    ]
+  },
+  {
+    "id": "yu-yi-ji-xiang",
+    "text": "寓意吉祥",
+    "pinyin": "yù yì jí xiáng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "festivals-and-celebrations"
+    ],
+    "literal": "implied meaning · auspicious",
+    "natural": "carrying an auspicious meaning",
+    "meaning": {
+      "en": "Symbolising good luck.",
+      "zh": "所象征的意思吉利美好。"
+    },
+    "equivalents": [
+      "symbolising good luck",
+      "auspicious in meaning"
+    ],
+    "examples": [
+      {
+        "zh": "红灯笼寓意吉祥，春节家家都挂。",
+        "en": "Red lanterns signify good luck, and every home hangs them at the New Year."
+      },
+      {
+        "zh": "这对玉佩寓意吉祥，适合送人。",
+        "en": "The jade pendants carry an auspicious meaning and make a good gift."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; typical of descriptions of gifts, symbols and names.",
+      "zh": "作谓语或定语，常用于描述礼物、图案、名字。"
+    },
+    "synonyms": [
+      "吉祥如意",
+      "象征吉祥",
+      "福寿安康"
+    ],
+    "antonyms": [
+      "不吉不利"
+    ]
+  },
+  {
+    "id": "sheng-yi-hong-huo",
+    "text": "生意红火",
+    "pinyin": "shēng yi hóng huǒ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "successful-completion",
+      "festive-greetings"
+    ],
+    "literal": "business · red · fire",
+    "natural": "business is booming",
+    "meaning": {
+      "en": "Trade that is thriving with plenty of customers.",
+      "zh": "买卖兴旺，顾客很多。"
+    },
+    "equivalents": [
+      "business is booming",
+      "trade is thriving"
+    ],
+    "examples": [
+      {
+        "zh": "新店开业后生意红火。",
+        "en": "After the new shop opened, business boomed."
+      },
+      {
+        "zh": "祝您生意红火，财源广进！",
+        "en": "May your business boom and money roll in!"
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also a common blessing for shops.",
+      "zh": "作谓语，也是开业祝福语。"
+    },
+    "synonyms": [
+      "生意兴隆",
+      "门庭若市",
+      "财源广进"
+    ],
+    "antonyms": [
+      "生意冷清",
+      "门可罗雀"
+    ]
+  }
+]

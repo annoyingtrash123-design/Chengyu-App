@@ -1,0 +1,1992 @@
+[
+  {
+    "id": "gan-chuang-gan-pin",
+    "text": "敢闯敢拼",
+    "pinyin": "gǎn chuǎng gǎn pīn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "courage-and-boldness",
+      "high-aspirations"
+    ],
+    "literal": "dare · to venture · dare · to fight hard",
+    "natural": "bold and ready to fight for it",
+    "meaning": {
+      "en": "Daring to venture into the unknown and to give everything for a goal.",
+      "zh": "敢于闯荡，敢于拼搏。"
+    },
+    "equivalents": [
+      "bold and tenacious",
+      "daring and determined"
+    ],
+    "examples": [
+      {
+        "zh": "这支年轻的团队敢闯敢拼，三年就做成了行业第一。",
+        "en": "This young team was bold and determined, and became number one in the industry in three years."
+      },
+      {
+        "zh": "他有一股敢闯敢拼的劲头，不怕失败。",
+        "en": "He has a daring, fighting spirit and isn't afraid of failure."
+      }
+    ],
+    "usage": {
+      "en": "Often an attributive or predicate; praises people, teams or a spirit (敢闯敢拼的精神).",
+      "zh": "多作谓语、定语，称赞人或团队的精神。"
+    },
+    "synonyms": [
+      "勇往直前",
+      "勇于拼搏"
+    ],
+    "antonyms": [
+      "畏首畏尾",
+      "胆小怕事"
+    ]
+  },
+  {
+    "id": "wu-cong-xia-shou",
+    "text": "无从下手",
+    "pinyin": "wú cóng xià shǒu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "confusion-and-doubt",
+      "dead-ends-and-desperation"
+    ],
+    "literal": "no · way to · put down · hand",
+    "natural": "no way to begin",
+    "meaning": {
+      "en": "Not knowing where or how to start dealing with a problem.",
+      "zh": "不知道从哪里开始着手处理。"
+    },
+    "equivalents": [
+      "not know where to start",
+      "at a loss how to begin"
+    ],
+    "examples": [
+      {
+        "zh": "这道题太难了，我一时无从下手。",
+        "en": "This problem is so hard that I don't know where to start."
+      },
+      {
+        "zh": "面对一团乱麻的账目，会计也无从下手。",
+        "en": "Faced with such tangled accounts, even the accountant didn't know where to begin."
+      }
+    ],
+    "usage": {
+      "en": "Usually a predicate; often follows 感到 / 觉得 / 一时.",
+      "zh": "多作谓语，常与“感到、觉得、一时”连用。"
+    },
+    "synonyms": [
+      "束手无策",
+      "一筹莫展",
+      "无计可施"
+    ],
+    "antonyms": [
+      "轻而易举",
+      "得心应手"
+    ]
+  },
+  {
+    "id": "qie-cuo-wu-yi",
+    "text": "切磋武艺",
+    "pinyin": "qiē cuō wǔ yì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "competition-and-rivalry",
+      "apprenticeship-and-learning"
+    ],
+    "literal": "to polish · to hone · martial · skill",
+    "natural": "trade martial-arts tips",
+    "meaning": {
+      "en": "To compare and exchange martial-arts skills so that both sides improve.",
+      "zh": "互相比试、交流武术技艺，共同提高。"
+    },
+    "equivalents": [
+      "compare martial-arts skills",
+      "spar and learn from each other"
+    ],
+    "examples": [
+      {
+        "zh": "两位师傅在院子里切磋武艺，围观的人很多。",
+        "en": "The two masters sparred in the courtyard, drawing a large crowd."
+      },
+      {
+        "zh": "武术节期间，各地拳师齐聚一堂切磋武艺。",
+        "en": "During the martial-arts festival, boxers from all over gathered to exchange skills."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; the friendly, learning-oriented sense of 切磋 (not a real fight).",
+      "zh": "动宾短语；“切磋”含互相学习之意，不是真打。"
+    },
+    "synonyms": [
+      "以武会友",
+      "取长补短"
+    ],
+    "antonyms": [
+      "以武欺人"
+    ]
+  },
+  {
+    "id": "qing-ke-song-li",
+    "text": "请客送礼",
+    "pinyin": "qǐng kè sòng lǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "corruption-and-injustice",
+      "inappropriate-behavior"
+    ],
+    "literal": "invite · guests · send · gifts",
+    "natural": "wining, dining and gift-giving",
+    "meaning": {
+      "en": "Hosting meals and giving presents to win favours, often improperly.",
+      "zh": "设宴款待、赠送礼物，多指为了拉关系、办私事。"
+    },
+    "equivalents": [
+      "wine and dine and offer gifts",
+      "curry favour with banquets and presents"
+    ],
+    "examples": [
+      {
+        "zh": "他靠请客送礼拉关系，终于拿到了项目。",
+        "en": "He won the project by wining, dining and giving gifts to the right people."
+      },
+      {
+        "zh": "新规明确禁止干部请客送礼。",
+        "en": "The new rules expressly forbid officials from entertaining and giving gifts."
+      }
+    ],
+    "usage": {
+      "en": "Usually negative in news and official contexts; often with 搞 or 禁止.",
+      "zh": "多含贬义，常见于新闻和公文，常与“搞、禁止”搭配。"
+    },
+    "synonyms": [
+      "行贿受贿",
+      "拉拢关系"
+    ],
+    "antonyms": [
+      "廉洁奉公",
+      "两袖清风"
+    ]
+  },
+  {
+    "id": "hui-chi-fang-qiu",
+    "text": "挥斥方遒",
+    "pinyin": "huī chì fāng qiú",
+    "kind": "chengyu",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "high-aspirations",
+      "courage-and-boldness",
+      "poems-prose"
+    ],
+    "literal": "wave and rebuke · vigorous and bold",
+    "natural": "full of vigour and spirit",
+    "meaning": {
+      "en": "Full of vigour and bold energy, with great confidence in one's ideals.",
+      "zh": "形容热情奔放，劲头正足，意气风发。"
+    },
+    "equivalents": [
+      "in high spirits",
+      "vigorous and full of fire"
+    ],
+    "examples": [
+      {
+        "zh": "同学少年，挥斥方遒，我们都有过那样的时光。",
+        "en": "Young classmates full of fire and idealism: we have all known such days."
+      },
+      {
+        "zh": "他在台上挥斥方遒，台下掌声不断。",
+        "en": "He spoke on stage with great vigour, to continuous applause."
+      }
+    ],
+    "usage": {
+      "en": "Literary; usually describes the passion of young people. Often quoted from Mao Zedong's poem 《沁园春·长沙》.",
+      "zh": "书面语，多形容青年的豪迈激情；常引自毛泽东《沁园春·长沙》。"
+    },
+    "synonyms": [
+      "意气风发",
+      "豪情壮志"
+    ],
+    "antonyms": [
+      "垂头丧气",
+      "暮气沉沉"
+    ]
+  },
+  {
+    "id": "bu-rong-fou-ren",
+    "text": "不容否认",
+    "pinyin": "bù róng fǒu rèn",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "frankness-and-candour"
+    ],
+    "literal": "not · allow · to deny",
+    "natural": "cannot be denied",
+    "meaning": {
+      "en": "So clearly true that it cannot be denied.",
+      "zh": "事实明摆着，不允许否认。"
+    },
+    "equivalents": [
+      "undeniable",
+      "it cannot be denied"
+    ],
+    "examples": [
+      {
+        "zh": "不容否认，这项政策确实改善了农民的生活。",
+        "en": "It cannot be denied that this policy really improved farmers' lives."
+      },
+      {
+        "zh": "他的贡献是不容否认的。",
+        "en": "His contribution is undeniable."
+      }
+    ],
+    "usage": {
+      "en": "Often opens a sentence as a parenthetical (不容否认，…) or is a predicate; formal.",
+      "zh": "常用于句首引出论断，或作谓语；较正式。"
+    },
+    "synonyms": [
+      "不容置疑",
+      "毋庸置疑"
+    ],
+    "antonyms": [
+      "矢口否认"
+    ]
+  },
+  {
+    "id": "fen-gong-ming-que",
+    "text": "分工明确",
+    "pinyin": "fēn gōng míng què",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "efficiency",
+      "unity-and-cooperation"
+    ],
+    "literal": "division of labour · clear",
+    "natural": "clear division of roles",
+    "meaning": {
+      "en": "Each person's duties are clearly defined.",
+      "zh": "每个人负责的工作划分得清楚明白。"
+    },
+    "equivalents": [
+      "clearly defined roles",
+      "a clear division of labour"
+    ],
+    "examples": [
+      {
+        "zh": "我们小组分工明确，进度一直很顺利。",
+        "en": "Our group has clearly defined roles, so progress has been smooth."
+      },
+      {
+        "zh": "餐厅里厨师和服务员分工明确，上菜很快。",
+        "en": "In the restaurant, chefs and waiters have clear roles, so dishes arrive quickly."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; typical in workplace and school contexts (分工明确，责任到人).",
+      "zh": "多作谓语、定语，常用于工作和学校场合。"
+    },
+    "synonyms": [
+      "各司其职",
+      "井然有序"
+    ],
+    "antonyms": [
+      "职责不清",
+      "混乱不堪"
+    ]
+  },
+  {
+    "id": "zhuang-bei-jing-liang",
+    "text": "装备精良",
+    "pinyin": "zhuāng bèi jīng liáng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "useful-tools-and-skill"
+    ],
+    "literal": "equipment · fine and excellent",
+    "natural": "well equipped",
+    "meaning": {
+      "en": "Having excellent equipment and gear.",
+      "zh": "设备、武器等质量优良齐全。"
+    },
+    "equivalents": [
+      "well equipped",
+      "top-quality gear"
+    ],
+    "examples": [
+      {
+        "zh": "这支救援队伍装备精良，训练有素。",
+        "en": "This rescue team is well equipped and well trained."
+      },
+      {
+        "zh": "对手装备精良，我们不能掉以轻心。",
+        "en": "The opponents are superbly equipped; we mustn't be complacent."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often paired with 训练有素.",
+      "zh": "作谓语、定语，常与“训练有素”连用。"
+    },
+    "synonyms": [
+      "兵强马壮",
+      "训练有素"
+    ],
+    "antonyms": [
+      "装备简陋",
+      "兵微将寡"
+    ]
+  },
+  {
+    "id": "zi-jin-xiong-hou",
+    "text": "资金雄厚",
+    "pinyin": "zī jīn xióng hòu",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance"
+    ],
+    "literal": "funds · strong and thick",
+    "natural": "well financed",
+    "meaning": {
+      "en": "Having abundant capital.",
+      "zh": "拥有大量资金，财力很强。"
+    },
+    "equivalents": [
+      "well funded",
+      "deep-pocketed"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司资金雄厚，不怕一时亏损。",
+        "en": "The company is well funded and can afford short-term losses."
+      },
+      {
+        "zh": "收购方资金雄厚，开出了很高的价格。",
+        "en": "The buyer, with deep pockets, offered a very high price."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; business and news contexts.",
+      "zh": "作谓语、定语，多用于商业和新闻。"
+    },
+    "synonyms": [
+      "财大气粗",
+      "实力雄厚"
+    ],
+    "antonyms": [
+      "囊中羞涩",
+      "捉襟见肘"
+    ]
+  },
+  {
+    "id": "xing-tai-ge-yi",
+    "text": "形态各异",
+    "pinyin": "xíng tài gè yì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "unusual-combinations",
+      "appearance"
+    ],
+    "literal": "shape · form · each · different",
+    "natural": "each of its own shape",
+    "meaning": {
+      "en": "Each differing in shape or form.",
+      "zh": "形状、姿态各不相同。"
+    },
+    "equivalents": [
+      "of all shapes and forms",
+      "each different in form"
+    ],
+    "examples": [
+      {
+        "zh": "公园里的石头形态各异，像人像兽。",
+        "en": "The rocks in the park come in all shapes, some like people, some like beasts."
+      },
+      {
+        "zh": "展厅里的陶罐形态各异，各有特色。",
+        "en": "The pots in the gallery vary in form, each with its own character."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or post-positive; describes objects, plants, animals.",
+      "zh": "多作谓语，描写物品、植物、动物等。"
+    },
+    "synonyms": [
+      "千姿百态",
+      "各不相同"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "如出一辙"
+    ]
+  },
+  {
+    "id": "xing-fu-mei-man",
+    "text": "幸福美满",
+    "pinyin": "xìng fú měi mǎn",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "美满幸福"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "family-and-home",
+      "festive-greetings"
+    ],
+    "literal": "happy · beautiful · full",
+    "natural": "happy and fulfilling",
+    "meaning": {
+      "en": "Happy and complete in every way, especially of a family or marriage.",
+      "zh": "生活幸福，家庭和睦，十分圆满。"
+    },
+    "equivalents": [
+      "blissfully happy",
+      "happy and fulfilled"
+    ],
+    "examples": [
+      {
+        "zh": "祝你们新婚快乐，生活幸福美满！",
+        "en": "Wishing you a happy wedding and a long, fulfilling life together!"
+      },
+      {
+        "zh": "他们一家人过着幸福美满的日子。",
+        "en": "The family lives a happy, contented life."
+      }
+    ],
+    "usage": {
+      "en": "Often used in good wishes (幸福美满) and as an attributive with 的 (幸福美满的家庭).",
+      "zh": "常用于祝福语，也可作定语（幸福美满的家庭）。"
+    },
+    "synonyms": [
+      "其乐融融",
+      "百年好合"
+    ],
+    "antonyms": [
+      "家破人亡",
+      "妻离子散"
+    ]
+  },
+  {
+    "id": "wen-rou-xian-shu",
+    "text": "温柔贤淑",
+    "pinyin": "wēn róu xián shū",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities"
+    ],
+    "literal": "gentle · soft · virtuous · refined",
+    "natural": "gentle and virtuous",
+    "meaning": {
+      "en": "Gentle in manner and of good character, said of a woman.",
+      "zh": "性情温和，品德良好，多形容女子。"
+    },
+    "equivalents": [
+      "gentle and virtuous",
+      "sweet-natured and refined"
+    ],
+    "examples": [
+      {
+        "zh": "她温柔贤淑，深受邻居喜爱。",
+        "en": "She is gentle and virtuous and well loved by her neighbours."
+      },
+      {
+        "zh": "母亲温柔贤淑，把家里照顾得井井有条。",
+        "en": "My mother, gentle and virtuous, kept the home in perfect order."
+      }
+    ],
+    "usage": {
+      "en": "Describes women; somewhat traditional in tone, and can sound dated if used of a modern professional.",
+      "zh": "多形容女子，带传统色彩，用于现代职业女性时略显老派。"
+    },
+    "synonyms": [
+      "贤良淑德",
+      "温文尔雅"
+    ],
+    "antonyms": [
+      "泼辣蛮横",
+      "蛮不讲理"
+    ]
+  },
+  {
+    "id": "shang-gu-yun-ji",
+    "text": "商贾云集",
+    "pinyin": "shāng gǔ yún jí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "peace-and-prosperity"
+    ],
+    "literal": "merchants · traders · clouds · gather",
+    "natural": "merchants flocking in",
+    "meaning": {
+      "en": "Merchants gathering in great numbers, showing a busy trading place.",
+      "zh": "商人像云一样聚集，形容地方商业繁盛。"
+    },
+    "equivalents": [
+      "merchants flocking together",
+      "a thriving trading hub"
+    ],
+    "examples": [
+      {
+        "zh": "古时的扬州商贾云集，十分繁华。",
+        "en": "In old times Yangzhou was a bustling place where merchants gathered in crowds."
+      },
+      {
+        "zh": "每逢集市，这里商贾云集，热闹非凡。",
+        "en": "On market days, traders flock here and the place is lively."
+      }
+    ],
+    "usage": {
+      "en": "Written style; describes a market, port or city.",
+      "zh": "书面语，描写集市、港口、城市。"
+    },
+    "synonyms": [
+      "人山人海",
+      "车水马龙"
+    ],
+    "antonyms": [
+      "门可罗雀",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "he-jia-tuan-yuan",
+    "text": "阖家团圆",
+    "pinyin": "hé jiā tuán yuán",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "全家团圆"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festivals-and-celebrations",
+      "family-and-home",
+      "festive-greetings"
+    ],
+    "literal": "whole · family · reunite · round",
+    "natural": "the whole family reunited",
+    "meaning": {
+      "en": "The whole family being together again, especially at a festival.",
+      "zh": "全家人聚在一起，多指节日团聚。"
+    },
+    "equivalents": [
+      "family reunion",
+      "the whole family together"
+    ],
+    "examples": [
+      {
+        "zh": "春节是阖家团圆的日子。",
+        "en": "The Spring Festival is a time when the whole family comes together."
+      },
+      {
+        "zh": "祝您中秋节阖家团圆，幸福安康！",
+        "en": "Wishing you a happy Mid-Autumn Festival with your whole family together!"
+      }
+    ],
+    "usage": {
+      "en": "Common in festival greetings; 合家团圆 is also written. Formal and warm.",
+      "zh": "常用于节日祝福；也写作“合家团圆”。"
+    },
+    "synonyms": [
+      "阖家欢乐"
+    ],
+    "antonyms": [
+      "妻离子散",
+      "骨肉分离"
+    ]
+  },
+  {
+    "id": "yao-yan-si-qi",
+    "text": "谣言四起",
+    "pinyin": "yáo yán sì qǐ",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "传言四起"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "public-opinion",
+      "chaos"
+    ],
+    "literal": "rumours · on all sides · arise",
+    "natural": "rumours flying everywhere",
+    "meaning": {
+      "en": "Rumours springing up everywhere.",
+      "zh": "到处都有谣言传开。"
+    },
+    "equivalents": [
+      "rumours spread everywhere",
+      "the rumour mill in full swing"
+    ],
+    "examples": [
+      {
+        "zh": "公司裁员的消息传出后，谣言四起。",
+        "en": "After the news of layoffs broke, rumours were flying everywhere."
+      },
+      {
+        "zh": "灾后谣言四起，政府及时辟谣。",
+        "en": "Rumours spread after the disaster, and the government promptly refuted them."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often follows a trigger event or 一时.",
+      "zh": "作谓语，常出现在某事件之后。"
+    },
+    "synonyms": [
+      "流言蜚语",
+      "人心惶惶"
+    ],
+    "antonyms": [
+      "风平浪静",
+      "真相大白"
+    ]
+  },
+  {
+    "id": "hao-qing-wan-zhang",
+    "text": "豪情万丈",
+    "pinyin": "háo qíng wàn zhàng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "high-aspirations",
+      "courage-and-boldness"
+    ],
+    "literal": "heroic · feeling · ten thousand · zhang",
+    "natural": "brimming with heroic spirit",
+    "meaning": {
+      "en": "Brimming with bold, lofty feeling.",
+      "zh": "豪迈的情怀十分高涨。"
+    },
+    "equivalents": [
+      "full of heroic ardour",
+      "fired with lofty enthusiasm"
+    ],
+    "examples": [
+      {
+        "zh": "站在山顶，他顿觉豪情万丈。",
+        "en": "Standing on the summit, he felt a surge of heroic spirit."
+      },
+      {
+        "zh": "毕业典礼上，同学们个个豪情万丈。",
+        "en": "At the graduation ceremony, every classmate was full of high hopes."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often after 顿觉 / 感到.",
+      "zh": "作谓语，常与“顿觉、感到”连用。"
+    },
+    "synonyms": [
+      "豪情壮志",
+      "壮志凌云",
+      "意气风发"
+    ],
+    "antonyms": [
+      "心灰意冷",
+      "垂头丧气"
+    ]
+  },
+  {
+    "id": "sheng-ri-kuai-le",
+    "text": "生日快乐",
+    "pinyin": "shēng rì kuài lè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "casual",
+    "themes": [
+      "joy-and-happiness",
+      "festive-greetings"
+    ],
+    "literal": "birthday · happy",
+    "natural": "happy birthday",
+    "meaning": {
+      "en": "A birthday greeting: happy birthday.",
+      "zh": "祝贺生日的常用祝福语。"
+    },
+    "equivalents": [
+      "happy birthday"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈，祝您生日快乐！",
+        "en": "Happy birthday, Mum!"
+      },
+      {
+        "zh": "大家一起唱了《生日快乐》歌。",
+        "en": "We all sang the 'Happy Birthday' song together."
+      }
+    ],
+    "usage": {
+      "en": "Everyday greeting, said or written on cards and messages; also the title of the song.",
+      "zh": "日常祝福语，用于口头和贺卡；也是歌名。"
+    },
+    "synonyms": [
+      "福如东海",
+      "寿比南山"
+    ],
+    "antonyms": []
+  },
+  {
+    "id": "xian-sha-pang-ren",
+    "text": "羡煞旁人",
+    "pinyin": "xiàn shà páng rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness"
+    ],
+    "literal": "envy · to death · onlookers",
+    "natural": "makes onlookers green with envy",
+    "meaning": {
+      "en": "So good that bystanders are extremely envious.",
+      "zh": "好得让旁边的人极其羡慕。"
+    },
+    "equivalents": [
+      "make others green with envy",
+      "the envy of all"
+    ],
+    "examples": [
+      {
+        "zh": "这对夫妻恩爱有加，羡煞旁人。",
+        "en": "The couple are so devoted that everyone is envious."
+      },
+      {
+        "zh": "他年纪轻轻就事业有成，羡煞旁人。",
+        "en": "Successful at such a young age, he is the envy of others."
+      }
+    ],
+    "usage": {
+      "en": "Predicate, often at the end of a clause; slightly playful tone.",
+      "zh": "多作谓语，常放在句末；语气略带戏谑。"
+    },
+    "synonyms": [
+      "令人羡慕",
+      "众人称羡"
+    ],
+    "antonyms": [
+      "令人同情",
+      "无人问津"
+    ]
+  },
+  {
+    "id": "quan-chang-fei-teng",
+    "text": "全场沸腾",
+    "pinyin": "quán chǎng fèi téng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "joy-and-happiness",
+      "games-and-sports"
+    ],
+    "literal": "whole · venue · boil",
+    "natural": "the whole crowd erupts",
+    "meaning": {
+      "en": "The whole audience at a venue becoming wildly excited.",
+      "zh": "场内所有人都激动起来，气氛热烈。"
+    },
+    "equivalents": [
+      "the crowd goes wild",
+      "the whole venue erupts"
+    ],
+    "examples": [
+      {
+        "zh": "最后一分钟的绝杀让全场沸腾。",
+        "en": "The last-minute winner made the whole stadium erupt."
+      },
+      {
+        "zh": "歌手一登台，全场沸腾。",
+        "en": "The moment the singer walked on stage, the whole hall went wild."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; sports, concerts and shows.",
+      "zh": "作谓语，多用于体育赛事、演唱会、表演。"
+    },
+    "synonyms": [
+      "欢声雷动",
+      "热血沸腾"
+    ],
+    "antonyms": [
+      "鸦雀无声",
+      "冷冷清清"
+    ]
+  },
+  {
+    "id": "qin-ru-xiong-di",
+    "text": "亲如兄弟",
+    "pinyin": "qīn rú xiōng dì",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "friendship"
+    ],
+    "literal": "close · like · brothers",
+    "natural": "as close as brothers",
+    "meaning": {
+      "en": "Very close to each other, as if brothers.",
+      "zh": "关系亲密得像亲兄弟一样。"
+    },
+    "equivalents": [
+      "as close as brothers",
+      "like brothers"
+    ],
+    "examples": [
+      {
+        "zh": "他们俩从小一起长大，亲如兄弟。",
+        "en": "The two grew up together and are as close as brothers."
+      },
+      {
+        "zh": "两家人亲如兄弟，常常互相帮忙。",
+        "en": "The two families are like brothers and often help each other."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; also used for non-relatives and even between countries; neutral register.",
+      "zh": "作谓语，也用于没有血缘关系的人，甚至国家之间。"
+    },
+    "synonyms": [
+      "情同手足",
+      "亲密无间"
+    ],
+    "antonyms": [
+      "势不两立",
+      "形同陌路"
+    ]
+  },
+  {
+    "id": "jing-shen-ke-jia",
+    "text": "精神可嘉",
+    "pinyin": "jīng shén kě jiā",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "positive-character-qualities",
+      "diligence-and-dedication"
+    ],
+    "literal": "spirit · worthy · of praise",
+    "natural": "the spirit is admirable",
+    "meaning": {
+      "en": "The attitude or spirit deserves praise (even if the result may not).",
+      "zh": "这种精神值得称赞。"
+    },
+    "equivalents": [
+      "commendable spirit",
+      "worthy of praise for the effort"
+    ],
+    "examples": [
+      {
+        "zh": "你这么晚还来帮忙，精神可嘉。",
+        "en": "It's commendable of you to come and help this late."
+      },
+      {
+        "zh": "他虽然没跑完，但参与的精神可嘉。",
+        "en": "He didn't finish the race, but his spirit in taking part is admirable."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often implies the result was not ideal; can be mildly patronising.",
+      "zh": "作谓语，常暗含结果不理想，有时略带调侃。"
+    },
+    "synonyms": [
+      "可敬可佩",
+      "难能可贵"
+    ],
+    "antonyms": [
+      "不足为训",
+      "敷衍了事"
+    ]
+  },
+  {
+    "id": "sheng-ji-ang-ran",
+    "text": "生机盎然",
+    "pinyin": "shēng jī àng rán",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes"
+    ],
+    "literal": "life · energy · overflowing · -ly",
+    "natural": "brimming with life",
+    "meaning": {
+      "en": "Full of vitality and living energy.",
+      "zh": "充满活力和生命力。"
+    },
+    "equivalents": [
+      "brimming with life",
+      "bursting with vitality"
+    ],
+    "examples": [
+      {
+        "zh": "春天到了，田野里一片生机盎然。",
+        "en": "Spring has come and the fields are brimming with life."
+      },
+      {
+        "zh": "雨后的森林生机盎然。",
+        "en": "After the rain the forest is full of life."
+      }
+    ],
+    "usage": {
+      "en": "Describes nature, cities or scenes; often as a predicate or attributive (生机盎然的春天).",
+      "zh": "描写自然、城市等景象，作谓语或定语。"
+    },
+    "synonyms": [
+      "生机勃勃",
+      "春意盎然",
+      "欣欣向荣"
+    ],
+    "antonyms": [
+      "死气沉沉",
+      "万物凋零"
+    ]
+  },
+  {
+    "id": "jia-zhi-bu-fei",
+    "text": "价值不菲",
+    "pinyin": "jià zhí bù fěi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "luxury-and-extravagance"
+    ],
+    "literal": "value · not · slight",
+    "natural": "worth a considerable sum",
+    "meaning": {
+      "en": "Worth a good deal of money.",
+      "zh": "价值很高，价钱不低。"
+    },
+    "equivalents": [
+      "worth a lot",
+      "of considerable value"
+    ],
+    "examples": [
+      {
+        "zh": "这幅画价值不菲，一定要小心保管。",
+        "en": "This painting is worth a great deal, so keep it safe."
+      },
+      {
+        "zh": "她戴的那条项链价值不菲。",
+        "en": "The necklace she is wearing is worth a fortune."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; often said of antiques, jewellery, gifts.",
+      "zh": "作谓语或定语，多说古董、珠宝、礼品。"
+    },
+    "synonyms": [
+      "价值连城",
+      "价格高昂"
+    ],
+    "antonyms": [
+      "一文不值"
+    ]
+  },
+  {
+    "id": "feng-cai-yi-jiu",
+    "text": "风采依旧",
+    "pinyin": "fēng cǎi yī jiù",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "comebacks-and-renewal"
+    ],
+    "literal": "bearing · brilliance · as before",
+    "natural": "as dashing as ever",
+    "meaning": {
+      "en": "Still showing the same elegance and brilliance as before.",
+      "zh": "风度神采还和从前一样。"
+    },
+    "equivalents": [
+      "as dashing as ever",
+      "still as charismatic as before"
+    ],
+    "examples": [
+      {
+        "zh": "多年不见，老教授风采依旧。",
+        "en": "After many years, the old professor is as dignified as ever."
+      },
+      {
+        "zh": "这位球星年过四十，风采依旧。",
+        "en": "Though past forty, the football star has lost none of his flair."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; used for famous people and long-unseen acquaintances.",
+      "zh": "作谓语，多用于名人或久别重逢的人。"
+    },
+    "synonyms": [
+      "风采不减",
+      "风韵犹存"
+    ],
+    "antonyms": [
+      "风采不再",
+      "今非昔比"
+    ]
+  },
+  {
+    "id": "xiao-mo-shi-guang",
+    "text": "消磨时光",
+    "pinyin": "xiāo mó shí guāng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "relaxation-and-rest",
+      "fleeting-time"
+    ],
+    "literal": "wear away · time",
+    "natural": "while away the time",
+    "meaning": {
+      "en": "To pass time in a leisurely or idle way.",
+      "zh": "用某种活动打发空闲时间。"
+    },
+    "equivalents": [
+      "while away the time",
+      "kill time"
+    ],
+    "examples": [
+      {
+        "zh": "退休后，他靠下棋消磨时光。",
+        "en": "After retiring he whiles away the time playing chess."
+      },
+      {
+        "zh": "候机时我们看书消磨时光。",
+        "en": "We read to pass the time while waiting for the flight."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; can suggest aimlessness; compare 虚度光阴, which is clearly negative.",
+      "zh": "动宾短语，略带无所事事之意；比“虚度光阴”语气轻。"
+    },
+    "synonyms": [
+      "打发时间",
+      "虚度光阴"
+    ],
+    "antonyms": [
+      "争分夺秒",
+      "分秒必争"
+    ]
+  },
+  {
+    "id": "ling-ren-dan-you",
+    "text": "令人担忧",
+    "pinyin": "lìng rén dān yōu",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "psychological-pressure"
+    ],
+    "literal": "make · people · worry",
+    "natural": "worrying",
+    "meaning": {
+      "en": "Causing worry or concern.",
+      "zh": "让人感到担心。"
+    },
+    "equivalents": [
+      "worrying",
+      "a cause for concern"
+    ],
+    "examples": [
+      {
+        "zh": "这个地区的空气质量令人担忧。",
+        "en": "The air quality in this region is worrying."
+      },
+      {
+        "zh": "他的身体状况令人担忧。",
+        "en": "His health is a cause for concern."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; very common in news and reports.",
+      "zh": "作谓语或定语，新闻报道中很常见。"
+    },
+    "synonyms": [
+      "忧心忡忡",
+      "不容乐观"
+    ],
+    "antonyms": [
+      "令人放心",
+      "高枕无忧",
+      "不足为虑"
+    ]
+  },
+  {
+    "id": "bu-ke-qing-di",
+    "text": "不可轻敌",
+    "pinyin": "bù kě qīng dí",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "mistakes-and-correction"
+    ],
+    "literal": "not · may · underestimate · enemy",
+    "natural": "must not underestimate the opponent",
+    "meaning": {
+      "en": "One must not underestimate one's opponent.",
+      "zh": "不能小看对手。"
+    },
+    "equivalents": [
+      "don't underestimate the opposition",
+      "never take a rival lightly"
+    ],
+    "examples": [
+      {
+        "zh": "对方排名靠后，但我们不可轻敌。",
+        "en": "The other side are low in the rankings, but we mustn't underestimate them."
+      },
+      {
+        "zh": "教练再三叮嘱：比赛不可轻敌。",
+        "en": "The coach repeatedly warned: never take an opponent lightly."
+      }
+    ],
+    "usage": {
+      "en": "A caution or slogan; works as a standalone sentence or after 切记 / 千万.",
+      "zh": "多作告诫语，可独立成句，也常接在“切记、千万”后。"
+    },
+    "synonyms": [
+      "谨慎对敌",
+      "掉以轻心"
+    ],
+    "antonyms": [
+      "轻敌冒进"
+    ]
+  },
+  {
+    "id": "si-ji-chang-qing",
+    "text": "四季常青",
+    "pinyin": "sì jì cháng qīng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "plant-and-natural-world",
+      "seasonal-changes"
+    ],
+    "literal": "four · seasons · always · green",
+    "natural": "evergreen all year round",
+    "meaning": {
+      "en": "Staying green in every season.",
+      "zh": "一年四季都保持绿色。"
+    },
+    "equivalents": [
+      "evergreen all year",
+      "green in every season"
+    ],
+    "examples": [
+      {
+        "zh": "这种松树四季常青，很适合做绿化。",
+        "en": "This pine stays green all year and is ideal for landscaping."
+      },
+      {
+        "zh": "南方的山林四季常青。",
+        "en": "The southern forests stay green through all four seasons."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; describes plants; also used figuratively as a wish.",
+      "zh": "作谓语、定语，描写植物，也可比喻长盛不衰。"
+    },
+    "synonyms": [
+      "郁郁葱葱",
+      "万古长青"
+    ],
+    "antonyms": [
+      "草木枯黄",
+      "万木凋零"
+    ]
+  },
+  {
+    "id": "shi-qi-gao-ang",
+    "text": "士气高昂",
+    "pinyin": "shì qì gāo áng",
+    "variants": [
+      "士气高涨"
+    ],
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "military-strategy-and-victory",
+      "unity-and-cooperation"
+    ],
+    "literal": "morale · high · soaring",
+    "natural": "morale is high",
+    "meaning": {
+      "en": "Having high morale and fighting spirit.",
+      "zh": "集体的斗志旺盛。"
+    },
+    "equivalents": [
+      "morale is high",
+      "in high spirits"
+    ],
+    "examples": [
+      {
+        "zh": "连胜之后，全队士气高昂。",
+        "en": "After a winning streak, the whole team's morale is high."
+      },
+      {
+        "zh": "战士们士气高昂，准备出发。",
+        "en": "The soldiers, in high spirits, were ready to set out."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; for armies, teams and staff.",
+      "zh": "作谓语，用于军队、球队、员工等集体。"
+    },
+    "synonyms": [
+      "士气大振",
+      "斗志昂扬"
+    ],
+    "antonyms": [
+      "士气低落",
+      "一蹶不振"
+    ]
+  },
+  {
+    "id": "he-jia-an-kang",
+    "text": "阖家安康",
+    "pinyin": "hé jiā ān kāng",
+    "variants": [
+      "合家安康"
+    ],
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "festive-greetings",
+      "family-and-home"
+    ],
+    "literal": "whole · family · safe · healthy",
+    "natural": "health and peace to your whole family",
+    "meaning": {
+      "en": "A wish: the whole family safe and healthy.",
+      "zh": "祝愿全家平安健康。"
+    },
+    "equivalents": [
+      "good health to the whole family",
+      "peace and health for your family"
+    ],
+    "examples": [
+      {
+        "zh": "新年到了，祝您阖家安康，万事如意！",
+        "en": "Happy New Year; wishing your whole family health and every success!"
+      },
+      {
+        "zh": "愿大家阖家安康。",
+        "en": "May all your families be safe and well."
+      }
+    ],
+    "usage": {
+      "en": "Mostly a greeting formula in cards and messages; also written 合家安康.",
+      "zh": "多用于贺卡、短信的祝福语；也写作“合家安康”。"
+    },
+    "synonyms": [
+      "阖家幸福",
+      "身体健康"
+    ],
+    "antonyms": [
+      "家破人亡"
+    ]
+  },
+  {
+    "id": "xing-guang-yi-yi",
+    "text": "星光熠熠",
+    "pinyin": "xīng guāng yì yì",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "weather-and-sky",
+      "outstanding-success-and-fame"
+    ],
+    "literal": "starlight · shining · shining",
+    "natural": "starlit and glittering",
+    "meaning": {
+      "en": "Brightly sparkling with stars, literally or of a glittering crowd of celebrities.",
+      "zh": "星光明亮闪耀；也比喻明星云集、光彩夺目。"
+    },
+    "equivalents": [
+      "glittering with stars",
+      "star-studded"
+    ],
+    "examples": [
+      {
+        "zh": "夜空星光熠熠，让人心旷神怡。",
+        "en": "The night sky glittered with stars, soothing and refreshing."
+      },
+      {
+        "zh": "颁奖典礼上星光熠熠，名人云集。",
+        "en": "The awards ceremony was star-studded, with celebrities everywhere."
+      }
+    ],
+    "usage": {
+      "en": "Literary; both literal (night sky) and figurative (red-carpet events).",
+      "zh": "书面语，既指星空，也比喻明星荟萃的场合。"
+    },
+    "synonyms": [
+      "星光灿烂",
+      "群星荟萃"
+    ],
+    "antonyms": [
+      "黯淡无光",
+      "星光黯淡"
+    ]
+  },
+  {
+    "id": "chao-ye-zhen-dong",
+    "text": "朝野震动",
+    "pinyin": "cháo yě zhèn dòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "negative",
+    "register": "formal",
+    "themes": [
+      "news-and-officialese",
+      "public-opinion"
+    ],
+    "literal": "court · country · shaken",
+    "natural": "shakes government and public alike",
+    "meaning": {
+      "en": "An event shocks both the government and the public.",
+      "zh": "事件使政府和民间都受到很大震动。"
+    },
+    "equivalents": [
+      "sends shockwaves through the nation",
+      "shakes government and public alike"
+    ],
+    "examples": [
+      {
+        "zh": "这起贪腐案曝光后，朝野震动。",
+        "en": "When the corruption case came to light, it shook the nation, from the government to ordinary people."
+      },
+      {
+        "zh": "地震的消息传来，朝野震动。",
+        "en": "The news of the earthquake shocked the whole country."
+      }
+    ],
+    "usage": {
+      "en": "News style; used with big events; 朝 = government, 野 = the people.",
+      "zh": "新闻用语，用于重大事件；“朝”指政府，“野”指民间。"
+    },
+    "synonyms": [
+      "举国震惊",
+      "轰动一时"
+    ],
+    "antonyms": [
+      "无人问津",
+      "波澜不惊"
+    ]
+  },
+  {
+    "id": "zhuang-yan-su-mu",
+    "text": "庄严肃穆",
+    "pinyin": "zhuāng yán sù mù",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "肃穆庄严"
+    ],
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "composure-and-calm"
+    ],
+    "literal": "solemn · stately · reverent · still",
+    "natural": "solemn and reverent",
+    "meaning": {
+      "en": "Dignified, serious and quiet, fitting a solemn occasion.",
+      "zh": "庄重严肃，气氛静穆。"
+    },
+    "equivalents": [
+      "solemn and dignified",
+      "grave and reverent"
+    ],
+    "examples": [
+      {
+        "zh": "烈士陵园里庄严肃穆，人们默默献花。",
+        "en": "The martyrs' cemetery was solemn and silent as people quietly laid flowers."
+      },
+      {
+        "zh": "升旗仪式庄严肃穆。",
+        "en": "The flag-raising ceremony was solemn and dignified."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; describes ceremonies, places, atmosphere.",
+      "zh": "作谓语、定语，描写仪式、场所、气氛。"
+    },
+    "synonyms": [
+      "庄重严肃"
+    ],
+    "antonyms": [
+      "嬉皮笑脸",
+      "喧闹嘈杂"
+    ]
+  },
+  {
+    "id": "hu-xiang-fu-chi",
+    "text": "互相扶持",
+    "pinyin": "hù xiāng fú chí",
+    "kind": "phrase",
+    "frequency": 2,
+    "variants": [
+      "相互扶持"
+    ],
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unity-and-cooperation",
+      "kindness-and-generosity"
+    ],
+    "literal": "each other · mutually · support · hold up",
+    "natural": "support one another",
+    "meaning": {
+      "en": "To support and help each other through difficulties.",
+      "zh": "彼此帮助，共渡难关。"
+    },
+    "equivalents": [
+      "support each other",
+      "stand by one another"
+    ],
+    "examples": [
+      {
+        "zh": "这对老夫妻几十年来互相扶持，从不抱怨。",
+        "en": "The elderly couple have supported each other for decades without complaint."
+      },
+      {
+        "zh": "邻居们互相扶持，一起渡过了难关。",
+        "en": "The neighbours helped one another and got through the hard times together."
+      }
+    ],
+    "usage": {
+      "en": "Verb phrase; 相互扶持 is equally common.",
+      "zh": "动词短语；“相互扶持”同样常用。"
+    },
+    "synonyms": [
+      "同舟共济",
+      "相濡以沫",
+      "守望相助"
+    ],
+    "antonyms": [
+      "勾心斗角",
+      "各自为政"
+    ]
+  },
+  {
+    "id": "nan-yi-fu-zhong",
+    "text": "难以服众",
+    "pinyin": "nán yǐ fú zhòng",
+    "kind": "phrase",
+    "frequency": 3,
+    "variants": [
+      "难以服人"
+    ],
+    "sentiment": "negative",
+    "register": "neutral",
+    "themes": [
+      "leadership-and-authority",
+      "public-opinion"
+    ],
+    "literal": "hard · to · convince · the masses",
+    "natural": "unable to win people over",
+    "meaning": {
+      "en": "Unable to win the approval or obedience of the majority.",
+      "zh": "很难让大家信服。"
+    },
+    "equivalents": [
+      "fail to win general acceptance",
+      "lack the confidence of the group"
+    ],
+    "examples": [
+      {
+        "zh": "这个处理结果不公平，难以服众。",
+        "en": "This ruling is unfair and will not convince people."
+      },
+      {
+        "zh": "没有业绩的领导难以服众。",
+        "en": "A leader with no track record will struggle to win respect."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; typically about decisions, rules, leaders.",
+      "zh": "作谓语，多说决定、规则、领导者。"
+    },
+    "synonyms": [
+      "众口难调",
+      "难孚众望"
+    ],
+    "antonyms": [
+      "心悦诚服",
+      "众望所归"
+    ]
+  },
+  {
+    "id": "ge-ju-te-se",
+    "text": "各具特色",
+    "pinyin": "gè jù tè sè",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "unusual-combinations"
+    ],
+    "literal": "each · has · distinctive features",
+    "natural": "each with its own character",
+    "meaning": {
+      "en": "Each having its own distinctive features.",
+      "zh": "各自都有自己的特点。"
+    },
+    "equivalents": [
+      "each with its own character",
+      "all distinctive in their own way"
+    ],
+    "examples": [
+      {
+        "zh": "这几座古镇各具特色，值得一游。",
+        "en": "These ancient towns each have their own character and are worth a visit."
+      },
+      {
+        "zh": "各地的小吃各具特色。",
+        "en": "The snacks of each region have distinct flavours."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or after a plural subject; common in travel and promotion writing.",
+      "zh": "作谓语，主语多为复数，常见于旅游、宣传文字。"
+    },
+    "synonyms": [
+      "别具一格",
+      "各有千秋"
+    ],
+    "antonyms": [
+      "千篇一律",
+      "大同小异"
+    ]
+  },
+  {
+    "id": "wei-shi-wei-wan",
+    "text": "为时未晚",
+    "pinyin": "wéi shí wèi wǎn",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "comebacks-and-renewal",
+      "mistakes-and-correction"
+    ],
+    "literal": "as · time · not yet · late",
+    "natural": "it is not too late",
+    "meaning": {
+      "en": "Not yet too late to act or put things right.",
+      "zh": "还来得及，不算晚。"
+    },
+    "equivalents": [
+      "not too late",
+      "there is still time"
+    ],
+    "examples": [
+      {
+        "zh": "现在开始学习，为时未晚。",
+        "en": "It's not too late to start learning now."
+      },
+      {
+        "zh": "发现问题及时补救，为时未晚。",
+        "en": "Spot the problem and fix it in time: it isn't too late."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; often as an encouraging comment (现在开始还为时未晚). Opposite of 为时已晚.",
+      "zh": "作谓语，常用于鼓励；与“为时已晚”相反。"
+    },
+    "synonyms": [
+      "亡羊补牢",
+      "悬崖勒马"
+    ],
+    "antonyms": [
+      "追悔莫及",
+      "事已至此"
+    ]
+  },
+  {
+    "id": "yi-xin-wei-min",
+    "text": "一心为民",
+    "pinyin": "yī xīn wèi mín",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "formal",
+    "themes": [
+      "good-governance",
+      "loyalty-and-righteousness"
+    ],
+    "literal": "one · heart · for · the people",
+    "natural": "devoted to serving the people",
+    "meaning": {
+      "en": "Wholeheartedly working for the people's welfare.",
+      "zh": "全心全意为人民谋利益。"
+    },
+    "equivalents": [
+      "devoted to the people",
+      "serve the people wholeheartedly"
+    ],
+    "examples": [
+      {
+        "zh": "这位县长一心为民，深受百姓爱戴。",
+        "en": "The county head, devoted to the people, is dearly loved by them."
+      },
+      {
+        "zh": "他一辈子一心为民，从不谋私。",
+        "en": "All his life he worked for the people and never for private gain."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; praise of officials, in news and speeches.",
+      "zh": "作谓语、定语，称赞官员，见于新闻和讲话。"
+    },
+    "synonyms": [
+      "全心全意",
+      "廉洁奉公"
+    ],
+    "antonyms": [
+      "祸国殃民",
+      "鱼肉百姓"
+    ]
+  },
+  {
+    "id": "qi-shi-bi-ren",
+    "text": "气势逼人",
+    "pinyin": "qì shì bī rén",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "neutral",
+    "themes": [
+      "outstanding-character",
+      "courage-and-boldness"
+    ],
+    "literal": "aura · momentum · presses on · people",
+    "natural": "imposing and overpowering",
+    "meaning": {
+      "en": "Having a forceful presence that overwhelms others.",
+      "zh": "气派和声势强盛，让人感到压迫。"
+    },
+    "equivalents": [
+      "imposing",
+      "with overpowering presence"
+    ],
+    "examples": [
+      {
+        "zh": "对方球队气势逼人，开场就连进两球。",
+        "en": "The opposing team was overwhelming and scored twice at the start."
+      },
+      {
+        "zh": "他往台上一站，气势逼人。",
+        "en": "As soon as he stood on stage, he had an overpowering presence."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; slightly less hostile than 咄咄逼人.",
+      "zh": "作谓语；语气比“咄咄逼人”略轻。"
+    },
+    "synonyms": [
+      "咄咄逼人",
+      "气势汹汹",
+      "威风凛凛"
+    ],
+    "antonyms": [
+      "软弱无力",
+      "毫无气势"
+    ]
+  },
+  {
+    "id": "huan-jing-you-mei-2",
+    "text": "环境优美",
+    "pinyin": "huán jìng yōu měi",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "landscapes"
+    ],
+    "literal": "environment · fine · beautiful",
+    "natural": "a lovely setting",
+    "meaning": {
+      "en": "Having a pleasant, beautiful setting.",
+      "zh": "周围的环境美丽宜人。"
+    },
+    "equivalents": [
+      "beautiful surroundings",
+      "a lovely environment"
+    ],
+    "examples": [
+      {
+        "zh": "这所大学环境优美，学习氛围也好。",
+        "en": "The university has beautiful surroundings and a good learning atmosphere."
+      },
+      {
+        "zh": "小区环境优美，空气清新。",
+        "en": "The residential area is pretty, with fresh air."
+      }
+    ],
+    "usage": {
+      "en": "Predicate or attributive; common in adverts for housing, schools and hotels.",
+      "zh": "作谓语、定语，常见于楼盘、学校、酒店的宣传。"
+    },
+    "synonyms": [
+      "风景秀丽",
+      "山清水秀"
+    ],
+    "antonyms": [
+      "环境恶劣",
+      "脏乱不堪"
+    ]
+  },
+  {
+    "id": "xue-mai-xiang-lian",
+    "text": "血脉相连",
+    "pinyin": "xuè mài xiāng lián",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "family-and-home",
+      "unity-and-cooperation"
+    ],
+    "literal": "blood · veins · mutually · connected",
+    "natural": "bound by blood ties",
+    "meaning": {
+      "en": "Linked by blood or by a deep bond as close as blood.",
+      "zh": "有血缘关系；也比喻关系如血肉般紧密。"
+    },
+    "equivalents": [
+      "bound by blood",
+      "closely connected"
+    ],
+    "examples": [
+      {
+        "zh": "海峡两岸的同胞血脉相连。",
+        "en": "Compatriots on both sides of the strait are bound by blood."
+      },
+      {
+        "zh": "母子血脉相连，哪怕分开也能心灵感应。",
+        "en": "Mother and child share a blood bond that even separation cannot break."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; literal for family, figurative for nations or peoples.",
+      "zh": "作谓语；可指亲人，也可比喻民族、国家之间。"
+    },
+    "synonyms": [
+      "血浓于水",
+      "水乳交融"
+    ],
+    "antonyms": [
+      "形同陌路",
+      "毫无关联"
+    ]
+  },
+  {
+    "id": "yu-hou-chu-qing",
+    "text": "雨后初晴",
+    "pinyin": "yǔ hòu chū qíng",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "literary",
+    "themes": [
+      "weather-and-sky",
+      "landscapes"
+    ],
+    "literal": "rain · after · just · clear",
+    "natural": "just cleared after rain",
+    "meaning": {
+      "en": "The sky having just cleared after rain.",
+      "zh": "雨刚停，天刚放晴。"
+    },
+    "equivalents": [
+      "the sky clearing after rain",
+      "fresh after the rain"
+    ],
+    "examples": [
+      {
+        "zh": "雨后初晴，空气里满是泥土的清香。",
+        "en": "The sky had just cleared after the rain, and the air smelled of fresh earth."
+      },
+      {
+        "zh": "雨后初晴，山间升起一道彩虹。",
+        "en": "As the rain gave way to sun, a rainbow rose over the hills."
+      }
+    ],
+    "usage": {
+      "en": "Descriptive, often sentence-initial in scenery writing.",
+      "zh": "描写景物，常放在句首。"
+    },
+    "synonyms": [
+      "雨过天晴",
+      "云开雾散"
+    ],
+    "antonyms": [
+      "阴雨连绵",
+      "乌云密布"
+    ]
+  },
+  {
+    "id": "kai-kuo-shi-ye",
+    "text": "开阔视野",
+    "pinyin": "kāi kuò shì yě",
+    "kind": "phrase",
+    "frequency": 2,
+    "sentiment": "positive",
+    "register": "neutral",
+    "themes": [
+      "apprenticeship-and-learning",
+      "journeys-and-exploration"
+    ],
+    "literal": "broaden · field of vision",
+    "natural": "broaden one's horizons",
+    "meaning": {
+      "en": "To widen one's view and knowledge by seeing more.",
+      "zh": "增长见识，扩大眼界。"
+    },
+    "equivalents": [
+      "broaden one's horizons",
+      "widen one's outlook"
+    ],
+    "examples": [
+      {
+        "zh": "出国交流能让学生开阔视野。",
+        "en": "Study abroad lets students broaden their horizons."
+      },
+      {
+        "zh": "多读书、多旅行，可以开阔视野。",
+        "en": "Reading widely and travelling a lot broaden your outlook."
+      }
+    ],
+    "usage": {
+      "en": "Verb-object phrase; 拓宽视野 is a close variant of the idea.",
+      "zh": "动宾短语；“拓宽视野”意思相近。"
+    },
+    "synonyms": [
+      "大开眼界",
+      "增长见识"
+    ],
+    "antonyms": [
+      "孤陋寡闻",
+      "目光短浅"
+    ]
+  },
+  {
+    "id": "bu-zu-wei-lu",
+    "text": "不足为虑",
+    "pinyin": "bù zú wéi lǜ",
+    "kind": "phrase",
+    "frequency": 3,
+    "sentiment": "neutral",
+    "register": "formal",
+    "themes": [
+      "composure-and-calm"
+    ],
+    "literal": "not · worth · as · worry",
+    "natural": "nothing to worry about",
+    "meaning": {
+      "en": "Not serious enough to worry about.",
+      "zh": "不值得担心。"
+    },
+    "equivalents": [
+      "nothing to worry about",
+      "not worth worrying over"
+    ],
+    "examples": [
+      {
+        "zh": "这点小困难不足为虑。",
+        "en": "This small difficulty is nothing to worry about."
+      },
+      {
+        "zh": "专家表示，病情已稳定，不足为虑。",
+        "en": "Experts said the condition has stabilised and there is no cause for concern."
+      }
+    ],
+    "usage": {
+      "en": "Predicate; formal, often reassurance in reports.",
+      "zh": "作谓语，较正式，常用于安抚性的说法。"
+    },
+    "synonyms": [
+      "无关紧要",
+      "不足挂齿"
+    ],
+    "antonyms": [
+      "令人担忧",
+      "后患无穷"
+    ]
+  }
+]

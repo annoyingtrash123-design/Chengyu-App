@@ -14,9 +14,11 @@ export const CHANGELOG: Release[] = [
     date: "2026-11-10",
     en: [
       "About 210 more four-character phrases from the dictionary's explanations and usage notes (e.g. 待人和善, 彼此默契, 虚心纳谏, 宾客云集, 开拓进取, 无论如何), and about 80 more written forms that now find their entry (生活简朴 → 生活俭朴, 处境困难 → 处境艰难).",
+      "About 130 more from example sentences and origin stories (e.g. 清者自清, 事已至此, 弥足珍贵, 精彩纷呈, 儿孙满堂, 阖家团圆), plus about 60 more written forms.",
     ],
     zh: [
       "再增约 210 个释义和用法说明中常见的四字词语（如“待人和善”“彼此默契”“虚心纳谏”“宾客云集”“开拓进取”“无论如何”），另有约 80 个异写形式可直接查到对应词条（如“生活简朴”→“生活俭朴”）。",
+      "又从例句和出处故事中新增约 130 个四字词语（如“清者自清”“事已至此”“弥足珍贵”“精彩纷呈”“儿孙满堂”“阖家团圆”），另增约 60 个异写形式。",
     ],
   },
   {
