@@ -225,11 +225,12 @@
     "id": "sheng-huo-jian-pu",
     "text": "生活俭朴",
     "pinyin": "shēng huó jiǎn pǔ",
+    "variants": [
+      "生活节俭",
+      "生活简朴"
+    ],
     "kind": "phrase",
     "frequency": 3,
-    "variants": [
-      "生活节俭"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -405,6 +406,9 @@
     "id": "qi-gai-hao-mai",
     "text": "气概豪迈",
     "pinyin": "qì gài háo mài",
+    "variants": [
+      "气势豪迈"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -450,6 +454,9 @@
     "id": "jing-shen-zhen-zuo",
     "text": "精神振作",
     "pinyin": "jīng shén zhèn zuò",
+    "variants": [
+      "精神振奋"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -584,12 +591,14 @@
     "id": "bu-wei-jian-xian",
     "text": "不畏艰险",
     "pinyin": "bù wèi jiān xiǎn",
-    "kind": "phrase",
-    "frequency": 3,
     "variants": [
       "不避艰险",
-      "不畏艰难"
+      "不畏艰难",
+      "不畏困难",
+      "不怕困难"
     ],
+    "kind": "phrase",
+    "frequency": 3,
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -633,6 +642,9 @@
     "id": "nei-rong-kong-dong",
     "text": "内容空洞",
     "pinyin": "nèi róng kōng dòng",
+    "variants": [
+      "内容空泛"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",

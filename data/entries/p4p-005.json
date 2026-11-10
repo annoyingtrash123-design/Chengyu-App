@@ -899,6 +899,9 @@
     "id": "chu-jing-jian-nan",
     "text": "处境艰难",
     "pinyin": "chǔ jìng jiān nán",
+    "variants": [
+      "处境困难"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -989,11 +992,12 @@
     "id": "yi-zhi-jian-ding",
     "text": "意志坚定",
     "pinyin": "yì zhì jiān dìng",
+    "variants": [
+      "意志坚强",
+      "意志坚决"
+    ],
     "kind": "phrase",
     "frequency": 3,
-    "variants": [
-      "意志坚强"
-    ],
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
@@ -1350,6 +1354,9 @@
     "id": "zhi-xiang-yuan-da",
     "text": "志向远大",
     "pinyin": "zhì xiàng yuǎn dà",
+    "variants": [
+      "远大志向"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -1438,6 +1445,9 @@
     "id": "qi-fen-re-lie",
     "text": "气氛热烈",
     "pinyin": "qì fēn rè liè",
+    "variants": [
+      "气氛热闹"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "positive",
@@ -1527,6 +1537,9 @@
     "id": "bu-zhi-xiu-chi",
     "text": "不知羞耻",
     "pinyin": "bù zhī xiū chǐ",
+    "variants": [
+      "不顾羞耻"
+    ],
     "kind": "phrase",
     "frequency": 2,
     "sentiment": "negative",
@@ -1659,11 +1672,12 @@
     "id": "bu-pa-xi-sheng",
     "text": "不怕牺牲",
     "pinyin": "bù pà xī shēng",
+    "variants": [
+      "不惧牺牲",
+      "不惜牺牲"
+    ],
     "kind": "phrase",
     "frequency": 3,
-    "variants": [
-      "不惧牺牲"
-    ],
     "sentiment": "positive",
     "register": "formal",
     "themes": [
@@ -1968,6 +1982,9 @@
     "id": "zong-qing-xiang-le",
     "text": "纵情享乐",
     "pinyin": "zòng qíng xiǎng lè",
+    "variants": [
+      "尽情享乐"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",

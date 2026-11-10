@@ -91,11 +91,12 @@
     "id": "sheng-huo-jian-ku",
     "text": "生活艰苦",
     "pinyin": "shēng huó jiān kǔ",
+    "variants": [
+      "生活清苦",
+      "生活艰难"
+    ],
     "kind": "phrase",
     "frequency": 3,
-    "variants": [
-      "生活清苦"
-    ],
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
@@ -966,6 +967,9 @@
     "id": "wei-ren-zheng-zhi",
     "text": "为人正直",
     "pinyin": "wéi rén zhèng zhí",
+    "variants": [
+      "为人正派"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -1009,6 +1013,9 @@
     "id": "wei-ren-lao-shi",
     "text": "为人老实",
     "pinyin": "wéi rén lǎo shi",
+    "variants": [
+      "做人老实"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",

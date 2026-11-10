@@ -228,6 +228,9 @@
     "id": "bian-zao-yao-yan",
     "text": "编造谣言",
     "pinyin": "biān zào yáo yán",
+    "variants": [
+      "制造谣言"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -359,6 +362,9 @@
     "id": "bu-gu-da-ju",
     "text": "不顾大局",
     "pinyin": "bù gù dà jú",
+    "variants": [
+      "不顾全局"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -578,6 +584,10 @@
     "id": "qing-yi-shen-hou",
     "text": "情谊深厚",
     "pinyin": "qíng yì shēn hòu",
+    "variants": [
+      "情意深厚",
+      "交情深厚"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -1512,6 +1522,9 @@
     "id": "ji-qi-gong-fen",
     "text": "激起公愤",
     "pinyin": "jī qǐ gōng fèn",
+    "variants": [
+      "引起公愤"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",

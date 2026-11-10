@@ -450,6 +450,10 @@
     "id": "xing-shi-wei-ji",
     "text": "形势危急",
     "pinyin": "xíng shì wēi jí",
+    "variants": [
+      "局势危急",
+      "情势危急"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -674,6 +678,9 @@
     "id": "zhen-zuo-jing-shen",
     "text": "振作精神",
     "pinyin": "zhèn zuò jīng shén",
+    "variants": [
+      "振奋精神"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
@@ -940,6 +947,9 @@
     "id": "jian-shi-xia-zhai",
     "text": "见识狭窄",
     "pinyin": "jiàn shi xiá zhǎi",
+    "variants": [
+      "见识狭隘"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -1475,6 +1485,9 @@
     "id": "ju-shi-hun-luan",
     "text": "局势混乱",
     "pinyin": "jú shì hùn luàn",
+    "variants": [
+      "局面混乱"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "negative",
@@ -1831,6 +1844,9 @@
     "id": "qing-xu-ji-ang",
     "text": "情绪激昂",
     "pinyin": "qíng xù jī áng",
+    "variants": [
+      "情绪激动"
+    ],
     "kind": "phrase",
     "frequency": 3,
     "sentiment": "positive",
