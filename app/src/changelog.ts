@@ -10,6 +10,22 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.22",
+    date: "2026-11-11",
+    en: [
+      "Consistency review of all synonym and antonym links: every link now goes both ways (about 2,700 one-way links completed), and no expression is listed as both a synonym and an antonym of another.",
+      "Warning proverbs are linked by what they advise: 欲速则不达 is a synonym of 循序渐进 and an antonym of 拔苗助长, not a synonym of both. About 70 such chains were corrected.",
+      "A synonym with the opposite tone now carries a small 褒 or 贬 mark (e.g. 巧舌如簧 under 能言善辩). About 40 pairs that were not really synonyms were unlinked.",
+      "About 20 more label corrections.",
+    ],
+    zh: [
+      "全面核对近义、反义关联：所有关联均为双向（补全约 2,700 条单向关联），不再有同时列为近义和反义的情况。",
+      "警示类俗语按其主张来关联：“欲速则不达”与“循序渐进”近义、与“拔苗助长”反义，不再同时是两者的近义。共改正约 70 处。",
+      "褒贬色彩相反的近义词加上“褒”“贬”小标记（如“能言善辩”下的“巧舌如簧”）；约 40 对并非真正近义的已取消关联。",
+      "另修正约 20 处标签。",
+    ],
+  },
+  {
     version: "0.21",
     date: "2026-11-10",
     en: [

@@ -68,6 +68,7 @@ export interface Card {
 export interface Link {
   text: string;
   id: string | null;
+  sentiment: Sentiment | null;
 }
 
 export interface EntryDetail {

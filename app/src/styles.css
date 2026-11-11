@@ -527,3 +527,8 @@ body.kb .search-bar.bottom { bottom: 0; padding-bottom: 8px; }
 .daily-track { display: flex; align-items: flex-start; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; margin: 0 -16px; transition: height 0.25s ease; }
 .daily-track::-webkit-scrollbar { display: none; }
 .daily-slide { flex: 0 0 100%; min-width: 0; display: flex; flex-direction: column; gap: 12px; scroll-snap-align: start; scroll-snap-stop: always; padding: 0 16px; box-sizing: border-box; }
+
+/* Synonym of a different tone: small 褒 / 贬 mark on the chip. */
+.tone { display: inline-block; margin-left: 5px; font-size: 11px; line-height: 1; padding: 2px 3px; border-radius: 4px; vertical-align: 1px; font-weight: 600; }
+.tone-positive { color: #1e9e6a; background: color-mix(in srgb, #1e9e6a 14%, transparent); }
+.tone-negative { color: var(--accent); background: var(--accent-soft); }

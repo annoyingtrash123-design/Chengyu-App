@@ -52,6 +52,8 @@ pub struct Summary<'a> {
 struct Link {
     text: String,
     id: Option<String>,
+    /// Tone of the linked entry (praise / criticism / neutral), so a synonym of a different tone can be marked.
+    sentiment: Option<Sentiment>,
 }
 
 /// Which cards to study.
@@ -127,8 +129,8 @@ impl App {
                     return None;
                 }
                 let link = match target {
-                    Some(e) => Link { text: e.text.clone(), id: Some(e.id.clone()) },
-                    None => Link { text: t.clone(), id: None },
+                    Some(e) => Link { text: e.text.clone(), id: Some(e.id.clone()), sentiment: Some(e.sentiment) },
+                    None => Link { text: t.clone(), id: None, sentiment: None },
                 };
                 seen.insert(link.text.clone()).then_some(link)
             })

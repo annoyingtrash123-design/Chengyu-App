@@ -98,6 +98,11 @@ register (casual / neutral / formal / literary) is a separate field.
   The headword is the most common, standard form; the others go in `variants`.
   - Searching a variant (characters, or pinyin when it reuses the main form's characters) finds the entry,
     and a synonym/antonym written in a variant form links to the main entry.
+  - **Synonyms and antonyms follow the meaning, not the topic.** A warning proverb is a synonym of the advice
+    it gives and an antonym of the fault it warns against (欲速则不达 = 循序渐进 ≠ 拔苗助长). Two entries
+    that are antonyms of each other must never share a synonym unless that synonym is neutral about both
+    sides (近朱者赤，近墨者黑). A synonym of the opposite tone (能言善辩 / 巧舌如簧) is allowed when the sense
+    really is the same; the app marks it 褒 / 贬.
   - Never list an entry's own variant as its synonym or antonym, and never list two variant forms of
     the same expression in one synonym/antonym list — pick the main form.
   - Count as variants: other characters for the same word (蒂/柢, 缭/撩), recognised word-order swaps

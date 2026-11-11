@@ -56,7 +56,12 @@ export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
   const bi = (b: { zh: string; en: string }) =>
     h("div", { class: "bilingual" }, h("p", { class: "zh" }, linked(b.zh, [e.id])), showEn ? h("p", { class: "en" }, b.en) : null);
 
-  const links = (title: string, items: Link[]) =>
+  // A synonym that praises where this entry criticises (or the reverse) gets a small 褒 / 贬 mark.
+  const tone = (l: Link, mark: boolean) =>
+    mark && l.sentiment && l.sentiment !== "neutral" && e.sentiment !== "neutral" && l.sentiment !== e.sentiment
+      ? h("span", { class: `tone tone-${l.sentiment}`, title: en() ? (l.sentiment === "positive" ? "Praise" : "Criticism") : "" }, l.sentiment === "positive" ? "褒" : "贬")
+      : null;
+  const links = (title: string, items: Link[], mark = false) =>
     items.length
       ? h(
           "div",
@@ -64,7 +69,7 @@ export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
           h("span", { class: "links-title" }, title),
           items.map((l) =>
             l.id
-              ? h("a", { class: "chip link", href: `#/entry/${l.id}` }, l.text)
+              ? h("a", { class: "chip link", href: `#/entry/${l.id}` }, l.text, tone(l, mark))
               : h("span", { class: "chip muted-chip", title: en() ? "Not in the dictionary yet" : "暂未收录" }, l.text),
           ),
         )
@@ -158,7 +163,7 @@ export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
       : null,
     h("section", { class: "card" }, h("h3", null, en() ? "用法 Usage" : "用法"), bi(e.usage)),
     e.synonyms.length || e.antonyms.length
-      ? h("section", { class: "card" }, links(en() ? "近义 Synonyms" : "近义", d.synonyms), links(en() ? "反义 Antonyms" : "反义", d.antonyms))
+      ? h("section", { class: "card" }, links(en() ? "近义 Synonyms" : "近义", d.synonyms, true), links(en() ? "反义 Antonyms" : "反义", d.antonyms))
       : null,
     h(
       "section",
