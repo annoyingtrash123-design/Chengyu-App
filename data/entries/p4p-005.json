@@ -88,138 +88,6 @@
     ]
   },
   {
-    "id": "zhi-xiang-xiang-tong",
-    "text": "志向相同",
-    "pinyin": "zhì xiàng xiāng tóng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation",
-      "friendship"
-    ],
-    "literal": "ambition · direction · mutually · same",
-    "natural": "sharing the same aims",
-    "meaning": {
-      "en": "Having the same goals and aspirations.",
-      "zh": "理想和追求一样。"
-    },
-    "equivalents": [
-      "like-minded",
-      "sharing the same goals"
-    ],
-    "examples": [
-      {
-        "zh": "他们志向相同，毕业后一起创办了公司。",
-        "en": "They shared the same ambitions and set up a company together after graduating."
-      },
-      {
-        "zh": "志向相同的人更容易成为朋友。",
-        "en": "People with the same aspirations find it easier to become friends."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; often explains why people work or stay together.",
-      "zh": "作谓语或定语，常用来说明人们走到一起的原因。"
-    },
-    "synonyms": [
-      "志同道合",
-      "意气相投"
-    ],
-    "antonyms": [
-      "道不同"
-    ]
-  },
-  {
-    "id": "yi-jian-yi-zhi",
-    "text": "意见一致",
-    "pinyin": "yì jiàn yī zhì",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation"
-    ],
-    "literal": "opinion · view · one · agree",
-    "natural": "views in agreement",
-    "meaning": {
-      "en": "Holding the same view; being in agreement.",
-      "zh": "看法相同，没有分歧。"
-    },
-    "equivalents": [
-      "in agreement",
-      "of one mind"
-    ],
-    "examples": [
-      {
-        "zh": "经过讨论，大家意见一致，决定下周出发。",
-        "en": "After discussion everyone agreed and decided to set off next week."
-      },
-      {
-        "zh": "两位专家的意见一致，认为方案可行。",
-        "en": "The two experts were of one mind that the plan is workable."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; common in meetings and reports (双方意见一致).",
-      "zh": "多作谓语，常见于会议和报告，如“双方意见一致”。"
-    },
-    "synonyms": [
-      "众口一词",
-      "不谋而合"
-    ],
-    "antonyms": [
-      "意见分歧",
-      "各执己见"
-    ]
-  },
-  {
-    "id": "hao-wu-ban-fa",
-    "text": "毫无办法",
-    "pinyin": "háo wú bàn fǎ",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "dead-ends-and-desperation"
-    ],
-    "literal": "not a bit · have none · way · method",
-    "natural": "without any way out",
-    "meaning": {
-      "en": "To have no way at all of dealing with a situation.",
-      "zh": "一点办法也没有。"
-    },
-    "equivalents": [
-      "at one's wits' end",
-      "completely helpless"
-    ],
-    "examples": [
-      {
-        "zh": "面对突然的停电，我们毫无办法。",
-        "en": "Faced with the sudden power cut, we were completely helpless."
-      },
-      {
-        "zh": "孩子不肯吃饭，妈妈毫无办法。",
-        "en": "The child refused to eat and his mother didn't know what to do."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; often follows 对／拿 … (对他毫无办法).",
-      "zh": "作谓语，常说“对／拿……毫无办法”。"
-    },
-    "synonyms": [
-      "束手无策",
-      "无可奈何"
-    ],
-    "antonyms": [
-      "想方设法",
-      "千方百计"
-    ]
-  },
-  {
     "id": "yang-guang-ming-mei",
     "text": "阳光明媚",
     "pinyin": "yáng guāng míng mèi",
@@ -769,51 +637,6 @@
     "antonyms": []
   },
   {
-    "id": "guan-xi-mi-qie",
-    "text": "关系密切",
-    "pinyin": "guān xì mì qiè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "friendship",
-      "unity-and-cooperation"
-    ],
-    "literal": "relationship · tie · close · intimate",
-    "natural": "closely connected",
-    "meaning": {
-      "en": "Being closely connected, whether as people or as matters.",
-      "zh": "彼此联系紧密，往来多，感情或关联深。"
-    },
-    "equivalents": [
-      "closely connected",
-      "on close terms"
-    ],
-    "examples": [
-      {
-        "zh": "两国经贸关系密切。",
-        "en": "The two countries have close trade ties."
-      },
-      {
-        "zh": "睡眠质量与健康关系密切。",
-        "en": "Sleep quality is closely related to health."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; can describe people or abstract matters; 与……关系密切.",
-      "zh": "作谓语或定语，可指人，也可指事物，常说“与……关系密切”。"
-    },
-    "synonyms": [
-      "息息相关",
-      "亲密无间"
-    ],
-    "antonyms": [
-      "关系疏远",
-      "素不相识"
-    ]
-  },
-  {
     "id": "jing-shen-bao-man",
     "text": "精神饱满",
     "pinyin": "jīng shén bǎo mǎn",
@@ -950,51 +773,6 @@
     "antonyms": [
       "一帆风顺",
       "顺风顺水"
-    ]
-  },
-  {
-    "id": "guan-xi-qin-mi",
-    "text": "关系亲密",
-    "pinyin": "guān xì qīn mì",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "friendship",
-      "parenting-and-family"
-    ],
-    "literal": "relationship · tie · close · intimate",
-    "natural": "on very close terms",
-    "meaning": {
-      "en": "Being on close, warm terms with someone.",
-      "zh": "彼此感情好，来往密切。"
-    },
-    "equivalents": [
-      "on close terms",
-      "close"
-    ],
-    "examples": [
-      {
-        "zh": "他们俩关系亲密，像亲兄弟一样。",
-        "en": "The two are very close, like brothers."
-      },
-      {
-        "zh": "父子关系亲密的家庭，孩子更有安全感。",
-        "en": "Children feel more secure in families where father and son are close."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; about people (unlike 关系密切, which also suits matters).",
-      "zh": "作谓语或定语，多指人与人之间（“关系密切”还可指事物）。"
-    },
-    "synonyms": [
-      "亲密无间",
-      "情深义重"
-    ],
-    "antonyms": [
-      "关系疏远",
-      "貌合神离"
     ]
   },
   {
@@ -1137,51 +915,6 @@
     "antonyms": [
       "精疲力竭",
       "萎靡不振"
-    ]
-  },
-  {
-    "id": "jing-yan-feng-fu",
-    "text": "经验丰富",
-    "pinyin": "jīng yàn fēng fù",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "experience-and-old-age"
-    ],
-    "literal": "experience · test · rich · abundant",
-    "natural": "highly experienced",
-    "meaning": {
-      "en": "Having a great deal of practical experience.",
-      "zh": "有很多实际经历和经验。"
-    },
-    "equivalents": [
-      "highly experienced",
-      "seasoned"
-    ],
-    "examples": [
-      {
-        "zh": "这位医生经验丰富，很快找到了病因。",
-        "en": "The doctor is highly experienced and soon found the cause."
-      },
-      {
-        "zh": "公司想招一位经验丰富的会计。",
-        "en": "The firm wants to hire an experienced accountant."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive (经验丰富的…); common in job ads.",
-      "zh": "作谓语或定语，如“经验丰富的……”，招聘广告中常见。"
-    },
-    "synonyms": [
-      "阅历丰富",
-      "老成持重",
-      "老马识途"
-    ],
-    "antonyms": [
-      "初出茅庐",
-      "毫无经验"
     ]
   },
   {
@@ -1414,50 +1147,6 @@
     "antonyms": [
       "胸无大志",
       "安于现状"
-    ]
-  },
-  {
-    "id": "gai-zheng-cuo-wu",
-    "text": "改正错误",
-    "pinyin": "gǎi zhèng cuò wù",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "mistakes-and-correction"
-    ],
-    "literal": "change · correct · mistake · error",
-    "natural": "correct one's mistakes",
-    "meaning": {
-      "en": "To put right a mistake or fault.",
-      "zh": "把做错的事、说错的话纠正过来。"
-    },
-    "equivalents": [
-      "correct a mistake",
-      "mend one's ways"
-    ],
-    "examples": [
-      {
-        "zh": "知道错了就要及时改正错误。",
-        "en": "If you know you are wrong, correct the mistake promptly."
-      },
-      {
-        "zh": "他承认了问题，并保证改正错误。",
-        "en": "He admitted the problem and promised to put it right."
-      }
-    ],
-    "usage": {
-      "en": "Verb–object phrase; often after 勇于／及时／认真.",
-      "zh": "动宾短语，前面常有“勇于、及时、认真”等。"
-    },
-    "synonyms": [
-      "知错就改",
-      "迷途知返"
-    ],
-    "antonyms": [
-      "执迷不悟",
-      "一错再错"
     ]
   },
   {
@@ -1913,48 +1602,6 @@
     ]
   },
   {
-    "id": "jing-zheng-ji-lie",
-    "text": "竞争激烈",
-    "pinyin": "jìng zhēng jī liè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "competition-and-rivalry"
-    ],
-    "literal": "compete · contend · fierce · intense",
-    "natural": "fierce competition",
-    "meaning": {
-      "en": "Competition that is intense, with many people vying for a few places.",
-      "zh": "争夺很厉害，对手很多。"
-    },
-    "equivalents": [
-      "fiercely competitive",
-      "cut-throat"
-    ],
-    "examples": [
-      {
-        "zh": "这个行业竞争激烈，利润越来越薄。",
-        "en": "Competition in this industry is fierce, and margins keep getting thinner."
-      },
-      {
-        "zh": "名校录取竞争激烈。",
-        "en": "Admission to top schools is highly competitive."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; common in business, exams and sports news.",
-      "zh": "作谓语或定语，商业、考试和体育报道中常见。"
-    },
-    "synonyms": [
-      "你争我夺"
-    ],
-    "antonyms": [
-      "无人问津"
-    ]
-  },
-  {
     "id": "qi-shi-fei-fan",
     "text": "气势非凡",
     "pinyin": "qì shì fēi fán",
@@ -2176,8 +1823,7 @@
     },
     "synonyms": [
       "饱经风霜",
-      "见多识广",
-      "经验丰富"
+      "见多识广"
     ],
     "antonyms": [
       "初出茅庐",

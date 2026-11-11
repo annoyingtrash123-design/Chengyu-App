@@ -693,50 +693,6 @@
     ]
   },
   {
-    "id": "tai-du-yan-su",
-    "text": "态度严肃",
-    "pinyin": "tài dù yán sù",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "attitude-humble-vs-arrogant"
-    ],
-    "literal": "attitude · stern",
-    "natural": "serious in manner",
-    "meaning": {
-      "en": "Having a grave, serious manner; not joking or casual.",
-      "zh": "神情和做法认真庄重，不随便、不开玩笑。"
-    },
-    "equivalents": [
-      "a serious manner",
-      "grave in attitude"
-    ],
-    "examples": [
-      {
-        "zh": "老师态度严肃地批评了迟到的同学。",
-        "en": "The teacher criticised the latecomers with a stern manner."
-      },
-      {
-        "zh": "谈到安全问题，他的态度严肃起来。",
-        "en": "When it came to safety, his manner turned serious."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or adverbial (态度严肃地…); not necessarily negative.",
-      "zh": "作谓语或状语（态度严肃地……），不一定含贬义。"
-    },
-    "synonyms": [
-      "一本正经",
-      "不苟言笑"
-    ],
-    "antonyms": [
-      "嬉皮笑脸",
-      "态度随便"
-    ]
-  },
-  {
     "id": "gong-jing-jin-shen",
     "text": "恭敬谨慎",
     "pinyin": "gōng jìng jǐn shèn",
@@ -1320,7 +1276,6 @@
     },
     "synonyms": [
       "一丝不苟",
-      "认真负责",
       "一本正经"
     ],
     "antonyms": [
@@ -1417,50 +1372,6 @@
     "antonyms": [
       "漏洞百出",
       "考虑不周"
-    ]
-  },
-  {
-    "id": "jiao-tong-bian-li",
-    "text": "交通便利",
-    "pinyin": "jiāo tōng biàn lì",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "journeys-and-exploration",
-      "peace-and-prosperity"
-    ],
-    "literal": "transport · convenient",
-    "natural": "well connected",
-    "meaning": {
-      "en": "Easy to get to and from, with good transport links.",
-      "zh": "来往方便，交通条件好。"
-    },
-    "equivalents": [
-      "convenient transport",
-      "well connected"
-    ],
-    "examples": [
-      {
-        "zh": "这个小区交通便利，步行五分钟就到地铁站。",
-        "en": "The estate has convenient transport, five minutes' walk from the metro."
-      },
-      {
-        "zh": "交通便利是吸引外资的重要条件。",
-        "en": "Good transport links are a key draw for foreign investment."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; very common in property adverts and city descriptions.",
-      "zh": "作谓语或定语，常见于房产广告和城市介绍。"
-    },
-    "synonyms": [
-      "四通八达"
-    ],
-    "antonyms": [
-      "交通不便",
-      "偏僻闭塞"
     ]
   },
   {
@@ -1914,55 +1825,6 @@
     "antonyms": [
       "孤陋寡闻",
       "闭目塞听"
-    ]
-  },
-  {
-    "id": "xue-xi-ke-ku",
-    "text": "学习刻苦",
-    "pinyin": "xué xí kè kǔ",
-    "variants": [
-      "刻苦学习"
-    ],
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "diligence-and-dedication",
-      "reading-and-study"
-    ],
-    "literal": "study · hard-working",
-    "natural": "studies hard",
-    "meaning": {
-      "en": "Studying with great effort and perseverance.",
-      "zh": "学习用功，肯吃苦。"
-    },
-    "equivalents": [
-      "study hard",
-      "diligent in one's studies"
-    ],
-    "examples": [
-      {
-        "zh": "他学习刻苦，每天晚上都读书到深夜。",
-        "en": "He studies hard and reads late into the night every evening."
-      },
-      {
-        "zh": "正是因为学习刻苦，她才考上了理想的大学。",
-        "en": "It was only by studying so hard that she got into her dream university."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; typical in school reports and testimonials.",
-      "zh": "作谓语或定语，常见于学校评语、先进事迹中。"
-    },
-    "synonyms": [
-      "废寝忘食",
-      "悬梁刺股",
-      "孜孜不倦"
-    ],
-    "antonyms": [
-      "不求进取",
-      "好逸恶劳"
     ]
   },
   {

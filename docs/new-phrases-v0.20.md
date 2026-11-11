@@ -1,26 +1,22 @@
-# New four-character phrases (v0.20–0.21)
+# New four-character phrases (v0.20–0.22)
 
-904 plain 四字词语 added 10 Nov 2026, taken from the dictionary's own explanations, usage notes, example sentences and origin stories. ★★ = very common, the rest ★. Other written forms are in brackets.
-Tell Claude any you'd like removed.
+826 plain 四字词语 added Nov 2026 from the dictionary's own explanations, usage notes, example sentences and origin stories (78 plain ones removed again on 11 Nov). ★★ = very common, the rest ★. Other written forms in brackets.
 
-## 品德性格 Character & looks (268)
+## 品德性格 Character & looks (252)
 
 - **不怕吃苦** bù pà chī kǔ ★★ — Willing to endure hard conditions and hard work.
 - **不知羞耻** bù zhī xiū chǐ ★★ (also 不顾羞耻) — Having no sense of shame; behaving disgracefully without embarrassment.
 - **诚信为本** chéng xìn wéi běn ★★ — Honesty and trustworthiness are the foundation.
-- **充满自信** chōng mǎn zì xìn ★★ — Being full of confidence in oneself.
 - **费尽心思** fèi jìn xīn sī ★★ (also 用尽心思) — To use up a great deal of thought and effort on something.
 - **毫不畏惧** háo bù wèi jù ★★ — Not afraid at all.
 - **毫不犹豫** háo bù yóu yù ★★ — Acting immediately, with no hesitation at all.
 - **毫无保留** háo wú bǎo liú ★★ — Giving or telling everything, keeping nothing back.
-- **毫无道理** háo wú dào lǐ ★★ — Having no sense or justification at all.
 - **坚持到底** jiān chí dào dǐ ★★ — Keeping at something right to the end.
 - **精神饱满** jīng shén bǎo mǎn ★★ — Looking full of vigour and spirit.
 - **立场坚定** lì chǎng jiān dìng ★★ — Holding a clear position that does not waver under pressure.
 - **令人敬佩** lìng rén jìng pèi ★★ (also 令人敬仰) — So impressive that it earns people's respect and admiration.
 - **令人佩服** lìng rén pèi fú ★★ — Making others feel admiration and respect.
 - **默默奉献** mò mò fèng xiàn ★★ — To contribute selflessly, without seeking recognition or reward.
-- **努力上进** nǔ lì shàng jìn ★★ — Working hard to better oneself.
 - **勤奋好学** qín fèn hào xué ★★ — Working hard and keen to learn.
 - **勤俭节约** qín jiǎn jié yuē ★★ — Working hard and spending carefully, wasting nothing.
 - **说话算数** shuō huà suàn shù ★★ — To stand by what one has said and do it.
@@ -29,17 +25,13 @@ Tell Claude any you'd like removed.
 - **头脑冷静** tóu nǎo lěng jìng ★★ — Staying calm and thinking clearly when things get heated.
 - **下定决心** xià dìng jué xīn ★★ — To make a firm decision and be determined to carry it out.
 - **相貌平平** xiàng mào píng píng ★★ — Having an ordinary appearance, neither handsome nor ugly.
-- **学习刻苦** xué xí kè kǔ ★★ (also 刻苦学习) — Studying with great effort and perseverance.
 - **性格开朗** xìng gé kāi lǎng ★★ — Having an outgoing, cheerful and easygoing disposition.
-- **辛勤劳动** xīn qín láo dòng ★★ (also 辛勤劳作) — Working hard and diligently, putting in sweat and effort.
 - **严肃认真** yán sù rèn zhēn ★★ — Serious and conscientious in approach; taking things earnestly.
-- **一动不动** yī dòng bù dòng ★★ — Not moving at all; staying perfectly still.
 - **永不放弃** yǒng bù fàng qì ★★ — To keep trying and never abandon one's aim.
 - **庄严肃穆** zhuāng yán sù mù ★★ (also 肃穆庄严) — Dignified, serious and quiet, fitting a solemn occasion.
 - **照顾周到** zhào gù zhōu dào ★★ — Looking after someone with attention to every detail.
 - **不当回事** bù dàng huí shì — To treat something as unimportant and pay no heed to it.
 - **不打折扣** bù dǎ zhé kòu — To carry something out in full, not watering it down.
-- **不负责任** bù fù zé rèn — Failing to take responsibility for what one does or has promised.
 - **不顾大局** bù gù dà jú (also 不顾全局) — Putting one's own interest before the overall situation.
 - **不顾风雨** bù gù fēng yǔ (also 不避风雨) — Setting off or carrying on whatever the weather.
 - **不顾性命** bù gù xìng mìng — Disregarding one's own life; risking everything.
@@ -117,7 +109,6 @@ Tell Claude any you'd like removed.
 - **毫不懈怠** háo bù xiè dài — Not slacking off in the least.
 - **毫不做作** háo bù zuò zuò — Without any pretence or affectation; entirely natural.
 - **毫无波澜** háo wú bō lán — Without any ripple of change or emotion; completely calm, sometimes to the point of dullness.
-- **毫无感情** háo wú gǎn qíng — Showing no feeling or warmth at all.
 - **毫无惧色** háo wú jù sè — Showing no sign of fear.
 - **毫无愧色** háo wú kuì sè — Showing no sign of embarrassment about something one ought to be ashamed of.
 - **毫无人性** háo wú rén xìng — Completely lacking human feeling or compassion; savagely cruel.
@@ -126,7 +117,6 @@ Tell Claude any you'd like removed.
 - **横行乡里** héng xíng xiāng lǐ — To bully and lord it over the people of one's home area.
 - **见识狭窄** jiàn shi xiá zhǎi (also 见识狭隘) — Having limited experience and a narrow outlook.
 - **竭尽忠诚** jié jìn zhōng chéng — To devote one's entire loyalty to a person or cause.
-- **节约开支** jié yuē kāi zhī — To reduce spending and save money.
 - **坚守节操** jiān shǒu jié cāo — To hold firmly to one's moral principles and integrity, whatever the pressure.
 - **坚守信约** jiān shǒu xìn yuē — To keep a promise or agreement firmly, whatever the cost.
 - **奸诈狡猾** jiān zhà jiǎo huá (also 狡猾奸诈) — Deceitful and crafty, ready to cheat others.
@@ -181,7 +171,6 @@ Tell Claude any you'd like removed.
 - **清白正直** qīng bái zhèng zhí — Morally spotless and honest, with nothing shameful in one's record.
 - **清清白白** qīng qīng bái bái — Entirely honest and free of any stain or wrongdoing.
 - **清者自清** qīng zhě zì qīng — A person of clean conduct will be seen to be clean without arguing the case.
-- **认真负责** rèn zhēn fù zé — Taking work seriously and answering for the results.
 - **人见人爱** rén jiàn rén ài — So charming that everyone who sees them likes them.
 - **人品端正** rén pǐn duān zhèng — Having honest, decent moral character.
 - **人品高洁** rén pǐn gāo jié — Having a lofty, pure character.
@@ -201,12 +190,7 @@ Tell Claude any you'd like removed.
 - **手段毒辣** shǒu duàn dú là — Using cruel and merciless means to reach one's ends.
 - **手段狠毒** shǒu duàn hěn dú — Using cruel and vicious means to get one's way.
 - **色彩鲜明** sè cǎi xiān míng — Having vivid, strongly contrasting colours; also, of a style or stance, having a clear distinctive character.
-- **色彩鲜艳** sè cǎi xiān yàn — Having bright, vivid colours.
 - **色彩艳丽** sè cǎi yàn lì — Rich, vivid and eye-catching in colour.
-- **态度冷淡** tài dù lěng dàn — Showing little interest, warmth or concern toward someone or something.
-- **态度冷静** tài dù lěng jìng — To face things calmly, without getting emotional.
-- **态度温和** tài dù wēn hé — Having a mild, gentle manner towards others.
-- **态度严肃** tài dù yán sù — Having a grave, serious manner; not joking or casual.
 - **态度傲慢** tài dù ào màn — Treating others with arrogance and disdain.
 - **谈吐不凡** tán tǔ bù fán — Speaking in a way that shows education, wit and refinement.
 - **谈吐风趣** tán tǔ fēng qù — Speaking in a humorous, lively and charming way.
@@ -216,7 +200,6 @@ Tell Claude any you'd like removed.
 - **为官清廉** wéi guān qīng lián — Holding office honestly, refusing bribes and personal gain.
 - **为人诚实** wéi rén chéng shí — Being an honest, truthful person in dealing with others.
 - **为人老实** wéi rén lǎo shi (also 做人老实) — To be an honest, plain-dealing person, sometimes to the point of being easily taken advantage of.
-- **为人善良** wéi rén shàn liáng — To be a kind-hearted person.
 - **为人正直** wéi rén zhèng zhí (also 为人正派) — To be a person of honest and upright character.
 - **无私奉献** wú sī fèng xiàn — Giving one's time and effort to others or to a cause with no thought of reward.
 - **无私付出** wú sī fù chū — To give time, effort or money with no thought of self-interest.
@@ -269,32 +252,28 @@ Tell Claude any you'd like removed.
 - **做事果断** zuò shì guǒ duàn — To act with resolve rather than hesitating.
 - **做事谨慎** zuò shì jǐn shèn — Handling matters with care and caution.
 - **做事马虎** zuò shì mǎ hu — Doing things carelessly, without attention to detail.
-- **做事踏实** zuò shì tà shi — Going about work in a steady, practical, reliable way.
+- **做事踏实** zuò shì tā shi — Going about work in a steady, practical, reliable way.
 - **爱占便宜** ài zhàn pián yi — Fond of gaining small advantages at others' expense.
 - **傲慢自大** ào màn zì dà — Looking down on others and thinking highly of oneself.
 - **安贫知足** ān pín zhī zú — To be at ease with a modest life and satisfied with what one has.
 
-## 情感心理 Emotions & mind (101)
+## 情感心理 Emotions & mind (93)
 
 - **充满朝气** chōng mǎn zhāo qì ★★ — Full of energy and vitality, like the morning.
-- **大发脾气** dà fā pí qi ★★ — To lose one's temper and shout or storm.
 - **毫无生气** háo wú shēng qì ★★ — Completely lacking life, energy or spirit.
 - **乐趣无穷** lè qù wú qióng ★★ — Full of endless enjoyment.
 - **令人担忧** lìng rén dān yōu ★★ — Causing worry or concern.
 - **令人难忘** lìng rén nán wàng ★★ — Leaving such a deep impression that one cannot forget it.
 - **模糊不清** mó hú bù qīng ★★ — Blurred and hard to make out; not clear.
 - **难以控制** nán yǐ kòng zhì ★★ — Difficult to restrain or keep in check.
-- **气氛紧张** qì fēn jǐn zhāng ★★ — An atmosphere in which people feel nervous or on edge.
 - **气氛热烈** qì fēn rè liè ★★ (also 气氛热闹) — A warm, lively atmosphere in which people take part eagerly.
 - **情绪低落** qíng xù dī luò ★★ — Being in low spirits.
 - **情绪高涨** qíng xù gāo zhǎng ★★ — Spirits and enthusiasm running high.
-- **生日快乐** shēng rì kuài lè ★★ — A birthday greeting: happy birthday.
 - **失去理智** shī qù lǐ zhì ★★ — To lose one's capacity for clear, calm judgement.
 - **条理清晰** tiáo lǐ qīng xī ★★ (also 条理清楚、条理明晰) — Well organised, so that each point follows logically and is easy to follow.
 - **头脑灵活** tóu nǎo líng huó ★★ — Having a nimble mind that adapts easily and finds ways round problems.
 - **幸福美满** xìng fú měi mǎn ★★ (also 美满幸福) — Happy and complete in every way, especially of a family or marriage.
 - **心情舒畅** xīn qíng shū chàng ★★ — Feeling relaxed, cheerful and free of worry.
-- **心情愉快** xīn qíng yú kuài ★★ — Feeling cheerful and happy.
 - **避世隐居** bì shì yǐn jū (also 遁世隐居) — To leave society behind and live in seclusion.
 - **不拘礼法** bù jū lǐ fǎ — Not bound by etiquette and formal rules.
 - **不拘礼节** bù jū lǐ jié — Not binding oneself to formal manners; informal.
@@ -309,7 +288,6 @@ Tell Claude any you'd like removed.
 - **仓皇逃走** cāng huáng táo zǒu (also 仓皇逃命) — To run away in a panic and in a hurry.
 - **洞察世事** dòng chá shì shì — To see clearly how the world and human affairs really work.
 - **打起精神** dǎ qǐ jīng shen — To rouse oneself and brace up when tired or down.
-- **放声大哭** fàng shēng dà kū — To cry out loud without holding back.
 - **分析透彻** fēn xī tòu chè — Examined so thoroughly that the heart of the matter is laid bare.
 - **反应敏捷** fǎn yìng mǐn jié — Reacting quickly and correctly to what happens.
 - **孤苦无依** gū kǔ wú yī (also 孤单无依) — Lonely and wretched, with no family or friend to rely on.
@@ -349,7 +327,6 @@ Tell Claude any you'd like removed.
 - **容易冲动** róng yì chōng dòng — Easily swayed by feeling and prone to act rashly.
 - **神秘莫测** shén mì mò cè — Mysterious and hard to figure out.
 - **神色暗淡** shén sè àn dàn — A face lacking light and spirit; looking dejected.
-- **受到委屈** shòu dào wěi qū — To be treated unfairly and have to swallow the grievance.
 - **生怕出错** shēng pà chū cuò — So afraid of making a mistake that one is on edge.
 - **失去常态** shī qù cháng tài — To behave abnormally because of strong emotion or shock.
 - **丧失理智** sàng shī lǐ zhì — To lose the ability to think calmly and judge sensibly.
@@ -361,8 +338,6 @@ Tell Claude any you'd like removed.
 - **消息灵通** xiāo xi líng tōng — Having good sources of information and hearing news early.
 - **小中见大** xiǎo zhōng jiàn dà — To glimpse a larger truth through a small detail.
 - **心情浮躁** xīn qíng fú zào — In a restless, impatient state of mind that cannot settle.
-- **心情激动** xīn qíng jī dòng — Feeling stirred up and emotional, whether from joy, anger or other strong feeling.
-- **心情紧张** xīn qíng jǐn zhāng — Feeling anxious or on edge.
 - **意气昂扬** yì qì áng yáng — Full of confidence and fighting spirit.
 - **意志消沉** yì zhì xiāo chén — Having one's drive and determination worn away; despondent.
 - **疑点重重** yí diǎn chóng chóng (also 疑云重重) — Having many points that are suspicious or unexplained.
@@ -378,27 +353,23 @@ Tell Claude any you'd like removed.
 - **自由奔放** zì yóu bēn fàng — Free, spirited and unconstrained in style or temperament.
 - **懊悔不已** ào huǐ bù yǐ — Feeling deep, lasting regret over something done.
 
-## 成败得失 Success & failure (68)
+## 成败得失 Success & failure (62)
 
-- **表现出色** biǎo xiàn chū sè ★★ — To perform exceptionally well, in competition, at work or at school.
 - **不断创新** bù duàn chuàng xīn ★★ — To keep coming up with new ideas, methods and products.
 - **断断续续** duàn duàn xù xù ★★ — Stopping and starting; not continuous.
 - **大胆创新** dà dǎn chuàng xīn ★★ — To innovate boldly, trying new ideas without fear.
 - **分工明确** fēn gōng míng què ★★ — Each person's duties are clearly defined.
 - **毫不费力** háo bù fèi lì ★★ — Without taking any effort; done with ease.
-- **后果严重** hòu guǒ yán zhòng ★★ — The consequences will be grave.
 - **精彩纷呈** jīng cǎi fēn chéng ★★ — Full of one wonderful moment or item after another.
 - **开拓进取** kāi tuò jìn qǔ ★★ — To explore new areas boldly and keep striving forward.
 - **连续不断** lián xù bù duàn ★★ — Going on continuously, without a break.
 - **令人惊叹** lìng rén jīng tàn ★★ — Making people marvel in amazement.
 - **令人震撼** lìng rén zhèn hàn ★★ — So impressive that it shakes the viewer deeply.
-- **内容丰富** nèi róng fēng fù ★★ — Having plenty of varied content.
 - **前景广阔** qián jǐng guǎng kuò ★★ — Having wide, promising prospects for the future.
 - **前途光明** qián tú guāng míng ★★ — Having a very promising future.
 - **人人称赞** rén rén chēng zàn ★★ (also 人人称颂) — Admired and commended by everybody.
 - **事到如今** shì dào rú jīn ★★ — Now that things have reached this point.
 - **稳步前进** wěn bù qián jìn ★★ — To move forward at a steady pace without hasty leaps.
-- **想尽办法** xiǎng jìn bàn fǎ ★★ — To try every means one can think of.
 - **远近闻名** yuǎn jìn wén míng ★★ — Known to people both near and far.
 - **影响深远** yǐng xiǎng shēn yuǎn ★★ — Having a deep and lasting effect.
 - **勇于创新** yǒng yú chuàng xīn ★★ — Having the courage to try new ideas and new ways of doing things.
@@ -420,7 +391,6 @@ Tell Claude any you'd like removed.
 - **功盖千秋** gōng gài qiān qiū — Having accomplishments that stand above those of every age.
 - **改革创新** gǎi gé chuàng xīn — Changing established practice and creating new things.
 - **获此殊荣** huò cǐ shū róng — Receiving such a rare and special honour.
-- **毫无收获** háo wú shōu huò — Gaining nothing from one's efforts.
 - **毫无遗漏** háo wú yí lòu — Complete, with nothing missed.
 - **后发先至** hòu fā xiān zhì — To start later than others but still get there first.
 - **后果自负** hòu guǒ zì fù — You alone will bear the consequences of what you do.
@@ -434,7 +404,6 @@ Tell Claude any you'd like removed.
 - **气势非凡** qì shì fēi fán — Having a striking, commanding air or force.
 - **气势宏大** qì shì hóng dà — Impressive in scale and spirit; having a commanding presence.
 - **取其精华** qǔ qí jīng huá — To take the best part and leave the rest.
-- **事业顺利** shì yè shùn lì — Having one's career or undertaking go smoothly.
 - **声威大振** shēng wēi dà zhèn — Reputation and influence greatly increased, usually after a notable success.
 - **生意红火** shēng yi hóng huǒ — Trade that is thriving with plenty of customers.
 - **无名之辈** wú míng zhī bèi — An unknown, unimportant person.
@@ -449,76 +418,10 @@ Tell Claude any you'd like removed.
 - **再创佳绩** zài chuàng jiā jì — To achieve good results once more.
 - **自寻死路** zì xún sǐ lù — To bring about one's own ruin by one's own actions.
 
-## 人际关系 Relationships (59)
-
-- **不可分割** bù kě fēn gē ★★ — Cannot be separated or divided; forming a single whole.
-- **保重身体** bǎo zhòng shēn tǐ ★★ (also 珍重身体) — A caring wish that someone will look after their health.
-- **夫妻和睦** fū qī hé mù ★★ — A husband and wife who get on well together.
-- **关系密切** guān xì mì qiè ★★ — Being closely connected, whether as people or as matters.
-- **互相扶持** hù xiāng fú chí ★★ (also 相互扶持) — To support and help each other through difficulties.
-- **互相配合** hù xiāng pèi hé ★★ — To coordinate with one another so that the work goes smoothly.
-- **互相支持** hù xiāng zhī chí ★★ — To give each other help and backing.
-- **竞争激烈** jìng zhēng jī liè ★★ — Competition that is intense, with many people vying for a few places.
-- **紧密合作** jǐn mì hé zuò ★★ — To work together in a close, well-coordinated way.
-- **亲如兄弟** qīn rú xiōng dì ★★ — Very close to each other, as if brothers.
-- **实力相当** shí lì xiāng dāng ★★ — Having about the same strength as one another.
-- **团结互助** tuán jié hù zhù ★★ — Standing together and helping one another.
-- **无话不谈** wú huà bù tán ★★ — So close that nothing is left unsaid.
-- **相处融洽** xiāng chǔ róng qià ★★ — To live or work together in a warm, harmonious way.
-- **意见一致** yì jiàn yī zhì ★★ — Holding the same view; being in agreement.
-- **友好往来** yǒu hǎo wǎng lái ★★ — Friendly contact and exchanges between people, groups or countries.
-- **争论不休** zhēng lùn bù xiū ★★ — Arguing without ever reaching an end.
-- **儿孙满堂** ér sūn mǎn táng ★★ (also 子孙满堂) — Having many children and grandchildren, a sign of a flourishing family.
-- **不愿分离** bù yuàn fēn lí — Unwilling to be separated from someone or something.
-- **彼此默契** bǐ cǐ mò qì — Understanding one another so well that little needs to be said.
-- **出身名门** chū shēn míng mén — Born into a family of high standing or fame.
-- **分外眼红** fèn wài yǎn hóng — Extremely angry or envious when seeing a rival or an enemy.
-- **关系亲密** guān xì qīn mì — Being on close, warm terms with someone.
-- **关系疏远** guān xì shū yuǎn — Relations that have become cold and distant, with little contact.
-- **光大门楣** guāng dà mén méi — To bring glory and prestige to one's family through one's own success.
-- **各负其责** gè fù qí zé (also 各尽其责) — Each person taking charge of his own share of the duty.
-- **共同奋斗** gòng tóng fèn dòu — To work hard together towards a shared goal.
-- **共同进步** gòng tóng jìn bù — To advance and improve together as a group.
-- **高手如云** gāo shǒu rú yún — Full of highly skilled people, so competition is fierce.
-- **感情融洽** gǎn qíng róng qià — Having a warm, harmonious emotional bond with one another.
-- **感情深厚** gǎn qíng shēn hòu — Having a deep and lasting bond of affection.
-- **合影留念** hé yǐng liú niàn — To take a group photograph as a keepsake.
-- **互不往来** hù bù wǎng lái — Having no contact with one another.
-- **婚姻美满** hūn yīn měi mǎn — A marriage that is happy and harmonious.
-- **夹道欢送** jiā dào huān sòng — To line both sides of the road and cheerfully see someone off.
-- **邻里和睦** lín lǐ hé mù — Neighbours living together in harmony.
-- **老友重逢** lǎo yǒu chóng féng (also 故友重逢) — Friends of long standing meeting again after a separation.
-- **目标一致** mù biāo yī zhì — Everyone pursuing the same goal.
-- **难分高下** nán fēn gāo xià — So evenly matched that it is hard to say which is better.
-- **配合默契** pèi hé mò qì — Working together so smoothly that little needs to be said.
-- **切磋武艺** qiē cuō wǔ yì — To compare and exchange martial-arts skills so that both sides improve.
-- **气氛融洽** qì fēn róng qià — The atmosphere is friendly and harmonious.
-- **情谊深厚** qíng yì shēn hòu (also 情意深厚、交情深厚) — A strong, lasting bond between people.
-- **请多保重** qǐng duō bǎo zhòng — A polite farewell wishing someone good health and safety.
-- **善于交际** shàn yú jiāo jì — Skilled at meeting and getting along with all kinds of people.
-- **生儿育女** shēng ér yù nǚ — To have children and bring them up.
-- **调解纠纷** tiáo jiě jiū fēn — To help parties in a dispute to settle it peacefully.
-- **挑起事端** tiǎo qǐ shì duān — To deliberately start a quarrel or conflict.
-- **团结同心** tuán jié tóng xīn — Standing together, all of one mind.
-- **团结友爱** tuán jié yǒu ài — Standing together and treating each other kindly.
-- **唯恐落后** wéi kǒng luò hòu — Anxious not to fall behind others.
-- **携手合作** xié shǒu hé zuò — To work together as partners.
-- **相互依存** xiāng hù yī cún — Two things relying on each other for survival or success.
-- **悉心教育** xī xīn jiào yù — To bring up or teach someone with great care and full attention.
-- **意见分歧** yì jiàn fēn qí — People hold clearly different opinions on a matter.
-- **志向相同** zhì xiàng xiāng tóng — Having the same goals and aspirations.
-- **真心相待** zhēn xīn xiāng dài — To treat others with true sincerity.
-- **暗中勾结** àn zhōng gōu jié — To work with others secretly for improper ends.
-- **儿孙绕膝** ér sūn rào xī — Having children and grandchildren gathered around one, a picture of a happy old age.
-
-## 自然地理 Nature & land (53)
+## 自然地理 Nature & land (49)
 
 - **百花盛开** bǎi huā shèng kāi ★★ — Flowers of every kind blooming splendidly at once.
-- **风景优美** fēng jǐng yōu měi ★★ — The scenery is pleasant and beautiful.
 - **环境幽静** huán jìng yōu jìng ★★ — A setting that is peaceful and out of the way.
-- **环境优美** huán jìng yōu měi ★★ — Having a pleasant, beautiful setting.
-- **景色优美** jǐng sè yōu měi ★★ — The scenery is beautiful and pleasing to the eye.
-- **空气清新** kōng qì qīng xīn ★★ — Air that is fresh and clean.
 - **粮食丰收** liáng shi fēng shōu ★★ — A rich harvest of grain.
 - **四季分明** sì jì fēn míng ★★ — Having clearly different spring, summer, autumn and winter.
 - **物产丰富** wù chǎn fēng fù ★★ (also 物产丰饶) — A region rich in natural and agricultural products.
@@ -567,11 +470,56 @@ Tell Claude any you'd like removed.
 - **一片荒凉** yī piàn huāng liáng — A scene of bleak emptiness and desolation.
 - **一派生机** yī pài shēng jī — A whole scene brimming with life and vigour.
 
-## 处世行为 Behaviour & conduct (50)
+## 人际关系 Relationships (44)
 
-- **触犯法律** chù fàn fǎ lǜ ★★ — To commit an act that violates the law.
+- **不可分割** bù kě fēn gē ★★ — Cannot be separated or divided; forming a single whole.
+- **夫妻和睦** fū qī hé mù ★★ — A husband and wife who get on well together.
+- **互相扶持** hù xiāng fú chí ★★ (also 相互扶持) — To support and help each other through difficulties.
+- **紧密合作** jǐn mì hé zuò ★★ — To work together in a close, well-coordinated way.
+- **亲如兄弟** qīn rú xiōng dì ★★ — Very close to each other, as if brothers.
+- **实力相当** shí lì xiāng dāng ★★ — Having about the same strength as one another.
+- **团结互助** tuán jié hù zhù ★★ — Standing together and helping one another.
+- **无话不谈** wú huà bù tán ★★ — So close that nothing is left unsaid.
+- **相处融洽** xiāng chǔ róng qià ★★ — To live or work together in a warm, harmonious way.
+- **友好往来** yǒu hǎo wǎng lái ★★ — Friendly contact and exchanges between people, groups or countries.
+- **争论不休** zhēng lùn bù xiū ★★ — Arguing without ever reaching an end.
+- **儿孙满堂** ér sūn mǎn táng ★★ (also 子孙满堂) — Having many children and grandchildren, a sign of a flourishing family.
+- **彼此默契** bǐ cǐ mò qì — Understanding one another so well that little needs to be said.
+- **出身名门** chū shēn míng mén — Born into a family of high standing or fame.
+- **分外眼红** fèn wài yǎn hóng — Extremely angry or envious when seeing a rival or an enemy.
+- **光大门楣** guāng dà mén méi — To bring glory and prestige to one's family through one's own success.
+- **各负其责** gè fù qí zé (also 各尽其责) — Each person taking charge of his own share of the duty.
+- **高手如云** gāo shǒu rú yún — Full of highly skilled people, so competition is fierce.
+- **感情融洽** gǎn qíng róng qià — Having a warm, harmonious emotional bond with one another.
+- **感情深厚** gǎn qíng shēn hòu — Having a deep and lasting bond of affection.
+- **互不往来** hù bù wǎng lái — Having no contact with one another.
+- **婚姻美满** hūn yīn měi mǎn — A marriage that is happy and harmonious.
+- **夹道欢送** jiā dào huān sòng — To line both sides of the road and cheerfully see someone off.
+- **邻里和睦** lín lǐ hé mù — Neighbours living together in harmony.
+- **老友重逢** lǎo yǒu chóng féng (also 故友重逢) — Friends of long standing meeting again after a separation.
+- **难分高下** nán fēn gāo xià — So evenly matched that it is hard to say which is better.
+- **配合默契** pèi hé mò qì — Working together so smoothly that little needs to be said.
+- **切磋武艺** qiē cuō wǔ yì — To compare and exchange martial-arts skills so that both sides improve.
+- **气氛融洽** qì fēn róng qià — The atmosphere is friendly and harmonious.
+- **情谊深厚** qíng yì shēn hòu (also 情意深厚、交情深厚) — A strong, lasting bond between people.
+- **请多保重** qǐng duō bǎo zhòng — A polite farewell wishing someone good health and safety.
+- **善于交际** shàn yú jiāo jì — Skilled at meeting and getting along with all kinds of people.
+- **调解纠纷** tiáo jiě jiū fēn — To help parties in a dispute to settle it peacefully.
+- **挑起事端** tiǎo qǐ shì duān — To deliberately start a quarrel or conflict.
+- **团结同心** tuán jié tóng xīn — Standing together, all of one mind.
+- **团结友爱** tuán jié yǒu ài — Standing together and treating each other kindly.
+- **唯恐落后** wéi kǒng luò hòu — Anxious not to fall behind others.
+- **携手合作** xié shǒu hé zuò — To work together as partners.
+- **相互依存** xiāng hù yī cún — Two things relying on each other for survival or success.
+- **悉心教育** xī xīn jiào yù — To bring up or teach someone with great care and full attention.
+- **意见分歧** yì jiàn fēn qí — People hold clearly different opinions on a matter.
+- **真心相待** zhēn xīn xiāng dài — To treat others with true sincerity.
+- **暗中勾结** àn zhōng gōu jié — To work with others secretly for improper ends.
+- **儿孙绕膝** ér sūn rào xī — Having children and grandchildren gathered around one, a picture of a happy old age.
+
+## 处世行为 Behaviour & conduct (43)
+
 - **大可不必** dà kě bù bì ★★ — There is really no need to do something; it is quite unnecessary.
-- **改正错误** gǎi zhèng cuò wù ★★ — To put right a mistake or fault.
 - **随随便便** suí suí biàn biàn ★★ — Done casually, without care or seriousness.
 - **吸取教训** xī qǔ jiào xùn ★★ — To learn from a mistake or failure so as not to repeat it.
 - **办事公道** bàn shì gōng dào (also 办事公正) — Handling matters fairly, with no favouritism.
@@ -585,8 +533,6 @@ Tell Claude any you'd like removed.
 - **不知变通** bù zhī biàn tōng — Not knowing how to adapt to changed circumstances.
 - **串通作弊** chuàn tōng zuò bì — To work together secretly to cheat in an exam, a contest or a deal.
 - **诚恳认错** chéng kěn rèn cuò — To admit one's fault honestly and genuinely.
-- **大吵大闹** dà chǎo dà nào — To quarrel or make a loud scene.
-- **大喊大叫** dà hǎn dà jiào — To shout loudly and wildly, often disturbingly.
 - **公平竞争** gōng píng jìng zhēng — Competing under the same rules, without cheating or favouritism.
 - **公平正直** gōng píng zhèng zhí — Treating everyone justly and without bias, and being honest and upright in character.
 - **毫无顾忌** háo wú gù jì (also 毫不顾忌) — Acting without any concern for consequences or what others think.
@@ -605,7 +551,6 @@ Tell Claude any you'd like removed.
 - **失信于人** shī xìn yú rén — To break one's word and lose others' trust.
 - **违背道义** wéi bèi dào yì — To act against what is morally right.
 - **违背良心** wéi bèi liáng xīn — To act against one's own sense of right and wrong.
-- **违反法令** wéi fǎn fǎ lìng — To contravene laws and government orders.
 - **无事找事** wú shì zhǎo shì — To make trouble when there is no reason to.
 - **喧闹嘈杂** xuān nào cáo zá — Full of loud, mixed and confusing sounds.
 - **沿袭旧习** yán xí jiù xí — To keep following old customs and practices without change.
@@ -615,12 +560,10 @@ Tell Claude any you'd like removed.
 - **制造混乱** zhì zào hùn luàn — To cause disorder and confusion deliberately or not.
 - **主持正义** zhǔ chí zhèng yì — To take the lead in defending what is right.
 - **自找麻烦** zì zhǎo má fan — To bring trouble upon oneself through one's own actions.
-- **遵守规矩** zūn shǒu guī jǔ — To obey rules and do things properly.
 - **碍于情面** ài yú qíng miàn (also 碍于面子) — Not wanting to refuse or criticise because of personal ties or one's own face.
-- **按劳分配** àn láo fēn pèi — A principle of giving income in proportion to the work a person has done.
 - **恶语伤人** è yǔ shāng rén — To wound others with cruel or abusive words.
 
-## 社会政治 Society & power (44)
+## 社会政治 Society & power (42)
 
 - **选拔人才** xuǎn bá rén cái ★★ — To pick out and promote able people for important roles.
 - **标本兼治** biāo běn jiān zhì — To address both the surface symptoms and the root cause of a problem.
@@ -650,7 +593,6 @@ Tell Claude any you'd like removed.
 - **权势熏天** quán shì xūn tiān — Having power and influence so great that people are in awe.
 - **勤于政事** qín yú zhèng shì — Applying oneself diligently to the business of government.
 - **侵吞公款** qīn tūn gōng kuǎn — To seize public money for one's own use.
-- **请客送礼** qǐng kè sòng lǐ — Hosting meals and giving presents to win favours, often improperly.
 - **善于决断** shàn yú jué duàn — Able to weigh matters and make up one's mind quickly and rightly.
 - **善于指挥** shàn yú zhǐ huī — Skilled at leading and coordinating others toward a goal.
 - **势力雄厚** shì lì xióng hòu — Having great strength and influence.
@@ -664,10 +606,9 @@ Tell Claude any you'd like removed.
 - **一心为民** yī xīn wèi mín — Wholeheartedly working for the people's welfare.
 - **政令畅通** zhèng lìng chàng tōng — Government orders being carried out smoothly all the way down.
 - **造福一方** zào fú yī fāng — To bring lasting benefit to the people of a region.
-- **责任重大** zé rèn zhòng dà — Carrying a very serious duty.
 - **自立为王** zì lì wéi wáng — To declare oneself ruler without authority, often by force.
 
-## 祸福境遇 Fortune & circumstances (39)
+## 祸福境遇 Fortune & circumstances (38)
 
 - **摆脱困境** bǎi tuō kùn jìng ★★ — To get out of a difficult or desperate situation.
 - **困难重重** kùn nán chóng chóng ★★ — Facing one difficulty after another.
@@ -684,7 +625,6 @@ Tell Claude any you'd like removed.
 - **荒诞离奇** huāng dàn lí qí — Absurd and strange, hard to believe.
 - **恢复名誉** huī fù míng yù — To clear someone's name and bring back their good standing.
 - **恢复元气** huī fù yuán qì — To regain vitality after illness, war or hardship.
-- **毫无办法** háo wú bàn fǎ — To have no way at all of dealing with a situation.
 - **家境贫寒** jiā jìng pín hán — Coming from a family with very little money.
 - **经济拮据** jīng jì jié jū — Being short of money and finding it hard to make ends meet.
 - **精神振作** jīng shén zhèn zuò (also 精神振奋) — To cheer up and rouse oneself after feeling low.
@@ -743,12 +683,9 @@ Tell Claude any you'd like removed.
 - **寓意深刻** yù yì shēn kè — Carrying a deep message beneath the surface.
 - **余味悠长** yú wèi yōu cháng (also 余韵悠长) — A taste or feeling that lingers long afterwards.
 
-## 衣食住行 Daily life (30)
+## 衣食住行 Daily life (26)
 
 - **价值不菲** jià zhí bù fěi ★★ — Worth a good deal of money.
-- **交通便利** jiāo tōng biàn lì ★★ — Easy to get to and from, with good transport links.
-- **减轻负担** jiǎn qīng fù dān ★★ — To lighten the load, whether in money, work or study, placed on someone.
-- **路途遥远** lù tú yáo yuǎn ★★ — The distance to travel is very long.
 - **沉迷享乐** chén mí xiǎng lè — To be so absorbed in pleasure and comfort that one neglects responsibilities.
 - **毫无忧虑** háo wú yōu lǜ — Having no worries at all.
 - **讲究排场** jiǎng jiū pái chǎng — Being keen on lavish display and a grand scale of events.
@@ -756,7 +693,6 @@ Tell Claude any you'd like removed.
 - **浪迹四方** làng jì sì fāng — To drift from place to place with no fixed home.
 - **路途艰险** lù tú jiān xiǎn — The route is difficult and dangerous.
 - **旅途劳顿** lǚ tú láo dùn — Worn out by the toil of a long journey.
-- **全家团聚** quán jiā tuán jù — The whole family coming together.
 - **生活奢靡** shēng huó shē mí — Living in extravagant and indulgent luxury.
 - **生活闲散** shēng huó xián sàn — A relaxed life with few obligations.
 - **四处流浪** sì chù liú làng (also 到处流浪) — To drift around with no fixed home.
@@ -776,7 +712,7 @@ Tell Claude any you'd like removed.
 - **安闲舒适** ān xián shū shì — Relaxed and comfortable, free of worry or hurry.
 - **安享晚年** ān xiǎng wǎn nián (also 安度晚年) — To spend one's later years in comfort and peace.
 
-## 言语真伪 Speech & truth (25)
+## 言语真伪 Speech & truth (24)
 
 - **毫无根据** háo wú gēn jù ★★ — Not based on any facts or evidence.
 - **无话可说** wú huà kě shuō ★★ — Having nothing left to say, whether from being proved wrong, from disappointment or from complete agreement.
@@ -785,7 +721,6 @@ Tell Claude any you'd like removed.
 - **不绕弯子** bù rào wān zi — To speak plainly, without beating about the bush.
 - **不容否认** bù róng fǒu rèn — So clearly true that it cannot be denied.
 - **不吐不快** bù tǔ bù kuài — Feeling one must say what is on one's mind, or one will not be at ease.
-- **传播谣言** chuán bō yáo yán — To pass on unfounded stories that cause trouble or panic.
 - **敞开心怀** chǎng kāi xīn huái — To speak or feel freely, holding nothing back.
 - **毫不含糊** háo bù hán hú — Clear, firm and unwavering, with no vagueness or slackness.
 - **毫不掩饰** háo bù yǎn shì — Showing a feeling or intention openly, with no attempt to conceal it.
@@ -804,23 +739,19 @@ Tell Claude any you'd like removed.
 - **一时语塞** yī shí yǔ sè — Momentarily unable to find anything to say.
 - **真假难辨** zhēn jiǎ nán biàn (also 难辨真假) — So mixed that one cannot tell what is true and what is false.
 
-## 数量程度 Numbers & degree (24)
+## 数量程度 Numbers & degree (19)
 
-- **各行各业** gè háng gè yè ★★ — All the different trades and professions.
 - **各具特色** gè jù tè sè ★★ — Each having its own distinctive features.
 - **无可挑剔** wú kě tiāo tī ★★ — So good that no fault can be found.
-- **无论如何** wú lùn rú hé ★★ — In any case; whatever happens or however it is done.
 - **形态各异** xíng tài gè yì ★★ — Each differing in shape or form.
 - **种类繁多** zhǒng lèi fán duō ★★ — Existing in a large range of types.
 - **不合常理** bù hé cháng lǐ (also 不合情理) — Not in line with ordinary logic or normal expectation.
 - **不值一提** bù zhí yī tí — Too minor or trivial to be worth mentioning.
 - **丰富多样** fēng fù duō yàng — Plentiful and of many kinds.
 - **规模宏大** guī mó hóng dà (also 规模盛大) — Of very large scale, as a project, building or event.
-- **各不相同** gè bù xiāng tóng — Each one differing from the others.
 - **高下立判** gāo xià lì pàn — The difference in quality is so clear that the winner is obvious immediately.
 - **根基稳固** gēn jī wěn gù — Having a solid base that is hard to shake.
 - **花样繁多** huā yàng fán duō — A great many different styles, types or tricks.
-- **毫无价值** háo wú jià zhí — Having no value or use whatsoever.
 - **进步神速** jìn bù shén sù — To make extremely rapid progress.
 - **来去如风** lái qù rú fēng — Moving in and out swiftly and lightly.
 - **零零碎碎** líng líng suì suì — Made up of scattered small bits.
@@ -829,27 +760,6 @@ Tell Claude any you'd like removed.
 - **人口稠密** rén kǒu chóu mì — Having a large population packed into a small area.
 - **相差悬殊** xiāng chà xuán shū — To differ enormously; the gap between two things is very large.
 - **行动迟缓** xíng dòng chí huǎn — Moving or acting slowly.
-- **证据不足** zhèng jù bù zú — Not enough evidence to prove something.
-
-## 智慧谋略 Wisdom & planning (17)
-
-- **不顾后果** bù gù hòu guǒ ★★ — To act without thinking about the consequences.
-- **经验丰富** jīng yàn fēng fù ★★ — Having a great deal of practical experience.
-- **顺其自然** shùn qí zì rán ★★ — To let things develop naturally without forcing them.
-- **不顾实际** bù gù shí jì — Acting without regard for the real conditions.
-- **处事老练** chǔ shì lǎo liàn (also 办事老练) — To deal with matters skilfully, with the poise of long experience.
-- **草率从事** cǎo shuài cóng shì — To deal with a matter carelessly or hastily.
-- **交友谨慎** jiāo yǒu jǐn shèn — Being careful and selective about whom one befriends.
-- **久经锻炼** jiǔ jīng duàn liàn — Toughened and skilled through long training and experience.
-- **进退自如** jìn tuì zì rú — Able to act or draw back freely as the situation requires.
-- **机构臃肿** jī gòu yōng zhǒng — An organisation overstaffed and inefficient.
-- **灵活变通** líng huó biàn tōng — To handle things flexibly, adjusting to circumstances rather than sticking to rules.
-- **年逾花甲** nián yú huā jiǎ — Already past sixty years old.
-- **人到中年** rén dào zhōng nián — Having reached middle age, with its burdens and its perspective.
-- **善于变通** shàn yú biàn tōng — Skilled at adjusting one's approach to suit circumstances.
-- **顺应自然** shùn yìng zì rán — To follow the natural order rather than force one's will on it.
-- **脱离实际** tuō lí shí jì — Not based on real conditions; disconnected from how things actually are.
-- **阅历丰富** yuè lì fēng fù — Having seen and experienced much of life.
 
 ## 军事谋略 War & strategy (17)
 
@@ -871,25 +781,24 @@ Tell Claude any you'd like removed.
 - **装备精良** zhuāng bèi jīng liáng — Having excellent equipment and gear.
 - **战死沙场** zhàn sǐ shā chǎng — To fall in battle, often as a heroic end.
 
-## 时间 Time (17)
+## 智慧谋略 Wisdom & planning (16)
 
-- **不分昼夜** bù fēn zhòu yè ★★ — Continuing without a break, whether by day or by night.
-- **关键时刻** guān jiàn shí kè ★★ — A decisive point when the outcome is at stake.
-- **年纪轻轻** nián jì qīng qīng ★★ — Still very young; used to stress that someone is young for what they have done or are doing.
-- **时时刻刻** shí shí kè kè ★★ — At every single moment; constantly.
-- **条件成熟** tiáo jiàn chéng shú ★★ — All the necessary conditions are now in place.
-- **天色已晚** tiān sè yǐ wǎn ★★ — It is already late in the day and getting dark.
-- **抓紧时间** zhuā jǐn shí jiān ★★ — To make full use of the time available and not waste it.
-- **抓住时机** zhuā zhù shí jī ★★ — To grasp a favourable moment and act on it.
-- **珍惜时间** zhēn xī shí jiān ★★ (also 爱惜时间) — To value time and make good use of it.
-- **自古以来** zì gǔ yǐ lái ★★ — From very early times up to the present.
-- **等待时机** děng dài shí jī — To wait for the right moment to act.
-- **光阴易逝** guāng yīn yì shì — Time passes quickly and cannot be recalled.
-- **积蓄力量** jī xù lì liàng — To gather strength quietly in preparation for the future.
-- **时间宝贵** shí jiān bǎo guì — Time is valuable and should not be wasted.
-- **新年伊始** xīn nián yī shǐ — The very beginning of a new year.
-- **虚度光阴** xū dù guāng yīn — To let time slip away without achieving anything.
-- **珍惜光阴** zhēn xī guāng yīn — To value time and use it well.
+- **不顾后果** bù gù hòu guǒ ★★ — To act without thinking about the consequences.
+- **顺其自然** shùn qí zì rán ★★ — To let things develop naturally without forcing them.
+- **不顾实际** bù gù shí jì — Acting without regard for the real conditions.
+- **处事老练** chǔ shì lǎo liàn (also 办事老练) — To deal with matters skilfully, with the poise of long experience.
+- **草率从事** cǎo shuài cóng shì — To deal with a matter carelessly or hastily.
+- **交友谨慎** jiāo yǒu jǐn shèn — Being careful and selective about whom one befriends.
+- **久经锻炼** jiǔ jīng duàn liàn — Toughened and skilled through long training and experience.
+- **进退自如** jìn tuì zì rú — Able to act or draw back freely as the situation requires.
+- **机构臃肿** jī gòu yōng zhǒng — An organisation overstaffed and inefficient.
+- **灵活变通** líng huó biàn tōng — To handle things flexibly, adjusting to circumstances rather than sticking to rules.
+- **年逾花甲** nián yú huā jiǎ — Already past sixty years old.
+- **人到中年** rén dào zhōng nián — Having reached middle age, with its burdens and its perspective.
+- **善于变通** shàn yú biàn tōng — Skilled at adjusting one's approach to suit circumstances.
+- **顺应自然** shùn yìng zì rán — To follow the natural order rather than force one's will on it.
+- **脱离实际** tuō lí shí jì — Not based on real conditions; disconnected from how things actually are.
+- **阅历丰富** yuè lì fēng fù — Having seen and experienced much of life.
 
 ## 志向努力 Ambition & effort (15)
 
@@ -909,9 +818,8 @@ Tell Claude any you'd like removed.
 - **壮志难酬** zhuàng zhì nán chóu — Having great aspirations but no chance to realise them.
 - **志向远大** zhì xiàng yuǎn dà (also 远大志向) — Having great ambitions and far-reaching aims.
 
-## 用途场合 Uses & occasions (15)
+## 用途场合 Uses & occasions (13)
 
-- **意义重大** yì yì zhòng dà ★★ — Having great importance or lasting significance.
 - **朝野震动** cháo yě zhèn dòng — An event shocks both the government and the public.
 - **层层落实** céng céng luò shí — To pass a task down every level and make sure it is carried out.
 - **阖家安康** hé jiā ān kāng (also 合家安康) — A wish: the whole family safe and healthy.
@@ -921,11 +829,25 @@ Tell Claude any you'd like removed.
 - **事业兴旺** shì yè xīng wàng — A career or enterprise that prospers.
 - **实干兴邦** shí gàn xīng bāng — Real work, not empty talk, makes a country prosper.
 - **深表歉意** shēn biǎo qiàn yì — To apologise sincerely and formally.
-- **万分感谢** wàn fēn gǎn xiè — To thank someone with the utmost sincerity.
 - **委婉拒绝** wěi wǎn jù jué — To turn something down in a tactful, indirect way.
 - **委婉推辞** wěi wǎn tuī cí — To decline an offer or task tactfully without giving offence.
 - **幸福安康** xìng fú ān kāng — A wish for a happy, healthy and peaceful life.
 - **寓意吉祥** yù yì jí xiáng — Symbolising good luck.
+
+## 时间 Time (12)
+
+- **不分昼夜** bù fēn zhòu yè ★★ — Continuing without a break, whether by day or by night.
+- **关键时刻** guān jiàn shí kè ★★ — A decisive point when the outcome is at stake.
+- **年纪轻轻** nián jì qīng qīng ★★ — Still very young; used to stress that someone is young for what they have done or are doing.
+- **条件成熟** tiáo jiàn chéng shú ★★ — All the necessary conditions are now in place.
+- **天色已晚** tiān sè yǐ wǎn ★★ — It is already late in the day and getting dark.
+- **抓住时机** zhuā zhù shí jī ★★ — To grasp a favourable moment and act on it.
+- **等待时机** děng dài shí jī — To wait for the right moment to act.
+- **光阴易逝** guāng yīn yì shì — Time passes quickly and cannot be recalled.
+- **积蓄力量** jī xù lì liàng — To gather strength quietly in preparation for the future.
+- **新年伊始** xīn nián yī shǐ — The very beginning of a new year.
+- **虚度光阴** xū dù guāng yīn — To let time slip away without achieving anything.
+- **珍惜光阴** zhēn xī guāng yīn — To value time and use it well.
 
 ## 学习教育 Learning & teaching (12)
 
@@ -942,7 +864,7 @@ Tell Claude any you'd like removed.
 - **眼界开阔** yǎn jiè kāi kuò — Having wide outlook and not being narrow.
 - **重点突出** zhòng diǎn tū chū (also 突出重点) — Written or arranged so that the main points stand out clearly.
 
-## 健康身体 Health & body (9)
+## 健康身体 Health & body (8)
 
 - **医术高明** yī shù gāo míng ★★ — Having excellent medical skill.
 - **脚步矫健** jiǎo bù jiǎo jiàn — Walking with a strong, springy and energetic step.
@@ -950,7 +872,6 @@ Tell Claude any you'd like removed.
 - **力大无穷** lì dà wú qióng — Extremely strong, as if one's strength never ran out.
 - **满脸通红** mǎn liǎn tōng hóng — With one's whole face red from shame, anger, drink or effort.
 - **神志不清** shén zhì bù qīng — Not fully conscious or clear-headed, as from illness, shock or drink.
-- **身体虚弱** shēn tǐ xū ruò — In poor physical condition, lacking strength.
 - **生命垂危** shēng mìng chuí wēi — Being so seriously ill or injured that death may be near.
 - **体弱多病** tǐ ruò duō bìng — Physically weak and frequently ill.
 

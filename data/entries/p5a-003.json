@@ -134,50 +134,6 @@
     ]
   },
   {
-    "id": "biao-xian-chu-se",
-    "text": "表现出色",
-    "pinyin": "biǎo xiàn chū sè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "outstanding-success-and-fame"
-    ],
-    "literal": "performance · stands out · colour",
-    "natural": "perform outstandingly",
-    "meaning": {
-      "en": "To perform exceptionally well, in competition, at work or at school.",
-      "zh": "在比赛、工作或学习中表现特别好。"
-    },
-    "equivalents": [
-      "perform outstandingly",
-      "do an excellent job"
-    ],
-    "examples": [
-      {
-        "zh": "新球员在首场比赛中表现出色。",
-        "en": "The new player performed outstandingly in his first match."
-      },
-      {
-        "zh": "她在实习期间表现出色，公司决定留用。",
-        "en": "She did so well during her internship that the firm kept her on."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; common in news, appraisals and school reports.",
-      "zh": "多作谓语，常见于新闻、评语。"
-    },
-    "synonyms": [
-      "大放异彩",
-      "出类拔萃"
-    ],
-    "antonyms": [
-      "表现平平",
-      "表现欠佳"
-    ]
-  },
-  {
     "id": "she-xia-quan-tao",
     "text": "设下圈套",
     "pinyin": "shè xià quān tào",
@@ -1355,48 +1311,6 @@
       "不足为奇",
       "司空见惯"
     ]
-  },
-  {
-    "id": "wu-lun-ru-he",
-    "text": "无论如何",
-    "pinyin": "wú lùn rú hé",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "standards-and-benchmarks"
-    ],
-    "literal": "no · matter · how",
-    "natural": "no matter what",
-    "meaning": {
-      "en": "In any case; whatever happens or however it is done.",
-      "zh": "不管怎样，在任何情况下。"
-    },
-    "equivalents": [
-      "no matter what",
-      "at all costs",
-      "in any case"
-    ],
-    "examples": [
-      {
-        "zh": "无论如何，我明天一定到。",
-        "en": "No matter what, I'll be there tomorrow."
-      },
-      {
-        "zh": "这件事无论如何不能让步。",
-        "en": "On this matter we cannot give way under any circumstances."
-      }
-    ],
-    "usage": {
-      "en": "Adverbial, usually at the start of a clause or before the verb; very common in speech and writing.",
-      "zh": "作状语，常位于句首或动词前，口语书面语都很常用。"
-    },
-    "synonyms": [
-      "不管怎样",
-      "不管怎么说"
-    ],
-    "antonyms": []
   },
   {
     "id": "yan-yi-dai-ren",

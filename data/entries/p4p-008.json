@@ -180,52 +180,6 @@
     ]
   },
   {
-    "id": "gong-tong-jin-bu",
-    "text": "共同进步",
-    "pinyin": "gòng tóng jìn bù",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation",
-      "apprenticeship-and-learning",
-      "essay-favourites"
-    ],
-    "literal": "together · progress",
-    "natural": "improve together",
-    "meaning": {
-      "en": "To advance and improve together as a group.",
-      "zh": "大家一起提高、前进。"
-    },
-    "equivalents": [
-      "improve together",
-      "make progress together"
-    ],
-    "examples": [
-      {
-        "zh": "我们互相鼓励，共同进步。",
-        "en": "We encourage each other and improve together."
-      },
-      {
-        "zh": "希望同学们在学习中共同进步。",
-        "en": "I hope classmates will make progress together in their studies."
-      }
-    ],
-    "usage": {
-      "en": "Often in wishes, mottos or school writing.",
-      "zh": "常见于祝愿、口号和学校文体。"
-    },
-    "synonyms": [
-      "相得益彰",
-      "携手共进"
-    ],
-    "antonyms": [
-      "固步自封",
-      "停滞不前"
-    ]
-  },
-  {
     "id": "qi-shi-xiong-hun",
     "text": "气势雄浑",
     "pinyin": "qì shì xióng hún",
@@ -443,8 +397,7 @@
     },
     "synonyms": [
       "无稽之谈",
-      "凭空捏造",
-      "证据不足"
+      "凭空捏造"
     ],
     "antonyms": [
       "有凭有据",
@@ -853,51 +806,6 @@
     "antonyms": [
       "镇定自若",
       "从容不迫"
-    ]
-  },
-  {
-    "id": "hou-guo-yan-zhong",
-    "text": "后果严重",
-    "pinyin": "hòu guǒ yán zhòng",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "natural-consequences",
-      "danger"
-    ],
-    "literal": "consequences · serious",
-    "natural": "serious consequences",
-    "meaning": {
-      "en": "The consequences will be grave.",
-      "zh": "造成的结果很坏，很严重。"
-    },
-    "equivalents": [
-      "with serious consequences",
-      "grave outcome"
-    ],
-    "examples": [
-      {
-        "zh": "酒后驾车后果严重，千万不要尝试。",
-        "en": "Drink-driving has serious consequences, so never try it."
-      },
-      {
-        "zh": "这个错误后果严重，公司损失了上百万。",
-        "en": "The mistake had serious consequences and cost the firm millions."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; also 后果十分严重 / 造成严重后果.",
-      "zh": "作谓语或定语；也说“后果十分严重”“造成严重后果”。"
-    },
-    "synonyms": [
-      "不堪设想",
-      "后患无穷"
-    ],
-    "antonyms": [
-      "无关紧要",
-      "无伤大雅"
     ]
   },
   {
@@ -1583,96 +1491,6 @@
     ]
   },
   {
-    "id": "shen-ti-xu-ruo",
-    "text": "身体虚弱",
-    "pinyin": "shēn tǐ xū ruò",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "poor-health",
-      "health"
-    ],
-    "literal": "body · frail",
-    "natural": "physically weak",
-    "meaning": {
-      "en": "In poor physical condition, lacking strength.",
-      "zh": "身体没有力气，抵抗力差。"
-    },
-    "equivalents": [
-      "physically frail",
-      "in weak health"
-    ],
-    "examples": [
-      {
-        "zh": "他大病之后身体虚弱，需要静养。",
-        "en": "After the serious illness he was frail and needed rest."
-      },
-      {
-        "zh": "身体虚弱的人更容易感冒。",
-        "en": "People in weak health catch cold more easily."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive.",
-      "zh": "作谓语或定语。"
-    },
-    "synonyms": [
-      "体弱多病",
-      "弱不禁风"
-    ],
-    "antonyms": [
-      "身强力壮",
-      "强健有力"
-    ]
-  },
-  {
-    "id": "zun-shou-gui-ju",
-    "text": "遵守规矩",
-    "pinyin": "zūn shǒu guī jǔ",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "conformity-and-imitation",
-      "standards-and-benchmarks"
-    ],
-    "literal": "abide by · rules",
-    "natural": "follow the rules",
-    "meaning": {
-      "en": "To obey rules and do things properly.",
-      "zh": "按规定办事，不乱来。"
-    },
-    "equivalents": [
-      "follow the rules",
-      "stay in line"
-    ],
-    "examples": [
-      {
-        "zh": "在图书馆要遵守规矩，不能大声说话。",
-        "en": "In the library you must follow the rules and not talk loudly."
-      },
-      {
-        "zh": "孩子从小就要学会遵守规矩。",
-        "en": "Children should learn from an early age to follow the rules."
-      }
-    ],
-    "usage": {
-      "en": "Verb-object phrase; often in advice to children or newcomers.",
-      "zh": "动宾短语，常用于对孩子或新人的教导。"
-    },
-    "synonyms": [
-      "循规蹈矩",
-      "安分守己"
-    ],
-    "antonyms": [
-      "无法无天",
-      "为所欲为"
-    ]
-  },
-  {
     "id": "bu-tong-fan-su",
     "text": "不同凡俗",
     "pinyin": "bù tóng fán sú",
@@ -1937,50 +1755,6 @@
     "antonyms": [
       "墨守成规",
       "因循守旧"
-    ]
-  },
-  {
-    "id": "zheng-ju-bu-zu",
-    "text": "证据不足",
-    "pinyin": "zhèng jù bù zú",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "standards-and-benchmarks"
-    ],
-    "literal": "evidence · insufficient",
-    "natural": "insufficient evidence",
-    "meaning": {
-      "en": "Not enough evidence to prove something.",
-      "zh": "证明事情的材料不够。"
-    },
-    "equivalents": [
-      "insufficient evidence",
-      "lack of proof"
-    ],
-    "examples": [
-      {
-        "zh": "法院因证据不足，宣告被告无罪。",
-        "en": "The court acquitted the defendant for lack of evidence."
-      },
-      {
-        "zh": "这个结论证据不足，还需要进一步研究。",
-        "en": "The conclusion rests on thin evidence and needs more research."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; law, science and news. 据 is jù.",
-      "zh": "作谓语，用于法律、科学、新闻。"
-    },
-    "synonyms": [
-      "缺乏证据",
-      "毫无根据"
-    ],
-    "antonyms": [
-      "证据确凿",
-      "铁证如山"
     ]
   },
   {

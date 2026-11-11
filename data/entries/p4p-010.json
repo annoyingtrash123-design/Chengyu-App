@@ -391,49 +391,6 @@
     ]
   },
   {
-    "id": "wei-fan-fa-ling",
-    "text": "违反法令",
-    "pinyin": "wéi fǎn fǎ lìng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "formal",
-    "themes": [
-      "inappropriate-behavior",
-      "corruption-and-injustice"
-    ],
-    "literal": "violate · go against · law · decree",
-    "natural": "break the law",
-    "meaning": {
-      "en": "To contravene laws and government orders.",
-      "zh": "不遵守国家的法律和政令。"
-    },
-    "equivalents": [
-      "break the law",
-      "contravene regulations"
-    ],
-    "examples": [
-      {
-        "zh": "任何人违反法令，都要受到处罚。",
-        "en": "Anyone who breaks the law will be punished."
-      },
-      {
-        "zh": "商家违反法令，擅自涨价，被罚款。",
-        "en": "The shop broke the rules by raising prices on its own and was fined."
-      }
-    ],
-    "usage": {
-      "en": "Verb-object; formal register, common in legal and official documents.",
-      "zh": "动宾结构，书面语，常见于法律和公文。"
-    },
-    "synonyms": [
-      "违法乱纪"
-    ],
-    "antonyms": [
-      "遵纪守法"
-    ]
-  },
-  {
     "id": "rong-yi-chong-dong",
     "text": "容易冲动",
     "pinyin": "róng yì chōng dòng",
@@ -698,50 +655,6 @@
     ]
   },
   {
-    "id": "gong-tong-fen-dou",
-    "text": "共同奋斗",
-    "pinyin": "gòng tóng fèn dòu",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation",
-      "diligence-and-dedication"
-    ],
-    "literal": "together · jointly · strive · struggle",
-    "natural": "strive together",
-    "meaning": {
-      "en": "To work hard together towards a shared goal.",
-      "zh": "大家一起为同一个目标努力。"
-    },
-    "equivalents": [
-      "strive side by side",
-      "work towards a common goal"
-    ],
-    "examples": [
-      {
-        "zh": "夫妻俩共同奋斗，终于买了新房。",
-        "en": "The couple worked hard together and at last bought a new flat."
-      },
-      {
-        "zh": "让我们共同奋斗，创造美好的明天。",
-        "en": "Let's strive together to build a better tomorrow."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase; common in speeches and slogans.",
-      "zh": "动词性短语，常见于讲话和口号。"
-    },
-    "synonyms": [
-      "并肩作战",
-      "同心协力"
-    ],
-    "antonyms": [
-      "各自为政"
-    ]
-  },
-  {
     "id": "qi-po-xiong-wei",
     "text": "气魄雄伟",
     "pinyin": "qì pò xióng wěi",
@@ -786,49 +699,6 @@
     ],
     "antonyms": [
       "小巧玲珑"
-    ]
-  },
-  {
-    "id": "mu-biao-yi-zhi",
-    "text": "目标一致",
-    "pinyin": "mù biāo yī zhì",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation"
-    ],
-    "literal": "goal · aim · one · identical",
-    "natural": "with a shared aim",
-    "meaning": {
-      "en": "Everyone pursuing the same goal.",
-      "zh": "大家追求相同的目标。"
-    },
-    "equivalents": [
-      "share the same goal",
-      "be aligned in purpose"
-    ],
-    "examples": [
-      {
-        "zh": "团队成员目标一致，合作自然顺利。",
-        "en": "The team shares one goal, so cooperation goes smoothly."
-      },
-      {
-        "zh": "双方目标一致，谈判很快达成协议。",
-        "en": "Both sides want the same thing, so a deal came quickly."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; often explains why cooperation works.",
-      "zh": "作谓语，常用来说明合作顺利的原因。"
-    },
-    "synonyms": [
-      "团结一致",
-      "同心协力"
-    ],
-    "antonyms": [
-      "各怀鬼胎"
     ]
   },
   {
@@ -957,49 +827,6 @@
     ],
     "antonyms": [
       "狂风怒号"
-    ]
-  },
-  {
-    "id": "xin-qing-jin-zhang",
-    "text": "心情紧张",
-    "pinyin": "xīn qíng jǐn zhāng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "psychological-pressure",
-      "fear-and-cowardice"
-    ],
-    "literal": "mood · feelings · tense · taut",
-    "natural": "feeling nervous",
-    "meaning": {
-      "en": "Feeling anxious or on edge.",
-      "zh": "情绪不放松，有些焦虑。"
-    },
-    "equivalents": [
-      "feel nervous",
-      "be on edge"
-    ],
-    "examples": [
-      {
-        "zh": "考试前他心情紧张，一晚没睡好。",
-        "en": "He was nervous before the exam and slept badly all night."
-      },
-      {
-        "zh": "第一次上台，大家难免心情紧张。",
-        "en": "Everyone feels nervous the first time on stage."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; 心情 + adjective is a standard pattern.",
-      "zh": "作谓语，“心情＋形容词”是标准格式。"
-    },
-    "synonyms": [
-      "坐立不安"
-    ],
-    "antonyms": [
-      "心平气和"
     ]
   },
   {
@@ -1664,49 +1491,6 @@
     ]
   },
   {
-    "id": "shou-dao-wei-qu",
-    "text": "受到委屈",
-    "pinyin": "shòu dào wěi qū",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "sadness-and-despair",
-      "complex-emotional-states"
-    ],
-    "literal": "suffer · receive · wronged · aggrieved",
-    "natural": "feel wronged",
-    "meaning": {
-      "en": "To be treated unfairly and have to swallow the grievance.",
-      "zh": "受了不公平的对待，心里难受。"
-    },
-    "equivalents": [
-      "be wronged",
-      "feel hard done by"
-    ],
-    "examples": [
-      {
-        "zh": "孩子受到委屈，哭着跑回了家。",
-        "en": "The child felt wronged and ran home crying."
-      },
-      {
-        "zh": "员工受到委屈，应当有地方申诉。",
-        "en": "Staff who are treated unfairly should have somewhere to complain."
-      }
-    ],
-    "usage": {
-      "en": "Verb-object; 受委屈 is the shorter spoken form.",
-      "zh": "动宾结构；口语常说“受委屈”。"
-    },
-    "synonyms": [
-      "含冤受屈"
-    ],
-    "antonyms": [
-      "扬眉吐气"
-    ]
-  },
-  {
     "id": "meng-shou-yuan-wang",
     "text": "蒙受冤枉",
     "pinyin": "méng shòu yuān wǎng",
@@ -1791,49 +1575,6 @@
     ],
     "antonyms": [
       "合情合理"
-    ]
-  },
-  {
-    "id": "sheng-er-yu-nu",
-    "text": "生儿育女",
-    "pinyin": "shēng ér yù nǚ",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "parenting-and-family",
-      "family-and-home"
-    ],
-    "literal": "bear · sons · raise · daughters",
-    "natural": "have and raise children",
-    "meaning": {
-      "en": "To have children and bring them up.",
-      "zh": "生养孩子，把他们抚养成人。"
-    },
-    "equivalents": [
-      "have and raise children",
-      "start a family"
-    ],
-    "examples": [
-      {
-        "zh": "他们结婚后生儿育女，日子过得平淡幸福。",
-        "en": "After marrying they raised a family and lived a simple, happy life."
-      },
-      {
-        "zh": "在城里生儿育女，成本不低。",
-        "en": "Having and raising children in the city is not cheap."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase; covers both birth and upbringing.",
-      "zh": "动词性短语，既指生育也指抚养。"
-    },
-    "synonyms": [
-      "传宗接代"
-    ],
-    "antonyms": [
-      "丁克一族"
     ]
   },
   {

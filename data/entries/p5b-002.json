@@ -1231,7 +1231,6 @@
       "zh": "可作谓语或定语，指体质差，不是某一次生病。"
     },
     "synonyms": [
-      "身体虚弱",
       "弱不禁风",
       "先天不足",
       "先天不足，后天失调",
@@ -1375,55 +1374,6 @@
     "antonyms": [
       "默默无闻",
       "籍籍无名"
-    ]
-  },
-  {
-    "id": "bao-zhong-shen-ti",
-    "text": "保重身体",
-    "pinyin": "bǎo zhòng shēn tǐ",
-    "kind": "phrase",
-    "frequency": 2,
-    "variants": [
-      "珍重身体"
-    ],
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "farewells",
-      "polite-humble"
-    ],
-    "literal": "take care · heavily · body",
-    "natural": "look after your health",
-    "meaning": {
-      "en": "A caring wish that someone will look after their health.",
-      "zh": "希望对方注意健康、照顾好自己。"
-    },
-    "equivalents": [
-      "look after yourself",
-      "take care of your health"
-    ],
-    "examples": [
-      {
-        "zh": "天气冷了，你要保重身体。",
-        "en": "It's getting cold; do look after yourself."
-      },
-      {
-        "zh": "工作再忙也要保重身体。",
-        "en": "However busy work is, you must take care of your health."
-      }
-    ],
-    "usage": {
-      "en": "Often a closing line in letters, farewells and messages; often follows 请 or 一定要.",
-      "zh": "常用于书信、道别和问候结尾，多接在“请、一定要”后。"
-    },
-    "synonyms": [
-      "多加保重",
-      "爱惜身体",
-      "请多保重"
-    ],
-    "antonyms": [
-      "糟蹋身体",
-      "不顾健康"
     ]
   },
   {
@@ -1603,51 +1553,6 @@
     "antonyms": [
       "名落孙山",
       "颜面扫地"
-    ]
-  },
-  {
-    "id": "he-ying-liu-nian",
-    "text": "合影留念",
-    "pinyin": "hé yǐng liú niàn",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "friendship",
-      "festivals-and-celebrations"
-    ],
-    "literal": "together · photo · keep · memory",
-    "natural": "pose for a group photo to remember it",
-    "meaning": {
-      "en": "To take a group photograph as a keepsake.",
-      "zh": "一起拍照，留作纪念。"
-    },
-    "equivalents": [
-      "take a group photo as a keepsake",
-      "pose for a souvenir photo"
-    ],
-    "examples": [
-      {
-        "zh": "毕业典礼后，同学们在校门口合影留念。",
-        "en": "After graduation, the classmates posed for a group photo at the school gate."
-      },
-      {
-        "zh": "游客在景点前合影留念。",
-        "en": "The tourists took a group photo in front of the attraction."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase, often follows a place or occasion; fixed in captions and news.",
-      "zh": "动词性短语，常放在地点或场合之后，也常见于图片说明。"
-    },
-    "synonyms": [
-      "拍照留念",
-      "集体合影"
-    ],
-    "antonyms": [
-      "不辞而别",
-      "一去不返"
     ]
   },
   {
@@ -1831,51 +1736,6 @@
     ]
   },
   {
-    "id": "yi-dong-bu-dong",
-    "text": "一动不动",
-    "pinyin": "yī dòng bù dòng",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "composure-and-calm"
-    ],
-    "literal": "one · move · not · move",
-    "natural": "completely still",
-    "meaning": {
-      "en": "Not moving at all; staying perfectly still.",
-      "zh": "一点儿也不动。"
-    },
-    "equivalents": [
-      "perfectly still",
-      "without moving a muscle"
-    ],
-    "examples": [
-      {
-        "zh": "猫蹲在窗边，一动不动地盯着小鸟。",
-        "en": "The cat crouched by the window, staring at the bird without moving."
-      },
-      {
-        "zh": "他吓得站在原地一动不动。",
-        "en": "Terrified, he stood rooted to the spot."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or adverbial (一动不动地 + verb); also common as 坐着/躺着 一动不动.",
-      "zh": "作谓语或状语（一动不动地＋动词），常说“坐着、躺着一动不动”。"
-    },
-    "synonyms": [
-      "纹丝不动",
-      "呆若木鸡"
-    ],
-    "antonyms": [
-      "手舞足蹈",
-      "跃跃欲动",
-      "上蹿下跳"
-    ]
-  },
-  {
     "id": "wu-ke-tiao-ti",
     "text": "无可挑剔",
     "pinyin": "wú kě tiāo tī",
@@ -1921,52 +1781,6 @@
       "一无是处",
       "横挑鼻子竖挑眼",
       "不敢恭维"
-    ]
-  },
-  {
-    "id": "an-lao-fen-pei",
-    "text": "按劳分配",
-    "pinyin": "àn láo fēn pèi",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "formal",
-    "themes": [
-      "fairness-and-impartiality",
-      "news-and-officialese"
-    ],
-    "literal": "according to · work · distribute · allocate",
-    "natural": "pay according to work done",
-    "meaning": {
-      "en": "A principle of giving income in proportion to the work a person has done.",
-      "zh": "按照每个人付出劳动的多少来分配报酬。"
-    },
-    "equivalents": [
-      "distribution according to work",
-      "pay in proportion to effort"
-    ],
-    "examples": [
-      {
-        "zh": "公司实行按劳分配，多劳多得。",
-        "en": "The company pays according to work done: the more you do, the more you earn."
-      },
-      {
-        "zh": "按劳分配体现了公平原则。",
-        "en": "Distribution according to work reflects the principle of fairness."
-      }
-    ],
-    "usage": {
-      "en": "A term in economics and policy; mostly a noun phrase or a verb phrase after 实行.",
-      "zh": "经济和政策术语，多作名词性短语，或接在“实行”后。"
-    },
-    "synonyms": [
-      "多劳多得",
-      "论功行赏"
-    ],
-    "antonyms": [
-      "平均主义",
-      "不劳而获",
-      "吃大锅饭"
     ]
   },
   {

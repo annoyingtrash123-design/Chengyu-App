@@ -91,51 +91,6 @@
     ]
   },
   {
-    "id": "tai-du-wen-he",
-    "text": "态度温和",
-    "pinyin": "tài dù wēn hé",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "composure-and-calm",
-      "positive-character-qualities"
-    ],
-    "literal": "attitude · manner · gentle · mild",
-    "natural": "gentle in manner",
-    "meaning": {
-      "en": "Having a mild, gentle manner towards others.",
-      "zh": "对人说话做事平和、不急躁。"
-    },
-    "equivalents": [
-      "gentle in manner",
-      "mild-mannered"
-    ],
-    "examples": [
-      {
-        "zh": "这位护士态度温和，病人都愿意和她聊天。",
-        "en": "The nurse is gentle in manner, and patients like to talk to her."
-      },
-      {
-        "zh": "他态度温和地解释了原因。",
-        "en": "He explained the reason in a gentle way."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or adverbial (态度温和地…); a compliment on how someone treats others.",
-      "zh": "作谓语或状语（态度温和地……），常用来称赞待人接物。"
-    },
-    "synonyms": [
-      "和颜悦色",
-      "心平气和"
-    ],
-    "antonyms": [
-      "态度傲慢",
-      "声色俱厉"
-    ]
-  },
-  {
     "id": "bu-ming-shi-li",
     "text": "不明事理",
     "pinyin": "bù míng shì lǐ",
@@ -319,49 +274,6 @@
     "antonyms": [
       "适可而止",
       "点到为止"
-    ]
-  },
-  {
-    "id": "jian-qing-fu-dan",
-    "text": "减轻负担",
-    "pinyin": "jiǎn qīng fù dān",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "relaxation-and-rest"
-    ],
-    "literal": "reduce · lighten · burden · load",
-    "natural": "ease the burden",
-    "meaning": {
-      "en": "To lighten the load, whether in money, work or study, placed on someone.",
-      "zh": "使人承受的压力或花费变小。"
-    },
-    "equivalents": [
-      "ease the burden",
-      "lighten the load"
-    ],
-    "examples": [
-      {
-        "zh": "新政策旨在减轻负担，让农民多些收入。",
-        "en": "The new policy aims to ease the burden and leave farmers with more income."
-      },
-      {
-        "zh": "你也来帮忙，可以减轻负担。",
-        "en": "If you help out too, it will lighten the load."
-      }
-    ],
-    "usage": {
-      "en": "Verb–object phrase; common in policy language (减轻学生课业负担).",
-      "zh": "动宾短语，政策语言中常见，如“减轻学生课业负担”。"
-    },
-    "synonyms": [
-      "分忧解难"
-    ],
-    "antonyms": [
-      "雪上加霜",
-      "加重负担"
     ]
   },
   {
@@ -552,50 +464,6 @@
     ]
   },
   {
-    "id": "da-fa-pi-qi",
-    "text": "大发脾气",
-    "pinyin": "dà fā pí qi",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "anger"
-    ],
-    "literal": "greatly · give out · temper · air",
-    "natural": "fly into a temper",
-    "meaning": {
-      "en": "To lose one's temper and shout or storm.",
-      "zh": "大声地发怒，控制不住自己的情绪。"
-    },
-    "equivalents": [
-      "throw a tantrum",
-      "fly into a rage"
-    ],
-    "examples": [
-      {
-        "zh": "他一看到成绩单就大发脾气。",
-        "en": "He flew into a temper the moment he saw the report card."
-      },
-      {
-        "zh": "别一遇到小事就大发脾气。",
-        "en": "Don't blow up every time something small goes wrong."
-      }
-    ],
-    "usage": {
-      "en": "Verb–object phrase; 脾气 is pí qi. Often followed by 对…/冲…",
-      "zh": "动宾短语；“脾气”读 pí qi，常说“对／冲……大发脾气”。"
-    },
-    "synonyms": [
-      "大发雷霆",
-      "勃然大怒"
-    ],
-    "antonyms": [
-      "心平气和",
-      "忍气吞声"
-    ]
-  },
-  {
     "id": "bu-wei-jian-xian",
     "text": "不畏艰险",
     "pinyin": "bù wèi jiān xiǎn",
@@ -691,7 +559,6 @@
       "言之无物"
     ],
     "antonyms": [
-      "内容丰富",
       "言之有物"
     ]
   },
@@ -737,51 +604,6 @@
     ],
     "antonyms": [
       "败兴而归"
-    ]
-  },
-  {
-    "id": "kong-qi-qing-xin",
-    "text": "空气清新",
-    "pinyin": "kōng qì qīng xīn",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "landscapes",
-      "health"
-    ],
-    "literal": "air · air · fresh · new",
-    "natural": "fresh air",
-    "meaning": {
-      "en": "Air that is fresh and clean.",
-      "zh": "空气干净，让人感觉舒服。"
-    },
-    "equivalents": [
-      "fresh, clean air",
-      "a breath of fresh air"
-    ],
-    "examples": [
-      {
-        "zh": "山里空气清新，很适合散步。",
-        "en": "The air in the mountains is fresh, ideal for a walk."
-      },
-      {
-        "zh": "搬到郊区后，他喜欢上了那里空气清新的环境。",
-        "en": "After moving to the suburbs, he came to love the fresh air of the place."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; often used in travel and housing descriptions.",
-      "zh": "作谓语或定语，旅游和房产描述中常见。"
-    },
-    "synonyms": [
-      "空气新鲜",
-      "沁人心脾"
-    ],
-    "antonyms": [
-      "乌烟瘴气",
-      "雾霾笼罩"
     ]
   },
   {
@@ -877,51 +699,6 @@
     "antonyms": [
       "胆战心惊",
       "惊慌失措"
-    ]
-  },
-  {
-    "id": "hu-xiang-zhi-chi",
-    "text": "互相支持",
-    "pinyin": "hù xiāng zhī chí",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation",
-      "friendship"
-    ],
-    "literal": "each other · mutually · support · hold up",
-    "natural": "support one another",
-    "meaning": {
-      "en": "To give each other help and backing.",
-      "zh": "彼此帮助，彼此支撑。"
-    },
-    "equivalents": [
-      "support each other",
-      "back one another up"
-    ],
-    "examples": [
-      {
-        "zh": "夫妻俩互相支持，一起度过了难关。",
-        "en": "The couple supported each other and got through the hard times together."
-      },
-      {
-        "zh": "同事之间要互相支持，团队才能进步。",
-        "en": "Colleagues should support one another if the team is to improve."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; often paired with 互相鼓励／互相学习. 相 here is xiāng.",
-      "zh": "作谓语，常与“互相鼓励”“互相学习”并用；“相”读 xiāng。"
-    },
-    "synonyms": [
-      "同舟共济",
-      "相互扶持"
-    ],
-    "antonyms": [
-      "互相拆台",
-      "各自为政"
     ]
   },
   {
@@ -1244,50 +1021,6 @@
     ]
   },
   {
-    "id": "xiang-jin-ban-fa",
-    "text": "想尽办法",
-    "pinyin": "xiǎng jìn bàn fǎ",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "efficiency"
-    ],
-    "literal": "think · exhaust · method · way",
-    "natural": "try every means",
-    "meaning": {
-      "en": "To try every means one can think of.",
-      "zh": "把能想到的办法都试一遍。"
-    },
-    "equivalents": [
-      "try every means",
-      "leave no stone unturned"
-    ],
-    "examples": [
-      {
-        "zh": "医生想尽办法，终于救回了病人。",
-        "en": "The doctors tried everything and finally saved the patient."
-      },
-      {
-        "zh": "他想尽办法也没找到那份文件。",
-        "en": "He tried every trick he could think of but never found the document."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase, often followed by a goal clause (想尽办法让…). 尽 is jìn.",
-      "zh": "动词性短语，后面常接目的，如“想尽办法让……”；“尽”读 jìn。"
-    },
-    "synonyms": [
-      "千方百计",
-      "想方设法"
-    ],
-    "antonyms": [
-      "束手无策",
-      "无计可施"
-    ]
-  },
-  {
     "id": "bu-gu-hou-guo",
     "text": "不顾后果",
     "pinyin": "bù gù hòu guǒ",
@@ -1467,50 +1200,6 @@
     ]
   },
   {
-    "id": "nei-rong-feng-fu",
-    "text": "内容丰富",
-    "pinyin": "nèi róng fēng fù",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "success"
-    ],
-    "literal": "content · substance · rich · abundant",
-    "natural": "rich in content",
-    "meaning": {
-      "en": "Having plenty of varied content.",
-      "zh": "包含的东西多，种类多。"
-    },
-    "equivalents": [
-      "rich in content",
-      "full of variety"
-    ],
-    "examples": [
-      {
-        "zh": "这本杂志内容丰富，每期都有新栏目。",
-        "en": "The magazine is rich in content, with new columns each issue."
-      },
-      {
-        "zh": "展览内容丰富，值得花半天时间参观。",
-        "en": "The exhibition is packed with material and worth half a day."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; for books, lessons, shows and activities.",
-      "zh": "作谓语或定语，可形容书、课程、节目、活动。"
-    },
-    "synonyms": [
-      "丰富多彩",
-      "包罗万象"
-    ],
-    "antonyms": [
-      "内容空洞",
-      "言之无物"
-    ]
-  },
-  {
     "id": "jia-jing-pin-han",
     "text": "家境贫寒",
     "pinyin": "jiā jìng pín hán",
@@ -1641,51 +1330,6 @@
     "antonyms": [
       "医术拙劣",
       "庸医"
-    ]
-  },
-  {
-    "id": "chong-man-zi-xin",
-    "text": "充满自信",
-    "pinyin": "chōng mǎn zì xìn",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "positive-character-qualities",
-      "courage-and-boldness"
-    ],
-    "literal": "be full of · full · self · confidence",
-    "natural": "full of confidence",
-    "meaning": {
-      "en": "Being full of confidence in oneself.",
-      "zh": "对自己很有把握，信心足。"
-    },
-    "equivalents": [
-      "full of confidence",
-      "brimming with confidence"
-    ],
-    "examples": [
-      {
-        "zh": "她充满自信地走上讲台。",
-        "en": "She walked onto the platform full of confidence."
-      },
-      {
-        "zh": "这个年轻人充满自信，面试表现很出色。",
-        "en": "The young man was full of confidence and interviewed brilliantly."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or adverbial (充满自信地…); also 对…充满自信.",
-      "zh": "作谓语或状语（充满自信地……），也可说“对……充满自信”。"
-    },
-    "synonyms": [
-      "信心十足",
-      "胸有成竹"
-    ],
-    "antonyms": [
-      "缺乏自信",
-      "自惭形秽"
     ]
   },
   {
@@ -2142,8 +1786,7 @@
       "目中无人"
     ],
     "antonyms": [
-      "虚怀若谷",
-      "态度温和"
+      "虚怀若谷"
     ]
   },
   {

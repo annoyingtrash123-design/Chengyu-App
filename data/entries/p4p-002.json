@@ -502,8 +502,7 @@
     "synonyms": [
       "胸有成竹",
       "信心百倍",
-      "志在必得",
-      "充满自信"
+      "志在必得"
     ],
     "antonyms": [
       "忐忑不安",
@@ -661,52 +660,6 @@
     ]
   },
   {
-    "id": "shi-shi-ke-ke",
-    "text": "时时刻刻",
-    "pinyin": "shí shí kè kè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "time-management"
-    ],
-    "literal": "time · time · moment · moment",
-    "natural": "every moment",
-    "meaning": {
-      "en": "At every single moment; constantly.",
-      "zh": "每时每刻，一直。"
-    },
-    "equivalents": [
-      "every moment",
-      "constantly"
-    ],
-    "examples": [
-      {
-        "zh": "母亲时时刻刻都惦记着远方的孩子。",
-        "en": "Mother thinks of her faraway child every moment."
-      },
-      {
-        "zh": "安全问题要时时刻刻放在心上。",
-        "en": "Safety must be kept in mind at all times."
-      }
-    ],
-    "usage": {
-      "en": "Adverbial, mostly before 都/在 + verb; also in 时时刻刻想着….",
-      "zh": "多作状语，常用于“时时刻刻都……”“时时刻刻想着……”。"
-    },
-    "synonyms": [
-      "无时无刻",
-      "分分秒秒",
-      "日日夜夜",
-      "随时随地"
-    ],
-    "antonyms": [
-      "偶尔",
-      "一时半刻"
-    ]
-  },
-  {
     "id": "bu-wei-suo-dong",
     "text": "不为所动",
     "pinyin": "bù wéi suǒ dòng",
@@ -755,51 +708,6 @@
       "腊月的萝卜——冻（动）了心",
       "神魂颠倒",
       "如蚁附膻"
-    ]
-  },
-  {
-    "id": "zi-gu-yi-lai",
-    "text": "自古以来",
-    "pinyin": "zì gǔ yǐ lái",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "historical-periods"
-    ],
-    "literal": "from · ancient times · onwards",
-    "natural": "since ancient times",
-    "meaning": {
-      "en": "From very early times up to the present.",
-      "zh": "从很早的时候到现在。"
-    },
-    "equivalents": [
-      "since time immemorial",
-      "from ancient times to the present"
-    ],
-    "examples": [
-      {
-        "zh": "自古以来，中国人就重视家庭。",
-        "en": "Since ancient times the Chinese have valued family."
-      },
-      {
-        "zh": "茶自古以来就是中国人喜爱的饮品。",
-        "en": "Tea has been a beloved drink in China since antiquity."
-      }
-    ],
-    "usage": {
-      "en": "Time adverbial at the start of a sentence, followed by 就 or 都.",
-      "zh": "作时间状语，常放句首，后接“就”“都”。"
-    },
-    "synonyms": [
-      "古往今来",
-      "从古至今",
-      "自古而今"
-    ],
-    "antonyms": [
-      "近年来",
-      "一朝一夕"
     ]
   },
   {
@@ -894,9 +802,6 @@
       "惜时如金",
       "争分夺秒",
       "分秒必争",
-      "时间宝贵",
-      "抓紧时间",
-      "珍惜时间",
       "珍惜光阴",
       "只争朝夕",
       "少年易老学难成，一寸光阴不可轻",
@@ -1930,55 +1835,6 @@
     "antonyms": [
       "勤俭节约",
       "朴素无华"
-    ]
-  },
-  {
-    "id": "zhen-xi-shi-jian",
-    "text": "珍惜时间",
-    "pinyin": "zhēn xī shí jiān",
-    "variants": [
-      "爱惜时间"
-    ],
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "value-of-time"
-    ],
-    "literal": "treasure · time",
-    "natural": "treasure time",
-    "meaning": {
-      "en": "To value time and make good use of it.",
-      "zh": "重视时间，不浪费。"
-    },
-    "equivalents": [
-      "make the most of one's time",
-      "value every minute"
-    ],
-    "examples": [
-      {
-        "zh": "考试在即，同学们都很珍惜时间。",
-        "en": "The exams are near and everyone is treasuring their time."
-      },
-      {
-        "zh": "要学会珍惜时间，别拖到最后一刻。",
-        "en": "Learn to value your time and don't leave things to the last minute."
-      }
-    ],
-    "usage": {
-      "en": "Verb–object phrase, typical in advice and slogans.",
-      "zh": "动宾结构，多见于劝勉和标语。"
-    },
-    "synonyms": [
-      "惜时如金",
-      "争分夺秒",
-      "分秒必争",
-      "珍惜光阴"
-    ],
-    "antonyms": [
-      "虚度光阴",
-      "浪费时间"
     ]
   },
   {

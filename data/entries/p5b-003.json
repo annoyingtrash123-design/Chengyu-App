@@ -139,50 +139,6 @@
     ]
   },
   {
-    "id": "qing-ke-song-li",
-    "text": "请客送礼",
-    "pinyin": "qǐng kè sòng lǐ",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "corruption-and-injustice",
-      "inappropriate-behavior"
-    ],
-    "literal": "invite · guests · send · gifts",
-    "natural": "wining, dining and gift-giving",
-    "meaning": {
-      "en": "Hosting meals and giving presents to win favours, often improperly.",
-      "zh": "设宴款待、赠送礼物，多指为了拉关系、办私事。"
-    },
-    "equivalents": [
-      "wine and dine and offer gifts",
-      "curry favour with banquets and presents"
-    ],
-    "examples": [
-      {
-        "zh": "他靠请客送礼拉关系，终于拿到了项目。",
-        "en": "He won the project by wining, dining and giving gifts to the right people."
-      },
-      {
-        "zh": "新规明确禁止干部请客送礼。",
-        "en": "The new rules expressly forbid officials from entertaining and giving gifts."
-      }
-    ],
-    "usage": {
-      "en": "Usually negative in news and official contexts; often with 搞 or 禁止.",
-      "zh": "多含贬义，常见于新闻和公文，常与“搞、禁止”搭配。"
-    },
-    "synonyms": [
-      "行贿受贿",
-      "拉拢关系"
-    ],
-    "antonyms": [
-      "两袖清风"
-    ]
-  },
-  {
     "id": "hui-chi-fang-qiu",
     "text": "挥斥方遒",
     "pinyin": "huī chì fāng qiú",
@@ -443,8 +399,7 @@
       "zh": "多作谓语，描写物品、植物、动物等。"
     },
     "synonyms": [
-      "千姿百态",
-      "各不相同"
+      "千姿百态"
     ],
     "antonyms": [
       "千篇一律",
@@ -632,7 +587,6 @@
     },
     "synonyms": [
       "阖家欢乐",
-      "全家团聚",
       "骨肉团圆"
     ],
     "antonyms": [
@@ -738,47 +692,6 @@
       "垂头丧气",
       "英雄气短"
     ]
-  },
-  {
-    "id": "sheng-ri-kuai-le",
-    "text": "生日快乐",
-    "pinyin": "shēng rì kuài lè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "casual",
-    "themes": [
-      "joy-and-happiness",
-      "festive-greetings"
-    ],
-    "literal": "birthday · happy",
-    "natural": "happy birthday",
-    "meaning": {
-      "en": "A birthday greeting: happy birthday.",
-      "zh": "祝贺生日的常用祝福语。"
-    },
-    "equivalents": [
-      "happy birthday"
-    ],
-    "examples": [
-      {
-        "zh": "妈妈，祝您生日快乐！",
-        "en": "Happy birthday, Mum!"
-      },
-      {
-        "zh": "大家一起唱了《生日快乐》歌。",
-        "en": "We all sang the 'Happy Birthday' song together."
-      }
-    ],
-    "usage": {
-      "en": "Everyday greeting, said or written on cards and messages; also the title of the song.",
-      "zh": "日常祝福语，用于口头和贺卡；也是歌名。"
-    },
-    "synonyms": [
-      "福如东海",
-      "寿比南山"
-    ],
-    "antonyms": []
   },
   {
     "id": "xian-sha-pang-ren",
@@ -1545,8 +1458,7 @@
     "synonyms": [
       "同舟共济",
       "相濡以沫",
-      "守望相助",
-      "互相支持"
+      "守望相助"
     ],
     "antonyms": [
       "勾心斗角",
@@ -1780,50 +1692,6 @@
     "antonyms": [
       "软弱无力",
       "毫无气势"
-    ]
-  },
-  {
-    "id": "huan-jing-you-mei-2",
-    "text": "环境优美",
-    "pinyin": "huán jìng yōu měi",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "landscapes"
-    ],
-    "literal": "environment · fine · beautiful",
-    "natural": "a lovely setting",
-    "meaning": {
-      "en": "Having a pleasant, beautiful setting.",
-      "zh": "周围的环境美丽宜人。"
-    },
-    "equivalents": [
-      "beautiful surroundings",
-      "a lovely environment"
-    ],
-    "examples": [
-      {
-        "zh": "这所大学环境优美，学习氛围也好。",
-        "en": "The university has beautiful surroundings and a good learning atmosphere."
-      },
-      {
-        "zh": "小区环境优美，空气清新。",
-        "en": "The residential area is pretty, with fresh air."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; common in adverts for housing, schools and hotels.",
-      "zh": "作谓语、定语，常见于楼盘、学校、酒店的宣传。"
-    },
-    "synonyms": [
-      "风景秀丽",
-      "山清水秀"
-    ],
-    "antonyms": [
-      "环境恶劣",
-      "脏乱不堪"
     ]
   },
   {

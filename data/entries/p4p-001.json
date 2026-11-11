@@ -1110,52 +1110,6 @@
     ]
   },
   {
-    "id": "ge-hang-ge-ye",
-    "text": "各行各业",
-    "pinyin": "gè háng gè yè",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "numbers"
-    ],
-    "literal": "each · trade · each · industry",
-    "natural": "every walk of life",
-    "meaning": {
-      "en": "All the different trades and professions.",
-      "zh": "各种各样的行业。"
-    },
-    "equivalents": [
-      "all trades and professions",
-      "every sector"
-    ],
-    "examples": [
-      {
-        "zh": "来参加招聘会的有各行各业的人。",
-        "en": "People from every line of work came to the job fair."
-      },
-      {
-        "zh": "各行各业都出现了人才短缺。",
-        "en": "Every industry is short of talent."
-      }
-    ],
-    "usage": {
-      "en": "Attributive (各行各业的人) or subject; 行 is read háng.",
-      "zh": "多作定语（各行各业的人）或主语；“行”读háng。"
-    },
-    "synonyms": [
-      "三百六十行",
-      "五行八作",
-      "形形色色",
-      "三十六行",
-      "七十二行"
-    ],
-    "antonyms": [
-      "一枝独秀"
-    ]
-  },
-  {
     "id": "jiao-ao-zi-da",
     "text": "骄傲自大",
     "pinyin": "jiāo ào zì dà",
@@ -1779,51 +1733,6 @@
     ]
   },
   {
-    "id": "fang-sheng-da-ku",
-    "text": "放声大哭",
-    "pinyin": "fàng shēng dà kū",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "sadness-and-despair"
-    ],
-    "literal": "let loose · voice · loudly · cry",
-    "natural": "burst out sobbing",
-    "meaning": {
-      "en": "To cry out loud without holding back.",
-      "zh": "毫无顾忌地大声哭。"
-    },
-    "equivalents": [
-      "cry one's heart out",
-      "burst into loud sobs"
-    ],
-    "examples": [
-      {
-        "zh": "听到这个消息，她放声大哭。",
-        "en": "Hearing the news, she burst into loud sobs."
-      },
-      {
-        "zh": "孩子摔倒后放声大哭。",
-        "en": "The child fell over and wailed loudly."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or verb phrase; stronger than 哭泣.",
-      "zh": "作谓语，比“哭泣”更强烈。"
-    },
-    "synonyms": [
-      "嚎啕大哭",
-      "号啕痛哭",
-      "痛哭流涕"
-    ],
-    "antonyms": [
-      "强忍泪水",
-      "破涕为笑"
-    ]
-  },
-  {
     "id": "he-hu-qing-li",
     "text": "合乎情理",
     "pinyin": "hé hū qíng lǐ",
@@ -1963,52 +1872,6 @@
       "两袖清风",
       "为官清廉",
       "羊续悬鱼"
-    ]
-  },
-  {
-    "id": "ge-bu-xiang-tong",
-    "text": "各不相同",
-    "pinyin": "gè bù xiāng tóng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "relative-measurements"
-    ],
-    "literal": "each · not · mutually · the same",
-    "natural": "all different from one another",
-    "meaning": {
-      "en": "Each one differing from the others.",
-      "zh": "每个都不一样。"
-    },
-    "equivalents": [
-      "each one different",
-      "all different"
-    ],
-    "examples": [
-      {
-        "zh": "每个人的性格各不相同。",
-        "en": "Everyone's personality is different."
-      },
-      {
-        "zh": "这几家店的价格各不相同。",
-        "en": "The prices at these shops all differ."
-      }
-    ],
-    "usage": {
-      "en": "Predicate; 相 is read xiāng.",
-      "zh": "作谓语，“相”读xiāng。"
-    },
-    "synonyms": [
-      "千差万别",
-      "截然不同",
-      "千姿百态",
-      "形态各异"
-    ],
-    "antonyms": [
-      "如出一辙",
-      "大同小异"
     ]
   },
   {

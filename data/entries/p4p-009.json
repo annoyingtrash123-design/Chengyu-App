@@ -134,49 +134,6 @@
     ]
   },
   {
-    "id": "wei-ren-shan-liang",
-    "text": "为人善良",
-    "pinyin": "wéi rén shàn liáng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "kindness-and-generosity",
-      "positive-character-qualities"
-    ],
-    "literal": "as a person · kind · good",
-    "natural": "kind by nature",
-    "meaning": {
-      "en": "To be a kind-hearted person.",
-      "zh": "做人心地好，待人善意。"
-    },
-    "equivalents": [
-      "be kind-hearted",
-      "have a good heart"
-    ],
-    "examples": [
-      {
-        "zh": "她为人善良，邻居有困难总会帮忙。",
-        "en": "She is kind-hearted and always helps neighbours in trouble."
-      },
-      {
-        "zh": "大家都喜欢他，因为他为人善良又不计较。",
-        "en": "Everyone likes him, for he is kind and never petty."
-      }
-    ],
-    "usage": {
-      "en": "Predicate describing character; 为人 + adjective is a common pattern (为人正直, 为人老实).",
-      "zh": "作谓语，“为人＋形容词”是常见格式。"
-    },
-    "synonyms": [
-      "心地善良"
-    ],
-    "antonyms": [
-      "心狠手辣"
-    ]
-  },
-  {
     "id": "zhong-cheng-ke-kao",
     "text": "忠诚可靠",
     "pinyin": "zhōng chéng kě kào",
@@ -309,50 +266,6 @@
     ]
   },
   {
-    "id": "hao-wu-gan-qing",
-    "text": "毫无感情",
-    "pinyin": "háo wú gǎn qíng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "negative-character-flaws",
-      "complex-emotional-states"
-    ],
-    "literal": "not at all · without · feeling · emotion",
-    "natural": "utterly without feeling",
-    "meaning": {
-      "en": "Showing no feeling or warmth at all.",
-      "zh": "一点感情也没有，冷淡无情。"
-    },
-    "equivalents": [
-      "completely emotionless",
-      "devoid of feeling"
-    ],
-    "examples": [
-      {
-        "zh": "他毫无感情地念完了判决书。",
-        "en": "He read out the verdict without a trace of feeling."
-      },
-      {
-        "zh": "这段婚姻早已毫无感情，只剩下责任。",
-        "en": "There was no feeling left in the marriage, only duty."
-      }
-    ],
-    "usage": {
-      "en": "Adverbial 毫无感情地 + verb, or predicate. 毫无 is formal and emphatic.",
-      "zh": "常作状语（毫无感情地……）或谓语；“毫无”语气强、较书面。"
-    },
-    "synonyms": [
-      "冷酷无情",
-      "铁石心肠"
-    ],
-    "antonyms": [
-      "深情厚谊"
-    ]
-  },
-  {
     "id": "wai-wai-niu-niu",
     "text": "歪歪扭扭",
     "pinyin": "wāi wāi niǔ niǔ",
@@ -396,50 +309,6 @@
       "端端正正",
       "横平竖直",
       "笔走龙蛇"
-    ]
-  },
-  {
-    "id": "tai-du-leng-jing",
-    "text": "态度冷静",
-    "pinyin": "tài dù lěng jìng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "composure-and-calm",
-      "mental-clarity"
-    ],
-    "literal": "attitude · calm · quiet",
-    "natural": "stay level-headed",
-    "meaning": {
-      "en": "To face things calmly, without getting emotional.",
-      "zh": "面对事情不慌张、不冲动。"
-    },
-    "equivalents": [
-      "keep a cool head",
-      "stay calm"
-    ],
-    "examples": [
-      {
-        "zh": "遇到纠纷，他态度冷静，没有跟对方争吵。",
-        "en": "In the dispute he stayed calm and did not argue back."
-      },
-      {
-        "zh": "专家呼吁大家态度冷静，不要轻信谣言。",
-        "en": "Experts urged everyone to stay calm and not believe rumours."
-      }
-    ],
-    "usage": {
-      "en": "Predicate, or 保持态度冷静. Common in news and advice.",
-      "zh": "作谓语，常说“保持态度冷静”，新闻和劝告中常见。"
-    },
-    "synonyms": [
-      "心平气和",
-      "冷静沉着"
-    ],
-    "antonyms": [
-      "暴跳如雷"
     ]
   },
   {
@@ -795,59 +664,7 @@
     "synonyms": [
       "漫不经心"
     ],
-    "antonyms": [
-      "认真负责"
-    ]
-  },
-  {
-    "id": "ren-zhen-fu-ze",
-    "text": "认真负责",
-    "pinyin": "rèn zhēn fù zé",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "diligence-and-dedication",
-      "positive-character-qualities"
-    ],
-    "literal": "serious · earnest · bear · responsibility",
-    "natural": "conscientious",
-    "meaning": {
-      "en": "Taking work seriously and answering for the results.",
-      "zh": "对待工作严肃认真，并承担责任。"
-    },
-    "equivalents": [
-      "conscientious",
-      "dutiful and thorough"
-    ],
-    "examples": [
-      {
-        "zh": "小李工作认真负责，从没出过差错。",
-        "en": "Xiao Li is conscientious at work and has never made a mistake."
-      },
-      {
-        "zh": "医生对病人要认真负责。",
-        "en": "Doctors must be conscientious towards their patients."
-      }
-    ],
-    "usage": {
-      "en": "Predicate, attributive, or 的 phrase; a standard word in appraisals and references.",
-      "zh": "作谓语或定语，常见于评语和鉴定。"
-    },
-    "synonyms": [
-      "兢兢业业",
-      "严肃认真"
-    ],
-    "antonyms": [
-      "敷衍塞责",
-      "不当回事",
-      "不负责任",
-      "敷衍了事",
-      "敷衍搪塞",
-      "虚应故事",
-      "吊儿郎当"
-    ]
+    "antonyms": []
   },
   {
     "id": "shan-shi-lian-mian",
@@ -1426,50 +1243,6 @@
     ]
   },
   {
-    "id": "bu-fu-ze-ren",
-    "text": "不负责任",
-    "pinyin": "bù fù zé rèn",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "negative-character-flaws",
-      "inappropriate-behavior"
-    ],
-    "literal": "not · bear · duty · responsibility",
-    "natural": "irresponsible",
-    "meaning": {
-      "en": "Failing to take responsibility for what one does or has promised.",
-      "zh": "对自己的言行和职责不负起责任。"
-    },
-    "equivalents": [
-      "be irresponsible",
-      "shirk responsibility"
-    ],
-    "examples": [
-      {
-        "zh": "随口承诺又不兑现，这是不负责任的做法。",
-        "en": "Making promises off the cuff and not keeping them is irresponsible."
-      },
-      {
-        "zh": "把孩子丢给老人就不管，实在不负责任。",
-        "en": "Leaving the child to the grandparents and walking away is really irresponsible."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive (不负责任的话). A very common criticism.",
-      "zh": "作谓语或定语（不负责任的话），是常见的批评语。"
-    },
-    "synonyms": [
-      "敷衍塞责"
-    ],
-    "antonyms": [
-      "认真负责",
-      "士不可以不弘毅，任重而道远"
-    ]
-  },
-  {
     "id": "jiu-jing-duan-lian",
     "text": "久经锻炼",
     "pinyin": "jiǔ jīng duàn liàn",
@@ -1860,48 +1633,6 @@
     ]
   },
   {
-    "id": "jie-yue-kai-zhi",
-    "text": "节约开支",
-    "pinyin": "jié yuē kāi zhī",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "frugality-and-thrift"
-    ],
-    "literal": "economise · spending · outlay",
-    "natural": "cut costs",
-    "meaning": {
-      "en": "To reduce spending and save money.",
-      "zh": "减少不必要的花费。"
-    },
-    "equivalents": [
-      "cut spending",
-      "economise"
-    ],
-    "examples": [
-      {
-        "zh": "公司要节约开支，先从减少差旅费做起。",
-        "en": "The firm needs to cut costs, starting with travel expenses."
-      },
-      {
-        "zh": "为了节约开支，他们决定自己动手装修。",
-        "en": "To save money, they decided to do the decorating themselves."
-      }
-    ],
-    "usage": {
-      "en": "Verb-object; common in business, household and government contexts.",
-      "zh": "动宾结构，常见于企业、家庭和政府场合。"
-    },
-    "synonyms": [
-      "开源节流"
-    ],
-    "antonyms": [
-      "铺张浪费"
-    ]
-  },
-  {
     "id": "zhui-jiu-di-xi",
     "text": "追究底细",
     "pinyin": "zhuī jiū dǐ xì",
@@ -1942,49 +1673,6 @@
     ],
     "antonyms": [
       "不闻不问"
-    ]
-  },
-  {
-    "id": "quan-jia-tuan-ju",
-    "text": "全家团聚",
-    "pinyin": "quán jiā tuán jù",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "family-and-home",
-      "joy-and-happiness"
-    ],
-    "literal": "whole · family · gather · reunite",
-    "natural": "a family reunion",
-    "meaning": {
-      "en": "The whole family coming together.",
-      "zh": "一家人聚在一起。"
-    },
-    "equivalents": [
-      "family reunion",
-      "have the whole family together"
-    ],
-    "examples": [
-      {
-        "zh": "春节是全家团聚的日子。",
-        "en": "The Spring Festival is when the whole family comes together."
-      },
-      {
-        "zh": "在外打拼多年，他终于盼到全家团聚。",
-        "en": "After years working away, he finally saw the family reunited."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase; strongly tied to festivals and homecomings.",
-      "zh": "动词性短语，常与节日、回家联系。"
-    },
-    "synonyms": [
-      "阖家团圆"
-    ],
-    "antonyms": [
-      "骨肉分离"
     ]
   },
   {

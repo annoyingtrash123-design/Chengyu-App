@@ -18,6 +18,7 @@ export const CHANGELOG: Release[] = [
       "A synonym with the opposite tone now carries a small 褒 or 贬 mark (e.g. 巧舌如簧 under 能言善辩). About 40 pairs that were not really synonyms were unlinked.",
       "About 310 weak or wrong synonym and antonym links removed after a pair-by-pair check, and a few English and pinyin slips fixed in the new phrases (e.g. 踏实 is tā shi).",
       "About 20 more label corrections.",
+      "78 of the new phrases that were plain everyday wording (生日快乐, 时时刻刻, 心情愉快, 互相支持…) removed again; related expressions that were unlinked now share a label where they belong together.",
     ],
     zh: [
       "全面核对近义、反义关联：所有关联均为双向（补全约 2,700 条单向关联），不再有同时列为近义和反义的情况。",
@@ -25,6 +26,7 @@ export const CHANGELOG: Release[] = [
       "褒贬色彩相反的近义词加上“褒”“贬”小标记（如“能言善辩”下的“巧舌如簧”）；约 40 对并非真正近义的已取消关联。",
       "逐对核查后删除约 310 条牵强或错误的近反义关联，并修正新词条中的个别英文和拼音错误（如“踏实”读 tā shi）。",
       "另修正约 20 处标签。",
+      "删去 78 个过于普通的新增词语（如“生日快乐”“时时刻刻”“心情愉快”“互相支持”）；取消关联但意思相关的词语，在合适时归入同一标签。",
     ],
   },
   {

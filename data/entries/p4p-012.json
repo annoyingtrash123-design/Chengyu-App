@@ -321,51 +321,6 @@
     ]
   },
   {
-    "id": "xin-qing-ji-dong",
-    "text": "心情激动",
-    "pinyin": "xīn qíng jī dòng",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "complex-emotional-states",
-      "joy-and-happiness"
-    ],
-    "literal": "mood · stirred",
-    "natural": "feeling excited",
-    "meaning": {
-      "en": "Feeling stirred up and emotional, whether from joy, anger or other strong feeling.",
-      "zh": "情绪被强烈触动，难以平静。"
-    },
-    "equivalents": [
-      "feeling stirred",
-      "in a state of excitement"
-    ],
-    "examples": [
-      {
-        "zh": "听到获奖的消息，她心情激动，半天说不出话来。",
-        "en": "On hearing she had won, she was so moved she could hardly speak."
-      },
-      {
-        "zh": "考生们心情激动地等待着成绩公布。",
-        "en": "The candidates waited, excited, for the results to be announced."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or adverbial (心情激动地…); neutral—the cause tells you whether it is joy or anger.",
-      "zh": "作谓语或状语（心情激动地……）；喜怒皆可，要看上下文。"
-    },
-    "synonyms": [
-      "热血沸腾",
-      "心潮澎湃"
-    ],
-    "antonyms": [
-      "心如止水",
-      "心平气和"
-    ]
-  },
-  {
     "id": "si-chu-piao-bo",
     "text": "四处漂泊",
     "pinyin": "sì chù piāo bó",
@@ -413,52 +368,6 @@
       "安居乐业",
       "落叶归根",
       "安家立业"
-    ]
-  },
-  {
-    "id": "guan-xi-shu-yuan",
-    "text": "关系疏远",
-    "pinyin": "guān xì shū yuǎn",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "conflict-and-strife",
-      "solitude-and-isolation"
-    ],
-    "literal": "relationship · distant",
-    "natural": "grow distant",
-    "meaning": {
-      "en": "Relations that have become cold and distant, with little contact.",
-      "zh": "彼此来往少，感情淡了。"
-    },
-    "equivalents": [
-      "drift apart",
-      "a distant relationship"
-    ],
-    "examples": [
-      {
-        "zh": "搬家以后，我和老同学关系疏远了。",
-        "en": "Since I moved, my old classmates and I have drifted apart."
-      },
-      {
-        "zh": "父子之间关系疏远，一年也说不上几句话。",
-        "en": "Father and son are distant and barely speak a few words in a year."
-      }
-    ],
-    "usage": {
-      "en": "Predicate, often with 变得 or a 了 of change; reverse of 关系密切.",
-      "zh": "作谓语，常说“变得关系疏远”或加“了”表示变化；与“关系密切”相反。"
-    },
-    "synonyms": [
-      "形同陌路",
-      "疏远冷淡"
-    ],
-    "antonyms": [
-      "亲密无间",
-      "关系密切",
-      "关系亲密"
     ]
   },
   {
@@ -787,54 +696,6 @@
     ]
   },
   {
-    "id": "xin-qin-lao-dong",
-    "text": "辛勤劳动",
-    "pinyin": "xīn qín láo dòng",
-    "variants": [
-      "辛勤劳作"
-    ],
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "diligence-and-dedication"
-    ],
-    "literal": "toilsome · diligent · labour",
-    "natural": "hard, honest work",
-    "meaning": {
-      "en": "Working hard and diligently, putting in sweat and effort.",
-      "zh": "勤勤恳恳地劳作，付出很多汗水。"
-    },
-    "equivalents": [
-      "hard work",
-      "toil diligently"
-    ],
-    "examples": [
-      {
-        "zh": "农民辛勤劳动，才换来了丰收的喜悦。",
-        "en": "The farmers' hard work brought the joy of a good harvest."
-      },
-      {
-        "zh": "我们的幸福生活靠辛勤劳动创造。",
-        "en": "Our happy life is created by hard work."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase or attributive (辛勤劳动的人); frequent in speeches and May Day writing.",
-      "zh": "动词短语或定语（辛勤劳动的人）；常见于讲话和五一劳动节的文章。"
-    },
-    "synonyms": [
-      "勤勤恳恳",
-      "兢兢业业",
-      "起早贪黑"
-    ],
-    "antonyms": [
-      "好逸恶劳",
-      "游手好闲"
-    ]
-  },
-  {
     "id": "hun-yin-mei-man",
     "text": "婚姻美满",
     "pinyin": "hūn yīn měi mǎn",
@@ -971,51 +832,6 @@
     "antonyms": [
       "胸无点墨",
       "孤陋寡闻"
-    ]
-  },
-  {
-    "id": "tai-du-leng-dan",
-    "text": "态度冷淡",
-    "pinyin": "tài dù lěng dàn",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "negative-character-flaws",
-      "conflict-and-strife"
-    ],
-    "literal": "attitude · cold",
-    "natural": "a cold attitude",
-    "meaning": {
-      "en": "Showing little interest, warmth or concern toward someone or something.",
-      "zh": "对人或事不热情、不关心。"
-    },
-    "equivalents": [
-      "cold and indifferent",
-      "unenthusiastic manner"
-    ],
-    "examples": [
-      {
-        "zh": "店员态度冷淡，顾客转身就走了。",
-        "en": "The assistant was cold, and the customer turned and left."
-      },
-      {
-        "zh": "她对这项提议态度冷淡，没有表示支持。",
-        "en": "She was lukewarm about the proposal and gave no support."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive; often about service or relationships. Opposite: 态度热情.",
-      "zh": "作谓语或定语，常说服务或人际关系；反义是“态度热情”。"
-    },
-    "synonyms": [
-      "漠不关心",
-      "冷若冰霜"
-    ],
-    "antonyms": [
-      "热情洋溢",
-      "热情周到"
     ]
   },
   {
@@ -1661,51 +1477,6 @@
     "antonyms": [
       "灵活多变",
       "可以商量"
-    ]
-  },
-  {
-    "id": "chuan-bo-yao-yan",
-    "text": "传播谣言",
-    "pinyin": "chuán bō yáo yán",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "deception-and-false-appearances",
-      "inappropriate-behavior"
-    ],
-    "literal": "spread · rumours",
-    "natural": "spread rumours",
-    "meaning": {
-      "en": "To pass on unfounded stories that cause trouble or panic.",
-      "zh": "散布没有根据的消息，制造恐慌或混乱。"
-    },
-    "equivalents": [
-      "spread rumours",
-      "peddle false stories"
-    ],
-    "examples": [
-      {
-        "zh": "网上传播谣言是违法行为，要承担法律责任。",
-        "en": "Spreading rumours online is illegal and carries legal liability."
-      },
-      {
-        "zh": "他因传播谣言被警方处罚。",
-        "en": "He was punished by the police for spreading rumours."
-      }
-    ],
-    "usage": {
-      "en": "Verb-object; common in news and legal writing.",
-      "zh": "动宾结构，常见于新闻和法律语境。"
-    },
-    "synonyms": [
-      "造谣生事",
-      "散布谣言"
-    ],
-    "antonyms": [
-      "辟谣",
-      "澄清事实"
     ]
   },
   {

@@ -417,53 +417,6 @@
     ]
   },
   {
-    "id": "da-han-da-jiao",
-    "text": "大喊大叫",
-    "pinyin": "dà hǎn dà jiào",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "anger"
-    ],
-    "literal": "big · shout · big · yell",
-    "natural": "shouting and yelling",
-    "meaning": {
-      "en": "To shout loudly and wildly, often disturbingly.",
-      "zh": "大声喊叫，吵吵嚷嚷。"
-    },
-    "equivalents": [
-      "shout and yell",
-      "make a racket"
-    ],
-    "examples": [
-      {
-        "zh": "图书馆里不要大喊大叫。",
-        "en": "Don't shout and yell in the library."
-      },
-      {
-        "zh": "他气得在办公室里大喊大叫。",
-        "en": "He was so angry that he yelled at the top of his voice in the office."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase, often in prohibitions (不要大喊大叫).",
-      "zh": "作谓语，常用于劝阻（不要大喊大叫）。"
-    },
-    "synonyms": [
-      "大吵大闹",
-      "鬼哭狼嚎",
-      "高声喧哗",
-      "大呼小叫"
-    ],
-    "antonyms": [
-      "轻声细语",
-      "悄无声息"
-    ]
-  },
-  {
     "id": "heng-xing-xiang-li",
     "text": "横行乡里",
     "pinyin": "héng xíng xiāng lǐ",
@@ -796,7 +749,8 @@
     "register": "neutral",
     "themes": [
       "war",
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "competition-and-rivalry"
     ],
     "literal": "two · armies · face · rampart",
     "natural": "two armies facing each other",
@@ -1336,8 +1290,7 @@
     "synonyms": [
       "珍重万千",
       "多多珍重",
-      "一路平安",
-      "保重身体"
+      "一路平安"
     ],
     "antonyms": []
   },
@@ -1525,52 +1478,6 @@
     ],
     "antonyms": [
       "毫无歉意"
-    ]
-  },
-  {
-    "id": "wan-fen-gan-xie",
-    "text": "万分感谢",
-    "pinyin": "wàn fēn gǎn xiè",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "positive",
-    "register": "formal",
-    "themes": [
-      "polite-humble",
-      "kindness-and-generosity"
-    ],
-    "literal": "ten thousand · parts · thank",
-    "natural": "thank you very much indeed",
-    "meaning": {
-      "en": "To thank someone with the utmost sincerity.",
-      "zh": "表示十分诚恳的谢意。"
-    },
-    "equivalents": [
-      "thank you from the bottom of my heart",
-      "most grateful"
-    ],
-    "examples": [
-      {
-        "zh": "感谢您的帮助，万分感谢！",
-        "en": "Thank you for your help; I can't thank you enough."
-      },
-      {
-        "zh": "对大家的支持，我们万分感谢。",
-        "en": "We are deeply grateful for everyone's support."
-      }
-    ],
-    "usage": {
-      "en": "Used in speech and letters; adds emphasis to 感谢.",
-      "zh": "用于口语和书信，强调感谢之情。"
-    },
-    "synonyms": [
-      "感激不尽",
-      "感恩戴德",
-      "谢天谢地"
-    ],
-    "antonyms": [
-      "恩将仇报",
-      "忘恩负义"
     ]
   },
   {

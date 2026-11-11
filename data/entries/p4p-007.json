@@ -1,49 +1,5 @@
 [
   {
-    "id": "jing-se-you-mei",
-    "text": "景色优美",
-    "pinyin": "jǐng sè yōu měi",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "landscapes",
-      "nature"
-    ],
-    "literal": "scenery · excellent · beautiful",
-    "natural": "the scenery is lovely",
-    "meaning": {
-      "en": "The scenery is beautiful and pleasing to the eye.",
-      "zh": "风景很好看，让人赏心悦目。"
-    },
-    "equivalents": [
-      "picturesque scenery",
-      "beautiful views"
-    ],
-    "examples": [
-      {
-        "zh": "这个湖区景色优美，每年吸引大批游客。",
-        "en": "The lake district has lovely scenery and draws crowds of visitors every year."
-      },
-      {
-        "zh": "我们住的小镇景色优美，空气也很清新。",
-        "en": "The town where we stayed has beautiful views and fresh air."
-      }
-    ],
-    "usage": {
-      "en": "Usually a predicate or a modifier of a place (景色优美的地方). Common in travel writing and brochures.",
-      "zh": "多作谓语，或修饰地方（景色优美的地方），常见于游记和旅游宣传。"
-    },
-    "synonyms": [
-      "风景如画",
-      "山清水秀"
-    ],
-    "antonyms": [
-      "不堪入目"
-    ]
-  },
-  {
     "id": "hao-wu-sheng-qi",
     "text": "毫无生气",
     "pinyin": "háo wú shēng qì",
@@ -86,51 +42,6 @@
     "antonyms": [
       "朝气蓬勃",
       "生机勃勃"
-    ]
-  },
-  {
-    "id": "zhua-jin-shi-jian",
-    "text": "抓紧时间",
-    "pinyin": "zhuā jǐn shí jiān",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "neutral",
-    "register": "neutral",
-    "themes": [
-      "time-management",
-      "value-of-time"
-    ],
-    "literal": "grasp · tight · time",
-    "natural": "make the most of time",
-    "meaning": {
-      "en": "To make full use of the time available and not waste it.",
-      "zh": "充分利用时间，不浪费。"
-    },
-    "equivalents": [
-      "make the most of one's time",
-      "not waste a minute"
-    ],
-    "examples": [
-      {
-        "zh": "离考试只有三天了，大家要抓紧时间复习。",
-        "en": "The exam is only three days away, so everyone must use their time well to revise."
-      },
-      {
-        "zh": "我们得抓紧时间，不然赶不上火车了。",
-        "en": "We must hurry up, or we will miss the train."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase, often in requests or reminders (要抓紧时间 + verb).",
-      "zh": "动词短语，常用于提醒或要求（要抓紧时间＋动词）。"
-    },
-    "synonyms": [
-      "争分夺秒",
-      "分秒必争"
-    ],
-    "antonyms": [
-      "浪费时间",
-      "虚度光阴"
     ]
   },
   {
@@ -224,50 +135,6 @@
     "antonyms": [
       "举止粗鲁",
       "粗俗不堪"
-    ]
-  },
-  {
-    "id": "hu-xiang-pei-he",
-    "text": "互相配合",
-    "pinyin": "hù xiāng pèi hé",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "unity-and-cooperation"
-    ],
-    "literal": "each other · mutually · coordinate · fit together",
-    "natural": "work well together",
-    "meaning": {
-      "en": "To coordinate with one another so that the work goes smoothly.",
-      "zh": "彼此协调一致，共同完成任务。"
-    },
-    "equivalents": [
-      "work in step with each other",
-      "coordinate closely"
-    ],
-    "examples": [
-      {
-        "zh": "队员们互相配合，终于赢下了比赛。",
-        "en": "The players worked well together and finally won the match."
-      },
-      {
-        "zh": "两个部门要互相配合，才能按时完工。",
-        "en": "The two departments must coordinate with each other to finish on time."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase; common in work, sport and team settings.",
-      "zh": "动词短语，常见于工作、体育和团队场合。"
-    },
-    "synonyms": [
-      "齐心协力",
-      "相得益彰"
-    ],
-    "antonyms": [
-      "各自为政",
-      "互相拆台"
     ]
   },
   {
@@ -770,50 +637,6 @@
     ]
   },
   {
-    "id": "hao-wu-jia-zhi",
-    "text": "毫无价值",
-    "pinyin": "háo wú jià zhí",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "neutral",
-    "themes": [
-      "common-and-worthless"
-    ],
-    "literal": "not at all · have no · value",
-    "natural": "utterly worthless",
-    "meaning": {
-      "en": "Having no value or use whatsoever.",
-      "zh": "一点价值也没有。"
-    },
-    "equivalents": [
-      "utterly worthless",
-      "of no value at all"
-    ],
-    "examples": [
-      {
-        "zh": "这份报告数据错误，毫无价值。",
-        "en": "The report's data is wrong, so it is worthless."
-      },
-      {
-        "zh": "他认为这些旧书毫无价值，全扔掉了。",
-        "en": "He thought the old books worthless and threw them all away."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or after 被认为 / 觉得; a strong judgement.",
-      "zh": "作谓语，常在“认为、觉得”之后，语气较重。"
-    },
-    "synonyms": [
-      "一文不值",
-      "毫无用处"
-    ],
-    "antonyms": [
-      "价值连城",
-      "无价之宝"
-    ]
-  },
-  {
     "id": "mian-qiang-ying-fu",
     "text": "勉强应付",
     "pinyin": "miǎn qiǎng yìng fù",
@@ -1123,59 +946,11 @@
     },
     "synonyms": [
       "心旷神怡",
-      "神清气爽",
-      "心情愉快"
+      "神清气爽"
     ],
     "antonyms": [
       "心烦意乱",
       "愁眉苦脸"
-    ]
-  },
-  {
-    "id": "da-chao-da-nao",
-    "text": "大吵大闹",
-    "pinyin": "dà chǎo dà nào",
-    "kind": "phrase",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "inappropriate-behavior",
-      "anger"
-    ],
-    "literal": "big · quarrel · big · make a fuss",
-    "natural": "kick up a fuss",
-    "meaning": {
-      "en": "To quarrel or make a loud scene.",
-      "zh": "大声争吵、吵闹。"
-    },
-    "equivalents": [
-      "make a scene",
-      "kick up a row"
-    ],
-    "examples": [
-      {
-        "zh": "孩子在商店里大吵大闹，要买玩具。",
-        "en": "The child threw a tantrum in the shop demanding a toy."
-      },
-      {
-        "zh": "有话好好说，别大吵大闹。",
-        "en": "Talk it over calmly; don't make a scene."
-      }
-    ],
-    "usage": {
-      "en": "Verb phrase, often after 别 / 不要; colloquial and disapproving.",
-      "zh": "动词短语，常在“别、不要”之后，口语，含贬义。"
-    },
-    "synonyms": [
-      "吵吵闹闹",
-      "撒泼打滚",
-      "大喊大叫"
-    ],
-    "antonyms": [
-      "悄然无声",
-      "心平气和",
-      "不声不响"
     ]
   },
   {
@@ -1306,7 +1081,6 @@
       "众说纷纭"
     ],
     "antonyms": [
-      "意见一致",
       "众口一词"
     ]
   },
@@ -1628,51 +1402,6 @@
     ]
   },
   {
-    "id": "nu-li-shang-jin",
-    "text": "努力上进",
-    "pinyin": "nǔ lì shàng jìn",
-    "kind": "phrase",
-    "frequency": 2,
-    "sentiment": "positive",
-    "register": "neutral",
-    "themes": [
-      "diligence-and-dedication",
-      "high-aspirations"
-    ],
-    "literal": "make efforts · strive upward",
-    "natural": "hard-working and ambitious",
-    "meaning": {
-      "en": "Working hard to better oneself.",
-      "zh": "勤奋，向上，不断进步。"
-    },
-    "equivalents": [
-      "diligent and ambitious",
-      "strive to improve"
-    ],
-    "examples": [
-      {
-        "zh": "他是个努力上进的青年，大家都看好他。",
-        "en": "He is a hard-working, ambitious young man, and everyone rates him."
-      },
-      {
-        "zh": "只要努力上进，总会有出头之日。",
-        "en": "If you strive to improve, your day will come."
-      }
-    ],
-    "usage": {
-      "en": "Predicate or attributive (努力上进的学生); common in school and job references.",
-      "zh": "作谓语或定语（努力上进的学生），常见于评语。"
-    },
-    "synonyms": [
-      "奋发图强",
-      "发愤图强"
-    ],
-    "antonyms": [
-      "不求进取",
-      "自甘堕落"
-    ]
-  },
-  {
     "id": "wu-yi-gao-qiang",
     "text": "武艺高强",
     "pinyin": "wǔ yì gāo qiáng",
@@ -1756,8 +1485,7 @@
       "和睦相处"
     ],
     "antonyms": [
-      "剑拔弩张",
-      "气氛紧张"
+      "剑拔弩张"
     ]
   },
   {
