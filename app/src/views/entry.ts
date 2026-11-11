@@ -17,6 +17,8 @@ import {
   themeLabel,
   linked,
   sourceDate,
+  state,
+  refreshMyTags,
 } from "../ui";
 import { showTheme } from "./list";
 
@@ -172,8 +174,60 @@ export function entryBody(d: EntryDetail, redraw: () => void): Node[] {
       h("div", { class: "chip-group" }, e.themes.map((t) => h("button", { class: "chip", onclick: () => showTheme(t) }, themeLabel(t)))),
     ),
     ),
+    myTagsCard(d),
     h("section", { class: "card muted small" }, h("strong", null, en() ? "My progress: " : "学习进度："), progress),
   ];
+}
+
+/** The learner's own tags on this entry: tap a tag to put it on or take it off, or make a new one. */
+function myTagsCard(d: EntryDetail) {
+  const box = h("div", { class: "chip-group" });
+  const draw = () => {
+    const names = [...new Set([...state.myTags.map((t) => t.name), ...d.my_tags])].sort();
+    clear(
+      box,
+      names.map((n) => {
+        const on = d.my_tags.includes(n);
+        return h(
+          "button",
+          {
+            class: `chip ${on ? "on" : ""}`,
+            "aria-pressed": String(on),
+            onclick: async () => {
+              await api.setTag(d.entry.id, n, !on);
+              d.my_tags = on ? d.my_tags.filter((x) => x !== n) : [...d.my_tags, n];
+              await refreshMyTags();
+              draw();
+            },
+          },
+          n,
+        );
+      }),
+      h(
+        "button",
+        {
+          class: "chip add-tag",
+          onclick: async () => {
+            const name = prompt(en() ? "New tag name (e.g. Exam, Essay words, Favourites from class)" : "新标签名称（如：考试、作文用词）")?.trim();
+            if (!name) return;
+            await api.setTag(d.entry.id, name, true);
+            if (!d.my_tags.includes(name)) d.my_tags = [...d.my_tags, name];
+            await refreshMyTags();
+            draw();
+          },
+        },
+        en() ? "+ New tag" : "+ 新标签",
+      ),
+    );
+  };
+  draw();
+  return h(
+    "section",
+    { class: "card" },
+    h("h3", null, en() ? "我的标签 My tags" : "我的标签"),
+    h("p", { class: "muted small" }, en() ? "Your own tags, only on this device. Filter by them in List, or study them as a deck." : "自己的标签，只保存在本机。可在列表中筛选，或作为学习卡组。"),
+    box,
+  );
 }
 
 /**

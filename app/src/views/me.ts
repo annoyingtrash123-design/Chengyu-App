@@ -1,9 +1,10 @@
-import { isTauri } from "../api";
-import { h, clear, en, pageHeader, saveSettings, state, toast } from "../ui";
+import { api, isTauri } from "../api";
+import { h, clear, en, pageHeader, saveSettings, state, toast, refreshMyTags } from "../ui";
 import { scheduleReminders } from "../notifications";
 import { canPromptInstall, isIos, isStandalone, promptInstall } from "../install";
 import { APP_VERSION, CHANGELOG } from "../changelog";
 import { contentsMapCard } from "./mindmap";
+import { showFilters } from "./list";
 import { checkForUpdate, onUpdateState, updateState, type UpdateStatus } from "../updates";
 
 export async function renderMe(root: HTMLElement) {
@@ -43,6 +44,7 @@ export async function renderMe(root: HTMLElement) {
     root,
     pageHeader(en() ? "Me" : "我的"),
     contentsMapCard(),
+    myTagsSection(() => renderMe(root)),
     h(
       "section",
       { class: "card" },
@@ -135,6 +137,59 @@ const CREDITS: { name: string; by: string; use: [string, string]; licence: strin
 ];
 
 /** About the content, privacy and third-party licences, each folded away, at the bottom of Me. */
+/** The learner's own tags: open one in List, rename or delete it. Hidden until a tag exists. */
+function myTagsSection(redraw: () => void) {
+  if (!state.myTags.length) return null;
+  return h(
+    "section",
+    { class: "card" },
+    h("h3", null, en() ? "我的标签 My tags" : "我的标签"),
+    h(
+      "div",
+      { class: "my-tags" },
+      state.myTags.map((t) =>
+        h(
+          "div",
+          { class: "my-tag-row" },
+          h("button", { class: "link-btn", onclick: () => showFilters({ my_tags: [t.name] }) }, `${t.name} · ${t.count}`),
+          h(
+            "span",
+            { class: "my-tag-actions" },
+            h(
+              "button",
+              {
+                class: "btn small",
+                onclick: async () => {
+                  const to = prompt(en() ? "Rename tag" : "重命名标签", t.name)?.trim();
+                  if (!to || to === t.name) return;
+                  await api.renameTag(t.name, to);
+                  await refreshMyTags();
+                  redraw();
+                },
+              },
+              en() ? "Rename" : "重命名",
+            ),
+            h(
+              "button",
+              {
+                class: "btn small",
+                onclick: async () => {
+                  if (!confirm(en() ? `Delete the tag “${t.name}”? The entries themselves stay.` : `删除标签“${t.name}”？词条本身不受影响。`)) return;
+                  await api.deleteTag(t.name);
+                  await refreshMyTags();
+                  redraw();
+                },
+              },
+              en() ? "Delete" : "删除",
+            ),
+          ),
+        ),
+      ),
+    ),
+    h("p", { class: "muted small" }, en() ? "Add tags from any entry page. Study a tag as a deck from Study → deck → My tags." : "在任意词条页添加标签。学习页选卡组时也可按“我的标签”筛选。"),
+  );
+}
+
 function aboutSection() {
   const fold = (title: string, ...body: (Node | Node[] | null)[]) =>
     h("details", { class: "card collapsible" }, h("summary", null, h("span", null, title)), ...body);

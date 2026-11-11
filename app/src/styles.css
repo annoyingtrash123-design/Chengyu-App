@@ -532,3 +532,9 @@ body.kb .search-bar.bottom { bottom: 0; padding-bottom: 8px; }
 .tone { display: inline-block; margin-left: 5px; font-size: 11px; line-height: 1; padding: 2px 3px; border-radius: 4px; vertical-align: 1px; font-weight: 600; }
 .tone-positive { color: #1e9e6a; background: color-mix(in srgb, #1e9e6a 14%, transparent); }
 .tone-negative { color: var(--accent); background: var(--accent-soft); }
+
+/* The learner's own tags. */
+.chip.add-tag { border-style: dashed; color: var(--muted); }
+.my-tag-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.my-tag-row:last-child { border-bottom: none; }
+.my-tag-actions { display: flex; gap: 6px; flex: none; }

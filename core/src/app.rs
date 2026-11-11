@@ -257,11 +257,33 @@ impl App {
                     "synonyms": self.links(e, &e.synonyms),
                     "antonyms": self.links(e, &e.antonyms),
                     "chars": e.chars().iter().map(|c| c.to_string()).collect::<Vec<_>>(),
+                    "my_tags": self.user.tags_of(&id),
                 })
             }
             "summaries" => {
                 let ids: Vec<String> = arg(args, "ids")?;
                 json!(ids.iter().filter_map(|id| self.dict.get(id)).map(|e| self.summary(e)).collect::<Vec<_>>())
+            }
+            "tags" => json!(self.user.tags.iter().map(|(t, ids)| json!({"name": t, "count": ids.len()})).collect::<Vec<_>>()),
+            "set_tag" => {
+                let id: String = arg(args, "id")?;
+                let tag: String = arg(args, "tag")?;
+                let on: bool = arg(args, "on")?;
+                self.entry_or_err(&id)?;
+                dirty = true;
+                json!(self.user.set_tag(&id, &tag, on))
+            }
+            "rename_tag" => {
+                let from: String = arg(args, "from")?;
+                let to: String = arg(args, "to")?;
+                dirty = true;
+                self.user.rename_tag(&from, &to);
+                json!(null)
+            }
+            "delete_tag" => {
+                let name: String = arg(args, "name")?;
+                dirty = true;
+                json!(self.user.tags.remove(&name).is_some())
             }
             "toggle_favourite" => {
                 let id: String = arg(args, "id")?;
@@ -407,8 +429,8 @@ impl App {
             "export" => json!(self.user),
             "import" => {
                 let mut data: UserData = arg(args, "data")?;
-                if data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty() {
-                    return Err("this backup has no progress in it (no cards, favourites or history)".into());
+                if data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty() && data.tags.is_empty() {
+                    return Err("this backup has no progress in it (no cards, favourites, tags or history)".into());
                 }
                 // Drop anything that refers to entries this version doesn't have.
                 let known = |id: &String| self.dict.get(id).is_some();
@@ -417,6 +439,10 @@ impl App {
                 data.favourites.retain(known);
                 data.accuracy.retain(|id, _| known(id));
                 data.viewed.retain(known);
+                for ids in data.tags.values_mut() {
+                    ids.retain(known);
+                }
+                data.tags.retain(|_, ids| !ids.is_empty());
                 let dropped = before - data.cards.len() - data.favourites.len();
                 let summary = json!({
                     "cards": data.cards.len(),
@@ -434,7 +460,8 @@ impl App {
                     "cards": data.cards.len(),
                     "favourites": data.favourites.len(),
                     "days": data.history.len(),
-                    "empty": data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty(),
+                    "tags": data.tags.len(),
+                    "empty": data.cards.is_empty() && data.favourites.is_empty() && data.history.is_empty() && data.tags.is_empty(),
                 })
             }
             _ => return Err(format!("unknown command `{cmd}`")),
@@ -587,6 +614,24 @@ mod tests {
         let id = app.dict.entries()[0].id.clone();
         call(&mut app, "toggle_favourite", json!({"id": id}));
         assert!(app.changed);
+    }
+
+    #[test]
+    fn custom_tags_filter_and_detail() {
+        let mut app = App::new(None);
+        let id = app.dict.entries()[0].id.clone();
+        call(&mut app, "set_tag", json!({"id": id, "tag": "考试", "on": true}));
+        let r = call(&mut app, "search", json!({"filters": {"my_tags": ["考试"]}}));
+        assert_eq!(r["total"], 1);
+        assert_eq!(call(&mut app, "entry", json!({"id": id}))["my_tags"], json!(["考试"]));
+        assert_eq!(call(&mut app, "tags", json!({})), json!([{"name": "考试", "count": 1}]));
+        // Saved progress is restored through import: tags alone must survive a reload.
+        let saved = call(&mut app, "export", json!({}));
+        let mut fresh = App::new(None);
+        call(&mut fresh, "import", json!({"data": saved}));
+        assert_eq!(call(&mut fresh, "tags", json!({})), json!([{"name": "考试", "count": 1}]));
+        call(&mut app, "delete_tag", json!({"name": "考试"}));
+        assert_eq!(call(&mut app, "tags", json!({})), json!([]));
     }
 
     #[test]

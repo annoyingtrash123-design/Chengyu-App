@@ -75,6 +75,8 @@ pub struct UserData {
     pub best_streak: u32,
     /// Recently opened entries, newest first.
     pub viewed: Vec<String>,
+    /// The learner's own tags: tag name → the entries carrying it.
+    pub tags: BTreeMap<String, BTreeSet<String>>,
 }
 
 /// How many recently viewed entries to remember.
@@ -91,6 +93,7 @@ impl Default for UserData {
             settings: Settings::default(),
             best_streak: 0,
             viewed: Vec::new(),
+            tags: BTreeMap::new(),
         }
     }
 }
@@ -185,6 +188,39 @@ impl UserData {
         let mut ids: Vec<(&String, &Card)> = self.cards.iter().collect();
         ids.sort_by(|a, b| b.1.last_review.cmp(&a.1.last_review).then(a.0.cmp(b.0)));
         ids.into_iter().map(|(id, _)| id.as_str()).collect()
+    }
+
+    /// Put a tag on an entry or take it off. A tag left with no entries disappears. Returns whether it is now on.
+    pub fn set_tag(&mut self, id: &str, tag: &str, on: bool) -> bool {
+        let tag = tag.trim();
+        if tag.is_empty() {
+            return false;
+        }
+        if on {
+            self.tags.entry(tag.to_string()).or_default().insert(id.to_string());
+        } else if let Some(ids) = self.tags.get_mut(tag) {
+            ids.remove(id);
+            if ids.is_empty() {
+                self.tags.remove(tag);
+            }
+        }
+        on
+    }
+
+    /// Rename a tag (merging into an existing tag of the new name).
+    pub fn rename_tag(&mut self, from: &str, to: &str) {
+        let to = to.trim();
+        if to.is_empty() || from == to {
+            return;
+        }
+        if let Some(ids) = self.tags.remove(from) {
+            self.tags.entry(to.to_string()).or_default().extend(ids);
+        }
+    }
+
+    /// Tags on one entry, in name order.
+    pub fn tags_of(&self, id: &str) -> Vec<&str> {
+        self.tags.iter().filter(|(_, ids)| ids.contains(id)).map(|(t, _)| t.as_str()).collect()
     }
 
     pub fn toggle_favourite(&mut self, id: &str) -> bool {
@@ -318,6 +354,22 @@ mod tests {
         assert_eq!(s.last_30_days.len(), 30);
         assert_eq!(*s.last_30_days.last().unwrap(), 5);
         assert_eq!(s.weak_spots[0].id, "b");
+    }
+
+    #[test]
+    fn custom_tags() {
+        let mut u = UserData::default();
+        u.set_tag("a", "考试", true);
+        u.set_tag("b", "考试", true);
+        u.set_tag("a", " 写作 ", true);
+        assert_eq!(u.tags_of("a"), vec!["写作", "考试"]);
+        u.rename_tag("考试", "写作");
+        assert_eq!(u.tags["写作"].len(), 2);
+        u.set_tag("a", "写作", false);
+        u.set_tag("b", "写作", false);
+        assert!(u.tags.is_empty(), "an empty tag disappears");
+        let old: UserData = serde_json::from_str(r#"{"favourites":["a"]}"#).unwrap();
+        assert!(old.tags.is_empty(), "older backups load without tags");
     }
 
     #[test]

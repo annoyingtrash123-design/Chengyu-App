@@ -63,6 +63,8 @@ pub struct Filters {
     pub registers: Vec<Register>,
     pub statuses: Vec<Status>,
     pub favourites_only: bool,
+    /// The learner's own tags: entries carrying any of them.
+    pub my_tags: Vec<String>,
     pub has_origin: bool,
     /// Only modern coinages and borrowings.
     pub modern_only: bool,
@@ -270,6 +272,7 @@ impl Dictionary {
             && any_or_empty(f.registers.is_empty(), f.registers.contains(&e.register))
             && any_or_empty(f.statuses.is_empty(), f.statuses.contains(&user.status(&e.id)))
             && (!f.favourites_only || user.favourites.contains(&e.id))
+            && (f.my_tags.is_empty() || f.my_tags.iter().any(|t| user.tags.get(t).is_some_and(|ids| ids.contains(&e.id))))
             && (!f.has_origin || e.origin.is_some())
             && (!f.modern_only || e.modern.is_some())
     }

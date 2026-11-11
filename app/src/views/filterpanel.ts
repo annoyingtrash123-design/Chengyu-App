@@ -146,6 +146,12 @@ export function filterPanel(f: Filters, onChange: () => void, onDone: () => void
     section(t("感情色彩", "Sentiment"), chipGroup<Sentiment>(["positive", "neutral", "negative"], f.sentiments, (s) => label(SENTIMENT_LABEL[s]), changed((v) => (f.sentiments = v)))),
     section(t("语体", "Register"), chipGroup<Register>(["casual", "neutral", "formal", "literary"], f.registers, (r) => label(REGISTER_LABEL[r]), changed((v) => (f.registers = v)))),
     section(t("学习状态", "My progress"), chipGroup<Status>(["new", "learning", "mastered"], f.statuses, (s) => label(STATUS_LABEL[s]), changed((v) => (f.statuses = v)))),
+    state.myTags.length
+      ? section(
+          t("我的标签", "My tags"),
+          chipGroup(state.myTags.map((x) => x.name), f.my_tags, (n) => `${n} (${state.myTags.find((x) => x.name === n)?.count ?? 0})`, changed((v) => (f.my_tags = v))),
+        )
+      : null,
     section(
       t("其他", "Other"),
       h(
@@ -187,7 +193,8 @@ export function filterSummary(f: Filters): string {
   if (f.themes.length) parts.push(f.themes.map((x) => themeLabel(x).split(" ")[0]).join("、"));
   if (f.frequencies.length) parts.push(f.frequencies.map((q) => FREQUENCY_LABEL[q].stars).join("、"));
   if (f.favourites_only) parts.push("♥");
-  const others = activeFilterCount(f) - f.kinds.length - f.themes.length - f.frequencies.length - (f.favourites_only ? 1 : 0);
+  if (f.my_tags.length) parts.push(f.my_tags.join("、"));
+  const others = activeFilterCount(f) - f.kinds.length - f.themes.length - f.frequencies.length - (f.favourites_only ? 1 : 0) - f.my_tags.length;
   if (others > 0) parts.push(`+${others}`);
   return parts.length ? parts.join(" · ") : t("全部类型和标签", "All types & labels");
 }

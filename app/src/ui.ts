@@ -48,13 +48,19 @@ export function navigate(hash: string) {
 
 // ---------- Shared state ----------
 
-export const state: { settings: Settings; meta: Meta | null } = {
+export const state: { settings: Settings; meta: Meta | null; myTags: { name: string; count: number }[] } = {
   settings: { daily_goal: 20, new_per_day: 10, show_english: true, reminders: false, reminder_time: "20:00" },
   meta: null,
+  myTags: [],
 };
 
 export async function loadState() {
-  [state.settings, state.meta] = await Promise.all([api.settings(), api.meta()]);
+  [state.settings, state.meta, state.myTags] = await Promise.all([api.settings(), api.meta(), api.tags()]);
+}
+
+/** Re-read the learner's own tags (after adding, renaming or deleting one). */
+export async function refreshMyTags() {
+  state.myTags = await api.tags();
 }
 
 export async function saveSettings(patch: Partial<Settings>) {

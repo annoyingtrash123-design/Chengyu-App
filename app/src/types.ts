@@ -79,6 +79,7 @@ export interface EntryDetail {
   synonyms: Link[];
   antonyms: Link[];
   chars: string[];
+  my_tags: string[];
 }
 
 export interface Theme {
@@ -108,6 +109,7 @@ export interface Filters {
   registers: Register[];
   statuses: Status[];
   favourites_only: boolean;
+  my_tags: string[];
   has_origin: boolean;
   modern_only: boolean;
 }

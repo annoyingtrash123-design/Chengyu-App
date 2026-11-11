@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.23",
+    date: "2026-11-11",
+    en: [
+      "My tags: give any entry your own tags (e.g. 考试必背, essay words) from the new card at the bottom of each entry. Filter by them in List, study them as a deck, and rename or delete them under Me. They are saved with your progress and included in backups.",
+    ],
+    zh: [
+      "我的标签：在每个词条底部的新卡片中，可给词条加上自己的标签（如“考试必背”“作文用词”）。可在列表中按标签筛选、作为学习卡组，并在“我的”页重命名或删除。标签随学习进度保存，也包含在备份中。",
+    ],
+  },
+  {
     version: "0.22",
     date: "2026-11-11",
     en: [
