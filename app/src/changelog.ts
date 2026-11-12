@@ -13,10 +13,10 @@ export const CHANGELOG: Release[] = [
     version: "0.24",
     date: "2026-11-12",
     en: [
-      "Within each star rating, lists, search results and new study cards now come most common first (by corpus frequency), instead of alphabetically.",
+      "Within each star rating, lists and new study cards now come most common first (by corpus frequency), instead of alphabetically.",
     ],
     zh: [
-      "同一星级内，列表、搜索结果和新学习卡片改为按语料频率从常用到少用排列，不再按拼音字母顺序。",
+      "同一星级内，列表和新学习卡片改为按语料频率从常用到少用排列，不再按拼音字母顺序。",
     ],
   },
   {

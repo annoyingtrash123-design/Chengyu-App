@@ -411,7 +411,12 @@ impl Dictionary {
             b.score
                 .cmp(&a.score)
                 .then(ea.frequency.cmp(&eb.frequency))
-                .then(self.keys[b.index].corpus_count.cmp(&self.keys[a.index].corpus_count))
+                // Browsing (no query): most common first within a star tier. Search results keep their own
+                // tie order until search ranking itself is reworked.
+                .then_with(|| match (a.matched, b.matched) {
+                    (MatchKind::All, MatchKind::All) => self.keys[b.index].corpus_count.cmp(&self.keys[a.index].corpus_count),
+                    _ => std::cmp::Ordering::Equal,
+                })
                 .then_with(|| self.keys[a.index].pinyin_plain.cmp(&self.keys[b.index].pinyin_plain))
         });
         hits
