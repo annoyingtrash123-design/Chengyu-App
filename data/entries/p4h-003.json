@@ -676,56 +676,6 @@
     ]
   },
   {
-    "id": "shi-ke-lang-dai-hua-chou-mei",
-    "text": "屎壳郎戴花——臭美",
-    "pinyin": "shǐ ké láng dài huā —— chòu měi",
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "屎壳郎戴花",
-      "臭美"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "attitude-humble-vs-arrogant",
-      "appearance"
-    ],
-    "literal": "dung beetle · wear · flower — smelly · pretty",
-    "natural": "a dung beetle wearing a flower",
-    "meaning": {
-      "en": "A dung beetle with a flower in its hair; someone vain who thinks they look fine when they don't.",
-      "zh": "屎壳郎头上戴花，自以为美；比喻自我感觉良好，爱显摆。"
-    },
-    "equivalents": [
-      "vain as a peacock",
-      "preen oneself"
-    ],
-    "examples": [
-      {
-        "zh": "她穿成这样还照镜子，真是屎壳郎戴花。",
-        "en": "She looks in the mirror dressed like that; how vain."
-      },
-      {
-        "zh": "别屎壳郎戴花了，谁看你啊。",
-        "en": "Stop preening; nobody's looking at you."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. 臭美 is a colloquial word for 'vain'; a mildly teasing remark among friends.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。“臭美”口语，意为自我欣赏；朋友间半开玩笑用。"
-    },
-    "synonyms": [
-      "自命不凡",
-      "沾沾自喜",
-      "自我陶醉"
-    ],
-    "antonyms": [
-      "自知之明",
-      "虚怀若谷"
-    ]
-  },
-  {
     "id": "si-liang-mian-hua-tan-bu-shang",
     "text": "四两棉花——谈（弹）不上",
     "pinyin": "sì liǎng mián hua —— tán (tán) bù shàng",
@@ -820,55 +770,6 @@
     "antonyms": [
       "除暴安良",
       "抑强扶弱"
-    ]
-  },
-  {
-    "id": "gou-gai-bu-liao-chi-shi-ben-xing-nan-yi",
-    "text": "狗改不了吃屎——本性难移",
-    "pinyin": "gǒu gǎi bù liǎo chī shǐ —— běn xìng nán yí",
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "狗改不了吃屎",
-      "本性难移"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "resistance-to-change",
-      "negative-character-flaws"
-    ],
-    "literal": "dog · change · cannot · eat · dung — original · nature · hard · change",
-    "natural": "a dog can't give up eating dung",
-    "meaning": {
-      "en": "A dog won't give up eating dung; a person's bad habits are hard to change.",
-      "zh": "狗改不掉吃屎的习惯；比喻坏习惯、本性难以改变。"
-    },
-    "equivalents": [
-      "a leopard can't change its spots",
-      "old habits die hard"
-    ],
-    "examples": [
-      {
-        "zh": "他又赌钱了，真是狗改不了吃屎。",
-        "en": "He's gambling again; a leopard can't change its spots."
-      },
-      {
-        "zh": "说了多少次也没用，狗改不了吃屎。",
-        "en": "I've told him often enough; it's no use."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Vulgar and rude when applied to a person; the second half 本性难移 is itself a common proverb.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。用于人时粗俗，不礼貌；后半句“本性难移”本身也是常用成语。"
-    },
-    "synonyms": [
-      "江山易改，本性难移",
-      "积习难改"
-    ],
-    "antonyms": [
-      "洗心革面",
-      "脱胎换骨"
     ]
   },
   {
@@ -1028,59 +929,6 @@
     "antonyms": [
       "坚持到底",
       "善始善终"
-    ]
-  },
-  {
-    "id": "mao-keng-li-de-shi-tou-you-chou-you-ying",
-    "text": "茅坑里的石头——又臭又硬",
-    "pinyin": "máo kēng lǐ de shí tou —— yòu chòu yòu yìng",
-    "variants": [
-      "屎坑里的砖头——又臭又硬",
-      "粪缸里泡过的石头——又臭又硬"
-    ],
-    "kind": "xiehouyu",
-    "frequency": 2,
-    "parts": [
-      "茅坑里的石头",
-      "又臭又硬"
-    ],
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "negative-character-flaws",
-      "resistance-to-change"
-    ],
-    "literal": "latrine · pit · in · 's · stone — also · smelly · also · hard",
-    "natural": "a stone in the latrine: smelly and hard",
-    "meaning": {
-      "en": "A stone in a toilet pit is both foul and hard; a stubborn person with an unpleasant manner.",
-      "zh": "茅坑里的石头又臭又硬；比喻人固执又讨厌。"
-    },
-    "equivalents": [
-      "stubborn as a mule",
-      "obstinate and unpleasant"
-    ],
-    "examples": [
-      {
-        "zh": "他是茅坑里的石头，又臭又硬，谁劝也不听。",
-        "en": "He's obstinate and nasty; nobody can persuade him."
-      },
-      {
-        "zh": "这个老头儿像茅坑里的石头，脾气又臭又硬。",
-        "en": "That old man is stubborn and foul-tempered."
-      }
-    ],
-    "usage": {
-      "en": "Usually only the first half is said, leaving the listener to supply the punchline. Casual and humorous. Vulgar; used for an obstinate person or a stubborn, unpleasant style.",
-      "zh": "多只说前半句，后半句由听者自己领会。口语，带诙谐意味。较粗俗，指人固执且令人讨厌。"
-    },
-    "synonyms": [
-      "顽固不化",
-      "冥顽不灵"
-    ],
-    "antonyms": [
-      "虚心接受",
-      "通情达理"
     ]
   }
 ]

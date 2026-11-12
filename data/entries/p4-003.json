@@ -203,51 +203,6 @@
     "antonyms": []
   },
   {
-    "id": "gou-pi-bu-tong",
-    "text": "狗屁不通",
-    "pinyin": "gǒu pì bù tōng",
-    "kind": "chengyu",
-    "frequency": 2,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "poor-speech-and-silence",
-      "artistic-mediocrity"
-    ],
-    "literal": "dog · fart · not · make sense",
-    "natural": "utter nonsense",
-    "meaning": {
-      "en": "Complete nonsense: of writing or speech that makes no sense at all.",
-      "zh": "形容文章或言论毫无道理，完全不通顺。"
-    },
-    "equivalents": [
-      "utter rubbish",
-      "complete gibberish"
-    ],
-    "examples": [
-      {
-        "zh": "这篇文章写得狗屁不通，简直没法看。",
-        "en": "The essay is utter gibberish and unreadable."
-      },
-      {
-        "zh": "你那套理论狗屁不通。",
-        "en": "That theory of yours is rubbish."
-      }
-    ],
-    "usage": {
-      "en": "Crude and strongly derogatory; avoid in polite company.",
-      "zh": "粗俗，贬义强，礼貌场合不宜。"
-    },
-    "synonyms": [
-      "胡说八道",
-      "不知所云"
-    ],
-    "antonyms": [
-      "文从字顺",
-      "言之成理"
-    ]
-  },
-  {
     "id": "qing-hong-zao-bai",
     "text": "青红皂白",
     "pinyin": "qīng hóng zào bái",
@@ -380,7 +335,6 @@
     ],
     "antonyms": [
       "大失所望",
-      "拍马屁拍到蹄子上——倒挨一脚",
       "事与愿违"
     ]
   },

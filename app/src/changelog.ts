@@ -14,9 +14,11 @@ export const CHANGELOG: Release[] = [
     date: "2026-11-12",
     en: [
       "Within each star rating, lists and new study cards now come most common first (by corpus frequency), instead of alphabetically.",
+      "27 crude sayings removed (e.g. 脱裤子放屁——多此一举, 狗改不了吃屎) along with their links from other entries.",
     ],
     zh: [
       "同一星级内，列表和新学习卡片改为按语料频率从常用到少用排列，不再按拼音字母顺序。",
+      "删除 27 条粗俗说法（如“脱裤子放屁——多此一举”“狗改不了吃屎”）及其在其他词条中的关联。",
     ],
   },
   {

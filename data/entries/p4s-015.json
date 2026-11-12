@@ -503,51 +503,6 @@
     ]
   },
   {
-    "id": "gou-gai-bu-liao-chi-shi",
-    "text": "狗改不了吃屎",
-    "pinyin": "gǒu gǎi bù liǎo chī shǐ",
-    "kind": "suyu",
-    "frequency": 3,
-    "sentiment": "negative",
-    "register": "casual",
-    "themes": [
-      "negative-character-flaws",
-      "resistance-to-change"
-    ],
-    "literal": "dog · change · cannot · eat · dung",
-    "natural": "a dog can't stop eating dung",
-    "meaning": {
-      "en": "Bad habits and a bad nature never change.",
-      "zh": "恶习和本性很难改变。"
-    },
-    "equivalents": [
-      "a leopard can't change its spots",
-      "you can't teach an old dog new tricks"
-    ],
-    "examples": [
-      {
-        "zh": "他出狱没多久又去赌博，真是狗改不了吃屎。",
-        "en": "Not long out of prison he's gambling again: a leopard can't change its spots."
-      },
-      {
-        "zh": "别指望他改，狗改不了吃屎。",
-        "en": "Don't expect him to change."
-      }
-    ],
-    "usage": {
-      "en": "Vulgar; used about incorrigible people.",
-      "zh": "较粗俗，指本性难移的人。"
-    },
-    "synonyms": [
-      "江山易改，本性难移",
-      "死性不改"
-    ],
-    "antonyms": [
-      "洗心革面",
-      "改过自新"
-    ]
-  },
-  {
     "id": "gou-zui-li-tu-bu-chu-xiang-ya",
     "text": "狗嘴里吐不出象牙",
     "pinyin": "gǒu zuǐ lǐ tǔ bù chū xiàng yá",
@@ -900,8 +855,7 @@
       "zh": "中性，但可能含任人唯亲之意。"
     },
     "synonyms": [
-      "楚弓楚得",
-      "自留地里撒尿——肥水不落外人田"
+      "楚弓楚得"
     ],
     "antonyms": [
       "大公无私"
