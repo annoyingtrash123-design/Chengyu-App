@@ -34,6 +34,20 @@ struct Keys {
     variants: Vec<(Vec<char>, Option<String>)>,
     english_words: Vec<String>,
     english_text: String,
+    /// How often the expression (or one of its forms) occurs in the THUOCL corpus; 0 when it isn't listed.
+    /// Orders entries within a star tier, most common first.
+    corpus_count: u32,
+}
+
+/// Corpus counts from THUOCL's idiom list (`word<TAB>count` per line).
+fn corpus_counts() -> HashMap<&'static str, u32> {
+    include_str!("../../data/source/thuocl/THUOCL_chengyu.txt")
+        .lines()
+        .filter_map(|l| {
+            let (w, n) = l.split_once('\t')?;
+            Some((w.trim(), n.trim().parse().ok()?))
+        })
+        .collect()
 }
 
 pub struct Dictionary {
@@ -136,6 +150,7 @@ impl Dictionary {
     }
 
     pub fn new(entries: Vec<Entry>, themes: Vec<Theme>) -> Self {
+        let counts = corpus_counts();
         let keys = entries
             .iter()
             .map(|e| {
@@ -167,6 +182,11 @@ impl Dictionary {
                     initials: pinyin::initials(&e.pinyin),
                     english_words: english_words(&english_text),
                     english_text,
+                    corpus_count: std::iter::once(&e.text)
+                        .chain(e.variants.iter())
+                        .filter_map(|f| counts.get(f.as_str()).copied())
+                        .max()
+                        .unwrap_or(0),
                 }
             })
             .collect();
@@ -391,6 +411,7 @@ impl Dictionary {
             b.score
                 .cmp(&a.score)
                 .then(ea.frequency.cmp(&eb.frequency))
+                .then(self.keys[b.index].corpus_count.cmp(&self.keys[a.index].corpus_count))
                 .then_with(|| self.keys[a.index].pinyin_plain.cmp(&self.keys[b.index].pinyin_plain))
         });
         hits
@@ -448,6 +469,16 @@ mod tests {
         let d = dict();
         assert_eq!(top(&d, "一語成讖"), "一语成谶");
         assert_eq!(top(&d, "畫蛇添足"), "画蛇添足");
+    }
+
+    #[test]
+    fn most_common_first_within_a_tier() {
+        let d = dict();
+        let f = Filters { frequencies: vec![1], ..Default::default() };
+        let hits = d.search("", &f, &UserData::default());
+        let counts: Vec<u32> = hits.iter().take(50).map(|h| d.keys[h.index].corpus_count).collect();
+        assert!(counts.windows(2).all(|w| w[0] >= w[1]), "★★★ entries come most common first");
+        assert!(counts[0] > 10_000);
     }
 
     #[test]
