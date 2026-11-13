@@ -1,0 +1,23 @@
+TASK — synonym/antonym check for a Chinese idiom dictionary (for English-speaking learners). Batch {b} of 14.
+
+Each numbered line: ENTRY (short meaning) — SYN or ANT: ITEM (short meaning).
+SYN = ITEM is listed as a synonym (近义词) of ENTRY; ANT = listed as an antonym (反义词).
+
+The test: would a mainstream Chinese 近义词/反义词 dictionary (汉典, 百度汉语, a printed 成语词典) plausibly list ITEM for ENTRY?
+KEEP (do not report): near-synonyms that overlap in the main sense (even if not exact, stronger/weaker, or a different
+register); classic dictionary antonym pairs (垂头丧气↔趾高气扬, 面不改色↔面红耳赤, 不学无术↔勤学苦练, 屡战屡败↔屡败屡战);
+a synonym of the opposite tone with the same sense (能言善辩 / 巧舌如簧); a warning proverb ↔ the advice it gives (SYN) or
+the fault it warns against (ANT): 欲速则不达 SYN 循序渐进, ANT 拔苗助长; plain words and phrases (失信于民, 遵纪守法) —
+"not in this dictionary" only means the app lacks it, not that it is wrong.
+REPORT:
+  remove = shares only a topic, image or situation; an "antonym" that is merely different or opposite only on a side
+           detail; a form of the entry itself or a second form of something already listed; a garbled expression.
+  move   = clearly in the wrong list (a true antonym under SYN, or a true synonym under ANT).
+When unsure, keep. Most lines are fine.
+
+REPLY FORMAT — report ONLY the lines to remove or move, one per line, nothing else:
+  n | ENTRY | ITEM | remove | reason in at most 8 words
+  n | ENTRY | ITEM | move | reason
+If the reply gets long, stop at a line boundary; I will ask you to continue.
+
+LINES
