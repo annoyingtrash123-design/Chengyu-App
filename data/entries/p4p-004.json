@@ -590,7 +590,8 @@
     "register": "neutral",
     "themes": [
       "efficiency",
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "exact-vs-approximate"
     ],
     "literal": "not at all · have no · omission · slip",
     "natural": "without leaving anything out",
@@ -635,7 +636,9 @@
     "register": "neutral",
     "themes": [
       "diligence-and-dedication",
-      "courage-and-boldness"
+      "courage-and-boldness",
+      "effort",
+      "positive-character-qualities"
     ],
     "literal": "persist · until · the · end",
     "natural": "see it through",
@@ -728,7 +731,8 @@
     "register": "neutral",
     "themes": [
       "unity-and-cooperation",
-      "friendship"
+      "friendship",
+      "relationships"
     ],
     "literal": "united · friendly · love",
     "natural": "united and friendly",
@@ -1033,7 +1037,8 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "good-governance"
+      "good-governance",
+      "positive-character-qualities"
     ],
     "literal": "serve as · official · clean · incorrupt",
     "natural": "an incorruptible official",
@@ -1124,7 +1129,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "kindness-and-generosity"
+      "kindness-and-generosity",
+      "positive-character-qualities"
     ],
     "literal": "not · seek · return · reward",
     "natural": "expect nothing in return",
@@ -1399,7 +1405,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "composure-and-calm"
+      "composure-and-calm",
+      "positive-character-qualities"
     ],
     "literal": "bearing · manner · unhurried · composed",
     "natural": "calm and unhurried in manner",
@@ -1442,7 +1449,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "composure-and-calm"
+      "composure-and-calm",
+      "positive-character-qualities",
+      "mental-clarity"
     ],
     "literal": "expression · bearing · calm · steady",
     "natural": "calm in expression",
@@ -1618,7 +1627,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "composure-and-calm"
+      "composure-and-calm",
+      "positive-character-qualities",
+      "mental-clarity"
     ],
     "literal": "not at all · flustered · confused",
     "natural": "not in the least flustered",
@@ -1752,7 +1763,8 @@
     "register": "neutral",
     "themes": [
       "diligence-and-dedication",
-      "courage-and-boldness"
+      "courage-and-boldness",
+      "effort"
     ],
     "literal": "not · fear · eat · bitterness",
     "natural": "not afraid of hardship",

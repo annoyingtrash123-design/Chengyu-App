@@ -619,7 +619,8 @@
     "register": "casual",
     "themes": [
       "revenge-and-retribution",
-      "fortune"
+      "fortune",
+      "natural-consequences"
     ],
     "literal": "good · evil · at the end · finally · have · return",
     "natural": "good and evil are repaid in the end",
@@ -664,7 +665,8 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "revenge-and-retribution"
+      "revenge-and-retribution",
+      "natural-consequences"
     ],
     "literal": "bad person · naturally · have · bad person · grind",
     "natural": "a villain will meet a worse villain",
@@ -1149,7 +1151,8 @@
     "register": "formal",
     "themes": [
       "evenly-matched",
-      "games-and-sports"
+      "games-and-sports",
+      "relative-measurements"
     ],
     "literal": "general · meet · good · talent",
     "natural": "a general meets a worthy foe",
@@ -1195,7 +1198,8 @@
     "register": "neutral",
     "themes": [
       "evenly-matched",
-      "games-and-sports"
+      "games-and-sports",
+      "relative-measurements"
     ],
     "literal": "win · lose · hard · tell",
     "natural": "too close to call",

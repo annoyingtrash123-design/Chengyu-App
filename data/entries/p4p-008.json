@@ -366,7 +366,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "speech"
     ],
     "literal": "not at all · have no · basis",
     "natural": "completely groundless",
@@ -544,7 +545,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "comebacks-and-renewal"
+      "comebacks-and-renewal",
+      "change"
     ],
     "literal": "radiate · new · life",
     "natural": "gain a new lease of life",
@@ -633,7 +635,9 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "outstanding-character"
+      "outstanding-character",
+      "positive-character-qualities",
+      "good-governance"
     ],
     "literal": "whole life · clean and incorruptible",
     "natural": "honest all one's life",
@@ -676,7 +680,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "innovation-and-progress"
+      "innovation-and-progress",
+      "change"
     ],
     "literal": "without stopping · innovate",
     "natural": "keep innovating",
@@ -1217,7 +1222,8 @@
     "register": "neutral",
     "themes": [
       "festive-greetings",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "success"
     ],
     "literal": "career · business · thriving",
     "natural": "thriving business",
@@ -1764,7 +1770,8 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "outstanding-character"
+      "outstanding-character",
+      "positive-character-qualities"
     ],
     "literal": "incorruptible · keep oneself",
     "natural": "keep oneself clean",

@@ -745,7 +745,8 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "positive-character-qualities"
     ],
     "literal": "hold firmly · integrity · principles",
     "natural": "hold to one's principles",
@@ -882,7 +883,8 @@
     "register": "literary",
     "themes": [
       "landscapes",
-      "weather-and-sky"
+      "weather-and-sky",
+      "harsh-natural-conditions"
     ],
     "literal": "startling · waves · slap · shore",
     "natural": "waves crashing on the shore",
@@ -1109,7 +1111,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "not · know · tiredness · weariness",
     "natural": "never tiring",
@@ -1154,7 +1157,8 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "good-governance"
+      "good-governance",
+      "positive-character-qualities"
     ],
     "literal": "incorruptible · clean · upright · straight",
     "natural": "honest and incorruptible",
@@ -1200,7 +1204,8 @@
     "register": "neutral",
     "themes": [
       "unity-and-cooperation",
-      "friendship"
+      "friendship",
+      "relationships"
     ],
     "literal": "get along · harmonious",
     "natural": "get along well",
@@ -1516,7 +1521,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "unity-and-cooperation"
+      "unity-and-cooperation",
+      "relationships"
     ],
     "literal": "close · cooperate",
     "natural": "work closely together",
@@ -1653,7 +1659,8 @@
     "register": "formal",
     "themes": [
       "leadership-and-authority",
-      "military-strategy-and-victory"
+      "military-strategy-and-victory",
+      "good-governance"
     ],
     "literal": "discipline · strict and clear",
     "natural": "strictly disciplined",
@@ -1699,7 +1706,8 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "positive-character-qualities"
     ],
     "literal": "pay attention to · trustworthiness",
     "natural": "value trustworthiness",
@@ -1888,7 +1896,8 @@
     "register": "neutral",
     "themes": [
       "kindness-and-generosity",
-      "parenting-and-family"
+      "parenting-and-family",
+      "positive-character-qualities"
     ],
     "literal": "look after · thorough",
     "natural": "attentive care",
@@ -1932,7 +1941,9 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "kindness-and-generosity"
+      "kindness-and-generosity",
+      "positive-character-qualities",
+      "relationships"
     ],
     "literal": "generous · help each other",
     "natural": "generously help",

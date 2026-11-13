@@ -9,7 +9,8 @@
     "register": "literary",
     "themes": [
       "fleeting-time",
-      "value-of-time"
+      "value-of-time",
+      "time"
     ],
     "literal": "light · shade · easily · pass away",
     "natural": "time slips away",
@@ -244,7 +245,8 @@
     "register": "literary",
     "themes": [
       "weather-and-sky",
-      "daily-time-periods"
+      "daily-time-periods",
+      "landscapes"
     ],
     "literal": "bright · moon · hang at · sky",
     "natural": "bright moon high in the sky",
@@ -289,7 +291,8 @@
     "register": "neutral",
     "themes": [
       "speed-fast-vs-slow",
-      "academic-achievement"
+      "academic-achievement",
+      "innovation-and-progress"
     ],
     "literal": "progress · step · divine · speed",
     "natural": "progressing at lightning speed",
@@ -426,7 +429,8 @@
     "register": "formal",
     "themes": [
       "loyalty-and-righteousness",
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "positive-character-qualities"
     ],
     "literal": "loyal to · duty · post",
     "natural": "faithful to one's post",
@@ -645,7 +649,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "health"
     ],
     "literal": "spirit · vigour · full · plump",
     "natural": "full of energy",
@@ -882,7 +887,8 @@
     "register": "neutral",
     "themes": [
       "positive-character-qualities",
-      "body"
+      "body",
+      "health"
     ],
     "literal": "energy · strength · vigorous · flourishing",
     "natural": "bursting with energy",
@@ -1253,7 +1259,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "inappropriate-behavior"
     ],
     "literal": "not · know · shame · disgrace",
     "natural": "without shame",
@@ -1297,7 +1304,8 @@
     "register": "formal",
     "themes": [
       "outstanding-character",
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "positive-character-qualities"
     ],
     "literal": "character · moral quality · lofty · pure",
     "natural": "of noble character",
@@ -1838,7 +1846,8 @@
     "register": "neutral",
     "themes": [
       "farming-and-harvest",
-      "plant-and-natural-world"
+      "plant-and-natural-world",
+      "peace-and-prosperity"
     ],
     "literal": "produce · products · rich · abundant",
     "natural": "rich in produce",

@@ -152,7 +152,8 @@
     "sentiment": "negative",
     "register": "literary",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "speech"
     ],
     "literal": "like · reed organ · 's · tongue",
     "natural": "a tongue like a reed pipe",
@@ -248,7 +249,8 @@
     "register": "neutral",
     "themes": [
       "numbers",
-      "unusual-combinations"
+      "unusual-combinations",
+      "small-numbers"
     ],
     "literal": "three · three · five · five",
     "natural": "in twos and threes",
@@ -296,7 +298,9 @@
     "register": "literary",
     "themes": [
       "positive-character-qualities",
-      "reading-and-study"
+      "reading-and-study",
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "diligent · diligent · toiling · toiling",
     "natural": "tirelessly diligent",
@@ -579,7 +583,8 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "good-governance"
+      "good-governance",
+      "kindness-and-generosity"
     ],
     "literal": "relieve · disaster · pity · calamity",
     "natural": "relieve disasters and aid the afflicted",
@@ -787,7 +792,8 @@
     "register": "formal",
     "themes": [
       "high-aspirations",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "loyalty-and-righteousness"
     ],
     "literal": "with · body · repay · country",
     "natural": "serve the country with one's life",
@@ -881,7 +887,8 @@
     "register": "literary",
     "themes": [
       "excellent-writing",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "speech"
     ],
     "literal": "one · word · thousand · jun (weights)",
     "natural": "one word as heavy as thirty thousand catties",
@@ -1126,7 +1133,8 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "polite-humble"
+      "polite-humble",
+      "honesty-and-integrity"
     ],
     "literal": "not · deceive · dark · room",
     "natural": "not cheat even in a dark room",

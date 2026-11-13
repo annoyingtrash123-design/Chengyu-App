@@ -427,7 +427,8 @@
     "register": "neutral",
     "themes": [
       "complex-emotional-states",
-      "character"
+      "character",
+      "sadness-and-despair"
     ],
     "literal": "much · sorrow · easily · moved",
     "natural": "Full of sorrow and easily moved",
@@ -481,7 +482,8 @@
     "register": "formal",
     "themes": [
       "inappropriate-behavior",
-      "political-corruption"
+      "political-corruption",
+      "negative-character-flaws"
     ],
     "literal": "great · rebellion · not · righteous",
     "natural": "Great rebellion against the right way",
@@ -664,7 +666,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "exact-vs-approximate"
+      "exact-vs-approximate",
+      "measure"
     ],
     "literal": "fen · hao · not · differ",
     "natural": "Not off by a fraction",
@@ -1137,7 +1140,8 @@
     "themes": [
       "complex-emotional-states",
       "wisdom",
-      "exam-favourites"
+      "exam-favourites",
+      "composure-and-calm"
     ],
     "literal": "calm · (suffix) · handle · it",
     "natural": "Dealing with it calmly",

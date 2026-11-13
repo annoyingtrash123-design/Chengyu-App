@@ -330,7 +330,8 @@
     "register": "formal",
     "themes": [
       "courage-and-boldness",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "honesty-and-integrity"
     ],
     "literal": "not · fear · strong · power",
     "natural": "unafraid of the powerful",
@@ -378,7 +379,9 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "sadness-and-despair"
+      "sadness-and-despair",
+      "body",
+      "emotions"
     ],
     "literal": "eyes · tears · brimming · brimming",
     "natural": "eyes brimming with tears",
@@ -514,7 +517,8 @@
     "register": "neutral",
     "themes": [
       "successful-completion",
-      "joy-and-happiness"
+      "joy-and-happiness",
+      "military-strategy-and-victory"
     ],
     "literal": "loud · sing · victory · song",
     "natural": "singing songs of triumph",
@@ -1021,7 +1025,8 @@
     "register": "formal",
     "themes": [
       "parenting-and-family",
-      "outstanding-success-and-fame"
+      "outstanding-success-and-fame",
+      "filial-piety"
     ],
     "literal": "glorify · great · gate · lintel",
     "natural": "bringing honour to the family",
@@ -1115,7 +1120,8 @@
     "register": "neutral",
     "themes": [
       "successful-completion",
-      "speed-fast-vs-slow"
+      "speed-fast-vs-slow",
+      "competition-and-rivalry"
     ],
     "literal": "later · set off · first · arrive",
     "natural": "setting off late yet arriving first",
@@ -1666,7 +1672,8 @@
     "register": "neutral",
     "themes": [
       "unity-and-cooperation",
-      "family-and-home"
+      "family-and-home",
+      "relationships"
     ],
     "literal": "neighbours · neighbourhood · harmonious",
     "natural": "neighbours getting along",
@@ -1712,7 +1719,8 @@
     "register": "neutral",
     "themes": [
       "defeat-and-military-failure",
-      "psychological-pressure"
+      "psychological-pressure",
+      "giving-up-and-weakness"
     ],
     "literal": "morale · low · fall",
     "natural": "morale is low",
@@ -1805,7 +1813,8 @@
     "register": "neutral",
     "themes": [
       "excellent-writing",
-      "master-craftsmanship"
+      "master-craftsmanship",
+      "arts"
     ],
     "literal": "style · unique",
     "natural": "distinctive in style",
@@ -1895,7 +1904,8 @@
     "register": "neutral",
     "themes": [
       "successful-completion",
-      "festive-greetings"
+      "festive-greetings",
+      "success"
     ],
     "literal": "business · red · fire",
     "natural": "business is booming",

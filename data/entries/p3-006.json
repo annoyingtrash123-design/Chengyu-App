@@ -9,7 +9,9 @@
     "register": "casual",
     "themes": [
       "daily-time-periods",
-      "time-management"
+      "time-management",
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "without · day · without · night",
     "natural": "day and night",
@@ -409,7 +411,8 @@
     "register": "formal",
     "themes": [
       "high-aspirations",
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "diligent · diligent · in order to · seek",
     "natural": "tirelessly pursue",
@@ -664,7 +667,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "conflict-and-strife"
+      "conflict-and-strife",
+      "inappropriate-behavior"
     ],
     "literal": "cold · mock · hot · jibe",
     "natural": "snide remarks",
@@ -814,7 +818,8 @@
     "themes": [
       "attitude-humble-vs-arrogant",
       "historical-records",
-      "qin-han"
+      "qin-han",
+      "emotions"
     ],
     "literal": "smug · smug · self · pleased",
     "natural": "smug",

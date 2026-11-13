@@ -101,7 +101,8 @@
     "register": "neutral",
     "themes": [
       "inappropriate-behavior",
-      "anger"
+      "anger",
+      "corruption-and-injustice"
     ],
     "literal": "not · may · pardon · forgive",
     "natural": "unforgivable",
@@ -234,7 +235,8 @@
     "register": "neutral",
     "themes": [
       "appearance",
-      "joy-and-happiness"
+      "joy-and-happiness",
+      "health"
     ],
     "literal": "spirit · glow · radiate · emit",
     "natural": "radiant and full of life",
@@ -282,7 +284,8 @@
     "register": "neutral",
     "themes": [
       "greed-and-selfishness",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "negative-character-flaws"
     ],
     "literal": "not · care for · overall · situation",
     "natural": "ignore the bigger picture",
@@ -652,7 +655,8 @@
     "register": "neutral",
     "themes": [
       "peace-and-prosperity",
-      "innovation-and-progress"
+      "innovation-and-progress",
+      "success"
     ],
     "literal": "luxuriant · thriving · flourish · prosper",
     "natural": "thriving and flourishing",
@@ -873,7 +877,8 @@
     "register": "neutral",
     "themes": [
       "honesty-and-integrity",
-      "outstanding-character"
+      "outstanding-character",
+      "positive-character-qualities"
     ],
     "literal": "conduct · behaviour · open · frank",
     "natural": "open and above board",
@@ -1367,7 +1372,9 @@
     "register": "neutral",
     "themes": [
       "composure-and-calm",
-      "courage-and-boldness"
+      "courage-and-boldness",
+      "positive-character-qualities",
+      "mental-clarity"
     ],
     "literal": "unhurried · composed · calm · steady",
     "natural": "calm and composed",
@@ -1511,7 +1518,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "complex-emotional-states"
+      "complex-emotional-states",
+      "emotions"
     ],
     "literal": "hard · to · forget · mind",
     "natural": "unforgettable",
@@ -1555,7 +1563,8 @@
     "register": "neutral",
     "themes": [
       "frankness-and-candour",
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "positive-character-qualities"
     ],
     "literal": "open · sincere · straight · frank",
     "natural": "frank and sincere",
@@ -1647,7 +1656,8 @@
     "sentiment": "neutral",
     "register": "literary",
     "themes": [
-      "complex-emotional-states"
+      "complex-emotional-states",
+      "emotions"
     ],
     "literal": "sigh with feeling · deep · heavy",
     "natural": "deeply moved and reflective",

@@ -142,7 +142,9 @@
     "register": "literary",
     "themes": [
       "landscapes",
-      "weather-and-sky"
+      "weather-and-sky",
+      "seasonal-changes",
+      "harsh-natural-conditions"
     ],
     "literal": "a thousand · li · ice · sealed",
     "natural": "ice-bound for miles on end",
@@ -233,7 +235,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "success"
+      "success",
+      "arts"
     ],
     "literal": "brilliant · colourful · profusely · presented",
     "natural": "a dazzling array of highlights",
@@ -885,7 +888,8 @@
     "register": "formal",
     "themes": [
       "poems-prose",
-      "excellent-writing"
+      "excellent-writing",
+      "outstanding-success-and-fame"
     ],
     "literal": "widely · by · pass on · recite",
     "natural": "widely recited",
@@ -973,7 +977,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "positive-character-qualities"
     ],
     "literal": "clear · clear · white · white",
     "natural": "spotlessly clean",
@@ -1378,7 +1383,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "deception-and-false-appearances"
+      "deception-and-false-appearances",
+      "speech"
     ],
     "literal": "exaggerate · enlarge · facts · truth",
     "natural": "blow the facts out of proportion",
@@ -1874,7 +1880,9 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "evenly-matched"
+      "evenly-matched",
+      "games-and-sports",
+      "relative-measurements"
     ],
     "literal": "strength · each other · equal",
     "natural": "evenly matched",

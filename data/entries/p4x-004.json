@@ -546,7 +546,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "common-and-worthless"
+      "common-and-worthless",
+      "mediocrity-and-poor-appearance"
     ],
     "literal": "one · not · can · take",
     "natural": "nothing worth taking",
@@ -636,7 +637,8 @@
     "register": "casual",
     "themes": [
       "parenting-and-family",
-      "journeys-and-exploration"
+      "journeys-and-exploration",
+      "family-and-home"
     ],
     "literal": "drag · family · bring · mouths",
     "natural": "dragging the family along",
@@ -859,7 +861,9 @@
     "register": "formal",
     "themes": [
       "frankness-and-candour",
-      "good-governance"
+      "good-governance",
+      "courage-and-boldness",
+      "honesty-and-integrity"
     ],
     "literal": "offend · face · direct · remonstrate",
     "natural": "remonstrate openly, risking the ruler's anger",

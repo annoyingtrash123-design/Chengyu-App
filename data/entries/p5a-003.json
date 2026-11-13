@@ -54,7 +54,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "composure-and-calm"
+      "composure-and-calm",
+      "positive-character-qualities"
     ],
     "literal": "meet · matters · steady · settled",
     "natural": "stay calm when things happen",
@@ -321,7 +322,8 @@
     "register": "neutral",
     "themes": [
       "cruelty-and-ruthlessness",
-      "cunning-and-treachery"
+      "cunning-and-treachery",
+      "negative-character-flaws"
     ],
     "literal": "sly · poisonous · treacherous · wicked",
     "natural": "sinister and vicious",
@@ -544,7 +546,8 @@
     "register": "neutral",
     "themes": [
       "seasonal-changes",
-      "plant-and-natural-world"
+      "plant-and-natural-world",
+      "landscapes"
     ],
     "literal": "hundred · flowers · in full · bloom",
     "natural": "flowers in full bloom",
@@ -1763,7 +1766,10 @@
     "register": "formal",
     "themes": [
       "honesty-and-integrity",
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "outstanding-character",
+      "positive-character-qualities",
+      "courage-and-boldness"
     ],
     "literal": "keep · moral · integrity",
     "natural": "hold on to one's integrity",

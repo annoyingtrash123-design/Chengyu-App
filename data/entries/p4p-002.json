@@ -105,7 +105,9 @@
     "register": "formal",
     "themes": [
       "news-and-officialese",
-      "good-governance"
+      "good-governance",
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "real work · makes prosper · the nation",
     "natural": "hard work makes the nation thrive",
@@ -516,7 +518,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "culture"
+      "culture",
+      "outstanding-success-and-fame"
     ],
     "literal": "widely · be · spread",
     "natural": "widely circulated",
@@ -562,7 +565,8 @@
     "register": "neutral",
     "themes": [
       "harsh-natural-conditions",
-      "weather-and-sky"
+      "weather-and-sky",
+      "seasonal-changes"
     ],
     "literal": "heavy · snow · seal off · mountain",
     "natural": "snowbound mountains",
@@ -608,7 +612,8 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "mistakes-and-correction"
+      "mistakes-and-correction",
+      "inappropriate-behavior"
     ],
     "literal": "push away · shed · responsibility",
     "natural": "shift the blame",
@@ -665,7 +670,9 @@
     "register": "neutral",
     "themes": [
       "composure-and-calm",
-      "fickleness-and-indecision"
+      "fickleness-and-indecision",
+      "positive-character-qualities",
+      "outstanding-character"
     ],
     "literal": "not · be · by it · moved",
     "natural": "unmoved",
@@ -761,7 +768,8 @@
     "register": "neutral",
     "themes": [
       "value-of-time",
-      "laziness-and-giving-up"
+      "laziness-and-giving-up",
+      "fleeting-time"
     ],
     "literal": "idly · spend · time · time",
     "natural": "waste one's time",
@@ -911,7 +919,10 @@
     "register": "literary",
     "themes": [
       "weather-and-sky",
-      "seasonal-changes"
+      "seasonal-changes",
+      "nature",
+      "landscapes",
+      "harsh-natural-conditions"
     ],
     "literal": "heavy · snow · flutter · fly",
     "natural": "snow falling thick and fast",
@@ -1004,7 +1015,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "exact-vs-approximate"
     ],
     "literal": "not · give · discount",
     "natural": "without cutting corners",
@@ -1049,7 +1061,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "excellent-acting"
+      "excellent-acting",
+      "arts"
     ],
     "literal": "singing · voice · loud and clear",
     "natural": "voices ringing out",
@@ -1278,7 +1291,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "cruelty-and-ruthlessness"
+      "cruelty-and-ruthlessness",
+      "negative-character-flaws"
     ],
     "literal": "cruel · heartless",
     "natural": "cruel and heartless",
@@ -1324,7 +1338,9 @@
     "sentiment": "neutral",
     "register": "casual",
     "themes": [
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "wisdom",
+      "effort"
     ],
     "literal": "spend · to the limit · brain",
     "natural": "rack one's brains",
@@ -1369,7 +1385,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "psychological-pressure"
+      "psychological-pressure",
+      "emotions"
     ],
     "literal": "anxious · hasty · ten thousand · parts",
     "natural": "extremely anxious",
@@ -1416,7 +1433,8 @@
     "register": "formal",
     "themes": [
       "fairness-and-impartiality",
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "positive-character-qualities"
     ],
     "literal": "uphold · justice",
     "natural": "stand up for justice",
@@ -1462,7 +1480,8 @@
     "register": "neutral",
     "themes": [
       "relaxation-and-rest",
-      "joy-and-happiness"
+      "joy-and-happiness",
+      "freedom"
     ],
     "literal": "not the slightest · without · worry",
     "natural": "without a care",
@@ -1603,7 +1622,8 @@
     "register": "neutral",
     "themes": [
       "cunning-and-treachery",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "deception-and-false-appearances"
     ],
     "literal": "wicked · deceitful · cunning · slippery",
     "natural": "sly and treacherous",
@@ -1699,7 +1719,8 @@
     "register": "neutral",
     "themes": [
       "mistakes-and-correction",
-      "wisdom"
+      "wisdom",
+      "experience-and-old-age"
     ],
     "literal": "draw in · take · lesson",
     "natural": "learn the lesson",
@@ -1885,7 +1906,9 @@
     "register": "literary",
     "themes": [
       "cruelty-and-ruthlessness",
-      "political-corruption"
+      "political-corruption",
+      "corruption-and-injustice",
+      "negative-character-flaws"
     ],
     "literal": "savage · violent · without · the Way",
     "natural": "savage and tyrannical",
@@ -1976,7 +1999,8 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "unity-and-cooperation"
+      "unity-and-cooperation",
+      "relationships"
     ],
     "literal": "united · of one · heart",
     "natural": "united as one",

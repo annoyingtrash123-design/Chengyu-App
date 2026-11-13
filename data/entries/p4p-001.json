@@ -103,7 +103,8 @@
     "register": "literary",
     "themes": [
       "contentment-and-simplicity",
-      "landscapes"
+      "landscapes",
+      "solitude-and-isolation"
     ],
     "literal": "hide away and live · mountains · forests",
     "natural": "retire to a life in the hills",
@@ -154,7 +155,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "joy-and-happiness"
+      "joy-and-happiness",
+      "emotions"
     ],
     "literal": "makes · people · hard to · forget",
     "natural": "unforgettable",
@@ -250,7 +252,8 @@
     "register": "neutral",
     "themes": [
       "kindness-and-generosity",
-      "frankness-and-candour"
+      "frankness-and-candour",
+      "honesty-and-integrity"
     ],
     "literal": "not the slightest · without · holding back",
     "natural": "holding nothing back",
@@ -300,7 +303,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "effort"
     ],
     "literal": "spend · to the limit · mind · thought",
     "natural": "rack one's brains",
@@ -589,7 +593,8 @@
     "register": "formal",
     "themes": [
       "positive-character-qualities",
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "honesty-and-integrity"
     ],
     "literal": "one · heart · for · the public good",
     "natural": "devoted to the public good",
@@ -680,7 +685,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "courage-and-boldness"
+      "courage-and-boldness",
+      "speed-fast-vs-slow"
     ],
     "literal": "not the slightest · not · hesitate",
     "natural": "without hesitation",
@@ -840,7 +846,9 @@
     "register": "neutral",
     "themes": [
       "courage-and-boldness",
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "effort",
+      "positive-character-qualities"
     ],
     "literal": "rouse courage · toward · forward",
     "natural": "press bravely forward",
@@ -1070,7 +1078,8 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "honesty-and-integrity"
+      "honesty-and-integrity",
+      "positive-character-qualities"
     ],
     "literal": "speak · words · count · number",
     "natural": "keep one's word",
@@ -1364,7 +1373,8 @@
     "register": "neutral",
     "themes": [
       "diligence-and-dedication",
-      "reading-and-study"
+      "reading-and-study",
+      "effort"
     ],
     "literal": "hard-working · bitter · concentrate on · read",
     "natural": "study with great diligence",
@@ -1409,7 +1419,8 @@
     "sentiment": "positive",
     "register": "casual",
     "themes": [
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "appearance"
     ],
     "literal": "people · see · people · love",
     "natural": "loved by all",
@@ -1596,7 +1607,8 @@
     "register": "formal",
     "themes": [
       "kindness-and-generosity",
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "positive-character-qualities"
     ],
     "literal": "without · selfishness · devote · give",
     "natural": "selfless dedication",
@@ -1646,7 +1658,8 @@
     "sentiment": "neutral",
     "register": "neutral",
     "themes": [
-      "military-strategy-and-victory"
+      "military-strategy-and-victory",
+      "war"
     ],
     "literal": "complete · set · arm",
     "natural": "fully armed",
@@ -1692,7 +1705,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "inappropriate-behavior"
     ],
     "literal": "not the slightest · without · shame · look",
     "natural": "without a trace of shame",
@@ -1927,7 +1941,9 @@
     "register": "neutral",
     "themes": [
       "evenly-matched",
-      "competition-and-rivalry"
+      "competition-and-rivalry",
+      "games-and-sports",
+      "relative-measurements"
     ],
     "literal": "hard to · tell · high · low",
     "natural": "too close to call",
@@ -1972,7 +1988,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "inappropriate-behavior"
     ],
     "literal": "a hundred · ways · pick on · find fault",
     "natural": "pick on every little thing",

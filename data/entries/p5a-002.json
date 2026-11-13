@@ -58,7 +58,8 @@
     "register": "neutral",
     "themes": [
       "diligence-and-dedication",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "effort"
     ],
     "literal": "diligent · hardworking · not · slacken",
     "natural": "work tirelessly",
@@ -210,7 +211,8 @@
     "register": "casual",
     "themes": [
       "poor-workmanship",
-      "broken-or-useless-items"
+      "broken-or-useless-items",
+      "chaos"
     ],
     "literal": "not · become · shape",
     "natural": "in a terrible state",
@@ -899,7 +901,8 @@
     "register": "formal",
     "themes": [
       "luxury-and-extravagance",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "negative-character-flaws"
     ],
     "literal": "give free rein · music and women",
     "natural": "indulge in sensual pleasures",
@@ -994,7 +997,8 @@
     "register": "neutral",
     "themes": [
       "luxury-and-extravagance",
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "inappropriate-behavior"
     ],
     "literal": "be absorbed in · enjoyment",
     "natural": "be lost in pleasure-seeking",
@@ -1040,7 +1044,8 @@
     "register": "neutral",
     "themes": [
       "poverty-and-hardship",
-      "diligence-and-dedication"
+      "diligence-and-dedication",
+      "experience-and-old-age"
     ],
     "literal": "go through all · hardships",
     "natural": "go through great hardship",
@@ -1271,7 +1276,8 @@
     "register": "neutral",
     "themes": [
       "diligence-and-dedication",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "effort"
     ],
     "literal": "for ever · not · give up",
     "natural": "never give up",
@@ -1363,7 +1369,8 @@
     "register": "neutral",
     "themes": [
       "journeys-and-exploration",
-      "danger"
+      "danger",
+      "difficult-terrain"
     ],
     "literal": "road · journey · hard · perilous",
     "natural": "a hard, dangerous journey",
@@ -1633,7 +1640,8 @@
     "register": "neutral",
     "themes": [
       "reading-and-study",
-      "positive-character-qualities"
+      "positive-character-qualities",
+      "academic-achievement"
     ],
     "literal": "what one has seen and heard · wide",
     "natural": "widely knowledgeable",
@@ -1679,7 +1687,8 @@
     "register": "formal",
     "themes": [
       "chaos",
-      "inappropriate-behavior"
+      "inappropriate-behavior",
+      "conflict-and-strife"
     ],
     "literal": "disrupt · order",
     "natural": "disturb public order",
@@ -1724,7 +1733,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "negative-character-flaws"
+      "negative-character-flaws",
+      "resistance-to-change"
     ],
     "literal": "stubborn · obstinate",
     "natural": "stubborn and obstinate",
@@ -1770,7 +1780,8 @@
     "register": "neutral",
     "themes": [
       "verbosity",
-      "attitude-humble-vs-arrogant"
+      "attitude-humble-vs-arrogant",
+      "speech"
     ],
     "literal": "show off · eloquence",
     "natural": "show off one's eloquence",
@@ -1814,7 +1825,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "laziness-and-giving-up"
+      "laziness-and-giving-up",
+      "negative-character-flaws"
     ],
     "literal": "not · willing · endure hardship",
     "natural": "unwilling to bear hardship",
@@ -1859,7 +1871,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "unity-and-cooperation"
+      "unity-and-cooperation",
+      "relationships"
     ],
     "literal": "united · mutually help",
     "natural": "united and mutually supportive",
@@ -1904,7 +1917,8 @@
     "sentiment": "positive",
     "register": "neutral",
     "themes": [
-      "kindness-and-generosity"
+      "kindness-and-generosity",
+      "positive-character-qualities"
     ],
     "literal": "not · begrudge · money",
     "natural": "spare no expense",

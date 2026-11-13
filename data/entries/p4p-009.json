@@ -319,7 +319,8 @@
     "sentiment": "negative",
     "register": "neutral",
     "themes": [
-      "sadness-and-despair"
+      "sadness-and-despair",
+      "giving-up-and-weakness"
     ],
     "literal": "ashen · heart · lose · hope",
     "natural": "lose heart",
@@ -363,7 +364,8 @@
     "register": "neutral",
     "themes": [
       "sadness-and-despair",
-      "psychological-pressure"
+      "psychological-pressure",
+      "giving-up-and-weakness"
     ],
     "literal": "will · resolve · sapped · sunken",
     "natural": "in low spirits",
@@ -1293,7 +1295,8 @@
     "register": "neutral",
     "themes": [
       "negative-character-flaws",
-      "cunning-and-treachery"
+      "cunning-and-treachery",
+      "inappropriate-behavior"
     ],
     "literal": "fawn · ingratiate · flatter · curry favour",
     "natural": "grovelling flattery",
@@ -1596,7 +1599,8 @@
     "sentiment": "positive",
     "register": "formal",
     "themes": [
-      "loyalty-and-righteousness"
+      "loyalty-and-righteousness",
+      "positive-character-qualities"
     ],
     "literal": "exhaust · to the utmost · loyalty · sincerity",
     "natural": "give all one's loyalty",
