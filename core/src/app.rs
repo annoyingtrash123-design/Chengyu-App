@@ -329,31 +329,40 @@ impl App {
                 self.user.game_played(today()?);
                 Value::Null
             }
+            "simplify" => {
+                let text: String = arg(args, "text")?;
+                json!(crate::dictionary::to_simplified(&text))
+            }
             "chain_start" => {
                 let homophones: bool = opt(args, "homophones")?;
                 let seed: u64 = opt(args, "seed")?;
                 json!(games::chain_start(&self.dict, homophones, seed))
             }
+            // `prev_text`: the form the previous move was played in (a variant, or the headword).
             "chain_check" => {
                 let prev: String = arg(args, "prev")?;
+                let prev_text: Option<String> = opt(args, "prev_text")?;
                 let text: String = arg(args, "text")?;
                 let used: Vec<String> = opt(args, "used")?;
                 let homophones: bool = opt(args, "homophones")?;
-                json!(games::chain_check(&self.dict, &prev, &text, &used, homophones))
+                json!(games::chain_check(&self.dict, &prev, prev_text.as_deref(), &text, &used, homophones))
             }
             "chain_ai" => {
                 let prev: String = arg(args, "prev")?;
+                let prev_text: Option<String> = opt(args, "prev_text")?;
                 let used: Vec<String> = opt(args, "used")?;
                 let homophones: bool = opt(args, "homophones")?;
                 let seed: u64 = opt(args, "seed")?;
-                json!(games::chain_ai(&self.dict, &prev, &used, homophones, seed))
+                json!(games::chain_ai(&self.dict, &prev, prev_text.as_deref(), &used, homophones, seed))
             }
             "chain_hint" => {
                 let prev: String = arg(args, "prev")?;
+                let prev_text: Option<String> = opt(args, "prev_text")?;
                 let used: Vec<String> = opt(args, "used")?;
                 let homophones: bool = opt(args, "homophones")?;
                 let e = self.entry_or_err(&prev)?;
-                json!(games::chain_candidates(&self.dict, e, &used, homophones).len())
+                let form = games::played_form(e, prev_text.as_deref());
+                json!(games::chain_candidates(&self.dict, e, form, &used, homophones).len())
             }
             "scramble" => {
                 let deck: Deck = opt(args, "deck")?;

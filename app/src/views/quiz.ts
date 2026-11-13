@@ -56,6 +56,8 @@ export function renderQuiz(root: HTMLElement, [mode]: string[]) {
     if (!prefs.kinds.length) return toast(en() ? "Pick at least one question type" : "请至少选择一种题型");
     const questions = await api.quiz(prefs.deck, prefs.kinds, timed ? 60 : prefs.count, en() ? "en" : "zh");
     if (!questions.length) return toast(en() ? "Not enough entries in this deck for these question types" : "这个卡组的词条不够出题");
+    if (!timed && questions.length < prefs.count)
+      toast(en() ? `This deck has enough for ${questions.length} different questions` : `这个卡组只够出 ${questions.length} 道不同的题`);
     play(root, title, questions, timed);
   };
 
@@ -107,8 +109,14 @@ function questionLabel(q: Question): string {
   return q.prompt;
 }
 
+function uniqueByEntry(qs: Question[]): Question[] {
+  const seen = new Set<string>();
+  return qs.filter((q) => !seen.has(q.entry_id) && (seen.add(q.entry_id), true));
+}
+
 /** A card of tappable expressions from the finished game (nothing if the list is empty). */
-function reviewList(heading: string, qs: Question[]) {
+function reviewList(heading: string, all: Question[]) {
+  const qs = uniqueByEntry(all);
   if (!qs.length) return null;
   return h(
     "section",
@@ -129,12 +137,20 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
   const clock = h("span", { class: "clock" });
 
   if (timed) {
-    clock.textContent = "60s";
-    timer = window.setInterval(() => {
-      timeLeft--;
+    // Count down against the wall clock: a sleeping phone or a hidden tab doesn't stop the 60 seconds.
+    const deadline = Date.now() + timeLeft * 1000;
+    const tick = () => {
+      timeLeft = Math.max(0, Math.ceil((deadline - Date.now()) / 1000));
       clock.textContent = `${timeLeft}s`;
       if (timeLeft <= 0 || !root.isConnected) finish();
-    }, 1000);
+    };
+    clock.textContent = "60s";
+    timer = window.setInterval(tick, 250);
+    const onVisible = () => {
+      if (over) document.removeEventListener("visibilitychange", onVisible);
+      else if (document.visibilityState === "visible") tick();
+    };
+    document.addEventListener("visibilitychange", onVisible);
   }
 
   function finish() {
@@ -143,7 +159,8 @@ function play(root: HTMLElement, title: string, questions: Question[], timed: bo
     clearInterval(timer);
     if (!root.isConnected) return;
     api.gamePlayed();
-    const asItems = (qs: Question[]) => qs.map((q) => ({ id: q.entry_id, text: questionLabel(q) }));
+    // One chip per expression, even if a small deck asked about it more than once.
+    const asItems = (qs: Question[]) => uniqueByEntry(qs).map((q) => ({ id: q.entry_id, text: questionLabel(q) }));
     saveResult({ at: Date.now(), game: timed ? "timed" : "quiz", score, total: i, right: asItems(right), missed: asItems(missed) });
     clear(
       root,

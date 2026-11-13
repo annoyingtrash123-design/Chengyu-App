@@ -12,8 +12,11 @@ export async function renderChain(root: HTMLElement) {
     return;
   }
   const chain: Summary[] = await api.summaries([startId]);
+  // The form each move was played in: the headword, or a variant the player typed (玉食锦衣 for 锦衣玉食).
+  const forms: string[] = chain.map((s) => s.text);
   const used = () => chain.map((s) => s.id);
   const last = () => chain[chain.length - 1];
+  const lastForm = () => forms[forms.length - 1];
   let finished = false;
 
   const list = h("div", { class: "chain-list" });
@@ -38,13 +41,13 @@ export async function renderChain(root: HTMLElement) {
           "a",
           { class: `chain-item ${i % 2 ? "mine" : "theirs"}`, href: `#/entry/${s.id}` },
           h("div", { class: "chain-who muted small" }, i === 0 ? (en() ? "Start" : "开始") : i % 2 ? (en() ? "You" : "你") : en() ? "App" : "电脑"),
-          h("div", { class: "hanzi" }, s.text),
-          h("div", { class: "pinyin small" }, s.pinyin),
+          h("div", { class: "hanzi" }, forms[i]),
+          forms[i] === s.text ? h("div", { class: "pinyin small" }, s.pinyin) : h("div", { class: "muted small" }, `= ${s.text} · ${s.pinyin}`),
           h("div", { class: "meaning small" }, meaningOf(s)),
         ),
       ),
     );
-    const lastChar = [...last().text].pop();
+    const lastChar = [...lastForm()].filter((c) => /\p{Script=Han}/u.test(c)).pop();
     input.placeholder = en() ? `Starts with ${lastChar}…` : `以"${lastChar}"开头…`;
   }
 
@@ -78,11 +81,13 @@ export async function renderChain(root: HTMLElement) {
   }
 
   async function appMove() {
-    const next = await api.chainAi(last().id, used(), homophones);
+    const next = await api.chainAi(last().id, lastForm(), used(), homophones);
     if (!next) return end(en() ? "🏆 You win — the app can't continue!" : "🏆 你赢了，电脑接不下去了！");
-    chain.push(...(await api.summaries([next])));
+    const [s] = await api.summaries([next]);
+    chain.push(s);
+    forms.push(s.text);
     drawList();
-    if ((await api.chainHint(last().id, used(), homophones)) === 0) {
+    if ((await api.chainHint(last().id, lastForm(), used(), homophones)) === 0) {
       end(en() ? "No expression in the dictionary can follow this one. Game over!" : "词典里已经没有能接的了，游戏结束！");
     }
   }
@@ -100,12 +105,13 @@ export async function renderChain(root: HTMLElement) {
   });
 
   async function handleMove() {
-    const r = await api.chainCheck(last().id, input.value, used(), homophones);
+    const r = await api.chainCheck(last().id, lastForm(), input.value, used(), homophones);
     switch (r.result) {
       case "ok":
         input.value = "";
         message.textContent = "";
         chain.push(...(await api.summaries([r.id])));
+        forms.push(r.text);
         drawList();
         await appMove();
         break;
@@ -124,11 +130,11 @@ export async function renderChain(root: HTMLElement) {
   }
 
   hintBtn.addEventListener("click", async () => {
-    const n = await api.chainHint(last().id, used(), homophones);
+    const n = await api.chainHint(last().id, lastForm(), used(), homophones);
     message.textContent = en() ? `${n} possible answer${n === 1 ? "" : "s"} in the dictionary.` : `词典里有 ${n} 个可以接的。`;
   });
   giveUp.addEventListener("click", async () => {
-    const answer = await api.chainAi(last().id, used(), homophones);
+    const answer = await api.chainAi(last().id, lastForm(), used(), homophones);
     const s = answer ? (await api.summaries([answer]))[0] : null;
     end(s ? (en() ? `You could have said ${s.text} (${s.pinyin}).` : `可以接"${s.text}"（${s.pinyin}）。`) : en() ? "Nothing could follow — well played!" : "其实没有能接的，打平！", s ?? undefined);
   });
@@ -143,5 +149,5 @@ export async function renderChain(root: HTMLElement) {
     message,
   );
   drawList();
-  if ((await api.chainHint(last().id, used(), homophones)) === 0) end(en() ? "No follow-ups available yet." : "暂时没有可以接的。");
+  if ((await api.chainHint(last().id, lastForm(), used(), homophones)) === 0) end(en() ? "No follow-ups available yet." : "暂时没有可以接的。");
 }

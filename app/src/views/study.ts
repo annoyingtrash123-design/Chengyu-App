@@ -56,6 +56,7 @@ let lastDeck: Deck = { type: "all" };
 let recall = false; // false: see expression → recall meaning; true: see meaning → recall expression
 
 export async function renderStudy(root: HTMLElement) {
+  keyHandler = null; // a session left half-way (back, another tab) must not keep grading from here
   const info = h("div", { class: "muted small" });
   const startBtn = h("button", { class: "btn primary block" }, en() ? "Start session" : "开始");
 
@@ -115,6 +116,11 @@ document.addEventListener("keydown", (e) => {
   if (location.hash.startsWith("#/study") && keyHandler) keyHandler(e);
 });
 
+/** Space/Enter already activate a focused button, link or field; the study shortcuts must not take them over. */
+function isInteractive(t: EventTarget | null) {
+  return t instanceof HTMLElement && (t.isContentEditable || !!t.closest("button, a, input, textarea, select, [role=button]"));
+}
+
 function session(root: HTMLElement, cards: Summary[]) {
   const queue = [...cards];
   let reviewed = 0;
@@ -171,8 +177,13 @@ function session(root: HTMLElement, cards: Summary[]) {
       return h("button", { class: `btn grade grade-${g}`, onclick: () => grade(g) }, text);
     }
     keyHandler = (e: KeyboardEvent) => {
-      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
+      if (!showBtn.isConnected) {
+        keyHandler = null; // this card is no longer on screen
+        return;
+      }
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement || e.target instanceof HTMLSelectElement) return;
       if ((e.key === " " || e.key === "Enter") && !revealed) {
+        if (isInteractive(e.target)) return;
         e.preventDefault();
         reveal();
       } else if (revealed && ["1", "2", "3", "4"].includes(e.key)) {

@@ -15,6 +15,14 @@ export async function renderScramble(root: HTMLElement) {
   }
   const detail: EntryDetail = await api.entry(s.entry_id);
   const target = detail.chars;
+  // A variant made of the same characters in another order (青山绿水 / 绿水青山) is right too.
+  const sorted = (cs: string[]) => [...cs].sort().join("");
+  const accepted = new Set([
+    target.join(""),
+    ...(detail.entry.variants ?? []).filter(
+      (v) => detail.entry.variant_kinds?.[v] !== "error" && [...v].length === target.length && sorted([...v]) === sorted(target),
+    ),
+  ]);
   const picked: number[] = []; // indices into s.tiles
   let solved = false;
 
@@ -63,7 +71,7 @@ export async function renderScramble(root: HTMLElement) {
 
   function check() {
     const guess = picked.map((i) => s!.tiles[i]).join("");
-    if (guess === target.join("")) {
+    if (accepted.has(guess)) {
       solved = true;
       streak++;
       api.quizAnswer(s!.entry_id, true);
@@ -72,6 +80,8 @@ export async function renderScramble(root: HTMLElement) {
       clear(
         feedback,
         h("p", { class: "good" }, en() ? `Correct! Streak: ${streak}` : `正确！连对 ${streak}`),
+        guess !== detail.entry.text ? h("p", { class: "hanzi" }, detail.entry.text) : null,
+        guess !== detail.entry.text ? h("div", { class: "muted small" }, en() ? `${guess} is another form of it.` : `${guess} 是它的另一种写法。`) : null,
         h("div", { class: "pinyin" }, detail.entry.pinyin),
         h("a", { href: `#/entry/${s!.entry_id}`, class: "small" }, en() ? "See entry ›" : "查看词条 ›"),
         h("button", { class: "btn primary block", onclick: () => renderScramble(root) }, en() ? "Next" : "下一个"),

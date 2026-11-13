@@ -270,6 +270,7 @@ mark { background: var(--accent-soft); color: inherit; border-radius: 3px; paddi
 .memory-card::after { content: "成"; position: absolute; inset: 0; display: grid; place-items: center; font-family: var(--hanzi); font-size: 30px; color: rgb(255 255 255 / 25%); }
 .memory-card.up::after, .memory-card.done::after { content: none; }
 .memory-card.is-idiom .face { font-family: var(--hanzi); font-size: 20px; font-weight: 700; }
+.memory-card.long .face { font-size: 11px; line-height: 1.25; -webkit-line-clamp: 9; }
 .memory-card.up { background: var(--surface); }
 .memory-card.up .face { visibility: visible; }
 .memory-card.done { background: var(--good-soft); border-color: var(--good); }

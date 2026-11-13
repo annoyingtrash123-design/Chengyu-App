@@ -133,13 +133,16 @@ export const api = {
     call<Question[]>("quiz", { deck, kinds, count, lang, seed: randomSeed() }),
   quizAnswer: (id: string, correct: boolean) => call<null>("quiz_answer", { id, correct, today: today() }),
   gamePlayed: () => call<null>("game_played", { today: today() }),
+  /** Traditional → simplified, character by character (same length as the input). */
+  simplify: (text: string) => call<string>("simplify", { text }),
   chainStart: (homophones: boolean) => call<string | null>("chain_start", { homophones, seed: randomSeed() }),
-  chainCheck: (prev: string, text: string, used: string[], homophones: boolean) =>
-    call<ChainCheck>("chain_check", { prev, text, used, homophones }),
-  chainAi: (prev: string, used: string[], homophones: boolean) =>
-    call<string | null>("chain_ai", { prev, used, homophones, seed: randomSeed() }),
-  chainHint: (prev: string, used: string[], homophones: boolean) =>
-    call<number>("chain_hint", { prev, used, homophones }),
+  /** `prev_text` is the form the previous move was played in (headword or variant). */
+  chainCheck: (prev: string, prev_text: string, text: string, used: string[], homophones: boolean) =>
+    call<ChainCheck>("chain_check", { prev, prev_text, text, used, homophones }),
+  chainAi: (prev: string, prev_text: string, used: string[], homophones: boolean) =>
+    call<string | null>("chain_ai", { prev, prev_text, used, homophones, seed: randomSeed() }),
+  chainHint: (prev: string, prev_text: string, used: string[], homophones: boolean) =>
+    call<number>("chain_hint", { prev, prev_text, used, homophones }),
   scramble: (deck: Deck, decoys: number) => call<Scramble | null>("scramble", { deck, decoys, seed: randomSeed() }),
   matchCards: (deck: Deck, mode: "meaning" | "synonym" | "antonym", pairs: number, english: boolean) =>
     call<MatchCard[]>("match_cards", { deck, mode, pairs, english, seed: randomSeed() }),

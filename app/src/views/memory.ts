@@ -26,7 +26,7 @@ export async function renderMemory(root: HTMLElement) {
     h(
       "button",
       {
-        class: `memory-card ${c.is_idiom ? "is-idiom" : "is-meaning"}`,
+        class: `memory-card ${c.is_idiom ? "is-idiom" : "is-meaning"}${!c.is_idiom && c.face.length > (en() ? 70 : 26) ? " long" : ""}`,
         onclick: () => flip(i),
         "aria-label": en() ? "Face-down card" : "背面朝上的卡片",
       },
@@ -37,6 +37,7 @@ export async function renderMemory(root: HTMLElement) {
   function flip(i: number) {
     // Matched expressions: tap to see what they mean.
     if (matched.has(i) && cards[i].is_idiom) return void peekText(cards[i].face);
+    if (matched.has(i)) return void peekText(cards.find((c) => c.pair === cards[i].pair && c.is_idiom)!.face);
     if (busy || matched.has(i) || open.includes(i)) return;
     buttons[i].classList.add("up");
     buttons[i].removeAttribute("aria-label");
@@ -69,15 +70,16 @@ export async function renderMemory(root: HTMLElement) {
     api.gamePlayed();
     const right = cards.filter((c) => c.is_idiom).map((c) => ({ id: c.entry_id, text: c.face }));
     saveResult({ at: Date.now(), game: "memory", score: en() ? `${moves} moves` : `${moves} 步`, right, missed: [] });
-    root.appendChild(
-      h(
+    // Shown above the grid (not below it, where the tab bar can cover it) and scrolled into view.
+    const panel = h(
         "section",
         { class: "card center" },
         h("p", { class: "good" }, en() ? `🎉 All matched in ${moves} moves!` : `🎉 全部配对，用了 ${moves} 步！`),
         h("p", { class: "muted small" }, en() ? "Tap a matched expression to see its meaning." : "点已配对的词语可查看释义。"),
         h("button", { class: "btn primary", onclick: () => renderMemory(root) }, en() ? "Play again" : "再来一局"),
-      ),
-    );
+      );
+    grid.before(panel);
+    panel.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 
   clear(grid, buttons);

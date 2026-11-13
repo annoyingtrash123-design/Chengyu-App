@@ -10,15 +10,33 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.25",
+    date: "2026-11-13",
+    en: [
+      "Famous lines (名句): about 700 English example translations showed a placeholder (§) or the Chinese line itself; they now give the line in English.",
+      "Synonym/antonym lists of ordinary idioms no longer include quotations (名句); a quotation's own entry still links to the plain idioms it matches.",
+      "Games: the idiom chain, unscramble and crossword accept alternative forms (玉食锦衣 for 锦衣玉食) and traditional characters; the chain continues from the form you typed.",
+      "Quiz: the English hint no longer gives the answer away; near-synonyms are no longer offered as wrong answers; small decks don't repeat a question; 一 and 不 keep their written tones in pinyin questions.",
+      "Timed challenge keeps counting while the phone sleeps; crossword 'Show answers' keeps the words you got right; memory cards prefer short meanings; a study key press after leaving a session no longer grades a card.",
+    ],
+    zh: [
+      "名句：约 700 条例句的英文翻译原先显示占位符（§）或直接引用中文原句，现已改为英文译文。",
+      "普通成语的近义词/反义词列表不再收录名句；名句词条本身仍关联与之意思相同的成语。",
+      "游戏：成语接龙、拼成语和填字游戏接受异形词（如“玉食锦衣”）和繁体字；接龙按你输入的写法接下去。",
+      "测验：英文提示不再泄露答案；近义词不再作为错误选项；小卡组不再重复出题；拼音题中“一”“不”保持原调。",
+      "限时挑战在手机休眠时照常计时；填字游戏“看答案”会保留已答对的词；翻牌配对优先用简短释义；离开学习后按键不会再给卡片评分。",
+    ],
+  },
+  {
     version: "0.24",
     date: "2026-11-12",
     en: [
       "Within each star rating, lists and new study cards now come most common first (by corpus frequency), instead of alphabetically.",
-      "27 crude sayings removed (e.g. 脱裤子放屁——多此一举, 狗改不了吃屎) along with their links from other entries.",
+      "27 crude sayings removed, along with their links and mentions in other entries.",
     ],
     zh: [
       "同一星级内，列表和新学习卡片改为按语料频率从常用到少用排列，不再按拼音字母顺序。",
-      "删除 27 条粗俗说法（如“脱裤子放屁——多此一举”“狗改不了吃屎”）及其在其他词条中的关联。",
+      "删除 27 条粗俗说法，以及其他词条中对它们的关联和引用。",
     ],
   },
   {

@@ -170,7 +170,8 @@ export interface Stats {
 }
 
 export type ChainCheck =
-  | { result: "ok"; id: string }
+  /** `text` is the form played (the headword or a variant); the next move follows it. */
+  | { result: "ok"; id: string; text: string }
   | { result: "not_in_dictionary" }
   | { result: "already_used"; id: string }
   | { result: "does_not_connect"; id: string; need: string };

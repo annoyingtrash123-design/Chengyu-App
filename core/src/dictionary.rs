@@ -228,6 +228,20 @@ impl Dictionary {
         self.by_text.get(text).map(|&i| &self.entries[i])
     }
 
+    /// What a player typed, resolved to an entry and the form they used (headword or variant): spaces,
+    /// quotes and end punctuation are ignored, and traditional characters are tried as simplified.
+    pub fn resolve_typed(&self, typed: &str) -> Option<(&Entry, String)> {
+        let cleaned: String = typed
+            .trim()
+            .chars()
+            .filter(|c| !c.is_whitespace() && !"\"'“”‘’「」『』《》〈〉。．.!！?？、;；:：".contains(*c))
+            .collect();
+        let cleaned = cleaned.trim_end_matches(['，', ',']).to_string();
+        [cleaned.clone(), to_simplified(&cleaned)]
+            .into_iter()
+            .find_map(|t| self.by_text(&t).map(|e| (e, t)))
+    }
+
     /// Split `text` into plain runs and runs that are (forms of) dictionary
     /// entries, longest match first. Entries in `exclude` are left as plain text.
     pub fn link_text(&self, text: &str, exclude: &[String]) -> Vec<(String, Option<&Entry>)> {
@@ -429,7 +443,7 @@ impl Dictionary {
 }
 
 /// Traditional → simplified, character by character (OpenCC's table; see `t2s.txt`).
-fn to_simplified(s: &str) -> String {
+pub(crate) fn to_simplified(s: &str) -> String {
     static TABLE: OnceLock<HashMap<char, char>> = OnceLock::new();
     let table = TABLE.get_or_init(|| {
         include_str!("t2s.txt")

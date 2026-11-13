@@ -186,10 +186,21 @@ export async function renderCrossword(root: HTMLElement) {
 
   function finish(won: boolean) {
     finished = true;
-    for (const w of x!.words) api.quizAnswer(w.entry_id, won);
-    api.gamePlayed();
+    // With "Show answers", words already filled in correctly still count as right.
+    const solved = x!.words.map((_, i) => cellsOf(i).every((k) => answer.get(k)!.given || fills.get(k) === answer.get(k)!.ch));
+    x!.words.forEach((w, i) => api.quizAnswer(w.entry_id, won || solved[i]));
+    // Revealing the answers without solving anything is not a game played (it doesn't keep a streak going).
+    if (won || solved.some((s, i) => s && cellsOf(i).some((k) => !answer.get(k)!.given))) api.gamePlayed();
     const items = entries.map((s) => ({ id: s.id, text: s.text }));
-    saveResult({ at: Date.now(), game: "crossword", score: won ? (en() ? "solved" : "全部填对") : en() ? "answers shown" : "看了答案", right: won ? items : [], missed: won ? [] : items });
+    const rightItems = items.filter((_, i) => won || solved[i]);
+    const missedItems = items.filter((_, i) => !(won || solved[i]));
+    saveResult({
+      at: Date.now(),
+      game: "crossword",
+      score: won ? (en() ? "solved" : "全部填对") : en() ? `answers shown · ${rightItems.length} of ${items.length} right` : `看了答案 · 填对 ${rightItems.length}/${items.length}`,
+      right: rightItems,
+      missed: missedItems,
+    });
     draw();
     clear(
       feedback,
@@ -201,18 +212,20 @@ export async function renderCrossword(root: HTMLElement) {
   }
 
   // Typing mode: write the whole expression for the selected clue (pinyin keyboards suggest whole chengyu).
-  typeForm.addEventListener("submit", (e) => {
+  typeForm.addEventListener("submit", async (e) => {
     e.preventDefault();
     if (finished) return;
     const cells = cellsOf(word);
-    const chars = [...typeInput.value.replace(/\s/g, "")];
+    // Only the characters count (no spaces, quotes or punctuation); traditional ones are accepted too.
+    const chars = [...typeInput.value].filter((c) => /\p{Script=Han}/u.test(c));
+    const simple = [...(await api.simplify(chars.join("")))];
     if (chars.length !== cells.length) {
       toast(en() ? `This answer has ${cells.length} characters.` : `这个答案是 ${cells.length} 个字。`);
       return;
     }
     cells.forEach((k, i) => {
       if (!answer.get(k)!.given) {
-        fills.set(k, chars[i]);
+        fills.set(k, chars[i] === answer.get(k)!.ch ? chars[i] : simple[i] ?? chars[i]);
         wrong.delete(k);
       }
     });

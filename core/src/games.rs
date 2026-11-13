@@ -3,7 +3,7 @@
 use serde::{Deserialize, Serialize};
 
 use crate::dictionary::Dictionary;
-use crate::model::{Entry, Kind};
+use crate::model::{reading_chars, Entry, Kind, VariantKind};
 use crate::rng::Rng;
 
 // ---------- 成语接龙 ----------
@@ -11,7 +11,8 @@ use crate::rng::Rng;
 #[derive(Debug, Clone, PartialEq, Serialize)]
 #[serde(tag = "result", rename_all = "snake_case")]
 pub enum ChainCheck {
-    Ok { id: String },
+    /// `text` is the form played (the headword or a variant), which the next move must follow.
+    Ok { id: String, text: String },
     NotInDictionary,
     AlreadyUsed { id: String },
     DoesNotConnect { id: String, need: String },
@@ -21,63 +22,119 @@ fn chainable(e: &Entry) -> bool {
     matches!(e.kind, Kind::Chengyu | Kind::Guanyongyu) && e.length() >= 3
 }
 
-/// Does `next` follow `prev`? Same character, or (if `homophones`) same toneless syllable.
-pub fn connects(dict: &Dictionary, prev: &Entry, next: &Entry, homophones: bool) -> bool {
-    let (Some((_, last)), Some((first, _))) = (prev.first_last(), next.first_last()) else {
+/// The form of `e` that was played: `form` if it is the headword or one of its variants, else the headword.
+pub fn played_form<'a>(e: &'a Entry, form: Option<&'a str>) -> &'a str {
+    match form {
+        Some(f) if f == e.text || e.variants.iter().any(|v| v == f) => f,
+        _ => &e.text,
+    }
+}
+
+/// The first or last character of a played form.
+fn end_char(form: &str, last: bool) -> Option<char> {
+    let chars = reading_chars(form);
+    if last { chars.last().copied() } else { chars.first().copied() }
+}
+
+/// The toneless syllable of a played form's first or last character, taken from the headword's pinyin
+/// (a variant borrows the reading of the same character in the headword; `None` if it has none).
+fn end_syllable(dict: &Dictionary, e: &Entry, form: &str, last: bool) -> Option<String> {
+    let head = e.chars();
+    let syls = dict.plain_syllables(e);
+    if syls.len() != head.len() {
+        return None;
+    }
+    let pos = if form == e.text {
+        if last { head.len() - 1 } else { 0 }
+    } else {
+        let c = end_char(form, last)?;
+        if last { head.iter().rposition(|&h| h == c)? } else { head.iter().position(|&h| h == c)? }
+    };
+    Some(syls[pos].clone())
+}
+
+/// Does `next` (played as `next_form`) follow `prev` (played as `prev_form`)? Same character, or
+/// (if `homophones`) same toneless syllable.
+pub fn connects(dict: &Dictionary, prev: &Entry, prev_form: &str, next: &Entry, next_form: &str, homophones: bool) -> bool {
+    let (Some(last), Some(first)) = (end_char(prev_form, true), end_char(next_form, false)) else {
         return false;
     };
     if last == first {
         return true;
     }
     homophones && {
-        let a = dict.plain_syllables(prev);
-        let b = dict.plain_syllables(next);
-        a.len() == prev.length() && b.len() == next.length() && a.last() == b.first()
+        let a = end_syllable(dict, prev, prev_form, true);
+        a.is_some() && a == end_syllable(dict, next, next_form, false)
     }
 }
 
-/// All unused entries that can follow `prev`.
+/// All unused entries that can follow `prev` (played as `prev_form`), in their headword form.
 pub fn chain_candidates<'a>(
     dict: &'a Dictionary,
     prev: &Entry,
+    prev_form: &str,
     used: &[String],
     homophones: bool,
 ) -> Vec<&'a Entry> {
     dict.entries()
         .iter()
-        .filter(|e| chainable(e) && !used.contains(&e.id) && connects(dict, prev, e, homophones))
+        .filter(|e| chainable(e) && !used.contains(&e.id) && connects(dict, prev, prev_form, e, &e.text, homophones))
         .collect()
 }
 
-/// Check the player's move. `text` is what they typed.
-pub fn chain_check(dict: &Dictionary, prev_id: &str, text: &str, used: &[String], homophones: bool) -> ChainCheck {
-    let text: String = text.chars().filter(|c| !c.is_whitespace()).collect();
-    let Some(next) = dict.by_text(&text).filter(|e| chainable(e)) else {
+/// Check the player's move. `text` is what they typed: any form of an entry, in simplified or traditional
+/// characters. `prev_form` is the form the previous move was played in (the headword if `None`).
+pub fn chain_check(
+    dict: &Dictionary,
+    prev_id: &str,
+    prev_form: Option<&str>,
+    text: &str,
+    used: &[String],
+    homophones: bool,
+) -> ChainCheck {
+    let Some((next, form)) = dict.resolve_typed(text).filter(|(e, _)| chainable(e)) else {
         return ChainCheck::NotInDictionary;
     };
+    // A known miswriting counts as its correct headword.
+    let form = if next.variant_kinds.get(&form) == Some(&VariantKind::Error) { next.text.clone() } else { form };
     if used.contains(&next.id) {
         return ChainCheck::AlreadyUsed { id: next.id.clone() };
     }
     match dict.get(prev_id) {
-        Some(prev) if !connects(dict, prev, next, homophones) => ChainCheck::DoesNotConnect {
-            id: next.id.clone(),
-            need: prev.first_last().map(|(_, l)| l.to_string()).unwrap_or_default(),
-        },
-        _ => ChainCheck::Ok { id: next.id.clone() },
+        Some(prev) => {
+            let prev_form = played_form(prev, prev_form);
+            if connects(dict, prev, prev_form, next, &form, homophones) {
+                ChainCheck::Ok { id: next.id.clone(), text: form }
+            } else {
+                ChainCheck::DoesNotConnect {
+                    id: next.id.clone(),
+                    need: end_char(prev_form, true).map(String::from).unwrap_or_default(),
+                }
+            }
+        }
+        None => ChainCheck::Ok { id: next.id.clone(), text: form },
     }
 }
 
 /// The app's move: prefer an expression that leaves the player an answer
 /// (it's a learning game, not a trap), otherwise any valid one.
-pub fn chain_ai(dict: &Dictionary, prev_id: &str, used: &[String], homophones: bool, seed: u64) -> Option<String> {
+pub fn chain_ai(
+    dict: &Dictionary,
+    prev_id: &str,
+    prev_form: Option<&str>,
+    used: &[String],
+    homophones: bool,
+    seed: u64,
+) -> Option<String> {
     let prev = dict.get(prev_id)?;
+    let prev_form = played_form(prev, prev_form);
     let mut rng = Rng::new(seed);
-    let mut options = chain_candidates(dict, prev, used, homophones);
+    let mut options = chain_candidates(dict, prev, prev_form, used, homophones);
     rng.shuffle(&mut options);
     let mut used_after: Vec<String> = used.to_vec();
     let friendly = options.iter().find(|e| {
         used_after.push(e.id.clone());
-        let ok = !chain_candidates(dict, e, &used_after, homophones).is_empty();
+        let ok = !chain_candidates(dict, e, &e.text, &used_after, homophones).is_empty();
         used_after.pop();
         ok
     });
@@ -91,7 +148,7 @@ pub fn chain_start(dict: &Dictionary, homophones: bool, seed: u64) -> Option<Str
     rng.shuffle(&mut starts);
     starts
         .iter()
-        .find(|e| !chain_candidates(dict, e, std::slice::from_ref(&e.id), homophones).is_empty())
+        .find(|e| !chain_candidates(dict, e, &e.text, std::slice::from_ref(&e.id), homophones).is_empty())
         .or(starts.first())
         .map(|e| e.id.clone())
 }
@@ -169,9 +226,25 @@ pub fn match_cards(
         })
         .collect();
     rng.shuffle(&mut candidates);
+    // Memory cards have little room: prefer meanings short enough to read in full.
+    if mode == MatchMode::Meaning {
+        let limit = if english { 70 } else { 26 };
+        candidates.sort_by_key(|e| {
+            let m = if english { &e.meaning.en } else { &e.meaning.zh };
+            m.chars().count() > limit
+        });
+    }
+    let list = |e: &Entry| -> Vec<String> {
+        match mode {
+            MatchMode::Meaning => Vec::new(),
+            MatchMode::Synonym => e.synonyms.clone(),
+            MatchMode::Antonym => e.antonyms.clone(),
+        }
+    };
 
     let mut cards = Vec::new();
     let mut faces: Vec<String> = Vec::new();
+    let mut placed: Vec<(&Entry, String)> = Vec::new();
     for e in candidates {
         if cards.len() / 2 == n {
             break;
@@ -186,6 +259,12 @@ pub fn match_cards(
         if partner.is_empty() || faces.contains(&e.text) || faces.contains(&partner) {
             continue;
         }
+        // Nor may a partner fit two expressions on the board.
+        let mine = list(e);
+        if placed.iter().any(|(o, op)| list(o).contains(&partner) || mine.contains(op) || mine.contains(&o.text) || list(o).contains(&e.text)) {
+            continue;
+        }
+        placed.push((e, partner.clone()));
         let pair = cards.len() / 2;
         faces.push(e.text.clone());
         faces.push(partner.clone());
@@ -404,15 +483,43 @@ mod tests {
         let d = Dictionary::embedded();
         // 自相矛盾 → 自 … ; 马到成功 ends in 功. Find any connecting pair in the data.
         let pair = d.entries().iter().find_map(|a| {
-            chain_candidates(&d, a, std::slice::from_ref(&a.id), false).first().map(|b| (a.clone(), (*b).clone()))
+            chain_candidates(&d, a, &a.text, std::slice::from_ref(&a.id), false).first().map(|b| (a.clone(), (*b).clone()))
         });
         let (a, b) = pair.expect("sample data should contain at least one chain pair");
-        assert_eq!(chain_check(&d, &a.id, &b.text, std::slice::from_ref(&a.id), false), ChainCheck::Ok { id: b.id.clone() });
         assert_eq!(
-            chain_check(&d, &a.id, &b.text, &[a.id.clone(), b.id.clone()], false),
+            chain_check(&d, &a.id, None, &b.text, std::slice::from_ref(&a.id), false),
+            ChainCheck::Ok { id: b.id.clone(), text: b.text.clone() }
+        );
+        assert_eq!(
+            chain_check(&d, &a.id, None, &b.text, &[a.id.clone(), b.id.clone()], false),
             ChainCheck::AlreadyUsed { id: b.id.clone() }
         );
-        assert_eq!(chain_check(&d, &a.id, "不是成语", &[], false), ChainCheck::NotInDictionary);
+        assert_eq!(chain_check(&d, &a.id, None, "不是成语", &[], false), ChainCheck::NotInDictionary);
+    }
+
+    #[test]
+    fn chain_follows_the_form_played() {
+        let d = Dictionary::embedded();
+        // 零玑碎玉 ends in 玉; 玉食锦衣 is a variant of 锦衣玉食 and starts with 玉.
+        let a = d.by_text("零玑碎玉").unwrap();
+        let b = d.by_text("锦衣玉食").unwrap();
+        assert_eq!(
+            chain_check(&d, &a.id, None, "玉食锦衣", &[], false),
+            ChainCheck::Ok { id: b.id.clone(), text: "玉食锦衣".into() }
+        );
+        // The next move follows the variant's last character (衣), not the headword's (食).
+        assert!(matches!(
+            chain_check(&d, &b.id, Some("玉食锦衣"), "食古不化", &[], false),
+            ChainCheck::DoesNotConnect { ref need, .. } if need == "衣"
+        ));
+        if let Some(next) = chain_ai(&d, &b.id, Some("玉食锦衣"), &[], false, 3) {
+            assert_eq!(d.get(&next).unwrap().chars()[0], '衣');
+        }
+        // Traditional characters, spaces and quotes are fine.
+        assert!(matches!(
+            chain_check(&d, "no-such-id", None, " “畫蛇添足” ", &[], false),
+            ChainCheck::Ok { ref text, .. } if text == "画蛇添足"
+        ));
     }
 
     #[test]
@@ -421,7 +528,7 @@ mod tests {
         let a = d.by_text("画蛇添足").unwrap();
         let b = d.by_text("马到成功").unwrap();
         assert!(matches!(
-            chain_check(&d, &a.id, &b.text, &[], false),
+            chain_check(&d, &a.id, None, &b.text, &[], false),
             ChainCheck::DoesNotConnect { .. }
         ));
     }
@@ -431,9 +538,9 @@ mod tests {
         let d = Dictionary::embedded();
         // Every entry would make this quadratic in the dictionary size; a spread-out sample is enough.
         for e in d.entries().iter().step_by(11) {
-            if let Some(next) = chain_ai(&d, &e.id, std::slice::from_ref(&e.id), true, 9) {
+            if let Some(next) = chain_ai(&d, &e.id, None, std::slice::from_ref(&e.id), true, 9) {
                 let n = d.get(&next).unwrap();
-                assert!(connects(&d, e, n, true));
+                assert!(connects(&d, e, &e.text, n, &n.text, true));
                 assert_ne!(n.id, e.id);
             }
         }
