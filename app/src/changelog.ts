@@ -18,6 +18,7 @@ export const CHANGELOG: Release[] = [
       "Games: the idiom chain, unscramble and crossword accept alternative forms (玉食锦衣 for 锦衣玉食) and traditional characters; the chain continues from the form you typed.",
       "Quiz: the English hint no longer gives the answer away; near-synonyms are no longer offered as wrong answers; small decks don't repeat a question; 一 and 不 keep their written tones in pinyin questions.",
       "Timed challenge keeps counting while the phone sleeps; crossword 'Show answers' keeps the words you got right; memory cards prefer short meanings; a study key press after leaving a session no longer grades a card.",
+      "Star ratings checked for coherence (upgrades only): 556 expressions raised to ★★★ (e.g. 失败是成功之母, 临时抱佛脚, 床前明月光，疑是地上霜) and 664 raised to ★★ (e.g. 血浓于水, 山外有山，天外有天).",
     ],
     zh: [
       "名句：约 700 条例句的英文翻译原先显示占位符（§）或直接引用中文原句，现已改为英文译文。",
@@ -25,6 +26,7 @@ export const CHANGELOG: Release[] = [
       "游戏：成语接龙、拼成语和填字游戏接受异形词（如“玉食锦衣”）和繁体字；接龙按你输入的写法接下去。",
       "测验：英文提示不再泄露答案；近义词不再作为错误选项；小卡组不再重复出题；拼音题中“一”“不”保持原调。",
       "限时挑战在手机休眠时照常计时；填字游戏“看答案”会保留已答对的词；翻牌配对优先用简短释义；离开学习后按键不会再给卡片评分。",
+      "统一核查星级（只升不降）：556 条升为 ★★★（如“失败是成功之母”“临时抱佛脚”“床前明月光，疑是地上霜”），664 条升为 ★★（如“血浓于水”“山外有山，天外有天”）。",
     ],
   },
   {

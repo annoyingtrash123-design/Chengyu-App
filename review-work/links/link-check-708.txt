@@ -1,0 +1,724 @@
+TASK — Chinese synonym/antonym check (for a learner's idiom dictionary)
+
+Each numbered line gives an ENTRY (with a short English meaning), the list it is in (SYN = listed as a synonym, ANT = listed as an antonym), and an ITEM.
+For each line decide:
+  keep    = the item is a real Chinese expression and a reasonable synonym (for SYN) / opposite (for ANT) of the entry's main meaning — near-synonyms count; a good 近义词/反义词 dictionary could list it.
+  remove  = wrong: it only shares a topic, is merely different rather than opposite, or is not a real expression (garbled or a misremembered idiom).
+  move    = it is in the wrong list (a true opposite listed as SYN, or a true synonym listed as ANT).
+Plain words and phrases are fine as items (失信于民, 遵纪守法, 一代宗师 are real) — do not remove an item for not being a four-character idiom.
+
+REPLY FORMAT — one line per item, in order, nothing else:
+  1 keep
+  2 remove: <reason in at most 8 English words>
+  3 move
+If the reply would be too long, stop at a line boundary and I will ask you to continue.
+
+ITEMS
+1. 褒衣博带 (Loose robes and broad belts: the dress of ancient scholars and gentlemen; also…) — SYN: 长袍马褂
+2. 大步流星 (Walking with long, quick strides.) — ANT: 小脚女人
+3. 大江东去 (The great river flows eastward; the opening of Su Shi's ci on Red Cliff,…) — ANT: 逆流而上
+4. 大势所趋 (The overall trend that cannot be resisted.) — ANT: 逆流而上
+5. 道成肉身 (The Christian doctrine of the Incarnation: God's eternal Word (Logos) took…) — SYN: 圣言成了肉身
+6. 分外眼红 (Extremely angry or envious when seeing a rival or an enemy.) — SYN: 眼红心热
+7. 分文不取 (To take not a single penny; to serve free of charge.) — SYN: 免费义务
+8. 富贵不能淫，贫贱不能移，威武不能屈 (Neither riches, poverty nor threats can sway a person of true integrity.) — SYN: 志坚如钢
+9. 富贵不能淫，贫贱不能移，威武不能屈 (Neither riches, poverty nor threats can sway a person of true integrity.) — SYN: 志坚不移
+10. 国泰民安 (The nation is at peace and the people live in safety.) — ANT: 天下大乱，形势大好
+11. 好高骛远 (To aim too high; to be unrealistically ambitious.) — ANT: 由浅入深
+12. 毫无疑义 (There is absolutely no doubt.) — SYN: 确凿无疑
+13. 毫无隐瞒 (To tell everything honestly without hiding anything.) — ANT: 隐瞒真相
+14. 好逸恶劳 (To love comfort and dislike work.) — ANT: 勤劳肯干
+15. 好自为之 (Take care of yourself; mind how you go (often a warning).) — ANT: 任意妄为
+16. 何必当初 (A rebuke or lament: if you regret it now, why did you do it then?) — ANT: 无怨无悔
+17. 何不食肉糜 (A famous remark symbolising out-of-touch rulers or privileged people who cannot…) — ANT: 体恤民情
+18. 阖家幸福 (A formal wish for a family to be happy.) — SYN: 家庭幸福
+19. 鹤立鸡群 (To stand head and shoulders above others.) — SYN: 超群绝伦
+20. 鹤立鸡群 (To stand head and shoulders above others.) — ANT: 平庸无奇
+21. 和尚庙里借梳子——找错了门 (Asking the wrong person; seeking something where it cannot be had.) — SYN: 找错对象
+22. 和颜悦色 (Kindly and pleasant in manner.) — ANT: 横眉竖眼
+23. 和衣而卧 (To lie down to sleep without undressing.) — SYN: 倒头便睡
+24. 和衣而卧 (To lie down to sleep without undressing.) — SYN: 席地而眠
+25. 和衣而卧 (To lie down to sleep without undressing.) — ANT: 盥洗就寝
+26. 黑白无常 (The two ghostly messengers in Chinese folk belief who fetch the souls of the…) — SYN: 勾魂使者
+27. 黑旋风的本名——理亏（李奎） (In the wrong (pun on 李逵 and 理亏).) — SYN: 自知理亏
+28. 猴年马月 (An indefinite, far-off time; used to say something will take forever.) — ANT: 近在眼前
+29. 后生小子 (A young fellow; used by elders, sometimes condescendingly.) — ANT: 前辈高人
+30. 厚颜无耻 (Shameless; brazen.) — ANT: 羞愧难当
+31. 后羿射日 (The myth in which the archer Hou Yi shot down nine of the ten suns that…) — SYN: 羿射九日
+32. 后知后觉 (To be slow to understand or notice what is going on.) — SYN: 迟钝麻木
+33. 互联网加 (A policy and business concept of combining internet technology with traditional…) — SYN: 数字化转型
+34. 葫芦里卖的是什么药 (What on earth is someone planning? Used when someone's intention is unclear and…) — SYN: 打的什么主意
+35. 葫芦里卖的是什么药 (What on earth is someone planning? Used when someone's intention is unclear and…) — SYN: 不知底细
+36. 囫囵吞枣 (To swallow information without digesting it; uncritical learning.) — ANT: 细嚼慢咽
+37. 虎落平阳 (A powerful person who has lost power and is at the mercy of lesser men; usually…) — SYN: 英雄失路
+38. 虎视眈眈 (To eye greedily; watching menacingly, ready to pounce.) — SYN: 觊觎已久
+39. 虎视鹰瞵 (To watch greedily and menacingly, like a tiger and an eagle, waiting to pounce.) — ANT: 友好相处
+40. 虎兕出柙 (A dangerous force is let loose; also used of a serious dereliction by whoever…) — ANT: 严加看管
+41. 虎兕出柙 (A dangerous force is let loose; also used of a serious dereliction by whoever…) — ANT: 约束有方
+42. 呼之即来 (To come as soon as one is called; always at someone's beck and call.) — SYN: 应声而至
+43. 呼之即来 (To come as soon as one is called; always at someone's beck and call.) — ANT: 拒不应召
+44. 呼之即来 (To come as soon as one is called; always at someone's beck and call.) — ANT: 呼之不应
+45. 壶中日月 (A separate, carefree world; the leisure and detachment of a recluse or…) — ANT: 尘世纷扰
+46. 壶中日月 (A separate, carefree world; the leisure and detachment of a recluse or…) — ANT: 俗务缠身
+47. 化腐朽为神奇 (To turn something worthless into something wonderful.) — ANT: 点金成铁
+48. 花红柳绿 (A bright spring scene of red flowers and green willows.) — ANT: 万木凋零
+49. 花花世界 (The colourful, tempting world of pleasures.) — SYN: 红尘滚滚
+50. 花里胡哨 (Gaudy and flashy; showy without substance.) — ANT: 简洁大方
+51. 化民成俗 (To reform the people through moral teaching so that good customs form.) — SYN: 教化万民
+52. 花前月下 (A romantic setting for lovers.) — SYN: 环境幽美
+53. 华人与狗不得入内 (The notice said to have stood at the entrance of a Shanghai park in the foreign…) — SYN: 种族歧视
+54. 花容月貌 (Beautiful as a flower; a lovely face (of women).) — ANT: 丑陋不堪
+55. 滑天下之大稽 (Utterly ridiculous; the biggest joke under heaven.) — SYN: 荒唐可笑
+56. 滑天下之大稽 (Utterly ridiculous; the biggest joke under heaven.) — SYN: 天大的笑话
+57. 花团锦簇 (Clusters of flowers and brocade; richly colourful and splendid, also used of…) — ANT: 萧条冷落
+58. 化为泡影 (To vanish like a bubble; to come to nothing.) — ANT: 梦想成真
+59. 花样年华 (The prime of youth, especially a young woman's most beautiful years.) — SYN: 青春年少
+60. 花枝招展 (Gorgeously dressed up (of women).) — SYN: 衣着华丽
+61. 哗众取宠 (To show off to win popularity; grandstanding.) — ANT: 踏踏实实
+62. 怀古伤今 (To recall the past and be saddened by the present.) — ANT: 展望未来
+63. 怀橘遗亲 (A filial-piety story in which the young Lu Ji hid oranges in his sleeve to take…) — SYN: 孝顺父母
+64. 怀橘遗亲 (A filial-piety story in which the young Lu Ji hid oranges in his sleeve to take…) — SYN: 反哺之情
+65. 缓兵之计 (A tactic to delay the enemy or the other party and gain time.) — SYN: 拖延战术
+66. 环境幽美 (The surroundings are quiet, secluded and beautiful.) — SYN: 清幽雅静
+67. 环境幽美 (The surroundings are quiet, secluded and beautiful.) — ANT: 污秽不堪
+68. 锦上添花 (To make something good even better; the icing on the cake.) — SYN: 好上加好
+69. 谨慎行事 (To act carefully and avoid risks or slips.) — ANT: 鲁莽行事
+70. 今生今世 (In this life; for as long as one lives.) — ANT: 来生来世
+71. 进退有度 (To behave with proper restraint, knowing when to press forward and when to step…) — ANT: 莽撞冒进
+72. 近乡情怯 (To feel anxious and hesitant as one gets close to one's hometown after a long…) — SYN: 乡愁满怀
+73. 锦绣前程 (A bright future.) — ANT: 前途渺茫
+74. 仅以身免 (To escape alone with one's life after a disaster; everyone else perished or was…) — SYN: 单骑逃脱
+75. 金玉良言 (Valuable, precious advice.) — SYN: 良言善语
+76. 金玉满堂 (Great wealth; a house full of treasures (a blessing). Also: full of learning.) — SYN: 富贵满堂
+77. 近悦远来 (When rule is good, people nearby are happy and people from afar are drawn to…) — SYN: 四方来朝
+78. 近悦远来 (When rule is good, people nearby are happy and people from afar are drawn to…) — SYN: 万民归心
+79. 精兵简政 (To reduce the army to a strong core and simplify administration.) — SYN: 裁员增效
+80. 惊才绝艳 (Astonishing, peerless literary talent or brilliance.) — SYN: 绝世才华
+81. 惊才绝艳 (Astonishing, peerless literary talent or brilliance.) — ANT: 平庸无奇
+82. 惊鸿一瞥 (A brief glimpse of something or someone beautiful that leaves a deep…) — SYN: 匆匆一瞥
+83. 惊鸿一瞥 (A brief glimpse of something or someone beautiful that leaves a deep…) — SYN: 惊鸿照影
+84. 惊鸿一瞥 (A brief glimpse of something or someone beautiful that leaves a deep…) — ANT: 久久凝视
+85. 荆棘载途 (A path beset with obstacles and difficulties.) — SYN: 荆天棘地
+86. 敬老尊贤 (To respect the elderly and honour people of talent and virtue.) — ANT: 轻慢贤才
+87. 精明能干 (Sharp-minded and competent.) — ANT: 愚蠢无能
+88. 敬陪末座 (To sit in the lowest seat at a banquet; a polite way of saying one is present…) — SYN: 甘居末座
+89. 敬陪末座 (To sit in the lowest seat at a banquet; a polite way of saying one is present…) — SYN: 自谦末席
+90. 敬请光临 (A formal invitation phrase asking someone to honour an event with their…) — SYN: 诚邀莅临
+91. 敬请指教 (A formal, written request that readers or experts offer corrections and advice.) — SYN: 恳请指正
+92. 井然有序 (Neat and orderly.) — ANT: 制造混乱
+93. 惊涛骇浪 (Huge, terrifying waves; great perils or upheavals.) — SYN: 狂风巨浪
+94. 经天纬地 (Great ability to manage the affairs of the realm.) — ANT: 平庸无能
+95. 泾渭分明 (Clearly distinct; a clear line between two things.) — ANT: 混淆不清
+96. 惊喜交加 (Astonishment and joy together, usually on receiving unexpected good news.) — SYN: 又惊又喜
+97. 景象繁华 (A lively, prosperous and bustling sight.) — ANT: 萧条冷落
+98. 景象凄凉 (A scene that looks desolate, lonely and sad.) — SYN: 荒凉冷落
+99. 敬谢不敏 (A polite phrase for declining something, as if saying one is not capable of it.) — ANT: 欣然接受
+100. 经验之谈 (Advice or remarks based on first-hand experience.) — SYN: 过来人的话
+101. 敬业乐群 (To be dedicated to one's work and enjoy working well with others.) — ANT: 孤僻自傲
+102. 晶莹剔透 (Bright, clear and transparent like crystal or ice.) — SYN: 晶莹透亮
+103. 晶莹剔透 (Bright, clear and transparent like crystal or ice.) — ANT: 浑浊不清
+104. 警钟长鸣 (To stay constantly alert to danger; keep a sense of vigilance.) — SYN: 时刻警惕
+105. 窘态毕露 (To show one's embarrassment or distress fully.) — SYN: 尴尬不已
+106. 旧的不去，新的不来 (You must let go of the old before something new can take its place; a…) — ANT: 守旧不变
+107. 旧地重游 (To visit a place one has been to before.) — SYN: 重返故里
+108. 就地正法 (To execute a criminal at the place where he was caught or sentenced.) — SYN: 当场处决
+109. 酒酣耳热 (Merry with wine and flushed in the ears.) — SYN: 酒兴正浓
+110. 酒酣耳热 (Merry with wine and flushed in the ears.) — ANT: 滴酒不沾
+111. 九合诸侯 (To bring the feudal lords together in alliance, as Duke Huan of Qi did.) — SYN: 称霸诸侯
+112. 酒后吐真言 (People tend to reveal what they really think when drunk.) — SYN: 酒后失言
+113. 久假不归 (To keep something borrowed so long that it turns into one's own.) — SYN: 有借无还
+114. 久经沙场 (Experienced from long years of fighting; seasoned.) — ANT: 毫无经验
+115. 九九八十一难 (The full set of hardships that the pilgrims had to endure in 《西游记》; used for a…) — SYN: 重重困难
+116. 九九归一 (After all the complications, everything comes back to one point or ends at the…) — SYN: 万法归宗
+117. 救救孩子 (A plea to rescue the young from harmful influences and an oppressive…) — SYN: 拯救下一代
+118. 赳赳武夫 (A brave and mighty soldier or warrior; sometimes used with a hint that someone…) — SYN: 威武雄壮
+119. 久客思归 (After a long time away from home, one longs to return.) — SYN: 思乡心切
+120. 救命稻草 (A last hope someone clutches at in desperation, even if unreliable.) — SYN: 最后希望
+121. 酒囊饭袋 (A good-for-nothing who only eats and drinks.) — SYN: 无能之辈
+122. 九牛二虎之力 (Enormous effort, as much as nine oxen and two tigers might muster.) — SYN: 费尽周折
+123. 九曲十八弯 (Winding and twisting many times; a river, road or process full of turns.) — SYN: 曲折蜿蜒
+124. 九天揽月 (To grasp the moon from the highest heaven; a bold ambition or feat.) — ANT: 甘居中游
+125. 九五之尊 (The emperor; the supreme ruler.) — SYN: 万乘之尊
+126. 九霄云外 (Beyond the highest heavens; completely forgotten or cast aside.) — ANT: 铭记在心
+127. 咎由自取 (To have only oneself to blame; brought it on oneself.) — ANT: 无辜受累
+128. 居功自傲 (To become arrogant because of past achievements.) — SYN: 恃功而骄
+129. 居功自傲 (To become arrogant because of past achievements.) — SYN: 功高自傲
+130. 踽踽独行 (To walk alone, forlorn and friendless.) — ANT: 结伴而行
+131. 居大不易 (It is hard to make a living in a big city where everything is expensive.) — SYN: 生活不易
+132. 局势动荡 (The political or social situation is unsettled and turbulent.) — ANT: 局势稳定
+133. 局势混乱 (The situation is in disorder and out of control.) — ANT: 局势稳定
+134. 举世无双 (Having no equal anywhere in the world.) — ANT: 平平无奇
+135. 举止端庄 (Behaving in a poised, proper and dignified way.) — SYN: 端庄大方
+136. 举止端庄 (Behaving in a poised, proper and dignified way.) — ANT: 举止轻浮
+137. 举止端庄 (Behaving in a poised, proper and dignified way.) — ANT: 粗鲁无礼
+138. 举止文雅 (Behaving in a refined, polite and graceful way.) — ANT: 举止粗鲁
+139. 举止文雅 (Behaving in a refined, polite and graceful way.) — ANT: 粗俗不堪
+140. 聚族而居 (To live together with all one's clan or kin in the same place.) — SYN: 世代同堂
+141. 聚族而居 (To live together with all one's clan or kin in the same place.) — ANT: 四散而居
+142. 绝不姑息 (To refuse to tolerate wrongdoing or let offenders off lightly.) — SYN: 决不手软
+143. 绝不姑息 (To refuse to tolerate wrongdoing or let offenders off lightly.) — SYN: 绝不宽容
+144. 绝妙好辞 (Exquisitely written words or a brilliant piece of writing.) — ANT: 文理不通
+145. 君臣佐使 (In traditional Chinese medicine, the four roles of ingredients in a…) — SYN: 配伍得当
+146. 军机重地 (A place where state or military secrets are handled and which ordinary people…) — SYN: 机要重地
+147. 军机重地 (A place where state or military secrets are handled and which ordinary people…) — ANT: 开放场所
+148. 君君臣臣 (Each person should fulfil the duties of their station: the ruler must act as a…) — SYN: 各安其位
+149. 君君臣臣 (Each person should fulfil the duties of their station: the ruler must act as a…) — SYN: 正名定分
+150. 君君臣臣 (Each person should fulfil the duties of their station: the ruler must act as a…) — ANT: 上下失序
+151. 君临天下 (To rule over the whole empire as sovereign.) — SYN: 统御天下
+152. 君临天下 (To rule over the whole empire as sovereign.) — ANT: 沦为臣属
+153. 军令如山 (A military order is as immovable as a mountain: it must be obeyed without…) — SYN: 铁的纪律
+154. 军令如山 (A military order is as immovable as a mountain: it must be obeyed without…) — ANT: 有令不行
+155. 君子动口不动手 (A civilised person settles disputes by talking, not with his fists.) — ANT: 拳脚相加
+156. 君子协定 (An agreement based on honour rather than on a formal contract.) — SYN: 口头约定
+157. 君子之交 (A friendship between people of integrity — plain but true.) — ANT: 小人之交
+158. 君子之交淡如水 (True friendship does not depend on flattery or favours.) — SYN: 淡泊之交
+159. 君子周而不比 (The gentleman is broad-minded and fair to all, and does not form cliques; the…) — SYN: 秉公办事
+160. 慨当以慷 (Full of deep, passionate emotion; to sing with heroic feeling.) — SYN: 豪情满怀
+161. 开国元勋 (A leading figure in founding a state.) — SYN: 创业元老
+162. 开国元勋 (A leading figure in founding a state.) — ANT: 亡国之君
+163. 开花结果 (To produce results.) — ANT: 有花无果
+164. 开怀畅饮 (To drink freely and happily.) — SYN: 举杯痛饮
+165. 开怀畅饮 (To drink freely and happily.) — ANT: 滴酒不沾
+166. 开基创业 (To found a dynasty, state or major enterprise from scratch.) — ANT: 守成不变
+167. 开疆拓土 (To expand a realm's territory; also, to pioneer new markets or fields.) — ANT: 割地求和
+168. 开卷有益 (Reading is always beneficial.) — ANT: 读书无用
+169. 开阔视野 (To widen one's view and knowledge by seeing more.) — SYN: 增长见识
+170. 开阔眼界 (To broaden one's horizons.) — SYN: 增长见识
+171. 开路先锋 (A pioneer who clears the way.) — ANT: 尾随其后
+172. 开门七件事 (The seven daily household necessities: firewood, rice, oil, salt, soy sauce,…) — SYN: 日常开销
+173. 凯撒的归凯撒，上帝的归上帝 (Give each authority what is due to it; often quoted for the separation of state…) — SYN: 各司其职
+174. 凯撒的归凯撒，上帝的归上帝 (Give each authority what is due to it; often quoted for the separation of state…) — ANT: 政教不分
+175. 开山鼻祖 (The founder of a school, craft or genre.) — SYN: 一代宗师
+176. 开源节流 (To increase income and reduce expenditure.) — SYN: 增收节支
+177. 看家本领 (One's best, signature skill.) — SYN: 独门绝技
+178. 看破红尘 (To see the illusory nature of worldly life and lose interest in it.) — ANT: 留恋红尘
+179. 看破红尘 (To see the illusory nature of worldly life and lose interest in it.) — ANT: 贪恋尘世
+180. 抗击疫情 (To take action against an epidemic, such as treatment, prevention and control.) — SYN: 防疫抗疫
+181. 慷慨悲歌 (To sing out with stirring, mournful passion; a heroic, tragic mood of someone…) — SYN: 悲壮激昂
+182. 慷他人之慨 (To be generous at someone else's expense, spending or giving away what belongs…) — ANT: 自掏腰包
+183. 抗旨不遵 (To disobey an imperial decree; to openly defy an order from above.) — SYN: 违抗圣旨
+184. 考虑周密 (Having weighed every angle with great care.) — ANT: 草率行事
+185. 靠山山倒，靠人人倒 (Do not depend on others; the only reliable support is oneself.) — ANT: 依赖他人
+186. 刻薄寡恩 (Mean-spirited and unkind to others, with little generosity or compassion.) — ANT: 宽厚仁慈
+187. 刻薄寡恩 (Mean-spirited and unkind to others, with little generosity or compassion.) — ANT: 慷慨大方
+188. 可持续发展 (Growth that meets present needs without damaging the ability of future…) — SYN: 绿色发展
+189. 刻骨铭心 (Etched into one's memory forever.) — SYN: 铭记在心
+190. 刻骨铭心 (Etched into one's memory forever.) — ANT: 抛诸脑后
+191. 刻骨相思 (A longing for someone so deep that it feels carved into the bones.) — SYN: 相思入骨
+192. 恪尽职守 (To perform one's duties carefully and conscientiously.) — SYN: 尽忠职守
+193. 刻苦攻读 (To study very hard, putting up with hardship.) — SYN: 发奋读书
+194. 可怜天下父母心 (Pity the hearts of parents everywhere: parents' devotion and worry for their…) — SYN: 爱子心切
+195. 可怜天下父母心 (Pity the hearts of parents everywhere: parents' devotion and worry for their…) — SYN: 父母之恩
+196. 可怜天下父母心 (Pity the hearts of parents everywhere: parents' devotion and worry for their…) — ANT: 不孝子孙
+197. 瞌睡碰着枕头——求之不得 (Exactly what one wanted; a welcome opportunity.) — ANT: 避之唯恐不及
+198. 客死他乡 (To die away from one's homeland.) — SYN: 魂断异乡
+199. 科头跣足 (Bareheaded and barefoot; an unrestrained, informal or plain way of living.) — SYN: 赤足露顶
+200. 科头跣足 (Bareheaded and barefoot; an unrestrained, informal or plain way of living.) — ANT: 衣冠整齐
+201. 科学技术是第一生产力 (Science and technology are the main driver of economic growth.) — SYN: 科技强国
+202. 科学救国 (The early twentieth-century belief that modern science and technology would…) — ANT: 读书无用论
+203. 可造之才 (A person with promising talent who is worth training.) — SYN: 璞玉浑金
+204. 苛政猛于虎 (Oppressive government is worse than a man-eating tiger.) — ANT: 仁政爱民
+205. 空即是色 (In Buddhism, emptiness is not nothingness: it is just the way in which all…) — ANT: 万物实有
+206. 空口白话 (Mere talk with no proof or action behind it.) — ANT: 言出必行
+207. 空口说白话 (To make claims or promises with nothing to back them up.) — ANT: 言出必行
+208. 空口无凭 (Words alone are no proof.) — SYN: 无凭无据
+209. 孔孟之道 (Confucian thought as developed by Confucius and Mencius.) — SYN: 儒家学说
+210. 孔孟之道 (Confucian thought as developed by Confucius and Mencius.) — SYN: 圣贤之道
+211. 孔融让梨 (Allusion to a child who modestly takes the smallest pear and gives the best to…) — SYN: 谦让有礼
+212. 孔融让梨 (Allusion to a child who modestly takes the smallest pear and gives the best to…) — ANT: 争抢霸占
+213. 空手套白狼 (To get something valuable for nothing, usually by clever manoeuvring or tricks.) — SYN: 无本生意
+214. 空手套白狼 (To get something valuable for nothing, usually by clever manoeuvring or tricks.) — ANT: 本分经营
+215. 空头支票 (A promise that will not be kept; literally, a cheque that bounces.) — ANT: 言出必行
+216. 空言无补 (Empty words are of no help; action is needed.) — ANT: 言出必行
+217. 口含天宪 (What the powerful person says becomes law; absolute power.) — ANT: 依法办事
+218. 口惠而实不至 (To promise favours without ever delivering them.) — ANT: 言出必行
+219. 口说无凭 (Mere words are no proof; put it in writing.) — ANT: 凭证确凿
+220. 口血未干 (A treaty or oath broken almost as soon as it was sworn.) — ANT: 信守不渝
+221. 哭哭啼啼 (Crying and snivelling; being tearful and whiny.) — SYN: 啼哭不止
+222. 哭哭啼啼 (Crying and snivelling; being tearful and whiny.) — SYN: 抽抽搭搭
+223. 枯木逢春 (New life or hope after a desperate situation; a recovery or revival.) — SYN: 枯树发芽
+224. 哭天喊地 (To wail loudly in grief or distress; also used of a dramatic fuss.) — ANT: 悄然无声
+225. 枯枝败叶 (Dead twigs and rotting leaves.) — SYN: 落叶满地
+226. 夸大事实 (To make things sound bigger or more serious than they really are.) — ANT: 如实相告
+227. 快马加鞭 (To speed up even more; to press on at full speed.) — ANT: 磨磨蹭蹭
+228. 脍炙人口 ((Of a poem, song or story) universally loved and widely quoted.) — SYN: 传诵一时
+229. 宽袍大袖 (A loose, flowing robe with wide sleeves, the dress of the traditional scholar…) — SYN: 长袍广袖
+230. 宽袍大袖 (A loose, flowing robe with wide sleeves, the dress of the traditional scholar…) — ANT: 紧身短打
+231. 宽袍大袖 (A loose, flowing robe with wide sleeves, the dress of the traditional scholar…) — ANT: 短衣窄袖
+232. 宽严并用 (To combine kindness and firmness when managing or educating people.) — ANT: 一味严苛
+233. 宽严并用 (To combine kindness and firmness when managing or educating people.) — ANT: 姑息纵容
+234. 宽以待人 (To treat others with generosity and tolerance.) — ANT: 刻薄待人
+235. 宽衣解带 (To take off one's outer clothes and loosen the belt, as for bed or to relax.) — SYN: 解衣就寝
+236. 旷世奇才 (A genius unmatched in one's era.) — SYN: 天纵之才
+237. 愧不敢当 (A polite reply to praise: I feel too unworthy to accept it.) — SYN: 受之有愧
+238. 窥见一斑 (To glimpse a part and so infer the whole.) — ANT: 全面了解
+239. 岿然不动 (To stand firm and unshaken, like a tall mountain.) — ANT: 动摇不定
+240. 愧天怍人 (To feel deeply ashamed of one's conduct before heaven and everyone.) — SYN: 羞愧难当
+241. 困难重重 (Facing one difficulty after another.) — ANT: 消除障碍
+242. 困知勉行 (To gain knowledge only through struggle and to act through hard effort.) — ANT: 天资聪颖
+243. 拉不下脸 (To be unable to bring oneself to do something awkward, such as refusing or…) — ANT: 豁得出去
+244. 拉大旗作虎皮 (To use a famous name or cause as cover to intimidate or deceive others.) — SYN: 打着旗号
+245. 拉拉扯扯 (Pulling at each other; also being over-familiar or bound up in improper ties.) — ANT: 保持距离
+246. 蜡烛——不点不亮 (Someone who needs prompting before understanding.) — SYN: 反应迟钝
+247. 蜡烛——不点不亮 (Someone who needs prompting before understanding.) — SYN: 木头木脑
+248. 来得早不如来得巧 (Good timing counts for more than being early.) — SYN: 来得正好
+249. 癞蛤蟆敲大鼓——自吹自擂 (Boasting about oneself.) — SYN: 自我吹嘘
+250. 来去无踪 (Appearing and leaving without leaving any trace.) — ANT: 踪迹明显
+251. 来日大难 (Days to come will be hard; also used for the difficulty of the future and the…) — SYN: 前路漫漫
+252. 来日大难 (Days to come will be hard; also used for the difficulty of the future and the…) — SYN: 前途多舛
+253. 来日方长 (There is still a long future ahead.) — ANT: 大限将至
+254. 来无影，去无踪 (Appearing and vanishing without a trace; elusive and mysterious.) — ANT: 有迹可循
+255. 来者不善 (Whoever comes has ill intentions.) — ANT: 笑脸相迎
+256. 来之不易 (Hard-won; achieved only through great effort, so it should be treasured.) — SYN: 得来不易
+257. 来之不易 (Hard-won; achieved only through great effort, so it should be treasured.) — SYN: 费尽周折
+258. 懒婆娘的裹脚布——又臭又长 (The foot-bindings of a slovenly woman are both smelly and long; a speech or…) — SYN: 冗长乏味
+259. 懒婆娘的裹脚布——又臭又长 (The foot-bindings of a slovenly woman are both smelly and long; a speech or…) — SYN: 啰里啰嗦
+260. 烂泥——扶不上墙 (Soggy mud cannot be made to stick to a wall; a person too hopeless to be…) — ANT: 可造之材
+261. 烂若披锦 (Of writing: splendidly colourful and polished, like a length of brocade…) — SYN: 锦绣文章
+262. 滥杀无辜 (To kill innocent people indiscriminately.) — ANT: 仁慈为怀
+263. 烂熟于心 (To know something perfectly by heart.) — ANT: 过目即忘
+264. 蓝田生玉 (A gifted child born to a distinguished family; fine stock produces fine sons.) — ANT: 子不如父
+265. 蕙质兰心 (Of a woman: pure, gentle and refined in character; elegant and intelligent.) — ANT: 粗俗不堪
+266. 蕙质兰心 (Of a woman: pure, gentle and refined in character; elegant and intelligent.) — ANT: 愚钝无知
+267. 烂醉如泥 (Extremely drunk, limp as mud.) — ANT: 滴酒不沾
+268. 狼狈不堪 (In an utterly sorry and awkward state.) — SYN: 狼狈万状
+269. 狼狈逃跑 (To run away looking panicked and defeated.) — ANT: 从容撤退
+270. 狼狈逃跑 (To run away looking panicked and defeated.) — ANT: 毅然迎战
+271. 老蚌生珠 (A polite way to congratulate someone on having a fine child in later life.) — SYN: 晚年得子
+272. 老蚌生珠 (A polite way to congratulate someone on having a fine child in later life.) — ANT: 膝下无子
+273. 老成练达 (Experienced and mature, skilful in handling affairs and dealing with people.) — SYN: 世故练达
+274. 劳动光荣 (A saying that work is something to be respected and proud of.) — SYN: 热爱劳动
+275. 老虎吃天——难下爪 (A task so big that one cannot begin.) — SYN: 无处着手
+276. 老虎借猪——有借无还 (Borrowing something with no intention of returning it.) — SYN: 有借无还
+277. 老虎借猪——有借无还 (Borrowing something with no intention of returning it.) — SYN: 一去不回
+278. 老奸巨猾 (Wily and cunning; a crafty old fox.) — ANT: 忠厚老实
+279. 唠唠叨叨 (Talking on and on in a tiresome way.) — SYN: 啰里啰嗦
+280. 劳民伤财 (Wasting people's labour and money.) — ANT: 利国利民
+281. 劳模精神 (The qualities honoured in national and local model workers: love of work, hard…) — SYN: 敬业奉献
+282. 老牛舐犊 (Parental love, as an old ox lovingly licks its calf.) — SYN: 爱子心切
+283. 牢骚满腹 (Full of complaints.) — ANT: 无怨无悔
+284. 老僧入定 (To sit motionless and absorbed, like a monk in deep meditation.) — SYN: 神游物外
+285. 老少咸宜 (Suitable for people of all ages.) — SYN: 男女老少皆宜
+286. 老少咸宜 (Suitable for people of all ages.) — SYN: 人人皆宜
+287. 老实人吃亏 (Honest, unassertive people tend to end up losing out.) — SYN: 忠厚无用
+288. 老鼠拉木锨，大头在后头 (The best part (or the real trouble) is still to come.) — SYN: 好戏在后头
+289. 王婆卖瓜——自卖自夸 (A seller praises his own goods; someone who boasts about himself or his own…) — SYN: 自我吹嘘
+290. 老眼昏花 (Poor eyesight in old age; also used humbly for one's own mistakes of…) — SYN: 视力模糊
+291. 老眼昏花 (Poor eyesight in old age; also used humbly for one's own mistakes of…) — SYN: 目光昏花
+292. 老之将至 (Old age is approaching.) — SYN: 暮年将至
+293. 老之将至 (Old age is approaching.) — ANT: 青春年少
+294. 乐不思蜀 (So happy somewhere that one forgets home or duty.) — ANT: 思乡心切
+295. 乐而不淫 (Enjoyable but kept within proper bounds; moderate in joy.) — SYN: 中正平和
+296. 乐而忘返 (Having too much fun to want to leave.) — ANT: 思乡心切
+297. 乐善不倦 (To take pleasure in doing good deeds without ever tiring of them.) — ANT: 吝啬自私
+298. 雷厉风行 (Swift and decisive in action; getting things done quickly and firmly.) — SYN: 说干就干
+299. 雷厉风行 (Swift and decisive in action; getting things done quickly and firmly.) — ANT: 磨磨蹭蹭
+300. 千岩万壑 (Countless rocky peaks and deep valleys; describes grand, rugged mountain…) — ANT: 平原千里
+301. 牵衣顿足 (Relatives pulling at the departing one's clothes and stamping their feet in…) — ANT: 含笑而别
+302. 牵衣顿足 (Relatives pulling at the departing one's clothes and stamping their feet in…) — ANT: 潇洒离去
+303. 欠债还钱，天经地义 (Repaying what you owe is only natural and right.) — ANT: 欠债不还
+304. 浅斟低唱 (To sip wine slowly while softly listening to or singing songs, a leisurely,…) — SYN: 把酒吟诗
+305. 千真万确 (Entirely true and certain.) — SYN: 确凿无疑
+306. 潜滋暗长 (To grow and spread quietly without being noticed.) — SYN: 滋生蔓延
+307. 潜滋暗长 (To grow and spread quietly without being noticed.) — SYN: 暗中滋长
+308. 潜滋暗长 (To grow and spread quietly without being noticed.) — ANT: 彻底根除
+309. 强宾压主 (A guest who overshadows the host; more generally, a secondary party that takes…) — SYN: 主次倒置
+310. 强宾压主 (A guest who overshadows the host; more generally, a secondary party that takes…) — ANT: 主次分明
+311. 强干弱枝 (To strengthen the central authority and weaken local powers.) — SYN: 中央集权
+312. 强干弱枝 (To strengthen the central authority and weaken local powers.) — ANT: 藩镇割据
+313. 强加于人 (To force one's own views or wishes on other people.) — ANT: 尊重他人
+314. 枪林弹雨 (A forest of guns and a rain of bullets: fierce fighting.) — SYN: 硝烟弥漫
+315. 强扭的瓜不甜 (Anything forced, especially love or marriage, will not turn out well.) — SYN: 勉强无益
+316. 强颜欢笑 (To put on a smile despite sorrow.) — SYN: 强作欢颜
+317. 强颜欢笑 (To put on a smile despite sorrow.) — ANT: 开怀大笑
+318. 巧夺天工 (Workmanship so fine it surpasses nature.) — ANT: 拙劣不堪
+319. 敲骨吸髓 (To exploit and oppress people ruthlessly, squeezing out every last drop.) — ANT: 仁慈宽厚
+320. 巧舌如簧 (Having a glib tongue, able to talk people round.) — SYN: 善于狡辩
+321. 悄无声息 (Quiet, with no sound at all; or doing something quietly, without anyone…) — SYN: 寂静无声
+322. 巧笑倩兮 (A woman's lovely, dimpled smile.) — SYN: 笑靥如花
+323. 巧言令色 (Smooth words and a pleasing face used to win favour; insincere flattery.) — ANT: 质朴无华
+324. 切磋武艺 (To compare and exchange martial-arts skills so that both sides improve.) — SYN: 以武会友
+325. 切磋武艺 (To compare and exchange martial-arts skills so that both sides improve.) — ANT: 以武欺人
+326. 切磋琢磨 (To learn from each other by discussing and exchanging views, like craftsmen…) — SYN: 互相切磋
+327. 窃符救赵 (Lord Xinling stole the Wei king's military tally to command an army and rescue…) — SYN: 仗义相助
+328. 窃国大盗 (A person who seizes political power by illegitimate means.) — SYN: 篡权夺位者
+329. 窃国大盗 (A person who seizes political power by illegitimate means.) — ANT: 民族英雄
+330. 窃国者侯 (Petty thieves are punished, but those who seize a whole state are honoured as…) — SYN: 大盗窃国
+331. 窃窃私语 (To whisper to one another in low voices.) — SYN: 低声细语
+332. 切中时弊 (To pinpoint the problems of the times accurately.) — SYN: 击中要害
+333. 寝不安席 (Unable to sleep peacefully because of worry or anxiety.) — ANT: 安然入睡
+334. 钦差大臣 (A minister sent by the emperor with special authority; today also a mocking…) — SYN: 特派大员
+335. 钦差大臣 (A minister sent by the emperor with special authority; today also a mocking…) — SYN: 巡按御史
+336. 钦差大臣 (A minister sent by the emperor with special authority; today also a mocking…) — ANT: 地方小吏
+337. 钦差大臣 (A minister sent by the emperor with special authority; today also a mocking…) — ANT: 平头百姓
+338. 亲尝汤药 (To care for a sick parent personally, even tasting the medicine first; Emperor…) — SYN: 侍奉汤药
+339. 勤工俭学 (To work part-time to pay for one's studies.) — SYN: 半工半读
+340. 勤俭持家 (To manage a household with hard work and careful saving.) — ANT: 生活奢靡
+341. 琴剑飘零 (A scholar wandering from place to place with only his lute and sword.) — SYN: 漂泊不定
+342. 亲冒矢石 (To lead from the front in battle, personally braving arrows and stones.) — ANT: 龟缩不前
+343. 亲朋好友 (All one's relatives and friends, the people close to us.) — SYN: 亲戚朋友
+344. 勤勤恳恳 (Diligent and conscientious; hard-working.) — SYN: 踏踏实实
+345. 亲仁善邻 (To befriend the virtuous and live in harmony with neighbours.) — SYN: 睦邻友好
+346. 亲上加亲 (To marry within the extended family, so that relatives become even closer.) — SYN: 亲戚联姻
+347. 寝食不安 (Too anxious to sleep or eat.) — ANT: 安然自若
+348. 禽兽不如 (Utterly depraved; behaving worse than an animal.) — ANT: 善良仁厚
+349. 亲眼目睹 (To witness something personally.) — SYN: 亲身经历
+350. 勤于政事 (Applying oneself diligently to the business of government.) — ANT: 荒废朝政
+351. 勤于政事 (Applying oneself diligently to the business of government.) — ANT: 不理朝政
+352. 轻薄无行 (Frivolous and improper in behaviour, lacking moral discipline.) — SYN: 轻浮放荡
+353. 轻薄无行 (Frivolous and improper in behaviour, lacking moral discipline.) — SYN: 行为不端
+354. 轻薄无行 (Frivolous and improper in behaviour, lacking moral discipline.) — ANT: 端庄稳重
+355. 情不自禁 (Cannot help oneself; to be overcome by emotion.) — ANT: 克己自制
+356. 倾巢出动 (To turn out in full force.) — SYN: 全体出动
+357. 倾巢出动 (To turn out in full force.) — ANT: 坚守不出
+358. 倾巢而出 (To go out in full force, leaving nothing behind.) — SYN: 全体出动
+359. 情窦初开 (A young person beginning to feel romantic love.) — SYN: 春心萌动
+360. 请多保重 (A polite farewell wishing someone good health and safety.) — SYN: 珍重万千
+361. 请多保重 (A polite farewell wishing someone good health and safety.) — SYN: 多多珍重
+362. 清风徐来 (A cool, gentle breeze blows softly.) — SYN: 微风拂面
+363. 清风徐来 (A cool, gentle breeze blows softly.) — SYN: 凉风习习
+364. 清风徐来 (A cool, gentle breeze blows softly.) — ANT: 狂风大作
+365. 轻歌曼舞 (Gentle music and graceful dancing; a festive, leisurely entertainment.) — ANT: 哀乐无声
+366. 轻歌曼舞 (Gentle music and graceful dancing; a festive, leisurely entertainment.) — ANT: 寂静无声
+367. 倾国倾城 (A woman of devastating beauty.) — ANT: 丑陋不堪
+368. 情景交融 (Emotion and scenery blending seamlessly, as in good writing.) — SYN: 寓情于景
+369. 清静无为 (Daoist ideal: remain calm and do not interfere, letting things follow their…) — ANT: 积极进取
+370. 轻举妄动 (To act rashly without careful thought.) — SYN: 鲁莽行事
+371. 轻举妄动 (To act rashly without careful thought.) — SYN: 贸然行事
+372. 顷刻之间 (In a very short time.) — SYN: 弹指之间
+373. 顷刻之间 (In a very short time.) — ANT: 漫长岁月
+374. 清理门户 (To deal with traitors or wrongdoers within one's own organisation.) — SYN: 整肃内部
+375. 清理门户 (To deal with traitors or wrongdoers within one's own organisation.) — SYN: 肃清内奸
+376. 轻描淡写 (To touch on lightly; to downplay.) — SYN: 一笔带过
+377. 清明前后，种瓜点豆 (Farm lore: the Qingming period is the time to sow melons and beans.) — ANT: 错过农时
+378. 青年者，人生之王，人生之春，人生之华也 (Li Dazhao's praise of youth as the best and most powerful stage of a person's…) — SYN: 青春年少
+379. 青鸟殷勤 (A go-between or messenger who diligently carries news, especially between…) — ANT: 音信全无
+380. 轻诺寡信 (One who makes promises lightly seldom keeps them, so such people are not…) — ANT: 言出必行
+381. 倾盆大雨 (A downpour; torrential rain.) — ANT: 毛毛细雨
+382. 清清楚楚 (Perfectly clear.) — ANT: 模模糊糊
+383. 卿卿我我 (Lovers being affectionate and intimate.) — SYN: 缠缠绵绵
+384. 卿卿我我 (Lovers being affectionate and intimate.) — ANT: 相敬如冰
+385. 情深似海 (Deep love or friendship, as vast as the ocean.) — ANT: 情薄如纸
+386. 清水衙门 (A government office with no perks or graft opportunities.) — ANT: 热门岗位
+387. 清汤寡水 (Thin, bland food with little oil or flavour; also dull, uninteresting writing…) — ANT: 浓油赤酱
+388. 情天恨海 (The boundless sorrows and regrets of love; a love story full of pain.) — SYN: 爱恨情仇
+389. 蜻蜓点水 (Superficial; only skimming the surface.) — ANT: 深入细致
+390. 清新俊逸 (Style that is fresh, natural and elegant.) — SYN: 清新自然
+391. 清新俊逸 (Style that is fresh, natural and elegant.) — SYN: 飘逸洒脱
+392. 情绪高涨 (Spirits and enthusiasm running high.) — SYN: 热情高涨
+393. 轻言细语 (Speaking in a soft, gentle voice.) — SYN: 细声细气
+394. 轻言细语 (Speaking in a soft, gentle voice.) — SYN: 柔声细语
+395. 情意绵绵 (Full of lingering tenderness and love.) — SYN: 情深意长
+396. 情有独钟 (To have a special fondness for one particular person or thing.) — SYN: 钟爱有加
+397. 情有可原 (Forgivable given the circumstances.) — ANT: 罪不可恕
+398. 青云之志 (Lofty ambition to rise to high position or achieve great things.) — ANT: 甘居中游
+399. 轻重缓急 (The relative importance and urgency of things.) — SYN: 主次分明
+400. 穷愁潦倒 (Poverty-stricken, miserable and dejected.) — SYN: 落魄不堪
+401. 琼浆玉液 (Fine wine; nectar.) — SYN: 美酒佳酿
+402. 穷困潦倒 (Destitute and down on one's luck.) — ANT: 大富大贵
+403. 琼楼玉宇 (Magnificent, fairy-like buildings; palaces in heaven or lavish architecture.) — ANT: 茅屋草舍
+404. 穷乡僻壤 (A poor and remote area.) — SYN: 荒山野岭
+405. 穷乡僻壤 (A poor and remote area.) — SYN: 偏远山区
+406. 穷乡僻壤 (A poor and remote area.) — ANT: 繁华都市
+407. 穷形尽相 (To describe or portray something in vivid, exhaustive detail; (in a negative…) — ANT: 寥寥数笔
+408. 穷则独善其身，达则兼济天下 (In adversity, cultivate oneself; when successful, benefit the whole world.) — SYN: 进退有据
+409. 穷则思变 (When in dire straits, one thinks of changing the situation.) — SYN: 绝处求生
+410. 穷追不舍 (To pursue relentlessly without giving up.) — SYN: 紧追慢赶
+411. 穷追猛打 (To pursue an enemy or opponent relentlessly and attack without letting up.) — SYN: 紧追不舍
+412. 秋高气爽 (Clear skies and crisp, fresh air of autumn.) — ANT: 阴雨连绵
+413. 秋毫之末 (The tip of the fine hair of an animal in autumn: something extremely tiny.) — SYN: 毫厘之差
+414. 秋去冬来 (Autumn passes and winter comes; the passing of time.) — ANT: 时光静止
+415. 求全责备 (To demand perfection from others and criticise every flaw.) — ANT: 体谅包容
+416. 求人不如求己 (Rely on yourself rather than depending on other people.) — ANT: 依赖他人
+417. 秋收冬藏 (The farming year: gather the crops in autumn and store them in winter.) — SYN: 春耕秋收
+418. 秋收冬藏 (The farming year: gather the crops in autumn and store them in winter.) — SYN: 颗粒归仓
+419. 求贤心切 (Being very eager to find capable people to serve.) — ANT: 埋没人才
+420. 求之不得 (Just what one has long wanted, and could hardly have hoped for.) — ANT: 避之不及
+421. 祛病延年 (To drive away illness and live longer; often a wish for health and long life.) — SYN: 强身健体
+422. 驱除鞑虏，恢复中华 (An anti-Qing revolutionary slogan that called for ending Manchu rule; today a…) — ANT: 五族共和
+423. 屈打成招 (To be beaten until one confesses to a crime one didn't commit.) — SYN: 严刑逼供
+424. 屈打成招 (To be beaten until one confesses to a crime one didn't commit.) — ANT: 据实供述
+425. 驱虎吞狼 (To set one rival against another so that your enemies destroy each other.) — SYN: 二虎竞食
+426. 屈己待人 (To humble oneself and treat others with respect and generosity.) — SYN: 谦和待人
+427. 取其精华 (To take the best part and leave the rest.) — ANT: 全盘照搬
+428. 取其精华，去其糟粕 (Take what is good from something and throw away what is worthless or harmful.) — ANT: 全盘接受
+429. 去伪存真 (To discard what is false and keep what is true.) — ANT: 真假不分
+430. 阒无一人 (Utterly silent and deserted, without a soul in sight.) — SYN: 万籁无声
+431. 取信于民 (To win the trust of the public.) — ANT: 失信于民
+432. 取信于人 (To win the trust of others.) — SYN: 获得信任
+433. 趋炎附势 (To fawn on the powerful and rich.) — ANT: 清高自守
+434. 趋之若鹜 (To flock after something like ducks (disapproving).) — ANT: 避之不及
+435. 曲终人散 (When the performance ends the audience leaves; an event is over.) — SYN: 宾客散尽
+436. 驱逐胡虏，恢复中华 (A slogan of Zhu Yuanzhang's 1367 northern expedition against the Yuan dynasty;…) — SYN: 光复故土
+437. 驱逐胡虏，恢复中华 (A slogan of Zhu Yuanzhang's 1367 northern expedition against the Yuan dynasty;…) — SYN: 匡扶社稷
+438. 权衡利弊 (To weigh up advantages and disadvantages before deciding.) — ANT: 草率行事
+439. 全力以赴 (To go all out; to put everything one has into something.) — ANT: 应付了事
+440. 全面发展 (To grow in every aspect, such as moral, intellectual, physical and aesthetic,…) — ANT: 畸形发展
+441. 全民皆兵 (Everyone in the nation is a soldier; total mobilisation for defence.) — SYN: 全民动员
+442. 全民皆兵 (Everyone in the nation is a soldier; total mobilisation for defence.) — SYN: 举国一致
+443. 全盘西化 (The view that China should adopt Western culture and institutions wholesale;…) — SYN: 照搬照抄
+444. 全盘西化 (The view that China should adopt Western culture and institutions wholesale;…) — ANT: 国粹主义
+445. 权倾朝野 (Having power so great that it overshadows the whole court and country.) — SYN: 位高权重
+446. 权倾朝野 (Having power so great that it overshadows the whole court and country.) — ANT: 平民百姓
+447. 权倾天下 (To hold power so great that it dominates the whole country.) — ANT: 无权无势
+448. 拳拳服膺 (To hold a teaching earnestly in mind and keep it faithfully.) — SYN: 铭记在心
+449. 拳拳服膺 (To hold a teaching earnestly in mind and keep it faithfully.) — ANT: 抛诸脑后
+450. 拳拳之心 (A sincere and devoted heart.) — SYN: 一片赤诚
+451. 劝善惩恶 (To encourage good deeds and punish bad ones.) — ANT: 赏罚不明
+452. 劝善惩恶 (To encourage good deeds and punish bad ones.) — ANT: 是非不分
+453. 全身而退 (To withdraw from a risky situation without harm or loss.) — SYN: 安然脱身
+454. 全心全意 (Wholeheartedly; with complete devotion.) — ANT: 半心半意
+455. 全心全意为人民服务 (The guiding principle that officials and Party members should serve the people…) — ANT: 官僚主义
+456. 缺衣少食 (Lacking food and clothing; destitute.) — SYN: 衣食无着
+457. 确有其事 (The thing really did happen.) — SYN: 确凿无疑
+458. 却之不恭 (Used when accepting an offer or gift, because refusing it would seem impolite.) — ANT: 婉言谢绝
+459. 却之不恭 (Used when accepting an offer or gift, because refusing it would seem impolite.) — ANT: 一口回绝
+460. 群策群力 (To pool everyone's wisdom and effort.) — ANT: 单打独斗
+461. 群起而攻之 (Everyone rises together to attack someone.) — ANT: 众口交誉
+462. 群起而攻之 (Everyone rises together to attack someone.) — ANT: 一致称赞
+463. 群情激奋 (The masses are roused and full of excited enthusiasm.) — ANT: 群情冷漠
+464. 攘外必先安内 (The Nationalist government's policy of the early 1930s: deal with domestic…) — ANT: 一致对外
+465. 攘外必先安内 (The Nationalist government's policy of the early 1930s: deal with domestic…) — ANT: 停止内战
+466. 让一部分人先富起来 (A reform-era principle of letting those who work hard and are able get rich…) — ANT: 平均主义
+467. 绕道而行 (To go by a roundabout route; to avoid something by going another way.) — SYN: 迂回前进
+468. 绕道而行 (To go by a roundabout route; to avoid something by going another way.) — SYN: 避而远之
+469. 绕道而行 (To go by a roundabout route; to avoid something by going another way.) — ANT: 直行向前
+470. 绕道而行 (To go by a roundabout route; to avoid something by going another way.) — ANT: 迎难而上
+471. 扰乱秩序 (To disrupt the normal order of a place or event.) — SYN: 扰乱治安
+472. 扰乱秩序 (To disrupt the normal order of a place or event.) — ANT: 维持秩序
+473. 扰乱秩序 (To disrupt the normal order of a place or event.) — ANT: 遵纪守法
+474. 热情洋溢 (Full of warmth and enthusiasm.) — SYN: 热情好客
+475. 惹人怜爱 (So gentle and delicate that people want to cherish her.) — SYN: 招人疼爱
+476. 惹人讨厌 (So irritating or tactless that people dislike one.) — ANT: 招人喜爱
+477. 惹人讨厌 (So irritating or tactless that people dislike one.) — ANT: 惹人喜欢
+478. 人不犯我，我不犯人 (If others do not attack me, I will not attack them (but if they do, I will…) — SYN: 自卫反击
+479. 人不犯我，我不犯人 (If others do not attack me, I will not attack them (but if they do, I will…) — ANT: 主动出击
+480. 人才济济 (A wealth of talent.) — ANT: 人才匮乏
+481. 人才难得 (Talented people are rare and precious.) — SYN: 千里马难得
+482. 人到矮檐下——不得不低头 (When one is at someone else's mercy, one has to submit.) — ANT: 傲骨嶙峋
+483. 人到中年 (Having reached middle age, with its burdens and its perspective.) — SYN: 年过半百
+484. 人到中年 (Having reached middle age, with its burdens and its perspective.) — ANT: 年少轻狂
+485. 人到中年 (Having reached middle age, with its burdens and its perspective.) — ANT: 青春年少
+486. 人丁兴旺 (A family with many members, thriving.) — ANT: 人丁稀少
+487. 人多眼杂 (With many people around, you can't avoid being seen; so be discreet.) — SYN: 耳目众多
+488. 人多嘴杂 (With so many people around, everyone has a different say and secrets are hard…) — SYN: 众口纷纭
+489. 人而无信，不知其可也 (A person without good faith is hardly acceptable; I don't see what he can be…) — SYN: 信守承诺
+490. 人各有志 (Everyone has their own ambitions, and should not be forced.) — SYN: 志趣不同
+491. 人喊马嘶 (The din of men shouting and horses neighing, as in battle or a busy caravan.) — ANT: 寂静无声
+492. 人迹罕至 (Remote and seldom visited.) — SYN: 渺无人烟
+493. 人见人爱 (So charming that everyone who sees them likes them.) — SYN: 深受爱戴
+494. 人间重晚晴 (People prize the late clearing after rain; also read as cherishing the later…) — SYN: 夕阳无限好
+495. 忍俊不禁 (Unable to keep from laughing.) — ANT: 面无表情
+496. 人满为患 (So crowded that it becomes a problem.) — ANT: 空无一人
+497. 人面兽心 (A person who looks human but is cruel and wicked inside.) — ANT: 宅心仁厚
+498. 人民群众是真正的英雄 (A political saying that history is made by ordinary people, not by a few great…) — SYN: 人民至上
+499. 人民群众是真正的英雄 (A political saying that history is made by ordinary people, not by a few great…) — ANT: 英雄史观
+500. 人品端正 (Having honest, decent moral character.) — ANT: 道德败坏
+501. 任凭风浪起，稳坐钓鱼船 (However rough things get, stay calm and unmoved.) — SYN: 八风不动
+502. 人弃我取 (To buy up what others reject; to take a different course from the crowd, often…) — SYN: 别具慧眼
+503. 人勤春来早 (Hard-working people begin work early, so for them the spring season is felt…) — SYN: 早起三光
+504. 人琴俱亡 (Deep grief at the death of a loved one.) — SYN: 痛失亲人
+505. 人情世故 (The unwritten social rules and ways of dealing with people.) — SYN: 世态人情
+506. 人情世态 (The way people feel and behave in society, especially its warmth and coldness.) — SYN: 世情冷暖
+507. 仁人君子 (A benevolent and morally upright person; also used as a respectful address to…) — SYN: 善人义士
+508. 任人宰割 (To be at the mercy of others, powerless to resist.) — ANT: 奋起反抗
+509. 任人宰割 (To be at the mercy of others, powerless to resist.) — ANT: 自立自强
+510. 人善被人欺 (Too gentle a person is taken advantage of by others.) — SYN: 软弱可欺
+511. 人神共愤 (Enraging both people and gods.) — ANT: 人人称道
+512. 人生不如意事十之八九 (Life is full of disappointments, most things don't go as one hopes.) — SYN: 诸事不顺
+513. 人生无常 (Human life is uncertain and subject to sudden change.) — ANT: 稳定安宁
+514. 忍受屈辱 (To put up with insults and wrongs, often for a greater purpose or for lack of…) — ANT: 奋起反抗
+515. 忍痛割爱 (To part reluctantly with something one treasures.) — SYN: 割舍所爱
+516. 忍痛割爱 (To part reluctantly with something one treasures.) — SYN: 舍不得又舍得
+517. 人为刀俎，我为鱼肉 (A helpless person at the mercy of a powerful one, who can do as they please.) — ANT: 主动出击
+518. 人微权轻 (Low in status and power.) — ANT: 位高权重
+519. 人微言轻 (A person of low status has little say.) — ANT: 位高权重
+520. 人文荟萃 (A place where cultural figures and heritage gather.) — ANT: 文化荒漠
+521. 人误地一时，地误人一年 (Missing the right time for farm work harms the whole year's harvest.) — SYN: 不误农时
+522. 人心不古 (People aren't as honest as they used to be.) — SYN: 道德沦丧
+523. 人心不古 (People aren't as honest as they used to be.) — ANT: 民风淳朴
+524. 人心都是肉长的 (Everyone has feelings, so kindness will be met with kindness.) — ANT: 冷血无情
+525. 人心换人心，八两换半斤 (Sincerity is repaid with sincerity; if you treat others well they will treat…) — SYN: 以诚相待
+526. 人心惶惶 (Everyone gripped by anxiety.) — ANT: 人心安定
+527. 仁心仁术 (A caring heart together with excellent professional skill, of a doctor.) — ANT: 医德败坏
+528. 人烟稀少 (Few people live there.) — ANT: 人烟稠密
+529. 人在做，天在看 (Whatever people do, Heaven sees it; wrongdoing will not go unpunished.) — SYN: 善恶有报
+530. 人赃俱获 (To catch the criminal together with the stolen goods.) — SYN: 当场抓获
+531. 仁者乐山，智者乐水 (The benevolent find joy in mountains, the wise in water.) — SYN: 流连山水
+532. 仁者乐山，智者乐水 (The benevolent find joy in mountains, the wise in water.) — ANT: 不爱山水
+533. 人之常情 (A feeling or reaction that is natural for most people.) — SYN: 情理之中
+534. 人之常情 (A feeling or reaction that is natural for most people.) — ANT: 有悖常理
+535. 人中之龙 (An exceptional person who stands far above the rest.) — SYN: 人中龙凤
+536. 认祖归宗 (To acknowledge one's ancestors and rejoin the family line.) — SYN: 寻根问祖
+537. 日不暇给 (To be so busy that one has no spare time at all.) — SYN: 忙得不可开交
+538. 日高三丈 (The sun is already high in the sky; it is late in the morning.) — ANT: 东方欲晓
+539. 日进斗金 (To rake in money; very lucrative.) — SYN: 日进千金
+540. 日就月将 (Steady progress day by day and month by month.) — ANT: 原地踏步
+541. 日上三竿 (The sun is high in the sky; it is late morning.) — ANT: 天刚破晓
+542. 日甚一日 (Getting more serious with every passing day; used mainly of bad things growing…) — ANT: 日渐好转
+543. 日夜兼程 (To travel without stopping day and night.) — ANT: 走走停停
+544. 日月经天 (Of lasting glory, as constant and bright as the sun and moon crossing the…) — SYN: 光照千秋
+545. 容光焕发 (Face shining with health and vigour.) — ANT: 憔悴不堪
+546. 荣归故里 (To go back to one's hometown covered in honour.) — ANT: 落魄而归
+547. 柔能克刚 (Gentleness and flexibility can overcome force and strength.) — ANT: 以硬碰硬
+548. 如此而已 (That's all; nothing more.) — SYN: 就这么回事
+549. 如此而已 (That's all; nothing more.) — ANT: 不止于此
+550. 如花美眷 (A beautiful woman, like a flower; a beloved wife or lover. Often sighed over…) — SYN: 娇妻美妾
+551. 如花美眷，似水流年 (Beautiful love and a lovely lady are no match for time, which flows by like…) — ANT: 青春常驻
+552. 如簧之舌 (A glib, persuasive tongue that can say anything; usually disapproving.) — ANT: 口讷言迟
+553. 如芒在背 (Extremely uneasy, as if thorns were pricking one's back.) — ANT: 安然自得
+554. 如鸟兽散 (To scatter in all directions, like frightened birds and animals.) — SYN: 四散奔逃
+555. 如泣如诉 (Sounding like weeping and complaining; mournfully moving.) — SYN: 哀婉凄切
+556. 如切如磋 (Like cutting and polishing bone or ivory; to discuss and learn from one another…) — SYN: 相互砥砺
+557. 如人饮水，冷暖自知 (Only you know how you really feel or what an experience is like.) — SYN: 甘苦自知
+558. 入室弟子 (A pupil who has been personally taught by a master and has learned his best…) — SYN: 亲传弟子
+559. 如释重负 (To feel relieved, as if a heavy load had been lifted.) — SYN: 轻松自在
+560. 入吾彀中 (Someone has fallen into one's trap or been recruited into one's circle.) — SYN: 笼络人才
+561. 软磨硬泡 (To pester someone persistently, using both coaxing and pressure, until they…) — ANT: 一口回绝
+562. 软磨硬泡 (To pester someone persistently, using both coaxing and pressure, until they…) — ANT: 断然拒绝
+563. 软弱无力 (Feeble and lacking strength or force, physically or in effect.) — SYN: 虚弱不堪
+564. 软弱无能 (Weak in will and unable to get things done.) — SYN: 庸碌无能
+565. 软弱无能 (Weak in will and unable to get things done.) — SYN: 孱弱无力
+566. 软弱无能 (Weak in will and unable to get things done.) — ANT: 坚强有力
+567. 软玉温香 (A woman's soft, warm, sweet-smelling body; a literary and slightly erotic image…) — SYN: 玉软花柔
+568. 瑞雪兆丰年 (A good fall of winter snow foretells a plentiful harvest.) — ANT: 旱魃为虐
+569. 弱国无外交 (A nation without strength cannot make its voice count in international affairs.) — ANT: 强国无敌
+570. 若即若离 (Seeming both close and distant; neither near nor far.) — SYN: 似近似远
+571. 弱肉强食 (The weak are prey for the strong; survival of the fittest.) — ANT: 互助互爱
+572. 若有所失 (To feel vaguely that something is missing, with a sense of emptiness.) — SYN: 空落落的
+573. 若有所思 (Looking as if one is pondering something.) — SYN: 陷入沉思
+574. 塞外风光 (Vast frontier scenery of the northern grasslands and deserts, beyond the…) — SYN: 大漠风光
+575. 三朝元老 (A veteran who has served through several reigns or leaderships; a long-serving…) — SYN: 元老重臣
+576. 三朝元老 (A veteran who has served through several reigns or leaderships; a long-serving…) — ANT: 后生晚辈
+577. 三尺童子 (A small child; used to say that even a young child knows something.) — SYN: 垂髫小儿
+578. 三从四德 (The traditional code for women: obey father, husband and son, and cultivate…) — ANT: 男女平等
+579. 三寸不烂之舌 (Great skill at persuading with words.) — ANT: 口拙舌笨
+580. 三寸金莲 (The tiny bound feet of women in imperial China, once admired as a mark of…) — SYN: 小脚
+581. 三寸金莲 (The tiny bound feet of women in imperial China, once admired as a mark of…) — SYN: 金莲
+582. 三寸金莲 (The tiny bound feet of women in imperial China, once admired as a mark of…) — ANT: 天足
+583. 三大纪律八项注意 (The code of conduct of the Chinese Red Army and PLA, including respect for the…) — SYN: 军纪严明
+584. 三大纪律八项注意 (The code of conduct of the Chinese Red Army and PLA, including respect for the…) — ANT: 军纪涣散
+585. 三纲五常 (Traditional Confucian ethics: ruler–subject, father–son and husband–wife, with…) — SYN: 伦理纲常
+586. 三纲五常 (Traditional Confucian ethics: ruler–subject, father–son and husband–wife, with…) — ANT: 自由平等
+587. 三宫六院 (The emperor's many consorts and the palaces they lived in; the imperial harem.) — SYN: 后宫佳丽
+588. 三宫六院 (The emperor's many consorts and the palaces they lived in; the imperial harem.) — ANT: 一夫一妻
+589. 三顾频烦 (To pay repeated visits to invite a worthy person; also the earnestness of the…) — ANT: 怠慢贤才
+590. 三过家门而不入 (Yu the Great, busy taming the floods, passed his home three times without…) — ANT: 因私废公
+591. 三皇五帝 (The legendary rulers of remote Chinese antiquity, before recorded history.) — SYN: 上古时代
+592. 三皇五帝 (The legendary rulers of remote Chinese antiquity, before recorded history.) — SYN: 远古时期
+593. 三皇五帝 (The legendary rulers of remote Chinese antiquity, before recorded history.) — ANT: 当今时代
+594. 三皇五帝 (The legendary rulers of remote Chinese antiquity, before recorded history.) — ANT: 现代社会
+595. 三六九等 (Various grades and ranks; a hierarchy of status.) — SYN: 等级森严
+596. 三六九等 (Various grades and ranks; a hierarchy of status.) — SYN: 高低贵贱
+597. 三媒六聘 (The full traditional procedure for a proper marriage; a formal, proper…) — SYN: 八抬大轿
+598. 三年之丧 (The Confucian rule that a son mourns his parent for three years (in practice…) — ANT: 夺情起复
+599. 三妻四妾 (Having many wives and concubines, as under the old polygamous system.) — SYN: 妻妾成群
+600. 三妻四妾 (Having many wives and concubines, as under the old polygamous system.) — ANT: 一夫一妻
+601. 三拳两脚 (A few quick blows; dispatching an opponent easily.) — ANT: 久战不下
+602. 三人成虎 (Repeated rumours come to be believed.) — ANT: 澄清事实
+603. 三三两两 (In twos and threes; a few people here and there.) — SYN: 零零落落
+604. 三三两两 (In twos and threes; a few people here and there.) — SYN: 稀稀拉拉
+605. 三山五岳 (Famous mountains all over China; by extension, every corner of the land.) — ANT: 一隅之地
+606. 三生石上 (A karmic bond across lifetimes, especially a predestined friendship or romance,…) — SYN: 前世姻缘
+607. 三生石上 (A karmic bond across lifetimes, especially a predestined friendship or romance,…) — ANT: 缘分已尽
+608. 三生有幸 (To feel extremely fortunate, as if blessed over three lifetimes; a polite…) — ANT: 倒霉透顶
+609. 三豕渡河 (A copying error in a text; a classic story of misreading characters.) — ANT: 一字不差
+610. 三豕渡河 (A copying error in a text; a classic story of misreading characters.) — ANT: 校雠精审
+611. 三十六计，走为上计 (Of the thirty-six stratagems, retreat is best: when the situation is hopeless,…) — ANT: 死战到底
+612. 三十年河东，三十年河西 (For thirty years the river runs on the east side, then thirty on the west:…) — SYN: 盛衰无常
+613. 三十年河东，三十年河西 (For thirty years the river runs on the east side, then thirty on the west:…) — ANT: 永世不变
+614. 三思而后行 (Think it over carefully before acting.) — ANT: 草率行事
+615. 三下五除二 (Quickly and briskly; with no fuss.) — SYN: 手脚麻利
+616. 三阳开泰 (A New Year wish: the year begins with good fortune.) — ANT: 灾祸连连
+617. 丧尽天良 (Completely devoid of conscience.) — SYN: 泯灭人性
+618. 丧尽天良 (Completely devoid of conscience.) — ANT: 良心未泯
+619. 丧尽天良 (Completely devoid of conscience.) — ANT: 宅心仁厚
+620. 丧权辱国 (To surrender national rights and bring disgrace on the country.) — SYN: 割地求和
+621. 丧失理智 (To lose the ability to think calmly and judge sensibly.) — SYN: 昏头昏脑
+622. 丧失理智 (To lose the ability to think calmly and judge sensibly.) — ANT: 冷静克制
+623. 丧失理智 (To lose the ability to think calmly and judge sensibly.) — ANT: 保持理智
+624. 桑榆暮景 (Old age or the twilight years of life; also the late stage of a business or a…) — ANT: 少年得志
+625. 桑梓之情 (Affection for one's hometown; 桑梓 (mulberry and catalpa trees planted near…) — SYN: 故土之恋
+626. 桑梓之情 (Affection for one's hometown; 桑梓 (mulberry and catalpa trees planted near…) — SYN: 乡土情怀
+627. 扫地出门 (To be thrown out of one's home with nothing, as if swept away with the rubbish.) — SYN: 逐出家门
+628. 搔首踟蹰 (To scratch one's head and dither, anxious and unsure; originally of a lover…) — ANT: 果断行事
+629. 搔首弄姿 (To pose coquettishly to show off one's looks.) — ANT: 朴素自然
+630. 扫榻以待 (To tidy the guest bed in advance: to welcome a guest warmly.) — SYN: 扫径迎宾
+631. 色彩斑斓 (Full of bright colours of many different kinds.) — ANT: 单调乏味
+632. 色彩鲜明 (Having vivid, strongly contrasting colours; also, of a style or stance, having…) — ANT: 色彩单调
+633. 色即是空 (In Buddhism, all material things arise from conditions and have no fixed nature…) — SYN: 万法皆空
+634. 色即是空 (In Buddhism, all material things arise from conditions and have no fixed nature…) — ANT: 执着于色
+635. 色即是空 (In Buddhism, all material things arise from conditions and have no fixed nature…) — ANT: 贪恋红尘
+636. 色厉内荏 (Stern in appearance but weak and timid within: a bluff.) — ANT: 内外如一
+637. 色衰爱弛 (When a woman's looks fade, the favour she enjoyed declines; a warning about…) — SYN: 日久情疏
+638. 色衰爱弛 (When a woman's looks fade, the favour she enjoyed declines; a warning about…) — ANT: 恩爱如初
+639. 色香味俱全 (Looking, smelling and tasting excellent — the ideal dish.) — ANT: 难以下咽
+640. 色艺双绝 (Peerless in both looks and artistry; said of a woman performer.) — SYN: 艺压群芳
+641. 沙锅里捣蒜——一锤子买卖 (A one-off transaction with no thought for the future.) — ANT: 长期合作
+642. 杀人不见血 (To ruin someone by cunning and covert means, leaving no obvious trace of…) — SYN: 阴险毒辣
+643. 杀人偿命 (A killer must pay for the crime with his own life.) — SYN: 以命抵命
+644. 杀人如麻 (To kill people in huge numbers; extremely brutal.) — SYN: 嗜杀成性
+645. 杀人如麻 (To kill people in huge numbers; extremely brutal.) — ANT: 宅心仁厚
+646. 歃血为盟 (To seal an alliance or oath by smearing one's mouth with blood of a sacrificed…) — SYN: 立誓结盟
+647. 煞有介事 (Acting as if something were real or important when it is not.) — SYN: 若有其事
+648. 善罢甘休 (To let a matter drop quietly; mostly used in the negative.) — SYN: 罢手言和
+649. 山不转水转 (Even if the road does not turn, the river does: people who part ways may well…) — SYN: 世界真小
+650. 山高路远 (A long and difficult journey; often an excuse for seldom visiting.) — ANT: 一步之遥
+651. 山光水色 (Beautiful landscape scenery of hills and water.) — ANT: 荒山秃岭
+652. 山河破碎 (The country is divided and ruined by war or invasion.) — ANT: 山河无恙
+653. 擅离职守 (To leave one's post without permission.) — SYN: 擅自离岗
+654. 山林隐逸 (A recluse living in the mountains and forests, away from worldly affairs; also…) — ANT: 官场得意
+655. 善男信女 (Devout Buddhist men and women; pious worshippers.) — SYN: 虔诚信徒
+656. 姗姗来迟 (To arrive late, taking one's time.) — SYN: 迟迟不来
+657. 姗姗来迟 (To arrive late, taking one's time.) — SYN: 姗姗而来
+658. 姗姗来迟 (To arrive late, taking one's time.) — ANT: 早早到场
+659. 山势险峻 (The mountains are steep and dangerous to climb.) — ANT: 地势平坦
+660. 山西老乡——爱吃醋 (Jealous (punning on 吃醋, 'to be jealous').) — ANT: 大度宽容
+661. 山肴野蔌 (Country food: game and greens gathered from the hills and fields.) — SYN: 农家风味
+662. 善有善报 (Good deeds are rewarded.) — ANT: 天道不公
+663. 善于交际 (Skilled at meeting and getting along with all kinds of people.) — ANT: 孤僻内向
+664. 善于谋划 (Skilled at thinking ahead and working out a plan.) — ANT: 谋划不周
+665. 善于谋划 (Skilled at thinking ahead and working out a plan.) — ANT: 盲目行事
+666. 善于指挥 (Skilled at leading and coordinating others toward a goal.) — ANT: 指挥无方
+667. 扇枕温衾 (To fan your parents' pillow in summer and warm their quilt in winter; to care…) — SYN: 孝养父母
+668. 上蹿下跳 (To dash around busily, like a monkey, causing trouble; to run about scheming.) — SYN: 四处奔走
+669. 上房拆梯子——不留后路 (To cut off someone's retreat, or one's own.) — SYN: 断其后路
+670. 伤风败俗 (Harming public morals and decency.) — SYN: 败坏风气
+671. 伤风败俗 (Harming public morals and decency.) — ANT: 良风美俗
+672. 赏功罚罪 (To reward those who deserve credit and punish wrongdoers.) — ANT: 赏罚不明
+673. 赏功罚罪 (To reward those who deserve credit and punish wrongdoers.) — ANT: 有功不赏
+674. 上梁不正下梁歪 (If those above behave badly, those below will follow.) — SYN: 风气败坏
+675. 上梁不正下梁歪 (If those above behave badly, those below will follow.) — ANT: 身正令行
+676. 上情下达 (Passing the leadership's decisions and information down to the grassroots.) — ANT: 上下隔绝
+677. 赏善罚恶 (To reward the good and punish the wicked; to apply fair rules.) — ANT: 赏罚不明
+678. 赏善罚恶 (To reward the good and punish the wicked; to apply fair rules.) — ANT: 是非不分
+679. 上山下乡 (The movement, mainly 1968-1978, in which millions of urban young people were…) — SYN: 下放劳动
+680. 赏心悦目 (Pleasing to the eye and delightful to the mind.) — SYN: 悦目娱心
+681. 稍安勿躁 (Be patient and calm for a while; do not be hasty.) — SYN: 耐心等待
+682. 少不更事 (Young and inexperienced.) — SYN: 涉世未深
+683. 少年老成 (Mature and steady beyond one's age.) — ANT: 幼稚无知
+684. 烧香拜佛 (To burn incense and pray before the Buddha; also used loosely of praying to…) — SYN: 焚香礼佛
+685. 烧香拜佛 (To burn incense and pray before the Buddha; also used loosely of praying to…) — SYN: 求神拜佛
+686. 稍逊一筹 (Slightly inferior; a little short of the other.) — SYN: 稍差一点
+687. 稍逊一筹 (Slightly inferior; a little short of the other.) — SYN: 稍显不足
+688. 少壮不努力，老大徒伤悲 (Those who do not work hard while young will regret it bitterly when old.) — SYN: 白首无成
+689. 少壮不努力，老大徒伤悲 (Those who do not work hard while young will regret it bitterly when old.) — ANT: 及时努力
+690. 少壮不努力，老大徒伤悲 (Those who do not work hard while young will regret it bitterly when old.) — ANT: 少壮有为
+691. 稍纵即逝 (Fleeting; gone in an instant if not seized.) — ANT: 经久不衰
+692. 舍本逐末 (To neglect the essentials and pursue trivia.) — SYN: 轻重倒置
+693. 舍本逐末 (To neglect the essentials and pursue trivia.) — ANT: 抓住根本
+694. 设下圈套 (To lay a trap or scheme in order to lure someone into trouble.) — SYN: 布下陷阱
+695. 深表歉意 (To apologise sincerely and formally.) — SYN: 诚挚道歉
+696. 深表歉意 (To apologise sincerely and formally.) — ANT: 毫无歉意
+697. 身不得，男儿列，心却比，男儿烈 (A woman's lament and defiance: barred from a man's place in society, her heart…) — ANT: 自甘平庸
+698. 水火无情 (Floods and fires are merciless.) — SYN: 天灾无情
+699. 水漫金山 (Floodwater overwhelming everything, after the White Snake's flooding of Jinshan…) — SYN: 洪水泛滥
+700. 水漫金山 (Floodwater overwhelming everything, after the White Snake's flooding of Jinshan…) — ANT: 涓涓细流
+701. 水木清华 (Fresh and lovely scenery of water and trees; also the name of a Tsinghua campus…) — SYN: 清幽雅致
+702. 水泄不通 (So crowded or tightly sealed that not even water could get through.) — ANT: 空无一人
+703. 四季分明 (Having clearly different spring, summer, autumn and winter.) — ANT: 终年酷暑
+704. 四书五经 (The Four Books and Five Classics, the core texts of Confucianism.) — SYN: 诗书礼易
+705. 为非作歹 (To do evil and break the law.) — ANT: 为人民服务
+706. 以其昏昏，使人昭昭 (You cannot make others understand what you do not understand yourself.) — SYN: 盲人说象
+707. 援笔立成 (To write an essay or poem quickly and fluently, with almost no preparation.) — ANT: 下笔千言，离题万里
+708. 祖祖辈辈 (All one's forefathers over many generations.) — ANT: 后来之人
