@@ -1,10 +1,14 @@
 """Merge duplicate entries: (headword, duplicate) pairs. The duplicate becomes a variant of the headword."""
 import json, glob, os
-PAIRS = [
+PAIRS_ROUND1 = [
     ("三寸不烂之舌", "三寸之舌"), ("独具匠心", "匠心独运"), ("翻天覆地", "天翻地覆"), ("请君入瓮", "引君入瓮"),
     ("当头一棒", "当头棒喝"), ("糊里糊涂", "稀里糊涂"), ("身临其境", "亲临其境"), ("远水解不了近渴", "远水不解近渴"),
     ("失去理智", "丧失理智"), ("武大郎开店——比我高的不要", "武大郎开店——不容大个儿"),
 ]
+PAIRS = [
+    ("人不可貌相，海水不可斗量", "人不可貌相"), ("勤能补拙", "将勤补拙"), ("犬马之劳", "效犬马之劳"),
+    ("选贤任能", "选贤与能"), ("请神容易送神难", "请客容易送客难"),
+]  # round 2 (Opus decisions on the borderline list); round 1 is PAIRS_ROUND1, already applied
 files = {f: (open(f).read(),) for f in sorted(glob.glob('data/entries/*.json'))}
 files = {f: (raw, json.loads(raw)) for f, (raw,) in files.items()}
 by = {e['text']: (f, e) for f, (_, d) in files.items() for e in d}
