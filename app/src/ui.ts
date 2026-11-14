@@ -172,7 +172,7 @@ export function pageHeader(title: string, opts: { back?: boolean; right?: Child 
     "header",
     { class: "page-header" },
     opts.back ? h("button", { class: "icon-btn", "aria-label": "Back", onclick: () => history.back() }, "‹") : null,
-    h("h1", null, title),
+    title ? h("h1", null, title) : h("div", { class: "page-header-spacer" }),
     h("div", { class: "header-right" }, opts.right ?? null),
   );
 }

@@ -355,7 +355,7 @@ export async function renderMap(root: HTMLElement) {
     const layout = pack(radii, fr.w / 2 - 1.5, fr.h / 2 - 1.5);
     // Where these bubbles sat in the parent's preview, in this level's coordinates.
     const preview = pack(radii.slice(0, PREVIEW), (Math.min(fr.w, fr.h) / 2) * 0.94);
-    const svgRoot = svg("svg", { viewBox: fr.box.join(" "), class: "map-svg", role: "img", "aria-label": `${node.zh} ${node.en}` });
+    const svgRoot = svg("svg", { viewBox: fr.box.join(" "), class: "map-svg", role: "group", "aria-label": `${node.zh} ${node.en}` });
     const defs = svg("defs");
     const shadow = svg("filter", { id: "mapShadow", x: "-20%", y: "-20%", width: "140%", height: "140%" });
     shadow.appendChild(svg("feDropShadow", { dx: 0, dy: 0.5, stdDeviation: 0.7, "flood-opacity": dark() ? 0.5 : 0.18 }));

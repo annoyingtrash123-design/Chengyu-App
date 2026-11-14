@@ -87,6 +87,7 @@ export async function renderCrossword(root: HTMLElement) {
             "button",
             {
               class: cls,
+              "aria-label": text || (en() ? "Empty square" : "空格"),
               onclick: () => {
                 if (finished) {
                   const wi = x!.words.findIndex((_, i) => cellsOf(i).includes(k));

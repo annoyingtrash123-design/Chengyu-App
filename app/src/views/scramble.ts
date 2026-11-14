@@ -38,6 +38,7 @@ export async function renderScramble(root: HTMLElement) {
           "button",
           {
             class: `slot ${picked[i] !== undefined ? "filled" : ""}`,
+            "aria-label": picked[i] !== undefined ? s!.tiles[picked[i]] : en() ? `Empty square ${i + 1}` : `第 ${i + 1} 格（空）`,
             onclick: () => {
               if (solved || picked[i] === undefined) return;
               picked.splice(i, 1);

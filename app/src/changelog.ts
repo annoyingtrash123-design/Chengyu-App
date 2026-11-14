@@ -21,6 +21,7 @@ export const CHANGELOG: Release[] = [
       "Full synonym/antonym check of all 35,000 links: 1,270 wrong links removed (items that only shared a topic, \"opposites\" that were merely different, garbled phrases, second forms of the entry) and 7 moved to the right list; each was agreed by two independent reviewers or decided case by case in a final check.",
       "15 expressions that were stored twice are now one entry with a variant form (e.g. 天翻地覆 under 翻天覆地, 远水不解近渴 under 远水解不了近渴, 亲临其境 under 身临其境).",
       "Labels: 1,400 missing labels added where they clearly fit (e.g. 废寝忘食 and 孜孜不倦 now under 勤奋敬业 Diligence & dedication), checked against the rule that a label never covers both sides of an opposite.",
+      "Accessibility: grey text, tab labels, stars and source lines are darker so they meet contrast guidelines; keyboard users see a focus ring; screen readers get names for crossword and unscramble squares; no more empty page headings.",
       "Star ratings checked for coherence (upgrades only): 556 expressions raised to ★★★ (e.g. 失败是成功之母, 临时抱佛脚, 床前明月光，疑是地上霜) and 664 raised to ★★ (e.g. 血浓于水, 山外有山，天外有天).",
     ],
     zh: [
@@ -32,6 +33,7 @@ export const CHANGELOG: Release[] = [
       "全面核查约 35,000 条近义词/反义词关联：删除 1,270 条错误关联（仅话题相同、并非真正相反、表述有误或只是本词的另一种形式），7 条移到正确的列表；每处改动均经两位审校独立确认，或在终审中逐条裁定。",
       "15 个重复收录的说法合并为一个词条，另一种写法列为异形（如“天翻地覆”并入“翻天覆地”，“远水不解近渴”并入“远水解不了近渴”，“亲临其境”并入“身临其境”）。",
       "标签：补上 1,400 个明显适用却缺失的标签（如“废寝忘食”“孜孜不倦”加入“勤奋敬业”），并核对同一标签不会同时涵盖相反两面。",
+      "无障碍：灰色文字、底部标签、星级和出处颜色加深，符合对比度标准；键盘操作时显示焦点框；读屏软件可读出填字和拼字格子；去掉空的页面标题。",
       "统一核查星级（只升不降）：556 条升为 ★★★（如“失败是成功之母”“临时抱佛脚”“床前明月光，疑是地上霜”），664 条升为 ★★（如“血浓于水”“山外有山，天外有天”）。",
     ],
   },

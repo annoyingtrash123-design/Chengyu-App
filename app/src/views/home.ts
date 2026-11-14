@@ -46,12 +46,12 @@ export async function renderHome(root: HTMLElement) {
     return;
   }
   const date = new Date().toLocaleDateString(showEn ? "en-GB" : "zh-CN", { weekday: "long", day: "numeric", month: "long" });
-  const dots = h("div", { class: "daily-dots", role: "tablist" });
+  const dots = h("div", { class: "daily-dots", role: "group", "aria-label": showEn ? "Chengyu of the day" : "每日成语" });
   const track = h("div", { class: "daily-track" });
   const slides = details.map((d, i) =>
     h(
       "div",
-      { class: "daily-slide", role: "tabpanel", "aria-label": `${i + 1} / ${details.length}` },
+      { class: "daily-slide", role: "group", "aria-label": `${i + 1} / ${details.length}` },
       h(
         "div",
         { class: "row-between daily-bar" },

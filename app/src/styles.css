@@ -3,12 +3,13 @@
   --surface: #ffffff;
   --surface-2: #f0efeb;
   --ink: #1f2328;
-  --muted: #6b7078;
+  --muted: #5d6168; /* 5.9:1 on the page background (was 4.6:1) */
   --line: #e3e3df;
   --accent: #e03a2e;
   --accent-ink: #ffffff;
   --accent-soft: #fde4e1;
   --gold: #e0a800;
+  --gold-ink: #8a6400; /* gold for text: readable on white */
   --good: #1e9e6a;
   --good-soft: #dcf3e8;
   --bad: #d63a2e;
@@ -34,6 +35,7 @@
     --accent-ink: #1a0b09;
     --accent-soft: #46211e;
     --gold: #ffc233;
+    --gold-ink: #ffc233;
     --good: #3dd17b;
     --good-soft: #17352a;
     --bad: #ff7a6e;
@@ -81,12 +83,17 @@ button { cursor: pointer; }
 .tab-icon { font-family: var(--hanzi); font-size: 20px; line-height: 1.2; width: 34px; height: 30px; display: grid; place-items: center; border-radius: 10px; }
 .tab.active { color: var(--accent); }
 .tab .tab-label { color: var(--accent); }
-.tab:not(.active) .tab-label { opacity: .85; }
+.tab:not(.active) .tab-label { color: var(--muted); }
+.tab-label { font-size: 12px; }
 .tab.active .tab-icon { background: var(--accent-soft); }
 
 /* ---------- Headers ---------- */
 .page-header { display: flex; align-items: center; gap: 8px; min-height: 52px; position: sticky; top: 0; background: var(--bg); z-index: 5; }
 .page-header h1 { font-size: 20px; margin: 0; flex: 1; }
+.page-header-spacer { flex: 1; }
+/* A visible focus ring for keyboard users everywhere (mouse and touch taps don't show it). */
+:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+.search-input:focus-visible { border-color: var(--blue); }
 .header-right { display: flex; gap: 6px; align-items: center; }
 .icon-btn { background: none; border: none; font-size: 26px; line-height: 1; padding: 6px 10px; border-radius: 10px; color: var(--ink); }
 .icon-btn:active { background: var(--surface-2); }
@@ -108,7 +115,7 @@ button { cursor: pointer; }
 .center { text-align: center; justify-content: center; }
 .muted { color: var(--muted); }
 .small { font-size: 13px; }
-.eyebrow { font-size: 12px; color: var(--gold); font-weight: 600; letter-spacing: 0.04em; }
+.eyebrow { font-size: 12px; color: var(--gold-ink); font-weight: 600; letter-spacing: 0.04em; }
 .progress { height: 8px; background: var(--surface-2); border-radius: 99px; margin: 10px 0 14px; overflow: hidden; }
 .progress-bar { height: 100%; background: linear-gradient(90deg, var(--gold), var(--accent)); border-radius: 99px; transition: width 0.3s; }
 
@@ -180,7 +187,7 @@ button { cursor: pointer; }
 .hanzi { font-family: var(--hanzi); font-size: 22px; font-weight: 700; }
 .entry-row .hanzi { flex: 1; }
 .fav-mark { color: var(--accent); }
-.freq { color: var(--gold); font-size: 12px; letter-spacing: -1px; }
+.freq { color: var(--gold-ink); font-size: 12px; letter-spacing: -1px; }
 .pinyin { color: var(--muted); font-size: 14px; }
 .meaning { font-size: 15px; margin-top: 2px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .empty, .loading, .error { text-align: center; color: var(--muted); padding: 32px 8px; }
@@ -209,7 +216,7 @@ button { cursor: pointer; }
 .example { padding: 6px 0; border-top: 1px dashed var(--line); }
 .example:first-of-type { border-top: none; }
 mark { background: var(--accent-soft); color: inherit; border-radius: 3px; padding: 0 2px; }
-.source { font-family: var(--hanzi); color: var(--gold); font-weight: 600; }
+.source { font-family: var(--hanzi); color: var(--gold-ink); font-weight: 600; }
 .source-date { font-family: var(--sans); font-weight: 400; color: var(--muted, #888); font-size: 0.92em; }
 .links { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 4px 0; }
 .links-title { font-size: 13px; color: var(--muted); width: 100%; }
@@ -483,7 +490,7 @@ h1.hanzi-xl { margin: 0; }
 .map-bubble { cursor: pointer; }
 .map-bubble .bubble-body { transition: stroke-width 0.15s; }
 .map-bubble:hover .bubble-body, .map-bubble:focus-visible .bubble-body { stroke-width: 0.9; }
-.map-bubble:focus { outline: none; }
+.map-bubble:focus:not(:focus-visible) { outline: none; }
 .map-text text { text-anchor: middle; pointer-events: none; }
 .map-label { fill: var(--ink); font-weight: 650; }
 .map-sub { fill: var(--muted); }
