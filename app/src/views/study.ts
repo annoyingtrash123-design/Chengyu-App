@@ -86,7 +86,7 @@ export async function renderStudy(root: HTMLElement) {
 
   clear(
     root,
-    pageHeader(en() ? "Flashcards" : "记忆卡片"),
+    pageHeader(en() ? "Flashcards" : "记忆卡片", { back: true }),
     h(
       "section",
       { class: "card" },

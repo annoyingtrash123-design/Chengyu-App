@@ -1,6 +1,7 @@
 import { h, clear, en, pageHeader } from "../ui";
 
 const GAMES = [
+  { href: "#/study", icon: "学", zh: "记忆卡片", en: "Flashcards", descZh: "间隔重复复习：难的早点再见，熟的隔久一点", descEn: "Spaced-repetition study: hard cards come back sooner, easy ones later" },
   { href: "#/games/history", icon: "录", zh: "历史成绩", en: "Past results", descZh: "回看每局游戏用到的词语，答对和答错的", descEn: "Every game you finish, with the expressions it used" },
   { href: "#/games/quiz", icon: "测", zh: "测验", en: "Quiz", descZh: "选择题：释义、填字、例句、拼音、近反义", descEn: "Multiple choice: meanings, missing characters, sentences, tones, synonyms" },
   { href: "#/games/timed", icon: "时", zh: "限时挑战", en: "Timed challenge", descZh: "60 秒内答对越多越好", descEn: "Answer as many as you can in 60 seconds" },
@@ -15,7 +16,7 @@ const GAMES = [
 export function renderGames(root: HTMLElement) {
   clear(
     root,
-    pageHeader(en() ? "Games & tests" : "游戏与测验"),
+    pageHeader(en() ? "Study & games" : "学习与游戏"),
     h(
       "div",
       { class: "game-list" },

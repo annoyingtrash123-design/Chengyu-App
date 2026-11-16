@@ -29,7 +29,7 @@ const routes: [RegExp, View, string][] = [
   [/^\/dict$/, renderDictionary, "dict"],
   [/^\/list$/, renderList, "list"],
   [/^\/entry\/([\w-]+)$/, renderEntry, "keep"],
-  [/^\/study$/, renderStudy, "study"],
+  [/^\/study$/, renderStudy, "games"], // flashcards now live under the Games tab
   [/^\/games$/, renderGames, "games"],
   [/^\/games\/(quiz|timed)$/, renderQuiz, "games"],
   [/^\/games\/history$/, renderQuizHistory, "games"],
@@ -46,7 +46,6 @@ const TABS = [
   { id: "home", hash: "#/", icon: "首", zh: "首页", en: "Home" },
   { id: "dict", hash: "#/dict", icon: "典", zh: "词典", en: "Search" },
   { id: "list", hash: "#/list", icon: "表", zh: "列表", en: "List" },
-  { id: "study", hash: "#/study", icon: "学", zh: "学习", en: "Study" },
   { id: "games", hash: "#/games", icon: "戏", zh: "游戏", en: "Games" },
   { id: "me", hash: "#/me", icon: "我", zh: "我的", en: "Me" },
 ];
