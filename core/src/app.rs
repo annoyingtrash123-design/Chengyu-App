@@ -186,6 +186,39 @@ impl App {
         Some(pool[(hash64(today as u64) % pool.len() as u64) as usize])
     }
 
+    /// Home's picks for a day: `count` entries from the daily pool (★★★/★★ 成语), walking through a fixed
+    /// shuffled order so that no entry comes back until every one has been shown once; each full cycle
+    /// is reshuffled.
+    pub fn daily_set(&self, today: i64, count: usize) -> Vec<&Entry> {
+        let mut pool: Vec<&Entry> =
+            self.dict.entries().iter().filter(|e| e.kind == Kind::Chengyu && e.frequency <= 2).collect();
+        if pool.is_empty() {
+            pool = self.dict.entries().iter().collect();
+        }
+        let n = pool.len() as u64;
+        if n == 0 || count == 0 {
+            return Vec::new();
+        }
+        pool.sort_by(|a, b| a.id.cmp(&b.id));
+        let start = today.max(0) as u64 * count as u64;
+        let mut out = Vec::new();
+        let mut cycle_cache: Option<(u64, Vec<&Entry>)> = None;
+        for k in 0..count as u64 {
+            let pos = start + k;
+            let cycle = pos / n;
+            if cycle_cache.as_ref().map(|c| c.0) != Some(cycle) {
+                let mut order = pool.clone();
+                crate::rng::Rng::new(hash64(cycle ^ 0x5EED_DA11)).shuffle(&mut order);
+                cycle_cache = Some((cycle, order));
+            }
+            let e = cycle_cache.as_ref().unwrap().1[(pos % n) as usize];
+            if !out.iter().any(|x: &&Entry| x.id == e.id) {
+                out.push(e);
+            }
+        }
+        out
+    }
+
     fn entry_or_err(&self, id: &str) -> Result<&Entry, String> {
         self.dict.get(id).ok_or_else(|| format!("unknown entry `{id}`"))
     }
@@ -292,6 +325,10 @@ impl App {
                 json!(self.user.toggle_favourite(&id))
             }
             "daily" => json!(self.daily(today()?).map(|e| self.summary(e))),
+            "daily_set" => {
+                let count: usize = match opt::<usize>(args, "count")? { 0 => 5, n => n };
+                json!(self.daily_set(today()?, count).into_iter().map(|e| e.id.clone()).collect::<Vec<_>>())
+            }
             "study_queue" => {
                 let deck: Deck = opt(args, "deck")?;
                 let limit: usize = match opt::<usize>(args, "limit")? { 0 => 50, n => n };
@@ -575,6 +612,21 @@ mod tests {
     fn core_deck_is_capped() {
         let app = App::new(None);
         assert!(app.deck_ids(&Deck::Core).len() <= CORE_DECK_SIZE);
+    }
+
+    #[test]
+    fn daily_set_does_not_repeat_within_a_cycle() {
+        let app = App::new(None);
+        let n = app.dict.entries().iter().filter(|e| e.kind == Kind::Chengyu && e.frequency <= 2).count();
+        // Every day whose five picks fall inside the 5th cycle through the pool.
+        let (lo, hi) = (4 * n as i64, 5 * n as i64);
+        let mut seen = std::collections::HashSet::new();
+        for d in (lo + 4) / 5..=(hi - 5) / 5 {
+            for e in app.daily_set(d, 5) {
+                assert!(seen.insert(e.id.clone()), "{} repeated within a cycle", e.text);
+            }
+        }
+        assert_eq!(app.daily_set(20000, 5), app.daily_set(20000, 5));
     }
 
     #[test]

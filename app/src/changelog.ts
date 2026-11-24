@@ -10,6 +10,16 @@ export interface Release {
 
 export const CHANGELOG: Release[] = [
   {
+    version: "0.26",
+    date: "2026-11-24",
+    en: [
+      "Home's five chengyu of the day no longer repeat: they work through every ★★★/★★ chengyu (about 5,270, roughly three years) before any comes back, then start a new shuffled round.",
+    ],
+    zh: [
+      "首页每日五个成语不再重复：轮完全部 ★★★/★★ 成语（约 5,270 个，约三年）后才会再出现，然后重新打乱开始新一轮。",
+    ],
+  },
+  {
     version: "0.25",
     date: "2026-11-13",
     en: [

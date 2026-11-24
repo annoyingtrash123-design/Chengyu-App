@@ -126,6 +126,8 @@ export const api = {
   renameTag: (from: string, to: string) => call<null>("rename_tag", { from, to }),
   deleteTag: (name: string) => call<boolean>("delete_tag", { name }),
   daily: (day = today()) => call<Summary | null>("daily", { today: day }),
+  /** Today's Home picks: no entry repeats until the whole pool has been shown. */
+  dailySet: (count: number, day = today()) => call<string[]>("daily_set", { today: day, count }),
   studyQueue: (deck: Deck, limit = 50) => call<string[]>("study_queue", { deck, limit, today: today() }),
   deckSize: (deck: Deck) => call<number>("deck_size", { deck }),
   review: (id: string, grade: Grade) => call<Card>("review", { id, grade, today: today() }),

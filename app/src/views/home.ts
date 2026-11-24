@@ -8,16 +8,10 @@ const PER_DAY = 5;
 let shownIndex = 0;
 let shownDay = -1;
 
-/** Today's five chengyu: a stable pick per day (the first is the classic chengyu of the day). */
+/** Today's five chengyu: the next five from a shuffled order of the whole pool, so none repeats until
+ * every one has been shown once (then the order is reshuffled). The same five all day. */
 async function todaysFive(): Promise<string[]> {
-  const day = today();
-  const ids: string[] = [];
-  // Extra picks use seeds far from real day numbers so they never repeat another day's first pick.
-  for (let k = 0; ids.length < PER_DAY && k < PER_DAY * 4; k++) {
-    const s = await api.daily(k ? 1_000_000 + day * 16 + k : day);
-    if (s && !ids.includes(s.id)) ids.push(s.id);
-  }
-  return ids;
+  return api.dailySet(PER_DAY);
 }
 
 /** Home: today's five chengyu, each a full entry; swipe left and right between them. */
